@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 12:36:54
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 13:19:10
 </p>
 </blockquote>
 <p>
@@ -2243,6 +2243,12 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
 南方医科大学（热度：1248796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83619%E5%88%86%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E6%8A%8A%E5%84%BF%E5%AD%90%E5%96%8A%E9%86%92%23" target="weibo">
+女儿高考619分爸爸半夜把儿子喊醒（热度：1248208）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ Manner事件 不要为难服务人员（热度：723939）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E6%9C%88%E7%BA%A2%E7%AF%87be%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-狐妖月红篇be大结局（热度：710520）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6509,6 +6509,12 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%A2%E5%85%B0%E6%80%BB%E7%BB%9F%E6%9D%9C%E8%BE%BE%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同波兰总统杜达会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%A6%81%E9%9D%A0%E7%A7%91%E6%8A%80%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BD%9C%E6%94%AF%E6%92%91%23%23" target="weibo">
+#中国式现代化要靠科技现代化作支撑#
 </a>
 </li>
 

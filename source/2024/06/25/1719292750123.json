@@ -1,0 +1,410 @@
+{
+  "runTime": 1719292750123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1635996,
+        "num": 1635996,
+        "word": "荣梓杉 等补录",
+        "onboard_time": 1719287299,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1248208,
+        "num": 1248208,
+        "word": "女儿高考619分爸爸半夜把儿子喊醒",
+        "onboard_time": 1719289881,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 71100,
+        "num": 835383,
+        "word": "嫦娥六号发博提醒接收月球快递",
+        "onboard_time": 1719291020,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818495,
+        "num": 818495,
+        "word": "妈妈开心晒女儿高考438分",
+        "onboard_time": 1719281719,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 453782,
+        "num": 453782,
+        "word": "改试卷改到一张有答案的试卷",
+        "onboard_time": 1719281059,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453598,
+        "num": 453598,
+        "word": "于正在给吴谨言挑下一个剧本",
+        "onboard_time": 1719290242,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379620,
+        "num": 379620,
+        "word": "去年牵手跑出高考考场情侣后续",
+        "onboard_time": 1719281179,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1713299,
+        "num": 379361,
+        "word": "杨幂论文查重率",
+        "onboard_time": 1719282980,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377247,
+        "num": 377247,
+        "word": "丢十年的作品出现在玫瑰的故事",
+        "onboard_time": 1719288440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51527,
+        "num": 361119,
+        "word": "广播体操为何成年轻人短效孟婆汤",
+        "onboard_time": 1719291620,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 357724,
+        "num": 357724,
+        "word": "高考分数线",
+        "onboard_time": 1719285978,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345937,
+        "num": 345937,
+        "word": "谢霆锋回应和王菲打扮越来越像",
+        "onboard_time": 1719273799,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294411,
+        "num": 294411,
+        "word": "加沙有婴儿出生7个月只长0.6斤",
+        "onboard_time": 1719276439,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280823,
+        "num": 280823,
+        "word": "浙江高考分数线",
+        "onboard_time": 1719284780,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252883,
+        "num": 252883,
+        "word": "17年前考上985如今在工厂拧螺丝",
+        "onboard_time": 1719289520,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252504,
+        "num": 252504,
+        "word": "广东高考分数线",
+        "onboard_time": 1719284780,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248387,
+        "num": 248387,
+        "word": "河南一本上线155883人",
+        "onboard_time": 1719277698,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235523,
+        "num": 235523,
+        "word": "广西高考分数线",
+        "onboard_time": 1719292399,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47117,
+        "num": 232661,
+        "word": "想当一回贾玲的运动搭子",
+        "onboard_time": 1719290060,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230599,
+        "num": 230599,
+        "word": "度华年定档",
+        "onboard_time": 1719286038,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817346,
+        "num": 230093,
+        "word": "婚礼上取消了我不喜欢的环节",
+        "onboard_time": 1719285140,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622621,
+        "num": 228633,
+        "word": "去医院掏耳屎直接晕厥了",
+        "onboard_time": 1719287059,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226997,
+        "num": 226997,
+        "word": "当伴娘的刘亦菲",
+        "onboard_time": 1719282918,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403444,
+        "num": 226737,
+        "word": "加勒比海盗男演员遭鲨鱼攻击身亡",
+        "onboard_time": 1719290661,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379021,
+        "num": 225471,
+        "word": "常喝牛奶和不常喝奶的人真的差很多",
+        "onboard_time": 1719278058,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 289685,
+        "num": 223444,
+        "word": "故意考0分考生语文101英语95分",
+        "onboard_time": 1719292459,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266812,
+        "num": 222599,
+        "word": "考科目二被扣了一千多分",
+        "onboard_time": 1719290002,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252659,
+        "num": 221928,
+        "word": "经常喝茶与经常喝咖啡的人谁更年轻",
+        "onboard_time": 1719286880,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 236737,
+        "num": 220425,
+        "word": "这种水果很贵但营养价值一般",
+        "onboard_time": 1719287419,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227990,
+        "num": 219324,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1719291502,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218554,
+        "num": 218554,
+        "word": "安徽高考分数线",
+        "onboard_time": 1719277939,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217809,
+        "num": 217809,
+        "word": "长沙暴雨预警再升级",
+        "onboard_time": 1719288559,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214860,
+        "num": 214860,
+        "word": "苟姓准爸爸不想孩子再姓苟",
+        "onboard_time": 1719292339,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212958,
+        "num": 212958,
+        "word": "美国会称无法接受解放军装备武装机器狗",
+        "onboard_time": 1719291081,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 209764,
+        "word": "中国游客为啥不想去韩国旅游了",
+        "onboard_time": 1719288141,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 203322,
+        "num": 203322,
+        "word": "福建一男生高考语文满分",
+        "onboard_time": 1719292459,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201403,
+        "num": 201403,
+        "word": "质疑蒲熠星 理解黄子弘凡",
+        "onboard_time": 1719292041,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195637,
+        "num": 195637,
+        "word": "特控线",
+        "onboard_time": 1719291381,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191529,
+        "num": 191529,
+        "word": "清华北大为了抢人有多拼",
+        "onboard_time": 1719274938,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189460,
+        "num": 189460,
+        "word": "一个个提到刘亦菲都笑得合不拢嘴",
+        "onboard_time": 1719275599,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185066,
+        "num": 185066,
+        "word": "男朋友上班太困发错消息给领导了",
+        "onboard_time": 1719281119,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168531,
+        "num": 168531,
+        "word": "黑龙江分数线",
+        "onboard_time": 1719290242,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "光遇复刻",
+        "onboard_time": 1719288799,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163889,
+        "num": 163889,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158921,
+        "num": 158921,
+        "word": "王星越回应远景镜头偷笑",
+        "onboard_time": 1719292160,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154244,
+        "num": 154244,
+        "word": "肖战纯白POLO衫",
+        "onboard_time": 1719291261,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149616,
+        "num": 149616,
+        "word": "职高生超一本线43分圆大学梦",
+        "onboard_time": 1719290300,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 147541,
+        "num": 147541,
+        "word": "美乐蒂装扮",
+        "onboard_time": 1719289220,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142842,
+        "num": 142842,
+        "word": "老人用了20多年的锤子竟是手榴弹",
+        "onboard_time": 1719272057,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142786,
+        "num": 142786,
+        "word": "狗狗好像给我生了个孩子",
+        "onboard_time": 1719291261,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化要靠科技现代化作支撑#"
+    }
+  }
+}
