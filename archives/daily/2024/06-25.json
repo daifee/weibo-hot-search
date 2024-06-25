@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719307243078,
+  "endTime": 1719308087297,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1526102,
-      "num": 1526102,
+      "raw_hot": 1631935,
+      "num": 1631935,
       "word": "教育局回应女生拿6双筷子被斥盗窃",
       "onboard_time": 1719302960,
       "rank": 27,
@@ -219,6 +219,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 832425,
+      "num": 832425,
+      "word": "警方通报苏州持刀伤人案件",
+      "onboard_time": 1719304099,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795355,
       "num": 273572,
       "word": "去医院掏耳屎直接晕厥了",
@@ -232,6 +240,14 @@
       "word": "福建一男生高考语文满分",
       "onboard_time": 1719292459,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774040,
+      "num": 235866,
+      "word": "男子用麻精药品迷奸多名女性被判无期",
+      "onboard_time": 1719305179,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -251,28 +267,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 734680,
-      "num": 235866,
-      "word": "男子用麻精药品迷奸多名女性被判无期",
-      "onboard_time": 1719305179,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 734070,
       "num": 734070,
       "word": "光遇复刻",
       "onboard_time": 1719288799,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 710293,
-      "num": 710293,
-      "word": "警方通报苏州持刀伤人案件",
-      "onboard_time": 1719304099,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700550,
@@ -321,6 +321,14 @@
       "onboard_time": 1719293539,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 611884,
+      "num": 232760,
+      "word": "长期不吃晚饭的人最终怎么了",
+      "onboard_time": 1719303079,
+      "rank": 41,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 609677,
@@ -433,14 +441,6 @@
       "onboard_time": 1719291081,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 468912,
-      "num": 232760,
-      "word": "长期不吃晚饭的人最终怎么了",
-      "onboard_time": 1719303079,
-      "rank": 41,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 462346,
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362492,
+      "num": 362492,
+      "word": "筷子女王",
+      "onboard_time": 1719304638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360055,
       "num": 360055,
       "word": "北京高考分数线",
@@ -649,14 +657,6 @@
       "onboard_time": 1719301521,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 322956,
-      "num": 322956,
-      "word": "筷子女王",
-      "onboard_time": 1719304638,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 320583,
@@ -795,6 +795,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 270430,
+      "num": 270430,
+      "word": "外交部回应日本公民在苏州遇袭",
+      "onboard_time": 1719303557,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267952,
+      "num": 209077,
+      "word": "当代年轻人戴手串现状",
+      "onboard_time": 1719306198,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266812,
       "num": 234698,
       "word": "考科目二被扣了一千多分",
@@ -811,20 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263940,
-      "num": 263940,
-      "word": "外交部回应日本公民在苏州遇袭",
-      "onboard_time": 1719303557,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263934,
       "num": 263934,
       "word": "河南一分一段",
       "onboard_time": 1719271755,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261383,
+      "num": 261383,
+      "word": "杨幂论文字数",
+      "onboard_time": 1719305359,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 256488,
@@ -856,14 +872,6 @@
       "word": "六点钟下班真的太晚了",
       "onboard_time": 1719279797,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 241950,
-      "num": 241950,
-      "word": "杨幂论文字数",
-      "onboard_time": 1719305359,
-      "rank": 18,
       "category": "情感"
     },
     {
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227556,
+      "num": 405379,
+      "word": "嫦娥六号月球快递今天送达",
+      "onboard_time": 1719295400,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227123,
       "num": 395537,
       "word": "为什么你赢不了嘴强亲戚",
@@ -947,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220027,
+      "num": 220027,
+      "word": "宋慧乔裴秀智林智妍同框照",
+      "onboard_time": 1719307039,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217553,
       "num": 175190,
       "word": "某韩国男星性侵18岁女学生",
@@ -971,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209077,
-      "num": 209077,
-      "word": "当代年轻人戴手串现状",
-      "onboard_time": 1719306198,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 214885,
+      "num": 214885,
+      "word": "逆水寒手游 齐天大圣",
+      "onboard_time": 1719307578,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 208677,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1719302358,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 204171,
-      "num": 405379,
-      "word": "嫦娥六号月球快递今天送达",
-      "onboard_time": 1719295400,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204150,
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196180,
+      "num": 196180,
+      "word": "NewJeans受到死亡威胁",
+      "onboard_time": 1719307759,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195818,
       "num": 195818,
       "word": "长相思第一季名场面回顾",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1719271094,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192246,
+      "num": 192246,
+      "word": "虞书欣 中餐厅ootd",
+      "onboard_time": 1719307878,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 191759,
@@ -1395,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163086,
+      "num": 163086,
+      "word": "袭击日本母子凶手已被抓",
+      "onboard_time": 1719306499,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162816,
       "num": 162816,
       "word": "起火电池厂员工工资为韩国最低时薪",
@@ -1619,11 +1659,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 140406,
-      "num": 140406,
-      "word": "袭击日本母子凶手已被抓",
-      "onboard_time": 1719306499,
-      "rank": 38,
+      "raw_hot": 140982,
+      "num": 140982,
+      "word": "高考708分考生计划假期做家教",
+      "onboard_time": 1719306138,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1657,14 +1697,6 @@
       "onboard_time": 1719229698,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138483,
-      "num": 138483,
-      "word": "宋慧乔裴秀智林智妍同框照",
-      "onboard_time": 1719307039,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138375,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1719234620,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134370,
+      "num": 713317,
+      "word": "嫦娥六号月背挖宝回来了",
+      "onboard_time": 1719304938,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131918,
@@ -1803,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125302,
+      "num": 125302,
+      "word": "体测800m跑5分20秒经验分享",
+      "onboard_time": 1719305898,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125097,
       "num": 125097,
       "word": "金智秀巴黎大秀造型",
@@ -1851,12 +1899,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 121218,
+      "num": 116866,
+      "word": "刘亦菲认出朱珠唇印",
+      "onboard_time": 1719307998,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120888,
       "num": 120888,
       "word": "黄振华和黄亦玫的年龄差有多大",
       "onboard_time": 1719294019,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119598,
+      "num": 119598,
+      "word": "没有人比张艺兴更怀念当年",
+      "onboard_time": 1719305719,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 118324,
@@ -1915,14 +1979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113298,
-      "num": 113298,
-      "word": "体测800m跑5分20秒经验分享",
-      "onboard_time": 1719305898,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112754,
       "num": 479921,
       "word": "人社局执法大队上门调查Manner",
@@ -1939,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110996,
-      "num": 110996,
-      "word": "高考708分考生计划假期做家教",
-      "onboard_time": 1719306138,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110096,
       "num": 110096,
       "word": "何洁听尚雯婕哭了",
@@ -1959,22 +2007,6 @@
       "num": 1115982,
       "word": "嫦娥六号发博提醒接收月球快递",
       "onboard_time": 1719291020,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106179,
-      "num": 110435,
-      "word": "没有人比张艺兴更怀念当年",
-      "onboard_time": 1719305719,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 105234,
-      "num": 713317,
-      "word": "嫦娥六号月背挖宝回来了",
-      "onboard_time": 1719304938,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2323,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18804,
+      "num": 138655,
+      "word": "外语类专业考研难吗",
+      "onboard_time": 1719306021,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 15902,
       "num": 51724,
       "word": "直击湖南暴雨现场",
@@ -2337,14 +2377,6 @@
       "onboard_time": 1719246316,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15511,
-      "num": 138655,
-      "word": "外语类专业考研难吗",
-      "onboard_time": 1719306021,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 15112,
