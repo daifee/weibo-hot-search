@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719278453992,
+  "endTime": 1719279716960,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3955,6 +3955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1096340,
+      "num": 1096340,
+      "word": "清华北大为了抢人有多拼",
+      "onboard_time": 1719274938,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1095667,
       "num": 220231,
       "word": "你觉得36元一个泡芙贵吗",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1719052037,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 955441,
-      "num": 955441,
-      "word": "清华北大为了抢人有多拼",
-      "onboard_time": 1719274938,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 954818,
@@ -7011,6 +7011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 757643,
+      "num": 757643,
+      "word": "加沙有婴儿出生7个月只长0.6斤",
+      "onboard_time": 1719276439,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 757625,
       "num": 608885,
       "word": "赵露思状态",
@@ -8819,6 +8827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 665536,
+      "num": 665536,
+      "word": "一个个提到刘亦菲都笑得合不拢嘴",
+      "onboard_time": 1719275599,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665086,
       "num": 506997,
       "word": "陈奕迅腮骨骨裂",
@@ -8841,14 +8857,6 @@
       "onboard_time": 1718343978,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663882,
-      "num": 642442,
-      "word": "一个个提到刘亦菲都笑得合不拢嘴",
-      "onboard_time": 1719275599,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 663803,
@@ -8939,14 +8947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 661523,
-      "num": 661523,
-      "word": "加沙有婴儿出生7个月只长0.6斤",
-      "onboard_time": 1719276439,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 661276,
       "num": 580202,
       "word": "徐娇五分钟两次五杀",
@@ -8985,6 +8985,14 @@
       "onboard_time": 1717944799,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 660385,
+      "num": 277056,
+      "word": "常喝牛奶和不常喝奶的人真的差很多",
+      "onboard_time": 1719278058,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 660293,
@@ -13971,6 +13979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485056,
+      "num": 485056,
+      "word": "北大教授建议年轻人不要躺平继续卷",
+      "onboard_time": 1719278058,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 484832,
       "num": 479943,
       "word": "想去林更新微博说两句但我骂不过他",
@@ -14433,6 +14449,14 @@
       "onboard_time": 1718755758,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473523,
+      "num": 473523,
+      "word": "安徽高考分数线",
+      "onboard_time": 1719277939,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 473383,
@@ -16163,6 +16187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433540,
+      "num": 279288,
+      "word": "黄子韬首次担任综艺出品人",
+      "onboard_time": 1719278119,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433318,
       "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
@@ -17745,6 +17777,14 @@
       "onboard_time": 1718931858,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399871,
+      "num": 399871,
+      "word": "陈娴回应",
+      "onboard_time": 1719278417,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 399640,
@@ -20211,6 +20251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353213,
+      "num": 281402,
+      "word": "我的家政阿姨想当我妹的婆婆",
+      "onboard_time": 1719276140,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353109,
       "num": 280084,
       "word": "GAI劝rapper回去考研",
@@ -20499,14 +20547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347198,
-      "num": 281402,
-      "word": "我的家政阿姨想当我妹的婆婆",
-      "onboard_time": 1719276140,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347158,
       "num": 203812,
       "word": "江浙沪独女配套马杆汉子",
@@ -20665,14 +20705,6 @@
       "onboard_time": 1718787501,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 344035,
-      "num": 279288,
-      "word": "黄子韬首次担任综艺出品人",
-      "onboard_time": 1719278119,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 343943,
@@ -21105,14 +21137,6 @@
       "onboard_time": 1718348659,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338176,
-      "num": 338176,
-      "word": "安徽高考分数线",
-      "onboard_time": 1719277939,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 337547,
@@ -22347,6 +22371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318386,
+      "num": 318386,
+      "word": "江西分数线",
+      "onboard_time": 1719279019,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 318284,
       "num": 318284,
       "word": "yuyanjia爆料老头杯奖金发礼物",
@@ -22897,14 +22929,6 @@
       "onboard_time": 1717748838,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 264429,
-      "word": "常喝牛奶和不常喝奶的人真的差很多",
-      "onboard_time": 1719278058,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 308791,
@@ -33931,14 +33955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203746,
-      "num": 203746,
-      "word": "北大教授建议年轻人不要躺平继续卷",
-      "onboard_time": 1719278058,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 203732,
       "num": 202242,
       "word": "玫瑰的故事卷首语",
@@ -34865,6 +34881,14 @@
       "onboard_time": 1718433797,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199948,
+      "num": 199948,
+      "word": "无意识却能攒钱的习惯",
+      "onboard_time": 1719277878,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 199884,
@@ -39345,14 +39369,6 @@
       "onboard_time": 1717335499,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181770,
-      "num": 181770,
-      "word": "无意识却能攒钱的习惯",
-      "onboard_time": 1719277878,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 181742,
@@ -48331,6 +48347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146297,
+      "num": 146297,
+      "word": "湖北分数线",
+      "onboard_time": 1719277760,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -49147,6 +49171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142524,
+      "num": 183404,
+      "word": "河南高考600分及以上25623人",
+      "onboard_time": 1719279258,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142515,
       "num": 142515,
       "word": "王一博登上世趋第一",
@@ -49305,6 +49337,14 @@
       "onboard_time": 1718165060,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142046,
+      "num": 142046,
+      "word": "iOS18能下载更大应用了",
+      "onboard_time": 1719278960,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 142018,
@@ -55219,14 +55259,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122434,
-      "num": 122434,
-      "word": "湖北分数线",
-      "onboard_time": 1719277760,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122418,
       "num": 122418,
       "word": "晨跑时我被一窝小猫选中了",
@@ -55457,6 +55489,14 @@
       "onboard_time": 1718124016,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121256,
+      "num": 183519,
+      "word": "阿桑奇或将认罪",
+      "onboard_time": 1719277698,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 121207,
@@ -56113,6 +56153,14 @@
       "onboard_time": 1717551439,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 118718,
+      "num": 118718,
+      "word": "沙特杯官宣LOL项目赛程",
+      "onboard_time": 1719279438,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 118670,
@@ -56971,14 +57019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115612,
-      "num": 115612,
-      "word": "陈娴回应",
-      "onboard_time": 1719278417,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 115592,
       "num": 115592,
       "word": "上海街头brunch",
@@ -57651,14 +57691,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 113013,
-      "num": 113013,
-      "word": "阿桑奇或将认罪",
-      "onboard_time": 1719277698,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 112818,
       "num": 112818,
       "word": "高考结束走出考场的心情",
@@ -58225,6 +58257,14 @@
       "onboard_time": 1718274977,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110373,
+      "num": 110373,
+      "word": "冠军留在五人组",
+      "onboard_time": 1719279619,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 110331,

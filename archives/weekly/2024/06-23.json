@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719278453992,
+  "endTime": 1719279716960,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1096340,
+      "num": 1096340,
+      "word": "清华北大为了抢人有多拼",
+      "onboard_time": 1719274938,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1073001,
       "num": 1073001,
       "word": "孙怡96斤",
@@ -465,14 +473,6 @@
       "onboard_time": 1719148879,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 955441,
-      "num": 955441,
-      "word": "清华北大为了抢人有多拼",
-      "onboard_time": 1719274938,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 934212,
@@ -667,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 757643,
+      "num": 757643,
+      "word": "加沙有婴儿出生7个月只长0.6斤",
+      "onboard_time": 1719276439,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 742402,
       "num": 742402,
       "word": "海蓝之谜柜姐被顾客泼水羞辱",
@@ -803,20 +811,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 665536,
+      "num": 665536,
+      "word": "一个个提到刘亦菲都笑得合不拢嘴",
+      "onboard_time": 1719275599,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664926,
       "num": 664926,
       "word": "ZICO",
       "onboard_time": 1719192136,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663882,
-      "num": 642442,
-      "word": "一个个提到刘亦菲都笑得合不拢嘴",
-      "onboard_time": 1719275599,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 661904,
@@ -827,12 +835,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 661523,
-      "num": 661523,
-      "word": "加沙有婴儿出生7个月只长0.6斤",
-      "onboard_time": 1719276439,
-      "rank": 5,
-      "category": "国外时政"
+      "raw_hot": 660385,
+      "num": 277056,
+      "word": "常喝牛奶和不常喝奶的人真的差很多",
+      "onboard_time": 1719278058,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 657379,
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485056,
+      "num": 485056,
+      "word": "北大教授建议年轻人不要躺平继续卷",
+      "onboard_time": 1719278058,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1719205400,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 473523,
+      "num": 473523,
+      "word": "安徽高考分数线",
+      "onboard_time": 1719277939,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 471420,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1719209119,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433540,
+      "num": 279288,
+      "word": "黄子韬首次担任综艺出品人",
+      "onboard_time": 1719278119,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 432632,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1719138078,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 399871,
+      "num": 399871,
+      "word": "陈娴回应",
+      "onboard_time": 1719278417,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 399402,
@@ -2011,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353213,
+      "num": 281402,
+      "word": "我的家政阿姨想当我妹的婆婆",
+      "onboard_time": 1719276140,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352283,
       "num": 352283,
       "word": "贵女",
@@ -2025,22 +2073,6 @@
       "onboard_time": 1719140838,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347198,
-      "num": 281402,
-      "word": "我的家政阿姨想当我妹的婆婆",
-      "onboard_time": 1719276140,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 344035,
-      "num": 279288,
-      "word": "黄子韬首次担任综艺出品人",
-      "onboard_time": 1719278119,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 342928,
@@ -2065,14 +2097,6 @@
       "onboard_time": 1719126617,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 338176,
-      "num": 338176,
-      "word": "安徽高考分数线",
-      "onboard_time": 1719277939,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 337423,
@@ -2211,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318386,
+      "num": 318386,
+      "word": "江西分数线",
+      "onboard_time": 1719279019,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 317649,
       "num": 317649,
       "word": "TFBOYS天下第一好",
@@ -2281,14 +2313,6 @@
       "onboard_time": 1719152001,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308809,
-      "num": 264429,
-      "word": "常喝牛奶和不常喝奶的人真的差很多",
-      "onboard_time": 1719278058,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 307821,
@@ -3267,14 +3291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203746,
-      "num": 203746,
-      "word": "北大教授建议年轻人不要躺平继续卷",
-      "onboard_time": 1719278058,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 202832,
       "num": 202832,
       "word": "章昊扛过内娱镜头没扛过自己的",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1719221959,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199948,
+      "num": 199948,
+      "word": "无意识却能攒钱的习惯",
+      "onboard_time": 1719277878,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 199561,
@@ -3793,14 +3817,6 @@
       "onboard_time": 1719202640,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181770,
-      "num": 181770,
-      "word": "无意识却能攒钱的习惯",
-      "onboard_time": 1719277878,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 180364,
@@ -4587,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146297,
+      "num": 146297,
+      "word": "湖北分数线",
+      "onboard_time": 1719277760,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146243,
       "num": 146243,
       "word": "上海高考查分",
@@ -4651,12 +4675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142524,
+      "num": 183404,
+      "word": "河南高考600分及以上25623人",
+      "onboard_time": 1719279258,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142515,
       "num": 142515,
       "word": "王一博登上世趋第一",
       "onboard_time": 1719099134,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142046,
+      "num": 142046,
+      "word": "iOS18能下载更大应用了",
+      "onboard_time": 1719278960,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 141541,
@@ -5147,12 +5187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122434,
-      "num": 122434,
-      "word": "湖北分数线",
-      "onboard_time": 1719277760,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 121256,
+      "num": 183519,
+      "word": "阿桑奇或将认罪",
+      "onboard_time": 1719277698,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 120884,
@@ -5217,6 +5257,14 @@
       "onboard_time": 1719186977,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118718,
+      "num": 118718,
+      "word": "沙特杯官宣LOL项目赛程",
+      "onboard_time": 1719279438,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 118565,
@@ -5315,14 +5363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115612,
-      "num": 115612,
-      "word": "陈娴回应",
-      "onboard_time": 1719278417,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 115163,
       "num": 115163,
       "word": "我国重复使用运载火箭新突破",
@@ -5419,14 +5459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 113013,
-      "num": 113013,
-      "word": "阿桑奇或将认罪",
-      "onboard_time": 1719277698,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 112632,
       "num": 116135,
       "word": "李德仁薛其坤获国家最高科学技术奖",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1719142218,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110373,
+      "num": 110373,
+      "word": "冠军留在五人组",
+      "onboard_time": 1719279619,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 110245,
