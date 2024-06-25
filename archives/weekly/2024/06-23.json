@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719315278207,
+  "endTime": 1719318968641,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -595,6 +595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 963958,
+      "num": 292055,
+      "word": "男生查分后默默去做饭妈妈秒懂",
+      "onboard_time": 1719317478,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957227,
       "num": 641639,
       "word": "迪丽热巴亮片高定",
@@ -681,6 +689,14 @@
       "onboard_time": 1719223520,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881715,
+      "num": 881715,
+      "word": "唐尚珺今年成绩超600分",
+      "onboard_time": 1719313279,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 880687,
@@ -833,14 +849,6 @@
       "onboard_time": 1719292459,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 768634,
-      "num": 306377,
-      "word": "唐尚珺今年成绩超600分",
-      "onboard_time": 1719313279,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 766978,
@@ -1179,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 633799,
+      "num": 633799,
+      "word": "北京警方通报65岁男子捂女孩嘴",
+      "onboard_time": 1719313998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627426,
       "num": 627426,
       "word": "孙阳和网友吵起来了",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1719221717,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 603309,
+      "num": 603309,
+      "word": "刘亦菲发文感谢所有人",
+      "onboard_time": 1719317538,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 601494,
@@ -1851,6 +1875,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 447943,
+      "num": 311508,
+      "word": "刘亦菲认出朱珠唇印",
+      "onboard_time": 1719307998,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447428,
       "num": 358000,
       "word": "刘亦菲喝了黄玫瑰拿铁",
@@ -1932,7 +1964,7 @@
     },
     {
       "raw_hot": 436590,
-      "num": 436590,
+      "num": 439789,
       "word": "罗小黑原型",
       "onboard_time": 1719310457,
       "rank": 35,
@@ -2443,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363027,
-      "num": 311508,
-      "word": "刘亦菲认出朱珠唇印",
-      "onboard_time": 1719307998,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 362271,
       "num": 362271,
       "word": "土耳其vs葡萄牙",
@@ -2907,6 +2931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300043,
+      "num": 300043,
+      "word": "安踏奥运领奖服",
+      "onboard_time": 1719317358,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299878,
       "num": 299878,
       "word": "韩国的白菜是从山东引进的",
@@ -3315,12 +3347,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 248879,
-      "num": 248879,
-      "word": "北京警方通报65岁男子捂女孩嘴",
-      "onboard_time": 1719313998,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 248646,
+      "num": 248646,
+      "word": "古茗logo",
+      "onboard_time": 1719317899,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 247899,
@@ -3779,6 +3811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218481,
+      "num": 218481,
+      "word": "杜海涛向金靖讨教孕妇知识",
+      "onboard_time": 1719318259,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217940,
+      "num": 217940,
+      "word": "日本卖的西瓜皮是谁啃的",
+      "onboard_time": 1719316158,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1719099193,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215526,
+      "num": 215526,
+      "word": "金智媛台北活动",
+      "onboard_time": 1719318559,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 215158,
@@ -4043,6 +4099,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205683,
+      "num": 205683,
+      "word": "腾讯视频回复刘亦菲",
+      "onboard_time": 1719318439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205663,
+      "num": 205663,
+      "word": "没有人比大学生更懂报志愿",
+      "onboard_time": 1719318679,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 205273,
+      "num": 205273,
+      "word": "要说鉴茶还得看00后",
+      "onboard_time": 1719317298,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205213,
       "num": 160892,
       "word": "枭起青壤首发预告",
@@ -4235,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "林俊杰太原抢票",
+      "onboard_time": 1719318498,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199561,
       "num": 199561,
       "word": "张若昀 我真从片场来的",
@@ -4265,6 +4353,14 @@
       "onboard_time": 1719306499,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199135,
+      "num": 199135,
+      "word": "2024新疆高考分数线",
+      "onboard_time": 1719316757,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 199119,
@@ -5491,6 +5587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159020,
+      "num": 299533,
+      "word": "物理梁老师称物理专业门槛较高",
+      "onboard_time": 1719318378,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158921,
       "num": 158921,
       "word": "王星越回应远景镜头偷笑",
@@ -5955,6 +6059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144534,
+      "num": 144534,
+      "word": "日本爸爸活",
+      "onboard_time": 1719316398,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144054,
       "num": 144054,
       "word": "时代少年团将录hi6",
@@ -5993,6 +6105,14 @@
       "onboard_time": 1719061158,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143644,
+      "num": 143644,
+      "word": "喜茶新品名小奶栀被指擦边",
+      "onboard_time": 1719318859,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142786,
@@ -6169,6 +6289,14 @@
       "onboard_time": 1719119657,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137433,
+      "num": 137433,
+      "word": "克拉岛抢票",
+      "onboard_time": 1719315436,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 137332,
@@ -6699,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120588,
+      "num": 194530,
+      "word": "塞尔维亚武器是如何转移到乌军手中",
+      "onboard_time": 1719314747,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 120546,
       "num": 332575,
       "word": "云南一宿舍5人高考平均分超600",
@@ -6859,6 +6995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116016,
+      "num": 116016,
+      "word": "原来AI参加高考也怕数学",
+      "onboard_time": 1719318798,
+      "rank": 42,
+      "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 116001,
+      "num": 116001,
+      "word": "关智斌43岁状态",
+      "onboard_time": 1719315258,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115847,
       "num": 115847,
       "word": "八贼",
@@ -7011,14 +7163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112041,
-      "num": 112041,
-      "word": "关智斌43岁状态",
-      "onboard_time": 1719315258,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112015,
       "num": 112015,
       "word": "鹅剧派对全阵容",
@@ -7121,6 +7265,14 @@
       "onboard_time": 1719070578,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108371,
+      "num": 108371,
+      "word": "梁永棋回应像梁朝伟",
+      "onboard_time": 1719315737,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107777,
@@ -7779,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64332,
+      "num": 258515,
+      "word": "张艺谋新作灵龙",
+      "onboard_time": 1719316158,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 62662,
       "num": 539822,
       "word": "1米6青岛大姨海浪中背出1米8老人",
@@ -7793,6 +7953,14 @@
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60650,
+      "num": 885964,
+      "word": "只此青绿版青海湖有多美",
+      "onboard_time": 1719303438,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60449,
@@ -7913,14 +8081,6 @@
       "onboard_time": 1719047117,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51665,
-      "num": 885964,
-      "word": "只此青绿版青海湖有多美",
-      "onboard_time": 1719303438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51275,
@@ -8145,14 +8305,6 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36938,
-      "num": 194530,
-      "word": "塞尔维亚武器是如何转移到乌军手中",
-      "onboard_time": 1719314747,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 36640,
@@ -8449,6 +8601,14 @@
       "onboard_time": 1719240741,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22841,
+      "num": 269523,
+      "word": "刘震云给黄磊送火烧",
+      "onboard_time": 1719316818,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22750,

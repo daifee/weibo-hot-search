@@ -1,0 +1,410 @@
+{
+  "runTime": 1719318968641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073708,
+        "num": 1073708,
+        "word": "腾讯四连爆",
+        "onboard_time": 1719311539,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 881715,
+        "num": 881715,
+        "word": "唐尚珺今年成绩超600分",
+        "onboard_time": 1719313279,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60650,
+        "num": 697447,
+        "word": "只此青绿版青海湖有多美",
+        "onboard_time": 1719303438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633799,
+        "num": 633799,
+        "word": "北京警方通报65岁男子捂女孩嘴",
+        "onboard_time": 1719313998,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603309,
+        "num": 603309,
+        "word": "刘亦菲发文感谢所有人",
+        "onboard_time": 1719317538,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310427,
+        "num": 439789,
+        "word": "罗小黑原型",
+        "onboard_time": 1719310457,
+        "rank": 5,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 371164,
+        "num": 371164,
+        "word": "男子用麻精药品迷奸多名女性被判无期",
+        "onboard_time": 1719305179,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328423,
+        "num": 328423,
+        "word": "孙阳和网友吵起来了",
+        "onboard_time": 1719311239,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300043,
+        "num": 300043,
+        "word": "安踏奥运领奖服",
+        "onboard_time": 1719317358,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159020,
+        "num": 299533,
+        "word": "物理梁老师称物理专业门槛较高",
+        "onboard_time": 1719318378,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 963958,
+        "num": 292055,
+        "word": "男生查分后默默去做饭妈妈秒懂",
+        "onboard_time": 1719317478,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749500,
+        "num": 283505,
+        "word": "王艳儿子 北大",
+        "onboard_time": 1719296298,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669427,
+        "num": 281624,
+        "word": "迪丽热巴这发际线",
+        "onboard_time": 1719303557,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571142,
+        "num": 275149,
+        "word": "邪恶摇粒绒",
+        "onboard_time": 1719309497,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22841,
+        "num": 269523,
+        "word": "刘震云给黄磊送火烧",
+        "onboard_time": 1719316818,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447943,
+        "num": 261766,
+        "word": "刘亦菲认出朱珠唇印",
+        "onboard_time": 1719307998,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64332,
+        "num": 258515,
+        "word": "张艺谋新作灵龙",
+        "onboard_time": 1719316158,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 391722,
+        "num": 250637,
+        "word": "庄国栋等了黄亦玫20年",
+        "onboard_time": 1719308839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248646,
+        "num": 248646,
+        "word": "古茗logo",
+        "onboard_time": 1719317899,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224021,
+        "num": 224021,
+        "word": "女儿高考619分爸爸半夜把儿子喊醒",
+        "onboard_time": 1719289881,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 332594,
+        "num": 223173,
+        "word": "长期不吃晚饭的人最终怎么了",
+        "onboard_time": 1719303079,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 299983,
+        "num": 222586,
+        "word": "洪啸官宣声生不息港乐季2",
+        "onboard_time": 1719313578,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247539,
+        "num": 221131,
+        "word": "张杰 鸟巢座位图",
+        "onboard_time": 1719313398,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241092,
+        "num": 218848,
+        "word": "章子怡疑似不满酱园弄戏份",
+        "onboard_time": 1719297378,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218481,
+        "num": 218481,
+        "word": "杜海涛向金靖讨教孕妇知识",
+        "onboard_time": 1719318259,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217940,
+        "num": 217940,
+        "word": "日本卖的西瓜皮是谁啃的",
+        "onboard_time": 1719316158,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215526,
+        "num": 215526,
+        "word": "金智媛台北活动",
+        "onboard_time": 1719318559,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205683,
+        "num": 205683,
+        "word": "腾讯视频回复刘亦菲",
+        "onboard_time": 1719318439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205663,
+        "num": 205663,
+        "word": "没有人比大学生更懂报志愿",
+        "onboard_time": 1719318679,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205273,
+        "num": 205273,
+        "word": "要说鉴茶还得看00后",
+        "onboard_time": 1719317298,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "林俊杰太原抢票",
+        "onboard_time": 1719318498,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199135,
+        "num": 199135,
+        "word": "2024新疆高考分数线",
+        "onboard_time": 1719316757,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196434,
+        "num": 196434,
+        "word": "男生复读一年涨220分直呼不敢信",
+        "onboard_time": 1719293539,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161454,
+        "num": 161454,
+        "word": "菲律宾希望与中国就南海问题进行对话",
+        "onboard_time": 1719313159,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160801,
+        "num": 160801,
+        "word": "男生高考708分笔记工整似印刷",
+        "onboard_time": 1719306258,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159132,
+        "num": 159132,
+        "word": "苏醒不参加披荆斩棘的原因",
+        "onboard_time": 1719313339,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150059,
+        "num": 150059,
+        "word": "虞书欣 中餐厅ootd",
+        "onboard_time": 1719307878,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144534,
+        "num": 144534,
+        "word": "日本爸爸活",
+        "onboard_time": 1719316398,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143644,
+        "num": 143644,
+        "word": "喜茶新品名小奶栀被指擦边",
+        "onboard_time": 1719318859,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137433,
+        "num": 137433,
+        "word": "克拉岛抢票",
+        "onboard_time": 1719315436,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120588,
+        "num": 120588,
+        "word": "塞尔维亚武器是如何转移到乌军手中",
+        "onboard_time": 1719314747,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116736,
+        "num": 116736,
+        "word": "高考出分后聊天6大原则",
+        "onboard_time": 1719313698,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116016,
+        "num": 116016,
+        "word": "原来AI参加高考也怕数学",
+        "onboard_time": 1719318798,
+        "rank": 42,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 116001,
+        "num": 116001,
+        "word": "关智斌43岁状态",
+        "onboard_time": 1719315258,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114610,
+        "num": 114610,
+        "word": "杨幂论文查重率",
+        "onboard_time": 1719282980,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114468,
+        "num": 114468,
+        "word": "一高中全班57人最低分608分",
+        "onboard_time": 1719300500,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 113362,
+        "word": "方便面活成了年轻人吃不起的样子",
+        "onboard_time": 1719311297,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113239,
+        "num": 113239,
+        "word": "薛之谦 二开什么时候",
+        "onboard_time": 1719311478,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111633,
+        "num": 111633,
+        "word": "原神",
+        "onboard_time": 1719313458,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108371,
+        "num": 108371,
+        "word": "梁永棋回应像梁朝伟",
+        "onboard_time": 1719315737,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化要靠科技现代化作支撑#"
+    }
+  }
+}
