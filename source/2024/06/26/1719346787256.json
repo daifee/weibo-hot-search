@@ -1,0 +1,410 @@
+{
+  "runTime": 1719346787256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88953,
+        "num": 88953,
+        "word": "刘亦菲回复林一",
+        "onboard_time": 1719330677,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74550,
+        "num": 74550,
+        "word": "男生查分后默默去做饭妈妈秒懂",
+        "onboard_time": 1719317478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10475,
+        "num": 46078,
+        "word": "嫦娥六号返回器安全着陆",
+        "onboard_time": 1719320658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40956,
+        "num": 40956,
+        "word": "清华告诉你北京到底有谁在",
+        "onboard_time": 1719328880,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 40211,
+        "num": 40211,
+        "word": "我考了696分我同桌考了703分",
+        "onboard_time": 1719319759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41548,
+        "num": 39524,
+        "word": "刘亦菲发文感谢所有人",
+        "onboard_time": 1719317538,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38809,
+        "num": 38809,
+        "word": "MTJJ 弃养",
+        "onboard_time": 1719319819,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 37683,
+        "num": 37683,
+        "word": "腾讯四连爆",
+        "onboard_time": 1719311539,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33444,
+        "num": 33444,
+        "word": "裘德 歌手",
+        "onboard_time": 1719324439,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7150,
+        "num": 31853,
+        "word": "发条微博缅怀邓稼先",
+        "onboard_time": 1719337752,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34438,
+        "num": 31545,
+        "word": "林一晒与刘亦菲合照",
+        "onboard_time": 1719325580,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30965,
+        "num": 30965,
+        "word": "金靖刘胜瑛真的一起怀孕",
+        "onboard_time": 1719323240,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28556,
+        "num": 28556,
+        "word": "那英 我根本记不住歌词",
+        "onboard_time": 1719336553,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 28324,
+        "word": "喜茶新品名小奶栀被指擦边",
+        "onboard_time": 1719318859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27470,
+        "num": 27470,
+        "word": "男子用麻精药品迷奸多名女性被判无期",
+        "onboard_time": 1719305179,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26559,
+        "num": 26559,
+        "word": "喜茶 小奶栀",
+        "onboard_time": 1719321079,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26167,
+        "num": 26167,
+        "word": "法国vs波兰",
+        "onboard_time": 1719326300,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25956,
+        "num": 25956,
+        "word": "罗小黑原型",
+        "onboard_time": 1719310457,
+        "rank": 17,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 25444,
+        "num": 25444,
+        "word": "梁永棋抱着喝醉的王星越",
+        "onboard_time": 1719342551,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22669,
+        "num": 22669,
+        "word": "只有川渝人才知道他演的有多像",
+        "onboard_time": 1719327020,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72416,
+        "num": 22235,
+        "word": "晚上睡不着和熬夜的区别有多大",
+        "onboard_time": 1719339252,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21514,
+        "num": 21514,
+        "word": "i人甚至都不敢看完",
+        "onboard_time": 1719341951,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20653,
+        "num": 20653,
+        "word": "不想腹部长赘肉8种食物少吃",
+        "onboard_time": 1719326899,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19992,
+        "num": 19992,
+        "word": "凡尔赛男孩称考得不好全省排名一千多",
+        "onboard_time": 1719332177,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19396,
+        "num": 19396,
+        "word": "朋友圈可以屏蔽一个群的人",
+        "onboard_time": 1719331037,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19054,
+        "num": 19054,
+        "word": "北京警方通报65岁男子捂女孩嘴",
+        "onboard_time": 1719313998,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18717,
+        "num": 18717,
+        "word": "被境外毒枭悬赏人头的缉毒警有话要说",
+        "onboard_time": 1719323660,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18578,
+        "num": 18578,
+        "word": "韩国流行的半扎发方法",
+        "onboard_time": 1719320600,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17841,
+        "num": 17841,
+        "word": "长期不爱说话或说话少的后果",
+        "onboard_time": 1719324140,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17797,
+        "num": 17797,
+        "word": "赵露思旗袍",
+        "onboard_time": 1719322400,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17762,
+        "num": 17762,
+        "word": "万茜怎么把编织袋穿身上了",
+        "onboard_time": 1719329119,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17013,
+        "num": 17013,
+        "word": "迪丽热巴这发际线",
+        "onboard_time": 1719303557,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16430,
+        "num": 16430,
+        "word": "美术馆就玫瑰的故事丢失作品致歉",
+        "onboard_time": 1719329539,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16272,
+        "num": 16272,
+        "word": "吴奇隆晒照",
+        "onboard_time": 1719331397,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 16213,
+        "word": "别成为那个不愿被让座的人",
+        "onboard_time": 1719322819,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16122,
+        "num": 16122,
+        "word": "黑龙江高考分数线",
+        "onboard_time": 1719328698,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16082,
+        "num": 16082,
+        "word": "WBG更换首发辅助",
+        "onboard_time": 1719316098,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16041,
+        "num": 16041,
+        "word": "孙阳和网友吵起来了",
+        "onboard_time": 1719311239,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15639,
+        "num": 15639,
+        "word": "古茗logo",
+        "onboard_time": 1719317899,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15145,
+        "num": 15635,
+        "word": "双鱼座讨厌一个人全写在脸上",
+        "onboard_time": 1719320479,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14719,
+        "num": 15633,
+        "word": "正确改善驼背",
+        "onboard_time": 1719323540,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14642,
+        "num": 15626,
+        "word": "宝石老舅已老实求放过",
+        "onboard_time": 1719321620,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14588,
+        "num": 15622,
+        "word": "周杰伦 DIOR活动",
+        "onboard_time": 1719322460,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14587,
+        "num": 15614,
+        "word": "日本卖的西瓜皮是谁啃的",
+        "onboard_time": 1719316158,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14371,
+        "num": 15606,
+        "word": "金智媛台北活动",
+        "onboard_time": 1719318559,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14167,
+        "num": 15604,
+        "word": "涂山璟还是熟悉的那味儿",
+        "onboard_time": 1719320600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13832,
+        "num": 15599,
+        "word": "庄国栋等了黄亦玫20年",
+        "onboard_time": 1719308839,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13712,
+        "num": 15593,
+        "word": "丁当 揭榜",
+        "onboard_time": 1719323240,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 15588,
+        "word": "江西卫视发了王一博哭戏",
+        "onboard_time": 1719328160,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12026,
+        "num": 15578,
+        "word": "虞书欣 中餐厅ootd",
+        "onboard_time": 1719307878,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
