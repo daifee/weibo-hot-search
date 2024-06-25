@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719351322968,
+  "endTime": 1719353874610,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50264,
+      "num": 50264,
+      "word": "梁永棋抱着喝醉的王星越",
+      "onboard_time": 1719342551,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48549,
       "num": 76863,
       "word": "WBG更换首发辅助",
@@ -427,12 +435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 37183,
-      "num": 31345,
-      "word": "梁永棋抱着喝醉的王星越",
-      "onboard_time": 1719342551,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 41289,
+      "num": 34322,
+      "word": "环卫工双胞胎儿子考了639和592",
+      "onboard_time": 1719351971,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35934,
@@ -468,10 +476,18 @@
     },
     {
       "raw_hot": 23786,
-      "num": 23786,
+      "num": 25979,
       "word": "i人甚至都不敢看完",
       "onboard_time": 1719341951,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16251,
+      "num": 25967,
+      "word": "当代年轻人逛商场流程",
+      "onboard_time": 1719352151,
+      "rank": 47,
       "category": "幽默"
     },
     {
