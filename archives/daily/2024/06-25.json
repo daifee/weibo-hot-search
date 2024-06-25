@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719308087297,
+  "endTime": 1719310833517,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 868785,
+      "num": 412314,
+      "word": "男子用麻精药品迷奸多名女性被判无期",
+      "onboard_time": 1719305179,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837462,
       "num": 331758,
       "word": "常喝牛奶和不常喝奶的人真的差很多",
@@ -240,14 +248,6 @@
       "word": "福建一男生高考语文满分",
       "onboard_time": 1719292459,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774040,
-      "num": 235866,
-      "word": "男子用麻精药品迷奸多名女性被判无期",
-      "onboard_time": 1719305179,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -315,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649610,
+      "num": 649610,
+      "word": "虞书欣 中餐厅ootd",
+      "onboard_time": 1719307878,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 645522,
       "num": 645522,
       "word": "男生复读一年涨220分直呼不敢信",
       "onboard_time": 1719293539,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 634393,
+      "num": 370725,
+      "word": "庄国栋等了黄亦玫20年",
+      "onboard_time": 1719308839,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 611884,
@@ -385,6 +401,14 @@
       "onboard_time": 1719243859,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 545368,
+      "num": 348633,
+      "word": "NewJeans受到死亡威胁",
+      "onboard_time": 1719307759,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 530650,
@@ -579,6 +603,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 392142,
+      "num": 314634,
+      "word": "英语还值不值得作为专业学四年",
+      "onboard_time": 1719309258,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 383747,
+      "num": 362492,
+      "word": "筷子女王",
+      "onboard_time": 1719304638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 383092,
       "num": 383092,
       "word": "北京地铁",
@@ -595,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362492,
-      "num": 362492,
-      "word": "筷子女王",
-      "onboard_time": 1719304638,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 363027,
+      "num": 311508,
+      "word": "刘亦菲认出朱珠唇印",
+      "onboard_time": 1719307998,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 360055,
@@ -651,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 327470,
+      "num": 207671,
+      "word": "周迅 香家长公主",
+      "onboard_time": 1719309199,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323850,
       "num": 323850,
       "word": "山东高考发布会",
@@ -689,6 +737,14 @@
       "onboard_time": 1719231500,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307550,
+      "num": 307550,
+      "word": "邪恶摇粒绒",
+      "onboard_time": 1719309497,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 303378,
@@ -963,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221098,
+      "num": 449070,
+      "word": "男生高考708分笔记工整似印刷",
+      "onboard_time": 1719306258,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220027,
       "num": 220027,
       "word": "宋慧乔裴秀智林智妍同框照",
@@ -1051,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204094,
+      "num": 204094,
+      "word": "体测800m跑5分20秒经验分享",
+      "onboard_time": 1719305898,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203711,
       "num": 203711,
       "word": "实验犬",
@@ -1115,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196180,
-      "num": 196180,
-      "word": "NewJeans受到死亡威胁",
-      "onboard_time": 1719307759,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195818,
       "num": 195818,
       "word": "长相思第一季名场面回顾",
@@ -1177,14 +1241,6 @@
       "onboard_time": 1719271094,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192246,
-      "num": 192246,
-      "word": "虞书欣 中餐厅ootd",
-      "onboard_time": 1719307878,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 191759,
@@ -1355,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175026,
+      "num": 175026,
+      "word": "袭击日本母子凶手已被抓",
+      "onboard_time": 1719306499,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173831,
       "num": 173831,
       "word": "江苏高考689分及以上107人",
@@ -1419,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165256,
+      "num": 165256,
+      "word": "高考708分考生计划假期做家教",
+      "onboard_time": 1719306138,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165192,
       "num": 165192,
       "word": "找工作面试最难受的不是被挂",
       "onboard_time": 1719288440,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163086,
-      "num": 163086,
-      "word": "袭击日本母子凶手已被抓",
-      "onboard_time": 1719306499,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162816,
@@ -1539,6 +1603,22 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 155251,
+      "num": 155251,
+      "word": "网友偶遇全智贤一家四口",
+      "onboard_time": 1719310758,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154683,
+      "num": 154683,
+      "word": "天津一化工厂发生火灾造成7人受伤",
+      "onboard_time": 1719310159,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "肖战纯白POLO衫",
@@ -1579,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150687,
+      "num": 150687,
+      "word": "罗云熙 古装角色",
+      "onboard_time": 1719309378,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150683,
       "num": 150683,
       "word": "向佐发16个问号问黄子韬",
@@ -1611,6 +1699,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 148255,
+      "num": 148255,
+      "word": "罗小黑原型",
+      "onboard_time": 1719310457,
+      "rank": 35,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 148017,
       "num": 148017,
       "word": "巴西0比0哥斯达黎加",
@@ -1627,12 +1723,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 147489,
+      "num": 147489,
+      "word": "韩廷第一章回国",
+      "onboard_time": 1719308357,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146297,
       "num": 146297,
       "word": "湖北分数线",
       "onboard_time": 1719277760,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144054,
+      "num": 144054,
+      "word": "时代少年团将录hi6",
+      "onboard_time": 1719308357,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143854,
@@ -1657,14 +1769,6 @@
       "onboard_time": 1719278960,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 140982,
-      "num": 140982,
-      "word": "高考708分考生计划假期做家教",
-      "onboard_time": 1719306138,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140345,
@@ -1731,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136659,
+      "num": 136659,
+      "word": "山东318935名高考生成绩达一段线",
+      "onboard_time": 1719308177,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -1787,14 +1899,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 130949,
-      "num": 449070,
-      "word": "男生高考708分笔记工整似印刷",
-      "onboard_time": 1719306258,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130744,
       "num": 130744,
       "word": "吉林高考分数线",
@@ -1843,14 +1947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125302,
-      "num": 125302,
-      "word": "体测800m跑5分20秒经验分享",
-      "onboard_time": 1719305898,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125097,
       "num": 125097,
       "word": "金智秀巴黎大秀造型",
@@ -1897,14 +1993,6 @@
       "onboard_time": 1719277698,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 121218,
-      "num": 116866,
-      "word": "刘亦菲认出朱珠唇印",
-      "onboard_time": 1719307998,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 120888,
@@ -2267,12 +2355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38221,
+      "num": 323483,
+      "word": "男生高考696班主任嘴角上扬压不住",
+      "onboard_time": 1719307518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32511,
       "num": 169096,
       "word": "奶奶数落走失老伴却把民警甜到了",
       "onboard_time": 1719270194,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31733,
+      "num": 311988,
+      "word": "这些大学容易被忽视且性价比高",
+      "onboard_time": 1719309618,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 31332,

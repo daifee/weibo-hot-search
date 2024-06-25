@@ -1,0 +1,410 @@
+{
+  "runTime": 1719310833517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649610,
+        "num": 649610,
+        "word": "虞书欣 中餐厅ootd",
+        "onboard_time": 1719307878,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531303,
+        "num": 531303,
+        "word": "男生复读一年涨220分直呼不敢信",
+        "onboard_time": 1719293539,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133178,
+        "num": 433209,
+        "word": "嫦娥六号月背挖宝回来了",
+        "onboard_time": 1719304938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868785,
+        "num": 412314,
+        "word": "男子用麻精药品迷奸多名女性被判无期",
+        "onboard_time": 1719305179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778125,
+        "num": 395379,
+        "word": "迪丽热巴这发际线",
+        "onboard_time": 1719303557,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371141,
+        "num": 371141,
+        "word": "女儿高考619分爸爸半夜把儿子喊醒",
+        "onboard_time": 1719289881,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 634393,
+        "num": 370725,
+        "word": "庄国栋等了黄亦玫20年",
+        "onboard_time": 1719308839,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545368,
+        "num": 348633,
+        "word": "NewJeans受到死亡威胁",
+        "onboard_time": 1719307759,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323487,
+        "num": 323487,
+        "word": "一高中全班57人最低分608分",
+        "onboard_time": 1719300500,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 38221,
+        "num": 323483,
+        "word": "男生高考696班主任嘴角上扬压不住",
+        "onboard_time": 1719307518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430209,
+        "num": 320859,
+        "word": "教育局回应女生拿6双筷子被斥盗窃",
+        "onboard_time": 1719302960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192519,
+        "num": 317798,
+        "word": "王艳儿子 北大",
+        "onboard_time": 1719296298,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412918,
+        "num": 315690,
+        "word": "章子怡疑似不满酱园弄戏份",
+        "onboard_time": 1719297378,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392142,
+        "num": 314634,
+        "word": "英语还值不值得作为专业学四年",
+        "onboard_time": 1719309258,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31733,
+        "num": 311988,
+        "word": "这些大学容易被忽视且性价比高",
+        "onboard_time": 1719309618,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363027,
+        "num": 311508,
+        "word": "刘亦菲认出朱珠唇印",
+        "onboard_time": 1719307998,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351221,
+        "num": 308404,
+        "word": "杨幂论文查重率",
+        "onboard_time": 1719282980,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307550,
+        "num": 307550,
+        "word": "邪恶摇粒绒",
+        "onboard_time": 1719309497,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230032,
+        "num": 230032,
+        "word": "山东分数线",
+        "onboard_time": 1719301521,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221098,
+        "num": 221098,
+        "word": "男生高考708分笔记工整似印刷",
+        "onboard_time": 1719306258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582404,
+        "num": 219033,
+        "word": "长期不吃晚饭的人最终怎么了",
+        "onboard_time": 1719303079,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 383747,
+        "num": 215251,
+        "word": "筷子女王",
+        "onboard_time": 1719304638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329864,
+        "num": 214244,
+        "word": "荣梓杉 等补录",
+        "onboard_time": 1719287299,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327470,
+        "num": 207671,
+        "word": "周迅 香家长公主",
+        "onboard_time": 1719309199,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263937,
+        "num": 205251,
+        "word": "当代年轻人戴手串现状",
+        "onboard_time": 1719306198,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204094,
+        "num": 204094,
+        "word": "体测800m跑5分20秒经验分享",
+        "onboard_time": 1719305898,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "宋慧乔裴秀智林智妍同框照",
+        "onboard_time": 1719307039,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176438,
+        "num": 176438,
+        "word": "谁家女主上来就叫男主狗东西",
+        "onboard_time": 1719298879,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175026,
+        "num": 175026,
+        "word": "袭击日本母子凶手已被抓",
+        "onboard_time": 1719306499,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171005,
+        "num": 171005,
+        "word": "嫦娥六号月球快递今天送达",
+        "onboard_time": 1719295400,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165256,
+        "num": 165256,
+        "word": "高考708分考生计划假期做家教",
+        "onboard_time": 1719306138,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157000,
+        "num": 157000,
+        "word": "逆水寒手游 齐天大圣",
+        "onboard_time": 1719307578,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155251,
+        "num": 155251,
+        "word": "网友偶遇全智贤一家四口",
+        "onboard_time": 1719310758,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154683,
+        "num": 154683,
+        "word": "天津一化工厂发生火灾造成7人受伤",
+        "onboard_time": 1719310159,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150687,
+        "num": 150687,
+        "word": "罗云熙 古装角色",
+        "onboard_time": 1719309378,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 148255,
+        "word": "罗小黑原型",
+        "onboard_time": 1719310457,
+        "rank": 35,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "韩廷第一章回国",
+        "onboard_time": 1719308357,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144054,
+        "num": 144054,
+        "word": "时代少年团将录hi6",
+        "onboard_time": 1719308357,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139172,
+        "num": 139172,
+        "word": "杨幂论文字数",
+        "onboard_time": 1719305359,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136659,
+        "num": 136659,
+        "word": "山东318935名高考生成绩达一段线",
+        "onboard_time": 1719308177,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133349,
+        "num": 133349,
+        "word": "迪丽热巴 联想发布会",
+        "onboard_time": 1719301579,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 133166,
+        "num": 133166,
+        "word": "婚礼上取消了我不喜欢的环节",
+        "onboard_time": 1719285140,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131433,
+        "num": 131433,
+        "word": "张婧仪把微博当朋友圈",
+        "onboard_time": 1719301579,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127951,
+        "num": 127951,
+        "word": "去医院掏耳屎直接晕厥了",
+        "onboard_time": 1719287059,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127913,
+        "num": 127913,
+        "word": "浙江高考成绩",
+        "onboard_time": 1719302719,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125650,
+        "num": 125650,
+        "word": "小夭头发都白了",
+        "onboard_time": 1719303977,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 122825,
+        "word": "清华老师招生宣传华科老师望眼欲穿",
+        "onboard_time": 1719305538,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118560,
+        "num": 118560,
+        "word": "赛力斯跌停",
+        "onboard_time": 1719299539,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "李泽锋 实在不行找站姐借图吧",
+        "onboard_time": 1719302600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116630,
+        "num": 116630,
+        "word": "没有人比张艺兴更怀念当年",
+        "onboard_time": 1719305719,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    }
+  }
+}
