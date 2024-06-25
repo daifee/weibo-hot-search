@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719322441825,
+  "endTime": 1719325177660,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1127233,
+      "num": 1127233,
+      "word": "我考了696分我同桌考了703分",
+      "onboard_time": 1719319759,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127123,
       "num": 456967,
       "word": "婚后才发现老公学历骗了我",
@@ -657,6 +665,14 @@
       "onboard_time": 1719208458,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 906261,
+      "num": 524259,
+      "word": "金靖刘胜瑛真的一起怀孕",
+      "onboard_time": 1719323240,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 899187,
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663229,
+      "num": 663229,
+      "word": "喜茶 小奶栀",
+      "onboard_time": 1719321079,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 661904,
       "num": 661904,
       "word": "豆瓣又崩了",
@@ -1163,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647221,
+      "num": 647221,
+      "word": "MTJJ 弃养",
+      "onboard_time": 1719319819,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 645522,
       "num": 645522,
       "word": "男生复读一年涨220分直呼不敢信",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1719118639,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622396,
+      "num": 622396,
+      "word": "裘德 歌手",
+      "onboard_time": 1719324439,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 615042,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1719282918,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576976,
+      "num": 576976,
+      "word": "赵露思旗袍",
+      "onboard_time": 1719322400,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 575823,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1719121578,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 516290,
+      "num": 516290,
+      "word": "丁当 揭榜",
+      "onboard_time": 1719323240,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 515688,
@@ -1835,14 +1891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 456467,
-      "num": 456467,
-      "word": "MTJJ 弃养",
-      "onboard_time": 1719319819,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 456065,
       "num": 456065,
       "word": "于正在给吴谨言挑下一个剧本",
@@ -1897,14 +1945,6 @@
       "onboard_time": 1719124698,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 448006,
-      "num": 448006,
-      "word": "喜茶 小奶栀",
-      "onboard_time": 1719321079,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 447943,
@@ -2443,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382136,
+      "num": 382136,
+      "word": "涂山璟还是熟悉的那味儿",
+      "onboard_time": 1719320600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379997,
       "num": 379997,
       "word": "金珉锡去了张艺兴演唱会",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1719211219,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360309,
+      "num": 360309,
+      "word": "宝石老舅已老实求放过",
+      "onboard_time": 1719321620,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 360055,
@@ -2691,14 +2747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334063,
-      "num": 334063,
-      "word": "宝石老舅已老实求放过",
-      "onboard_time": 1719321620,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333174,
       "num": 271348,
       "word": "陈妍希仍戴着婚戒",
@@ -2763,6 +2811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328404,
+      "num": 328404,
+      "word": "双鱼座讨厌一个人全写在脸上",
+      "onboard_time": 1719320479,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328139,
       "num": 314210,
       "word": "长沙地铁2号3号线因暴雨停运",
@@ -2793,6 +2849,14 @@
       "onboard_time": 1719202160,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324823,
+      "num": 203558,
+      "word": "长期不爱说话或说话少的后果",
+      "onboard_time": 1719324140,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 323850,
@@ -3075,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290986,
+      "num": 199865,
+      "word": "正确改善驼背",
+      "onboard_time": 1719323540,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 287705,
       "num": 279244,
       "word": "李泽锋 实在不行找站姐借图吧",
@@ -3088,14 +3160,6 @@
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
       "onboard_time": 1719098893,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285702,
-      "num": 428847,
-      "word": "我考了696分我同桌考了703分",
-      "onboard_time": 1719319759,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3329,14 +3393,6 @@
       "onboard_time": 1719271755,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262907,
-      "num": 262907,
-      "word": "涂山璟还是熟悉的那味儿",
-      "onboard_time": 1719320600,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 261545,
@@ -3731,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228209,
+      "num": 210650,
+      "word": "韩国流行的半扎发方法",
+      "onboard_time": 1719320600,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 228174,
       "num": 121260,
       "word": "方协文 北京转场",
@@ -3891,6 +3955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 219109,
+      "num": 219109,
+      "word": "别成为那个不愿被让座的人",
+      "onboard_time": 1719322819,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218601,
       "num": 167036,
       "word": "上一次被送到澹州还是范闲",
@@ -4041,14 +4113,6 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210650,
-      "num": 210650,
-      "word": "韩国流行的半扎发方法",
-      "onboard_time": 1719320600,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 210646,
@@ -4633,6 +4697,14 @@
       "onboard_time": 1719151099,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "周杰伦 DIOR活动",
+      "onboard_time": 1719322460,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 192416,
@@ -5595,19 +5667,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161318,
-      "num": 161318,
-      "word": "双鱼座讨厌一个人全写在脸上",
-      "onboard_time": 1719320479,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161216,
       "num": 161216,
       "word": "山西高考分数线",
       "onboard_time": 1719212358,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161161,
+      "num": 161161,
+      "word": "被境外毒枭悬赏人头的缉毒警有话要说",
+      "onboard_time": 1719323660,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5737,6 +5809,14 @@
       "onboard_time": 1719120438,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157902,
+      "num": 157902,
+      "word": "小虎状态",
+      "onboard_time": 1719324380,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 157584,
@@ -6315,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140564,
+      "num": 140564,
+      "word": "度华年 古装版再见爱人",
+      "onboard_time": 1719324981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140412,
       "num": 140412,
       "word": "山东不愧是考公大省",
@@ -6473,6 +6561,14 @@
       "onboard_time": 1719122297,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135485,
+      "num": 135485,
+      "word": "百度网盘崩了",
+      "onboard_time": 1719324799,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 135393,
@@ -7171,6 +7267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114737,
+      "num": 114737,
+      "word": "AL零封WBG",
+      "onboard_time": 1719324619,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114708,
       "num": 367738,
       "word": "在奥运会见证运动健儿一路逆袭",
@@ -7233,14 +7337,6 @@
       "onboard_time": 1719281598,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113683,
-      "num": 113683,
-      "word": "赵露思旗袍",
-      "onboard_time": 1719322400,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113674,
@@ -7859,6 +7955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81492,
+      "num": 529911,
+      "word": "消防员从被淹幼儿园救出200多孩子",
+      "onboard_time": 1719324680,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "陈鑫海王星越好会扭",
@@ -8315,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46318,
+      "num": 194703,
+      "word": "奥特曼空降黄浦江",
+      "onboard_time": 1719323240,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46189,
       "num": 47532,
       "word": "菲常萧张已he求放过",
@@ -8385,6 +8497,14 @@
       "onboard_time": 1719309618,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 41227,
+      "num": 134108,
+      "word": "安踏发布巴黎奥运会装备",
+      "onboard_time": 1719324981,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 41189,
@@ -8481,6 +8601,14 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37471,
+      "num": 737457,
+      "word": "高质量发展中国行",
+      "onboard_time": 1719322939,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36640,
