@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 16:24:43
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 16:37:35
 </p>
 </blockquote>
 <p>
@@ -3783,6 +3783,12 @@ iPhone16全系尺寸曝光（热度：968426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%AB%98%E4%B8%AD%E5%85%A8%E7%8F%AD57%E4%BA%BA%E6%9C%80%E4%BD%8E%E5%88%86608%E5%88%86%23" target="weibo">
+一高中全班57人最低分608分（热度：957218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%9C%B4%E7%81%BF%E7%83%88%E5%90%88%E7%85%A7%23" target="weibo">
 张艺兴朴灿烈合照（热度：956000）
 </a>
@@ -4689,6 +4695,12 @@ Angelababy原相机营业自拍（热度：832113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E5%8F%91%E9%99%85%E7%BA%BF%23" target="weibo">
+迪丽热巴这发际线（热度：830117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23" target="weibo">
 十个勤天（热度：828605）
 </a>
@@ -4859,12 +4871,6 @@ aespa放送0分（热度：809810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E9%80%8F%E9%9C%B2%E5%84%BF%E5%AD%90%E9%AB%98%E8%80%83%E5%8F%91%E6%8C%A5%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 孙海洋透露儿子高考发挥得很好（热度：807782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%AB%98%E4%B8%AD%E5%85%A8%E7%8F%AD57%E4%BA%BA%E6%9C%80%E4%BD%8E%E5%88%86608%E5%88%86%23" target="weibo">
-一高中全班57人最低分608分（热度：807442）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86%23" target="weibo">
 高考地理（热度：715529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%8F%E6%B6%88%E6%81%AF%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%E5%A5%BD%E6%B6%88%E6%81%AF%E5%8F%AA%E4%B8%8A4%E5%A4%A9%23" target="weibo">
-坏消息假期结束好消息只上4天（热度：715234）
 </a>
 </li>
 

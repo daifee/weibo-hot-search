@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719303883817,
+  "endTime": 1719304655722,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 957218,
+      "num": 957218,
+      "word": "一高中全班57人最低分608分",
+      "onboard_time": 1719300500,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 922653,
       "num": 922653,
       "word": "山东高考查分",
@@ -195,12 +203,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 807442,
-      "num": 807442,
-      "word": "一高中全班57人最低分608分",
-      "onboard_time": 1719300500,
-      "rank": 25,
-      "category": "教育,社会新闻"
+      "raw_hot": 830117,
+      "num": 830117,
+      "word": "迪丽热巴这发际线",
+      "onboard_time": 1719303557,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 795355,
@@ -361,6 +369,14 @@
       "onboard_time": 1719281059,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 502778,
+      "num": 502778,
+      "word": "被斥盗窃女生食堂外发1万双筷子",
+      "onboard_time": 1719301460,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499081,
@@ -531,14 +547,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 392951,
-      "num": 392951,
-      "word": "被斥盗窃女生食堂外发1万双筷子",
-      "onboard_time": 1719301460,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383092,
       "num": 383092,
       "word": "北京地铁",
@@ -595,12 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327987,
-      "num": 327987,
-      "word": "迪丽热巴这发际线",
-      "onboard_time": 1719303557,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 329322,
+      "num": 329322,
+      "word": "浙江高考成绩",
+      "onboard_time": 1719302719,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 323850,
@@ -675,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289942,
-      "num": 289942,
-      "word": "浙江高考成绩",
-      "onboard_time": 1719302719,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 293875,
+      "num": 293875,
+      "word": "教育局回应女生拿6双筷子被斥盗窃",
+      "onboard_time": 1719302960,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288887,
@@ -689,6 +697,14 @@
       "onboard_time": 1719238760,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 287705,
+      "num": 279244,
+      "word": "李泽锋 实在不行找站姐借图吧",
+      "onboard_time": 1719302600,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 283320,
@@ -713,14 +729,6 @@
       "onboard_time": 1719243559,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 279244,
-      "num": 279244,
-      "word": "李泽锋 实在不行找站姐借图吧",
-      "onboard_time": 1719302600,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 276884,
@@ -835,6 +843,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 231491,
+      "num": 231491,
+      "word": "外交部回应日本公民在苏州遇袭",
+      "onboard_time": 1719303557,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230982,
+      "num": 230982,
+      "word": "长期不吃晚饭的人最终怎么了",
+      "onboard_time": 1719303079,
+      "rank": 41,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 229480,
       "num": 229480,
       "word": "林一曾把胡歌霍建华海报设成屏保",
@@ -896,14 +920,6 @@
       "word": "长沙1小时下了54个西湖",
       "onboard_time": 1719220640,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215754,
-      "num": 215754,
-      "word": "教育局回应女生拿6双筷子被斥盗窃",
-      "onboard_time": 1719302960,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1043,12 +1059,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195155,
+      "num": 195155,
+      "word": "警方通报苏州持刀伤人案件",
+      "onboard_time": 1719304099,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194602,
+      "num": 194602,
+      "word": "中国对新西兰澳大利亚波兰试行免签",
+      "onboard_time": 1719303739,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194569,
       "num": 194569,
       "word": "联想发布会",
       "onboard_time": 1719296659,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 194506,
+      "num": 194506,
+      "word": "我国2024年出生人口或迎小幅反弹",
+      "onboard_time": 1719301341,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194499,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1719295878,
       "rank": 33,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 191739,
-      "num": 191739,
-      "word": "外交部回应日本公民在苏州遇袭",
-      "onboard_time": 1719303557,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190796,
@@ -1163,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185342,
-      "num": 185342,
-      "word": "我国2024年出生人口或迎小幅反弹",
-      "onboard_time": 1719301341,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185247,
       "num": 185247,
       "word": "郭麒麟想和高圆圆上恋综秦霄贤更想",
@@ -1187,12 +1211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180742,
-      "num": 180742,
-      "word": "长期不吃晚饭的人最终怎么了",
-      "onboard_time": 1719303079,
-      "rank": 41,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 182110,
+      "num": 182110,
+      "word": "小夭头发都白了",
+      "onboard_time": 1719303977,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180687,
@@ -1339,14 +1363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160714,
-      "num": 160714,
-      "word": "中国对新西兰澳大利亚波兰试行免签",
-      "onboard_time": 1719303739,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 160522,
       "num": 160522,
       "word": "许凯新剧开大G",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1719299359,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151326,
+      "num": 151326,
+      "word": "山东2024高考一分一段表",
+      "onboard_time": 1719303679,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 150683,
@@ -1731,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121621,
+      "num": 121621,
+      "word": "筷子女王",
+      "onboard_time": 1719304638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121256,
       "num": 183519,
       "word": "阿桑奇或将认罪",
@@ -1971,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59985,
+      "num": 393204,
+      "word": "新闻专业是否已经处于低谷",
+      "onboard_time": 1719302479,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 58629,
       "num": 58629,
       "word": "小狗在小猪崽中混吃混喝",
@@ -1988,7 +2028,7 @@
     },
     {
       "raw_hot": 54871,
-      "num": 270911,
+      "num": 384160,
       "word": "moto小折叠的大外屏有多惊艳",
       "onboard_time": 1719302658,
       "rank": 21,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1719249554,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51665,
+      "num": 885964,
+      "word": "只此青绿版青海湖有多美",
+      "onboard_time": 1719303438,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51248,
@@ -2019,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44794,
+      "num": 211776,
+      "word": "下雨趟水后当心这些皮肤病找上门",
+      "onboard_time": 1719302838,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 43727,
       "num": 132027,
       "word": "韩密阳市政府就20年前性侵案道歉",
@@ -2035,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42614,
-      "num": 393204,
-      "word": "新闻专业是否已经处于低谷",
-      "onboard_time": 1719302479,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 41189,
       "num": 350400,
       "word": "抗洪消防员撤走前被老乡疯狂投喂",
@@ -2057,14 +2105,6 @@
       "onboard_time": 1719256392,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 40379,
-      "num": 204465,
-      "word": "下雨趟水后当心这些皮肤病找上门",
-      "onboard_time": 1719302838,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 39406,
@@ -2099,20 +2139,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 28422,
+      "num": 185870,
+      "word": "医学类大学和学院差距大吗",
+      "onboard_time": 1719302479,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27182,
       "num": 34470,
       "word": "快速对一个人祛魅的方式",
       "onboard_time": 1719251713,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26673,
-      "num": 808776,
-      "word": "只此青绿版青海湖有多美",
-      "onboard_time": 1719303438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26584,
@@ -2161,14 +2201,6 @@
       "onboard_time": 1719251773,
       "rank": 49,
       "category": "综艺,音乐"
-    },
-    {
-      "raw_hot": 24186,
-      "num": 185870,
-      "word": "医学类大学和学院差距大吗",
-      "onboard_time": 1719302479,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20912,
