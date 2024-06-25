@@ -1,0 +1,410 @@
+{
+  "runTime": 1719311845498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623162,
+        "num": 623162,
+        "word": "虞书欣 中餐厅ootd",
+        "onboard_time": 1719307878,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515584,
+        "num": 515584,
+        "word": "邪恶摇粒绒",
+        "onboard_time": 1719309497,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118373,
+        "num": 512224,
+        "word": "嫦娥六号月背挖宝回来了",
+        "onboard_time": 1719304938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833480,
+        "num": 511094,
+        "word": "男子用麻精药品迷奸多名女性被判无期",
+        "onboard_time": 1719305179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807889,
+        "num": 510898,
+        "word": "迪丽热巴这发际线",
+        "onboard_time": 1719303557,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509484,
+        "num": 509484,
+        "word": "男生复读一年涨220分直呼不敢信",
+        "onboard_time": 1719293539,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 490371,
+        "num": 490371,
+        "word": "NewJeans受到死亡威胁",
+        "onboard_time": 1719307759,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415495,
+        "num": 415495,
+        "word": "周迅 香家长公主",
+        "onboard_time": 1719309199,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338719,
+        "num": 338719,
+        "word": "女儿高考619分爸爸半夜把儿子喊醒",
+        "onboard_time": 1719289881,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 335817,
+        "word": "山东高考696分及以上50人",
+        "onboard_time": 1719311118,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1298014,
+        "num": 327098,
+        "word": "教育局回应女生拿6双筷子被斥盗窃",
+        "onboard_time": 1719302960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225276,
+        "num": 313521,
+        "word": "王艳儿子 北大",
+        "onboard_time": 1719296298,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675133,
+        "num": 306510,
+        "word": "庄国栋等了黄亦玫20年",
+        "onboard_time": 1719308839,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590056,
+        "num": 300249,
+        "word": "英语还值不值得作为专业学四年",
+        "onboard_time": 1719309258,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41565,
+        "num": 292535,
+        "word": "这些大学容易被忽视且性价比高",
+        "onboard_time": 1719309618,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352819,
+        "num": 285367,
+        "word": "章子怡疑似不满酱园弄戏份",
+        "onboard_time": 1719297378,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347442,
+        "num": 270271,
+        "word": "腾讯四连爆",
+        "onboard_time": 1719311539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267949,
+        "num": 267949,
+        "word": "一高中全班57人最低分608分",
+        "onboard_time": 1719300500,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235064,
+        "num": 235064,
+        "word": "6月游戏版号审批公布",
+        "onboard_time": 1719311239,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230388,
+        "num": 230388,
+        "word": "罗小黑原型",
+        "onboard_time": 1719310457,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 328935,
+        "num": 229719,
+        "word": "刘亦菲认出朱珠唇印",
+        "onboard_time": 1719307998,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510179,
+        "num": 227596,
+        "word": "长期不吃晚饭的人最终怎么了",
+        "onboard_time": 1719303079,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 323388,
+        "num": 225313,
+        "word": "筷子女王",
+        "onboard_time": 1719304638,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302210,
+        "num": 223665,
+        "word": "杨幂论文查重率",
+        "onboard_time": 1719282980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297076,
+        "num": 220842,
+        "word": "荣梓杉 等补录",
+        "onboard_time": 1719287299,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254142,
+        "num": 220442,
+        "word": "当代年轻人戴手串现状",
+        "onboard_time": 1719306198,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218514,
+        "num": 218514,
+        "word": "网友偶遇全智贤一家四口",
+        "onboard_time": 1719310758,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216888,
+        "num": 216888,
+        "word": "男生高考708分笔记工整似印刷",
+        "onboard_time": 1719306258,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204082,
+        "num": 204082,
+        "word": "薛之谦 二开什么时候",
+        "onboard_time": 1719311478,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199268,
+        "num": 199268,
+        "word": "袭击日本母子凶手已被抓",
+        "onboard_time": 1719306499,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187064,
+        "num": 187064,
+        "word": "孙阳和网友吵起来了",
+        "onboard_time": 1719311239,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175230,
+        "num": 175230,
+        "word": "谁家女主上来就叫男主狗东西",
+        "onboard_time": 1719298879,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170594,
+        "num": 170594,
+        "word": "山东分数线",
+        "onboard_time": 1719301521,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165331,
+        "num": 165331,
+        "word": "体测800m跑5分20秒经验分享",
+        "onboard_time": 1719305898,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155522,
+        "num": 155522,
+        "word": "原来真有人高考后第一件事是看书",
+        "onboard_time": 1719311358,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154591,
+        "num": 154591,
+        "word": "方便面活成了年轻人吃不起的样子",
+        "onboard_time": 1719311297,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "宋慧乔裴秀智林智妍同框照",
+        "onboard_time": 1719307039,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148689,
+        "num": 148689,
+        "word": "高考708分考生计划假期做家教",
+        "onboard_time": 1719306138,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145813,
+        "num": 145813,
+        "word": "嫦娥六号月球快递今天送达",
+        "onboard_time": 1719295400,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145384,
+        "num": 145384,
+        "word": "婚礼上取消了我不喜欢的环节",
+        "onboard_time": 1719285140,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125185,
+        "num": 125185,
+        "word": "新疆高考放榜",
+        "onboard_time": 1719311539,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120949,
+        "num": 120949,
+        "word": "时代少年团将录hi6",
+        "onboard_time": 1719308357,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118519,
+        "num": 118519,
+        "word": "谢霆锋 救命啊",
+        "onboard_time": 1719311719,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118465,
+        "num": 118465,
+        "word": "迪丽热巴 联想发布会",
+        "onboard_time": 1719301579,
+        "rank": 43,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 115282,
+        "num": 115282,
+        "word": "韩廷第一章回国",
+        "onboard_time": 1719308357,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114931,
+        "num": 114931,
+        "word": "没有人比张艺兴更怀念当年",
+        "onboard_time": 1719305719,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113722,
+        "num": 113722,
+        "word": "杨幂论文字数",
+        "onboard_time": 1719305359,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109867,
+        "num": 109867,
+        "word": "张婧仪把微博当朋友圈",
+        "onboard_time": 1719301579,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108313,
+        "num": 108313,
+        "word": "天津一化工厂发生火灾造成7人受伤",
+        "onboard_time": 1719310159,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 104595,
+        "num": 104595,
+        "word": "小夭头发都白了",
+        "onboard_time": 1719303977,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    }
+  }
+}
