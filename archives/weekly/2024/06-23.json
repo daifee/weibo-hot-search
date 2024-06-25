@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719346787256,
+  "endTime": 1719347692906,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -9059,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26184,
+      "num": 26184,
+      "word": "梁永棋抱着喝醉的王星越",
+      "onboard_time": 1719342551,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26171,
       "num": 177043,
       "word": "达吉斯坦在哪里",
@@ -9081,14 +9089,6 @@
       "onboard_time": 1719299179,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25444,
-      "num": 25444,
-      "word": "梁永棋抱着喝醉的王星越",
-      "onboard_time": 1719342551,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 25372,
