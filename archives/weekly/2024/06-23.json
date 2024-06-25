@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719314229530,
+  "endTime": 1719315278207,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -259,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1570370,
+      "num": 1570370,
+      "word": "腾讯四连爆",
+      "onboard_time": 1719311539,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1564868,
       "num": 599037,
       "word": "女子与男友发生关系后诬告对方强奸",
       "onboard_time": 1719231140,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1490641,
-      "num": 1490641,
-      "word": "腾讯四连爆",
-      "onboard_time": 1719311539,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 1483879,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768634,
+      "num": 306377,
+      "word": "唐尚珺今年成绩超600分",
+      "onboard_time": 1719313279,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 766978,
       "num": 521672,
       "word": "萨顶顶 去歌手吧",
@@ -1171,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 627426,
+      "num": 627426,
+      "word": "孙阳和网友吵起来了",
+      "onboard_time": 1719311239,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624296,
       "num": 624296,
       "word": "月亮",
@@ -1204,7 +1220,7 @@
     },
     {
       "raw_hot": 611884,
-      "num": 232760,
+      "num": 276769,
       "word": "长期不吃晚饭的人最终怎么了",
       "onboard_time": 1719303079,
       "rank": 41,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1719207739,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 569667,
-      "num": 569667,
-      "word": "孙阳和网友吵起来了",
-      "onboard_time": 1719311239,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 565976,
@@ -1923,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436590,
+      "num": 436590,
+      "word": "罗小黑原型",
+      "onboard_time": 1719310457,
+      "rank": 35,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 436197,
       "num": 378585,
       "word": "哑舍",
@@ -2443,14 +2459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362179,
-      "num": 362179,
-      "word": "罗小黑原型",
-      "onboard_time": 1719310457,
-      "rank": 35,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 361006,
       "num": 344517,
       "word": "枭起青壤",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1719281119,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343133,
+      "num": 343133,
+      "word": "洪啸官宣声生不息港乐季2",
+      "onboard_time": 1719313578,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 342928,
@@ -2939,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 294400,
+      "num": 294400,
+      "word": "张杰 鸟巢座位图",
+      "onboard_time": 1719313398,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
@@ -3291,6 +3315,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 248879,
+      "num": 248879,
+      "word": "北京警方通报65岁男子捂女孩嘴",
+      "onboard_time": 1719313998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247899,
       "num": 247899,
       "word": "乘风直播",
@@ -3452,7 +3484,7 @@
     },
     {
       "raw_hot": 235774,
-      "num": 212947,
+      "num": 214225,
       "word": "苏醒不参加披荆斩棘的原因",
       "onboard_time": 1719313339,
       "rank": 23,
@@ -3515,14 +3547,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 231493,
-      "num": 211998,
-      "word": "洪啸官宣声生不息港乐季2",
-      "onboard_time": 1719313578,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231337,
       "num": 191777,
       "word": "檀健次李兰迪滤镜海报",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1719193276,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230704,
-      "num": 230704,
-      "word": "唐尚珺今年成绩超600分",
-      "onboard_time": 1719313279,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 229480,
@@ -3667,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223002,
+      "num": 223002,
+      "word": "OpenAI宣布终止对中国提供API服务",
+      "onboard_time": 1719315077,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 222641,
       "num": 222641,
       "word": "中国游客为啥不想去韩国旅游了",
@@ -3729,6 +3753,14 @@
       "onboard_time": 1719155780,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219224,
+      "num": 196438,
+      "word": "菲律宾希望与中国就南海问题进行对话",
+      "onboard_time": 1719313159,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218601,
@@ -3883,14 +3915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209389,
-      "num": 196438,
-      "word": "菲律宾希望与中国就南海问题进行对话",
-      "onboard_time": 1719313159,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 209069,
       "num": 209069,
       "word": "许凯换发型了",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1719205640,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206855,
-      "num": 206855,
-      "word": "张杰 鸟巢座位图",
-      "onboard_time": 1719313398,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 206643,
@@ -4987,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175013,
+      "num": 175013,
+      "word": "方便面活成了年轻人吃不起的样子",
+      "onboard_time": 1719311297,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174972,
       "num": 174972,
       "word": "网红陈娴鼓励网友尝试心中所想",
@@ -5323,6 +5347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162358,
+      "num": 162358,
+      "word": "高考出分后聊天6大原则",
+      "onboard_time": 1719313698,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162314,
       "num": 162314,
       "word": "王一博赏雨侧拍花絮",
@@ -5427,14 +5459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160171,
-      "num": 160171,
-      "word": "方便面活成了年轻人吃不起的样子",
-      "onboard_time": 1719311297,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 160022,
       "num": 140047,
       "word": "何洁听尚雯婕哭了",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1719298038,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156608,
+      "num": 156608,
+      "word": "刘亦菲面部平整度",
+      "onboard_time": 1719311898,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 156584,
@@ -5731,14 +5763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 151059,
-      "num": 151059,
-      "word": "刘亦菲面部平整度",
-      "onboard_time": 1719311898,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150822,
       "num": 150822,
       "word": "印度男子用拖拉机拔河导致死亡",
@@ -5889,14 +5913,6 @@
       "onboard_time": 1719060679,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146736,
-      "num": 146736,
-      "word": "高考出分后聊天6大原则",
-      "onboard_time": 1719313698,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 146297,
@@ -6067,6 +6083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140321,
+      "num": 140321,
+      "word": "去阿勒泰的人后悔了吗",
+      "onboard_time": 1719311596,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 140282,
       "num": 140282,
       "word": "长沙发布暴雨红色预警",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1719115697,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134730,
+      "num": 134730,
+      "word": "谢霆锋回忆刘雅瑟爆破戏现场",
+      "onboard_time": 1719314599,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 134666,
@@ -6435,6 +6467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127216,
+      "num": 127216,
+      "word": "interpark进不去",
+      "onboard_time": 1719314747,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126882,
       "num": 126882,
       "word": "一眨眼中国运动员就夺冠了",
@@ -6467,28 +6507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126483,
-      "num": 126483,
-      "word": "北京警方通报65岁男子捂女孩嘴",
-      "onboard_time": 1719313998,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126269,
       "num": 483101,
       "word": "小徐帮表弟查分激动尖叫",
       "onboard_time": 1719226580,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126084,
-      "num": 126084,
-      "word": "去阿勒泰的人后悔了吗",
-      "onboard_time": 1719311596,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 125921,
@@ -6963,6 +6987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112647,
+      "num": 112647,
+      "word": "这是失眠大小姐吧",
+      "onboard_time": 1719314778,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112632,
       "num": 116135,
       "word": "李德仁薛其坤获国家最高科学技术奖",
@@ -6977,6 +7009,14 @@
       "onboard_time": 1719098953,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112041,
+      "num": 112041,
+      "word": "关智斌43岁状态",
+      "onboard_time": 1719315258,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 112015,
@@ -7971,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43555,
+      "num": 310021,
+      "word": "陕西小伙219天西安徒步到霍尔果斯",
+      "onboard_time": 1719314838,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43295,
       "num": 206858,
       "word": "日本多地水体和居民血检异常",
@@ -8097,6 +8145,14 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36938,
+      "num": 194530,
+      "word": "塞尔维亚武器是如何转移到乌军手中",
+      "onboard_time": 1719314747,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 36640,
@@ -8289,6 +8345,14 @@
       "onboard_time": 1719090071,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28217,
+      "num": 298716,
+      "word": "单霁翔说马踏飞燕文创顺拐",
+      "onboard_time": 1719314298,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 28202,
