@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719326231552,
+  "endTime": 1719329664248,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1453695,
+      "num": 1453695,
+      "word": "林一晒与刘亦菲合照",
+      "onboard_time": 1719325580,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1432129,
       "num": 1432129,
       "word": "高考分数线",
@@ -376,14 +384,6 @@
       "word": "李一桐 将门毒后",
       "onboard_time": 1719141378,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1242472,
-      "num": 380288,
-      "word": "林一晒与刘亦菲合照",
-      "onboard_time": 1719325580,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -841,6 +841,14 @@
       "onboard_time": 1719130279,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 829099,
+      "num": 256800,
+      "word": "长期不爱说话或说话少的后果",
+      "onboard_time": 1719324140,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 827911,
@@ -1571,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526126,
-      "num": 256800,
-      "word": "长期不爱说话或说话少的后果",
-      "onboard_time": 1719324140,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 522047,
       "num": 522047,
       "word": "白日提灯改名",
@@ -1785,6 +1785,14 @@
       "onboard_time": 1719098893,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 481767,
+      "num": 481767,
+      "word": "被境外毒枭悬赏人头的缉毒警有话要说",
+      "onboard_time": 1719323660,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479025,
@@ -2627,6 +2635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358977,
+      "num": 195281,
+      "word": "不想腹部长赘肉8种食物少吃",
+      "onboard_time": 1719326899,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 357701,
       "num": 357701,
       "word": "长相思男团要合体了",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1719325941,
       "rank": 16,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 343810,
+      "num": 343810,
+      "word": "江西卫视发了王一博哭戏",
+      "onboard_time": 1719328160,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 343133,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1719271755,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 262334,
+      "num": 262334,
+      "word": "清华告诉你北京到底有谁在",
+      "onboard_time": 1719328880,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 261545,
@@ -4539,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198913,
-      "num": 198913,
-      "word": "被境外毒枭悬赏人头的缉毒警有话要说",
-      "onboard_time": 1719323660,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198806,
       "num": 198806,
       "word": "美乐蒂装扮",
@@ -5121,6 +5145,14 @@
       "onboard_time": 1719319637,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181120,
+      "num": 136763,
+      "word": "只有川渝人才知道他演的有多像",
+      "onboard_time": 1719327020,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 180687,
@@ -5987,6 +6019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154993,
+      "num": 154993,
+      "word": "范志毅经常给鹿晗分析足球",
+      "onboard_time": 1719327020,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "天津一化工厂发生火灾造成7人受伤",
@@ -6017,6 +6057,14 @@
       "onboard_time": 1719258791,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153387,
+      "num": 443507,
+      "word": "除了买菜数学还有什么用",
+      "onboard_time": 1719325819,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153016,
@@ -7011,6 +7059,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124438,
+      "num": 124438,
+      "word": "林沐然艺考过本科线",
+      "onboard_time": 1719327979,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124307,
+      "num": 124307,
+      "word": "法国vs波兰",
+      "onboard_time": 1719326300,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124073,
       "num": 124073,
       "word": "C罗一脚单车拉回了20年前",
@@ -7065,6 +7129,14 @@
       "onboard_time": 1719129858,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122607,
+      "num": 122607,
+      "word": "黑龙江高考分数线",
+      "onboard_time": 1719328698,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 122474,
@@ -7201,6 +7273,14 @@
       "onboard_time": 1719232519,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 117919,
+      "num": 117919,
+      "word": "张杰将直播",
+      "onboard_time": 1719327440,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 117870,
@@ -7433,6 +7513,14 @@
       "onboard_time": 1719198258,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112623,
+      "num": 112623,
+      "word": "万茜怎么把编织袋穿身上了",
+      "onboard_time": 1719329119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 112385,
@@ -7953,6 +8041,14 @@
       "onboard_time": 1719199157,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85734,
+      "num": 105894,
+      "word": "美术馆就玫瑰的故事丢失作品致歉",
+      "onboard_time": 1719329539,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85514,
@@ -8507,6 +8603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43513,
+      "num": 298486,
+      "word": "学生不约而同到派出所躲雨",
+      "onboard_time": 1719328399,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43295,
       "num": 206858,
       "word": "日本多地水体和居民血检异常",
@@ -8579,6 +8683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 40246,
+      "num": 1116972,
+      "word": "高质量发展中国行",
+      "onboard_time": 1719322939,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39851,
       "num": 290277,
       "word": "西安交大毕业生这段演讲火了",
@@ -8641,14 +8753,6 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37471,
-      "num": 1116972,
-      "word": "高质量发展中国行",
-      "onboard_time": 1719322939,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36640,
@@ -8889,14 +8993,6 @@
       "onboard_time": 1719282918,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26431,
-      "num": 443507,
-      "word": "除了买菜数学还有什么用",
-      "onboard_time": 1719325819,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 26171,
