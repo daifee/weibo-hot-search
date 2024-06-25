@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 10:45:36
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 11:21:44
 </p>
 </blockquote>
 <p>
@@ -239,6 +239,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
 歌手声明（热度：2882708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D%E7%8E%87%23" target="weibo">
+杨幂论文查重率（热度：2836264）
 </a>
 </li>
 
@@ -4713,6 +4719,12 @@ Manner回应店员泼顾客咖啡粉（热度：824143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%BC%80%E5%BF%83%E6%99%92%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83438%E5%88%86%23" target="weibo">
+妈妈开心晒女儿高考438分（热度：816764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B5%B7%E9%A3%9E%E6%88%98%E6%9C%BA%E9%A9%B1%E7%A6%BB%E8%8D%B7%E5%85%B0%E8%88%B0%E8%BD%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%23" target="weibo">
 解放军起飞战机驱离荷兰舰载直升机（热度：816363）
 </a>
@@ -5189,12 +5201,6 @@ A股（热度：766564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F2%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%A8%AA%E6%B8%A1%E6%BA%AA%E6%B5%81%E8%A2%AB%E5%86%B2%E8%B5%B0%23" target="weibo">
 浙江2名游客横渡溪流被冲走（热度：766313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D%E7%8E%87%23" target="weibo">
-杨幂论文查重率（热度：765690）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%20%E4%BB%A5%E4%B8%BA%E5%9B%BD%E8%B6%B3%E5%9C%A8%E8%B8%A2%E7%9A%87%E9%A9%AC%23" target="weibo">
 苏醒 以为国足在踢皇马（热度：709241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23" target="weibo">
-王楚宣布退役（热度：708752）
 </a>
 </li>
 

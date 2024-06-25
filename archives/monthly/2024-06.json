@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719283536745,
+  "endTime": 1719285704158,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -305,6 +305,14 @@
       "onboard_time": 1718201240,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2836264,
+      "num": 2836264,
+      "word": "杨幂论文查重率",
+      "onboard_time": 1719282980,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2835817,
@@ -6052,7 +6060,7 @@
     },
     {
       "raw_hot": 837462,
-      "num": 281243,
+      "num": 289833,
       "word": "常喝牛奶和不常喝奶的人真的差很多",
       "onboard_time": 1719278058,
       "rank": 23,
@@ -6265,6 +6273,14 @@
       "onboard_time": 1718254878,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 816764,
+      "num": 816764,
+      "word": "妈妈开心晒女儿高考438分",
+      "onboard_time": 1719281719,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 816363,
@@ -6907,14 +6923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765690,
-      "num": 765690,
-      "word": "杨幂论文查重率",
-      "onboard_time": 1719282980,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 765444,
       "num": 765444,
       "word": "歌手第七期冲榜赛海报",
@@ -7348,7 +7356,7 @@
     },
     {
       "raw_hot": 742926,
-      "num": 527856,
+      "num": 725702,
       "word": "改试卷改到一张有答案的试卷",
       "onboard_time": 1719281059,
       "rank": 11,
@@ -8043,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706693,
+      "num": 706693,
+      "word": "广东高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 706670,
       "num": 200203,
       "word": "黄霄雲 朵莉亚",
@@ -8161,14 +8177,6 @@
       "onboard_time": 1718888178,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 699247,
-      "num": 699247,
-      "word": "妈妈开心晒女儿高考438分",
-      "onboard_time": 1719281719,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 698732,
@@ -10961,6 +10969,14 @@
       "onboard_time": 1717395018,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 578187,
+      "num": 578187,
+      "word": "当伴娘的刘亦菲",
+      "onboard_time": 1719282918,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 577501,
@@ -16939,6 +16955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419454,
+      "num": 419454,
+      "word": "你比星光美丽定档",
+      "onboard_time": 1719283398,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419430,
       "num": 419430,
       "word": "国足下场平韩国就能出线",
@@ -20636,7 +20660,7 @@
     },
     {
       "raw_hot": 346930,
-      "num": 273068,
+      "num": 281808,
       "word": "男朋友上班太困发错消息给领导了",
       "onboard_time": 1719281119,
       "rank": 22,
@@ -20777,6 +20801,14 @@
       "onboard_time": 1718787501,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 344135,
+      "num": 289669,
+      "word": "婚礼上取消了我不喜欢的环节",
+      "onboard_time": 1719285140,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 343943,
@@ -22281,14 +22313,6 @@
       "onboard_time": 1717247359,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 320306,
-      "num": 262633,
-      "word": "当伴娘的刘亦菲",
-      "onboard_time": 1719282918,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 320199,
@@ -30283,6 +30307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225254,
+      "num": 225254,
+      "word": "安徽本科历史类462物理类465",
+      "onboard_time": 1719284299,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225243,
       "num": 225243,
       "word": "iPhone显示无可用SIM卡",
@@ -34057,6 +34089,14 @@
       "onboard_time": 1717560379,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203711,
+      "num": 203711,
+      "word": "实验犬",
+      "onboard_time": 1719284360,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 203584,
@@ -39433,6 +39473,14 @@
       "onboard_time": 1718150899,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181917,
+      "num": 181917,
+      "word": "山东高考查分",
+      "onboard_time": 1719285559,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 181884,
@@ -47403,6 +47451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150384,
+      "num": 150384,
+      "word": "刘亦菲喊的傅家明霍建华都听到了",
+      "onboard_time": 1719285440,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150383,
       "num": 150383,
       "word": "武磊场下表情",
@@ -47729,6 +47785,14 @@
       "onboard_time": 1718519357,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149195,
+      "num": 149195,
+      "word": "甘肃高考分数线",
+      "onboard_time": 1719284000,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 149078,
@@ -49107,14 +49171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143547,
-      "num": 143547,
-      "word": "你比星光美丽定档",
-      "onboard_time": 1719283398,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "25岁好像是人生的分水岭",
@@ -49193,6 +49249,14 @@
       "onboard_time": 1718713037,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143122,
+      "num": 143122,
+      "word": "浙江高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 143107,
@@ -53385,6 +53449,14 @@
       "onboard_time": 1718720178,
       "rank": 26,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 128436,
+      "num": 128436,
+      "word": "闺蜜做直播养着失业的我",
+      "onboard_time": 1719284658,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 128422,
@@ -61388,7 +61460,7 @@
     },
     {
       "raw_hot": 96438,
-      "num": 854981,
+      "num": 891365,
       "word": "高铁火箭飞机的发展都与这门专业相关",
       "onboard_time": 1719236360,
       "rank": 2,
@@ -63800,6 +63872,14 @@
       "word": "高考收官家长们一路繁花相迎",
       "onboard_time": 1717845317,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74490,
+      "num": 479921,
+      "word": "人社局执法大队上门调查Manner",
+      "onboard_time": 1719284419,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -70315,6 +70395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26352,
+      "num": 297941,
+      "word": "高考后的内心对话",
+      "onboard_time": 1719283698,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26321,
       "num": 265837,
       "word": "黄文秀的心愿在一个个实现",
@@ -71721,6 +71809,14 @@
       "onboard_time": 1717873992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15112,
+      "num": 207645,
+      "word": "俄不会就乌克兰问题与任何一方私下谈判",
+      "onboard_time": 1719285619,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15098,
