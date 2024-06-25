@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719311845498,
+  "endTime": 1719314229530,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -265,6 +265,14 @@
       "onboard_time": 1719231140,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1490641,
+      "num": 1490641,
+      "word": "腾讯四连爆",
+      "onboard_time": 1719311539,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1483879,
@@ -700,11 +708,19 @@
     },
     {
       "raw_hot": 868785,
-      "num": 511094,
+      "num": 581903,
       "word": "男子用麻精药品迷奸多名女性被判无期",
       "onboard_time": 1719305179,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857777,
+      "num": 857777,
+      "word": "邪恶摇粒绒",
+      "onboard_time": 1719309497,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 853106,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 590056,
-      "num": 314634,
+      "num": 335599,
       "word": "英语还值不值得作为专业学四年",
       "onboard_time": 1719309258,
       "rank": 13,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1719207739,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569667,
+      "num": 569667,
+      "word": "孙阳和网友吵起来了",
+      "onboard_time": 1719311239,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 565976,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1719285978,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 515584,
-      "num": 515584,
-      "word": "邪恶摇粒绒",
-      "onboard_time": 1719309497,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 515545,
@@ -1915,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435177,
+      "num": 415495,
+      "word": "周迅 香家长公主",
+      "onboard_time": 1719309199,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434821,
       "num": 434821,
       "word": "张婧仪把微博当朋友圈",
@@ -2097,14 +2121,6 @@
       "onboard_time": 1719299060,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 415495,
-      "num": 415495,
-      "word": "周迅 香家长公主",
-      "onboard_time": 1719309199,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415055,
@@ -2427,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362179,
+      "num": 362179,
+      "word": "罗小黑原型",
+      "onboard_time": 1719310457,
+      "rank": 35,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 361006,
       "num": 344517,
       "word": "枭起青壤",
@@ -2531,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347442,
-      "num": 270271,
-      "word": "腾讯四连爆",
-      "onboard_time": 1719311539,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346930,
       "num": 281808,
       "word": "男朋友上班太困发错消息给领导了",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1719070878,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329562,
+      "num": 329562,
+      "word": "薛之谦 二开什么时候",
+      "onboard_time": 1719311478,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 329322,
@@ -3075,6 +3099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 270868,
+      "num": 270868,
+      "word": "原神",
+      "onboard_time": 1719313458,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270430,
       "num": 270430,
       "word": "外交部回应日本公民在苏州遇袭",
@@ -3419,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235774,
+      "num": 212947,
+      "word": "苏醒不参加披荆斩棘的原因",
+      "onboard_time": 1719313339,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235199,
       "num": 235199,
       "word": "一份没有985211的宝藏大学名单",
@@ -3475,6 +3515,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 231493,
+      "num": 211998,
+      "word": "洪啸官宣声生不息港乐季2",
+      "onboard_time": 1719313578,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231337,
       "num": 191777,
       "word": "檀健次李兰迪滤镜海报",
@@ -3499,12 +3547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230388,
-      "num": 230388,
-      "word": "罗小黑原型",
-      "onboard_time": 1719310457,
-      "rank": 35,
-      "category": "动漫,网红"
+      "raw_hot": 230704,
+      "num": 230704,
+      "word": "唐尚珺今年成绩超600分",
+      "onboard_time": 1719313279,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 229480,
@@ -3835,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209389,
+      "num": 196438,
+      "word": "菲律宾希望与中国就南海问题进行对话",
+      "onboard_time": 1719313159,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209069,
       "num": 209069,
       "word": "许凯换发型了",
@@ -3883,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208265,
+      "num": 208265,
+      "word": "中餐厅路透",
+      "onboard_time": 1719313638,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -3921,6 +3985,14 @@
       "onboard_time": 1719205640,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206855,
+      "num": 206855,
+      "word": "张杰 鸟巢座位图",
+      "onboard_time": 1719313398,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 206643,
@@ -4025,14 +4097,6 @@
       "onboard_time": 1719305898,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204082,
-      "num": 204082,
-      "word": "薛之谦 二开什么时候",
-      "onboard_time": 1719311478,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 203830,
@@ -4579,14 +4643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187064,
-      "num": 187064,
-      "word": "孙阳和网友吵起来了",
-      "onboard_time": 1719311239,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186708,
       "num": 186708,
       "word": "困在职场的35岁女性决定去考公",
@@ -4987,6 +5043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171736,
+      "num": 171736,
+      "word": "谢霆锋 救命啊",
+      "onboard_time": 1719311719,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171347,
       "num": 171347,
       "word": "马立奥 一直很幸福的小宝贝",
@@ -5363,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160171,
+      "num": 160171,
+      "word": "方便面活成了年轻人吃不起的样子",
+      "onboard_time": 1719311297,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160022,
       "num": 140047,
       "word": "何洁听尚雯婕哭了",
@@ -5563,14 +5635,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 154591,
-      "num": 154591,
-      "word": "方便面活成了年轻人吃不起的样子",
-      "onboard_time": 1719311297,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "肖战纯白POLO衫",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1719303679,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151059,
+      "num": 151059,
+      "word": "刘亦菲面部平整度",
+      "onboard_time": 1719311898,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 150822,
@@ -5817,6 +5889,14 @@
       "onboard_time": 1719060679,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146736,
+      "num": 146736,
+      "word": "高考出分后聊天6大原则",
+      "onboard_time": 1719313698,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 146297,
@@ -6387,12 +6467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126483,
+      "num": 126483,
+      "word": "北京警方通报65岁男子捂女孩嘴",
+      "onboard_time": 1719313998,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126269,
       "num": 483101,
       "word": "小徐帮表弟查分激动尖叫",
       "onboard_time": 1719226580,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126084,
+      "num": 126084,
+      "word": "去阿勒泰的人后悔了吗",
+      "onboard_time": 1719311596,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 125921,
@@ -6641,14 +6737,6 @@
       "onboard_time": 1719067760,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 118519,
-      "word": "谢霆锋 救命啊",
-      "onboard_time": 1719311719,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 118323,
@@ -6915,6 +7003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110393,
+      "num": 110393,
+      "word": "歌谣大战MC",
+      "onboard_time": 1719312078,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110245,
       "num": 110245,
       "word": "妈妈陪女儿高考查分做满满2页攻略",
@@ -7027,6 +7123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105840,
+      "num": 105840,
+      "word": "原神希格雯",
+      "onboard_time": 1719314118,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104853,
       "num": 101408,
       "word": "成毅白背心",
@@ -7081,6 +7185,14 @@
       "onboard_time": 1719205760,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101978,
+      "num": 101978,
+      "word": "法越馨发的迪丽热巴",
+      "onboard_time": 1719312559,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101956,
@@ -8057,6 +8169,14 @@
       "onboard_time": 1719237020,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 34271,
+      "num": 361034,
+      "word": "这幅土地丹青美到惊艳",
+      "onboard_time": 1719312017,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 33234,
