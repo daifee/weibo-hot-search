@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719319869664,
+  "endTime": 1719321755443,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -25,6 +25,14 @@
       "onboard_time": 1719287299,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2092533,
+      "num": 2092533,
+      "word": "男生查分后默默去做饭妈妈秒懂",
+      "onboard_time": 1719317478,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2057174,
@@ -56,14 +64,6 @@
       "word": "教育局回应女生拿6双筷子被斥盗窃",
       "onboard_time": 1719302960,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1579978,
-      "num": 1579978,
-      "word": "男生查分后默默去做饭妈妈秒懂",
-      "onboard_time": 1719317478,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -307,8 +307,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 704945,
-      "num": 704945,
+      "raw_hot": 731751,
+      "num": 731751,
       "word": "刘亦菲发文感谢所有人",
       "onboard_time": 1719317538,
       "rank": 4,
@@ -491,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 514408,
+      "num": 428442,
+      "word": "刘雅瑟 你是男的还是我是男的",
+      "onboard_time": 1719319880,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506307,
       "num": 510721,
       "word": "外国人在大连旅行感叹看到了全世界",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 447943,
-      "num": 315671,
+      "num": 399957,
       "word": "刘亦菲认出朱珠唇印",
       "onboard_time": 1719307998,
       "rank": 48,
@@ -627,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424222,
+      "num": 352402,
+      "word": "腾讯视频回复刘亦菲",
+      "onboard_time": 1719318439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422262,
       "num": 422262,
       "word": "你比星光美丽定档",
       "onboard_time": 1719283398,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421725,
+      "num": 397329,
+      "word": "古茗logo",
+      "onboard_time": 1719317899,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 416973,
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379792,
-      "num": 302285,
-      "word": "古茗logo",
-      "onboard_time": 1719317899,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 369122,
       "num": 248748,
       "word": "林一回应和刘亦菲合作",
@@ -771,12 +787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329950,
-      "num": 295000,
-      "word": "腾讯视频回复刘亦菲",
-      "onboard_time": 1719318439,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 330860,
+      "num": 411495,
+      "word": "喜茶新品名小奶栀被指擦边",
+      "onboard_time": 1719318859,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330608,
+      "num": 330608,
+      "word": "MTJJ 弃养",
+      "onboard_time": 1719319819,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 329562,
@@ -891,12 +915,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 287962,
+      "num": 287962,
+      "word": "金智媛台北活动",
+      "onboard_time": 1719318559,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287705,
       "num": 279244,
       "word": "李泽锋 实在不行找站姐借图吧",
       "onboard_time": 1719302600,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285702,
+      "num": 397352,
+      "word": "我考了696分我同桌考了703分",
+      "onboard_time": 1719319759,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283320,
@@ -955,14 +995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270805,
-      "num": 270805,
-      "word": "金智媛台北活动",
-      "onboard_time": 1719318559,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270459,
       "num": 270459,
       "word": "A股大跌",
@@ -983,6 +1015,14 @@
       "num": 220442,
       "word": "当代年轻人戴手串现状",
       "onboard_time": 1719306198,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267614,
+      "num": 267614,
+      "word": "日本卖的西瓜皮是谁啃的",
+      "onboard_time": 1719316158,
       "rank": 25,
       "category": "幽默"
     },
@@ -1051,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248114,
+      "num": 248114,
+      "word": "喜茶 小奶栀",
+      "onboard_time": 1719321079,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246613,
       "num": 246613,
       "word": "六点钟下班真的太晚了",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1719311239,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232602,
-      "num": 232602,
-      "word": "日本卖的西瓜皮是谁啃的",
-      "onboard_time": 1719316158,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 231640,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1719284299,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223628,
+      "num": 223628,
+      "word": "宝石老舅已老实求放过",
+      "onboard_time": 1719321620,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 223002,
@@ -1307,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207390,
+      "num": 196553,
+      "word": "韩国流行的半扎发方法",
+      "onboard_time": 1719320600,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 206082,
       "num": 206082,
       "word": "山东高考分数线",
@@ -1339,12 +1395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203206,
-      "num": 203206,
-      "word": "喜茶新品名小奶栀被指擦边",
-      "onboard_time": 1719318859,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 203282,
+      "num": 203282,
+      "word": "涂山璟还是熟悉的那味儿",
+      "onboard_time": 1719320600,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 203146,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1719316757,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198996,
+      "num": 198996,
+      "word": "WBG更换首发辅助",
+      "onboard_time": 1719316098,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 198806,
@@ -1595,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181917,
+      "num": 181917,
+      "word": "颜心记 嫂子文学",
+      "onboard_time": 1719319637,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180687,
       "num": 180687,
       "word": "高中最好的成绩给了高考",
@@ -1659,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174064,
+      "num": 174064,
+      "word": "张常宁进入拟退役运动员公示名单",
+      "onboard_time": 1719319098,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173831,
       "num": 173831,
       "word": "江苏高考689分及以上107人",
@@ -1689,14 +1769,6 @@
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169707,
-      "num": 169707,
-      "word": "张常宁进入拟退役运动员公示名单",
-      "onboard_time": 1719319098,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 168846,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1719299419,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160160,
+      "num": 160160,
+      "word": "双鱼座讨厌一个人全写在脸上",
+      "onboard_time": 1719320479,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 159182,
@@ -1979,12 +2059,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149061,
+      "num": 149061,
+      "word": "哪些人适合复读",
+      "onboard_time": 1719321198,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148560,
       "num": 457299,
       "word": "女生高考查分690上演超长反射弧",
       "onboard_time": 1719289639,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148344,
+      "num": 148344,
+      "word": "西野加奈复出",
+      "onboard_time": 1719320358,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148017,
@@ -2227,14 +2323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129514,
-      "num": 129514,
-      "word": "颜心记 嫂子文学",
-      "onboard_time": 1719319637,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128636,
       "num": 128636,
       "word": "足协杯抽签",
@@ -2395,14 +2483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114649,
-      "num": 114649,
-      "word": "MTJJ 弃养",
-      "onboard_time": 1719319819,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 114039,
       "num": 114039,
       "word": "这些奥运老将即将出征巴黎",
@@ -2483,12 +2563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107373,
+      "num": 107373,
+      "word": "暨南大学教授谈新闻学就业",
+      "onboard_time": 1719321500,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 107276,
       "num": 1115982,
       "word": "嫦娥六号发博提醒接收月球快递",
       "onboard_time": 1719291020,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106362,
+      "num": 106362,
+      "word": "清华教授说新闻学值得学",
+      "onboard_time": 1719321379,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 105840,
@@ -2619,14 +2715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74013,
-      "num": 158952,
-      "word": "我考了696分我同桌考了703分",
-      "onboard_time": 1719319759,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71650,
       "num": 87922,
       "word": "大四女生退学后复读5个月考641分",
@@ -2739,6 +2827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44895,
+      "num": 149976,
+      "word": "张艺谋龙年龙服助力奥运",
+      "onboard_time": 1719321259,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 44794,
       "num": 211776,
       "word": "下雨趟水后当心这些皮肤病找上门",
@@ -2816,6 +2912,14 @@
       "word": "男生高考696班主任嘴角上扬压不住",
       "onboard_time": 1719307518,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36853,
+      "num": 732811,
+      "word": "嫦娥六号返回器安全着陆",
+      "onboard_time": 1719320658,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2963,6 +3067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 14357,
+      "num": 336922,
+      "word": "姜铁红院长文化之夜现场跳奔腾",
+      "onboard_time": 1719320419,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13676,
       "num": 92220,
       "word": "小伙患心肌炎拒治疗医生紧急救回一命",
@@ -3005,6 +3117,9 @@
     },
     {
       "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    },
+    {
+      "word": "#总书记这样谈科学家精神#"
     }
   ]
 }
