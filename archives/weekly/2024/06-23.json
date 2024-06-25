@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719296828499,
+  "endTime": 1719297592632,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -161,6 +161,14 @@
       "onboard_time": 1719230598,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1729073,
+      "num": 407762,
+      "word": "王艳儿子 北大",
+      "onboard_time": 1719296298,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1707973,
@@ -1171,6 +1179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 563495,
+      "num": 563495,
+      "word": "章子怡疑似不满酱园弄戏份",
+      "onboard_time": 1719297378,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 559900,
       "num": 559900,
       "word": "鹅厂2024大剧片单",
@@ -1443,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492341,
+      "num": 492341,
+      "word": "主办方回应杨幂论文查重率争议",
+      "onboard_time": 1719294258,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491461,
       "num": 290802,
       "word": "榴莲的叶酸含量是苹果的30倍",
@@ -1460,19 +1484,11 @@
     },
     {
       "raw_hot": 487246,
-      "num": 350369,
+      "num": 406706,
       "word": "美国会称无法接受解放军装备武装机器狗",
       "onboard_time": 1719291081,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 486305,
-      "num": 486305,
-      "word": "主办方回应杨幂论文查重率争议",
-      "onboard_time": 1719294258,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 485367,
@@ -1907,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416973,
+      "num": 416973,
+      "word": "浙江高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 415055,
       "num": 415055,
       "word": "中方对波兰公民实施15日单方面免签",
@@ -1988,7 +2012,7 @@
     },
     {
       "raw_hot": 403444,
-      "num": 226737,
+      "num": 234438,
       "word": "加勒比海盗男演员遭鲨鱼攻击身亡",
       "onboard_time": 1719290661,
       "rank": 23,
@@ -2049,14 +2073,6 @@
       "onboard_time": 1719240321,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 390275,
-      "num": 390275,
-      "word": "浙江高考分数线",
-      "onboard_time": 1719284780,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 389975,
@@ -2203,14 +2219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364500,
-      "num": 340627,
-      "word": "王艳儿子 北大",
-      "onboard_time": 1719296298,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362271,
       "num": 362271,
       "word": "土耳其vs葡萄牙",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1719130578,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357602,
+      "num": 357602,
+      "word": "集体降价的豪车为啥不香了",
+      "onboard_time": 1719294678,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 357524,
@@ -2305,14 +2321,6 @@
       "onboard_time": 1719111977,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 351690,
-      "num": 351690,
-      "word": "集体降价的豪车为啥不香了",
-      "onboard_time": 1719294678,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 347736,
@@ -2457,6 +2465,14 @@
       "onboard_time": 1719145398,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320583,
+      "num": 320583,
+      "word": "嫦娥六号带回月背土特产",
+      "onboard_time": 1719296480,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 319454,
@@ -2747,6 +2763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281316,
+      "num": 281316,
+      "word": "男生复读一年涨220分直呼不敢信",
+      "onboard_time": 1719293539,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 280215,
       "num": 170685,
       "word": "易猝死的人有4个共同点",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1719288559,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275734,
-      "num": 275734,
-      "word": "嫦娥六号带回月背土特产",
-      "onboard_time": 1719296480,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 275401,
@@ -3009,14 +3025,6 @@
       "onboard_time": 1719227718,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247305,
-      "num": 247305,
-      "word": "男生复读一年涨220分直呼不敢信",
-      "onboard_time": 1719293539,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246613,
@@ -3643,6 +3651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "嫦娥六号月球快递今天送达",
+      "onboard_time": 1719295400,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203830,
       "num": 203830,
       "word": "唐嫣状态",
@@ -3867,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195818,
+      "num": 195818,
+      "word": "长相思第一季名场面回顾",
+      "onboard_time": 1719295218,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195637,
       "num": 195637,
       "word": "特控线",
@@ -3897,6 +3921,14 @@
       "onboard_time": 1719120139,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194569,
+      "num": 194569,
+      "word": "联想发布会",
+      "onboard_time": 1719296659,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 194499,
@@ -3971,12 +4003,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191759,
+      "num": 191759,
+      "word": "艺考生 本科线",
+      "onboard_time": 1719295878,
+      "rank": 33,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 191172,
       "num": 191172,
       "word": "孙怡跳了TFBOYS的歌",
       "onboard_time": 1719119419,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190796,
+      "num": 190796,
+      "word": "嫦娥六号欢迎回家",
+      "onboard_time": 1719296539,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 190620,
+      "num": 190620,
+      "word": "终于等到张艺兴ALegend",
+      "onboard_time": 1719297559,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190473,
+      "num": 190473,
+      "word": "刘亦菲还没跳呢就咔了",
+      "onboard_time": 1719296238,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 190354,
@@ -4041,6 +4105,14 @@
       "onboard_time": 1719212418,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188802,
+      "num": 188802,
+      "word": "黄仁勋已套现6.9亿元",
+      "onboard_time": 1719294378,
+      "rank": 30,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 188304,
@@ -4177,14 +4249,6 @@
       "onboard_time": 1719147918,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 184854,
-      "num": 184854,
-      "word": "黄仁勋已套现6.9亿元",
-      "onboard_time": 1719294378,
-      "rank": 30,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 184733,
@@ -4427,14 +4491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174170,
-      "num": 174170,
-      "word": "联想发布会",
-      "onboard_time": 1719296659,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173855,
       "num": 173855,
       "word": "C罗成欧洲杯历史助攻王",
@@ -4483,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170949,
-      "num": 170949,
-      "word": "艺考生 本科线",
-      "onboard_time": 1719295878,
-      "rank": 33,
-      "category": "教育,艺人"
-    },
-    {
       "raw_hot": 170452,
       "num": 166825,
       "word": "吴谨言王星越到底亲了多久",
@@ -4521,6 +4569,14 @@
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169447,
+      "num": 169447,
+      "word": "决定臀型的不是撸铁而是体态",
+      "onboard_time": 1719297440,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 169348,
@@ -4689,22 +4745,6 @@
       "onboard_time": 1719231438,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164767,
-      "num": 164767,
-      "word": "嫦娥六号欢迎回家",
-      "onboard_time": 1719296539,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 164506,
-      "num": 164506,
-      "word": "长相思第一季名场面回顾",
-      "onboard_time": 1719295218,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 164330,
@@ -5427,20 +5467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138181,
-      "num": 131598,
-      "word": "刘亦菲还没跳呢就咔了",
-      "onboard_time": 1719296238,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138138,
       "num": 138138,
       "word": "我不成仙",
       "onboard_time": 1719274038,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137687,
+      "num": 208702,
+      "word": "神仙同桌高考一个650分一个700分",
+      "onboard_time": 1719295519,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 137559,
@@ -5489,14 +5529,6 @@
       "onboard_time": 1719122297,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135762,
-      "num": 196665,
-      "word": "嫦娥六号月球快递今天送达",
-      "onboard_time": 1719295400,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135393,
@@ -6401,14 +6433,6 @@
       "onboard_time": 1719118698,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102471,
-      "num": 208702,
-      "word": "神仙同桌高考一个650分一个700分",
-      "onboard_time": 1719295519,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 102320,
