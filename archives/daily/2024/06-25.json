@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719299884711,
+  "endTime": 1719300900636,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2189917,
-      "num": 407762,
+      "num": 411096,
       "word": "王艳儿子 北大",
       "onboard_time": 1719296298,
       "rank": 12,
@@ -35,6 +35,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1615141,
+      "num": 1615141,
+      "word": "日本母子苏州遇袭",
+      "onboard_time": 1719298339,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1418626,
       "num": 902680,
       "word": "北大教授建议年轻人不要躺平继续卷",
@@ -51,14 +59,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1274587,
-      "num": 1274587,
-      "word": "日本母子苏州遇袭",
-      "onboard_time": 1719298339,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1186042,
       "num": 784978,
       "word": "杜江霍思燕收养实验犬",
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1170053,
+      "num": 1170053,
+      "word": "章子怡疑似不满酱园弄戏份",
+      "onboard_time": 1719297378,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1096340,
       "num": 1096340,
       "word": "清华北大为了抢人有多拼",
       "onboard_time": 1719274938,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1081230,
-      "num": 1081230,
-      "word": "章子怡疑似不满酱园弄戏份",
-      "onboard_time": 1719297378,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1077125,
@@ -145,6 +145,14 @@
       "onboard_time": 1719285140,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 922653,
+      "num": 922653,
+      "word": "山东高考查分",
+      "onboard_time": 1719285559,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 899187,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645522,
+      "num": 645522,
+      "word": "男生复读一年涨220分直呼不敢信",
+      "onboard_time": 1719293539,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 609677,
       "num": 372237,
       "word": "女子与男友发生关系后诬告对方强奸",
@@ -283,14 +299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 548965,
-      "num": 548965,
-      "word": "山东高考查分",
-      "onboard_time": 1719285559,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 547794,
       "num": 443060,
       "word": "普京称没人会军援俄能自给自足",
@@ -305,6 +313,14 @@
       "onboard_time": 1719243859,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 530650,
+      "num": 530650,
+      "word": "谁家女主上来就叫男主狗东西",
+      "onboard_time": 1719298879,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 515688,
@@ -371,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455278,
-      "num": 455278,
-      "word": "男生复读一年涨220分直呼不敢信",
-      "onboard_time": 1719293539,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 447428,
       "num": 268656,
       "word": "刘亦菲喝了黄玫瑰拿铁",
@@ -435,8 +443,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 415972,
+      "num": 406039,
+      "word": "章子怡 明涵",
+      "onboard_time": 1719299060,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 405885,
+      "num": 405885,
+      "word": "高考查分",
+      "onboard_time": 1719298819,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 403444,
-      "num": 260332,
+      "num": 270193,
       "word": "加勒比海盗男演员遭鲨鱼攻击身亡",
       "onboard_time": 1719290661,
       "rank": 23,
@@ -539,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312018,
-      "num": 312018,
-      "word": "谁家女主上来就叫男主狗东西",
-      "onboard_time": 1719298879,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308653,
       "num": 246145,
       "word": "韩雪 难听",
@@ -607,14 +623,6 @@
       "num": 281809,
       "word": "广西高考分数线",
       "onboard_time": 1719292399,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 280272,
-      "num": 280272,
-      "word": "高考查分",
-      "onboard_time": 1719298819,
       "rank": 17,
       "category": "教育"
     },
@@ -691,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253809,
+      "num": 253809,
+      "word": "赛力斯跌停",
+      "onboard_time": 1719299539,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252659,
       "num": 241657,
       "word": "经常喝茶与经常喝咖啡的人谁更年轻",
       "onboard_time": 1719286880,
       "rank": 28,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 250798,
-      "num": 250798,
-      "word": "章子怡 明涵",
-      "onboard_time": 1719299060,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 250149,
@@ -723,12 +731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240361,
+      "num": 240361,
+      "word": "决定臀型的不是撸铁而是体态",
+      "onboard_time": 1719297440,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 239865,
       "num": 239865,
       "word": "靳梦佳救场",
       "onboard_time": 1719239420,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233754,
+      "num": 233754,
+      "word": "一高中全班57人最低分608分",
+      "onboard_time": 1719300500,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229480,
@@ -769,14 +793,6 @@
       "onboard_time": 1719288141,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 221098,
-      "num": 221098,
-      "word": "决定臀型的不是撸铁而是体态",
-      "onboard_time": 1719297440,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 217553,
@@ -841,6 +857,14 @@
       "onboard_time": 1719284360,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203146,
+      "num": 203146,
+      "word": "成龙夸张艺兴全能",
+      "onboard_time": 1719299899,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 200182,
@@ -1075,12 +1099,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173317,
+      "num": 173317,
+      "word": "执行法官电锯老赖硬碰硬",
+      "onboard_time": 1719299959,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169991,
       "num": 169991,
       "word": "霍拉拉",
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168846,
+      "num": 168846,
+      "word": "安徽高考500多分能上什么大学",
+      "onboard_time": 1719299239,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 168531,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1719289220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160262,
+      "num": 160262,
+      "word": "萨顶顶录完浪姐对真人秀真香了",
+      "onboard_time": 1719299419,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159182,
@@ -1291,22 +1339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 145743,
-      "num": 145743,
-      "word": "赛力斯跌停",
-      "onboard_time": 1719299539,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 144223,
-      "num": 144223,
-      "word": "萨顶顶录完浪姐对真人秀真香了",
-      "onboard_time": 1719299419,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143854,
       "num": 143854,
       "word": "真想念内马尔",
@@ -1347,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139543,
+      "num": 139543,
+      "word": "赛力斯",
+      "onboard_time": 1719299720,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139075,
       "num": 139075,
       "word": "陈丽君 投票",
@@ -1379,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136352,
+      "num": 136352,
+      "word": "司美格鲁肽国内获批用于长期体重管理",
+      "onboard_time": 1719300078,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -1409,14 +1457,6 @@
       "onboard_time": 1719234620,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132821,
-      "num": 132821,
-      "word": "安徽高考500多分能上什么大学",
-      "onboard_time": 1719299239,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 131918,
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 128131,
-      "num": 128131,
+      "num": 413437,
       "word": "浙大本科录取通知书里藏了盏灯",
       "onboard_time": 1719299117,
       "rank": 46,
@@ -1515,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122851,
+      "num": 122851,
+      "word": "天津一化工厂发生火灾事故",
+      "onboard_time": 1719300860,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 121256,
       "num": 183519,
       "word": "阿桑奇或将认罪",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1719221421,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118008,
-      "num": 118008,
-      "word": "赛力斯",
-      "onboard_time": 1719299720,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 117580,
@@ -1803,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43727,
+      "num": 132027,
+      "word": "韩密阳市政府就20年前性侵案道歉",
+      "onboard_time": 1719300140,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41189,
       "num": 350400,
       "word": "抗洪消防员撤走前被老乡疯狂投喂",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1719250034,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9200,
+      "num": 378153,
+      "word": "国家科技奖高校神仙打架",
+      "onboard_time": 1719300738,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 7747,
