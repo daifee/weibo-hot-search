@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 15:35:00
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 16:24:43
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%20%E5%AE%9A%E6%A1%A3%23" target="weibo">
 长相思2 定档（热度：2064085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+山东分数线（热度：2057174）
 </a>
 </li>
 
@@ -1119,6 +1125,12 @@ doc和docx有什么区别（热度：1718023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AF%8D%E5%AD%90%E8%8B%8F%E5%B7%9E%E9%81%87%E8%A2%AD%23" target="weibo">
+日本母子苏州遇袭（热度：1633901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7Manner%E4%B8%80%E7%94%B7%E5%BA%97%E5%91%98%E6%AE%B4%E6%89%93%E5%A5%B3%E9%A1%BE%E5%AE%A2%23" target="weibo">
 上海Manner一男店员殴打女顾客（热度：1633638）
 </a>
@@ -1145,12 +1157,6 @@ doc和docx有什么区别（热度：1718023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D4%E6%9C%88%E4%BB%BD%E6%80%BB%E6%88%90%E7%BB%A9%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%23" target="weibo">
 姜萍4月份总成绩年级第一（热度：1618584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AF%8D%E5%AD%90%E8%8B%8F%E5%B7%9E%E9%81%87%E8%A2%AD%23" target="weibo">
-日本母子苏州遇袭（热度：1615141）
 </a>
 </li>
 
@@ -4857,6 +4863,12 @@ aespa放送0分（热度：809810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%AB%98%E4%B8%AD%E5%85%A8%E7%8F%AD57%E4%BA%BA%E6%9C%80%E4%BD%8E%E5%88%86608%E5%88%86%23" target="weibo">
+一高中全班57人最低分608分（热度：807442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0896%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="weibo">
 宁德时代回应网传896工作制（热度：807290）
 </a>
@@ -5999,18 +6011,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%8F%E6%B6%88%E6%81%AF%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F%E5%A5%BD%E6%B6%88%E6%81%AF%E5%8F%AA%E4%B8%8A4%E5%A4%A9%23" target="weibo">
 坏消息假期结束好消息只上4天（热度：715234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E7%9B%B2%E6%96%87%E5%8D%B7%E8%A6%81%E8%80%83225%E5%88%86%E9%92%9F%23" target="weibo">
-高考语文盲文卷要考225分钟（热度：714550）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%8C%82%E8%84%96%E6%97%97%E8%A2%8D%23" target="weibo">
-田曦薇挂脖旗袍（热度：714466）
 </a>
 </li>
 

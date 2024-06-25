@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719300900636,
+  "endTime": 1719303883817,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2057174,
+      "num": 2057174,
+      "word": "山东分数线",
+      "onboard_time": 1719301521,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1909740,
       "num": 1909740,
       "word": "故意考0分考生语文101英语95分",
@@ -35,7 +43,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1615141,
+      "raw_hot": 1633901,
       "num": 1615141,
       "word": "日本母子苏州遇袭",
       "onboard_time": 1719298339,
@@ -187,6 +195,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 807442,
+      "num": 807442,
+      "word": "一高中全班57人最低分608分",
+      "onboard_time": 1719300500,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 795355,
       "num": 273572,
       "word": "去医院掏耳屎直接晕厥了",
@@ -241,6 +257,14 @@
       "onboard_time": 1719292339,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684262,
+      "num": 203181,
+      "word": "迪丽热巴 白蝴蝶",
+      "onboard_time": 1719300918,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 665536,
@@ -411,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 439930,
+      "num": 439930,
+      "word": "迪丽热巴 联想发布会",
+      "onboard_time": 1719301579,
+      "rank": 6,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 433878,
       "num": 433878,
       "word": "丢十年的作品出现在玫瑰的故事",
@@ -459,6 +491,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405633,
+      "num": 398585,
+      "word": "张婧仪把微博当朋友圈",
+      "onboard_time": 1719301579,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403474,
+      "num": 403474,
+      "word": "赛力斯跌停",
+      "onboard_time": 1719299539,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 403444,
       "num": 270193,
       "word": "加勒比海盗男演员遭鲨鱼攻击身亡",
@@ -481,6 +529,14 @@
       "onboard_time": 1719287419,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 392951,
+      "num": 392951,
+      "word": "被斥盗窃女生食堂外发1万双筷子",
+      "onboard_time": 1719301460,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383092,
@@ -537,6 +593,22 @@
       "onboard_time": 1719281119,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327987,
+      "num": 327987,
+      "word": "迪丽热巴这发际线",
+      "onboard_time": 1719303557,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323850,
+      "num": 323850,
+      "word": "山东高考发布会",
+      "onboard_time": 1719301521,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 320583,
@@ -603,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289942,
+      "num": 289942,
+      "word": "浙江高考成绩",
+      "onboard_time": 1719302719,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 288887,
       "num": 243186,
       "word": "韩方向中方表示哀悼",
@@ -633,6 +713,14 @@
       "onboard_time": 1719243559,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 279244,
+      "num": 279244,
+      "word": "李泽锋 实在不行找站姐借图吧",
+      "onboard_time": 1719302600,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 276884,
@@ -699,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253809,
-      "num": 253809,
-      "word": "赛力斯跌停",
-      "onboard_time": 1719299539,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 252659,
       "num": 241657,
       "word": "经常喝茶与经常喝咖啡的人谁更年轻",
@@ -747,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233754,
-      "num": 233754,
-      "word": "一高中全班57人最低分608分",
-      "onboard_time": 1719300500,
-      "rank": 25,
-      "category": "教育,社会新闻"
+      "raw_hot": 231640,
+      "num": 231640,
+      "word": "天津一化工厂发生火灾事故",
+      "onboard_time": 1719300860,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 229480,
@@ -769,6 +849,14 @@
       "onboard_time": 1719242659,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227123,
+      "num": 395537,
+      "word": "为什么你赢不了嘴强亲戚",
+      "onboard_time": 1719303618,
+      "rank": 13,
+      "category": "科学科普"
     },
     {
       "raw_hot": 226786,
@@ -811,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215754,
+      "num": 215754,
+      "word": "教育局回应女生拿6双筷子被斥盗窃",
+      "onboard_time": 1719302960,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215158,
       "num": 215141,
       "word": "杭州西湖泄洪了",
@@ -843,12 +939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206082,
+      "num": 206082,
+      "word": "山东高考分数线",
+      "onboard_time": 1719302358,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204171,
       "num": 405379,
       "word": "嫦娥六号月球快递今天送达",
       "onboard_time": 1719295400,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204150,
+      "num": 204150,
+      "word": "刘亦菲同款冲锋衣卖断货",
+      "onboard_time": 1719302719,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 203711,
@@ -897,6 +1009,14 @@
       "onboard_time": 1719236720,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 197637,
+      "num": 197637,
+      "word": "陈丽君为什么会输",
+      "onboard_time": 1719301879,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197217,
@@ -955,6 +1075,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 191739,
+      "num": 191739,
+      "word": "外交部回应日本公民在苏州遇袭",
+      "onboard_time": 1719303557,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190796,
       "num": 190796,
       "word": "嫦娥六号欢迎回家",
@@ -985,6 +1113,14 @@
       "onboard_time": 1719272417,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188968,
+      "num": 188968,
+      "word": "摩根大通辟谣看空中国股市",
+      "onboard_time": 1719303618,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 188802,
@@ -1027,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185342,
+      "num": 185342,
+      "word": "我国2024年出生人口或迎小幅反弹",
+      "onboard_time": 1719301341,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185247,
       "num": 185247,
       "word": "郭麒麟想和高圆圆上恋综秦霄贤更想",
@@ -1043,12 +1187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180742,
+      "num": 180742,
+      "word": "长期不吃晚饭的人最终怎么了",
+      "onboard_time": 1719303079,
+      "rank": 41,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 180687,
       "num": 180687,
       "word": "高中最好的成绩给了高考",
       "onboard_time": 1719289761,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180244,
+      "num": 180244,
+      "word": "司美格鲁肽国内获批用于长期体重管理",
+      "onboard_time": 1719300078,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179595,
@@ -1177,6 +1337,14 @@
       "onboard_time": 1719293298,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 160714,
+      "word": "中国对新西兰澳大利亚波兰试行免签",
+      "onboard_time": 1719303739,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160522,
@@ -1331,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147878,
+      "num": 147878,
+      "word": "男生查分后晒高考成绩比平时多50分",
+      "onboard_time": 1719303798,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 146297,
       "num": 146297,
       "word": "湖北分数线",
@@ -1395,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "TMEA音乐盛典阵容",
+      "onboard_time": 1719303557,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138138,
       "num": 138138,
       "word": "我不成仙",
@@ -1417,14 +1601,6 @@
       "onboard_time": 1719271875,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136352,
-      "num": 136352,
-      "word": "司美格鲁肽国内获批用于长期体重管理",
-      "onboard_time": 1719300078,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136073,
@@ -1553,14 +1729,6 @@
       "onboard_time": 1719279619,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122851,
-      "num": 122851,
-      "word": "天津一化工厂发生火灾事故",
-      "onboard_time": 1719300860,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 121256,
@@ -1819,6 +1987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 54871,
+      "num": 270911,
+      "word": "moto小折叠的大外屏有多惊艳",
+      "onboard_time": 1719302658,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53946,
       "num": 53497,
       "word": "狗狗临走前被摸后果断离去",
@@ -1851,6 +2027,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43295,
+      "num": 206858,
+      "word": "日本多地水体和居民血检异常",
+      "onboard_time": 1719303618,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42614,
+      "num": 393204,
+      "word": "新闻专业是否已经处于低谷",
+      "onboard_time": 1719302479,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41189,
       "num": 350400,
       "word": "抗洪消防员撤走前被老乡疯狂投喂",
@@ -1865,6 +2057,14 @@
       "onboard_time": 1719256392,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 40379,
+      "num": 204465,
+      "word": "下雨趟水后当心这些皮肤病找上门",
+      "onboard_time": 1719302838,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 39406,
@@ -1905,6 +2105,14 @@
       "onboard_time": 1719251713,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26673,
+      "num": 808776,
+      "word": "只此青绿版青海湖有多美",
+      "onboard_time": 1719303438,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26584,
@@ -1953,6 +2161,14 @@
       "onboard_time": 1719251773,
       "rank": 49,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 24186,
+      "num": 185870,
+      "word": "医学类大学和学院差距大吗",
+      "onboard_time": 1719302479,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20912,
