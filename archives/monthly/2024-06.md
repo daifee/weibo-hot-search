@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 13:19:10
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 13:35:17
 </p>
 </blockquote>
 <p>
@@ -1923,6 +1923,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83619%E5%88%86%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E6%8A%8A%E5%84%BF%E5%AD%90%E5%96%8A%E9%86%92%23" target="weibo">
+女儿高考619分爸爸半夜把儿子喊醒（热度：1330058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E6%80%BB%E5%86%A0%E5%86%9B%23" target="weibo">
 凯尔特人总冠军（热度：1328932）
 </a>
@@ -2243,12 +2249,6 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
 南方医科大学（热度：1248796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83619%E5%88%86%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E6%8A%8A%E5%84%BF%E5%AD%90%E5%96%8A%E9%86%92%23" target="weibo">
-女儿高考619分爸爸半夜把儿子喊醒（热度：1248208）
 </a>
 </li>
 
@@ -4965,6 +4965,12 @@ canteen我恨你（热度：798300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%BB%A1%E5%88%86%23" target="weibo">
+福建一男生高考语文满分（热度：794948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%20%E5%89%91%E7%BD%91%E4%B8%89%23" target="weibo">
 逆水寒 剑网三（热度：794848）
 </a>
@@ -5655,6 +5661,12 @@ Jennie走秀（热度：742682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AD%E6%96%87101%E8%8B%B1%E8%AF%AD95%E5%88%86%23" target="weibo">
+故意考0分考生语文101英语95分（热度：736579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E6%A0%87%E9%94%99%E4%BB%B740%E5%85%83%E4%B8%80%E6%99%9A%E8%A2%AB%E8%AE%A2%E4%B8%8A%E5%8D%83%E5%8D%95%23" target="weibo">
 酒店标错价40元一晚被订上千单（热度：736403）
 </a>
@@ -5999,18 +6011,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E4%BC%9F%E9%9C%86%E4%BA%B2%E5%90%BB%E8%B7%AF%E9%80%8F%23" target="weibo">
 赵露思陈伟霆亲吻路透（热度：712449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%8C%BB%E7%A7%91%E5%A4%A7%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
-南方医科大最新回应（热度：711662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%88%9D%20%E5%A4%AA%E6%83%B3%E5%BF%B5%E5%88%9D%E6%81%8B%23" target="weibo">
-太初 太想念初恋（热度：711606）
 </a>
 </li>
 
