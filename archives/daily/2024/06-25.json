@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719286551748,
+  "endTime": 1719289343178,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -8,6 +8,14 @@
       "word": "杨幂论文查重率",
       "onboard_time": 1719282980,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2178367,
+      "num": 744147,
+      "word": "荣梓杉 等补录",
+      "onboard_time": 1719287299,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -83,6 +91,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 986587,
+      "num": 327457,
+      "word": "婚礼上取消了我不喜欢的环节",
+      "onboard_time": 1719285140,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 962040,
+      "num": 962040,
+      "word": "妈妈开心晒女儿高考438分",
+      "onboard_time": 1719281719,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 899187,
       "num": 899187,
       "word": "浙大百万网红陈娴已有多家公司",
@@ -115,12 +139,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 816764,
-      "num": 816764,
-      "word": "妈妈开心晒女儿高考438分",
-      "onboard_time": 1719281719,
-      "rank": 12,
-      "category": "社会新闻,教育"
+      "raw_hot": 795355,
+      "num": 247450,
+      "word": "去医院掏耳屎直接晕厥了",
+      "onboard_time": 1719287059,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 757643,
@@ -137,6 +161,14 @@
       "onboard_time": 1719281059,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 734070,
+      "num": 734070,
+      "word": "光遇复刻",
+      "onboard_time": 1719288799,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 700550,
@@ -187,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 550229,
-      "num": 550229,
+      "raw_hot": 569440,
+      "num": 569440,
       "word": "高考分数线",
       "onboard_time": 1719285978,
       "rank": 8,
@@ -243,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 462346,
+      "num": 462346,
+      "word": "度华年定档",
+      "onboard_time": 1719286038,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447428,
       "num": 268656,
       "word": "刘亦菲喝了黄玫瑰拿铁",
@@ -275,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420880,
-      "num": 327457,
-      "word": "婚礼上取消了我不喜欢的环节",
-      "onboard_time": 1719285140,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 399871,
       "num": 399871,
       "word": "陈娴回应",
@@ -297,6 +329,14 @@
       "onboard_time": 1719275959,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382822,
+      "num": 240549,
+      "word": "这种水果很贵但营养价值一般",
+      "onboard_time": 1719287419,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 369122,
@@ -361,6 +401,14 @@
       "onboard_time": 1719272355,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302735,
+      "num": 302735,
+      "word": "丢十年的作品出现在玫瑰的故事",
+      "onboard_time": 1719288440,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 302582,
@@ -459,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254598,
-      "num": 254598,
-      "word": "度华年定档",
-      "onboard_time": 1719286038,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250149,
       "num": 350136,
       "word": "邓稼先曾为核事业隐姓埋名28年",
@@ -497,6 +537,14 @@
       "onboard_time": 1719242659,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225935,
+      "num": 225935,
+      "word": "经常喝茶与经常喝咖啡的人谁更年轻",
+      "onboard_time": 1719286880,
+      "rank": 28,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 225254,
@@ -555,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200182,
+      "num": 185050,
+      "word": "刘亦菲喊的傅家明霍建华都听到了",
+      "onboard_time": 1719285440,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199948,
       "num": 199948,
       "word": "无意识却能攒钱的习惯",
@@ -571,20 +627,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 198155,
-      "num": 185050,
-      "word": "刘亦菲喊的傅家明霍建华都听到了",
-      "onboard_time": 1719285440,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197217,
       "num": 171045,
       "word": "王星越一把抱起了前夫哥",
       "onboard_time": 1719242180,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194842,
+      "num": 194842,
+      "word": "长沙暴雨预警再升级",
+      "onboard_time": 1719288559,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194499,
+      "num": 194499,
+      "word": "周鸿祎给高考生推荐3个专业方向",
+      "onboard_time": 1719286820,
+      "rank": 31,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 192389,
@@ -627,11 +691,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182206,
+      "num": 182206,
+      "word": "珠玉在侧定档",
+      "onboard_time": 1719287240,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179595,
       "num": 179595,
       "word": "为啥不是新秀",
       "onboard_time": 1719276618,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178521,
+      "num": 178521,
+      "word": "中国游客为啥不想去韩国旅游了",
+      "onboard_time": 1719288141,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 178496,
+      "num": 178496,
+      "word": "梁建章称大学本科不必过早锁定专业",
+      "onboard_time": 1719288380,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 177555,
+      "num": 177555,
+      "word": "郭麒麟想和高圆圆上恋综秦霄贤更想",
+      "onboard_time": 1719287960,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -659,6 +755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170346,
+      "num": 170346,
+      "word": "浙江高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169991,
       "num": 169991,
       "word": "霍拉拉",
@@ -683,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165051,
-      "num": 165051,
-      "word": "浙江高考分数线",
-      "onboard_time": 1719284780,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 165192,
+      "num": 165192,
+      "word": "找工作面试最难受的不是被挂",
+      "onboard_time": 1719288440,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 162816,
@@ -699,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "英硕毕业我妈让我去当收银员",
+      "onboard_time": 1719286160,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "阿尔巴尼亚0比1西班牙",
       "onboard_time": 1719270975,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157487,
+      "num": 157487,
+      "word": "吴谨言王星越二搭一个看看实力",
+      "onboard_time": 1719287059,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 156299,
@@ -761,14 +881,6 @@
       "onboard_time": 1719286038,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147449,
-      "num": 147449,
-      "word": "英硕毕业我妈让我去当收银员",
-      "onboard_time": 1719286160,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 146297,
@@ -833,6 +945,14 @@
       "onboard_time": 1719286459,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134984,
+      "num": 157473,
+      "word": "美乐蒂装扮",
+      "onboard_time": 1719289220,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 134666,
@@ -947,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117580,
+      "num": 157382,
+      "word": "周鸿祎称选什么专业不重要",
+      "onboard_time": 1719288741,
+      "rank": 48,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 116232,
       "num": 116232,
       "word": "巴西vs哥斯达黎加",
@@ -985,6 +1113,14 @@
       "onboard_time": 1719270854,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113493,
+      "num": 157378,
+      "word": "许凯新剧开大G",
+      "onboard_time": 1719289220,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112754,
@@ -1185,6 +1321,22 @@
       "onboard_time": 1719272057,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36258,
+      "num": 252789,
+      "word": "仰望U8探路深中通道",
+      "onboard_time": 1719286939,
+      "rank": 20,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 35631,
+      "num": 442067,
+      "word": "高考录取期间八大注意事项",
+      "onboard_time": 1719288020,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 32511,
