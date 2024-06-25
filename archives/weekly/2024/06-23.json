@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719279716960,
+  "endTime": 1719282945308,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -299,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1203054,
+      "num": 902680,
+      "word": "北大教授建议年轻人不要躺平继续卷",
+      "onboard_time": 1719278058,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1152737,
       "num": 1152737,
       "word": "林俊杰 冻结",
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000537,
+      "num": 1000537,
+      "word": "河南一本上线155883人",
+      "onboard_time": 1719277698,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 998801,
       "num": 998801,
       "word": "汪苏泷回应上歌手碎了",
@@ -504,6 +520,14 @@
       "word": "浙大百万网红陈娴已有多家公司",
       "onboard_time": 1719247695,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 896616,
+      "num": 509976,
+      "word": "去年牵手跑出高考考场情侣后续",
+      "onboard_time": 1719281179,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -595,6 +619,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 837462,
+      "num": 281243,
+      "word": "常喝牛奶和不常喝奶的人真的差很多",
+      "onboard_time": 1719278058,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 831839,
       "num": 515838,
       "word": "董力前女友",
@@ -624,6 +656,14 @@
       "word": "张雪峰说分数低就不要既要又要了",
       "onboard_time": 1719199098,
       "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 790683,
+      "num": 790683,
+      "word": "安徽高考分数线",
+      "onboard_time": 1719277939,
+      "rank": 15,
       "category": "教育"
     },
     {
@@ -795,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 667972,
+      "num": 509557,
+      "word": "改试卷改到一张有答案的试卷",
+      "onboard_time": 1719281059,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 667299,
       "num": 667299,
       "word": "李梦穿搭",
@@ -833,14 +881,6 @@
       "onboard_time": 1719227899,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 660385,
-      "num": 277056,
-      "word": "常喝牛奶和不常喝奶的人真的差很多",
-      "onboard_time": 1719278058,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 657379,
@@ -977,6 +1017,14 @@
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598160,
+      "num": 598160,
+      "word": "江西分数线",
+      "onboard_time": 1719279019,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 590585,
@@ -1203,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508885,
+      "num": 508885,
+      "word": "妈妈开心晒女儿高考438分",
+      "onboard_time": 1719281719,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 506765,
       "num": 449480,
       "word": "韩国航班空中骤降6000米13人送医",
       "onboard_time": 1719136098,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506307,
+      "num": 510721,
+      "word": "外国人在大连旅行感叹看到了全世界",
+      "onboard_time": 1719281059,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 504977,
@@ -1307,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485056,
-      "num": 485056,
-      "word": "北大教授建议年轻人不要躺平继续卷",
-      "onboard_time": 1719278058,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1719205400,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 473523,
-      "num": 473523,
-      "word": "安徽高考分数线",
-      "onboard_time": 1719277939,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 471420,
@@ -2003,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360055,
+      "num": 360055,
+      "word": "北京高考分数线",
+      "onboard_time": 1719281299,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 358977,
       "num": 358977,
       "word": "杨幂发论文的期刊不收版面费",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1719140838,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346930,
+      "num": 273068,
+      "word": "男朋友上班太困发错消息给领导了",
+      "onboard_time": 1719281119,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 342928,
@@ -2235,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318386,
-      "num": 318386,
-      "word": "江西分数线",
-      "onboard_time": 1719279019,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 317649,
       "num": 317649,
       "word": "TFBOYS天下第一好",
@@ -2395,6 +2451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 297096,
+      "num": 297096,
+      "word": "分数线降降降",
+      "onboard_time": 1719281418,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 295675,
       "num": 295675,
       "word": "莫德里奇破纪录",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1719229219,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 293359,
-      "num": 443143,
-      "word": "河南一本上线155883人",
-      "onboard_time": 1719277698,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 292741,
@@ -2683,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250149,
+      "num": 250149,
+      "word": "邓稼先曾为核事业隐姓埋名28年",
+      "onboard_time": 1719279978,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1719227718,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246613,
+      "num": 246613,
+      "word": "六点钟下班真的太晚了",
+      "onboard_time": 1719279797,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 246122,
@@ -3163,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208677,
+      "num": 208677,
+      "word": "河南高考600分及以上25623人",
+      "onboard_time": 1719279258,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208420,
       "num": 208420,
       "word": "克罗地亚1比1意大利",
@@ -3521,6 +3601,14 @@
       "onboard_time": 1719054256,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193523,
+      "num": 193523,
+      "word": "当伴娘的刘亦菲",
+      "onboard_time": 1719282918,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 193459,
@@ -4419,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155315,
+      "num": 155315,
+      "word": "苹果拒绝与meta的AI合作",
+      "onboard_time": 1719279857,
+      "rank": 35,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 155010,
       "num": 155010,
       "word": "专业报考指南",
@@ -4529,6 +4625,14 @@
       "onboard_time": 1719201620,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149637,
+      "num": 149637,
+      "word": "霍拉拉",
+      "onboard_time": 1719282620,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 149305,
@@ -4673,14 +4777,6 @@
       "onboard_time": 1719135377,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142524,
-      "num": 183404,
-      "word": "河南高考600分及以上25623人",
-      "onboard_time": 1719279258,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 142515,
@@ -4947,6 +5043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130744,
+      "num": 130744,
+      "word": "吉林高考分数线",
+      "onboard_time": 1719281359,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130093,
       "num": 130093,
       "word": "35位新闻专业毕业生的薪资",
@@ -5059,6 +5163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126670,
+      "num": 126670,
+      "word": "沙特杯官宣LOL项目赛程",
+      "onboard_time": 1719279438,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126655,
       "num": 126655,
       "word": "汪苏泷演唱会温馨提示",
@@ -5139,6 +5251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124662,
+      "num": 124662,
+      "word": "可许魔笛再少年",
+      "onboard_time": 1719281179,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124646,
       "num": 282685,
       "word": "获奖院士800万元奖金全部捐给武大",
@@ -5153,6 +5273,14 @@
       "onboard_time": 1719190518,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123790,
+      "num": 123790,
+      "word": "冠军留在五人组",
+      "onboard_time": 1719279619,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 123636,
@@ -5259,14 +5387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 118718,
-      "num": 118718,
-      "word": "沙特杯官宣LOL项目赛程",
-      "onboard_time": 1719279438,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 118565,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
@@ -5345,6 +5465,14 @@
       "onboard_time": 1719146300,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 116232,
+      "num": 116232,
+      "word": "巴西vs哥斯达黎加",
+      "onboard_time": 1719282318,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116050,
@@ -5427,6 +5555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "这些奥运老将即将出征巴黎",
+      "onboard_time": 1719282198,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113766,
+      "num": 113766,
+      "word": "小狗好像对自己的体重一无所知",
+      "onboard_time": 1719281598,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113674,
       "num": 113674,
       "word": "中国女排U18亚锦赛夺冠",
@@ -5489,14 +5633,6 @@
       "onboard_time": 1719142218,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110373,
-      "num": 110373,
-      "word": "冠军留在五人组",
-      "onboard_time": 1719279619,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 110245,
@@ -5828,7 +5964,7 @@
     },
     {
       "raw_hot": 96438,
-      "num": 809066,
+      "num": 845405,
       "word": "高铁火箭飞机的发展都与这门专业相关",
       "onboard_time": 1719236360,
       "rank": 2,
@@ -6929,6 +7065,14 @@
       "onboard_time": 1719149238,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7108,
+      "num": 216912,
+      "word": "美国阿拉斯加大火已经烧了三周",
+      "onboard_time": 1719282918,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2190,
