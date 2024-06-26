@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719369300431,
+  "endTime": 1719369908058,
   "band_list": [
     {
       "raw_hot": 1304887,
@@ -25,6 +25,14 @@
       "onboard_time": 1719357194,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 948040,
+      "num": 948040,
+      "word": "复旦招生宣传黄亦玫严选",
+      "onboard_time": 1719367997,
+      "rank": 5,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 945613,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 655016,
-      "num": 220521,
+      "num": 227203,
       "word": "原来微信可以自动定位未读消息",
       "onboard_time": 1719358216,
       "rank": 30,
@@ -83,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588408,
-      "num": 588408,
+      "raw_hot": 589250,
+      "num": 589250,
       "word": "林一 北京不能没有你在",
       "onboard_time": 1719364398,
       "rank": 31,
@@ -107,16 +115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 546629,
-      "num": 546629,
-      "word": "复旦招生宣传黄亦玫严选",
-      "onboard_time": 1719367997,
-      "rank": 5,
-      "category": "教育,作品衍生"
-    },
-    {
       "raw_hot": 528566,
-      "num": 215421,
+      "num": 226615,
       "word": "优酷被吐槽吃相难看",
       "onboard_time": 1719357916,
       "rank": 20,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 516619,
-      "num": 218187,
+      "num": 227391,
       "word": "存钱很厉害的人都有一个共性",
       "onboard_time": 1719362238,
       "rank": 22,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493123,
+      "num": 369875,
+      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+      "onboard_time": 1719369077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470652,
       "num": 470652,
       "word": "iPhone安卓手机可互发5G消息了",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 417997,
-      "num": 220078,
+      "num": 227394,
       "word": "睡前有这5个习惯的人易胖肚子",
       "onboard_time": 1719366797,
       "rank": 20,
@@ -241,6 +249,14 @@
       "onboard_time": 1719357495,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 358924,
+      "num": 358924,
+      "word": "中式茶饮已经是nextlevel了",
+      "onboard_time": 1719369855,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 355102,
@@ -323,6 +339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 284108,
+      "num": 284108,
+      "word": "距巴黎奥运会还有30天",
+      "onboard_time": 1719367756,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283352,
       "num": 283352,
       "word": "C罗水捐赠物资驰援梅州",
@@ -395,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221192,
-      "num": 221192,
-      "word": "距巴黎奥运会还有30天",
-      "onboard_time": 1719367756,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 225265,
+      "num": 225265,
+      "word": "693分女孩还没查分就接到北大电话",
+      "onboard_time": 1719369437,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219877,
+      "num": 219877,
+      "word": "苹果取消两倍存储空间限制",
+      "onboard_time": 1719368957,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 209320,
@@ -425,14 +457,6 @@
       "onboard_time": 1719363139,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 201027,
-      "num": 201027,
-      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
-      "onboard_time": 1719369077,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197921,
@@ -473,6 +497,14 @@
       "onboard_time": 1719303557,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179212,
+      "num": 179212,
+      "word": "男子替换价格标签25元买走2瓶茅台",
+      "onboard_time": 1719368477,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178515,
@@ -529,14 +561,6 @@
       "onboard_time": 1719342551,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162832,
-      "num": 162832,
-      "word": "男子替换价格标签25元买走2瓶茅台",
-      "onboard_time": 1719368477,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158144,
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136856,
-      "num": 136856,
-      "word": "苹果取消两倍存储空间限制",
-      "onboard_time": 1719368957,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 136387,
+      "num": 375061,
+      "word": "00后挑战三个月打卡22座城市",
+      "onboard_time": 1719369376,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 134353,
@@ -635,12 +659,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133047,
+      "num": 133047,
+      "word": "朱婷毕业了",
+      "onboard_time": 1719369678,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133036,
+      "num": 133036,
+      "word": "一个毕业即就业的专业",
+      "onboard_time": 1719368237,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130992,
       "num": 130992,
       "word": "上海地铁",
       "onboard_time": 1719365597,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130988,
+      "num": 130988,
+      "word": "美洲杯裁判",
+      "onboard_time": 1719369258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130545,
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120163,
+      "num": 120163,
+      "word": "齐齐哈尔烤肉",
+      "onboard_time": 1719369376,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119485,
       "num": 119485,
       "word": "如鸢过审",
@@ -745,14 +801,6 @@
       "onboard_time": 1719365057,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 107293,
-      "num": 107293,
-      "word": "美洲杯裁判",
-      "onboard_time": 1719369258,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 106423,

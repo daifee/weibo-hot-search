@@ -1,0 +1,410 @@
+{
+  "runTime": 1719369908058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948040,
+        "num": 948040,
+        "word": "复旦招生宣传黄亦玫严选",
+        "onboard_time": 1719367997,
+        "rank": 0,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 937422,
+        "num": 937422,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21164,
+        "num": 771070,
+        "word": "嫦娥六号返回器安全着陆",
+        "onboard_time": 1719320658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692453,
+        "num": 692453,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589250,
+        "num": 589250,
+        "word": "林一 北京不能没有你在",
+        "onboard_time": 1719364398,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543548,
+        "num": 543548,
+        "word": "网红博主爬泰山说5元1瓶水真不贵",
+        "onboard_time": 1719360437,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544309,
+        "num": 527752,
+        "word": "疯批王姬",
+        "onboard_time": 1719366738,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416376,
+        "num": 416376,
+        "word": "清华大学 神转场",
+        "onboard_time": 1719363439,
+        "rank": 7,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 403863,
+        "num": 403863,
+        "word": "iPhone安卓手机可互发5G消息了",
+        "onboard_time": 1719364940,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 375061,
+        "word": "00后挑战三个月打卡22座城市",
+        "onboard_time": 1719369376,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 493123,
+        "num": 369875,
+        "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+        "onboard_time": 1719369077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358924,
+        "num": 358924,
+        "word": "中式茶饮已经是nextlevel了",
+        "onboard_time": 1719369855,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351561,
+        "num": 351561,
+        "word": "渐冻症学生离世大学设同名奖学金",
+        "onboard_time": 1719366918,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303059,
+        "num": 303059,
+        "word": "何炅谢娜李维嘉合体了",
+        "onboard_time": 1719357075,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292481,
+        "num": 292481,
+        "word": "刘亦菲回复林一",
+        "onboard_time": 1719330677,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284108,
+        "num": 284108,
+        "word": "距巴黎奥运会还有30天",
+        "onboard_time": 1719367756,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277527,
+        "num": 277527,
+        "word": "加沙平均每天10名儿童失去腿",
+        "onboard_time": 1719364816,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236564,
+        "num": 236564,
+        "word": "我考了696分我同桌考了703分",
+        "onboard_time": 1719319759,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 234989,
+        "word": "谢娜张杰又发糖了",
+        "onboard_time": 1719366319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227842,
+        "num": 227842,
+        "word": "朱炳仁孙子高考700分目标北大",
+        "onboard_time": 1719359778,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 407509,
+        "num": 227394,
+        "word": "睡前有这5个习惯的人易胖肚子",
+        "onboard_time": 1719366797,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322606,
+        "num": 227391,
+        "word": "存钱很厉害的人都有一个共性",
+        "onboard_time": 1719362238,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312442,
+        "num": 227203,
+        "word": "原来微信可以自动定位未读消息",
+        "onboard_time": 1719358216,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226945,
+        "num": 226945,
+        "word": "长相思2预告角色时长占比",
+        "onboard_time": 1719363558,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272714,
+        "num": 226615,
+        "word": "优酷被吐槽吃相难看",
+        "onboard_time": 1719357916,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225265,
+        "num": 225265,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219877,
+        "num": 219877,
+        "word": "苹果取消两倍存储空间限制",
+        "onboard_time": 1719368957,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200907,
+        "num": 200907,
+        "word": "小罐茶创始人道歉",
+        "onboard_time": 1719356594,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185242,
+        "num": 185242,
+        "word": "肖战在前面唱 那英在后面笑",
+        "onboard_time": 1719357375,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179212,
+        "num": 179212,
+        "word": "男子替换价格标签25元买走2瓶茅台",
+        "onboard_time": 1719368477,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177006,
+        "num": 177006,
+        "word": "古天乐回应被追债830万港元",
+        "onboard_time": 1719366677,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173961,
+        "num": 173961,
+        "word": "度华年开播",
+        "onboard_time": 1719361999,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170283,
+        "num": 170283,
+        "word": "林一晒与刘亦菲合照",
+        "onboard_time": 1719325580,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "塞纳河大肠杆菌仍超标",
+        "onboard_time": 1719367878,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159276,
+        "num": 159276,
+        "word": "舒淇成为奥斯卡评委",
+        "onboard_time": 1719368597,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154816,
+        "num": 154816,
+        "word": "客服回应墨雨云间大结局单独收费",
+        "onboard_time": 1719366558,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139230,
+        "num": 139230,
+        "word": "双胞胎出生差2分高考也差2分",
+        "onboard_time": 1719356594,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138106,
+        "num": 138106,
+        "word": "男子寻求刺激多次给女友下迷药被抓",
+        "onboard_time": 1719357136,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136600,
+        "num": 136600,
+        "word": "易烊千玺相关公司接手文创企业",
+        "onboard_time": 1719362357,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65901,
+        "num": 136533,
+        "word": "杜国楹道歉",
+        "onboard_time": 1719367216,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 136496,
+        "word": "男生高考提高102分含泪跪谢妈妈",
+        "onboard_time": 1719368357,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133047,
+        "num": 133047,
+        "word": "朱婷毕业了",
+        "onboard_time": 1719369678,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133036,
+        "num": 133036,
+        "word": "一个毕业即就业的专业",
+        "onboard_time": 1719368237,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 130988,
+        "word": "美洲杯裁判",
+        "onboard_time": 1719369258,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130563,
+        "num": 130563,
+        "word": "这种主食比脂肪伤害更大",
+        "onboard_time": 1719363139,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122424,
+        "num": 122424,
+        "word": "金泰亨海报",
+        "onboard_time": 1719367698,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121865,
+        "num": 121865,
+        "word": "山东高考650分及以上3386人",
+        "onboard_time": 1719365118,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120163,
+        "num": 120163,
+        "word": "齐齐哈尔烤肉",
+        "onboard_time": 1719369376,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119662,
+        "num": 119662,
+        "word": "男生查分后默默去做饭妈妈秒懂",
+        "onboard_time": 1719317478,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116396,
+        "num": 116396,
+        "word": "Mac版ChatGPT开放",
+        "onboard_time": 1719367336,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    }
+  }
+}
