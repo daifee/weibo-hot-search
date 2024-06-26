@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719406354434,
+  "endTime": 1719408086117,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1241390,
+      "num": 1241390,
+      "word": "李雪琴 游泳",
+      "onboard_time": 1719403277,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1234384,
       "num": 446432,
       "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
@@ -59,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1156394,
+      "num": 537244,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1145416,
       "num": 1145416,
       "word": "高二女生考入北大遗憾不能上高三",
@@ -81,14 +97,6 @@
       "onboard_time": 1719363439,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1122303,
-      "num": 1122303,
-      "word": "李雪琴 游泳",
-      "onboard_time": 1719403277,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1111629,
@@ -235,20 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760723,
+      "num": 760723,
+      "word": "00后在B站狂补数学",
+      "onboard_time": 1719405497,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 753269,
+      "num": 442785,
+      "word": "郭碧婷 忘动作",
+      "onboard_time": 1719406098,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 744487,
       "num": 566953,
       "word": "黄亦玫回应复旦",
       "onboard_time": 1719401417,
       "rank": 33,
       "category": "剧集,教育"
-    },
-    {
-      "raw_hot": 736467,
-      "num": 478938,
-      "word": "终于有24小时录制的综艺了",
-      "onboard_time": 1719404718,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 731266,
@@ -395,6 +411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 600703,
+      "num": 407809,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599298,
       "num": 599298,
       "word": "宋家三胞胎长这么高了",
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575157,
-      "num": 373162,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 571909,
       "num": 541057,
       "word": "疯批王姬",
@@ -481,6 +497,14 @@
       "onboard_time": 1719382338,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547084,
+      "num": 406192,
+      "word": "父亲上网刷视频得知女儿被霸凌",
+      "onboard_time": 1719404177,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544306,
@@ -587,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485991,
+      "num": 405901,
+      "word": "陈昊宇 弹幕",
+      "onboard_time": 1719405798,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470652,
       "num": 470652,
       "word": "iPhone安卓手机可互发5G消息了",
@@ -611,8 +643,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439073,
-      "num": 439073,
+      "raw_hot": 440422,
+      "num": 440422,
       "word": "美军机在南海盘旋并投放不明物体",
       "onboard_time": 1719404057,
       "rank": 7,
@@ -665,6 +697,14 @@
       "onboard_time": 1719392900,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403737,
+      "num": 403737,
+      "word": "刘忻团票数",
+      "onboard_time": 1719407119,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 397510,
@@ -761,14 +801,6 @@
       "onboard_time": 1719369855,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 356124,
-      "num": 356124,
-      "word": "父亲上网刷视频得知女儿被霸凌",
-      "onboard_time": 1719404177,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355102,
@@ -995,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259453,
-      "num": 259453,
-      "word": "陈昊宇 弹幕",
-      "onboard_time": 1719405798,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258712,
       "num": 258712,
       "word": "杨紫一番女主",
@@ -1075,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243096,
-      "num": 243096,
-      "word": "00后在B站狂补数学",
-      "onboard_time": 1719405497,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 242570,
       "num": 242570,
       "word": "不知火舞花合斗爆料",
@@ -1091,12 +1107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242245,
-      "num": 242245,
-      "word": "郭碧婷 忘动作",
-      "onboard_time": 1719406098,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 240317,
+      "num": 316406,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 235796,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1719378200,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227138,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 222086,
@@ -1491,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181935,
+      "num": 181935,
+      "word": "张子宇44分",
+      "onboard_time": 1719407359,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181419,
       "num": 181419,
       "word": "迪丽热巴这发际线",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1719368477,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178637,
+      "num": 178637,
+      "word": "齐思钧回归主持浪姐直播",
+      "onboard_time": 1719407179,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 178515,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1719388098,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 171463,
+      "num": 373593,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170734,
@@ -1715,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165017,
+      "num": 165017,
+      "word": "度华年开播热度",
+      "onboard_time": 1719404657,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164463,
       "num": 164463,
       "word": "重庆永川要建西部科技影视城",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1719389837,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159901,
-      "num": 159901,
-      "word": "度华年开播热度",
-      "onboard_time": 1719404657,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 159898,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1719326300,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155540,
+      "num": 155540,
+      "word": "王星越cos林黛玉",
+      "onboard_time": 1719405438,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 155083,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1719381077,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148068,
-      "num": 148068,
-      "word": "王星越cos林黛玉",
-      "onboard_time": 1719405438,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 147405,
@@ -2219,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123033,
+      "num": 123033,
+      "word": "第一次看蛋糕这么反胃的",
+      "onboard_time": 1719406699,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122408,
       "num": 122408,
       "word": "涂山璟还是熟悉的那味儿",
@@ -2467,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103405,
+      "num": 103405,
+      "word": "肃国公被平宁郡主点名了",
+      "onboard_time": 1719407539,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103294,
       "num": 103294,
       "word": "法国1比1波兰",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1719398357,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101203,
+      "num": 101203,
+      "word": "LNG对战OMG",
+      "onboard_time": 1719407539,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 99820,
@@ -2499,6 +2555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 97964,
+      "num": 97964,
+      "word": "HYBE全球新女团MV预告",
+      "onboard_time": 1719406998,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 97937,
       "num": 97937,
       "word": "徐海乔赛道",
@@ -2513,6 +2577,22 @@
       "onboard_time": 1719318559,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93053,
+      "num": 93053,
+      "word": "eStar对战TKL",
+      "onboard_time": 1719406759,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 92243,
+      "num": 190830,
+      "word": "西安民警排队献血助力甘肃患病男孩",
+      "onboard_time": 1719406998,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92145,
@@ -2705,14 +2785,6 @@
       "onboard_time": 1719326120,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69612,
-      "num": 373593,
-      "word": "全国超20座高铁站建成后未运营",
-      "onboard_time": 1719405018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69382,
@@ -3035,6 +3107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 13440,
+      "num": 339919,
+      "word": "单霁翔谈传统文化借综艺破圈",
+      "onboard_time": 1719406818,
+      "rank": 14,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 12961,
       "num": 31853,
       "word": "发条微博缅怀邓稼先",
@@ -3065,6 +3145,14 @@
       "onboard_time": 1719335892,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 11723,
+      "num": 98611,
+      "word": "在巴黎静候冠军龙服上身",
+      "onboard_time": 1719406638,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 9974,
