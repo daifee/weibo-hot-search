@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719405449545,
+  "endTime": 1719406354434,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1122303,
+      "num": 1122303,
+      "word": "李雪琴 游泳",
+      "onboard_time": 1719403277,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111629,
       "num": 688247,
       "word": "甘肃13岁男孩杀害8岁女童案今开庭",
@@ -153,14 +161,6 @@
       "onboard_time": 1719381318,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 917702,
-      "num": 611380,
-      "word": "李雪琴 游泳",
-      "onboard_time": 1719403277,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 900404,
@@ -235,6 +235,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 744487,
+      "num": 566953,
+      "word": "黄亦玫回应复旦",
+      "onboard_time": 1719401417,
+      "rank": 33,
+      "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 736467,
+      "num": 478938,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731266,
       "num": 731266,
       "word": "朱炳仁孙子高考700分目标北大",
@@ -273,14 +289,6 @@
       "onboard_time": 1719370398,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 695165,
-      "num": 460440,
-      "word": "黄亦玫回应复旦",
-      "onboard_time": 1719401417,
-      "rank": 33,
-      "category": "剧集,教育"
     },
     {
       "raw_hot": 687817,
@@ -427,6 +435,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 576669,
+      "num": 576669,
+      "word": "北京100万房贷30年少还11.25万元",
+      "onboard_time": 1719401057,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575157,
+      "num": 373162,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571909,
       "num": 541057,
       "word": "疯批王姬",
@@ -507,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515959,
-      "num": 515959,
-      "word": "北京100万房贷30年少还11.25万元",
-      "onboard_time": 1719401057,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511931,
       "num": 495400,
       "word": "刘亦菲回复林一",
@@ -571,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473937,
-      "num": 324598,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 470652,
       "num": 470652,
       "word": "iPhone安卓手机可互发5G消息了",
@@ -601,6 +609,14 @@
       "onboard_time": 1719385578,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439073,
+      "num": 439073,
+      "word": "美军机在南海盘旋并投放不明物体",
+      "onboard_time": 1719404057,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 433432,
@@ -649,14 +665,6 @@
       "onboard_time": 1719392900,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 403775,
-      "num": 403775,
-      "word": "美军机在南海盘旋并投放不明物体",
-      "onboard_time": 1719404057,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 397510,
@@ -739,14 +747,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 361487,
-      "num": 361487,
-      "word": "终于有24小时录制的综艺了",
-      "onboard_time": 1719404718,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 360152,
       "num": 360152,
       "word": "白敬亭申请强执黑粉",
@@ -761,6 +761,14 @@
       "onboard_time": 1719369855,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 356124,
+      "num": 356124,
+      "word": "父亲上网刷视频得知女儿被霸凌",
+      "onboard_time": 1719404177,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355102,
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259453,
+      "num": 259453,
+      "word": "陈昊宇 弹幕",
+      "onboard_time": 1719405798,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258712,
       "num": 258712,
       "word": "杨紫一番女主",
@@ -1059,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243096,
+      "num": 243096,
+      "word": "00后在B站狂补数学",
+      "onboard_time": 1719405497,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 242570,
       "num": 242570,
       "word": "不知火舞花合斗爆料",
       "onboard_time": 1719397338,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242245,
+      "num": 242245,
+      "word": "郭碧婷 忘动作",
+      "onboard_time": 1719406098,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 235796,
@@ -1099,14 +1131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231749,
-      "num": 231749,
-      "word": "父亲上网刷视频得知女儿被霸凌",
-      "onboard_time": 1719404177,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230552,
       "num": 230552,
       "word": "王一珩当上董事长",
@@ -1131,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227138,
+      "num": 316406,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222086,
       "num": 375061,
       "word": "00后挑战三个月打卡22座城市",
       "onboard_time": 1719369376,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 218938,
+      "num": 218938,
+      "word": "真的建议报考中国科大",
+      "onboard_time": 1719404837,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 218692,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1719401298,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205243,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 205034,
@@ -1500,7 +1532,7 @@
     },
     {
       "raw_hot": 176160,
-      "num": 154167,
+      "num": 173716,
       "word": "彭冠英装果冻客服售后直播",
       "onboard_time": 1719403458,
       "rank": 30,
@@ -1699,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163260,
+      "num": 163260,
+      "word": "美元兑日元突破160关口",
+      "onboard_time": 1719400877,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162938,
       "num": 162938,
       "word": "梁永棋抱着喝醉的王星越",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1719389837,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159901,
+      "num": 159901,
+      "word": "度华年开播热度",
+      "onboard_time": 1719404657,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 159898,
@@ -1795,20 +1843,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154941,
+      "num": 154941,
+      "word": "李宏毅生日直播",
+      "onboard_time": 1719405078,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "劳塔罗绝杀",
       "onboard_time": 1719373759,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153822,
-      "num": 153822,
-      "word": "真的建议报考中国科大",
-      "onboard_time": 1719404837,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 153185,
@@ -1907,6 +1955,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148068,
+      "num": 148068,
+      "word": "王星越cos林黛玉",
+      "onboard_time": 1719405438,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147405,
+      "num": 147405,
+      "word": "八贼发布第二首diss",
+      "onboard_time": 1719405858,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147155,
       "num": 133785,
       "word": "张杰谢娜被气笑的具象化了",
@@ -1987,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136522,
-      "num": 136522,
-      "word": "美元兑日元突破160关口",
-      "onboard_time": 1719400877,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136377,
       "num": 136377,
       "word": "世界上最不会打架的小狗出现了",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1719367336,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133320,
-      "num": 133320,
-      "word": "度华年开播热度",
-      "onboard_time": 1719404657,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 130992,
@@ -2147,14 +2195,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125595,
-      "num": 125595,
-      "word": "李宏毅生日直播",
-      "onboard_time": 1719405078,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "余秀华买衣服和买药都是在买希望",
@@ -2235,6 +2275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119179,
+      "num": 119179,
+      "word": "巴黎奥运会女排小组赛赛程",
+      "onboard_time": 1719404957,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117172,
       "num": 117172,
       "word": "猫抓板是可以用完的",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1719380778,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 111701,
-      "num": 111701,
-      "word": "巴黎奥运会女排小组赛赛程",
-      "onboard_time": 1719404957,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 111682,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1719365237,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99781,
+      "num": 99781,
+      "word": "北科大招生转场",
+      "onboard_time": 1719406218,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 97937,
@@ -2659,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69612,
+      "num": 373593,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69382,
       "num": 86310,
       "word": "林沐然艺考过本科线",
@@ -2761,14 +2817,6 @@
       "onboard_time": 1719325819,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 57192,
-      "num": 329720,
-      "word": "全国超20座高铁站建成后未运营",
-      "onboard_time": 1719405018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56805,
@@ -2956,7 +3004,7 @@
     },
     {
       "raw_hot": 16736,
-      "num": 154311,
+      "num": 186790,
       "word": "极越拿下智驾大赛三连冠",
       "onboard_time": 1719403157,
       "rank": 29,
@@ -2977,6 +3025,14 @@
       "onboard_time": 1719334035,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13899,
+      "num": 303244,
+      "word": "刘震云语言大师",
+      "onboard_time": 1719405318,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 12961,
@@ -3025,14 +3081,6 @@
       "onboard_time": 1719339612,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 7899,
-      "num": 303244,
-      "word": "刘震云语言大师",
-      "onboard_time": 1719405318,
-      "rank": 14,
-      "category": "读书作家"
     }
   ],
   "hotgov_list": [
