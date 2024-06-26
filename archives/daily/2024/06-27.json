@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719423273003,
+  "endTime": 1719426322889,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -339,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 77710,
+      "num": 77710,
+      "word": "种菜游戏暴雷涉及资金近3亿元",
+      "onboard_time": 1719423792,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74279,
       "num": 126438,
       "word": "北京首套房首付最低20%",
@@ -352,6 +360,14 @@
       "word": "中国男篮不敌澳门黑熊",
       "onboard_time": 1719409458,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70197,
+      "num": 70197,
+      "word": "欧洲杯乌龙球停不下来",
+      "onboard_time": 1719424272,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -459,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30207,
+      "num": 42276,
+      "word": "毕业就是一场巨大的丢money",
+      "onboard_time": 1719423252,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29158,
       "num": 42282,
       "word": "魔兽世界怀旧服回归",
@@ -467,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28541,
-      "num": 42276,
-      "word": "毕业就是一场巨大的丢money",
-      "onboard_time": 1719423252,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 25756,
+      "num": 31230,
+      "word": "真心建议晚上考语文",
+      "onboard_time": 1719425293,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 20343,
@@ -483,20 +507,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 17200,
+      "num": 235226,
+      "word": "高校毕业季就是最好的招生简章",
+      "onboard_time": 1719408079,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 12837,
       "num": 89187,
       "word": "男子每晚徒步发传单寻狗1个月瘦8斤",
       "onboard_time": 1719420375,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11634,
-      "num": 235226,
-      "word": "高校毕业季就是最好的招生简章",
-      "onboard_time": 1719408079,
-      "rank": 2,
-      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
@@ -508,6 +532,9 @@
     },
     {
       "word": "#总书记引领加快建设科技强国步伐#"
+    },
+    {
+      "word": "#习近平会见越南总理#"
     }
   ]
 }

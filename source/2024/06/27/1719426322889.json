@@ -1,0 +1,410 @@
+{
+  "runTime": 1719426322889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440186,
+        "num": 440186,
+        "word": "法老diss",
+        "onboard_time": 1719411859,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219419,
+        "num": 219419,
+        "word": "温州女生高考726分称自己不是天赋型",
+        "onboard_time": 1719417857,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 17200,
+        "num": 149219,
+        "word": "高校毕业季就是最好的招生简章",
+        "onboard_time": 1719408079,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245771,
+        "num": 145582,
+        "word": "李雪琴高考分数",
+        "onboard_time": 1719414860,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126832,
+        "num": 126832,
+        "word": "女装退货率高的原因好像找到了",
+        "onboard_time": 1719409879,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77710,
+        "num": 77710,
+        "word": "种菜游戏暴雷涉及资金近3亿元",
+        "onboard_time": 1719423792,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181528,
+        "num": 77692,
+        "word": "秃子",
+        "onboard_time": 1719417797,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115223,
+        "num": 77625,
+        "word": "偷米diss杨和苏",
+        "onboard_time": 1719409279,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76123,
+        "num": 76123,
+        "word": "哪里人不爱出省读大学",
+        "onboard_time": 1719399619,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9317,
+        "num": 73518,
+        "word": "打卡第八届亚欧博览会",
+        "onboard_time": 1719419715,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95793,
+        "num": 72916,
+        "word": "终于有24小时录制的综艺了",
+        "onboard_time": 1719404718,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71727,
+        "num": 71727,
+        "word": "刘亦菲回应伊能静",
+        "onboard_time": 1719404418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70197,
+        "num": 70197,
+        "word": "欧洲杯乌龙球停不下来",
+        "onboard_time": 1719424272,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68267,
+        "num": 68267,
+        "word": "海棠延期",
+        "onboard_time": 1719400938,
+        "rank": 13,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 61443,
+        "num": 61443,
+        "word": "陈昊宇 弹幕",
+        "onboard_time": 1719405798,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61230,
+        "num": 61230,
+        "word": "父亲上网刷视频得知女儿被霸凌",
+        "onboard_time": 1719404177,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58208,
+        "num": 58208,
+        "word": "李雪琴同学回应",
+        "onboard_time": 1719410358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42614,
+        "num": 42614,
+        "word": "中国象棋第一人王天一被调查",
+        "onboard_time": 1719409818,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 39474,
+        "num": 42511,
+        "word": "斯洛伐克vs罗马尼亚",
+        "onboard_time": 1719419894,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37293,
+        "num": 42284,
+        "word": "毒贩在禁毒视频下打广告被抓",
+        "onboard_time": 1719412037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54127,
+        "num": 42097,
+        "word": "得胃癌之前胃都经历了什么",
+        "onboard_time": 1719416657,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49047,
+        "num": 41916,
+        "word": "张凌赫赵今麦cp感",
+        "onboard_time": 1719402318,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47548,
+        "num": 41816,
+        "word": "50块钱在韩国打了瘦脸针",
+        "onboard_time": 1719410358,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 46394,
+        "num": 41617,
+        "word": "八贼发布第二首diss",
+        "onboard_time": 1719405858,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44464,
+        "num": 41431,
+        "word": "蔡文静说近半年不想再拍综艺了",
+        "onboard_time": 1719420256,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42662,
+        "num": 41268,
+        "word": "新海诚为中国观众手写你的名字",
+        "onboard_time": 1719421515,
+        "rank": 25,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 41151,
+        "num": 41151,
+        "word": "李雪琴 游泳",
+        "onboard_time": 1719403277,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40206,
+        "num": 40206,
+        "word": "郭碧婷 忘动作",
+        "onboard_time": 1719406098,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38393,
+        "num": 38393,
+        "word": "黄亦玫回应复旦",
+        "onboard_time": 1719401417,
+        "rank": 28,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 31313,
+        "num": 35060,
+        "word": "城管局回应环卫工坐下休息被领导骂哭",
+        "onboard_time": 1719414439,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34520,
+        "num": 34520,
+        "word": "林一鼻子",
+        "onboard_time": 1719391699,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32481,
+        "num": 32481,
+        "word": "辉子第四",
+        "onboard_time": 1719420015,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31699,
+        "num": 31699,
+        "word": "赵露思到底摸到了什么",
+        "onboard_time": 1719401298,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31238,
+        "num": 31238,
+        "word": "第一次看蛋糕这么反胃的",
+        "onboard_time": 1719406699,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30207,
+        "num": 31237,
+        "word": "毕业就是一场巨大的丢money",
+        "onboard_time": 1719423252,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28011,
+        "num": 31236,
+        "word": "刘忻团票数",
+        "onboard_time": 1719407119,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27323,
+        "num": 31236,
+        "word": "世预赛18强国足或遭死亡之组",
+        "onboard_time": 1719410779,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27036,
+        "num": 31235,
+        "word": "像你这样的朋友毕业合唱版",
+        "onboard_time": 1719420076,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26729,
+        "num": 31234,
+        "word": "王俊凯现身谢霆锋新片首映礼",
+        "onboard_time": 1719412219,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26500,
+        "num": 31234,
+        "word": "美军机在南海盘旋并投放不明物体",
+        "onboard_time": 1719404057,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26564,
+        "num": 31232,
+        "word": "度华年开播热度",
+        "onboard_time": 1719404657,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26241,
+        "num": 31231,
+        "word": "为什么不建议盲目当老师",
+        "onboard_time": 1719413661,
+        "rank": 41,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 25970,
+        "num": 31230,
+        "word": "北京100万房贷30年少还11.25万元",
+        "onboard_time": 1719401057,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25756,
+        "num": 31230,
+        "word": "真心建议晚上考语文",
+        "onboard_time": 1719425293,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24536,
+        "num": 31229,
+        "word": "陈昊宇郑妮可万妮达袁娅维狂野舞台",
+        "onboard_time": 1719416117,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23979,
+        "num": 31228,
+        "word": "女儿不想结婚爸爸舌战亲戚",
+        "onboard_time": 1719397459,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23760,
+        "num": 31227,
+        "word": "不吃早餐和不吃晚餐哪个对身体影响大",
+        "onboard_time": 1719409699,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22388,
+        "num": 31226,
+        "word": "广西糖水火了",
+        "onboard_time": 1719411499,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21538,
+        "num": 31225,
+        "word": "中国男篮不敌澳门黑熊",
+        "onboard_time": 1719409458,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21197,
+        "num": 31225,
+        "word": "北京首套房首付最低20%",
+        "onboard_time": 1719399196,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南总理#"
+    }
+  }
+}
