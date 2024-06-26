@@ -1,0 +1,410 @@
+{
+  "runTime": 1719380117075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244505,
+        "num": 1244505,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867670,
+        "num": 867670,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42593,
+        "num": 790171,
+        "word": "中国网络法治三十年",
+        "onboard_time": 1719373218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773423,
+        "num": 773423,
+        "word": "刘浩存MiuMiu",
+        "onboard_time": 1719376100,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 720465,
+        "num": 720465,
+        "word": "10元手冲咖啡阿姨称月收入几万块",
+        "onboard_time": 1719376160,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 557767,
+        "num": 557767,
+        "word": "95后平均在职仅仅7个月就选择辞职",
+        "onboard_time": 1719377419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655197,
+        "num": 555546,
+        "word": "歌手官宣谭维维",
+        "onboard_time": 1719376340,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597145,
+        "num": 555406,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 549744,
+        "num": 549744,
+        "word": "男生考前右手骨折考了714分",
+        "onboard_time": 1719373038,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 438649,
+        "num": 438649,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590262,
+        "num": 428552,
+        "word": "35岁清华毕业生再考清华失败",
+        "onboard_time": 1719378200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412352,
+        "num": 412352,
+        "word": "复旦招生宣传黄亦玫严选",
+        "onboard_time": 1719367997,
+        "rank": 11,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 341578,
+        "num": 341578,
+        "word": "具荷拉保险箱盗窃犯高清图",
+        "onboard_time": 1719372919,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341226,
+        "num": 341226,
+        "word": "ZICO",
+        "onboard_time": 1719373638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339102,
+        "num": 339102,
+        "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+        "onboard_time": 1719371478,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125962,
+        "num": 333909,
+        "word": "谁研发的榴莲辣条",
+        "onboard_time": 1719376340,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329556,
+        "num": 329556,
+        "word": "甘肃13岁男孩杀害8岁女童案今开庭",
+        "onboard_time": 1719379398,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306861,
+        "num": 306861,
+        "word": "张若昀闷声干大事",
+        "onboard_time": 1719371658,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292477,
+        "num": 292477,
+        "word": "乌合麒麟新作美国毒夫",
+        "onboard_time": 1719370398,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 262713,
+        "num": 262713,
+        "word": "罗云熙新剧新娘是印小天",
+        "onboard_time": 1719379938,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260262,
+        "num": 260262,
+        "word": "网红博主爬泰山说5元1瓶水真不贵",
+        "onboard_time": 1719360437,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254427,
+        "num": 254427,
+        "word": "杨紫一番女主",
+        "onboard_time": 1719377539,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229986,
+        "num": 229986,
+        "word": "原来普通人可能一年也存不到5万",
+        "onboard_time": 1719370818,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228488,
+        "num": 228488,
+        "word": "我完全而绝对地选择复旦",
+        "onboard_time": 1719378200,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205751,
+        "num": 205751,
+        "word": "苹果取消两倍存储空间限制",
+        "onboard_time": 1719368957,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199078,
+        "num": 199078,
+        "word": "孙颖莎代言汰渍",
+        "onboard_time": 1719379578,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198215,
+        "num": 198215,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196503,
+        "num": 196503,
+        "word": "睡前有这5个习惯的人易胖肚子",
+        "onboard_time": 1719366797,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191511,
+        "num": 191511,
+        "word": "国台办回应民进党称妈祖是统战工具",
+        "onboard_time": 1719379819,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49405,
+        "num": 189687,
+        "word": "戒不了毒是意志力不够强吗",
+        "onboard_time": 1719373097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84082,
+        "num": 189513,
+        "word": "平凉未满16岁少年团伙流窜多地盗窃",
+        "onboard_time": 1719378019,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286534,
+        "num": 189508,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+        "onboard_time": 1719379218,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189502,
+        "num": 189502,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1719369920,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184980,
+        "num": 184980,
+        "word": "张杰演唱会",
+        "onboard_time": 1719377179,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175789,
+        "num": 175789,
+        "word": "MiuMiu包",
+        "onboard_time": 1719377002,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175318,
+        "num": 175318,
+        "word": "ZICO 走路姿势",
+        "onboard_time": 1719379458,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172212,
+        "num": 172212,
+        "word": "台独立场转变是否还追究刑责",
+        "onboard_time": 1719376880,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170149,
+        "num": 170149,
+        "word": "上海到底有谁在啊",
+        "onboard_time": 1719377898,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167001,
+        "num": 167001,
+        "word": "胡锡进A股开户一周年",
+        "onboard_time": 1719377599,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 160928,
+        "num": 160928,
+        "word": "肿瘤科医生劝大家少吃这6种食物",
+        "onboard_time": 1719379638,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159898,
+        "num": 159898,
+        "word": "失业半年多了老爸突然给我转账",
+        "onboard_time": 1719379698,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159344,
+        "num": 159344,
+        "word": "永劫无间张起灵",
+        "onboard_time": 1719373097,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158100,
+        "num": 158100,
+        "word": "张若昀皮下是五竹",
+        "onboard_time": 1719379338,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157747,
+        "num": 157747,
+        "word": "歌手",
+        "onboard_time": 1719376640,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156482,
+        "num": 156482,
+        "word": "度华年开播",
+        "onboard_time": 1719361999,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155083,
+        "num": 155083,
+        "word": "张凌赫胡子造型",
+        "onboard_time": 1719379638,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "巴黎奥运会各国制服",
+        "onboard_time": 1719376160,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148844,
+        "num": 148844,
+        "word": "度华年",
+        "onboard_time": 1719376579,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144769,
+        "num": 144769,
+        "word": "存钱很厉害的人都有一个共性",
+        "onboard_time": 1719362238,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134384,
+        "num": 134384,
+        "word": "优酷被吐槽吃相难看",
+        "onboard_time": 1719357916,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}

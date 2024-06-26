@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719379114405,
+  "endTime": 1719380117075,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -7115,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773423,
+      "num": 773423,
+      "word": "刘浩存MiuMiu",
+      "onboard_time": 1719376100,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 771190,
       "num": 771190,
       "word": "Xiaolaohu删博",
@@ -8155,6 +8163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720465,
+      "num": 720465,
+      "word": "10元手冲咖啡阿姨称月收入几万块",
+      "onboard_time": 1719376160,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 720437,
       "num": 720437,
       "word": "孙杨工作室发声",
@@ -8521,14 +8537,6 @@
       "onboard_time": 1717894818,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 698185,
-      "num": 639231,
-      "word": "刘浩存MiuMiu",
-      "onboard_time": 1719376100,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 698045,
@@ -9185,14 +9193,6 @@
       "onboard_time": 1718523197,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 670319,
-      "num": 670319,
-      "word": "10元手冲咖啡阿姨称月收入几万块",
-      "onboard_time": 1719376160,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 670179,
@@ -11139,6 +11139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590262,
+      "num": 428552,
+      "word": "35岁清华毕业生再考清华失败",
+      "onboard_time": 1719378200,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590056,
       "num": 335599,
       "word": "英语还值不值得作为专业学四年",
@@ -12057,6 +12065,14 @@
       "onboard_time": 1718548279,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 557767,
+      "num": 557767,
+      "word": "95后平均在职仅仅7个月就选择辞职",
+      "onboard_time": 1719377419,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557680,
@@ -22747,6 +22763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329556,
+      "num": 329556,
+      "word": "甘肃13岁男孩杀害8岁女童案今开庭",
+      "onboard_time": 1719379398,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329548,
       "num": 329548,
       "word": "2024年还剩200天",
@@ -23553,14 +23577,6 @@
       "onboard_time": 1718205200,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317300,
-      "num": 317300,
-      "word": "95后平均在职仅仅7个月就选择辞职",
-      "onboard_time": 1719377419,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317178,
@@ -25691,14 +25707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287923,
-      "num": 287923,
-      "word": "35岁清华毕业生再考清华失败",
-      "onboard_time": 1719378200,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287912,
       "num": 287912,
       "word": "黎深九黎司命",
@@ -25817,6 +25825,14 @@
       "onboard_time": 1718637558,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286534,
+      "num": 189508,
+      "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+      "onboard_time": 1719379218,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286505,
@@ -27921,6 +27937,14 @@
       "onboard_time": 1718000597,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262713,
+      "num": 262713,
+      "word": "罗云熙新剧新娘是印小天",
+      "onboard_time": 1719379938,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 262371,
@@ -31219,6 +31243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228488,
+      "num": 228488,
+      "word": "我完全而绝对地选择复旦",
+      "onboard_time": 1719378200,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228447,
       "num": 182346,
       "word": "GUCCI大秀",
@@ -32841,14 +32873,6 @@
       "onboard_time": 1717888094,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 217248,
-      "num": 217248,
-      "word": "我完全而绝对地选择复旦",
-      "onboard_time": 1719378200,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 217226,
@@ -36819,6 +36843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199078,
+      "num": 199078,
+      "word": "孙颖莎代言汰渍",
+      "onboard_time": 1719379578,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199073,
       "num": 199073,
       "word": "刘宇宁现场好稳",
@@ -38969,6 +39001,14 @@
       "onboard_time": 1718540239,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 191511,
+      "num": 191511,
+      "word": "国台办回应民进党称妈祖是统战工具",
+      "onboard_time": 1719379819,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191354,
@@ -42787,6 +42827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175318,
+      "num": 175318,
+      "word": "ZICO 走路姿势",
+      "onboard_time": 1719379458,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "刘亦菲弹钢琴20年前后对比",
@@ -43547,6 +43595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172212,
+      "num": 209210,
+      "word": "台独立场转变是否还追究刑责",
+      "onboard_time": 1719376880,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172174,
       "num": 172174,
       "word": "TF三代出道演唱会安排",
@@ -43937,14 +43993,6 @@
       "onboard_time": 1718446279,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 170090,
-      "num": 209210,
-      "word": "台独立场转变是否还追究刑责",
-      "onboard_time": 1719376880,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 169991,
@@ -44745,6 +44793,14 @@
       "onboard_time": 1718714779,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167001,
+      "num": 167001,
+      "word": "胡锡进A股开户一周年",
+      "onboard_time": 1719377599,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 166992,
@@ -46443,6 +46499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "肿瘤科医生劝大家少吃这6种食物",
+      "onboard_time": 1719379638,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160923,
       "num": 160923,
       "word": "国足上次击败韩国队是7年前",
@@ -46721,6 +46785,14 @@
       "onboard_time": 1718510838,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159898,
+      "num": 159898,
+      "word": "失业半年多了老爸突然给我转账",
+      "onboard_time": 1719379698,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 159876,
@@ -47235,14 +47307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158192,
-      "num": 158192,
-      "word": "胡锡进A股开户一周年",
-      "onboard_time": 1719377599,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 158140,
       "num": 158140,
       "word": "赵丽颖杨单合作",
@@ -47265,6 +47329,14 @@
       "onboard_time": 1719120438,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158100,
+      "num": 158100,
+      "word": "张若昀皮下是五竹",
+      "onboard_time": 1719379338,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 158074,
@@ -48224,6 +48296,14 @@
       "word": "薛芳菲报仇位轮到前夫哥了",
       "onboard_time": 1718595857,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "张凌赫胡子造型",
+      "onboard_time": 1719379638,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -56899,6 +56979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125962,
+      "num": 333909,
+      "word": "谁研发的榴莲辣条",
+      "onboard_time": 1719376340,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125921,
       "num": 125921,
       "word": "C罗无私助攻",
@@ -64803,14 +64891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93174,
-      "num": 317504,
-      "word": "谁研发的榴莲辣条",
-      "onboard_time": 1719376340,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 93162,
       "num": 93162,
       "word": "世界之外肯德基",
@@ -65753,6 +65833,14 @@
       "onboard_time": 1718370923,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 84082,
+      "num": 469383,
+      "word": "平凉未满16岁少年团伙流窜多地盗窃",
+      "onboard_time": 1719378019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84048,
@@ -69968,14 +70056,6 @@
       "word": "嫦娥六号返回器安全着陆",
       "onboard_time": 1719320658,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50928,
-      "num": 469383,
-      "word": "平凉未满16岁少年团伙流窜多地盗窃",
-      "onboard_time": 1719378019,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

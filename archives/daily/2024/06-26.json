@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719379114405,
+  "endTime": 1719380117075,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -115,12 +115,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 773423,
+      "num": 773423,
+      "word": "刘浩存MiuMiu",
+      "onboard_time": 1719376100,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 731266,
       "num": 731266,
       "word": "朱炳仁孙子高考700分目标北大",
       "onboard_time": 1719359778,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 720465,
+      "num": 720465,
+      "word": "10元手冲咖啡阿姨称月收入几万块",
+      "onboard_time": 1719376160,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 705277,
@@ -137,22 +153,6 @@
       "onboard_time": 1719370398,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 698185,
-      "num": 639231,
-      "word": "刘浩存MiuMiu",
-      "onboard_time": 1719376100,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670319,
-      "num": 670319,
-      "word": "10元手冲咖啡阿姨称月收入几万块",
-      "onboard_time": 1719376160,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 669050,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590262,
+      "num": 428552,
+      "word": "35岁清华毕业生再考清华失败",
+      "onboard_time": 1719378200,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589250,
       "num": 589250,
       "word": "林一 北京不能没有你在",
@@ -217,6 +225,14 @@
       "onboard_time": 1719366738,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557767,
+      "num": 557767,
+      "word": "95后平均在职仅仅7个月就选择辞职",
+      "onboard_time": 1719377419,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544306,
@@ -419,20 +435,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329556,
+      "num": 329556,
+      "word": "甘肃13岁男孩杀害8岁女童案今开庭",
+      "onboard_time": 1719379398,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327781,
       "num": 327781,
       "word": "肖战在前面唱 那英在后面笑",
       "onboard_time": 1719357375,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317300,
-      "num": 317300,
-      "word": "95后平均在职仅仅7个月就选择辞职",
-      "onboard_time": 1719377419,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310471,
@@ -507,11 +523,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287923,
-      "num": 287923,
-      "word": "35岁清华毕业生再考清华失败",
-      "onboard_time": 1719378200,
-      "rank": 21,
+      "raw_hot": 286534,
+      "num": 189508,
+      "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+      "onboard_time": 1719379218,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -553,6 +569,14 @@
       "onboard_time": 1719356594,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262713,
+      "num": 262713,
+      "word": "罗云熙新剧新娘是印小天",
+      "onboard_time": 1719379938,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 258712,
@@ -659,20 +683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228488,
+      "num": 228488,
+      "word": "我完全而绝对地选择复旦",
+      "onboard_time": 1719378200,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222086,
       "num": 375061,
       "word": "00后挑战三个月打卡22座城市",
       "onboard_time": 1719369376,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 217248,
-      "num": 217248,
-      "word": "我完全而绝对地选择复旦",
-      "onboard_time": 1719378200,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 215978,
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199078,
+      "num": 199078,
+      "word": "孙颖莎代言汰渍",
+      "onboard_time": 1719379578,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199053,
       "num": 199053,
       "word": "欧洲杯 美洲杯",
@@ -785,6 +817,14 @@
       "onboard_time": 1719372979,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191511,
+      "num": 191511,
+      "word": "国台办回应民进党称妈祖是统战工具",
+      "onboard_time": 1719379819,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189850,
@@ -843,6 +883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175318,
+      "num": 175318,
+      "word": "ZICO 走路姿势",
+      "onboard_time": 1719379458,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174659,
       "num": 174659,
       "word": "清华复旦嗑到了",
@@ -867,7 +915,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 170090,
+      "raw_hot": 172212,
       "num": 209210,
       "word": "台独立场转变是否还追究刑责",
       "onboard_time": 1719376880,
@@ -881,6 +929,14 @@
       "onboard_time": 1719357255,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167001,
+      "num": 167001,
+      "word": "胡锡进A股开户一周年",
+      "onboard_time": 1719377599,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 165807,
@@ -923,12 +979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158192,
-      "num": 158192,
-      "word": "胡锡进A股开户一周年",
-      "onboard_time": 1719377599,
-      "rank": 37,
-      "category": "财经,社会新闻"
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "肿瘤科医生劝大家少吃这6种食物",
+      "onboard_time": 1719379638,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159898,
+      "num": 159898,
+      "word": "失业半年多了老爸突然给我转账",
+      "onboard_time": 1719379698,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 158144,
@@ -937,6 +1001,14 @@
       "onboard_time": 1719313998,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158100,
+      "num": 158100,
+      "word": "张若昀皮下是五竹",
+      "onboard_time": 1719379338,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 157168,
@@ -969,6 +1041,14 @@
       "onboard_time": 1719326300,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "张凌赫胡子造型",
+      "onboard_time": 1719379638,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 153919,
@@ -1019,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148844,
+      "num": 148844,
+      "word": "度华年",
+      "onboard_time": 1719376579,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147155,
       "num": 133785,
       "word": "张杰谢娜被气笑的具象化了",
@@ -1049,14 +1137,6 @@
       "onboard_time": 1719369678,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138778,
-      "num": 138778,
-      "word": "度华年",
-      "onboard_time": 1719376579,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 138776,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1719362299,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125962,
+      "num": 333909,
+      "word": "谁研发的榴莲辣条",
+      "onboard_time": 1719376340,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 122408,
@@ -1307,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93174,
-      "num": 317504,
-      "word": "谁研发的榴莲辣条",
-      "onboard_time": 1719376340,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 91945,
       "num": 91945,
       "word": "正确改善驼背",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1719356955,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84082,
+      "num": 469383,
+      "word": "平凉未满16岁少年团伙流窜多地盗窃",
+      "onboard_time": 1719378019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83003,
@@ -1561,14 +1649,6 @@
       "onboard_time": 1719357495,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50928,
-      "num": 469383,
-      "word": "平凉未满16岁少年团伙流窜多地盗窃",
-      "onboard_time": 1719378019,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48549,
