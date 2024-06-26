@@ -1,0 +1,410 @@
+{
+  "runTime": 1719391064099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514724,
+        "num": 1514724,
+        "word": "章莹颖",
+        "onboard_time": 1719386597,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759355,
+        "num": 759355,
+        "word": "章莹颖父母现状",
+        "onboard_time": 1719383900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46703,
+        "num": 742371,
+        "word": "高考志愿填报前这些信息要了解",
+        "onboard_time": 1719390437,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 728670,
+        "num": 728670,
+        "word": "云南丽江4.4级左右地震",
+        "onboard_time": 1719390498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664178,
+        "num": 664178,
+        "word": "魏大勋 臣退下了",
+        "onboard_time": 1719386658,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588023,
+        "num": 588023,
+        "word": "喜茶门店称小奶栀名字是公司定的",
+        "onboard_time": 1719388878,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 558928,
+        "num": 558928,
+        "word": "武艺听到天天一米九的反应",
+        "onboard_time": 1719381318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537890,
+        "num": 537890,
+        "word": "鲁A济南车 鲁B青岛的",
+        "onboard_time": 1719386538,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 512314,
+        "num": 512314,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415774,
+        "num": 415774,
+        "word": "巴黎奥运中国队8大看点",
+        "onboard_time": 1719385578,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1248105,
+        "num": 412372,
+        "word": "四胞胎",
+        "onboard_time": 1719384798,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 75877,
+        "num": 407742,
+        "word": "他们是一群叫某某某的英雄",
+        "onboard_time": 1719389899,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446837,
+        "num": 406979,
+        "word": "伊能静发刘亦菲九宫格",
+        "onboard_time": 1719388757,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33128,
+        "num": 401252,
+        "word": "寻子17年母亲说儿子考多少都是满分",
+        "onboard_time": 1719390798,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 398154,
+        "word": "厦大教授谈新传专业遇冷",
+        "onboard_time": 1719388818,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 394343,
+        "num": 394343,
+        "word": "十个勤天成立新公司",
+        "onboard_time": 1719389658,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360304,
+        "num": 360304,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323015,
+        "num": 323015,
+        "word": "刘浩存MiuMiu",
+        "onboard_time": 1719376100,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321877,
+        "num": 321877,
+        "word": "小S车内伸头看金智媛",
+        "onboard_time": 1719382338,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310703,
+        "num": 310703,
+        "word": "中国医科大学多名博士生称拿不到学位",
+        "onboard_time": 1719382579,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388689,
+        "num": 297911,
+        "word": "大腿上长了橘皮纹不是因为胖",
+        "onboard_time": 1719384258,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 346903,
+        "num": 293406,
+        "word": "肿瘤科医生劝大家少吃这6种食物",
+        "onboard_time": 1719379638,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277918,
+        "num": 277918,
+        "word": "洪知秀将在联合国发表演讲",
+        "onboard_time": 1719390498,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267480,
+        "num": 267480,
+        "word": "95后平均在职仅仅7个月就选择辞职",
+        "onboard_time": 1719377419,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266669,
+        "num": 266669,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247408,
+        "num": 247408,
+        "word": "新一批复制人已入百万",
+        "onboard_time": 1719387978,
+        "rank": 25,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 244165,
+        "num": 244165,
+        "word": "偷偷留学了一年却骗妈妈在上班",
+        "onboard_time": 1719388757,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244032,
+        "num": 244032,
+        "word": "丁程鑫 进组",
+        "onboard_time": 1719385758,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45577,
+        "num": 209637,
+        "word": "留给领克的安全测试项目不多了",
+        "onboard_time": 1719389899,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203026,
+        "num": 203026,
+        "word": "35岁清华毕业生再考清华失败",
+        "onboard_time": 1719378200,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199663,
+        "num": 199663,
+        "word": "相柳只剩六个脑袋了",
+        "onboard_time": 1719387798,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176496,
+        "num": 176496,
+        "word": "男足男篮男排均未入选巴黎奥运会",
+        "onboard_time": 1719389539,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176105,
+        "num": 176105,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+        "onboard_time": 1719379218,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171982,
+        "num": 171982,
+        "word": "唐尚珺分享查分一刻",
+        "onboard_time": 1719388098,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 171315,
+        "num": 171315,
+        "word": "韩雪",
+        "onboard_time": 1719382938,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165519,
+        "num": 165519,
+        "word": "伊能静 刘亦菲的人生是真正的大女主",
+        "onboard_time": 1719390437,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162300,
+        "num": 162300,
+        "word": "王俊凯被摸了一路",
+        "onboard_time": 1719389837,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161742,
+        "num": 161742,
+        "word": "女子花8950元买LV拖鞋穿2次掉皮",
+        "onboard_time": 1719384498,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150865,
+        "num": 150865,
+        "word": "女孩上学坠落下水井路过学生趴地救回",
+        "onboard_time": 1719387019,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 15680,
+        "num": 150770,
+        "word": "哪些考生适合报机械专业",
+        "onboard_time": 1719388818,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150763,
+        "num": 150763,
+        "word": "迪丽热巴 玛丽猫",
+        "onboard_time": 1719390917,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149732,
+        "num": 149732,
+        "word": "10元手冲咖啡阿姨称月收入几万块",
+        "onboard_time": 1719376160,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 147543,
+        "num": 147543,
+        "word": "罗云熙新剧新娘是印小天",
+        "onboard_time": 1719379938,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146264,
+        "num": 146264,
+        "word": "部分央企系公募已启动退薪工作",
+        "onboard_time": 1719388638,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144688,
+        "num": 144688,
+        "word": "歌手官宣谭维维",
+        "onboard_time": 1719376340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142712,
+        "num": 142712,
+        "word": "罗小黑",
+        "onboard_time": 1719381920,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140276,
+        "num": 140276,
+        "word": "王星越13岁就知道有事找谁帮忙",
+        "onboard_time": 1719383900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135160,
+        "num": 135160,
+        "word": "中医养发",
+        "onboard_time": 1719390559,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133748,
+        "num": 133748,
+        "word": "于正问菲常萧张二搭适合什么朝代",
+        "onboard_time": 1719390978,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131542,
+        "num": 131542,
+        "word": "刘亦菲接剧水平",
+        "onboard_time": 1719380358,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样谈科学家精神#"
+    }
+  }
+}

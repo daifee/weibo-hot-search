@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719390278244,
+  "endTime": 1719391064099,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1514724,
+      "num": 1514724,
+      "word": "章莹颖",
+      "onboard_time": 1719386597,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483879,
       "num": 986535,
       "word": "李梦 情商",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1248105,
+      "num": 451454,
+      "word": "四胞胎",
+      "onboard_time": 1719384798,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1246215,
       "num": 1246215,
       "word": "李一桐 将门毒后",
@@ -425,14 +441,6 @@
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1214140,
-      "num": 451454,
-      "word": "四胞胎",
-      "onboard_time": 1719384798,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1170053,
@@ -512,14 +520,6 @@
       "word": "甘肃13岁男孩杀害8岁女童案今开庭",
       "onboard_time": 1719379398,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1107333,
-      "num": 1107333,
-      "word": "章莹颖",
-      "onboard_time": 1719386597,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 728670,
+      "num": 728670,
+      "word": "云南丽江4.4级左右地震",
+      "onboard_time": 1719390498,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725930,
       "num": 725930,
       "word": "云边有个小卖部 赵露思",
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664178,
+      "num": 664178,
+      "word": "魏大勋 臣退下了",
+      "onboard_time": 1719386658,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663229,
       "num": 663229,
       "word": "喜茶 小奶栀",
@@ -1368,14 +1384,6 @@
       "word": "赵丽颖曾帮陈晓袁姗姗解围",
       "onboard_time": 1719126199,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 656318,
-      "num": 656318,
-      "word": "魏大勋 臣退下了",
-      "onboard_time": 1719386658,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1609,6 +1617,14 @@
       "onboard_time": 1719382579,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588023,
+      "num": 588023,
+      "word": "喜茶门店称小奶栀名字是公司定的",
+      "onboard_time": 1719388878,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 587328,
@@ -1988,7 +2004,7 @@
     },
     {
       "raw_hot": 506455,
-      "num": 279668,
+      "num": 293406,
       "word": "肿瘤科医生劝大家少吃这6种食物",
       "onboard_time": 1719379638,
       "rank": 39,
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 502878,
-      "num": 281230,
+      "num": 297911,
       "word": "大腿上长了橘皮纹不是因为胖",
       "onboard_time": 1719384258,
       "rank": 20,
@@ -2368,6 +2384,14 @@
       "word": "刘亦菲喝了黄玫瑰拿铁",
       "onboard_time": 1719242121,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446837,
+      "num": 406979,
+      "word": "伊能静发刘亦菲九宫格",
+      "onboard_time": 1719388757,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2827,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394343,
+      "num": 394343,
+      "word": "十个勤天成立新公司",
+      "onboard_time": 1719389658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -3203,14 +3235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 350527,
-      "num": 350527,
-      "word": "喜茶门店称小奶栀名字是公司定的",
-      "onboard_time": 1719388878,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 347736,
       "num": 347736,
       "word": "5名网红涉嫌诈骗被抓",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1719120438,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334316,
-      "num": 334316,
-      "word": "伊能静发刘亦菲九宫格",
-      "onboard_time": 1719388757,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 334169,
@@ -3619,14 +3635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 304889,
-      "num": 277810,
-      "word": "十个勤天成立新公司",
-      "onboard_time": 1719389658,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304013,
       "num": 304013,
       "word": "鹿晗演唱会背影图",
@@ -3897,6 +3905,14 @@
       "onboard_time": 1719199937,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277918,
+      "num": 277918,
+      "word": "洪知秀将在联合国发表演讲",
+      "onboard_time": 1719390498,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 277740,
@@ -4265,6 +4281,14 @@
       "onboard_time": 1719370338,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244165,
+      "num": 244165,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 244041,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1719200659,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213160,
-      "num": 213160,
-      "word": "偷偷留学了一年却骗妈妈在上班",
-      "onboard_time": 1719388757,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 212545,
@@ -6291,6 +6307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176496,
+      "num": 176496,
+      "word": "男足男篮男排均未入选巴黎奥运会",
+      "onboard_time": 1719389539,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175318,
       "num": 175318,
       "word": "ZICO 走路姿势",
@@ -6417,6 +6441,14 @@
       "onboard_time": 1719112696,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171982,
+      "num": 171982,
+      "word": "唐尚珺分享查分一刻",
+      "onboard_time": 1719388098,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171736,
@@ -6683,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165519,
+      "num": 165519,
+      "word": "伊能静 刘亦菲的人生是真正的大女主",
+      "onboard_time": 1719390437,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165285,
       "num": 165285,
       "word": "陈都灵美得像国画",
@@ -6809,6 +6849,14 @@
       "onboard_time": 1719150918,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "王俊凯被摸了一路",
+      "onboard_time": 1719389837,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 162193,
@@ -7195,14 +7243,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 154532,
-      "num": 154532,
-      "word": "唐尚珺分享查分一刻",
-      "onboard_time": 1719388098,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 154244,
       "num": 154244,
       "word": "肖战纯白POLO衫",
@@ -7225,14 +7265,6 @@
       "onboard_time": 1719258791,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154000,
-      "num": 154000,
-      "word": "男足男篮男排均未入选巴黎奥运会",
-      "onboard_time": 1719389539,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 153919,
@@ -7353,6 +7385,14 @@
       "onboard_time": 1719211819,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150763,
+      "num": 150763,
+      "word": "迪丽热巴 玛丽猫",
+      "onboard_time": 1719390917,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 150687,
@@ -7963,6 +8003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135160,
+      "num": 135160,
+      "word": "中医养发",
+      "onboard_time": 1719390559,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 134730,
       "num": 134730,
       "word": "谢霆锋回忆刘雅瑟爆破戏现场",
@@ -8009,6 +8057,14 @@
       "onboard_time": 1719067939,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133748,
+      "num": 133748,
+      "word": "于正问菲常萧张二搭适合什么朝代",
+      "onboard_time": 1719390978,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 133747,
@@ -9779,6 +9835,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 75877,
+      "num": 691387,
+      "word": "他们是一群叫某某某的英雄",
+      "onboard_time": 1719389899,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75577,
       "num": 75577,
       "word": "射手才是火象星座里最难搞的",
@@ -10243,12 +10307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46703,
+      "num": 742371,
+      "word": "高考志愿填报前这些信息要了解",
+      "onboard_time": 1719390437,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 46189,
       "num": 47532,
       "word": "菲常萧张已he求放过",
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45577,
+      "num": 209637,
+      "word": "留给领克的安全测试项目不多了",
+      "onboard_time": 1719389899,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 44895,
@@ -10265,14 +10345,6 @@
       "onboard_time": 1719302838,
       "rank": 31,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 44568,
-      "num": 691387,
-      "word": "他们是一群叫某某某的英雄",
-      "onboard_time": 1719389899,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43727,
@@ -10403,14 +10475,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 39767,
-      "num": 154207,
-      "word": "留给领克的安全测试项目不多了",
-      "onboard_time": 1719389899,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 39587,
       "num": 265072,
       "word": "爬富士山的日本男子下落不明",
@@ -10425,6 +10489,14 @@
       "onboard_time": 1719250454,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39265,
+      "num": 398154,
+      "word": "厦大教授谈新传专业遇冷",
+      "onboard_time": 1719388818,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 39056,
@@ -10552,6 +10624,14 @@
       "word": "轿车落水黑衣男子一路飞奔跳水救人",
       "onboard_time": 1719109278,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33128,
+      "num": 401252,
+      "word": "寻子17年母亲说儿子考多少都是满分",
+      "onboard_time": 1719390798,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -10713,14 +10793,6 @@
       "onboard_time": 1719386777,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27662,
-      "num": 359378,
-      "word": "厦大教授谈新传专业遇冷",
-      "onboard_time": 1719388818,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27182,
@@ -11003,6 +11075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15680,
+      "num": 155166,
+      "word": "哪些考生适合报机械专业",
+      "onboard_time": 1719388818,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 15618,
       "num": 27874,
       "word": "全国眼视光医师人才缺口约30万",
@@ -11089,14 +11169,6 @@
       "onboard_time": 1719160756,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12768,
-      "num": 155166,
-      "word": "哪些考生适合报机械专业",
-      "onboard_time": 1719388818,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 12763,
