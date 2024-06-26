@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/27 00:24:39 ~ 2024/06/27 02:25:22
+本榜单时间：2024/06/27 00:24:39 ~ 2024/06/27 02:38:45
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E8%8F%9C%E6%B8%B8%E6%88%8F%E6%9A%B4%E9%9B%B7%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E8%BF%913%E4%BA%BF%E5%85%83%23" target="weibo">
+种菜游戏暴雷涉及资金近3亿元（热度：97119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%83%8F%E4%BD%A0%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%AF%95%E4%B8%9A%E5%90%88%E5%94%B1%E7%89%88%23" target="weibo">
 像你这样的朋友毕业合唱版（热度：90701）
 </a>
@@ -263,12 +269,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%B3%96%E6%B0%B4%E7%81%AB%E4%BA%86%23" target="weibo">
 广西糖水火了（热度：83505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E8%8F%9C%E6%B8%B8%E6%88%8F%E6%9A%B4%E9%9B%B7%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E8%BF%913%E4%BA%BF%E5%85%83%23" target="weibo">
-种菜游戏暴雷涉及资金近3亿元（热度：77710）
 </a>
 </li>
 
@@ -382,7 +382,13 @@ Scout3000杀（热度：66007）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
-真心建议晚上考语文（热度：25756）
+真心建议晚上考语文（热度：26594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%90%BD%E5%9C%B0%E7%9A%84%E5%8A%A8%E4%BD%9C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%AD%A6%E7%94%9F%23" target="weibo">
+王星越落地的动作真的很小学生（热度：21947）
 </a>
 </li>
 
@@ -394,13 +400,19 @@ Scout3000杀（热度：66007）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%AD%A3%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0%23" target="weibo">
-高校毕业季就是最好的招生简章（热度：17200）
+高校毕业季就是最好的招生简章（热度：17652）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E6%99%9A%E5%BE%92%E6%AD%A5%E5%8F%91%E4%BC%A0%E5%8D%95%E5%AF%BB%E7%8B%971%E4%B8%AA%E6%9C%88%E7%98%A68%E6%96%A4%23" target="weibo">
 男子每晚徒步发传单寻狗1个月瘦8斤（热度：12837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E4%BB%AC%E8%8A%B1%E5%BC%8F%E6%95%B4%E6%B4%BB%23" target="weibo">
+高校毕业典礼上的显眼包们花式整活（热度：8789）
 </a>
 </li>
 

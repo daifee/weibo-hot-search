@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719426322889,
+  "endTime": 1719427125600,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97119,
+      "num": 97119,
+      "word": "种菜游戏暴雷涉及资金近3亿元",
+      "onboard_time": 1719423792,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90701,
       "num": 90701,
       "word": "像你这样的朋友毕业合唱版",
@@ -337,14 +345,6 @@
       "onboard_time": 1719411499,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 77710,
-      "num": 77710,
-      "word": "种菜游戏暴雷涉及资金近3亿元",
-      "onboard_time": 1719423792,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74279,
@@ -491,12 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25756,
-      "num": 31230,
+      "raw_hot": 26594,
+      "num": 35695,
       "word": "真心建议晚上考语文",
       "onboard_time": 1719425293,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 21947,
+      "num": 34826,
+      "word": "王星越落地的动作真的很小学生",
+      "onboard_time": 1719426732,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 20343,
@@ -507,7 +515,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 17200,
+      "raw_hot": 17652,
       "num": 235226,
       "word": "高校毕业季就是最好的招生简章",
       "onboard_time": 1719408079,
@@ -521,6 +529,14 @@
       "onboard_time": 1719420375,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8789,
+      "num": 41482,
+      "word": "高校毕业典礼上的显眼包们花式整活",
+      "onboard_time": 1719426312,
+      "rank": 24,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

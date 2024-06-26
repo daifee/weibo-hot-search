@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/23 00:24:11 ~ 2024/06/27 02:25:22
+本榜单时间：2024/06/23 00:24:11 ~ 2024/06/27 02:38:45
 </p>
 </blockquote>
 <p>
@@ -7935,6 +7935,12 @@ HYBE全球新女团MV预告（热度：97964）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E8%8F%9C%E6%B8%B8%E6%88%8F%E6%9A%B4%E9%9B%B7%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E8%BF%913%E4%BA%BF%E5%85%83%23" target="weibo">
+种菜游戏暴雷涉及资金近3亿元（热度：97119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E7%AC%AC%E4%B8%80%E8%8E%B7%E5%A5%9630%E4%BD%99%E9%A1%B9%23" target="weibo">
 女生连续4年第一获奖30余项（热度：97096）
 </a>
@@ -8183,12 +8189,6 @@ eStar对战TKL（热度：93053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%AB%E5%BF%97%E6%84%BF%E5%90%AC%E5%90%AC%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E5%8A%9E%E6%80%8E%E4%B9%88%E8%AF%B4%23" target="weibo">
 填志愿听听高校招生办怎么说（热度：77833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E8%8F%9C%E6%B8%B8%E6%88%8F%E6%9A%B4%E9%9B%B7%E6%B6%89%E5%8F%8A%E8%B5%84%E9%87%91%E8%BF%913%E4%BA%BF%E5%85%83%23" target="weibo">
-种菜游戏暴雷涉及资金近3亿元（热度：77710）
 </a>
 </li>
 
@@ -9045,6 +9045,12 @@ Enhypen MV（热度：32672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
+真心建议晚上考语文（热度：26594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%A4%A7%E7%81%AB%E5%B7%B2%E7%BB%8F%E7%83%A7%E4%BA%86%E4%B8%89%E5%91%A8%23" target="weibo">
 美国阿拉斯加大火已经烧了三周（热度：26584）
 </a>
@@ -9059,12 +9065,6 @@ Enhypen MV（热度：32672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%B0%84%E8%8D%AF%E7%89%A9%E7%9A%84%E6%97%B6%E5%80%99%E7%9C%8B%E4%B8%8B%E8%8D%AF%E7%89%A9%E5%90%8D%23" target="weibo">
 注射药物的时候看下药物名（热度：26022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
-真心建议晚上考语文（热度：25756）
 </a>
 </li>
 
@@ -9131,6 +9131,12 @@ i人甚至都不敢看完（热度：23786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E6%9C%B1%E5%87%8C%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%B0%B8%E4%B8%8D%E8%BF%87%E6%97%B6%23" target="weibo">
 极氪朱凌称汽车行业永不过时（热度：22365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%90%BD%E5%9C%B0%E7%9A%84%E5%8A%A8%E4%BD%9C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%AD%A6%E7%94%9F%23" target="weibo">
+王星越落地的动作真的很小学生（热度：21947）
 </a>
 </li>
 
@@ -9407,6 +9413,12 @@ i人甚至都不敢看完（热度：23786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E5%A5%96%E9%AB%98%E6%A0%A1%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23" target="weibo">
 国家科技奖高校神仙打架（热度：9200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E4%BB%AC%E8%8A%B1%E5%BC%8F%E6%95%B4%E6%B4%BB%23" target="weibo">
+高校毕业典礼上的显眼包们花式整活（热度：8789）
 </a>
 </li>
 
