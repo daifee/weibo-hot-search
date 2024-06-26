@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719412508465,
+  "endTime": 1719415310026,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -99,12 +99,28 @@
       "category": "教育,作品衍生"
     },
     {
+      "raw_hot": 1138595,
+      "num": 568500,
+      "word": "做票",
+      "onboard_time": 1719411978,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1128936,
       "num": 1128936,
       "word": "清华大学 林更新转场",
       "onboard_time": 1719363439,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1125869,
+      "num": 297483,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1111629,
@@ -275,6 +291,14 @@
       "category": "剧集,教育"
     },
     {
+      "raw_hot": 739976,
+      "num": 739976,
+      "word": "哪里人不爱出省读大学",
+      "onboard_time": 1719399619,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 731266,
       "num": 731266,
       "word": "朱炳仁孙子高考700分目标北大",
@@ -337,6 +361,14 @@
       "onboard_time": 1719375739,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 668606,
+      "num": 246377,
+      "word": "50块钱在韩国打了瘦脸针",
+      "onboard_time": 1719410358,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 664178,
@@ -425,14 +457,6 @@
       "onboard_time": 1719373638,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609302,
-      "num": 609302,
-      "word": "哪里人不爱出省读大学",
-      "onboard_time": 1719399619,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 599298,
@@ -659,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 450880,
-      "num": 246377,
-      "word": "50块钱在韩国打了瘦脸针",
-      "onboard_time": 1719410358,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 449528,
       "num": 449528,
       "word": "腾讯四连爆",
@@ -793,14 +809,6 @@
       "onboard_time": 1719391580,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373076,
-      "num": 243430,
-      "word": "法老diss",
-      "onboard_time": 1719411859,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 369660,
@@ -931,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320877,
-      "num": 241770,
-      "word": "做票",
-      "onboard_time": 1719411978,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316519,
       "num": 316519,
       "word": "海棠延期",
@@ -995,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302222,
+      "num": 302222,
+      "word": "毒贩在禁毒视频下打广告被抓",
+      "onboard_time": 1719412037,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299790,
       "num": 299790,
       "word": "江西卫视发了王一博哭戏",
@@ -1027,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295400,
+      "num": 207165,
+      "word": "何洁 梦回超女",
+      "onboard_time": 1719413001,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295321,
       "num": 295321,
       "word": "差点没认出来倪妮",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1719399018,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291788,
+      "num": 291788,
+      "word": "男子高考失利离家出走8年",
+      "onboard_time": 1719412219,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289543,
@@ -1275,6 +1299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221193,
+      "num": 238803,
+      "word": "中国象棋第一人王天一被调查",
+      "onboard_time": 1719409818,
+      "rank": 31,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 218938,
       "num": 218938,
       "word": "真的建议报考中国科大",
@@ -1395,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206709,
+      "num": 206709,
+      "word": "宇露君沾",
+      "onboard_time": 1719414499,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205034,
       "num": 205034,
       "word": "智利0比1阿根廷",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1719384498,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203896,
+      "num": 203896,
+      "word": "李雪琴高考分数",
+      "onboard_time": 1719414860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202774,
@@ -1555,12 +1603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189948,
-      "num": 238803,
-      "word": "中国象棋第一人王天一被调查",
-      "onboard_time": 1719409818,
-      "rank": 31,
-      "category": "社会新闻,体育"
+      "raw_hot": 190388,
+      "num": 208417,
+      "word": "城管局回应环卫工坐下休息被领导骂哭",
+      "onboard_time": 1719414439,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189850,
@@ -1627,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182238,
-      "num": 182238,
-      "word": "男子高考失利离家出走8年",
-      "onboard_time": 1719412219,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182064,
       "num": 182064,
       "word": "一个毕业即就业的专业",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1719403458,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175688,
+      "num": 175688,
+      "word": "为什么不建议盲目当老师",
+      "onboard_time": 1719413661,
+      "rank": 28,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 175318,
@@ -1907,6 +1955,14 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 163979,
+      "num": 163979,
+      "word": "智性恋",
+      "onboard_time": 1719411739,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163290,
       "num": 163290,
       "word": "父母从未因成绩差批评过我",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1719370216,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156172,
+      "num": 156172,
+      "word": "福登暂时离开国家队",
+      "onboard_time": 1719414379,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 155983,
@@ -2187,12 +2251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143752,
-      "num": 143752,
-      "word": "毒贩在禁毒视频下打广告被抓",
-      "onboard_time": 1719412037,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 143623,
+      "num": 143623,
+      "word": "广西糖水火了",
+      "onboard_time": 1719411499,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 140836,
@@ -2395,14 +2459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125824,
-      "num": 125824,
-      "word": "智性恋",
-      "onboard_time": 1719411739,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "余秀华买衣服和买药都是在买希望",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1719365477,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115509,
+      "num": 249181,
+      "word": "男童坠入极窄深井矮小症村民挺身而出",
+      "onboard_time": 1719412279,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115368,
@@ -2697,6 +2761,14 @@
       "onboard_time": 1719382639,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103831,
+      "num": 103831,
+      "word": "eStar战胜TKL",
+      "onboard_time": 1719414319,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 103405,
@@ -3003,14 +3075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68495,
-      "num": 249181,
-      "word": "男童坠入极窄深井矮小症村民挺身而出",
-      "onboard_time": 1719412279,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67955,
       "num": 67955,
       "word": "差一分清北的情节在自己身上发生了",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1719388818,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 38006,
+      "num": 288102,
+      "word": "长沙民警在齐腰积水中救人",
+      "onboard_time": 1719414140,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 35934,
@@ -3393,6 +3465,14 @@
       "onboard_time": 1719339612,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 8021,
+      "num": 104223,
+      "word": "安踏官方回复安灵龙",
+      "onboard_time": 1719415159,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
