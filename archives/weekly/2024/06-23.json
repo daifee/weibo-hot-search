@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719443997339,
+  "endTime": 1719444961542,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1042876,
-      "num": 841900,
+      "num": 962971,
       "word": "李雪琴高考分数",
       "onboard_time": 1719414860,
       "rank": 25,
@@ -2603,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453867,
+      "num": 221029,
+      "word": "葡萄牙爆冷输球",
+      "onboard_time": 1719443654,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453612,
       "num": 453612,
       "word": "迪丽热巴方发维权声明",
@@ -3371,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367209,
+      "num": 214104,
+      "word": "玻利维亚发生军事政变",
+      "onboard_time": 1719443654,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 366679,
       "num": 251304,
       "word": "薛芳菲为婉宁流泪",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1719111977,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351611,
+      "num": 137581,
+      "word": "给宝宝取了全国唯一的名字",
+      "onboard_time": 1719444614,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 351231,
@@ -4203,6 +4227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 289662,
+      "num": 208984,
+      "word": "彭冠英回应和刘亦菲跳舞戏",
+      "onboard_time": 1719441853,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289543,
       "num": 289543,
       "word": "张杰演唱会",
@@ -4355,6 +4387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275370,
+      "num": 275370,
+      "word": "北京多孩家庭购买第二套房按首套认定",
+      "onboard_time": 1719439212,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275337,
       "num": 275337,
       "word": "法国女子只拿工资不干活怒告公司",
@@ -4435,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267979,
+      "num": 267979,
+      "word": "欧洲杯16强出炉",
+      "onboard_time": 1719443716,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267978,
       "num": 267978,
       "word": "梨形身材越练腿越细",
@@ -4497,14 +4545,6 @@
       "onboard_time": 1719291502,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263935,
-      "num": 263935,
-      "word": "北京多孩家庭购买第二套房按首套认定",
-      "onboard_time": 1719439212,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263934,
@@ -5609,6 +5649,14 @@
       "onboard_time": 1719205640,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207089,
+      "num": 103244,
+      "word": "法老 27狗子来了",
+      "onboard_time": 1719444736,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 206869,
@@ -6723,14 +6771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181358,
-      "num": 74737,
-      "word": "葡萄牙爆冷输球",
-      "onboard_time": 1719443654,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180687,
       "num": 180687,
       "word": "高中最好的成绩给了高考",
@@ -6816,14 +6856,6 @@
       "word": "张婧仪周翊然CP感",
       "onboard_time": 1719204020,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 179004,
-      "num": 162911,
-      "word": "彭冠英回应和刘亦菲跳舞戏",
-      "onboard_time": 1719441853,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -7571,6 +7603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162586,
+      "num": 136774,
+      "word": "这里是健身房不允许开车",
+      "onboard_time": 1719444194,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162578,
       "num": 171068,
       "word": "高校招生版神转场",
@@ -8059,14 +8099,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 153277,
-      "num": 153277,
-      "word": "欧洲杯16强出炉",
-      "onboard_time": 1719443716,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153185,
       "num": 153185,
       "word": "部分央企系公募已启动退薪工作",
@@ -8153,6 +8185,14 @@
       "onboard_time": 1719149298,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151371,
+      "num": 151371,
+      "word": "齐思钧否认浪姐直播做票",
+      "onboard_time": 1719444495,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 151326,
@@ -8249,6 +8289,22 @@
       "onboard_time": 1719290300,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149513,
+      "num": 149513,
+      "word": "陈情令开播五周年",
+      "onboard_time": 1719444256,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149316,
+      "num": 149316,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 149305,
@@ -8689,6 +8745,14 @@
       "onboard_time": 1719299720,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "种菜游戏暴雷涉及资金近3亿元",
+      "onboard_time": 1719423792,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138842,
@@ -9355,14 +9419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 125122,
-      "num": 125122,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124886,
       "num": 124886,
       "word": "张新成陷入沈月单依纯夸夸团",
@@ -9609,14 +9665,6 @@
       "onboard_time": 1719369376,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120119,
-      "num": 120119,
-      "word": "种菜游戏暴雷涉及资金近3亿元",
-      "onboard_time": 1719423792,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119598,
@@ -10019,6 +10067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112540,
+      "num": 103092,
+      "word": "格鲁吉亚晋级欧洲杯16强",
+      "onboard_time": 1719443654,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112407,
       "num": 112407,
       "word": "北大教授说汉语言专业适应性强",
@@ -10089,6 +10145,14 @@
       "onboard_time": 1719286519,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110872,
+      "num": 110872,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 110648,
@@ -10243,14 +10307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107789,
-      "num": 74734,
-      "word": "格鲁吉亚晋级欧洲杯16强",
-      "onboard_time": 1719443654,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107777,
       "num": 193686,
       "word": "防晒衣究竟是不是智商税",
@@ -10313,6 +10369,14 @@
       "onboard_time": 1719314118,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105514,
+      "num": 105514,
+      "word": "蔡文静说近半年不想再拍综艺了",
+      "onboard_time": 1719420256,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 104853,
@@ -10409,6 +10473,14 @@
       "onboard_time": 1719398357,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102542,
+      "num": 102542,
+      "word": "柴犬为什么要捂着鼻子睡觉",
+      "onboard_time": 1719440532,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 102320,
@@ -10683,14 +10755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94099,
-      "num": 94099,
-      "word": "柴犬为什么要捂着鼻子睡觉",
-      "onboard_time": 1719440532,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93053,
       "num": 93053,
       "word": "eStar对战TKL",
@@ -10705,6 +10769,14 @@
       "onboard_time": 1719109038,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92376,
+      "num": 92376,
+      "word": "格鲁吉亚vs葡萄牙",
+      "onboard_time": 1719444556,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 92243,
@@ -10763,12 +10835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89709,
-      "num": 74880,
-      "word": "蔡文静说近半年不想再拍综艺了",
-      "onboard_time": 1719420256,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 89762,
+      "num": 89762,
+      "word": "比利时晋级欧洲杯16强",
+      "onboard_time": 1719444135,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 89171,
@@ -10899,20 +10971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82261,
+      "num": 82261,
+      "word": "魔兽世界 服务器",
+      "onboard_time": 1719443716,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "陈鑫海王星越好会扭",
       "onboard_time": 1719159557,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80626,
-      "num": 80626,
-      "word": "魔兽世界 服务器",
-      "onboard_time": 1719443716,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 80097,
@@ -10929,14 +11001,6 @@
       "onboard_time": 1719079634,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79792,
-      "num": 79792,
-      "word": "玻利维亚发生军事政变",
-      "onboard_time": 1719443654,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 79613,
@@ -11347,14 +11411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59703,
-      "num": 48719,
-      "word": "具荷拉保险柜嫌犯去除反光后的照片",
-      "onboard_time": 1719429850,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59540,
       "num": 420025,
       "word": "81岁父亲临终前一直拉着女儿的手",
@@ -11369,6 +11425,14 @@
       "onboard_time": 1719177011,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58864,
+      "num": 58864,
+      "word": "乌克兰半场0比0比利时",
+      "onboard_time": 1719443955,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 58812,
@@ -11563,14 +11627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48208,
-      "num": 48208,
-      "word": "乌克兰半场0比0比利时",
-      "onboard_time": 1719443955,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48089,
       "num": 51423,
       "word": "RNG夏季赛五连败",
@@ -11596,7 +11652,7 @@
     },
     {
       "raw_hot": 47251,
-      "num": 300986,
+      "num": 397113,
       "word": "高校毕业季就是最好的招生简章",
       "onboard_time": 1719408079,
       "rank": 21,
@@ -11753,6 +11809,14 @@
       "onboard_time": 1719389418,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 40568,
+      "num": 221679,
+      "word": "四川人餐桌上的夏日限定",
+      "onboard_time": 1719444316,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 40246,
