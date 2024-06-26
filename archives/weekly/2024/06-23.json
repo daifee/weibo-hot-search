@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719366108272,
+  "endTime": 1719369300431,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628836,
+      "num": 628836,
+      "word": "网红博主爬泰山说5元1瓶水真不贵",
+      "onboard_time": 1719360437,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627426,
       "num": 627426,
       "word": "孙阳和网友吵起来了",
@@ -1411,6 +1419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 588408,
+      "num": 588408,
+      "word": "林一 北京不能没有你在",
+      "onboard_time": 1719364398,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 587328,
       "num": 587328,
       "word": "清华告诉你北京到底有谁在",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1719207739,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571909,
+      "num": 541057,
+      "word": "疯批王姬",
+      "onboard_time": 1719366738,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 565976,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1719274639,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 546629,
+      "num": 546629,
+      "word": "复旦招生宣传黄亦玫严选",
+      "onboard_time": 1719367997,
+      "rank": 5,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 545688,
@@ -1747,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504053,
+      "num": 504053,
+      "word": "清华大学 神转场",
+      "onboard_time": 1719363439,
+      "rank": 7,
+      "category": "教育,作品衍生"
+    },
+    {
       "raw_hot": 502201,
       "num": 502201,
       "word": "王星越谈被校园霸凌哭了",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1719140717,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 470652,
+      "num": 470652,
+      "word": "iPhone安卓手机可互发5G消息了",
+      "onboard_time": 1719364940,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 470399,
@@ -2347,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417997,
+      "num": 220078,
+      "word": "睡前有这5个习惯的人易胖肚子",
+      "onboard_time": 1719366797,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417813,
       "num": 417813,
       "word": "庆余年 晕墨",
@@ -2635,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377741,
+      "num": 377741,
+      "word": "渐冻症学生离世大学设同名奖学金",
+      "onboard_time": 1719366918,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377439,
       "num": 377439,
       "word": "张婧仪高定绿裙",
@@ -2761,14 +2825,6 @@
       "onboard_time": 1719326899,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 358293,
-      "num": 299734,
-      "word": "林一 北京不能没有你在",
-      "onboard_time": 1719364398,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357701,
@@ -3171,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310471,
+      "num": 310471,
+      "word": "加沙平均每天10名儿童失去腿",
+      "onboard_time": 1719364816,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 309491,
       "num": 238580,
       "word": "永夜星河好大一个虞书欣",
@@ -3185,6 +3249,14 @@
       "onboard_time": 1719152001,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308454,
+      "num": 247365,
+      "word": "谢娜张杰又发糖了",
+      "onboard_time": 1719366319,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 307821,
@@ -3305,14 +3377,6 @@
       "onboard_time": 1719272537,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295301,
-      "num": 339417,
-      "word": "网红博主爬泰山说5元1瓶水真不贵",
-      "onboard_time": 1719360437,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294623,
@@ -4131,14 +4195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224717,
-      "num": 224717,
-      "word": "iPhone安卓手机可互发5G消息了",
-      "onboard_time": 1719364940,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 224133,
       "num": 224133,
       "word": "EXO感情真好",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1719303977,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221192,
+      "num": 221192,
+      "word": "距巴黎奥运会还有30天",
+      "onboard_time": 1719367756,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 221151,
@@ -4651,14 +4715,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 202432,
-      "num": 202432,
-      "word": "加沙平均每天10名儿童失去腿",
-      "onboard_time": 1719364816,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 202371,
       "num": 202371,
       "word": "殷世航 傲娇美",
@@ -4681,6 +4737,14 @@
       "onboard_time": 1719210197,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201027,
+      "num": 201027,
+      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+      "onboard_time": 1719369077,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201008,
@@ -4849,6 +4913,14 @@
       "onboard_time": 1719145339,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197921,
+      "num": 197921,
+      "word": "塞纳河大肠杆菌仍超标",
+      "onboard_time": 1719367878,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 197904,
@@ -5179,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187762,
+      "num": 187762,
+      "word": "古天乐回应被追债830万港元",
+      "onboard_time": 1719366677,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187739,
       "num": 187739,
       "word": "刘德华演唱会抢票",
@@ -5483,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178515,
+      "num": 178515,
+      "word": "舒淇成为奥斯卡评委",
+      "onboard_time": 1719368597,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178496,
       "num": 178496,
       "word": "梁建章称大学本科不必过早锁定专业",
@@ -5625,6 +5713,14 @@
       "onboard_time": 1719299959,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173179,
+      "num": 173179,
+      "word": "男生高考提高102分含泪跪谢妈妈",
+      "onboard_time": 1719368357,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172807,
@@ -5851,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165696,
+      "num": 165696,
+      "word": "客服回应墨雨云间大结局单独收费",
+      "onboard_time": 1719366558,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165611,
       "num": 165611,
       "word": "云南一副县长回应被举报出轨",
@@ -5945,6 +6049,14 @@
       "onboard_time": 1719342551,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "男子替换价格标签25元买走2瓶茅台",
+      "onboard_time": 1719368477,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162816,
@@ -6931,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136856,
+      "num": 136856,
+      "word": "苹果取消两倍存储空间限制",
+      "onboard_time": 1719368957,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136669,
       "num": 136669,
       "word": "匈牙利绝杀苏格兰",
@@ -7065,6 +7185,14 @@
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133428,
+      "num": 133428,
+      "word": "Mac版ChatGPT开放",
+      "onboard_time": 1719367336,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 133338,
@@ -7203,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128520,
+      "num": 128520,
+      "word": "金泰亨海报",
+      "onboard_time": 1719367698,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128436,
       "num": 128436,
       "word": "闺蜜做直播养着失业的我",
@@ -7308,7 +7444,7 @@
     },
     {
       "raw_hot": 126640,
-      "num": 126640,
+      "num": 410396,
       "word": "一小块月球到达地球",
       "onboard_time": 1719362299,
       "rank": 40,
@@ -8075,6 +8211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107293,
+      "num": 107293,
+      "word": "美洲杯裁判",
+      "onboard_time": 1719369258,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107276,
       "num": 1115982,
       "word": "嫦娥六号发博提醒接收月球快递",
@@ -8593,6 +8737,14 @@
       "onboard_time": 1719080593,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79065,
+      "num": 137169,
+      "word": "杜国楹道歉",
+      "onboard_time": 1719367216,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78456,
