@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719387288862,
+  "endTime": 1719390278244,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -25,6 +25,14 @@
       "onboard_time": 1719369077,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1214140,
+      "num": 451454,
+      "word": "四胞胎",
+      "onboard_time": 1719384798,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1166194,
@@ -59,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107333,
+      "num": 1107333,
+      "word": "章莹颖",
+      "onboard_time": 1719386597,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016677,
+      "num": 1016677,
+      "word": "章莹颖父母现状",
+      "onboard_time": 1719383900,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 989828,
       "num": 989828,
       "word": "韩雪拒绝用负重一万斤长大玩梗",
@@ -73,14 +97,6 @@
       "onboard_time": 1719357075,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 936132,
-      "num": 451454,
-      "word": "四胞胎",
-      "onboard_time": 1719384798,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 919696,
@@ -105,14 +121,6 @@
       "onboard_time": 1719325580,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 819292,
-      "num": 819292,
-      "word": "章莹颖父母现状",
-      "onboard_time": 1719383900,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811391,
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 656318,
+      "num": 656318,
+      "word": "魏大勋 臣退下了",
+      "onboard_time": 1719386658,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655016,
       "num": 227203,
       "word": "原来微信可以自动定位未读消息",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555339,
+      "num": 555339,
+      "word": "鲁A济南车 鲁B青岛的",
+      "onboard_time": 1719386538,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 552067,
       "num": 451799,
       "word": "小S车内伸头看金智媛",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 506455,
-      "num": 258600,
+      "num": 279668,
       "word": "肿瘤科医生劝大家少吃这6种食物",
       "onboard_time": 1719379638,
       "rank": 39,
@@ -361,6 +385,14 @@
       "onboard_time": 1719363439,
       "rank": 7,
       "category": "教育,作品衍生"
+    },
+    {
+      "raw_hot": 502878,
+      "num": 281230,
+      "word": "大腿上长了橘皮纹不是因为胖",
+      "onboard_time": 1719384258,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 499299,
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479928,
-      "num": 265005,
-      "word": "大腿上长了橘皮纹不是因为胖",
-      "onboard_time": 1719384258,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 470652,
       "num": 470652,
       "word": "iPhone安卓手机可互发5G消息了",
@@ -401,6 +425,14 @@
       "onboard_time": 1719311539,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443934,
+      "num": 443934,
+      "word": "巴黎奥运中国队8大看点",
+      "onboard_time": 1719385578,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 430157,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350527,
+      "num": 350527,
+      "word": "喜茶门店称小奶栀名字是公司定的",
+      "onboard_time": 1719388878,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 347285,
       "num": 347285,
       "word": "刘亦菲接剧水平",
@@ -537,6 +577,14 @@
       "onboard_time": 1719326899,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 334316,
+      "num": 334316,
+      "word": "伊能静发刘亦菲九宫格",
+      "onboard_time": 1719388757,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 330856,
@@ -569,6 +617,22 @@
       "onboard_time": 1719366319,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306132,
+      "num": 279097,
+      "word": "丁程鑫 进组",
+      "onboard_time": 1719385758,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 304889,
+      "num": 277810,
+      "word": "十个勤天成立新公司",
+      "onboard_time": 1719389658,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 303015,
@@ -619,14 +683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291641,
-      "num": 251334,
-      "word": "丁程鑫 进组",
-      "onboard_time": 1719385758,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 289543,
       "num": 289543,
       "word": "张杰演唱会",
@@ -659,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282517,
-      "num": 248510,
-      "word": "魏大勋 臣退下了",
-      "onboard_time": 1719386658,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281825,
       "num": 394151,
       "word": "男子用麻精药品迷奸多名女性被判无期",
@@ -675,19 +723,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277740,
+      "num": 277740,
+      "word": "新一批复制人已入百万",
+      "onboard_time": 1719387978,
+      "rank": 24,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 271929,
       "num": 282117,
       "word": "双胞胎出生差2分高考也差2分",
       "onboard_time": 1719356594,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268557,
-      "num": 268557,
-      "word": "章莹颖",
-      "onboard_time": 1719386597,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -763,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235854,
-      "num": 235854,
-      "word": "鲁A济南车 鲁B青岛的",
-      "onboard_time": 1719386538,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 235796,
       "num": 235796,
       "word": "魔方新世界",
@@ -833,6 +873,22 @@
       "onboard_time": 1719373218,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213160,
+      "num": 213160,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209779,
+      "num": 209779,
+      "word": "相柳只剩六个脑袋了",
+      "onboard_time": 1719387798,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209320,
@@ -905,6 +961,14 @@
       "onboard_time": 1719363139,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 199741,
+      "num": 163718,
+      "word": "在漫画里抽卡抽爽了",
+      "onboard_time": 1719389658,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 199689,
@@ -1115,14 +1179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170670,
-      "num": 266681,
-      "word": "巴黎奥运中国队8大看点",
-      "onboard_time": 1719385578,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168564,
       "num": 168564,
       "word": "荷兰2比3奥地利",
@@ -1147,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167453,
+      "num": 167453,
+      "word": "伊能静给玫瑰的故事写小作文",
+      "onboard_time": 1719386957,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167001,
       "num": 167001,
       "word": "胡锡进A股开户一周年",
       "onboard_time": 1719377599,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 166385,
+      "num": 327466,
+      "word": "女孩上学坠落下水井路过学生趴地救回",
+      "onboard_time": 1719387019,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 165807,
@@ -1259,12 +1331,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154532,
+      "num": 154532,
+      "word": "唐尚珺分享查分一刻",
+      "onboard_time": 1719388098,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 154000,
+      "num": 154000,
+      "word": "男足男篮男排均未入选巴黎奥运会",
+      "onboard_time": 1719389539,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "劳塔罗绝杀",
       "onboard_time": 1719373759,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153185,
+      "num": 153185,
+      "word": "部分央企系公募已启动退薪工作",
+      "onboard_time": 1719388638,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 151931,
@@ -1363,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139441,
-      "num": 139441,
-      "word": "伊能静给玫瑰的故事写小作文",
-      "onboard_time": 1719386957,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138776,
       "num": 138776,
       "word": "ENHYPEN概念照",
@@ -1435,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130748,
+      "num": 130748,
+      "word": "捷克狼犬小时候有多萌",
+      "onboard_time": 1719390138,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130545,
       "num": 130545,
       "word": "山东高考650分及以上3386人",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1719386117,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 124180,
+      "num": 124180,
+      "word": "张凌赫度华年出场梦回谢危",
+      "onboard_time": 1719388157,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 122408,
@@ -1867,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68227,
-      "num": 327466,
-      "word": "女孩上学坠落下水井路过学生趴地救回",
-      "onboard_time": 1719387019,
-      "rank": 13,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 67955,
       "num": 67955,
       "word": "差一分清北的情节在自己身上发生了",
@@ -1987,12 +2083,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44568,
+      "num": 691387,
+      "word": "他们是一群叫某某某的英雄",
+      "onboard_time": 1719389899,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43205,
       "num": 406073,
       "word": "保安连续1个月背骨折学生上5楼",
       "onboard_time": 1719364158,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 40568,
+      "num": 390241,
+      "word": "大学选专业是凭兴趣还是追热点",
+      "onboard_time": 1719389418,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 39767,
+      "num": 154207,
+      "word": "留给领克的安全测试项目不多了",
+      "onboard_time": 1719389899,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 35934,
@@ -2043,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27662,
+      "num": 359378,
+      "word": "厦大教授谈新传专业遇冷",
+      "onboard_time": 1719388818,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 26701,
       "num": 36826,
       "word": "杜海涛想要个女儿",
@@ -2089,6 +2217,14 @@
       "onboard_time": 1719337752,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12768,
+      "num": 155166,
+      "word": "哪些考生适合报机械专业",
+      "onboard_time": 1719388818,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 12668,
@@ -2146,6 +2282,9 @@
     },
     {
       "word": "#总书记为建设科技强国作出新指引#"
+    },
+    {
+      "word": "#总书记引领加快建设科技强国步伐#"
     }
   ]
 }
