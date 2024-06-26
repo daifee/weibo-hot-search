@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719376711880,
+  "endTime": 1719379114405,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -6403,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829137,
+      "num": 829137,
+      "word": "歌手官宣谭维维",
+      "onboard_time": 1719376340,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829099,
       "num": 256800,
       "word": "长期不爱说话或说话少的后果",
@@ -8515,6 +8523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 698185,
+      "num": 639231,
+      "word": "刘浩存MiuMiu",
+      "onboard_time": 1719376100,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 698045,
       "num": 698045,
       "word": "巩俐非常喜欢尊敬刘亦菲",
@@ -9171,6 +9187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 670319,
+      "num": 670319,
+      "word": "10元手冲咖啡阿姨称月收入几万块",
+      "onboard_time": 1719376160,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 670179,
       "num": 670179,
       "word": "赵丽颖霸总出街",
@@ -9195,20 +9219,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 669050,
+      "num": 599465,
+      "word": "TFBOYS五十周年演唱会预告",
+      "onboard_time": 1719375739,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668783,
       "num": 668783,
       "word": "考生冲出考场太激动拥抱家人遭重摔",
       "onboard_time": 1717888393,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668673,
-      "num": 599465,
-      "word": "TFBOYS五十周年演唱会预告",
-      "onboard_time": 1719375739,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668525,
@@ -20091,14 +20115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370679,
-      "num": 370679,
-      "word": "歌手官宣谭维维",
-      "onboard_time": 1719376340,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370481,
       "num": 370481,
       "word": "桃花坞650宣布无限期停更",
@@ -23539,6 +23555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317300,
+      "num": 317300,
+      "word": "95后平均在职仅仅7个月就选择辞职",
+      "onboard_time": 1719377419,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317178,
       "num": 242135,
       "word": "张雪峰建议北京文科女生不要出京",
@@ -23961,14 +23985,6 @@
       "onboard_time": 1718114659,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 309294,
-      "num": 309294,
-      "word": "刘浩存MiuMiu",
-      "onboard_time": 1719376100,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 309110,
@@ -24545,14 +24561,6 @@
       "onboard_time": 1719120318,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301269,
-      "num": 301269,
-      "word": "10元手冲咖啡阿姨称月收入几万块",
-      "onboard_time": 1719376160,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 301119,
@@ -25531,6 +25539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 289543,
+      "num": 289543,
+      "word": "张杰演唱会",
+      "onboard_time": 1717170560,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 289510,
       "num": 282767,
       "word": "周杰伦 当年我也是歌火人不火",
@@ -25673,6 +25689,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287923,
+      "num": 287923,
+      "word": "35岁清华毕业生再考清华失败",
+      "onboard_time": 1719378200,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287912,
@@ -28171,6 +28195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258712,
+      "num": 258712,
+      "word": "杨紫一番女主",
+      "onboard_time": 1719377539,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258494,
       "num": 189078,
       "word": "黄亦玫爸爸",
@@ -29129,6 +29161,14 @@
       "onboard_time": 1718248218,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246904,
+      "num": 246904,
+      "word": "MiuMiu包",
+      "onboard_time": 1719377002,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 246613,
@@ -32801,6 +32841,14 @@
       "onboard_time": 1717888094,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217248,
+      "num": 217248,
+      "word": "我完全而绝对地选择复旦",
+      "onboard_time": 1719378200,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 217226,
@@ -36931,14 +36979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198692,
-      "num": 253295,
-      "word": "张杰演唱会",
-      "onboard_time": 1717170560,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 198682,
       "num": 198682,
       "word": "高三班主任花36天给每位学生写信",
@@ -37384,6 +37424,14 @@
       "word": "刘亦菲玫瑰的故事",
       "onboard_time": 1717643417,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196978,
+      "num": 196978,
+      "word": "上海到底有谁在啊",
+      "onboard_time": 1719377898,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -43891,6 +43939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170090,
+      "num": 209210,
+      "word": "台独立场转变是否还追究刑责",
+      "onboard_time": 1719376880,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169991,
       "num": 169991,
       "word": "霍拉拉",
@@ -47179,6 +47235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158192,
+      "num": 158192,
+      "word": "胡锡进A股开户一周年",
+      "onboard_time": 1719377599,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 158140,
       "num": 158140,
       "word": "赵丽颖杨单合作",
@@ -49433,6 +49497,14 @@
       "onboard_time": 1717658958,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150989,
+      "num": 150989,
+      "word": "张杰北京",
+      "onboard_time": 1719377719,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 150974,
@@ -60731,6 +60803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 112407,
+      "num": 112407,
+      "word": "北大教授说汉语言专业适应性强",
+      "onboard_time": 1719378979,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112385,
       "num": 112385,
       "word": "Letme说BLG虐泉没必要",
@@ -64721,6 +64801,14 @@
       "onboard_time": 1717492098,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93174,
+      "num": 317504,
+      "word": "谁研发的榴莲辣条",
+      "onboard_time": 1719376340,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 93162,
@@ -69883,6 +69971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50928,
+      "num": 469383,
+      "word": "平凉未满16岁少年团伙流窜多地盗窃",
+      "onboard_time": 1719378019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50892,
       "num": 1052154,
       "word": "晒一晒你和爸爸的合影",
@@ -70737,14 +70833,6 @@
       "onboard_time": 1718955197,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43936,
-      "num": 188819,
-      "word": "谁研发的榴莲辣条",
-      "onboard_time": 1719376340,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 43898,

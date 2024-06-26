@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719376711880,
+  "endTime": 1719379114405,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 829137,
+      "num": 829137,
+      "word": "歌手官宣谭维维",
+      "onboard_time": 1719376340,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 826246,
       "num": 826246,
       "word": "林一晒与刘亦菲合照",
@@ -131,7 +139,23 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 668673,
+      "raw_hot": 698185,
+      "num": 639231,
+      "word": "刘浩存MiuMiu",
+      "onboard_time": 1719376100,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 670319,
+      "num": 670319,
+      "word": "10元手冲咖啡阿姨称月收入几万块",
+      "onboard_time": 1719376160,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 669050,
       "num": 599465,
       "word": "TFBOYS五十周年演唱会预告",
       "onboard_time": 1719375739,
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370679,
-      "num": 370679,
-      "word": "歌手官宣谭维维",
-      "onboard_time": 1719376340,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367268,
       "num": 181665,
       "word": "长期不爱说话或说话少的后果",
@@ -411,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317300,
+      "num": 317300,
+      "word": "95后平均在职仅仅7个月就选择辞职",
+      "onboard_time": 1719377419,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310471,
       "num": 310471,
       "word": "加沙平均每天10名儿童失去腿",
       "onboard_time": 1719364816,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 309294,
-      "num": 309294,
-      "word": "刘浩存MiuMiu",
-      "onboard_time": 1719376100,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308454,
@@ -449,14 +465,6 @@
       "onboard_time": 1719370818,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 301269,
-      "num": 301269,
-      "word": "10元手冲咖啡阿姨称月收入几万块",
-      "onboard_time": 1719376160,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 299790,
@@ -489,6 +497,22 @@
       "onboard_time": 1719371178,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289543,
+      "num": 289543,
+      "word": "张杰演唱会",
+      "onboard_time": 1719377179,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 287923,
+      "num": 287923,
+      "word": "35岁清华毕业生再考清华失败",
+      "onboard_time": 1719378200,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285660,
@@ -531,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258712,
+      "num": 258712,
+      "word": "杨紫一番女主",
+      "onboard_time": 1719377539,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255657,
       "num": 255657,
       "word": "哈工大无需宣传分够了我自然会去",
       "onboard_time": 1719370038,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 246904,
+      "num": 246904,
+      "word": "MiuMiu包",
+      "onboard_time": 1719377002,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 246200,
@@ -627,6 +667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 217248,
+      "num": 217248,
+      "word": "我完全而绝对地选择复旦",
+      "onboard_time": 1719378200,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215978,
       "num": 215978,
       "word": "张若昀新片定档",
@@ -657,6 +705,14 @@
       "onboard_time": 1719321079,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206869,
+      "num": 206869,
+      "word": "歌手",
+      "onboard_time": 1719376640,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 205034,
@@ -705,6 +761,14 @@
       "onboard_time": 1719367878,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196978,
+      "num": 196978,
+      "word": "上海到底有谁在啊",
+      "onboard_time": 1719377898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195856,
@@ -803,6 +867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 170090,
+      "num": 209210,
+      "word": "台独立场转变是否还追究刑责",
+      "onboard_time": 1719376880,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168564,
       "num": 168564,
       "word": "荷兰2比3奥地利",
@@ -827,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164582,
-      "num": 164582,
-      "word": "歌手",
-      "onboard_time": 1719376640,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164463,
       "num": 164463,
       "word": "重庆永川要建西部科技影视城",
@@ -857,6 +921,14 @@
       "onboard_time": 1719342551,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158192,
+      "num": 158192,
+      "word": "胡锡进A股开户一周年",
+      "onboard_time": 1719377599,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158144,
@@ -915,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150989,
+      "num": 150989,
+      "word": "张杰北京",
+      "onboard_time": 1719377719,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150269,
       "num": 150269,
       "word": "痞幼巴黎时装周vlog",
@@ -969,6 +1049,14 @@
       "onboard_time": 1719369678,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138778,
+      "num": 138778,
+      "word": "度华年",
+      "onboard_time": 1719376579,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 138776,
@@ -1139,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112407,
+      "num": 112407,
+      "word": "北大教授说汉语言专业适应性强",
+      "onboard_time": 1719378979,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111615,
       "num": 111615,
       "word": "海南再通报游客称潜水被弃海中事件",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1719318559,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93174,
+      "num": 317504,
+      "word": "谁研发的榴莲辣条",
+      "onboard_time": 1719376340,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 91945,
@@ -1459,20 +1563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50928,
+      "num": 469383,
+      "word": "平凉未满16岁少年团伙流窜多地盗窃",
+      "onboard_time": 1719378019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48549,
       "num": 76863,
       "word": "WBG更换首发辅助",
       "onboard_time": 1719316098,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43936,
-      "num": 188819,
-      "word": "谁研发的榴莲辣条",
-      "onboard_time": 1719376340,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 43205,
