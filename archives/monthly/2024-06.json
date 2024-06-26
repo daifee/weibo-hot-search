@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719419079741,
+  "endTime": 1719419964646,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -15491,6 +15491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 475035,
+      "num": 218164,
+      "word": "秃子",
+      "onboard_time": 1719417797,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 475012,
       "num": 384558,
       "word": "快乐老友记",
@@ -16753,14 +16761,6 @@
       "onboard_time": 1717729158,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445257,
-      "num": 218164,
-      "word": "秃子",
-      "onboard_time": 1719417797,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 445064,
@@ -19139,6 +19139,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 398810,
+      "num": 143993,
+      "word": "得胃癌之前胃都经历了什么",
+      "onboard_time": 1719416657,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 398690,
       "num": 355711,
       "word": "王俊凯王源易烊千玺最新状态",
@@ -19577,14 +19585,6 @@
       "onboard_time": 1717904658,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390950,
-      "num": 143993,
-      "word": "得胃癌之前胃都经历了什么",
-      "onboard_time": 1719416657,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 390846,
@@ -68427,6 +68427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74815,
+      "num": 221823,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 74733,
       "num": 74733,
       "word": "何洁 垫音",
@@ -71083,14 +71091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54767,
-      "num": 221823,
-      "word": "温州女生高考726分称自己不是天赋型",
-      "onboard_time": 1719417857,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 54529,
       "num": 186506,
       "word": "2024高考出分时间",
@@ -71873,6 +71873,14 @@
       "onboard_time": 1718963957,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49008,
+      "num": 62201,
+      "word": "斯洛伐克vs罗马尼亚",
+      "onboard_time": 1719419894,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 49001,
@@ -76233,6 +76241,14 @@
       "onboard_time": 1717284314,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20343,
+      "num": 126576,
+      "word": "打卡第八届亚欧博览会",
+      "onboard_time": 1719419715,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 20293,

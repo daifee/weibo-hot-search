@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719419079741,
+  "endTime": 1719419964646,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -43,20 +43,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 475035,
+      "num": 218164,
+      "word": "秃子",
+      "onboard_time": 1719417797,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 451948,
       "num": 220526,
       "word": "终于有24小时录制的综艺了",
       "onboard_time": 1719404718,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445257,
-      "num": 218164,
-      "word": "秃子",
-      "onboard_time": 1719417797,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 408072,
@@ -67,7 +67,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 390950,
+      "raw_hot": 398810,
       "num": 143993,
       "word": "得胃癌之前胃都经历了什么",
       "onboard_time": 1719416657,
@@ -235,7 +235,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112816,
+      "raw_hot": 115159,
       "num": 127441,
       "word": "度华年开播热度",
       "onboard_time": 1719404657,
@@ -315,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74815,
+      "num": 221823,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 74279,
       "num": 126438,
       "word": "北京首套房首付最低20%",
@@ -387,12 +395,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 54767,
-      "num": 221823,
-      "word": "温州女生高考726分称自己不是天赋型",
-      "onboard_time": 1719417857,
-      "rank": 9,
-      "category": "教育,社会新闻"
+      "raw_hot": 49008,
+      "num": 62201,
+      "word": "斯洛伐克vs罗马尼亚",
+      "onboard_time": 1719419894,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41782,
@@ -401,11 +409,22 @@
       "onboard_time": 1719408679,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20343,
+      "num": 126576,
+      "word": "打卡第八届亚欧博览会",
+      "onboard_time": 1719419715,
+      "rank": 17,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平给景宁畲族自治县各族干部群众回信#"
+    },
+    {
+      "word": "#总书记为建设科技强国作出新指引#"
     }
   ]
 }
