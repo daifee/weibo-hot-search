@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719440348935,
+  "endTime": 1719441333808,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1042876,
-      "num": 429120,
+      "num": 429652,
       "word": "李雪琴高考分数",
       "onboard_time": 1719414860,
       "rank": 3,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95308,
+      "num": 95308,
+      "word": "魔兽世界怀旧服回归",
+      "onboard_time": 1719423252,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90701,
       "num": 90701,
       "word": "像你这样的朋友毕业合唱版",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84181,
+      "num": 84181,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83505,
       "num": 126486,
       "word": "广西糖水火了",
@@ -377,14 +393,6 @@
       "onboard_time": 1719407119,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68542,
-      "num": 68542,
-      "word": "魔兽世界怀旧服回归",
-      "onboard_time": 1719423252,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 68357,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 59703,
-      "num": 46925,
+      "num": 48719,
       "word": "具荷拉保险柜嫌犯去除反光后的照片",
       "onboard_time": 1719429850,
       "rank": 38,
@@ -459,20 +467,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 54011,
-      "num": 54011,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49008,
       "num": 62201,
       "word": "斯洛伐克vs罗马尼亚",
       "onboard_time": 1719419894,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47321,
+      "num": 47321,
+      "word": "北京多孩家庭购买第二套房按首套认定",
+      "onboard_time": 1719439212,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46183,
@@ -515,20 +523,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 26740,
-      "num": 26740,
-      "word": "北京多孩家庭购买第二套房按首套认定",
-      "onboard_time": 1719439212,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26553,
-      "num": 26553,
+      "raw_hot": 29447,
+      "num": 29447,
       "word": "荷兰首相吕特被任命为北约秘书长",
       "onboard_time": 1719436030,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23866,
+      "num": 25788,
+      "word": "柴犬为什么要捂着鼻子睡觉",
+      "onboard_time": 1719440532,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23766,
+      "num": 235226,
+      "word": "高校毕业季就是最好的招生简章",
+      "onboard_time": 1719408079,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 22448,
@@ -555,16 +571,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 17652,
-      "num": 235226,
-      "word": "高校毕业季就是最好的招生简章",
-      "onboard_time": 1719408079,
-      "rank": 2,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 15883,
-      "num": 23130,
+      "num": 25778,
       "word": "谁说站在光里的才算是英雄",
       "onboard_time": 1719435190,
       "rank": 36,
