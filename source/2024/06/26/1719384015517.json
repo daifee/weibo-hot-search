@@ -1,0 +1,410 @@
+{
+  "runTime": 1719384015517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 753412,
+        "num": 753412,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664343,
+        "num": 664343,
+        "word": "武艺听到天天一米九的反应",
+        "onboard_time": 1719381318,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37856,
+        "num": 648663,
+        "word": "中国网络法治三十年",
+        "onboard_time": 1719373218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636894,
+        "num": 636894,
+        "word": "35岁清华毕业生再考清华失败",
+        "onboard_time": 1719378200,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608292,
+        "num": 608292,
+        "word": "刘浩存MiuMiu",
+        "onboard_time": 1719376100,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532296,
+        "num": 532296,
+        "word": "95后平均在职仅仅7个月就选择辞职",
+        "onboard_time": 1719377419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598220,
+        "num": 507417,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 596303,
+        "num": 502844,
+        "word": "罗云熙新剧新娘是印小天",
+        "onboard_time": 1719379938,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456678,
+        "num": 456678,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48274,
+        "num": 384305,
+        "word": "195斤父亲一个月暴瘦30斤割肝救女",
+        "onboard_time": 1719380537,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462068,
+        "num": 382943,
+        "word": "小S车内伸头看金智媛",
+        "onboard_time": 1719382338,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379504,
+        "num": 379504,
+        "word": "10元手冲咖啡阿姨称月收入几万块",
+        "onboard_time": 1719376160,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 341005,
+        "num": 341005,
+        "word": "谁家男主吐槽自己死得惨烈啊",
+        "onboard_time": 1719380418,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337914,
+        "num": 337914,
+        "word": "歌手官宣谭维维",
+        "onboard_time": 1719376340,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331035,
+        "num": 331035,
+        "word": "罗小黑",
+        "onboard_time": 1719381920,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 332308,
+        "num": 325425,
+        "word": "刘亦菲接剧水平",
+        "onboard_time": 1719380358,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261340,
+        "num": 261340,
+        "word": "复旦招生宣传黄亦玫严选",
+        "onboard_time": 1719367997,
+        "rank": 16,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 257657,
+        "num": 257657,
+        "word": "男生考前右手骨折考了714分",
+        "onboard_time": 1719373038,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254761,
+        "num": 254761,
+        "word": "中国医科大学多名博士生称拿不到学位",
+        "onboard_time": 1719382579,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230571,
+        "num": 230571,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1719369920,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 562112,
+        "num": 228941,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+        "onboard_time": 1719379218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506455,
+        "num": 226192,
+        "word": "肿瘤科医生劝大家少吃这6种食物",
+        "onboard_time": 1719379638,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303386,
+        "num": 225087,
+        "word": "韩雪",
+        "onboard_time": 1719382938,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222668,
+        "num": 222668,
+        "word": "原来普通人可能一年也存不到5万",
+        "onboard_time": 1719370818,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191333,
+        "num": 191333,
+        "word": "孙兴慜父亲因殴打少年球员接受调查",
+        "onboard_time": 1719381018,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186040,
+        "num": 186040,
+        "word": "董宇辉说霍启刚家里金牌太多了",
+        "onboard_time": 1719382157,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184992,
+        "num": 184992,
+        "word": "具荷拉保险箱盗窃犯高清图",
+        "onboard_time": 1719372919,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182396,
+        "num": 182396,
+        "word": "ZICO",
+        "onboard_time": 1719373638,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92145,
+        "num": 174877,
+        "word": "医学生为啥被叫灵魂画手",
+        "onboard_time": 1719383477,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171895,
+        "num": 171895,
+        "word": "睡前有这5个习惯的人易胖肚子",
+        "onboard_time": 1719366797,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149918,
+        "num": 149918,
+        "word": "乌合麒麟新作美国毒夫",
+        "onboard_time": 1719370398,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141037,
+        "num": 141037,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165495,
+        "num": 139958,
+        "word": "ZICO 走路姿势",
+        "onboard_time": 1719379458,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138324,
+        "num": 138324,
+        "word": "男子出差半个月家被搬空",
+        "onboard_time": 1719381617,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136314,
+        "num": 136314,
+        "word": "哈妮克孜表白刘亦菲",
+        "onboard_time": 1719380898,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133600,
+        "num": 133600,
+        "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+        "onboard_time": 1719371478,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126747,
+        "num": 126747,
+        "word": "度华年",
+        "onboard_time": 1719376579,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106593,
+        "num": 125406,
+        "word": "公交车失控背后压力下的中年司机",
+        "onboard_time": 1719381797,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124396,
+        "num": 124396,
+        "word": "孙颖莎代言汰渍",
+        "onboard_time": 1719379578,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118579,
+        "num": 118579,
+        "word": "王星越13岁就知道有事找谁帮忙",
+        "onboard_time": 1719383900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115787,
+        "num": 115787,
+        "word": "杨紫一番女主",
+        "onboard_time": 1719377539,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113019,
+        "num": 113019,
+        "word": "章莹颖父母现状",
+        "onboard_time": 1719383900,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110341,
+        "num": 110341,
+        "word": "度华年转场",
+        "onboard_time": 1719383176,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109740,
+        "num": 109740,
+        "word": "上海到底有谁在啊",
+        "onboard_time": 1719377898,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107808,
+        "num": 107808,
+        "word": "沈月all朱朱党",
+        "onboard_time": 1719381077,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107496,
+        "num": 107496,
+        "word": "张若昀皮下是五竹",
+        "onboard_time": 1719379338,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106442,
+        "num": 106442,
+        "word": "我完全而绝对地选择复旦",
+        "onboard_time": 1719378200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103943,
+        "num": 103943,
+        "word": "谭维维回应补位歌手",
+        "onboard_time": 1719382639,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102515,
+        "num": 102515,
+        "word": "MiuMiu包",
+        "onboard_time": 1719377002,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样谈科学家精神#"
+    }
+  }
+}
