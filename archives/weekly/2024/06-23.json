@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719393758863,
+  "endTime": 1719394500472,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -443,6 +443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1175294,
+      "num": 878292,
+      "word": "林一鼻子",
+      "onboard_time": 1719391699,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1170053,
       "num": 1170053,
       "word": "章子怡疑似不满酱园弄戏份",
@@ -523,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1110711,
-      "num": 821153,
-      "word": "林一鼻子",
-      "onboard_time": 1719391699,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1104974,
       "num": 1104974,
       "word": "唐尚珺高考成绩",
@@ -545,6 +545,14 @@
       "onboard_time": 1719225559,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1103407,
+      "num": 1103407,
+      "word": "高二女生考入北大遗憾不能上高三",
+      "onboard_time": 1719392117,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1096340,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1719372919,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 797096,
-      "num": 797096,
-      "word": "高二女生考入北大遗憾不能上高三",
-      "onboard_time": 1719392117,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 796825,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624466,
+      "num": 624466,
+      "word": "十个勤天成立新公司",
+      "onboard_time": 1719389658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624296,
       "num": 624296,
       "word": "月亮",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1719183734,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525996,
-      "num": 525996,
-      "word": "十个勤天成立新公司",
-      "onboard_time": 1719389658,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 523308,
@@ -2755,6 +2755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 413831,
+      "num": 413831,
+      "word": "檀健次发文官宣演唱会",
+      "onboard_time": 1719392900,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 413287,
       "num": 257873,
       "word": "傅家明离世庄国栋再回国追玫瑰",
@@ -3355,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335949,
+      "num": 335949,
+      "word": "胡锡进炒股一年赔了7.4万元",
+      "onboard_time": 1719392597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334169,
       "num": 470045,
       "word": "薛其坤想让量子物理把世界变得更美好",
@@ -3481,6 +3497,14 @@
       "onboard_time": 1719301521,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321988,
+      "num": 244165,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 321861,
@@ -3633,14 +3657,6 @@
       "onboard_time": 1719366319,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307921,
-      "num": 307921,
-      "word": "檀健次发文官宣演唱会",
-      "onboard_time": 1719392900,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 307821,
@@ -4051,14 +4067,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 268134,
-      "num": 244165,
-      "word": "偷偷留学了一年却骗妈妈在上班",
-      "onboard_time": 1719388757,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268022,
       "num": 268022,
       "word": "肖战北京机场图",
@@ -4385,14 +4393,6 @@
       "onboard_time": 1719099494,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241773,
-      "num": 241773,
-      "word": "胡锡进炒股一年赔了7.4万元",
-      "onboard_time": 1719392597,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241723,
@@ -5075,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207981,
+      "num": 188109,
+      "word": "迪丽热巴 玛丽猫",
+      "onboard_time": 1719390917,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -5161,14 +5169,6 @@
       "onboard_time": 1719227120,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205387,
-      "num": 188109,
-      "word": "迪丽热巴 玛丽猫",
-      "onboard_time": 1719390917,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 205213,
@@ -7091,6 +7091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158826,
+      "num": 151354,
+      "word": "朴彩英 魔芋爽",
+      "onboard_time": 1719394337,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "阿尔巴尼亚0比1西班牙",
@@ -7457,6 +7465,14 @@
       "onboard_time": 1719377719,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150922,
+      "num": 150922,
+      "word": "为什么一分钟会变成59秒",
+      "onboard_time": 1719393558,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150822,
@@ -8027,6 +8043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136377,
+      "num": 136377,
+      "word": "世界上最不会打架的小狗出现了",
+      "onboard_time": 1719391699,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -8129,14 +8153,6 @@
       "onboard_time": 1719067939,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134015,
-      "num": 134015,
-      "word": "世界上最不会打架的小狗出现了",
-      "onboard_time": 1719391699,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 133748,
@@ -8481,14 +8497,6 @@
       "onboard_time": 1719226580,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126095,
-      "num": 126095,
-      "word": "为什么一分钟会变成59秒",
-      "onboard_time": 1719393558,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 125962,
@@ -9251,6 +9259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109121,
+      "num": 109121,
+      "word": "檀健次多见一次巡演",
+      "onboard_time": 1719394397,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108794,
       "num": 108794,
       "word": "王星越赵昭仪陈鑫海同框唱歌",
@@ -9273,6 +9289,14 @@
       "onboard_time": 1719070578,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108570,
+      "num": 108570,
+      "word": "周深演唱会前对舞台说拜托了",
+      "onboard_time": 1719394038,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 108371,
@@ -10148,7 +10172,7 @@
     },
     {
       "raw_hot": 61670,
-      "num": 842845,
+      "num": 908217,
       "word": "高考志愿填报前这些信息要了解",
       "onboard_time": 1719390437,
       "rank": 2,
@@ -10289,6 +10313,14 @@
       "onboard_time": 1719185475,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54253,
+      "num": 328059,
+      "word": "58位机械毕业生薪资",
+      "onboard_time": 1719392418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53946,
@@ -10673,14 +10705,6 @@
       "onboard_time": 1719212718,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 35162,
-      "num": 328059,
-      "word": "58位机械毕业生薪资",
-      "onboard_time": 1719392418,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34820,

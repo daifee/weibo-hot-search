@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719393758863,
+  "endTime": 1719394500472,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1175294,
+      "num": 878292,
+      "word": "林一鼻子",
+      "onboard_time": 1719391699,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1166194,
       "num": 1166194,
       "word": "赵今麦MiuMiu",
@@ -75,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1110711,
-      "num": 821153,
-      "word": "林一鼻子",
-      "onboard_time": 1719391699,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 1103407,
+      "num": 1103407,
+      "word": "高二女生考入北大遗憾不能上高三",
+      "onboard_time": 1719392117,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1016677,
@@ -161,14 +169,6 @@
       "onboard_time": 1719372919,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 797096,
-      "num": 797096,
-      "word": "高二女生考入北大遗憾不能上高三",
-      "onboard_time": 1719392117,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 796825,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624466,
+      "num": 624466,
+      "word": "十个勤天成立新公司",
+      "onboard_time": 1719389658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612272,
       "num": 612272,
       "word": "ZICO",
@@ -377,14 +385,6 @@
       "onboard_time": 1719357916,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 525996,
-      "num": 525996,
-      "word": "十个勤天成立新公司",
-      "onboard_time": 1719389658,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 523308,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413831,
+      "num": 413831,
+      "word": "檀健次发文官宣演唱会",
+      "onboard_time": 1719392900,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 397510,
       "num": 397510,
       "word": "长相思2预告角色时长占比",
@@ -635,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 335949,
+      "num": 335949,
+      "word": "胡锡进炒股一年赔了7.4万元",
+      "onboard_time": 1719392597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330856,
       "num": 330856,
       "word": "永劫无间张起灵",
@@ -651,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321988,
+      "num": 244165,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310471,
       "num": 310471,
       "word": "加沙平均每天10名儿童失去腿",
@@ -665,14 +689,6 @@
       "onboard_time": 1719366319,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307921,
-      "num": 307921,
-      "word": "檀健次发文官宣演唱会",
-      "onboard_time": 1719392900,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 306132,
@@ -787,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268134,
-      "num": 244165,
-      "word": "偷偷留学了一年却骗妈妈在上班",
-      "onboard_time": 1719388757,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258712,
       "num": 258712,
       "word": "杨紫一番女主",
@@ -865,14 +873,6 @@
       "onboard_time": 1719336553,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241773,
-      "num": 241773,
-      "word": "胡锡进炒股一年赔了7.4万元",
-      "onboard_time": 1719392597,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235796,
@@ -971,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207981,
+      "num": 188109,
+      "word": "迪丽热巴 玛丽猫",
+      "onboard_time": 1719390917,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207526,
       "num": 207526,
       "word": "刘亦菲杜海涛斗舞",
@@ -993,14 +1001,6 @@
       "onboard_time": 1719376640,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205387,
-      "num": 188109,
-      "word": "迪丽热巴 玛丽猫",
-      "onboard_time": 1719390917,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 205034,
@@ -1395,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158826,
+      "num": 151354,
+      "word": "朴彩英 魔芋爽",
+      "onboard_time": 1719394337,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158144,
       "num": 181905,
       "word": "北京警方通报65岁男子捂女孩嘴",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1719377719,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150922,
+      "num": 150922,
+      "word": "为什么一分钟会变成59秒",
+      "onboard_time": 1719393558,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150269,
@@ -1595,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136377,
+      "num": 136377,
+      "word": "世界上最不会打架的小狗出现了",
+      "onboard_time": 1719391699,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135160,
       "num": 135160,
       "word": "中医养发",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1719331397,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134015,
-      "num": 134015,
-      "word": "世界上最不会打架的小狗出现了",
-      "onboard_time": 1719391699,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 133748,
@@ -1713,14 +1729,6 @@
       "onboard_time": 1719362299,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 126095,
-      "num": 126095,
-      "word": "为什么一分钟会变成59秒",
-      "onboard_time": 1719393558,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 125962,
@@ -1857,6 +1865,22 @@
       "onboard_time": 1719365057,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109121,
+      "num": 109121,
+      "word": "檀健次多见一次巡演",
+      "onboard_time": 1719394397,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108570,
+      "num": 108570,
+      "word": "周深演唱会前对舞台说拜托了",
+      "onboard_time": 1719394038,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 107084,
@@ -2164,7 +2188,7 @@
     },
     {
       "raw_hot": 61670,
-      "num": 842845,
+      "num": 908217,
       "word": "高考志愿填报前这些信息要了解",
       "onboard_time": 1719390437,
       "rank": 2,
@@ -2225,6 +2249,14 @@
       "onboard_time": 1719325519,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54253,
+      "num": 328059,
+      "word": "58位机械毕业生薪资",
+      "onboard_time": 1719392418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51922,
@@ -2289,14 +2321,6 @@
       "onboard_time": 1719319880,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 35162,
-      "num": 328059,
-      "word": "58位机械毕业生薪资",
-      "onboard_time": 1719392418,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33128,
