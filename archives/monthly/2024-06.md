@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/26 07:35:12
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/26 09:20:50
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ manner（热度：1307101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%9F%A5%E5%88%86%E5%BC%80%E5%87%BA%E9%9A%90%E8%97%8F%E6%AC%BE%E8%AE%A9%E7%88%B6%E4%BA%B2%E4%B8%80%E8%84%B8%E6%87%B5%23" target="weibo">
+女孩查分开出隐藏款让父亲一脸懵（热度：1304887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E7%AD%94%E6%95%B0%E5%AD%A6%E9%A2%98%20%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%23" target="weibo">
 姜萍答数学题 完整复盘（热度：1294781）
 </a>
@@ -3627,6 +3633,12 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E6%8B%92%E7%BB%9D%E7%94%A8%E8%B4%9F%E9%87%8D%E4%B8%80%E4%B8%87%E6%96%A4%E9%95%BF%E5%A4%A7%E7%8E%A9%E6%A2%97%23" target="weibo">
+韩雪拒绝用负重一万斤长大玩梗（热度：989828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%8F%96%E6%B6%88%E4%BA%86%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
 婚礼上取消了我不喜欢的环节（热度：989510）
 </a>
@@ -5145,6 +5157,12 @@ canteen我恨你（热度：798300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%20%E6%9E%97%E6%9B%B4%E6%96%B0%E8%BD%AC%E5%9C%BA%23" target="weibo">
+清华大学 林更新转场（热度：787612）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%BF%98%E4%BA%86%E6%94%BE%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 吴宣仪忘了放杨超越的照片（热度：787125）
 </a>
@@ -5895,6 +5913,12 @@ Jennie走秀（热度：742682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%82%B3%E4%BB%81%E5%AD%99%E5%AD%90%E9%AB%98%E8%80%83700%E5%88%86%E7%9B%AE%E6%A0%87%E5%8C%97%E5%A4%A7%23" target="weibo">
+朱炳仁孙子高考700分目标北大（热度：731266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%99%A8%E5%AE%98%23" target="weibo">
 体检发现多了一个器官（热度：730757）
 </a>
@@ -5987,30 +6011,6 @@ LOEWE全球品牌代言人王一博（热度：729341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Manner%E4%BA%8B%E4%BB%B6%20%E4%B8%8D%E8%A6%81%E4%B8%BA%E9%9A%BE%E6%9C%8D%E5%8A%A1%E4%BA%BA%E5%91%98%23" target="weibo">
 Manner事件 不要为难服务人员（热度：723939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BE%8E%E5%BE%97%E5%8A%88%E5%A4%B4%E7%9B%96%E8%84%B8%E7%9A%84%23" target="weibo">
-刘亦菲美得劈头盖脸的（热度：723026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%8F%91%E9%BB%91%E6%9C%89%E8%A1%80%E5%9D%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23" target="weibo">
-月经发黑有血块是怎么回事（热度：722706）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-高考准考证别发朋友圈（热度：722240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E4%B8%8B%E9%9B%A8%23" target="weibo">
-高考 下雨（热度：722184）
 </a>
 </li>
 

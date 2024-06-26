@@ -1,0 +1,410 @@
+{
+  "runTime": 1719364850985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1304887,
+        "num": 1304887,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989828,
+        "num": 989828,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32473,
+        "num": 795838,
+        "word": "嫦娥六号返回器安全着陆",
+        "onboard_time": 1719320658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787612,
+        "num": 787612,
+        "word": "清华大学 林更新转场",
+        "onboard_time": 1719363439,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731266,
+        "num": 731266,
+        "word": "朱炳仁孙子高考700分目标北大",
+        "onboard_time": 1719359778,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 494736,
+        "num": 494736,
+        "word": "小罐茶创始人道歉",
+        "onboard_time": 1719356594,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511931,
+        "num": 485160,
+        "word": "刘亦菲回复林一",
+        "onboard_time": 1719330677,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499299,
+        "num": 477576,
+        "word": "何炅谢娜李维嘉合体了",
+        "onboard_time": 1719357075,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465435,
+        "num": 465435,
+        "word": "我考了696分我同桌考了703分",
+        "onboard_time": 1719319759,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29382,
+        "num": 406073,
+        "word": "保安连续1个月背骨折学生上5楼",
+        "onboard_time": 1719364158,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 397510,
+        "num": 397510,
+        "word": "长相思2预告角色时长占比",
+        "onboard_time": 1719363558,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388597,
+        "num": 388597,
+        "word": "男生查分后默默去做饭妈妈秒懂",
+        "onboard_time": 1719317478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361516,
+        "num": 361516,
+        "word": "第一次知道这么吵的虫子长啥样",
+        "onboard_time": 1719357495,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 327781,
+        "num": 327781,
+        "word": "肖战在前面唱 那英在后面笑",
+        "onboard_time": 1719357375,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297150,
+        "num": 297150,
+        "word": "度华年开播",
+        "onboard_time": 1719361999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283352,
+        "num": 283352,
+        "word": "C罗水捐赠物资驰援梅州",
+        "onboard_time": 1719359598,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271929,
+        "num": 271929,
+        "word": "双胞胎出生差2分高考也差2分",
+        "onboard_time": 1719356594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257327,
+        "num": 257327,
+        "word": "网红博主爬泰山说5元1瓶水真不贵",
+        "onboard_time": 1719360437,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246200,
+        "num": 246200,
+        "word": "易烊千玺相关公司接手文创企业",
+        "onboard_time": 1719362357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209320,
+        "num": 209320,
+        "word": "欧洲杯造死亡半区",
+        "onboard_time": 1719359117,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655016,
+        "num": 208543,
+        "word": "原来微信可以自动定位未读消息",
+        "onboard_time": 1719358216,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 528566,
+        "num": 207347,
+        "word": "优酷被吐槽吃相难看",
+        "onboard_time": 1719357916,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454757,
+        "num": 205813,
+        "word": "存钱很厉害的人都有一个共性",
+        "onboard_time": 1719362238,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355102,
+        "num": 204812,
+        "word": "希腊开始施行一周工作6天",
+        "onboard_time": 1719360979,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303015,
+        "num": 202721,
+        "word": "男子寻求刺激多次给女友下迷药被抓",
+        "onboard_time": 1719357136,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214589,
+        "num": 202388,
+        "word": "林一晒与刘亦菲合照",
+        "onboard_time": 1719325580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201175,
+        "num": 201175,
+        "word": "金靖刘胜瑛真的一起怀孕",
+        "onboard_time": 1719323240,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195856,
+        "num": 195856,
+        "word": "原来猫真的能看得懂猫和老鼠",
+        "onboard_time": 1719363077,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194205,
+        "num": 194205,
+        "word": "这种主食比脂肪伤害更大",
+        "onboard_time": 1719363139,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165807,
+        "num": 165807,
+        "word": "成都地铁诬陷偷拍案被拍成电视剧",
+        "onboard_time": 1719357916,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164463,
+        "num": 164463,
+        "word": "重庆永川要建西部科技影视城",
+        "onboard_time": 1719363737,
+        "rank": 30,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 163087,
+        "num": 163087,
+        "word": "林一 北京不能没有你在",
+        "onboard_time": 1719364398,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155575,
+        "num": 155575,
+        "word": "为编制放弃高薪工作开始异地夫妻生活",
+        "onboard_time": 1719356413,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154685,
+        "num": 154685,
+        "word": "裘德 歌手",
+        "onboard_time": 1719324439,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151673,
+        "num": 151673,
+        "word": "车门没锁女子打电话提醒结果亮了",
+        "onboard_time": 1719362238,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150269,
+        "num": 150269,
+        "word": "痞幼巴黎时装周vlog",
+        "onboard_time": 1719361698,
+        "rank": 35,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 148871,
+        "num": 148871,
+        "word": "离职后公司帮我多交了两个月的社保",
+        "onboard_time": 1719357015,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143624,
+        "num": 143624,
+        "word": "赵露思旗袍",
+        "onboard_time": 1719322400,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138595,
+        "num": 138595,
+        "word": "不想腹部长赘肉8种食物少吃",
+        "onboard_time": 1719326899,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 136590,
+        "word": "MTJJ 弃养",
+        "onboard_time": 1719319819,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122248,
+        "num": 122248,
+        "word": "一小块月球到达地球",
+        "onboard_time": 1719362299,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120964,
+        "num": 120964,
+        "word": "清华告诉你北京到底有谁在",
+        "onboard_time": 1719328880,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120787,
+        "num": 120787,
+        "word": "晚上睡不着和熬夜的区别有多大",
+        "onboard_time": 1719339252,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120296,
+        "num": 120296,
+        "word": "UP主诽谤陈飞宇为男小三被判道歉",
+        "onboard_time": 1719359657,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118484,
+        "num": 118484,
+        "word": "刘亦菲发文感谢所有人",
+        "onboard_time": 1719317538,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "海南再通报游客称潜水被弃海中事件",
+        "onboard_time": 1719356955,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110710,
+        "num": 110710,
+        "word": "如鸢过审",
+        "onboard_time": 1719363378,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110563,
+        "num": 110563,
+        "word": "玫瑰的故事蛋糕也埋了泪点",
+        "onboard_time": 1719362120,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109804,
+        "num": 109804,
+        "word": "被境外毒枭悬赏人头的缉毒警有话要说",
+        "onboard_time": 1719323660,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "加沙平均每天10名儿童失去腿",
+        "onboard_time": 1719364816,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    }
+  }
+}
