@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719429321992,
+  "endTime": 1719430464708,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -523,12 +523,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 18253,
+      "num": 21594,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17652,
       "num": 235226,
       "word": "高校毕业季就是最好的招生简章",
       "onboard_time": 1719408079,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 13921,
+      "num": 21576,
+      "word": "女生坠井幸亏遇到这群小孩哥",
+      "onboard_time": 1719430452,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12837,
