@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719369908058,
+  "endTime": 1719372137087,
   "band_list": [
     {
       "raw_hot": 1304887,
@@ -9,6 +9,22 @@
       "onboard_time": 1719357975,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1216821,
+      "num": 419777,
+      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+      "onboard_time": 1719369077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1143779,
+      "num": 1143779,
+      "word": "复旦招生宣传黄亦玫严选",
+      "onboard_time": 1719367997,
+      "rank": 5,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 1128936,
@@ -27,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 948040,
-      "num": 948040,
-      "word": "复旦招生宣传黄亦玫严选",
-      "onboard_time": 1719367997,
-      "rank": 5,
-      "category": "教育,作品衍生"
+      "raw_hot": 975712,
+      "num": 975712,
+      "word": "693分女孩还没查分就接到北大电话",
+      "onboard_time": 1719369437,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945613,
@@ -65,6 +81,14 @@
       "onboard_time": 1719317478,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681113,
+      "num": 681113,
+      "word": "乌合麒麟新作美国毒夫",
+      "onboard_time": 1719370398,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 655016,
@@ -123,12 +147,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 523308,
+      "num": 523308,
+      "word": "你的名字重映定档",
+      "onboard_time": 1719370098,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 516619,
       "num": 227391,
       "word": "存钱很厉害的人都有一个共性",
       "onboard_time": 1719362238,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516091,
+      "num": 516091,
+      "word": "不知火舞新皮肤",
+      "onboard_time": 1719369920,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 511931,
@@ -163,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493123,
-      "num": 369875,
-      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
-      "onboard_time": 1719369077,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 470652,
       "num": 470652,
       "word": "iPhone安卓手机可互发5G消息了",
       "onboard_time": 1719364940,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 450015,
+      "num": 450015,
+      "word": "张若昀闷声干大事",
+      "onboard_time": 1719371658,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 449528,
@@ -188,7 +228,7 @@
     },
     {
       "raw_hot": 417997,
-      "num": 227394,
+      "num": 244163,
       "word": "睡前有这5个习惯的人易胖肚子",
       "onboard_time": 1719366797,
       "rank": 20,
@@ -201,6 +241,14 @@
       "onboard_time": 1719324439,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406968,
+      "num": 406968,
+      "word": "苹果取消两倍存储空间限制",
+      "onboard_time": 1719368957,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 397510,
@@ -251,6 +299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 360152,
+      "num": 360152,
+      "word": "白敬亭申请强执黑粉",
+      "onboard_time": 1719370519,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358924,
       "num": 358924,
       "word": "中式茶饮已经是nextlevel了",
@@ -292,7 +348,7 @@
     },
     {
       "raw_hot": 308454,
-      "num": 247365,
+      "num": 251392,
       "word": "谢娜张杰又发糖了",
       "onboard_time": 1719366319,
       "rank": 16,
@@ -355,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282603,
+      "num": 198696,
+      "word": "永劫无间手游定档",
+      "onboard_time": 1719371178,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281825,
       "num": 394151,
       "word": "男子用麻精药品迷奸多名女性被判无期",
@@ -387,12 +451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244296,
+      "num": 244296,
+      "word": "篮网尼克斯交易",
+      "onboard_time": 1719370338,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243325,
+      "num": 243325,
+      "word": "果然外面的母猫不用做什么就赢了",
+      "onboard_time": 1719370698,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243180,
       "num": 226077,
       "word": "那英 我根本记不住歌词",
       "onboard_time": 1719336553,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241589,
+      "num": 241589,
+      "word": "刘青松疑似退役",
+      "onboard_time": 1719371178,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 233445,
@@ -419,20 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225265,
-      "num": 225265,
-      "word": "693分女孩还没查分就接到北大电话",
-      "onboard_time": 1719369437,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219877,
-      "num": 219877,
-      "word": "苹果取消两倍存储空间限制",
-      "onboard_time": 1719368957,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 222086,
+      "num": 375061,
+      "word": "00后挑战三个月打卡22座城市",
+      "onboard_time": 1719369376,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 209320,
@@ -459,12 +539,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 199689,
+      "num": 199689,
+      "word": "各省文旅没场硬转",
+      "onboard_time": 1719370638,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199053,
+      "num": 199053,
+      "word": "欧洲杯 美洲杯",
+      "onboard_time": 1719371720,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197921,
       "num": 197921,
       "word": "塞纳河大肠杆菌仍超标",
       "onboard_time": 1719367878,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "永劫无间联动",
+      "onboard_time": 1719371297,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 195856,
@@ -515,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176605,
+      "num": 165805,
+      "word": "刘亦菲杜海涛斗舞",
+      "onboard_time": 1719371538,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173179,
       "num": 173179,
       "word": "男生高考提高102分含泪跪谢妈妈",
@@ -523,12 +635,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 170896,
+      "num": 170896,
+      "word": "哈工大无需宣传分够了我自然会去",
+      "onboard_time": 1719370038,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168564,
       "num": 168564,
       "word": "荷兰2比3奥地利",
       "onboard_time": 1719357255,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168011,
+      "num": 168011,
+      "word": "一个毕业即就业的专业",
+      "onboard_time": 1719368237,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 165807,
@@ -555,12 +683,36 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 163901,
+      "num": 163901,
+      "word": "智利0比1阿根廷",
+      "onboard_time": 1719371838,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163290,
+      "num": 163290,
+      "word": "父母从未因成绩差批评过我",
+      "onboard_time": 1719370338,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162938,
       "num": 162938,
       "word": "梁永棋抱着喝醉的王星越",
       "onboard_time": 1719342551,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158816,
+      "num": 158816,
+      "word": "原来普通人可能一年也存不到5万",
+      "onboard_time": 1719370818,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 158144,
@@ -577,6 +729,14 @@
       "onboard_time": 1719356413,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156997,
+      "num": 156997,
+      "word": "问界M9上市6个月大定突破10万辆",
+      "onboard_time": 1719370216,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 155983,
@@ -627,6 +787,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 140836,
+      "num": 140836,
+      "word": "朱婷毕业了",
+      "onboard_time": 1719369678,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136895,
       "num": 136895,
       "word": "喜茶新品名小奶栀被指擦边",
@@ -635,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136387,
-      "num": 375061,
-      "word": "00后挑战三个月打卡22座城市",
-      "onboard_time": 1719369376,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 134972,
+      "num": 162477,
+      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+      "onboard_time": 1719371478,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134353,
@@ -657,22 +825,6 @@
       "onboard_time": 1719367336,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133047,
-      "num": 133047,
-      "word": "朱婷毕业了",
-      "onboard_time": 1719369678,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133036,
-      "num": 133036,
-      "word": "一个毕业即就业的专业",
-      "onboard_time": 1719368237,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 130992,
@@ -1019,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63987,
+      "num": 422249,
+      "word": "兽用麻醉剂怎么成了电子烟",
+      "onboard_time": 1719370818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63317,
       "num": 86302,
       "word": "宝石老舅已老实求放过",
@@ -1132,7 +1292,7 @@
     },
     {
       "raw_hot": 24351,
-      "num": 644123,
+      "num": 804038,
       "word": "高质量发展中国行",
       "onboard_time": 1719322939,
       "rank": 2,

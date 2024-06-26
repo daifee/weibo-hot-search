@@ -1,0 +1,410 @@
+{
+  "runTime": 1719372137087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143779,
+        "num": 1143779,
+        "word": "复旦招生宣传黄亦玫严选",
+        "onboard_time": 1719367997,
+        "rank": 0,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 975712,
+        "num": 975712,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16296,
+        "num": 804038,
+        "word": "高质量发展中国行",
+        "onboard_time": 1719322939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681113,
+        "num": 681113,
+        "word": "乌合麒麟新作美国毒夫",
+        "onboard_time": 1719370398,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 553879,
+        "num": 553879,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523308,
+        "num": 523308,
+        "word": "你的名字重映定档",
+        "onboard_time": 1719370098,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516091,
+        "num": 516091,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1719369920,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454545,
+        "num": 454545,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450015,
+        "num": 450015,
+        "word": "张若昀闷声干大事",
+        "onboard_time": 1719371658,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63987,
+        "num": 422249,
+        "word": "兽用麻醉剂怎么成了电子烟",
+        "onboard_time": 1719370818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216821,
+        "num": 419777,
+        "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+        "onboard_time": 1719369077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406968,
+        "num": 406968,
+        "word": "苹果取消两倍存储空间限制",
+        "onboard_time": 1719368957,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389299,
+        "num": 389299,
+        "word": "疯批王姬",
+        "onboard_time": 1719366738,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360152,
+        "num": 360152,
+        "word": "白敬亭申请强执黑粉",
+        "onboard_time": 1719370519,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351327,
+        "num": 351327,
+        "word": "网红博主爬泰山说5元1瓶水真不贵",
+        "onboard_time": 1719360437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319121,
+        "num": 319121,
+        "word": "林一 北京不能没有你在",
+        "onboard_time": 1719364398,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285274,
+        "num": 285274,
+        "word": "渐冻症学生离世大学设同名奖学金",
+        "onboard_time": 1719366918,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278430,
+        "num": 278430,
+        "word": "iPhone安卓手机可互发5G消息了",
+        "onboard_time": 1719364940,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251392,
+        "num": 251392,
+        "word": "谢娜张杰又发糖了",
+        "onboard_time": 1719366319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244296,
+        "num": 244296,
+        "word": "篮网尼克斯交易",
+        "onboard_time": 1719370338,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365597,
+        "num": 244163,
+        "word": "睡前有这5个习惯的人易胖肚子",
+        "onboard_time": 1719366797,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "果然外面的母猫不用做什么就赢了",
+        "onboard_time": 1719370698,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241589,
+        "num": 241589,
+        "word": "刘青松疑似退役",
+        "onboard_time": 1719371178,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236321,
+        "num": 236321,
+        "word": "中式茶饮已经是nextlevel了",
+        "onboard_time": 1719369855,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222086,
+        "num": 222086,
+        "word": "00后挑战三个月打卡22座城市",
+        "onboard_time": 1719369376,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219704,
+        "num": 219704,
+        "word": "清华大学 神转场",
+        "onboard_time": 1719363439,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209559,
+        "num": 209559,
+        "word": "存钱很厉害的人都有一个共性",
+        "onboard_time": 1719362238,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201118,
+        "num": 201118,
+        "word": "原来微信可以自动定位未读消息",
+        "onboard_time": 1719358216,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199689,
+        "num": 199689,
+        "word": "各省文旅没场硬转",
+        "onboard_time": 1719370638,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199053,
+        "num": 199053,
+        "word": "欧洲杯 美洲杯",
+        "onboard_time": 1719371720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282603,
+        "num": 198696,
+        "word": "永劫无间手游定档",
+        "onboard_time": 1719371178,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197832,
+        "num": 197832,
+        "word": "何炅谢娜李维嘉合体了",
+        "onboard_time": 1719357075,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197138,
+        "num": 197138,
+        "word": "永劫无间联动",
+        "onboard_time": 1719371297,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195815,
+        "num": 195815,
+        "word": "刘亦菲回复林一",
+        "onboard_time": 1719330677,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193190,
+        "num": 193190,
+        "word": "优酷被吐槽吃相难看",
+        "onboard_time": 1719357916,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170896,
+        "num": 170896,
+        "word": "哈工大无需宣传分够了我自然会去",
+        "onboard_time": 1719370038,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168011,
+        "num": 168011,
+        "word": "一个毕业即就业的专业",
+        "onboard_time": 1719368237,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167413,
+        "num": 167413,
+        "word": "肖战在前面唱 那英在后面笑",
+        "onboard_time": 1719357375,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176605,
+        "num": 165805,
+        "word": "刘亦菲杜海涛斗舞",
+        "onboard_time": 1719371538,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163901,
+        "num": 163901,
+        "word": "智利0比1阿根廷",
+        "onboard_time": 1719371838,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163290,
+        "num": 163290,
+        "word": "父母从未因成绩差批评过我",
+        "onboard_time": 1719370338,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134972,
+        "num": 162477,
+        "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+        "onboard_time": 1719371478,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162475,
+        "num": 162475,
+        "word": "长相思2预告角色时长占比",
+        "onboard_time": 1719363558,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158816,
+        "num": 158816,
+        "word": "原来普通人可能一年也存不到5万",
+        "onboard_time": 1719370818,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157424,
+        "num": 157424,
+        "word": "男子替换价格标签25元买走2瓶茅台",
+        "onboard_time": 1719368477,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156997,
+        "num": 156997,
+        "word": "问界M9上市6个月大定突破10万辆",
+        "onboard_time": 1719370216,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150252,
+        "num": 150252,
+        "word": "我考了696分我同桌考了703分",
+        "onboard_time": 1719319759,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "客服回应墨雨云间大结局单独收费",
+        "onboard_time": 1719366558,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "度华年开播",
+        "onboard_time": 1719361999,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140836,
+        "num": 140836,
+        "word": "朱婷毕业了",
+        "onboard_time": 1719369678,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
