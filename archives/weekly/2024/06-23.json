@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719416075154,
+  "endTime": 1719419079741,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298078,
+      "num": 1298078,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1288792,
       "num": 1288792,
       "word": "高考弟弟考了588分想复读",
@@ -425,14 +433,6 @@
       "onboard_time": 1719384798,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1246627,
-      "num": 505029,
-      "word": "法老diss",
-      "onboard_time": 1719411859,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 1246215,
@@ -657,6 +657,14 @@
       "onboard_time": 1719192018,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1042876,
+      "num": 429120,
+      "word": "李雪琴高考分数",
+      "onboard_time": 1719414860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1034818,
@@ -2635,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445257,
+      "num": 218164,
+      "word": "秃子",
+      "onboard_time": 1719417797,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445038,
       "num": 445038,
       "word": "湖南卫视直播",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1719240321,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 390950,
+      "num": 143993,
+      "word": "得胃癌之前胃都经历了什么",
+      "onboard_time": 1719416657,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 389975,
@@ -3881,14 +3905,6 @@
       "onboard_time": 1719400938,
       "rank": 20,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 315155,
-      "num": 210539,
-      "word": "李雪琴高考分数",
-      "onboard_time": 1719414860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 315117,
@@ -8907,12 +8923,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 133619,
+      "num": 133619,
+      "word": "何洁尚雯婕合唱想唱就唱",
+      "onboard_time": 1719417918,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133542,
       "num": 133542,
       "word": "南烟斋笔录 额头吻",
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133434,
+      "num": 133434,
+      "word": "陈昊宇郑妮可万妮达袁娅维狂野舞台",
+      "onboard_time": 1719416117,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 133428,
@@ -11011,6 +11043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66007,
+      "num": 126159,
+      "word": "Scout3000杀",
+      "onboard_time": 1719418755,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65952,
       "num": 65952,
       "word": "法国小组第二出线",
@@ -11097,6 +11137,14 @@
       "onboard_time": 1719390437,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 60973,
+      "num": 210355,
+      "word": "医学生高铁上争分夺秒练缝合",
+      "onboard_time": 1719415999,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 60650,
@@ -11235,6 +11283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54767,
+      "num": 221823,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 54374,
       "num": 91850,
       "word": "白晓荷孩子",
@@ -11369,14 +11425,6 @@
       "onboard_time": 1719195977,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47569,
-      "num": 210355,
-      "word": "医学生高铁上争分夺秒练缝合",
-      "onboard_time": 1719415999,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 47425,

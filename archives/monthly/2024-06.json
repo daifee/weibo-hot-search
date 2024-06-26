@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719416075154,
+  "endTime": 1719419079741,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2763,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298078,
+      "num": 1298078,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1294781,
       "num": 1146249,
       "word": "姜萍答数学题 完整复盘",
@@ -3113,14 +3121,6 @@
       "onboard_time": 1718519596,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1246627,
-      "num": 505029,
-      "word": "法老diss",
-      "onboard_time": 1719411859,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 1246215,
@@ -4521,6 +4521,14 @@
       "onboard_time": 1719192018,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1042876,
+      "num": 429120,
+      "word": "李雪琴高考分数",
+      "onboard_time": 1719414860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1042858,
@@ -16747,6 +16755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445257,
+      "num": 218164,
+      "word": "秃子",
+      "onboard_time": 1719417797,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445064,
       "num": 393388,
       "word": "丝芭曾为鞠婧祎定制四部剧",
@@ -19561,6 +19577,14 @@
       "onboard_time": 1717904658,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390950,
+      "num": 143993,
+      "word": "得胃癌之前胃都经历了什么",
+      "onboard_time": 1719416657,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 390846,
@@ -24193,14 +24217,6 @@
       "onboard_time": 1718369721,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 315155,
-      "num": 210539,
-      "word": "李雪琴高考分数",
-      "onboard_time": 1719414860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 315117,
@@ -55571,6 +55587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133619,
+      "num": 133619,
+      "word": "何洁尚雯婕合唱想唱就唱",
+      "onboard_time": 1719417918,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133595,
       "num": 133595,
       "word": "汪苏泷武汉演唱会预告",
@@ -55625,6 +55649,14 @@
       "onboard_time": 1718620336,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133434,
+      "num": 133434,
+      "word": "陈昊宇郑妮可万妮达袁娅维狂野舞台",
+      "onboard_time": 1719416117,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 133428,
@@ -69355,6 +69387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66007,
+      "num": 126159,
+      "word": "Scout3000杀",
+      "onboard_time": 1719418755,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65952,
       "num": 65952,
       "word": "法国小组第二出线",
@@ -70001,6 +70041,14 @@
       "onboard_time": 1717692915,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 60973,
+      "num": 210355,
+      "word": "医学生高铁上争分夺秒练缝合",
+      "onboard_time": 1719415999,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 60934,
@@ -71035,6 +71083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54767,
+      "num": 221823,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 54529,
       "num": 186506,
       "word": "2024高考出分时间",
@@ -72041,14 +72097,6 @@
       "onboard_time": 1717767984,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47569,
-      "num": 210355,
-      "word": "医学生高铁上争分夺秒练缝合",
-      "onboard_time": 1719415999,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 47517,
