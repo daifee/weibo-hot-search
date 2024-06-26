@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719400656576,
+  "endTime": 1719401668102,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -723,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 983784,
+      "num": 983784,
+      "word": "高校食堂筷子事件女生开始带货",
+      "onboard_time": 1719396798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 982074,
       "num": 280983,
       "word": "睡前不刷牙会发生什么",
@@ -779,14 +787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 935386,
-      "num": 935386,
-      "word": "高校食堂筷子事件女生开始带货",
-      "onboard_time": 1719396798,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 934212,
       "num": 934212,
       "word": "女生复读一年高考涨了150分",
@@ -801,6 +801,14 @@
       "onboard_time": 1719098893,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924101,
+      "num": 924101,
+      "word": "北京首套房首付最低20%",
+      "onboard_time": 1719399196,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 922653,
@@ -1571,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626332,
-      "num": 626332,
-      "word": "北京首套房首付最低20%",
-      "onboard_time": 1719399196,
-      "rank": 1,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 624466,
       "num": 624466,
       "word": "十个勤天成立新公司",
@@ -1985,6 +1985,14 @@
       "onboard_time": 1719183734,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525496,
+      "num": 525496,
+      "word": "央美招生宣传黄亦玫首选",
+      "onboard_time": 1719397459,
+      "rank": 25,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 523308,
@@ -2409,14 +2417,6 @@
       "onboard_time": 1719133218,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458234,
-      "num": 458234,
-      "word": "央美招生宣传黄亦玫首选",
-      "onboard_time": 1719397459,
-      "rank": 25,
-      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 456065,
@@ -3187,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362404,
+      "num": 362404,
+      "word": "赵露思韩国购物开箱",
+      "onboard_time": 1719400577,
+      "rank": 21,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 362271,
       "num": 362271,
       "word": "土耳其vs葡萄牙",
@@ -3875,6 +3883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295321,
+      "num": 295321,
+      "word": "差点没认出来倪妮",
+      "onboard_time": 1719399318,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294623,
       "num": 213875,
       "word": "查分后怒发了一个朋友圈",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1719313398,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293895,
+      "num": 293895,
+      "word": "十个勤天小卖铺",
+      "onboard_time": 1719399018,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 292741,
@@ -3929,14 +3953,6 @@
       "onboard_time": 1719377179,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287980,
-      "num": 287980,
-      "word": "十个勤天小卖铺",
-      "onboard_time": 1719399018,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 287705,
@@ -4017,6 +4033,14 @@
       "onboard_time": 1719232039,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281051,
+      "num": 281051,
+      "word": "负重一万斤长大 素媛案",
+      "onboard_time": 1719397939,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 280215,
@@ -4217,14 +4241,6 @@
       "onboard_time": 1719271755,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262154,
-      "num": 262154,
-      "word": "负重一万斤长大 素媛案",
-      "onboard_time": 1719397939,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 261545,
@@ -4627,6 +4643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 233706,
+      "num": 374198,
+      "word": "哪里人不爱出省读大学",
+      "onboard_time": 1719399619,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1719193276,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230552,
+      "num": 230552,
+      "word": "王一珩当上董事长",
+      "onboard_time": 1719397939,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 229480,
@@ -4907,6 +4939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218692,
+      "num": 218692,
+      "word": "毒贩悬赏100万买缉毒犬的命",
+      "onboard_time": 1719395718,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218601,
       "num": 167036,
       "word": "上一次被送到澹州还是范闲",
@@ -4931,14 +4971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217758,
-      "num": 217758,
-      "word": "王一珩当上董事长",
-      "onboard_time": 1719397939,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
@@ -4961,6 +4993,14 @@
       "onboard_time": 1719099193,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216120,
+      "num": 159816,
+      "word": "北京100万房贷30年少还11.25万元",
+      "onboard_time": 1719401057,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215978,
@@ -5395,14 +5435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203163,
-      "num": 203163,
-      "word": "毒贩悬赏100万买缉毒犬的命",
-      "onboard_time": 1719395718,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203146,
       "num": 203146,
       "word": "成龙夸张艺兴全能",
@@ -5481,14 +5513,6 @@
       "onboard_time": 1719326120,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200947,
-      "num": 200947,
-      "word": "差点没认出来倪妮",
-      "onboard_time": 1719399318,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200813,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1719111618,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199089,
+      "num": 199089,
+      "word": "海棠延期",
+      "onboard_time": 1719400938,
+      "rank": 20,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 199078,
@@ -5947,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190846,
+      "num": 190846,
+      "word": "九尾不知火舞花合斗签名",
+      "onboard_time": 1719401118,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190796,
       "num": 190796,
       "word": "嫦娥六号欢迎回家",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1719289701,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187507,
+      "num": 316406,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 187452,
@@ -6289,14 +6337,6 @@
       "onboard_time": 1719066199,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182625,
-      "num": 182625,
-      "word": "赵露思韩国购物开箱",
-      "onboard_time": 1719400577,
-      "rank": 21,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 182535,
@@ -6787,6 +6827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168409,
+      "num": 158645,
+      "word": "久违了无穷小亮的水猴子",
+      "onboard_time": 1719399558,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 168385,
       "num": 168385,
       "word": "嫦娥六号 想念地球的蓝天白云",
@@ -6841,6 +6889,14 @@
       "onboard_time": 1719113177,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167837,
+      "num": 167837,
+      "word": "周也路演哭了",
+      "onboard_time": 1719400519,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 167771,
@@ -7235,14 +7291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159711,
-      "num": 137656,
-      "word": "久违了无穷小亮的水猴子",
-      "onboard_time": 1719399558,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 159232,
       "num": 154067,
       "word": "爷爷去世前的早上还在出海打渔",
@@ -7361,6 +7409,14 @@
       "onboard_time": 1719370216,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156839,
+      "num": 156839,
+      "word": "黄亦玫回应复旦",
+      "onboard_time": 1719401417,
+      "rank": 33,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 156608,
@@ -7713,14 +7769,6 @@
       "onboard_time": 1719397999,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149764,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 149616,
@@ -8107,6 +8155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140337,
+      "num": 140337,
+      "word": "TES定组赛全胜",
+      "onboard_time": 1719401057,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140321,
       "num": 140321,
       "word": "去阿勒泰的人后悔了吗",
@@ -8227,6 +8283,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 137615,
+      "num": 137615,
+      "word": "赵露思到底摸到了什么",
+      "onboard_time": 1719401298,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137559,
       "num": 137559,
       "word": "原来医生眼中的辛辣食物不仅仅是辣椒",
@@ -8289,6 +8353,14 @@
       "onboard_time": 1719122297,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135559,
+      "num": 160149,
+      "word": "中国茶在法国好city啊",
+      "onboard_time": 1719401057,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 135393,
@@ -9115,6 +9187,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 117172,
+      "num": 117172,
+      "word": "猫抓板是可以用完的",
+      "onboard_time": 1719400938,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117127,
       "num": 247801,
       "word": "韩国一电池厂火灾20多人死亡",
@@ -9211,20 +9291,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115057,
-      "num": 374198,
-      "word": "哪里人不爱出省读大学",
-      "onboard_time": 1719399619,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 115001,
       "num": 115865,
       "word": "乐言说JackeyLove是LPL的排面",
       "onboard_time": 1719130336,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114843,
+      "num": 114843,
+      "word": "苏容卿 白月光的杀伤力有多大",
+      "onboard_time": 1719401357,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 114737,
@@ -9321,14 +9401,6 @@
       "onboard_time": 1719329119,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113351,
-      "num": 113351,
-      "word": "周也路演哭了",
-      "onboard_time": 1719400519,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 113219,
@@ -9724,7 +9796,7 @@
     },
     {
       "raw_hot": 102725,
-      "num": 140508,
+      "num": 161576,
       "word": "各地高考分数线已全部公布",
       "onboard_time": 1719398357,
       "rank": 28,
