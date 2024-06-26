@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719411470474,
+  "endTime": 1719412508465,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -9,6 +9,14 @@
       "onboard_time": 1719369437,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1975461,
+      "num": 1975461,
+      "word": "李雪琴同学回应",
+      "onboard_time": 1719410358,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1514724,
@@ -129,14 +137,6 @@
       "onboard_time": 1719357194,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 989066,
-      "num": 567501,
-      "word": "李雪琴同学回应",
-      "onboard_time": 1719410358,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 983784,
@@ -363,20 +363,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 653358,
+      "num": 450553,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644911,
       "num": 644911,
       "word": "95后平均在职仅仅7个月就选择辞职",
       "onboard_time": 1719377419,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641782,
-      "num": 437139,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 640981,
@@ -441,6 +441,14 @@
       "onboard_time": 1719397459,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598071,
+      "num": 257561,
+      "word": "女装退货率高的原因好像找到了",
+      "onboard_time": 1719409879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 595614,
@@ -643,6 +651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459337,
+      "num": 459337,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 450880,
+      "num": 246377,
+      "word": "50块钱在韩国打了瘦脸针",
+      "onboard_time": 1719410358,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 449528,
       "num": 449528,
       "word": "腾讯四连爆",
@@ -657,14 +681,6 @@
       "onboard_time": 1719385578,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443444,
-      "num": 443444,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 441687,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422766,
+      "num": 397239,
+      "word": "偷米diss杨和苏",
+      "onboard_time": 1719409279,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417997,
       "num": 290339,
       "word": "睡前有这5个习惯的人易胖肚子",
@@ -739,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397239,
-      "num": 397239,
-      "word": "偷米diss杨和苏",
-      "onboard_time": 1719409279,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 387467,
       "num": 387467,
       "word": "金靖刘胜瑛真的一起怀孕",
@@ -777,6 +793,14 @@
       "onboard_time": 1719391580,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373076,
+      "num": 243430,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 369660,
@@ -843,14 +867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 358070,
-      "num": 257561,
-      "word": "女装退货率高的原因好像找到了",
-      "onboard_time": 1719409879,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 355102,
       "num": 212819,
       "word": "希腊开始施行一周工作6天",
@@ -913,6 +929,14 @@
       "onboard_time": 1719388757,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320877,
+      "num": 241770,
+      "word": "做票",
+      "onboard_time": 1719411978,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 316519,
@@ -1083,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268574,
-      "num": 181149,
-      "word": "50块钱在韩国打了瘦脸针",
-      "onboard_time": 1719410358,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 258712,
       "num": 258712,
       "word": "杨紫一番女主",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1719378200,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226734,
+      "num": 226734,
+      "word": "王俊凯现身谢霆锋新片首映礼",
+      "onboard_time": 1719412219,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 222086,
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 189948,
-      "num": 179478,
+      "num": 238803,
       "word": "中国象棋第一人王天一被调查",
       "onboard_time": 1719409818,
       "rank": 31,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1719384978,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182238,
+      "num": 182238,
+      "word": "男子高考失利离家出走8年",
+      "onboard_time": 1719412219,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182064,
@@ -2107,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "世预赛18强国足或遭死亡之组",
+      "onboard_time": 1719410779,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147405,
       "num": 147405,
       "word": "八贼发布第二首diss",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1719410839,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143752,
+      "num": 143752,
+      "word": "毒贩在禁毒视频下打广告被抓",
+      "onboard_time": 1719412037,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140836,
@@ -2259,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133481,
-      "num": 133481,
-      "word": "世预赛18强国足或遭死亡之组",
-      "onboard_time": 1719410779,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133428,
       "num": 133428,
       "word": "Mac版ChatGPT开放",
@@ -2353,6 +2393,14 @@
       "onboard_time": 1719376340,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125824,
+      "num": 125824,
+      "word": "智性恋",
+      "onboard_time": 1719411739,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 124578,
@@ -2449,6 +2497,14 @@
       "onboard_time": 1719404957,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118568,
+      "num": 118568,
+      "word": "LNG进入夏季赛登峰组",
+      "onboard_time": 1719411499,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 117172,
@@ -2947,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68495,
+      "num": 249181,
+      "word": "男童坠入极窄深井矮小症村民挺身而出",
+      "onboard_time": 1719412279,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67955,
       "num": 67955,
       "word": "差一分清北的情节在自己身上发生了",
@@ -3017,6 +3081,14 @@
       "onboard_time": 1719331818,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59540,
+      "num": 420025,
+      "word": "81岁父亲临终前一直拉着女儿的手",
+      "onboard_time": 1719410420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58520,
@@ -3105,14 +3177,6 @@
       "onboard_time": 1719364158,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 41999,
-      "num": 420025,
-      "word": "81岁父亲临终前一直拉着女儿的手",
-      "onboard_time": 1719410420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40568,

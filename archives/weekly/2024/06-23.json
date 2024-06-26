@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719411470474,
+  "endTime": 1719412508465,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -97,6 +97,14 @@
       "onboard_time": 1719369437,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1975461,
+      "num": 1975461,
+      "word": "李雪琴同学回应",
+      "onboard_time": 1719410358,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1961268,
@@ -737,14 +745,6 @@
       "onboard_time": 1719285140,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 989066,
-      "num": 567501,
-      "word": "李雪琴同学回应",
-      "onboard_time": 1719410358,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 983784,
@@ -1547,6 +1547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 653358,
+      "num": 450553,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 649610,
       "num": 649610,
       "word": "虞书欣 中餐厅ootd",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1719377419,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641782,
-      "num": 437139,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 640981,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1719279019,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 598071,
+      "num": 257561,
+      "word": "女装退货率高的原因好像找到了",
+      "onboard_time": 1719409879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 590585,
@@ -2515,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459337,
+      "num": 459337,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 458706,
       "num": 458706,
       "word": "王涛自己发吻戏给前夫哥看",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1719146779,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 450880,
+      "num": 246377,
+      "word": "50块钱在韩国打了瘦脸针",
+      "onboard_time": 1719410358,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 449215,
@@ -2617,14 +2641,6 @@
       "onboard_time": 1719385578,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443444,
-      "num": 443444,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 442440,
@@ -2875,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422766,
+      "num": 397239,
+      "word": "偷米diss杨和苏",
+      "onboard_time": 1719409279,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 422262,
       "num": 422262,
       "word": "你比星光美丽定档",
@@ -3099,14 +3123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397239,
-      "num": 397239,
-      "word": "偷米diss杨和苏",
-      "onboard_time": 1719409279,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -3275,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373076,
+      "num": 243430,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 372017,
       "num": 372017,
       "word": "茶百道",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1719369855,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 358070,
-      "num": 257561,
-      "word": "女装退货率高的原因好像找到了",
-      "onboard_time": 1719409879,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 357701,
@@ -3769,6 +3785,14 @@
       "onboard_time": 1719145398,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320877,
+      "num": 241770,
+      "word": "做票",
+      "onboard_time": 1719411978,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 320583,
@@ -4345,14 +4369,6 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 268574,
-      "num": 181149,
-      "word": "50块钱在韩国打了瘦脸针",
-      "onboard_time": 1719410358,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 268022,
@@ -5009,6 +5025,14 @@
       "onboard_time": 1719297739,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226734,
+      "num": 226734,
+      "word": "王俊凯现身谢霆锋新片首映礼",
+      "onboard_time": 1719412219,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 225521,
@@ -6276,7 +6300,7 @@
     },
     {
       "raw_hot": 189948,
-      "num": 179478,
+      "num": 238803,
       "word": "中国象棋第一人王天一被调查",
       "onboard_time": 1719409818,
       "rank": 31,
@@ -6577,6 +6601,14 @@
       "onboard_time": 1719217880,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182238,
+      "num": 182238,
+      "word": "男子高考失利离家出走8年",
+      "onboard_time": 1719412219,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182206,
@@ -8163,6 +8195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "世预赛18强国足或遭死亡之组",
+      "onboard_time": 1719410779,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148017,
       "num": 148017,
       "word": "巴西0比0哥斯达黎加",
@@ -8353,6 +8393,14 @@
       "onboard_time": 1719061158,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143752,
+      "num": 143752,
+      "word": "毒贩在禁毒视频下打广告被抓",
+      "onboard_time": 1719412037,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143457,
@@ -8803,14 +8851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133481,
-      "num": 133481,
-      "word": "世预赛18强国足或遭死亡之组",
-      "onboard_time": 1719410779,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133428,
       "num": 133428,
       "word": "Mac版ChatGPT开放",
@@ -9129,6 +9169,14 @@
       "onboard_time": 1719097692,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125824,
+      "num": 125824,
+      "word": "智性恋",
+      "onboard_time": 1719411739,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 125721,
@@ -9465,6 +9513,14 @@
       "onboard_time": 1719186977,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118568,
+      "num": 118568,
+      "word": "LNG进入夏季赛登峰组",
+      "onboard_time": 1719411499,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 118565,
@@ -10835,6 +10891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68495,
+      "num": 249181,
+      "word": "男童坠入极窄深井矮小症村民挺身而出",
+      "onboard_time": 1719412279,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67987,
       "num": 377481,
       "word": "39岁快递小哥双腿绑10斤沙袋送货",
@@ -11025,6 +11089,14 @@
       "onboard_time": 1719331818,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59540,
+      "num": 420025,
+      "word": "81岁父亲临终前一直拉着女儿的手",
+      "onboard_time": 1719410420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59364,
@@ -11328,14 +11400,6 @@
       "word": "申遗十年看运河",
       "onboard_time": 1719112818,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41999,
-      "num": 420025,
-      "word": "81岁父亲临终前一直拉着女儿的手",
-      "onboard_time": 1719410420,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
