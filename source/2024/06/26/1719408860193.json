@@ -1,0 +1,410 @@
+{
+  "runTime": 1719408860193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178628,
+        "num": 1178628,
+        "word": "李雪琴 游泳",
+        "onboard_time": 1719403277,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723998,
+        "num": 723998,
+        "word": "00后在B站狂补数学",
+        "onboard_time": 1719405497,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 24807,
+        "num": 509418,
+        "word": "宇宙快递开箱了",
+        "onboard_time": 1719408679,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158518,
+        "num": 488567,
+        "word": "终于有24小时录制的综艺了",
+        "onboard_time": 1719404718,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441687,
+        "num": 441687,
+        "word": "美军机在南海盘旋并投放不明物体",
+        "onboard_time": 1719404057,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433545,
+        "num": 433545,
+        "word": "哪里人不爱出省读大学",
+        "onboard_time": 1719399619,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 626028,
+        "num": 433093,
+        "word": "郭碧婷 忘动作",
+        "onboard_time": 1719406098,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580246,
+        "num": 432473,
+        "word": "黄亦玫回应复旦",
+        "onboard_time": 1719401417,
+        "rank": 7,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 431596,
+        "num": 431596,
+        "word": "北京100万房贷30年少还11.25万元",
+        "onboard_time": 1719401057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339970,
+        "num": 339970,
+        "word": "北京首套房首付最低20%",
+        "onboard_time": 1719399196,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 640981,
+        "num": 334104,
+        "word": "父亲上网刷视频得知女儿被霸凌",
+        "onboard_time": 1719404177,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568794,
+        "num": 317048,
+        "word": "刘亦菲回应伊能静",
+        "onboard_time": 1719404418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460946,
+        "num": 298968,
+        "word": "刘忻团票数",
+        "onboard_time": 1719407119,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389404,
+        "num": 290439,
+        "word": "陈昊宇 弹幕",
+        "onboard_time": 1719405798,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14929,
+        "num": 277130,
+        "word": "单霁翔谈传统文化借综艺破圈",
+        "onboard_time": 1719406818,
+        "rank": 14,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 270603,
+        "num": 270603,
+        "word": "女儿不想结婚爸爸舌战亲戚",
+        "onboard_time": 1719397459,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247713,
+        "num": 247713,
+        "word": "四胞胎",
+        "onboard_time": 1719384798,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234320,
+        "num": 234320,
+        "word": "张子宇44分",
+        "onboard_time": 1719407359,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216135,
+        "num": 216135,
+        "word": "乘风Dance直播",
+        "onboard_time": 1719402318,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201179,
+        "num": 216131,
+        "word": "高二女生考入北大遗憾不能上高三",
+        "onboard_time": 1719392117,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 509557,
+        "num": 216002,
+        "word": "高校食堂筷子事件女生开始带货",
+        "onboard_time": 1719396798,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47251,
+        "num": 215863,
+        "word": "高校毕业季就是最好的招生简章",
+        "onboard_time": 1719408079,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328733,
+        "num": 215816,
+        "word": "林一鼻子",
+        "onboard_time": 1719391699,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215772,
+        "num": 215772,
+        "word": "鞠婧祎淡妆黑长直",
+        "onboard_time": 1719408558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212780,
+        "num": 212780,
+        "word": "张杰直播",
+        "onboard_time": 1719404057,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193545,
+        "num": 193545,
+        "word": "第一次看蛋糕这么反胃的",
+        "onboard_time": 1719406699,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176892,
+        "num": 176892,
+        "word": "真的建议报考中国科大",
+        "onboard_time": 1719404837,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 175025,
+        "word": "全国超20座高铁站建成后未运营",
+        "onboard_time": 1719405018,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167689,
+        "num": 167689,
+        "word": "海棠延期",
+        "onboard_time": 1719400938,
+        "rank": 28,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 167664,
+        "num": 167664,
+        "word": "王星越cos林黛玉",
+        "onboard_time": 1719405438,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "宋家三胞胎长这么高了",
+        "onboard_time": 1719397459,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157701,
+        "num": 157701,
+        "word": "度华年开播热度",
+        "onboard_time": 1719404657,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150568,
+        "num": 150568,
+        "word": "齐思钧回归主持浪姐直播",
+        "onboard_time": 1719407179,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150296,
+        "num": 150296,
+        "word": "张凌赫赵今麦cp感",
+        "onboard_time": 1719402318,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143951,
+        "num": 143951,
+        "word": "陈丽君柳岩郭碧婷张予曦国风舞",
+        "onboard_time": 1719408319,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143443,
+        "num": 143443,
+        "word": "苗苗血泪妆",
+        "onboard_time": 1719408619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143265,
+        "num": 143265,
+        "word": "为什么一分钟会变成59秒",
+        "onboard_time": 1719393558,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143146,
+        "num": 143146,
+        "word": "刘亦菲出发参加白玉兰",
+        "onboard_time": 1719404298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142543,
+        "num": 142543,
+        "word": "英国王室73岁公主坠马失忆",
+        "onboard_time": 1719394817,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 124990,
+        "word": "赵露思韩国购物开箱",
+        "onboard_time": 1719400577,
+        "rank": 39,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 117681,
+        "num": 117681,
+        "word": "八贼发布第二首diss",
+        "onboard_time": 1719405858,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113191,
+        "num": 113191,
+        "word": "巴黎奥运会女排小组赛赛程",
+        "onboard_time": 1719404957,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108679,
+        "num": 108679,
+        "word": "一线城市全面松绑楼市调控",
+        "onboard_time": 1719408798,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103736,
+        "num": 103736,
+        "word": "差点没认出来倪妮",
+        "onboard_time": 1719399318,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122265,
+        "num": 103230,
+        "word": "赵露思到底摸到了什么",
+        "onboard_time": 1719401298,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101385,
+        "num": 101385,
+        "word": "檀健次发文官宣演唱会",
+        "onboard_time": 1719392900,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100235,
+        "num": 100235,
+        "word": "北科大招生转场",
+        "onboard_time": 1719406218,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 99254,
+        "num": 99254,
+        "word": "章莹颖",
+        "onboard_time": 1719386597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95264,
+        "num": 95264,
+        "word": "彭冠英装果冻客服售后直播",
+        "onboard_time": 1719403458,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83168,
+        "num": 95052,
+        "word": "久违了无穷小亮的水猴子",
+        "onboard_time": 1719399558,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给景宁畲族自治县各族干部群众回信#"
+    }
+  }
+}
