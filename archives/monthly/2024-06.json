@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719386291768,
+  "endTime": 1719387288862,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -5355,6 +5355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 936132,
+      "num": 451454,
+      "word": "四胞胎",
+      "onboard_time": 1719384798,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 935555,
       "num": 311178,
       "word": "张钰琪 揭榜",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1717248498,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919696,
+      "num": 919696,
+      "word": "武艺听到天天一米九的反应",
+      "onboard_time": 1719381318,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 919562,
@@ -5745,14 +5761,6 @@
       "onboard_time": 1719132737,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 894794,
-      "num": 894794,
-      "word": "武艺听到天天一米九的反应",
-      "onboard_time": 1719381318,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 891895,
@@ -6521,6 +6529,14 @@
       "onboard_time": 1717660638,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819292,
+      "num": 819292,
+      "word": "章莹颖父母现状",
+      "onboard_time": 1719383900,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819003,
@@ -9411,14 +9427,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 662412,
-      "num": 452278,
-      "word": "章莹颖父母现状",
-      "onboard_time": 1719383900,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662117,
       "num": 662117,
       "word": "桂林女店员遇难后有居民提醒关闸",
@@ -11251,6 +11259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 588653,
+      "num": 588653,
+      "word": "中国医科大学多名博士生称拿不到学位",
+      "onboard_time": 1719382579,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588411,
       "num": 588411,
       "word": "新西兰女子携带人类心脏入境澳大利亚",
@@ -11795,14 +11811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 569605,
-      "num": 569605,
-      "word": "中国医科大学多名博士生称拿不到学位",
-      "onboard_time": 1719382579,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569437,
       "num": 317608,
       "word": "王星越切小号",
@@ -11988,7 +11996,7 @@
     },
     {
       "raw_hot": 562112,
-      "num": 230791,
+      "num": 255381,
       "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
       "onboard_time": 1719379218,
       "rank": 31,
@@ -12257,6 +12265,14 @@
       "onboard_time": 1717930158,
       "rank": 7,
       "category": "网红,教育"
+    },
+    {
+      "raw_hot": 552067,
+      "num": 451799,
+      "word": "小S车内伸头看金智媛",
+      "onboard_time": 1719382338,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 551783,
@@ -13411,6 +13427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520062,
+      "num": 520062,
+      "word": "韩雪",
+      "onboard_time": 1719382938,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519854,
       "num": 245154,
       "word": "外国人被中国夜市硬控了",
@@ -13988,7 +14012,7 @@
     },
     {
       "raw_hot": 506455,
-      "num": 230388,
+      "num": 258600,
       "word": "肿瘤科医生劝大家少吃这6种食物",
       "onboard_time": 1719379638,
       "rank": 39,
@@ -14587,14 +14611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491650,
-      "num": 451799,
-      "word": "小S车内伸头看金智媛",
-      "onboard_time": 1719382338,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491573,
       "num": 491573,
       "word": "余承东官宣纯血鸿蒙正式开启beta测试",
@@ -14945,6 +14961,14 @@
       "onboard_time": 1717826718,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479928,
+      "num": 265005,
+      "word": "大腿上长了橘皮纹不是因为胖",
+      "onboard_time": 1719384258,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 479871,
@@ -15683,14 +15707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 462878,
-      "num": 231301,
-      "word": "大腿上长了橘皮纹不是因为胖",
-      "onboard_time": 1719384258,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 462555,
       "num": 462555,
       "word": "谢可寅 我再也不相信你了李斯丹妮",
@@ -15801,14 +15817,6 @@
       "onboard_time": 1717545017,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460060,
-      "num": 451614,
-      "word": "韩雪",
-      "onboard_time": 1719382938,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 459560,
@@ -16145,14 +16153,6 @@
       "onboard_time": 1717750577,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 451454,
-      "num": 451454,
-      "word": "四胞胎",
-      "onboard_time": 1719384798,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 451372,
@@ -20267,6 +20267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 369660,
+      "num": 369660,
+      "word": "罗小黑",
+      "onboard_time": 1718778079,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 369396,
       "num": 369396,
       "word": "张馨予回应勒腰制造焦虑",
@@ -22745,14 +22753,6 @@
       "onboard_time": 1718100618,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331035,
-      "num": 331035,
-      "word": "罗小黑",
-      "onboard_time": 1718778079,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 330974,
@@ -25475,6 +25475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291641,
+      "num": 251334,
+      "word": "丁程鑫 进组",
+      "onboard_time": 1719385758,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291553,
       "num": 265645,
       "word": "新版郭靖是封神杨戬",
@@ -26265,6 +26273,14 @@
       "onboard_time": 1719037757,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 282517,
+      "num": 248510,
+      "word": "魏大勋 臣退下了",
+      "onboard_time": 1719386658,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 282505,
@@ -27515,6 +27531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268557,
+      "num": 268557,
+      "word": "章莹颖",
+      "onboard_time": 1719386597,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268408,
       "num": 268408,
       "word": "创造营亚洲第二季海选路透",
@@ -28612,7 +28636,7 @@
     },
     {
       "raw_hot": 254809,
-      "num": 230320,
+      "num": 247488,
       "word": "王星越13岁就知道有事找谁帮忙",
       "onboard_time": 1719383900,
       "rank": 40,
@@ -30521,6 +30545,14 @@
       "onboard_time": 1717380076,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235854,
+      "num": 235854,
+      "word": "鲁A济南车 鲁B青岛的",
+      "onboard_time": 1719386538,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 235820,
@@ -36307,14 +36339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201387,
-      "num": 201387,
-      "word": "丁程鑫 进组",
-      "onboard_time": 1719385758,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "TCG战胜TTG",
@@ -40643,6 +40667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185718,
+      "num": 185718,
+      "word": "魏大勋石凯加起来有三岁吗",
+      "onboard_time": 1719386237,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185700,
       "num": 174639,
       "word": "ENHYPEN回归",
@@ -43283,6 +43315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174063,
+      "num": 452651,
+      "word": "景区预约制该不该取消",
+      "onboard_time": 1719384258,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 173992,
       "num": 163580,
       "word": "张常宁采访",
@@ -44001,6 +44041,14 @@
       "onboard_time": 1717827198,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170670,
+      "num": 266681,
+      "word": "巴黎奥运中国队8大看点",
+      "onboard_time": 1719385578,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 170646,
@@ -44801,6 +44849,14 @@
       "onboard_time": 1719380898,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167612,
+      "num": 167612,
+      "word": "男子出差半个月家被搬空",
+      "onboard_time": 1719381617,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167603,
@@ -47121,14 +47177,6 @@
       "onboard_time": 1718950037,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159287,
-      "num": 159287,
-      "word": "男子出差半个月家被搬空",
-      "onboard_time": 1719381617,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159266,
@@ -52979,6 +53027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139441,
+      "num": 139441,
+      "word": "伊能静给玫瑰的故事写小作文",
+      "onboard_time": 1719386957,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139422,
       "num": 139422,
       "word": "LCK夏季赛",
@@ -54049,14 +54105,6 @@
       "onboard_time": 1718631258,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135338,
-      "num": 199164,
-      "word": "巴黎奥运中国队8大看点",
-      "onboard_time": 1719385578,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 135250,
@@ -61915,14 +61963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109135,
-      "num": 109135,
-      "word": "魏大勋石凯加起来有三岁吗",
-      "onboard_time": 1719386237,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109128,
       "num": 109128,
       "word": "罗云熙宋轶陈瑶cha",
@@ -62913,14 +62953,6 @@
       "onboard_time": 1717227857,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105371,
-      "num": 452651,
-      "word": "景区预约制该不该取消",
-      "onboard_time": 1719384258,
-      "rank": 9,
-      "category": "社会议题"
     },
     {
       "raw_hot": 105343,
@@ -67147,6 +67179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75055,
+      "num": 121646,
+      "word": "霞光下的老君山如人间仙境",
+      "onboard_time": 1719385457,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 75039,
       "num": 442832,
       "word": "蓝领招聘薪酬比5年前增长超3成",
@@ -67841,6 +67881,14 @@
       "onboard_time": 1717598719,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68227,
+      "num": 327466,
+      "word": "女孩上学坠落下水井路过学生趴地救回",
+      "onboard_time": 1719387019,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 68181,
@@ -73777,6 +73825,14 @@
       "onboard_time": 1718887279,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 211035,
+      "word": "实拍日本年轻人无欲无求的生活",
+      "onboard_time": 1719386777,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27780,

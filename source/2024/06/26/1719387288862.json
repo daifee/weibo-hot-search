@@ -1,0 +1,410 @@
+{
+  "runTime": 1719387288862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919696,
+        "num": 919696,
+        "word": "武艺听到天天一米九的反应",
+        "onboard_time": 1719381318,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819292,
+        "num": 819292,
+        "word": "章莹颖父母现状",
+        "onboard_time": 1719383900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18300,
+        "num": 638587,
+        "word": "高质量发展瞰宁夏",
+        "onboard_time": 1719372919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631797,
+        "num": 631797,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 588653,
+        "num": 588653,
+        "word": "中国医科大学多名博士生称拿不到学位",
+        "onboard_time": 1719382579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565897,
+        "num": 565897,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520062,
+        "num": 520062,
+        "word": "韩雪",
+        "onboard_time": 1719382938,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443490,
+        "num": 443490,
+        "word": "刘浩存MiuMiu",
+        "onboard_time": 1719376100,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407475,
+        "num": 407475,
+        "word": "95后平均在职仅仅7个月就选择辞职",
+        "onboard_time": 1719377419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369660,
+        "num": 369660,
+        "word": "罗小黑",
+        "onboard_time": 1719381920,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 936132,
+        "num": 366181,
+        "word": "四胞胎",
+        "onboard_time": 1719384798,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 552067,
+        "num": 355119,
+        "word": "小S车内伸头看金智媛",
+        "onboard_time": 1719382338,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383889,
+        "num": 337897,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68227,
+        "num": 327466,
+        "word": "女孩上学坠落下水井路过学生趴地救回",
+        "onboard_time": 1719387019,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 369689,
+        "num": 325580,
+        "word": "罗云熙新剧新娘是印小天",
+        "onboard_time": 1719379938,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316522,
+        "num": 316522,
+        "word": "35岁清华毕业生再考清华失败",
+        "onboard_time": 1719378200,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300763,
+        "num": 300763,
+        "word": "刘亦菲接剧水平",
+        "onboard_time": 1719380358,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271131,
+        "num": 271131,
+        "word": "10元手冲咖啡阿姨称月收入几万块",
+        "onboard_time": 1719376160,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 268557,
+        "num": 268557,
+        "word": "章莹颖",
+        "onboard_time": 1719386597,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170670,
+        "num": 266681,
+        "word": "巴黎奥运中国队8大看点",
+        "onboard_time": 1719385578,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479928,
+        "num": 265005,
+        "word": "大腿上长了橘皮纹不是因为胖",
+        "onboard_time": 1719384258,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 70569,
+        "num": 261575,
+        "word": "填志愿听听高校招生办怎么说",
+        "onboard_time": 1719385696,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 353751,
+        "num": 258600,
+        "word": "肿瘤科医生劝大家少吃这6种食物",
+        "onboard_time": 1719379638,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 328597,
+        "num": 255381,
+        "word": "孕妇喝冰箱剩牛奶感染李斯特菌早产",
+        "onboard_time": 1719379218,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291641,
+        "num": 251334,
+        "word": "丁程鑫 进组",
+        "onboard_time": 1719385758,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282517,
+        "num": 248510,
+        "word": "魏大勋 臣退下了",
+        "onboard_time": 1719386658,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247488,
+        "num": 247488,
+        "word": "王星越13岁就知道有事找谁帮忙",
+        "onboard_time": 1719383900,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235854,
+        "num": 235854,
+        "word": "鲁A济南车 鲁B青岛的",
+        "onboard_time": 1719386538,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 229662,
+        "num": 229662,
+        "word": "男生考前右手骨折考了714分",
+        "onboard_time": 1719373038,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27845,
+        "num": 211035,
+        "word": "实拍日本年轻人无欲无求的生活",
+        "onboard_time": 1719386777,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203862,
+        "num": 203862,
+        "word": "女子花8950元买LV拖鞋穿2次掉皮",
+        "onboard_time": 1719384498,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191527,
+        "num": 191527,
+        "word": "歌手官宣谭维维",
+        "onboard_time": 1719376340,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185718,
+        "num": 185718,
+        "word": "魏大勋石凯加起来有三岁吗",
+        "onboard_time": 1719386237,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 175440,
+        "word": "大奉打更人  抬上来",
+        "onboard_time": 1719384978,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174063,
+        "num": 174063,
+        "word": "景区预约制该不该取消",
+        "onboard_time": 1719384258,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 168909,
+        "num": 168909,
+        "word": "沙溢王鹤棣演岳父与女婿",
+        "onboard_time": 1719384737,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167612,
+        "num": 167612,
+        "word": "男子出差半个月家被搬空",
+        "onboard_time": 1719381617,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163486,
+        "num": 163486,
+        "word": "谁家男主吐槽自己死得惨烈啊",
+        "onboard_time": 1719380418,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161127,
+        "num": 161127,
+        "word": "董宇辉说霍启刚家里金牌太多了",
+        "onboard_time": 1719382157,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160028,
+        "num": 160028,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1719369920,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157949,
+        "num": 157949,
+        "word": "文韬何运晨策略查重率100%",
+        "onboard_time": 1719384197,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156305,
+        "num": 156305,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148647,
+        "num": 148647,
+        "word": "ZICO",
+        "onboard_time": 1719373638,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142736,
+        "num": 142736,
+        "word": "度华年",
+        "onboard_time": 1719376579,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139441,
+        "num": 139441,
+        "word": "伊能静给玫瑰的故事写小作文",
+        "onboard_time": 1719386957,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136515,
+        "num": 136515,
+        "word": "具荷拉保险箱盗窃犯高清图",
+        "onboard_time": 1719372919,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123948,
+        "num": 123948,
+        "word": "原来普通人可能一年也存不到5万",
+        "onboard_time": 1719370818,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "女子去埃及旅游出机场崩溃连连",
+        "onboard_time": 1719384017,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121659,
+        "num": 121659,
+        "word": "余秀华买衣服和买药都是在买希望",
+        "onboard_time": 1719386117,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 75055,
+        "num": 121646,
+        "word": "霞光下的老君山如人间仙境",
+        "onboard_time": 1719385457,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
