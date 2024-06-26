@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719427125600,
+  "endTime": 1719429321992,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 29615,
+      "num": 35695,
+      "word": "真心建议晚上考语文",
+      "onboard_time": 1719425293,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 29158,
       "num": 42282,
       "word": "魔兽世界怀旧服回归",
@@ -491,12 +499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26594,
-      "num": 35695,
-      "word": "真心建议晚上考语文",
-      "onboard_time": 1719425293,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 22448,
+      "num": 24570,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1719428172,
+      "rank": 32,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 21947,

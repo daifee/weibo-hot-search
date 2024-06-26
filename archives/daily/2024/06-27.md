@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/27 00:24:39 ~ 2024/06/27 02:38:45
+本榜单时间：2024/06/27 00:24:39 ~ 2024/06/27 03:15:21
 </p>
 </blockquote>
 <p>
@@ -375,14 +375,20 @@ Scout3000杀（热度：66007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
+真心建议晚上考语文（热度：29615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%80%80%E6%97%A7%E6%9C%8D%E5%9B%9E%E5%BD%92%23" target="weibo">
 魔兽世界怀旧服回归（热度：29158）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
-真心建议晚上考语文（热度：26594）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%A4%A7%E7%A7%80%23" target="weibo">
+巴黎世家大秀（热度：22448）
 </a>
 </li>
 
