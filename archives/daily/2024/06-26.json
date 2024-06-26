@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719408860193,
+  "endTime": 1719411470474,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -17,6 +17,14 @@
       "onboard_time": 1719386597,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1504371,
+      "num": 1504371,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1304887,
@@ -65,14 +73,6 @@
       "onboard_time": 1719373218,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1158518,
-      "num": 537244,
-      "word": "终于有24小时录制的综艺了",
-      "onboard_time": 1719404718,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1145416,
@@ -129,6 +129,14 @@
       "onboard_time": 1719357194,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 989066,
+      "num": 567501,
+      "word": "李雪琴同学回应",
+      "onboard_time": 1719410358,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 983784,
@@ -363,8 +371,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641782,
+      "num": 437139,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640981,
-      "num": 406192,
+      "num": 409501,
       "word": "父亲上网刷视频得知女儿被霸凌",
       "onboard_time": 1719404177,
       "rank": 21,
@@ -417,14 +433,6 @@
       "onboard_time": 1719399619,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 600703,
-      "num": 407809,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 599298,
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443444,
+      "num": 443444,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441687,
       "num": 441687,
       "word": "美军机在南海盘旋并投放不明物体",
@@ -673,6 +689,14 @@
       "onboard_time": 1719368957,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 428727,
+      "num": 428727,
+      "word": "张子宇44分",
+      "onboard_time": 1719407359,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 427065,
@@ -713,6 +737,14 @@
       "onboard_time": 1719363558,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397239,
+      "num": 397239,
+      "word": "偷米diss杨和苏",
+      "onboard_time": 1719409279,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 387467,
@@ -787,6 +819,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 360744,
+      "num": 258933,
+      "word": "苗苗血泪妆",
+      "onboard_time": 1719408619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360152,
       "num": 360152,
       "word": "白敬亭申请强执黑粉",
@@ -801,6 +841,14 @@
       "onboard_time": 1719369855,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 358070,
+      "num": 257561,
+      "word": "女装退货率高的原因好像找到了",
+      "onboard_time": 1719409879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 355102,
@@ -825,6 +873,14 @@
       "onboard_time": 1719371178,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 339008,
+      "num": 339008,
+      "word": "中国男篮不敌澳门黑熊",
+      "onboard_time": 1719409458,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 337213,
@@ -1027,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270603,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 268574,
+      "num": 181149,
+      "word": "50块钱在韩国打了瘦脸针",
+      "onboard_time": 1719410358,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 258712,
@@ -1040,6 +1096,14 @@
       "word": "杨紫一番女主",
       "onboard_time": 1719377539,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255962,
+      "num": 255962,
+      "word": "白玉兰",
+      "onboard_time": 1719409039,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1115,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239560,
+      "num": 239560,
+      "word": "第一次看蛋糕这么反胃的",
+      "onboard_time": 1719406699,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235796,
       "num": 235796,
       "word": "魔方新世界",
@@ -1129,14 +1201,6 @@
       "onboard_time": 1719372258,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234320,
-      "num": 234320,
-      "word": "张子宇44分",
-      "onboard_time": 1719407359,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 233445,
@@ -1259,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207984,
+      "num": 207984,
+      "word": "张予曦穿着高跟鞋跳舞",
+      "onboard_time": 1719410478,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207981,
       "num": 189730,
       "word": "迪丽热巴 玛丽猫",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1719363139,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "不吃早餐和不吃晚餐哪个对身体影响大",
+      "onboard_time": 1719409699,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201330,
@@ -1435,14 +1515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193545,
-      "num": 193545,
-      "word": "第一次看蛋糕这么反胃的",
-      "onboard_time": 1719406699,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191511,
       "num": 191511,
       "word": "国台办回应民进党称妈祖是统战工具",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1719401118,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189948,
+      "num": 179478,
+      "word": "中国象棋第一人王天一被调查",
+      "onboard_time": 1719409818,
+      "rank": 31,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 189850,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1719386237,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184312,
+      "num": 373593,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183654,
@@ -1587,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175025,
-      "num": 373593,
-      "word": "全国超20座高铁站建成后未运营",
-      "onboard_time": 1719405018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174659,
       "num": 174659,
       "word": "清华复旦嗑到了",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1719384258,
       "rank": 9,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 174013,
+      "num": 174013,
+      "word": "中医给林一把出滑脉",
+      "onboard_time": 1719409339,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173906,
@@ -1907,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "陈丽君柳岩郭碧婷张予曦国风舞",
+      "onboard_time": 1719408319,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "劳塔罗绝杀",
@@ -2043,20 +2139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143951,
-      "num": 143951,
-      "word": "陈丽君柳岩郭碧婷张予曦国风舞",
-      "onboard_time": 1719408319,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143443,
-      "num": 143443,
-      "word": "苗苗血泪妆",
-      "onboard_time": 1719408619,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 145265,
+      "num": 145265,
+      "word": "张杰吃火锅边吃边开嗓",
+      "onboard_time": 1719410839,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 140836,
@@ -2169,6 +2257,14 @@
       "onboard_time": 1719373880,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133481,
+      "num": 133481,
+      "word": "世预赛18强国足或遭死亡之组",
+      "onboard_time": 1719410779,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 133428,
@@ -2289,6 +2385,14 @@
       "onboard_time": 1719320600,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122259,
+      "num": 122259,
+      "word": "王者新赛季内容抢先看",
+      "onboard_time": 1719411259,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 121886,
@@ -2609,6 +2713,14 @@
       "onboard_time": 1719318559,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95249,
+      "num": 577487,
+      "word": "宇宙快递开箱了",
+      "onboard_time": 1719408679,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93053,
@@ -2995,6 +3107,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 41999,
+      "num": 420025,
+      "word": "81岁父亲临终前一直拉着女儿的手",
+      "onboard_time": 1719410420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40568,
       "num": 390241,
       "word": "大学选专业是凭兴趣还是追热点",
@@ -3081,14 +3201,6 @@
       "onboard_time": 1719338532,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24807,
-      "num": 509418,
-      "word": "宇宙快递开箱了",
-      "onboard_time": 1719408679,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24351,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719408860193,
+  "endTime": 1719411470474,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504371,
+      "num": 1504371,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1483879,
       "num": 986535,
       "word": "李梦 情商",
@@ -473,14 +481,6 @@
       "onboard_time": 1719373218,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1158518,
-      "num": 537244,
-      "word": "终于有24小时录制的综艺了",
-      "onboard_time": 1719404718,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1152737,
@@ -737,6 +737,14 @@
       "onboard_time": 1719285140,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 989066,
+      "num": 567501,
+      "word": "李雪琴同学回应",
+      "onboard_time": 1719410358,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 983784,
@@ -1571,8 +1579,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641782,
+      "num": 437139,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 640981,
-      "num": 406192,
+      "num": 409501,
       "word": "父亲上网刷视频得知女儿被霸凌",
       "onboard_time": 1719404177,
       "rank": 21,
@@ -1728,14 +1744,6 @@
       "word": "吴谨言没想到叼玉佩成名场面",
       "onboard_time": 1719116358,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 600703,
-      "num": 407809,
-      "word": "刘亦菲回应伊能静",
-      "onboard_time": 1719404418,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2611,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443444,
+      "num": 443444,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 442440,
       "num": 442440,
       "word": "新说唱总冠军 隼",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1719368957,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 428727,
+      "num": 428727,
+      "word": "张子宇44分",
+      "onboard_time": 1719407359,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 428235,
@@ -3075,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397239,
+      "num": 397239,
+      "word": "偷米diss杨和苏",
+      "onboard_time": 1719409279,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -3331,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360744,
+      "num": 258933,
+      "word": "苗苗血泪妆",
+      "onboard_time": 1719408619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360309,
       "num": 360309,
       "word": "宝石老舅已老实求放过",
@@ -3377,6 +3417,14 @@
       "onboard_time": 1719369855,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 358070,
+      "num": 257561,
+      "word": "女装退货率高的原因好像找到了",
+      "onboard_time": 1719409879,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 357701,
@@ -3545,6 +3593,14 @@
       "onboard_time": 1719371178,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 339008,
+      "num": 339008,
+      "word": "中国男篮不敌澳门黑熊",
+      "onboard_time": 1719409458,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 337423,
@@ -4267,14 +4323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270603,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270430,
       "num": 270430,
       "word": "外交部回应日本公民在苏州遇袭",
@@ -4297,6 +4345,14 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268574,
+      "num": 181149,
+      "word": "50块钱在韩国打了瘦脸针",
+      "onboard_time": 1719410358,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 268022,
@@ -4432,6 +4488,14 @@
       "word": "李梦说吴谨言是个潮妹",
       "onboard_time": 1719203480,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255962,
+      "num": 255962,
+      "word": "白玉兰",
+      "onboard_time": 1719409039,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -4675,6 +4739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239560,
+      "num": 239560,
+      "word": "第一次看蛋糕这么反胃的",
+      "onboard_time": 1719406699,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
@@ -4753,14 +4825,6 @@
       "onboard_time": 1719311239,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234320,
-      "num": 234320,
-      "word": "张子宇44分",
-      "onboard_time": 1719407359,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 234237,
@@ -5363,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207984,
+      "num": 207984,
+      "word": "张予曦穿着高跟鞋跳舞",
+      "onboard_time": 1719410478,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207981,
       "num": 189730,
       "word": "迪丽热巴 玛丽猫",
@@ -5633,6 +5705,14 @@
       "onboard_time": 1719212718,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "不吃早餐和不吃晚餐哪个对身体影响大",
+      "onboard_time": 1719409699,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201330,
@@ -6051,14 +6131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193545,
-      "num": 193545,
-      "word": "第一次看蛋糕这么反胃的",
-      "onboard_time": 1719406699,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193459,
       "num": 193459,
       "word": "伞兵 嫁妆",
@@ -6201,6 +6273,14 @@
       "onboard_time": 1719235160,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189948,
+      "num": 179478,
+      "word": "中国象棋第一人王天一被调查",
+      "onboard_time": 1719409818,
+      "rank": 31,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 189850,
@@ -6433,6 +6513,14 @@
       "onboard_time": 1719112159,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184312,
+      "num": 373593,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183654,
@@ -6747,14 +6835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175025,
-      "num": 373593,
-      "word": "全国超20座高铁站建成后未运营",
-      "onboard_time": 1719405018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175013,
       "num": 175013,
       "word": "方便面活成了年轻人吃不起的样子",
@@ -6801,6 +6881,14 @@
       "onboard_time": 1719384258,
       "rank": 9,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 174013,
+      "num": 174013,
+      "word": "中医给林一把出滑脉",
+      "onboard_time": 1719409339,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173906,
@@ -7763,6 +7851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "陈丽君柳岩郭碧婷张予曦国风舞",
+      "onboard_time": 1719408319,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "天津一化工厂发生火灾造成7人受伤",
@@ -8187,6 +8283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145265,
+      "num": 145265,
+      "word": "张杰吃火锅边吃边开嗓",
+      "onboard_time": 1719410839,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145066,
       "num": 145066,
       "word": "汪苏泷武汉站",
@@ -8216,14 +8320,6 @@
       "word": "时代少年团将录hi6",
       "onboard_time": 1719308357,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143951,
-      "num": 143951,
-      "word": "陈丽君柳岩郭碧婷张予曦国风舞",
-      "onboard_time": 1719408319,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8265,14 +8361,6 @@
       "onboard_time": 1719315436,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143443,
-      "num": 143443,
-      "word": "苗苗血泪妆",
-      "onboard_time": 1719408619,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 142786,
@@ -8713,6 +8801,14 @@
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133481,
+      "num": 133481,
+      "word": "世预赛18强国足或遭死亡之组",
+      "onboard_time": 1719410779,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 133428,
@@ -9217,6 +9313,14 @@
       "onboard_time": 1719048257,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122259,
+      "num": 122259,
+      "word": "王者新赛季内容抢先看",
+      "onboard_time": 1719411259,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 121886,
@@ -10323,6 +10427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95249,
+      "num": 577487,
+      "word": "宇宙快递开箱了",
+      "onboard_time": 1719408679,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -11219,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41999,
+      "num": 420025,
+      "word": "81岁父亲临终前一直拉着女儿的手",
+      "onboard_time": 1719410420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41617,
       "num": 1278563,
       "word": "铸牢共同体中华一家亲",
@@ -11697,14 +11817,6 @@
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24807,
-      "num": 509418,
-      "word": "宇宙快递开箱了",
-      "onboard_time": 1719408679,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24598,
