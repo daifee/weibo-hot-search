@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719430464708,
+  "endTime": 1719433389475,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35344,
+      "num": 28942,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30207,
       "num": 42276,
       "word": "毕业就是一场巨大的丢money",
@@ -515,20 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21643,
+      "num": 21643,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20343,
       "num": 126576,
       "word": "打卡第八届亚欧博览会",
       "onboard_time": 1719419715,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 18253,
-      "num": 21594,
-      "word": "具荷拉保险柜嫌犯去除反光后的照片",
-      "onboard_time": 1719429850,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 17652,
