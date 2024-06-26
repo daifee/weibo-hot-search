@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719401668102,
+  "endTime": 1719405449545,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -811,6 +811,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 922726,
+      "num": 922726,
+      "word": "张杰直播",
+      "onboard_time": 1719404057,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 922653,
       "num": 922653,
       "word": "山东高考查分",
@@ -825,6 +833,14 @@
       "onboard_time": 1719381318,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 917702,
+      "num": 611380,
+      "word": "李雪琴 游泳",
+      "onboard_time": 1719403277,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 907714,
@@ -1291,6 +1307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 695165,
+      "num": 460440,
+      "word": "黄亦玫回应复旦",
+      "onboard_time": 1719401417,
+      "rank": 33,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 693149,
       "num": 693149,
       "word": "长沙地铁",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1719303079,
       "rank": 41,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 609302,
+      "num": 609302,
+      "word": "哪里人不爱出省读大学",
+      "onboard_time": 1719399619,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 605369,
@@ -2051,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515959,
+      "num": 515959,
+      "word": "北京100万房贷30年少还11.25万元",
+      "onboard_time": 1719401057,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515688,
       "num": 515688,
       "word": "广东分数线",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1719318859,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473937,
+      "num": 324598,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 471420,
@@ -2907,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403775,
+      "num": 403775,
+      "word": "美军机在南海盘旋并投放不明物体",
+      "onboard_time": 1719404057,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 403654,
       "num": 352516,
       "word": "家里出现小霉点身体可能要遭殃",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1719357495,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 361487,
+      "num": 361487,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 361006,
@@ -3675,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316519,
+      "num": 316519,
+      "word": "海棠延期",
+      "onboard_time": 1719400938,
+      "rank": 20,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 315117,
       "num": 230020,
       "word": "刘亦菲机长造型",
@@ -3688,6 +3760,14 @@
       "word": "陈丽君 东风破",
       "onboard_time": 1719138738,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312980,
+      "num": 312980,
+      "word": "乘风Dance直播",
+      "onboard_time": 1719402318,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -4643,14 +4723,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 233706,
-      "num": 374198,
-      "word": "哪里人不爱出省读大学",
-      "onboard_time": 1719399619,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -4665,6 +4737,14 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231749,
+      "num": 231749,
+      "word": "父亲上网刷视频得知女儿被霸凌",
+      "onboard_time": 1719404177,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231640,
@@ -4995,14 +5075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216120,
-      "num": 159816,
-      "word": "北京100万房贷30年少还11.25万元",
-      "onboard_time": 1719401057,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215978,
       "num": 215978,
       "word": "张若昀新片定档",
@@ -5291,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206818,
+      "num": 204339,
+      "word": "赵露思到底摸到了什么",
+      "onboard_time": 1719401298,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206643,
       "num": 206643,
       "word": "林俊杰我的刘海还好吗",
@@ -5321,6 +5401,14 @@
       "onboard_time": 1719227120,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 316406,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 205213,
@@ -5491,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201330,
+      "num": 201330,
+      "word": "张凌赫赵今麦cp感",
+      "onboard_time": 1719402318,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201254,
       "num": 154373,
       "word": "流水迢迢预告",
@@ -5625,14 +5721,6 @@
       "onboard_time": 1719111618,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 199089,
-      "num": 199089,
-      "word": "海棠延期",
-      "onboard_time": 1719400938,
-      "rank": 20,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 199078,
@@ -6131,14 +6219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187507,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187452,
       "num": 187452,
       "word": "福建分数线公布",
@@ -6579,6 +6659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176160,
+      "num": 154167,
+      "word": "彭冠英装果冻客服售后直播",
+      "onboard_time": 1719403458,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175318,
       "num": 175318,
       "word": "ZICO 走路姿势",
@@ -6777,6 +6865,14 @@
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169430,
+      "num": 169430,
+      "word": "刘亦菲出发参加白玉兰",
+      "onboard_time": 1719404298,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 169348,
@@ -7411,14 +7507,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156839,
-      "num": 156839,
-      "word": "黄亦玫回应复旦",
-      "onboard_time": 1719401417,
-      "rank": 33,
-      "category": "剧集,教育"
-    },
-    {
       "raw_hot": 156608,
       "num": 156608,
       "word": "刘亦菲面部平整度",
@@ -7603,6 +7691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153822,
+      "num": 153822,
+      "word": "真的建议报考中国科大",
+      "onboard_time": 1719404837,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153387,
       "num": 443507,
       "word": "除了买菜数学还有什么用",
@@ -7769,6 +7865,14 @@
       "onboard_time": 1719397999,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "一招教你学会做博主",
+      "onboard_time": 1719404177,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 149616,
@@ -8283,14 +8387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 137615,
-      "num": 137615,
-      "word": "赵露思到底摸到了什么",
-      "onboard_time": 1719401298,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 137559,
       "num": 137559,
       "word": "原来医生眼中的辛辣食物不仅仅是辣椒",
@@ -8321,6 +8417,14 @@
       "onboard_time": 1719308177,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "美元兑日元突破160关口",
+      "onboard_time": 1719400877,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 136377,
@@ -8505,6 +8609,14 @@
       "onboard_time": 1719233121,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133320,
+      "num": 133320,
+      "word": "度华年开播热度",
+      "onboard_time": 1719404657,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 132049,
@@ -8819,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125595,
+      "num": 125595,
+      "word": "李宏毅生日直播",
+      "onboard_time": 1719405078,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125546,
       "num": 125546,
       "word": "梁永棋回应演前夫哥",
@@ -8961,6 +9081,14 @@
       "onboard_time": 1719114018,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123224,
+      "num": 123224,
+      "word": "王星越玩手机有点费脑袋",
+      "onboard_time": 1719404777,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 122823,
@@ -9201,6 +9329,14 @@
       "onboard_time": 1719220520,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116866,
+      "num": 116866,
+      "word": "巴黎奥运会运动员食堂",
+      "onboard_time": 1719402557,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 116685,
@@ -9483,6 +9619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 111701,
+      "num": 111701,
+      "word": "巴黎奥运会女排小组赛赛程",
+      "onboard_time": 1719404957,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111682,
       "num": 111682,
       "word": "度华年转场",
@@ -9505,6 +9649,14 @@
       "onboard_time": 1719400338,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111244,
+      "num": 111244,
+      "word": "丞磊把娜扎拍得好美",
+      "onboard_time": 1719402318,
+      "rank": 46,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 111070,
@@ -10635,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57192,
+      "num": 329720,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56694,
       "num": 191833,
       "word": "留置针导管在婴儿血管里漂移5年",
@@ -11587,6 +11747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 16736,
+      "num": 154311,
+      "word": "极越拿下智驾大赛三连冠",
+      "onboard_time": 1719403157,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 15902,
       "num": 51724,
       "word": "直击湖南暴雨现场",
@@ -11753,6 +11921,14 @@
       "onboard_time": 1719300738,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7899,
+      "num": 303244,
+      "word": "刘震云语言大师",
+      "onboard_time": 1719405318,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 7747,

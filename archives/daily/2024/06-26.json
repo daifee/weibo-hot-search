@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719401668102,
+  "endTime": 1719405449545,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -139,12 +139,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 922726,
+      "num": 922726,
+      "word": "张杰直播",
+      "onboard_time": 1719404057,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 919696,
       "num": 919696,
       "word": "武艺听到天天一米九的反应",
       "onboard_time": 1719381318,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 917702,
+      "num": 611380,
+      "word": "李雪琴 游泳",
+      "onboard_time": 1719403277,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 900404,
@@ -259,6 +275,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 695165,
+      "num": 460440,
+      "word": "黄亦玫回应复旦",
+      "onboard_time": 1719401417,
+      "rank": 33,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 687817,
       "num": 687817,
       "word": "罗云熙新剧新娘是印小天",
@@ -353,6 +377,14 @@
       "onboard_time": 1719373638,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609302,
+      "num": 609302,
+      "word": "哪里人不爱出省读大学",
+      "onboard_time": 1719399619,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 599298,
@@ -475,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 515959,
+      "num": 515959,
+      "word": "北京100万房贷30年少还11.25万元",
+      "onboard_time": 1719401057,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511931,
       "num": 495400,
       "word": "刘亦菲回复林一",
@@ -528,6 +568,14 @@
       "word": "伊能静发刘亦菲九宫格",
       "onboard_time": 1719388757,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 473937,
+      "num": 324598,
+      "word": "刘亦菲回应伊能静",
+      "onboard_time": 1719404418,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1719392900,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403775,
+      "num": 403775,
+      "word": "美军机在南海盘旋并投放不明物体",
+      "onboard_time": 1719404057,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 397510,
@@ -683,6 +739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 361487,
+      "num": 361487,
+      "word": "终于有24小时录制的综艺了",
+      "onboard_time": 1719404718,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360152,
       "num": 360152,
       "word": "白敬亭申请强执黑粉",
@@ -753,6 +817,22 @@
       "onboard_time": 1719388757,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316519,
+      "num": 316519,
+      "word": "海棠延期",
+      "onboard_time": 1719400938,
+      "rank": 20,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 312980,
+      "num": 312980,
+      "word": "乘风Dance直播",
+      "onboard_time": 1719402318,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 310471,
@@ -1003,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233706,
-      "num": 374198,
-      "word": "哪里人不爱出省读大学",
-      "onboard_time": 1719399619,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "被境外毒枭悬赏人头的缉毒警有话要说",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1719322400,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231749,
+      "num": 231749,
+      "word": "父亲上网刷视频得知女儿被霸凌",
+      "onboard_time": 1719404177,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230552,
@@ -1073,14 +1153,6 @@
       "onboard_time": 1719393258,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216120,
-      "num": 159816,
-      "word": "北京100万房贷30年少还11.25万元",
-      "onboard_time": 1719401057,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215978,
@@ -1155,6 +1227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206818,
+      "num": 204339,
+      "word": "赵露思到底摸到了什么",
+      "onboard_time": 1719401298,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 316406,
+      "word": "女儿不想结婚爸爸舌战亲戚",
+      "onboard_time": 1719397459,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205034,
       "num": 205034,
       "word": "智利0比1阿根廷",
@@ -1195,6 +1283,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 201330,
+      "num": 201330,
+      "word": "张凌赫赵今麦cp感",
+      "onboard_time": 1719402318,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199741,
       "num": 163718,
       "word": "在漫画里抽卡抽爽了",
@@ -1209,14 +1305,6 @@
       "onboard_time": 1719370638,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199089,
-      "num": 199089,
-      "word": "海棠延期",
-      "onboard_time": 1719400938,
-      "rank": 20,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 199078,
@@ -1339,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187507,
-      "num": 316406,
-      "word": "女儿不想结婚爸爸舌战亲戚",
-      "onboard_time": 1719397459,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "董宇辉说霍启刚家里金牌太多了",
@@ -1419,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176160,
+      "num": 154167,
+      "word": "彭冠英装果冻客服售后直播",
+      "onboard_time": 1719403458,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175318,
       "num": 175318,
       "word": "ZICO 走路姿势",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1719397818,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169430,
+      "num": 169430,
+      "word": "刘亦菲出发参加白玉兰",
+      "onboard_time": 1719404298,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 168564,
@@ -1667,14 +1763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156839,
-      "num": 156839,
-      "word": "黄亦玫回应复旦",
-      "onboard_time": 1719401417,
-      "rank": 33,
-      "category": "剧集,教育"
-    },
-    {
       "raw_hot": 155983,
       "num": 155983,
       "word": "车门没锁女子打电话提醒结果亮了",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1719373759,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153822,
+      "num": 153822,
+      "word": "真的建议报考中国科大",
+      "onboard_time": 1719404837,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 153185,
@@ -1761,6 +1857,14 @@
       "onboard_time": 1719397999,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "一招教你学会做博主",
+      "onboard_time": 1719404177,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 148871,
@@ -1875,20 +1979,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137615,
-      "num": 137615,
-      "word": "赵露思到底摸到了什么",
-      "onboard_time": 1719401298,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 136895,
       "num": 136895,
       "word": "喜茶新品名小奶栀被指擦边",
       "onboard_time": 1719318859,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "美元兑日元突破160关口",
+      "onboard_time": 1719400877,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 136377,
@@ -1953,6 +2057,14 @@
       "onboard_time": 1719367336,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133320,
+      "num": 133320,
+      "word": "度华年开播热度",
+      "onboard_time": 1719404657,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130992,
@@ -2035,6 +2147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125595,
+      "num": 125595,
+      "word": "李宏毅生日直播",
+      "onboard_time": 1719405078,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "余秀华买衣服和买药都是在买希望",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1719388157,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123224,
+      "num": 123224,
+      "word": "王星越玩手机有点费脑袋",
+      "onboard_time": 1719404777,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 122408,
@@ -2115,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116866,
+      "num": 116866,
+      "word": "巴黎奥运会运动员食堂",
+      "onboard_time": 1719402557,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116637,
       "num": 116637,
       "word": "新型二手演唱会门票骗局曝光",
@@ -2171,6 +2307,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 111701,
+      "num": 111701,
+      "word": "巴黎奥运会女排小组赛赛程",
+      "onboard_time": 1719404957,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111682,
       "num": 111682,
       "word": "度华年转场",
@@ -2193,6 +2337,14 @@
       "onboard_time": 1719400338,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111244,
+      "num": 111244,
+      "word": "丞磊把娜扎拍得好美",
+      "onboard_time": 1719402318,
+      "rank": 46,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 110563,
@@ -2611,6 +2763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 57192,
+      "num": 329720,
+      "word": "全国超20座高铁站建成后未运营",
+      "onboard_time": 1719405018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56805,
       "num": 86305,
       "word": "别成为那个不愿被让座的人",
@@ -2795,6 +2955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16736,
+      "num": 154311,
+      "word": "极越拿下智驾大赛三连冠",
+      "onboard_time": 1719403157,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 15680,
       "num": 155166,
       "word": "哪些考生适合报机械专业",
@@ -2857,6 +3025,14 @@
       "onboard_time": 1719339612,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 7899,
+      "num": 303244,
+      "word": "刘震云语言大师",
+      "onboard_time": 1719405318,
+      "rank": 14,
+      "category": "读书作家"
     }
   ],
   "hotgov_list": [
