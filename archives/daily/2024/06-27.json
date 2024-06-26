@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719441333808,
+  "endTime": 1719443997339,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1042876,
-      "num": 429652,
+      "num": 841900,
       "word": "李雪琴高考分数",
       "onboard_time": 1719414860,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 732154,
-      "num": 223178,
+      "num": 237091,
       "word": "李雪琴同学回应",
       "onboard_time": 1719410358,
       "rank": 8,
@@ -33,6 +33,14 @@
       "onboard_time": 1719411978,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519933,
+      "num": 519933,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 514935,
@@ -91,14 +99,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 315341,
-      "num": 315341,
-      "word": "温州女生高考726分称自己不是天赋型",
-      "onboard_time": 1719417857,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 302352,
       "num": 143856,
       "word": "黄亦玫回应复旦",
@@ -113,6 +113,22 @@
       "onboard_time": 1719410358,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 266296,
+      "num": 266296,
+      "word": "魔兽世界开服",
+      "onboard_time": 1719443415,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 263935,
+      "num": 263935,
+      "word": "北京多孩家庭购买第二套房按首套认定",
+      "onboard_time": 1719439212,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253387,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181358,
+      "num": 74737,
+      "word": "葡萄牙爆冷输球",
+      "onboard_time": 1719443654,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180787,
       "num": 143747,
       "word": "陈昊宇 弹幕",
@@ -155,12 +179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179004,
+      "num": 162911,
+      "word": "彭冠英回应和刘亦菲跳舞戏",
+      "onboard_time": 1719441853,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "为什么不建议盲目当老师",
       "onboard_time": 1719413661,
       "rank": 16,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 153277,
+      "num": 153277,
+      "word": "欧洲杯16强出炉",
+      "onboard_time": 1719443716,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 149437,
@@ -243,6 +283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125122,
+      "num": 125122,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120119,
+      "num": 120119,
+      "word": "种菜游戏暴雷涉及资金近3亿元",
+      "onboard_time": 1719423792,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115159,
       "num": 127441,
       "word": "度华年开播热度",
@@ -257,6 +313,14 @@
       "onboard_time": 1719402318,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107789,
+      "num": 74734,
+      "word": "格鲁吉亚晋级欧洲杯16强",
+      "onboard_time": 1719443654,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 99535,
@@ -275,20 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97119,
-      "num": 97119,
-      "word": "种菜游戏暴雷涉及资金近3亿元",
-      "onboard_time": 1719423792,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95308,
-      "num": 95308,
+      "raw_hot": 97078,
+      "num": 97078,
       "word": "魔兽世界怀旧服回归",
       "onboard_time": 1719423252,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94099,
+      "num": 94099,
+      "word": "柴犬为什么要捂着鼻子睡觉",
+      "onboard_time": 1719440532,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 90701,
@@ -308,7 +372,7 @@
     },
     {
       "raw_hot": 89709,
-      "num": 74005,
+      "num": 74880,
       "word": "蔡文静说近半年不想再拍综艺了",
       "onboard_time": 1719420256,
       "rank": 25,
@@ -347,20 +411,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84181,
-      "num": 84181,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83505,
       "num": 126486,
       "word": "广西糖水火了",
       "onboard_time": 1719411499,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80626,
+      "num": 80626,
+      "word": "魔兽世界 服务器",
+      "onboard_time": 1719443716,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 79792,
+      "num": 79792,
+      "word": "玻利维亚发生军事政变",
+      "onboard_time": 1719443654,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 74279,
@@ -475,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47321,
-      "num": 47321,
-      "word": "北京多孩家庭购买第二套房按首套认定",
-      "onboard_time": 1719439212,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 48208,
+      "num": 48208,
+      "word": "乌克兰半场0比0比利时",
+      "onboard_time": 1719443955,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 46183,
@@ -507,12 +579,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30207,
-      "num": 42276,
+      "raw_hot": 38143,
+      "num": 44991,
       "word": "毕业就是一场巨大的丢money",
       "onboard_time": 1719423252,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30808,
+      "num": 300986,
+      "word": "高校毕业季就是最好的招生简章",
+      "onboard_time": 1719408079,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 29615,
@@ -529,22 +609,6 @@
       "onboard_time": 1719436030,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 23866,
-      "num": 25788,
-      "word": "柴犬为什么要捂着鼻子睡觉",
-      "onboard_time": 1719440532,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 23766,
-      "num": 235226,
-      "word": "高校毕业季就是最好的招生简章",
-      "onboard_time": 1719408079,
-      "rank": 2,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 22448,
@@ -564,7 +628,7 @@
     },
     {
       "raw_hot": 20343,
-      "num": 126576,
+      "num": 162993,
       "word": "打卡第八届亚欧博览会",
       "onboard_time": 1719419715,
       "rank": 17,
