@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719434109295,
+  "endTime": 1719436815920,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -443,6 +443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 54787,
+      "num": 38118,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49008,
       "num": 62201,
       "word": "斯洛伐克vs罗马尼亚",
@@ -451,20 +459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46367,
+      "num": 34740,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46183,
       "num": 60065,
       "word": "第一次看蛋糕这么反胃的",
       "onboard_time": 1719406699,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44149,
-      "num": 38118,
-      "word": "具荷拉保险柜嫌犯去除反光后的照片",
-      "onboard_time": 1719429850,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 43506,
@@ -507,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24790,
-      "num": 24790,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22448,
       "num": 24570,
       "word": "巴黎世家大秀",
@@ -547,6 +547,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 15454,
+      "num": 15454,
+      "word": "谁说站在光里的才算是英雄",
+      "onboard_time": 1719435190,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14218,
+      "num": 14960,
+      "word": "荷兰首相吕特被任命为北约秘书长",
+      "onboard_time": 1719436030,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13921,
       "num": 21576,
       "word": "女生坠井幸亏遇到这群小孩哥",
@@ -561,6 +577,14 @@
       "onboard_time": 1719420375,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12579,
+      "num": 14955,
+      "word": "原神4.7版本",
+      "onboard_time": 1719434351,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 8789,
