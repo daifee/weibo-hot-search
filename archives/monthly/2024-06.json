@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719419964646,
+  "endTime": 1719422236305,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -15492,7 +15492,7 @@
     },
     {
       "raw_hot": 475035,
-      "num": 218164,
+      "num": 241542,
       "word": "秃子",
       "onboard_time": 1719417797,
       "rank": 11,
@@ -30009,6 +30009,14 @@
       "onboard_time": 1718951178,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244550,
+      "num": 244550,
+      "word": "温州女生高考726分称自己不是天赋型",
+      "onboard_time": 1719417857,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 244296,
@@ -67163,6 +67171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85008,
+      "num": 74005,
+      "word": "蔡文静说近半年不想再拍综艺了",
+      "onboard_time": 1719420256,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84998,
       "num": 264029,
       "word": "看房后换中介购房算跳单吗",
@@ -68427,14 +68443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74815,
-      "num": 221823,
-      "word": "温州女生高考726分称自己不是天赋型",
-      "onboard_time": 1719417857,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 74733,
       "num": 74733,
       "word": "何洁 垫音",
@@ -69209,6 +69217,22 @@
       "onboard_time": 1718908452,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67688,
+      "num": 67688,
+      "word": "辉子第四",
+      "onboard_time": 1719420015,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67642,
+      "num": 67642,
+      "word": "新海诚为中国观众手写你的名字",
+      "onboard_time": 1719421515,
+      "rank": 32,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 67574,
@@ -70377,6 +70401,14 @@
       "onboard_time": 1719177011,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 59318,
+      "num": 68079,
+      "word": "像你这样的朋友毕业合唱版",
+      "onboard_time": 1719420076,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59266,
@@ -77273,6 +77305,14 @@
       "onboard_time": 1717445589,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12837,
+      "num": 75119,
+      "word": "男子每晚徒步发传单寻狗1个月瘦8斤",
+      "onboard_time": 1719420375,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12799,
