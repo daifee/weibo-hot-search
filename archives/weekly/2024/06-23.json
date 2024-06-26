@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719394500472,
+  "endTime": 1719397204067,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -475,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1145416,
+      "num": 1145416,
+      "word": "高二女生考入北大遗憾不能上高三",
+      "onboard_time": 1719392117,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1143779,
       "num": 1143779,
       "word": "复旦招生宣传黄亦玫严选",
@@ -545,14 +553,6 @@
       "onboard_time": 1719225559,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1103407,
-      "num": 1103407,
-      "word": "高二女生考入北大遗憾不能上高三",
-      "onboard_time": 1719392117,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1096340,
@@ -649,6 +649,14 @@
       "onboard_time": 1719272057,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1025782,
+      "num": 432600,
+      "word": "朴彩英 魔芋爽",
+      "onboard_time": 1719394337,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016677,
@@ -1707,12 +1715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571962,
+      "num": 571962,
+      "word": "为什么一分钟会变成59秒",
+      "onboard_time": 1719393558,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 571909,
       "num": 541057,
       "word": "疯批王姬",
       "onboard_time": 1719366738,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568833,
+      "num": 263977,
+      "word": "英国王室73岁公主坠马失忆",
+      "onboard_time": 1719394817,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565976,
@@ -2627,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427065,
+      "num": 427065,
+      "word": "胡锡进炒股一年赔了7.4万元",
+      "onboard_time": 1719392597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426671,
       "num": 426671,
       "word": "婉宁下线这段真是震撼",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1719318439,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422435,
+      "num": 422435,
+      "word": "十个勤天走秀",
+      "onboard_time": 1719395778,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 422262,
@@ -3363,14 +3403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335949,
-      "num": 335949,
-      "word": "胡锡进炒股一年赔了7.4万元",
-      "onboard_time": 1719392597,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334169,
       "num": 470045,
       "word": "薛其坤想让量子物理把世界变得更美好",
@@ -3491,20 +3523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324462,
+      "num": 244165,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323850,
       "num": 323850,
       "word": "山东高考发布会",
       "onboard_time": 1719301521,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 321988,
-      "num": 244165,
-      "word": "偷偷留学了一年却骗妈妈在上班",
-      "onboard_time": 1719388757,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 321861,
@@ -4691,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225719,
+      "num": 225719,
+      "word": "十个勤天直播",
+      "onboard_time": 1719396259,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225521,
       "num": 293268,
       "word": "要说鉴茶还得看00后",
@@ -4931,6 +4971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213042,
+      "num": 192384,
+      "word": "王星越梁永棋你们有点暧昧了",
+      "onboard_time": 1719395958,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212545,
       "num": 212545,
       "word": "赵兆回应编曲分歧",
@@ -5076,7 +5124,7 @@
     },
     {
       "raw_hot": 207981,
-      "num": 188109,
+      "num": 189730,
       "word": "迪丽热巴 玛丽猫",
       "onboard_time": 1719390917,
       "rank": 40,
@@ -5633,6 +5681,14 @@
       "onboard_time": 1719295218,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195793,
+      "num": 195793,
+      "word": "云南丽江连发3次地震",
+      "onboard_time": 1719394938,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195637,
@@ -6387,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176200,
+      "num": 176200,
+      "word": "青环全员cha小鬼新歌",
+      "onboard_time": 1719396738,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175318,
       "num": 175318,
       "word": "ZICO 走路姿势",
@@ -6537,6 +6601,14 @@
       "onboard_time": 1719149360,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170734,
+      "num": 191130,
+      "word": "武汉大学没场硬转",
+      "onboard_time": 1719395597,
+      "rank": 23,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 170452,
@@ -6899,12 +6971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162762,
+      "num": 162762,
+      "word": "高校食堂筷子事件女生开始带货",
+      "onboard_time": 1719396798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162720,
       "num": 162720,
       "word": "光与夜之恋又被宠了",
       "onboard_time": 1719203601,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162578,
+      "num": 171068,
+      "word": "高校招生版神转场",
+      "onboard_time": 1719396617,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 162358,
@@ -7091,14 +7179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158826,
-      "num": 151354,
-      "word": "朴彩英 魔芋爽",
-      "onboard_time": 1719394337,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "阿尔巴尼亚0比1西班牙",
@@ -7233,6 +7313,14 @@
       "onboard_time": 1719362238,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155848,
+      "num": 155848,
+      "word": "薛之谦加盟第五届TMEA",
+      "onboard_time": 1719396438,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 155715,
@@ -7465,14 +7553,6 @@
       "onboard_time": 1719377719,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150922,
-      "num": 150922,
-      "word": "为什么一分钟会变成59秒",
-      "onboard_time": 1719393558,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 150822,
@@ -7923,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140183,
+      "num": 140183,
+      "word": "周迅Chanel黑色高定",
+      "onboard_time": 1719395898,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139543,
       "num": 139543,
       "word": "赛力斯",
@@ -7977,6 +8065,14 @@
       "onboard_time": 1719216679,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138469,
+      "num": 138469,
+      "word": "买了扫地机器人我妈更累了",
+      "onboard_time": 1719395718,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 138375,
@@ -8955,6 +9051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115368,
+      "num": 115368,
+      "word": "王鹤棣模仿英子开门",
+      "onboard_time": 1719394637,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115163,
       "num": 115163,
       "word": "我国重复使用运载火箭新突破",
@@ -9891,6 +9995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79259,
+      "num": 215153,
+      "word": "高价高考志愿填报服务值得买吗",
+      "onboard_time": 1719396977,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 79065,
       "num": 137169,
       "word": "杜国楹道歉",
@@ -10257,6 +10369,14 @@
       "onboard_time": 1719264371,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58520,
+      "num": 163400,
+      "word": "这一声妈94岁老人苦盼了65年",
+      "onboard_time": 1719395119,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56694,
@@ -11169,6 +11289,14 @@
       "onboard_time": 1719213919,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17525,
+      "num": 244647,
+      "word": "马伯庸从人性开始去写作",
+      "onboard_time": 1719396018,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 17174,
