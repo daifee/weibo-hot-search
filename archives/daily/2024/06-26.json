@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719415310026,
+  "endTime": 1719416075154,
   "band_list": [
     {
       "raw_hot": 2050432,
@@ -49,6 +49,14 @@
       "onboard_time": 1719384798,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1246627,
+      "num": 505029,
+      "word": "法老diss",
+      "onboard_time": 1719411859,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1241390,
@@ -113,14 +121,6 @@
       "onboard_time": 1719363439,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1125869,
-      "num": 297483,
-      "word": "法老diss",
-      "onboard_time": 1719411859,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 1111629,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 598071,
-      "num": 257561,
+      "num": 408171,
       "word": "女装退货率高的原因好像找到了",
       "onboard_time": 1719409879,
       "rank": 21,
@@ -875,6 +875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 357228,
+      "num": 357228,
+      "word": "毒贩在禁毒视频下打广告被抓",
+      "onboard_time": 1719412037,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355102,
       "num": 212819,
       "word": "希腊开始施行一周工作6天",
@@ -923,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329943,
+      "num": 329943,
+      "word": "男子高考失利离家出走8年",
+      "onboard_time": 1719412219,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327781,
       "num": 327781,
       "word": "肖战在前面唱 那英在后面笑",
@@ -945,6 +961,14 @@
       "onboard_time": 1719400938,
       "rank": 20,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 315155,
+      "num": 210539,
+      "word": "李雪琴高考分数",
+      "onboard_time": 1719414860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 312980,
@@ -995,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 302222,
-      "num": 302222,
-      "word": "毒贩在禁毒视频下打广告被抓",
-      "onboard_time": 1719412037,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299790,
       "num": 299790,
       "word": "江西卫视发了王一博哭戏",
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 295400,
-      "num": 207165,
+      "num": 210462,
       "word": "何洁 梦回超女",
       "onboard_time": 1719413001,
       "rank": 22,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1719399018,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291788,
-      "num": 291788,
-      "word": "男子高考失利离家出走8年",
-      "onboard_time": 1719412219,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289543,
@@ -1259,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230984,
+      "num": 230984,
+      "word": "城管局回应环卫工坐下休息被领导骂哭",
+      "onboard_time": 1719414439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230552,
       "num": 230552,
       "word": "王一珩当上董事长",
@@ -1363,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210342,
+      "num": 210342,
+      "word": "宇露君沾",
+      "onboard_time": 1719414499,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209779,
       "num": 209779,
       "word": "相柳只剩六个脑袋了",
@@ -1427,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206709,
-      "num": 206709,
-      "word": "宇露君沾",
-      "onboard_time": 1719414499,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205034,
       "num": 205034,
       "word": "智利0比1阿根廷",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1719384498,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203896,
-      "num": 203896,
-      "word": "李雪琴高考分数",
-      "onboard_time": 1719414860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 202774,
@@ -1603,14 +1611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190388,
-      "num": 208417,
-      "word": "城管局回应环卫工坐下休息被领导骂哭",
-      "onboard_time": 1719414439,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189850,
       "num": 189850,
       "word": "巴黎奥运会各国制服",
@@ -1707,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178599,
+      "num": 178599,
+      "word": "为什么不建议盲目当老师",
+      "onboard_time": 1719413661,
+      "rank": 28,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 178515,
       "num": 178515,
       "word": "舒淇成为奥斯卡评委",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1719403458,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175688,
-      "num": 175688,
-      "word": "为什么不建议盲目当老师",
-      "onboard_time": 1719413661,
-      "rank": 28,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 175318,
@@ -2043,8 +2043,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156172,
-      "num": 156172,
+      "raw_hot": 156744,
+      "num": 156744,
       "word": "福登暂时离开国家队",
       "onboard_time": 1719414379,
       "rank": 33,
@@ -2113,6 +2113,14 @@
       "onboard_time": 1719388638,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152328,
+      "num": 152328,
+      "word": "广西糖水火了",
+      "onboard_time": 1719411499,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 151931,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1719410839,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143623,
-      "num": 143623,
-      "word": "广西糖水火了",
-      "onboard_time": 1719411499,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 140836,
@@ -3219,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47569,
+      "num": 210355,
+      "word": "医学生高铁上争分夺秒练缝合",
+      "onboard_time": 1719415999,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47251,
       "num": 215863,
       "word": "高校毕业季就是最好的招生简章",
@@ -3251,20 +3259,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39590,
+      "num": 288102,
+      "word": "长沙民警在齐腰积水中救人",
+      "onboard_time": 1719414140,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 39265,
       "num": 398154,
       "word": "厦大教授谈新传专业遇冷",
       "onboard_time": 1719388818,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 38006,
-      "num": 288102,
-      "word": "长沙民警在齐腰积水中救人",
-      "onboard_time": 1719414140,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 35934,
@@ -3411,6 +3419,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 13809,
+      "num": 116618,
+      "word": "安踏官方回复安灵龙",
+      "onboard_time": 1719415159,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12961,
       "num": 31853,
       "word": "发条微博缅怀邓稼先",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1719339612,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 8021,
-      "num": 104223,
-      "word": "安踏官方回复安灵龙",
-      "onboard_time": 1719415159,
-      "rank": 48,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
