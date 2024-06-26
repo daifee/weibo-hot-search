@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719433389475,
+  "endTime": 1719434109295,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -72547,6 +72547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44149,
+      "num": 38118,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44085,
       "num": 44085,
       "word": "FPX更换首发上单",
@@ -74025,14 +74033,6 @@
       "onboard_time": 1718500996,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35344,
-      "num": 28942,
-      "word": "具荷拉保险柜嫌犯去除反光后的照片",
-      "onboard_time": 1719429850,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 35286,
@@ -75763,6 +75763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 24790,
+      "num": 24790,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24598,
       "num": 209196,
       "word": "韩国男子在无人店假结账被抓",
@@ -76177,14 +76185,6 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21643,
-      "num": 21643,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 21593,

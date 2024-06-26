@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719433389475,
+  "endTime": 1719434109295,
   "band_list": [
     {
       "raw_hot": 1298078,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44149,
+      "num": 38118,
+      "word": "具荷拉保险柜嫌犯去除反光后的照片",
+      "onboard_time": 1719429850,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43506,
       "num": 43506,
       "word": "乘风Dance直播节目单",
@@ -473,14 +481,6 @@
       "onboard_time": 1719408679,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35344,
-      "num": 28942,
-      "word": "具荷拉保险柜嫌犯去除反光后的照片",
-      "onboard_time": 1719429850,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 30207,
@@ -507,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24790,
+      "num": 24790,
+      "word": "查完分出门被爸爸误以为想不开",
+      "onboard_time": 1719430750,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22448,
       "num": 24570,
       "word": "巴黎世家大秀",
@@ -521,14 +529,6 @@
       "onboard_time": 1719426732,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21643,
-      "num": 21643,
-      "word": "查完分出门被爸爸误以为想不开",
-      "onboard_time": 1719430750,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 20343,
