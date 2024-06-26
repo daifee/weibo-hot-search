@@ -1,0 +1,410 @@
+{
+  "runTime": 1719398210745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 971217,
+        "num": 971217,
+        "word": "高二女生考入北大遗憾不能上高三",
+        "onboard_time": 1719392117,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 637548,
+        "num": 637548,
+        "word": "十个勤天走秀",
+        "onboard_time": 1719395778,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50921,
+        "num": 621480,
+        "word": "高考志愿填报前这些信息要了解",
+        "onboard_time": 1719390437,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 938466,
+        "num": 620905,
+        "word": "朴彩英 魔芋爽",
+        "onboard_time": 1719394337,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618817,
+        "num": 618817,
+        "word": "为什么一分钟会变成59秒",
+        "onboard_time": 1719393558,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 346243,
+        "num": 346243,
+        "word": "喜茶门店称小奶栀名字是公司定的",
+        "onboard_time": 1719388878,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 909001,
+        "num": 340884,
+        "word": "林一鼻子",
+        "onboard_time": 1719391699,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433432,
+        "num": 329829,
+        "word": "十个勤天直播",
+        "onboard_time": 1719396259,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317587,
+        "num": 317587,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100797,
+        "num": 316406,
+        "word": "女儿不想结婚爸爸舌战亲戚",
+        "onboard_time": 1719397459,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 658279,
+        "num": 316132,
+        "word": "英国王室73岁公主坠马失忆",
+        "onboard_time": 1719394817,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627231,
+        "num": 313611,
+        "word": "章莹颖",
+        "onboard_time": 1719386597,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530863,
+        "num": 313464,
+        "word": "四胞胎",
+        "onboard_time": 1719384798,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 461089,
+        "num": 311846,
+        "word": "高校食堂筷子事件女生开始带货",
+        "onboard_time": 1719396798,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23128,
+        "num": 310114,
+        "word": "马伯庸从人性开始去写作",
+        "onboard_time": 1719396018,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 378621,
+        "num": 309414,
+        "word": "宋家三胞胎长这么高了",
+        "onboard_time": 1719397459,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317949,
+        "num": 307674,
+        "word": "檀健次发文官宣演唱会",
+        "onboard_time": 1719392900,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306923,
+        "num": 306923,
+        "word": "十个勤天成立新公司",
+        "onboard_time": 1719389658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242570,
+        "num": 242570,
+        "word": "不知火舞花合斗爆料",
+        "onboard_time": 1719397338,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232193,
+        "num": 232193,
+        "word": "洪知秀将在联合国发表演讲",
+        "onboard_time": 1719390498,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289280,
+        "num": 226724,
+        "word": "偷偷留学了一年却骗妈妈在上班",
+        "onboard_time": 1719388757,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214381,
+        "num": 214381,
+        "word": "肿瘤科医生劝大家少吃这6种食物",
+        "onboard_time": 1719379638,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197594,
+        "num": 197594,
+        "word": "王星越梁永棋你们有点暧昧了",
+        "onboard_time": 1719395958,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196354,
+        "num": 196354,
+        "word": "王一珩当上董事长",
+        "onboard_time": 1719397939,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173731,
+        "num": 173731,
+        "word": "猎罪图鉴2杀青",
+        "onboard_time": 1719391580,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172193,
+        "num": 172193,
+        "word": "央美招生宣传黄亦玫首选",
+        "onboard_time": 1719397459,
+        "rank": 25,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 164861,
+        "num": 164861,
+        "word": "伊能静发刘亦菲九宫格",
+        "onboard_time": 1719388757,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160826,
+        "num": 160826,
+        "word": "大腿上长了橘皮纹不是因为胖",
+        "onboard_time": 1719384258,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 156515,
+        "num": 156515,
+        "word": "新一批复制人已入百万",
+        "onboard_time": 1719387978,
+        "rank": 28,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 99130,
+        "num": 151923,
+        "word": "巴黎奥运中国队8大看点",
+        "onboard_time": 1719385578,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 150018,
+        "word": "北京优化房地产政策",
+        "onboard_time": 1719397999,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147732,
+        "num": 147732,
+        "word": "武汉大学没场硬转",
+        "onboard_time": 1719395597,
+        "rank": 31,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 146885,
+        "num": 146885,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140474,
+        "num": 140474,
+        "word": "迪丽热巴 玛丽猫",
+        "onboard_time": 1719390917,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140344,
+        "num": 140344,
+        "word": "云南丽江连发3次地震",
+        "onboard_time": 1719394938,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139081,
+        "num": 139081,
+        "word": "毒贩悬赏100万买缉毒犬的命",
+        "onboard_time": 1719395718,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137166,
+        "num": 137166,
+        "word": "山大建议排名前15000名山东考生可冲",
+        "onboard_time": 1719397818,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134652,
+        "num": 134652,
+        "word": "Meiko9000助攻",
+        "onboard_time": 1719397699,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "买了扫地机器人我妈更累了",
+        "onboard_time": 1719395718,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 129665,
+        "word": "长相思2预约人数破700万",
+        "onboard_time": 1719393258,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127867,
+        "num": 127867,
+        "word": "负重一万斤长大 素媛案",
+        "onboard_time": 1719397939,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369436,
+        "num": 127636,
+        "word": "胡锡进炒股一年赔了7.4万元",
+        "onboard_time": 1719392597,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126785,
+        "num": 126785,
+        "word": "周迅Chanel黑色高定",
+        "onboard_time": 1719395898,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "青环全员cha小鬼新歌",
+        "onboard_time": 1719396738,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121021,
+        "num": 121021,
+        "word": "罗小黑",
+        "onboard_time": 1719381920,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120905,
+        "num": 120905,
+        "word": "度华年",
+        "onboard_time": 1719376579,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114393,
+        "num": 114393,
+        "word": "魏大勋 臣退下了",
+        "onboard_time": 1719386658,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112962,
+        "num": 112962,
+        "word": "薛之谦加盟第五届TMEA",
+        "onboard_time": 1719396438,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110197,
+        "num": 110197,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101501,
+        "num": 101501,
+        "word": "张若昀庆功宴造型",
+        "onboard_time": 1719398178,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样谈科学家精神#"
+    }
+  }
+}
