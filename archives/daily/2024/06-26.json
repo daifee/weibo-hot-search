@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719372137087,
+  "endTime": 1719373051889,
   "band_list": [
     {
       "raw_hot": 1304887,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1216821,
-      "num": 419777,
+      "raw_hot": 1234384,
+      "num": 446432,
       "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
       "onboard_time": 1719369077,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1198792,
+      "num": 1198792,
+      "word": "693分女孩还没查分就接到北大电话",
+      "onboard_time": 1719369437,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 975712,
-      "num": 975712,
-      "word": "693分女孩还没查分就接到北大电话",
-      "onboard_time": 1719369437,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 945613,
       "num": 393547,
       "word": "一个姐姐离婚时发的朋友圈",
@@ -65,6 +65,14 @@
       "onboard_time": 1719325580,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761382,
+      "num": 761382,
+      "word": "张若昀闷声干大事",
+      "onboard_time": 1719371658,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 731266,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544306,
+      "num": 544306,
+      "word": "不知火舞新皮肤",
+      "onboard_time": 1719369920,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 528566,
       "num": 226615,
       "word": "优酷被吐槽吃相难看",
@@ -163,20 +179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516091,
-      "num": 516091,
-      "word": "不知火舞新皮肤",
-      "onboard_time": 1719369920,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 511931,
       "num": 495400,
       "word": "刘亦菲回复林一",
       "onboard_time": 1719330677,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504543,
+      "num": 504543,
+      "word": "具荷拉保险箱盗窃犯高清图",
+      "onboard_time": 1719372919,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 504053,
@@ -211,14 +227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 450015,
-      "num": 450015,
-      "word": "张若昀闷声干大事",
-      "onboard_time": 1719371658,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 449528,
       "num": 449528,
       "word": "腾讯四连爆",
@@ -227,8 +235,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430157,
+      "num": 430157,
+      "word": "苹果取消两倍存储空间限制",
+      "onboard_time": 1719368957,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 417997,
-      "num": 244163,
+      "num": 285665,
       "word": "睡前有这5个习惯的人易胖肚子",
       "onboard_time": 1719366797,
       "rank": 20,
@@ -241,14 +257,6 @@
       "onboard_time": 1719324439,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406968,
-      "num": 406968,
-      "word": "苹果取消两倍存储空间限制",
-      "onboard_time": 1719368957,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 397510,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 377741,
-      "num": 377741,
+      "num": 447119,
       "word": "渐冻症学生离世大学设同名奖学金",
       "onboard_time": 1719366918,
       "rank": 10,
@@ -331,12 +339,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 329367,
+      "num": 329367,
+      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+      "onboard_time": 1719371478,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 327781,
       "num": 327781,
       "word": "肖战在前面唱 那英在后面笑",
       "onboard_time": 1719357375,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325480,
+      "num": 325480,
+      "word": "刘青松疑似退役",
+      "onboard_time": 1719371178,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 310471,
@@ -387,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295518,
+      "num": 295518,
+      "word": "永劫无间手游定档",
+      "onboard_time": 1719371178,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285660,
       "num": 285660,
       "word": "MTJJ 弃养",
@@ -409,14 +441,6 @@
       "onboard_time": 1719359598,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282603,
-      "num": 198696,
-      "word": "永劫无间手游定档",
-      "onboard_time": 1719371178,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 281825,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241589,
-      "num": 241589,
-      "word": "刘青松疑似退役",
-      "onboard_time": 1719371178,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "被境外毒枭悬赏人头的缉毒警有话要说",
@@ -523,12 +539,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207526,
+      "num": 207526,
+      "word": "刘亦菲杜海涛斗舞",
+      "onboard_time": 1719371538,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207093,
       "num": 207093,
       "word": "喜茶 小奶栀",
       "onboard_time": 1719321079,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205034,
+      "num": 205034,
+      "word": "智利0比1阿根廷",
+      "onboard_time": 1719371838,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "永劫无间联动",
+      "onboard_time": 1719371297,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 202631,
@@ -563,20 +603,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197138,
-      "num": 197138,
-      "word": "永劫无间联动",
-      "onboard_time": 1719371297,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195856,
       "num": 195856,
       "word": "原来猫真的能看得懂猫和老鼠",
       "onboard_time": 1719363077,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194871,
+      "num": 194871,
+      "word": "建议大家检查下紧急联系人",
+      "onboard_time": 1719372979,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190284,
+      "num": 190284,
+      "word": "哈工大无需宣传分够了我自然会去",
+      "onboard_time": 1719370038,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 189425,
@@ -587,12 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188528,
+      "num": 188528,
+      "word": "北京摇号",
+      "onboard_time": 1719372258,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187762,
       "num": 187762,
       "word": "古天乐回应被追债830万港元",
       "onboard_time": 1719366677,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182064,
+      "num": 182064,
+      "word": "一个毕业即就业的专业",
+      "onboard_time": 1719368237,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 181419,
@@ -619,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176605,
-      "num": 165805,
-      "word": "刘亦菲杜海涛斗舞",
-      "onboard_time": 1719371538,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173179,
       "num": 173179,
       "word": "男生高考提高102分含泪跪谢妈妈",
@@ -635,28 +691,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 170896,
-      "num": 170896,
-      "word": "哈工大无需宣传分够了我自然会去",
-      "onboard_time": 1719370038,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 168564,
       "num": 168564,
       "word": "荷兰2比3奥地利",
       "onboard_time": 1719357255,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168011,
-      "num": 168011,
-      "word": "一个毕业即就业的专业",
-      "onboard_time": 1719368237,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 165807,
@@ -683,14 +723,6 @@
       "category": "社会新闻,电影"
     },
     {
-      "raw_hot": 163901,
-      "num": 163901,
-      "word": "智利0比1阿根廷",
-      "onboard_time": 1719371838,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163290,
       "num": 163290,
       "word": "父母从未因成绩差批评过我",
@@ -707,8 +739,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158816,
-      "num": 158816,
+      "raw_hot": 162843,
+      "num": 162843,
       "word": "原来普通人可能一年也存不到5万",
       "onboard_time": 1719370818,
       "rank": 43,
@@ -779,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145940,
+      "num": 145940,
+      "word": "男生考前右手骨折考了714分",
+      "onboard_time": 1719373038,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "罗小黑原型",
@@ -801,14 +841,6 @@
       "onboard_time": 1719318859,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134972,
-      "num": 162477,
-      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
-      "onboard_time": 1719371478,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134353,
@@ -929,6 +961,14 @@
       "onboard_time": 1719329119,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112614,
+      "num": 422249,
+      "word": "兽用麻醉剂怎么成了电子烟",
+      "onboard_time": 1719370818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111615,
@@ -1083,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82993,
+      "num": 325658,
+      "word": "禁毒民警和家人的讲述看到泪目",
+      "onboard_time": 1719372199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79065,
       "num": 137169,
       "word": "杜国楹道歉",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1719358336,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63987,
-      "num": 422249,
-      "word": "兽用麻醉剂怎么成了电子烟",
-      "onboard_time": 1719370818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63317,
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30471,
+      "num": 830480,
+      "word": "高质量发展瞰宁夏",
+      "onboard_time": 1719372919,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26701,
       "num": 36826,
       "word": "杜海涛想要个女儿",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1719335892,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 9974,
+      "num": 204936,
+      "word": "墨西哥海滩出现多个泉眼漩涡",
+      "onboard_time": 1719372979,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9441,

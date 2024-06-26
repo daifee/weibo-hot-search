@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719372137087,
+  "endTime": 1719373051889,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234384,
+      "num": 446432,
+      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+      "onboard_time": 1719369077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1232044,
       "num": 1232044,
       "word": "我用19年证明高考不能决定人生",
@@ -411,11 +419,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1216821,
-      "num": 419777,
-      "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
-      "onboard_time": 1719369077,
-      "rank": 24,
+      "raw_hot": 1198792,
+      "num": 1198792,
+      "word": "693分女孩还没查分就接到北大电话",
+      "onboard_time": 1719369437,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -657,14 +665,6 @@
       "onboard_time": 1719189257,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 975712,
-      "num": 975712,
-      "word": "693分女孩还没查分就接到北大电话",
-      "onboard_time": 1719369437,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 968426,
@@ -985,6 +985,14 @@
       "onboard_time": 1719215180,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761382,
+      "num": 761382,
+      "word": "张若昀闷声干大事",
+      "onboard_time": 1719371658,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 757643,
@@ -1611,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544306,
+      "num": 544306,
+      "word": "不知火舞新皮肤",
+      "onboard_time": 1719369920,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 543371,
       "num": 447281,
       "word": "玫瑰的故事大结局",
@@ -1747,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516091,
-      "num": 516091,
-      "word": "不知火舞新皮肤",
-      "onboard_time": 1719369920,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 515688,
       "num": 515688,
       "word": "广东分数线",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1719199697,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504543,
+      "num": 504543,
+      "word": "具荷拉保险箱盗窃犯高清图",
+      "onboard_time": 1719372919,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 504053,
@@ -2139,14 +2155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 450015,
-      "num": 450015,
-      "word": "张若昀闷声干大事",
-      "onboard_time": 1719371658,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 449215,
       "num": 449215,
       "word": "刘亦菲彭冠英出租车吻戏",
@@ -2339,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430157,
+      "num": 430157,
+      "word": "苹果取消两倍存储空间限制",
+      "onboard_time": 1719368957,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 428235,
       "num": 428235,
       "word": "理科生高考713分物理化学均满分",
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 417997,
-      "num": 244163,
+      "num": 285665,
       "word": "睡前有这5个习惯的人易胖肚子",
       "onboard_time": 1719366797,
       "rank": 20,
@@ -2545,14 +2561,6 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406968,
-      "num": 406968,
-      "word": "苹果取消两倍存储空间限制",
-      "onboard_time": 1719368957,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 405582,
@@ -2748,7 +2756,7 @@
     },
     {
       "raw_hot": 377741,
-      "num": 377741,
+      "num": 447119,
       "word": "渐冻症学生离世大学设同名奖学金",
       "onboard_time": 1719366918,
       "rank": 10,
@@ -3107,6 +3115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329367,
+      "num": 329367,
+      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+      "onboard_time": 1719371478,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 329322,
       "num": 329322,
       "word": "浙江高考成绩",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1719144257,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325480,
+      "num": 325480,
+      "word": "刘青松疑似退役",
+      "onboard_time": 1719371178,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 325305,
@@ -3451,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295518,
+      "num": 295518,
+      "word": "永劫无间手游定档",
+      "onboard_time": 1719371178,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294623,
       "num": 213875,
       "word": "查分后怒发了一个朋友圈",
@@ -3561,14 +3593,6 @@
       "onboard_time": 1719242359,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282603,
-      "num": 198696,
-      "word": "永劫无间手游定档",
-      "onboard_time": 1719371178,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 281809,
@@ -4009,14 +4033,6 @@
       "onboard_time": 1719207437,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241589,
-      "num": 241589,
-      "word": "刘青松疑似退役",
-      "onboard_time": 1719371178,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 241316,
@@ -4659,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207526,
+      "num": 207526,
+      "word": "刘亦菲杜海涛斗舞",
+      "onboard_time": 1719371538,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207167,
       "num": 207167,
       "word": "匈牙利球员被撞休克",
@@ -4723,12 +4747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205034,
+      "num": 205034,
+      "word": "智利0比1阿根廷",
+      "onboard_time": 1719371838,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204975,
       "num": 201575,
       "word": "九重紫",
       "onboard_time": 1719199579,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "永劫无间联动",
+      "onboard_time": 1719371297,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 204864,
@@ -5059,14 +5099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197138,
-      "num": 197138,
-      "word": "永劫无间联动",
-      "onboard_time": 1719371297,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196658,
       "num": 196658,
       "word": "辽宁今日出高考成绩",
@@ -5137,6 +5169,14 @@
       "onboard_time": 1719319398,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194871,
+      "num": 194871,
+      "word": "建议大家检查下紧急联系人",
+      "onboard_time": 1719372979,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 194869,
@@ -5299,6 +5339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190284,
+      "num": 190284,
+      "word": "哈工大无需宣传分够了我自然会去",
+      "onboard_time": 1719370038,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 190240,
       "num": 190240,
       "word": "白夜追凶2过审了",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1719294378,
       "rank": 30,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 188528,
+      "num": 188528,
+      "word": "北京摇号",
+      "onboard_time": 1719372258,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188304,
@@ -5595,6 +5651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182064,
+      "num": 182064,
+      "word": "一个毕业即就业的专业",
+      "onboard_time": 1719368237,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181917,
       "num": 181917,
       "word": "颜心记 嫂子文学",
@@ -5787,14 +5851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176605,
-      "num": 165805,
-      "word": "刘亦菲杜海涛斗舞",
-      "onboard_time": 1719371538,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175013,
       "num": 175013,
       "word": "方便面活成了年轻人吃不起的样子",
@@ -5897,14 +5953,6 @@
       "onboard_time": 1719149360,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170896,
-      "num": 170896,
-      "word": "哈工大无需宣传分够了我自然会去",
-      "onboard_time": 1719370038,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 170452,
@@ -6025,14 +6073,6 @@
       "onboard_time": 1719154640,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 168011,
-      "num": 168011,
-      "word": "一个毕业即就业的专业",
-      "onboard_time": 1719368237,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 168000,
@@ -6179,14 +6219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163901,
-      "num": 163901,
-      "word": "智利0比1阿根廷",
-      "onboard_time": 1719371838,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163764,
       "num": 208985,
       "word": "剑网三",
@@ -6225,6 +6257,14 @@
       "onboard_time": 1719342551,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162843,
+      "num": 162843,
+      "word": "原来普通人可能一年也存不到5万",
+      "onboard_time": 1719370818,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 162816,
@@ -6409,14 +6449,6 @@
       "onboard_time": 1719216020,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158816,
-      "num": 158816,
-      "word": "原来普通人可能一年也存不到5万",
-      "onboard_time": 1719370818,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 158213,
@@ -6947,6 +6979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145940,
+      "num": 145940,
+      "word": "男生考前右手骨折考了714分",
+      "onboard_time": 1719373038,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 145066,
       "num": 145066,
       "word": "汪苏泷武汉站",
@@ -7297,14 +7337,6 @@
       "onboard_time": 1719115697,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134972,
-      "num": 162477,
-      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
-      "onboard_time": 1719371478,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134730,
@@ -8243,6 +8275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112614,
+      "num": 422249,
+      "word": "兽用麻醉剂怎么成了电子烟",
+      "onboard_time": 1719370818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112385,
       "num": 112385,
       "word": "Letme说BLG虐泉没必要",
@@ -8899,6 +8939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82993,
+      "num": 325658,
+      "word": "禁毒民警和家人的讲述看到泪目",
+      "onboard_time": 1719372199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "陈鑫海王星越好会扭",
@@ -9169,14 +9217,6 @@
       "onboard_time": 1719323240,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63987,
-      "num": 422249,
-      "word": "兽用麻醉剂怎么成了电子烟",
-      "onboard_time": 1719370818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62662,
@@ -9779,6 +9819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30471,
+      "num": 830480,
+      "word": "高质量发展瞰宁夏",
+      "onboard_time": 1719372919,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29686,
       "num": 395432,
       "word": "汽车高管花式推荐大学专业",
@@ -10265,6 +10313,14 @@
       "onboard_time": 1719335892,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 9974,
+      "num": 204936,
+      "word": "墨西哥海滩出现多个泉眼漩涡",
+      "onboard_time": 1719372979,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9441,
