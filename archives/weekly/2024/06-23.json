@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719391064099,
+  "endTime": 1719393758863,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110711,
+      "num": 821153,
+      "word": "林一鼻子",
+      "onboard_time": 1719391699,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104974,
       "num": 1104974,
       "word": "唐尚珺高考成绩",
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 900404,
+      "num": 900404,
+      "word": "洪知秀将在联合国发表演讲",
+      "onboard_time": 1719390498,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899187,
       "num": 899187,
       "word": "浙大百万网红陈娴已有多家公司",
@@ -1009,6 +1025,22 @@
       "onboard_time": 1719372919,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 797096,
+      "num": 797096,
+      "word": "高二女生考入北大遗憾不能上高三",
+      "onboard_time": 1719392117,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 796825,
+      "num": 796825,
+      "word": "喜茶门店称小奶栀名字是公司定的",
+      "onboard_time": 1719388878,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 795355,
@@ -1619,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588023,
-      "num": 588023,
-      "word": "喜茶门店称小奶栀名字是公司定的",
-      "onboard_time": 1719388878,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 587328,
       "num": 587328,
       "word": "清华告诉你北京到底有谁在",
@@ -1899,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525996,
+      "num": 525996,
+      "word": "十个勤天成立新公司",
+      "onboard_time": 1719389658,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523308,
       "num": 523308,
       "word": "你的名字重映定档",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1719356594,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494600,
+      "num": 494600,
+      "word": "伊能静发刘亦菲九宫格",
+      "onboard_time": 1719388757,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 493993,
@@ -2384,14 +2424,6 @@
       "word": "刘亦菲喝了黄玫瑰拿铁",
       "onboard_time": 1719242121,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 446837,
-      "num": 406979,
-      "word": "伊能静发刘亦菲九宫格",
-      "onboard_time": 1719388757,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2851,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 394343,
-      "num": 394343,
-      "word": "十个勤天成立新公司",
-      "onboard_time": 1719389658,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1719073277,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374967,
+      "num": 374967,
+      "word": "猎罪图鉴2杀青",
+      "onboard_time": 1719391580,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 372017,
@@ -3603,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307921,
+      "num": 307921,
+      "word": "檀健次发文官宣演唱会",
+      "onboard_time": 1719392900,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 307821,
       "num": 307821,
       "word": "于正说以后他所有的剧全部明确HE",
@@ -3907,14 +3947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 277918,
-      "num": 277918,
-      "word": "洪知秀将在联合国发表演讲",
-      "onboard_time": 1719390498,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277740,
       "num": 277740,
       "word": "新一批复制人已入百万",
@@ -4017,6 +4049,14 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268134,
+      "num": 244165,
+      "word": "偷偷留学了一年却骗妈妈在上班",
+      "onboard_time": 1719388757,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 268022,
@@ -4283,14 +4323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244165,
-      "num": 244165,
-      "word": "偷偷留学了一年却骗妈妈在上班",
-      "onboard_time": 1719388757,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244041,
       "num": 244041,
       "word": "陈洁仪 心动",
@@ -4353,6 +4385,14 @@
       "onboard_time": 1719099494,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241773,
+      "num": 241773,
+      "word": "胡锡进炒股一年赔了7.4万元",
+      "onboard_time": 1719392597,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241723,
@@ -4787,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218210,
+      "num": 189036,
+      "word": "长相思2预约人数破700万",
+      "onboard_time": 1719393258,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
@@ -4897,6 +4945,14 @@
       "onboard_time": 1719202640,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211971,
+      "num": 188495,
+      "word": "SEVENTEEN被任命为青年亲善大使",
+      "onboard_time": 1719391758,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 211849,
@@ -5105,6 +5161,14 @@
       "onboard_time": 1719227120,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205387,
+      "num": 188109,
+      "word": "迪丽热巴 玛丽猫",
+      "onboard_time": 1719390917,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 205213,
@@ -5833,6 +5897,14 @@
       "onboard_time": 1719238520,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189363,
+      "num": 189363,
+      "word": "云南丽江永胜县4.5级地震",
+      "onboard_time": 1719391398,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189264,
@@ -7371,6 +7443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150997,
+      "num": 150997,
+      "word": "大腿和屁股肉多的女性更聪明",
+      "onboard_time": 1719393438,
+      "rank": 33,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 150989,
       "num": 150989,
       "word": "张杰北京",
@@ -7385,14 +7465,6 @@
       "onboard_time": 1719211819,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150763,
-      "num": 150763,
-      "word": "迪丽热巴 玛丽猫",
-      "onboard_time": 1719390917,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 150687,
@@ -8059,6 +8131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134015,
+      "num": 134015,
+      "word": "世界上最不会打架的小狗出现了",
+      "onboard_time": 1719391699,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133748,
       "num": 133748,
       "word": "于正问菲常萧张二搭适合什么朝代",
@@ -8401,6 +8481,14 @@
       "onboard_time": 1719226580,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126095,
+      "num": 126095,
+      "word": "为什么一分钟会变成59秒",
+      "onboard_time": 1719393558,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125962,
@@ -9891,6 +9979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72314,
+      "num": 414228,
+      "word": "到河南才懂了李白的诗",
+      "onboard_time": 1719392719,
+      "rank": 9,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 71168,
       "num": 337099,
       "word": "小哥接到女子代买敌敌畏订单立马报警",
@@ -10049,6 +10145,14 @@
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61670,
+      "num": 842845,
+      "word": "高考志愿填报前这些信息要了解",
+      "onboard_time": 1719390437,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 60650,
@@ -10305,14 +10409,6 @@
       "onboard_time": 1719206718,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46703,
-      "num": 742371,
-      "word": "高考志愿填报前这些信息要了解",
-      "onboard_time": 1719390437,
-      "rank": 2,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 46189,
@@ -10577,6 +10673,14 @@
       "onboard_time": 1719212718,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 35162,
+      "num": 328059,
+      "word": "58位机械毕业生薪资",
+      "onboard_time": 1719392418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34820,
