@@ -1,0 +1,410 @@
+{
+  "runTime": 1719375865783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050432,
+        "num": 2050432,
+        "word": "693分女孩还没查分就接到北大电话",
+        "onboard_time": 1719369437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166194,
+        "num": 1166194,
+        "word": "赵今麦MiuMiu",
+        "onboard_time": 1719373218,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59979,
+        "num": 909872,
+        "word": "中国网络法治三十年",
+        "onboard_time": 1719373218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800023,
+        "num": 800023,
+        "word": "具荷拉保险箱盗窃犯高清图",
+        "onboard_time": 1719372919,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 743210,
+        "num": 743210,
+        "word": "男生考前右手骨折考了714分",
+        "onboard_time": 1719373038,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 704374,
+        "num": 704374,
+        "word": "乌合麒麟新作美国毒夫",
+        "onboard_time": 1719370398,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 788960,
+        "num": 690365,
+        "word": "张若昀闷声干大事",
+        "onboard_time": 1719371658,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 654655,
+        "num": 654655,
+        "word": "复旦招生宣传黄亦玫严选",
+        "onboard_time": 1719367997,
+        "rank": 7,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 612272,
+        "num": 612272,
+        "word": "ZICO",
+        "onboard_time": 1719373638,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31575,
+        "num": 496160,
+        "word": "复刻影视剧名场面致敬缉毒英雄",
+        "onboard_time": 1719374419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732982,
+        "num": 493786,
+        "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+        "onboard_time": 1719371478,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 464122,
+        "num": 464122,
+        "word": "女孩查分开出隐藏款让父亲一脸懵",
+        "onboard_time": 1719357975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419107,
+        "num": 419107,
+        "word": "不知火舞新皮肤",
+        "onboard_time": 1719369920,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396403,
+        "num": 396403,
+        "word": "网红博主爬泰山说5元1瓶水真不贵",
+        "onboard_time": 1719360437,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386025,
+        "num": 386025,
+        "word": "你的名字重映定档",
+        "onboard_time": 1719370098,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385062,
+        "num": 385062,
+        "word": "苹果取消两倍存储空间限制",
+        "onboard_time": 1719368957,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 339707,
+        "num": 339707,
+        "word": "刘青松疑似退役",
+        "onboard_time": 1719371178,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330856,
+        "num": 330856,
+        "word": "永劫无间张起灵",
+        "onboard_time": 1719373097,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325702,
+        "num": 325702,
+        "word": "韩雪拒绝用负重一万斤长大玩梗",
+        "onboard_time": 1719357194,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277050,
+        "num": 317455,
+        "word": "白敬亭申请强执黑粉",
+        "onboard_time": 1719370519,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311996,
+        "num": 311996,
+        "word": "闲鱼账号被列为婚后财产夫妻举证争夺",
+        "onboard_time": 1719369077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290339,
+        "num": 290339,
+        "word": "睡前有这5个习惯的人易胖肚子",
+        "onboard_time": 1719366797,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258481,
+        "num": 258481,
+        "word": "原来普通人可能一年也存不到5万",
+        "onboard_time": 1719370818,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255657,
+        "num": 255657,
+        "word": "哈工大无需宣传分够了我自然会去",
+        "onboard_time": 1719370038,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235153,
+        "num": 235153,
+        "word": "北京摇号",
+        "onboard_time": 1719372258,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215978,
+        "num": 215978,
+        "word": "张若昀新片定档",
+        "onboard_time": 1719373218,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202461,
+        "num": 202461,
+        "word": "清华大学 神转场",
+        "onboard_time": 1719363439,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201810,
+        "num": 201810,
+        "word": "优酷被吐槽吃相难看",
+        "onboard_time": 1719357916,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189698,
+        "num": 189698,
+        "word": "度华年开播",
+        "onboard_time": 1719361999,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185672,
+        "num": 185672,
+        "word": "刘亦菲杜海涛斗舞",
+        "onboard_time": 1719371538,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180908,
+        "num": 180908,
+        "word": "林一 北京不能没有你在",
+        "onboard_time": 1719364398,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168863,
+        "num": 168863,
+        "word": "清华复旦嗑到了",
+        "onboard_time": 1719374120,
+        "rank": 31,
+        "category": "教育,剧集"
+      },
+      {
+        "raw_hot": 167688,
+        "num": 167688,
+        "word": "存钱很厉害的人都有一个共性",
+        "onboard_time": 1719362238,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163625,
+        "num": 163625,
+        "word": "原来微信可以自动定位未读消息",
+        "onboard_time": 1719358216,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158972,
+        "num": 158972,
+        "word": "TFBOYS五十周年演唱会预告",
+        "onboard_time": 1719375739,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155261,
+        "num": 155261,
+        "word": "疯批王姬",
+        "onboard_time": 1719366738,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153919,
+        "num": 153919,
+        "word": "劳塔罗绝杀",
+        "onboard_time": 1719373759,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 151931,
+        "word": "戒不了毒是意志力不够强吗",
+        "onboard_time": 1719373097,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 148292,
+        "word": "长相思2预告角色时长占比",
+        "onboard_time": 1719363558,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147191,
+        "num": 147191,
+        "word": "谢娜张杰又发糖了",
+        "onboard_time": 1719366319,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145751,
+        "num": 145751,
+        "word": "女孩怕伤狗狗自尊选择了沉默",
+        "onboard_time": 1719375258,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138776,
+        "num": 138776,
+        "word": "ENHYPEN概念照",
+        "onboard_time": 1719375380,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136386,
+        "num": 136386,
+        "word": "一个毕业即就业的专业",
+        "onboard_time": 1719368237,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "杜海涛向金靖咨询怀孕的事情",
+        "onboard_time": 1719373880,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128374,
+        "num": 128374,
+        "word": "度华年直播",
+        "onboard_time": 1719375620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128275,
+        "num": 128275,
+        "word": "男子替换价格标签25元买走2瓶茅台",
+        "onboard_time": 1719368477,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123883,
+        "num": 123883,
+        "word": "iPhone安卓手机可互发5G消息了",
+        "onboard_time": 1719364940,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123522,
+        "num": 123522,
+        "word": "TheShy提出空调理论",
+        "onboard_time": 1719375739,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123338,
+        "num": 123338,
+        "word": "刘亦菲回复林一",
+        "onboard_time": 1719330677,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121744,
+        "num": 121744,
+        "word": "何炅谢娜李维嘉合体了",
+        "onboard_time": 1719357075,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}

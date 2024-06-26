@@ -1,7 +1,15 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719373051889,
+  "endTime": 1719375865783,
   "band_list": [
+    {
+      "raw_hot": 2050432,
+      "num": 2050432,
+      "word": "693分女孩还没查分就接到北大电话",
+      "onboard_time": 1719369437,
+      "rank": 25,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1304887,
       "num": 1304887,
@@ -19,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1198792,
-      "num": 1198792,
-      "word": "693分女孩还没查分就接到北大电话",
-      "onboard_time": 1719369437,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 1166194,
+      "num": 1166194,
+      "word": "赵今麦MiuMiu",
+      "onboard_time": 1719373218,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1143779,
@@ -67,12 +75,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 761382,
+      "raw_hot": 800023,
+      "num": 800023,
+      "word": "具荷拉保险箱盗窃犯高清图",
+      "onboard_time": 1719372919,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 788960,
       "num": 761382,
       "word": "张若昀闷声干大事",
       "onboard_time": 1719371658,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 743210,
+      "num": 743210,
+      "word": "男生考前右手骨折考了714分",
+      "onboard_time": 1719373038,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 732982,
+      "num": 493786,
+      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
+      "onboard_time": 1719371478,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 731266,
@@ -91,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681113,
-      "num": 681113,
+      "raw_hot": 704374,
+      "num": 704374,
       "word": "乌合麒麟新作美国毒夫",
       "onboard_time": 1719370398,
       "rank": 3,
@@ -113,6 +145,14 @@
       "onboard_time": 1719360437,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612272,
+      "num": 612272,
+      "word": "ZICO",
+      "onboard_time": 1719373638,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 595614,
@@ -187,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 504543,
-      "num": 504543,
-      "word": "具荷拉保险箱盗窃犯高清图",
-      "onboard_time": 1719372919,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 504053,
       "num": 504053,
       "word": "清华大学 神转场",
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 417997,
-      "num": 285665,
+      "num": 290339,
       "word": "睡前有这5个习惯的人易胖肚子",
       "onboard_time": 1719366797,
       "rank": 20,
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339707,
+      "num": 339707,
+      "word": "刘青松疑似退役",
+      "onboard_time": 1719371178,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 337213,
       "num": 181548,
       "word": "不想腹部长赘肉8种食物少吃",
@@ -339,12 +379,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 329367,
-      "num": 329367,
-      "word": "加沙女孩乘车被曝遭以军355发子弹击中",
-      "onboard_time": 1719371478,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 330856,
+      "num": 330856,
+      "word": "永劫无间张起灵",
+      "onboard_time": 1719373097,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 327781,
@@ -353,14 +393,6 @@
       "onboard_time": 1719357375,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325480,
-      "num": 325480,
-      "word": "刘青松疑似退役",
-      "onboard_time": 1719371178,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 310471,
@@ -459,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258481,
+      "num": 258481,
+      "word": "原来普通人可能一年也存不到5万",
+      "onboard_time": 1719370818,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 255657,
+      "num": 255657,
+      "word": "哈工大无需宣传分够了我自然会去",
+      "onboard_time": 1719370038,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246200,
       "num": 246200,
       "word": "易烊千玺相关公司接手文创企业",
@@ -499,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235153,
+      "num": 235153,
+      "word": "北京摇号",
+      "onboard_time": 1719372258,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "被境外毒枭悬赏人头的缉毒警有话要说",
@@ -529,6 +585,14 @@
       "onboard_time": 1719369376,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 215978,
+      "num": 215978,
+      "word": "张若昀新片定档",
+      "onboard_time": 1719373218,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 209320,
@@ -619,28 +683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190284,
-      "num": 190284,
-      "word": "哈工大无需宣传分够了我自然会去",
-      "onboard_time": 1719370038,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 189425,
       "num": 189425,
       "word": "双鱼座讨厌一个人全写在脸上",
       "onboard_time": 1719320479,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188528,
-      "num": 188528,
-      "word": "北京摇号",
-      "onboard_time": 1719372258,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187762,
@@ -691,6 +739,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 168863,
+      "num": 168863,
+      "word": "清华复旦嗑到了",
+      "onboard_time": 1719374120,
+      "rank": 31,
+      "category": "教育,剧集"
+    },
+    {
       "raw_hot": 168564,
       "num": 168564,
       "word": "荷兰2比3奥地利",
@@ -739,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162843,
-      "num": 162843,
-      "word": "原来普通人可能一年也存不到5万",
-      "onboard_time": 1719370818,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 158972,
+      "num": 158972,
+      "word": "TFBOYS五十周年演唱会预告",
+      "onboard_time": 1719375739,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158144,
@@ -787,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153919,
+      "num": 153919,
+      "word": "劳塔罗绝杀",
+      "onboard_time": 1719373759,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151931,
+      "num": 151931,
+      "word": "戒不了毒是意志力不够强吗",
+      "onboard_time": 1719373097,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150269,
       "num": 150269,
       "word": "痞幼巴黎时装周vlog",
@@ -811,14 +883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145940,
-      "num": 145940,
-      "word": "男生考前右手骨折考了714分",
-      "onboard_time": 1719373038,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "罗小黑原型",
@@ -827,12 +891,28 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 145751,
+      "num": 145751,
+      "word": "女孩怕伤狗狗自尊选择了沉默",
+      "onboard_time": 1719375258,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140836,
       "num": 140836,
       "word": "朱婷毕业了",
       "onboard_time": 1719369678,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138776,
+      "num": 138776,
+      "word": "ENHYPEN概念照",
+      "onboard_time": 1719375380,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136895,
@@ -849,6 +929,14 @@
       "onboard_time": 1719331397,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133747,
+      "num": 133747,
+      "word": "杜海涛向金靖咨询怀孕的事情",
+      "onboard_time": 1719373880,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 133428,
@@ -891,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128374,
+      "num": 128374,
+      "word": "度华年直播",
+      "onboard_time": 1719375620,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127556,
       "num": 127556,
       "word": "美术馆就玫瑰的故事丢失作品致歉",
@@ -905,6 +1001,14 @@
       "onboard_time": 1719362299,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123522,
+      "num": 123522,
+      "word": "TheShy提出空调理论",
+      "onboard_time": 1719375739,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 122408,
@@ -1243,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59979,
+      "num": 909872,
+      "word": "中国网络法治三十年",
+      "onboard_time": 1719373218,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59858,
       "num": 76895,
       "word": "迪丽热巴今年第13套高定",
@@ -1320,6 +1432,14 @@
       "word": "嫦娥六号返回器安全着陆",
       "onboard_time": 1719320658,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31575,
+      "num": 496160,
+      "word": "复刻影视剧名场面致敬缉毒英雄",
+      "onboard_time": 1719374419,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
