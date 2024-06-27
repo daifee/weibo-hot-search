@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719444961542,
+  "endTime": 1719451596267,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -363,6 +363,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1408573,
+      "num": 1408573,
+      "word": "全班49人48个高考过600分",
+      "onboard_time": 1719448218,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1367903,
       "num": 1367903,
       "word": "梁实第28次高考成绩出炉",
@@ -473,6 +481,14 @@
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1204354,
+      "num": 962971,
+      "word": "李雪琴高考分数",
+      "onboard_time": 1719414860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1175294,
@@ -657,14 +673,6 @@
       "onboard_time": 1719192018,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1042876,
-      "num": 962971,
-      "word": "李雪琴高考分数",
-      "onboard_time": 1719414860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1034818,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 875208,
+      "num": 591275,
+      "word": "小夭立牌被扔垃圾桶",
+      "onboard_time": 1719446117,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 868785,
       "num": 581903,
       "word": "男子用麻精药品迷奸多名女性被判无期",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1719193756,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 765771,
+      "num": 765771,
+      "word": "女孩考726分轰动全小区邻居放烟花",
+      "onboard_time": 1719449779,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 762220,
@@ -2027,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543913,
+      "num": 201805,
+      "word": "给宝宝取了全国唯一的名字",
+      "onboard_time": 1719444614,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 543371,
       "num": 447281,
       "word": "玫瑰的故事大结局",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1719231559,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 534320,
+      "num": 364309,
+      "word": "霉霉高歌时遭飞虫入口",
+      "onboard_time": 1719450258,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 533814,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1719357916,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 528192,
+      "num": 528192,
+      "word": "爷爷生前为孙子封了坛状元酒",
+      "onboard_time": 1719445217,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527689,
@@ -2379,6 +2427,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 488374,
+      "num": 488374,
+      "word": "玻利维亚发生军事政变",
+      "onboard_time": 1719443654,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 487920,
       "num": 405468,
       "word": "林一回应和刘亦菲合作",
@@ -2604,7 +2660,7 @@
     },
     {
       "raw_hot": 453867,
-      "num": 221029,
+      "num": 379363,
       "word": "葡萄牙爆冷输球",
       "onboard_time": 1719443654,
       "rank": 30,
@@ -3027,6 +3083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415091,
+      "num": 201729,
+      "word": "凑10万元提前还贷也好",
+      "onboard_time": 1719445396,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 415055,
       "num": 415055,
       "word": "中方对波兰公民实施15日单方面免签",
@@ -3153,6 +3217,14 @@
       "onboard_time": 1719278417,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 399632,
+      "num": 399632,
+      "word": "金价从最高点回落6%",
+      "onboard_time": 1719448158,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 399402,
@@ -3379,14 +3451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367209,
-      "num": 214104,
-      "word": "玻利维亚发生军事政变",
-      "onboard_time": 1719443654,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 366679,
       "num": 251304,
       "word": "薛芳菲为婉宁流泪",
@@ -3587,20 +3651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351611,
-      "num": 137581,
-      "word": "给宝宝取了全国唯一的名字",
-      "onboard_time": 1719444614,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 351231,
       "num": 351231,
       "word": "双鱼座讨厌一个人全写在脸上",
       "onboard_time": 1719320479,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349970,
+      "num": 349970,
+      "word": "法老 27狗子来了",
+      "onboard_time": 1719444736,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 347736,
@@ -3857,6 +3921,14 @@
       "onboard_time": 1719317358,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321446,
+      "num": 201574,
+      "word": "研究人员称外星人可能已生活在地球上",
+      "onboard_time": 1719445096,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321298,
@@ -4275,6 +4347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284649,
+      "num": 284649,
+      "word": "齐思钧否认浪姐直播做票",
+      "onboard_time": 1719444495,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284556,
       "num": 284556,
       "word": "江苏高考查分",
@@ -4363,6 +4443,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 276667,
+      "num": 276667,
+      "word": "NBA选秀大会",
+      "onboard_time": 1719447920,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276660,
       "num": 276660,
       "word": "Manner事件",
@@ -4419,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273400,
+      "num": 201472,
+      "word": "这里是健身房不允许开车",
+      "onboard_time": 1719444194,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272860,
       "num": 272860,
       "word": "年轻人为什么爱上德训鞋",
@@ -4465,6 +4561,14 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268691,
+      "num": 196663,
+      "word": "身体这两个部位发黑建议去查查",
+      "onboard_time": 1719449238,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 268022,
@@ -5155,6 +5259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225901,
+      "num": 195643,
+      "word": "无意中发现了小时候的自己",
+      "onboard_time": 1719449477,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225521,
       "num": 293268,
       "word": "要说鉴茶还得看00后",
@@ -5651,14 +5763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207089,
-      "num": 103244,
-      "word": "法老 27狗子来了",
-      "onboard_time": 1719444736,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206869,
       "num": 206869,
       "word": "歌手",
@@ -5875,12 +5979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201878,
+      "num": 201878,
+      "word": "苹果称iPhone保值率超安卓至少40%",
+      "onboard_time": 1719448097,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201663,
       "num": 201663,
       "word": "不吃早餐和不吃晚餐哪个对身体影响大",
       "onboard_time": 1719409699,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201419,
+      "num": 201419,
+      "word": "韩国偶遇蔡依林",
+      "onboard_time": 1719445637,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 201330,
@@ -6601,6 +6721,14 @@
       "onboard_time": 1719286338,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185812,
+      "num": 185812,
+      "word": "法老 小精灵",
+      "onboard_time": 1719446056,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 185730,
@@ -7603,14 +7731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162586,
-      "num": 136774,
-      "word": "这里是健身房不允许开车",
-      "onboard_time": 1719444194,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162578,
       "num": 171068,
       "word": "高校招生版神转场",
@@ -7680,6 +7800,14 @@
       "word": "意大利女排3比1日本女排",
       "onboard_time": 1719157758,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161558,
+      "num": 161558,
+      "word": "崔永熙冲击NBA",
+      "onboard_time": 1719450557,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -8187,14 +8315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151371,
-      "num": 151371,
-      "word": "齐思钧否认浪姐直播做票",
-      "onboard_time": 1719444495,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151326,
       "num": 151326,
       "word": "山东2024高考一分一段表",
@@ -8217,6 +8337,14 @@
       "onboard_time": 1719377719,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150868,
+      "num": 150868,
+      "word": "郑妮可C位",
+      "onboard_time": 1719445637,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 150822,
@@ -8387,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148120,
+      "num": 148120,
+      "word": "小狗不许上床",
+      "onboard_time": 1719451158,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148027,
       "num": 148027,
       "word": "世预赛18强国足或遭死亡之组",
@@ -8513,6 +8649,14 @@
       "onboard_time": 1719375258,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "清华老师建议专业要选自己hold住的",
+      "onboard_time": 1719450677,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 145265,
@@ -8883,6 +9027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136360,
+      "num": 136360,
+      "word": "裴珠泫请aespa成员吃西瓜",
+      "onboard_time": 1719448158,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -8897,6 +9049,14 @@
       "onboard_time": 1719184275,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136036,
+      "num": 136036,
+      "word": "蔡文静说近半年不想再拍综艺了",
+      "onboard_time": 1719420256,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 135903,
@@ -9075,6 +9235,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "赵露思摸到什么破案了",
+      "onboard_time": 1719448396,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132427,
+      "num": 165478,
+      "word": "新中国首位奥运旗手98岁了",
+      "onboard_time": 1719445034,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "金毛的鱼被猫猫弄出鱼缸",
@@ -9233,6 +9409,14 @@
       "onboard_time": 1719367698,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128508,
+      "num": 128508,
+      "word": "INFP真的很容易变成废物",
+      "onboard_time": 1719448458,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 128436,
@@ -9547,6 +9731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122684,
+      "num": 122684,
+      "word": "公安厅介入呼和浩特一村5人遇害案",
+      "onboard_time": 1719451456,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 122607,
       "num": 122607,
       "word": "黑龙江高考分数线",
@@ -9803,6 +9995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116889,
+      "num": 116889,
+      "word": "NBA连续两届状元都是法国人",
+      "onboard_time": 1719450918,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116866,
       "num": 116866,
       "word": "巴黎奥运会运动员食堂",
@@ -9841,6 +10041,14 @@
       "onboard_time": 1719146300,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 116368,
+      "num": 116368,
+      "word": "里萨谢当选NBA状元",
+      "onboard_time": 1719450137,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116232,
@@ -9889,6 +10097,14 @@
       "onboard_time": 1719412279,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115489,
+      "num": 115489,
+      "word": "NBA选秀 布朗尼",
+      "onboard_time": 1719451517,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115368,
@@ -9977,6 +10193,14 @@
       "onboard_time": 1719102555,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114073,
+      "num": 114073,
+      "word": "有水贝黄金加工企业停工放假",
+      "onboard_time": 1719445876,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 114039,
@@ -10369,14 +10593,6 @@
       "onboard_time": 1719314118,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105514,
-      "num": 105514,
-      "word": "蔡文静说近半年不想再拍综艺了",
-      "onboard_time": 1719420256,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 104853,
@@ -10939,6 +11155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83880,
+      "num": 626968,
+      "word": "高校毕业季就是最好的招生简章",
+      "onboard_time": 1719408079,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 83778,
       "num": 193162,
       "word": "洗个澡差点把自己洗掉下去",
@@ -11057,6 +11281,14 @@
       "onboard_time": 1719385696,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 77033,
+      "num": 368696,
+      "word": "快递员带娃上门取件女子心疼自责",
+      "onboard_time": 1719450198,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76869,
@@ -11649,14 +11881,6 @@
       "onboard_time": 1719206718,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47251,
-      "num": 397113,
-      "word": "高校毕业季就是最好的招生简章",
-      "onboard_time": 1719408079,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 46189,

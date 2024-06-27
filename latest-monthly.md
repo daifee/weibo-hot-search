@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 07:36:01
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 09:26:36
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD49%E4%BA%BA48%E4%B8%AA%E9%AB%98%E8%80%83%E8%BF%87600%E5%88%86%23" target="weibo">
+全班49人48个高考过600分（热度：1408573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%B0%A2%E6%88%90%E5%8A%9F%E7%A6%BB%E5%A9%9A%E5%B8%82%E6%B0%91%E9%AB%98%E5%96%8A%E5%8A%A0%E6%B2%B9%23" target="weibo">
 小谢成功离婚市民高喊加油（热度：1406730）
 </a>
@@ -2567,6 +2573,12 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%A5%B3%E5%84%BF%E5%87%BA%E9%81%93%23" target="weibo">
 董璇女儿出道（热度：1204808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23" target="weibo">
+李雪琴高考分数（热度：1204354）
 </a>
 </li>
 
@@ -3401,12 +3413,6 @@ iPhone有通话录音了（热度：1060619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%8E%AB%E7%91%B0%E6%8B%BF%E9%93%81%23" target="weibo">
 黄玫瑰拿铁（热度：1045788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23" target="weibo">
-李雪琴高考分数（热度：1042876）
 </a>
 </li>
 
@@ -4557,6 +4563,12 @@ Angelababy线下生图状态（热度：891895）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%AB%8B%E7%89%8C%E8%A2%AB%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
+小夭立牌被扔垃圾桶（热度：875208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%8A%B5%E8%BE%BE%E5%8F%B0%E6%B9%BE%23" target="weibo">
 胡歌抵达台湾（热度：874582）
 </a>
@@ -5559,6 +5571,12 @@ A股（热度：766564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83726%E5%88%86%E8%BD%B0%E5%8A%A8%E5%85%A8%E5%B0%8F%E5%8C%BA%E9%82%BB%E5%B1%85%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
+女孩考726分轰动全小区邻居放烟花（热度：765771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%83%E6%9C%9F%E5%86%B2%E6%A6%9C%E8%B5%9B%E6%B5%B7%E6%8A%A5%23" target="weibo">
 歌手第七期冲榜赛海报（热度：765444）
 </a>
@@ -5993,24 +6011,6 @@ Jennie走秀（热度：742682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D140%E6%96%A4%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 汪苏泷回应体重140斤的原因（热度：737773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9C%80%E8%BF%91%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E7%A6%BB%E8%81%8C%23" target="weibo">
-建议最近不要轻易离职（热度：737769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E6%A0%87%E9%94%99%E4%BB%B740%E5%85%83%E4%B8%80%E6%99%9A%E8%A2%AB%E8%AE%A2%E4%B8%8A%E5%8D%83%E5%8D%95%23" target="weibo">
-酒店标错价40元一晚被订上千单（热度：736403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8E%8B%E7%9A%84%E7%88%B8%E5%A4%A9%E5%90%8E%E7%9A%84%E5%A6%88%20%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%AE%B6%E9%A1%B6%E6%B5%81%E7%9A%84%E4%BB%96%23" target="weibo">
-天王的爸天后的妈 破碎的家顶流的他（热度：736115）
 </a>
 </li>
 
