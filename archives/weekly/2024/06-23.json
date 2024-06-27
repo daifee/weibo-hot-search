@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719497909558,
+  "endTime": 1719498944888,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -579,19 +579,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1230027,
+      "num": 1230027,
+      "word": "徐正溪退圈后状态",
+      "onboard_time": 1719494719,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1204354,
       "num": 962971,
       "word": "李雪琴高考分数",
       "onboard_time": 1719414860,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1200137,
-      "num": 1200137,
-      "word": "徐正溪退圈后状态",
-      "onboard_time": 1719494719,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -625,6 +625,14 @@
       "onboard_time": 1719373218,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1161988,
+      "num": 1161988,
+      "word": "日本决定将大陆架扩大12万平方公里",
+      "onboard_time": 1719496519,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1152737,
@@ -1651,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701404,
+      "num": 566568,
+      "word": "2岁女童因尿裤子被打店员大喊报警",
+      "onboard_time": 1719493517,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700655,
       "num": 700655,
       "word": "阿里巴巴全球数学竞赛决赛试题公布",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1719308839,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 672775,
-      "num": 672775,
-      "word": "日本决定将大陆架扩大12万平方公里",
-      "onboard_time": 1719496519,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 670234,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1719404418,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 650839,
-      "num": 566568,
-      "word": "2岁女童因尿裤子被打店员大喊报警",
-      "onboard_time": 1719493517,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649610,
@@ -2683,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511440,
+      "num": 511440,
+      "word": "梅雨季一次性内裤成了南方人刚需",
+      "onboard_time": 1719493400,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510209,
       "num": 510209,
       "word": "降薪引发基金经理离职潮",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1719150079,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 495189,
+      "num": 495189,
+      "word": "实验犬中98%犬只都是比格犬",
+      "onboard_time": 1719496940,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494736,
@@ -3121,14 +3137,6 @@
       "onboard_time": 1719290242,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 455246,
-      "num": 455246,
-      "word": "梅雨季一次性内裤成了南方人刚需",
-      "onboard_time": 1719493400,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454612,
@@ -4211,6 +4219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 357388,
+      "num": 271418,
+      "word": "为什么通勤时间全都是算个人的",
+      "onboard_time": 1719495619,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357319,
       "num": 357319,
       "word": "韩国又发生一起酒店性犯罪案",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1719210919,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333117,
-      "num": 271418,
-      "word": "为什么通勤时间全都是算个人的",
-      "onboard_time": 1719495619,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 332108,
@@ -5235,6 +5243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279794,
+      "num": 189244,
+      "word": "中国共产党的政治智慧",
+      "onboard_time": 1719496160,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279378,
       "num": 279378,
       "word": "布朗尼落选首轮",
@@ -5265,6 +5281,14 @@
       "onboard_time": 1719199937,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277895,
+      "num": 277895,
+      "word": "黄子韬谈经纪人被抓",
+      "onboard_time": 1719498561,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 277740,
@@ -5537,14 +5561,6 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259916,
-      "num": 259916,
-      "word": "实验犬中98%犬只都是比格犬",
-      "onboard_time": 1719496940,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258712,
@@ -5971,14 +5987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233068,
-      "num": 180571,
-      "word": "中国共产党的政治智慧",
-      "onboard_time": 1719496160,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -6033,6 +6041,14 @@
       "onboard_time": 1719145097,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230859,
+      "num": 230859,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 230724,
@@ -6305,6 +6321,14 @@
       "onboard_time": 1719369376,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 221635,
+      "num": 221635,
+      "word": "LGD战胜BLG",
+      "onboard_time": 1719498859,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 221193,
@@ -6867,6 +6891,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206152,
+      "num": 206152,
+      "word": "土狗",
+      "onboard_time": 1719498561,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206082,
       "num": 206082,
       "word": "山东高考分数线",
@@ -7067,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201916,
+      "num": 201916,
+      "word": "歌手 想一出是一出",
+      "onboard_time": 1719494358,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201805,
       "num": 201805,
       "word": "王者荣耀新赛季",
@@ -7107,14 +7147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201221,
-      "num": 201221,
-      "word": "歌手 想一出是一出",
-      "onboard_time": 1719494358,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201034,
       "num": 201034,
       "word": "白敬亭带着都市爱情剧杀回来了",
@@ -7129,6 +7161,14 @@
       "onboard_time": 1719133337,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200990,
+      "num": 200990,
+      "word": "王一博皮革翻边外套",
+      "onboard_time": 1719498080,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200973,
@@ -7947,6 +7987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185934,
+      "num": 185934,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185859,
       "num": 185859,
       "word": "一人一句为耕地发声",
@@ -8387,14 +8435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176200,
-      "num": 176200,
-      "word": "丁克老人为自己买骨灰盒",
-      "onboard_time": 1719493400,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176160,
       "num": 173716,
       "word": "彭冠英装果冻客服售后直播",
@@ -8425,14 +8465,6 @@
       "onboard_time": 1719214459,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174774,
-      "num": 174774,
-      "word": "饭后出现4个症状可能是胆囊炎",
-      "onboard_time": 1719494478,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174659,
@@ -10027,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148067,
+      "num": 148067,
+      "word": "李海仁发声",
+      "onboard_time": 1719497781,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148027,
       "num": 148027,
       "word": "世预赛18强国足或遭死亡之组",
@@ -10363,6 +10403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142445,
+      "num": 142445,
+      "word": "海超单杀",
+      "onboard_time": 1719498261,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142046,
       "num": 142046,
       "word": "iOS18能下载更大应用了",
@@ -10425,6 +10473,14 @@
       "onboard_time": 1719120679,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140865,
+      "num": 140865,
+      "word": "AG战胜RNGM",
+      "onboard_time": 1719498621,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 140836,
@@ -11239,6 +11295,14 @@
       "num": 127216,
       "word": "interpark进不去",
       "onboard_time": 1719314747,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127144,
+      "num": 127144,
+      "word": "唐嫣今年第14套高定",
+      "onboard_time": 1719498741,
       "rank": 45,
       "category": "作品衍生"
     },
@@ -12779,14 +12843,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 98375,
-      "num": 98375,
-      "word": "李海仁发声",
-      "onboard_time": 1719497781,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98120,
       "num": 98120,
       "word": "阿Sa直播徐明浩换衣服",
@@ -13041,6 +13097,14 @@
       "onboard_time": 1719133818,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87836,
+      "num": 190441,
+      "word": "手语女孩因以色列空袭导致左手失去知觉",
+      "onboard_time": 1719498080,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 87805,
@@ -13787,6 +13851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52239,
+      "num": 588762,
+      "word": "欧洲杯赌球赔率暗藏玄机",
+      "onboard_time": 1719496821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52102,
       "num": 314250,
       "word": "男生站台送别毕业同学泪如雨下",
@@ -13937,6 +14009,14 @@
       "onboard_time": 1719206718,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46271,
+      "num": 287419,
+      "word": "12岁女孩剪掉10年长发捐白血病患儿",
+      "onboard_time": 1719495139,
+      "rank": 19,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 46189,
@@ -14299,14 +14379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34505,
-      "num": 588762,
-      "word": "欧洲杯赌球赔率暗藏玄机",
-      "onboard_time": 1719496821,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34396,
       "num": 474577,
       "word": "物理满分考生冷静分析弱项学科",
@@ -14465,6 +14537,14 @@
       "onboard_time": 1719167339,
       "rank": 47,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 28879,
+      "num": 202639,
+      "word": "女生用16天救被困10米深井小猫",
+      "onboard_time": 1719498859,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 28871,
@@ -14769,14 +14849,6 @@
       "onboard_time": 1719419715,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 20304,
-      "num": 287419,
-      "word": "12岁女孩剪掉10年长发捐白血病患儿",
-      "onboard_time": 1719495139,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 20062,
