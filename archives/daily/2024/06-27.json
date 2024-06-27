@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719498944888,
+  "endTime": 1719501698046,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1438706,
+      "num": 1438706,
+      "word": "黄子韬谈经纪人被抓",
+      "onboard_time": 1719498561,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1396171,
       "num": 1119318,
       "word": "玲子怀孕",
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1182737,
+      "num": 1182737,
+      "word": "日本决定将大陆架扩大12万平方公里",
+      "onboard_time": 1719496519,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1173875,
       "num": 1173875,
       "word": "日本富士山发现三名濒死人员",
       "onboard_time": 1719459557,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1161988,
-      "num": 1161988,
-      "word": "日本决定将大陆架扩大12万平方公里",
-      "onboard_time": 1719496519,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1118296,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640807,
+      "num": 640807,
+      "word": "实验犬中98%犬只都是比格犬",
+      "onboard_time": 1719496940,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638347,
       "num": 238381,
       "word": "做票",
@@ -467,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 548073,
+      "num": 548073,
+      "word": "长期轻断食对身体有什么影响",
+      "onboard_time": 1719499221,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 543913,
       "num": 272393,
       "word": "给宝宝取了全国唯一的名字",
@@ -537,14 +561,6 @@
       "onboard_time": 1719463818,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495189,
-      "num": 495189,
-      "word": "实验犬中98%犬只都是比格犬",
-      "onboard_time": 1719496940,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488374,
@@ -907,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314434,
+      "num": 314434,
+      "word": "土狗",
+      "onboard_time": 1719498561,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312702,
       "num": 312702,
       "word": "孙俪问邓超是想和她拉近距离吗",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 279794,
-      "num": 189244,
+      "num": 225216,
       "word": "中国共产党的政治智慧",
       "onboard_time": 1719496160,
       "rank": 30,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1719468620,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277895,
-      "num": 277895,
-      "word": "黄子韬谈经纪人被抓",
-      "onboard_time": 1719498561,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 276667,
@@ -1187,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245513,
+      "num": 230859,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235731,
       "num": 235731,
       "word": "陈哲远P腿了吧",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1719475218,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230859,
-      "num": 230859,
-      "word": "丁克老人为自己买骨灰盒",
-      "onboard_time": 1719493400,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 230605,
@@ -1419,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206152,
-      "num": 206152,
-      "word": "土狗",
-      "onboard_time": 1719498561,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204388,
       "num": 204388,
       "word": "海底捞有门店推出美甲收费标准",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1719498080,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "女生多吃这种水果可以瘦肚子",
+      "onboard_time": 1719500600,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200237,
@@ -1571,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189929,
+      "num": 189929,
+      "word": "ENHYPEN造型",
+      "onboard_time": 1719500961,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188078,
       "num": 188078,
       "word": "裴文宣上朝演我上早八",
@@ -1625,6 +1649,22 @@
       "onboard_time": 1719446056,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "唐嫣白玉兰提名感言",
+      "onboard_time": 1719499940,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "京城大师赛",
+      "onboard_time": 1719500060,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 184736,
@@ -1827,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157173,
+      "num": 190441,
+      "word": "手语女孩因以色列空袭导致左手失去知觉",
+      "onboard_time": 1719498080,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 156336,
       "num": 156336,
       "word": "课本中的夏天",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1719458778,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 150921,
+      "num": 150921,
+      "word": "张颂文的朋友圈好广",
+      "onboard_time": 1719498440,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 150868,
@@ -2467,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114818,
+      "num": 114818,
+      "word": "乘风",
+      "onboard_time": 1719501560,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114312,
       "num": 114312,
       "word": "嫦娥六号任务新闻发布会",
@@ -2539,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109907,
+      "num": 109907,
+      "word": "当我用中式教育对待妈妈",
+      "onboard_time": 1719501080,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109632,
       "num": 109632,
       "word": "三步上篮被大爷玩明白了",
@@ -2585,6 +2657,14 @@
       "onboard_time": 1719482238,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 103349,
+      "num": 103349,
+      "word": "建立人际关系的五个步骤",
+      "onboard_time": 1719500840,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 102786,
@@ -2713,14 +2793,6 @@
       "onboard_time": 1719405858,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87836,
-      "num": 190441,
-      "word": "手语女孩因以色列空袭导致左手失去知觉",
-      "onboard_time": 1719498080,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 87645,

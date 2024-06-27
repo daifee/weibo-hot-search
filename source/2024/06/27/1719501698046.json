@@ -1,0 +1,410 @@
+{
+  "runTime": 1719501698046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438706,
+        "num": 1438706,
+        "word": "黄子韬谈经纪人被抓",
+        "onboard_time": 1719498561,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182737,
+        "num": 1182737,
+        "word": "日本决定将大陆架扩大12万平方公里",
+        "onboard_time": 1719496519,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26417,
+        "num": 990336,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805070,
+        "num": 805070,
+        "word": "徐正溪退圈后状态",
+        "onboard_time": 1719494719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640807,
+        "num": 640807,
+        "word": "实验犬中98%犬只都是比格犬",
+        "onboard_time": 1719496940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548073,
+        "num": 548073,
+        "word": "长期轻断食对身体有什么影响",
+        "onboard_time": 1719499221,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 452342,
+        "num": 452342,
+        "word": "李飞说TFBOYS有运气成分在",
+        "onboard_time": 1719496220,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403971,
+        "num": 403971,
+        "word": "歌手迎首位国际冲榜歌手",
+        "onboard_time": 1719487220,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200091,
+        "num": 401514,
+        "word": "美国外交官被发现死于基辅一酒店",
+        "onboard_time": 1719486019,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177485,
+        "num": 377228,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961040,
+        "num": 353504,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506857,
+        "num": 341285,
+        "word": "2岁女童因尿裤子被打店员大喊报警",
+        "onboard_time": 1719493517,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466587,
+        "num": 324427,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319766,
+        "num": 319766,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314434,
+        "num": 314434,
+        "word": "土狗",
+        "onboard_time": 1719498561,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281673,
+        "num": 281673,
+        "word": "梅雨季一次性内裤成了南方人刚需",
+        "onboard_time": 1719493400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277689,
+        "num": 277689,
+        "word": "肖战陈情令在日本有多火",
+        "onboard_time": 1719487458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268326,
+        "num": 268326,
+        "word": "有人领胖东来补偿倒贴300元原地消费",
+        "onboard_time": 1719492979,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258905,
+        "num": 258905,
+        "word": "龚琳娜回应法老diss",
+        "onboard_time": 1719488178,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231227,
+        "num": 231227,
+        "word": "不必要的女士优先到此为止吧",
+        "onboard_time": 1719493038,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245513,
+        "num": 230410,
+        "word": "丁克老人为自己买骨灰盒",
+        "onboard_time": 1719493400,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225216,
+        "num": 225216,
+        "word": "中国共产党的政治智慧",
+        "onboard_time": 1719496160,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223987,
+        "num": 223987,
+        "word": "为什么通勤时间全都是算个人的",
+        "onboard_time": 1719495619,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222889,
+        "num": 222889,
+        "word": "玲子怀孕",
+        "onboard_time": 1719488839,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200804,
+        "num": 200804,
+        "word": "女生多吃这种水果可以瘦肚子",
+        "onboard_time": 1719500600,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189929,
+        "num": 189929,
+        "word": "ENHYPEN造型",
+        "onboard_time": 1719500961,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185725,
+        "num": 185725,
+        "word": "唐嫣白玉兰提名感言",
+        "onboard_time": 1719499940,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185075,
+        "num": 185075,
+        "word": "京城大师赛",
+        "onboard_time": 1719500060,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176442,
+        "num": 176442,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161759,
+        "num": 161759,
+        "word": "王星越正是喜欢亲嘴的年纪",
+        "onboard_time": 1719484638,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157173,
+        "num": 157173,
+        "word": "手语女孩因以色列空袭导致左手失去知觉",
+        "onboard_time": 1719498080,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153619,
+        "num": 153619,
+        "word": "饭后出现4个症状可能是胆囊炎",
+        "onboard_time": 1719494478,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150921,
+        "num": 150921,
+        "word": "张颂文的朋友圈好广",
+        "onboard_time": 1719498440,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143520,
+        "num": 143520,
+        "word": "歌手 想一出是一出",
+        "onboard_time": 1719494358,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142930,
+        "num": 142930,
+        "word": "墨雨云间导演三次婉拒王星越吻戏",
+        "onboard_time": 1719489617,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "洞鞋的苹果被两个阿姨抓了",
+        "onboard_time": 1719493157,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132544,
+        "num": 132544,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128181,
+        "num": 128181,
+        "word": "李海仁发声",
+        "onboard_time": 1719497781,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 124747,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119712,
+        "num": 119712,
+        "word": "赵丽颖全新高定",
+        "onboard_time": 1719495680,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117728,
+        "num": 117728,
+        "word": "Hanni短发似乎就是为了这一刻",
+        "onboard_time": 1719493639,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114818,
+        "num": 114818,
+        "word": "乘风",
+        "onboard_time": 1719501560,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112689,
+        "num": 112689,
+        "word": "老公心疼老婆生娃不易雇3个月嫂",
+        "onboard_time": 1719489498,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109907,
+        "num": 109907,
+        "word": "当我用中式教育对待妈妈",
+        "onboard_time": 1719501080,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108321,
+        "num": 108321,
+        "word": "LGD战胜BLG",
+        "onboard_time": 1719498859,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108234,
+        "num": 108234,
+        "word": "女孩高考查分前车祸至今昏迷不醒",
+        "onboard_time": 1719492559,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104644,
+        "num": 104644,
+        "word": "唐嫣今年第14套高定",
+        "onboard_time": 1719498741,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103349,
+        "num": 103349,
+        "word": "建立人际关系的五个步骤",
+        "onboard_time": 1719500840,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101662,
+        "num": 101662,
+        "word": "神魂颠倒",
+        "onboard_time": 1719495199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95417,
+        "num": 95417,
+        "word": "白玉兰提名红毯生图",
+        "onboard_time": 1719488538,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
