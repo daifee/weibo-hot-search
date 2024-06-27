@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719477511896,
+  "endTime": 1719480058906,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -217,6 +217,14 @@
       "onboard_time": 1719230598,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1781429,
+      "num": 1781429,
+      "word": "钟薛高主播",
+      "onboard_time": 1719478218,
+      "rank": 0,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1707973,
@@ -1811,6 +1819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 646086,
+      "num": 646086,
+      "word": "发证单位回应李雪琴游泳争议",
+      "onboard_time": 1719476718,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645522,
       "num": 645522,
       "word": "男生复读一年涨220分直呼不敢信",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1719063739,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 624259,
+      "num": 624259,
+      "word": "薛小婉 褒姒",
+      "onboard_time": 1719477498,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 624167,
@@ -2403,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521738,
+      "num": 277156,
+      "word": "别再用水直接冲生肉了",
+      "onboard_time": 1719475999,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 520062,
       "num": 520062,
       "word": "韩雪",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1719205100,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464164,
+      "num": 464164,
+      "word": "确诊为土狗",
+      "onboard_time": 1719474918,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 463498,
@@ -3443,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412975,
+      "num": 171316,
+      "word": "钟薛高老林回应女主播直播时倒地",
+      "onboard_time": 1719479478,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412917,
       "num": 412917,
       "word": "马赛机场偶遇肖战",
@@ -3489,6 +3537,14 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406303,
+      "num": 406303,
+      "word": "番茄身上的缝合线是什么",
+      "onboard_time": 1719474558,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 405582,
@@ -3651,14 +3707,6 @@
       "category": "科学科普,运动健身"
     },
     {
-      "raw_hot": 385510,
-      "num": 363105,
-      "word": "确诊为土狗",
-      "onboard_time": 1719474918,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383862,
       "num": 383862,
       "word": "吴谨言王星越P图告别墨雨云间",
@@ -3723,14 +3771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377791,
-      "num": 292041,
-      "word": "发证单位回应李雪琴游泳争议",
-      "onboard_time": 1719476718,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377741,
       "num": 447119,
       "word": "渐冻症学生离世大学设同名奖学金",
@@ -3785,14 +3825,6 @@
       "onboard_time": 1719110177,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 371102,
-      "num": 283004,
-      "word": "番茄身上的缝合线是什么",
-      "onboard_time": 1719474558,
-      "rank": 16,
-      "category": "科学科普"
     },
     {
       "raw_hot": 370334,
@@ -4457,6 +4489,14 @@
       "onboard_time": 1719150800,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312005,
+      "num": 191360,
+      "word": "养了一只98年出生的猫爷爷",
+      "onboard_time": 1719477857,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 311599,
@@ -5291,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249327,
+      "num": 300190,
+      "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+      "onboard_time": 1719478458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -5929,6 +5977,14 @@
       "onboard_time": 1719306258,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221042,
+      "num": 221042,
+      "word": "种地吧",
+      "onboard_time": 1719478158,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 220758,
@@ -6635,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201805,
+      "num": 201805,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1719479658,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201663,
       "num": 201663,
       "word": "不吃早餐和不吃晚餐哪个对身体影响大",
@@ -7161,14 +7225,6 @@
       "onboard_time": 1719271094,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192095,
-      "num": 180730,
-      "word": "别再用水直接冲生肉了",
-      "onboard_time": 1719475999,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 191953,
@@ -7939,6 +7995,14 @@
       "category": "教育,剧集"
     },
     {
+      "raw_hot": 174595,
+      "num": 174595,
+      "word": "劳斯莱斯经销商降价111万",
+      "onboard_time": 1719478398,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174411,
       "num": 174411,
       "word": "小虎状态",
@@ -8033,6 +8097,14 @@
       "onboard_time": 1719104897,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172615,
+      "num": 172615,
+      "word": "高圆圆魏大勋张婧仪孙千合照",
+      "onboard_time": 1719480018,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 172212,
@@ -8241,6 +8313,14 @@
       "onboard_time": 1719154640,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168180,
+      "num": 168180,
+      "word": "中共中央政治局召开会议",
+      "onboard_time": 1719478879,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168000,
@@ -9315,6 +9395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149906,
+      "num": 149906,
+      "word": "难哄",
+      "onboard_time": 1719478038,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149616,
       "num": 149616,
       "word": "职高生超一本线43分圆大学梦",
@@ -9755,6 +9843,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 141528,
+      "num": 141528,
+      "word": "退钱哥谈国足进入死亡之组",
+      "onboard_time": 1719477918,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141491,
       "num": 178865,
       "word": "学霸成绩比预估高30分打乱报考计划",
@@ -9947,6 +10043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137728,
+      "num": 137728,
+      "word": "DYG战胜RW",
+      "onboard_time": 1719478998,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137687,
       "num": 208702,
       "word": "神仙同桌高考一个650分一个700分",
@@ -10099,6 +10203,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 135059,
+      "num": 135059,
+      "word": "最靠谱的毕业旅行搭子是准考证",
+      "onboard_time": 1719479718,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 134730,
       "num": 134730,
       "word": "谢霆锋回忆刘雅瑟爆破戏现场",
@@ -10249,6 +10361,14 @@
       "onboard_time": 1719448396,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132695,
+      "num": 132695,
+      "word": "谢霆锋分享减肥法",
+      "onboard_time": 1719479358,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 132427,
@@ -10593,6 +10713,14 @@
       "onboard_time": 1719097692,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125795,
+      "num": 125795,
+      "word": "国防部说我们从来不吃这一套",
+      "onboard_time": 1719479297,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125721,
@@ -11481,14 +11609,6 @@
       "onboard_time": 1719312078,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110368,
-      "num": 110368,
-      "word": "薛小婉 褒姒",
-      "onboard_time": 1719477498,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 110245,
@@ -12699,6 +12819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 61588,
+      "num": 144925,
+      "word": "最好吃的阿拉伯菜在义乌",
+      "onboard_time": 1719478818,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60973,
       "num": 210355,
       "word": "医学生高铁上争分夺秒练缝合",
@@ -13801,6 +13929,14 @@
       "onboard_time": 1719174311,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 20572,
+      "num": 253154,
+      "word": "高考志愿怎么填才不后悔",
+      "onboard_time": 1719478818,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 20481,

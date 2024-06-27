@@ -1,0 +1,410 @@
+{
+  "runTime": 1719480058906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1781429,
+        "num": 1781429,
+        "word": "钟薛高主播",
+        "onboard_time": 1719478218,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 746075,
+        "num": 746075,
+        "word": "国足 死亡之组",
+        "onboard_time": 1719474196,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72681,
+        "num": 670370,
+        "word": "为什么要去月球背面挖宝",
+        "onboard_time": 1719460878,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 646086,
+        "num": 646086,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624259,
+        "num": 624259,
+        "word": "薛小婉 褒姒",
+        "onboard_time": 1719477498,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 613791,
+        "num": 613791,
+        "word": "中国医科大无法毕业博士或被索赔百万",
+        "onboard_time": 1719474558,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464164,
+        "num": 464164,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430179,
+        "num": 430179,
+        "word": "张馨予说想要一个迪丽热巴",
+        "onboard_time": 1719473357,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406303,
+        "num": 406303,
+        "word": "番茄身上的缝合线是什么",
+        "onboard_time": 1719474558,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 249327,
+        "num": 300190,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57520,
+        "num": 279091,
+        "word": "魔兽世界开服",
+        "onboard_time": 1719475757,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 521738,
+        "num": 277156,
+        "word": "别再用水直接冲生肉了",
+        "onboard_time": 1719475999,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 265122,
+        "num": 265122,
+        "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+        "onboard_time": 1719466099,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262792,
+        "num": 262792,
+        "word": "白敬亭章若楠我承认之前声音大了点",
+        "onboard_time": 1719461960,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20572,
+        "num": 253154,
+        "word": "高考志愿怎么填才不后悔",
+        "onboard_time": 1719478818,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247416,
+        "num": 247416,
+        "word": "日本富士山发现三名濒死人员",
+        "onboard_time": 1719459557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222609,
+        "num": 222609,
+        "word": "凡希亚 来自天堂的魔鬼",
+        "onboard_time": 1719472638,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221042,
+        "num": 221042,
+        "word": "种地吧",
+        "onboard_time": 1719478158,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210508,
+        "num": 210508,
+        "word": "50岁姨姨健身14年爆改小姐姐",
+        "onboard_time": 1719471738,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201805,
+        "num": 201805,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1719479658,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435936,
+        "num": 201025,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374412,
+        "num": 195254,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347414,
+        "num": 192659,
+        "word": "大伯长期不吃主食全身多处皮肤糜烂",
+        "onboard_time": 1719468140,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312005,
+        "num": 191360,
+        "word": "养了一只98年出生的猫爷爷",
+        "onboard_time": 1719477857,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188047,
+        "num": 188047,
+        "word": "A股疑似再现杀猪盘",
+        "onboard_time": 1719471138,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 273291,
+        "num": 187758,
+        "word": "李雪琴未通过体育加分",
+        "onboard_time": 1719456197,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187127,
+        "num": 187127,
+        "word": "海底捞有门店推出美甲收费标准",
+        "onboard_time": 1719475577,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175111,
+        "num": 175111,
+        "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+        "onboard_time": 1719452117,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174595,
+        "num": 174595,
+        "word": "劳斯莱斯经销商降价111万",
+        "onboard_time": 1719478398,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172615,
+        "num": 172615,
+        "word": "高圆圆魏大勋张婧仪孙千合照",
+        "onboard_time": 1719480018,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412975,
+        "num": 171316,
+        "word": "钟薛高老林回应女主播直播时倒地",
+        "onboard_time": 1719479478,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168180,
+        "num": 168180,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1719478879,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165085,
+        "num": 165085,
+        "word": "刘楚恬 小桑稚",
+        "onboard_time": 1719461359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163455,
+        "num": 163455,
+        "word": "感情到了什么程度可以谈钱",
+        "onboard_time": 1719475218,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "杜江分享珍珠近况",
+        "onboard_time": 1719462200,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149906,
+        "num": 149906,
+        "word": "难哄",
+        "onboard_time": 1719478038,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149011,
+        "num": 149011,
+        "word": "歌手歌单",
+        "onboard_time": 1719462139,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147109,
+        "num": 147109,
+        "word": "黄宣 二十二",
+        "onboard_time": 1719468140,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145156,
+        "num": 145156,
+        "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+        "onboard_time": 1719453136,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61588,
+        "num": 144925,
+        "word": "最好吃的阿拉伯菜在义乌",
+        "onboard_time": 1719478818,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144771,
+        "num": 144771,
+        "word": "汪苏泷又多了一个名场面",
+        "onboard_time": 1719471979,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141695,
+        "num": 141695,
+        "word": "容易得糖尿病的1个坏习惯",
+        "onboard_time": 1719468020,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141528,
+        "num": 141528,
+        "word": "退钱哥谈国足进入死亡之组",
+        "onboard_time": 1719477918,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137728,
+        "num": 137728,
+        "word": "DYG战胜RW",
+        "onboard_time": 1719478998,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135059,
+        "num": 135059,
+        "word": "最靠谱的毕业旅行搭子是准考证",
+        "onboard_time": 1719479718,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 132695,
+        "word": "谢霆锋分享减肥法",
+        "onboard_time": 1719479358,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129683,
+        "num": 129683,
+        "word": "妻子失联民警警觉发现真相",
+        "onboard_time": 1719473599,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127065,
+        "num": 127065,
+        "word": "刚果金爆发猴痘病毒",
+        "onboard_time": 1719474018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126712,
+        "num": 126712,
+        "word": "林一说刘亦菲美貌拯救像素",
+        "onboard_time": 1719474138,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 125795,
+        "word": "国防部说我们从来不吃这一套",
+        "onboard_time": 1719479297,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
