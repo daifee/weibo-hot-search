@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719501698046,
+  "endTime": 1719502464325,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649360,
+      "num": 649360,
+      "word": "长期轻断食对身体有什么影响",
+      "onboard_time": 1719499221,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 647372,
       "num": 647372,
       "word": "李飞说TFBOYS有运气成分在",
@@ -481,14 +489,6 @@
       "onboard_time": 1719456857,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 548073,
-      "num": 548073,
-      "word": "长期轻断食对身体有什么影响",
-      "onboard_time": 1719499221,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 543913,
@@ -755,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 400607,
+      "num": 400607,
+      "word": "土狗",
+      "onboard_time": 1719498561,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 399226,
       "num": 399226,
       "word": "白玉兰提名红毯生图",
@@ -921,14 +929,6 @@
       "onboard_time": 1719449238,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 314434,
-      "num": 314434,
-      "word": "土狗",
-      "onboard_time": 1719498561,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 312702,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1719450557,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257672,
+      "num": 221550,
+      "word": "女生多吃这种水果可以瘦肚子",
+      "onboard_time": 1719500600,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254582,
@@ -1491,14 +1499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200804,
-      "num": 200804,
-      "word": "女生多吃这种水果可以瘦肚子",
-      "onboard_time": 1719500600,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 200237,
       "num": 200237,
       "word": "成龙张艺兴打戏",
@@ -1601,6 +1601,14 @@
       "onboard_time": 1719454457,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187166,
+      "num": 187166,
+      "word": "TF三代出道人数将在出道演唱会宣布",
+      "onboard_time": 1719502398,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 186965,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1719462018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172978,
+      "num": 172978,
+      "word": "乘风",
+      "onboard_time": 1719501560,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 170342,
@@ -1875,6 +1891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 156376,
+      "num": 156376,
+      "word": "张颂文的朋友圈好广",
+      "onboard_time": 1719498440,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156336,
       "num": 156336,
       "word": "课本中的夏天",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1719458778,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 150921,
-      "num": 150921,
-      "word": "张颂文的朋友圈好广",
-      "onboard_time": 1719498440,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 150868,
@@ -2523,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114818,
-      "num": 114818,
-      "word": "乘风",
-      "onboard_time": 1719501560,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114312,
       "num": 114312,
       "word": "嫦娥六号任务新闻发布会",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1719486559,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113423,
+      "num": 113423,
+      "word": "马锐眼中的赵丽颖",
+      "onboard_time": 1719502098,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113418,
@@ -2737,6 +2753,14 @@
       "onboard_time": 1719493219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93974,
+      "num": 93974,
+      "word": "哈圈乱成一锅粥了 快趁热喝了",
+      "onboard_time": 1719498440,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 92376,
