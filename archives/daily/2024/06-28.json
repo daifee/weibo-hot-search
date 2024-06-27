@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719530459715,
+  "endTime": 1719531274928,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -27,6 +27,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 625516,
+      "num": 625516,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581488,
       "num": 219671,
       "word": "几兄弟能把asen气死",
@@ -43,14 +51,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 530932,
-      "num": 530932,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 470497,
       "num": 470497,
       "word": "土狗",
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 468967,
-      "num": 258100,
+      "num": 261130,
       "word": "徐正溪退圈后状态",
       "onboard_time": 1719494719,
       "rank": 6,
@@ -83,12 +83,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423656,
+      "num": 423656,
+      "word": "湖人选中布朗尼",
+      "onboard_time": 1719529695,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407803,
       "num": 240455,
       "word": "李尚福被开除党籍",
       "onboard_time": 1719483078,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 397775,
+      "num": 185979,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 387905,
+      "num": 112865,
+      "word": "李雪琴陷体育加分风波",
+      "onboard_time": 1719526572,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 380263,
@@ -99,12 +123,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 344403,
-      "num": 158984,
-      "word": "洞鞋的苹果被两个阿姨抓了",
-      "onboard_time": 1719493157,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 349164,
+      "num": 349164,
+      "word": "asen",
+      "onboard_time": 1719529575,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 322676,
@@ -115,36 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320892,
+      "num": 185586,
+      "word": "Asen diss",
+      "onboard_time": 1719530475,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
       "onboard_time": 1719488178,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 299276,
-      "num": 94893,
-      "word": "李雪琴陷体育加分风波",
-      "onboard_time": 1719526572,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 298504,
-      "num": 298504,
-      "word": "asen",
-      "onboard_time": 1719529575,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 281942,
-      "num": 281942,
-      "word": "湖人选中布朗尼",
-      "onboard_time": 1719529695,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 267962,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191760,
+      "num": 191760,
+      "word": "有人领胖东来补偿倒贴300元原地消费",
+      "onboard_time": 1719492979,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190648,
       "num": 223985,
       "word": "梅雨季一次性内裤成了南方人刚需",
@@ -201,6 +217,14 @@
       "onboard_time": 1719493038,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177718,
+      "num": 177718,
+      "word": "法老 开玩笑的龚老师",
+      "onboard_time": 1719530775,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 174499,
@@ -225,14 +249,6 @@
       "onboard_time": 1719508515,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157269,
-      "num": 157269,
-      "word": "有人领胖东来补偿倒贴300元原地消费",
-      "onboard_time": 1719492979,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153331,
@@ -307,6 +323,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104196,
+      "num": 104196,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 104011,
+      "num": 104011,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102888,
       "num": 102888,
       "word": "TF三代出道人数将在出道演唱会宣布",
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 101315,
-      "num": 101315,
+      "num": 190125,
       "word": "女孩高考查分前车祸至今昏迷不醒",
       "onboard_time": 1719492559,
       "rank": 35,
@@ -337,6 +369,14 @@
       "onboard_time": 1719498440,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98055,
+      "num": 98055,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97113,
@@ -363,22 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91272,
-      "num": 91272,
-      "word": "出门两三个小时空调要不要关",
-      "onboard_time": 1719523270,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 90357,
-      "num": 90357,
-      "word": "饭后出现4个症状可能是胆囊炎",
-      "onboard_time": 1719494478,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87683,
       "num": 87683,
       "word": "女子裸辞35万年薪工作回村专职带娃",
@@ -387,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86638,
-      "num": 86638,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
+      "raw_hot": 87663,
+      "num": 87663,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 83107,
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74384,
+      "num": 74384,
+      "word": "7折保时捷5折BBA",
+      "onboard_time": 1719510852,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74099,
       "num": 87595,
       "word": "Hanni短发似乎就是为了这一刻",
@@ -451,12 +483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69689,
-      "num": 69689,
-      "word": "于正说王楚然是上戏表演系本科",
-      "onboard_time": 1719512412,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 68623,
+      "num": 68623,
+      "word": "陈情令粉丝特辑",
+      "onboard_time": 1719529455,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 66386,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 64027,
-      "num": 64027,
+      "num": 68260,
       "word": "张小斐方便脱个外套吗",
       "onboard_time": 1719507194,
       "rank": 34,
@@ -483,28 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59271,
-      "num": 59271,
-      "word": "7折保时捷5折BBA",
-      "onboard_time": 1719510852,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
       "onboard_time": 1719498859,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 57201,
-      "num": 57201,
-      "word": "陈情令粉丝特辑",
-      "onboard_time": 1719529455,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 53895,
@@ -547,28 +563,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34031,
-      "num": 42295,
-      "word": "神魂颠倒",
-      "onboard_time": 1719495199,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 33569,
-      "num": 181175,
+      "raw_hot": 38833,
+      "num": 183812,
       "word": "您用尽全力跟学生道别的样子让人泪目",
       "onboard_time": 1719529334,
       "rank": 9,
       "category": "教育"
     },
     {
-      "raw_hot": 29409,
-      "num": 46723,
+      "raw_hot": 34996,
+      "num": 92398,
       "word": "并蒂莲和同心莲同框绽放",
       "onboard_time": 1719530356,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 34031,
+      "num": 42295,
+      "word": "神魂颠倒",
+      "onboard_time": 1719495199,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 20162,
