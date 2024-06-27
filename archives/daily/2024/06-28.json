@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719526689875,
+  "endTime": 1719527693414,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297549,
+      "num": 297549,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267962,
       "num": 267962,
       "word": "日本扩大大陆架有悖联合国海洋法公约",
@@ -129,14 +137,6 @@
       "onboard_time": 1719483198,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 217406,
-      "num": 217406,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209949,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128325,
+      "num": 113132,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124765,
       "num": 124765,
       "word": "为什么通勤时间全都是算个人的",
@@ -265,14 +273,6 @@
       "onboard_time": 1719483799,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113132,
-      "num": 113132,
-      "word": "洞鞋的苹果被两个阿姨抓了",
-      "onboard_time": 1719493157,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 102888,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 91013,
-      "num": 50592,
+      "num": 50727,
       "word": "大奉打更人",
       "onboard_time": 1719512592,
       "rank": 22,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63191,
+      "num": 50834,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
@@ -475,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47337,
-      "num": 44509,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
+      "raw_hot": 48281,
+      "num": 48281,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 45810,
@@ -489,6 +497,14 @@
       "onboard_time": 1719511573,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45031,
+      "num": 45031,
+      "word": "李雪琴陷体育加分风波",
+      "onboard_time": 1719526572,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 43663,
@@ -507,15 +523,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32395,
-      "num": 32395,
-      "word": "出门两三个小时空调要不要关",
-      "onboard_time": 1719523270,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 25190,
+      "raw_hot": 28373,
       "num": 50084,
       "word": "7折保时捷5折BBA",
       "onboard_time": 1719510852,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 20162,
-      "num": 24848,
+      "num": 31039,
       "word": "拼团买猫粮还没收到平台已确认收货",
       "onboard_time": 1719517391,
       "rank": 43,
@@ -545,14 +553,6 @@
       "onboard_time": 1719513671,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14831,
-      "num": 24526,
-      "word": "李雪琴陷体育加分风波",
-      "onboard_time": 1719526572,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13420,

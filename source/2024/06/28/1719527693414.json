@@ -1,0 +1,410 @@
+{
+  "runTime": 1719527693414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 297549,
+        "num": 297549,
+        "word": "中国女子日本街头骑电动行李箱被罚",
+        "onboard_time": 1719521890,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253635,
+        "num": 253635,
+        "word": "黄子韬谈经纪人被抓",
+        "onboard_time": 1719498561,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7599,
+        "num": 238736,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236051,
+        "num": 236051,
+        "word": "长期轻断食对身体有什么影响",
+        "onboard_time": 1719499221,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123728,
+        "num": 123728,
+        "word": "徐正溪退圈后状态",
+        "onboard_time": 1719494719,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76729,
+        "num": 76729,
+        "word": "美国外交官被发现死于基辅一酒店",
+        "onboard_time": 1719486019,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94001,
+        "num": 76443,
+        "word": "Asen新专辑",
+        "onboard_time": 1719505038,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93065,
+        "num": 76171,
+        "word": "歌手迎首位国际冲榜歌手",
+        "onboard_time": 1719487220,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75873,
+        "num": 75873,
+        "word": "有人领胖东来补偿倒贴300元原地消费",
+        "onboard_time": 1719492979,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72712,
+        "num": 72712,
+        "word": "实验犬中98%犬只都是比格犬",
+        "onboard_time": 1719496940,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180827,
+        "num": 72108,
+        "word": "2岁女童因尿裤子被打店员大喊报警",
+        "onboard_time": 1719493517,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 71591,
+        "word": "洞鞋的苹果被两个阿姨抓了",
+        "onboard_time": 1719493157,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70663,
+        "num": 70663,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66578,
+        "num": 66578,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63863,
+        "num": 63863,
+        "word": "几兄弟能把asen气死",
+        "onboard_time": 1719505516,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63125,
+        "num": 63125,
+        "word": "不必要的女士优先到此为止吧",
+        "onboard_time": 1719493038,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57890,
+        "num": 57890,
+        "word": "张小斐方便脱个外套吗",
+        "onboard_time": 1719507194,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57231,
+        "num": 57231,
+        "word": "肖战陈情令在日本有多火",
+        "onboard_time": 1719487458,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51358,
+        "num": 51358,
+        "word": "乘风",
+        "onboard_time": 1719501560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47871,
+        "num": 50929,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63191,
+        "num": 50834,
+        "word": "为什么有些人坚持健身反而更显老",
+        "onboard_time": 1719521831,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56563,
+        "num": 50790,
+        "word": "女生多吃这种水果可以瘦肚子",
+        "onboard_time": 1719500600,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50727,
+        "num": 50727,
+        "word": "大奉打更人",
+        "onboard_time": 1719512592,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48402,
+        "num": 48402,
+        "word": "哈圈乱成一锅粥了 快趁热喝了",
+        "onboard_time": 1719498440,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48281,
+        "num": 48281,
+        "word": "出门两三个小时空调要不要关",
+        "onboard_time": 1719523270,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45031,
+        "num": 45031,
+        "word": "李雪琴陷体育加分风波",
+        "onboard_time": 1719526572,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44993,
+        "num": 44993,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36833,
+        "num": 44097,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35393,
+        "num": 43909,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25598,
+        "num": 43839,
+        "word": "中国共产党的政治智慧",
+        "onboard_time": 1719496160,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43811,
+        "num": 43811,
+        "word": "玲子怀孕",
+        "onboard_time": 1719488839,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41728,
+        "num": 41728,
+        "word": "饭后出现4个症状可能是胆囊炎",
+        "onboard_time": 1719494478,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40547,
+        "num": 40547,
+        "word": "墨雨云间导演三次婉拒王星越吻戏",
+        "onboard_time": 1719489617,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36387,
+        "num": 36387,
+        "word": "龚琳娜回应法老diss",
+        "onboard_time": 1719488178,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35502,
+        "num": 35502,
+        "word": "于正说王楚然是上戏表演系本科",
+        "onboard_time": 1719512412,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 33419,
+        "word": "为什么通勤时间全都是算个人的",
+        "onboard_time": 1719495619,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32265,
+        "num": 32265,
+        "word": "没有一个秀人能活着走出这段",
+        "onboard_time": 1719503838,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32151,
+        "num": 32151,
+        "word": "歌手 想一出是一出",
+        "onboard_time": 1719494358,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31422,
+        "num": 31422,
+        "word": "女孩高考查分前车祸至今昏迷不醒",
+        "onboard_time": 1719492559,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28946,
+        "num": 31400,
+        "word": "约会后像被遗弃的感觉",
+        "onboard_time": 1719502519,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28373,
+        "num": 31345,
+        "word": "7折保时捷5折BBA",
+        "onboard_time": 1719510852,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25928,
+        "num": 31305,
+        "word": "李飞说TFBOYS有运气成分在",
+        "onboard_time": 1719496220,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24873,
+        "num": 31277,
+        "word": "梅雨季一次性内裤成了南方人刚需",
+        "onboard_time": 1719493400,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24820,
+        "num": 31235,
+        "word": "张婧仪皱眉也好漂亮",
+        "onboard_time": 1719508035,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23402,
+        "num": 31213,
+        "word": "土狗",
+        "onboard_time": 1719498561,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22321,
+        "num": 31138,
+        "word": "digi大战活死人",
+        "onboard_time": 1719508515,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20602,
+        "num": 31122,
+        "word": "Hanni短发似乎就是为了这一刻",
+        "onboard_time": 1719493639,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18715,
+        "num": 31087,
+        "word": "李海仁发声",
+        "onboard_time": 1719497781,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18546,
+        "num": 31039,
+        "word": "拼团买猫粮还没收到平台已确认收货",
+        "onboard_time": 1719517391,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16080,
+        "num": 30963,
+        "word": "新秀diss已写好",
+        "onboard_time": 1719490818,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
