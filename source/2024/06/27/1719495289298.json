@@ -1,0 +1,410 @@
+{
+  "runTime": 1719495289298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817393,
+        "num": 817393,
+        "word": "歌手迎首位国际冲榜歌手",
+        "onboard_time": 1719487220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573395,
+        "num": 573395,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41562,
+        "num": 572204,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617218,
+        "num": 561868,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998926,
+        "num": 550007,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697382,
+        "num": 545815,
+        "word": "玲子怀孕",
+        "onboard_time": 1719488839,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 597977,
+        "num": 533737,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 528899,
+        "num": 528899,
+        "word": "老公心疼老婆生娃不易雇3个月嫂",
+        "onboard_time": 1719489498,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434460,
+        "num": 434460,
+        "word": "肖战陈情令在日本有多火",
+        "onboard_time": 1719487458,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407144,
+        "num": 407144,
+        "word": "女孩高考查分前车祸至今昏迷不醒",
+        "onboard_time": 1719492559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895049,
+        "num": 401917,
+        "word": "有人领胖东来补偿倒贴300元原地消费",
+        "onboard_time": 1719492979,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500567,
+        "num": 398668,
+        "word": "徐正溪退圈后状态",
+        "onboard_time": 1719494719,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414303,
+        "num": 392957,
+        "word": "龚琳娜回应法老diss",
+        "onboard_time": 1719488178,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378489,
+        "num": 378489,
+        "word": "2岁女童因尿裤子被打店员大喊报警",
+        "onboard_time": 1719493517,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371447,
+        "num": 371447,
+        "word": "美国外交官被发现死于基辅一酒店",
+        "onboard_time": 1719486019,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332035,
+        "num": 332035,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325909,
+        "num": 325909,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323434,
+        "num": 323434,
+        "word": "袁娅维被那姐偷走两颗水钻",
+        "onboard_time": 1719490878,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310385,
+        "num": 310385,
+        "word": "梅雨季一次性内裤成了南方人刚需",
+        "onboard_time": 1719493400,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20304,
+        "num": 287419,
+        "word": "12岁女孩剪掉10年长发捐白血病患儿",
+        "onboard_time": 1719495139,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 355305,
+        "num": 286791,
+        "word": "王星越正是喜欢亲嘴的年纪",
+        "onboard_time": 1719484638,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281666,
+        "num": 281666,
+        "word": "孙俪问邓超是想和她拉近距离吗",
+        "onboard_time": 1719492378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264404,
+        "num": 264404,
+        "word": "不必要的女士优先到此为止吧",
+        "onboard_time": 1719493038,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246008,
+        "num": 246008,
+        "word": "官方回应姜萍月考数学83分",
+        "onboard_time": 1719495260,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232897,
+        "num": 232897,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213944,
+        "num": 213944,
+        "word": "白玉兰提名红毯生图",
+        "onboard_time": 1719488538,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201221,
+        "num": 201221,
+        "word": "歌手 想一出是一出",
+        "onboard_time": 1719494358,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96417,
+        "num": 200821,
+        "word": "超20城买房送户口",
+        "onboard_time": 1719493219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200558,
+        "num": 200558,
+        "word": "新秀diss已写好",
+        "onboard_time": 1719490818,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191370,
+        "num": 191370,
+        "word": "墨雨云间导演三次婉拒王星越吻戏",
+        "onboard_time": 1719489617,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190449,
+        "num": 190449,
+        "word": "顾客胖东来排长龙办退款",
+        "onboard_time": 1719480678,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181617,
+        "num": 181617,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177411,
+        "num": 177411,
+        "word": "洞鞋的苹果被两个阿姨抓了",
+        "onboard_time": 1719493157,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169250,
+        "num": 169250,
+        "word": "一加手表",
+        "onboard_time": 1719487819,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 164814,
+        "word": "丁克老人为自己买骨灰盒",
+        "onboard_time": 1719493400,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "Hanni短发似乎就是为了这一刻",
+        "onboard_time": 1719493639,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146939,
+        "num": 146939,
+        "word": "一加Ace3Pro",
+        "onboard_time": 1719492318,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13395,
+        "num": 146340,
+        "word": "王传君孟子义合唱快乐崇拜",
+        "onboard_time": 1719494478,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146032,
+        "num": 146032,
+        "word": "用一首歌和校园回忆说告别",
+        "onboard_time": 1719494899,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144569,
+        "num": 144569,
+        "word": "张凌赫吃柠檬 酸汤肥牛",
+        "onboard_time": 1719486080,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "偶遇郑帝元",
+        "onboard_time": 1719490457,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132171,
+        "num": 132171,
+        "word": "你的名字8年是怎样的存在",
+        "onboard_time": 1719492619,
+        "rank": 41,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 126390,
+        "num": 126390,
+        "word": "油价",
+        "onboard_time": 1719494539,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118629,
+        "num": 118629,
+        "word": "王者荣耀 花里胡哨",
+        "onboard_time": 1719480498,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118589,
+        "num": 118589,
+        "word": "钟薛高主播",
+        "onboard_time": 1719478218,
+        "rank": 44,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 115460,
+        "num": 115460,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114896,
+        "num": 114896,
+        "word": "饭后出现4个症状可能是胆囊炎",
+        "onboard_time": 1719494478,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110167,
+        "num": 110167,
+        "word": "神魂颠倒",
+        "onboard_time": 1719495199,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105023,
+        "num": 105023,
+        "word": "时代峰峻说不会放松对二团的运营",
+        "onboard_time": 1719488657,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102786,
+        "num": 102786,
+        "word": "高考没考好怎么调整心态",
+        "onboard_time": 1719495199,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越命运共同体建设开局良好#"
+    }
+  }
+}

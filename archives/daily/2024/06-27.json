@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719494520167,
+  "endTime": 1719495289298,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -195,6 +195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 895049,
+      "num": 480046,
+      "word": "有人领胖东来补偿倒贴300元原地消费",
+      "onboard_time": 1719492979,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894759,
       "num": 784545,
       "word": "白敬亭章若楠我承认之前声音大了点",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 632467,
-      "num": 514829,
+      "num": 528899,
       "word": "老公心疼老婆生娃不易雇3个月嫂",
       "onboard_time": 1719489498,
       "rank": 9,
@@ -451,14 +459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 515842,
-      "num": 480046,
-      "word": "有人领胖东来补偿倒贴300元原地消费",
-      "onboard_time": 1719492979,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514935,
       "num": 514935,
       "word": "哪里人不爱出省读大学",
@@ -488,6 +488,14 @@
       "word": "杨紫出发巴黎",
       "onboard_time": 1719463818,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 500567,
+      "num": 398668,
+      "word": "徐正溪退圈后状态",
+      "onboard_time": 1719494719,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -659,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407144,
+      "num": 407144,
+      "word": "女孩高考查分前车祸至今昏迷不醒",
+      "onboard_time": 1719492559,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406303,
       "num": 406303,
       "word": "番茄身上的缝合线是什么",
@@ -697,6 +713,14 @@
       "onboard_time": 1719451158,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378489,
+      "num": 378489,
+      "word": "2岁女童因尿裤子被打店员大喊报警",
+      "onboard_time": 1719493517,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376849,
@@ -835,20 +859,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310385,
+      "num": 310385,
+      "word": "梅雨季一次性内裤成了南方人刚需",
+      "onboard_time": 1719493400,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "宋轶颜心记版消失的她",
       "onboard_time": 1719452656,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310224,
-      "num": 310224,
-      "word": "女孩高考查分前车祸至今昏迷不醒",
-      "onboard_time": 1719492559,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305492,
@@ -1043,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264404,
+      "num": 264404,
+      "word": "不必要的女士优先到此为止吧",
+      "onboard_time": 1719493038,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
@@ -1091,27 +1123,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246008,
+      "num": 246008,
+      "word": "官方回应姜萍月考数学83分",
+      "onboard_time": 1719495260,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245987,
       "num": 552564,
       "word": "情侣救了一只小羊获一群羊感谢",
       "onboard_time": 1719455777,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239301,
-      "num": 239301,
-      "word": "不必要的女士优先到此为止吧",
-      "onboard_time": 1719493038,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 236377,
-      "num": 236377,
-      "word": "梅雨季一次性内裤成了南方人刚需",
-      "onboard_time": 1719493400,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1208,14 +1232,6 @@
       "word": "毒贩在禁毒视频下打广告被抓",
       "onboard_time": 1719412037,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222724,
-      "num": 222724,
-      "word": "2岁女童因尿裤子被打店员大喊报警",
-      "onboard_time": 1719493517,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1369,14 @@
       "onboard_time": 1719445637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201221,
+      "num": 201221,
+      "word": "歌手 想一出是一出",
+      "onboard_time": 1719494358,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 201034,
@@ -1627,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164814,
+      "num": 164814,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "上海电视节",
@@ -1635,8 +1667,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160855,
-      "num": 160855,
+      "raw_hot": 161131,
+      "num": 161131,
       "word": "Hanni短发似乎就是为了这一刻",
       "onboard_time": 1719493639,
       "rank": 32,
@@ -1745,14 +1777,6 @@
       "onboard_time": 1719452357,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152162,
-      "num": 152162,
-      "word": "丁克老人为自己买骨灰盒",
-      "onboard_time": 1719493400,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 151734,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1719473599,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146032,
+      "num": 146032,
+      "word": "用一首歌和校园回忆说告别",
+      "onboard_time": 1719494899,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 145874,
@@ -2099,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132171,
+      "num": 132171,
+      "word": "你的名字8年是怎样的存在",
+      "onboard_time": 1719492619,
+      "rank": 42,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 131839,
       "num": 131839,
       "word": "刚果金爆发猴痘病毒",
@@ -2163,20 +2203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126390,
+      "num": 126390,
+      "word": "油价",
+      "onboard_time": 1719494539,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126179,
       "num": 126179,
       "word": "华晨宇说四面台能看清歌迷表情",
       "onboard_time": 1719485299,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125914,
-      "num": 125914,
-      "word": "你的名字8年是怎样的存在",
-      "onboard_time": 1719492619,
-      "rank": 42,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 125613,
@@ -2275,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114896,
+      "num": 114896,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114312,
       "num": 114312,
       "word": "嫦娥六号任务新闻发布会",
@@ -2347,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110167,
+      "num": 110167,
+      "word": "神魂颠倒",
+      "onboard_time": 1719495199,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109207,
       "num": 109207,
       "word": "二十届三中全会7月15日至18日召开",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1719490099,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105826,
-      "num": 105826,
-      "word": "歌手 想一出是一出",
-      "onboard_time": 1719494358,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 105469,
@@ -2392,6 +2440,14 @@
       "word": "来中国科大和图恒宇做同学",
       "onboard_time": 1719482238,
       "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 102786,
+      "num": 102786,
+      "word": "高考没考好怎么调整心态",
+      "onboard_time": 1719495199,
+      "rank": 49,
       "category": "教育"
     },
     {
@@ -2449,6 +2505,14 @@
       "onboard_time": 1719488058,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96417,
+      "num": 480058,
+      "word": "超20城买房送户口",
+      "onboard_time": 1719493219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92376,
@@ -2545,14 +2609,6 @@
       "onboard_time": 1719443716,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79413,
-      "num": 79413,
-      "word": "饭后出现4个症状可能是胆囊炎",
-      "onboard_time": 1719494478,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74279,
@@ -2657,14 +2713,6 @@
       "onboard_time": 1719418755,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64585,
-      "num": 480058,
-      "word": "超20城买房送户口",
-      "onboard_time": 1719493219,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64412,
@@ -2939,6 +2987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 20304,
+      "num": 287419,
+      "word": "12岁女孩剪掉10年长发捐白血病患儿",
+      "onboard_time": 1719495139,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 16178,
       "num": 159173,
       "word": "美国男子因游戏争执怒奔网友家伤人",
@@ -2979,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13395,
+      "num": 146340,
+      "word": "王传君孟子义合唱快乐崇拜",
+      "onboard_time": 1719494478,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13091,
       "num": 16236,
       "word": "原神4.7版本",
@@ -3001,14 +3065,6 @@
       "onboard_time": 1719426312,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 5792,
-      "num": 79285,
-      "word": "王传君孟子义合唱快乐崇拜",
-      "onboard_time": 1719494478,
-      "rank": 48,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
