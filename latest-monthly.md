@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 18:22:27
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 18:38:42
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
+李尚福被开除党籍（热度：5048086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
 高考（热度：4887908）
 </a>
@@ -161,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%8D%B7%E6%B2%A1%E4%BA%86%23" target="weibo">
 乙卷没了（热度：3771891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%87%A4%E5%92%8C%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
+魏凤和被开除党籍（热度：3663335）
 </a>
 </li>
 
@@ -591,12 +603,6 @@ fine乐团能不能留下（热度：2043691）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
-李尚福被开除党籍（热度：2024881）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%20%E6%88%91%E6%81%A8%E4%BD%A0%23" target="weibo">
 数学 我恨你（热度：2012394）
 </a>
@@ -917,12 +923,6 @@ Manner发表声明（热度：1856999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E6%8C%91%E8%A1%85%23" target="weibo">
 孙兴慜挑衅（热度：1768535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%87%A4%E5%92%8C%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
-魏凤和被开除党籍（热度：1761755）
 </a>
 </li>
 
@@ -2799,6 +2799,12 @@ Manner咖啡（热度：1202482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8Fdiss%23" target="weibo">
+杨和苏diss（热度：1160877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E6%88%91%E6%89%BF%E8%AE%A4%E6%88%91%E9%94%99%E4%BA%86%23" target="weibo">
 于正 我承认我错了（热度：1160740）
 </a>
@@ -3329,6 +3335,12 @@ Jennie 晚奶（热度：1084973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 安徽高考分数线（热度：1077125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA%E9%97%AE%E9%A2%98%E7%A7%BB%E9%80%81%E5%86%9B%E4%BA%8B%E6%A3%80%E5%AF%9F%E6%9C%BA%E5%85%B3%23" target="weibo">
+李尚福涉嫌犯罪问题移送军事检察机关（热度：1076626）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Karina开球（热度：759481）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%23" target="weibo">
 高考化学（热度：744425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E9%A9%BBTikTok%23" target="weibo">
-特朗普入驻TikTok（热度：744403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A0%E8%AF%AD%E7%9A%84bug%23" target="weibo">
-发现朋友圈一个很无语的bug（热度：744402）
 </a>
 </li>
 

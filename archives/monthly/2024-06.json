@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719483747595,
+  "endTime": 1719484722371,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5048086,
+      "num": 6298086,
+      "word": "李尚福被开除党籍",
+      "onboard_time": 1719483078,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4887908,
       "num": 4887908,
       "word": "高考",
@@ -201,6 +209,14 @@
       "onboard_time": 1717733304,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3663335,
+      "num": 3826670,
+      "word": "魏凤和被开除党籍",
+      "onboard_time": 1719483198,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3609925,
@@ -771,14 +787,6 @@
       "category": "互联网,情感"
     },
     {
-      "raw_hot": 2024881,
-      "num": 2024881,
-      "word": "李尚福被开除党籍",
-      "onboard_time": 1719483078,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 2012394,
       "num": 2012394,
       "word": "数学 我恨你",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1718106979,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1761755,
-      "num": 1761755,
-      "word": "魏凤和被开除党籍",
-      "onboard_time": 1719483198,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1756676,
@@ -3715,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1160877,
+      "num": 1160877,
+      "word": "杨和苏diss",
+      "onboard_time": 1719483498,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1160740,
       "num": 1160740,
       "word": "于正 我承认我错了",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1719277939,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1076626,
+      "num": 1076626,
+      "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+      "onboard_time": 1719483799,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1075650,
@@ -6036,7 +6052,7 @@
     },
     {
       "raw_hot": 891229,
-      "num": 256836,
+      "num": 262286,
       "word": "家长月入一万不够孩子研学游七天",
       "onboard_time": 1719469039,
       "rank": 30,
@@ -8259,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732982,
+      "num": 732982,
+      "word": "顾客胖东来排长龙办退款",
+      "onboard_time": 1719480678,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732889,
       "num": 732889,
       "word": "董璇女儿cos姜梨",
@@ -8361,14 +8385,6 @@
       "onboard_time": 1718870539,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 729370,
-      "num": 729370,
-      "word": "顾客胖东来排长龙办退款",
-      "onboard_time": 1719480678,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729341,
@@ -20875,6 +20891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375488,
+      "num": 375488,
+      "word": "娜扎丞磊大大方方营业",
+      "onboard_time": 1719482419,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 375216,
       "num": 375216,
       "word": "南方暴雨",
@@ -22425,6 +22449,14 @@
       "onboard_time": 1717211838,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350011,
+      "num": 350011,
+      "word": "王者荣耀 花里胡哨",
+      "onboard_time": 1719480498,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 349970,
@@ -25875,6 +25907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 299519,
+      "num": 299519,
+      "word": "国防部说我们从来不吃这一套",
+      "onboard_time": 1719479297,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 299508,
       "num": 299508,
       "word": "六级竹子",
@@ -26481,14 +26521,6 @@
       "onboard_time": 1718793679,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 292838,
-      "num": 292838,
-      "word": "王者荣耀 花里胡哨",
-      "onboard_time": 1719480498,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 292785,
@@ -29467,14 +29499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259965,
-      "num": 259965,
-      "word": "娜扎丞磊大大方方营业",
-      "onboard_time": 1719482419,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 259926,
       "num": 250798,
       "word": "佟大为 黄牡丹",
@@ -30185,14 +30209,6 @@
       "onboard_time": 1717218797,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250856,
-      "num": 250856,
-      "word": "杨和苏diss",
-      "onboard_time": 1719483498,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 250832,
@@ -31873,6 +31889,14 @@
       "onboard_time": 1718248699,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235731,
+      "num": 235731,
+      "word": "陈哲远P腿了吧",
+      "onboard_time": 1719482598,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235515,
@@ -34087,14 +34111,6 @@
       "num": 219124,
       "word": "奥利 合作",
       "onboard_time": 1718239580,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219029,
-      "num": 219029,
-      "word": "陈哲远P腿了吧",
-      "onboard_time": 1719482598,
       "rank": 27,
       "category": "综艺"
     },
@@ -40987,6 +41003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190820,
+      "num": 190820,
+      "word": "王星越正是喜欢亲嘴的年纪",
+      "onboard_time": 1719484638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190796,
       "num": 190796,
       "word": "嫦娥六号欢迎回家",
@@ -44347,6 +44371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177394,
+      "num": 177394,
+      "word": "张杰未live开往1982巡回演唱会",
+      "onboard_time": 1719483498,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177370,
       "num": 177370,
       "word": "赤水丰隆没来但杨康来了",
@@ -44929,14 +44961,6 @@
       "onboard_time": 1717845917,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174979,
-      "num": 174979,
-      "word": "国防部说我们从来不吃这一套",
-      "onboard_time": 1719479297,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174972,
@@ -48467,14 +48491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161598,
-      "num": 161598,
-      "word": "张杰未live开往1982巡回演唱会",
-      "onboard_time": 1719483498,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 161584,
       "num": 161584,
       "word": "五十公里桃花坞",
@@ -49929,6 +49945,14 @@
       "onboard_time": 1718877319,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156859,
+      "num": 156859,
+      "word": "女子裸辞35万年薪工作回村专职带娃",
+      "onboard_time": 1719484098,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156854,
@@ -73355,6 +73379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51553,
+      "num": 307199,
+      "word": "文科生要不要报财经类志愿",
+      "onboard_time": 1719482778,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 51523,
       "num": 292528,
       "word": "大熊猫像极了假期瘫在家的我",
@@ -73624,6 +73656,14 @@
       "word": "万千气象看广东",
       "onboard_time": 1717209377,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49816,
+      "num": 377096,
+      "word": "妈妈生病6岁儿子挂号缴费守着输液瓶",
+      "onboard_time": 1719483198,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -74443,6 +74483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43466,
+      "num": 1501853,
+      "word": "100秒听见嫦娥六号月背之旅",
+      "onboard_time": 1719481459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43465,
       "num": 43465,
       "word": "福宝爱吃的都在蛋糕里",
@@ -74593,14 +74641,6 @@
       "onboard_time": 1718580735,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42495,
-      "num": 352687,
-      "word": "妈妈生病6岁儿子挂号缴费守着输液瓶",
-      "onboard_time": 1719483198,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42488,
@@ -75705,14 +75745,6 @@
       "onboard_time": 1718653391,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 36270,
-      "num": 1501853,
-      "word": "100秒听见嫦娥六号月背之旅",
-      "onboard_time": 1719481459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36250,
@@ -77131,14 +77163,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 27717,
-      "num": 298661,
-      "word": "文科生要不要报财经类志愿",
-      "onboard_time": 1719482778,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27654,
       "num": 205161,
       "word": "于和伟问界M9野生销售员",
@@ -77492,7 +77516,7 @@
     },
     {
       "raw_hot": 25539,
-      "num": 572878,
+      "num": 1287981,
       "word": "科学报国正当时",
       "onboard_time": 1719480079,
       "rank": 2,
@@ -78851,6 +78875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15453,
+      "num": 130447,
+      "word": "国内外培养医生有什么不同",
+      "onboard_time": 1719482778,
+      "rank": 39,
+      "category": "健康医疗,教育"
+    },
+    {
       "raw_hot": 15387,
       "num": 128512,
       "word": "怎么有人看谁都深情啊",
@@ -79441,14 +79473,6 @@
       "onboard_time": 1718646733,
       "rank": 25,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11886,
-      "num": 130447,
-      "word": "国内外培养医生有什么不同",
-      "onboard_time": 1719482778,
-      "rank": 39,
-      "category": "健康医疗,教育"
     },
     {
       "raw_hot": 11845,
