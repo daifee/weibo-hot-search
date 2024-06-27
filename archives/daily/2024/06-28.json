@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719505468723,
+  "endTime": 1719506415147,
   "band_list": [
     {
       "raw_hot": 1073177,
@@ -27,6 +27,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 479234,
+      "num": 172585,
+      "word": "Asen新专辑",
+      "onboard_time": 1719505038,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470497,
       "num": 470497,
       "word": "土狗",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 456124,
-      "num": 254010,
+      "num": 416341,
       "word": "乘风",
       "onboard_time": 1719501560,
       "rank": 7,
@@ -83,20 +91,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285037,
+      "num": 231316,
+      "word": "杨和苏diss",
+      "onboard_time": 1719483498,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 267962,
+      "num": 267962,
+      "word": "日本扩大大陆架有悖联合国海洋法公约",
+      "onboard_time": 1719496519,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258609,
       "num": 258609,
       "word": "实验犬中98%犬只都是比格犬",
       "onboard_time": 1719496940,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231316,
-      "num": 231316,
-      "word": "杨和苏diss",
-      "onboard_time": 1719483498,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 227908,
@@ -113,6 +129,14 @@
       "onboard_time": 1719500600,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204352,
+      "num": 134188,
+      "word": "几兄弟能把asen气死",
+      "onboard_time": 1719505516,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 203577,
@@ -139,15 +163,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164002,
-      "num": 152065,
-      "word": "肖战陈情令在日本有多火",
-      "onboard_time": 1719487458,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161693,
+      "raw_hot": 174499,
       "num": 151597,
       "word": "没有一个秀人能活着走出这段",
       "onboard_time": 1719503838,
@@ -155,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159491,
-      "num": 150630,
-      "word": "Asen新专辑",
-      "onboard_time": 1719505038,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 164002,
+      "num": 152065,
+      "word": "肖战陈情令在日本有多火",
+      "onboard_time": 1719487458,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 153331,
@@ -387,12 +403,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 50858,
+      "raw_hot": 53895,
       "num": 245777,
       "word": "欧洲杯赌球赔率暗藏玄机",
       "onboard_time": 1719496821,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49639,
+      "num": 66139,
+      "word": "LGD战胜BLG",
+      "onboard_time": 1719498859,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 11877,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#科技向新#"
+    },
+    {
+      "word": "#中越命运共同体建设开局良好#"
     }
   ]
 }
