@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719509724633,
+  "endTime": 1719512656816,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -13843,6 +13843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 60250,
+      "num": 50523,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59991,
       "num": 59991,
       "word": "奥地利小组第一出线",
@@ -14451,6 +14459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38550,
+      "num": 50319,
+      "word": "mercy 抽象",
+      "onboard_time": 1719511573,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38317,
       "num": 117719,
       "word": "女孩中考874分本人超淡定妈妈超激动",
@@ -14881,6 +14897,14 @@
       "onboard_time": 1719154819,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25190,
+      "num": 50084,
+      "word": "7折保时捷5折BBA",
+      "onboard_time": 1719510852,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 24891,

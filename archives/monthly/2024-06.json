@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719509724633,
+  "endTime": 1719512656816,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -72827,6 +72827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60250,
+      "num": 50523,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60092,
       "num": 102668,
       "word": "高三男孩右手献血左手复习",
@@ -76235,6 +76243,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 38550,
+      "num": 50319,
+      "word": "mercy 抽象",
+      "onboard_time": 1719511573,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38530,
       "num": 897290,
       "word": "阔步向前的中国航天在帮更多人圆梦",
@@ -78441,6 +78457,14 @@
       "onboard_time": 1717235357,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25190,
+      "num": 50084,
+      "word": "7折保时捷5折BBA",
+      "onboard_time": 1719510852,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 25150,
