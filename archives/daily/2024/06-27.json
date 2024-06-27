@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719456303258,
+  "endTime": 1719458518814,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -9,6 +9,14 @@
       "onboard_time": 1719452117,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1853313,
+      "num": 1853313,
+      "word": "李雪琴未通过体育加分",
+      "onboard_time": 1719456197,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 1622513,
@@ -67,12 +75,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 866500,
+      "num": 233144,
+      "word": "每天喝2.5L水坚持了一年的感受",
+      "onboard_time": 1719455716,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 841288,
+      "num": 758035,
+      "word": "李雪琴 游泳二级运动员",
+      "onboard_time": 1719456737,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 765599,
+      "num": 765599,
+      "word": "胖东来已关停卫生环境差擀面皮档口",
+      "onboard_time": 1719454637,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732154,
       "num": 254458,
       "word": "李雪琴同学回应",
       "onboard_time": 1719410358,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716578,
+      "num": 716578,
+      "word": "白敬亭暂别桑延",
+      "onboard_time": 1719456016,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 678719,
@@ -91,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 636366,
-      "num": 636366,
-      "word": "胖东来已关停卫生环境差擀面皮档口",
-      "onboard_time": 1719454637,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624894,
       "num": 624894,
       "word": "全国首个殡葬职业本科专业",
@@ -115,16 +147,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 563534,
-      "num": 563534,
+      "raw_hot": 567137,
+      "num": 567137,
       "word": "难哄杀青",
       "onboard_time": 1719455477,
       "rank": 25,
       "category": "剧集"
     },
     {
+      "raw_hot": 563746,
+      "num": 563746,
+      "word": "根本没空听张杰在唱什么",
+      "onboard_time": 1719456857,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 543913,
-      "num": 202852,
+      "num": 223035,
       "word": "给宝宝取了全国唯一的名字",
       "onboard_time": 1719444614,
       "rank": 20,
@@ -187,20 +227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452053,
+      "num": 452053,
+      "word": "大批00后即将抵达奥运赛场",
+      "onboard_time": 1719453977,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451948,
       "num": 220526,
       "word": "终于有24小时录制的综艺了",
       "onboard_time": 1719404718,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 443930,
-      "num": 443930,
-      "word": "大批00后即将抵达奥运赛场",
-      "onboard_time": 1719453977,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 423991,
@@ -243,12 +283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396311,
+      "num": 396311,
+      "word": "王者荣耀战令皮肤",
+      "onboard_time": 1719456376,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349970,
       "num": 349970,
       "word": "法老 27狗子来了",
       "onboard_time": 1719444736,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349593,
+      "num": 226837,
+      "word": "七月桃花运最旺的星座",
+      "onboard_time": 1719455716,
+      "rank": 30,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 348983,
@@ -292,7 +348,7 @@
     },
     {
       "raw_hot": 305492,
-      "num": 201018,
+      "num": 212070,
       "word": "不经意慢慢变有钱的习惯",
       "onboard_time": 1719453017,
       "rank": 22,
@@ -371,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265406,
+      "num": 265406,
+      "word": "专家称应立即叫停一元面值退市",
+      "onboard_time": 1719454937,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
@@ -392,6 +456,22 @@
       "word": "父亲上网刷视频得知女儿被霸凌",
       "onboard_time": 1719404177,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239549,
+      "num": 217087,
+      "word": "不是说提倡要孩子吗 我要这个",
+      "onboard_time": 1719456737,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 235782,
+      "num": 462607,
+      "word": "情侣救了一只小羊获一群羊感谢",
+      "onboard_time": 1719455777,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -451,14 +531,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 201609,
-      "num": 159175,
-      "word": "七月桃花运最旺的星座",
-      "onboard_time": 1719455716,
-      "rank": 30,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 201419,
       "num": 201419,
       "word": "韩国偶遇蔡依林",
@@ -467,12 +539,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194748,
-      "num": 194748,
-      "word": "白敬亭暂别桑延",
-      "onboard_time": 1719456016,
-      "rank": 25,
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "成龙张艺兴打戏",
+      "onboard_time": 1719457397,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197644,
+      "num": 197644,
+      "word": "章若楠杀青拍立得",
+      "onboard_time": 1719458059,
+      "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196045,
+      "num": 196045,
+      "word": "联合国秘书长回应玻利维亚政变",
+      "onboard_time": 1719456857,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 192521,
+      "num": 192521,
+      "word": "张艺兴官宣西安站巡演",
+      "onboard_time": 1719458419,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 188078,
@@ -491,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184308,
+      "num": 184308,
+      "word": "降薪引发基金经理离职潮",
+      "onboard_time": 1719458357,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 180787,
       "num": 143747,
       "word": "陈昊宇 弹幕",
@@ -499,28 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175112,
-      "num": 175112,
-      "word": "专家称应立即叫停一元面值退市",
-      "onboard_time": 1719454937,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 171474,
-      "num": 171474,
-      "word": "每天喝2.5L水坚持了一年的感受",
-      "onboard_time": 1719455716,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 170342,
       "num": 170342,
       "word": "原来小时候吃的都是这么细的糠",
       "onboard_time": 1719451158,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168869,
+      "num": 168869,
+      "word": "难哄首波阵容官宣",
+      "onboard_time": 1719458297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 158775,
@@ -651,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136588,
+      "num": 136588,
+      "word": "小夭立牌被扔是P图",
+      "onboard_time": 1719456797,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136360,
       "num": 136360,
       "word": "裴珠泫请aespa成员吃西瓜",
@@ -731,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123092,
+      "num": 123092,
+      "word": "魔兽世界怀旧服进不去",
+      "onboard_time": 1719449298,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120244,
       "num": 115636,
       "word": "王星越对李雪琴撒娇",
       "onboard_time": 1719454338,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120209,
+      "num": 120209,
+      "word": "魔兽世界排队",
+      "onboard_time": 1719456918,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 116368,
@@ -752,14 +872,6 @@
       "word": "朴成训发型",
       "onboard_time": 1719453317,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115247,
-      "num": 115247,
-      "word": "李雪琴未通过体育加分",
-      "onboard_time": 1719456197,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -803,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109826,
-      "num": 109826,
-      "word": "魔兽世界怀旧服进不去",
-      "onboard_time": 1719449298,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 102542,
       "num": 102542,
       "word": "柴犬为什么要捂着鼻子睡觉",
@@ -825,14 +929,6 @@
       "onboard_time": 1719391699,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97834,
-      "num": 462607,
-      "word": "情侣救了一只小羊获一群羊感谢",
-      "onboard_time": 1719455777,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97384,
@@ -937,6 +1033,14 @@
       "onboard_time": 1719443716,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77767,
+      "num": 567865,
+      "word": "美院毕业展作品被破坏",
+      "onboard_time": 1719457218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74279,
@@ -1115,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 39629,
+      "num": 198087,
+      "word": "大胆预测谁会身披灵龙为中国领奖",
+      "onboard_time": 1719457758,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38143,
       "num": 44991,
       "word": "毕业就是一场巨大的丢money",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1719436030,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23231,
+      "num": 174281,
+      "word": "喝霸王茶姬city不city",
+      "onboard_time": 1719458059,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 22448,
