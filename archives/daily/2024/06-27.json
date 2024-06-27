@@ -1,7 +1,15 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719452526743,
+  "endTime": 1719455694866,
   "band_list": [
+    {
+      "raw_hot": 2139115,
+      "num": 2139115,
+      "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+      "onboard_time": 1719452117,
+      "rank": 27,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1622513,
       "num": 1622513,
@@ -27,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103893,
+      "num": 1103893,
+      "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+      "onboard_time": 1719453136,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940348,
       "num": 940348,
       "word": "女孩考726分轰动全小区邻居放烟花",
@@ -43,12 +59,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 823765,
+      "num": 823765,
+      "word": "蒋敦豪 豪士",
+      "onboard_time": 1719454937,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732154,
       "num": 254458,
       "word": "李雪琴同学回应",
       "onboard_time": 1719410358,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678719,
+      "num": 678719,
+      "word": "NBA选秀 布朗尼",
+      "onboard_time": 1719451517,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 638347,
@@ -65,6 +97,14 @@
       "onboard_time": 1719450258,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554805,
+      "num": 554805,
+      "word": "全国首个殡葬职业本科专业",
+      "onboard_time": 1719453196,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 543913,
@@ -171,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 397385,
+      "num": 202605,
+      "word": "小狗不许上床",
+      "onboard_time": 1719451158,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349970,
       "num": 349970,
       "word": "法老 27狗子来了",
@@ -211,12 +259,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 303259,
-      "num": 202605,
-      "word": "小狗不许上床",
-      "onboard_time": 1719451158,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 311763,
+      "num": 311763,
+      "word": "胖东来已关停卫生环境差擀面皮档口",
+      "onboard_time": 1719454637,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311590,
+      "num": 311590,
+      "word": "大批00后即将抵达奥运赛场",
+      "onboard_time": 1719453977,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 310327,
+      "num": 310327,
+      "word": "宋轶颜心记版消失的她",
+      "onboard_time": 1719452656,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 305492,
+      "num": 197354,
+      "word": "不经意慢慢变有钱的习惯",
+      "onboard_time": 1719453017,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 302352,
@@ -283,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267885,
-      "num": 267885,
-      "word": "NBA选秀 布朗尼",
-      "onboard_time": 1719451517,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266296,
       "num": 266296,
       "word": "魔兽世界开服",
@@ -305,6 +369,14 @@
       "onboard_time": 1719448097,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258338,
+      "num": 258338,
+      "word": "崔永熙冲击NBA",
+      "onboard_time": 1719450557,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 253387,
@@ -339,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219501,
+      "num": 219501,
+      "word": "胖东来奖励顾客10万元",
+      "onboard_time": 1719454157,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213323,
       "num": 213323,
       "word": "城管局回应环卫工坐下休息被领导骂哭",
@@ -363,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195037,
-      "num": 195037,
-      "word": "胖东来为买擀面皮顾客补偿共883.3万元",
-      "onboard_time": 1719452117,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 194179,
+      "num": 194179,
+      "word": "难哄杀青",
+      "onboard_time": 1719455477,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188078,
+      "num": 188078,
+      "word": "裴文宣上朝演我上早八",
+      "onboard_time": 1719454457,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 185812,
@@ -393,14 +481,6 @@
       "onboard_time": 1719451158,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161558,
-      "num": 161558,
-      "word": "崔永熙冲击NBA",
-      "onboard_time": 1719450557,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 158775,
@@ -459,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145874,
+      "num": 145874,
+      "word": "王楚钦孙颖莎球场歌坛双得意",
+      "onboard_time": 1719454276,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145614,
       "num": 143656,
       "word": "赵露思到底摸到了什么",
@@ -507,12 +595,28 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "欧洲杯名画C罗被拉扯图",
+      "onboard_time": 1719452357,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139110,
       "num": 139110,
       "word": "种菜游戏暴雷涉及资金近3亿元",
       "onboard_time": 1719423792,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138425,
+      "num": 138425,
+      "word": "专家称应立即叫停一元面值退市",
+      "onboard_time": 1719454937,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 136360,
@@ -595,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120244,
+      "num": 115636,
+      "word": "王星越对李雪琴撒娇",
+      "onboard_time": 1719454338,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116368,
       "num": 116368,
       "word": "里萨谢当选NBA状元",
       "onboard_time": 1719450137,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115763,
+      "num": 115763,
+      "word": "朴成训发型",
+      "onboard_time": 1719453317,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115159,
@@ -643,12 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106454,
-      "num": 106454,
-      "word": "欧洲杯名画C罗被拉扯图",
-      "onboard_time": 1719452357,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 109826,
+      "num": 109826,
+      "word": "魔兽世界怀旧服进不去",
+      "onboard_time": 1719449298,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 102542,
@@ -748,7 +868,7 @@
     },
     {
       "raw_hot": 83880,
-      "num": 835719,
+      "num": 1069475,
       "word": "高校毕业季就是最好的招生简章",
       "onboard_time": 1719408079,
       "rank": 2,
@@ -889,6 +1009,14 @@
       "onboard_time": 1719384798,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50266,
+      "num": 454784,
+      "word": "致敬坐着睡着的泥人消防员",
+      "onboard_time": 1719453916,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49008,
