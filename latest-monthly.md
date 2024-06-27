@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 09:26:36
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 09:42:06
 </p>
 </blockquote>
 <p>
@@ -1173,6 +1173,12 @@ doc和docx有什么区别（热度：1718023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD49%E4%BA%BA48%E4%B8%AA%E9%AB%98%E8%80%83%E8%BF%87600%E5%88%86%23" target="weibo">
+全班49人48个高考过600分（热度：1622513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%8F%91%E5%B8%83%E6%AD%8C%E5%8D%95%23" target="weibo">
 歌手发布歌单（热度：1620995）
 </a>
@@ -1769,12 +1775,6 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E6%B7%B1%E5%9C%B3%E5%B7%A5%E5%8E%82%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%23" target="weibo">
 周大福深圳工厂停工停产（热度：1409099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD49%E4%BA%BA48%E4%B8%AA%E9%AB%98%E8%80%83%E8%BF%87600%E5%88%86%23" target="weibo">
-全班49人48个高考过600分（热度：1408573）
 </a>
 </li>
 
@@ -4101,6 +4101,12 @@ iPhone16全系尺寸曝光（热度：968426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83726%E5%88%86%E8%BD%B0%E5%8A%A8%E5%85%A8%E5%B0%8F%E5%8C%BA%E9%82%BB%E5%B1%85%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
+女孩考726分轰动全小区邻居放烟花（热度：940348）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%95%BF%E4%BA%B2%E8%87%AA%E5%BC%80%E9%A3%9E%E6%9C%BA%E7%A5%9D%E8%B4%BA%E9%AB%98%E8%80%83%E9%A1%BA%E5%88%A9%23" target="weibo">
 教育局长亲自开飞机祝贺高考顺利（热度：936433）
 </a>
@@ -5567,12 +5573,6 @@ A股（热度：766564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F2%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%A8%AA%E6%B8%A1%E6%BA%AA%E6%B5%81%E8%A2%AB%E5%86%B2%E8%B5%B0%23" target="weibo">
 浙江2名游客横渡溪流被冲走（热度：766313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83726%E5%88%86%E8%BD%B0%E5%8A%A8%E5%85%A8%E5%B0%8F%E5%8C%BA%E9%82%BB%E5%B1%85%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
-女孩考726分轰动全小区邻居放烟花（热度：765771）
 </a>
 </li>
 

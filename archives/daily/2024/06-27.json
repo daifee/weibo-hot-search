@@ -1,10 +1,10 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719451596267,
+  "endTime": 1719452526743,
   "band_list": [
     {
-      "raw_hot": 1408573,
-      "num": 1408573,
+      "raw_hot": 1622513,
+      "num": 1622513,
       "word": "全班49人48个高考过600分",
       "onboard_time": 1719448218,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 875208,
-      "num": 591275,
-      "word": "小夭立牌被扔垃圾桶",
-      "onboard_time": 1719446117,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 765771,
-      "num": 765771,
+      "raw_hot": 940348,
+      "num": 940348,
       "word": "女孩考726分轰动全小区邻居放烟花",
       "onboard_time": 1719449779,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 875208,
+      "num": 804342,
+      "word": "小夭立牌被扔垃圾桶",
+      "onboard_time": 1719446117,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 732154,
@@ -59,20 +59,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543913,
-      "num": 201805,
-      "word": "给宝宝取了全国唯一的名字",
-      "onboard_time": 1719444614,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 534320,
-      "num": 364309,
+      "raw_hot": 595891,
+      "num": 595891,
       "word": "霉霉高歌时遭飞虫入口",
       "onboard_time": 1719450258,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543913,
+      "num": 202852,
+      "word": "给宝宝取了全国唯一的名字",
+      "onboard_time": 1719444614,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 528192,
@@ -89,6 +89,14 @@
       "onboard_time": 1719417857,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 518661,
+      "num": 154260,
+      "word": "同房后该怎样正确清洗",
+      "onboard_time": 1719451636,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 514935,
@@ -131,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423991,
+      "num": 423991,
+      "word": "金价从最高点回落6%",
+      "onboard_time": 1719448158,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 415091,
-      "num": 201729,
+      "num": 202457,
       "word": "凑10万元提前还贷也好",
       "onboard_time": 1719445396,
       "rank": 21,
@@ -145,14 +161,6 @@
       "onboard_time": 1719409879,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 399632,
-      "num": 399632,
-      "word": "金价从最高点回落6%",
-      "onboard_time": 1719448158,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 398810,
@@ -188,11 +196,27 @@
     },
     {
       "raw_hot": 321446,
-      "num": 201574,
+      "num": 202343,
       "word": "研究人员称外星人可能已生活在地球上",
       "onboard_time": 1719445096,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316045,
+      "num": 202712,
+      "word": "身体这两个部位发黑建议去查查",
+      "onboard_time": 1719449238,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303259,
+      "num": 202605,
+      "word": "小狗不许上床",
+      "onboard_time": 1719451158,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 302352,
@@ -251,19 +275,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268691,
-      "num": 196663,
-      "word": "身体这两个部位发黑建议去查查",
-      "onboard_time": 1719449238,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 267979,
       "num": 267979,
       "word": "欧洲杯16强出炉",
       "onboard_time": 1719443716,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267885,
+      "num": 267885,
+      "word": "NBA选秀 布朗尼",
+      "onboard_time": 1719451517,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -273,6 +297,14 @@
       "onboard_time": 1719443415,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263975,
+      "num": 263975,
+      "word": "苹果称iPhone保值率超安卓至少40%",
+      "onboard_time": 1719448097,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 253387,
@@ -315,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201878,
-      "num": 201878,
-      "word": "苹果称iPhone保值率超安卓至少40%",
-      "onboard_time": 1719448097,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 202335,
+      "num": 202335,
+      "word": "公安厅介入呼和浩特一村5人遇害案",
+      "onboard_time": 1719451456,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 201419,
@@ -329,6 +361,14 @@
       "onboard_time": 1719445637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195037,
+      "num": 195037,
+      "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+      "onboard_time": 1719452117,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185812,
@@ -347,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170342,
+      "num": 170342,
+      "word": "原来小时候吃的都是这么细的糠",
+      "onboard_time": 1719451158,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161558,
       "num": 161558,
       "word": "崔永熙冲击NBA",
@@ -361,6 +409,14 @@
       "onboard_time": 1719413661,
       "rank": 16,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 155388,
+      "num": 155388,
+      "word": "NBA连续两届状元都是法国人",
+      "onboard_time": 1719450918,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 150868,
@@ -395,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148120,
-      "num": 148120,
-      "word": "小狗不许上床",
-      "onboard_time": 1719451158,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 147464,
+      "num": 147464,
+      "word": "蔡文静说近半年不想再拍综艺了",
+      "onboard_time": 1719420256,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 145614,
@@ -467,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136036,
-      "num": 136036,
-      "word": "蔡文静说近半年不想再拍综艺了",
-      "onboard_time": 1719420256,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 135784,
+      "num": 368696,
+      "word": "快递员带娃上门取件女子心疼自责",
+      "onboard_time": 1719450198,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133619,
@@ -500,11 +556,19 @@
     },
     {
       "raw_hot": 132427,
-      "num": 165478,
+      "num": 178834,
       "word": "新中国首位奥运旗手98岁了",
       "onboard_time": 1719445034,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128991,
+      "num": 128991,
+      "word": "度华年 老夫老妻",
+      "onboard_time": 1719452117,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 128508,
@@ -531,35 +595,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122684,
-      "num": 122684,
-      "word": "公安厅介入呼和浩特一村5人遇害案",
-      "onboard_time": 1719451456,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 116889,
-      "num": 116889,
-      "word": "NBA连续两届状元都是法国人",
-      "onboard_time": 1719450918,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116368,
       "num": 116368,
       "word": "里萨谢当选NBA状元",
       "onboard_time": 1719450137,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 115489,
-      "num": 115489,
-      "word": "NBA选秀 布朗尼",
-      "onboard_time": 1719451517,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -601,6 +641,14 @@
       "onboard_time": 1719429850,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106454,
+      "num": 106454,
+      "word": "欧洲杯名画C罗被拉扯图",
+      "onboard_time": 1719452357,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102542,
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 83880,
-      "num": 626968,
+      "num": 835719,
       "word": "高校毕业季就是最好的招生简章",
       "onboard_time": 1719408079,
       "rank": 2,
@@ -721,14 +769,6 @@
       "onboard_time": 1719443716,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77033,
-      "num": 368696,
-      "word": "快递员带娃上门取件女子心疼自责",
-      "onboard_time": 1719450198,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74279,
@@ -857,6 +897,14 @@
       "onboard_time": 1719419894,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48267,
+      "num": 346119,
+      "word": "店主不给救援队打折直接免单",
+      "onboard_time": 1719452057,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46183,
