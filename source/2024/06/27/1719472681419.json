@@ -1,0 +1,410 @@
+{
+  "runTime": 1719472681419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 894058,
+        "num": 894058,
+        "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+        "onboard_time": 1719466099,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652697,
+        "num": 652697,
+        "word": "白敬亭章若楠我承认之前声音大了点",
+        "onboard_time": 1719461960,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86903,
+        "num": 550659,
+        "word": "向9省份预拨4.96亿救灾资金",
+        "onboard_time": 1719462499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511431,
+        "num": 511431,
+        "word": "李雪琴未通过体育加分",
+        "onboard_time": 1719456197,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477989,
+        "num": 477989,
+        "word": "A股疑似再现杀猪盘",
+        "onboard_time": 1719471138,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 383434,
+        "num": 383434,
+        "word": "日本富士山发现三名濒死人员",
+        "onboard_time": 1719459557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503263,
+        "num": 380024,
+        "word": "黄宣 二十二",
+        "onboard_time": 1719468140,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372649,
+        "num": 372649,
+        "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+        "onboard_time": 1719452117,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325505,
+        "num": 325505,
+        "word": "杜江分享珍珠近况",
+        "onboard_time": 1719462200,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 323654,
+        "word": "50岁姨姨健身14年爆改小姐姐",
+        "onboard_time": 1719471738,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 323082,
+        "num": 323082,
+        "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+        "onboard_time": 1719453136,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318079,
+        "num": 318079,
+        "word": "A股",
+        "onboard_time": 1719471857,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279130,
+        "num": 279130,
+        "word": "汪苏泷又多了一个名场面",
+        "onboard_time": 1719471979,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271358,
+        "num": 271358,
+        "word": "刘楚恬 小桑稚",
+        "onboard_time": 1719461359,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234569,
+        "num": 234569,
+        "word": "吴谨言王星越吻戏没人喊停",
+        "onboard_time": 1719468620,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229160,
+        "num": 229160,
+        "word": "金价狂飙金店为何高兴不起来",
+        "onboard_time": 1719464420,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 222296,
+        "num": 222296,
+        "word": "王者荣耀内存",
+        "onboard_time": 1719465919,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211497,
+        "num": 211497,
+        "word": "刘若英 我认真要退休了",
+        "onboard_time": 1719466882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189037,
+        "num": 189037,
+        "word": "预售制个人拼团团长卷款跑路",
+        "onboard_time": 1719468020,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157610,
+        "num": 157610,
+        "word": "女孩考726分轰动全小区邻居放烟花",
+        "onboard_time": 1719449779,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 743659,
+        "num": 157137,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527226,
+        "num": 156916,
+        "word": "大伯长期不吃主食全身多处皮肤糜烂",
+        "onboard_time": 1719468140,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206620,
+        "num": 156039,
+        "word": "度华年公主驸马变狱友",
+        "onboard_time": 1719471738,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453252,
+        "num": 155560,
+        "word": "恋综男嘉宾把送女方的礼物卖了",
+        "onboard_time": 1719469578,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445977,
+        "num": 155330,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263366,
+        "num": 154486,
+        "word": "容易得糖尿病的1个坏习惯",
+        "onboard_time": 1719468020,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216943,
+        "num": 154170,
+        "word": "女儿高考688分妈妈豪横奖励18万",
+        "onboard_time": 1719469519,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201617,
+        "num": 153471,
+        "word": "有偷感这么重的男主进入国产剧",
+        "onboard_time": 1719464719,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190867,
+        "num": 153337,
+        "word": "差点以为迪丽热巴鼻影太重了",
+        "onboard_time": 1719458897,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185612,
+        "num": 152613,
+        "word": "汪苏泷 听见下雨的声音",
+        "onboard_time": 1719472037,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177644,
+        "num": 151906,
+        "word": "歌手歌单",
+        "onboard_time": 1719462139,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151770,
+        "num": 151770,
+        "word": "网传浪姐成团夜站位",
+        "onboard_time": 1719469638,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "张馨予男友视角照",
+        "onboard_time": 1719471318,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146771,
+        "num": 146771,
+        "word": "韩媒称汉拿山植物因泡面汤枯萎",
+        "onboard_time": 1719468499,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142624,
+        "num": 142624,
+        "word": "巴黎奥运会运动员房间没装空调",
+        "onboard_time": 1719471079,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141618,
+        "num": 141618,
+        "word": "胡塞武装首次宣布使用高超音速导弹",
+        "onboard_time": 1719463100,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139756,
+        "num": 139756,
+        "word": "虞书欣辣妹露腰T",
+        "onboard_time": 1719470718,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126989,
+        "num": 126989,
+        "word": "难哄首波阵容官宣",
+        "onboard_time": 1719458297,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124656,
+        "num": 124656,
+        "word": "小猫长胖了走不了自己的门",
+        "onboard_time": 1719472037,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124068,
+        "num": 124068,
+        "word": "李雪琴母校曾因体育加分涉假被查",
+        "onboard_time": 1719463700,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118245,
+        "num": 118245,
+        "word": "杨紫出发巴黎",
+        "onboard_time": 1719463818,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117189,
+        "num": 117189,
+        "word": "赵今麦演技",
+        "onboard_time": 1719466459,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112569,
+        "num": 112569,
+        "word": "五月天太原演唱会",
+        "onboard_time": 1719470839,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108678,
+        "num": 108678,
+        "word": "李宗翰否认整容",
+        "onboard_time": 1719468020,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109021,
+        "num": 108348,
+        "word": "李雪琴 游泳二级运动员",
+        "onboard_time": 1719456737,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107805,
+        "num": 107805,
+        "word": "一对单身母女同居养老",
+        "onboard_time": 1719464359,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107722,
+        "num": 107722,
+        "word": "凡希亚 来自天堂的魔鬼",
+        "onboard_time": 1719472638,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107517,
+        "num": 107517,
+        "word": "全班49人48个高考过600分",
+        "onboard_time": 1719448218,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 90764,
+        "word": "胖东来已关停卫生环境差擀面皮档口",
+        "onboard_time": 1719454637,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87643,
+        "num": 87643,
+        "word": "NBA选秀 布朗尼",
+        "onboard_time": 1719451517,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越命运共同体建设开局良好#"
+    }
+  }
+}

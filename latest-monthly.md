@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 14:39:48
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/27 15:18:01
 </p>
 </blockquote>
 <p>
@@ -5991,6 +5991,12 @@ Karina开球（热度：759481）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%9C%88%E5%85%A5%E4%B8%80%E4%B8%87%E4%B8%8D%E5%A4%9F%E5%AD%A9%E5%AD%90%E7%A0%94%E5%AD%A6%E6%B8%B8%E4%B8%83%E5%A4%A9%23" target="weibo">
+家长月入一万不够孩子研学游七天（热度：743659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9C%BC%20%E9%80%80%E7%A5%A8%23" target="weibo">
 猫眼 退票（热度：743622）
 </a>
@@ -6005,12 +6011,6 @@ Karina开球（热度：759481）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
 父亲节快乐（热度：743006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%B9%E8%AF%95%E5%8D%B7%E6%94%B9%E5%88%B0%E4%B8%80%E5%BC%A0%E6%9C%89%E7%AD%94%E6%A1%88%E7%9A%84%E8%AF%95%E5%8D%B7%23" target="weibo">
-改试卷改到一张有答案的试卷（热度：742926）
 </a>
 </li>
 
