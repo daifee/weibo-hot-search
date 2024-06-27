@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719524084300,
+  "endTime": 1719526689875,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -129,6 +129,14 @@
       "onboard_time": 1719483198,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 217406,
+      "num": 217406,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209949,
@@ -467,20 +475,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47337,
+      "num": 44509,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45810,
       "num": 50319,
       "word": "mercy 抽象",
       "onboard_time": 1719511573,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45470,
-      "num": 45470,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43663,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32395,
+      "num": 32395,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25190,
       "num": 50084,
       "word": "7折保时捷5折BBA",
@@ -507,16 +523,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 22529,
-      "num": 22529,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 20162,
-      "num": 21720,
+      "num": 24848,
       "word": "拼团买猫粮还没收到平台已确认收货",
       "onboard_time": 1719517391,
       "rank": 43,
@@ -539,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15645,
-      "num": 15645,
-      "word": "出门两三个小时空调要不要关",
-      "onboard_time": 1719523270,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 14831,
+      "num": 24526,
+      "word": "李雪琴陷体育加分风波",
+      "onboard_time": 1719526572,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13420,
