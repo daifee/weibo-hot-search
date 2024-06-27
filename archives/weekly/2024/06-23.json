@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719469626685,
+  "endTime": 1719470388064,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1006053,
+      "num": 1006053,
+      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+      "onboard_time": 1719466099,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1001175,
       "num": 1001175,
       "word": "都投了尚雯婕",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1719309497,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 854324,
-      "num": 854324,
-      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
-      "onboard_time": 1719466099,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 853106,
@@ -2771,6 +2771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466500,
+      "num": 190110,
+      "word": "家长月入一万不够孩子研学游七天",
+      "onboard_time": 1719469039,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466211,
       "num": 466211,
       "word": "人鱼 杀青",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1719210679,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432040,
+      "num": 197768,
+      "word": "大伯长期不吃主食全身多处皮肤糜烂",
+      "onboard_time": 1719468140,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431966,
@@ -3737,14 +3753,6 @@
       "onboard_time": 1719112457,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363913,
-      "num": 197768,
-      "word": "大伯长期不吃主食全身多处皮肤糜烂",
-      "onboard_time": 1719468140,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362404,
@@ -4763,6 +4771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281549,
+      "num": 281549,
+      "word": "王者荣耀内存",
+      "onboard_time": 1719465919,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281051,
       "num": 281051,
       "word": "负重一万斤长大 素媛案",
@@ -4915,14 +4931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270244,
-      "num": 270244,
-      "word": "王者荣耀内存",
-      "onboard_time": 1719465919,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 269772,
       "num": 269772,
       "word": "中央气象台今年首个暴雨红色预警",
@@ -4937,6 +4945,14 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268256,
+      "num": 163192,
+      "word": "恋综男嘉宾把送女方的礼物卖了",
+      "onboard_time": 1719469578,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 268022,
@@ -6859,14 +6875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 195583,
-      "num": 190110,
-      "word": "家长月入一万不够孩子研学游七天",
-      "onboard_time": 1719469039,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195527,
       "num": 195527,
       "word": "李一桐又演仙侠剧了",
@@ -7883,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170855,
+      "num": 159907,
+      "word": "女儿高考688分妈妈豪横奖励18万",
+      "onboard_time": 1719469519,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170734,
       "num": 191130,
       "word": "武汉大学没场硬转",
@@ -8723,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155944,
+      "num": 155944,
+      "word": "网传浪姐成团夜站位",
+      "onboard_time": 1719469638,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155848,
       "num": 155848,
       "word": "薛之谦加盟第五届TMEA",
@@ -9089,6 +9113,14 @@
       "onboard_time": 1719290300,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149520,
+      "num": 149520,
+      "word": "月影别墅三周年",
+      "onboard_time": 1719469578,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 149513,
@@ -9747,6 +9779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136102,
+      "num": 382734,
+      "word": "预售制个人拼团团长卷款跑路",
+      "onboard_time": 1719468020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -9841,6 +9881,14 @@
       "onboard_time": 1719397699,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134618,
+      "num": 134618,
+      "word": "法小",
+      "onboard_time": 1719469818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134477,
@@ -10401,14 +10449,6 @@
       "onboard_time": 1719388157,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124124,
-      "num": 124124,
-      "word": "恋综男嘉宾把送女方的礼物卖了",
-      "onboard_time": 1719469578,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 124073,
@@ -11363,28 +11403,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 106182,
-      "num": 106182,
-      "word": "月影别墅三周年",
-      "onboard_time": 1719469578,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 105840,
       "num": 105840,
       "word": "原神希格雯",
       "onboard_time": 1719314118,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105434,
-      "num": 105434,
-      "word": "女儿高考688分妈妈豪横奖励18万",
-      "onboard_time": 1719469519,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104853,
@@ -11417,6 +11441,14 @@
       "onboard_time": 1719117437,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "韩媒称汉拿山植物因泡面汤枯萎",
+      "onboard_time": 1719468499,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104114,
@@ -11561,6 +11593,14 @@
       "onboard_time": 1719406218,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 100160,
+      "num": 100160,
+      "word": "退钱哥甲亢哥合影",
+      "onboard_time": 1719470358,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99846,
@@ -11920,14 +11960,6 @@
       "word": "收下这份暴雨天避险自救指南",
       "onboard_time": 1719237441,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85005,
-      "num": 382734,
-      "word": "预售制个人拼团团长卷款跑路",
-      "onboard_time": 1719468020,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12587,6 +12619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53142,
+      "num": 306671,
+      "word": "中年男人都在哪看球",
+      "onboard_time": 1719465499,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51922,
       "num": 51922,
       "word": "英格兰半场0比0斯洛文尼亚",
@@ -12632,6 +12672,14 @@
       "word": "嫦娥六号返回器安全着陆",
       "onboard_time": 1719320658,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50819,
+      "num": 354674,
+      "word": "大熊猫渝可渝爱互动场景太有爱啦",
+      "onboard_time": 1719469879,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12689,14 +12737,6 @@
       "onboard_time": 1719162674,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47792,
-      "num": 306671,
-      "word": "中年男人都在哪看球",
-      "onboard_time": 1719465499,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 47706,
@@ -13001,6 +13041,14 @@
       "onboard_time": 1719115877,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35310,
+      "num": 161242,
+      "word": "美国一足球场被天坑吞没",
+      "onboard_time": 1719470180,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35258,

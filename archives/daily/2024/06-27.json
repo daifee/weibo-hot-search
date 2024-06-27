@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719469626685,
+  "endTime": 1719470388064,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1006053,
+      "num": 1006053,
+      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+      "onboard_time": 1719466099,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 946467,
       "num": 729229,
       "word": "差点以为迪丽热巴鼻影太重了",
@@ -129,14 +137,6 @@
       "onboard_time": 1719446117,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 854324,
-      "num": 854324,
-      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
-      "onboard_time": 1719466099,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 841288,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 466500,
+      "num": 190110,
+      "word": "家长月入一万不够孩子研学游七天",
+      "onboard_time": 1719469039,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453867,
       "num": 379363,
       "word": "葡萄牙爆冷输球",
@@ -353,6 +361,14 @@
       "onboard_time": 1719464420,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 432040,
+      "num": 197768,
+      "word": "大伯长期不吃主食全身多处皮肤糜烂",
+      "onboard_time": 1719468140,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424749,
@@ -433,14 +449,6 @@
       "onboard_time": 1719466882,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363913,
-      "num": 197768,
-      "word": "大伯长期不吃主食全身多处皮肤糜烂",
-      "onboard_time": 1719468140,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358940,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281549,
+      "num": 281549,
+      "word": "王者荣耀内存",
+      "onboard_time": 1719465919,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279378,
       "num": 279378,
       "word": "布朗尼落选首轮",
@@ -619,12 +635,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270244,
-      "num": 270244,
-      "word": "王者荣耀内存",
-      "onboard_time": 1719465919,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 268256,
+      "num": 163192,
+      "word": "恋综男嘉宾把送女方的礼物卖了",
+      "onboard_time": 1719469578,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 267979,
@@ -867,14 +883,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 195583,
-      "num": 190110,
-      "word": "家长月入一万不够孩子研学游七天",
-      "onboard_time": 1719469039,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192521,
       "num": 192521,
       "word": "张艺兴官宣西安站巡演",
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170855,
+      "num": 159907,
+      "word": "女儿高考688分妈妈豪横奖励18万",
+      "onboard_time": 1719469519,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170342,
       "num": 170342,
       "word": "原来小时候吃的都是这么细的糠",
@@ -1011,6 +1027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 155944,
+      "num": 155944,
+      "word": "网传浪姐成团夜站位",
+      "onboard_time": 1719469638,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155388,
       "num": 155388,
       "word": "NBA连续两届状元都是法国人",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1719445637,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149520,
+      "num": 149520,
+      "word": "月影别墅三周年",
+      "onboard_time": 1719469578,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 149513,
@@ -1179,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136102,
+      "num": 382734,
+      "word": "预售制个人拼团团长卷款跑路",
+      "onboard_time": 1719468020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135784,
       "num": 368696,
       "word": "快递员带娃上门取件女子心疼自责",
       "onboard_time": 1719450198,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134618,
+      "num": 134618,
+      "word": "法小",
+      "onboard_time": 1719469818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 133619,
@@ -1264,14 +1312,6 @@
       "word": "何洁 梦回超女",
       "onboard_time": 1719413001,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 124124,
-      "num": 124124,
-      "word": "恋综男嘉宾把送女方的礼物卖了",
-      "onboard_time": 1719469578,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1379,19 +1419,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106182,
-      "num": 106182,
-      "word": "月影别墅三周年",
-      "onboard_time": 1719469578,
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "韩媒称汉拿山植物因泡面汤枯萎",
+      "onboard_time": 1719468499,
       "rank": 48,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 105434,
-      "num": 105434,
-      "word": "女儿高考688分妈妈豪横奖励18万",
-      "onboard_time": 1719469519,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1433,14 @@
       "onboard_time": 1719440532,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100160,
+      "num": 100160,
+      "word": "退钱哥甲亢哥合影",
+      "onboard_time": 1719470358,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99535,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1719460878,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 85005,
-      "num": 382734,
-      "word": "预售制个人拼团团长卷款跑路",
-      "onboard_time": 1719468020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83880,
@@ -1659,6 +1691,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 53142,
+      "num": 306671,
+      "word": "中年男人都在哪看球",
+      "onboard_time": 1719465499,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50819,
+      "num": 354674,
+      "word": "大熊猫渝可渝爱互动场景太有爱啦",
+      "onboard_time": 1719469879,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50266,
       "num": 454784,
       "word": "致敬坐着睡着的泥人消防员",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1719452057,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47792,
-      "num": 306671,
-      "word": "中年男人都在哪看球",
-      "onboard_time": 1719465499,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 46183,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1719423252,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35310,
+      "num": 161242,
+      "word": "美国一足球场被天坑吞没",
+      "onboard_time": 1719470180,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29615,
