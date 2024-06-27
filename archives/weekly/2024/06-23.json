@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719527693414,
+  "endTime": 1719530459715,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -2547,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530932,
+      "num": 530932,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530650,
       "num": 530650,
       "word": "谁家女主上来就叫男主狗东西",
@@ -4419,6 +4427,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 344403,
+      "num": 208044,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 343810,
       "num": 343810,
       "word": "江西卫视发了王一博哭戏",
@@ -4979,20 +4995,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 299276,
+      "num": 94893,
+      "word": "李雪琴陷体育加分风波",
+      "onboard_time": 1719526572,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298504,
+      "num": 298504,
+      "word": "asen",
+      "onboard_time": 1719529575,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298394,
       "num": 298394,
       "word": "老挝免签",
       "onboard_time": 1719473298,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 297549,
-      "num": 297549,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297150,
@@ -5257,6 +5281,14 @@
       "onboard_time": 1719242359,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281942,
+      "num": 281942,
+      "word": "湖人选中布朗尼",
+      "onboard_time": 1719529695,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 281809,
@@ -6817,14 +6849,6 @@
       "onboard_time": 1719313638,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208044,
-      "num": 208044,
-      "word": "洞鞋的苹果被两个阿姨抓了",
-      "onboard_time": 1719493157,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 207984,
@@ -13227,6 +13251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91272,
+      "num": 91272,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90701,
       "num": 90701,
       "word": "像你这样的朋友毕业合唱版",
@@ -13289,6 +13321,14 @@
       "onboard_time": 1719196517,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86638,
+      "num": 86638,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86503,
@@ -13611,6 +13651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69689,
+      "num": 69689,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69516,
       "num": 192030,
       "word": "波兰总统抵达北京",
@@ -13779,14 +13827,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64124,
-      "num": 50523,
-      "word": "于正说王楚然是上戏表演系本科",
-      "onboard_time": 1719512412,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64027,
       "num": 64027,
       "word": "张小斐方便脱个外套吗",
@@ -13801,14 +13841,6 @@
       "onboard_time": 1719478818,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 63191,
-      "num": 50834,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 62662,
@@ -13915,6 +13947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59271,
+      "num": 59271,
+      "word": "7折保时捷5折BBA",
+      "onboard_time": 1719510852,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58864,
       "num": 58864,
       "word": "乌克兰半场0比0比利时",
@@ -13953,6 +13993,14 @@
       "onboard_time": 1719395119,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57201,
+      "num": 57201,
+      "word": "陈情令粉丝特辑",
+      "onboard_time": 1719529455,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 56694,
@@ -14187,14 +14235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48281,
-      "num": 48281,
-      "word": "出门两三个小时空调要不要关",
-      "onboard_time": 1719523270,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 48274,
       "num": 384305,
       "word": "195斤父亲一个月暴瘦30斤割肝救女",
@@ -14265,14 +14305,6 @@
       "onboard_time": 1719389899,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45031,
-      "num": 45031,
-      "word": "李雪琴陷体育加分风波",
-      "onboard_time": 1719526572,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 44895,
@@ -14635,6 +14667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 33569,
+      "num": 181175,
+      "word": "您用尽全力跟学生道别的样子让人泪目",
+      "onboard_time": 1719529334,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33234,
       "num": 337509,
       "word": "轿车落水黑衣男子一路飞奔跳水救人",
@@ -14763,6 +14803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 29409,
+      "num": 46723,
+      "word": "并蒂莲和同心莲同框绽放",
+      "onboard_time": 1719530356,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 29292,
       "num": 405453,
       "word": "妈妈捧着一束肉串接中考儿子回家",
@@ -14801,14 +14849,6 @@
       "onboard_time": 1719302479,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28373,
-      "num": 50084,
-      "word": "7折保时捷5折BBA",
-      "onboard_time": 1719510852,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 28327,
