@@ -1,0 +1,410 @@
+{
+  "runTime": 1719477511896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1209179,
+        "num": 1209179,
+        "word": "国足 死亡之组",
+        "onboard_time": 1719474196,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710101,
+        "num": 710101,
+        "word": "张馨予说想要一个迪丽热巴",
+        "onboard_time": 1719473357,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52760,
+        "num": 703055,
+        "word": "为什么要去月球背面挖宝",
+        "onboard_time": 1719460878,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699539,
+        "num": 699539,
+        "word": "中国医科大无法毕业博士或被索赔百万",
+        "onboard_time": 1719474558,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441695,
+        "num": 441695,
+        "word": "凡希亚 来自天堂的魔鬼",
+        "onboard_time": 1719472638,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383377,
+        "num": 383377,
+        "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+        "onboard_time": 1719466099,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431181,
+        "num": 375847,
+        "word": "白敬亭章若楠我承认之前声音大了点",
+        "onboard_time": 1719461960,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385510,
+        "num": 363105,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319059,
+        "num": 319059,
+        "word": "日本富士山发现三名濒死人员",
+        "onboard_time": 1719459557,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304501,
+        "num": 304501,
+        "word": "A股疑似再现杀猪盘",
+        "onboard_time": 1719471138,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 79825,
+        "num": 303129,
+        "word": "魔兽世界开服",
+        "onboard_time": 1719475757,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377791,
+        "num": 292041,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371102,
+        "num": 283004,
+        "word": "番茄身上的缝合线是什么",
+        "onboard_time": 1719474558,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 365909,
+        "num": 274040,
+        "word": "汪苏泷又多了一个名场面",
+        "onboard_time": 1719471979,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267994,
+        "num": 267994,
+        "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+        "onboard_time": 1719453136,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258252,
+        "num": 258252,
+        "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+        "onboard_time": 1719452117,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254582,
+        "num": 254582,
+        "word": "50岁姨姨健身14年爆改小姐姐",
+        "onboard_time": 1719471738,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36798,
+        "num": 239119,
+        "word": "这是中国奥运健儿的赛场宣言",
+        "onboard_time": 1719477317,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238749,
+        "num": 238749,
+        "word": "刘楚恬 小桑稚",
+        "onboard_time": 1719461359,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237235,
+        "num": 237235,
+        "word": "老挝免签",
+        "onboard_time": 1719473298,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 679474,
+        "num": 231999,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516254,
+        "num": 224760,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408823,
+        "num": 219871,
+        "word": "大伯长期不吃主食全身多处皮肤糜烂",
+        "onboard_time": 1719468140,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312797,
+        "num": 206727,
+        "word": "李雪琴未通过体育加分",
+        "onboard_time": 1719456197,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204388,
+        "num": 204388,
+        "word": "海底捞有门店推出美甲收费标准",
+        "onboard_time": 1719475577,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211991,
+        "num": 197748,
+        "word": "感情到了什么程度可以谈钱",
+        "onboard_time": 1719475218,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185623,
+        "num": 185623,
+        "word": "容易得糖尿病的1个坏习惯",
+        "onboard_time": 1719468020,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185496,
+        "num": 185496,
+        "word": "杜江分享珍珠近况",
+        "onboard_time": 1719462200,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52102,
+        "num": 182868,
+        "word": "男生站台送别毕业同学泪如雨下",
+        "onboard_time": 1719475458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182381,
+        "num": 182381,
+        "word": "国足下下签",
+        "onboard_time": 1719475757,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192095,
+        "num": 180730,
+        "word": "别再用水直接冲生肉了",
+        "onboard_time": 1719475999,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178654,
+        "num": 178654,
+        "word": "林一说刘亦菲美貌拯救像素",
+        "onboard_time": 1719474138,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167248,
+        "num": 167248,
+        "word": "黄宣 二十二",
+        "onboard_time": 1719468140,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162649,
+        "num": 162649,
+        "word": "恋综男嘉宾把送女方的礼物卖了",
+        "onboard_time": 1719469578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156515,
+        "num": 156515,
+        "word": "女儿高考688分妈妈豪横奖励18万",
+        "onboard_time": 1719469519,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150792,
+        "num": 150792,
+        "word": "歌手歌单",
+        "onboard_time": 1719462139,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "A股",
+        "onboard_time": 1719471857,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "吴谨言王星越吻戏没人喊停",
+        "onboard_time": 1719468620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146065,
+        "num": 146065,
+        "word": "妻子失联民警警觉发现真相",
+        "onboard_time": 1719473599,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144721,
+        "num": 144721,
+        "word": "小猫长胖了走不了自己的门",
+        "onboard_time": 1719472037,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137156,
+        "num": 137156,
+        "word": "张小斐多少有点见外了",
+        "onboard_time": 1719475336,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131839,
+        "num": 131839,
+        "word": "刚果金爆发猴痘病毒",
+        "onboard_time": 1719474018,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122000,
+        "num": 122000,
+        "word": "王者荣耀内存",
+        "onboard_time": 1719465919,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116143,
+        "num": 116143,
+        "word": "2030年前后发射天问三号和天问四号",
+        "onboard_time": 1719476537,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53251,
+        "num": 112523,
+        "word": "日本81岁老人仍在打工",
+        "onboard_time": 1719476778,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110368,
+        "num": 110368,
+        "word": "薛小婉 褒姒",
+        "onboard_time": 1719477498,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110015,
+        "num": 110015,
+        "word": "假装松弛的离职博主比上班还卷",
+        "onboard_time": 1719473477,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108437,
+        "num": 108437,
+        "word": "2025年前后发射天问二号",
+        "onboard_time": 1719476117,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106500,
+        "num": 106500,
+        "word": "国防部发言人回应美方威胁恫吓",
+        "onboard_time": 1719477198,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106229,
+        "num": 106229,
+        "word": "18强赛国足抽签",
+        "onboard_time": 1719473599,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}

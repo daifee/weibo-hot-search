@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719476661290,
+  "endTime": 1719477511896,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 891229,
-      "num": 226825,
+      "num": 231999,
       "word": "家长月入一万不够孩子研学游七天",
       "onboard_time": 1719469039,
       "rank": 30,
@@ -203,20 +203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710101,
+      "num": 710101,
+      "word": "张馨予说想要一个迪丽热巴",
+      "onboard_time": 1719473357,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 699539,
+      "num": 699539,
+      "word": "中国医科大无法毕业博士或被索赔百万",
+      "onboard_time": 1719474558,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678719,
       "num": 678719,
       "word": "NBA选秀 布朗尼",
       "onboard_time": 1719451517,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 674597,
-      "num": 674597,
-      "word": "张馨予说想要一个迪丽热巴",
-      "onboard_time": 1719473357,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 642642,
@@ -249,14 +257,6 @@
       "onboard_time": 1719453196,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 598612,
-      "num": 313867,
-      "word": "中国医科大无法毕业博士或被索赔百万",
-      "onboard_time": 1719474558,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595891,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 505160,
-      "num": 349180,
+      "num": 441695,
       "word": "凡希亚 来自天堂的魔鬼",
       "onboard_time": 1719472638,
       "rank": 46,
@@ -499,12 +499,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 385510,
+      "num": 363105,
+      "word": "确诊为土狗",
+      "onboard_time": 1719474918,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377791,
+      "num": 292041,
+      "word": "发证单位回应李雪琴游泳争议",
+      "onboard_time": 1719476718,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376849,
       "num": 376849,
       "word": "刘若英 我认真要退休了",
       "onboard_time": 1719466882,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371102,
+      "num": 283004,
+      "word": "番茄身上的缝合线是什么",
+      "onboard_time": 1719474558,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 358940,
@@ -723,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271490,
-      "num": 271490,
-      "word": "确诊为土狗",
-      "onboard_time": 1719474918,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267979,
       "num": 267979,
       "word": "欧洲杯16强出炉",
@@ -740,19 +756,11 @@
     },
     {
       "raw_hot": 266296,
-      "num": 266296,
+      "num": 303129,
       "word": "魔兽世界开服",
       "onboard_time": 1719443415,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265595,
-      "num": 265595,
-      "word": "番茄身上的缝合线是什么",
-      "onboard_time": 1719474558,
-      "rank": 16,
-      "category": "科学科普"
     },
     {
       "raw_hot": 263975,
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254582,
+      "num": 323654,
+      "word": "50岁姨姨健身14年爆改小姐姐",
+      "onboard_time": 1719471738,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 253387,
       "num": 213532,
       "word": "父亲上网刷视频得知女儿被霸凌",
@@ -785,14 +801,6 @@
       "onboard_time": 1719456737,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 250122,
-      "num": 323654,
-      "word": "50岁姨姨健身14年爆改小姐姐",
-      "onboard_time": 1719471738,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 247277,
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204388,
+      "num": 204388,
+      "word": "海底捞有门店推出美甲收费标准",
+      "onboard_time": 1719475577,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202335,
       "num": 202335,
       "word": "公安厅介入呼和浩特一村5人遇害案",
@@ -1043,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192095,
+      "num": 180730,
+      "word": "别再用水直接冲生肉了",
+      "onboard_time": 1719475999,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 191078,
       "num": 191078,
       "word": "浪5冠军预测",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1719459319,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175239,
-      "num": 175239,
-      "word": "海底捞有门店推出美甲收费标准",
-      "onboard_time": 1719475577,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173142,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146065,
+      "num": 160341,
+      "word": "妻子失联民警警觉发现真相",
+      "onboard_time": 1719473599,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145874,
       "num": 145874,
       "word": "王楚钦孙颖莎球场歌坛双得意",
@@ -1419,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138284,
-      "num": 160341,
-      "word": "妻子失联民警警觉发现真相",
-      "onboard_time": 1719473599,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136980,
       "num": 136980,
       "word": "假装松弛的离职博主比上班还卷",
@@ -1507,12 +1523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130254,
-      "num": 130254,
-      "word": "别再用水直接冲生肉了",
-      "onboard_time": 1719475999,
-      "rank": 44,
-      "category": "科学科普"
+      "raw_hot": 131839,
+      "num": 131839,
+      "word": "刚果金爆发猴痘病毒",
+      "onboard_time": 1719474018,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130182,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1719404057,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128053,
-      "num": 128053,
-      "word": "刚果金爆发猴痘病毒",
-      "onboard_time": 1719474018,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126743,
@@ -1603,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116143,
+      "num": 116143,
+      "word": "2030年前后发射天问三号和天问四号",
+      "onboard_time": 1719476537,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115763,
       "num": 115763,
       "word": "朴成训发型",
@@ -1651,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111820,
-      "num": 111820,
-      "word": "2030年前后发射天问三号和天问四号",
-      "onboard_time": 1719476537,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111785,
       "num": 353041,
       "word": "毕业后的第一次旅行是准考证给的",
@@ -1683,11 +1691,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110368,
+      "num": 110368,
+      "word": "薛小婉 褒姒",
+      "onboard_time": 1719477498,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109207,
       "num": 109207,
       "word": "二十届三中全会7月15日至18日召开",
       "onboard_time": 1719467599,
       "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106500,
+      "num": 106500,
+      "word": "国防部发言人回应美方威胁恫吓",
+      "onboard_time": 1719477198,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -1955,12 +1979,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 53251,
+      "num": 112523,
+      "word": "日本81岁老人仍在打工",
+      "onboard_time": 1719476778,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53142,
       "num": 306671,
       "word": "中年男人都在哪看球",
       "onboard_time": 1719465499,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52102,
+      "num": 314250,
+      "word": "男生站台送别毕业同学泪如雨下",
+      "onboard_time": 1719475458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50819,
@@ -2027,20 +2067,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 39766,
-      "num": 314250,
-      "word": "男生站台送别毕业同学泪如雨下",
-      "onboard_time": 1719475458,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38143,
       "num": 44991,
       "word": "毕业就是一场巨大的丢money",
       "onboard_time": 1719423252,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36798,
+      "num": 239119,
+      "word": "这是中国奥运健儿的赛场宣言",
+      "onboard_time": 1719477317,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 35310,
