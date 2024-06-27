@@ -1,0 +1,410 @@
+{
+  "runTime": 1719491792429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1983398,
+        "num": 1983398,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1313768,
+        "num": 1313768,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43498,
+        "num": 1135189,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396171,
+        "num": 1119318,
+        "word": "玲子怀孕",
+        "onboard_time": 1719488839,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1067223,
+        "num": 1067223,
+        "word": "歌手迎首位国际冲榜歌手",
+        "onboard_time": 1719487220,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624660,
+        "num": 624660,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688687,
+        "num": 605844,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 678113,
+        "num": 592620,
+        "word": "龚琳娜回应法老diss",
+        "onboard_time": 1719488178,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 576580,
+        "num": 576580,
+        "word": "美国外交官被发现死于基辅一酒店",
+        "onboard_time": 1719486019,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 460229,
+        "num": 460229,
+        "word": "老公心疼老婆生娃不易雇3个月嫂",
+        "onboard_time": 1719489498,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623155,
+        "num": 458768,
+        "word": "肖战陈情令在日本有多火",
+        "onboard_time": 1719487458,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67235,
+        "num": 445456,
+        "word": "带姥姥出来旅游真的超酷",
+        "onboard_time": 1719491418,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 441019,
+        "num": 441019,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406419,
+        "num": 406419,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399226,
+        "num": 399226,
+        "word": "白玉兰提名红毯生图",
+        "onboard_time": 1719488538,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388455,
+        "num": 388455,
+        "word": "王星越正是喜欢亲嘴的年纪",
+        "onboard_time": 1719484638,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292335,
+        "num": 292335,
+        "word": "一加手表",
+        "onboard_time": 1719487819,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283658,
+        "num": 283658,
+        "word": "顾客胖东来排长龙办退款",
+        "onboard_time": 1719480678,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250168,
+        "num": 250168,
+        "word": "张凌赫吃柠檬 酸汤肥牛",
+        "onboard_time": 1719486080,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217125,
+        "num": 236045,
+        "word": "钟薛高主播",
+        "onboard_time": 1719478218,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 310082,
+        "num": 235283,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233385,
+        "num": 233385,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233115,
+        "num": 233115,
+        "word": "偶遇郑帝元",
+        "onboard_time": 1719490457,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229088,
+        "num": 229088,
+        "word": "墨雨云间导演三次婉拒王星越吻戏",
+        "onboard_time": 1719489617,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206953,
+        "num": 206953,
+        "word": "袁娅维被那姐偷走两颗水钻",
+        "onboard_time": 1719490878,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206326,
+        "num": 206326,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199191,
+        "num": 199191,
+        "word": "陶喆北京",
+        "onboard_time": 1719490519,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197979,
+        "num": 197979,
+        "word": "杨和苏媚粉",
+        "onboard_time": 1719485780,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183557,
+        "num": 183557,
+        "word": "新秀diss已写好",
+        "onboard_time": 1719490818,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141940,
+        "num": 141940,
+        "word": "王者荣耀 花里胡哨",
+        "onboard_time": 1719480498,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167453,
+        "num": 140171,
+        "word": "时代峰峻说不会放松对二团的运营",
+        "onboard_time": 1719488657,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170062,
+        "num": 138343,
+        "word": "陶喆南昌抢票",
+        "onboard_time": 1719490938,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134264,
+        "num": 134264,
+        "word": "RNG战胜WE",
+        "onboard_time": 1719490519,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130427,
+        "num": 130427,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120379,
+        "num": 120379,
+        "word": "职业本科更好找工作吗",
+        "onboard_time": 1719486917,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159298,
+        "num": 120148,
+        "word": "对接否认杨紫演兰香如故",
+        "onboard_time": 1719490878,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144232,
+        "num": 119935,
+        "word": "喻言用矿泉水瓶自制配饰",
+        "onboard_time": 1719489017,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109635,
+        "num": 109635,
+        "word": "中国医科大无法毕业博士或被索赔百万",
+        "onboard_time": 1719474558,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13234,
+        "num": 109405,
+        "word": "孟子义反内耗大使",
+        "onboard_time": 1719491299,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109383,
+        "num": 109383,
+        "word": "钟薛高老林回应女主播直播时倒地",
+        "onboard_time": 1719479478,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136904,
+        "num": 108233,
+        "word": "李飞采访",
+        "onboard_time": 1719488779,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113418,
+        "num": 107617,
+        "word": "罗晋正剧赛道",
+        "onboard_time": 1719489379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "人不能同时拥有夏天和对夏天的感受",
+        "onboard_time": 1719485539,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105988,
+        "num": 105988,
+        "word": "朱婷留洋第六季",
+        "onboard_time": 1719490099,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104845,
+        "num": 104845,
+        "word": "医院收座椅费合规但是否合理",
+        "onboard_time": 1719487220,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103180,
+        "num": 103180,
+        "word": "花百万和女友小炸串分手",
+        "onboard_time": 1719487698,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100696,
+        "num": 100696,
+        "word": "国足 死亡之组",
+        "onboard_time": 1719474196,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97636,
+        "num": 97636,
+        "word": "国防部发言人回应美方威胁恫吓",
+        "onboard_time": 1719479297,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96502,
+        "num": 96502,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1719478879,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84552,
+        "num": 96241,
+        "word": "逆水寒手游",
+        "onboard_time": 1719488058,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}

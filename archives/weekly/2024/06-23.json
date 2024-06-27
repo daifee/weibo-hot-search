@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719488073031,
+  "endTime": 1719491792429,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -419,6 +419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1396171,
+      "num": 1119318,
+      "word": "玲子怀孕",
+      "onboard_time": 1719488839,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1367903,
       "num": 1367903,
       "word": "梁实第28次高考成绩出炉",
@@ -769,6 +777,14 @@
       "onboard_time": 1719273799,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1067223,
+      "num": 1067223,
+      "word": "歌手迎首位国际冲榜歌手",
+      "onboard_time": 1719487220,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1066917,
@@ -1691,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678113,
+      "num": 592620,
+      "word": "龚琳娜回应法老diss",
+      "onboard_time": 1719488178,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 675133,
       "num": 370725,
       "word": "庄国栋等了黄亦玫20年",
@@ -2019,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623155,
+      "num": 458768,
+      "word": "肖战陈情令在日本有多火",
+      "onboard_time": 1719487458,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618817,
       "num": 618817,
       "word": "为什么一分钟会变成59秒",
@@ -2107,14 +2139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 597763,
-      "num": 356209,
-      "word": "歌手迎首位国际冲榜歌手",
-      "onboard_time": 1719487220,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 595891,
       "num": 595891,
       "word": "霉霉高歌时遭飞虫入口",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1719401057,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576580,
+      "num": 576580,
+      "word": "美国外交官被发现死于基辅一酒店",
+      "onboard_time": 1719486019,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 575823,
@@ -3003,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460229,
+      "num": 460229,
+      "word": "老公心疼老婆生娃不易雇3个月嫂",
+      "onboard_time": 1719489498,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460102,
       "num": 460102,
       "word": "王星越正是喜欢亲嘴的年纪",
@@ -3161,6 +3201,14 @@
       "onboard_time": 1719404057,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 441019,
+      "num": 441019,
+      "word": "女子裸辞35万年薪工作回村专职带娃",
+      "onboard_time": 1719484098,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440358,
@@ -3392,14 +3440,6 @@
       "word": "Manner事件让人感叹打工人比咖啡苦",
       "onboard_time": 1719144019,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425180,
-      "num": 425180,
-      "word": "女子裸辞35万年薪工作回村专职带娃",
-      "onboard_time": 1719484098,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3705,6 +3745,14 @@
       "onboard_time": 1719134598,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 399226,
+      "num": 399226,
+      "word": "白玉兰提名红毯生图",
+      "onboard_time": 1719488538,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 398810,
@@ -4152,14 +4200,6 @@
       "word": "贵女",
       "onboard_time": 1719111977,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 352027,
-      "num": 352027,
-      "word": "肖战陈情令在日本有多火",
-      "onboard_time": 1719487458,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -4913,6 +4953,14 @@
       "onboard_time": 1719099134,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292335,
+      "num": 292335,
+      "word": "一加手表",
+      "onboard_time": 1719487819,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 292159,
@@ -5811,6 +5859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 233115,
+      "num": 233115,
+      "word": "偶遇郑帝元",
+      "onboard_time": 1719490457,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -5905,6 +5961,14 @@
       "onboard_time": 1719242659,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229088,
+      "num": 229088,
+      "word": "墨雨云间导演三次婉拒王星越吻戏",
+      "onboard_time": 1719489617,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 228689,
@@ -6611,6 +6675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206953,
+      "num": 206953,
+      "word": "袁娅维被那姐偷走两颗水钻",
+      "onboard_time": 1719490878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206869,
       "num": 206869,
       "word": "歌手",
@@ -6673,14 +6745,6 @@
       "onboard_time": 1719227120,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205982,
-      "num": 205982,
-      "word": "一加手表",
-      "onboard_time": 1719487819,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 205213,
@@ -7043,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199191,
+      "num": 199191,
+      "word": "陶喆北京",
+      "onboard_time": 1719490519,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199135,
       "num": 199135,
       "word": "2024新疆高考分数线",
@@ -7169,14 +7241,6 @@
       "onboard_time": 1719301879,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197439,
-      "num": 197439,
-      "word": "美国外交官被发现死于基辅一酒店",
-      "onboard_time": 1719486019,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 197016,
@@ -7859,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183557,
+      "num": 183557,
+      "word": "新秀diss已写好",
+      "onboard_time": 1719490818,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183280,
       "num": 183280,
       "word": "沈泉锐直播",
@@ -8395,6 +8467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170062,
+      "num": 138343,
+      "word": "陶喆南昌抢票",
+      "onboard_time": 1719490938,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169991,
       "num": 169991,
       "word": "霍拉拉",
@@ -8593,6 +8673,14 @@
       "onboard_time": 1719386957,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167453,
+      "num": 140171,
+      "word": "时代峰峻说不会放松对二团的运营",
+      "onboard_time": 1719488657,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 167225,
@@ -9017,6 +9105,14 @@
       "onboard_time": 1719203781,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159298,
+      "num": 120148,
+      "word": "对接否认杨紫演兰香如故",
+      "onboard_time": 1719490878,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159232,
@@ -9987,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144232,
+      "num": 119935,
+      "word": "喻言用矿泉水瓶自制配饰",
+      "onboard_time": 1719489017,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144172,
       "num": 144172,
       "word": "王星越对吻戏的执念",
@@ -10347,6 +10451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136904,
+      "num": 108233,
+      "word": "李飞采访",
+      "onboard_time": 1719488779,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136669,
       "num": 136669,
       "word": "匈牙利绝杀苏格兰",
@@ -10521,6 +10633,14 @@
       "onboard_time": 1719067939,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134264,
+      "num": 134264,
+      "word": "RNG战胜WE",
+      "onboard_time": 1719490519,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 133748,
@@ -11259,6 +11379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120379,
+      "num": 137889,
+      "word": "职业本科更好找工作吗",
+      "onboard_time": 1719486917,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120357,
       "num": 192431,
       "word": "王俊凯王源易烊千玺各自的领域",
@@ -11731,6 +11859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113418,
+      "num": 107617,
+      "word": "罗晋正剧赛道",
+      "onboard_time": 1719489379,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113219,
       "num": 113219,
       "word": "这版欧阳锋变帅了",
@@ -12099,6 +12235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 105988,
+      "num": 105988,
+      "word": "朱婷留洋第六季",
+      "onboard_time": 1719490099,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105840,
       "num": 105840,
       "word": "原神希格雯",
@@ -12113,6 +12257,14 @@
       "onboard_time": 1719135618,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104845,
+      "num": 357183,
+      "word": "医院收座椅费合规但是否合理",
+      "onboard_time": 1719487220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104534,
@@ -13011,6 +13163,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 67235,
+      "num": 445456,
+      "word": "带姥姥出来旅游真的超酷",
+      "onboard_time": 1719491418,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66586,
       "num": 66586,
       "word": "49岁的林志玲状态",
@@ -13451,14 +13611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49509,
-      "num": 357183,
-      "word": "医院收座椅费合规但是否合理",
-      "onboard_time": 1719487220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49008,
       "num": 62201,
       "word": "斯洛伐克vs罗马尼亚",
@@ -13579,6 +13731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43498,
+      "num": 1992020,
+      "word": "科学报国正当时",
+      "onboard_time": 1719480079,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43466,
       "num": 1501853,
       "word": "100秒听见嫦娥六号月背之旅",
@@ -13648,14 +13808,6 @@
       "word": "养成松弛感的9个方法",
       "onboard_time": 1719084851,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41052,
-      "num": 1992020,
-      "word": "科学报国正当时",
-      "onboard_time": 1719480079,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -13976,14 +14128,6 @@
       "word": "高质量发展瞰宁夏",
       "onboard_time": 1719372919,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30066,
-      "num": 137889,
-      "word": "职业本科更好找工作吗",
-      "onboard_time": 1719486917,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -14577,6 +14721,14 @@
       "onboard_time": 1719092290,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13234,
+      "num": 109405,
+      "word": "孟子义反内耗大使",
+      "onboard_time": 1719491299,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 13091,
