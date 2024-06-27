@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719486987831,
+  "endTime": 1719488073031,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -2107,6 +2107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 597763,
+      "num": 356209,
+      "word": "歌手迎首位国际冲榜歌手",
+      "onboard_time": 1719487220,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595891,
       "num": 595891,
       "word": "霉霉高歌时遭飞虫入口",
@@ -2995,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460102,
+      "num": 460102,
+      "word": "王星越正是喜欢亲嘴的年纪",
+      "onboard_time": 1719484638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459337,
       "num": 459337,
       "word": "女儿不想结婚爸爸舌战亲戚",
@@ -3227,14 +3243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436119,
-      "num": 436119,
-      "word": "王星越正是喜欢亲嘴的年纪",
-      "onboard_time": 1719484638,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 435547,
       "num": 435547,
       "word": "金价狂飙金店为何高兴不起来",
@@ -3384,6 +3392,14 @@
       "word": "Manner事件让人感叹打工人比咖啡苦",
       "onboard_time": 1719144019,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425180,
+      "num": 425180,
+      "word": "女子裸辞35万年薪工作回村专职带娃",
+      "onboard_time": 1719484098,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3875,14 +3891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 375733,
-      "num": 375733,
-      "word": "女子裸辞35万年薪工作回村专职带娃",
-      "onboard_time": 1719484098,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 375488,
       "num": 375488,
       "word": "娜扎丞磊大大方方营业",
@@ -4144,6 +4152,14 @@
       "word": "贵女",
       "onboard_time": 1719111977,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 352027,
+      "num": 352027,
+      "word": "肖战陈情令在日本有多火",
+      "onboard_time": 1719487458,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -4843,6 +4859,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 294630,
+      "num": 294630,
+      "word": "杨和苏媚粉",
+      "onboard_time": 1719485780,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294623,
       "num": 213875,
       "word": "查分后怒发了一个朋友圈",
@@ -4865,6 +4889,14 @@
       "onboard_time": 1719313398,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294330,
+      "num": 294330,
+      "word": "张凌赫吃柠檬 酸汤肥牛",
+      "onboard_time": 1719486080,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 293895,
@@ -5169,14 +5201,6 @@
       "onboard_time": 1719444194,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273295,
-      "num": 273295,
-      "word": "杨和苏媚粉",
-      "onboard_time": 1719485780,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 272860,
@@ -6651,6 +6675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205982,
+      "num": 205982,
+      "word": "一加手表",
+      "onboard_time": 1719487819,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205213,
       "num": 160892,
       "word": "枭起青壤首发预告",
@@ -6761,14 +6793,6 @@
       "onboard_time": 1719226458,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203783,
-      "num": 203783,
-      "word": "张凌赫吃柠檬 酸汤肥牛",
-      "onboard_time": 1719486080,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 203711,
@@ -7145,6 +7169,14 @@
       "onboard_time": 1719301879,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197439,
+      "num": 197439,
+      "word": "美国外交官被发现死于基辅一酒店",
+      "onboard_time": 1719486019,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 197016,
@@ -7777,6 +7809,14 @@
       "onboard_time": 1719147918,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 184736,
+      "num": 184736,
+      "word": "十个勤天谈做大做强农业",
+      "onboard_time": 1719486979,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 184733,
@@ -8875,6 +8915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161556,
+      "num": 161556,
+      "word": "上海电视节",
+      "onboard_time": 1719487339,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161216,
       "num": 161216,
       "word": "山西高考分数线",
@@ -8953,6 +9001,14 @@
       "onboard_time": 1719379698,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159814,
+      "num": 149271,
+      "word": "光与夜之恋全新资料片",
+      "onboard_time": 1719487339,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 159717,
@@ -10595,6 +10651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 131055,
+      "num": 131055,
+      "word": "人不能同时拥有夏天和对夏天的感受",
+      "onboard_time": 1719485539,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130988,
       "num": 130988,
       "word": "美洲杯裁判",
@@ -10923,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125613,
+      "num": 125613,
+      "word": "花百万和女友小炸串分手",
+      "onboard_time": 1719487698,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125546,
       "num": 125546,
       "word": "梁永棋回应演前夫哥",
@@ -11129,14 +11201,6 @@
       "onboard_time": 1719398178,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121617,
-      "num": 121617,
-      "word": "人不能同时拥有夏天和对夏天的感受",
-      "onboard_time": 1719485539,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 121560,
@@ -12163,6 +12227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102260,
+      "num": 102260,
+      "word": "度华年 过家家",
+      "onboard_time": 1719487578,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101978,
       "num": 101978,
       "word": "法越馨发的迪丽热巴",
@@ -12401,6 +12473,14 @@
       "onboard_time": 1719134298,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96844,
+      "num": 96844,
+      "word": "逆水寒手游",
+      "onboard_time": 1719488058,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96438,
@@ -13369,6 +13449,14 @@
       "onboard_time": 1719163994,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49509,
+      "num": 357183,
+      "word": "医院收座椅费合规但是否合理",
+      "onboard_time": 1719487220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49008,
