@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719458518814,
+  "endTime": 1719459341002,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1853313,
-      "num": 1853313,
+      "raw_hot": 1971580,
+      "num": 1971580,
       "word": "李雪琴未通过体育加分",
       "onboard_time": 1719456197,
       "rank": 43,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1091247,
+      "num": 288078,
+      "word": "每天喝2.5L水坚持了一年的感受",
+      "onboard_time": 1719455716,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 940348,
       "num": 940348,
       "word": "女孩考726分轰动全小区邻居放烟花",
@@ -73,14 +81,6 @@
       "onboard_time": 1719446117,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 866500,
-      "num": 233144,
-      "word": "每天喝2.5L水坚持了一年的感受",
-      "onboard_time": 1719455716,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 841288,
@@ -139,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 620196,
+      "num": 620196,
+      "word": "难哄首波阵容官宣",
+      "onboard_time": 1719458297,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595891,
       "num": 595891,
       "word": "霉霉高歌时遭飞虫入口",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 543913,
-      "num": 223035,
+      "num": 272393,
       "word": "给宝宝取了全国唯一的名字",
       "onboard_time": 1719444614,
       "rank": 20,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401556,
+      "num": 401556,
+      "word": "王者荣耀战令皮肤",
+      "onboard_time": 1719456376,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398810,
       "num": 143993,
       "word": "得胃癌之前胃都经历了什么",
@@ -283,14 +299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 396311,
-      "num": 396311,
-      "word": "王者荣耀战令皮肤",
-      "onboard_time": 1719456376,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 349970,
       "num": 349970,
       "word": "法老 27狗子来了",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 349593,
-      "num": 226837,
+      "num": 285086,
       "word": "七月桃花运最旺的星座",
       "onboard_time": 1719455716,
       "rank": 30,
@@ -371,6 +379,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 294855,
+      "num": 294855,
+      "word": "专家称应立即叫停一元面值退市",
+      "onboard_time": 1719454937,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 289662,
       "num": 208984,
       "word": "彭冠英回应和刘亦菲跳舞戏",
@@ -385,6 +401,14 @@
       "onboard_time": 1719444495,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280509,
+      "num": 280509,
+      "word": "差点以为迪丽热巴鼻影太重了",
+      "onboard_time": 1719458897,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276667,
@@ -427,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 265406,
-      "num": 265406,
-      "word": "专家称应立即叫停一元面值退市",
-      "onboard_time": 1719454937,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 239549,
-      "num": 217087,
+      "num": 229555,
       "word": "不是说提倡要孩子吗 我要这个",
       "onboard_time": 1719456737,
       "rank": 24,
@@ -468,11 +484,19 @@
     },
     {
       "raw_hot": 235782,
-      "num": 462607,
+      "num": 552564,
       "word": "情侣救了一只小羊获一群羊感谢",
       "onboard_time": 1719455777,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234787,
+      "num": 234787,
+      "word": "降薪引发基金经理离职潮",
+      "onboard_time": 1719458357,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 229676,
@@ -539,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201034,
+      "num": 201034,
+      "word": "白敬亭带着都市爱情剧杀回来了",
+      "onboard_time": 1719459076,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200237,
       "num": 200237,
       "word": "成龙张艺兴打戏",
@@ -587,14 +619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184308,
-      "num": 184308,
-      "word": "降薪引发基金经理离职潮",
-      "onboard_time": 1719458357,
-      "rank": 33,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 180787,
       "num": 143747,
       "word": "陈昊宇 弹幕",
@@ -609,14 +633,6 @@
       "onboard_time": 1719451158,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168869,
-      "num": 168869,
-      "word": "难哄首波阵容官宣",
-      "onboard_time": 1719458297,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 158775,
@@ -673,6 +689,14 @@
       "onboard_time": 1719430750,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147474,
+      "num": 147474,
+      "word": "魔兽世界正式服定档",
+      "onboard_time": 1719458957,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 147464,
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133291,
+      "num": 133291,
+      "word": "金善禹被西村力泼了一整瓶水",
+      "onboard_time": 1719458897,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132789,
       "num": 132789,
       "word": "赵露思摸到什么破案了",
@@ -801,6 +833,14 @@
       "onboard_time": 1719445034,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130182,
+      "num": 567865,
+      "word": "美院毕业展作品被破坏",
+      "onboard_time": 1719457218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128991,
@@ -833,6 +873,14 @@
       "onboard_time": 1719413001,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125615,
+      "num": 125615,
+      "word": "部分冰杯价格超10元遭吐槽",
+      "onboard_time": 1719458778,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 123092,
@@ -912,6 +960,14 @@
       "word": "具荷拉保险柜嫌犯去除反光后的照片",
       "onboard_time": 1719429850,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103088,
+      "num": 103088,
+      "word": "今麦郎牛肉面",
+      "onboard_time": 1719459319,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1033,14 +1089,6 @@
       "onboard_time": 1719443716,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77767,
-      "num": 567865,
-      "word": "美院毕业展作品被破坏",
-      "onboard_time": 1719457218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74279,
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38405,
+      "num": 463934,
+      "word": "喝霸王茶姬city不city",
+      "onboard_time": 1719458059,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38143,
       "num": 44991,
       "word": "毕业就是一场巨大的丢money",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1719436030,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 23231,
-      "num": 174281,
-      "word": "喝霸王茶姬city不city",
-      "onboard_time": 1719458059,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 22448,
