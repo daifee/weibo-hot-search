@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719495289298,
+  "endTime": 1719497909558,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -25,6 +25,14 @@
       "onboard_time": 1719282980,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2767857,
+      "num": 680145,
+      "word": "官方回应姜萍月考数学83分",
+      "onboard_time": 1719495260,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2639996,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200137,
+      "num": 1200137,
+      "word": "徐正溪退圈后状态",
+      "onboard_time": 1719494719,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175294,
       "num": 878292,
       "word": "林一鼻子",
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 895049,
-      "num": 480046,
+      "num": 798208,
       "word": "有人领胖东来补偿倒贴300元原地消费",
       "onboard_time": 1719492979,
       "rank": 10,
@@ -1731,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 672775,
+      "num": 672775,
+      "word": "日本决定将大陆架扩大12万平方公里",
+      "onboard_time": 1719496519,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 670234,
       "num": 670234,
       "word": "35岁清华毕业生再考清华失败",
@@ -1891,12 +1915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 650839,
+      "num": 566568,
+      "word": "2岁女童因尿裤子被打店员大喊报警",
+      "onboard_time": 1719493517,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649610,
       "num": 649610,
       "word": "虞书欣 中餐厅ootd",
       "onboard_time": 1719307878,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647372,
+      "num": 647372,
+      "word": "李飞说TFBOYS有运气成分在",
+      "onboard_time": 1719496220,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 647221,
@@ -2244,7 +2284,7 @@
     },
     {
       "raw_hot": 576580,
-      "num": 576580,
+      "num": 594721,
       "word": "美国外交官被发现死于基辅一酒店",
       "onboard_time": 1719486019,
       "rank": 22,
@@ -2731,14 +2771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 500567,
-      "num": 398668,
-      "word": "徐正溪退圈后状态",
-      "onboard_time": 1719494719,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 499544,
       "num": 310936,
       "word": "霍建华朱珠演情侣",
@@ -3089,6 +3121,14 @@
       "onboard_time": 1719290242,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 455246,
+      "num": 455246,
+      "word": "梅雨季一次性内裤成了南方人刚需",
+      "onboard_time": 1719493400,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454612,
@@ -3931,14 +3971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378489,
-      "num": 378489,
-      "word": "2岁女童因尿裤子被打店员大喊报警",
-      "onboard_time": 1719493517,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377741,
       "num": 447119,
       "word": "渐冻症学生离世大学设同名奖学金",
@@ -4347,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342414,
+      "num": 342414,
+      "word": "不必要的女士优先到此为止吧",
+      "onboard_time": 1719493038,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340640,
       "num": 265350,
       "word": "长相思2还没来",
@@ -4401,6 +4441,14 @@
       "onboard_time": 1719210919,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333117,
+      "num": 271418,
+      "word": "为什么通勤时间全都是算个人的",
+      "onboard_time": 1719495619,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 332108,
@@ -4713,14 +4761,6 @@
       "onboard_time": 1719364816,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 310385,
-      "num": 310385,
-      "word": "梅雨季一次性内裤成了南方人刚需",
-      "onboard_time": 1719493400,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310327,
@@ -5435,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264404,
-      "num": 264404,
-      "word": "不必要的女士优先到此为止吧",
-      "onboard_time": 1719493038,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
@@ -5505,6 +5537,14 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259916,
+      "num": 259916,
+      "word": "实验犬中98%犬只都是比格犬",
+      "onboard_time": 1719496940,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258712,
@@ -5664,14 +5704,6 @@
       "word": "Manner事件 不要为难服务人员",
       "onboard_time": 1719058037,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246008,
-      "num": 246008,
-      "word": "官方回应姜萍月考数学83分",
-      "onboard_time": 1719495260,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5939,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233068,
+      "num": 180571,
+      "word": "中国共产党的政治智慧",
+      "onboard_time": 1719496160,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1719295400,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227182,
+      "num": 227182,
+      "word": "神魂颠倒",
+      "onboard_time": 1719495199,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 227123,
@@ -6681,6 +6729,14 @@
       "onboard_time": 1719313638,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208044,
+      "num": 208044,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 207984,
@@ -7483,14 +7539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194654,
-      "num": 181123,
-      "word": "洞鞋的苹果被两个阿姨抓了",
-      "onboard_time": 1719493157,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194602,
       "num": 194602,
       "word": "中国对新西兰澳大利亚波兰试行免签",
@@ -8091,6 +8139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181340,
+      "num": 181340,
+      "word": "赵丽颖全新高定",
+      "onboard_time": 1719495680,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180687,
       "num": 180687,
       "word": "高中最好的成绩给了高考",
@@ -8331,6 +8387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176200,
+      "num": 176200,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176160,
       "num": 173716,
       "word": "彭冠英装果冻客服售后直播",
@@ -8361,6 +8425,14 @@
       "onboard_time": 1719214459,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174774,
+      "num": 174774,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174659,
@@ -8929,14 +9001,6 @@
       "onboard_time": 1719233959,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164814,
-      "num": 164814,
-      "word": "丁克老人为自己买骨灰盒",
-      "onboard_time": 1719493400,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 164786,
@@ -11107,12 +11171,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 128094,
+      "num": 128094,
+      "word": "AG锁定第二轮S组",
+      "onboard_time": 1719496460,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127809,
       "num": 127809,
       "word": "吴谨言原声台词",
       "onboard_time": 1719129497,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127771,
+      "num": 127771,
+      "word": "赵丽颖油画里的美人",
+      "onboard_time": 1719496641,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127695,
@@ -11675,6 +11755,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 118110,
+      "num": 118110,
+      "word": "LGD对战BLG",
+      "onboard_time": 1719496760,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117941,
       "num": 117941,
       "word": "余华谈人生不是轨道而是旷野",
@@ -11865,14 +11953,6 @@
       "onboard_time": 1719130336,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114896,
-      "num": 114896,
-      "word": "饭后出现4个症状可能是胆囊炎",
-      "onboard_time": 1719494478,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114843,
@@ -12203,14 +12283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110167,
-      "num": 110167,
-      "word": "神魂颠倒",
-      "onboard_time": 1719495199,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110120,
       "num": 110120,
       "word": "暴雨积水男孩背女同学上厕所",
@@ -12233,6 +12305,14 @@
       "onboard_time": 1719148699,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 109632,
+      "num": 109632,
+      "word": "三步上篮被大爷玩明白了",
+      "onboard_time": 1719497602,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 109464,
@@ -12697,6 +12777,14 @@
       "onboard_time": 1719240020,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 98375,
+      "num": 98375,
+      "word": "李海仁发声",
+      "onboard_time": 1719497781,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98120,
@@ -14211,6 +14299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34505,
+      "num": 588762,
+      "word": "欧洲杯赌球赔率暗藏玄机",
+      "onboard_time": 1719496821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34396,
       "num": 474577,
       "word": "物理满分考生冷静分析弱项学科",
@@ -14507,6 +14603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25632,
+      "num": 132740,
+      "word": "新加坡或将批准16种昆虫作为食品售卖",
+      "onboard_time": 1719497181,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25372,
       "num": 416257,
       "word": "微博文化之夜年度荣誉",
@@ -14681,6 +14785,14 @@
       "onboard_time": 1719180191,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19481,
+      "num": 146340,
+      "word": "王传君孟子义合唱快乐崇拜",
+      "onboard_time": 1719494478,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 18836,
@@ -14921,14 +15033,6 @@
       "onboard_time": 1719092290,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13395,
-      "num": 146340,
-      "word": "王传君孟子义合唱快乐崇拜",
-      "onboard_time": 1719494478,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13091,

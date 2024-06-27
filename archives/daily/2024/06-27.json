@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719495289298,
+  "endTime": 1719497909558,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -17,6 +17,14 @@
       "onboard_time": 1719483198,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2767857,
+      "num": 680145,
+      "word": "官方回应姜萍月考数学83分",
+      "onboard_time": 1719495260,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2176044,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200137,
+      "num": 1200137,
+      "word": "徐正溪退圈后状态",
+      "onboard_time": 1719494719,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1173875,
       "num": 1173875,
       "word": "日本富士山发现三名濒死人员",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 895049,
-      "num": 480046,
+      "num": 798208,
       "word": "有人领胖东来补偿倒贴300元原地消费",
       "onboard_time": 1719492979,
       "rank": 10,
@@ -315,12 +331,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 672775,
+      "num": 672775,
+      "word": "日本决定将大陆架扩大12万平方公里",
+      "onboard_time": 1719496519,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 665864,
       "num": 549817,
       "word": "钟薛高老林回应女主播直播时倒地",
       "onboard_time": 1719479478,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650839,
+      "num": 566568,
+      "word": "2岁女童因尿裤子被打店员大喊报警",
+      "onboard_time": 1719493517,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647372,
+      "num": 647372,
+      "word": "李飞说TFBOYS有运气成分在",
+      "onboard_time": 1719496220,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 646086,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 576580,
-      "num": 576580,
+      "num": 594721,
       "word": "美国外交官被发现死于基辅一酒店",
       "onboard_time": 1719486019,
       "rank": 22,
@@ -491,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500567,
-      "num": 398668,
-      "word": "徐正溪退圈后状态",
-      "onboard_time": 1719494719,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 488374,
       "num": 488374,
       "word": "玻利维亚发生军事政变",
@@ -553,6 +585,14 @@
       "onboard_time": 1719484638,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455246,
+      "num": 455246,
+      "word": "梅雨季一次性内裤成了南方人刚需",
+      "onboard_time": 1719493400,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453867,
@@ -715,14 +755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 378489,
-      "num": 378489,
-      "word": "2岁女童因尿裤子被打店员大喊报警",
-      "onboard_time": 1719493517,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376849,
       "num": 376849,
       "word": "刘若英 我认真要退休了",
@@ -803,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342414,
+      "num": 342414,
+      "word": "不必要的女士优先到此为止吧",
+      "onboard_time": 1719493038,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339898,
       "num": 339898,
       "word": "A股",
       "onboard_time": 1719471857,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 333117,
+      "num": 271418,
+      "word": "为什么通勤时间全都是算个人的",
+      "onboard_time": 1719495619,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 331726,
@@ -857,14 +905,6 @@
       "onboard_time": 1719492378,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310385,
-      "num": 310385,
-      "word": "梅雨季一次性内裤成了南方人刚需",
-      "onboard_time": 1719493400,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310327,
@@ -1067,20 +1107,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264404,
-      "num": 264404,
-      "word": "不必要的女士优先到此为止吧",
-      "onboard_time": 1719493038,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
       "onboard_time": 1719448097,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 259916,
+      "num": 259916,
+      "word": "实验犬中98%犬只都是比格犬",
+      "onboard_time": 1719496940,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258338,
@@ -1123,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246008,
-      "num": 246008,
-      "word": "官方回应姜萍月考数学83分",
-      "onboard_time": 1719495260,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245987,
       "num": 552564,
       "word": "情侣救了一只小羊获一群羊感谢",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1719490457,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233068,
+      "num": 180571,
+      "word": "中国共产党的政治智慧",
+      "onboard_time": 1719496160,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231374,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1719463339,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227182,
+      "num": 227182,
+      "word": "神魂颠倒",
+      "onboard_time": 1719495199,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 226526,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1719492318,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 208044,
+      "num": 208044,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 207836,
@@ -1451,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194654,
-      "num": 181123,
-      "word": "洞鞋的苹果被两个阿姨抓了",
-      "onboard_time": 1719493157,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "林一说刘亦菲美貌拯救像素",
@@ -1539,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181340,
+      "num": 181340,
+      "word": "赵丽颖全新高定",
+      "onboard_time": 1719495680,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180787,
       "num": 143747,
       "word": "陈昊宇 弹幕",
@@ -1569,6 +1625,22 @@
       "onboard_time": 1719483498,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176200,
+      "num": 176200,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174774,
+      "num": 174774,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174595,
@@ -1649,14 +1721,6 @@
       "onboard_time": 1719486739,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164814,
-      "num": 164814,
-      "word": "丁克老人为自己买骨灰盒",
-      "onboard_time": 1719493400,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 161556,
@@ -2195,6 +2259,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128094,
+      "num": 128094,
+      "word": "AG锁定第二轮S组",
+      "onboard_time": 1719496460,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127771,
+      "num": 127771,
+      "word": "赵丽颖油画里的美人",
+      "onboard_time": 1719496641,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126743,
       "num": 126743,
       "word": "何洁 梦回超女",
@@ -2275,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118110,
+      "num": 118110,
+      "word": "LGD对战BLG",
+      "onboard_time": 1719496760,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116368,
       "num": 116368,
       "word": "里萨谢当选NBA状元",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1719404657,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114896,
-      "num": 114896,
-      "word": "饭后出现4个症状可能是胆囊炎",
-      "onboard_time": 1719494478,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114312,
@@ -2395,12 +2475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110167,
-      "num": 110167,
-      "word": "神魂颠倒",
-      "onboard_time": 1719495199,
+      "raw_hot": 109632,
+      "num": 109632,
+      "word": "三步上篮被大爷玩明白了",
+      "onboard_time": 1719497602,
       "rank": 47,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 109207,
@@ -2481,6 +2561,14 @@
       "onboard_time": 1719391699,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98375,
+      "num": 98375,
+      "word": "李海仁发声",
+      "onboard_time": 1719497781,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97384,
@@ -2915,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34505,
+      "num": 588762,
+      "word": "欧洲杯赌球赔率暗藏玄机",
+      "onboard_time": 1719496821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30145,
       "num": 129825,
       "word": "孟子义反内耗大使",
@@ -2953,6 +3049,14 @@
       "onboard_time": 1719478818,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25632,
+      "num": 132740,
+      "word": "新加坡或将批准16种昆虫作为食品售卖",
+      "onboard_time": 1719497181,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22481,
@@ -2995,6 +3099,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19481,
+      "num": 146340,
+      "word": "王传君孟子义合唱快乐崇拜",
+      "onboard_time": 1719494478,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16178,
       "num": 159173,
       "word": "美国男子因游戏争执怒奔网友家伤人",
@@ -3033,14 +3145,6 @@
       "onboard_time": 1719430452,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13395,
-      "num": 146340,
-      "word": "王传君孟子义合唱快乐崇拜",
-      "onboard_time": 1719494478,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13091,
