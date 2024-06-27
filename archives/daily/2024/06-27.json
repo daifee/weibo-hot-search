@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719473682036,
+  "endTime": 1719476661290,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -49,6 +49,14 @@
       "onboard_time": 1719453136,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249375,
+      "num": 1249375,
+      "word": "国足 死亡之组",
+      "onboard_time": 1719474196,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1204354,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 891229,
-      "num": 190110,
+      "num": 226825,
       "word": "家长月入一万不够孩子研学游七天",
       "onboard_time": 1719469039,
       "rank": 30,
@@ -203,8 +211,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674597,
+      "num": 674597,
+      "word": "张馨予说想要一个迪丽热巴",
+      "onboard_time": 1719473357,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642642,
-      "num": 197768,
+      "num": 220689,
       "word": "大伯长期不吃主食全身多处皮肤糜烂",
       "onboard_time": 1719468140,
       "rank": 21,
@@ -233,6 +249,14 @@
       "onboard_time": 1719453196,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 598612,
+      "num": 313867,
+      "word": "中国医科大无法毕业博士或被索赔百万",
+      "onboard_time": 1719474558,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595891,
@@ -307,6 +331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 505160,
+      "num": 349180,
+      "word": "凡希亚 来自天堂的魔鬼",
+      "onboard_time": 1719472638,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504397,
       "num": 368067,
       "word": "杨紫出发巴黎",
@@ -321,6 +353,14 @@
       "onboard_time": 1719443654,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 479520,
+      "num": 471372,
+      "word": "汪苏泷又多了一个名场面",
+      "onboard_time": 1719471979,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 477989,
@@ -339,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 471372,
-      "num": 471372,
-      "word": "汪苏泷又多了一个名场面",
-      "onboard_time": 1719471979,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 453867,
       "num": 379363,
       "word": "葡萄牙爆冷输球",
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 453252,
-      "num": 163192,
+      "num": 216528,
       "word": "恋综男嘉宾把送女方的礼物卖了",
       "onboard_time": 1719469578,
       "rank": 40,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 331726,
-      "num": 196138,
+      "num": 210067,
       "word": "容易得糖尿病的1个坏习惯",
       "onboard_time": 1719468020,
       "rank": 22,
@@ -585,6 +617,14 @@
       "onboard_time": 1719401417,
       "rank": 21,
       "category": "作品衍生,教育"
+    },
+    {
+      "raw_hot": 298394,
+      "num": 298394,
+      "word": "老挝免签",
+      "onboard_time": 1719473298,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 295799,
@@ -683,11 +723,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268977,
-      "num": 268977,
-      "word": "凡希亚 来自天堂的魔鬼",
-      "onboard_time": 1719472638,
-      "rank": 46,
+      "raw_hot": 271490,
+      "num": 271490,
+      "word": "确诊为土狗",
+      "onboard_time": 1719474918,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -705,6 +745,14 @@
       "onboard_time": 1719443415,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265595,
+      "num": 265595,
+      "word": "番茄身上的缝合线是什么",
+      "onboard_time": 1719474558,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 263975,
@@ -739,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250122,
+      "num": 323654,
+      "word": "50岁姨姨健身14年爆改小姐姐",
+      "onboard_time": 1719471738,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 247277,
       "num": 194702,
       "word": "李宗翰否认整容",
@@ -755,11 +811,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234309,
-      "num": 234309,
-      "word": "张馨予说想要一个迪丽热巴",
-      "onboard_time": 1719473357,
-      "rank": 14,
+      "raw_hot": 231374,
+      "num": 218094,
+      "word": "感情到了什么程度可以谈钱",
+      "onboard_time": 1719475218,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -777,6 +833,14 @@
       "onboard_time": 1719397459,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228172,
+      "num": 228172,
+      "word": "18强赛国足抽签",
+      "onboard_time": 1719473599,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 227858,
@@ -828,7 +892,7 @@
     },
     {
       "raw_hot": 217465,
-      "num": 159907,
+      "num": 188854,
       "word": "女儿高考688分妈妈豪横奖励18万",
       "onboard_time": 1719469519,
       "rank": 49,
@@ -891,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205402,
-      "num": 205402,
-      "word": "老挝免签",
-      "onboard_time": 1719473298,
-      "rank": 17,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 202335,
       "num": 202335,
       "word": "公安厅介入呼和浩特一村5人遇害案",
@@ -947,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197016,
+      "num": 197016,
+      "word": "国足下下签",
+      "onboard_time": 1719475757,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196045,
       "num": 196045,
       "word": "联合国秘书长回应玻利维亚政变",
@@ -961,6 +1025,14 @@
       "onboard_time": 1719472037,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193371,
+      "num": 193371,
+      "word": "林一说刘亦菲美貌拯救像素",
+      "onboard_time": 1719474138,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 192521,
@@ -987,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186965,
+      "num": 186965,
+      "word": "国足日本澳大利亚同组",
+      "onboard_time": 1719475577,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186795,
       "num": 479974,
       "word": "喝霸王茶姬city不city",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1719462739,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186169,
+      "num": 186169,
+      "word": "张小斐多少有点见外了",
+      "onboard_time": 1719475336,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185812,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1719459319,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175239,
+      "num": 175239,
+      "word": "海底捞有门店推出美甲收费标准",
+      "onboard_time": 1719475577,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173142,
@@ -1067,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160754,
+      "num": 160754,
+      "word": "小猫长胖了走不了自己的门",
+      "onboard_time": 1719472037,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "为什么不建议盲目当老师",
@@ -1099,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157221,
-      "num": 157221,
-      "word": "小猫长胖了走不了自己的门",
-      "onboard_time": 1719472037,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156336,
       "num": 156336,
       "word": "课本中的夏天",
@@ -1129,6 +1225,14 @@
       "onboard_time": 1719450918,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153183,
+      "num": 153183,
+      "word": "朴综星膝盖受伤",
+      "onboard_time": 1719475638,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 152527,
@@ -1209,6 +1313,14 @@
       "onboard_time": 1719420256,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147358,
+      "num": 147358,
+      "word": "2025年前后发射天问二号",
+      "onboard_time": 1719476117,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146771,
@@ -1307,6 +1419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138284,
+      "num": 160341,
+      "word": "妻子失联民警警觉发现真相",
+      "onboard_time": 1719473599,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136980,
+      "num": 136980,
+      "word": "假装松弛的离职博主比上班还卷",
+      "onboard_time": 1719473477,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136588,
       "num": 136588,
       "word": "小夭立牌被扔是P图",
@@ -1379,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130254,
+      "num": 130254,
+      "word": "别再用水直接冲生肉了",
+      "onboard_time": 1719475999,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 130182,
       "num": 567865,
       "word": "美院毕业展作品被破坏",
@@ -1411,12 +1547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128218,
-      "num": 128218,
-      "word": "18强赛国足抽签",
-      "onboard_time": 1719473599,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 128053,
+      "num": 128053,
+      "word": "刚果金爆发猴痘病毒",
+      "onboard_time": 1719474018,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126743,
@@ -1515,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111820,
+      "num": 111820,
+      "word": "2030年前后发射天问三号和天问四号",
+      "onboard_time": 1719476537,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111785,
       "num": 353041,
       "word": "毕业后的第一次旅行是准考证给的",
@@ -1539,28 +1683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109354,
-      "num": 109354,
-      "word": "假装松弛的离职博主比上班还卷",
-      "onboard_time": 1719473477,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109207,
       "num": 109207,
       "word": "二十届三中全会7月15日至18日召开",
       "onboard_time": 1719467599,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105735,
-      "num": 323654,
-      "word": "50岁姨姨健身14年爆改小姐姐",
-      "onboard_time": 1719471738,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 102542,
@@ -1713,14 +1841,6 @@
       "onboard_time": 1719409458,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70826,
-      "num": 160341,
-      "word": "妻子失联民警警觉发现真相",
-      "onboard_time": 1719473599,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70197,
@@ -1905,6 +2025,14 @@
       "onboard_time": 1719444316,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39766,
+      "num": 314250,
+      "word": "男生站台送别毕业同学泪如雨下",
+      "onboard_time": 1719475458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38143,
