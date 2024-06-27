@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719459341002,
+  "endTime": 1719462338287,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -107,19 +107,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1993605,
+      "num": 1993605,
+      "word": "李雪琴未通过体育加分",
+      "onboard_time": 1719456197,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1975461,
       "num": 1975461,
       "word": "李雪琴同学回应",
       "onboard_time": 1719410358,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1971580,
-      "num": 1971580,
-      "word": "李雪琴未通过体育加分",
-      "onboard_time": 1719456197,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1091247,
-      "num": 288078,
+      "num": 308114,
       "word": "每天喝2.5L水坚持了一年的感受",
       "onboard_time": 1719455716,
       "rank": 28,
@@ -665,6 +665,14 @@
       "onboard_time": 1719277939,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1075587,
+      "num": 977685,
+      "word": "难哄首波阵容官宣",
+      "onboard_time": 1719458297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 1073001,
@@ -873,6 +881,14 @@
       "onboard_time": 1719323240,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 946467,
+      "num": 729229,
+      "word": "差点以为迪丽热巴鼻影太重了",
+      "onboard_time": 1719458897,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 945613,
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819460,
+      "num": 691068,
+      "word": "歌手2024微博爆款综艺",
+      "onboard_time": 1719460098,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811391,
       "num": 496324,
       "word": "加沙女孩乘车被曝遭以军355发子弹击中",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1719371658,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 775743,
+      "num": 775743,
+      "word": "日本富士山发现三名濒死人员",
+      "onboard_time": 1719459557,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773423,
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666222,
+      "num": 450623,
+      "word": "刘楚恬 小桑稚",
+      "onboard_time": 1719461359,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666008,
       "num": 279040,
       "word": "男朋友给我转账写出借",
@@ -1817,14 +1857,6 @@
       "onboard_time": 1719118639,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620196,
-      "num": 620196,
-      "word": "难哄首波阵容官宣",
-      "onboard_time": 1719458297,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 618817,
@@ -2643,6 +2675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474523,
+      "num": 474523,
+      "word": "降薪引发基金经理离职潮",
+      "onboard_time": 1719458357,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 471420,
       "num": 471420,
       "word": "霍建华这是找到自己的赛道了",
@@ -3259,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412785,
+      "num": 412785,
+      "word": "伊能静真的好会养小孩",
+      "onboard_time": 1719460038,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412080,
       "num": 388060,
       "word": "EXO成员去了张艺兴演唱会",
@@ -3771,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353843,
+      "num": 305898,
+      "word": "歌手歌单",
+      "onboard_time": 1719462139,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353213,
       "num": 281402,
       "word": "我的家政阿姨想当我妹的婆婆",
@@ -3801,6 +3857,14 @@
       "onboard_time": 1719444736,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 349831,
+      "num": 301415,
+      "word": "小明兰长大了",
+      "onboard_time": 1719461298,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 349593,
@@ -4235,6 +4299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308691,
+      "num": 308691,
+      "word": "出国留学的回报率越来越低了吗",
+      "onboard_time": 1719460158,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 308454,
       "num": 251392,
       "word": "谢娜张杰又发糖了",
@@ -4587,20 +4659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280509,
-      "num": 280509,
-      "word": "差点以为迪丽热巴鼻影太重了",
-      "onboard_time": 1719458897,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 280215,
       "num": 170685,
       "word": "易猝死的人有4个共同点",
       "onboard_time": 1719243559,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 279378,
+      "num": 279378,
+      "word": "布朗尼落选首轮",
+      "onboard_time": 1719461058,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 278326,
@@ -4843,6 +4915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 263799,
+      "num": 263799,
+      "word": "白敬亭章若楠我承认之前声音大了点",
+      "onboard_time": 1719461960,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261545,
       "num": 222079,
       "word": "慕胥辞阵容官宣",
@@ -4955,6 +5035,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 252403,
+      "num": 252403,
+      "word": "不是说提倡要孩子吗 我要这个",
+      "onboard_time": 1719456737,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250171,
       "num": 250171,
       "word": "临近下班十分庆幸自己未婚",
@@ -5024,6 +5112,14 @@
       "word": "Manner事件 不要为难服务人员",
       "onboard_time": 1719058037,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245987,
+      "num": 552564,
+      "word": "情侣救了一只小羊获一群羊感谢",
+      "onboard_time": 1719455777,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5171,14 +5267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239549,
-      "num": 229555,
-      "word": "不是说提倡要孩子吗 我要这个",
-      "onboard_time": 1719456737,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
@@ -5227,14 +5315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235782,
-      "num": 552564,
-      "word": "情侣救了一只小羊获一群羊感谢",
-      "onboard_time": 1719455777,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235774,
       "num": 214225,
       "word": "苏醒不参加披荆斩棘的原因",
@@ -5265,14 +5345,6 @@
       "onboard_time": 1719311239,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234787,
-      "num": 234787,
-      "word": "降薪引发基金经理离职潮",
-      "onboard_time": 1719458357,
-      "rank": 33,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234237,
@@ -5667,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217291,
+      "num": 217291,
+      "word": "抓娃娃定档",
+      "onboard_time": 1719460999,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216876,
       "num": 166814,
       "word": "长相思2预告好虐",
@@ -6009,6 +6089,14 @@
       "onboard_time": 1719401298,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206674,
+      "num": 206674,
+      "word": "男生高考657分想报考国防科技大学",
+      "onboard_time": 1719460698,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 206643,
@@ -7171,6 +7259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182033,
+      "num": 182033,
+      "word": "浪5冠军预测",
+      "onboard_time": 1719461477,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181917,
       "num": 181917,
       "word": "颜心记 嫂子文学",
@@ -7265,6 +7361,14 @@
       "onboard_time": 1719204020,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179043,
+      "num": 179043,
+      "word": "今麦郎牛肉面",
+      "onboard_time": 1719459319,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 178637,
@@ -7441,6 +7545,14 @@
       "onboard_time": 1719324380,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174190,
+      "num": 174190,
+      "word": "杜江分享珍珠近况",
+      "onboard_time": 1719462200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 174064,
@@ -8211,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158733,
+      "num": 463934,
+      "word": "喝霸王茶姬city不city",
+      "onboard_time": 1719458059,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "阿尔巴尼亚0比1西班牙",
@@ -8243,6 +8363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157944,
+      "num": 157944,
+      "word": "梁朝伟闵熙珍合照",
+      "onboard_time": 1719460819,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157584,
       "num": 351709,
       "word": "实探暴雨中的长沙火车站",
@@ -8256,6 +8384,14 @@
       "word": "吴谨言王星越二搭一个看看实力",
       "onboard_time": 1719287059,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157441,
+      "num": 157441,
+      "word": "陈瑶古装",
+      "onboard_time": 1719461119,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -8601,6 +8737,14 @@
       "onboard_time": 1719205221,
       "rank": 9,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 151620,
+      "num": 151620,
+      "word": "部分冰杯价格超10元遭吐槽",
+      "onboard_time": 1719458778,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 151416,
@@ -8987,6 +9131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145003,
+      "num": 145003,
+      "word": "暴雪高管将造访上海ChinaJoy",
+      "onboard_time": 1719460819,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144719,
       "num": 144719,
       "word": "墨雨云间超前点映被吐槽太贵",
@@ -9041,6 +9193,14 @@
       "onboard_time": 1719061158,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 143797,
+      "num": 143797,
+      "word": "林一第一场戏就是和刘亦菲拍吻戏",
+      "onboard_time": 1719462318,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143457,
@@ -9915,14 +10075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125615,
-      "num": 125615,
-      "word": "部分冰杯价格超10元遭吐槽",
-      "onboard_time": 1719458778,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 125546,
       "num": 125546,
       "word": "梁永棋回应演前夫哥",
@@ -10337,6 +10489,14 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117721,
+      "num": 466400,
+      "word": "老人强迫让座被行拘",
+      "onboard_time": 1719462018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117580,
@@ -11035,14 +11195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103088,
-      "num": 103088,
-      "word": "今麦郎牛肉面",
-      "onboard_time": 1719459319,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102848,
       "num": 102848,
       "word": "沈月卡通白裙",
@@ -11483,6 +11635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86161,
+      "num": 981625,
+      "word": "为什么要去月球背面挖宝",
+      "onboard_time": 1719460878,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85514,
       "num": 878670,
       "word": "收下这份暴雨天避险自救指南",
@@ -11777,6 +11937,14 @@
       "onboard_time": 1719244398,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68612,
+      "num": 305028,
+      "word": "大胆预测谁会身披灵龙为中国领奖",
+      "onboard_time": 1719457758,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 67987,
@@ -12435,14 +12603,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 39629,
-      "num": 198087,
-      "word": "大胆预测谁会身披灵龙为中国领奖",
-      "onboard_time": 1719457758,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39590,
       "num": 288102,
       "word": "长沙民警在齐腰积水中救人",
@@ -12481,14 +12641,6 @@
       "onboard_time": 1719200898,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38405,
-      "num": 463934,
-      "word": "喝霸王茶姬city不city",
-      "onboard_time": 1719458059,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 38317,
