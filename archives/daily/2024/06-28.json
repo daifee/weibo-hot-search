@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719523093205,
+  "endTime": 1719524084300,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45470,
+      "num": 45470,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43663,
       "num": 53589,
       "word": "京城大师赛",
@@ -499,16 +507,16 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 22323,
-      "num": 22323,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 22529,
+      "num": 22529,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 19601,
-      "num": 20653,
+      "raw_hot": 20162,
+      "num": 21720,
       "word": "拼团买猫粮还没收到平台已确认收货",
       "onboard_time": 1719517391,
       "rank": 43,
@@ -523,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17747,
-      "num": 17747,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 17128,
       "num": 20670,
       "word": "颜心记",
@@ -539,8 +539,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13017,
-      "num": 15426,
+      "raw_hot": 15645,
+      "num": 15645,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13420,
+      "num": 15641,
       "word": "汛期科学避险自救指南",
       "onboard_time": 1719520391,
       "rank": 48,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719523093205,
+  "endTime": 1719524084300,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -14243,6 +14243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45470,
+      "num": 45470,
+      "word": "中国女子日本街头骑电动行李箱被罚",
+      "onboard_time": 1719521890,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44895,
       "num": 339537,
       "word": "张艺谋龙年龙服助力奥运",
@@ -14971,6 +14979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22529,
+      "num": 22529,
+      "word": "为什么有些人坚持健身反而更显老",
+      "onboard_time": 1719521831,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 22481,
       "num": 184557,
       "word": "朝鲜谴责乌用美制导弹袭击塞瓦斯托波尔",
@@ -14993,14 +15009,6 @@
       "onboard_time": 1719212778,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22323,
-      "num": 22323,
-      "word": "中国女子日本街头骑电动行李箱被罚",
-      "onboard_time": 1719521890,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21947,
@@ -15067,20 +15075,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 20162,
+      "num": 21720,
+      "word": "拼团买猫粮还没收到平台已确认收货",
+      "onboard_time": 1719517391,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20062,
       "num": 27329,
       "word": "风油精的隐藏妙用",
       "onboard_time": 1719180191,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19601,
-      "num": 20653,
-      "word": "拼团买猫粮还没收到平台已确认收货",
-      "onboard_time": 1719517391,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19481,
@@ -15145,14 +15153,6 @@
       "onboard_time": 1719513372,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17747,
-      "num": 17747,
-      "word": "为什么有些人坚持健身反而更显老",
-      "onboard_time": 1719521831,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 17613,
@@ -15241,6 +15241,14 @@
       "onboard_time": 1719388818,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15645,
+      "num": 15645,
+      "word": "出门两三个小时空调要不要关",
+      "onboard_time": 1719523270,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 15618,
@@ -15355,6 +15363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13420,
+      "num": 15641,
+      "word": "汛期科学避险自救指南",
+      "onboard_time": 1719520391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13091,
       "num": 16236,
       "word": "原神4.7版本",
@@ -15369,14 +15385,6 @@
       "onboard_time": 1719138439,
       "rank": 14,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 13017,
-      "num": 15426,
-      "word": "汛期科学避险自救指南",
-      "onboard_time": 1719520391,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12961,
