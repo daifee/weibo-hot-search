@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719516967297,
+  "endTime": 1719519597795,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -15273,6 +15273,14 @@
       "onboard_time": 1719406818,
       "rank": 14,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 14780,
+      "num": 15642,
+      "word": "拼团买猫粮还没收到平台已确认收货",
+      "onboard_time": 1719517391,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14405,
