@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719472681419,
+  "endTime": 1719473682036,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 891229,
+      "num": 190110,
+      "word": "家长月入一万不够孩子研学游七天",
+      "onboard_time": 1719469039,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875208,
       "num": 804342,
       "word": "小夭立牌被扔垃圾桶",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 743659,
-      "num": 190110,
-      "word": "家长月入一万不够孩子研学游七天",
-      "onboard_time": 1719469039,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 732154,
       "num": 254458,
       "word": "李雪琴同学回应",
@@ -201,6 +201,14 @@
       "onboard_time": 1719451517,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 642642,
+      "num": 197768,
+      "word": "大伯长期不吃主食全身多处皮肤糜烂",
+      "onboard_time": 1719468140,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638347,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527226,
-      "num": 197768,
-      "word": "大伯长期不吃主食全身多处皮肤糜烂",
-      "onboard_time": 1719468140,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519933,
       "num": 519933,
       "word": "温州女生高考726分称自己不是天赋型",
@@ -337,6 +337,14 @@
       "onboard_time": 1719417797,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 471372,
+      "num": 471372,
+      "word": "汪苏泷又多了一个名场面",
+      "onboard_time": 1719471979,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 453867,
@@ -515,6 +523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339898,
+      "num": 339898,
+      "word": "A股",
+      "onboard_time": 1719471857,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 331726,
+      "num": 196138,
+      "word": "容易得糖尿病的1个坏习惯",
+      "onboard_time": 1719468020,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 324247,
       "num": 216259,
       "word": "偷米diss杨和苏",
@@ -529,14 +553,6 @@
       "onboard_time": 1719445096,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318079,
-      "num": 318079,
-      "word": "A股",
-      "onboard_time": 1719471857,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 316045,
@@ -635,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279130,
-      "num": 279130,
-      "word": "汪苏泷又多了一个名场面",
-      "onboard_time": 1719471979,
-      "rank": 12,
-      "category": "演出"
+      "raw_hot": 279148,
+      "num": 279148,
+      "word": "吴谨言王星越吻戏没人喊停",
+      "onboard_time": 1719468620,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 276667,
@@ -667,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268977,
+      "num": 268977,
+      "word": "凡希亚 来自天堂的魔鬼",
+      "onboard_time": 1719472638,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267979,
       "num": 267979,
       "word": "欧洲杯16强出炉",
@@ -689,14 +713,6 @@
       "onboard_time": 1719448097,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 263366,
-      "num": 196138,
-      "word": "容易得糖尿病的1个坏习惯",
-      "onboard_time": 1719468020,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 258338,
@@ -739,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234569,
-      "num": 234569,
-      "word": "吴谨言王星越吻戏没人喊停",
-      "onboard_time": 1719468620,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 234309,
+      "num": 234309,
+      "word": "张馨予说想要一个迪丽热巴",
+      "onboard_time": 1719473357,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 230605,
@@ -795,11 +811,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220536,
+      "num": 382734,
+      "word": "预售制个人拼团团长卷款跑路",
+      "onboard_time": 1719468020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219501,
       "num": 219501,
       "word": "胖东来奖励顾客10万元",
       "onboard_time": 1719454157,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217465,
+      "num": 159907,
+      "word": "女儿高考688分妈妈豪横奖励18万",
+      "onboard_time": 1719469519,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -809,14 +841,6 @@
       "onboard_time": 1719460999,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216943,
-      "num": 159907,
-      "word": "女儿高考688分妈妈豪横奖励18万",
-      "onboard_time": 1719469519,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213928,
@@ -865,6 +889,14 @@
       "onboard_time": 1719471738,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205402,
+      "num": 205402,
+      "word": "老挝免签",
+      "onboard_time": 1719473298,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 202335,
@@ -923,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 194686,
+      "num": 159010,
+      "word": "汪苏泷 听见下雨的声音",
+      "onboard_time": 1719472037,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192521,
       "num": 192521,
       "word": "张艺兴官宣西安站巡演",
@@ -937,14 +977,6 @@
       "onboard_time": 1719461477,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189037,
-      "num": 382734,
-      "word": "预售制个人拼团团长卷款跑路",
-      "onboard_time": 1719468020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188078,
@@ -977,14 +1009,6 @@
       "onboard_time": 1719446056,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185612,
-      "num": 152613,
-      "word": "汪苏泷 听见下雨的声音",
-      "onboard_time": 1719472037,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 180787,
@@ -1051,6 +1075,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 158491,
+      "num": 158491,
+      "word": "虞书欣辣妹露腰T",
+      "onboard_time": 1719470718,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157944,
       "num": 157944,
       "word": "梁朝伟闵熙珍合照",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1719461119,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157221,
+      "num": 157221,
+      "word": "小猫长胖了走不了自己的门",
+      "onboard_time": 1719472037,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 156336,
@@ -1259,14 +1299,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 139756,
-      "num": 139756,
-      "word": "虞书欣辣妹露腰T",
-      "onboard_time": 1719470718,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139110,
       "num": 139110,
       "word": "种菜游戏暴雷涉及资金近3亿元",
@@ -1379,20 +1411,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128218,
+      "num": 128218,
+      "word": "18强赛国足抽签",
+      "onboard_time": 1719473599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126743,
       "num": 126743,
       "word": "何洁 梦回超女",
       "onboard_time": 1719413001,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124656,
-      "num": 124656,
-      "word": "小猫长胖了走不了自己的门",
-      "onboard_time": 1719472037,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 123092,
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114312,
+      "num": 114312,
+      "word": "嫦娥六号任务新闻发布会",
+      "onboard_time": 1719473658,
+      "rank": 46,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 114073,
       "num": 114073,
       "word": "有水贝黄金加工企业停工放假",
@@ -1499,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109354,
+      "num": 109354,
+      "word": "假装松弛的离职博主比上班还卷",
+      "onboard_time": 1719473477,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109207,
       "num": 109207,
       "word": "二十届三中全会7月15日至18日召开",
@@ -1507,12 +1555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 107722,
-      "num": 107722,
-      "word": "凡希亚 来自天堂的魔鬼",
-      "onboard_time": 1719472638,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 105735,
+      "num": 323654,
+      "word": "50岁姨姨健身14年爆改小姐姐",
+      "onboard_time": 1719471738,
+      "rank": 9,
+      "category": "运动健身"
     },
     {
       "raw_hot": 102542,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1719391699,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97839,
-      "num": 323654,
-      "word": "50岁姨姨健身14年爆改小姐姐",
-      "onboard_time": 1719471738,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 97384,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1719409458,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70826,
+      "num": 160341,
+      "word": "妻子失联民警警觉发现真相",
+      "onboard_time": 1719473599,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70197,
@@ -1921,6 +1969,14 @@
       "onboard_time": 1719419715,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 16178,
+      "num": 159173,
+      "word": "美国男子因游戏争执怒奔网友家伤人",
+      "onboard_time": 1719473417,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15883,
