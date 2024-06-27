@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719462338287,
+  "endTime": 1719463177504,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -4059,6 +4059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1118296,
+      "num": 912674,
+      "word": "刘楚恬 小桑稚",
+      "onboard_time": 1719461359,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1118008,
       "num": 1118008,
       "word": "金曲奖取消致敬李玟表演",
@@ -4284,7 +4292,7 @@
     },
     {
       "raw_hot": 1091247,
-      "num": 308114,
+      "num": 380182,
       "word": "每天喝2.5L水坚持了一年的感受",
       "onboard_time": 1719455716,
       "rank": 28,
@@ -5955,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893982,
+      "num": 893982,
+      "word": "日本富士山发现三名濒死人员",
+      "onboard_time": 1719459557,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 891895,
       "num": 576460,
       "word": "Angelababy线下生图状态",
@@ -7328,14 +7344,6 @@
       "word": "5岁女童疑遭老头猥亵摸屁股",
       "onboard_time": 1718329037,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775743,
-      "num": 775743,
-      "word": "日本富士山发现三名濒死人员",
-      "onboard_time": 1719459557,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -9609,14 +9617,6 @@
       "onboard_time": 1719192917,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666222,
-      "num": 450623,
-      "word": "刘楚恬 小桑稚",
-      "onboard_time": 1719461359,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 666008,
@@ -14395,6 +14395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 510209,
+      "num": 510209,
+      "word": "降薪引发基金经理离职潮",
+      "onboard_time": 1719458357,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 509705,
       "num": 238839,
       "word": "男生大四退学艺考五年仍落榜",
@@ -15723,14 +15731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474523,
-      "num": 474523,
-      "word": "降薪引发基金经理离职潮",
-      "onboard_time": 1719458357,
-      "rank": 33,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 474496,
       "num": 246500,
       "word": "东方甄选知识带货变喊麦带货",
@@ -16065,6 +16065,14 @@
       "onboard_time": 1718148316,
       "rank": 27,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 466431,
+      "num": 382177,
+      "word": "白敬亭章若楠我承认之前声音大了点",
+      "onboard_time": 1719461960,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 466387,
@@ -18721,6 +18729,14 @@
       "onboard_time": 1718668096,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414199,
+      "num": 414199,
+      "word": "出国留学的回报率越来越低了吗",
+      "onboard_time": 1719460158,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 413914,
@@ -22172,7 +22188,7 @@
     },
     {
       "raw_hot": 349831,
-      "num": 301415,
+      "num": 310726,
       "word": "小明兰长大了",
       "onboard_time": 1719461298,
       "rank": 25,
@@ -22553,6 +22569,14 @@
       "onboard_time": 1718757798,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 343811,
+      "num": 343811,
+      "word": "杜江分享珍珠近况",
+      "onboard_time": 1719462200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 343810,
@@ -24921,14 +24945,6 @@
       "onboard_time": 1718017097,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 308691,
-      "num": 308691,
-      "word": "出国留学的回报率越来越低了吗",
-      "onboard_time": 1719460158,
-      "rank": 19,
-      "category": "社会议题"
     },
     {
       "raw_hot": 308661,
@@ -28843,14 +28859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263799,
-      "num": 263799,
-      "word": "白敬亭章若楠我承认之前声音大了点",
-      "onboard_time": 1719461960,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263795,
       "num": 263795,
       "word": "田曦薇新剧演女警",
@@ -32035,6 +32043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230605,
+      "num": 230605,
+      "word": "林一第一场戏就是和刘亦菲拍吻戏",
+      "onboard_time": 1719462318,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230552,
       "num": 230552,
       "word": "王一珩当上董事长",
@@ -32715,6 +32731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225723,
+      "num": 225723,
+      "word": "鹿晗新歌",
+      "onboard_time": 1719462619,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "沈星回卡套",
@@ -33049,6 +33073,14 @@
       "onboard_time": 1718400612,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222955,
+      "num": 222955,
+      "word": "歌手这周有邓紫棋的歌",
+      "onboard_time": 1719462739,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 222949,
@@ -34537,6 +34569,14 @@
       "onboard_time": 1718288000,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213928,
+      "num": 213928,
+      "word": "张杰给跳跳俏俏小咘芽的飞吻",
+      "onboard_time": 1719462980,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 213830,
@@ -37915,6 +37955,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199739,
+      "num": 192221,
+      "word": "颜心记直播",
+      "onboard_time": 1719462918,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199722,
       "num": 275724,
       "word": "章昊RICKY打歌",
@@ -39195,6 +39243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195647,
+      "num": 192145,
+      "word": "杨洋 city一下",
+      "onboard_time": 1719462739,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195637,
       "num": 195637,
       "word": "特控线",
@@ -40419,6 +40475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191078,
+      "num": 191078,
+      "word": "浪5冠军预测",
+      "onboard_time": 1719461477,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191064,
       "num": 172993,
       "word": "黄亦玫失恋",
@@ -41539,6 +41603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186795,
+      "num": 479974,
+      "word": "喝霸王茶姬city不city",
+      "onboard_time": 1719458059,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186755,
       "num": 186755,
       "word": "KPL",
@@ -41697,6 +41769,14 @@
       "onboard_time": 1719101234,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186358,
+      "num": 186358,
+      "word": "魔兽世界地心之战",
+      "onboard_time": 1719462739,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 186311,
@@ -42697,14 +42777,6 @@
       "onboard_time": 1718190019,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182033,
-      "num": 182033,
-      "word": "浪5冠军预测",
-      "onboard_time": 1719461477,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 181991,
@@ -44561,14 +44633,6 @@
       "onboard_time": 1718945119,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174190,
-      "num": 174190,
-      "word": "杜江分享珍珠近况",
-      "onboard_time": 1719462200,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 174130,
@@ -47491,6 +47555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162774,
+      "num": 505475,
+      "word": "老人强迫让座被行拘",
+      "onboard_time": 1719462018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162773,
       "num": 162773,
       "word": "周洁琼跳了Supernova",
@@ -48729,14 +48801,6 @@
       "onboard_time": 1718608938,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158733,
-      "num": 463934,
-      "word": "喝霸王茶姬city不city",
-      "onboard_time": 1719458059,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 158732,
@@ -50385,6 +50449,14 @@
       "onboard_time": 1717588397,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153495,
+      "num": 153495,
+      "word": "胡塞武装首次宣布使用高超音速导弹",
+      "onboard_time": 1719463100,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153482,
@@ -53425,14 +53497,6 @@
       "onboard_time": 1719295819,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143797,
-      "num": 143797,
-      "word": "林一第一场戏就是和刘亦菲拍吻戏",
-      "onboard_time": 1719462318,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 143770,
@@ -61497,14 +61561,6 @@
       "onboard_time": 1718808140,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117721,
-      "num": 466400,
-      "word": "老人强迫让座被行拘",
-      "onboard_time": 1719462018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117702,
@@ -69705,6 +69761,14 @@
       "onboard_time": 1718407395,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71543,
+      "num": 917893,
+      "word": "向9省份预拨4.96亿救灾资金",
+      "onboard_time": 1719462499,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71530,

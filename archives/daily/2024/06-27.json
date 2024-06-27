@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719462338287,
+  "endTime": 1719463177504,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -59,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118296,
+      "num": 912674,
+      "word": "刘楚恬 小桑稚",
+      "onboard_time": 1719461359,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1091247,
-      "num": 308114,
+      "num": 380182,
       "word": "每天喝2.5L水坚持了一年的感受",
       "onboard_time": 1719455716,
       "rank": 28,
@@ -73,6 +81,14 @@
       "onboard_time": 1719458297,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1009835,
+      "num": 838308,
+      "word": "歌手歌单",
+      "onboard_time": 1719462139,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 946467,
@@ -89,6 +105,14 @@
       "onboard_time": 1719449779,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 893982,
+      "num": 893982,
+      "word": "日本富士山发现三名濒死人员",
+      "onboard_time": 1719459557,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875208,
@@ -113,14 +137,6 @@
       "onboard_time": 1719460098,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 775743,
-      "num": 775743,
-      "word": "日本富士山发现三名濒死人员",
-      "onboard_time": 1719459557,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 765599,
@@ -153,14 +169,6 @@
       "onboard_time": 1719451517,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 666222,
-      "num": 450623,
-      "word": "刘楚恬 小桑稚",
-      "onboard_time": 1719461359,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 638347,
@@ -243,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 510209,
+      "num": 510209,
+      "word": "降薪引发基金经理离职潮",
+      "onboard_time": 1719458357,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 488374,
       "num": 488374,
       "word": "玻利维亚发生军事政变",
@@ -259,12 +275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 474523,
-      "num": 474523,
-      "word": "降薪引发基金经理离职潮",
-      "onboard_time": 1719458357,
-      "rank": 33,
-      "category": "财经,社会新闻"
+      "raw_hot": 466431,
+      "num": 382177,
+      "word": "白敬亭章若楠我承认之前声音大了点",
+      "onboard_time": 1719461960,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 453867,
@@ -307,6 +323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 414199,
+      "num": 414199,
+      "word": "出国留学的回报率越来越低了吗",
+      "onboard_time": 1719460158,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 412785,
       "num": 412785,
       "word": "伊能静真的好会养小孩",
@@ -347,14 +371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 353843,
-      "num": 305898,
-      "word": "歌手歌单",
-      "onboard_time": 1719462139,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349970,
       "num": 349970,
       "word": "法老 27狗子来了",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 349831,
-      "num": 301415,
+      "num": 310726,
       "word": "小明兰长大了",
       "onboard_time": 1719461298,
       "rank": 25,
@@ -385,6 +401,14 @@
       "onboard_time": 1719404418,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343811,
+      "num": 343811,
+      "word": "杜江分享珍珠近况",
+      "onboard_time": 1719462200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 324247,
@@ -417,14 +441,6 @@
       "onboard_time": 1719452656,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308691,
-      "num": 308691,
-      "word": "出国留学的回报率越来越低了吗",
-      "onboard_time": 1719460158,
-      "rank": 19,
-      "category": "社会议题"
     },
     {
       "raw_hot": 305492,
@@ -531,14 +547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 263799,
-      "num": 263799,
-      "word": "白敬亭章若楠我承认之前声音大了点",
-      "onboard_time": 1719461960,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258338,
       "num": 258338,
       "word": "崔永熙冲击NBA",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230605,
+      "num": 230605,
+      "word": "林一第一场戏就是和刘亦菲拍吻戏",
+      "onboard_time": 1719462318,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229676,
       "num": 229676,
       "word": "女儿不想结婚爸爸舌战亲戚",
@@ -587,12 +603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225723,
+      "num": 225723,
+      "word": "鹿晗新歌",
+      "onboard_time": 1719462619,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224551,
       "num": 224551,
       "word": "毒贩在禁毒视频下打广告被抓",
       "onboard_time": 1719412037,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222955,
+      "num": 222955,
+      "word": "歌手这周有邓紫棋的歌",
+      "onboard_time": 1719462739,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 219501,
@@ -609,6 +641,14 @@
       "onboard_time": 1719460999,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213928,
+      "num": 213928,
+      "word": "张杰给跳跳俏俏小咘芽的飞吻",
+      "onboard_time": 1719462980,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 213323,
@@ -667,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199739,
+      "num": 192221,
+      "word": "颜心记直播",
+      "onboard_time": 1719462918,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197644,
       "num": 197644,
       "word": "章若楠杀青拍立得",
@@ -683,12 +731,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 195647,
+      "num": 192145,
+      "word": "杨洋 city一下",
+      "onboard_time": 1719462739,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192521,
       "num": 192521,
       "word": "张艺兴官宣西安站巡演",
       "onboard_time": 1719458419,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191078,
+      "num": 191078,
+      "word": "浪5冠军预测",
+      "onboard_time": 1719461477,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 188078,
@@ -699,20 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186795,
+      "num": 479974,
+      "word": "喝霸王茶姬city不city",
+      "onboard_time": 1719458059,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 186358,
+      "num": 186358,
+      "word": "魔兽世界地心之战",
+      "onboard_time": 1719462739,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185812,
       "num": 185812,
       "word": "法老 小精灵",
       "onboard_time": 1719446056,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182033,
-      "num": 182033,
-      "word": "浪5冠军预测",
-      "onboard_time": 1719461477,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 180787,
@@ -731,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174190,
-      "num": 174190,
-      "word": "杜江分享珍珠近况",
-      "onboard_time": 1719462200,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170342,
       "num": 170342,
       "word": "原来小时候吃的都是这么细的糠",
@@ -747,20 +811,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162774,
+      "num": 505475,
+      "word": "老人强迫让座被行拘",
+      "onboard_time": 1719462018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "为什么不建议盲目当老师",
       "onboard_time": 1719413661,
       "rank": 16,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 158733,
-      "num": 463934,
-      "word": "喝霸王茶姬city不city",
-      "onboard_time": 1719458059,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 157944,
@@ -785,6 +849,14 @@
       "onboard_time": 1719450918,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153495,
+      "num": 153495,
+      "word": "胡塞武装首次宣布使用高超音速导弹",
+      "onboard_time": 1719463100,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 152527,
@@ -897,14 +969,6 @@
       "onboard_time": 1719409818,
       "rank": 19,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 143797,
-      "num": 143797,
-      "word": "林一第一场戏就是和刘亦菲拍吻戏",
-      "onboard_time": 1719462318,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 143618,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1719456918,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117721,
-      "num": 466400,
-      "word": "老人强迫让座被行拘",
-      "onboard_time": 1719462018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116368,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1719409458,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71543,
+      "num": 917893,
+      "word": "向9省份预拨4.96亿救灾资金",
+      "onboard_time": 1719462499,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70197,
