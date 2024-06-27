@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719508763066,
+  "endTime": 1719509724633,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 581488,
-      "num": 134188,
+      "num": 219671,
       "word": "几兄弟能把asen气死",
       "onboard_time": 1719505516,
       "rank": 20,
@@ -83,7 +83,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 377388,
+      "raw_hot": 380263,
       "num": 231316,
       "word": "杨和苏diss",
       "onboard_time": 1719483498,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 190648,
-      "num": 190648,
+      "num": 223985,
       "word": "梅雨季一次性内裤成了南方人刚需",
       "onboard_time": 1719493400,
       "rank": 17,
@@ -177,6 +177,14 @@
       "onboard_time": 1719487458,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160320,
+      "num": 160320,
+      "word": "digi大战活死人",
+      "onboard_time": 1719508515,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 153331,
@@ -371,8 +379,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 75511,
-      "num": 75511,
+      "raw_hot": 76555,
+      "num": 76555,
       "word": "张婧仪皱眉也好漂亮",
       "onboard_time": 1719508035,
       "rank": 30,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 58788,
-      "num": 87544,
+      "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
       "onboard_time": 1719498859,
       "rank": 49,
@@ -443,20 +451,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44218,
-      "num": 53778,
-      "word": "digi大战活死人",
-      "onboard_time": 1719508515,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 43663,
       "num": 53589,
       "word": "京城大师赛",
       "onboard_time": 1719500060,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34031,
+      "num": 42295,
+      "word": "神魂颠倒",
+      "onboard_time": 1719495199,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 11877,
@@ -473,6 +481,9 @@
     },
     {
       "word": "#中越命运共同体建设开局良好#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
