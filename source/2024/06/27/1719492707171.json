@@ -1,0 +1,410 @@
+{
+  "runTime": 1719492707171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986930,
+        "num": 986930,
+        "word": "歌手迎首位国际冲榜歌手",
+        "onboard_time": 1719487220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540517,
+        "num": 540517,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35593,
+        "num": 538893,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1730011,
+        "num": 538666,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1126038,
+        "num": 535952,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014472,
+        "num": 534614,
+        "word": "玲子怀孕",
+        "onboard_time": 1719488839,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 680303,
+        "num": 533216,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 661114,
+        "num": 531034,
+        "word": "龚琳娜回应法老diss",
+        "onboard_time": 1719488178,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 529685,
+        "num": 529685,
+        "word": "美国外交官被发现死于基辅一酒店",
+        "onboard_time": 1719486019,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43420,
+        "num": 521492,
+        "word": "带姥姥出来旅游真的超酷",
+        "onboard_time": 1719491418,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 621370,
+        "num": 521006,
+        "word": "肖战陈情令在日本有多火",
+        "onboard_time": 1719487458,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514829,
+        "num": 514829,
+        "word": "老公心疼老婆生娃不易雇3个月嫂",
+        "onboard_time": 1719489498,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379533,
+        "num": 379533,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379393,
+        "num": 379393,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353433,
+        "num": 353433,
+        "word": "白玉兰提名红毯生图",
+        "onboard_time": 1719488538,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343909,
+        "num": 343909,
+        "word": "袁娅维被那姐偷走两颗水钻",
+        "onboard_time": 1719490878,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342570,
+        "num": 342570,
+        "word": "王星越正是喜欢亲嘴的年纪",
+        "onboard_time": 1719484638,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296864,
+        "num": 296864,
+        "word": "一加手表",
+        "onboard_time": 1719487819,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283218,
+        "num": 283218,
+        "word": "顾客胖东来排长龙办退款",
+        "onboard_time": 1719480678,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212183,
+        "num": 212183,
+        "word": "一加Ace3Pro",
+        "onboard_time": 1719492318,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279702,
+        "num": 212057,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229095,
+        "num": 212003,
+        "word": "张凌赫吃柠檬 酸汤肥牛",
+        "onboard_time": 1719486080,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224855,
+        "num": 211894,
+        "word": "孙俪问邓超是想和她拉近距离吗",
+        "onboard_time": 1719492378,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224599,
+        "num": 211744,
+        "word": "墨雨云间导演三次婉拒王星越吻戏",
+        "onboard_time": 1719489617,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221637,
+        "num": 211594,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213818,
+        "num": 211492,
+        "word": "新秀diss已写好",
+        "onboard_time": 1719490818,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211428,
+        "num": 211428,
+        "word": "偶遇郑帝元",
+        "onboard_time": 1719490457,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185458,
+        "num": 185458,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181796,
+        "num": 181796,
+        "word": "钟薛高主播",
+        "onboard_time": 1719478218,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 179717,
+        "num": 179717,
+        "word": "职业本科更好找工作吗",
+        "onboard_time": 1719486917,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157981,
+        "num": 157981,
+        "word": "陶喆北京",
+        "onboard_time": 1719490519,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154717,
+        "num": 154717,
+        "word": "时代峰峻说不会放松对二团的运营",
+        "onboard_time": 1719488657,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143714,
+        "num": 143714,
+        "word": "王者荣耀 花里胡哨",
+        "onboard_time": 1719480498,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "杨和苏媚粉",
+        "onboard_time": 1719485780,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136857,
+        "num": 136857,
+        "word": "和400桌人一起吃牛肉火锅",
+        "onboard_time": 1719492078,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136423,
+        "num": 136423,
+        "word": "喻言用矿泉水瓶自制配饰",
+        "onboard_time": 1719489017,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124541,
+        "num": 124541,
+        "word": "李飞采访",
+        "onboard_time": 1719488779,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23282,
+        "num": 115998,
+        "word": "孟子义反内耗大使",
+        "onboard_time": 1719491299,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115441,
+        "num": 115441,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108757,
+        "num": 108757,
+        "word": "女孩高考查分前车祸至今昏迷不醒",
+        "onboard_time": 1719492559,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120151,
+        "num": 108591,
+        "word": "对接否认杨紫演兰香如故",
+        "onboard_time": 1719490878,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105469,
+        "num": 105469,
+        "word": "你叫好多小狗宝宝",
+        "onboard_time": 1719491839,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104770,
+        "num": 104770,
+        "word": "你的名字8年是怎样的存在",
+        "onboard_time": 1719492619,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 98839,
+        "num": 98839,
+        "word": "中国医科大无法毕业博士或被索赔百万",
+        "onboard_time": 1719474558,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98036,
+        "num": 98036,
+        "word": "陶喆南昌抢票",
+        "onboard_time": 1719490938,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95625,
+        "num": 95625,
+        "word": "钟薛高老林回应女主播直播时倒地",
+        "onboard_time": 1719479478,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94550,
+        "num": 94550,
+        "word": "国防部发言人回应美方威胁恫吓",
+        "onboard_time": 1719479297,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94544,
+        "num": 94544,
+        "word": "国足 死亡之组",
+        "onboard_time": 1719474196,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91589,
+        "num": 91589,
+        "word": "RNG战胜WE",
+        "onboard_time": 1719490519,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90052,
+        "num": 90052,
+        "word": "医院收座椅费合规但是否合理",
+        "onboard_time": 1719487220,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
