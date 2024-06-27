@@ -1,10 +1,10 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719455694866,
+  "endTime": 1719456303258,
   "band_list": [
     {
-      "raw_hot": 2139115,
-      "num": 2139115,
+      "raw_hot": 2176044,
+      "num": 2176044,
       "word": "胖东来为买擀面皮顾客补偿共883.3万元",
       "onboard_time": 1719452117,
       "rank": 27,
@@ -19,6 +19,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1459902,
+      "num": 823765,
+      "word": "蒋敦豪 豪士",
+      "onboard_time": 1719454937,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1298078,
       "num": 1298078,
       "word": "法老diss",
@@ -27,20 +35,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1276263,
+      "num": 1276263,
+      "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+      "onboard_time": 1719453136,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204354,
       "num": 962971,
       "word": "李雪琴高考分数",
       "onboard_time": 1719414860,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1103893,
-      "num": 1103893,
-      "word": "单亲妈妈从7楼狂扔女儿物品获刑",
-      "onboard_time": 1719453136,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 940348,
@@ -57,14 +65,6 @@
       "onboard_time": 1719446117,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 823765,
-      "num": 823765,
-      "word": "蒋敦豪 豪士",
-      "onboard_time": 1719454937,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 732154,
@@ -91,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636366,
+      "num": 636366,
+      "word": "胖东来已关停卫生环境差擀面皮档口",
+      "onboard_time": 1719454637,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624894,
+      "num": 624894,
+      "word": "全国首个殡葬职业本科专业",
+      "onboard_time": 1719453196,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 595891,
       "num": 595891,
       "word": "霉霉高歌时遭飞虫入口",
@@ -99,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554805,
-      "num": 554805,
-      "word": "全国首个殡葬职业本科专业",
-      "onboard_time": 1719453196,
-      "rank": 7,
-      "category": "教育,社会新闻"
+      "raw_hot": 563534,
+      "num": 563534,
+      "word": "难哄杀青",
+      "onboard_time": 1719455477,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 543913,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443930,
+      "num": 443930,
+      "word": "大批00后即将抵达奥运赛场",
+      "onboard_time": 1719453977,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423991,
       "num": 423991,
       "word": "金价从最高点回落6%",
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 397385,
-      "num": 202605,
+      "num": 203916,
       "word": "小狗不许上床",
       "onboard_time": 1719451158,
       "rank": 32,
@@ -259,22 +283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 311763,
-      "num": 311763,
-      "word": "胖东来已关停卫生环境差擀面皮档口",
-      "onboard_time": 1719454637,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311590,
-      "num": 311590,
-      "word": "大批00后即将抵达奥运赛场",
-      "onboard_time": 1719453977,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "宋轶颜心记版消失的她",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 305492,
-      "num": 197354,
+      "num": 201018,
       "word": "不经意慢慢变有钱的习惯",
       "onboard_time": 1719453017,
       "rank": 22,
@@ -427,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207836,
+      "num": 207836,
+      "word": "陆虎巡演官宣",
+      "onboard_time": 1719455898,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202335,
       "num": 202335,
       "word": "公安厅介入呼和浩特一村5人遇害案",
       "onboard_time": 1719451456,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 201609,
+      "num": 159175,
+      "word": "七月桃花运最旺的星座",
+      "onboard_time": 1719455716,
+      "rank": 30,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 201419,
@@ -443,10 +467,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194179,
-      "num": 194179,
-      "word": "难哄杀青",
-      "onboard_time": 1719455477,
+      "raw_hot": 194748,
+      "num": 194748,
+      "word": "白敬亭暂别桑延",
+      "onboard_time": 1719456016,
       "rank": 25,
       "category": "剧集"
     },
@@ -475,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175112,
+      "num": 175112,
+      "word": "专家称应立即叫停一元面值退市",
+      "onboard_time": 1719454937,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 171474,
+      "num": 171474,
+      "word": "每天喝2.5L水坚持了一年的感受",
+      "onboard_time": 1719455716,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170342,
       "num": 170342,
       "word": "原来小时候吃的都是这么细的糠",
@@ -496,6 +536,14 @@
       "word": "NBA连续两届状元都是法国人",
       "onboard_time": 1719450918,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152527,
+      "num": 152527,
+      "word": "欧洲杯名画C罗被拉扯图",
+      "onboard_time": 1719452357,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -595,28 +643,12 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 139992,
-      "num": 139992,
-      "word": "欧洲杯名画C罗被拉扯图",
-      "onboard_time": 1719452357,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139110,
       "num": 139110,
       "word": "种菜游戏暴雷涉及资金近3亿元",
       "onboard_time": 1719423792,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138425,
-      "num": 138425,
-      "word": "专家称应立即叫停一元面值退市",
-      "onboard_time": 1719454937,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 136360,
@@ -723,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115247,
+      "num": 115247,
+      "word": "李雪琴未通过体育加分",
+      "onboard_time": 1719456197,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115159,
       "num": 127441,
       "word": "度华年开播热度",
@@ -785,6 +825,14 @@
       "onboard_time": 1719391699,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97834,
+      "num": 462607,
+      "word": "情侣救了一只小羊获一群羊感谢",
+      "onboard_time": 1719455777,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97384,
