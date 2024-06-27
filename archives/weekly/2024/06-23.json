@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719463177504,
+  "endTime": 1719465618587,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173875,
+      "num": 1173875,
+      "word": "日本富士山发现三名濒死人员",
+      "onboard_time": 1719459557,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1170053,
       "num": 1170053,
       "word": "章子怡疑似不满酱园弄戏份",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 1118296,
-      "num": 912674,
+      "num": 996184,
       "word": "刘楚恬 小桑稚",
       "onboard_time": 1719461359,
       "rank": 11,
@@ -1011,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 893982,
-      "num": 893982,
-      "word": "日本富士山发现三名濒死人员",
-      "onboard_time": 1719459557,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 894759,
+      "num": 467567,
+      "word": "白敬亭章若楠我承认之前声音大了点",
+      "onboard_time": 1719461960,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 882974,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1719406098,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 746899,
+      "num": 375895,
+      "word": "李雪琴母校曾因体育加分涉假被查",
+      "onboard_time": 1719463700,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 744487,
@@ -2467,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504397,
+      "num": 368067,
+      "word": "杨紫出发巴黎",
+      "onboard_time": 1719463818,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504053,
       "num": 504053,
       "word": "清华大学 神转场",
@@ -2731,14 +2755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 466431,
-      "num": 382177,
-      "word": "白敬亭章若楠我承认之前声音大了点",
-      "onboard_time": 1719461960,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466211,
       "num": 466211,
       "word": "人鱼 杀青",
@@ -2955,6 +2971,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 439897,
+      "num": 308530,
+      "word": "歌手这周有邓紫棋的歌",
+      "onboard_time": 1719462739,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439491,
       "num": 439491,
       "word": "秦彻 沈星回",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1719211819,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424749,
+      "num": 362737,
+      "word": "杜江分享珍珠近况",
+      "onboard_time": 1719462200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 424235,
@@ -3763,6 +3795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 358940,
+      "num": 358940,
+      "word": "胡塞武装首次宣布使用高超音速导弹",
+      "onboard_time": 1719463100,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 358924,
       "num": 358924,
       "word": "中式茶饮已经是nextlevel了",
@@ -3921,14 +3961,6 @@
       "onboard_time": 1719325941,
       "rank": 16,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 343811,
-      "num": 343811,
-      "word": "杜江分享珍珠近况",
-      "onboard_time": 1719462200,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 343810,
@@ -4595,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285387,
+      "num": 237980,
+      "word": "杨洋 city一下",
+      "onboard_time": 1719462739,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285354,
       "num": 285354,
       "word": "唐嫣首部大女主现代剧",
@@ -4649,6 +4689,14 @@
       "onboard_time": 1719242359,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283046,
+      "num": 209610,
+      "word": "一对单身母女同居养老",
+      "onboard_time": 1719464359,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 281809,
@@ -5283,6 +5331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238778,
+      "num": 238778,
+      "word": "金价狂飙金店为何高兴不起来",
+      "onboard_time": 1719464420,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 238122,
       "num": 179793,
       "word": "黄晓明两部戏差了50斤",
@@ -5523,6 +5579,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 227858,
+      "num": 227858,
+      "word": "难哄里的段嘉许桑稚",
+      "onboard_time": 1719463339,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227556,
       "num": 405379,
       "word": "嫦娥六号月球快递今天送达",
@@ -5617,14 +5681,6 @@
       "onboard_time": 1719315077,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 222955,
-      "num": 222955,
-      "word": "歌手这周有邓紫棋的歌",
-      "onboard_time": 1719462739,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 222641,
@@ -5952,6 +6008,14 @@
       "word": "张晚意 背德赛道",
       "onboard_time": 1719202099,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210549,
+      "num": 208629,
+      "word": "有偷感这么重的男主进入国产剧",
+      "onboard_time": 1719464719,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -6713,14 +6777,6 @@
       "onboard_time": 1719394938,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195647,
-      "num": 192145,
-      "word": "杨洋 city一下",
-      "onboard_time": 1719462739,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 195637,
@@ -7691,6 +7747,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 173142,
+      "num": 505475,
+      "word": "老人强迫让座被行拘",
+      "onboard_time": 1719462018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "31省份高考查分时间汇总",
@@ -7921,6 +7985,14 @@
       "onboard_time": 1719400519,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167827,
+      "num": 152985,
+      "word": "谭维维 兰花花",
+      "onboard_time": 1719463759,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 167771,
@@ -8184,14 +8256,6 @@
       "word": "起火电池厂员工工资为韩国最低时薪",
       "onboard_time": 1719275540,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162774,
-      "num": 505475,
-      "word": "老人强迫让座被行拘",
-      "onboard_time": 1719462018,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -8515,6 +8579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156336,
+      "num": 156336,
+      "word": "课本中的夏天",
+      "onboard_time": 1719465380,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156299,
       "num": 156299,
       "word": "克罗地亚vs意大利",
@@ -8705,14 +8777,6 @@
       "onboard_time": 1719373759,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153495,
-      "num": 153495,
-      "word": "胡塞武装首次宣布使用高超音速导弹",
-      "onboard_time": 1719463100,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 153387,
@@ -10491,6 +10555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118901,
+      "num": 1010081,
+      "word": "向9省份预拨4.96亿救灾资金",
+      "onboard_time": 1719462499,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118568,
       "num": 118568,
       "word": "LNG进入夏季赛登峰组",
@@ -11539,6 +11611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94871,
+      "num": 379146,
+      "word": "企业滥用竞业协议现象频出",
+      "onboard_time": 1719463818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -11953,14 +12033,6 @@
       "onboard_time": 1719392719,
       "rank": 9,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 71543,
-      "num": 917893,
-      "word": "向9省份预拨4.96亿救灾资金",
-      "onboard_time": 1719462499,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71168,
@@ -13009,6 +13081,14 @@
       "onboard_time": 1719113118,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 27934,
+      "num": 151272,
+      "word": "中年男人都在哪看球",
+      "onboard_time": 1719465499,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 27845,
