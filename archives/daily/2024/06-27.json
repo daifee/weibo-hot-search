@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719466663879,
+  "endTime": 1719469626685,
   "band_list": [
     {
       "raw_hot": 2176044,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 854324,
+      "num": 854324,
+      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+      "onboard_time": 1719466099,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 841288,
       "num": 758035,
       "word": "李雪琴 游泳二级运动员",
@@ -191,6 +199,14 @@
       "num": 238381,
       "word": "做票",
       "onboard_time": 1719411978,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 629257,
+      "num": 480376,
+      "word": "黄宣 二十二",
+      "onboard_time": 1719468140,
       "rank": 6,
       "category": "综艺"
     },
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435547,
+      "num": 435547,
+      "word": "金价狂飙金店为何高兴不起来",
+      "onboard_time": 1719464420,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 424749,
       "num": 362737,
       "word": "杜江分享珍珠近况",
@@ -403,12 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372598,
-      "num": 345811,
-      "word": "金价狂飙金店为何高兴不起来",
-      "onboard_time": 1719464420,
-      "rank": 24,
-      "category": "财经,社会新闻"
+      "raw_hot": 376849,
+      "num": 376849,
+      "word": "刘若英 我认真要退休了",
+      "onboard_time": 1719466882,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363913,
+      "num": 197768,
+      "word": "大伯长期不吃主食全身多处皮肤糜烂",
+      "onboard_time": 1719468140,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358940,
@@ -417,6 +449,14 @@
       "onboard_time": 1719463100,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 350114,
+      "num": 350114,
+      "word": "有偷感这么重的男主进入国产剧",
+      "onboard_time": 1719464719,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 349970,
@@ -473,14 +513,6 @@
       "onboard_time": 1719449238,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 316001,
-      "num": 267215,
-      "word": "有偷感这么重的男主进入国产剧",
-      "onboard_time": 1719464719,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 310327,
@@ -587,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270244,
+      "num": 270244,
+      "word": "王者荣耀内存",
+      "onboard_time": 1719465919,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267979,
       "num": 267979,
       "word": "欧洲杯16强出炉",
@@ -611,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 260133,
+      "num": 196138,
+      "word": "容易得糖尿病的1个坏习惯",
+      "onboard_time": 1719468020,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258338,
       "num": 258338,
       "word": "崔永熙冲击NBA",
@@ -633,6 +681,14 @@
       "onboard_time": 1719456737,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247277,
+      "num": 194702,
+      "word": "李宗翰否认整容",
+      "onboard_time": 1719468020,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 245987,
@@ -747,12 +803,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 205119,
-      "num": 205119,
-      "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
-      "onboard_time": 1719466099,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 204365,
+      "num": 190332,
+      "word": "吴谨言王星越吻戏没人喊停",
+      "onboard_time": 1719468620,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202335,
@@ -809,6 +865,14 @@
       "onboard_time": 1719456857,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195583,
+      "num": 190110,
+      "word": "家长月入一万不够孩子研学游七天",
+      "onboard_time": 1719469039,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192521,
@@ -875,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175826,
-      "num": 175826,
-      "word": "王者荣耀内存",
-      "onboard_time": 1719465919,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173142,
       "num": 505475,
       "word": "老人强迫让座被行拘",
@@ -913,6 +969,14 @@
       "onboard_time": 1719463759,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166591,
+      "num": 166591,
+      "word": "赵今麦演技",
+      "onboard_time": 1719466459,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 158775,
@@ -1003,14 +1067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148819,
-      "num": 148819,
-      "word": "赵今麦演技",
-      "onboard_time": 1719466459,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147474,
       "num": 147474,
       "word": "魔兽世界正式服定档",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1719400938,
       "rank": 26,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 140303,
+      "num": 140303,
+      "word": "全球首个咖啡专业",
+      "onboard_time": 1719467061,
+      "rank": 37,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 139110,
@@ -1203,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124124,
+      "num": 124124,
+      "word": "恋综男嘉宾把送女方的礼物卖了",
+      "onboard_time": 1719469578,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123092,
       "num": 123092,
       "word": "魔兽世界怀旧服进不去",
@@ -1297,6 +1369,30 @@
       "onboard_time": 1719429850,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109207,
+      "num": 109207,
+      "word": "二十届三中全会7月15日至18日召开",
+      "onboard_time": 1719467599,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106182,
+      "num": 106182,
+      "word": "月影别墅三周年",
+      "onboard_time": 1719469578,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 105434,
+      "num": 105434,
+      "word": "女儿高考688分妈妈豪横奖励18万",
+      "onboard_time": 1719469519,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102542,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1719460878,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85005,
+      "num": 382734,
+      "word": "预售制个人拼团团长卷款跑路",
+      "onboard_time": 1719468020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83880,
@@ -1579,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47792,
+      "num": 306671,
+      "word": "中年男人都在哪看球",
+      "onboard_time": 1719465499,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46183,
       "num": 60065,
       "word": "第一次看蛋糕这么反胃的",
@@ -1619,14 +1731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35539,
-      "num": 292440,
-      "word": "中年男人都在哪看球",
-      "onboard_time": 1719465499,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29615,
       "num": 35695,
       "word": "真心建议晚上考语文",
@@ -1641,6 +1745,14 @@
       "onboard_time": 1719436030,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28603,
+      "num": 190276,
+      "word": "韩国一行政机器人从楼梯坠落",
+      "onboard_time": 1719469279,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22448,
@@ -1722,6 +1834,9 @@
     },
     {
       "word": "#科技向新#"
+    },
+    {
+      "word": "#中越命运共同体建设开局良好#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719469626685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 947482,
+        "num": 947482,
+        "word": "李雪琴未通过体育加分",
+        "onboard_time": 1719456197,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854324,
+        "num": 854324,
+        "word": "美国担心玉兔轧了阿姆斯特朗的脚印",
+        "onboard_time": 1719466099,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82335,
+        "num": 761199,
+        "word": "向9省份预拨4.96亿救灾资金",
+        "onboard_time": 1719462499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751420,
+        "num": 751420,
+        "word": "白敬亭章若楠我承认之前声音大了点",
+        "onboard_time": 1719461960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502598,
+        "num": 502598,
+        "word": "日本富士山发现三名濒死人员",
+        "onboard_time": 1719459557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482535,
+        "num": 482535,
+        "word": "胖东来为买擀面皮顾客补偿共883.3万元",
+        "onboard_time": 1719452117,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629257,
+        "num": 480376,
+        "word": "黄宣 二十二",
+        "onboard_time": 1719468140,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472265,
+        "num": 472265,
+        "word": "刘楚恬 小桑稚",
+        "onboard_time": 1719461359,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435547,
+        "num": 435547,
+        "word": "金价狂飙金店为何高兴不起来",
+        "onboard_time": 1719464420,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 85005,
+        "num": 382734,
+        "word": "预售制个人拼团团长卷款跑路",
+        "onboard_time": 1719468020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376849,
+        "num": 376849,
+        "word": "刘若英 我认真要退休了",
+        "onboard_time": 1719466882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350114,
+        "num": 350114,
+        "word": "有偷感这么重的男主进入国产剧",
+        "onboard_time": 1719464719,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344211,
+        "num": 344211,
+        "word": "单亲妈妈从7楼狂扔女儿物品获刑",
+        "onboard_time": 1719453136,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335872,
+        "num": 335872,
+        "word": "歌手歌单",
+        "onboard_time": 1719462139,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308133,
+        "num": 308133,
+        "word": "差点以为迪丽热巴鼻影太重了",
+        "onboard_time": 1719458897,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47792,
+        "num": 306671,
+        "word": "中年男人都在哪看球",
+        "onboard_time": 1719465499,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305836,
+        "num": 305836,
+        "word": "李雪琴母校曾因体育加分涉假被查",
+        "onboard_time": 1719463700,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270244,
+        "num": 270244,
+        "word": "王者荣耀内存",
+        "onboard_time": 1719465919,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208891,
+        "num": 208891,
+        "word": "胖东来已关停卫生环境差擀面皮档口",
+        "onboard_time": 1719454637,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200740,
+        "num": 200740,
+        "word": "女孩考726分轰动全小区邻居放烟花",
+        "onboard_time": 1719449779,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 473410,
+        "num": 200022,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363913,
+        "num": 197768,
+        "word": "大伯长期不吃主食全身多处皮肤糜烂",
+        "onboard_time": 1719468140,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260133,
+        "num": 196138,
+        "word": "容易得糖尿病的1个坏习惯",
+        "onboard_time": 1719468020,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247277,
+        "num": 194702,
+        "word": "李宗翰否认整容",
+        "onboard_time": 1719468020,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236292,
+        "num": 191933,
+        "word": "一对单身母女同居养老",
+        "onboard_time": 1719464359,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190936,
+        "num": 190936,
+        "word": "胡塞武装首次宣布使用高超音速导弹",
+        "onboard_time": 1719463100,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233871,
+        "num": 190850,
+        "word": "杜江分享珍珠近况",
+        "onboard_time": 1719462200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206791,
+        "num": 190681,
+        "word": "难哄首波阵容官宣",
+        "onboard_time": 1719458297,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204365,
+        "num": 190332,
+        "word": "吴谨言王星越吻戏没人喊停",
+        "onboard_time": 1719468620,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28603,
+        "num": 190276,
+        "word": "韩国一行政机器人从楼梯坠落",
+        "onboard_time": 1719469279,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195583,
+        "num": 190110,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189925,
+        "num": 189925,
+        "word": "杨紫出发巴黎",
+        "onboard_time": 1719463818,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180792,
+        "num": 180792,
+        "word": "歌手这周有邓紫棋的歌",
+        "onboard_time": 1719462739,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172711,
+        "num": 172711,
+        "word": "全班49人48个高考过600分",
+        "onboard_time": 1719448218,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166591,
+        "num": 166591,
+        "word": "赵今麦演技",
+        "onboard_time": 1719466459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165900,
+        "num": 165900,
+        "word": "杨洋 city一下",
+        "onboard_time": 1719462739,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 147368,
+        "word": "白敬亭暂别桑延",
+        "onboard_time": 1719456016,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140303,
+        "num": 140303,
+        "word": "全球首个咖啡专业",
+        "onboard_time": 1719467061,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 132045,
+        "num": 132045,
+        "word": "全国首个殡葬职业本科专业",
+        "onboard_time": 1719453196,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 126149,
+        "num": 126149,
+        "word": "NBA选秀 布朗尼",
+        "onboard_time": 1719451517,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 124124,
+        "word": "恋综男嘉宾把送女方的礼物卖了",
+        "onboard_time": 1719469578,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123713,
+        "num": 123713,
+        "word": "李雪琴 游泳二级运动员",
+        "onboard_time": 1719456737,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118034,
+        "num": 118034,
+        "word": "降薪引发基金经理离职潮",
+        "onboard_time": 1719458357,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 117298,
+        "num": 117298,
+        "word": "迪丽热巴明知故问",
+        "onboard_time": 1719466160,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114914,
+        "num": 114914,
+        "word": "难哄里的段嘉许桑稚",
+        "onboard_time": 1719463339,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110726,
+        "num": 110726,
+        "word": "根本没空听张杰在唱什么",
+        "onboard_time": 1719456857,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 110381,
+        "word": "法老 27狗子来了",
+        "onboard_time": 1719444736,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109207,
+        "num": 109207,
+        "word": "二十届三中全会7月15日至18日召开",
+        "onboard_time": 1719467599,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106182,
+        "num": 106182,
+        "word": "月影别墅三周年",
+        "onboard_time": 1719469578,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105434,
+        "num": 105434,
+        "word": "女儿高考688分妈妈豪横奖励18万",
+        "onboard_time": 1719469519,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越命运共同体建设开局良好#"
+    }
+  }
+}
