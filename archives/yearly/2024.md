@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/27 18:38:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/27 19:16:27
 </p>
 </blockquote>
 <p>
@@ -645,6 +645,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
+李尚福被开除党籍（热度：7363039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%A3%E7%A2%91%23" target="weibo">
 白敬亭口碑（热度：7342180）
 </a>
@@ -953,12 +959,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%83%BD%E4%B8%80%E6%A0%B7%E5%90%97%20%E5%B0%B4%E5%B0%AC%23" target="weibo">
 那能一样吗 尴尬（热度：5059636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
-李尚福被开除党籍（热度：5048086）
 </a>
 </li>
 

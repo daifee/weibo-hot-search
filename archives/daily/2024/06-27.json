@@ -1,10 +1,10 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719484722371,
+  "endTime": 1719486987831,
   "band_list": [
     {
-      "raw_hot": 5048086,
-      "num": 6298086,
+      "raw_hot": 7363039,
+      "num": 8279722,
       "word": "李尚福被开除党籍",
       "onboard_time": 1719483078,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1242184,
+      "num": 1242184,
+      "word": "杨和苏diss",
+      "onboard_time": 1719483498,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1204354,
       "num": 962971,
       "word": "李雪琴高考分数",
@@ -105,14 +113,6 @@
       "onboard_time": 1719459557,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1160877,
-      "num": 1160877,
-      "word": "杨和苏diss",
-      "onboard_time": 1719483498,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 1118296,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 436119,
+      "num": 436119,
+      "word": "王星越正是喜欢亲嘴的年纪",
+      "onboard_time": 1719484638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435547,
       "num": 435547,
       "word": "金价狂飙金店为何高兴不起来",
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375733,
+      "num": 375733,
+      "word": "女子裸辞35万年薪工作回村专职带娃",
+      "onboard_time": 1719484098,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375488,
       "num": 375488,
       "word": "娜扎丞磊大大方方营业",
@@ -713,6 +729,14 @@
       "onboard_time": 1719409279,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322762,
+      "num": 322762,
+      "word": "国防部发言人回应美方威胁恫吓",
+      "onboard_time": 1719477198,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 321446,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286070,
+      "num": 286070,
+      "word": "白玉兰预测",
+      "onboard_time": 1719484999,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285387,
       "num": 256766,
       "word": "杨洋 city一下",
@@ -881,6 +913,14 @@
       "onboard_time": 1719444194,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273295,
+      "num": 273295,
+      "word": "杨和苏媚粉",
+      "onboard_time": 1719485780,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 267979,
@@ -1131,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203783,
+      "num": 203783,
+      "word": "张凌赫吃柠檬 酸汤肥牛",
+      "onboard_time": 1719486080,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202335,
       "num": 202335,
       "word": "公安厅介入呼和浩特一村5人遇害案",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1719461477,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190820,
-      "num": 190820,
-      "word": "王星越正是喜欢亲嘴的年纪",
-      "onboard_time": 1719484638,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 188078,
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166550,
+      "num": 166550,
+      "word": "KSG锁定第二轮S组",
+      "onboard_time": 1719486739,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160754,
       "num": 160754,
       "word": "小猫长胖了走不了自己的门",
@@ -1419,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156859,
-      "num": 156859,
-      "word": "女子裸辞35万年薪工作回村专职带娃",
-      "onboard_time": 1719484098,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156336,
       "num": 156336,
       "word": "课本中的夏天",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1719450918,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155142,
+      "num": 155142,
+      "word": "athree诗朗诵diss",
+      "onboard_time": 1719485481,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 153183,
@@ -1835,12 +1883,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126179,
+      "num": 126179,
+      "word": "华晨宇说四面台能看清歌迷表情",
+      "onboard_time": 1719485299,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124043,
+      "num": 124043,
+      "word": "小米港股股价暴跌",
+      "onboard_time": 1719485539,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 123092,
       "num": 123092,
       "word": "魔兽世界怀旧服进不去",
       "onboard_time": 1719449298,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121617,
+      "num": 121617,
+      "word": "人不能同时拥有夏天和对夏天的感受",
+      "onboard_time": 1719485539,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 120244,
@@ -1931,6 +2003,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 113534,
+      "num": 113534,
+      "word": "科内利亚诺官宣朱婷加盟",
+      "onboard_time": 1719486559,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112569,
       "num": 112569,
       "word": "五月天太原演唱会",
@@ -1976,14 +2056,6 @@
       "word": "二十届三中全会7月15日至18日召开",
       "onboard_time": 1719467599,
       "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 106500,
-      "num": 106500,
-      "word": "国防部发言人回应美方威胁恫吓",
-      "onboard_time": 1719477198,
-      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -2371,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41052,
+      "num": 1992020,
+      "word": "科学报国正当时",
+      "onboard_time": 1719480079,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40568,
       "num": 221679,
       "word": "四川人餐桌上的夏日限定",
@@ -2411,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30066,
+      "num": 137889,
+      "word": "职业本科更好找工作吗",
+      "onboard_time": 1719486917,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29615,
       "num": 35695,
       "word": "真心建议晚上考语文",
@@ -2441,14 +2529,6 @@
       "onboard_time": 1719478818,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 25539,
-      "num": 1287981,
-      "word": "科学报国正当时",
-      "onboard_time": 1719480079,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22481,
@@ -2505,6 +2585,14 @@
       "onboard_time": 1719482778,
       "rank": 39,
       "category": "健康医疗,教育"
+    },
+    {
+      "raw_hot": 13923,
+      "num": 239476,
+      "word": "老人遇险3名饭店员工挺身而出",
+      "onboard_time": 1719486618,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13921,

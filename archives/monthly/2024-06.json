@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719484722371,
+  "endTime": 1719486987831,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -57,6 +57,14 @@
       "onboard_time": 1718348478,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7363039,
+      "num": 8279722,
+      "word": "李尚福被开除党籍",
+      "onboard_time": 1719483078,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7290900,
@@ -137,14 +145,6 @@
       "onboard_time": 1718108599,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5048086,
-      "num": 6298086,
-      "word": "李尚福被开除党籍",
-      "onboard_time": 1719483078,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4887908,
@@ -3219,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1242184,
+      "num": 1242184,
+      "word": "杨和苏diss",
+      "onboard_time": 1719483498,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1241390,
       "num": 1241390,
       "word": "李雪琴 游泳",
@@ -3713,14 +3721,6 @@
       "onboard_time": 1717571837,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1160877,
-      "num": 1160877,
-      "word": "杨和苏diss",
-      "onboard_time": 1719483498,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 1160740,
@@ -17747,6 +17747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436119,
+      "num": 436119,
+      "word": "王星越正是喜欢亲嘴的年纪",
+      "onboard_time": 1719484638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436083,
       "num": 204181,
       "word": "那英 好美哦",
@@ -20880,6 +20888,14 @@
       "word": "律师称应褒扬南方医科大学救人教师",
       "onboard_time": 1718523375,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375733,
+      "num": 375733,
+      "word": "女子裸辞35万年薪工作回村专职带娃",
+      "onboard_time": 1719484098,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -24267,6 +24283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322762,
+      "num": 322762,
+      "word": "国防部发言人回应美方威胁恫吓",
+      "onboard_time": 1719477198,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322602,
       "num": 322602,
       "word": "不要被男生身上肥皂香味蛊惑",
@@ -27139,6 +27163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 286070,
+      "num": 286070,
+      "word": "白玉兰预测",
+      "onboard_time": 1719484999,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286000,
       "num": 286000,
       "word": "逆水寒JK",
@@ -28265,6 +28297,14 @@
       "onboard_time": 1719444194,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273295,
+      "num": 273295,
+      "word": "杨和苏媚粉",
+      "onboard_time": 1719485780,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 273078,
@@ -37331,6 +37371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203783,
+      "num": 203783,
+      "word": "张凌赫吃柠檬 酸汤肥牛",
+      "onboard_time": 1719486080,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203732,
       "num": 202242,
       "word": "玫瑰的故事卷首语",
@@ -41001,14 +41049,6 @@
       "onboard_time": 1719401118,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190820,
-      "num": 190820,
-      "word": "王星越正是喜欢亲嘴的年纪",
-      "onboard_time": 1719484638,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 190796,
@@ -47155,6 +47195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166550,
+      "num": 166550,
+      "word": "KSG锁定第二轮S组",
+      "onboard_time": 1719486739,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166535,
       "num": 166535,
       "word": "章昊 可以偷拍吗",
@@ -49947,14 +49995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156859,
-      "num": 156859,
-      "word": "女子裸辞35万年薪工作回村专职带娃",
-      "onboard_time": 1719484098,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156854,
       "num": 226887,
       "word": "30多岁开始出现老花眼",
@@ -50545,6 +50585,14 @@
       "onboard_time": 1719324981,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155142,
+      "num": 155142,
+      "word": "athree诗朗诵diss",
+      "onboard_time": 1719485481,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 155139,
@@ -59739,6 +59787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126179,
+      "num": 126179,
+      "word": "华晨宇说四面台能看清歌迷表情",
+      "onboard_time": 1719485299,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126165,
       "num": 126165,
       "word": "偷偷升高你尿酸的不只是嘌呤",
@@ -60491,6 +60547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124043,
+      "num": 124043,
+      "word": "小米港股股价暴跌",
+      "onboard_time": 1719485539,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 124035,
       "num": 124035,
       "word": "玫瑰的故事婚姻避坑指男",
@@ -61201,6 +61265,14 @@
       "onboard_time": 1718180120,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121617,
+      "num": 121617,
+      "word": "人不能同时拥有夏天和对夏天的感受",
+      "onboard_time": 1719485539,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 121577,
@@ -63579,6 +63651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113534,
+      "num": 113534,
+      "word": "科内利亚诺官宣朱婷加盟",
+      "onboard_time": 1719486559,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113521,
       "num": 113521,
       "word": "天蝎座不愧是纯爱战士",
@@ -65497,14 +65577,6 @@
       "onboard_time": 1718440757,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106500,
-      "num": 106500,
-      "word": "国防部发言人回应美方威胁恫吓",
-      "onboard_time": 1719477198,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 106460,
@@ -74963,6 +75035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41052,
+      "num": 1992020,
+      "word": "科学报国正当时",
+      "onboard_time": 1719480079,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40973,
       "num": 1032890,
       "word": "千年运河从历史流向未来",
@@ -76739,6 +76819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30066,
+      "num": 137889,
+      "word": "职业本科更好找工作吗",
+      "onboard_time": 1719486917,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30044,
       "num": 226266,
       "word": "有清华学霸爷爷送考高考绝对错不了",
@@ -77513,14 +77601,6 @@
       "onboard_time": 1719299179,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25539,
-      "num": 1287981,
-      "word": "科学报国正当时",
-      "onboard_time": 1719480079,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25523,
@@ -79089,6 +79169,14 @@
       "onboard_time": 1717441091,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13923,
+      "num": 239476,
+      "word": "老人遇险3名饭店员工挺身而出",
+      "onboard_time": 1719486618,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13921,

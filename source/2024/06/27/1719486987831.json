@@ -1,0 +1,410 @@
+{
+  "runTime": 1719486987831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7363039,
+        "num": 8279722,
+        "word": "李尚福被开除党籍",
+        "onboard_time": 1719483078,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2880182,
+        "num": 2880182,
+        "word": "魏凤和被开除党籍",
+        "onboard_time": 1719483198,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41052,
+        "num": 1992020,
+        "word": "科学报国正当时",
+        "onboard_time": 1719480079,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242184,
+        "num": 1242184,
+        "word": "杨和苏diss",
+        "onboard_time": 1719483498,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 827550,
+        "num": 827550,
+        "word": "李尚福涉嫌犯罪问题移送军事检察机关",
+        "onboard_time": 1719483799,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 663878,
+        "num": 663878,
+        "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
+        "onboard_time": 1719478458,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457269,
+        "num": 457269,
+        "word": "顾客胖东来排长龙办退款",
+        "onboard_time": 1719480678,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436119,
+        "num": 436119,
+        "word": "王星越正是喜欢亲嘴的年纪",
+        "onboard_time": 1719484638,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375733,
+        "num": 375733,
+        "word": "女子裸辞35万年薪工作回村专职带娃",
+        "onboard_time": 1719484098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350108,
+        "num": 350108,
+        "word": "钟薛高主播",
+        "onboard_time": 1719478218,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 462742,
+        "num": 342847,
+        "word": "中国医科大无法毕业博士或被索赔百万",
+        "onboard_time": 1719474558,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322762,
+        "num": 322762,
+        "word": "国防部发言人回应美方威胁恫吓",
+        "onboard_time": 1719479297,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292124,
+        "num": 292124,
+        "word": "确诊为土狗",
+        "onboard_time": 1719474918,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286070,
+        "num": 286070,
+        "word": "白玉兰预测",
+        "onboard_time": 1719484999,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273295,
+        "num": 273295,
+        "word": "杨和苏媚粉",
+        "onboard_time": 1719485780,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247018,
+        "num": 247018,
+        "word": "发证单位回应李雪琴游泳争议",
+        "onboard_time": 1719476718,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13923,
+        "num": 239476,
+        "word": "老人遇险3名饭店员工挺身而出",
+        "onboard_time": 1719486618,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236379,
+        "num": 236379,
+        "word": "娜扎丞磊大大方方营业",
+        "onboard_time": 1719482419,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232752,
+        "num": 232752,
+        "word": "王者荣耀 花里胡哨",
+        "onboard_time": 1719480498,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203783,
+        "num": 203783,
+        "word": "张凌赫吃柠檬 酸汤肥牛",
+        "onboard_time": 1719486080,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315086,
+        "num": 203605,
+        "word": "每天喝2.5L水坚持了一年的感受",
+        "onboard_time": 1719455716,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205383,
+        "num": 201113,
+        "word": "家长月入一万不够孩子研学游七天",
+        "onboard_time": 1719469039,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183736,
+        "num": 183736,
+        "word": "薛小婉 褒姒",
+        "onboard_time": 1719477498,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "陈哲远P腿了吧",
+        "onboard_time": 1719482598,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166550,
+        "num": 166550,
+        "word": "KSG锁定第二轮S组",
+        "onboard_time": 1719486739,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156072,
+        "num": 156072,
+        "word": "钟薛高老林回应女主播直播时倒地",
+        "onboard_time": 1719479478,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155142,
+        "num": 155142,
+        "word": "athree诗朗诵diss",
+        "onboard_time": 1719485481,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151290,
+        "num": 151290,
+        "word": "国足 死亡之组",
+        "onboard_time": 1719474196,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139418,
+        "num": 139418,
+        "word": "大伯长期不吃主食全身多处皮肤糜烂",
+        "onboard_time": 1719468140,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30066,
+        "num": 137889,
+        "word": "职业本科更好找工作吗",
+        "onboard_time": 1719486917,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137472,
+        "num": 137472,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1719478879,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133944,
+        "num": 133944,
+        "word": "钟薛高女主播直播时晕倒",
+        "onboard_time": 1719480318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126179,
+        "num": 126179,
+        "word": "华晨宇说四面台能看清歌迷表情",
+        "onboard_time": 1719485299,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124763,
+        "num": 124763,
+        "word": "凡希亚 来自天堂的魔鬼",
+        "onboard_time": 1719472638,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124043,
+        "num": 124043,
+        "word": "小米港股股价暴跌",
+        "onboard_time": 1719485539,
+        "rank": 34,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 121617,
+        "num": 121617,
+        "word": "人不能同时拥有夏天和对夏天的感受",
+        "onboard_time": 1719485539,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "养了一只98年出生的猫爷爷",
+        "onboard_time": 1719477857,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116817,
+        "num": 116817,
+        "word": "张馨予说想要一个迪丽热巴",
+        "onboard_time": 1719473357,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14355,
+        "num": 114578,
+        "word": "这是中国奥运健儿的赛场宣言",
+        "onboard_time": 1719477317,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113534,
+        "num": 113534,
+        "word": "科内利亚诺官宣朱婷加盟",
+        "onboard_time": 1719486559,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112807,
+        "num": 112807,
+        "word": "别再用水直接冲生肉了",
+        "onboard_time": 1719475999,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112671,
+        "num": 112671,
+        "word": "高圆圆魏大勋张婧仪孙千合照",
+        "onboard_time": 1719480018,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109302,
+        "num": 109302,
+        "word": "赵露思粉色无袖套装",
+        "onboard_time": 1719482058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108107,
+        "num": 108107,
+        "word": "恋综男嘉宾把送女方的礼物卖了",
+        "onboard_time": 1719469578,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107641,
+        "num": 107641,
+        "word": "白敬亭章若楠我承认之前声音大了点",
+        "onboard_time": 1719461960,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "歌手歌单",
+        "onboard_time": 1719462139,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103055,
+        "num": 103055,
+        "word": "感情到了什么程度可以谈钱",
+        "onboard_time": 1719475218,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98174,
+        "num": 98174,
+        "word": "你好星期六野孩子追综日历",
+        "onboard_time": 1719481159,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96621,
+        "num": 96621,
+        "word": "番茄身上的缝合线是什么",
+        "onboard_time": 1719474558,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95228,
+        "num": 95228,
+        "word": "李雪琴未通过体育加分",
+        "onboard_time": 1719456197,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
