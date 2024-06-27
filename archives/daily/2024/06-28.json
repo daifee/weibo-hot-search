@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719512656816,
+  "endTime": 1719513450765,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64124,
+      "num": 50523,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64027,
       "num": 64027,
       "word": "张小斐方便脱个外套吗",
@@ -425,14 +433,6 @@
       "onboard_time": 1719497781,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60250,
-      "num": 50523,
-      "word": "于正说王楚然是上戏表演系本科",
-      "onboard_time": 1719512412,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 58788,
@@ -467,20 +467,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45810,
+      "num": 50319,
+      "word": "mercy 抽象",
+      "onboard_time": 1719511573,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43663,
       "num": 53589,
       "word": "京城大师赛",
       "onboard_time": 1719500060,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38550,
-      "num": 50319,
-      "word": "mercy 抽象",
-      "onboard_time": 1719511573,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34031,
@@ -497,6 +497,14 @@
       "onboard_time": 1719510852,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17911,
+      "num": 45142,
+      "word": "梦想家园",
+      "onboard_time": 1719513372,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 11877,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719512656816,
+  "endTime": 1719513450765,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -13771,6 +13771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64124,
+      "num": 50523,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64027,
       "num": 64027,
       "word": "张小斐方便脱个外套吗",
@@ -13841,14 +13849,6 @@
       "onboard_time": 1719180372,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 60250,
-      "num": 50523,
-      "word": "于正说王楚然是上戏表演系本科",
-      "onboard_time": 1719512412,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 59991,
@@ -14227,6 +14227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45810,
+      "num": 50319,
+      "word": "mercy 抽象",
+      "onboard_time": 1719511573,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 45577,
       "num": 209637,
       "word": "留给领克的安全测试项目不多了",
@@ -14457,14 +14465,6 @@
       "onboard_time": 1719200898,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38550,
-      "num": 50319,
-      "word": "mercy 抽象",
-      "onboard_time": 1719511573,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 38317,
@@ -15121,6 +15121,14 @@
       "onboard_time": 1719352151,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17911,
+      "num": 45142,
+      "word": "梦想家园",
+      "onboard_time": 1719513372,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 17613,

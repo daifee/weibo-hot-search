@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719512656816,
+  "endTime": 1719513450765,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -72339,6 +72339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64124,
+      "num": 50523,
+      "word": "于正说王楚然是上戏表演系本科",
+      "onboard_time": 1719512412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64121,
       "num": 271403,
       "word": "都江堰已持续运行2280年",
@@ -72825,14 +72833,6 @@
       "onboard_time": 1719024076,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60250,
-      "num": 50523,
-      "word": "于正说王楚然是上戏表演系本科",
-      "onboard_time": 1719512412,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 60092,
@@ -75067,6 +75067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45810,
+      "num": 50319,
+      "word": "mercy 抽象",
+      "onboard_time": 1719511573,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 45755,
       "num": 45755,
       "word": "孟子义之前是不是在理发店干过",
@@ -76241,14 +76249,6 @@
       "onboard_time": 1717351993,
       "rank": 47,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 38550,
-      "num": 50319,
-      "word": "mercy 抽象",
-      "onboard_time": 1719511573,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 38530,
@@ -79417,6 +79417,14 @@
       "onboard_time": 1718705059,
       "rank": 25,
       "category": "综艺,汽车"
+    },
+    {
+      "raw_hot": 17911,
+      "num": 45142,
+      "word": "梦想家园",
+      "onboard_time": 1719513372,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 17803,
