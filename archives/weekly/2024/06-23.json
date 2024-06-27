@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719513450765,
+  "endTime": 1719515868440,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -15153,6 +15153,14 @@
       "onboard_time": 1719172691,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17128,
+      "num": 20670,
+      "word": "颜心记",
+      "onboard_time": 1719513671,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 17029,

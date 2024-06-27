@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719513450765,
+  "endTime": 1719515868440,
   "band_list": [
     {
       "raw_hot": 1158242,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91013,
+      "num": 50592,
+      "word": "大奉打更人",
+      "onboard_time": 1719512592,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90357,
       "num": 90357,
       "word": "饭后出现4个症状可能是胆囊炎",
@@ -401,14 +409,6 @@
       "onboard_time": 1719500840,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65419,
-      "num": 50592,
-      "word": "大奉打更人",
-      "onboard_time": 1719512592,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 64124,
@@ -505,6 +505,14 @@
       "onboard_time": 1719513372,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17128,
+      "num": 20670,
+      "word": "颜心记",
+      "onboard_time": 1719513671,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11877,
