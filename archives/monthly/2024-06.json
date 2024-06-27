@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719502464325,
+  "endTime": 1719505468723,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -16195,6 +16195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 470497,
+      "num": 470497,
+      "word": "土狗",
+      "onboard_time": 1719498561,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470399,
       "num": 470399,
       "word": "黄晓明拿奖激动到手抖",
@@ -16841,6 +16849,14 @@
       "onboard_time": 1718875039,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456124,
+      "num": 254010,
+      "word": "乘风",
+      "onboard_time": 1717456995,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 456113,
@@ -19745,14 +19761,6 @@
       "onboard_time": 1718518877,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400607,
-      "num": 400607,
-      "word": "土狗",
-      "onboard_time": 1719498561,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 400262,
@@ -32793,14 +32801,6 @@
       "onboard_time": 1718839876,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 229644,
-      "num": 232465,
-      "word": "乘风",
-      "onboard_time": 1717456995,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 229636,
@@ -48899,6 +48899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161693,
+      "num": 151597,
+      "word": "没有一个秀人能活着走出这段",
+      "onboard_time": 1719503838,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161690,
       "num": 428511,
       "word": "金庸笔下绝世飞瀑8年后再次泄洪",
@@ -49577,6 +49585,14 @@
       "onboard_time": 1717642817,
       "rank": 9,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 159491,
+      "num": 150630,
+      "word": "Asen新专辑",
+      "onboard_time": 1719505038,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 159465,
@@ -55155,6 +55171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141583,
+      "num": 141583,
+      "word": "约会后像被遗弃的感觉",
+      "onboard_time": 1719502519,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141577,
       "num": 141577,
       "word": "今日快乐今日发",
@@ -58041,6 +58065,14 @@
       "onboard_time": 1718850797,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132318,
+      "num": 132318,
+      "word": "于正发文介绍新人",
+      "onboard_time": 1719502638,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132284,
@@ -68267,6 +68299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96836,
+      "num": 96836,
+      "word": "哈圈乱成一锅粥了 快趁热喝了",
+      "onboard_time": 1719498440,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96828,
       "num": 511413,
       "word": "福宝会对暗号了",
@@ -68697,14 +68737,6 @@
       "onboard_time": 1718205200,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93974,
-      "num": 93974,
-      "word": "哈圈乱成一锅粥了 快趁热喝了",
-      "onboard_time": 1719498440,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 93902,
@@ -70129,6 +70161,14 @@
       "onboard_time": 1719159557,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80587,
+      "num": 87656,
+      "word": "曾舜晞手写临江仙",
+      "onboard_time": 1719502638,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 80499,
@@ -73009,6 +73049,14 @@
       "onboard_time": 1719061518,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58788,
+      "num": 202639,
+      "word": "女生用16天救被困10米深井小猫",
+      "onboard_time": 1719498859,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 58761,
@@ -77697,14 +77745,6 @@
       "onboard_time": 1718868738,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28879,
-      "num": 202639,
-      "word": "女生用16天救被困10米深井小猫",
-      "onboard_time": 1719498859,
-      "rank": 25,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 28871,

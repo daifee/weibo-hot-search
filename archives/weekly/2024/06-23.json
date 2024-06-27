@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719502464325,
+  "endTime": 1719505468723,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -3035,6 +3035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 470497,
+      "num": 470497,
+      "word": "土狗",
+      "onboard_time": 1719498561,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470399,
       "num": 470399,
       "word": "黄晓明拿奖激动到手抖",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1719133218,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456124,
+      "num": 254010,
+      "word": "乘风",
+      "onboard_time": 1719501560,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 456065,
@@ -3809,14 +3825,6 @@
       "onboard_time": 1719456376,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 400607,
-      "num": 400607,
-      "word": "土狗",
-      "onboard_time": 1719498561,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 399910,
@@ -8619,14 +8627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172978,
-      "num": 172978,
-      "word": "乘风",
-      "onboard_time": 1719501560,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "31省份高考查分时间汇总",
@@ -9259,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161693,
+      "num": 151597,
+      "word": "没有一个秀人能活着走出这段",
+      "onboard_time": 1719503838,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "上海电视节",
@@ -9369,6 +9377,14 @@
       "onboard_time": 1719203781,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159491,
+      "num": 150630,
+      "word": "Asen新专辑",
+      "onboard_time": 1719505038,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 159298,
@@ -10499,6 +10515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141583,
+      "num": 141583,
+      "word": "约会后像被遗弃的感觉",
+      "onboard_time": 1719502519,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141541,
       "num": 459092,
       "word": "谈钱羞耻是一种什么感受",
@@ -11057,6 +11081,14 @@
       "onboard_time": 1719445034,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132318,
+      "num": 132318,
+      "word": "于正发文介绍新人",
+      "onboard_time": 1719502638,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132171,
@@ -13043,6 +13075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96836,
+      "num": 96836,
+      "word": "哈圈乱成一锅粥了 快趁热喝了",
+      "onboard_time": 1719498440,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96438,
       "num": 891365,
       "word": "高铁火箭飞机的发展都与这门专业相关",
@@ -13081,14 +13121,6 @@
       "onboard_time": 1719190399,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93974,
-      "num": 93974,
-      "word": "哈圈乱成一锅粥了 快趁热喝了",
-      "onboard_time": 1719498440,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 93053,
@@ -13337,6 +13369,14 @@
       "onboard_time": 1719159557,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80587,
+      "num": 87656,
+      "word": "曾舜晞手写临江仙",
+      "onboard_time": 1719502638,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 80097,
@@ -13825,6 +13865,14 @@
       "onboard_time": 1719126018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58788,
+      "num": 202639,
+      "word": "女生用16天救被困10米深井小猫",
+      "onboard_time": 1719498859,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 58629,
@@ -14633,14 +14681,6 @@
       "onboard_time": 1719167339,
       "rank": 47,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 28879,
-      "num": 202639,
-      "word": "女生用16天救被困10米深井小猫",
-      "onboard_time": 1719498859,
-      "rank": 25,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 28871,
