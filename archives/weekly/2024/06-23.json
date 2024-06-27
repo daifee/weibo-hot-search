@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719506415147,
+  "endTime": 1719508763066,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -641,6 +641,14 @@
       "onboard_time": 1719373218,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1158242,
+      "num": 1158242,
+      "word": "Asen新专辑",
+      "onboard_time": 1719505038,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 1152737,
@@ -2283,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581488,
+      "num": 134188,
+      "word": "几兄弟能把asen气死",
+      "onboard_time": 1719505516,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578187,
       "num": 578187,
       "word": "当伴娘的刘亦菲",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1719471979,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 479234,
-      "num": 172585,
-      "word": "Asen新专辑",
-      "onboard_time": 1719505038,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 479025,
@@ -7033,14 +7041,6 @@
       "onboard_time": 1719475577,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204352,
-      "num": 134188,
-      "word": "几兄弟能把asen气死",
-      "onboard_time": 1719505516,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 204300,
@@ -13507,6 +13507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75511,
+      "num": 75511,
+      "word": "张婧仪皱眉也好漂亮",
+      "onboard_time": 1719508035,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75263,
       "num": 192769,
       "word": "双子座其实还蛮老实的",
@@ -13755,6 +13763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64027,
+      "num": 64027,
+      "word": "张小斐方便脱个外套吗",
+      "onboard_time": 1719507194,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63613,
       "num": 144925,
       "word": "最好吃的阿拉伯菜在义乌",
@@ -13995,6 +14011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53561,
+      "num": 53561,
+      "word": "王星越少喝点吧",
+      "onboard_time": 1719507494,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53251,
       "num": 112523,
       "word": "日本81岁老人仍在打工",
@@ -14209,6 +14233,14 @@
       "onboard_time": 1719302838,
       "rank": 31,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 44218,
+      "num": 53778,
+      "word": "digi大战活死人",
+      "onboard_time": 1719508515,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 43727,
