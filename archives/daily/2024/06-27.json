@@ -1,6 +1,6 @@
 {
   "startTime": 1719419079741,
-  "endTime": 1719492707171,
+  "endTime": 1719494520167,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632467,
+      "num": 514829,
+      "word": "老公心疼老婆生娃不易雇3个月嫂",
+      "onboard_time": 1719489498,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629257,
       "num": 480376,
       "word": "黄宣 二十二",
@@ -443,20 +451,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 515842,
+      "num": 480046,
+      "word": "有人领胖东来补偿倒贴300元原地消费",
+      "onboard_time": 1719492979,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514935,
       "num": 514935,
       "word": "哪里人不爱出省读大学",
       "onboard_time": 1719399619,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 514829,
-      "num": 514829,
-      "word": "老公心疼老婆生娃不易雇3个月嫂",
-      "onboard_time": 1719489498,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510209,
@@ -763,8 +771,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343909,
-      "num": 343909,
+      "raw_hot": 346378,
+      "num": 346378,
       "word": "袁娅维被那姐偷走两颗水钻",
       "onboard_time": 1719490878,
       "rank": 24,
@@ -819,12 +827,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312702,
+      "num": 312702,
+      "word": "孙俪问邓超是想和她拉近距离吗",
+      "onboard_time": 1719492378,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "宋轶颜心记版消失的她",
       "onboard_time": 1719452656,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310224,
+      "num": 310224,
+      "word": "女孩高考查分前车祸至今昏迷不醒",
+      "onboard_time": 1719492559,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305492,
@@ -1075,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239301,
+      "num": 239301,
+      "word": "不必要的女士优先到此为止吧",
+      "onboard_time": 1719493038,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 236377,
+      "num": 236377,
+      "word": "梅雨季一次性内裤成了南方人刚需",
+      "onboard_time": 1719493400,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235731,
       "num": 235731,
       "word": "陈哲远P腿了吧",
@@ -1163,19 +1203,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 224855,
-      "num": 211894,
-      "word": "孙俪问邓超是想和她拉近距离吗",
-      "onboard_time": 1719492378,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224551,
       "num": 224551,
       "word": "毒贩在禁毒视频下打广告被抓",
       "onboard_time": 1719412037,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222724,
+      "num": 222724,
+      "word": "2岁女童因尿裤子被打店员大喊报警",
+      "onboard_time": 1719493517,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194654,
+      "num": 181123,
+      "word": "洞鞋的苹果被两个阿姨抓了",
+      "onboard_time": 1719493157,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "林一说刘亦菲美貌拯救像素",
@@ -1587,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160855,
+      "num": 160855,
+      "word": "Hanni短发似乎就是为了这一刻",
+      "onboard_time": 1719493639,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160754,
       "num": 160754,
       "word": "小猫长胖了走不了自己的门",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1719452357,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152162,
+      "num": 152162,
+      "word": "丁克老人为自己买骨灰盒",
+      "onboard_time": 1719493400,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 151734,
@@ -2107,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125914,
+      "num": 125914,
+      "word": "你的名字8年是怎样的存在",
+      "onboard_time": 1719492619,
+      "rank": 42,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 125613,
       "num": 125613,
       "word": "花百万和女友小炸串分手",
@@ -2283,20 +2355,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108757,
-      "num": 108757,
-      "word": "女孩高考查分前车祸至今昏迷不醒",
-      "onboard_time": 1719492559,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105988,
       "num": 105988,
       "word": "朱婷留洋第六季",
       "onboard_time": 1719490099,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105826,
+      "num": 105826,
+      "word": "歌手 想一出是一出",
+      "onboard_time": 1719494358,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 105469,
@@ -2313,14 +2385,6 @@
       "onboard_time": 1719487220,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104770,
-      "num": 104770,
-      "word": "你的名字8年是怎样的存在",
-      "onboard_time": 1719492619,
-      "rank": 42,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 103507,
@@ -2483,12 +2547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79413,
+      "num": 79413,
+      "word": "饭后出现4个症状可能是胆囊炎",
+      "onboard_time": 1719494478,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74279,
       "num": 126438,
       "word": "北京首套房首付最低20%",
       "onboard_time": 1719399196,
       "rank": 39,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 72111,
+      "num": 79050,
+      "word": "巴黎奥运会紫色跑道准备就绪",
+      "onboard_time": 1719494299,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72026,
@@ -2577,6 +2657,14 @@
       "onboard_time": 1719418755,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64585,
+      "num": 480058,
+      "word": "超20城买房送户口",
+      "onboard_time": 1719493219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64412,
@@ -2779,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30145,
+      "num": 129825,
+      "word": "孟子义反内耗大使",
+      "onboard_time": 1719491299,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29615,
       "num": 35695,
       "word": "真心建议晚上考语文",
@@ -2809,14 +2905,6 @@
       "onboard_time": 1719478818,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 23282,
-      "num": 115998,
-      "word": "孟子义反内耗大使",
-      "onboard_time": 1719491299,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 22481,
@@ -2913,6 +3001,14 @@
       "onboard_time": 1719426312,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 5792,
+      "num": 79285,
+      "word": "王传君孟子义合唱快乐崇拜",
+      "onboard_time": 1719494478,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
