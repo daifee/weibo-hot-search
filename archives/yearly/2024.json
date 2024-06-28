@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1719578186372,
+  "endTime": 1719579110407,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3519650,
+      "num": 3519650,
+      "word": "白玉兰内场",
+      "onboard_time": 1719577277,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3505714,
       "num": 3505714,
       "word": "妇产科迎来关停潮",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708413095,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3203010,
-      "num": 3203010,
-      "word": "男生月薪一万一年存10万",
-      "onboard_time": 1709695294,
-      "rank": 12,
-      "category": "情感,社会新闻"
     }
   ],
   "hotgov_list": [

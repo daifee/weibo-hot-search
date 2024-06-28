@@ -1,0 +1,410 @@
+{
+  "runTime": 1719579110407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3519650,
+        "num": 3519650,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2761540,
+        "num": 2761540,
+        "word": "汪苏泷 人美歌甜",
+        "onboard_time": 1719578300,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45817,
+        "num": 2298806,
+        "word": "藏在大学博物馆里的必看文物",
+        "onboard_time": 1719562880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1948547,
+        "num": 1948547,
+        "word": "歌手直播",
+        "onboard_time": 1719575777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1486970,
+        "num": 1486970,
+        "word": "那英哭了",
+        "onboard_time": 1719577578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472838,
+        "num": 1056561,
+        "word": "员工儿子高考718分公司奖10万",
+        "onboard_time": 1719565638,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 682819,
+        "num": 682819,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 451660,
+        "num": 451660,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266865,
+        "num": 451048,
+        "word": "人工智能或成最火爆专业",
+        "onboard_time": 1719576017,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50420,
+        "num": 448994,
+        "word": "抗洪救援力量撤离这一幕看哭了",
+        "onboard_time": 1719578240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935610,
+        "num": 447715,
+        "word": "汪苏泷又又好听了",
+        "onboard_time": 1719578421,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767985,
+        "num": 445697,
+        "word": "那英直播间请假",
+        "onboard_time": 1719577759,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726295,
+        "num": 444164,
+        "word": "黄宣加了陶喆的沙滩",
+        "onboard_time": 1719578600,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605843,
+        "num": 442681,
+        "word": "陈晓光头出席白玉兰",
+        "onboard_time": 1719578000,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232970,
+        "num": 441158,
+        "word": "男孩爱说脏话被妈妈一招治好",
+        "onboard_time": 1719564859,
+        "rank": 14,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 569456,
+        "num": 438501,
+        "word": "王鹤棣工作室认不出王鹤棣",
+        "onboard_time": 1719577578,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211989,
+        "num": 437621,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203071,
+        "num": 435018,
+        "word": "熊祁 杀生丸cos",
+        "onboard_time": 1719576977,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189278,
+        "num": 433576,
+        "word": "环球时报评苏州伤人案",
+        "onboard_time": 1719572418,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170929,
+        "num": 432774,
+        "word": "TTG对战JDG",
+        "onboard_time": 1719578720,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2052946,
+        "num": 430887,
+        "word": "万茜把发尾染绿了",
+        "onboard_time": 1719570439,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606984,
+        "num": 428736,
+        "word": "张小斐衣领 没把我们当外人",
+        "onboard_time": 1719570917,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561351,
+        "num": 426492,
+        "word": "林一沈月像是来结婚的",
+        "onboard_time": 1719576497,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540229,
+        "num": 424422,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 166625,
+        "num": 424320,
+        "word": "外交部哀悼胡友平",
+        "onboard_time": 1719562038,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422704,
+        "num": 422704,
+        "word": "陈晓给刘亦菲提裙子",
+        "onboard_time": 1719578720,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349803,
+        "num": 349803,
+        "word": "唐嫣出图",
+        "onboard_time": 1719567019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348578,
+        "num": 348578,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1719573677,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218388,
+        "num": 328929,
+        "word": "6位北大录取生都有1个共同点",
+        "onboard_time": 1719576438,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187856,
+        "num": 321088,
+        "word": "谈恋爱中的三个月定律",
+        "onboard_time": 1719574577,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313518,
+        "num": 313518,
+        "word": "王阳出席白玉兰",
+        "onboard_time": 1719571999,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293697,
+        "num": 293697,
+        "word": "刘亦菲万茜佟大为同框",
+        "onboard_time": 1719573439,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288321,
+        "num": 288321,
+        "word": "汪苏泷再唱雨态度坚定",
+        "onboard_time": 1719578000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199351,
+        "num": 262292,
+        "word": "印尼逮捕103名台湾人",
+        "onboard_time": 1719577398,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154531,
+        "num": 260292,
+        "word": "为什么年轻人都在反向消费",
+        "onboard_time": 1719575118,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44111,
+        "num": 260176,
+        "word": "想买MPV和SUV的人看完都沉默了",
+        "onboard_time": 1719578720,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260175,
+        "num": 260175,
+        "word": "歌手歌单",
+        "onboard_time": 1719578720,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258668,
+        "num": 258668,
+        "word": "姜妍好美",
+        "onboard_time": 1719578539,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 248681,
+        "word": "7月十二星座注意事项",
+        "onboard_time": 1719576497,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119764,
+        "num": 244488,
+        "word": "一只猫在家能说三斤话",
+        "onboard_time": 1719576857,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115713,
+        "num": 244453,
+        "word": "TCG给KPL一点K甲震撼",
+        "onboard_time": 1719574217,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244449,
+        "num": 244449,
+        "word": "吴谨言真公主来了",
+        "onboard_time": 1719577821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213350,
+        "num": 213350,
+        "word": "花百万怒骂小炸串",
+        "onboard_time": 1719578059,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212363,
+        "num": 212363,
+        "word": "王星越靠一部剧涨粉130万",
+        "onboard_time": 1719567618,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209579,
+        "num": 209579,
+        "word": "肖战这样介绍家乡国宝",
+        "onboard_time": 1719574217,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208692,
+        "num": 208692,
+        "word": "孙楠塑料粤语",
+        "onboard_time": 1719579081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207990,
+        "num": 207990,
+        "word": "歌手超长广告",
+        "onboard_time": 1719578841,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102725,
+        "num": 207249,
+        "word": "外交部回应胡友平见义勇为不幸离世",
+        "onboard_time": 1719562038,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84514,
+        "num": 201789,
+        "word": "小米澎湃OS更新",
+        "onboard_time": 1719578539,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101416,
+        "num": 199477,
+        "word": "TCG零封狼队",
+        "onboard_time": 1719573977,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平共处五项原则发表70周年纪念大会#"
+    }
+  }
+}
