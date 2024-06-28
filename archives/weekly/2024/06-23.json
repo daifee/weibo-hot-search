@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719596097047,
+  "endTime": 1719599111572,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -16667,6 +16667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62686,
+      "num": 62686,
+      "word": "双胞胎体重相差150斤同框反差太大",
+      "onboard_time": 1719596114,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62662,
       "num": 539822,
       "word": "1米6青岛大姨海浪中背出1米8老人",
@@ -16969,6 +16977,14 @@
       "onboard_time": 1719465499,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52984,
+      "num": 52984,
+      "word": "东方甄选主播回应公开吐槽公司",
+      "onboard_time": 1719597193,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 52978,
@@ -17721,6 +17737,14 @@
       "onboard_time": 1719283698,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 30810,
+      "num": 43436,
+      "word": "同居后分手男方要女方退还全部彩礼",
+      "onboard_time": 1719598153,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30471,
@@ -18553,6 +18577,14 @@
       "onboard_time": 1719300738,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8964,
+      "num": 168083,
+      "word": "钟南山勉励学子永远不要满足于书本",
+      "onboard_time": 1719596354,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 8789,
