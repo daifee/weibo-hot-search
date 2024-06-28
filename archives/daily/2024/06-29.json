@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719599875250,
+  "endTime": 1719602190028,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 130394,
-      "num": 74956,
+      "num": 101563,
       "word": "85花 手拉手",
       "onboard_time": 1719599292,
       "rank": 13,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99061,
+      "num": 99061,
+      "word": "双胞胎体重相差150斤同框反差太大",
+      "onboard_time": 1719596114,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95046,
       "num": 144219,
       "word": "凹凸世界",
@@ -393,14 +401,6 @@
       "onboard_time": 1719565638,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 86758,
-      "num": 86758,
-      "word": "双胞胎体重相差150斤同框反差太大",
-      "onboard_time": 1719596114,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82928,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60323,
+      "num": 50508,
+      "word": "同居后分手男方要女方退还全部彩礼",
+      "onboard_time": 1719598153,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58964,
       "num": 142710,
       "word": "中国奥委会确认孙颖莎陈梦单打资格",
@@ -465,14 +473,6 @@
       "onboard_time": 1719597193,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50508,
-      "num": 50508,
-      "word": "同居后分手男方要女方退还全部彩礼",
-      "onboard_time": 1719598153,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41980,
@@ -497,6 +497,14 @@
       "onboard_time": 1719596354,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7752,
+      "num": 32841,
+      "word": "衡水三尺老男孩腼腆回忆救娃经过",
+      "onboard_time": 1719600012,
+      "rank": 37,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
