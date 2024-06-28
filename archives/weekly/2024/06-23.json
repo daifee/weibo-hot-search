@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719563828948,
+  "endTime": 1719566452056,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1807505,
+      "num": 1807505,
+      "word": "法院判定玖月晞小南风抄袭",
+      "onboard_time": 1719562158,
+      "rank": 4,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1781840,
       "num": 1781840,
       "word": "韩方通报遇难中国公民增至19人",
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1493439,
+      "num": 263764,
+      "word": "你的屁股可能已经死掉了",
+      "onboard_time": 1719562758,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 1483879,
       "num": 986535,
       "word": "李梦 情商",
@@ -513,14 +529,6 @@
       "onboard_time": 1719289881,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1314715,
-      "num": 1314715,
-      "word": "法院判定玖月晞小南风抄袭",
-      "onboard_time": 1719562158,
-      "rank": 4,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 1304887,
@@ -881,14 +889,6 @@
       "onboard_time": 1719104236,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1072915,
-      "num": 263764,
-      "word": "你的屁股可能已经死掉了",
-      "onboard_time": 1719562758,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1072879,
@@ -1905,6 +1905,14 @@
       "onboard_time": 1719474558,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696836,
+      "num": 696836,
+      "word": "刘亦菲白玉兰造型",
+      "onboard_time": 1719564319,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 693149,
@@ -3377,6 +3385,14 @@
       "onboard_time": 1719471979,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 479137,
+      "num": 479137,
+      "word": "女子拍照弄丢50万宝石掀草坪找3小时",
+      "onboard_time": 1719564319,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479025,
@@ -5043,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337191,
+      "num": 337191,
+      "word": "男孩爱说脏话被妈妈一招治好",
+      "onboard_time": 1719564859,
+      "rank": 13,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 336814,
       "num": 336814,
       "word": "黄子韬再回应与小马丁事件",
@@ -5937,6 +5961,14 @@
       "onboard_time": 1719496160,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279474,
+      "num": 207424,
+      "word": "舒畅看了刘亦菲玫瑰的故事",
+      "onboard_time": 1719565638,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 279378,
@@ -7563,6 +7595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209241,
+      "num": 209241,
+      "word": "Digi活死人Beef大战",
+      "onboard_time": 1719563178,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209069,
       "num": 209069,
       "word": "许凯换发型了",
@@ -7865,6 +7905,14 @@
       "onboard_time": 1719384498,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204207,
+      "num": 204207,
+      "word": "九尾给一诺送皮肤",
+      "onboard_time": 1719565278,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 204150,
@@ -8243,6 +8291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198602,
+      "num": 198602,
+      "word": "王星越梁永棋互不发照片",
+      "onboard_time": 1719564319,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198333,
       "num": 198333,
       "word": "分数线",
@@ -8523,6 +8579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193942,
+      "num": 193942,
+      "word": "研究生好友上岸后把我删了",
+      "onboard_time": 1719564200,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193847,
       "num": 193847,
       "word": "女子给狗狗脚擦药突然被亲了一下",
@@ -8555,6 +8619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192540,
+      "num": 180857,
+      "word": "吴谨言王星越傻傻分不清楚",
+      "onboard_time": 1719566239,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192521,
       "num": 192521,
       "word": "张艺兴官宣西安站巡演",
@@ -8577,14 +8649,6 @@
       "onboard_time": 1719271094,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192349,
-      "num": 192349,
-      "word": "Digi活死人Beef大战",
-      "onboard_time": 1719563178,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 191953,
@@ -9059,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184527,
+      "num": 184527,
+      "word": "檀健次猎罪图鉴杀青照",
+      "onboard_time": 1719565519,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184496,
       "num": 184496,
       "word": "成龙说谢霆锋是当年的我",
@@ -9201,6 +9273,22 @@
       "onboard_time": 1719495680,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180956,
+      "num": 180956,
+      "word": "毕雯珺女装只有0次和无数次",
+      "onboard_time": 1719565878,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180950,
+      "num": 180950,
+      "word": "会缩短手机寿命的使用习惯",
+      "onboard_time": 1719561439,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 180687,
@@ -11139,14 +11227,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 149591,
-      "num": 149591,
-      "word": "会缩短手机寿命的使用习惯",
-      "onboard_time": 1719561439,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 149520,
       "num": 149520,
       "word": "月影别墅三周年",
@@ -11393,6 +11473,14 @@
       "onboard_time": 1719558798,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147123,
+      "num": 147123,
+      "word": "员工儿子高考718分公司奖10万",
+      "onboard_time": 1719565638,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 147104,
@@ -11771,6 +11859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140483,
+      "num": 140483,
+      "word": "专家称A股上下几十个点不是大问题",
+      "onboard_time": 1719565578,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140412,
       "num": 140412,
       "word": "山东不愧是考公大省",
@@ -11929,6 +12025,14 @@
       "onboard_time": 1719303557,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138313,
+      "num": 138313,
+      "word": "胡先煦漫画腿",
+      "onboard_time": 1719564681,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 138138,
@@ -13179,6 +13283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119095,
+      "num": 119095,
+      "word": "赵今麦露背挂脖裙",
+      "onboard_time": 1719565878,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "常吃这4类食物肚子最容易长肉",
@@ -13241,6 +13353,14 @@
       "onboard_time": 1719496760,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117948,
+      "num": 117948,
+      "word": "总感觉累的人最好别做美甲",
+      "onboard_time": 1719566359,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 117941,
@@ -13939,6 +14059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108570,
+      "num": 108570,
+      "word": "中国网球队奥运参赛名单公示",
+      "onboard_time": 1719566120,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108371,
       "num": 108371,
       "word": "梁永棋回应像梁朝伟",
@@ -14625,6 +14753,14 @@
       "onboard_time": 1719357075,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 88499,
+      "num": 735170,
+      "word": "藏在大学博物馆里的必看文物",
+      "onboard_time": 1719562880,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88097,
@@ -15363,6 +15499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55692,
+      "num": 374984,
+      "word": "苏州市民向胡友平献花",
+      "onboard_time": 1719565219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55064,
       "num": 436554,
       "word": "外卖员被积水冲走交警拉人链救回",
@@ -15815,14 +15959,6 @@
       "num": 1032890,
       "word": "千年运河从历史流向未来",
       "onboard_time": 1719153500,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40688,
-      "num": 703292,
-      "word": "藏在大学博物馆里的必看文物",
-      "onboard_time": 1719562880,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -16865,6 +17001,14 @@
       "onboard_time": 1719337752,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12939,
+      "num": 105603,
+      "word": "灵龙的MBTI是ENFP",
+      "onboard_time": 1719564799,
+      "rank": 48,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 12837,
