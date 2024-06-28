@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719606881200,
+  "endTime": 1719609600707,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25434,
+      "num": 25434,
+      "word": "陈乔恩回复导演陈铭章",
+      "onboard_time": 1719606370,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23800,
       "num": 31434,
       "word": "当妹妹报考大学却有个姐姐时",
@@ -491,7 +499,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 17861,
+      "raw_hot": 20569,
       "num": 22632,
       "word": "有种细菌会让衣服发臭",
       "onboard_time": 1719605231,
@@ -499,12 +507,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 17584,
-      "num": 20745,
-      "word": "陈乔恩回复导演陈铭章",
-      "onboard_time": 1719606370,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 16874,
+      "num": 19191,
+      "word": "章子怡张雪迎张天爱健身合照",
+      "onboard_time": 1719608770,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 16751,

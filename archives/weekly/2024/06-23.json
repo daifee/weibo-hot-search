@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719606881200,
+  "endTime": 1719609600707,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -17979,6 +17979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25434,
+      "num": 25434,
+      "word": "陈乔恩回复导演陈铭章",
+      "onboard_time": 1719606370,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25372,
       "num": 416257,
       "word": "微博文化之夜年度荣誉",
@@ -18155,6 +18163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 20569,
+      "num": 22632,
+      "word": "有种细菌会让衣服发臭",
+      "onboard_time": 1719605231,
+      "rank": 45,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 20481,
       "num": 261441,
       "word": "乘风同款演唱会神器",
@@ -18251,28 +18267,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17861,
-      "num": 22632,
-      "word": "有种细菌会让衣服发臭",
-      "onboard_time": 1719605231,
-      "rank": 45,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 17613,
       "num": 1615974,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17584,
-      "num": 20745,
-      "word": "陈乔恩回复导演陈铭章",
-      "onboard_time": 1719606370,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 17567,
@@ -18305,6 +18305,14 @@
       "onboard_time": 1719087012,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16874,
+      "num": 19191,
+      "word": "章子怡张雪迎张天爱健身合照",
+      "onboard_time": 1719608770,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 16827,
