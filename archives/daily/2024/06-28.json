@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719574474183,
+  "endTime": 1719578186372,
   "band_list": [
     {
       "raw_hot": 2591688,
@@ -11,12 +11,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2516431,
+      "num": 2516431,
+      "word": "歌手直播",
+      "onboard_time": 1719575777,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2259314,
       "num": 2259314,
       "word": "勇救日本母子的中国女子去世",
       "onboard_time": 1719533838,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1834464,
+      "num": 1834464,
+      "word": "白玉兰内场",
+      "onboard_time": 1719577277,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1807505,
@@ -193,6 +209,14 @@
       "onboard_time": 1719533477,
       "rank": 5,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 842777,
+      "num": 842777,
+      "word": "那英哭了",
+      "onboard_time": 1719577578,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 830164,
@@ -451,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 572172,
+      "num": 520640,
+      "word": "林一沈月像是来结婚的",
+      "onboard_time": 1719576497,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571302,
       "num": 571302,
       "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
@@ -619,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 432286,
+      "num": 263097,
+      "word": "王鹤棣工作室认不出王鹤棣",
+      "onboard_time": 1719577578,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424346,
       "num": 243528,
       "word": "2岁女童因尿裤子被打店员大喊报警",
@@ -651,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410351,
+      "num": 257410,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1719573677,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 408400,
       "num": 408400,
       "word": "川普说霉霉非常漂亮",
@@ -665,6 +713,14 @@
       "onboard_time": 1719483078,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 401273,
+      "num": 244435,
+      "word": "刘亦菲万茜佟大为同框",
+      "onboard_time": 1719573439,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 397775,
@@ -703,6 +759,14 @@
       "num": 371257,
       "word": "奔跑吧今晚男生女生向前冲",
       "onboard_time": 1719558019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355280,
+      "num": 234277,
+      "word": "那英直播间请假",
+      "onboard_time": 1719577759,
       "rank": 13,
       "category": "综艺"
     },
@@ -787,14 +851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 330756,
-      "num": 216468,
-      "word": "刘亦菲万茜佟大为同框",
-      "onboard_time": 1719573439,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329569,
       "num": 329569,
       "word": "沈翊好疯",
@@ -867,12 +923,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296555,
+      "num": 226552,
+      "word": "陈晓光头出席白玉兰",
+      "onboard_time": 1719578000,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294932,
       "num": 238549,
       "word": "asen把diss删了",
       "onboard_time": 1719571158,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288948,
+      "num": 288948,
+      "word": "环球时报评苏州伤人案",
+      "onboard_time": 1719572418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288939,
@@ -915,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270143,
+      "num": 226020,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719574217,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267962,
       "num": 267962,
       "word": "日本扩大大陆架有悖联合国海洋法公约",
@@ -945,6 +1025,14 @@
       "onboard_time": 1719496940,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256435,
+      "num": 225291,
+      "word": "汪苏泷歌手第八期海报",
+      "onboard_time": 1719577160,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 249682,
@@ -1067,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222663,
+      "num": 222663,
+      "word": "吴谨言真公主来了",
+      "onboard_time": 1719577821,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222393,
       "num": 222393,
       "word": "东方财富",
       "onboard_time": 1719556398,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222115,
+      "num": 222115,
+      "word": "汪苏泷再唱雨态度坚定",
+      "onboard_time": 1719578000,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 221969,
@@ -1100,7 +1204,7 @@
     },
     {
       "raw_hot": 219377,
-      "num": 219377,
+      "num": 230576,
       "word": "TCG零封狼队",
       "onboard_time": 1719573977,
       "rank": 13,
@@ -1195,20 +1299,20 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 202976,
+      "num": 222286,
+      "word": "6位北大录取生都有1个共同点",
+      "onboard_time": 1719576438,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 202487,
       "num": 202487,
       "word": "王星越墨雨云间收官长文",
       "onboard_time": 1719555318,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201183,
-      "num": 161496,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1719573677,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 198602,
@@ -1235,20 +1339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195395,
+      "num": 195395,
+      "word": "周迅宋佳体型差",
+      "onboard_time": 1719576557,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193942,
       "num": 193942,
       "word": "研究生好友上岸后把我删了",
       "onboard_time": 1719564200,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193874,
-      "num": 160902,
-      "word": "肖战这样介绍家乡国宝",
-      "onboard_time": 1719574217,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 193847,
@@ -1281,6 +1385,14 @@
       "onboard_time": 1719492979,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191548,
+      "num": 222157,
+      "word": "谈恋爱中的三个月定律",
+      "onboard_time": 1719574577,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 190648,
@@ -1316,7 +1428,7 @@
     },
     {
       "raw_hot": 185955,
-      "num": 157916,
+      "num": 171226,
       "word": "唐嫣新剧没选择演女主",
       "onboard_time": 1719572718,
       "rank": 28,
@@ -1427,6 +1539,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 176459,
+      "num": 176459,
+      "word": "王鸥白玉兰红毯造型",
+      "onboard_time": 1719574457,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176232,
       "num": 176232,
       "word": "刘忻第六",
@@ -1491,12 +1611,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 168683,
+      "num": 197718,
+      "word": "印尼逮捕103名台湾人",
+      "onboard_time": 1719577398,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167327,
       "num": 167327,
       "word": "男孩因一个标点痛失90分哭的声情并茂",
       "onboard_time": 1719561017,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167187,
+      "num": 195869,
+      "word": "为什么年轻人都在反向消费",
+      "onboard_time": 1719575118,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 166666,
@@ -1555,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159327,
+      "num": 159327,
+      "word": "花百万怒骂小炸串",
+      "onboard_time": 1719578059,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 158458,
       "num": 158458,
       "word": "苹果客服回应iPhone13鼓包",
@@ -1572,7 +1716,7 @@
     },
     {
       "raw_hot": 156978,
-      "num": 156978,
+      "num": 231274,
       "word": "TCG给KPL一点K甲震撼",
       "onboard_time": 1719574217,
       "rank": 33,
@@ -1625,6 +1769,14 @@
       "onboard_time": 1719486019,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 152161,
+      "num": 231628,
+      "word": "熊祁 杀生丸cos",
+      "onboard_time": 1719576977,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 151681,
@@ -1713,6 +1865,14 @@
       "onboard_time": 1719493400,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144052,
+      "num": 195601,
+      "word": "7月十二星座注意事项",
+      "onboard_time": 1719576497,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 143963,
@@ -2035,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118535,
-      "num": 118535,
-      "word": "王鸥白玉兰红毯造型",
-      "onboard_time": 1719574457,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117209,
       "num": 399923,
       "word": "长城脚下2000平方米停车场未批先建",
@@ -2057,6 +2209,14 @@
       "onboard_time": 1719546498,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116360,
+      "num": 230204,
+      "word": "人工智能或成最火爆专业",
+      "onboard_time": 1719576017,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115356,
@@ -2088,6 +2248,14 @@
       "word": "TKL对战TES",
       "onboard_time": 1719558679,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110550,
+      "num": 156047,
+      "word": "九尾让Cat退款",
+      "onboard_time": 1719575178,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -2227,6 +2395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96556,
+      "num": 155676,
+      "word": "退一万步讲 MTG就没错吗",
+      "onboard_time": 1719575598,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96257,
       "num": 96257,
       "word": "美国一警察怀疑妻子出轨全天候监视",
@@ -2259,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94927,
+      "num": 155007,
+      "word": "一只猫在家能说三斤话",
+      "onboard_time": 1719576857,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93180,
       "num": 93180,
       "word": "唐嫣白玉兰提名感言",
@@ -2276,7 +2460,7 @@
     },
     {
       "raw_hot": 88499,
-      "num": 910359,
+      "num": 951947,
       "word": "藏在大学博物馆里的必看文物",
       "onboard_time": 1719562880,
       "rank": 2,
@@ -2411,16 +2595,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60698,
-      "num": 275858,
-      "word": "环球时报评苏州伤人案",
-      "onboard_time": 1719572418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60607,
-      "num": 165634,
+      "num": 227863,
       "word": "18岁男生毕业旅行顺手救了个人",
       "onboard_time": 1719574339,
       "rank": 20,
@@ -2552,6 +2728,14 @@
       "word": "并蒂莲和同心莲同框绽放",
       "onboard_time": 1719530356,
       "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 34163,
+      "num": 223969,
+      "word": "紫薇花盛开浪漫感满格",
+      "onboard_time": 1719576078,
+      "rank": 29,
       "category": "旅游"
     },
     {

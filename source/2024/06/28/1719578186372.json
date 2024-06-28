@@ -1,0 +1,410 @@
+{
+  "runTime": 1719578186372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2516431,
+        "num": 2516431,
+        "word": "歌手直播",
+        "onboard_time": 1719575777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1834464,
+        "num": 1834464,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43815,
+        "num": 951947,
+        "word": "藏在大学博物馆里的必看文物",
+        "onboard_time": 1719562880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842777,
+        "num": 842777,
+        "word": "那英哭了",
+        "onboard_time": 1719577578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687457,
+        "num": 687457,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 4,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 551168,
+        "num": 551168,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572172,
+        "num": 520640,
+        "word": "林一沈月像是来结婚的",
+        "onboard_time": 1719576497,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486233,
+        "num": 486233,
+        "word": "员工儿子高考718分公司奖10万",
+        "onboard_time": 1719565638,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288948,
+        "num": 288948,
+        "word": "环球时报评苏州伤人案",
+        "onboard_time": 1719572418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267494,
+        "num": 267494,
+        "word": "男孩爱说脏话被妈妈一招治好",
+        "onboard_time": 1719564859,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 432286,
+        "num": 263097,
+        "word": "王鹤棣工作室认不出王鹤棣",
+        "onboard_time": 1719577578,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410351,
+        "num": 257410,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1719573677,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401273,
+        "num": 244435,
+        "word": "刘亦菲万茜佟大为同框",
+        "onboard_time": 1719573439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355280,
+        "num": 234277,
+        "word": "那英直播间请假",
+        "onboard_time": 1719577759,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232675,
+        "num": 232675,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197017,
+        "num": 232126,
+        "word": "外交部哀悼胡友平",
+        "onboard_time": 1719562038,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152161,
+        "num": 231628,
+        "word": "熊祁 杀生丸cos",
+        "onboard_time": 1719576977,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147240,
+        "num": 231274,
+        "word": "TCG给KPL一点K甲震撼",
+        "onboard_time": 1719574217,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 230576,
+        "word": "TCG零封狼队",
+        "onboard_time": 1719573977,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116360,
+        "num": 230204,
+        "word": "人工智能或成最火爆专业",
+        "onboard_time": 1719576017,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2209057,
+        "num": 229440,
+        "word": "万茜把发尾染绿了",
+        "onboard_time": 1719570439,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817953,
+        "num": 228570,
+        "word": "张小斐衣领 没把我们当外人",
+        "onboard_time": 1719570917,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557458,
+        "num": 228240,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 42046,
+        "num": 227863,
+        "word": "18岁男生毕业旅行顺手救了个人",
+        "onboard_time": 1719574339,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 466706,
+        "num": 227130,
+        "word": "唐嫣出图",
+        "onboard_time": 1719567019,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296555,
+        "num": 226552,
+        "word": "陈晓光头出席白玉兰",
+        "onboard_time": 1719578000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270143,
+        "num": 226020,
+        "word": "肖战这样介绍家乡国宝",
+        "onboard_time": 1719574217,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256435,
+        "num": 225291,
+        "word": "汪苏泷歌手第八期海报",
+        "onboard_time": 1719577160,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253089,
+        "num": 224817,
+        "word": "王星越靠一部剧涨粉130万",
+        "onboard_time": 1719567618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34163,
+        "num": 223969,
+        "word": "紫薇花盛开浪漫感满格",
+        "onboard_time": 1719576078,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 479283,
+        "num": 223832,
+        "word": "王阳出席白玉兰",
+        "onboard_time": 1719571999,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233527,
+        "num": 222722,
+        "word": "刘亦菲白玉兰造型",
+        "onboard_time": 1719564319,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 222663,
+        "word": "吴谨言真公主来了",
+        "onboard_time": 1719577821,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202976,
+        "num": 222286,
+        "word": "6位北大录取生都有1个共同点",
+        "onboard_time": 1719576438,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191548,
+        "num": 222157,
+        "word": "谈恋爱中的三个月定律",
+        "onboard_time": 1719574577,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222115,
+        "num": 222115,
+        "word": "汪苏泷再唱雨态度坚定",
+        "onboard_time": 1719578000,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210180,
+        "num": 210180,
+        "word": "asen把diss删了",
+        "onboard_time": 1719571158,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168683,
+        "num": 197718,
+        "word": "印尼逮捕103名台湾人",
+        "onboard_time": 1719577398,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167187,
+        "num": 195869,
+        "word": "为什么年轻人都在反向消费",
+        "onboard_time": 1719575118,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144052,
+        "num": 195601,
+        "word": "7月十二星座注意事项",
+        "onboard_time": 1719576497,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195395,
+        "num": 195395,
+        "word": "周迅宋佳体型差",
+        "onboard_time": 1719576557,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176459,
+        "num": 176459,
+        "word": "王鸥白玉兰红毯造型",
+        "onboard_time": 1719574457,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171226,
+        "num": 171226,
+        "word": "唐嫣新剧没选择演女主",
+        "onboard_time": 1719572718,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165654,
+        "num": 165654,
+        "word": "于适 白玉兰主持人",
+        "onboard_time": 1719567317,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159327,
+        "num": 159327,
+        "word": "花百万怒骂小炸串",
+        "onboard_time": 1719578059,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116301,
+        "num": 157612,
+        "word": "外交部回应胡友平见义勇为不幸离世",
+        "onboard_time": 1719562038,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 156532,
+        "word": "黄子韬直播道歉",
+        "onboard_time": 1719561377,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110550,
+        "num": 156047,
+        "word": "九尾让Cat退款",
+        "onboard_time": 1719575178,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96556,
+        "num": 155676,
+        "word": "退一万步讲 MTG就没错吗",
+        "onboard_time": 1719575598,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94927,
+        "num": 155007,
+        "word": "一只猫在家能说三斤话",
+        "onboard_time": 1719576857,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平共处五项原则发表70周年纪念大会#"
+    }
+  }
+}
