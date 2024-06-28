@@ -1,0 +1,410 @@
+{
+  "runTime": 1719542797652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665405,
+        "num": 1665405,
+        "word": "勇救日本母子的中国女子去世",
+        "onboard_time": 1719533838,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874568,
+        "num": 874568,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34530,
+        "num": 770765,
+        "word": "北疆网络普法行",
+        "onboard_time": 1719534980,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732621,
+        "num": 732621,
+        "word": "2024美国总统选举首场辩论",
+        "onboard_time": 1719538038,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 701969,
+        "num": 701969,
+        "word": "苏州将追授胡友平见义勇为模范称号",
+        "onboard_time": 1719539777,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546767,
+        "num": 546767,
+        "word": "隼醒来天塌了",
+        "onboard_time": 1719540198,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506971,
+        "num": 506971,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 497171,
+        "num": 497171,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468741,
+        "num": 468741,
+        "word": "苗苗张予曦没成团",
+        "onboard_time": 1719537498,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35780,
+        "num": 431609,
+        "word": "女大学生帮口音重大叔录音卖栗子",
+        "onboard_time": 1719537618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424250,
+        "num": 424250,
+        "word": "杨紫白玉兰视后提名片段",
+        "onboard_time": 1719541519,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388380,
+        "num": 388380,
+        "word": "乘风2024 成团名单",
+        "onboard_time": 1719532037,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369261,
+        "num": 369261,
+        "word": "胖的根本原因",
+        "onboard_time": 1719533477,
+        "rank": 12,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 369204,
+        "num": 369204,
+        "word": "崔永熙签约开拓者",
+        "onboard_time": 1719540078,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332361,
+        "num": 332361,
+        "word": "张予曦卡位",
+        "onboard_time": 1719538576,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298744,
+        "num": 298744,
+        "word": "Asen diss",
+        "onboard_time": 1719530475,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285631,
+        "num": 285631,
+        "word": "阿根廷向我国返还14件文物",
+        "onboard_time": 1719533538,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282795,
+        "num": 282795,
+        "word": "拜登和特朗普今日辩论",
+        "onboard_time": 1719538757,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254909,
+        "num": 254909,
+        "word": "丫丫越胖我们越爱",
+        "onboard_time": 1719538337,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204964,
+        "num": 236262,
+        "word": "苏州女子胡友平见义勇为细节",
+        "onboard_time": 1719542178,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665982,
+        "num": 233373,
+        "word": "中医建议气血不足的人学猫生活",
+        "onboard_time": 1719536298,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 227982,
+        "num": 227982,
+        "word": "喝咖啡记得提前45分钟喝",
+        "onboard_time": 1719535459,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 227637,
+        "num": 227637,
+        "word": "黄子韬谈经纪人被抓",
+        "onboard_time": 1719498561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201169,
+        "num": 201169,
+        "word": "苏州公示胡友平见义勇为事迹",
+        "onboard_time": 1719536598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200754,
+        "num": 200754,
+        "word": "嫦娥六号带回1935.3克月球样品",
+        "onboard_time": 1719541997,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195865,
+        "num": 195865,
+        "word": "Asen新专辑",
+        "onboard_time": 1719505038,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186418,
+        "num": 186418,
+        "word": "法老 开玩笑的龚老师",
+        "onboard_time": 1719530775,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182213,
+        "num": 182213,
+        "word": "Angelababy和爱马仕总监合影",
+        "onboard_time": 1719535879,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181502,
+        "num": 181502,
+        "word": "成龙说谢霆锋是当年的我",
+        "onboard_time": 1719542238,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179664,
+        "num": 179664,
+        "word": "武汉暴雨",
+        "onboard_time": 1719541997,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178952,
+        "num": 178952,
+        "word": "iPhone16电池或更易更换",
+        "onboard_time": 1719531917,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178894,
+        "num": 178894,
+        "word": "白玉兰",
+        "onboard_time": 1719539239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167353,
+        "num": 167353,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 32,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 154073,
+        "num": 154073,
+        "word": "东方甄选主播直播间公开表达不满",
+        "onboard_time": 1719531375,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152166,
+        "num": 152166,
+        "word": "王者荣耀策划",
+        "onboard_time": 1719536059,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151245,
+        "num": 151245,
+        "word": "女子给狗狗脚擦药突然被亲了一下",
+        "onboard_time": 1719534497,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 150379,
+        "word": "胡友平",
+        "onboard_time": 1719534259,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146381,
+        "num": 146381,
+        "word": "陈昊宇 黑马",
+        "onboard_time": 1719535639,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132428,
+        "num": 132428,
+        "word": "苏州女子胡友平被提请见义勇为",
+        "onboard_time": 1719534618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131842,
+        "num": 131842,
+        "word": "Digi活死人打起来",
+        "onboard_time": 1719540317,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131771,
+        "num": 131771,
+        "word": "长期轻断食对身体有什么影响",
+        "onboard_time": 1719499221,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129258,
+        "num": 129258,
+        "word": "不想患癌这食物千万別碰",
+        "onboard_time": 1719536658,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 126005,
+        "num": 126005,
+        "word": "李雪琴陷体育加分风波",
+        "onboard_time": 1719526572,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125409,
+        "num": 125409,
+        "word": "许嵩新歌",
+        "onboard_time": 1719540497,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90394,
+        "num": 121097,
+        "word": "2人在高过头顶的洪水中被救出",
+        "onboard_time": 1719540497,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 119784,
+        "word": "虞书欣帮姜妍搭配衣服到凌晨",
+        "onboard_time": 1719537799,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117771,
+        "num": 117771,
+        "word": "湖人选中布朗尼",
+        "onboard_time": 1719529695,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115649,
+        "num": 115649,
+        "word": "韩雪成团",
+        "onboard_time": 1719533477,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108917,
+        "num": 108917,
+        "word": "为了坐高铁不吵到别人买了个包菜",
+        "onboard_time": 1719531676,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105424,
+        "num": 105424,
+        "word": "在死海旁捡到珍珠一样的盐粒",
+        "onboard_time": 1719534318,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步全面深化改革推进中国式现代化#"
+    }
+  }
+}

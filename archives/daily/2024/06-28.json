@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719542215744,
+  "endTime": 1719542797652,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -67,12 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 730308,
-      "num": 730308,
+      "raw_hot": 732621,
+      "num": 732621,
       "word": "2024美国总统选举首场辩论",
       "onboard_time": 1719538038,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 701969,
+      "num": 701969,
+      "word": "苏州将追授胡友平见义勇为模范称号",
+      "onboard_time": 1719539777,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673072,
@@ -81,14 +89,6 @@
       "onboard_time": 1719536298,
       "rank": 22,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 658777,
-      "num": 658777,
-      "word": "苏州将追授胡友平见义勇为模范称号",
-      "onboard_time": 1719539777,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653359,
@@ -155,20 +155,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 546767,
+      "num": 546767,
+      "word": "隼醒来天塌了",
+      "onboard_time": 1719540198,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 535392,
       "num": 535392,
       "word": "苗苗张予曦没成团",
       "onboard_time": 1719537498,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 497891,
-      "num": 497891,
-      "word": "隼醒来天塌了",
-      "onboard_time": 1719540198,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 486833,
@@ -217,6 +217,14 @@
       "onboard_time": 1719493517,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424250,
+      "num": 424250,
+      "word": "杨紫白玉兰视后提名片段",
+      "onboard_time": 1719541519,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 423656,
@@ -289,14 +297,6 @@
       "onboard_time": 1719530475,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 328184,
-      "num": 328184,
-      "word": "杨紫白玉兰视后提名片段",
-      "onboard_time": 1719541519,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 322676,
@@ -427,12 +427,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204964,
+      "num": 236262,
+      "word": "苏州女子胡友平见义勇为细节",
+      "onboard_time": 1719542178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "李飞说TFBOYS有运气成分在",
       "onboard_time": 1719496220,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200754,
+      "num": 200754,
+      "word": "嫦娥六号带回1935.3克月球样品",
+      "onboard_time": 1719541997,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193847,
@@ -483,8 +499,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178842,
-      "num": 178842,
+      "raw_hot": 181502,
+      "num": 181502,
+      "word": "成龙说谢霆锋是当年的我",
+      "onboard_time": 1719542238,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 179664,
+      "num": 179664,
+      "word": "武汉暴雨",
+      "onboard_time": 1719541997,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178894,
+      "num": 178894,
       "word": "白玉兰",
       "onboard_time": 1719539239,
       "rank": 27,
@@ -523,12 +555,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 165946,
-      "num": 165946,
-      "word": "嫦娥六号带回1935.3克月球样品",
-      "onboard_time": 1719541997,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 167353,
+      "num": 167353,
+      "word": "长期不运动的人身体会怎样",
+      "onboard_time": 1719542538,
+      "rank": 32,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 164002,
@@ -587,6 +619,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150379,
+      "num": 150379,
+      "word": "胡友平",
+      "onboard_time": 1719534259,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150285,
       "num": 150285,
       "word": "玲子怀孕",
@@ -635,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140555,
-      "num": 140555,
-      "word": "胡友平",
-      "onboard_time": 1719534259,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139534,
       "num": 139534,
       "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
@@ -667,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131070,
-      "num": 131070,
-      "word": "苏州女子胡友平见义勇为细节",
-      "onboard_time": 1719542178,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126622,
       "num": 126622,
       "word": "大奉打更人",
@@ -697,14 +721,6 @@
       "onboard_time": 1719537078,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120214,
-      "num": 120214,
-      "word": "武汉暴雨",
-      "onboard_time": 1719541997,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113897,
@@ -809,6 +825,14 @@
       "onboard_time": 1719499940,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90394,
+      "num": 444838,
+      "word": "2人在高过头顶的洪水中被救出",
+      "onboard_time": 1719540497,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87683,
@@ -923,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63408,
-      "num": 444838,
-      "word": "2人在高过头顶的洪水中被救出",
-      "onboard_time": 1719540497,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 48406,
-      "num": 211917,
+      "num": 431609,
       "word": "女大学生帮口音重大叔录音卖栗子",
       "onboard_time": 1719537618,
       "rank": 29,
