@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719544959096,
+  "endTime": 1719545836449,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633651,
+      "num": 1633651,
+      "word": "日本驻华大使馆降半旗致敬胡友平",
+      "onboard_time": 1719543078,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1631935,
       "num": 1631935,
       "word": "教育局回应女生拿6双筷子被斥盗窃",
@@ -441,14 +449,6 @@
       "onboard_time": 1719498561,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1437879,
-      "num": 1437879,
-      "word": "日本驻华大使馆降半旗致敬胡友平",
-      "onboard_time": 1719543078,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1432129,
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 701969,
-      "num": 701969,
+      "num": 1034357,
       "word": "苏州将追授胡友平见义勇为模范称号",
       "onboard_time": 1719539777,
       "rank": 4,
@@ -2563,6 +2563,14 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 556665,
+      "num": 492245,
+      "word": "拜登和特朗普开始美国大选首场辩论",
+      "onboard_time": 1719538038,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 555452,
       "num": 555452,
       "word": "二维码真有用光那一天吗",
@@ -3027,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493309,
+      "num": 493309,
+      "word": "武汉暴雨",
+      "onboard_time": 1719541997,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492962,
       "num": 492962,
       "word": "印度知名演员涉嫌杀人被捕",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1719294258,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 492245,
-      "num": 492245,
-      "word": "拜登和特朗普开始美国大选首场辩论",
-      "onboard_time": 1719538038,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 491461,
@@ -3579,14 +3587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436155,
-      "num": 436155,
-      "word": "武汉暴雨",
-      "onboard_time": 1719541997,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435547,
       "num": 435547,
       "word": "金价狂飙金店为何高兴不起来",
@@ -3785,6 +3785,14 @@
       "onboard_time": 1719529695,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423566,
+      "num": 275842,
+      "word": "长期不运动的人身体会怎样",
+      "onboard_time": 1719542538,
+      "rank": 32,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 422766,
@@ -4539,6 +4547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352418,
+      "num": 352418,
+      "word": "苏州女子胡友平见义勇为细节",
+      "onboard_time": 1719542178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352283,
       "num": 352283,
       "word": "贵女",
@@ -4593,14 +4609,6 @@
       "onboard_time": 1719455716,
       "rank": 30,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 349552,
-      "num": 349552,
-      "word": "苏州女子胡友平见义勇为细节",
-      "onboard_time": 1719542178,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349164,
@@ -4691,6 +4699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341047,
+      "num": 341047,
+      "word": "于正晒白鹿赵晴剧照",
+      "onboard_time": 1719542837,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340640,
       "num": 265350,
       "word": "长相思2还没来",
@@ -4745,6 +4761,14 @@
       "onboard_time": 1719210919,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332332,
+      "num": 332332,
+      "word": "美媒发现拜登特朗普没握手",
+      "onboard_time": 1719543679,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 332108,
@@ -4955,14 +4979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318852,
-      "num": 275842,
-      "word": "长期不运动的人身体会怎样",
-      "onboard_time": 1719542538,
-      "rank": 32,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 318660,
       "num": 318660,
       "word": "陈瑶白晓荷有姐感了",
@@ -5079,6 +5095,14 @@
       "num": 257299,
       "word": "萨顶顶悟空",
       "onboard_time": 1719232760,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311353,
+      "num": 311353,
+      "word": "历届浪姐C位",
+      "onboard_time": 1719544698,
       "rank": 22,
       "category": "综艺"
     },
@@ -5203,6 +5227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302216,
+      "num": 227392,
+      "word": "李雪琴事件背后的高考公平",
+      "onboard_time": 1719544938,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 301479,
       "num": 262843,
       "word": "傅家明也住进了方协文心里",
@@ -5265,14 +5297,6 @@
       "onboard_time": 1719473298,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 298096,
-      "num": 298096,
-      "word": "于正晒白鹿赵晴剧照",
-      "onboard_time": 1719542837,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 297150,
@@ -5499,14 +5523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285029,
-      "num": 275715,
-      "word": "历届浪姐C位",
-      "onboard_time": 1719544698,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284649,
       "num": 284649,
       "word": "齐思钧否认浪姐直播做票",
@@ -5665,14 +5681,6 @@
       "onboard_time": 1719288559,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275468,
-      "num": 275468,
-      "word": "美媒发现拜登特朗普没握手",
-      "onboard_time": 1719543679,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 275401,
@@ -6145,6 +6153,14 @@
       "onboard_time": 1719493400,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244526,
+      "num": 244526,
+      "word": "警方通报内蒙古1家5口遇害",
+      "onboard_time": 1719544758,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 244296,
@@ -6689,6 +6705,14 @@
       "onboard_time": 1719149057,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224132,
+      "num": 224132,
+      "word": "尚雯婕第三名",
+      "onboard_time": 1719544878,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 223002,
@@ -7531,6 +7555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201463,
+      "num": 201463,
+      "word": "暗访福寿螺产业链",
+      "onboard_time": 1719544638,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201419,
       "num": 201419,
       "word": "韩国偶遇蔡依林",
@@ -8043,6 +8075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193687,
+      "num": 193687,
+      "word": "胡友平",
+      "onboard_time": 1719534259,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193459,
       "num": 193459,
       "word": "伞兵 嫁妆",
@@ -8081,14 +8121,6 @@
       "onboard_time": 1719271094,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 191989,
-      "num": 191989,
-      "word": "胡友平",
-      "onboard_time": 1719534259,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191953,
@@ -8185,6 +8217,14 @@
       "onboard_time": 1719228319,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190277,
+      "num": 190277,
+      "word": "法老 开玩笑的龚老师",
+      "onboard_time": 1719530775,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 190240,
@@ -8337,14 +8377,6 @@
       "onboard_time": 1719144858,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187232,
-      "num": 187232,
-      "word": "法老 开玩笑的龚老师",
-      "onboard_time": 1719530775,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 187166,
@@ -8713,14 +8745,6 @@
       "onboard_time": 1719106037,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179750,
-      "num": 179750,
-      "word": "李雪琴事件背后的高考公平",
-      "onboard_time": 1719544938,
-      "rank": 33,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 179724,
@@ -9131,6 +9155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171419,
+      "num": 171419,
+      "word": "特朗普和拜登激烈交锋",
+      "onboard_time": 1719545118,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 171347,
       "num": 171347,
       "word": "马立奥 一直很幸福的小宝贝",
@@ -9401,14 +9433,6 @@
       "onboard_time": 1719488657,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167382,
-      "num": 167382,
-      "word": "警方通报内蒙古1家5口遇害",
-      "onboard_time": 1719544758,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 167225,
@@ -9947,6 +9971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158072,
+      "num": 158072,
+      "word": "微信怎么删好友不被发现",
+      "onboard_time": 1719545479,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157944,
       "num": 157944,
       "word": "梁朝伟闵熙珍合照",
@@ -10379,14 +10411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151844,
-      "num": 151844,
-      "word": "尚雯婕第三名",
-      "onboard_time": 1719544878,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151734,
       "num": 151734,
       "word": "张馨予男友视角照",
@@ -10529,6 +10553,14 @@
       "onboard_time": 1719478038,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149898,
+      "num": 149898,
+      "word": "嫦娥六号",
+      "onboard_time": 1719286459,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149616,
@@ -10979,6 +11011,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143538,
+      "num": 143538,
+      "word": "李尔新 不要再打了",
+      "onboard_time": 1719545357,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143457,
       "num": 143457,
       "word": "克拉岛抢票",
@@ -11427,20 +11467,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135558,
+      "num": 135558,
+      "word": "小时候意识不到什么是朝九晚五",
+      "onboard_time": 1719543977,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135393,
       "num": 135393,
       "word": "墨雨云间你这样变装王星越知道吗",
       "onboard_time": 1719111737,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135250,
-      "num": 135250,
-      "word": "嫦娥六号",
-      "onboard_time": 1719286459,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135244,
@@ -11529,14 +11569,6 @@
       "onboard_time": 1719490519,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133770,
-      "num": 131835,
-      "word": "暗访福寿螺产业链",
-      "onboard_time": 1719544638,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133748,
@@ -11864,14 +11896,6 @@
       "word": "INFP真的很容易变成废物",
       "onboard_time": 1719448458,
       "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 128461,
-      "num": 128461,
-      "word": "小时候意识不到什么是朝九晚五",
-      "onboard_time": 1719543977,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -14579,6 +14603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55064,
+      "num": 436554,
+      "word": "外卖员被积水冲走交警拉人链救回",
+      "onboard_time": 1719543858,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 54871,
       "num": 442473,
       "word": "moto小折叠的大外屏有多惊艳",
@@ -15115,6 +15147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38224,
+      "num": 190517,
+      "word": "雨天老人被车撞倒路人撑起暖心伞",
+      "onboard_time": 1719545778,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 38221,
       "num": 323483,
       "word": "男生高考696班主任嘴角上扬压不住",
@@ -15137,14 +15177,6 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37618,
-      "num": 436554,
-      "word": "外卖员被积水冲走交警拉人链救回",
-      "onboard_time": 1719543858,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 36798,
