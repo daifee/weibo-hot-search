@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719573450771,
+  "endTime": 1719574474183,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -43,6 +43,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2591688,
+      "num": 2591688,
+      "word": "万茜把发尾染绿了",
+      "onboard_time": 1719570439,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2468997,
       "num": 2468997,
       "word": "腾讯今天官宣好多剧",
@@ -57,14 +65,6 @@
       "onboard_time": 1719212598,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2419397,
-      "num": 2419397,
-      "word": "万茜把发尾染绿了",
-      "onboard_time": 1719570439,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2396856,
@@ -1115,6 +1115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 967792,
+      "num": 967792,
+      "word": "高铁座被孕妇暂坐男子假装没看见",
+      "onboard_time": 1719569601,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961362,
       "num": 435195,
       "word": "张雪峰谈李雪琴高考加分争议",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1719381318,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 909928,
+      "num": 909928,
+      "word": "张小斐衣领 没把我们当外人",
+      "onboard_time": 1719570917,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 909227,
@@ -1376,14 +1392,6 @@
       "word": "男子用麻精药品迷奸多名女性被判无期",
       "onboard_time": 1719305179,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862597,
-      "num": 862597,
-      "word": "高铁座被孕妇暂坐男子假装没看见",
-      "onboard_time": 1719569601,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1633,14 +1641,6 @@
       "onboard_time": 1719547638,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767068,
-      "num": 434697,
-      "word": "张小斐衣领 没把我们当外人",
-      "onboard_time": 1719570917,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 766978,
@@ -2041,6 +2041,14 @@
       "onboard_time": 1719451517,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 678364,
+      "num": 269510,
+      "word": "王阳出席白玉兰",
+      "onboard_time": 1719571999,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 678113,
@@ -4547,14 +4555,6 @@
       "category": "科学科普,运动健身"
     },
     {
-      "raw_hot": 384965,
-      "num": 269510,
-      "word": "王阳出席白玉兰",
-      "onboard_time": 1719571999,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 383862,
       "num": 383862,
       "word": "吴谨言王星越P图告别墨雨云间",
@@ -5243,6 +5243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330756,
+      "num": 216468,
+      "word": "刘亦菲万茜佟大为同框",
+      "onboard_time": 1719573439,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329943,
       "num": 329943,
       "word": "男子高考失利离家出走8年",
@@ -5804,7 +5812,7 @@
     },
     {
       "raw_hot": 294932,
-      "num": 160473,
+      "num": 238549,
       "word": "asen把diss删了",
       "onboard_time": 1719571158,
       "rank": 22,
@@ -7411,6 +7419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "TCG零封狼队",
+      "onboard_time": 1719573977,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219354,
       "num": 219354,
       "word": "汪苏泷综艺爆曲八连唱",
@@ -8227,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201183,
+      "num": 161496,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1719573677,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201034,
       "num": 201034,
       "word": "白敬亭带着都市爱情剧杀回来了",
@@ -8739,6 +8763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193874,
+      "num": 160902,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719574217,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193847,
       "num": 193847,
       "word": "女子给狗狗脚擦药突然被亲了一下",
@@ -8809,6 +8841,14 @@
       "onboard_time": 1719231800,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191828,
+      "num": 160230,
+      "word": "奔跑吧",
+      "onboard_time": 1719573498,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 191771,
@@ -9155,6 +9195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185955,
+      "num": 157916,
+      "word": "唐嫣新剧没选择演女主",
+      "onboard_time": 1719572718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185934,
       "num": 185934,
       "word": "饭后出现4个症状可能是胆囊炎",
@@ -9355,6 +9403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "TCG第一轮全胜",
+      "onboard_time": 1719573977,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182742,
       "num": 200923,
       "word": "欧洲杯",
@@ -9505,14 +9561,6 @@
       "onboard_time": 1719085931,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179273,
-      "num": 144556,
-      "word": "唐嫣新剧没选择演女主",
-      "onboard_time": 1719572718,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 179212,
@@ -9721,6 +9769,14 @@
       "onboard_time": 1719537799,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175371,
+      "num": 157084,
+      "word": "王星越 be镜头",
+      "onboard_time": 1719573257,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 175318,
@@ -10491,6 +10547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162370,
+      "num": 143883,
+      "word": "戚薇浪姐换了11套造型",
+      "onboard_time": 1719571218,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162358,
       "num": 162358,
       "word": "高考出分后聊天6大原则",
@@ -10859,6 +10923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156978,
+      "num": 156978,
+      "word": "TCG给KPL一点K甲震撼",
+      "onboard_time": 1719574217,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156744,
       "num": 156744,
       "word": "福登暂时离开国家队",
@@ -11121,14 +11193,6 @@
       "onboard_time": 1719291261,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154172,
-      "num": 143883,
-      "word": "戚薇浪姐换了11套造型",
-      "onboard_time": 1719571218,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 154157,
@@ -11851,6 +11915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143963,
+      "num": 129904,
+      "word": "唐嫣阿玛尼高定",
+      "onboard_time": 1719572478,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143912,
       "num": 143912,
       "word": "孟美岐美式女高造型",
@@ -12371,6 +12443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136135,
+      "num": 136135,
+      "word": "真的感觉GPT在救一个人",
+      "onboard_time": 1719572839,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136073,
       "num": 136073,
       "word": "狼都怕的大缅因洗澡",
@@ -12601,14 +12681,6 @@
       "onboard_time": 1719567558,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132817,
-      "num": 128706,
-      "word": "唐嫣阿玛尼高定",
-      "onboard_time": 1719572478,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 132789,
@@ -13009,14 +13081,6 @@
       "onboard_time": 1719140178,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126825,
-      "num": 126825,
-      "word": "真的感觉GPT在救一个人",
-      "onboard_time": 1719572839,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 126687,
@@ -13547,6 +13611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "玫瑰在白玉兰绽放了",
+      "onboard_time": 1719574457,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119179,
       "num": 119179,
       "word": "巴黎奥运会女排小组赛赛程",
@@ -13593,6 +13665,14 @@
       "onboard_time": 1719067760,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118535,
+      "num": 118535,
+      "word": "王鸥白玉兰红毯造型",
+      "onboard_time": 1719574457,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118323,
@@ -13937,14 +14017,6 @@
       "onboard_time": 1719282198,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113891,
-      "num": 106288,
-      "word": "王星越 be镜头",
-      "onboard_time": 1719573257,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 113766,
@@ -14963,6 +15035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95034,
+      "num": 256154,
+      "word": "绝区零公测前瞻直播",
+      "onboard_time": 1719572418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -15084,7 +15164,7 @@
     },
     {
       "raw_hot": 88499,
-      "num": 832449,
+      "num": 910359,
       "word": "藏在大学博物馆里的必看文物",
       "onboard_time": 1719562880,
       "rank": 2,
@@ -15683,12 +15763,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 61179,
+      "num": 169843,
+      "word": "还有人不知道自己的MBTI吗",
+      "onboard_time": 1719570977,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60973,
       "num": 210355,
       "word": "医学生高铁上争分夺秒练缝合",
       "onboard_time": 1719415999,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60698,
+      "num": 275858,
+      "word": "环球时报评苏州伤人案",
+      "onboard_time": 1719572418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60650,
@@ -15705,6 +15801,14 @@
       "onboard_time": 1719357255,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60607,
+      "num": 165634,
+      "word": "18岁男生毕业旅行顺手救了个人",
+      "onboard_time": 1719574339,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 60449,
@@ -15891,6 +15995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53787,
+      "num": 434860,
+      "word": "钓友雨天3次落水辅警连捞3回",
+      "onboard_time": 1719570678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53640,
       "num": 379469,
       "word": "贵州村超少年圆梦欧洲杯",
@@ -15929,14 +16041,6 @@
       "onboard_time": 1719465499,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52888,
-      "num": 256154,
-      "word": "绝区零公测前瞻直播",
-      "onboard_time": 1719572418,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 52382,
@@ -16091,14 +16195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48090,
-      "num": 434860,
-      "word": "钓友雨天3次落水辅警连捞3回",
-      "onboard_time": 1719570678,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48089,
       "num": 51423,
       "word": "RNG夏季赛五连败",
@@ -16249,14 +16345,6 @@
       "onboard_time": 1719112818,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42427,
-      "num": 169843,
-      "word": "还有人不知道自己的MBTI吗",
-      "onboard_time": 1719570977,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 42311,
@@ -16449,14 +16537,6 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37165,
-      "num": 275858,
-      "word": "环球时报评苏州伤人案",
-      "onboard_time": 1719572418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36798,

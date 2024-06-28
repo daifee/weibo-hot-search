@@ -1,10 +1,10 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719573450771,
+  "endTime": 1719574474183,
   "band_list": [
     {
-      "raw_hot": 2419397,
-      "num": 2419397,
+      "raw_hot": 2591688,
+      "num": 2591688,
       "word": "万茜把发尾染绿了",
       "onboard_time": 1719570439,
       "rank": 3,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967792,
+      "num": 967792,
+      "word": "高铁座被孕妇暂坐男子假装没看见",
+      "onboard_time": 1719569601,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961362,
       "num": 435195,
       "word": "张雪峰谈李雪琴高考加分争议",
       "onboard_time": 1719562218,
       "rank": 11,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 909928,
+      "num": 909928,
+      "word": "张小斐衣领 没把我们当外人",
+      "onboard_time": 1719570917,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 909227,
@@ -177,14 +193,6 @@
       "onboard_time": 1719533477,
       "rank": 5,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 862597,
-      "num": 862597,
-      "word": "高铁座被孕妇暂坐男子假装没看见",
-      "onboard_time": 1719569601,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830164,
@@ -233,14 +241,6 @@
       "onboard_time": 1719547638,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767068,
-      "num": 434697,
-      "word": "张小斐衣领 没把我们当外人",
-      "onboard_time": 1719570917,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 751253,
@@ -297,6 +297,14 @@
       "onboard_time": 1719550279,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 678364,
+      "num": 269510,
+      "word": "王阳出席白玉兰",
+      "onboard_time": 1719571999,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 673072,
@@ -667,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384965,
-      "num": 269510,
-      "word": "王阳出席白玉兰",
-      "onboard_time": 1719571999,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382053,
       "num": 382053,
       "word": "张予曦卡位",
@@ -787,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 330756,
+      "num": 216468,
+      "word": "刘亦菲万茜佟大为同框",
+      "onboard_time": 1719573439,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329569,
       "num": 329569,
       "word": "沈翊好疯",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 294932,
-      "num": 160473,
+      "num": 238549,
       "word": "asen把diss删了",
       "onboard_time": 1719571158,
       "rank": 22,
@@ -1091,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "TCG零封狼队",
+      "onboard_time": 1719573977,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214878,
       "num": 214878,
       "word": "新华社发了杨紫",
@@ -1187,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201183,
+      "num": 161496,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1719573677,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198602,
       "num": 198602,
       "word": "王星越梁永棋互不发照片",
@@ -1219,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193874,
+      "num": 160902,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719574217,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193847,
       "num": 193847,
       "word": "女子给狗狗脚擦药突然被亲了一下",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1719561377,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191828,
+      "num": 160230,
+      "word": "奔跑吧",
+      "onboard_time": 1719573498,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 191760,
@@ -1275,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185955,
+      "num": 157916,
+      "word": "唐嫣新剧没选择演女主",
+      "onboard_time": 1719572718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184527,
       "num": 184527,
       "word": "檀健次猎罪图鉴杀青照",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1719560418,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "TCG第一轮全胜",
+      "onboard_time": 1719573977,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 182083,
@@ -1347,14 +1403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 179273,
-      "num": 144556,
-      "word": "唐嫣新剧没选择演女主",
-      "onboard_time": 1719572718,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178894,
       "num": 178894,
       "word": "白玉兰",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1719537799,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175371,
+      "num": 157084,
+      "word": "王星越 be镜头",
+      "onboard_time": 1719573257,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 174789,
@@ -1475,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162370,
+      "num": 143883,
+      "word": "戚薇浪姐换了11套造型",
+      "onboard_time": 1719571218,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160325,
       "num": 160325,
       "word": "农村集体经济组织法通过",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1719533959,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156978,
+      "num": 156978,
+      "word": "TCG给KPL一点K甲震撼",
+      "onboard_time": 1719574217,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 156373,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1719555799,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154172,
-      "num": 143883,
-      "word": "戚薇浪姐换了11套造型",
-      "onboard_time": 1719571218,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 153331,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1719493400,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143963,
+      "num": 129904,
+      "word": "唐嫣阿玛尼高定",
+      "onboard_time": 1719572478,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 143695,
@@ -1763,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136135,
+      "num": 136135,
+      "word": "真的感觉GPT在救一个人",
+      "onboard_time": 1719572839,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133370,
       "num": 133370,
       "word": "张凌赫裴文宣嘴欠但不难哄",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1719567558,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132817,
-      "num": 128706,
-      "word": "唐嫣阿玛尼高定",
-      "onboard_time": 1719572478,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 132519,
@@ -1841,14 +1913,6 @@
       "onboard_time": 1719566359,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 126825,
-      "num": 126825,
-      "word": "真的感觉GPT在救一个人",
-      "onboard_time": 1719572839,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 126622,
@@ -1955,11 +2019,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "玫瑰在白玉兰绽放了",
+      "onboard_time": 1719574457,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119095,
       "num": 119095,
       "word": "赵今麦露背挂脖裙",
       "onboard_time": 1719565878,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118535,
+      "num": 118535,
+      "word": "王鸥白玉兰红毯造型",
+      "onboard_time": 1719574457,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2001,14 +2081,6 @@
       "onboard_time": 1719483799,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113891,
-      "num": 106288,
-      "word": "王星越 be镜头",
-      "onboard_time": 1719573257,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 110768,
@@ -2179,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95034,
+      "num": 256154,
+      "word": "绝区零公测前瞻直播",
+      "onboard_time": 1719572418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93180,
       "num": 93180,
       "word": "唐嫣白玉兰提名感言",
@@ -2196,7 +2276,7 @@
     },
     {
       "raw_hot": 88499,
-      "num": 832449,
+      "num": 910359,
       "word": "藏在大学博物馆里的必看文物",
       "onboard_time": 1719562880,
       "rank": 2,
@@ -2323,6 +2403,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61179,
+      "num": 169843,
+      "word": "还有人不知道自己的MBTI吗",
+      "onboard_time": 1719570977,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 60698,
+      "num": 275858,
+      "word": "环球时报评苏州伤人案",
+      "onboard_time": 1719572418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60607,
+      "num": 165634,
+      "word": "18岁男生毕业旅行顺手救了个人",
+      "onboard_time": 1719574339,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
@@ -2347,20 +2451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53787,
+      "num": 434860,
+      "word": "钓友雨天3次落水辅警连捞3回",
+      "onboard_time": 1719570678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53561,
       "num": 53561,
       "word": "王星越少喝点吧",
       "onboard_time": 1719507494,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52888,
-      "num": 256154,
-      "word": "绝区零公测前瞻直播",
-      "onboard_time": 1719572418,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 52382,
@@ -2395,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48090,
-      "num": 434860,
-      "word": "钓友雨天3次落水辅警连捞3回",
-      "onboard_time": 1719570678,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45810,
       "num": 50319,
       "word": "mercy 抽象",
@@ -2427,14 +2523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 42427,
-      "num": 169843,
-      "word": "还有人不知道自己的MBTI吗",
-      "onboard_time": 1719570977,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42311,
       "num": 1216537,
       "word": "北疆网络普法行",
@@ -2457,14 +2545,6 @@
       "onboard_time": 1719529334,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 37165,
-      "num": 275858,
-      "word": "环球时报评苏州伤人案",
-      "onboard_time": 1719572418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34996,

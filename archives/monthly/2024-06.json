@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719573450771,
+  "endTime": 1719574474183,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2591688,
+      "num": 2591688,
+      "word": "万茜把发尾染绿了",
+      "onboard_time": 1719570439,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2554433,
       "num": 2554433,
       "word": "鞠婧祎 到期不续",
@@ -481,14 +489,6 @@
       "onboard_time": 1718798479,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2419397,
-      "num": 2419397,
-      "word": "万茜把发尾染绿了",
-      "onboard_time": 1719570439,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2406389,
@@ -5467,6 +5467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 967792,
+      "num": 967792,
+      "word": "高铁座被孕妇暂坐男子假装没看见",
+      "onboard_time": 1719569601,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 967696,
       "num": 967696,
       "word": "陈妍希周柯宇新剧开机路透",
@@ -6059,6 +6067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 909928,
+      "num": 909928,
+      "word": "张小斐衣领 没把我们当外人",
+      "onboard_time": 1719570917,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -6569,14 +6585,6 @@
       "onboard_time": 1717420578,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 862597,
-      "num": 862597,
-      "word": "高铁座被孕妇暂坐男子假装没看见",
-      "onboard_time": 1719569601,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862081,
@@ -7817,14 +7825,6 @@
       "onboard_time": 1717427599,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 767068,
-      "num": 434697,
-      "word": "张小斐衣领 没把我们当外人",
-      "onboard_time": 1719570917,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 766978,
@@ -9753,6 +9753,14 @@
       "onboard_time": 1717979236,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 678364,
+      "num": 269510,
+      "word": "王阳出席白玉兰",
+      "onboard_time": 1719571999,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 678113,
@@ -21179,14 +21187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384965,
-      "num": 269510,
-      "word": "王阳出席白玉兰",
-      "onboard_time": 1719571999,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 384912,
       "num": 202953,
       "word": "墨雨云间 渣男",
@@ -24699,6 +24699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330756,
+      "num": 216468,
+      "word": "刘亦菲万茜佟大为同框",
+      "onboard_time": 1719573439,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330720,
       "num": 330720,
       "word": "四个男女主凑不出一副爹娘",
@@ -27324,7 +27332,7 @@
     },
     {
       "raw_hot": 294932,
-      "num": 160473,
+      "num": 238549,
       "word": "asen把diss删了",
       "onboard_time": 1719571158,
       "rank": 22,
@@ -35291,6 +35299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "TCG零封狼队",
+      "onboard_time": 1719573977,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219375,
       "num": 219375,
       "word": "你好星期六全员躲猫猫",
@@ -41619,6 +41635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193874,
+      "num": 160902,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719574217,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193860,
       "num": 193860,
       "word": "河南南阳一小区恶狗咬伤7人",
@@ -43827,6 +43851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185955,
+      "num": 157916,
+      "word": "唐嫣新剧没选择演女主",
+      "onboard_time": 1719572718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185934,
       "num": 185934,
       "word": "饭后出现4个症状可能是胆囊炎",
@@ -44643,6 +44675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "TCG第一轮全胜",
+      "onboard_time": 1719573977,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182749,
       "num": 182749,
       "word": "AI高考测试最高分303",
@@ -45401,14 +45441,6 @@
       "onboard_time": 1717861217,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 179273,
-      "num": 144556,
-      "word": "唐嫣新剧没选择演女主",
-      "onboard_time": 1719572718,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 179266,
@@ -46441,6 +46473,14 @@
       "onboard_time": 1718787619,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 175371,
+      "num": 157084,
+      "word": "王星越 be镜头",
+      "onboard_time": 1719573257,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 175323,
@@ -49979,6 +50019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162370,
+      "num": 143883,
+      "word": "戚薇浪姐换了11套造型",
+      "onboard_time": 1719571218,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162358,
       "num": 162358,
       "word": "高考出分后聊天6大原则",
@@ -51715,6 +51763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156978,
+      "num": 156978,
+      "word": "TCG给KPL一点K甲震撼",
+      "onboard_time": 1719574217,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156953,
       "num": 156953,
       "word": "证监会抓住一只蚊子",
@@ -52729,14 +52785,6 @@
       "onboard_time": 1718803100,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154172,
-      "num": 143883,
-      "word": "戚薇浪姐换了11套造型",
-      "onboard_time": 1719571218,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 154162,
@@ -56011,6 +56059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143963,
+      "num": 129904,
+      "word": "唐嫣阿玛尼高定",
+      "onboard_time": 1719572478,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143956,
       "num": 445414,
       "word": "大学校长称文科会越来越更重要",
@@ -58363,6 +58419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136135,
+      "num": 136135,
+      "word": "真的感觉GPT在救一个人",
+      "onboard_time": 1719572839,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136098,
       "num": 253244,
       "word": "科学家称可能存在一个反宇宙",
@@ -59448,14 +59512,6 @@
       "word": "庆余年2CP投票",
       "onboard_time": 1717391181,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132817,
-      "num": 128706,
-      "word": "唐嫣阿玛尼高定",
-      "onboard_time": 1719572478,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -61625,14 +61681,6 @@
       "onboard_time": 1718270240,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126825,
-      "num": 126825,
-      "word": "真的感觉GPT在救一个人",
-      "onboard_time": 1719572839,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 126786,
@@ -64171,6 +64219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "玫瑰在白玉兰绽放了",
+      "onboard_time": 1719574457,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119280,
       "num": 119280,
       "word": "最好的祛魅方式是拥有",
@@ -64409,6 +64465,14 @@
       "onboard_time": 1719411499,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118535,
+      "num": 118535,
+      "word": "王鸥白玉兰红毯造型",
+      "onboard_time": 1719574457,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118531,
@@ -65857,14 +65921,6 @@
       "onboard_time": 1718415317,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 113891,
-      "num": 106288,
-      "word": "王星越 be镜头",
-      "onboard_time": 1719573257,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 113826,
@@ -70427,6 +70483,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 95034,
+      "num": 256154,
+      "word": "绝区零公测前瞻直播",
+      "onboard_time": 1719572418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94733,
       "num": 547976,
       "word": "一句话表白老爸",
@@ -71188,7 +71252,7 @@
     },
     {
       "raw_hot": 88499,
-      "num": 832449,
+      "num": 910359,
       "word": "藏在大学博物馆里的必看文物",
       "onboard_time": 1719562880,
       "rank": 2,
@@ -74507,6 +74571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61179,
+      "num": 169843,
+      "word": "还有人不知道自己的MBTI吗",
+      "onboard_time": 1719570977,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61051,
       "num": 328443,
       "word": "高考生许愿想要薛之谦演唱会门票",
@@ -74595,6 +74667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60698,
+      "num": 275858,
+      "word": "环球时报评苏州伤人案",
+      "onboard_time": 1719572418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60693,
       "num": 174329,
       "word": "省的是钱攒的是快乐",
@@ -74625,6 +74705,14 @@
       "onboard_time": 1719357255,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60607,
+      "num": 165634,
+      "word": "18岁男生毕业旅行顺手救了个人",
+      "onboard_time": 1719574339,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 60545,
@@ -75747,6 +75835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53787,
+      "num": 434860,
+      "word": "钓友雨天3次落水辅警连捞3回",
+      "onboard_time": 1719570678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53640,
       "num": 379469,
       "word": "贵州村超少年圆梦欧洲杯",
@@ -75873,14 +75969,6 @@
       "onboard_time": 1719055938,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52888,
-      "num": 256154,
-      "word": "绝区零公测前瞻直播",
-      "onboard_time": 1719572418,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 52873,
@@ -76617,14 +76705,6 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48090,
-      "num": 434860,
-      "word": "钓友雨天3次落水辅警连捞3回",
-      "onboard_time": 1719570678,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48089,
@@ -77417,14 +77497,6 @@
       "onboard_time": 1718542277,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42427,
-      "num": 169843,
-      "word": "还有人不知道自己的MBTI吗",
-      "onboard_time": 1719570977,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 42425,
@@ -78368,14 +78440,6 @@
       "word": "我想你了爸爸",
       "onboard_time": 1718493133,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37165,
-      "num": 275858,
-      "word": "环球时报评苏州伤人案",
-      "onboard_time": 1719572418,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
