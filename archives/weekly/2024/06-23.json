@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719567281289,
+  "endTime": 1719570060740,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -1227,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 900949,
+      "num": 900949,
+      "word": "唐嫣出图",
+      "onboard_time": 1719567019,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 900404,
       "num": 900404,
       "word": "洪知秀将在联合国发表演讲",
@@ -1443,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830164,
+      "num": 830164,
+      "word": "张杰三个女儿三个风格",
+      "onboard_time": 1719567259,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829137,
       "num": 829137,
       "word": "歌手官宣谭维维",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1719372919,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 798641,
+      "num": 798641,
+      "word": "员工儿子高考718分公司奖10万",
+      "onboard_time": 1719565638,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 796825,
@@ -3057,6 +3081,14 @@
       "onboard_time": 1719128597,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516623,
+      "num": 516623,
+      "word": "王星越靠一部剧涨粉130万",
+      "onboard_time": 1719567618,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 516619,
@@ -5051,14 +5083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 339500,
-      "num": 339500,
-      "word": "唐嫣出图",
-      "onboard_time": 1719567019,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339008,
       "num": 339008,
       "word": "中国男篮不敌澳门黑熊",
@@ -5131,6 +5155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 331859,
+      "num": 331859,
+      "word": "白玉兰红毯直播",
+      "onboard_time": 1719569899,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331765,
       "num": 315443,
       "word": "金智媛台北活动",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1719412219,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329569,
+      "num": 329569,
+      "word": "沈翊好疯",
+      "onboard_time": 1719566658,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 329562,
@@ -5419,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314676,
+      "num": 314676,
+      "word": "于适 白玉兰主持人",
+      "onboard_time": 1719567317,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313081,
       "num": 313081,
       "word": "陈丽君 东风破",
@@ -5481,14 +5529,6 @@
       "onboard_time": 1719197958,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309271,
-      "num": 379565,
-      "word": "员工儿子高考718分公司奖10万",
-      "onboard_time": 1719565638,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 308945,
@@ -5913,6 +5953,14 @@
       "onboard_time": 1719367756,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283393,
+      "num": 233368,
+      "word": "陈丽君陈昊宇许仙白蛇路透",
+      "onboard_time": 1719569179,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 283352,
@@ -6443,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249682,
+      "num": 227809,
+      "word": "胡歌白玉兰路透",
+      "onboard_time": 1719567918,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -6617,6 +6673,14 @@
       "onboard_time": 1719397338,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242404,
+      "num": 242404,
+      "word": "高铁座被孕妇暂坐男子假装没看见",
+      "onboard_time": 1719569601,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241952,
@@ -7203,6 +7267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221969,
+      "num": 221969,
+      "word": "狼队对战TCG",
+      "onboard_time": 1719568818,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221805,
       "num": 221805,
       "word": "韩雪成团",
@@ -7217,6 +7289,14 @@
       "onboard_time": 1719498859,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221515,
+      "num": 221515,
+      "word": "喜人奇妙夜 三喜",
+      "onboard_time": 1719568759,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 221193,
@@ -7393,14 +7473,6 @@
       "onboard_time": 1719408558,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215475,
-      "num": 215475,
-      "word": "张杰三个女儿三个风格",
-      "onboard_time": 1719567259,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 215247,
@@ -8241,14 +8313,6 @@
       "onboard_time": 1719224660,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199428,
-      "num": 199428,
-      "word": "沈翊好疯",
-      "onboard_time": 1719566658,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 199268,
@@ -9307,6 +9371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181241,
+      "num": 181241,
+      "word": "汪苏泷听了王星越开嗓后的反应",
+      "onboard_time": 1719568698,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180956,
       "num": 180956,
       "word": "毕雯珺女装只有0次和无数次",
@@ -9553,6 +9625,14 @@
       "onboard_time": 1719389539,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176483,
+      "num": 176483,
+      "word": "喜羊羊灰太狼爆改铠甲勇士",
+      "onboard_time": 1719569478,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 176232,
@@ -11739,6 +11819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143249,
+      "num": 143249,
+      "word": "白鹿宋雨琦给张真源打call",
+      "onboard_time": 1719569297,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142786,
       "num": 142786,
       "word": "狗狗好像给我生了个孩子",
@@ -11955,6 +12043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140119,
+      "num": 127068,
+      "word": "徐志胜读书期间存款10万",
+      "onboard_time": 1719569777,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139543,
       "num": 139543,
       "word": "赛力斯",
@@ -12161,6 +12257,14 @@
       "onboard_time": 1719308177,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136598,
+      "num": 126645,
+      "word": "奔跑吧 小卡",
+      "onboard_time": 1719569601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136588,
@@ -12411,12 +12515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132972,
+      "num": 142593,
+      "word": "东方甄选粉丝量暴跌30万",
+      "onboard_time": 1719567558,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132789,
       "num": 132789,
       "word": "赵露思摸到什么破案了",
       "onboard_time": 1719448396,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132519,
+      "num": 132519,
+      "word": "5岁男童开玩笑冲邻居喊儿子被殴打",
+      "onboard_time": 1719566719,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132429,
@@ -12739,6 +12859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "总感觉累的人最好别做美甲",
+      "onboard_time": 1719566359,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127326,
       "num": 127326,
       "word": "罗云熙丞磊随地大小打",
@@ -12825,6 +12953,14 @@
       "onboard_time": 1719494539,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126296,
+      "num": 126296,
+      "word": "巴黎奥运会中国代表团名单",
+      "onboard_time": 1719566840,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126269,
@@ -13379,14 +13515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117948,
-      "num": 117948,
-      "word": "总感觉累的人最好别做美甲",
-      "onboard_time": 1719566359,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 117941,
       "num": 117941,
       "word": "余华谈人生不是轨道而是旷野",
@@ -13563,6 +13691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115624,
+      "num": 115078,
+      "word": "农村集体经济组织法通过",
+      "onboard_time": 1719569839,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115509,
       "num": 249181,
       "word": "男童坠入极窄深井矮小症村民挺身而出",
@@ -13577,6 +13713,14 @@
       "onboard_time": 1719394637,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115356,
+      "num": 115356,
+      "word": "BW门票",
+      "onboard_time": 1719568639,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 115163,
@@ -14059,14 +14203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108751,
-      "num": 108751,
-      "word": "5岁男童开玩笑冲邻居喊儿子被殴打",
-      "onboard_time": 1719566719,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108679,
       "num": 108679,
       "word": "一线城市全面松绑楼市调控",
@@ -14107,12 +14243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108214,
+      "num": 108214,
+      "word": "东方甄选重新开播未见顿顿",
+      "onboard_time": 1719569478,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107777,
       "num": 193686,
       "word": "防晒衣究竟是不是智商税",
       "onboard_time": 1719065779,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107454,
+      "num": 107454,
+      "word": "温网2024",
+      "onboard_time": 1719569238,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107426,
@@ -14409,14 +14561,6 @@
       "onboard_time": 1719131417,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100636,
-      "num": 100636,
-      "word": "巴黎奥运会中国代表团名单",
-      "onboard_time": 1719566840,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 100303,
@@ -14812,7 +14956,7 @@
     },
     {
       "raw_hot": 88499,
-      "num": 735170,
+      "num": 832449,
       "word": "藏在大学博物馆里的必看文物",
       "onboard_time": 1719562880,
       "rank": 2,
@@ -15049,6 +15193,14 @@
       "onboard_time": 1719385696,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 77819,
+      "num": 344783,
+      "word": "官方通报企业用福寿螺冒充田螺肉销售",
+      "onboard_time": 1719568818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76869,
@@ -16921,6 +17073,14 @@
       "onboard_time": 1719091091,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15600,
+      "num": 123323,
+      "word": "有哪些让你记忆深刻的国货品牌",
+      "onboard_time": 1719569357,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 15538,
