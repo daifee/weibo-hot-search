@@ -1,0 +1,410 @@
+{
+  "runTime": 1719588018038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2758721,
+        "num": 2758721,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2327817,
+        "num": 2327817,
+        "word": "凡希亚吃了几个邓紫棋",
+        "onboard_time": 1719581122,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77601,
+        "num": 2124123,
+        "word": "中国空间站舷窗大片上新",
+        "onboard_time": 1719581184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1930009,
+        "num": 1930009,
+        "word": "胡歌二封白玉兰视帝",
+        "onboard_time": 1719581723,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1873965,
+        "num": 1873965,
+        "word": "谭维维给我听爽了",
+        "onboard_time": 1719583228,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540299,
+        "num": 1030847,
+        "word": "全球变暖致珠峰200多具遗体显露",
+        "onboard_time": 1719580523,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904104,
+        "num": 904104,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 408295,
+        "num": 408295,
+        "word": "房东上门催租发现家里被卖空",
+        "onboard_time": 1719582323,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368357,
+        "num": 368357,
+        "word": "带状疱疹",
+        "onboard_time": 1719584004,
+        "rank": 8,
+        "category": "健康医疗,综艺"
+      },
+      {
+        "raw_hot": 297958,
+        "num": 297958,
+        "word": "中国奥委会确认王楚钦樊振东单打资格",
+        "onboard_time": 1719579139,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1584328,
+        "num": 297744,
+        "word": "85花 飞升失败",
+        "onboard_time": 1719587422,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1537672,
+        "num": 291612,
+        "word": "周迅二封白玉兰视后",
+        "onboard_time": 1719581662,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1453757,
+        "num": 290816,
+        "word": "歌手排名",
+        "onboard_time": 1719583585,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1393643,
+        "num": 284817,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1719582565,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67853,
+        "num": 284091,
+        "word": "苍山洱海同框遇见红霞满天",
+        "onboard_time": 1719587782,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 395200,
+        "num": 279500,
+        "word": "广西一小区保安持刀杀害2人",
+        "onboard_time": 1719586042,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 317310,
+        "num": 276096,
+        "word": "柬埔寨拥有千套房房东枪杀租客",
+        "onboard_time": 1719581902,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273941,
+        "num": 273941,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 17,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 209261,
+        "num": 272918,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189505,
+        "num": 272873,
+        "word": "举报人回应被胖东来奖励10万",
+        "onboard_time": 1719587242,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50913,
+        "num": 271014,
+        "word": "凡希亚一句好喝拿捏中文",
+        "onboard_time": 1719584364,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1116513,
+        "num": 270253,
+        "word": "谭维维第一",
+        "onboard_time": 1719586103,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 989215,
+        "num": 268633,
+        "word": "万茜把发尾染绿了",
+        "onboard_time": 1719570439,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 848434,
+        "num": 268508,
+        "word": "黄宣竟然最后一名",
+        "onboard_time": 1719585862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757353,
+        "num": 267235,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357119,
+        "num": 265607,
+        "word": "殷世航傲娇美官宣恋情",
+        "onboard_time": 1719582505,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354617,
+        "num": 264643,
+        "word": "花儿与少年",
+        "onboard_time": 1719586222,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342466,
+        "num": 264120,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 337649,
+        "num": 263321,
+        "word": "杨紫火炬手",
+        "onboard_time": 1719582085,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52978,
+        "num": 262020,
+        "word": "小个子英雄赵成龙拟认定见义勇为",
+        "onboard_time": 1719587002,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25220,
+        "num": 260177,
+        "word": "绝区零唱出我的精神状况",
+        "onboard_time": 1719585084,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54566,
+        "num": 259791,
+        "word": "绝区零你好能藏",
+        "onboard_time": 1719584663,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259077,
+        "num": 259077,
+        "word": "矿泉水湿敷半个月后",
+        "onboard_time": 1719579441,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 248267,
+        "num": 248267,
+        "word": "十个勤天染发组",
+        "onboard_time": 1719586402,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177074,
+        "num": 236204,
+        "word": "中国奥委会确认孙颖莎陈梦单打资格",
+        "onboard_time": 1719580222,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234577,
+        "num": 234577,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1719573677,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229220,
+        "num": 229220,
+        "word": "一个久坐的屁股有多丑",
+        "onboard_time": 1719581425,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195993,
+        "num": 195993,
+        "word": "李昊粉发",
+        "onboard_time": 1719587542,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185031,
+        "num": 185031,
+        "word": "为什么空调开26度时有臭味",
+        "onboard_time": 1719587481,
+        "rank": 38,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 182951,
+        "word": "王鹤棣工作室认不出王鹤棣",
+        "onboard_time": 1719577578,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170170,
+        "num": 170170,
+        "word": "成绩上不了五院四系还报法学吗",
+        "onboard_time": 1719587061,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154306,
+        "num": 154306,
+        "word": "刘宇宁直播",
+        "onboard_time": 1719587721,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153742,
+        "num": 153742,
+        "word": "员工儿子高考718分公司奖10万",
+        "onboard_time": 1719565638,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "白敬亭的耳骨夹",
+        "onboard_time": 1719581004,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146169,
+        "num": 146169,
+        "word": "双箭回收的画面太不真实了",
+        "onboard_time": 1719587661,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21905,
+        "num": 142584,
+        "word": "停止内耗的方式是立刻运动",
+        "onboard_time": 1719587242,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 142162,
+        "word": "宋亚轩刘耀文去看陶喆演唱会",
+        "onboard_time": 1719584725,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132615,
+        "num": 132615,
+        "word": "花百万怒骂小炸串",
+        "onboard_time": 1719578059,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129151,
+        "num": 129151,
+        "word": "如何打发在高铁的7小时",
+        "onboard_time": 1719587542,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "女子称亡夫13万存款消失账户被注销",
+        "onboard_time": 1719587300,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同秘鲁总统会谈#"
+    }
+  }
+}

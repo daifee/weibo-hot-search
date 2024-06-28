@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719585311610,
+  "endTime": 1719588018038,
   "band_list": [
     {
       "raw_hot": 6134722,
@@ -139,6 +139,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1584328,
+      "num": 297744,
+      "word": "85花 飞升失败",
+      "onboard_time": 1719587422,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1521368,
       "num": 1521368,
       "word": "掼蛋",
@@ -169,6 +177,14 @@
       "onboard_time": 1719577578,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1393643,
+      "num": 961760,
+      "word": "白玉兰获奖名单",
+      "onboard_time": 1719582565,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1329644,
@@ -217,6 +233,14 @@
       "onboard_time": 1719505038,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1116513,
+      "num": 270253,
+      "word": "谭维维第一",
+      "onboard_time": 1719586103,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1093964,
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 961760,
-      "num": 961760,
-      "word": "白玉兰获奖名单",
-      "onboard_time": 1719582565,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 961362,
       "num": 435195,
       "word": "张雪峰谈李雪琴高考加分争议",
@@ -331,6 +347,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 904104,
+      "num": 904104,
+      "word": "贵州文旅删除所有东方甄选相关视频",
+      "onboard_time": 1719587061,
+      "rank": 6,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 900949,
       "num": 900949,
       "word": "唐嫣出图",
@@ -359,6 +383,14 @@
       "num": 401782,
       "word": "凡希亚好牛",
       "onboard_time": 1719581122,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 848434,
+      "num": 268508,
+      "word": "黄宣竟然最后一名",
+      "onboard_time": 1719585862,
       "rank": 23,
       "category": "综艺"
     },
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540299,
+      "num": 2128655,
+      "word": "全球变暖致珠峰200多具遗体显露",
+      "onboard_time": 1719580523,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535392,
       "num": 535392,
       "word": "苗苗张予曦没成团",
@@ -793,14 +833,6 @@
       "onboard_time": 1719531917,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 474209,
-      "num": 2128655,
-      "word": "全球变暖致珠峰200多具遗体显露",
-      "onboard_time": 1719580523,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470497,
@@ -947,6 +979,14 @@
       "category": "国外时政,艺人"
     },
     {
+      "raw_hot": 408295,
+      "num": 923279,
+      "word": "房东上门催租发现家里被卖空",
+      "onboard_time": 1719582323,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407803,
       "num": 240455,
       "word": "李尚福被开除党籍",
@@ -969,6 +1009,14 @@
       "onboard_time": 1719493157,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 395200,
+      "num": 279500,
+      "word": "广西一小区保安持刀杀害2人",
+      "onboard_time": 1719586042,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 382053,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1719580703,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354617,
+      "num": 264643,
+      "word": "花儿与少年",
+      "onboard_time": 1719586222,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 352418,
@@ -1163,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317310,
+      "num": 795643,
+      "word": "柬埔寨拥有千套房房东枪杀租客",
+      "onboard_time": 1719581902,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316017,
       "num": 316017,
       "word": "偶遇杜江一家遛珍珠",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1719488178,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 303362,
-      "num": 923279,
-      "word": "房东上门催租发现家里被卖空",
-      "onboard_time": 1719582323,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298810,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1719567918,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248267,
+      "num": 248267,
+      "word": "十个勤天染发组",
+      "onboard_time": 1719586402,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 247124,
@@ -1763,12 +1827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195621,
-      "num": 795643,
-      "word": "柬埔寨拥有千套房房东枪杀租客",
-      "onboard_time": 1719581902,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 195993,
+      "num": 195993,
+      "word": "李昊粉发",
+      "onboard_time": 1719587542,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195395,
@@ -1843,6 +1907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189505,
+      "num": 272873,
+      "word": "举报人回应被胖东来奖励10万",
+      "onboard_time": 1719587242,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188674,
       "num": 188674,
       "word": "高考后发现了女儿的隐藏文件",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1719572718,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185031,
+      "num": 185031,
+      "word": "为什么空调开26度时有臭味",
+      "onboard_time": 1719587481,
+      "rank": 38,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 184527,
@@ -2051,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170170,
+      "num": 170170,
+      "word": "成绩上不了五院四系还报法学吗",
+      "onboard_time": 1719587061,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169172,
       "num": 169172,
       "word": "云农招收全球第一届咖啡工程本科生",
@@ -2203,6 +2291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154306,
+      "num": 154306,
+      "word": "刘宇宁直播",
+      "onboard_time": 1719587721,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154267,
       "num": 154267,
       "word": "melo",
@@ -2305,6 +2401,14 @@
       "onboard_time": 1719558917,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146169,
+      "num": 146169,
+      "word": "双箭回收的画面太不真实了",
+      "onboard_time": 1719587661,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 144277,
@@ -2499,6 +2603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 129151,
+      "num": 129151,
+      "word": "如何打发在高铁的7小时",
+      "onboard_time": 1719587542,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127974,
       "num": 370218,
       "word": "管培生是大饼还是大坑",
@@ -2521,6 +2633,14 @@
       "onboard_time": 1719566359,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "女子称亡夫13万存款消失账户被注销",
+      "onboard_time": 1719587300,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126622,
@@ -3051,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67853,
+      "num": 284091,
+      "word": "苍山洱海同框遇见红霞满天",
+      "onboard_time": 1719587782,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66386,
       "num": 87592,
       "word": "建立人际关系的五个步骤",
@@ -3107,6 +3235,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 54566,
+      "num": 269798,
+      "word": "绝区零你好能藏",
+      "onboard_time": 1719584663,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53895,
       "num": 245777,
       "word": "欧洲杯赌球赔率暗藏玄机",
@@ -3131,12 +3267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53021,
-      "num": 269798,
-      "word": "绝区零你好能藏",
-      "onboard_time": 1719584663,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 52978,
+      "num": 262020,
+      "word": "小个子英雄赵成龙拟认定见义勇为",
+      "onboard_time": 1719587002,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52382,
@@ -3145,6 +3281,14 @@
       "onboard_time": 1719545778,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 50913,
+      "num": 276533,
+      "word": "凡希亚一句好喝拿捏中文",
+      "onboard_time": 1719584364,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 50420,
@@ -3291,12 +3435,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 25220,
+      "num": 260177,
+      "word": "绝区零唱出我的精神状况",
+      "onboard_time": 1719585084,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25081,
       "num": 187323,
       "word": "如果没有胡友平或有更多人受伤",
       "onboard_time": 1719556756,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21905,
+      "num": 142584,
+      "word": "停止内耗的方式是立刻运动",
+      "onboard_time": 1719587242,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 21595,
@@ -3323,14 +3483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19952,
-      "num": 276533,
-      "word": "凡希亚一句好喝拿捏中文",
-      "onboard_time": 1719584364,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17911,
       "num": 45142,
       "word": "梦想家园",
@@ -3353,14 +3505,6 @@
       "onboard_time": 1719550459,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16506,
-      "num": 217195,
-      "word": "绝区零唱出我的精神状况",
-      "onboard_time": 1719585084,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 13420,
