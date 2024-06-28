@@ -1,0 +1,410 @@
+{
+  "runTime": 1719563828948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314715,
+        "num": 1314715,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 0,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 1093934,
+        "num": 1093934,
+        "word": "黄子韬直播道歉",
+        "onboard_time": 1719561377,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40688,
+        "num": 703292,
+        "word": "藏在大学博物馆里的必看文物",
+        "onboard_time": 1719562880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647354,
+        "num": 647354,
+        "word": "驻日美军诱拐强暴日本少女",
+        "onboard_time": 1719553219,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636372,
+        "num": 636372,
+        "word": "WPS崩了",
+        "onboard_time": 1719563598,
+        "rank": 4,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 559259,
+        "num": 559259,
+        "word": "外交部回应胡友平见义勇为不幸离世",
+        "onboard_time": 1719562038,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 538851,
+        "num": 538851,
+        "word": "四川地震",
+        "onboard_time": 1719556098,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508293,
+        "num": 508293,
+        "word": "有人买4份餐领走胖东来4000元",
+        "onboard_time": 1719556217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495456,
+        "num": 495456,
+        "word": "猎罪图鉴",
+        "onboard_time": 1719559457,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436924,
+        "num": 436924,
+        "word": "我和高圆圆点外卖区别",
+        "onboard_time": 1719557958,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 961362,
+        "num": 435195,
+        "word": "张雪峰谈李雪琴高考加分争议",
+        "onboard_time": 1719562218,
+        "rank": 10,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 750442,
+        "num": 434239,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 432397,
+        "num": 432397,
+        "word": "外交部哀悼胡友平",
+        "onboard_time": 1719562038,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332610,
+        "num": 332610,
+        "word": "苗苗 意难平",
+        "onboard_time": 1719562398,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316892,
+        "num": 316892,
+        "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
+        "onboard_time": 1719557239,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303155,
+        "num": 303155,
+        "word": "王星越把王鹤棣衬托得很稳重",
+        "onboard_time": 1719561258,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290047,
+        "num": 290047,
+        "word": "女子拔牙脸肿6天被误以为遭家暴",
+        "onboard_time": 1719554897,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275206,
+        "num": 275206,
+        "word": "黄子韬再回应与小马丁事件",
+        "onboard_time": 1719560898,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261286,
+        "num": 261286,
+        "word": "李梦回应负面评价",
+        "onboard_time": 1719558737,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 214351,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072915,
+        "num": 213238,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 244452,
+        "num": 210040,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227022,
+        "num": 209066,
+        "word": "王者荣耀更新之后不会玩了",
+        "onboard_time": 1719558498,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41021,
+        "num": 206074,
+        "word": "外卖小哥们等餐间隙接力帮店家带娃",
+        "onboard_time": 1719563658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 205477,
+        "word": "奔跑吧今晚男生女生向前冲",
+        "onboard_time": 1719558019,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195180,
+        "num": 195180,
+        "word": "人民日报评胡友平见义勇为",
+        "onboard_time": 1719556879,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192726,
+        "num": 192726,
+        "word": "韩国首尔第二密阳集体性侵案",
+        "onboard_time": 1719561377,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192349,
+        "num": 192349,
+        "word": "Digi活死人Beef大战",
+        "onboard_time": 1719563178,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183107,
+        "num": 183107,
+        "word": "花50块套了一只小猫回家",
+        "onboard_time": 1719560418,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 203159,
+        "num": 164032,
+        "word": "玖月晞将提起上诉",
+        "onboard_time": 1719563359,
+        "rank": 30,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 32973,
+        "num": 163884,
+        "word": "荷花一开夏天氛围感就来了",
+        "onboard_time": 1719562158,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 163776,
+        "num": 163776,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 160674,
+        "num": 160674,
+        "word": "歌手2024冲榜歌手露西娅",
+        "onboard_time": 1719555138,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 155438,
+        "word": "男孩因一个标点痛失90分哭的声情并茂",
+        "onboard_time": 1719561017,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151470,
+        "num": 151470,
+        "word": "苹果客服回应iPhone13鼓包",
+        "onboard_time": 1719561798,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149740,
+        "num": 149740,
+        "word": "和死对头猫吵架后同居了",
+        "onboard_time": 1719562158,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141621,
+        "num": 141621,
+        "word": "胡先煦 已红温求放过",
+        "onboard_time": 1719561258,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139611,
+        "num": 139611,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138925,
+        "num": 138925,
+        "word": "会缩短手机寿命的使用习惯",
+        "onboard_time": 1719561439,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 138887,
+        "word": "Asen diss",
+        "onboard_time": 1719530475,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137707,
+        "num": 137707,
+        "word": "台湾情侣遭偷拍视频被传台版N号房",
+        "onboard_time": 1719550938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127850,
+        "num": 127850,
+        "word": "王星越没听懂丈夫的容貌妻子的荣耀",
+        "onboard_time": 1719560718,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123352,
+        "num": 123352,
+        "word": "苏州女子为阻止持刀行凶不幸离世",
+        "onboard_time": 1719533838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "王鹤棣杀回你好星期六",
+        "onboard_time": 1719559937,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122339,
+        "num": 122339,
+        "word": "梁永棋墨雨云间收官长文",
+        "onboard_time": 1719563241,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121168,
+        "num": 121168,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 46,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 120891,
+        "num": 120891,
+        "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+        "onboard_time": 1719549139,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114208,
+        "num": 114208,
+        "word": "时代少年团春日拍立得",
+        "onboard_time": 1719563779,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "微信怎么删好友不被发现",
+        "onboard_time": 1719545479,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻落实新时代党的建设总要求#"
+    }
+  }
+}

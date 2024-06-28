@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719563017501,
+  "endTime": 1719563828948,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -51,6 +51,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 1314715,
+      "num": 1314715,
+      "word": "法院判定玖月晞小南风抄袭",
+      "onboard_time": 1719562158,
+      "rank": 4,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 1210382,
       "num": 1210382,
       "word": "王艳儿子 高水平运动员考试",
@@ -75,12 +83,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1093934,
+      "num": 1093934,
+      "word": "黄子韬直播道歉",
+      "onboard_time": 1719561377,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1073177,
       "num": 1073177,
       "word": "黄子韬谈经纪人被抓",
       "onboard_time": 1719498561,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1072915,
+      "num": 263764,
+      "word": "你的屁股可能已经死掉了",
+      "onboard_time": 1719562758,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1068476,
@@ -99,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016595,
-      "num": 1016595,
-      "word": "黄子韬直播道歉",
-      "onboard_time": 1719561377,
-      "rank": 0,
-      "category": "艺人"
+      "raw_hot": 961362,
+      "num": 435195,
+      "word": "张雪峰谈李雪琴高考加分争议",
+      "onboard_time": 1719562218,
+      "rank": 11,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 909227,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 896207,
-      "num": 409232,
+      "num": 434239,
       "word": "俄罗斯将1万移民送往俄乌前线",
       "onboard_time": 1719557538,
       "rank": 30,
@@ -161,14 +185,6 @@
       "onboard_time": 1719547638,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 755961,
-      "num": 408567,
-      "word": "张雪峰谈李雪琴高考加分争议",
-      "onboard_time": 1719562218,
-      "rank": 11,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 751253,
@@ -235,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 663324,
-      "num": 663324,
-      "word": "法院判定玖月晞小南风抄袭",
-      "onboard_time": 1719562158,
-      "rank": 4,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 661093,
       "num": 661093,
       "word": "大四女生举报学院书记性骚扰后续",
@@ -257,6 +265,14 @@
       "onboard_time": 1719536598,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636372,
+      "num": 636372,
+      "word": "WPS崩了",
+      "onboard_time": 1719563598,
+      "rank": 4,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 635489,
@@ -363,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559259,
+      "num": 559259,
+      "word": "外交部回应胡友平见义勇为不幸离世",
+      "onboard_time": 1719562038,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 556665,
       "num": 492245,
       "word": "拜登和特朗普开始美国大选首场辩论",
       "onboard_time": 1719538038,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 553493,
-      "num": 263764,
-      "word": "你的屁股可能已经死掉了",
-      "onboard_time": 1719562758,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 544611,
@@ -409,14 +425,6 @@
       "onboard_time": 1719548059,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 517581,
-      "num": 517581,
-      "word": "外交部回应胡友平见义勇为不幸离世",
-      "onboard_time": 1719562038,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 493309,
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432397,
+      "num": 432397,
+      "word": "外交部哀悼胡友平",
+      "onboard_time": 1719562038,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424346,
       "num": 243528,
       "word": "2岁女童因尿裤子被打店员大喊报警",
@@ -561,14 +577,6 @@
       "onboard_time": 1719493157,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 388115,
-      "num": 388115,
-      "word": "外交部哀悼胡友平",
-      "onboard_time": 1719562038,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 382053,
@@ -649,6 +657,14 @@
       "onboard_time": 1719545118,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 332610,
+      "num": 332610,
+      "word": "苗苗 意难平",
+      "onboard_time": 1719562398,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 332332,
@@ -793,14 +809,6 @@
       "onboard_time": 1719534378,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 241230,
-      "num": 241230,
-      "word": "苗苗 意难平",
-      "onboard_time": 1719562398,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 239932,
@@ -963,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203159,
+      "num": 164032,
+      "word": "玖月晞将提起上诉",
+      "onboard_time": 1719563359,
+      "rank": 30,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 202487,
       "num": 202487,
       "word": "王星越墨雨云间收官长文",
@@ -993,6 +1009,22 @@
       "onboard_time": 1719534497,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192726,
+      "num": 192726,
+      "word": "韩国首尔第二密阳集体性侵案",
+      "onboard_time": 1719561377,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192349,
+      "num": 192349,
+      "word": "Digi活死人Beef大战",
+      "onboard_time": 1719563178,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 191760,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1719536420,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183107,
+      "num": 183107,
+      "word": "花50块套了一只小猫回家",
+      "onboard_time": 1719560418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 182083,
@@ -1115,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174270,
-      "num": 174270,
-      "word": "花50块套了一只小猫回家",
-      "onboard_time": 1719560418,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173829,
       "num": 173829,
       "word": "在死海旁捡到珍珠一样的盐粒",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1719508515,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159957,
-      "num": 159957,
-      "word": "韩国首尔第二密阳集体性侵案",
-      "onboard_time": 1719561377,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158458,
@@ -1459,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127850,
+      "num": 127850,
+      "word": "王星越没听懂丈夫的容貌妻子的荣耀",
+      "onboard_time": 1719560718,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126622,
       "num": 126622,
       "word": "大奉打更人",
@@ -1499,14 +1531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123690,
-      "num": 123690,
-      "word": "王星越没听懂丈夫的容貌妻子的荣耀",
-      "onboard_time": 1719560718,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 122449,
       "num": 122449,
       "word": "侯明昊大梦归离唱跳",
@@ -1520,6 +1544,14 @@
       "word": "预测白玉兰视帝视后",
       "onboard_time": 1719555679,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122339,
+      "num": 122339,
+      "word": "梁永棋墨雨云间收官长文",
+      "onboard_time": 1719563241,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1561,6 +1593,14 @@
       "onboard_time": 1719546498,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114208,
+      "num": 114208,
+      "word": "时代少年团春日拍立得",
+      "onboard_time": 1719563779,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113897,
@@ -1907,6 +1947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41021,
+      "num": 206074,
+      "word": "外卖小哥们等餐间隙接力帮店家带娃",
+      "onboard_time": 1719563658,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40688,
+      "num": 703292,
+      "word": "藏在大学博物馆里的必看文物",
+      "onboard_time": 1719562880,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38833,
       "num": 183812,
       "word": "您用尽全力跟学生道别的样子让人泪目",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1719536839,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 32973,
+      "num": 163884,
+      "word": "荷花一开夏天氛围感就来了",
+      "onboard_time": 1719562158,
+      "rank": 31,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 25081,
@@ -1987,14 +2051,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 14259,
-      "num": 698642,
-      "word": "藏在大学博物馆里的必看文物",
-      "onboard_time": 1719562880,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13420,
       "num": 15641,
       "word": "汛期科学避险自救指南",
@@ -2029,6 +2085,9 @@
     },
     {
       "word": "#和平共处五项原则发表70周年纪念大会#"
+    },
+    {
+      "word": "#贯彻落实新时代党的建设总要求#"
     }
   ]
 }
