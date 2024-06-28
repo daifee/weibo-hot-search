@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719552935544,
+  "endTime": 1719556026528,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -41,6 +41,14 @@
       "onboard_time": 1719548479,
       "rank": 44,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1245851,
+      "num": 1245851,
+      "word": "掼蛋",
+      "onboard_time": 1719553878,
+      "rank": 0,
+      "category": "休闲"
     },
     {
       "raw_hot": 1210382,
@@ -91,12 +99,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 795574,
+      "num": 795574,
+      "word": "台湾情侣遭偷拍视频被传台版N号房",
+      "onboard_time": 1719550938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787350,
       "num": 275692,
       "word": "李雪琴陷体育加分风波",
       "onboard_time": 1719526572,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 780102,
+      "num": 780102,
+      "word": "驻日美军诱拐强暴日本少女",
+      "onboard_time": 1719553219,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773307,
@@ -168,14 +192,6 @@
       "word": "苏州公示胡友平见义勇为事迹",
       "onboard_time": 1719536598,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652900,
-      "num": 467572,
-      "word": "台湾情侣遭偷拍视频被传台版N号房",
-      "onboard_time": 1719550938,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448798,
+      "num": 448798,
+      "word": "长相思第二季首发剧照",
+      "onboard_time": 1719550340,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448673,
       "num": 448673,
       "word": "杨紫白玉兰视后提名片段",
@@ -443,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 379064,
-      "num": 379064,
-      "word": "长相思第二季首发剧照",
-      "onboard_time": 1719550340,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352418,
       "num": 352418,
       "word": "苏州女子胡友平见义勇为细节",
@@ -473,6 +489,14 @@
       "onboard_time": 1719538757,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 342813,
+      "num": 342813,
+      "word": "歌手2024冲榜歌手露西娅",
+      "onboard_time": 1719555138,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 341047,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316017,
+      "num": 316017,
+      "word": "偶遇杜江一家遛珍珠",
+      "onboard_time": 1719554178,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
@@ -545,6 +577,14 @@
       "onboard_time": 1719536059,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291367,
+      "num": 291367,
+      "word": "女子拔牙脸肿6天被误以为遭家暴",
+      "onboard_time": 1719554897,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288939,
@@ -587,6 +627,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 265090,
+      "num": 265090,
+      "word": "美国白人夫妇将收养的黑人孩子当奴隶",
+      "onboard_time": 1719554117,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258609,
       "num": 258609,
       "word": "实验犬中98%犬只都是比格犬",
@@ -625,6 +673,14 @@
       "onboard_time": 1719551240,
       "rank": 32,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 229557,
+      "num": 229557,
+      "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+      "onboard_time": 1719555017,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 228324,
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202487,
+      "num": 202487,
+      "word": "王星越墨雨云间收官长文",
+      "onboard_time": 1719555318,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196874,
       "num": 196874,
       "word": "吴谨言冲浪速度一级快",
@@ -833,6 +897,14 @@
       "onboard_time": 1719539239,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176973,
+      "num": 176973,
+      "word": "你打掼蛋吗",
+      "onboard_time": 1719554658,
+      "rank": 31,
+      "category": "休闲"
     },
     {
       "raw_hot": 176232,
@@ -1043,6 +1115,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138476,
+      "num": 138476,
+      "word": "拜登说这辈子没听过这么多胡言乱语",
+      "onboard_time": 1719552858,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 137590,
+      "num": 137590,
+      "word": "吴谨言李梦约剧",
+      "onboard_time": 1719554537,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133370,
       "num": 133370,
       "word": "张凌赫裴文宣嘴欠但不难哄",
@@ -1115,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123198,
+      "num": 123198,
+      "word": "melo",
+      "onboard_time": 1719555799,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122449,
       "num": 122449,
       "word": "侯明昊大梦归离唱跳",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1719541698,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104923,
+      "num": 104923,
+      "word": "预测白玉兰视帝视后",
+      "onboard_time": 1719555679,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 104196,
@@ -1337,6 +1441,14 @@
       "onboard_time": 1719529455,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68277,
+      "num": 399923,
+      "word": "长城脚下2000平方米停车场未批先建",
+      "onboard_time": 1719554418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66386,
