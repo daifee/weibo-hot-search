@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719556026528,
+  "endTime": 1719556789651,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1955,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1521368,
+      "num": 1521368,
+      "word": "掼蛋",
+      "onboard_time": 1719553878,
+      "rank": 0,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 1520474,
       "num": 1520474,
       "word": "端午真争气生在了周一",
@@ -3273,14 +3281,6 @@
       "onboard_time": 1719141378,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1245851,
-      "num": 1245851,
-      "word": "掼蛋",
-      "onboard_time": 1719553878,
-      "rank": 0,
-      "category": "休闲"
     },
     {
       "raw_hot": 1244043,
@@ -5377,6 +5377,14 @@
       "onboard_time": 1719057557,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 969655,
+      "num": 969655,
+      "word": "驻日美军诱拐强暴日本少女",
+      "onboard_time": 1719553219,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 969354,
@@ -7521,14 +7529,6 @@
       "onboard_time": 1718092878,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 780102,
-      "num": 780102,
-      "word": "驻日美军诱拐强暴日本少女",
-      "onboard_time": 1719553219,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 779407,
@@ -18003,6 +18003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439658,
+      "num": 439658,
+      "word": "歌手2024冲榜歌手露西娅",
+      "onboard_time": 1719555138,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439534,
       "num": 409954,
       "word": "巴黎将扣姆巴佩3个月工资",
@@ -20144,6 +20152,14 @@
       "word": "美国偷房族",
       "onboard_time": 1717994118,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399986,
+      "num": 350157,
+      "word": "女子拔牙脸肿6天被误以为遭家暴",
+      "onboard_time": 1719554897,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -23513,14 +23529,6 @@
       "onboard_time": 1719188298,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342813,
-      "num": 342813,
-      "word": "歌手2024冲榜歌手露西娅",
-      "onboard_time": 1719555138,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 342781,
@@ -27355,14 +27363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291367,
-      "num": 291367,
-      "word": "女子拔牙脸肿6天被误以为遭家暴",
-      "onboard_time": 1719554897,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291306,
       "num": 291306,
       "word": "中国女排0比2意大利女排",
@@ -28435,6 +28435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279027,
+      "num": 279027,
+      "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+      "onboard_time": 1719555017,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -28545,6 +28553,14 @@
       "onboard_time": 1719199937,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277996,
+      "num": 277996,
+      "word": "有人买4份餐领走胖东来4000元",
+      "onboard_time": 1719556217,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277740,
@@ -33387,14 +33403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229557,
-      "num": 229557,
-      "word": "蜜雪冰城客服回应新品被吐槽有脚味",
-      "onboard_time": 1719555017,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 229503,
       "num": 180322,
       "word": "黄宣才第五",
@@ -34465,6 +34473,14 @@
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222393,
+      "num": 222393,
+      "word": "东方财富",
+      "onboard_time": 1719556398,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 222286,
@@ -49172,7 +49188,7 @@
     },
     {
       "raw_hot": 163313,
-      "num": 163313,
+      "num": 310373,
       "word": "胡友平曾从身后抱住嫌疑人",
       "onboard_time": 1719549679,
       "rank": 41,
@@ -52161,6 +52177,14 @@
       "onboard_time": 1717911737,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154267,
+      "num": 154267,
+      "word": "melo",
+      "onboard_time": 1719555799,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 154265,
@@ -62331,14 +62355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123198,
-      "num": 123198,
-      "word": "melo",
-      "onboard_time": 1719555799,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 123173,
       "num": 123173,
       "word": "没想到熊猫也有人教版",
@@ -62625,6 +62641,14 @@
       "onboard_time": 1717991656,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122388,
+      "num": 122388,
+      "word": "预测白玉兰视帝视后",
+      "onboard_time": 1719555679,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122381,
@@ -64033,6 +64057,14 @@
       "onboard_time": 1718592377,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117209,
+      "num": 399923,
+      "word": "长城脚下2000平方米停车场未批先建",
+      "onboard_time": 1719554418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117179,
@@ -67563,14 +67595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 104923,
-      "num": 104923,
-      "word": "预测白玉兰视帝视后",
-      "onboard_time": 1719555679,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104853,
       "num": 101408,
       "word": "成毅白背心",
@@ -67593,6 +67617,14 @@
       "onboard_time": 1719487220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104753,
+      "num": 104753,
+      "word": "边牧为什么把我和狗关在一起",
+      "onboard_time": 1719556699,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104728,
@@ -72721,14 +72753,6 @@
       "onboard_time": 1717598719,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 68277,
-      "num": 399923,
-      "word": "长城脚下2000平方米停车场未批先建",
-      "onboard_time": 1719554418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68181,
@@ -79560,6 +79584,14 @@
       "word": "不论何时我的爸爸都是最棒的",
       "onboard_time": 1718511017,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25081,
+      "num": 187323,
+      "word": "如果没有胡友平或有更多人受伤",
+      "onboard_time": 1719556756,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

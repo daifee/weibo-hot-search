@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719556026528,
+  "endTime": 1719556789651,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -43,8 +43,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1245851,
-      "num": 1245851,
+      "raw_hot": 1521368,
+      "num": 1521368,
       "word": "掼蛋",
       "onboard_time": 1719553878,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 969655,
+      "num": 969655,
+      "word": "驻日美军诱拐强暴日本少女",
+      "onboard_time": 1719553219,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909227,
       "num": 909227,
       "word": "李雪琴事件背后的高考公平",
@@ -113,14 +121,6 @@
       "onboard_time": 1719526572,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 780102,
-      "num": 780102,
-      "word": "驻日美军诱拐强暴日本少女",
-      "onboard_time": 1719553219,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 773307,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439658,
+      "num": 439658,
+      "word": "歌手2024冲榜歌手露西娅",
+      "onboard_time": 1719555138,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434370,
       "num": 434370,
       "word": "美国中低产7人家庭的晚餐",
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 399986,
+      "num": 350157,
+      "word": "女子拔牙脸肿6天被误以为遭家暴",
+      "onboard_time": 1719554897,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397775,
       "num": 240184,
       "word": "洞鞋的苹果被两个阿姨抓了",
@@ -489,14 +505,6 @@
       "onboard_time": 1719538757,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 342813,
-      "num": 342813,
-      "word": "歌手2024冲榜歌手露西娅",
-      "onboard_time": 1719555138,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 341047,
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315387,
+      "num": 315387,
+      "word": "四川地震",
+      "onboard_time": 1719556098,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
@@ -579,20 +595,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291367,
-      "num": 291367,
-      "word": "女子拔牙脸肿6天被误以为遭家暴",
-      "onboard_time": 1719554897,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288939,
       "num": 261558,
       "word": "叶珂送花祝贺黄晓明获奖",
       "onboard_time": 1719551419,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279027,
+      "num": 279027,
+      "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+      "onboard_time": 1719555017,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 277996,
+      "num": 277996,
+      "word": "有人买4份餐领走胖东来4000元",
+      "onboard_time": 1719556217,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277653,
@@ -675,14 +699,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 229557,
-      "num": 229557,
-      "word": "蜜雪冰城客服回应新品被吐槽有脚味",
-      "onboard_time": 1719555017,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 228324,
       "num": 228324,
       "word": "Angelababy和爱马仕总监合影",
@@ -729,6 +745,14 @@
       "onboard_time": 1719544878,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222393,
+      "num": 222393,
+      "word": "东方财富",
+      "onboard_time": 1719556398,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 221805,
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 163313,
-      "num": 163313,
+      "num": 310373,
       "word": "胡友平曾从身后抱住嫌疑人",
       "onboard_time": 1719549679,
       "rank": 41,
@@ -1000,6 +1024,14 @@
       "word": "Jarstick秒删",
       "onboard_time": 1719533538,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 154267,
+      "num": 154267,
+      "word": "melo",
+      "onboard_time": 1719555799,
+      "rank": 39,
       "category": "音乐"
     },
     {
@@ -1203,19 +1235,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123198,
-      "num": 123198,
-      "word": "melo",
-      "onboard_time": 1719555799,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122449,
       "num": 122449,
       "word": "侯明昊大梦归离唱跳",
       "onboard_time": 1719547998,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122388,
+      "num": 122388,
+      "word": "预测白玉兰视帝视后",
+      "onboard_time": 1719555679,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1225,6 +1257,14 @@
       "onboard_time": 1719549559,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117209,
+      "num": 399923,
+      "word": "长城脚下2000平方米停车场未批先建",
+      "onboard_time": 1719554418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116805,
@@ -1251,12 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104923,
-      "num": 104923,
-      "word": "预测白玉兰视帝视后",
-      "onboard_time": 1719555679,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 104753,
+      "num": 104753,
+      "word": "边牧为什么把我和狗关在一起",
+      "onboard_time": 1719556699,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104196,
@@ -1443,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68277,
-      "num": 399923,
-      "word": "长城脚下2000平方米停车场未批先建",
-      "onboard_time": 1719554418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66386,
       "num": 87592,
       "word": "建立人际关系的五个步骤",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1719536839,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 25081,
+      "num": 187323,
+      "word": "如果没有胡友平或有更多人受伤",
+      "onboard_time": 1719556756,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20162,

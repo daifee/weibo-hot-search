@@ -1,0 +1,410 @@
+{
+  "runTime": 1719556789651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521368,
+        "num": 1521368,
+        "word": "掼蛋",
+        "onboard_time": 1719553878,
+        "rank": 0,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 969655,
+        "num": 969655,
+        "word": "驻日美军诱拐强暴日本少女",
+        "onboard_time": 1719553219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34418,
+        "num": 875453,
+        "word": "苏州将追授胡友平见义勇为模范称号",
+        "onboard_time": 1719539777,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859847,
+        "num": 859847,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 658720,
+        "num": 658720,
+        "word": "台湾情侣遭偷拍视频被传台版N号房",
+        "onboard_time": 1719550938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581658,
+        "num": 581658,
+        "word": "黄晓明12年后杀回创一代赛道",
+        "onboard_time": 1719550279,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439658,
+        "num": 439658,
+        "word": "歌手2024冲榜歌手露西娅",
+        "onboard_time": 1719555138,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374741,
+        "num": 374741,
+        "word": "苏州女子为阻止持刀行凶不幸离世",
+        "onboard_time": 1719533838,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373516,
+        "num": 373516,
+        "word": "复旦院长评掼蛋之风盛行",
+        "onboard_time": 1719550579,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 350566,
+        "num": 350566,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 399986,
+        "num": 350157,
+        "word": "女子拔牙脸肿6天被误以为遭家暴",
+        "onboard_time": 1719554897,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347766,
+        "num": 347766,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346592,
+        "num": 346592,
+        "word": "长相思第二季首发剧照",
+        "onboard_time": 1719550340,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328777,
+        "num": 328777,
+        "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+        "onboard_time": 1719549139,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315387,
+        "num": 315387,
+        "word": "四川地震",
+        "onboard_time": 1719556098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39950,
+        "num": 310373,
+        "word": "胡友平曾从身后抱住嫌疑人",
+        "onboard_time": 1719549679,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305762,
+        "num": 305762,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292338,
+        "num": 292338,
+        "word": "川普说霉霉非常漂亮",
+        "onboard_time": 1719551358,
+        "rank": 17,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 280060,
+        "num": 280060,
+        "word": "美国中低产7人家庭的晚餐",
+        "onboard_time": 1719550040,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279027,
+        "num": 279027,
+        "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+        "onboard_time": 1719555017,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277996,
+        "num": 277996,
+        "word": "有人买4份餐领走胖东来4000元",
+        "onboard_time": 1719556217,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275421,
+        "num": 275421,
+        "word": "偶遇杜江一家遛珍珠",
+        "onboard_time": 1719554178,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275156,
+        "num": 275156,
+        "word": "王艳儿子",
+        "onboard_time": 1719551000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270898,
+        "num": 270898,
+        "word": "大四女生举报学院书记性骚扰后续",
+        "onboard_time": 1719549739,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257323,
+        "num": 257323,
+        "word": "美国白人夫妇将收养的黑人孩子当奴隶",
+        "onboard_time": 1719554117,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240744,
+        "num": 240744,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222393,
+        "num": 222393,
+        "word": "东方财富",
+        "onboard_time": 1719556398,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211616,
+        "num": 211616,
+        "word": "隼醒来天塌了",
+        "onboard_time": 1719540198,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208858,
+        "num": 208858,
+        "word": "微信怎么删好友不被发现",
+        "onboard_time": 1719545479,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25081,
+        "num": 187323,
+        "word": "如果没有胡友平或有更多人受伤",
+        "onboard_time": 1719556756,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 30,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 166880,
+        "num": 166880,
+        "word": "我吹爆这本小说",
+        "onboard_time": 1719549139,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 163552,
+        "num": 163552,
+        "word": "符龙飞 天塌下来我还在玩",
+        "onboard_time": 1719548059,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154267,
+        "num": 154267,
+        "word": "melo",
+        "onboard_time": 1719555799,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152396,
+        "num": 152396,
+        "word": "中医建议气血不足的人学猫生活",
+        "onboard_time": 1719536298,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 147393,
+        "num": 147393,
+        "word": "王星越墨雨云间收官长文",
+        "onboard_time": 1719555318,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142357,
+        "num": 142357,
+        "word": "你好星期六焕新官宣city不city",
+        "onboard_time": 1719547638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 141650,
+        "word": "晒不干的衣服为什么会发臭",
+        "onboard_time": 1719551897,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126683,
+        "num": 126683,
+        "word": "拜登说这辈子没听过这么多胡言乱语",
+        "onboard_time": 1719552858,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124251,
+        "num": 124251,
+        "word": "你打掼蛋吗",
+        "onboard_time": 1719554658,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 123326,
+        "num": 123326,
+        "word": "Asen diss",
+        "onboard_time": 1719530475,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122388,
+        "num": 122388,
+        "word": "预测白玉兰视帝视后",
+        "onboard_time": 1719555679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121727,
+        "num": 121727,
+        "word": "特朗普和拜登激烈交锋",
+        "onboard_time": 1719545118,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121584,
+        "num": 121584,
+        "word": "减肥实际在增肥的9种行为",
+        "onboard_time": 1719546800,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117209,
+        "num": 117209,
+        "word": "长城脚下2000平方米停车场未批先建",
+        "onboard_time": 1719554418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110040,
+        "num": 110040,
+        "word": "吴谨言李梦约剧",
+        "onboard_time": 1719554537,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109738,
+        "num": 109738,
+        "word": "警方通报内蒙古1家5口遇害",
+        "onboard_time": 1719544758,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 105123,
+        "num": 105123,
+        "word": "韩国花滑性丑闻又牵出黑教练",
+        "onboard_time": 1719550579,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 104753,
+        "word": "边牧为什么把我和狗关在一起",
+        "onboard_time": 1719556699,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101954,
+        "num": 101954,
+        "word": "管培生是大饼还是大坑",
+        "onboard_time": 1719550938,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平共处五项原则70周年纪念大会#"
+    }
+  }
+}
