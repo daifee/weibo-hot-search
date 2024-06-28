@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719591810968,
+  "endTime": 1719592705845,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1719285140,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 983943,
+      "num": 983943,
+      "word": "杨紫遗憾没到白玉兰现场",
+      "onboard_time": 1719591858,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 983784,
@@ -4859,6 +4867,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 394259,
+      "num": 394259,
+      "word": "男子清华毕业1年重新高考学中医",
+      "onboard_time": 1719589219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1719391580,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 374609,
-      "num": 275251,
-      "word": "男子清华毕业1年重新高考学中医",
-      "onboard_time": 1719589219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372017,
@@ -8283,6 +8291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211631,
+      "num": 185031,
+      "word": "为什么空调开26度时有臭味",
+      "onboard_time": 1719587481,
+      "rank": 38,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "阿汤哥女儿去掉父亲姓氏",
@@ -8473,14 +8489,6 @@
       "onboard_time": 1719455898,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207785,
-      "num": 185031,
-      "word": "为什么空调开26度时有臭味",
-      "onboard_time": 1719587481,
-      "rank": 38,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 207693,
@@ -12667,6 +12675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143981,
+      "num": 147939,
+      "word": "谭维维有以前歌手那味儿了",
+      "onboard_time": 1719590120,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143963,
       "num": 129904,
       "word": "唐嫣阿玛尼高定",
@@ -13401,14 +13417,6 @@
       "onboard_time": 1719367336,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133383,
-      "num": 147939,
-      "word": "谭维维有以前歌手那味儿了",
-      "onboard_time": 1719590120,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 133370,
@@ -16427,6 +16435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69306,
+      "num": 143526,
+      "word": "infp每天典型的4种状态",
+      "onboard_time": 1719589400,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68852,
       "num": 87915,
       "word": "外国博主打卡北京带火city不city",
@@ -16449,14 +16465,6 @@
       "onboard_time": 1719457758,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68602,
-      "num": 142852,
-      "word": "infp每天典型的4种状态",
-      "onboard_time": 1719589400,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 67987,
@@ -16931,6 +16939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53082,
+      "num": 287528,
+      "word": "男子钓到1.45米水中老虎竟然放走",
+      "onboard_time": 1719590721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52978,
       "num": 262020,
       "word": "小个子英雄赵成龙拟认定见义勇为",
@@ -17352,14 +17368,6 @@
       "word": "高质量发展中国行",
       "onboard_time": 1719322939,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40238,
-      "num": 287528,
-      "word": "男子钓到1.45米水中老虎竟然放走",
-      "onboard_time": 1719590721,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -18256,6 +18264,14 @@
       "word": "直击湖南暴雨现场",
       "onboard_time": 1719251893,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15892,
+      "num": 162185,
+      "word": "中国大运河申遗成功10年了",
+      "onboard_time": 1719592577,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
