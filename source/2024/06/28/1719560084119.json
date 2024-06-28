@@ -1,0 +1,410 @@
+{
+  "runTime": 1719560084119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1118406,
+        "num": 1118406,
+        "word": "驻日美军诱拐强暴日本少女",
+        "onboard_time": 1719553219,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018863,
+        "num": 1018863,
+        "word": "四川地震",
+        "onboard_time": 1719556098,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27858,
+        "num": 881545,
+        "word": "苏州将追授胡友平见义勇为模范称号",
+        "onboard_time": 1719539777,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826380,
+        "num": 826380,
+        "word": "有人买4份餐领走胖东来4000元",
+        "onboard_time": 1719556217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670753,
+        "num": 670753,
+        "word": "我和高圆圆点外卖区别",
+        "onboard_time": 1719557958,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609819,
+        "num": 609819,
+        "word": "人民日报评胡友平见义勇为",
+        "onboard_time": 1719556879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566386,
+        "num": 566386,
+        "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
+        "onboard_time": 1719557239,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465527,
+        "num": 465527,
+        "word": "女子拔牙脸肿6天被误以为遭家暴",
+        "onboard_time": 1719554897,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377629,
+        "num": 377629,
+        "word": "李梦回应负面评价",
+        "onboard_time": 1719558737,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371257,
+        "num": 371257,
+        "word": "奔跑吧今晚男生女生向前冲",
+        "onboard_time": 1719558019,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 742483,
+        "num": 367186,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348630,
+        "num": 348630,
+        "word": "台湾情侣遭偷拍视频被传台版N号房",
+        "onboard_time": 1719550938,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348077,
+        "num": 348077,
+        "word": "歌手2024冲榜歌手露西娅",
+        "onboard_time": 1719555138,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302334,
+        "num": 302334,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 287089,
+        "num": 287089,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 14,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 245036,
+        "num": 245036,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242417,
+        "num": 242417,
+        "word": "猎罪图鉴",
+        "onboard_time": 1719559457,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234463,
+        "num": 234463,
+        "word": "偶遇杜江一家遛珍珠",
+        "onboard_time": 1719554178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20967,
+        "num": 228024,
+        "word": "毕业典礼上这个变装太帅了",
+        "onboard_time": 1719559878,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224216,
+        "num": 224216,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222115,
+        "num": 222115,
+        "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+        "onboard_time": 1719549139,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207971,
+        "num": 207971,
+        "word": "鸣潮好卡",
+        "onboard_time": 1719559638,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 198479,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195122,
+        "num": 195122,
+        "word": "黄晓明12年后杀回创一代赛道",
+        "onboard_time": 1719550279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "苏州女子为阻止持刀行凶不幸离世",
+        "onboard_time": 1719533838,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174543,
+        "num": 174543,
+        "word": "王鹤棣杀回你好星期六",
+        "onboard_time": 1719559937,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171570,
+        "num": 171570,
+        "word": "微信怎么删好友不被发现",
+        "onboard_time": 1719545479,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169483,
+        "num": 169483,
+        "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+        "onboard_time": 1719555017,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169172,
+        "num": 169172,
+        "word": "云农招收全球第一届咖啡工程本科生",
+        "onboard_time": 1719559937,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 45592,
+        "num": 167739,
+        "word": "美国店员自学中文为中国顾客点单",
+        "onboard_time": 1719560057,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167585,
+        "num": 167585,
+        "word": "王者荣耀更新之后不会玩了",
+        "onboard_time": 1719558498,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50240,
+        "num": 162135,
+        "word": "警方带你揭秘境外招工骗局",
+        "onboard_time": 1719558019,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160353,
+        "num": 160353,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 32,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 158104,
+        "num": 158104,
+        "word": "隼醒来天塌了",
+        "onboard_time": 1719540198,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147444,
+        "num": 147444,
+        "word": "陈瑶演个上官婉儿我看看",
+        "onboard_time": 1719559098,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146255,
+        "num": 146255,
+        "word": "度华年 牛牛向钱冲",
+        "onboard_time": 1719558917,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144425,
+        "num": 144425,
+        "word": "长相思第二季首发剧照",
+        "onboard_time": 1719550340,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139061,
+        "num": 139061,
+        "word": "恋与制作人夏夜特别展映",
+        "onboard_time": 1719558798,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138341,
+        "num": 138341,
+        "word": "刘亦菲感谢吴彦姝的鼓励",
+        "onboard_time": 1719557479,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "川普说霉霉非常漂亮",
+        "onboard_time": 1719551358,
+        "rank": 39,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "男朋友擅自给我安排一天计划",
+        "onboard_time": 1719559039,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133969,
+        "num": 133969,
+        "word": "美国白人夫妇将收养的黑人孩子当奴隶",
+        "onboard_time": 1719554117,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121232,
+        "num": 121232,
+        "word": "东方财富",
+        "onboard_time": 1719556398,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120157,
+        "num": 120157,
+        "word": "晒不干的衣服为什么会发臭",
+        "onboard_time": 1719551897,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117331,
+        "num": 117331,
+        "word": "大四女生举报学院书记性骚扰后续",
+        "onboard_time": 1719549739,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 115609,
+        "word": "私房烘焙被骂到底冤不冤",
+        "onboard_time": 1719560057,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106880,
+        "num": 106880,
+        "word": "中医建议气血不足的人学猫生活",
+        "onboard_time": 1719536298,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 105619,
+        "num": 105619,
+        "word": "边牧为什么把我和狗关在一起",
+        "onboard_time": 1719556699,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105240,
+        "num": 105240,
+        "word": "我吹爆这本小说",
+        "onboard_time": 1719549139,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 104313,
+        "word": "特朗普和拜登激烈交锋",
+        "onboard_time": 1719545118,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平共处五项原则70周年纪念大会#"
+    }
+  }
+}
