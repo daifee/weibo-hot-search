@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719549403181,
+  "endTime": 1719551922581,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1718155997,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1501035,
+      "num": 1501035,
+      "word": "小奶栀改名",
+      "onboard_time": 1719548479,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1499480,
@@ -8044,7 +8052,7 @@
     },
     {
       "raw_hot": 749172,
-      "num": 280894,
+      "num": 314272,
       "word": "微信怎么删好友不被发现",
       "onboard_time": 1719545479,
       "rank": 39,
@@ -10475,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649366,
+      "num": 369839,
+      "word": "大四女生举报学院书记性骚扰后续",
+      "onboard_time": 1719549739,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649360,
       "num": 649360,
       "word": "长期轻断食对身体有什么影响",
@@ -10987,6 +11003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626898,
+      "num": 626898,
+      "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+      "onboard_time": 1719549139,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626871,
       "num": 245399,
       "word": "妈妈让我支付她生我的费用",
@@ -11180,7 +11204,7 @@
     },
     {
       "raw_hot": 620419,
-      "num": 275842,
+      "num": 304508,
       "word": "长期不运动的人身体会怎样",
       "onboard_time": 1719542538,
       "rank": 32,
@@ -14011,14 +14035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527391,
-      "num": 527391,
-      "word": "小奶栀改名",
-      "onboard_time": 1719548479,
-      "rank": 44,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 527366,
       "num": 527366,
       "word": "半年过去了 跟没过一样",
@@ -15153,6 +15169,14 @@
       "onboard_time": 1717338980,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503079,
+      "num": 369585,
+      "word": "符龙飞 天塌下来我还在玩",
+      "onboard_time": 1719548059,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 502878,
@@ -18723,6 +18747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426442,
+      "num": 369411,
+      "word": "复旦院长评掼蛋之风盛行",
+      "onboard_time": 1719550579,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -19001,6 +19033,14 @@
       "onboard_time": 1717759819,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420908,
+      "num": 368905,
+      "word": "美国中低产7人家庭的晚餐",
+      "onboard_time": 1719550040,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 420890,
@@ -19313,6 +19353,14 @@
       "onboard_time": 1719022038,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415693,
+      "num": 368571,
+      "word": "黄晓明12年后杀回创一代赛道",
+      "onboard_time": 1719550279,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 415448,
@@ -20755,14 +20803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 387476,
-      "num": 387476,
-      "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
-      "onboard_time": 1719549139,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386868,
       "num": 386868,
       "word": "贺峻霖直播",
@@ -20864,6 +20904,14 @@
       "word": "肖战晒老家日常",
       "onboard_time": 1717665139,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385095,
+      "num": 368307,
+      "word": "王艳儿子",
+      "onboard_time": 1719551000,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -24091,6 +24139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333496,
+      "num": 333496,
+      "word": "特朗普和拜登激烈交锋",
+      "onboard_time": 1719545118,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 333487,
       "num": 333487,
       "word": "minji把aespa的宣传单贴在了hybe大楼",
@@ -24665,14 +24721,6 @@
       "onboard_time": 1717425499,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 325381,
-      "num": 325381,
-      "word": "特朗普和拜登激烈交锋",
-      "onboard_time": 1719545118,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 325305,
@@ -25369,6 +25417,14 @@
       "onboard_time": 1718281218,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316430,
+      "num": 316430,
+      "word": "台湾情侣遭偷拍视频被传台版N号房",
+      "onboard_time": 1719550938,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316415,
@@ -26195,14 +26251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303497,
-      "num": 272347,
-      "word": "符龙飞 天塌下来我还在玩",
-      "onboard_time": 1719548059,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 303378,
       "num": 303378,
       "word": "女孩幼儿园噎住身亡家长索赔数百万",
@@ -26545,6 +26593,14 @@
       "onboard_time": 1717227677,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299336,
+      "num": 299336,
+      "word": "长相思第二季首发剧照",
+      "onboard_time": 1719550340,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 299052,
@@ -29913,6 +29969,14 @@
       "onboard_time": 1718460799,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263376,
+      "num": 263376,
+      "word": "川普说霉霉非常漂亮",
+      "onboard_time": 1719551358,
+      "rank": 25,
+      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 263354,
@@ -33803,6 +33867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 226389,
+      "num": 226389,
+      "word": "姜元柏欠姜梨的道歉苏可补上了",
+      "onboard_time": 1719550218,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226311,
       "num": 226311,
       "word": "王勉 易建联",
@@ -36393,6 +36465,14 @@
       "onboard_time": 1717736181,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210281,
+      "num": 210281,
+      "word": "你觉得小奶栀冒犯吗",
+      "onboard_time": 1719551240,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 210246,
@@ -39651,6 +39731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198565,
+      "num": 198565,
+      "word": "我吹爆这本小说",
+      "onboard_time": 1719549139,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 198531,
       "num": 198531,
       "word": "家长选择高考出分前就奖励孩子",
@@ -40225,6 +40313,14 @@
       "onboard_time": 1717304118,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196445,
+      "num": 196445,
+      "word": "吴谨言收官文",
+      "onboard_time": 1719551658,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 196382,
@@ -42451,6 +42547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188674,
+      "num": 188674,
+      "word": "高考后发现了女儿的隐藏文件",
+      "onboard_time": 1719551298,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "章昊小声蛐蛐",
@@ -42577,6 +42681,14 @@
       "onboard_time": 1717398798,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188016,
+      "num": 188016,
+      "word": "LESSERAFIM将8月底回归",
+      "onboard_time": 1719551778,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 187994,
@@ -48963,6 +49075,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163313,
+      "num": 163313,
+      "word": "叶珂送花祝贺黄晓明获奖",
+      "onboard_time": 1719551419,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 163313,
+      "num": 163313,
+      "word": "胡友平曾从身后抱住嫌疑人",
+      "onboard_time": 1719549679,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "庄达菲 父母爱情顶凉柱",
@@ -51519,6 +51647,14 @@
       "num": 155388,
       "word": "NBA连续两届状元都是法国人",
       "onboard_time": 1719450918,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155385,
+      "num": 155385,
+      "word": "韩国花滑性丑闻又牵出黑教练",
+      "onboard_time": 1719550579,
       "rank": 44,
       "category": "体育"
     },
@@ -54139,6 +54275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147590,
+      "num": 147590,
+      "word": "晒不干的衣服为什么会发臭",
+      "onboard_time": 1719551897,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 147576,
       "num": 147576,
       "word": "成都在建地铁路面坍塌暂无人员伤亡",
@@ -54321,6 +54465,14 @@
       "onboard_time": 1717303458,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147020,
+      "num": 147020,
+      "word": "吴谨言冲浪速度一级快",
+      "onboard_time": 1719551719,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 146991,
@@ -58057,14 +58209,6 @@
       "onboard_time": 1719325519,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134461,
-      "num": 134461,
-      "word": "我吹爆这本小说",
-      "onboard_time": 1719549139,
-      "rank": 45,
-      "category": "读书作家"
     },
     {
       "raw_hot": 134455,
@@ -69851,6 +69995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90878,
+      "num": 368061,
+      "word": "猫王大赛本土猫被洋猫吊打",
+      "onboard_time": 1719549559,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90764,
       "num": 475238,
       "word": "如何正确地浪费时间",
@@ -73273,6 +73425,14 @@
       "onboard_time": 1718661972,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62327,
+      "num": 370218,
+      "word": "管培生是大饼还是大坑",
+      "onboard_time": 1719550938,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62208,
@@ -80361,6 +80521,14 @@
       "onboard_time": 1718749091,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16827,
+      "num": 227505,
+      "word": "原来MateX5是预言家",
+      "onboard_time": 1719550459,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 16749,
