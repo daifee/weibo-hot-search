@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719580819184,
+  "endTime": 1719581664564,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -9,6 +9,14 @@
       "onboard_time": 1719483078,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4817113,
+      "num": 4817113,
+      "word": "凡希亚吃了几个邓紫棋",
+      "onboard_time": 1719581122,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 4229022,
@@ -587,6 +595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1329644,
+      "num": 422127,
+      "word": "凡希亚中文也太标准了",
+      "onboard_time": 1719581122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304887,
       "num": 1304887,
       "word": "女孩查分开出隐藏款让父亲一脸懵",
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189527,
+      "num": 664137,
+      "word": "姜妍好美",
+      "onboard_time": 1719578539,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1182737,
       "num": 1182737,
       "word": "日本决定将大陆架扩大12万平方公里",
@@ -793,14 +817,6 @@
       "onboard_time": 1719505038,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1157828,
-      "num": 664137,
-      "word": "姜妍好美",
-      "onboard_time": 1719578539,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 1152737,
@@ -913,6 +929,14 @@
       "onboard_time": 1719274938,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1093964,
+      "num": 434655,
+      "word": "露西娅冲榜失败",
+      "onboard_time": 1719580583,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1093934,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1719189257,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 970607,
+      "num": 970607,
+      "word": "中国奥委会确认王楚钦樊振东单打资格",
+      "onboard_time": 1719579139,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 968426,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1719186497,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 849067,
+      "num": 401782,
+      "word": "凡希亚好牛",
+      "onboard_time": 1719581122,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 847297,
@@ -1867,6 +1907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 734134,
+      "num": 400022,
+      "word": "杨超越 白玉兰多重宇宙",
+      "onboard_time": 1719580222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734070,
       "num": 734070,
       "word": "光遇复刻",
@@ -2249,14 +2297,6 @@
       "onboard_time": 1719321079,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 662870,
-      "num": 662870,
-      "word": "中国奥委会确认王楚钦樊振东单打资格",
-      "onboard_time": 1719579139,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 661904,
@@ -4091,14 +4131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434655,
-      "num": 434655,
-      "word": "露西娅冲榜失败",
-      "onboard_time": 1719580583,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434370,
       "num": 434370,
       "word": "美国中低产7人家庭的晚餐",
@@ -4484,7 +4516,7 @@
     },
     {
       "raw_hot": 410351,
-      "num": 348578,
+      "num": 377424,
       "word": "十个勤天演唱会",
       "onboard_time": 1719573677,
       "rank": 26,
@@ -4803,6 +4835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377517,
+      "num": 377517,
+      "word": "姜妍白玉兰最佳女配角",
+      "onboard_time": 1719581362,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377439,
       "num": 377439,
       "word": "张婧仪高定绿裙",
@@ -4881,14 +4921,6 @@
       "onboard_time": 1719381920,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 368497,
-      "num": 368497,
-      "word": "杨超越 白玉兰多重宇宙",
-      "onboard_time": 1719580222,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 368275,
@@ -5233,6 +5265,14 @@
       "onboard_time": 1719325941,
       "rank": 16,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 345060,
+      "num": 647745,
+      "word": "印尼逮捕103名台湾人",
+      "onboard_time": 1719577398,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 343810,
@@ -5843,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302634,
-      "num": 647745,
-      "word": "印尼逮捕103名台湾人",
-      "onboard_time": 1719577398,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 302582,
       "num": 207722,
       "word": "大碗宽面组团魂4年后居然还在",
@@ -5961,6 +5993,14 @@
       "onboard_time": 1719487819,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 296716,
+      "num": 411031,
+      "word": "全球变暖致珠峰200多具遗体显露",
+      "onboard_time": 1719580523,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295987,
@@ -6681,6 +6721,14 @@
       "onboard_time": 1719500600,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257406,
+      "num": 377463,
+      "word": "楠听",
+      "onboard_time": 1719581063,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 256435,
@@ -7507,6 +7555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223120,
+      "num": 376718,
+      "word": "于适资源",
+      "onboard_time": 1719580941,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223002,
       "num": 223002,
       "word": "OpenAI宣布终止对中国提供API服务",
@@ -7881,6 +7937,14 @@
       "onboard_time": 1719200659,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213358,
+      "num": 376992,
+      "word": "白敬亭的耳骨夹",
+      "onboard_time": 1719581004,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 213350,
@@ -8564,7 +8628,7 @@
     },
     {
       "raw_hot": 200705,
-      "num": 200705,
+      "num": 376961,
       "word": "奔跑吧 还不更新",
       "onboard_time": 1719580222,
       "rank": 42,
@@ -9156,7 +9220,7 @@
     },
     {
       "raw_hot": 191548,
-      "num": 321088,
+      "num": 376770,
       "word": "谈恋爱中的三个月定律",
       "onboard_time": 1719574577,
       "rank": 34,
@@ -9641,6 +9705,14 @@
       "onboard_time": 1719405018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184117,
+      "num": 376921,
+      "word": "顾盼生辉",
+      "onboard_time": 1719581544,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 183868,
@@ -11363,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155702,
+      "num": 377190,
+      "word": "7月十二星座注意事项",
+      "onboard_time": 1719576497,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155522,
       "num": 155522,
       "word": "原来真有人高考后第一件事是看书",
@@ -11425,14 +11505,6 @@
       "onboard_time": 1719324981,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155172,
-      "num": 303147,
-      "word": "7月十二星座注意事项",
-      "onboard_time": 1719576497,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 155142,
@@ -12065,14 +12137,6 @@
       "onboard_time": 1719066019,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146969,
-      "num": 197968,
-      "word": "全球变暖致珠峰200多具遗体显露",
-      "onboard_time": 1719580523,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146948,
@@ -13099,6 +13163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131781,
+      "num": 376879,
+      "word": "法国小伙逛完杭州表示不想回去了",
+      "onboard_time": 1719579139,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131672,
       "num": 131672,
       "word": "张雪峰给高考查分同学的一封信",
@@ -13788,7 +13860,7 @@
     },
     {
       "raw_hot": 121453,
-      "num": 201789,
+      "num": 376588,
       "word": "小米澎湃OS更新",
       "onboard_time": 1719578539,
       "rank": 48,
@@ -13969,6 +14041,14 @@
       "onboard_time": 1719574457,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119255,
+      "num": 376682,
+      "word": "一个久坐的屁股有多丑",
+      "onboard_time": 1719581425,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119179,
@@ -14833,6 +14913,14 @@
       "onboard_time": 1719291020,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107134,
+      "num": 656443,
+      "word": "想买MPV和SUV的人看完都沉默了",
+      "onboard_time": 1719578720,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 106676,
@@ -15739,14 +15827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78892,
-      "num": 656443,
-      "word": "想买MPV和SUV的人看完都沉默了",
-      "onboard_time": 1719578720,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 78456,
       "num": 192897,
       "word": "行李超重4斤女子将20件衣服穿身上",
@@ -15913,6 +15993,14 @@
       "onboard_time": 1719424272,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70115,
+      "num": 2802133,
+      "word": "法治网事",
+      "onboard_time": 1719580282,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69516,
@@ -16443,14 +16531,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 51465,
-      "num": 2802133,
-      "word": "法治网事",
-      "onboard_time": 1719580282,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51275,
       "num": 640479,
       "word": "扬州含诗量有多高",
@@ -16731,6 +16811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41599,
+      "num": 650935,
+      "word": "绝区零开服送180抽",
+      "onboard_time": 1719579260,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41565,
       "num": 311988,
       "word": "这些大学容易被忽视且性价比高",
@@ -16907,20 +16995,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37981,
+      "num": 2781861,
+      "word": "中国空间站舷窗大片上新",
+      "onboard_time": 1719581184,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37778,
       "num": 37778,
       "word": "李钟硕秀场造型",
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37218,
-      "num": 650935,
-      "word": "绝区零开服送180抽",
-      "onboard_time": 1719579260,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 36798,
@@ -18051,6 +18139,9 @@
     },
     {
       "word": "#贯彻落实新时代党的建设总要求#"
+    },
+    {
+      "word": "#习近平同秘鲁总统会谈#"
     }
   ]
 }

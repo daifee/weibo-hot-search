@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1719580819184,
+  "endTime": 1719581664564,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1315,6 +1315,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 4817113,
+      "num": 4817113,
+      "word": "凡希亚吃了几个邓紫棋",
+      "onboard_time": 1719581122,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4791031,
       "num": 4791031,
       "word": "德州车祸致2死6重伤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1715949321,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3206281,
-      "num": 1702669,
-      "word": "疑似出轨学生女教师丈夫问话笔录流出",
-      "onboard_time": 1708413095,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

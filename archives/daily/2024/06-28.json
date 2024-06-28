@@ -1,7 +1,15 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719580819184,
+  "endTime": 1719581664564,
   "band_list": [
+    {
+      "raw_hot": 4817113,
+      "num": 4817113,
+      "word": "凡希亚吃了几个邓紫棋",
+      "onboard_time": 1719581122,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4229022,
       "num": 4229022,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1329644,
+      "num": 422127,
+      "word": "凡希亚中文也太标准了",
+      "onboard_time": 1719581122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1243104,
       "num": 1243104,
       "word": "白玉兰红毯直播",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1189527,
+      "num": 664137,
+      "word": "姜妍好美",
+      "onboard_time": 1719578539,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1158242,
       "num": 1158242,
       "word": "Asen新专辑",
@@ -155,12 +179,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1157828,
-      "num": 664137,
-      "word": "姜妍好美",
-      "onboard_time": 1719578539,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 1093964,
+      "num": 434655,
+      "word": "露西娅冲榜失败",
+      "onboard_time": 1719580583,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1093934,
@@ -193,6 +217,14 @@
       "onboard_time": 1719556098,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 970607,
+      "num": 970607,
+      "word": "中国奥委会确认王楚钦樊振东单打资格",
+      "onboard_time": 1719579139,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 967792,
@@ -257,6 +289,14 @@
       "onboard_time": 1719533477,
       "rank": 5,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 849067,
+      "num": 401782,
+      "word": "凡希亚好牛",
+      "onboard_time": 1719581122,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 830164,
@@ -339,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 734134,
+      "num": 400022,
+      "word": "杨超越 白玉兰多重宇宙",
+      "onboard_time": 1719580222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 732621,
       "num": 732621,
       "word": "2024美国总统选举首场辩论",
@@ -409,14 +457,6 @@
       "onboard_time": 1719557958,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 662870,
-      "num": 662870,
-      "word": "中国奥委会确认王楚钦樊振东单打资格",
-      "onboard_time": 1719579139,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 661093,
@@ -723,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434655,
-      "num": 434655,
-      "word": "露西娅冲榜失败",
-      "onboard_time": 1719580583,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 434370,
       "num": 434370,
       "word": "美国中低产7人家庭的晚餐",
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 410351,
-      "num": 348578,
+      "num": 377424,
       "word": "十个勤天演唱会",
       "onboard_time": 1719573677,
       "rank": 26,
@@ -859,20 +891,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377517,
+      "num": 377517,
+      "word": "姜妍白玉兰最佳女配角",
+      "onboard_time": 1719581362,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371257,
       "num": 371257,
       "word": "奔跑吧今晚男生女生向前冲",
       "onboard_time": 1719558019,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368497,
-      "num": 368497,
-      "word": "杨超越 白玉兰多重宇宙",
-      "onboard_time": 1719580222,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 357556,
@@ -904,6 +936,14 @@
       "word": "拜登和特朗普今日辩论",
       "onboard_time": 1719538757,
       "rank": 28,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 345060,
+      "num": 647745,
+      "word": "印尼逮捕103名台湾人",
+      "onboard_time": 1719577398,
+      "rank": 37,
       "category": "国外时政"
     },
     {
@@ -1035,14 +1075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302634,
-      "num": 647745,
-      "word": "印尼逮捕103名台湾人",
-      "onboard_time": 1719577398,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 301340,
       "num": 515191,
       "word": "矿泉水湿敷半个月后",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1719536059,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296716,
+      "num": 411031,
+      "word": "全球变暖致珠峰200多具遗体显露",
+      "onboard_time": 1719580523,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294932,
@@ -1156,7 +1196,7 @@
     },
     {
       "raw_hot": 260175,
-      "num": 260175,
+      "num": 376618,
       "word": "歌手歌单",
       "onboard_time": 1719578720,
       "rank": 36,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1719496940,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257406,
+      "num": 377463,
+      "word": "楠听",
+      "onboard_time": 1719581063,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 256435,
@@ -1307,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223120,
+      "num": 376718,
+      "word": "于适资源",
+      "onboard_time": 1719580941,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222393,
       "num": 222393,
       "word": "东方财富",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1719531676,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213358,
+      "num": 376992,
+      "word": "白敬亭的耳骨夹",
+      "onboard_time": 1719581004,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 213350,
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 200705,
-      "num": 200705,
+      "num": 376961,
       "word": "奔跑吧 还不更新",
       "onboard_time": 1719580222,
       "rank": 42,
@@ -1580,7 +1644,7 @@
     },
     {
       "raw_hot": 191548,
-      "num": 321088,
+      "num": 376770,
       "word": "谈恋爱中的三个月定律",
       "onboard_time": 1719574577,
       "rank": 34,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1719542238,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184117,
+      "num": 376921,
+      "word": "顾盼生辉",
+      "onboard_time": 1719581544,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 183868,
@@ -1915,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155702,
+      "num": 377190,
+      "word": "7月十二星座注意事项",
+      "onboard_time": 1719576497,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155385,
       "num": 155385,
       "word": "韩国花滑性丑闻又牵出黑教练",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1719531616,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155172,
-      "num": 303147,
-      "word": "7月十二星座注意事项",
-      "onboard_time": 1719576497,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 154451,
@@ -2017,14 +2089,6 @@
       "onboard_time": 1719558798,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146969,
-      "num": 197968,
-      "word": "全球变暖致珠峰200多具遗体显露",
-      "onboard_time": 1719580523,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146776,
@@ -2235,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131781,
+      "num": 376879,
+      "word": "法国小伙逛完杭州表示不想回去了",
+      "onboard_time": 1719579139,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127974,
       "num": 370218,
       "word": "管培生是大饼还是大坑",
@@ -2340,7 +2412,7 @@
     },
     {
       "raw_hot": 121453,
-      "num": 201789,
+      "num": 376588,
       "word": "小米澎湃OS更新",
       "onboard_time": 1719578539,
       "rank": 48,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1719574457,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119255,
+      "num": 376682,
+      "word": "一个久坐的屁股有多丑",
+      "onboard_time": 1719581425,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119095,
@@ -2489,6 +2569,14 @@
       "onboard_time": 1719569238,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107134,
+      "num": 656443,
+      "word": "想买MPV和SUV的人看完都沉默了",
+      "onboard_time": 1719578720,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 105619,
@@ -2699,14 +2787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78892,
-      "num": 656443,
-      "word": "想买MPV和SUV的人看完都沉默了",
-      "onboard_time": 1719578720,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 76587,
       "num": 87615,
       "word": "新秀diss已写好",
@@ -2744,6 +2824,14 @@
       "word": "苏州市民向胡友平献花",
       "onboard_time": 1719565219,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70115,
+      "num": 2802133,
+      "word": "法治网事",
+      "onboard_time": 1719580282,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2843,14 +2931,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 51465,
-      "num": 2802133,
-      "word": "法治网事",
-      "onboard_time": 1719580282,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50420,
       "num": 448994,
       "word": "抗洪救援力量撤离这一幕看哭了",
@@ -2915,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41599,
+      "num": 650935,
+      "word": "绝区零开服送180抽",
+      "onboard_time": 1719579260,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41021,
       "num": 206074,
       "word": "外卖小哥们等餐间隙接力帮店家带娃",
@@ -2931,12 +3019,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 37218,
-      "num": 650935,
-      "word": "绝区零开服送180抽",
-      "onboard_time": 1719579260,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 37981,
+      "num": 2781861,
+      "word": "中国空间站舷窗大片上新",
+      "onboard_time": 1719581184,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34996,
@@ -3088,6 +3176,9 @@
     },
     {
       "word": "#贯彻落实新时代党的建设总要求#"
+    },
+    {
+      "word": "#习近平同秘鲁总统会谈#"
     }
   ]
 }
