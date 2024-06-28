@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719592705845,
+  "endTime": 1719595098205,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309692,
-      "num": 185223,
+      "raw_hot": 338645,
+      "num": 207000,
       "word": "殷世航傲娇美官宣恋情",
       "onboard_time": 1719582505,
       "rank": 25,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128324,
+      "num": 106314,
+      "word": "歌手直播",
+      "onboard_time": 1719575777,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128245,
       "num": 187797,
       "word": "法院判定玖月晞小南风抄袭",
@@ -363,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88109,
+      "num": 162185,
+      "word": "中国大运河申遗成功10年了",
+      "onboard_time": 1719592577,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87324,
       "num": 143773,
       "word": "员工儿子高考718分公司奖10万",
@@ -379,12 +395,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 73893,
+      "num": 81497,
+      "word": "戚薇是真正的昆卡",
+      "onboard_time": 1719593895,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69306,
       "num": 143526,
       "word": "infp每天典型的4种状态",
       "onboard_time": 1719589400,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67433,
+      "num": 287528,
+      "word": "男子钓到1.45米水中老虎竟然放走",
+      "onboard_time": 1719590721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61084,
+      "num": 81477,
+      "word": "白敬亭的耳骨夹",
+      "onboard_time": 1719581004,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 58964,
@@ -395,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53082,
-      "num": 287528,
-      "word": "男子钓到1.45米水中老虎竟然放走",
-      "onboard_time": 1719590721,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41980,
       "num": 1318520,
       "word": "中国空间站舷窗大片上新",
@@ -411,11 +443,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15892,
-      "num": 162185,
-      "word": "中国大运河申遗成功10年了",
-      "onboard_time": 1719592577,
-      "rank": 24,
+      "raw_hot": 16751,
+      "num": 301826,
+      "word": "浙江农村奶奶的打工状态属实羡慕了",
+      "onboard_time": 1719594436,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
