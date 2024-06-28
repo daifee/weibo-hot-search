@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719603250653,
+  "endTime": 1719605987998,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -483,7 +483,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19393,
+      "raw_hot": 23800,
       "num": 31434,
       "word": "当妹妹报考大学却有个姐姐时",
       "onboard_time": 1719602351,
@@ -497,6 +497,14 @@
       "onboard_time": 1719594436,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15691,
+      "num": 22632,
+      "word": "有种细菌会让衣服发臭",
+      "onboard_time": 1719605231,
+      "rank": 45,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 8964,
