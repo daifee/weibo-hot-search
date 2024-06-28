@@ -1,0 +1,410 @@
+{
+  "runTime": 1719599875250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 359651,
+        "num": 359651,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 313623,
+        "num": 313623,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 289660,
+        "word": "中国空间站舷窗大片上新",
+        "onboard_time": 1719581184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270039,
+        "num": 270039,
+        "word": "85花 飞升失败",
+        "onboard_time": 1719587422,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186316,
+        "num": 186316,
+        "word": "凡希亚吃了几个邓紫棋",
+        "onboard_time": 1719581122,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151784,
+        "num": 151784,
+        "word": "全球变暖致珠峰200多具遗体显露",
+        "onboard_time": 1719580523,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184059,
+        "num": 151635,
+        "word": "杨紫遗憾没到白玉兰现场",
+        "onboard_time": 1719591858,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148487,
+        "num": 148487,
+        "word": "举报人回应被胖东来奖励10万",
+        "onboard_time": 1719587242,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86758,
+        "num": 86758,
+        "word": "双胞胎体重相差150斤同框反差太大",
+        "onboard_time": 1719596114,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5614,
+        "num": 85248,
+        "word": "钟南山勉励学子永远不要满足于书本",
+        "onboard_time": 1719596354,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175856,
+        "num": 83008,
+        "word": "殷世航傲娇美官宣恋情",
+        "onboard_time": 1719582505,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 80603,
+        "word": "胡歌二封白玉兰视帝",
+        "onboard_time": 1719581723,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141976,
+        "num": 76084,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1719582565,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130394,
+        "num": 74956,
+        "word": "85花 手拉手",
+        "onboard_time": 1719599292,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73271,
+        "num": 73271,
+        "word": "广西一小区保安持刀杀害2人",
+        "onboard_time": 1719586042,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 72630,
+        "num": 72630,
+        "word": "房东上门催租发现家里被卖空",
+        "onboard_time": 1719582323,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66741,
+        "num": 66741,
+        "word": "男子清华毕业1年重新高考学中医",
+        "onboard_time": 1719589219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65114,
+        "num": 65114,
+        "word": "柬埔寨拥有千套房房东枪杀租客",
+        "onboard_time": 1719581902,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56782,
+        "num": 56782,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 18,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 53576,
+        "num": 53576,
+        "word": "女子称亡夫13万存款消失账户被注销",
+        "onboard_time": 1719587300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114250,
+        "num": 53561,
+        "word": "谭维维给我听爽了",
+        "onboard_time": 1719583228,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109702,
+        "num": 53532,
+        "word": "歌手排名",
+        "onboard_time": 1719583585,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68746,
+        "num": 53472,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 59475,
+        "num": 53439,
+        "word": "矿泉水湿敷半个月后",
+        "onboard_time": 1719579441,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121075,
+        "num": 53420,
+        "word": "陈晓给刘亦菲提裙子",
+        "onboard_time": 1719578720,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 53388,
+        "word": "谭维维第一",
+        "onboard_time": 1719586103,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75443,
+        "num": 53352,
+        "word": "尤长靖感谢那英",
+        "onboard_time": 1719589520,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67070,
+        "num": 53317,
+        "word": "歌手直播",
+        "onboard_time": 1719575777,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64276,
+        "num": 53268,
+        "word": "asen把diss删了",
+        "onboard_time": 1719571158,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62655,
+        "num": 53247,
+        "word": "花百万怒骂小炸串",
+        "onboard_time": 1719578059,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55825,
+        "num": 53209,
+        "word": "东方甄选主播回应公开吐槽公司",
+        "onboard_time": 1719597193,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53189,
+        "num": 53189,
+        "word": "赵一博翻牌",
+        "onboard_time": 1719589042,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51815,
+        "num": 51815,
+        "word": "为什么空调开26度时有臭味",
+        "onboard_time": 1719587481,
+        "rank": 32,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 50508,
+        "num": 50508,
+        "word": "同居后分手男方要女方退还全部彩礼",
+        "onboard_time": 1719598153,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44206,
+        "num": 44206,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1719573677,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44048,
+        "num": 44048,
+        "word": "一个久坐的屁股有多丑",
+        "onboard_time": 1719581425,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41907,
+        "num": 41907,
+        "word": "seventeen舞台",
+        "onboard_time": 1719589219,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40630,
+        "num": 40630,
+        "word": "带状疱疹",
+        "onboard_time": 1719584004,
+        "rank": 37,
+        "category": "健康医疗,综艺"
+      },
+      {
+        "raw_hot": 36128,
+        "num": 40628,
+        "word": "中国奥委会确认王楚钦樊振东单打资格",
+        "onboard_time": 1719579139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31787,
+        "num": 40624,
+        "word": "你为什么会爱上同一类人",
+        "onboard_time": 1719585862,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31278,
+        "num": 40620,
+        "word": "花儿与少年",
+        "onboard_time": 1719586222,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31266,
+        "num": 40611,
+        "word": "杨紫火炬手",
+        "onboard_time": 1719582085,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31106,
+        "num": 40606,
+        "word": "戚薇是真正的昆卡",
+        "onboard_time": 1719593895,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31102,
+        "num": 40604,
+        "word": "李昊粉发",
+        "onboard_time": 1719587542,
+        "rank": 43,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 29427,
+        "num": 40599,
+        "word": "凹凸世界",
+        "onboard_time": 1719590300,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29251,
+        "num": 40593,
+        "word": "成绩上不了五院四系还报法学吗",
+        "onboard_time": 1719587061,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27577,
+        "num": 40588,
+        "word": "男子钓到1.45米水中老虎竟然放走",
+        "onboard_time": 1719590721,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27565,
+        "num": 40584,
+        "word": "王鹤棣工作室认不出王鹤棣",
+        "onboard_time": 1719577578,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27099,
+        "num": 40573,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23913,
+        "num": 40569,
+        "word": "白敬亭的耳骨夹",
+        "onboard_time": 1719581004,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同秘鲁总统会谈#"
+    }
+  }
+}
