@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719584287932,
+  "endTime": 1719585311610,
   "band_list": [
     {
       "raw_hot": 6134722,
@@ -49,6 +49,14 @@
       "onboard_time": 1719581662,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3328956,
+      "num": 387087,
+      "word": "歌手排名",
+      "onboard_time": 1719583585,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2936242,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093729,
+      "num": 361097,
+      "word": "唐嫣陪跑",
+      "onboard_time": 1719584663,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1073177,
       "num": 1073177,
       "word": "黄子韬谈经纪人被抓",
@@ -369,6 +385,14 @@
       "onboard_time": 1719565638,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 803053,
+      "num": 932209,
+      "word": "带状疱疹",
+      "onboard_time": 1719584004,
+      "rank": 16,
+      "category": "健康医疗,综艺"
     },
     {
       "raw_hot": 795574,
@@ -731,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511834,
+      "num": 238376,
+      "word": "谭维维说下飞机就想回去了",
+      "onboard_time": 1719583765,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497002,
       "num": 497002,
       "word": "女子拍照弄丢50万宝石掀草坪找3小时",
@@ -763,12 +795,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 474209,
+      "num": 2128655,
+      "word": "全球变暖致珠峰200多具遗体显露",
+      "onboard_time": 1719580523,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470497,
       "num": 470497,
       "word": "土狗",
       "onboard_time": 1719498561,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 469543,
+      "num": 227736,
+      "word": "那英眼睛怎么了",
+      "onboard_time": 1719583044,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 468967,
@@ -785,14 +833,6 @@
       "onboard_time": 1719551000,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461248,
-      "num": 943125,
-      "word": "全球变暖致珠峰200多具遗体显露",
-      "onboard_time": 1719580523,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456124,
@@ -1003,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347550,
+      "num": 860958,
+      "word": "矿泉水湿敷半个月后",
+      "onboard_time": 1719579441,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 347411,
       "num": 347411,
       "word": "拜登和特朗普今日辩论",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1719569179,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337344,
-      "num": 860958,
-      "word": "矿泉水湿敷半个月后",
-      "onboard_time": 1719579441,
-      "rank": 28,
-      "category": "美妆"
     },
     {
       "raw_hot": 336814,
@@ -1155,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 303362,
+      "num": 923279,
+      "word": "房东上门催租发现家里被卖空",
+      "onboard_time": 1719582323,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298810,
       "num": 298810,
       "word": "王者荣耀策划",
@@ -1219,6 +1267,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 277344,
+      "num": 818332,
+      "word": "袁娅维嗓子没好",
+      "onboard_time": 1719584004,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276094,
+      "num": 843109,
+      "word": "一个久坐的屁股有多丑",
+      "onboard_time": 1719581425,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272240,
+      "num": 272240,
+      "word": "白敬亭恭喜姜妍",
+      "onboard_time": 1719585144,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272018,
       "num": 515348,
       "word": "丫丫越胖我们越爱",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1719496519,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267180,
+      "num": 878387,
+      "word": "中国奥委会确认孙颖莎陈梦单打资格",
+      "onboard_time": 1719580222,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 266122,
@@ -1299,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255400,
-      "num": 843109,
-      "word": "一个久坐的屁股有多丑",
-      "onboard_time": 1719581425,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 249682,
       "num": 227809,
       "word": "胡歌白玉兰路透",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1719558498,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239353,
-      "num": 932209,
-      "word": "带状疱疹",
-      "onboard_time": 1719584004,
-      "rank": 16,
-      "category": "健康医疗,综艺"
     },
     {
       "raw_hot": 239323,
@@ -1393,14 +1457,6 @@
       "onboard_time": 1719581004,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230482,
-      "num": 923279,
-      "word": "房东上门催租发现家里被卖空",
-      "onboard_time": 1719582323,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228324,
@@ -1619,12 +1675,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 204403,
-      "num": 878387,
-      "word": "中国奥委会确认孙颖莎陈梦单打资格",
-      "onboard_time": 1719580222,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 205358,
+      "num": 221281,
+      "word": "宋亚轩刘耀文去看陶喆演唱会",
+      "onboard_time": 1719584725,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 204207,
@@ -1707,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195621,
+      "num": 795643,
+      "word": "柬埔寨拥有千套房房东枪杀租客",
+      "onboard_time": 1719581902,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195395,
       "num": 195395,
       "word": "周迅宋佳体型差",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1719530775,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189133,
-      "num": 818332,
-      "word": "袁娅维嗓子没好",
-      "onboard_time": 1719584004,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 188674,
@@ -2155,6 +2211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153526,
+      "num": 825714,
+      "word": "不要刻意去迎合水瓶座",
+      "onboard_time": 1719582684,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153331,
       "num": 250379,
       "word": "美国外交官被发现死于基辅一酒店",
@@ -2435,14 +2499,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 128006,
-      "num": 825714,
-      "word": "不要刻意去迎合水瓶座",
-      "onboard_time": 1719582684,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127974,
       "num": 370218,
       "word": "管培生是大饼还是大坑",
@@ -2691,6 +2747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108107,
+      "num": 215430,
+      "word": "JDG战胜EDG",
+      "onboard_time": 1719584905,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107454,
       "num": 107454,
       "word": "温网2024",
@@ -2723,20 +2787,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 104147,
+      "num": 4703466,
+      "word": "中国空间站舷窗大片上新",
+      "onboard_time": 1719581184,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104011,
       "num": 104011,
       "word": "出门两三个小时空调要不要关",
       "onboard_time": 1719523270,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103374,
-      "num": 4703466,
-      "word": "中国空间站舷窗大片上新",
-      "onboard_time": 1719581184,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102888,
@@ -2763,15 +2827,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101064,
-      "num": 795643,
-      "word": "柬埔寨拥有千套房房东枪杀租客",
-      "onboard_time": 1719581902,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100033,
+      "raw_hot": 100409,
       "num": 830964,
       "word": "女生高考考出目标分震惊不敢信",
       "onboard_time": 1719582024,
@@ -3075,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53021,
+      "num": 269798,
+      "word": "绝区零你好能藏",
+      "onboard_time": 1719584663,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52382,
       "num": 529125,
       "word": "雨天老人被车撞倒路人撑起暖心伞",
@@ -3259,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19952,
+      "num": 276533,
+      "word": "凡希亚一句好喝拿捏中文",
+      "onboard_time": 1719584364,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17911,
       "num": 45142,
       "word": "梦想家园",
@@ -3281,6 +3353,14 @@
       "onboard_time": 1719550459,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16506,
+      "num": 217195,
+      "word": "绝区零唱出我的精神状况",
+      "onboard_time": 1719585084,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 13420,
@@ -3331,6 +3411,9 @@
     },
     {
       "word": "#习近平同秘鲁总统会谈#"
+    },
+    {
+      "word": "#习近平签署第二十五号主席令#"
     }
   ]
 }
