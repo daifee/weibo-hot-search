@@ -1,0 +1,410 @@
+{
+  "runTime": 1719552935544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598630,
+        "num": 1598630,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 801677,
+        "num": 801677,
+        "word": "苏州女子为阻止持刀行凶不幸离世",
+        "onboard_time": 1719533838,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107058,
+        "num": 738481,
+        "word": "苏州将追授胡友平见义勇为模范称号",
+        "onboard_time": 1719539777,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691694,
+        "num": 691694,
+        "word": "黄晓明12年后杀回创一代赛道",
+        "onboard_time": 1719550279,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 661093,
+        "num": 661093,
+        "word": "大四女生举报学院书记性骚扰后续",
+        "onboard_time": 1719549739,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627017,
+        "num": 627017,
+        "word": "复旦院长评掼蛋之风盛行",
+        "onboard_time": 1719550579,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 593607,
+        "num": 593607,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584902,
+        "num": 584902,
+        "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+        "onboard_time": 1719549139,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520502,
+        "num": 520502,
+        "word": "符龙飞 天塌下来我还在玩",
+        "onboard_time": 1719548059,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414635,
+        "num": 467846,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652900,
+        "num": 467572,
+        "word": "台湾情侣遭偷拍视频被传台版N号房",
+        "onboard_time": 1719550938,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467263,
+        "num": 467263,
+        "word": "你好星期六焕新官宣city不city",
+        "onboard_time": 1719547638,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464208,
+        "num": 464208,
+        "word": "王艳儿子",
+        "onboard_time": 1719551000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434370,
+        "num": 434370,
+        "word": "美国中低产7人家庭的晚餐",
+        "onboard_time": 1719550040,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421817,
+        "num": 421817,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408400,
+        "num": 408400,
+        "word": "川普说霉霉非常漂亮",
+        "onboard_time": 1719551358,
+        "rank": 15,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 379064,
+        "num": 379064,
+        "word": "长相思第二季首发剧照",
+        "onboard_time": 1719550340,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120921,
+        "num": 303154,
+        "word": "猫王大赛本土猫被洋猫吊打",
+        "onboard_time": 1719549559,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298144,
+        "num": 298144,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 263482,
+        "num": 263482,
+        "word": "警方通报内蒙古1家5口遇害",
+        "onboard_time": 1719544758,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 427508,
+        "num": 262359,
+        "word": "微信怎么删好友不被发现",
+        "onboard_time": 1719545479,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288939,
+        "num": 261558,
+        "word": "叶珂送花祝贺黄晓明获奖",
+        "onboard_time": 1719551419,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259544,
+        "num": 259544,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 22,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 251081,
+        "num": 251081,
+        "word": "隼醒来天塌了",
+        "onboard_time": 1719540198,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235423,
+        "num": 235423,
+        "word": "我吹爆这本小说",
+        "onboard_time": 1719549139,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 234051,
+        "num": 234051,
+        "word": "你觉得小奶栀冒犯吗",
+        "onboard_time": 1719551240,
+        "rank": 25,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 231871,
+        "num": 231871,
+        "word": "特朗普和拜登激烈交锋",
+        "onboard_time": 1719545118,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216607,
+        "num": 216607,
+        "word": "苗苗张予曦没成团",
+        "onboard_time": 1719537498,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207710,
+        "num": 207710,
+        "word": "中医建议气血不足的人学猫生活",
+        "onboard_time": 1719536298,
+        "rank": 28,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 7573,
+        "num": 206511,
+        "word": "原来MateX5是预言家",
+        "onboard_time": 1719550459,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206043,
+        "num": 206043,
+        "word": "晒不干的衣服为什么会发臭",
+        "onboard_time": 1719551897,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203775,
+        "num": 203775,
+        "word": "Asen diss",
+        "onboard_time": 1719530475,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196874,
+        "num": 196874,
+        "word": "吴谨言冲浪速度一级快",
+        "onboard_time": 1719551719,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186227,
+        "num": 186227,
+        "word": "历届浪姐C位",
+        "onboard_time": 1719544698,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181028,
+        "num": 181028,
+        "word": "姜元柏欠姜梨的道歉苏可补上了",
+        "onboard_time": 1719550218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171819,
+        "num": 171819,
+        "word": "减肥实际在增肥的9种行为",
+        "onboard_time": 1719546800,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159422,
+        "num": 159422,
+        "word": "美媒发现拜登特朗普没握手",
+        "onboard_time": 1719543679,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181536,
+        "num": 158994,
+        "word": "吴谨言收官文",
+        "onboard_time": 1719551658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156178,
+        "num": 156178,
+        "word": "于正墨雨云间收官开始宣传临江仙",
+        "onboard_time": 1719548779,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149330,
+        "num": 149330,
+        "word": "韩国花滑性丑闻又牵出黑教练",
+        "onboard_time": 1719550579,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142975,
+        "num": 142975,
+        "word": "苏州公示胡友平见义勇为事迹",
+        "onboard_time": 1719536598,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127974,
+        "num": 142089,
+        "word": "管培生是大饼还是大坑",
+        "onboard_time": 1719550938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141313,
+        "num": 141313,
+        "word": "苏州女子胡友平见义勇为细节",
+        "onboard_time": 1719542178,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138522,
+        "num": 138522,
+        "word": "胡友平",
+        "onboard_time": 1719534259,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132660,
+        "num": 132660,
+        "word": "法老 开玩笑的龚老师",
+        "onboard_time": 1719530775,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132429,
+        "num": 132429,
+        "word": "临江仙",
+        "onboard_time": 1719552738,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126143,
+        "num": 126143,
+        "word": "乘风2024 成团名单",
+        "onboard_time": 1719532037,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126102,
+        "num": 126102,
+        "word": "颜心记 燃冬",
+        "onboard_time": 1719552619,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121772,
+        "num": 121772,
+        "word": "苏州女子胡友平被提请见义勇为",
+        "onboard_time": 1719534618,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118650,
+        "num": 118650,
+        "word": "Asen新专辑",
+        "onboard_time": 1719505038,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步全面深化改革推进中国式现代化#"
+    }
+  }
+}

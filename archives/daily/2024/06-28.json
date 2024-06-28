@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719551922581,
+  "endTime": 1719552935544,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1501035,
-      "num": 1501035,
+      "raw_hot": 1598630,
+      "num": 1598630,
       "word": "小奶栀改名",
       "onboard_time": 1719548479,
       "rank": 44,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691694,
+      "num": 691694,
+      "word": "黄晓明12年后杀回创一代赛道",
+      "onboard_time": 1719550279,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 673072,
       "num": 276136,
       "word": "中医建议气血不足的人学猫生活",
       "onboard_time": 1719536298,
       "rank": 22,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 661093,
+      "num": 661093,
+      "word": "大四女生举报学院书记性骚扰后续",
+      "onboard_time": 1719549739,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653359,
@@ -155,11 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649366,
-      "num": 369839,
-      "word": "大四女生举报学院书记性骚扰后续",
-      "onboard_time": 1719549739,
-      "rank": 10,
+      "raw_hot": 652900,
+      "num": 467572,
+      "word": "台湾情侣遭偷拍视频被传台版N号房",
+      "onboard_time": 1719550938,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1719496519,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 627017,
+      "num": 627017,
+      "word": "复旦院长评掼蛋之风盛行",
+      "onboard_time": 1719550579,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 626898,
@@ -267,8 +291,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 503079,
-      "num": 369585,
+      "raw_hot": 520502,
+      "num": 520502,
       "word": "符龙飞 天塌下来我还在玩",
       "onboard_time": 1719548059,
       "rank": 35,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464208,
+      "num": 464208,
+      "word": "王艳儿子",
+      "onboard_time": 1719551000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456124,
       "num": 416341,
       "word": "乘风",
@@ -331,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 426442,
-      "num": 369411,
-      "word": "复旦院长评掼蛋之风盛行",
-      "onboard_time": 1719550579,
-      "rank": 12,
-      "category": "教育,社会新闻"
+      "raw_hot": 434370,
+      "num": 434370,
+      "word": "美国中低产7人家庭的晚餐",
+      "onboard_time": 1719550040,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 424346,
@@ -355,22 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420908,
-      "num": 368905,
-      "word": "美国中低产7人家庭的晚餐",
-      "onboard_time": 1719550040,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 415693,
-      "num": 368571,
-      "word": "黄晓明12年后杀回创一代赛道",
-      "onboard_time": 1719550279,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 412262,
       "num": 397505,
       "word": "历届浪姐C位",
@@ -385,6 +401,14 @@
       "onboard_time": 1719540078,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408400,
+      "num": 408400,
+      "word": "川普说霉霉非常漂亮",
+      "onboard_time": 1719551358,
+      "rank": 25,
+      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 407803,
@@ -403,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385095,
-      "num": 368307,
-      "word": "王艳儿子",
-      "onboard_time": 1719551000,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382053,
       "num": 382053,
       "word": "张予曦卡位",
@@ -425,6 +441,14 @@
       "onboard_time": 1719483498,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379064,
+      "num": 379064,
+      "word": "长相思第二季首发剧照",
+      "onboard_time": 1719550340,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 352418,
@@ -507,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316430,
-      "num": 316430,
-      "word": "台湾情侣遭偷拍视频被传台版N号房",
-      "onboard_time": 1719550938,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
@@ -523,20 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 299336,
-      "num": 299336,
-      "word": "长相思第二季首发剧照",
-      "onboard_time": 1719550340,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298810,
       "num": 298810,
       "word": "王者荣耀策划",
       "onboard_time": 1719536059,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288939,
+      "num": 261558,
+      "word": "叶珂送花祝贺黄晓明获奖",
+      "onboard_time": 1719551419,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 277653,
@@ -571,14 +587,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 263376,
-      "num": 263376,
-      "word": "川普说霉霉非常漂亮",
-      "onboard_time": 1719551358,
-      "rank": 25,
-      "category": "国外时政,艺人"
-    },
-    {
       "raw_hot": 258609,
       "num": 258609,
       "word": "实验犬中98%犬只都是比格犬",
@@ -595,12 +603,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235423,
+      "num": 235423,
+      "word": "我吹爆这本小说",
+      "onboard_time": 1719549139,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 234767,
       "num": 234767,
       "word": "郑妮可没成团",
       "onboard_time": 1719534018,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234051,
+      "num": 234051,
+      "word": "你觉得小奶栀冒犯吗",
+      "onboard_time": 1719551240,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 228324,
@@ -683,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210281,
-      "num": 210281,
-      "word": "你觉得小奶栀冒犯吗",
-      "onboard_time": 1719551240,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 209949,
       "num": 152888,
       "word": "女生多吃这种水果可以瘦肚子",
       "onboard_time": 1719500600,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206043,
+      "num": 206043,
+      "word": "晒不干的衣服为什么会发臭",
+      "onboard_time": 1719551897,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 203577,
@@ -707,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198565,
-      "num": 198565,
-      "word": "我吹爆这本小说",
-      "onboard_time": 1719549139,
-      "rank": 45,
-      "category": "读书作家"
+      "raw_hot": 196874,
+      "num": 196874,
+      "word": "吴谨言冲浪速度一级快",
+      "onboard_time": 1719551719,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 196445,
@@ -853,14 +877,6 @@
     {
       "raw_hot": 163313,
       "num": 163313,
-      "word": "叶珂送花祝贺黄晓明获奖",
-      "onboard_time": 1719551419,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 163313,
-      "num": 163313,
       "word": "胡友平曾从身后抱住嫌疑人",
       "onboard_time": 1719549679,
       "rank": 41,
@@ -955,22 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147590,
-      "num": 147590,
-      "word": "晒不干的衣服为什么会发臭",
-      "onboard_time": 1719551897,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 147020,
-      "num": 147020,
-      "word": "吴谨言冲浪速度一级快",
-      "onboard_time": 1719551719,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146776,
       "num": 146776,
       "word": "Digi活死人打起来",
@@ -1051,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132429,
+      "num": 132429,
+      "word": "临江仙",
+      "onboard_time": 1719552738,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132318,
       "num": 132318,
       "word": "于正发文介绍新人",
@@ -1059,11 +1067,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127974,
+      "num": 370218,
+      "word": "管培生是大饼还是大坑",
+      "onboard_time": 1719550938,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126622,
       "num": 126622,
       "word": "大奉打更人",
       "onboard_time": 1719512592,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126102,
+      "num": 126102,
+      "word": "颜心记 燃冬",
+      "onboard_time": 1719552619,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1097,6 +1121,14 @@
       "onboard_time": 1719547998,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120921,
+      "num": 368061,
+      "word": "猫王大赛本土猫被洋猫吊打",
+      "onboard_time": 1719549559,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 116805,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1719499940,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90878,
-      "num": 368061,
-      "word": "猫王大赛本土猫被洋猫吊打",
-      "onboard_time": 1719549559,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 90394,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1719497781,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62327,
-      "num": 370218,
-      "word": "管培生是大饼还是大坑",
-      "onboard_time": 1719550938,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58788,
