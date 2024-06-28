@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719605987998,
+  "endTime": 1719606881200,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -491,20 +491,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 17861,
+      "num": 22632,
+      "word": "有种细菌会让衣服发臭",
+      "onboard_time": 1719605231,
+      "rank": 45,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 17584,
+      "num": 20745,
+      "word": "陈乔恩回复导演陈铭章",
+      "onboard_time": 1719606370,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16751,
       "num": 301826,
       "word": "浙江农村奶奶的打工状态属实羡慕了",
       "onboard_time": 1719594436,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15691,
-      "num": 22632,
-      "word": "有种细菌会让衣服发臭",
-      "onboard_time": 1719605231,
-      "rank": 45,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 8964,

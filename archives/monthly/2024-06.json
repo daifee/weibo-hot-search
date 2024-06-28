@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719605987998,
+  "endTime": 1719606881200,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -82483,6 +82483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17861,
+      "num": 22632,
+      "word": "有种细菌会让衣服发臭",
+      "onboard_time": 1719605231,
+      "rank": 45,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 17803,
       "num": 21605,
       "word": "北方人的梦魇南方人的团建",
@@ -82497,6 +82505,14 @@
       "onboard_time": 1717879571,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17584,
+      "num": 20745,
+      "word": "陈乔恩回复导演陈铭章",
+      "onboard_time": 1719606370,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 17572,
@@ -82793,14 +82809,6 @@
       "onboard_time": 1717444990,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15691,
-      "num": 22632,
-      "word": "有种细菌会让衣服发臭",
-      "onboard_time": 1719605231,
-      "rank": 45,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 15680,
