@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719571069037,
+  "endTime": 1719573450771,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -57,6 +57,14 @@
       "onboard_time": 1719212598,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2419397,
+      "num": 2419397,
+      "word": "万茜把发尾染绿了",
+      "onboard_time": 1719570439,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2396856,
@@ -1339,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 877861,
-      "num": 796864,
-      "word": "万茜把发尾染绿了",
-      "onboard_time": 1719570439,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 877212,
       "num": 877212,
       "word": "云边有个小卖部 难看",
@@ -1376,6 +1376,14 @@
       "word": "男子用麻精药品迷奸多名女性被判无期",
       "onboard_time": 1719305179,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862597,
+      "num": 862597,
+      "word": "高铁座被孕妇暂坐男子假装没看见",
+      "onboard_time": 1719569601,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1625,6 +1633,14 @@
       "onboard_time": 1719547638,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767068,
+      "num": 434697,
+      "word": "张小斐衣领 没把我们当外人",
+      "onboard_time": 1719570917,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 766978,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1719207739,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 572500,
-      "num": 572500,
-      "word": "高铁座被孕妇暂坐男子假装没看见",
-      "onboard_time": 1719569601,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571909,
@@ -4539,6 +4547,14 @@
       "category": "科学科普,运动健身"
     },
     {
+      "raw_hot": 384965,
+      "num": 269510,
+      "word": "王阳出席白玉兰",
+      "onboard_time": 1719571999,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383862,
       "num": 383862,
       "word": "吴谨言王星越P图告别墨雨云间",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1719399318,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294932,
+      "num": 160473,
+      "word": "asen把diss删了",
+      "onboard_time": 1719571158,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 294855,
@@ -7235,6 +7259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223594,
+      "num": 152439,
+      "word": "万茜杀回长发了",
+      "onboard_time": 1719571517,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223002,
       "num": 223002,
       "word": "OpenAI宣布终止对中国提供API服务",
@@ -8507,14 +8539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196873,
-      "num": 174799,
-      "word": "张小斐衣领 没把我们当外人",
-      "onboard_time": 1719570917,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196658,
       "num": 196658,
       "word": "辽宁今日出高考成绩",
@@ -9481,6 +9505,14 @@
       "onboard_time": 1719085931,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179273,
+      "num": 144556,
+      "word": "唐嫣新剧没选择演女主",
+      "onboard_time": 1719572718,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179212,
@@ -11091,6 +11123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154172,
+      "num": 143883,
+      "word": "戚薇浪姐换了11套造型",
+      "onboard_time": 1719571218,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154157,
       "num": 195937,
       "word": "睡前凉快一下更容易睡得香",
@@ -11843,6 +11883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 143695,
+      "num": 143695,
+      "word": "刘亦菲亮相白玉兰红毯",
+      "onboard_time": 1719573137,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143538,
       "num": 143538,
       "word": "李尔新 不要再打了",
@@ -12555,6 +12603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132817,
+      "num": 128706,
+      "word": "唐嫣阿玛尼高定",
+      "onboard_time": 1719572478,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132789,
       "num": 132789,
       "word": "赵露思摸到什么破案了",
@@ -12593,6 +12649,14 @@
       "onboard_time": 1719502638,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132225,
+      "num": 344783,
+      "word": "官方通报企业用福寿螺冒充田螺肉销售",
+      "onboard_time": 1719568818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132171,
@@ -12891,14 +12955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127492,
-      "num": 344783,
-      "word": "官方通报企业用福寿螺冒充田螺肉销售",
-      "onboard_time": 1719568818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127355,
       "num": 127355,
       "word": "总感觉累的人最好别做美甲",
@@ -12953,6 +13009,14 @@
       "onboard_time": 1719140178,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126825,
+      "num": 126825,
+      "word": "真的感觉GPT在救一个人",
+      "onboard_time": 1719572839,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 126687,
@@ -13875,6 +13939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113891,
+      "num": 106288,
+      "word": "王星越 be镜头",
+      "onboard_time": 1719573257,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113766,
       "num": 113766,
       "word": "小狗好像对自己的体重一无所知",
@@ -14153,6 +14225,14 @@
       "onboard_time": 1719501080,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109687,
+      "num": 109687,
+      "word": "KPL",
+      "onboard_time": 1719571098,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 109678,
@@ -14865,6 +14945,14 @@
       "onboard_time": 1719567259,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95741,
+      "num": 95741,
+      "word": "裴文宣结个婚八百个心眼子",
+      "onboard_time": 1719571458,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 95249,
@@ -15843,6 +15931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52888,
+      "num": 256154,
+      "word": "绝区零公测前瞻直播",
+      "onboard_time": 1719572418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52382,
       "num": 529125,
       "word": "雨天老人被车撞倒路人撑起暖心伞",
@@ -16155,6 +16251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42427,
+      "num": 169843,
+      "word": "还有人不知道自己的MBTI吗",
+      "onboard_time": 1719570977,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42311,
       "num": 1216537,
       "word": "北疆网络普法行",
@@ -16347,6 +16451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37165,
+      "num": 275858,
+      "word": "环球时报评苏州伤人案",
+      "onboard_time": 1719572418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36798,
       "num": 239119,
       "word": "这是中国奥运健儿的赛场宣言",
@@ -16521,14 +16633,6 @@
       "onboard_time": 1719155178,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 31898,
-      "num": 110572,
-      "word": "还有人不知道自己的MBTI吗",
-      "onboard_time": 1719570977,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 31575,
@@ -16875,6 +16979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21595,
+      "num": 174855,
+      "word": "有哪些让你记忆深刻的国货品牌",
+      "onboard_time": 1719569357,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21453,
       "num": 514553,
       "word": "没有栀子花的夏天是不完整的",
@@ -17025,14 +17137,6 @@
       "onboard_time": 1718871918,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17577,
-      "num": 174855,
-      "word": "有哪些让你记忆深刻的国货品牌",
-      "onboard_time": 1719569357,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 17567,

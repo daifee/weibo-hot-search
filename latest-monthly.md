@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/28 18:37:49
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/28 19:17:30
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%23" target="weibo">
 复旦（热度：2454314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8C%9C%E6%8A%8A%E5%8F%91%E5%B0%BE%E6%9F%93%E7%BB%BF%E4%BA%86%23" target="weibo">
+万茜把发尾染绿了（热度：2419397）
 </a>
 </li>
 
@@ -4821,12 +4827,6 @@ Angelababy线下生图状态（热度：891895）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8C%9C%E6%8A%8A%E5%8F%91%E5%B0%BE%E6%9F%93%E7%BB%BF%E4%BA%86%23" target="weibo">
-万茜把发尾染绿了（热度：877861）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E8%BE%B9%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%8D%96%E9%83%A8%20%E9%9A%BE%E7%9C%8B%23" target="weibo">
 云边有个小卖部 难看（热度：877212）
 </a>
@@ -4937,6 +4937,12 @@ iPhone15有五种充电上限了（热度：864883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%88%BF%E8%A3%85%E6%88%90%E8%BF%99%E6%A0%B7%E7%BB%93%E5%A9%9A%E6%9B%B4%E9%9A%BE%E4%BA%86%23" target="weibo">
 婚房装成这样结婚更难了（热度：862983）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%BA%A7%E8%A2%AB%E5%AD%95%E5%A6%87%E6%9A%82%E5%9D%90%E7%94%B7%E5%AD%90%E5%81%87%E8%A3%85%E6%B2%A1%E7%9C%8B%E8%A7%81%23" target="weibo">
+高铁座被孕妇暂坐男子假装没看见（热度：862597）
 </a>
 </li>
 
@@ -5871,6 +5877,12 @@ Xiaolaohu删博（热度：771190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A1%A3%E9%A2%86%20%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
+张小斐衣领 没把我们当外人（热度：767068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E9%A1%B6%E9%A1%B6%20%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%90%A7%23" target="weibo">
 萨顶顶 去歌手吧（热度：766978）
 </a>
@@ -5999,18 +6011,6 @@ A股（热度：766564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%AF%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E9%A5%BF%E4%BA%86%23" target="weibo">
 男生说第一个出考场是因为太饿了（热度：759497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Karina%E5%BC%80%E7%90%83%23" target="weibo">
-Karina开球（热度：759481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%A3%E4%B8%8A%E5%B0%BF%E6%AF%92%E7%97%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23" target="weibo">
-为什么患上尿毒症的年轻人越来越多（热度：759030）
 </a>
 </li>
 
