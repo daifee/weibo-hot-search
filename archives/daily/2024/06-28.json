@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719538968738,
+  "endTime": 1719542215744,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -67,6 +67,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730308,
+      "num": 730308,
+      "word": "2024美国总统选举首场辩论",
+      "onboard_time": 1719538038,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 673072,
+      "num": 250914,
+      "word": "中医建议气血不足的人学猫生活",
+      "onboard_time": 1719536298,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 658777,
+      "num": 658777,
+      "word": "苏州将追授胡友平见义勇为模范称号",
+      "onboard_time": 1719539777,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653359,
       "num": 653359,
       "word": "苏州公示胡友平见义勇为事迹",
@@ -131,6 +155,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 535392,
+      "num": 535392,
+      "word": "苗苗张予曦没成团",
+      "onboard_time": 1719537498,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 497891,
+      "num": 497891,
+      "word": "隼醒来天塌了",
+      "onboard_time": 1719540198,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 486833,
       "num": 486833,
       "word": "东方甄选主播直播间公开表达不满",
@@ -171,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450896,
-      "num": 450896,
-      "word": "苗苗张予曦没成团",
-      "onboard_time": 1719537498,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424346,
       "num": 243528,
       "word": "2岁女童因尿裤子被打店员大喊报警",
@@ -192,6 +224,14 @@
       "word": "湖人选中布朗尼",
       "onboard_time": 1719529695,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 411942,
+      "num": 411942,
+      "word": "崔永熙签约开拓者",
+      "onboard_time": 1719540078,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -211,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 382053,
+      "num": 382053,
+      "word": "张予曦卡位",
+      "onboard_time": 1719538576,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380263,
       "num": 231316,
       "word": "杨和苏diss",
@@ -227,11 +275,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 335886,
-      "num": 335886,
-      "word": "2024美国总统选举首场辩论",
-      "onboard_time": 1719538038,
-      "rank": 14,
+      "raw_hot": 347411,
+      "num": 347411,
+      "word": "拜登和特朗普今日辩论",
+      "onboard_time": 1719538757,
+      "rank": 28,
       "category": "国外时政"
     },
     {
@@ -241,6 +289,14 @@
       "onboard_time": 1719530475,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328184,
+      "num": 328184,
+      "word": "杨紫白玉兰视后提名片段",
+      "onboard_time": 1719541519,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 322676,
@@ -267,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314831,
-      "num": 250914,
-      "word": "中医建议气血不足的人学猫生活",
-      "onboard_time": 1719536298,
-      "rank": 22,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
@@ -291,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273241,
-      "num": 273241,
-      "word": "张予曦卡位",
-      "onboard_time": 1719538576,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 272018,
+      "num": 515348,
+      "word": "丫丫越胖我们越爱",
+      "onboard_time": 1719538337,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267962,
@@ -379,14 +427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208825,
-      "num": 208825,
-      "word": "拜登和特朗普今日辩论",
-      "onboard_time": 1719538757,
-      "rank": 28,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "李飞说TFBOYS有运气成分在",
@@ -419,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186886,
-      "num": 515348,
-      "word": "丫丫越胖我们越爱",
-      "onboard_time": 1719538337,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 187232,
+      "num": 187232,
+      "word": "法老 开玩笑的龚老师",
+      "onboard_time": 1719530775,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 183868,
@@ -443,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177718,
-      "num": 177718,
-      "word": "法老 开玩笑的龚老师",
-      "onboard_time": 1719530775,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 178842,
+      "num": 178842,
+      "word": "白玉兰",
+      "onboard_time": 1719539239,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 176232,
@@ -481,6 +521,14 @@
       "onboard_time": 1719534318,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 165946,
+      "num": 165946,
+      "word": "嫦娥六号带回1935.3克月球样品",
+      "onboard_time": 1719541997,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164002,
@@ -547,6 +595,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 148591,
+      "num": 148591,
+      "word": "许嵩新歌",
+      "onboard_time": 1719540497,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 146776,
+      "num": 146776,
+      "word": "Digi活死人打起来",
+      "onboard_time": 1719540317,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146650,
       "num": 146650,
       "word": "不想患癌这食物千万別碰",
@@ -603,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131070,
+      "num": 131070,
+      "word": "苏州女子胡友平见义勇为细节",
+      "onboard_time": 1719542178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126622,
       "num": 126622,
       "word": "大奉打更人",
@@ -627,12 +699,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120214,
+      "num": 120214,
+      "word": "武汉暴雨",
+      "onboard_time": 1719541997,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113897,
       "num": 113897,
       "word": "李尚福涉嫌犯罪问题移送军事检察机关",
       "onboard_time": 1719483799,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109491,
+      "num": 109491,
+      "word": "小伙欲用30年重画清明上河图1600人",
+      "onboard_time": 1719541698,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104196,
@@ -835,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63408,
+      "num": 444838,
+      "word": "2人在高过头顶的洪水中被救出",
+      "onboard_time": 1719540497,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
@@ -980,6 +1076,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#进一步全面深化改革推进中国式现代化#"
     }
   ]
 }
