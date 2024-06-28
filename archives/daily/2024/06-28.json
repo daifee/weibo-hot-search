@@ -1,11 +1,19 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719542797652,
+  "endTime": 1719544959096,
   "band_list": [
     {
       "raw_hot": 2259314,
       "num": 2259314,
       "word": "勇救日本母子的中国女子去世",
+      "onboard_time": 1719533838,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1780665,
+      "num": 1780665,
+      "word": "苏州女子为阻止持刀行凶不幸离世",
       "onboard_time": 1719533838,
       "rank": 0,
       "category": "社会新闻"
@@ -17,6 +25,14 @@
       "onboard_time": 1719533477,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1437879,
+      "num": 1437879,
+      "word": "日本驻华大使馆降半旗致敬胡友平",
+      "onboard_time": 1719543078,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1210382,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 673072,
-      "num": 250914,
+      "num": 276136,
       "word": "中医建议气血不足的人学猫生活",
       "onboard_time": 1719536298,
       "rank": 22,
@@ -97,6 +113,14 @@
       "onboard_time": 1719536598,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635489,
+      "num": 635489,
+      "word": "隼醒来天塌了",
+      "onboard_time": 1719540198,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 628121,
@@ -155,20 +179,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 546767,
-      "num": 546767,
-      "word": "隼醒来天塌了",
-      "onboard_time": 1719540198,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 535392,
       "num": 535392,
       "word": "苗苗张予曦没成团",
       "onboard_time": 1719537498,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492245,
+      "num": 492245,
+      "word": "拜登和特朗普开始美国大选首场辩论",
+      "onboard_time": 1719538038,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 486833,
@@ -211,20 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448673,
+      "num": 448673,
+      "word": "杨紫白玉兰视后提名片段",
+      "onboard_time": 1719541519,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 436155,
+      "num": 436155,
+      "word": "武汉暴雨",
+      "onboard_time": 1719541997,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424346,
       "num": 243528,
       "word": "2岁女童因尿裤子被打店员大喊报警",
       "onboard_time": 1719493517,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424250,
-      "num": 424250,
-      "word": "杨紫白玉兰视后提名片段",
-      "onboard_time": 1719541519,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 423656,
@@ -275,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349552,
+      "num": 349552,
+      "word": "苏州女子胡友平见义勇为细节",
+      "onboard_time": 1719542178,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349164,
       "num": 349164,
       "word": "asen",
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318852,
+      "num": 275842,
+      "word": "长期不运动的人身体会怎样",
+      "onboard_time": 1719542538,
+      "rank": 32,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 317882,
       "num": 317882,
       "word": "苏州女子胡友平被提请见义勇为",
@@ -337,6 +385,38 @@
       "onboard_time": 1719536059,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298096,
+      "num": 298096,
+      "word": "于正晒白鹿赵晴剧照",
+      "onboard_time": 1719542837,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285029,
+      "num": 275715,
+      "word": "历届浪姐C位",
+      "onboard_time": 1719544698,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277653,
+      "num": 277653,
+      "word": "嫦娥六号带回1935.3克月球样品",
+      "onboard_time": 1719541997,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 275468,
+      "num": 275468,
+      "word": "美媒发现拜登特朗普没握手",
+      "onboard_time": 1719543679,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 272018,
@@ -427,14 +507,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 204964,
-      "num": 236262,
-      "word": "苏州女子胡友平见义勇为细节",
-      "onboard_time": 1719542178,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "李飞说TFBOYS有运气成分在",
@@ -443,19 +515,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200754,
-      "num": 200754,
-      "word": "嫦娥六号带回1935.3克月球样品",
-      "onboard_time": 1719541997,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193847,
       "num": 193847,
       "word": "女子给狗狗脚擦药突然被亲了一下",
       "onboard_time": 1719534497,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191989,
+      "num": 191989,
+      "word": "胡友平",
+      "onboard_time": 1719534259,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -483,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184496,
+      "num": 184496,
+      "word": "成龙说谢霆锋是当年的我",
+      "onboard_time": 1719542238,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183868,
       "num": 183868,
       "word": "万妮达没成团",
@@ -499,20 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181502,
-      "num": 181502,
-      "word": "成龙说谢霆锋是当年的我",
-      "onboard_time": 1719542238,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 179664,
-      "num": 179664,
-      "word": "武汉暴雨",
-      "onboard_time": 1719541997,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 179750,
+      "num": 179750,
+      "word": "李雪琴事件背后的高考公平",
+      "onboard_time": 1719544938,
+      "rank": 33,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 178894,
@@ -555,12 +627,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 167353,
-      "num": 167353,
-      "word": "长期不运动的人身体会怎样",
-      "onboard_time": 1719542538,
-      "rank": 32,
-      "category": "健康医疗,运动健身"
+      "raw_hot": 167382,
+      "num": 167382,
+      "word": "警方通报内蒙古1家5口遇害",
+      "onboard_time": 1719544758,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 164002,
@@ -619,12 +691,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 150379,
-      "num": 150379,
-      "word": "胡友平",
-      "onboard_time": 1719534259,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 151844,
+      "num": 151844,
+      "word": "尚雯婕第三名",
+      "onboard_time": 1719544878,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 150285,
@@ -667,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142700,
+      "num": 142700,
+      "word": "范丞丞偷感好重",
+      "onboard_time": 1719543138,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141583,
       "num": 141583,
       "word": "约会后像被遗弃的感觉",
@@ -691,12 +771,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133770,
+      "num": 131835,
+      "word": "暗访福寿螺产业链",
+      "onboard_time": 1719544638,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133370,
+      "num": 133370,
+      "word": "张凌赫裴文宣嘴欠但不难哄",
+      "onboard_time": 1719544218,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132318,
       "num": 132318,
       "word": "于正发文介绍新人",
       "onboard_time": 1719502638,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128461,
+      "num": 128461,
+      "word": "小时候意识不到什么是朝九晚五",
+      "onboard_time": 1719543977,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 126622,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1719529334,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 37618,
+      "num": 436554,
+      "word": "外卖员被积水冲走交警拉人链救回",
+      "onboard_time": 1719543858,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 34996,
