@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719588018038,
+  "endTime": 1719588877934,
   "band_list": [
     {
       "raw_hot": 6134722,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2045083,
+      "num": 2045083,
+      "word": "85花 飞升失败",
+      "onboard_time": 1719587422,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1807505,
       "num": 3913204,
       "word": "法院判定玖月晞小南风抄袭",
@@ -113,6 +121,14 @@
       "onboard_time": 1719533838,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1701342,
+      "num": 1701342,
+      "word": "贵州文旅删除所有东方甄选相关视频",
+      "onboard_time": 1719587061,
+      "rank": 6,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1633651,
@@ -137,14 +153,6 @@
       "onboard_time": 1719548479,
       "rank": 44,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1584328,
-      "num": 297744,
-      "word": "85花 飞升失败",
-      "onboard_time": 1719587422,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1521368,
@@ -345,14 +353,6 @@
       "onboard_time": 1719544938,
       "rank": 33,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 904104,
-      "num": 904104,
-      "word": "贵州文旅删除所有东方甄选相关视频",
-      "onboard_time": 1719587061,
-      "rank": 6,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 900949,
@@ -747,6 +747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 550412,
+      "num": 176440,
+      "word": "唐嫣 无论谁获奖都值得庆功",
+      "onboard_time": 1719588021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544611,
       "num": 544611,
       "word": "女子拔牙脸肿6天被误以为遭家暴",
@@ -1012,11 +1020,19 @@
     },
     {
       "raw_hot": 395200,
-      "num": 279500,
+      "num": 299048,
       "word": "广西一小区保安持刀杀害2人",
       "onboard_time": 1719586042,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 392864,
+      "num": 264643,
+      "word": "花儿与少年",
+      "onboard_time": 1719586222,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 382053,
@@ -1075,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354617,
-      "num": 264643,
-      "word": "花儿与少年",
-      "onboard_time": 1719586222,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352418,
       "num": 352418,
       "word": "苏州女子胡友平见义勇为细节",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1719569179,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337700,
+      "num": 294236,
+      "word": "举报人回应被胖东来奖励10万",
+      "onboard_time": 1719587242,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336814,
@@ -1907,14 +1923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189505,
-      "num": 272873,
-      "word": "举报人回应被胖东来奖励10万",
-      "onboard_time": 1719587242,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188674,
       "num": 188674,
       "word": "高考后发现了女儿的隐藏文件",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1719551778,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186297,
+      "num": 186297,
+      "word": "成绩上不了五院四系还报法学吗",
+      "onboard_time": 1719587061,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 185955,
@@ -2123,6 +2139,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172998,
+      "num": 172998,
+      "word": "女子称亡夫13万存款消失账户被注销",
+      "onboard_time": 1719587300,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170929,
       "num": 432774,
       "word": "TTG对战JDG",
@@ -2131,12 +2155,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170170,
-      "num": 170170,
-      "word": "成绩上不了五院四系还报法学吗",
-      "onboard_time": 1719587061,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 169576,
+      "num": 169576,
+      "word": "刘宇宁直播",
+      "onboard_time": 1719587721,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169172,
@@ -2291,14 +2315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154306,
-      "num": 154306,
-      "word": "刘宇宁直播",
-      "onboard_time": 1719587721,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154267,
       "num": 154267,
       "word": "melo",
@@ -2321,6 +2337,14 @@
       "onboard_time": 1719486019,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 152037,
+      "num": 152037,
+      "word": "张凌赫闻香开物理外挂",
+      "onboard_time": 1719588321,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 151681,
@@ -2635,14 +2659,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 126664,
-      "num": 126664,
-      "word": "女子称亡夫13万存款消失账户被注销",
-      "onboard_time": 1719587300,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126622,
       "num": 126622,
       "word": "大奉打更人",
@@ -2683,6 +2699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123979,
+      "num": 123979,
+      "word": "你为什么会爱上同一类人",
+      "onboard_time": 1719585862,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123940,
       "num": 123940,
       "word": "鸣潮更新",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1719563241,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122156,
+      "num": 122156,
+      "word": "是不是每个小孩都有阿贝贝情节",
+      "onboard_time": 1719585684,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 122053,
@@ -3172,7 +3204,7 @@
     },
     {
       "raw_hot": 67853,
-      "num": 284091,
+      "num": 324087,
       "word": "苍山洱海同框遇见红霞满天",
       "onboard_time": 1719587782,
       "rank": 14,
@@ -3219,6 +3251,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 59602,
+      "num": 269798,
+      "word": "绝区零你好能藏",
+      "onboard_time": 1719584663,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58788,
       "num": 210937,
       "word": "女生用16天救被困10米深井小猫",
@@ -3233,14 +3273,6 @@
       "onboard_time": 1719543858,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 54566,
-      "num": 269798,
-      "word": "绝区零你好能藏",
-      "onboard_time": 1719584663,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 53895,
@@ -3283,7 +3315,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 50913,
+      "raw_hot": 51743,
       "num": 276533,
       "word": "凡希亚一句好喝拿捏中文",
       "onboard_time": 1719584364,
@@ -3379,6 +3411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36791,
+      "num": 142584,
+      "word": "停止内耗的方式是立刻运动",
+      "onboard_time": 1719587242,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 34996,
       "num": 92398,
       "word": "并蒂莲和同心莲同框绽放",
@@ -3435,7 +3475,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25220,
+      "raw_hot": 29159,
       "num": 260177,
       "word": "绝区零唱出我的精神状况",
       "onboard_time": 1719585084,
@@ -3449,14 +3489,6 @@
       "onboard_time": 1719556756,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21905,
-      "num": 142584,
-      "word": "停止内耗的方式是立刻运动",
-      "onboard_time": 1719587242,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 21595,
