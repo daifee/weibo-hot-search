@@ -1,0 +1,410 @@
+{
+  "runTime": 1719559163382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193418,
+        "num": 1193418,
+        "word": "驻日美军诱拐强暴日本少女",
+        "onboard_time": 1719553219,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966159,
+        "num": 966159,
+        "word": "四川地震",
+        "onboard_time": 1719556098,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29467,
+        "num": 809062,
+        "word": "苏州将追授胡友平见义勇为模范称号",
+        "onboard_time": 1719539777,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728908,
+        "num": 728908,
+        "word": "人民日报评胡友平见义勇为",
+        "onboard_time": 1719556879,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709424,
+        "num": 709424,
+        "word": "有人买4份餐领走胖东来4000元",
+        "onboard_time": 1719556217,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571302,
+        "num": 571302,
+        "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
+        "onboard_time": 1719557239,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544611,
+        "num": 544611,
+        "word": "女子拔牙脸肿6天被误以为遭家暴",
+        "onboard_time": 1719554897,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469930,
+        "num": 469930,
+        "word": "我和高圆圆点外卖区别",
+        "onboard_time": 1719557958,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412940,
+        "num": 412940,
+        "word": "台湾情侣遭偷拍视频被传台版N号房",
+        "onboard_time": 1719550938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31810,
+        "num": 392497,
+        "word": "警方带你揭秘境外招工骗局",
+        "onboard_time": 1719558019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385528,
+        "num": 385528,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 10,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 381162,
+        "num": 381162,
+        "word": "歌手2024冲榜歌手露西娅",
+        "onboard_time": 1719555138,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308057,
+        "num": 308057,
+        "word": "是谁在买3.5元一杯的冰杯",
+        "onboard_time": 1719531317,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 302105,
+        "num": 302105,
+        "word": "奔跑吧今晚男生女生向前冲",
+        "onboard_time": 1719558019,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294075,
+        "num": 294075,
+        "word": "偶遇杜江一家遛珍珠",
+        "onboard_time": 1719554178,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282932,
+        "num": 282932,
+        "word": "黄晓明12年后杀回创一代赛道",
+        "onboard_time": 1719550279,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259800,
+        "num": 259800,
+        "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+        "onboard_time": 1719549139,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258866,
+        "num": 258866,
+        "word": "陈昊宇总冠军",
+        "onboard_time": 1719533477,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243655,
+        "num": 243655,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215882,
+        "num": 215882,
+        "word": "苏州女子为阻止持刀行凶不幸离世",
+        "onboard_time": 1719533838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224114,
+        "num": 204465,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192181,
+        "num": 192181,
+        "word": "微信怎么删好友不被发现",
+        "onboard_time": 1719545479,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186866,
+        "num": 186866,
+        "word": "蜜雪冰城客服回应新品被吐槽有脚味",
+        "onboard_time": 1719555017,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "隼醒来天塌了",
+        "onboard_time": 1719540198,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176954,
+        "num": 176954,
+        "word": "李梦回应负面评价",
+        "onboard_time": 1719558737,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174438,
+        "num": 174438,
+        "word": "长相思第二季首发剧照",
+        "onboard_time": 1719550340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166666,
+        "num": 166666,
+        "word": "刘亦菲感谢吴彦姝的鼓励",
+        "onboard_time": 1719557479,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164493,
+        "num": 164493,
+        "word": "长期不运动的人身体会怎样",
+        "onboard_time": 1719542538,
+        "rank": 27,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "美国白人夫妇将收养的黑人孩子当奴隶",
+        "onboard_time": 1719554117,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151442,
+        "num": 151442,
+        "word": "川普说霉霉非常漂亮",
+        "onboard_time": 1719551358,
+        "rank": 29,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 315393,
+        "num": 150196,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147126,
+        "num": 147126,
+        "word": "恋与制作人夏夜特别展映",
+        "onboard_time": 1719558798,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140029,
+        "num": 140029,
+        "word": "东方财富",
+        "onboard_time": 1719556398,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139707,
+        "num": 139707,
+        "word": "大四女生举报学院书记性骚扰后续",
+        "onboard_time": 1719549739,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134005,
+        "num": 134005,
+        "word": "王者荣耀更新之后不会玩了",
+        "onboard_time": 1719558498,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132579,
+        "num": 132579,
+        "word": "晒不干的衣服为什么会发臭",
+        "onboard_time": 1719551897,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115322,
+        "num": 132490,
+        "word": "中医建议气血不足的人学猫生活",
+        "onboard_time": 1719536298,
+        "rank": 36,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 114065,
+        "num": 131158,
+        "word": "王星越墨雨云间收官长文",
+        "onboard_time": 1719555318,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113907,
+        "num": 130904,
+        "word": "我吹爆这本小说",
+        "onboard_time": 1719549139,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113789,
+        "num": 129762,
+        "word": "melo",
+        "onboard_time": 1719555799,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110879,
+        "num": 129296,
+        "word": "美国中低产7人家庭的晚餐",
+        "onboard_time": 1719550040,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 128153,
+        "word": "TKL对战TES",
+        "onboard_time": 1719558679,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106172,
+        "num": 127551,
+        "word": "特朗普和拜登激烈交锋",
+        "onboard_time": 1719545118,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 104492,
+        "num": 127124,
+        "word": "度华年 牛牛向钱冲",
+        "onboard_time": 1719558917,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 126387,
+        "word": "边牧为什么把我和狗关在一起",
+        "onboard_time": 1719556699,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101795,
+        "num": 125174,
+        "word": "减肥实际在增肥的9种行为",
+        "onboard_time": 1719546800,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98548,
+        "num": 124528,
+        "word": "男朋友擅自给我安排一天计划",
+        "onboard_time": 1719559039,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97166,
+        "num": 124064,
+        "word": "不知火新皮肤",
+        "onboard_time": 1719557538,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95728,
+        "num": 123206,
+        "word": "拜登说这辈子没听过这么多胡言乱语",
+        "onboard_time": 1719552858,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 122326,
+        "word": "陈瑶演个上官婉儿我看看",
+        "onboard_time": 1719559098,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#和平共处五项原则70周年纪念大会#"
+    }
+  }
+}

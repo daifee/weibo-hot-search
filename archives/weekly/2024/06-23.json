@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719556789651,
+  "endTime": 1719559163382,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193418,
+      "num": 1193418,
+      "word": "驻日美军诱拐强暴日本少女",
+      "onboard_time": 1719553219,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1182737,
       "num": 1182737,
       "word": "日本决定将大陆架扩大12万平方公里",
@@ -1051,20 +1059,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 969655,
-      "num": 969655,
-      "word": "驻日美军诱拐强暴日本少女",
-      "onboard_time": 1719553219,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 968426,
       "num": 968426,
       "word": "iPhone16全系尺寸曝光",
       "onboard_time": 1719152301,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 966159,
+      "num": 966159,
+      "word": "四川地震",
+      "onboard_time": 1719556098,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 957227,
@@ -1723,6 +1731,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 728908,
+      "num": 728908,
+      "word": "人民日报评胡友平见义勇为",
+      "onboard_time": 1719556879,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728670,
       "num": 728670,
       "word": "云南丽江4.4级左右地震",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1719473357,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709424,
+      "num": 709424,
+      "word": "有人买4份餐领走胖东来4000元",
+      "onboard_time": 1719556217,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707514,
@@ -2595,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571302,
+      "num": 571302,
+      "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
+      "onboard_time": 1719557239,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567137,
       "num": 567137,
       "word": "难哄杀青",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1719307759,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544611,
+      "num": 544611,
+      "word": "女子拔牙脸肿6天被误以为遭家暴",
+      "onboard_time": 1719554897,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544306,
@@ -3361,6 +3401,14 @@
       "onboard_time": 1719180431,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469930,
+      "num": 469930,
+      "word": "我和高圆圆点外卖区别",
+      "onboard_time": 1719557958,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 469228,
@@ -4209,14 +4257,6 @@
       "onboard_time": 1719456376,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 399986,
-      "num": 350157,
-      "word": "女子拔牙脸肿6天被误以为遭家暴",
-      "onboard_time": 1719554897,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399910,
@@ -5235,12 +5275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315387,
-      "num": 315387,
-      "word": "四川地震",
-      "onboard_time": 1719556098,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 315393,
+      "num": 150196,
+      "word": "俄罗斯将1万移民送往俄乌前线",
+      "onboard_time": 1719557538,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 315117,
@@ -5409,6 +5449,14 @@
       "onboard_time": 1719370818,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302105,
+      "num": 302105,
+      "word": "奔跑吧今晚男生女生向前冲",
+      "onboard_time": 1719558019,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 301479,
@@ -5833,14 +5881,6 @@
       "onboard_time": 1719199937,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 277996,
-      "num": 277996,
-      "word": "有人买4份餐领走胖东来4000元",
-      "onboard_time": 1719556217,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277740,
@@ -9227,6 +9267,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 176954,
+      "num": 176954,
+      "word": "李梦回应负面评价",
+      "onboard_time": 1719558737,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176950,
       "num": 176950,
       "word": "张艺兴新专辑隐藏曲目",
@@ -9792,6 +9840,14 @@
       "word": "大奉打更人预告repo",
       "onboard_time": 1719156438,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166666,
+      "num": 166666,
+      "word": "刘亦菲感谢吴彦姝的鼓励",
+      "onboard_time": 1719557479,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -11131,6 +11187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147126,
+      "num": 147126,
+      "word": "恋与制作人夏夜特别展映",
+      "onboard_time": 1719558798,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147104,
       "num": 193094,
       "word": "刘亦菲演技",
@@ -11913,6 +11977,14 @@
       "onboard_time": 1719490519,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134005,
+      "num": 134005,
+      "word": "王者荣耀更新之后不会玩了",
+      "onboard_time": 1719558498,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 133748,
@@ -13435,6 +13507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110768,
+      "num": 128153,
+      "word": "TKL对战TES",
+      "onboard_time": 1719558679,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110648,
       "num": 110648,
       "word": "男生查分母亲准备戴金牌仪式庆祝",
@@ -13716,7 +13796,7 @@
     },
     {
       "raw_hot": 104753,
-      "num": 104753,
+      "num": 126387,
       "word": "边牧为什么把我和狗关在一起",
       "onboard_time": 1719556699,
       "rank": 48,
@@ -13729,6 +13809,14 @@
       "onboard_time": 1719357795,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104492,
+      "num": 127124,
+      "word": "度华年 牛牛向钱冲",
+      "onboard_time": 1719558917,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 104384,
@@ -14019,6 +14107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98548,
+      "num": 124528,
+      "word": "男朋友擅自给我安排一天计划",
+      "onboard_time": 1719559039,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98120,
       "num": 98120,
       "word": "阿Sa直播徐明浩换衣服",
@@ -14089,6 +14185,14 @@
       "onboard_time": 1719129617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97166,
+      "num": 124064,
+      "word": "不知火新皮肤",
+      "onboard_time": 1719557538,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 97157,
@@ -14273,6 +14377,14 @@
       "onboard_time": 1719444135,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89177,
+      "num": 122326,
+      "word": "陈瑶演个上官婉儿我看看",
+      "onboard_time": 1719559098,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 89171,
@@ -15769,6 +15881,14 @@
       "onboard_time": 1719155178,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 31810,
+      "num": 392497,
+      "word": "警方带你揭秘境外招工骗局",
+      "onboard_time": 1719558019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31575,
