@@ -1,0 +1,410 @@
+{
+  "runTime": 1719617791160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 830200,
+        "num": 830200,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 613540,
+        "num": 613540,
+        "word": "85花 飞升失败",
+        "onboard_time": 1719587422,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35657,
+        "num": 482933,
+        "word": "中国空间站舷窗大片上新",
+        "onboard_time": 1719581184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457084,
+        "num": 457084,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419561,
+        "num": 419561,
+        "word": "双胞胎体重相差150斤同框反差太大",
+        "onboard_time": 1719596114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363157,
+        "num": 363157,
+        "word": "姜妍好美",
+        "onboard_time": 1719578539,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345020,
+        "num": 345020,
+        "word": "全球变暖致珠峰200多具遗体显露",
+        "onboard_time": 1719580523,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318075,
+        "num": 318075,
+        "word": "杨紫遗憾没到白玉兰现场",
+        "onboard_time": 1719591858,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303382,
+        "num": 303382,
+        "word": "东方甄选主播回应公开吐槽公司",
+        "onboard_time": 1719597193,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37239,
+        "num": 290786,
+        "word": "炸串店夫妻回应婴儿饿哭骑手帮哄",
+        "onboard_time": 1719616695,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289769,
+        "num": 289769,
+        "word": "举报人回应被胖东来奖励10万",
+        "onboard_time": 1719587242,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282332,
+        "num": 282332,
+        "word": "白玉兰获奖名单",
+        "onboard_time": 1719582565,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227226,
+        "num": 227226,
+        "word": "陈晓给刘亦菲提裙子",
+        "onboard_time": 1719578720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223455,
+        "num": 223455,
+        "word": "殷世航傲娇美官宣恋情",
+        "onboard_time": 1719582505,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219469,
+        "num": 219469,
+        "word": "85花 手拉手",
+        "onboard_time": 1719599292,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217539,
+        "num": 217539,
+        "word": "女子称亡夫13万存款消失账户被注销",
+        "onboard_time": 1719587300,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196445,
+        "num": 196445,
+        "word": "房东上门催租发现家里被卖空",
+        "onboard_time": 1719582323,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106652,
+        "num": 106652,
+        "word": "柬埔寨拥有千套房房东枪杀租客",
+        "onboard_time": 1719581902,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106566,
+        "num": 106566,
+        "word": "男子清华毕业1年重新高考学中医",
+        "onboard_time": 1719589219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96560,
+        "num": 106532,
+        "word": "广西一小区保安持刀杀害2人",
+        "onboard_time": 1719586042,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 223283,
+        "num": 106183,
+        "word": "同居后分手男方要女方退还全部彩礼",
+        "onboard_time": 1719598153,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192245,
+        "num": 105791,
+        "word": "白玉兰",
+        "onboard_time": 1719616815,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185753,
+        "num": 105346,
+        "word": "胡歌二封白玉兰视帝",
+        "onboard_time": 1719581723,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176392,
+        "num": 104895,
+        "word": "万茜把发尾染绿了",
+        "onboard_time": 1719570439,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125930,
+        "num": 104625,
+        "word": "矿泉水湿敷半个月后",
+        "onboard_time": 1719579441,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 104167,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104010,
+        "num": 104010,
+        "word": "凡希亚吃了几个邓紫棋",
+        "onboard_time": 1719581122,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102161,
+        "num": 102161,
+        "word": "为什么空调开26度时有臭味",
+        "onboard_time": 1719587481,
+        "rank": 27,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 100423,
+        "num": 100423,
+        "word": "减肥的尽头是养代谢",
+        "onboard_time": 1719612672,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61108,
+        "num": 96423,
+        "word": "成绩上不了五院四系还报法学吗",
+        "onboard_time": 1719587061,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95268,
+        "num": 95268,
+        "word": "出分后我爸直接给了四年生活费",
+        "onboard_time": 1719617355,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93816,
+        "num": 93816,
+        "word": "刘亦菲 我爱赵盼儿许红豆黄亦玫",
+        "onboard_time": 1719616034,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91545,
+        "num": 91545,
+        "word": "歌手排名",
+        "onboard_time": 1719583585,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85695,
+        "num": 85695,
+        "word": "一盘鱼籽炒鸡蛋放倒4个人",
+        "onboard_time": 1719617055,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85526,
+        "num": 85526,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 85240,
+        "num": 85240,
+        "word": "范伟 可惜",
+        "onboard_time": 1719616034,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84489,
+        "num": 84489,
+        "word": "周迅二封白玉兰视后",
+        "onboard_time": 1719581662,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74529,
+        "num": 74529,
+        "word": "韩国人流行爬山顶吃泡面",
+        "onboard_time": 1719617234,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73900,
+        "num": 73900,
+        "word": "一个久坐的屁股有多丑",
+        "onboard_time": 1719581425,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73026,
+        "num": 73026,
+        "word": "章子怡张雪迎张天爱健身合照",
+        "onboard_time": 1719608770,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71156,
+        "num": 71156,
+        "word": "谭维维第一",
+        "onboard_time": 1719586103,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82329,
+        "num": 70454,
+        "word": "周迅口碑",
+        "onboard_time": 1719616153,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63324,
+        "num": 63324,
+        "word": "合肥暴雨",
+        "onboard_time": 1719616815,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61788,
+        "num": 61788,
+        "word": "25岁来欧洲半年长高了5厘米",
+        "onboard_time": 1719617294,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60748,
+        "num": 60748,
+        "word": "当妹妹报考大学却有个姐姐时",
+        "onboard_time": 1719602351,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 61746,
+        "num": 60428,
+        "word": "谭维维给我听爽了",
+        "onboard_time": 1719583228,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58911,
+        "num": 58911,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55337,
+        "num": 58910,
+        "word": "白敬亭恭喜姜妍",
+        "onboard_time": 1719585144,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52558,
+        "num": 58910,
+        "word": "歌手直播",
+        "onboard_time": 1719575777,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46787,
+        "num": 58910,
+        "word": "汪苏泷又又又唱大众金曲",
+        "onboard_time": 1719616034,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同秘鲁总统会谈#"
+    }
+  }
+}

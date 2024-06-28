@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719616808014,
+  "endTime": 1719617791160,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -4531,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419561,
+      "num": 419561,
+      "word": "双胞胎体重相差150斤同框反差太大",
+      "onboard_time": 1719596114,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417997,
       "num": 290339,
       "word": "睡前有这5个习惯的人易胖肚子",
@@ -5225,14 +5233,6 @@
       "onboard_time": 1719281299,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 358993,
-      "num": 358993,
-      "word": "双胞胎体重相差150斤同框反差太大",
-      "onboard_time": 1719596114,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358977,
@@ -6099,6 +6099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303382,
+      "num": 303382,
+      "word": "东方甄选主播回应公开吐槽公司",
+      "onboard_time": 1719597193,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 303378,
       "num": 303378,
       "word": "女孩幼儿园噎住身亡家长索赔数百万",
@@ -6769,14 +6777,6 @@
       "onboard_time": 1719109218,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 268837,
-      "num": 268837,
-      "word": "东方甄选主播回应公开吐槽公司",
-      "onboard_time": 1719597193,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 268022,
@@ -7859,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223283,
+      "num": 106183,
+      "word": "同居后分手男方要女方退还全部彩礼",
+      "onboard_time": 1719598153,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223120,
       "num": 376718,
       "word": "于适资源",
@@ -8009,6 +8017,14 @@
       "onboard_time": 1719454157,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219469,
+      "num": 219469,
+      "word": "85花 手拉手",
+      "onboard_time": 1719599292,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 219377,
@@ -9091,14 +9107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199038,
-      "num": 91983,
-      "word": "同居后分手男方要女方退还全部彩礼",
-      "onboard_time": 1719598153,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198996,
       "num": 198996,
       "word": "WBG更换首发辅助",
@@ -9809,14 +9817,6 @@
       "onboard_time": 1719475577,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186923,
-      "num": 186923,
-      "word": "85花 手拉手",
-      "onboard_time": 1719599292,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 186795,
@@ -15627,6 +15627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100423,
+      "num": 100423,
+      "word": "减肥的尽头是养代谢",
+      "onboard_time": 1719612672,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 100409,
       "num": 830964,
       "word": "女生高考考出目标分震惊不敢信",
@@ -15915,6 +15923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95268,
+      "num": 95268,
+      "word": "出分后我爸直接给了四年生活费",
+      "onboard_time": 1719617355,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95249,
       "num": 577487,
       "word": "宇宙快递开箱了",
@@ -15945,6 +15961,14 @@
       "onboard_time": 1719190399,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93816,
+      "num": 93816,
+      "word": "刘亦菲 我爱赵盼儿许红豆黄亦玫",
+      "onboard_time": 1719616034,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 93053,
@@ -16131,12 +16155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85736,
-      "num": 85736,
-      "word": "减肥的尽头是养代谢",
-      "onboard_time": 1719612672,
-      "rank": 46,
-      "category": "运动健身"
+      "raw_hot": 85695,
+      "num": 85695,
+      "word": "一盘鱼籽炒鸡蛋放倒4个人",
+      "onboard_time": 1719617055,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 85514,
@@ -16145,6 +16169,14 @@
       "onboard_time": 1719237441,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85240,
+      "num": 85240,
+      "word": "范伟 可惜",
+      "onboard_time": 1719616034,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 84638,
@@ -16232,6 +16264,14 @@
       "word": "白玉兰每年遛一个85花",
       "onboard_time": 1719596053,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82329,
+      "num": 70454,
+      "word": "周迅口碑",
+      "onboard_time": 1719616153,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -16403,6 +16443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74529,
+      "num": 74529,
+      "word": "韩国人流行爬山顶吃泡面",
+      "onboard_time": 1719617234,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74384,
       "num": 74384,
       "word": "7折保时捷5折BBA",
@@ -16425,6 +16473,14 @@
       "onboard_time": 1719206838,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73026,
+      "num": 73026,
+      "word": "章子怡张雪迎张天爱健身合照",
+      "onboard_time": 1719608770,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 72767,
@@ -16465,14 +16521,6 @@
       "onboard_time": 1719104537,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71078,
-      "num": 71078,
-      "word": "刘亦菲 我爱赵盼儿许红豆黄亦玫",
-      "onboard_time": 1719616034,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 70446,
@@ -16715,6 +16763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 63324,
+      "num": 63324,
+      "word": "合肥暴雨",
+      "onboard_time": 1719616815,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62662,
       "num": 539822,
       "word": "1米6青岛大姨海浪中背出1米8老人",
@@ -16729,6 +16785,14 @@
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61788,
+      "num": 61788,
+      "word": "25岁来欧洲半年长高了5厘米",
+      "onboard_time": 1719617294,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61670,
@@ -16753,6 +16817,14 @@
       "onboard_time": 1719415999,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60748,
+      "num": 60748,
+      "word": "当妹妹报考大学却有个姐姐时",
+      "onboard_time": 1719602351,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 60650,
@@ -16889,14 +16961,6 @@
       "onboard_time": 1719395119,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56951,
-      "num": 56951,
-      "word": "范伟 可惜",
-      "onboard_time": 1719616034,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 56694,
@@ -17163,14 +17227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50003,
-      "num": 50003,
-      "word": "当妹妹报考大学却有个姐姐时",
-      "onboard_time": 1719602351,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 49816,
       "num": 377096,
       "word": "妈妈生病6岁儿子挂号缴费守着输液瓶",
@@ -17201,14 +17257,6 @@
       "onboard_time": 1719247575,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48570,
-      "num": 48570,
-      "word": "周迅口碑",
-      "onboard_time": 1719616153,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 48406,
@@ -17403,14 +17451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42277,
-      "num": 42277,
-      "word": "章子怡张雪迎张天爱健身合照",
-      "onboard_time": 1719608770,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41565,
       "num": 311988,
       "word": "这些大学容易被忽视且性价比高",
@@ -17601,6 +17641,14 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37239,
+      "num": 290786,
+      "word": "炸串店夫妻回应婴儿饿哭骑手帮哄",
+      "onboard_time": 1719616695,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36798,
@@ -17928,14 +17976,6 @@
       "word": "医学类大学和学院差距大吗",
       "onboard_time": 1719302479,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28410,
-      "num": 90848,
-      "word": "炸串店夫妻回应婴儿饿哭骑手帮哄",
-      "onboard_time": 1719616695,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
