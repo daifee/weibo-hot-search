@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719531274928,
+  "endTime": 1719537673560,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -73,6 +73,14 @@
       "onboard_time": 1719145517,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2259314,
+      "num": 2259314,
+      "word": "勇救日本母子的中国女子去世",
+      "onboard_time": 1719533838,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2189917,
@@ -321,6 +329,14 @@
       "onboard_time": 1719448218,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1614931,
+      "num": 1614931,
+      "word": "陈昊宇总冠军",
+      "onboard_time": 1719533477,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1609804,
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1210382,
+      "num": 1210382,
+      "word": "王艳儿子 高水平运动员考试",
+      "onboard_time": 1719535339,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1204354,
       "num": 962971,
       "word": "李雪琴高考分数",
@@ -817,6 +841,14 @@
       "onboard_time": 1719273799,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1068476,
+      "num": 1068476,
+      "word": "是谁在买3.5元一杯的冰杯",
+      "onboard_time": 1719531317,
+      "rank": 4,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1067223,
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887982,
+      "num": 887982,
+      "word": "胖的根本原因",
+      "onboard_time": 1719533477,
+      "rank": 5,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 882974,
       "num": 882974,
       "word": "大四女生退学后复读5个月考641分",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1719371658,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 787350,
+      "num": 275692,
+      "word": "李雪琴陷体育加分风波",
+      "onboard_time": 1719526572,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 773423,
@@ -2139,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624155,
+      "num": 624155,
+      "word": "阿根廷向我国返还14件文物",
+      "onboard_time": 1719533538,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 623155,
       "num": 521006,
       "word": "肖战陈情令在日本有多火",
@@ -2163,6 +2219,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 612564,
+      "num": 612564,
+      "word": "苏州公示胡友平见义勇为事迹",
+      "onboard_time": 1719536598,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611963,
       "num": 611963,
       "word": "12366回应个税APP新增5项个人所得",
@@ -2177,6 +2241,14 @@
       "onboard_time": 1719303079,
       "rank": 41,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 609540,
+      "num": 609540,
+      "word": "杨和苏 Asen",
+      "onboard_time": 1719531738,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 605369,
@@ -2201,6 +2273,14 @@
       "onboard_time": 1719221717,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 603577,
+      "num": 603577,
+      "word": "乘风2024 成团名单",
+      "onboard_time": 1719532037,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 601494,
@@ -2939,6 +3019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 486833,
+      "num": 486833,
+      "word": "东方甄选主播直播间公开表达不满",
+      "onboard_time": 1719531375,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 485991,
       "num": 405901,
       "word": "陈昊宇 弹幕",
@@ -3009,6 +3097,14 @@
       "onboard_time": 1719138738,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 477154,
+      "num": 477154,
+      "word": "iPhone16电池或更易更换",
+      "onboard_time": 1719531917,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 477084,
@@ -3900,7 +3996,7 @@
     },
     {
       "raw_hot": 397775,
-      "num": 208044,
+      "num": 240184,
       "word": "洞鞋的苹果被两个阿姨抓了",
       "onboard_time": 1719493157,
       "rank": 30,
@@ -3969,14 +4065,6 @@
       "onboard_time": 1719216920,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 387905,
-      "num": 112865,
-      "word": "李雪琴陷体育加分风波",
-      "onboard_time": 1719526572,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 387626,
@@ -4579,6 +4667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331270,
+      "num": 331270,
+      "word": "Asen diss",
+      "onboard_time": 1719530475,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330856,
       "num": 330856,
       "word": "永劫无间张起灵",
@@ -4723,20 +4819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320892,
-      "num": 185586,
-      "word": "Asen diss",
-      "onboard_time": 1719530475,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 320583,
       "num": 320583,
       "word": "嫦娥六号带回月背土特产",
       "onboard_time": 1719296480,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 320463,
+      "num": 320463,
+      "word": "陈昊宇 黑马",
+      "onboard_time": 1719535639,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 319454,
@@ -4767,6 +4863,14 @@
       "num": 318471,
       "word": "各方回应七岁女孩吃面包噎住不幸离世",
       "onboard_time": 1719276020,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317882,
+      "num": 317882,
+      "word": "苏州女子胡友平被提请见义勇为",
+      "onboard_time": 1719534618,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -5025,6 +5129,14 @@
       "onboard_time": 1719479297,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 298810,
+      "num": 298810,
+      "word": "王者荣耀策划",
+      "onboard_time": 1719536059,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 298394,
@@ -5635,6 +5747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261094,
+      "num": 261094,
+      "word": "喝咖啡记得提前45分钟喝",
+      "onboard_time": 1719535459,
+      "rank": 21,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 260494,
       "num": 260494,
       "word": "弟弟高考失利还要把礼物给他吗",
@@ -5763,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249706,
+      "num": 249706,
+      "word": "中医建议气血不足的人学猫生活",
+      "onboard_time": 1719536298,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -5793,6 +5921,14 @@
       "onboard_time": 1719468020,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247124,
+      "num": 247124,
+      "word": "拜登特朗普首场辩论将强制闭麦",
+      "onboard_time": 1719534378,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 246904,
@@ -6073,6 +6209,14 @@
       "onboard_time": 1719311239,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234767,
+      "num": 234767,
+      "word": "郑妮可没成团",
+      "onboard_time": 1719534018,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234237,
@@ -6427,6 +6571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221805,
+      "num": 221805,
+      "word": "韩雪成团",
+      "onboard_time": 1719533477,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221635,
       "num": 221635,
       "word": "LGD战胜BLG",
@@ -6683,6 +6835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213796,
+      "num": 213796,
+      "word": "为了坐高铁不吵到别人买了个包菜",
+      "onboard_time": 1719531676,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213746,
       "num": 213746,
       "word": "学生高考695分老师笑称考得有点多",
@@ -6777,6 +6937,14 @@
       "onboard_time": 1719414499,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210252,
+      "num": 210252,
+      "word": "Angelababy和爱马仕总监合影",
+      "onboard_time": 1719535879,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209779,
@@ -7715,6 +7883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193847,
+      "num": 193847,
+      "word": "女子给狗狗脚擦药突然被亲了一下",
+      "onboard_time": 1719534497,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193459,
       "num": 193459,
       "word": "伞兵 嫁妆",
@@ -8219,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183868,
+      "num": 183868,
+      "word": "万妮达没成团",
+      "onboard_time": 1719536420,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183654,
       "num": 183654,
       "word": "大奉打更人  抬上来",
@@ -8555,6 +8739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176232,
+      "num": 176232,
+      "word": "刘忻第六",
+      "onboard_time": 1719536839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176200,
       "num": 176200,
       "word": "青环全员cha小鬼新歌",
@@ -8665,6 +8857,14 @@
       "onboard_time": 1719098592,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173829,
+      "num": 173829,
+      "word": "在死海旁捡到珍珠一样的盐粒",
+      "onboard_time": 1719534318,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 173516,
@@ -9267,6 +9467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162580,
+      "num": 162580,
+      "word": "谢霆锋从16岁开始就不化妆",
+      "onboard_time": 1719534078,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162578,
       "num": 171068,
       "word": "高校招生版神转场",
@@ -9563,6 +9771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157563,
+      "num": 157563,
+      "word": "为什么不建议和女朋友一起看球",
+      "onboard_time": 1719533959,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157487,
       "num": 157487,
       "word": "吴谨言王星越二搭一个看看实力",
@@ -9763,6 +9979,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 155297,
+      "num": 155297,
+      "word": "崔永熙落选",
+      "onboard_time": 1719531616,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155210,
       "num": 155210,
       "word": "度华年 古装版再见爱人",
@@ -9833,6 +10057,14 @@
       "onboard_time": 1719310159,
       "rank": 33,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 154451,
+      "num": 154451,
+      "word": "Jarstick秒删",
+      "onboard_time": 1719533538,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 154244,
@@ -10363,6 +10595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146650,
+      "num": 146650,
+      "word": "不想患癌这食物千万別碰",
+      "onboard_time": 1719536658,
+      "rank": 41,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 146297,
       "num": 146297,
       "word": "湖北分数线",
@@ -10667,6 +10907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140555,
+      "num": 140555,
+      "word": "胡友平",
+      "onboard_time": 1719534259,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140412,
       "num": 140412,
       "word": "山东不愧是考公大省",
@@ -10761,6 +11009,22 @@
       "onboard_time": 1719375380,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138775,
+      "num": 138775,
+      "word": "一图四象限居然真的存在",
+      "onboard_time": 1719536957,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138774,
+      "num": 138774,
+      "word": "苗苗张予曦没成团",
+      "onboard_time": 1719537498,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 138670,
@@ -11657,6 +11921,14 @@
       "onboard_time": 1719386117,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "2024高考树洞",
+      "onboard_time": 1719537078,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 124438,
@@ -14251,6 +14523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 48406,
+      "num": 211917,
+      "word": "女大学生帮口音重大叔录音卖栗子",
+      "onboard_time": 1719537618,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48274,
       "num": 384305,
       "word": "195斤父亲一个月暴瘦30斤割肝救女",
@@ -14455,6 +14735,14 @@
       "num": 1032890,
       "word": "千年运河从历史流向未来",
       "onboard_time": 1719153500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40908,
+      "num": 1216537,
+      "word": "北疆网络普法行",
+      "onboard_time": 1719534980,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -14697,6 +14985,14 @@
       "onboard_time": 1719312017,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 33557,
+      "num": 332568,
+      "word": "他们是守望草原的护边人",
+      "onboard_time": 1719536839,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 33234,
