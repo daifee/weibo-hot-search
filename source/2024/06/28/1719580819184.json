@@ -1,0 +1,410 @@
+{
+  "runTime": 1719580819184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4229022,
+        "num": 4229022,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2936242,
+        "num": 2936242,
+        "word": "孙楠破音",
+        "onboard_time": 1719580042,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51465,
+        "num": 2802133,
+        "word": "法治网事",
+        "onboard_time": 1719580282,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2727989,
+        "num": 2727989,
+        "word": "歌手直播",
+        "onboard_time": 1719575777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2062142,
+        "num": 2062142,
+        "word": "汪苏泷 人美歌甜",
+        "onboard_time": 1719578300,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490642,
+        "num": 1286134,
+        "word": "员工儿子高考718分公司奖10万",
+        "onboard_time": 1719565638,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 671694,
+        "num": 671694,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 6,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 411162,
+        "num": 670708,
+        "word": "阿尔茨海默病特效药药店已上架",
+        "onboard_time": 1719579139,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360350,
+        "num": 669666,
+        "word": "高铁座被孕妇暂坐男子假装没看见",
+        "onboard_time": 1719569601,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32092,
+        "num": 667292,
+        "word": "医院保安们听到一声召唤集体救人",
+        "onboard_time": 1719580100,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1515857,
+        "num": 667094,
+        "word": "陈晓给刘亦菲提裙子",
+        "onboard_time": 1719578720,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1485083,
+        "num": 665308,
+        "word": "那英哭了",
+        "onboard_time": 1719577578,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1157828,
+        "num": 664137,
+        "word": "姜妍好美",
+        "onboard_time": 1719578539,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662870,
+        "num": 662870,
+        "word": "中国奥委会确认王楚钦樊振东单打资格",
+        "onboard_time": 1719579139,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332007,
+        "num": 659828,
+        "word": "人工智能或成最火爆专业",
+        "onboard_time": 1719576017,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 78892,
+        "num": 656443,
+        "word": "想买MPV和SUV的人看完都沉默了",
+        "onboard_time": 1719578720,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 786464,
+        "num": 655787,
+        "word": "陈晓光头出席白玉兰",
+        "onboard_time": 1719578000,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37218,
+        "num": 650935,
+        "word": "绝区零开服送180抽",
+        "onboard_time": 1719579260,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 302634,
+        "num": 647745,
+        "word": "印尼逮捕103名台湾人",
+        "onboard_time": 1719577398,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215916,
+        "num": 643826,
+        "word": "熊祁 杀生丸cos",
+        "onboard_time": 1719576977,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 2255365,
+        "num": 639566,
+        "word": "万茜把发尾染绿了",
+        "onboard_time": 1719570439,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638811,
+        "num": 638811,
+        "word": "汪苏泷又又好听了",
+        "onboard_time": 1719578421,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620291,
+        "num": 620291,
+        "word": "孙楠塑料粤语",
+        "onboard_time": 1719579081,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613547,
+        "num": 613547,
+        "word": "黄宣加了陶喆的沙滩",
+        "onboard_time": 1719578600,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429815,
+        "num": 590879,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 587832,
+        "num": 587832,
+        "word": "那英直播间请假",
+        "onboard_time": 1719577759,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551156,
+        "num": 551156,
+        "word": "张小斐衣领 没把我们当外人",
+        "onboard_time": 1719570917,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542385,
+        "num": 542385,
+        "word": "林一沈月像是来结婚的",
+        "onboard_time": 1719576497,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301340,
+        "num": 515191,
+        "word": "矿泉水湿敷半个月后",
+        "onboard_time": 1719579441,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204403,
+        "num": 514786,
+        "word": "中国奥委会确认孙颖莎陈梦单打资格",
+        "onboard_time": 1719580222,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514663,
+        "num": 514663,
+        "word": "唐嫣出图",
+        "onboard_time": 1719567019,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507599,
+        "num": 507599,
+        "word": "王鹤棣工作室认不出王鹤棣",
+        "onboard_time": 1719577578,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434655,
+        "num": 434655,
+        "word": "露西娅冲榜失败",
+        "onboard_time": 1719580583,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200367,
+        "num": 423239,
+        "word": "男孩爱说脏话被妈妈一招治好",
+        "onboard_time": 1719564859,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 184052,
+        "num": 417554,
+        "word": "6位北大录取生都有1个共同点",
+        "onboard_time": 1719576438,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 414824,
+        "num": 414824,
+        "word": "花少5白玉兰最佳综艺",
+        "onboard_time": 1719580222,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368497,
+        "num": 368497,
+        "word": "杨超越 白玉兰多重宇宙",
+        "onboard_time": 1719580222,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357556,
+        "num": 357556,
+        "word": "宁理白玉兰最佳男配角",
+        "onboard_time": 1719580703,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155172,
+        "num": 303147,
+        "word": "7月十二星座注意事项",
+        "onboard_time": 1719576497,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147038,
+        "num": 285388,
+        "word": "谈恋爱中的三个月定律",
+        "onboard_time": 1719574577,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282007,
+        "num": 282007,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1719573677,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208156,
+        "num": 208156,
+        "word": "繁花白玉兰最佳美术",
+        "onboard_time": 1719580583,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200705,
+        "num": 200705,
+        "word": "奔跑吧 还不更新",
+        "onboard_time": 1719580222,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133254,
+        "num": 198782,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 197973,
+        "word": "辛爽白玉兰最佳导演",
+        "onboard_time": 1719580703,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146969,
+        "num": 197968,
+        "word": "全球变暖致珠峰200多具遗体显露",
+        "onboard_time": 1719580523,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36884,
+        "num": 197950,
+        "word": "藏在大学博物馆里的必看文物",
+        "onboard_time": 1719562880,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129429,
+        "num": 197943,
+        "word": "为什么年轻人都在反向消费",
+        "onboard_time": 1719575118,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 197922,
+        "word": "外交部哀悼胡友平",
+        "onboard_time": 1719562038,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121453,
+        "num": 197916,
+        "word": "小米澎湃OS更新",
+        "onboard_time": 1719578539,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻落实新时代党的建设总要求#"
+    }
+  }
+}

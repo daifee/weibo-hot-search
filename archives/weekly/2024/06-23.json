@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719579110407,
+  "endTime": 1719580819184,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -11,6 +11,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 4229022,
+      "num": 4229022,
+      "word": "白玉兰内场",
+      "onboard_time": 1719577277,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3663335,
       "num": 3826670,
       "word": "魏凤和被开除党籍",
@@ -19,12 +27,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3519650,
-      "num": 3519650,
-      "word": "白玉兰内场",
-      "onboard_time": 1719577277,
+      "raw_hot": 2936242,
+      "num": 2936242,
+      "word": "孙楠破音",
+      "onboard_time": 1719580042,
       "rank": 1,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 2836264,
@@ -51,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2727989,
+      "num": 2727989,
+      "word": "歌手直播",
+      "onboard_time": 1719575777,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2639996,
       "num": 2639996,
       "word": "首个高考成绩被屏蔽的人出现了",
@@ -65,14 +81,6 @@
       "onboard_time": 1719570439,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2516431,
-      "num": 2516431,
-      "word": "歌手直播",
-      "onboard_time": 1719575777,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2468997,
@@ -443,6 +451,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 1515857,
+      "num": 667094,
+      "word": "陈晓给刘亦菲提裙子",
+      "onboard_time": 1719578720,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1514724,
       "num": 1514724,
       "word": "章莹颖",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 1493439,
-      "num": 424422,
+      "num": 590879,
       "word": "你的屁股可能已经死掉了",
       "onboard_time": 1719562758,
       "rank": 20,
@@ -777,6 +793,14 @@
       "onboard_time": 1719505038,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1157828,
+      "num": 664137,
+      "word": "姜妍好美",
+      "onboard_time": 1719578539,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 1152737,
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 935610,
-      "num": 447715,
+      "num": 638811,
       "word": "汪苏泷又又好听了",
       "onboard_time": 1719578421,
       "rank": 10,
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 811796,
-      "num": 1056561,
+      "num": 1286134,
       "word": "员工儿子高考718分公司奖10万",
       "onboard_time": 1719565638,
       "rank": 32,
@@ -1667,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786464,
+      "num": 655787,
+      "word": "陈晓光头出席白玉兰",
+      "onboard_time": 1719578000,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 773423,
       "num": 773423,
       "word": "刘浩存MiuMiu",
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 767985,
-      "num": 445697,
+      "num": 587832,
       "word": "那英直播间请假",
       "onboard_time": 1719577759,
       "rank": 13,
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 726295,
-      "num": 444164,
+      "num": 613547,
       "word": "黄宣加了陶喆的沙滩",
       "onboard_time": 1719578600,
       "rank": 12,
@@ -2217,6 +2249,14 @@
       "onboard_time": 1719321079,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 662870,
+      "num": 662870,
+      "word": "中国奥委会确认王楚钦樊振东单打资格",
+      "onboard_time": 1719579139,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 661904,
@@ -2579,6 +2619,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 620291,
+      "num": 620291,
+      "word": "孙楠塑料粤语",
+      "onboard_time": 1719579081,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618817,
       "num": 618817,
       "word": "为什么一分钟会变成59秒",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1719531738,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 605843,
-      "num": 442681,
-      "word": "陈晓光头出席白玉兰",
-      "onboard_time": 1719578000,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 605369,
@@ -2812,7 +2852,7 @@
     },
     {
       "raw_hot": 572172,
-      "num": 520640,
+      "num": 542385,
       "word": "林一沈月像是来结婚的",
       "onboard_time": 1719576497,
       "rank": 6,
@@ -2836,7 +2876,7 @@
     },
     {
       "raw_hot": 569456,
-      "num": 438501,
+      "num": 507599,
       "word": "王鹤棣工作室认不出王鹤棣",
       "onboard_time": 1719577578,
       "rank": 10,
@@ -4051,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434655,
+      "num": 434655,
+      "word": "露西娅冲榜失败",
+      "onboard_time": 1719580583,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434370,
       "num": 434370,
       "word": "美国中低产7人家庭的晚餐",
@@ -4243,14 +4291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 422704,
-      "num": 422704,
-      "word": "陈晓给刘亦菲提裙子",
-      "onboard_time": 1719578720,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 422262,
       "num": 422262,
       "word": "你比星光美丽定档",
@@ -4347,6 +4387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 414824,
+      "num": 414824,
+      "word": "花少5白玉兰最佳综艺",
+      "onboard_time": 1719580222,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414199,
       "num": 414199,
       "word": "出国留学的回报率越来越低了吗",
@@ -4425,6 +4473,14 @@
       "onboard_time": 1719221479,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411162,
+      "num": 670708,
+      "word": "阿尔茨海默病特效药药店已上架",
+      "onboard_time": 1719579139,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 410351,
@@ -4827,6 +4883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 368497,
+      "num": 368497,
+      "word": "杨超越 白玉兰多重宇宙",
+      "onboard_time": 1719580222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368275,
       "num": 368275,
       "word": "牵羊礼",
@@ -4969,6 +5033,14 @@
       "onboard_time": 1719294678,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 357556,
+      "num": 357556,
+      "word": "宁理白玉兰最佳男配角",
+      "onboard_time": 1719580703,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 357524,
@@ -5305,6 +5377,14 @@
       "onboard_time": 1719217580,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 332007,
+      "num": 659828,
+      "word": "人工智能或成最火爆专业",
+      "onboard_time": 1719576017,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 331765,
@@ -5763,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302634,
+      "num": 647745,
+      "word": "印尼逮捕103名台湾人",
+      "onboard_time": 1719577398,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 302582,
       "num": 207722,
       "word": "大碗宽面组团魂4年后居然还在",
@@ -5785,6 +5873,14 @@
       "onboard_time": 1719120318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301340,
+      "num": 515191,
+      "word": "矿泉水湿敷半个月后",
+      "onboard_time": 1719579441,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 300662,
@@ -6435,14 +6531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266865,
-      "num": 451048,
-      "word": "人工智能或成最火爆专业",
-      "onboard_time": 1719576017,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 266812,
       "num": 234698,
       "word": "考科目二被扣了一千多分",
@@ -6568,14 +6656,6 @@
       "word": "杨紫一番女主",
       "onboard_time": 1719377539,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258668,
-      "num": 258668,
-      "word": "姜妍好美",
-      "onboard_time": 1719578539,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -7628,7 +7708,7 @@
     },
     {
       "raw_hot": 218388,
-      "num": 328929,
+      "num": 417554,
       "word": "6位北大录取生都有1个共同点",
       "onboard_time": 1719576438,
       "rank": 33,
@@ -7689,6 +7769,14 @@
       "onboard_time": 1719373218,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215916,
+      "num": 643826,
+      "word": "熊祁 杀生丸cos",
+      "onboard_time": 1719576977,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 215772,
@@ -7955,14 +8043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208692,
-      "num": 208692,
-      "word": "孙楠塑料粤语",
-      "onboard_time": 1719579081,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208677,
       "num": 208677,
       "word": "河南高考600分及以上25623人",
@@ -7993,6 +8073,14 @@
       "onboard_time": 1719313638,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208156,
+      "num": 208156,
+      "word": "繁花白玉兰最佳美术",
+      "onboard_time": 1719580583,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 207990,
@@ -8243,6 +8331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204403,
+      "num": 514786,
+      "word": "中国奥委会确认孙颖莎陈梦单打资格",
+      "onboard_time": 1719580222,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204388,
       "num": 204388,
       "word": "海底捞有门店推出美甲收费标准",
@@ -8313,14 +8409,6 @@
       "onboard_time": 1719299899,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203071,
-      "num": 435018,
-      "word": "熊祁 杀生丸cos",
-      "onboard_time": 1719576977,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 202832,
@@ -8475,6 +8563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 200705,
+      "num": 200705,
+      "word": "奔跑吧 还不更新",
+      "onboard_time": 1719580222,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200526,
       "num": 200526,
       "word": "TheShy说BLG虐泉的习惯不好",
@@ -8569,14 +8665,6 @@
       "onboard_time": 1719224660,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199351,
-      "num": 262292,
-      "word": "印尼逮捕103名台湾人",
-      "onboard_time": 1719577398,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 199268,
@@ -8697,6 +8785,14 @@
       "onboard_time": 1719145339,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "辛爽白玉兰最佳导演",
+      "onboard_time": 1719580703,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 197921,
@@ -11331,6 +11427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155172,
+      "num": 303147,
+      "word": "7月十二星座注意事项",
+      "onboard_time": 1719576497,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155142,
       "num": 155142,
       "word": "athree诗朗诵diss",
@@ -11963,6 +12067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146969,
+      "num": 197968,
+      "word": "全球变暖致珠峰200多具遗体显露",
+      "onboard_time": 1719580523,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146948,
       "num": 146948,
       "word": "单休和双休差的不止是一天",
@@ -12105,14 +12217,6 @@
       "onboard_time": 1719115097,
       "rank": 41,
       "category": "剧集,社会新闻"
-    },
-    {
-      "raw_hot": 144648,
-      "num": 248681,
-      "word": "7月十二星座注意事项",
-      "onboard_time": 1719576497,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 144626,
@@ -13681,6 +13785,14 @@
       "onboard_time": 1719398718,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121453,
+      "num": 201789,
+      "word": "小米澎湃OS更新",
+      "onboard_time": 1719578539,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 121256,
@@ -15491,14 +15603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84514,
-      "num": 201789,
-      "word": "小米澎湃OS更新",
-      "onboard_time": 1719578539,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 84494,
       "num": 84494,
       "word": "菲律宾蓄意闹海",
@@ -15633,6 +15737,14 @@
       "onboard_time": 1719367216,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78892,
+      "num": 656443,
+      "word": "想买MPV和SUV的人看完都沉默了",
+      "onboard_time": 1719578720,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 78456,
@@ -16331,6 +16443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51465,
+      "num": 2802133,
+      "word": "法治网事",
+      "onboard_time": 1719580282,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51275,
       "num": 640479,
       "word": "扬州含诗量有多高",
@@ -16529,14 +16649,6 @@
       "onboard_time": 1719302838,
       "rank": 31,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 44111,
-      "num": 260176,
-      "word": "想买MPV和SUV的人看完都沉默了",
-      "onboard_time": 1719578720,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 43727,
@@ -16803,6 +16915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37218,
+      "num": 650935,
+      "word": "绝区零开服送180抽",
+      "onboard_time": 1719579260,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36798,
       "num": 239119,
       "word": "这是中国奥运健儿的赛场宣言",
@@ -16977,6 +17097,14 @@
       "onboard_time": 1719082692,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32092,
+      "num": 667292,
+      "word": "医院保安们听到一声召唤集体救人",
+      "onboard_time": 1719580100,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31954,

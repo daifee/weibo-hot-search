@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1719579110407,
+  "endTime": 1719580819184,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1507,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4229022,
+      "num": 4229022,
+      "word": "白玉兰内场",
+      "onboard_time": 1719577277,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 4217222,
       "num": 4217222,
       "word": "周也 已老实求放过",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1715440581,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3519650,
-      "num": 3519650,
-      "word": "白玉兰内场",
-      "onboard_time": 1719577277,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 3505714,
