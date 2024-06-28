@@ -1,0 +1,410 @@
+{
+  "runTime": 1719567281289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1550663,
+        "num": 1550663,
+        "word": "法院判定玖月晞小南风抄袭",
+        "onboard_time": 1719562158,
+        "rank": 0,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 777245,
+        "num": 777245,
+        "word": "黄子韬直播道歉",
+        "onboard_time": 1719561377,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78873,
+        "num": 702089,
+        "word": "藏在大学博物馆里的必看文物",
+        "onboard_time": 1719562880,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632368,
+        "num": 632368,
+        "word": "男孩爱说脏话被妈妈一招治好",
+        "onboard_time": 1719564859,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 613210,
+        "num": 613210,
+        "word": "刘亦菲白玉兰造型",
+        "onboard_time": 1719564319,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497002,
+        "num": 497002,
+        "word": "女子拍照弄丢50万宝石掀草坪找3小时",
+        "onboard_time": 1719564319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429269,
+        "num": 429269,
+        "word": "俄罗斯将1万移民送往俄乌前线",
+        "onboard_time": 1719557538,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 421268,
+        "num": 421268,
+        "word": "驻日美军诱拐强暴日本少女",
+        "onboard_time": 1719553219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404824,
+        "num": 404824,
+        "word": "外交部哀悼胡友平",
+        "onboard_time": 1719562038,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309271,
+        "num": 379565,
+        "word": "员工儿子高考718分公司奖10万",
+        "onboard_time": 1719565638,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 370470,
+        "num": 370470,
+        "word": "四川地震",
+        "onboard_time": 1719556098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355163,
+        "num": 355163,
+        "word": "外交部回应胡友平见义勇为不幸离世",
+        "onboard_time": 1719562038,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347310,
+        "num": 347310,
+        "word": "有人买4份餐领走胖东来4000元",
+        "onboard_time": 1719556217,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339500,
+        "num": 339500,
+        "word": "唐嫣出图",
+        "onboard_time": 1719567019,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280996,
+        "num": 280996,
+        "word": "苗苗 意难平",
+        "onboard_time": 1719562398,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273301,
+        "num": 273301,
+        "word": "猎罪图鉴",
+        "onboard_time": 1719559457,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "WPS崩了",
+        "onboard_time": 1719563598,
+        "rank": 16,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 235374,
+        "num": 235374,
+        "word": "女子拔牙脸肿6天被误以为遭家暴",
+        "onboard_time": 1719554897,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258844,
+        "num": 231060,
+        "word": "胡歌唐嫣刘亦菲出席白玉兰颁奖",
+        "onboard_time": 1719557239,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215475,
+        "num": 215475,
+        "word": "张杰三个女儿三个风格",
+        "onboard_time": 1719567259,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1305865,
+        "num": 215413,
+        "word": "你的屁股可能已经死掉了",
+        "onboard_time": 1719562758,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 209169,
+        "num": 209169,
+        "word": "王星越把王鹤棣衬托得很稳重",
+        "onboard_time": 1719561258,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205810,
+        "num": 205810,
+        "word": "我和高圆圆点外卖区别",
+        "onboard_time": 1719557958,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206862,
+        "num": 204344,
+        "word": "吴谨言王星越傻傻分不清楚",
+        "onboard_time": 1719566239,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227659,
+        "num": 202112,
+        "word": "舒畅看了刘亦菲玫瑰的故事",
+        "onboard_time": 1719565638,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199428,
+        "num": 199428,
+        "word": "沈翊好疯",
+        "onboard_time": 1719566658,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197693,
+        "num": 197693,
+        "word": "九尾给一诺送皮肤",
+        "onboard_time": 1719565278,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197960,
+        "num": 195103,
+        "word": "杨和苏 Asen",
+        "onboard_time": 1719531738,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185773,
+        "num": 185773,
+        "word": "王星越梁永棋互不发照片",
+        "onboard_time": 1719564319,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185473,
+        "num": 185473,
+        "word": "Digi活死人Beef大战",
+        "onboard_time": 1719563178,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177263,
+        "num": 177263,
+        "word": "研究生好友上岸后把我删了",
+        "onboard_time": 1719564200,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154733,
+        "num": 154733,
+        "word": "王者荣耀更新之后不会玩了",
+        "onboard_time": 1719558498,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150306,
+        "num": 150306,
+        "word": "苹果客服回应iPhone13鼓包",
+        "onboard_time": 1719561798,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "会缩短手机寿命的使用习惯",
+        "onboard_time": 1719561439,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72481,
+        "num": 145264,
+        "word": "苏州市民向胡友平献花",
+        "onboard_time": 1719565219,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145232,
+        "num": 145232,
+        "word": "毕雯珺女装只有0次和无数次",
+        "onboard_time": 1719565878,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132563,
+        "num": 132563,
+        "word": "歌手2024冲榜歌手露西娅",
+        "onboard_time": 1719555138,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131651,
+        "num": 131651,
+        "word": "专家称A股上下几十个点不是大问题",
+        "onboard_time": 1719565578,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130553,
+        "num": 130553,
+        "word": "暗访福寿螺产业链",
+        "onboard_time": 1719544638,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129482,
+        "num": 129482,
+        "word": "人民日报评胡友平见义勇为",
+        "onboard_time": 1719556879,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "花50块套了一只小猫回家",
+        "onboard_time": 1719560418,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109819,
+        "num": 109819,
+        "word": "胡先煦漫画腿",
+        "onboard_time": 1719564681,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 108751,
+        "word": "5岁男童开玩笑冲邻居喊儿子被殴打",
+        "onboard_time": 1719566719,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106791,
+        "num": 106791,
+        "word": "小奶栀改名",
+        "onboard_time": 1719548479,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 105555,
+        "num": 105555,
+        "word": "赵今麦露背挂脖裙",
+        "onboard_time": 1719565878,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100915,
+        "num": 100915,
+        "word": "韩国首尔第二密阳集体性侵案",
+        "onboard_time": 1719561377,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100636,
+        "num": 100636,
+        "word": "巴黎奥运会中国代表团名单",
+        "onboard_time": 1719566840,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96257,
+        "num": 96257,
+        "word": "美国一警察怀疑妻子出轨全天候监视",
+        "onboard_time": 1719564319,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96198,
+        "num": 96198,
+        "word": "上海合格考",
+        "onboard_time": 1719567259,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95657,
+        "num": 95657,
+        "word": "总感觉累的人最好别做美甲",
+        "onboard_time": 1719566359,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻落实新时代党的建设总要求#"
+    }
+  }
+}
