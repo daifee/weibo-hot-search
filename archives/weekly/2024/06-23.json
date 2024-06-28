@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719548568124,
+  "endTime": 1719549403181,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -1147,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 909227,
+      "num": 909227,
+      "word": "李雪琴事件背后的高考公平",
+      "onboard_time": 1719544938,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 907714,
       "num": 907714,
       "word": "李梦评论玫瑰的故事相关微博",
@@ -1475,20 +1483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783791,
-      "num": 783791,
-      "word": "李雪琴事件背后的高考公平",
-      "onboard_time": 1719544938,
-      "rank": 33,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 773423,
       "num": 773423,
       "word": "刘浩存MiuMiu",
       "onboard_time": 1719376100,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 773307,
+      "num": 572341,
+      "word": "你好星期六焕新官宣city不city",
+      "onboard_time": 1719547638,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 766978,
@@ -1561,6 +1569,22 @@
       "onboard_time": 1719406098,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 751253,
+      "num": 751253,
+      "word": "暗访福寿螺产业链",
+      "onboard_time": 1719544638,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749172,
+      "num": 280894,
+      "word": "微信怎么删好友不被发现",
+      "onboard_time": 1719545479,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 746899,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1719488178,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 676823,
-      "num": 676823,
-      "word": "暗访福寿螺产业链",
-      "onboard_time": 1719544638,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675133,
@@ -2300,19 +2316,11 @@
     },
     {
       "raw_hot": 613761,
-      "num": 301607,
+      "num": 573011,
       "word": "警方通报内蒙古1家5口遇害",
       "onboard_time": 1719544758,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 612757,
-      "num": 235806,
-      "word": "微信怎么删好友不被发现",
-      "onboard_time": 1719545479,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 611963,
@@ -2401,14 +2409,6 @@
       "onboard_time": 1719409879,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 597668,
-      "num": 533789,
-      "word": "你好星期六焕新官宣city不city",
-      "onboard_time": 1719547638,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 595891,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1719183734,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527391,
+      "num": 527391,
+      "word": "小奶栀改名",
+      "onboard_time": 1719548479,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 525496,
@@ -3988,7 +3996,7 @@
     },
     {
       "raw_hot": 412262,
-      "num": 311353,
+      "num": 397505,
       "word": "历届浪姐C位",
       "onboard_time": 1719544698,
       "rank": 22,
@@ -4217,6 +4225,14 @@
       "onboard_time": 1719147918,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387476,
+      "num": 387476,
+      "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+      "onboard_time": 1719549139,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 386788,
@@ -4812,7 +4828,7 @@
     },
     {
       "raw_hot": 332332,
-      "num": 332332,
+      "num": 388881,
       "word": "美媒发现拜登特朗普没握手",
       "onboard_time": 1719543679,
       "rank": 23,
@@ -4937,6 +4953,14 @@
       "onboard_time": 1719144257,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325381,
+      "num": 325381,
+      "word": "特朗普和拜登激烈交锋",
+      "onboard_time": 1719545118,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 325305,
@@ -5233,6 +5257,14 @@
       "onboard_time": 1719153080,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303497,
+      "num": 272347,
+      "word": "符龙飞 天塌下来我还在玩",
+      "onboard_time": 1719548059,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 303378,
@@ -6323,14 +6355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 238738,
-      "num": 238738,
-      "word": "特朗普和拜登激烈交锋",
-      "onboard_time": 1719545118,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 238122,
       "num": 179793,
       "word": "黄晓明两部戏差了50斤",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1719473599,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228167,
+      "num": 228167,
+      "word": "于正墨雨云间收官开始宣传临江仙",
+      "onboard_time": 1719548779,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 227921,
@@ -7009,6 +7041,14 @@
       "onboard_time": 1719307578,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214878,
+      "num": 214878,
+      "word": "新华社发了杨紫",
+      "onboard_time": 1719548299,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 214428,
@@ -7521,14 +7561,6 @@
       "onboard_time": 1719299899,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203033,
-      "num": 203033,
-      "word": "新华社发了杨紫",
-      "onboard_time": 1719548299,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 202832,
@@ -9219,14 +9251,6 @@
       "category": "教育,作品衍生"
     },
     {
-      "raw_hot": 170561,
-      "num": 170561,
-      "word": "符龙飞 天塌下来我还在玩",
-      "onboard_time": 1719548059,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 170452,
       "num": 166825,
       "word": "吴谨言王星越到底亲了多久",
@@ -10547,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150497,
+      "num": 150497,
+      "word": "小时候意识不到什么是朝九晚五",
+      "onboard_time": 1719543977,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150269,
       "num": 150269,
       "word": "痞幼巴黎时装周vlog",
@@ -11051,14 +11083,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 143640,
-      "num": 143640,
-      "word": "小时候意识不到什么是朝九晚五",
-      "onboard_time": 1719543977,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143538,
       "num": 143538,
       "word": "李尔新 不要再打了",
@@ -11273,6 +11297,14 @@
       "onboard_time": 1719395898,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140138,
+      "num": 140138,
+      "word": "王以太新专辑",
+      "onboard_time": 1719544337,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 139543,
@@ -11577,6 +11609,14 @@
       "onboard_time": 1719325519,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134461,
+      "num": 134461,
+      "word": "我吹爆这本小说",
+      "onboard_time": 1719549139,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 134370,
@@ -12259,6 +12299,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 123940,
+      "num": 123940,
+      "word": "鸣潮更新",
+      "onboard_time": 1719547939,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123798,
       "num": 123798,
       "word": "我国实现世界首次月背采样返回",
@@ -12467,14 +12515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120067,
-      "num": 120067,
-      "word": "小奶栀改名",
-      "onboard_time": 1719548479,
-      "rank": 44,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 119729,
       "num": 119729,
       "word": "油价重返8元时代",
@@ -12529,14 +12569,6 @@
       "onboard_time": 1719186977,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118926,
-      "num": 118926,
-      "word": "王以太新专辑",
-      "onboard_time": 1719544337,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 118901,
@@ -14771,6 +14803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52382,
+      "num": 529125,
+      "word": "雨天老人被车撞倒路人撑起暖心伞",
+      "onboard_time": 1719545778,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 52102,
       "num": 314250,
       "word": "男生站台送别毕业同学泪如雨下",
@@ -15217,14 +15257,6 @@
       "onboard_time": 1719093491,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38224,
-      "num": 190517,
-      "word": "雨天老人被车撞倒路人撑起暖心伞",
-      "onboard_time": 1719545778,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 38221,

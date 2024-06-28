@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719548568124,
+  "endTime": 1719549403181,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -67,6 +67,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 909227,
+      "num": 909227,
+      "word": "李雪琴事件背后的高考公平",
+      "onboard_time": 1719544938,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 887982,
       "num": 887982,
       "word": "胖的根本原因",
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783791,
-      "num": 783791,
-      "word": "李雪琴事件背后的高考公平",
-      "onboard_time": 1719544938,
-      "rank": 33,
-      "category": "艺人,教育"
+      "raw_hot": 773307,
+      "num": 572341,
+      "word": "你好星期六焕新官宣city不city",
+      "onboard_time": 1719547638,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 751253,
+      "num": 751253,
+      "word": "暗访福寿螺产业链",
+      "onboard_time": 1719544638,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749172,
+      "num": 280894,
+      "word": "微信怎么删好友不被发现",
+      "onboard_time": 1719545479,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 732621,
@@ -104,14 +128,6 @@
       "word": "苏州将追授胡友平见义勇为模范称号",
       "onboard_time": 1719539777,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676823,
-      "num": 676823,
-      "word": "暗访福寿螺产业链",
-      "onboard_time": 1719544638,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 613761,
-      "num": 301607,
+      "num": 573011,
       "word": "警方通报内蒙古1家5口遇害",
       "onboard_time": 1719544758,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 612757,
-      "num": 235806,
-      "word": "微信怎么删好友不被发现",
-      "onboard_time": 1719545479,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 609540,
@@ -200,14 +208,6 @@
       "word": "乘风2024 成团名单",
       "onboard_time": 1719532037,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 597668,
-      "num": 533789,
-      "word": "你好星期六焕新官宣city不city",
-      "onboard_time": 1719547638,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1719537498,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527391,
+      "num": 527391,
+      "word": "小奶栀改名",
+      "onboard_time": 1719548479,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 493309,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 412262,
-      "num": 311353,
+      "num": 397505,
       "word": "历届浪姐C位",
       "onboard_time": 1719544698,
       "rank": 22,
@@ -345,6 +353,14 @@
       "onboard_time": 1719493157,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387476,
+      "num": 387476,
+      "word": "ZICO与具荷拉保险柜嫌疑犯手指对比",
+      "onboard_time": 1719549139,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 382053,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 332332,
-      "num": 332332,
+      "num": 388881,
       "word": "美媒发现拜登特朗普没握手",
       "onboard_time": 1719543679,
       "rank": 23,
@@ -409,6 +425,14 @@
       "onboard_time": 1719530475,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 325381,
+      "num": 325381,
+      "word": "特朗普和拜登激烈交锋",
+      "onboard_time": 1719545118,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 322676,
@@ -440,6 +464,14 @@
       "word": "龚琳娜回应法老diss",
       "onboard_time": 1719488178,
       "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 303497,
+      "num": 272347,
+      "word": "符龙飞 天塌下来我还在玩",
+      "onboard_time": 1719548059,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -499,14 +531,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 238738,
-      "num": 238738,
-      "word": "特朗普和拜登激烈交锋",
-      "onboard_time": 1719545118,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 234767,
       "num": 234767,
       "word": "郑妮可没成团",
@@ -521,6 +545,14 @@
       "onboard_time": 1719535879,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228167,
+      "num": 228167,
+      "word": "于正墨雨云间收官开始宣传临江仙",
+      "onboard_time": 1719548779,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 227908,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214878,
+      "num": 214878,
+      "word": "新华社发了杨紫",
+      "onboard_time": 1719548299,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "为了坐高铁不吵到别人买了个包菜",
@@ -584,14 +624,6 @@
       "word": "李飞说TFBOYS有运气成分在",
       "onboard_time": 1719496220,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 203033,
-      "num": 203033,
-      "word": "新华社发了杨紫",
-      "onboard_time": 1719548299,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -699,14 +731,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 170561,
-      "num": 170561,
-      "word": "符龙飞 天塌下来我还在玩",
-      "onboard_time": 1719548059,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164002,
       "num": 152065,
       "word": "肖战陈情令在日本有多火",
@@ -763,6 +787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 150497,
+      "num": 150497,
+      "word": "小时候意识不到什么是朝九晚五",
+      "onboard_time": 1719543977,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150285,
       "num": 150285,
       "word": "玲子怀孕",
@@ -811,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143640,
-      "num": 143640,
-      "word": "小时候意识不到什么是朝九晚五",
-      "onboard_time": 1719543977,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143538,
       "num": 143538,
       "word": "李尔新 不要再打了",
@@ -843,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140138,
+      "num": 140138,
+      "word": "王以太新专辑",
+      "onboard_time": 1719544337,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139534,
       "num": 139534,
       "word": "儿子查分被爸爸一句谢谢我媳妇整破防",
@@ -857,6 +889,14 @@
       "onboard_time": 1719536957,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134461,
+      "num": 134461,
+      "word": "我吹爆这本小说",
+      "onboard_time": 1719549139,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 133370,
@@ -899,28 +939,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123940,
+      "num": 123940,
+      "word": "鸣潮更新",
+      "onboard_time": 1719547939,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122449,
       "num": 122449,
       "word": "侯明昊大梦归离唱跳",
       "onboard_time": 1719547998,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120067,
-      "num": 120067,
-      "word": "小奶栀改名",
-      "onboard_time": 1719548479,
-      "rank": 44,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 118926,
-      "num": 118926,
-      "word": "王以太新专辑",
-      "onboard_time": 1719544337,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 116805,
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52382,
+      "num": 529125,
+      "word": "雨天老人被车撞倒路人撑起暖心伞",
+      "onboard_time": 1719545778,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 49639,
       "num": 66139,
       "word": "LGD战胜BLG",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1719529334,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38224,
-      "num": 190517,
-      "word": "雨天老人被车撞倒路人撑起暖心伞",
-      "onboard_time": 1719545778,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 34996,
