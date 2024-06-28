@@ -1,6 +1,6 @@
 {
   "startTime": 1719505468723,
-  "endTime": 1719545836449,
+  "endTime": 1719548568124,
   "band_list": [
     {
       "raw_hot": 2259314,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783791,
+      "num": 783791,
+      "word": "李雪琴事件背后的高考公平",
+      "onboard_time": 1719544938,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 732621,
       "num": 732621,
       "word": "2024美国总统选举首场辩论",
@@ -96,6 +104,14 @@
       "word": "苏州将追授胡友平见义勇为模范称号",
       "onboard_time": 1719539777,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676823,
+      "num": 676823,
+      "word": "暗访福寿螺产业链",
+      "onboard_time": 1719544638,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 620419,
+      "num": 275842,
+      "word": "长期不运动的人身体会怎样",
+      "onboard_time": 1719542538,
+      "rank": 32,
+      "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 613761,
+      "num": 301607,
+      "word": "警方通报内蒙古1家5口遇害",
+      "onboard_time": 1719544758,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 612757,
+      "num": 235806,
+      "word": "微信怎么删好友不被发现",
+      "onboard_time": 1719545479,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 609540,
       "num": 609540,
       "word": "杨和苏 Asen",
@@ -160,6 +200,14 @@
       "word": "乘风2024 成团名单",
       "onboard_time": 1719532037,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 597668,
+      "num": 533789,
+      "word": "你好星期六焕新官宣city不city",
+      "onboard_time": 1719547638,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -267,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423566,
-      "num": 275842,
-      "word": "长期不运动的人身体会怎样",
-      "onboard_time": 1719542538,
-      "rank": 32,
-      "category": "健康医疗,运动健身"
+      "raw_hot": 412262,
+      "num": 311353,
+      "word": "历届浪姐C位",
+      "onboard_time": 1719544698,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 411942,
@@ -387,28 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311353,
-      "num": 311353,
-      "word": "历届浪姐C位",
-      "onboard_time": 1719544698,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305930,
       "num": 232985,
       "word": "龚琳娜回应法老diss",
       "onboard_time": 1719488178,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 302216,
-      "num": 227392,
-      "word": "李雪琴事件背后的高考公平",
-      "onboard_time": 1719544938,
-      "rank": 33,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 298810,
@@ -467,12 +499,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244526,
-      "num": 244526,
-      "word": "警方通报内蒙古1家5口遇害",
-      "onboard_time": 1719544758,
-      "rank": 35,
-      "category": "社会负面"
+      "raw_hot": 238738,
+      "num": 238738,
+      "word": "特朗普和拜登激烈交锋",
+      "onboard_time": 1719545118,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234767,
@@ -499,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226519,
+      "num": 226519,
+      "word": "减肥实际在增肥的9种行为",
+      "onboard_time": 1719546800,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 224132,
       "num": 224132,
       "word": "尚雯婕第三名",
@@ -523,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213263,
+      "num": 213263,
+      "word": "胡友平",
+      "onboard_time": 1719534259,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209949,
       "num": 152888,
       "word": "女生多吃这种水果可以瘦肚子",
@@ -539,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201463,
-      "num": 201463,
-      "word": "暗访福寿螺产业链",
-      "onboard_time": 1719544638,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 203033,
+      "num": 203033,
+      "word": "新华社发了杨紫",
+      "onboard_time": 1719548299,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 193847,
@@ -552,14 +600,6 @@
       "word": "女子给狗狗脚擦药突然被亲了一下",
       "onboard_time": 1719534497,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193687,
-      "num": 193687,
-      "word": "胡友平",
-      "onboard_time": 1719534259,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -601,6 +641,14 @@
       "onboard_time": 1719536420,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182083,
+      "num": 182083,
+      "word": "程潇在大梦归离也当上舞蹈导师了",
+      "onboard_time": 1719545838,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 181824,
@@ -651,12 +699,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 171419,
-      "num": 171419,
-      "word": "特朗普和拜登激烈交锋",
-      "onboard_time": 1719545118,
-      "rank": 37,
-      "category": "国外时政"
+      "raw_hot": 170561,
+      "num": 170561,
+      "word": "符龙飞 天塌下来我还在玩",
+      "onboard_time": 1719548059,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 164002,
@@ -681,14 +729,6 @@
       "onboard_time": 1719508515,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158072,
-      "num": 158072,
-      "word": "微信怎么删好友不被发现",
-      "onboard_time": 1719545479,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 157563,
@@ -771,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143640,
+      "num": 143640,
+      "word": "小时候意识不到什么是朝九晚五",
+      "onboard_time": 1719543977,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143538,
       "num": 143538,
       "word": "李尔新 不要再打了",
@@ -808,14 +856,6 @@
       "word": "一图四象限居然真的存在",
       "onboard_time": 1719536957,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 135558,
-      "num": 135558,
-      "word": "小时候意识不到什么是朝九晚五",
-      "onboard_time": 1719543977,
-      "rank": 47,
       "category": "情感"
     },
     {
@@ -857,6 +897,38 @@
       "onboard_time": 1719537078,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122449,
+      "num": 122449,
+      "word": "侯明昊大梦归离唱跳",
+      "onboard_time": 1719547998,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120067,
+      "num": 120067,
+      "word": "小奶栀改名",
+      "onboard_time": 1719548479,
+      "rank": 44,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 118926,
+      "num": 118926,
+      "word": "王以太新专辑",
+      "onboard_time": 1719544337,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116805,
+      "num": 116805,
+      "word": "BW2024",
+      "onboard_time": 1719546498,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 113897,
@@ -1247,6 +1319,9 @@
     },
     {
       "word": "#进一步全面深化改革推进中国式现代化#"
+    },
+    {
+      "word": "#和平共处五项原则70周年纪念大会#"
     }
   ]
 }
