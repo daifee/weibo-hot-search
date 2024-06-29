@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/29 19:17:20
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/29 19:35:43
 </p>
 </blockquote>
 <p>
@@ -5625,6 +5625,12 @@ Manner回应店员泼顾客咖啡粉（热度：824143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%BF%8D%E8%A2%AB%E5%AE%B6%E6%9A%B4%E6%9D%80%E5%A4%AB%E6%BD%9C%E9%80%8329%E5%B9%B4%E8%90%BD%E7%BD%91%23" target="weibo">
+女子不忍被家暴杀夫潜逃29年落网（热度：813240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E6%82%A3%E6%80%A5%E6%80%A7%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%23" target="weibo">
 蔡国庆患急性带状疱疹（热度：813174）
 </a>
@@ -6005,12 +6011,6 @@ AppleID改名AppleAccount（热度：781128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B8%B8%E8%90%A7%E5%BC%A0%E7%9A%84%E5%A5%B3%E5%84%BF%23" target="weibo">
 菲常萧张的女儿（热度：779118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%AB%9F%E7%84%B6%E8%AE%A9%E6%88%91%E5%A4%9A%E8%A6%81%E7%82%B9%E5%BD%A9%E7%A4%BC%23" target="weibo">
-男朋友竟然让我多要点彩礼（热度：779108）
 </a>
 </li>
 
