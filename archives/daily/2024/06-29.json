@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719657322513,
+  "endTime": 1719659840677,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 858054,
+      "num": 488576,
+      "word": "殷世航 其实已经偷偷幸福很久了",
+      "onboard_time": 1719656897,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 793379,
       "num": 543592,
       "word": "已婚男老师被曝邀请女生去私人影院",
@@ -177,6 +185,14 @@
       "onboard_time": 1719618375,
       "rank": 10,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 744610,
+      "num": 140620,
+      "word": "女子不忍被家暴杀夫潜逃29年落网",
+      "onboard_time": 1719657137,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738361,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 537002,
-      "num": 298145,
+      "num": 457815,
       "word": "特朗普称美国不应与俄中朝成为敌人",
       "onboard_time": 1719655097,
       "rank": 12,
@@ -328,6 +344,14 @@
       "word": "陈晓给刘亦菲提裙子",
       "onboard_time": 1719578720,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 497558,
+      "num": 354902,
+      "word": "王妈短剧大结局",
+      "onboard_time": 1719658697,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -369,6 +393,14 @@
       "onboard_time": 1719633498,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442421,
+      "num": 402819,
+      "word": "宁艺卓SOLO曲",
+      "onboard_time": 1719658457,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 437248,
@@ -601,6 +633,14 @@
       "onboard_time": 1719656178,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317367,
+      "num": 317367,
+      "word": "周峻纬音乐节",
+      "onboard_time": 1719656538,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 305811,
@@ -883,20 +923,20 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 210607,
+      "num": 126909,
+      "word": "B太上海打车接连遇司机挑客拒载",
+      "onboard_time": 1719658937,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210149,
       "num": 210149,
       "word": "房东上门催租发现家里被卖空",
       "onboard_time": 1719582323,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208759,
-      "num": 148296,
-      "word": "殷世航 其实已经偷偷幸福很久了",
-      "onboard_time": 1719656897,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 208631,
@@ -939,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200147,
+      "num": 200147,
+      "word": "一碗没有灵魂的蛋炒饭",
+      "onboard_time": 1719657137,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198733,
       "num": 187163,
       "word": "歌手 RNB",
@@ -953,14 +1001,6 @@
       "onboard_time": 1719651677,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192920,
-      "num": 147092,
-      "word": "周峻纬音乐节",
-      "onboard_time": 1719656538,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 192746,
@@ -1035,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183850,
+      "num": 133863,
+      "word": "金曲奖预测",
+      "onboard_time": 1719658578,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183066,
       "num": 183066,
       "word": "耳帝说歌手第八期本季最佳",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1719636438,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179808,
+      "num": 132628,
+      "word": "唐嫣下一部剧是念无双",
+      "onboard_time": 1719657737,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 177359,
@@ -1187,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162949,
+      "num": 128277,
+      "word": "小品的世界",
+      "onboard_time": 1719659177,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "松死感",
@@ -1219,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158899,
+      "num": 126250,
+      "word": "aespa首尔演唱会",
+      "onboard_time": 1719658516,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158583,
       "num": 158583,
       "word": "东方甄选",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1719629957,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155102,
+      "num": 125671,
+      "word": "新说唱2024",
+      "onboard_time": 1719659237,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 153717,
@@ -1539,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132574,
+      "num": 120899,
+      "word": "TF三代将在微博直播",
+      "onboard_time": 1719656598,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "高叶给那英安利王鹤棣",
@@ -1587,20 +1675,12 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 127283,
-      "num": 120899,
-      "word": "TF三代将在微博直播",
-      "onboard_time": 1719656598,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127030,
-      "num": 127030,
-      "word": "女子不忍被家暴杀夫潜逃29年落网",
-      "onboard_time": 1719657137,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 126925,
+      "num": 126925,
+      "word": "有哪些专业不学不知道一学不吱声",
+      "onboard_time": 1719656778,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 126593,
@@ -1609,14 +1689,6 @@
       "onboard_time": 1719653837,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126447,
-      "num": 126447,
-      "word": "一碗没有灵魂的蛋炒饭",
-      "onboard_time": 1719657137,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 126025,
@@ -1811,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111068,
+      "num": 147289,
+      "word": "妈妈从零学书法2个月震撼小学生女儿",
+      "onboard_time": 1719657198,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109975,
       "num": 109975,
       "word": "你比星光美丽 双向奔赴",
@@ -1913,6 +1993,22 @@
       "onboard_time": 1719639438,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97733,
+      "num": 97732,
+      "word": "太宰治好帅",
+      "onboard_time": 1719656538,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 95854,
+      "num": 95854,
+      "word": "可画崩了",
+      "onboard_time": 1719659536,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 95268,
@@ -2147,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53272,
+      "num": 500782,
+      "word": "多地强降雨最新情况",
+      "onboard_time": 1719659297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52085,
       "num": 291957,
       "word": "四川一高校走出200多位银行行长",
@@ -2161,14 +2265,6 @@
       "onboard_time": 1719606370,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50187,
-      "num": 147289,
-      "word": "妈妈从零学书法2个月震撼小学生女儿",
-      "onboard_time": 1719657198,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49325,
@@ -2243,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29136,
+      "num": 354922,
+      "word": "生死瞬间她急奔大喊挽救两个家庭",
+      "onboard_time": 1719656778,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 26849,
       "num": 164951,
       "word": "饿了么寻1万名球迷免费吃汉堡",
@@ -2257,14 +2361,6 @@
       "onboard_time": 1719605231,
       "rank": 45,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 20248,
-      "num": 150526,
-      "word": "生死瞬间她急奔大喊挽救两个家庭",
-      "onboard_time": 1719656778,
-      "rank": 20,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 16751,
