@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719635037876,
+  "endTime": 1719635901100,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -2075,6 +2075,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 738361,
+      "num": 738361,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 737970,
       "num": 737970,
       "word": "警方通报女子遭2次辗轧身亡",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1719578600,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 726216,
-      "num": 726216,
-      "word": "玖月晞 抄袭",
-      "onboard_time": 1719625338,
-      "rank": 5,
-      "category": "读书作家"
     },
     {
       "raw_hot": 725930,
@@ -3379,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536118,
+      "num": 404120,
+      "word": "凡希亚的提词器",
+      "onboard_time": 1719634458,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535392,
       "num": 535392,
       "word": "苗苗张予曦没成团",
@@ -4243,6 +4251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445483,
+      "num": 445483,
+      "word": "谁家大小姐一出场就跑酷啊",
+      "onboard_time": 1719633498,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445038,
       "num": 445038,
       "word": "湖南卫视直播",
@@ -4907,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403801,
+      "num": 403801,
+      "word": "水断食在韩国流行",
+      "onboard_time": 1719633377,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 403654,
       "num": 352516,
       "word": "家里出现小霉点身体可能要遭殃",
@@ -5075,6 +5099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 392416,
+      "num": 392416,
+      "word": "周迅 白玉兰还是很想得的",
+      "onboard_time": 1719632897,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389975,
       "num": 389975,
       "word": "豆瓣崩了",
@@ -5097,14 +5129,6 @@
       "onboard_time": 1719216920,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 387702,
-      "num": 387702,
-      "word": "周迅 白玉兰还是很想得的",
-      "onboard_time": 1719632897,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 387626,
@@ -6267,14 +6291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307248,
-      "num": 307248,
-      "word": "凡希亚的提词器",
-      "onboard_time": 1719634458,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306602,
       "num": 213854,
       "word": "这哪里是追星 是找了个助理",
@@ -6369,14 +6385,6 @@
       "onboard_time": 1719370818,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 301582,
-      "num": 273837,
-      "word": "谁家大小姐一出场就跑酷啊",
-      "onboard_time": 1719633498,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 301479,
@@ -6729,14 +6737,6 @@
       "onboard_time": 1719367756,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283694,
-      "num": 283694,
-      "word": "水断食在韩国流行",
-      "onboard_time": 1719633377,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283352,
@@ -8387,6 +8387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217706,
+      "num": 217706,
+      "word": "肖战曾黎介绍同一件国宝",
+      "onboard_time": 1719631758,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
@@ -9065,14 +9073,6 @@
       "onboard_time": 1719305898,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204012,
-      "num": 204012,
-      "word": "肖战曾黎介绍同一件国宝",
-      "onboard_time": 1719631758,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 203830,
@@ -9883,6 +9883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191374,
+      "num": 191374,
+      "word": "易烊千玺阿那亚库存",
+      "onboard_time": 1719635536,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191172,
       "num": 191172,
       "word": "孙怡跳了TFBOYS的歌",
@@ -10451,6 +10459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182641,
+      "num": 221858,
+      "word": "美国防部披露大量供乌物资失踪",
+      "onboard_time": 1719632178,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182535,
       "num": 182535,
       "word": "你好星期六上班直播",
@@ -10529,14 +10545,6 @@
       "onboard_time": 1719561439,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 180940,
-      "num": 221858,
-      "word": "美国防部披露大量供乌物资失踪",
-      "onboard_time": 1719632178,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 180687,
@@ -11835,6 +11843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160194,
+      "num": 160194,
+      "word": "凡希亚感谢邓紫棋",
+      "onboard_time": 1719632717,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160022,
       "num": 140047,
       "word": "何洁听尚雯婕哭了",
@@ -11913,14 +11929,6 @@
       "onboard_time": 1719216020,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158795,
-      "num": 158795,
-      "word": "凡希亚感谢邓紫棋",
-      "onboard_time": 1719632717,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 158583,
@@ -12377,6 +12385,14 @@
       "onboard_time": 1719373759,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153694,
+      "num": 153694,
+      "word": "向佐对郭碧婷说你永远是最棒的",
+      "onboard_time": 1719633917,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 153526,
@@ -13675,14 +13691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136478,
-      "num": 136478,
-      "word": "向佐对郭碧婷说你永远是最棒的",
-      "onboard_time": 1719633917,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136377,
       "num": 136377,
       "word": "世界上最不会打架的小狗出现了",
@@ -14219,6 +14227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128839,
+      "num": 210766,
+      "word": "济南事业编",
+      "onboard_time": 1719635536,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128728,
       "num": 128728,
       "word": "于正回应王星越吴谨言二搭",
@@ -14675,6 +14691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123469,
+      "num": 217240,
+      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
+      "onboard_time": 1719631758,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123234,
       "num": 123234,
       "word": "Ning教唆TheShy",
@@ -15019,6 +15043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118504,
+      "num": 118504,
+      "word": "歌手 RNB",
+      "onboard_time": 1719635840,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118323,
       "num": 118323,
       "word": "卢卡库",
@@ -15073,6 +15105,14 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117794,
+      "num": 117794,
+      "word": "把猫都舔成美式前刺了",
+      "onboard_time": 1719635718,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 117580,
@@ -15835,14 +15875,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 107695,
-      "num": 217240,
-      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
-      "onboard_time": 1719631758,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107454,
       "num": 107454,
       "word": "温网2024",
@@ -16033,6 +16065,14 @@
       "onboard_time": 1719523270,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103954,
+      "num": 123443,
+      "word": "从业8年临床医生说寒门更适合学医",
+      "onboard_time": 1719633079,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103943,
@@ -16867,14 +16907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81537,
-      "num": 123443,
-      "word": "从业8年临床医生说寒门更适合学医",
-      "onboard_time": 1719633079,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "陈鑫海王星越好会扭",
@@ -17299,6 +17331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65528,
+      "num": 406105,
+      "word": "那些赴韩做临时工的朝鲜族人",
+      "onboard_time": 1719634519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65029,
       "num": 200013,
       "word": "又被青岛大学毕业典礼惊艳了",
@@ -17393,14 +17433,6 @@
       "onboard_time": 1719570977,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 61139,
-      "num": 406105,
-      "word": "那些赴韩做临时工的朝鲜族人",
-      "onboard_time": 1719634519,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60973,
