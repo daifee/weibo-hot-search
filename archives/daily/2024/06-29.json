@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719643081131,
+  "endTime": 1719645521260,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1380376,
+      "num": 1380376,
+      "word": "刘亦菲说一些演员爆火就飘了",
+      "onboard_time": 1719640338,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1340218,
       "num": 1340218,
       "word": "因为微信照片发现的出轨行为",
@@ -51,20 +59,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1283691,
-      "num": 1283691,
-      "word": "刘亦菲说一些演员爆火就飘了",
-      "onboard_time": 1719640338,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1274938,
       "num": 1274938,
       "word": "85花 飞升失败",
       "onboard_time": 1719587422,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1209462,
+      "num": 583237,
+      "word": "网红面筋哥肝癌晚期进ICU",
+      "onboard_time": 1719642498,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1183182,
@@ -107,8 +115,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 833982,
+      "num": 833982,
+      "word": "妈妈丢了30年的吊坠苹果地里找到了",
+      "onboard_time": 1719642797,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793379,
-      "num": 511146,
+      "num": 543592,
       "word": "已婚男老师被曝邀请女生去私人影院",
       "onboard_time": 1719636497,
       "rank": 20,
@@ -195,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 586565,
+      "num": 382363,
+      "word": "胡歌女儿反向预测",
+      "onboard_time": 1719643817,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565455,
       "num": 339789,
       "word": "年入14亿夫妇给年轻人的建议",
@@ -235,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507660,
+      "num": 357306,
+      "word": "杨颖直播",
+      "onboard_time": 1719644958,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504200,
       "num": 227226,
       "word": "陈晓给刘亦菲提裙子",
       "onboard_time": 1719578720,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497083,
+      "num": 497083,
+      "word": "吃半年就能年轻十岁我妈竟然信了",
+      "onboard_time": 1719640818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494111,
@@ -347,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403493,
+      "num": 403493,
+      "word": "胖东来珠宝打假",
+      "onboard_time": 1719642078,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401540,
       "num": 474753,
       "word": "女子23万买石头相信外国王子会收购",
@@ -371,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392372,
-      "num": 271475,
-      "word": "网红面筋哥肝癌晚期进ICU",
-      "onboard_time": 1719642498,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 388279,
+      "num": 179979,
+      "word": "37岁找工作被告知只要30以内的",
+      "onboard_time": 1719641898,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 380382,
@@ -441,14 +489,6 @@
       "onboard_time": 1719629356,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312909,
-      "num": 263113,
-      "word": "胖东来珠宝打假",
-      "onboard_time": 1719642078,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305811,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 227650,
-      "num": 170006,
+      "num": 179760,
       "word": "为何更多男性相信一生一世一双人",
       "onboard_time": 1719639557,
       "rank": 23,
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202138,
-      "num": 163861,
-      "word": "37岁找工作被告知只要30以内的",
-      "onboard_time": 1719641898,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198733,
       "num": 187163,
       "word": "歌手 RNB",
@@ -737,6 +769,14 @@
       "onboard_time": 1719637399,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180306,
+      "num": 180306,
+      "word": "胡友平家属婉拒了看望和捐助",
+      "onboard_time": 1719645318,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180066,
@@ -787,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171852,
+      "num": 171852,
+      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+      "onboard_time": 1719642199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171845,
       "num": 153611,
       "word": "刘宇宁回应东北人偷偷背梗",
@@ -795,20 +843,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171502,
-      "num": 334215,
-      "word": "吃半年就能年轻十岁我妈竟然信了",
-      "onboard_time": 1719640818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170758,
       "num": 168628,
       "word": "王鹤棣工作室认不出王鹤棣",
       "onboard_time": 1719577578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "胡友平家属衷心感谢社会各界关心慰问",
+      "onboard_time": 1719645138,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166205,
@@ -881,6 +929,14 @@
       "onboard_time": 1719633917,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152469,
+      "num": 152469,
+      "word": "不合规贷款APP将直接下架",
+      "onboard_time": 1719642557,
+      "rank": 28,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 151678,
@@ -963,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145805,
+      "num": 145805,
+      "word": "33岁i人不上班的生活",
+      "onboard_time": 1719643517,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144268,
       "num": 233443,
       "word": "母校专门为我开了个专业是什么体验",
@@ -1035,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135437,
+      "num": 135437,
+      "word": "王鹤棣黑夜告白杀青",
+      "onboard_time": 1719643877,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134903,
       "num": 217707,
       "word": "河南三支一扶",
@@ -1067,12 +1139,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131830,
-      "num": 131830,
-      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
-      "onboard_time": 1719642199,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 130452,
+      "num": 130452,
+      "word": "东方甄选主播发贵州小作文",
+      "onboard_time": 1719644599,
+      "rank": 34,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 129284,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1719562158,
       "rank": 19,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 127902,
+      "num": 122249,
+      "word": "高叶给那英安利王鹤棣",
+      "onboard_time": 1719644179,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 126025,
@@ -1211,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114817,
+      "num": 114817,
+      "word": "奔跑吧下期布达佩斯之约",
+      "onboard_time": 1719644478,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114594,
       "num": 145126,
       "word": "张凌赫闻香开物理外挂",
@@ -1227,12 +1315,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109062,
-      "num": 274578,
-      "word": "妈妈丢了30年的吊坠苹果地里找到了",
-      "onboard_time": 1719642797,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 113265,
+      "num": 113265,
+      "word": "你的名字重映谁叫韦一敏",
+      "onboard_time": 1719643277,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 106572,
@@ -1256,6 +1344,14 @@
       "word": "女儿回应53岁妈妈复旦硕士毕业",
       "onboard_time": 1719622996,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104974,
+      "num": 104974,
+      "word": "浙江嘉兴发生交通事故4人死亡",
+      "onboard_time": 1719645378,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1345,6 +1441,14 @@
       "onboard_time": 1719639617,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90567,
+      "num": 90567,
+      "word": "王星越最遭不住的一句话",
+      "onboard_time": 1719645439,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90454,
@@ -1536,6 +1640,14 @@
       "word": "她将家乡受灾的消息发进了业主群",
       "onboard_time": 1719626717,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40877,
+      "num": 403029,
+      "word": "高考查分之后的人间悲喜",
+      "onboard_time": 1719644417,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
