@@ -1,0 +1,410 @@
+{
+  "runTime": 1719646476015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211431,
+        "num": 1211431,
+        "word": "刘亦菲说一些演员爆火就飘了",
+        "onboard_time": 1719640338,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889728,
+        "num": 889728,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52134,
+        "num": 848409,
+        "word": "2024中国AI盛典",
+        "onboard_time": 1719632418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110716,
+        "num": 844158,
+        "word": "网红面筋哥肝癌晚期进ICU",
+        "onboard_time": 1719642498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827838,
+        "num": 827838,
+        "word": "十个勤天演唱会疑似抄袭鹿晗",
+        "onboard_time": 1719637938,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481051,
+        "num": 481051,
+        "word": "吃半年就能年轻十岁我妈竟然信了",
+        "onboard_time": 1719640818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464103,
+        "num": 464103,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407134,
+        "num": 407134,
+        "word": "胡友平家属婉拒了看望和捐助",
+        "onboard_time": 1719645318,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390335,
+        "num": 390335,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166346,
+        "num": 387111,
+        "word": "不合规贷款APP将直接下架",
+        "onboard_time": 1719642557,
+        "rank": 9,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 1347479,
+        "num": 376565,
+        "word": "杨颖直播",
+        "onboard_time": 1719644958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821202,
+        "num": 370670,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 11,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 624856,
+        "num": 360257,
+        "word": "胡歌女儿反向预测",
+        "onboard_time": 1719643817,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487221,
+        "num": 351837,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349891,
+        "num": 349891,
+        "word": "胖东来珠宝打假",
+        "onboard_time": 1719642078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300577,
+        "num": 300577,
+        "word": "王韵壹去世",
+        "onboard_time": 1719628097,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242817,
+        "num": 242817,
+        "word": "浙江嘉兴发生交通事故4人死亡",
+        "onboard_time": 1719645378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200218,
+        "num": 200218,
+        "word": "水断食在韩国流行",
+        "onboard_time": 1719633377,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184270,
+        "num": 184270,
+        "word": "超17%老师的心理问题出在哪儿",
+        "onboard_time": 1719637218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 181548,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400004,
+        "num": 178520,
+        "word": "37岁找工作被告知只要30以内的",
+        "onboard_time": 1719641898,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193363,
+        "num": 176426,
+        "word": "为何更多男性相信一生一世一双人",
+        "onboard_time": 1719639557,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173310,
+        "num": 173310,
+        "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+        "onboard_time": 1719642199,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168748,
+        "num": 168748,
+        "word": "玖月晞 抄袭",
+        "onboard_time": 1719625338,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167508,
+        "num": 167508,
+        "word": "33岁i人不上班的生活",
+        "onboard_time": 1719643517,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154279,
+        "num": 154279,
+        "word": "谁懂张凌赫弯下腰来的那一刻",
+        "onboard_time": 1719624199,
+        "rank": 25,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 149595,
+        "num": 149595,
+        "word": "救人的怀孕女子原来是一名军医",
+        "onboard_time": 1719624857,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142758,
+        "num": 142758,
+        "word": "种地吧",
+        "onboard_time": 1719636438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141568,
+        "num": 141568,
+        "word": "东方甄选主播发贵州小作文",
+        "onboard_time": 1719644599,
+        "rank": 28,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 140609,
+        "num": 140609,
+        "word": "谁家大小姐一出场就跑酷啊",
+        "onboard_time": 1719633498,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139102,
+        "num": 139102,
+        "word": "胡友平家属衷心感谢社会各界关心慰问",
+        "onboard_time": 1719645138,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133771,
+        "num": 133771,
+        "word": "奔跑吧下期布达佩斯之约",
+        "onboard_time": 1719644478,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133393,
+        "num": 133393,
+        "word": "中国日报发了杨紫",
+        "onboard_time": 1719646158,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130904,
+        "num": 130904,
+        "word": "高叶给那英安利王鹤棣",
+        "onboard_time": 1719644179,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129041,
+        "num": 129041,
+        "word": "朋友称王韵壹因身体原因去世",
+        "onboard_time": 1719642317,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115956,
+        "num": 115956,
+        "word": "凡希亚的提词器",
+        "onboard_time": 1719634458,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122488,
+        "num": 114107,
+        "word": "团队回应王韵壹去世",
+        "onboard_time": 1719640276,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70680,
+        "num": 112173,
+        "word": "高考查分之后的人间悲喜",
+        "onboard_time": 1719644417,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130204,
+        "num": 112038,
+        "word": "王鹤棣黑夜告白杀青",
+        "onboard_time": 1719643877,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111888,
+        "num": 111888,
+        "word": "刘宇宁回应东北人偷偷背梗",
+        "onboard_time": 1719640037,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104833,
+        "num": 104833,
+        "word": "张恒远",
+        "onboard_time": 1719646337,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104104,
+        "num": 104104,
+        "word": "真的好讨厌一杯奶茶钱的说法",
+        "onboard_time": 1719619516,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101711,
+        "num": 101711,
+        "word": "英国35岁男子将参加奥运女子赛艇项目",
+        "onboard_time": 1719641656,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 98791,
+        "num": 98791,
+        "word": "范丞丞抽白鹿凳子",
+        "onboard_time": 1719637458,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96103,
+        "num": 96103,
+        "word": "易烊千玺阿那亚库存",
+        "onboard_time": 1719635536,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95916,
+        "num": 95916,
+        "word": "微信分期上线",
+        "onboard_time": 1719646217,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 89068,
+        "num": 89068,
+        "word": "王星越最遭不住的一句话",
+        "onboard_time": 1719645439,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88235,
+        "num": 88235,
+        "word": "沉寂十年的高中群开始点情侣名了",
+        "onboard_time": 1719638898,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86389,
+        "num": 86389,
+        "word": "这种饮料既伤肝又有致癌风险",
+        "onboard_time": 1719627677,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9798,
+        "num": 85881,
+        "word": "奥运冠军领奖鞋套装市售限量2024双",
+        "onboard_time": 1719646458,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全面深改习近平用过这些比喻#"
+    }
+  }
+}

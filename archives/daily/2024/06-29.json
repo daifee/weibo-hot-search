@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719645521260,
+  "endTime": 1719646476015,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1347479,
+      "num": 376565,
+      "word": "杨颖直播",
+      "onboard_time": 1719644958,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1340218,
       "num": 1340218,
       "word": "因为微信照片发现的出轨行为",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1209462,
-      "num": 583237,
+      "num": 844158,
       "word": "网红面筋哥肝癌晚期进ICU",
       "onboard_time": 1719642498,
       "rank": 13,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1183182,
-      "num": 623122,
+      "num": 827838,
       "word": "十个勤天演唱会疑似抄袭鹿晗",
       "onboard_time": 1719637938,
       "rank": 21,
@@ -115,8 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 833982,
-      "num": 833982,
+      "raw_hot": 889728,
+      "num": 889728,
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
       "onboard_time": 1719642797,
       "rank": 12,
@@ -203,20 +211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624856,
+      "num": 382363,
+      "word": "胡歌女儿反向预测",
+      "onboard_time": 1719643817,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587051,
       "num": 587051,
       "word": "水断食在韩国流行",
       "onboard_time": 1719633377,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 586565,
-      "num": 382363,
-      "word": "胡歌女儿反向预测",
-      "onboard_time": 1719643817,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 565455,
@@ -257,14 +265,6 @@
       "onboard_time": 1719583585,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 507660,
-      "num": 357306,
-      "word": "杨颖直播",
-      "onboard_time": 1719644958,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 504200,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407134,
+      "num": 407134,
+      "word": "胡友平家属婉拒了看望和捐助",
+      "onboard_time": 1719645318,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403493,
       "num": 403493,
       "word": "胖东来珠宝打假",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400004,
+      "num": 179979,
+      "word": "37岁找工作被告知只要30以内的",
+      "onboard_time": 1719641898,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394259,
       "num": 394259,
       "word": "男子清华毕业1年重新高考学中医",
@@ -417,14 +433,6 @@
       "onboard_time": 1719632897,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388279,
-      "num": 179979,
-      "word": "37岁找工作被告知只要30以内的",
-      "onboard_time": 1719641898,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 380382,
@@ -603,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242817,
+      "num": 242817,
+      "word": "浙江嘉兴发生交通事故4人死亡",
+      "onboard_time": 1719645378,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232016,
       "num": 275661,
       "word": "英雄联盟崩了",
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180306,
-      "num": 180306,
-      "word": "胡友平家属婉拒了看望和捐助",
-      "onboard_time": 1719645318,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180066,
       "num": 180066,
       "word": "种地吧",
@@ -819,20 +827,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173310,
+      "num": 173310,
+      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+      "onboard_time": 1719642199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172907,
       "num": 172907,
       "word": "闫妮站姿好像在等公交",
       "onboard_time": 1719630317,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171852,
-      "num": 171852,
-      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
-      "onboard_time": 1719642199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171845,
@@ -851,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167508,
+      "num": 167508,
+      "word": "33岁i人不上班的生活",
+      "onboard_time": 1719643517,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167151,
       "num": 167151,
       "word": "胡友平家属衷心感谢社会各界关心慰问",
       "onboard_time": 1719645138,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166346,
+      "num": 387111,
+      "word": "不合规贷款APP将直接下架",
+      "onboard_time": 1719642557,
+      "rank": 28,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 166205,
@@ -929,14 +953,6 @@
       "onboard_time": 1719633917,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152469,
-      "num": 152469,
-      "word": "不合规贷款APP将直接下架",
-      "onboard_time": 1719642557,
-      "rank": 28,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 151678,
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145805,
-      "num": 145805,
-      "word": "33岁i人不上班的生活",
-      "onboard_time": 1719643517,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144268,
       "num": 233443,
       "word": "母校专门为我开了个专业是什么体验",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1719639317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141568,
+      "num": 141568,
+      "word": "东方甄选主播发贵州小作文",
+      "onboard_time": 1719644599,
+      "rank": 34,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 141110,
@@ -1115,12 +1131,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133771,
+      "num": 133771,
+      "word": "奔跑吧下期布达佩斯之约",
+      "onboard_time": 1719644478,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133407,
       "num": 133407,
       "word": "中国小伙的设计在国外火了",
       "onboard_time": 1719622398,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133393,
+      "num": 133393,
+      "word": "中国日报发了杨紫",
+      "onboard_time": 1719646158,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 132836,
@@ -1139,12 +1171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130452,
-      "num": 130452,
-      "word": "东方甄选主播发贵州小作文",
-      "onboard_time": 1719644599,
-      "rank": 34,
-      "category": "社会新闻,互联网"
+      "raw_hot": 130904,
+      "num": 130904,
+      "word": "高叶给那英安利王鹤棣",
+      "onboard_time": 1719644179,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 129284,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1719562158,
       "rank": 19,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 127902,
-      "num": 122249,
-      "word": "高叶给那英安利王鹤棣",
-      "onboard_time": 1719644179,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 126025,
@@ -1291,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114817,
-      "num": 114817,
-      "word": "奔跑吧下期布达佩斯之约",
-      "onboard_time": 1719644478,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114594,
       "num": 145126,
       "word": "张凌赫闻香开物理外挂",
@@ -1347,12 +1363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104974,
-      "num": 104974,
-      "word": "浙江嘉兴发生交通事故4人死亡",
-      "onboard_time": 1719645378,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 104833,
+      "num": 104833,
+      "word": "张恒远",
+      "onboard_time": 1719646337,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 103954,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1719639438,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95916,
+      "num": 95916,
+      "word": "微信分期上线",
+      "onboard_time": 1719646217,
+      "rank": 45,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 95268,
@@ -1531,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70680,
+      "num": 403029,
+      "word": "高考查分之后的人间悲喜",
+      "onboard_time": 1719644417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69306,
       "num": 143526,
       "word": "infp每天典型的4种状态",
@@ -1643,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40877,
-      "num": 403029,
-      "word": "高考查分之后的人间悲喜",
-      "onboard_time": 1719644417,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38655,
       "num": 47518,
       "word": "鸣潮1.1版本",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1719616635,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9798,
+      "num": 85881,
+      "word": "奥运冠军领奖鞋套装市售限量2024双",
+      "onboard_time": 1719646458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 8964,
