@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719642321812,
+  "endTime": 1719643081131,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1283691,
+      "num": 1283691,
+      "word": "刘亦菲说一些演员爆火就飘了",
+      "onboard_time": 1719640338,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274938,
       "num": 1274938,
       "word": "85花 飞升失败",
@@ -65,14 +73,6 @@
       "onboard_time": 1719637938,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1117427,
-      "num": 1117427,
-      "word": "刘亦菲说一些演员爆火就飘了",
-      "onboard_time": 1719640338,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1017419,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392372,
+      "num": 271475,
+      "word": "网红面筋哥肝癌晚期进ICU",
+      "onboard_time": 1719642498,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380382,
       "num": 360849,
       "word": "虞书欣恭喜姜妍",
@@ -433,6 +441,14 @@
       "onboard_time": 1719629356,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312909,
+      "num": 263113,
+      "word": "胖东来珠宝打假",
+      "onboard_time": 1719642078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305811,
@@ -563,6 +579,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 227650,
+      "num": 170006,
+      "word": "为何更多男性相信一生一世一双人",
+      "onboard_time": 1719639557,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226520,
       "num": 226520,
       "word": "美国防部披露大量供乌物资失踪",
@@ -643,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207246,
+      "num": 169138,
+      "word": "朋友称王韵壹因身体原因去世",
+      "onboard_time": 1719642317,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204987,
       "num": 176788,
       "word": "凡希亚在中国city不city",
@@ -651,20 +683,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202138,
+      "num": 163861,
+      "word": "37岁找工作被告知只要30以内的",
+      "onboard_time": 1719641898,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198733,
       "num": 187163,
       "word": "歌手 RNB",
       "onboard_time": 1719635840,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195545,
-      "num": 156923,
-      "word": "为何更多男性相信一生一世一双人",
-      "onboard_time": 1719639557,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192245,
@@ -755,20 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171845,
+      "num": 153611,
+      "word": "刘宇宁回应东北人偷偷背梗",
+      "onboard_time": 1719640037,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171502,
+      "num": 334215,
+      "word": "吃半年就能年轻十岁我妈竟然信了",
+      "onboard_time": 1719640818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170758,
       "num": 168628,
       "word": "王鹤棣工作室认不出王鹤棣",
       "onboard_time": 1719577578,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169099,
-      "num": 151323,
-      "word": "刘宇宁回应东北人偷偷背梗",
-      "onboard_time": 1719640037,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 166205,
@@ -979,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135704,
+      "num": 135704,
+      "word": "绝区零街霸6制作人对谈",
+      "onboard_time": 1719642437,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135527,
       "num": 116394,
       "word": "周迅口碑",
@@ -995,14 +1043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134382,
-      "num": 134382,
-      "word": "37岁找工作被告知只要30以内的",
-      "onboard_time": 1719641898,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133407,
       "num": 133407,
       "word": "中国小伙的设计在国外火了",
@@ -1011,12 +1051,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132836,
+      "num": 132836,
+      "word": "英国35岁男子将参加奥运女子赛艇项目",
+      "onboard_time": 1719641656,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 132641,
       "num": 132641,
       "word": "带状疱疹有多疼",
       "onboard_time": 1719624017,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131830,
+      "num": 131830,
+      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+      "onboard_time": 1719642199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129284,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1719562158,
       "rank": 19,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 126730,
-      "num": 163274,
-      "word": "胖东来珠宝打假",
-      "onboard_time": 1719642078,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126025,
@@ -1179,12 +1227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109841,
-      "num": 109841,
-      "word": "英国35岁男子将参加奥运女子赛艇项目",
-      "onboard_time": 1719641656,
-      "rank": 45,
-      "category": "体育,社会新闻"
+      "raw_hot": 109062,
+      "num": 274578,
+      "word": "妈妈丢了30年的吊坠苹果地里找到了",
+      "onboard_time": 1719642797,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106572,
@@ -1289,22 +1337,6 @@
       "onboard_time": 1719628877,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92212,
-      "num": 334215,
-      "word": "吃半年就能年轻十岁我妈竟然信了",
-      "onboard_time": 1719640818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91376,
-      "num": 91376,
-      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
-      "onboard_time": 1719642199,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91170,
@@ -1467,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52085,
+      "num": 291957,
+      "word": "四川一高校走出200多位银行行长",
+      "onboard_time": 1719640818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51919,
       "num": 51919,
       "word": "陈乔恩回复导演陈铭章",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1719584663,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44297,
-      "num": 291957,
-      "word": "四川一高校走出200多位银行行长",
-      "onboard_time": 1719640818,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41395,
