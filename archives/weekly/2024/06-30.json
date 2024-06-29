@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719681394887,
+  "endTime": 1719682465592,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124888,
+      "num": 139663,
+      "word": "瑞士vs意大利",
+      "onboard_time": 1719672199,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119059,
       "num": 139799,
       "word": "度华年",
@@ -305,14 +313,6 @@
       "onboard_time": 1719674600,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98552,
-      "num": 139663,
-      "word": "瑞士vs意大利",
-      "onboard_time": 1719672199,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97371,
@@ -395,12 +395,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62037,
-      "num": 62037,
+      "raw_hot": 64082,
+      "num": 90470,
       "word": "朱志鑫 绝对C位",
       "onboard_time": 1719666019,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50714,
+      "num": 90421,
+      "word": "谢霆锋回应保险公司不敢给他投保",
+      "onboard_time": 1719682214,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 45736,
+      "num": 90451,
+      "word": "一条plog告别六月",
+      "onboard_time": 1719681316,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 37875,
@@ -412,19 +428,11 @@
     },
     {
       "raw_hot": 37557,
-      "num": 61159,
+      "num": 90403,
       "word": "德国vs丹麦",
       "onboard_time": 1719672980,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34952,
-      "num": 61144,
-      "word": "一条plog告别六月",
-      "onboard_time": 1719681316,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 28523,

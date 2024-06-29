@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719681394887,
+  "endTime": 1719682465592,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -65131,6 +65131,14 @@
       "category": "读书作家,互联网"
     },
     {
+      "raw_hot": 124888,
+      "num": 139663,
+      "word": "瑞士vs意大利",
+      "onboard_time": 1719672199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124886,
       "num": 124886,
       "word": "张新成陷入沈月单依纯夸夸团",
@@ -65353,14 +65361,6 @@
       "onboard_time": 1717558878,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124408,
-      "num": 139663,
-      "word": "瑞士vs意大利",
-      "onboard_time": 1719672199,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 124359,
@@ -79755,6 +79755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50714,
+      "num": 90421,
+      "word": "谢霆锋回应保险公司不敢给他投保",
+      "onboard_time": 1719682214,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50710,
       "num": 243488,
       "word": "多家车企呼吁竞争要守住底线",
@@ -80505,6 +80513,14 @@
       "onboard_time": 1719579260,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45736,
+      "num": 90451,
+      "word": "一条plog告别六月",
+      "onboard_time": 1719681316,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 45660,
@@ -82337,14 +82353,6 @@
       "onboard_time": 1719530356,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 34952,
-      "num": 61144,
-      "word": "一条plog告别六月",
-      "onboard_time": 1719681316,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 34947,
