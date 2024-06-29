@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719639495011,
+  "endTime": 1719642321812,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1117427,
+      "num": 1117427,
+      "word": "刘亦菲说一些演员爆火就飘了",
+      "onboard_time": 1719640338,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017419,
       "num": 1017419,
       "word": "王韵壹去世",
@@ -97,6 +105,14 @@
       "onboard_time": 1719581723,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 793379,
+      "num": 511146,
+      "word": "已婚男老师被曝邀请女生去私人影院",
+      "onboard_time": 1719636497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772407,
@@ -169,14 +185,6 @@
       "onboard_time": 1719583228,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 603942,
-      "num": 223226,
-      "word": "已婚男老师被曝邀请女生去私人影院",
-      "onboard_time": 1719636497,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587051,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417496,
+      "num": 485349,
+      "word": "超17%老师的心理问题出在哪儿",
+      "onboard_time": 1719637218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414303,
       "num": 272549,
       "word": "这种饮料既伤肝又有致癌风险",
@@ -400,6 +416,14 @@
       "word": "胡歌去年影帝今年视帝",
       "onboard_time": 1719619637,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330716,
+      "num": 330716,
+      "word": "团队回应王韵壹去世",
+      "onboard_time": 1719640276,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195545,
+      "num": 156923,
+      "word": "为何更多男性相信一生一世一双人",
+      "onboard_time": 1719639557,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192245,
       "num": 164671,
       "word": "白玉兰",
@@ -729,6 +761,14 @@
       "onboard_time": 1719577578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169099,
+      "num": 151323,
+      "word": "刘宇宁回应东北人偷偷背梗",
+      "onboard_time": 1719640037,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166205,
@@ -827,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148773,
+      "num": 148773,
+      "word": "沉寂十年的高中群开始点情侣名了",
+      "onboard_time": 1719638898,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148077,
       "num": 148077,
       "word": "十个勤天演唱会",
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145557,
-      "num": 145557,
-      "word": "沉寂十年的高中群开始点情侣名了",
-      "onboard_time": 1719638898,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144268,
       "num": 233443,
       "word": "母校专门为我开了个专业是什么体验",
@@ -896,6 +936,14 @@
       "word": "谭维维有以前歌手那味儿了",
       "onboard_time": 1719590120,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143892,
+      "num": 143892,
+      "word": "汪苏泷情商",
+      "onboard_time": 1719639317,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -947,6 +995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134382,
+      "num": 134382,
+      "word": "37岁找工作被告知只要30以内的",
+      "onboard_time": 1719641898,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133407,
       "num": 133407,
       "word": "中国小伙的设计在国外火了",
@@ -963,20 +1019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131683,
-      "num": 485349,
-      "word": "超17%老师的心理问题出在哪儿",
-      "onboard_time": 1719637218,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130390,
-      "num": 130390,
-      "word": "汪苏泷情商",
-      "onboard_time": 1719639317,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "把推销电话当成面试硬聊了十分钟",
+      "onboard_time": 1719640998,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 128839,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1719562158,
       "rank": 19,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 126730,
+      "num": 163274,
+      "word": "胖东来珠宝打假",
+      "onboard_time": 1719642078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126025,
@@ -1123,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109841,
+      "num": 109841,
+      "word": "英国35岁男子将参加奥运女子赛艇项目",
+      "onboard_time": 1719641656,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 106572,
       "num": 106572,
       "word": "25岁来欧洲半年长高了5厘米",
@@ -1225,6 +1289,30 @@
       "onboard_time": 1719628877,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92212,
+      "num": 334215,
+      "word": "吃半年就能年轻十岁我妈竟然信了",
+      "onboard_time": 1719640818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91376,
+      "num": 91376,
+      "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+      "onboard_time": 1719642199,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91170,
+      "num": 91170,
+      "word": "世界锅包肉大赛",
+      "onboard_time": 1719639617,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 90454,
@@ -1401,6 +1489,14 @@
       "onboard_time": 1719584663,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44297,
+      "num": 291957,
+      "word": "四川一高校走出200多位银行行长",
+      "onboard_time": 1719640818,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41395,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719642321812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117427,
+        "num": 1117427,
+        "word": "刘亦菲说一些演员爆火就飘了",
+        "onboard_time": 1719640338,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689202,
+        "num": 689202,
+        "word": "玖月晞 抄袭",
+        "onboard_time": 1719625338,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 60928,
+        "num": 525940,
+        "word": "2024中国AI盛典",
+        "onboard_time": 1719632418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088451,
+        "num": 513605,
+        "word": "十个勤天演唱会疑似抄袭鹿晗",
+        "onboard_time": 1719637938,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 793379,
+        "num": 511146,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417496,
+        "num": 417496,
+        "word": "超17%老师的心理问题出在哪儿",
+        "onboard_time": 1719637218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678829,
+        "num": 406903,
+        "word": "王韵壹去世",
+        "onboard_time": 1719628097,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513157,
+        "num": 401190,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344316,
+        "num": 344316,
+        "word": "水断食在韩国流行",
+        "onboard_time": 1719633377,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92212,
+        "num": 334215,
+        "word": "吃半年就能年轻十岁我妈竟然信了",
+        "onboard_time": 1719640818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168786,
+        "num": 332538,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 10,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 789683,
+        "num": 331637,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330716,
+        "num": 330716,
+        "word": "团队回应王韵壹去世",
+        "onboard_time": 1719640276,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317338,
+        "num": 317338,
+        "word": "救人的怀孕女子原来是一名军医",
+        "onboard_time": 1719624857,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 44297,
+        "num": 291957,
+        "word": "四川一高校走出200多位银行行长",
+        "onboard_time": 1719640818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288396,
+        "num": 288396,
+        "word": "谁家大小姐一出场就跑酷啊",
+        "onboard_time": 1719633498,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255468,
+        "num": 255468,
+        "word": "凡希亚的提词器",
+        "onboard_time": 1719634458,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173745,
+        "num": 173745,
+        "word": "美国防部披露大量供乌物资失踪",
+        "onboard_time": 1719632178,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164468,
+        "num": 164468,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 126730,
+        "num": 163274,
+        "word": "胖东来珠宝打假",
+        "onboard_time": 1719642078,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252673,
+        "num": 162484,
+        "word": "耳帝说黄宣第八实属冤案",
+        "onboard_time": 1719636258,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232466,
+        "num": 159230,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205545,
+        "num": 158904,
+        "word": "谁懂张凌赫弯下腰来的那一刻",
+        "onboard_time": 1719624199,
+        "rank": 22,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 195545,
+        "num": 156923,
+        "word": "为何更多男性相信一生一世一双人",
+        "onboard_time": 1719639557,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174104,
+        "num": 154915,
+        "word": "真的好讨厌一杯奶茶钱的说法",
+        "onboard_time": 1719619516,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122276,
+        "num": 152436,
+        "word": "妻子离世12年老人守着大树给亡妻写信",
+        "onboard_time": 1719635898,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169099,
+        "num": 151323,
+        "word": "刘宇宁回应东北人偷偷背梗",
+        "onboard_time": 1719640037,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150500,
+        "num": 150500,
+        "word": "种地吧",
+        "onboard_time": 1719636438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148773,
+        "num": 148773,
+        "word": "沉寂十年的高中群开始点情侣名了",
+        "onboard_time": 1719638898,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "林一沈月扯领带吻戏",
+        "onboard_time": 1719637038,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 143892,
+        "word": "汪苏泷情商",
+        "onboard_time": 1719639317,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141841,
+        "num": 141841,
+        "word": "范丞丞抽白鹿凳子",
+        "onboard_time": 1719637458,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134382,
+        "num": 134382,
+        "word": "37岁找工作被告知只要30以内的",
+        "onboard_time": 1719641898,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131828,
+        "num": 131828,
+        "word": "这种饮料既伤肝又有致癌风险",
+        "onboard_time": 1719627677,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131576,
+        "num": 131576,
+        "word": "易烊千玺阿那亚库存",
+        "onboard_time": 1719635536,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130615,
+        "num": 130615,
+        "word": "辛芷蕾新剧空降",
+        "onboard_time": 1719637278,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129284,
+        "num": 129284,
+        "word": "把推销电话当成面试硬聊了十分钟",
+        "onboard_time": 1719640998,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 125677,
+        "word": "周迅 白玉兰还是很想得的",
+        "onboard_time": 1719632897,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120563,
+        "num": 120563,
+        "word": "张书豪大欧阳妮妮8岁",
+        "onboard_time": 1719633138,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116806,
+        "num": 116806,
+        "word": "三支一扶",
+        "onboard_time": 1719633138,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119829,
+        "num": 116769,
+        "word": "虞书欣恭喜姜妍",
+        "onboard_time": 1719622757,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114991,
+        "num": 114991,
+        "word": "歌手",
+        "onboard_time": 1719638718,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 114990,
+        "word": "周迅回应如懿传争议",
+        "onboard_time": 1719626717,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114976,
+        "num": 114976,
+        "word": "歌手 RNB",
+        "onboard_time": 1719635840,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112881,
+        "num": 112881,
+        "word": "王星越正是容易饿的年纪",
+        "onboard_time": 1719638777,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109841,
+        "num": 109841,
+        "word": "英国35岁男子将参加奥运女子赛艇项目",
+        "onboard_time": 1719641656,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 100676,
+        "num": 100676,
+        "word": "原来零食袋是这样拆的",
+        "onboard_time": 1719633618,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93946,
+        "num": 93946,
+        "word": "同事离职后留下了一封诀别信",
+        "onboard_time": 1719629356,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 91376,
+        "word": "2岁幼童杂耍卖艺后伸手求抱抱",
+        "onboard_time": 1719642199,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 91170,
+        "word": "世界锅包肉大赛",
+        "onboard_time": 1719639617,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全面深改习近平用过这些比喻#"
+    }
+  }
+}
