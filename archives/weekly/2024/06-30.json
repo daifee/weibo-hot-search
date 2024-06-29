@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719703181825,
+  "endTime": 1719704144917,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -49,6 +49,14 @@
       "onboard_time": 1719656897,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 527079,
+      "num": 527079,
+      "word": "李一桐 蜈蚣",
+      "onboard_time": 1719702854,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 519384,
@@ -147,6 +155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 219480,
+      "num": 219480,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
@@ -169,6 +185,14 @@
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 186074,
+      "num": 144788,
+      "word": "瑞士晋级欧洲杯8强",
+      "onboard_time": 1719703093,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 182847,
@@ -195,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167680,
-      "num": 167680,
-      "word": "上海仅5张桌的米其林老板娘有多结棍",
-      "onboard_time": 1719667159,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163211,
       "num": 163211,
       "word": "喝绿豆汤最好一天别超过500ml",
@@ -217,6 +233,14 @@
       "onboard_time": 1719676278,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158394,
+      "num": 158394,
+      "word": "意大利欧洲杯出局",
+      "onboard_time": 1719702494,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 153135,
@@ -283,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121663,
+      "num": 121663,
+      "word": "2024上半年最后1天",
+      "onboard_time": 1719702674,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119059,
       "num": 139799,
       "word": "度华年",
@@ -291,8 +323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115907,
-      "num": 115907,
+      "raw_hot": 117271,
+      "num": 117271,
       "word": "六公主第三次播封神",
       "onboard_time": 1719698413,
       "rank": 23,
@@ -305,14 +337,6 @@
       "onboard_time": 1719674058,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111367,
-      "num": 111367,
-      "word": "意大利欧洲杯出局",
-      "onboard_time": 1719702494,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 111021,
@@ -329,6 +353,14 @@
       "onboard_time": 1719668720,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 105667,
+      "num": 83039,
+      "word": "宋丹丹一家六口阿那亚度假",
+      "onboard_time": 1719661698,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 103974,
@@ -355,14 +387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93136,
-      "num": 93136,
-      "word": "李一桐 蜈蚣",
-      "onboard_time": 1719702854,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90546,
       "num": 139638,
       "word": "张子墨 喜剧人",
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 85453,
-      "num": 53307,
+      "num": 55249,
       "word": "意大利0比2瑞士",
       "onboard_time": 1719702494,
       "rank": 30,
@@ -385,6 +409,22 @@
       "onboard_time": 1719669020,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83170,
+      "num": 83170,
+      "word": "终于知道啥是city不city了",
+      "onboard_time": 1719703693,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81518,
+      "num": 64302,
+      "word": "德国vs丹麦因雷暴天气被吹停",
+      "onboard_time": 1719703213,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 81295,
@@ -427,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71156,
-      "num": 52751,
-      "word": "2024上半年最后1天",
-      "onboard_time": 1719702674,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70513,
       "num": 139324,
       "word": "eStar战胜AG",
@@ -457,6 +489,14 @@
       "onboard_time": 1719666019,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56774,
+      "num": 56774,
+      "word": "鞠婧祎红发挑染",
+      "onboard_time": 1719703333,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54968,
@@ -507,11 +547,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35288,
-      "num": 49642,
-      "word": "瑞士晋级欧洲杯8强",
-      "onboard_time": 1719703093,
-      "rank": 40,
+      "raw_hot": 36121,
+      "num": 49639,
+      "word": "哈弗茨点球破门",
+      "onboard_time": 1719703033,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35933,
+      "num": 48472,
+      "word": "丹麦欧洲杯出局",
+      "onboard_time": 1719703394,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -555,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 29393,
-      "num": 49639,
-      "word": "哈弗茨点球破门",
-      "onboard_time": 1719703033,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 28523,
       "num": 695913,
       "word": "穿越千年看大运河秀美画卷",
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 13858,
-      "num": 121549,
+      "num": 146816,
       "word": "贵州暴雨消防出动31车152人救援",
       "onboard_time": 1719702612,
       "rank": 9,

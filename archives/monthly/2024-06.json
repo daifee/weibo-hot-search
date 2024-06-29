@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719703181825,
+  "endTime": 1719704144917,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -14968,6 +14968,14 @@
       "word": "刘亦菲汪俊互关了",
       "onboard_time": 1719059538,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 527079,
+      "num": 527079,
+      "word": "李一桐 蜈蚣",
+      "onboard_time": 1719702854,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -45667,6 +45675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186074,
+      "num": 144788,
+      "word": "瑞士晋级欧洲杯8强",
+      "onboard_time": 1719703093,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "董宇辉说霍启刚家里金牌太多了",
@@ -53513,6 +53529,14 @@
       "onboard_time": 1718705898,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158394,
+      "num": 158394,
+      "word": "意大利欧洲杯出局",
+      "onboard_time": 1719702494,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 158342,
@@ -66275,6 +66299,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 121663,
+      "num": 121663,
+      "word": "2024上半年最后1天",
+      "onboard_time": 1719702674,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121659,
       "num": 121659,
       "word": "赛龙舟",
@@ -67611,6 +67643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117271,
+      "num": 117271,
+      "word": "六公主第三次播封神",
+      "onboard_time": 1719698413,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117217,
       "num": 508843,
       "word": "跨越时空的6月17日",
@@ -68081,14 +68121,6 @@
       "onboard_time": 1717312218,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115907,
-      "num": 115907,
-      "word": "六公主第三次播封神",
-      "onboard_time": 1719698413,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 115903,
@@ -69561,14 +69593,6 @@
       "onboard_time": 1717686079,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 111367,
-      "num": 111367,
-      "word": "意大利欧洲杯出局",
-      "onboard_time": 1719702494,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 111348,
@@ -73899,14 +73923,6 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 93136,
-      "num": 93136,
-      "word": "李一桐 蜈蚣",
-      "onboard_time": 1719702854,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93095,
       "num": 93095,
       "word": "看福宝的最佳时间",
@@ -74796,7 +74812,7 @@
     },
     {
       "raw_hot": 85453,
-      "num": 53307,
+      "num": 55249,
       "word": "意大利0比2瑞士",
       "onboard_time": 1719702494,
       "rank": 30,
@@ -75115,6 +75131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83170,
+      "num": 83170,
+      "word": "终于知道啥是city不city了",
+      "onboard_time": 1719703693,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83119,
       "num": 480521,
       "word": "当前楼市以价换量后续走势如何",
@@ -75249,6 +75273,14 @@
       "onboard_time": 1717218018,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 81518,
+      "num": 64302,
+      "word": "德国vs丹麦因雷暴天气被吹停",
+      "onboard_time": 1719703213,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 81373,
@@ -76640,14 +76672,6 @@
       "word": "小哥接到女子代买敌敌畏订单立马报警",
       "onboard_time": 1719104537,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71156,
-      "num": 52751,
-      "word": "2024上半年最后1天",
-      "onboard_time": 1719702674,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -78785,6 +78809,14 @@
       "onboard_time": 1717994118,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 56774,
+      "num": 56774,
+      "word": "鞠婧祎红发挑染",
+      "onboard_time": 1719703333,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56761,
@@ -82211,6 +82243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36121,
+      "num": 49639,
+      "word": "哈弗茨点球破门",
+      "onboard_time": 1719703033,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36066,
       "num": 77641,
       "word": "男子不知浙江高速拖车免费拒绝施救",
@@ -82241,6 +82281,14 @@
       "onboard_time": 1717887792,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35933,
+      "num": 48472,
+      "word": "丹麦欧洲杯出局",
+      "onboard_time": 1719703394,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 35853,
@@ -82353,14 +82401,6 @@
       "onboard_time": 1719470180,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35288,
-      "num": 49642,
-      "word": "瑞士晋级欧洲杯8强",
-      "onboard_time": 1719703093,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 35286,
@@ -83377,14 +83417,6 @@
       "onboard_time": 1717589898,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29393,
-      "num": 49639,
-      "word": "哈弗茨点球破门",
-      "onboard_time": 1719703033,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 29389,
@@ -85796,7 +85828,7 @@
     },
     {
       "raw_hot": 13858,
-      "num": 121549,
+      "num": 146816,
       "word": "贵州暴雨消防出动31车152人救援",
       "onboard_time": 1719702612,
       "rank": 9,
