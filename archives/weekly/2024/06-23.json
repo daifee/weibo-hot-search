@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719670693257,
+  "endTime": 1719671699942,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -153,6 +153,14 @@
       "onboard_time": 1719187938,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2358705,
+      "num": 2358705,
+      "word": "于正的聊天记录",
+      "onboard_time": 1719668000,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 2280959,
@@ -513,14 +521,6 @@
       "onboard_time": 1719118997,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1577920,
-      "num": 1577920,
-      "word": "于正的聊天记录",
-      "onboard_time": 1719668000,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 1570370,
@@ -2316,7 +2316,7 @@
     },
     {
       "raw_hot": 728472,
-      "num": 267207,
+      "num": 269333,
       "word": "于正回应点赞",
       "onboard_time": 1719666259,
       "rank": 20,
@@ -2475,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 693641,
+      "num": 372845,
+      "word": "今年上半年体感最爆的剧",
+      "onboard_time": 1719667276,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 693149,
       "num": 693149,
       "word": "长沙地铁",
@@ -2595,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669816,
+      "num": 242272,
+      "word": "肝癌大户被揪出",
+      "onboard_time": 1719667159,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 669050,
       "num": 599465,
       "word": "TFBOYS五十周年演唱会预告",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1719321079,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 662534,
-      "num": 242272,
-      "word": "肝癌大户被揪出",
-      "onboard_time": 1719667159,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 661904,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1719404418,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 652008,
+      "num": 309736,
+      "word": "金曲奖直播",
+      "onboard_time": 1719660539,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 649610,
@@ -3193,14 +3209,6 @@
       "onboard_time": 1719450258,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593854,
-      "num": 372845,
-      "word": "今年上半年体感最爆的剧",
-      "onboard_time": 1719667276,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 590585,
@@ -4139,14 +4147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484772,
-      "num": 309736,
-      "word": "金曲奖直播",
-      "onboard_time": 1719660539,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
@@ -4971,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422229,
+      "num": 288462,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421725,
       "num": 397329,
       "word": "古茗logo",
@@ -5409,6 +5417,14 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393417,
+      "num": 166474,
+      "word": "于正会开除一干人等",
+      "onboard_time": 1719671479,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 393361,
@@ -7115,14 +7131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288462,
-      "num": 288462,
-      "word": "上海仅5张桌的米其林老板娘有多结棍",
-      "onboard_time": 1719667159,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288321,
       "num": 288321,
       "word": "汪苏泷再唱雨态度坚定",
@@ -7649,6 +7657,14 @@
       "onboard_time": 1719271755,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261847,
+      "num": 261847,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719671178,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 261545,
@@ -11435,6 +11451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178819,
+      "num": 178819,
+      "word": "童家堡区域对抗赛吃鸡",
+      "onboard_time": 1719671178,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178637,
       "num": 178637,
       "word": "齐思钧回归主持浪姐直播",
@@ -12171,6 +12195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167928,
+      "num": 166431,
+      "word": "武磊今晚天神下凡",
+      "onboard_time": 1719671120,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167837,
       "num": 167837,
       "word": "周也路演哭了",
@@ -12363,6 +12395,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 165978,
+      "num": 179515,
+      "word": "青岛大学的毕业典礼为什么那么火",
+      "onboard_time": 1719669020,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165807,
       "num": 165807,
       "word": "成都地铁诬陷偷拍案被拍成电视剧",
@@ -12417,6 +12457,22 @@
       "onboard_time": 1719288440,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165073,
+      "num": 165073,
+      "word": "武磊倒钩破门",
+      "onboard_time": 1719671178,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165045,
+      "num": 165045,
+      "word": "唐嫣的腿硬控我",
+      "onboard_time": 1719671240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 165017,
@@ -14387,6 +14443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141236,
+      "num": 141236,
+      "word": "告五人金曲奖年度歌曲奖",
+      "onboard_time": 1719668359,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141122,
       "num": 141122,
       "word": "WBG对战AL",
@@ -14457,6 +14521,14 @@
       "onboard_time": 1719565578,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "诺一好社牛",
+      "onboard_time": 1719670521,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 140412,
@@ -15251,14 +15323,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 131649,
-      "num": 179515,
-      "word": "青岛大学的毕业典礼为什么那么火",
-      "onboard_time": 1719669020,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 131055,
       "num": 131055,
       "word": "人不能同时拥有夏天和对夏天的感受",
@@ -15393,14 +15457,6 @@
       "onboard_time": 1719376579,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129406,
-      "num": 129406,
-      "word": "诺一好社牛",
-      "onboard_time": 1719670521,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 129284,
@@ -15609,6 +15665,14 @@
       "onboard_time": 1719498741,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127073,
+      "num": 142590,
+      "word": "为什么强烈推荐你夏天穿羊毛",
+      "onboard_time": 1719668720,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 126925,
@@ -16763,6 +16827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113531,
+      "num": 113531,
+      "word": "花海大司命拿了就C",
+      "onboard_time": 1719671600,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113521,
       "num": 113521,
       "word": "天蝎座不愧是纯爱战士",
@@ -17107,6 +17179,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 109500,
+      "num": 109500,
+      "word": "蒸着吃的雪糕你见过吗",
+      "onboard_time": 1719671240,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109491,
       "num": 109491,
       "word": "小伙欲用30年重画清明上河图1600人",
@@ -17339,20 +17419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105930,
+      "num": 298018,
+      "word": "爸爸让女儿用眼泪把盆装满才开电视",
+      "onboard_time": 1719671300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105840,
       "num": 105840,
       "word": "原神希格雯",
       "onboard_time": 1719314118,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105700,
-      "num": 129406,
-      "word": "为什么强烈推荐你夏天穿羊毛",
-      "onboard_time": 1719668720,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 105677,
@@ -20953,6 +21033,14 @@
       "onboard_time": 1719406638,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11287,
+      "num": 109452,
+      "word": "努力的意义不一定是拿冠军",
+      "onboard_time": 1719671600,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9974,

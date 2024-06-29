@@ -1,7 +1,15 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719670693257,
+  "endTime": 1719671699942,
   "band_list": [
+    {
+      "raw_hot": 2358705,
+      "num": 2358705,
+      "word": "于正的聊天记录",
+      "onboard_time": 1719668000,
+      "rank": 36,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1958127,
       "num": 481788,
@@ -33,14 +41,6 @@
       "onboard_time": 1719622398,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1577920,
-      "num": 1577920,
-      "word": "于正的聊天记录",
-      "onboard_time": 1719668000,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 1515568,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 728472,
-      "num": 267207,
+      "num": 269333,
       "word": "于正回应点赞",
       "onboard_time": 1719666259,
       "rank": 20,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 693641,
+      "num": 372845,
+      "word": "今年上半年体感最爆的剧",
+      "onboard_time": 1719667276,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 691175,
       "num": 283818,
       "word": "凡希亚吃了几个邓紫棋",
@@ -323,12 +331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 662534,
+      "raw_hot": 669816,
       "num": 242272,
       "word": "肝癌大户被揪出",
       "onboard_time": 1719667159,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 652008,
+      "num": 309736,
+      "word": "金曲奖直播",
+      "onboard_time": 1719660539,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 643020,
@@ -360,14 +376,6 @@
       "word": "胡歌女儿反向预测",
       "onboard_time": 1719643817,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 593854,
-      "num": 372845,
-      "word": "今年上半年体感最爆的剧",
-      "onboard_time": 1719667276,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -483,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 484772,
-      "num": 309736,
-      "word": "金曲奖直播",
-      "onboard_time": 1719660539,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 478191,
       "num": 478191,
       "word": "谁懂张凌赫弯下腰来的那一刻",
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422229,
+      "num": 288462,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419561,
       "num": 562797,
       "word": "双胞胎体重相差150斤同框反差太大",
@@ -673,6 +681,14 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393417,
+      "num": 166474,
+      "word": "于正会开除一干人等",
+      "onboard_time": 1719671479,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 393023,
@@ -891,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288462,
-      "num": 288462,
-      "word": "上海仅5张桌的米其林老板娘有多结棍",
-      "onboard_time": 1719667159,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282759,
       "num": 185941,
       "word": "你的屁股可能已经死掉了",
@@ -945,6 +953,14 @@
       "onboard_time": 1719624257,
       "rank": 16,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 261847,
+      "num": 261847,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719671178,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 254987,
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178819,
+      "num": 178819,
+      "word": "童家堡区域对抗赛吃鸡",
+      "onboard_time": 1719671178,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177359,
       "num": 177359,
       "word": "TXT北京签售",
@@ -1547,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167928,
+      "num": 166431,
+      "word": "武磊今晚天神下凡",
+      "onboard_time": 1719671120,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167508,
       "num": 167508,
       "word": "33岁i人不上班的生活",
@@ -1577,6 +1609,30 @@
       "onboard_time": 1719638718,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165978,
+      "num": 179515,
+      "word": "青岛大学的毕业典礼为什么那么火",
+      "onboard_time": 1719669020,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 165073,
+      "num": 165073,
+      "word": "武磊倒钩破门",
+      "onboard_time": 1719671178,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165045,
+      "num": 165045,
+      "word": "唐嫣的腿硬控我",
+      "onboard_time": 1719671240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 164572,
@@ -1867,6 +1923,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 141236,
+      "num": 141236,
+      "word": "告五人金曲奖年度歌曲奖",
+      "onboard_time": 1719668359,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141110,
       "num": 258967,
       "word": "巴拉圭1比4巴西",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1719660617,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "诺一好社牛",
+      "onboard_time": 1719670521,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139530,
@@ -2035,28 +2107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131649,
-      "num": 179515,
-      "word": "青岛大学的毕业典礼为什么那么火",
-      "onboard_time": 1719669020,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "高叶给那英安利王鹤棣",
       "onboard_time": 1719644179,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129406,
-      "num": 129406,
-      "word": "诺一好社牛",
-      "onboard_time": 1719670521,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 129284,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1719562158,
       "rank": 19,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 127073,
+      "num": 142590,
+      "word": "为什么强烈推荐你夏天穿羊毛",
+      "onboard_time": 1719668720,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 126925,
@@ -2331,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113531,
+      "num": 113531,
+      "word": "花海大司命拿了就C",
+      "onboard_time": 1719671600,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113265,
       "num": 113265,
       "word": "你的名字重映谁叫韦一敏",
@@ -2387,6 +2459,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 109500,
+      "num": 109500,
+      "word": "蒸着吃的雪糕你见过吗",
+      "onboard_time": 1719671240,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108381,
       "num": 108381,
       "word": "KT战胜T1",
@@ -2411,12 +2491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105700,
-      "num": 129406,
-      "word": "为什么强烈推荐你夏天穿羊毛",
-      "onboard_time": 1719668720,
-      "rank": 45,
-      "category": "时尚"
+      "raw_hot": 105930,
+      "num": 298018,
+      "word": "爸爸让女儿用眼泪把盆装满才开电视",
+      "onboard_time": 1719671300,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105677,
@@ -2961,6 +3041,14 @@
       "onboard_time": 1719616635,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11287,
+      "num": 109452,
+      "word": "努力的意义不一定是拿冠军",
+      "onboard_time": 1719671600,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8964,
