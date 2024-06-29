@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719660943700,
+  "endTime": 1719664482258,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -971,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1152358,
+      "num": 1152358,
+      "word": "范丞丞工作室发布声明",
+      "onboard_time": 1719661877,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145416,
       "num": 1145416,
       "word": "高二女生考入北大遗憾不能上高三",
@@ -1700,7 +1708,7 @@
     },
     {
       "raw_hot": 858054,
-      "num": 551345,
+      "num": 751480,
       "word": "殷世航 其实已经偷偷幸福很久了",
       "onboard_time": 1719656897,
       "rank": 23,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1719556217,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825291,
+      "num": 825291,
+      "word": "美军每天用十多辆卡车偷叙利亚小麦",
+      "onboard_time": 1719660377,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 819460,
@@ -2619,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660050,
+      "num": 385476,
+      "word": "白鹿对接发声明",
+      "onboard_time": 1719663678,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658279,
       "num": 547545,
       "word": "英国王室73岁公主坠马失忆",
@@ -2824,6 +2848,14 @@
       "word": "隼醒来天塌了",
       "onboard_time": 1719540198,
       "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 633936,
+      "num": 550874,
+      "word": "金曲奖",
+      "onboard_time": 1719660256,
+      "rank": 7,
       "category": "音乐"
     },
     {
@@ -3393,14 +3425,6 @@
       "onboard_time": 1719382338,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 550874,
-      "num": 550874,
-      "word": "金曲奖",
-      "onboard_time": 1719660256,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 550412,
@@ -3987,6 +4011,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 488381,
+      "num": 204191,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 488374,
       "num": 488374,
       "word": "玻利维亚发生军事政变",
@@ -4291,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458105,
+      "num": 458105,
+      "word": "B太上海打车接连遇司机挑客拒载",
+      "onboard_time": 1719658937,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456859,
       "num": 456859,
       "word": "谁家大小姐一出场就跑酷啊",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1719212838,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436044,
+      "num": 201928,
+      "word": "偶遇杜江带女儿出游",
+      "onboard_time": 1719661397,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 435805,
@@ -5259,14 +5307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 396134,
-      "num": 396134,
-      "word": "B太上海打车接连遇司机挑客拒载",
-      "onboard_time": 1719658937,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395200,
       "num": 299048,
       "word": "广西一小区保安持刀杀害2人",
@@ -5297,6 +5337,14 @@
       "onboard_time": 1719287419,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 393023,
+      "num": 197429,
+      "word": "苏新皓初C",
+      "onboard_time": 1719662536,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 392864,
@@ -7987,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236966,
+      "num": 183422,
+      "word": "白月光还是后来者居上",
+      "onboard_time": 1719662598,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235796,
       "num": 235796,
       "word": "魔方新世界",
@@ -8619,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220919,
+      "num": 220919,
+      "word": "北京下雨",
+      "onboard_time": 1719660377,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220758,
       "num": 220758,
       "word": "高圆圆喊老公",
@@ -8633,14 +8697,6 @@
       "onboard_time": 1719468020,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220473,
-      "num": 220473,
-      "word": "美军每天用十多辆卡车偷叙利亚小麦",
-      "onboard_time": 1719660377,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 220027,
@@ -8688,6 +8744,14 @@
       "word": "汪苏泷综艺爆曲八连唱",
       "onboard_time": 1719155780,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 219299,
+      "num": 182338,
+      "word": "田馥甄音乐节",
+      "onboard_time": 1719663916,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -9811,6 +9875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199254,
+      "num": 198973,
+      "word": "度华年",
+      "onboard_time": 1719224300,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199191,
       "num": 199191,
       "word": "陶喆北京",
@@ -9857,14 +9929,6 @@
       "onboard_time": 1719316098,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198973,
-      "num": 198973,
-      "word": "度华年",
-      "onboard_time": 1719224300,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 198806,
@@ -10523,6 +10587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188569,
+      "num": 181682,
+      "word": "16岁张天天近照",
+      "onboard_time": 1719662958,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188304,
       "num": 188304,
       "word": "锦绣安宁",
@@ -10595,6 +10667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187369,
+      "num": 180090,
+      "word": "张峻豪说不敢看主榜热搜",
+      "onboard_time": 1719664457,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187184,
       "num": 170251,
       "word": "俩年轻人演出了我爸妈吵架",
@@ -10633,6 +10713,14 @@
       "onboard_time": 1719197597,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186625,
+      "num": 181098,
+      "word": "肝脏损伤的4个信号",
+      "onboard_time": 1719662358,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186560,
@@ -11331,6 +11419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175833,
+      "num": 175833,
+      "word": "金玟庭状态",
+      "onboard_time": 1719661518,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175519,
       "num": 175519,
       "word": "虞书欣帮姜妍搭配衣服到凌晨",
@@ -11747,6 +11843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168812,
+      "num": 168812,
+      "word": "金曲奖直播",
+      "onboard_time": 1719660539,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168803,
       "num": 168803,
       "word": "赵露思粉色无袖套装",
@@ -11833,6 +11937,14 @@
       "onboard_time": 1719244099,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167955,
+      "num": 167955,
+      "word": "宋丹丹一家六口阿那亚度假",
+      "onboard_time": 1719661698,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 167935,
@@ -12265,14 +12377,6 @@
       "onboard_time": 1719313698,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162352,
-      "num": 209847,
-      "word": "北京下雨",
-      "onboard_time": 1719660377,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162314,
@@ -12947,14 +13051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154685,
-      "num": 149605,
-      "word": "金曲奖直播",
-      "onboard_time": 1719660539,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "天津一化工厂发生火灾造成7人受伤",
@@ -13089,6 +13185,14 @@
       "onboard_time": 1719411499,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152272,
+      "num": 152272,
+      "word": "杨紫奥运火炬手被官方认领",
+      "onboard_time": 1719662358,
+      "rank": 40,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 152181,
@@ -13257,6 +13361,14 @@
       "onboard_time": 1719543977,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "刘亦菲陈晓同框",
+      "onboard_time": 1719663858,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 150269,
@@ -13747,6 +13859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145774,
+      "num": 185528,
+      "word": "马来西亚翻覆巴士中有中国公民遇难",
+      "onboard_time": 1719661457,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145751,
       "num": 145751,
       "word": "女孩怕伤狗狗自尊选择了沉默",
@@ -13987,6 +14107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142290,
+      "num": 142290,
+      "word": "KARINA solo舞台",
+      "onboard_time": 1719664158,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142046,
       "num": 142046,
       "word": "iOS18能下载更大应用了",
@@ -14201,6 +14329,14 @@
       "onboard_time": 1719649697,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139484,
+      "num": 139484,
+      "word": "我们三代有自己的董岩磊",
+      "onboard_time": 1719664398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 139110,
@@ -15252,7 +15388,7 @@
     },
     {
       "raw_hot": 126925,
-      "num": 126925,
+      "num": 175869,
       "word": "有哪些专业不学不知道一学不吱声",
       "onboard_time": 1719656778,
       "rank": 29,
@@ -15609,6 +15745,14 @@
       "onboard_time": 1719328698,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122597,
+      "num": 767266,
+      "word": "多地强降雨最新情况",
+      "onboard_time": 1719659297,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122474,
@@ -15993,14 +16137,6 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117804,
-      "num": 558479,
-      "word": "多地强降雨最新情况",
-      "onboard_time": 1719659297,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117682,
@@ -17331,6 +17467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 99029,
+      "num": 152404,
+      "word": "南京中考成绩",
+      "onboard_time": 1719661698,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99018,
       "num": 84189,
       "word": "美国关闭俄在华盛顿和纽约的签证中心",
@@ -17441,6 +17585,14 @@
       "onboard_time": 1719656538,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97689,
+      "num": 140482,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 97641,
@@ -17763,6 +17915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89451,
+      "num": 139322,
+      "word": "iG对战WBG",
+      "onboard_time": 1719664037,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89171,
       "num": 193278,
       "word": "格鲁吉亚vs捷克",
@@ -17921,6 +18081,14 @@
       "onboard_time": 1719068960,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83774,
+      "num": 151902,
+      "word": "美已向以色列提供1.4万枚2千磅炸弹",
+      "onboard_time": 1719660617,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 83615,
@@ -18281,6 +18449,14 @@
       "onboard_time": 1719457758,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68457,
+      "num": 217288,
+      "word": "广州一15岁白鲸顺利分娩",
+      "onboard_time": 1719661338,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67987,
@@ -19785,14 +19961,6 @@
       "onboard_time": 1719478818,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 27655,
-      "num": 151902,
-      "word": "美已向以色列提供1.4万枚2千磅炸弹",
-      "onboard_time": 1719660617,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 27182,

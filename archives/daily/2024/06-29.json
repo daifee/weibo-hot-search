@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719660943700,
+  "endTime": 1719664482258,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1152358,
+      "num": 1152358,
+      "word": "范丞丞工作室发布声明",
+      "onboard_time": 1719661877,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017419,
       "num": 1017419,
       "word": "王韵壹去世",
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 858054,
-      "num": 551345,
+      "num": 751480,
       "word": "殷世航 其实已经偷偷幸福很久了",
       "onboard_time": 1719656897,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 825291,
+      "num": 825291,
+      "word": "美军每天用十多辆卡车偷叙利亚小麦",
+      "onboard_time": 1719660377,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 813240,
@@ -251,6 +267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660050,
+      "num": 385476,
+      "word": "白鹿对接发声明",
+      "onboard_time": 1719663678,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 633936,
+      "num": 550874,
+      "word": "金曲奖",
+      "onboard_time": 1719660256,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 628799,
       "num": 628799,
       "word": "董明珠打假小米空调第一",
@@ -304,14 +336,6 @@
       "word": "邓紫棋 来自天堂的魔鬼",
       "onboard_time": 1719619816,
       "rank": 6,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 550874,
-      "num": 550874,
-      "word": "金曲奖",
-      "onboard_time": 1719660256,
-      "rank": 7,
       "category": "音乐"
     },
     {
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488381,
+      "num": 204191,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 478191,
       "num": 478191,
       "word": "谁懂张凌赫弯下腰来的那一刻",
@@ -392,6 +424,14 @@
       "word": "全球变暖致珠峰200多具遗体显露",
       "onboard_time": 1719580523,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458105,
+      "num": 458105,
+      "word": "B太上海打车接连遇司机挑客拒载",
+      "onboard_time": 1719658937,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -417,6 +457,14 @@
       "onboard_time": 1719570439,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436044,
+      "num": 201928,
+      "word": "偶遇杜江带女儿出游",
+      "onboard_time": 1719661397,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 435805,
@@ -531,20 +579,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 396134,
-      "num": 396134,
-      "word": "B太上海打车接连遇司机挑客拒载",
-      "onboard_time": 1719658937,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394259,
       "num": 394259,
       "word": "男子清华毕业1年重新高考学中医",
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393023,
+      "num": 197429,
+      "word": "苏新皓初C",
+      "onboard_time": 1719662536,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 392416,
@@ -803,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236966,
+      "num": 183422,
+      "word": "白月光还是后来者居上",
+      "onboard_time": 1719662598,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232801,
       "num": 200440,
       "word": "暗恋结束拉扯开始",
@@ -875,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220473,
-      "num": 220473,
-      "word": "美军每天用十多辆卡车偷叙利亚小麦",
+      "raw_hot": 220919,
+      "num": 220919,
+      "word": "北京下雨",
       "onboard_time": 1719660377,
-      "rank": 16,
-      "category": "国外时政"
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219542,
@@ -889,6 +945,14 @@
       "onboard_time": 1719635536,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219299,
+      "num": 182338,
+      "word": "田馥甄音乐节",
+      "onboard_time": 1719663916,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 217706,
@@ -1003,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199254,
+      "num": 181837,
+      "word": "度华年",
+      "onboard_time": 1719664037,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198733,
       "num": 187163,
       "word": "歌手 RNB",
@@ -1059,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188569,
+      "num": 181682,
+      "word": "16岁张天天近照",
+      "onboard_time": 1719662958,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188084,
       "num": 175803,
       "word": "姜妍一个礼拜爱上虞书欣",
@@ -1067,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187369,
+      "num": 180090,
+      "word": "张峻豪说不敢看主榜热搜",
+      "onboard_time": 1719664457,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187184,
       "num": 170251,
       "word": "俩年轻人演出了我爸妈吵架",
       "onboard_time": 1719655397,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186625,
+      "num": 181098,
+      "word": "肝脏损伤的4个信号",
+      "onboard_time": 1719662358,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186286,
@@ -1137,6 +1233,14 @@
       "onboard_time": 1719634158,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175833,
+      "num": 175833,
+      "word": "金玟庭状态",
+      "onboard_time": 1719661518,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 175358,
@@ -1211,6 +1315,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168812,
+      "num": 168812,
+      "word": "金曲奖直播",
+      "onboard_time": 1719660539,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 167955,
+      "num": 167955,
+      "word": "宋丹丹一家六口阿那亚度假",
+      "onboard_time": 1719661698,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167508,
       "num": 167508,
       "word": "33岁i人不上班的生活",
@@ -1265,14 +1385,6 @@
       "onboard_time": 1719659177,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162352,
-      "num": 209847,
-      "word": "北京下雨",
-      "onboard_time": 1719660377,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162182,
@@ -1339,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154685,
-      "num": 149605,
-      "word": "金曲奖直播",
-      "onboard_time": 1719660539,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 153717,
       "num": 150487,
       "word": "白玉兰内场",
@@ -1371,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152272,
+      "num": 152272,
+      "word": "杨紫奥运火炬手被官方认领",
+      "onboard_time": 1719662358,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 152010,
       "num": 152010,
       "word": "警方通报男子街头踹踢5岁男童",
@@ -1384,6 +1496,14 @@
       "word": "刘亦菲特开心有人说剧抛脸",
       "onboard_time": 1719625817,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "刘亦菲陈晓同框",
+      "onboard_time": 1719663858,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1475,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145774,
+      "num": 185528,
+      "word": "马来西亚翻覆巴士中有中国公民遇难",
+      "onboard_time": 1719661457,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144281,
       "num": 155387,
       "word": "60岁母亲花3万买长寿编码",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1719639317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142290,
+      "num": 142290,
+      "word": "KARINA solo舞台",
+      "onboard_time": 1719664158,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 141578,
@@ -1545,6 +1681,14 @@
       "onboard_time": 1719649697,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139484,
+      "num": 139484,
+      "word": "我们三代有自己的董岩磊",
+      "onboard_time": 1719664398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 138848,
@@ -1732,7 +1876,7 @@
     },
     {
       "raw_hot": 126925,
-      "num": 126925,
+      "num": 175869,
       "word": "有哪些专业不学不知道一学不吱声",
       "onboard_time": 1719656778,
       "rank": 29,
@@ -1795,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122597,
+      "num": 767266,
+      "word": "多地强降雨最新情况",
+      "onboard_time": 1719659297,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120663,
       "num": 120663,
       "word": "胡锡进谈为何新闻传播学遇冷",
@@ -1825,14 +1977,6 @@
       "onboard_time": 1719650357,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117804,
-      "num": 558479,
-      "word": "多地强降雨最新情况",
-      "onboard_time": 1719659297,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117695,
@@ -2075,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99029,
+      "num": 152404,
+      "word": "南京中考成绩",
+      "onboard_time": 1719661698,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98539,
       "num": 102517,
       "word": "泡泡玛特手游",
@@ -2089,6 +2241,14 @@
       "onboard_time": 1719656538,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97689,
+      "num": 140482,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 95854,
@@ -2163,6 +2323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 89451,
+      "num": 139322,
+      "word": "iG对战WBG",
+      "onboard_time": 1719664037,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88109,
       "num": 162185,
       "word": "中国大运河申遗成功10年了",
@@ -2193,6 +2361,14 @@
       "onboard_time": 1719616034,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83774,
+      "num": 151902,
+      "word": "美已向以色列提供1.4万枚2千磅炸弹",
+      "onboard_time": 1719660617,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 82928,
@@ -2257,6 +2433,14 @@
       "onboard_time": 1719589400,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68457,
+      "num": 217288,
+      "word": "广州一15岁白鲸顺利分娩",
+      "onboard_time": 1719661338,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67433,
@@ -2425,14 +2609,6 @@
       "onboard_time": 1719656778,
       "rank": 20,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 27655,
-      "num": 151902,
-      "word": "美已向以色列提供1.4万枚2千磅炸弹",
-      "onboard_time": 1719660617,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 26849,
