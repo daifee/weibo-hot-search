@@ -1,0 +1,411 @@
+{
+  "startTime": 1719678199401,
+  "endTime": 1719678199401,
+  "band_list": [
+    {
+      "raw_hot": 963431,
+      "num": 963431,
+      "word": "于正的聊天记录",
+      "onboard_time": 1719668000,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 733355,
+      "num": 733355,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719671178,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 669633,
+      "num": 669633,
+      "word": "于正的番外算是白拍了",
+      "onboard_time": 1719675500,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 652116,
+      "num": 652116,
+      "word": "王星越工作室",
+      "onboard_time": 1719672679,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 558074,
+      "num": 558074,
+      "word": "王俊凯 族长",
+      "onboard_time": 1719672860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528155,
+      "num": 528155,
+      "word": "殷世航 其实已经偷偷幸福很久了",
+      "onboard_time": 1719656897,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 519384,
+      "num": 656240,
+      "word": "爸爸让女儿用眼泪把盆装满才开电视",
+      "onboard_time": 1719671300,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494202,
+      "num": 494202,
+      "word": "于正会开除一干人等",
+      "onboard_time": 1719671479,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379860,
+      "num": 379860,
+      "word": "白鹿对接发声明",
+      "onboard_time": 1719663678,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375821,
+      "num": 375821,
+      "word": "今年上半年体感最爆的剧",
+      "onboard_time": 1719667276,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319722,
+      "num": 162993,
+      "word": "王心凌玫瑰嫁纱",
+      "onboard_time": 1719673939,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 255912,
+      "num": 162912,
+      "word": "唐嫣每次一出来罗晋就被夸",
+      "onboard_time": 1719665239,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253650,
+      "num": 162761,
+      "word": "范丞丞说第一次在新说唱闻到血腥味",
+      "onboard_time": 1719671841,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252478,
+      "num": 162673,
+      "word": "丁程鑫不敢向王俊凯泼水",
+      "onboard_time": 1719666378,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233686,
+      "num": 652298,
+      "word": "网红面筋哥肝癌晚期进ICU",
+      "onboard_time": 1719642498,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229896,
+      "num": 229896,
+      "word": "妈妈丢了30年的吊坠苹果地里找到了",
+      "onboard_time": 1719642797,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228573,
+      "num": 162557,
+      "word": "普华永道正在蒸发殆尽",
+      "onboard_time": 1719675558,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 223366,
+      "num": 223366,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 14,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 199988,
+      "num": 199988,
+      "word": "上海高校学生冒雨拍毕业照",
+      "onboard_time": 1719673640,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189835,
+      "num": 162488,
+      "word": "肝癌大户被揪出",
+      "onboard_time": 1719667159,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189297,
+      "num": 189297,
+      "word": "美军每天用十多辆卡车偷叙利亚小麦",
+      "onboard_time": 1719660377,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 163211,
+      "num": 163211,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 162434,
+      "num": 162434,
+      "word": "杨和苏挂脸",
+      "onboard_time": 1719676278,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153135,
+      "num": 153135,
+      "word": "墨雨云间拍了两版结局",
+      "onboard_time": 1719672800,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152099,
+      "num": 152099,
+      "word": "Angelababy涩谷辣妹",
+      "onboard_time": 1719652458,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140801,
+      "num": 140311,
+      "word": "唐嫣的腿硬控我",
+      "onboard_time": 1719671240,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140475,
+      "num": 140475,
+      "word": "女子不忍被家暴杀夫潜逃29年落网",
+      "onboard_time": 1719657137,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138545,
+      "num": 163177,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134362,
+      "num": 134362,
+      "word": "580元演唱会门票被换到380元区域",
+      "onboard_time": 1719665058,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130203,
+      "num": 130203,
+      "word": "范丞丞工作室发布声明",
+      "onboard_time": 1719661877,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127735,
+      "num": 163080,
+      "word": "武磊倒钩破门",
+      "onboard_time": 1719671178,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119059,
+      "num": 130097,
+      "word": "度华年",
+      "onboard_time": 1719664037,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112306,
+      "num": 130071,
+      "word": "陈昊宇的手被宁静硬控住了",
+      "onboard_time": 1719674058,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111021,
+      "num": 129898,
+      "word": "蔡依林 新专辑",
+      "onboard_time": 1719667459,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109522,
+      "num": 130163,
+      "word": "为什么强烈推荐你夏天穿羊毛",
+      "onboard_time": 1719668720,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 103974,
+      "num": 129870,
+      "word": "你好星期六檀健次新歌手势舞挑战",
+      "onboard_time": 1719673338,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102252,
+      "num": 129799,
+      "word": "墨雨云间",
+      "onboard_time": 1719674600,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97371,
+      "num": 130150,
+      "word": "肝脏损伤的4个信号",
+      "onboard_time": 1719662358,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93972,
+      "num": 130033,
+      "word": "欧洲杯",
+      "onboard_time": 1719664518,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90546,
+      "num": 129776,
+      "word": "张子墨 喜剧人",
+      "onboard_time": 1719668300,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83232,
+      "num": 129971,
+      "word": "青岛大学的毕业典礼为什么那么火",
+      "onboard_time": 1719669020,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 81295,
+      "num": 129727,
+      "word": "宁艺卓SOLO曲",
+      "onboard_time": 1719658457,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 80085,
+      "num": 129934,
+      "word": "B太上海打车接连遇司机挑客拒载",
+      "onboard_time": 1719658937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79121,
+      "num": 129710,
+      "word": "太原理工晋级cubal总决赛",
+      "onboard_time": 1719672500,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75108,
+      "num": 129662,
+      "word": "网传中学及卫生院全体职工为人守灵",
+      "onboard_time": 1719665599,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 129610,
+      "word": "eStar战胜AG",
+      "onboard_time": 1719673040,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 62813,
+      "num": 129566,
+      "word": "欧洲杯赛程",
+      "onboard_time": 1719668598,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60532,
+      "num": 129527,
+      "word": "瑞士vs意大利",
+      "onboard_time": 1719672199,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37875,
+      "num": 495729,
+      "word": "新郎接亲遇意外差点没接住这波考验",
+      "onboard_time": 1719673160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28523,
+      "num": 695913,
+      "word": "穿越千年看大运河秀美画卷",
+      "onboard_time": 1719659957,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
+    }
+  ]
+}
