@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719656338923,
+  "endTime": 1719657322513,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -65,6 +65,14 @@
       "onboard_time": 1719630557,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1282377,
+      "num": 1282377,
+      "word": "Angelababy涩谷辣妹",
+      "onboard_time": 1719652458,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1274938,
@@ -161,14 +169,6 @@
       "onboard_time": 1719626717,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 759482,
-      "num": 759482,
-      "word": "Angelababy涩谷辣妹",
-      "onboard_time": 1719652458,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 758865,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537002,
+      "num": 298145,
+      "word": "特朗普称美国不应与俄中朝成为敌人",
+      "onboard_time": 1719655097,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 536969,
       "num": 536969,
       "word": "浙江嘉兴发生交通事故4人死亡",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457548,
-      "num": 298145,
-      "word": "特朗普称美国不应与俄中朝成为敌人",
-      "onboard_time": 1719655097,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 456859,
       "num": 456859,
       "word": "谁家大小姐一出场就跑酷啊",
@@ -384,6 +384,14 @@
       "word": "海清回应白玉兰怨妇",
       "onboard_time": 1719621376,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 432696,
+      "num": 388871,
+      "word": "吴谨言白鹿曾为王星越直播拉流量",
+      "onboard_time": 1719652998,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1719637218,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417446,
-      "num": 342206,
-      "word": "吴谨言白鹿曾为王星越直播拉流量",
-      "onboard_time": 1719652998,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 414303,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390377,
+      "num": 390377,
+      "word": "哥大华裔副校长在美街头遭殴打",
+      "onboard_time": 1719651798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380382,
       "num": 360849,
       "word": "虞书欣恭喜姜妍",
@@ -529,14 +537,6 @@
       "onboard_time": 1719620056,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 374347,
-      "num": 374347,
-      "word": "哥大华裔副校长在美街头遭殴打",
-      "onboard_time": 1719651798,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363157,
@@ -593,6 +593,14 @@
       "onboard_time": 1719629356,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320018,
+      "num": 244799,
+      "word": "登陆日开播",
+      "onboard_time": 1719656178,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 305811,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208759,
+      "num": 148296,
+      "word": "殷世航 其实已经偷偷幸福很久了",
+      "onboard_time": 1719656897,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208631,
       "num": 208631,
       "word": "林一沈月扯领带吻戏",
@@ -937,6 +953,22 @@
       "onboard_time": 1719651677,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192920,
+      "num": 147092,
+      "word": "周峻纬音乐节",
+      "onboard_time": 1719656538,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192746,
+      "num": 145931,
+      "word": "朱志鑫变装",
+      "onboard_time": 1719656958,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 192245,
@@ -1123,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166454,
+      "num": 142647,
+      "word": "寂静之地",
+      "onboard_time": 1719656297,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166205,
       "num": 166205,
       "word": "歌手",
@@ -1211,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153507,
+      "num": 140393,
+      "word": "每一个内耗的人都应该做减法",
+      "onboard_time": 1719655278,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152010,
       "num": 152010,
       "word": "警方通报男子街头踹踢5岁男童",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1719625817,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150703,
-      "num": 150703,
-      "word": "登陆日开播",
-      "onboard_time": 1719656178,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 149943,
@@ -1443,11 +1483,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134421,
+      "num": 134421,
+      "word": "柳岩说浪姐累到没时间卷",
+      "onboard_time": 1719656476,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133771,
       "num": 133771,
       "word": "奔跑吧下期布达佩斯之约",
       "onboard_time": 1719644478,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133643,
+      "num": 121328,
+      "word": "小鬼说徐明浩的职业是偶像",
+      "onboard_time": 1719656958,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1481,14 +1537,6 @@
       "onboard_time": 1719624017,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130917,
-      "num": 130917,
-      "word": "每一个内耗的人都应该做减法",
-      "onboard_time": 1719655278,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 130904,
@@ -1539,12 +1587,36 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 127283,
+      "num": 120899,
+      "word": "TF三代将在微博直播",
+      "onboard_time": 1719656598,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127030,
+      "num": 127030,
+      "word": "女子不忍被家暴杀夫潜逃29年落网",
+      "onboard_time": 1719657137,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126593,
       "num": 126593,
       "word": "面筋哥家属回应",
       "onboard_time": 1719653837,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126447,
+      "num": 126447,
+      "word": "一碗没有灵魂的蛋炒饭",
+      "onboard_time": 1719657137,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 126025,
@@ -1747,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109872,
+      "num": 315788,
+      "word": "女孩高考后每天打工12小时自筹学费",
+      "onboard_time": 1719653297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109600,
       "num": 109600,
       "word": "皮囊作者说不是重点大学才有好的人生",
@@ -1783,14 +1863,6 @@
       "num": 346844,
       "word": "女儿回应53岁妈妈复旦硕士毕业",
       "onboard_time": 1719622996,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105623,
-      "num": 315788,
-      "word": "女孩高考后每天打工12小时自筹学费",
-      "onboard_time": 1719653297,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1857,14 +1929,6 @@
       "onboard_time": 1719590300,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94363,
-      "num": 96856,
-      "word": "寂静之地",
-      "onboard_time": 1719656297,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 94211,
@@ -2099,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50187,
+      "num": 147289,
+      "word": "妈妈从零学书法2个月震撼小学生女儿",
+      "onboard_time": 1719657198,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49325,
       "num": 1318520,
       "word": "中国空间站舷窗大片上新",
@@ -2155,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29911,
+      "num": 295573,
+      "word": "一生一定要跑一次的比赛",
+      "onboard_time": 1719655217,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 29152,
       "num": 304346,
       "word": "我哥是消防员如果他在也会冲上去",
@@ -2179,12 +2259,12 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 20372,
-      "num": 295573,
-      "word": "一生一定要跑一次的比赛",
-      "onboard_time": 1719655217,
-      "rank": 14,
-      "category": "运动健身"
+      "raw_hot": 20248,
+      "num": 150526,
+      "word": "生死瞬间她急奔大喊挽救两个家庭",
+      "onboard_time": 1719656778,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 16751,
@@ -2231,6 +2311,9 @@
     },
     {
       "word": "#我们要以同球共济精神珍爱和呵护地球#"
+    },
+    {
+      "word": "#世界完全容得下各国共同发展#"
     }
   ]
 }

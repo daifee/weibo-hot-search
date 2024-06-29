@@ -1,0 +1,410 @@
+{
+  "runTime": 1719657322513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282377,
+        "num": 1282377,
+        "word": "Angelababy涩谷辣妹",
+        "onboard_time": 1719652458,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 783423,
+        "num": 783423,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 519226,
+        "word": "嫦娥六号为啥没有多带一些月壤回来",
+        "onboard_time": 1719653238,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505243,
+        "num": 505243,
+        "word": "网红面筋哥肝癌晚期进ICU",
+        "onboard_time": 1719642498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454258,
+        "num": 454258,
+        "word": "十个勤天演唱会官方致歉",
+        "onboard_time": 1719648677,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390377,
+        "num": 390377,
+        "word": "哥大华裔副校长在美街头遭殴打",
+        "onboard_time": 1719651798,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432696,
+        "num": 388871,
+        "word": "吴谨言白鹿曾为王星越直播拉流量",
+        "onboard_time": 1719652998,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383981,
+        "num": 383981,
+        "word": "刘亦菲说一些演员爆火就飘了",
+        "onboard_time": 1719640338,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307236,
+        "num": 307236,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276828,
+        "num": 276828,
+        "word": "吃半年就能年轻十岁我妈竟然信了",
+        "onboard_time": 1719640818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537002,
+        "num": 273643,
+        "word": "特朗普称美国不应与俄中朝成为敌人",
+        "onboard_time": 1719655097,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502432,
+        "num": 266535,
+        "word": "杨颖直播",
+        "onboard_time": 1719644958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361572,
+        "num": 261855,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 326791,
+        "num": 258233,
+        "word": "杨颖穿高定",
+        "onboard_time": 1719648918,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29911,
+        "num": 250173,
+        "word": "一生一定要跑一次的比赛",
+        "onboard_time": 1719655217,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 320018,
+        "num": 244799,
+        "word": "登陆日开播",
+        "onboard_time": 1719656178,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303139,
+        "num": 240079,
+        "word": "导演陈铭章说唐嫣已经是视后了",
+        "onboard_time": 1719651437,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235902,
+        "num": 235902,
+        "word": "涵艺爆料Ming不打了",
+        "onboard_time": 1719652338,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151662,
+        "num": 151662,
+        "word": "警方通报男子街头踹踢5岁男童",
+        "onboard_time": 1719652757,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151293,
+        "num": 151293,
+        "word": "吴艳妮13秒06头名晋级",
+        "onboard_time": 1719648498,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20248,
+        "num": 150526,
+        "word": "生死瞬间她急奔大喊挽救两个家庭",
+        "onboard_time": 1719656778,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 313572,
+        "num": 150142,
+        "word": "建议坐着时双腿并拢",
+        "onboard_time": 1719647058,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217708,
+        "num": 149221,
+        "word": "吴谨言破万弹古琴",
+        "onboard_time": 1719654736,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208759,
+        "num": 148296,
+        "word": "殷世航 其实已经偷偷幸福很久了",
+        "onboard_time": 1719656897,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50187,
+        "num": 147289,
+        "word": "妈妈从零学书法2个月震撼小学生女儿",
+        "onboard_time": 1719657198,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192920,
+        "num": 147092,
+        "word": "周峻纬音乐节",
+        "onboard_time": 1719656538,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192746,
+        "num": 145931,
+        "word": "朱志鑫变装",
+        "onboard_time": 1719656958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185372,
+        "num": 145096,
+        "word": "aespa演唱会大屏颜值",
+        "onboard_time": 1719655037,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182584,
+        "num": 144344,
+        "word": "十个勤天演唱会疑似抄袭鹿晗",
+        "onboard_time": 1719637938,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171381,
+        "num": 143664,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166454,
+        "num": 142647,
+        "word": "寂静之地",
+        "onboard_time": 1719656297,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159319,
+        "num": 141918,
+        "word": "BW抢票",
+        "onboard_time": 1719634758,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156405,
+        "num": 141074,
+        "word": "没有指纹的泥人真的很酷",
+        "onboard_time": 1719652098,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153507,
+        "num": 140393,
+        "word": "每一个内耗的人都应该做减法",
+        "onboard_time": 1719655278,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152307,
+        "num": 139980,
+        "word": "俩年轻人演出了我爸妈吵架",
+        "onboard_time": 1719655397,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139198,
+        "num": 139198,
+        "word": "60岁母亲花3万买长寿编码",
+        "onboard_time": 1719653417,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136852,
+        "num": 136852,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134421,
+        "num": 134421,
+        "word": "柳岩说浪姐累到没时间卷",
+        "onboard_time": 1719656476,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127030,
+        "num": 127030,
+        "word": "女子不忍被家暴杀夫潜逃29年落网",
+        "onboard_time": 1719657137,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126447,
+        "num": 126447,
+        "word": "一碗没有灵魂的蛋炒饭",
+        "onboard_time": 1719657137,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133643,
+        "num": 121328,
+        "word": "小鬼说徐明浩的职业是偶像",
+        "onboard_time": 1719656958,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127283,
+        "num": 120899,
+        "word": "TF三代将在微博直播",
+        "onboard_time": 1719656598,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113279,
+        "num": 113279,
+        "word": "不想上班的年轻人正在发明新职业",
+        "onboard_time": 1719647537,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115653,
+        "num": 112922,
+        "word": "登陆计划",
+        "onboard_time": 1719655337,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112264,
+        "num": 112264,
+        "word": "aespa日榜一位",
+        "onboard_time": 1719650718,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109872,
+        "num": 109872,
+        "word": "女孩高考后每天打工12小时自筹学费",
+        "onboard_time": 1719653297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105556,
+        "num": 105556,
+        "word": "37岁找工作被告知只要30以内的",
+        "onboard_time": 1719641898,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102762,
+        "num": 102762,
+        "word": "中国女排公布奥运名单",
+        "onboard_time": 1719648677,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102398,
+        "num": 102398,
+        "word": "黄轩你要不还是忘了吧",
+        "onboard_time": 1719651677,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "胡歌女儿反向预测",
+        "onboard_time": 1719643817,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界完全容得下各国共同发展#"
+    }
+  }
+}
