@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719679122286,
+  "endTime": 1719681394887,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -22363,6 +22363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381742,
+      "num": 162557,
+      "word": "普华永道正在蒸发殆尽",
+      "onboard_time": 1719675558,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381569,
       "num": 381569,
       "word": "男童被武术教练殴打致死案一审宣判",
@@ -24937,14 +24945,6 @@
       "onboard_time": 1718496615,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341258,
-      "num": 162557,
-      "word": "普华永道正在蒸发殆尽",
-      "onboard_time": 1719675558,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 341173,
@@ -82337,6 +82337,14 @@
       "onboard_time": 1719530356,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 34952,
+      "num": 61144,
+      "word": "一条plog告别六月",
+      "onboard_time": 1719681316,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 34947,
