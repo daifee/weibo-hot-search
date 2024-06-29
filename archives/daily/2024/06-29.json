@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719649410308,
+  "endTime": 1719650201741,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -123,6 +123,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 932961,
+      "num": 932961,
+      "word": "十个勤天演唱会官方致歉",
+      "onboard_time": 1719648677,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 902465,
       "num": 902465,
       "word": "胡歌二封白玉兰视帝",
@@ -155,12 +163,28 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 747211,
+      "num": 747211,
+      "word": "杨颖穿高定",
+      "onboard_time": 1719648918,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 738361,
       "num": 738361,
       "word": "玖月晞 抄袭",
       "onboard_time": 1719625338,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 721730,
+      "num": 211454,
+      "word": "建议坐着时双腿并拢",
+      "onboard_time": 1719647058,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 720585,
@@ -193,14 +217,6 @@
       "onboard_time": 1719581122,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632577,
-      "num": 211454,
-      "word": "建议坐着时双腿并拢",
-      "onboard_time": 1719647058,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 628799,
@@ -267,8 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529702,
-      "num": 529702,
+      "raw_hot": 536969,
+      "num": 536969,
       "word": "浙江嘉兴发生交通事故4人死亡",
       "onboard_time": 1719645378,
       "rank": 41,
@@ -281,6 +297,14 @@
       "onboard_time": 1719583585,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510807,
+      "num": 510807,
+      "word": "中国女排公布奥运名单",
+      "onboard_time": 1719648677,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 504200,
@@ -305,14 +329,6 @@
       "onboard_time": 1719589520,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 481090,
-      "num": 481090,
-      "word": "中国女排公布奥运名单",
-      "onboard_time": 1719648677,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 478191,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 400004,
-      "num": 204103,
+      "num": 206320,
       "word": "37岁找工作被告知只要30以内的",
       "onboard_time": 1719641898,
       "rank": 32,
@@ -563,6 +579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 298909,
+      "num": 298909,
+      "word": "微信分期上线",
+      "onboard_time": 1719646217,
+      "rank": 45,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 295235,
       "num": 295235,
       "word": "唐嫣晒白玉兰合照",
@@ -627,28 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264972,
-      "num": 264972,
-      "word": "微信分期上线",
-      "onboard_time": 1719646217,
-      "rank": 45,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 264787,
       "num": 253405,
       "word": "东方甄选主播回应贵州行用词争议",
       "onboard_time": 1719624257,
       "rank": 16,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 258548,
-      "num": 208068,
-      "word": "杨颖穿高定",
-      "onboard_time": 1719648918,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254987,
@@ -665,14 +673,6 @@
       "onboard_time": 1719589042,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252576,
-      "num": 202545,
-      "word": "十个勤天演唱会官方致歉",
-      "onboard_time": 1719648677,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 245978,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203182,
+      "num": 203182,
+      "word": "崔然竣city不city啊",
+      "onboard_time": 1719649398,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200116,
       "num": 200116,
       "word": "谢娜晒重庆小面",
@@ -857,6 +865,14 @@
       "onboard_time": 1719648077,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189232,
+      "num": 189232,
+      "word": "吴艳妮13秒06头名晋级",
+      "onboard_time": 1719648498,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 188084,
@@ -915,6 +931,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175022,
+      "num": 175022,
+      "word": "清华毕业生高举不读了快逃手牌",
+      "onboard_time": 1719646639,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174755,
       "num": 174755,
       "word": "seventeen舞台",
@@ -945,14 +969,6 @@
       "onboard_time": 1719630317,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172544,
-      "num": 172544,
-      "word": "吴艳妮13秒06头名晋级",
-      "onboard_time": 1719648498,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 171845,
@@ -1003,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 163341,
-      "num": 163341,
-      "word": "清华毕业生高举不读了快逃手牌",
-      "onboard_time": 1719646639,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "松死感",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1719633618,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160480,
+      "num": 160480,
+      "word": "清华大学2024年本科生毕业典礼",
+      "onboard_time": 1719647478,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 160194,
@@ -1211,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137163,
-      "num": 137163,
-      "word": "清华大学2024年本科生毕业典礼",
-      "onboard_time": 1719647478,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 136604,
       "num": 406105,
       "word": "那些赴韩做临时工的朝鲜族人",
@@ -1339,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "王星越没事哒没事哒",
+      "onboard_time": 1719649697,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128386,
       "num": 128386,
       "word": "加沙小女孩依偎在逝去母亲身边",
@@ -1435,6 +1451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 117682,
+      "num": 480395,
+      "word": "卤味店开直播卖石头",
+      "onboard_time": 1719648019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116398,
       "num": 116398,
       "word": "大熊猫给自己做了一条奢侈高定裙",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1719569601,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115594,
+      "num": 115594,
+      "word": "Letme和老婆红温互怼",
+      "onboard_time": 1719649997,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 115378,
@@ -1492,7 +1524,7 @@
     },
     {
       "raw_hot": 112372,
-      "num": 100381,
+      "num": 101750,
       "word": "杨紫更新火炬手随拍",
       "onboard_time": 1719647537,
       "rank": 49,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1719633079,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103640,
+      "num": 103640,
+      "word": "饿了么免单",
+      "onboard_time": 1719649398,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 102668,
@@ -1683,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76380,
-      "num": 480395,
-      "word": "卤味店开直播卖石头",
-      "onboard_time": 1719648019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73893,
       "num": 96461,
       "word": "戚薇是真正的昆卡",
@@ -1795,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54727,
+      "num": 445646,
+      "word": "男童迷路被民警接到派出所留作业",
+      "onboard_time": 1719647718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52085,
       "num": 291957,
       "word": "四川一高校走出200多位银行行长",
@@ -1836,7 +1876,7 @@
     },
     {
       "raw_hot": 39582,
-      "num": 205461,
+      "num": 206704,
       "word": "奥运冠军领奖鞋套装市售限量2024双",
       "onboard_time": 1719646458,
       "rank": 49,

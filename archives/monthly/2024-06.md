@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/29 16:23:30
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/29 16:36:41
 </p>
 </blockquote>
 <p>
@@ -4593,6 +4593,12 @@ iPhone16全系尺寸曝光（热度：968426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89%23" target="weibo">
+十个勤天演唱会官方致歉（热度：932961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%B0%91%E8%AD%A6%E5%A3%AE%E7%83%88%E7%89%BA%E7%89%B2%E9%B2%9C%E8%A1%80%E6%B5%B8%E9%80%8F%E8%AD%A6%E6%9C%8D%23" target="weibo">
 武汉民警壮烈牺牲鲜血浸透警服（热度：931086）
 </a>
@@ -6005,12 +6011,6 @@ AppleID改名AppleAccount（热度：781128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%BE%97%E6%9C%89%E7%82%B9%E4%B8%8D%E9%A1%BE%E8%A7%82%E4%BC%97%E6%AD%BB%E6%B4%BB%E4%BA%86%23" target="weibo">
 演得有点不顾观众死活了（热度：777310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E8%80%83%E4%B8%8D%E6%AD%A2%E4%B8%A4%E5%A4%A9%23" target="weibo">
-原来高考不止两天（热度：776793）
 </a>
 </li>
 
