@@ -1,0 +1,410 @@
+{
+  "runTime": 1719649410308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170029,
+        "num": 1170029,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799159,
+        "num": 799159,
+        "word": "刘亦菲说一些演员爆火就飘了",
+        "onboard_time": 1719640338,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47842,
+        "num": 792491,
+        "word": "2024中国AI盛典",
+        "onboard_time": 1719632418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809178,
+        "num": 792435,
+        "word": "网红面筋哥肝癌晚期进ICU",
+        "onboard_time": 1719642498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791603,
+        "num": 791603,
+        "word": "十个勤天演唱会疑似抄袭鹿晗",
+        "onboard_time": 1719637938,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529702,
+        "num": 529702,
+        "word": "浙江嘉兴发生交通事故4人死亡",
+        "onboard_time": 1719645378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481090,
+        "num": 481090,
+        "word": "中国女排公布奥运名单",
+        "onboard_time": 1719648677,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338306,
+        "num": 480786,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302443,
+        "num": 480460,
+        "word": "吃半年就能年轻十岁我妈竟然信了",
+        "onboard_time": 1719640818,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76380,
+        "num": 480395,
+        "word": "卤味店开直播卖石头",
+        "onboard_time": 1719648019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408973,
+        "num": 480017,
+        "word": "杨颖直播",
+        "onboard_time": 1719644958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578720,
+        "num": 479560,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 11,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 479507,
+        "num": 479507,
+        "word": "胡歌女儿反向预测",
+        "onboard_time": 1719643817,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385070,
+        "num": 385070,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330313,
+        "num": 330313,
+        "word": "种下一个未来",
+        "onboard_time": 1719647778,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311053,
+        "num": 311053,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295235,
+        "num": 295235,
+        "word": "唐嫣晒白玉兰合照",
+        "onboard_time": 1719646938,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264972,
+        "num": 264972,
+        "word": "微信分期上线",
+        "onboard_time": 1719646217,
+        "rank": 17,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 262778,
+        "num": 262778,
+        "word": "胡友平家属婉拒了看望和捐助",
+        "onboard_time": 1719645318,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212394,
+        "num": 212394,
+        "word": "不合规贷款APP将直接下架",
+        "onboard_time": 1719642557,
+        "rank": 19,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 632577,
+        "num": 211454,
+        "word": "建议坐着时双腿并拢",
+        "onboard_time": 1719647058,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269027,
+        "num": 209623,
+        "word": "不想上班的年轻人正在发明新职业",
+        "onboard_time": 1719647537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258548,
+        "num": 208068,
+        "word": "杨颖穿高定",
+        "onboard_time": 1719648918,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39582,
+        "num": 205461,
+        "word": "奥运冠军领奖鞋套装市售限量2024双",
+        "onboard_time": 1719646458,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253909,
+        "num": 204103,
+        "word": "37岁找工作被告知只要30以内的",
+        "onboard_time": 1719641898,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252576,
+        "num": 202545,
+        "word": "十个勤天演唱会官方致歉",
+        "onboard_time": 1719648677,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232801,
+        "num": 200440,
+        "word": "暗恋结束拉扯开始",
+        "onboard_time": 1719648257,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200116,
+        "num": 200116,
+        "word": "谢娜晒重庆小面",
+        "onboard_time": 1719647718,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197938,
+        "num": 197938,
+        "word": "王韵壹去世",
+        "onboard_time": 1719628097,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133356,
+        "num": 194177,
+        "word": "救人的怀孕女子原来是一名军医",
+        "onboard_time": 1719624857,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 190530,
+        "num": 190530,
+        "word": "刘亦菲和霍建华第一场戏",
+        "onboard_time": 1719648077,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182766,
+        "num": 182766,
+        "word": "张凌赫好苏",
+        "onboard_time": 1719647838,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172544,
+        "num": 172544,
+        "word": "吴艳妮13秒06头名晋级",
+        "onboard_time": 1719648498,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171759,
+        "num": 171759,
+        "word": "胖东来珠宝打假",
+        "onboard_time": 1719642078,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163341,
+        "num": 163341,
+        "word": "清华毕业生高举不读了快逃手牌",
+        "onboard_time": 1719646639,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "水断食在韩国流行",
+        "onboard_time": 1719633377,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146974,
+        "num": 146974,
+        "word": "张恒远",
+        "onboard_time": 1719646337,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137227,
+        "num": 137227,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137163,
+        "num": 137163,
+        "word": "清华大学2024年本科生毕业典礼",
+        "onboard_time": 1719647478,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135838,
+        "num": 135838,
+        "word": "王冠晒与唐嫣背影照",
+        "onboard_time": 1719647537,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135072,
+        "num": 135072,
+        "word": "鞠婧祎雨天游船",
+        "onboard_time": 1719648077,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127794,
+        "num": 127794,
+        "word": "为何更多男性相信一生一世一双人",
+        "onboard_time": 1719639557,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124754,
+        "num": 124754,
+        "word": "石凯南京场官宣",
+        "onboard_time": 1719648257,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120898,
+        "num": 120898,
+        "word": "种地吧",
+        "onboard_time": 1719636438,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115773,
+        "num": 115773,
+        "word": "中国日报发了杨紫",
+        "onboard_time": 1719646158,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114686,
+        "num": 114686,
+        "word": "东方甄选主播发贵州小作文",
+        "onboard_time": 1719644599,
+        "rank": 45,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 109600,
+        "num": 109600,
+        "word": "皮囊作者说不是重点大学才有好的人生",
+        "onboard_time": 1719648077,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 107873,
+        "num": 107873,
+        "word": "谁家大小姐一出场就跑酷啊",
+        "onboard_time": 1719633498,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100381,
+        "num": 100381,
+        "word": "超17%老师的心理问题出在哪儿",
+        "onboard_time": 1719637218,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 100381,
+        "word": "杨紫更新火炬手随拍",
+        "onboard_time": 1719647537,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全面深改习近平用过这些比喻#"
+    }
+  }
+}
