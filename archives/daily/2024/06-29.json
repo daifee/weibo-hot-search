@@ -1,7 +1,15 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719629065968,
+  "endTime": 1719631341960,
   "band_list": [
+    {
+      "raw_hot": 1821956,
+      "num": 419678,
+      "word": "欧阳妮妮被求婚",
+      "onboard_time": 1719629898,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1781748,
       "num": 1781748,
@@ -27,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1450465,
+      "num": 1450465,
+      "word": "曾强奸12岁女孩的运动员或参加奥运",
+      "onboard_time": 1719631098,
+      "rank": 0,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1274938,
       "num": 1274938,
       "word": "85花 飞升失败",
       "onboard_time": 1719587422,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1017419,
+      "num": 1017419,
+      "word": "王韵壹去世",
+      "onboard_time": 1719628097,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 983943,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 706610,
-      "num": 178738,
+      "num": 226298,
       "word": "真的好讨厌一杯奶茶钱的说法",
       "onboard_time": 1719619516,
       "rank": 20,
@@ -123,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566181,
-      "num": 566181,
+      "raw_hot": 573691,
+      "num": 573691,
       "word": "玖月晞 抄袭",
       "onboard_time": 1719625338,
       "rank": 5,
@@ -147,14 +171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 539380,
-      "num": 539380,
-      "word": "王韵壹去世",
-      "onboard_time": 1719628097,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 538171,
       "num": 538171,
       "word": "举报人回应被胖东来奖励10万",
@@ -169,6 +185,14 @@
       "onboard_time": 1719583585,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505887,
+      "num": 419415,
+      "word": "因为微信照片发现的出轨行为",
+      "onboard_time": 1719630557,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 504200,
@@ -227,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418510,
+      "num": 418510,
+      "word": "水龙吟",
+      "onboard_time": 1719628877,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 414303,
+      "num": 228589,
+      "word": "这种饮料既伤肝又有致癌风险",
+      "onboard_time": 1719627677,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 413764,
       "num": 186100,
       "word": "谭维维第一",
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 377352,
-      "num": 178249,
+      "num": 189281,
       "word": "建议相亲的人都去吃火锅",
       "onboard_time": 1719620056,
       "rank": 21,
@@ -297,6 +337,14 @@
       "onboard_time": 1719622098,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305110,
+      "num": 305110,
+      "word": "iPhone五月在华出货量增40%",
+      "onboard_time": 1719627258,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 303382,
@@ -355,14 +403,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 256058,
-      "num": 137841,
-      "word": "这种饮料既伤肝又有致癌风险",
-      "onboard_time": 1719627677,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 254987,
       "num": 254987,
       "word": "基建狂魔又要上新了",
@@ -387,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244971,
-      "num": 244971,
-      "word": "iPhone五月在华出货量增40%",
-      "onboard_time": 1719627258,
-      "rank": 17,
-      "category": "数码"
+      "raw_hot": 239741,
+      "num": 239741,
+      "word": "同事离职后留下了一封诀别信",
+      "onboard_time": 1719629356,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 231358,
@@ -409,6 +449,14 @@
       "onboard_time": 1719598153,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215609,
+      "num": 215609,
+      "word": "你好星期六两代乘风姐姐团建",
+      "onboard_time": 1719628998,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 211631,
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 192245,
-      "num": 137183,
+      "num": 162054,
       "word": "白玉兰",
       "onboard_time": 1719616815,
       "rank": 21,
@@ -456,6 +504,14 @@
       "word": "姜妍一个礼拜爱上虞书欣",
       "onboard_time": 1719621917,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185939,
+      "num": 185939,
+      "word": "于正再曝临江仙剧照",
+      "onboard_time": 1719631277,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -507,6 +563,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 155957,
+      "num": 155957,
+      "word": "水龙吟预约破100万",
+      "onboard_time": 1719629957,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153717,
       "num": 150487,
       "word": "白玉兰内场",
@@ -523,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151646,
+      "num": 151646,
+      "word": "闫妮站姿好像在等公交",
+      "onboard_time": 1719630317,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148077,
       "num": 148077,
       "word": "十个勤天演唱会",
       "onboard_time": 1719573677,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147094,
+      "num": 147094,
+      "word": "肖战工作室周末放饭",
+      "onboard_time": 1719629537,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 146744,
@@ -555,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144268,
+      "num": 233443,
+      "word": "母校专门为我开了个专业是什么体验",
+      "onboard_time": 1719625038,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143981,
       "num": 147939,
       "word": "谭维维有以前歌手那味儿了",
       "onboard_time": 1719590120,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142371,
-      "num": 123519,
-      "word": "水龙吟",
-      "onboard_time": 1719628877,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 135527,
@@ -585,14 +665,6 @@
       "onboard_time": 1719622398,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132978,
-      "num": 132978,
-      "word": "母校专门为我开了个专业是什么体验",
-      "onboard_time": 1719625038,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132641,
@@ -675,14 +747,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 117325,
-      "num": 117325,
-      "word": "你好星期六两代乘风姐姐团建",
-      "onboard_time": 1719628998,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116398,
       "num": 116398,
       "word": "大熊猫给自己做了一条奢侈高定裙",
@@ -729,6 +793,14 @@
       "onboard_time": 1719587542,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113191,
+      "num": 113191,
+      "word": "您的骑手正在哄娃",
+      "onboard_time": 1719630618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 106572,
@@ -811,6 +883,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90732,
+      "num": 90732,
+      "word": "张学友八年只拍一部电影",
+      "onboard_time": 1719631038,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90454,
+      "num": 479070,
+      "word": "高考生勇闯火场先后抱出2名老人",
+      "onboard_time": 1719626777,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 88109,
       "num": 162185,
       "word": "中国大运河申遗成功10年了",
@@ -849,14 +937,6 @@
       "onboard_time": 1719590899,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 75321,
-      "num": 479070,
-      "word": "高考生勇闯火场先后抱出2名老人",
-      "onboard_time": 1719626777,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 73893,
@@ -945,6 +1025,14 @@
       "onboard_time": 1719585144,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53584,
+      "num": 419911,
+      "word": "小羊顶盲人被女游客抓角拖走教育",
+      "onboard_time": 1719630618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51919,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719631341960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450465,
+        "num": 1450465,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1435243,
+        "num": 1435243,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36001,
+        "num": 1092803,
+        "word": "中国空间站舷窗大片上新",
+        "onboard_time": 1719581184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1017419,
+        "num": 1017419,
+        "word": "王韵壹去世",
+        "onboard_time": 1719628097,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694415,
+        "num": 694415,
+        "word": "救人的怀孕女子原来是一名军医",
+        "onboard_time": 1719624857,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 573691,
+        "num": 573691,
+        "word": "玖月晞 抄袭",
+        "onboard_time": 1719625338,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 598360,
+        "num": 557112,
+        "word": "周迅回应如懿传争议",
+        "onboard_time": 1719626717,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466326,
+        "num": 466326,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 423226,
+        "num": 423226,
+        "word": "谁懂张凌赫弯下腰来的那一刻",
+        "onboard_time": 1719624199,
+        "rank": 8,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 53584,
+        "num": 419911,
+        "word": "小羊顶盲人被女游客抓角拖走教育",
+        "onboard_time": 1719630618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1821956,
+        "num": 419678,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505887,
+        "num": 419415,
+        "word": "因为微信照片发现的出轨行为",
+        "onboard_time": 1719630557,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418510,
+        "num": 418510,
+        "word": "水龙吟",
+        "onboard_time": 1719628877,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400456,
+        "num": 400456,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377430,
+        "num": 377430,
+        "word": "85花 飞升失败",
+        "onboard_time": 1719587422,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305110,
+        "num": 305110,
+        "word": "iPhone五月在华出货量增40%",
+        "onboard_time": 1719627258,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239741,
+        "num": 239741,
+        "word": "同事离职后留下了一封诀别信",
+        "onboard_time": 1719629356,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188146,
+        "num": 237274,
+        "word": "双胞胎体重相差150斤同框反差太大",
+        "onboard_time": 1719596114,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152742,
+        "num": 234240,
+        "word": "女子23万买石头相信外国王子会收购",
+        "onboard_time": 1719617835,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144268,
+        "num": 233443,
+        "word": "母校专门为我开了个专业是什么体验",
+        "onboard_time": 1719625038,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414303,
+        "num": 228589,
+        "word": "这种饮料既伤肝又有致癌风险",
+        "onboard_time": 1719627677,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307943,
+        "num": 226298,
+        "word": "真的好讨厌一杯奶茶钱的说法",
+        "onboard_time": 1719619516,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277776,
+        "num": 222244,
+        "word": "邓紫棋 来自天堂的魔鬼",
+        "onboard_time": 1719619816,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221663,
+        "num": 221663,
+        "word": "虞书欣恭喜姜妍",
+        "onboard_time": 1719622757,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215609,
+        "num": 215609,
+        "word": "你好星期六两代乘风姐姐团建",
+        "onboard_time": 1719628998,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189281,
+        "num": 189281,
+        "word": "建议相亲的人都去吃火锅",
+        "onboard_time": 1719620056,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185939,
+        "num": 185939,
+        "word": "于正再曝临江仙剧照",
+        "onboard_time": 1719631277,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176962,
+        "num": 176962,
+        "word": "海清回应白玉兰怨妇",
+        "onboard_time": 1719621376,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162054,
+        "num": 162054,
+        "word": "白玉兰",
+        "onboard_time": 1719616815,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156776,
+        "num": 156776,
+        "word": "凡希亚吃了几个邓紫棋",
+        "onboard_time": 1719581122,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428557,
+        "num": 156615,
+        "word": "董明珠打假小米空调第一",
+        "onboard_time": 1719622697,
+        "rank": 30,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 156316,
+        "num": 156316,
+        "word": "胡歌二封白玉兰视帝",
+        "onboard_time": 1719581723,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155957,
+        "num": 155957,
+        "word": "水龙吟预约破100万",
+        "onboard_time": 1719629957,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155819,
+        "num": 155819,
+        "word": "东方甄选主播回应贵州行用词争议",
+        "onboard_time": 1719624257,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 151646,
+        "num": 151646,
+        "word": "闫妮站姿好像在等公交",
+        "onboard_time": 1719630317,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148674,
+        "num": 148674,
+        "word": "墨雨云间番外5分钟6块钱",
+        "onboard_time": 1719622098,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147094,
+        "num": 147094,
+        "word": "肖战工作室周末放饭",
+        "onboard_time": 1719629537,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132984,
+        "num": 132984,
+        "word": "年入14亿夫妇给年轻人的建议",
+        "onboard_time": 1719620176,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113191,
+        "num": 113191,
+        "word": "您的骑手正在哄娃",
+        "onboard_time": 1719630618,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101729,
+        "num": 101729,
+        "word": "基建狂魔又要上新了",
+        "onboard_time": 1719619576,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134987,
+        "num": 101245,
+        "word": "刘亦菲特开心有人说剧抛脸",
+        "onboard_time": 1719625817,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115523,
+        "num": 101060,
+        "word": "凡希亚在中国city不city",
+        "onboard_time": 1719622817,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98181,
+        "num": 98181,
+        "word": "女儿回应53岁妈妈复旦硕士毕业",
+        "onboard_time": 1719622996,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91927,
+        "num": 91927,
+        "word": "杨紫遗憾没到白玉兰现场",
+        "onboard_time": 1719591858,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90732,
+        "num": 90732,
+        "word": "张学友八年只拍一部电影",
+        "onboard_time": 1719631038,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90454,
+        "num": 90454,
+        "word": "高考生勇闯火场先后抱出2名老人",
+        "onboard_time": 1719626777,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 89185,
+        "num": 89185,
+        "word": "白玉兰内场",
+        "onboard_time": 1719577277,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88660,
+        "num": 88660,
+        "word": "巴拉圭vs巴西",
+        "onboard_time": 1719626598,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83325,
+        "num": 83325,
+        "word": "全球变暖致珠峰200多具遗体显露",
+        "onboard_time": 1719580523,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80914,
+        "num": 80914,
+        "word": "人可以宠猫到什么地步",
+        "onboard_time": 1719628877,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同秘鲁总统会谈#"
+    }
+  }
+}

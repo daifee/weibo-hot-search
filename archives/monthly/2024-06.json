@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719629065968,
+  "endTime": 1719631341960,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1227,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1821956,
+      "num": 419678,
+      "word": "欧阳妮妮被求婚",
+      "onboard_time": 1719629898,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1815800,
       "num": 863336,
       "word": "补习花了近70万发现老师无初中教资证",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1718625498,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1450465,
+      "num": 1450465,
+      "word": "曾强奸12岁女孩的运动员或参加奥运",
+      "onboard_time": 1719631098,
+      "rank": 0,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1449875,
@@ -5185,6 +5201,14 @@
       "onboard_time": 1717475660,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017419,
+      "num": 1017419,
+      "word": "王韵壹去世",
+      "onboard_time": 1719628097,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1017215,
@@ -9420,7 +9444,7 @@
     },
     {
       "raw_hot": 706610,
-      "num": 178738,
+      "num": 226298,
       "word": "真的好讨厌一杯奶茶钱的说法",
       "onboard_time": 1719619516,
       "rank": 20,
@@ -13051,6 +13075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573691,
+      "num": 573691,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 573617,
       "num": 573617,
       "word": "曾年入百万槟榔种植户现收入为0",
@@ -13265,14 +13297,6 @@
       "onboard_time": 1719061158,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 566181,
-      "num": 566181,
-      "word": "玖月晞 抄袭",
-      "onboard_time": 1719625338,
-      "rank": 5,
-      "category": "读书作家"
     },
     {
       "raw_hot": 566024,
@@ -14209,14 +14233,6 @@
       "onboard_time": 1718514377,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 539380,
-      "num": 539380,
-      "word": "王韵壹去世",
-      "onboard_time": 1719628097,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 539333,
@@ -15657,6 +15673,14 @@
       "onboard_time": 1718420178,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505887,
+      "num": 419415,
+      "word": "因为微信照片发现的出轨行为",
+      "onboard_time": 1719630557,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 505796,
@@ -19843,6 +19867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 418510,
+      "num": 418510,
+      "word": "水龙吟",
+      "onboard_time": 1719628877,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418119,
       "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
@@ -20121,6 +20153,14 @@
       "onboard_time": 1718668096,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414303,
+      "num": 228589,
+      "word": "这种饮料既伤肝又有致癌风险",
+      "onboard_time": 1719627677,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 414199,
@@ -22076,7 +22116,7 @@
     },
     {
       "raw_hot": 377352,
-      "num": 178249,
+      "num": 189281,
       "word": "建议相亲的人都去吃火锅",
       "onboard_time": 1719620056,
       "rank": 21,
@@ -27011,6 +27051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305110,
+      "num": 305110,
+      "word": "iPhone五月在华出货量增40%",
+      "onboard_time": 1719627258,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 304983,
       "num": 229495,
       "word": "婚前林更新婚后方协文",
@@ -31555,14 +31603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256058,
-      "num": 137841,
-      "word": "这种饮料既伤肝又有致癌风险",
-      "onboard_time": 1719627677,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 255987,
       "num": 255987,
       "word": "十个勤天做大做强",
@@ -32635,14 +32675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244971,
-      "num": 244971,
-      "word": "iPhone五月在华出货量增40%",
-      "onboard_time": 1719627258,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -33249,6 +33281,14 @@
       "onboard_time": 1718256559,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239741,
+      "num": 239741,
+      "word": "同事离职后留下了一封诀别信",
+      "onboard_time": 1719629356,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 239665,
@@ -36745,6 +36785,14 @@
       "onboard_time": 1717374018,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215609,
+      "num": 215609,
+      "word": "你好星期六两代乘风姐姐团建",
+      "onboard_time": 1719628998,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 215604,
@@ -44728,6 +44776,14 @@
       "word": "唐嫣新剧没选择演女主",
       "onboard_time": 1719572718,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185939,
+      "num": 185939,
+      "word": "于正再曝临江仙剧照",
+      "onboard_time": 1719631277,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -53027,6 +53083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155957,
+      "num": 155957,
+      "word": "水龙吟预约破100万",
+      "onboard_time": 1719629957,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -54561,6 +54625,14 @@
       "onboard_time": 1718029158,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151646,
+      "num": 151646,
+      "word": "闫妮站姿好像在等公交",
+      "onboard_time": 1719630317,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151620,
@@ -56115,6 +56187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147094,
+      "num": 147094,
+      "word": "肖战工作室周末放饭",
+      "onboard_time": 1719629537,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "秦霄贤当着戚薇面唱7",
@@ -56979,6 +57059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144268,
+      "num": 233443,
+      "word": "母校专门为我开了个专业是什么体验",
+      "onboard_time": 1719625038,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144249,
       "num": 144249,
       "word": "快乐老友记2",
@@ -57441,14 +57529,6 @@
       "onboard_time": 1717893136,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142371,
-      "num": 123519,
-      "word": "水龙吟",
-      "onboard_time": 1719628877,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 142359,
@@ -60473,14 +60553,6 @@
       "onboard_time": 1718673258,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132978,
-      "num": 132978,
-      "word": "母校专门为我开了个专业是什么体验",
-      "onboard_time": 1719625038,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132972,
@@ -65899,14 +65971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117325,
-      "num": 117325,
-      "word": "你好星期六两代乘风姐姐团建",
-      "onboard_time": 1719628998,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117323,
       "num": 117323,
       "word": "高圆圆好懂35岁女性的困境",
@@ -67273,6 +67337,14 @@
       "onboard_time": 1719142277,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113191,
+      "num": 113191,
+      "word": "您的骑手正在哄娃",
+      "onboard_time": 1719630618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 113169,
@@ -72275,6 +72347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90732,
+      "num": 90732,
+      "word": "张学友八年只拍一部电影",
+      "onboard_time": 1719631038,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90710,
       "num": 191117,
       "word": "这些地区高考还有一些单科在考",
@@ -72313,6 +72393,14 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90454,
+      "num": 479070,
+      "word": "高考生勇闯火场先后抱出2名老人",
+      "onboard_time": 1719626777,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 90404,
@@ -74097,14 +74185,6 @@
       "onboard_time": 1717457115,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75321,
-      "num": 479070,
-      "word": "高考生勇闯火场先后抱出2名老人",
-      "onboard_time": 1719626777,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 75303,
@@ -77224,6 +77304,14 @@
       "word": "浙江福建大暴雨",
       "onboard_time": 1717198455,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53584,
+      "num": 419911,
+      "word": "小羊顶盲人被女游客抓角拖走教育",
+      "onboard_time": 1719630618,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
