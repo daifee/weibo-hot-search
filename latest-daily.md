@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/30 00:23:19 ~ 2024/06/30 05:34:47
+本榜单时间：2024/06/30 00:23:19 ~ 2024/06/30 06:19:17
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ eStar战胜AG（热度：70513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%92%AD%E5%B0%81%E7%A5%9E%23" target="weibo">
+六公主第三次播封神（热度：36310）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E7%AC%AC%E4%BA%8C%E9%80%9A%E8%BF%87%E8%80%83%E6%A0%B8%23" target="weibo">
 张峻豪第二通过考核（热度：35132）
 </a>
@@ -381,8 +387,14 @@ eStar战胜AG（热度：70513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E9%9C%B8%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%23" target="weibo">
+女学霸的学习方法（热度：20984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%81%B6%E9%81%87%E9%98%AE%E7%BB%8F%E5%A4%A9%23" target="weibo">
-英国偶遇阮经天（热度：17213）
+英国偶遇阮经天（热度：18864）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719696887500,
+  "endTime": 1719699557008,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36310,
+      "num": 36310,
+      "word": "六公主第三次播封神",
+      "onboard_time": 1719698413,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35132,
       "num": 41381,
       "word": "张峻豪第二通过考核",
@@ -491,8 +499,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17213,
-      "num": 20979,
+      "raw_hot": 20984,
+      "num": 26740,
+      "word": "女学霸的学习方法",
+      "onboard_time": 1719697391,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 18864,
+      "num": 26736,
       "word": "英国偶遇阮经天",
       "onboard_time": 1719692111,
       "rank": 41,
