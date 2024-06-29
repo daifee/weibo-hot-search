@@ -1,14 +1,22 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719631341960,
+  "endTime": 1719632238619,
   "band_list": [
     {
-      "raw_hot": 1821956,
+      "raw_hot": 1958127,
       "num": 419678,
       "word": "欧阳妮妮被求婚",
       "onboard_time": 1719629898,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1899018,
+      "num": 1899018,
+      "word": "曾强奸12岁女孩的运动员或参加奥运",
+      "onboard_time": 1719631098,
+      "rank": 0,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1781748,
@@ -35,20 +43,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1450465,
-      "num": 1450465,
-      "word": "曾强奸12岁女孩的运动员或参加奥运",
-      "onboard_time": 1719631098,
-      "rank": 0,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 1274938,
       "num": 1274938,
       "word": "85花 飞升失败",
       "onboard_time": 1719587422,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1033964,
+      "num": 419415,
+      "word": "因为微信照片发现的出轨行为",
+      "onboard_time": 1719630557,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1017419,
@@ -116,11 +124,19 @@
     },
     {
       "raw_hot": 706610,
-      "num": 226298,
+      "num": 251339,
       "word": "真的好讨厌一杯奶茶钱的说法",
       "onboard_time": 1719619516,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 691584,
+      "num": 691584,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
     },
     {
       "raw_hot": 691175,
@@ -145,14 +161,6 @@
       "onboard_time": 1719583228,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 573691,
-      "num": 573691,
-      "word": "玖月晞 抄袭",
-      "onboard_time": 1719625338,
-      "rank": 5,
-      "category": "读书作家"
     },
     {
       "raw_hot": 565455,
@@ -185,14 +193,6 @@
       "onboard_time": 1719583585,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505887,
-      "num": 419415,
-      "word": "因为微信照片发现的出轨行为",
-      "onboard_time": 1719630557,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 504200,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 414303,
-      "num": 228589,
+      "num": 257853,
       "word": "这种饮料既伤肝又有致癌风险",
       "onboard_time": 1719627677,
       "rank": 27,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271810,
+      "num": 271810,
+      "word": "同事离职后留下了一封诀别信",
+      "onboard_time": 1719629356,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264787,
       "num": 253405,
       "word": "东方甄选主播回应贵州行用词争议",
@@ -427,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239741,
-      "num": 239741,
-      "word": "同事离职后留下了一封诀别信",
-      "onboard_time": 1719629356,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231358,
       "num": 184449,
       "word": "矿泉水湿敷半个月后",
@@ -449,6 +449,14 @@
       "onboard_time": 1719598153,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222190,
+      "num": 222190,
+      "word": "于正再曝临江仙剧照",
+      "onboard_time": 1719631277,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 215609,
@@ -507,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185939,
-      "num": 185939,
-      "word": "于正再曝临江仙剧照",
-      "onboard_time": 1719631277,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184080,
       "num": 184080,
       "word": "成绩上不了五院四系还报法学吗",
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169484,
+      "num": 169484,
+      "word": "闫妮站姿好像在等公交",
+      "onboard_time": 1719630317,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164572,
       "num": 164572,
       "word": "一个久坐的屁股有多丑",
@@ -555,12 +563,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159715,
+      "num": 266159,
+      "word": "您的骑手正在哄娃",
+      "onboard_time": 1719630618,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158583,
       "num": 158583,
       "word": "东方甄选",
       "onboard_time": 1719621137,
       "rank": 19,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 157837,
+      "num": 157837,
+      "word": "肖战曾黎介绍同一件国宝",
+      "onboard_time": 1719631758,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155957,
@@ -585,14 +609,6 @@
       "onboard_time": 1719625817,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151646,
-      "num": 151646,
-      "word": "闫妮站姿好像在等公交",
-      "onboard_time": 1719630317,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 148077,
@@ -649,6 +665,14 @@
       "onboard_time": 1719590120,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141110,
+      "num": 258967,
+      "word": "巴拉圭1比4巴西",
+      "onboard_time": 1719631758,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 135527,
@@ -795,20 +819,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 113191,
-      "num": 113191,
-      "word": "您的骑手正在哄娃",
-      "onboard_time": 1719630618,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106572,
       "num": 106572,
       "word": "25岁来欧洲半年长高了5厘米",
       "onboard_time": 1719617294,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106418,
+      "num": 106418,
+      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
+      "onboard_time": 1719631758,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 106304,
@@ -819,20 +843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105677,
+      "num": 346844,
+      "word": "女儿回应53岁妈妈复旦硕士毕业",
+      "onboard_time": 1719622996,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102668,
       "num": 102668,
       "word": "韩国人流行爬山顶吃泡面",
       "onboard_time": 1719617234,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100481,
-      "num": 346844,
-      "word": "女儿回应53岁妈妈复旦硕士毕业",
-      "onboard_time": 1719622996,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100423,
@@ -867,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94211,
+      "num": 94211,
+      "word": "张学友八年只拍一部电影",
+      "onboard_time": 1719631038,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93816,
       "num": 93816,
       "word": "刘亦菲 我爱赵盼儿许红豆黄亦玫",
@@ -881,14 +913,6 @@
       "onboard_time": 1719628877,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90732,
-      "num": 90732,
-      "word": "张学友八年只拍一部电影",
-      "onboard_time": 1719631038,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 90454,
@@ -1003,6 +1027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 60161,
+      "num": 419911,
+      "word": "小羊顶盲人被女游客抓角拖走教育",
+      "onboard_time": 1719630618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59663,
       "num": 59663,
       "word": "汪苏泷又又又唱大众金曲",
@@ -1027,20 +1059,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53584,
-      "num": 419911,
-      "word": "小羊顶盲人被女游客抓角拖走教育",
-      "onboard_time": 1719630618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51919,
       "num": 51919,
       "word": "陈乔恩回复导演陈铭章",
       "onboard_time": 1719606370,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50734,
+      "num": 158687,
+      "word": "美国防部披露大量供乌物资失踪",
+      "onboard_time": 1719632178,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 49325,
@@ -1129,6 +1161,9 @@
     },
     {
       "word": "#习近平同秘鲁总统会谈#"
+    },
+    {
+      "word": "#关于全面深改习近平用过这些比喻#"
     }
   ]
 }
