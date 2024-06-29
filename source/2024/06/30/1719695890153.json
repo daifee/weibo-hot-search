@@ -1,0 +1,410 @@
+{
+  "runTime": 1719695890153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 111559,
+        "num": 111559,
+        "word": "德国vs丹麦",
+        "onboard_time": 1719672980,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91290,
+        "num": 91290,
+        "word": "于正的番外算是白拍了",
+        "onboard_time": 1719675500,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9073,
+        "num": 80298,
+        "word": "穿越千年看大运河秀美画卷",
+        "onboard_time": 1719659957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72349,
+        "num": 72349,
+        "word": "爸爸让女儿用眼泪把盆装满才开电视",
+        "onboard_time": 1719671300,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65656,
+        "num": 65656,
+        "word": "江浙沪朋友们最近出门的样子",
+        "onboard_time": 1719671178,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63072,
+        "num": 63072,
+        "word": "今年上半年体感最爆的剧",
+        "onboard_time": 1719667276,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53342,
+        "num": 53342,
+        "word": "王星越工作室",
+        "onboard_time": 1719672679,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47880,
+        "num": 47880,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45899,
+        "num": 45899,
+        "word": "白鹿对接发声明",
+        "onboard_time": 1719663678,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1788,
+        "num": 42134,
+        "word": "孙子攒一车废品拉回家送奶奶惊喜",
+        "onboard_time": 1719666980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41624,
+        "num": 41624,
+        "word": "欧洲杯",
+        "onboard_time": 1719664518,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39850,
+        "num": 39850,
+        "word": "殷世航 其实已经偷偷幸福很久了",
+        "onboard_time": 1719656897,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35140,
+        "num": 35140,
+        "word": "于正会开除一干人等",
+        "onboard_time": 1719671479,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32374,
+        "num": 32374,
+        "word": "唐嫣每次一出来罗晋就被夸",
+        "onboard_time": 1719665239,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31869,
+        "num": 31869,
+        "word": "瑞士vs意大利",
+        "onboard_time": 1719672199,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31770,
+        "num": 31770,
+        "word": "王俊凯 族长",
+        "onboard_time": 1719672860,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31484,
+        "num": 31484,
+        "word": "美军每天用十多辆卡车偷叙利亚小麦",
+        "onboard_time": 1719660377,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28191,
+        "num": 28191,
+        "word": "网红面筋哥肝癌晚期进ICU",
+        "onboard_time": 1719642498,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26111,
+        "num": 26111,
+        "word": "海棠",
+        "onboard_time": 1719664279,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 20971,
+        "num": 20971,
+        "word": "上海仅5张桌的米其林老板娘有多结棍",
+        "onboard_time": 1719667159,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60895,
+        "num": 20956,
+        "word": "Angelababy涩谷辣妹",
+        "onboard_time": 1719652458,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28362,
+        "num": 20925,
+        "word": "普华永道正在蒸发殆尽",
+        "onboard_time": 1719675558,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27652,
+        "num": 20905,
+        "word": "肝癌大户被揪出",
+        "onboard_time": 1719667159,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23533,
+        "num": 20872,
+        "word": "女子不忍被家暴杀夫潜逃29年落网",
+        "onboard_time": 1719657137,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 20863,
+        "word": "唐嫣的腿硬控我",
+        "onboard_time": 1719671240,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20240,
+        "num": 20240,
+        "word": "朱志鑫 绝对C位",
+        "onboard_time": 1719666019,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19943,
+        "num": 19943,
+        "word": "肝脏损伤的4个信号",
+        "onboard_time": 1719662358,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19836,
+        "num": 19836,
+        "word": "欧洲杯赛程",
+        "onboard_time": 1719668598,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18360,
+        "num": 19836,
+        "word": "一条plog告别六月",
+        "onboard_time": 1719681316,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18279,
+        "num": 19836,
+        "word": "B太上海打车接连遇司机挑客拒载",
+        "onboard_time": 1719658937,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18174,
+        "num": 19835,
+        "word": "580元演唱会门票被换到380元区域",
+        "onboard_time": 1719665058,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18084,
+        "num": 19835,
+        "word": "网传中学及卫生院全体职工为人守灵",
+        "onboard_time": 1719665599,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17440,
+        "num": 19835,
+        "word": "度华年",
+        "onboard_time": 1719664037,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17378,
+        "num": 19835,
+        "word": "蔡依林 新专辑",
+        "onboard_time": 1719667459,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16896,
+        "num": 19834,
+        "word": "墨雨云间",
+        "onboard_time": 1719674600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16858,
+        "num": 19834,
+        "word": "为什么强烈推荐你夏天穿羊毛",
+        "onboard_time": 1719668720,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 16539,
+        "num": 19833,
+        "word": "丁程鑫不敢向王俊凯泼水",
+        "onboard_time": 1719666378,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16203,
+        "num": 19833,
+        "word": "范丞丞说第一次在新说唱闻到血腥味",
+        "onboard_time": 1719671841,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15814,
+        "num": 19833,
+        "word": "王心凌玫瑰嫁纱",
+        "onboard_time": 1719673939,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15730,
+        "num": 19833,
+        "word": "李艺飞",
+        "onboard_time": 1719685572,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15280,
+        "num": 19832,
+        "word": "eStar战胜AG",
+        "onboard_time": 1719673040,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15102,
+        "num": 19832,
+        "word": "英国偶遇阮经天",
+        "onboard_time": 1719692111,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 19832,
+        "word": "范丞丞工作室发布声明",
+        "onboard_time": 1719661877,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15001,
+        "num": 19831,
+        "word": "武磊倒钩破门",
+        "onboard_time": 1719671178,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14861,
+        "num": 19831,
+        "word": "喝绿豆汤最好一天别超过500ml",
+        "onboard_time": 1719663738,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14525,
+        "num": 19831,
+        "word": "杨和苏挂脸",
+        "onboard_time": 1719676278,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13411,
+        "num": 19830,
+        "word": "于正的聊天记录",
+        "onboard_time": 1719668000,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13004,
+        "num": 19830,
+        "word": "张峻豪第二通过考核",
+        "onboard_time": 1719667159,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12913,
+        "num": 19829,
+        "word": "许钧报名歌手",
+        "onboard_time": 1719689111,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12406,
+        "num": 19829,
+        "word": "许嵩演唱会青岛站",
+        "onboard_time": 1719685812,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
+    }
+  }
+}

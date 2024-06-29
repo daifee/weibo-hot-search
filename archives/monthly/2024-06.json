@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719693312948,
+  "endTime": 1719695890153,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -85521,6 +85521,14 @@
       "onboard_time": 1719285619,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 15102,
+      "num": 19832,
+      "word": "英国偶遇阮经天",
+      "onboard_time": 1719692111,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 15098,
