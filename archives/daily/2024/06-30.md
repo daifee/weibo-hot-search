@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/30 00:23:19 ~ 2024/06/30 03:14:51
+本榜单时间：2024/06/30 00:23:19 ~ 2024/06/30 03:34:15
 </p>
 </blockquote>
 <p>
@@ -316,7 +316,7 @@ eStar战胜AG（热度：70513）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BDvs%E4%B8%B9%E9%BA%A6%23" target="weibo">
-德国vs丹麦（热度：55539）
+德国vs丹麦（热度：61784）
 </a>
 </li>
 
@@ -352,7 +352,7 @@ eStar战胜AG（热度：70513）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E9%A3%9E%23" target="weibo">
-李艺飞（热度：32743）
+李艺飞（热度：33826）
 </a>
 </li>
 
@@ -371,6 +371,12 @@ eStar战胜AG（热度：70513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E4%BB%8A%E6%99%9A%E5%A4%A9%E7%A5%9E%E4%B8%8B%E5%87%A1%23" target="weibo">
 武磊今晚天神下凡（热度：24092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%92%A7%E6%8A%A5%E5%90%8D%E6%AD%8C%E6%89%8B%23" target="weibo">
+许钧报名歌手（热度：22171）
 </a>
 </li>
 

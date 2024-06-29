@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719688491749,
+  "endTime": 1719689655090,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -82515,6 +82515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33826,
+      "num": 33826,
+      "word": "李艺飞",
+      "onboard_time": 1719685572,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33797,
       "num": 358915,
       "word": "想学工科怎么选学校",
@@ -82713,14 +82721,6 @@
       "onboard_time": 1718657170,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 32743,
-      "num": 32743,
-      "word": "李艺飞",
-      "onboard_time": 1719685572,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 32730,
@@ -84505,6 +84505,14 @@
       "onboard_time": 1718207597,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22171,
+      "num": 22171,
+      "word": "许钧报名歌手",
+      "onboard_time": 1719689111,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 22019,
