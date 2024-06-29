@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719667213857,
+  "endTime": 1719668141532,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2115,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1515568,
+      "num": 1515568,
+      "word": "金曲奖",
+      "onboard_time": 1719660256,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1514724,
       "num": 1514724,
       "word": "章莹颖",
@@ -2656,6 +2664,14 @@
       "word": "张钰琪音色",
       "onboard_time": 1718371462,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1396473,
+      "num": 430982,
+      "word": "丁程鑫不敢向王俊凯泼水",
+      "onboard_time": 1719666378,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -3827,6 +3843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1194650,
+      "num": 275191,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1194445,
       "num": 237042,
       "word": "手机免密支付1岁娃误点120杯柠檬水",
@@ -3929,14 +3953,6 @@
       "onboard_time": 1719496519,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1182344,
-      "num": 275191,
-      "word": "海棠",
-      "onboard_time": 1719664279,
-      "rank": 13,
-      "category": "读书作家"
     },
     {
       "raw_hot": 1181477,
@@ -4457,14 +4473,6 @@
       "onboard_time": 1718689278,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1122228,
-      "num": 1122228,
-      "word": "金曲奖",
-      "onboard_time": 1719660256,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1120668,
@@ -6867,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 865052,
+      "num": 339192,
+      "word": "唐嫣每次一出来罗晋就被夸",
+      "onboard_time": 1719665239,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 864883,
       "num": 864883,
       "word": "iPhone15有五种充电上限了",
@@ -7524,7 +7540,7 @@
     },
     {
       "raw_hot": 813240,
-      "num": 200899,
+      "num": 247151,
       "word": "女子不忍被家暴杀夫潜逃29年落网",
       "onboard_time": 1719657137,
       "rank": 38,
@@ -8017,14 +8033,6 @@
       "onboard_time": 1718589556,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 781805,
-      "num": 319677,
-      "word": "唐嫣每次一出来罗晋就被夸",
-      "onboard_time": 1719665239,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 781128,
@@ -8923,14 +8931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 737566,
-      "num": 302979,
-      "word": "丁程鑫不敢向王俊凯泼水",
-      "onboard_time": 1719666378,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736403,
       "num": 389121,
       "word": "酒店标错价40元一晚被订上千单",
@@ -9169,6 +9169,14 @@
       "onboard_time": 1719390498,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728472,
+      "num": 267207,
+      "word": "于正回应点赞",
+      "onboard_time": 1719666259,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 727855,
@@ -11276,7 +11284,7 @@
     },
     {
       "raw_hot": 643020,
-      "num": 260044,
+      "num": 265316,
       "word": "田馥甄音乐节",
       "onboard_time": 1719663916,
       "rank": 25,
@@ -13043,14 +13051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581644,
-      "num": 174525,
-      "word": "于正回应点赞",
-      "onboard_time": 1719666259,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 581488,
       "num": 219671,
       "word": "几兄弟能把asen气死",
@@ -14561,6 +14561,14 @@
       "onboard_time": 1719645378,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536416,
+      "num": 260422,
+      "word": "580元演唱会门票被换到380元区域",
+      "onboard_time": 1719665058,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 535944,
@@ -17795,14 +17803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 461766,
-      "num": 199564,
-      "word": "580元演唱会门票被换到380元区域",
-      "onboard_time": 1719665058,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -19187,6 +19187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 435269,
+      "num": 254636,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "TF家族一代二代同台",
@@ -19268,7 +19276,7 @@
     },
     {
       "raw_hot": 434172,
-      "num": 169733,
+      "num": 250062,
       "word": "金曲奖直播",
       "onboard_time": 1719660539,
       "rank": 31,
@@ -21625,14 +21633,6 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394124,
-      "num": 199609,
-      "word": "喝绿豆汤最好一天别超过500ml",
-      "onboard_time": 1719663738,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 394018,
@@ -28195,6 +28195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 297139,
+      "num": 242272,
+      "word": "肝癌大户被揪出",
+      "onboard_time": 1719667159,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297096,
       "num": 297096,
       "word": "分数线降降降",
@@ -30867,6 +30875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 269967,
+      "num": 269967,
+      "word": "林孝埈意大利骑行训练plog",
+      "onboard_time": 1719666318,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269923,
       "num": 269923,
       "word": "于正 多看爽剧有益身心健康",
@@ -32305,6 +32321,14 @@
       "onboard_time": 1718071159,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253936,
+      "num": 253936,
+      "word": "我国成功发射中星3A卫星",
+      "onboard_time": 1719666318,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 253885,
@@ -34347,6 +34371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235424,
+      "num": 235424,
+      "word": "今年上半年体感最爆的剧",
+      "onboard_time": 1719667276,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235423,
       "num": 235423,
       "word": "我吹爆这本小说",
@@ -34545,6 +34577,14 @@
       "onboard_time": 1719551240,
       "rank": 32,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 233889,
+      "num": 233889,
+      "word": "张峻豪第二通过考核",
+      "onboard_time": 1719667159,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 233887,
@@ -34961,6 +35001,14 @@
       "onboard_time": 1718599099,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230050,
+      "num": 230050,
+      "word": "蔡依林 新专辑",
+      "onboard_time": 1719667459,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 229971,
@@ -35388,7 +35436,7 @@
     },
     {
       "raw_hot": 227510,
-      "num": 159206,
+      "num": 225103,
       "word": "朱志鑫 绝对C位",
       "onboard_time": 1719666019,
       "rank": 28,
@@ -36745,14 +36793,6 @@
       "onboard_time": 1718239580,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219104,
-      "num": 219104,
-      "word": "我国成功发射中星3A卫星",
-      "onboard_time": 1719666318,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 219025,
@@ -43875,6 +43915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191635,
+      "num": 191635,
+      "word": "闪光的夏天",
+      "onboard_time": 1717906278,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191604,
       "num": 191604,
       "word": "王星越商务",
@@ -45875,14 +45923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184973,
-      "num": 184973,
-      "word": "林孝埈意大利骑行训练plog",
-      "onboard_time": 1719666318,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184962,
       "num": 184962,
       "word": "王力宏",
@@ -46689,6 +46729,14 @@
       "onboard_time": 1719568698,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181209,
+      "num": 251659,
+      "word": "网传中学及卫生院全体职工为人守灵",
+      "onboard_time": 1719665599,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181198,
@@ -47747,6 +47795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177297,
+      "num": 148233,
+      "word": "于正的聊天记录",
+      "onboard_time": 1719668000,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177277,
       "num": 177277,
       "word": "夏天怎么科学穿衣更凉快",
@@ -48097,6 +48153,14 @@
       "onboard_time": 1717246638,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176028,
+      "num": 130320,
+      "word": "TF三代没人挑战苏新皓",
+      "onboard_time": 1719667819,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175920,
@@ -50771,6 +50835,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 166329,
+      "num": 166329,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166327,
       "num": 166327,
       "word": "世界之外肯德基联名",
@@ -51827,14 +51899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162561,
-      "num": 141668,
-      "word": "闪光的夏天",
-      "onboard_time": 1717906278,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162538,
       "num": 162538,
       "word": "诡异的滴滴滴可能来自哪里",
@@ -52489,14 +52553,6 @@
       "onboard_time": 1718355860,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 160610,
-      "num": 141084,
-      "word": "张峻豪第二通过考核",
-      "onboard_time": 1719667159,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 160522,
@@ -57131,14 +57187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147262,
-      "num": 147262,
-      "word": "网传中学及卫生院全体职工为人守灵",
-      "onboard_time": 1719665599,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147166,
       "num": 147166,
       "word": "新兰only",
@@ -58585,14 +58633,6 @@
       "onboard_time": 1717893136,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142366,
-      "num": 142366,
-      "word": "肝癌大户被揪出",
-      "onboard_time": 1719667159,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142359,
@@ -64561,6 +64601,14 @@
       "onboard_time": 1718377221,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 125639,
+      "num": 130705,
+      "word": "LPL组内赛战队海报",
+      "onboard_time": 1719667519,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 125613,
@@ -70819,14 +70867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 105898,
-      "num": 140989,
-      "word": "上海仅5张桌的米其林老板娘有多结棍",
-      "onboard_time": 1719667159,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105891,
       "num": 105891,
       "word": "理想称汕头追尾车辆未启用辅助驾驶",
@@ -73747,6 +73787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91308,
+      "num": 129043,
+      "word": "wbg晋级登峰组",
+      "onboard_time": 1719667039,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91300,
       "num": 91300,
       "word": "英国国宝级演员摔下舞台",
@@ -74001,6 +74049,14 @@
       "onboard_time": 1717854738,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89163,
+      "num": 140490,
+      "word": "中国U18女篮晋级亚洲杯决赛",
+      "onboard_time": 1719667099,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89152,
@@ -74817,14 +74873,6 @@
       "onboard_time": 1717218917,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82087,
-      "num": 140490,
-      "word": "中国U18女篮晋级亚洲杯决赛",
-      "onboard_time": 1719667099,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 82051,
@@ -80515,6 +80563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42768,
+      "num": 465249,
+      "word": "穿越千年看大运河秀美画卷",
+      "onboard_time": 1719659957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42758,
       "num": 299921,
       "word": "这些国宝被印上了纪念币",
@@ -81411,14 +81467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38264,
-      "num": 465249,
-      "word": "穿越千年看大运河秀美画卷",
-      "onboard_time": 1719659957,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38221,
       "num": 323483,
       "word": "男生高考696班主任嘴角上扬压不住",
@@ -81465,6 +81513,14 @@
       "onboard_time": 1718956818,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37930,
+      "num": 269512,
+      "word": "孙子攒一车废品拉回家送奶奶惊喜",
+      "onboard_time": 1719666980,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37905,
@@ -84809,14 +84865,6 @@
       "onboard_time": 1719550459,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16823,
-      "num": 185575,
-      "word": "孙子攒一车废品拉回家送奶奶惊喜",
-      "onboard_time": 1719666980,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16751,
