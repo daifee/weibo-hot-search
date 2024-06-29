@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719617791160,
+  "endTime": 1719623997869,
   "band_list": [
     {
       "raw_hot": 1781748,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1011739,
+      "num": 1011739,
+      "word": "白鹿范丞丞",
+      "onboard_time": 1719622398,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 983943,
       "num": 983943,
       "word": "杨紫遗憾没到白玉兰现场",
@@ -41,6 +49,14 @@
       "onboard_time": 1719581723,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758865,
+      "num": 344270,
+      "word": "霍启刚回应与董宇辉同游香港",
+      "onboard_time": 1719618375,
+      "rank": 10,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 720585,
@@ -59,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694813,
+      "num": 158038,
+      "word": "真的好讨厌一杯奶茶钱的说法",
+      "onboard_time": 1719619516,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 691175,
       "num": 283818,
       "word": "凡希亚吃了几个邓紫棋",
@@ -73,6 +97,22 @@
       "onboard_time": 1719583228,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565455,
+      "num": 339789,
+      "word": "年入14亿夫妇给年轻人的建议",
+      "onboard_time": 1719620176,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 553450,
+      "num": 363567,
+      "word": "邓紫棋 来自天堂的魔鬼",
+      "onboard_time": 1719619816,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 538171,
@@ -139,12 +179,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401540,
+      "num": 401540,
+      "word": "女子23万买石头相信外国王子会收购",
+      "onboard_time": 1719617835,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394259,
       "num": 394259,
       "word": "男子清华毕业1年重新高考学中医",
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377352,
+      "num": 156774,
+      "word": "建议相亲的人都去吃火锅",
+      "onboard_time": 1719620056,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 364564,
+      "num": 336032,
+      "word": "董明珠打假小米空调第一",
+      "onboard_time": 1719622697,
+      "rank": 12,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 363157,
@@ -155,12 +219,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359750,
+      "num": 333978,
+      "word": "海清回应白玉兰怨妇",
+      "onboard_time": 1719621376,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338645,
       "num": 223455,
       "word": "殷世航傲娇美官宣恋情",
       "onboard_time": 1719582505,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 332580,
+      "num": 332580,
+      "word": "胡歌去年影帝今年视帝",
+      "onboard_time": 1719619637,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312115,
+      "num": 312115,
+      "word": "虞书欣恭喜姜妍",
+      "onboard_time": 1719622757,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 303382,
@@ -211,12 +299,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255642,
+      "num": 155678,
+      "word": "墨雨云间番外5分钟6块钱",
+      "onboard_time": 1719622098,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254987,
+      "num": 254987,
+      "word": "基建狂魔又要上新了",
+      "onboard_time": 1719619576,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254683,
       "num": 180532,
       "word": "赵一博翻牌",
       "onboard_time": 1719589042,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245978,
+      "num": 219469,
+      "word": "85花 手拉手",
+      "onboard_time": 1719599292,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 231358,
@@ -228,19 +340,11 @@
     },
     {
       "raw_hot": 223283,
-      "num": 106183,
+      "num": 150380,
       "word": "同居后分手男方要女方退还全部彩礼",
       "onboard_time": 1719598153,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219469,
-      "num": 219469,
-      "word": "85花 手拉手",
-      "onboard_time": 1719599292,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 211631,
@@ -251,16 +355,24 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 196445,
-      "num": 196445,
+      "raw_hot": 210149,
+      "num": 210149,
       "word": "房东上门催租发现家里被卖空",
       "onboard_time": 1719582323,
       "rank": 17,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198927,
+      "num": 147953,
+      "word": "凡希亚在中国city不city",
+      "onboard_time": 1719622817,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192245,
-      "num": 105791,
+      "num": 131679,
       "word": "白玉兰",
       "onboard_time": 1719616815,
       "rank": 21,
@@ -273,6 +385,14 @@
       "onboard_time": 1719579139,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188084,
+      "num": 147439,
+      "word": "姜妍一个礼拜爱上虞书欣",
+      "onboard_time": 1719621917,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 184080,
@@ -307,12 +427,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158583,
+      "num": 158583,
+      "word": "东方甄选",
+      "onboard_time": 1719621137,
+      "rank": 19,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 153717,
+      "num": 132513,
+      "word": "白玉兰内场",
+      "onboard_time": 1719577277,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148077,
       "num": 148077,
       "word": "十个勤天演唱会",
       "onboard_time": 1719573677,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146744,
+      "num": 146744,
+      "word": "亲戚要求我换微信头像",
+      "onboard_time": 1719618256,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 145963,
@@ -329,6 +473,30 @@
       "onboard_time": 1719590120,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135527,
+      "num": 116394,
+      "word": "周迅口碑",
+      "onboard_time": 1719616153,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133407,
+      "num": 133407,
+      "word": "中国小伙的设计在国外火了",
+      "onboard_time": 1719622398,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130628,
+      "num": 130628,
+      "word": "中国传媒大学24届毕业典礼",
+      "onboard_time": 1719623657,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 128324,
@@ -371,11 +539,11 @@
       "category": "健康医疗,综艺"
     },
     {
-      "raw_hot": 120957,
-      "num": 104167,
-      "word": "白玉兰内场",
-      "onboard_time": 1719577277,
-      "rank": 25,
+      "raw_hot": 123697,
+      "num": 116344,
+      "word": "白玉兰每年遛一个85花",
+      "onboard_time": 1719596053,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -395,12 +563,44 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116398,
+      "num": 116398,
+      "word": "大熊猫给自己做了一条奢侈高定裙",
+      "onboard_time": 1719618736,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116282,
+      "num": 116282,
+      "word": "耿爽奉劝美方改改老毛病",
+      "onboard_time": 1719623237,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 115878,
       "num": 146665,
       "word": "高铁座被孕妇暂坐男子假装没看见",
       "onboard_time": 1719569601,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115801,
+      "num": 115801,
+      "word": "加沙小女孩依偎在逝去母亲身边",
+      "onboard_time": 1719623417,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115119,
+      "num": 115119,
+      "word": "SM去除专辑中的广告插页",
+      "onboard_time": 1719621556,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 114594,
@@ -417,6 +617,22 @@
       "onboard_time": 1719587542,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106572,
+      "num": 106572,
+      "word": "25岁来欧洲半年长高了5厘米",
+      "onboard_time": 1719617294,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102668,
+      "num": 102668,
+      "word": "韩国人流行爬山顶吃泡面",
+      "onboard_time": 1719617234,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 100423,
@@ -491,30 +707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 82824,
-      "num": 96494,
-      "word": "白玉兰每年遛一个85花",
-      "onboard_time": 1719596053,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82329,
-      "num": 70454,
-      "word": "周迅口碑",
-      "onboard_time": 1719616153,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 74529,
-      "num": 74529,
-      "word": "韩国人流行爬山顶吃泡面",
-      "onboard_time": 1719617234,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 73893,
       "num": 96461,
       "word": "戚薇是真正的昆卡",
@@ -555,19 +747,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65618,
+      "num": 346844,
+      "word": "女儿回应53岁妈妈复旦硕士毕业",
+      "onboard_time": 1719622996,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63324,
       "num": 63324,
       "word": "合肥暴雨",
       "onboard_time": 1719616815,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61788,
-      "num": 61788,
-      "word": "25岁来欧洲半年长高了5厘米",
-      "onboard_time": 1719617294,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -619,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49325,
+      "num": 1318520,
+      "word": "中国空间站舷窗大片上新",
+      "onboard_time": 1719581184,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48381,
       "num": 48381,
       "word": "唐嫣陪跑",
       "onboard_time": 1719584663,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41980,
-      "num": 1318520,
-      "word": "中国空间站舷窗大片上新",
-      "onboard_time": 1719581184,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38655,
