@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719682465592,
+  "endTime": 1719685434899,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -46531,6 +46531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182847,
+      "num": 182847,
+      "word": "瑞士vs意大利",
+      "onboard_time": 1719672199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182786,
       "num": 182786,
       "word": "谢娜被张杰在演唱会上表白的反应",
@@ -65129,14 +65137,6 @@
       "onboard_time": 1718616318,
       "rank": 41,
       "category": "读书作家,互联网"
-    },
-    {
-      "raw_hot": 124888,
-      "num": 139663,
-      "word": "瑞士vs意大利",
-      "onboard_time": 1719672199,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 124886,
