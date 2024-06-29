@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719625225058,
+  "endTime": 1719628447743,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1379,6 +1379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1744460,
+      "num": 1744460,
+      "word": "白鹿范丞丞",
+      "onboard_time": 1719622398,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1733396,
       "num": 1733396,
       "word": "昨夜金价大跌",
@@ -2352,14 +2360,6 @@
       "word": "蒋敦豪 豪士",
       "onboard_time": 1719454937,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1458314,
-      "num": 1458314,
-      "word": "白鹿范丞丞",
-      "onboard_time": 1719622398,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -6379,6 +6379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 900110,
+      "num": 900110,
+      "word": "救人的怀孕女子原来是一名军医",
+      "onboard_time": 1719624857,
+      "rank": 11,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 900069,
       "num": 900069,
       "word": "北京下雨",
@@ -7969,6 +7977,14 @@
       "onboard_time": 1719547638,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 772407,
+      "num": 772407,
+      "word": "周迅回应如懿传争议",
+      "onboard_time": 1719626717,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 771190,
@@ -13251,6 +13267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 566181,
+      "num": 566181,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -16713,6 +16737,14 @@
       "onboard_time": 1718106258,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478191,
+      "num": 478191,
+      "word": "谁懂张凌赫弯下腰来的那一刻",
+      "onboard_time": 1719624199,
+      "rank": 22,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 478074,
@@ -21860,7 +21892,7 @@
     },
     {
       "raw_hot": 380382,
-      "num": 312115,
+      "num": 360849,
       "word": "虞书欣恭喜姜妍",
       "onboard_time": 1719622757,
       "rank": 15,
@@ -27091,14 +27123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 303833,
-      "num": 177958,
-      "word": "谁懂张凌赫弯下腰来的那一刻",
-      "onboard_time": 1719624199,
-      "rank": 22,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 303749,
       "num": 200007,
       "word": "浙江两驴友被溪流冲走当地商户发声",
@@ -31131,6 +31155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261122,
+      "num": 147372,
+      "word": "王韵壹去世",
+      "onboard_time": 1719628097,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260982,
       "num": 260982,
       "word": "萧蘅薛芳菲亲上了",
@@ -31753,6 +31785,14 @@
       "onboard_time": 1719067760,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253405,
+      "num": 253405,
+      "word": "东方甄选主播回应贵州行用词争议",
+      "onboard_time": 1719624257,
+      "rank": 16,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 253384,
@@ -33713,14 +33753,6 @@
       "onboard_time": 1718853318,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235513,
-      "num": 235513,
-      "word": "东方甄选主播回应贵州行用词争议",
-      "onboard_time": 1719624257,
-      "rank": 16,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 235502,
@@ -39019,6 +39051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204987,
+      "num": 176788,
+      "word": "凡希亚在中国city不city",
+      "onboard_time": 1719622817,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204978,
       "num": 204978,
       "word": "王星越口罩里敷着面膜",
@@ -40409,14 +40449,6 @@
       "onboard_time": 1718162178,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200215,
-      "num": 176788,
-      "word": "凡希亚在中国city不city",
-      "onboard_time": 1719622817,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 200187,
@@ -47659,6 +47691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174227,
+      "num": 137841,
+      "word": "这种饮料既伤肝又有致癌风险",
+      "onboard_time": 1719627677,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174217,
       "num": 174217,
       "word": "王嘉尔 没有感情的合照机器",
@@ -48313,6 +48353,14 @@
       "onboard_time": 1718493073,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171553,
+      "num": 171553,
+      "word": "iPhone五月在华出货量增40%",
+      "onboard_time": 1719627258,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 171517,
@@ -54499,6 +54547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151678,
+      "num": 134541,
+      "word": "刘亦菲特开心有人说剧抛脸",
+      "onboard_time": 1719625817,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151670,
       "num": 129576,
       "word": "月红篇尾生这一生如履大饼",
@@ -60409,6 +60465,14 @@
       "onboard_time": 1718673258,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "母校专门为我开了个专业是什么体验",
+      "onboard_time": 1719625038,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132972,
@@ -69003,14 +69067,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 106786,
-      "num": 267590,
-      "word": "救人的怀孕女子原来是一名军医",
-      "onboard_time": 1719624857,
-      "rank": 11,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "何运晨做牛马的一天",
@@ -69139,6 +69195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 106304,
+      "num": 106304,
+      "word": "跟着蜡笔小新去旅游",
+      "onboard_time": 1719628037,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106298,
       "num": 106298,
       "word": "檀健次米兰时装周出发机场照",
@@ -69233,14 +69297,6 @@
       "onboard_time": 1717556417,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105994,
-      "num": 105994,
-      "word": "母校专门为我开了个专业是什么体验",
-      "onboard_time": 1719625038,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105990,
@@ -70625,6 +70681,14 @@
       "onboard_time": 1718217312,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99965,
+      "num": 99965,
+      "word": "巴拉圭vs巴西",
+      "onboard_time": 1719626598,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 99962,
@@ -78145,6 +78209,14 @@
       "onboard_time": 1719206718,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47363,
+      "num": 479070,
+      "word": "高考生勇闯火场先后抱出2名老人",
+      "onboard_time": 1719626777,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 47330,
