@@ -1,0 +1,410 @@
+{
+  "runTime": 1719638386289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449293,
+        "num": 1449293,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1013045,
+        "num": 1013045,
+        "word": "王韵壹去世",
+        "onboard_time": 1719628097,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61500,
+        "num": 800700,
+        "word": "2024中国AI盛典",
+        "onboard_time": 1719632418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793135,
+        "num": 793135,
+        "word": "白鹿范丞丞",
+        "onboard_time": 1719622398,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587051,
+        "num": 587051,
+        "word": "水断食在韩国流行",
+        "onboard_time": 1719633377,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1083957,
+        "num": 581869,
+        "word": "因为微信照片发现的出轨行为",
+        "onboard_time": 1719630557,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574952,
+        "num": 574952,
+        "word": "玖月晞 抄袭",
+        "onboard_time": 1719625338,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 426841,
+        "num": 560801,
+        "word": "救人的怀孕女子原来是一名军医",
+        "onboard_time": 1719624857,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 555489,
+        "num": 555489,
+        "word": "凡希亚的提词器",
+        "onboard_time": 1719634458,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70813,
+        "num": 485349,
+        "word": "超17%老师的心理问题出在哪儿",
+        "onboard_time": 1719637218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203655,
+        "num": 481788,
+        "word": "欧阳妮妮被求婚",
+        "onboard_time": 1719629898,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456859,
+        "num": 456859,
+        "word": "谁家大小姐一出场就跑酷啊",
+        "onboard_time": 1719633498,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377545,
+        "num": 377545,
+        "word": "耳帝说黄宣第八实属冤案",
+        "onboard_time": 1719636258,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344821,
+        "num": 344821,
+        "word": "那英 带状疱疹",
+        "onboard_time": 1719583407,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342594,
+        "num": 342594,
+        "word": "周迅 白玉兰还是很想得的",
+        "onboard_time": 1719632897,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279380,
+        "num": 279380,
+        "word": "三支一扶",
+        "onboard_time": 1719633138,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234826,
+        "num": 234826,
+        "word": "贵州文旅删除所有东方甄选相关视频",
+        "onboard_time": 1719587061,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 226520,
+        "num": 226520,
+        "word": "美国防部披露大量供乌物资失踪",
+        "onboard_time": 1719632178,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 226247,
+        "word": "同事离职后留下了一封诀别信",
+        "onboard_time": 1719629356,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138848,
+        "num": 224735,
+        "word": "妻子离世12年老人守着大树给亡妻写信",
+        "onboard_time": 1719635898,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449303,
+        "num": 223226,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304862,
+        "num": 222131,
+        "word": "十个勤天演唱会疑似抄袭鹿晗",
+        "onboard_time": 1719637938,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289688,
+        "num": 221195,
+        "word": "张书豪大欧阳妮妮8岁",
+        "onboard_time": 1719633138,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249552,
+        "num": 220341,
+        "word": "谁懂张凌赫弯下腰来的那一刻",
+        "onboard_time": 1719624199,
+        "rank": 23,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 219542,
+        "num": 219542,
+        "word": "易烊千玺阿那亚库存",
+        "onboard_time": 1719635536,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216313,
+        "num": 216313,
+        "word": "范丞丞抽白鹿凳子",
+        "onboard_time": 1719637458,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208631,
+        "num": 208631,
+        "word": "林一沈月扯领带吻戏",
+        "onboard_time": 1719637038,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198784,
+        "num": 198784,
+        "word": "周迅回应如懿传争议",
+        "onboard_time": 1719626717,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 190725,
+        "word": "真的好讨厌一杯奶茶钱的说法",
+        "onboard_time": 1719619516,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 188394,
+        "word": "这个11岁的小姑娘要去参加巴黎奥运了",
+        "onboard_time": 1719631758,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 187177,
+        "word": "您的骑手正在哄娃",
+        "onboard_time": 1719630618,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198733,
+        "num": 187163,
+        "word": "歌手 RNB",
+        "onboard_time": 1719635840,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186962,
+        "num": 186962,
+        "word": "邓紫棋 来自天堂的魔鬼",
+        "onboard_time": 1719619816,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185080,
+        "num": 185080,
+        "word": "这种饮料既伤肝又有致癌风险",
+        "onboard_time": 1719627677,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183066,
+        "num": 183066,
+        "word": "耳帝说歌手第八期本季最佳",
+        "onboard_time": 1719637399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180066,
+        "num": 180066,
+        "word": "种地吧",
+        "onboard_time": 1719636438,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172907,
+        "num": 172907,
+        "word": "闫妮站姿好像在等公交",
+        "onboard_time": 1719630317,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 166458,
+        "word": "把猫都舔成美式前刺了",
+        "onboard_time": 1719635718,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 164951,
+        "word": "饿了么寻1万名球迷免费吃汉堡",
+        "onboard_time": 1719637999,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133724,
+        "num": 164586,
+        "word": "董明珠打假小米空调第一",
+        "onboard_time": 1719622697,
+        "rank": 39,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 164402,
+        "num": 164402,
+        "word": "虞书欣恭喜姜妍",
+        "onboard_time": 1719622757,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162182,
+        "num": 162182,
+        "word": "松死感",
+        "onboard_time": 1719633556,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149943,
+        "num": 149943,
+        "word": "TF三代登陆日主题曲发布",
+        "onboard_time": 1719637518,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 146577,
+        "word": "辛芷蕾新剧空降",
+        "onboard_time": 1719637278,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132446,
+        "num": 132446,
+        "word": "原来零食袋是这样拆的",
+        "onboard_time": 1719633618,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131897,
+        "num": 131897,
+        "word": "85花 飞升失败",
+        "onboard_time": 1719587422,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128412,
+        "num": 128412,
+        "word": "那些赴韩做临时工的朝鲜族人",
+        "onboard_time": 1719634519,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126937,
+        "num": 126937,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1719633138,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120663,
+        "num": 120663,
+        "word": "胡锡进谈为何新闻传播学遇冷",
+        "onboard_time": 1719636979,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 119187,
+        "num": 119187,
+        "word": "建议相亲的人都去吃火锅",
+        "onboard_time": 1719620056,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全面深改习近平用过这些比喻#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719635901100,
+  "endTime": 1719638386289,
   "band_list": [
     {
       "raw_hot": 1958127,
-      "num": 419678,
+      "num": 481788,
       "word": "欧阳妮妮被求婚",
       "onboard_time": 1719629898,
       "rank": 10,
@@ -163,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587051,
+      "num": 587051,
+      "word": "水断食在韩国流行",
+      "onboard_time": 1719633377,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 565455,
       "num": 339789,
       "word": "年入14亿夫妇给年轻人的建议",
       "onboard_time": 1719620176,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 555489,
+      "num": 555489,
+      "word": "凡希亚的提词器",
+      "onboard_time": 1719634458,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 553450,
@@ -185,14 +201,6 @@
       "onboard_time": 1719587242,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536118,
-      "num": 404120,
-      "word": "凡希亚的提词器",
-      "onboard_time": 1719634458,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 526521,
@@ -235,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445483,
-      "num": 445483,
+      "raw_hot": 456859,
+      "num": 456859,
       "word": "谁家大小姐一出场就跑酷啊",
       "onboard_time": 1719633498,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449303,
+      "num": 223226,
+      "word": "已婚男老师被曝邀请女生去私人影院",
+      "onboard_time": 1719636497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437248,
@@ -307,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403801,
-      "num": 403801,
-      "word": "水断食在韩国流行",
-      "onboard_time": 1719633377,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 401540,
       "num": 474753,
       "word": "女子23万买石头相信外国王子会收购",
@@ -344,6 +352,14 @@
       "word": "虞书欣恭喜姜妍",
       "onboard_time": 1719622757,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377545,
+      "num": 377545,
+      "word": "耳帝说黄宣第八实属冤案",
+      "onboard_time": 1719636258,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -411,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 304862,
+      "num": 222131,
+      "word": "十个勤天演唱会疑似抄袭鹿晗",
+      "onboard_time": 1719637938,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303382,
       "num": 303382,
       "word": "东方甄选主播回应公开吐槽公司",
@@ -425,6 +449,14 @@
       "onboard_time": 1719585862,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289688,
+      "num": 258334,
+      "word": "张书豪大欧阳妮妮8岁",
+      "onboard_time": 1719633138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 288804,
@@ -467,14 +499,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 258334,
-      "num": 258334,
-      "word": "张书豪大欧阳妮妮8岁",
-      "onboard_time": 1719633138,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254987,
       "num": 254987,
       "word": "基建狂魔又要上新了",
@@ -515,6 +539,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 226520,
+      "num": 226520,
+      "word": "美国防部披露大量供乌物资失踪",
+      "onboard_time": 1719632178,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 223283,
       "num": 154250,
       "word": "同居后分手男方要女方退还全部彩礼",
@@ -531,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219542,
+      "num": 219542,
+      "word": "易烊千玺阿那亚库存",
+      "onboard_time": 1719635536,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217706,
       "num": 217706,
       "word": "肖战曾黎介绍同一件国宝",
       "onboard_time": 1719631758,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216313,
+      "num": 216313,
+      "word": "范丞丞抽白鹿凳子",
+      "onboard_time": 1719637458,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215609,
@@ -563,11 +611,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208631,
+      "num": 208631,
+      "word": "林一沈月扯领带吻戏",
+      "onboard_time": 1719637038,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204987,
       "num": 176788,
       "word": "凡希亚在中国city不city",
       "onboard_time": 1719622817,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198733,
+      "num": 187163,
+      "word": "歌手 RNB",
+      "onboard_time": 1719635840,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -587,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191374,
-      "num": 191374,
-      "word": "易烊千玺阿那亚库存",
-      "onboard_time": 1719635536,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188084,
       "num": 175803,
       "word": "姜妍一个礼拜爱上虞书欣",
@@ -611,12 +667,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 182641,
-      "num": 221858,
-      "word": "美国防部披露大量供乌物资失踪",
-      "onboard_time": 1719632178,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 183066,
+      "num": 183066,
+      "word": "耳帝说歌手第八期本季最佳",
+      "onboard_time": 1719637399,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180066,
+      "num": 180066,
+      "word": "种地吧",
+      "onboard_time": 1719636438,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 177359,
@@ -651,6 +715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172907,
+      "num": 172907,
+      "word": "闫妮站姿好像在等公交",
+      "onboard_time": 1719630317,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170758,
       "num": 168628,
       "word": "王鹤棣工作室认不出王鹤棣",
@@ -659,20 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169484,
-      "num": 169484,
-      "word": "闫妮站姿好像在等公交",
-      "onboard_time": 1719630317,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164572,
       "num": 164572,
       "word": "一个久坐的屁股有多丑",
       "onboard_time": 1719581425,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162182,
+      "num": 162182,
+      "word": "松死感",
+      "onboard_time": 1719633556,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 160194,
@@ -723,20 +795,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151961,
-      "num": 151961,
-      "word": "松死感",
-      "onboard_time": 1719633556,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151678,
       "num": 134541,
       "word": "刘亦菲特开心有人说剧抛脸",
       "onboard_time": 1719625817,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149943,
+      "num": 149943,
+      "word": "TF三代登陆日主题曲发布",
+      "onboard_time": 1719637518,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 149715,
+      "num": 166458,
+      "word": "把猫都舔成美式前刺了",
+      "onboard_time": 1719635718,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 148077,
@@ -761,6 +841,14 @@
       "onboard_time": 1719618256,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146577,
+      "num": 146577,
+      "word": "辛芷蕾新剧空降",
+      "onboard_time": 1719637278,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146489,
@@ -803,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138848,
+      "num": 224735,
+      "word": "妻子离世12年老人守着大树给亡妻写信",
+      "onboard_time": 1719635898,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135527,
       "num": 116394,
       "word": "周迅口碑",
@@ -841,6 +937,14 @@
       "onboard_time": 1719635536,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128412,
+      "num": 406105,
+      "word": "那些赴韩做临时工的朝鲜族人",
+      "onboard_time": 1719634519,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128386,
@@ -907,28 +1011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120663,
+      "num": 120663,
+      "word": "胡锡进谈为何新闻传播学遇冷",
+      "onboard_time": 1719636979,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 118664,
       "num": 147154,
       "word": "你为什么会爱上同一类人",
       "onboard_time": 1719585862,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118504,
-      "num": 118504,
-      "word": "歌手 RNB",
-      "onboard_time": 1719635840,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117794,
-      "num": 117794,
-      "word": "把猫都舔成美式前刺了",
-      "onboard_time": 1719635718,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 117695,
@@ -1163,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70813,
+      "num": 485349,
+      "word": "超17%老师的心理问题出在哪儿",
+      "onboard_time": 1719637218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69306,
       "num": 143526,
       "word": "infp每天典型的4种状态",
@@ -1175,14 +1279,6 @@
       "num": 287528,
       "word": "男子钓到1.45米水中老虎竟然放走",
       "onboard_time": 1719590721,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65528,
-      "num": 406105,
-      "word": "那些赴韩做临时工的朝鲜族人",
-      "onboard_time": 1719634519,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1289,6 +1385,14 @@
       "onboard_time": 1719616695,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25993,
+      "num": 164951,
+      "word": "饿了么寻1万名球迷免费吃汉堡",
+      "onboard_time": 1719637999,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 25399,
