@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719664482258,
+  "endTime": 1719665369978,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -915,6 +915,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1178813,
+      "num": 1178813,
+      "word": "范丞丞工作室发布声明",
+      "onboard_time": 1719661877,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175294,
       "num": 878292,
       "word": "林一鼻子",
@@ -969,14 +977,6 @@
       "onboard_time": 1719063317,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1152358,
-      "num": 1152358,
-      "word": "范丞丞工作室发布声明",
-      "onboard_time": 1719661877,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1145416,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1719379398,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110762,
+      "num": 484322,
+      "word": "白鹿对接发声明",
+      "onboard_time": 1719663678,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1104974,
@@ -1721,6 +1729,14 @@
       "onboard_time": 1719309497,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 853263,
+      "num": 275191,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 13,
+      "category": "读书作家"
     },
     {
       "raw_hot": 853106,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1719549739,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660050,
-      "num": 385476,
-      "word": "白鹿对接发声明",
-      "onboard_time": 1719663678,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 658279,
@@ -4011,12 +4019,12 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 488381,
-      "num": 204191,
-      "word": "海棠",
-      "onboard_time": 1719664279,
-      "rank": 13,
-      "category": "读书作家"
+      "raw_hot": 489808,
+      "num": 260044,
+      "word": "田馥甄音乐节",
+      "onboard_time": 1719663916,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 488374,
@@ -5340,7 +5348,7 @@
     },
     {
       "raw_hot": 393023,
-      "num": 197429,
+      "num": 222385,
       "word": "苏新皓初C",
       "onboard_time": 1719662536,
       "rank": 15,
@@ -6707,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301847,
+      "num": 199590,
+      "word": "你好星期六",
+      "onboard_time": 1719664398,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301479,
       "num": 262843,
       "word": "傅家明也住进了方协文心里",
@@ -7515,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264208,
+      "num": 199576,
+      "word": "唐嫣每次一出来罗晋就被夸",
+      "onboard_time": 1719665239,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263975,
       "num": 263975,
       "word": "苹果称iPhone保值率超安卓至少40%",
@@ -7673,6 +7697,14 @@
       "onboard_time": 1719471738,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 253120,
+      "num": 199569,
+      "word": "张峻豪说不敢看主榜热搜",
+      "onboard_time": 1719664457,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252816,
@@ -8019,6 +8051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237790,
+      "num": 199564,
+      "word": "580元演唱会门票被换到380元区域",
+      "onboard_time": 1719665058,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237750,
       "num": 199536,
       "word": "香缇莫穿新中式汉服",
@@ -8036,7 +8076,7 @@
     },
     {
       "raw_hot": 236966,
-      "num": 183422,
+      "num": 194574,
       "word": "白月光还是后来者居上",
       "onboard_time": 1719662598,
       "rank": 23,
@@ -8747,14 +8787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 219299,
-      "num": 182338,
-      "word": "田馥甄音乐节",
-      "onboard_time": 1719663916,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 219224,
       "num": 196438,
       "word": "菲律宾希望与中国就南海问题进行对话",
@@ -9073,6 +9105,14 @@
       "onboard_time": 1719391758,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211865,
+      "num": 199559,
+      "word": "度华年",
+      "onboard_time": 1719224300,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 211849,
@@ -9763,6 +9803,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 200746,
+      "num": 200746,
+      "word": "马来西亚翻覆巴士中有中国公民遇难",
+      "onboard_time": 1719661457,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200705,
       "num": 376961,
       "word": "奔跑吧 还不更新",
@@ -9873,14 +9921,6 @@
       "onboard_time": 1719306499,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199254,
-      "num": 198973,
-      "word": "度华年",
-      "onboard_time": 1719224300,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 199191,
@@ -10347,6 +10387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192250,
+      "num": 199554,
+      "word": "肝脏损伤的4个信号",
+      "onboard_time": 1719662358,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191953,
       "num": 191953,
       "word": "猎罪图鉴2小分队全员回归",
@@ -10588,7 +10636,7 @@
     },
     {
       "raw_hot": 188569,
-      "num": 181682,
+      "num": 184805,
       "word": "16岁张天天近照",
       "onboard_time": 1719662958,
       "rank": 27,
@@ -10601,6 +10649,14 @@
       "onboard_time": 1719198739,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188139,
+      "num": 188139,
+      "word": "KARINA solo舞台",
+      "onboard_time": 1719664158,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 188084,
@@ -10617,6 +10673,14 @@
       "onboard_time": 1719454457,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188065,
+      "num": 188065,
+      "word": "我们三代有自己的董岩磊",
+      "onboard_time": 1719664398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 188016,
@@ -10667,14 +10731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187369,
-      "num": 180090,
-      "word": "张峻豪说不敢看主榜热搜",
-      "onboard_time": 1719664457,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187184,
       "num": 170251,
       "word": "俩年轻人演出了我爸妈吵架",
@@ -10713,14 +10769,6 @@
       "onboard_time": 1719197597,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186625,
-      "num": 181098,
-      "word": "肝脏损伤的4个信号",
-      "onboard_time": 1719662358,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 186560,
@@ -11337,6 +11385,14 @@
       "onboard_time": 1719273137,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177042,
+      "num": 114397,
+      "word": "鞠婧祎浴室唱你在不在",
+      "onboard_time": 1719665239,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 177021,
@@ -12001,6 +12057,14 @@
       "onboard_time": 1719143057,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167528,
+      "num": 199609,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 167508,
@@ -13859,14 +13923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145774,
-      "num": 185528,
-      "word": "马来西亚翻覆巴士中有中国公民遇难",
-      "onboard_time": 1719661457,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145751,
       "num": 145751,
       "word": "女孩怕伤狗狗自尊选择了沉默",
@@ -14107,14 +14163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142290,
-      "num": 142290,
-      "word": "KARINA solo舞台",
-      "onboard_time": 1719664158,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142046,
       "num": 142046,
       "word": "iOS18能下载更大应用了",
@@ -14329,14 +14377,6 @@
       "onboard_time": 1719649697,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139484,
-      "num": 139484,
-      "word": "我们三代有自己的董岩磊",
-      "onboard_time": 1719664398,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 139110,
@@ -17587,14 +17627,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 97689,
-      "num": 140482,
-      "word": "喝绿豆汤最好一天别超过500ml",
-      "onboard_time": 1719663738,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 97641,
       "num": 499455,
       "word": "男生查完分烧烤店继续淡定穿串儿",
@@ -17787,6 +17819,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93648,
+      "num": 139322,
+      "word": "iG对战WBG",
+      "onboard_time": 1719664037,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93616,
+      "num": 115021,
+      "word": "AG对战eStar",
+      "onboard_time": 1719665058,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93053,
       "num": 93053,
       "word": "eStar对战TKL",
@@ -17913,14 +17961,6 @@
       "onboard_time": 1719444135,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89451,
-      "num": 139322,
-      "word": "iG对战WBG",
-      "onboard_time": 1719664037,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 89171,
@@ -18452,7 +18492,7 @@
     },
     {
       "raw_hot": 68457,
-      "num": 217288,
+      "num": 293210,
       "word": "广州一15岁白鲸顺利分娩",
       "onboard_time": 1719661338,
       "rank": 10,
