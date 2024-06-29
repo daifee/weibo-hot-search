@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719653667523,
+  "endTime": 1719656338923,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1719405497,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 759482,
+      "num": 759482,
+      "word": "Angelababy涩谷辣妹",
+      "onboard_time": 1719652458,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 758865,
@@ -4243,6 +4251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457548,
+      "num": 298145,
+      "word": "特朗普称美国不应与俄中朝成为敌人",
+      "onboard_time": 1719655097,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456859,
       "num": 456859,
       "word": "谁家大小姐一出场就跑酷啊",
@@ -4843,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417446,
+      "num": 342206,
+      "word": "吴谨言白鹿曾为王星越直播拉流量",
+      "onboard_time": 1719652998,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417409,
       "num": 417409,
       "word": "Manner去年仅1225人缴纳五险",
@@ -5291,14 +5315,6 @@
       "category": "科学科普,运动健身"
     },
     {
-      "raw_hot": 385343,
-      "num": 294240,
-      "word": "Angelababy涩谷辣妹",
-      "onboard_time": 1719652458,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 383862,
       "num": 383862,
       "word": "吴谨言王星越P图告别墨雨云间",
@@ -5473,6 +5489,14 @@
       "onboard_time": 1719391580,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374347,
+      "num": 374347,
+      "word": "哥大华裔副校长在美街头遭殴打",
+      "onboard_time": 1719651798,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372017,
@@ -6779,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293252,
+      "num": 293251,
+      "word": "涵艺爆料Ming不打了",
+      "onboard_time": 1719652338,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
@@ -6801,14 +6833,6 @@
       "onboard_time": 1719323540,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 290759,
-      "num": 267821,
-      "word": "涵艺爆料Ming不打了",
-      "onboard_time": 1719652338,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 289688,
@@ -7249,14 +7273,6 @@
       "onboard_time": 1719647537,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268355,
-      "num": 189525,
-      "word": "吴谨言白鹿曾为王星越直播拉流量",
-      "onboard_time": 1719652998,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 268022,
@@ -8355,6 +8371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225525,
+      "num": 177352,
+      "word": "吴谨言破万弹古琴",
+      "onboard_time": 1719654736,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225521,
       "num": 293268,
       "word": "要说鉴茶还得看00后",
@@ -8745,6 +8769,14 @@
       "onboard_time": 1719628998,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215488,
+      "num": 175400,
+      "word": "aespa演唱会大屏颜值",
+      "onboard_time": 1719655037,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 215247,
@@ -10043,14 +10075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194611,
-      "num": 194611,
-      "word": "哥大华裔副校长在美街头遭殴打",
-      "onboard_time": 1719651798,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194602,
       "num": 194602,
       "word": "中国对新西兰澳大利亚波兰试行免签",
@@ -10209,6 +10233,14 @@
       "onboard_time": 1719295878,
       "rank": 33,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 191687,
+      "num": 172278,
+      "word": "登陆计划",
+      "onboard_time": 1719655337,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 191548,
@@ -10475,6 +10507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187184,
+      "num": 170251,
+      "word": "俩年轻人演出了我爸妈吵架",
+      "onboard_time": 1719655397,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187166,
       "num": 187166,
       "word": "TF三代出道人数将在出道演唱会宣布",
@@ -10657,6 +10697,14 @@
       "onboard_time": 1719500060,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185066,
+      "num": 777466,
+      "word": "嫦娥六号为啥没有多带一些月壤回来",
+      "onboard_time": 1719653238,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 185001,
@@ -11529,6 +11577,14 @@
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169692,
+      "num": 169692,
+      "word": "没有指纹的泥人真的很酷",
+      "onboard_time": 1719652098,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 169576,
@@ -12907,6 +12963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152010,
+      "num": 152010,
+      "word": "警方通报男子街头踹踢5岁男童",
+      "onboard_time": 1719652757,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151931,
       "num": 207073,
       "word": "戒不了毒是意志力不够强吗",
@@ -13009,6 +13073,14 @@
       "onboard_time": 1719211819,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150703,
+      "num": 150703,
+      "word": "登陆日开播",
+      "onboard_time": 1719656178,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 150687,
@@ -13299,14 +13371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147654,
-      "num": 147654,
-      "word": "没有指纹的泥人真的很酷",
-      "onboard_time": 1719652098,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147489,
       "num": 147489,
       "word": "韩廷第一章回国",
@@ -13587,6 +13651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144281,
+      "num": 155387,
+      "word": "60岁母亲花3万买长寿编码",
+      "onboard_time": 1719653417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144268,
       "num": 233443,
       "word": "母校专门为我开了个专业是什么体验",
@@ -13761,14 +13833,6 @@
       "onboard_time": 1719278960,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 141997,
-      "num": 141997,
-      "word": "警方通报男子街头踹踢5岁男童",
-      "onboard_time": 1719652757,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141826,
@@ -14667,6 +14731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130917,
+      "num": 130917,
+      "word": "每一个内耗的人都应该做减法",
+      "onboard_time": 1719655278,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "高叶给那英安利王鹤棣",
@@ -15025,6 +15097,14 @@
       "onboard_time": 1719362299,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126593,
+      "num": 126593,
+      "word": "面筋哥家属回应",
+      "onboard_time": 1719653837,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126390,
@@ -15859,6 +15939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116055,
+      "num": 116055,
+      "word": "丁程鑫hi6限时西装皮肤",
+      "onboard_time": 1719655697,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116050,
       "num": 109768,
       "word": "男生查分被屏蔽淡定向家人报喜",
@@ -15945,6 +16033,14 @@
       "onboard_time": 1719130336,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114861,
+      "num": 114861,
+      "word": "杨紫落地北京",
+      "onboard_time": 1719654198,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114843,
@@ -16499,6 +16595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108381,
+      "num": 108381,
+      "word": "KT战胜T1",
+      "onboard_time": 1719654018,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108371,
       "num": 108371,
       "word": "梁永棋回应像梁朝伟",
@@ -16631,6 +16735,14 @@
       "num": 346844,
       "word": "女儿回应53岁妈妈复旦硕士毕业",
       "onboard_time": 1719622996,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105623,
+      "num": 315788,
+      "word": "女孩高考后每天打工12小时自筹学费",
+      "onboard_time": 1719653297,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -17243,6 +17355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94363,
+      "num": 96856,
+      "word": "寂静之地",
+      "onboard_time": 1719656297,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -17593,14 +17713,6 @@
       "onboard_time": 1719443716,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82150,
-      "num": 155387,
-      "word": "60岁母亲花3万买长寿编码",
-      "onboard_time": 1719653417,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80697,
@@ -18667,14 +18779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46646,
-      "num": 777466,
-      "word": "嫦娥六号为啥没有多带一些月壤回来",
-      "onboard_time": 1719653238,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46271,
       "num": 287419,
       "word": "12岁女孩剪掉10年长发捐白血病患儿",
@@ -18913,14 +19017,6 @@
       "onboard_time": 1719477618,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 39916,
-      "num": 315788,
-      "word": "女孩高考后每天打工12小时自筹学费",
-      "onboard_time": 1719653297,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39851,
@@ -19347,6 +19443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29152,
+      "num": 304346,
+      "word": "我哥是消防员如果他在也会冲上去",
+      "onboard_time": 1719654918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28871,
       "num": 28871,
       "word": "周笔畅唱跳电影组曲",
@@ -19681,6 +19785,14 @@
       "onboard_time": 1719138977,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20372,
+      "num": 295573,
+      "word": "一生一定要跑一次的比赛",
+      "onboard_time": 1719655217,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 20343,

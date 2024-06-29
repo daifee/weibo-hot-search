@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719653667523,
+  "endTime": 1719656338923,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -8337,6 +8337,14 @@
       "onboard_time": 1717735283,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 759482,
+      "num": 759482,
+      "word": "Angelababy涩谷辣妹",
+      "onboard_time": 1719652458,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 759481,
@@ -17843,6 +17851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457548,
+      "num": 298145,
+      "word": "特朗普称美国不应与俄中朝成为敌人",
+      "onboard_time": 1719655097,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 457470,
       "num": 496165,
       "word": "造谣公司用AI一天写谣言7000篇",
@@ -20115,6 +20131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417446,
+      "num": 342206,
+      "word": "吴谨言白鹿曾为王星越直播拉流量",
+      "onboard_time": 1719652998,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417409,
       "num": 417409,
       "word": "Manner去年仅1225人缴纳五险",
@@ -21875,14 +21899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 385343,
-      "num": 294240,
-      "word": "Angelababy涩谷辣妹",
-      "onboard_time": 1719652458,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 385302,
       "num": 228449,
       "word": "王大雷发声",
@@ -22513,6 +22529,14 @@
       "onboard_time": 1717678880,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 374347,
+      "num": 374347,
+      "word": "哥大华裔副校长在美街头遭殴打",
+      "onboard_time": 1719651798,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374342,
@@ -28395,6 +28419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293252,
+      "num": 293251,
+      "word": "涵艺爆料Ming不打了",
+      "onboard_time": 1719652338,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293241,
       "num": 239496,
       "word": "林更新承认方协文是PUA男",
@@ -28569,14 +28601,6 @@
       "onboard_time": 1718354059,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290759,
-      "num": 267821,
-      "word": "涵艺爆料Ming不打了",
-      "onboard_time": 1719652338,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 290741,
@@ -30809,14 +30833,6 @@
       "onboard_time": 1718110881,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268355,
-      "num": 189525,
-      "word": "吴谨言白鹿曾为王星越直播拉流量",
-      "onboard_time": 1719652998,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 268312,
@@ -35483,6 +35499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 225525,
+      "num": 177352,
+      "word": "吴谨言破万弹古琴",
+      "onboard_time": 1719654736,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225521,
       "num": 293268,
       "word": "要说鉴茶还得看00后",
@@ -37185,6 +37209,14 @@
       "onboard_time": 1717848678,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215488,
+      "num": 175400,
+      "word": "aespa演唱会大屏颜值",
+      "onboard_time": 1719655037,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 215439,
@@ -42731,14 +42763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194611,
-      "num": 194611,
-      "word": "哥大华裔副校长在美街头遭殴打",
-      "onboard_time": 1719651798,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194602,
       "num": 194602,
       "word": "中国对新西兰澳大利亚波兰试行免签",
@@ -44835,6 +44859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187184,
+      "num": 170251,
+      "word": "俩年轻人演出了我爸妈吵架",
+      "onboard_time": 1719655397,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187166,
       "num": 187166,
       "word": "TF三代出道人数将在出道演唱会宣布",
@@ -45537,6 +45569,14 @@
       "onboard_time": 1719500060,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185066,
+      "num": 777466,
+      "word": "嫦娥六号为啥没有多带一些月壤回来",
+      "onboard_time": 1719653238,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 185026,
@@ -49297,6 +49337,14 @@
       "onboard_time": 1717389140,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169692,
+      "num": 169692,
+      "word": "没有指纹的泥人真的很酷",
+      "onboard_time": 1719652098,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 169677,
@@ -54971,6 +55019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152010,
+      "num": 152010,
+      "word": "警方通报男子街头踹踢5岁男童",
+      "onboard_time": 1719652757,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "檀健次谈最爱的秀场单品",
@@ -55553,6 +55609,14 @@
       "onboard_time": 1717999217,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150703,
+      "num": 150703,
+      "word": "登陆日开播",
+      "onboard_time": 1719656178,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 150687,
@@ -56529,14 +56593,6 @@
       "onboard_time": 1719154161,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147654,
-      "num": 147654,
-      "word": "没有指纹的泥人真的很酷",
-      "onboard_time": 1719652098,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 147651,
@@ -57643,6 +57699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144281,
+      "num": 155387,
+      "word": "60岁母亲花3万买长寿编码",
+      "onboard_time": 1719653417,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144279,
       "num": 144279,
       "word": "为什么很多年轻人会吃冰上瘾",
@@ -58265,14 +58329,6 @@
       "onboard_time": 1718942479,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 141997,
-      "num": 141997,
-      "word": "警方通报男子街头踹踢5岁男童",
-      "onboard_time": 1719652757,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141897,
@@ -62019,6 +62075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130917,
+      "num": 130917,
+      "word": "每一个内耗的人都应该做减法",
+      "onboard_time": 1719655278,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130914,
       "num": 130914,
       "word": "执行法官里的啃老新境界",
@@ -63664,6 +63728,14 @@
       "word": "一批诋毁企业形象账号被处置",
       "onboard_time": 1717945819,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126593,
+      "num": 126593,
+      "word": "面筋哥家属回应",
+      "onboard_time": 1719653837,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -67171,6 +67243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116055,
+      "num": 116055,
+      "word": "丁程鑫hi6限时西装皮肤",
+      "onboard_time": 1719655697,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116051,
       "num": 116051,
       "word": "穿这种颜色衣服的人最招蚊子",
@@ -67617,6 +67697,14 @@
       "onboard_time": 1718163137,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114861,
+      "num": 114861,
+      "word": "杨紫落地北京",
+      "onboard_time": 1719654198,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114843,
@@ -69595,6 +69683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108381,
+      "num": 108381,
+      "word": "KT战胜T1",
+      "onboard_time": 1719654018,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108372,
       "num": 108372,
       "word": "退钱哥见证前中超球员在欧洲杯进球",
@@ -70329,6 +70425,14 @@
       "onboard_time": 1717944139,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105623,
+      "num": 315788,
+      "word": "女孩高考后每天打工12小时自筹学费",
+      "onboard_time": 1719653297,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105619,
@@ -72739,6 +72843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94363,
+      "num": 96856,
+      "word": "寂静之地",
+      "onboard_time": 1719656297,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94272,
       "num": 94272,
       "word": "乃万 从livehouse到体育馆",
@@ -74177,14 +74289,6 @@
       "onboard_time": 1717218917,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82150,
-      "num": 155387,
-      "word": "60岁母亲花3万买长寿编码",
-      "onboard_time": 1719653417,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82051,
@@ -79315,14 +79419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46646,
-      "num": 777466,
-      "word": "嫦娥六号为啥没有多带一些月壤回来",
-      "onboard_time": 1719653238,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46615,
       "num": 46615,
       "word": "吴谨言回复罗伯特",
@@ -80417,14 +80513,6 @@
       "onboard_time": 1718977642,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39916,
-      "num": 315788,
-      "word": "女孩高考后每天打工12小时自筹学费",
-      "onboard_time": 1719653297,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39851,
@@ -82291,6 +82379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29152,
+      "num": 304346,
+      "word": "我哥是消防员如果他在也会冲上去",
+      "onboard_time": 1719654918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29108,
       "num": 265815,
       "word": "魏大勋毛不易郭麒麟被贴脸开大",
@@ -83673,6 +83769,14 @@
       "onboard_time": 1717183391,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20372,
+      "num": 295573,
+      "word": "一生一定要跑一次的比赛",
+      "onboard_time": 1719655217,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 20352,
