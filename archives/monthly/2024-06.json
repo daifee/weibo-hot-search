@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719632238619,
+  "endTime": 1719635037876,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2899,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340218,
+      "num": 1340218,
+      "word": "因为微信照片发现的出轨行为",
+      "onboard_time": 1719630557,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1337342,
       "num": 347046,
       "word": "我比张钰琪还紧张",
@@ -5057,14 +5065,6 @@
       "onboard_time": 1719281719,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1033964,
-      "num": 419415,
-      "word": "因为微信照片发现的出轨行为",
-      "onboard_time": 1719630557,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1032137,
@@ -9059,6 +9059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726216,
+      "num": 726216,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 725930,
       "num": 725930,
       "word": "云边有个小卖部 赵露思",
@@ -9793,14 +9801,6 @@
       "onboard_time": 1719550279,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 691584,
-      "num": 691584,
-      "word": "玖月晞 抄袭",
-      "onboard_time": 1719625338,
-      "rank": 5,
-      "category": "读书作家"
     },
     {
       "raw_hot": 690029,
@@ -19123,6 +19123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431449,
+      "num": 431449,
+      "word": "三支一扶",
+      "onboard_time": 1719633138,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 431442,
       "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
@@ -19241,6 +19249,14 @@
       "onboard_time": 1718088318,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429187,
+      "num": 429187,
+      "word": "BW抢票",
+      "onboard_time": 1719634758,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 429023,
@@ -20156,7 +20172,7 @@
     },
     {
       "raw_hot": 414303,
-      "num": 257853,
+      "num": 272549,
       "word": "这种饮料既伤肝又有致癌风险",
       "onboard_time": 1719627677,
       "rank": 27,
@@ -21577,6 +21593,14 @@
       "onboard_time": 1717715895,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387702,
+      "num": 387702,
+      "word": "周迅 白玉兰还是很想得的",
+      "onboard_time": 1719632897,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 387626,
@@ -25387,6 +25411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329742,
+      "num": 329742,
+      "word": "同事离职后留下了一封诀别信",
+      "onboard_time": 1719629356,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329660,
       "num": 329660,
       "word": "河北住房公积金从季取变月取",
@@ -26923,6 +26955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307248,
+      "num": 307248,
+      "word": "凡希亚的提词器",
+      "onboard_time": 1719634458,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306864,
       "num": 234907,
       "word": "第五人格心跳特辑",
@@ -27009,6 +27049,14 @@
       "onboard_time": 1719622098,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305809,
+      "num": 305809,
+      "word": "您的骑手正在哄娃",
+      "onboard_time": 1719630618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 305776,
@@ -27353,6 +27401,14 @@
       "onboard_time": 1718371763,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 301582,
+      "num": 273837,
+      "word": "谁家大小姐一出场就跑酷啊",
+      "onboard_time": 1719633498,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 301479,
@@ -29027,6 +29083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283694,
+      "num": 283694,
+      "word": "水断食在韩国流行",
+      "onboard_time": 1719633377,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283527,
       "num": 283527,
       "word": "贵州省通报女企业家讨工程款事件",
@@ -30185,14 +30249,6 @@
       "onboard_time": 1717744519,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271810,
-      "num": 271810,
-      "word": "同事离职后留下了一封诀别信",
-      "onboard_time": 1719629356,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 271602,
@@ -31401,6 +31457,14 @@
       "onboard_time": 1719450557,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258334,
+      "num": 258334,
+      "word": "张书豪大欧阳妮妮8岁",
+      "onboard_time": 1719633138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 258272,
@@ -39531,6 +39595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204012,
+      "num": 204012,
+      "word": "肖战曾黎介绍同一件国宝",
+      "onboard_time": 1719631758,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203834,
       "num": 298552,
       "word": "LNG团战",
@@ -45995,6 +46067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180940,
+      "num": 221858,
+      "word": "美国防部披露大量供乌物资失踪",
+      "onboard_time": 1719632178,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 180822,
       "num": 180822,
       "word": "父亲节祝福",
@@ -46939,6 +47019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177359,
+      "num": 177359,
+      "word": "TXT北京签售",
+      "onboard_time": 1719634158,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177317,
       "num": 177317,
       "word": "以为爸妈只给妹妹买了新玩具车",
@@ -47609,6 +47697,14 @@
       "onboard_time": 1717684279,
       "rank": 35,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 174747,
+      "num": 174747,
+      "word": "LWX爆料Doinb说Faker菜",
+      "onboard_time": 1719633197,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 174730,
@@ -51891,14 +51987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159715,
-      "num": 266159,
-      "word": "您的骑手正在哄娃",
-      "onboard_time": 1719630618,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159695,
       "num": 159695,
       "word": "东方甄选跌至10%",
@@ -52145,6 +52233,14 @@
       "onboard_time": 1717247539,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 158795,
+      "num": 158795,
+      "word": "凡希亚感谢邓紫棋",
+      "onboard_time": 1719632717,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 158788,
@@ -52489,14 +52585,6 @@
       "onboard_time": 1718413037,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157837,
-      "num": 157837,
-      "word": "肖战曾黎介绍同一件国宝",
-      "onboard_time": 1719631758,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 157835,
@@ -52857,6 +52945,14 @@
       "onboard_time": 1717671558,
       "rank": 33,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 156705,
+      "num": 156705,
+      "word": "原来零食袋是这样拆的",
+      "onboard_time": 1719633618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 156634,
@@ -54497,6 +54593,14 @@
       "onboard_time": 1718352379,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151961,
+      "num": 151961,
+      "word": "松死感",
+      "onboard_time": 1719633556,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151947,
@@ -59467,6 +59571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136478,
+      "num": 136478,
+      "word": "向佐对郭碧婷说你永远是最棒的",
+      "onboard_time": 1719633917,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136454,
       "num": 136454,
       "word": "黑神话实体收藏版售价1998元",
@@ -59905,6 +60017,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134903,
+      "num": 217707,
+      "word": "河南三支一扶",
+      "onboard_time": 1719634458,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 134876,
@@ -68915,6 +69035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107695,
+      "num": 217240,
+      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
+      "onboard_time": 1719631758,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107690,
       "num": 107690,
       "word": "小学教育和学前教育冷门吗",
@@ -69273,14 +69401,6 @@
       "onboard_time": 1718654650,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106418,
-      "num": 106418,
-      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
-      "onboard_time": 1719631758,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 106369,
@@ -73379,6 +73499,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 81537,
+      "num": 123443,
+      "word": "从业8年临床医生说寒门更适合学医",
+      "onboard_time": 1719633079,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81373,
       "num": 96349,
       "word": "一点点小程序",
@@ -73728,6 +73856,14 @@
       "word": "高考次日再接再厉",
       "onboard_time": 1717819220,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78652,
+      "num": 1227307,
+      "word": "2024中国AI盛典",
+      "onboard_time": 1719632418,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -76035,6 +76171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61139,
+      "num": 406105,
+      "word": "那些赴韩做临时工的朝鲜族人",
+      "onboard_time": 1719634519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61051,
       "num": 328443,
       "word": "高考生许愿想要薛之谦演唱会门票",
@@ -77825,14 +77969,6 @@
       "onboard_time": 1719469879,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50734,
-      "num": 158687,
-      "word": "美国防部披露大量供乌物资失踪",
-      "onboard_time": 1719632178,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 50710,

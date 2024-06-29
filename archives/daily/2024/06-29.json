@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719632238619,
+  "endTime": 1719635037876,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1340218,
+      "num": 1340218,
+      "word": "因为微信照片发现的出轨行为",
+      "onboard_time": 1719630557,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1274938,
       "num": 1274938,
       "word": "85花 飞升失败",
       "onboard_time": 1719587422,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1033964,
-      "num": 419415,
-      "word": "因为微信照片发现的出轨行为",
-      "onboard_time": 1719630557,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1017419,
@@ -107,6 +107,14 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 726216,
+      "num": 726216,
+      "word": "玖月晞 抄袭",
+      "onboard_time": 1719625338,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 720585,
       "num": 514554,
       "word": "周迅二封白玉兰视后",
@@ -129,14 +137,6 @@
       "onboard_time": 1719619516,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 691584,
-      "num": 691584,
-      "word": "玖月晞 抄袭",
-      "onboard_time": 1719625338,
-      "rank": 5,
-      "category": "读书作家"
     },
     {
       "raw_hot": 691175,
@@ -243,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431449,
+      "num": 431449,
+      "word": "三支一扶",
+      "onboard_time": 1719633138,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 429187,
+      "num": 429187,
+      "word": "BW抢票",
+      "onboard_time": 1719634758,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419561,
       "num": 562797,
       "word": "双胞胎体重相差150斤同框反差太大",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 414303,
-      "num": 257853,
+      "num": 272549,
       "word": "这种饮料既伤肝又有致癌风险",
       "onboard_time": 1719627677,
       "rank": 27,
@@ -289,6 +305,14 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387702,
+      "num": 387702,
+      "word": "周迅 白玉兰还是很想得的",
+      "onboard_time": 1719632897,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 380382,
@@ -331,12 +355,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329742,
+      "num": 329742,
+      "word": "同事离职后留下了一封诀别信",
+      "onboard_time": 1719629356,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 307248,
+      "num": 307248,
+      "word": "凡希亚的提词器",
+      "onboard_time": 1719634458,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305811,
       "num": 239845,
       "word": "墨雨云间番外5分钟6块钱",
       "onboard_time": 1719622098,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305809,
+      "num": 305809,
+      "word": "您的骑手正在哄娃",
+      "onboard_time": 1719630618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 305110,
@@ -355,6 +403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 301582,
+      "num": 273837,
+      "word": "谁家大小姐一出场就跑酷啊",
+      "onboard_time": 1719633498,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290305,
       "num": 184973,
       "word": "黄宣竟然最后一名",
@@ -369,6 +425,14 @@
       "onboard_time": 1719587300,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283694,
+      "num": 283694,
+      "word": "水断食在韩国流行",
+      "onboard_time": 1719633377,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 282759,
@@ -395,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271810,
-      "num": 271810,
-      "word": "同事离职后留下了一封诀别信",
-      "onboard_time": 1719629356,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264787,
       "num": 253405,
       "word": "东方甄选主播回应贵州行用词争议",
       "onboard_time": 1719624257,
       "rank": 16,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 258334,
+      "num": 258334,
+      "word": "张书豪大欧阳妮妮8岁",
+      "onboard_time": 1719633138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 254987,
@@ -433,6 +497,14 @@
       "onboard_time": 1719599292,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232016,
+      "num": 275661,
+      "word": "英雄联盟崩了",
+      "onboard_time": 1719633138,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 231358,
@@ -491,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204012,
+      "num": 204012,
+      "word": "肖战曾黎介绍同一件国宝",
+      "onboard_time": 1719631758,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192245,
       "num": 162054,
       "word": "白玉兰",
@@ -523,6 +603,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180940,
+      "num": 221858,
+      "word": "美国防部披露大量供乌物资失踪",
+      "onboard_time": 1719632178,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 177359,
+      "num": 177359,
+      "word": "TXT北京签售",
+      "onboard_time": 1719634158,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175358,
       "num": 175358,
       "word": "中国传媒大学24届毕业典礼",
@@ -537,6 +633,14 @@
       "onboard_time": 1719589219,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174747,
+      "num": 174747,
+      "word": "LWX爆料Doinb说Faker菜",
+      "onboard_time": 1719633197,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 170758,
@@ -563,12 +667,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159715,
-      "num": 266159,
-      "word": "您的骑手正在哄娃",
-      "onboard_time": 1719630618,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 158795,
+      "num": 158795,
+      "word": "凡希亚感谢邓紫棋",
+      "onboard_time": 1719632717,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 158583,
@@ -579,12 +683,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 157837,
-      "num": 157837,
-      "word": "肖战曾黎介绍同一件国宝",
-      "onboard_time": 1719631758,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 156705,
+      "num": 156705,
+      "word": "原来零食袋是这样拆的",
+      "onboard_time": 1719633618,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 155957,
@@ -601,6 +705,14 @@
       "onboard_time": 1719577277,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151961,
+      "num": 151961,
+      "word": "松死感",
+      "onboard_time": 1719633556,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151678,
@@ -675,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136478,
+      "num": 136478,
+      "word": "向佐对郭碧婷说你永远是最棒的",
+      "onboard_time": 1719633917,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135527,
       "num": 116394,
       "word": "周迅口碑",
       "onboard_time": 1719616153,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134903,
+      "num": 217707,
+      "word": "河南三支一扶",
+      "onboard_time": 1719634458,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 133407,
@@ -819,20 +947,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107695,
+      "num": 217240,
+      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
+      "onboard_time": 1719631758,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106572,
       "num": 106572,
       "word": "25岁来欧洲半年长高了5厘米",
       "onboard_time": 1719617294,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106418,
-      "num": 106418,
-      "word": "这个11岁的小姑娘要去参加巴黎奥运了",
-      "onboard_time": 1719631758,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 106304,
@@ -963,6 +1091,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 81537,
+      "num": 123443,
+      "word": "从业8年临床医生说寒门更适合学医",
+      "onboard_time": 1719633079,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78652,
+      "num": 1227307,
+      "word": "2024中国AI盛典",
+      "onboard_time": 1719632418,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73893,
       "num": 96461,
       "word": "戚薇是真正的昆卡",
@@ -1008,6 +1152,14 @@
       "word": "合肥暴雨",
       "onboard_time": 1719616815,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61139,
+      "num": 406105,
+      "word": "那些赴韩做临时工的朝鲜族人",
+      "onboard_time": 1719634519,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1065,14 +1217,6 @@
       "onboard_time": 1719606370,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50734,
-      "num": 158687,
-      "word": "美国防部披露大量供乌物资失踪",
-      "onboard_time": 1719632178,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 49325,
