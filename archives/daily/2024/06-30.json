@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719700522183,
+  "endTime": 1719703181825,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167680,
+      "num": 167680,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163211,
       "num": 163211,
       "word": "喝绿豆汤最好一天别超过500ml",
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138545,
-      "num": 163177,
-      "word": "上海仅5张桌的米其林老板娘有多结棍",
-      "onboard_time": 1719667159,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134362,
       "num": 140020,
       "word": "580元演唱会门票被换到380元区域",
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122664,
+      "num": 122664,
+      "word": "德国2比0丹麦",
+      "onboard_time": 1719702552,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119059,
       "num": 139799,
       "word": "度华年",
@@ -283,12 +291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115907,
+      "num": 115907,
+      "word": "六公主第三次播封神",
+      "onboard_time": 1719698413,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
       "onboard_time": 1719674058,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111367,
+      "num": 111367,
+      "word": "意大利欧洲杯出局",
+      "onboard_time": 1719702494,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 111021,
@@ -331,12 +355,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93136,
+      "num": 93136,
+      "word": "李一桐 蜈蚣",
+      "onboard_time": 1719702854,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90546,
       "num": 139638,
       "word": "张子墨 喜剧人",
       "onboard_time": 1719668300,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85453,
+      "num": 53307,
+      "word": "意大利0比2瑞士",
+      "onboard_time": 1719702494,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 83232,
@@ -371,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76032,
+      "num": 139370,
+      "word": "网传中学及卫生院全体职工为人守灵",
+      "onboard_time": 1719665599,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75998,
       "num": 139461,
       "word": "欧洲杯赛程",
@@ -379,11 +427,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75108,
-      "num": 139370,
-      "word": "网传中学及卫生院全体职工为人守灵",
-      "onboard_time": 1719665599,
-      "rank": 46,
+      "raw_hot": 71156,
+      "num": 52751,
+      "word": "2024上半年最后1天",
+      "onboard_time": 1719702674,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -411,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63978,
-      "num": 63978,
-      "word": "六公主第三次播封神",
-      "onboard_time": 1719698413,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 54968,
+      "num": 54968,
+      "word": "于正回应点赞",
+      "onboard_time": 1719666259,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 50714,
@@ -425,6 +473,14 @@
       "onboard_time": 1719682214,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47454,
+      "num": 49646,
+      "word": "德国晋级欧洲杯8强",
+      "onboard_time": 1719702494,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 45736,
@@ -451,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35288,
+      "num": 49642,
+      "word": "瑞士晋级欧洲杯8强",
+      "onboard_time": 1719703093,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35132,
       "num": 41381,
       "word": "张峻豪第二通过考核",
@@ -460,11 +524,19 @@
     },
     {
       "raw_hot": 33826,
-      "num": 33826,
+      "num": 49637,
       "word": "李艺飞",
       "onboard_time": 1719685572,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33015,
+      "num": 49642,
+      "word": "英国偶遇阮经天",
+      "onboard_time": 1719692111,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 31989,
@@ -473,6 +545,22 @@
       "onboard_time": 1719686892,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29878,
+      "num": 49639,
+      "word": "女学霸的学习方法",
+      "onboard_time": 1719697391,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 29393,
+      "num": 49639,
+      "word": "哈弗茨点球破门",
+      "onboard_time": 1719703033,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 28523,
@@ -491,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23482,
-      "num": 30560,
-      "word": "女学霸的学习方法",
-      "onboard_time": 1719697391,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 22171,
       "num": 22171,
       "word": "许钧报名歌手",
@@ -507,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20528,
-      "num": 30543,
-      "word": "英国偶遇阮经天",
-      "onboard_time": 1719692111,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 13858,
+      "num": 121549,
+      "word": "贵州暴雨消防出动31车152人救援",
+      "onboard_time": 1719702612,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9713,
