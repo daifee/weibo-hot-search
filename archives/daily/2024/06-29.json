@@ -1,6 +1,6 @@
 {
   "startTime": 1719591810968,
-  "endTime": 1719665369978,
+  "endTime": 1719667213857,
   "band_list": [
     {
       "raw_hot": 1958127,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182344,
+      "num": 275191,
+      "word": "海棠",
+      "onboard_time": 1719664279,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1178813,
       "num": 1178813,
       "word": "范丞丞工作室发布声明",
@@ -113,6 +121,14 @@
       "onboard_time": 1719642797,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1122228,
+      "num": 1122228,
+      "word": "金曲奖",
+      "onboard_time": 1719660256,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1110762,
@@ -179,14 +195,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 853263,
-      "num": 275191,
-      "word": "海棠",
-      "onboard_time": 1719664279,
-      "rank": 13,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 825291,
       "num": 825291,
       "word": "美军每天用十多辆卡车偷叙利亚小麦",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781805,
+      "num": 319677,
+      "word": "唐嫣每次一出来罗晋就被夸",
+      "onboard_time": 1719665239,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 772407,
       "num": 772407,
       "word": "周迅回应如懿传争议",
@@ -233,6 +249,14 @@
       "onboard_time": 1719625338,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 737566,
+      "num": 302979,
+      "word": "丁程鑫不敢向王俊凯泼水",
+      "onboard_time": 1719666378,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 723871,
@@ -283,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633936,
-      "num": 550874,
-      "word": "金曲奖",
-      "onboard_time": 1719660256,
-      "rank": 7,
-      "category": "音乐"
+      "raw_hot": 643020,
+      "num": 260044,
+      "word": "田馥甄音乐节",
+      "onboard_time": 1719663916,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 628799,
@@ -321,6 +345,22 @@
       "onboard_time": 1719633377,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 584104,
+      "num": 237770,
+      "word": "金曲奖预测",
+      "onboard_time": 1719658578,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 581644,
+      "num": 174525,
+      "word": "于正回应点赞",
+      "onboard_time": 1719666259,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 565455,
@@ -411,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 489808,
-      "num": 260044,
-      "word": "田馥甄音乐节",
-      "onboard_time": 1719663916,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 478191,
       "num": 478191,
       "word": "谁懂张凌赫弯下腰来的那一刻",
       "onboard_time": 1719624199,
       "rank": 22,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 461766,
+      "num": 199564,
+      "word": "580元演唱会门票被换到380元区域",
+      "onboard_time": 1719665058,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 460131,
@@ -481,6 +521,14 @@
       "onboard_time": 1719621376,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434172,
+      "num": 169733,
+      "word": "金曲奖直播",
+      "onboard_time": 1719660539,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 432696,
@@ -593,6 +641,14 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394124,
+      "num": 199609,
+      "word": "喝绿豆汤最好一天别超过500ml",
+      "onboard_time": 1719663738,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 393023,
@@ -843,14 +899,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 264208,
-      "num": 199576,
-      "word": "唐嫣每次一出来罗晋就被夸",
-      "onboard_time": 1719665239,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254987,
       "num": 254987,
       "word": "基建狂魔又要上新了",
@@ -881,14 +929,6 @@
       "onboard_time": 1719599292,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237790,
-      "num": 199564,
-      "word": "580元演唱会门票被换到380元区域",
-      "onboard_time": 1719665058,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 236966,
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227510,
+      "num": 159206,
+      "word": "朱志鑫 绝对C位",
+      "onboard_time": 1719666019,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226520,
       "num": 226520,
       "word": "美国防部披露大量供乌物资失踪",
@@ -985,6 +1033,14 @@
       "onboard_time": 1719635536,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219104,
+      "num": 219104,
+      "word": "我国成功发射中星3A卫星",
+      "onboard_time": 1719666318,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 217706,
@@ -1099,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204585,
+      "num": 199554,
+      "word": "肝脏损伤的4个信号",
+      "onboard_time": 1719662358,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203182,
       "num": 203182,
       "word": "崔然竣city不city啊",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1719656958,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192250,
-      "num": 199554,
-      "word": "肝脏损伤的4个信号",
-      "onboard_time": 1719662358,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192245,
@@ -1219,20 +1275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186286,
-      "num": 186286,
-      "word": "金曲奖预测",
-      "onboard_time": 1719658578,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 185066,
       "num": 777466,
       "word": "嫦娥六号为啥没有多带一些月壤回来",
       "onboard_time": 1719653238,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 184973,
+      "num": 184973,
+      "word": "林孝埈意大利骑行训练plog",
+      "onboard_time": 1719666318,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 184080,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1719647838,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182724,
+      "num": 145052,
+      "word": "重庆人肖战配音自带侠气",
+      "onboard_time": 1719665418,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 180066,
@@ -1371,28 +1435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168812,
-      "num": 168812,
-      "word": "金曲奖直播",
-      "onboard_time": 1719660539,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 167955,
       "num": 167955,
       "word": "宋丹丹一家六口阿那亚度假",
       "onboard_time": 1719661698,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167528,
-      "num": 199609,
-      "word": "喝绿豆汤最好一天别超过500ml",
-      "onboard_time": 1719663738,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 167508,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162561,
+      "num": 141668,
+      "word": "闪光的夏天",
+      "onboard_time": 1719666980,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "松死感",
@@ -1465,6 +1521,14 @@
       "onboard_time": 1719633618,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160610,
+      "num": 141084,
+      "word": "张峻豪第二通过考核",
+      "onboard_time": 1719667159,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 160480,
@@ -1603,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147262,
+      "num": 147262,
+      "word": "网传中学及卫生院全体职工为人守灵",
+      "onboard_time": 1719665599,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147094,
       "num": 147094,
       "word": "肖战工作室周末放饭",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1719639317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142366,
+      "num": 142366,
+      "word": "肝癌大户被揪出",
+      "onboard_time": 1719667159,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141578,
@@ -2211,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105898,
+      "num": 140989,
+      "word": "上海仅5张桌的米其林老板娘有多结棍",
+      "onboard_time": 1719667159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105677,
       "num": 346844,
       "word": "女儿回应53岁妈妈复旦硕士毕业",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1719639438,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98325,
+      "num": 141409,
+      "word": "wbg战胜iG",
+      "onboard_time": 1719667099,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 97733,
@@ -2425,6 +2521,14 @@
       "onboard_time": 1719590899,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 82087,
+      "num": 140490,
+      "word": "中国U18女篮晋级亚洲杯决赛",
+      "onboard_time": 1719667099,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79244,
@@ -2627,6 +2731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38264,
+      "num": 465249,
+      "word": "穿越千年看大运河秀美画卷",
+      "onboard_time": 1719659957,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37239,
       "num": 290786,
       "word": "炸串店夫妻回应婴儿饿哭骑手帮哄",
@@ -2673,6 +2785,14 @@
       "onboard_time": 1719605231,
       "rank": 45,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 16823,
+      "num": 185575,
+      "word": "孙子攒一车废品拉回家送奶奶惊喜",
+      "onboard_time": 1719666980,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16751,
@@ -2722,6 +2842,9 @@
     },
     {
       "word": "#世界完全容得下各国共同发展#"
+    },
+    {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
     }
   ]
 }

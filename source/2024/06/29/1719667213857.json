@@ -1,0 +1,410 @@
+{
+  "runTime": 1719667213857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122228,
+        "num": 1122228,
+        "word": "金曲奖",
+        "onboard_time": 1719660256,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614404,
+        "num": 614404,
+        "word": "美军每天用十多辆卡车偷叙利亚小麦",
+        "onboard_time": 1719660377,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38264,
+        "num": 465249,
+        "word": "穿越千年看大运河秀美画卷",
+        "onboard_time": 1719659957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886165,
+        "num": 437348,
+        "word": "白鹿对接发声明",
+        "onboard_time": 1719663678,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398781,
+        "num": 398781,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334427,
+        "num": 334427,
+        "word": "网红面筋哥肝癌晚期进ICU",
+        "onboard_time": 1719642498,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851769,
+        "num": 330820,
+        "word": "范丞丞工作室发布声明",
+        "onboard_time": 1719661877,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781805,
+        "num": 319677,
+        "word": "唐嫣每次一出来罗晋就被夸",
+        "onboard_time": 1719665239,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 737566,
+        "num": 302979,
+        "word": "丁程鑫不敢向王俊凯泼水",
+        "onboard_time": 1719666378,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283189,
+        "num": 283189,
+        "word": "B太上海打车接连遇司机挑客拒载",
+        "onboard_time": 1719658937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182344,
+        "num": 258423,
+        "word": "海棠",
+        "onboard_time": 1719664279,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 643020,
+        "num": 250567,
+        "word": "田馥甄音乐节",
+        "onboard_time": 1719663916,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584104,
+        "num": 237770,
+        "word": "金曲奖预测",
+        "onboard_time": 1719658578,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219104,
+        "num": 219104,
+        "word": "我国成功发射中星3A卫星",
+        "onboard_time": 1719666318,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581924,
+        "num": 204108,
+        "word": "殷世航 其实已经偷偷幸福很久了",
+        "onboard_time": 1719656897,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16823,
+        "num": 185575,
+        "word": "孙子攒一车废品拉回家送奶奶惊喜",
+        "onboard_time": 1719666980,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394124,
+        "num": 185301,
+        "word": "喝绿豆汤最好一天别超过500ml",
+        "onboard_time": 1719663738,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184973,
+        "num": 184973,
+        "word": "林孝埈意大利骑行训练plog",
+        "onboard_time": 1719666318,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179245,
+        "num": 179245,
+        "word": "马来西亚翻覆巴士中有中国公民遇难",
+        "onboard_time": 1719661457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175039,
+        "num": 175039,
+        "word": "曾强奸12岁女孩的运动员或参加奥运",
+        "onboard_time": 1719631098,
+        "rank": 19,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 581644,
+        "num": 174525,
+        "word": "于正回应点赞",
+        "onboard_time": 1719666259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461766,
+        "num": 172634,
+        "word": "580元演唱会门票被换到380元区域",
+        "onboard_time": 1719665058,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434172,
+        "num": 169733,
+        "word": "金曲奖直播",
+        "onboard_time": 1719660539,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387603,
+        "num": 168449,
+        "word": "王妈短剧大结局",
+        "onboard_time": 1719658697,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380895,
+        "num": 166871,
+        "word": "女子不忍被家暴杀夫潜逃29年落网",
+        "onboard_time": 1719657137,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342575,
+        "num": 165197,
+        "word": "Angelababy涩谷辣妹",
+        "onboard_time": 1719652458,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238585,
+        "num": 162914,
+        "word": "苏新皓初C",
+        "onboard_time": 1719662536,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70814,
+        "num": 160843,
+        "word": "吃半年就能年轻十岁我妈竟然信了",
+        "onboard_time": 1719640818,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227510,
+        "num": 159206,
+        "word": "朱志鑫 绝对C位",
+        "onboard_time": 1719666019,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 158330,
+        "word": "肝脏损伤的4个信号",
+        "onboard_time": 1719662358,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208054,
+        "num": 155787,
+        "word": "你好星期六",
+        "onboard_time": 1719664398,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204528,
+        "num": 153688,
+        "word": "度华年",
+        "onboard_time": 1719664037,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194203,
+        "num": 151888,
+        "word": "刘亦菲说一些演员爆火就飘了",
+        "onboard_time": 1719640338,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150987,
+        "num": 150987,
+        "word": "北京下雨",
+        "onboard_time": 1719660377,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147262,
+        "num": 147262,
+        "word": "网传中学及卫生院全体职工为人守灵",
+        "onboard_time": 1719665599,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182724,
+        "num": 145052,
+        "word": "重庆人肖战配音自带侠气",
+        "onboard_time": 1719665418,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178665,
+        "num": 144434,
+        "word": "偶遇杜江带女儿出游",
+        "onboard_time": 1719661397,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 142366,
+        "word": "肝癌大户被揪出",
+        "onboard_time": 1719667159,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126995,
+        "num": 142307,
+        "word": "建议坐着时双腿并拢",
+        "onboard_time": 1719647058,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111956,
+        "num": 142087,
+        "word": "一碗没有灵魂的蛋炒饭",
+        "onboard_time": 1719657137,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168643,
+        "num": 141954,
+        "word": "张峻豪说不敢看主榜热搜",
+        "onboard_time": 1719664457,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 141772,
+        "word": "16岁张天天近照",
+        "onboard_time": 1719662958,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162561,
+        "num": 141668,
+        "word": "闪光的夏天",
+        "onboard_time": 1719666980,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 141409,
+        "word": "wbg战胜iG",
+        "onboard_time": 1719667099,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156483,
+        "num": 141338,
+        "word": "宁艺卓SOLO曲",
+        "onboard_time": 1719658457,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160610,
+        "num": 141084,
+        "word": "张峻豪第二通过考核",
+        "onboard_time": 1719667159,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105898,
+        "num": 140989,
+        "word": "上海仅5张桌的米其林老板娘有多结棍",
+        "onboard_time": 1719667159,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86926,
+        "num": 140805,
+        "word": "已婚男老师被曝邀请女生去私人影院",
+        "onboard_time": 1719636497,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82211,
+        "num": 140630,
+        "word": "南京中考成绩",
+        "onboard_time": 1719661698,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82087,
+        "num": 140490,
+        "word": "中国U18女篮晋级亚洲杯决赛",
+        "onboard_time": 1719667099,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
+    }
+  }
+}
