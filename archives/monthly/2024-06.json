@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719685434899,
+  "endTime": 1719686191194,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -81977,6 +81977,14 @@
       "onboard_time": 1717589898,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37085,
+      "num": 41389,
+      "word": "许嵩演唱会青岛站",
+      "onboard_time": 1719685812,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 36978,

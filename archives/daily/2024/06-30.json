@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719685434899,
+  "endTime": 1719686191194,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -411,7 +411,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47763,
+      "raw_hot": 48831,
       "num": 90403,
       "word": "德国vs丹麦",
       "onboard_time": 1719672980,
@@ -433,6 +433,22 @@
       "onboard_time": 1719673160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37085,
+      "num": 41389,
+      "word": "许嵩演唱会青岛站",
+      "onboard_time": 1719685812,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35132,
+      "num": 41381,
+      "word": "张峻豪第二通过考核",
+      "onboard_time": 1719667159,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 28523,
