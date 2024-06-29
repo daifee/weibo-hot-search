@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719686191194,
+  "endTime": 1719688491749,
   "band_list": [
     {
       "raw_hot": 963431,
@@ -403,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55539,
+      "num": 90403,
+      "word": "德国vs丹麦",
+      "onboard_time": 1719672980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50714,
       "num": 90421,
       "word": "谢霆锋回应保险公司不敢给他投保",
       "onboard_time": 1719682214,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48831,
-      "num": 90403,
-      "word": "德国vs丹麦",
-      "onboard_time": 1719672980,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 45736,
@@ -448,6 +448,22 @@
       "word": "张峻豪第二通过考核",
       "onboard_time": 1719667159,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32743,
+      "num": 32743,
+      "word": "李艺飞",
+      "onboard_time": 1719685572,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 31989,
+      "num": 31989,
+      "word": "耳帝发文为黄宣鸣不平",
+      "onboard_time": 1719686892,
+      "rank": 31,
       "category": "综艺"
     },
     {
