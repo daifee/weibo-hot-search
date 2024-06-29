@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719671699942,
+  "endTime": 1719674341007,
   "band_list": [
     {
       "raw_hot": 7363039,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1471862,
+      "num": 504958,
+      "word": "王星越工作室",
+      "onboard_time": 1719672679,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1471747,
       "num": 1471747,
       "word": "某韩国男星性侵18岁女学生",
@@ -1089,6 +1097,22 @@
       "onboard_time": 1719586103,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1115901,
+      "num": 1115901,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719671178,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1112918,
+      "num": 385046,
+      "word": "于正会开除一干人等",
+      "onboard_time": 1719671479,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1111629,
@@ -2683,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664029,
+      "num": 356238,
+      "word": "王俊凯 族长",
+      "onboard_time": 1719672860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663229,
       "num": 663229,
       "word": "喜茶 小奶栀",
@@ -4243,6 +4275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474734,
+      "num": 180528,
+      "word": "田馥甄 你就不要想起我",
+      "onboard_time": 1719672560,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 471420,
       "num": 471420,
       "word": "霍建华这是找到自己的赛道了",
@@ -4585,6 +4625,14 @@
       "onboard_time": 1719404057,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 441070,
+      "num": 180745,
+      "word": "范丞丞说第一次在新说唱闻到血腥味",
+      "onboard_time": 1719671841,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 441019,
@@ -5417,14 +5465,6 @@
       "onboard_time": 1719589219,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393417,
-      "num": 166474,
-      "word": "于正会开除一干人等",
-      "onboard_time": 1719671479,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 393361,
@@ -6603,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315608,
+      "num": 315608,
+      "word": "爸爸让女儿用眼泪把盆装满才开电视",
+      "onboard_time": 1719671300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315117,
       "num": 230020,
       "word": "刘亦菲机长造型",
@@ -6689,6 +6737,14 @@
       "onboard_time": 1719152001,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308490,
+      "num": 179909,
+      "word": "王心凌玫瑰嫁纱",
+      "onboard_time": 1719673939,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 308454,
@@ -7137,6 +7193,22 @@
       "onboard_time": 1719578000,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288029,
+      "num": 179650,
+      "word": "墨雨云间拍了两版结局",
+      "onboard_time": 1719672800,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287965,
+      "num": 287965,
+      "word": "武磊倒钩破门",
+      "onboard_time": 1719671178,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 287705,
@@ -7659,14 +7731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 261847,
-      "num": 261847,
-      "word": "江浙沪朋友们最近出门的样子",
-      "onboard_time": 1719671178,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261545,
       "num": 222079,
       "word": "慕胥辞阵容官宣",
@@ -8123,6 +8187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 240288,
+      "num": 175684,
+      "word": "唐嫣的腿硬控我",
+      "onboard_time": 1719671240,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240046,
       "num": 240046,
       "word": "痛经越来越疼要小心巧克力囊肿",
@@ -8337,6 +8409,14 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232290,
+      "num": 181702,
+      "word": "你居然敢亵渎我的艺术",
+      "onboard_time": 1719669199,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 232016,
@@ -8817,14 +8897,6 @@
       "onboard_time": 1719498859,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 221204,
-      "num": 181702,
-      "word": "你居然敢亵渎我的艺术",
-      "onboard_time": 1719669199,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221193,
@@ -11339,6 +11411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180747,
+      "num": 180747,
+      "word": "青岛大学的毕业典礼为什么那么火",
+      "onboard_time": 1719669020,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180687,
       "num": 180687,
       "word": "高中最好的成绩给了高考",
@@ -11403,12 +11483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179414,
+      "num": 163733,
+      "word": "你好星期六檀健次新歌手势舞挑战",
+      "onboard_time": 1719673338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179359,
       "num": 63500,
       "word": "女子买无座票坐卧铺被强行带离",
       "onboard_time": 1719085931,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179321,
+      "num": 179321,
+      "word": "eStar战胜AG",
+      "onboard_time": 1719673040,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 179212,
@@ -11761,6 +11857,14 @@
       "onboard_time": 1719478398,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174578,
+      "num": 132051,
+      "word": "陈昊宇的手被宁静硬控住了",
+      "onboard_time": 1719674058,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174543,
@@ -12395,12 +12499,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 165978,
-      "num": 179515,
-      "word": "青岛大学的毕业典礼为什么那么火",
-      "onboard_time": 1719669020,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 165933,
+      "num": 165933,
+      "word": "为什么强烈推荐你夏天穿羊毛",
+      "onboard_time": 1719668720,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 165807,
@@ -12457,22 +12561,6 @@
       "onboard_time": 1719288440,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165073,
-      "num": 165073,
-      "word": "武磊倒钩破门",
-      "onboard_time": 1719671178,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165045,
-      "num": 165045,
-      "word": "唐嫣的腿硬控我",
-      "onboard_time": 1719671240,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 165017,
@@ -15667,14 +15755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127073,
-      "num": 142590,
-      "word": "为什么强烈推荐你夏天穿羊毛",
-      "onboard_time": 1719668720,
-      "rank": 45,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 126925,
       "num": 175869,
       "word": "有哪些专业不学不知道一学不吱声",
@@ -16177,6 +16257,14 @@
       "onboard_time": 1719339252,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120712,
+      "num": 127964,
+      "word": "Twins演唱会",
+      "onboard_time": 1719674299,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 120663,
@@ -16811,6 +16899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113734,
+      "num": 126842,
+      "word": "太原理工晋级cubal总决赛",
+      "onboard_time": 1719672500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113674,
       "num": 113674,
       "word": "中国女排U18亚锦赛夺冠",
@@ -17417,14 +17513,6 @@
       "onboard_time": 1719490099,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105930,
-      "num": 298018,
-      "word": "爸爸让女儿用眼泪把盆装满才开电视",
-      "onboard_time": 1719671300,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105840,
@@ -18595,6 +18683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76587,
+      "num": 126108,
+      "word": "瑞士vs意大利",
+      "onboard_time": 1719672199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76555,
       "num": 76555,
       "word": "张婧仪皱眉也好漂亮",
@@ -18681,6 +18777,14 @@
       "onboard_time": 1719206838,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73194,
+      "num": 125467,
+      "word": "德国vs丹麦",
+      "onboard_time": 1719672980,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73026,
@@ -18777,6 +18881,14 @@
       "onboard_time": 1719589400,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68974,
+      "num": 124445,
+      "word": "CUBA",
+      "onboard_time": 1719672139,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68852,
@@ -19435,6 +19547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51487,
+      "num": 325932,
+      "word": "新郎接亲遇意外差点没接住这波考验",
+      "onboard_time": 1719673160,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51275,
       "num": 640479,
       "word": "扬州含诗量有多高",
@@ -19636,7 +19756,7 @@
     },
     {
       "raw_hot": 45145,
-      "num": 465249,
+      "num": 505583,
       "word": "穿越千年看大运河秀美画卷",
       "onboard_time": 1719659957,
       "rank": 2,
