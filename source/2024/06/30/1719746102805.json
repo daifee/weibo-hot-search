@@ -1,0 +1,410 @@
+{
+  "runTime": 1719746102805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428659,
+        "num": 1428659,
+        "word": "河南官方回应火箭起火坠落",
+        "onboard_time": 1719742157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1370940,
+        "num": 1370940,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 526041,
+        "word": "龙腾湾区桥见未来",
+        "onboard_time": 1719735616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524103,
+        "num": 524103,
+        "word": "猎罪图鉴3恶魔监狱",
+        "onboard_time": 1719740416,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493814,
+        "num": 493814,
+        "word": "婚恋中伴侣长嘴有多重要",
+        "onboard_time": 1719742397,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464525,
+        "num": 464525,
+        "word": "孙海洋回应孙卓高考成绩",
+        "onboard_time": 1719734117,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391332,
+        "num": 391332,
+        "word": "赵今麦张凌赫双人大片",
+        "onboard_time": 1719740718,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346073,
+        "num": 346073,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366929,
+        "num": 341184,
+        "word": "火箭",
+        "onboard_time": 1719739037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333054,
+        "num": 333054,
+        "word": "吴艳妮女子100米栏冠军",
+        "onboard_time": 1719745517,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604444,
+        "num": 330826,
+        "word": "陈志朋53岁再签新公司",
+        "onboard_time": 1719741318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49939,
+        "num": 329674,
+        "word": "亿元车队首穿深中通道",
+        "onboard_time": 1719741557,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 503400,
+        "num": 323652,
+        "word": "伊拉克男子妻儿丧生后性侵同船少女",
+        "onboard_time": 1719737778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481960,
+        "num": 322554,
+        "word": "家长去武校看儿子其正被按地上抽",
+        "onboard_time": 1719743659,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452780,
+        "num": 319330,
+        "word": "工作室发了王源转场顶胯视频",
+        "onboard_time": 1719744079,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 317171,
+        "word": "坠落火箭系试飞暂无伤亡",
+        "onboard_time": 1719743297,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356062,
+        "num": 307488,
+        "word": "吴谨言王星越拍芭莎",
+        "onboard_time": 1719739217,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277937,
+        "num": 277937,
+        "word": "女孩差点被带走父亲查监控像人贩子",
+        "onboard_time": 1719737057,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272153,
+        "num": 272153,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "网红面筋哥女友发声",
+        "onboard_time": 1719739217,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350059,
+        "num": 206062,
+        "word": "校长回答月薪1万2先深造还是先赚钱",
+        "onboard_time": 1719744257,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14716,
+        "num": 199668,
+        "word": "感谢你们让少年的梦想生根发芽",
+        "onboard_time": 1719739637,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220743,
+        "num": 199443,
+        "word": "刘畊宏纪凌尘腋下管理的极与极",
+        "onboard_time": 1719732198,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196381,
+        "num": 196381,
+        "word": "美国网红鼻祖自曝16岁起遭性虐待",
+        "onboard_time": 1719730816,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186276,
+        "num": 186276,
+        "word": "毛晓彤 不觉得30岁是个坎",
+        "onboard_time": 1719743478,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182355,
+        "num": 182355,
+        "word": "山寨周杰伦全国巡演暂停",
+        "onboard_time": 1719741318,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164203,
+        "num": 164203,
+        "word": "于正说不明白吴谨言受了啥委屈",
+        "onboard_time": 1719745938,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164111,
+        "num": 164111,
+        "word": "你觉得女子怀孕应该是谁来照顾",
+        "onboard_time": 1719745938,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158820,
+        "num": 158820,
+        "word": "日本拉面店禁止食客用耳机",
+        "onboard_time": 1719724459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155796,
+        "num": 155796,
+        "word": "蒲熠星黄子弘凡背着院人接新节目",
+        "onboard_time": 1719743478,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132350,
+        "num": 132350,
+        "word": "日本老教授被曝猥亵幼女",
+        "onboard_time": 1719742937,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147945,
+        "num": 132179,
+        "word": "吴谨言下一部剧还是古偶",
+        "onboard_time": 1719742098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131404,
+        "num": 131404,
+        "word": "珍珠学会下楼梯了",
+        "onboard_time": 1719738557,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131045,
+        "num": 131045,
+        "word": "黄子韬徐艺洋一路上都在拌嘴",
+        "onboard_time": 1719730937,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "DOU5对战Gr",
+        "onboard_time": 1719745517,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124595,
+        "num": 124595,
+        "word": "和平精英区域对抗赛冠军夜",
+        "onboard_time": 1719745757,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123939,
+        "num": 123939,
+        "word": "谁家综艺一下来两壮壮妈啊",
+        "onboard_time": 1719736458,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124362,
+        "num": 123898,
+        "word": "微信朋友圈置顶新玩法",
+        "onboard_time": 1719733217,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18014,
+        "num": 123374,
+        "word": "暴雨后诊所进水医生穿雨鞋接诊",
+        "onboard_time": 1719739759,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123049,
+        "num": 123049,
+        "word": "张杰乐队炫技秀",
+        "onboard_time": 1719745817,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "阴干的衣服为什么有股臭味",
+        "onboard_time": 1719734238,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117790,
+        "num": 117790,
+        "word": "仙逆",
+        "onboard_time": 1719745458,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40874,
+        "num": 109378,
+        "word": "这艘船海上发射火箭成功率百分百",
+        "onboard_time": 1719743898,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109322,
+        "num": 109322,
+        "word": "王星越回应在曹操赛道飞速成长",
+        "onboard_time": 1719741078,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108293,
+        "num": 108293,
+        "word": "典型infp一天都在干什么",
+        "onboard_time": 1719741919,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107934,
+        "num": 107934,
+        "word": "Angelababy 辛巴直播",
+        "onboard_time": 1719728358,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106426,
+        "num": 106426,
+        "word": "子宫内膜异位症",
+        "onboard_time": 1719736337,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103482,
+        "num": 103482,
+        "word": "空调开一会关一会更省电吗",
+        "onboard_time": 1719732976,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100235,
+        "num": 100235,
+        "word": "Uzi谈停播原因",
+        "onboard_time": 1719746059,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96713,
+        "num": 96713,
+        "word": "赵今麦奇迹蓉蓉上线",
+        "onboard_time": 1719744498,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向参与规划建设深中通道的同志致以问候#"
+    }
+  }
+}

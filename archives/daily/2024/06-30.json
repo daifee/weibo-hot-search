@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719743741469,
+  "endTime": 1719746102805,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -227,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 604444,
+      "num": 542771,
+      "word": "陈志朋53岁再签新公司",
+      "onboard_time": 1719741318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601566,
       "num": 190969,
       "word": "浙大学霸成为百万粉丝网红",
@@ -241,14 +249,6 @@
       "onboard_time": 1719708075,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591565,
-      "num": 542771,
-      "word": "陈志朋53岁再签新公司",
-      "onboard_time": 1719741318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 588890,
@@ -379,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493814,
+      "num": 493814,
+      "word": "婚恋中伴侣长嘴有多重要",
+      "onboard_time": 1719742397,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 481960,
+      "num": 322554,
+      "word": "家长去武校看儿子其正被按地上抽",
+      "onboard_time": 1719743659,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480220,
       "num": 213402,
       "word": "恋爱脑果然是男人最好的医美",
@@ -425,6 +441,14 @@
       "onboard_time": 1719718578,
       "rank": 4,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 452780,
+      "num": 319330,
+      "word": "工作室发了王源转场顶胯视频",
+      "onboard_time": 1719744079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 452150,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350059,
+      "num": 206062,
+      "word": "校长回答月薪1万2先深造还是先赚钱",
+      "onboard_time": 1719744257,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346862,
       "num": 153830,
       "word": "减肥期间不建议吃的水果",
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333054,
+      "num": 333054,
+      "word": "吴艳妮女子100米栏冠军",
+      "onboard_time": 1719745517,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332156,
       "num": 210490,
       "word": "子宫内膜异位症",
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328603,
-      "num": 254725,
-      "word": "婚恋中伴侣长嘴有多重要",
-      "onboard_time": 1719742397,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 319989,
       "num": 319989,
       "word": "张杰脱衣服和掉话筒的反差感",
@@ -609,6 +641,14 @@
       "onboard_time": 1719673939,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317171,
+      "num": 317171,
+      "word": "坠落火箭系试飞暂无伤亡",
+      "onboard_time": 1719743297,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311510,
@@ -769,14 +809,6 @@
       "onboard_time": 1719717858,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248959,
-      "num": 171053,
-      "word": "坠落火箭系试飞暂无伤亡",
-      "onboard_time": 1719743297,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244649,
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186276,
+      "num": 186276,
+      "word": "毛晓彤 不觉得30岁是个坎",
+      "onboard_time": 1719743478,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186074,
       "num": 144788,
       "word": "瑞士晋级欧洲杯8强",
@@ -1131,6 +1171,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164203,
+      "num": 164203,
+      "word": "于正说不明白吴谨言受了啥委屈",
+      "onboard_time": 1719745938,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164111,
+      "num": 164111,
+      "word": "你觉得女子怀孕应该是谁来照顾",
+      "onboard_time": 1719745938,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163211,
       "num": 163211,
       "word": "喝绿豆汤最好一天别超过500ml",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1719702494,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153520,
-      "num": 153520,
-      "word": "家长去武校看儿子其正被按地上抽",
-      "onboard_time": 1719743659,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153135,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1719741078,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143493,
-      "num": 143493,
-      "word": "毛晓彤 不觉得30岁是个坎",
-      "onboard_time": 1719743478,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 143362,
@@ -1403,6 +1443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132350,
+      "num": 132350,
+      "word": "日本老教授被曝猥亵幼女",
+      "onboard_time": 1719742937,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
@@ -1435,6 +1483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125209,
+      "num": 125209,
+      "word": "DOU5对战Gr",
+      "onboard_time": 1719745517,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124595,
+      "num": 124595,
+      "word": "和平精英区域对抗赛冠军夜",
+      "onboard_time": 1719745757,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123974,
       "num": 123974,
       "word": "杜江晒珍珠近照",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1719730998,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123049,
+      "num": 123049,
+      "word": "张杰乐队炫技秀",
+      "onboard_time": 1719745817,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 122740,
@@ -1529,6 +1601,14 @@
       "onboard_time": 1719707057,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117790,
+      "num": 117790,
+      "word": "仙逆",
+      "onboard_time": 1719745458,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 117271,
@@ -1763,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100235,
+      "num": 100235,
+      "word": "Uzi谈停播原因",
+      "onboard_time": 1719746059,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99804,
       "num": 99804,
       "word": "西安雷雨大风冰雹双预警",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1719723378,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96713,
+      "num": 96713,
+      "word": "赵今麦奇迹蓉蓉上线",
+      "onboard_time": 1719744498,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 96509,
@@ -2123,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49939,
+      "num": 407938,
+      "word": "亿元车队首穿深中通道",
+      "onboard_time": 1719741557,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47454,
       "num": 49646,
       "word": "德国晋级欧洲杯8强",
@@ -2147,12 +2251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41767,
-      "num": 407938,
-      "word": "亿元车队首穿深中通道",
-      "onboard_time": 1719741557,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 40874,
+      "num": 109378,
+      "word": "这艘船海上发射火箭成功率百分百",
+      "onboard_time": 1719743898,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37875,
@@ -2337,6 +2441,22 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18014,
+      "num": 123374,
+      "word": "暴雨后诊所进水医生穿雨鞋接诊",
+      "onboard_time": 1719739759,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 199668,
+      "word": "感谢你们让少年的梦想生根发芽",
+      "onboard_time": 1719739637,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14476,
