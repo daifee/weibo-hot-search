@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719751741445,
+  "endTime": 1719753601794,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835118,
+      "num": 835118,
+      "word": "冯禧中传硕士毕业",
+      "onboard_time": 1719750559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829001,
       "num": 393239,
       "word": "刘畊宏纪凌尘腋下管理的极与极",
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 643333,
-      "num": 301664,
-      "word": "冯禧中传硕士毕业",
-      "onboard_time": 1719750559,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 632130,
       "num": 632130,
       "word": "谁家综艺一下来两壮壮妈啊",
@@ -281,6 +281,14 @@
       "onboard_time": 1719741318,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 603883,
+      "num": 603883,
+      "word": "现在电视剧为何不爱叫XX传了",
+      "onboard_time": 1719747738,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 601566,
@@ -339,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 565224,
-      "num": 565224,
-      "word": "现在电视剧为何不爱叫XX传了",
-      "onboard_time": 1719747738,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 565732,
+      "num": 272657,
+      "word": "剑桥偶遇田亮森蝶",
+      "onboard_time": 1719751398,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 561810,
@@ -361,6 +369,14 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557485,
+      "num": 267219,
+      "word": "青3选手蒋智豪称病情加重",
+      "onboard_time": 1719752477,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 539806,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443284,
+      "num": 425047,
+      "word": "杨紫G社生图",
+      "onboard_time": 1719750379,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443115,
       "num": 359784,
       "word": "空调开一会关一会更省电吗",
@@ -683,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342402,
-      "num": 342402,
-      "word": "杨紫G社生图",
-      "onboard_time": 1719750379,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340461,
       "num": 234600,
       "word": "当邓超遇上刘亦菲",
@@ -809,6 +825,14 @@
       "onboard_time": 1719715577,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297959,
+      "num": 297959,
+      "word": "吴谨言王星越芭莎预告",
+      "onboard_time": 1719752418,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 297041,
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224680,
+      "num": 201272,
+      "word": "王星越的营业方式",
+      "onboard_time": 1719753558,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -1003,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209584,
+      "num": 209584,
+      "word": "上海60岁阿姨暴雨送别伊势丹百货",
+      "onboard_time": 1719749237,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205589,
       "num": 173723,
       "word": "华晨宇 关于日出的那一天",
       "onboard_time": 1719716897,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205509,
+      "num": 205509,
+      "word": "neinei与好友逛街",
+      "onboard_time": 1719750977,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205454,
@@ -1049,6 +1097,22 @@
       "onboard_time": 1719743117,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202617,
+      "num": 202617,
+      "word": "辛芷蕾打戏",
+      "onboard_time": 1719752358,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202481,
+      "num": 202481,
+      "word": "吴谨言说今天拍了好看的照片",
+      "onboard_time": 1719753558,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 202458,
@@ -1123,11 +1187,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194553,
-      "num": 194553,
-      "word": "上海60岁阿姨暴雨送别伊势丹百货",
-      "onboard_time": 1719749237,
-      "rank": 26,
+      "raw_hot": 194917,
+      "num": 194917,
+      "word": "深中通道堵了",
+      "onboard_time": 1719752058,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1153,6 +1217,14 @@
       "onboard_time": 1719725238,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190092,
+      "num": 190092,
+      "word": "六月再见",
+      "onboard_time": 1719753078,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 189931,
@@ -1267,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173592,
-      "num": 173592,
-      "word": "neinei与好友逛街",
-      "onboard_time": 1719750977,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
@@ -1371,12 +1435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155569,
-      "num": 155569,
-      "word": "剑桥偶遇田亮森蝶",
-      "onboard_time": 1719751398,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 156217,
+      "num": 156217,
+      "word": "杭州30岁女孩白天打工人晚上贝斯手",
+      "onboard_time": 1719751159,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153135,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1719717797,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148109,
+      "num": 148109,
+      "word": "狼队对战RW",
+      "onboard_time": 1719753078,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 147765,
@@ -1675,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "张志杰 紧急治疗",
+      "onboard_time": 1719753199,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124595,
       "num": 124595,
       "word": "和平精英区域对抗赛冠军夜",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1719702674,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120631,
+      "num": 120631,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 120490,
@@ -1843,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114299,
+      "num": 114299,
+      "word": "颜心记",
+      "onboard_time": 1719752358,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113670,
       "num": 113670,
       "word": "黄明昊为角色剃头美黑",
@@ -1891,6 +1987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110767,
+      "num": 110767,
+      "word": "infp一生都会为体验买单",
+      "onboard_time": 1719753258,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110681,
       "num": 110681,
       "word": "王勉 猫猫祟祟",
@@ -1936,14 +2040,6 @@
       "word": "深圳至中山跨江通道",
       "onboard_time": 1719729257,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105809,
-      "num": 105809,
-      "word": "杭州30岁女孩白天打工人晚上贝斯手",
-      "onboard_time": 1719751159,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 63258,
+      "num": 214039,
+      "word": "原来天鹅船是这么来的",
+      "onboard_time": 1719751637,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61137,
       "num": 302298,
       "word": "小婴儿在消防员用盆做的船里睡香香",
@@ -2473,14 +2577,6 @@
       "onboard_time": 1719741557,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 47543,
-      "num": 176923,
-      "word": "原来天鹅船是这么来的",
-      "onboard_time": 1719751637,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47454,
@@ -2524,7 +2620,7 @@
     },
     {
       "raw_hot": 38110,
-      "num": 174544,
+      "num": 206141,
       "word": "老人到宁波旅行寻找失联50年老战友",
       "onboard_time": 1719751398,
       "rank": 27,

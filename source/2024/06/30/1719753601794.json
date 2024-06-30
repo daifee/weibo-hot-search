@@ -1,0 +1,410 @@
+{
+  "runTime": 1719753601794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105299,
+        "num": 1105299,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835118,
+        "num": 835118,
+        "word": "冯禧中传硕士毕业",
+        "onboard_time": 1719750559,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58204,
+        "num": 687240,
+        "word": "高考录取期间防范四大骗局",
+        "onboard_time": 1719734957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603883,
+        "num": 603883,
+        "word": "现在电视剧为何不爱叫XX传了",
+        "onboard_time": 1719747738,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430953,
+        "num": 430953,
+        "word": "天兵科技回应火箭起火爆炸",
+        "onboard_time": 1719748280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425294,
+        "num": 425294,
+        "word": "多地挪用农村学生营养餐补助",
+        "onboard_time": 1719747378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443284,
+        "num": 425047,
+        "word": "杨紫G社生图",
+        "onboard_time": 1719750379,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423695,
+        "num": 423695,
+        "word": "吴艳妮女子100米栏冠军",
+        "onboard_time": 1719745517,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326939,
+        "num": 326939,
+        "word": "伊拉克男子妻儿丧生后性侵同船少女",
+        "onboard_time": 1719737778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297959,
+        "num": 297959,
+        "word": "吴谨言王星越芭莎预告",
+        "onboard_time": 1719752418,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1069124,
+        "num": 292865,
+        "word": "周翊然 像鹿晗",
+        "onboard_time": 1719749777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44971,
+        "num": 279660,
+        "word": "畅爽烧烤节沈阳局开烤了",
+        "onboard_time": 1719750258,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 565732,
+        "num": 272657,
+        "word": "剑桥偶遇田亮森蝶",
+        "onboard_time": 1719751398,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557485,
+        "num": 267219,
+        "word": "青3选手蒋智豪称病情加重",
+        "onboard_time": 1719752477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720236,
+        "num": 255449,
+        "word": "于正说不明白吴谨言受了啥委屈",
+        "onboard_time": 1719745938,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472286,
+        "num": 248604,
+        "word": "你觉得女子怀孕应该是谁来照顾",
+        "onboard_time": 1719745938,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305519,
+        "num": 240142,
+        "word": "河南官方回应火箭起火坠落",
+        "onboard_time": 1719742157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231508,
+        "num": 231508,
+        "word": "彩虹",
+        "onboard_time": 1719746537,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 214823,
+        "num": 214823,
+        "word": "知情人称坠落火箭系天龙三号",
+        "onboard_time": 1719746297,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63258,
+        "num": 214039,
+        "word": "原来天鹅船是这么来的",
+        "onboard_time": 1719751637,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421026,
+        "num": 213465,
+        "word": "吴彦祖又帅回来了",
+        "onboard_time": 1719746118,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409842,
+        "num": 212382,
+        "word": "王星越说买断是有点买不过来了",
+        "onboard_time": 1719746477,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350681,
+        "num": 211711,
+        "word": "校长回答月薪1万2先深造还是先赚钱",
+        "onboard_time": 1719744257,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270684,
+        "num": 210794,
+        "word": "猎罪图鉴3恶魔监狱",
+        "onboard_time": 1719740416,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227066,
+        "num": 210379,
+        "word": "女生花470元带1条鱼去医院看病",
+        "onboard_time": 1719747198,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209584,
+        "num": 209584,
+        "word": "上海60岁阿姨暴雨送别伊势丹百货",
+        "onboard_time": 1719749237,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29612,
+        "num": 206141,
+        "word": "老人到宁波旅行寻找失联50年老战友",
+        "onboard_time": 1719751398,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205509,
+        "num": 205509,
+        "word": "neinei与好友逛街",
+        "onboard_time": 1719750977,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202617,
+        "num": 202617,
+        "word": "辛芷蕾打戏",
+        "onboard_time": 1719752358,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202481,
+        "num": 202481,
+        "word": "吴谨言说今天拍了好看的照片",
+        "onboard_time": 1719753558,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224680,
+        "num": 201272,
+        "word": "王星越的营业方式",
+        "onboard_time": 1719753558,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194917,
+        "num": 194917,
+        "word": "深中通道堵了",
+        "onboard_time": 1719752058,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190092,
+        "num": 190092,
+        "word": "六月再见",
+        "onboard_time": 1719753078,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170341,
+        "num": 170341,
+        "word": "孙海洋回应孙卓高考成绩",
+        "onboard_time": 1719734117,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162329,
+        "num": 162329,
+        "word": "家长去武校看儿子其正被按地上抽",
+        "onboard_time": 1719743659,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156217,
+        "num": 156217,
+        "word": "杭州30岁女孩白天打工人晚上贝斯手",
+        "onboard_time": 1719751159,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148109,
+        "num": 148109,
+        "word": "狼队对战RW",
+        "onboard_time": 1719753078,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143493,
+        "num": 143493,
+        "word": "孙怡主持村民大会",
+        "onboard_time": 1719749178,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135435,
+        "num": 135435,
+        "word": "爸妈我的破烂到家了",
+        "onboard_time": 1719748817,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132564,
+        "num": 132564,
+        "word": "赵今麦张凌赫双人大片",
+        "onboard_time": 1719740718,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129056,
+        "num": 129056,
+        "word": "工作室发了王源转场顶胯视频",
+        "onboard_time": 1719744079,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "张志杰 紧急治疗",
+        "onboard_time": 1719753199,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122861,
+        "num": 122861,
+        "word": "j人和P人一起买东西流程",
+        "onboard_time": 1719748338,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 120631,
+        "word": "许玮甯说邱泽私下很可爱",
+        "onboard_time": 1719753438,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115582,
+        "num": 115582,
+        "word": "中国U18女篮亚洲杯亚军",
+        "onboard_time": 1719750137,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114299,
+        "num": 114299,
+        "word": "颜心记",
+        "onboard_time": 1719752358,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114088,
+        "num": 114088,
+        "word": "陈志朋53岁再签新公司",
+        "onboard_time": 1719741318,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113906,
+        "num": 113906,
+        "word": "微信朋友圈置顶新玩法",
+        "onboard_time": 1719733217,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110767,
+        "num": 110767,
+        "word": "infp一生都会为体验买单",
+        "onboard_time": 1719753258,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "薛之谦 有温度的字有诚意的人",
+        "onboard_time": 1719748758,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺深中通道建成开通#"
+    }
+  }
+}
