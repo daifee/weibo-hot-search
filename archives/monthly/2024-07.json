@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719783285694,
+  "endTime": 1719785866757,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201148,
+      "num": 68423,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183599,
       "num": 141460,
       "word": "冯禧中传硕士毕业",
@@ -257,6 +265,14 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 138353,
+      "num": 138353,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132647,
@@ -387,28 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78143,
-      "num": 78143,
-      "word": "官方回应2岁幼童高空卖艺后求抱抱",
-      "onboard_time": 1719778871,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77772,
       "num": 77772,
       "word": "张碧晨演唱会",
       "onboard_time": 1719759679,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 73690,
-      "num": 19795,
-      "word": "缉毒卧底连续偶遇警察同事",
-      "onboard_time": 1719779710,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60910,
@@ -433,6 +433,14 @@
       "onboard_time": 1719768794,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33204,
+      "num": 33204,
+      "word": "吴谨言被考古羞耻感拉满",
+      "onboard_time": 1719782650,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 32121,
@@ -467,28 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16747,
-      "num": 148498,
-      "word": "一半一半的智慧",
-      "onboard_time": 1719758839,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16656,
-      "num": 18483,
+      "raw_hot": 18559,
+      "num": 20152,
       "word": "两只小狗隔着笼子拍手",
       "onboard_time": 1719778511,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 16040,
-      "num": 16655,
-      "word": "吴谨言被考古羞耻感拉满",
-      "onboard_time": 1719782650,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 16747,
+      "num": 148498,
+      "word": "一半一半的智慧",
+      "onboard_time": 1719758839,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 14534,
