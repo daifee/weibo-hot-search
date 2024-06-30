@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719728740218,
+  "endTime": 1719729490417,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565009,
+      "num": 565009,
+      "word": "日本拉面店禁止食客用耳机",
+      "onboard_time": 1719724459,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558074,
       "num": 558074,
       "word": "王俊凯 族长",
@@ -185,6 +193,14 @@
       "onboard_time": 1719718036,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530920,
+      "num": 285910,
+      "word": "Angelababy 辛巴直播",
+      "onboard_time": 1719728358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 529299,
@@ -267,8 +283,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 414935,
-      "num": 151693,
+      "raw_hot": 415441,
+      "num": 153397,
       "word": "中国游客在日本消费新三样",
       "onboard_time": 1719726256,
       "rank": 21,
@@ -281,14 +297,6 @@
       "onboard_time": 1719667276,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386252,
-      "num": 386252,
-      "word": "日本拉面店禁止食客用耳机",
-      "onboard_time": 1719724459,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384409,
@@ -369,6 +377,14 @@
       "onboard_time": 1719723317,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327059,
+      "num": 295309,
+      "word": "肖战到杭州",
+      "onboard_time": 1719727938,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 319989,
@@ -459,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264865,
-      "num": 264865,
-      "word": "肖战到杭州",
-      "onboard_time": 1719727938,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230390,
-      "num": 230390,
-      "word": "Angelababy 辛巴直播",
-      "onboard_time": 1719728358,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229896,
       "num": 229896,
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
@@ -571,6 +571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213741,
+      "num": 153358,
+      "word": "朱丹周一围带女儿参加小学入学测试",
+      "onboard_time": 1719728716,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212538,
+      "num": 153330,
+      "word": "我是9918.5万分之一",
+      "onboard_time": 1719727398,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205589,
       "num": 173723,
       "word": "华晨宇 关于日出的那一天",
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 205454,
-      "num": 149419,
+      "num": 153308,
       "word": "李梦有话是真说啊",
       "onboard_time": 1719725538,
       "rank": 46,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 202212,
-      "num": 149673,
+      "num": 153282,
       "word": "颜心记喷饭剧",
       "onboard_time": 1719725417,
       "rank": 34,
@@ -641,6 +657,14 @@
       "onboard_time": 1719724817,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197445,
+      "num": 153298,
+      "word": "裴文宣这一口你终于亲上了",
+      "onboard_time": 1719728358,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190497,
@@ -771,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160638,
-      "num": 146399,
-      "word": "朱丹周一围带女儿参加小学入学测试",
-      "onboard_time": 1719728716,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158394,
       "num": 158394,
       "word": "意大利欧洲杯出局",
@@ -809,14 +825,6 @@
       "onboard_time": 1719664518,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148589,
-      "num": 148589,
-      "word": "我是9918.5万分之一",
-      "onboard_time": 1719727398,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 148258,
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135077,
+      "num": 135077,
+      "word": "以军空袭前给加沙平民5分钟逃命",
+      "onboard_time": 1719727337,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134362,
       "num": 140020,
       "word": "580元演唱会门票被换到380元区域",
@@ -955,28 +971,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131105,
-      "num": 131105,
-      "word": "以军空袭前给加沙平民5分钟逃命",
-      "onboard_time": 1719727337,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
       "onboard_time": 1719661877,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129447,
-      "num": 129447,
-      "word": "裴文宣这一口你终于亲上了",
-      "onboard_time": 1719728358,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 129164,
@@ -1243,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97985,
+      "num": 97985,
+      "word": "超80部影片定档2024暑期档",
+      "onboard_time": 1719727637,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97371,
       "num": 139726,
       "word": "肝脏损伤的4个信号",
@@ -1379,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78652,
+      "num": 85227,
+      "word": "深圳至中山跨江通道",
+      "onboard_time": 1719729257,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76032,
       "num": 139370,
       "word": "网传中学及卫生院全体职工为人守灵",
@@ -1408,6 +1424,14 @@
       "word": "急于逼你做决定的人通常是骗子",
       "onboard_time": 1719714497,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 72036,
+      "num": 293750,
+      "word": "被两只新生水豚宝宝萌到了",
+      "onboard_time": 1719726558,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -1483,14 +1507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50659,
-      "num": 118928,
-      "word": "被两只新生水豚宝宝萌到了",
-      "onboard_time": 1719726558,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 47454,
       "num": 49646,
       "word": "德国晋级欧洲杯8强",
@@ -1513,6 +1529,22 @@
       "onboard_time": 1719681316,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44861,
+      "num": 153253,
+      "word": "谁能跑赢黄色法拉利",
+      "onboard_time": 1719728897,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 39336,
+      "num": 290016,
+      "word": "松弛感变成了一个新赛道",
+      "onboard_time": 1719728417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37875,
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31808,
+      "num": 489401,
+      "word": "沿着大运河看安徽",
+      "onboard_time": 1719717016,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29878,
       "num": 49639,
       "word": "女学霸的学习方法",
@@ -1611,27 +1651,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28806,
-      "num": 394122,
-      "word": "沿着大运河看安徽",
-      "onboard_time": 1719717016,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28523,
       "num": 695913,
       "word": "穿越千年看大运河秀美画卷",
       "onboard_time": 1719659957,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27266,
-      "num": 288244,
-      "word": "松弛感变成了一个新赛道",
-      "onboard_time": 1719728417,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

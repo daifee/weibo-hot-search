@@ -1,0 +1,410 @@
+{
+  "runTime": 1719729490417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1336321,
+        "num": 1336321,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565009,
+        "num": 565009,
+        "word": "日本拉面店禁止食客用耳机",
+        "onboard_time": 1719724459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31808,
+        "num": 489401,
+        "word": "沿着大运河看安徽",
+        "onboard_time": 1719717016,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444764,
+        "num": 444764,
+        "word": "珠峰死亡地带4具遗体被运回",
+        "onboard_time": 1719722840,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334168,
+        "num": 334168,
+        "word": "于正回复吴谨言王星越必须二搭",
+        "onboard_time": 1719724517,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295409,
+        "num": 295409,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327059,
+        "num": 295309,
+        "word": "肖战到杭州",
+        "onboard_time": 1719727938,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293854,
+        "num": 293854,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72036,
+        "num": 293750,
+        "word": "被两只新生水豚宝宝萌到了",
+        "onboard_time": 1719726558,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39336,
+        "num": 290016,
+        "word": "松弛感变成了一个新赛道",
+        "onboard_time": 1719728417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191505,
+        "num": 288984,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 530920,
+        "num": 285910,
+        "word": "Angelababy 辛巴直播",
+        "onboard_time": 1719728358,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485243,
+        "num": 284128,
+        "word": "杨迪的狗安乐死了",
+        "onboard_time": 1719718097,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376662,
+        "num": 282011,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280130,
+        "num": 280130,
+        "word": "王一博来广西晒黑了",
+        "onboard_time": 1719727398,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248536,
+        "num": 248536,
+        "word": "袁娅维听说宁静卖浪姐团服",
+        "onboard_time": 1719725298,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201922,
+        "num": 201922,
+        "word": "奥运冠军杨倩清华大学毕业",
+        "onboard_time": 1719715696,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198480,
+        "num": 198480,
+        "word": "为什么韩系在中国不流行了",
+        "onboard_time": 1719710956,
+        "rank": 17,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719718578,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 153404,
+        "num": 153404,
+        "word": "吃完的荔枝不要扔",
+        "onboard_time": 1719719358,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 415441,
+        "num": 153397,
+        "word": "中国游客在日本消费新三样",
+        "onboard_time": 1719726256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264198,
+        "num": 153377,
+        "word": "小孩哥误锁下唇上演七分哭三分笑",
+        "onboard_time": 1719723317,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220953,
+        "num": 153371,
+        "word": "为何戴森卖不过国产平替了",
+        "onboard_time": 1719720738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213741,
+        "num": 153358,
+        "word": "朱丹周一围带女儿参加小学入学测试",
+        "onboard_time": 1719728716,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212538,
+        "num": 153330,
+        "word": "我是9918.5万分之一",
+        "onboard_time": 1719727398,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204174,
+        "num": 153317,
+        "word": "恋爱脑果然是男人最好的医美",
+        "onboard_time": 1719722538,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197136,
+        "num": 153308,
+        "word": "李梦有话是真说啊",
+        "onboard_time": 1719725538,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197445,
+        "num": 153298,
+        "word": "裴文宣这一口你终于亲上了",
+        "onboard_time": 1719728358,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168142,
+        "num": 153282,
+        "word": "颜心记喷饭剧",
+        "onboard_time": 1719725417,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44861,
+        "num": 153253,
+        "word": "谁能跑赢黄色法拉利",
+        "onboard_time": 1719728897,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158047,
+        "num": 153242,
+        "word": "陈坤 我怕了",
+        "onboard_time": 1719718036,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153238,
+        "num": 153238,
+        "word": "在故宫走丢真的倍有面子",
+        "onboard_time": 1719717377,
+        "rank": 31,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 149539,
+        "num": 149539,
+        "word": "谁家男二20集才有正脸",
+        "onboard_time": 1719711196,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135077,
+        "num": 135077,
+        "word": "以军空袭前给加沙平民5分钟逃命",
+        "onboard_time": 1719727337,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133054,
+        "num": 133054,
+        "word": "马立奥告状大王",
+        "onboard_time": 1719728417,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131993,
+        "num": 131993,
+        "word": "当一个重度抑郁女孩没钱做心理咨询",
+        "onboard_time": 1719708075,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "林俊杰祝福张书豪欧阳妮妮",
+        "onboard_time": 1719727938,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116587,
+        "num": 116587,
+        "word": "千万不要随便在白纸上签字",
+        "onboard_time": 1719722597,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109139,
+        "num": 109139,
+        "word": "林允U领爆闪裙",
+        "onboard_time": 1719724338,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107808,
+        "num": 107808,
+        "word": "于正晒白鹿陈鑫海剧照",
+        "onboard_time": 1719723857,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103648,
+        "num": 103648,
+        "word": "王心凌也有演唱会戒断反应",
+        "onboard_time": 1719727637,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103331,
+        "num": 103331,
+        "word": "浙大学霸成为百万粉丝网红",
+        "onboard_time": 1719712637,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100854,
+        "num": 100854,
+        "word": "李一桐 蜈蚣",
+        "onboard_time": 1719702854,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102365,
+        "num": 100024,
+        "word": "林允带着她完美的发际线登场了",
+        "onboard_time": 1719726018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97985,
+        "num": 97985,
+        "word": "超80部影片定档2024暑期档",
+        "onboard_time": 1719727637,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94494,
+        "num": 94494,
+        "word": "王一博桂林出发兰州",
+        "onboard_time": 1719724817,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91785,
+        "num": 91785,
+        "word": "亡夫13万元存款消失当事银行致歉",
+        "onboard_time": 1719714796,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88716,
+        "num": 88716,
+        "word": "卜冠今演技",
+        "onboard_time": 1719722899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86283,
+        "num": 86283,
+        "word": "不能让老师看出来的染发色",
+        "onboard_time": 1719726917,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78652,
+        "num": 85227,
+        "word": "深圳至中山跨江通道",
+        "onboard_time": 1719729257,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党的理想信念顽强奋斗不懈奋斗#"
+    }
+  }
+}
