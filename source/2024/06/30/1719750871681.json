@@ -1,0 +1,410 @@
+{
+  "runTime": 1719750871681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097623,
+        "num": 1097623,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787801,
+        "num": 787801,
+        "word": "吴艳妮女子100米栏冠军",
+        "onboard_time": 1719745517,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43420,
+        "num": 745860,
+        "word": "高考录取期间防范四大骗局",
+        "onboard_time": 1719734957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745777,
+        "num": 745777,
+        "word": "天兵科技回应火箭起火爆炸",
+        "onboard_time": 1719748280,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560057,
+        "num": 560057,
+        "word": "现在电视剧为何不爱叫XX传了",
+        "onboard_time": 1719747738,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474506,
+        "num": 474506,
+        "word": "彩虹",
+        "onboard_time": 1719746537,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 468307,
+        "num": 468307,
+        "word": "多地挪用农村学生营养餐补助",
+        "onboard_time": 1719747378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353554,
+        "num": 353554,
+        "word": "知情人称坠落火箭系天龙三号",
+        "onboard_time": 1719746297,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324215,
+        "num": 324215,
+        "word": "伊拉克男子妻儿丧生后性侵同船少女",
+        "onboard_time": 1719737778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38779,
+        "num": 320092,
+        "word": "在且末二十四年",
+        "onboard_time": 1719749540,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937587,
+        "num": 317594,
+        "word": "于正说不明白吴谨言受了啥委屈",
+        "onboard_time": 1719745938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838300,
+        "num": 313397,
+        "word": "周翊然 像鹿晗",
+        "onboard_time": 1719749777,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621933,
+        "num": 310824,
+        "word": "你觉得女子怀孕应该是谁来照顾",
+        "onboard_time": 1719745938,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577636,
+        "num": 304082,
+        "word": "王星越说买断是有点买不过来了",
+        "onboard_time": 1719746477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406568,
+        "num": 299759,
+        "word": "吴彦祖又帅回来了",
+        "onboard_time": 1719746118,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367276,
+        "num": 293328,
+        "word": "猎罪图鉴3恶魔监狱",
+        "onboard_time": 1719740416,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328385,
+        "num": 290029,
+        "word": "河南官方回应火箭起火坠落",
+        "onboard_time": 1719742157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288612,
+        "num": 288612,
+        "word": "陈志朋53岁再签新公司",
+        "onboard_time": 1719741318,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270320,
+        "num": 270320,
+        "word": "吴谨言王星越拍芭莎",
+        "onboard_time": 1719739217,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255520,
+        "num": 255520,
+        "word": "孙海洋回应孙卓高考成绩",
+        "onboard_time": 1719734117,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398692,
+        "num": 250985,
+        "word": "校长回答月薪1万2先深造还是先赚钱",
+        "onboard_time": 1719744257,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238604,
+        "num": 238604,
+        "word": "女生花470元带1条鱼去医院看病",
+        "onboard_time": 1719747198,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217483,
+        "num": 217483,
+        "word": "家长去武校看儿子其正被按地上抽",
+        "onboard_time": 1719743659,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 207771,
+        "word": "工作室发了王源转场顶胯视频",
+        "onboard_time": 1719744079,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204603,
+        "num": 204603,
+        "word": "严浩翔出场方式好city",
+        "onboard_time": 1719749837,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201816,
+        "num": 201816,
+        "word": "中国U18女篮亚洲杯亚军",
+        "onboard_time": 1719750137,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194553,
+        "num": 194553,
+        "word": "上海60岁阿姨暴雨送别伊势丹百货",
+        "onboard_time": 1719749237,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 192611,
+        "word": "冯禧中传硕士毕业",
+        "onboard_time": 1719750559,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189631,
+        "num": 189631,
+        "word": "杨紫G社生图",
+        "onboard_time": 1719750379,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43050,
+        "num": 184825,
+        "word": "畅爽烧烤节沈阳局开烤了",
+        "onboard_time": 1719750258,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184601,
+        "num": 184601,
+        "word": "婚恋中伴侣长嘴有多重要",
+        "onboard_time": 1719742397,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184495,
+        "num": 184495,
+        "word": "赵今麦张凌赫双人大片",
+        "onboard_time": 1719740718,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161350,
+        "num": 161350,
+        "word": "爸妈我的破烂到家了",
+        "onboard_time": 1719748817,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158221,
+        "num": 158221,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151873,
+        "num": 151873,
+        "word": "孙怡主持村民大会",
+        "onboard_time": 1719749178,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140570,
+        "num": 140570,
+        "word": "Uzi谈停播原因",
+        "onboard_time": 1719746059,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137243,
+        "num": 137243,
+        "word": "Aqours 9周年",
+        "onboard_time": 1719749837,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127882,
+        "num": 127882,
+        "word": "薛之谦 有温度的字有诚意的人",
+        "onboard_time": 1719748758,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126498,
+        "num": 126498,
+        "word": "j人和P人一起买东西流程",
+        "onboard_time": 1719748338,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126289,
+        "num": 126289,
+        "word": "微信朋友圈置顶新玩法",
+        "onboard_time": 1719733217,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "仙逆",
+        "onboard_time": 1719745458,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117424,
+        "num": 117424,
+        "word": "王星越钓鱼",
+        "onboard_time": 1719747257,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113918,
+        "num": 113918,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107835,
+        "num": 107835,
+        "word": "毛晓彤 不觉得30岁是个坎",
+        "onboard_time": 1719743478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "敖子逸坐娜扎张云龙C位",
+        "onboard_time": 1719750559,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94245,
+        "num": 94245,
+        "word": "火箭",
+        "onboard_time": 1719739037,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 92624,
+        "word": "女孩差点被带走父亲查监控像人贩子",
+        "onboard_time": 1719737057,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92268,
+        "num": 92268,
+        "word": "马嘉祺给六斤配乐猪八戒背媳妇",
+        "onboard_time": 1719748637,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91820,
+        "num": 91820,
+        "word": "金融消费者",
+        "onboard_time": 1719747498,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90568,
+        "num": 90568,
+        "word": "美国网红鼻祖自曝16岁起遭性虐待",
+        "onboard_time": 1719730816,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺深中通道建成开通#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719747256550,
+  "endTime": 1719750871681,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 937587,
+      "num": 319147,
+      "word": "于正说不明白吴谨言受了啥委屈",
+      "onboard_time": 1719745938,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909880,
       "num": 909880,
       "word": "吴艳妮女子100米栏冠军",
@@ -131,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838300,
+      "num": 313397,
+      "word": "周翊然 像鹿晗",
+      "onboard_time": 1719749777,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829001,
       "num": 393239,
       "word": "刘畊宏纪凌尘腋下管理的极与极",
       "onboard_time": 1719732198,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745777,
+      "num": 745777,
+      "word": "天兵科技回应火箭起火爆炸",
+      "onboard_time": 1719748280,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733355,
@@ -211,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621933,
+      "num": 317942,
+      "word": "你觉得女子怀孕应该是谁来照顾",
+      "onboard_time": 1719745938,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 619508,
       "num": 214292,
       "word": "为何戴森卖不过国产平替了",
@@ -275,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 577636,
+      "num": 304082,
+      "word": "王星越说买断是有点买不过来了",
+      "onboard_time": 1719746477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577464,
       "num": 203940,
       "word": "微信朋友圈置顶新玩法",
@@ -297,6 +337,14 @@
       "onboard_time": 1719730937,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560057,
+      "num": 560057,
+      "word": "现在电视剧为何不爱叫XX传了",
+      "onboard_time": 1719747738,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 558074,
@@ -411,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479495,
-      "num": 319147,
-      "word": "于正说不明白吴谨言受了啥委屈",
-      "onboard_time": 1719745938,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 474506,
+      "num": 474506,
+      "word": "彩虹",
+      "onboard_time": 1719746537,
+      "rank": 18,
+      "category": "自然"
     },
     {
       "raw_hot": 473462,
@@ -425,6 +473,14 @@
       "onboard_time": 1719729557,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468307,
+      "num": 468307,
+      "word": "多地挪用农村学生营养餐补助",
+      "onboard_time": 1719747378,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464153,
@@ -507,6 +563,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 406568,
+      "num": 299759,
+      "word": "吴彦祖又帅回来了",
+      "onboard_time": 1719746118,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 394637,
       "num": 375821,
       "word": "今年上半年体感最爆的剧",
@@ -568,6 +632,14 @@
       "word": "她从博士后到首席科学家仅用4年",
       "onboard_time": 1719706995,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353554,
+      "num": 353554,
+      "word": "知情人称坠落火箭系天龙三号",
+      "onboard_time": 1719746297,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -649,14 +721,6 @@
       "onboard_time": 1719673939,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 317942,
-      "num": 317942,
-      "word": "你觉得女子怀孕应该是谁来照顾",
-      "onboard_time": 1719745938,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 317171,
@@ -771,28 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266411,
-      "num": 252016,
-      "word": "王星越说买断是有点买不过来了",
-      "onboard_time": 1719746477,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
       "onboard_time": 1719721577,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256280,
-      "num": 256280,
-      "word": "彩虹",
-      "onboard_time": 1719746537,
-      "rank": 18,
-      "category": "自然"
     },
     {
       "raw_hot": 255912,
@@ -851,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238604,
+      "num": 238604,
+      "word": "女生花470元带1条鱼去医院看病",
+      "onboard_time": 1719747198,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234172,
       "num": 234172,
       "word": "于正晒白鹿陈鑫海剧照",
@@ -896,14 +952,6 @@
       "word": "上海仅5张桌的米其林老板娘有多结棍",
       "onboard_time": 1719667159,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217910,
-      "num": 217910,
-      "word": "知情人称坠落火箭系天龙三号",
-      "onboard_time": 1719746297,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204603,
+      "num": 204603,
+      "word": "严浩翔出场方式好city",
+      "onboard_time": 1719749837,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204355,
       "num": 204355,
       "word": "深中通道今日通车",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1719706575,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201816,
+      "num": 201816,
+      "word": "中国U18女篮亚洲杯亚军",
+      "onboard_time": 1719750137,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 201361,
@@ -1043,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194553,
+      "num": 194553,
+      "word": "上海60岁阿姨暴雨送别伊势丹百货",
+      "onboard_time": 1719749237,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194339,
       "num": 194339,
       "word": "于适王影璐首映礼同框",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1719743478,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192611,
+      "num": 192611,
+      "word": "冯禧中传硕士毕业",
+      "onboard_time": 1719750559,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 190497,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1719667159,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189631,
+      "num": 189631,
+      "word": "杨紫G社生图",
+      "onboard_time": 1719750379,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 189297,
@@ -1172,7 +1260,7 @@
     },
     {
       "raw_hot": 176165,
-      "num": 176165,
+      "num": 745860,
       "word": "高考录取期间防范四大骗局",
       "onboard_time": 1719734957,
       "rank": 18,
@@ -1211,14 +1299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 166482,
-      "num": 166482,
-      "word": "吴彦祖又帅回来了",
-      "onboard_time": 1719746118,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165303,
       "num": 152152,
       "word": "杨迪痛哭",
@@ -1251,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161350,
+      "num": 161350,
+      "word": "爸妈我的破烂到家了",
+      "onboard_time": 1719748817,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159350,
       "num": 159350,
       "word": "吴谨言最难熬的时候卡里就200块",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1719672800,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151873,
+      "num": 151873,
+      "word": "孙怡主持村民大会",
+      "onboard_time": 1719749178,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151764,
@@ -1443,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137243,
+      "num": 137243,
+      "word": "Aqours 9周年",
+      "onboard_time": 1719749837,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135586,
       "num": 135586,
       "word": "王鹤棣杀青捧花照",
@@ -1523,12 +1627,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127882,
+      "num": 127882,
+      "word": "薛之谦 有温度的字有诚意的人",
+      "onboard_time": 1719748758,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127735,
       "num": 163080,
       "word": "武磊倒钩破门",
       "onboard_time": 1719671178,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126498,
+      "num": 126498,
+      "word": "j人和P人一起买东西流程",
+      "onboard_time": 1719748338,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 125209,
@@ -1649,6 +1769,14 @@
       "onboard_time": 1719707057,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117424,
+      "num": 117424,
+      "word": "王星越钓鱼",
+      "onboard_time": 1719747257,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 117271,
@@ -1875,6 +2003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101124,
+      "num": 101124,
+      "word": "敖子逸坐娜扎张云龙C位",
+      "onboard_time": 1719750559,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100953,
       "num": 100953,
       "word": "别把自己活成别人的情绪垃圾桶",
@@ -1963,6 +2099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92268,
+      "num": 92268,
+      "word": "马嘉祺给六斤配乐猪八戒背媳妇",
+      "onboard_time": 1719748637,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91820,
+      "num": 91820,
+      "word": "金融消费者",
+      "onboard_time": 1719747498,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90546,
       "num": 139638,
       "word": "张子墨 喜剧人",
@@ -2008,14 +2160,6 @@
       "word": "大四男生拿4年所获证书和老师合影",
       "onboard_time": 1719712697,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86925,
-      "num": 86925,
-      "word": "女生花470元带1条鱼去医院看病",
-      "onboard_time": 1719747198,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2307,11 +2451,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43050,
+      "num": 184825,
+      "word": "畅爽烧烤节沈阳局开烤了",
+      "onboard_time": 1719750258,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 40874,
       "num": 109378,
       "word": "这艘船海上发射火箭成功率百分百",
       "onboard_time": 1719743898,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38779,
+      "num": 320092,
+      "word": "在且末二十四年",
+      "onboard_time": 1719749540,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
