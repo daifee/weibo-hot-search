@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719757027999,
+  "endTime": 1719758055951,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -6883,6 +6883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 881652,
+      "num": 881652,
+      "word": "青3选手蒋智豪称病情加重",
+      "onboard_time": 1719752477,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881021,
       "num": 260650,
       "word": "刘亦菲是历史上首届金鹰女神",
@@ -7185,14 +7193,6 @@
       "onboard_time": 1718630838,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854712,
-      "num": 854712,
-      "word": "青3选手蒋智豪称病情加重",
-      "onboard_time": 1719752477,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 854263,
@@ -7827,6 +7827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807641,
+      "num": 200345,
+      "word": "23岁找工作因年龄大被HR拒绝了",
+      "onboard_time": 1719757639,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 807290,
       "num": 807290,
       "word": "宁德时代回应网传896工作制",
@@ -8009,6 +8017,14 @@
       "onboard_time": 1718027177,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 797230,
+      "num": 797230,
+      "word": "B太 上海打车去新疆",
+      "onboard_time": 1719755060,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 797013,
@@ -9785,14 +9801,6 @@
       "onboard_time": 1718253620,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 709618,
-      "num": 264636,
-      "word": "B太 上海打车去新疆",
-      "onboard_time": 1719755060,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 709241,
@@ -13940,7 +13948,7 @@
     },
     {
       "raw_hot": 565732,
-      "num": 279023,
+      "num": 294460,
       "word": "剑桥偶遇田亮森蝶",
       "onboard_time": 1719751398,
       "rank": 33,
@@ -23555,6 +23563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370990,
+      "num": 210978,
+      "word": "杨紫后悔没带泡面去巴黎",
+      "onboard_time": 1719756319,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370911,
       "num": 367373,
       "word": "江苏网红徒步路线一女孩中暑身亡",
@@ -23689,6 +23705,14 @@
       "onboard_time": 1719712637,
       "rank": 5,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 367674,
+      "num": 367674,
+      "word": "太原理工vs清华大学",
+      "onboard_time": 1719755840,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 367620,
@@ -30283,6 +30307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285405,
+      "num": 285405,
+      "word": "十三香小龙虾居然要用30多种料",
+      "onboard_time": 1719753800,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285387,
       "num": 256766,
       "word": "杨洋 city一下",
@@ -30625,6 +30657,14 @@
       "onboard_time": 1719232039,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281597,
+      "num": 209958,
+      "word": "你介意另一半文化水平低吗",
+      "onboard_time": 1719754819,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 281549,
@@ -31273,14 +31313,6 @@
       "onboard_time": 1718633360,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 274807,
-      "num": 210978,
-      "word": "杨紫后悔没带泡面去巴黎",
-      "onboard_time": 1719756319,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 274624,
@@ -32425,14 +32457,6 @@
       "onboard_time": 1718598378,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264157,
-      "num": 264157,
-      "word": "十三香小龙虾居然要用30多种料",
-      "onboard_time": 1719753800,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 263999,
@@ -34155,6 +34179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245378,
+      "num": 210276,
+      "word": "为什么空调除湿比制冷更凉爽",
+      "onboard_time": 1719755598,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 245340,
       "num": 245340,
       "word": "张杰看谢娜的眼睛里有光",
@@ -35811,12 +35843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232275,
+      "num": 194225,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232249,
       "num": 232249,
       "word": "张馨予回应去巴黎找果冻",
       "onboard_time": 1718757980,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232238,
+      "num": 209944,
+      "word": "普华永道丢掉前8大客户",
+      "onboard_time": 1719755660,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232000,
@@ -38331,14 +38379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216585,
-      "num": 210276,
-      "word": "为什么空调除湿比制冷更凉爽",
-      "onboard_time": 1719755598,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 216578,
       "num": 210416,
       "word": "辛芷蕾脚底板也黑了",
@@ -39011,14 +39051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212659,
-      "num": 209958,
-      "word": "你介意另一半文化水平低吗",
-      "onboard_time": 1719754819,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212652,
       "num": 187846,
       "word": "余宇涵 分组",
@@ -39307,14 +39339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211309,
-      "num": 211309,
-      "word": "太原理工vs清华大学",
-      "onboard_time": 1719755840,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211261,
       "num": 208684,
       "word": "迪丽热巴工作室发图",
@@ -39593,14 +39617,6 @@
       "onboard_time": 1718633059,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209944,
-      "num": 209944,
-      "word": "普华永道丢掉前8大客户",
-      "onboard_time": 1719755660,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209849,
@@ -41507,6 +41523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203371,
+      "num": 203371,
+      "word": "DYG 松弛感",
+      "onboard_time": 1719757880,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203368,
       "num": 249538,
       "word": "姜萍的祖师爷来微博了",
@@ -42401,6 +42425,14 @@
       "onboard_time": 1717554318,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200349,
+      "num": 200349,
+      "word": "F1",
+      "onboard_time": 1719073277,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 200341,
@@ -46955,6 +46987,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 185740,
+      "num": 200285,
+      "word": "STE区域对抗赛吃鸡",
+      "onboard_time": 1719757580,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185736,
       "num": 185736,
       "word": "谁能想到02年医学生被叫爷爷",
@@ -47848,6 +47888,14 @@
       "word": "你好星期六上班直播",
       "onboard_time": 1719217880,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182489,
+      "num": 182489,
+      "word": "朱志鑫认证自己绝对C位",
+      "onboard_time": 1719756199,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -49336,14 +49384,6 @@
       "word": "蓝盈莹演技",
       "onboard_time": 1717853058,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 176866,
-      "num": 176866,
-      "word": "赵今麦张凌赫 苹果吻",
-      "onboard_time": 1719756258,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -52467,14 +52507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165763,
-      "num": 165763,
-      "word": "朱志鑫认证自己绝对C位",
-      "onboard_time": 1719756199,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165757,
       "num": 165757,
       "word": "汪苏泷为歌手提前准备歌单",
@@ -53291,6 +53323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162895,
+      "num": 162895,
+      "word": "EDG晋级第二赛段季后赛",
+      "onboard_time": 1719757580,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162892,
       "num": 162892,
       "word": "范闲真气回来了",
@@ -53401,6 +53441,14 @@
       "onboard_time": 1718623636,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162607,
+      "num": 162607,
+      "word": "身上为什么会突然出现小红点",
+      "onboard_time": 1719757460,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162580,
@@ -79139,14 +79187,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 67819,
-      "num": 191624,
-      "word": "F1",
-      "onboard_time": 1719073277,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67800,
       "num": 352193,
       "word": "此次月球挖土有啥不一样",
@@ -80995,6 +81035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 56548,
+      "num": 816918,
+      "word": "中国式现代化是干出来的",
+      "onboard_time": 1719754099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56481,
       "num": 442067,
       "word": "高考录取期间八大注意事项",
@@ -82244,7 +82292,7 @@
     },
     {
       "raw_hot": 48993,
-      "num": 210456,
+      "num": 314182,
       "word": "飞越伶仃洋",
       "onboard_time": 1719754578,
       "rank": 29,
@@ -82472,14 +82520,6 @@
       "word": "今年端午我最想驱走这五毒",
       "onboard_time": 1717992017,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47624,
-      "num": 737430,
-      "word": "中国式现代化是干出来的",
-      "onboard_time": 1719754099,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

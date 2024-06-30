@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719757027999,
+  "endTime": 1719758055951,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -147,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881652,
+      "num": 881652,
+      "word": "青3选手蒋智豪称病情加重",
+      "onboard_time": 1719752477,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863090,
       "num": 863090,
       "word": "冯禧中传硕士毕业",
       "onboard_time": 1719750559,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 854712,
-      "num": 854712,
-      "word": "青3选手蒋智豪称病情加重",
-      "onboard_time": 1719752477,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -169,6 +169,22 @@
       "onboard_time": 1719732198,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 807641,
+      "num": 200345,
+      "word": "23岁找工作因年龄大被HR拒绝了",
+      "onboard_time": 1719757639,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 797230,
+      "num": 797230,
+      "word": "B太 上海打车去新疆",
+      "onboard_time": 1719755060,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 745777,
@@ -201,14 +217,6 @@
       "onboard_time": 1719722840,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709618,
-      "num": 264636,
-      "word": "B太 上海打车去新疆",
-      "onboard_time": 1719755060,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 677156,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 565732,
-      "num": 279023,
+      "num": 294460,
       "word": "剑桥偶遇田亮森蝶",
       "onboard_time": 1719751398,
       "rank": 33,
@@ -667,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370990,
+      "num": 210978,
+      "word": "杨紫后悔没带泡面去巴黎",
+      "onboard_time": 1719756319,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367914,
       "num": 367914,
       "word": "自动续费应以显著方式提醒消费者",
       "onboard_time": 1719712637,
       "rank": 5,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 367674,
+      "num": 367674,
+      "word": "太原理工vs清华大学",
+      "onboard_time": 1719755840,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 366650,
@@ -899,6 +923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285405,
+      "num": 285405,
+      "word": "十三香小龙虾居然要用30多种料",
+      "onboard_time": 1719753800,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 281597,
+      "num": 209958,
+      "word": "你介意另一半文化水平低吗",
+      "onboard_time": 1719754819,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276043,
       "num": 214292,
       "word": "裴文宣这一口你终于亲上了",
@@ -907,28 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274807,
-      "num": 210978,
-      "word": "杨紫后悔没带泡面去巴黎",
-      "onboard_time": 1719756319,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272051,
       "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
       "onboard_time": 1719728716,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264157,
-      "num": 264157,
-      "word": "十三香小龙虾居然要用30多种料",
-      "onboard_time": 1719753800,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 259373,
@@ -995,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245378,
+      "num": 210276,
+      "word": "为什么空调除湿比制冷更凉爽",
+      "onboard_time": 1719755598,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 244649,
       "num": 244649,
       "word": "珍珠学会下楼梯了",
@@ -1040,6 +1072,22 @@
       "word": "网红面筋哥肝癌晚期进ICU",
       "onboard_time": 1719642498,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232275,
+      "num": 194225,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232238,
+      "num": 209944,
+      "word": "普华永道丢掉前8大客户",
+      "onboard_time": 1719755660,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1091,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216585,
-      "num": 210276,
-      "word": "为什么空调除湿比制冷更凉爽",
-      "onboard_time": 1719755598,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 216528,
       "num": 216528,
       "word": "山寨周杰伦全国巡演暂停",
@@ -1129,30 +1169,6 @@
       "onboard_time": 1719711676,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212659,
-      "num": 209958,
-      "word": "你介意另一半文化水平低吗",
-      "onboard_time": 1719754819,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 211309,
-      "num": 211309,
-      "word": "太原理工vs清华大学",
-      "onboard_time": 1719755840,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209944,
-      "num": 209944,
-      "word": "普华永道丢掉前8大客户",
-      "onboard_time": 1719755660,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209502,
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203371,
+      "num": 203371,
+      "word": "DYG 松弛感",
+      "onboard_time": 1719757880,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203170,
       "num": 203170,
       "word": "苏新皓趋势三代第一",
@@ -1267,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200349,
+      "num": 200349,
+      "word": "F1",
+      "onboard_time": 1719757580,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1719742098,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194840,
+      "num": 183907,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719756979,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 194339,
@@ -1387,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185740,
+      "num": 200285,
+      "word": "STE区域对抗赛吃鸡",
+      "onboard_time": 1719757580,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184971,
       "num": 184971,
       "word": "Uzi谈停播原因",
@@ -1419,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182489,
+      "num": 182489,
+      "word": "朱志鑫认证自己绝对C位",
+      "onboard_time": 1719756199,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179914,
       "num": 179914,
       "word": "仙逆",
@@ -1440,14 +1496,6 @@
       "word": "王星越剧后专场云访谈",
       "onboard_time": 1719733338,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 176866,
-      "num": 176866,
-      "word": "赵今麦张凌赫 苹果吻",
-      "onboard_time": 1719756258,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1491,14 +1539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165763,
-      "num": 165763,
-      "word": "朱志鑫认证自己绝对C位",
-      "onboard_time": 1719756199,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165303,
       "num": 152152,
       "word": "杨迪痛哭",
@@ -1539,12 +1579,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 162895,
+      "num": 162895,
+      "word": "EDG晋级第二赛段季后赛",
+      "onboard_time": 1719757580,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162607,
+      "num": 162607,
+      "word": "身上为什么会突然出现小红点",
+      "onboard_time": 1719757460,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162434,
       "num": 162434,
       "word": "杨和苏挂脸",
       "onboard_time": 1719676278,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162055,
+      "num": 162055,
+      "word": "第五人格心跳特辑",
+      "onboard_time": 1719757699,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 161350,
@@ -1577,14 +1641,6 @@
       "onboard_time": 1719749178,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157887,
-      "num": 157887,
-      "word": "肖战这样介绍家乡国宝",
-      "onboard_time": 1719756979,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 156651,
@@ -2699,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56548,
+      "num": 816918,
+      "word": "中国式现代化是干出来的",
+      "onboard_time": 1719754099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55628,
       "num": 313104,
       "word": "畅爽烧烤节沈阳局开烤了",
@@ -2724,18 +2788,10 @@
     },
     {
       "raw_hot": 48993,
-      "num": 210456,
+      "num": 314182,
       "word": "飞越伶仃洋",
       "onboard_time": 1719754578,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47624,
-      "num": 737430,
-      "word": "中国式现代化是干出来的",
-      "onboard_time": 1719754099,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
