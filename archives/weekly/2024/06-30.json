@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719779662362,
+  "endTime": 1719782393669,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86597,
+      "num": 91316,
+      "word": "西班牙vs格鲁吉亚",
+      "onboard_time": 1719764657,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85453,
       "num": 55249,
       "word": "意大利0比2瑞士",
@@ -2784,14 +2792,6 @@
       "word": "太原理工晋级cubal总决赛",
       "onboard_time": 1719672500,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 77594,
-      "num": 91316,
-      "word": "西班牙vs格鲁吉亚",
-      "onboard_time": 1719764657,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2931,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62504,
+      "num": 62504,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61137,
       "num": 302298,
       "word": "小婴儿在消防员用盆做的船里睡香香",
@@ -3024,6 +3032,14 @@
       "word": "在且末二十四年",
       "onboard_time": 1719749540,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45610,
+      "num": 19738,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3291,12 +3307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16896,
-      "num": 16896,
-      "word": "官方回应2岁幼童高空卖艺后求抱抱",
-      "onboard_time": 1719778871,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 16104,
+      "num": 18483,
+      "word": "两只小狗隔着笼子拍手",
+      "onboard_time": 1719778511,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 14716,
@@ -3313,14 +3329,6 @@
       "onboard_time": 1719719598,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14172,
-      "num": 18339,
-      "word": "两只小狗隔着笼子拍手",
-      "onboard_time": 1719778511,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 13858,
