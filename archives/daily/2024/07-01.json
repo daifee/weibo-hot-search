@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719778794977,
+  "endTime": 1719779662362,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -435,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22237,
-      "num": 22237,
+      "raw_hot": 23858,
+      "num": 23858,
       "word": "网文作者真的很赚钱吗",
       "onboard_time": 1719775391,
       "rank": 44,
@@ -449,6 +449,14 @@
       "onboard_time": 1719774011,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16896,
+      "num": 16896,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16747,
