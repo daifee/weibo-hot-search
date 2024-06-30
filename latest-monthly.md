@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/30 23:20:22
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/30 23:34:39
 </p>
 </blockquote>
 <p>
@@ -5145,6 +5145,12 @@ Angelababy线下生图状态（热度：891895）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%8F%A3%E8%87%AD%E5%8F%AF%E8%83%BD%E6%98%AF%E9%95%BF%E4%BA%86%E6%89%81%E6%A1%83%E4%BD%93%E7%BB%93%E7%9F%B3%23" target="weibo">
+长期口臭可能是长了扁桃体结石（热度：885583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%23" target="weibo">
 安静公主（热度：885218）
 </a>
@@ -6005,12 +6011,6 @@ aespa放送0分（热度：809810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B7%E8%8D%B7%E6%8B%89%E4%BF%9D%E9%99%A9%E7%AE%B1%E7%9B%97%E7%AA%83%E7%8A%AF%E9%AB%98%E6%B8%85%E5%9B%BE%23" target="weibo">
 具荷拉保险箱盗窃犯高清图（热度：800023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%AB%A0%E5%AD%90%E6%80%A1%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E7%BB%BC%E8%89%BA%E6%8E%A5%E6%A1%A3%E6%AD%8C%E6%89%8B%23" target="weibo">
-网传章子怡赵丽颖新综艺接档歌手（热度：799417）
 </a>
 </li>
 
