@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719715122687,
+  "endTime": 1719715713693,
   "band_list": [
     {
       "raw_hot": 1469824,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1175426,
+      "raw_hot": 1186600,
       "num": 1175426,
       "word": "李一桐 蜈蚣",
       "onboard_time": 1719702854,
@@ -19,8 +19,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1033171,
-      "num": 1033171,
+      "raw_hot": 1126469,
+      "num": 1126469,
       "word": "谁家男二20集才有正脸",
       "onboard_time": 1719711196,
       "rank": 7,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601566,
+      "num": 164537,
+      "word": "浙大学霸成为百万粉丝网红",
+      "onboard_time": 1719712637,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596382,
       "num": 158163,
       "word": "当一个重度抑郁女孩没钱做心理咨询",
@@ -91,12 +99,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 573487,
-      "num": 162019,
-      "word": "浙大学霸成为百万粉丝网红",
-      "onboard_time": 1719712637,
+      "raw_hot": 566862,
+      "num": 566862,
+      "word": "为什么马的腿断了必须死",
+      "onboard_time": 1719709398,
       "rank": 21,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 558074,
@@ -105,14 +113,6 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536318,
-      "num": 536318,
-      "word": "为什么马的腿断了必须死",
-      "onboard_time": 1719709398,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 534731,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 372209,
-      "num": 320926,
+      "num": 332147,
       "word": "穆念慈大婚割发断情",
       "onboard_time": 1719712637,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367914,
+      "num": 367914,
+      "word": "自动续费应以显著方式提醒消费者",
+      "onboard_time": 1719712637,
+      "rank": 5,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 361594,
@@ -227,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327072,
-      "num": 327072,
-      "word": "自动续费应以显著方式提醒消费者",
-      "onboard_time": 1719712637,
-      "rank": 5,
-      "category": "社会新闻,互联网"
+      "raw_hot": 319989,
+      "num": 319989,
+      "word": "张杰脱衣服和掉话筒的反差感",
+      "onboard_time": 1719713476,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 319722,
@@ -251,14 +259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 302066,
-      "num": 302066,
-      "word": "张杰脱衣服和掉话筒的反差感",
-      "onboard_time": 1719713476,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 300697,
       "num": 300697,
       "word": "Twins 我很想爱他",
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253897,
+      "num": 155744,
+      "word": "租房真的是进社会的第一课",
+      "onboard_time": 1719709817,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253650,
       "num": 162761,
       "word": "范丞丞说第一次在新说唱闻到血腥味",
@@ -289,14 +297,6 @@
       "onboard_time": 1719666378,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251734,
-      "num": 155744,
-      "word": "租房真的是进社会的第一课",
-      "onboard_time": 1719709817,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 233686,
@@ -339,19 +339,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210764,
+      "num": 152569,
+      "word": "亡夫13万元存款消失当事银行致歉",
+      "onboard_time": 1719714796,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 204355,
+      "word": "深中通道今日通车",
+      "onboard_time": 1719714677,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201994,
+      "num": 154876,
+      "word": "原来喝这些饮料会导致口臭",
+      "onboard_time": 1719706575,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
       "onboard_time": 1719673640,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190388,
-      "num": 190388,
-      "word": "深中通道今日通车",
-      "onboard_time": 1719714677,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -371,12 +387,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 186952,
-      "num": 154876,
-      "word": "原来喝这些饮料会导致口臭",
-      "onboard_time": 1719706575,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "电影默杀提档",
+      "onboard_time": 1719715577,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 186074,
@@ -427,7 +443,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164925,
+      "raw_hot": 167297,
       "num": 164925,
       "word": "许嵩青岛",
       "onboard_time": 1719713178,
@@ -481,14 +497,6 @@
       "onboard_time": 1719706336,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143394,
-      "num": 143394,
-      "word": "亡夫13万元存款消失当事银行致歉",
-      "onboard_time": 1719714796,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143362,
@@ -547,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127963,
+      "num": 127963,
+      "word": "搬家后才知道自己的极简是个笑话",
+      "onboard_time": 1719705674,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127735,
       "num": 163080,
       "word": "武磊倒钩破门",
       "onboard_time": 1719671178,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126242,
-      "num": 126242,
-      "word": "搬家后才知道自己的极简是个笑话",
-      "onboard_time": 1719705674,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 122664,
@@ -625,6 +633,14 @@
       "onboard_time": 1719667459,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109973,
+      "num": 109973,
+      "word": "美洲杯",
+      "onboard_time": 1719715276,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 109522,
@@ -777,6 +793,22 @@
       "onboard_time": 1719672500,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77561,
+      "num": 77561,
+      "word": "奥运冠军杨倩清华大学毕业",
+      "onboard_time": 1719715696,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77089,
+      "num": 77089,
+      "word": "小鬼说我们团梦回大厂",
+      "onboard_time": 1719715696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76032,

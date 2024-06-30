@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719715122687,
+  "endTime": 1719715713693,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3915,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1186600,
+      "num": 1175426,
+      "word": "李一桐 蜈蚣",
+      "onboard_time": 1719702854,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1185910,
       "num": 1185910,
       "word": "高铁晚点 补偿",
@@ -4025,14 +4033,6 @@
       "onboard_time": 1719661877,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1175426,
-      "num": 1175426,
-      "word": "李一桐 蜈蚣",
-      "onboard_time": 1719702854,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 1175294,
@@ -4449,6 +4449,14 @@
       "onboard_time": 1717574298,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126469,
+      "num": 1126469,
+      "word": "谁家男二20集才有正脸",
+      "onboard_time": 1719711196,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1124395,
@@ -5201,14 +5209,6 @@
       "onboard_time": 1719281719,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1033171,
-      "num": 1033171,
-      "word": "谁家男二20集才有正脸",
-      "onboard_time": 1719711196,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1032137,
@@ -12523,6 +12523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601566,
+      "num": 164537,
+      "word": "浙大学霸成为百万粉丝网红",
+      "onboard_time": 1719712637,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601555,
       "num": 601555,
       "word": "FPX小老虎不打了",
@@ -13435,14 +13443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573487,
-      "num": 162019,
-      "word": "浙大学霸成为百万粉丝网红",
-      "onboard_time": 1719712637,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573278,
       "num": 573278,
       "word": "刘亦菲林更新脸颊吻",
@@ -13633,6 +13633,14 @@
       "onboard_time": 1719455477,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566862,
+      "num": 566862,
+      "word": "为什么马的腿断了必须死",
+      "onboard_time": 1719709398,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 566571,
@@ -14705,14 +14713,6 @@
       "onboard_time": 1719645378,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536318,
-      "num": 536318,
-      "word": "为什么马的腿断了必须死",
-      "onboard_time": 1719709398,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 535944,
@@ -22988,7 +22988,7 @@
     },
     {
       "raw_hot": 372209,
-      "num": 320926,
+      "num": 332147,
       "word": "穆念慈大婚割发断情",
       "onboard_time": 1719712637,
       "rank": 6,
@@ -23225,6 +23225,14 @@
       "onboard_time": 1718272158,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367914,
+      "num": 367914,
+      "word": "自动续费应以显著方式提醒消费者",
+      "onboard_time": 1719712637,
+      "rank": 5,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 367620,
@@ -26187,14 +26195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327072,
-      "num": 327072,
-      "word": "自动续费应以显著方式提醒消费者",
-      "onboard_time": 1719712637,
-      "rank": 5,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 326913,
       "num": 326913,
       "word": "高考生催更墨雨云间",
@@ -26705,6 +26705,14 @@
       "onboard_time": 1719656178,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319989,
+      "num": 319989,
+      "word": "张杰脱衣服和掉话筒的反差感",
+      "onboard_time": 1719713476,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 319871,
@@ -28057,14 +28065,6 @@
       "onboard_time": 1718799620,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302066,
-      "num": 302066,
-      "word": "张杰脱衣服和掉话筒的反差感",
-      "onboard_time": 1719713476,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 301903,
@@ -32627,6 +32627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253897,
+      "num": 155744,
+      "word": "租房真的是进社会的第一课",
+      "onboard_time": 1719709817,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253885,
       "num": 253885,
       "word": "你顶着这张脸她能图什么",
@@ -32793,14 +32801,6 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251734,
-      "num": 155744,
-      "word": "租房真的是进社会的第一课",
-      "onboard_time": 1719709817,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 251695,
@@ -38571,6 +38571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210764,
+      "num": 152569,
+      "word": "亡夫13万元存款消失当事银行致歉",
+      "onboard_time": 1719714796,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210741,
       "num": 188197,
       "word": "王一博白色无袖",
@@ -40387,6 +40395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204355,
+      "num": 204355,
+      "word": "深中通道今日通车",
+      "onboard_time": 1719714677,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204349,
       "num": 331371,
       "word": "把牛奶当水喝能长高吗",
@@ -41065,6 +41081,14 @@
       "onboard_time": 1717571596,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 201994,
+      "num": 154876,
+      "word": "原来喝这些饮料会导致口臭",
+      "onboard_time": 1719706575,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201968,
@@ -44571,14 +44595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190388,
-      "num": 190388,
-      "word": "深中通道今日通车",
-      "onboard_time": 1719714677,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190356,
       "num": 190356,
       "word": "女单 精彩",
@@ -45017,6 +45033,14 @@
       "onboard_time": 1719046698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "电影默杀提档",
+      "onboard_time": 1719715577,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 188818,
@@ -45585,14 +45609,6 @@
       "onboard_time": 1717813458,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186952,
-      "num": 154876,
-      "word": "原来喝这些饮料会导致口臭",
-      "onboard_time": 1719706575,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 186932,
@@ -50955,6 +50971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167297,
+      "num": 164925,
+      "word": "许嵩青岛",
+      "onboard_time": 1719713178,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "林娜琏签了370张拍立得送给粉丝",
@@ -51657,14 +51681,6 @@
       "onboard_time": 1718258238,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 164925,
-      "num": 164925,
-      "word": "许嵩青岛",
-      "onboard_time": 1719713178,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 164902,
@@ -58867,14 +58883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143394,
-      "num": 143394,
-      "word": "亡夫13万元存款消失当事银行致歉",
-      "onboard_time": 1719714796,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143376,
       "num": 143376,
       "word": "终于知道为什么工作党考研上岸率高了",
@@ -64211,6 +64219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127963,
+      "num": 127963,
+      "word": "搬家后才知道自己的极简是个笑话",
+      "onboard_time": 1719705674,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127950,
       "num": 127950,
       "word": "官方通报中学男班主任猥亵男同学",
@@ -64937,14 +64953,6 @@
       "onboard_time": 1718461399,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126242,
-      "num": 126242,
-      "word": "搬家后才知道自己的极简是个笑话",
-      "onboard_time": 1719705674,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 126231,
@@ -70233,6 +70241,14 @@
       "onboard_time": 1719653357,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109973,
+      "num": 109973,
+      "word": "美洲杯",
+      "onboard_time": 1719348071,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 109949,
@@ -76075,6 +76091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 77561,
+      "num": 77561,
+      "word": "奥运冠军杨倩清华大学毕业",
+      "onboard_time": 1719715696,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77530,
       "num": 77530,
       "word": "唐诗逸让女战神具象化了",
@@ -76145,6 +76169,14 @@
       "onboard_time": 1718310010,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 77089,
+      "num": 77089,
+      "word": "小鬼说我们团梦回大厂",
+      "onboard_time": 1719715696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76995,
@@ -83105,14 +83137,6 @@
       "onboard_time": 1719692111,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33014,
-      "num": 33014,
-      "word": "美洲杯",
-      "onboard_time": 1719348071,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 32973,
