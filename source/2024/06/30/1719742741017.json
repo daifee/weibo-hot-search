@@ -1,0 +1,410 @@
+{
+  "runTime": 1719742741017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1118422,
+        "num": 1118422,
+        "word": "火箭",
+        "onboard_time": 1719739037,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951619,
+        "num": 951619,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50265,
+        "num": 832665,
+        "word": "龙腾湾区桥见未来",
+        "onboard_time": 1719735616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831256,
+        "num": 831256,
+        "word": "孙海洋回应孙卓高考成绩",
+        "onboard_time": 1719734117,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720754,
+        "num": 720754,
+        "word": "女孩差点被带走父亲查监控像人贩子",
+        "onboard_time": 1719737057,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661544,
+        "num": 661544,
+        "word": "伊拉克男子妻儿丧生后性侵同船少女",
+        "onboard_time": 1719737778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619686,
+        "num": 619686,
+        "word": "猎罪图鉴3恶魔监狱",
+        "onboard_time": 1719740416,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506046,
+        "num": 571093,
+        "word": "谁家综艺一下来两壮壮妈啊",
+        "onboard_time": 1719736458,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440966,
+        "num": 549293,
+        "word": "赵今麦张凌赫双人大片",
+        "onboard_time": 1719740718,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72779,
+        "num": 545715,
+        "word": "货车鱼撒高速20多人下车帮捡",
+        "onboard_time": 1719741438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542771,
+        "num": 542771,
+        "word": "陈志朋53岁再签新公司",
+        "onboard_time": 1719741318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539806,
+        "num": 539806,
+        "word": "吴谨言王星越拍芭莎",
+        "onboard_time": 1719739217,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 524893,
+        "num": 524893,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424575,
+        "num": 424575,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405426,
+        "num": 405426,
+        "word": "巩义",
+        "onboard_time": 1719737177,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401586,
+        "num": 401586,
+        "word": "河南官方回应火箭起火坠落",
+        "onboard_time": 1719742157,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396906,
+        "num": 396906,
+        "word": "美国网红鼻祖自曝16岁起遭性虐待",
+        "onboard_time": 1719730816,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366650,
+        "num": 366650,
+        "word": "网红面筋哥女友发声",
+        "onboard_time": 1719739217,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341622,
+        "num": 341622,
+        "word": "刘畊宏纪凌尘腋下管理的极与极",
+        "onboard_time": 1719732198,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277358,
+        "num": 277358,
+        "word": "日本拉面店禁止食客用耳机",
+        "onboard_time": 1719724459,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247434,
+        "num": 247434,
+        "word": "空调开一会关一会更省电吗",
+        "onboard_time": 1719732976,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 244649,
+        "num": 244649,
+        "word": "珍珠学会下楼梯了",
+        "onboard_time": 1719738557,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216528,
+        "num": 216528,
+        "word": "山寨周杰伦全国巡演暂停",
+        "onboard_time": 1719741318,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210490,
+        "num": 210490,
+        "word": "子宫内膜异位症",
+        "onboard_time": 1719736337,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41767,
+        "num": 210218,
+        "word": "亿元车队首穿深中通道",
+        "onboard_time": 1719741557,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210213,
+        "num": 210213,
+        "word": "黄子韬徐艺洋一路上都在拌嘴",
+        "onboard_time": 1719730937,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201361,
+        "num": 201361,
+        "word": "体育生谈国家级运动员证造假上名校",
+        "onboard_time": 1719738976,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196373,
+        "num": 196373,
+        "word": "时代峰峻剪辑张泽禹投票第一",
+        "onboard_time": 1719737477,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194935,
+        "num": 194935,
+        "word": "吴谨言下一部剧还是古偶",
+        "onboard_time": 1719742098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102648,
+        "num": 174713,
+        "word": "现实中的阿勒泰夏季转场来了",
+        "onboard_time": 1719738976,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174385,
+        "num": 174385,
+        "word": "婚恋中伴侣长嘴有多重要",
+        "onboard_time": 1719742397,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173378,
+        "num": 173378,
+        "word": "微信朋友圈置顶新玩法",
+        "onboard_time": 1719733217,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167463,
+        "num": 167463,
+        "word": "阴干的衣服为什么有股臭味",
+        "onboard_time": 1719734238,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 159174,
+        "word": "Angelababy 辛巴直播",
+        "onboard_time": 1719728358,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 153006,
+        "word": "吴谨言最难熬的时候卡里就200块",
+        "onboard_time": 1719742216,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136212,
+        "num": 136212,
+        "word": "张馨予好细的腰",
+        "onboard_time": 1719736579,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135408,
+        "num": 135408,
+        "word": "王星越回应在曹操赛道飞速成长",
+        "onboard_time": 1719741078,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134155,
+        "num": 134155,
+        "word": "Meiko的工作报告",
+        "onboard_time": 1719742278,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133899,
+        "num": 133899,
+        "word": "杨迪的狗安乐死了",
+        "onboard_time": 1719718097,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133818,
+        "num": 133818,
+        "word": "天兵科技",
+        "onboard_time": 1719739997,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133558,
+        "num": 133558,
+        "word": "李晨说这个节目屏蔽了国内百分之九十的演员",
+        "onboard_time": 1719739097,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119271,
+        "num": 119271,
+        "word": "吴昕 陈昊宇依然需要自我介绍",
+        "onboard_time": 1719729557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118554,
+        "num": 118554,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116999,
+        "num": 116999,
+        "word": "广东中考",
+        "onboard_time": 1719740597,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35630,
+        "num": 116033,
+        "word": "俄称一天击落乌119架无人机",
+        "onboard_time": 1719741976,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115080,
+        "num": 115080,
+        "word": "WB对战TES",
+        "onboard_time": 1719741857,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113249,
+        "num": 113249,
+        "word": "王星越来翻牌了",
+        "onboard_time": 1719739577,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108923,
+        "num": 108923,
+        "word": "肖战到杭州",
+        "onboard_time": 1719727938,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107620,
+        "num": 107620,
+        "word": "中国游客在日本消费新三样",
+        "onboard_time": 1719726256,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107597,
+        "num": 107597,
+        "word": "典型infp一天都在干什么",
+        "onboard_time": 1719741919,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向参与规划建设深中通道的同志致以问候#"
+    }
+  }
+}
