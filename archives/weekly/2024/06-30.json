@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719764638243,
+  "endTime": 1719765564923,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503889,
+      "num": 503889,
+      "word": "妈妈是清华的儿子也是清华的",
+      "onboard_time": 1719761659,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499235,
       "num": 549293,
       "word": "赵今麦张凌赫双人大片",
@@ -617,14 +625,6 @@
       "onboard_time": 1719734238,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 449129,
-      "num": 449129,
-      "word": "妈妈是清华的儿子也是清华的",
-      "onboard_time": 1719761659,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 446509,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 299960,
-      "num": 238336,
+      "num": 263399,
       "word": "许玮甯说邱泽私下很可爱",
       "onboard_time": 1719753438,
       "rank": 43,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1719715696,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295498,
+      "num": 295498,
+      "word": "英格兰vs斯洛伐克",
+      "onboard_time": 1719759139,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 293204,
@@ -1787,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154792,
+      "num": 154792,
+      "word": "以色列民众示威要求提前大选结束冲突",
+      "onboard_time": 1719762858,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1719742937,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142259,
-      "num": 142259,
-      "word": "英格兰vs斯洛伐克",
-      "onboard_time": 1719759139,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 142251,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1719745757,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124035,
-      "num": 124035,
-      "word": "以色列民众示威要求提前大选结束冲突",
-      "onboard_time": 1719762858,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 123974,
@@ -2787,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77594,
+      "num": 77594,
+      "word": "西班牙vs格鲁吉亚",
+      "onboard_time": 1719764657,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76735,
       "num": 192137,
       "word": "一半一半的智慧",
@@ -3211,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23346,
+      "num": 321081,
+      "word": "2024年进度条已过一半",
+      "onboard_time": 1719763878,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 22987,
       "num": 110890,
       "word": "白乌边境地区局势紧张",
@@ -3225,14 +3241,6 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20458,
-      "num": 321081,
-      "word": "2024年进度条已过一半",
-      "onboard_time": 1719763878,
-      "rank": 9,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 18014,

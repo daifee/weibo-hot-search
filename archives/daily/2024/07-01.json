@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719764638243,
+  "endTime": 1719765564923,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514890,
+      "num": 295427,
+      "word": "张杰谢娜牵手下班",
+      "onboard_time": 1719759560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513332,
       "num": 513332,
       "word": "1997年7月1日0时0分0秒",
@@ -35,16 +43,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 492306,
-      "num": 295427,
-      "word": "张杰谢娜牵手下班",
-      "onboard_time": 1719759560,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 503889,
+      "num": 503889,
+      "word": "妈妈是清华的儿子也是清华的",
+      "onboard_time": 1719761659,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 478935,
-      "num": 279838,
+      "num": 280608,
       "word": "周翊然 像鹿晗",
       "onboard_time": 1719749777,
       "rank": 11,
@@ -52,19 +60,11 @@
     },
     {
       "raw_hot": 455586,
-      "num": 257246,
+      "num": 276295,
       "word": "于正说不明白吴谨言受了啥委屈",
       "onboard_time": 1719745938,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449129,
-      "num": 449129,
-      "word": "妈妈是清华的儿子也是清华的",
-      "onboard_time": 1719761659,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 444351,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 400533,
-      "num": 250914,
+      "num": 269279,
       "word": "来月经前为啥很想吃甜食",
       "onboard_time": 1719759858,
       "rank": 13,
@@ -115,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295498,
+      "num": 295498,
+      "word": "英格兰vs斯洛伐克",
+      "onboard_time": 1719759139,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263606,
       "num": 141810,
       "word": "如何用3周瘦42斤",
@@ -123,20 +131,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 263399,
+      "num": 263399,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241106,
       "num": 141640,
       "word": "身上为什么会突然出现小红点",
       "onboard_time": 1719757460,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 236776,
-      "num": 236776,
-      "word": "许玮甯说邱泽私下很可爱",
-      "onboard_time": 1719753438,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 225968,
@@ -171,12 +179,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165110,
+      "num": 140811,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155235,
       "num": 141222,
       "word": "你介意另一半文化水平低吗",
       "onboard_time": 1719754819,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154792,
+      "num": 154792,
+      "word": "以色列民众示威要求提前大选结束冲突",
+      "onboard_time": 1719762858,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 153113,
+      "num": 125170,
+      "word": "张杰重庆万人火锅点菜",
+      "onboard_time": 1719761000,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 152963,
@@ -195,28 +227,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146767,
-      "num": 140811,
-      "word": "赵今麦张凌赫 苹果吻",
-      "onboard_time": 1719756258,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144625,
       "num": 144625,
       "word": "你觉得女子怀孕应该是谁来照顾",
       "onboard_time": 1719745938,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142259,
-      "num": 142259,
-      "word": "英格兰vs斯洛伐克",
-      "onboard_time": 1719759139,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 141391,
@@ -249,22 +265,6 @@
       "onboard_time": 1719746477,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125170,
-      "num": 125170,
-      "word": "张杰重庆万人火锅点菜",
-      "onboard_time": 1719761000,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 124035,
-      "num": 124035,
-      "word": "以色列民众示威要求提前大选结束冲突",
-      "onboard_time": 1719762858,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 111697,
@@ -387,7 +387,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26667,
+      "raw_hot": 77594,
+      "num": 77594,
+      "word": "西班牙vs格鲁吉亚",
+      "onboard_time": 1719764657,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29483,
       "num": 545360,
       "word": "中国式现代化是干出来的",
       "onboard_time": 1719754099,
@@ -395,7 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20458,
+      "raw_hot": 23346,
       "num": 321081,
       "word": "2024年进度条已过一半",
       "onboard_time": 1719763878,
