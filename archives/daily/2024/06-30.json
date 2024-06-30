@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719758055951,
+  "endTime": 1719760822481,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 1092928,
-      "num": 319612,
+      "num": 323800,
       "word": "周翊然 像鹿晗",
       "onboard_time": 1719749777,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1090587,
+      "num": 200345,
+      "word": "23岁找工作因年龄大被HR拒绝了",
+      "onboard_time": 1719757639,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 990741,
@@ -124,11 +132,19 @@
     },
     {
       "raw_hot": 937587,
-      "num": 319147,
+      "num": 322558,
       "word": "于正说不明白吴谨言受了啥委屈",
       "onboard_time": 1719745938,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 918416,
+      "num": 918416,
+      "word": "B太 上海打车去新疆",
+      "onboard_time": 1719755060,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 909880,
@@ -171,22 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 807641,
-      "num": 200345,
-      "word": "23岁找工作因年龄大被HR拒绝了",
-      "onboard_time": 1719757639,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 797230,
-      "num": 797230,
-      "word": "B太 上海打车去新疆",
-      "onboard_time": 1719755060,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 745777,
       "num": 745777,
       "word": "天兵科技回应火箭起火爆炸",
@@ -207,6 +207,14 @@
       "num": 720754,
       "word": "女孩差点被带走父亲查监控像人贩子",
       "onboard_time": 1719737057,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713383,
+      "num": 713383,
+      "word": "业主砍断高空作业工人绳索",
+      "onboard_time": 1719759081,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -241,6 +249,14 @@
       "onboard_time": 1719737778,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653348,
+      "num": 317398,
+      "word": "张杰谢娜牵手下班",
+      "onboard_time": 1719759560,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 652116,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 565732,
-      "num": 294460,
+      "num": 312763,
       "word": "剑桥偶遇田亮森蝶",
       "onboard_time": 1719751398,
       "rank": 33,
@@ -449,6 +465,14 @@
       "onboard_time": 1719717377,
       "rank": 24,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 521470,
+      "num": 521470,
+      "word": "恋爱兄妹",
+      "onboard_time": 1719759380,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 519384,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445328,
+      "num": 445328,
+      "word": "太原理工vs清华大学",
+      "onboard_time": 1719755840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443284,
       "num": 425047,
       "word": "杨紫G社生图",
@@ -609,6 +641,14 @@
       "onboard_time": 1719732976,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 429011,
+      "num": 209958,
+      "word": "你介意另一半文化水平低吗",
+      "onboard_time": 1719754819,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 426810,
@@ -635,12 +675,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420588,
+      "num": 191104,
+      "word": "身上为什么会突然出现小红点",
+      "onboard_time": 1719757460,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 394637,
       "num": 375821,
       "word": "今年上半年体感最爆的剧",
       "onboard_time": 1719667276,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388268,
+      "num": 388268,
+      "word": "DYG 松弛感",
+      "onboard_time": 1719757880,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 384409,
@@ -675,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371462,
+      "num": 371462,
+      "word": "白桃星座",
+      "onboard_time": 1719759018,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370990,
       "num": 210978,
       "word": "杨紫后悔没带泡面去巴黎",
@@ -691,12 +755,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 367674,
-      "num": 367674,
-      "word": "太原理工vs清华大学",
-      "onboard_time": 1719755840,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 367044,
+      "num": 190335,
+      "word": "长期口臭可能是长了扁桃体结石",
+      "onboard_time": 1719759920,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366650,
@@ -761,6 +825,14 @@
       "onboard_time": 1719737477,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342454,
+      "num": 210276,
+      "word": "为什么空调除湿比制冷更凉爽",
+      "onboard_time": 1719755598,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 340461,
@@ -899,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299242,
+      "num": 299242,
+      "word": "直播间花499元抢了条假金链子",
+      "onboard_time": 1719758779,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297041,
       "num": 297041,
       "word": "小鬼说我们团梦回大厂",
@@ -931,14 +1011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 281597,
-      "num": 209958,
-      "word": "你介意另一半文化水平低吗",
-      "onboard_time": 1719754819,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 276043,
       "num": 214292,
       "word": "裴文宣这一口你终于亲上了",
@@ -953,6 +1025,22 @@
       "onboard_time": 1719728716,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267513,
+      "num": 194225,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259534,
+      "num": 220701,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 259373,
@@ -1011,20 +1099,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251847,
+      "num": 188158,
+      "word": "如何用3周瘦42斤",
+      "onboard_time": 1719758959,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 250726,
       "num": 250726,
       "word": "行程图",
       "onboard_time": 1719717858,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245378,
-      "num": 210276,
-      "word": "为什么空调除湿比制冷更凉爽",
-      "onboard_time": 1719755598,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 244649,
@@ -1035,12 +1123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238992,
-      "num": 220701,
-      "word": "许玮甯说邱泽私下很可爱",
-      "onboard_time": 1719753438,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 238863,
+      "num": 238863,
+      "word": "来月经前为啥很想吃甜食",
+      "onboard_time": 1719759858,
+      "rank": 17,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 238604,
@@ -1075,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232275,
-      "num": 194225,
-      "word": "赵今麦张凌赫 苹果吻",
-      "onboard_time": 1719756258,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 232794,
+      "num": 232794,
+      "word": "F1",
+      "onboard_time": 1719757580,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 232238,
@@ -1227,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203371,
-      "num": 203371,
-      "word": "DYG 松弛感",
-      "onboard_time": 1719757880,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 203170,
       "num": 203170,
       "word": "苏新皓趋势三代第一",
@@ -1283,20 +1363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201697,
+      "num": 188012,
+      "word": "鹭卓 杭州站",
+      "onboard_time": 1719760339,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "体育生谈国家级运动员证造假上名校",
       "onboard_time": 1719738976,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200349,
-      "num": 200349,
-      "word": "F1",
-      "onboard_time": 1719757580,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 199988,
@@ -1307,12 +1387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199725,
+      "num": 187047,
+      "word": "维斯塔潘与诺里斯碰撞",
+      "onboard_time": 1719759739,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198983,
       "num": 198983,
       "word": "李晨说这个节目屏蔽了国内百分之九十的演员",
       "onboard_time": 1719739097,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198051,
+      "num": 186771,
+      "word": "张碧晨演唱会",
+      "onboard_time": 1719759679,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 197558,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1719743478,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192495,
+      "num": 192495,
+      "word": "PEL赛区太city啦",
+      "onboard_time": 1719759858,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 190497,
@@ -1459,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184178,
+      "num": 184178,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1719760459,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "瑞士vs意大利",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1719734957,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174127,
+      "num": 174127,
+      "word": "张杰出新应援棒了",
+      "onboard_time": 1719758180,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 170886,
@@ -1585,14 +1705,6 @@
       "onboard_time": 1719757580,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162607,
-      "num": 162607,
-      "word": "身上为什么会突然出现小红点",
-      "onboard_time": 1719757460,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162434,
@@ -1809,6 +1921,14 @@
       "onboard_time": 1719736638,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138954,
+      "num": 138954,
+      "word": "英格兰vs斯洛伐克",
+      "onboard_time": 1719759139,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138077,
@@ -2611,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76735,
+      "num": 192137,
+      "word": "一半一半的智慧",
+      "onboard_time": 1719758839,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76032,
       "num": 139370,
       "word": "网传中学及卫生院全体职工为人守灵",
@@ -2985,6 +3113,14 @@
       "onboard_time": 1719697391,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 29841,
+      "num": 190924,
+      "word": "梅雨将尽的西湖美出新境界",
+      "onboard_time": 1719758299,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 29186,

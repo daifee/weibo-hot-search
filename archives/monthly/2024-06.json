@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719758055951,
+  "endTime": 1719760822481,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -4876,7 +4876,7 @@
     },
     {
       "raw_hot": 1092928,
-      "num": 319612,
+      "num": 323800,
       "word": "周翊然 像鹿晗",
       "onboard_time": 1719749777,
       "rank": 11,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1719455716,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1090587,
+      "num": 200345,
+      "word": "23岁找工作因年龄大被HR拒绝了",
+      "onboard_time": 1719757639,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1089979,
@@ -6244,7 +6252,7 @@
     },
     {
       "raw_hot": 937587,
-      "num": 319147,
+      "num": 322558,
       "word": "于正说不明白吴谨言受了啥委屈",
       "onboard_time": 1719745938,
       "rank": 26,
@@ -6481,6 +6489,14 @@
       "onboard_time": 1718341820,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 918416,
+      "num": 918416,
+      "word": "B太 上海打车去新疆",
+      "onboard_time": 1719755060,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 918209,
@@ -7827,14 +7843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 807641,
-      "num": 200345,
-      "word": "23岁找工作因年龄大被HR拒绝了",
-      "onboard_time": 1719757639,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 807290,
       "num": 807290,
       "word": "宁德时代回应网传896工作制",
@@ -8017,14 +8025,6 @@
       "onboard_time": 1718027177,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 797230,
-      "num": 797230,
-      "word": "B太 上海打车去新疆",
-      "onboard_time": 1719755060,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 797013,
@@ -9707,6 +9707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 713383,
+      "num": 713383,
+      "word": "业主砍断高空作业工人绳索",
+      "onboard_time": 1719759081,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713008,
       "num": 713008,
       "word": "孙颖莎4比3王曼昱",
@@ -11337,6 +11345,14 @@
       "onboard_time": 1719404418,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 653348,
+      "num": 317398,
+      "word": "张杰谢娜牵手下班",
+      "onboard_time": 1719759560,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 653224,
@@ -13948,7 +13964,7 @@
     },
     {
       "raw_hot": 565732,
-      "num": 294460,
+      "num": 312763,
       "word": "剑桥偶遇田亮森蝶",
       "onboard_time": 1719751398,
       "rank": 33,
@@ -15641,6 +15657,14 @@
       "onboard_time": 1718753715,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 521470,
+      "num": 521470,
+      "word": "恋爱兄妹",
+      "onboard_time": 1717759458,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 521342,
@@ -19195,6 +19219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445328,
+      "num": 445328,
+      "word": "太原理工vs清华大学",
+      "onboard_time": 1719755840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445064,
       "num": 393388,
       "word": "丝芭曾为鞠婧祎定制四部剧",
@@ -20195,6 +20227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429011,
+      "num": 209958,
+      "word": "你介意另一半文化水平低吗",
+      "onboard_time": 1719754819,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428754,
       "num": 428754,
       "word": "歌手编曲 拉垮",
@@ -20745,6 +20785,14 @@
       "onboard_time": 1717469237,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 420588,
+      "num": 191104,
+      "word": "身上为什么会突然出现小红点",
+      "onboard_time": 1719757460,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 420516,
@@ -22563,6 +22611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388268,
+      "num": 388268,
+      "word": "DYG 松弛感",
+      "onboard_time": 1719757880,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 388254,
       "num": 211592,
       "word": "为什么不建议你喝太多苏打水",
@@ -23515,6 +23571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371462,
+      "num": 371462,
+      "word": "白桃星座",
+      "onboard_time": 1717373117,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371444,
       "num": 371444,
       "word": "波兰vs荷兰",
@@ -23707,14 +23771,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 367674,
-      "num": 367674,
-      "word": "太原理工vs清华大学",
-      "onboard_time": 1719755840,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 367620,
       "num": 209081,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
@@ -23761,6 +23817,14 @@
       "onboard_time": 1717143797,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367044,
+      "num": 190335,
+      "word": "长期口臭可能是长了扁桃体结石",
+      "onboard_time": 1719759920,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366985,
@@ -25545,6 +25609,14 @@
       "onboard_time": 1718170459,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342454,
+      "num": 210276,
+      "word": "为什么空调除湿比制冷更凉爽",
+      "onboard_time": 1719755598,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 342414,
@@ -28915,6 +28987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299242,
+      "num": 299242,
+      "word": "直播间花499元抢了条假金链子",
+      "onboard_time": 1719758779,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299052,
       "num": 299052,
       "word": "朱朱 蔡蔡",
@@ -29915,14 +29995,6 @@
       "category": "读书作家,教育"
     },
     {
-      "raw_hot": 289210,
-      "num": 289210,
-      "word": "白桃星座",
-      "onboard_time": 1717373117,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289056,
       "num": 289056,
       "word": "阴阳师皮肤",
@@ -30657,14 +30729,6 @@
       "onboard_time": 1719232039,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 281597,
-      "num": 209958,
-      "word": "你介意另一半文化水平低吗",
-      "onboard_time": 1719754819,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 281549,
@@ -32099,14 +32163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267830,
-      "num": 256307,
-      "word": "恋爱兄妹",
-      "onboard_time": 1717759458,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267756,
       "num": 267756,
       "word": "歌手最好笑的图出现了",
@@ -32153,6 +32209,14 @@
       "onboard_time": 1718164760,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267513,
+      "num": 194225,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 267394,
@@ -32793,6 +32857,14 @@
       "onboard_time": 1718508738,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259534,
+      "num": 220701,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 259449,
@@ -33491,6 +33563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251847,
+      "num": 188158,
+      "word": "如何用3周瘦42斤",
+      "onboard_time": 1719758959,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 251799,
       "num": 251799,
       "word": "周深演唱会抢票",
@@ -34177,14 +34257,6 @@
       "onboard_time": 1719493400,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245378,
-      "num": 210276,
-      "word": "为什么空调除湿比制冷更凉爽",
-      "onboard_time": 1719755598,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 245340,
@@ -34947,12 +35019,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 238992,
-      "num": 220701,
-      "word": "许玮甯说邱泽私下很可爱",
-      "onboard_time": 1719753438,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 238863,
+      "num": 238863,
+      "word": "来月经前为啥很想吃甜食",
+      "onboard_time": 1719759858,
+      "rank": 17,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 238798,
@@ -35787,6 +35859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232794,
+      "num": 232794,
+      "word": "F1",
+      "onboard_time": 1719073277,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -35840,14 +35920,6 @@
       "word": "你居然敢亵渎我的艺术",
       "onboard_time": 1719669199,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232275,
-      "num": 194225,
-      "word": "赵今麦张凌赫 苹果吻",
-      "onboard_time": 1719756258,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -41523,14 +41595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 203371,
-      "num": 203371,
-      "word": "DYG 松弛感",
-      "onboard_time": 1719757880,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 203368,
       "num": 249538,
       "word": "姜萍的祖师爷来微博了",
@@ -42059,6 +42123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201697,
+      "num": 188012,
+      "word": "鹭卓 杭州站",
+      "onboard_time": 1719760339,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201670,
       "num": 201670,
       "word": "端午安康",
@@ -42427,14 +42499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200349,
-      "num": 200349,
-      "word": "F1",
-      "onboard_time": 1719073277,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200341,
       "num": 200341,
       "word": "刘诗诗丝绒红裙",
@@ -42665,6 +42729,14 @@
       "onboard_time": 1719462918,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199725,
+      "num": 187047,
+      "word": "维斯塔潘与诺里斯碰撞",
+      "onboard_time": 1719759739,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 199722,
@@ -43281,6 +43353,14 @@
       "onboard_time": 1717679419,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198051,
+      "num": 186771,
+      "word": "张碧晨演唱会",
+      "onboard_time": 1719759679,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 198033,
@@ -44921,6 +45001,14 @@
       "onboard_time": 1719458419,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192495,
+      "num": 192495,
+      "word": "PEL赛区太city啦",
+      "onboard_time": 1719759858,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 192492,
@@ -50139,6 +50227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174127,
+      "num": 174127,
+      "word": "张杰出新应援棒了",
+      "onboard_time": 1719758180,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174064,
       "num": 174064,
       "word": "张常宁进入拟退役运动员公示名单",
@@ -53441,14 +53537,6 @@
       "onboard_time": 1718623636,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162607,
-      "num": 162607,
-      "word": "身上为什么会突然出现小红点",
-      "onboard_time": 1719757460,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162580,
@@ -61553,6 +61641,14 @@
       "onboard_time": 1719736638,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138954,
+      "num": 138954,
+      "word": "英格兰vs斯洛伐克",
+      "onboard_time": 1719759139,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138931,
@@ -77971,6 +78067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76735,
+      "num": 192137,
+      "word": "一半一半的智慧",
+      "onboard_time": 1719758839,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76672,
       "num": 460810,
       "word": "有关高考的独家记忆",
@@ -85625,6 +85729,14 @@
       "onboard_time": 1719697391,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 29841,
+      "num": 190924,
+      "word": "梅雨将尽的西湖美出新境界",
+      "onboard_time": 1719758299,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 29778,
