@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719718582277,
+  "endTime": 1719721327222,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3513,6 +3513,14 @@
       "onboard_time": 1719141378,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1245688,
+      "num": 513701,
+      "word": "杨迪的狗安乐死了",
+      "onboard_time": 1719718097,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1244043,
@@ -12540,7 +12548,7 @@
     },
     {
       "raw_hot": 601566,
-      "num": 172029,
+      "num": 190969,
       "word": "浙大学霸成为百万粉丝网红",
       "onboard_time": 1719712637,
       "rank": 21,
@@ -12964,7 +12972,7 @@
     },
     {
       "raw_hot": 588890,
-      "num": 166681,
+      "num": 198490,
       "word": "为什么韩系在中国不流行了",
       "onboard_time": 1719710956,
       "rank": 24,
@@ -14780,7 +14788,7 @@
     },
     {
       "raw_hot": 534731,
-      "num": 160769,
+      "num": 178900,
       "word": "韩国济州岛旅游遭到拉面汤威胁",
       "onboard_time": 1719709817,
       "rank": 25,
@@ -15193,6 +15201,14 @@
       "onboard_time": 1718099238,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 524141,
+      "num": 430694,
+      "word": "陈坤 我怕了",
+      "onboard_time": 1719718036,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 524114,
@@ -15953,6 +15969,14 @@
       "onboard_time": 1718683338,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 510883,
+      "num": 203496,
+      "word": "在故宫走丢真的倍有面子",
+      "onboard_time": 1719717377,
+      "rank": 24,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 510872,
@@ -21939,6 +21963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 392681,
+      "num": 298325,
+      "word": "吃完的荔枝不要扔",
+      "onboard_time": 1719719358,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 392511,
       "num": 392511,
       "word": "city不city",
@@ -22633,14 +22665,6 @@
       "onboard_time": 1717311917,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 378732,
-      "num": 159135,
-      "word": "在故宫走丢真的倍有面子",
-      "onboard_time": 1719717377,
-      "rank": 24,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 378675,
@@ -24992,14 +25016,6 @@
       "word": "洪啸官宣声生不息港乐季2",
       "onboard_time": 1719313578,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 343079,
-      "num": 343079,
-      "word": "杨迪的狗安乐死了",
-      "onboard_time": 1719718097,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -28963,6 +28979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293204,
+      "num": 293204,
+      "word": "阿Sa自述35岁后代谢减慢",
+      "onboard_time": 1719718398,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -30763,6 +30787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274201,
+      "num": 265843,
+      "word": "李一桐发文回应蜈蚣",
+      "onboard_time": 1719721157,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274036,
       "num": 207648,
       "word": "没了董宇辉东方甄选只能乱七八糟吗",
@@ -32419,6 +32451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257102,
+      "num": 257102,
+      "word": "临江仙",
+      "onboard_time": 1719552738,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256911,
       "num": 249579,
       "word": "13位男嘉宾在节目里吵架16分钟",
@@ -33521,6 +33561,14 @@
       "onboard_time": 1719493400,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245417,
+      "num": 245417,
+      "word": "行程图",
+      "onboard_time": 1719717858,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245340,
@@ -39988,7 +40036,7 @@
     },
     {
       "raw_hot": 205589,
-      "num": 155593,
+      "num": 173723,
       "word": "华晨宇 关于日出的那一天",
       "onboard_time": 1719716897,
       "rank": 25,
@@ -40169,6 +40217,14 @@
       "onboard_time": 1719371838,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205017,
+      "num": 205017,
+      "word": "RNG管理层",
+      "onboard_time": 1719718457,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 205014,
@@ -40497,14 +40553,6 @@
       "onboard_time": 1719023357,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204325,
-      "num": 154289,
-      "word": "阿Sa自述35岁后代谢减慢",
-      "onboard_time": 1719718398,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 204303,
@@ -41839,14 +41887,6 @@
       "num": 199689,
       "word": "各省文旅没场硬转",
       "onboard_time": 1719370638,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199650,
-      "num": 153529,
-      "word": "陈坤 我怕了",
-      "onboard_time": 1719718036,
       "rank": 28,
       "category": "剧集"
     },
@@ -44795,6 +44835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189931,
+      "num": 189931,
+      "word": "丽水的大宝贝生了47个小宝贝",
+      "onboard_time": 1719718336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189929,
       "num": 189929,
       "word": "ENHYPEN造型",
@@ -47489,14 +47537,6 @@
       "onboard_time": 1718281938,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179748,
-      "num": 153333,
-      "word": "行程图",
-      "onboard_time": 1719717858,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179724,
@@ -50617,6 +50657,14 @@
       "onboard_time": 1719290242,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168526,
+      "num": 168526,
+      "word": "为何戴森卖不过国产平替了",
+      "onboard_time": 1719720738,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168501,
@@ -62643,14 +62691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132429,
-      "num": 132429,
-      "word": "临江仙",
-      "onboard_time": 1719552738,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132427,
       "num": 178834,
       "word": "新中国首位奥运旗手98岁了",
@@ -62977,6 +63017,14 @@
       "onboard_time": 1718709676,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131752,
+      "num": 131752,
+      "word": "爱上回避型依恋的人",
+      "onboard_time": 1719721217,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 131725,
@@ -66331,6 +66379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122740,
+      "num": 122740,
+      "word": "围棋世界冠军柯洁从清华毕业了",
+      "onboard_time": 1719718698,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122707,
       "num": 122707,
       "word": "民警身中15刀仍紧追歹徒不放",
@@ -67529,6 +67585,14 @@
       "onboard_time": 1717828457,
       "rank": 48,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 118938,
+      "num": 118938,
+      "word": "王鹤棣杀青捧花照",
+      "onboard_time": 1719720078,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118935,
@@ -68817,6 +68881,14 @@
       "onboard_time": 1718446339,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115113,
+      "num": 115113,
+      "word": "于正想he导演想be",
+      "onboard_time": 1719719237,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 115109,
@@ -72899,14 +72971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100475,
-      "num": 100475,
-      "word": "RNG管理层",
-      "onboard_time": 1719718457,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100453,
       "num": 100453,
       "word": "出了国发现中国的文化输出太强了",
@@ -74227,6 +74291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94013,
+      "num": 94013,
+      "word": "深圳到中山车程将缩短至30分钟",
+      "onboard_time": 1719717437,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93902,
       "num": 93902,
       "word": "吃瓜齁得嗓子疼其实是过敏",
@@ -75299,6 +75371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85175,
+      "num": 85175,
+      "word": "李云霄水袖舞演绎水中宋韵",
+      "onboard_time": 1719719958,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85027,
       "num": 81800,
       "word": "全世界都知道中国小孩会做饭了",
@@ -75568,14 +75648,6 @@
       "word": "快递单广告中奖率只有十万分之一",
       "onboard_time": 1718686819,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83329,
-      "num": 83329,
-      "word": "深圳到中山车程将缩短至30分钟",
-      "onboard_time": 1719717437,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -81283,6 +81355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44328,
+      "num": 154067,
+      "word": "苏州发布暴雨强对流双黄色预警",
+      "onboard_time": 1719720258,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44235,
       "num": 275603,
       "word": "打工人生产力桌面",
@@ -82481,14 +82561,6 @@
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37778,
-      "num": 183246,
-      "word": "丽水的大宝贝生了47个小宝贝",
-      "onboard_time": 1719718336,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37767,
@@ -85619,6 +85691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18824,
+      "num": 246618,
+      "word": "90后特警邀轻生女孩坐警车",
+      "onboard_time": 1719718277,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18804,
       "num": 138655,
       "word": "外语类专业考研难吗",
@@ -86233,6 +86313,14 @@
       "onboard_time": 1718124436,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14476,
+      "num": 98860,
+      "word": "新裤子现场燃脂效果一流",
+      "onboard_time": 1719719598,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 14405,
