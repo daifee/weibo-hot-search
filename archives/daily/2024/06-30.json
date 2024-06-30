@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719742741017,
+  "endTime": 1719743741469,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -9,6 +9,22 @@
       "onboard_time": 1719721157,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1621282,
+      "num": 1621282,
+      "word": "1997年7月1日0时0分0秒",
+      "onboard_time": 1719741438,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1490102,
+      "num": 1490102,
+      "word": "河南官方回应火箭起火坠落",
+      "onboard_time": 1719742157,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1469824,
@@ -99,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 951619,
-      "num": 951619,
-      "word": "1997年7月1日0时0分0秒",
-      "onboard_time": 1719741438,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 899501,
       "num": 899501,
       "word": "日本拉面店禁止食客用耳机",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 829001,
-      "num": 341622,
+      "num": 393239,
       "word": "刘畊宏纪凌尘腋下管理的极与极",
       "onboard_time": 1719732198,
       "rank": 13,
@@ -179,20 +187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 646897,
+      "num": 646897,
+      "word": "猎罪图鉴3恶魔监狱",
+      "onboard_time": 1719740416,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632130,
       "num": 632130,
       "word": "谁家综艺一下来两壮壮妈啊",
       "onboard_time": 1719736458,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 619686,
-      "num": 619686,
-      "word": "猎罪图鉴3恶魔监狱",
-      "onboard_time": 1719740416,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 619508,
@@ -233,6 +241,14 @@
       "onboard_time": 1719708075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591565,
+      "num": 542771,
+      "word": "陈志朋53岁再签新公司",
+      "onboard_time": 1719741318,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 588890,
@@ -281,14 +297,6 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542771,
-      "num": 542771,
-      "word": "陈志朋53岁再签新公司",
-      "onboard_time": 1719741318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 539806,
@@ -352,6 +360,14 @@
       "word": "刘宇宁帮李一桐找蜈蚣",
       "onboard_time": 1719708256,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 499235,
+      "num": 549293,
+      "word": "赵今麦张凌赫双人大片",
+      "onboard_time": 1719740718,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -435,28 +451,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 440966,
-      "num": 549293,
-      "word": "赵今麦张凌赫双人大片",
-      "onboard_time": 1719740718,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421732,
       "num": 421732,
       "word": "吃完的荔枝不要扔",
       "onboard_time": 1719719358,
       "rank": 12,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 401586,
-      "num": 401586,
-      "word": "河南官方回应火箭起火坠落",
-      "onboard_time": 1719742157,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394637,
@@ -585,6 +585,14 @@
       "onboard_time": 1719723317,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328603,
+      "num": 254725,
+      "word": "婚恋中伴侣长嘴有多重要",
+      "onboard_time": 1719742397,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 319989,
@@ -763,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248959,
+      "num": 171053,
+      "word": "坠落火箭系试飞暂无伤亡",
+      "onboard_time": 1719743297,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244649,
       "num": 244649,
       "word": "珍珠学会下楼梯了",
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203170,
+      "num": 203170,
+      "word": "苏新皓趋势三代第一",
+      "onboard_time": 1719743117,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202458,
       "num": 202458,
       "word": "林俊杰胡彦斌黑夜问白天舞台",
@@ -953,6 +977,14 @@
       "onboard_time": 1719738617,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192786,
+      "num": 192786,
+      "word": "蒲熠星黄子弘凡背着院人接新节目",
+      "onboard_time": 1719743478,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 190497,
@@ -1051,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174385,
-      "num": 174385,
-      "word": "婚恋中伴侣长嘴有多重要",
-      "onboard_time": 1719742397,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159350,
+      "num": 159350,
+      "word": "吴谨言最难熬的时候卡里就200块",
+      "onboard_time": 1719742216,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158394,
       "num": 158394,
       "word": "意大利欧洲杯出局",
@@ -1131,20 +1163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153520,
+      "num": 153520,
+      "word": "家长去武校看儿子其正被按地上抽",
+      "onboard_time": 1719743659,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
       "onboard_time": 1719672800,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153006,
-      "num": 153006,
-      "word": "吴谨言最难熬的时候卡里就200块",
-      "onboard_time": 1719742216,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 151764,
@@ -1235,6 +1267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144057,
+      "num": 144057,
+      "word": "王星越回应在曹操赛道飞速成长",
+      "onboard_time": 1719741078,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143493,
+      "num": 143493,
+      "word": "毛晓彤 不觉得30岁是个坎",
+      "onboard_time": 1719743478,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143362,
       "num": 132931,
       "word": "杨颖直播穿高定",
@@ -1307,20 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135408,
-      "num": 135408,
-      "word": "王星越回应在曹操赛道飞速成长",
-      "onboard_time": 1719741078,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135241,
       "num": 135241,
       "word": "阿根廷2比0秘鲁",
       "onboard_time": 1719713178,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "典型infp一天都在干什么",
+      "onboard_time": 1719741919,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134362,
@@ -1587,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109729,
+      "num": 174713,
+      "word": "现实中的阿勒泰夏季转场来了",
+      "onboard_time": 1719738976,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 109522,
       "num": 139809,
       "word": "为什么强烈推荐你夏天穿羊毛",
       "onboard_time": 1719668720,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 107597,
-      "num": 107597,
-      "word": "典型infp一天都在干什么",
-      "onboard_time": 1719741919,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 105887,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1719736697,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102648,
-      "num": 174713,
-      "word": "现实中的阿勒泰夏季转场来了",
-      "onboard_time": 1719738976,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 102408,
@@ -2020,7 +2060,7 @@
     },
     {
       "raw_hot": 67271,
-      "num": 832665,
+      "num": 1074417,
       "word": "龙腾湾区桥见未来",
       "onboard_time": 1719735616,
       "rank": 2,
@@ -2108,7 +2148,7 @@
     },
     {
       "raw_hot": 41767,
-      "num": 210218,
+      "num": 407938,
       "word": "亿元车队首穿深中通道",
       "onboard_time": 1719741557,
       "rank": 24,
