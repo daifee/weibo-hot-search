@@ -1,0 +1,410 @@
+{
+  "runTime": 1719710850025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1067493,
+        "num": 1067493,
+        "word": "李一桐 蜈蚣",
+        "onboard_time": 1719702854,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 974264,
+        "num": 974264,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19007,
+        "num": 593997,
+        "word": "穿越千年看大运河秀美画卷",
+        "onboard_time": 1719659957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529299,
+        "num": 529299,
+        "word": "王星越工作室致歉声明",
+        "onboard_time": 1719705735,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464153,
+        "num": 464153,
+        "word": "上海暴雨",
+        "onboard_time": 1719706755,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383288,
+        "num": 383288,
+        "word": "爸爸让女儿用眼泪把盆装满才开电视",
+        "onboard_time": 1719671300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380436,
+        "num": 380436,
+        "word": "刘宇宁帮李一桐找蜈蚣",
+        "onboard_time": 1719708256,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361594,
+        "num": 361594,
+        "word": "她从博士后到首席科学家仅用4年",
+        "onboard_time": 1719706995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290803,
+        "num": 290803,
+        "word": "Twins 我很想爱他",
+        "onboard_time": 1719705017,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196333,
+        "num": 196333,
+        "word": "江浙沪朋友们最近出门的样子",
+        "onboard_time": 1719671178,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1469824,
+        "num": 194938,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243961,
+        "num": 192959,
+        "word": "今年上半年体感最爆的剧",
+        "onboard_time": 1719667276,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182883,
+        "num": 182883,
+        "word": "王俊凯 族长",
+        "onboard_time": 1719672860,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165075,
+        "num": 165075,
+        "word": "唐嫣每次一出来罗晋就被夸",
+        "onboard_time": 1719665239,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146492,
+        "num": 146492,
+        "word": "勇士将与汤普森分道扬镳",
+        "onboard_time": 1719706336,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140449,
+        "num": 140449,
+        "word": "白鹿对接发声明",
+        "onboard_time": 1719663678,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126828,
+        "num": 126828,
+        "word": "上海仅5张桌的米其林老板娘有多结棍",
+        "onboard_time": 1719667159,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120282,
+        "num": 120282,
+        "word": "德国vs丹麦因雷暴天气被吹停",
+        "onboard_time": 1719703213,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112983,
+        "num": 112983,
+        "word": "妈妈丢了30年的吊坠苹果地里找到了",
+        "onboard_time": 1719642797,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24282,
+        "num": 112884,
+        "word": "邻居家失火18岁的他只想着救人",
+        "onboard_time": 1719710717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559930,
+        "num": 112849,
+        "word": "为什么穿凉鞋的人变少了",
+        "onboard_time": 1719709817,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471549,
+        "num": 112715,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35680,
+        "num": 112595,
+        "word": "孕妇大出血交警13分钟送医",
+        "onboard_time": 1719708857,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426631,
+        "num": 112420,
+        "word": "当一个重度抑郁女孩没钱做心理咨询",
+        "onboard_time": 1719708075,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112409,
+        "num": 112409,
+        "word": "意大利欧洲杯出局",
+        "onboard_time": 1719702494,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383963,
+        "num": 111613,
+        "word": "韩国济州岛旅游遭到拉面汤威胁",
+        "onboard_time": 1719709817,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346862,
+        "num": 110878,
+        "word": "减肥期间不建议吃的水果",
+        "onboard_time": 1719705674,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346033,
+        "num": 110551,
+        "word": "3人组织失足女卖淫还实行考勤管理",
+        "onboard_time": 1719705375,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319987,
+        "num": 109565,
+        "word": "于正的番外算是白拍了",
+        "onboard_time": 1719675500,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311510,
+        "num": 108471,
+        "word": "现在体检也要开始量腰围了",
+        "onboard_time": 1719705854,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189409,
+        "num": 108134,
+        "word": "租房真的是进社会的第一课",
+        "onboard_time": 1719709817,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184842,
+        "num": 107164,
+        "word": "原来喝这些饮料会导致口臭",
+        "onboard_time": 1719706575,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165587,
+        "num": 106052,
+        "word": "于正会开除一干人等",
+        "onboard_time": 1719671479,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 105709,
+        "word": "杨颖直播穿高定",
+        "onboard_time": 1719708977,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135423,
+        "num": 104261,
+        "word": "王星越工作室",
+        "onboard_time": 1719672679,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104212,
+        "num": 104212,
+        "word": "梅雨季遛狗总觉得不太体面",
+        "onboard_time": 1719705615,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102408,
+        "num": 102408,
+        "word": "阿根廷vs秘鲁",
+        "onboard_time": 1719708075,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99094,
+        "num": 99094,
+        "word": "唐嫣刘亦菲空姐服旧照",
+        "onboard_time": 1719707057,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98960,
+        "num": 98960,
+        "word": "张信哲北京鸟巢点名了",
+        "onboard_time": 1719708496,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95623,
+        "num": 95623,
+        "word": "肝癌大户被揪出",
+        "onboard_time": 1719667159,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93625,
+        "num": 93625,
+        "word": "普华永道正在蒸发殆尽",
+        "onboard_time": 1719675558,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93441,
+        "num": 93441,
+        "word": "搬家后才知道自己的极简是个笑话",
+        "onboard_time": 1719705674,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98245,
+        "num": 92366,
+        "word": "唐嫣的腿硬控我",
+        "onboard_time": 1719671240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87535,
+        "num": 87535,
+        "word": "瑞士晋级欧洲杯8强",
+        "onboard_time": 1719703093,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86754,
+        "num": 86754,
+        "word": "专家称如再有新政或涉一线城市落户",
+        "onboard_time": 1719707296,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81306,
+        "num": 81306,
+        "word": "你的身体其实瞒着你很多事情",
+        "onboard_time": 1719706096,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79419,
+        "num": 79419,
+        "word": "于正回应点赞",
+        "onboard_time": 1719666259,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75922,
+        "num": 75922,
+        "word": "我发现的一些可以早睡的规律",
+        "onboard_time": 1719708676,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70969,
+        "num": 70969,
+        "word": "国产动画长发妹",
+        "onboard_time": 1719710296,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 70310,
+        "num": 70310,
+        "word": "鞠婧祎红发挑染",
+        "onboard_time": 1719703333,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
+    }
+  }
+}
