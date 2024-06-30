@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719731872034,
+  "endTime": 1719732878457,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -8267,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 771696,
+      "num": 241603,
+      "word": "美国网红鼻祖自曝16岁起遭性虐待",
+      "onboard_time": 1719730816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771190,
       "num": 771190,
       "word": "Xiaolaohu删博",
@@ -12179,6 +12187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 616630,
+      "num": 216812,
+      "word": "我是9918.5万分之一",
+      "onboard_time": 1719727398,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 616538,
       "num": 722824,
       "word": "疑Manner店员与顾客互扇耳光",
@@ -12865,14 +12881,6 @@
       "onboard_time": 1717312457,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593599,
-      "num": 153330,
-      "word": "我是9918.5万分之一",
-      "onboard_time": 1719727398,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 593574,
@@ -13913,6 +13921,14 @@
       "onboard_time": 1719379218,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561810,
+      "num": 292170,
+      "word": "黄子韬徐艺洋一路上都在拌嘴",
+      "onboard_time": 1719730937,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 561706,
@@ -24419,14 +24435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 353545,
-      "num": 292170,
-      "word": "黄子韬徐艺洋一路上都在拌嘴",
-      "onboard_time": 1719730937,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 353484,
       "num": 353484,
       "word": "歌手总导演回应做直播",
@@ -24905,6 +24913,14 @@
       "onboard_time": 1719705674,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 346632,
+      "num": 238592,
+      "word": "刘畊宏纪凌尘腋下管理的极与极",
+      "onboard_time": 1719732198,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 346378,
@@ -25633,14 +25649,6 @@
       "onboard_time": 1718013618,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336883,
-      "num": 140897,
-      "word": "美国网红鼻祖自曝16岁起遭性虐待",
-      "onboard_time": 1719730816,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336814,
@@ -27545,6 +27553,14 @@
       "onboard_time": 1719015496,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310861,
+      "num": 215662,
+      "word": "黄景瑜躺床上还是伸不开腿",
+      "onboard_time": 1719730756,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 310794,
@@ -30732,7 +30748,7 @@
     },
     {
       "raw_hot": 276043,
-      "num": 153298,
+      "num": 214292,
       "word": "裴文宣这一口你终于亲上了",
       "onboard_time": 1719728358,
       "rank": 36,
@@ -31164,7 +31180,7 @@
     },
     {
       "raw_hot": 272051,
-      "num": 153358,
+      "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
       "onboard_time": 1719728716,
       "rank": 30,
@@ -32729,6 +32745,14 @@
       "onboard_time": 1718598079,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255311,
+      "num": 214435,
+      "word": "杨迪回应宠物去世",
+      "onboard_time": 1719730876,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 255223,
@@ -36107,6 +36131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227070,
+      "num": 227070,
+      "word": "男孩0点被父母薅起过生日硬控情绪",
+      "onboard_time": 1719730637,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "皮肤变好带给我的变化有多大",
@@ -36281,14 +36313,6 @@
       "onboard_time": 1718929938,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225847,
-      "num": 148110,
-      "word": "黄景瑜躺床上还是伸不开腿",
-      "onboard_time": 1719730756,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 225831,
@@ -36513,14 +36537,6 @@
       "onboard_time": 1718416758,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224184,
-      "num": 147562,
-      "word": "杨迪回应宠物去世",
-      "onboard_time": 1719730876,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 224171,
@@ -37807,6 +37823,14 @@
       "num": 513079,
       "word": "100多名学生毕业论文致谢同一人",
       "onboard_time": 1719029597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216878,
+      "num": 290016,
+      "word": "松弛感变成了一个新赛道",
+      "onboard_time": 1719728417,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -45921,6 +45945,14 @@
       "onboard_time": 1718949438,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186999,
+      "num": 246106,
+      "word": "直击深中通道通车试运营",
+      "onboard_time": 1719732198,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186989,
@@ -56035,14 +56067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152823,
-      "num": 290016,
-      "word": "松弛感变成了一个新赛道",
-      "onboard_time": 1719728417,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152791,
       "num": 152791,
       "word": "原来只是去食堂也是一件奢侈的事",
@@ -58576,14 +58600,6 @@
       "word": "福建武平暴雨已致4死亡2失踪",
       "onboard_time": 1718603416,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146107,
-      "num": 146107,
-      "word": "男孩0点被父母薅起过生日硬控情绪",
-      "onboard_time": 1719730637,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -71899,6 +71915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106389,
+      "num": 106389,
+      "word": "Kindle中国电子书店停止下载服务",
+      "onboard_time": 1719732136,
+      "rank": 38,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 106369,
       "num": 106369,
       "word": "网友爬山偶遇跨物种的旅游搭子",
@@ -72073,6 +72097,14 @@
       "onboard_time": 1719723497,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105849,
+      "num": 105849,
+      "word": "深圳至中山跨江通道",
+      "onboard_time": 1719729257,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105840,
@@ -72553,6 +72585,14 @@
       "onboard_time": 1718924715,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104039,
+      "num": 104039,
+      "word": "狗勾耳朵都放下来了你倒是摸啊",
+      "onboard_time": 1719730216,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 104011,
@@ -73665,14 +73705,6 @@
       "onboard_time": 1718033598,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99037,
-      "num": 99037,
-      "word": "狗勾耳朵都放下来了你倒是摸啊",
-      "onboard_time": 1719730216,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 99029,
@@ -75499,6 +75531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87907,
+      "num": 87907,
+      "word": "魔都夏天对年轻人的魔力",
+      "onboard_time": 1719732796,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87847,
       "num": 87847,
       "word": "上海复旦满足了我对好大学的幻想",
@@ -75873,6 +75913,14 @@
       "onboard_time": 1717298477,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84835,
+      "num": 233695,
+      "word": "谁能跑赢黄色法拉利",
+      "onboard_time": 1719728897,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 84711,
@@ -76640,14 +76688,6 @@
       "word": "2024中国AI盛典",
       "onboard_time": 1719632418,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78652,
-      "num": 85227,
-      "word": "深圳至中山跨江通道",
-      "onboard_time": 1719729257,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -77753,14 +77793,6 @@
       "onboard_time": 1717264934,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70712,
-      "num": 206879,
-      "word": "谁能跑赢黄色法拉利",
-      "onboard_time": 1719728897,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 70680,
@@ -84360,6 +84392,14 @@
       "word": "德国龙舟赛",
       "onboard_time": 1717992678,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30207,
+      "num": 245440,
+      "word": "单小龙希望有机会读博",
+      "onboard_time": 1719732136,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
