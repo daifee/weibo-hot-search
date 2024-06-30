@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719729490417,
+  "endTime": 1719731872034,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 899501,
+      "num": 899501,
+      "word": "日本拉面店禁止食客用耳机",
+      "onboard_time": 1719724459,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733355,
       "num": 733355,
       "word": "江浙沪朋友们最近出门的样子",
@@ -97,6 +105,14 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 667450,
+      "num": 285910,
+      "word": "Angelababy 辛巴直播",
+      "onboard_time": 1719728358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 652116,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593599,
+      "num": 153330,
+      "word": "我是9918.5万分之一",
+      "onboard_time": 1719727398,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 588890,
       "num": 301803,
       "word": "为什么韩系在中国不流行了",
@@ -163,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 565009,
-      "num": 565009,
-      "word": "日本拉面店禁止食客用耳机",
-      "onboard_time": 1719724459,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558074,
       "num": 558074,
       "word": "王俊凯 族长",
@@ -193,14 +209,6 @@
       "onboard_time": 1719718036,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 530920,
-      "num": 285910,
-      "word": "Angelababy 辛巴直播",
-      "onboard_time": 1719728358,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 529299,
@@ -259,11 +267,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473462,
+      "num": 473462,
+      "word": "吴昕 陈昊宇依然需要自我介绍",
+      "onboard_time": 1719729557,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464153,
       "num": 464153,
       "word": "上海暴雨",
       "onboard_time": 1719706755,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458616,
+      "num": 458616,
+      "word": "中国游客在日本消费新三样",
+      "onboard_time": 1719726256,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -281,14 +305,6 @@
       "onboard_time": 1719719358,
       "rank": 12,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 415441,
-      "num": 153397,
-      "word": "中国游客在日本消费新三样",
-      "onboard_time": 1719726256,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394637,
@@ -347,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353545,
+      "num": 292170,
+      "word": "黄子韬徐艺洋一路上都在拌嘴",
+      "onboard_time": 1719730937,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351797,
+      "num": 295309,
+      "word": "肖战到杭州",
+      "onboard_time": 1719727938,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346862,
       "num": 153830,
       "word": "减肥期间不建议吃的水果",
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340461,
+      "num": 234600,
+      "word": "当邓超遇上刘亦菲",
+      "onboard_time": 1719729917,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340018,
       "num": 340018,
       "word": "侵华期间日本印假钞破坏中国经济",
@@ -371,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336883,
+      "num": 140897,
+      "word": "美国网红鼻祖自曝16岁起遭性虐待",
+      "onboard_time": 1719730816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331993,
-      "num": 195278,
+      "num": 203176,
       "word": "小孩哥误锁下唇上演七分哭三分笑",
       "onboard_time": 1719723317,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327059,
-      "num": 295309,
-      "word": "肖战到杭州",
-      "onboard_time": 1719727938,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 319989,
@@ -475,6 +515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276043,
+      "num": 153298,
+      "word": "裴文宣这一口你终于亲上了",
+      "onboard_time": 1719728358,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272051,
+      "num": 153358,
+      "word": "朱丹周一围带女儿参加小学入学测试",
+      "onboard_time": 1719728716,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
@@ -547,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225847,
+      "num": 148110,
+      "word": "黄景瑜躺床上还是伸不开腿",
+      "onboard_time": 1719730756,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224184,
+      "num": 147562,
+      "word": "杨迪回应宠物去世",
+      "onboard_time": 1719730876,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -569,22 +641,6 @@
       "onboard_time": 1719711676,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213741,
-      "num": 153358,
-      "word": "朱丹周一围带女儿参加小学入学测试",
-      "onboard_time": 1719728716,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 212538,
-      "num": 153330,
-      "word": "我是9918.5万分之一",
-      "onboard_time": 1719727398,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 205589,
@@ -657,14 +713,6 @@
       "onboard_time": 1719724817,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197445,
-      "num": 153298,
-      "word": "裴文宣这一口你终于亲上了",
-      "onboard_time": 1719728358,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 190497,
@@ -811,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152823,
+      "num": 290016,
+      "word": "松弛感变成了一个新赛道",
+      "onboard_time": 1719728417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151764,
       "num": 151764,
       "word": "眼镜是马思超的疯批开关吧",
       "onboard_time": 1719718158,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151446,
+      "num": 151446,
+      "word": "以军空袭前给加沙平民5分钟逃命",
+      "onboard_time": 1719727337,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150704,
@@ -883,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146107,
+      "num": 146107,
+      "word": "男孩0点被父母薅起过生日硬控情绪",
+      "onboard_time": 1719730637,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144474,
       "num": 144474,
       "word": "马立奥告状大王",
@@ -931,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137677,
+      "num": 137677,
+      "word": "老外来中国旅游狂发好city啊",
+      "onboard_time": 1719730517,
+      "rank": 31,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 137250,
       "num": 137250,
       "word": "恋与深空",
@@ -953,14 +1033,6 @@
       "onboard_time": 1719713178,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135077,
-      "num": 135077,
-      "word": "以军空袭前给加沙平民5分钟逃命",
-      "onboard_time": 1719727337,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 134362,
@@ -1003,12 +1075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123974,
+      "num": 123974,
+      "word": "杜江晒珍珠近照",
+      "onboard_time": 1719731177,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123897,
       "num": 123897,
       "word": "王心凌也有演唱会戒断反应",
       "onboard_time": 1719727637,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123521,
+      "num": 123521,
+      "word": "2驴友徒步高山草甸遇雷击1死1伤",
+      "onboard_time": 1719730998,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122740,
@@ -1179,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105500,
+      "num": 105500,
+      "word": "绝区零艾莲",
+      "onboard_time": 1719729617,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105050,
       "num": 105050,
       "word": "不能让老师看出来的染发色",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1719716717,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99037,
+      "num": 99037,
+      "word": "狗勾耳朵都放下来了你倒是摸啊",
+      "onboard_time": 1719730216,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 98960,
@@ -1321,6 +1425,14 @@
       "onboard_time": 1719719958,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84378,
+      "num": 84378,
+      "word": "檀健次用清冷和浪漫形容相柳",
+      "onboard_time": 1719729858,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83232,
@@ -1443,6 +1555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70712,
+      "num": 206879,
+      "word": "谁能跑赢黄色法拉利",
+      "onboard_time": 1719728897,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70513,
       "num": 139324,
       "word": "eStar战胜AG",
@@ -1531,22 +1651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44861,
-      "num": 153253,
-      "word": "谁能跑赢黄色法拉利",
-      "onboard_time": 1719728897,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 39336,
-      "num": 290016,
-      "word": "松弛感变成了一个新赛道",
-      "onboard_time": 1719728417,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37875,
       "num": 495729,
       "word": "新郎接亲遇意外差点没接住这波考验",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1719685812,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36368,
+      "num": 530397,
+      "word": "沿着大运河看安徽",
+      "onboard_time": 1719717016,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36121,
@@ -1627,12 +1739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31808,
-      "num": 489401,
-      "word": "沿着大运河看安徽",
-      "onboard_time": 1719717016,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 30606,
+      "num": 262975,
+      "word": "洪水过肩救援人员用木板抬老人",
+      "onboard_time": 1719730278,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 29878,

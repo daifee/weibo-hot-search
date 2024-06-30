@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/30 14:38:10
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/30 15:17:52
 </p>
 </blockquote>
 <p>
@@ -4983,6 +4983,12 @@ iPhone15多次降价重回销量榜第一（热度：915943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E6%AD%A2%E9%A3%9F%E5%AE%A2%E7%94%A8%E8%80%B3%E6%9C%BA%23" target="weibo">
+日本拉面店禁止食客用耳机（热度：899501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E9%99%88%E5%A8%B4%E5%B7%B2%E6%9C%89%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%23" target="weibo">
 浙大百万网红陈娴已有多家公司（热度：899187）
 </a>
@@ -6005,12 +6011,6 @@ canteen我恨你（热度：798300）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%9F%B3%E6%9F%B1%E8%A2%AB%E6%B6%82%E9%B8%A6%23" target="weibo">
 外交部回应靖国神社石柱被涂鸦（热度：792518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%9C%A8%E5%B0%8F%E5%8C%BA%E9%81%87%E5%88%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-山西一公职人员在小区遇刺身亡（热度：792483）
 </a>
 </li>
 
