@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719750871681,
+  "endTime": 1719751741445,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092928,
+      "num": 317764,
+      "word": "周翊然 像鹿晗",
+      "onboard_time": 1719749777,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 990741,
       "num": 990741,
       "word": "奥运冠军杨倩清华大学毕业",
@@ -137,14 +145,6 @@
       "onboard_time": 1719724459,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 838300,
-      "num": 313397,
-      "word": "周翊然 像鹿晗",
-      "onboard_time": 1719749777,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 829001,
@@ -225,6 +225,14 @@
       "onboard_time": 1719740416,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643333,
+      "num": 301664,
+      "word": "冯禧中传硕士毕业",
+      "onboard_time": 1719750559,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 632130,
@@ -331,20 +339,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565224,
+      "num": 565224,
+      "word": "现在电视剧为何不爱叫XX传了",
+      "onboard_time": 1719747738,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561810,
       "num": 292170,
       "word": "黄子韬徐艺洋一路上都在拌嘴",
       "onboard_time": 1719730937,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560057,
-      "num": 560057,
-      "word": "现在电视剧为何不爱叫XX传了",
-      "onboard_time": 1719747738,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 558074,
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504297,
+      "num": 504297,
+      "word": "多地挪用农村学生营养餐补助",
+      "onboard_time": 1719747378,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499235,
       "num": 549293,
       "word": "赵今麦张凌赫双人大片",
@@ -473,14 +489,6 @@
       "onboard_time": 1719729557,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 468307,
-      "num": 468307,
-      "word": "多地挪用农村学生营养餐补助",
-      "onboard_time": 1719747378,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464153,
@@ -563,7 +571,7 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 406568,
+      "raw_hot": 421340,
       "num": 299759,
       "word": "吴彦祖又帅回来了",
       "onboard_time": 1719746118,
@@ -673,6 +681,14 @@
       "onboard_time": 1719737477,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342402,
+      "num": 342402,
+      "word": "杨紫G社生图",
+      "onboard_time": 1719750379,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 340461,
@@ -1131,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192611,
-      "num": 192611,
-      "word": "冯禧中传硕士毕业",
-      "onboard_time": 1719750559,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190497,
       "num": 182447,
       "word": "张若昀钓鱼永不空军",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1719667159,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189631,
-      "num": 189631,
-      "word": "杨紫G社生图",
-      "onboard_time": 1719750379,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 189297,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173592,
+      "num": 173592,
+      "word": "neinei与好友逛街",
+      "onboard_time": 1719750977,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
@@ -1355,20 +1363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157945,
+      "num": 157945,
+      "word": "孙怡主持村民大会",
+      "onboard_time": 1719749178,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155569,
+      "num": 155569,
+      "word": "剑桥偶遇田亮森蝶",
+      "onboard_time": 1719751398,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
       "onboard_time": 1719672800,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151873,
-      "num": 151873,
-      "word": "孙怡主持村民大会",
-      "onboard_time": 1719749178,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 151764,
@@ -1675,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123924,
+      "num": 123924,
+      "word": "敖子逸坐娜扎张云龙C位",
+      "onboard_time": 1719750559,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123897,
       "num": 123897,
       "word": "王心凌也有演唱会戒断反应",
@@ -1915,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "杭州30岁女孩白天打工人晚上贝斯手",
+      "onboard_time": 1719751159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105667,
       "num": 83039,
       "word": "宋丹丹一家六口阿那亚度假",
@@ -1971,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103936,
+      "num": 103936,
+      "word": "原来这种家庭是真的存在的",
+      "onboard_time": 1719748578,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103616,
       "num": 103616,
       "word": "大哥远 快乐向前冲",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1719722118,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101124,
-      "num": 101124,
-      "word": "敖子逸坐娜扎张云龙C位",
-      "onboard_time": 1719750559,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 100953,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1719739157,
       "rank": 46,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 94782,
+      "num": 94782,
+      "word": "WB战胜TES",
+      "onboard_time": 1719751159,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 94013,
@@ -2411,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52527,
+      "num": 313104,
+      "word": "畅爽烧烤节沈阳局开烤了",
+      "onboard_time": 1719750258,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 50714,
       "num": 90421,
       "word": "谢霆锋回应保险公司不敢给他投保",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1719741557,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47543,
+      "num": 176923,
+      "word": "原来天鹅船是这么来的",
+      "onboard_time": 1719751637,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47454,
@@ -2451,12 +2507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43050,
-      "num": 184825,
-      "word": "畅爽烧烤节沈阳局开烤了",
-      "onboard_time": 1719750258,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 45709,
+      "num": 320092,
+      "word": "在且末二十四年",
+      "onboard_time": 1719749540,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40874,
@@ -2467,11 +2523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38779,
-      "num": 320092,
-      "word": "在且末二十四年",
-      "onboard_time": 1719749540,
-      "rank": 9,
+      "raw_hot": 38110,
+      "num": 174544,
+      "word": "老人到宁波旅行寻找失联50年老战友",
+      "onboard_time": 1719751398,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
