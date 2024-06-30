@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719717786833,
+  "endTime": 1719718582277,
   "band_list": [
     {
       "raw_hot": 1469824,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 990741,
+      "num": 990741,
+      "word": "奥运冠军杨倩清华大学毕业",
+      "onboard_time": 1719715696,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 974264,
       "num": 974264,
       "word": "终于知道啥是city不city了",
@@ -41,14 +49,6 @@
       "onboard_time": 1719668000,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 940556,
-      "num": 940556,
-      "word": "奥运冠军杨倩清华大学毕业",
-      "onboard_time": 1719715696,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 733355,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 618594,
+      "num": 618594,
+      "word": "亡夫13万元存款消失当事银行致歉",
+      "onboard_time": 1719714796,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601566,
       "num": 172029,
       "word": "浙大学霸成为百万粉丝网红",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 596382,
-      "num": 363078,
+      "num": 397977,
       "word": "当一个重度抑郁女孩没钱做心理咨询",
       "onboard_time": 1719708075,
       "rank": 23,
@@ -113,14 +121,6 @@
       "onboard_time": 1719709398,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 566422,
-      "num": 566422,
-      "word": "亡夫13万元存款消失当事银行致歉",
-      "onboard_time": 1719714796,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558074,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378732,
+      "num": 159135,
+      "word": "在故宫走丢真的倍有面子",
+      "onboard_time": 1719717377,
+      "rank": 24,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 372209,
       "num": 332147,
       "word": "穆念慈大婚割发断情",
@@ -251,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343079,
+      "num": 343079,
+      "word": "杨迪的狗安乐死了",
+      "onboard_time": 1719718097,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340018,
+      "num": 340018,
+      "word": "侵华期间日本印假钞破坏中国经济",
+      "onboard_time": 1719715876,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319989,
       "num": 319989,
       "word": "张杰脱衣服和掉话筒的反差感",
@@ -265,14 +289,6 @@
       "onboard_time": 1719673939,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 318317,
-      "num": 318317,
-      "word": "侵华期间日本印假钞破坏中国经济",
-      "onboard_time": 1719715876,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311510,
@@ -299,12 +315,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284044,
-      "num": 152105,
-      "word": "在故宫走丢真的倍有面子",
-      "onboard_time": 1719717377,
-      "rank": 24,
-      "category": "旅游,情感"
+      "raw_hot": 297041,
+      "num": 297041,
+      "word": "小鬼说我们团梦回大厂",
+      "onboard_time": 1719715696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 255912,
@@ -336,14 +352,6 @@
       "word": "丁程鑫不敢向王俊凯泼水",
       "onboard_time": 1719666378,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 238916,
-      "num": 238916,
-      "word": "小鬼说我们团梦回大厂",
-      "onboard_time": 1719715696,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -387,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205589,
+      "num": 155593,
+      "word": "华晨宇 关于日出的那一天",
+      "onboard_time": 1719716897,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204355,
       "num": 204355,
       "word": "深中通道今日通车",
       "onboard_time": 1719714677,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204325,
+      "num": 154289,
+      "word": "阿Sa自述35岁后代谢减慢",
+      "onboard_time": 1719718398,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 201994,
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191166,
-      "num": 148781,
-      "word": "华晨宇 关于日出的那一天",
-      "onboard_time": 1719716897,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 199650,
+      "num": 153529,
+      "word": "陈坤 我怕了",
+      "onboard_time": 1719718036,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189835,
@@ -459,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179748,
+      "num": 153333,
+      "word": "行程图",
+      "onboard_time": 1719717858,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179567,
       "num": 152099,
       "word": "Angelababy涩谷辣妹",
@@ -489,6 +521,14 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165303,
+      "num": 152152,
+      "word": "杨迪痛哭",
+      "onboard_time": 1719718398,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 163211,
@@ -523,12 +563,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151764,
+      "num": 151764,
+      "word": "眼镜是马思超的疯批开关吧",
+      "onboard_time": 1719718158,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150704,
       "num": 150704,
       "word": "欧洲杯",
       "onboard_time": 1719664518,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148258,
+      "num": 148258,
+      "word": "张真源庆祝pose摆早了",
+      "onboard_time": 1719717797,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147765,
+      "num": 155851,
+      "word": "警方通报一女子自称有所长电话",
+      "onboard_time": 1719715937,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146492,
@@ -569,14 +633,6 @@
       "onboard_time": 1719703213,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136954,
-      "num": 136954,
-      "word": "警方通报一女子自称有所长电话",
-      "onboard_time": 1719715937,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135241,
@@ -747,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100475,
+      "num": 100475,
+      "word": "RNG管理层",
+      "onboard_time": 1719718457,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98960,
       "num": 98960,
       "word": "张信哲北京鸟巢点名了",
@@ -795,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83329,
+      "num": 83329,
+      "word": "深圳到中山车程将缩短至30分钟",
+      "onboard_time": 1719717437,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83232,
       "num": 139432,
       "word": "青岛大学的毕业典礼为什么那么火",
@@ -825,6 +897,14 @@
       "onboard_time": 1719712517,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80964,
+      "num": 772501,
+      "word": "70秒看深中通道从无到有",
+      "onboard_time": 1719717557,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80163,
@@ -873,14 +953,6 @@
       "onboard_time": 1719708676,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 74729,
-      "num": 74729,
-      "word": "深圳到中山车程将缩短至30分钟",
-      "onboard_time": 1719717437,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73347,
@@ -955,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47360,
+      "num": 316952,
+      "word": "女童高烧41度6名铁骑接力护送",
+      "onboard_time": 1719716416,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 45736,
       "num": 90451,
       "word": "一条plog告别六月",
@@ -963,19 +1043,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38602,
-      "num": 630786,
-      "word": "70秒看深中通道从无到有",
-      "onboard_time": 1719717557,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37875,
       "num": 495729,
       "word": "新郎接亲遇意外差点没接住这波考验",
       "onboard_time": 1719673160,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37778,
+      "num": 183246,
+      "word": "丽水的大宝贝生了47个小宝贝",
+      "onboard_time": 1719718336,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1033,14 +1113,6 @@
       "onboard_time": 1719685572,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 33055,
-      "num": 316952,
-      "word": "女童高烧41度6名铁骑接力护送",
-      "onboard_time": 1719716416,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 33015,
