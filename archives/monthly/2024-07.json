@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719782393669,
+  "endTime": 1719783285694,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78143,
+      "num": 78143,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77772,
       "num": 77772,
       "word": "张碧晨演唱会",
@@ -395,11 +403,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62504,
-      "num": 62504,
-      "word": "官方回应2岁幼童高空卖艺后求抱抱",
-      "onboard_time": 1719778871,
-      "rank": 39,
+      "raw_hot": 73690,
+      "num": 19795,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1719766574,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45610,
-      "num": 19738,
-      "word": "缉毒卧底连续偶遇警察同事",
-      "onboard_time": 1719779710,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42139,
@@ -475,12 +475,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 16104,
+      "raw_hot": 16656,
       "num": 18483,
       "word": "两只小狗隔着笼子拍手",
       "onboard_time": 1719778511,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16040,
+      "num": 16655,
+      "word": "吴谨言被考古羞耻感拉满",
+      "onboard_time": 1719782650,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14534,
+      "num": 16653,
+      "word": "墨西哥vs厄瓜多尔",
+      "onboard_time": 1719782410,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 11686,
