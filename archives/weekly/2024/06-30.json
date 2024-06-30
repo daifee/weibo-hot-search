@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719746102805,
+  "endTime": 1719747256550,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -113,6 +113,14 @@
       "onboard_time": 1719668000,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 909880,
+      "num": 909880,
+      "word": "吴艳妮女子100米栏冠军",
+      "onboard_time": 1719745517,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 899501,
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479495,
+      "num": 319147,
+      "word": "于正说不明白吴谨言受了啥委屈",
+      "onboard_time": 1719745938,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473462,
       "num": 473462,
       "word": "吴昕 陈昊宇依然需要自我介绍",
@@ -416,6 +432,14 @@
       "word": "上海暴雨",
       "onboard_time": 1719706755,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459902,
+      "num": 253264,
+      "word": "校长回答月薪1万2先深造还是先赚钱",
+      "onboard_time": 1719744257,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -555,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350059,
-      "num": 206062,
-      "word": "校长回答月薪1万2先深造还是先赚钱",
-      "onboard_time": 1719744257,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346862,
       "num": 153830,
       "word": "减肥期间不建议吃的水果",
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333054,
-      "num": 333054,
-      "word": "吴艳妮女子100米栏冠军",
-      "onboard_time": 1719745517,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332156,
       "num": 210490,
       "word": "子宫内膜异位症",
@@ -641,6 +649,14 @@
       "onboard_time": 1719673939,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317942,
+      "num": 317942,
+      "word": "你觉得女子怀孕应该是谁来照顾",
+      "onboard_time": 1719745938,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 317171,
@@ -755,12 +771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266411,
+      "num": 252016,
+      "word": "王星越说买断是有点买不过来了",
+      "onboard_time": 1719746477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
       "onboard_time": 1719721577,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256280,
+      "num": 256280,
+      "word": "彩虹",
+      "onboard_time": 1719746537,
+      "rank": 18,
+      "category": "自然"
     },
     {
       "raw_hot": 255912,
@@ -864,6 +896,14 @@
       "word": "上海仅5张桌的米其林老板娘有多结棍",
       "onboard_time": 1719667159,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217910,
+      "num": 217910,
+      "word": "知情人称坠落火箭系天龙三号",
+      "onboard_time": 1719746297,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184971,
+      "num": 184971,
+      "word": "Uzi谈停播原因",
+      "onboard_time": 1719746059,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184946,
       "num": 184946,
       "word": "劳塔罗拥抱梅西",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1719672199,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "仙逆",
+      "onboard_time": 1719745458,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 179567,
@@ -1155,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166482,
+      "num": 166482,
+      "word": "吴彦祖又帅回来了",
+      "onboard_time": 1719746118,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165303,
       "num": 152152,
       "word": "杨迪痛哭",
@@ -1169,22 +1233,6 @@
       "onboard_time": 1719735978,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 164203,
-      "num": 164203,
-      "word": "于正说不明白吴谨言受了啥委屈",
-      "onboard_time": 1719745938,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 164111,
-      "num": 164111,
-      "word": "你觉得女子怀孕应该是谁来照顾",
-      "onboard_time": 1719745938,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 163211,
@@ -1331,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143114,
+      "num": 143114,
+      "word": "日本老教授被曝猥亵幼女",
+      "onboard_time": 1719742937,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142251,
       "num": 142251,
       "word": "林俊杰祝福张书豪欧阳妮妮",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1719736396,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132350,
-      "num": 132350,
-      "word": "日本老教授被曝猥亵幼女",
-      "onboard_time": 1719742937,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130203,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1719707057,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117790,
-      "num": 117790,
-      "word": "仙逆",
-      "onboard_time": 1719745458,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 117271,
@@ -1843,14 +1883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100235,
-      "num": 100235,
-      "word": "Uzi谈停播原因",
-      "onboard_time": 1719746059,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99804,
       "num": 99804,
       "word": "西安雷雨大风冰雹双预警",
@@ -1915,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93741,
+      "num": 93741,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1719746597,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93331,
       "num": 93331,
       "word": "周笔畅你太拿我当外人了",
@@ -1939,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90131,
+      "num": 90131,
+      "word": "伞兵灰绿色西装",
+      "onboard_time": 1719746537,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88383,
       "num": 88383,
       "word": "吴谨言的七月行程",
@@ -1960,6 +2008,14 @@
       "word": "大四男生拿4年所获证书和老师合影",
       "onboard_time": 1719712697,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86925,
+      "num": 86925,
+      "word": "女生花470元带1条鱼去医院看病",
+      "onboard_time": 1719747198,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2452,7 +2508,7 @@
     },
     {
       "raw_hot": 14716,
-      "num": 199668,
+      "num": 321603,
       "word": "感谢你们让少年的梦想生根发芽",
       "onboard_time": 1719739637,
       "rank": 21,

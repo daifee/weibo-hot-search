@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719746102805,
+  "endTime": 1719747256550,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -6537,6 +6537,14 @@
       "onboard_time": 1719570917,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 909880,
+      "num": 909880,
+      "word": "吴艳妮女子100米栏冠军",
+      "onboard_time": 1719745517,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 909842,
@@ -17371,6 +17379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 479495,
+      "num": 319147,
+      "word": "于正说不明白吴谨言受了啥委屈",
+      "onboard_time": 1719745938,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479151,
       "num": 288307,
       "word": "繁花剧方给三位女主都报名了",
@@ -18313,6 +18329,14 @@
       "onboard_time": 1719484638,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 459902,
+      "num": 253264,
+      "word": "校长回答月薪1万2先深造还是先赚钱",
+      "onboard_time": 1719744257,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459857,
@@ -24795,14 +24819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 350059,
-      "num": 206062,
-      "word": "校长回答月薪1万2先深造还是先赚钱",
-      "onboard_time": 1719744257,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350023,
       "num": 200875,
       "word": "梦中的那片海未公开剧照",
@@ -26107,14 +26123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333054,
-      "num": 333054,
-      "word": "吴艳妮女子100米栏冠军",
-      "onboard_time": 1719745517,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333007,
       "num": 295154,
       "word": "王阳夸林更新",
@@ -27273,6 +27281,14 @@
       "onboard_time": 1717550418,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 317942,
+      "num": 317942,
+      "word": "你觉得女子怀孕应该是谁来照顾",
+      "onboard_time": 1719745938,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 317893,
@@ -32051,6 +32067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266411,
+      "num": 252016,
+      "word": "王星越说买断是有点买不过来了",
+      "onboard_time": 1719746477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266296,
       "num": 322015,
       "word": "魔兽世界开服",
@@ -32897,6 +32921,14 @@
       "onboard_time": 1717669938,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256280,
+      "num": 256280,
+      "word": "彩虹",
+      "onboard_time": 1719746537,
+      "rank": 18,
+      "category": "自然"
     },
     {
       "raw_hot": 255987,
@@ -37825,6 +37857,14 @@
       "onboard_time": 1719059179,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217910,
+      "num": 217910,
+      "word": "知情人称坠落火箭系天龙三号",
+      "onboard_time": 1719746297,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217881,
@@ -46971,6 +47011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184971,
+      "num": 184971,
+      "word": "Uzi谈停播原因",
+      "onboard_time": 1719746059,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184962,
       "num": 184962,
       "word": "王力宏",
@@ -48057,6 +48105,14 @@
       "onboard_time": 1718100258,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179914,
+      "num": 179914,
+      "word": "仙逆",
+      "onboard_time": 1719745458,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 179865,
@@ -51979,6 +52035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166482,
+      "num": 166482,
+      "word": "吴彦祖又帅回来了",
+      "onboard_time": 1719746118,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166454,
       "num": 142647,
       "word": "寂静之地",
@@ -52635,28 +52699,12 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 164203,
-      "num": 164203,
-      "word": "于正说不明白吴谨言受了啥委屈",
-      "onboard_time": 1719745938,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164179,
       "num": 163488,
       "word": "那英唱哪首",
       "onboard_time": 1717571718,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164111,
-      "num": 164111,
-      "word": "你觉得女子怀孕应该是谁来照顾",
-      "onboard_time": 1719745938,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 164026,
@@ -59787,6 +59835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143114,
+      "num": 143114,
+      "word": "日本老教授被曝猥亵幼女",
+      "onboard_time": 1719742937,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143107,
       "num": 143107,
       "word": "AG对战TES",
@@ -63449,14 +63505,6 @@
       "onboard_time": 1717482678,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132350,
-      "num": 132350,
-      "word": "日本老教授被曝猥亵幼女",
-      "onboard_time": 1719742937,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132342,
@@ -68755,14 +68803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117790,
-      "num": 117790,
-      "word": "仙逆",
-      "onboard_time": 1719745458,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117745,
       "num": 117745,
       "word": "2024暑期档的第一部电影",
@@ -73947,14 +73987,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 100235,
-      "num": 100235,
-      "word": "Uzi谈停播原因",
-      "onboard_time": 1719746059,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100160,
       "num": 100160,
       "word": "退钱哥甲亢哥合影",
@@ -75315,6 +75347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93741,
+      "num": 93741,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1719746597,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93707,
       "num": 93707,
       "word": "老师们即将开启两月带薪休假",
@@ -75819,6 +75859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90131,
+      "num": 90131,
+      "word": "伞兵灰绿色西装",
+      "onboard_time": 1719746537,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89855,
       "num": 113738,
       "word": "美国CPI回落至三年低位",
@@ -76193,6 +76241,14 @@
       "onboard_time": 1718441599,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86925,
+      "num": 86925,
+      "word": "女生花470元带1条鱼去医院看病",
+      "onboard_time": 1719747198,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86754,
@@ -87460,7 +87516,7 @@
     },
     {
       "raw_hot": 14716,
-      "num": 199668,
+      "num": 321603,
       "word": "感谢你们让少年的梦想生根发芽",
       "onboard_time": 1719739637,
       "rank": 21,
