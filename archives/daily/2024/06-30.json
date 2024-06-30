@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719753601794,
+  "endTime": 1719754486642,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1092928,
-      "num": 317764,
+      "num": 319612,
       "word": "周翊然 像鹿晗",
       "onboard_time": 1719749777,
       "rank": 11,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 835118,
-      "num": 835118,
+      "raw_hot": 863090,
+      "num": 863090,
       "word": "冯禧中传硕士毕业",
       "onboard_time": 1719750559,
       "rank": 27,
@@ -177,6 +177,14 @@
       "onboard_time": 1719671178,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 731899,
+      "num": 731899,
+      "word": "青3选手蒋智豪称病情加重",
+      "onboard_time": 1719752477,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 720754,
@@ -339,6 +347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 567574,
+      "num": 345728,
+      "word": "吴谨言王星越芭莎预告",
+      "onboard_time": 1719752418,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 566862,
       "num": 566862,
       "word": "为什么马的腿断了必须死",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 565732,
-      "num": 272657,
+      "num": 279023,
       "word": "剑桥偶遇田亮森蝶",
       "onboard_time": 1719751398,
       "rank": 33,
@@ -369,14 +385,6 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 557485,
-      "num": 267219,
-      "word": "青3选手蒋智豪称病情加重",
-      "onboard_time": 1719752477,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 539806,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 459902,
-      "num": 253264,
+      "num": 260781,
       "word": "校长回答月薪1万2先深造还是先赚钱",
       "onboard_time": 1719744257,
       "rank": 20,
@@ -827,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297959,
-      "num": 297959,
-      "word": "吴谨言王星越芭莎预告",
-      "onboard_time": 1719752418,
-      "rank": 9,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 297041,
       "num": 297041,
       "word": "小鬼说我们团梦回大厂",
@@ -875,12 +875,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266720,
+      "num": 266720,
+      "word": "上海60岁阿姨暴雨送别伊势丹百货",
+      "onboard_time": 1719749237,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
       "onboard_time": 1719721577,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258404,
+      "num": 258404,
+      "word": "吴谨言说今天拍了好看的照片",
+      "onboard_time": 1719753558,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257444,
+      "num": 222073,
+      "word": "王星越的营业方式",
+      "onboard_time": 1719753558,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 255912,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 238604,
-      "num": 238604,
+      "num": 239389,
       "word": "女生花470元带1条鱼去医院看病",
       "onboard_time": 1719747198,
       "rank": 47,
@@ -971,20 +995,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224680,
-      "num": 201272,
-      "word": "王星越的营业方式",
-      "onboard_time": 1719753558,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
       "onboard_time": 1719664279,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 222382,
+      "num": 222382,
+      "word": "neinei与好友逛街",
+      "onboard_time": 1719750977,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220701,
+      "num": 220701,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 220403,
@@ -1035,12 +1067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209584,
-      "num": 209584,
-      "word": "上海60岁阿姨暴雨送别伊势丹百货",
-      "onboard_time": 1719749237,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 209502,
+      "num": 175382,
+      "word": "极限挑战",
+      "onboard_time": 1719753918,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 205589,
@@ -1051,12 +1083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205509,
-      "num": 205509,
-      "word": "neinei与好友逛街",
-      "onboard_time": 1719750977,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 205587,
+      "num": 172593,
+      "word": "卓沅舞台",
+      "onboard_time": 1719753978,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 205454,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1719752358,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202481,
-      "num": 202481,
-      "word": "吴谨言说今天拍了好看的照片",
-      "onboard_time": 1719753558,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 202458,
@@ -1179,20 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196933,
+      "num": 170218,
+      "word": "墨雨云间聚餐了",
+      "onboard_time": 1719753978,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195453,
+      "num": 263735,
+      "word": "深中通道堵了",
+      "onboard_time": 1719752058,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194935,
       "num": 194935,
       "word": "吴谨言下一部剧还是古偶",
       "onboard_time": 1719742098,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194917,
-      "num": 194917,
-      "word": "深中通道堵了",
-      "onboard_time": 1719752058,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194339,
@@ -1299,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184849,
+      "num": 167605,
+      "word": "北大女篮CUBAL总冠军",
+      "onboard_time": 1719753978,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "瑞士vs意大利",
@@ -1379,6 +1419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165228,
+      "num": 165228,
+      "word": "杭州30岁女孩白天打工人晚上贝斯手",
+      "onboard_time": 1719751159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165042,
+      "num": 165042,
+      "word": "张志杰 紧急治疗",
+      "onboard_time": 1719753199,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164609,
       "num": 140888,
       "word": "aespa演唱会上的SM女练习生",
@@ -1433,14 +1489,6 @@
       "onboard_time": 1719749178,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156217,
-      "num": 156217,
-      "word": "杭州30岁女孩白天打工人晚上贝斯手",
-      "onboard_time": 1719751159,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153135,
@@ -1563,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143145,
+      "num": 143145,
+      "word": "infp一生都会为体验买单",
+      "onboard_time": 1719753258,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143114,
       "num": 143114,
       "word": "日本老教授被曝猥亵幼女",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1719713178,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135036,
+      "num": 135036,
+      "word": "十三香小龙虾居然要用30多种料",
+      "onboard_time": 1719753800,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 134799,
@@ -1747,14 +1811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125156,
-      "num": 125156,
-      "word": "张志杰 紧急治疗",
-      "onboard_time": 1719753199,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124595,
       "num": 124595,
       "word": "和平精英区域对抗赛冠军夜",
@@ -1827,12 +1883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120631,
-      "num": 120631,
-      "word": "许玮甯说邱泽私下很可爱",
-      "onboard_time": 1719753438,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 121144,
+      "num": 121144,
+      "word": "张杰在重庆那么开朗吗",
+      "onboard_time": 1719754339,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 120490,
@@ -1873,6 +1929,14 @@
       "onboard_time": 1719664037,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118675,
+      "num": 118675,
+      "word": "张信哲演唱会",
+      "onboard_time": 1719753978,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 118214,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1719667459,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110767,
-      "num": 110767,
-      "word": "infp一生都会为体验买单",
-      "onboard_time": 1719753258,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 110681,
@@ -2555,7 +2611,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52527,
+      "raw_hot": 55628,
       "num": 313104,
       "word": "畅爽烧烤节沈阳局开烤了",
       "onboard_time": 1719750258,
@@ -2620,7 +2676,7 @@
     },
     {
       "raw_hot": 38110,
-      "num": 206141,
+      "num": 320864,
       "word": "老人到宁波旅行寻找失联50年老战友",
       "onboard_time": 1719751398,
       "rank": 27,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1719685572,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33698,
+      "num": 737430,
+      "word": "中国式现代化是干出来的",
+      "onboard_time": 1719754099,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33015,
@@ -2871,6 +2935,9 @@
     },
     {
       "word": "#习近平致信祝贺深中通道建成开通#"
+    },
+    {
+      "word": "#习近平主席这样倡导上海精神#"
     }
   ]
 }
