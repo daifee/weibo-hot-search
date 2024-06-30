@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719754486642,
+  "endTime": 1719757027999,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854712,
+      "num": 854712,
+      "word": "青3选手蒋智豪称病情加重",
+      "onboard_time": 1719752477,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829001,
       "num": 393239,
       "word": "刘畊宏纪凌尘腋下管理的极与极",
@@ -179,14 +187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 731899,
-      "num": 731899,
-      "word": "青3选手蒋智豪称病情加重",
-      "onboard_time": 1719752477,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 720754,
       "num": 720754,
       "word": "女孩差点被带走父亲查监控像人贩子",
@@ -201,6 +201,14 @@
       "onboard_time": 1719722840,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709618,
+      "num": 264636,
+      "word": "B太 上海打车去新疆",
+      "onboard_time": 1719755060,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 677156,
@@ -595,6 +603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 426810,
+      "num": 342488,
+      "word": "度华年",
+      "onboard_time": 1719664037,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421732,
       "num": 421732,
       "word": "吃完的荔枝不要扔",
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356158,
+      "num": 356158,
+      "word": "深中通道堵了",
+      "onboard_time": 1719752058,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353554,
       "num": 353554,
       "word": "知情人称坠落火箭系天龙三号",
@@ -723,11 +747,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340153,
+      "num": 258404,
+      "word": "吴谨言说今天拍了好看的照片",
+      "onboard_time": 1719753558,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340018,
       "num": 340018,
       "word": "侵华期间日本印假钞破坏中国经济",
       "onboard_time": 1719715876,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332581,
+      "num": 332581,
+      "word": "上海60岁阿姨暴雨送别伊势丹百货",
+      "onboard_time": 1719749237,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274807,
+      "num": 210978,
+      "word": "杨紫后悔没带泡面去巴黎",
+      "onboard_time": 1719756319,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272051,
       "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
@@ -875,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266720,
-      "num": 266720,
-      "word": "上海60岁阿姨暴雨送别伊势丹百货",
-      "onboard_time": 1719749237,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 264157,
+      "num": 264157,
+      "word": "十三香小龙虾居然要用30多种料",
+      "onboard_time": 1719753800,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 259373,
@@ -889,14 +937,6 @@
       "onboard_time": 1719721577,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258404,
-      "num": 258404,
-      "word": "吴谨言说今天拍了好看的照片",
-      "onboard_time": 1719753558,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 257444,
@@ -963,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238992,
+      "num": 220701,
+      "word": "许玮甯说邱泽私下很可爱",
+      "onboard_time": 1719753438,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238604,
       "num": 239389,
       "word": "女生花470元带1条鱼去医院看病",
       "onboard_time": 1719747198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234619,
+      "num": 210878,
+      "word": "墨雨云间聚餐了",
+      "onboard_time": 1719753978,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 234172,
@@ -1011,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220701,
-      "num": 220701,
-      "word": "许玮甯说邱泽私下很可爱",
-      "onboard_time": 1719753438,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220403,
       "num": 152865,
       "word": "谁懂辛芷蕾手臂青筋的杀伤力",
@@ -1043,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216585,
+      "num": 210276,
+      "word": "为什么空调除湿比制冷更凉爽",
+      "onboard_time": 1719755598,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 216528,
       "num": 216528,
       "word": "山寨周杰伦全国巡演暂停",
@@ -1059,12 +1115,44 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 215026,
+      "num": 215026,
+      "word": "U17男篮中国战胜法国",
+      "onboard_time": 1719755961,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214275,
       "num": 214275,
       "word": "张本智和早田希娜突尼斯站夺冠",
       "onboard_time": 1719711676,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212659,
+      "num": 209958,
+      "word": "你介意另一半文化水平低吗",
+      "onboard_time": 1719754819,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211309,
+      "num": 211309,
+      "word": "太原理工vs清华大学",
+      "onboard_time": 1719755840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209944,
+      "num": 209944,
+      "word": "普华永道丢掉前8大客户",
+      "onboard_time": 1719755660,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209502,
@@ -1084,7 +1172,7 @@
     },
     {
       "raw_hot": 205587,
-      "num": 172593,
+      "num": 194025,
       "word": "卓沅舞台",
       "onboard_time": 1719753978,
       "rank": 31,
@@ -1201,22 +1289,6 @@
       "onboard_time": 1719724817,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196933,
-      "num": 170218,
-      "word": "墨雨云间聚餐了",
-      "onboard_time": 1719753978,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195453,
-      "num": 263735,
-      "word": "深中通道堵了",
-      "onboard_time": 1719752058,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194935,
@@ -1371,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176866,
+      "num": 176866,
+      "word": "赵今麦张凌赫 苹果吻",
+      "onboard_time": 1719756258,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176165,
       "num": 745860,
       "word": "高考录取期间防范四大骗局",
@@ -1409,6 +1489,14 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165763,
+      "num": 165763,
+      "word": "朱志鑫认证自己绝对C位",
+      "onboard_time": 1719756199,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 165303,
@@ -1489,6 +1577,22 @@
       "onboard_time": 1719749178,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157887,
+      "num": 157887,
+      "word": "肖战这样介绍家乡国宝",
+      "onboard_time": 1719756979,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156651,
+      "num": 156651,
+      "word": "infp一生都会为体验买单",
+      "onboard_time": 1719753258,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 153135,
@@ -1611,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143145,
-      "num": 143145,
-      "word": "infp一生都会为体验买单",
-      "onboard_time": 1719753258,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143114,
       "num": 143114,
       "word": "日本老教授被曝猥亵幼女",
@@ -1707,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135036,
-      "num": 135036,
-      "word": "十三香小龙虾居然要用30多种料",
-      "onboard_time": 1719753800,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "典型infp一天都在干什么",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1719736396,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132269,
+      "num": 132269,
+      "word": "七月文案",
+      "onboard_time": 1719754399,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 130203,
@@ -1920,14 +2016,6 @@
       "word": "于正想he导演想be",
       "onboard_time": 1719719237,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 119059,
-      "num": 139799,
-      "word": "度华年",
-      "onboard_time": 1719664037,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2635,6 +2723,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48993,
+      "num": 210456,
+      "word": "飞越伶仃洋",
+      "onboard_time": 1719754578,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47624,
+      "num": 737430,
+      "word": "中国式现代化是干出来的",
+      "onboard_time": 1719754099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47454,
       "num": 49646,
       "word": "德国晋级欧洲杯8强",
@@ -2665,6 +2769,14 @@
       "onboard_time": 1719749540,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42387,
+      "num": 264340,
+      "word": "吴艳妮定制五环戒指为自己加油打气",
+      "onboard_time": 1719755119,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 40874,
@@ -2777,14 +2889,6 @@
       "onboard_time": 1719685572,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 33698,
-      "num": 737430,
-      "word": "中国式现代化是干出来的",
-      "onboard_time": 1719754099,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33015,
