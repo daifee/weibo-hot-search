@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719776133033,
+  "endTime": 1719778794977,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22237,
+      "num": 22237,
+      "word": "网文作者真的很赚钱吗",
+      "onboard_time": 1719775391,
+      "rank": 44,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 19032,
       "num": 27189,
       "word": "汪苏泷听见下雨的声音vlog",
@@ -443,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18001,
-      "num": 21638,
-      "word": "网文作者真的很赚钱吗",
-      "onboard_time": 1719775391,
-      "rank": 44,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 16747,
       "num": 148498,
       "word": "一半一半的智慧",
       "onboard_time": 1719758839,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14172,
+      "num": 18339,
+      "word": "两只小狗隔着笼子拍手",
+      "onboard_time": 1719778511,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 11686,
