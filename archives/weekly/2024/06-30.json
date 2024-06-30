@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719767813975,
+  "endTime": 1719768859477,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -1019,20 +1019,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299621,
+      "num": 299621,
+      "word": "英格兰vs斯洛伐克",
+      "onboard_time": 1719759139,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297041,
       "num": 297041,
       "word": "小鬼说我们团梦回大厂",
       "onboard_time": 1719715696,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295498,
-      "num": 295498,
-      "word": "英格兰vs斯洛伐克",
-      "onboard_time": 1719759139,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 293204,
@@ -3035,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42139,
+      "num": 55379,
+      "word": "薛之谦汕头",
+      "onboard_time": 1719768016,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40874,
       "num": 109378,
       "word": "这艘船海上发射火箭成功率百分百",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1719686892,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31611,
+      "num": 55337,
+      "word": "发现很多人都是精装朋友圈毛坯人生",
+      "onboard_time": 1719768794,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 30606,

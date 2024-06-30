@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719767813975,
+  "endTime": 1719768859477,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -115,8 +115,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 295498,
-      "num": 295498,
+      "raw_hot": 299621,
+      "num": 299621,
       "word": "英格兰vs斯洛伐克",
       "onboard_time": 1719759139,
       "rank": 19,
@@ -403,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42139,
+      "num": 55379,
+      "word": "薛之谦汕头",
+      "onboard_time": 1719768016,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32121,
       "num": 321081,
       "word": "2024年进度条已过一半",
       "onboard_time": 1719763878,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 31611,
+      "num": 55337,
+      "word": "发现很多人都是精装朋友圈毛坯人生",
+      "onboard_time": 1719768794,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 29483,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 16747,
-      "num": 91090,
+      "num": 148498,
       "word": "一半一半的智慧",
       "onboard_time": 1719758839,
       "rank": 21,
