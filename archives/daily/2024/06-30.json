@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719725669062,
+  "endTime": 1719728740218,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -17,6 +17,14 @@
       "onboard_time": 1719706875,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1436248,
+      "num": 1436248,
+      "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+      "onboard_time": 1719724936,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1245688,
@@ -65,14 +73,6 @@
       "onboard_time": 1719668000,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 839551,
-      "num": 420661,
-      "word": "黄子韬说没有鹿晗就不会签徐艺洋",
-      "onboard_time": 1719724936,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 733355,
@@ -267,6 +267,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 414935,
+      "num": 151693,
+      "word": "中国游客在日本消费新三样",
+      "onboard_time": 1719726256,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394637,
       "num": 375821,
       "word": "今年上半年体感最爆的剧",
@@ -275,8 +283,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386252,
+      "num": 386252,
+      "word": "日本拉面店禁止食客用耳机",
+      "onboard_time": 1719724459,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384409,
-      "num": 362160,
+      "num": 382265,
       "word": "于正回复吴谨言王星越必须二搭",
       "onboard_time": 1719724517,
       "rank": 17,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331993,
+      "num": 195278,
+      "word": "小孩哥误锁下唇上演七分哭三分笑",
+      "onboard_time": 1719723317,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319989,
       "num": 319989,
       "word": "张杰脱衣服和掉话筒的反差感",
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300944,
+      "num": 300944,
+      "word": "王一博来广西晒黑了",
+      "onboard_time": 1719727398,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300697,
       "num": 300697,
       "word": "Twins 我很想爱他",
@@ -417,6 +449,22 @@
       "onboard_time": 1719718398,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290591,
+      "num": 290591,
+      "word": "袁娅维听说宁静卖浪姐团服",
+      "onboard_time": 1719725298,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264865,
+      "num": 264865,
+      "word": "肖战到杭州",
+      "onboard_time": 1719727938,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 259373,
@@ -483,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230390,
+      "num": 230390,
+      "word": "Angelababy 辛巴直播",
+      "onboard_time": 1719728358,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229896,
       "num": 229896,
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
@@ -515,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210152,
-      "num": 195278,
-      "word": "小孩哥误锁下唇上演七分哭三分笑",
-      "onboard_time": 1719723317,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205589,
       "num": 173723,
       "word": "华晨宇 关于日出的那一天",
       "onboard_time": 1719716897,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205454,
+      "num": 149419,
+      "word": "李梦有话是真说啊",
+      "onboard_time": 1719725538,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205017,
@@ -553,6 +609,14 @@
       "onboard_time": 1719723798,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202212,
+      "num": 149673,
+      "word": "颜心记喷饭剧",
+      "onboard_time": 1719725417,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201994,
@@ -643,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179619,
-      "num": 179619,
-      "word": "袁娅维听说宁静卖浪姐团服",
-      "onboard_time": 1719725298,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179567,
       "num": 152099,
       "word": "Angelababy涩谷辣妹",
@@ -715,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160638,
+      "num": 146399,
+      "word": "朱丹周一围带女儿参加小学入学测试",
+      "onboard_time": 1719728716,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158394,
       "num": 158394,
       "word": "意大利欧洲杯出局",
@@ -745,6 +809,14 @@
       "onboard_time": 1719664518,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148589,
+      "num": 148589,
+      "word": "我是9918.5万分之一",
+      "onboard_time": 1719727398,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148258,
@@ -803,12 +875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144895,
-      "num": 144895,
-      "word": "颜心记喷饭剧",
-      "onboard_time": 1719725417,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 144474,
+      "num": 144474,
+      "word": "马立奥告状大王",
+      "onboard_time": 1719728417,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 143362,
@@ -816,6 +888,14 @@
       "word": "杨颖直播穿高定",
       "onboard_time": 1719708977,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142251,
+      "num": 142251,
+      "word": "林俊杰祝福张书豪欧阳妮妮",
+      "onboard_time": 1719727938,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -875,12 +955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131105,
+      "num": 131105,
+      "word": "以军空袭前给加沙平民5分钟逃命",
+      "onboard_time": 1719727337,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
       "onboard_time": 1719661877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129447,
+      "num": 129447,
+      "word": "裴文宣这一口你终于亲上了",
+      "onboard_time": 1719728358,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 129164,
@@ -907,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123897,
+      "num": 123897,
+      "word": "王心凌也有演唱会戒断反应",
+      "onboard_time": 1719727637,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122740,
       "num": 122740,
       "word": "围棋世界冠军柯洁从清华毕业了",
@@ -929,6 +1033,14 @@
       "onboard_time": 1719702674,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120490,
+      "num": 120490,
+      "word": "花32刀买到了已故老人的回忆",
+      "onboard_time": 1719727876,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 119621,
@@ -979,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117042,
+      "num": 117042,
+      "word": "林允U领爆闪裙",
+      "onboard_time": 1719724338,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114783,
       "num": 114783,
       "word": "蔡依林演唱会",
@@ -1008,6 +1128,14 @@
       "word": "陈昊宇的手被宁静硬控住了",
       "onboard_time": 1719674058,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111605,
+      "num": 105049,
+      "word": "林允带着她完美的发际线登场了",
+      "onboard_time": 1719726018,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1051,12 +1179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104451,
-      "num": 104451,
-      "word": "李梦有话是真说啊",
-      "onboard_time": 1719725538,
+      "raw_hot": 105050,
+      "num": 105050,
+      "word": "不能让老师看出来的染发色",
+      "onboard_time": 1719726917,
       "rank": 46,
-      "category": "作品衍生"
+      "category": "幽默"
     },
     {
       "raw_hot": 104212,
@@ -1072,14 +1200,6 @@
       "word": "你好星期六檀健次新歌手势舞挑战",
       "onboard_time": 1719673338,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 103514,
-      "num": 103514,
-      "word": "林允U领爆闪裙",
-      "onboard_time": 1719724338,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1363,6 +1483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50659,
+      "num": 118928,
+      "word": "被两只新生水豚宝宝萌到了",
+      "onboard_time": 1719726558,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47454,
       "num": 49646,
       "word": "德国晋级欧洲杯8强",
@@ -1484,7 +1612,7 @@
     },
     {
       "raw_hot": 28806,
-      "num": 158632,
+      "num": 394122,
       "word": "沿着大运河看安徽",
       "onboard_time": 1719717016,
       "rank": 23,
@@ -1496,6 +1624,14 @@
       "word": "穿越千年看大运河秀美画卷",
       "onboard_time": 1719659957,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27266,
+      "num": 288244,
+      "word": "松弛感变成了一个新赛道",
+      "onboard_time": 1719728417,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1545,14 +1681,6 @@
       "onboard_time": 1719713536,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10712,
-      "num": 169825,
-      "word": "日本拉面店禁止食客用耳机",
-      "onboard_time": 1719724459,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9713,
