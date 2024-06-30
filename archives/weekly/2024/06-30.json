@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719712135845,
+  "endTime": 1719715122687,
   "band_list": [
     {
       "raw_hot": 1469824,
@@ -16,6 +16,14 @@
       "word": "李一桐 蜈蚣",
       "onboard_time": 1719702854,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1033171,
+      "num": 1033171,
+      "word": "谁家男二20集才有正脸",
+      "onboard_time": 1719711196,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 596382,
-      "num": 134951,
+      "num": 158163,
       "word": "当一个重度抑郁女孩没钱做心理咨询",
       "onboard_time": 1719708075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588890,
+      "num": 164323,
+      "word": "为什么韩系在中国不流行了",
+      "onboard_time": 1719710956,
+      "rank": 24,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 580901,
@@ -75,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 573487,
+      "num": 162019,
+      "word": "浙大学霸成为百万粉丝网红",
+      "onboard_time": 1719712637,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558074,
       "num": 558074,
       "word": "王俊凯 族长",
@@ -83,8 +107,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536318,
+      "num": 536318,
+      "word": "为什么马的腿断了必须死",
+      "onboard_time": 1719709398,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534731,
-      "num": 134161,
+      "num": 160769,
       "word": "韩国济州岛旅游遭到拉面汤威胁",
       "onboard_time": 1719709817,
       "rank": 25,
@@ -131,28 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471549,
-      "num": 133959,
-      "word": "为什么马的腿断了必须死",
-      "onboard_time": 1719709398,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 464153,
       "num": 464153,
       "word": "上海暴雨",
       "onboard_time": 1719706755,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427466,
-      "num": 326629,
-      "word": "谁家男二20集才有正脸",
-      "onboard_time": 1719711196,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 394637,
@@ -179,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372209,
+      "num": 320926,
+      "word": "穆念慈大婚割发断情",
+      "onboard_time": 1719712637,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361594,
       "num": 361594,
       "word": "她从博士后到首席科学家仅用4年",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 346862,
-      "num": 133105,
+      "num": 153830,
       "word": "减肥期间不建议吃的水果",
       "onboard_time": 1719705674,
       "rank": 26,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327072,
+      "num": 327072,
+      "word": "自动续费应以显著方式提醒消费者",
+      "onboard_time": 1719712637,
+      "rank": 5,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 319722,
       "num": 162993,
       "word": "王心凌玫瑰嫁纱",
@@ -211,20 +243,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 315609,
-      "num": 133608,
-      "word": "为什么韩系在中国不流行了",
-      "onboard_time": 1719710956,
-      "rank": 24,
-      "category": "时尚,社会新闻"
-    },
-    {
       "raw_hot": 311510,
-      "num": 132818,
+      "num": 150571,
       "word": "现在体检也要开始量腰围了",
       "onboard_time": 1719705854,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302066,
+      "num": 302066,
+      "word": "张杰脱衣服和掉话筒的反差感",
+      "onboard_time": 1719713476,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 300697,
@@ -259,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251734,
+      "num": 155744,
+      "word": "租房真的是进社会的第一课",
+      "onboard_time": 1719709817,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233686,
       "num": 652298,
       "word": "网红面筋哥肝癌晚期进ICU",
@@ -291,11 +331,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214275,
+      "num": 214275,
+      "word": "张本智和早田希娜突尼斯站夺冠",
+      "onboard_time": 1719711676,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
       "onboard_time": 1719673640,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "深中通道今日通车",
+      "onboard_time": 1719714677,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -307,20 +363,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189409,
-      "num": 131823,
-      "word": "租房真的是进社会的第一课",
-      "onboard_time": 1719709817,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189297,
       "num": 189297,
       "word": "美军每天用十多辆卡车偷叙利亚小麦",
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 186952,
+      "num": 154876,
+      "word": "原来喝这些饮料会导致口臭",
+      "onboard_time": 1719706575,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186074,
@@ -331,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184842,
-      "num": 130996,
-      "word": "原来喝这些饮料会导致口臭",
-      "onboard_time": 1719706575,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 184946,
+      "num": 184946,
+      "word": "劳塔罗拥抱梅西",
+      "onboard_time": 1719713236,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 182847,
@@ -369,6 +425,14 @@
       "onboard_time": 1719672980,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164925,
+      "num": 164925,
+      "word": "许嵩青岛",
+      "onboard_time": 1719713178,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 163211,
@@ -419,8 +483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143394,
+      "num": 143394,
+      "word": "亡夫13万元存款消失当事银行致歉",
+      "onboard_time": 1719714796,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143362,
-      "num": 131560,
+      "num": 132931,
       "word": "杨颖直播穿高定",
       "onboard_time": 1719708977,
       "rank": 33,
@@ -448,6 +520,14 @@
       "word": "德国vs丹麦因雷暴天气被吹停",
       "onboard_time": 1719703213,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135241,
+      "num": 135241,
+      "word": "阿根廷2比0秘鲁",
+      "onboard_time": 1719713178,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -547,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110842,
-      "num": 110842,
-      "word": "张本智和早田希娜突尼斯站夺冠",
-      "onboard_time": 1719711676,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109522,
       "num": 139809,
       "word": "为什么强烈推荐你夏天穿羊毛",
@@ -627,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87074,
+      "num": 87074,
+      "word": "大四男生拿4年所获证书和老师合影",
+      "onboard_time": 1719712697,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86754,
       "num": 86754,
       "word": "专家称如再有新政或涉一线城市落户",
@@ -665,6 +745,14 @@
       "onboard_time": 1719658457,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81080,
+      "num": 86983,
+      "word": "xiaopeng谈RNG赛训",
+      "onboard_time": 1719712517,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 80163,
@@ -715,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73347,
+      "num": 86500,
+      "word": "急于逼你做决定的人通常是骗子",
+      "onboard_time": 1719714497,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70969,
       "num": 70969,
       "word": "国产动画长发妹",
@@ -753,6 +849,14 @@
       "onboard_time": 1719666019,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63898,
+      "num": 274136,
+      "word": "女子回应替参军儿子参加毕业典礼",
+      "onboard_time": 1719714558,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 50714,
@@ -897,6 +1001,14 @@
       "onboard_time": 1719702612,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12934,
+      "num": 100061,
+      "word": "边伯贤666",
+      "onboard_time": 1719713536,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 9713,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719715122687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1033171,
+        "num": 1033171,
+        "word": "谁家男二20集才有正脸",
+        "onboard_time": 1719711196,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 690260,
+        "num": 690260,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13471,
+        "num": 546758,
+        "word": "穿越千年看大运河秀美画卷",
+        "onboard_time": 1719659957,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152301,
+        "num": 546055,
+        "word": "李一桐 蜈蚣",
+        "onboard_time": 1719702854,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536318,
+        "num": 536318,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327072,
+        "num": 327072,
+        "word": "自动续费应以显著方式提醒消费者",
+        "onboard_time": 1719712637,
+        "rank": 5,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 372209,
+        "num": 320926,
+        "word": "穆念慈大婚割发断情",
+        "onboard_time": 1719712637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302066,
+        "num": 302066,
+        "word": "张杰脱衣服和掉话筒的反差感",
+        "onboard_time": 1719713476,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276181,
+        "num": 276181,
+        "word": "她从博士后到首席科学家仅用4年",
+        "onboard_time": 1719706995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63898,
+        "num": 274136,
+        "word": "女子回应替参军儿子参加毕业典礼",
+        "onboard_time": 1719714558,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1133270,
+        "num": 271897,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503699,
+        "num": 269349,
+        "word": "王星越工作室致歉声明",
+        "onboard_time": 1719705735,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321030,
+        "num": 265003,
+        "word": "刘宇宁帮李一桐找蜈蚣",
+        "onboard_time": 1719708256,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263095,
+        "num": 263095,
+        "word": "上海暴雨",
+        "onboard_time": 1719706755,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244301,
+        "num": 244301,
+        "word": "爸爸让女儿用眼泪把盆装满才开电视",
+        "onboard_time": 1719671300,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214275,
+        "num": 214275,
+        "word": "张本智和早田希娜突尼斯站夺冠",
+        "onboard_time": 1719711676,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "今年上半年体感最爆的剧",
+        "onboard_time": 1719667276,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190388,
+        "num": 190388,
+        "word": "深中通道今日通车",
+        "onboard_time": 1719714677,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 184946,
+        "word": "劳塔罗拥抱梅西",
+        "onboard_time": 1719713236,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "许嵩青岛",
+        "onboard_time": 1719713178,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588890,
+        "num": 164323,
+        "word": "为什么韩系在中国不流行了",
+        "onboard_time": 1719710956,
+        "rank": 20,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 573487,
+        "num": 162019,
+        "word": "浙大学霸成为百万粉丝网红",
+        "onboard_time": 1719712637,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511779,
+        "num": 160769,
+        "word": "韩国济州岛旅游遭到拉面汤威胁",
+        "onboard_time": 1719709817,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452543,
+        "num": 158163,
+        "word": "当一个重度抑郁女孩没钱做心理咨询",
+        "onboard_time": 1719708075,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251734,
+        "num": 155744,
+        "word": "租房真的是进社会的第一课",
+        "onboard_time": 1719709817,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 154876,
+        "word": "原来喝这些饮料会导致口臭",
+        "onboard_time": 1719706575,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "减肥期间不建议吃的水果",
+        "onboard_time": 1719705674,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150660,
+        "num": 150660,
+        "word": "于正的番外算是白拍了",
+        "onboard_time": 1719675500,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150571,
+        "num": 150571,
+        "word": "现在体检也要开始量腰围了",
+        "onboard_time": 1719705854,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145356,
+        "num": 145356,
+        "word": "王俊凯 族长",
+        "onboard_time": 1719672860,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143394,
+        "num": 143394,
+        "word": "亡夫13万元存款消失当事银行致歉",
+        "onboard_time": 1719714796,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137092,
+        "num": 137092,
+        "word": "Twins 我很想爱他",
+        "onboard_time": 1719705017,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135241,
+        "num": 135241,
+        "word": "阿根廷2比0秘鲁",
+        "onboard_time": 1719713178,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "杨颖直播穿高定",
+        "onboard_time": 1719708977,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117624,
+        "num": 117624,
+        "word": "于正会开除一干人等",
+        "onboard_time": 1719671479,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115979,
+        "num": 115979,
+        "word": "江浙沪朋友们最近出门的样子",
+        "onboard_time": 1719671178,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112649,
+        "num": 112649,
+        "word": "搬家后才知道自己的极简是个笑话",
+        "onboard_time": 1719705674,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112107,
+        "num": 112107,
+        "word": "3人组织失足女卖淫还实行考勤管理",
+        "onboard_time": 1719705375,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111348,
+        "num": 111348,
+        "word": "深中通道",
+        "onboard_time": 1719711558,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108168,
+        "num": 108168,
+        "word": "王星越工作室",
+        "onboard_time": 1719672679,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107997,
+        "num": 107997,
+        "word": "登陆日",
+        "onboard_time": 1719711738,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104920,
+        "num": 104920,
+        "word": "德国vs丹麦因雷暴天气被吹停",
+        "onboard_time": 1719703213,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12934,
+        "num": 100061,
+        "word": "边伯贤666",
+        "onboard_time": 1719713536,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97493,
+        "num": 97493,
+        "word": "唐嫣的腿硬控我",
+        "onboard_time": 1719671240,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94830,
+        "num": 94830,
+        "word": "勇士将与汤普森分道扬镳",
+        "onboard_time": 1719706336,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93449,
+        "num": 93449,
+        "word": "瑞士晋级欧洲杯8强",
+        "onboard_time": 1719703093,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87074,
+        "num": 87074,
+        "word": "大四男生拿4年所获证书和老师合影",
+        "onboard_time": 1719712697,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81080,
+        "num": 86983,
+        "word": "xiaopeng谈RNG赛训",
+        "onboard_time": 1719712517,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73516,
+        "num": 86747,
+        "word": "唐嫣每次一出来罗晋就被夸",
+        "onboard_time": 1719665239,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73347,
+        "num": 86500,
+        "word": "急于逼你做决定的人通常是骗子",
+        "onboard_time": 1719714497,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席赋予和平共处五项原则新的时代内涵#"
+    }
+  }
+}
