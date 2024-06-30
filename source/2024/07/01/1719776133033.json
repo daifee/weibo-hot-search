@@ -1,0 +1,410 @@
+{
+  "runTime": 1719776133033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117873,
+        "num": 117873,
+        "word": "英格兰vs斯洛伐克",
+        "onboard_time": 1719759139,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76398,
+        "num": 76398,
+        "word": "西班牙vs格鲁吉亚",
+        "onboard_time": 1719764657,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5324,
+        "num": 70677,
+        "word": "飞越伶仃洋",
+        "onboard_time": 1719754578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70092,
+        "num": 70092,
+        "word": "直播间花499元抢了条假金链子",
+        "onboard_time": 1719758779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68950,
+        "num": 68950,
+        "word": "赵今麦张凌赫 苹果吻",
+        "onboard_time": 1719756258,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82545,
+        "num": 67396,
+        "word": "业主砍断高空作业工人绳索",
+        "onboard_time": 1719759081,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63654,
+        "num": 63654,
+        "word": "鬼灭之刃",
+        "onboard_time": 1719760878,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 60210,
+        "num": 60210,
+        "word": "妈妈是清华的儿子也是清华的",
+        "onboard_time": 1719761659,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43739,
+        "num": 43739,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38895,
+        "num": 38895,
+        "word": "鹭卓 杭州站",
+        "onboard_time": 1719760339,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68491,
+        "num": 38857,
+        "word": "王星越说买断是有点买不过来了",
+        "onboard_time": 1719746477,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65237,
+        "num": 37657,
+        "word": "以色列民众示威要求提前大选结束冲突",
+        "onboard_time": 1719762858,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 60560,
+        "num": 37089,
+        "word": "于正说不明白吴谨言受了啥委屈",
+        "onboard_time": 1719745938,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55309,
+        "num": 36114,
+        "word": "周翊然 像鹿晗",
+        "onboard_time": 1719749777,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7092,
+        "num": 35611,
+        "word": "退役警犬三步一回头告别训导员",
+        "onboard_time": 1719762018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50674,
+        "num": 34886,
+        "word": "张杰谢娜牵手下班",
+        "onboard_time": 1719759560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41012,
+        "num": 34036,
+        "word": "许玮甯说邱泽私下很可爱",
+        "onboard_time": 1719753438,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33839,
+        "num": 33839,
+        "word": "现在电视剧为何不爱叫XX传了",
+        "onboard_time": 1719747738,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31938,
+        "num": 31938,
+        "word": "吴艳妮女子100米栏冠军",
+        "onboard_time": 1719745517,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29104,
+        "num": 31932,
+        "word": "来月经前为啥很想吃甜食",
+        "onboard_time": 1719759858,
+        "rank": 19,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 63497,
+        "num": 31932,
+        "word": "长期口臭可能是长了扁桃体结石",
+        "onboard_time": 1719759920,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56634,
+        "num": 31924,
+        "word": "23岁找工作因年龄大被HR拒绝了",
+        "onboard_time": 1719757639,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32166,
+        "num": 31914,
+        "word": "恋爱兄妹",
+        "onboard_time": 1719759380,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31914,
+        "num": 31913,
+        "word": "如何用3周瘦42斤",
+        "onboard_time": 1719758959,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31775,
+        "num": 31775,
+        "word": "青3选手蒋智豪称病情加重",
+        "onboard_time": 1719752477,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29986,
+        "num": 29986,
+        "word": "何浩楠舞台照",
+        "onboard_time": 1719763276,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29168,
+        "num": 29168,
+        "word": "王星越的营业方式",
+        "onboard_time": 1719753558,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26167,
+        "num": 26167,
+        "word": "B太 上海打车去新疆",
+        "onboard_time": 1719755060,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25715,
+        "num": 25715,
+        "word": "为什么空调除湿比制冷更凉爽",
+        "onboard_time": 1719755598,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25596,
+        "num": 25596,
+        "word": "你觉得女子怀孕应该是谁来照顾",
+        "onboard_time": 1719745938,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24639,
+        "num": 24639,
+        "word": "你介意另一半文化水平低吗",
+        "onboard_time": 1719754819,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23869,
+        "num": 23869,
+        "word": "身上为什么会突然出现小红点",
+        "onboard_time": 1719757460,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22898,
+        "num": 22898,
+        "word": "发现很多人都是精装朋友圈毛坯人生",
+        "onboard_time": 1719768794,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22876,
+        "num": 22876,
+        "word": "冯禧中传硕士毕业",
+        "onboard_time": 1719750559,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22492,
+        "num": 22492,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1719760459,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22346,
+        "num": 22346,
+        "word": "剑桥偶遇田亮森蝶",
+        "onboard_time": 1719751398,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 22065,
+        "word": "河南官方回应火箭起火坠落",
+        "onboard_time": 1719742157,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21696,
+        "num": 21696,
+        "word": "杨紫G社生图",
+        "onboard_time": 1719750379,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19801,
+        "num": 21692,
+        "word": "度华年",
+        "onboard_time": 1719754639,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 21681,
+        "word": "普华永道丢掉前8大客户",
+        "onboard_time": 1719755660,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19266,
+        "num": 21672,
+        "word": "张杰重庆万人火锅点菜",
+        "onboard_time": 1719761000,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19256,
+        "num": 21667,
+        "word": "司机还以为天塌了",
+        "onboard_time": 1719762618,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18759,
+        "num": 21648,
+        "word": "太原理工vs清华大学",
+        "onboard_time": 1719755840,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18646,
+        "num": 21645,
+        "word": "张碧晨演唱会",
+        "onboard_time": 1719759679,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18001,
+        "num": 21638,
+        "word": "网文作者真的很赚钱吗",
+        "onboard_time": 1719775391,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 17879,
+        "num": 21620,
+        "word": "吴彦祖又帅回来了",
+        "onboard_time": 1719746118,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17755,
+        "num": 21617,
+        "word": "汪苏泷听见下雨的声音vlog",
+        "onboard_time": 1719774011,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17080,
+        "num": 21602,
+        "word": "白桃星座",
+        "onboard_time": 1719759018,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17009,
+        "num": 21599,
+        "word": "吴谨言王星越芭莎预告",
+        "onboard_time": 1719752418,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16396,
+        "num": 21581,
+        "word": "DYG 松弛感",
+        "onboard_time": 1719757880,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样倡导上海精神#"
+    }
+  }
+}
