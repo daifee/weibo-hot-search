@@ -1,0 +1,410 @@
+{
+  "runTime": 1719725669062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677151,
+        "num": 1677151,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 710325,
+        "num": 710325,
+        "word": "珠峰死亡地带4具遗体被运回",
+        "onboard_time": 1719722840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66350,
+        "num": 450405,
+        "word": "70秒看深中通道从无到有",
+        "onboard_time": 1719717557,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839551,
+        "num": 420661,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368527,
+        "num": 368527,
+        "word": "奥运冠军杨倩清华大学毕业",
+        "onboard_time": 1719715696,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362540,
+        "num": 362540,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384409,
+        "num": 362160,
+        "word": "于正回复吴谨言王星越必须二搭",
+        "onboard_time": 1719724517,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359256,
+        "num": 359256,
+        "word": "吃完的荔枝不要扔",
+        "onboard_time": 1719719358,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 344036,
+        "num": 344036,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341658,
+        "num": 341658,
+        "word": "谁家男二20集才有正脸",
+        "onboard_time": 1719711196,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862986,
+        "num": 335978,
+        "word": "杨迪的狗安乐死了",
+        "onboard_time": 1719718097,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61137,
+        "num": 302298,
+        "word": "小婴儿在消防员用盆做的船里睡香香",
+        "onboard_time": 1719722840,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494047,
+        "num": 302096,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301803,
+        "num": 301803,
+        "word": "为什么韩系在中国不流行了",
+        "onboard_time": 1719710956,
+        "rank": 13,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 286167,
+        "num": 286167,
+        "word": "陈坤 我怕了",
+        "onboard_time": 1719718036,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283857,
+        "num": 283857,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719718578,
+        "rank": 15,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 259373,
+        "num": 259373,
+        "word": "张艺兴首尔演唱会vlog",
+        "onboard_time": 1719721577,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234172,
+        "num": 234172,
+        "word": "于正晒白鹿陈鑫海剧照",
+        "onboard_time": 1719723857,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219684,
+        "num": 219684,
+        "word": "当一个重度抑郁女孩没钱做心理咨询",
+        "onboard_time": 1719708075,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189455,
+        "num": 189455,
+        "word": "亡夫13万元存款消失当事银行致歉",
+        "onboard_time": 1719714796,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514707,
+        "num": 188518,
+        "word": "为何戴森卖不过国产平替了",
+        "onboard_time": 1719720738,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447277,
+        "num": 187587,
+        "word": "恋爱脑果然是男人最好的医美",
+        "onboard_time": 1719722538,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229980,
+        "num": 187090,
+        "word": "卜冠今演技",
+        "onboard_time": 1719722899,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213093,
+        "num": 185970,
+        "word": "在故宫走丢真的倍有面子",
+        "onboard_time": 1719717377,
+        "rank": 23,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 212335,
+        "num": 185264,
+        "word": "李一桐 蜈蚣",
+        "onboard_time": 1719702854,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210152,
+        "num": 183592,
+        "word": "小孩哥误锁下唇上演七分哭三分笑",
+        "onboard_time": 1719723317,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197558,
+        "num": 182595,
+        "word": "王一博桂林出发兰州",
+        "onboard_time": 1719724817,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190497,
+        "num": 182447,
+        "word": "张若昀钓鱼永不空军",
+        "onboard_time": 1719725238,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65565,
+        "num": 180911,
+        "word": "暑假旅行网上预订你都踩过哪些坑",
+        "onboard_time": 1719723617,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29186,
+        "num": 179827,
+        "word": "尼日利亚番茄价格暴涨20倍",
+        "onboard_time": 1719725238,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179619,
+        "num": 179619,
+        "word": "袁娅维听说宁静卖浪姐团服",
+        "onboard_time": 1719725298,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161854,
+        "num": 161854,
+        "word": "临江仙",
+        "onboard_time": 1719720137,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159319,
+        "num": 159319,
+        "word": "千万不要随便在白纸上签字",
+        "onboard_time": 1719722597,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147528,
+        "num": 147528,
+        "word": "第一次见这么认真生气的小猫",
+        "onboard_time": 1719724878,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144895,
+        "num": 144895,
+        "word": "颜心记喷饭剧",
+        "onboard_time": 1719725417,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141079,
+        "num": 141079,
+        "word": "浙大学霸成为百万粉丝网红",
+        "onboard_time": 1719712637,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 136663,
+        "word": "黑龙江一小客车单方事故致5死12伤",
+        "onboard_time": 1719722118,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135246,
+        "num": 135246,
+        "word": "林俊杰胡彦斌黑夜问白天舞台",
+        "onboard_time": 1719723798,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131309,
+        "num": 131309,
+        "word": "马立奥重回爸爸当家",
+        "onboard_time": 1719724517,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130091,
+        "num": 130091,
+        "word": "王星越工作室致歉声明",
+        "onboard_time": 1719705735,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "辛爽美甲",
+        "onboard_time": 1719724698,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127489,
+        "num": 127489,
+        "word": "刘宇宁帮李一桐找蜈蚣",
+        "onboard_time": 1719708256,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "一直娱快闪",
+        "onboard_time": 1719722538,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122161,
+        "num": 122161,
+        "word": "丽水的大宝贝生了47个小宝贝",
+        "onboard_time": 1719718336,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113452,
+        "num": 113452,
+        "word": "UFC",
+        "onboard_time": 1719725478,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105062,
+        "num": 105062,
+        "word": "韩国济州岛旅游遭到拉面汤威胁",
+        "onboard_time": 1719709817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104451,
+        "num": 104451,
+        "word": "李梦有话是真说啊",
+        "onboard_time": 1719725538,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104235,
+        "num": 104235,
+        "word": "上海暴雨",
+        "onboard_time": 1719706755,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103514,
+        "num": 103514,
+        "word": "林允U领爆闪裙",
+        "onboard_time": 1719724338,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97027,
+        "num": 97027,
+        "word": "RNG管理层",
+        "onboard_time": 1719718457,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党的理想信念顽强奋斗不懈奋斗#"
+    }
+  }
+}
