@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719789613173,
+  "endTime": 1719790479165,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 669112,
+      "num": 669112,
+      "word": "张志杰",
+      "onboard_time": 1719789555,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 667450,
       "num": 285910,
       "word": "Angelababy 辛巴直播",
@@ -329,6 +337,14 @@
       "onboard_time": 1719727398,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 610142,
+      "num": 243071,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604444,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562893,
-      "num": 166919,
-      "word": "缉毒卧底连续偶遇警察同事",
-      "onboard_time": 1719779710,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561810,
       "num": 292170,
       "word": "黄子韬徐艺洋一路上都在拌嘴",
@@ -449,6 +457,14 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546965,
+      "num": 546965,
+      "word": "爷爷靠近一个月小宝结果醉酒了",
+      "onboard_time": 1719788714,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 539806,
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350449,
+      "num": 157641,
+      "word": "坚持了二十天晚上十点半睡觉",
+      "onboard_time": 1719789074,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346862,
       "num": 153830,
       "word": "减肥期间不建议吃的水果",
@@ -913,14 +937,6 @@
       "onboard_time": 1719715876,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337951,
-      "num": 337951,
-      "word": "爷爷靠近一个月小宝结果醉酒了",
-      "onboard_time": 1719788714,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 332581,
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 267513,
-      "num": 223107,
+      "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
       "onboard_time": 1719756258,
       "rank": 38,
@@ -1187,6 +1203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249469,
+      "num": 242926,
+      "word": "英格兰逆转晋级8强",
+      "onboard_time": 1719789015,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244649,
       "num": 244649,
       "word": "珍珠学会下楼梯了",
@@ -1251,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226578,
+      "num": 243381,
+      "word": "鞠婧祎郭敬明或将合作",
+      "onboard_time": 1719788895,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217464,
-      "num": 99017,
-      "word": "英格兰逆转晋级8强",
-      "onboard_time": 1719789015,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 216878,
@@ -1392,6 +1416,14 @@
       "word": "深中通道今日通车",
       "onboard_time": 1719714677,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203284,
+      "num": 203284,
+      "word": "7月第一天",
+      "onboard_time": 1719789314,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194053,
+      "num": 194053,
+      "word": "七月对我好一点",
+      "onboard_time": 1719789494,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192786,
       "num": 192786,
       "word": "蒲熠星黄子弘凡背着院人接新节目",
@@ -1619,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185912,
-      "num": 110656,
-      "word": "坚持了二十天晚上十点半睡觉",
-      "onboard_time": 1719789074,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185740,
       "num": 200285,
       "word": "STE区域对抗赛吃鸡",
@@ -1691,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177562,
+      "num": 177562,
+      "word": "建党节",
+      "onboard_time": 1719790095,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177067,
       "num": 152638,
       "word": "王星越剧后专场云访谈",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1719758180,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172926,
+      "num": 172926,
+      "word": "中国地铁站有厕所让老外破防",
+      "onboard_time": 1719789555,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 170886,
@@ -1779,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164191,
+      "num": 149209,
+      "word": "突然被告知住了30年的房子要拆迁了",
+      "onboard_time": 1719788714,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163211,
       "num": 163211,
       "word": "喝绿豆汤最好一天别超过500ml",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1719757580,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162853,
-      "num": 98367,
-      "word": "7月第一天",
-      "onboard_time": 1719789314,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162434,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1719763276,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151120,
+      "num": 144626,
+      "word": "穿袜子睡觉可以提高睡眠质量",
+      "onboard_time": 1719788714,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150704,
@@ -2027,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139429,
+      "num": 139429,
+      "word": "勇士裁掉保罗",
+      "onboard_time": 1719789675,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138958,
       "num": 138958,
       "word": "等了一年等来了相柳的死讯",
@@ -2115,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132834,
+      "num": 132834,
+      "word": "羽毛球",
+      "onboard_time": 1719789555,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132827,
       "num": 132827,
       "word": "东方甄选为什么总被自己人拆台",
@@ -2131,20 +2203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130276,
-      "num": 130276,
-      "word": "张志杰",
-      "onboard_time": 1719789555,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
       "onboard_time": 1719661877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129357,
+      "num": 129357,
+      "word": "超一本80家里人觉得没书读了",
+      "onboard_time": 1719789074,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 129164,
@@ -2155,11 +2227,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128381,
-      "num": 128381,
-      "word": "七月对我好一点",
-      "onboard_time": 1719789494,
-      "rank": 15,
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "现在连朋友圈自由都没有了",
+      "onboard_time": 1719788774,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -2187,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127617,
+      "num": 127617,
+      "word": "西班牙4比1格鲁吉亚",
+      "onboard_time": 1719788834,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126498,
       "num": 126498,
       "word": "j人和P人一起买东西流程",
@@ -2195,20 +2275,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125265,
+      "num": 125265,
+      "word": "警方通报邯郸一村支书被杀害",
+      "onboard_time": 1719789435,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "DOU5对战Gr",
       "onboard_time": 1719745517,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124944,
-      "num": 110069,
-      "word": "突然被告知住了30年的房子要拆迁了",
-      "onboard_time": 1719788714,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 124595,
@@ -2419,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112996,
+      "num": 112996,
+      "word": "医学生的毕业典礼全是娃",
+      "onboard_time": 1719789135,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
@@ -2467,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109968,
-      "num": 109968,
-      "word": "西班牙4比1格鲁吉亚",
-      "onboard_time": 1719788834,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109729,
       "num": 174713,
       "word": "现实中的阿勒泰夏季转场来了",
@@ -2497,6 +2577,14 @@
       "onboard_time": 1719723497,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105887,
+      "num": 105887,
+      "word": "党的生日",
+      "onboard_time": 1719789494,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105849,
@@ -2579,14 +2667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103151,
-      "num": 110499,
-      "word": "鞠婧祎郭敬明或将合作",
-      "onboard_time": 1719788895,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102408,
       "num": 102408,
       "word": "阿根廷vs秘鲁",
@@ -2635,6 +2715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98067,
+      "num": 98067,
+      "word": "NBA自由市场",
+      "onboard_time": 1719789135,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97985,
       "num": 97985,
       "word": "超80部影片定档2024暑期档",
@@ -2648,14 +2736,6 @@
       "word": "肝脏损伤的4个信号",
       "onboard_time": 1719662358,
       "rank": 34,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96906,
-      "num": 96906,
-      "word": "穿袜子睡觉可以提高睡眠质量",
-      "onboard_time": 1719788714,
-      "rank": 32,
       "category": "健康医疗"
     },
     {
@@ -2692,7 +2772,7 @@
     },
     {
       "raw_hot": 94332,
-      "num": 110237,
+      "num": 243251,
       "word": "香港回归这一刻再看依旧激动人心",
       "onboard_time": 1719789494,
       "rank": 25,
@@ -2731,20 +2811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92057,
-      "num": 92057,
-      "word": "中国地铁站有厕所让老外破防",
-      "onboard_time": 1719789555,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "金融消费者",
       "onboard_time": 1719747498,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91258,
+      "num": 91258,
+      "word": "小猫咪坐下来后我决定原谅这个世界了",
+      "onboard_time": 1719788714,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 90546,
@@ -2827,28 +2907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84859,
-      "num": 84859,
-      "word": "超一本80家里人觉得没书读了",
-      "onboard_time": 1719789074,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84835,
       "num": 233695,
       "word": "谁能跑赢黄色法拉利",
       "onboard_time": 1719728897,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84509,
-      "num": 84509,
-      "word": "医学生的毕业典礼全是娃",
-      "onboard_time": 1719789135,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 84378,
@@ -2867,20 +2931,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 82034,
-      "num": 82034,
-      "word": "NBA自由市场",
-      "onboard_time": 1719789135,
-      "rank": 42,
+      "raw_hot": 83182,
+      "num": 83182,
+      "word": "克莱离开勇士",
+      "onboard_time": 1719790396,
+      "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81807,
-      "num": 75032,
-      "word": "现在连朋友圈自由都没有了",
-      "onboard_time": 1719788774,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 81306,
@@ -2987,20 +3043,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73449,
-      "num": 73449,
-      "word": "小猫咪坐下来后我决定原谅这个世界了",
-      "onboard_time": 1719788714,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73347,
       "num": 86500,
       "word": "急于逼你做决定的人通常是骗子",
       "onboard_time": 1719714497,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72797,
+      "num": 517970,
+      "word": "7月新规影响你我",
+      "onboard_time": 1719755119,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72779,
@@ -3027,14 +3083,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 70726,
-      "num": 70726,
-      "word": "党的生日",
-      "onboard_time": 1719789494,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 70513,
       "num": 139324,
       "word": "eStar战胜AG",
@@ -3057,14 +3105,6 @@
       "onboard_time": 1719735616,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65765,
-      "num": 65765,
-      "word": "羽毛球",
-      "onboard_time": 1719789555,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 65565,
@@ -3225,14 +3265,6 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42064,
-      "num": 339137,
-      "word": "7月新规影响你我",
-      "onboard_time": 1719755119,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40874,

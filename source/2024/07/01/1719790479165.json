@@ -1,0 +1,410 @@
+{
+  "runTime": 1719790479165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 669112,
+        "num": 669112,
+        "word": "张志杰",
+        "onboard_time": 1719789555,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546965,
+        "num": 546965,
+        "word": "爷爷靠近一个月小宝结果醉酒了",
+        "onboard_time": 1719788714,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72797,
+        "num": 517970,
+        "word": "7月新规影响你我",
+        "onboard_time": 1719755119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501160,
+        "num": 501160,
+        "word": "妈妈是清华的儿子也是清华的",
+        "onboard_time": 1719761659,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324989,
+        "num": 324989,
+        "word": "官方回应2岁幼童高空卖艺后求抱抱",
+        "onboard_time": 1719778871,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468469,
+        "num": 320471,
+        "word": "业主砍断高空作业工人绳索",
+        "onboard_time": 1719759081,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261012,
+        "num": 261012,
+        "word": "现在电视剧为何不爱叫XX传了",
+        "onboard_time": 1719747738,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243428,
+        "num": 243428,
+        "word": "赵今麦张凌赫 苹果吻",
+        "onboard_time": 1719756258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226578,
+        "num": 243381,
+        "word": "鞠婧祎郭敬明或将合作",
+        "onboard_time": 1719788895,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88049,
+        "num": 243251,
+        "word": "香港回归这一刻再看依旧激动人心",
+        "onboard_time": 1719789494,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610142,
+        "num": 243071,
+        "word": "缉毒卧底连续偶遇警察同事",
+        "onboard_time": 1719779710,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249469,
+        "num": 242926,
+        "word": "英格兰逆转晋级8强",
+        "onboard_time": 1719789015,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242874,
+        "num": 242874,
+        "word": "于正说不明白吴谨言受了啥委屈",
+        "onboard_time": 1719745938,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233936,
+        "num": 233936,
+        "word": "张杰谢娜牵手下班",
+        "onboard_time": 1719759560,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203284,
+        "num": 203284,
+        "word": "7月第一天",
+        "onboard_time": 1719789314,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194053,
+        "num": 194053,
+        "word": "七月对我好一点",
+        "onboard_time": 1719789494,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177562,
+        "num": 177562,
+        "word": "建党节",
+        "onboard_time": 1719790095,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172926,
+        "num": 172926,
+        "word": "中国地铁站有厕所让老外破防",
+        "onboard_time": 1719789555,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161771,
+        "num": 161771,
+        "word": "英格兰vs斯洛伐克",
+        "onboard_time": 1719759139,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159931,
+        "num": 159931,
+        "word": "直播间花499元抢了条假金链子",
+        "onboard_time": 1719758779,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427947,
+        "num": 158986,
+        "word": "长期口臭可能是长了扁桃体结石",
+        "onboard_time": 1719759920,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350449,
+        "num": 157641,
+        "word": "坚持了二十天晚上十点半睡觉",
+        "onboard_time": 1719789074,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222087,
+        "num": 153748,
+        "word": "23岁找工作因年龄大被HR拒绝了",
+        "onboard_time": 1719757639,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149595,
+        "num": 149595,
+        "word": "七一",
+        "onboard_time": 1719789074,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164191,
+        "num": 149209,
+        "word": "突然被告知住了30年的房子要拆迁了",
+        "onboard_time": 1719788714,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151120,
+        "num": 144626,
+        "word": "穿袜子睡觉可以提高睡眠质量",
+        "onboard_time": 1719788714,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139429,
+        "num": 139429,
+        "word": "勇士裁掉保罗",
+        "onboard_time": 1719789675,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136175,
+        "num": 136175,
+        "word": "剑桥偶遇田亮森蝶",
+        "onboard_time": 1719751398,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132834,
+        "num": 132834,
+        "word": "羽毛球",
+        "onboard_time": 1719789555,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130387,
+        "num": 130387,
+        "word": "许玮甯说邱泽私下很可爱",
+        "onboard_time": 1719753438,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129357,
+        "num": 129357,
+        "word": "超一本80家里人觉得没书读了",
+        "onboard_time": 1719789074,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127968,
+        "num": 127968,
+        "word": "现在连朋友圈自由都没有了",
+        "onboard_time": 1719788774,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "西班牙4比1格鲁吉亚",
+        "onboard_time": 1719788834,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127342,
+        "num": 127342,
+        "word": "如何用3周瘦42斤",
+        "onboard_time": 1719758959,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125265,
+        "num": 125265,
+        "word": "警方通报邯郸一村支书被杀害",
+        "onboard_time": 1719789435,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 118325,
+        "word": "1997年7月1日0时0分0秒",
+        "onboard_time": 1719741438,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117868,
+        "num": 117868,
+        "word": "青3选手蒋智豪称病情加重",
+        "onboard_time": 1719752477,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112996,
+        "num": 112996,
+        "word": "医学生的毕业典礼全是娃",
+        "onboard_time": 1719789135,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109985,
+        "num": 109985,
+        "word": "B太 上海打车去新疆",
+        "onboard_time": 1719755060,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109080,
+        "num": 109080,
+        "word": "欧洲杯",
+        "onboard_time": 1719789255,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 105887,
+        "word": "党的生日",
+        "onboard_time": 1719789494,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104518,
+        "num": 104518,
+        "word": "张杰重庆万人火锅点菜",
+        "onboard_time": 1719761000,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99699,
+        "num": 99699,
+        "word": "周翊然 像鹿晗",
+        "onboard_time": 1719749777,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98179,
+        "num": 98179,
+        "word": "以色列民众示威要求提前大选结束冲突",
+        "onboard_time": 1719762858,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98067,
+        "num": 98067,
+        "word": "NBA自由市场",
+        "onboard_time": 1719789135,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93952,
+        "num": 93952,
+        "word": "冯禧中传硕士毕业",
+        "onboard_time": 1719750559,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92675,
+        "num": 92675,
+        "word": "为什么空调除湿比制冷更凉爽",
+        "onboard_time": 1719755598,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91258,
+        "num": 91258,
+        "word": "小猫咪坐下来后我决定原谅这个世界了",
+        "onboard_time": 1719788714,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83182,
+        "num": 83182,
+        "word": "克莱离开勇士",
+        "onboard_time": 1719790396,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77933,
+        "num": 77933,
+        "word": "身上为什么会突然出现小红点",
+        "onboard_time": 1719757460,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样倡导上海精神#"
+    }
+  }
+}
