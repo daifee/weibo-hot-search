@@ -1,0 +1,410 @@
+{
+  "runTime": 1719736537420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739716,
+        "num": 739716,
+        "word": "黄子韬说没有鹿晗就不会签徐艺洋",
+        "onboard_time": 1719724936,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537129,
+        "num": 537129,
+        "word": "日本拉面店禁止食客用耳机",
+        "onboard_time": 1719724459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67271,
+        "num": 458273,
+        "word": "龙腾湾区桥见未来",
+        "onboard_time": 1719735616,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425466,
+        "num": 425466,
+        "word": "男孩0点被父母薅起过生日硬控情绪",
+        "onboard_time": 1719730637,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255388,
+        "num": 255388,
+        "word": "中国游客在日本消费新三样",
+        "onboard_time": 1719726256,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477776,
+        "num": 250509,
+        "word": "黄子韬徐艺洋一路上都在拌嘴",
+        "onboard_time": 1719730937,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263065,
+        "num": 240295,
+        "word": "吴昕 陈昊宇依然需要自我介绍",
+        "onboard_time": 1719729557,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220438,
+        "num": 220438,
+        "word": "肖战到杭州",
+        "onboard_time": 1719727938,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217038,
+        "num": 217038,
+        "word": "珠峰死亡地带4具遗体被运回",
+        "onboard_time": 1719722840,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215316,
+        "num": 215316,
+        "word": "Kindle中国电子书店停止下载服务",
+        "onboard_time": 1719732136,
+        "rank": 9,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 1251385,
+        "num": 209756,
+        "word": "孙海洋回应孙卓高考成绩",
+        "onboard_time": 1719734117,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882925,
+        "num": 195461,
+        "word": "美国网红鼻祖自曝16岁起遭性虐待",
+        "onboard_time": 1719730816,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800720,
+        "num": 193628,
+        "word": "刘畊宏纪凌尘腋下管理的极与极",
+        "onboard_time": 1719732198,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725698,
+        "num": 176149,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313056,
+        "num": 165523,
+        "word": "Angelababy 辛巴直播",
+        "onboard_time": 1719728358,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265248,
+        "num": 163559,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254150,
+        "num": 150353,
+        "word": "杨迪的狗安乐死了",
+        "onboard_time": 1719718097,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143763,
+        "num": 143763,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138744,
+        "num": 138744,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98316,
+        "num": 137376,
+        "word": "高考录取期间防范四大骗局",
+        "onboard_time": 1719734957,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34415,
+        "num": 136262,
+        "word": "郑州大学生骑共享单车52公里到开封",
+        "onboard_time": 1719735858,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577464,
+        "num": 135837,
+        "word": "微信朋友圈置顶新玩法",
+        "onboard_time": 1719733217,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 443115,
+        "num": 134227,
+        "word": "空调开一会关一会更省电吗",
+        "onboard_time": 1719732976,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 297443,
+        "num": 132065,
+        "word": "阴干的衣服为什么有股臭味",
+        "onboard_time": 1719734238,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 221694,
+        "num": 131311,
+        "word": "我是9918.5万分之一",
+        "onboard_time": 1719727398,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205995,
+        "num": 130012,
+        "word": "黄景瑜躺床上还是伸不开腿",
+        "onboard_time": 1719730756,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57940,
+        "num": 127867,
+        "word": "女孩用11年从中专走到研究生毕业",
+        "onboard_time": 1719736458,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 125968,
+        "word": "谁家综艺一下来两壮壮妈啊",
+        "onboard_time": 1719736458,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179990,
+        "num": 124607,
+        "word": "谁懂辛芷蕾手臂青筋的杀伤力",
+        "onboard_time": 1719734656,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164609,
+        "num": 123837,
+        "word": "aespa演唱会上的SM女练习生",
+        "onboard_time": 1719735978,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187020,
+        "num": 122468,
+        "word": "子宫内膜异位症",
+        "onboard_time": 1719736337,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 120230,
+        "word": "王星越剧后专场云访谈",
+        "onboard_time": 1719733338,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120040,
+        "num": 120040,
+        "word": "当邓超遇上刘亦菲",
+        "onboard_time": 1719729917,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119392,
+        "num": 119392,
+        "word": "杨迪回应宠物去世",
+        "onboard_time": 1719730876,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 112997,
+        "word": "王一博来广西晒黑了",
+        "onboard_time": 1719727398,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107993,
+        "num": 107993,
+        "word": "为何戴森卖不过国产平替了",
+        "onboard_time": 1719720738,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120706,
+        "num": 106116,
+        "word": "于正回复吴谨言王星越必须二搭",
+        "onboard_time": 1719724517,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102229,
+        "num": 102229,
+        "word": "裴文宣这一口你终于亲上了",
+        "onboard_time": 1719728358,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95961,
+        "num": 95961,
+        "word": "朱丹周一围带女儿参加小学入学测试",
+        "onboard_time": 1719728716,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 95403,
+        "word": "恋爱脑果然是男人最好的医美",
+        "onboard_time": 1719722538,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "松弛感变成了一个新赛道",
+        "onboard_time": 1719728417,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93331,
+        "num": 93331,
+        "word": "周笔畅你太拿我当外人了",
+        "onboard_time": 1719733817,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90066,
+        "num": 90066,
+        "word": "东方甄选为什么总被自己人拆台",
+        "onboard_time": 1719736396,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87872,
+        "num": 87872,
+        "word": "西安雷雨大风冰雹双预警",
+        "onboard_time": 1719733997,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85903,
+        "num": 85903,
+        "word": "温州中专生化身锦鲤跳进浙江大学",
+        "onboard_time": 1719734417,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 83053,
+        "num": 83053,
+        "word": "直击深中通道通车试运营",
+        "onboard_time": 1719732198,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80467,
+        "num": 80467,
+        "word": "老外来中国旅游狂发好city啊",
+        "onboard_time": 1719730517,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 79898,
+        "num": 79898,
+        "word": "奥运冠军杨倩清华大学毕业",
+        "onboard_time": 1719715696,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79762,
+        "num": 79762,
+        "word": "吴谨言直播预告",
+        "onboard_time": 1719736337,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77236,
+        "num": 77236,
+        "word": "深圳至中山跨江通道",
+        "onboard_time": 1719729257,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向参与规划建设深中通道的同志致以问候#"
+    }
+  }
+}

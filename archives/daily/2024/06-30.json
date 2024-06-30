@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719735756109,
+  "endTime": 1719736537420,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1276464,
-      "num": 198433,
+      "num": 209756,
       "word": "孙海洋回应孙卓高考成绩",
       "onboard_time": 1719734117,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 577464,
+      "num": 153610,
+      "word": "微信朋友圈置顶新玩法",
+      "onboard_time": 1719733217,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 566862,
       "num": 566862,
       "word": "为什么马的腿断了必须死",
@@ -291,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 491391,
-      "num": 153610,
-      "word": "微信朋友圈置顶新玩法",
-      "onboard_time": 1719733217,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 480220,
       "num": 213402,
       "word": "恋爱脑果然是男人最好的医美",
@@ -345,6 +345,14 @@
       "onboard_time": 1719718578,
       "rank": 4,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 443115,
+      "num": 153359,
+      "word": "空调开一会关一会更省电吗",
+      "onboard_time": 1719732976,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 421732,
@@ -417,14 +425,6 @@
       "onboard_time": 1719727938,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350994,
-      "num": 153359,
-      "word": "空调开一会关一会更省电吗",
-      "onboard_time": 1719732976,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 346862,
@@ -539,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297443,
+      "num": 152984,
+      "word": "阴干的衣服为什么有股臭味",
+      "onboard_time": 1719734238,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 297041,
       "num": 297041,
       "word": "小鬼说我们团梦回大厂",
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232654,
-      "num": 152984,
-      "word": "阴干的衣服为什么有股臭味",
-      "onboard_time": 1719734238,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 229896,
       "num": 229896,
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
@@ -699,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215316,
+      "num": 215316,
+      "word": "Kindle中国电子书店停止下载服务",
+      "onboard_time": 1719732136,
+      "rank": 38,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 214275,
       "num": 214275,
       "word": "张本智和早田希娜突尼斯站夺冠",
       "onboard_time": 1719711676,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205828,
+      "num": 125968,
+      "word": "谁家综艺一下来两壮壮妈啊",
+      "onboard_time": 1719736458,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205589,
@@ -779,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190800,
-      "num": 190800,
-      "word": "Kindle中国电子书店停止下载服务",
-      "onboard_time": 1719732136,
-      "rank": 38,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 190497,
       "num": 182447,
       "word": "张若昀钓鱼永不空军",
@@ -817,6 +825,14 @@
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 187020,
+      "num": 122468,
+      "word": "子宫内膜异位症",
+      "onboard_time": 1719736337,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186999,
@@ -913,6 +929,14 @@
       "onboard_time": 1719718398,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164609,
+      "num": 123837,
+      "word": "aespa演唱会上的SM女练习生",
+      "onboard_time": 1719735978,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 163211,
@@ -1443,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98316,
+      "num": 162475,
+      "word": "高考录取期间防范四大骗局",
+      "onboard_time": 1719734957,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97985,
       "num": 97985,
       "word": "超80部影片定档2024暑期档",
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93331,
+      "num": 93331,
+      "word": "周笔畅你太拿我当外人了",
+      "onboard_time": 1719733817,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90546,
       "num": 139638,
       "word": "张子墨 喜剧人",
@@ -1491,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88968,
-      "num": 88968,
-      "word": "周笔畅你太拿我当外人了",
-      "onboard_time": 1719733817,
+      "raw_hot": 90066,
+      "num": 90066,
+      "word": "东方甄选为什么总被自己人拆台",
+      "onboard_time": 1719736396,
       "rank": 42,
-      "category": "艺人"
+      "category": "互联网"
     },
     {
       "raw_hot": 88383,
@@ -1619,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79762,
+      "num": 79762,
+      "word": "吴谨言直播预告",
+      "onboard_time": 1719736337,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79121,
       "num": 139389,
       "word": "太原理工晋级cubal总决赛",
@@ -1699,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67271,
+      "num": 468944,
+      "word": "龙腾湾区桥见未来",
+      "onboard_time": 1719735616,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65565,
       "num": 339449,
       "word": "暑假旅行网上预订你都踩过哪些坑",
@@ -1731,19 +1787,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 62919,
-      "num": 162475,
-      "word": "高考录取期间防范四大骗局",
-      "onboard_time": 1719734957,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61137,
       "num": 302298,
       "word": "小婴儿在消防员用盆做的船里睡香香",
       "onboard_time": 1719722840,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57940,
+      "num": 127867,
+      "word": "女孩用11年从中专走到研究生毕业",
+      "onboard_time": 1719736458,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1777,14 +1833,6 @@
       "onboard_time": 1719681316,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40861,
-      "num": 468944,
-      "word": "龙腾湾区桥见未来",
-      "onboard_time": 1719735616,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37875,
@@ -1856,6 +1904,14 @@
       "word": "邻居家失火18岁的他只想着救人",
       "onboard_time": 1719710717,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34415,
+      "num": 136262,
+      "word": "郑州大学生骑共享单车52公里到开封",
+      "onboard_time": 1719735858,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
