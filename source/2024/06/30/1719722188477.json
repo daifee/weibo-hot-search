@@ -1,0 +1,410 @@
+{
+  "runTime": 1719722188477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920434,
+        "num": 920434,
+        "word": "李一桐发文回应蜈蚣",
+        "onboard_time": 1719721157,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 698357,
+        "num": 698357,
+        "word": "奥运冠军杨倩清华大学毕业",
+        "onboard_time": 1719715696,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71998,
+        "num": 435098,
+        "word": "70秒看深中通道从无到有",
+        "onboard_time": 1719717557,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084623,
+        "num": 434587,
+        "word": "杨迪的狗安乐死了",
+        "onboard_time": 1719718097,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433706,
+        "num": 433706,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719718578,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 420197,
+        "num": 420197,
+        "word": "为什么马的腿断了必须死",
+        "onboard_time": 1719709398,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564217,
+        "num": 419625,
+        "word": "谁家男二20集才有正脸",
+        "onboard_time": 1719711196,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532668,
+        "num": 408369,
+        "word": "陈坤 我怕了",
+        "onboard_time": 1719718036,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386611,
+        "num": 386611,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719703693,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25620,
+        "num": 381743,
+        "word": "90后特警邀轻生女孩坐警车",
+        "onboard_time": 1719718277,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748191,
+        "num": 381511,
+        "word": "李一桐 蜈蚣",
+        "onboard_time": 1719702854,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683729,
+        "num": 381253,
+        "word": "网约车司机强奸未成年乘客获刑3年",
+        "onboard_time": 1719706875,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380822,
+        "num": 380822,
+        "word": "吃完的荔枝不要扔",
+        "onboard_time": 1719719358,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 341754,
+        "num": 341754,
+        "word": "亡夫13万元存款消失当事银行致歉",
+        "onboard_time": 1719714796,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309780,
+        "num": 309780,
+        "word": "临江仙",
+        "onboard_time": 1719720137,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290033,
+        "num": 290033,
+        "word": "当一个重度抑郁女孩没钱做心理咨询",
+        "onboard_time": 1719708075,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285717,
+        "num": 285717,
+        "word": "阿Sa自述35岁后代谢减慢",
+        "onboard_time": 1719718398,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250726,
+        "num": 250726,
+        "word": "行程图",
+        "onboard_time": 1719717858,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223116,
+        "num": 223116,
+        "word": "侵华期间日本印假钞破坏中国经济",
+        "onboard_time": 1719715876,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193575,
+        "num": 193575,
+        "word": "RNG管理层",
+        "onboard_time": 1719718457,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 523985,
+        "num": 191535,
+        "word": "在故宫走丢真的倍有面子",
+        "onboard_time": 1719717377,
+        "rank": 20,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 350137,
+        "num": 184666,
+        "word": "为何戴森卖不过国产平替了",
+        "onboard_time": 1719720738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269554,
+        "num": 178351,
+        "word": "为什么韩系在中国不流行了",
+        "onboard_time": 1719710956,
+        "rank": 22,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 203920,
+        "num": 174740,
+        "word": "张艺兴首尔演唱会vlog",
+        "onboard_time": 1719721577,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199221,
+        "num": 170649,
+        "word": "浙大学霸成为百万粉丝网红",
+        "onboard_time": 1719712637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194213,
+        "num": 164471,
+        "word": "王星越工作室致歉声明",
+        "onboard_time": 1719705735,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163020,
+        "num": 163020,
+        "word": "韩国济州岛旅游遭到拉面汤威胁",
+        "onboard_time": 1719709817,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155354,
+        "num": 155354,
+        "word": "华晨宇 关于日出的那一天",
+        "onboard_time": 1719716897,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154894,
+        "num": 154894,
+        "word": "丽水的大宝贝生了47个小宝贝",
+        "onboard_time": 1719718336,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 150000,
+        "word": "深中通道今天正式开通",
+        "onboard_time": 1719721397,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148806,
+        "num": 148806,
+        "word": "刘宇宁帮李一桐找蜈蚣",
+        "onboard_time": 1719708256,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146291,
+        "num": 146291,
+        "word": "爱上回避型依恋的人",
+        "onboard_time": 1719721217,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 135586,
+        "word": "王鹤棣杀青捧花照",
+        "onboard_time": 1719720078,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123032,
+        "num": 123032,
+        "word": "张杰脱衣服和掉话筒的反差感",
+        "onboard_time": 1719713476,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122528,
+        "num": 122528,
+        "word": "上海暴雨",
+        "onboard_time": 1719706755,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122465,
+        "num": 122465,
+        "word": "小鬼说我们团梦回大厂",
+        "onboard_time": 1719715696,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120394,
+        "num": 120394,
+        "word": "围棋世界冠军柯洁从清华毕业了",
+        "onboard_time": 1719718698,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119070,
+        "num": 119070,
+        "word": "于正想he导演想be",
+        "onboard_time": 1719719237,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116630,
+        "num": 116630,
+        "word": "杨迪痛哭",
+        "onboard_time": 1719718398,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113591,
+        "num": 113591,
+        "word": "警方通报一女子自称有所长电话",
+        "onboard_time": 1719715937,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107006,
+        "num": 107006,
+        "word": "电影默杀提档",
+        "onboard_time": 1719715577,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106869,
+        "num": 106869,
+        "word": "自动续费应以显著方式提醒消费者",
+        "onboard_time": 1719712637,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 101187,
+        "num": 101187,
+        "word": "张杰蹲下和伴舞对视这段",
+        "onboard_time": 1719722118,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99940,
+        "num": 99940,
+        "word": "眼镜是马思超的疯批开关吧",
+        "onboard_time": 1719718158,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97640,
+        "num": 97640,
+        "word": "穆念慈大婚割发断情",
+        "onboard_time": 1719712637,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96248,
+        "num": 96248,
+        "word": "黑龙江一小客车单方事故致5死12伤",
+        "onboard_time": 1719722118,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94260,
+        "num": 94260,
+        "word": "租房真的是进社会的第一课",
+        "onboard_time": 1719709817,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93292,
+        "num": 93292,
+        "word": "她从博士后到首席科学家仅用4年",
+        "onboard_time": 1719706995,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92505,
+        "num": 92505,
+        "word": "深圳到中山车程将缩短至30分钟",
+        "onboard_time": 1719717437,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90483,
+        "num": 90483,
+        "word": "苏州发布暴雨强对流双黄色预警",
+        "onboard_time": 1719720258,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为党的理想信念顽强奋斗不懈奋斗#"
+    }
+  }
+}
