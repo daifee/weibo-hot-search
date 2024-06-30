@@ -1,7 +1,15 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719722188477,
+  "endTime": 1719724660348,
   "band_list": [
+    {
+      "raw_hot": 1805340,
+      "num": 1805340,
+      "word": "李一桐发文回应蜈蚣",
+      "onboard_time": 1719721157,
+      "rank": 15,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1469824,
       "num": 381253,
@@ -59,14 +67,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 920434,
-      "num": 920434,
-      "word": "李一桐发文回应蜈蚣",
-      "onboard_time": 1719721157,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 733355,
       "num": 733355,
       "word": "江浙沪朋友们最近出门的样子",
@@ -89,6 +89,14 @@
       "onboard_time": 1719672679,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 619508,
+      "num": 214292,
+      "word": "为何戴森卖不过国产平替了",
+      "onboard_time": 1719720738,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618594,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 588890,
-      "num": 198490,
+      "num": 288133,
       "word": "为什么韩系在中国不流行了",
       "onboard_time": 1719710956,
       "rank": 24,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 523985,
-      "num": 203496,
+      "num": 211758,
       "word": "在故宫走丢真的倍有面子",
       "onboard_time": 1719717377,
       "rank": 24,
@@ -192,6 +200,14 @@
       "word": "爸爸让女儿用眼泪把盆装满才开电视",
       "onboard_time": 1719671300,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513053,
+      "num": 513053,
+      "word": "珠峰死亡地带4具遗体被运回",
+      "onboard_time": 1719722840,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 480220,
+      "num": 213402,
+      "word": "恋爱脑果然是男人最好的医美",
+      "onboard_time": 1719722538,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 464153,
       "num": 464153,
       "word": "上海暴雨",
@@ -227,20 +251,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 421732,
+      "num": 421732,
+      "word": "吃完的荔枝不要扔",
+      "onboard_time": 1719719358,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 394637,
       "num": 375821,
       "word": "今年上半年体感最爆的剧",
       "onboard_time": 1719667276,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392681,
-      "num": 380822,
-      "word": "吃完的荔枝不要扔",
-      "onboard_time": 1719719358,
-      "rank": 12,
-      "category": "休闲"
     },
     {
       "raw_hot": 381742,
@@ -280,14 +304,6 @@
       "word": "她从博士后到首席科学家仅用4年",
       "onboard_time": 1719706995,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350137,
-      "num": 184666,
-      "word": "为何戴森卖不过国产平替了",
-      "onboard_time": 1719720738,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309135,
+      "num": 212461,
+      "word": "卜冠今演技",
+      "onboard_time": 1719722899,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300697,
       "num": 300697,
       "word": "Twins 我很想爱他",
@@ -377,6 +401,14 @@
       "onboard_time": 1719718398,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258054,
+      "num": 258054,
+      "word": "张艺兴首尔演唱会vlog",
+      "onboard_time": 1719721577,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 255912,
@@ -419,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247522,
+      "num": 247522,
+      "word": "于正回复吴谨言王星越必须二搭",
+      "onboard_time": 1719724517,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233686,
       "num": 652298,
       "word": "网红面筋哥肝癌晚期进ICU",
       "onboard_time": 1719642498,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233334,
+      "num": 233334,
+      "word": "于正晒白鹿陈鑫海剧照",
+      "onboard_time": 1719723857,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 229896,
@@ -483,11 +531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203920,
-      "num": 174740,
-      "word": "张艺兴首尔演唱会vlog",
-      "onboard_time": 1719721577,
-      "rank": 23,
+      "raw_hot": 202458,
+      "num": 202458,
+      "word": "林俊杰胡彦斌黑夜问白天舞台",
+      "onboard_time": 1719723798,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -504,6 +552,14 @@
       "word": "上海高校学生冒雨拍毕业照",
       "onboard_time": 1719673640,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195278,
+      "num": 195278,
+      "word": "小孩哥误锁下唇上演七分哭三分笑",
+      "onboard_time": 1719723317,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -529,6 +585,14 @@
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 186515,
+      "num": 186515,
+      "word": "一直娱快闪",
+      "onboard_time": 1719722538,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186074,
@@ -561,6 +625,14 @@
       "onboard_time": 1719652458,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170886,
+      "num": 170886,
+      "word": "千万不要随便在白纸上签字",
+      "onboard_time": 1719722597,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 169618,
@@ -659,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147482,
+      "num": 147482,
+      "word": "黑龙江一小客车单方事故致5死12伤",
+      "onboard_time": 1719722118,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "马立奥重回爸爸当家",
+      "onboard_time": 1719724517,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146492,
       "num": 146492,
       "word": "勇士将与汤普森分道扬镳",
@@ -705,6 +793,14 @@
       "onboard_time": 1719703213,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137250,
+      "num": 137250,
+      "word": "恋与深空",
+      "onboard_time": 1719722476,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 135586,
@@ -827,6 +923,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114783,
+      "num": 114783,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1719723137,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113670,
+      "num": 113670,
+      "word": "黄明昊为角色剃头美黑",
+      "onboard_time": 1719722538,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
@@ -857,6 +969,14 @@
       "onboard_time": 1719668720,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 105887,
+      "num": 105887,
+      "word": "寂静之地 好丧的惊悚片",
+      "onboard_time": 1719723497,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 105667,
@@ -931,12 +1051,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96248,
-      "num": 96248,
-      "word": "黑龙江一小客车单方事故致5死12伤",
-      "onboard_time": 1719722118,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 96754,
+      "num": 96754,
+      "word": "房东的猫 这次的路口是离别",
+      "onboard_time": 1719723378,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 94013,
@@ -945,6 +1065,14 @@
       "onboard_time": 1719717437,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93225,
+      "num": 96748,
+      "word": "林允U领爆闪裙",
+      "onboard_time": 1719724338,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90546,
@@ -1179,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37593,
+      "num": 339449,
+      "word": "暑假旅行网上预订你都踩过哪些坑",
+      "onboard_time": 1719723617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37085,
       "num": 41389,
       "word": "许嵩演唱会青岛站",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1719713536,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10712,
+      "num": 169825,
+      "word": "日本拉面店禁止食客用耳机",
+      "onboard_time": 1719724459,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9713,

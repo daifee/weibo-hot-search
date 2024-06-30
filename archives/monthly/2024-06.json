@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719722188477,
+  "endTime": 1719724660348,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1719562158,
       "rank": 4,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 1805340,
+      "num": 1805340,
+      "word": "李一桐发文回应蜈蚣",
+      "onboard_time": 1719721157,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1802839,
@@ -6393,14 +6401,6 @@
       "onboard_time": 1717248498,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 920434,
-      "num": 920434,
-      "word": "李一桐发文回应蜈蚣",
-      "onboard_time": 1719721157,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 919696,
@@ -12067,6 +12067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619508,
+      "num": 214292,
+      "word": "为何戴森卖不过国产平替了",
+      "onboard_time": 1719720738,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619453,
       "num": 284591,
       "word": "胃病发展到胃癌仅仅4步",
@@ -12980,7 +12988,7 @@
     },
     {
       "raw_hot": 588890,
-      "num": 198490,
+      "num": 288133,
       "word": "为什么韩系在中国不流行了",
       "onboard_time": 1719710956,
       "rank": 24,
@@ -15228,7 +15236,7 @@
     },
     {
       "raw_hot": 523985,
-      "num": 203496,
+      "num": 211758,
       "word": "在故宫走丢真的倍有面子",
       "onboard_time": 1719717377,
       "rank": 24,
@@ -15825,6 +15833,14 @@
       "onboard_time": 1718511978,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 513053,
+      "num": 513053,
+      "word": "珠峰死亡地带4具遗体被运回",
+      "onboard_time": 1719722840,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512720,
@@ -17143,6 +17159,14 @@
       "num": 233458,
       "word": "刘亦菲梦女",
       "onboard_time": 1717853779,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480220,
+      "num": 213402,
+      "word": "恋爱脑果然是男人最好的医美",
+      "onboard_time": 1719722538,
       "rank": 21,
       "category": "剧集"
     },
@@ -20243,6 +20267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 421732,
+      "num": 421732,
+      "word": "吃完的荔枝不要扔",
+      "onboard_time": 1719719358,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 421725,
       "num": 397329,
       "word": "古茗logo",
@@ -21969,14 +22001,6 @@
       "onboard_time": 1719240321,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 392681,
-      "num": 380822,
-      "word": "吃完的荔枝不要扔",
-      "onboard_time": 1719719358,
-      "rank": 12,
-      "category": "休闲"
     },
     {
       "raw_hot": 392511,
@@ -24505,14 +24529,6 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 350137,
-      "num": 184666,
-      "word": "为何戴森卖不过国产平替了",
-      "onboard_time": 1719720738,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350114,
@@ -27537,6 +27553,14 @@
       "onboard_time": 1718114659,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 309135,
+      "num": 212461,
+      "word": "卜冠今演技",
+      "onboard_time": 1719722899,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 309110,
@@ -32339,6 +32363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258054,
+      "num": 258054,
+      "word": "张艺兴首尔演唱会vlog",
+      "onboard_time": 1719721577,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257681,
       "num": 571171,
       "word": "北京大风",
@@ -33297,6 +33329,14 @@
       "onboard_time": 1717727657,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247522,
+      "num": 247522,
+      "word": "于正回复吴谨言王星越必须二搭",
+      "onboard_time": 1719724517,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 247521,
@@ -35073,6 +35113,14 @@
       "onboard_time": 1719005710,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233334,
+      "num": 233334,
+      "word": "于正晒白鹿陈鑫海剧照",
+      "onboard_time": 1719723857,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 233303,
@@ -40683,14 +40731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203920,
-      "num": 174740,
-      "word": "张艺兴首尔演唱会vlog",
-      "onboard_time": 1719721577,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203834,
       "num": 298552,
       "word": "LNG团战",
@@ -41073,6 +41113,14 @@
       "onboard_time": 1717987099,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202458,
+      "num": 202458,
+      "word": "林俊杰胡彦斌黑夜问白天舞台",
+      "onboard_time": 1719723798,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 202440,
@@ -43385,6 +43433,14 @@
       "onboard_time": 1718320816,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195278,
+      "num": 195278,
+      "word": "小孩哥误锁下唇上演七分哭三分笑",
+      "onboard_time": 1719723317,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195262,
@@ -45833,6 +45889,14 @@
       "onboard_time": 1718755038,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186515,
+      "num": 186515,
+      "word": "一直娱快闪",
+      "onboard_time": 1719722538,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186501,
@@ -49985,6 +50049,14 @@
       "onboard_time": 1718784140,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170886,
+      "num": 170886,
+      "word": "千万不要随便在白纸上签字",
+      "onboard_time": 1719722597,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 170854,
@@ -57763,6 +57835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147482,
+      "num": 147482,
+      "word": "黑龙江一小客车单方事故致5死12伤",
+      "onboard_time": 1719722118,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147481,
       "num": 147481,
       "word": "辛芷蕾的松弛感绝了",
@@ -58017,6 +58097,14 @@
       "onboard_time": 1717476860,
       "rank": 41,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "马立奥重回爸爸当家",
+      "onboard_time": 1719724517,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146792,
@@ -69371,6 +69459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113670,
+      "num": 113670,
+      "word": "黄明昊为角色剃头美黑",
+      "onboard_time": 1719722538,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113663,
       "num": 121897,
       "word": "你的年龄在古代怎么表述",
@@ -71699,6 +71795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105887,
+      "num": 105887,
+      "word": "寂静之地 好丧的惊悚片",
+      "onboard_time": 1719723497,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105840,
       "num": 105840,
       "word": "原神希格雯",
@@ -73835,6 +73939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96754,
+      "num": 96754,
+      "word": "房东的猫 这次的路口是离别",
+      "onboard_time": 1719723378,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96730,
       "num": 96730,
       "word": "6个方法培养秒睡技能",
@@ -73920,14 +74032,6 @@
       "word": "美国一警察怀疑妻子出轨全天候监视",
       "onboard_time": 1719564319,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96248,
-      "num": 96248,
-      "word": "黑龙江一小客车单方事故致5死12伤",
-      "onboard_time": 1719722118,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -74449,6 +74553,14 @@
       "onboard_time": 1717492098,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93225,
+      "num": 96748,
+      "word": "林允U领爆闪裙",
+      "onboard_time": 1719724338,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 93162,
@@ -82611,6 +82723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 37593,
+      "num": 339449,
+      "word": "暑假旅行网上预订你都踩过哪些坑",
+      "onboard_time": 1719723617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37519,
       "num": 393722,
       "word": "台湾姑娘跳中国舞被小朋友夸特别美",
@@ -87033,6 +87153,14 @@
       "onboard_time": 1718147296,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 10712,
+      "num": 169825,
+      "word": "日本拉面店禁止食客用耳机",
+      "onboard_time": 1719724459,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10588,
