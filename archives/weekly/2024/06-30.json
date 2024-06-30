@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719786860834,
+  "endTime": 1719789613173,
   "band_list": [
     {
       "raw_hot": 1805340,
@@ -425,6 +425,14 @@
       "onboard_time": 1719751398,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562893,
+      "num": 166919,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561810,
@@ -875,6 +883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 341013,
+      "num": 341013,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340461,
       "num": 234600,
       "word": "当邓超遇上刘亦菲",
@@ -897,6 +913,14 @@
       "onboard_time": 1719715876,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337951,
+      "num": 337951,
+      "word": "爷爷靠近一个月小宝结果醉酒了",
+      "onboard_time": 1719788714,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 332581,
@@ -1163,14 +1187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 250166,
-      "num": 80164,
-      "word": "缉毒卧底连续偶遇警察同事",
-      "onboard_time": 1719779710,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244649,
       "num": 244649,
       "word": "珍珠学会下楼梯了",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217464,
+      "num": 99017,
+      "word": "英格兰逆转晋级8强",
+      "onboard_time": 1719789015,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 216878,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1719750137,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201389,
+      "num": 201389,
+      "word": "七一",
+      "onboard_time": 1719789074,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201361,
@@ -1587,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185912,
+      "num": 110656,
+      "word": "坚持了二十天晚上十点半睡觉",
+      "onboard_time": 1719789074,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185740,
       "num": 200285,
       "word": "STE区域对抗赛吃鸡",
@@ -1699,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167377,
-      "num": 167377,
-      "word": "官方回应2岁幼童高空卖艺后求抱抱",
-      "onboard_time": 1719778871,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167297,
       "num": 164925,
       "word": "许嵩青岛",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1719757580,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162853,
+      "num": 98367,
+      "word": "7月第一天",
+      "onboard_time": 1719789314,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162434,
@@ -2091,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "张志杰",
+      "onboard_time": 1719789555,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1719724698,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "七月对我好一点",
+      "onboard_time": 1719789494,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 127963,
@@ -2145,6 +2201,14 @@
       "onboard_time": 1719745517,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124944,
+      "num": 110069,
+      "word": "突然被告知住了30年的房子要拆迁了",
+      "onboard_time": 1719788714,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 124595,
@@ -2403,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109968,
+      "num": 109968,
+      "word": "西班牙4比1格鲁吉亚",
+      "onboard_time": 1719788834,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109729,
       "num": 174713,
       "word": "现实中的阿勒泰夏季转场来了",
@@ -2507,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103151,
+      "num": 110499,
+      "word": "鞠婧祎郭敬明或将合作",
+      "onboard_time": 1719788895,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102408,
       "num": 102408,
       "word": "阿根廷vs秘鲁",
@@ -2571,6 +2651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96906,
+      "num": 96906,
+      "word": "穿袜子睡觉可以提高睡眠质量",
+      "onboard_time": 1719788714,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96754,
       "num": 96754,
       "word": "房东的猫 这次的路口是离别",
@@ -2603,6 +2691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94332,
+      "num": 110237,
+      "word": "香港回归这一刻再看依旧激动人心",
+      "onboard_time": 1719789494,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94013,
       "num": 94013,
       "word": "深圳到中山车程将缩短至30分钟",
@@ -2633,6 +2729,14 @@
       "onboard_time": 1719748637,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92057,
+      "num": 92057,
+      "word": "中国地铁站有厕所让老外破防",
+      "onboard_time": 1719789555,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 91820,
@@ -2723,12 +2827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84859,
+      "num": 84859,
+      "word": "超一本80家里人觉得没书读了",
+      "onboard_time": 1719789074,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84835,
       "num": 233695,
       "word": "谁能跑赢黄色法拉利",
       "onboard_time": 1719728897,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84509,
+      "num": 84509,
+      "word": "医学生的毕业典礼全是娃",
+      "onboard_time": 1719789135,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 84378,
@@ -2745,6 +2865,22 @@
       "onboard_time": 1719669020,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 82034,
+      "num": 82034,
+      "word": "NBA自由市场",
+      "onboard_time": 1719789135,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81807,
+      "num": 75032,
+      "word": "现在连朋友圈自由都没有了",
+      "onboard_time": 1719788774,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 81306,
@@ -2851,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73449,
+      "num": 73449,
+      "word": "小猫咪坐下来后我决定原谅这个世界了",
+      "onboard_time": 1719788714,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73347,
       "num": 86500,
       "word": "急于逼你做决定的人通常是骗子",
@@ -2883,6 +3027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70726,
+      "num": 70726,
+      "word": "党的生日",
+      "onboard_time": 1719789494,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70513,
       "num": 139324,
       "word": "eStar战胜AG",
@@ -2907,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65765,
+      "num": 65765,
+      "word": "羽毛球",
+      "onboard_time": 1719789555,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65565,
       "num": 339449,
       "word": "暑假旅行网上预订你都踩过哪些坑",
@@ -2921,6 +3081,14 @@
       "onboard_time": 1719640338,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64961,
+      "num": 64961,
+      "word": "看到西湖终于知道什么叫烟雨江南",
+      "onboard_time": 1719788774,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 64082,
@@ -3057,6 +3225,14 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 339137,
+      "word": "7月新规影响你我",
+      "onboard_time": 1719755119,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40874,
@@ -3361,6 +3537,14 @@
       "onboard_time": 1719713536,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11489,
+      "num": 112274,
+      "word": "留学生看解放军仪仗队被帅到尖叫",
+      "onboard_time": 1719789255,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10601,

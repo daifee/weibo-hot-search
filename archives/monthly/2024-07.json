@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719786860834,
+  "endTime": 1719789613173,
   "band_list": [
     {
       "raw_hot": 902983,
@@ -33,6 +33,14 @@
       "onboard_time": 1719759139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562893,
+      "num": 166919,
+      "word": "缉毒卧底连续偶遇警察同事",
+      "onboard_time": 1719779710,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514890,
@@ -115,6 +123,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 341013,
+      "num": 341013,
+      "word": "官方回应2岁幼童高空卖艺后求抱抱",
+      "onboard_time": 1719778871,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337951,
+      "num": 337951,
+      "word": "爷爷靠近一个月小宝结果醉酒了",
+      "onboard_time": 1719788714,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327262,
       "num": 327262,
       "word": "鹭卓 杭州站",
@@ -147,14 +171,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 250166,
-      "num": 80164,
-      "word": "缉毒卧底连续偶遇警察同事",
-      "onboard_time": 1719779710,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241106,
       "num": 141640,
       "word": "身上为什么会突然出现小红点",
@@ -171,12 +187,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225638,
+      "num": 225638,
+      "word": "现在电视剧为何不爱叫XX传了",
+      "onboard_time": 1719747738,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221715,
       "num": 221715,
       "word": "赵今麦张凌赫 苹果吻",
       "onboard_time": 1719756258,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217464,
+      "num": 99017,
+      "word": "英格兰逆转晋级8强",
+      "onboard_time": 1719789015,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201389,
+      "num": 201389,
+      "word": "七一",
+      "onboard_time": 1719789074,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185912,
+      "num": 110656,
+      "word": "坚持了二十天晚上十点半睡觉",
+      "onboard_time": 1719789074,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 183599,
@@ -203,11 +251,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167377,
-      "num": 167377,
-      "word": "官方回应2岁幼童高空卖艺后求抱抱",
-      "onboard_time": 1719778871,
-      "rank": 39,
+      "raw_hot": 162853,
+      "num": 98367,
+      "word": "7月第一天",
+      "onboard_time": 1719789314,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -259,20 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140808,
-      "num": 140808,
-      "word": "现在电视剧为何不爱叫XX传了",
-      "onboard_time": 1719747738,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139407,
       "num": 139407,
       "word": "为什么空调除湿比制冷更凉爽",
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "剑桥偶遇田亮森蝶",
+      "onboard_time": 1719751398,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132647,
@@ -283,12 +331,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "张志杰",
+      "onboard_time": 1719789555,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "七月对我好一点",
+      "onboard_time": 1719789494,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124944,
+      "num": 110069,
+      "word": "突然被告知住了30年的房子要拆迁了",
+      "onboard_time": 1719788714,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111697,
       "num": 111697,
       "word": "司机还以为天塌了",
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109968,
+      "num": 109968,
+      "word": "西班牙4比1格鲁吉亚",
+      "onboard_time": 1719788834,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 107597,
@@ -323,12 +403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102969,
-      "num": 102969,
-      "word": "剑桥偶遇田亮森蝶",
-      "onboard_time": 1719751398,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 103151,
+      "num": 110499,
+      "word": "鞠婧祎郭敬明或将合作",
+      "onboard_time": 1719788895,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100858,
+      "num": 100858,
+      "word": "欧洲杯",
+      "onboard_time": 1719789255,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 97777,
@@ -337,6 +425,14 @@
       "onboard_time": 1719755660,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96906,
+      "num": 96906,
+      "word": "穿袜子睡觉可以提高睡眠质量",
+      "onboard_time": 1719788714,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96696,
@@ -353,6 +449,22 @@
       "onboard_time": 1719742157,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94332,
+      "num": 110237,
+      "word": "香港回归这一刻再看依旧激动人心",
+      "onboard_time": 1719789494,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 92057,
+      "num": 92057,
+      "word": "中国地铁站有厕所让老外破防",
+      "onboard_time": 1719789555,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 91017,
@@ -395,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84859,
+      "num": 84859,
+      "word": "超一本80家里人觉得没书读了",
+      "onboard_time": 1719789074,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84509,
+      "num": 84509,
+      "word": "医学生的毕业典礼全是娃",
+      "onboard_time": 1719789135,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82354,
       "num": 82354,
       "word": "吴彦祖又帅回来了",
@@ -403,12 +531,60 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82034,
+      "num": 82034,
+      "word": "NBA自由市场",
+      "onboard_time": 1719789135,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81807,
+      "num": 75032,
+      "word": "现在连朋友圈自由都没有了",
+      "onboard_time": 1719788774,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77772,
       "num": 77772,
       "word": "张碧晨演唱会",
       "onboard_time": 1719759679,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73449,
+      "num": 73449,
+      "word": "小猫咪坐下来后我决定原谅这个世界了",
+      "onboard_time": 1719788714,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70726,
+      "num": 70726,
+      "word": "党的生日",
+      "onboard_time": 1719789494,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 65765,
+      "num": 65765,
+      "word": "羽毛球",
+      "onboard_time": 1719789555,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64961,
+      "num": 64961,
+      "word": "看到西湖终于知道什么叫烟雨江南",
+      "onboard_time": 1719788774,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 60910,
@@ -425,6 +601,14 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 339137,
+      "word": "7月新规影响你我",
+      "onboard_time": 1719755119,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39563,
@@ -504,6 +688,14 @@
       "word": "飞越伶仃洋",
       "onboard_time": 1719754578,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11489,
+      "num": 112274,
+      "word": "留学生看解放军仪仗队被帅到尖叫",
+      "onboard_time": 1719789255,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
