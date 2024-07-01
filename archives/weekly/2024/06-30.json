@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719859115403,
+  "endTime": 1719861440175,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -5259,6 +5259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78428,
+      "num": 78428,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 76735,
       "num": 192137,
       "word": "一半一半的智慧",
@@ -5497,14 +5505,6 @@
       "onboard_time": 1719754099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56301,
-      "num": 56301,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 55752,
@@ -6009,6 +6009,14 @@
       "onboard_time": 1719739759,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15187,
+      "num": 22292,
+      "word": "世界羽联发博悼念张志杰",
+      "onboard_time": 1719859211,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 14716,
