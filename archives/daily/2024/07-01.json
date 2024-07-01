@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719798737760,
+  "endTime": 1719801667094,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -8,6 +8,14 @@
       "word": "张志杰去世",
       "onboard_time": 1719792137,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1651437,
+      "num": 480908,
+      "word": "网友称张志杰未获及时救治",
+      "onboard_time": 1719797899,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -19,8 +27,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1459805,
+      "num": 1459805,
+      "word": "小鱼海棠 小英",
+      "onboard_time": 1719800057,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1319492,
+      "num": 438579,
+      "word": "张志杰姐姐质疑抢救不及时",
+      "onboard_time": 1719798978,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1294707,
-      "num": 363791,
+      "num": 368452,
       "word": "巴菲特将1300亿美元留给儿女",
       "onboard_time": 1719791356,
       "rank": 10,
@@ -36,11 +60,19 @@
     },
     {
       "raw_hot": 890282,
-      "num": 363610,
+      "num": 436383,
       "word": "于正 连扑早被市场淘汰了",
       "onboard_time": 1719795077,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 807020,
+      "num": 261807,
+      "word": "月薪八千房租1100会很贵吗",
+      "onboard_time": 1719796938,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 743618,
@@ -49,14 +81,6 @@
       "onboard_time": 1719759920,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 688764,
-      "num": 261807,
-      "word": "月薪八千房租1100会很贵吗",
-      "onboard_time": 1719796938,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 669112,
@@ -75,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609318,
+      "num": 245142,
+      "word": "微信收款码拍下来没法付款",
+      "onboard_time": 1719798139,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 584844,
       "num": 584844,
       "word": "恋爱兄妹",
@@ -91,11 +123,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 550649,
+      "num": 550649,
+      "word": "过早入睡也容易发生心脑血管疾病",
+      "onboard_time": 1719795739,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 546965,
       "num": 546965,
       "word": "爷爷靠近一个月小宝结果醉酒了",
       "onboard_time": 1719788714,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 536727,
+      "num": 536727,
+      "word": "我妈看微信短视频花了六千多",
+      "onboard_time": 1719799277,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -155,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452229,
+      "num": 452229,
+      "word": "傅菁连唱29首歌没跳舞",
+      "onboard_time": 1719797418,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 450161,
+      "num": 450161,
+      "word": "中国共产党103周年",
+      "onboard_time": 1719798019,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 444351,
       "num": 240376,
       "word": "23岁找工作因年龄大被HR拒绝了",
@@ -203,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397473,
-      "num": 397473,
-      "word": "傅菁连唱29首歌没跳舞",
-      "onboard_time": 1719797418,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 395593,
       "num": 395593,
       "word": "鬼灭之刃",
@@ -233,22 +289,6 @@
       "onboard_time": 1719761000,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 369705,
-      "num": 369705,
-      "word": "网友称张志杰未获及时救治",
-      "onboard_time": 1719797899,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 362853,
-      "num": 362853,
-      "word": "过早入睡也容易发生心脑血管疾病",
-      "onboard_time": 1719795739,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 350449,
@@ -280,6 +320,22 @@
       "word": "鹭卓 杭州站",
       "onboard_time": 1719760339,
       "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 293502,
+      "num": 293502,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1719798257,
+      "rank": 25,
+      "category": "体育,美食"
+    },
+    {
+      "raw_hot": 280900,
+      "num": 280900,
+      "word": "张杰谢娜抢着拿包",
+      "onboard_time": 1719798078,
+      "rank": 28,
       "category": "演出"
     },
     {
@@ -355,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248335,
+      "num": 248335,
+      "word": "朋友哥哥是车银优",
+      "onboard_time": 1719801018,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
       "onboard_time": 1719756258,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241389,
+      "num": 241389,
+      "word": "谢霆锋 开心我还辞什么职",
+      "onboard_time": 1719799818,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 241106,
@@ -377,22 +449,6 @@
       "onboard_time": 1719795259,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 237100,
-      "num": 237100,
-      "word": "莎头 可口可乐",
-      "onboard_time": 1719798257,
-      "rank": 25,
-      "category": "体育,美食"
-    },
-    {
-      "raw_hot": 232951,
-      "num": 364015,
-      "word": "中国共产党103周年",
-      "onboard_time": 1719798019,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 226578,
@@ -419,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220794,
+      "num": 220794,
+      "word": "离开张杰谁还把我当小孩",
+      "onboard_time": 1719798619,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219948,
       "num": 219948,
       "word": "周扬青走秀有戛纳那味儿了",
@@ -427,12 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204119,
-      "num": 204119,
-      "word": "张杰谢娜抢着拿包",
-      "onboard_time": 1719798078,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 214047,
+      "num": 174332,
+      "word": "郭晶晶霍启刚发文庆香港回归27周年",
+      "onboard_time": 1719801078,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204552,
+      "num": 204552,
+      "word": "黄旭东吐槽JackeyLove",
+      "onboard_time": 1719798497,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 203284,
@@ -459,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188515,
+      "num": 188515,
+      "word": "嗨放派直播",
+      "onboard_time": 1719800178,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183599,
       "num": 141460,
       "word": "冯禧中传硕士毕业",
@@ -475,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181374,
-      "num": 181374,
-      "word": "微信收款码拍下来没法付款",
-      "onboard_time": 1719798139,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 180911,
+      "num": 180911,
+      "word": "巴菲特去世后不再向盖茨基金会捐赠",
+      "onboard_time": 1719798738,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 178949,
@@ -515,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164598,
-      "num": 164598,
-      "word": "离开张杰谁还把我当小孩",
-      "onboard_time": 1719798619,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 164191,
       "num": 149209,
       "word": "突然被告知住了30年的房子要拆迁了",
@@ -537,6 +609,14 @@
       "onboard_time": 1719793279,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160093,
+      "num": 160093,
+      "word": "微信恐惧综合症",
+      "onboard_time": 1719797957,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 157415,
@@ -564,7 +644,7 @@
     },
     {
       "raw_hot": 153127,
-      "num": 818068,
+      "num": 863295,
       "word": "7月新规影响你我",
       "onboard_time": 1719755119,
       "rank": 2,
@@ -603,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144236,
+      "num": 144236,
+      "word": "当老师本质上是在当爱豆",
+      "onboard_time": 1719799158,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143538,
       "num": 143538,
       "word": "警方通报邯郸一村支书被杀害",
@@ -619,28 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141931,
-      "num": 141931,
-      "word": "微信恐惧综合症",
-      "onboard_time": 1719797957,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141391,
       "num": 141391,
       "word": "吴艳妮女子100米栏冠军",
       "onboard_time": 1719745517,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140887,
-      "num": 140887,
-      "word": "黄旭东吐槽JackeyLove",
-      "onboard_time": 1719798497,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 139429,
@@ -673,6 +745,14 @@
       "onboard_time": 1719746477,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132376,
+      "num": 439227,
+      "word": "下半年最想实现的心愿",
+      "onboard_time": 1719799460,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131072,
@@ -721,6 +801,14 @@
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111043,
+      "num": 111043,
+      "word": "女生在毕业典礼一键换军装",
+      "onboard_time": 1719800836,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109080,
@@ -1001,6 +1089,14 @@
       "onboard_time": 1719762018,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8869,
+      "num": 125829,
+      "word": "凡希亚连唱半小时没有停",
+      "onboard_time": 1719801558,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
