@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719858360157,
+  "endTime": 1719859115403,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -5499,6 +5499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56301,
+      "num": 56301,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 55752,
       "num": 508075,
       "word": "老师用手教16岁听障男生跳舞走红",
@@ -5673,14 +5681,6 @@
       "onboard_time": 1719673160,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37249,
-      "num": 37249,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 37085,
@@ -5908,7 +5908,7 @@
     },
     {
       "raw_hot": 26725,
-      "num": 26725,
+      "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
       "onboard_time": 1719855553,
       "rank": 38,
@@ -5916,7 +5916,7 @@
     },
     {
       "raw_hot": 26602,
-      "num": 26602,
+      "num": 30463,
       "word": "范志毅没接住传球",
       "onboard_time": 1719856512,
       "rank": 39,
@@ -5971,20 +5971,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 22379,
+      "num": 30453,
+      "word": "薛之谦演唱会完整互动",
+      "onboard_time": 1719858013,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22171,
       "num": 22171,
       "word": "许钧报名歌手",
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21650,
-      "num": 26274,
-      "word": "薛之谦演唱会完整互动",
-      "onboard_time": 1719858013,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 19032,
