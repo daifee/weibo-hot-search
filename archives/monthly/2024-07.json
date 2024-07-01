@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719847246807,
+  "endTime": 1719848082732,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -33,6 +33,14 @@
       "onboard_time": 1719804917,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1779955,
+      "num": 300067,
+      "word": "李敏镐肿了",
+      "onboard_time": 1719846380,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1669454,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1226943,
-      "num": 300067,
-      "word": "李敏镐肿了",
-      "onboard_time": 1719846380,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1177330,
       "num": 239542,
       "word": "情侣同居不同房是怎样的",
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892670,
+      "num": 201353,
+      "word": "洗脸巾就是免费的冰箱除味剂",
+      "onboard_time": 1719842780,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 890282,
       "num": 436383,
       "word": "于正 连扑早被市场淘汰了",
       "onboard_time": 1719795077,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 885443,
-      "num": 201353,
-      "word": "洗脸巾就是免费的冰箱除味剂",
-      "onboard_time": 1719842780,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 883582,
@@ -243,19 +243,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 848205,
+      "num": 435346,
+      "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+      "onboard_time": 1719845059,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833367,
       "num": 721729,
       "word": "B太称新疆行回程给司机大姐买机票",
       "onboard_time": 1719818598,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828223,
-      "num": 403120,
-      "word": "女子穿JK遭2男生偷拍嘲讽还直播",
-      "onboard_time": 1719845059,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -320,6 +320,14 @@
       "word": "中企人员在菲被绑架付300万后仍遇害",
       "onboard_time": 1719838340,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692092,
+      "num": 692092,
+      "word": "平江",
+      "onboard_time": 1719846079,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -889,14 +897,6 @@
       "onboard_time": 1719809481,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 385052,
-      "num": 385052,
-      "word": "平江",
-      "onboard_time": 1719846079,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384420,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213929,
+      "num": 301327,
+      "word": "专家称心肺复苏任重道远",
+      "onboard_time": 1719846138,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213867,
       "num": 213867,
       "word": "成毅赴山海威亚路透",
@@ -1715,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183281,
+      "num": 183281,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1719846138,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182625,
       "num": 182625,
       "word": "白桃星座",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1719798738,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180411,
-      "num": 180411,
-      "word": "五月天深圳演唱会",
-      "onboard_time": 1719846138,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 179368,
@@ -2067,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145484,
+      "num": 145484,
+      "word": "成都未来3小时直达九寨沟",
+      "onboard_time": 1719846919,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 144953,
       "num": 144953,
       "word": "Steam公开账号的未玩游戏或价值138亿",
@@ -2211,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136975,
+      "num": 136975,
+      "word": "裁判回应教练查看运动员伤势违规吗",
+      "onboard_time": 1719846499,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136360,
       "num": 136360,
       "word": "马立奥吃允儿的醋",
@@ -2299,6 +2323,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131758,
+      "num": 131758,
+      "word": "张志杰晕倒后应由谁第一时间急救",
+      "onboard_time": 1719844699,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131378,
+      "num": 131378,
+      "word": "中国队出征巴黎奥运新一批名单",
+      "onboard_time": 1719846739,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131237,
       "num": 131237,
       "word": "任嘉伦男友力好A",
@@ -2347,14 +2387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128631,
-      "num": 301327,
-      "word": "专家称心肺复苏任重道远",
-      "onboard_time": 1719846138,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127617,
       "num": 127617,
       "word": "西班牙4比1格鲁吉亚",
@@ -2377,14 +2409,6 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126103,
-      "num": 126103,
-      "word": "张志杰晕倒后应由谁第一时间急救",
-      "onboard_time": 1719844699,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 125999,
@@ -2475,8 +2499,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119580,
-      "num": 119580,
+      "raw_hot": 119770,
+      "num": 119770,
       "word": "陈少熙拍戏中暑导致呼吸性碱中毒",
       "onboard_time": 1719846320,
       "rank": 39,
@@ -2499,28 +2523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116792,
-      "num": 116792,
-      "word": "裁判回应教练查看运动员伤势违规吗",
-      "onboard_time": 1719846499,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "林青霞汤唯同框",
       "onboard_time": 1719839060,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113847,
-      "num": 113847,
-      "word": "中国队出征巴黎奥运新一批名单",
-      "onboard_time": 1719846739,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 113544,
@@ -2641,14 +2649,6 @@
       "onboard_time": 1719740416,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103753,
-      "num": 103753,
-      "word": "成都未来3小时直达九寨沟",
-      "onboard_time": 1719846919,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 103600,
@@ -2780,7 +2780,7 @@
     },
     {
       "raw_hot": 90548,
-      "num": 90548,
+      "num": 111310,
       "word": "年轻人运动猝死主要因不恰当运动强度",
       "onboard_time": 1719844400,
       "rank": 49,
@@ -2891,8 +2891,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57478,
-      "num": 441153,
+      "raw_hot": 58569,
+      "num": 459369,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
@@ -3057,6 +3057,14 @@
       "onboard_time": 1719775391,
       "rank": 44,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 23379,
+      "num": 157308,
+      "word": "2只梅花鹿你们不要再打了啦",
+      "onboard_time": 1719844879,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19032,
