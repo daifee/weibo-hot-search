@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719848082732,
+  "endTime": 1719851029776,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -475,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 810104,
+      "num": 810104,
+      "word": "平江",
+      "onboard_time": 1719846079,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803029,
       "num": 710290,
       "word": "韩国第二大城市釜山进入消失阶段",
@@ -545,14 +553,6 @@
       "onboard_time": 1719759560,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692092,
-      "num": 692092,
-      "word": "平江",
-      "onboard_time": 1719846079,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689703,
@@ -2123,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272344,
+      "num": 127285,
+      "word": "Angelababy庆祝香港回归27周年",
+      "onboard_time": 1719849918,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272051,
       "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1719814819,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249301,
+      "num": 301327,
+      "word": "专家称心肺复苏任重道远",
+      "onboard_time": 1719846138,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 248850,
@@ -2600,14 +2616,6 @@
       "word": "张志杰去世留下众多问题待解",
       "onboard_time": 1719804317,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 213929,
-      "num": 301327,
-      "word": "专家称心肺复苏任重道远",
-      "onboard_time": 1719846138,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -4171,6 +4179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129499,
+      "num": 175288,
+      "word": "平江特大暴雨",
+      "onboard_time": 1719849918,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129357,
       "num": 129357,
       "word": "超一本80家里人觉得没书读了",
@@ -5403,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62439,
+      "num": 89129,
+      "word": "于正回复于正的生活我的梦",
+      "onboard_time": 1719850576,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61137,
       "num": 302298,
       "word": "小婴儿在消防员用盆做的船里睡香香",
@@ -5929,6 +5953,14 @@
       "onboard_time": 1719719598,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13995,
+      "num": 178235,
+      "word": "派出所出现极限拉扯暖心场面",
+      "onboard_time": 1719850097,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13858,
