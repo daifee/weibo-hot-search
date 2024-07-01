@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719822320595,
+  "endTime": 1719823114544,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2517479,
-      "num": 625485,
+      "raw_hot": 2710385,
+      "num": 2710385,
       "word": "外交部回应张志杰离世",
       "onboard_time": 1719820099,
       "rank": 3,
@@ -331,8 +331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855134,
+      "num": 855134,
+      "word": "瑞幸 啤酒",
+      "onboard_time": 1719821477,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 833367,
-      "num": 444400,
+      "num": 721729,
       "word": "B太称新疆行回程给司机大姐买机票",
       "onboard_time": 1719818598,
       "rank": 30,
@@ -369,6 +377,14 @@
       "onboard_time": 1719796938,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 798174,
+      "num": 798174,
+      "word": "女子错转226万元陌生阿姨全退回",
+      "onboard_time": 1719820037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745777,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 632649,
-      "num": 441776,
+      "num": 474712,
       "word": "王星越17年采访说自己17岁",
       "onboard_time": 1719816557,
       "rank": 10,
@@ -883,6 +899,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495310,
+      "num": 495310,
+      "word": "JackeyLove 自费升舱",
+      "onboard_time": 1719821237,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 495050,
+      "num": 495050,
+      "word": "于正曾想签下赵丽颖",
+      "onboard_time": 1719819437,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494202,
       "num": 494202,
       "word": "于正会开除一干人等",
@@ -1051,14 +1083,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 447810,
-      "num": 447810,
-      "word": "女子错转226万元陌生阿姨全退回",
-      "onboard_time": 1719820037,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446509,
       "num": 446509,
       "word": "巩义",
@@ -1123,14 +1147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 435804,
-      "num": 435804,
-      "word": "于正曾想签下赵丽颖",
-      "onboard_time": 1719819437,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431693,
       "num": 431693,
       "word": "雷军首爆新机进度",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1719757460,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 417522,
+      "num": 417522,
+      "word": "有班味这么重的皇后进入国产剧",
+      "onboard_time": 1719821536,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 404688,
@@ -1347,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354224,
-      "num": 354224,
-      "word": "瑞幸 啤酒",
-      "onboard_time": 1719821477,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 353554,
       "num": 353554,
       "word": "知情人称坠落火箭系天龙三号",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1719798619,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 328155,
-      "num": 328155,
-      "word": "JackeyLove 自费升舱",
-      "onboard_time": 1719821237,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 327262,
@@ -1635,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297022,
-      "num": 297022,
-      "word": "有班味这么重的皇后进入国产剧",
-      "onboard_time": 1719821536,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -1699,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282426,
+      "num": 282426,
+      "word": "中方回应美称NASA未被邀请研究月壤",
+      "onboard_time": 1719822079,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1719758959,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 276100,
+      "num": 276100,
+      "word": "月入过万你还会考公考研吗",
+      "onboard_time": 1719818539,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 276043,
@@ -1755,12 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268123,
-      "num": 268123,
-      "word": "月入过万你还会考公考研吗",
-      "onboard_time": 1719818539,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 268664,
+      "num": 505599,
+      "word": "小酥肉为何成了火锅店必点菜",
+      "onboard_time": 1719820997,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267513,
@@ -2835,6 +2851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160279,
+      "num": 160279,
+      "word": "50枚蛇蛋及眼镜王蛇成功搬家",
+      "onboard_time": 1719822798,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160093,
       "num": 160093,
       "word": "微信恐惧综合症",
@@ -3195,12 +3219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139307,
-      "num": 446006,
-      "word": "小酥肉为何成了火锅店必点菜",
-      "onboard_time": 1719820997,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 139174,
+      "num": 139174,
+      "word": "癌症早期筛查有了新手段",
+      "onboard_time": 1719817698,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138958,
@@ -3267,20 +3291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135204,
-      "num": 135204,
-      "word": "癌症早期筛查有了新手段",
-      "onboard_time": 1719817698,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135075,
       "num": 135075,
       "word": "BW2024抢票",
       "onboard_time": 1719810681,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134953,
+      "num": 134953,
+      "word": "一天熬过这2个发胖时段就能瘦",
+      "onboard_time": 1719822618,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 134799,
@@ -3377,14 +3401,6 @@
       "onboard_time": 1719821720,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132037,
-      "num": 132037,
-      "word": "中方回应美称NASA未被邀请研究月壤",
-      "onboard_time": 1719822079,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131072,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1719718698,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122706,
+      "num": 122706,
+      "word": "园区回应女子在亲子更衣室发现摄像头",
+      "onboard_time": 1719822738,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122666,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1719719598,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14096,
+      "num": 189330,
+      "word": "俄媒称西方制裁反让俄赚至少2875亿美元",
+      "onboard_time": 1719822919,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 13858,
