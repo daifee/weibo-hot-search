@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719869682262,
+  "endTime": 1719872350040,
   "band_list": [
     {
       "raw_hot": 1363305,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135887,
+      "num": 135887,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 118899,
       "num": 118899,
       "word": "张子墨 跑路",
@@ -211,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116018,
-      "num": 116018,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
+      "raw_hot": 115772,
+      "num": 43189,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114230,
@@ -243,12 +251,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108518,
+      "num": 45019,
+      "word": "官方回应吃播卤羊头内吃出草",
+      "onboard_time": 1719863471,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101957,
       "num": 101957,
       "word": "心脏骤停黄金抢救时间是4分钟",
       "onboard_time": 1719842179,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100649,
+      "num": 44929,
+      "word": "中羽协将为张志杰家人提供帮助",
+      "onboard_time": 1719866591,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 100074,
@@ -291,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89194,
-      "num": 24421,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83210,
       "num": 89368,
       "word": "林志颖一家五口游迪士尼",
@@ -336,14 +352,6 @@
       "word": "湖南平江发布抗击特大洪水通告",
       "onboard_time": 1719844579,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80114,
-      "num": 31427,
-      "word": "官方回应吃播卤羊头内吃出草",
-      "onboard_time": 1719863471,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 45330,
-      "num": 30455,
+      "num": 43785,
       "word": "黄子韬曾说30岁会考虑成家",
       "onboard_time": 1719861670,
       "rank": 37,
@@ -457,6 +465,14 @@
       "onboard_time": 1719835579,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41308,
+      "num": 41308,
+      "word": "年轻护士在三甲医院6年后裸辞逃离",
+      "onboard_time": 1719865931,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38044,
@@ -491,6 +507,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31436,
+      "num": 31436,
+      "word": "人教版大熊猫vs妈教版大熊猫",
+      "onboard_time": 1719866290,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31164,
+      "num": 37900,
+      "word": "欧洲杯",
+      "onboard_time": 1719789255,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31044,
+      "num": 31044,
+      "word": "入住酒店千万要小心",
+      "onboard_time": 1719864431,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26725,
       "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
@@ -507,28 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24853,
-      "num": 23915,
-      "word": "年轻护士在三甲医院6年后裸辞逃离",
-      "onboard_time": 1719865931,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24819,
-      "num": 24819,
-      "word": "中羽协将为张志杰家人提供帮助",
-      "onboard_time": 1719866591,
+      "raw_hot": 24791,
+      "num": 24791,
+      "word": "先别管猫了快去救车厘子",
+      "onboard_time": 1719863231,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24207,
-      "num": 23905,
-      "word": "入住酒店千万要小心",
-      "onboard_time": 1719864431,
-      "rank": 37,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 22379,
@@ -539,20 +563,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22203,
-      "num": 21613,
-      "word": "先别管猫了快去救车厘子",
-      "onboard_time": 1719863231,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 19842,
+      "num": 23553,
+      "word": "西安西二环路面塌陷",
+      "onboard_time": 1719868631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 20777,
-      "num": 20777,
-      "word": "人教版大熊猫vs妈教版大熊猫",
-      "onboard_time": 1719866290,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 19179,
+      "num": 23553,
+      "word": "孙颖莎想和埃菲尔铁塔合影",
+      "onboard_time": 1719871511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 15408,
@@ -571,27 +595,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13975,
-      "num": 19030,
-      "word": "欧洲杯",
-      "onboard_time": 1719789255,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13038,
       "num": 100452,
       "word": "男孩骑车摔倒后找砖头把坑填平了",
       "onboard_time": 1719851956,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11581,
-      "num": 16537,
-      "word": "西安西二环路面塌陷",
-      "onboard_time": 1719868631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
