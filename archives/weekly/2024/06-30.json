@@ -1,7 +1,15 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719790479165,
+  "endTime": 1719797785247,
   "band_list": [
+    {
+      "raw_hot": 7696115,
+      "num": 7696115,
+      "word": "张志杰去世",
+      "onboard_time": 1719792137,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1805340,
       "num": 1805340,
@@ -17,6 +25,14 @@
       "onboard_time": 1719741438,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1526574,
+      "num": 1526574,
+      "word": "今天明显对时间有了敬畏感",
+      "onboard_time": 1719792497,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1490102,
@@ -41,6 +57,14 @@
       "onboard_time": 1719724936,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1294707,
+      "num": 302238,
+      "word": "巴菲特将1300亿美元留给儿女",
+      "onboard_time": 1719791356,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1276464,
@@ -171,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890282,
+      "num": 298746,
+      "word": "于正 连扑早被市场淘汰了",
+      "onboard_time": 1719795077,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885583,
-      "num": 236972,
+      "num": 238653,
       "word": "长期口臭可能是长了扁桃体结石",
       "onboard_time": 1719759920,
       "rank": 25,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 610142,
-      "num": 243071,
+      "num": 331569,
       "word": "缉毒卧底连续偶遇警察同事",
       "onboard_time": 1719779710,
       "rank": 30,
@@ -361,6 +393,14 @@
       "onboard_time": 1719747738,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601685,
+      "num": 239133,
+      "word": "月薪八千房租1100会很贵吗",
+      "onboard_time": 1719796938,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 601566,
@@ -531,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507612,
+      "num": 507612,
+      "word": "穿袜子睡觉可以提高睡眠质量",
+      "onboard_time": 1719788714,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504297,
       "num": 504297,
       "word": "多地挪用农村学生营养餐补助",
@@ -699,6 +747,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 436929,
+      "num": 436929,
+      "word": "中国地铁站有厕所让老外破防",
+      "onboard_time": 1719789555,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 434738,
+      "num": 434738,
+      "word": "特斯拉 五年免息",
+      "onboard_time": 1719793458,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 429011,
       "num": 233476,
       "word": "你介意另一半文化水平低吗",
@@ -795,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376090,
+      "num": 376090,
+      "word": "张杰重庆万人火锅点菜",
+      "onboard_time": 1719761000,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 372209,
       "num": 332147,
       "word": "穆念慈大婚割发断情",
@@ -868,7 +940,7 @@
     },
     {
       "raw_hot": 350449,
-      "num": 157641,
+      "num": 237202,
       "word": "坚持了二十天晚上十点半睡觉",
       "onboard_time": 1719789074,
       "rank": 22,
@@ -961,6 +1033,14 @@
       "onboard_time": 1719723317,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331063,
+      "num": 297309,
+      "word": "于正再为吴谨言发声",
+      "onboard_time": 1719791778,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 327262,
@@ -1075,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294363,
+      "num": 294363,
+      "word": "我国幽门螺杆菌的感染率高达59%",
+      "onboard_time": 1719793999,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293204,
       "num": 293204,
       "word": "阿Sa自述35岁后代谢减慢",
@@ -1115,12 +1203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273647,
+      "num": 273647,
+      "word": "詹姆斯愿意降薪2000万",
+      "onboard_time": 1719794239,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272051,
       "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
       "onboard_time": 1719728716,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269147,
+      "num": 269147,
+      "word": "这是今早的香港金紫荆广场",
+      "onboard_time": 1719795139,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267513,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1719753558,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256278,
+      "num": 256278,
+      "word": "过早入睡也容易发生心脑血管疾病",
+      "onboard_time": 1719795739,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255912,
@@ -1177,6 +1289,14 @@
       "onboard_time": 1719671841,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253635,
+      "num": 253635,
+      "word": "保罗签约马刺",
+      "onboard_time": 1719795318,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 252478,
@@ -1227,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236977,
+      "num": 236977,
+      "word": "警方通报救护车副驾高速上直播飙车",
+      "onboard_time": 1719796820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234619,
       "num": 210878,
       "word": "墨雨云间聚餐了",
@@ -1267,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231994,
+      "num": 231994,
+      "word": "傅菁连唱29首歌没跳舞",
+      "onboard_time": 1719797418,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229896,
       "num": 229896,
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
@@ -1275,12 +1411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226847,
+      "num": 226847,
+      "word": "王老师 花小龙",
+      "onboard_time": 1719795259,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226578,
       "num": 243381,
       "word": "鞠婧祎郭敬明或将合作",
       "onboard_time": 1719788895,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225065,
+      "num": 225065,
+      "word": "上午说了辞职晚上就后悔了",
+      "onboard_time": 1719795139,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 223366,
@@ -1305,6 +1457,14 @@
       "onboard_time": 1719734656,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219948,
+      "num": 219948,
+      "word": "周扬青走秀有戛纳那味儿了",
+      "onboard_time": 1719791778,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 219480,
@@ -1361,14 +1521,6 @@
       "onboard_time": 1719753918,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208512,
-      "num": 208512,
-      "word": "张杰重庆万人火锅点菜",
-      "onboard_time": 1719761000,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 205589,
@@ -1555,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194420,
+      "num": 194420,
+      "word": "张志杰曾表示想通过努力证明自己",
+      "onboard_time": 1719797358,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194339,
       "num": 194339,
       "word": "于适王影璐首映礼同框",
@@ -1723,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178159,
+      "num": 178159,
+      "word": "现在连朋友圈自由都没有了",
+      "onboard_time": 1719788774,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177562,
       "num": 177562,
       "word": "建党节",
@@ -1753,14 +1921,6 @@
       "onboard_time": 1719758180,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172926,
-      "num": 172926,
-      "word": "中国地铁站有厕所让老外破防",
-      "onboard_time": 1719789555,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 170886,
@@ -1875,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160693,
+      "num": 160693,
+      "word": "实习四个月送走三位同事",
+      "onboard_time": 1719793279,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159350,
       "num": 159350,
       "word": "吴谨言最难熬的时候卡里就200块",
@@ -1899,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157415,
+      "num": 243251,
+      "word": "香港回归这一刻再看依旧激动人心",
+      "onboard_time": 1719789494,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156651,
       "num": 156651,
       "word": "infp一生都会为体验买单",
@@ -1907,12 +2083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156565,
+      "num": 156565,
+      "word": "羽毛球",
+      "onboard_time": 1719789555,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
       "onboard_time": 1719672800,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153127,
+      "num": 818068,
+      "word": "7月新规影响你我",
+      "onboard_time": 1719755119,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151764,
@@ -1939,19 +2131,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151120,
-      "num": 144626,
-      "word": "穿袜子睡觉可以提高睡眠质量",
-      "onboard_time": 1719788714,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150704,
       "num": 150704,
       "word": "欧洲杯",
       "onboard_time": 1719664518,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149901,
+      "num": 149901,
+      "word": "乔治离开快船",
+      "onboard_time": 1719796878,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -2043,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143538,
+      "num": 143538,
+      "word": "警方通报邯郸一村支书被杀害",
+      "onboard_time": 1719789435,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143362,
       "num": 132931,
       "word": "杨颖直播穿高定",
@@ -2081,6 +2281,14 @@
       "onboard_time": 1719657137,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140472,
+      "num": 140472,
+      "word": "发现谈恋爱其实就是找自己",
+      "onboard_time": 1719796460,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 139429,
@@ -2179,14 +2387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132834,
-      "num": 132834,
-      "word": "羽毛球",
-      "onboard_time": 1719789555,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132827,
       "num": 132827,
       "word": "东方甄选为什么总被自己人拆台",
@@ -2201,6 +2401,14 @@
       "onboard_time": 1719754399,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131072,
+      "num": 131072,
+      "word": "克莱离开勇士",
+      "onboard_time": 1719790396,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130203,
@@ -2225,14 +2433,6 @@
       "onboard_time": 1719724698,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127968,
-      "num": 127968,
-      "word": "现在连朋友圈自由都没有了",
-      "onboard_time": 1719788774,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 127963,
@@ -2273,14 +2473,6 @@
       "onboard_time": 1719748338,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125265,
-      "num": 125265,
-      "word": "警方通报邯郸一村支书被杀害",
-      "onboard_time": 1719789435,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125209,
@@ -2345,6 +2537,14 @@
       "onboard_time": 1719718698,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122666,
+      "num": 122666,
+      "word": "多地鼓励高考考生学医",
+      "onboard_time": 1719792318,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 122664,
@@ -2771,14 +2971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94332,
-      "num": 243251,
-      "word": "香港回归这一刻再看依旧激动人心",
-      "onboard_time": 1719789494,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 94013,
       "num": 94013,
       "word": "深圳到中山车程将缩短至30分钟",
@@ -2931,14 +3123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 83182,
-      "num": 83182,
-      "word": "克莱离开勇士",
-      "onboard_time": 1719790396,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81306,
       "num": 81306,
       "word": "你的身体其实瞒着你很多事情",
@@ -3051,14 +3235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72797,
-      "num": 517970,
-      "word": "7月新规影响你我",
-      "onboard_time": 1719755119,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72779,
       "num": 545715,
       "word": "货车鱼撒高速20多人下车帮捡",
@@ -3152,6 +3328,14 @@
       "word": "原来天鹅船是这么来的",
       "onboard_time": 1719751637,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63149,
+      "num": 194802,
+      "word": "接力哄娃的8位外卖员每人获奖500",
+      "onboard_time": 1719797479,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3464,6 +3648,14 @@
       "word": "穿越千年看大运河秀美画卷",
       "onboard_time": 1719659957,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28363,
+      "num": 280987,
+      "word": "职校实习生纳入工伤保险保障范围",
+      "onboard_time": 1719795798,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
