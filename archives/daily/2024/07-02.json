@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719854313586,
+  "endTime": 1719855344253,
   "band_list": [
     {
       "raw_hot": 1363305,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150171,
+      "num": 64070,
+      "word": "长期熬夜会增加身体核心器官负担",
+      "onboard_time": 1719853932,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140930,
       "num": 140930,
       "word": "张志杰比赛中猝死谁之过",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78705,
+      "num": 69794,
+      "word": "半夜点吃的外卖小哥会不高兴吗",
+      "onboard_time": 1719853095,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77861,
       "num": 89250,
       "word": "中国队出征巴黎奥运新一批名单",
@@ -337,14 +353,6 @@
       "onboard_time": 1719823338,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69794,
-      "num": 69794,
-      "word": "半夜点吃的外卖小哥会不高兴吗",
-      "onboard_time": 1719853095,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 68120,
@@ -371,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62800,
-      "num": 62800,
-      "word": "长期熬夜会增加身体核心器官负担",
-      "onboard_time": 1719853932,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 62343,
       "num": 89115,
       "word": "郑恺海岛新家",
@@ -395,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58698,
+      "num": 64001,
+      "word": "恋爱脑的本质是注意力的失控",
+      "onboard_time": 1719853274,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57327,
       "num": 89074,
       "word": "年轻人运动猝死主要因不恰当运动强度",
@@ -403,24 +411,32 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 56196,
-      "num": 56196,
-      "word": "恋爱脑的本质是注意力的失控",
-      "onboard_time": 1719853274,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 44183,
-      "num": 49126,
+      "num": 63862,
       "word": "张杰这次像牵女儿了",
       "onboard_time": 1719835579,
       "rank": 40,
       "category": "演出"
     },
     {
+      "raw_hot": 41772,
+      "num": 63897,
+      "word": "小鬼也A起来了",
+      "onboard_time": 1719855016,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38044,
+      "num": 63884,
+      "word": "唐艺昕带娃外出",
+      "onboard_time": 1719837378,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34969,
-      "num": 49115,
+      "num": 63775,
       "word": "祝福香港祝福祖国",
       "onboard_time": 1719854234,
       "rank": 47,

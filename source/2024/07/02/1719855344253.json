@@ -1,0 +1,410 @@
+{
+  "runTime": 1719855344253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529295,
+        "num": 529295,
+        "word": "平江特大暴雨",
+        "onboard_time": 1719849918,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171996,
+        "num": 171996,
+        "word": "法国vs比利时",
+        "onboard_time": 1719846259,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15459,
+        "num": 163577,
+        "word": "我们向前中国向上",
+        "onboard_time": 1719844461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283122,
+        "num": 161120,
+        "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+        "onboard_time": 1719845059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180173,
+        "num": 159796,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157108,
+        "num": 157108,
+        "word": "平江",
+        "onboard_time": 1719846079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146318,
+        "num": 146318,
+        "word": "第一次见男二不爱女主爱发疯的",
+        "onboard_time": 1719838100,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86574,
+        "num": 86574,
+        "word": "外交部回应张志杰离世",
+        "onboard_time": 1719820099,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80504,
+        "num": 80504,
+        "word": "韩国第二大城市釜山进入消失阶段",
+        "onboard_time": 1719830477,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 6554,
+        "num": 79949,
+        "word": "毕业典礼一曲海阔天空嗨翻全场",
+        "onboard_time": 1719853814,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 434301,
+        "num": 79478,
+        "word": "李敏镐肿了",
+        "onboard_time": 1719846380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248569,
+        "num": 78582,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212724,
+        "num": 78107,
+        "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+        "onboard_time": 1719837138,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156094,
+        "num": 77086,
+        "word": "马斯克回应中国小女孩报bug",
+        "onboard_time": 1719843679,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 76872,
+        "word": "张子墨 自摸哥",
+        "onboard_time": 1719840379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76268,
+        "num": 76268,
+        "word": "刘亦菲唐嫣合照",
+        "onboard_time": 1719841880,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67269,
+        "num": 67269,
+        "word": "张子墨 跑路",
+        "onboard_time": 1719832039,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66510,
+        "num": 66510,
+        "word": "陈乔恩教于正葡萄柚减肥法",
+        "onboard_time": 1719837138,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64715,
+        "num": 64715,
+        "word": "专家称心肺复苏任重道远",
+        "onboard_time": 1719846138,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64094,
+        "num": 64094,
+        "word": "张志杰比赛中猝死谁之过",
+        "onboard_time": 1719833298,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170491,
+        "num": 64087,
+        "word": "Angelababy庆祝香港回归27周年",
+        "onboard_time": 1719849918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169386,
+        "num": 64080,
+        "word": "林生斌与亡妻关联公司均经营异常",
+        "onboard_time": 1719828497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150171,
+        "num": 64070,
+        "word": "长期熬夜会增加身体核心器官负担",
+        "onboard_time": 1719853932,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134988,
+        "num": 64054,
+        "word": "林生斌",
+        "onboard_time": 1719828558,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132857,
+        "num": 64038,
+        "word": "情侣同居不同房是怎样的",
+        "onboard_time": 1719837798,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78705,
+        "num": 64032,
+        "word": "半夜点吃的外卖小哥会不高兴吗",
+        "onboard_time": 1719853095,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69528,
+        "num": 64022,
+        "word": "洗脸巾就是免费的冰箱除味剂",
+        "onboard_time": 1719842780,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 58698,
+        "num": 64001,
+        "word": "恋爱脑的本质是注意力的失控",
+        "onboard_time": 1719853274,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58237,
+        "num": 63997,
+        "word": "中企人员在菲被绑架付300万后仍遇害",
+        "onboard_time": 1719838340,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56954,
+        "num": 63980,
+        "word": "黄景瑜有疯批男主那味儿了",
+        "onboard_time": 1719843259,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49543,
+        "num": 63975,
+        "word": "于正回复于正的生活我的梦",
+        "onboard_time": 1719850576,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47215,
+        "num": 63966,
+        "word": "菲律宾绑架",
+        "onboard_time": 1719837618,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46230,
+        "num": 63949,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1719846138,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46073,
+        "num": 63934,
+        "word": "女子错转226万元陌生阿姨全退回",
+        "onboard_time": 1719820037,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43800,
+        "num": 63922,
+        "word": "阿信直播",
+        "onboard_time": 1719834318,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43628,
+        "num": 63912,
+        "word": "崔泰俊ZICO聊天内容",
+        "onboard_time": 1719834558,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42279,
+        "num": 63899,
+        "word": "檀健次真的是天选相柳",
+        "onboard_time": 1719840559,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41772,
+        "num": 63897,
+        "word": "小鬼也A起来了",
+        "onboard_time": 1719855016,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38044,
+        "num": 63884,
+        "word": "唐艺昕带娃外出",
+        "onboard_time": 1719837378,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38023,
+        "num": 63868,
+        "word": "3类运动容易引发运动性猝死",
+        "onboard_time": 1719839780,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37456,
+        "num": 63862,
+        "word": "张杰这次像牵女儿了",
+        "onboard_time": 1719835579,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36284,
+        "num": 63840,
+        "word": "湖南平江发布抗击特大洪水通告",
+        "onboard_time": 1719844579,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35258,
+        "num": 63832,
+        "word": "东航就林生斌隐私权案提起上诉",
+        "onboard_time": 1719823338,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34975,
+        "num": 63826,
+        "word": "成都未来3小时直达九寨沟",
+        "onboard_time": 1719846919,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33813,
+        "num": 63815,
+        "word": "裁判回应教练查看运动员伤势违规吗",
+        "onboard_time": 1719846499,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33685,
+        "num": 63802,
+        "word": "心脏骤停黄金抢救时间是4分钟",
+        "onboard_time": 1719842179,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32846,
+        "num": 63791,
+        "word": "林志颖一家五口游迪士尼",
+        "onboard_time": 1719839899,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32242,
+        "num": 63775,
+        "word": "祝福香港祝福祖国",
+        "onboard_time": 1719854234,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30176,
+        "num": 63761,
+        "word": "大学生竟能聪明成这样",
+        "onboard_time": 1719846619,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29795,
+        "num": 63754,
+        "word": "陈少熙拍戏中暑导致呼吸性碱中毒",
+        "onboard_time": 1719846320,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}
