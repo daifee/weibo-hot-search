@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/01 09:36:25
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/01 09:52:17
 </p>
 </blockquote>
 <p>
@@ -543,6 +543,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+张志杰去世（热度：7901681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%85%AC%E4%B8%BB%E7%99%BD%E6%A2%A6%E5%A6%8D%23" target="weibo">
 白鹿 公主白梦妍（热度：7808511）
 </a>
@@ -581,12 +587,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E9%9B%B7%E4%BD%B3%E9%9F%B3%E8%82%96%E6%88%98%20%E8%BA%B2C%E4%BD%8D%23" target="weibo">
 马丽雷佳音肖战 躲C位（热度：7712771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
-张志杰去世（热度：7696115）
 </a>
 </li>
 

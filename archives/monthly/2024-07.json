@@ -1,10 +1,10 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719797785247,
+  "endTime": 1719798737760,
   "band_list": [
     {
-      "raw_hot": 7696115,
-      "num": 7696115,
+      "raw_hot": 7901681,
+      "num": 7901681,
       "word": "张志杰去世",
       "onboard_time": 1719792137,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1294707,
-      "num": 302238,
+      "num": 363791,
       "word": "巴菲特将1300亿美元留给儿女",
       "onboard_time": 1719791356,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 890282,
-      "num": 298746,
+      "num": 363610,
       "word": "于正 连扑早被市场淘汰了",
       "onboard_time": 1719795077,
       "rank": 11,
@@ -49,6 +49,14 @@
       "onboard_time": 1719759920,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 688764,
+      "num": 261807,
+      "word": "月薪八千房租1100会很贵吗",
+      "onboard_time": 1719796938,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 669112,
@@ -65,14 +73,6 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601685,
-      "num": 239133,
-      "word": "月薪八千房租1100会很贵吗",
-      "onboard_time": 1719796938,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 584844,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457495,
+      "num": 457495,
+      "word": "特斯拉 五年免息",
+      "onboard_time": 1719793458,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 455586,
       "num": 276295,
       "word": "于正说不明白吴谨言受了啥委屈",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 444351,
-      "num": 237608,
+      "num": 240376,
       "word": "23岁找工作因年龄大被HR拒绝了",
       "onboard_time": 1719757639,
       "rank": 21,
@@ -163,20 +171,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434738,
-      "num": 434738,
-      "word": "特斯拉 五年免息",
-      "onboard_time": 1719793458,
-      "rank": 5,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 424969,
       "num": 424969,
       "word": "B太 上海打车去新疆",
       "onboard_time": 1719755060,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 404688,
+      "num": 404688,
+      "word": "张志杰曾表示想通过努力证明自己",
+      "onboard_time": 1719797358,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 400533,
@@ -195,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397473,
+      "num": 397473,
+      "word": "傅菁连唱29首歌没跳舞",
+      "onboard_time": 1719797418,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 395593,
       "num": 395593,
       "word": "鬼灭之刃",
       "onboard_time": 1719760878,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 382012,
+      "num": 382012,
+      "word": "我国幽门螺杆菌的感染率高达59%",
+      "onboard_time": 1719793999,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 376090,
@@ -211,8 +235,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369705,
+      "num": 369705,
+      "word": "网友称张志杰未获及时救治",
+      "onboard_time": 1719797899,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 362853,
+      "num": 362853,
+      "word": "过早入睡也容易发生心脑血管疾病",
+      "onboard_time": 1719795739,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350449,
-      "num": 237202,
+      "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
       "onboard_time": 1719789074,
       "rank": 22,
@@ -243,14 +283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294363,
-      "num": 294363,
-      "word": "我国幽门螺杆菌的感染率高达59%",
-      "onboard_time": 1719793999,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -259,8 +291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269147,
-      "num": 269147,
+      "raw_hot": 270597,
+      "num": 270597,
       "word": "这是今早的香港金紫荆广场",
       "onboard_time": 1719795139,
       "rank": 16,
@@ -283,20 +315,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261822,
+      "num": 261822,
+      "word": "警方通报救护车副驾高速上直播飙车",
+      "onboard_time": 1719796820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261012,
       "num": 261012,
       "word": "现在电视剧为何不爱叫XX传了",
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256278,
-      "num": 256278,
-      "word": "过早入睡也容易发生心脑血管疾病",
-      "onboard_time": 1719795739,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 253635,
@@ -339,28 +371,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236977,
-      "num": 236977,
-      "word": "警方通报救护车副驾高速上直播飙车",
-      "onboard_time": 1719796820,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231994,
-      "num": 231994,
-      "word": "傅菁连唱29首歌没跳舞",
-      "onboard_time": 1719797418,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 226847,
-      "num": 226847,
+      "raw_hot": 239351,
+      "num": 239351,
       "word": "王老师 花小龙",
       "onboard_time": 1719795259,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 237100,
+      "num": 237100,
+      "word": "莎头 可口可乐",
+      "onboard_time": 1719798257,
+      "rank": 25,
+      "category": "体育,美食"
+    },
+    {
+      "raw_hot": 232951,
+      "num": 364015,
+      "word": "中国共产党103周年",
+      "onboard_time": 1719798019,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 226578,
@@ -379,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225065,
-      "num": 225065,
+      "raw_hot": 225688,
+      "num": 225688,
       "word": "上午说了辞职晚上就后悔了",
       "onboard_time": 1719795139,
       "rank": 27,
@@ -393,6 +425,14 @@
       "onboard_time": 1719791778,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204119,
+      "num": 204119,
+      "word": "张杰谢娜抢着拿包",
+      "onboard_time": 1719798078,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 203284,
@@ -409,14 +449,6 @@
       "onboard_time": 1719789074,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194420,
-      "num": 194420,
-      "word": "张志杰曾表示想通过努力证明自己",
-      "onboard_time": 1719797358,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 194053,
@@ -443,6 +475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181374,
+      "num": 181374,
+      "word": "微信收款码拍下来没法付款",
+      "onboard_time": 1719798139,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 178949,
+      "num": 178949,
+      "word": "27年前的今天香港回归祖国",
+      "onboard_time": 1719798139,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178159,
       "num": 178159,
       "word": "现在连朋友圈自由都没有了",
@@ -465,6 +513,14 @@
       "onboard_time": 1719753558,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164598,
+      "num": 164598,
+      "word": "离开张杰谁还把我当小孩",
+      "onboard_time": 1719798619,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 164191,
@@ -555,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "发现谈恋爱其实就是找自己",
+      "onboard_time": 1719796460,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141931,
+      "num": 141931,
+      "word": "微信恐惧综合症",
+      "onboard_time": 1719797957,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141391,
       "num": 141391,
       "word": "吴艳妮女子100米栏冠军",
@@ -563,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140472,
-      "num": 140472,
-      "word": "发现谈恋爱其实就是找自己",
-      "onboard_time": 1719796460,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 140887,
+      "num": 140887,
+      "word": "黄旭东吐槽JackeyLove",
+      "onboard_time": 1719798497,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 139429,

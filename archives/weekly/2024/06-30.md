@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/30 00:23:19 ~ 2024/07/01 09:36:25
+本榜单时间：2024/06/30 00:23:19 ~ 2024/07/01 09:52:17
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
-张志杰去世（热度：7696115）
+张志杰去世（热度：7901681）
 </a>
 </li>
 
@@ -219,6 +219,12 @@ B太 上海打车去新疆（热度：918416）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E5%85%AB%E5%8D%83%E6%88%BF%E7%A7%9F1100%E4%BC%9A%E5%BE%88%E8%B4%B5%E5%90%97%23" target="weibo">
+月薪八千房租1100会很贵吗（热度：688764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%23" target="weibo">
 恋爱兄妹（热度：678867）
 </a>
@@ -305,12 +311,6 @@ Angelababy 辛巴直播（热度：667450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%BA%E4%BD%95%E4%B8%8D%E7%88%B1%E5%8F%ABXX%E4%BC%A0%E4%BA%86%23" target="weibo">
 现在电视剧为何不爱叫XX传了（热度：603883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E5%85%AB%E5%8D%83%E6%88%BF%E7%A7%9F1100%E4%BC%9A%E5%BE%88%E8%B4%B5%E5%90%97%23" target="weibo">
-月薪八千房租1100会很贵吗（热度：601685）
 </a>
 </li>
 
@@ -525,6 +525,12 @@ Angelababy 辛巴直播（热度：667450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%20%E4%BA%94%E5%B9%B4%E5%85%8D%E6%81%AF%23" target="weibo">
+特斯拉 五年免息（热度：457495）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E6%A1%83%E8%8A%B1%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周桃花运最旺的星座（热度：454774）
 </a>
@@ -579,12 +585,6 @@ Angelababy 辛巴直播（热度：667450）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%20%E4%BA%94%E5%B9%B4%E5%85%8D%E6%81%AF%23" target="weibo">
-特斯拉 五年免息（热度：434738）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%8B%E6%84%8F%E5%8F%A6%E4%B8%80%E5%8D%8A%E6%96%87%E5%8C%96%E6%B0%B4%E5%B9%B3%E4%BD%8E%E5%90%97%23" target="weibo">
 你介意另一半文化水平低吗（热度：429011）
 </a>
@@ -615,8 +615,20 @@ Angelababy 辛巴直播（热度：667450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E6%9B%BE%E8%A1%A8%E7%A4%BA%E6%83%B3%E9%80%9A%E8%BF%87%E5%8A%AA%E5%8A%9B%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%23" target="weibo">
+张志杰曾表示想通过努力证明自己（热度：404688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E8%8A%B1499%E5%85%83%E6%8A%A2%E4%BA%86%E6%9D%A1%E5%81%87%E9%87%91%E9%93%BE%E5%AD%90%23" target="weibo">
 直播间花499元抢了条假金链子（热度：399141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E8%8F%81%E8%BF%9E%E5%94%B129%E9%A6%96%E6%AD%8C%E6%B2%A1%E8%B7%B3%E8%88%9E%23" target="weibo">
+傅菁连唱29首歌没跳舞（热度：397473）
 </a>
 </li>
 
@@ -641,6 +653,12 @@ DYG 松弛感（热度：388268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%A4%8D%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%BF%85%E9%A1%BB%E4%BA%8C%E6%90%AD%23" target="weibo">
 于正回复吴谨言王星越必须二搭（热度：384409）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E7%9A%84%E6%84%9F%E6%9F%93%E7%8E%87%E9%AB%98%E8%BE%BE59%25%23" target="weibo">
+我国幽门螺杆菌的感染率高达59%（热度：382012）
 </a>
 </li>
 
@@ -681,6 +699,12 @@ DYG 松弛感（热度：388268）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BC%A0%E5%BF%97%E6%9D%B0%E6%9C%AA%E8%8E%B7%E5%8F%8A%E6%97%B6%E6%95%91%E6%B2%BB%23" target="weibo">
+网友称张志杰未获及时救治（热度：369705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%BA%94%E4%BB%A5%E6%98%BE%E8%91%97%E6%96%B9%E5%BC%8F%E6%8F%90%E9%86%92%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
 自动续费应以显著方式提醒消费者（热度：367914）
 </a>
@@ -689,6 +713,12 @@ DYG 松弛感（热度：388268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
 网红面筋哥女友发声（热度：366650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%97%A9%E5%85%A5%E7%9D%A1%E4%B9%9F%E5%AE%B9%E6%98%93%E5%8F%91%E7%94%9F%E5%BF%83%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%23" target="weibo">
+过早入睡也容易发生心脑血管疾病（热度：362853）
 </a>
 </li>
 
@@ -879,12 +909,6 @@ Twins 我很想爱他（热度：300697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E7%9A%84%E6%84%9F%E6%9F%93%E7%8E%87%E9%AB%98%E8%BE%BE59%25%23" target="weibo">
-我国幽门螺杆菌的感染率高达59%（热度：294363）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E8%87%AA%E8%BF%B035%E5%B2%81%E5%90%8E%E4%BB%A3%E8%B0%A2%E5%87%8F%E6%85%A2%23" target="weibo">
 阿Sa自述35岁后代谢减慢（热度：293204）
 </a>
@@ -928,13 +952,19 @@ Twins 我很想爱他（热度：300697）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%BB%8A%E6%97%A9%E7%9A%84%E9%A6%99%E6%B8%AF%E9%87%91%E7%B4%AB%E8%8D%86%E5%B9%BF%E5%9C%BA%23" target="weibo">
-这是今早的香港金紫荆广场（热度：269147）
+这是今早的香港金紫荆广场（热度：270597）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%8B%B9%E6%9E%9C%E5%90%BB%23" target="weibo">
 赵今麦张凌赫 苹果吻（热度：267513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%95%91%E6%8A%A4%E8%BD%A6%E5%89%AF%E9%A9%BE%E9%AB%98%E9%80%9F%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%A3%99%E8%BD%A6%23" target="weibo">
+警方通报救护车副驾高速上直播飙车（热度：261822）
 </a>
 </li>
 
@@ -947,12 +977,6 @@ Twins 我很想爱他（热度：300697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%9A%84%E8%90%A5%E4%B8%9A%E6%96%B9%E5%BC%8F%23" target="weibo">
 王星越的营业方式（热度：257444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%97%A9%E5%85%A5%E7%9D%A1%E4%B9%9F%E5%AE%B9%E6%98%93%E5%8F%91%E7%94%9F%E5%BF%83%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%23" target="weibo">
-过早入睡也容易发生心脑血管疾病（热度：256278）
 </a>
 </li>
 
@@ -1017,14 +1041,20 @@ Twins 我很想爱他（热度：300697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%81%E5%B8%88%20%E8%8A%B1%E5%B0%8F%E9%BE%99%23" target="weibo">
+王老师 花小龙（热度：239351）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%8A%B1470%E5%85%83%E5%B8%A61%E6%9D%A1%E9%B1%BC%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%23" target="weibo">
 女生花470元带1条鱼去医院看病（热度：238604）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%95%91%E6%8A%A4%E8%BD%A6%E5%89%AF%E9%A9%BE%E9%AB%98%E9%80%9F%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%A3%99%E8%BD%A6%23" target="weibo">
-警方通报救护车副驾高速上直播飙车（热度：236977）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%20%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23" target="weibo">
+莎头 可口可乐（热度：237100）
 </a>
 </li>
 
@@ -1047,6 +1077,12 @@ Twins 我很想爱他（热度：300697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A103%E5%91%A8%E5%B9%B4%23" target="weibo">
+中国共产党103周年（热度：232951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F1%23" target="weibo">
 F1（热度：232794）
 </a>
@@ -1059,20 +1095,8 @@ F1（热度：232794）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E8%8F%81%E8%BF%9E%E5%94%B129%E9%A6%96%E6%AD%8C%E6%B2%A1%E8%B7%B3%E8%88%9E%23" target="weibo">
-傅菁连唱29首歌没跳舞（热度：231994）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%A2%E4%BA%8630%E5%B9%B4%E7%9A%84%E5%90%8A%E5%9D%A0%E8%8B%B9%E6%9E%9C%E5%9C%B0%E9%87%8C%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 妈妈丢了30年的吊坠苹果地里找到了（热度：229896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%81%E5%B8%88%20%E8%8A%B1%E5%B0%8F%E9%BE%99%23" target="weibo">
-王老师 花小龙（热度：226847）
 </a>
 </li>
 
@@ -1084,7 +1108,7 @@ F1（热度：232794）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%88%E8%AF%B4%E4%BA%86%E8%BE%9E%E8%81%8C%E6%99%9A%E4%B8%8A%E5%B0%B1%E5%90%8E%E6%82%94%E4%BA%86%23" target="weibo">
-上午说了辞职晚上就后悔了（热度：225065）
+上午说了辞职晚上就后悔了（热度：225688）
 </a>
 </li>
 
@@ -1191,6 +1215,12 @@ RNG管理层（热度：205017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%8A%A2%E7%9D%80%E6%8B%BF%E5%8C%85%23" target="weibo">
+张杰谢娜抢着拿包（热度：204119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%AC%AC%E4%B8%80%E5%A4%A9%23" target="weibo">
 7月第一天（热度：203284）
 </a>
@@ -1289,12 +1319,6 @@ RNG管理层（热度：205017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%99%E6%A0%B7%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9B%BD%E5%AE%9D%23" target="weibo">
 肖战这样介绍家乡国宝（热度：194840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E6%9B%BE%E8%A1%A8%E7%A4%BA%E6%83%B3%E9%80%9A%E8%BF%87%E5%8A%AA%E5%8A%9B%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%23" target="weibo">
-张志杰曾表示想通过努力证明自己（热度：194420）
 </a>
 </li>
 
@@ -1413,6 +1437,12 @@ Uzi谈停播原因（热度：184971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81%E6%8B%8D%E4%B8%8B%E6%9D%A5%E6%B2%A1%E6%B3%95%E4%BB%98%E6%AC%BE%23" target="weibo">
+微信收款码拍下来没法付款（热度：181374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E9%80%86%23" target="weibo">
 仙逆（热度：179914）
 </a>
@@ -1421,6 +1451,12 @@ Uzi谈停播原因（热度：184971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E6%B6%A9%E8%B0%B7%E8%BE%A3%E5%A6%B9%23" target="weibo">
 Angelababy涩谷辣妹（热度：179567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E7%A5%96%E5%9B%BD%23" target="weibo">
+27年前的今天香港回归祖国（热度：178949）
 </a>
 </li>
 
@@ -1499,6 +1535,12 @@ Angelababy涩谷辣妹（热度：179567）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84SM%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F%23" target="weibo">
 aespa演唱会上的SM女练习生（热度：164609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%BC%80%E5%BC%A0%E6%9D%B0%E8%B0%81%E8%BF%98%E6%8A%8A%E6%88%91%E5%BD%93%E5%B0%8F%E5%AD%A9%23" target="weibo">
+离开张杰谁还把我当小孩（热度：164598）
 </a>
 </li>
 
@@ -1707,8 +1749,26 @@ infp一生都会为体验买单（热度：156651）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%B0%88%E6%81%8B%E7%88%B1%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E6%89%BE%E8%87%AA%E5%B7%B1%23" target="weibo">
+发现谈恋爱其实就是找自己（热度：142419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%A5%9D%E7%A6%8F%E5%BC%A0%E4%B9%A6%E8%B1%AA%E6%AC%A7%E9%98%B3%E5%A6%AE%E5%A6%AE%23" target="weibo">
 林俊杰祝福张书豪欧阳妮妮（热度：142251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%81%90%E6%83%A7%E7%BB%BC%E5%90%88%E7%97%87%23" target="weibo">
+微信恐惧综合症（热度：141931）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E4%B8%9C%E5%90%90%E6%A7%BDJackeyLove%23" target="weibo">
+黄旭东吐槽JackeyLove（热度：140887）
 </a>
 </li>
 
@@ -1721,12 +1781,6 @@ infp一生都会为体验买单（热度：156651）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%BF%8D%E8%A2%AB%E5%AE%B6%E6%9A%B4%E6%9D%80%E5%A4%AB%E6%BD%9C%E9%80%8329%E5%B9%B4%E8%90%BD%E7%BD%91%23" target="weibo">
 女子不忍被家暴杀夫潜逃29年落网（热度：140475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E8%B0%88%E6%81%8B%E7%88%B1%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E6%89%BE%E8%87%AA%E5%B7%B1%23" target="weibo">
-发现谈恋爱其实就是找自己（热度：140472）
 </a>
 </li>
 
