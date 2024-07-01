@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719819327575,
+  "endTime": 1719822320595,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -8,6 +8,14 @@
       "word": "张志杰去世",
       "onboard_time": 1719792137,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2517479,
+      "num": 625485,
+      "word": "外交部回应张志杰离世",
+      "onboard_time": 1719820099,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833367,
+      "num": 444400,
+      "word": "B太称新疆行回程给司机大姐买机票",
+      "onboard_time": 1719818598,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817510,
       "num": 555883,
       "word": "王星越疑似改年龄",
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 667039,
+      "num": 667039,
+      "word": "张译在政法系统里走不出了",
+      "onboard_time": 1719817398,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655437,
       "num": 251518,
       "word": "微信收款码拍下来没法付款",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 632649,
-      "num": 391320,
+      "num": 441776,
       "word": "王星越17年采访说自己17岁",
       "onboard_time": 1719816557,
       "rank": 10,
@@ -225,6 +249,14 @@
       "onboard_time": 1719803238,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 610631,
+      "num": 610631,
+      "word": "女子在亲子更衣室淋浴后发现摄像头",
+      "onboard_time": 1719817818,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610142,
@@ -299,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567729,
+      "num": 320770,
+      "word": "小酥肉一年卖出100亿",
+      "onboard_time": 1719817338,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550649,
       "num": 550649,
       "word": "过早入睡也容易发生心脑血管疾病",
@@ -329,14 +369,6 @@
       "onboard_time": 1719811340,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 525711,
-      "num": 525711,
-      "word": "张译在政法系统里走不出了",
-      "onboard_time": 1719817398,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 514890,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 487839,
-      "num": 280071,
+      "num": 311557,
       "word": "因为接受offer去工作被爸爸骂白养了",
       "onboard_time": 1719814879,
       "rank": 30,
@@ -411,8 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478602,
-      "num": 386879,
+      "raw_hot": 478694,
+      "num": 478694,
       "word": "赵丽颖胎毛刘海",
       "onboard_time": 1719818057,
       "rank": 29,
@@ -443,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452517,
+      "num": 452517,
+      "word": "长相思涂山璟红色婚服",
+      "onboard_time": 1719820338,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452229,
       "num": 452229,
       "word": "傅菁连唱29首歌没跳舞",
       "onboard_time": 1719797418,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 447810,
+      "num": 447810,
+      "word": "女子错转226万元陌生阿姨全退回",
+      "onboard_time": 1719820037,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445468,
@@ -473,6 +521,22 @@
       "onboard_time": 1719789555,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 436584,
+      "num": 436584,
+      "word": "汪苏泷 点歌",
+      "onboard_time": 1719819259,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 435804,
+      "num": 435804,
+      "word": "于正曾想签下赵丽颖",
+      "onboard_time": 1719819437,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 431693,
@@ -513,6 +577,14 @@
       "onboard_time": 1719758779,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396909,
+      "num": 396909,
+      "word": "保罗乔治加盟76人",
+      "onboard_time": 1719820578,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 395593,
@@ -563,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354224,
+      "num": 354224,
+      "word": "瑞幸 啤酒",
+      "onboard_time": 1719821477,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 350449,
       "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
@@ -603,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328155,
+      "num": 328155,
+      "word": "JackeyLove 自费升舱",
+      "onboard_time": 1719821237,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 327262,
       "num": 327262,
       "word": "鹭卓 杭州站",
@@ -633,6 +721,14 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297022,
+      "num": 297022,
+      "word": "有班味这么重的皇后进入国产剧",
+      "onboard_time": 1719821536,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 294803,
@@ -699,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268131,
-      "num": 268131,
-      "word": "女子在亲子更衣室淋浴后发现摄像头",
-      "onboard_time": 1719817818,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 268123,
+      "num": 268123,
+      "word": "月入过万你还会考公考研吗",
+      "onboard_time": 1719818539,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 264652,
@@ -729,14 +825,6 @@
       "onboard_time": 1719753438,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 261971,
-      "num": 261971,
-      "word": "小酥肉一年卖出100亿",
-      "onboard_time": 1719817338,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261822,
@@ -777,14 +865,6 @@
       "onboard_time": 1719812897,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251837,
-      "num": 179847,
-      "word": "B太称新疆行回程给司机大姐买机票",
-      "onboard_time": 1719818598,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250381,
@@ -875,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234357,
+      "num": 234357,
+      "word": "林丹曾呼吁给运动员更多休息时间",
+      "onboard_time": 1719820878,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232507,
       "num": 232507,
       "word": "长相思小夭白发细节",
@@ -931,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217473,
+      "num": 217473,
+      "word": "其实24岁人生才刚刚开始",
+      "onboard_time": 1719816318,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217448,
       "num": 217448,
       "word": "陈乔恩给狗簪花",
@@ -961,14 +1057,6 @@
       "onboard_time": 1719811040,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205693,
-      "num": 205693,
-      "word": "其实24岁人生才刚刚开始",
-      "onboard_time": 1719816318,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 204552,
@@ -1219,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157331,
+      "num": 157331,
+      "word": "宋亚轩生日周边开箱",
+      "onboard_time": 1719821358,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156565,
       "num": 156565,
       "word": "羽毛球",
@@ -1395,6 +1491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139307,
+      "num": 446006,
+      "word": "小酥肉为何成了火锅店必点菜",
+      "onboard_time": 1719820997,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138026,
       "num": 139592,
       "word": "凡希亚连唱半小时没有停",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1719810681,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134239,
+      "num": 134239,
+      "word": "世界羽坛众将悼念张志杰",
+      "onboard_time": 1719819018,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 134081,
@@ -1467,6 +1579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132169,
+      "num": 132169,
+      "word": "七月你好",
+      "onboard_time": 1719821720,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132037,
+      "num": 132037,
+      "word": "中方回应美称NASA未被邀请研究月壤",
+      "onboard_time": 1719822079,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131072,
       "num": 131072,
       "word": "克莱离开勇士",
@@ -1481,14 +1609,6 @@
       "onboard_time": 1719789074,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128663,
-      "num": 128663,
-      "word": "世界羽坛众将悼念张志杰",
-      "onboard_time": 1719819018,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 127617,
@@ -1555,14 +1675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116590,
-      "num": 116590,
-      "word": "月入过万你还会考公考研吗",
-      "onboard_time": 1719818539,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 112996,
       "num": 112996,
       "word": "医学生的毕业典礼全是娃",
@@ -1577,14 +1689,6 @@
       "onboard_time": 1719804020,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111926,
-      "num": 111926,
-      "word": "汪苏泷 点歌",
-      "onboard_time": 1719819259,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 111697,
