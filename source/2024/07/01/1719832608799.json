@@ -1,0 +1,410 @@
+{
+  "runTime": 1719832608799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664591,
+        "num": 1664591,
+        "word": "林生斌与亡妻关联公司均经营异常",
+        "onboard_time": 1719828497,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048731,
+        "num": 1048731,
+        "word": "东航就林生斌隐私权案提起上诉",
+        "onboard_time": 1719823338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34602,
+        "num": 641033,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719824718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632653,
+        "num": 632653,
+        "word": "女子错转226万元陌生阿姨全退回",
+        "onboard_time": 1719820037,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618107,
+        "num": 618107,
+        "word": "小酥肉为何成了火锅店必点菜",
+        "onboard_time": 1719820997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013776,
+        "num": 594701,
+        "word": "外交部回应张志杰离世",
+        "onboard_time": 1719820099,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569821,
+        "num": 569821,
+        "word": "张志杰去世",
+        "onboard_time": 1719792137,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555642,
+        "num": 555642,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414260,
+        "num": 414260,
+        "word": "有班味这么重的皇后进入国产剧",
+        "onboard_time": 1719821536,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52363,
+        "num": 410730,
+        "word": "孙子为外公守灵时飞来了一只蝴蝶",
+        "onboard_time": 1719831437,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290727,
+        "num": 392585,
+        "word": "林生斌",
+        "onboard_time": 1719828558,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803029,
+        "num": 384437,
+        "word": "韩国第二大城市釜山进入消失阶段",
+        "onboard_time": 1719830477,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 430883,
+        "num": 368805,
+        "word": "李东海李赫宰担任TF三代导师",
+        "onboard_time": 1719828438,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368395,
+        "num": 368395,
+        "word": "吴谨言曾给假粉签了五百张签名照",
+        "onboard_time": 1719825258,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348067,
+        "num": 348067,
+        "word": "汪苏泷说歌手是一场舆论的狂欢",
+        "onboard_time": 1719825619,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330357,
+        "num": 330357,
+        "word": "林丹曾吐槽国际羽联",
+        "onboard_time": 1719824598,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311574,
+        "num": 311574,
+        "word": "于正认可的4部爽剧",
+        "onboard_time": 1719829698,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303356,
+        "num": 303356,
+        "word": "韩国一女职员因涉厌男手势被停职",
+        "onboard_time": 1719824119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301225,
+        "num": 301225,
+        "word": "蒋敦豪官宣巡演",
+        "onboard_time": 1719827779,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253599,
+        "num": 253599,
+        "word": "邓为发了涂山璟",
+        "onboard_time": 1719831319,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359406,
+        "num": 253442,
+        "word": "爸爸考研成绩出来我焦虑了",
+        "onboard_time": 1719825379,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251000,
+        "num": 251000,
+        "word": "张子墨 跑路",
+        "onboard_time": 1719832039,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245917,
+        "num": 245917,
+        "word": "宁艺卓粉丝向SM维权",
+        "onboard_time": 1719829157,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238033,
+        "num": 238033,
+        "word": "东京食尸鬼 十年后的新动画",
+        "onboard_time": 1719829098,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 227206,
+        "num": 227206,
+        "word": "小酥肉一年卖出100亿",
+        "onboard_time": 1719817338,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221333,
+        "num": 221333,
+        "word": "印尼媒体呼吁世羽联修改规则",
+        "onboard_time": 1719830359,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187872,
+        "num": 187872,
+        "word": "民警说在南京夫子庙小孩肯定丢不了",
+        "onboard_time": 1719827718,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183738,
+        "num": 183738,
+        "word": "长相思涂山璟红色婚服",
+        "onboard_time": 1719820338,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181610,
+        "num": 181610,
+        "word": "我妈问我考研为什么不5点起12点睡",
+        "onboard_time": 1719830897,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180668,
+        "num": 180668,
+        "word": "JackeyLove 自费升舱",
+        "onboard_time": 1719821237,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169468,
+        "num": 169468,
+        "word": "薛之谦气到老奶奶都不用扶了",
+        "onboard_time": 1719832098,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169392,
+        "num": 169392,
+        "word": "中国第一门面担当海外亮相",
+        "onboard_time": 1719828497,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164569,
+        "num": 164569,
+        "word": "韩国一人一户一宠物家庭激增",
+        "onboard_time": 1719829817,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147688,
+        "num": 147688,
+        "word": "王星越17年采访说自己17岁",
+        "onboard_time": 1719816557,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144953,
+        "num": 144953,
+        "word": "Steam公开账号的未玩游戏或价值138亿",
+        "onboard_time": 1719831678,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144645,
+        "num": 144645,
+        "word": "一天熬过这2个发胖时段就能瘦",
+        "onboard_time": 1719822618,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "B太称新疆行回程给司机大姐买机票",
+        "onboard_time": 1719818598,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144350,
+        "num": 144350,
+        "word": "德国女子怒骂强奸犯被判入狱2天",
+        "onboard_time": 1719830418,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142138,
+        "num": 142138,
+        "word": "嘉兴体育局称张志杰之前身体挺好的",
+        "onboard_time": 1719831619,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140976,
+        "num": 140976,
+        "word": "父亲因不满志愿填报殴打女儿",
+        "onboard_time": 1719831378,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138419,
+        "num": 138419,
+        "word": "在菲律宾遇害中企管理人员家属发声",
+        "onboard_time": 1719828678,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136066,
+        "num": 136066,
+        "word": "张子墨唱歌",
+        "onboard_time": 1719831918,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128918,
+        "num": 128918,
+        "word": "徐志胜被孟子义整破防了",
+        "onboard_time": 1719824898,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128829,
+        "num": 128829,
+        "word": "叶十七涂山璟上线",
+        "onboard_time": 1719827418,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127375,
+        "num": 127375,
+        "word": "因为接受offer去工作被爸爸骂白养了",
+        "onboard_time": 1719814879,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "如懿传吐槽",
+        "onboard_time": 1719829278,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117621,
+        "num": 117621,
+        "word": "猫咪陪男生全程读研后老师为它拨穗",
+        "onboard_time": 1719823758,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116276,
+        "num": 116276,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114410,
+        "num": 114410,
+        "word": "2名中国企业管理人员菲律宾遇害",
+        "onboard_time": 1719823338,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111624,
+        "num": 111624,
+        "word": "医生称张志杰症状符合心源性猝死",
+        "onboard_time": 1719831256,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#勤掸思想尘常敲警示钟#"
+    }
+  }
+}

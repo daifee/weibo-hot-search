@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719830401856,
+  "endTime": 1719832608799,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1664591,
+      "num": 1664591,
+      "word": "林生斌与亡妻关联公司均经营异常",
+      "onboard_time": 1719828497,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1651437,
       "num": 480908,
       "word": "网友称张志杰未获及时救治",
@@ -56,14 +64,6 @@
       "word": "林生斌",
       "onboard_time": 1719828558,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1551388,
-      "num": 1551388,
-      "word": "林生斌与亡妻关联公司均经营异常",
-      "onboard_time": 1719828497,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -225,6 +225,14 @@
       "onboard_time": 1719796938,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 803029,
+      "num": 384437,
+      "word": "韩国第二大城市釜山进入消失阶段",
+      "onboard_time": 1719830477,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 750205,
@@ -755,19 +763,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 368395,
+      "num": 368395,
+      "word": "吴谨言曾给假粉签了五百张签名照",
+      "onboard_time": 1719825258,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365774,
       "num": 365774,
       "word": "朋友哥哥是车银优",
       "onboard_time": 1719801018,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 359865,
-      "num": 359865,
-      "word": "吴谨言曾给假粉签了五百张签名照",
-      "onboard_time": 1719825258,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -841,6 +849,14 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311574,
+      "num": 311574,
+      "word": "于正认可的4部爽剧",
+      "onboard_time": 1719829698,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 294803,
@@ -987,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253599,
+      "num": 253599,
+      "word": "邓为发了涂山璟",
+      "onboard_time": 1719831319,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253434,
       "num": 253434,
       "word": "为什么收费员工资低却没人离职",
       "onboard_time": 1719812897,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251000,
+      "num": 251000,
+      "word": "张子墨 跑路",
+      "onboard_time": 1719832039,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 250381,
@@ -1075,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238033,
+      "num": 238033,
+      "word": "东京食尸鬼 十年后的新动画",
+      "onboard_time": 1719829098,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 237121,
       "num": 237121,
       "word": "福宝闻花",
@@ -1155,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220230,
-      "num": 220230,
-      "word": "东京食尸鬼 十年后的新动画",
-      "onboard_time": 1719829098,
-      "rank": 43,
-      "category": "动漫"
+      "raw_hot": 221333,
+      "num": 221333,
+      "word": "印尼媒体呼吁世羽联修改规则",
+      "onboard_time": 1719830359,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 219948,
@@ -1283,14 +1323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195272,
-      "num": 195272,
-      "word": "于正认可的4部爽剧",
-      "onboard_time": 1719829698,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "张杰演唱会大屏上的一家三口",
@@ -1331,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187872,
+      "num": 523093,
+      "word": "民警说在南京夫子庙小孩肯定丢不了",
+      "onboard_time": 1719827718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "中央政府将再赠送香港一对大熊猫",
@@ -1368,6 +1408,14 @@
       "word": "白桃星座",
       "onboard_time": 1719759018,
       "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181610,
+      "num": 181610,
+      "word": "我妈问我考研为什么不5点起12点睡",
+      "onboard_time": 1719830897,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -1419,14 +1467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176283,
-      "num": 523093,
-      "word": "民警说在南京夫子庙小孩肯定丢不了",
-      "onboard_time": 1719827718,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -1459,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169468,
+      "num": 169468,
+      "word": "薛之谦气到老奶奶都不用扶了",
+      "onboard_time": 1719832098,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168259,
       "num": 168259,
       "word": "直肠癌前期有什么症状",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1719804558,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 164569,
+      "num": 183745,
+      "word": "韩国一人一户一宠物家庭激增",
+      "onboard_time": 1719829817,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164191,
@@ -1659,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144953,
+      "num": 144953,
+      "word": "Steam公开账号的未玩游戏或价值138亿",
+      "onboard_time": 1719831678,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144724,
       "num": 144724,
       "word": "央行决定近期开展国债借入操作",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1719745938,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144350,
+      "num": 144350,
+      "word": "德国女子怒骂强奸犯被判入狱2天",
+      "onboard_time": 1719830418,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144218,
@@ -1707,12 +1779,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142138,
+      "num": 142138,
+      "word": "嘉兴体育局称张志杰之前身体挺好的",
+      "onboard_time": 1719831619,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141391,
       "num": 141391,
       "word": "吴艳妮女子100米栏冠军",
       "onboard_time": 1719745517,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140976,
+      "num": 140976,
+      "word": "父亲因不满志愿填报殴打女儿",
+      "onboard_time": 1719831378,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140676,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1719751398,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136066,
+      "num": 136066,
+      "word": "张子墨唱歌",
+      "onboard_time": 1719831918,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135075,
@@ -1947,14 +2043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119787,
-      "num": 119787,
-      "word": "印尼媒体呼吁世羽联修改规则",
-      "onboard_time": 1719830359,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119571,
       "num": 119571,
       "word": "这火种从未断过",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1719804738,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116276,
+      "num": 116276,
+      "word": "医院认定死亡后中国羽协仍尝试转院",
+      "onboard_time": 1719832578,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112996,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111624,
+      "num": 111624,
+      "word": "医生称张志杰症状符合心源性猝死",
+      "onboard_time": 1719831256,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110773,
@@ -2203,20 +2307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52363,
+      "num": 410730,
+      "word": "孙子为外公守灵时飞来了一只蝴蝶",
+      "onboard_time": 1719831437,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48351,
       "num": 367338,
       "word": "残疾女孩深夜卖水小哥暖心鼓励",
       "onboard_time": 1719808402,
       "rank": 16,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 48029,
-      "num": 183745,
-      "word": "韩国一人一户一宠物家庭激增",
-      "onboard_time": 1719829817,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47020,
