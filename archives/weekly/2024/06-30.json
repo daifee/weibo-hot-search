@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719840880383,
+  "endTime": 1719843451659,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1125705,
+      "num": 239542,
+      "word": "情侣同居不同房是怎样的",
+      "onboard_time": 1719837798,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1125286,
       "num": 1125286,
       "word": "三喜 改名",
@@ -243,12 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1033687,
-      "num": 239542,
-      "word": "情侣同居不同房是怎样的",
-      "onboard_time": 1719837798,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 1025960,
+      "num": 1025960,
+      "word": "第一次见男二不爱女主爱发疯的",
+      "onboard_time": 1719838100,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 990741,
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 820556,
-      "num": 820556,
-      "word": "第一次见男二不爱女主爱发疯的",
-      "onboard_time": 1719838100,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 817510,
       "num": 555883,
       "word": "王星越疑似改年龄",
@@ -520,6 +520,14 @@
       "word": "中国留学生在新西兰遭袭面部严重损伤",
       "onboard_time": 1719813378,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687276,
+      "num": 434234,
+      "word": "中企人员在菲被绑架付300万后仍遇害",
+      "onboard_time": 1719838340,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -648,6 +656,14 @@
       "word": "于正 死也要二搭三搭四搭",
       "onboard_time": 1719810380,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624279,
+      "num": 413696,
+      "word": "刘亦菲唐嫣合照",
+      "onboard_time": 1719841880,
+      "rank": 4,
       "category": "作品衍生"
     },
     {
@@ -881,6 +897,14 @@
       "onboard_time": 1719672860,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556784,
+      "num": 324067,
+      "word": "张志杰比赛中猝死谁之过",
+      "onboard_time": 1719833298,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 556467,
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472410,
+      "num": 252032,
+      "word": "张子墨 自摸哥",
+      "onboard_time": 1719840379,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464153,
       "num": 464153,
       "word": "上海暴雨",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1719664037,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426435,
-      "num": 241393,
-      "word": "中企人员在菲被绑架付300万后仍遇害",
-      "onboard_time": 1719838340,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422262,
@@ -1539,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368430,
+      "num": 247328,
+      "word": "檀健次真的是天选相柳",
+      "onboard_time": 1719840559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367914,
       "num": 367914,
       "word": "自动续费应以显著方式提醒消费者",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1719752058,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353910,
+      "num": 239976,
+      "word": "陈乔恩教于正葡萄柚减肥法",
+      "onboard_time": 1719837138,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 353554,
@@ -1643,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343407,
-      "num": 239976,
-      "word": "陈乔恩教于正葡萄柚减肥法",
-      "onboard_time": 1719837138,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342454,
       "num": 230658,
       "word": "为什么空调除湿比制冷更凉爽",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1719715876,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336065,
-      "num": 324067,
-      "word": "张志杰比赛中猝死谁之过",
-      "onboard_time": 1719833298,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 332581,
@@ -1803,12 +1827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315729,
+      "num": 277778,
+      "word": "羽毛球赛程密集频遭选手吐槽",
+      "onboard_time": 1719840619,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315630,
       "num": 286274,
       "word": "张杰这次像牵女儿了",
       "onboard_time": 1719835579,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 314222,
+      "num": 238489,
+      "word": "林志颖一家五口游迪士尼",
+      "onboard_time": 1719839899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 311574,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1719718398,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292714,
-      "num": 238489,
-      "word": "林志颖一家五口游迪士尼",
-      "onboard_time": 1719839899,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 290591,
@@ -2441,14 +2473,6 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219036,
-      "num": 219036,
-      "word": "张子墨 自摸哥",
-      "onboard_time": 1719840379,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 217473,
@@ -3155,6 +3179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175231,
+      "num": 175231,
+      "word": "3类运动容易引发运动性猝死",
+      "onboard_time": 1719839780,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174928,
       "num": 174928,
       "word": "中国第一门面担当海外亮相",
@@ -3467,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152693,
+      "num": 152693,
+      "word": "孟子义向涵之合照",
+      "onboard_time": 1719842239,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152101,
       "num": 152101,
       "word": "00后参与暴拉股价22900%",
@@ -3659,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144188,
+      "num": 144188,
+      "word": "我推的孩子 全员美貌",
+      "onboard_time": 1719842179,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144057,
       "num": 144057,
       "word": "王星越回应在曹操赛道飞速成长",
@@ -3763,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140196,
+      "num": 140196,
+      "word": "洗脸巾就是免费的冰箱除味剂",
+      "onboard_time": 1719842780,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -3777,6 +3833,14 @@
       "onboard_time": 1719817698,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139019,
+      "num": 139019,
+      "word": "中菲将加强执法合作共同打击跨国犯罪",
+      "onboard_time": 1719841099,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138958,
@@ -3979,22 +4043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131016,
-      "num": 219423,
-      "word": "羽毛球赛程密集频遭选手吐槽",
-      "onboard_time": 1719840619,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 130631,
-      "num": 130631,
-      "word": "3类运动容易引发运动性猝死",
-      "onboard_time": 1719839780,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
@@ -4105,14 +4153,6 @@
       "onboard_time": 1719827838,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125710,
-      "num": 125710,
-      "word": "檀健次真的是天选相柳",
-      "onboard_time": 1719840559,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 125209,
@@ -4257,6 +4297,14 @@
       "onboard_time": 1719727876,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119867,
+      "num": 119867,
+      "word": "黄景瑜有疯批男主那味儿了",
+      "onboard_time": 1719843259,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 119771,
@@ -4651,6 +4699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102770,
+      "num": 102770,
+      "word": "这不是AI绘画这是真的大自然",
+      "onboard_time": 1719843259,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102457,
       "num": 102457,
       "word": "夏日扎尕那如诗如画",
@@ -4689,6 +4745,14 @@
       "onboard_time": 1719716717,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100264,
+      "num": 100264,
+      "word": "汪苏泷3个多小时唱跳不带喘的",
+      "onboard_time": 1719842298,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 100184,
@@ -4736,6 +4800,14 @@
       "word": "肝脏损伤的4个信号",
       "onboard_time": 1719662358,
       "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97129,
+      "num": 97129,
+      "word": "遇到心脏骤停如何救命",
+      "onboard_time": 1719842959,
+      "rank": 49,
       "category": "健康医疗"
     },
     {
@@ -5011,6 +5083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78801,
+      "num": 271999,
+      "word": "心脏骤停黄金抢救时间是4分钟",
+      "onboard_time": 1719842179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76735,
       "num": 192137,
       "word": "一半一半的智慧",
@@ -5113,6 +5193,14 @@
       "onboard_time": 1719831437,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65945,
+      "num": 240470,
+      "word": "2025款极氪X上市17.9万起",
+      "onboard_time": 1719838578,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 65565,
@@ -5308,7 +5396,7 @@
     },
     {
       "raw_hot": 42928,
-      "num": 399454,
+      "num": 455189,
       "word": "献给新征程上的每一个你",
       "onboard_time": 1719824898,
       "rank": 12,
@@ -5345,14 +5433,6 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41166,
-      "num": 240470,
-      "word": "2025款极氪X上市17.9万起",
-      "onboard_time": 1719838578,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 40874,
