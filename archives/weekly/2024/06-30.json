@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719832608799,
+  "endTime": 1719833675028,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 803029,
-      "num": 384437,
+      "num": 419482,
       "word": "韩国第二大城市釜山进入消失阶段",
       "onboard_time": 1719830477,
       "rank": 11,
@@ -593,6 +593,14 @@
       "onboard_time": 1719736458,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625824,
+      "num": 418295,
+      "word": "张子墨 跑路",
+      "onboard_time": 1719832039,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 624868,
@@ -865,6 +873,14 @@
       "onboard_time": 1719788714,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 544581,
+      "num": 416834,
+      "word": "医院认定死亡后中国羽协仍尝试转院",
+      "onboard_time": 1719832578,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 539842,
@@ -1299,6 +1315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 416528,
+      "num": 416528,
+      "word": "吴谨言曾给假粉签了五百张签名照",
+      "onboard_time": 1719825258,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408617,
       "num": 408617,
       "word": "蒋敦豪官宣巡演",
@@ -1440,14 +1464,6 @@
       "word": "杨紫后悔没带泡面去巴黎",
       "onboard_time": 1719756319,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 368395,
-      "num": 368395,
-      "word": "吴谨言曾给假粉签了五百张签名照",
-      "onboard_time": 1719825258,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1827,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 283952,
+      "num": 283952,
+      "word": "邓为发了涂山璟",
+      "onboard_time": 1719831319,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283476,
       "num": 283476,
       "word": "张志杰生前最后采访",
@@ -1995,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253599,
-      "num": 253599,
-      "word": "邓为发了涂山璟",
-      "onboard_time": 1719831319,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253434,
       "num": 253434,
       "word": "为什么收费员工资低却没人离职",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1719666378,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251000,
-      "num": 251000,
-      "word": "张子墨 跑路",
-      "onboard_time": 1719832039,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 250726,
@@ -2379,6 +2387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209215,
+      "num": 209215,
+      "word": "薛之谦气到老奶奶都不用扶了",
+      "onboard_time": 1719832098,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 207980,
+      "num": 207980,
+      "word": "韩国一人一户一宠物家庭激增",
+      "onboard_time": 1719829817,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206924,
       "num": 206924,
       "word": "任嘉伦说60L行李太轻了",
@@ -2707,12 +2731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189701,
+      "num": 189701,
+      "word": "我妈问我考研为什么不5点起12点睡",
+      "onboard_time": 1719830897,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189297,
       "num": 189297,
       "word": "美军每天用十多辆卡车偷叙利亚小麦",
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 188912,
+      "num": 188912,
+      "word": "赵又廷平时叫高圆圆大名",
+      "onboard_time": 1719833239,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 188515,
@@ -2819,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183663,
+      "num": 183663,
+      "word": "德国女子怒骂强奸犯被判入狱2天",
+      "onboard_time": 1719830418,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "瑞士vs意大利",
@@ -2833,14 +2881,6 @@
       "onboard_time": 1719756199,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181610,
-      "num": 181610,
-      "word": "我妈问我考研为什么不5点起12点睡",
-      "onboard_time": 1719830897,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 180911,
@@ -2963,14 +3003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169468,
-      "num": 169468,
-      "word": "薛之谦气到老奶奶都不用扶了",
-      "onboard_time": 1719832098,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168820,
       "num": 168820,
       "word": "德国vs丹麦",
@@ -3041,14 +3073,6 @@
       "onboard_time": 1719735978,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 164569,
-      "num": 183745,
-      "word": "韩国一人一户一宠物家庭激增",
-      "onboard_time": 1719829817,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164191,
@@ -3195,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156112,
+      "num": 156112,
+      "word": "张杰看粉丝求婚太专注忘词了",
+      "onboard_time": 1719832819,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "猫咪回头是一种礼貌也是一种警告",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1719718158,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151699,
+      "num": 151699,
+      "word": "张志杰比赛中猝死谁之过",
+      "onboard_time": 1719833298,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 151478,
@@ -3339,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147231,
+      "num": 147231,
+      "word": "父亲因不满志愿填报殴打女儿",
+      "onboard_time": 1719831378,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "马立奥重回爸爸当家",
@@ -3411,14 +3459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144350,
-      "num": 144350,
-      "word": "德国女子怒骂强奸犯被判入狱2天",
-      "onboard_time": 1719830418,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144218,
       "num": 818344,
       "word": "祝福党的103岁生日",
@@ -3489,14 +3529,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140976,
-      "num": 140976,
-      "word": "父亲因不满志愿填报殴打女儿",
-      "onboard_time": 1719831378,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140801,
@@ -3753,6 +3785,14 @@
       "onboard_time": 1719661877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "赫海录制TF三代出道战",
+      "onboard_time": 1719832937,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129683,
@@ -4065,14 +4105,6 @@
       "onboard_time": 1719740597,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116276,
-      "num": 116276,
-      "word": "医院认定死亡后中国羽协仍尝试转院",
-      "onboard_time": 1719832578,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 115080,
@@ -4747,6 +4779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66501,
+      "num": 410730,
+      "word": "孙子为外公守灵时飞来了一只蝴蝶",
+      "onboard_time": 1719831437,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65565,
       "num": 339449,
       "word": "暑假旅行网上预订你都踩过哪些坑",
@@ -4857,14 +4897,6 @@
       "onboard_time": 1719750258,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 52363,
-      "num": 410730,
-      "word": "孙子为外公守灵时飞来了一只蝴蝶",
-      "onboard_time": 1719831437,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50714,
@@ -5081,6 +5113,14 @@
       "onboard_time": 1719741976,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 35598,
+      "num": 422801,
+      "word": "洛阳华南虎家族再添6只虎宝宝",
+      "onboard_time": 1719833358,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35132,
