@@ -1,0 +1,410 @@
+{
+  "runTime": 1719875968837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637690,
+        "num": 637690,
+        "word": "平江特大暴雨",
+        "onboard_time": 1719849918,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519907,
+        "num": 519907,
+        "word": "葡萄牙",
+        "onboard_time": 1719875296,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37548,
+        "num": 456835,
+        "word": "我们向前中国向上",
+        "onboard_time": 1719844461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425253,
+        "num": 425253,
+        "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+        "onboard_time": 1719845059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361404,
+        "num": 361404,
+        "word": "拜登",
+        "onboard_time": 1719856813,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216928,
+        "num": 216928,
+        "word": "第一次见男二不爱女主爱发疯的",
+        "onboard_time": 1719838100,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190727,
+        "num": 190727,
+        "word": "葡萄牙3比0斯洛文尼亚",
+        "onboard_time": 1719875296,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182553,
+        "num": 182553,
+        "word": "C罗哭了",
+        "onboard_time": 1719875296,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171367,
+        "num": 171367,
+        "word": "法国vs比利时",
+        "onboard_time": 1719846259,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21552,
+        "num": 171240,
+        "word": "雨夜里宝妈拜托民警照看女儿",
+        "onboard_time": 1719874935,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616350,
+        "num": 170955,
+        "word": "李敏镐肿了",
+        "onboard_time": 1719846380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333756,
+        "num": 170820,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305765,
+        "num": 170348,
+        "word": "官方回应吃播卤羊头内吃出草",
+        "onboard_time": 1719863471,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241287,
+        "num": 170232,
+        "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+        "onboard_time": 1719837138,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189785,
+        "num": 169814,
+        "word": "中羽协将为张志杰家人提供帮助",
+        "onboard_time": 1719866591,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169788,
+        "num": 169788,
+        "word": "克莱被交易至独行侠",
+        "onboard_time": 1719875235,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164058,
+        "num": 164058,
+        "word": "马斯克回应中国小女孩报bug",
+        "onboard_time": 1719843679,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134230,
+        "num": 134230,
+        "word": "C罗失点",
+        "onboard_time": 1719875354,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125616,
+        "num": 125616,
+        "word": "韩国第二大城市釜山进入消失阶段",
+        "onboard_time": 1719830477,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "葡萄牙门将好牛",
+        "onboard_time": 1719875235,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290981,
+        "num": 119949,
+        "word": "长期熬夜会增加身体核心器官负担",
+        "onboard_time": 1719853932,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231214,
+        "num": 114220,
+        "word": "林生斌",
+        "onboard_time": 1719828558,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218470,
+        "num": 111452,
+        "word": "空调长期不洗男子肺部感染险丧命",
+        "onboard_time": 1719865212,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207788,
+        "num": 109226,
+        "word": "张志杰妈妈听到噩耗后病倒住院",
+        "onboard_time": 1719874993,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "林生斌与亡妻关联公司均经营异常",
+        "onboard_time": 1719828497,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104859,
+        "num": 104859,
+        "word": "韩庚谈和粉丝20年之约",
+        "onboard_time": 1719872772,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101354,
+        "num": 101354,
+        "word": "刘亦菲唐嫣合照",
+        "onboard_time": 1719841880,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94562,
+        "num": 94562,
+        "word": "洗脸巾就是免费的冰箱除味剂",
+        "onboard_time": 1719842780,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92824,
+        "num": 92824,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91604,
+        "num": 91604,
+        "word": "Angelababy庆祝香港回归27周年",
+        "onboard_time": 1719849918,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200365,
+        "num": 91370,
+        "word": "葡萄牙门将点球大战三连扑",
+        "onboard_time": 1719875834,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86179,
+        "num": 86179,
+        "word": "法国1比0比利时",
+        "onboard_time": 1719875296,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85402,
+        "num": 85402,
+        "word": "情侣同居不同房是怎样的",
+        "onboard_time": 1719837798,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83922,
+        "num": 83922,
+        "word": "陈乔恩教于正葡萄柚减肥法",
+        "onboard_time": 1719837138,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83373,
+        "num": 83373,
+        "word": "年轻护士在三甲医院6年后裸辞逃离",
+        "onboard_time": 1719865931,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70993,
+        "num": 70993,
+        "word": "C罗点球被扑",
+        "onboard_time": 1719875595,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69873,
+        "num": 69873,
+        "word": "人教版大熊猫vs妈教版大熊猫",
+        "onboard_time": 1719866290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68544,
+        "num": 68544,
+        "word": "科斯塔连扑三点",
+        "onboard_time": 1719875834,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68145,
+        "num": 68145,
+        "word": "中企人员在菲被绑架付300万后仍遇害",
+        "onboard_time": 1719838340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61362,
+        "num": 61362,
+        "word": "檀健次真的是天选相柳",
+        "onboard_time": 1719840559,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60495,
+        "num": 60495,
+        "word": "比利时乌龙",
+        "onboard_time": 1719875834,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58073,
+        "num": 58073,
+        "word": "孙颖莎想和埃菲尔铁塔合影",
+        "onboard_time": 1719871511,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57732,
+        "num": 57732,
+        "word": "唐艺昕带娃外出",
+        "onboard_time": 1719837378,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53204,
+        "num": 53204,
+        "word": "张志杰比赛中猝死谁之过",
+        "onboard_time": 1719833298,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52475,
+        "num": 52475,
+        "word": "先别管猫了快去救车厘子",
+        "onboard_time": 1719863231,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45455,
+        "num": 45455,
+        "word": "3类运动容易引发运动性猝死",
+        "onboard_time": 1719839780,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43950,
+        "num": 43950,
+        "word": "黄子韬曾说30岁会考虑成家",
+        "onboard_time": 1719861670,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43004,
+        "num": 43004,
+        "word": "入住酒店千万要小心",
+        "onboard_time": 1719864431,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42901,
+        "num": 42901,
+        "word": "崔泰俊ZICO聊天内容",
+        "onboard_time": 1719834558,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40488,
+        "num": 40488,
+        "word": "黄景瑜有疯批男主那味儿了",
+        "onboard_time": 1719843259,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

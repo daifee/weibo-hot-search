@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719873335015,
+  "endTime": 1719875968837,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637690,
+      "num": 637690,
+      "word": "平江特大暴雨",
+      "onboard_time": 1719849918,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632649,
       "num": 474712,
       "word": "王星越17年采访说自己17岁",
@@ -923,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562436,
-      "num": 562436,
-      "word": "平江特大暴雨",
-      "onboard_time": 1719849918,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561810,
       "num": 292170,
       "word": "黄子韬徐艺洋一路上都在拌嘴",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1719717377,
       "rank": 24,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 519907,
+      "num": 519907,
+      "word": "葡萄牙",
+      "onboard_time": 1719875296,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 519384,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 444369,
-      "num": 64070,
+      "num": 119949,
       "word": "长期熬夜会增加身体核心器官负担",
       "onboard_time": 1719853932,
       "rank": 28,
@@ -1675,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361404,
+      "num": 361404,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 356158,
       "num": 356158,
       "word": "深中通道堵了",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1719722899,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305765,
+      "num": 170348,
+      "word": "官方回应吃播卤羊头内吃出草",
+      "onboard_time": 1719863471,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302192,
@@ -2571,12 +2595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218067,
-      "num": 218067,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
+      "raw_hot": 218470,
+      "num": 111452,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217473,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1719837318,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207788,
+      "num": 109226,
+      "word": "张志杰妈妈听到噩耗后病倒住院",
+      "onboard_time": 1719874993,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 206924,
@@ -2859,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200365,
+      "num": 91370,
+      "word": "葡萄牙门将点球大战三连扑",
+      "onboard_time": 1719875834,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
@@ -3011,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190727,
+      "num": 190727,
+      "word": "葡萄牙3比0斯洛文尼亚",
+      "onboard_time": 1719875296,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190497,
       "num": 182447,
       "word": "张若昀钓鱼永不空军",
@@ -3049,6 +3097,14 @@
       "onboard_time": 1719808821,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 169814,
+      "word": "中羽协将为张志杰家人提供帮助",
+      "onboard_time": 1719866591,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 189701,
@@ -3184,6 +3240,14 @@
       "word": "瑞士vs意大利",
       "onboard_time": 1719672199,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182553,
+      "num": 182553,
+      "word": "C罗哭了",
+      "onboard_time": 1719875296,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -3329,6 +3393,14 @@
       "onboard_time": 1719722597,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169788,
+      "num": 169788,
+      "word": "克莱被交易至独行侠",
+      "onboard_time": 1719875235,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 169618,
@@ -3931,14 +4003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140164,
-      "num": 53445,
-      "word": "官方回应吃播卤羊头内吃出草",
-      "onboard_time": 1719863471,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -4080,6 +4144,14 @@
       "word": "世界羽坛众将悼念张志杰",
       "onboard_time": 1719819018,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134230,
+      "num": 134230,
+      "word": "C罗失点",
+      "onboard_time": 1719875354,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -4299,14 +4371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 125431,
-      "num": 43189,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "DOU5对战Gr",
@@ -4475,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120102,
+      "num": 120102,
+      "word": "葡萄牙门将好牛",
+      "onboard_time": 1719875235,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119771,
       "num": 119771,
       "word": "广式早茶为何在北方不火",
@@ -4577,14 +4649,6 @@
       "onboard_time": 1719740597,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116158,
-      "num": 50898,
-      "word": "中羽协将为张志杰家人提供帮助",
-      "onboard_time": 1719866591,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 115775,
@@ -4825,6 +4889,14 @@
       "onboard_time": 1719734417,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 104859,
+      "num": 104859,
+      "word": "韩庚谈和粉丝20年之约",
+      "onboard_time": 1719872772,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 104212,
@@ -5171,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86179,
+      "num": 86179,
+      "word": "法国1比0比利时",
+      "onboard_time": 1719875296,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85453,
       "num": 55249,
       "word": "意大利0比2瑞士",
@@ -5201,6 +5281,14 @@
       "onboard_time": 1719729858,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83373,
+      "num": 83373,
+      "word": "年轻护士在三甲医院6年后裸辞逃离",
+      "onboard_time": 1719865931,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83232,
@@ -5363,6 +5451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70993,
+      "num": 70993,
+      "word": "C罗点球被扑",
+      "onboard_time": 1719875595,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70969,
       "num": 70969,
       "word": "国产动画长发妹",
@@ -5385,6 +5481,22 @@
       "onboard_time": 1719703333,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 69873,
+      "num": 69873,
+      "word": "人教版大熊猫vs妈教版大熊猫",
+      "onboard_time": 1719866290,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68544,
+      "num": 68544,
+      "word": "科斯塔连扑三点",
+      "onboard_time": 1719875834,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 67692,
@@ -5499,6 +5611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60495,
+      "num": 60495,
+      "word": "比利时乌龙",
+      "onboard_time": 1719875834,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58698,
       "num": 64001,
       "word": "恋爱脑的本质是注意力的失控",
@@ -5513,6 +5633,14 @@
       "onboard_time": 1719844461,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58073,
+      "num": 58073,
+      "word": "孙颖莎想和埃菲尔铁塔合影",
+      "onboard_time": 1719871511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 57940,
@@ -5545,6 +5673,14 @@
       "onboard_time": 1719750258,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52475,
+      "num": 52475,
+      "word": "先别管猫了快去救车厘子",
+      "onboard_time": 1719863231,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 50714,
@@ -5611,14 +5747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 46976,
-      "num": 41308,
-      "word": "年轻护士在三甲医院6年后裸辞逃离",
-      "onboard_time": 1719865931,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45736,
       "num": 90451,
       "word": "一条plog告别六月",
@@ -5636,19 +5764,19 @@
     },
     {
       "raw_hot": 45330,
-      "num": 43785,
+      "num": 43950,
       "word": "黄子韬曾说30岁会考虑成家",
       "onboard_time": 1719861670,
       "rank": 37,
       "category": "艺人"
     },
     {
-      "raw_hot": 45171,
-      "num": 45171,
-      "word": "人教版大熊猫vs妈教版大熊猫",
-      "onboard_time": 1719866290,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 43004,
+      "num": 43004,
+      "word": "入住酒店千万要小心",
+      "onboard_time": 1719864431,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 42928,
@@ -5851,14 +5979,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 33791,
-      "num": 33791,
-      "word": "入住酒店千万要小心",
-      "onboard_time": 1719864431,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 33015,
       "num": 49642,
       "word": "英国偶遇阮经天",
@@ -5889,14 +6009,6 @@
       "onboard_time": 1719686892,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31081,
-      "num": 31081,
-      "word": "孙颖莎想和埃菲尔铁塔合影",
-      "onboard_time": 1719871511,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 30980,
@@ -5969,14 +6081,6 @@
       "onboard_time": 1719795798,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27830,
-      "num": 27830,
-      "word": "先别管猫了快去救车厘子",
-      "onboard_time": 1719863231,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 26725,
@@ -6067,12 +6171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22094,
-      "num": 24676,
-      "word": "韩庚谈和粉丝20年之约",
-      "onboard_time": 1719872772,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 21552,
+      "num": 171240,
+      "word": "雨夜里宝妈拜托民警照看女儿",
+      "onboard_time": 1719874935,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19032,
