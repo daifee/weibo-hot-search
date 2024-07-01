@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719851029776,
+  "endTime": 1719852060542,
   "band_list": [
     {
       "raw_hot": 1363305,
@@ -91,12 +91,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 272344,
+      "raw_hot": 292400,
       "num": 127285,
       "word": "Angelababy庆祝香港回归27周年",
       "onboard_time": 1719849918,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260302,
+      "num": 122947,
+      "word": "林生斌",
+      "onboard_time": 1719828558,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258011,
+      "num": 258011,
+      "word": "平江特大暴雨",
+      "onboard_time": 1719849918,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249301,
@@ -105,14 +121,6 @@
       "onboard_time": 1719846138,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222196,
-      "num": 122947,
-      "word": "林生斌",
-      "onboard_time": 1719828558,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218982,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176773,
+      "num": 176773,
+      "word": "法国vs比利时",
+      "onboard_time": 1719846259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174063,
       "num": 174063,
       "word": "陈乔恩教于正葡萄柚减肥法",
@@ -171,28 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150761,
-      "num": 150761,
-      "word": "法国vs比利时",
-      "onboard_time": 1719846259,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140930,
       "num": 140930,
       "word": "张志杰比赛中猝死谁之过",
       "onboard_time": 1719833298,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129499,
-      "num": 175288,
-      "word": "平江特大暴雨",
-      "onboard_time": 1719849918,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118899,
@@ -347,20 +347,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67692,
+      "num": 89129,
+      "word": "于正回复于正的生活我的梦",
+      "onboard_time": 1719850576,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67448,
       "num": 89160,
       "word": "魏大勋张婧仪孙千高圆圆豪门既视感",
       "onboard_time": 1719838038,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62439,
-      "num": 89129,
-      "word": "于正回复于正的生活我的梦",
-      "onboard_time": 1719850576,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 62343,
@@ -400,6 +400,14 @@
       "word": "派出所出现极限拉扯暖心场面",
       "onboard_time": 1719850097,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13038,
+      "num": 100452,
+      "word": "男孩骑车摔倒后找砖头把坑填平了",
+      "onboard_time": 1719851956,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],

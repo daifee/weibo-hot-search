@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719851029776,
+  "endTime": 1719852060542,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -2035,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292400,
+      "num": 127285,
+      "word": "Angelababy庆祝香港回归27周年",
+      "onboard_time": 1719849918,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290591,
       "num": 290591,
       "word": "袁娅维听说宁静卖浪姐团服",
@@ -2123,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272344,
-      "num": 127285,
-      "word": "Angelababy庆祝香港回归27周年",
-      "onboard_time": 1719849918,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272051,
       "num": 213753,
       "word": "朱丹周一围带女儿参加小学入学测试",
@@ -2185,6 +2185,14 @@
       "onboard_time": 1719721577,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258011,
+      "num": 258011,
+      "word": "平江特大暴雨",
+      "onboard_time": 1719849918,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257444,
@@ -4179,14 +4187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129499,
-      "num": 175288,
-      "word": "平江特大暴雨",
-      "onboard_time": 1719849918,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129357,
       "num": 129357,
       "word": "超一本80家里人觉得没书读了",
@@ -5331,6 +5331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67692,
+      "num": 89129,
+      "word": "于正回复于正的生活我的梦",
+      "onboard_time": 1719850576,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67271,
       "num": 1074417,
       "word": "龙腾湾区桥见未来",
@@ -5417,14 +5425,6 @@
       "onboard_time": 1719797479,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62439,
-      "num": 89129,
-      "word": "于正回复于正的生活我的梦",
-      "onboard_time": 1719850576,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 61137,
@@ -5968,6 +5968,14 @@
       "word": "贵州暴雨消防出动31车152人救援",
       "onboard_time": 1719702612,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13038,
+      "num": 100452,
+      "word": "男孩骑车摔倒后找砖头把坑填平了",
+      "onboard_time": 1719851956,
+      "rank": 25,
       "category": "社会新闻"
     },
     {

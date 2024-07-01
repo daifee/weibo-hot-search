@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719851029776,
+  "endTime": 1719852060542,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -1115,6 +1115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 292400,
+      "num": 127285,
+      "word": "Angelababy庆祝香港回归27周年",
+      "onboard_time": 1719849918,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288256,
       "num": 288256,
       "word": "宁艺卓粉丝向SM维权",
@@ -1171,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272344,
-      "num": 127285,
-      "word": "Angelababy庆祝香港回归27周年",
-      "onboard_time": 1719849918,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270659,
       "num": 270659,
       "word": "徐志胜被孟子义整破防了",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258011,
+      "num": 258011,
+      "word": "平江特大暴雨",
+      "onboard_time": 1719849918,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256856,
@@ -2379,14 +2387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129499,
-      "num": 175288,
-      "word": "平江特大暴雨",
-      "onboard_time": 1719849918,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129357,
       "num": 129357,
       "word": "超一本80家里人觉得没书读了",
@@ -2859,6 +2859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67692,
+      "num": 89129,
+      "word": "于正回复于正的生活我的梦",
+      "onboard_time": 1719850576,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66501,
       "num": 410730,
       "word": "孙子为外公守灵时飞来了一只蝴蝶",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1719797479,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62439,
-      "num": 89129,
-      "word": "于正回复于正的生活我的梦",
-      "onboard_time": 1719850576,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 60910,
@@ -3128,6 +3128,14 @@
       "word": "派出所出现极限拉扯暖心场面",
       "onboard_time": 1719850097,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13038,
+      "num": 100452,
+      "word": "男孩骑车摔倒后找砖头把坑填平了",
+      "onboard_time": 1719851956,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
