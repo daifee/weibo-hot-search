@@ -1,0 +1,410 @@
+{
+  "runTime": 1719838409438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710290,
+        "num": 710290,
+        "word": "韩国第二大城市釜山进入消失阶段",
+        "onboard_time": 1719830477,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 322087,
+        "num": 322087,
+        "word": "阿信直播",
+        "onboard_time": 1719834318,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27381,
+        "num": 316923,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719824718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950721,
+        "num": 315082,
+        "word": "林生斌与亡妻关联公司均经营异常",
+        "onboard_time": 1719828497,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510627,
+        "num": 307770,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1410935,
+        "num": 299206,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425669,
+        "num": 293543,
+        "word": "外交部回应张志杰离世",
+        "onboard_time": 1719820099,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290813,
+        "num": 290813,
+        "word": "赵又廷平时叫高圆圆大名",
+        "onboard_time": 1719833239,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288456,
+        "num": 288456,
+        "word": "女子错转226万元陌生阿姨全退回",
+        "onboard_time": 1719820037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61309,
+        "num": 285954,
+        "word": "过时的体检标准卡住慢性病求职者",
+        "onboard_time": 1719837020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796782,
+        "num": 283949,
+        "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+        "onboard_time": 1719837138,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480756,
+        "num": 279817,
+        "word": "张子墨 跑路",
+        "onboard_time": 1719832039,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382943,
+        "num": 278665,
+        "word": "崔泰俊ZICO聊天内容",
+        "onboard_time": 1719834558,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349925,
+        "num": 274050,
+        "word": "张志杰抢救全程",
+        "onboard_time": 1719834079,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336065,
+        "num": 273861,
+        "word": "张志杰比赛中猝死谁之过",
+        "onboard_time": 1719833298,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271093,
+        "num": 271093,
+        "word": "德国女子怒骂强奸犯被判入狱2天",
+        "onboard_time": 1719830418,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259610,
+        "num": 259610,
+        "word": "张杰这次像牵女儿了",
+        "onboard_time": 1719835579,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246725,
+        "num": 246725,
+        "word": "菲律宾绑架",
+        "onboard_time": 1719837618,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245375,
+        "num": 245375,
+        "word": "郑恺海岛新家",
+        "onboard_time": 1719835758,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218773,
+        "num": 218773,
+        "word": "唐艺昕带娃外出",
+        "onboard_time": 1719837378,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880576,
+        "num": 217920,
+        "word": "林生斌",
+        "onboard_time": 1719828558,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383293,
+        "num": 217213,
+        "word": "离职后就这么发朋友圈",
+        "onboard_time": 1719834138,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244407,
+        "num": 215547,
+        "word": "东航就林生斌隐私权案提起上诉",
+        "onboard_time": 1719823338,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213867,
+        "num": 213867,
+        "word": "成毅赴山海威亚路透",
+        "onboard_time": 1719837378,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207918,
+        "num": 207918,
+        "word": "极氪X",
+        "onboard_time": 1719837318,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195838,
+        "num": 195838,
+        "word": "陈乔恩教于正葡萄柚减肥法",
+        "onboard_time": 1719837138,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191277,
+        "num": 191277,
+        "word": "李晨张艺兴重现传说剧情",
+        "onboard_time": 1719837917,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179368,
+        "num": 179368,
+        "word": "比亚迪销量",
+        "onboard_time": 1719837980,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166228,
+        "num": 166228,
+        "word": "第一次见男二不爱女主爱发疯的",
+        "onboard_time": 1719838100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164528,
+        "num": 164528,
+        "word": "马未都 裁员",
+        "onboard_time": 1719837618,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162171,
+        "num": 162171,
+        "word": "邓为发了涂山璟",
+        "onboard_time": 1719831319,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160696,
+        "num": 160696,
+        "word": "黄子韬曾说会邀请粉丝参加婚礼",
+        "onboard_time": 1719837679,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "深圳大学是我素未谋面的母校",
+        "onboard_time": 1719836178,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156755,
+        "num": 156755,
+        "word": "魏大勋张婧仪孙千高圆圆豪门既视感",
+        "onboard_time": 1719838038,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154001,
+        "num": 154001,
+        "word": "有班味这么重的皇后进入国产剧",
+        "onboard_time": 1719821536,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152101,
+        "num": 152101,
+        "word": "00后参与暴拉股价22900%",
+        "onboard_time": 1719837440,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149629,
+        "num": 149629,
+        "word": "吴谨言曾给假粉签了五百张签名照",
+        "onboard_time": 1719825258,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148650,
+        "num": 148650,
+        "word": "情侣同居不同房是怎样的",
+        "onboard_time": 1719837798,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 146273,
+        "word": "父亲因不满志愿填报殴打女儿",
+        "onboard_time": 1719831378,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133193,
+        "num": 133193,
+        "word": "民警说在南京夫子庙小孩肯定丢不了",
+        "onboard_time": 1719827718,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122340,
+        "num": 122340,
+        "word": "李东海李赫宰担任TF三代导师",
+        "onboard_time": 1719828438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121919,
+        "num": 121919,
+        "word": "薛之谦气到老奶奶都不用扶了",
+        "onboard_time": 1719832098,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "小酥肉一年卖出100亿",
+        "onboard_time": 1719817338,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116262,
+        "num": 116262,
+        "word": "我妈问我考研为什么不5点起12点睡",
+        "onboard_time": 1719830897,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113020,
+        "num": 113020,
+        "word": "中企人员在菲被绑架付300万后仍遇害",
+        "onboard_time": 1719838340,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107935,
+        "num": 107935,
+        "word": "广式早茶为何在北方不火",
+        "onboard_time": 1719833597,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107517,
+        "num": 107517,
+        "word": "中国大陆男单温网正赛首胜",
+        "onboard_time": 1719837738,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107274,
+        "num": 107274,
+        "word": "吴谨言吊带粉裙",
+        "onboard_time": 1719835638,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107065,
+        "num": 107065,
+        "word": "林丹曾吐槽国际羽联",
+        "onboard_time": 1719824598,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105803,
+        "num": 105803,
+        "word": "蒋敦豪官宣巡演",
+        "onboard_time": 1719827779,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#勤掸思想尘常敲警示钟#"
+    }
+  }
+}

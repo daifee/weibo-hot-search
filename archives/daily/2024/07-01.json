@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719837498253,
+  "endTime": 1719838409438,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -236,11 +236,19 @@
     },
     {
       "raw_hot": 803029,
-      "num": 688018,
+      "num": 710290,
       "word": "韩国第二大城市釜山进入消失阶段",
       "onboard_time": 1719830477,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 796782,
+      "num": 283949,
+      "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+      "onboard_time": 1719837138,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 750205,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383293,
+      "num": 217213,
+      "word": "离职后就这么发朋友圈",
+      "onboard_time": 1719834138,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382012,
       "num": 382012,
       "word": "我国幽门螺杆菌的感染率高达59%",
@@ -843,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340131,
-      "num": 163817,
-      "word": "离职后就这么发朋友圈",
-      "onboard_time": 1719834138,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 336065,
+      "num": 275224,
+      "word": "张志杰比赛中猝死谁之过",
+      "onboard_time": 1719833298,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 331063,
@@ -1003,14 +1019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 275224,
-      "num": 275224,
-      "word": "张志杰比赛中猝死谁之过",
-      "onboard_time": 1719833298,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265768,
-      "num": 265768,
-      "word": "欧阳龙嘴对嘴亲欧阳妮妮",
-      "onboard_time": 1719837138,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 264652,
@@ -1147,6 +1147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246725,
+      "num": 246725,
+      "word": "菲律宾绑架",
+      "onboard_time": 1719837618,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245375,
+      "num": 245375,
+      "word": "郑恺海岛新家",
+      "onboard_time": 1719835758,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1719822618,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 239583,
-      "num": 239583,
-      "word": "郑恺海岛新家",
-      "onboard_time": 1719835758,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 239351,
@@ -1299,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218773,
+      "num": 218773,
+      "word": "唐艺昕带娃外出",
+      "onboard_time": 1719837378,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217473,
       "num": 217473,
       "word": "其实24岁人生才刚刚开始",
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213867,
+      "num": 213867,
+      "word": "成毅赴山海威亚路透",
+      "onboard_time": 1719837378,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213824,
       "num": 206176,
       "word": "生活费从一千八变成了两千二",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1719829817,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207918,
+      "num": 207918,
+      "word": "极氪X",
+      "onboard_time": 1719837318,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 206924,
@@ -1427,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195838,
+      "num": 195838,
+      "word": "陈乔恩教于正葡萄柚减肥法",
+      "onboard_time": 1719837138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "张杰演唱会大屏上的一家三口",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1719789494,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191277,
+      "num": 191277,
+      "word": "李晨张艺兴重现传说剧情",
+      "onboard_time": 1719837917,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 190774,
@@ -1531,6 +1579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179368,
+      "num": 179368,
+      "word": "比亚迪销量",
+      "onboard_time": 1719837980,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 178988,
       "num": 178988,
       "word": "陈龙 家中打伞",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1719811281,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 176920,
-      "num": 161131,
-      "word": "成毅赴山海威亚路透",
-      "onboard_time": 1719837378,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 176175,
@@ -1635,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166228,
+      "num": 166228,
+      "word": "第一次见男二不爱女主爱发疯的",
+      "onboard_time": 1719838100,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165729,
       "num": 165729,
       "word": "深圳大学是我素未谋面的母校",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1719804558,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 164528,
+      "word": "马未都 裁员",
+      "onboard_time": 1719837618,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164191,
@@ -1667,20 +1731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160696,
+      "num": 160696,
+      "word": "黄子韬曾说会邀请粉丝参加婚礼",
+      "onboard_time": 1719837679,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160693,
       "num": 160693,
       "word": "实习四个月送走三位同事",
       "onboard_time": 1719793279,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160152,
-      "num": 160152,
-      "word": "极氪X",
-      "onboard_time": 1719837318,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 160093,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1719821358,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156755,
+      "num": 156755,
+      "word": "魏大勋张婧仪孙千高圆圆豪门既视感",
+      "onboard_time": 1719838038,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156683,
@@ -1787,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "00后参与暴拉股价22900%",
+      "onboard_time": 1719837440,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151992,
       "num": 151992,
       "word": "范志毅说要谨言慎行",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148650,
+      "num": 148650,
+      "word": "情侣同居不同房是怎样的",
+      "onboard_time": 1719837798,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 145947,
@@ -2163,14 +2251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122433,
-      "num": 122433,
-      "word": "陈乔恩教于正葡萄柚减肥法",
-      "onboard_time": 1719837138,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121916,
       "num": 164683,
       "word": "日本森永婴儿饼干疑有动物排泄物",
@@ -2209,6 +2289,14 @@
       "onboard_time": 1719835039,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113020,
+      "num": 113020,
+      "word": "中企人员在菲被绑架付300万后仍遇害",
+      "onboard_time": 1719838340,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112996,
@@ -2251,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109631,
-      "num": 109631,
-      "word": "唐艺昕带娃外出",
-      "onboard_time": 1719837378,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109080,
       "num": 109080,
       "word": "欧洲杯",
@@ -2283,20 +2363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107517,
+      "num": 107517,
+      "word": "中国大陆男单温网正赛首胜",
+      "onboard_time": 1719837738,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107090,
       "num": 107090,
       "word": "杨紫G社生图",
       "onboard_time": 1719750379,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106512,
-      "num": 106512,
-      "word": "00后参与暴拉股价22900%",
-      "onboard_time": 1719837440,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 105960,
@@ -2475,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61309,
+      "num": 293389,
+      "word": "过时的体检标准卡住慢性病求职者",
+      "onboard_time": 1719837020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60910,
       "num": 67835,
       "word": "度华年热度破万",
@@ -2488,14 +2576,6 @@
       "word": "老师用手教16岁听障男生跳舞走红",
       "onboard_time": 1719825619,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50270,
-      "num": 293389,
-      "word": "过时的体检标准卡住慢性病求职者",
-      "onboard_time": 1719837020,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
