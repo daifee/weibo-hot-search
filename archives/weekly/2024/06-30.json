@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719811177040,
+  "endTime": 1719812150159,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1236299,
+      "num": 1236299,
+      "word": "湖南卫视台标",
+      "onboard_time": 1719809121,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1186600,
       "num": 1175426,
       "word": "李一桐 蜈蚣",
@@ -169,14 +177,6 @@
       "onboard_time": 1719757639,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1052848,
-      "num": 751984,
-      "word": "湖南卫视台标",
-      "onboard_time": 1719809121,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 990741,
@@ -275,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 883582,
+      "num": 883582,
+      "word": "拜登 特朗普",
+      "onboard_time": 1719809481,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 881652,
       "num": 881652,
       "word": "青3选手蒋智豪称病情加重",
@@ -323,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 809435,
-      "num": 809435,
-      "word": "拜登 特朗普",
-      "onboard_time": 1719809481,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 745777,
       "num": 745777,
       "word": "天兵科技回应火箭起火爆炸",
@@ -377,6 +377,14 @@
       "onboard_time": 1719759380,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 678580,
+      "num": 678580,
+      "word": "武清一小区房价从160万降到39万元",
+      "onboard_time": 1719808641,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677156,
@@ -435,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 639037,
-      "num": 639037,
-      "word": "武清一小区房价从160万降到39万元",
-      "onboard_time": 1719808641,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 638016,
+      "num": 491250,
+      "word": "陈赫家漏水",
+      "onboard_time": 1719810860,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 632130,
@@ -803,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 489333,
+      "num": 489333,
+      "word": "于正 死也要二搭三搭四搭",
+      "onboard_time": 1719810380,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 481960,
       "num": 322554,
       "word": "家长去武校看儿子其正被按地上抽",
@@ -825,6 +841,14 @@
       "onboard_time": 1719722538,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480201,
+      "num": 480201,
+      "word": "美国2名宇航员被困空间站",
+      "onboard_time": 1719808762,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474506,
@@ -1019,14 +1043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 405294,
-      "num": 405294,
-      "word": "陈赫家漏水",
-      "onboard_time": 1719810860,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404688,
       "num": 404688,
       "word": "张志杰曾表示想通过努力证明自己",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1719757880,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 385886,
-      "num": 385886,
-      "word": "美国2名宇航员被困空间站",
-      "onboard_time": 1719808762,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384409,
@@ -1211,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350230,
+      "num": 350230,
+      "word": "国羽小将获胜后仰天告慰张志杰",
+      "onboard_time": 1719811340,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346862,
       "num": 153830,
       "word": "减肥期间不建议吃的水果",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329505,
-      "num": 329505,
-      "word": "于正 死也要二搭三搭四搭",
-      "onboard_time": 1719810380,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 328213,
@@ -2243,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186738,
+      "num": 186738,
+      "word": "中央政府将再赠送香港一对大熊猫",
+      "onboard_time": 1719809601,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186731,
       "num": 186731,
       "word": "长相思",
@@ -2347,6 +2363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178988,
+      "num": 178988,
+      "word": "陈龙 家中打伞",
+      "onboard_time": 1719810980,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178949,
       "num": 178949,
       "word": "27年前的今天香港回归祖国",
@@ -2371,20 +2395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177320,
+      "num": 177320,
+      "word": "A股",
+      "onboard_time": 1719811281,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177067,
       "num": 152638,
       "word": "王星越剧后专场云访谈",
       "onboard_time": 1719733338,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176627,
-      "num": 176627,
-      "word": "中央政府将再赠送香港一对大熊猫",
-      "onboard_time": 1719809601,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176165,
@@ -2603,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153674,
+      "num": 153674,
+      "word": "张志杰倒地后第一时间无人上前",
+      "onboard_time": 1719811160,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
@@ -2667,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150338,
+      "num": 150338,
+      "word": "张志杰埃里克森倒地救治对比",
+      "onboard_time": 1719812119,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149901,
       "num": 149901,
       "word": "乔治离开快船",
@@ -2713,14 +2753,6 @@
       "onboard_time": 1719722118,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147342,
-      "num": 147342,
-      "word": "张志杰倒地后第一时间无人上前",
-      "onboard_time": 1719811160,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 146810,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1719788834,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127222,
+      "num": 127222,
+      "word": "喻言带走cover",
+      "onboard_time": 1719811940,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 126498,
