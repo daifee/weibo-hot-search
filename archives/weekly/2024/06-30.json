@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719816099483,
+  "endTime": 1719818368510,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -9,6 +9,14 @@
       "onboard_time": 1719792137,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2149755,
+      "num": 2149755,
+      "word": "朋友圈先仅自己可见三天后再公开",
+      "onboard_time": 1719814039,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1819294,
@@ -89,14 +97,6 @@
       "onboard_time": 1719724936,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1306259,
-      "num": 1306259,
-      "word": "朋友圈先仅自己可见三天后再公开",
-      "onboard_time": 1719814039,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 1294707,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689703,
+      "num": 689703,
+      "word": "中国留学生在新西兰遭袭面部严重损伤",
+      "onboard_time": 1719813378,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678867,
       "num": 678867,
       "word": "恋爱兄妹",
@@ -464,6 +472,14 @@
       "word": "陈赫家漏水",
       "onboard_time": 1719810860,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632649,
+      "num": 351500,
+      "word": "王星越17年采访说自己17岁",
+      "onboard_time": 1719816557,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -713,14 +729,6 @@
       "onboard_time": 1719788714,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 543934,
-      "num": 543934,
-      "word": "中国留学生在新西兰遭袭面部严重损伤",
-      "onboard_time": 1719813378,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539842,
@@ -1475,6 +1483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308594,
+      "num": 280071,
+      "word": "因为接受offer去工作被爸爸骂白养了",
+      "onboard_time": 1719814879,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 304308,
+      "num": 304308,
+      "word": "张译在政法系统里走不出了",
+      "onboard_time": 1719817398,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300944,
       "num": 300944,
       "word": "王一博来广西晒黑了",
@@ -1627,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269568,
-      "num": 269568,
-      "word": "因为接受offer去工作被爸爸骂白养了",
-      "onboard_time": 1719814879,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267513,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -1763,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248850,
+      "num": 248850,
+      "word": "世界羽坛失去了一位天才选手",
+      "onboard_time": 1719814219,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247417,
       "num": 247417,
       "word": "王星越直播比心手都在抖",
@@ -1811,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237037,
+      "num": 237037,
+      "word": "李荣浩回应用有线耳机",
+      "onboard_time": 1719812299,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234619,
       "num": 210878,
       "word": "墨雨云间聚餐了",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1719723857,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234132,
+      "num": 234132,
+      "word": "菲律宾",
+      "onboard_time": 1719814819,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 233686,
@@ -2011,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207784,
-      "num": 207784,
-      "word": "菲律宾",
-      "onboard_time": 1719814819,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 206924,
       "num": 206924,
       "word": "任嘉伦说60L行李太轻了",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1719718457,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204804,
-      "num": 204804,
-      "word": "世界羽坛失去了一位天才选手",
-      "onboard_time": 1719814219,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 204603,
@@ -2275,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191511,
+      "num": 191511,
+      "word": "其实24岁人生才刚刚开始",
+      "onboard_time": 1719816318,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190774,
       "num": 190774,
       "word": "张志杰离世尚未明确病因",
@@ -2435,6 +2467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181212,
+      "num": 181212,
+      "word": "小酥肉一年卖出100亿",
+      "onboard_time": 1719817338,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180929,
+      "num": 180929,
+      "word": "赵丽颖胎毛刘海",
+      "onboard_time": 1719818057,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180911,
       "num": 180911,
       "word": "巴菲特去世后不再向盖茨基金会捐赠",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1719734957,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175117,
-      "num": 175117,
-      "word": "李荣浩回应用有线耳机",
-      "onboard_time": 1719812299,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 174127,
@@ -2651,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162431,
+      "num": 162431,
+      "word": "北京卫视发了肖战",
+      "onboard_time": 1719816739,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162055,
       "num": 162055,
       "word": "第五人格心跳特辑",
@@ -2707,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157920,
+      "num": 157920,
+      "word": "偷听到保洁阿姨的工资后我破防了",
+      "onboard_time": 1719814698,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -2721,6 +2777,14 @@
       "onboard_time": 1719789494,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157130,
+      "num": 157130,
+      "word": "女子在亲子更衣室淋浴后发现摄像头",
+      "onboard_time": 1719817818,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156651,
@@ -3195,14 +3259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129240,
-      "num": 129240,
-      "word": "偷听到保洁阿姨的工资后我破防了",
-      "onboard_time": 1719814698,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "辛爽美甲",
@@ -3385,6 +3441,14 @@
       "onboard_time": 1719727876,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119914,
+      "num": 119914,
+      "word": "癌症早期筛查有了新手段",
+      "onboard_time": 1719817698,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119621,
@@ -3705,6 +3769,14 @@
       "onboard_time": 1719736697,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103361,
+      "num": 103361,
+      "word": "官方协助张志杰家属办理出国事宜",
+      "onboard_time": 1719818298,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 102408,
@@ -4377,6 +4449,14 @@
       "onboard_time": 1719733997,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 36396,
+      "num": 357134,
+      "word": "香港欢迎大熊猫来港",
+      "onboard_time": 1719816557,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36368,

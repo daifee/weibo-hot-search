@@ -1,0 +1,410 @@
+{
+  "runTime": 1719818368510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2149755,
+        "num": 2149755,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689703,
+        "num": 689703,
+        "word": "中国留学生在新西兰遭袭面部严重损伤",
+        "onboard_time": 1719813378,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53420,
+        "num": 640820,
+        "word": "祝福党的103岁生日",
+        "onboard_time": 1719807200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624164,
+        "num": 624164,
+        "word": "湖南卫视台标",
+        "onboard_time": 1719809121,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515531,
+        "num": 515531,
+        "word": "武清一小区房价从160万降到39万元",
+        "onboard_time": 1719808641,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222982,
+        "num": 510193,
+        "word": "张志杰去世",
+        "onboard_time": 1719792137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786685,
+        "num": 468287,
+        "word": "医生称张志杰恶性心律失常可能性很大",
+        "onboard_time": 1719804917,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416196,
+        "num": 416196,
+        "word": "美国2名宇航员被困空间站",
+        "onboard_time": 1719808762,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390065,
+        "num": 390065,
+        "word": "三喜 改名",
+        "onboard_time": 1719807741,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36396,
+        "num": 357134,
+        "word": "香港欢迎大熊猫来港",
+        "onboard_time": 1719816557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632649,
+        "num": 351500,
+        "word": "王星越17年采访说自己17岁",
+        "onboard_time": 1719816557,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327366,
+        "num": 327366,
+        "word": "张志杰大学保送证书刚寄回家",
+        "onboard_time": 1719807019,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321267,
+        "num": 321267,
+        "word": "中国共产党103周年",
+        "onboard_time": 1719798019,
+        "rank": 12,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 308409,
+        "num": 308409,
+        "word": "张志杰埃里克森倒地救治对比",
+        "onboard_time": 1719812119,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305739,
+        "num": 305739,
+        "word": "于正 死也要二搭三搭四搭",
+        "onboard_time": 1719810380,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391349,
+        "num": 305337,
+        "word": "王星越方辟谣",
+        "onboard_time": 1719813139,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304308,
+        "num": 304308,
+        "word": "张译在政法系统里走不出了",
+        "onboard_time": 1719817398,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296951,
+        "num": 296951,
+        "word": "今天明显对时间有了敬畏感",
+        "onboard_time": 1719792497,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284403,
+        "num": 284403,
+        "word": "小鱼海棠 小英",
+        "onboard_time": 1719800057,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283953,
+        "num": 283953,
+        "word": "陈赫家漏水",
+        "onboard_time": 1719810860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308594,
+        "num": 280071,
+        "word": "因为接受offer去工作被爸爸骂白养了",
+        "onboard_time": 1719814879,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274324,
+        "num": 274324,
+        "word": "国羽小将获胜后仰天告慰张志杰",
+        "onboard_time": 1719811340,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248850,
+        "num": 248850,
+        "word": "世界羽坛失去了一位天才选手",
+        "onboard_time": 1719814219,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237037,
+        "num": 237037,
+        "word": "李荣浩回应用有线耳机",
+        "onboard_time": 1719812299,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234132,
+        "num": 234132,
+        "word": "菲律宾",
+        "onboard_time": 1719814819,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221051,
+        "num": 221051,
+        "word": "原来洗内裤有这么多误区",
+        "onboard_time": 1719802638,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191511,
+        "num": 191511,
+        "word": "其实24岁人生才刚刚开始",
+        "onboard_time": 1719816318,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "拜特辩论让美国选民进退两难",
+        "onboard_time": 1719809481,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181212,
+        "num": 181212,
+        "word": "小酥肉一年卖出100亿",
+        "onboard_time": 1719817338,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180929,
+        "num": 180929,
+        "word": "赵丽颖胎毛刘海",
+        "onboard_time": 1719818057,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 179394,
+        "word": "为什么收费员工资低却没人离职",
+        "onboard_time": 1719812897,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176787,
+        "num": 176787,
+        "word": "韩国汉拿山因乱扔拉面即将消失",
+        "onboard_time": 1719813978,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176157,
+        "num": 176157,
+        "word": "陈乔恩给狗簪花",
+        "onboard_time": 1719815297,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 167595,
+        "word": "长期缺钱的行为习惯",
+        "onboard_time": 1719803238,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162431,
+        "num": 162431,
+        "word": "北京卫视发了肖战",
+        "onboard_time": 1719816739,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160340,
+        "num": 160340,
+        "word": "官方回应张志杰比赛晕倒去世",
+        "onboard_time": 1719803958,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157920,
+        "num": 157920,
+        "word": "偷听到保洁阿姨的工资后我破防了",
+        "onboard_time": 1719814698,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 157130,
+        "word": "女子在亲子更衣室淋浴后发现摄像头",
+        "onboard_time": 1719817818,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156154,
+        "num": 156154,
+        "word": "直肠癌前期有什么症状",
+        "onboard_time": 1719814098,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155252,
+        "num": 155252,
+        "word": "微信收款码拍下来没法付款",
+        "onboard_time": 1719798139,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135680,
+        "num": 135680,
+        "word": "长相思小夭白发细节",
+        "onboard_time": 1719813500,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 126458,
+        "word": "我看谁敢在这趟公交车上玩手机",
+        "onboard_time": 1719815418,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125385,
+        "num": 125385,
+        "word": "终于明白了人要结婚的意义",
+        "onboard_time": 1719804078,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121064,
+        "num": 121064,
+        "word": "薛之谦 人抓的还是猫抓的",
+        "onboard_time": 1719805879,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "癌症早期筛查有了新手段",
+        "onboard_time": 1719817698,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119534,
+        "num": 119534,
+        "word": "孙千晒背",
+        "onboard_time": 1719809481,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118464,
+        "num": 118464,
+        "word": "中央政府将再赠送香港一对大熊猫",
+        "onboard_time": 1719809601,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103781,
+        "num": 103781,
+        "word": "东方甄选内部矛盾被放在直播间公开化",
+        "onboard_time": 1719810021,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103361,
+        "num": 103361,
+        "word": "官方协助张志杰家属办理出国事宜",
+        "onboard_time": 1719818298,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103352,
+        "num": 103352,
+        "word": "张志杰突发意外全过程",
+        "onboard_time": 1719812240,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}
