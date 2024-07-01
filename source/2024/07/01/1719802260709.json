@@ -1,0 +1,410 @@
+{
+  "runTime": 1719802260709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140312,
+        "num": 1140312,
+        "word": "今天明显对时间有了敬畏感",
+        "onboard_time": 1719792497,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503953,
+        "num": 1034556,
+        "word": "小鱼海棠 小英",
+        "onboard_time": 1719800057,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89738,
+        "num": 577772,
+        "word": "7月新规影响你我",
+        "onboard_time": 1719755119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569130,
+        "num": 569130,
+        "word": "我妈看微信短视频花了六千多",
+        "onboard_time": 1719799277,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456381,
+        "num": 456381,
+        "word": "过早入睡也容易发生心脑血管疾病",
+        "onboard_time": 1719795739,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 3488272,
+        "num": 450873,
+        "word": "张志杰去世",
+        "onboard_time": 1719792137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1450225,
+        "num": 449427,
+        "word": "网友称张志杰未获及时救治",
+        "onboard_time": 1719797899,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432694,
+        "num": 432694,
+        "word": "中国共产党103周年",
+        "onboard_time": 1719798019,
+        "rank": 7,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 413496,
+        "num": 413496,
+        "word": "傅菁连唱29首歌没跳舞",
+        "onboard_time": 1719797418,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117587,
+        "num": 402867,
+        "word": "女生在毕业典礼一键换军装",
+        "onboard_time": 1719800836,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348902,
+        "num": 402507,
+        "word": "张志杰姐姐质疑抢救不及时",
+        "onboard_time": 1719798978,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395392,
+        "num": 395392,
+        "word": "于正 连扑早被市场淘汰了",
+        "onboard_time": 1719795077,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365774,
+        "num": 365774,
+        "word": "朋友哥哥是车银优",
+        "onboard_time": 1719801018,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350863,
+        "num": 350863,
+        "word": "穿袜子睡觉可以提高睡眠质量",
+        "onboard_time": 1719788714,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347244,
+        "num": 347244,
+        "word": "巴菲特将1300亿美元留给儿女",
+        "onboard_time": 1719791356,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294803,
+        "num": 294803,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1719798257,
+        "rank": 15,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 291554,
+        "num": 291554,
+        "word": "特斯拉 五年免息",
+        "onboard_time": 1719793458,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 283476,
+        "num": 283476,
+        "word": "张志杰生前最后采访",
+        "onboard_time": 1719801917,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281232,
+        "num": 281232,
+        "word": "张杰谢娜抢着拿包",
+        "onboard_time": 1719798078,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270889,
+        "num": 270889,
+        "word": "我国幽门螺杆菌的感染率高达59%",
+        "onboard_time": 1719793999,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 810490,
+        "num": 259763,
+        "word": "月薪八千房租1100会很贵吗",
+        "onboard_time": 1719796938,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655437,
+        "num": 248175,
+        "word": "微信收款码拍下来没法付款",
+        "onboard_time": 1719798139,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231260,
+        "num": 231260,
+        "word": "下半年最想实现的心愿",
+        "onboard_time": 1719799460,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281183,
+        "num": 229054,
+        "word": "离开张杰谁还把我当小孩",
+        "onboard_time": 1719798619,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "黄旭东吐槽JackeyLove",
+        "onboard_time": 1719798497,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187470,
+        "num": 187470,
+        "word": "嗨放派直播",
+        "onboard_time": 1719800178,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185956,
+        "num": 185956,
+        "word": "张志杰曾表示想通过努力证明自己",
+        "onboard_time": 1719797358,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172893,
+        "num": 172893,
+        "word": "巴菲特去世后不再向盖茨基金会捐赠",
+        "onboard_time": 1719798738,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172771,
+        "num": 172771,
+        "word": "长期口臭可能是长了扁桃体结石",
+        "onboard_time": 1719759920,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23000,
+        "num": 164683,
+        "word": "日本森永婴儿饼干疑有动物排泄物",
+        "onboard_time": 1719801857,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322994,
+        "num": 164131,
+        "word": "郭晶晶霍启刚发文庆香港回归27周年",
+        "onboard_time": 1719801078,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162705,
+        "num": 162705,
+        "word": "警方通报救护车副驾高速上直播飙车",
+        "onboard_time": 1719796820,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157589,
+        "num": 157589,
+        "word": "爷爷靠近一个月小宝结果醉酒了",
+        "onboard_time": 1719788714,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156813,
+        "num": 156813,
+        "word": "微信恐惧综合症",
+        "onboard_time": 1719797957,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152108,
+        "num": 152108,
+        "word": "于正再为吴谨言发声",
+        "onboard_time": 1719791778,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148879,
+        "num": 148879,
+        "word": "坚持了二十天晚上十点半睡觉",
+        "onboard_time": 1719789074,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147911,
+        "num": 147911,
+        "word": "这是今早的香港金紫荆广场",
+        "onboard_time": 1719795139,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145590,
+        "num": 145590,
+        "word": "当老师本质上是在当爱豆",
+        "onboard_time": 1719799158,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142697,
+        "num": 142697,
+        "word": "23岁找工作因年龄大被HR拒绝了",
+        "onboard_time": 1719757639,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19645,
+        "num": 139592,
+        "word": "凡希亚连唱半小时没有停",
+        "onboard_time": 1719801558,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "上午说了辞职晚上就后悔了",
+        "onboard_time": 1719795139,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137198,
+        "num": 137198,
+        "word": "业主砍断高空作业工人绳索",
+        "onboard_time": 1719759081,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136826,
+        "num": 136826,
+        "word": "于正曾说陈鑫海全组最小",
+        "onboard_time": 1719802098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129732,
+        "num": 129732,
+        "word": "王老师 花小龙",
+        "onboard_time": 1719795259,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127560,
+        "num": 127560,
+        "word": "张杰重庆万人火锅点菜",
+        "onboard_time": 1719761000,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126092,
+        "num": 126092,
+        "word": "詹姆斯愿意降薪2000万",
+        "onboard_time": 1719794239,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 124394,
+        "word": "谢霆锋 开心我还辞什么职",
+        "onboard_time": 1719799818,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118177,
+        "num": 118177,
+        "word": "香港回归这一刻再看依旧激动人心",
+        "onboard_time": 1719789494,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 118059,
+        "word": "缉毒卧底连续偶遇警察同事",
+        "onboard_time": 1719779710,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110956,
+        "num": 110956,
+        "word": "保罗签约马刺",
+        "onboard_time": 1719795318,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样倡导上海精神#"
+    }
+  }
+}

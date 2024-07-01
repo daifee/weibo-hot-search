@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719801667094,
+  "endTime": 1719802260709,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1459805,
+      "raw_hot": 1503953,
       "num": 1459805,
       "word": "小鱼海棠 小英",
       "onboard_time": 1719800057,
@@ -35,7 +35,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1319492,
+      "raw_hot": 1348902,
       "num": 438579,
       "word": "张志杰姐姐质疑抢救不及时",
       "onboard_time": 1719798978,
@@ -67,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 807020,
+      "raw_hot": 810490,
       "num": 261807,
       "word": "月薪八千房租1100会很贵吗",
       "onboard_time": 1719796938,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655437,
+      "num": 248175,
+      "word": "微信收款码拍下来没法付款",
+      "onboard_time": 1719798139,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 610142,
       "num": 331569,
       "word": "缉毒卧底连续偶遇警察同事",
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609318,
-      "num": 245142,
-      "word": "微信收款码拍下来没法付款",
-      "onboard_time": 1719798139,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 584844,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569130,
+      "num": 569130,
+      "word": "我妈看微信短视频花了六千多",
+      "onboard_time": 1719799277,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 550649,
       "num": 550649,
       "word": "过早入睡也容易发生心脑血管疾病",
@@ -136,14 +144,6 @@
       "word": "爷爷靠近一个月小宝结果醉酒了",
       "onboard_time": 1719788714,
       "rank": 3,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 536727,
-      "num": 536727,
-      "word": "我妈看微信短视频花了六千多",
-      "onboard_time": 1719799277,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365774,
+      "num": 365774,
+      "word": "朋友哥哥是车银优",
+      "onboard_time": 1719801018,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350449,
       "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
@@ -323,19 +331,43 @@
       "category": "演出"
     },
     {
-      "raw_hot": 293502,
-      "num": 293502,
+      "raw_hot": 322994,
+      "num": 174332,
+      "word": "郭晶晶霍启刚发文庆香港回归27周年",
+      "onboard_time": 1719801078,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294803,
+      "num": 294803,
       "word": "莎头 可口可乐",
       "onboard_time": 1719798257,
       "rank": 25,
       "category": "体育,美食"
     },
     {
-      "raw_hot": 280900,
-      "num": 280900,
+      "raw_hot": 283476,
+      "num": 283476,
+      "word": "张志杰生前最后采访",
+      "onboard_time": 1719801917,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281232,
+      "num": 281232,
       "word": "张杰谢娜抢着拿包",
       "onboard_time": 1719798078,
       "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 281183,
+      "num": 229054,
+      "word": "离开张杰谁还把我当小孩",
+      "onboard_time": 1719798619,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -411,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248335,
-      "num": 248335,
-      "word": "朋友哥哥是车银优",
-      "onboard_time": 1719801018,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -451,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 231260,
+      "num": 439227,
+      "word": "下半年最想实现的心愿",
+      "onboard_time": 1719799460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226578,
       "num": 243381,
       "word": "鞠婧祎郭敬明或将合作",
@@ -475,28 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220794,
-      "num": 220794,
-      "word": "离开张杰谁还把我当小孩",
-      "onboard_time": 1719798619,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 219948,
       "num": 219948,
       "word": "周扬青走秀有戛纳那味儿了",
       "onboard_time": 1719791778,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214047,
-      "num": 174332,
-      "word": "郭晶晶霍启刚发文庆香港回归27周年",
-      "onboard_time": 1719801078,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 204552,
@@ -675,20 +691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145590,
+      "num": 145590,
+      "word": "当老师本质上是在当爱豆",
+      "onboard_time": 1719799158,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144625,
       "num": 144625,
       "word": "你觉得女子怀孕应该是谁来照顾",
       "onboard_time": 1719745938,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144236,
-      "num": 144236,
-      "word": "当老师本质上是在当爱豆",
-      "onboard_time": 1719799158,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 143538,
@@ -731,6 +747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 136826,
+      "num": 136826,
+      "word": "于正曾说陈鑫海全组最小",
+      "onboard_time": 1719802098,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136175,
       "num": 136175,
       "word": "剑桥偶遇田亮森蝶",
@@ -745,14 +769,6 @@
       "onboard_time": 1719746477,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132376,
-      "num": 439227,
-      "word": "下半年最想实现的心愿",
-      "onboard_time": 1719799460,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131072,
@@ -787,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117587,
+      "num": 402867,
+      "word": "女生在毕业典礼一键换军装",
+      "onboard_time": 1719800836,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112996,
       "num": 112996,
       "word": "医学生的毕业典礼全是娃",
@@ -801,14 +825,6 @@
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111043,
-      "num": 111043,
-      "word": "女生在毕业典礼一键换军装",
-      "onboard_time": 1719800836,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109080,
@@ -1035,6 +1051,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 23000,
+      "num": 164683,
+      "word": "日本森永婴儿饼干疑有动物排泄物",
+      "onboard_time": 1719801857,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19645,
+      "num": 139592,
+      "word": "凡希亚连唱半小时没有停",
+      "onboard_time": 1719801558,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19032,
       "num": 27189,
       "word": "汪苏泷听见下雨的声音vlog",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1719762018,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8869,
-      "num": 125829,
-      "word": "凡希亚连唱半小时没有停",
-      "onboard_time": 1719801558,
-      "rank": 44,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
