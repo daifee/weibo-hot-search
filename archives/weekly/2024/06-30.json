@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719840176455,
+  "endTime": 1719840880383,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267781,
+      "num": 283949,
+      "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+      "onboard_time": 1719837138,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245688,
       "num": 513701,
       "word": "杨迪的狗安乐死了",
@@ -177,14 +185,6 @@
       "onboard_time": 1719702854,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1184781,
-      "num": 283949,
-      "word": "欧阳龙嘴对嘴亲欧阳妮妮",
-      "onboard_time": 1719837138,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1135955,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1033687,
+      "num": 239542,
+      "word": "情侣同居不同房是怎样的",
+      "onboard_time": 1719837798,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 990741,
       "num": 990741,
       "word": "奥运冠军杨倩清华大学毕业",
@@ -297,14 +305,6 @@
       "onboard_time": 1719755060,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 916150,
-      "num": 239542,
-      "word": "情侣同居不同房是怎样的",
-      "onboard_time": 1719837798,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 909880,
@@ -417,6 +417,14 @@
       "onboard_time": 1719732198,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820556,
+      "num": 820556,
+      "word": "第一次见男二不爱女主爱发疯的",
+      "onboard_time": 1719838100,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 817510,
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629992,
+      "num": 246725,
+      "word": "菲律宾绑架",
+      "onboard_time": 1719837618,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625824,
       "num": 418295,
       "word": "张子墨 跑路",
@@ -755,28 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593207,
-      "num": 593207,
-      "word": "第一次见男二不爱女主爱发疯的",
-      "onboard_time": 1719838100,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 588890,
       "num": 301803,
       "word": "为什么韩系在中国不流行了",
       "onboard_time": 1719710956,
       "rank": 24,
       "category": "时尚,社会新闻"
-    },
-    {
-      "raw_hot": 586109,
-      "num": 246725,
-      "word": "菲律宾绑架",
-      "onboard_time": 1719837618,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580901,
@@ -1323,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426435,
+      "num": 241393,
+      "word": "中企人员在菲被绑架付300万后仍遇害",
+      "onboard_time": 1719838340,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422262,
       "num": 422262,
       "word": "阿信直播",
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352447,
+      "num": 240961,
+      "word": "唐艺昕带娃外出",
+      "onboard_time": 1719837378,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351797,
       "num": 295309,
       "word": "肖战到杭州",
@@ -1627,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343407,
+      "num": 239976,
+      "word": "陈乔恩教于正葡萄柚减肥法",
+      "onboard_time": 1719837138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342454,
       "num": 230658,
       "word": "为什么空调除湿比制冷更凉爽",
@@ -1668,19 +1692,11 @@
     },
     {
       "raw_hot": 336065,
-      "num": 320722,
+      "num": 324067,
       "word": "张志杰比赛中猝死谁之过",
       "onboard_time": 1719833298,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335300,
-      "num": 241393,
-      "word": "中企人员在菲被绑架付300万后仍遇害",
-      "onboard_time": 1719838340,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332581,
@@ -1777,14 +1793,6 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 318228,
-      "num": 240961,
-      "word": "唐艺昕带娃外出",
-      "onboard_time": 1719837378,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 317171,
@@ -1931,11 +1939,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291340,
-      "num": 239976,
-      "word": "陈乔恩教于正葡萄柚减肥法",
-      "onboard_time": 1719837138,
-      "rank": 37,
+      "raw_hot": 292714,
+      "num": 238489,
+      "word": "林志颖一家五口游迪士尼",
+      "onboard_time": 1719839899,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2251,14 +2259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238489,
-      "num": 238489,
-      "word": "林志颖一家五口游迪士尼",
-      "onboard_time": 1719839899,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238033,
       "num": 238033,
       "word": "东京食尸鬼 十年后的新动画",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219036,
+      "num": 219036,
+      "word": "张子墨 自摸哥",
+      "onboard_time": 1719840379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 217473,
@@ -3971,6 +3979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131016,
+      "num": 219423,
+      "word": "羽毛球赛程密集频遭选手吐槽",
+      "onboard_time": 1719840619,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130631,
+      "num": 130631,
+      "word": "3类运动容易引发运动性猝死",
+      "onboard_time": 1719839780,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
@@ -4083,6 +4107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "檀健次真的是天选相柳",
+      "onboard_time": 1719840559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "DOU5对战Gr",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1719807681,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123324,
+      "num": 123324,
+      "word": "运动员猝死是有机会抢救的",
+      "onboard_time": 1719838159,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 123186,
@@ -4201,14 +4241,6 @@
       "onboard_time": 1719702674,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121458,
-      "num": 121458,
-      "word": "运动员猝死是有机会抢救的",
-      "onboard_time": 1719838159,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 121144,
@@ -4323,6 +4355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115775,
+      "num": 115775,
+      "word": "林青霞汤唯同框",
+      "onboard_time": 1719839060,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115080,
       "num": 115080,
       "word": "WB对战TES",
@@ -4403,14 +4443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112671,
-      "num": 112671,
-      "word": "3类运动容易引发运动性猝死",
-      "onboard_time": 1719839780,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
@@ -4489,14 +4521,6 @@
       "onboard_time": 1719668720,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 108383,
-      "num": 108383,
-      "word": "林青霞汤唯同框",
-      "onboard_time": 1719839060,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 108253,
@@ -4915,6 +4939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 81845,
+      "num": 87908,
+      "word": "博物馆工作人员展示多种敦煌风手姿",
+      "onboard_time": 1719840858,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81306,
       "num": 81306,
       "word": "你的身体其实瞒着你很多事情",
@@ -5219,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48411,
+      "num": 243406,
+      "word": "95岁抗美援朝老兵与老伴补拍结婚照",
+      "onboard_time": 1719838939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48351,
       "num": 367338,
       "word": "残疾女孩深夜卖水小哥暖心鼓励",
@@ -5305,6 +5345,14 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41166,
+      "num": 240470,
+      "word": "2025款极氪X上市17.9万起",
+      "onboard_time": 1719838578,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 40874,
@@ -5467,14 +5515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32622,
-      "num": 240470,
-      "word": "2025款极氪X上市17.9万起",
-      "onboard_time": 1719838578,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 32121,
       "num": 321081,
       "word": "2024年进度条已过一半",
@@ -5521,14 +5561,6 @@
       "onboard_time": 1719758299,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 29813,
-      "num": 243406,
-      "word": "95岁抗美援朝老兵与老伴补拍结婚照",
-      "onboard_time": 1719838939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29186,
