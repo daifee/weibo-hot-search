@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719815347542,
+  "endTime": 1719816099483,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -89,6 +89,14 @@
       "onboard_time": 1719724936,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1306259,
+      "num": 1306259,
+      "word": "朋友圈先仅自己可见三天后再公开",
+      "onboard_time": 1719814039,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1294707,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 862312,
-      "num": 489149,
+      "num": 501116,
       "word": "王星越方辟谣",
       "onboard_time": 1719813139,
       "rank": 10,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 855553,
-      "num": 678580,
+      "num": 682890,
       "word": "武清一小区房价从160万降到39万元",
       "onboard_time": 1719808641,
       "rank": 8,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 638016,
-      "num": 491250,
+      "num": 501055,
       "word": "陈赫家漏水",
       "onboard_time": 1719810860,
       "rank": 14,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 624868,
-      "num": 489333,
+      "num": 501110,
       "word": "于正 死也要二搭三搭四搭",
       "onboard_time": 1719810380,
       "rank": 22,
@@ -521,14 +529,6 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605274,
-      "num": 476707,
-      "word": "朋友圈先仅自己可见三天后再公开",
-      "onboard_time": 1719814039,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 604444,
@@ -715,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543934,
+      "num": 543934,
+      "word": "中国留学生在新西兰遭袭面部严重损伤",
+      "onboard_time": 1719813378,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539842,
       "num": 472381,
       "word": "国羽小将获胜后仰天告慰张志杰",
@@ -736,14 +744,6 @@
       "word": "韩国济州岛旅游遭到拉面汤威胁",
       "onboard_time": 1719709817,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533588,
-      "num": 533588,
-      "word": "中国留学生在新西兰遭袭面部严重损伤",
-      "onboard_time": 1719813378,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269568,
+      "num": 269568,
+      "word": "因为接受offer去工作被爸爸骂白养了",
+      "onboard_time": 1719814879,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267513,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -1883,8 +1891,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224650,
-      "num": 224650,
+      "raw_hot": 225488,
+      "num": 225488,
       "word": "韩国汉拿山因乱扔拉面即将消失",
       "onboard_time": 1719813978,
       "rank": 24,
@@ -1931,20 +1939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217448,
+      "num": 217448,
+      "word": "陈乔恩给狗簪花",
+      "onboard_time": 1719815297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216878,
       "num": 290016,
       "word": "松弛感变成了一个新赛道",
       "onboard_time": 1719728417,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216677,
-      "num": 182144,
-      "word": "因为接受offer去工作被爸爸骂白养了",
-      "onboard_time": 1719814879,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 216528,
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207784,
+      "num": 207784,
+      "word": "菲律宾",
+      "onboard_time": 1719814819,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 206924,
       "num": 206924,
       "word": "任嘉伦说60L行李太轻了",
@@ -2043,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204804,
+      "num": 204804,
+      "word": "世界羽坛失去了一位天才选手",
+      "onboard_time": 1719814219,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204603,
       "num": 204603,
       "word": "严浩翔出场方式好city",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1719798497,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204415,
-      "num": 204415,
-      "word": "世界羽坛失去了一位天才选手",
-      "onboard_time": 1719814219,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 204355,
@@ -2499,11 +2515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175220,
-      "num": 175220,
-      "word": "陈乔恩给狗簪花",
-      "onboard_time": 1719815297,
-      "rank": 31,
+      "raw_hot": 175117,
+      "num": 175117,
+      "word": "李荣浩回应用有线耳机",
+      "onboard_time": 1719812299,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2609,14 +2625,6 @@
       "onboard_time": 1719788714,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163865,
-      "num": 163865,
-      "word": "李荣浩回应用有线耳机",
-      "onboard_time": 1719812299,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 163211,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1719789555,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155345,
-      "num": 155345,
-      "word": "菲律宾",
-      "onboard_time": 1719814819,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 155110,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1719814698,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133070,
+      "num": 133070,
+      "word": "我看谁敢在这趟公交车上玩手机",
+      "onboard_time": 1719815418,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 132827,
@@ -3561,6 +3569,14 @@
       "onboard_time": 1719667459,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110773,
+      "num": 110773,
+      "word": "丁程鑫对待朋友好暖心一孩子",
+      "onboard_time": 1719816018,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110681,
@@ -4155,6 +4171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 63302,
+      "num": 501142,
+      "word": "大熊猫上班划土划得好上头",
+      "onboard_time": 1719814519,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63258,
       "num": 214039,
       "word": "原来天鹅船是这么来的",
@@ -4273,14 +4297,6 @@
       "onboard_time": 1719749540,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42568,
-      "num": 499911,
-      "word": "大熊猫上班划土划得好上头",
-      "onboard_time": 1719814519,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 42387,
