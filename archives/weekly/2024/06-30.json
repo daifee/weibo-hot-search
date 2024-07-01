@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719861440175,
+  "endTime": 1719862539290,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -4555,6 +4555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116018,
+      "num": 116018,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "林青霞汤唯同框",
@@ -5257,14 +5265,6 @@
       "onboard_time": 1719853095,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78428,
-      "num": 78428,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 76735,
@@ -5995,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18615,
+      "num": 18615,
+      "word": "黄子韬曾说30岁会考虑成家",
+      "onboard_time": 1719861670,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18559,
       "num": 24390,
       "word": "两只小狗隔着笼子拍手",
@@ -6011,7 +6019,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15187,
+      "raw_hot": 15408,
       "num": 22292,
       "word": "世界羽联发博悼念张志杰",
       "onboard_time": 1719859211,
