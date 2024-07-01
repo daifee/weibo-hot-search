@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719829416439,
+  "endTime": 1719830401856,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -49,6 +49,22 @@
       "onboard_time": 1719797899,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1589081,
+      "num": 512076,
+      "word": "林生斌",
+      "onboard_time": 1719828558,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1551388,
+      "num": 1551388,
+      "word": "林生斌与亡妻关联公司均经营异常",
+      "onboard_time": 1719828497,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1526574,
@@ -139,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 887907,
-      "num": 512076,
-      "word": "林生斌",
-      "onboard_time": 1719828558,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 883582,
       "num": 883582,
       "word": "拜登 特朗普",
@@ -217,14 +225,6 @@
       "onboard_time": 1719796938,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 798956,
-      "num": 510546,
-      "word": "林生斌与亡妻关联公司均经营异常",
-      "onboard_time": 1719828497,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 750205,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556467,
+      "num": 275100,
+      "word": "爸爸考研成绩出来我焦虑了",
+      "onboard_time": 1719825379,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 550649,
       "num": 550649,
       "word": "过早入睡也容易发生心脑血管疾病",
@@ -449,14 +457,6 @@
       "onboard_time": 1719811340,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534141,
-      "num": 275100,
-      "word": "爸爸考研成绩出来我焦虑了",
-      "onboard_time": 1719825379,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 524893,
@@ -520,6 +520,14 @@
       "word": "于正曾想签下赵丽颖",
       "onboard_time": 1719819437,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 491264,
+      "num": 491264,
+      "word": "李东海李赫宰担任TF三代导师",
+      "onboard_time": 1719828438,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359865,
+      "num": 359865,
+      "word": "吴谨言曾给假粉签了五百张签名照",
+      "onboard_time": 1719825258,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350449,
       "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
@@ -851,6 +867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 288256,
+      "num": 288256,
+      "word": "宁艺卓粉丝向SM维权",
+      "onboard_time": 1719829157,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283476,
       "num": 283476,
       "word": "张志杰生前最后采访",
@@ -905,14 +929,6 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267121,
-      "num": 267121,
-      "word": "李东海李赫宰担任TF三代导师",
-      "onboard_time": 1719828438,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 264652,
@@ -1059,14 +1075,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237160,
-      "num": 237160,
-      "word": "吴谨言曾给假粉签了五百张签名照",
-      "onboard_time": 1719825258,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237121,
       "num": 237121,
       "word": "福宝闻花",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230737,
-      "num": 230737,
-      "word": "宁艺卓粉丝向SM维权",
-      "onboard_time": 1719829157,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 229303,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220230,
+      "num": 220230,
+      "word": "东京食尸鬼 十年后的新动画",
+      "onboard_time": 1719829098,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 219948,
       "num": 219948,
       "word": "周扬青走秀有戛纳那味儿了",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1719815297,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217442,
+      "num": 217442,
+      "word": "在菲律宾遇害中企管理人员家属发声",
+      "onboard_time": 1719828678,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214021,
@@ -1235,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202190,
-      "num": 202190,
-      "word": "在菲律宾遇害中企管理人员家属发声",
-      "onboard_time": 1719828678,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201389,
       "num": 201389,
       "word": "七一",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1719809900,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195272,
+      "num": 195272,
+      "word": "于正认可的4部爽剧",
+      "onboard_time": 1719829698,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194481,
@@ -1403,6 +1419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176283,
+      "num": 523093,
+      "word": "民警说在南京夫子庙小孩肯定丢不了",
+      "onboard_time": 1719827718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1719814698,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174928,
+      "num": 174928,
+      "word": "中国第一门面担当海外亮相",
+      "onboard_time": 1719828497,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169943,
@@ -1611,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146338,
-      "num": 146338,
-      "word": "中国第一门面担当海外亮相",
-      "onboard_time": 1719828497,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 145947,
       "num": 145947,
       "word": "张志杰突发意外全过程",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 139287,
-      "num": 139287,
-      "word": "东京食尸鬼 十年后的新动画",
-      "onboard_time": 1719829098,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 139174,
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "印尼媒体呼吁世羽联修改规则",
+      "onboard_time": 1719830359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119571,
       "num": 119571,
       "word": "这火种从未断过",
@@ -2048,14 +2072,6 @@
       "word": "普华永道丢掉前8大客户",
       "onboard_time": 1719755660,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97424,
-      "num": 523093,
-      "word": "民警说在南京夫子庙小孩肯定丢不了",
-      "onboard_time": 1719827718,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2195,6 +2211,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 48029,
+      "num": 183745,
+      "word": "韩国一人一户一宠物家庭激增",
+      "onboard_time": 1719829817,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47020,
       "num": 400070,
       "word": "高考英语145分学霸教你怎么写作文",
@@ -2208,6 +2232,14 @@
       "word": "献给新征程上的每一个你",
       "onboard_time": 1719824898,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42330,
+      "num": 513236,
+      "word": "九旬退休教师免费教书法20年",
+      "onboard_time": 1719829577,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
