@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719855344253,
+  "endTime": 1719858360157,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -755,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444369,
+      "num": 64070,
+      "word": "长期熬夜会增加身体核心器官负担",
+      "onboard_time": 1719853932,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 444351,
       "num": 240376,
       "word": "23岁找工作因年龄大被HR拒绝了",
@@ -1363,6 +1371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238712,
+      "num": 238712,
+      "word": "法国vs比利时",
+      "onboard_time": 1719846259,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238033,
       "num": 238033,
       "word": "东京食尸鬼 十年后的新动画",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1719837679,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195371,
-      "num": 195371,
-      "word": "法国vs比利时",
-      "onboard_time": 1719846259,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 194481,
@@ -2057,14 +2065,6 @@
       "onboard_time": 1719763276,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150171,
-      "num": 64070,
-      "word": "长期熬夜会增加身体核心器官负担",
-      "onboard_time": 1719853932,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150022,
@@ -2875,6 +2875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75559,
+      "num": 63897,
+      "word": "小鬼也A起来了",
+      "onboard_time": 1719855016,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67692,
       "num": 89129,
       "word": "于正回复于正的生活我的梦",
@@ -3011,14 +3019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41772,
-      "num": 63897,
-      "word": "小鬼也A起来了",
-      "onboard_time": 1719855016,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39563,
       "num": 55337,
       "word": "发现很多人都是精装朋友圈毛坯人生",
@@ -3033,6 +3033,14 @@
       "onboard_time": 1719782650,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37249,
+      "num": 37249,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 36396,
@@ -3065,6 +3073,14 @@
       "onboard_time": 1719824718,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32515,
+      "num": 32515,
+      "word": "发现了INFP快速找到热爱的方法",
+      "onboard_time": 1719856152,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 32121,
@@ -3107,6 +3123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26725,
+      "num": 26725,
+      "word": "孙一峰谈黄旭东吐槽JackeyLove",
+      "onboard_time": 1719855553,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26602,
+      "num": 26602,
+      "word": "范志毅没接住传球",
+      "onboard_time": 1719856512,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24748,
       "num": 156405,
       "word": "美国4名劫匪得手后击掌庆祝被拍",
@@ -3129,6 +3161,14 @@
       "onboard_time": 1719844879,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 26274,
+      "word": "薛之谦演唱会完整互动",
+      "onboard_time": 1719858013,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 19032,

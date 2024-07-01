@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719855344253,
+  "endTime": 1719858360157,
   "band_list": [
     {
       "raw_hot": 1363305,
@@ -57,6 +57,14 @@
       "onboard_time": 1719837138,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444369,
+      "num": 64070,
+      "word": "长期熬夜会增加身体核心器官负担",
+      "onboard_time": 1719853932,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 443664,
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238712,
+      "num": 238712,
+      "word": "法国vs比利时",
+      "onboard_time": 1719846259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218982,
       "num": 218982,
       "word": "刘亦菲唐嫣合照",
@@ -155,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176773,
-      "num": 176773,
-      "word": "法国vs比利时",
-      "onboard_time": 1719846259,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174063,
       "num": 174063,
       "word": "陈乔恩教于正葡萄柚减肥法",
@@ -185,14 +193,6 @@
       "onboard_time": 1719843259,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150171,
-      "num": 64070,
-      "word": "长期熬夜会增加身体核心器官负担",
-      "onboard_time": 1719853932,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140930,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75559,
+      "num": 63897,
+      "word": "小鬼也A起来了",
+      "onboard_time": 1719855016,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73480,
       "num": 89232,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -419,20 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41772,
-      "num": 63897,
-      "word": "小鬼也A起来了",
-      "onboard_time": 1719855016,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38044,
       "num": 63884,
       "word": "唐艺昕带娃外出",
       "onboard_time": 1719837378,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37249,
+      "num": 37249,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 34969,
@@ -443,12 +451,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32515,
+      "num": 32515,
+      "word": "发现了INFP快速找到热爱的方法",
+      "onboard_time": 1719856152,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31781,
       "num": 381438,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26725,
+      "num": 26725,
+      "word": "孙一峰谈黄旭东吐槽JackeyLove",
+      "onboard_time": 1719855553,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26602,
+      "num": 26602,
+      "word": "范志毅没接住传球",
+      "onboard_time": 1719856512,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 26274,
+      "word": "薛之谦演唱会完整互动",
+      "onboard_time": 1719858013,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 13995,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719855344253,
+  "endTime": 1719858360157,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -1331,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444369,
+      "num": 64070,
+      "word": "长期熬夜会增加身体核心器官负担",
+      "onboard_time": 1719853932,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 443575,
       "num": 321546,
       "word": "来月经前为啥很想吃甜食",
@@ -2363,6 +2371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238712,
+      "num": 238712,
+      "word": "法国vs比利时",
+      "onboard_time": 1719846259,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238604,
       "num": 239389,
       "word": "女生花470元带1条鱼去医院看病",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1719760459,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195371,
-      "num": 195371,
-      "word": "法国vs比利时",
-      "onboard_time": 1719846259,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 194935,
@@ -3657,14 +3665,6 @@
       "onboard_time": 1719664518,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150171,
-      "num": 64070,
-      "word": "长期熬夜会增加身体核心器官负担",
-      "onboard_time": 1719853932,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150022,
@@ -5299,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75559,
+      "num": 63897,
+      "word": "小鬼也A起来了",
+      "onboard_time": 1719855016,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73347,
       "num": 86500,
       "word": "急于逼你做决定的人通常是骗子",
@@ -5627,14 +5635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41772,
-      "num": 63897,
-      "word": "小鬼也A起来了",
-      "onboard_time": 1719855016,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 40874,
       "num": 109378,
       "word": "这艘船海上发射火箭成功率百分百",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1719673160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37249,
+      "num": 37249,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 37085,
@@ -5803,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32515,
+      "num": 32515,
+      "word": "发现了INFP快速找到热爱的方法",
+      "onboard_time": 1719856152,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32121,
       "num": 321081,
       "word": "2024年进度条已过一半",
@@ -5891,6 +5907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26725,
+      "num": 26725,
+      "word": "孙一峰谈黄旭东吐槽JackeyLove",
+      "onboard_time": 1719855553,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26602,
+      "num": 26602,
+      "word": "范志毅没接住传球",
+      "onboard_time": 1719856512,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25620,
       "num": 381743,
       "word": "90后特警邀轻生女孩坐警车",
@@ -5945,6 +5977,14 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 26274,
+      "word": "薛之谦演唱会完整互动",
+      "onboard_time": 1719858013,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 19032,
