@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719826632399,
+  "endTime": 1719829416439,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -67,8 +67,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1355443,
-      "num": 1355443,
+      "raw_hot": 1395004,
+      "num": 1395004,
       "word": "东航就林生斌隐私权案提起上诉",
       "onboard_time": 1719823338,
       "rank": 1,
@@ -137,6 +137,14 @@
       "onboard_time": 1719795077,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887907,
+      "num": 512076,
+      "word": "林生斌",
+      "onboard_time": 1719828558,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883582,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 798956,
+      "num": 510546,
+      "word": "林生斌与亡妻关联公司均经营异常",
+      "onboard_time": 1719828497,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750205,
       "num": 750205,
       "word": "有班味这么重的皇后进入国产剧",
@@ -227,8 +243,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 709837,
-      "num": 496991,
+      "raw_hot": 741227,
+      "num": 652774,
       "word": "林丹曾吐槽国际羽联",
       "onboard_time": 1719824598,
       "rank": 11,
@@ -265,6 +281,14 @@
       "onboard_time": 1719798139,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 655307,
+      "num": 655307,
+      "word": "韩国一女职员因涉厌男手势被停职",
+      "onboard_time": 1719824119,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638016,
@@ -425,6 +449,22 @@
       "onboard_time": 1719811340,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 534141,
+      "num": 275100,
+      "word": "爸爸考研成绩出来我焦虑了",
+      "onboard_time": 1719825379,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 524893,
+      "num": 524893,
+      "word": "汪苏泷说歌手是一场舆论的狂欢",
+      "onboard_time": 1719825619,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 514890,
@@ -619,6 +659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408617,
+      "num": 408617,
+      "word": "蒋敦豪官宣巡演",
+      "onboard_time": 1719827779,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 404688,
       "num": 404688,
       "word": "张志杰曾表示想通过努力证明自己",
@@ -739,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330763,
-      "num": 330763,
-      "word": "韩国一女职员因涉厌男手势被停职",
-      "onboard_time": 1719824119,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328213,
       "num": 378327,
       "word": "离开张杰谁还把我当小孩",
@@ -811,14 +851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 290618,
-      "num": 290618,
-      "word": "汪苏泷说歌手是一场舆论的狂欢",
-      "onboard_time": 1719825619,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283476,
       "num": 283476,
       "word": "张志杰生前最后采访",
@@ -859,12 +891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270659,
+      "num": 270659,
+      "word": "徐志胜被孟子义整破防了",
+      "onboard_time": 1719824898,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270597,
       "num": 270597,
       "word": "这是今早的香港金紫荆广场",
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267121,
+      "num": 267121,
+      "word": "李东海李赫宰担任TF三代导师",
+      "onboard_time": 1719828438,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 264652,
@@ -1059,6 +1107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230737,
+      "num": 230737,
+      "word": "宁艺卓粉丝向SM维权",
+      "onboard_time": 1719829157,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229303,
+      "num": 229303,
+      "word": "叶十七涂山璟上线",
+      "onboard_time": 1719827418,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226578,
       "num": 243381,
       "word": "鞠婧祎郭敬明或将合作",
@@ -1091,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224487,
-      "num": 224487,
-      "word": "徐志胜被孟子义整破防了",
-      "onboard_time": 1719824898,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219948,
       "num": 219948,
       "word": "周扬青走秀有戛纳那味儿了",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1719815297,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216133,
-      "num": 216133,
-      "word": "爸爸考研成绩出来我焦虑了",
-      "onboard_time": 1719825379,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 214021,
@@ -1171,11 +1219,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204195,
+      "num": 204195,
+      "word": "李川 姐控",
+      "onboard_time": 1719827059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203284,
       "num": 203284,
       "word": "7月第一天",
       "onboard_time": 1719789314,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202190,
+      "num": 202190,
+      "word": "在菲律宾遇害中企管理人员家属发声",
+      "onboard_time": 1719828678,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1193,6 +1257,14 @@
       "onboard_time": 1719825798,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197465,
+      "num": 197465,
+      "word": "KPL夏季赛第二轮赛程",
+      "onboard_time": 1719828257,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 195995,
@@ -1507,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151478,
+      "num": 151478,
+      "word": "林一晒白玉兰后台合照",
+      "onboard_time": 1719826997,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151348,
       "num": 140975,
       "word": "何浩楠舞台照",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146338,
+      "num": 146338,
+      "word": "中国第一门面担当海外亮相",
+      "onboard_time": 1719828497,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145947,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 139287,
+      "num": 139287,
+      "word": "东京食尸鬼 十年后的新动画",
+      "onboard_time": 1719829098,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 139174,
@@ -1747,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129683,
+      "num": 129683,
+      "word": "如懿传吐槽",
+      "onboard_time": 1719829278,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129357,
       "num": 129357,
       "word": "超一本80家里人觉得没书读了",
@@ -1777,6 +1881,14 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125999,
+      "num": 125999,
+      "word": "董宇辉公司获广电节目制作许可",
+      "onboard_time": 1719827838,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 123432,
@@ -1936,6 +2048,14 @@
       "word": "普华永道丢掉前8大客户",
       "onboard_time": 1719755660,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97424,
+      "num": 523093,
+      "word": "民警说在南京夫子庙小孩肯定丢不了",
+      "onboard_time": 1719827718,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2131,7 +2251,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32794,
+      "raw_hot": 34699,
       "num": 1164147,
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1719824718,
