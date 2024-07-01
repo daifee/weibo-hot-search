@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719833675028,
+  "endTime": 1719837498253,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -65,6 +65,14 @@
       "onboard_time": 1719828558,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1550455,
+      "num": 416834,
+      "word": "医院认定死亡后中国羽协仍尝试转院",
+      "onboard_time": 1719832578,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 1526574,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 803029,
-      "num": 419482,
+      "num": 688018,
       "word": "韩国第二大城市釜山进入消失阶段",
       "onboard_time": 1719830477,
       "rank": 11,
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 544581,
-      "num": 416834,
-      "word": "医院认定死亡后中国羽协仍尝试转院",
-      "onboard_time": 1719832578,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 539842,
       "num": 472381,
       "word": "国羽小将获胜后仰天告慰张志杰",
@@ -691,6 +691,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 422262,
+      "num": 422262,
+      "word": "阿信直播",
+      "onboard_time": 1719834318,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 418045,
+      "num": 293388,
+      "word": "崔泰俊ZICO聊天内容",
+      "onboard_time": 1719834558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416528,
       "num": 416528,
       "word": "吴谨言曾给假粉签了五百张签名照",
@@ -763,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 384420,
+      "num": 286470,
+      "word": "张志杰抢救全程",
+      "onboard_time": 1719834079,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384138,
       "num": 384138,
       "word": "长相思小夭凤凰林眼神杀",
@@ -819,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340131,
+      "num": 163817,
+      "word": "离职后就这么发朋友圈",
+      "onboard_time": 1719834138,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331063,
       "num": 297309,
       "word": "于正再为吴谨言发声",
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329092,
+      "num": 329092,
+      "word": "赵又廷平时叫高圆圆大名",
+      "onboard_time": 1719833239,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 328213,
@@ -867,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 315630,
+      "num": 286274,
+      "word": "张杰这次像牵女儿了",
+      "onboard_time": 1719835579,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311574,
       "num": 311574,
       "word": "于正认可的4部爽剧",
@@ -889,6 +937,14 @@
       "onboard_time": 1719809481,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293387,
+      "num": 293387,
+      "word": "德国女子怒骂强奸犯被判入狱2天",
+      "onboard_time": 1719830418,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293376,
@@ -947,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 275224,
+      "num": 275224,
+      "word": "张志杰比赛中猝死谁之过",
+      "onboard_time": 1719833298,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -969,6 +1033,14 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265768,
+      "num": 265768,
+      "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+      "onboard_time": 1719837138,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 264652,
@@ -1105,6 +1177,14 @@
       "onboard_time": 1719822618,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 239583,
+      "num": 239583,
+      "word": "郑恺海岛新家",
+      "onboard_time": 1719835758,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 239351,
@@ -1387,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188912,
-      "num": 188912,
-      "word": "赵又廷平时叫高圆圆大名",
-      "onboard_time": 1719833239,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188515,
       "num": 188515,
       "word": "嗨放派直播",
@@ -1433,14 +1505,6 @@
       "onboard_time": 1719825798,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183663,
-      "num": 183663,
-      "word": "德国女子怒骂强奸犯被判入狱2天",
-      "onboard_time": 1719830418,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183599,
@@ -1507,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176920,
+      "num": 161131,
+      "word": "成毅赴山海威亚路透",
+      "onboard_time": 1719837378,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -1531,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171610,
+      "num": 160758,
+      "word": "父亲因不满志愿填报殴打女儿",
+      "onboard_time": 1719831378,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169943,
       "num": 141339,
       "word": "王星越的营业方式",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1719802938,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165729,
+      "num": 165729,
+      "word": "深圳大学是我素未谋面的母校",
+      "onboard_time": 1719836178,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 165162,
@@ -1585,6 +1673,14 @@
       "onboard_time": 1719793279,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160152,
+      "num": 160152,
+      "word": "极氪X",
+      "onboard_time": 1719837318,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 160093,
@@ -1699,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151699,
-      "num": 151699,
-      "word": "张志杰比赛中猝死谁之过",
-      "onboard_time": 1719833298,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151478,
       "num": 151478,
       "word": "林一晒白玉兰后台合照",
@@ -1737,14 +1825,6 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147231,
-      "num": 147231,
-      "word": "父亲因不满志愿填报殴打女儿",
-      "onboard_time": 1719831378,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145947,
@@ -2011,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128939,
+      "num": 128939,
+      "word": "吴谨言吊带粉裙",
+      "onboard_time": 1719835638,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127617,
       "num": 127617,
       "word": "西班牙4比1格鲁吉亚",
@@ -2075,12 +2163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122433,
+      "num": 122433,
+      "word": "陈乔恩教于正葡萄柚减肥法",
+      "onboard_time": 1719837138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121916,
       "num": 164683,
       "word": "日本森永婴儿饼干疑有动物排泄物",
       "onboard_time": 1719801857,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119771,
+      "num": 119771,
+      "word": "广式早茶为何在北方不火",
+      "onboard_time": 1719833597,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 119571,
@@ -2097,6 +2201,14 @@
       "onboard_time": 1719804738,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113288,
+      "num": 113288,
+      "word": "小猫躲雨感谢屁股侠",
+      "onboard_time": 1719835039,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 112996,
@@ -2139,12 +2251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109631,
+      "num": 109631,
+      "word": "唐艺昕带娃外出",
+      "onboard_time": 1719837378,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109080,
       "num": 109080,
       "word": "欧洲杯",
       "onboard_time": 1719789255,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108253,
+      "num": 108253,
+      "word": "戚薇的手是调色盘吧",
+      "onboard_time": 1719833899,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 107597,
@@ -2161,6 +2289,14 @@
       "onboard_time": 1719750379,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106512,
+      "num": 106512,
+      "word": "00后参与暴拉股价22900%",
+      "onboard_time": 1719837440,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 105960,
@@ -2233,6 +2369,14 @@
       "onboard_time": 1719806419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95083,
+      "num": 105638,
+      "word": "郭晶晶以裁判身份参加巴黎奥运会",
+      "onboard_time": 1719835218,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 91258,
@@ -2344,6 +2488,14 @@
       "word": "老师用手教16岁听障男生跳舞走红",
       "onboard_time": 1719825619,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50270,
+      "num": 293389,
+      "word": "过时的体检标准卡住慢性病求职者",
+      "onboard_time": 1719837020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
