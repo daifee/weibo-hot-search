@@ -1,0 +1,410 @@
+{
+  "runTime": 1719876902256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817441,
+        "num": 817441,
+        "word": "葡萄牙",
+        "onboard_time": 1719875296,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542515,
+        "num": 542515,
+        "word": "平江特大暴雨",
+        "onboard_time": 1719849918,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37558,
+        "num": 497213,
+        "word": "我们向前中国向上",
+        "onboard_time": 1719844461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485776,
+        "num": 485776,
+        "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+        "onboard_time": 1719845059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431649,
+        "num": 431649,
+        "word": "C罗哭了",
+        "onboard_time": 1719875296,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389291,
+        "num": 389291,
+        "word": "拜登",
+        "onboard_time": 1719856813,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313739,
+        "num": 313739,
+        "word": "克莱被交易至独行侠",
+        "onboard_time": 1719875235,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240698,
+        "num": 240698,
+        "word": "第一次见男二不爱女主爱发疯的",
+        "onboard_time": 1719838100,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235938,
+        "num": 235938,
+        "word": "葡萄牙3比0斯洛文尼亚",
+        "onboard_time": 1719875296,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144589,
+        "num": 144589,
+        "word": "马斯克回应中国小女孩报bug",
+        "onboard_time": 1719843679,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 705629,
+        "num": 144028,
+        "word": "李敏镐肿了",
+        "onboard_time": 1719846380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375361,
+        "num": 143233,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351195,
+        "num": 142950,
+        "word": "官方回应吃播卤羊头内吃出草",
+        "onboard_time": 1719863471,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268341,
+        "num": 141875,
+        "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+        "onboard_time": 1719837138,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141728,
+        "num": 141728,
+        "word": "法国vs比利时",
+        "onboard_time": 1719846259,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202025,
+        "num": 134858,
+        "word": "中羽协将为张志杰家人提供帮助",
+        "onboard_time": 1719866591,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164068,
+        "num": 127967,
+        "word": "突然搞不懂订婚的意义了",
+        "onboard_time": 1719876616,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "韩国第二大城市釜山进入消失阶段",
+        "onboard_time": 1719830477,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107089,
+        "num": 107089,
+        "word": "C罗点球被扑",
+        "onboard_time": 1719875595,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34718,
+        "num": 106800,
+        "word": "雨夜里宝妈拜托民警照看女儿",
+        "onboard_time": 1719874935,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348995,
+        "num": 106217,
+        "word": "张志杰妈妈听到噩耗后病倒住院",
+        "onboard_time": 1719874993,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329725,
+        "num": 105022,
+        "word": "长期熬夜会增加身体核心器官负担",
+        "onboard_time": 1719853932,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289843,
+        "num": 104266,
+        "word": "林生斌",
+        "onboard_time": 1719828558,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246841,
+        "num": 104068,
+        "word": "空调长期不洗男子肺部感染险丧命",
+        "onboard_time": 1719865212,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61180,
+        "num": 103342,
+        "word": "杭州跑男要去参加巴黎奥运会了",
+        "onboard_time": 1719876316,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114708,
+        "num": 101972,
+        "word": "洗脸巾就是免费的冰箱除味剂",
+        "onboard_time": 1719842780,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101867,
+        "num": 101867,
+        "word": "葡萄牙门将好牛",
+        "onboard_time": 1719875235,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99949,
+        "num": 99949,
+        "word": "陈乔恩教于正葡萄柚减肥法",
+        "onboard_time": 1719837138,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98339,
+        "num": 98339,
+        "word": "林生斌与亡妻关联公司均经营异常",
+        "onboard_time": 1719828497,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95549,
+        "num": 97841,
+        "word": "C罗失点",
+        "onboard_time": 1719875354,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285817,
+        "num": 97821,
+        "word": "葡萄牙门将点球大战三连扑",
+        "onboard_time": 1719875834,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97796,
+        "num": 97796,
+        "word": "情侣同居不同房是怎样的",
+        "onboard_time": 1719837798,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97500,
+        "num": 97500,
+        "word": "Angelababy庆祝香港回归27周年",
+        "onboard_time": 1719849918,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95477,
+        "num": 95477,
+        "word": "韩庚谈和粉丝20年之约",
+        "onboard_time": 1719872772,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94522,
+        "num": 94522,
+        "word": "刘亦菲唐嫣合照",
+        "onboard_time": 1719841880,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90451,
+        "num": 90451,
+        "word": "年轻护士在三甲医院6年后裸辞逃离",
+        "onboard_time": 1719865931,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89934,
+        "num": 89934,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87968,
+        "num": 87968,
+        "word": "科斯塔连扑三点",
+        "onboard_time": 1719875834,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82051,
+        "num": 82051,
+        "word": "中企人员在菲被绑架付300万后仍遇害",
+        "onboard_time": 1719838340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81097,
+        "num": 81097,
+        "word": "法国1比0比利时",
+        "onboard_time": 1719875296,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80702,
+        "num": 80702,
+        "word": "比利时乌龙",
+        "onboard_time": 1719875834,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71600,
+        "num": 71600,
+        "word": "去面试时只有自己穿了正装",
+        "onboard_time": 1719876555,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70661,
+        "num": 70661,
+        "word": "人教版大熊猫vs妈教版大熊猫",
+        "onboard_time": 1719866290,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68315,
+        "num": 68315,
+        "word": "法国晋级欧洲杯8强",
+        "onboard_time": 1719876076,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64675,
+        "num": 64675,
+        "word": "坚持两年早睡早起带来的改变",
+        "onboard_time": 1719876555,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64401,
+        "num": 64401,
+        "word": "孙颖莎想和埃菲尔铁塔合影",
+        "onboard_time": 1719871511,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62954,
+        "num": 62954,
+        "word": "檀健次真的是天选相柳",
+        "onboard_time": 1719840559,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59461,
+        "num": 59461,
+        "word": "先别管猫了快去救车厘子",
+        "onboard_time": 1719863231,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50285,
+        "num": 59461,
+        "word": "黄景瑜有疯批男主那味儿了",
+        "onboard_time": 1719843259,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50218,
+        "num": 59460,
+        "word": "唐艺昕带娃外出",
+        "onboard_time": 1719837378,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

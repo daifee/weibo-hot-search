@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719875968837,
+  "endTime": 1719876902256,
   "band_list": [
     {
       "raw_hot": 1363305,
@@ -9,6 +9,14 @@
       "onboard_time": 1719846380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817441,
+      "num": 817441,
+      "word": "葡萄牙",
+      "onboard_time": 1719875296,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 810104,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 695254,
-      "num": 425253,
+      "num": 485776,
       "word": "女子穿JK遭2男生偷拍嘲讽还直播",
       "onboard_time": 1719845059,
       "rank": 3,
@@ -40,14 +48,6 @@
       "word": "医院认定死亡后中国羽协仍尝试转院",
       "onboard_time": 1719832578,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 519907,
-      "num": 519907,
-      "word": "葡萄牙",
-      "onboard_time": 1719875296,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -83,20 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431649,
+      "num": 431649,
+      "word": "C罗哭了",
+      "onboard_time": 1719875296,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 389291,
+      "num": 389291,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 388181,
       "num": 136964,
       "word": "洗脸巾就是免费的冰箱除味剂",
       "onboard_time": 1719842780,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 361404,
-      "num": 361404,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 354130,
@@ -107,12 +115,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351195,
+      "num": 170348,
+      "word": "官方回应吃播卤羊头内吃出草",
+      "onboard_time": 1719863471,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348995,
+      "num": 109226,
+      "word": "张志杰妈妈听到噩耗后病倒住院",
+      "onboard_time": 1719874993,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314847,
       "num": 132828,
       "word": "林生斌与亡妻关联公司均经营异常",
       "onboard_time": 1719828497,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313739,
+      "num": 313739,
+      "word": "克莱被交易至独行侠",
+      "onboard_time": 1719875235,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 307758,
@@ -123,14 +155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 305765,
-      "num": 170348,
-      "word": "官方回应吃播卤羊头内吃出草",
-      "onboard_time": 1719863471,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292400,
       "num": 127285,
       "word": "Angelababy庆祝香港回归27周年",
@@ -139,12 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260302,
+      "raw_hot": 289843,
       "num": 122947,
       "word": "林生斌",
       "onboard_time": 1719828558,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285817,
+      "num": 97821,
+      "word": "葡萄牙门将点球大战三连扑",
+      "onboard_time": 1719875834,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 249301,
@@ -155,11 +187,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246841,
+      "num": 111452,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
       "onboard_time": 1719846259,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235938,
+      "num": 235938,
+      "word": "葡萄牙3比0斯洛文尼亚",
+      "onboard_time": 1719875296,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -171,27 +219,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218470,
-      "num": 111452,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207788,
-      "num": 109226,
-      "word": "张志杰妈妈听到噩耗后病倒住院",
-      "onboard_time": 1719874993,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200365,
-      "num": 91370,
-      "word": "葡萄牙门将点球大战三连扑",
-      "onboard_time": 1719875834,
-      "rank": 30,
+      "raw_hot": 202025,
+      "num": 169814,
+      "word": "中羽协将为张志杰家人提供帮助",
+      "onboard_time": 1719866591,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -203,36 +235,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 190727,
-      "num": 190727,
-      "word": "葡萄牙3比0斯洛文尼亚",
-      "onboard_time": 1719875296,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 189785,
-      "num": 169814,
-      "word": "中羽协将为张志杰家人提供帮助",
-      "onboard_time": 1719866591,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188562,
       "num": 174378,
       "word": "张子墨 自摸哥",
       "onboard_time": 1719840379,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182553,
-      "num": 182553,
-      "word": "C罗哭了",
-      "onboard_time": 1719875296,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 178701,
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169788,
-      "num": 169788,
-      "word": "克莱被交易至独行侠",
-      "onboard_time": 1719875235,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166365,
       "num": 119137,
       "word": "中企人员在菲被绑架付300万后仍遇害",
       "onboard_time": 1719838340,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164068,
+      "num": 127967,
+      "word": "突然搞不懂订婚的意义了",
+      "onboard_time": 1719876616,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 154644,
@@ -331,6 +339,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 107089,
+      "num": 107089,
+      "word": "C罗点球被扑",
+      "onboard_time": 1719875595,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104859,
       "num": 104859,
       "word": "韩庚谈和粉丝20年之约",
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90451,
+      "num": 90451,
+      "word": "年轻护士在三甲医院6年后裸辞逃离",
+      "onboard_time": 1719865931,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89368,
       "num": 89368,
       "word": "大学生竟能聪明成这样",
@@ -387,20 +411,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87968,
+      "num": 87968,
+      "word": "科斯塔连扑三点",
+      "onboard_time": 1719875834,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86179,
       "num": 86179,
       "word": "法国1比0比利时",
       "onboard_time": 1719875296,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83373,
-      "num": 83373,
-      "word": "年轻护士在三甲医院6年后裸辞逃离",
-      "onboard_time": 1719865931,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83210,
@@ -433,6 +457,14 @@
       "onboard_time": 1719831319,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80702,
+      "num": 80702,
+      "word": "比利时乌龙",
+      "onboard_time": 1719875834,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 80616,
@@ -483,27 +515,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70993,
-      "num": 70993,
-      "word": "C罗点球被扑",
-      "onboard_time": 1719875595,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 71600,
+      "num": 71600,
+      "word": "去面试时只有自己穿了正装",
+      "onboard_time": 1719876555,
+      "rank": 41,
+      "category": "幽默"
     },
     {
-      "raw_hot": 69873,
-      "num": 69873,
+      "raw_hot": 70661,
+      "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
       "onboard_time": 1719866290,
       "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68544,
-      "num": 68544,
-      "word": "科斯塔连扑三点",
-      "onboard_time": 1719875834,
-      "rank": 37,
+      "raw_hot": 68315,
+      "num": 68315,
+      "word": "法国晋级欧洲杯8强",
+      "onboard_time": 1719876076,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -531,6 +563,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64675,
+      "num": 64675,
+      "word": "坚持两年早睡早起带来的改变",
+      "onboard_time": 1719876555,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64401,
+      "num": 64401,
+      "word": "孙颖莎想和埃菲尔铁塔合影",
+      "onboard_time": 1719871511,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62343,
       "num": 89115,
       "word": "郑恺海岛新家",
@@ -547,12 +595,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60495,
-      "num": 60495,
-      "word": "比利时乌龙",
-      "onboard_time": 1719875834,
-      "rank": 40,
+      "raw_hot": 61180,
+      "num": 103342,
+      "word": "杭州跑男要去参加巴黎奥运会了",
+      "onboard_time": 1719876316,
+      "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59461,
+      "num": 59461,
+      "word": "先别管猫了快去救车厘子",
+      "onboard_time": 1719863231,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 58698,
@@ -561,14 +617,6 @@
       "onboard_time": 1719853274,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 58073,
-      "num": 58073,
-      "word": "孙颖莎想和埃菲尔铁塔合影",
-      "onboard_time": 1719871511,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 57732,
@@ -585,14 +633,6 @@
       "onboard_time": 1719844400,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52475,
-      "num": 52475,
-      "word": "先别管猫了快去救车厘子",
-      "onboard_time": 1719863231,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 45330,
@@ -619,8 +659,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 37548,
-      "num": 456835,
+      "raw_hot": 37558,
+      "num": 497213,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
@@ -632,6 +672,14 @@
       "word": "祝福香港祝福祖国",
       "onboard_time": 1719854234,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34718,
+      "num": 171240,
+      "word": "雨夜里宝妈拜托民警照看女儿",
+      "onboard_time": 1719874935,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -681,14 +729,6 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21552,
-      "num": 171240,
-      "word": "雨夜里宝妈拜托民警照看女儿",
-      "onboard_time": 1719874935,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15408,
