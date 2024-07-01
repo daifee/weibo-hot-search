@@ -1,0 +1,410 @@
+{
+  "runTime": 1719825893331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050207,
+        "num": 2050207,
+        "word": "外交部回应张志杰离世",
+        "onboard_time": 1719820099,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1228979,
+        "num": 1228979,
+        "word": "东航就林生斌隐私权案提起上诉",
+        "onboard_time": 1719823338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32182,
+        "num": 1164147,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719824718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100708,
+        "num": 1100708,
+        "word": "女子错转226万元陌生阿姨全退回",
+        "onboard_time": 1719820037,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880496,
+        "num": 880496,
+        "word": "小酥肉为何成了火锅店必点菜",
+        "onboard_time": 1719820997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832634,
+        "num": 832634,
+        "word": "张志杰去世",
+        "onboard_time": 1719792137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815852,
+        "num": 815852,
+        "word": "朋友圈先仅自己可见三天后再公开",
+        "onboard_time": 1719814039,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 750205,
+        "num": 750205,
+        "word": "有班味这么重的皇后进入国产剧",
+        "onboard_time": 1719821536,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536603,
+        "num": 536603,
+        "word": "50枚蛇蛋及眼镜王蛇成功搬家",
+        "onboard_time": 1719822798,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488141,
+        "num": 488141,
+        "word": "JackeyLove 自费升舱",
+        "onboard_time": 1719821237,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435864,
+        "num": 435864,
+        "word": "中方回应美称NASA未被邀请研究月壤",
+        "onboard_time": 1719822079,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399578,
+        "num": 399578,
+        "word": "林丹曾吐槽国际羽联",
+        "onboard_time": 1719824598,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42928,
+        "num": 399454,
+        "word": "献给新征程上的每一个你",
+        "onboard_time": 1719824898,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399378,
+        "num": 399378,
+        "word": "2名中国企业管理人员菲律宾遇害",
+        "onboard_time": 1719823338,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366757,
+        "num": 366757,
+        "word": "张译在政法系统里走不出了",
+        "onboard_time": 1719817398,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55246,
+        "num": 362103,
+        "word": "老师用手教16岁听障男生跳舞走红",
+        "onboard_time": 1719825619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360953,
+        "num": 360953,
+        "word": "B太称新疆行回程给司机大姐买机票",
+        "onboard_time": 1719818598,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343005,
+        "num": 343005,
+        "word": "长相思涂山璟红色婚服",
+        "onboard_time": 1719820338,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337965,
+        "num": 337965,
+        "word": "于正曾想签下赵丽颖",
+        "onboard_time": 1719819437,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315519,
+        "num": 315519,
+        "word": "王星越17年采访说自己17岁",
+        "onboard_time": 1719816557,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370043,
+        "num": 306911,
+        "word": "小酥肉一年卖出100亿",
+        "onboard_time": 1719817338,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289986,
+        "num": 289986,
+        "word": "女子在亲子更衣室淋浴后发现摄像头",
+        "onboard_time": 1719817818,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277130,
+        "num": 277130,
+        "word": "医生称张志杰恶性心律失常可能性很大",
+        "onboard_time": 1719804917,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243770,
+        "num": 243770,
+        "word": "汪苏泷 点歌",
+        "onboard_time": 1719819259,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240793,
+        "num": 240793,
+        "word": "一天熬过这2个发胖时段就能瘦",
+        "onboard_time": 1719822618,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233136,
+        "num": 233136,
+        "word": "韩国一女职员因涉厌男手势被停职",
+        "onboard_time": 1719824119,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224487,
+        "num": 224487,
+        "word": "徐志胜被孟子义整破防了",
+        "onboard_time": 1719824898,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218623,
+        "num": 218623,
+        "word": "吴谨言曾给假粉签了五百张签名照",
+        "onboard_time": 1719825258,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230895,
+        "num": 214668,
+        "word": "汪苏泷说歌手是一场舆论的狂欢",
+        "onboard_time": 1719825619,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210487,
+        "num": 210487,
+        "word": "赵丽颖胎毛刘海",
+        "onboard_time": 1719818057,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187725,
+        "num": 187725,
+        "word": "因为接受offer去工作被爸爸骂白养了",
+        "onboard_time": 1719814879,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187677,
+        "num": 187677,
+        "word": "月入过万你还会考公考研吗",
+        "onboard_time": 1719818539,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185703,
+        "num": 185703,
+        "word": "保罗乔治加盟76人",
+        "onboard_time": 1719820578,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176422,
+        "num": 182255,
+        "word": "猫咪陪男生全程读研后老师为它拨穗",
+        "onboard_time": 1719823758,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181726,
+        "num": 181726,
+        "word": "三喜 改名",
+        "onboard_time": 1719807741,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181489,
+        "num": 181489,
+        "word": "中国共产党103周年",
+        "onboard_time": 1719798019,
+        "rank": 35,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 181109,
+        "num": 181109,
+        "word": "爸爸考研成绩出来我焦虑了",
+        "onboard_time": 1719825379,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177160,
+        "num": 177160,
+        "word": "中国留学生在新西兰遭袭面部严重损伤",
+        "onboard_time": 1719813378,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166257,
+        "num": 166257,
+        "word": "薛之谦什么时候再唱迟迟",
+        "onboard_time": 1719825798,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159030,
+        "num": 159030,
+        "word": "王星越方辟谣",
+        "onboard_time": 1719813139,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157847,
+        "num": 157847,
+        "word": "林丹曾呼吁给运动员更多休息时间",
+        "onboard_time": 1719820878,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156683,
+        "num": 156683,
+        "word": "美方似乎忘了沃尔夫条款存在",
+        "onboard_time": 1719824178,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151134,
+        "num": 151134,
+        "word": "菲律宾",
+        "onboard_time": 1719814819,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 140845,
+        "word": "小鱼海棠 小英",
+        "onboard_time": 1719800057,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140676,
+        "num": 140676,
+        "word": "理科女生高考失利用一年提高113分",
+        "onboard_time": 1719824358,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136239,
+        "num": 136239,
+        "word": "武清一小区房价从160万降到39万元",
+        "onboard_time": 1719808641,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "马立奥吃允儿的醋",
+        "onboard_time": 1719823218,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "俄媒称西方制裁反让俄赚至少2875亿美元",
+        "onboard_time": 1719822919,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118229,
+        "num": 118229,
+        "word": "于正 死也要二搭三搭四搭",
+        "onboard_time": 1719810380,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117097,
+        "num": 117097,
+        "word": "stayc正规一辑",
+        "onboard_time": 1719825798,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#勤掸思想尘常敲警示钟#"
+    }
+  }
+}
