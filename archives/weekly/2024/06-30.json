@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719802260709,
+  "endTime": 1719804187030,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -17,6 +17,14 @@
       "onboard_time": 1719721157,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1669454,
+      "num": 576777,
+      "word": "张志杰姐姐质疑抢救不及时",
+      "onboard_time": 1719798978,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1651437,
@@ -73,14 +81,6 @@
       "onboard_time": 1719724936,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1348902,
-      "num": 438579,
-      "word": "张志杰姐姐质疑抢救不及时",
-      "onboard_time": 1719798978,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1294707,
@@ -153,6 +153,14 @@
       "onboard_time": 1719715696,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 987058,
+      "num": 371527,
+      "word": "原来洗内裤有这么多误区",
+      "onboard_time": 1719802638,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 984129,
@@ -467,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 579040,
+      "num": 360822,
+      "word": "郭晶晶霍启刚发文庆香港回归27周年",
+      "onboard_time": 1719801078,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577636,
       "num": 304082,
       "word": "王星越说买断是有点买不过来了",
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507761,
+      "num": 507761,
+      "word": "中国共产党103周年",
+      "onboard_time": 1719798019,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 507612,
       "num": 507612,
       "word": "穿袜子睡觉可以提高睡眠质量",
@@ -673,6 +697,14 @@
       "onboard_time": 1719743659,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481549,
+      "num": 360223,
+      "word": "于正曾说陈鑫海全组最小",
+      "onboard_time": 1719802098,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 480220,
@@ -769,14 +801,6 @@
       "onboard_time": 1719734238,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 450161,
-      "num": 450161,
-      "word": "中国共产党103周年",
-      "onboard_time": 1719798019,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 446509,
@@ -1051,6 +1075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345219,
+      "num": 228856,
+      "word": "谈了快一年的男朋友居然已婚有娃了",
+      "onboard_time": 1719804078,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 343613,
+      "num": 343613,
+      "word": "于正媚粉视频",
+      "onboard_time": 1719803058,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343446,
       "num": 209255,
       "word": "时代峰峻剪辑张泽禹投票第一",
@@ -1131,20 +1171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328213,
+      "num": 378327,
+      "word": "离开张杰谁还把我当小孩",
+      "onboard_time": 1719798619,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327262,
       "num": 327262,
       "word": "鹭卓 杭州站",
       "onboard_time": 1719760339,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322994,
-      "num": 174332,
-      "word": "郭晶晶霍启刚发文庆香港回归27周年",
-      "onboard_time": 1719801078,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 319989,
@@ -1275,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287911,
+      "num": 227819,
+      "word": "长期缺钱的行为习惯",
+      "onboard_time": 1719803238,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285405,
       "num": 285405,
       "word": "十三香小龙虾居然要用30多种料",
@@ -1296,14 +1344,6 @@
       "word": "张杰谢娜抢着拿包",
       "onboard_time": 1719798078,
       "rank": 28,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 281183,
-      "num": 229054,
-      "word": "离开张杰谁还把我当小孩",
-      "onboard_time": 1719798619,
-      "rank": 35,
       "category": "演出"
     },
     {
@@ -1393,6 +1433,14 @@
       "onboard_time": 1719730876,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254891,
+      "num": 186702,
+      "word": "官方回应张志杰比赛晕倒去世",
+      "onboard_time": 1719803958,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 253897,
@@ -1523,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231555,
+      "num": 231555,
+      "word": "鲍师傅店铺称变重是冷气吹到秤上",
+      "onboard_time": 1719802997,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231260,
       "num": 439227,
       "word": "下半年最想实现的心愿",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1719750977,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220585,
+      "num": 220585,
+      "word": "刚出道1年的女爱豆这样合理吗",
+      "onboard_time": 1719803119,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 220403,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1719711676,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213824,
+      "num": 184791,
+      "word": "生活费从一千八变成了两千二",
+      "onboard_time": 1719804078,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 209502,
@@ -2019,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179223,
+      "num": 179223,
+      "word": "终于明白了人要结婚的意义",
+      "onboard_time": 1719804078,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178949,
       "num": 178949,
       "word": "27年前的今天香港回归祖国",
@@ -2067,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172326,
+      "num": 172326,
+      "word": "福宝闻花",
+      "onboard_time": 1719804138,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
@@ -2097,6 +2185,14 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166792,
+      "num": 166792,
+      "word": "雷军首爆新机进度",
+      "onboard_time": 1719804020,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 165303,
@@ -2243,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155110,
+      "num": 155110,
+      "word": "猫咪回头是一种礼貌也是一种警告",
+      "onboard_time": 1719802938,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
@@ -2257,6 +2361,22 @@
       "onboard_time": 1719755119,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152238,
+      "num": 152238,
+      "word": "85花 奖项",
+      "onboard_time": 1719802938,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151992,
+      "num": 151992,
+      "word": "范志毅说要谨言慎行",
+      "onboard_time": 1719802758,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 151764,
@@ -2451,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140306,
+      "num": 402867,
+      "word": "女生在毕业典礼一键换军装",
+      "onboard_time": 1719800836,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -2475,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138026,
+      "num": 139592,
+      "word": "凡希亚连唱半小时没有停",
+      "onboard_time": 1719801558,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137677,
       "num": 137677,
       "word": "老外来中国旅游狂发好city啊",
@@ -2497,14 +2633,6 @@
       "onboard_time": 1719749837,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 136826,
-      "num": 136826,
-      "word": "于正曾说陈鑫海全组最小",
-      "onboard_time": 1719802098,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 135586,
@@ -2771,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118888,
+      "num": 164683,
+      "word": "日本森永婴儿饼干疑有动物排泄物",
+      "onboard_time": 1719801857,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118675,
       "num": 118675,
       "word": "张信哲演唱会",
@@ -2785,14 +2921,6 @@
       "onboard_time": 1719707057,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117587,
-      "num": 402867,
-      "word": "女生在毕业典礼一键换军装",
-      "onboard_time": 1719800836,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117424,
@@ -2881,6 +3009,14 @@
       "onboard_time": 1719789135,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112898,
+      "num": 112898,
+      "word": "维持长久关系不是靠强烈的爱",
+      "onboard_time": 1719804020,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112306,
@@ -3508,7 +3644,7 @@
     },
     {
       "raw_hot": 63149,
-      "num": 194802,
+      "num": 372735,
       "word": "接力哄娃的8位外卖员每人获奖500",
       "onboard_time": 1719797479,
       "rank": 29,
@@ -3859,14 +3995,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 23000,
-      "num": 164683,
-      "word": "日本森永婴儿饼干疑有动物排泄物",
-      "onboard_time": 1719801857,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22987,
       "num": 110890,
       "word": "白乌边境地区局势紧张",
@@ -3880,14 +4008,6 @@
       "word": "许钧报名歌手",
       "onboard_time": 1719689111,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 139592,
-      "word": "凡希亚连唱半小时没有停",
-      "onboard_time": 1719801558,
-      "rank": 44,
       "category": "综艺"
     },
     {
