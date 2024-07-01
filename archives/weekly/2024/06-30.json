@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719804187030,
+  "endTime": 1719805009419,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1135955,
+      "num": 371527,
+      "word": "原来洗内裤有这么多误区",
+      "onboard_time": 1719802638,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1126469,
       "num": 1126469,
       "word": "谁家男二20集才有正脸",
@@ -153,14 +161,6 @@
       "onboard_time": 1719715696,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 987058,
-      "num": 371527,
-      "word": "原来洗内裤有这么多误区",
-      "onboard_time": 1719802638,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 984129,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 655437,
-      "num": 248175,
+      "num": 251518,
       "word": "微信收款码拍下来没法付款",
       "onboard_time": 1719798139,
       "rank": 33,
@@ -449,6 +449,14 @@
       "onboard_time": 1719712637,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599835,
+      "num": 338459,
+      "word": "官方回应张志杰比赛晕倒去世",
+      "onboard_time": 1719803958,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 596382,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458567,
+      "num": 252116,
+      "word": "谈了快一年的男朋友居然已婚有娃了",
+      "onboard_time": 1719804078,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457495,
       "num": 457495,
       "word": "特斯拉 五年免息",
@@ -923,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388882,
+      "num": 332709,
+      "word": "鲍师傅店铺称变重是冷气吹到秤上",
+      "onboard_time": 1719802997,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388268,
       "num": 388268,
       "word": "DYG 松弛感",
@@ -1075,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345219,
-      "num": 228856,
-      "word": "谈了快一年的男朋友居然已婚有娃了",
-      "onboard_time": 1719804078,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 343613,
       "num": 343613,
       "word": "于正媚粉视频",
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313110,
+      "num": 250080,
+      "word": "长期缺钱的行为习惯",
+      "onboard_time": 1719803238,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311510,
       "num": 150571,
       "word": "现在体检也要开始量腰围了",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1719725298,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287911,
-      "num": 227819,
-      "word": "长期缺钱的行为习惯",
-      "onboard_time": 1719803238,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 285405,
@@ -1435,20 +1451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254891,
-      "num": 186702,
-      "word": "官方回应张志杰比赛晕倒去世",
-      "onboard_time": 1719803958,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253897,
       "num": 155744,
       "word": "租房真的是进社会的第一课",
       "onboard_time": 1719709817,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253739,
+      "num": 253739,
+      "word": "雷军首爆新机进度",
+      "onboard_time": 1719804020,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 253650,
@@ -1491,6 +1507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249676,
+      "num": 249676,
+      "word": "腾讯视频7月大剧片单",
+      "onboard_time": 1719804258,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249469,
       "num": 242926,
       "word": "英格兰逆转晋级8强",
@@ -1515,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241272,
+      "num": 241272,
+      "word": "刚出道1年的女爱豆这样合理吗",
+      "onboard_time": 1719803119,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239351,
       "num": 239351,
       "word": "王老师 花小龙",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1719747198,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237121,
+      "num": 237121,
+      "word": "福宝闻花",
+      "onboard_time": 1719804138,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 234619,
@@ -1568,14 +1608,6 @@
       "word": "普华永道丢掉前8大客户",
       "onboard_time": 1719755660,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231555,
-      "num": 231555,
-      "word": "鲍师傅店铺称变重是冷气吹到秤上",
-      "onboard_time": 1719802997,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1625,14 +1657,6 @@
       "onboard_time": 1719750977,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220585,
-      "num": 220585,
-      "word": "刚出道1年的女爱豆这样合理吗",
-      "onboard_time": 1719803119,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 220403,
@@ -1843,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200882,
+      "num": 200882,
+      "word": "终于明白了人要结婚的意义",
+      "onboard_time": 1719804078,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "上海高校学生冒雨拍毕业照",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1719759858,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190774,
+      "num": 190774,
+      "word": "张志杰离世尚未明确病因",
+      "onboard_time": 1719804378,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190497,
@@ -2075,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180511,
+      "num": 180511,
+      "word": "张志杰去世留下众多问题待解",
+      "onboard_time": 1719804317,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179914,
       "num": 179914,
       "word": "仙逆",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1719652458,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179223,
-      "num": 179223,
-      "word": "终于明白了人要结婚的意义",
-      "onboard_time": 1719804078,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 178949,
@@ -2147,14 +2187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172326,
-      "num": 172326,
-      "word": "福宝闻花",
-      "onboard_time": 1719804138,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
@@ -2179,20 +2211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167934,
+      "num": 167934,
+      "word": "85花 奖项",
+      "onboard_time": 1719802938,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167297,
       "num": 164925,
       "word": "许嵩青岛",
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166792,
-      "num": 166792,
-      "word": "雷军首爆新机进度",
-      "onboard_time": 1719804020,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 165303,
@@ -2307,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157952,
+      "num": 157952,
+      "word": "坠落春夜",
+      "onboard_time": 1719804558,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 157945,
       "num": 157945,
       "word": "孙怡主持村民大会",
@@ -2361,14 +2401,6 @@
       "onboard_time": 1719755119,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152238,
-      "num": 152238,
-      "word": "85花 奖项",
-      "onboard_time": 1719802938,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 151992,
@@ -2851,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121916,
+      "num": 164683,
+      "word": "日本森永婴儿饼干疑有动物排泄物",
+      "onboard_time": 1719801857,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121663,
       "num": 121663,
       "word": "2024上半年最后1天",
@@ -2865,6 +2905,14 @@
       "onboard_time": 1719754339,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120937,
+      "num": 120937,
+      "word": "医生称张志杰恶性心律失常可能性很大",
+      "onboard_time": 1719804917,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120490,
@@ -2891,20 +2939,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119108,
+      "num": 119108,
+      "word": "七月踩小人",
+      "onboard_time": 1719804738,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119070,
       "num": 119070,
       "word": "于正想he导演想be",
       "onboard_time": 1719719237,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118888,
-      "num": 164683,
-      "word": "日本森永婴儿饼干疑有动物排泄物",
-      "onboard_time": 1719801857,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118675,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719804187030,
+  "endTime": 1719805009419,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -51,7 +51,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 987058,
+      "raw_hot": 1135955,
       "num": 371527,
       "word": "原来洗内裤有这么多误区",
       "onboard_time": 1719802638,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 655437,
-      "num": 248175,
+      "num": 251518,
       "word": "微信收款码拍下来没法付款",
       "onboard_time": 1719798139,
       "rank": 33,
@@ -113,6 +113,14 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599835,
+      "num": 338459,
+      "word": "官方回应张志杰比赛晕倒去世",
+      "onboard_time": 1719803958,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 584844,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458567,
+      "num": 252116,
+      "word": "谈了快一年的男朋友居然已婚有娃了",
+      "onboard_time": 1719804078,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457495,
       "num": 457495,
       "word": "特斯拉 五年免息",
@@ -299,6 +315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 388882,
+      "num": 332709,
+      "word": "鲍师傅店铺称变重是冷气吹到秤上",
+      "onboard_time": 1719802997,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382012,
       "num": 382012,
       "word": "我国幽门螺杆菌的感染率高达59%",
@@ -327,14 +351,6 @@
       "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
       "onboard_time": 1719789074,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 345219,
-      "num": 228856,
-      "word": "谈了快一年的男朋友居然已婚有娃了",
-      "onboard_time": 1719804078,
       "rank": 22,
       "category": "情感"
     },
@@ -379,20 +395,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313110,
+      "num": 250080,
+      "word": "长期缺钱的行为习惯",
+      "onboard_time": 1719803238,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
       "onboard_time": 1719798257,
       "rank": 25,
       "category": "体育,美食"
-    },
-    {
-      "raw_hot": 287911,
-      "num": 227819,
-      "word": "长期缺钱的行为习惯",
-      "onboard_time": 1719803238,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 283476,
@@ -459,12 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254891,
-      "num": 186702,
-      "word": "官方回应张志杰比赛晕倒去世",
-      "onboard_time": 1719803958,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 253739,
+      "num": 253739,
+      "word": "雷军首爆新机进度",
+      "onboard_time": 1719804020,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 253635,
@@ -481,6 +497,14 @@
       "onboard_time": 1719762858,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 249676,
+      "num": 249676,
+      "word": "腾讯视频7月大剧片单",
+      "onboard_time": 1719804258,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 249469,
@@ -507,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241272,
+      "num": 241272,
+      "word": "刚出道1年的女爱豆这样合理吗",
+      "onboard_time": 1719803119,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241106,
       "num": 141640,
       "word": "身上为什么会突然出现小红点",
@@ -523,12 +555,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 231555,
-      "num": 231555,
-      "word": "鲍师傅店铺称变重是冷气吹到秤上",
-      "onboard_time": 1719802997,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 237121,
+      "num": 237121,
+      "word": "福宝闻花",
+      "onboard_time": 1719804138,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 231260,
@@ -561,14 +593,6 @@
       "onboard_time": 1719795139,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220585,
-      "num": 220585,
-      "word": "刚出道1年的女爱豆这样合理吗",
-      "onboard_time": 1719803119,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 219948,
@@ -611,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200882,
+      "num": 200882,
+      "word": "终于明白了人要结婚的意义",
+      "onboard_time": 1719804078,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194053,
       "num": 194053,
       "word": "七月对我好一点",
       "onboard_time": 1719789494,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190774,
+      "num": 190774,
+      "word": "张志杰离世尚未明确病因",
+      "onboard_time": 1719804378,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188515,
@@ -651,12 +691,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179223,
-      "num": 179223,
-      "word": "终于明白了人要结婚的意义",
-      "onboard_time": 1719804078,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 180511,
+      "num": 180511,
+      "word": "张志杰去世留下众多问题待解",
+      "onboard_time": 1719804317,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 178949,
@@ -683,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172326,
-      "num": 172326,
-      "word": "福宝闻花",
-      "onboard_time": 1719804138,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169943,
       "num": 141339,
       "word": "王星越的营业方式",
@@ -699,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166792,
-      "num": 166792,
-      "word": "雷军首爆新机进度",
-      "onboard_time": 1719804020,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 167934,
+      "num": 167934,
+      "word": "85花 奖项",
+      "onboard_time": 1719802938,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 164191,
@@ -729,6 +761,14 @@
       "onboard_time": 1719797957,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157952,
+      "num": 157952,
+      "word": "坠落春夜",
+      "onboard_time": 1719804558,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 157415,
@@ -777,14 +817,6 @@
       "onboard_time": 1719755840,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152238,
-      "num": 152238,
-      "word": "85花 奖项",
-      "onboard_time": 1719802938,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 151992,
@@ -931,12 +963,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118888,
+      "raw_hot": 121916,
       "num": 164683,
       "word": "日本森永婴儿饼干疑有动物排泄物",
       "onboard_time": 1719801857,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120937,
+      "num": 120937,
+      "word": "医生称张志杰恶性心律失常可能性很大",
+      "onboard_time": 1719804917,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119108,
+      "num": 119108,
+      "word": "七月踩小人",
+      "onboard_time": 1719804738,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112996,
