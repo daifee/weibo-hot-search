@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719872350040,
+  "endTime": 1719873335015,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -1491,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218067,
+      "num": 218067,
+      "word": "拜登",
+      "onboard_time": 1719856813,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217473,
       "num": 217473,
       "word": "其实24岁人生才刚刚开始",
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140164,
+      "num": 53445,
+      "word": "官方回应吃播卤羊头内吃出草",
+      "onboard_time": 1719863471,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1719831918,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135887,
-      "num": 135887,
-      "word": "拜登",
-      "onboard_time": 1719856813,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 135075,
@@ -2451,6 +2459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125431,
+      "num": 43189,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124978,
       "num": 124978,
       "word": "汪苏泷3个多小时唱跳不带喘的",
@@ -2555,20 +2571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116158,
+      "num": 50898,
+      "word": "中羽协将为张志杰家人提供帮助",
+      "onboard_time": 1719866591,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "林青霞汤唯同框",
       "onboard_time": 1719839060,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115772,
-      "num": 43189,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113544,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1719789255,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108518,
-      "num": 45019,
-      "word": "官方回应吃播卤羊头内吃出草",
-      "onboard_time": 1719863471,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108253,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1719839539,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 100649,
-      "num": 44929,
-      "word": "中羽协将为张志杰家人提供帮助",
-      "onboard_time": 1719866591,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 100184,
@@ -3019,12 +3019,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46976,
+      "num": 41308,
+      "word": "年轻护士在三甲医院6年后裸辞逃离",
+      "onboard_time": 1719865931,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45330,
       "num": 43785,
       "word": "黄子韬曾说30岁会考虑成家",
       "onboard_time": 1719861670,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45171,
+      "num": 45171,
+      "word": "人教版大熊猫vs妈教版大熊猫",
+      "onboard_time": 1719866290,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42928,
@@ -3057,14 +3073,6 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41308,
-      "num": 41308,
-      "word": "年轻护士在三甲医院6年后裸辞逃离",
-      "onboard_time": 1719865931,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39563,
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33791,
+      "num": 33791,
+      "word": "入住酒店千万要小心",
+      "onboard_time": 1719864431,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32515,
       "num": 32515,
       "word": "发现了INFP快速找到热爱的方法",
@@ -3131,20 +3147,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 31436,
-      "num": 31436,
-      "word": "人教版大熊猫vs妈教版大熊猫",
-      "onboard_time": 1719866290,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31044,
-      "num": 31044,
-      "word": "入住酒店千万要小心",
-      "onboard_time": 1719864431,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 31081,
+      "num": 31081,
+      "word": "孙颖莎想和埃菲尔铁塔合影",
+      "onboard_time": 1719871511,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 30980,
@@ -3179,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27830,
+      "num": 27830,
+      "word": "先别管猫了快去救车厘子",
+      "onboard_time": 1719863231,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26725,
       "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
@@ -3195,12 +3211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24791,
-      "num": 24791,
-      "word": "先别管猫了快去救车厘子",
-      "onboard_time": 1719863231,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 24912,
+      "num": 24912,
+      "word": "西安西二环路面塌陷",
+      "onboard_time": 1719868631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24748,
@@ -3235,20 +3251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19842,
-      "num": 23553,
-      "word": "西安西二环路面塌陷",
-      "onboard_time": 1719868631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19179,
-      "num": 23553,
-      "word": "孙颖莎想和埃菲尔铁塔合影",
-      "onboard_time": 1719871511,
+      "raw_hot": 22094,
+      "num": 24676,
+      "word": "韩庚谈和粉丝20年之约",
+      "onboard_time": 1719872772,
       "rank": 47,
-      "category": "体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 19032,
