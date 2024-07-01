@@ -1,0 +1,410 @@
+{
+  "runTime": 1719808626841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831190,
+        "num": 1103272,
+        "word": "今天明显对时间有了敬畏感",
+        "onboard_time": 1719792497,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067941,
+        "num": 1067941,
+        "word": "小鱼海棠 小英",
+        "onboard_time": 1719800057,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141360,
+        "num": 781972,
+        "word": "祝福党的103岁生日",
+        "onboard_time": 1719807200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1819294,
+        "num": 764007,
+        "word": "医生称张志杰恶性心律失常可能性很大",
+        "onboard_time": 1719804917,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726363,
+        "num": 726363,
+        "word": "鲍师傅店铺称变重是冷气吹到秤上",
+        "onboard_time": 1719802997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2775142,
+        "num": 680382,
+        "word": "张志杰去世",
+        "onboard_time": 1719792137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550490,
+        "num": 550490,
+        "word": "薛之谦 人抓的还是猫抓的",
+        "onboard_time": 1719805879,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 513043,
+        "num": 513043,
+        "word": "中国共产党103周年",
+        "onboard_time": 1719798019,
+        "rank": 7,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 384971,
+        "num": 384971,
+        "word": "过早入睡也容易发生心脑血管疾病",
+        "onboard_time": 1719795739,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384138,
+        "num": 384138,
+        "word": "长相思小夭凤凰林眼神杀",
+        "onboard_time": 1719806899,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1165816,
+        "num": 383259,
+        "word": "张志杰姐姐质疑抢救不及时",
+        "onboard_time": 1719798978,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876968,
+        "num": 380633,
+        "word": "原来洗内裤有这么多误区",
+        "onboard_time": 1719802638,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 805222,
+        "num": 377936,
+        "word": "王星越疑似改年龄",
+        "onboard_time": 1719805760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699721,
+        "num": 374663,
+        "word": "张志杰大学保送证书刚寄回家",
+        "onboard_time": 1719807019,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558419,
+        "num": 372541,
+        "word": "官方回应张志杰比赛晕倒去世",
+        "onboard_time": 1719803958,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484352,
+        "num": 371565,
+        "word": "埃里克森",
+        "onboard_time": 1719805338,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48351,
+        "num": 367338,
+        "word": "残疾女孩深夜卖水小哥暖心鼓励",
+        "onboard_time": 1719808402,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 445468,
+        "num": 365342,
+        "word": "他笑起来和那年抢银行时一模一样",
+        "onboard_time": 1719806899,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364156,
+        "num": 364156,
+        "word": "三喜 改名",
+        "onboard_time": 1719807741,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343973,
+        "num": 343973,
+        "word": "雷军首爆新机进度",
+        "onboard_time": 1719804020,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 617726,
+        "num": 341030,
+        "word": "长期缺钱的行为习惯",
+        "onboard_time": 1719803238,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613373,
+        "num": 336148,
+        "word": "月薪八千房租1100会很贵吗",
+        "onboard_time": 1719796938,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489558,
+        "num": 331101,
+        "word": "谈了快一年的男朋友居然已婚有娃了",
+        "onboard_time": 1719804078,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436679,
+        "num": 323760,
+        "word": "入睡太快是一种病",
+        "onboard_time": 1719808042,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319972,
+        "num": 319972,
+        "word": "李健腹肌",
+        "onboard_time": 1719807320,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318469,
+        "num": 318469,
+        "word": "刚出道1年的女爱豆这样合理吗",
+        "onboard_time": 1719803119,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291673,
+        "num": 291673,
+        "word": "郭晶晶霍启刚发文庆香港回归27周年",
+        "onboard_time": 1719801078,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281254,
+        "num": 281254,
+        "word": "直播显示医生未带除颤仪进场",
+        "onboard_time": 1719806478,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277706,
+        "num": 277706,
+        "word": "我妈看微信短视频花了六千多",
+        "onboard_time": 1719799277,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248324,
+        "num": 248324,
+        "word": "腾讯视频7月大剧片单",
+        "onboard_time": 1719804258,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245186,
+        "num": 245186,
+        "word": "终于明白了人要结婚的意义",
+        "onboard_time": 1719804078,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228103,
+        "num": 228103,
+        "word": "于正曾说陈鑫海全组最小",
+        "onboard_time": 1719802098,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217258,
+        "num": 217258,
+        "word": "微信收款码拍下来没法付款",
+        "onboard_time": 1719798139,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214021,
+        "num": 214021,
+        "word": "张志杰去世留下众多问题待解",
+        "onboard_time": 1719804317,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190771,
+        "num": 190771,
+        "word": "巴菲特将1300亿美元留给儿女",
+        "onboard_time": 1719791356,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183152,
+        "num": 183152,
+        "word": "福宝闻花",
+        "onboard_time": 1719804138,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183080,
+        "num": 183080,
+        "word": "张杰演唱会大屏上的一家三口",
+        "onboard_time": 1719808042,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176877,
+        "num": 176877,
+        "word": "朋友哥哥是车银优",
+        "onboard_time": 1719801018,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 176788,
+        "word": "于正媚粉视频",
+        "onboard_time": 1719803058,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176175,
+        "num": 176175,
+        "word": "终于知道啥是city不city了",
+        "onboard_time": 1719807861,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95825,
+        "num": 165430,
+        "word": "记者起底假黄金黑色产业链",
+        "onboard_time": 1719806419,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158315,
+        "num": 158315,
+        "word": "94年30岁很大吗",
+        "onboard_time": 1719805458,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155265,
+        "num": 155265,
+        "word": "特斯拉 五年免息",
+        "onboard_time": 1719793458,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153699,
+        "num": 153699,
+        "word": "坠落春夜",
+        "onboard_time": 1719804558,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 130513,
+        "num": 130513,
+        "word": "生活费从一千八变成了两千二",
+        "onboard_time": 1719804078,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129161,
+        "num": 129161,
+        "word": "黄旭东吐槽JackeyLove",
+        "onboard_time": 1719798497,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127096,
+        "num": 127096,
+        "word": "穿袜子睡觉可以提高睡眠质量",
+        "onboard_time": 1719788714,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42182,
+        "num": 124614,
+        "word": "少年三进火场抱出两老人获奖万元",
+        "onboard_time": 1719805040,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124573,
+        "num": 124573,
+        "word": "离开张杰谁还把我当小孩",
+        "onboard_time": 1719798619,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123432,
+        "num": 123432,
+        "word": "恋爱兄妹售后",
+        "onboard_time": 1719807681,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让老百姓过上更加幸福的生活#"
+    }
+  }
+}
