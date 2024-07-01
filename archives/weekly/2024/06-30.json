@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719865231619,
+  "endTime": 1719866064680,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -5843,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31810,
+      "num": 22796,
+      "word": "官方回应吃播卤羊头内吃出草",
+      "onboard_time": 1719863471,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30980,
       "num": 248165,
       "word": "游客冒大雨天安门等待看升旗",
@@ -5971,14 +5979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23087,
-      "num": 22602,
-      "word": "官方回应吃播卤羊头内吃出草",
-      "onboard_time": 1719863471,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22987,
       "num": 110890,
       "word": "白乌边境地区局势紧张",
@@ -6003,12 +6003,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19445,
-      "num": 19445,
+      "raw_hot": 21648,
+      "num": 21648,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21378,
+      "num": 21378,
       "word": "先别管猫了快去救车厘子",
       "onboard_time": 1719863231,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19659,
+      "num": 19659,
+      "word": "入住酒店千万要小心",
+      "onboard_time": 1719864431,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 19032,
@@ -6033,14 +6049,6 @@
       "onboard_time": 1719739759,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16954,
-      "num": 19409,
-      "word": "入住酒店千万要小心",
-      "onboard_time": 1719864431,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 15408,
@@ -6107,11 +6115,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12670,
-      "num": 19325,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
+      "raw_hot": 12528,
+      "num": 19195,
+      "word": "年轻护士在三甲医院6年后裸辞逃离",
+      "onboard_time": 1719865931,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
