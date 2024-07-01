@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719818368510,
+  "endTime": 1719819327575,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 632649,
-      "num": 351500,
+      "num": 391320,
       "word": "王星越17年采访说自己17岁",
       "onboard_time": 1719816557,
       "rank": 10,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525711,
+      "num": 525711,
+      "word": "张译在政法系统里走不出了",
+      "onboard_time": 1719817398,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514890,
       "num": 295427,
       "word": "张杰谢娜牵手下班",
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 487839,
+      "num": 280071,
+      "word": "因为接受offer去工作被爸爸骂白养了",
+      "onboard_time": 1719814879,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481549,
       "num": 360223,
       "word": "于正曾说陈鑫海全组最小",
@@ -393,6 +409,14 @@
       "onboard_time": 1719749777,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478602,
+      "num": 386879,
+      "word": "赵丽颖胎毛刘海",
+      "onboard_time": 1719818057,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463640,
@@ -611,22 +635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308594,
-      "num": 280071,
-      "word": "因为接受offer去工作被爸爸骂白养了",
-      "onboard_time": 1719814879,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 304308,
-      "num": 304308,
-      "word": "张译在政法系统里走不出了",
-      "onboard_time": 1719817398,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268131,
+      "num": 268131,
+      "word": "女子在亲子更衣室淋浴后发现摄像头",
+      "onboard_time": 1719817818,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264652,
       "num": 264652,
       "word": "94年30岁很大吗",
@@ -713,6 +729,14 @@
       "onboard_time": 1719753438,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261971,
+      "num": 261971,
+      "word": "小酥肉一年卖出100亿",
+      "onboard_time": 1719817338,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261822,
@@ -755,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251837,
+      "num": 179847,
+      "word": "B太称新疆行回程给司机大姐买机票",
+      "onboard_time": 1719818598,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250381,
       "num": 154792,
       "word": "以色列民众示威要求提前大选结束冲突",
@@ -769,6 +801,14 @@
       "onboard_time": 1719789015,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249338,
+      "num": 249338,
+      "word": "菲律宾",
+      "onboard_time": 1719814819,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 248850,
@@ -833,14 +873,6 @@
       "onboard_time": 1719812299,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234132,
-      "num": 234132,
-      "word": "菲律宾",
-      "onboard_time": 1719814819,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 232507,
@@ -931,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205693,
+      "num": 205693,
+      "word": "其实24岁人生才刚刚开始",
+      "onboard_time": 1719816318,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "黄旭东吐槽JackeyLove",
@@ -976,14 +1016,6 @@
       "word": "七月对我好一点",
       "onboard_time": 1719789494,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 191511,
-      "num": 191511,
-      "word": "其实24岁人生才刚刚开始",
-      "onboard_time": 1719816318,
-      "rank": 26,
       "category": "情感"
     },
     {
@@ -1043,22 +1075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181212,
-      "num": 181212,
-      "word": "小酥肉一年卖出100亿",
-      "onboard_time": 1719817338,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180929,
-      "num": 180929,
-      "word": "赵丽颖胎毛刘海",
-      "onboard_time": 1719818057,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180911,
       "num": 180911,
       "word": "巴菲特去世后不再向盖茨基金会捐赠",
@@ -1112,6 +1128,14 @@
       "word": "终于知道啥是city不city了",
       "onboard_time": 1719807861,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175520,
+      "num": 175520,
+      "word": "偷听到保洁阿姨的工资后我破防了",
+      "onboard_time": 1719814698,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1179,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157920,
-      "num": 157920,
-      "word": "偷听到保洁阿姨的工资后我破防了",
-      "onboard_time": 1719814698,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1719789494,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 157130,
-      "num": 157130,
-      "word": "女子在亲子更衣室淋浴后发现摄像头",
-      "onboard_time": 1719817818,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156565,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1719763276,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150022,
+      "num": 150022,
+      "word": "Zdz找工作",
+      "onboard_time": 1719818959,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 149901,
@@ -1395,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135204,
+      "num": 135204,
+      "word": "癌症早期筛查有了新手段",
+      "onboard_time": 1719817698,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135075,
       "num": 135075,
       "word": "BW2024抢票",
@@ -1459,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128663,
+      "num": 128663,
+      "word": "世界羽坛众将悼念张志杰",
+      "onboard_time": 1719819018,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127617,
       "num": 127617,
       "word": "西班牙4比1格鲁吉亚",
@@ -1507,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119914,
-      "num": 119914,
-      "word": "癌症早期筛查有了新手段",
-      "onboard_time": 1719817698,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119571,
       "num": 119571,
       "word": "这火种从未断过",
@@ -1531,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116590,
+      "num": 116590,
+      "word": "月入过万你还会考公考研吗",
+      "onboard_time": 1719818539,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112996,
       "num": 112996,
       "word": "医学生的毕业典礼全是娃",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1719804020,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111926,
+      "num": 111926,
+      "word": "汪苏泷 点歌",
+      "onboard_time": 1719819259,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 111697,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1719808402,
       "rank": 16,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 47020,
+      "num": 400070,
+      "word": "高考英语145分学霸教你怎么写作文",
+      "onboard_time": 1719818418,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 42182,
