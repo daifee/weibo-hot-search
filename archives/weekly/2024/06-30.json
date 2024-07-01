@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719808626841,
+  "endTime": 1719811177040,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1135955,
-      "num": 467470,
+      "num": 512061,
       "word": "原来洗内裤有这么多误区",
       "onboard_time": 1719802638,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1719711196,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1125286,
+      "num": 1125286,
+      "word": "三喜 改名",
+      "onboard_time": 1719807741,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 1118422,
@@ -161,6 +169,14 @@
       "onboard_time": 1719757639,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1052848,
+      "num": 751984,
+      "word": "湖南卫视台标",
+      "onboard_time": 1719809121,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 990741,
@@ -193,6 +209,14 @@
       "onboard_time": 1719668000,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 946443,
+      "num": 565908,
+      "word": "张志杰大学保送证书刚寄回家",
+      "onboard_time": 1719807019,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 937587,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 817510,
-      "num": 456520,
+      "num": 555883,
       "word": "王星越疑似改年龄",
       "onboard_time": 1719805760,
       "rank": 12,
@@ -297,6 +321,14 @@
       "onboard_time": 1719796938,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 809435,
+      "num": 809435,
+      "word": "拜登 特朗普",
+      "onboard_time": 1719809481,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 745777,
@@ -337,14 +369,6 @@
       "onboard_time": 1719759560,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 699721,
-      "num": 374663,
-      "word": "张志杰大学保送证书刚寄回家",
-      "onboard_time": 1719807019,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 678867,
@@ -409,6 +433,14 @@
       "onboard_time": 1719740416,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 639037,
+      "num": 639037,
+      "word": "武清一小区房价从160万降到39万元",
+      "onboard_time": 1719808641,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632130,
@@ -505,6 +537,14 @@
       "onboard_time": 1719798019,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 596716,
+      "num": 364874,
+      "word": "入睡太快是一种病",
+      "onboard_time": 1719808042,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 596382,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 445468,
-      "num": 365342,
+      "num": 379941,
       "word": "他笑起来和那年抢银行时一模一样",
       "onboard_time": 1719806899,
       "rank": 18,
@@ -929,14 +969,6 @@
       "onboard_time": 1719789555,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 436679,
-      "num": 323760,
-      "word": "入睡太快是一种病",
-      "onboard_time": 1719808042,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 431693,
@@ -987,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 405294,
+      "num": 405294,
+      "word": "陈赫家漏水",
+      "onboard_time": 1719810860,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404688,
       "num": 404688,
       "word": "张志杰曾表示想通过努力证明自己",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1719757880,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 385886,
+      "num": 385886,
+      "word": "美国2名宇航员被困空间站",
+      "onboard_time": 1719808762,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384409,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1719801018,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364156,
-      "num": 364156,
-      "word": "三喜 改名",
-      "onboard_time": 1719807741,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 361594,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329505,
+      "num": 329505,
+      "word": "于正 死也要二搭三搭四搭",
+      "onboard_time": 1719810380,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 328213,
@@ -1425,6 +1473,22 @@
       "onboard_time": 1719798257,
       "rank": 25,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 294291,
+      "num": 294291,
+      "word": "孙千晒背",
+      "onboard_time": 1719809481,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293376,
+      "num": 293376,
+      "word": "东方甄选内部矛盾被放在直播间公开化",
+      "onboard_time": 1719810021,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 293204,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1719789015,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247417,
+      "num": 247417,
+      "word": "王星越直播比心手都在抖",
+      "onboard_time": 1719808762,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 244649,
@@ -1851,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206924,
+      "num": 206924,
+      "word": "任嘉伦说60L行李太轻了",
+      "onboard_time": 1719811040,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205589,
       "num": 173723,
       "word": "华晨宇 关于日出的那一天",
@@ -2019,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195995,
+      "num": 195995,
+      "word": "印度的种姓制度",
+      "onboard_time": 1719809900,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195653,
       "num": 195653,
       "word": "薛之谦演唱会",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1719756979,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194481,
+      "num": 194481,
+      "word": "张杰演唱会大屏上的一家三口",
+      "onboard_time": 1719808042,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 194339,
@@ -2115,6 +2211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189795,
+      "num": 189795,
+      "word": "吴谨言许凯售后来了",
+      "onboard_time": 1719808821,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189297,
       "num": 189297,
       "word": "美军每天用十多辆卡车偷叙利亚小麦",
@@ -2137,6 +2241,14 @@
       "onboard_time": 1719732198,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186731,
+      "num": 186731,
+      "word": "长相思",
+      "onboard_time": 1719809121,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 186515,
@@ -2193,14 +2305,6 @@
       "onboard_time": 1719753978,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183080,
-      "num": 183080,
-      "word": "张杰演唱会大屏上的一家三口",
-      "onboard_time": 1719808042,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 182847,
@@ -2273,6 +2377,14 @@
       "onboard_time": 1719733338,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176627,
+      "num": 176627,
+      "word": "中央政府将再赠送香港一对大熊猫",
+      "onboard_time": 1719809601,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176165,
@@ -2603,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147342,
+      "num": 147342,
+      "word": "张志杰倒地后第一时间无人上前",
+      "onboard_time": 1719811160,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "马立奥重回爸爸当家",
@@ -2803,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135075,
+      "num": 135075,
+      "word": "BW2024抢票",
+      "onboard_time": 1719810681,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "典型infp一天都在干什么",
@@ -2825,6 +2953,14 @@
       "onboard_time": 1719742278,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134081,
+      "num": 567137,
+      "word": "苏州大学录取通知书太走心了",
+      "onboard_time": 1719810141,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 133818,
