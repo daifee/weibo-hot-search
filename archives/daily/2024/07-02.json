@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719901693099,
+  "endTime": 1719902421654,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -203,19 +203,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 706807,
+      "num": 706807,
+      "word": "泰国部长亲自接机中国娃圈女明星",
+      "onboard_time": 1719899899,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695254,
       "num": 485776,
       "word": "女子穿JK遭2男生偷拍嘲讽还直播",
       "onboard_time": 1719845059,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667134,
-      "num": 667134,
-      "word": "泰国部长亲自接机中国娃圈女明星",
-      "onboard_time": 1719899899,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 514114,
+      "num": 514114,
+      "word": "歌手 隆里电丝",
+      "onboard_time": 1719898279,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506164,
       "num": 359306,
       "word": "张志杰姨夫发声",
@@ -321,14 +329,6 @@
       "onboard_time": 1719877396,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 487230,
-      "num": 487230,
-      "word": "歌手 隆里电丝",
-      "onboard_time": 1719898279,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 486504,
@@ -475,6 +475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 356471,
+      "num": 228275,
+      "word": "秦岚有三本飞行证",
+      "onboard_time": 1719900979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354130,
       "num": 354130,
       "word": "朋友圈先仅自己可见三天后再公开",
@@ -547,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312309,
-      "num": 209352,
-      "word": "秦岚有三本飞行证",
-      "onboard_time": 1719900979,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307758,
       "num": 175670,
       "word": "马斯克回应中国小女孩报bug",
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287546,
+      "num": 221300,
+      "word": "30岁的老公和50岁的胡兵",
+      "onboard_time": 1719900441,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285817,
       "num": 155357,
       "word": "葡萄牙门将点球大战三连扑",
@@ -611,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283552,
+      "num": 283552,
+      "word": "张颂文工作室 提名即肯定",
+      "onboard_time": 1719898819,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280924,
       "num": 280924,
       "word": "罐车卸完煤制油直接装运食用油",
@@ -619,20 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275300,
-      "num": 275300,
-      "word": "张颂文工作室 提名即肯定",
-      "onboard_time": 1719898819,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 265754,
-      "num": 208703,
-      "word": "30岁的老公和50岁的胡兵",
-      "onboard_time": 1719900441,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 278026,
+      "num": 278026,
+      "word": "亚青赛混团中国队夺冠",
+      "onboard_time": 1719901758,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 259697,
@@ -747,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218859,
+      "num": 218859,
+      "word": "郭麒麟有瓜真吃",
+      "onboard_time": 1719901397,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217215,
       "num": 195654,
       "word": "TF三代出道战选秀味",
@@ -769,14 +785,6 @@
       "onboard_time": 1719890178,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208336,
-      "num": 208336,
-      "word": "郭麒麟有瓜真吃",
-      "onboard_time": 1719901397,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 202025,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168665,
+      "num": 168665,
+      "word": "队友们给张志杰留了加油的位置",
+      "onboard_time": 1719898759,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "特斯拉市值一夜大涨近2800亿元",
@@ -985,6 +1001,14 @@
       "onboard_time": 1719838340,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165942,
+      "num": 165942,
+      "word": "哈尔滨不靠海为啥也能搞船舶",
+      "onboard_time": 1719901220,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 163477,
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155078,
+      "num": 155078,
+      "word": "3个年龄段会发生断崖式衰老",
+      "onboard_time": 1719897139,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154644,
       "num": 154644,
       "word": "黄景瑜有疯批男主那味儿了",
@@ -1051,28 +1083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149881,
-      "num": 149881,
-      "word": "队友们给张志杰留了加油的位置",
-      "onboard_time": 1719898759,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148547,
-      "num": 148547,
-      "word": "3个年龄段会发生断崖式衰老",
-      "onboard_time": 1719897139,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "一放暑假8个外甥又来了",
       "onboard_time": 1719878658,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143120,
+      "num": 143120,
+      "word": "队友替张志杰完成夺冠心愿",
+      "onboard_time": 1719901459,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 142946,
@@ -1163,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130920,
+      "num": 130920,
+      "word": "檀健次你尽管演不用管我们死活",
+      "onboard_time": 1719902178,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130378,
       "num": 130378,
       "word": "初瑞雪 蛋蛋",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1719886219,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120474,
-      "num": 120474,
-      "word": "哈尔滨不靠海为啥也能搞船舶",
-      "onboard_time": 1719901220,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 120102,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1719880519,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116246,
-      "num": 116246,
-      "word": "队友替张志杰完成夺冠心愿",
-      "onboard_time": 1719901459,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114230,
@@ -1352,6 +1368,14 @@
       "word": "杜江介绍珍珠的新生活",
       "onboard_time": 1719885316,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103060,
+      "num": 103060,
+      "word": "贺军翔黄子佼被传唤",
+      "onboard_time": 1719902299,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53324,
+      "num": 437318,
+      "word": "德国男子放弃高薪随妻子定居宁波小村",
+      "onboard_time": 1719899119,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48538,
       "num": 454205,
       "word": "演唱会奇葩票维权成本有多高",
@@ -1763,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30753,
+      "num": 179680,
+      "word": "以军又被曝用巴勒斯坦人充当人盾",
+      "onboard_time": 1719901519,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29595,
       "num": 330366,
       "word": "当杭州市歌遇上了烟雨江南",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1719851956,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11062,
-      "num": 179680,
-      "word": "以军又被曝用巴勒斯坦人充当人盾",
-      "onboard_time": 1719901519,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 10165,
