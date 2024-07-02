@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719915649517,
+  "endTime": 1719916646199,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1012370,
-      "num": 518854,
+      "num": 533446,
       "word": "暴食了30个黄瓜和17个西红柿",
       "onboard_time": 1719910038,
       "rank": 3,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605416,
+      "num": 605416,
+      "word": "郭晶晶没做教练的原因",
+      "onboard_time": 1719913037,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599835,
       "num": 436111,
       "word": "官方回应张志杰比赛晕倒去世",
@@ -955,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 504700,
-      "num": 364282,
-      "word": "郭晶晶没做教练的原因",
-      "onboard_time": 1719913037,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 503889,
       "num": 503889,
       "word": "妈妈是清华的儿子也是清华的",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1719905959,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 479557,
+      "num": 363763,
+      "word": "网传建行总行降薪10%",
+      "onboard_time": 1719912859,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478935,
@@ -1323,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409002,
+      "num": 409002,
+      "word": "朱一龙 演员里的一块姜",
+      "onboard_time": 1719912139,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408973,
       "num": 408973,
       "word": "红豆生南国 裴相是男模",
@@ -1355,12 +1371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401076,
-      "num": 363763,
-      "word": "网传建行总行降薪10%",
-      "onboard_time": 1719912859,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 400905,
+      "num": 400905,
+      "word": "张凌赫硬帅",
+      "onboard_time": 1719913758,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 400533,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1719759858,
       "rank": 13,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 399761,
-      "num": 399761,
-      "word": "朱一龙 演员里的一块姜",
-      "onboard_time": 1719912139,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399378,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1719801018,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363026,
-      "num": 363026,
-      "word": "张凌赫硬帅",
-      "onboard_time": 1719913758,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 357453,
@@ -1987,6 +1987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254973,
+      "num": 254973,
+      "word": "老人花四千买净食机儿子觉得贵",
+      "onboard_time": 1719914717,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254118,
       "num": 220170,
       "word": "沈腾马丽新片 没苦硬吃",
@@ -2139,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238600,
+      "num": 238600,
+      "word": "镖人 阵容",
+      "onboard_time": 1719913878,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238033,
       "num": 238033,
       "word": "东京食尸鬼 十年后的新动画",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230987,
-      "num": 230987,
-      "word": "镖人 阵容",
-      "onboard_time": 1719913878,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 229303,
@@ -2427,12 +2435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206023,
+      "num": 206023,
+      "word": "深圳6岁男童在家门口被货车碾死",
+      "onboard_time": 1719912799,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 205651,
       "num": 205651,
       "word": "猫咪陪男生全程读研后老师为它拨穗",
       "onboard_time": 1719823758,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204959,
+      "num": 204959,
+      "word": "张元英式推拉",
+      "onboard_time": 1719915617,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 204552,
@@ -2455,6 +2479,14 @@
       "num": 203284,
       "word": "7月第一天",
       "onboard_time": 1719789314,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202913,
+      "num": 202913,
+      "word": "深圳平均工资上涨了",
+      "onboard_time": 1719914959,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -2601,14 +2633,6 @@
       "onboard_time": 1719789494,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193734,
-      "num": 193734,
-      "word": "深圳6岁男童在家门口被货车碾死",
-      "onboard_time": 1719912799,
-      "rank": 41,
-      "category": "社会负面"
     },
     {
       "raw_hot": 193077,
@@ -3195,6 +3219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155092,
+      "num": 155092,
+      "word": "飞天茅台逼近2400元",
+      "onboard_time": 1719914899,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155078,
       "num": 155078,
       "word": "3个年龄段会发生断崖式衰老",
@@ -3209,14 +3241,6 @@
       "onboard_time": 1719811160,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153585,
-      "num": 153585,
-      "word": "老人花四千买净食机儿子觉得贵",
-      "onboard_time": 1719914717,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153127,
@@ -3379,14 +3403,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 145417,
-      "num": 145417,
-      "word": "深圳平均工资上涨了",
-      "onboard_time": 1719914959,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144953,
       "num": 144953,
       "word": "Steam公开账号的未玩游戏或价值138亿",
@@ -3512,6 +3528,14 @@
       "word": "吴艳妮女子100米栏冠军",
       "onboard_time": 1719745517,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140793,
+      "num": 140793,
+      "word": "石宇奇发文缅怀张志杰",
+      "onboard_time": 1719915378,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -3835,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129710,
+      "num": 129710,
+      "word": "城市捉迷藏",
+      "onboard_time": 1719916218,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129683,
       "num": 129683,
       "word": "如懿传吐槽",
@@ -3899,6 +3931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127221,
+      "num": 364854,
+      "word": "食品专业上课都是吃吃吃吗",
+      "onboard_time": 1719914418,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 126900,
       "num": 126900,
       "word": "天水麻辣烫表情哥回应流量下滑",
@@ -3937,6 +3977,14 @@
       "onboard_time": 1719903257,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124171,
+      "num": 124171,
+      "word": "奶牛猫强制白猫仰卧起坐",
+      "onboard_time": 1719915858,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 124133,
@@ -4051,14 +4099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119730,
-      "num": 119730,
-      "word": "飞天茅台逼近2400元",
-      "onboard_time": 1719914899,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 119571,
       "num": 119571,
       "word": "这火种从未断过",
@@ -4099,6 +4139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118225,
+      "num": 118225,
+      "word": "科学追光者",
+      "onboard_time": 1719915918,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 118012,
       "num": 118012,
       "word": "90后女生带一群退休阿姨再创业",
@@ -4113,14 +4161,6 @@
       "onboard_time": 1719839060,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115769,
-      "num": 115769,
-      "word": "石宇奇发文缅怀张志杰",
-      "onboard_time": 1719915378,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 114010,
@@ -4315,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104007,
+      "num": 104007,
+      "word": "全红婵的巴黎奥运心愿",
+      "onboard_time": 1719916158,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103815,
       "num": 103815,
       "word": "C罗姆巴佩8强对决",
@@ -4337,6 +4385,14 @@
       "onboard_time": 1719885316,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103448,
+      "num": 103448,
+      "word": "原来衣服发臭是闷出来的",
+      "onboard_time": 1719916099,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 103361,
@@ -4465,14 +4521,6 @@
       "onboard_time": 1719835218,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95058,
-      "num": 95058,
-      "word": "张元英式推拉",
-      "onboard_time": 1719915617,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 92981,
@@ -4633,14 +4681,6 @@
       "onboard_time": 1719855016,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70866,
-      "num": 364854,
-      "word": "食品专业上课都是吃吃吃吗",
-      "onboard_time": 1719914418,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 70661,
@@ -4891,6 +4931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40432,
+      "num": 341527,
+      "word": "西湖雨后荷花夏日氛围感拉满",
+      "onboard_time": 1719913999,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 40304,
       "num": 164114,
       "word": "年轻人买车更看重什么",
@@ -4969,6 +5017,14 @@
       "onboard_time": 1719856152,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32440,
+      "num": 131612,
+      "word": "罗翔回应在闲鱼搞副业",
+      "onboard_time": 1719915018,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 32121,
@@ -5113,14 +5169,6 @@
       "onboard_time": 1719891080,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20355,
-      "num": 131612,
-      "word": "罗翔回应在闲鱼搞副业",
-      "onboard_time": 1719915018,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 19032,

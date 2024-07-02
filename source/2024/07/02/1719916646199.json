@@ -1,0 +1,410 @@
+{
+  "runTime": 1719916646199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 686134,
+        "num": 686134,
+        "word": "本月你的工资或有多项调整",
+        "onboard_time": 1719893540,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 605416,
+        "num": 605416,
+        "word": "郭晶晶没做教练的原因",
+        "onboard_time": 1719913037,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5466,
+        "num": 541744,
+        "word": "关于上合组织你想知道的都在这里",
+        "onboard_time": 1719843920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936936,
+        "num": 533446,
+        "word": "暴食了30个黄瓜和17个西红柿",
+        "onboard_time": 1719910038,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485336,
+        "num": 485336,
+        "word": "赵丽颖工作室回应百花奖提名",
+        "onboard_time": 1719912017,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409002,
+        "num": 409002,
+        "word": "朱一龙 演员里的一块姜",
+        "onboard_time": 1719912139,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400905,
+        "num": 400905,
+        "word": "张凌赫硬帅",
+        "onboard_time": 1719913758,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365378,
+        "num": 365378,
+        "word": "夹包哥",
+        "onboard_time": 1719912558,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 357464,
+        "num": 357464,
+        "word": "红豆生南国 裴相是男模",
+        "onboard_time": 1719911297,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40432,
+        "num": 341527,
+        "word": "西湖雨后荷花夏日氛围感拉满",
+        "onboard_time": 1719913999,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 479557,
+        "num": 341298,
+        "word": "网传建行总行降薪10%",
+        "onboard_time": 1719912859,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339029,
+        "num": 339029,
+        "word": "印尼羽协称张志杰是心脏骤停去世",
+        "onboard_time": 1719907279,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335333,
+        "num": 335333,
+        "word": "荷兰70岁夫妇接受双人安乐死",
+        "onboard_time": 1719909859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291823,
+        "num": 291823,
+        "word": "杨紫31岁状态",
+        "onboard_time": 1719910639,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266087,
+        "num": 266087,
+        "word": "全队带张志杰上领奖台",
+        "onboard_time": 1719903799,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262245,
+        "num": 262245,
+        "word": "黄旭东 没苦硬吃",
+        "onboard_time": 1719912499,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38267,
+        "num": 256607,
+        "word": "健身房的人型多巴胺belike",
+        "onboard_time": 1719912918,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254973,
+        "num": 254973,
+        "word": "老人花四千买净食机儿子觉得贵",
+        "onboard_time": 1719914717,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238600,
+        "num": 238600,
+        "word": "镖人 阵容",
+        "onboard_time": 1719913878,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219322,
+        "num": 219322,
+        "word": "赵今麦演技",
+        "onboard_time": 1719904938,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222482,
+        "num": 214076,
+        "word": "伴侣头发有这个特征可能感染了梅毒",
+        "onboard_time": 1719905959,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206023,
+        "num": 206023,
+        "word": "深圳6岁男童在家门口被货车碾死",
+        "onboard_time": 1719912799,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204959,
+        "num": 204959,
+        "word": "张元英式推拉",
+        "onboard_time": 1719915617,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202913,
+        "num": 202913,
+        "word": "深圳平均工资上涨了",
+        "onboard_time": 1719914959,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202609,
+        "num": 202609,
+        "word": "优酷今天官宣了好多剧",
+        "onboard_time": 1719893660,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196041,
+        "num": 196041,
+        "word": "中国男篮vs澳大利亚",
+        "onboard_time": 1719914300,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161395,
+        "num": 161395,
+        "word": "歌手双揭榜歌手官宣",
+        "onboard_time": 1719893840,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160853,
+        "num": 160853,
+        "word": "徐艺洋 老板就能上我卫生间吗",
+        "onboard_time": 1719890598,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155092,
+        "num": 155092,
+        "word": "飞天茅台逼近2400元",
+        "onboard_time": 1719914899,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144730,
+        "num": 144730,
+        "word": "3个月的坑被2个小孩给填平了",
+        "onboard_time": 1719906679,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "石宇奇发文缅怀张志杰",
+        "onboard_time": 1719915378,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139898,
+        "num": 139898,
+        "word": "icon力挺JackeyLove",
+        "onboard_time": 1719911538,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134563,
+        "num": 134563,
+        "word": "一声娘子梦回苍兰诀",
+        "onboard_time": 1719907938,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "白鹿活动生图",
+        "onboard_time": 1719906739,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "城市捉迷藏",
+        "onboard_time": 1719916218,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
+        "onboard_time": 1719911899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127221,
+        "num": 127221,
+        "word": "食品专业上课都是吃吃吃吗",
+        "onboard_time": 1719914418,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 32440,
+        "num": 124486,
+        "word": "罗翔回应在闲鱼搞副业",
+        "onboard_time": 1719915018,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124171,
+        "num": 124171,
+        "word": "奶牛猫强制白猫仰卧起坐",
+        "onboard_time": 1719915858,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120152,
+        "num": 120152,
+        "word": "度华年",
+        "onboard_time": 1719900199,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118225,
+        "num": 118225,
+        "word": "科学追光者",
+        "onboard_time": 1719915918,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118010,
+        "num": 118010,
+        "word": "当外婆知道娃娃的价格后",
+        "onboard_time": 1719904938,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115004,
+        "num": 115004,
+        "word": "郑爽未履行金额超1.2亿",
+        "onboard_time": 1719888740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110630,
+        "num": 110630,
+        "word": "秦岚有三本飞行证",
+        "onboard_time": 1719900979,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110027,
+        "num": 110027,
+        "word": "度华年微博追剧团",
+        "onboard_time": 1719912558,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104084,
+        "num": 104084,
+        "word": "猩猩都比我会拍照",
+        "onboard_time": 1719915198,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104007,
+        "num": 104007,
+        "word": "全红婵的巴黎奥运心愿",
+        "onboard_time": 1719916158,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103448,
+        "num": 103448,
+        "word": "原来衣服发臭是闷出来的",
+        "onboard_time": 1719916099,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96353,
+        "num": 96353,
+        "word": "赵昭仪正是容易饿的年纪",
+        "onboard_time": 1719909618,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96334,
+        "num": 96334,
+        "word": "河南大旱中无奈的种植大户",
+        "onboard_time": 1719910820,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
