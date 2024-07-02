@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719944760443,
+  "endTime": 1719945508376,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -8211,6 +8211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45572,
+      "num": 54748,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45330,
       "num": 43950,
       "word": "黄子韬曾说30岁会考虑成家",
@@ -8281,14 +8289,6 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41944,
-      "num": 54748,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40935,
@@ -8547,6 +8547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31129,
+      "num": 31129,
+      "word": "贺军翔回应性骚扰指控",
+      "onboard_time": 1719944292,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30980,
       "num": 248165,
       "word": "游客冒大雨天安门等待看升旗",
@@ -8659,14 +8667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26730,
-      "num": 26730,
-      "word": "贺军翔回应性骚扰指控",
-      "onboard_time": 1719944292,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26725,
       "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
@@ -8707,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25042,
+      "num": 56612,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24912,
       "num": 24912,
       "word": "西安西二环路面塌陷",
@@ -8729,14 +8737,6 @@
       "onboard_time": 1719891019,
       "rank": 9,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 24109,
-      "num": 56612,
-      "word": "奥地利vs土耳其",
-      "onboard_time": 1719938835,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 24092,
@@ -8939,7 +8939,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8612,
+      "raw_hot": 9348,
       "num": 64328,
       "word": "女生生病2年仍保研清华准备读博",
       "onboard_time": 1719943691,
