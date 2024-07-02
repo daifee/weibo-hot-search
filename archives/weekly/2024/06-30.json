@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719909441164,
+  "endTime": 1719912051527,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 864340,
+      "num": 518854,
+      "word": "暴食了30个黄瓜和17个西红柿",
+      "onboard_time": 1719910038,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 863090,
       "num": 863090,
       "word": "冯禧中传硕士毕业",
@@ -617,6 +625,14 @@
       "onboard_time": 1719732198,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 824229,
+      "num": 515653,
+      "word": "印尼羽协称张志杰是心脏骤停去世",
+      "onboard_time": 1719907279,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 819804,
@@ -737,14 +753,6 @@
       "onboard_time": 1719671178,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 730477,
-      "num": 490618,
-      "word": "印尼羽协称张志杰是心脏骤停去世",
-      "onboard_time": 1719907279,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 720754,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595295,
+      "num": 341569,
+      "word": "警方通报网红夹包哥被扎伤身亡",
+      "onboard_time": 1719910459,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 589287,
       "num": 344899,
       "word": "当一个人朋友圈很干净时",
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516673,
+      "num": 516673,
+      "word": "当外婆知道娃娃的价格后",
+      "onboard_time": 1719904938,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 514114,
       "num": 514114,
       "word": "歌手 隆里电丝",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1719819437,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 494413,
-      "num": 494413,
-      "word": "当外婆知道娃娃的价格后",
-      "onboard_time": 1719904938,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 494202,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1719793458,
       "rank": 5,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 455988,
+      "num": 455988,
+      "word": "杨紫31岁状态",
+      "onboard_time": 1719910639,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 454774,
@@ -2571,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296895,
+      "num": 296895,
+      "word": "一声娘子梦回苍兰诀",
+      "onboard_time": 1719907938,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -2769,14 +2801,6 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269574,
-      "num": 234071,
-      "word": "一声娘子梦回苍兰诀",
-      "onboard_time": 1719907938,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 267513,
@@ -3451,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206374,
+      "num": 195204,
+      "word": "赵丽颖工作室回应百花奖提名",
+      "onboard_time": 1719912017,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205651,
       "num": 205651,
       "word": "猫咪陪男生全程读研后老师为它拨穗",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1719889519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "荷兰70岁夫妇接受双人安乐死",
+      "onboard_time": 1719909859,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199988,
@@ -4083,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181484,
+      "num": 181484,
+      "word": "红豆生南国 裴相是男模",
+      "onboard_time": 1719911297,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -4097,6 +4145,14 @@
       "onboard_time": 1719798738,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180476,
+      "num": 180476,
+      "word": "警方通报业主砍断高空工人安全绳",
+      "onboard_time": 1719909497,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180428,
@@ -4243,6 +4299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172303,
+      "num": 172303,
+      "word": "王一博零碎片段",
+      "onboard_time": 1719910760,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171610,
       "num": 160758,
       "word": "父亲因不满志愿填报殴打女儿",
@@ -4316,7 +4380,7 @@
     },
     {
       "raw_hot": 168353,
-      "num": 151006,
+      "num": 164510,
       "word": "钱给的足够多 管理都叫严肃的爱",
       "onboard_time": 1719908058,
       "rank": 36,
@@ -4569,6 +4633,22 @@
       "onboard_time": 1719821358,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156937,
+      "num": 156937,
+      "word": "赵昭仪正是容易饿的年纪",
+      "onboard_time": 1719909618,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156772,
+      "num": 156772,
+      "word": "icon力挺JackeyLove",
+      "onboard_time": 1719911538,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 156683,
@@ -6355,6 +6435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98204,
+      "num": 98204,
+      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
+      "onboard_time": 1719911899,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98067,
       "num": 98067,
       "word": "NBA自由市场",
@@ -6931,6 +7019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64429,
+      "num": 341595,
+      "word": "河南大旱中无奈的种植大户",
+      "onboard_time": 1719910820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64401,
       "num": 64401,
       "word": "孙颖莎想和埃菲尔铁塔合影",
@@ -7241,6 +7337,14 @@
       "onboard_time": 1719743898,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40304,
+      "num": 164114,
+      "word": "年轻人买车更看重什么",
+      "onboard_time": 1719911058,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 39563,
