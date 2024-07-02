@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719890488567,
+  "endTime": 1719891364577,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -123,20 +123,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1495228,
+      "num": 845877,
+      "word": "张志杰队医因未经裁判允许没有进场",
+      "onboard_time": 1719884777,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1490102,
       "num": 1490102,
       "word": "河南官方回应火箭起火坠落",
       "onboard_time": 1719742157,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1475000,
-      "num": 845877,
-      "word": "张志杰队医因未经裁判允许没有进场",
-      "onboard_time": 1719884777,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1469824,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1198960,
+      "num": 1198960,
+      "word": "小红书崩了",
+      "onboard_time": 1719887898,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1186600,
       "num": 1175426,
       "word": "李一桐 蜈蚣",
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1108801,
-      "num": 1108801,
-      "word": "小红书崩了",
-      "onboard_time": 1719887898,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1100708,
       "num": 1100708,
       "word": "女子错转226万元陌生阿姨全退回",
@@ -329,6 +329,14 @@
       "onboard_time": 1719730816,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980456,
+      "num": 980456,
+      "word": "黄子韬要和徐艺洋一起去卫生间",
+      "onboard_time": 1719890117,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 974264,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 909290,
-      "num": 240115,
+      "num": 253732,
       "word": "突然搞不懂订婚的意义了",
       "onboard_time": 1719876616,
       "rank": 16,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 819804,
+      "num": 819804,
+      "word": "贾玲再次导演影后双提百花奖",
+      "onboard_time": 1719888138,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 817510,
       "num": 555883,
       "word": "王星越疑似改年龄",
@@ -579,12 +595,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 788865,
-      "num": 788865,
-      "word": "贾玲再次导演影后双提百花奖",
-      "onboard_time": 1719888138,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 758079,
+      "num": 758079,
+      "word": "郑爽未履行金额超1.2亿",
+      "onboard_time": 1719888740,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 755059,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 750543,
-      "num": 750543,
+      "num": 831017,
       "word": "公积金年度结息",
       "onboard_time": 1719885378,
       "rank": 7,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 739319,
-      "num": 245561,
+      "num": 271400,
       "word": "爸爸花了两千给弟弟填的志愿",
       "onboard_time": 1719884718,
       "rank": 20,
@@ -963,16 +979,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589429,
-      "num": 390178,
-      "word": "郑爽未履行金额超1.2亿",
-      "onboard_time": 1719888740,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 589287,
-      "num": 244415,
+      "num": 268556,
       "word": "当一个人朋友圈很干净时",
       "onboard_time": 1719883038,
       "rank": 31,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 523136,
-      "num": 241327,
+      "num": 266120,
       "word": "iPhone16Pro屏幕有重大升级",
       "onboard_time": 1719883397,
       "rank": 22,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1719877277,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 505990,
+      "num": 429588,
+      "word": "徐艺洋 老板就能上我卫生间吗",
+      "onboard_time": 1719890598,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 504297,
@@ -1379,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478370,
+      "num": 438467,
+      "word": "沈腾马丽新片提档",
+      "onboard_time": 1719889220,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 474506,
       "num": 474506,
       "word": "彩虹",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1719840379,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464395,
-      "num": 438467,
-      "word": "沈腾马丽新片提档",
-      "onboard_time": 1719889220,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 464153,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1719875296,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429351,
+      "num": 429351,
+      "word": "呷哺呷哺创始人回应3年亏8亿",
+      "onboard_time": 1719885857,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429011,
@@ -2043,20 +2067,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337102,
-      "num": 337102,
-      "word": "呷哺呷哺创始人回应3年亏8亿",
-      "onboard_time": 1719885857,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332581,
       "num": 332581,
       "word": "上海60岁阿姨暴雨送别伊势丹百货",
       "onboard_time": 1719749237,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332309,
+      "num": 263677,
+      "word": "肖战玉骨遥新海报",
+      "onboard_time": 1719890178,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 332156,
@@ -2115,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323004,
+      "num": 323004,
+      "word": "恋与深空崩了",
+      "onboard_time": 1719889397,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319989,
       "num": 319989,
       "word": "张杰脱衣服和掉话筒的反差感",
@@ -2153,14 +2185,6 @@
       "onboard_time": 1719743297,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316023,
-      "num": 316023,
-      "word": "黄子韬要和徐艺洋一起去卫生间",
-      "onboard_time": 1719890117,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 315630,
@@ -2499,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259697,
+      "num": 259697,
+      "word": "出道战 剧本",
+      "onboard_time": 1719889878,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259373,
       "num": 259373,
       "word": "张艺兴首尔演唱会vlog",
@@ -2659,14 +2691,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 246426,
-      "num": 246426,
-      "word": "恋与深空崩了",
-      "onboard_time": 1719889397,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 245375,
       "num": 245375,
       "word": "郑恺海岛新家",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1719738557,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242977,
+      "num": 242977,
+      "word": "男生游戏充7千爸爸带着搬钢管",
+      "onboard_time": 1719886578,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241389,
@@ -2787,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233542,
-      "num": 233542,
-      "word": "肖战玉骨遥新海报",
-      "onboard_time": 1719890178,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232794,
       "num": 232794,
       "word": "F1",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1719788895,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226103,
+      "num": 226103,
+      "word": "百花奖最佳女主提名",
+      "onboard_time": 1719888978,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 225688,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217547,
-      "num": 217546,
-      "word": "出道战 剧本",
-      "onboard_time": 1719889878,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 217473,
@@ -3115,14 +3139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204854,
-      "num": 204854,
-      "word": "男生游戏充7千爸爸带着搬钢管",
-      "onboard_time": 1719886578,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204603,
       "num": 204603,
       "word": "严浩翔出场方式好city",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1719798497,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204445,
+      "num": 204445,
+      "word": "在聚餐的男朋友突然给我发晚安",
+      "onboard_time": 1719890000,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 204355,
@@ -3339,6 +3363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195031,
+      "num": 195031,
+      "word": "柯南30周年纪念展来上海了",
+      "onboard_time": 1719890358,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194935,
       "num": 194935,
       "word": "吴谨言下一部剧还是古偶",
@@ -3385,14 +3417,6 @@
       "onboard_time": 1719743478,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192572,
-      "num": 192572,
-      "word": "柯南30周年纪念展来上海了",
-      "onboard_time": 1719890358,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 192495,
@@ -3715,14 +3739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175353,
-      "num": 175353,
-      "word": "在聚餐的男朋友突然给我发晚安",
-      "onboard_time": 1719890000,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175231,
       "num": 175231,
       "word": "3类运动容易引发运动性猝死",
@@ -3747,6 +3763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172679,
+      "num": 172679,
+      "word": "男朋友带父母参观我买的房子",
+      "onboard_time": 1719890178,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171610,
       "num": 160758,
       "word": "父亲因不满志愿填报殴打女儿",
@@ -3763,20 +3787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170993,
-      "num": 170993,
-      "word": "百花奖最佳女主提名",
-      "onboard_time": 1719888978,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "千万不要随便在白纸上签字",
       "onboard_time": 1719722597,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170648,
+      "num": 170648,
+      "word": "绝区零内存",
+      "onboard_time": 1719889820,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 169618,
@@ -3833,14 +3857,6 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166272,
-      "num": 166272,
-      "word": "绝区零内存",
-      "onboard_time": 1719889820,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 165729,
@@ -4123,14 +4139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 152015,
-      "num": 152015,
-      "word": "男朋友带父母参观我买的房子",
-      "onboard_time": 1719890178,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151992,
       "num": 151992,
       "word": "范志毅说要谨言慎行",
@@ -4248,6 +4256,14 @@
       "word": "黑龙江一小客车单方事故致5死12伤",
       "onboard_time": 1719722118,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147405,
+      "num": 245952,
+      "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
+      "onboard_time": 1719889637,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130378,
+      "num": 130378,
+      "word": "初瑞雪 蛋蛋",
+      "onboard_time": 1719891319,
+      "rank": 47,
+      "category": "网红,美妆"
+    },
+    {
       "raw_hot": 130203,
       "num": 139895,
       "word": "范丞丞工作室发布声明",
@@ -4857,6 +4881,14 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126900,
+      "num": 126900,
+      "word": "天水麻辣烫表情哥回应流量下滑",
+      "onboard_time": 1719891319,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 126498,
@@ -5595,14 +5627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100467,
-      "num": 245952,
-      "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
-      "onboard_time": 1719889637,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100184,
       "num": 100184,
       "word": "汪苏泷7月除了歌手还有4场巡演",
@@ -5625,6 +5649,14 @@
       "onboard_time": 1719708496,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98591,
+      "num": 1126846,
+      "word": "60秒带你环游哈萨克斯坦",
+      "onboard_time": 1719889338,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98067,
@@ -6073,14 +6105,6 @@
       "onboard_time": 1719855016,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74457,
-      "num": 1126846,
-      "word": "60秒带你环游哈萨克斯坦",
-      "onboard_time": 1719889338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73347,
@@ -6803,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24310,
+      "num": 430477,
+      "word": "世界大多数郁金香品种源自这国",
+      "onboard_time": 1719891019,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 24092,
       "num": 48403,
       "word": "武磊今晚天神下凡",
@@ -6849,6 +6881,14 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20713,
+      "num": 226792,
+      "word": "韩国幼儿园老师吐槽学生家长太笨",
+      "onboard_time": 1719891080,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19032,
