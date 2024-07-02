@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719933591998,
+  "endTime": 1719934504364,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625152,
+      "num": 385445,
+      "word": "Angelababy颈部线条",
+      "onboard_time": 1719930260,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 624868,
       "num": 501110,
       "word": "于正 死也要二搭三搭四搭",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606053,
-      "num": 385445,
-      "word": "Angelababy颈部线条",
-      "onboard_time": 1719930260,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 605416,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1719709817,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533539,
+      "num": 533539,
+      "word": "爸爸把女儿第一次上学拍成了纪录片",
+      "onboard_time": 1719931280,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 532668,
@@ -2281,14 +2289,6 @@
       "onboard_time": 1719905058,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 383699,
-      "num": 383699,
-      "word": "爸爸把女儿第一次上学拍成了纪录片",
-      "onboard_time": 1719931280,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 383293,
@@ -3475,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237317,
+      "num": 225863,
+      "word": "自行车撞上迈巴赫",
+      "onboard_time": 1719931760,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237121,
       "num": 237121,
       "word": "福宝闻花",
@@ -3608,14 +3616,6 @@
       "word": "鞠婧祎郭敬明或将合作",
       "onboard_time": 1719788895,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225863,
-      "num": 225863,
-      "word": "自行车撞上迈巴赫",
-      "onboard_time": 1719931760,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -4089,6 +4089,14 @@
       "onboard_time": 1719759739,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199584,
+      "num": 199584,
+      "word": "许凯知道自己在撬墙角赛道",
+      "onboard_time": 1719933318,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 199292,
@@ -5315,6 +5323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151329,
+      "num": 151329,
+      "word": "赵今麦撒娇",
+      "onboard_time": 1719932180,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151300,
       "num": 151300,
       "word": "新赛道又给深圳卫健委闯进去了",
@@ -5827,14 +5843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136767,
-      "num": 136767,
-      "word": "许凯知道自己在撬墙角赛道",
-      "onboard_time": 1719933318,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136518,
       "num": 136518,
       "word": "于适也太会表白了",
@@ -6033,14 +6041,6 @@
       "onboard_time": 1719815418,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133020,
-      "num": 117402,
-      "word": "赵今麦撒娇",
-      "onboard_time": 1719932180,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 132909,
@@ -6716,7 +6716,7 @@
     },
     {
       "raw_hot": 114711,
-      "num": 114711,
+      "num": 117066,
       "word": "我韩廷就站这看谁敢欺负纪星",
       "onboard_time": 1719932180,
       "rank": 37,
@@ -6956,7 +6956,7 @@
     },
     {
       "raw_hot": 108303,
-      "num": 108303,
+      "num": 117140,
       "word": "多方回应张志杰事件",
       "onboard_time": 1719931640,
       "rank": 38,
@@ -7689,6 +7689,14 @@
       "onboard_time": 1719853095,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77549,
+      "num": 117039,
+      "word": "杜海涛镜头下的金靖",
+      "onboard_time": 1719933920,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77414,
@@ -8763,19 +8771,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11389,
+      "num": 424736,
+      "word": "神十八乘组将择机第2次出舱",
+      "onboard_time": 1719908956,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10601,
       "num": 35611,
       "word": "退役警犬三步一回头告别训导员",
       "onboard_time": 1719762018,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10220,
-      "num": 388733,
-      "word": "神十八乘组将择机第2次出舱",
-      "onboard_time": 1719908956,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
