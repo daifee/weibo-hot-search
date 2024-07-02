@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719937555323,
+  "endTime": 1719938447575,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -2427,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365414,
+      "num": 365414,
+      "word": "野孩子",
+      "onboard_time": 1719935537,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362161,
       "num": 362161,
       "word": "新西兰被袭中国留学生发声",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1719728358,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275452,
-      "num": 275452,
-      "word": "野孩子",
-      "onboard_time": 1719935537,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 273647,
@@ -7555,8 +7555,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 87699,
-      "num": 87699,
+      "raw_hot": 87834,
+      "num": 87834,
       "word": "罗马尼亚vs荷兰",
       "onboard_time": 1719935838,
       "rank": 36,
@@ -8539,6 +8539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29654,
+      "num": 90394,
+      "word": "哈萨克斯坦小女孩和康辉聊天好丝滑",
+      "onboard_time": 1719937097,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29595,
       "num": 330366,
       "word": "当杭州市歌遇上了烟雨江南",
@@ -8672,14 +8680,6 @@
       "word": "白乌边境地区局势紧张",
       "onboard_time": 1719738678,
       "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 22693,
-      "num": 88379,
-      "word": "哈萨克斯坦小女孩和康辉聊天好丝滑",
-      "onboard_time": 1719937097,
-      "rank": 35,
       "category": "国外时政"
     },
     {
