@@ -1,0 +1,410 @@
+{
+  "runTime": 1719884578642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263917,
+        "num": 1263917,
+        "word": "爱奇艺被判补偿41天黄金VIP会员",
+        "onboard_time": 1719878298,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 848241,
+        "num": 848241,
+        "word": "天水麻辣烫真的不火了吗",
+        "onboard_time": 1719879020,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36368,
+        "num": 824683,
+        "word": "我们向前中国向上",
+        "onboard_time": 1719844461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808166,
+        "num": 808166,
+        "word": "人口出生率今年或迎小阳春",
+        "onboard_time": 1719882557,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 582033,
+        "num": 582033,
+        "word": "央视总台发了肖战",
+        "onboard_time": 1719878177,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445686,
+        "num": 445686,
+        "word": "这样干一天我得休一个星期",
+        "onboard_time": 1719877457,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436560,
+        "num": 436560,
+        "word": "空调长期不洗男子肺部感染险丧命",
+        "onboard_time": 1719865212,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394674,
+        "num": 394674,
+        "word": "高瀚宇带马立奥腿都走烂了",
+        "onboard_time": 1719877396,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330763,
+        "num": 330763,
+        "word": "C罗说这是我最后一届欧洲杯",
+        "onboard_time": 1719877876,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29595,
+        "num": 330366,
+        "word": "当杭州市歌遇上了烟雨江南",
+        "onboard_time": 1719884236,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 988924,
+        "num": 325990,
+        "word": "张志杰妈妈听到噩耗后病倒住院",
+        "onboard_time": 1719874993,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595767,
+        "num": 323001,
+        "word": "李敏镐肿了",
+        "onboard_time": 1719846380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481715,
+        "num": 317006,
+        "word": "张志杰姨夫发声",
+        "onboard_time": 1719877277,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316480,
+        "num": 316480,
+        "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+        "onboard_time": 1719845059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290391,
+        "num": 290391,
+        "word": "正在变老的明显特征是什么",
+        "onboard_time": 1719877277,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268871,
+        "num": 268871,
+        "word": "迪丽热巴十八岁就认识辛芷蕾了",
+        "onboard_time": 1719883938,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236336,
+        "num": 236336,
+        "word": "C罗哭了",
+        "onboard_time": 1719875296,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212499,
+        "num": 212499,
+        "word": "金硕珍担任巴黎奥运会火炬手",
+        "onboard_time": 1719884476,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 206926,
+        "num": 206926,
+        "word": "官方回应吃播卤羊头内吃出草",
+        "onboard_time": 1719863471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190418,
+        "num": 190418,
+        "word": "欧阳龙嘴对嘴亲欧阳妮妮",
+        "onboard_time": 1719837138,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681513,
+        "num": 188813,
+        "word": "突然搞不懂订婚的意义了",
+        "onboard_time": 1719876616,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473117,
+        "num": 185282,
+        "word": "当一个人朋友圈很干净时",
+        "onboard_time": 1719883038,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366213,
+        "num": 185043,
+        "word": "iPhone16Pro屏幕有重大升级",
+        "onboard_time": 1719883397,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352396,
+        "num": 180680,
+        "word": "长期熬夜会增加身体核心器官负担",
+        "onboard_time": 1719853932,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277842,
+        "num": 179371,
+        "word": "年轻人网贷8千债务变8万",
+        "onboard_time": 1719883518,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177035,
+        "num": 177035,
+        "word": "医院认定死亡后中国羽协仍尝试转院",
+        "onboard_time": 1719832578,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176849,
+        "num": 176849,
+        "word": "第一次见男二不爱女主爱发疯的",
+        "onboard_time": 1719838100,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169306,
+        "num": 169306,
+        "word": "韩国为迎接中国游客整顿倾销旅游",
+        "onboard_time": 1719883639,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "Angelababy庆祝香港回归27周年",
+        "onboard_time": 1719849918,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151300,
+        "num": 151300,
+        "word": "新赛道又给深圳卫健委闯进去了",
+        "onboard_time": 1719883697,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146917,
+        "num": 146917,
+        "word": "跳舞对身材能有多大改变",
+        "onboard_time": 1719878357,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146193,
+        "num": 146193,
+        "word": "林小宅全新演员公示照",
+        "onboard_time": 1719881479,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144227,
+        "num": 144227,
+        "word": "去面试时只有自己穿了正装",
+        "onboard_time": 1719876555,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141276,
+        "num": 141276,
+        "word": "情侣同居不同房是怎样的",
+        "onboard_time": 1719837798,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137431,
+        "num": 137431,
+        "word": "优酷宠爱剧场升级生花剧场",
+        "onboard_time": 1719882077,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135025,
+        "num": 135025,
+        "word": "克莱被交易至独行侠",
+        "onboard_time": 1719875235,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56687,
+        "num": 134808,
+        "word": "77岁阿伯大老远去早市给女儿买花",
+        "onboard_time": 1719882377,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134804,
+        "num": 134804,
+        "word": "千万不要在街边座位上睡着了",
+        "onboard_time": 1719879378,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132128,
+        "num": 132128,
+        "word": "特斯拉市值一夜大涨近2800亿元",
+        "onboard_time": 1719877036,
+        "rank": 38,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 125563,
+        "word": "一放暑假8个外甥又来了",
+        "onboard_time": 1719878658,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122017,
+        "num": 122017,
+        "word": "姨夫称张志杰无心脏病史",
+        "onboard_time": 1719880757,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119962,
+        "num": 119962,
+        "word": "突然发现了韩国文化的精髓",
+        "onboard_time": 1719877036,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116914,
+        "num": 116914,
+        "word": "iPhoneX被列为过时产品",
+        "onboard_time": 1719884417,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115685,
+        "num": 115685,
+        "word": "姆巴佩面具",
+        "onboard_time": 1719878539,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114582,
+        "num": 114582,
+        "word": "佩佩失误",
+        "onboard_time": 1719878658,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113999,
+        "num": 113999,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719879319,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113187,
+        "num": 113187,
+        "word": "葡萄牙3比0斯洛文尼亚",
+        "onboard_time": 1719875296,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112077,
+        "num": 112077,
+        "word": "4人带宠物狗进熊猫基地被终身禁入",
+        "onboard_time": 1719884537,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109966,
+        "num": 109966,
+        "word": "31马赫",
+        "onboard_time": 1719880159,
+        "rank": 48,
+        "category": "科学科普,国内时政"
+      },
+      {
+        "raw_hot": 107957,
+        "num": 107957,
+        "word": "葡萄牙门将点球大战三连扑",
+        "onboard_time": 1719875834,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719883302833,
+  "endTime": 1719884578642,
   "band_list": [
     {
       "raw_hot": 1469173,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848241,
+      "num": 848241,
+      "word": "天水麻辣烫真的不火了吗",
+      "onboard_time": 1719879020,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 817441,
       "num": 817441,
       "word": "葡萄牙",
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808166,
+      "num": 808166,
+      "word": "人口出生率今年或迎小阳春",
+      "onboard_time": 1719882557,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 695254,
       "num": 485776,
       "word": "女子穿JK遭2男生偷拍嘲讽还直播",
       "onboard_time": 1719845059,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691367,
-      "num": 691367,
-      "word": "天水麻辣烫真的不火了吗",
-      "onboard_time": 1719879020,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 655092,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582033,
+      "num": 582033,
+      "word": "央视总台发了肖战",
+      "onboard_time": 1719878177,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532172,
       "num": 249503,
       "word": "医院认定死亡后中国羽协仍尝试转院",
       "onboard_time": 1719832578,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523854,
-      "num": 523854,
-      "word": "央视总台发了肖战",
-      "onboard_time": 1719878177,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 506164,
@@ -123,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473117,
+      "num": 185282,
+      "word": "当一个人朋友圈很干净时",
+      "onboard_time": 1719883038,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 468999,
       "num": 218814,
       "word": "欧阳龙嘴对嘴亲欧阳妮妮",
@@ -145,6 +161,14 @@
       "onboard_time": 1719838100,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436560,
+      "num": 436560,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432391,
@@ -179,12 +203,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 359683,
-      "num": 359683,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 366213,
+      "num": 185043,
+      "word": "iPhone16Pro屏幕有重大升级",
+      "onboard_time": 1719883397,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 354130,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290391,
+      "num": 290391,
+      "word": "正在变老的明显特征是什么",
+      "onboard_time": 1719877277,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289843,
       "num": 122947,
       "word": "林生斌",
@@ -251,12 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279677,
-      "num": 279677,
-      "word": "正在变老的明显特征是什么",
-      "onboard_time": 1719877277,
+      "raw_hot": 277842,
+      "num": 179371,
+      "word": "年轻人网贷8千债务变8万",
+      "onboard_time": 1719883518,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268871,
+      "num": 268871,
+      "word": "迪丽热巴十八岁就认识辛芷蕾了",
+      "onboard_time": 1719883938,
       "rank": 15,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 249301,
@@ -289,6 +329,14 @@
       "onboard_time": 1719841880,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212499,
+      "num": 212499,
+      "word": "金硕珍担任巴黎奥运会火炬手",
+      "onboard_time": 1719884476,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 202025,
@@ -331,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181946,
-      "num": 181946,
-      "word": "人口出生率今年或迎小阳春",
-      "onboard_time": 1719882557,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 180428,
       "num": 180428,
       "word": "千万不要在街边座位上睡着了",
@@ -371,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169306,
+      "num": 169306,
+      "word": "韩国为迎接中国游客整顿倾销旅游",
+      "onboard_time": 1719883639,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "特斯拉市值一夜大涨近2800亿元",
@@ -395,14 +443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 160959,
-      "num": 160959,
-      "word": "当一个人朋友圈很干净时",
-      "onboard_time": 1719883038,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159017,
       "num": 159017,
       "word": "林小宅全新演员公示照",
@@ -417,6 +457,14 @@
       "onboard_time": 1719843259,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "新赛道又给深圳卫健委闯进去了",
+      "onboard_time": 1719883697,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147008,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116914,
+      "num": 116914,
+      "word": "iPhoneX被列为过时产品",
+      "onboard_time": 1719884417,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "檀健次真的是天选相柳",
@@ -537,6 +593,14 @@
       "onboard_time": 1719882798,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112077,
+      "num": 112077,
+      "word": "4人带宠物狗进熊猫基地被终身禁入",
+      "onboard_time": 1719884537,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111439,
@@ -851,7 +915,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52454,
+      "raw_hot": 56687,
       "num": 359588,
       "word": "77岁阿伯大老远去早市给女儿买花",
       "onboard_time": 1719882377,
@@ -876,7 +940,7 @@
     },
     {
       "raw_hot": 43451,
-      "num": 670014,
+      "num": 824683,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
@@ -921,6 +985,14 @@
       "onboard_time": 1719789255,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29595,
+      "num": 330366,
+      "word": "当杭州市歌遇上了烟雨江南",
+      "onboard_time": 1719884236,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 26725,
