@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719958722129,
+  "endTime": 1719959742485,
   "band_list": [
     {
       "raw_hot": 922142,
@@ -91,20 +91,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 311175,
+      "num": 311175,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234893,
       "num": 234893,
       "word": "戚薇李承铉真夫妻杀回来了",
       "onboard_time": 1719923898,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234815,
-      "num": 234815,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207525,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 111195,
-      "num": 64592,
+      "num": 85384,
       "word": "甘肃163名矿工被拖欠3000万工资",
       "onboard_time": 1719939735,
       "rank": 30,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36680,
+      "num": 36680,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36624,
       "num": 36624,
       "word": "鹿晗银发蓝毛衣",
@@ -435,28 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36191,
-      "num": 36191,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31129,
-      "num": 31129,
-      "word": "贺军翔回应性骚扰指控",
-      "onboard_time": 1719944292,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29815,
-      "num": 29815,
+      "raw_hot": 36009,
+      "num": 36009,
       "word": "江浙沪朋友们最近出门的样子",
       "onboard_time": 1719949031,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31333,
+      "num": 31333,
+      "word": "贺军翔回应性骚扰指控",
+      "onboard_time": 1719944292,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 29654,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26489,
+      "num": 26489,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25969,
       "num": 25969,
       "word": "沈月敢编王子奇敢信",
@@ -491,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24741,
-      "num": 24741,
-      "word": "抽血为啥要用五颜六色的试管",
-      "onboard_time": 1719952270,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23306,
-      "num": 23306,
+      "raw_hot": 25542,
+      "num": 25542,
       "word": "军校毕业大考也太硬核了",
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 25081,
+      "num": 25081,
+      "word": "抽血为啥要用五颜六色的试管",
+      "onboard_time": 1719952270,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21720,
@@ -513,14 +521,6 @@
       "onboard_time": 1719927558,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21082,
-      "num": 21082,
-      "word": "杨紫带piupiu直播",
-      "onboard_time": 1719949751,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 15190,
@@ -547,8 +547,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 9083,
-      "num": 66408,
+      "raw_hot": 9381,
+      "num": 92534,
       "word": "重庆大瓣荷花带来翻倍的莲莲好运",
       "onboard_time": 1719949271,
       "rank": 17,
@@ -579,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2712,
-      "num": 138461,
+      "raw_hot": 3197,
+      "num": 204307,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 2,
