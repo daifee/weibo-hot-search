@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719938447575,
+  "endTime": 1719940686371,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561620,
+      "num": 561620,
+      "word": "野孩子",
+      "onboard_time": 1719935537,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557668,
       "num": 557668,
       "word": "刘德华 格格不入",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1719801018,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365414,
-      "num": 365414,
-      "word": "野孩子",
-      "onboard_time": 1719935537,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 362161,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1719789314,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202464,
+      "num": 119735,
+      "word": "马立奥 见鬼了马杨",
+      "onboard_time": 1719939435,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 202387,
@@ -5267,19 +5275,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88250,
+      "num": 88250,
+      "word": "罗马尼亚vs荷兰",
+      "onboard_time": 1719935838,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87968,
       "num": 87968,
       "word": "科斯塔连扑三点",
       "onboard_time": 1719875834,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87834,
-      "num": 87834,
-      "word": "罗马尼亚vs荷兰",
-      "onboard_time": 1719935838,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -5459,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62532,
+      "num": 62532,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61180,
       "num": 103342,
       "word": "杭州跑男要去参加巴黎奥运会了",
@@ -5537,6 +5553,14 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 50246,
+      "num": 56706,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 48538,
@@ -5889,6 +5913,14 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21689,
+      "num": 56612,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20713,
