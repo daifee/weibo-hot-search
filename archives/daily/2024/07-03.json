@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719948866086,
+  "endTime": 1719951702339,
   "band_list": [
     {
       "raw_hot": 922142,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58785,
+      "num": 58785,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56691,
       "num": 82101,
       "word": "酒霉酒霉 漂亮的霉霉",
@@ -409,14 +417,6 @@
       "onboard_time": 1719915617,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45572,
-      "num": 54748,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39177,
@@ -475,12 +475,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22474,
+      "num": 22474,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719949031,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21720,
       "num": 323259,
       "word": "夏日流萤一键开启童话世界",
       "onboard_time": 1719927558,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 17747,
+      "num": 18448,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16069,
+      "num": 18437,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 15190,
@@ -491,20 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13142,
-      "num": 18448,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
+      "raw_hot": 13241,
+      "num": 15418,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12865,
-      "num": 18437,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
+      "category": "艺人"
     },
     {
       "raw_hot": 10373,
@@ -521,6 +537,14 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 8408,
+      "num": 40324,
+      "word": "这场交警和学生的雨伞接力好暖心",
+      "onboard_time": 1719951130,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6640,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719948866086,
+  "endTime": 1719951702339,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -8027,6 +8027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58785,
+      "num": 58785,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58698,
       "num": 64001,
       "word": "恋爱脑的本质是注意力的失控",
@@ -8216,14 +8224,6 @@
       "word": "在且末二十四年",
       "onboard_time": 1719749540,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45572,
-      "num": 54748,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -8827,12 +8827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17747,
+      "num": 18448,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16468,
       "num": 135871,
       "word": "大熊猫压马路松弛感拉满",
       "onboard_time": 1719904698,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16069,
+      "num": 18437,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 15408,
@@ -8891,12 +8907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13142,
-      "num": 18448,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
+      "raw_hot": 13241,
+      "num": 15418,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 13038,
@@ -8913,14 +8929,6 @@
       "onboard_time": 1719713536,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12865,
-      "num": 18437,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 12338,
@@ -8985,6 +8993,14 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 8408,
+      "num": 40324,
+      "word": "这场交警和学生的雨伞接力好暖心",
+      "onboard_time": 1719951130,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7131,
