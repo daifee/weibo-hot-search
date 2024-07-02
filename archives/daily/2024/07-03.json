@@ -1,14 +1,30 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719962333854,
+  "endTime": 1719963339884,
   "band_list": [
     {
+      "raw_hot": 1164275,
+      "num": 232974,
+      "word": "甜馨维护贾乃亮",
+      "onboard_time": 1719962596,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 922142,
-      "num": 117868,
+      "num": 130883,
       "word": "菲律宾绑架中国人已成黑色产业链",
       "onboard_time": 1719928700,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710334,
+      "num": 130935,
+      "word": "麻辣王子工厂停工",
+      "onboard_time": 1719962054,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 659774,
@@ -19,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565305,
-      "num": 565305,
+      "raw_hot": 578832,
+      "num": 578832,
       "word": "短短5秒却救了2个家庭",
       "onboard_time": 1719941054,
       "rank": 29,
@@ -41,6 +57,14 @@
       "onboard_time": 1719930799,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488449,
+      "num": 488449,
+      "word": "肚子4个表现多半是癌细胞露出了马脚",
+      "onboard_time": 1719926058,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 481372,
@@ -75,28 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 408182,
-      "num": 408182,
-      "word": "肚子4个表现多半是癌细胞露出了马脚",
-      "onboard_time": 1719926058,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 391926,
       "num": 391926,
       "word": "爱奇艺把在线人数关了",
       "onboard_time": 1719924979,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 334948,
-      "num": 94834,
-      "word": "麻辣王子工厂停工",
-      "onboard_time": 1719962054,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 331727,
@@ -107,6 +115,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 280007,
+      "num": 280007,
+      "word": "江苏一男子携带人皮面具盗窃近20次",
+      "onboard_time": 1719928758,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251573,
+      "num": 251573,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234893,
       "num": 234893,
       "word": "戚薇李承铉真夫妻杀回来了",
@@ -115,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211163,
-      "num": 211163,
-      "word": "江苏一男子携带人皮面具盗窃近20次",
-      "onboard_time": 1719928758,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 215970,
+      "num": 215970,
+      "word": "英国转播方字幕羞辱C罗",
+      "onboard_time": 1719961695,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 207525,
@@ -145,14 +169,6 @@
       "onboard_time": 1719922398,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196669,
-      "num": 196669,
-      "word": "甘肃163名矿工被拖欠3000万工资",
-      "onboard_time": 1719939735,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186411,
@@ -204,11 +220,27 @@
     },
     {
       "raw_hot": 155040,
-      "num": 115425,
+      "num": 128720,
       "word": "全班都能上985老师们嘴角压不住了",
       "onboard_time": 1719934819,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151387,
+      "num": 151387,
+      "word": "赛力斯拟25亿收购问界商标专利",
+      "onboard_time": 1719962235,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "上海辟谣跟佛祖借了100亿元",
+      "onboard_time": 1719921739,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144876,
@@ -220,19 +252,51 @@
     },
     {
       "raw_hot": 133198,
-      "num": 100535,
+      "num": 130802,
       "word": "网红乔老师疑剽窃未成年视频卖课",
       "onboard_time": 1719924258,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118385,
-      "num": 118385,
-      "word": "上海辟谣跟佛祖借了100亿元",
-      "onboard_time": 1719921739,
-      "rank": 19,
+      "raw_hot": 132823,
+      "num": 132823,
+      "word": "长相思2看片会",
+      "onboard_time": 1719962896,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124713,
+      "num": 244062,
+      "word": "好学小孩哥在地铁上被北大博导收徒",
+      "onboard_time": 1719962235,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121409,
+      "num": 121409,
+      "word": "刘亦菲唐嫣合照再加一",
+      "onboard_time": 1719962416,
+      "rank": 24,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 120059,
+      "num": 120059,
+      "word": "欧洲杯八强出炉",
+      "onboard_time": 1719962296,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114286,
+      "num": 114286,
+      "word": "这和亲了一口张凌赫有啥区别",
+      "onboard_time": 1719962356,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 113681,
@@ -267,20 +331,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105539,
+      "num": 105539,
+      "word": "为什么医生打针前都要滋掉一点药水",
+      "onboard_time": 1719962235,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104478,
       "num": 104478,
       "word": "罗马尼亚vs荷兰",
       "onboard_time": 1719935838,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104259,
-      "num": 118670,
-      "word": "好学小孩哥在地铁上被北大博导收徒",
-      "onboard_time": 1719962235,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100885,
@@ -299,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95515,
-      "num": 95515,
-      "word": "英国转播方字幕羞辱C罗",
-      "onboard_time": 1719961695,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 94851,
+      "num": 94851,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 93275,
@@ -315,12 +379,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92851,
+      "num": 92851,
+      "word": "奥地利1比2土耳其",
+      "onboard_time": 1719961995,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91242,
+      "num": 91242,
+      "word": "下半年双子座运势要飞升",
+      "onboard_time": 1719962174,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89131,
+      "num": 89131,
+      "word": "哮天犬扮演者陈创否认接受打赏",
+      "onboard_time": 1719921918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89088,
       "num": 89088,
       "word": "英伟达老员工大多成百万富翁",
       "onboard_time": 1719934518,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86997,
+      "num": 86997,
+      "word": "李凯尔加盟勇士",
+      "onboard_time": 1719963136,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 84259,
@@ -331,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83254,
+      "num": 83254,
+      "word": "iPhone16或全系采用A18芯片",
+      "onboard_time": 1719962476,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82149,
       "num": 82149,
       "word": "疱疹性咽峡炎高发季",
@@ -339,20 +443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 81036,
-      "num": 81036,
-      "word": "赛力斯拟25亿收购问界商标专利",
-      "onboard_time": 1719962235,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 80974,
-      "num": 80974,
-      "word": "减脂期这六种食物一定要避雷",
-      "onboard_time": 1719939374,
-      "rank": 34,
-      "category": "运动健身"
+      "raw_hot": 80845,
+      "num": 80845,
+      "word": "形容一个人干净是很高级的表扬",
+      "onboard_time": 1719962596,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 75589,
@@ -379,12 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70102,
-      "num": 82130,
-      "word": "哮天犬扮演者陈创否认接受打赏",
-      "onboard_time": 1719921918,
+      "raw_hot": 69689,
+      "num": 69689,
+      "word": "眼科医生眼里最毁眼睛的十个动作",
+      "onboard_time": 1719962476,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65534,
+      "num": 65534,
+      "word": "土耳其晋级欧洲杯8强",
+      "onboard_time": 1719962596,
       "rank": 41,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 65395,
@@ -395,12 +499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64444,
-      "num": 64444,
-      "word": "下半年双子座运势要飞升",
-      "onboard_time": 1719962174,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 64729,
+      "num": 64729,
+      "word": "罗马尼亚0比3荷兰",
+      "onboard_time": 1719961995,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 63405,
@@ -435,19 +539,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60973,
-      "num": 60973,
-      "word": "奥地利1比2土耳其",
-      "onboard_time": 1719961995,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58530,
-      "num": 58530,
+      "raw_hot": 61271,
+      "num": 61271,
       "word": "美国男子枪击邻居一家七口后自杀",
       "onboard_time": 1719948611,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60722,
+      "num": 60722,
+      "word": "aespa MV预告",
+      "onboard_time": 1719963196,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 60558,
+      "num": 60558,
+      "word": "官方通报4人被终身禁入熊猫基地",
+      "onboard_time": 1719963316,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -475,28 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47637,
-      "num": 47637,
-      "word": "罗马尼亚0比3荷兰",
-      "onboard_time": 1719961995,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47565,
       "num": 48050,
       "word": "江浙沪朋友们最近出门的样子",
       "onboard_time": 1719949031,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46258,
-      "num": 46258,
-      "word": "为什么医生打针前都要滋掉一点药水",
-      "onboard_time": 1719962235,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 44332,
@@ -521,14 +617,6 @@
       "onboard_time": 1719941893,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41024,
-      "num": 41024,
-      "word": "欧洲杯八强出炉",
-      "onboard_time": 1719962296,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 39177,
@@ -651,8 +739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5008,
-      "num": 359895,
+      "raw_hot": 5584,
+      "num": 414793,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 2,

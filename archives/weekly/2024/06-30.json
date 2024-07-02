@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719962333854,
+  "endTime": 1719963339884,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -321,6 +321,14 @@
       "onboard_time": 1719837798,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1164275,
+      "num": 232974,
+      "word": "甜馨维护贾乃亮",
+      "onboard_time": 1719962596,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1146537,
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710334,
+      "num": 130935,
+      "word": "麻辣王子工厂停工",
+      "onboard_time": 1719962054,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 710325,
       "num": 710325,
       "word": "珠峰死亡地带4具遗体被运回",
@@ -1251,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578832,
+      "num": 578832,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577636,
       "num": 304082,
       "word": "王星越说买断是有点买不过来了",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1719751398,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565305,
-      "num": 565305,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564103,
@@ -2643,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334948,
-      "num": 94834,
-      "word": "麻辣王子工厂停工",
-      "onboard_time": 1719962054,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 332669,
       "num": 332669,
       "word": "亚青赛混团中国队夺冠",
@@ -3339,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251573,
+      "num": 251573,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250726,
       "num": 250726,
       "word": "行程图",
@@ -3787,6 +3803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215970,
+      "num": 215970,
+      "word": "英国转播方字幕羞辱C罗",
+      "onboard_time": 1719961695,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215316,
       "num": 215316,
       "word": "Kindle中国电子书店停止下载服务",
@@ -4209,14 +4233,6 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196669,
-      "num": 196669,
-      "word": "甘肃163名矿工被拖欠3000万工资",
-      "onboard_time": 1719939735,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196518,
@@ -5268,7 +5284,7 @@
     },
     {
       "raw_hot": 155040,
-      "num": 115425,
+      "num": 128720,
       "word": "全班都能上985老师们嘴角压不住了",
       "onboard_time": 1719934819,
       "rank": 24,
@@ -5369,6 +5385,14 @@
       "onboard_time": 1719727337,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 151387,
+      "num": 151387,
+      "word": "赛力斯拟25亿收购问界商标专利",
+      "onboard_time": 1719962235,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 151348,
@@ -6115,6 +6139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132823,
+      "num": 132823,
+      "word": "长相思2看片会",
+      "onboard_time": 1719962896,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132269,
       "num": 132269,
       "word": "七月文案",
@@ -6379,6 +6411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124713,
+      "num": 244062,
+      "word": "好学小孩哥在地铁上被北大博导收徒",
+      "onboard_time": 1719962235,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124595,
       "num": 124595,
       "word": "和平精英区域对抗赛冠军夜",
@@ -6555,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121409,
+      "num": 121409,
+      "word": "刘亦菲唐嫣合照再加一",
+      "onboard_time": 1719962416,
+      "rank": 24,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 121144,
       "num": 121144,
       "word": "张杰在重庆那么开朗吗",
@@ -6584,6 +6632,14 @@
       "word": "葡萄牙门将好牛",
       "onboard_time": 1719875235,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120059,
+      "num": 120059,
+      "word": "欧洲杯八强出炉",
+      "onboard_time": 1719962296,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -6784,6 +6840,14 @@
       "word": "颜心记",
       "onboard_time": 1719752358,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114286,
+      "num": 114286,
+      "word": "这和亲了一口张凌赫有啥区别",
+      "onboard_time": 1719962356,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -7092,7 +7156,7 @@
     },
     {
       "raw_hot": 105826,
-      "num": 359895,
+      "num": 414793,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 44,
@@ -7105,6 +7169,14 @@
       "onboard_time": 1719661698,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105539,
+      "num": 105539,
+      "word": "为什么医生打针前都要滋掉一点药水",
+      "onboard_time": 1719962235,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105500,
@@ -7153,14 +7225,6 @@
       "onboard_time": 1719935838,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104259,
-      "num": 118670,
-      "word": "好学小孩哥在地铁上被北大博导收徒",
-      "onboard_time": 1719962235,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104212,
@@ -7443,20 +7507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95515,
-      "num": 95515,
-      "word": "英国转播方字幕羞辱C罗",
-      "onboard_time": 1719961695,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95083,
       "num": 105638,
       "word": "郭晶晶以裁判身份参加巴黎奥运会",
       "onboard_time": 1719835218,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94851,
+      "num": 94851,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94782,
@@ -7499,6 +7563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92851,
+      "num": 92851,
+      "word": "奥地利1比2土耳其",
+      "onboard_time": 1719961995,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92316,
       "num": 92316,
       "word": "张之臻晋级温网第二轮",
@@ -7528,6 +7600,14 @@
       "word": "小猫咪坐下来后我决定原谅这个世界了",
       "onboard_time": 1719788714,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91242,
+      "num": 91242,
+      "word": "下半年双子座运势要飞升",
+      "onboard_time": 1719962174,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -7627,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86997,
+      "num": 86997,
+      "word": "李凯尔加盟勇士",
+      "onboard_time": 1719963136,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86754,
       "num": 86754,
       "word": "专家称如再有新政或涉一线城市落户",
@@ -7707,6 +7795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83254,
+      "num": 83254,
+      "word": "iPhone16或全系采用A18芯片",
+      "onboard_time": 1719962476,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83232,
       "num": 139432,
       "word": "青岛大学的毕业典礼为什么那么火",
@@ -7747,28 +7843,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81036,
-      "num": 81036,
-      "word": "赛力斯拟25亿收购问界商标专利",
-      "onboard_time": 1719962235,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 80974,
-      "num": 80974,
-      "word": "减脂期这六种食物一定要避雷",
-      "onboard_time": 1719939374,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 80964,
       "num": 772501,
       "word": "70秒看深中通道从无到有",
       "onboard_time": 1719717557,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80845,
+      "num": 80845,
+      "word": "形容一个人干净是很高级的表扬",
+      "onboard_time": 1719962596,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 80702,
@@ -7939,6 +8027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69689,
+      "num": 69689,
+      "word": "眼科医生眼里最毁眼睛的十个动作",
+      "onboard_time": 1719962476,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -7995,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65534,
+      "num": 65534,
+      "word": "土耳其晋级欧洲杯8强",
+      "onboard_time": 1719962596,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64961,
       "num": 64961,
       "word": "看到西湖终于知道什么叫烟雨江南",
@@ -8003,12 +8107,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64444,
-      "num": 64444,
-      "word": "下半年双子座运势要飞升",
-      "onboard_time": 1719962174,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 64729,
+      "num": 64729,
+      "word": "罗马尼亚0比3荷兰",
+      "onboard_time": 1719961995,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 64401,
@@ -8059,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61271,
+      "num": 61271,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61180,
       "num": 103342,
       "word": "杭州跑男要去参加巴黎奥运会了",
@@ -8075,20 +8187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60973,
-      "num": 60973,
-      "word": "奥地利1比2土耳其",
-      "onboard_time": 1719961995,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60910,
       "num": 67835,
       "word": "度华年热度破万",
       "onboard_time": 1719766574,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60722,
+      "num": 60722,
+      "word": "aespa MV预告",
+      "onboard_time": 1719963196,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 60558,
+      "num": 60558,
+      "word": "官方通报4人被终身禁入熊猫基地",
+      "onboard_time": 1719963316,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59461,
@@ -8112,14 +8232,6 @@
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58530,
-      "num": 58530,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8235,14 +8347,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 47637,
-      "num": 47637,
-      "word": "罗马尼亚0比3荷兰",
-      "onboard_time": 1719961995,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47454,
       "num": 49646,
       "word": "德国晋级欧洲杯8强",
@@ -8265,14 +8369,6 @@
       "onboard_time": 1719818418,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 46258,
-      "num": 46258,
-      "word": "为什么医生打针前都要滋掉一点药水",
-      "onboard_time": 1719962235,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 46001,
@@ -8393,14 +8489,6 @@
       "onboard_time": 1719941893,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41024,
-      "num": 41024,
-      "word": "欧洲杯八强出炉",
-      "onboard_time": 1719962296,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 40935,
