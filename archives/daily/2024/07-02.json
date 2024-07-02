@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719905701382,
+  "endTime": 1719908661297,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -17,6 +17,14 @@
       "onboard_time": 1719890598,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1511577,
+      "num": 1511577,
+      "word": "女子订错车票却在另一平台免费退",
+      "onboard_time": 1719905237,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1495228,
@@ -113,6 +121,14 @@
       "onboard_time": 1719876616,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 874671,
+      "num": 874671,
+      "word": "赵今麦演技",
+      "onboard_time": 1719904938,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 869944,
@@ -323,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500486,
+      "num": 500486,
+      "word": "白鹿活动生图",
+      "onboard_time": 1719906739,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491263,
       "num": 491263,
       "word": "男生游戏充7千爸爸带着搬钢管",
@@ -361,6 +385,14 @@
       "onboard_time": 1719889220,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472343,
+      "num": 282374,
+      "word": "伴侣头发有这个特征可能感染了梅毒",
+      "onboard_time": 1719905959,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 468999,
@@ -419,8 +451,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435868,
+      "num": 404949,
+      "word": "印尼羽协称张志杰是心脏骤停去世",
+      "onboard_time": 1719907279,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433922,
-      "num": 240216,
+      "num": 336775,
       "word": "秦岚有三本飞行证",
       "onboard_time": 1719900979,
       "rank": 22,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410531,
+      "num": 410531,
+      "word": "当外婆知道娃娃的价格后",
+      "onboard_time": 1719904938,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404677,
       "num": 232584,
       "word": "年轻人网贷8千债务变8万",
@@ -489,6 +537,14 @@
       "onboard_time": 1719842780,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 383730,
+      "num": 383730,
+      "word": "陈雨菲说张志杰是冠军",
+      "onboard_time": 1719905058,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 357453,
@@ -667,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277431,
-      "num": 165966,
-      "word": "陈雨菲说张志杰是冠军",
-      "onboard_time": 1719905058,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259697,
       "num": 259697,
       "word": "出道战 剧本",
@@ -731,20 +779,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 241634,
-      "num": 241634,
-      "word": "女子订错车票却在另一平台免费退",
-      "onboard_time": 1719905237,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
       "onboard_time": 1719846259,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237645,
+      "num": 237645,
+      "word": "3个月的坑被2个小孩给填平了",
+      "onboard_time": 1719906679,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235938,
@@ -761,14 +809,6 @@
       "onboard_time": 1719892399,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231724,
-      "num": 231724,
-      "word": "赵今麦演技",
-      "onboard_time": 1719904938,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 226625,
@@ -851,20 +891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200703,
-      "num": 165740,
-      "word": "当外婆知道娃娃的价格后",
-      "onboard_time": 1719904938,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200300,
       "num": 200300,
       "word": "百花奖最佳女配提名",
       "onboard_time": 1719889519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199812,
+      "num": 199812,
+      "word": "一声娘子梦回苍兰诀",
+      "onboard_time": 1719907938,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 199292,
@@ -1011,20 +1051,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175706,
+      "num": 175706,
+      "word": "天兵科技发文致歉",
+      "onboard_time": 1719907518,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175483,
+      "num": 175483,
+      "word": "赵今麦这场戏演爽了",
+      "onboard_time": 1719905178,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174063,
       "num": 174063,
       "word": "陈乔恩教于正葡萄柚减肥法",
       "onboard_time": 1719837138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172300,
-      "num": 172300,
-      "word": "赵今麦这场戏演爽了",
-      "onboard_time": 1719905178,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 171335,
@@ -1163,12 +1211,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151209,
+      "num": 151209,
+      "word": "打工人减肥 压力管理",
+      "onboard_time": 1719906019,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 150603,
+      "num": 150603,
+      "word": "新疆对湿气的杀伤力有多大",
+      "onboard_time": 1719906558,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150476,
+      "num": 356386,
+      "word": "二手车市场告别暴利时代",
+      "onboard_time": 1719904818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149255,
       "num": 149255,
       "word": "汪苏泷演唱会 抢不到",
       "onboard_time": 1719903859,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148601,
+      "num": 148601,
+      "word": "突然被跑腿小哥给臭到了",
+      "onboard_time": 1719907698,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 147008,
@@ -1259,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134977,
+      "num": 134977,
+      "word": "钱给的足够多 管理都叫严肃的爱",
+      "onboard_time": 1719908058,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134839,
       "num": 134839,
       "word": "度华年",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
+    },
+    {
+      "raw_hot": 129716,
+      "num": 129716,
+      "word": "夺冠后张志杰队友们哭成泪人",
+      "onboard_time": 1719908360,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 127750,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1719880519,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115734,
+      "num": 115734,
+      "word": "小小的客厅竟然停下了五辆半挂",
+      "onboard_time": 1719908360,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 114230,
@@ -1819,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59082,
+      "num": 405922,
+      "word": "平江大面积断水断电",
+      "onboard_time": 1719907219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58698,
       "num": 64001,
       "word": "恋爱脑的本质是注意力的失控",
@@ -1939,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33556,
-      "num": 356386,
-      "word": "二手车市场告别暴利时代",
-      "onboard_time": 1719904818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32515,
       "num": 32515,
       "word": "发现了INFP快速找到热爱的方法",
@@ -1980,7 +2084,7 @@
     },
     {
       "raw_hot": 27581,
-      "num": 235385,
+      "num": 247749,
       "word": "已下载莫辜负",
       "onboard_time": 1719904519,
       "rank": 42,
@@ -2075,19 +2179,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 7839,
+      "num": 690390,
+      "word": "关于上合组织你想知道的都在这里",
+      "onboard_time": 1719843920,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7131,
       "num": 218349,
       "word": "纽约华人美甲店遭车撞入致4死9伤",
       "onboard_time": 1719890420,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6587,
-      "num": 690390,
-      "word": "关于上合组织你想知道的都在这里",
-      "onboard_time": 1719843920,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
