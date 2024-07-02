@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719902421654,
+  "endTime": 1719904789758,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 836995,
+      "num": 836995,
+      "word": "泰国部长亲自接机中国娃圈女明星",
+      "onboard_time": 1719899899,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819804,
       "num": 819804,
       "word": "贾玲再次导演影后双提百花奖",
@@ -203,14 +211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 706807,
-      "num": 706807,
-      "word": "泰国部长亲自接机中国娃圈女明星",
-      "onboard_time": 1719899899,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695254,
       "num": 485776,
       "word": "女子穿JK遭2男生偷拍嘲讽还直播",
@@ -249,6 +249,14 @@
       "onboard_time": 1719878177,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579707,
+      "num": 329253,
+      "word": "全队带张志杰上领奖台",
+      "onboard_time": 1719903799,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 557668,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433922,
+      "num": 228275,
+      "word": "秦岚有三本飞行证",
+      "onboard_time": 1719900979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432391,
       "num": 432391,
       "word": "C罗说这是我最后一届欧洲杯",
@@ -475,12 +491,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 356471,
-      "num": 228275,
-      "word": "秦岚有三本飞行证",
-      "onboard_time": 1719900979,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 357453,
+      "num": 221300,
+      "word": "30岁的老公和50岁的胡兵",
+      "onboard_time": 1719900441,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354130,
@@ -515,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332669,
+      "num": 332669,
+      "word": "亚青赛混团中国队夺冠",
+      "onboard_time": 1719901758,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332309,
       "num": 263677,
       "word": "肖战玉骨遥新海报",
@@ -537,6 +561,14 @@
       "onboard_time": 1719889397,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318673,
+      "num": 318673,
+      "word": "檀健次你尽管演不用管我们死活",
+      "onboard_time": 1719902178,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 314847,
@@ -595,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287546,
-      "num": 221300,
-      "word": "30岁的老公和50岁的胡兵",
-      "onboard_time": 1719900441,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 287090,
+      "num": 287090,
+      "word": "张颂文工作室 提名即肯定",
+      "onboard_time": 1719898819,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 285817,
@@ -619,28 +651,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283552,
-      "num": 283552,
-      "word": "张颂文工作室 提名即肯定",
-      "onboard_time": 1719898819,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280924,
       "num": 280924,
       "word": "罐车卸完煤制油直接装运食用油",
       "onboard_time": 1719884777,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278026,
-      "num": 278026,
-      "word": "亚青赛混团中国队夺冠",
-      "onboard_time": 1719901758,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 259697,
@@ -915,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183374,
+      "num": 183374,
+      "word": "这剧怎么哭得梨花带雨的是男主",
+      "onboard_time": 1719902480,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180428,
       "num": 180428,
       "word": "千万不要在街边座位上睡着了",
@@ -985,6 +1009,14 @@
       "onboard_time": 1719877036,
       "rank": 29,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "王者出了狠狠爱了头像框",
+      "onboard_time": 1719903499,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 167312,
@@ -1083,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "汪苏泷演唱会 抢不到",
+      "onboard_time": 1719903859,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "一放暑假8个外甥又来了",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1719833298,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138571,
+      "num": 138571,
+      "word": "沈腾新片父爱如山体滑坡",
+      "onboard_time": 1719904158,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 136307,
@@ -1187,12 +1235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130920,
-      "num": 130920,
-      "word": "檀健次你尽管演不用管我们死活",
-      "onboard_time": 1719902178,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 131126,
+      "num": 131126,
+      "word": "把19平老房子改成了两室两厅",
+      "onboard_time": 1719902779,
+      "rank": 36,
+      "category": "休闲"
     },
     {
       "raw_hot": 130378,
@@ -1211,6 +1259,14 @@
       "category": "科学科普,国内时政"
     },
     {
+      "raw_hot": 127750,
+      "num": 127750,
+      "word": "绝区零合作格莱美制作人",
+      "onboard_time": 1719903918,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127467,
       "num": 127467,
       "word": "秦岚花少法国站随拍",
@@ -1227,11 +1283,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124273,
+      "num": 124273,
+      "word": "为何江西小炒是预制菜的天敌",
+      "onboard_time": 1719903257,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122983,
       "num": 122983,
       "word": "实在太爱我女儿的名字啦",
       "onboard_time": 1719886219,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120785,
+      "num": 120785,
+      "word": "我给85岁退休的爷爷找了份无薪工作",
+      "onboard_time": 1719903799,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -1283,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117428,
+      "num": 117428,
+      "word": "度华年",
+      "onboard_time": 1719900199,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "檀健次真的是天选相柳",
@@ -1305,14 +1385,6 @@
       "onboard_time": 1719820037,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111234,
-      "num": 111234,
-      "word": "度华年",
-      "onboard_time": 1719900199,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 109334,
@@ -1723,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46001,
+      "num": 211959,
+      "word": "高校通知书把浪漫玩到极致了",
+      "onboard_time": 1719902837,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45330,
       "num": 43950,
       "word": "黄子韬曾说30岁会考虑成家",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1719864431,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35224,
+      "num": 149326,
+      "word": "西湖日出能有多美",
+      "onboard_time": 1719904758,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 34969,
@@ -1827,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25804,
+      "num": 124480,
+      "word": "已下载莫辜负",
+      "onboard_time": 1719904519,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24912,
       "num": 24912,
       "word": "西安西二环路面塌陷",
@@ -1856,6 +1952,14 @@
       "word": "韩国幼儿园老师吐槽学生家长太笨",
       "onboard_time": 1719891080,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16468,
+      "num": 135871,
+      "word": "大熊猫压马路松弛感拉满",
+      "onboard_time": 1719904698,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1896,6 +2000,14 @@
       "word": "纽约华人美甲店遭车撞入致4死9伤",
       "onboard_time": 1719890420,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5787,
+      "num": 690390,
+      "word": "关于上合组织你想知道的都在这里",
+      "onboard_time": 1719843920,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

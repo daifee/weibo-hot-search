@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719902421654,
+  "endTime": 1719904789758,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836995,
+      "num": 836995,
+      "word": "泰国部长亲自接机中国娃圈女明星",
+      "onboard_time": 1719899899,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833367,
       "num": 721729,
       "word": "B太称新疆行回程给司机大姐买机票",
@@ -737,14 +745,6 @@
       "onboard_time": 1719759560,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 706807,
-      "num": 706807,
-      "word": "泰国部长亲自接机中国娃圈女明星",
-      "onboard_time": 1719899899,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 689703,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1719709817,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 579707,
+      "num": 329253,
+      "word": "全队带张志杰上领奖台",
+      "onboard_time": 1719903799,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 579040,
@@ -1723,6 +1731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 433922,
+      "num": 228275,
+      "word": "秦岚有三本飞行证",
+      "onboard_time": 1719900979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432391,
       "num": 432391,
       "word": "C罗说这是我最后一届欧洲杯",
@@ -2067,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356471,
-      "num": 228275,
-      "word": "秦岚有三本飞行证",
-      "onboard_time": 1719900979,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 357453,
+      "num": 221300,
+      "word": "30岁的老公和50岁的胡兵",
+      "onboard_time": 1719900441,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 356158,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332669,
+      "num": 332669,
+      "word": "亚青赛混团中国队夺冠",
+      "onboard_time": 1719901758,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332581,
       "num": 332581,
       "word": "上海60岁阿姨暴雨送别伊势丹百货",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1719673939,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318673,
+      "num": 318673,
+      "word": "檀健次你尽管演不用管我们死活",
+      "onboard_time": 1719902178,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 318469,
@@ -2547,12 +2579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287546,
-      "num": 221300,
-      "word": "30岁的老公和50岁的胡兵",
-      "onboard_time": 1719900441,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 287090,
+      "num": 287090,
+      "word": "张颂文工作室 提名即肯定",
+      "onboard_time": 1719898819,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 285817,
@@ -2585,14 +2617,6 @@
       "onboard_time": 1719831319,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283552,
-      "num": 283552,
-      "word": "张颂文工作室 提名即肯定",
-      "onboard_time": 1719898819,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 283476,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1719758959,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 278026,
-      "num": 278026,
-      "word": "亚青赛混团中国队夺冠",
-      "onboard_time": 1719901758,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 276100,
@@ -3915,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183374,
+      "num": 183374,
+      "word": "这剧怎么哭得梨花带雨的是男主",
+      "onboard_time": 1719902480,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183281,
       "num": 183281,
       "word": "五月天深圳演唱会",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1719877036,
       "rank": 29,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "王者出了狠狠爱了头像框",
+      "onboard_time": 1719903499,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 168259,
@@ -4571,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "汪苏泷演唱会 抢不到",
+      "onboard_time": 1719903859,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "张真源庆祝pose摆早了",
@@ -4883,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138571,
+      "num": 138571,
+      "word": "沈腾新片父爱如山体滑坡",
+      "onboard_time": 1719904158,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138077,
       "num": 138077,
       "word": "德国vs丹麦因雷暴天气被吹停",
@@ -5147,20 +5195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131126,
+      "num": 131126,
+      "word": "把19平老房子改成了两室两厅",
+      "onboard_time": 1719902779,
+      "rank": 36,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 131072,
       "num": 131072,
       "word": "克莱离开勇士",
       "onboard_time": 1719790396,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130920,
-      "num": 130920,
-      "word": "檀健次你尽管演不用管我们死活",
-      "onboard_time": 1719902178,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130378,
@@ -5241,6 +5289,14 @@
       "onboard_time": 1719748758,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127750,
+      "num": 127750,
+      "word": "绝区零合作格莱美制作人",
+      "onboard_time": 1719903918,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 127735,
@@ -5329,6 +5385,14 @@
       "onboard_time": 1719745757,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124273,
+      "num": 124273,
+      "word": "为何江西小炒是预制菜的天敌",
+      "onboard_time": 1719903257,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 124133,
@@ -5473,6 +5537,14 @@
       "onboard_time": 1719754339,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120785,
+      "num": 120785,
+      "word": "我给85岁退休的爷爷找了份无薪工作",
+      "onboard_time": 1719903799,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 120490,
@@ -6859,6 +6931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46001,
+      "num": 211959,
+      "word": "高校通知书把浪漫玩到极致了",
+      "onboard_time": 1719902837,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45736,
       "num": 90451,
       "word": "一条plog告别六月",
@@ -7051,6 +7131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35224,
+      "num": 149326,
+      "word": "西湖日出能有多美",
+      "onboard_time": 1719904758,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35132,
       "num": 41381,
       "word": "张峻豪第二通过考核",
@@ -7204,7 +7292,7 @@
     },
     {
       "raw_hot": 28721,
-      "num": 136998,
+      "num": 690390,
       "word": "关于上合组织你想知道的都在这里",
       "onboard_time": 1719843920,
       "rank": 34,
@@ -7241,6 +7329,14 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25804,
+      "num": 124480,
+      "word": "已下载莫辜负",
+      "onboard_time": 1719904519,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 25620,
@@ -7352,6 +7448,14 @@
       "word": "暴雨后诊所进水医生穿雨鞋接诊",
       "onboard_time": 1719739759,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16468,
+      "num": 135871,
+      "word": "大熊猫压马路松弛感拉满",
+      "onboard_time": 1719904698,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
