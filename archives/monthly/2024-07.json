@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719952555356,
+  "endTime": 1719955120976,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -4667,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119540,
+      "num": 119540,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119244,
       "num": 119244,
       "word": "本周桃花运最旺的星座",
@@ -5155,14 +5163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96779,
-      "num": 96779,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96761,
       "num": 97356,
       "word": "别人脸部按摩李云霄脸部正骨",
@@ -5443,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67239,
+      "num": 67239,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66501,
       "num": 410730,
       "word": "孙子为外公守灵时飞来了一只蝴蝶",
@@ -5569,14 +5577,6 @@
       "onboard_time": 1719899119,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 53109,
-      "num": 56612,
-      "word": "奥地利vs土耳其",
-      "onboard_time": 1719938835,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 52935,
@@ -5931,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25936,
+      "num": 25936,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25550,
       "num": 151007,
       "word": "丹麦将对牛打嗝放屁征税",
@@ -6003,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19637,
+      "num": 19637,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 19032,
       "num": 27189,
       "word": "汪苏泷听见下雨的声音vlog",
@@ -6019,28 +6035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18277,
-      "num": 18448,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16747,
       "num": 148498,
       "word": "一半一半的智慧",
       "onboard_time": 1719758839,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16697,
-      "num": 18437,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 16468,
@@ -6057,6 +6057,14 @@
       "onboard_time": 1719859211,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15276,
+      "num": 15608,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 15190,
@@ -6083,12 +6091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13951,
-      "num": 15608,
-      "word": "杨紫带piupiu直播",
-      "onboard_time": 1719949751,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 13879,
+      "num": 15234,
+      "word": "抽血为啥要用五颜六色的试管",
+      "onboard_time": 1719952270,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13038,
@@ -6097,14 +6105,6 @@
       "onboard_time": 1719851956,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12409,
-      "num": 15234,
-      "word": "抽血为啥要用五颜六色的试管",
-      "onboard_time": 1719952270,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12338,
@@ -6169,6 +6169,14 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9083,
+      "num": 25559,
+      "word": "重庆大瓣荷花带来翻倍的莲莲好运",
+      "onboard_time": 1719949271,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 8408,
