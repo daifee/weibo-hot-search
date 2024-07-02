@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719912051527,
+  "endTime": 1719912876264,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -115,6 +115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 996720,
+      "num": 518854,
+      "word": "暴食了30个黄瓜和17个西红柿",
+      "onboard_time": 1719910038,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 909290,
       "num": 253732,
       "word": "突然搞不懂订婚的意义了",
@@ -153,14 +161,6 @@
       "onboard_time": 1719903799,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 864340,
-      "num": 518854,
-      "word": "暴食了30个黄瓜和17个西红柿",
-      "onboard_time": 1719910038,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 848435,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685774,
+      "num": 341569,
+      "word": "警方通报网红夹包哥被扎伤身亡",
+      "onboard_time": 1719910459,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 655092,
       "num": 655092,
       "word": "这样干一天我得休一个星期",
@@ -273,14 +281,6 @@
       "onboard_time": 1719849918,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595295,
-      "num": 341569,
-      "word": "警方通报网红夹包哥被扎伤身亡",
-      "onboard_time": 1719910459,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 589287,
@@ -337,6 +337,14 @@
       "onboard_time": 1719883397,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 519653,
+      "num": 462351,
+      "word": "杨紫31岁状态",
+      "onboard_time": 1719910639,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 516673,
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455988,
-      "num": 455988,
-      "word": "杨紫31岁状态",
-      "onboard_time": 1719910639,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445423,
       "num": 440248,
       "word": "我家那闺女定档",
@@ -481,6 +481,14 @@
       "onboard_time": 1719838100,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440819,
+      "num": 440819,
+      "word": "赵丽颖工作室回应百花奖提名",
+      "onboard_time": 1719912017,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 436560,
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292433,
+      "num": 292433,
+      "word": "荷兰70岁夫妇接受双人安乐死",
+      "onboard_time": 1719909859,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292400,
       "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267473,
+      "num": 267473,
+      "word": "朱一龙 演员里的一块姜",
+      "onboard_time": 1719912139,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259697,
       "num": 259697,
       "word": "出道战 剧本",
@@ -785,6 +809,14 @@
       "onboard_time": 1719895402,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253625,
+      "num": 191078,
+      "word": "红豆生南国 裴相是男模",
+      "onboard_time": 1719911297,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 249301,
@@ -915,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206374,
-      "num": 195204,
-      "word": "赵丽颖工作室回应百花奖提名",
-      "onboard_time": 1719912017,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202387,
       "num": 202387,
       "word": "突然被跑腿小哥给臭到了",
@@ -955,14 +979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200263,
-      "num": 200263,
-      "word": "荷兰70岁夫妇接受双人安乐死",
-      "onboard_time": 1719909859,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199292,
       "num": 199292,
       "word": "我找到了乌尔善偷跑物料的证据",
@@ -985,6 +1001,14 @@
       "onboard_time": 1719892821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196291,
+      "num": 196291,
+      "word": "夹包哥",
+      "onboard_time": 1719912558,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195466,
@@ -1099,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181484,
-      "num": 181484,
-      "word": "红豆生南国 裴相是男模",
-      "onboard_time": 1719911297,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1719905178,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174780,
+      "num": 174780,
+      "word": "icon力挺JackeyLove",
+      "onboard_time": 1719911538,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 174063,
@@ -1299,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156772,
-      "num": 156772,
-      "word": "icon力挺JackeyLove",
-      "onboard_time": 1719911538,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155078,
       "num": 155078,
       "word": "3个年龄段会发生断崖式衰老",
@@ -1395,6 +1411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142487,
+      "num": 142487,
+      "word": "黄旭东 没苦硬吃",
+      "onboard_time": 1719912499,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142467,
       "num": 142467,
       "word": "郑思维为张志杰默哀",
@@ -1440,6 +1464,14 @@
       "word": "玉骨遥里遗憾是什么",
       "onboard_time": 1719909198,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138831,
+      "num": 138831,
+      "word": "度华年微博追剧团",
+      "onboard_time": 1719912558,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1523,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131672,
+      "num": 131672,
+      "word": "护短的她破碎的他重圆的家",
+      "onboard_time": 1719912619,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130378,
       "num": 130378,
       "word": "初瑞雪 蛋蛋",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
+    },
+    {
+      "raw_hot": 129829,
+      "num": 129829,
+      "word": "深圳6岁男童在家门口被货车碾死",
+      "onboard_time": 1719912799,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 127750,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1719891319,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125604,
+      "num": 125604,
+      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
+      "onboard_time": 1719911899,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124421,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1719882798,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111930,
+      "num": 111930,
+      "word": "网传建行总行降薪10%",
+      "onboard_time": 1719912859,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111439,
@@ -1779,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98204,
-      "num": 98204,
-      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
-      "onboard_time": 1719911899,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97359,
       "num": 97359,
       "word": "XG上海演唱会过审",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1719886399,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92551,
+      "num": 341595,
+      "word": "河南大旱中无奈的种植大户",
+      "onboard_time": 1719910820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92297,
@@ -1947,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74095,
+      "num": 266265,
+      "word": "大熊猫萌萌抱着宝宝爱意满满",
+      "onboard_time": 1719912677,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73480,
       "num": 89232,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1719838038,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 64429,
-      "num": 341595,
-      "word": "河南大旱中无奈的种植大户",
-      "onboard_time": 1719910820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64401,
