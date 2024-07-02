@@ -1,0 +1,410 @@
+{
+  "runTime": 1719927249948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1124769,
+        "num": 1124769,
+        "word": "戚薇李承铉真夫妻杀回来了",
+        "onboard_time": 1719923898,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1014616,
+        "num": 1014616,
+        "word": "爱奇艺把在线人数关了",
+        "onboard_time": 1719924979,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6686,
+        "num": 891965,
+        "word": "关于上合组织你想知道的都在这里",
+        "onboard_time": 1719843920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882170,
+        "num": 882170,
+        "word": "DK",
+        "onboard_time": 1719919577,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 752301,
+        "num": 752301,
+        "word": "世界羽联将彻查张志杰赛场离世",
+        "onboard_time": 1719922398,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714034,
+        "num": 714034,
+        "word": "上海辟谣跟佛祖借了100亿元",
+        "onboard_time": 1719921739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590278,
+        "num": 590278,
+        "word": "iPhone16预计需求强劲",
+        "onboard_time": 1719921798,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 540761,
+        "num": 540761,
+        "word": "中公教育董事长回应退费",
+        "onboard_time": 1719923358,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440677,
+        "num": 440677,
+        "word": "老人花四千买净食机儿子觉得贵",
+        "onboard_time": 1719914717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422770,
+        "num": 422770,
+        "word": "哮天犬扮演者陈创否认接受打赏",
+        "onboard_time": 1719921918,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387516,
+        "num": 387516,
+        "word": "暴食了30个黄瓜和17个西红柿",
+        "onboard_time": 1719910038,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370143,
+        "num": 370143,
+        "word": "赵今麦张凌赫 体型差",
+        "onboard_time": 1719923117,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311273,
+        "num": 311273,
+        "word": "印度北方邦踩踏事件死亡人数升至90人",
+        "onboard_time": 1719925337,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309967,
+        "num": 309967,
+        "word": "酒霉酒霉 漂亮的霉霉",
+        "onboard_time": 1719922639,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200052,
+        "num": 200052,
+        "word": "长公主舌战群男",
+        "onboard_time": 1719920178,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190886,
+        "num": 190886,
+        "word": "偶遇鹿晗拍MV",
+        "onboard_time": 1719921319,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132233,
+        "num": 189935,
+        "word": "欢迎你们到中国去上大学",
+        "onboard_time": 1719926058,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189503,
+        "num": 189503,
+        "word": "相柳的爱真的很能拿出手",
+        "onboard_time": 1719922157,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "新西兰被袭中国留学生发声",
+        "onboard_time": 1719919099,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 176524,
+        "word": "韩国首尔重大交通事故致9人死亡",
+        "onboard_time": 1719918798,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422562,
+        "num": 176517,
+        "word": "原来衣服发臭是闷出来的",
+        "onboard_time": 1719916099,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 310082,
+        "num": 176454,
+        "word": "肚子4个表现多半是癌细胞露出了马脚",
+        "onboard_time": 1719926058,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233735,
+        "num": 176359,
+        "word": "一个考清华 一个烤面筋",
+        "onboard_time": 1719919697,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192842,
+        "num": 176283,
+        "word": "网红乔老师疑剽窃未成年视频卖课",
+        "onboard_time": 1719924258,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52935,
+        "num": 176253,
+        "word": "四川乐山现飞瀑双彩虹同框",
+        "onboard_time": 1719925218,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176194,
+        "num": 176194,
+        "word": "本月你的工资或有多项调整",
+        "onboard_time": 1719893540,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170500,
+        "num": 170500,
+        "word": "杨紫31岁状态",
+        "onboard_time": 1719910639,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160315,
+        "num": 160315,
+        "word": "印尼羽协公布张志杰抢救细节",
+        "onboard_time": 1719919638,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147535,
+        "num": 147535,
+        "word": "谁家好人拿亲弟弟当约饭神器啊",
+        "onboard_time": 1719921499,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144740,
+        "num": 144740,
+        "word": "唐嫣吴谨言都演过冯太后",
+        "onboard_time": 1719920418,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 142264,
+        "word": "赵丽颖工作室回应百花奖提名",
+        "onboard_time": 1719912017,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141332,
+        "num": 141332,
+        "word": "杭州晚霞",
+        "onboard_time": 1719924438,
+        "rank": 31,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 128944,
+        "num": 128944,
+        "word": "伴侣头发有这个特征可能感染了梅毒",
+        "onboard_time": 1719905959,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123191,
+        "num": 123191,
+        "word": "你比星光美丽",
+        "onboard_time": 1719917299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121781,
+        "num": 121781,
+        "word": "老老实实睡觉才是最小众的睡觉方式",
+        "onboard_time": 1719926478,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121385,
+        "num": 121385,
+        "word": "C罗大赛任意球60中1",
+        "onboard_time": 1719921017,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119283,
+        "num": 119283,
+        "word": "深圳存量公积金贷款利率下调",
+        "onboard_time": 1719921499,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 118531,
+        "word": "张元英式推拉",
+        "onboard_time": 1719915617,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118158,
+        "num": 118158,
+        "word": "晚霞",
+        "onboard_time": 1719920718,
+        "rank": 38,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 117771,
+        "num": 117771,
+        "word": "狮子座的好是夸出来的",
+        "onboard_time": 1719918079,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113944,
+        "num": 113944,
+        "word": "赵今麦演技",
+        "onboard_time": 1719904938,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109562,
+        "num": 109562,
+        "word": "印度一家五口被困洪水中冲走",
+        "onboard_time": 1719921678,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107477,
+        "num": 107477,
+        "word": "爹妈为了我的婚姻操碎了心",
+        "onboard_time": 1719923777,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103989,
+        "num": 103989,
+        "word": "上班带的饭是盖饭小样",
+        "onboard_time": 1719926658,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101868,
+        "num": 101868,
+        "word": "超120名中国大众跑者参赛巴黎奥运会",
+        "onboard_time": 1719924557,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100965,
+        "num": 100965,
+        "word": "朱一龙 演员里的一块姜",
+        "onboard_time": 1719912139,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91918,
+        "num": 91918,
+        "word": "奇瑞应届生5月工作时长近300小时",
+        "onboard_time": 1719927139,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87585,
+        "num": 87585,
+        "word": "酒精发霉",
+        "onboard_time": 1719917417,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86513,
+        "num": 86513,
+        "word": "接下来浙江人的餐桌上是这样的",
+        "onboard_time": 1719926539,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84638,
+        "num": 84638,
+        "word": "王俊凯高脚杯喝奶",
+        "onboard_time": 1719918798,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}

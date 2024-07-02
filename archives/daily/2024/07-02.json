@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719926515595,
+  "endTime": 1719927249948,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -129,6 +129,14 @@
       "onboard_time": 1719893540,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1014616,
+      "num": 1014616,
+      "word": "爱奇艺把在线人数关了",
+      "onboard_time": 1719924979,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 1012370,
@@ -337,14 +345,6 @@
       "onboard_time": 1719921798,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 610451,
-      "num": 610451,
-      "word": "爱奇艺把在线人数关了",
-      "onboard_time": 1719924979,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 605416,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370143,
+      "num": 370143,
+      "word": "赵今麦张凌赫 体型差",
+      "onboard_time": 1719923117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369299,
       "num": 369299,
       "word": "张元英式推拉",
@@ -793,14 +801,6 @@
       "onboard_time": 1719863471,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341744,
-      "num": 341744,
-      "word": "赵今麦张凌赫 体型差",
-      "onboard_time": 1719923117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 341132,
@@ -889,6 +889,22 @@
       "onboard_time": 1719875235,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311273,
+      "num": 311273,
+      "word": "印度北方邦踩踏事件死亡人数升至90人",
+      "onboard_time": 1719925337,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310082,
+      "num": 184989,
+      "word": "肚子4个表现多半是癌细胞露出了马脚",
+      "onboard_time": 1719926058,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 307758,
@@ -1115,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228847,
-      "num": 228847,
-      "word": "印度北方邦踩踏事件死亡人数升至90人",
-      "onboard_time": 1719925337,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226625,
       "num": 226625,
       "word": "百花奖最佳女主提名",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1719897321,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209877,
-      "num": 184989,
-      "word": "肚子4个表现多半是癌细胞露出了马脚",
-      "onboard_time": 1719926058,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 209600,
@@ -1315,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192842,
+      "num": 176283,
+      "word": "网红乔老师疑剽窃未成年视频卖课",
+      "onboard_time": 1719924258,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192278,
       "num": 192278,
       "word": "韩国第二大城市釜山进入消失阶段",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1719876555,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189503,
+      "num": 189503,
+      "word": "相柳的爱真的很能拿出手",
+      "onboard_time": 1719922157,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188562,
@@ -1443,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175567,
-      "num": 175567,
-      "word": "相柳的爱真的很能拿出手",
-      "onboard_time": 1719922157,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175483,
       "num": 175483,
       "word": "赵今麦这场戏演爽了",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1719837138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173495,
-      "num": 173495,
-      "word": "网红乔老师疑剽窃未成年视频卖课",
-      "onboard_time": 1719924258,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172303,
@@ -1803,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141332,
+      "num": 141332,
+      "word": "杭州晚霞",
+      "onboard_time": 1719924438,
+      "rank": 31,
+      "category": "自然"
+    },
+    {
       "raw_hot": 140930,
       "num": 140930,
       "word": "张志杰比赛中猝死谁之过",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1719914418,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 138080,
-      "num": 138080,
-      "word": "杭州晚霞",
-      "onboard_time": 1719924438,
-      "rank": 31,
-      "category": "自然"
     },
     {
       "raw_hot": 136964,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1719885257,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132233,
+      "num": 189935,
+      "word": "欢迎你们到中国去上大学",
+      "onboard_time": 1719926058,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131785,
@@ -2089,6 +2097,14 @@
       "onboard_time": 1719923179,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121781,
+      "num": 121781,
+      "word": "老老实实睡觉才是最小众的睡觉方式",
+      "onboard_time": 1719926478,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120785,
@@ -2243,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109562,
+      "num": 109562,
+      "word": "印度一家五口被困洪水中冲走",
+      "onboard_time": 1719921678,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109334,
       "num": 109334,
       "word": "詹俊说上半区两场对决悬念拉满",
@@ -2315,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103989,
+      "num": 103989,
+      "word": "上班带的饭是盖饭小样",
+      "onboard_time": 1719926658,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103815,
       "num": 103815,
       "word": "C罗姆巴佩8强对决",
@@ -2369,14 +2401,6 @@
       "onboard_time": 1719846138,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99743,
-      "num": 159114,
-      "word": "欢迎你们到中国去上大学",
-      "onboard_time": 1719926058,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98591,
@@ -2443,6 +2467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91918,
+      "num": 91918,
+      "word": "奇瑞应届生5月工作时长近300小时",
+      "onboard_time": 1719927139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91106,
       "num": 91106,
       "word": "水花兄弟散伙",
@@ -2467,14 +2499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88408,
-      "num": 88408,
-      "word": "印度一家五口被困洪水中冲走",
-      "onboard_time": 1719921678,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87968,
       "num": 87968,
       "word": "科斯塔连扑三点",
@@ -2483,12 +2507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87821,
-      "num": 87821,
-      "word": "老老实实睡觉才是最小众的睡觉方式",
-      "onboard_time": 1719926478,
+      "raw_hot": 86513,
+      "num": 86513,
+      "word": "接下来浙江人的餐桌上是这样的",
+      "onboard_time": 1719926539,
       "rank": 48,
-      "category": "幽默"
+      "category": "美食"
     },
     {
       "raw_hot": 86179,
@@ -2723,20 +2747,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 52935,
+      "num": 436878,
+      "word": "四川乐山现飞瀑双彩虹同框",
+      "onboard_time": 1719925218,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 48538,
       "num": 454205,
       "word": "演唱会奇葩票维权成本有多高",
       "onboard_time": 1719900019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47161,
-      "num": 436878,
-      "word": "四川乐山现飞瀑双彩虹同框",
-      "onboard_time": 1719925218,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 46001,
@@ -2988,7 +3012,7 @@
     },
     {
       "raw_hot": 9448,
-      "num": 829087,
+      "num": 891965,
       "word": "关于上合组织你想知道的都在这里",
       "onboard_time": 1719843920,
       "rank": 2,
