@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719891364577,
+  "endTime": 1719894270316,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -11,12 +11,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1495433,
+      "num": 1495433,
+      "word": "徐艺洋 老板就能上我卫生间吗",
+      "onboard_time": 1719890598,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1495228,
       "num": 845877,
       "word": "张志杰队医因未经裁判允许没有进场",
       "onboard_time": 1719884777,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1482453,
+      "num": 980456,
+      "word": "黄子韬要和徐艺洋一起去卫生间",
+      "onboard_time": 1719890117,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1469173,
@@ -57,14 +73,6 @@
       "onboard_time": 1719887898,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 980456,
-      "num": 980456,
-      "word": "黄子韬要和徐艺洋一起去卫生间",
-      "onboard_time": 1719890117,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 909290,
@@ -123,7 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758079,
+      "raw_hot": 776810,
       "num": 758079,
       "word": "郑爽未履行金额超1.2亿",
       "onboard_time": 1719888740,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 739319,
-      "num": 271400,
+      "num": 345068,
       "word": "爸爸花了两千给弟弟填的志愿",
       "onboard_time": 1719884718,
       "rank": 20,
@@ -160,6 +168,14 @@
       "word": "女子穿JK遭2男生偷拍嘲讽还直播",
       "onboard_time": 1719845059,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671445,
+      "num": 456328,
+      "word": "4名渔民饮用漂流瓶中液体后身亡",
+      "onboard_time": 1719893360,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 589287,
-      "num": 268556,
+      "num": 344899,
       "word": "当一个人朋友圈很干净时",
       "onboard_time": 1719883038,
       "rank": 31,
@@ -195,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542072,
+      "num": 429763,
+      "word": "歌手双揭榜歌手官宣",
+      "onboard_time": 1719893840,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532172,
       "num": 249503,
       "word": "医院认定死亡后中国羽协仍尝试转院",
       "onboard_time": 1719832578,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525339,
+      "num": 415914,
+      "word": "王俊凯和助理一起吃火锅",
+      "onboard_time": 1719893001,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 523136,
@@ -211,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 522334,
+      "num": 409833,
+      "word": "优酷今天官宣了好多剧",
+      "onboard_time": 1719893660,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506164,
       "num": 359306,
       "word": "张志杰姨夫发声",
@@ -219,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 505990,
-      "num": 429588,
-      "word": "徐艺洋 老板就能上我卫生间吗",
-      "onboard_time": 1719890598,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505215,
       "num": 159574,
       "word": "情侣同居不同房是怎样的",
       "onboard_time": 1719837798,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491263,
+      "num": 491263,
+      "word": "男生游戏充7千爸爸带着搬钢管",
+      "onboard_time": 1719886578,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490079,
@@ -363,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341132,
+      "num": 341132,
+      "word": "罗云熙 结婚赛道",
+      "onboard_time": 1719892699,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340524,
+      "num": 340524,
+      "word": "易烊千玺连续第三届提名百花奖",
+      "onboard_time": 1719892459,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332309,
       "num": 263677,
       "word": "肖战玉骨遥新海报",
@@ -401,6 +457,14 @@
       "onboard_time": 1719843679,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304916,
+      "num": 304916,
+      "word": "越来越看不懂日本美甲了",
+      "onboard_time": 1719892039,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 292400,
@@ -467,6 +531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 256525,
+      "num": 256525,
+      "word": "在聚餐的男朋友突然给我发晚安",
+      "onboard_time": 1719890000,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249301,
       "num": 249301,
       "word": "专家称心肺复苏任重道远",
@@ -491,20 +563,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 242977,
-      "num": 242977,
-      "word": "男生游戏充7千爸爸带着搬钢管",
-      "onboard_time": 1719886578,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
       "onboard_time": 1719846259,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236900,
+      "num": 236900,
+      "word": "本月你的工资或有多项调整",
+      "onboard_time": 1719893540,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 235938,
@@ -515,12 +587,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226103,
-      "num": 226103,
+      "raw_hot": 226625,
+      "num": 226625,
       "word": "百花奖最佳女主提名",
       "onboard_time": 1719888978,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226542,
+      "num": 226542,
+      "word": "有业主断供后房子被法拍也还不上贷款",
+      "onboard_time": 1719892399,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223268,
+      "num": 223268,
+      "word": "阿里云服务器",
+      "onboard_time": 1719891559,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 222119,
@@ -539,11 +627,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204445,
-      "num": 204445,
-      "word": "在聚餐的男朋友突然给我发晚安",
-      "onboard_time": 1719890000,
-      "rank": 42,
+      "raw_hot": 209442,
+      "num": 209442,
+      "word": "男朋友带父母参观我买的房子",
+      "onboard_time": 1719890178,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -579,12 +667,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198295,
+      "num": 198295,
+      "word": "长安的荔枝杀青",
+      "onboard_time": 1719892821,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195466,
+      "num": 195466,
+      "word": "33岁的裴珠泫状态",
+      "onboard_time": 1719892759,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195031,
       "num": 195031,
       "word": "柯南30周年纪念展来上海了",
       "onboard_time": 1719890358,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193077,
+      "num": 226561,
+      "word": "绝区零预下载",
+      "onboard_time": 1719892518,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 192278,
@@ -611,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184360,
+      "num": 245952,
+      "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
+      "onboard_time": 1719889637,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180428,
       "num": 180428,
       "word": "千万不要在街边座位上睡着了",
@@ -633,14 +753,6 @@
       "onboard_time": 1719837138,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172679,
-      "num": 172679,
-      "word": "男朋友带父母参观我买的房子",
-      "onboard_time": 1719890178,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 171335,
@@ -675,6 +787,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 167312,
+      "num": 167312,
+      "word": "绝区零7月4日公测",
+      "onboard_time": 1719893301,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166365,
       "num": 119137,
       "word": "中企人员在菲被绑架付300万后仍遇害",
@@ -707,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157470,
+      "num": 157470,
+      "word": "刘德华 格格不入",
+      "onboard_time": 1719894200,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154644,
       "num": 154644,
       "word": "黄景瑜有疯批男主那味儿了",
@@ -731,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147405,
-      "num": 245952,
-      "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
-      "onboard_time": 1719889637,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "一放暑假8个外甥又来了",
       "onboard_time": 1719878658,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142199,
+      "num": 142199,
+      "word": "电影误杀3杀青",
+      "onboard_time": 1719894200,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 141510,
@@ -953,6 +1081,14 @@
       "onboard_time": 1719886518,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103757,
+      "num": 483275,
+      "word": "毕业生为还网贷又在9个平台借8万",
+      "onboard_time": 1719892821,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103467,
