@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719951702339,
+  "endTime": 1719952555356,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -7363,6 +7363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96779,
+      "num": 96779,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96761,
       "num": 97356,
       "word": "别人脸部按摩李云霄脸部正骨",
@@ -8025,14 +8033,6 @@
       "onboard_time": 1719863231,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58785,
-      "num": 58785,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58698,
@@ -8819,6 +8819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18277,
+      "num": 18448,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18014,
       "num": 123374,
       "word": "暴雨后诊所进水医生穿雨鞋接诊",
@@ -8827,12 +8835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17747,
-      "num": 18448,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 16697,
+      "num": 18437,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 16468,
@@ -8841,14 +8849,6 @@
       "onboard_time": 1719904698,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16069,
-      "num": 18437,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 15408,
@@ -8899,20 +8899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13951,
+      "num": 15608,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13858,
       "num": 146816,
       "word": "贵州暴雨消防出动31车152人救援",
       "onboard_time": 1719702612,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13241,
-      "num": 15418,
-      "word": "杨紫带piupiu直播",
-      "onboard_time": 1719949751,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 13038,
@@ -8929,6 +8929,14 @@
       "onboard_time": 1719713536,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12409,
+      "num": 15234,
+      "word": "抽血为啥要用五颜六色的试管",
+      "onboard_time": 1719952270,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12338,

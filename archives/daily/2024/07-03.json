@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719951702339,
+  "endTime": 1719952555356,
   "band_list": [
     {
       "raw_hot": 922142,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96779,
+      "num": 96779,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93275,
       "num": 93275,
       "word": "第一次见对狗毛过敏的狗",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58785,
-      "num": 58785,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56691,
       "num": 82101,
       "word": "酒霉酒霉 漂亮的霉霉",
@@ -475,8 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22474,
-      "num": 22474,
+      "raw_hot": 22505,
+      "num": 22505,
       "word": "江浙沪朋友们最近出门的样子",
       "onboard_time": 1719949031,
       "rank": 25,
@@ -491,7 +491,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 17747,
+      "raw_hot": 18277,
       "num": 18448,
       "word": "美国男子枪击邻居一家七口后自杀",
       "onboard_time": 1719948611,
@@ -499,7 +499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16069,
+      "raw_hot": 16697,
       "num": 18437,
       "word": "军校毕业大考也太硬核了",
       "onboard_time": 1719948791,
@@ -515,12 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13241,
-      "num": 15418,
+      "raw_hot": 13951,
+      "num": 15608,
       "word": "杨紫带piupiu直播",
       "onboard_time": 1719949751,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12409,
+      "num": 15234,
+      "word": "抽血为啥要用五颜六色的试管",
+      "onboard_time": 1719952270,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 10373,
