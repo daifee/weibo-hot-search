@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719888085141,
+  "endTime": 1719888347357,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2194395,
-      "num": 2194395,
+      "raw_hot": 2320305,
+      "num": 2320305,
       "word": "B站崩了",
       "onboard_time": 1719886637,
       "rank": 0,
@@ -171,7 +171,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1325101,
+      "raw_hot": 1344558,
       "num": 845877,
       "word": "张志杰队医因未经裁判允许没有进场",
       "onboard_time": 1719884777,
@@ -595,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739319,
+      "num": 243472,
+      "word": "爸爸花了两千给弟弟填的志愿",
+      "onboard_time": 1719884718,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 733355,
       "num": 733355,
       "word": "江浙沪朋友们最近出门的样子",
       "onboard_time": 1719671178,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 726044,
-      "num": 243472,
-      "word": "爸爸花了两千给弟弟填的志愿",
-      "onboard_time": 1719884718,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 720754,
@@ -665,6 +665,14 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 674146,
+      "num": 674146,
+      "word": "公积金年度结息",
+      "onboard_time": 1719885378,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669112,
@@ -745,14 +753,6 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 639000,
-      "num": 639000,
-      "word": "公积金年度结息",
-      "onboard_time": 1719885378,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638016,
@@ -1172,7 +1172,7 @@
     },
     {
       "raw_hot": 523136,
-      "num": 235402,
+      "num": 235817,
       "word": "iPhone16Pro屏幕有重大升级",
       "onboard_time": 1719883397,
       "rank": 22,
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 444369,
-      "num": 194618,
+      "num": 223227,
       "word": "长期熬夜会增加身体核心器官负担",
       "onboard_time": 1719853932,
       "rank": 28,
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 404677,
-      "num": 231243,
+      "num": 232584,
       "word": "年轻人网贷8千债务变8万",
       "onboard_time": 1719883518,
       "rank": 24,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330281,
+      "num": 330281,
+      "word": "小红书崩了",
+      "onboard_time": 1719887898,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 329092,
@@ -2452,7 +2460,7 @@
     },
     {
       "raw_hot": 257205,
-      "num": 224633,
+      "num": 231382,
       "word": "韩国为迎接中国游客整顿倾销旅游",
       "onboard_time": 1719883639,
       "rank": 27,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1719814219,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247429,
+      "num": 247429,
+      "word": "百花奖提名",
+      "onboard_time": 1719887959,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 247417,
@@ -2763,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229484,
+      "num": 229484,
+      "word": "呷哺呷哺创始人回应3年亏8亿",
+      "onboard_time": 1719885857,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229303,
       "num": 229303,
       "word": "叶十七涂山璟上线",
@@ -2795,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223930,
-      "num": 223930,
-      "word": "呷哺呷哺创始人回应3年亏8亿",
-      "onboard_time": 1719885857,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -2819,20 +2835,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222119,
+      "num": 222119,
+      "word": "iPhoneX被列为过时产品",
+      "onboard_time": 1719884417,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 221333,
       "num": 221333,
       "word": "印尼媒体呼吁世羽联修改规则",
       "onboard_time": 1719830359,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220733,
-      "num": 220733,
-      "word": "iPhoneX被列为过时产品",
-      "onboard_time": 1719884417,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 220403,
@@ -3289,14 +3305,6 @@
       "onboard_time": 1719759858,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191680,
-      "num": 191680,
-      "word": "小红书崩了",
-      "onboard_time": 1719887898,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 191277,
@@ -3835,6 +3843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159477,
+      "num": 159477,
+      "word": "肖战魏无羡饭制五周年贺",
+      "onboard_time": 1719886999,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159350,
       "num": 159350,
       "word": "吴谨言最难熬的时候卡里就200块",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1719881479,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158991,
+      "num": 158991,
+      "word": "你比星光美丽开播",
+      "onboard_time": 1719888020,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 158394,
@@ -3963,14 +3987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152792,
-      "num": 152792,
-      "word": "百花奖提名",
-      "onboard_time": 1719887959,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152693,
       "num": 152693,
       "word": "孟子义向涵之合照",
@@ -4059,12 +4075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149094,
-      "num": 149094,
-      "word": "肖战魏无羡饭制五周年贺",
-      "onboard_time": 1719886999,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 149286,
+      "num": 149286,
+      "word": "贾玲再次导演影后双提百花奖",
+      "onboard_time": 1719888138,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 148258,
@@ -4819,6 +4835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123089,
+      "num": 451030,
+      "word": "记者调查罐车运输乱象",
+      "onboard_time": 1719885918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123049,
       "num": 123049,
       "word": "张杰乐队炫技秀",
@@ -5139,14 +5163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112753,
-      "num": 451030,
-      "word": "记者调查罐车运输乱象",
-      "onboard_time": 1719885918,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1719729257,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105826,
+      "num": 105826,
+      "word": "上合组织峰会是个什么会",
+      "onboard_time": 1719888318,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105667,
@@ -5515,6 +5539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96761,
+      "num": 97356,
+      "word": "别人脸部按摩李云霄脸部正骨",
+      "onboard_time": 1719887838,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96754,
       "num": 96754,
       "word": "房东的猫 这次的路口是离别",
@@ -5667,28 +5699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90326,
-      "num": 97357,
-      "word": "你比星光美丽开播",
-      "onboard_time": 1719888020,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90131,
       "num": 90131,
       "word": "伞兵灰绿色西装",
       "onboard_time": 1719746537,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89032,
-      "num": 97356,
-      "word": "别人脸部按摩李云霄脸部正骨",
-      "onboard_time": 1719887838,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 88971,
@@ -6140,7 +6156,7 @@
     },
     {
       "raw_hot": 58569,
-      "num": 895979,
+      "num": 1025961,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,

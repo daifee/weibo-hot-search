@@ -1,0 +1,410 @@
+{
+  "runTime": 1719888347357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2320305,
+        "num": 2320305,
+        "word": "B站崩了",
+        "onboard_time": 1719886637,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1422998,
+        "num": 1422998,
+        "word": "孟美岐再回应曾点评周传雄",
+        "onboard_time": 1719885857,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26031,
+        "num": 1025961,
+        "word": "我们向前中国向上",
+        "onboard_time": 1719844461,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853515,
+        "num": 853515,
+        "word": "郑爽电视剧出品公司股权被冻结",
+        "onboard_time": 1719885137,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783101,
+        "num": 783101,
+        "word": "人口出生率今年或迎小阳春",
+        "onboard_time": 1719882557,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 754656,
+        "num": 754656,
+        "word": "爱奇艺被判补偿41天黄金VIP会员",
+        "onboard_time": 1719878298,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 674146,
+        "num": 674146,
+        "word": "公积金年度结息",
+        "onboard_time": 1719885378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344558,
+        "num": 613579,
+        "word": "张志杰队医因未经裁判允许没有进场",
+        "onboard_time": 1719884777,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452914,
+        "num": 452914,
+        "word": "迪丽热巴十八岁就认识辛芷蕾了",
+        "onboard_time": 1719883938,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123089,
+        "num": 422807,
+        "word": "记者调查罐车运输乱象",
+        "onboard_time": 1719885918,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417850,
+        "num": 417850,
+        "word": "4人带宠物狗进熊猫基地被终身禁入",
+        "onboard_time": 1719884537,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395437,
+        "num": 395437,
+        "word": "李敏镐肿了",
+        "onboard_time": 1719846380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388703,
+        "num": 388703,
+        "word": "张志杰妈妈听到噩耗后病倒住院",
+        "onboard_time": 1719874993,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330281,
+        "num": 330281,
+        "word": "小红书崩了",
+        "onboard_time": 1719887898,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 300742,
+        "num": 300742,
+        "word": "空调长期不洗男子肺部感染险丧命",
+        "onboard_time": 1719865212,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290975,
+        "num": 290975,
+        "word": "央视总台发了肖战",
+        "onboard_time": 1719878177,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252693,
+        "num": 252693,
+        "word": "罐车卸完煤制油直接装运食用油",
+        "onboard_time": 1719884777,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247429,
+        "num": 247429,
+        "word": "百花奖提名",
+        "onboard_time": 1719887959,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244361,
+        "num": 244361,
+        "word": "张志杰姨夫发声",
+        "onboard_time": 1719877277,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242892,
+        "num": 242892,
+        "word": "勇士将退役克莱11号球衣",
+        "onboard_time": 1719884658,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739319,
+        "num": 241111,
+        "word": "爸爸花了两千给弟弟填的志愿",
+        "onboard_time": 1719884718,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561918,
+        "num": 237038,
+        "word": "当一个人朋友圈很干净时",
+        "onboard_time": 1719883038,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517341,
+        "num": 235817,
+        "word": "iPhone16Pro屏幕有重大升级",
+        "onboard_time": 1719883397,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232644,
+        "num": 232644,
+        "word": "金硕珍担任巴黎奥运会火炬手",
+        "onboard_time": 1719884476,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 424311,
+        "num": 232633,
+        "word": "突然搞不懂订婚的意义了",
+        "onboard_time": 1719876616,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377580,
+        "num": 232584,
+        "word": "年轻人网贷8千债务变8万",
+        "onboard_time": 1719883518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247601,
+        "num": 231382,
+        "word": "韩国为迎接中国游客整顿倾销旅游",
+        "onboard_time": 1719883639,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229907,
+        "num": 229907,
+        "word": "天水麻辣烫真的不火了吗",
+        "onboard_time": 1719879020,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229484,
+        "num": 229484,
+        "word": "呷哺呷哺创始人回应3年亏8亿",
+        "onboard_time": 1719885857,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148025,
+        "num": 223227,
+        "word": "长期熬夜会增加身体核心器官负担",
+        "onboard_time": 1719853932,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222119,
+        "num": 222119,
+        "word": "iPhoneX被列为过时产品",
+        "onboard_time": 1719884417,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179295,
+        "num": 179295,
+        "word": "高瀚宇带马立奥腿都走烂了",
+        "onboard_time": 1719877396,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176677,
+        "num": 176677,
+        "word": "这样干一天我得休一个星期",
+        "onboard_time": 1719877457,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 159477,
+        "word": "肖战魏无羡饭制五周年贺",
+        "onboard_time": 1719886999,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158991,
+        "num": 158991,
+        "word": "你比星光美丽开播",
+        "onboard_time": 1719888020,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 149286,
+        "word": "贾玲再次导演影后双提百花奖",
+        "onboard_time": 1719888138,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146968,
+        "num": 146968,
+        "word": "正在变老的明显特征是什么",
+        "onboard_time": 1719877277,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 141051,
+        "word": "C罗说这是我最后一届欧洲杯",
+        "onboard_time": 1719877876,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135570,
+        "num": 135570,
+        "word": "C罗哭了",
+        "onboard_time": 1719875296,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133268,
+        "num": 133268,
+        "word": "女子穿JK遭2男生偷拍嘲讽还直播",
+        "onboard_time": 1719845059,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126813,
+        "num": 126813,
+        "word": "北方人有多嫌弃挂面",
+        "onboard_time": 1719885978,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121429,
+        "num": 121429,
+        "word": "AC米兰悼念张志杰",
+        "onboard_time": 1719885257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "实在太爱我女儿的名字啦",
+        "onboard_time": 1719886219,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106352,
+        "num": 106352,
+        "word": "詹俊说上半区两场对决悬念拉满",
+        "onboard_time": 1719887356,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105826,
+        "num": 105826,
+        "word": "上合组织峰会是个什么会",
+        "onboard_time": 1719888318,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102909,
+        "num": 102909,
+        "word": "C罗姆巴佩8强对决",
+        "onboard_time": 1719886518,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100026,
+        "num": 100026,
+        "word": "杜江介绍珍珠的新生活",
+        "onboard_time": 1719885316,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96997,
+        "num": 96997,
+        "word": "Angelababy庆祝香港回归27周年",
+        "onboard_time": 1719849918,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96761,
+        "num": 96761,
+        "word": "别人脸部按摩李云霄脸部正骨",
+        "onboard_time": 1719887838,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89400,
+        "num": 89400,
+        "word": "XG上海演唱会过审",
+        "onboard_time": 1719886039,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#共产党人的初心#"
+    }
+  }
+}
