@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719930884424,
+  "endTime": 1719933591998,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1221874,
+      "num": 1221874,
+      "word": "菲律宾绑架中国人已成黑色产业链",
+      "onboard_time": 1719928700,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1198960,
       "num": 1198960,
       "word": "小红书崩了",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1119428,
+      "num": 1119428,
+      "word": "男孩举报百万粉丝博主剽窃视频卖课",
+      "onboard_time": 1719928880,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112830,
       "num": 1112830,
       "word": "本月你的工资或有多项调整",
@@ -307,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1028263,
+      "num": 401294,
+      "word": "新婚第二天离婚第三天异地",
+      "onboard_time": 1719930799,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1012370,
       "num": 533446,
       "word": "暴食了30个黄瓜和17个西红柿",
       "onboard_time": 1719910038,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 966175,
-      "num": 966175,
-      "word": "菲律宾绑架中国人已成黑色产业链",
-      "onboard_time": 1719928700,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946443,
@@ -651,14 +667,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 675410,
-      "num": 675410,
-      "word": "男孩举报百万粉丝博主剽窃视频卖课",
-      "onboard_time": 1719928880,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 669112,
       "num": 669112,
       "word": "张志杰",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 650605,
-      "num": 222993,
+      "num": 231197,
       "word": "原来衣服发臭是闷出来的",
       "onboard_time": 1719916099,
       "rank": 47,
@@ -809,6 +817,14 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606053,
+      "num": 385445,
+      "word": "Angelababy颈部线条",
+      "onboard_time": 1719930260,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 605416,
@@ -1339,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 437519,
+      "num": 439504,
+      "word": "江苏一男子携带人皮面具盗窃近20次",
+      "onboard_time": 1719928758,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436929,
       "num": 436929,
       "word": "中国地铁站有厕所让老外破防",
@@ -1459,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413786,
-      "num": 439504,
-      "word": "江苏一男子携带人皮面具盗窃近20次",
-      "onboard_time": 1719928758,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411847,
       "num": 291834,
       "word": "心脏骤停黄金抢救时间是4分钟",
@@ -1519,14 +1535,6 @@
       "num": 404513,
       "word": "张凌赫硬帅",
       "onboard_time": 1719913758,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 401294,
-      "num": 401294,
-      "word": "新婚第二天离婚第三天异地",
-      "onboard_time": 1719930799,
       "rank": 12,
       "category": "剧集"
     },
@@ -1635,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383699,
+      "num": 383699,
+      "word": "爸爸把女儿第一次上学拍成了纪录片",
+      "onboard_time": 1719931280,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383293,
       "num": 231528,
       "word": "离职后就这么发朋友圈",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1719840559,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367068,
+      "num": 367068,
+      "word": "赵小童去看梭梭树了",
+      "onboard_time": 1719931158,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 365774,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1719809481,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293910,
+      "num": 293910,
+      "word": "种地吧",
+      "onboard_time": 1719930920,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 293387,
@@ -2531,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225863,
+      "num": 225863,
+      "word": "自行车撞上迈巴赫",
+      "onboard_time": 1719931760,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225688,
       "num": 225688,
       "word": "上午说了辞职晚上就后悔了",
@@ -2545,14 +2585,6 @@
       "onboard_time": 1719813978,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224883,
-      "num": 224883,
-      "word": "Angelababy颈部线条",
-      "onboard_time": 1719930260,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223268,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196518,
+      "num": 196518,
+      "word": "故事会竟然还活着",
+      "onboard_time": 1719932659,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195995,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1719911538,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172451,
+      "num": 172451,
+      "word": "疱疹性咽峡炎高发季",
+      "onboard_time": 1719930379,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172303,
@@ -4043,6 +4091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136767,
+      "num": 136767,
+      "word": "许凯知道自己在撬墙角赛道",
+      "onboard_time": 1719933318,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136518,
       "num": 136518,
       "word": "于适也太会表白了",
@@ -4203,6 +4259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133020,
+      "num": 117402,
+      "word": "赵今麦撒娇",
+      "onboard_time": 1719932180,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "AC米兰悼念张志杰",
@@ -4337,14 +4401,6 @@
       "onboard_time": 1719835638,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128398,
-      "num": 128398,
-      "word": "疱疹性咽峡炎高发季",
-      "onboard_time": 1719930379,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127938,
@@ -4603,6 +4659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118670,
+      "num": 118670,
+      "word": "玱玹这一季的偷感真的很重",
+      "onboard_time": 1719930498,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118323,
       "num": 118323,
       "word": "坚持两年早睡早起带来的改变",
@@ -4641,6 +4705,14 @@
       "onboard_time": 1719923777,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114711,
+      "num": 114711,
+      "word": "我韩廷就站这看谁敢欺负纪星",
+      "onboard_time": 1719932180,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 114013,
@@ -4795,6 +4867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108303,
+      "num": 108303,
+      "word": "多方回应张志杰事件",
+      "onboard_time": 1719931640,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108253,
       "num": 108253,
       "word": "戚薇的手是调色盘吧",
@@ -4857,14 +4937,6 @@
       "onboard_time": 1719752418,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 105919,
-      "num": 105919,
-      "word": "玱玹这一季的偷感真的很重",
-      "onboard_time": 1719930498,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 105887,
@@ -5195,6 +5267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84421,
+      "num": 84421,
+      "word": "花花伸出小短手够竹笋太努力了",
+      "onboard_time": 1719932119,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82354,
       "num": 82354,
       "word": "吴彦祖又帅回来了",
@@ -5260,7 +5340,7 @@
     },
     {
       "raw_hot": 70421,
-      "num": 998623,
+      "num": 1000593,
       "word": "90元坐大巴去哈萨克斯坦",
       "onboard_time": 1719896421,
       "rank": 9,
@@ -5856,6 +5936,14 @@
       "word": "退役警犬三步一回头告别训导员",
       "onboard_time": 1719762018,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10220,
+      "num": 388733,
+      "word": "神十八乘组将择机第2次出舱",
+      "onboard_time": 1719908956,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
