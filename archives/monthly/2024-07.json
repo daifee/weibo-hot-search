@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719919013393,
+  "endTime": 1719920112290,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 819961,
+      "num": 819961,
+      "word": "老人花四千买净食机儿子觉得贵",
+      "onboard_time": 1719914717,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819804,
       "num": 819804,
       "word": "贾玲再次导演影后双提百花奖",
@@ -505,14 +513,6 @@
       "onboard_time": 1719888740,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 763997,
-      "num": 763997,
-      "word": "老人花四千买净食机儿子觉得贵",
-      "onboard_time": 1719914717,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 755059,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 650605,
-      "num": 179612,
+      "num": 181396,
       "word": "原来衣服发臭是闷出来的",
       "onboard_time": 1719916099,
       "rank": 47,
@@ -1547,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361312,
+      "num": 249230,
+      "word": "酒精发霉",
+      "onboard_time": 1719917417,
+      "rank": 16,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 357453,
       "num": 238594,
       "word": "30岁的老公和50岁的胡兵",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1719789074,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348557,
+      "num": 248767,
+      "word": "韩国首尔重大交通事故致9人死亡",
+      "onboard_time": 1719918798,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343613,
@@ -2051,6 +2067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250227,
+      "num": 250227,
+      "word": "深圳平均工资上涨了",
+      "onboard_time": 1719914959,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249469,
       "num": 242926,
       "word": "英格兰逆转晋级8强",
@@ -2120,14 +2144,6 @@
       "word": "4名斯里兰卡渔民饮用漂流瓶内液体身亡",
       "onboard_time": 1719893360,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243656,
-      "num": 243656,
-      "word": "深圳平均工资上涨了",
-      "onboard_time": 1719914959,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2443,14 +2459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208982,
-      "num": 208982,
-      "word": "酒精发霉",
-      "onboard_time": 1719917417,
-      "rank": 16,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 207980,
       "num": 207980,
       "word": "韩国一人一户一宠物家庭激增",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1719907698,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202046,
+      "num": 202046,
+      "word": "新西兰被袭中国留学生发声",
+      "onboard_time": 1719919099,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202025,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1719750559,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183503,
+      "num": 183503,
+      "word": "DK",
+      "onboard_time": 1719919577,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 183374,
@@ -3131,6 +3155,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161333,
+      "num": 161333,
+      "word": "网传华润银行违约反而让应届生赔1万",
+      "onboard_time": 1719918558,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161019,
+      "num": 161019,
+      "word": "今夕赫夕",
+      "onboard_time": 1719918738,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160693,
       "num": 160693,
       "word": "实习四个月送走三位同事",
@@ -3169,6 +3209,14 @@
       "onboard_time": 1719881479,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158636,
+      "num": 158636,
+      "word": "王俊凯高脚杯喝奶",
+      "onboard_time": 1719918798,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157562,
@@ -3273,14 +3321,6 @@
       "onboard_time": 1719811160,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153197,
-      "num": 153197,
-      "word": "王俊凯高脚杯喝奶",
-      "onboard_time": 1719918798,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153127,
@@ -3411,14 +3451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146012,
-      "num": 146012,
-      "word": "今夕赫夕",
-      "onboard_time": 1719918738,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145947,
       "num": 145947,
       "word": "张志杰突发意外全过程",
@@ -3499,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143180,
+      "num": 143180,
+      "word": "奇瑞被曝强制加班卷工时",
+      "onboard_time": 1719918198,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143120,
       "num": 143120,
       "word": "队友替张志杰完成夺冠心愿",
@@ -3576,6 +3616,14 @@
       "word": "吴艳妮女子100米栏冠军",
       "onboard_time": 1719745517,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140914,
+      "num": 140914,
+      "word": "印尼羽协公布张志杰抢救细节",
+      "onboard_time": 1719919638,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3697,6 +3745,22 @@
       "onboard_time": 1719908360,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136561,
+      "num": 136561,
+      "word": "一个考清华 一个烤面筋",
+      "onboard_time": 1719919697,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "于适也太会表白了",
+      "onboard_time": 1719918857,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 136360,
@@ -3955,6 +4019,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127938,
+      "num": 127938,
+      "word": "李泳知劝学",
+      "onboard_time": 1719919338,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127916,
+      "num": 127916,
+      "word": "狮子座的好是夸出来的",
+      "onboard_time": 1719918079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127750,
       "num": 127750,
       "word": "绝区零合作格莱美制作人",
@@ -3985,6 +4065,14 @@
       "onboard_time": 1719815060,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127306,
+      "num": 127306,
+      "word": "张颂文一件衬衫穿了近30年",
+      "onboard_time": 1719919338,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 127222,
@@ -4259,14 +4347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113237,
-      "num": 113237,
-      "word": "狮子座的好是夸出来的",
-      "onboard_time": 1719918079,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112996,
       "num": 112996,
       "word": "医学生的毕业典礼全是娃",
@@ -4281,14 +4361,6 @@
       "onboard_time": 1719804020,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112780,
-      "num": 112780,
-      "word": "网传华润银行违约反而让应届生赔1万",
-      "onboard_time": 1719918558,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -4523,28 +4595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99669,
-      "num": 99669,
-      "word": "韩国首尔重大交通事故致9人死亡",
-      "onboard_time": 1719918798,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
       "onboard_time": 1719889338,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98203,
-      "num": 98203,
-      "word": "于适也太会表白了",
-      "onboard_time": 1719918857,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 98067,
@@ -4609,14 +4665,6 @@
       "onboard_time": 1719806419,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95495,
-      "num": 95495,
-      "word": "奇瑞被曝强制加班卷工时",
-      "onboard_time": 1719918198,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 95083,
@@ -5081,6 +5129,14 @@
       "onboard_time": 1719782650,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37093,
+      "num": 171455,
+      "word": "花花的玻璃房生活来了",
+      "onboard_time": 1719917539,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36396,
