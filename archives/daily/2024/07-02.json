@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719923709787,
+  "endTime": 1719924634934,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806625,
+      "num": 806625,
+      "word": "上海辟谣跟佛祖借了100亿元",
+      "onboard_time": 1719921739,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776810,
       "num": 758079,
       "word": "郑爽未履行金额超1.2亿",
@@ -265,14 +273,6 @@
       "onboard_time": 1719884718,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 730057,
-      "num": 730057,
-      "word": "上海辟谣跟佛祖借了100亿元",
-      "onboard_time": 1719921739,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695254,
@@ -313,6 +313,14 @@
       "onboard_time": 1719849918,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629380,
+      "num": 392587,
+      "word": "世界羽联将彻查张志杰赛场离世",
+      "onboard_time": 1719922398,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 605416,
@@ -387,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 521943,
+      "num": 521943,
+      "word": "iPhone16预计需求强劲",
+      "onboard_time": 1719921798,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 519653,
       "num": 462351,
       "word": "杨紫31岁状态",
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495329,
+      "num": 495329,
+      "word": "戚薇李承铉真夫妻杀回来了",
+      "onboard_time": 1719923898,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491263,
       "num": 491263,
       "word": "男生游戏充7千爸爸带着搬钢管",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 486558,
-      "num": 305654,
+      "num": 480082,
       "word": "哮天犬扮演者陈创否认接受打赏",
       "onboard_time": 1719921918,
       "rank": 10,
@@ -529,14 +553,6 @@
       "onboard_time": 1719896601,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461146,
-      "num": 305587,
-      "word": "iPhone16预计需求强劲",
-      "onboard_time": 1719921798,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 445423,
@@ -667,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 389729,
+      "num": 389729,
+      "word": "酒霉酒霉 漂亮的霉霉",
+      "onboard_time": 1719922639,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 389291,
       "num": 389291,
       "word": "拜登",
@@ -707,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362161,
+      "num": 362161,
+      "word": "新西兰被袭中国留学生发声",
+      "onboard_time": 1719919099,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361312,
       "num": 307266,
       "word": "酒精发霉",
@@ -729,14 +761,6 @@
       "onboard_time": 1719900441,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 355418,
-      "num": 355418,
-      "word": "新西兰被袭中国留学生发声",
-      "onboard_time": 1719919099,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354130,
@@ -867,14 +891,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 300611,
-      "num": 300611,
-      "word": "世界羽联将彻查张志杰赛场离世",
-      "onboard_time": 1719922398,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298537,
       "num": 298537,
       "word": "偶遇鹿晗拍MV",
@@ -977,14 +993,6 @@
       "onboard_time": 1719883639,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 256742,
-      "num": 256742,
-      "word": "酒霉酒霉 漂亮的霉霉",
-      "onboard_time": 1719922639,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 256525,
@@ -1155,12 +1163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208039,
+      "num": 393050,
+      "word": "中公教育董事长回应退费",
+      "onboard_time": 1719923358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206023,
       "num": 206023,
       "word": "深圳6岁男童在家门口被货车碾死",
       "onboard_time": 1719912799,
       "rank": 41,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "赵今麦张凌赫 体型差",
+      "onboard_time": 1719923117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 202387,
@@ -1627,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152100,
+      "num": 152100,
+      "word": "C罗大赛任意球60中1",
+      "onboard_time": 1719921017,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151953,
       "num": 451030,
       "word": "记者调查罐车运输乱象",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1719904818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149313,
-      "num": 149313,
-      "word": "C罗大赛任意球60中1",
-      "onboard_time": 1719921017,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 149255,
@@ -1771,14 +1795,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 140205,
-      "num": 140205,
-      "word": "赵今麦张凌赫 体型差",
-      "onboard_time": 1719923117,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140170,
       "num": 140170,
       "word": "玉骨遥里遗憾是什么",
@@ -1832,6 +1848,14 @@
       "word": "佩佩失误",
       "onboard_time": 1719878658,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135811,
+      "num": 135811,
+      "word": "超120名中国大众跑者参赛巴黎奥运会",
+      "onboard_time": 1719924557,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1939,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129452,
+      "num": 129452,
+      "word": "深圳存量公积金贷款利率下调",
+      "onboard_time": 1719921499,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127938,
       "num": 127938,
       "word": "李泳知劝学",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1719919338,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127005,
-      "num": 127005,
-      "word": "深圳存量公积金贷款利率下调",
-      "onboard_time": 1719921499,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 126900,
@@ -2099,12 +2123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114437,
-      "num": 305824,
-      "word": "中公教育董事长回应退费",
-      "onboard_time": 1719923358,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 115474,
+      "num": 115474,
+      "word": "爹妈为了我的婚姻操碎了心",
+      "onboard_time": 1719923777,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 114230,
@@ -2251,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104512,
+      "num": 104512,
+      "word": "网红乔老师疑剽窃未成年视频卖课",
+      "onboard_time": 1719924258,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103815,
       "num": 103815,
       "word": "C罗姆巴佩8强对决",
@@ -2329,6 +2361,14 @@
       "onboard_time": 1719887838,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96540,
+      "num": 98181,
+      "word": "王昶说张志杰是冠军也是骄傲",
+      "onboard_time": 1719923959,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95633,
