@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719916646199,
+  "endTime": 1719919013393,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 763997,
+      "num": 763997,
+      "word": "老人花四千买净食机儿子觉得贵",
+      "onboard_time": 1719914717,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755059,
       "num": 732779,
       "word": "百花奖提名",
@@ -273,6 +281,14 @@
       "onboard_time": 1719877457,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 650605,
+      "num": 179612,
+      "word": "原来衣服发臭是闷出来的",
+      "onboard_time": 1719916099,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 637690,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 479557,
-      "num": 363763,
+      "num": 379587,
       "word": "网传建行总行降薪10%",
       "onboard_time": 1719912859,
       "rank": 48,
@@ -587,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400905,
-      "num": 400905,
+      "raw_hot": 404513,
+      "num": 404513,
       "word": "张凌赫硬帅",
       "onboard_time": 1719913758,
       "rank": 12,
@@ -633,6 +649,14 @@
       "onboard_time": 1719909859,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369299,
+      "num": 369299,
+      "word": "张元英式推拉",
+      "onboard_time": 1719915617,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 357453,
@@ -713,6 +737,14 @@
       "onboard_time": 1719889397,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 320819,
+      "num": 320819,
+      "word": "全红婵的巴黎奥运心愿",
+      "onboard_time": 1719916158,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 318673,
@@ -851,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254973,
-      "num": 254973,
-      "word": "老人花四千买净食机儿子觉得贵",
-      "onboard_time": 1719914717,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254118,
       "num": 220170,
       "word": "沈腾马丽新片 没苦硬吃",
@@ -896,6 +920,14 @@
       "word": "4名斯里兰卡渔民饮用漂流瓶内液体身亡",
       "onboard_time": 1719893360,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243656,
+      "num": 243656,
+      "word": "深圳平均工资上涨了",
+      "onboard_time": 1719914959,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1003,28 +1035,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208982,
+      "num": 208982,
+      "word": "酒精发霉",
+      "onboard_time": 1719917417,
+      "rank": 16,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206023,
       "num": 206023,
       "word": "深圳6岁男童在家门口被货车碾死",
       "onboard_time": 1719912799,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 204959,
-      "num": 204959,
-      "word": "张元英式推拉",
-      "onboard_time": 1719915617,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 202913,
-      "num": 202913,
-      "word": "深圳平均工资上涨了",
-      "onboard_time": 1719914959,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202387,
@@ -1355,6 +1379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 164912,
+      "num": 164912,
+      "word": "歌手",
+      "onboard_time": 1719918618,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163477,
       "num": 163477,
       "word": "跳舞对身材能有多大改变",
@@ -1435,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153197,
+      "num": 153197,
+      "word": "王俊凯高脚杯喝奶",
+      "onboard_time": 1719918798,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151953,
       "num": 451030,
       "word": "记者调查罐车运输乱象",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1719878658,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146012,
+      "num": 146012,
+      "word": "今夕赫夕",
+      "onboard_time": 1719918738,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 145650,
@@ -1579,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138093,
+      "num": 364854,
+      "word": "食品专业上课都是吃吃吃吗",
+      "onboard_time": 1719914418,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 136964,
       "num": 136964,
       "word": "小小的客厅竟然停下了五辆半挂",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1719900498,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134688,
+      "num": 134688,
+      "word": "你比星光美丽",
+      "onboard_time": 1719917299,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 134230,
@@ -1697,14 +1761,6 @@
       "onboard_time": 1719898520,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127221,
-      "num": 364854,
-      "word": "食品专业上课都是吃吃吃吗",
-      "onboard_time": 1719914418,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 126900,
@@ -1827,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114013,
+      "num": 114013,
+      "word": "119岁的狭义相对论",
+      "onboard_time": 1719917597,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 114010,
       "num": 114010,
       "word": "郑钦文一轮游",
@@ -1841,6 +1905,22 @@
       "onboard_time": 1719912677,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113237,
+      "num": 113237,
+      "word": "狮子座的好是夸出来的",
+      "onboard_time": 1719918079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112780,
+      "num": 112780,
+      "word": "网传华润银行违约反而让应届生赔1万",
+      "onboard_time": 1719918558,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -1867,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110129,
+      "num": 110129,
+      "word": "度华年直播",
+      "onboard_time": 1719918017,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109334,
       "num": 109334,
       "word": "詹俊说上半区两场对决悬念拉满",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1719910820,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107838,
+      "num": 107838,
+      "word": "逆水寒手游",
+      "onboard_time": 1719917958,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 107264,
@@ -1923,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104007,
-      "num": 104007,
-      "word": "全红婵的巴黎奥运心愿",
-      "onboard_time": 1719916158,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103815,
       "num": 103815,
       "word": "C罗姆巴佩8强对决",
@@ -1945,14 +2033,6 @@
       "onboard_time": 1719885316,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103448,
-      "num": 103448,
-      "word": "原来衣服发臭是闷出来的",
-      "onboard_time": 1719916099,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 103060,
@@ -1987,12 +2067,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99669,
+      "num": 99669,
+      "word": "韩国首尔重大交通事故致9人死亡",
+      "onboard_time": 1719918798,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
       "onboard_time": 1719889338,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98203,
+      "num": 98203,
+      "word": "于适也太会表白了",
+      "onboard_time": 1719918857,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 97359,
@@ -2017,6 +2113,14 @@
       "onboard_time": 1719846499,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "奇瑞被曝强制加班卷工时",
+      "onboard_time": 1719918198,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 93463,
@@ -2275,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57562,
+      "num": 131612,
+      "word": "罗翔回应在闲鱼搞副业",
+      "onboard_time": 1719915018,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57327,
       "num": 89074,
       "word": "年轻人运动猝死主要因不恰当运动强度",
@@ -2347,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43054,
+      "num": 309384,
+      "word": "退役护旗手升旗现场教小朋友敬礼",
+      "onboard_time": 1719918139,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43004,
       "num": 43004,
       "word": "入住酒店千万要小心",
@@ -2409,14 +2529,6 @@
       "onboard_time": 1719856152,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32440,
-      "num": 131612,
-      "word": "罗翔回应在闲鱼搞副业",
-      "onboard_time": 1719915018,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 31164,
