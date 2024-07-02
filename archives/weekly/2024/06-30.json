@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719888347357,
+  "endTime": 1719890488567,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1475000,
+      "num": 845877,
+      "word": "张志杰队医因未经裁判允许没有进场",
+      "onboard_time": 1719884777,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1469824,
       "num": 381253,
       "word": "网约车司机强奸未成年乘客获刑3年",
@@ -169,14 +177,6 @@
       "onboard_time": 1719823338,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1344558,
-      "num": 845877,
-      "word": "张志杰队医因未经裁判允许没有进场",
-      "onboard_time": 1719884777,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1299328,
@@ -273,6 +273,14 @@
       "onboard_time": 1719739037,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1108801,
+      "num": 1108801,
+      "word": "小红书崩了",
+      "onboard_time": 1719887898,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 1100708,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 909290,
-      "num": 235097,
+      "num": 240115,
       "word": "突然搞不懂订婚的意义了",
       "onboard_time": 1719876616,
       "rank": 16,
@@ -571,6 +579,30 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 788865,
+      "num": 788865,
+      "word": "贾玲再次导演影后双提百花奖",
+      "onboard_time": 1719888138,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 755059,
+      "num": 732779,
+      "word": "百花奖提名",
+      "onboard_time": 1719887959,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 750543,
+      "num": 750543,
+      "word": "公积金年度结息",
+      "onboard_time": 1719885378,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750205,
       "num": 750205,
       "word": "有班味这么重的皇后进入国产剧",
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 739319,
-      "num": 243472,
+      "num": 245561,
       "word": "爸爸花了两千给弟弟填的志愿",
       "onboard_time": 1719884718,
       "rank": 20,
@@ -665,14 +697,6 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 674146,
-      "num": 674146,
-      "word": "公积金年度结息",
-      "onboard_time": 1719885378,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669112,
@@ -939,8 +963,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589429,
+      "num": 390178,
+      "word": "郑爽未履行金额超1.2亿",
+      "onboard_time": 1719888740,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589287,
-      "num": 241788,
+      "num": 244415,
       "word": "当一个人朋友圈很干净时",
       "onboard_time": 1719883038,
       "rank": 31,
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 523136,
-      "num": 235817,
+      "num": 241327,
       "word": "iPhone16Pro屏幕有重大升级",
       "onboard_time": 1719883397,
       "rank": 22,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1719840379,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464395,
+      "num": 438467,
+      "word": "沈腾马丽新片提档",
+      "onboard_time": 1719889220,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 464153,
@@ -2003,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337102,
+      "num": 337102,
+      "word": "呷哺呷哺创始人回应3年亏8亿",
+      "onboard_time": 1719885857,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332581,
       "num": 332581,
       "word": "上海60岁阿姨暴雨送别伊势丹百货",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1719791778,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330281,
-      "num": 330281,
-      "word": "小红书崩了",
-      "onboard_time": 1719887898,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 329092,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1719743297,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316023,
+      "num": 316023,
+      "word": "黄子韬要和徐艺洋一起去卫生间",
+      "onboard_time": 1719890117,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 315630,
@@ -2321,6 +2369,14 @@
       "onboard_time": 1719753800,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 285179,
+      "num": 245004,
+      "word": "王俊凯提名百花奖最佳男主角",
+      "onboard_time": 1719888499,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 283952,
@@ -2579,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247429,
-      "num": 247429,
-      "word": "百花奖提名",
-      "onboard_time": 1719887959,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247417,
       "num": 247417,
       "word": "王星越直播比心手都在抖",
@@ -2609,6 +2657,14 @@
       "onboard_time": 1719884476,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 246426,
+      "num": 246426,
+      "word": "恋与深空崩了",
+      "onboard_time": 1719889397,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 245375,
@@ -2731,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233542,
+      "num": 233542,
+      "word": "肖战玉骨遥新海报",
+      "onboard_time": 1719890178,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232794,
       "num": 232794,
       "word": "F1",
@@ -2776,14 +2840,6 @@
       "word": "妈妈丢了30年的吊坠苹果地里找到了",
       "onboard_time": 1719642797,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229484,
-      "num": 229484,
-      "word": "呷哺呷哺创始人回应3年亏8亿",
-      "onboard_time": 1719885857,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2873,6 +2929,14 @@
       "onboard_time": 1719667159,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217547,
+      "num": 217546,
+      "word": "出道战 剧本",
+      "onboard_time": 1719889878,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 217473,
@@ -3051,6 +3115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204854,
+      "num": 204854,
+      "word": "男生游戏充7千爸爸带着搬钢管",
+      "onboard_time": 1719886578,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204603,
       "num": 204603,
       "word": "严浩翔出场方式好city",
@@ -3155,12 +3227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201363,
+      "num": 201363,
+      "word": "朱一龙提名百花奖最佳男主角",
+      "onboard_time": 1719890240,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "体育生谈国家级运动员证造假上名校",
       "onboard_time": 1719738976,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200300,
+      "num": 200300,
+      "word": "百花奖最佳女配提名",
+      "onboard_time": 1719889519,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 199988,
@@ -3297,6 +3385,14 @@
       "onboard_time": 1719743478,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192572,
+      "num": 192572,
+      "word": "柯南30周年纪念展来上海了",
+      "onboard_time": 1719890358,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 192495,
@@ -3619,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175353,
+      "num": 175353,
+      "word": "在聚餐的男朋友突然给我发晚安",
+      "onboard_time": 1719890000,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175231,
       "num": 175231,
       "word": "3类运动容易引发运动性猝死",
@@ -3649,6 +3753,22 @@
       "onboard_time": 1719831378,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171335,
+      "num": 171335,
+      "word": "你比星光美丽开播",
+      "onboard_time": 1719888020,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170993,
+      "num": 170993,
+      "word": "百花奖最佳女主提名",
+      "onboard_time": 1719888978,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 170886,
@@ -3713,6 +3833,14 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166272,
+      "num": 166272,
+      "word": "绝区零内存",
+      "onboard_time": 1719889820,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 165729,
@@ -3867,14 +3995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158991,
-      "num": 158991,
-      "word": "你比星光美丽开播",
-      "onboard_time": 1719888020,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158394,
       "num": 158394,
       "word": "意大利欧洲杯出局",
@@ -4003,12 +4123,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152015,
+      "num": 152015,
+      "word": "男朋友带父母参观我买的房子",
+      "onboard_time": 1719890178,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151992,
       "num": 151992,
       "word": "范志毅说要谨言慎行",
       "onboard_time": 1719802758,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151953,
+      "num": 451030,
+      "word": "记者调查罐车运输乱象",
+      "onboard_time": 1719885918,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151764,
@@ -4073,14 +4209,6 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149286,
-      "num": 149286,
-      "word": "贾玲再次导演影后双提百花奖",
-      "onboard_time": 1719888138,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 148258,
@@ -4835,14 +4963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123089,
-      "num": 451030,
-      "word": "记者调查罐车运输乱象",
-      "onboard_time": 1719885918,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123049,
       "num": 123049,
       "word": "张杰乐队炫技秀",
@@ -5475,6 +5595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100467,
+      "num": 245952,
+      "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
+      "onboard_time": 1719889637,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100184,
       "num": 100184,
       "word": "汪苏泷7月除了歌手还有4场巡演",
@@ -5947,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74457,
+      "num": 1126846,
+      "word": "60秒带你环游哈萨克斯坦",
+      "onboard_time": 1719889338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73347,
       "num": 86500,
       "word": "急于逼你做决定的人通常是骗子",
@@ -6289,6 +6425,14 @@
       "onboard_time": 1719861670,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45253,
+      "num": 217547,
+      "word": "西南医院多学科专家救治870克超早产儿",
+      "onboard_time": 1719890178,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43004,
@@ -6825,6 +6969,14 @@
       "onboard_time": 1719666980,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7131,
+      "num": 218349,
+      "word": "纽约华人美甲店遭车撞入致4死9伤",
+      "onboard_time": 1719890420,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -6854,6 +7006,9 @@
     },
     {
       "word": "#习主席中亚之行#"
+    },
+    {
+      "word": "#习近平中亚行#"
     }
   ]
 }
