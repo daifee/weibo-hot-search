@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719884578642,
+  "endTime": 1719888085141,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -17,6 +17,14 @@
       "onboard_time": 1719820099,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2194395,
+      "num": 2194395,
+      "word": "B站崩了",
+      "onboard_time": 1719886637,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2149755,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1779955,
-      "num": 359440,
+      "num": 422741,
       "word": "李敏镐肿了",
       "onboard_time": 1719846380,
       "rank": 10,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1455440,
+      "num": 1455440,
+      "word": "孟美岐再回应曾点评周传雄",
+      "onboard_time": 1719885857,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1436248,
       "num": 1436248,
       "word": "黄子韬说没有鹿晗就不会签徐艺洋",
@@ -155,8 +171,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1325101,
+      "num": 845877,
+      "word": "张志杰队医因未经裁判允许没有进场",
+      "onboard_time": 1719884777,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1299328,
-      "num": 359509,
+      "num": 426004,
       "word": "张志杰妈妈听到噩耗后病倒住院",
       "onboard_time": 1719874993,
       "rank": 23,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 909290,
-      "num": 196190,
+      "num": 235097,
       "word": "突然搞不懂订婚的意义了",
       "onboard_time": 1719876616,
       "rank": 16,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869944,
+      "num": 869944,
+      "word": "郑爽电视剧出品公司股权被冻结",
+      "onboard_time": 1719885137,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863090,
       "num": 863090,
       "word": "冯禧中传硕士毕业",
@@ -449,6 +481,14 @@
       "onboard_time": 1719821477,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 848435,
+      "num": 848435,
+      "word": "人口出生率今年或迎小阳春",
+      "onboard_time": 1719882557,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 848241,
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 808166,
-      "num": 808166,
-      "word": "人口出生率今年或迎小阳春",
-      "onboard_time": 1719882557,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 803029,
       "num": 710290,
       "word": "韩国第二大城市釜山进入消失阶段",
@@ -569,6 +601,14 @@
       "onboard_time": 1719671178,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 726044,
+      "num": 243472,
+      "word": "爸爸花了两千给弟弟填的志愿",
+      "onboard_time": 1719884718,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 720754,
@@ -705,6 +745,14 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639000,
+      "num": 639000,
+      "word": "公积金年度结息",
+      "onboard_time": 1719885378,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638016,
@@ -889,6 +937,14 @@
       "onboard_time": 1719708075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589287,
+      "num": 241788,
+      "word": "当一个人朋友圈很干净时",
+      "onboard_time": 1719883038,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 588890,
@@ -1115,6 +1171,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 523136,
+      "num": 235402,
+      "word": "iPhone16Pro屏幕有重大升级",
+      "onboard_time": 1719883397,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 519384,
       "num": 656240,
       "word": "爸爸让女儿用眼泪把盆装满才开电视",
@@ -1243,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486504,
+      "num": 486504,
+      "word": "迪丽热巴十八岁就认识辛芷蕾了",
+      "onboard_time": 1719883938,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481960,
       "num": 322554,
       "word": "家长去武校看儿子其正被按地上抽",
@@ -1289,14 +1361,6 @@
       "onboard_time": 1719729557,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473117,
-      "num": 185282,
-      "word": "当一个人朋友圈很干净时",
-      "onboard_time": 1719883038,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 472410,
@@ -1555,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 420569,
+      "num": 420569,
+      "word": "4人带宠物狗进熊猫基地被终身禁入",
+      "onboard_time": 1719884537,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418045,
       "num": 293388,
       "word": "崔泰俊ZICO聊天内容",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1719797358,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404677,
+      "num": 231243,
+      "word": "年轻人网贷8千债务变8万",
+      "onboard_time": 1719883518,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399378,
@@ -1777,14 +1857,6 @@
       "onboard_time": 1719739217,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366213,
-      "num": 185043,
-      "word": "iPhone16Pro屏幕有重大升级",
-      "onboard_time": 1719883397,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 365774,
@@ -2275,20 +2347,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280924,
+      "num": 280924,
+      "word": "罐车卸完煤制油直接装运食用油",
+      "onboard_time": 1719884777,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279091,
       "num": 230044,
       "word": "如何用3周瘦42斤",
       "onboard_time": 1719758959,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 277842,
-      "num": 179371,
-      "word": "年轻人网贷8千债务变8万",
-      "onboard_time": 1719883518,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276100,
@@ -2339,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268871,
-      "num": 268871,
-      "word": "迪丽热巴十八岁就认识辛芷蕾了",
-      "onboard_time": 1719883938,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267513,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1719753558,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257205,
+      "num": 224633,
+      "word": "韩国为迎接中国游客整顿倾销旅游",
+      "onboard_time": 1719883639,
+      "rank": 27,
+      "category": "旅游"
     },
     {
       "raw_hot": 256856,
@@ -2505,6 +2577,22 @@
       "onboard_time": 1719808762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247360,
+      "num": 247360,
+      "word": "勇士将退役克莱11号球衣",
+      "onboard_time": 1719884658,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246673,
+      "num": 246673,
+      "word": "金硕珍担任巴黎奥运会火炬手",
+      "onboard_time": 1719884476,
+      "rank": 17,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 245375,
@@ -2707,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223930,
+      "num": 223930,
+      "word": "呷哺呷哺创始人回应3年亏8亿",
+      "onboard_time": 1719885857,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -2729,6 +2825,14 @@
       "onboard_time": 1719830359,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220733,
+      "num": 220733,
+      "word": "iPhoneX被列为过时产品",
+      "onboard_time": 1719884417,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 220403,
@@ -2849,14 +2953,6 @@
       "onboard_time": 1719837618,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212499,
-      "num": 212499,
-      "word": "金硕珍担任巴黎奥运会火炬手",
-      "onboard_time": 1719884476,
-      "rank": 17,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 209502,
@@ -3193,6 +3289,14 @@
       "onboard_time": 1719759858,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191680,
+      "num": 191680,
+      "word": "小红书崩了",
+      "onboard_time": 1719887898,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 191277,
@@ -3563,14 +3667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169306,
-      "num": 169306,
-      "word": "韩国为迎接中国游客整顿倾销旅游",
-      "onboard_time": 1719883639,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 168820,
       "num": 168820,
       "word": "德国vs丹麦",
@@ -3867,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152792,
+      "num": 152792,
+      "word": "百花奖提名",
+      "onboard_time": 1719887959,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152693,
       "num": 152693,
       "word": "孟子义向涵之合照",
@@ -3953,6 +4057,14 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149094,
+      "num": 149094,
+      "word": "肖战魏无羡饭制五周年贺",
+      "onboard_time": 1719886999,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148258,
@@ -4379,6 +4491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134151,
+      "num": 134151,
+      "word": "北方人有多嫌弃挂面",
+      "onboard_time": 1719885978,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134081,
       "num": 567137,
       "word": "苏州大学录取通知书太走心了",
@@ -4425,6 +4545,14 @@
       "onboard_time": 1719815418,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132909,
+      "num": 132909,
+      "word": "AC米兰悼念张志杰",
+      "onboard_time": 1719885257,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132827,
@@ -4699,6 +4827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122983,
+      "num": 122983,
+      "word": "实在太爱我女儿的名字啦",
+      "onboard_time": 1719886219,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122927,
       "num": 122927,
       "word": "湖南平江发布抗击特大洪水通告",
@@ -4907,14 +5043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116914,
-      "num": 116914,
-      "word": "iPhoneX被列为过时产品",
-      "onboard_time": 1719884417,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "林青霞汤唯同框",
@@ -5011,20 +5139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112753,
+      "num": 451030,
+      "word": "记者调查罐车运输乱象",
+      "onboard_time": 1719885918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
       "onboard_time": 1719674058,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112077,
-      "num": 112077,
-      "word": "4人带宠物狗进熊猫基地被终身禁入",
-      "onboard_time": 1719884537,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111697,
@@ -5097,6 +5225,14 @@
       "onboard_time": 1719668720,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 109334,
+      "num": 109334,
+      "word": "詹俊说上半区两场对决悬念拉满",
+      "onboard_time": 1719887356,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 108253,
@@ -5219,6 +5355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103815,
+      "num": 103815,
+      "word": "C罗姆巴佩8强对决",
+      "onboard_time": 1719886518,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103616,
       "num": 103616,
       "word": "大哥远 快乐向前冲",
@@ -5233,6 +5377,14 @@
       "onboard_time": 1719837020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 103467,
+      "word": "杜江介绍珍珠的新生活",
+      "onboard_time": 1719885316,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 103361,
@@ -5347,6 +5499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97359,
+      "num": 97359,
+      "word": "XG上海演唱会过审",
+      "onboard_time": 1719886039,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97129,
       "num": 97129,
       "word": "遇到心脏骤停如何救命",
@@ -5427,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92981,
+      "num": 97358,
+      "word": "giselle保存粉丝拍的照片",
+      "onboard_time": 1719886399,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92316,
       "num": 92316,
       "word": "张之臻晋级温网第二轮",
@@ -5499,12 +5667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90326,
+      "num": 97357,
+      "word": "你比星光美丽开播",
+      "onboard_time": 1719888020,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90131,
       "num": 90131,
       "word": "伞兵灰绿色西装",
       "onboard_time": 1719746537,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89032,
+      "num": 97356,
+      "word": "别人脸部按摩李云霄脸部正骨",
+      "onboard_time": 1719887838,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88971,
@@ -5956,7 +6140,7 @@
     },
     {
       "raw_hot": 58569,
-      "num": 824683,
+      "num": 895979,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
