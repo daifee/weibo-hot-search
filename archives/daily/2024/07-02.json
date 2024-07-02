@@ -1,14 +1,38 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719876902256,
+  "endTime": 1719883302833,
   "band_list": [
     {
+      "raw_hot": 1469173,
+      "num": 1469173,
+      "word": "爱奇艺被判补偿41天黄金VIP会员",
+      "onboard_time": 1719878298,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1363305,
-      "num": 177667,
+      "num": 359440,
       "word": "李敏镐肿了",
       "onboard_time": 1719846380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1299328,
+      "num": 359509,
+      "word": "张志杰妈妈听到噩耗后病倒住院",
+      "onboard_time": 1719874993,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 909290,
+      "num": 196190,
+      "word": "突然搞不懂订婚的意义了",
+      "onboard_time": 1719876616,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 817441,
@@ -35,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691367,
+      "num": 691367,
+      "word": "天水麻辣烫真的不火了吗",
+      "onboard_time": 1719879020,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 655092,
+      "num": 655092,
+      "word": "这样干一天我得休一个星期",
+      "onboard_time": 1719877457,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637690,
       "num": 637690,
       "word": "平江特大暴雨",
@@ -44,23 +84,47 @@
     },
     {
       "raw_hot": 532172,
-      "num": 176834,
+      "num": 249503,
       "word": "医院认定死亡后中国羽协仍尝试转院",
       "onboard_time": 1719832578,
       "rank": 11,
       "category": "体育"
     },
     {
+      "raw_hot": 523854,
+      "num": 523854,
+      "word": "央视总台发了肖战",
+      "onboard_time": 1719878177,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506164,
+      "num": 359306,
+      "word": "张志杰姨夫发声",
+      "onboard_time": 1719877277,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505215,
-      "num": 139116,
+      "num": 159574,
       "word": "情侣同居不同房是怎样的",
       "onboard_time": 1719837798,
       "rank": 20,
       "category": "情感"
     },
     {
+      "raw_hot": 490079,
+      "num": 430450,
+      "word": "高瀚宇带马立奥腿都走烂了",
+      "onboard_time": 1719877396,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468999,
-      "num": 176705,
+      "num": 218814,
       "word": "欧阳龙嘴对嘴亲欧阳妮妮",
       "onboard_time": 1719837138,
       "rank": 12,
@@ -68,7 +132,7 @@
     },
     {
       "raw_hot": 444369,
-      "num": 119949,
+      "num": 194618,
       "word": "长期熬夜会增加身体核心器官负担",
       "onboard_time": 1719853932,
       "rank": 28,
@@ -81,6 +145,14 @@
       "onboard_time": 1719838100,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432391,
+      "num": 432391,
+      "word": "C罗说这是我最后一届欧洲杯",
+      "onboard_time": 1719877876,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 431649,
@@ -107,6 +179,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 359683,
+      "num": 359683,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354130,
       "num": 354130,
       "word": "朋友圈先仅自己可见三天后再公开",
@@ -116,19 +196,11 @@
     },
     {
       "raw_hot": 351195,
-      "num": 170348,
+      "num": 284710,
       "word": "官方回应吃播卤羊头内吃出草",
       "onboard_time": 1719863471,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348995,
-      "num": 109226,
-      "word": "张志杰妈妈听到噩耗后病倒住院",
-      "onboard_time": 1719874993,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 314847,
@@ -156,7 +228,7 @@
     },
     {
       "raw_hot": 292400,
-      "num": 127285,
+      "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
       "onboard_time": 1719849918,
       "rank": 23,
@@ -172,11 +244,19 @@
     },
     {
       "raw_hot": 285817,
-      "num": 97821,
+      "num": 155357,
       "word": "葡萄牙门将点球大战三连扑",
       "onboard_time": 1719875834,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279677,
+      "num": 279677,
+      "word": "正在变老的明显特征是什么",
+      "onboard_time": 1719877277,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 249301,
@@ -185,14 +265,6 @@
       "onboard_time": 1719846138,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246841,
-      "num": 111452,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238712,
@@ -227,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198540,
+      "num": 198540,
+      "word": "优酷宠爱剧场升级生花剧场",
+      "onboard_time": 1719882077,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192278,
       "num": 192278,
       "word": "韩国第二大城市釜山进入消失阶段",
@@ -235,12 +315,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 190677,
+      "num": 190677,
+      "word": "去面试时只有自己穿了正装",
+      "onboard_time": 1719876555,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188562,
       "num": 174378,
       "word": "张子墨 自摸哥",
       "onboard_time": 1719840379,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181946,
+      "num": 181946,
+      "word": "人口出生率今年或迎小阳春",
+      "onboard_time": 1719882557,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 180428,
+      "num": 180428,
+      "word": "千万不要在街边座位上睡着了",
+      "onboard_time": 1719879378,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 178701,
@@ -259,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169510,
+      "num": 169510,
+      "word": "突然发现了韩国文化的精髓",
+      "onboard_time": 1719877036,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "特斯拉市值一夜大涨近2800亿元",
+      "onboard_time": 1719877036,
+      "rank": 29,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 166365,
       "num": 119137,
       "word": "中企人员在菲被绑架付300万后仍遇害",
@@ -267,12 +387,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164068,
-      "num": 127967,
-      "word": "突然搞不懂订婚的意义了",
-      "onboard_time": 1719876616,
-      "rank": 16,
+      "raw_hot": 163477,
+      "num": 163477,
+      "word": "跳舞对身材能有多大改变",
+      "onboard_time": 1719878357,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 160959,
+      "num": 160959,
+      "word": "当一个人朋友圈很干净时",
+      "onboard_time": 1719883038,
+      "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159017,
+      "num": 159017,
+      "word": "林小宅全新演员公示照",
+      "onboard_time": 1719881479,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 154644,
@@ -283,11 +419,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147008,
+      "num": 147008,
+      "word": "一放暑假8个外甥又来了",
+      "onboard_time": 1719878658,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141510,
+      "num": 141510,
+      "word": "姨夫称张志杰无心脏病史",
+      "onboard_time": 1719880757,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140930,
       "num": 140930,
       "word": "张志杰比赛中猝死谁之过",
       "onboard_time": 1719833298,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135948,
+      "num": 135948,
+      "word": "佩佩失误",
+      "onboard_time": 1719878658,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -299,12 +459,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133633,
+      "num": 133633,
+      "word": "姆巴佩面具",
+      "onboard_time": 1719878539,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130054,
+      "num": 130054,
+      "word": "31马赫",
+      "onboard_time": 1719880159,
+      "rank": 40,
+      "category": "科学科普,国内时政"
+    },
+    {
       "raw_hot": 120102,
       "num": 120102,
       "word": "葡萄牙门将好牛",
       "onboard_time": 1719875235,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119880,
+      "num": 119880,
+      "word": "医学专家分析张志杰比赛晕倒离世",
+      "onboard_time": 1719883098,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119244,
+      "num": 119244,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1719879319,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 118899,
@@ -315,12 +507,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "坚持两年早睡早起带来的改变",
+      "onboard_time": 1719876555,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118012,
+      "num": 118012,
+      "word": "90后女生带一群退休阿姨再创业",
+      "onboard_time": 1719880519,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "檀健次真的是天选相柳",
       "onboard_time": 1719840559,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114010,
+      "num": 114010,
+      "word": "郑钦文一轮游",
+      "onboard_time": 1719882798,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111439,
@@ -353,6 +569,14 @@
       "onboard_time": 1719872772,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102801,
+      "num": 102801,
+      "word": "汨罗江平江站出现1954年以来最高水位",
+      "onboard_time": 1719881777,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101957,
@@ -393,6 +617,14 @@
       "onboard_time": 1719846320,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91106,
+      "num": 91106,
+      "word": "水花兄弟散伙",
+      "onboard_time": 1719878957,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90451,
@@ -515,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71600,
-      "num": 71600,
-      "word": "去面试时只有自己穿了正装",
-      "onboard_time": 1719876555,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -561,14 +785,6 @@
       "onboard_time": 1719838038,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 64675,
-      "num": 64675,
-      "word": "坚持两年早睡早起带来的改变",
-      "onboard_time": 1719876555,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 64401,
@@ -635,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52454,
+      "num": 359588,
+      "word": "77岁阿伯大老远去早市给女儿买花",
+      "onboard_time": 1719882377,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45330,
       "num": 43950,
       "word": "黄子韬曾说30岁会考虑成家",
@@ -651,20 +875,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43451,
+      "num": 670014,
+      "word": "我们向前中国向上",
+      "onboard_time": 1719844461,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43004,
       "num": 43004,
       "word": "入住酒店千万要小心",
       "onboard_time": 1719864431,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 37558,
-      "num": 497213,
-      "word": "我们向前中国向上",
-      "onboard_time": 1719844461,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34969,

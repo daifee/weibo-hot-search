@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719876902256,
+  "endTime": 1719883302833,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1779955,
-      "num": 300067,
+      "num": 359440,
       "word": "李敏镐肿了",
       "onboard_time": 1719846380,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469173,
+      "num": 1469173,
+      "word": "爱奇艺被判补偿41天黄金VIP会员",
+      "onboard_time": 1719878298,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1436248,
       "num": 1436248,
       "word": "黄子韬说没有鹿晗就不会签徐艺洋",
@@ -145,6 +153,14 @@
       "onboard_time": 1719823338,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1299328,
+      "num": 359509,
+      "word": "张志杰妈妈听到噩耗后病倒住院",
+      "onboard_time": 1719874993,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1294707,
@@ -329,6 +345,14 @@
       "onboard_time": 1719745517,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 909290,
+      "num": 196190,
+      "word": "突然搞不懂订婚的意义了",
+      "onboard_time": 1719876616,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 902983,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 691367,
+      "num": 691367,
+      "word": "天水麻辣烫真的不火了吗",
+      "onboard_time": 1719879020,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 689703,
       "num": 689703,
       "word": "中国留学生在新西兰遭袭面部严重损伤",
@@ -633,6 +665,14 @@
       "onboard_time": 1719824119,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655092,
+      "num": 655092,
+      "word": "这样干一天我得休一个星期",
+      "onboard_time": 1719877457,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 652116,
@@ -1059,6 +1099,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 523854,
+      "num": 523854,
+      "word": "央视总台发了肖战",
+      "onboard_time": 1719878177,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519384,
       "num": 656240,
       "word": "爸爸让女儿用眼泪把盆装满才开电视",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1719788714,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 506164,
+      "num": 359306,
+      "word": "张志杰姨夫发声",
+      "onboard_time": 1719877277,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 504297,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1719828438,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490079,
+      "num": 430450,
+      "word": "高瀚宇带马立奥腿都走烂了",
+      "onboard_time": 1719877396,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 489558,
@@ -1340,7 +1404,7 @@
     },
     {
       "raw_hot": 444369,
-      "num": 119949,
+      "num": 194618,
       "word": "长期熬夜会增加身体核心器官负担",
       "onboard_time": 1719853932,
       "rank": 28,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1719822079,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 432391,
+      "num": 432391,
+      "word": "C罗说这是我最后一届欧洲杯",
+      "onboard_time": 1719877876,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 431693,
@@ -1699,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359683,
+      "num": 359683,
+      "word": "空调长期不洗男子肺部感染险丧命",
+      "onboard_time": 1719865212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356158,
       "num": 356158,
       "word": "深中通道堵了",
@@ -1740,7 +1820,7 @@
     },
     {
       "raw_hot": 351195,
-      "num": 170348,
+      "num": 284710,
       "word": "官方回应吃播卤羊头内吃出草",
       "onboard_time": 1719863471,
       "rank": 17,
@@ -1753,14 +1833,6 @@
       "onboard_time": 1719789074,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 348995,
-      "num": 109226,
-      "word": "张志杰妈妈听到噩耗后病倒住院",
-      "onboard_time": 1719874993,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 346862,
@@ -2100,7 +2172,7 @@
     },
     {
       "raw_hot": 292400,
-      "num": 127285,
+      "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
       "onboard_time": 1719849918,
       "rank": 23,
@@ -2124,7 +2196,7 @@
     },
     {
       "raw_hot": 285817,
-      "num": 97821,
+      "num": 155357,
       "word": "葡萄牙门将点球大战三连扑",
       "onboard_time": 1719875834,
       "rank": 30,
@@ -2169,6 +2241,14 @@
       "onboard_time": 1719798078,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279677,
+      "num": 279677,
+      "word": "正在变老的明显特征是什么",
+      "onboard_time": 1719877277,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 279091,
@@ -2385,14 +2465,6 @@
       "onboard_time": 1719808762,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246841,
-      "num": 111452,
-      "word": "空调长期不洗男子肺部感染险丧命",
-      "onboard_time": 1719865212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245375,
@@ -2963,6 +3035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198540,
+      "num": 198540,
+      "word": "优酷宠爱剧场升级生花剧场",
+      "onboard_time": 1719882077,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198051,
       "num": 186771,
       "word": "张碧晨演唱会",
@@ -3081,6 +3161,14 @@
       "onboard_time": 1719804378,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190677,
+      "num": 190677,
+      "word": "去面试时只有自己穿了正装",
+      "onboard_time": 1719876555,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 190497,
@@ -3267,12 +3355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181946,
+      "num": 181946,
+      "word": "人口出生率今年或迎小阳春",
+      "onboard_time": 1719882557,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180911,
       "num": 180911,
       "word": "巴菲特去世后不再向盖茨基金会捐赠",
       "onboard_time": 1719798738,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180428,
+      "num": 180428,
+      "word": "千万不要在街边座位上睡着了",
+      "onboard_time": 1719879378,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 179914,
@@ -3411,12 +3515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169510,
+      "num": 169510,
+      "word": "突然发现了韩国文化的精髓",
+      "onboard_time": 1719877036,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168820,
       "num": 168820,
       "word": "德国vs丹麦",
       "onboard_time": 1719672980,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "特斯拉市值一夜大涨近2800亿元",
+      "onboard_time": 1719877036,
+      "rank": 29,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 168259,
@@ -3499,12 +3619,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164068,
-      "num": 127967,
-      "word": "突然搞不懂订婚的意义了",
-      "onboard_time": 1719876616,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 163477,
+      "num": 163477,
+      "word": "跳舞对身材能有多大改变",
+      "onboard_time": 1719878357,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 163211,
@@ -3555,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160959,
+      "num": 160959,
+      "word": "当一个人朋友圈很干净时",
+      "onboard_time": 1719883038,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160693,
       "num": 160693,
       "word": "实习四个月送走三位同事",
@@ -3576,6 +3704,14 @@
       "word": "吴谨言最难熬的时候卡里就200块",
       "onboard_time": 1719742216,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159017,
+      "num": 159017,
+      "word": "林小宅全新演员公示照",
+      "onboard_time": 1719881479,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -3811,6 +3947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147008,
+      "num": 147008,
+      "word": "一放暑假8个外甥又来了",
+      "onboard_time": 1719878658,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "马立奥重回爸爸当家",
@@ -3971,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141510,
+      "num": 141510,
+      "word": "姨夫称张志杰无心脏病史",
+      "onboard_time": 1719880757,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140801,
       "num": 140311,
       "word": "唐嫣的腿硬控我",
@@ -4107,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135948,
+      "num": 135948,
+      "word": "佩佩失误",
+      "onboard_time": 1719878658,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135586,
       "num": 135586,
       "word": "王鹤棣杀青捧花照",
@@ -4185,6 +4345,14 @@
       "onboard_time": 1719739997,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133633,
+      "num": 133633,
+      "word": "姆巴佩面具",
+      "onboard_time": 1719878539,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 133385,
@@ -4273,6 +4441,14 @@
       "onboard_time": 1719661877,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130054,
+      "num": 130054,
+      "word": "31马赫",
+      "onboard_time": 1719880159,
+      "rank": 40,
+      "category": "科学科普,国内时政"
     },
     {
       "raw_hot": 129960,
@@ -4555,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119880,
+      "num": 119880,
+      "word": "医学专家分析张志杰比赛晕倒离世",
+      "onboard_time": 1719883098,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119771,
       "num": 119771,
       "word": "广式早茶为何在北方不火",
@@ -4619,12 +4803,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "坚持两年早睡早起带来的改变",
+      "onboard_time": 1719876555,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118214,
       "num": 118214,
       "word": "唐嫣刘亦菲空姐服旧照",
       "onboard_time": 1719707057,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118012,
+      "num": 118012,
+      "word": "90后女生带一群退休阿姨再创业",
+      "onboard_time": 1719880519,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117424,
@@ -4689,6 +4889,14 @@
       "onboard_time": 1719752358,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114010,
+      "num": 114010,
+      "word": "郑钦文一轮游",
+      "onboard_time": 1719882798,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 113670,
@@ -4971,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102801,
+      "num": 102801,
+      "word": "汨罗江平江站出现1954年以来最高水位",
+      "onboard_time": 1719881777,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102770,
       "num": 102770,
       "word": "这不是AI绘画这是真的大自然",
@@ -5177,6 +5393,14 @@
       "onboard_time": 1719788714,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91106,
+      "num": 91106,
+      "word": "水花兄弟散伙",
+      "onboard_time": 1719878957,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90548,
@@ -5483,14 +5707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71600,
-      "num": 71600,
-      "word": "去面试时只有自己穿了正装",
-      "onboard_time": 1719876555,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 70969,
       "num": 70969,
       "word": "国产动画长发妹",
@@ -5587,14 +5803,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64675,
-      "num": 64675,
-      "word": "坚持两年早睡早起带来的改变",
-      "onboard_time": 1719876555,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 64401,
       "num": 64401,
       "word": "孙颖莎想和埃菲尔铁塔合影",
@@ -5684,7 +5892,7 @@
     },
     {
       "raw_hot": 58569,
-      "num": 497213,
+      "num": 670014,
       "word": "我们向前中国向上",
       "onboard_time": 1719844461,
       "rank": 2,
@@ -5721,6 +5929,14 @@
       "onboard_time": 1719750258,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 52454,
+      "num": 359588,
+      "word": "77岁阿伯大老远去早市给女儿买花",
+      "onboard_time": 1719882377,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50714,
