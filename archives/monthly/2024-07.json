@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719959742485,
+  "endTime": 1719962333854,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565305,
+      "num": 565305,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564103,
       "num": 564103,
       "word": "中公教育董事长回应退费",
@@ -1851,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334948,
+      "num": 94834,
+      "word": "麻辣王子工厂停工",
+      "onboard_time": 1719962054,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 332669,
       "num": 332669,
       "word": "亚青赛混团中国队夺冠",
@@ -1992,14 +2008,6 @@
       "word": "印度北方邦踩踏事件死亡人数升至90人",
       "onboard_time": 1719925337,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311175,
-      "num": 311175,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2929,6 +2937,14 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196669,
+      "num": 196669,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196518,
@@ -4843,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111195,
-      "num": 85384,
-      "word": "甘肃163名矿工被拖欠3000万工资",
-      "onboard_time": 1719939735,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110944,
       "num": 110944,
       "word": "郑思维称张志杰事件应引起世界羽联重视",
@@ -4996,7 +5004,7 @@
     },
     {
       "raw_hot": 105826,
-      "num": 204307,
+      "num": 359895,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 44,
@@ -5033,6 +5041,14 @@
       "onboard_time": 1719935838,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104259,
+      "num": 118670,
+      "word": "好学小孩哥在地铁上被北大博导收徒",
+      "onboard_time": 1719962235,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103815,
@@ -5123,6 +5139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1719806419,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95515,
+      "num": 95515,
+      "word": "英国转播方字幕羞辱C罗",
+      "onboard_time": 1719961695,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 95083,
@@ -5371,6 +5403,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81036,
+      "num": 81036,
+      "word": "赛力斯拟25亿收购问界商标专利",
+      "onboard_time": 1719962235,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 80974,
+      "num": 80974,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 80702,
       "num": 80702,
       "word": "比利时乌龙",
@@ -5443,14 +5491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67239,
-      "num": 67239,
-      "word": "奥地利vs土耳其",
-      "onboard_time": 1719938835,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66501,
       "num": 410730,
       "word": "孙子为外公守灵时飞来了一只蝴蝶",
@@ -5473,6 +5513,14 @@
       "onboard_time": 1719788774,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64444,
+      "num": 64444,
+      "word": "下半年双子座运势要飞升",
+      "onboard_time": 1719962174,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 64401,
@@ -5504,6 +5552,14 @@
       "word": "杭州跑男要去参加巴黎奥运会了",
       "onboard_time": 1719876316,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60973,
+      "num": 60973,
+      "word": "奥地利1比2土耳其",
+      "onboard_time": 1719961995,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -5539,6 +5595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58530,
+      "num": 58530,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57562,
       "num": 131612,
       "word": "罗翔回应在闲鱼搞副业",
@@ -5561,14 +5625,6 @@
       "onboard_time": 1719825619,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55297,
-      "num": 56706,
-      "word": "减脂期这六种食物一定要避雷",
-      "onboard_time": 1719939374,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 53324,
@@ -5611,12 +5667,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 47637,
+      "num": 47637,
+      "word": "罗马尼亚0比3荷兰",
+      "onboard_time": 1719961995,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47565,
+      "num": 48050,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719949031,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47020,
       "num": 400070,
       "word": "高考英语145分学霸教你怎么写作文",
       "onboard_time": 1719818418,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 46258,
+      "num": 46258,
+      "word": "为什么医生打针前都要滋掉一点药水",
+      "onboard_time": 1719962235,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46001,
@@ -5641,6 +5721,22 @@
       "onboard_time": 1719890178,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44332,
+      "num": 44332,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 43054,
@@ -5689,6 +5785,22 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41754,
+      "num": 41754,
+      "word": "鹿晗银发蓝毛衣",
+      "onboard_time": 1719941893,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41024,
+      "num": 41024,
+      "word": "欧洲杯八强出炉",
+      "onboard_time": 1719962296,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 40935,
@@ -5747,36 +5859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36680,
-      "num": 36680,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36624,
-      "num": 36624,
-      "word": "鹿晗银发蓝毛衣",
-      "onboard_time": 1719941893,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 36396,
       "num": 357134,
       "word": "香港欢迎大熊猫来港",
       "onboard_time": 1719816557,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36009,
-      "num": 36009,
-      "word": "江浙沪朋友们最近出门的样子",
-      "onboard_time": 1719949031,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 35598,
@@ -5939,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26489,
-      "num": 26489,
-      "word": "杨紫带piupiu直播",
-      "onboard_time": 1719949751,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25969,
       "num": 25969,
       "word": "沈月敢编王子奇敢信",
@@ -5961,14 +6041,6 @@
       "onboard_time": 1719909078,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25542,
-      "num": 25542,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 25081,
@@ -6099,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13451,
+      "num": 118495,
+      "word": "重庆大瓣荷花带来翻倍的莲莲好运",
+      "onboard_time": 1719949271,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13038,
       "num": 100452,
       "word": "男孩骑车摔倒后找砖头把坑填平了",
@@ -6169,14 +6249,6 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9381,
-      "num": 92534,
-      "word": "重庆大瓣荷花带来翻倍的莲莲好运",
-      "onboard_time": 1719949271,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 8408,

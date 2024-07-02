@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719959742485,
+  "endTime": 1719962333854,
   "band_list": [
     {
       "raw_hot": 922142,
@@ -16,6 +16,14 @@
       "word": "男孩举报百万粉丝博主剽窃视频卖课",
       "onboard_time": 1719928880,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565305,
+      "num": 565305,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -83,20 +91,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334948,
+      "num": 94834,
+      "word": "麻辣王子工厂停工",
+      "onboard_time": 1719962054,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 331727,
       "num": 117129,
       "word": "原来衣服发臭是闷出来的",
       "onboard_time": 1719916099,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 311175,
-      "num": 311175,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234893,
@@ -107,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211163,
+      "num": 211163,
+      "word": "江苏一男子携带人皮面具盗窃近20次",
+      "onboard_time": 1719928758,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207525,
       "num": 207525,
       "word": "马立奥 见鬼了马杨",
       "onboard_time": 1719939435,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202802,
-      "num": 202802,
-      "word": "江苏一男子携带人皮面具盗窃近20次",
-      "onboard_time": 1719928758,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202286,
@@ -137,6 +145,14 @@
       "onboard_time": 1719922398,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196669,
+      "num": 196669,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186411,
@@ -203,8 +219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118301,
-      "num": 118301,
+      "raw_hot": 133198,
+      "num": 100535,
+      "word": "网红乔老师疑剽窃未成年视频卖课",
+      "onboard_time": 1719924258,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118385,
+      "num": 118385,
       "word": "上海辟谣跟佛祖借了100亿元",
       "onboard_time": 1719921739,
       "rank": 19,
@@ -217,14 +241,6 @@
       "onboard_time": 1719930920,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111195,
-      "num": 85384,
-      "word": "甘肃163名矿工被拖欠3000万工资",
-      "onboard_time": 1719939735,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110827,
@@ -259,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104259,
+      "num": 118670,
+      "word": "好学小孩哥在地铁上被北大博导收徒",
+      "onboard_time": 1719962235,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100885,
       "num": 100885,
       "word": "杜海涛镜头下的金靖",
@@ -267,12 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100535,
-      "num": 100535,
-      "word": "网红乔老师疑剽窃未成年视频卖课",
-      "onboard_time": 1719924258,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95515,
+      "num": 95515,
+      "word": "英国转播方字幕羞辱C罗",
+      "onboard_time": 1719961695,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 93275,
@@ -307,6 +339,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81036,
+      "num": 81036,
+      "word": "赛力斯拟25亿收购问界商标专利",
+      "onboard_time": 1719962235,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 80974,
+      "num": 80974,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 75589,
       "num": 82146,
       "word": "你比星光美丽热度",
@@ -331,20 +379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67477,
+      "raw_hot": 70102,
       "num": 82130,
       "word": "哮天犬扮演者陈创否认接受打赏",
       "onboard_time": 1719921918,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67239,
-      "num": 67239,
-      "word": "奥地利vs土耳其",
-      "onboard_time": 1719938835,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 65395,
@@ -353,6 +393,14 @@
       "onboard_time": 1719926058,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64444,
+      "num": 64444,
+      "word": "下半年双子座运势要飞升",
+      "onboard_time": 1719962174,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 63405,
@@ -387,20 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60973,
+      "num": 60973,
+      "word": "奥地利1比2土耳其",
+      "onboard_time": 1719961995,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58530,
+      "num": 58530,
+      "word": "美国男子枪击邻居一家七口后自杀",
+      "onboard_time": 1719948611,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56691,
       "num": 82101,
       "word": "酒霉酒霉 漂亮的霉霉",
       "onboard_time": 1719922639,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55297,
-      "num": 56706,
-      "word": "减脂期这六种食物一定要避雷",
-      "onboard_time": 1719939374,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 54927,
@@ -419,36 +475,68 @@
       "category": "演出"
     },
     {
-      "raw_hot": 39177,
-      "num": 39177,
-      "word": "音乐剧太阳黑子",
-      "onboard_time": 1719942733,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 47637,
+      "num": 47637,
+      "word": "罗马尼亚0比3荷兰",
+      "onboard_time": 1719961995,
+      "rank": 41,
+      "category": "体育"
     },
     {
-      "raw_hot": 36680,
-      "num": 36680,
-      "word": "美国男子枪击邻居一家七口后自杀",
-      "onboard_time": 1719948611,
+      "raw_hot": 47565,
+      "num": 48050,
+      "word": "江浙沪朋友们最近出门的样子",
+      "onboard_time": 1719949031,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46258,
+      "num": 46258,
+      "word": "为什么医生打针前都要滋掉一点药水",
+      "onboard_time": 1719962235,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44332,
+      "num": 44332,
+      "word": "军校毕业大考也太硬核了",
+      "onboard_time": 1719948791,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 43325,
+      "num": 43325,
+      "word": "杨紫带piupiu直播",
+      "onboard_time": 1719949751,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
-      "raw_hot": 36624,
-      "num": 36624,
+      "raw_hot": 41754,
+      "num": 41754,
       "word": "鹿晗银发蓝毛衣",
       "onboard_time": 1719941893,
       "rank": 29,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36009,
-      "num": 36009,
-      "word": "江浙沪朋友们最近出门的样子",
-      "onboard_time": 1719949031,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 41024,
+      "num": 41024,
+      "word": "欧洲杯八强出炉",
+      "onboard_time": 1719962296,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39177,
+      "num": 39177,
+      "word": "音乐剧太阳黑子",
+      "onboard_time": 1719942733,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 31333,
@@ -483,28 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26489,
-      "num": 26489,
-      "word": "杨紫带piupiu直播",
-      "onboard_time": 1719949751,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25969,
       "num": 25969,
       "word": "沈月敢编王子奇敢信",
       "onboard_time": 1719942792,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25542,
-      "num": 25542,
-      "word": "军校毕业大考也太硬核了",
-      "onboard_time": 1719948791,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 25081,
@@ -531,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13451,
+      "num": 118495,
+      "word": "重庆大瓣荷花带来翻倍的莲莲好运",
+      "onboard_time": 1719949271,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10373,
       "num": 20701,
       "word": "这秋千是给花花量熊定制的吧",
@@ -545,14 +625,6 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9381,
-      "num": 92534,
-      "word": "重庆大瓣荷花带来翻倍的莲莲好运",
-      "onboard_time": 1719949271,
-      "rank": 17,
-      "category": "旅游"
     },
     {
       "raw_hot": 8408,
@@ -579,8 +651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3197,
-      "num": 204307,
+      "raw_hot": 5008,
+      "num": 359895,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 2,
