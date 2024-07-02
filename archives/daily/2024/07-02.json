@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719904789758,
+  "endTime": 1719905701382,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 865644,
+      "num": 558878,
+      "word": "全队带张志杰上领奖台",
+      "onboard_time": 1719903799,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 848435,
       "num": 848435,
       "word": "人口出生率今年或迎小阳春",
@@ -249,14 +257,6 @@
       "onboard_time": 1719878177,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 579707,
-      "num": 329253,
-      "word": "全队带张志杰上领奖台",
-      "onboard_time": 1719903799,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 557668,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 433922,
-      "num": 228275,
+      "num": 240216,
       "word": "秦岚有三本飞行证",
       "onboard_time": 1719900979,
       "rank": 22,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 357453,
-      "num": 221300,
+      "num": 238594,
       "word": "30岁的老公和50岁的胡兵",
       "onboard_time": 1719900441,
       "rank": 23,
@@ -529,6 +529,14 @@
       "onboard_time": 1719892459,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 340117,
+      "num": 340117,
+      "word": "中餐厅8官宣定档",
+      "onboard_time": 1719905058,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 332669,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277431,
+      "num": 165966,
+      "word": "陈雨菲说张志杰是冠军",
+      "onboard_time": 1719905058,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259697,
       "num": 259697,
       "word": "出道战 剧本",
@@ -715,6 +731,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 241634,
+      "num": 241634,
+      "word": "女子订错车票却在另一平台免费退",
+      "onboard_time": 1719905237,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
@@ -737,6 +761,14 @@
       "onboard_time": 1719892399,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231724,
+      "num": 231724,
+      "word": "赵今麦演技",
+      "onboard_time": 1719904938,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 226625,
@@ -817,6 +849,14 @@
       "onboard_time": 1719890240,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200703,
+      "num": 165740,
+      "word": "当外婆知道娃娃的价格后",
+      "onboard_time": 1719904938,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200300,
@@ -915,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187529,
+      "num": 187529,
+      "word": "王者出了狠狠爱了头像框",
+      "onboard_time": 1719903499,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185962,
       "num": 185962,
       "word": "恋与深空2.0前瞻直播",
@@ -971,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172300,
+      "num": 172300,
+      "word": "赵今麦这场戏演爽了",
+      "onboard_time": 1719905178,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171335,
       "num": 171335,
       "word": "你比星光美丽开播",
@@ -1009,14 +1065,6 @@
       "onboard_time": 1719877036,
       "rank": 29,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 168346,
-      "num": 168346,
-      "word": "王者出了狠狠爱了头像框",
-      "onboard_time": 1719903499,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 167312,
@@ -1147,6 +1195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142467,
+      "num": 142467,
+      "word": "郑思维为张志杰默哀",
+      "onboard_time": 1719904638,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "电影误杀3杀青",
@@ -1171,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140455,
+      "num": 140455,
+      "word": "把19平老房子改成了两室两厅",
+      "onboard_time": 1719902779,
+      "rank": 36,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 138571,
       "num": 138571,
       "word": "沈腾新片父爱如山体滑坡",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1719878658,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134839,
+      "num": 134839,
+      "word": "度华年",
+      "onboard_time": 1719900199,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134820,
@@ -1233,14 +1305,6 @@
       "onboard_time": 1719885257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131126,
-      "num": 131126,
-      "word": "把19平老房子改成了两室两厅",
-      "onboard_time": 1719902779,
-      "rank": 36,
-      "category": "休闲"
     },
     {
       "raw_hot": 130378,
@@ -1331,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119221,
+      "num": 119221,
+      "word": "陈雨菲发文告慰张志杰",
+      "onboard_time": 1719905477,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118899,
       "num": 118899,
       "word": "张子墨 跑路",
@@ -1355,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117428,
-      "num": 117428,
-      "word": "度华年",
-      "onboard_time": 1719900199,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "檀健次真的是天选相柳",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1719820037,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110944,
+      "num": 110944,
+      "word": "郑思维称张志杰事件应引起世界羽联重视",
+      "onboard_time": 1719905419,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 109334,
@@ -1867,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33556,
+      "num": 356386,
+      "word": "二手车市场告别暴利时代",
+      "onboard_time": 1719904818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32515,
       "num": 32515,
       "word": "发现了INFP快速找到热爱的方法",
@@ -1899,6 +1979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 27581,
+      "num": 235385,
+      "word": "已下载莫辜负",
+      "onboard_time": 1719904519,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26725,
       "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
@@ -1913,14 +2001,6 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25804,
-      "num": 124480,
-      "word": "已下载莫辜负",
-      "onboard_time": 1719904519,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 24912,
@@ -2003,7 +2083,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5787,
+      "raw_hot": 6587,
       "num": 690390,
       "word": "关于上合组织你想知道的都在这里",
       "onboard_time": 1719843920,

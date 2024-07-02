@@ -1,0 +1,410 @@
+{
+  "runTime": 1719905701382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 770484,
+        "num": 770484,
+        "word": "泰国部长亲自接机中国娃圈女明星",
+        "onboard_time": 1719899899,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696658,
+        "num": 696658,
+        "word": "徐艺洋 老板就能上我卫生间吗",
+        "onboard_time": 1719890598,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6587,
+        "num": 622046,
+        "word": "关于上合组织你想知道的都在这里",
+        "onboard_time": 1719843920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602857,
+        "num": 602857,
+        "word": "本月你的工资或有多项调整",
+        "onboard_time": 1719893540,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 651536,
+        "num": 568652,
+        "word": "外国男子强奸土耳其5岁女童引发骚乱",
+        "onboard_time": 1719894621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865644,
+        "num": 558878,
+        "word": "全队带张志杰上领奖台",
+        "onboard_time": 1719903799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505264,
+        "num": 505264,
+        "word": "4名渔民饮用漂流瓶中液体后身亡",
+        "onboard_time": 1719893360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402127,
+        "num": 402127,
+        "word": "歌手双揭榜歌手官宣",
+        "onboard_time": 1719893840,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390801,
+        "num": 390801,
+        "word": "郑爽未履行金额超1.2亿",
+        "onboard_time": 1719888740,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33556,
+        "num": 356386,
+        "word": "二手车市场告别暴利时代",
+        "onboard_time": 1719904818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340688,
+        "num": 340688,
+        "word": "优酷今天官宣了好多剧",
+        "onboard_time": 1719893660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340117,
+        "num": 340117,
+        "word": "中餐厅8官宣定档",
+        "onboard_time": 1719905058,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317759,
+        "num": 317759,
+        "word": "毕业生为还网贷又在9个平台借8万",
+        "onboard_time": 1719892821,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307101,
+        "num": 307101,
+        "word": "檀健次你尽管演不用管我们死活",
+        "onboard_time": 1719902178,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299007,
+        "num": 299007,
+        "word": "歌手 隆里电丝",
+        "onboard_time": 1719898279,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298056,
+        "num": 298056,
+        "word": "张志杰队医因未经裁判允许没有进场",
+        "onboard_time": 1719884777,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260837,
+        "num": 260837,
+        "word": "亚青赛混团中国队夺冠",
+        "onboard_time": 1719901758,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257082,
+        "num": 257082,
+        "word": "有多少年轻人花着明天的钱当负翁",
+        "onboard_time": 1719895402,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243736,
+        "num": 243736,
+        "word": "张颂文工作室 提名即肯定",
+        "onboard_time": 1719898819,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241634,
+        "num": 241634,
+        "word": "女子订错车票却在另一平台免费退",
+        "onboard_time": 1719905237,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355699,
+        "num": 240216,
+        "word": "秦岚有三本飞行证",
+        "onboard_time": 1719900979,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344840,
+        "num": 238594,
+        "word": "30岁的老公和50岁的胡兵",
+        "onboard_time": 1719900441,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27581,
+        "num": 235385,
+        "word": "已下载莫辜负",
+        "onboard_time": 1719904519,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250588,
+        "num": 234142,
+        "word": "昨天才知道我十月四号要结婚了",
+        "onboard_time": 1719895220,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231724,
+        "num": 231724,
+        "word": "赵今麦演技",
+        "onboard_time": 1719904938,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220267,
+        "num": 220267,
+        "word": "爱奇艺被判补偿41天黄金VIP会员",
+        "onboard_time": 1719878298,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190806,
+        "num": 190806,
+        "word": "爸爸花了两千给弟弟填的志愿",
+        "onboard_time": 1719884718,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187529,
+        "num": 187529,
+        "word": "王者出了狠狠爱了头像框",
+        "onboard_time": 1719903499,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176573,
+        "num": 176573,
+        "word": "杜江心疼珍珠服从性极强",
+        "onboard_time": 1719896601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172300,
+        "num": 172300,
+        "word": "赵今麦这场戏演爽了",
+        "onboard_time": 1719905178,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277431,
+        "num": 165966,
+        "word": "陈雨菲说张志杰是冠军",
+        "onboard_time": 1719905058,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200703,
+        "num": 165740,
+        "word": "当外婆知道娃娃的价格后",
+        "onboard_time": 1719904938,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153067,
+        "num": 153067,
+        "word": "郭麒麟有瓜真吃",
+        "onboard_time": 1719901397,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152539,
+        "num": 152539,
+        "word": "这剧怎么哭得梨花带雨的是男主",
+        "onboard_time": 1719902480,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142467,
+        "num": 142467,
+        "word": "郑思维为张志杰默哀",
+        "onboard_time": 1719904638,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140455,
+        "num": 140455,
+        "word": "把19平老房子改成了两室两厅",
+        "onboard_time": 1719902779,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140115,
+        "num": 140115,
+        "word": "孟美岐再回应曾点评周传雄",
+        "onboard_time": 1719885857,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134839,
+        "num": 134839,
+        "word": "度华年",
+        "onboard_time": 1719900199,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130720,
+        "num": 130720,
+        "word": "百花奖提名",
+        "onboard_time": 1719887959,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123754,
+        "num": 123754,
+        "word": "当一个人朋友圈很干净时",
+        "onboard_time": 1719883038,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123453,
+        "num": 123453,
+        "word": "贾玲再次导演影后双提百花奖",
+        "onboard_time": 1719888138,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122209,
+        "num": 122209,
+        "word": "成龙说把张艺兴变成了打星",
+        "onboard_time": 1719898578,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119676,
+        "num": 119676,
+        "word": "队友们给张志杰留了加油的位置",
+        "onboard_time": 1719898759,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119221,
+        "num": 119221,
+        "word": "陈雨菲发文告慰张志杰",
+        "onboard_time": 1719905477,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "为何江西小炒是预制菜的天敌",
+        "onboard_time": 1719903257,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113863,
+        "num": 113863,
+        "word": "汪苏泷演唱会 抢不到",
+        "onboard_time": 1719903859,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113629,
+        "num": 113629,
+        "word": "小红书崩了",
+        "onboard_time": 1719887898,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110944,
+        "num": 110944,
+        "word": "郑思维称张志杰事件应引起世界羽联重视",
+        "onboard_time": 1719905419,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110572,
+        "num": 110572,
+        "word": "哈尔滨不靠海为啥也能搞船舶",
+        "onboard_time": 1719901220,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107547,
+        "num": 107547,
+        "word": "绝区零合作格莱美制作人",
+        "onboard_time": 1719903918,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
