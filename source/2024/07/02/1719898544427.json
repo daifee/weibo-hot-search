@@ -1,0 +1,410 @@
+{
+  "runTime": 1719898544427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260358,
+        "num": 1260358,
+        "word": "徐艺洋 老板就能上我卫生间吗",
+        "onboard_time": 1719890598,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1112830,
+        "num": 1112830,
+        "word": "本月你的工资或有多项调整",
+        "onboard_time": 1719893540,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46288,
+        "num": 1025097,
+        "word": "60秒带你环游哈萨克斯坦",
+        "onboard_time": 1719889338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337828,
+        "num": 1018803,
+        "word": "外国男子强奸土耳其5岁女童引发骚乱",
+        "onboard_time": 1719894621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954135,
+        "num": 954135,
+        "word": "歌手双揭榜歌手官宣",
+        "onboard_time": 1719893840,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770747,
+        "num": 770747,
+        "word": "4名渔民饮用漂流瓶中液体后身亡",
+        "onboard_time": 1719893360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778794,
+        "num": 669702,
+        "word": "优酷今天官宣了好多剧",
+        "onboard_time": 1719893660,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538943,
+        "num": 538943,
+        "word": "毕业生为还网贷又在9个平台借8万",
+        "onboard_time": 1719892821,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520567,
+        "num": 520567,
+        "word": "郑爽未履行金额超1.2亿",
+        "onboard_time": 1719888740,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397407,
+        "num": 483795,
+        "word": "有多少年轻人花着明天的钱当负翁",
+        "onboard_time": 1719895402,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462051,
+        "num": 462051,
+        "word": "杜江心疼珍珠服从性极强",
+        "onboard_time": 1719896601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439007,
+        "num": 439007,
+        "word": "刘德华 格格不入",
+        "onboard_time": 1719894200,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390033,
+        "num": 390033,
+        "word": "张志杰队医因未经裁判允许没有进场",
+        "onboard_time": 1719884777,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374994,
+        "num": 374994,
+        "word": "小红书崩了",
+        "onboard_time": 1719887898,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371952,
+        "num": 371952,
+        "word": "我家那闺女定档",
+        "onboard_time": 1719894260,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312270,
+        "num": 312270,
+        "word": "贾玲再次导演影后双提百花奖",
+        "onboard_time": 1719888138,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250458,
+        "num": 250458,
+        "word": "公积金年度结息",
+        "onboard_time": 1719885378,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245391,
+        "num": 245391,
+        "word": "爱奇艺被判补偿41天黄金VIP会员",
+        "onboard_time": 1719878298,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244626,
+        "num": 244626,
+        "word": "中使馆回应一中国公民在菲遭绑架遇害",
+        "onboard_time": 1719896180,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202076,
+        "num": 202076,
+        "word": "男生游戏充7千爸爸带着搬钢管",
+        "onboard_time": 1719886578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471281,
+        "num": 201670,
+        "word": "昨天才知道我十月四号要结婚了",
+        "onboard_time": 1719895220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373481,
+        "num": 200627,
+        "word": "爸爸花了两千给弟弟填的志愿",
+        "onboard_time": 1719884718,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310903,
+        "num": 200254,
+        "word": "汪苏泷演唱会抢票",
+        "onboard_time": 1719895940,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289790,
+        "num": 199517,
+        "word": "黄子韬要和徐艺洋一起去卫生间",
+        "onboard_time": 1719890117,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277949,
+        "num": 198937,
+        "word": "王俊凯和助理一起吃火锅",
+        "onboard_time": 1719893001,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264555,
+        "num": 197712,
+        "word": "孟美岐再回应曾点评周传雄",
+        "onboard_time": 1719885857,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238547,
+        "num": 197185,
+        "word": "当一个人朋友圈很干净时",
+        "onboard_time": 1719883038,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232537,
+        "num": 196388,
+        "word": "沈腾马丽新片 没苦硬吃",
+        "onboard_time": 1719895402,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217215,
+        "num": 195654,
+        "word": "TF三代出道战选秀味",
+        "onboard_time": 1719897321,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208138,
+        "num": 194884,
+        "word": "罗云熙 结婚赛道",
+        "onboard_time": 1719892699,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194419,
+        "num": 194419,
+        "word": "难哄",
+        "onboard_time": 1719898040,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178556,
+        "num": 178556,
+        "word": "歌手 隆里电丝",
+        "onboard_time": 1719898279,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177195,
+        "num": 177195,
+        "word": "朴成训疑似睡客厅隔断",
+        "onboard_time": 1719897438,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160556,
+        "num": 160556,
+        "word": "养边牧千万别同时养2只",
+        "onboard_time": 1719896959,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 156069,
+        "word": "有业主断供后房子被法拍也还不上贷款",
+        "onboard_time": 1719892399,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160494,
+        "num": 152458,
+        "word": "百花奖提名",
+        "onboard_time": 1719887959,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160372,
+        "num": 150402,
+        "word": "小夭重回清水镇",
+        "onboard_time": 1719896959,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142503,
+        "num": 142503,
+        "word": "iPhone16Pro屏幕有重大升级",
+        "onboard_time": 1719883397,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139969,
+        "num": 139969,
+        "word": "越来越看不懂日本美甲了",
+        "onboard_time": 1719892039,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139292,
+        "num": 139292,
+        "word": "3个年龄段会发生断崖式衰老",
+        "onboard_time": 1719897139,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151146,
+        "num": 139241,
+        "word": "易烊千玺连续第三届提名百花奖",
+        "onboard_time": 1719892459,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147228,
+        "num": 139202,
+        "word": "郑爽电视剧出品公司股权被冻结",
+        "onboard_time": 1719885137,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139053,
+        "num": 139053,
+        "word": "33岁的裴珠泫状态",
+        "onboard_time": 1719892759,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70421,
+        "num": 138112,
+        "word": "90元坐大巴去哈萨克斯坦",
+        "onboard_time": 1719896421,
+        "rank": 43,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 137862,
+        "num": 137862,
+        "word": "呷哺呷哺创始人回应3年亏8亿",
+        "onboard_time": 1719885857,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136307,
+        "num": 136307,
+        "word": "民选TVB视帝视后",
+        "onboard_time": 1719898279,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128282,
+        "num": 128282,
+        "word": "恋与深空2.0前瞻直播",
+        "onboard_time": 1719896062,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 127467,
+        "word": "秦岚花少法国站随拍",
+        "onboard_time": 1719898520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127344,
+        "num": 127344,
+        "word": "人口出生率今年或迎小阳春",
+        "onboard_time": 1719882557,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123119,
+        "num": 123119,
+        "word": "在聚餐的男朋友突然给我发晚安",
+        "onboard_time": 1719890000,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京出席上合组织峰会#"
+    }
+  }
+}

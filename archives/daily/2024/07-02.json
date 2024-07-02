@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719897587645,
+  "endTime": 1719898544427,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1072373,
-      "num": 1072373,
+      "raw_hot": 1112830,
+      "num": 1112830,
       "word": "本月你的工资或有多项调整",
       "onboard_time": 1719893540,
       "rank": 29,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538943,
+      "num": 538943,
+      "word": "毕业生为还网贷又在9个平台借8万",
+      "onboard_time": 1719892821,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532172,
       "num": 249503,
       "word": "医院认定死亡后中国羽协仍尝试转院",
@@ -331,19 +339,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 469354,
-      "num": 483275,
-      "word": "毕业生为还网贷又在9个平台借8万",
-      "onboard_time": 1719892821,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468999,
       "num": 218814,
       "word": "欧阳龙嘴对嘴亲欧阳妮妮",
       "onboard_time": 1719837138,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 462051,
+      "num": 462051,
+      "word": "杜江心疼珍珠服从性极强",
+      "onboard_time": 1719896601,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397407,
+      "num": 483795,
+      "word": "有多少年轻人花着明天的钱当负翁",
+      "onboard_time": 1719895402,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394720,
       "num": 394720,
       "word": "汪苏泷演唱会抢票",
       "onboard_time": 1719895940,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 392478,
-      "num": 243542,
-      "word": "杜江心疼珍珠服从性极强",
-      "onboard_time": 1719896601,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 389291,
@@ -457,14 +465,6 @@
       "onboard_time": 1719814039,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 353082,
-      "num": 353082,
-      "word": "有多少年轻人花着明天的钱当负翁",
-      "onboard_time": 1719895402,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351195,
@@ -643,6 +643,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 244626,
+      "num": 244626,
+      "word": "中使馆回应一中国公民在菲遭绑架遇害",
+      "onboard_time": 1719896180,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
@@ -699,12 +707,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215715,
-      "num": 215715,
-      "word": "中使馆回应一中国公民在菲遭绑架遇害",
-      "onboard_time": 1719896180,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 217215,
+      "num": 195654,
+      "word": "TF三代出道战选秀味",
+      "onboard_time": 1719897321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 209600,
@@ -787,6 +795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194419,
+      "num": 194419,
+      "word": "难哄",
+      "onboard_time": 1719898040,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193077,
       "num": 233206,
       "word": "绝区零预下载",
@@ -851,19 +867,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178556,
+      "num": 178556,
+      "word": "歌手 隆里电丝",
+      "onboard_time": 1719898279,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177195,
+      "num": 177195,
+      "word": "朴成训疑似睡客厅隔断",
+      "onboard_time": 1719897438,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174063,
       "num": 174063,
       "word": "陈乔恩教于正葡萄柚减肥法",
       "onboard_time": 1719837138,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171413,
-      "num": 171413,
-      "word": "TF三代出道战选秀味",
-      "onboard_time": 1719897321,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -931,6 +955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160556,
+      "num": 160556,
+      "word": "养边牧千万别同时养2只",
+      "onboard_time": 1719896959,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159477,
       "num": 159477,
       "word": "肖战魏无羡饭制五周年贺",
@@ -945,14 +977,6 @@
       "onboard_time": 1719881479,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158254,
-      "num": 158254,
-      "word": "养边牧千万别同时养2只",
-      "onboard_time": 1719896959,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 154644,
@@ -987,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145268,
-      "num": 145268,
-      "word": "朴成训疑似睡客厅隔断",
-      "onboard_time": 1719897438,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144977,
       "num": 144977,
       "word": "3个年龄段会发生断崖式衰老",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1719833298,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136307,
+      "num": 136307,
+      "word": "民选TVB视帝视后",
+      "onboard_time": 1719898279,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135948,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
+    },
+    {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "秦岚花少法国站随拍",
+      "onboard_time": 1719898520,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 126900,
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70421,
+      "num": 471726,
+      "word": "90元坐大巴去哈萨克斯坦",
+      "onboard_time": 1719896421,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1719882377,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51275,
-      "num": 471726,
-      "word": "90元坐大巴去哈萨克斯坦",
-      "onboard_time": 1719896421,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 45330,
