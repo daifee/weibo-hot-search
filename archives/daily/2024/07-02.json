@@ -1,6 +1,6 @@
 {
   "startTime": 1719851029776,
-  "endTime": 1719912876264,
+  "endTime": 1719915649517,
   "band_list": [
     {
       "raw_hot": 2320305,
@@ -115,7 +115,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 996720,
+      "raw_hot": 1012370,
       "num": 518854,
       "word": "暴食了30个黄瓜和17个西红柿",
       "onboard_time": 1719910038,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599613,
+      "num": 599613,
+      "word": "赵丽颖工作室回应百花奖提名",
+      "onboard_time": 1719912017,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 589287,
       "num": 344899,
       "word": "当一个人朋友圈很干净时",
@@ -377,6 +385,14 @@
       "onboard_time": 1719837798,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 504700,
+      "num": 364282,
+      "word": "郭晶晶没做教练的原因",
+      "onboard_time": 1719913037,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 500486,
@@ -483,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440819,
-      "num": 440819,
-      "word": "赵丽颖工作室回应百花奖提名",
-      "onboard_time": 1719912017,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 436560,
       "num": 436560,
       "word": "空调长期不洗男子肺部感染险丧命",
       "onboard_time": 1719865212,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435554,
+      "num": 435554,
+      "word": "夹包哥",
+      "onboard_time": 1719912558,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 433922,
@@ -539,12 +555,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408973,
+      "num": 408973,
+      "word": "红豆生南国 裴相是男模",
+      "onboard_time": 1719911297,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404677,
       "num": 232584,
       "word": "年轻人网贷8千债务变8万",
       "onboard_time": 1719883518,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401076,
+      "num": 363763,
+      "word": "网传建行总行降薪10%",
+      "onboard_time": 1719912859,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399761,
+      "num": 399761,
+      "word": "朱一龙 演员里的一块姜",
+      "onboard_time": 1719912139,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394720,
@@ -577,6 +617,22 @@
       "onboard_time": 1719905058,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374323,
+      "num": 374323,
+      "word": "荷兰70岁夫妇接受双人安乐死",
+      "onboard_time": 1719909859,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363026,
+      "num": 363026,
+      "word": "张凌赫硬帅",
+      "onboard_time": 1719913758,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 357453,
@@ -707,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292433,
-      "num": 292433,
-      "word": "荷兰70岁夫妇接受双人安乐死",
-      "onboard_time": 1719909859,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292400,
       "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
@@ -763,20 +811,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283722,
+      "num": 283722,
+      "word": "黄旭东 没苦硬吃",
+      "onboard_time": 1719912499,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280924,
       "num": 280924,
       "word": "罐车卸完煤制油直接装运食用油",
       "onboard_time": 1719884777,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267473,
-      "num": 267473,
-      "word": "朱一龙 演员里的一块姜",
-      "onboard_time": 1719912139,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259697,
@@ -809,14 +857,6 @@
       "onboard_time": 1719895402,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253625,
-      "num": 191078,
-      "word": "红豆生南国 裴相是男模",
-      "onboard_time": 1719911297,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 249301,
@@ -881,6 +921,14 @@
       "onboard_time": 1719892399,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230987,
+      "num": 230987,
+      "word": "镖人 阵容",
+      "onboard_time": 1719913878,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 226625,
@@ -987,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198647,
+      "num": 198647,
+      "word": "中国男篮vs澳大利亚",
+      "onboard_time": 1719914300,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "优酷宠爱剧场升级生花剧场",
@@ -1001,14 +1057,6 @@
       "onboard_time": 1719892821,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196291,
-      "num": 196291,
-      "word": "夹包哥",
-      "onboard_time": 1719912558,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195466,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1719898040,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "深圳6岁男童在家门口被货车碾死",
+      "onboard_time": 1719912799,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 193077,
@@ -1315,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156959,
+      "num": 156959,
+      "word": "度华年",
+      "onboard_time": 1719900199,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156937,
       "num": 156937,
       "word": "赵昭仪正是容易饿的年纪",
@@ -1337,6 +1401,14 @@
       "onboard_time": 1719843259,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153585,
+      "num": 153585,
+      "word": "老人花四千买净食机儿子觉得贵",
+      "onboard_time": 1719914717,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151953,
@@ -1395,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145417,
+      "num": 145417,
+      "word": "深圳平均工资上涨了",
+      "onboard_time": 1719914959,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143120,
       "num": 143120,
       "word": "队友替张志杰完成夺冠心愿",
@@ -1411,12 +1491,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 142487,
-      "num": 142487,
-      "word": "黄旭东 没苦硬吃",
-      "onboard_time": 1719912499,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 142875,
+      "num": 142875,
+      "word": "度华年微博追剧团",
+      "onboard_time": 1719912558,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 142467,
@@ -1467,14 +1547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138831,
-      "num": 138831,
-      "word": "度华年微博追剧团",
-      "onboard_time": 1719912558,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138571,
       "num": 138571,
       "word": "沈腾新片父爱如山体滑坡",
@@ -1505,14 +1577,6 @@
       "onboard_time": 1719878658,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134839,
-      "num": 134839,
-      "word": "度华年",
-      "onboard_time": 1719900199,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 134820,
@@ -1547,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
+      "onboard_time": 1719911899,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "AC米兰悼念张志杰",
@@ -1579,14 +1651,6 @@
       "category": "科学科普,国内时政"
     },
     {
-      "raw_hot": 129829,
-      "num": 129829,
-      "word": "深圳6岁男童在家门口被货车碾死",
-      "onboard_time": 1719912799,
-      "rank": 41,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 127750,
       "num": 127750,
       "word": "绝区零合作格莱美制作人",
@@ -1609,14 +1673,6 @@
       "onboard_time": 1719891319,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125604,
-      "num": 125604,
-      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
-      "onboard_time": 1719911899,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124421,
@@ -1667,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119730,
+      "num": 119730,
+      "word": "飞天茅台逼近2400元",
+      "onboard_time": 1719914899,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119244,
       "num": 119244,
       "word": "本周桃花运最旺的星座",
@@ -1707,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115769,
+      "num": 115769,
+      "word": "石宇奇发文缅怀张志杰",
+      "onboard_time": 1719915378,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "檀健次真的是天选相柳",
@@ -1723,12 +1795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111930,
-      "num": 111930,
-      "word": "网传建行总行降薪10%",
-      "onboard_time": 1719912859,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 113419,
+      "num": 266265,
+      "word": "大熊猫萌萌抱着宝宝爱意满满",
+      "onboard_time": 1719912677,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112615,
+      "num": 112615,
+      "word": "猩猩都比我会拍照",
+      "onboard_time": 1719915198,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 111439,
@@ -1761,6 +1841,22 @@
       "onboard_time": 1719846919,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108166,
+      "num": 341595,
+      "word": "河南大旱中无奈的种植大户",
+      "onboard_time": 1719910820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107264,
+      "num": 107264,
+      "word": "橡皮人真的存在吗",
+      "onboard_time": 1719914300,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 107089,
@@ -1867,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95058,
+      "num": 95058,
+      "word": "张元英式推拉",
+      "onboard_time": 1719915617,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93463,
       "num": 93463,
       "word": "崔泰俊ZICO聊天内容",
@@ -1881,14 +1985,6 @@
       "onboard_time": 1719886399,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92551,
-      "num": 341595,
-      "word": "河南大旱中无奈的种植大户",
-      "onboard_time": 1719910820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92297,
@@ -2011,14 +2107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74095,
-      "num": 266265,
-      "word": "大熊猫萌萌抱着宝宝爱意满满",
-      "onboard_time": 1719912677,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73480,
       "num": 89232,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1719823338,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70866,
+      "num": 364854,
+      "word": "食品专业上课都是吃吃吃吗",
+      "onboard_time": 1719914418,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 70661,
@@ -2219,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40935,
+      "num": 274804,
+      "word": "健身房的人型多巴胺belike",
+      "onboard_time": 1719912918,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40304,
       "num": 164114,
       "word": "年轻人买车更看重什么",
@@ -2345,6 +2449,14 @@
       "onboard_time": 1719891080,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20355,
+      "num": 131612,
+      "word": "罗翔回应在闲鱼搞副业",
+      "onboard_time": 1719915018,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 16468,

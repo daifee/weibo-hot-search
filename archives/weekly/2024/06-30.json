@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719912876264,
+  "endTime": 1719915649517,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -371,7 +371,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 996720,
+      "raw_hot": 1012370,
       "num": 518854,
       "word": "暴食了30个黄瓜和17个西红柿",
       "onboard_time": 1719910038,
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599613,
+      "num": 599613,
+      "word": "赵丽颖工作室回应百花奖提名",
+      "onboard_time": 1719912017,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 599258,
       "num": 599258,
       "word": "中国共产党103周年",
@@ -1400,6 +1408,14 @@
       "word": "张志杰姨夫发声",
       "onboard_time": 1719877277,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 504700,
+      "num": 364282,
+      "word": "郭晶晶没做教练的原因",
+      "onboard_time": 1719913037,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -1771,14 +1787,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 440819,
-      "num": 440819,
-      "word": "赵丽颖工作室回应百花奖提名",
-      "onboard_time": 1719912017,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 436929,
       "num": 436929,
       "word": "中国地铁站有厕所让老外破防",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1719822079,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 435554,
+      "num": 435554,
+      "word": "夹包哥",
+      "onboard_time": 1719912558,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 433922,
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408973,
+      "num": 408973,
+      "word": "红豆生南国 裴相是男模",
+      "onboard_time": 1719911297,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408617,
       "num": 408617,
       "word": "蒋敦豪官宣巡演",
@@ -1953,6 +1977,22 @@
       "onboard_time": 1719883518,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401076,
+      "num": 363763,
+      "word": "网传建行总行降薪10%",
+      "onboard_time": 1719912859,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399761,
+      "num": 399761,
+      "word": "朱一龙 演员里的一块姜",
+      "onboard_time": 1719912139,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 399378,
@@ -2107,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374323,
+      "num": 374323,
+      "word": "荷兰70岁夫妇接受双人安乐死",
+      "onboard_time": 1719909859,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372209,
       "num": 332147,
       "word": "穆念慈大婚割发断情",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1719801018,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363026,
+      "num": 363026,
+      "word": "张凌赫硬帅",
+      "onboard_time": 1719913758,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 361594,
@@ -2651,14 +2707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292433,
-      "num": 292433,
-      "word": "荷兰70岁夫妇接受双人安乐死",
-      "onboard_time": 1719909859,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292400,
       "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1719831319,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283722,
+      "num": 283722,
+      "word": "黄旭东 没苦硬吃",
+      "onboard_time": 1719912499,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 283476,
@@ -2825,14 +2881,6 @@
       "onboard_time": 1719756258,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267473,
-      "num": 267473,
-      "word": "朱一龙 演员里的一块姜",
-      "onboard_time": 1719912139,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 264652,
@@ -2945,14 +2993,6 @@
       "onboard_time": 1719795318,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253625,
-      "num": 191078,
-      "word": "红豆生南国 裴相是男模",
-      "onboard_time": 1719911297,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 253434,
@@ -3225,6 +3265,14 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230987,
+      "num": 230987,
+      "word": "镖人 阵容",
+      "onboard_time": 1719913878,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 229896,
@@ -3723,6 +3771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198647,
+      "num": 198647,
+      "word": "中国男篮vs澳大利亚",
+      "onboard_time": 1719914300,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "优酷宠爱剧场升级生花剧场",
@@ -3761,14 +3817,6 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196291,
-      "num": 196291,
-      "word": "夹包哥",
-      "onboard_time": 1719912558,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195995,
@@ -3857,6 +3905,14 @@
       "onboard_time": 1719789494,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "深圳6岁男童在家门口被货车碾死",
+      "onboard_time": 1719912799,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 193077,
@@ -4723,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153585,
+      "num": 153585,
+      "word": "老人花四千买净食机儿子觉得贵",
+      "onboard_time": 1719914717,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153135,
       "num": 153135,
       "word": "墨雨云间拍了两版结局",
@@ -4971,6 +5035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145417,
+      "num": 145417,
+      "word": "深圳平均工资上涨了",
+      "onboard_time": 1719914959,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144953,
       "num": 144953,
       "word": "Steam公开账号的未玩游戏或价值138亿",
@@ -5067,20 +5139,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142875,
+      "num": 142875,
+      "word": "度华年微博追剧团",
+      "onboard_time": 1719912558,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142850,
       "num": 189330,
       "word": "俄媒称西方制裁反让俄赚至少2875亿美元",
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142487,
-      "num": 142487,
-      "word": "黄旭东 没苦硬吃",
-      "onboard_time": 1719912499,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 142467,
@@ -5216,14 +5288,6 @@
       "word": "等了一年等来了相柳的死讯",
       "onboard_time": 1719736638,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 138831,
-      "num": 138831,
-      "word": "度华年微博追剧团",
-      "onboard_time": 1719912558,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -5435,6 +5499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
+      "onboard_time": 1719911899,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "度华年第13集",
@@ -5555,14 +5627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129829,
-      "num": 129829,
-      "word": "深圳6岁男童在家门口被货车碾死",
-      "onboard_time": 1719912799,
-      "rank": 41,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 129683,
       "num": 129683,
       "word": "如懿传吐槽",
@@ -5681,14 +5745,6 @@
       "onboard_time": 1719827838,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125604,
-      "num": 125604,
-      "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
-      "onboard_time": 1719911899,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125209,
@@ -5923,6 +5979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119730,
+      "num": 119730,
+      "word": "飞天茅台逼近2400元",
+      "onboard_time": 1719914899,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119621,
       "num": 150000,
       "word": "深中通道今天正式开通",
@@ -6043,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115769,
+      "num": 115769,
+      "word": "石宇奇发文缅怀张志杰",
+      "onboard_time": 1719915378,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115080,
       "num": 115080,
       "word": "WB对战TES",
@@ -6099,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113419,
+      "num": 266265,
+      "word": "大熊猫萌萌抱着宝宝爱意满满",
+      "onboard_time": 1719912677,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113288,
       "num": 113288,
       "word": "小猫躲雨感谢屁股侠",
@@ -6131,20 +6211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112615,
+      "num": 112615,
+      "word": "猩猩都比我会拍照",
+      "onboard_time": 1719915198,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
       "onboard_time": 1719674058,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111930,
-      "num": 111930,
-      "word": "网传建行总行降薪10%",
-      "onboard_time": 1719912859,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111697,
@@ -6243,12 +6323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108166,
+      "num": 341595,
+      "word": "河南大旱中无奈的种植大户",
+      "onboard_time": 1719910820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "中国大陆男单温网正赛首胜",
       "onboard_time": 1719837738,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107264,
+      "num": 107264,
+      "word": "橡皮人真的存在吗",
+      "onboard_time": 1719914300,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 107089,
@@ -6587,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95058,
+      "num": 95058,
+      "word": "张元英式推拉",
+      "onboard_time": 1719915617,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94782,
       "num": 94782,
       "word": "WB战胜TES",
@@ -6625,14 +6729,6 @@
       "onboard_time": 1719886399,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92551,
-      "num": 341595,
-      "word": "河南大旱中无奈的种植大户",
-      "onboard_time": 1719910820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92316,
@@ -6955,14 +7051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74095,
-      "num": 266265,
-      "word": "大熊猫萌萌抱着宝宝爱意满满",
-      "onboard_time": 1719912677,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73347,
       "num": 86500,
       "word": "急于逼你做决定的人通常是骗子",
@@ -6993,6 +7081,14 @@
       "onboard_time": 1719710296,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70866,
+      "num": 364854,
+      "word": "食品专业上课都是吃吃吃吗",
+      "onboard_time": 1719914418,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 70661,
@@ -7393,6 +7489,14 @@
       "onboard_time": 1719768016,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40935,
+      "num": 274804,
+      "word": "健身房的人型多巴胺belike",
+      "onboard_time": 1719912918,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 40874,
@@ -7817,6 +7921,14 @@
       "onboard_time": 1719891080,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20355,
+      "num": 131612,
+      "word": "罗翔回应在闲鱼搞副业",
+      "onboard_time": 1719915018,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 19032,
