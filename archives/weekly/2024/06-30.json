@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719924634934,
+  "endTime": 1719926515595,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -305,6 +305,14 @@
       "onboard_time": 1719837798,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1146537,
+      "num": 1146537,
+      "word": "戚薇李承铉真夫妻杀回来了",
+      "onboard_time": 1719923898,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1135955,
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 824410,
+      "num": 824410,
+      "word": "上海辟谣跟佛祖借了100亿元",
+      "onboard_time": 1719921739,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824229,
       "num": 515653,
       "word": "印尼羽协称张志杰是心脏骤停去世",
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 806625,
-      "num": 806625,
-      "word": "上海辟谣跟佛祖借了100亿元",
-      "onboard_time": 1719921739,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 803029,
       "num": 710290,
       "word": "韩国第二大城市釜山进入消失阶段",
@@ -721,6 +729,14 @@
       "onboard_time": 1719888740,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774861,
+      "num": 774861,
+      "word": "世界羽联将彻查张志杰赛场离世",
+      "onboard_time": 1719922398,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 755059,
@@ -963,20 +979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630228,
+      "num": 630228,
+      "word": "iPhone16预计需求强劲",
+      "onboard_time": 1719921798,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 629992,
       "num": 246725,
       "word": "菲律宾绑架",
       "onboard_time": 1719837618,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629380,
-      "num": 392587,
-      "word": "世界羽联将彻查张志杰赛场离世",
-      "onboard_time": 1719922398,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 625824,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1719817818,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610451,
+      "num": 610451,
+      "word": "爱奇艺把在线人数关了",
+      "onboard_time": 1719924979,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 610142,
@@ -1251,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564103,
+      "num": 564103,
+      "word": "中公教育董事长回应退费",
+      "onboard_time": 1719923358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561810,
       "num": 292170,
       "word": "黄子韬徐艺洋一路上都在拌嘴",
@@ -1403,14 +1435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 521943,
-      "num": 521943,
-      "word": "iPhone16预计需求强劲",
-      "onboard_time": 1719921798,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 519653,
       "num": 462351,
       "word": "杨紫31岁状态",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1719740718,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 495329,
-      "num": 495329,
-      "word": "戚薇李承铉真夫妻杀回来了",
-      "onboard_time": 1719923898,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 495310,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 341744,
+      "num": 341744,
+      "word": "赵今麦张凌赫 体型差",
+      "onboard_time": 1719923117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 341132,
@@ -3451,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228847,
+      "num": 228847,
+      "word": "印度北方邦踩踏事件死亡人数升至90人",
+      "onboard_time": 1719925337,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226625,
       "num": 226625,
       "word": "百花奖最佳女主提名",
@@ -3667,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209877,
+      "num": 184989,
+      "word": "肚子4个表现多半是癌细胞露出了马脚",
+      "onboard_time": 1719926058,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -3697,14 +3737,6 @@
       "onboard_time": 1719832098,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208039,
-      "num": 393050,
-      "word": "中公教育董事长回应退费",
-      "onboard_time": 1719923358,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207980,
@@ -3825,14 +3857,6 @@
       "onboard_time": 1719743117,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202922,
-      "num": 202922,
-      "word": "赵今麦张凌赫 体型差",
-      "onboard_time": 1719923117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 202617,
@@ -4523,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175567,
+      "num": 175567,
+      "word": "相柳的爱真的很能拿出手",
+      "onboard_time": 1719922157,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175520,
       "num": 175520,
       "word": "偷听到保洁阿姨的工资后我破防了",
@@ -4569,6 +4601,14 @@
       "onboard_time": 1719758180,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173495,
+      "num": 173495,
+      "word": "网红乔老师疑剽窃未成年视频卖课",
+      "onboard_time": 1719924258,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172303,
@@ -5009,14 +5049,6 @@
       "onboard_time": 1719897139,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154386,
-      "num": 154386,
-      "word": "相柳的爱真的很能拿出手",
-      "onboard_time": 1719922157,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 153674,
@@ -5561,6 +5593,14 @@
       "onboard_time": 1719914418,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 138080,
+      "num": 138080,
+      "word": "杭州晚霞",
+      "onboard_time": 1719924438,
+      "rank": 31,
+      "category": "自然"
     },
     {
       "raw_hot": 138077,
@@ -6819,14 +6859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104512,
-      "num": 104512,
-      "word": "网红乔老师疑剽窃未成年视频卖课",
-      "onboard_time": 1719924258,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104212,
       "num": 104212,
       "word": "梅雨季遛狗总觉得不太体面",
@@ -6985,6 +7017,14 @@
       "onboard_time": 1719733997,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99743,
+      "num": 159114,
+      "word": "欢迎你们到中国去上大学",
+      "onboard_time": 1719926058,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98960,
@@ -7227,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88408,
+      "num": 88408,
+      "word": "印度一家五口被困洪水中冲走",
+      "onboard_time": 1719921678,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88383,
       "num": 88383,
       "word": "吴谨言的七月行程",
@@ -7249,6 +7297,14 @@
       "onboard_time": 1719732796,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87821,
+      "num": 87821,
+      "word": "老老实实睡觉才是最小众的睡觉方式",
+      "onboard_time": 1719926478,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 87074,
@@ -7803,6 +7859,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 47161,
+      "num": 436878,
+      "word": "四川乐山现飞瀑双彩虹同框",
+      "onboard_time": 1719925218,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 47020,
       "num": 400070,
       "word": "高考英语145分学霸教你怎么写作文",
@@ -8212,7 +8276,7 @@
     },
     {
       "raw_hot": 28721,
-      "num": 690390,
+      "num": 829087,
       "word": "关于上合组织你想知道的都在这里",
       "onboard_time": 1719843920,
       "rank": 34,
