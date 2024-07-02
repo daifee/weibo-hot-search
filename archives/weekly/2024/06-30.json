@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719941689906,
+  "endTime": 1719944760443,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -6891,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111195,
+      "num": 64592,
+      "word": "甘肃163名矿工被拖欠3000万工资",
+      "onboard_time": 1719939735,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111021,
       "num": 139741,
       "word": "蔡依林 新专辑",
@@ -7068,7 +7076,7 @@
     },
     {
       "raw_hot": 105826,
-      "num": 105826,
+      "num": 130296,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 44,
@@ -7121,6 +7129,14 @@
       "onboard_time": 1719872772,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104478,
+      "num": 104478,
+      "word": "罗马尼亚vs荷兰",
+      "onboard_time": 1719935838,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 104212,
@@ -7345,14 +7361,6 @@
       "onboard_time": 1719842959,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96886,
-      "num": 96886,
-      "word": "罗马尼亚vs荷兰",
-      "onboard_time": 1719935838,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 96761,
@@ -7737,14 +7745,6 @@
       "onboard_time": 1719736337,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79498,
-      "num": 64592,
-      "word": "甘肃163名矿工被拖欠3000万工资",
-      "onboard_time": 1719939735,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79121,
@@ -8283,6 +8283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41944,
+      "num": 54748,
+      "word": "短短5秒却救了2个家庭",
+      "onboard_time": 1719941054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40935,
       "num": 274804,
       "word": "健身房的人型多巴胺belike",
@@ -8321,6 +8329,14 @@
       "onboard_time": 1719768794,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39177,
+      "num": 39177,
+      "word": "音乐剧太阳黑子",
+      "onboard_time": 1719942733,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 39126,
@@ -8369,6 +8385,14 @@
       "onboard_time": 1719733997,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 36624,
+      "num": 36624,
+      "word": "鹿晗银发蓝毛衣",
+      "onboard_time": 1719941893,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36396,
@@ -8619,12 +8643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27594,
+      "num": 27594,
+      "word": "五月天5525回到那一天",
+      "onboard_time": 1719941834,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27581,
       "num": 247749,
       "word": "已下载莫辜负",
       "onboard_time": 1719904519,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26730,
+      "num": 26730,
+      "word": "贺军翔回应性骚扰指控",
+      "onboard_time": 1719944292,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 26725,
@@ -8641,6 +8681,14 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25969,
+      "num": 25969,
+      "word": "沈月敢编王子奇敢信",
+      "onboard_time": 1719942792,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 25620,
@@ -8681,6 +8729,14 @@
       "onboard_time": 1719891019,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 24109,
+      "num": 56612,
+      "word": "奥地利vs土耳其",
+      "onboard_time": 1719938835,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 24092,
@@ -8729,22 +8785,6 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21786,
-      "num": 54748,
-      "word": "短短5秒却救了2个家庭",
-      "onboard_time": 1719941054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21689,
-      "num": 56612,
-      "word": "奥地利vs土耳其",
-      "onboard_time": 1719938835,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 20713,
@@ -8895,6 +8935,14 @@
       "num": 192392,
       "word": "孙子攒一车废品拉回家送奶奶惊喜",
       "onboard_time": 1719666980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8612,
+      "num": 64328,
+      "word": "女生生病2年仍保研清华准备读博",
+      "onboard_time": 1719943691,
       "rank": 9,
       "category": "社会新闻"
     },

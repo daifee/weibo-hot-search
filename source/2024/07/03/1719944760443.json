@@ -1,0 +1,410 @@
+{
+  "runTime": 1719944760443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 264433,
+        "num": 264433,
+        "word": "野孩子",
+        "onboard_time": 1719935537,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152574,
+        "num": 152574,
+        "word": "肚子4个表现多半是癌细胞露出了马脚",
+        "onboard_time": 1719926058,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2213,
+        "num": 130296,
+        "word": "上合组织峰会是个什么会",
+        "onboard_time": 1719888318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109659,
+        "num": 109659,
+        "word": "自行车撞上迈巴赫",
+        "onboard_time": 1719931760,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104478,
+        "num": 104478,
+        "word": "罗马尼亚vs荷兰",
+        "onboard_time": 1719935838,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69512,
+        "num": 69512,
+        "word": "江苏一男子携带人皮面具盗窃近20次",
+        "onboard_time": 1719928758,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103585,
+        "num": 69412,
+        "word": "马立奥 见鬼了马杨",
+        "onboard_time": 1719939435,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103425,
+        "num": 67179,
+        "word": "爱奇艺把在线人数关了",
+        "onboard_time": 1719924979,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1621,
+        "num": 65593,
+        "word": "神十八乘组将择机第2次出舱",
+        "onboard_time": 1719908956,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8612,
+        "num": 64328,
+        "word": "女生生病2年仍保研清华准备读博",
+        "onboard_time": 1719943691,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285513,
+        "num": 63734,
+        "word": "男孩举报百万粉丝博主剽窃视频卖课",
+        "onboard_time": 1719928880,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97360,
+        "num": 61074,
+        "word": "第一次看花少避雷餐厅",
+        "onboard_time": 1719927679,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73166,
+        "num": 59636,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1719927558,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59411,
+        "num": 59411,
+        "word": "新婚第二天离婚第三天异地",
+        "onboard_time": 1719930799,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58514,
+        "num": 58514,
+        "word": "Angelababy颈部线条",
+        "onboard_time": 1719930260,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53723,
+        "num": 53723,
+        "word": "DK",
+        "onboard_time": 1719919577,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48855,
+        "num": 48855,
+        "word": "印度踩踏事件致122人死亡",
+        "onboard_time": 1719928338,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44891,
+        "num": 44891,
+        "word": "世界羽联将彻查张志杰赛场离世",
+        "onboard_time": 1719922398,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41944,
+        "num": 41944,
+        "word": "短短5秒却救了2个家庭",
+        "onboard_time": 1719941054,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40188,
+        "num": 40188,
+        "word": "爸爸把女儿第一次上学拍成了纪录片",
+        "onboard_time": 1719931280,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141917,
+        "num": 40041,
+        "word": "菲律宾绑架中国人已成黑色产业链",
+        "onboard_time": 1719928700,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111195,
+        "num": 40031,
+        "word": "甘肃163名矿工被拖欠3000万工资",
+        "onboard_time": 1719939735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46291,
+        "num": 39774,
+        "word": "谭松韵回归芒果台黄金档",
+        "onboard_time": 1719940693,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46151,
+        "num": 39709,
+        "word": "减脂期这六种食物一定要避雷",
+        "onboard_time": 1719939374,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44522,
+        "num": 39525,
+        "word": "原来衣服发臭是闷出来的",
+        "onboard_time": 1719916099,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 44010,
+        "num": 39349,
+        "word": "网红乔老师疑剽窃未成年视频卖课",
+        "onboard_time": 1719924258,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39280,
+        "num": 39280,
+        "word": "戚薇李承铉真夫妻杀回来了",
+        "onboard_time": 1719923898,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39177,
+        "num": 39177,
+        "word": "音乐剧太阳黑子",
+        "onboard_time": 1719942733,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38129,
+        "num": 38129,
+        "word": "暴食了30个黄瓜和17个西红柿",
+        "onboard_time": 1719910038,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36624,
+        "num": 36624,
+        "word": "鹿晗银发蓝毛衣",
+        "onboard_time": 1719941893,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35521,
+        "num": 35521,
+        "word": "故事会竟然还活着",
+        "onboard_time": 1719932659,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34638,
+        "num": 34638,
+        "word": "iPhone16预计需求强劲",
+        "onboard_time": 1719921798,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34468,
+        "num": 34468,
+        "word": "上海辟谣跟佛祖借了100亿元",
+        "onboard_time": 1719921739,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34420,
+        "num": 34420,
+        "word": "许凯知道自己在撬墙角赛道",
+        "onboard_time": 1719933318,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31389,
+        "num": 31389,
+        "word": "费曼晒初中毕业照",
+        "onboard_time": 1719934699,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30979,
+        "num": 30979,
+        "word": "全班都能上985老师们嘴角压不住了",
+        "onboard_time": 1719934819,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30128,
+        "num": 30128,
+        "word": "老老实实睡觉才是最小众的睡觉方式",
+        "onboard_time": 1719926478,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28286,
+        "num": 28286,
+        "word": "赵小童去看梭梭树了",
+        "onboard_time": 1719931158,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27594,
+        "num": 27594,
+        "word": "五月天5525回到那一天",
+        "onboard_time": 1719941834,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27076,
+        "num": 27076,
+        "word": "C罗大赛任意球60中1",
+        "onboard_time": 1719921017,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26730,
+        "num": 26730,
+        "word": "贺军翔回应性骚扰指控",
+        "onboard_time": 1719944292,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25969,
+        "num": 25969,
+        "word": "沈月敢编王子奇敢信",
+        "onboard_time": 1719942792,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25738,
+        "num": 25738,
+        "word": "欢迎你们到中国去上大学",
+        "onboard_time": 1719926058,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 25674,
+        "word": "印尼羽协公布张志杰抢救细节",
+        "onboard_time": 1719919638,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25224,
+        "num": 25224,
+        "word": "上班带的饭是盖饭小样",
+        "onboard_time": 1719926658,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25086,
+        "num": 25086,
+        "word": "哮天犬扮演者陈创否认接受打赏",
+        "onboard_time": 1719921918,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24109,
+        "num": 24109,
+        "word": "奥地利vs土耳其",
+        "onboard_time": 1719938835,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23828,
+        "num": 23828,
+        "word": "第一次见对狗毛过敏的狗",
+        "onboard_time": 1719930560,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23598,
+        "num": 23598,
+        "word": "张元英式推拉",
+        "onboard_time": 1719915617,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19917,
+        "num": 23598,
+        "word": "谁家好人拿亲弟弟当约饭神器啊",
+        "onboard_time": 1719921499,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚之行这些看点值得关注#"
+    }
+  }
+}
