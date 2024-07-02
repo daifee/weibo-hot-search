@@ -1,0 +1,410 @@
+{
+  "runTime": 1719956098180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126186,
+        "num": 126186,
+        "word": "短短5秒却救了2个家庭",
+        "onboard_time": 1719941054,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81351,
+        "num": 81351,
+        "word": "野孩子",
+        "onboard_time": 1719935537,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2146,
+        "num": 76828,
+        "word": "上合组织峰会是个什么会",
+        "onboard_time": 1719888318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76809,
+        "num": 76809,
+        "word": "肚子4个表现多半是癌细胞露出了马脚",
+        "onboard_time": 1719926058,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62265,
+        "num": 62265,
+        "word": "奥地利vs土耳其",
+        "onboard_time": 1719938835,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46786,
+        "num": 46786,
+        "word": "自行车撞上迈巴赫",
+        "onboard_time": 1719931760,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46340,
+        "num": 46340,
+        "word": "爱奇艺把在线人数关了",
+        "onboard_time": 1719924979,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44610,
+        "num": 44610,
+        "word": "第一次看花少避雷餐厅",
+        "onboard_time": 1719927679,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1491,
+        "num": 44595,
+        "word": "神十八乘组将择机第2次出舱",
+        "onboard_time": 1719908956,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6206,
+        "num": 44566,
+        "word": "重庆大瓣荷花带来翻倍的莲莲好运",
+        "onboard_time": 1719949271,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101370,
+        "num": 44540,
+        "word": "男孩举报百万粉丝博主剽窃视频卖课",
+        "onboard_time": 1719928880,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89736,
+        "num": 44508,
+        "word": "新婚第二天离婚第三天异地",
+        "onboard_time": 1719930799,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44507,
+        "num": 44507,
+        "word": "江苏一男子携带人皮面具盗窃近20次",
+        "onboard_time": 1719928758,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35852,
+        "num": 35852,
+        "word": "Angelababy颈部线条",
+        "onboard_time": 1719930260,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32244,
+        "num": 32244,
+        "word": "马立奥 见鬼了马杨",
+        "onboard_time": 1719939435,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29073,
+        "num": 29073,
+        "word": "暴食了30个黄瓜和17个西红柿",
+        "onboard_time": 1719910038,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28027,
+        "num": 28027,
+        "word": "美国男子枪击邻居一家七口后自杀",
+        "onboard_time": 1719948611,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27639,
+        "num": 27639,
+        "word": "罗马尼亚vs荷兰",
+        "onboard_time": 1719935838,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26094,
+        "num": 26094,
+        "word": "印度踩踏事件致122人死亡",
+        "onboard_time": 1719928338,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24421,
+        "num": 24421,
+        "word": "上海辟谣跟佛祖借了100亿元",
+        "onboard_time": 1719921739,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79855,
+        "num": 24399,
+        "word": "菲律宾绑架中国人已成黑色产业链",
+        "onboard_time": 1719928700,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35594,
+        "num": 24340,
+        "word": "甘肃163名矿工被拖欠3000万工资",
+        "onboard_time": 1719939735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28560,
+        "num": 24304,
+        "word": "减脂期这六种食物一定要避雷",
+        "onboard_time": 1719939374,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24600,
+        "num": 24275,
+        "word": "网红乔老师疑剽窃未成年视频卖课",
+        "onboard_time": 1719924258,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24248,
+        "num": 24248,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1719927558,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23647,
+        "num": 23647,
+        "word": "爸爸把女儿第一次上学拍成了纪录片",
+        "onboard_time": 1719931280,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22937,
+        "num": 22937,
+        "word": "原来衣服发臭是闷出来的",
+        "onboard_time": 1719916099,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21476,
+        "num": 21476,
+        "word": "戚薇李承铉真夫妻杀回来了",
+        "onboard_time": 1719923898,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21287,
+        "num": 21287,
+        "word": "全班都能上985老师们嘴角压不住了",
+        "onboard_time": 1719934819,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21248,
+        "num": 21248,
+        "word": "许凯知道自己在撬墙角赛道",
+        "onboard_time": 1719933318,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20876,
+        "num": 20876,
+        "word": "江浙沪朋友们最近出门的样子",
+        "onboard_time": 1719949031,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20048,
+        "num": 20048,
+        "word": "费曼晒初中毕业照",
+        "onboard_time": 1719934699,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19807,
+        "num": 19807,
+        "word": "军校毕业大考也太硬核了",
+        "onboard_time": 1719948791,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19039,
+        "num": 19039,
+        "word": "世界羽联将彻查张志杰赛场离世",
+        "onboard_time": 1719922398,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18288,
+        "num": 18288,
+        "word": "欢迎你们到中国去上大学",
+        "onboard_time": 1719926058,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17825,
+        "num": 17825,
+        "word": "老老实实睡觉才是最小众的睡觉方式",
+        "onboard_time": 1719926478,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17494,
+        "num": 17494,
+        "word": "DK",
+        "onboard_time": 1719919577,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17453,
+        "num": 17453,
+        "word": "谭松韵回归芒果台黄金档",
+        "onboard_time": 1719940693,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17207,
+        "num": 17207,
+        "word": "印尼羽协公布张志杰抢救细节",
+        "onboard_time": 1719919638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16536,
+        "num": 16536,
+        "word": "哮天犬扮演者陈创否认接受打赏",
+        "onboard_time": 1719921918,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16297,
+        "num": 16297,
+        "word": "iPhone16预计需求强劲",
+        "onboard_time": 1719921798,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15995,
+        "num": 16296,
+        "word": "抽血为啥要用五颜六色的试管",
+        "onboard_time": 1719952270,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15660,
+        "num": 16295,
+        "word": "上班带的饭是盖饭小样",
+        "onboard_time": 1719926658,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15085,
+        "num": 16295,
+        "word": "第一次见对狗毛过敏的狗",
+        "onboard_time": 1719930560,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14823,
+        "num": 16294,
+        "word": "鹿晗银发蓝毛衣",
+        "onboard_time": 1719941893,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14479,
+        "num": 16293,
+        "word": "杨紫带piupiu直播",
+        "onboard_time": 1719949751,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14238,
+        "num": 16293,
+        "word": "故事会竟然还活着",
+        "onboard_time": 1719932659,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14145,
+        "num": 16293,
+        "word": "贺军翔回应性骚扰指控",
+        "onboard_time": 1719944292,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12876,
+        "num": 16291,
+        "word": "C罗大赛任意球60中1",
+        "onboard_time": 1719921017,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12553,
+        "num": 16291,
+        "word": "登陆计划 规则怪谈",
+        "onboard_time": 1719945971,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈萨克斯坦少年儿童中文唱歌唱祖国#"
+    }
+  }
+}
