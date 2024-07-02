@@ -1,0 +1,410 @@
+{
+  "runTime": 1719923709787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341805,
+        "num": 1341805,
+        "word": "DK",
+        "onboard_time": 1719919577,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 730057,
+        "num": 730057,
+        "word": "上海辟谣跟佛祖借了100亿元",
+        "onboard_time": 1719921739,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6352,
+        "num": 567197,
+        "word": "关于上合组织你想知道的都在这里",
+        "onboard_time": 1719843920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494939,
+        "num": 494939,
+        "word": "暴食了30个黄瓜和17个西红柿",
+        "onboard_time": 1719910038,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483045,
+        "num": 483045,
+        "word": "韩国首尔重大交通事故致9人死亡",
+        "onboard_time": 1719918798,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415487,
+        "num": 415487,
+        "word": "老人花四千买净食机儿子觉得贵",
+        "onboard_time": 1719914717,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358063,
+        "num": 358063,
+        "word": "唐嫣吴谨言都演过冯太后",
+        "onboard_time": 1719920418,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355418,
+        "num": 355418,
+        "word": "新西兰被袭中国留学生发声",
+        "onboard_time": 1719919099,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307266,
+        "num": 307266,
+        "word": "酒精发霉",
+        "onboard_time": 1719917417,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114437,
+        "num": 305824,
+        "word": "中公教育董事长回应退费",
+        "onboard_time": 1719923358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486558,
+        "num": 305654,
+        "word": "哮天犬扮演者陈创否认接受打赏",
+        "onboard_time": 1719921918,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461146,
+        "num": 305587,
+        "word": "iPhone16预计需求强劲",
+        "onboard_time": 1719921798,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305483,
+        "num": 305483,
+        "word": "印尼羽协公布张志杰抢救细节",
+        "onboard_time": 1719919638,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304017,
+        "num": 304017,
+        "word": "本月你的工资或有多项调整",
+        "onboard_time": 1719893540,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300611,
+        "num": 300611,
+        "word": "世界羽联将彻查张志杰赛场离世",
+        "onboard_time": 1719922398,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298537,
+        "num": 298537,
+        "word": "偶遇鹿晗拍MV",
+        "onboard_time": 1719921319,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285445,
+        "num": 285445,
+        "word": "长公主舌战群男",
+        "onboard_time": 1719920178,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256742,
+        "num": 256742,
+        "word": "酒霉酒霉 漂亮的霉霉",
+        "onboard_time": 1719922639,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220335,
+        "num": 220335,
+        "word": "晚霞",
+        "onboard_time": 1719920718,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 201681,
+        "num": 201681,
+        "word": "张元英式推拉",
+        "onboard_time": 1719915617,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 591276,
+        "num": 200593,
+        "word": "原来衣服发臭是闷出来的",
+        "onboard_time": 1719916099,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 507418,
+        "num": 200253,
+        "word": "一个考清华 一个烤面筋",
+        "onboard_time": 1719919697,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199167,
+        "num": 199167,
+        "word": "谁家好人拿亲弟弟当约饭神器啊",
+        "onboard_time": 1719921499,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180500,
+        "num": 180500,
+        "word": "伴侣头发有这个特征可能感染了梅毒",
+        "onboard_time": 1719905959,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163704,
+        "num": 163704,
+        "word": "郭晶晶没做教练的原因",
+        "onboard_time": 1719913037,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162489,
+        "num": 162489,
+        "word": "狮子座的好是夸出来的",
+        "onboard_time": 1719918079,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154718,
+        "num": 154718,
+        "word": "张凌赫硬帅",
+        "onboard_time": 1719913758,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154386,
+        "num": 154386,
+        "word": "相柳的爱真的很能拿出手",
+        "onboard_time": 1719922157,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149313,
+        "num": 149313,
+        "word": "C罗大赛任意球60中1",
+        "onboard_time": 1719921017,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137081,
+        "num": 148969,
+        "word": "奇瑞被曝强制加班卷工时",
+        "onboard_time": 1719918198,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148966,
+        "num": 148966,
+        "word": "赵丽颖工作室回应百花奖提名",
+        "onboard_time": 1719912017,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140205,
+        "num": 140205,
+        "word": "赵今麦张凌赫 体型差",
+        "onboard_time": 1719923117,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138142,
+        "num": 138142,
+        "word": "杨紫31岁状态",
+        "onboard_time": 1719910639,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135533,
+        "num": 135533,
+        "word": "马立奥发文为锁哥庆生",
+        "onboard_time": 1719923418,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133982,
+        "num": 133982,
+        "word": "王俊凯高脚杯喝奶",
+        "onboard_time": 1719918798,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131785,
+        "num": 131785,
+        "word": "唐嫣御姐妆造",
+        "onboard_time": 1719922458,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "网传建行总行降薪10%",
+        "onboard_time": 1719912859,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127213,
+        "num": 127213,
+        "word": "赵今麦演技",
+        "onboard_time": 1719904938,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127005,
+        "num": 127005,
+        "word": "深圳存量公积金贷款利率下调",
+        "onboard_time": 1719921499,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122540,
+        "num": 122540,
+        "word": "中国男篮不敌澳大利亚",
+        "onboard_time": 1719923179,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112718,
+        "num": 112718,
+        "word": "全队带张志杰上领奖台",
+        "onboard_time": 1719903799,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112611,
+        "num": 112611,
+        "word": "湖南平江洪水倒灌",
+        "onboard_time": 1719920418,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112432,
+        "num": 112432,
+        "word": "你比星光美丽",
+        "onboard_time": 1719917299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111554,
+        "num": 111554,
+        "word": "朱一龙 演员里的一块姜",
+        "onboard_time": 1719912139,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109278,
+        "num": 109278,
+        "word": "张颂文一件衬衫穿了近30年",
+        "onboard_time": 1719919338,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105341,
+        "num": 105341,
+        "word": "一周只上四天课的大学",
+        "onboard_time": 1719921258,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102411,
+        "num": 102411,
+        "word": "又是为荷花心动的一天",
+        "onboard_time": 1719920657,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99133,
+        "num": 99133,
+        "word": "红豆生南国 裴相是男模",
+        "onboard_time": 1719911297,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96826,
+        "num": 96826,
+        "word": "深圳平均工资上涨了",
+        "onboard_time": 1719914959,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96897,
+        "num": 96384,
+        "word": "今夕赫夕",
+        "onboard_time": 1719918738,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京出席上合组织峰会#"
+    }
+  }
+}

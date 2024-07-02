@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719920112290,
+  "endTime": 1719923709787,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -217,6 +217,14 @@
       "onboard_time": 1719894621,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341805,
+      "num": 1341805,
+      "word": "DK",
+      "onboard_time": 1719919577,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 1299328,
@@ -763,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 730057,
+      "num": 730057,
+      "word": "上海辟谣跟佛祖借了100亿元",
+      "onboard_time": 1719921739,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720754,
       "num": 720754,
       "word": "女孩差点被带走父亲查监控像人贩子",
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 650605,
-      "num": 181396,
+      "num": 200593,
       "word": "原来衣服发臭是闷出来的",
       "onboard_time": 1719916099,
       "rank": 47,
@@ -1427,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 507418,
+      "num": 200253,
+      "word": "一个考清华 一个烤面筋",
+      "onboard_time": 1719919697,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 506164,
       "num": 359306,
       "word": "张志杰姨夫发声",
@@ -1547,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486558,
+      "num": 305654,
+      "word": "哮天犬扮演者陈创否认接受打赏",
+      "onboard_time": 1719921918,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486504,
       "num": 486504,
       "word": "迪丽热巴十八岁就认识辛芷蕾了",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1719895220,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 483045,
+      "num": 483045,
+      "word": "韩国首尔重大交通事故致9人死亡",
+      "onboard_time": 1719918798,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481960,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1719896601,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461146,
+      "num": 305587,
+      "word": "iPhone16预计需求强劲",
+      "onboard_time": 1719921798,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 459902,
@@ -2252,11 +2300,19 @@
     },
     {
       "raw_hot": 361312,
-      "num": 249230,
+      "num": 307266,
       "word": "酒精发霉",
       "onboard_time": 1719917417,
       "rank": 16,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 358063,
+      "num": 358063,
+      "word": "唐嫣吴谨言都演过冯太后",
+      "onboard_time": 1719920418,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 357453,
@@ -2272,6 +2328,14 @@
       "word": "深中通道堵了",
       "onboard_time": 1719752058,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355418,
+      "num": 355418,
+      "word": "新西兰被袭中国留学生发声",
+      "onboard_time": 1719919099,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2321,14 +2385,6 @@
       "onboard_time": 1719789074,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 348557,
-      "num": 248767,
-      "word": "韩国首尔重大交通事故致9人死亡",
-      "onboard_time": 1719918798,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346862,
@@ -2651,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305483,
+      "num": 305483,
+      "word": "印尼羽协公布张志杰抢救细节",
+      "onboard_time": 1719919638,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304916,
       "num": 304916,
       "word": "越来越看不懂日本美甲了",
@@ -2683,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300611,
+      "num": 300611,
+      "word": "世界羽联将彻查张志杰赛场离世",
+      "onboard_time": 1719922398,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300162,
       "num": 300162,
       "word": "电影默杀提档",
@@ -2697,6 +2769,14 @@
       "onboard_time": 1719753438,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 298537,
+      "num": 298537,
+      "word": "偶遇鹿晗拍MV",
+      "onboard_time": 1719921319,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 297041,
@@ -2801,6 +2881,14 @@
       "onboard_time": 1719875834,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285445,
+      "num": 285445,
+      "word": "长公主舌战群男",
+      "onboard_time": 1719920178,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 285405,
@@ -2985,6 +3073,14 @@
       "onboard_time": 1719804078,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256742,
+      "num": 256742,
+      "word": "酒霉酒霉 漂亮的霉霉",
+      "onboard_time": 1719922639,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 256525,
@@ -3427,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220335,
+      "num": 220335,
+      "word": "晚霞",
+      "onboard_time": 1719920718,
+      "rank": 18,
+      "category": "自然"
+    },
+    {
       "raw_hot": 219948,
       "num": 219948,
       "word": "周扬青走秀有戛纳那味儿了",
@@ -3739,14 +3843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202046,
-      "num": 202046,
-      "word": "新西兰被袭中国留学生发声",
-      "onboard_time": 1719919099,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202025,
       "num": 169814,
       "word": "中羽协将为张志杰家人提供帮助",
@@ -3825,6 +3921,14 @@
       "onboard_time": 1719894740,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199167,
+      "num": 199167,
+      "word": "谁家好人拿亲弟弟当约饭神器啊",
+      "onboard_time": 1719921499,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 198983,
@@ -4233,14 +4337,6 @@
       "onboard_time": 1719909078,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183503,
-      "num": 183503,
-      "word": "DK",
-      "onboard_time": 1719919577,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 183374,
@@ -4667,6 +4763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162489,
+      "num": 162489,
+      "word": "狮子座的好是夸出来的",
+      "onboard_time": 1719918079,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162434,
       "num": 162434,
       "word": "杨和苏挂脸",
@@ -4883,6 +4987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154386,
+      "num": 154386,
+      "word": "相柳的爱真的很能拿出手",
+      "onboard_time": 1719922157,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153674,
       "num": 153674,
       "word": "张志杰倒地后第一时间无人上前",
@@ -5024,6 +5136,14 @@
       "word": "乔治离开快船",
       "onboard_time": 1719796878,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149313,
+      "num": 149313,
+      "word": "C罗大赛任意球60中1",
+      "onboard_time": 1719921017,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -5212,7 +5332,7 @@
     },
     {
       "raw_hot": 143180,
-      "num": 143180,
+      "num": 148969,
       "word": "奇瑞被曝强制加班卷工时",
       "onboard_time": 1719918198,
       "rank": 46,
@@ -5307,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140914,
-      "num": 140914,
-      "word": "印尼羽协公布张志杰抢救细节",
-      "onboard_time": 1719919638,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140801,
       "num": 140311,
       "word": "唐嫣的腿硬控我",
@@ -5369,6 +5481,14 @@
       "onboard_time": 1719800836,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140205,
+      "num": 140205,
+      "word": "赵今麦张凌赫 体型差",
+      "onboard_time": 1719923117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 140170,
@@ -5483,14 +5603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136561,
-      "num": 136561,
-      "word": "一个考清华 一个烤面筋",
-      "onboard_time": 1719919697,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136518,
       "num": 136518,
       "word": "于适也太会表白了",
@@ -5537,6 +5649,14 @@
       "onboard_time": 1719720078,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "马立奥发文为锁哥庆生",
+      "onboard_time": 1719923418,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 135241,
@@ -5707,6 +5827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131785,
+      "num": 131785,
+      "word": "唐嫣御姐妆造",
+      "onboard_time": 1719922458,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131758,
       "num": 131758,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -5835,14 +5963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127916,
-      "num": 127916,
-      "word": "狮子座的好是夸出来的",
-      "onboard_time": 1719918079,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127882,
       "num": 127882,
       "word": "薛之谦 有温度的字有诚意的人",
@@ -5905,6 +6025,14 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127005,
+      "num": 127005,
+      "word": "深圳存量公积金贷款利率下调",
+      "onboard_time": 1719921499,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 126900,
@@ -6096,6 +6224,14 @@
       "word": "德国2比0丹麦",
       "onboard_time": 1719702552,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122540,
+      "num": 122540,
+      "word": "中国男篮不敌澳大利亚",
+      "onboard_time": 1719923179,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -6315,6 +6451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114437,
+      "num": 305824,
+      "word": "中公教育董事长回应退费",
+      "onboard_time": 1719923358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114299,
       "num": 114299,
       "word": "颜心记",
@@ -6409,6 +6553,14 @@
       "onboard_time": 1719915198,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112611,
+      "num": 112611,
+      "word": "湖南平江洪水倒灌",
+      "onboard_time": 1719920418,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112306,
@@ -6611,6 +6763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105341,
+      "num": 105341,
+      "word": "一周只上四天课的大学",
+      "onboard_time": 1719921258,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 105050,
       "num": 105050,
       "word": "不能让老师看出来的染发色",
@@ -6736,6 +6896,14 @@
       "word": "夏日扎尕那如诗如画",
       "onboard_time": 1719839539,
       "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 102411,
+      "num": 102411,
+      "word": "又是为荷花心动的一天",
+      "onboard_time": 1719920657,
+      "rank": 46,
       "category": "旅游"
     },
     {
