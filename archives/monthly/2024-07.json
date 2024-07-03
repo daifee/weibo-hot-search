@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719963339884,
+  "endTime": 1719969690282,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -33,6 +33,14 @@
       "onboard_time": 1719814039,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1899690,
+      "num": 1899690,
+      "word": "麻辣王子工厂停工",
+      "onboard_time": 1719962054,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 1855281,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1164275,
-      "num": 232974,
+      "num": 358833,
       "word": "甜馨维护贾乃亮",
       "onboard_time": 1719962596,
       "rank": 10,
@@ -321,6 +329,14 @@
       "onboard_time": 1719838100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1066566,
+      "num": 1066566,
+      "word": "女童被救亲了一下救人男子脸颊",
+      "onboard_time": 1719965597,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1057416,
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710334,
-      "num": 130935,
-      "word": "麻辣王子工厂停工",
-      "onboard_time": 1719962054,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 689703,
       "num": 689703,
       "word": "中国留学生在新西兰遭袭面部严重损伤",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608830,
+      "num": 357837,
+      "word": "刘亦菲和罗晋是同学",
+      "onboard_time": 1719968178,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605416,
       "num": 605416,
       "word": "郭晶晶没做教练的原因",
@@ -1011,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 547008,
+      "num": 547008,
+      "word": "好学小孩哥在地铁上被北大博导收徒",
+      "onboard_time": 1719962235,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546965,
       "num": 546965,
       "word": "爷爷靠近一个月小宝结果醉酒了",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1719931280,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 525977,
+      "num": 525977,
+      "word": "官方通报4人被终身禁入熊猫基地",
+      "onboard_time": 1719963316,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525339,
@@ -1243,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 483635,
+      "num": 483635,
+      "word": "河南一湖中惊现多条小鳄鱼",
+      "onboard_time": 1719965957,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483045,
       "num": 483045,
       "word": "韩国首尔重大交通事故致9人死亡",
@@ -1299,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 475405,
+      "num": 475405,
+      "word": "自行车撞上迈巴赫",
+      "onboard_time": 1719931760,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472410,
       "num": 289834,
       "word": "张子墨 自摸哥",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1719896601,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461345,
+      "num": 461345,
+      "word": "上海地铁16号线",
+      "onboard_time": 1719966437,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457495,
@@ -1353,14 +1409,6 @@
       "onboard_time": 1719797418,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 451464,
-      "num": 451464,
-      "word": "自行车撞上迈巴赫",
-      "onboard_time": 1719931760,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 445468,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1719757639,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 440505,
+      "num": 221372,
+      "word": "福建一初中生被霸凌致下体烧伤",
+      "onboard_time": 1719963556,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437519,
@@ -1795,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354878,
+      "num": 354878,
+      "word": "张凌赫男模身材",
+      "onboard_time": 1719965238,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353910,
       "num": 239976,
       "word": "陈乔恩教于正葡萄柚减肥法",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1719892459,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 340490,
+      "num": 255161,
+      "word": "刘亦菲粉裙吊威亚",
+      "onboard_time": 1719968897,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340117,
@@ -1963,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319302,
+      "num": 226365,
+      "word": "这和亲了一口张凌赫有啥区别",
+      "onboard_time": 1719962356,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318673,
       "num": 318673,
       "word": "檀健次你尽管演不用管我们死活",
@@ -2017,6 +2097,14 @@
       "onboard_time": 1719925337,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310644,
+      "num": 216204,
+      "word": "为什么医生打针前都要滋掉一点药水",
+      "onboard_time": 1719962235,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 305483,
@@ -2251,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268022,
+      "num": 215637,
+      "word": "刘亦菲唐嫣合照再加一",
+      "onboard_time": 1719962416,
+      "rank": 24,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 264652,
       "num": 264652,
       "word": "94年30岁很大吗",
@@ -2321,6 +2417,14 @@
       "onboard_time": 1719890000,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255470,
+      "num": 255470,
+      "word": "iPhone16或全系标配8GB内存",
+      "onboard_time": 1719963918,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 254118,
@@ -2587,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228165,
+      "num": 228165,
+      "word": "李凯尔加盟勇士",
+      "onboard_time": 1719963136,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226625,
       "num": 226625,
       "word": "百花奖最佳女主提名",
@@ -2745,6 +2857,14 @@
       "onboard_time": 1719837618,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213778,
+      "num": 213778,
+      "word": "仅半句就封神的千古名句",
+      "onboard_time": 1719966379,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 209600,
@@ -2955,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197684,
+      "num": 197684,
+      "word": "形容一个人干净是很高级的表扬",
+      "onboard_time": 1719962596,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 197465,
       "num": 197465,
       "word": "KPL夏季赛第二轮赛程",
@@ -3121,6 +3249,14 @@
       "onboard_time": 1719827718,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187583,
+      "num": 187583,
+      "word": "苏醒说半夜打电话的都是借钱",
+      "onboard_time": 1719966379,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 187529,
@@ -3467,6 +3603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166799,
+      "num": 166799,
+      "word": "长相思2看片会",
+      "onboard_time": 1719962896,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165942,
       "num": 165942,
       "word": "哈尔滨不靠海为啥也能搞船舶",
@@ -3545,6 +3689,14 @@
       "onboard_time": 1719927139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161436,
+      "num": 161436,
+      "word": "金钟大老了好多",
+      "onboard_time": 1719969438,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 161333,
@@ -3627,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157437,
+      "num": 157437,
+      "word": "减脂期这六种食物一定要避雷",
+      "onboard_time": 1719939374,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157415,
       "num": 243251,
       "word": "香港回归这一刻再看依旧激动人心",
@@ -3641,6 +3801,14 @@
       "onboard_time": 1719821358,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157009,
+      "num": 157009,
+      "word": "娜扎穿藏服",
+      "onboard_time": 1719968118,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 156959,
@@ -3675,12 +3843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156526,
+      "num": 156526,
+      "word": "眼科医生眼里最毁眼睛的十个动作",
+      "onboard_time": 1719962476,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156112,
       "num": 156112,
       "word": "张杰看粉丝求婚太专注忘词了",
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155758,
+      "num": 155758,
+      "word": "韩雪喊话营销号",
+      "onboard_time": 1719963918,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 155235,
@@ -3716,7 +3900,7 @@
     },
     {
       "raw_hot": 155040,
-      "num": 128720,
+      "num": 147485,
       "word": "全班都能上985老师们嘴角压不住了",
       "onboard_time": 1719934819,
       "rank": 24,
@@ -4083,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140772,
+      "num": 140772,
+      "word": "欧洲杯淘汰赛历史最快进球",
+      "onboard_time": 1719969257,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140676,
       "num": 140676,
       "word": "理科女生高考失利用一年提高113分",
@@ -4129,6 +4321,14 @@
       "onboard_time": 1719755598,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 139374,
+      "num": 139374,
+      "word": "欧洲杯八强出炉",
+      "onboard_time": 1719962296,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 139174,
@@ -4209,6 +4409,14 @@
       "onboard_time": 1719898279,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136202,
+      "num": 136202,
+      "word": "库里告别克莱",
+      "onboard_time": 1719963616,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 136175,
@@ -4355,14 +4563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132823,
-      "num": 132823,
-      "word": "长相思2看片会",
-      "onboard_time": 1719962896,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132647,
       "num": 132647,
       "word": "王星越说买断是有点买不过来了",
@@ -4409,6 +4609,14 @@
       "onboard_time": 1719846739,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131261,
+      "num": 131261,
+      "word": "闵塔鲨白鹿再合作",
+      "onboard_time": 1719963436,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 131237,
@@ -4473,6 +4681,14 @@
       "onboard_time": 1719921499,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129395,
+      "num": 129395,
+      "word": "华为回应问界商标转让给赛力斯",
+      "onboard_time": 1719968538,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 129357,
@@ -4569,14 +4785,6 @@
       "onboard_time": 1719842298,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124713,
-      "num": 244062,
-      "word": "好学小孩哥在地铁上被北大博导收徒",
-      "onboard_time": 1719962235,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124421,
@@ -4683,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121409,
-      "num": 121409,
-      "word": "刘亦菲唐嫣合照再加一",
-      "onboard_time": 1719962416,
-      "rank": 24,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 120785,
       "num": 120785,
       "word": "我给85岁退休的爷爷找了份无薪工作",
@@ -4704,14 +4904,6 @@
       "word": "葡萄牙门将好牛",
       "onboard_time": 1719875235,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 120059,
-      "num": 120059,
-      "word": "欧洲杯八强出炉",
-      "onboard_time": 1719962296,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -4737,6 +4929,14 @@
       "onboard_time": 1719846320,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119647,
+      "num": 119647,
+      "word": "湖人多年合同签约布朗尼",
+      "onboard_time": 1719965298,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 119571,
@@ -4824,14 +5024,6 @@
       "word": "我韩廷就站这看谁敢欺负纪星",
       "onboard_time": 1719932180,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114286,
-      "num": 114286,
-      "word": "这和亲了一口张凌赫有啥区别",
-      "onboard_time": 1719962356,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4971,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108888,
+      "num": 108888,
+      "word": "刘同 后来我还是没删这支视频",
+      "onboard_time": 1719964756,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 108509,
       "num": 108509,
       "word": "秦岚赵昭仪也太好嗑了",
@@ -5051,6 +5251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106456,
+      "num": 106456,
+      "word": "特斯拉大涨超10%",
+      "onboard_time": 1719968658,
+      "rank": 48,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 105960,
       "num": 105960,
       "word": "吴谨言王星越芭莎预告",
@@ -5068,7 +5276,7 @@
     },
     {
       "raw_hot": 105826,
-      "num": 414793,
+      "num": 640534,
       "word": "上合组织峰会是个什么会",
       "onboard_time": 1719888318,
       "rank": 44,
@@ -5081,14 +5289,6 @@
       "onboard_time": 1719740416,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105539,
-      "num": 105539,
-      "word": "为什么医生打针前都要滋掉一点药水",
-      "onboard_time": 1719962235,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105341,
@@ -5291,20 +5491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95249,
+      "num": 95249,
+      "word": "毕业典礼学生齐唱凤凰花开的路口",
+      "onboard_time": 1719969557,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 95083,
       "num": 105638,
       "word": "郭晶晶以裁判身份参加巴黎奥运会",
       "onboard_time": 1719835218,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94851,
-      "num": 94851,
-      "word": "减脂期这六种食物一定要避雷",
-      "onboard_time": 1719939374,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 92981,
@@ -5427,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86997,
-      "num": 86997,
-      "word": "李凯尔加盟勇士",
-      "onboard_time": 1719963136,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86597,
       "num": 91316,
       "word": "西班牙vs格鲁吉亚",
@@ -5499,14 +5691,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 80845,
-      "num": 80845,
-      "word": "形容一个人干净是很高级的表扬",
-      "onboard_time": 1719962596,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 80702,
       "num": 80702,
       "word": "比利时乌龙",
@@ -5561,14 +5745,6 @@
       "onboard_time": 1719896421,
       "rank": 9,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 69689,
-      "num": 69689,
-      "word": "眼科医生眼里最毁眼睛的十个动作",
-      "onboard_time": 1719962476,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 68315,
@@ -5675,20 +5851,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60791,
+      "num": 360605,
+      "word": "乒乓球在哈萨克斯坦有多受欢迎",
+      "onboard_time": 1719965118,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60722,
       "num": 60722,
       "word": "aespa MV预告",
       "onboard_time": 1719963196,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60558,
-      "num": 60558,
-      "word": "官方通报4人被终身禁入熊猫基地",
-      "onboard_time": 1719963316,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59461,
