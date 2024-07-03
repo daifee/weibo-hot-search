@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719998475454,
+  "endTime": 1719999276968,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099170,
+      "num": 223436,
+      "word": "印度男女偷情被当众处私刑",
+      "onboard_time": 1719995539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089035,
       "num": 1089035,
       "word": "女童被救亲了一下救人男子脸颊",
@@ -417,14 +425,6 @@
       "onboard_time": 1719838100,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1065409,
-      "num": 179274,
-      "word": "印度男女偷情被当众处私刑",
-      "onboard_time": 1719995539,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1057416,
@@ -737,6 +737,14 @@
       "onboard_time": 1719830477,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 797600,
+      "num": 797600,
+      "word": "CP30 杭州",
+      "onboard_time": 1719998419,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 794742,
@@ -1931,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419620,
+      "num": 223129,
+      "word": "每天1杯豆浆身体会发生什么变化",
+      "onboard_time": 1719995778,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 419264,
       "num": 273104,
       "word": "为什么有的人睡觉爱举双手",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1719759858,
       "rank": 13,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 400341,
+      "num": 248572,
+      "word": "沈梦辰 正常撒娇而已",
+      "onboard_time": 1719997880,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 399378,
@@ -2219,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365621,
+      "num": 220302,
+      "word": "凯美瑞只卖12万了",
+      "onboard_time": 1719997280,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 362424,
       "num": 362424,
       "word": "红衣相柳",
@@ -2307,8 +2339,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345141,
-      "num": 345141,
+      "raw_hot": 346072,
+      "num": 346072,
       "word": "张凌赫胖过但没丑过",
       "onboard_time": 1719995897,
       "rank": 8,
@@ -2553,14 +2585,6 @@
       "onboard_time": 1719993918,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 308471,
-      "num": 178992,
-      "word": "每天1杯豆浆身体会发生什么变化",
-      "onboard_time": 1719995778,
-      "rank": 43,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 305483,
@@ -2843,14 +2867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274637,
-      "num": 178908,
-      "word": "凯美瑞只卖12万了",
-      "onboard_time": 1719997280,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -3115,14 +3131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 241167,
-      "num": 178829,
-      "word": "沈梦辰 正常撒娇而已",
-      "onboard_time": 1719997880,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241106,
       "num": 141640,
       "word": "身上为什么会突然出现小红点",
@@ -3203,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236173,
+      "num": 236173,
+      "word": "A股成交额不足6000亿",
+      "onboard_time": 1719998118,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 235938,
       "num": 235938,
       "word": "葡萄牙3比0斯洛文尼亚",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1719820878,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234110,
+      "num": 215975,
+      "word": "中餐厅",
+      "onboard_time": 1719997759,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 233095,
@@ -3267,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229182,
+      "num": 215378,
+      "word": "时代峰峻包场王俊凯野孩子",
+      "onboard_time": 1719996078,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228889,
       "num": 228889,
       "word": "于正否认王星越下部剧搭白鹿",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226649,
+      "num": 214026,
+      "word": "西藏文旅回复薛之谦",
+      "onboard_time": 1719998838,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 226625,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1719830359,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220943,
-      "num": 178700,
-      "word": "时代峰峻包场王俊凯野孩子",
-      "onboard_time": 1719996078,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 220335,
@@ -3473,14 +3505,6 @@
       "onboard_time": 1719984617,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213094,
-      "num": 213094,
-      "word": "CP30 杭州",
-      "onboard_time": 1719998419,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 209600,
@@ -4195,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182225,
+      "num": 182225,
+      "word": "朋友圈反映了应届生offer的质量",
+      "onboard_time": 1719997698,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -4220,7 +4252,7 @@
     },
     {
       "raw_hot": 180661,
-      "num": 180661,
+      "num": 219878,
       "word": "市场上近六成房子是2000年以前建的",
       "onboard_time": 1719994278,
       "rank": 32,
@@ -4273,6 +4305,14 @@
       "onboard_time": 1719798139,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178572,
+      "num": 178572,
+      "word": "歌手正在邀请迪玛希",
+      "onboard_time": 1719997339,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 178159,
@@ -4395,14 +4435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173563,
-      "num": 173563,
-      "word": "歌手正在邀请迪玛希",
-      "onboard_time": 1719997339,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "疱疹性咽峡炎高发季",
@@ -4457,14 +4489,6 @@
       "onboard_time": 1719976218,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170449,
-      "num": 170449,
-      "word": "中餐厅",
-      "onboard_time": 1719997759,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 169943,
@@ -4537,6 +4561,14 @@
       "onboard_time": 1719893301,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167202,
+      "num": 167202,
+      "word": "刘亦菲小魔女妆造",
+      "onboard_time": 1719998718,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166799,
@@ -5227,6 +5259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142392,
+      "num": 142392,
+      "word": "这种水果是北方人的盲区",
+      "onboard_time": 1719994938,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "电影误杀3杀青",
@@ -5339,6 +5379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139953,
+      "num": 139953,
+      "word": "外交部回应芬兰总统涉华言论",
+      "onboard_time": 1719997638,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -5385,14 +5433,6 @@
       "onboard_time": 1719972737,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138888,
-      "num": 138888,
-      "word": "A股成交额不足6000亿",
-      "onboard_time": 1719998118,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 138571,
@@ -5723,6 +5763,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 130293,
+      "num": 130293,
+      "word": "唐嫣时隔多年再演古装",
+      "onboard_time": 1719998060,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130246,
       "num": 130246,
       "word": "这届年轻人到底看不看球了",
@@ -5793,14 +5841,6 @@
       "onboard_time": 1719789074,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129303,
-      "num": 129303,
-      "word": "这种水果是北方人的盲区",
-      "onboard_time": 1719994938,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 129047,
@@ -6019,14 +6059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121263,
-      "num": 121263,
-      "word": "外交部回应芬兰总统涉华言论",
-      "onboard_time": 1719997638,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121231,
       "num": 121231,
       "word": "陈奕迅演唱会抢票",
@@ -6169,14 +6201,6 @@
       "onboard_time": 1719880519,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117922,
-      "num": 117922,
-      "word": "唐嫣时隔多年再演古装",
-      "onboard_time": 1719998060,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 116268,
@@ -6443,14 +6467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108057,
-      "num": 108057,
-      "word": "朋友圈反映了应届生offer的质量",
-      "onboard_time": 1719997698,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107838,
       "num": 107838,
       "word": "逆水寒手游",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1719875595,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106515,
+      "num": 106515,
+      "word": "小猫有事哒有事哒",
+      "onboard_time": 1719999197,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 106456,
@@ -6721,6 +6745,14 @@
       "onboard_time": 1719886039,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97185,
+      "num": 97185,
+      "word": "戚薇戚支笔异地登陆",
+      "onboard_time": 1719998899,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 97129,
@@ -7211,12 +7243,28 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 59601,
+      "num": 247882,
+      "word": "大哥救下落水小孩全程从容优雅",
+      "onboard_time": 1719999077,
+      "rank": 16,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 59461,
       "num": 59461,
       "word": "先别管猫了快去救车厘子",
       "onboard_time": 1719863231,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59385,
+      "num": 335087,
+      "word": "券商亲属股票账户全面倒查三年不实",
+      "onboard_time": 1719997218,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 58698,
@@ -7297,6 +7345,14 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 48860,
+      "num": 281650,
+      "word": "我们一起去看海",
+      "onboard_time": 1719997280,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48538,
@@ -7401,14 +7457,6 @@
       "onboard_time": 1719824898,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42572,
-      "num": 335087,
-      "word": "券商亲属股票账户全面倒查三年不实",
-      "onboard_time": 1719997218,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 42330,
@@ -7552,14 +7600,6 @@
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1719824718,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33814,
-      "num": 281650,
-      "word": "我们一起去看海",
-      "onboard_time": 1719997280,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719999276968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257399,
+        "num": 1257399,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797600,
+        "num": 797600,
+        "word": "CP30 杭州",
+        "onboard_time": 1719998419,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96183,
+        "num": 724294,
+        "word": "哈萨克斯坦天空现中国国旗色彩带",
+        "onboard_time": 1719988158,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 653529,
+        "num": 653529,
+        "word": "中金回应员工疑因降薪跳楼",
+        "onboard_time": 1719994997,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 458291,
+        "num": 458291,
+        "word": "中金公司上海一员工离世",
+        "onboard_time": 1719995778,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426617,
+        "num": 426617,
+        "word": "卡琳娜官宣参加KKW",
+        "onboard_time": 1719995238,
+        "rank": 5,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 376677,
+        "num": 376677,
+        "word": "薛之谦官宣3地18场",
+        "onboard_time": 1719988878,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346072,
+        "num": 346072,
+        "word": "张凌赫胖过但没丑过",
+        "onboard_time": 1719995897,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286930,
+        "num": 286930,
+        "word": "外交部回应美军偷叙利亚小麦",
+        "onboard_time": 1719993377,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276681,
+        "num": 276681,
+        "word": "一只福寿螺可含6000条寄生虫",
+        "onboard_time": 1719984498,
+        "rank": 9,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 2210438,
+        "num": 264254,
+        "word": "杜海涛 沈梦辰",
+        "onboard_time": 1719996679,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749683,
+        "num": 262524,
+        "word": "中金离世员工年仅30岁",
+        "onboard_time": 1719996559,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407325,
+        "num": 258905,
+        "word": "炎亚纶确定获缓刑3年",
+        "onboard_time": 1719981740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250686,
+        "num": 250686,
+        "word": "张凌赫 190",
+        "onboard_time": 1719987620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48860,
+        "num": 248722,
+        "word": "我们一起去看海",
+        "onboard_time": 1719997280,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400341,
+        "num": 248572,
+        "word": "沈梦辰 正常撒娇而已",
+        "onboard_time": 1719997880,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59601,
+        "num": 247882,
+        "word": "大哥救下落水小孩全程从容优雅",
+        "onboard_time": 1719999077,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 247656,
+        "num": 247656,
+        "word": "袁姗姗上恋综了",
+        "onboard_time": 1719994997,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236173,
+        "num": 236173,
+        "word": "A股成交额不足6000亿",
+        "onboard_time": 1719998118,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225332,
+        "num": 225332,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1249929,
+        "num": 224396,
+        "word": "李雪琴同届考生发文",
+        "onboard_time": 1719989839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099170,
+        "num": 223436,
+        "word": "印度男女偷情被当众处私刑",
+        "onboard_time": 1719995539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419620,
+        "num": 223129,
+        "word": "每天1杯豆浆身体会发生什么变化",
+        "onboard_time": 1719995778,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 409777,
+        "num": 221131,
+        "word": "工作能力差的人都有这5个特征",
+        "onboard_time": 1719991877,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365621,
+        "num": 220302,
+        "word": "凯美瑞只卖12万了",
+        "onboard_time": 1719997280,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154336,
+        "num": 219878,
+        "word": "市场上近六成房子是2000年以前建的",
+        "onboard_time": 1719994278,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314333,
+        "num": 218198,
+        "word": "专家称不买房孩子也该有学上",
+        "onboard_time": 1719987678,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305057,
+        "num": 217464,
+        "word": "超喜欢干干净净的朋友圈",
+        "onboard_time": 1719990739,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234110,
+        "num": 215975,
+        "word": "中餐厅",
+        "onboard_time": 1719997759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229182,
+        "num": 215378,
+        "word": "时代峰峻包场王俊凯野孩子",
+        "onboard_time": 1719996078,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226649,
+        "num": 214026,
+        "word": "西藏文旅回复薛之谦",
+        "onboard_time": 1719998838,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213453,
+        "num": 213453,
+        "word": "刘昊然为新戏拔了头发眉毛",
+        "onboard_time": 1719993918,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182225,
+        "num": 182225,
+        "word": "朋友圈反映了应届生offer的质量",
+        "onboard_time": 1719997698,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59385,
+        "num": 179125,
+        "word": "券商亲属股票账户全面倒查三年不实",
+        "onboard_time": 1719997218,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 178572,
+        "num": 178572,
+        "word": "歌手正在邀请迪玛希",
+        "onboard_time": 1719997339,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176826,
+        "num": 176826,
+        "word": "魏大勋已老实求放过",
+        "onboard_time": 1719992358,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167202,
+        "num": 167202,
+        "word": "刘亦菲小魔女妆造",
+        "onboard_time": 1719998718,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "这种水果是北方人的盲区",
+        "onboard_time": 1719994938,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "林丹悼念张志杰",
+        "onboard_time": 1719990318,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139953,
+        "num": 139953,
+        "word": "外交部回应芬兰总统涉华言论",
+        "onboard_time": 1719997638,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139186,
+        "num": 139186,
+        "word": "tim",
+        "onboard_time": 1719994577,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130293,
+        "num": 130293,
+        "word": "唐嫣时隔多年再演古装",
+        "onboard_time": 1719998060,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128038,
+        "num": 128038,
+        "word": "为什么家里没有麻将凉席了",
+        "onboard_time": 1719983359,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110038,
+        "num": 110038,
+        "word": "长相思2没有一个爱笑的",
+        "onboard_time": 1719991639,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144947,
+        "num": 109712,
+        "word": "银河",
+        "onboard_time": 1719992597,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107380,
+        "num": 107380,
+        "word": "虞书欣中餐厅路透",
+        "onboard_time": 1719997578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106515,
+        "num": 106515,
+        "word": "小猫有事哒有事哒",
+        "onboard_time": 1719999197,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105870,
+        "num": 105870,
+        "word": "电影默杀",
+        "onboard_time": 1719988878,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104719,
+        "num": 104719,
+        "word": "10余名村民砸车窗勇救坠河一家3口",
+        "onboard_time": 1719992956,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 97185,
+        "num": 97185,
+        "word": "戚薇戚支笔异地登陆",
+        "onboard_time": 1719998899,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席对哈萨克斯坦进行国事访问#"
+    }
+  }
+}
