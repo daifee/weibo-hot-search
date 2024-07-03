@@ -1,0 +1,410 @@
+{
+  "runTime": 1719974092884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932711,
+        "num": 932711,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1719971238,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365934,
+        "num": 365934,
+        "word": "A股",
+        "onboard_time": 1719971957,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9355,
+        "num": 365105,
+        "word": "上合组织峰会是个什么会",
+        "onboard_time": 1719888318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227089,
+        "num": 355941,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741533,
+        "num": 347376,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599539,
+        "num": 343326,
+        "word": "10岁男孩自学电气工程挣了1万多",
+        "onboard_time": 1719969738,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441090,
+        "num": 337296,
+        "word": "野孩子将提档",
+        "onboard_time": 1719971897,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44835,
+        "num": 328828,
+        "word": "哈萨克斯坦车主对中国车竖大拇指",
+        "onboard_time": 1719972016,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328445,
+        "num": 328445,
+        "word": "刘亦菲和罗晋是同学",
+        "onboard_time": 1719968178,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299486,
+        "num": 299486,
+        "word": "好学小孩哥在地铁上被北大博导收徒",
+        "onboard_time": 1719962235,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852522,
+        "num": 299271,
+        "word": "枪杀安倍凶犯原计划室内开枪",
+        "onboard_time": 1719971478,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 787660,
+        "num": 296721,
+        "word": "甜馨维护贾乃亮",
+        "onboard_time": 1719962596,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560247,
+        "num": 295993,
+        "word": "金钟大老了好多",
+        "onboard_time": 1719969438,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638622,
+        "num": 293872,
+        "word": "刘亦菲被认成黄圣依",
+        "onboard_time": 1719971118,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293572,
+        "num": 293572,
+        "word": "新华社发的肖战王一博",
+        "onboard_time": 1719973697,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277838,
+        "num": 277838,
+        "word": "短短5秒却救了2个家庭",
+        "onboard_time": 1719941054,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244940,
+        "num": 244940,
+        "word": "iPhone16或全系标配8GB内存",
+        "onboard_time": 1719963918,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233773,
+        "num": 233773,
+        "word": "河南一湖中惊现多条小鳄鱼",
+        "onboard_time": 1719965957,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314941,
+        "num": 233156,
+        "word": "刘亦菲粉裙吊威亚",
+        "onboard_time": 1719968897,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227150,
+        "num": 227150,
+        "word": "官方通报4人被终身禁入熊猫基地",
+        "onboard_time": 1719963316,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 224215,
+        "word": "消防员像捧珍宝一样抱小奶娃渡洪水",
+        "onboard_time": 1719972737,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573175,
+        "num": 224203,
+        "word": "发现在大厂上班真的像在上大学",
+        "onboard_time": 1719971837,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272982,
+        "num": 224156,
+        "word": "福建一初中生被霸凌致下体烧伤",
+        "onboard_time": 1719963556,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224008,
+        "num": 224008,
+        "word": "自行车撞上迈巴赫",
+        "onboard_time": 1719931760,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215499,
+        "num": 215499,
+        "word": "镖人 于适",
+        "onboard_time": 1719972198,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203423,
+        "num": 203423,
+        "word": "唐嫣孙坚认识二十多年了",
+        "onboard_time": 1719971417,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191112,
+        "num": 191112,
+        "word": "张凌赫男模身材",
+        "onboard_time": 1719965238,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176759,
+        "num": 176759,
+        "word": "雪糕里的木棍是这么用的吗",
+        "onboard_time": 1719971597,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175603,
+        "num": 175603,
+        "word": "仅半句就封神的千古名句",
+        "onboard_time": 1719966379,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 159118,
+        "num": 159118,
+        "word": "新婚第二天离婚第三天异地",
+        "onboard_time": 1719930799,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154954,
+        "num": 154954,
+        "word": "上海地铁16号线",
+        "onboard_time": 1719966437,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172078,
+        "num": 154765,
+        "word": "这和亲了一口张凌赫有啥区别",
+        "onboard_time": 1719962356,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154460,
+        "num": 154460,
+        "word": "电影默杀今日上映",
+        "onboard_time": 1719973638,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151524,
+        "num": 151524,
+        "word": "菲律宾",
+        "onboard_time": 1719972677,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150174,
+        "num": 150174,
+        "word": "肚子4个表现多半是癌细胞露出了马脚",
+        "onboard_time": 1719926058,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140924,
+        "num": 140924,
+        "word": "为什么医生打针前都要滋掉一点药水",
+        "onboard_time": 1719962235,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136607,
+        "num": 136607,
+        "word": "电影解密定档",
+        "onboard_time": 1719973758,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135753,
+        "num": 135753,
+        "word": "欧洲杯8强对阵图",
+        "onboard_time": 1719973996,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "默杀终极预告",
+        "onboard_time": 1719973937,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 125081,
+        "word": "眼科医生眼里最毁眼睛的十个动作",
+        "onboard_time": 1719962476,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120404,
+        "num": 120404,
+        "word": "菲律宾绑架中国人已成黑色产业链",
+        "onboard_time": 1719928700,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114511,
+        "num": 114511,
+        "word": "全班都能上985老师们嘴角压不住了",
+        "onboard_time": 1719934819,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108037,
+        "num": 108037,
+        "word": "形容一个人干净是很高级的表扬",
+        "onboard_time": 1719962596,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106783,
+        "num": 106783,
+        "word": "麻辣王子负责人回应工厂停工",
+        "onboard_time": 1719972136,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 103928,
+        "num": 103928,
+        "word": "长相思2看片会",
+        "onboard_time": 1719962896,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101315,
+        "num": 101315,
+        "word": "华为回应问界商标转让给赛力斯",
+        "onboard_time": 1719968538,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101291,
+        "num": 101291,
+        "word": "减脂期这六种食物一定要避雷",
+        "onboard_time": 1719939374,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100517,
+        "num": 100517,
+        "word": "吉林市拟组建锅包肉办公室",
+        "onboard_time": 1719971238,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100479,
+        "num": 100479,
+        "word": "中国排面雨中依旧眼神坚定身姿挺拔",
+        "onboard_time": 1719969976,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99605,
+        "num": 99605,
+        "word": "上海地铁回应16号线限速运行",
+        "onboard_time": 1719969976,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚之行这些看点值得关注#"
+    }
+  }
+}

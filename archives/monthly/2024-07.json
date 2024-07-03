@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719970953088,
+  "endTime": 1719974092884,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 932711,
+      "num": 932711,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1719971238,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 909290,
       "num": 253732,
       "word": "突然搞不懂订婚的意义了",
@@ -473,6 +481,14 @@
       "onboard_time": 1719821477,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 852522,
+      "num": 299271,
+      "word": "枪杀安倍凶犯原计划室内开枪",
+      "onboard_time": 1719971478,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 849746,
@@ -755,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 638622,
+      "num": 293872,
+      "word": "刘亦菲被认成黄圣依",
+      "onboard_time": 1719971118,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638016,
       "num": 501055,
       "word": "陈赫家漏水",
@@ -891,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 599539,
+      "num": 343326,
+      "word": "10岁男孩自学电气工程挣了1万多",
+      "onboard_time": 1719969738,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599258,
       "num": 599258,
       "word": "中国共产党103周年",
@@ -953,6 +985,14 @@
       "onboard_time": 1719808762,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573175,
+      "num": 224203,
+      "word": "发现在大厂上班真的像在上大学",
+      "onboard_time": 1719971837,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 572737,
@@ -1467,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441090,
+      "num": 337296,
+      "word": "野孩子将提档",
+      "onboard_time": 1719971897,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 440505,
       "num": 260441,
       "word": "福建一初中生被霸凌致下体烧伤",
@@ -1827,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365934,
+      "num": 365934,
+      "word": "A股",
+      "onboard_time": 1719811281,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 365774,
       "num": 365774,
       "word": "朋友哥哥是车银优",
@@ -2115,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310834,
-      "num": 310834,
-      "word": "10岁男孩自学电气工程挣了1万多",
-      "onboard_time": 1719969738,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310644,
       "num": 253171,
       "word": "为什么医生打针前都要滋掉一点药水",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1719930920,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293572,
+      "num": 293572,
+      "word": "新华社发的肖战王一博",
+      "onboard_time": 1719973697,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 293387,
@@ -2851,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215499,
+      "num": 215499,
+      "word": "镖人 于适",
+      "onboard_time": 1719972198,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214021,
       "num": 214021,
       "word": "张志杰去世留下众多问题待解",
@@ -2985,6 +3049,14 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203423,
+      "num": 203423,
+      "word": "唐嫣孙坚认识二十多年了",
+      "onboard_time": 1719971417,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 203284,
@@ -3451,20 +3523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177320,
-      "num": 177320,
-      "word": "A股",
-      "onboard_time": 1719811281,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 177195,
       "num": 177195,
       "word": "朴成训疑似睡客厅隔断",
       "onboard_time": 1719897438,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176759,
+      "num": 176759,
+      "word": "雪糕里的木棍是这么用的吗",
+      "onboard_time": 1719971597,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 176175,
@@ -3931,6 +4003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154460,
+      "num": 154460,
+      "word": "电影默杀今日上映",
+      "onboard_time": 1719973638,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153674,
       "num": 153674,
       "word": "张志杰倒地后第一时间无人上前",
@@ -4371,6 +4451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138975,
+      "num": 224215,
+      "word": "消防员像捧珍宝一样抱小奶娃渡洪水",
+      "onboard_time": 1719972737,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138571,
       "num": 138571,
       "word": "沈腾新片父爱如山体滑坡",
@@ -4409,6 +4497,14 @@
       "onboard_time": 1719908360,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136607,
+      "num": 136607,
+      "word": "电影解密定档",
+      "onboard_time": 1719973758,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 136518,
@@ -4472,6 +4568,14 @@
       "word": "超120名中国大众跑者参赛巴黎奥运会",
       "onboard_time": 1719924557,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135753,
+      "num": 135753,
+      "word": "欧洲杯8强对阵图",
+      "onboard_time": 1719973996,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -4785,6 +4889,14 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126931,
+      "num": 126931,
+      "word": "默杀终极预告",
+      "onboard_time": 1719973937,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 126900,
@@ -5283,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106783,
+      "num": 106783,
+      "word": "麻辣王子负责人回应工厂停工",
+      "onboard_time": 1719972136,
+      "rank": 43,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 106456,
       "num": 106456,
       "word": "特斯拉大涨超10%",
@@ -5433,6 +5553,14 @@
       "onboard_time": 1719933920,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100517,
+      "num": 100517,
+      "word": "吉林市拟组建锅包肉办公室",
+      "onboard_time": 1719971238,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100184,
@@ -6032,6 +6160,14 @@
       "word": "西南医院多学科专家救治870克超早产儿",
       "onboard_time": 1719890178,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44835,
+      "num": 328828,
+      "word": "哈萨克斯坦车主对中国车竖大拇指",
+      "onboard_time": 1719972016,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
