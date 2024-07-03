@@ -1,7 +1,15 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719981422080,
+  "endTime": 1719983999699,
   "band_list": [
+    {
+      "raw_hot": 2098035,
+      "num": 2098035,
+      "word": "炎亚纶确定获缓刑3年",
+      "onboard_time": 1719981740,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1899690,
       "num": 1899690,
@@ -339,6 +347,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 375741,
+      "num": 375741,
+      "word": "暑假档 提档",
+      "onboard_time": 1719979338,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 372013,
+      "num": 372013,
+      "word": "被王传君狠狠狠到了",
+      "onboard_time": 1719979880,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 355650,
       "num": 242602,
       "word": "倪妮跟刘亦菲撒娇",
@@ -355,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 346008,
-      "num": 346008,
-      "word": "暑假档 提档",
-      "onboard_time": 1719979338,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 333128,
+      "num": 333128,
+      "word": "巴勒斯坦男子在以监狱遭性虐待",
+      "onboard_time": 1719980359,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331727,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 285067,
-      "num": 271042,
+      "num": 276916,
       "word": "职业院校中的小清华",
       "onboard_time": 1719978619,
       "rank": 26,
@@ -467,11 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246556,
-      "num": 231816,
-      "word": "巴勒斯坦男子在以监狱遭性虐待",
-      "onboard_time": 1719980359,
-      "rank": 47,
+      "raw_hot": 239090,
+      "num": 217963,
+      "word": "五旬已婚女子同时和5名男子恋爱",
+      "onboard_time": 1719978920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237516,
+      "num": 206427,
+      "word": "小螃蟹用jio抠出一室一厅后封顶",
+      "onboard_time": 1719982221,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -489,6 +521,14 @@
       "onboard_time": 1719979279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234741,
+      "num": 205193,
+      "word": "什么是性单恋",
+      "onboard_time": 1719982699,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 228889,
@@ -515,22 +555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 220423,
-      "num": 220423,
-      "word": "被王传君狠狠狠到了",
-      "onboard_time": 1719979880,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 217963,
-      "num": 217963,
-      "word": "五旬已婚女子同时和5名男子恋爱",
-      "onboard_time": 1719978920,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -545,6 +569,14 @@
       "onboard_time": 1719972198,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208812,
+      "num": 208812,
+      "word": "守护甜心 亚梦小学毕业",
+      "onboard_time": 1719982459,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 208639,
@@ -611,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200324,
+      "num": 200324,
+      "word": "魔方新世界",
+      "onboard_time": 1719982758,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198971,
       "num": 198971,
       "word": "世界羽联将彻查张志杰赛场离世",
@@ -643,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194743,
+      "num": 194743,
+      "word": "为什么家里没有麻将凉席了",
+      "onboard_time": 1719983359,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192999,
       "num": 192999,
       "word": "欧洲杯8强对阵图",
@@ -651,12 +699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190015,
+      "num": 190015,
+      "word": "凤凰传奇兰州演唱会抢票",
+      "onboard_time": 1719982040,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189514,
       "num": 189514,
       "word": "世界之外夏夜诡叙诗",
       "onboard_time": 1719979338,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188260,
+      "num": 519202,
+      "word": "23岁女儿参加53岁妈妈毕业典礼",
+      "onboard_time": 1719976878,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187583,
@@ -689,6 +753,14 @@
       "onboard_time": 1719975378,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181682,
+      "num": 181682,
+      "word": "江西九江号召在外乡亲回乡抗洪",
+      "onboard_time": 1719982340,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175094,
@@ -745,6 +817,14 @@
       "onboard_time": 1719962896,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165268,
+      "num": 165268,
+      "word": "朱旺旺综艺首秀",
+      "onboard_time": 1719983419,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 164311,
@@ -835,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154229,
+      "num": 154229,
+      "word": "红衣相柳",
+      "onboard_time": 1719983778,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151387,
       "num": 151387,
       "word": "赛力斯拟25亿收购问界商标专利",
@@ -851,12 +939,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150266,
+      "num": 150266,
+      "word": "刘亦菲的大裙摆",
+      "onboard_time": 1719982399,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147972,
       "num": 147972,
       "word": "上海辟谣跟佛祖借了100亿元",
       "onboard_time": 1719921739,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146937,
+      "num": 146937,
+      "word": "C罗想踢2026世界杯",
+      "onboard_time": 1719981559,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "度华年 男二人设",
+      "onboard_time": 1719983658,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 144876,
@@ -939,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131773,
+      "num": 131773,
+      "word": "适合在发工资这天换的头像",
+      "onboard_time": 1719983958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131261,
       "num": 131261,
       "word": "闵塔鲨白鹿再合作",
@@ -955,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129818,
+      "num": 129818,
+      "word": "陈鹤一脸红",
+      "onboard_time": 1719983778,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129395,
       "num": 129395,
       "word": "华为回应问界商标转让给赛力斯",
@@ -969,6 +1097,14 @@
       "onboard_time": 1719969976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127434,
+      "num": 127434,
+      "word": "帕梅拉四件套越跳越瘦",
+      "onboard_time": 1719983719,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 123250,
@@ -1099,6 +1235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 93424,
+      "num": 371292,
+      "word": "钝感力很强是一种什么体验",
+      "onboard_time": 1719982820,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 93275,
       "num": 93275,
       "word": "第一次见对狗毛过敏的狗",
@@ -1116,7 +1260,7 @@
     },
     {
       "raw_hot": 92312,
-      "num": 733245,
+      "num": 799474,
       "word": "乒乓球在哈萨克斯坦有多受欢迎",
       "onboard_time": 1719965118,
       "rank": 9,
@@ -1163,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83275,
-      "num": 519202,
-      "word": "23岁女儿参加53岁妈妈毕业典礼",
-      "onboard_time": 1719976878,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "iPhone16或全系采用A18芯片",
@@ -1209,6 +1345,14 @@
       "onboard_time": 1719919638,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72631,
+      "num": 277139,
+      "word": "全网寻黄金大宝剑主人",
+      "onboard_time": 1719981380,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 70740,
@@ -1451,14 +1595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 21639,
-      "num": 131255,
-      "word": "全网寻黄金大宝剑主人",
-      "onboard_time": 1719981380,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 15190,
       "num": 64328,
       "word": "女生生病2年仍保研清华准备读博",
@@ -1538,6 +1674,9 @@
     },
     {
       "word": "#习近平同哈萨克斯坦总统小范围晤谈#"
+    },
+    {
+      "word": "#习主席引用多国谚语典故谈上合#"
     }
   ]
 }

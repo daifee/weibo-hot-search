@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719981422080,
+  "endTime": 1719983999699,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -33,6 +33,14 @@
       "onboard_time": 1719814039,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2098035,
+      "num": 2098035,
+      "word": "炎亚纶确定获缓刑3年",
+      "onboard_time": 1719981740,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1899690,
@@ -1947,12 +1955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375741,
+      "num": 375741,
+      "word": "暑假档 提档",
+      "onboard_time": 1719979338,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374323,
       "num": 374323,
       "word": "荷兰70岁夫妇接受双人安乐死",
       "onboard_time": 1719909859,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372013,
+      "num": 372013,
+      "word": "被王传君狠狠狠到了",
+      "onboard_time": 1719979880,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 370143,
@@ -2075,14 +2099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 346008,
-      "num": 346008,
-      "word": "暑假档 提档",
-      "onboard_time": 1719979338,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 344269,
       "num": 344269,
       "word": "张凌赫壁纸",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1719905058,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333128,
+      "num": 333128,
+      "word": "巴勒斯坦男子在以监狱遭性虐待",
+      "onboard_time": 1719980359,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332669,
@@ -2460,7 +2484,7 @@
     },
     {
       "raw_hot": 285067,
-      "num": 271042,
+      "num": 276916,
       "word": "职业院校中的小清华",
       "onboard_time": 1719978619,
       "rank": 26,
@@ -2763,14 +2787,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 246556,
-      "num": 231816,
-      "word": "巴勒斯坦男子在以监狱遭性虐待",
-      "onboard_time": 1719980359,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245375,
       "num": 245375,
       "word": "郑恺海岛新家",
@@ -2827,6 +2843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 239090,
+      "num": 217963,
+      "word": "五旬已婚女子同时和5名男子恋爱",
+      "onboard_time": 1719978920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
@@ -2856,6 +2880,14 @@
       "word": "3个月的坑被2个小孩给填平了",
       "onboard_time": 1719906679,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237516,
+      "num": 206427,
+      "word": "小螃蟹用jio抠出一室一厅后封顶",
+      "onboard_time": 1719982221,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2889,6 +2921,14 @@
       "onboard_time": 1719979279,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234741,
+      "num": 205193,
+      "word": "什么是性单恋",
+      "onboard_time": 1719982699,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 234357,
@@ -3019,14 +3059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220423,
-      "num": 220423,
-      "word": "被王传君狠狠狠到了",
-      "onboard_time": 1719979880,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220335,
       "num": 220335,
       "word": "晚霞",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1719901397,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217963,
-      "num": 217963,
-      "word": "五旬已婚女子同时和5名男子恋爱",
-      "onboard_time": 1719978920,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217473,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1719832098,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208812,
+      "num": 208812,
+      "word": "守护甜心 亚梦小学毕业",
+      "onboard_time": 1719982459,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 208639,
@@ -3331,6 +3363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200324,
+      "num": 200324,
+      "word": "魔方新世界",
+      "onboard_time": 1719982758,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200300,
       "num": 200300,
       "word": "百花奖最佳女配提名",
@@ -3467,6 +3507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194743,
+      "num": 194743,
+      "word": "为什么家里没有麻将凉席了",
+      "onboard_time": 1719983359,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "张杰演唱会大屏上的一家三口",
@@ -3539,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190015,
+      "num": 190015,
+      "word": "凤凰传奇兰州演唱会抢票",
+      "onboard_time": 1719982040,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189795,
       "num": 189795,
       "word": "吴谨言许凯售后来了",
@@ -3585,6 +3641,14 @@
       "onboard_time": 1719906558,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188260,
+      "num": 519202,
+      "word": "23岁女儿参加53岁妈妈毕业典礼",
+      "onboard_time": 1719976878,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 188153,
@@ -3721,6 +3785,14 @@
       "onboard_time": 1719759018,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181682,
+      "num": 181682,
+      "word": "江西九江号召在外乡亲回乡抗洪",
+      "onboard_time": 1719982340,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181422,
@@ -4019,6 +4091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165268,
+      "num": 165268,
+      "word": "朱旺旺综艺首秀",
+      "onboard_time": 1719983419,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165162,
       "num": 165162,
       "word": "坠落春夜",
@@ -4315,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154229,
+      "num": 154229,
+      "word": "红衣相柳",
+      "onboard_time": 1719983778,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153674,
       "num": 153674,
       "word": "张志杰倒地后第一时间无人上前",
@@ -4459,6 +4547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150266,
+      "num": 150266,
+      "word": "刘亦菲的大裙摆",
+      "onboard_time": 1719982399,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150022,
       "num": 150022,
       "word": "Zdz找工作",
@@ -4489,6 +4585,22 @@
       "onboard_time": 1719878658,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146937,
+      "num": 146937,
+      "word": "C罗想踢2026世界杯",
+      "onboard_time": 1719981559,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "度华年 男二人设",
+      "onboard_time": 1719983658,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 145947,
@@ -5043,6 +5155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131773,
+      "num": 131773,
+      "word": "适合在发工资这天换的头像",
+      "onboard_time": 1719983958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131758,
       "num": 131758,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -5121,6 +5241,14 @@
       "onboard_time": 1719832937,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129818,
+      "num": 129818,
+      "word": "陈鹤一脸红",
+      "onboard_time": 1719983778,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 129710,
@@ -5209,6 +5337,14 @@
       "onboard_time": 1719898520,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127434,
+      "num": 127434,
+      "word": "帕梅拉四件套越跳越瘦",
+      "onboard_time": 1719983719,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127324,
@@ -6019,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93424,
+      "num": 371292,
+      "word": "钝感力很强是一种什么体验",
+      "onboard_time": 1719982820,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 92981,
       "num": 97358,
       "word": "giselle保存粉丝拍的照片",
@@ -6044,7 +6188,7 @@
     },
     {
       "raw_hot": 92312,
-      "num": 733245,
+      "num": 799474,
       "word": "乒乓球在哈萨克斯坦有多受欢迎",
       "onboard_time": 1719965118,
       "rank": 9,
@@ -6195,14 +6339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83275,
-      "num": 519202,
-      "word": "23岁女儿参加53岁妈妈毕业典礼",
-      "onboard_time": 1719976878,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "iPhone16或全系采用A18芯片",
@@ -6273,6 +6409,14 @@
       "onboard_time": 1719976038,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72631,
+      "num": 277139,
+      "word": "全网寻黄金大宝剑主人",
+      "onboard_time": 1719981380,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 70661,
@@ -6939,14 +7083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21639,
-      "num": 131255,
-      "word": "全网寻黄金大宝剑主人",
-      "onboard_time": 1719981380,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 20713,
       "num": 226792,
       "word": "韩国幼儿园老师吐槽学生家长太笨",
@@ -7151,6 +7287,9 @@
     },
     {
       "word": "#习近平同哈萨克斯坦总统小范围晤谈#"
+    },
+    {
+      "word": "#习主席引用多国谚语典故谈上合#"
     }
   ]
 }
