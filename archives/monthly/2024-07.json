@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720002143512,
+  "endTime": 1720003121931,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1099170,
-      "num": 223436,
+      "num": 224199,
       "word": "印度男女偷情被当众处私刑",
       "onboard_time": 1719995539,
       "rank": 30,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750279,
+      "num": 750279,
+      "word": "西藏文旅回复薛之谦",
+      "onboard_time": 1719998838,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 750205,
       "num": 750205,
       "word": "有班味这么重的皇后进入国产剧",
@@ -825,14 +833,6 @@
       "onboard_time": 1719884718,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 721218,
-      "num": 721218,
-      "word": "西藏文旅回复薛之谦",
-      "onboard_time": 1719998838,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 718435,
@@ -961,6 +961,14 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 640163,
+      "num": 239615,
+      "word": "女子吃1斤见手青后看见一屋人",
+      "onboard_time": 1720001718,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638016,
@@ -1235,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566517,
+      "num": 239585,
+      "word": "凯美瑞只卖12万了",
+      "onboard_time": 1719997280,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 564103,
       "num": 564103,
       "word": "中公教育董事长回应退费",
@@ -1483,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 505944,
-      "num": 220302,
-      "word": "凯美瑞只卖12万了",
-      "onboard_time": 1719997280,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 503889,
       "num": 503889,
       "word": "妈妈是清华的儿子也是清华的",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1719819437,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494444,
+      "num": 235356,
+      "word": "金靖是你们play的一环吗",
+      "onboard_time": 1720001357,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 491264,
@@ -2155,6 +2171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 384556,
+      "num": 384556,
+      "word": "刘亦菲小魔女妆造",
+      "onboard_time": 1719998718,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384420,
       "num": 286470,
       "word": "张志杰抢救全程",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1719801018,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364587,
-      "num": 364587,
-      "word": "刘亦菲小魔女妆造",
-      "onboard_time": 1719998718,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 362424,
@@ -2475,6 +2491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327435,
+      "num": 327435,
+      "word": "A股成交额不足6000亿",
+      "onboard_time": 1719998118,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 327262,
       "num": 327262,
       "word": "鹭卓 杭州站",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 316298,
-      "num": 316298,
-      "word": "A股成交额不足6000亿",
-      "onboard_time": 1719998118,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 315630,
@@ -2867,6 +2883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278407,
+      "num": 228768,
+      "word": "小猫有事哒有事哒",
+      "onboard_time": 1719999197,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277992,
       "num": 277992,
       "word": "网易游戏发布未成年暑期限玩通知",
@@ -3019,14 +3043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253665,
-      "num": 179321,
-      "word": "小猫有事哒有事哒",
-      "onboard_time": 1719999197,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 253635,
       "num": 253635,
       "word": "保罗签约马刺",
@@ -3129,14 +3145,6 @@
       "onboard_time": 1719982699,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246020,
-      "num": 156845,
-      "word": "金靖是你们play的一环吗",
-      "onboard_time": 1720001357,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 245375,
@@ -3435,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218830,
+      "num": 218830,
+      "word": "韩国高中生偷拍女厕逃跑摔骨折",
+      "onboard_time": 1719998118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217724,
       "num": 217724,
       "word": "长相思2定档",
@@ -3572,7 +3588,7 @@
     },
     {
       "raw_hot": 208483,
-      "num": 182225,
+      "num": 184546,
       "word": "朋友圈反映了应届生offer的质量",
       "onboard_time": 1719997698,
       "rank": 44,
@@ -3723,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201995,
+      "num": 201995,
+      "word": "浪姐导演小心点迪士尼",
+      "onboard_time": 1720001659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201389,
       "num": 201389,
       "word": "七一",
@@ -3859,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197410,
+      "num": 191197,
+      "word": "唐山今年全市已处分2116人",
+      "onboard_time": 1720002437,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196716,
       "num": 196716,
       "word": "刘昊然新电影造型",
@@ -3979,20 +4011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192462,
+      "num": 192462,
+      "word": "aespa新歌",
+      "onboard_time": 1720002619,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191277,
       "num": 191277,
       "word": "李晨张艺兴重现传说剧情",
       "onboard_time": 1719837917,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191158,
-      "num": 152196,
-      "word": "女子吃1斤见手青后看见一屋人",
-      "onboard_time": 1720001718,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190774,
@@ -4347,14 +4379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178187,
-      "num": 178760,
-      "word": "韩国高中生偷拍女厕逃跑摔骨折",
-      "onboard_time": 1719998118,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178159,
       "num": 178159,
       "word": "现在连朋友圈自由都没有了",
@@ -4603,6 +4627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166968,
+      "num": 166968,
+      "word": "发现身边真的好多人在重启人生",
+      "onboard_time": 1720001718,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166799,
       "num": 166799,
       "word": "长相思2看片会",
@@ -4843,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157175,
+      "num": 157175,
+      "word": "黄明昊现场复刻默杀名场面",
+      "onboard_time": 1720002378,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157140,
       "num": 157140,
       "word": "野孩子终极预告",
@@ -4953,6 +4993,14 @@
       "onboard_time": 1719970156,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154547,
+      "num": 154547,
+      "word": "岳阳失联干部被找到已无生命体征",
+      "onboard_time": 1720002137,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153674,
@@ -5131,6 +5179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148779,
+      "num": 239187,
+      "word": "菲警方回应中国公民遭绑架遇害事件",
+      "onboard_time": 1719999978,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 147008,
       "num": 147008,
       "word": "一放暑假8个外甥又来了",
@@ -5145,6 +5201,14 @@
       "onboard_time": 1719981559,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "赵露思新中式look",
+      "onboard_time": 1720000459,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 145947,
@@ -5217,14 +5281,6 @@
       "onboard_time": 1719842179,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 144152,
-      "num": 144152,
-      "word": "赵露思新中式look",
-      "onboard_time": 1720000459,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 144072,
@@ -5457,14 +5513,6 @@
       "onboard_time": 1719962296,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139241,
-      "num": 139241,
-      "word": "浪姐导演小心点迪士尼",
-      "onboard_time": 1720001659,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 139174,
@@ -5987,14 +6035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 126543,
-      "num": 126543,
-      "word": "菲警方回应中国公民遭绑架遇害事件",
-      "onboard_time": 1719999978,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 125999,
       "num": 125999,
       "word": "董宇辉公司获广电节目制作许可",
@@ -6049,6 +6089,14 @@
       "onboard_time": 1719999077,
       "rank": 16,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 123775,
+      "num": 123775,
+      "word": "周深纽约工作花絮",
+      "onboard_time": 1720002078,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 123432,
@@ -6595,14 +6643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106765,
-      "num": 106765,
-      "word": "发现身边真的好多人在重启人生",
-      "onboard_time": 1720001718,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106456,
       "num": 106456,
       "word": "特斯拉大涨超10%",
@@ -6649,6 +6689,14 @@
       "onboard_time": 1719740416,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105633,
+      "num": 105633,
+      "word": "薛之谦被小孩整不会了",
+      "onboard_time": 1720002678,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 105341,
@@ -6777,14 +6825,6 @@
       "onboard_time": 1719933920,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100674,
-      "num": 100674,
-      "word": "周深纽约工作花絮",
-      "onboard_time": 1720002078,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 100517,
@@ -7403,6 +7443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56509,
+      "num": 202410,
+      "word": "这场盛大的告别只有她留在了原地",
+      "onboard_time": 1720000938,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55752,
       "num": 508075,
       "word": "老师用手教16岁听障男生跳舞走红",
@@ -7635,20 +7683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36809,
+      "num": 233996,
+      "word": "世界之外校园怪谈",
+      "onboard_time": 1720001204,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36396,
       "num": 357134,
       "word": "香港欢迎大熊猫来港",
       "onboard_time": 1719816557,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36070,
-      "num": 202410,
-      "word": "这场盛大的告别只有她留在了原地",
-      "onboard_time": 1720000938,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 35598,
@@ -7843,12 +7891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25940,
-      "num": 145478,
-      "word": "世界之外校园怪谈",
-      "onboard_time": 1720001204,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 25598,
+      "num": 443448,
+      "word": "哈萨克斯坦首都有个北京大厦",
+      "onboard_time": 1720003098,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25550,
@@ -7945,6 +7993,14 @@
       "onboard_time": 1719778511,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18460,
+      "num": 239751,
+      "word": "汽车落水村民砸窗勇救1家4口",
+      "onboard_time": 1720002799,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 18320,
@@ -8147,6 +8203,9 @@
     },
     {
       "word": "#习近平中亚之行#"
+    },
+    {
+      "word": "#这些外国孩子为习主席唱起中文歌#"
     }
   ]
 }
