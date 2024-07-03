@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719974092884,
+  "endTime": 1719974688477,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 988089,
+      "num": 322113,
+      "word": "枪杀安倍凶犯原计划室内开枪",
+      "onboard_time": 1719971478,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 946443,
       "num": 565908,
       "word": "张志杰大学保送证书刚寄回家",
@@ -481,14 +489,6 @@
       "onboard_time": 1719821477,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 852522,
-      "num": 299271,
-      "word": "枪杀安倍凶犯原计划室内开枪",
-      "onboard_time": 1719971478,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 849746,
@@ -715,6 +715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 683432,
+      "num": 300971,
+      "word": "刘亦菲被认成黄圣依",
+      "onboard_time": 1719971118,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669112,
       "num": 669112,
       "word": "张志杰",
@@ -769,14 +777,6 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 638622,
-      "num": 293872,
-      "word": "刘亦菲被认成黄圣依",
-      "onboard_time": 1719971118,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 638016,
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600247,
+      "num": 224203,
+      "word": "发现在大厂上班真的像在上大学",
+      "onboard_time": 1719971837,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599835,
       "num": 436111,
       "word": "官方回应张志杰比赛晕倒去世",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 599539,
-      "num": 343326,
+      "num": 353606,
       "word": "10岁男孩自学电气工程挣了1万多",
       "onboard_time": 1719969738,
       "rank": 16,
@@ -985,14 +993,6 @@
       "onboard_time": 1719808762,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573175,
-      "num": 224203,
-      "word": "发现在大厂上班真的像在上大学",
-      "onboard_time": 1719971837,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 572737,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444506,
+      "num": 342051,
+      "word": "新华社发的肖战王一博",
+      "onboard_time": 1719973697,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444369,
       "num": 223227,
       "word": "长期熬夜会增加身体核心器官负担",
@@ -1507,7 +1515,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 441090,
+      "raw_hot": 443910,
       "num": 337296,
       "word": "野孩子将提档",
       "onboard_time": 1719971897,
@@ -1787,6 +1795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 388498,
+      "num": 388498,
+      "word": "A股",
+      "onboard_time": 1719811281,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 384420,
       "num": 286470,
       "word": "张志杰抢救全程",
@@ -1875,14 +1891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365934,
-      "num": 365934,
-      "word": "A股",
-      "onboard_time": 1719811281,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 365774,
       "num": 365774,
       "word": "朋友哥哥是车银优",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1719900441,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355650,
+      "num": 237698,
+      "word": "倪妮跟刘亦菲撒娇",
+      "onboard_time": 1719974657,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 354878,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1719760339,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 323751,
+      "num": 196757,
+      "word": "我家那闺女首发阵容官宣",
+      "onboard_time": 1719974237,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 323058,
@@ -2249,14 +2273,6 @@
       "onboard_time": 1719930920,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293572,
-      "num": 293572,
-      "word": "新华社发的肖战王一博",
-      "onboard_time": 1719973697,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 293387,
@@ -3035,6 +3051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204929,
+      "num": 194575,
+      "word": "电影默杀今日上映",
+      "onboard_time": 1719973638,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "黄旭东吐槽JackeyLove",
@@ -3259,6 +3283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192999,
+      "num": 192999,
+      "word": "欧洲杯8强对阵图",
+      "onboard_time": 1719973996,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191277,
       "num": 191277,
       "word": "李晨张艺兴重现传说剧情",
@@ -3403,6 +3435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184955,
+      "num": 184955,
+      "word": "雪糕里的木棍是这么用的吗",
+      "onboard_time": 1719971597,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184360,
       "num": 438938,
       "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
@@ -3531,14 +3571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176759,
-      "num": 176759,
-      "word": "雪糕里的木棍是这么用的吗",
-      "onboard_time": 1719971597,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -3579,6 +3611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175094,
+      "num": 175094,
+      "word": "电影解密定档",
+      "onboard_time": 1719973758,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174928,
       "num": 174928,
       "word": "中国第一门面担当海外亮相",
@@ -3593,6 +3633,14 @@
       "onboard_time": 1719911538,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174369,
+      "num": 174369,
+      "word": "默杀终极预告",
+      "onboard_time": 1719973937,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 172451,
@@ -3899,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157140,
+      "num": 157140,
+      "word": "野孩子终极预告",
+      "onboard_time": 1719974417,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157009,
       "num": 157009,
       "word": "娜扎穿藏服",
@@ -3945,6 +4001,14 @@
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155888,
+      "num": 155888,
+      "word": "俄罗斯副防长被解职",
+      "onboard_time": 1719974356,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 155758,
@@ -4001,14 +4065,6 @@
       "onboard_time": 1719970156,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154460,
-      "num": 154460,
-      "word": "电影默杀今日上映",
-      "onboard_time": 1719973638,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 153674,
@@ -4452,7 +4508,7 @@
     },
     {
       "raw_hot": 138975,
-      "num": 224215,
+      "num": 326567,
       "word": "消防员像捧珍宝一样抱小奶娃渡洪水",
       "onboard_time": 1719972737,
       "rank": 20,
@@ -4483,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137331,
+      "num": 185290,
+      "word": "麻辣王子负责人回应工厂停工",
+      "onboard_time": 1719972136,
+      "rank": 43,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 136975,
       "num": 136975,
       "word": "裁判回应教练查看运动员伤势违规吗",
@@ -4497,14 +4561,6 @@
       "onboard_time": 1719908360,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136607,
-      "num": 136607,
-      "word": "电影解密定档",
-      "onboard_time": 1719973758,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 136518,
@@ -4568,14 +4624,6 @@
       "word": "超120名中国大众跑者参赛巴黎奥运会",
       "onboard_time": 1719924557,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135753,
-      "num": 135753,
-      "word": "欧洲杯8强对阵图",
-      "onboard_time": 1719973996,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -4889,14 +4937,6 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126931,
-      "num": 126931,
-      "word": "默杀终极预告",
-      "onboard_time": 1719973937,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 126900,
@@ -5395,14 +5435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106783,
-      "num": 106783,
-      "word": "麻辣王子负责人回应工厂停工",
-      "onboard_time": 1719972136,
-      "rank": 43,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 106456,
       "num": 106456,
       "word": "特斯拉大涨超10%",
@@ -5433,6 +5465,14 @@
       "onboard_time": 1719789494,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105875,
+      "num": 105875,
+      "word": "2024全球emoji失宠榜单",
+      "onboard_time": 1719974536,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 105826,
@@ -6083,6 +6123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55687,
+      "num": 362077,
+      "word": "哈萨克斯坦车主对中国车竖大拇指",
+      "onboard_time": 1719972016,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53324,
       "num": 437318,
       "word": "德国男子放弃高薪随妻子定居宁波小村",
@@ -6160,14 +6208,6 @@
       "word": "西南医院多学科专家救治870克超早产儿",
       "onboard_time": 1719890178,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44835,
-      "num": 328828,
-      "word": "哈萨克斯坦车主对中国车竖大拇指",
-      "onboard_time": 1719972016,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6504,6 +6544,14 @@
       "word": "美国4名劫匪得手后击掌庆祝被拍",
       "onboard_time": 1719825978,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24715,
+      "num": 384128,
+      "word": "通江达海运载千秋",
+      "onboard_time": 1719974297,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
