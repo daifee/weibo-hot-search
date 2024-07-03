@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720013685439,
+  "endTime": 1720016398157,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -9,6 +9,14 @@
       "onboard_time": 1719792137,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7759038,
+      "num": 7759038,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 2710385,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1105030,
+      "num": 225093,
+      "word": "坚持裸睡1年身体会有什么变化",
+      "onboard_time": 1720012758,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1100708,
       "num": 1100708,
       "word": "女子错转226万元陌生阿姨全退回",
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1048251,
+      "num": 936664,
+      "word": "杜海涛曾为保护素人叫停节目",
+      "onboard_time": 1720012219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1028263,
       "num": 401294,
       "word": "新婚第二天离婚第三天异地",
@@ -497,14 +521,6 @@
       "onboard_time": 1719807019,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 936664,
-      "num": 936664,
-      "word": "杜海涛曾为保护素人叫停节目",
-      "onboard_time": 1720012219,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 932711,
@@ -787,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785040,
-      "num": 732617,
-      "word": "野孩子 撤档",
-      "onboard_time": 1720013238,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 776810,
       "num": 758079,
       "word": "郑爽未履行金额超1.2亿",
@@ -817,6 +825,14 @@
       "onboard_time": 1719971837,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 773604,
+      "num": 773604,
+      "word": "西宁通报2名15岁学生先后因病离世",
+      "onboard_time": 1720012397,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756494,
@@ -873,6 +889,14 @@
       "onboard_time": 1719824598,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 740667,
+      "num": 477847,
+      "word": "网传电影野孩子暂停预售",
+      "onboard_time": 1720013718,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 739319,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1719963316,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525656,
+      "num": 445940,
+      "word": "野孩子声明",
+      "onboard_time": 1720016241,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 525355,
@@ -2203,14 +2235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399736,
-      "num": 186302,
-      "word": "西宁通报2名15岁学生先后因病离世",
-      "onboard_time": 1720012397,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399378,
       "num": 399378,
       "word": "2名中国企业管理人员菲律宾遇害",
@@ -2603,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335360,
+      "num": 335360,
+      "word": "唐尚珺今年高考志愿全部服从调剂",
+      "onboard_time": 1720012278,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333128,
       "num": 333128,
       "word": "巴勒斯坦男子在以监狱遭性虐待",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1719896180,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 330100,
+      "num": 204782,
+      "word": "小鬼工作室维权声明",
+      "onboard_time": 1720014980,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 329092,
@@ -2931,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290452,
+      "num": 204429,
+      "word": "B太 南京大爷带我勇闯南京",
+      "onboard_time": 1720013480,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 290391,
       "num": 290391,
       "word": "正在变老的明显特征是什么",
@@ -3163,14 +3211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263693,
-      "num": 225093,
-      "word": "坚持裸睡1年身体会有什么变化",
-      "onboard_time": 1720012758,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 263606,
       "num": 141810,
       "word": "如何用3周瘦42斤",
@@ -3185,6 +3225,14 @@
       "onboard_time": 1719753438,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262459,
+      "num": 204218,
+      "word": "李蓉差点18岁就要守寡",
+      "onboard_time": 1720014919,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 261822,
@@ -3499,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232889,
+      "num": 204165,
+      "word": "网友偶遇张亮儿子张天天",
+      "onboard_time": 1720015879,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232507,
       "num": 232507,
       "word": "长相思小夭白发细节",
@@ -3601,14 +3657,6 @@
       "onboard_time": 1719813978,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225404,
-      "num": 225404,
-      "word": "唐尚珺今年高考志愿全部服从调剂",
-      "onboard_time": 1720012278,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 225041,
@@ -3907,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205229,
+      "num": 205229,
+      "word": "屠丽国漫蒲草型女主",
+      "onboard_time": 1720015821,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204929,
       "num": 194575,
       "word": "电影默杀今日上映",
@@ -3945,6 +4001,14 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203832,
+      "num": 203832,
+      "word": "不要让服务员用你手机写评价",
+      "onboard_time": 1720013358,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 203423,
@@ -5227,14 +5291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156675,
-      "num": 156675,
-      "word": "B太 南京大爷带我勇闯南京",
-      "onboard_time": 1720013480,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 156565,
       "num": 156565,
       "word": "羽毛球",
@@ -5361,6 +5417,14 @@
       "onboard_time": 1719842239,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152429,
+      "num": 152429,
+      "word": "同事们都有种淡淡的疯感",
+      "onboard_time": 1720014980,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 152101,
@@ -5683,6 +5747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 142720,
+      "num": 142720,
+      "word": "沈月看SEVENTEEN团综哭了",
+      "onboard_time": 1720014680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142467,
       "num": 142467,
       "word": "郑思维为张志杰默哀",
@@ -5904,6 +5976,14 @@
       "word": "凡希亚连唱半小时没有停",
       "onboard_time": 1719801558,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137879,
+      "num": 137879,
+      "word": "邓佳鑫说想有唱歌的机会",
+      "onboard_time": 1720014680,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -6451,6 +6531,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 123799,
+      "num": 123799,
+      "word": "章若楠翟潇闻互关了",
+      "onboard_time": 1720014740,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123775,
       "num": 123775,
       "word": "周深纽约工作花絮",
@@ -6609,14 +6697,6 @@
       "onboard_time": 1719883098,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119832,
-      "num": 119832,
-      "word": "不要让服务员用你手机写评价",
-      "onboard_time": 1720013358,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 119771,
@@ -7668,7 +7748,7 @@
     },
     {
       "raw_hot": 68765,
-      "num": 278087,
+      "num": 301446,
       "word": "外国女子突发疾病还好遇上中国医生",
       "onboard_time": 1720006219,
       "rank": 12,
@@ -7697,6 +7777,14 @@
       "onboard_time": 1719831437,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66068,
+      "num": 204663,
+      "word": "孕妇突然分娩众人暖心搭建临时产房",
+      "onboard_time": 1720016300,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 65945,
@@ -8041,6 +8129,14 @@
       "onboard_time": 1720003277,
       "rank": 35,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 42403,
+      "num": 631361,
+      "word": "雪龙2号和极地号硬核同框",
+      "onboard_time": 1720014980,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42330,
@@ -8456,6 +8552,14 @@
       "word": "2只梅花鹿你们不要再打了啦",
       "onboard_time": 1719844879,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23238,
+      "num": 448910,
+      "word": "中哈企业家的双向奔赴",
+      "onboard_time": 1720014200,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

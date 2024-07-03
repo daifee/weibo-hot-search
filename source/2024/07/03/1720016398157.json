@@ -1,0 +1,410 @@
+{
+  "runTime": 1720016398157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7759038,
+        "num": 7759038,
+        "word": "野孩子 撤档",
+        "onboard_time": 1720013238,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 773604,
+        "num": 773604,
+        "word": "西宁通报2名15岁学生先后因病离世",
+        "onboard_time": 1720012397,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42403,
+        "num": 631361,
+        "word": "雪龙2号和极地号硬核同框",
+        "onboard_time": 1720014980,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048251,
+        "num": 563925,
+        "word": "杜海涛曾为保护素人叫停节目",
+        "onboard_time": 1720012219,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489859,
+        "num": 489859,
+        "word": "西交大回应校领导与学生不正当关系",
+        "onboard_time": 1720008439,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478323,
+        "num": 478323,
+        "word": "含牛奶的茶饮竟然是C级",
+        "onboard_time": 1720010417,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 740667,
+        "num": 477847,
+        "word": "网传电影野孩子暂停预售",
+        "onboard_time": 1720013718,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459116,
+        "num": 459116,
+        "word": "日本男子新加坡性侵女学生被判鞭刑",
+        "onboard_time": 1720005138,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23238,
+        "num": 448910,
+        "word": "中哈企业家的双向奔赴",
+        "onboard_time": 1720014200,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525656,
+        "num": 445940,
+        "word": "野孩子声明",
+        "onboard_time": 1720016241,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1040083,
+        "num": 444699,
+        "word": "杜海涛 沈梦辰",
+        "onboard_time": 1719996679,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442695,
+        "num": 442695,
+        "word": "女子吃1斤见手青后看见一屋人",
+        "onboard_time": 1720001718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440026,
+        "num": 440026,
+        "word": "后来赵霁活成了宛瑜的样子",
+        "onboard_time": 1720008677,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358914,
+        "num": 358914,
+        "word": "这竟然是刘昊然",
+        "onboard_time": 1720003638,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358276,
+        "num": 358276,
+        "word": "宁静 花少",
+        "onboard_time": 1720011798,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357944,
+        "num": 357944,
+        "word": "中金称网传员工跳楼系谣言",
+        "onboard_time": 1720010838,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335360,
+        "num": 335360,
+        "word": "唐尚珺今年高考志愿全部服从调剂",
+        "onboard_time": 1720012278,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28849,
+        "num": 301446,
+        "word": "外国女子突发疾病还好遇上中国医生",
+        "onboard_time": 1720006219,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 298449,
+        "num": 298449,
+        "word": "28元10串烤牛油肉粒没指甲盖大",
+        "onboard_time": 1720011257,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205229,
+        "num": 205229,
+        "word": "屠丽国漫蒲草型女主",
+        "onboard_time": 1720015821,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1105030,
+        "num": 205141,
+        "word": "坚持裸睡1年身体会有什么变化",
+        "onboard_time": 1720012758,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 704883,
+        "num": 205090,
+        "word": "突然得知婆婆一个月公积金八千多",
+        "onboard_time": 1720006818,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355767,
+        "num": 204947,
+        "word": "印度男女偷情被当众处私刑",
+        "onboard_time": 1719995539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330100,
+        "num": 204782,
+        "word": "小鬼工作室维权声明",
+        "onboard_time": 1720014980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66068,
+        "num": 204663,
+        "word": "孕妇突然分娩众人暖心搭建临时产房",
+        "onboard_time": 1720016300,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 309941,
+        "num": 204544,
+        "word": "气血不足的人夏天是真难受",
+        "onboard_time": 1720005378,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290452,
+        "num": 204429,
+        "word": "B太 南京大爷带我勇闯南京",
+        "onboard_time": 1720013480,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276256,
+        "num": 204305,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262459,
+        "num": 204218,
+        "word": "李蓉差点18岁就要守寡",
+        "onboard_time": 1720014919,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232889,
+        "num": 204165,
+        "word": "网友偶遇张亮儿子张天天",
+        "onboard_time": 1720015879,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226487,
+        "num": 204004,
+        "word": "中餐厅8合伙人阵容官宣",
+        "onboard_time": 1720003220,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206992,
+        "num": 203863,
+        "word": "白敬亭染金发了",
+        "onboard_time": 1720005018,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203832,
+        "num": 203832,
+        "word": "不要让服务员用你手机写评价",
+        "onboard_time": 1720013358,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 196499,
+        "word": "子女的心寒是父母站在对立面",
+        "onboard_time": 1720012819,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178198,
+        "num": 178198,
+        "word": "于正回应赵晴AI换脸",
+        "onboard_time": 1720012638,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167805,
+        "num": 167805,
+        "word": "詹姆斯续约湖人",
+        "onboard_time": 1720011498,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162167,
+        "num": 162167,
+        "word": "凯美瑞只卖12万了",
+        "onboard_time": 1719997280,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152695,
+        "num": 152695,
+        "word": "李雪琴同届考生发文",
+        "onboard_time": 1719989839,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152429,
+        "num": 152429,
+        "word": "同事们都有种淡淡的疯感",
+        "onboard_time": 1720014980,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147891,
+        "num": 147891,
+        "word": "上海暴雨",
+        "onboard_time": 1720007118,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142720,
+        "num": 142720,
+        "word": "沈月看SEVENTEEN团综哭了",
+        "onboard_time": 1720014680,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137879,
+        "num": 137879,
+        "word": "邓佳鑫说想有唱歌的机会",
+        "onboard_time": 1720014680,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135428,
+        "num": 135428,
+        "word": "每天1杯豆浆身体会发生什么变化",
+        "onboard_time": 1719995778,
+        "rank": 42,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 127326,
+        "num": 127326,
+        "word": "猫咪冲向归家主人5分钟后倒地离世",
+        "onboard_time": 1720007597,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124858,
+        "num": 124858,
+        "word": "登陆计划 三公",
+        "onboard_time": 1720013599,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123799,
+        "num": 123799,
+        "word": "章若楠翟潇闻互关了",
+        "onboard_time": 1720014740,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123299,
+        "num": 123299,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1720003938,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121613,
+        "num": 121613,
+        "word": "黄晓明晒照回复虞书欣",
+        "onboard_time": 1720011078,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 113867,
+        "word": "上海冰雹",
+        "onboard_time": 1720012339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113843,
+        "num": 113843,
+        "word": "汪苏泷为演唱会01号怪物征名",
+        "onboard_time": 1720010778,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}

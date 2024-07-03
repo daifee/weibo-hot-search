@@ -1,7 +1,15 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1720013685439,
+  "endTime": 1720016398157,
   "band_list": [
+    {
+      "raw_hot": 7759038,
+      "num": 7759038,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 2221414,
       "num": 496277,
@@ -115,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1105030,
+      "num": 225093,
+      "word": "坚持裸睡1年身体会有什么变化",
+      "onboard_time": 1720012758,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1099170,
       "num": 251818,
       "word": "印度男女偷情被当众处私刑",
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1048251,
+      "num": 936664,
+      "word": "杜海涛曾为保护素人叫停节目",
+      "onboard_time": 1720012219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988089,
       "num": 886941,
       "word": "枪杀安倍凶犯原计划室内开枪",
@@ -153,14 +177,6 @@
       "onboard_time": 1719976697,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 936664,
-      "num": 936664,
-      "word": "杜海涛曾为保护素人叫停节目",
-      "onboard_time": 1720012219,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 932711,
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785040,
-      "num": 732617,
-      "word": "野孩子 撤档",
-      "onboard_time": 1720013238,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 773837,
       "num": 274308,
       "word": "发现在大厂上班真的像在上大学",
       "onboard_time": 1719971837,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 773604,
+      "num": 773604,
+      "word": "西宁通报2名15岁学生先后因病离世",
+      "onboard_time": 1720012397,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756494,
@@ -249,6 +265,14 @@
       "onboard_time": 1719998838,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 740667,
+      "num": 477847,
+      "word": "网传电影野孩子暂停预售",
+      "onboard_time": 1720013718,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 718435,
@@ -457,6 +481,14 @@
       "onboard_time": 1719963316,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525656,
+      "num": 445940,
+      "word": "野孩子声明",
+      "onboard_time": 1720016241,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 525355,
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399736,
-      "num": 186302,
-      "word": "西宁通报2名15岁学生先后因病离世",
-      "onboard_time": 1720012397,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393713,
       "num": 393713,
       "word": "暑假档 提档",
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335360,
+      "num": 335360,
+      "word": "唐尚珺今年高考志愿全部服从调剂",
+      "onboard_time": 1720012278,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333128,
       "num": 333128,
       "word": "巴勒斯坦男子在以监狱遭性虐待",
@@ -849,6 +881,14 @@
       "onboard_time": 1719916099,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 330100,
+      "num": 204782,
+      "word": "小鬼工作室维权声明",
+      "onboard_time": 1720014980,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 327435,
@@ -929,6 +969,14 @@
       "onboard_time": 1720003277,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 290452,
+      "num": 204429,
+      "word": "B太 南京大爷带我勇闯南京",
+      "onboard_time": 1720013480,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 289581,
@@ -1027,12 +1075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263693,
-      "num": 225093,
-      "word": "坚持裸睡1年身体会有什么变化",
-      "onboard_time": 1720012758,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 262459,
+      "num": 204218,
+      "word": "李蓉差点18岁就要守寡",
+      "onboard_time": 1720014919,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 251573,
@@ -1083,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232889,
+      "num": 204165,
+      "word": "网友偶遇张亮儿子张天天",
+      "onboard_time": 1720015879,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229182,
       "num": 215378,
       "word": "时代峰峻包场王俊凯野孩子",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1719999978,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 225404,
-      "num": 225404,
-      "word": "唐尚珺今年高考志愿全部服从调剂",
-      "onboard_time": 1720012278,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 225041,
@@ -1243,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205229,
+      "num": 205229,
+      "word": "屠丽国漫蒲草型女主",
+      "onboard_time": 1720015821,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204929,
       "num": 194575,
       "word": "电影默杀今日上映",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1719988397,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203832,
+      "num": 203832,
+      "word": "不要让服务员用你手机写评价",
+      "onboard_time": 1720013358,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 203423,
@@ -1787,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156675,
-      "num": 156675,
-      "word": "B太 南京大爷带我勇闯南京",
-      "onboard_time": 1720013480,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 155758,
       "num": 155758,
       "word": "韩雪喊话营销号",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1720012339,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152429,
+      "num": 152429,
+      "word": "同事们都有种淡淡的疯感",
+      "onboard_time": 1720014980,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 151387,
@@ -1939,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142720,
+      "num": 142720,
+      "word": "沈月看SEVENTEEN团综哭了",
+      "onboard_time": 1720014680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142392,
       "num": 142392,
       "word": "这种水果是北方人的盲区",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1719972737,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137879,
+      "num": 137879,
+      "word": "邓佳鑫说想有唱歌的机会",
+      "onboard_time": 1720014680,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137737,
@@ -2131,6 +2211,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 123799,
+      "num": 123799,
+      "word": "章若楠翟潇闻互关了",
+      "onboard_time": 1720014740,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123775,
       "num": 123775,
       "word": "周深纽约工作花絮",
@@ -2193,14 +2281,6 @@
       "onboard_time": 1720006098,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119832,
-      "num": 119832,
-      "word": "不要让服务员用你手机写评价",
-      "onboard_time": 1720013358,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 119647,
@@ -2596,10 +2676,18 @@
     },
     {
       "raw_hot": 68765,
-      "num": 278087,
+      "num": 301446,
       "word": "外国女子突发疾病还好遇上中国医生",
       "onboard_time": 1720006219,
       "rank": 12,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 66068,
+      "num": 204663,
+      "word": "孕妇突然分娩众人暖心搭建临时产房",
+      "onboard_time": 1720016300,
+      "rank": 24,
       "category": "社会正能量"
     },
     {
@@ -2811,6 +2899,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 42403,
+      "num": 631361,
+      "word": "雪龙2号和极地号硬核同框",
+      "onboard_time": 1720014980,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41754,
       "num": 41754,
       "word": "鹿晗银发蓝毛衣",
@@ -2971,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23238,
+      "num": 448910,
+      "word": "中哈企业家的双向奔赴",
+      "onboard_time": 1720014200,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23191,
       "num": 239751,
       "word": "汽车落水村民砸窗勇救1家4口",
@@ -3092,6 +3196,9 @@
     },
     {
       "word": "#习近平同哈萨克斯坦总统共见记者#"
+    },
+    {
+      "word": "#习近平中亚行#"
     }
   ]
 }
