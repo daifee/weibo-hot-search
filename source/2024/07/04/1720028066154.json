@@ -1,0 +1,410 @@
+{
+  "runTime": 1720028066154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 702607,
+        "num": 702607,
+        "word": "野孩子 撤档",
+        "onboard_time": 1720013238,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107187,
+        "num": 107187,
+        "word": "中金称网传员工跳楼系谣言",
+        "onboard_time": 1720010838,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14095,
+        "num": 105118,
+        "word": "雪龙2号和极地号硬核同框",
+        "onboard_time": 1720014980,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203361,
+        "num": 105117,
+        "word": "杜海涛曾为保护素人叫停节目",
+        "onboard_time": 1720012219,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104109,
+        "num": 104109,
+        "word": "日本男子新加坡性侵女学生被判鞭刑",
+        "onboard_time": 1720005138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269590,
+        "num": 103997,
+        "word": "医院通报医生传播患者麻醉裸照",
+        "onboard_time": 1720018341,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131955,
+        "num": 100719,
+        "word": "边伯贤solo出道五周年",
+        "onboard_time": 1720026134,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104979,
+        "num": 96617,
+        "word": "后来赵霁活成了宛瑜的样子",
+        "onboard_time": 1720008677,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91293,
+        "num": 91293,
+        "word": "同事们都有种淡淡的疯感",
+        "onboard_time": 1720014980,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7029,
+        "num": 90913,
+        "word": "孕妇突然分娩众人暖心搭建临时产房",
+        "onboard_time": 1720016300,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 358958,
+        "num": 90768,
+        "word": "北大博导否认地铁收徒看书小孩哥",
+        "onboard_time": 1720023616,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334880,
+        "num": 89963,
+        "word": "杜海涛 沈梦辰",
+        "onboard_time": 1719996679,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277024,
+        "num": 89752,
+        "word": "李泽锋站姐拍出了阿如那的善良",
+        "onboard_time": 1720022597,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155488,
+        "num": 89300,
+        "word": "小鬼工作室维权声明",
+        "onboard_time": 1720014980,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152855,
+        "num": 88765,
+        "word": "西宁通报2名15岁学生先后因病离世",
+        "onboard_time": 1720012397,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 88401,
+        "word": "日本一百余人骨坑被指与731部队有关",
+        "onboard_time": 1720017500,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88169,
+        "num": 88169,
+        "word": "合肥之心城",
+        "onboard_time": 1720020019,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86537,
+        "num": 86537,
+        "word": "女子吃1斤见手青后看见一屋人",
+        "onboard_time": 1720001718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81510,
+        "num": 81510,
+        "word": "野孩子声明",
+        "onboard_time": 1720016241,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64585,
+        "num": 64585,
+        "word": "含牛奶的茶饮竟然是C级",
+        "onboard_time": 1720010417,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271484,
+        "num": 64494,
+        "word": "坚持裸睡1年身体会有什么变化",
+        "onboard_time": 1720012758,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114068,
+        "num": 64314,
+        "word": "西交大回应校领导与学生不正当关系",
+        "onboard_time": 1720008439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83563,
+        "num": 64015,
+        "word": "不建议大家离职的几个月份",
+        "onboard_time": 1720018459,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79506,
+        "num": 63711,
+        "word": "印度男女偷情被当众处私刑",
+        "onboard_time": 1719995539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63668,
+        "num": 63668,
+        "word": "断崖式离职比断崖式分手还可怕",
+        "onboard_time": 1720021637,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56319,
+        "num": 56319,
+        "word": "宁静 花少",
+        "onboard_time": 1720011798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53221,
+        "num": 53221,
+        "word": "气血不足的人夏天是真难受",
+        "onboard_time": 1720005378,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52280,
+        "num": 52280,
+        "word": "郑州文旅回应涉林俊杰演唱会争议内容",
+        "onboard_time": 1720017920,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49564,
+        "num": 49564,
+        "word": "原神KFC联动偷跑",
+        "onboard_time": 1720021818,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48271,
+        "num": 48271,
+        "word": "韩廷是许凯第一个霸总",
+        "onboard_time": 1720019060,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47629,
+        "num": 47629,
+        "word": "这竟然是刘昊然",
+        "onboard_time": 1720003638,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46616,
+        "num": 46616,
+        "word": "子女的心寒是父母站在对立面",
+        "onboard_time": 1720012819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46592,
+        "num": 46592,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46187,
+        "num": 46187,
+        "word": "网曝一公司用关小黑屋方式劝退员工",
+        "onboard_time": 1720016961,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45717,
+        "num": 45717,
+        "word": "于正回应赵晴AI换脸",
+        "onboard_time": 1720012638,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 44798,
+        "word": "肾虚不虚看这5个地方就知道",
+        "onboard_time": 1720026674,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43439,
+        "num": 43439,
+        "word": "Uzi谈自己名人堂皮肤",
+        "onboard_time": 1720016421,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42882,
+        "num": 42882,
+        "word": "网友偶遇张亮儿子张天天",
+        "onboard_time": 1720015879,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41743,
+        "num": 41743,
+        "word": "李沁深V高定",
+        "onboard_time": 1720020978,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41559,
+        "num": 41559,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1720003938,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40855,
+        "num": 40855,
+        "word": "谢霆锋听到粉丝说王菲的反应",
+        "onboard_time": 1720012579,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40031,
+        "num": 40031,
+        "word": "沈月看SEVENTEEN团综哭了",
+        "onboard_time": 1720014680,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38965,
+        "num": 38965,
+        "word": "神十八乘组第2次出舱圆满完成",
+        "onboard_time": 1720022837,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38721,
+        "num": 38721,
+        "word": "唐尚珺今年高考志愿全部服从调剂",
+        "onboard_time": 1720012278,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36129,
+        "num": 38721,
+        "word": "白敬亭染金发了",
+        "onboard_time": 1720005018,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34969,
+        "num": 38713,
+        "word": "银河证券回应员工跳楼传闻",
+        "onboard_time": 1720016901,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34492,
+        "num": 38703,
+        "word": "中餐厅8合伙人阵容官宣",
+        "onboard_time": 1720003220,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33289,
+        "num": 38701,
+        "word": "张子枫素颜打羽毛球",
+        "onboard_time": 1720018459,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32281,
+        "num": 38693,
+        "word": "不要让服务员用你手机写评价",
+        "onboard_time": 1720013358,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 38691,
+        "word": "魔方新世界排名",
+        "onboard_time": 1720028052,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家主席习近平会见俄罗斯总统普京#"
+    }
+  }
+}

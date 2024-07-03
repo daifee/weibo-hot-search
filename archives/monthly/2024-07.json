@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720027043561,
+  "endTime": 1720028066154,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -6339,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131955,
+      "num": 100719,
+      "word": "边伯贤solo出道五周年",
+      "onboard_time": 1720026134,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131785,
       "num": 131785,
       "word": "唐嫣御姐妆造",
@@ -7579,14 +7587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95478,
-      "num": 95478,
-      "word": "边伯贤solo出道五周年",
-      "onboard_time": 1720026134,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95249,
       "num": 95249,
       "word": "毕业典礼学生齐唱凤凰花开的路口",
@@ -8259,6 +8259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44798,
+      "num": 44798,
+      "word": "肾虚不虚看这5个地方就知道",
+      "onboard_time": 1720026674,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44332,
       "num": 44332,
       "word": "军校毕业大考也太硬核了",
@@ -8337,14 +8345,6 @@
       "onboard_time": 1719941893,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41001,
-      "num": 43793,
-      "word": "肾虚不虚看这5个地方就知道",
-      "onboard_time": 1720026674,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 40935,
@@ -8529,6 +8529,14 @@
       "onboard_time": 1719901519,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30673,
+      "num": 38691,
+      "word": "魔方新世界排名",
+      "onboard_time": 1720028052,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 29654,
