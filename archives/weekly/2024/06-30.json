@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1719995085350,
+  "endTime": 1719995880544,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -27,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2175826,
+      "num": 2175826,
+      "word": "网传中金员工因降薪跳楼",
+      "onboard_time": 1719994397,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2149755,
       "num": 2149755,
       "word": "朋友圈先仅自己可见三天后再公开",
@@ -51,20 +59,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1889445,
+      "num": 1820630,
+      "word": "李雪琴同届考生发文",
+      "onboard_time": 1719989839,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1855281,
       "num": 1855281,
       "word": "徐艺洋 老板就能上我卫生间吗",
       "onboard_time": 1719890598,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1820630,
-      "num": 1820630,
-      "word": "李雪琴同届考生发文",
-      "onboard_time": 1719989839,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1819294,
@@ -87,6 +95,14 @@
       "num": 422741,
       "word": "李敏镐肿了",
       "onboard_time": 1719846380,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1690883,
+      "num": 1690883,
+      "word": "李雪琴 游泳证",
+      "onboard_time": 1719994397,
       "rank": 10,
       "category": "艺人"
     },
@@ -345,14 +361,6 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1203880,
-      "num": 1203880,
-      "word": "网传中金员工因降薪跳楼",
-      "onboard_time": 1719994397,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1198960,
@@ -899,6 +907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 794742,
+      "num": 794742,
+      "word": "中金回应员工疑因降薪跳楼",
+      "onboard_time": 1719994997,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 776810,
       "num": 758079,
       "word": "郑爽未履行金额超1.2亿",
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 613476,
-      "num": 329964,
+      "num": 340827,
       "word": "张凌赫 190",
       "onboard_time": 1719987620,
       "rank": 25,
@@ -1359,14 +1375,6 @@
       "num": 542771,
       "word": "陈志朋53岁再签新公司",
       "onboard_time": 1719741318,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 604421,
-      "num": 349671,
-      "word": "李雪琴 游泳证",
-      "onboard_time": 1719994397,
       "rank": 10,
       "category": "艺人"
     },
@@ -1643,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 549238,
+      "num": 244875,
+      "word": "工作能力差的人都有这5个特征",
+      "onboard_time": 1719991877,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547008,
       "num": 547008,
       "word": "好学小孩哥在地铁上被北大博导收徒",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1719825619,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524248,
+      "num": 241697,
+      "word": "湖南常德一家四口被杀害",
+      "onboard_time": 1719993377,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 523985,
@@ -1875,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 502684,
-      "num": 337041,
-      "word": "中金回应员工疑因降薪跳楼",
-      "onboard_time": 1719994997,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 500486,
       "num": 500486,
       "word": "白鹿活动生图",
@@ -1968,14 +1984,6 @@
       "word": "谈了快一年的男朋友居然已婚有娃了",
       "onboard_time": 1719804078,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 488143,
-      "num": 244875,
-      "word": "工作能力差的人都有这5个特征",
-      "onboard_time": 1719991877,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -2121,14 +2129,6 @@
       "onboard_time": 1719840379,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471167,
-      "num": 241697,
-      "word": "湖南常德一家四口被杀害",
-      "onboard_time": 1719993377,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 464153,
@@ -2467,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 422017,
+      "num": 422017,
+      "word": "外交部回应美军偷叙利亚小麦",
+      "onboard_time": 1719993377,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 421732,
       "num": 421732,
       "word": "吃完的荔枝不要扔",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1719827779,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 405346,
-      "num": 405346,
-      "word": "外交部回应美军偷叙利亚小麦",
-      "onboard_time": 1719993377,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 404688,
@@ -3355,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309771,
+      "num": 309771,
+      "word": "刘昊然为新戏拔了头发眉毛",
+      "onboard_time": 1719993918,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309135,
       "num": 212461,
       "word": "卜冠今演技",
@@ -3539,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290319,
+      "num": 290319,
+      "word": "中金公司上海一员工离世",
+      "onboard_time": 1719995778,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289581,
       "num": 289581,
       "word": "娜扎出任圣罗兰中国形象大使",
@@ -3675,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280480,
+      "num": 280480,
+      "word": "袁姗姗上恋综了",
+      "onboard_time": 1719994997,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280033,
       "num": 280033,
       "word": "绝区零",
@@ -3753,14 +3777,6 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268514,
-      "num": 268514,
-      "word": "刘昊然为新戏拔了头发眉毛",
-      "onboard_time": 1719993918,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 268022,
@@ -3913,6 +3929,14 @@
       "onboard_time": 1719812897,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252982,
+      "num": 159112,
+      "word": "印度男女偷情被当众处私刑",
+      "onboard_time": 1719995539,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252478,
@@ -4467,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "卡琳娜官宣参加KKW",
+      "onboard_time": 1719995238,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214021,
       "num": 214021,
       "word": "张志杰去世留下众多问题待解",
@@ -4736,14 +4768,6 @@
       "word": "苏新皓趋势三代第一",
       "onboard_time": 1719743117,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203094,
-      "num": 203094,
-      "word": "袁姗姗上恋综了",
-      "onboard_time": 1719994997,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -5555,6 +5579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180661,
+      "num": 180661,
+      "word": "市场上近六成房子是2000年以前建的",
+      "onboard_time": 1719994278,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180476,
       "num": 180476,
       "word": "警方通报业主砍断高空工人安全绳",
@@ -5665,6 +5697,14 @@
       "onboard_time": 1719734957,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175955,
+      "num": 175955,
+      "word": "tim",
+      "onboard_time": 1719994577,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175706,
@@ -5897,14 +5937,6 @@
       "onboard_time": 1719713178,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 166939,
-      "num": 166939,
-      "word": "市场上近六成房子是2000年以前建的",
-      "onboard_time": 1719994278,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166799,
@@ -6281,14 +6313,6 @@
       "onboard_time": 1719789555,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156426,
-      "num": 156426,
-      "word": "tim",
-      "onboard_time": 1719994577,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 156112,
@@ -7916,7 +7940,7 @@
     },
     {
       "raw_hot": 119346,
-      "num": 811376,
+      "num": 1147243,
       "word": "哈萨克斯坦天空现中国国旗色彩带",
       "onboard_time": 1719988158,
       "rank": 46,
@@ -8081,6 +8105,14 @@
       "onboard_time": 1719932180,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114588,
+      "num": 114588,
+      "word": "专家称希望完全放开限购",
+      "onboard_time": 1719995117,
+      "rank": 40,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 114299,
@@ -8355,6 +8387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108345,
+      "num": 108345,
+      "word": "每天1杯豆浆身体会发生什么变化",
+      "onboard_time": 1719995778,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 108303,
       "num": 117140,
       "word": "多方回应张志杰事件",
@@ -8505,6 +8545,14 @@
       "onboard_time": 1719872772,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104753,
+      "num": 104753,
+      "word": "野鸢尾一种像打印出来的草",
+      "onboard_time": 1719995597,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104478,
@@ -9179,6 +9227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80266,
+      "num": 308925,
+      "word": "古天乐林更新惊悚片预告",
+      "onboard_time": 1719989538,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 80163,
       "num": 80163,
       "word": "于正回应点赞",
@@ -9475,6 +9531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 63808,
+      "num": 345050,
+      "word": "10余名村民砸车窗勇救坠河一家3口",
+      "onboard_time": 1719992956,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 63302,
       "num": 501142,
       "word": "大熊猫上班划土划得好上头",
@@ -9497,14 +9561,6 @@
       "onboard_time": 1719797479,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61892,
-      "num": 308925,
-      "word": "古天乐林更新惊悚片预告",
-      "onboard_time": 1719989538,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 61271,
@@ -9649,14 +9705,6 @@
       "onboard_time": 1719750258,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 53472,
-      "num": 314038,
-      "word": "10余名村民砸车窗勇救坠河一家3口",
-      "onboard_time": 1719992956,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 53324,

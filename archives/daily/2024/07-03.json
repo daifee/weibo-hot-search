@@ -1,7 +1,15 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719995085350,
+  "endTime": 1719995880544,
   "band_list": [
+    {
+      "raw_hot": 2175826,
+      "num": 2175826,
+      "word": "网传中金员工因降薪跳楼",
+      "onboard_time": 1719994397,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 2098035,
       "num": 2098035,
@@ -19,11 +27,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1820630,
+      "raw_hot": 1889445,
       "num": 1820630,
       "word": "李雪琴同届考生发文",
       "onboard_time": 1719989839,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1690883,
+      "num": 1690883,
+      "word": "李雪琴 游泳证",
+      "onboard_time": 1719994397,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -57,14 +73,6 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1203880,
-      "num": 1203880,
-      "word": "网传中金员工因降薪跳楼",
-      "onboard_time": 1719994397,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1164275,
@@ -137,6 +145,14 @@
       "onboard_time": 1719987678,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 794742,
+      "num": 794742,
+      "word": "中金回应员工疑因降薪跳楼",
+      "onboard_time": 1719994997,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 773837,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 613476,
-      "num": 329964,
+      "num": 340827,
       "word": "张凌赫 190",
       "onboard_time": 1719987620,
       "rank": 25,
@@ -225,14 +241,6 @@
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 604421,
-      "num": 349671,
-      "word": "李雪琴 游泳证",
-      "onboard_time": 1719994397,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 599539,
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 549238,
+      "num": 244875,
+      "word": "工作能力差的人都有这5个特征",
+      "onboard_time": 1719991877,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 547008,
       "num": 547008,
       "word": "好学小孩哥在地铁上被北大博导收徒",
@@ -297,6 +313,14 @@
       "onboard_time": 1719990739,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524248,
+      "num": 241697,
+      "word": "湖南常德一家四口被杀害",
+      "onboard_time": 1719993377,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 515094,
@@ -323,28 +347,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 502684,
-      "num": 337041,
-      "word": "中金回应员工疑因降薪跳楼",
-      "onboard_time": 1719994997,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 488449,
       "num": 488449,
       "word": "肚子4个表现多半是癌细胞露出了马脚",
       "onboard_time": 1719926058,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 488143,
-      "num": 244875,
-      "word": "工作能力差的人都有这5个特征",
-      "onboard_time": 1719991877,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 483635,
@@ -377,14 +385,6 @@
       "onboard_time": 1719931760,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471167,
-      "num": 241697,
-      "word": "湖南常德一家四口被杀害",
-      "onboard_time": 1719993377,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 462518,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422017,
+      "num": 422017,
+      "word": "外交部回应美军偷叙利亚小麦",
+      "onboard_time": 1719993377,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 419264,
       "num": 273104,
       "word": "为什么有的人睡觉爱举双手",
@@ -465,14 +473,6 @@
       "onboard_time": 1719930260,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 405346,
-      "num": 405346,
-      "word": "外交部回应美军偷叙利亚小麦",
-      "onboard_time": 1719993377,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 401312,
@@ -587,6 +587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 309771,
+      "num": 309771,
+      "word": "刘昊然为新戏拔了头发眉毛",
+      "onboard_time": 1719993918,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300545,
       "num": 237501,
       "word": "惊天魔盗团3北美定档",
@@ -599,6 +607,14 @@
       "num": 300456,
       "word": "银河",
       "onboard_time": 1719992597,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290319,
+      "num": 290319,
+      "word": "中金公司上海一员工离世",
+      "onboard_time": 1719995778,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -635,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280480,
+      "num": 280480,
+      "word": "袁姗姗上恋综了",
+      "onboard_time": 1719994997,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280033,
       "num": 280033,
       "word": "绝区零",
@@ -667,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268514,
-      "num": 268514,
-      "word": "刘昊然为新戏拔了头发眉毛",
-      "onboard_time": 1719993918,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 268022,
       "num": 215637,
       "word": "刘亦菲唐嫣合照再加一",
@@ -697,6 +713,14 @@
       "onboard_time": 1719979940,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252982,
+      "num": 159112,
+      "word": "印度男女偷情被当众处私刑",
+      "onboard_time": 1719995539,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251573,
@@ -787,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "卡琳娜官宣参加KKW",
+      "onboard_time": 1719995238,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 213653,
       "num": 213653,
       "word": "谭松韵把我妈变成了追剧搭子",
@@ -864,14 +896,6 @@
       "word": "唐嫣孙坚认识二十多年了",
       "onboard_time": 1719971417,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203094,
-      "num": 203094,
-      "word": "袁姗姗上恋综了",
-      "onboard_time": 1719994997,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1083,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180661,
+      "num": 180661,
+      "word": "市场上近六成房子是2000年以前建的",
+      "onboard_time": 1719994278,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179646,
       "num": 179646,
       "word": "经常吃这类食物更易感染幽门螺杆菌",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1719992298,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175955,
+      "num": 175955,
+      "word": "tim",
+      "onboard_time": 1719994577,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175094,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1719962476,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 166939,
-      "num": 166939,
-      "word": "市场上近六成房子是2000年以前建的",
-      "onboard_time": 1719994278,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166799,
@@ -1256,14 +1288,6 @@
       "word": "娜扎穿藏服",
       "onboard_time": 1719968118,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156426,
-      "num": 156426,
-      "word": "tim",
-      "onboard_time": 1719994577,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 119346,
-      "num": 811376,
+      "num": 1147243,
       "word": "哈萨克斯坦天空现中国国旗色彩带",
       "onboard_time": 1719988158,
       "rank": 46,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1719991578,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114588,
+      "num": 114588,
+      "word": "专家称希望完全放开限购",
+      "onboard_time": 1719995117,
+      "rank": 40,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 113851,
@@ -1627,6 +1659,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108345,
+      "num": 108345,
+      "word": "每天1杯豆浆身体会发生什么变化",
+      "onboard_time": 1719995778,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 106456,
       "num": 106456,
       "word": "特斯拉大涨超10%",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1719970578,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104753,
+      "num": 104753,
+      "word": "野鸢尾一种像打印出来的草",
+      "onboard_time": 1719995597,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104478,
@@ -1779,6 +1827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80266,
+      "num": 308925,
+      "word": "古天乐林更新惊悚片预告",
+      "onboard_time": 1719989538,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 80024,
       "num": 204235,
       "word": "无腿男生苦练14天自豪走上毕业典礼",
@@ -1859,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63808,
+      "num": 345050,
+      "word": "10余名村民砸车窗勇救坠河一家3口",
+      "onboard_time": 1719992956,
+      "rank": 13,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 63405,
       "num": 82120,
       "word": "谁家好人拿亲弟弟当约饭神器啊",
@@ -1873,14 +1937,6 @@
       "onboard_time": 1719930498,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61892,
-      "num": 308925,
-      "word": "古天乐林更新惊悚片预告",
-      "onboard_time": 1719989538,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 61609,
@@ -1961,14 +2017,6 @@
       "onboard_time": 1719921017,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53472,
-      "num": 314038,
-      "word": "10余名村民砸车窗勇救坠河一家3口",
-      "onboard_time": 1719992956,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 49023,
