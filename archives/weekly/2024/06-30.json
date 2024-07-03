@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720038888522,
+  "endTime": 1720041568282,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -11627,6 +11627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16480,
+      "num": 16480,
+      "word": "张志杰之殇折射羽毛球赛程过密",
+      "onboard_time": 1720037591,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16468,
       "num": 135871,
       "word": "大熊猫压马路松弛感拉满",
@@ -11675,12 +11683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14352,
-      "num": 14713,
-      "word": "张志杰之殇折射羽毛球赛程过密",
-      "onboard_time": 1720037591,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 14264,
+      "num": 14712,
+      "word": "在毕业典礼上被求婚了",
+      "onboard_time": 1720036391,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 13995,
@@ -11697,14 +11705,6 @@
       "onboard_time": 1719702612,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13819,
-      "num": 14712,
-      "word": "在毕业典礼上被求婚了",
-      "onboard_time": 1720036391,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 13451,
