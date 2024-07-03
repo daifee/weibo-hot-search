@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720012923926,
+  "endTime": 1720013685439,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2221414,
-      "num": 392418,
+      "num": 496277,
       "word": "杜海涛 沈梦辰",
       "onboard_time": 1719996679,
       "rank": 10,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936664,
+      "num": 936664,
+      "word": "杜海涛曾为保护素人叫停节目",
+      "onboard_time": 1720012219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 932711,
       "num": 932711,
       "word": "周杰伦演唱会抢票",
@@ -969,6 +977,14 @@
       "onboard_time": 1720008439,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785040,
+      "num": 732617,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 776810,
@@ -1636,7 +1652,7 @@
     },
     {
       "raw_hot": 575847,
-      "num": 392414,
+      "num": 404768,
       "word": "白敬亭染金发了",
       "onboard_time": 1720005018,
       "rank": 16,
@@ -2051,6 +2067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500985,
+      "num": 500985,
+      "word": "后来赵霁活成了宛瑜的样子",
+      "onboard_time": 1720008677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500486,
       "num": 500486,
       "word": "白鹿活动生图",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1719821237,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 495281,
+      "num": 495281,
+      "word": "含牛奶的茶饮竟然是C级",
+      "onboard_time": 1720010417,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 495050,
@@ -2163,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486200,
-      "num": 486200,
-      "word": "后来赵霁活成了宛瑜的样子",
-      "onboard_time": 1720008677,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 483744,
       "num": 251707,
       "word": "昨天才知道我十月四号要结婚了",
@@ -2209,14 +2233,6 @@
       "onboard_time": 1719802098,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 481501,
-      "num": 308647,
-      "word": "杜海涛曾为保护素人叫停节目",
-      "onboard_time": 1720012219,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 481356,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1719853932,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 444114,
+      "num": 444114,
+      "word": "宁静 花少",
+      "onboard_time": 1720011798,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 443910,
@@ -2787,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399736,
+      "num": 186302,
+      "word": "西宁通报2名15岁学生先后因病离世",
+      "onboard_time": 1720012397,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399378,
       "num": 399378,
       "word": "2名中国企业管理人员菲律宾遇害",
@@ -2849,14 +2881,6 @@
       "onboard_time": 1719979338,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 392371,
-      "num": 392371,
-      "word": "含牛奶的茶饮竟然是C级",
-      "onboard_time": 1720010417,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 391987,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1719917417,
       "rank": 16,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 360374,
+      "num": 360374,
+      "word": "28元10串烤牛油肉粒没指甲盖大",
+      "onboard_time": 1720011257,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 358063,
@@ -3667,14 +3699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301051,
-      "num": 301051,
-      "word": "宁静 花少",
-      "onboard_time": 1720011798,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300944,
       "num": 300944,
       "word": "王一博来广西晒黑了",
@@ -3817,14 +3841,6 @@
       "onboard_time": 1719849918,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292079,
-      "num": 292079,
-      "word": "28元10串烤牛油肉粒没指甲盖大",
-      "onboard_time": 1720011257,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 290591,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1719805458,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263693,
+      "num": 225093,
+      "word": "坚持裸睡1年身体会有什么变化",
+      "onboard_time": 1720012758,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 261822,
@@ -4619,6 +4643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225404,
+      "num": 225404,
+      "word": "唐尚珺今年高考志愿全部服从调剂",
+      "onboard_time": 1720012278,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 225041,
+      "num": 225041,
+      "word": "子女的心寒是父母站在对立面",
+      "onboard_time": 1720012819,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223366,
       "num": 223366,
       "word": "海棠",
@@ -5041,14 +5081,6 @@
       "onboard_time": 1719798497,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204481,
-      "num": 176960,
-      "word": "西宁通报2名15岁学生先后因病离世",
-      "onboard_time": 1720012397,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204355,
@@ -5907,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184014,
+      "num": 184014,
+      "word": "于正回应赵晴AI换脸",
+      "onboard_time": 1720012638,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183374,
       "num": 183374,
       "word": "这剧怎么哭得梨花带雨的是男主",
@@ -6219,14 +6259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171801,
-      "num": 171801,
-      "word": "唐尚珺今年高考志愿全部服从调剂",
-      "onboard_time": 1720012278,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 171610,
       "num": 160758,
       "word": "父亲因不满志愿填报殴打女儿",
@@ -6457,14 +6489,6 @@
       "onboard_time": 1719788714,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163636,
-      "num": 163636,
-      "word": "于正回应赵晴AI换脸",
-      "onboard_time": 1720012638,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 163588,
@@ -6763,6 +6787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156675,
+      "num": 156675,
+      "word": "B太 南京大爷带我勇闯南京",
+      "onboard_time": 1720013480,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 156651,
       "num": 156651,
       "word": "infp一生都会为体验买单",
@@ -6841,6 +6873,14 @@
       "onboard_time": 1719970156,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153890,
+      "num": 153890,
+      "word": "上海冰雹",
+      "onboard_time": 1720012339,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153674,
@@ -7169,6 +7209,14 @@
       "onboard_time": 1719846919,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "谢霆锋听到粉丝说王菲的反应",
+      "onboard_time": 1720012579,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 144953,
@@ -7811,6 +7859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133406,
+      "num": 133406,
+      "word": "登陆计划 三公",
+      "onboard_time": 1720013599,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "星卡里盲盒",
@@ -8083,14 +8139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127812,
-      "num": 127812,
-      "word": "子女的心寒是父母站在对立面",
-      "onboard_time": 1720012819,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127750,
       "num": 127750,
       "word": "绝区零合作格莱美制作人",
@@ -8275,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "黄晓明晒照回复虞书欣",
+      "onboard_time": 1720011078,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123521,
       "num": 123521,
       "word": "2驴友徒步高山草甸遇雷击1死1伤",
@@ -8419,14 +8475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120996,
-      "num": 120996,
-      "word": "黄晓明晒照回复虞书欣",
-      "onboard_time": 1720011078,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120785,
       "num": 120785,
       "word": "我给85岁退休的爷爷找了份无薪工作",
@@ -8481,6 +8529,14 @@
       "onboard_time": 1719883098,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119832,
+      "num": 119832,
+      "word": "不要让服务员用你手机写评价",
+      "onboard_time": 1720013358,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 119771,
@@ -8545,14 +8601,6 @@
       "onboard_time": 1719905477,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119188,
-      "num": 119188,
-      "word": "上海冰雹",
-      "onboard_time": 1720012339,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119108,
@@ -8843,14 +8891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112324,
-      "num": 112324,
-      "word": "谢霆锋听到粉丝说王菲的反应",
-      "onboard_time": 1720012579,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112306,
       "num": 130071,
       "word": "陈昊宇的手被宁静硬控住了",
@@ -9073,14 +9113,6 @@
       "onboard_time": 1719837738,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107379,
-      "num": 107379,
-      "word": "坚持裸睡1年身体会有什么变化",
-      "onboard_time": 1720012758,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 107264,
@@ -10652,7 +10684,7 @@
     },
     {
       "raw_hot": 40604,
-      "num": 706706,
+      "num": 733940,
       "word": "一个街名见证中哈友谊历久弥新",
       "onboard_time": 1720003398,
       "rank": 2,
@@ -11131,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25340,
+      "num": 497164,
+      "word": "姥姥生日礼物随便选这次我买单",
+      "onboard_time": 1720012097,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25081,
       "num": 25081,
       "word": "抽血为啥要用五颜六色的试管",
@@ -11153,14 +11193,6 @@
       "onboard_time": 1719825978,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 392442,
-      "word": "姥姥生日礼物随便选这次我买单",
-      "onboard_time": 1720012097,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 24310,

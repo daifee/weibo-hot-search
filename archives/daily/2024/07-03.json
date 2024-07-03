@@ -1,10 +1,10 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1720012923926,
+  "endTime": 1720013685439,
   "band_list": [
     {
       "raw_hot": 2221414,
-      "num": 392418,
+      "num": 496277,
       "word": "杜海涛 沈梦辰",
       "onboard_time": 1719996679,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 936664,
+      "num": 936664,
+      "word": "杜海涛曾为保护素人叫停节目",
+      "onboard_time": 1720012219,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 932711,
       "num": 932711,
       "word": "周杰伦演唱会抢票",
@@ -209,6 +217,14 @@
       "onboard_time": 1720008439,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785040,
+      "num": 732617,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 773837,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 575847,
-      "num": 392414,
+      "num": 404768,
       "word": "白敬亭染金发了",
       "onboard_time": 1720005018,
       "rank": 16,
@@ -499,6 +515,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 500985,
+      "num": 500985,
+      "word": "后来赵霁活成了宛瑜的样子",
+      "onboard_time": 1720008677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 495281,
+      "num": 495281,
+      "word": "含牛奶的茶饮竟然是C级",
+      "onboard_time": 1720010417,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 488449,
       "num": 488449,
       "word": "肚子4个表现多半是癌细胞露出了马脚",
@@ -507,28 +539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 486200,
-      "num": 486200,
-      "word": "后来赵霁活成了宛瑜的样子",
-      "onboard_time": 1720008677,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 483635,
       "num": 483635,
       "word": "河南一湖中惊现多条小鳄鱼",
       "onboard_time": 1719965957,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481501,
-      "num": 308647,
-      "word": "杜海涛曾为保护素人叫停节目",
-      "onboard_time": 1720012219,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 481372,
@@ -593,6 +609,14 @@
       "onboard_time": 1719995238,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 444114,
+      "num": 444114,
+      "word": "宁静 花少",
+      "onboard_time": 1720011798,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 443910,
@@ -683,20 +707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399736,
+      "num": 186302,
+      "word": "西宁通报2名15岁学生先后因病离世",
+      "onboard_time": 1720012397,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393713,
       "num": 393713,
       "word": "暑假档 提档",
       "onboard_time": 1719979338,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 392371,
-      "num": 392371,
-      "word": "含牛奶的茶饮竟然是C级",
-      "onboard_time": 1720010417,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 391926,
@@ -745,6 +769,14 @@
       "onboard_time": 1719983778,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360374,
+      "num": 360374,
+      "word": "28元10串烤牛油肉粒没指甲盖大",
+      "onboard_time": 1720011257,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 355650,
@@ -875,14 +907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 301051,
-      "num": 301051,
-      "word": "宁静 花少",
-      "onboard_time": 1720011798,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300545,
       "num": 237501,
       "word": "惊天魔盗团3北美定档",
@@ -905,14 +929,6 @@
       "onboard_time": 1720003277,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 292079,
-      "num": 292079,
-      "word": "28元10串烤牛油肉粒没指甲盖大",
-      "onboard_time": 1720011257,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 289581,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263693,
+      "num": 225093,
+      "word": "坚持裸睡1年身体会有什么变化",
+      "onboard_time": 1720012758,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 251573,
       "num": 251573,
       "word": "甘肃163名矿工被拖欠3000万工资",
@@ -1089,6 +1113,22 @@
       "onboard_time": 1719999978,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 225404,
+      "num": 225404,
+      "word": "唐尚珺今年高考志愿全部服从调剂",
+      "onboard_time": 1720012278,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 225041,
+      "num": 225041,
+      "word": "子女的心寒是父母站在对立面",
+      "onboard_time": 1720012819,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 220861,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1719973638,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204481,
-      "num": 176960,
-      "word": "西宁通报2名15岁学生先后因病离世",
-      "onboard_time": 1720012397,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204347,
@@ -1491,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184014,
+      "num": 184014,
+      "word": "于正回应赵晴AI换脸",
+      "onboard_time": 1720012638,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182959,
       "num": 182959,
       "word": "江西九江号召在外乡亲回乡抗洪",
@@ -1603,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171801,
-      "num": 171801,
-      "word": "唐尚珺今年高考志愿全部服从调剂",
-      "onboard_time": 1720012278,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 170579,
       "num": 170579,
       "word": "女子称交24万学带货点赞只有个位数",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1719931158,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163636,
-      "num": 163636,
-      "word": "于正回应赵晴AI换脸",
-      "onboard_time": 1720012638,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 163588,
@@ -1763,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156675,
+      "num": 156675,
+      "word": "B太 南京大爷带我勇闯南京",
+      "onboard_time": 1720013480,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 155758,
       "num": 155758,
       "word": "韩雪喊话营销号",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1719970156,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153890,
+      "num": 153890,
+      "word": "上海冰雹",
+      "onboard_time": 1720012339,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151387,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1720000459,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "谢霆锋听到粉丝说王菲的反应",
+      "onboard_time": 1720012579,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 144876,
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133406,
+      "num": 133406,
+      "word": "登陆计划 三公",
+      "onboard_time": 1720013599,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133198,
       "num": 130802,
       "word": "网红乔老师疑剽窃未成年视频卖课",
@@ -2059,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127812,
-      "num": 127812,
-      "word": "子女的心寒是父母站在对立面",
-      "onboard_time": 1720012819,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127434,
       "num": 127434,
       "word": "帕梅拉四件套越跳越瘦",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1720002078,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "黄晓明晒照回复虞书欣",
+      "onboard_time": 1720011078,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 123250,
@@ -2115,14 +2171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120996,
-      "num": 120996,
-      "word": "黄晓明晒照回复虞书欣",
-      "onboard_time": 1720011078,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120608,
       "num": 120608,
       "word": "电影狗阵生怕我认出来这些明星",
@@ -2147,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119832,
+      "num": 119832,
+      "word": "不要让服务员用你手机写评价",
+      "onboard_time": 1720013358,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119647,
       "num": 119647,
       "word": "湖人多年合同签约布朗尼",
@@ -2161,14 +2217,6 @@
       "onboard_time": 1719988158,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 119188,
-      "num": 119188,
-      "word": "上海冰雹",
-      "onboard_time": 1720012339,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116268,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1720005738,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 112324,
-      "num": 112324,
-      "word": "谢霆锋听到粉丝说王菲的反应",
-      "onboard_time": 1720012579,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 111438,
@@ -2313,14 +2353,6 @@
       "onboard_time": 1719964756,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 107379,
-      "num": 107379,
-      "word": "坚持裸睡1年身体会有什么变化",
-      "onboard_time": 1720012758,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 106456,
@@ -2788,7 +2820,7 @@
     },
     {
       "raw_hot": 40604,
-      "num": 706706,
+      "num": 733940,
       "word": "一个街名见证中哈友谊历久弥新",
       "onboard_time": 1720003398,
       "rank": 2,
@@ -2915,20 +2947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25340,
+      "num": 497164,
+      "word": "姥姥生日礼物随便选这次我买单",
+      "onboard_time": 1720012097,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25081,
       "num": 25081,
       "word": "抽血为啥要用五颜六色的试管",
       "onboard_time": 1719952270,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 392442,
-      "word": "姥姥生日礼物随便选这次我买单",
-      "onboard_time": 1720012097,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 23964,
