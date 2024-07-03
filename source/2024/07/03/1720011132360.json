@@ -1,0 +1,410 @@
+{
+  "runTime": 1720011132360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931075,
+        "num": 931075,
+        "word": "女子吃1斤见手青后看见一屋人",
+        "onboard_time": 1720001718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740569,
+        "num": 740569,
+        "word": "日本男子新加坡性侵女学生被判鞭刑",
+        "onboard_time": 1720005138,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32084,
+        "num": 706706,
+        "word": "一个街名见证中哈友谊历久弥新",
+        "onboard_time": 1720003398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689180,
+        "num": 689180,
+        "word": "西交大回应校领导与学生不正当关系",
+        "onboard_time": 1720008439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628234,
+        "num": 628234,
+        "word": "中餐厅8合伙人阵容官宣",
+        "onboard_time": 1720003220,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589277,
+        "num": 589277,
+        "word": "这竟然是刘昊然",
+        "onboard_time": 1720003638,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 531889,
+        "num": 531889,
+        "word": "上海暴雨",
+        "onboard_time": 1720007118,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491075,
+        "num": 491075,
+        "word": "中金称网传员工跳楼系谣言",
+        "onboard_time": 1720010838,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326210,
+        "num": 326210,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1720003938,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26084,
+        "num": 317174,
+        "word": "伊拉克小伙逛义乌夜市全程被热情投喂",
+        "onboard_time": 1720010237,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223040,
+        "num": 310352,
+        "word": "杜海涛 沈梦辰",
+        "onboard_time": 1719996679,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495473,
+        "num": 304174,
+        "word": "白敬亭染金发了",
+        "onboard_time": 1720005018,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385734,
+        "num": 291701,
+        "word": "后来赵霁活成了婉瑜的样子",
+        "onboard_time": 1720008677,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285080,
+        "num": 285080,
+        "word": "凯美瑞只卖12万了",
+        "onboard_time": 1719997280,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26885,
+        "num": 244201,
+        "word": "又好学又好考的双一流",
+        "onboard_time": 1720009517,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236861,
+        "num": 236861,
+        "word": "陶喆演唱会抢票",
+        "onboard_time": 1720008857,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207332,
+        "num": 207332,
+        "word": "唐山今年全市已处分2116人",
+        "onboard_time": 1720002437,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196719,
+        "num": 196719,
+        "word": "裴文宣李蓉 一见面就吵不见面就想",
+        "onboard_time": 1720010357,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "胡锡进总亏损达8.5万元",
+        "onboard_time": 1720003277,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 168172,
+        "word": "河南南阳一胡辣汤店疑突发爆炸",
+        "onboard_time": 1720003518,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1075575,
+        "num": 167062,
+        "word": "突然得知婆婆一个月公积金八千多",
+        "onboard_time": 1720006818,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502800,
+        "num": 165623,
+        "word": "气血不足的人夏天是真难受",
+        "onboard_time": 1720005378,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 436924,
+        "num": 164950,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391985,
+        "num": 163513,
+        "word": "印度男女偷情被当众处私刑",
+        "onboard_time": 1719995539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203696,
+        "num": 161719,
+        "word": "含牛奶的茶饮竟然是C级",
+        "onboard_time": 1720010417,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196577,
+        "num": 160243,
+        "word": "每天1杯豆浆身体会发生什么变化",
+        "onboard_time": 1719995778,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 196403,
+        "num": 160112,
+        "word": "汪苏泷为演唱会01号怪物征名",
+        "onboard_time": 1720010778,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288817,
+        "num": 157644,
+        "word": "李雪琴同届考生发文",
+        "onboard_time": 1719989839,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157472,
+        "num": 157472,
+        "word": "朱丹回应想演肖战妈妈",
+        "onboard_time": 1720003758,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 156132,
+        "word": "林俊杰郑州",
+        "onboard_time": 1720009338,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154837,
+        "num": 154837,
+        "word": "猫咪冲向归家主人5分钟后倒地离世",
+        "onboard_time": 1720007597,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154358,
+        "num": 154358,
+        "word": "西藏文旅回复薛之谦",
+        "onboard_time": 1719998838,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153674,
+        "num": 153674,
+        "word": "CP30 杭州",
+        "onboard_time": 1719998419,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152417,
+        "num": 152417,
+        "word": "陈乔恩拿了长公主的扇子",
+        "onboard_time": 1720009639,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145262,
+        "num": 145262,
+        "word": "齐齐哈尔的烤肉是真的宣",
+        "onboard_time": 1720008797,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134452,
+        "num": 134452,
+        "word": "超喜欢干干净净的朋友圈",
+        "onboard_time": 1719990739,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128036,
+        "num": 128036,
+        "word": "金靖是你们play的一环吗",
+        "onboard_time": 1720001357,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "张凌赫 190",
+        "onboard_time": 1719987620,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127118,
+        "num": 121715,
+        "word": "沈梦辰 正常撒娇而已",
+        "onboard_time": 1719997880,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 119649,
+        "word": "上海闪电",
+        "onboard_time": 1720008018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118911,
+        "num": 118911,
+        "word": "虞书欣好会拍人",
+        "onboard_time": 1720007118,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113188,
+        "num": 113188,
+        "word": "刘亦菲小魔女妆造",
+        "onboard_time": 1719998718,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106022,
+        "num": 106022,
+        "word": "长珩仙君的时候没上桌吗",
+        "onboard_time": 1720004958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104032,
+        "num": 104032,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103728,
+        "num": 103728,
+        "word": "路虎途经卡点时冲撞执勤警车后逃逸",
+        "onboard_time": 1720008377,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101933,
+        "num": 101933,
+        "word": "岳阳失联干部被找到已无生命体征",
+        "onboard_time": 1720002137,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97121,
+        "num": 97121,
+        "word": "黄晓明晒照回复虞书欣",
+        "onboard_time": 1720011078,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93582,
+        "num": 93582,
+        "word": "薛之谦官宣3地18场",
+        "onboard_time": 1719988878,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21113,
+        "num": 93364,
+        "word": "致敬出海路上坚持奋斗的中国品牌",
+        "onboard_time": 1720006398,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52405,
+        "num": 93158,
+        "word": "外国女子突发疾病还好遇上中国医生",
+        "onboard_time": 1720006219,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些外国孩子为习主席唱起中文歌#"
+    }
+  }
+}
