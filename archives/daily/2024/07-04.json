@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720038011959,
+  "endTime": 1720038888522,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -355,7 +355,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 76551,
+      "raw_hot": 76928,
       "num": 25154,
       "word": "失眠是因为身体缺少维生素",
       "onboard_time": 1720032911,
@@ -459,20 +459,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 13795,
-      "num": 14630,
-      "word": "在毕业典礼上被求婚了",
-      "onboard_time": 1720036391,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 13367,
-      "num": 14625,
+      "raw_hot": 14352,
+      "num": 14713,
       "word": "张志杰之殇折射羽毛球赛程过密",
       "onboard_time": 1720037591,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13819,
+      "num": 14712,
+      "word": "在毕业典礼上被求婚了",
+      "onboard_time": 1720036391,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 7029,
