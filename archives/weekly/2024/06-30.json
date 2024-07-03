@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720048909154,
+  "endTime": 1720049677389,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -643,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 969275,
+      "num": 131912,
+      "word": "长期午睡的人会更长寿吗",
+      "onboard_time": 1720045032,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 963431,
       "num": 963431,
       "word": "于正的聊天记录",
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781381,
+      "num": 781381,
+      "word": "年轻人凌晨三点在迪士尼排长队",
+      "onboard_time": 1720029852,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 776810,
       "num": 758079,
       "word": "郑爽未履行金额超1.2亿",
@@ -1195,14 +1211,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 694770,
-      "num": 91670,
-      "word": "长期午睡的人会更长寿吗",
-      "onboard_time": 1720045032,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 693621,
       "num": 693621,
       "word": "长相思2官宣上星",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 672678,
-      "num": 672678,
-      "word": "年轻人凌晨三点在迪士尼排长队",
-      "onboard_time": 1720029852,
-      "rank": 16,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 669112,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606832,
+      "num": 131388,
+      "word": "夏天不建议女生买的衣服",
+      "onboard_time": 1720047975,
+      "rank": 21,
+      "category": "时尚"
     },
     {
       "raw_hot": 605416,
@@ -2723,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422936,
-      "num": 91606,
-      "word": "夏天不建议女生买的衣服",
-      "onboard_time": 1720047975,
-      "rank": 21,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 422860,
       "num": 422860,
       "word": "袁姗姗上恋综了",
@@ -2876,7 +2876,7 @@
     },
     {
       "raw_hot": 402307,
-      "num": 315533,
+      "num": 327717,
       "word": "北大博导否认地铁收徒看书小孩哥",
       "onboard_time": 1720023616,
       "rank": 42,
@@ -3233,6 +3233,14 @@
       "onboard_time": 1720011257,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 360060,
+      "num": 157053,
+      "word": "女儿获第一笔工资给爸妈分红6666元",
+      "onboard_time": 1720047794,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358063,
@@ -3793,6 +3801,14 @@
       "onboard_time": 1719892039,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 304375,
+      "num": 130543,
+      "word": "减肥跟风吃了一个月牛肉掉了21斤",
+      "onboard_time": 1720048274,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 303401,
@@ -4747,6 +4763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227978,
+      "num": 227978,
+      "word": "萌兰9岁生日快乐",
+      "onboard_time": 1720049116,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227247,
       "num": 285125,
       "word": "菲警方回应中国公民遭绑架遇害事件",
@@ -4857,6 +4881,14 @@
       "onboard_time": 1719791778,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219698,
+      "num": 219698,
+      "word": "谢霆锋听到粉丝说王菲的反应",
+      "onboard_time": 1720012579,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 219480,
@@ -5059,14 +5091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209408,
-      "num": 91000,
-      "word": "减肥跟风吃了一个月牛肉掉了21斤",
-      "onboard_time": 1720048274,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 209215,
       "num": 209215,
       "word": "薛之谦气到老奶奶都不用扶了",
@@ -5169,14 +5193,6 @@
       "onboard_time": 1719969976,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206003,
-      "num": 206003,
-      "word": "谢霆锋听到粉丝说王菲的反应",
-      "onboard_time": 1720012579,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 205651,
@@ -5473,6 +5489,14 @@
       "onboard_time": 1719894740,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199265,
+      "num": 199265,
+      "word": "郑州文旅回应涉林俊杰演唱会争议内容",
+      "onboard_time": 1720017920,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 199167,
@@ -6291,14 +6315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178067,
-      "num": 178067,
-      "word": "郑州文旅回应涉林俊杰演唱会争议内容",
-      "onboard_time": 1720017920,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "网曝一公司用关小黑屋方式劝退员工",
@@ -6433,6 +6449,14 @@
       "onboard_time": 1719988279,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173530,
+      "num": 156136,
+      "word": "李一桐横店近视眼",
+      "onboard_time": 1720048575,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172451,
@@ -6923,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157822,
+      "num": 157822,
+      "word": "萌兰花花和叶今天生日",
+      "onboard_time": 1720047915,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -7017,6 +7049,14 @@
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156020,
+      "num": 156020,
+      "word": "首个早上提档晚上撤档的电影",
+      "onboard_time": 1720049298,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 155758,
@@ -7315,6 +7355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147656,
+      "num": 128430,
+      "word": "Miss回应团队背刺郭碧婷",
+      "onboard_time": 1720049597,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147528,
       "num": 147528,
       "word": "第一次见这么认真生气的小猫",
@@ -7417,6 +7465,14 @@
       "onboard_time": 1719846919,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145330,
+      "num": 145330,
+      "word": "湖南常德一家四口被杀害家属发声",
+      "onboard_time": 1720048396,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 144953,
@@ -7609,14 +7665,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141644,
-      "num": 124434,
-      "word": "女儿获第一笔工资给爸妈分红6666元",
-      "onboard_time": 1720047794,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141510,
@@ -8345,6 +8393,14 @@
       "onboard_time": 1719835638,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128289,
+      "num": 128289,
+      "word": "下半年水瓶座苦尽甘来",
+      "onboard_time": 1720048153,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 127963,
@@ -9363,6 +9419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107987,
+      "num": 107987,
+      "word": "王俊凯电影运",
+      "onboard_time": 1720049537,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107838,
       "num": 107838,
       "word": "逆水寒手游",
@@ -9603,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "小鬼抓人和王源抓人对比",
+      "onboard_time": 1720049476,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103060,
       "num": 103060,
       "word": "贺军翔黄子佼被传唤",
@@ -9753,6 +9825,14 @@
       "onboard_time": 1719727637,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97398,
+      "num": 97398,
+      "word": "苏新皓 三公",
+      "onboard_time": 1720048756,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 97371,
@@ -9931,14 +10011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91843,
-      "num": 91843,
-      "word": "下半年水瓶座苦尽甘来",
-      "onboard_time": 1720048153,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "金融消费者",
@@ -10017,6 +10089,14 @@
       "onboard_time": 1719746537,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89879,
+      "num": 89879,
+      "word": "HR很晚回消息真不一定是加班",
+      "onboard_time": 1720047613,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 89396,
@@ -10195,14 +10275,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 81376,
-      "num": 138552,
-      "word": "萌兰花花和叶今天生日",
-      "onboard_time": 1720047915,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81306,
       "num": 81306,
       "word": "你的身体其实瞒着你很多事情",
@@ -10289,14 +10361,6 @@
       "onboard_time": 1719672500,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78736,
-      "num": 78736,
-      "word": "湖南常德一家四口被杀害家属发声",
-      "onboard_time": 1720048396,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 78705,
@@ -10467,14 +10531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67518,
-      "num": 67518,
-      "word": "李一桐横店近视眼",
-      "onboard_time": 1720048575,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67271,
       "num": 1074417,
       "word": "龙腾湾区桥见未来",
@@ -10547,6 +10603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64761,
+      "num": 64761,
+      "word": "肾虚不虚看这5个地方就知道",
+      "onboard_time": 1720026674,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 64729,
       "num": 64729,
       "word": "罗马尼亚0比3荷兰",
@@ -10595,6 +10659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63291,
+      "num": 63291,
+      "word": "王一博维权获赔20万",
+      "onboard_time": 1720049235,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63258,
       "num": 214039,
       "word": "原来天鹅船是这么来的",
@@ -10625,6 +10697,14 @@
       "onboard_time": 1719876316,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61160,
+      "num": 61160,
+      "word": "华润银行回应校招违约",
+      "onboard_time": 1720049416,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61137,
@@ -10787,12 +10867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54903,
-      "num": 54903,
-      "word": "肾虚不虚看这5个地方就知道",
-      "onboard_time": 1720026674,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 54662,
+      "num": 54662,
+      "word": "景德镇到底有谁在啊",
+      "onboard_time": 1720049657,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 53324,
@@ -10825,14 +10905,6 @@
       "onboard_time": 1719741557,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49556,
-      "num": 49556,
-      "word": "HR很晚回消息真不一定是加班",
-      "onboard_time": 1720047613,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 48993,
@@ -10897,14 +10969,6 @@
       "onboard_time": 1719818418,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 46528,
-      "num": 46528,
-      "word": "苏新皓 三公",
-      "onboard_time": 1720048756,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 46001,
@@ -11404,7 +11468,7 @@
     },
     {
       "raw_hot": 29654,
-      "num": 349299,
+      "num": 379987,
       "word": "哈萨克斯坦小女孩和康辉聊天好丝滑",
       "onboard_time": 1719937097,
       "rank": 35,
