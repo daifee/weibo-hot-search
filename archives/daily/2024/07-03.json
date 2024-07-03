@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719969690282,
+  "endTime": 1719970953088,
   "band_list": [
     {
       "raw_hot": 1899690,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1164275,
-      "num": 358833,
+      "num": 392615,
       "word": "甜馨维护贾乃亮",
       "onboard_time": 1719962596,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1066566,
-      "num": 1066566,
+      "raw_hot": 1089035,
+      "num": 1089035,
       "word": "女童被救亲了一下救人男子脸颊",
       "onboard_time": 1719965597,
       "rank": 1,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 922142,
-      "num": 218733,
+      "num": 241491,
       "word": "菲律宾绑架中国人已成黑色产业链",
       "onboard_time": 1719928700,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718435,
+      "num": 383437,
+      "word": "金钟大老了好多",
+      "onboard_time": 1719969438,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 659774,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 608830,
-      "num": 357837,
+      "num": 553505,
       "word": "刘亦菲和罗晋是同学",
       "onboard_time": 1719968178,
       "rank": 11,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462518,
+      "num": 399425,
+      "word": "刘亦菲粉裙吊威亚",
+      "onboard_time": 1719968897,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461345,
       "num": 461345,
       "word": "上海地铁16号线",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 440505,
-      "num": 221372,
+      "num": 260441,
       "word": "福建一初中生被霸凌致下体烧伤",
       "onboard_time": 1719963556,
       "rank": 20,
@@ -171,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340490,
-      "num": 255161,
-      "word": "刘亦菲粉裙吊威亚",
-      "onboard_time": 1719968897,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331727,
       "num": 117129,
       "word": "原来衣服发臭是闷出来的",
@@ -188,15 +196,31 @@
     },
     {
       "raw_hot": 319302,
-      "num": 226365,
+      "num": 265078,
       "word": "这和亲了一口张凌赫有啥区别",
       "onboard_time": 1719962356,
       "rank": 27,
       "category": "剧集"
     },
     {
+      "raw_hot": 311676,
+      "num": 311676,
+      "word": "iPhone16或全系标配8GB内存",
+      "onboard_time": 1719963918,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 310834,
+      "num": 310834,
+      "word": "10岁男孩自学电气工程挣了1万多",
+      "onboard_time": 1719969738,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310644,
-      "num": 216204,
+      "num": 253171,
       "word": "为什么医生打针前都要滋掉一点药水",
       "onboard_time": 1719962235,
       "rank": 42,
@@ -219,12 +243,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 255470,
-      "num": 255470,
-      "word": "iPhone16或全系标配8GB内存",
-      "onboard_time": 1719963918,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 267272,
+      "num": 257226,
+      "word": "仅半句就封神的千古名句",
+      "onboard_time": 1719966379,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 251573,
@@ -259,20 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213778,
-      "num": 213778,
-      "word": "仅半句就封神的千古名句",
-      "onboard_time": 1719966379,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 207525,
       "num": 207525,
       "word": "马立奥 见鬼了马杨",
       "onboard_time": 1719939435,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206011,
+      "num": 272072,
+      "word": "上海地铁回应16号线限速运行",
+      "onboard_time": 1719969976,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202286,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169325,
+      "num": 169325,
+      "word": "眼科医生眼里最毁眼睛的十个动作",
+      "onboard_time": 1719962476,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166799,
       "num": 166799,
       "word": "长相思2看片会",
@@ -344,14 +376,6 @@
       "word": "赵小童去看梭梭树了",
       "onboard_time": 1719931158,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161436,
-      "num": 161436,
-      "word": "金钟大老了好多",
-      "onboard_time": 1719969438,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -379,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156526,
-      "num": 156526,
-      "word": "眼科医生眼里最毁眼睛的十个动作",
-      "onboard_time": 1719962476,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155758,
       "num": 155758,
       "word": "韩雪喊话营销号",
@@ -409,6 +425,14 @@
       "onboard_time": 1719934819,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154930,
+      "num": 154930,
+      "word": "沈月恋综又哭了",
+      "onboard_time": 1719970156,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 151387,
@@ -491,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114390,
+      "num": 396470,
+      "word": "中国排面雨中依旧眼神坚定身姿挺拔",
+      "onboard_time": 1719969976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "种地吧",
@@ -539,6 +571,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 106126,
+      "num": 106126,
+      "word": "五月天太原演唱会售罄",
+      "onboard_time": 1719970578,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104478,
       "num": 104478,
       "word": "罗马尼亚vs荷兰",
@@ -585,6 +625,14 @@
       "onboard_time": 1719961995,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92312,
+      "num": 360605,
+      "word": "乒乓球在哈萨克斯坦有多受欢迎",
+      "onboard_time": 1719965118,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91242,
@@ -720,14 +768,6 @@
       "word": "美国男子枪击邻居一家七口后自杀",
       "onboard_time": 1719948611,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60791,
-      "num": 360605,
-      "word": "乒乓球在哈萨克斯坦有多受欢迎",
-      "onboard_time": 1719965118,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

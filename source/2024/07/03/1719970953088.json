@@ -1,0 +1,410 @@
+{
+  "runTime": 1719970953088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563098,
+        "num": 1563098,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089035,
+        "num": 1089035,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12093,
+        "num": 584382,
+        "word": "上合组织峰会是个什么会",
+        "onboard_time": 1719888318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553505,
+        "num": 553505,
+        "word": "刘亦菲和罗晋是同学",
+        "onboard_time": 1719968178,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 462437,
+        "num": 462437,
+        "word": "河南一湖中惊现多条小鳄鱼",
+        "onboard_time": 1719965957,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455041,
+        "num": 455041,
+        "word": "好学小孩哥在地铁上被北大博导收徒",
+        "onboard_time": 1719962235,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414519,
+        "num": 414519,
+        "word": "官方通报4人被终身禁入熊猫基地",
+        "onboard_time": 1719963316,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403631,
+        "num": 403631,
+        "word": "自行车撞上迈巴赫",
+        "onboard_time": 1719931760,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462518,
+        "num": 399425,
+        "word": "刘亦菲粉裙吊威亚",
+        "onboard_time": 1719968897,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114390,
+        "num": 396470,
+        "word": "中国排面雨中依旧眼神坚定身姿挺拔",
+        "onboard_time": 1719969976,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008087,
+        "num": 392615,
+        "word": "甜馨维护贾乃亮",
+        "onboard_time": 1719962596,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718435,
+        "num": 383437,
+        "word": "金钟大老了好多",
+        "onboard_time": 1719969438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383133,
+        "num": 383133,
+        "word": "上海地铁16号线",
+        "onboard_time": 1719966437,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342338,
+        "num": 342338,
+        "word": "短短5秒却救了2个家庭",
+        "onboard_time": 1719941054,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327295,
+        "num": 327295,
+        "word": "张凌赫男模身材",
+        "onboard_time": 1719965238,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311676,
+        "num": 311676,
+        "word": "iPhone16或全系标配8GB内存",
+        "onboard_time": 1719963918,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310834,
+        "num": 310834,
+        "word": "10岁男孩自学电气工程挣了1万多",
+        "onboard_time": 1719969738,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293411,
+        "num": 293411,
+        "word": "肚子4个表现多半是癌细胞露出了马脚",
+        "onboard_time": 1719926058,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206011,
+        "num": 272072,
+        "word": "上海地铁回应16号线限速运行",
+        "onboard_time": 1719969976,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265078,
+        "num": 265078,
+        "word": "这和亲了一口张凌赫有啥区别",
+        "onboard_time": 1719962356,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349785,
+        "num": 260441,
+        "word": "福建一初中生被霸凌致下体烧伤",
+        "onboard_time": 1719963556,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267272,
+        "num": 257226,
+        "word": "仅半句就封神的千古名句",
+        "onboard_time": 1719966379,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 253171,
+        "num": 253171,
+        "word": "为什么医生打针前都要滋掉一点药水",
+        "onboard_time": 1719962235,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241491,
+        "num": 241491,
+        "word": "菲律宾绑架中国人已成黑色产业链",
+        "onboard_time": 1719928700,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186957,
+        "num": 186957,
+        "word": "新婚第二天离婚第三天异地",
+        "onboard_time": 1719930799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169325,
+        "num": 169325,
+        "word": "眼科医生眼里最毁眼睛的十个动作",
+        "onboard_time": 1719962476,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159161,
+        "num": 159161,
+        "word": "李凯尔加盟勇士",
+        "onboard_time": 1719963136,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157813,
+        "num": 157813,
+        "word": "苏醒说半夜打电话的都是借钱",
+        "onboard_time": 1719966379,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154930,
+        "num": 154930,
+        "word": "沈月恋综又哭了",
+        "onboard_time": 1719970156,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150619,
+        "num": 150619,
+        "word": "形容一个人干净是很高级的表扬",
+        "onboard_time": 1719962596,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147552,
+        "num": 147552,
+        "word": "减脂期这六种食物一定要避雷",
+        "onboard_time": 1719939374,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144293,
+        "num": 144293,
+        "word": "男孩举报百万粉丝博主剽窃视频卖课",
+        "onboard_time": 1719928880,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144092,
+        "num": 144092,
+        "word": "娜扎穿藏服",
+        "onboard_time": 1719968118,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143917,
+        "num": 143917,
+        "word": "马立奥 见鬼了马杨",
+        "onboard_time": 1719939435,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139875,
+        "num": 139875,
+        "word": "全班都能上985老师们嘴角压不住了",
+        "onboard_time": 1719934819,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166463,
+        "num": 138554,
+        "word": "刘亦菲唐嫣合照再加一",
+        "onboard_time": 1719962416,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 134705,
+        "word": "第一次看花少避雷餐厅",
+        "onboard_time": 1719927679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134480,
+        "num": 134480,
+        "word": "长相思2看片会",
+        "onboard_time": 1719962896,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132133,
+        "num": 132133,
+        "word": "欧洲杯淘汰赛历史最快进球",
+        "onboard_time": 1719969257,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128354,
+        "num": 128354,
+        "word": "江苏一男子携带人皮面具盗窃近20次",
+        "onboard_time": 1719928758,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121930,
+        "num": 121930,
+        "word": "华为回应问界商标转让给赛力斯",
+        "onboard_time": 1719968538,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114384,
+        "num": 114384,
+        "word": "闵塔鲨白鹿再合作",
+        "onboard_time": 1719963436,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112200,
+        "num": 112200,
+        "word": "野孩子",
+        "onboard_time": 1719935537,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110118,
+        "num": 110118,
+        "word": "库里告别克莱",
+        "onboard_time": 1719963616,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106126,
+        "num": 106126,
+        "word": "五月天太原演唱会售罄",
+        "onboard_time": 1719970578,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104458,
+        "num": 104458,
+        "word": "韩雪喊话营销号",
+        "onboard_time": 1719963918,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98478,
+        "num": 98478,
+        "word": "湖人多年合同签约布朗尼",
+        "onboard_time": 1719965298,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97279,
+        "num": 97279,
+        "word": "甘肃163名矿工被拖欠3000万工资",
+        "onboard_time": 1719939735,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95897,
+        "num": 95897,
+        "word": "欧洲杯八强出炉",
+        "onboard_time": 1719962296,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92312,
+        "num": 92312,
+        "word": "乒乓球在哈萨克斯坦有多受欢迎",
+        "onboard_time": 1719965118,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚之行这些看点值得关注#"
+    }
+  }
+}
