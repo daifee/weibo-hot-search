@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720031078976,
+  "endTime": 1720031818722,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -185,6 +185,14 @@
       "onboard_time": 1720003638,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148985,
+      "num": 57955,
+      "word": "年轻人凌晨三点在迪士尼排长队",
+      "onboard_time": 1720029852,
+      "rank": 16,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 139089,
@@ -393,14 +401,6 @@
       "onboard_time": 1720003938,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57955,
-      "num": 57955,
-      "word": "年轻人凌晨三点在迪士尼排长队",
-      "onboard_time": 1720029852,
-      "rank": 16,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 44798,
