@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720016398157,
+  "endTime": 1720017301125,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8083529,
+      "num": 8083529,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 8062954,
       "num": 8062954,
       "word": "现在的贾玲",
@@ -737,14 +745,6 @@
       "onboard_time": 1705138843,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7759038,
-      "num": 7759038,
-      "word": "野孩子 撤档",
-      "onboard_time": 1720013238,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 7756641,

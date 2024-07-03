@@ -1,7 +1,15 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720016398157,
+  "endTime": 1720017301125,
   "band_list": [
+    {
+      "raw_hot": 8083529,
+      "num": 8083529,
+      "word": "野孩子 撤档",
+      "onboard_time": 1720013238,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 7901681,
       "num": 7901681,
@@ -9,14 +17,6 @@
       "onboard_time": 1719792137,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7759038,
-      "num": 7759038,
-      "word": "野孩子 撤档",
-      "onboard_time": 1720013238,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 2710385,
@@ -323,6 +323,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1302794,
+      "num": 464197,
+      "word": "野孩子声明",
+      "onboard_time": 1720016241,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1299328,
       "num": 426004,
       "word": "张志杰妈妈听到噩耗后病倒住院",
@@ -369,6 +377,14 @@
       "onboard_time": 1719809121,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224152,
+      "num": 225093,
+      "word": "坚持裸睡1年身体会有什么变化",
+      "onboard_time": 1720012758,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1221874,
@@ -497,14 +513,6 @@
       "onboard_time": 1720006818,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1105030,
-      "num": 225093,
-      "word": "坚持裸睡1年身体会有什么变化",
-      "onboard_time": 1720012758,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1100708,
@@ -979,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 794898,
+      "num": 794898,
+      "word": "西宁通报2名15岁学生先后因病离世",
+      "onboard_time": 1720012397,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794742,
       "num": 794742,
       "word": "中金回应员工疑因降薪跳楼",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1719971837,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 773604,
-      "num": 773604,
-      "word": "西宁通报2名15岁学生先后因病离世",
-      "onboard_time": 1720012397,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756494,
@@ -1923,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525656,
-      "num": 445940,
-      "word": "野孩子声明",
-      "onboard_time": 1720016241,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 525355,
       "num": 251834,
       "word": "超喜欢干干净净的朋友圈",
@@ -2657,6 +2657,14 @@
       "onboard_time": 1719977357,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430955,
+      "num": 430955,
+      "word": "小鬼工作室维权声明",
+      "onboard_time": 1720014980,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 429351,
@@ -3473,14 +3481,6 @@
       "onboard_time": 1719896180,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 330100,
-      "num": 204782,
-      "word": "小鬼工作室维权声明",
-      "onboard_time": 1720014980,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 329092,
@@ -4331,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249583,
+      "num": 204165,
+      "word": "网友偶遇张亮儿子张天天",
+      "onboard_time": 1720015879,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249469,
       "num": 242926,
       "word": "英格兰逆转晋级8强",
@@ -4475,6 +4483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238526,
+      "num": 203832,
+      "word": "不要让服务员用你手机写评价",
+      "onboard_time": 1720013358,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238033,
       "num": 238033,
       "word": "东京食尸鬼 十年后的新动画",
@@ -4569,14 +4585,6 @@
       "onboard_time": 1719892399,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232889,
-      "num": 204165,
-      "word": "网友偶遇张亮儿子张天天",
-      "onboard_time": 1720015879,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 232794,
@@ -5169,14 +5177,6 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203832,
-      "num": 203832,
-      "word": "不要让服务员用你手机写评价",
-      "onboard_time": 1720013358,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 203423,
@@ -5793,6 +5793,14 @@
       "onboard_time": 1719660377,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 188835,
+      "num": 188835,
+      "word": "银河证券回应员工跳楼传闻",
+      "onboard_time": 1720016901,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188669,
@@ -6739,6 +6747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159135,
+      "num": 159135,
+      "word": "Uzi谈自己名人堂皮肤",
+      "onboard_time": 1720016421,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159017,
       "num": 159017,
       "word": "林小宅全新演员公示照",
@@ -6777,6 +6793,14 @@
       "onboard_time": 1719749178,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157603,
+      "num": 157603,
+      "word": "同事们都有种淡淡的疯感",
+      "onboard_time": 1720014980,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 157562,
@@ -6883,6 +6907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155245,
+      "num": 155245,
+      "word": "沈月看SEVENTEEN团综哭了",
+      "onboard_time": 1720014680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "猫咪回头是一种礼貌也是一种警告",
@@ -6977,14 +7009,6 @@
       "onboard_time": 1719842239,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152429,
-      "num": 152429,
-      "word": "同事们都有种淡淡的疯感",
-      "onboard_time": 1720014980,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 152101,
@@ -7425,14 +7449,6 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142720,
-      "num": 142720,
-      "word": "沈月看SEVENTEEN团综哭了",
-      "onboard_time": 1720014680,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 142467,
@@ -8801,6 +8817,14 @@
       "onboard_time": 1720001118,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115789,
+      "num": 115789,
+      "word": "网曝一公司用关小黑屋方式劝退员工",
+      "onboard_time": 1720016961,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115775,
@@ -10244,7 +10268,7 @@
     },
     {
       "raw_hot": 66068,
-      "num": 204663,
+      "num": 414187,
       "word": "孕妇突然分娩众人暖心搭建临时产房",
       "onboard_time": 1720016300,
       "rank": 24,
@@ -10539,6 +10563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53253,
+      "num": 631361,
+      "word": "雪龙2号和极地号硬核同框",
+      "onboard_time": 1720014980,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52935,
       "num": 436878,
       "word": "四川乐山现飞瀑双彩虹同框",
@@ -10713,14 +10745,6 @@
       "onboard_time": 1720003277,
       "rank": 35,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 42403,
-      "num": 631361,
-      "word": "雪龙2号和极地号硬核同框",
-      "onboard_time": 1720014980,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42387,
@@ -11555,6 +11579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9529,
+      "num": 185506,
+      "word": "韩国拟激活公休日连休制度",
+      "onboard_time": 1720017141,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9428,
       "num": 47527,
       "word": "大熊猫踢饭盆要踢进世界杯了",
@@ -11645,6 +11677,9 @@
     },
     {
       "word": "#习近平同哈萨克斯坦总统共见记者#"
+    },
+    {
+      "word": "#习近平同托卡耶夫共见记者#"
     }
   ]
 }
