@@ -1,0 +1,410 @@
+{
+  "runTime": 1719995085350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1203880,
+        "num": 1203880,
+        "word": "网传中金员工因降薪跳楼",
+        "onboard_time": 1719994397,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 618916,
+        "num": 618916,
+        "word": "薛之谦官宣3地18场",
+        "onboard_time": 1719988878,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108995,
+        "num": 469216,
+        "word": "哈萨克斯坦天空现中国国旗色彩带",
+        "onboard_time": 1719988158,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1783093,
+        "num": 468098,
+        "word": "李雪琴同届考生发文",
+        "onboard_time": 1719989839,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1328362,
+        "num": 464405,
+        "word": "一喝水就想尿和多喝水却没尿哪个不好",
+        "onboard_time": 1719992657,
+        "rank": 4,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 411479,
+        "num": 411479,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405346,
+        "num": 405346,
+        "word": "外交部回应美军偷叙利亚小麦",
+        "onboard_time": 1719993377,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64399,
+        "num": 388347,
+        "word": "神十八乘组在太空开展了哪些工作",
+        "onboard_time": 1719991518,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373658,
+        "num": 373658,
+        "word": "炎亚纶确定获缓刑3年",
+        "onboard_time": 1719981740,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350467,
+        "num": 350467,
+        "word": "林丹悼念张志杰",
+        "onboard_time": 1719990318,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604421,
+        "num": 349671,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502684,
+        "num": 337041,
+        "word": "中金回应员工疑因降薪跳楼",
+        "onboard_time": 1719994997,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 407220,
+        "num": 329964,
+        "word": "张凌赫 190",
+        "onboard_time": 1719987620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53472,
+        "num": 314038,
+        "word": "10余名村民砸车窗勇救坠河一家3口",
+        "onboard_time": 1719992956,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 61892,
+        "num": 308925,
+        "word": "古天乐林更新惊悚片预告",
+        "onboard_time": 1719989538,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 301471,
+        "num": 301471,
+        "word": "一只福寿螺可含6000条寄生虫",
+        "onboard_time": 1719984498,
+        "rank": 15,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 300456,
+        "num": 300456,
+        "word": "银河",
+        "onboard_time": 1719992597,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288939,
+        "num": 288939,
+        "word": "魏大勋已老实求放过",
+        "onboard_time": 1719992358,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268514,
+        "num": 268514,
+        "word": "刘昊然为新戏拔了头发眉毛",
+        "onboard_time": 1719993918,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261858,
+        "num": 261858,
+        "word": "为什么家里没有麻将凉席了",
+        "onboard_time": 1719983359,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 826189,
+        "num": 256623,
+        "word": "专家称不买房孩子也该有学上",
+        "onboard_time": 1719987678,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 525355,
+        "num": 251834,
+        "word": "超喜欢干干净净的朋友圈",
+        "onboard_time": 1719990739,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488143,
+        "num": 244875,
+        "word": "工作能力差的人都有这5个特征",
+        "onboard_time": 1719991877,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471167,
+        "num": 241697,
+        "word": "湖南常德一家四口被杀害",
+        "onboard_time": 1719993377,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237134,
+        "num": 237134,
+        "word": "钝感力很强是一种什么体验",
+        "onboard_time": 1719982820,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 327962,
+        "num": 230490,
+        "word": "睡觉时要把脚露出来",
+        "onboard_time": 1719987439,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 211953,
+        "num": 211953,
+        "word": "叶舒华站姐因未修图被吐槽",
+        "onboard_time": 1719976697,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203094,
+        "num": 203094,
+        "word": "袁姗姗上恋综了",
+        "onboard_time": 1719994997,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195648,
+        "num": 195648,
+        "word": "被喜欢的人选择激动哭",
+        "onboard_time": 1719991698,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187896,
+        "num": 187896,
+        "word": "导游称不买280元VIP就看不到天池",
+        "onboard_time": 1719990917,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 180171,
+        "num": 180171,
+        "word": "绝区零",
+        "onboard_time": 1719990018,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177916,
+        "num": 177916,
+        "word": "精灵球收七龙珠 塌房",
+        "onboard_time": 1719992298,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166939,
+        "num": 166939,
+        "word": "市场上近六成房子是2000年以前建的",
+        "onboard_time": 1719994278,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163836,
+        "num": 163836,
+        "word": "长相思2没有一个爱笑的",
+        "onboard_time": 1719991639,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60564,
+        "num": 159328,
+        "word": "让AED成为大型赛事标配",
+        "onboard_time": 1719993018,
+        "rank": 34,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 156735,
+        "num": 156735,
+        "word": "红衣相柳",
+        "onboard_time": 1719983778,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156426,
+        "num": 156426,
+        "word": "tim",
+        "onboard_time": 1719994577,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144072,
+        "num": 144072,
+        "word": "全红婵小小巴黎拿捏",
+        "onboard_time": 1719989597,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132635,
+        "num": 132635,
+        "word": "经常吃这类食物更易感染幽门螺杆菌",
+        "onboard_time": 1719989958,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 129303,
+        "num": 129303,
+        "word": "这种水果是北方人的盲区",
+        "onboard_time": 1719994938,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126204,
+        "num": 126204,
+        "word": "适合在发工资这天换的头像",
+        "onboard_time": 1719983958,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125595,
+        "num": 125595,
+        "word": "萌兰最想删除的儿时视频",
+        "onboard_time": 1719988098,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121592,
+        "num": 121592,
+        "word": "电影默杀",
+        "onboard_time": 1719988878,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116039,
+        "num": 116039,
+        "word": "直播间号称9999元可买圆明园马首",
+        "onboard_time": 1719977718,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113426,
+        "num": 113426,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111071,
+        "num": 111071,
+        "word": "一诺告别班味",
+        "onboard_time": 1719992956,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109586,
+        "num": 109586,
+        "word": "电影默杀首映礼",
+        "onboard_time": 1719988338,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109227,
+        "num": 109227,
+        "word": "地铁上被陌生人搜索手机号加好友",
+        "onboard_time": 1719987138,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 103925,
+        "word": "福建海警查扣一艘台湾省渔船",
+        "onboard_time": 1719992956,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席对哈萨克斯坦进行国事访问#"
+    }
+  }
+}
