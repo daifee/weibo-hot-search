@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719976907492,
+  "endTime": 1719977727094,
   "band_list": [
     {
       "raw_hot": 1899690,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1164275,
-      "num": 392615,
+      "num": 517885,
       "word": "甜馨维护贾乃亮",
       "onboard_time": 1719962596,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 732373,
+      "num": 732373,
+      "word": "张志杰姐姐要追究到底",
+      "onboard_time": 1719976338,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 718435,
       "num": 383437,
       "word": "金钟大老了好多",
@@ -75,8 +83,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693621,
+      "num": 693621,
+      "word": "长相思2官宣上星",
+      "onboard_time": 1719975677,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683432,
-      "num": 379873,
+      "num": 493821,
       "word": "刘亦菲被认成黄圣依",
       "onboard_time": 1719971118,
       "rank": 13,
@@ -91,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613067,
-      "num": 613067,
+      "raw_hot": 620053,
+      "num": 620053,
       "word": "新华社发的肖战王一博",
       "onboard_time": 1719973697,
       "rank": 14,
@@ -131,14 +147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 554473,
-      "num": 554473,
-      "word": "长相思2官宣上星",
-      "onboard_time": 1719975677,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 547008,
       "num": 547008,
       "word": "好学小孩哥在地铁上被北大博导收徒",
@@ -161,6 +169,14 @@
       "onboard_time": 1719930799,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511976,
+      "num": 511976,
+      "word": "叶舒华站姐因未修图被吐槽",
+      "onboard_time": 1719976697,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 488449,
@@ -219,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453548,
+      "num": 453548,
+      "word": "杜海涛问沈梦辰他给金靖拍的好看吗",
+      "onboard_time": 1719974897,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443910,
       "num": 337296,
       "word": "野孩子将提档",
@@ -233,14 +257,6 @@
       "onboard_time": 1719963556,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425679,
-      "num": 365720,
-      "word": "杜海涛问沈梦辰他给金靖拍的好看吗",
-      "onboard_time": 1719974897,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 417850,
@@ -259,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401312,
+      "num": 401312,
+      "word": "俄罗斯副防长被解职",
+      "onboard_time": 1719974356,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 391926,
       "num": 391926,
       "word": "爱奇艺把在线人数关了",
@@ -267,28 +291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 391015,
-      "num": 391015,
-      "word": "俄罗斯副防长被解职",
-      "onboard_time": 1719974356,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 388498,
       "num": 388498,
       "word": "A股",
       "onboard_time": 1719971957,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 362254,
-      "num": 362254,
-      "word": "张志杰姐姐要追究到底",
-      "onboard_time": 1719976338,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 355650,
@@ -313,6 +321,14 @@
       "onboard_time": 1719916099,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 329120,
+      "num": 217122,
+      "word": "长期吃黑米身体会有什么变化",
+      "onboard_time": 1719976577,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 319302,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271080,
+      "num": 235612,
+      "word": "为什么有的人睡觉爱举双手",
+      "onboard_time": 1719975617,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 268022,
       "num": 215637,
       "word": "刘亦菲唐嫣合照再加一",
@@ -377,14 +401,6 @@
       "onboard_time": 1719939735,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235612,
-      "num": 235612,
-      "word": "为什么有的人睡觉爱举双手",
-      "onboard_time": 1719975617,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 234893,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206923,
+      "num": 206923,
+      "word": "你的名字BGM一响纯爱登场",
+      "onboard_time": 1719977058,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 206011,
       "num": 272072,
       "word": "上海地铁回应16号线限速运行",
@@ -491,6 +515,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 196716,
+      "num": 196716,
+      "word": "刘昊然新电影造型",
+      "onboard_time": 1719977118,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192999,
       "num": 192999,
       "word": "欧洲杯8强对阵图",
@@ -531,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180558,
-      "num": 180558,
-      "word": "叶舒华站姐因未修图被吐槽",
-      "onboard_time": 1719976697,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175094,
       "num": 175094,
       "word": "电影解密定档",
@@ -571,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172863,
-      "num": 172863,
-      "word": "长期吃黑米身体会有什么变化",
-      "onboard_time": 1719976577,
-      "rank": 35,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 170579,
+      "num": 170579,
+      "word": "女子称交24万学带货点赞只有个位数",
+      "onboard_time": 1719976218,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169325,
@@ -601,6 +625,14 @@
       "onboard_time": 1719931158,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163427,
+      "num": 163427,
+      "word": "唐嫣鎏金开叉裙",
+      "onboard_time": 1719976757,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160598,
@@ -683,12 +715,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145129,
+      "num": 145129,
+      "word": "抓娃娃提档",
+      "onboard_time": 1719977418,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145106,
+      "num": 145106,
+      "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
+      "onboard_time": 1719977357,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144876,
       "num": 114435,
       "word": "故事会竟然还活着",
       "onboard_time": 1719932659,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143148,
+      "num": 143148,
+      "word": "巴西1比1哥伦比亚",
+      "onboard_time": 1719977297,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140772,
@@ -731,19 +787,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134659,
-      "num": 134659,
-      "word": "女子称交24万学带货点赞只有个位数",
-      "onboard_time": 1719976218,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133198,
       "num": 130802,
       "word": "网红乔老师疑剽窃未成年视频卖课",
       "onboard_time": 1719924258,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131776,
+      "num": 131776,
+      "word": "星巴克回应开收打包费",
+      "onboard_time": 1719976457,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -777,14 +833,6 @@
       "onboard_time": 1719974717,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122449,
-      "num": 122449,
-      "word": "唐嫣鎏金开叉裙",
-      "onboard_time": 1719976757,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120608,
@@ -924,7 +972,7 @@
     },
     {
       "raw_hot": 92312,
-      "num": 732707,
+      "num": 733245,
       "word": "乒乓球在哈萨克斯坦有多受欢迎",
       "onboard_time": 1719965118,
       "rank": 9,
@@ -964,7 +1012,7 @@
     },
     {
       "raw_hot": 83275,
-      "num": 206407,
+      "num": 519202,
       "word": "23岁女儿参加53岁妈妈毕业典礼",
       "onboard_time": 1719976878,
       "rank": 29,
@@ -1083,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 58414,
+      "num": 637614,
+      "word": "我国建成全球规模最大航海保障体系",
+      "onboard_time": 1719975617,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56691,
       "num": 82101,
       "word": "酒霉酒霉 漂亮的霉霉",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1719949031,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46640,
-      "num": 568788,
-      "word": "我国建成全球规模最大航海保障体系",
-      "onboard_time": 1719975617,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44332,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1719927558,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 18315,
+      "num": 161704,
+      "word": "刘宇国风时髦感",
+      "onboard_time": 1719977357,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15190,

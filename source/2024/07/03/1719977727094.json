@@ -1,0 +1,410 @@
+{
+  "runTime": 1719977727094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138101,
+        "num": 1138101,
+        "word": "我家那闺女首发阵容官宣",
+        "onboard_time": 1719974237,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736036,
+        "num": 736036,
+        "word": "枪杀安倍凶犯原计划室内开枪",
+        "onboard_time": 1719971478,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33298,
+        "num": 733245,
+        "word": "乒乓球在哈萨克斯坦有多受欢迎",
+        "onboard_time": 1719965118,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732373,
+        "num": 732373,
+        "word": "张志杰姐姐要追究到底",
+        "onboard_time": 1719976338,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693621,
+        "num": 693621,
+        "word": "长相思2官宣上星",
+        "onboard_time": 1719975677,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919112,
+        "num": 660446,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58414,
+        "num": 637614,
+        "word": "我国建成全球规模最大航海保障体系",
+        "onboard_time": 1719975617,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620053,
+        "num": 620053,
+        "word": "新华社发的肖战王一博",
+        "onboard_time": 1719973697,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543890,
+        "num": 543890,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81839,
+        "num": 519202,
+        "word": "23岁女儿参加53岁妈妈毕业典礼",
+        "onboard_time": 1719976878,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 615078,
+        "num": 517885,
+        "word": "甜馨维护贾乃亮",
+        "onboard_time": 1719962596,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511976,
+        "num": 511976,
+        "word": "叶舒华站姐因未修图被吐槽",
+        "onboard_time": 1719976697,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493821,
+        "num": 493821,
+        "word": "刘亦菲被认成黄圣依",
+        "onboard_time": 1719971118,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457248,
+        "num": 457248,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1719971238,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453548,
+        "num": 453548,
+        "word": "杜海涛问沈梦辰他给金靖拍的好看吗",
+        "onboard_time": 1719974897,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401312,
+        "num": 401312,
+        "word": "俄罗斯副防长被解职",
+        "onboard_time": 1719974356,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 262781,
+        "num": 262781,
+        "word": "短短5秒却救了2个家庭",
+        "onboard_time": 1719941054,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259889,
+        "num": 259889,
+        "word": "10岁男孩自学电气工程挣了1万多",
+        "onboard_time": 1719969738,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221217,
+        "num": 221217,
+        "word": "A股",
+        "onboard_time": 1719971957,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34572,
+        "num": 220256,
+        "word": "谁懂这个健康大使团的含金量",
+        "onboard_time": 1719976038,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441824,
+        "num": 219344,
+        "word": "Jennie新歌对嘴cha",
+        "onboard_time": 1719974957,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 704042,
+        "num": 218401,
+        "word": "发现在大厂上班真的像在上大学",
+        "onboard_time": 1719971837,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361228,
+        "num": 217741,
+        "word": "金钟大老了好多",
+        "onboard_time": 1719969438,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329120,
+        "num": 217122,
+        "word": "长期吃黑米身体会有什么变化",
+        "onboard_time": 1719976577,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 291390,
+        "num": 216068,
+        "word": "倪妮跟刘亦菲撒娇",
+        "onboard_time": 1719974657,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284500,
+        "num": 214962,
+        "word": "惊天魔盗团3北美定档",
+        "onboard_time": 1719975197,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275152,
+        "num": 213557,
+        "word": "野孩子将提档",
+        "onboard_time": 1719971897,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271080,
+        "num": 213436,
+        "word": "为什么有的人睡觉爱举双手",
+        "onboard_time": 1719975617,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 212503,
+        "num": 212503,
+        "word": "菲律宾",
+        "onboard_time": 1719972677,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 206923,
+        "num": 206923,
+        "word": "你的名字BGM一响纯爱登场",
+        "onboard_time": 1719977058,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "刘昊然新电影造型",
+        "onboard_time": 1719977118,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185237,
+        "num": 185237,
+        "word": "福建一初中生被霸凌致下体烧伤",
+        "onboard_time": 1719963556,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182689,
+        "num": 182689,
+        "word": "新婚第二天离婚第三天异地",
+        "onboard_time": 1719930799,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181524,
+        "num": 181524,
+        "word": "iPhone16或全系标配8GB内存",
+        "onboard_time": 1719963918,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170579,
+        "num": 170579,
+        "word": "女子称交24万学带货点赞只有个位数",
+        "onboard_time": 1719976218,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163457,
+        "num": 163457,
+        "word": "王心凌 哇塞又挖了一个gala",
+        "onboard_time": 1719975016,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163432,
+        "num": 163432,
+        "word": "中餐厅汉服游园会路透",
+        "onboard_time": 1719975378,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163427,
+        "num": 163427,
+        "word": "唐嫣鎏金开叉裙",
+        "onboard_time": 1719976757,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18315,
+        "num": 161704,
+        "word": "刘宇国风时髦感",
+        "onboard_time": 1719977357,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161566,
+        "num": 161566,
+        "word": "好学小孩哥在地铁上被北大博导收徒",
+        "onboard_time": 1719962235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145129,
+        "num": 145129,
+        "word": "抓娃娃提档",
+        "onboard_time": 1719977418,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145106,
+        "num": 145106,
+        "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
+        "onboard_time": 1719977357,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143148,
+        "num": 143148,
+        "word": "巴西1比1哥伦比亚",
+        "onboard_time": 1719977297,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142879,
+        "num": 142879,
+        "word": "雪糕里的木棍是这么用的吗",
+        "onboard_time": 1719971597,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142317,
+        "num": 142317,
+        "word": "张凌赫男模身材",
+        "onboard_time": 1719965238,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131776,
+        "num": 131776,
+        "word": "星巴克回应开收打包费",
+        "onboard_time": 1719976457,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 128042,
+        "word": "刘亦菲粉裙吊威亚",
+        "onboard_time": 1719968897,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "唐嫣孙坚认识二十多年了",
+        "onboard_time": 1719971417,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120683,
+        "num": 120683,
+        "word": "河南一湖中惊现多条小鳄鱼",
+        "onboard_time": 1719965957,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120724,
+        "num": 118634,
+        "word": "这和亲了一口张凌赫有啥区别",
+        "onboard_time": 1719962356,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访中亚#"
+    }
+  }
+}
