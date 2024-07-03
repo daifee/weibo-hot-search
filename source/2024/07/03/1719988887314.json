@@ -1,0 +1,410 @@
+{
+  "runTime": 1719988887314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982669,
+        "num": 982669,
+        "word": "炎亚纶确定获缓刑3年",
+        "onboard_time": 1719981740,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688352,
+        "num": 688352,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10496,
+        "num": 659039,
+        "word": "乒乓球在哈萨克斯坦有多受欢迎",
+        "onboard_time": 1719965118,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1206344,
+        "num": 658482,
+        "word": "中金",
+        "onboard_time": 1719984198,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 657466,
+        "num": 657466,
+        "word": "为什么家里没有麻将凉席了",
+        "onboard_time": 1719983359,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83876,
+        "num": 590325,
+        "word": "原来还有蓝色的迎宾地毯",
+        "onboard_time": 1719986478,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588149,
+        "num": 588149,
+        "word": "一只福寿螺可含6000条寄生虫",
+        "onboard_time": 1719984498,
+        "rank": 6,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 481990,
+        "num": 481990,
+        "word": "钝感力很强是一种什么体验",
+        "onboard_time": 1719982820,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 338259,
+        "num": 338259,
+        "word": "红衣相柳",
+        "onboard_time": 1719983778,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45747,
+        "num": 329398,
+        "word": "延续600年3项创举解决水利难题",
+        "onboard_time": 1719987739,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579169,
+        "num": 313637,
+        "word": "张凌赫 190",
+        "onboard_time": 1719987620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533178,
+        "num": 306358,
+        "word": "网友偶遇森林北",
+        "onboard_time": 1719984798,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 381576,
+        "num": 291136,
+        "word": "叶舒华站姐因未修图被吐槽",
+        "onboard_time": 1719976697,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276735,
+        "num": 276735,
+        "word": "娜扎出任圣罗兰中国形象大使",
+        "onboard_time": 1719984079,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 272777,
+        "num": 272777,
+        "word": "被王传君狠狠狠到了",
+        "onboard_time": 1719979880,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268144,
+        "num": 268144,
+        "word": "直播间号称9999元可买圆明园马首",
+        "onboard_time": 1719977718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221056,
+        "num": 221056,
+        "word": "甜馨维护贾乃亮",
+        "onboard_time": 1719962596,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207278,
+        "num": 207278,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 204347,
+        "word": "小鹏MONA发布会",
+        "onboard_time": 1719988458,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198549,
+        "num": 198549,
+        "word": "欧洲杯最大黑马土耳其",
+        "onboard_time": 1719987797,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474155,
+        "num": 198431,
+        "word": "睡觉时要把脚露出来",
+        "onboard_time": 1719987439,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 344883,
+        "num": 198151,
+        "word": "适合在发工资这天换的头像",
+        "onboard_time": 1719983958,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258531,
+        "num": 197806,
+        "word": "专家称不买房孩子也该有学上",
+        "onboard_time": 1719987678,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221018,
+        "num": 197572,
+        "word": "小螃蟹用jio抠出一室一厅后封顶",
+        "onboard_time": 1719982221,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197472,
+        "num": 197472,
+        "word": "巴勒斯坦男子在以监狱遭性虐待",
+        "onboard_time": 1719980359,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204312,
+        "num": 197334,
+        "word": "赫海TF三代合作boutyou",
+        "onboard_time": 1719988397,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203549,
+        "num": 196788,
+        "word": "长相思2定档",
+        "onboard_time": 1719984739,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196071,
+        "num": 196071,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195959,
+        "num": 195959,
+        "word": "苏容卿高兴没一集还是单身狗",
+        "onboard_time": 1719988098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18320,
+        "num": 195840,
+        "word": "韩国明年仍将适用最低时薪标准",
+        "onboard_time": 1719988458,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195790,
+        "num": 195790,
+        "word": "暑假档 提档",
+        "onboard_time": 1719979338,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "电影默杀首映礼",
+        "onboard_time": 1719988338,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193919,
+        "num": 183662,
+        "word": "谭松韵把我妈变成了追剧搭子",
+        "onboard_time": 1719984617,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173824,
+        "num": 173824,
+        "word": "LPL夏季赛组内赛赛程",
+        "onboard_time": 1719988279,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171440,
+        "num": 171440,
+        "word": "地铁上被陌生人搜索手机号加好友",
+        "onboard_time": 1719987138,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168022,
+        "num": 168022,
+        "word": "其实最崩溃的是未成年的高考生",
+        "onboard_time": 1719986419,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164212,
+        "num": 164212,
+        "word": "度华年 男二人设",
+        "onboard_time": 1719983658,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161831,
+        "num": 161831,
+        "word": "23岁女儿参加53岁妈妈毕业典礼",
+        "onboard_time": 1719976878,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 151775,
+        "num": 151775,
+        "word": "我家那闺女首发阵容官宣",
+        "onboard_time": 1719974237,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149242,
+        "num": 149242,
+        "word": "长期吃黑米身体会有什么变化",
+        "onboard_time": 1719976577,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 139260,
+        "num": 139260,
+        "word": "新华社发的肖战王一博",
+        "onboard_time": 1719973697,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138097,
+        "num": 138097,
+        "word": "宋轶在古装赛道玩出花了",
+        "onboard_time": 1719985938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137083,
+        "num": 137083,
+        "word": "什么是性单恋",
+        "onboard_time": 1719982699,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129998,
+        "num": 129998,
+        "word": "吴昕和她的三个军师",
+        "onboard_time": 1719986478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127322,
+        "num": 127322,
+        "word": "萌兰最想删除的儿时视频",
+        "onboard_time": 1719988098,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122629,
+        "num": 122629,
+        "word": "刘亦菲被认成黄圣依",
+        "onboard_time": 1719971118,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119346,
+        "num": 119346,
+        "word": "哈萨克斯坦天空现中国国旗色彩带",
+        "onboard_time": 1719988158,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114869,
+        "num": 114869,
+        "word": "长相思2官宣上星",
+        "onboard_time": 1719975677,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114409,
+        "num": 114409,
+        "word": "朱旺旺综艺首秀",
+        "onboard_time": 1719983419,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109817,
+        "num": 109817,
+        "word": "严浩翔 在热血青春里长大",
+        "onboard_time": 1719987498,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哈萨克斯坦总统小范围晤谈#"
+    }
+  }
+}

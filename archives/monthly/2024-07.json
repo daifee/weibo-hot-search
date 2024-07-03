@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719988107002,
+  "endTime": 1719988887314,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -265,6 +265,14 @@
       "onboard_time": 1719974237,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1206344,
+      "num": 676425,
+      "word": "中金",
+      "onboard_time": 1719984198,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 1198960,
@@ -595,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 822685,
-      "num": 676425,
-      "word": "中金",
-      "onboard_time": 1719984198,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 819961,
       "num": 819961,
       "word": "老人花四千买净食机儿子觉得贵",
@@ -811,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 657466,
+      "num": 657466,
+      "word": "为什么家里没有麻将凉席了",
+      "onboard_time": 1719983359,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 655437,
       "num": 251518,
       "word": "微信收款码拍下来没法付款",
@@ -849,14 +857,6 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 643262,
-      "num": 643262,
-      "word": "为什么家里没有麻将凉席了",
-      "onboard_time": 1719983359,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 638016,
@@ -1035,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 588149,
+      "num": 588149,
+      "word": "一只福寿螺可含6000条寄生虫",
+      "onboard_time": 1719984498,
+      "rank": 43,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 584844,
       "num": 584844,
       "word": "恋爱兄妹",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1719878177,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579169,
+      "num": 313637,
+      "word": "张凌赫 190",
+      "onboard_time": 1719987620,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 579040,
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 575752,
-      "num": 298979,
+      "num": 306358,
       "word": "网友偶遇森林北",
       "onboard_time": 1719984798,
       "rank": 23,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1719788714,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 541942,
-      "num": 541942,
-      "word": "一只福寿螺可含6000条寄生虫",
-      "onboard_time": 1719984498,
-      "rank": 43,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 539842,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1719931760,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474155,
+      "num": 219913,
+      "word": "睡觉时要把脚露出来",
+      "onboard_time": 1719987439,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 472410,
@@ -2147,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344883,
+      "num": 221355,
+      "word": "适合在发工资这天换的头像",
+      "onboard_time": 1719983958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344269,
       "num": 344269,
       "word": "张凌赫壁纸",
@@ -2715,20 +2739,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260442,
-      "num": 221355,
-      "word": "适合在发工资这天换的头像",
-      "onboard_time": 1719983958,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 259697,
       "num": 259697,
       "word": "出道战 剧本",
       "onboard_time": 1719889878,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258531,
+      "num": 197806,
+      "word": "专家称不买房孩子也该有学上",
+      "onboard_time": 1719987678,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 257205,
@@ -2777,14 +2801,6 @@
       "onboard_time": 1719812897,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251823,
-      "num": 219913,
-      "word": "睡觉时要把脚露出来",
-      "onboard_time": 1719987439,
-      "rank": 22,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 251573,
@@ -3251,14 +3267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210957,
-      "num": 210957,
-      "word": "张凌赫 190",
-      "onboard_time": 1719987620,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -3385,6 +3393,22 @@
       "onboard_time": 1719798497,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204347,
+      "num": 204347,
+      "word": "小鹏MONA发布会",
+      "onboard_time": 1719988458,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 204312,
+      "num": 197334,
+      "word": "赫海TF三代合作boutyou",
+      "onboard_time": 1719988397,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204195,
@@ -3515,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198549,
+      "num": 198549,
+      "word": "欧洲杯最大黑马土耳其",
+      "onboard_time": 1719987797,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198540,
       "num": 198540,
       "word": "优酷宠爱剧场升级生花剧场",
@@ -3585,6 +3617,14 @@
       "onboard_time": 1719809900,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195959,
+      "num": 195959,
+      "word": "苏容卿高兴没一集还是单身狗",
+      "onboard_time": 1719988098,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195953,
@@ -3673,6 +3713,14 @@
       "onboard_time": 1719804378,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "电影默杀首映礼",
+      "onboard_time": 1719988338,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 190677,
@@ -4051,6 +4099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173824,
+      "num": 173824,
+      "word": "LPL夏季赛组内赛赛程",
+      "onboard_time": 1719988279,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "疱疹性咽峡炎高发季",
@@ -4081,6 +4137,14 @@
       "onboard_time": 1719831378,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171440,
+      "num": 171440,
+      "word": "地铁上被陌生人搜索手机号加好友",
+      "onboard_time": 1719987138,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 171335,
@@ -4347,14 +4411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159448,
-      "num": 159448,
-      "word": "专家称不买房孩子也该有学上",
-      "onboard_time": 1719987678,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 159017,
       "num": 159017,
       "word": "林小宅全新演员公示照",
@@ -4401,14 +4457,6 @@
       "onboard_time": 1719821358,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157199,
-      "num": 157199,
-      "word": "地铁上被陌生人搜索手机号加好友",
-      "onboard_time": 1719987138,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 157140,
@@ -4576,14 +4624,6 @@
       "word": "C罗大赛任意球60中1",
       "onboard_time": 1719921017,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152100,
-      "num": 152100,
-      "word": "欧洲杯最大黑马土耳其",
-      "onboard_time": 1719987797,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -5475,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127322,
+      "num": 127322,
+      "word": "萌兰最想删除的儿时视频",
+      "onboard_time": 1719988098,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "张颂文一件衬衫穿了近30年",
@@ -5705,6 +5753,14 @@
       "onboard_time": 1719805040,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119346,
+      "num": 119346,
+      "word": "哈萨克斯坦天空现中国国旗色彩带",
+      "onboard_time": 1719988158,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 119244,
@@ -6475,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83876,
+      "num": 590325,
+      "word": "原来还有蓝色的迎宾地毯",
+      "onboard_time": 1719986478,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "iPhone16或全系采用A18芯片",
@@ -6604,7 +6668,7 @@
     },
     {
       "raw_hot": 65831,
-      "num": 290926,
+      "num": 329398,
       "word": "延续600年3项创举解决水利难题",
       "onboard_time": 1719987739,
       "rank": 11,
@@ -6689,14 +6753,6 @@
       "onboard_time": 1719963196,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60503,
-      "num": 555313,
-      "word": "原来还有蓝色的迎宾地毯",
-      "onboard_time": 1719986478,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59461,
@@ -7257,6 +7313,14 @@
       "onboard_time": 1719778511,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18320,
+      "num": 195840,
+      "word": "韩国明年仍将适用最低时薪标准",
+      "onboard_time": 1719988458,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16747,
