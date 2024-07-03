@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719977727094,
+  "endTime": 1719980568457,
   "band_list": [
     {
       "raw_hot": 1899690,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051447,
+      "num": 732373,
+      "word": "张志杰姐姐要追究到底",
+      "onboard_time": 1719976338,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 988089,
       "num": 886941,
       "word": "枪杀安倍凶犯原计划室内开枪",
       "onboard_time": 1719971478,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 977751,
+      "num": 511976,
+      "word": "叶舒华站姐因未修图被吐槽",
+      "onboard_time": 1719976697,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 932711,
@@ -59,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825646,
+      "num": 825646,
+      "word": "一所被低估的211大学",
+      "onboard_time": 1719979518,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 773837,
-      "num": 250805,
+      "num": 274308,
       "word": "发现在大厂上班真的像在上大学",
       "onboard_time": 1719971837,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 732373,
-      "num": 732373,
-      "word": "张志杰姐姐要追究到底",
-      "onboard_time": 1719976338,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 718435,
@@ -81,6 +97,14 @@
       "onboard_time": 1719969438,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697159,
+      "num": 275664,
+      "word": "长期吃黑米身体会有什么变化",
+      "onboard_time": 1719976577,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 693621,
@@ -171,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511976,
-      "num": 511976,
-      "word": "叶舒华站姐因未修图被吐槽",
-      "onboard_time": 1719976697,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 488449,
       "num": 488449,
       "word": "肚子4个表现多半是癌细胞露出了马脚",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419264,
+      "num": 273104,
+      "word": "为什么有的人睡觉爱举双手",
+      "onboard_time": 1719975617,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 417850,
       "num": 417850,
       "word": "第一次看花少避雷餐厅",
@@ -275,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410109,
+      "num": 410109,
+      "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
+      "onboard_time": 1719977357,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401312,
       "num": 401312,
       "word": "俄罗斯副防长被解职",
@@ -289,6 +321,14 @@
       "onboard_time": 1719924979,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389597,
+      "num": 389597,
+      "word": "直播间号称9999元可买圆明园马首",
+      "onboard_time": 1719977718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388498,
@@ -323,14 +363,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 329120,
-      "num": 217122,
-      "word": "长期吃黑米身体会有什么变化",
-      "onboard_time": 1719976577,
-      "rank": 35,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 319302,
       "num": 265078,
       "word": "这和亲了一口张凌赫有啥区别",
@@ -363,6 +395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286758,
+      "num": 271757,
+      "word": "暑假档 提档",
+      "onboard_time": 1719979338,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 285067,
+      "num": 271042,
+      "word": "职业院校中的小清华",
+      "onboard_time": 1719978619,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280007,
       "num": 280007,
       "word": "江苏一男子携带人皮面具盗窃近20次",
@@ -371,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271080,
-      "num": 235612,
-      "word": "为什么有的人睡觉爱举双手",
-      "onboard_time": 1719975617,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 277992,
+      "num": 277992,
+      "word": "网易游戏发布未成年暑期限玩通知",
+      "onboard_time": 1719977958,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 275668,
+      "num": 275668,
+      "word": "明日方舟",
+      "onboard_time": 1719978498,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 268022,
@@ -411,12 +467,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232315,
+      "num": 232315,
+      "word": "ZICO教训女同学",
+      "onboard_time": 1719979940,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228889,
+      "num": 228889,
+      "word": "于正否认王星越下部剧搭白鹿",
+      "onboard_time": 1719978619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228165,
       "num": 228165,
       "word": "李凯尔加盟勇士",
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227301,
+      "num": 227301,
+      "word": "李赫宰 38岁正是长见识的年纪",
+      "onboard_time": 1719979279,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220861,
@@ -499,6 +579,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201885,
+      "num": 201885,
+      "word": "被王传君狠狠狠到了",
+      "onboard_time": 1719979880,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 201086,
+      "num": 201086,
+      "word": "五旬已婚女子同时和5名男子恋爱",
+      "onboard_time": 1719978920,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200759,
+      "num": 200759,
+      "word": "JackeyLove抵达沙特",
+      "onboard_time": 1719978557,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198971,
       "num": 198971,
       "word": "世界羽联将彻查张志杰赛场离世",
@@ -529,6 +633,14 @@
       "onboard_time": 1719973996,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189514,
+      "num": 189514,
+      "word": "世界之外夏夜诡叙诗",
+      "onboard_time": 1719979338,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 187583,
@@ -643,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160031,
+      "num": 160031,
+      "word": "抓娃娃提档",
+      "onboard_time": 1719977418,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157437,
       "num": 157437,
       "word": "减脂期这六种食物一定要避雷",
@@ -715,20 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145129,
-      "num": 145129,
-      "word": "抓娃娃提档",
-      "onboard_time": 1719977418,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 145106,
-      "num": 145106,
-      "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
-      "onboard_time": 1719977357,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 145773,
+      "num": 145773,
+      "word": "Meiko人快融化了",
+      "onboard_time": 1719979759,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 144876,
@@ -787,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "小夭丰隆大婚花絮",
+      "onboard_time": 1719980059,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133198,
       "num": 130802,
       "word": "网红乔老师疑剽窃未成年视频卖课",
@@ -817,6 +937,14 @@
       "onboard_time": 1719968538,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129076,
+      "num": 129076,
+      "word": "巴勒斯坦男子在以监狱遭性虐待",
+      "onboard_time": 1719980359,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129047,
@@ -987,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89396,
+      "num": 232782,
+      "word": "日本富士山开始收取登山费",
+      "onboard_time": 1719978316,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89131,
       "num": 89131,
       "word": "哮天犬扮演者陈创否认接受打赏",
@@ -1048,6 +1184,14 @@
       "word": "印尼羽协公布张志杰抢救细节",
       "onboard_time": 1719919638,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71484,
+      "num": 405097,
+      "word": "谁懂这个健康大使团的含金量",
+      "onboard_time": 1719976038,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1163,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49907,
+      "num": 409901,
+      "word": "你的巴太在哈萨克斯坦上线了",
+      "onboard_time": 1719979819,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 49023,
       "num": 82090,
       "word": "张元英式推拉",
@@ -1185,14 +1337,6 @@
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44041,
-      "num": 255958,
-      "word": "谁懂这个健康大使团的含金量",
-      "onboard_time": 1719976038,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 43325,
@@ -1251,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27112,
+      "num": 273758,
+      "word": "刘宇国风时髦感",
+      "onboard_time": 1719977357,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 25969,
       "num": 25969,
       "word": "沈月敢编王子奇敢信",
@@ -1281,14 +1433,6 @@
       "onboard_time": 1719927558,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 18315,
-      "num": 161704,
-      "word": "刘宇国风时髦感",
-      "onboard_time": 1719977357,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15190,
@@ -1367,6 +1511,9 @@
     },
     {
       "word": "#习主席出访中亚#"
+    },
+    {
+      "word": "#习近平同哈萨克斯坦总统小范围晤谈#"
     }
   ]
 }
