@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719980568457,
+  "endTime": 1719981422080,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -89,6 +89,14 @@
       "onboard_time": 1719797899,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1629065,
+      "num": 1629065,
+      "word": "一所被低估的211大学",
+      "onboard_time": 1719979518,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1589081,
@@ -561,14 +569,6 @@
       "onboard_time": 1719818598,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 825646,
-      "num": 825646,
-      "word": "一所被低估的211大学",
-      "onboard_time": 1719979518,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 824410,
@@ -1219,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 515094,
+      "num": 515094,
+      "word": "直播间号称9999元可买圆明园马首",
+      "onboard_time": 1719977718,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514890,
       "num": 295427,
       "word": "张杰谢娜牵手下班",
@@ -1675,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431643,
+      "num": 431643,
+      "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
+      "onboard_time": 1719977357,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429351,
       "num": 429351,
       "word": "呷哺呷哺创始人回应3年亏8亿",
@@ -1736,14 +1752,6 @@
       "word": "心脏骤停黄金抢救时间是4分钟",
       "onboard_time": 1719842179,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410109,
-      "num": 410109,
-      "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
-      "onboard_time": 1719977357,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1873,14 +1881,6 @@
       "onboard_time": 1719922639,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389597,
-      "num": 389597,
-      "word": "直播间号称9999元可买圆明园马首",
-      "onboard_time": 1719977718,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389291,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1719789074,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346008,
+      "num": 346008,
+      "word": "暑假档 提档",
+      "onboard_time": 1719979338,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 344269,
@@ -2427,14 +2435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 286758,
-      "num": 271757,
-      "word": "暑假档 提档",
-      "onboard_time": 1719979338,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 285817,
       "num": 155357,
       "word": "葡萄牙门将点球大战三连扑",
@@ -2577,6 +2577,14 @@
       "onboard_time": 1719966379,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 264919,
+      "num": 238289,
+      "word": "ZICO教训女同学",
+      "onboard_time": 1719979940,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 264652,
@@ -2755,6 +2763,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 246556,
+      "num": 231816,
+      "word": "巴勒斯坦男子在以监狱遭性虐待",
+      "onboard_time": 1719980359,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245375,
       "num": 245375,
       "word": "郑恺海岛新家",
@@ -2867,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234745,
+      "num": 234745,
+      "word": "李赫宰 38岁正是长见识的年纪",
+      "onboard_time": 1719979279,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234357,
       "num": 234357,
       "word": "林丹曾呼吁给运动员更多休息时间",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1719813500,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232315,
-      "num": 232315,
-      "word": "ZICO教训女同学",
-      "onboard_time": 1719979940,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 231498,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227301,
-      "num": 227301,
-      "word": "李赫宰 38岁正是长见识的年纪",
-      "onboard_time": 1719979279,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226625,
@@ -3011,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220423,
+      "num": 220423,
+      "word": "被王传君狠狠狠到了",
+      "onboard_time": 1719979880,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220335,
       "num": 220335,
       "word": "晚霞",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1719901397,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217963,
+      "num": 217963,
+      "word": "五旬已婚女子同时和5名男子恋爱",
+      "onboard_time": 1719978920,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217473,
@@ -3275,14 +3299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201885,
-      "num": 201885,
-      "word": "被王传君狠狠狠到了",
-      "onboard_time": 1719979880,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201389,
       "num": 201389,
       "word": "七一",
@@ -3304,14 +3320,6 @@
       "word": "网红乔老师疑剽窃未成年视频卖课",
       "onboard_time": 1719924258,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201086,
-      "num": 201086,
-      "word": "五旬已婚女子同时和5名男子恋爱",
-      "onboard_time": 1719978920,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3377,6 +3385,14 @@
       "onboard_time": 1719882077,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198459,
+      "num": 242371,
+      "word": "市监局回应孙姐螺蛳粉被疑用福寿螺",
+      "onboard_time": 1719980660,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198295,
@@ -4435,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150809,
+      "num": 150809,
+      "word": "Meiko人快融化了",
+      "onboard_time": 1719979759,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150022,
       "num": 150022,
       "word": "Zdz找工作",
@@ -4473,14 +4497,6 @@
       "onboard_time": 1719812240,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145773,
-      "num": 145773,
-      "word": "Meiko人快融化了",
-      "onboard_time": 1719979759,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 145650,
@@ -4715,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139993,
+      "num": 139993,
+      "word": "小夭丰隆大婚花絮",
+      "onboard_time": 1719980059,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -4881,14 +4905,6 @@
       "onboard_time": 1719923418,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135294,
-      "num": 135294,
-      "word": "小夭丰隆大婚花絮",
-      "onboard_time": 1719980059,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 135075,
@@ -5083,6 +5099,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 130246,
+      "num": 130246,
+      "word": "这届年轻人到底看不看球了",
+      "onboard_time": 1719977897,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130054,
       "num": 130054,
       "word": "31马赫",
@@ -5137,14 +5161,6 @@
       "onboard_time": 1719789074,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129076,
-      "num": 129076,
-      "word": "巴勒斯坦男子在以监狱遭性虐待",
-      "onboard_time": 1719980359,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129047,
@@ -6251,7 +6267,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71484,
+      "raw_hot": 75313,
       "num": 405097,
       "word": "谁懂这个健康大使团的含金量",
       "onboard_time": 1719976038,
@@ -6419,6 +6435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57926,
+      "num": 431604,
+      "word": "你的巴太在哈萨克斯坦上线了",
+      "onboard_time": 1719979819,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 57562,
       "num": 131612,
       "word": "罗翔回应在闲鱼搞副业",
@@ -6465,14 +6489,6 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 49907,
-      "num": 409901,
-      "word": "你的巴太在哈萨克斯坦上线了",
-      "onboard_time": 1719979819,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 48538,
@@ -6747,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30856,
+      "num": 273758,
+      "word": "刘宇国风时髦感",
+      "onboard_time": 1719977357,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 30753,
       "num": 179680,
       "word": "以军又被曝用巴勒斯坦人充当人盾",
@@ -6817,14 +6841,6 @@
       "onboard_time": 1719945971,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27112,
-      "num": 273758,
-      "word": "刘宇国风时髦感",
-      "onboard_time": 1719977357,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26725,
@@ -6921,6 +6937,14 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21639,
+      "num": 131255,
+      "word": "全网寻黄金大宝剑主人",
+      "onboard_time": 1719981380,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 20713,
