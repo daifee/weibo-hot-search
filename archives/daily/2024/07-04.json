@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720023899875,
+  "endTime": 1720024795009,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334632,
+      "num": 165846,
+      "word": "李泽锋站姐拍出了阿如那的善良",
+      "onboard_time": 1720022597,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314683,
       "num": 169888,
       "word": "合肥之心城",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165846,
-      "num": 165846,
-      "word": "李泽锋站姐拍出了阿如那的善良",
-      "onboard_time": 1720022597,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 172372,
+      "num": 143173,
+      "word": "北大博导否认地铁收徒看书小孩哥",
+      "onboard_time": 1720023616,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157403,
@@ -187,20 +195,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138436,
+      "num": 135137,
+      "word": "断崖式离职比断崖式分手还可怕",
+      "onboard_time": 1720021637,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136255,
       "num": 136255,
       "word": "张子枫素颜打羽毛球",
       "onboard_time": 1720018459,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135137,
-      "num": 135137,
-      "word": "断崖式离职比断崖式分手还可怕",
-      "onboard_time": 1720021637,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 127954,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85789,
+      "num": 85789,
+      "word": "原神KFC联动偷跑",
+      "onboard_time": 1720021818,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84391,
       "num": 84391,
       "word": "神十八乘组第2次出舱圆满完成",
@@ -313,22 +329,6 @@
       "onboard_time": 1720012819,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83238,
-      "num": 83238,
-      "word": "原神KFC联动偷跑",
-      "onboard_time": 1720021818,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 82960,
-      "num": 82960,
-      "word": "北大博导否认地铁收徒看书小孩哥",
-      "onboard_time": 1720023616,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80895,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#国家主席习近平会见俄罗斯总统普京#"
+    },
+    {
+      "word": "#中哈达成九点共识#"
     }
   ]
 }
