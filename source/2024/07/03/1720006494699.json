@@ -1,0 +1,410 @@
+{
+  "runTime": 1720006494699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419831,
+        "num": 1419831,
+        "word": "女子吃1斤见手青后看见一屋人",
+        "onboard_time": 1720001718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653109,
+        "num": 653109,
+        "word": "中餐厅8合伙人阵容官宣",
+        "onboard_time": 1720003220,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38563,
+        "num": 482745,
+        "word": "一个街名见证中哈友谊历久弥新",
+        "onboard_time": 1720003398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482620,
+        "num": 482620,
+        "word": "西藏文旅回复薛之谦",
+        "onboard_time": 1719998838,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 389099,
+        "num": 389099,
+        "word": "CP30 杭州",
+        "onboard_time": 1719998419,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 293870,
+        "num": 293870,
+        "word": "胡锡进总亏损达8.5万元",
+        "onboard_time": 1720003277,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 379443,
+        "num": 292835,
+        "word": "这竟然是刘昊然",
+        "onboard_time": 1720003638,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347440,
+        "num": 291977,
+        "word": "朱丹回应想演肖战妈妈",
+        "onboard_time": 1720003758,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288000,
+        "num": 288000,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173601,
+        "num": 285125,
+        "word": "菲警方回应中国公民遭绑架遇害事件",
+        "onboard_time": 1719999978,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1362333,
+        "num": 282604,
+        "word": "杜海涛 沈梦辰",
+        "onboard_time": 1719996679,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575847,
+        "num": 282049,
+        "word": "白敬亭染金发了",
+        "onboard_time": 1720005018,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49450,
+        "num": 278087,
+        "word": "外国女子突发疾病还好遇上中国医生",
+        "onboard_time": 1720006219,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 477136,
+        "num": 274798,
+        "word": "凯美瑞只卖12万了",
+        "onboard_time": 1719997280,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38725,
+        "num": 273140,
+        "word": "深圳大学最好的招生简章",
+        "onboard_time": 1720004419,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430905,
+        "num": 268446,
+        "word": "金靖是你们play的一环吗",
+        "onboard_time": 1720001357,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410212,
+        "num": 265439,
+        "word": "唐山今年全市已处分2116人",
+        "onboard_time": 1720002437,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307022,
+        "num": 263992,
+        "word": "日本男子新加坡性侵女学生被判鞭刑",
+        "onboard_time": 1720005138,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31609,
+        "num": 259672,
+        "word": "钟楚曦状态绝了",
+        "onboard_time": 1720004958,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612429,
+        "num": 256845,
+        "word": "中金离世员工年仅30岁",
+        "onboard_time": 1719996559,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761864,
+        "num": 253922,
+        "word": "李雪琴 游泳证",
+        "onboard_time": 1719994397,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531928,
+        "num": 251818,
+        "word": "印度男女偷情被当众处私刑",
+        "onboard_time": 1719995539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317008,
+        "num": 249299,
+        "word": "每天1杯豆浆身体会发生什么变化",
+        "onboard_time": 1719995778,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 247738,
+        "num": 247738,
+        "word": "刘亦菲小魔女妆造",
+        "onboard_time": 1719998718,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139040,
+        "num": 236317,
+        "word": "微山湖有自己的交响乐团",
+        "onboard_time": 1720005978,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 341178,
+        "num": 235514,
+        "word": "李雪琴同届考生发文",
+        "onboard_time": 1719989839,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232931,
+        "num": 232931,
+        "word": "气血不足的人夏天是真难受",
+        "onboard_time": 1720005378,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228381,
+        "num": 228381,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1720003938,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217312,
+        "num": 217312,
+        "word": "工作能力差的人都有这5个特征",
+        "onboard_time": 1719991877,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201756,
+        "num": 201756,
+        "word": "河南南阳一胡辣汤店疑突发爆炸",
+        "onboard_time": 1720003518,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191950,
+        "num": 191950,
+        "word": "槿汐苏培盛牵手同框",
+        "onboard_time": 1720004598,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175186,
+        "num": 175186,
+        "word": "沈梦辰 正常撒娇而已",
+        "onboard_time": 1719997880,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23191,
+        "num": 160641,
+        "word": "汽车落水村民砸窗勇救1家4口",
+        "onboard_time": 1720002799,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 153164,
+        "num": 153164,
+        "word": "薛之谦官宣3地18场",
+        "onboard_time": 1719988878,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152118,
+        "num": 152118,
+        "word": "长珩仙君的时候没上桌吗",
+        "onboard_time": 1720004958,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147276,
+        "num": 147276,
+        "word": "陈乔恩头顶簪花",
+        "onboard_time": 1720005557,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140175,
+        "num": 140175,
+        "word": "为什么面包越卖越贵",
+        "onboard_time": 1720002978,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140033,
+        "num": 140033,
+        "word": "岳阳失联干部被找到已无生命体征",
+        "onboard_time": 1720002137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138648,
+        "num": 138648,
+        "word": "张凌赫胖过但没丑过",
+        "onboard_time": 1719995897,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137636,
+        "num": 137636,
+        "word": "浪姐导演小心点迪士尼",
+        "onboard_time": 1720001659,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35250,
+        "num": 135705,
+        "word": "世界之外校园怪谈",
+        "onboard_time": 1720001204,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134067,
+        "num": 134067,
+        "word": "超喜欢干干净净的朋友圈",
+        "onboard_time": 1719990739,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "aespa新歌",
+        "onboard_time": 1720002619,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132656,
+        "num": 131547,
+        "word": "张凌赫 190",
+        "onboard_time": 1719987620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130714,
+        "num": 130714,
+        "word": "薛之谦三小时演唱会在雨里唱了两小时",
+        "onboard_time": 1720004419,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128340,
+        "num": 128340,
+        "word": "小猫有事哒有事哒",
+        "onboard_time": 1719999197,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120208,
+        "num": 120208,
+        "word": "认真干活的任嘉伦",
+        "onboard_time": 1720006098,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56917,
+        "num": 115270,
+        "word": "致敬出海路上坚持奋斗的中国品牌",
+        "onboard_time": 1720006398,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113148,
+        "num": 113148,
+        "word": "官方回应南阳一餐馆发生爆炸",
+        "onboard_time": 1720005738,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 112475,
+        "num": 112475,
+        "word": "发现身边真的好多人在重启人生",
+        "onboard_time": 1720001718,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些外国孩子为习主席唱起中文歌#"
+    }
+  }
+}
