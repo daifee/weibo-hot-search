@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720046147678,
+  "endTime": 1720048909154,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694770,
+      "num": 91670,
+      "word": "长期午睡的人会更长寿吗",
+      "onboard_time": 1720045032,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 683444,
       "num": 152212,
       "word": "坚持裸睡1年身体会有什么变化",
       "onboard_time": 1720012758,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 672678,
+      "num": 672678,
+      "word": "年轻人凌晨三点在迪士尼排长队",
+      "onboard_time": 1720029852,
+      "rank": 16,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 646061,
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422936,
+      "num": 91606,
+      "word": "夏天不建议女生买的衣服",
+      "onboard_time": 1720047975,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 402581,
       "num": 402581,
       "word": "杜海涛曾为保护素人叫停节目",
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 402307,
-      "num": 143173,
+      "num": 315533,
       "word": "北大博导否认地铁收徒看书小孩哥",
       "onboard_time": 1720023616,
       "rank": 42,
@@ -81,14 +105,6 @@
       "onboard_time": 1720022597,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 345515,
-      "num": 345515,
-      "word": "年轻人凌晨三点在迪士尼排长队",
-      "onboard_time": 1720029852,
-      "rank": 16,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 345033,
@@ -139,6 +155,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209408,
+      "num": 91000,
+      "word": "减肥跟风吃了一个月牛肉掉了21斤",
+      "onboard_time": 1720048274,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 206003,
+      "num": 206003,
+      "word": "谢霆锋听到粉丝说王菲的反应",
+      "onboard_time": 1720012579,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205319,
       "num": 205319,
       "word": "女子吃1斤见手青后看见一屋人",
@@ -164,11 +196,19 @@
     },
     {
       "raw_hot": 179743,
-      "num": 179743,
+      "num": 192317,
       "word": "日本男子新加坡性侵女学生被判鞭刑",
       "onboard_time": 1720005138,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178067,
+      "num": 178067,
+      "word": "郑州文旅回应涉林俊杰演唱会争议内容",
+      "onboard_time": 1720017920,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 157403,
@@ -193,6 +233,14 @@
       "onboard_time": 1720003638,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141644,
+      "num": 124434,
+      "word": "女儿获第一笔工资给爸妈分红6666元",
+      "onboard_time": 1720047794,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139089,
@@ -243,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122369,
-      "num": 53286,
-      "word": "长期午睡的人会更长寿吗",
-      "onboard_time": 1720045032,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -259,20 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116555,
-      "num": 116555,
-      "word": "谢霆锋听到粉丝说王菲的反应",
-      "onboard_time": 1720012579,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 112277,
-      "num": 112277,
-      "word": "郑州文旅回应涉林俊杰演唱会争议内容",
-      "onboard_time": 1720017920,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "银河证券回应员工跳楼传闻",
+      "onboard_time": 1720016901,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101862,
@@ -323,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91843,
+      "num": 91843,
+      "word": "下半年水瓶座苦尽甘来",
+      "onboard_time": 1720048153,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90331,
       "num": 90331,
       "word": "环法",
@@ -363,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81376,
+      "num": 138552,
+      "word": "萌兰花花和叶今天生日",
+      "onboard_time": 1720047915,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80895,
       "num": 80895,
       "word": "唐尚珺今年高考志愿全部服从调剂",
@@ -371,8 +419,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78736,
+      "num": 78736,
+      "word": "湖南常德一家四口被杀害家属发声",
+      "onboard_time": 1720048396,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 76928,
-      "num": 46297,
+      "num": 48465,
       "word": "失眠是因为身体缺少维生素",
       "onboard_time": 1720032911,
       "rank": 25,
@@ -403,14 +459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73600,
-      "num": 73600,
-      "word": "银河证券回应员工跳楼传闻",
-      "onboard_time": 1720016901,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73355,
       "num": 73355,
       "word": "林俊杰演唱会",
@@ -419,12 +467,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44798,
-      "num": 44798,
+      "raw_hot": 67518,
+      "num": 67518,
+      "word": "李一桐横店近视眼",
+      "onboard_time": 1720048575,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54903,
+      "num": 54903,
       "word": "肾虚不虚看这5个地方就知道",
       "onboard_time": 1720026674,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49556,
+      "num": 49556,
+      "word": "HR很晚回消息真不一定是加班",
+      "onboard_time": 1720047613,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 46528,
+      "num": 46528,
+      "word": "苏新皓 三公",
+      "onboard_time": 1720048756,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45186,
+      "num": 45186,
+      "word": "原来点外卖看太多次地图骑手知道的",
+      "onboard_time": 1720033271,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 41525,
@@ -449,14 +529,6 @@
       "onboard_time": 1720014980,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28920,
-      "num": 26000,
-      "word": "原来点外卖看太多次地图骑手知道的",
-      "onboard_time": 1720033271,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 20533,
@@ -491,8 +563,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 3636,
-      "num": 137562,
+      "raw_hot": 6832,
+      "num": 349299,
       "word": "哈萨克斯坦小女孩和康辉聊天好丝滑",
       "onboard_time": 1719937097,
       "rank": 2,
