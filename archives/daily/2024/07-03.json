@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719974688477,
+  "endTime": 1719976907492,
   "band_list": [
     {
       "raw_hot": 1899690,
@@ -9,6 +9,14 @@
       "onboard_time": 1719962054,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1215561,
+      "num": 1215561,
+      "word": "我家那闺女首发阵容官宣",
+      "onboard_time": 1719974237,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1164275,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 988089,
-      "num": 322113,
+      "num": 886941,
       "word": "枪杀安倍凶犯原计划室内开枪",
       "onboard_time": 1719971478,
       "rank": 10,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773837,
+      "num": 250805,
+      "word": "发现在大厂上班真的像在上大学",
+      "onboard_time": 1719971837,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 718435,
       "num": 383437,
       "word": "金钟大老了好多",
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 683432,
-      "num": 300971,
+      "num": 379873,
       "word": "刘亦菲被认成黄圣依",
       "onboard_time": 1719971118,
       "rank": 13,
@@ -75,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613067,
+      "num": 613067,
+      "word": "新华社发的肖战王一博",
+      "onboard_time": 1719973697,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608830,
       "num": 553505,
       "word": "刘亦菲和罗晋是同学",
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 600247,
-      "num": 224203,
-      "word": "发现在大厂上班真的像在上大学",
-      "onboard_time": 1719971837,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 599539,
@@ -113,6 +129,14 @@
       "onboard_time": 1719935537,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 554473,
+      "num": 554473,
+      "word": "长相思2官宣上星",
+      "onboard_time": 1719975677,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 547008,
@@ -187,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444506,
-      "num": 342051,
-      "word": "新华社发的肖战王一博",
-      "onboard_time": 1719973697,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 459676,
+      "num": 370965,
+      "word": "Jennie新歌对嘴cha",
+      "onboard_time": 1719974957,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 443910,
@@ -209,6 +233,14 @@
       "onboard_time": 1719963556,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425679,
+      "num": 365720,
+      "word": "杜海涛问沈梦辰他给金靖拍的好看吗",
+      "onboard_time": 1719974897,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 417850,
@@ -235,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391015,
+      "num": 391015,
+      "word": "俄罗斯副防长被解职",
+      "onboard_time": 1719974356,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 388498,
       "num": 388498,
       "word": "A股",
@@ -243,8 +283,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 362254,
+      "num": 362254,
+      "word": "张志杰姐姐要追究到底",
+      "onboard_time": 1719976338,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355650,
-      "num": 237698,
+      "num": 242602,
       "word": "倪妮跟刘亦菲撒娇",
       "onboard_time": 1719974657,
       "rank": 17,
@@ -265,14 +313,6 @@
       "onboard_time": 1719916099,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 323751,
-      "num": 196757,
-      "word": "我家那闺女首发阵容官宣",
-      "onboard_time": 1719974237,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 319302,
@@ -297,6 +337,14 @@
       "onboard_time": 1719962235,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300545,
+      "num": 237501,
+      "word": "惊天魔盗团3北美定档",
+      "onboard_time": 1719975197,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 280007,
@@ -331,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235612,
+      "num": 235612,
+      "word": "为什么有的人睡觉爱举双手",
+      "onboard_time": 1719975617,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 234893,
       "num": 234893,
       "word": "戚薇李承铉真夫妻杀回来了",
@@ -347,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220861,
+      "num": 220861,
+      "word": "菲律宾",
+      "onboard_time": 1719972677,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -361,6 +425,14 @@
       "onboard_time": 1719972198,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208639,
+      "num": 208639,
+      "word": "王心凌 哇塞又挖了一个gala",
+      "onboard_time": 1719975016,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 207525,
@@ -451,6 +523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184848,
+      "num": 184848,
+      "word": "中餐厅汉服游园会路透",
+      "onboard_time": 1719975378,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180558,
+      "num": 180558,
+      "word": "叶舒华站姐因未修图被吐槽",
+      "onboard_time": 1719976697,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175094,
       "num": 175094,
       "word": "电影解密定档",
@@ -481,6 +569,14 @@
       "onboard_time": 1719933318,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172863,
+      "num": 172863,
+      "word": "长期吃黑米身体会有什么变化",
+      "onboard_time": 1719976577,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 169325,
@@ -515,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159554,
-      "num": 159554,
-      "word": "菲律宾",
-      "onboard_time": 1719972677,
-      "rank": 33,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 157437,
       "num": 157437,
       "word": "减脂期这六种食物一定要避雷",
@@ -545,14 +633,6 @@
       "onboard_time": 1719968118,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155888,
-      "num": 155888,
-      "word": "俄罗斯副防长被解职",
-      "onboard_time": 1719974356,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 155758,
@@ -651,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134659,
+      "num": 134659,
+      "word": "女子称交24万学带货点赞只有个位数",
+      "onboard_time": 1719976218,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133198,
       "num": 130802,
       "word": "网红乔老师疑剽窃未成年视频卖课",
@@ -675,20 +763,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129047,
+      "num": 396470,
+      "word": "中国排面雨中依旧眼神坚定身姿挺拔",
+      "onboard_time": 1719969976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123250,
+      "num": 123250,
+      "word": "巴黎奥运村7月中旬开门迎客",
+      "onboard_time": 1719974717,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122449,
+      "num": 122449,
+      "word": "唐嫣鎏金开叉裙",
+      "onboard_time": 1719976757,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120608,
+      "num": 120608,
+      "word": "电影狗阵生怕我认出来这些明星",
+      "onboard_time": 1719976038,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119647,
       "num": 119647,
       "word": "湖人多年合同签约布朗尼",
       "onboard_time": 1719965298,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114390,
-      "num": 396470,
-      "word": "中国排面雨中依旧眼神坚定身姿挺拔",
-      "onboard_time": 1719969976,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113681,
@@ -723,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109770,
+      "num": 109770,
+      "word": "2024全球emoji失宠榜单",
+      "onboard_time": 1719974536,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108888,
       "num": 108888,
       "word": "刘同 后来我还是没删这支视频",
@@ -745,14 +865,6 @@
       "onboard_time": 1719970578,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105875,
-      "num": 105875,
-      "word": "2024全球emoji失宠榜单",
-      "onboard_time": 1719974536,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 104478,
@@ -812,7 +924,7 @@
     },
     {
       "raw_hot": 92312,
-      "num": 360605,
+      "num": 732707,
       "word": "乒乓球在哈萨克斯坦有多受欢迎",
       "onboard_time": 1719965118,
       "rank": 9,
@@ -849,6 +961,14 @@
       "onboard_time": 1719940693,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83275,
+      "num": 206407,
+      "word": "23岁女儿参加53岁妈妈毕业典礼",
+      "onboard_time": 1719976878,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 83254,
@@ -1003,12 +1123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46640,
+      "num": 568788,
+      "word": "我国建成全球规模最大航海保障体系",
+      "onboard_time": 1719975617,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44332,
       "num": 44332,
       "word": "军校毕业大考也太硬核了",
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 44041,
+      "num": 255958,
+      "word": "谁懂这个健康大使团的含金量",
+      "onboard_time": 1719976038,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 43325,
@@ -1172,6 +1308,9 @@
     },
     {
       "word": "#习近平中亚之行这些看点值得关注#"
+    },
+    {
+      "word": "#习主席出访中亚#"
     }
   ]
 }
