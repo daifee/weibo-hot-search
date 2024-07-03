@@ -1,0 +1,410 @@
+{
+  "runTime": 1719984954484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1965176,
+        "num": 1965176,
+        "word": "炎亚纶确定获缓刑3年",
+        "onboard_time": 1719981740,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1060581,
+        "num": 1060581,
+        "word": "一所被低估的211大学",
+        "onboard_time": 1719979518,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 9827,
+        "num": 500944,
+        "word": "乒乓球在哈萨克斯坦有多受欢迎",
+        "onboard_time": 1719965118,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393713,
+        "num": 393713,
+        "word": "暑假档 提档",
+        "onboard_time": 1719979338,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371902,
+        "num": 371902,
+        "word": "直播间号称9999元可买圆明园马首",
+        "onboard_time": 1719977718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324135,
+        "num": 324135,
+        "word": "女童被救亲了一下救人男子脸颊",
+        "onboard_time": 1719965597,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50967,
+        "num": 264103,
+        "word": "你的巴太在哈萨克斯坦上线了",
+        "onboard_time": 1719979819,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384035,
+        "num": 252538,
+        "word": "被王传君狠狠狠到了",
+        "onboard_time": 1719979880,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353916,
+        "num": 251707,
+        "word": "我家那闺女首发阵容官宣",
+        "onboard_time": 1719974237,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231325,
+        "num": 231325,
+        "word": "职业院校中的小清华",
+        "onboard_time": 1719978619,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 498090,
+        "num": 230222,
+        "word": "叶舒华站姐因未修图被吐槽",
+        "onboard_time": 1719976697,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394171,
+        "num": 229785,
+        "word": "麻辣王子工厂停工",
+        "onboard_time": 1719962054,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374424,
+        "num": 227662,
+        "word": "甜馨维护贾乃亮",
+        "onboard_time": 1719962596,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370181,
+        "num": 227399,
+        "word": "为什么家里没有麻将凉席了",
+        "onboard_time": 1719983359,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327467,
+        "num": 225081,
+        "word": "巴勒斯坦男子在以监狱遭性虐待",
+        "onboard_time": 1719980359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94568,
+        "num": 224887,
+        "word": "全网寻黄金大宝剑主人",
+        "onboard_time": 1719981380,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287427,
+        "num": 223093,
+        "word": "长相思2官宣上星",
+        "onboard_time": 1719975677,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222372,
+        "num": 222372,
+        "word": "中金",
+        "onboard_time": 1719984198,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268722,
+        "num": 222019,
+        "word": "红衣相柳",
+        "onboard_time": 1719983778,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204625,
+        "num": 204625,
+        "word": "灯泡厂孙姐螺蛳粉被疑用福寿螺",
+        "onboard_time": 1719977357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189547,
+        "num": 204609,
+        "word": "23岁女儿参加53岁妈妈毕业典礼",
+        "onboard_time": 1719976878,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272305,
+        "num": 204552,
+        "word": "小螃蟹用jio抠出一室一厅后封顶",
+        "onboard_time": 1719982221,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263613,
+        "num": 204529,
+        "word": "长期吃黑米身体会有什么变化",
+        "onboard_time": 1719976577,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 260159,
+        "num": 204483,
+        "word": "网友偶遇森林北",
+        "onboard_time": 1719984798,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246631,
+        "num": 204455,
+        "word": "什么是性单恋",
+        "onboard_time": 1719982699,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236811,
+        "num": 204404,
+        "word": "娜扎出任圣罗兰中国形象大使",
+        "onboard_time": 1719984079,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 227811,
+        "num": 204355,
+        "word": "新华社发的肖战王一博",
+        "onboard_time": 1719973697,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219059,
+        "num": 204331,
+        "word": "适合在发工资这天换的头像",
+        "onboard_time": 1719983958,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215757,
+        "num": 204270,
+        "word": "发现在大厂上班真的像在上大学",
+        "onboard_time": 1719971837,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80024,
+        "num": 204235,
+        "word": "无腿男生苦练14天自豪走上毕业典礼",
+        "onboard_time": 1719984919,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210028,
+        "num": 204198,
+        "word": "五旬已婚女子同时和5名男子恋爱",
+        "onboard_time": 1719978920,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207311,
+        "num": 204171,
+        "word": "李赫宰 38岁正是长见识的年纪",
+        "onboard_time": 1719979279,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204136,
+        "num": 204136,
+        "word": "刘亦菲被认成黄圣依",
+        "onboard_time": 1719971118,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155281,
+        "num": 195439,
+        "word": "钝感力很强是一种什么体验",
+        "onboard_time": 1719982820,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195096,
+        "num": 195096,
+        "word": "度华年 男二人设",
+        "onboard_time": 1719983658,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193682,
+        "num": 193682,
+        "word": "朱旺旺综艺首秀",
+        "onboard_time": 1719983419,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188592,
+        "num": 188592,
+        "word": "ZICO教训女同学",
+        "onboard_time": 1719979940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186422,
+        "num": 186422,
+        "word": "守护甜心 亚梦小学毕业",
+        "onboard_time": 1719982459,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182959,
+        "num": 182959,
+        "word": "江西九江号召在外乡亲回乡抗洪",
+        "onboard_time": 1719982340,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171002,
+        "num": 171002,
+        "word": "为什么有的人睡觉爱举双手",
+        "onboard_time": 1719975617,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "长相思2定档",
+        "onboard_time": 1719984739,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161385,
+        "num": 161385,
+        "word": "凤凰传奇兰州演唱会抢票",
+        "onboard_time": 1719982040,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153725,
+        "num": 153725,
+        "word": "Jennie新歌对嘴cha",
+        "onboard_time": 1719974957,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151098,
+        "num": 151098,
+        "word": "一只福寿螺可含6000条寄生虫",
+        "onboard_time": 1719984498,
+        "rank": 43,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 149204,
+        "num": 149204,
+        "word": "金钟大老了好多",
+        "onboard_time": 1719969438,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149144,
+        "num": 149144,
+        "word": "市监局回应孙姐螺蛳粉被疑用福寿螺",
+        "onboard_time": 1719980660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1719971238,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137661,
+        "num": 137661,
+        "word": "C罗想踢2026世界杯",
+        "onboard_time": 1719981559,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128672,
+        "num": 128672,
+        "word": "刘亦菲的大裙摆",
+        "onboard_time": 1719982399,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128534,
+        "num": 128534,
+        "word": "于正否认王星越下部剧搭白鹿",
+        "onboard_time": 1719978619,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访中亚#"
+    }
+  }
+}

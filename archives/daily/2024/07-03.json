@@ -1,6 +1,6 @@
 {
   "startTime": 1719937555323,
-  "endTime": 1719983999699,
+  "endTime": 1719984954484,
   "band_list": [
     {
       "raw_hot": 2098035,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 393713,
+      "num": 393713,
+      "word": "暑假档 提档",
+      "onboard_time": 1719979338,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 391926,
       "num": 391926,
       "word": "爱奇艺把在线人数关了",
@@ -347,20 +355,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 375741,
-      "num": 375741,
-      "word": "暑假档 提档",
-      "onboard_time": 1719979338,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 372013,
+      "raw_hot": 384035,
       "num": 372013,
       "word": "被王传君狠狠狠到了",
       "onboard_time": 1719979880,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 370181,
+      "num": 227399,
+      "word": "为什么家里没有麻将凉席了",
+      "onboard_time": 1719983359,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 355650,
@@ -459,6 +467,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272305,
+      "num": 206427,
+      "word": "小螃蟹用jio抠出一室一厅后封顶",
+      "onboard_time": 1719982221,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268722,
+      "num": 222019,
+      "word": "红衣相柳",
+      "onboard_time": 1719983778,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268022,
       "num": 215637,
       "word": "刘亦菲唐嫣合照再加一",
@@ -483,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260159,
+      "num": 204483,
+      "word": "网友偶遇森林北",
+      "onboard_time": 1719984798,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251573,
       "num": 251573,
       "word": "甘肃163名矿工被拖欠3000万工资",
       "onboard_time": 1719939735,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246631,
+      "num": 205193,
+      "word": "什么是性单恋",
+      "onboard_time": 1719982699,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 239090,
@@ -499,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237516,
-      "num": 206427,
-      "word": "小螃蟹用jio抠出一室一厅后封顶",
-      "onboard_time": 1719982221,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 236811,
+      "num": 204404,
+      "word": "娜扎出任圣罗兰中国形象大使",
+      "onboard_time": 1719984079,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 234893,
@@ -523,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234741,
-      "num": 205193,
-      "word": "什么是性单恋",
-      "onboard_time": 1719982699,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228889,
       "num": 228889,
       "word": "于正否认王星越下部剧搭白鹿",
@@ -547,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222372,
+      "num": 222372,
+      "word": "中金",
+      "onboard_time": 1719984198,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220861,
       "num": 220861,
       "word": "菲律宾",
       "onboard_time": 1719972677,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 219059,
+      "num": 204331,
+      "word": "适合在发工资这天换的头像",
+      "onboard_time": 1719983958,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 215970,
@@ -683,12 +731,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194743,
-      "num": 194743,
-      "word": "为什么家里没有麻将凉席了",
-      "onboard_time": 1719983359,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 195096,
+      "num": 195096,
+      "word": "度华年 男二人设",
+      "onboard_time": 1719983658,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193682,
+      "num": 193682,
+      "word": "朱旺旺综艺首秀",
+      "onboard_time": 1719983419,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 192999,
@@ -707,20 +763,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189547,
+      "num": 519202,
+      "word": "23岁女儿参加53岁妈妈毕业典礼",
+      "onboard_time": 1719976878,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 189514,
       "num": 189514,
       "word": "世界之外夏夜诡叙诗",
       "onboard_time": 1719979338,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188260,
-      "num": 519202,
-      "word": "23岁女儿参加53岁妈妈毕业典礼",
-      "onboard_time": 1719976878,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187583,
@@ -755,8 +811,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181682,
-      "num": 181682,
+      "raw_hot": 182959,
+      "num": 182959,
       "word": "江西九江号召在外乡亲回乡抗洪",
       "onboard_time": 1719982340,
       "rank": 34,
@@ -811,20 +867,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168313,
+      "num": 168313,
+      "word": "长相思2定档",
+      "onboard_time": 1719984739,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166799,
       "num": 166799,
       "word": "长相思2看片会",
       "onboard_time": 1719962896,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165268,
-      "num": 165268,
-      "word": "朱旺旺综艺首秀",
-      "onboard_time": 1719983419,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 164311,
@@ -899,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155281,
+      "num": 371292,
+      "word": "钝感力很强是一种什么体验",
+      "onboard_time": 1719982820,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 155040,
       "num": 147485,
       "word": "全班都能上985老师们嘴角压不住了",
@@ -915,20 +979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154229,
-      "num": 154229,
-      "word": "红衣相柳",
-      "onboard_time": 1719983778,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151387,
       "num": 151387,
       "word": "赛力斯拟25亿收购问界商标专利",
       "onboard_time": 1719962235,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151098,
+      "num": 151098,
+      "word": "一只福寿螺可含6000条寄生虫",
+      "onboard_time": 1719984498,
+      "rank": 43,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 150809,
@@ -961,14 +1025,6 @@
       "onboard_time": 1719981559,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146891,
-      "num": 146891,
-      "word": "度华年 男二人设",
-      "onboard_time": 1719983658,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 144876,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1719976457,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131773,
-      "num": 131773,
-      "word": "适合在发工资这天换的头像",
-      "onboard_time": 1719983958,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 131261,
@@ -1235,12 +1283,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 93424,
-      "num": 371292,
-      "word": "钝感力很强是一种什么体验",
-      "onboard_time": 1719982820,
-      "rank": 9,
-      "category": "社会新闻,情感"
+      "raw_hot": 94568,
+      "num": 277139,
+      "word": "全网寻黄金大宝剑主人",
+      "onboard_time": 1719981380,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 93275,
@@ -1323,6 +1371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80024,
+      "num": 204235,
+      "word": "无腿男生苦练14天自豪走上毕业典礼",
+      "onboard_time": 1719984919,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 75589,
       "num": 82146,
       "word": "你比星光美丽热度",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1719919638,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72631,
-      "num": 277139,
-      "word": "全网寻黄金大宝剑主人",
-      "onboard_time": 1719981380,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 70740,
