@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1719999276968,
+  "endTime": 1720002143512,
   "band_list": [
     {
       "raw_hot": 7901681,
@@ -827,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 721218,
+      "num": 721218,
+      "word": "西藏文旅回复薛之谦",
+      "onboard_time": 1719998838,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 718435,
       "num": 383437,
       "word": "金钟大老了好多",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1719808042,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592115,
+      "num": 223129,
+      "word": "每天1杯豆浆身体会发生什么变化",
+      "onboard_time": 1719995778,
+      "rank": 43,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 589287,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1719877277,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 505944,
+      "num": 220302,
+      "word": "凯美瑞只卖12万了",
+      "onboard_time": 1719997280,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 503889,
@@ -1939,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419620,
-      "num": 223129,
-      "word": "每天1杯豆浆身体会发生什么变化",
-      "onboard_time": 1719995778,
-      "rank": 43,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 419264,
       "num": 273104,
       "word": "为什么有的人睡觉爱举双手",
@@ -2243,12 +2259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365621,
-      "num": 220302,
-      "word": "凯美瑞只卖12万了",
-      "onboard_time": 1719997280,
-      "rank": 27,
-      "category": "汽车"
+      "raw_hot": 364587,
+      "num": 364587,
+      "word": "刘亦菲小魔女妆造",
+      "onboard_time": 1719998718,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362424,
@@ -2521,6 +2537,14 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 316298,
+      "num": 316298,
+      "word": "A股成交额不足6000亿",
+      "onboard_time": 1719998118,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 315630,
@@ -2995,6 +3019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253665,
+      "num": 179321,
+      "word": "小猫有事哒有事哒",
+      "onboard_time": 1719999197,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253635,
       "num": 253635,
       "word": "保罗签约马刺",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1719982699,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246020,
+      "num": 156845,
+      "word": "金靖是你们play的一环吗",
+      "onboard_time": 1720001357,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 245375,
@@ -3211,14 +3251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236173,
-      "num": 236173,
-      "word": "A股成交额不足6000亿",
-      "onboard_time": 1719998118,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 235938,
       "num": 235938,
       "word": "葡萄牙3比0斯洛文尼亚",
@@ -3313,14 +3345,6 @@
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226649,
-      "num": 214026,
-      "word": "西藏文旅回复薛之谦",
-      "onboard_time": 1719998838,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 226625,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1719975016,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208483,
+      "num": 182225,
+      "word": "朋友圈反映了应届生offer的质量",
+      "onboard_time": 1719997698,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 207980,
@@ -3955,6 +3987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191158,
+      "num": 152196,
+      "word": "女子吃1斤见手青后看见一屋人",
+      "onboard_time": 1720001718,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190774,
       "num": 190774,
       "word": "张志杰离世尚未明确病因",
@@ -4219,14 +4259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182225,
-      "num": 182225,
-      "word": "朋友圈反映了应届生offer的质量",
-      "onboard_time": 1719997698,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1719997339,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178187,
+      "num": 178760,
+      "word": "韩国高中生偷拍女厕逃跑摔骨折",
+      "onboard_time": 1719998118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178159,
@@ -4563,14 +4603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167202,
-      "num": 167202,
-      "word": "刘亦菲小魔女妆造",
-      "onboard_time": 1719998718,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166799,
       "num": 166799,
       "word": "长相思2看片会",
@@ -4617,6 +4649,14 @@
       "onboard_time": 1719918618,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164462,
+      "num": 164462,
+      "word": "格局加入RNG",
+      "onboard_time": 1720000098,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 164191,
@@ -5179,6 +5219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144152,
+      "num": 144152,
+      "word": "赵露思新中式look",
+      "onboard_time": 1720000459,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144072,
       "num": 300651,
       "word": "全红婵小小巴黎拿捏",
@@ -5409,6 +5457,14 @@
       "onboard_time": 1719962296,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139241,
+      "num": 139241,
+      "word": "浪姐导演小心点迪士尼",
+      "onboard_time": 1720001659,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 139174,
@@ -5931,6 +5987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126543,
+      "num": 126543,
+      "word": "菲警方回应中国公民遭绑架遇害事件",
+      "onboard_time": 1719999978,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 125999,
       "num": 125999,
       "word": "董宇辉公司获广电节目制作许可",
@@ -5977,6 +6041,14 @@
       "onboard_time": 1719846619,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124107,
+      "num": 247882,
+      "word": "大哥救下落水小孩全程从容优雅",
+      "onboard_time": 1719999077,
+      "rank": 16,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 123432,
@@ -6211,6 +6283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115797,
+      "num": 115797,
+      "word": "默杀悬疑感",
+      "onboard_time": 1720001118,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "林青霞汤唯同框",
@@ -6337,6 +6417,14 @@
       "onboard_time": 1719831256,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111424,
+      "num": 111424,
+      "word": "京东夜",
+      "onboard_time": 1720000277,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 111183,
@@ -6507,12 +6595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106515,
-      "num": 106515,
-      "word": "小猫有事哒有事哒",
-      "onboard_time": 1719999197,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 106765,
+      "num": 106765,
+      "word": "发现身边真的好多人在重启人生",
+      "onboard_time": 1720001718,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 106456,
@@ -6689,6 +6777,14 @@
       "onboard_time": 1719933920,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100674,
+      "num": 100674,
+      "word": "周深纽约工作花絮",
+      "onboard_time": 1720002078,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100517,
@@ -7243,14 +7339,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 59601,
-      "num": 247882,
-      "word": "大哥救下落水小孩全程从容优雅",
-      "onboard_time": 1719999077,
-      "rank": 16,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 59461,
       "num": 59461,
       "word": "先别管猫了快去救车厘子",
@@ -7547,20 +7635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36513,
-      "num": 178760,
-      "word": "韩国高中生偷拍女厕逃跑摔骨折",
-      "onboard_time": 1719998118,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36396,
       "num": 357134,
       "word": "香港欢迎大熊猫来港",
       "onboard_time": 1719816557,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36070,
+      "num": 202410,
+      "word": "这场盛大的告别只有她留在了原地",
+      "onboard_time": 1720000938,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 35598,
@@ -7753,6 +7841,14 @@
       "onboard_time": 1719942792,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25940,
+      "num": 145478,
+      "word": "世界之外校园怪谈",
+      "onboard_time": 1720001204,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 25550,
@@ -8048,6 +8144,9 @@
     },
     {
       "word": "#习主席对哈萨克斯坦进行国事访问#"
+    },
+    {
+      "word": "#习近平中亚之行#"
     }
   ]
 }
