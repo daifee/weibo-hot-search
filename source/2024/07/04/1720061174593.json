@@ -1,0 +1,410 @@
+{
+  "runTime": 1720061174593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200125,
+        "num": 1200125,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1008707,
+        "num": 1008707,
+        "word": "上海迪士尼回应暑期门票飙至719元",
+        "onboard_time": 1720056139,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27266,
+        "num": 770078,
+        "word": "中哈两位音乐家的跨国友情",
+        "onboard_time": 1720014258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687799,
+        "num": 687799,
+        "word": "医院回应徒步女主播路边直播被车撞",
+        "onboard_time": 1720057756,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475778,
+        "num": 475778,
+        "word": "Miss回应团队背刺郭碧婷",
+        "onboard_time": 1720049597,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417484,
+        "num": 417484,
+        "word": "谭爷爷为花花和叶做生日蛋糕",
+        "onboard_time": 1720053557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403406,
+        "num": 403406,
+        "word": "萌兰9岁生日快乐",
+        "onboard_time": 1720049116,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394896,
+        "num": 394896,
+        "word": "大三女生2次捐献救同一位小女孩",
+        "onboard_time": 1720054757,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387478,
+        "num": 387478,
+        "word": "绝区零 开门啊",
+        "onboard_time": 1720051939,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120425,
+        "num": 377039,
+        "word": "全场球迷高呼谢谢阿姨",
+        "onboard_time": 1720060636,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539756,
+        "num": 377025,
+        "word": "小米之家 雪糕",
+        "onboard_time": 1720060277,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 376247,
+        "num": 376247,
+        "word": "谭松韵扛剧能力",
+        "onboard_time": 1720055476,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354220,
+        "num": 354220,
+        "word": "敖子逸 小鬼",
+        "onboard_time": 1720050257,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330627,
+        "num": 330627,
+        "word": "萌兰花花和叶今天生日",
+        "onboard_time": 1720047915,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308844,
+        "num": 308844,
+        "word": "绝区零开服",
+        "onboard_time": 1720053857,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301934,
+        "num": 301934,
+        "word": "刘亦菲实绩",
+        "onboard_time": 1720049956,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300919,
+        "num": 300919,
+        "word": "绝区零 抢uid",
+        "onboard_time": 1720054039,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289224,
+        "num": 289224,
+        "word": "韩国高中盯上中国生源",
+        "onboard_time": 1720060695,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284427,
+        "num": 284427,
+        "word": "以宣布没收约12平方公里巴土地",
+        "onboard_time": 1720051337,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243111,
+        "num": 243111,
+        "word": "首个早上提档晚上撤档的电影",
+        "onboard_time": 1720049298,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467237,
+        "num": 242875,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 363634,
+        "num": 242373,
+        "word": "减肥跟风吃了一个月牛肉掉了21斤",
+        "onboard_time": 1720048274,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241631,
+        "num": 241631,
+        "word": "小鬼 胜负欲",
+        "onboard_time": 1720055418,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1316252,
+        "num": 240744,
+        "word": "中金员工人均月薪降至3.5万元",
+        "onboard_time": 1720051157,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228652,
+        "num": 228652,
+        "word": "男子抱5个月女儿欲跳楼轻生",
+        "onboard_time": 1720060277,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227653,
+        "num": 227653,
+        "word": "美籍华人在菲律宾遇害朋友发声",
+        "onboard_time": 1720059677,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220662,
+        "num": 220662,
+        "word": "第一次见古装剧女主是外科圣手的",
+        "onboard_time": 1720058476,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216958,
+        "num": 216958,
+        "word": "乌鲁木齐发生交通事故致4死1伤",
+        "onboard_time": 1720058717,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213784,
+        "num": 213784,
+        "word": "气血不足的人常做的8个坏习惯",
+        "onboard_time": 1720055957,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201520,
+        "num": 201520,
+        "word": "长相思 预约",
+        "onboard_time": 1720060758,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "年轻人凌晨三点在迪士尼排长队",
+        "onboard_time": 1720029852,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 182566,
+        "num": 182566,
+        "word": "女儿获第一笔工资给爸妈分红6666元",
+        "onboard_time": 1720047794,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45389,
+        "num": 182182,
+        "word": "米哈游你果然背刺我了",
+        "onboard_time": 1720060517,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181831,
+        "num": 181831,
+        "word": "父母叠床单时女儿想荡秋千",
+        "onboard_time": 1720057457,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174508,
+        "num": 174508,
+        "word": "TXT澳门演唱会抢票",
+        "onboard_time": 1720059316,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162757,
+        "num": 162757,
+        "word": "医院通报医生传播患者麻醉裸照",
+        "onboard_time": 1720018341,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 145654,
+        "word": "斗鱼罕见大手笔分红",
+        "onboard_time": 1720056618,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144990,
+        "num": 144990,
+        "word": "券商人均百万年薪成过去式",
+        "onboard_time": 1720058417,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144438,
+        "num": 144438,
+        "word": "罗云熙回应粉丝喊话演唱会加场",
+        "onboard_time": 1720060097,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138737,
+        "num": 138737,
+        "word": "谢霆锋 什么时候才能停风",
+        "onboard_time": 1720057036,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15674,
+        "num": 134657,
+        "word": "长得甜关有肌肉什么事",
+        "onboard_time": 1720060036,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133389,
+        "num": 133389,
+        "word": "海警驱离日非法进入我钓鱼岛领海船只",
+        "onboard_time": 1720060695,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133213,
+        "num": 133213,
+        "word": "AI爆改还珠格格",
+        "onboard_time": 1720053678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129455,
+        "num": 129455,
+        "word": "李蠕蠕又模仿歌手了",
+        "onboard_time": 1720056857,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128818,
+        "num": 128818,
+        "word": "野孩子 撤档",
+        "onboard_time": 1720013238,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128279,
+        "num": 128279,
+        "word": "小鬼抓人和王源抓人对比",
+        "onboard_time": 1720049476,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127590,
+        "num": 127590,
+        "word": "王逗逗账号被助理偷走",
+        "onboard_time": 1720050137,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121191,
+        "num": 121191,
+        "word": "不建议大家离职的几个月份",
+        "onboard_time": 1720018459,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115853,
+        "num": 115853,
+        "word": "绝区零兑换码",
+        "onboard_time": 1720060156,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113467,
+        "num": 113467,
+        "word": "GAI不老实不放过",
+        "onboard_time": 1720061057,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见吉尔吉斯斯坦总统扎帕罗夫#"
+    }
+  }
+}

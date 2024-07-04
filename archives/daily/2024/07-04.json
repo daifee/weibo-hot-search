@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720060582403,
+  "endTime": 1720061174593,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008707,
+      "num": 1008707,
+      "word": "上海迪士尼回应暑期门票飙至719元",
+      "onboard_time": 1720056139,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 992333,
       "num": 992333,
       "word": "绝区零 开门啊",
@@ -41,14 +49,6 @@
       "onboard_time": 1720045032,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 945818,
-      "num": 945818,
-      "word": "上海迪士尼回应暑期门票飙至719元",
-      "onboard_time": 1720056139,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 781381,
@@ -73,6 +73,14 @@
       "onboard_time": 1720049597,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687799,
+      "num": 687799,
+      "word": "医院回应徒步女主播路边直播被车撞",
+      "onboard_time": 1720057756,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683444,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582580,
-      "num": 358792,
-      "word": "医院回应徒步女主播路边直播被车撞",
-      "onboard_time": 1720057756,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567470,
       "num": 162015,
       "word": "不建议大家离职的几个月份",
       "onboard_time": 1720018459,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539756,
+      "num": 377025,
+      "word": "小米之家 雪糕",
+      "onboard_time": 1720060277,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 529741,
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394896,
+      "num": 570678,
+      "word": "大三女生2次捐献救同一位小女孩",
+      "onboard_time": 1720054757,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377032,
       "num": 377032,
       "word": "首个早上提档晚上撤档的电影",
       "onboard_time": 1720049298,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376247,
+      "num": 376247,
+      "word": "谭松韵扛剧能力",
+      "onboard_time": 1720055476,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 361066,
@@ -233,14 +257,6 @@
       "onboard_time": 1720049956,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356837,
-      "num": 356837,
-      "word": "谭松韵扛剧能力",
-      "onboard_time": 1720055476,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 346685,
@@ -275,11 +291,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280861,
-      "num": 570678,
-      "word": "大三女生2次捐献救同一位小女孩",
-      "onboard_time": 1720054757,
-      "rank": 9,
+      "raw_hot": 289224,
+      "num": 289224,
+      "word": "韩国高中盯上中国生源",
+      "onboard_time": 1720060695,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -323,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228652,
+      "num": 228652,
+      "word": "男子抱5个月女儿欲跳楼轻生",
+      "onboard_time": 1720060277,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227653,
+      "num": 227653,
+      "word": "美籍华人在菲律宾遇害朋友发声",
+      "onboard_time": 1720059677,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225919,
       "num": 225919,
       "word": "气血不足的人常做的8个坏习惯",
@@ -339,8 +371,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220172,
-      "num": 220172,
+      "raw_hot": 220662,
+      "num": 220662,
       "word": "第一次见古装剧女主是外科圣手的",
       "onboard_time": 1720058476,
       "rank": 23,
@@ -360,14 +392,6 @@
       "word": "乌鲁木齐发生交通事故致4死1伤",
       "onboard_time": 1720058717,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215895,
-      "num": 215895,
-      "word": "美籍华人在菲律宾遇害朋友发声",
-      "onboard_time": 1720059677,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -403,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205268,
-      "num": 187647,
-      "word": "小米之家 雪糕",
-      "onboard_time": 1720060277,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 201520,
+      "num": 201520,
+      "word": "长相思 预约",
+      "onboard_time": 1720060758,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200739,
@@ -563,16 +587,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 143059,
-      "num": 143059,
-      "word": "男子抱5个月女儿欲跳楼轻生",
-      "onboard_time": 1720060277,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142088,
-      "num": 142088,
+      "raw_hot": 144438,
+      "num": 144438,
       "word": "罗云熙回应粉丝喊话演唱会加场",
       "onboard_time": 1720060097,
       "rank": 39,
@@ -617,6 +633,14 @@
       "onboard_time": 1720054997,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133389,
+      "num": 133389,
+      "word": "海警驱离日非法进入我钓鱼岛领海船只",
+      "onboard_time": 1720060695,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131955,
@@ -707,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120425,
+      "num": 377039,
+      "word": "全场球迷高呼谢谢阿姨",
+      "onboard_time": 1720060636,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -721,6 +753,14 @@
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113467,
+      "num": 113467,
+      "word": "GAI不老实不放过",
+      "onboard_time": 1720061057,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113016,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45389,
+      "num": 182182,
+      "word": "米哈游你果然背刺我了",
+      "onboard_time": 1720060517,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45186,
       "num": 45186,
       "word": "原来点外卖看太多次地图骑手知道的",
@@ -995,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30645,
-      "num": 114387,
-      "word": "米哈游你果然背刺我了",
-      "onboard_time": 1720060517,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 29400,
       "num": 587010,
       "word": "雪龙2号和极地号硬核同框",
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15674,
+      "num": 142285,
+      "word": "长得甜关有肌肉什么事",
+      "onboard_time": 1720060036,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15634,
       "num": 178290,
       "word": "外国女子突发疾病还好遇上中国医生",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1720036391,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10318,
-      "num": 142285,
-      "word": "长得甜关有肌肉什么事",
-      "onboard_time": 1720060036,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 8004,
