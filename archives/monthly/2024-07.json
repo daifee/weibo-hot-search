@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720085017877,
+  "endTime": 1720085721966,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1499849,
-      "num": 212994,
+      "num": 229100,
       "word": "中金坠楼女孩",
       "onboard_time": 1720082477,
       "rank": 21,
@@ -1227,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680187,
+      "num": 332734,
+      "word": "刘晓庆惠英红 羊胎素2.0",
+      "onboard_time": 1720083740,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 670046,
       "num": 670046,
       "word": "苗苗欠下的手工皂还上了",
@@ -1387,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629409,
+      "num": 629409,
+      "word": "吃玉米也是一件很私密的事",
+      "onboard_time": 1720082657,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 625824,
       "num": 418295,
       "word": "张子墨 跑路",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1719803238,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 617173,
-      "num": 617173,
-      "word": "吃玉米也是一件很私密的事",
-      "onboard_time": 1720082657,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 615093,
@@ -1819,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534543,
-      "num": 332734,
-      "word": "刘晓庆惠英红 羊胎素2.0",
-      "onboard_time": 1720083740,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 533539,
       "num": 533539,
       "word": "爸爸把女儿第一次上学拍成了纪录片",
@@ -2059,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 500404,
+      "num": 500404,
+      "word": "5个月内1200万老外来中国打卡",
+      "onboard_time": 1720082358,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499848,
       "num": 499848,
       "word": "敖子逸 小鬼",
@@ -2139,12 +2147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 488641,
-      "num": 488641,
-      "word": "5个月内1200万老外来中国打卡",
-      "onboard_time": 1720082358,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 489101,
+      "num": 328180,
+      "word": "俄航天局局长称美国登月为真",
+      "onboard_time": 1720083498,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 487839,
@@ -3323,14 +3331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328180,
-      "num": 328180,
-      "word": "俄航天局局长称美国登月为真",
-      "onboard_time": 1720083498,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 328167,
       "num": 328167,
       "word": "辛巴 初瑞雪",
@@ -3811,6 +3811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276138,
+      "num": 276138,
+      "word": "他被称为最帅院士却不爱谈颜值",
+      "onboard_time": 1720081278,
+      "rank": 44,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 276100,
       "num": 276100,
       "word": "月入过万你还会考公考研吗",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1720014980,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265490,
+      "num": 265490,
+      "word": "胡锡进今天跌了5452元",
+      "onboard_time": 1720082657,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 264919,
@@ -4323,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229907,
+      "num": 229907,
+      "word": "合肥一男子商场坠楼不幸身亡",
+      "onboard_time": 1720083797,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 229303,
       "num": 229303,
       "word": "叶十七涂山璟上线",
@@ -4345,6 +4369,14 @@
       "onboard_time": 1719978619,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228502,
+      "num": 228502,
+      "word": "蔡文静给穿戴甲买公寓",
+      "onboard_time": 1720085179,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 228165,
@@ -4449,14 +4481,6 @@
       "onboard_time": 1720061957,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221514,
-      "num": 221514,
-      "word": "胡锡进今天跌了5452元",
-      "onboard_time": 1720082657,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 221333,
@@ -4601,14 +4625,6 @@
       "onboard_time": 1719972198,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214840,
-      "num": 214840,
-      "word": "他被称为最帅院士却不爱谈颜值",
-      "onboard_time": 1720081278,
-      "rank": 44,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 214690,
@@ -4769,6 +4785,14 @@
       "onboard_time": 1719977058,
       "rank": 29,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 206875,
+      "num": 206875,
+      "word": "卢昱晓上的是亲子综艺吧",
+      "onboard_time": 1720085179,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 206718,
@@ -5075,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198506,
+      "num": 198506,
+      "word": "小水小九分手",
+      "onboard_time": 1720085658,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198459,
       "num": 242371,
       "word": "市监局回应孙姐螺蛳粉被疑用福寿螺",
@@ -5185,14 +5217,6 @@
       "onboard_time": 1719991698,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195490,
-      "num": 152279,
-      "word": "合肥一男子商场坠楼不幸身亡",
-      "onboard_time": 1720083797,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 195466,
@@ -5641,6 +5665,14 @@
       "onboard_time": 1719798738,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180791,
+      "num": 180791,
+      "word": "city不city博主想去贵州country",
+      "onboard_time": 1720082959,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180661,
@@ -6707,14 +6739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151325,
-      "num": 151325,
-      "word": "city不city博主想去贵州country",
-      "onboard_time": 1720082959,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151300,
       "num": 151300,
       "word": "新赛道又给深圳卫健委闯进去了",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1720057036,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148502,
+      "num": 148502,
+      "word": "骂领导的信息不小心发给领导了",
+      "onboard_time": 1720085537,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 147963,
@@ -8187,6 +8219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121204,
+      "num": 121204,
+      "word": "湘军哭了",
+      "onboard_time": 1720085477,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "第五人格",
@@ -8977,6 +9017,14 @@
       "onboard_time": 1719933920,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100563,
+      "num": 100563,
+      "word": "入职一年后的状态才是最解压的",
+      "onboard_time": 1720085658,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 100517,
@@ -9835,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51431,
+      "num": 290507,
+      "word": "南京这水晶天city不city",
+      "onboard_time": 1720084998,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48860,
       "num": 281650,
       "word": "我们一起去看海",
@@ -9865,14 +9921,6 @@
       "onboard_time": 1719808402,
       "rank": 16,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 48311,
-      "num": 155294,
-      "word": "南京这水晶天city不city",
-      "onboard_time": 1720084998,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47904,
@@ -10073,6 +10121,14 @@
       "onboard_time": 1719911058,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39630,
+      "num": 113061,
+      "word": "掌管反差萌的神",
+      "onboard_time": 1720085238,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 39563,
