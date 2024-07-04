@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720089349311,
+  "endTime": 1720092047659,
   "band_list": [
     {
       "raw_hot": 1955779,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906387,
+      "num": 906387,
+      "word": "保时捷发霉车主自嘲不想要了",
+      "onboard_time": 1720086019,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902539,
       "num": 902539,
       "word": "外交部回应city不city走红",
@@ -153,14 +161,6 @@
       "onboard_time": 1720072998,
       "rank": 6,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 872896,
-      "num": 404025,
-      "word": "保时捷发霉车主自嘲不想要了",
-      "onboard_time": 1720086019,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 854695,
@@ -185,6 +185,14 @@
       "onboard_time": 1720064297,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800234,
+      "num": 282953,
+      "word": "陆毅小女儿被曝攻击他人长相",
+      "onboard_time": 1720091478,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 781381,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593012,
+      "num": 457140,
+      "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+      "onboard_time": 1720086857,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577438,
       "num": 228357,
       "word": "均价一天一万元的月子中心宣布将上市",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 549131,
-      "num": 409168,
+      "num": 494465,
       "word": "她的小梨涡 选角",
       "onboard_time": 1720087578,
       "rank": 14,
@@ -539,6 +555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 455282,
+      "num": 455282,
+      "word": "江西银行",
+      "onboard_time": 1720087217,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452098,
       "num": 452098,
       "word": "绝区零 无聊",
@@ -603,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409722,
-      "num": 409722,
-      "word": "江西银行",
-      "onboard_time": 1720087217,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 408296,
+      "num": 271629,
+      "word": "研究生赚钱一定要学会吃身份红利",
+      "onboard_time": 1720086678,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 402581,
@@ -617,6 +641,14 @@
       "onboard_time": 1720012219,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402318,
+      "num": 402318,
+      "word": "公安机关已调查涉江西银行不实信息",
+      "onboard_time": 1720088057,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402307,
@@ -771,14 +803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 317042,
-      "num": 317042,
-      "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
-      "onboard_time": 1720086857,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314683,
       "num": 169888,
       "word": "合肥之心城",
@@ -817,14 +841,6 @@
       "onboard_time": 1720081278,
       "rank": 44,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 271629,
-      "num": 271629,
-      "word": "研究生赚钱一定要学会吃身份红利",
-      "onboard_time": 1720086678,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 265490,
@@ -867,12 +883,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 256546,
+      "num": 256546,
+      "word": "小九哭了",
+      "onboard_time": 1720090937,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254850,
       "num": 254850,
       "word": "裴文宣 恋爱脑",
       "onboard_time": 1720062436,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247224,
+      "num": 247224,
+      "word": "张钧甯42岁状态",
+      "onboard_time": 1720088239,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 244982,
@@ -923,6 +955,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 226111,
+      "num": 226111,
+      "word": "苏炳添缺席巴黎奥运会",
+      "onboard_time": 1720091239,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225919,
       "num": 225919,
       "word": "气血不足的人常做的8个坏习惯",
@@ -936,14 +976,6 @@
       "word": "印度男女偷情被当众处私刑",
       "onboard_time": 1719995539,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222823,
-      "num": 222823,
-      "word": "公安机关已调查涉江西银行不实信息",
-      "onboard_time": 1720088057,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -987,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216435,
-      "num": 216435,
-      "word": "张钧甯42岁状态",
-      "onboard_time": 1720088239,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 215773,
+      "num": 206782,
+      "word": "迪丽热巴穿了周柯宇外套",
+      "onboard_time": 1720091298,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215619,
@@ -1099,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199021,
+      "num": 199021,
+      "word": "因为丑被浪费的蔬菜",
+      "onboard_time": 1720090698,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 198697,
       "num": 198697,
       "word": "萌兰和花和叶表情包九宫格",
@@ -1120,6 +1160,22 @@
       "word": "中金称网传员工跳楼系谣言",
       "onboard_time": 1720010838,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197063,
+      "num": 176651,
+      "word": "菲方向中国索赔撞船损失100万美元",
+      "onboard_time": 1720091239,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196333,
+      "num": 196333,
+      "word": "德国离婚数量降至新低",
+      "onboard_time": 1720086978,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "秦彻建模",
+      "onboard_time": 1720091239,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175745,
       "num": 376576,
       "word": "放弃普高读职校会后悔吗",
@@ -1263,14 +1327,6 @@
       "num": 175731,
       "word": "衡水两校复读班招生收款方为传媒公司",
       "onboard_time": 1720052778,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174930,
-      "num": 174930,
-      "word": "德国离婚数量降至新低",
-      "onboard_time": 1720086978,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -1651,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140247,
+      "num": 140247,
+      "word": "天官赐福 泰版彩图",
+      "onboard_time": 1720091537,
+      "rank": 35,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 139089,
       "num": 139089,
       "word": "气血不足的人夏天是真难受",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1720072638,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136527,
+      "num": 136527,
+      "word": "郭碧婷跳舞",
+      "onboard_time": 1720090218,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 136427,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1720087100,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119611,
+      "num": 118613,
+      "word": "黄明昊36小时没睡了",
+      "onboard_time": 1720091239,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 119249,
@@ -2219,6 +2299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78460,
+      "num": 285296,
+      "word": "18次夺冠后邓亚萍做出人生新选择",
+      "onboard_time": 1720090576,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76928,
       "num": 48465,
       "word": "失眠是因为身体缺少维生素",
@@ -2419,6 +2507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34375,
+      "num": 176071,
+      "word": "更适合i人体质的旅游打卡",
+      "onboard_time": 1720088599,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30213,
       "num": 406242,
       "word": "MBTI测试忽i忽e是怎么回事",
@@ -2451,12 +2547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21335,
-      "num": 176071,
-      "word": "更适合i人体质的旅游打卡",
-      "onboard_time": 1720088599,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 25805,
+      "num": 457961,
+      "word": "四个关键词感受中哈深情厚谊",
+      "onboard_time": 1720091177,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23898,
+      "num": 244755,
+      "word": "艾莲鲨疯了",
+      "onboard_time": 1720091117,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 20533,
