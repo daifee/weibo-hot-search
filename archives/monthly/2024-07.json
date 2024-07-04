@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720107284420,
+  "endTime": 1720110221737,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082455,
+      "num": 363454,
+      "word": "被撕票中企高管最后语音曝光",
+      "onboard_time": 1720103840,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1071709,
       "num": 1071709,
       "word": "第一次见男二不爱女主爱发疯的",
@@ -585,14 +593,6 @@
       "onboard_time": 1719927679,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056160,
-      "num": 363454,
-      "word": "被撕票中企高管最后语音曝光",
-      "onboard_time": 1720103840,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1051660,
@@ -2147,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513467,
+      "num": 263415,
+      "word": "菲律宾",
+      "onboard_time": 1719814819,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 513332,
       "num": 513332,
       "word": "1997年7月1日0时0分0秒",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1720073898,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447313,
+      "num": 447313,
+      "word": "电竞世界杯BLG对战T1",
+      "onboard_time": 1720106420,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 446818,
@@ -4123,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282530,
+      "num": 282530,
+      "word": "韩语专业生就业方向",
+      "onboard_time": 1720105640,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -4289,14 +4313,6 @@
       "onboard_time": 1719758959,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 263415,
-      "num": 263415,
-      "word": "菲律宾",
-      "onboard_time": 1719814819,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 263399,
@@ -5091,14 +5107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212185,
-      "num": 212185,
-      "word": "韩语专业生就业方向",
-      "onboard_time": 1720105640,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -5233,14 +5241,6 @@
       "onboard_time": 1719823758,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205651,
-      "num": 205651,
-      "word": "电竞世界杯BLG对战T1",
-      "onboard_time": 1720106420,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 205431,
@@ -6017,6 +6017,14 @@
       "onboard_time": 1719896062,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185513,
+      "num": 185513,
+      "word": "那英 如果你也听说",
+      "onboard_time": 1720106240,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 185129,
@@ -7081,14 +7089,6 @@
       "onboard_time": 1720081578,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156145,
-      "num": 156145,
-      "word": "那英 如果你也听说",
-      "onboard_time": 1720106240,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 156112,
@@ -9419,6 +9419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112659,
+      "num": 112659,
+      "word": "林一晚安大小姐 国标味",
+      "onboard_time": 1720109718,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112615,
       "num": 112615,
       "word": "猩猩都比我会拍照",
@@ -9921,6 +9929,14 @@
       "onboard_time": 1719938835,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99522,
+      "num": 99522,
+      "word": "老师我们家Henry怎么了",
+      "onboard_time": 1720107978,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 98591,
@@ -11515,6 +11531,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 23109,
+      "num": 210219,
+      "word": "萌兰出演MV男主角",
+      "onboard_time": 1720108578,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22379,
       "num": 30453,
       "word": "薛之谦演唱会完整互动",
@@ -11837,6 +11861,9 @@
     },
     {
       "word": "#习近平会见联合国秘书长#"
+    },
+    {
+      "word": "#携手构建更加美好的上合组织家园#"
     }
   ]
 }
