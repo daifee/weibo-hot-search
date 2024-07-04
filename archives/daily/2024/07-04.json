@@ -1,7 +1,15 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720082258243,
+  "endTime": 1720085017877,
   "band_list": [
+    {
+      "raw_hot": 1955779,
+      "num": 366702,
+      "word": "中金坠楼女孩 人生曲线",
+      "onboard_time": 1720080378,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1850589,
       "num": 1850589,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1499849,
+      "num": 212994,
+      "word": "中金坠楼女孩",
+      "onboard_time": 1720082477,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1434829,
       "num": 1434829,
       "word": "中金员工人均月薪降至3.5万元",
@@ -57,14 +73,6 @@
       "onboard_time": 1720078037,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1275605,
-      "num": 366702,
-      "word": "中金坠楼女孩 人生曲线",
-      "onboard_time": 1720080378,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1051660,
@@ -121,6 +129,14 @@
       "onboard_time": 1720066579,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 902539,
+      "num": 902539,
+      "word": "外交部回应city不city走红",
+      "onboard_time": 1720080378,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 876563,
@@ -195,14 +211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 742308,
-      "num": 338524,
-      "word": "外交部回应city不city走红",
-      "onboard_time": 1720080378,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 720534,
       "num": 720534,
       "word": "怀疑乌尔善用了3D打印技术",
@@ -259,20 +267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 662208,
+      "num": 351623,
+      "word": "男子音乐节脱裤猥亵身前女子被拘",
+      "onboard_time": 1720080078,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 657892,
       "num": 657892,
       "word": "以宣布没收约12平方公里巴土地",
       "onboard_time": 1720051337,
       "rank": 6,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 655363,
-      "num": 351623,
-      "word": "男子音乐节脱裤猥亵身前女子被拘",
-      "onboard_time": 1720080078,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 650926,
@@ -305,6 +313,14 @@
       "onboard_time": 1720071739,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 617173,
+      "num": 617173,
+      "word": "吃玉米也是一件很私密的事",
+      "onboard_time": 1720082657,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 615093,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534543,
+      "num": 332734,
+      "word": "刘晓庆惠英红 羊胎素2.0",
+      "onboard_time": 1720083740,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 531051,
       "num": 531051,
       "word": "日本地震",
@@ -417,6 +441,14 @@
       "onboard_time": 1720061537,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 488641,
+      "num": 488641,
+      "word": "5个月内1200万老外来中国打卡",
+      "onboard_time": 1720082358,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485026,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328180,
+      "num": 328180,
+      "word": "俄航天局局长称美国登月为真",
+      "onboard_time": 1720083498,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 328167,
       "num": 328167,
       "word": "辛巴 初瑞雪",
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 263853,
-      "num": 234955,
+      "num": 243261,
       "word": "默杀 周处除三害",
       "onboard_time": 1720080198,
       "rank": 23,
@@ -795,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221514,
+      "num": 221514,
+      "word": "胡锡进今天跌了5452元",
+      "onboard_time": 1720082657,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220662,
       "num": 220662,
       "word": "第一次见古装剧女主是外科圣手的",
@@ -841,6 +889,14 @@
       "onboard_time": 1720063397,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214840,
+      "num": 214840,
+      "word": "他被称为最帅院士却不爱谈颜值",
+      "onboard_time": 1720081278,
+      "rank": 44,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 213403,
@@ -947,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195490,
+      "num": 152279,
+      "word": "合肥一男子商场坠楼不幸身亡",
+      "onboard_time": 1720083797,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 189270,
       "num": 215231,
       "word": "97年前29岁的陈延年牺牲",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1720069878,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175745,
+      "num": 376576,
+      "word": "放弃普高读职校会后悔吗",
+      "onboard_time": 1720080017,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 175731,
@@ -1243,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151325,
+      "num": 151325,
+      "word": "city不city博主想去贵州country",
+      "onboard_time": 1720082959,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149837,
       "num": 149837,
       "word": "这竟然是刘昊然",
@@ -1323,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144348,
+      "num": 144348,
+      "word": "汪苏泷为了歌迷大交版权费",
+      "onboard_time": 1720084218,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144158,
       "num": 161094,
       "word": "大英博物馆前馆长呼吁向外国游客收费",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1720070237,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141656,
+      "num": 141656,
+      "word": "中国接任上合组织轮值主席国",
+      "onboard_time": 1720083678,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141158,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1720005378,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138751,
+      "num": 138751,
+      "word": "迪丽热巴告别开推",
+      "onboard_time": 1720084099,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 138607,
@@ -1603,28 +1707,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119600,
-      "num": 119600,
-      "word": "他被称为最帅院士却不爱谈颜值",
-      "onboard_time": 1720081278,
-      "rank": 44,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 119249,
       "num": 340106,
       "word": "陈延年离开97年了",
       "onboard_time": 1720076539,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118437,
-      "num": 376576,
-      "word": "放弃普高读职校会后悔吗",
-      "onboard_time": 1720080017,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118261,
@@ -1641,6 +1729,14 @@
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116457,
+      "num": 116457,
+      "word": "墨雨云间6月网剧TOP1",
+      "onboard_time": 1720083379,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 115865,
@@ -1820,7 +1916,7 @@
     },
     {
       "raw_hot": 88415,
-      "num": 205186,
+      "num": 222018,
       "word": "陈延年牺牲时说革命者只有站着死",
       "onboard_time": 1720078398,
       "rank": 23,
@@ -1971,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48311,
+      "num": 155294,
+      "word": "南京这水晶天city不city",
+      "onboard_time": 1720084998,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47904,
       "num": 244557,
       "word": "熊猫界有自己的I熊E熊",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1720037591,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15730,
+      "num": 152321,
+      "word": "以军行动已致加沙近3.8万人死亡",
+      "onboard_time": 1720084638,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15674,

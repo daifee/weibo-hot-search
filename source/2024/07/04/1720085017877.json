@@ -1,0 +1,410 @@
+{
+  "runTime": 1720085017877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992083,
+        "num": 992083,
+        "word": "何老师都说了别连着问成毅问题",
+        "onboard_time": 1720078037,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902539,
+        "num": 902539,
+        "word": "外交部回应city不city走红",
+        "onboard_time": 1720080378,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27862,
+        "num": 624327,
+        "word": "打卡多彩哈萨克斯坦",
+        "onboard_time": 1720065978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617173,
+        "num": 617173,
+        "word": "吃玉米也是一件很私密的事",
+        "onboard_time": 1720082657,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488641,
+        "num": 488641,
+        "word": "5个月内1200万老外来中国打卡",
+        "onboard_time": 1720082358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451113,
+        "num": 451113,
+        "word": "上海热到全国第一名",
+        "onboard_time": 1720078578,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448974,
+        "num": 448974,
+        "word": "苗苗欠下的手工皂还上了",
+        "onboard_time": 1720077498,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482525,
+        "num": 420636,
+        "word": "韩国抗议将泡菜译成中国辣白菜",
+        "onboard_time": 1720074679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370431,
+        "num": 370431,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337468,
+        "num": 337468,
+        "word": "谭松韵回归长发",
+        "onboard_time": 1720072998,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662208,
+        "num": 335528,
+        "word": "男子音乐节脱裤猥亵身前女子被拘",
+        "onboard_time": 1720080078,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 534543,
+        "num": 332734,
+        "word": "刘晓庆惠英红 羊胎素2.0",
+        "onboard_time": 1720083740,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328180,
+        "num": 328180,
+        "word": "俄航天局局长称美国登月为真",
+        "onboard_time": 1720083498,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277406,
+        "num": 277406,
+        "word": "默杀 看爽了",
+        "onboard_time": 1720063939,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263311,
+        "num": 263311,
+        "word": "李现白敬亭好像小学生",
+        "onboard_time": 1720078337,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243261,
+        "num": 243261,
+        "word": "默杀 周处除三害",
+        "onboard_time": 1720080198,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239707,
+        "num": 239707,
+        "word": "A股超4800只个股下跌",
+        "onboard_time": 1720077916,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38382,
+        "num": 222018,
+        "word": "陈延年牺牲时说革命者只有站着死",
+        "onboard_time": 1720078398,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221514,
+        "num": 221514,
+        "word": "胡锡进今天跌了5452元",
+        "onboard_time": 1720082657,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214840,
+        "num": 214840,
+        "word": "他被称为最帅院士却不爱谈颜值",
+        "onboard_time": 1720081278,
+        "rank": 19,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 1955779,
+        "num": 213129,
+        "word": "中金坠楼女孩 人生曲线",
+        "onboard_time": 1720080378,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499849,
+        "num": 212994,
+        "word": "中金坠楼女孩",
+        "onboard_time": 1720082477,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 299954,
+        "num": 212581,
+        "word": "仅4成男性为结婚买房",
+        "onboard_time": 1720071318,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211213,
+        "num": 211213,
+        "word": "沙特土豪误认选手豪赠100刀",
+        "onboard_time": 1720070717,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175745,
+        "num": 175745,
+        "word": "放弃普高读职校会后悔吗",
+        "onboard_time": 1720080017,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173277,
+        "num": 173277,
+        "word": "辛巴 初瑞雪",
+        "onboard_time": 1720078637,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170418,
+        "num": 170418,
+        "word": "中金称女员工系自身原因离世",
+        "onboard_time": 1720062138,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165621,
+        "num": 165621,
+        "word": "默杀票房破5000万",
+        "onboard_time": 1720074258,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48311,
+        "num": 155294,
+        "word": "南京这水晶天city不city",
+        "onboard_time": 1720084998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15730,
+        "num": 152321,
+        "word": "以军行动已致加沙近3.8万人死亡",
+        "onboard_time": 1720084638,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195490,
+        "num": 152279,
+        "word": "合肥一男子商场坠楼不幸身亡",
+        "onboard_time": 1720083797,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 151701,
+        "word": "秦彻 鞋拔子脸",
+        "onboard_time": 1720074258,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151325,
+        "num": 151325,
+        "word": "city不city博主想去贵州country",
+        "onboard_time": 1720082959,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149086,
+        "num": 149086,
+        "word": "年轻人买房平均动用2.6个钱包",
+        "onboard_time": 1720073898,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145560,
+        "num": 145560,
+        "word": "电影默杀",
+        "onboard_time": 1720079357,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144348,
+        "num": 144348,
+        "word": "汪苏泷为了歌迷大交版权费",
+        "onboard_time": 1720084218,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141656,
+        "num": 141656,
+        "word": "中国接任上合组织轮值主席国",
+        "onboard_time": 1720083678,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "迪丽热巴告别开推",
+        "onboard_time": 1720084099,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128199,
+        "num": 128199,
+        "word": "杨紫说小夭会被打碎然后重塑",
+        "onboard_time": 1720077019,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122519,
+        "num": 122519,
+        "word": "BLG电竞世界杯首秀",
+        "onboard_time": 1720081098,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 119881,
+        "word": "中金成立专项小组处理离世员工事宜",
+        "onboard_time": 1720076718,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116457,
+        "num": 116457,
+        "word": "墨雨云间6月网剧TOP1",
+        "onboard_time": 1720083379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115872,
+        "num": 115872,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115843,
+        "num": 115843,
+        "word": "均价一天一万元的月子中心宣布将上市",
+        "onboard_time": 1720071438,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115619,
+        "num": 115619,
+        "word": "新海诚 埋了8年的伏笔",
+        "onboard_time": 1720074617,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 114057,
+        "num": 114057,
+        "word": "歌手歌单",
+        "onboard_time": 1720064718,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114260,
+        "num": 114057,
+        "word": "警方通报男子翻越电梯扶手坠亡",
+        "onboard_time": 1720074918,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111332,
+        "num": 114023,
+        "word": "纪凌尘说自己现在火了",
+        "onboard_time": 1720074139,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100212,
+        "num": 114005,
+        "word": "到底是谁保护谁",
+        "onboard_time": 1720080438,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96999,
+        "num": 113987,
+        "word": "完全不内耗的人都有一个特质",
+        "onboard_time": 1720064538,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
