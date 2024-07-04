@@ -1,0 +1,410 @@
+{
+  "runTime": 1720097493664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1230261,
+        "num": 1230261,
+        "word": "姜爷爷",
+        "onboard_time": 1720094599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595533,
+        "num": 595533,
+        "word": "保时捷发霉车主自嘲不想要了",
+        "onboard_time": 1720086019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29810,
+        "num": 583381,
+        "word": "四个关键词感受中哈深情厚谊",
+        "onboard_time": 1720091177,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576327,
+        "num": 576327,
+        "word": "王心凌玫瑰嫁纱重达十公斤",
+        "onboard_time": 1720093637,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 480641,
+        "num": 480641,
+        "word": "长相思第二季变更为23集",
+        "onboard_time": 1720093998,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474386,
+        "num": 474386,
+        "word": "巴黎奥运会允许代表团自费安空调",
+        "onboard_time": 1720095317,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440717,
+        "num": 440717,
+        "word": "福宝",
+        "onboard_time": 1720094118,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422187,
+        "num": 422187,
+        "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+        "onboard_time": 1720086857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346239,
+        "num": 346239,
+        "word": "菲方向中国索赔撞船损失100万美元",
+        "onboard_time": 1720091239,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15766,
+        "num": 315936,
+        "word": "深中通道开通72小时通车超30万车次",
+        "onboard_time": 1720097058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568411,
+        "num": 314709,
+        "word": "陆毅小女儿被曝攻击他人长相",
+        "onboard_time": 1720091478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400919,
+        "num": 314275,
+        "word": "女子醉卧马路被轧身亡送人者认定无责",
+        "onboard_time": 1720094838,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313310,
+        "num": 313310,
+        "word": "白敬亭染粉发掉色了",
+        "onboard_time": 1720092918,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290210,
+        "num": 290210,
+        "word": "感觉谭松韵真在公司上过班",
+        "onboard_time": 1720092978,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279055,
+        "num": 279055,
+        "word": "谁家老公做成这勾栏模样",
+        "onboard_time": 1720096818,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247985,
+        "num": 247985,
+        "word": "外交部回应city不city走红",
+        "onboard_time": 1720080378,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215838,
+        "num": 215838,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213041,
+        "num": 213041,
+        "word": "吃玉米也是一件很私密的事",
+        "onboard_time": 1720082657,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203636,
+        "num": 203636,
+        "word": "苏炳添缺席巴黎奥运会",
+        "onboard_time": 1720091239,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198520,
+        "num": 198520,
+        "word": "因为丑被浪费的蔬菜",
+        "onboard_time": 1720090698,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 596631,
+        "num": 198226,
+        "word": "小水小九分手",
+        "onboard_time": 1720085658,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567183,
+        "num": 197995,
+        "word": "男性睡觉掉色是全国统一的吗",
+        "onboard_time": 1720095499,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292519,
+        "num": 197920,
+        "word": "一天一个西瓜瘦了1.5斤",
+        "onboard_time": 1720087159,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197479,
+        "num": 197479,
+        "word": "她的小梨涡 选角",
+        "onboard_time": 1720087578,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176762,
+        "num": 176762,
+        "word": "孙艺珍出席富川国际电影节",
+        "onboard_time": 1720096758,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170786,
+        "num": 170786,
+        "word": "许凯感觉像真的结婚了",
+        "onboard_time": 1720086918,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160980,
+        "num": 160980,
+        "word": "赵露思自己化许妍的定妆",
+        "onboard_time": 1720097358,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157406,
+        "num": 157406,
+        "word": "赵今麦叹气",
+        "onboard_time": 1720092378,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155446,
+        "num": 155446,
+        "word": "天官赐福 泰版彩图",
+        "onboard_time": 1720091537,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 151671,
+        "num": 151671,
+        "word": "虞书欣成打卡点了",
+        "onboard_time": 1720095857,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "公安机关已调查涉江西银行不实信息",
+        "onboard_time": 1720088057,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146877,
+        "num": 146877,
+        "word": "科目三没等安全员自己把车开走了",
+        "onboard_time": 1720093578,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145753,
+        "num": 145753,
+        "word": "迪丽热巴穿了周柯宇外套",
+        "onboard_time": 1720091298,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144158,
+        "num": 144158,
+        "word": "宁静被花少5治愈了",
+        "onboard_time": 1720092498,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143840,
+        "num": 143840,
+        "word": "刚创业就被骗二十五万",
+        "onboard_time": 1720094777,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143652,
+        "num": 143652,
+        "word": "韩国方便面出口额暴增",
+        "onboard_time": 1720093939,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140546,
+        "num": 140546,
+        "word": "研究生赚钱一定要学会吃身份红利",
+        "onboard_time": 1720086678,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137288,
+        "num": 137288,
+        "word": "小九哭了",
+        "onboard_time": 1720090937,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "江西银行",
+        "onboard_time": 1720087217,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59529,
+        "num": 135411,
+        "word": "各地暑期高校学生资助热线最全汇总",
+        "onboard_time": 1720096218,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133916,
+        "num": 133916,
+        "word": "喻言沉浸式田园生活",
+        "onboard_time": 1720096939,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132415,
+        "num": 132415,
+        "word": "电影默杀",
+        "onboard_time": 1720079357,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 124986,
+        "word": "中方回应菲方索赔撞船损失100万美元",
+        "onboard_time": 1720094358,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123781,
+        "num": 123781,
+        "word": "何老师都说了别连着问成毅问题",
+        "onboard_time": 1720078037,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122630,
+        "num": 122630,
+        "word": "复读生已经上了五天课了",
+        "onboard_time": 1720097118,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122406,
+        "num": 122406,
+        "word": "刘晓庆惠英红 羊胎素2.0",
+        "onboard_time": 1720083740,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122057,
+        "num": 122057,
+        "word": "沙溪站",
+        "onboard_time": 1720094958,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117860,
+        "num": 117860,
+        "word": "刘若英55岁状态",
+        "onboard_time": 1720095617,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107221,
+        "num": 107221,
+        "word": "涂山璟值得被爱",
+        "onboard_time": 1720094896,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105348,
+        "num": 105348,
+        "word": "俄航天局局长称美国登月为真",
+        "onboard_time": 1720083498,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#7个细节看习近平哈萨克斯坦之行#"
+    }
+  }
+}

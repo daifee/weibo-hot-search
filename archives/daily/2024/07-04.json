@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720096614756,
+  "endTime": 1720097493664,
   "band_list": [
     {
       "raw_hot": 1955779,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1107108,
-      "num": 1107108,
+      "raw_hot": 1230261,
+      "num": 1230261,
       "word": "姜爷爷",
       "onboard_time": 1720094599,
       "rank": 0,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 576327,
+      "num": 576327,
+      "word": "王心凌玫瑰嫁纱重达十公斤",
+      "onboard_time": 1720093637,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 575609,
       "num": 284356,
       "word": "一天一个西瓜瘦了1.5斤",
@@ -425,6 +433,14 @@
       "onboard_time": 1720018459,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 567183,
+      "num": 210232,
+      "word": "男性睡觉掉色是全国统一的吗",
+      "onboard_time": 1720095499,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 566122,
@@ -483,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 509837,
-      "num": 509837,
-      "word": "王心凌玫瑰嫁纱重达十公斤",
-      "onboard_time": 1720093637,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 508614,
       "num": 508614,
       "word": "郭保坤你变坏了",
@@ -545,6 +553,22 @@
       "onboard_time": 1720068019,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480641,
+      "num": 480641,
+      "word": "长相思第二季变更为23集",
+      "onboard_time": 1720093998,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 474386,
+      "num": 474386,
+      "word": "巴黎奥运会允许代表团自费安空调",
+      "onboard_time": 1720095317,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 469969,
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443114,
-      "num": 443114,
-      "word": "长相思第二季变更为23集",
-      "onboard_time": 1720093998,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 440717,
+      "num": 440717,
+      "word": "福宝",
+      "onboard_time": 1720094118,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 427161,
@@ -659,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 404614,
-      "num": 404614,
-      "word": "福宝",
-      "onboard_time": 1720094118,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 402581,
       "num": 402581,
       "word": "杜海涛曾为保护素人叫停节目",
@@ -697,6 +713,14 @@
       "onboard_time": 1720091239,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 400919,
+      "num": 360279,
+      "word": "女子醉卧马路被轧身亡送人者认定无责",
+      "onboard_time": 1720094838,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399876,
@@ -771,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360279,
-      "num": 360279,
-      "word": "女子醉卧马路被轧身亡送人者认定无责",
-      "onboard_time": 1720094838,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359056,
       "num": 359056,
       "word": "刘亦菲实绩",
@@ -851,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335560,
-      "num": 210232,
-      "word": "男性睡觉掉色是全国统一的吗",
-      "onboard_time": 1720095499,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 334016,
       "num": 334016,
       "word": "卢昱晓上的是亲子综艺吧",
@@ -915,20 +923,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 291749,
-      "num": 291749,
-      "word": "巴黎奥运会允许代表团自费安空调",
-      "onboard_time": 1720095317,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291452,
       "num": 291452,
       "word": "小九哭了",
       "onboard_time": 1720090937,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279055,
+      "num": 279055,
+      "word": "谁家老公做成这勾栏模样",
+      "onboard_time": 1720096818,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 276138,
@@ -1403,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176762,
+      "num": 176762,
+      "word": "孙艺珍出席富川国际电影节",
+      "onboard_time": 1720096758,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175745,
       "num": 376576,
       "word": "放弃普高读职校会后悔吗",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1720068379,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160980,
+      "num": 160980,
+      "word": "赵露思自己化许妍的定妆",
+      "onboard_time": 1720097358,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 158523,
@@ -1787,8 +1811,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143403,
-      "num": 143403,
+      "raw_hot": 144158,
+      "num": 144158,
+      "word": "宁静被花少5治愈了",
+      "onboard_time": 1720092498,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143652,
+      "num": 143652,
       "word": "韩国方便面出口额暴增",
       "onboard_time": 1720093939,
       "rank": 36,
@@ -1809,14 +1841,6 @@
       "onboard_time": 1720070237,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141883,
-      "num": 141883,
-      "word": "宁静被花少5治愈了",
-      "onboard_time": 1720092498,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 141656,
@@ -1937,6 +1961,14 @@
       "onboard_time": 1720088359,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133916,
+      "num": 133916,
+      "word": "喻言沉浸式田园生活",
+      "onboard_time": 1720096939,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 133543,
@@ -2123,6 +2155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122630,
+      "num": 122630,
+      "word": "复读生已经上了五天课了",
+      "onboard_time": 1720097118,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122418,
       "num": 122418,
       "word": "吴谨言红发提裙",
@@ -2131,8 +2171,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121414,
-      "num": 121414,
+      "raw_hot": 122057,
+      "num": 122057,
       "word": "沙溪站",
       "onboard_time": 1720094958,
       "rank": 44,
@@ -2587,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59529,
+      "num": 376075,
+      "word": "各地暑期高校学生资助热线最全汇总",
+      "onboard_time": 1720096218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54746,
       "num": 224727,
       "word": "你买车会一步到位吗",
@@ -2616,14 +2664,6 @@
       "word": "南京这水晶天city不city",
       "onboard_time": 1720084998,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50076,
-      "num": 376075,
-      "word": "各地暑期高校学生资助热线最全汇总",
-      "onboard_time": 1720096218,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2716,7 +2756,7 @@
     },
     {
       "raw_hot": 30531,
-      "num": 552927,
+      "num": 583381,
       "word": "四个关键词感受中哈深情厚谊",
       "onboard_time": 1720091177,
       "rank": 2,
@@ -2753,6 +2793,14 @@
       "onboard_time": 1720037591,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15766,
+      "num": 315936,
+      "word": "深中通道开通72小时通车超30万车次",
+      "onboard_time": 1720097058,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15730,
@@ -2838,6 +2886,9 @@
     },
     {
       "word": "#习近平出席上合组织成员国元首理事会会议#"
+    },
+    {
+      "word": "#7个细节看习近平哈萨克斯坦之行#"
     }
   ]
 }
