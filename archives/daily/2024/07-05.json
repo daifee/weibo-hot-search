@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720121681975,
+  "endTime": 1720124397995,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -347,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82591,
+      "num": 35148,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79679,
       "num": 84896,
       "word": "默杀彩蛋",
@@ -459,14 +467,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 35148,
-      "num": 35148,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34895,
       "num": 48723,
       "word": "你比星光美丽预告",
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22876,
+      "num": 18916,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 20207,
       "num": 56204,
       "word": "宁大学生就科学躲避鸟粪写了一篇论文",
@@ -539,12 +547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17393,
-      "num": 17393,
-      "word": "大学生开始反向升学读技校了",
-      "onboard_time": 1720120871,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 17592,
+      "num": 17592,
+      "word": "于正夸李梦演戏OK的",
+      "onboard_time": 1720121411,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 15539,
@@ -555,12 +563,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15210,
-      "num": 15210,
-      "word": "于正夸李梦演戏OK的",
-      "onboard_time": 1720121411,
+      "raw_hot": 14853,
+      "num": 14853,
+      "word": "虞书欣中餐厅顶锅杂技表演",
+      "onboard_time": 1720123931,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14826,
+      "num": 14826,
+      "word": "夏日畅想季",
+      "onboard_time": 1720122131,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14355,
+      "num": 14777,
+      "word": "最想对延年烈士说的话",
+      "onboard_time": 1720122012,
       "rank": 47,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12777,

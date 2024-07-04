@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720121681975,
+  "endTime": 1720124397995,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -10363,6 +10363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82591,
+      "num": 35148,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82354,
       "num": 82354,
       "word": "吴彦祖又帅回来了",
@@ -11267,14 +11275,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 35148,
-      "num": 35148,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34969,
       "num": 63775,
       "word": "祝福香港祝福祖国",
@@ -11643,6 +11643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22876,
+      "num": 18916,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22379,
       "num": 30453,
       "word": "薛之谦演唱会完整互动",
@@ -11707,12 +11715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17393,
-      "num": 17393,
-      "word": "大学生开始反向升学读技校了",
-      "onboard_time": 1720120871,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 17592,
+      "num": 17592,
+      "word": "于正夸李梦演戏OK的",
+      "onboard_time": 1720121411,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 16747,
@@ -11763,20 +11771,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15210,
-      "num": 15210,
-      "word": "于正夸李梦演戏OK的",
-      "onboard_time": 1720121411,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 15190,
       "num": 64328,
       "word": "女生生病2年仍保研清华准备读博",
       "onboard_time": 1719943691,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14853,
+      "num": 14853,
+      "word": "虞书欣中餐厅顶锅杂技表演",
+      "onboard_time": 1720123931,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14826,
+      "num": 14826,
+      "word": "夏日畅想季",
+      "onboard_time": 1720122131,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 14534,
@@ -11793,6 +11809,14 @@
       "onboard_time": 1720036391,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14355,
+      "num": 14777,
+      "word": "最想对延年烈士说的话",
+      "onboard_time": 1720122012,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13995,
