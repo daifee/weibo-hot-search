@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720081493487,
+  "endTime": 1720082258243,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -51,12 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1061721,
-      "num": 1061721,
+      "raw_hot": 1325742,
+      "num": 1325742,
       "word": "何老师都说了别连着问成毅问题",
       "onboard_time": 1720078037,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1275605,
+      "num": 366702,
+      "word": "中金坠楼女孩 人生曲线",
+      "onboard_time": 1720080378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051660,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 840507,
-      "num": 366702,
-      "word": "中金坠楼女孩 人生曲线",
-      "onboard_time": 1720080378,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 801274,
       "num": 429675,
       "word": "女生退租遭辱骂致死案二审维持原判",
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 755141,
+      "num": 755141,
+      "word": "上海热到全国第一名",
+      "onboard_time": 1720078578,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751062,
       "num": 751062,
       "word": "沙特土豪误认选手豪赠100刀",
@@ -187,12 +195,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 721371,
-      "num": 721371,
-      "word": "上海热到全国第一名",
-      "onboard_time": 1720078578,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 742308,
+      "num": 338524,
+      "word": "外交部回应city不city走红",
+      "onboard_time": 1720080378,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 720534,
@@ -257,6 +265,14 @@
       "onboard_time": 1720051337,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 655363,
+      "num": 351623,
+      "word": "男子音乐节脱裤猥亵身前女子被拘",
+      "onboard_time": 1720080078,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 650926,
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448263,
-      "num": 351623,
-      "word": "男子音乐节脱裤猥亵身前女子被拘",
-      "onboard_time": 1720080078,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 427161,
       "num": 271548,
       "word": "什么是快乐星球是马嘉祺写的",
@@ -497,14 +505,6 @@
       "onboard_time": 1720048274,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 412202,
-      "num": 338524,
-      "word": "外交部回应city不city走红",
-      "onboard_time": 1720080378,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 411216,
@@ -691,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263853,
+      "num": 234955,
+      "word": "默杀 周处除三害",
+      "onboard_time": 1720080198,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262081,
       "num": 262081,
       "word": "李一桐横店近视眼",
@@ -753,14 +761,6 @@
       "onboard_time": 1720069398,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234955,
-      "num": 234955,
-      "word": "默杀 周处除三害",
-      "onboard_time": 1720080198,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 227653,
@@ -881,6 +881,14 @@
       "onboard_time": 1720001718,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202339,
+      "num": 202339,
+      "word": "马嘉祺工装风好A",
+      "onboard_time": 1720081578,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202301,
@@ -1115,6 +1123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157711,
+      "num": 157711,
+      "word": "BLG电竞世界杯首秀",
+      "onboard_time": 1720081098,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157442,
       "num": 157442,
       "word": "成毅深U内搭",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1720068258,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156314,
+      "num": 156314,
+      "word": "温尚翊翻牌",
+      "onboard_time": 1720081578,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 155698,
@@ -1363,14 +1387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137942,
-      "num": 137942,
-      "word": "BLG电竞世界杯首秀",
-      "onboard_time": 1720081098,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137244,
       "num": 137244,
       "word": "张艺兴新歌在脑子里摇了一天",
@@ -1468,7 +1484,7 @@
     },
     {
       "raw_hot": 129423,
-      "num": 129423,
+      "num": 355065,
       "word": "陕北为了游客已经在窑洞建浴室了",
       "onboard_time": 1720079057,
       "rank": 39,
@@ -1587,12 +1603,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119600,
+      "num": 119600,
+      "word": "他被称为最帅院士却不爱谈颜值",
+      "onboard_time": 1720081278,
+      "rank": 44,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 119249,
       "num": 340106,
       "word": "陈延年离开97年了",
       "onboard_time": 1720076539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118437,
+      "num": 376576,
+      "word": "放弃普高读职校会后悔吗",
+      "onboard_time": 1720080017,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118261,
@@ -1657,14 +1689,6 @@
       "onboard_time": 1720016901,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104285,
-      "num": 104285,
-      "word": "他被称为最帅院士却不爱谈颜值",
-      "onboard_time": 1720081278,
-      "rank": 44,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 103050,
@@ -1795,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88415,
+      "num": 205186,
+      "word": "陈延年牺牲时说革命者只有站着死",
+      "onboard_time": 1720078398,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86860,
       "num": 86860,
       "word": "猴哥 三皇五帝你最好认识一个",
@@ -1915,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62449,
-      "num": 205186,
-      "word": "陈延年牺牲时说革命者只有站着死",
-      "onboard_time": 1720078398,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61160,
       "num": 61160,
       "word": "华润银行回应校招违约",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1720074018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59755,
-      "num": 376576,
-      "word": "放弃普高读职校会后悔吗",
-      "onboard_time": 1720080017,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 52407,

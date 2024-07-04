@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720081493487,
+  "endTime": 1720082258243,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -323,6 +323,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1325742,
+      "num": 1325742,
+      "word": "何老师都说了别连着问成毅问题",
+      "onboard_time": 1720078037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1302794,
       "num": 676137,
       "word": "野孩子声明",
@@ -345,6 +353,14 @@
       "onboard_time": 1719791356,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1275605,
+      "num": 366702,
+      "word": "中金坠楼女孩 人生曲线",
+      "onboard_time": 1720080378,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1267781,
@@ -505,14 +521,6 @@
       "onboard_time": 1719838100,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1061721,
-      "num": 1061721,
-      "word": "何老师都说了别连着问成毅问题",
-      "onboard_time": 1720078037,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1057416,
@@ -827,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 840507,
-      "num": 366702,
-      "word": "中金坠楼女孩 人生曲线",
-      "onboard_time": 1720080378,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 836995,
       "num": 836995,
       "word": "泰国部长亲自接机中国娃圈女明星",
@@ -1027,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755141,
+      "num": 755141,
+      "word": "上海热到全国第一名",
+      "onboard_time": 1720078578,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755059,
       "num": 732779,
       "word": "百花奖提名",
@@ -1075,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 742308,
+      "num": 338524,
+      "word": "外交部回应city不city走红",
+      "onboard_time": 1720080378,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 741227,
       "num": 652774,
       "word": "林丹曾吐槽国际羽联",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1719884718,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 721371,
-      "num": 721371,
-      "word": "上海热到全国第一名",
-      "onboard_time": 1720078578,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 720534,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1719798139,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 655363,
+      "num": 351623,
+      "word": "男子音乐节脱裤猥亵身前女子被拘",
+      "onboard_time": 1720080078,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 655307,
@@ -2363,14 +2379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448263,
-      "num": 351623,
-      "word": "男子音乐节脱裤猥亵身前女子被拘",
-      "onboard_time": 1720080078,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 446818,
       "num": 446818,
       "word": "卡琳娜官宣参加KKW",
@@ -2617,14 +2625,6 @@
       "onboard_time": 1719825258,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412202,
-      "num": 338524,
-      "word": "外交部回应city不city走红",
-      "onboard_time": 1720080378,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 411847,
@@ -3851,6 +3851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263853,
+      "num": 234955,
+      "word": "默杀 周处除三害",
+      "onboard_time": 1720080198,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263606,
       "num": 141810,
       "word": "如何用3周瘦42斤",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1719875296,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234955,
-      "num": 234955,
-      "word": "默杀 周处除三害",
-      "onboard_time": 1720080198,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 234745,
@@ -4849,6 +4849,14 @@
       "onboard_time": 1719907698,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202339,
+      "num": 202339,
+      "word": "马嘉祺工装风好A",
+      "onboard_time": 1720081578,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202301,
@@ -6243,6 +6251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157711,
+      "num": 157711,
+      "word": "BLG电竞世界杯首秀",
+      "onboard_time": 1720081098,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -6353,6 +6369,14 @@
       "onboard_time": 1719789555,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156314,
+      "num": 156314,
+      "word": "温尚翊翻牌",
+      "onboard_time": 1720081578,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 156112,
@@ -7211,14 +7235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137942,
-      "num": 137942,
-      "word": "BLG电竞世界杯首秀",
-      "onboard_time": 1720081098,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137879,
       "num": 137879,
       "word": "邓佳鑫说想有唱歌的机会",
@@ -7700,7 +7716,7 @@
     },
     {
       "raw_hot": 129423,
-      "num": 129423,
+      "num": 355065,
       "word": "陕北为了游客已经在窑洞建浴室了",
       "onboard_time": 1720079057,
       "rank": 39,
@@ -8155,6 +8171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119600,
+      "num": 119600,
+      "word": "他被称为最帅院士却不爱谈颜值",
+      "onboard_time": 1720081278,
+      "rank": 44,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 119571,
       "num": 119571,
       "word": "这火种从未断过",
@@ -8209,6 +8233,14 @@
       "onboard_time": 1719930498,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118437,
+      "num": 376576,
+      "word": "放弃普高读职校会后悔吗",
+      "onboard_time": 1720080017,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118323,
@@ -8747,14 +8779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104285,
-      "num": 104285,
-      "word": "他被称为最帅院士却不爱谈颜值",
-      "onboard_time": 1720081278,
-      "rank": 44,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 103925,
       "num": 103925,
       "word": "福建海警查扣一艘台湾省渔船",
@@ -9187,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88415,
+      "num": 205186,
+      "word": "陈延年牺牲时说革命者只有站着死",
+      "onboard_time": 1720078398,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87968,
       "num": 87968,
       "word": "科斯塔连扑三点",
@@ -9523,14 +9555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62449,
-      "num": 205186,
-      "word": "陈延年牺牲时说革命者只有站着死",
-      "onboard_time": 1720078398,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61271,
       "num": 61271,
       "word": "美国男子枪击邻居一家七口后自杀",
@@ -9585,14 +9609,6 @@
       "onboard_time": 1720074018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59755,
-      "num": 376576,
-      "word": "放弃普高读职校会后悔吗",
-      "onboard_time": 1720080017,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 59461,

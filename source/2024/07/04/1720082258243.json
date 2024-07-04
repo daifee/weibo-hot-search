@@ -1,0 +1,410 @@
+{
+  "runTime": 1720082258243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1325742,
+        "num": 1325742,
+        "word": "何老师都说了别连着问成毅问题",
+        "onboard_time": 1720078037,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868112,
+        "num": 868112,
+        "word": "韩国抗议将泡菜译成中国辣白菜",
+        "onboard_time": 1720074679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32777,
+        "num": 798401,
+        "word": "打卡多彩哈萨克斯坦",
+        "onboard_time": 1720065978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755141,
+        "num": 755141,
+        "word": "上海热到全国第一名",
+        "onboard_time": 1720078578,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627476,
+        "num": 627476,
+        "word": "苗苗欠下的手工皂还上了",
+        "onboard_time": 1720077498,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441475,
+        "num": 441475,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 475421,
+        "num": 436372,
+        "word": "谭松韵回归长发",
+        "onboard_time": 1720072998,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430287,
+        "num": 430287,
+        "word": "A股超4800只个股下跌",
+        "onboard_time": 1720077916,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358022,
+        "num": 358022,
+        "word": "沙特土豪误认选手豪赠100刀",
+        "onboard_time": 1720070717,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105553,
+        "num": 355065,
+        "word": "陕北为了游客已经在窑洞建浴室了",
+        "onboard_time": 1720079057,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275605,
+        "num": 338900,
+        "word": "中金坠楼女孩 人生曲线",
+        "onboard_time": 1720080378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742308,
+        "num": 334942,
+        "word": "外交部回应city不city走红",
+        "onboard_time": 1720080378,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655363,
+        "num": 326473,
+        "word": "男子音乐节脱裤猥亵身前女子被拘",
+        "onboard_time": 1720080078,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 383252,
+        "num": 316429,
+        "word": "李现白敬亭好像小学生",
+        "onboard_time": 1720078337,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307477,
+        "num": 307477,
+        "word": "辛巴 初瑞雪",
+        "onboard_time": 1720078637,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296054,
+        "num": 296054,
+        "word": "默杀 看爽了",
+        "onboard_time": 1720063939,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231328,
+        "num": 231328,
+        "word": "女儿坐轮椅带90岁妈妈拍人生首次写真",
+        "onboard_time": 1720076058,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263853,
+        "num": 231184,
+        "word": "默杀 周处除三害",
+        "onboard_time": 1720080198,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227398,
+        "num": 227398,
+        "word": "秦彻 鞋拔子脸",
+        "onboard_time": 1720074258,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225780,
+        "num": 225780,
+        "word": "中金称女员工系自身原因离世",
+        "onboard_time": 1720062138,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764200,
+        "num": 225614,
+        "word": "仅4成男性为结婚买房",
+        "onboard_time": 1720071318,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247151,
+        "num": 225057,
+        "word": "年轻人买房平均动用2.6个钱包",
+        "onboard_time": 1720073898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218461,
+        "num": 218461,
+        "word": "新海诚 埋了8年的伏笔",
+        "onboard_time": 1720074617,
+        "rank": 22,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 202339,
+        "num": 202339,
+        "word": "马嘉祺工装风好A",
+        "onboard_time": 1720081578,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189757,
+        "num": 189757,
+        "word": "纪凌尘说自己现在火了",
+        "onboard_time": 1720074139,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160846,
+        "num": 160846,
+        "word": "均价一天一万元的月子中心宣布将上市",
+        "onboard_time": 1720071438,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159307,
+        "num": 159307,
+        "word": "中金成立专项小组处理离世员工事宜",
+        "onboard_time": 1720076718,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158097,
+        "num": 158097,
+        "word": "警方通报男子翻越电梯扶手坠亡",
+        "onboard_time": 1720074918,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157711,
+        "num": 157711,
+        "word": "BLG电竞世界杯首秀",
+        "onboard_time": 1720081098,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156314,
+        "num": 156314,
+        "word": "温尚翊翻牌",
+        "onboard_time": 1720081578,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156937,
+        "num": 156158,
+        "word": "默杀票房破5000万",
+        "onboard_time": 1720074258,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155902,
+        "num": 155902,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 156649,
+        "num": 154756,
+        "word": "电影默杀",
+        "onboard_time": 1720079357,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 146478,
+        "word": "完全不内耗的人都有一个特质",
+        "onboard_time": 1720064538,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 141864,
+        "word": "杨紫说小夭会被打碎然后重塑",
+        "onboard_time": 1720077019,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77716,
+        "num": 139504,
+        "word": "这届年轻人是如何健康饮茶的",
+        "onboard_time": 1720076597,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139177,
+        "num": 139177,
+        "word": "歌手歌单",
+        "onboard_time": 1720064718,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136911,
+        "num": 136911,
+        "word": "谭松韵许凯还原公主抱",
+        "onboard_time": 1720080078,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134123,
+        "num": 134123,
+        "word": "到底是谁保护谁",
+        "onboard_time": 1720080438,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127115,
+        "num": 127115,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "TF三代出发参加家族运动会",
+        "onboard_time": 1720078398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120413,
+        "num": 120413,
+        "word": "菲律宾绑架案遇害者生前曾遭虐待",
+        "onboard_time": 1720070298,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119600,
+        "num": 119600,
+        "word": "他被称为最帅院士却不爱谈颜值",
+        "onboard_time": 1720081278,
+        "rank": 42,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 118437,
+        "num": 118437,
+        "word": "放弃普高读职校会后悔吗",
+        "onboard_time": 1720080017,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113738,
+        "num": 113738,
+        "word": "韩国高中盯上中国生源",
+        "onboard_time": 1720060695,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107786,
+        "num": 107786,
+        "word": "女生退租遭辱骂致死案二审维持原判",
+        "onboard_time": 1720064297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105840,
+        "num": 105840,
+        "word": "只有工资到账那一秒是爽的",
+        "onboard_time": 1720064658,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95625,
+        "num": 95625,
+        "word": "迪丽热巴雾霭缭绕眼眸",
+        "onboard_time": 1720072038,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95087,
+        "num": 95087,
+        "word": "向佐维护郭碧婷",
+        "onboard_time": 1720063338,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88415,
+        "num": 88415,
+        "word": "陈延年牺牲时说革命者只有站着死",
+        "onboard_time": 1720078398,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问哈萨克斯坦高光时刻#"
+    }
+  }
+}
