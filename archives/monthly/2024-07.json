@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720078477399,
+  "endTime": 1720081493487,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -507,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1061721,
+      "num": 1061721,
+      "word": "何老师都说了别连着问成毅问题",
+      "onboard_time": 1720078037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057416,
       "num": 1057416,
       "word": "第一次看花少避雷餐厅",
       "onboard_time": 1719927679,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1051660,
+      "num": 1051660,
+      "word": "韩国抗议将泡菜译成中国辣白菜",
+      "onboard_time": 1720074679,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051447,
@@ -536,14 +552,6 @@
       "word": "中金称女员工系自身原因离世",
       "onboard_time": 1720062138,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1036165,
-      "num": 1036165,
-      "word": "韩国抗议将泡菜译成中国辣白菜",
-      "onboard_time": 1720074679,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840507,
+      "num": 366702,
+      "word": "中金坠楼女孩 人生曲线",
+      "onboard_time": 1720080378,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836995,
       "num": 836995,
       "word": "泰国部长亲自接机中国娃圈女明星",
@@ -1083,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 721371,
+      "num": 721371,
+      "word": "上海热到全国第一名",
+      "onboard_time": 1720078578,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720534,
       "num": 720534,
       "word": "怀疑乌尔善用了3D打印技术",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1720047915,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670046,
+      "num": 670046,
+      "word": "苗苗欠下的手工皂还上了",
+      "onboard_time": 1720077498,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 669483,
@@ -1923,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 508125,
-      "num": 463937,
-      "word": "苗苗欠下的手工皂还上了",
-      "onboard_time": 1720077498,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507612,
       "num": 507612,
       "word": "穿袜子睡觉可以提高睡眠质量",
@@ -2099,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485026,
+      "num": 485026,
+      "word": "绝区零 美术",
+      "onboard_time": 1720077857,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 483744,
       "num": 251707,
       "word": "昨天才知道我十月四号要结婚了",
@@ -2211,14 +2243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465191,
-      "num": 465191,
-      "word": "绝区零 美术",
-      "onboard_time": 1720077857,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 463640,
       "num": 463640,
       "word": "张志杰埃里克森倒地救治对比",
@@ -2265,6 +2289,14 @@
       "onboard_time": 1719974957,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 459501,
+      "num": 459501,
+      "word": "A股超4800只个股下跌",
+      "onboard_time": 1720077916,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 457495,
@@ -2324,11 +2356,19 @@
     },
     {
       "raw_hot": 449523,
-      "num": 227411,
+      "num": 248731,
       "word": "年轻人买房平均动用2.6个钱包",
       "onboard_time": 1720073898,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448263,
+      "num": 351623,
+      "word": "男子音乐节脱裤猥亵身前女子被拘",
+      "onboard_time": 1720080078,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 446818,
@@ -2579,12 +2619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412202,
+      "num": 338524,
+      "word": "外交部回应city不city走红",
+      "onboard_time": 1720080378,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 411847,
       "num": 291834,
       "word": "心脏骤停黄金抢救时间是4分钟",
       "onboard_time": 1719842179,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411216,
+      "num": 332000,
+      "word": "李现白敬亭好像小学生",
+      "onboard_time": 1720078337,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 410212,
@@ -3233,6 +3289,14 @@
       "onboard_time": 1719798619,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 328167,
+      "num": 328167,
+      "word": "辛巴 初瑞雪",
+      "onboard_time": 1720078637,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 327435,
@@ -4155,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234955,
+      "num": 234955,
+      "word": "默杀 周处除三害",
+      "onboard_time": 1720080198,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234745,
       "num": 234745,
       "word": "李赫宰 38岁正是长见识的年纪",
@@ -4241,14 +4313,6 @@
       "onboard_time": 1719963136,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227708,
-      "num": 227708,
-      "word": "何老师都说了别连着问成毅问题",
-      "onboard_time": 1720078037,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 227653,
@@ -5105,14 +5169,6 @@
       "onboard_time": 1719789494,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193818,
-      "num": 193818,
-      "word": "A股超4800只个股下跌",
-      "onboard_time": 1720077916,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 193682,
@@ -6507,6 +6563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151950,
+      "num": 151950,
+      "word": "到底是谁保护谁",
+      "onboard_time": 1720080438,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151649,
       "num": 151649,
       "word": "TF三代出发参加家族运动会",
@@ -6627,14 +6691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148961,
-      "num": 148961,
-      "word": "李现白敬亭好像小学生",
-      "onboard_time": 1720078337,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147963,
       "num": 147963,
       "word": "马来西亚男子迷晕妓女抢走25万财物",
@@ -6689,6 +6745,14 @@
       "onboard_time": 1720058417,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146158,
+      "num": 146158,
+      "word": "谭松韵许凯还原公主抱",
+      "onboard_time": 1720080078,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 145947,
@@ -7145,6 +7209,14 @@
       "onboard_time": 1719801558,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137942,
+      "num": 137942,
+      "word": "BLG电竞世界杯首秀",
+      "onboard_time": 1720081098,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 137879,
@@ -7625,6 +7697,14 @@
       "onboard_time": 1719921499,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129423,
+      "num": 129423,
+      "word": "陕北为了游客已经在窑洞建浴室了",
+      "onboard_time": 1720079057,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129395,
@@ -8667,6 +8747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104285,
+      "num": 104285,
+      "word": "他被称为最帅院士却不爱谈颜值",
+      "onboard_time": 1720081278,
+      "rank": 44,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 103925,
       "num": 103925,
       "word": "福建海警查扣一艘台湾省渔船",
@@ -8905,6 +8993,14 @@
       "onboard_time": 1720076597,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95631,
+      "num": 95631,
+      "word": "一步改善腱鞘炎",
+      "onboard_time": 1720080978,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95249,
@@ -9489,6 +9585,14 @@
       "onboard_time": 1720074018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59755,
+      "num": 376576,
+      "word": "放弃普高读职校会后悔吗",
+      "onboard_time": 1720080017,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 59461,
