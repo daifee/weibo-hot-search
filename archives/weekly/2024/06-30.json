@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720117544577,
+  "endTime": 1720118289517,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1187,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 812563,
+      "num": 812563,
+      "word": "电竞世界杯BLG对战T1",
+      "onboard_time": 1720106420,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 812031,
       "num": 812031,
       "word": "鲍师傅店铺称变重是冷气吹到秤上",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 671150,
-      "num": 671150,
-      "word": "电竞世界杯BLG对战T1",
-      "onboard_time": 1720106420,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 670046,
@@ -9523,6 +9523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141572,
+      "num": 49086,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141510,
       "num": 141510,
       "word": "姨夫称张志杰无心脏病史",
@@ -9729,6 +9737,14 @@
       "onboard_time": 1720084099,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138614,
+      "num": 55752,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138607,
@@ -10257,14 +10273,6 @@
       "onboard_time": 1719912619,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131633,
-      "num": 55752,
-      "word": "菲律宾涉事公司回应中企高管遇害",
-      "onboard_time": 1720114032,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131510,
@@ -12147,14 +12155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98874,
-      "num": 49086,
-      "word": "为什么有的人睡觉爱举起双手",
-      "onboard_time": 1720113613,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
@@ -13283,6 +13283,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 57604,
+      "num": 53598,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57562,
       "num": 131612,
       "word": "罗翔回应在闲鱼搞副业",
@@ -13371,14 +13379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53598,
-      "num": 53598,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 53324,
       "num": 437318,
       "word": "德国男子放弃高薪随妻子定居宁波小村",
@@ -13449,6 +13449,14 @@
       "onboard_time": 1720097058,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48573,
+      "num": 48573,
+      "word": "晚晚林瀚 高配版黑马情侣",
+      "onboard_time": 1720115292,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 48538,
@@ -13601,14 +13609,6 @@
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44138,
-      "num": 44138,
-      "word": "晚晚林瀚 高配版黑马情侣",
-      "onboard_time": 1720115292,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 43423,
@@ -14211,6 +14211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27474,
+      "num": 48999,
+      "word": "绝区零建模",
+      "onboard_time": 1720112714,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26885,
       "num": 244201,
       "word": "又好学又好考的双一流",
@@ -14233,14 +14241,6 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26493,
-      "num": 48999,
-      "word": "绝区零建模",
-      "onboard_time": 1720112714,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 26120,
@@ -14283,20 +14283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25569,
+      "num": 38499,
+      "word": "汪苏泷世巡是没有限定的",
+      "onboard_time": 1720115953,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25550,
       "num": 151007,
       "word": "丹麦将对牛打嗝放屁征税",
       "onboard_time": 1719909078,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25437,
-      "num": 38499,
-      "word": "汪苏泷世巡是没有限定的",
-      "onboard_time": 1720115953,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 25340,
@@ -14443,6 +14443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20283,
+      "num": 24285,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20207,
+      "num": 56204,
+      "word": "宁大学生就科学躲避鸟粪写了一篇论文",
+      "onboard_time": 1720116012,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19536,
       "num": 112185,
       "word": "医生提醒孩子流鼻血千万别仰头",
@@ -14579,14 +14595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13783,
-      "num": 56204,
-      "word": "宁大学生就科学躲避鸟粪写了一篇论文",
-      "onboard_time": 1720116012,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13451,
       "num": 118495,
       "word": "重庆大瓣荷花带来翻倍的莲莲好运",
@@ -14673,6 +14681,14 @@
       "onboard_time": 1719853814,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 9793,
+      "num": 50653,
+      "word": "玩偶时期的萌兰蛄蛹下树太萌了",
+      "onboard_time": 1720117872,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 9713,

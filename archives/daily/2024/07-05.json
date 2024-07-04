@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720117544577,
+  "endTime": 1720118289517,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -19,20 +19,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 812563,
+      "num": 812563,
+      "word": "电竞世界杯BLG对战T1",
+      "onboard_time": 1720106420,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 756184,
       "num": 756184,
       "word": "不停道歉的东方甄选怎么了",
       "onboard_time": 1720102459,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671150,
-      "num": 671150,
-      "word": "电竞世界杯BLG对战T1",
-      "onboard_time": 1720106420,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 513467,
@@ -195,11 +195,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141572,
+      "num": 49086,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139078,
       "num": 103354,
       "word": "几十万套法拍房背后",
       "onboard_time": 1720110795,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138614,
+      "num": 55752,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -209,14 +225,6 @@
       "onboard_time": 1720077857,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131633,
-      "num": 55752,
-      "word": "菲律宾涉事公司回应中企高管遇害",
-      "onboard_time": 1720114032,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126240,
@@ -281,14 +289,6 @@
       "onboard_time": 1720107978,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98874,
-      "num": 49086,
-      "word": "为什么有的人睡觉爱举起双手",
-      "onboard_time": 1720113613,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 97890,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57604,
+      "num": 53598,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57325,
       "num": 79340,
       "word": "牛麦",
@@ -427,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53598,
-      "num": 53598,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 48573,
+      "num": 48573,
+      "word": "晚晚林瀚 高配版黑马情侣",
+      "onboard_time": 1720115292,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 48473,
@@ -440,14 +448,6 @@
       "word": "攀娘 程四四",
       "onboard_time": 1720113254,
       "rank": 45,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 44138,
-      "num": 44138,
-      "word": "晚晚林瀚 高配版黑马情侣",
-      "onboard_time": 1720115292,
-      "rank": 19,
       "category": "网红"
     },
     {
@@ -475,7 +475,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 26493,
+      "raw_hot": 27474,
       "num": 48999,
       "word": "绝区零建模",
       "onboard_time": 1720112714,
@@ -483,7 +483,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25437,
+      "raw_hot": 25569,
       "num": 38499,
       "word": "汪苏泷世巡是没有限定的",
       "onboard_time": 1720115953,
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20283,
+      "num": 24285,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20207,
+      "num": 56204,
+      "word": "宁大学生就科学躲避鸟粪写了一篇论文",
+      "onboard_time": 1720116012,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19536,
       "num": 112185,
       "word": "医生提醒孩子流鼻血千万别仰头",
@@ -523,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13783,
-      "num": 56204,
-      "word": "宁大学生就科学躲避鸟粪写了一篇论文",
-      "onboard_time": 1720116012,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12777,
       "num": 171834,
       "word": "保安车库察觉汽油味上演教科书式操作",
       "onboard_time": 1720110436,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9793,
+      "num": 50653,
+      "word": "玩偶时期的萌兰蛄蛹下树太萌了",
+      "onboard_time": 1720117872,
+      "rank": 9,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
