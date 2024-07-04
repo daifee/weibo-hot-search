@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720067866844,
+  "endTime": 1720070421245,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936101,
+      "num": 427930,
+      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+      "onboard_time": 1720066579,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801274,
       "num": 429675,
       "word": "女生退租遭辱骂致死案二审维持原判",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669483,
+      "num": 348870,
+      "word": "只有工资到账那一秒是爽的",
+      "onboard_time": 1720064658,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 657892,
       "num": 657892,
       "word": "以宣布没收约12平方公里巴土地",
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533348,
+      "num": 427595,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531051,
       "num": 531051,
       "word": "日本地震",
@@ -248,14 +272,6 @@
       "word": "完全不内耗的人都有一个特质",
       "onboard_time": 1720064538,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 501869,
-      "num": 348870,
-      "word": "只有工资到账那一秒是爽的",
-      "onboard_time": 1720064658,
-      "rank": 22,
       "category": "情感"
     },
     {
@@ -307,22 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445353,
-      "num": 427930,
-      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
-      "onboard_time": 1720066579,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427595,
-      "num": 427595,
-      "word": "歌手第九期又有汪峰的歌",
-      "onboard_time": 1720066698,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424936,
       "num": 174162,
       "word": "小鬼工作室维权声明",
@@ -337,6 +337,14 @@
       "onboard_time": 1720048274,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 414661,
+      "num": 277043,
+      "word": "张凌赫素人时期照片",
+      "onboard_time": 1720068019,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 402581,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378308,
+      "num": 378308,
+      "word": "秦彻偷跑",
+      "onboard_time": 1720065917,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377032,
       "num": 377032,
       "word": "首个早上提档晚上撤档的电影",
@@ -371,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366551,
+      "num": 271548,
+      "word": "什么是快乐星球是马嘉祺写的",
+      "onboard_time": 1720068859,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361066,
       "num": 172424,
       "word": "西宁通报2名15岁学生先后因病离世",
@@ -379,7 +403,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359088,
+      "raw_hot": 360287,
       "num": 359088,
       "word": "福宝的起床气被果果治好了",
       "onboard_time": 1720065137,
@@ -393,6 +417,14 @@
       "onboard_time": 1720049956,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356521,
+      "num": 265777,
+      "word": "长相思2小夭相柳转身镜头",
+      "onboard_time": 1720066338,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 353604,
@@ -427,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317401,
-      "num": 317401,
-      "word": "秦彻偷跑",
-      "onboard_time": 1720065917,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314683,
       "num": 169888,
       "word": "合肥之心城",
@@ -449,6 +473,14 @@
       "onboard_time": 1720055418,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264061,
+      "num": 264061,
+      "word": "新疆有自己的娱乐圈",
+      "onboard_time": 1720069339,
+      "rank": 17,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 262081,
@@ -483,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247904,
-      "num": 247904,
-      "word": "长相思2小夭相柳转身镜头",
-      "onboard_time": 1720066338,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244982,
       "num": 244982,
       "word": "Jennie鼻钻",
@@ -512,6 +536,14 @@
       "word": "小鬼抓人和王源抓人对比",
       "onboard_time": 1720049476,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241849,
+      "num": 241849,
+      "word": "张远接活都接到欧洲了",
+      "onboard_time": 1720069398,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198308,
+      "num": 198308,
+      "word": "XG世巡中国场",
+      "onboard_time": 1720068740,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197971,
       "num": 197971,
       "word": "中金称网传员工跳楼系谣言",
@@ -691,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184111,
+      "num": 184111,
+      "word": "宁静回应花少争议",
+      "onboard_time": 1720070058,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182653,
       "num": 167741,
       "word": "韩廷是许凯第一个霸总",
@@ -713,6 +761,14 @@
       "onboard_time": 1720005138,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177397,
+      "num": 177397,
+      "word": "宋亚轩晒鼠标亲爪签名",
+      "onboard_time": 1720069878,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 175731,
@@ -753,6 +809,30 @@
       "onboard_time": 1720066519,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163980,
+      "num": 163980,
+      "word": "Miss团队",
+      "onboard_time": 1720069398,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162557,
+      "num": 162557,
+      "word": "gidle 夏日风",
+      "onboard_time": 1720068379,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 161567,
+      "num": 161567,
+      "word": "女孩诉离异父亲付大学费用法院不支持",
+      "onboard_time": 1720069817,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158523,
@@ -817,6 +897,14 @@
       "onboard_time": 1720010417,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152525,
+      "num": 152525,
+      "word": "张含韵人前体面人后慌乱",
+      "onboard_time": 1720068258,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 152144,
@@ -891,12 +979,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142153,
+      "num": 142153,
+      "word": "长相思2官宣见面会",
+      "onboard_time": 1720070237,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142137,
+      "num": 142136,
+      "word": "菲律宾绑架案遇害者生前曾遭虐待",
+      "onboard_time": 1720070298,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140799,
       "num": 140799,
       "word": "绝区零预下载多个国家和地区登顶",
       "onboard_time": 1720049776,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140398,
+      "num": 140398,
+      "word": "2000亿巨无霸ETF基金经理升职",
+      "onboard_time": 1720069998,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 139089,
@@ -939,8 +1051,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135448,
-      "num": 135448,
+      "raw_hot": 135878,
+      "num": 135878,
       "word": "黄宣 小镇姑娘",
       "onboard_time": 1720067718,
       "rank": 43,
@@ -993,6 +1105,14 @@
       "onboard_time": 1720060156,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128768,
+      "num": 136258,
+      "word": "字母哥11中11轰32分",
+      "onboard_time": 1720069578,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128333,
@@ -1307,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66158,
+      "num": 1257679,
+      "word": "打卡多彩哈萨克斯坦",
+      "onboard_time": 1720065978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64761,
       "num": 64761,
       "word": "肾虚不虚看这5个地方就知道",
@@ -1339,12 +1467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57911,
-      "num": 1257679,
-      "word": "打卡多彩哈萨克斯坦",
-      "onboard_time": 1720065978,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 60624,
+      "num": 243190,
+      "word": "比亚迪第800万辆新能源汽车下线",
+      "onboard_time": 1720069519,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 55006,
+      "num": 296227,
+      "word": "详解不同年龄段海姆立克急救法",
+      "onboard_time": 1720069039,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 52407,
@@ -1403,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35860,
+      "num": 142137,
+      "word": "绝区零兄妹cos",
+      "onboard_time": 1720069878,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29400,
       "num": 587010,
       "word": "雪龙2号和极地号硬核同框",
@@ -1443,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13305,
+      "num": 230067,
+      "word": "我玩绝区零连吃带拿",
+      "onboard_time": 1720067898,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 8004,
       "num": 379987,
       "word": "哈萨克斯坦小女孩和康辉聊天好丝滑",
@@ -1477,6 +1629,9 @@
     },
     {
       "word": "#习近平中亚行#"
+    },
+    {
+      "word": "#习近平主席访问哈萨克斯坦高光时刻#"
     }
   ]
 }

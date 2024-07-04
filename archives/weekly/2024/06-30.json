@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720067866844,
+  "endTime": 1720070421245,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936101,
+      "num": 427930,
+      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+      "onboard_time": 1720066579,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932711,
       "num": 932711,
       "word": "周杰伦演唱会抢票",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1719675500,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669483,
+      "num": 348870,
+      "word": "只有工资到账那一秒是爽的",
+      "onboard_time": 1720064658,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 669112,
@@ -2099,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 533348,
+      "num": 427595,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532668,
       "num": 430694,
       "word": "陈坤 我怕了",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1720005378,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 501869,
-      "num": 348870,
-      "word": "只有工资到账那一秒是爽的",
-      "onboard_time": 1720064658,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 500985,
@@ -2787,14 +2803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445353,
-      "num": 427930,
-      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
-      "onboard_time": 1720066579,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445328,
       "num": 445328,
       "word": "太原理工vs清华大学",
@@ -2971,14 +2979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 427595,
-      "num": 427595,
-      "word": "歌手第九期又有汪峰的歌",
-      "onboard_time": 1720066698,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426810,
       "num": 342488,
       "word": "度华年",
@@ -3072,6 +3072,14 @@
       "word": "吴谨言曾给假粉签了五百张签名照",
       "onboard_time": 1719825258,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414661,
+      "num": 277043,
+      "word": "张凌赫素人时期照片",
+      "onboard_time": 1720068019,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -3355,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378308,
+      "num": 378308,
+      "word": "秦彻偷跑",
+      "onboard_time": 1720065917,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377032,
       "num": 377032,
       "word": "首个早上提档晚上撤档的电影",
@@ -3459,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366551,
+      "num": 271548,
+      "word": "什么是快乐星球是马嘉祺写的",
+      "onboard_time": 1720068859,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365774,
       "num": 365774,
       "word": "朋友哥哥是车银优",
@@ -3515,7 +3539,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 359088,
+      "raw_hot": 360287,
       "num": 359088,
       "word": "福宝的起床气被果果治好了",
       "onboard_time": 1720065137,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1719900441,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 356521,
+      "num": 265777,
+      "word": "长相思2小夭相柳转身镜头",
+      "onboard_time": 1720066338,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 356158,
@@ -3961,14 +3993,6 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 317401,
-      "num": 317401,
-      "word": "秦彻偷跑",
-      "onboard_time": 1720065917,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 317171,
@@ -4579,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264061,
+      "num": 264061,
+      "word": "新疆有自己的娱乐圈",
+      "onboard_time": 1720069339,
+      "rank": 17,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 262459,
       "num": 204218,
       "word": "李蓉差点18岁就要守寡",
@@ -4803,14 +4835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247904,
-      "num": 247904,
-      "word": "长相思2小夭相柳转身镜头",
-      "onboard_time": 1720066338,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247417,
       "num": 247417,
       "word": "王星越直播比心手都在抖",
@@ -4880,6 +4904,14 @@
       "word": "小鬼抓人和王源抓人对比",
       "onboard_time": 1720049476,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241849,
+      "num": 241849,
+      "word": "张远接活都接到欧洲了",
+      "onboard_time": 1720069398,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -6011,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198308,
+      "num": 198308,
+      "word": "XG世巡中国场",
+      "onboard_time": 1720068740,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198295,
       "num": 198295,
       "word": "长安的荔枝杀青",
@@ -6627,6 +6667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184111,
+      "num": 184111,
+      "word": "宁静回应花少争议",
+      "onboard_time": 1720070058,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184014,
       "num": 184014,
       "word": "于正回应赵晴AI换脸",
@@ -6825,6 +6873,14 @@
       "onboard_time": 1719790095,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177397,
+      "num": 177397,
+      "word": "宋亚轩晒鼠标亲爪签名",
+      "onboard_time": 1720069878,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 177195,
@@ -7235,6 +7291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163980,
+      "num": 163980,
+      "word": "Miss团队",
+      "onboard_time": 1720069398,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163588,
       "num": 163588,
       "word": "魏大勋蒲熠星极限拉扯",
@@ -7273,6 +7337,14 @@
       "onboard_time": 1719757580,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162557,
+      "num": 162557,
+      "word": "gidle 夏日风",
+      "onboard_time": 1720068379,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 162489,
@@ -7321,6 +7393,14 @@
       "onboard_time": 1719757699,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161567,
+      "num": 161567,
+      "word": "女孩诉离异父亲付大学费用法院不支持",
+      "onboard_time": 1720069817,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161350,
@@ -7721,6 +7801,14 @@
       "onboard_time": 1719842239,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152525,
+      "num": 152525,
+      "word": "张含韵人前体面人后慌乱",
+      "onboard_time": 1720068258,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 152144,
@@ -8259,12 +8347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142153,
+      "num": 142153,
+      "word": "长相思2官宣见面会",
+      "onboard_time": 1720070237,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142138,
       "num": 142138,
       "word": "嘉兴体育局称张志杰之前身体挺好的",
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142137,
+      "num": 142136,
+      "word": "菲律宾绑架案遇害者生前曾遭虐待",
+      "onboard_time": 1720070298,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141510,
@@ -8345,6 +8449,14 @@
       "onboard_time": 1719902779,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 140398,
+      "num": 140398,
+      "word": "2000亿巨无霸ETF基金经理升职",
+      "onboard_time": 1720069998,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 140340,
@@ -8611,6 +8723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "黄宣 小镇姑娘",
+      "onboard_time": 1720067718,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135811,
       "num": 135811,
       "word": "超120名中国大众跑者参赛巴黎奥运会",
@@ -8641,14 +8761,6 @@
       "onboard_time": 1719923418,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135448,
-      "num": 135448,
-      "word": "黄宣 小镇姑娘",
-      "onboard_time": 1720067718,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 135241,
@@ -9065,6 +9177,14 @@
       "onboard_time": 1719835638,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128768,
+      "num": 136258,
+      "word": "字母哥11中11轰32分",
+      "onboard_time": 1720069578,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128333,
@@ -11315,6 +11435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66158,
+      "num": 1257679,
+      "word": "打卡多彩哈萨克斯坦",
+      "onboard_time": 1720065978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66068,
       "num": 414187,
       "word": "孕妇突然分娩众人暖心搭建临时产房",
@@ -11507,6 +11635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 60624,
+      "num": 243190,
+      "word": "比亚迪第800万辆新能源汽车下线",
+      "onboard_time": 1720069519,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60564,
       "num": 159328,
       "word": "让AED成为大型赛事标配",
@@ -11569,14 +11705,6 @@
       "onboard_time": 1719979819,
       "rank": 9,
       "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 57911,
-      "num": 1257679,
-      "word": "打卡多彩哈萨克斯坦",
-      "onboard_time": 1720065978,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57562,
@@ -11649,6 +11777,14 @@
       "onboard_time": 1720014980,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55006,
+      "num": 296227,
+      "word": "详解不同年龄段海姆立克急救法",
+      "onboard_time": 1720069039,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 53324,
@@ -12089,6 +12225,14 @@
       "onboard_time": 1719703394,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35860,
+      "num": 142137,
+      "word": "绝区零兄妹cos",
+      "onboard_time": 1720069878,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 35680,
@@ -12675,6 +12819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 13305,
+      "num": 230067,
+      "word": "我玩绝区零连吃带拿",
+      "onboard_time": 1720067898,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 13038,
       "num": 100452,
       "word": "男孩骑车摔倒后找砖头把坑填平了",
@@ -12863,6 +13015,9 @@
     },
     {
       "word": "#习近平会见乌兹别克斯坦总统#"
+    },
+    {
+      "word": "#习近平主席访问哈萨克斯坦高光时刻#"
     }
   ]
 }

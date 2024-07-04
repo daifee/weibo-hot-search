@@ -1,0 +1,410 @@
+{
+  "runTime": 1720070421245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 780171,
+        "num": 780171,
+        "word": "向佐维护郭碧婷",
+        "onboard_time": 1720063338,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504571,
+        "num": 504571,
+        "word": "日本地震",
+        "onboard_time": 1720066158,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66158,
+        "num": 415352,
+        "word": "打卡多彩哈萨克斯坦",
+        "onboard_time": 1720065978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763114,
+        "num": 402555,
+        "word": "歌手歌单",
+        "onboard_time": 1720064718,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378308,
+        "num": 378308,
+        "word": "秦彻偷跑",
+        "onboard_time": 1720065917,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59119,
+        "num": 300861,
+        "word": "神十八出舱上演宇宙级丝滑",
+        "onboard_time": 1720057097,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689851,
+        "num": 300789,
+        "word": "默杀 看爽了",
+        "onboard_time": 1720063939,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 533348,
+        "num": 300691,
+        "word": "歌手第九期又有汪峰的歌",
+        "onboard_time": 1720066698,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300373,
+        "num": 300373,
+        "word": "特斯拉进入江苏省政府用车采购目录",
+        "onboard_time": 1720061537,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55006,
+        "num": 296227,
+        "word": "详解不同年龄段海姆立克急救法",
+        "onboard_time": 1720069039,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 639010,
+        "num": 293145,
+        "word": "女生退租遭辱骂致死案二审维持原判",
+        "onboard_time": 1720064297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602754,
+        "num": 290503,
+        "word": "中金称女员工系自身原因离世",
+        "onboard_time": 1720062138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545701,
+        "num": 283057,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360287,
+        "num": 281193,
+        "word": "福宝的起床气被果果治好了",
+        "onboard_time": 1720065137,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414661,
+        "num": 277043,
+        "word": "张凌赫素人时期照片",
+        "onboard_time": 1720068019,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366551,
+        "num": 271548,
+        "word": "什么是快乐星球是马嘉祺写的",
+        "onboard_time": 1720068859,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356521,
+        "num": 265777,
+        "word": "长相思2小夭相柳转身镜头",
+        "onboard_time": 1720066338,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264061,
+        "num": 264061,
+        "word": "新疆有自己的娱乐圈",
+        "onboard_time": 1720069339,
+        "rank": 17,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 244060,
+        "num": 244060,
+        "word": "绝区零 无聊",
+        "onboard_time": 1720062739,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234370,
+        "num": 243812,
+        "word": "大三女生2次捐献救同一位小女孩",
+        "onboard_time": 1720054757,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125663,
+        "num": 243556,
+        "word": "韩国高中盯上中国生源",
+        "onboard_time": 1720060695,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343145,
+        "num": 243484,
+        "word": "怀疑乌尔善用了3D打印技术",
+        "onboard_time": 1720061297,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60624,
+        "num": 243190,
+        "word": "比亚迪第800万辆新能源汽车下线",
+        "onboard_time": 1720069519,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 936101,
+        "num": 242948,
+        "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+        "onboard_time": 1720066579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669483,
+        "num": 242468,
+        "word": "只有工资到账那一秒是爽的",
+        "onboard_time": 1720064658,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568393,
+        "num": 242391,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 486861,
+        "num": 241993,
+        "word": "完全不内耗的人都有一个特质",
+        "onboard_time": 1720064538,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241921,
+        "num": 241921,
+        "word": "周焯华确定获刑18年",
+        "onboard_time": 1720066218,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241849,
+        "num": 241849,
+        "word": "张远接活都接到欧洲了",
+        "onboard_time": 1720069398,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13305,
+        "num": 230067,
+        "word": "我玩绝区零连吃带拿",
+        "onboard_time": 1720067898,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218393,
+        "num": 218393,
+        "word": "敖子逸 小鬼",
+        "onboard_time": 1720050257,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 206584,
+        "word": "绝区零开服",
+        "onboard_time": 1720053857,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198308,
+        "num": 198308,
+        "word": "XG世巡中国场",
+        "onboard_time": 1720068740,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184111,
+        "num": 184111,
+        "word": "宁静回应花少争议",
+        "onboard_time": 1720070058,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177397,
+        "num": 177397,
+        "word": "宋亚轩晒鼠标亲爪签名",
+        "onboard_time": 1720069878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174858,
+        "num": 174858,
+        "word": "刘亦菲实绩",
+        "onboard_time": 1720049956,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172802,
+        "num": 172802,
+        "word": "Miss回应团队背刺郭碧婷",
+        "onboard_time": 1720049597,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170165,
+        "num": 170165,
+        "word": "男子抱5个月女儿欲跳楼轻生",
+        "onboard_time": 1720060277,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163980,
+        "num": 163980,
+        "word": "Miss团队",
+        "onboard_time": 1720069398,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144271,
+        "num": 162681,
+        "word": "萌兰9岁生日快乐",
+        "onboard_time": 1720049116,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162557,
+        "num": 162557,
+        "word": "gidle 夏日风",
+        "onboard_time": 1720068379,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161567,
+        "num": 161567,
+        "word": "女孩诉离异父亲付大学费用法院不支持",
+        "onboard_time": 1720069817,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152525,
+        "num": 152525,
+        "word": "张含韵人前体面人后慌乱",
+        "onboard_time": 1720068258,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143863,
+        "num": 143863,
+        "word": "上海迪士尼回应暑期门票飙至719元",
+        "onboard_time": 1720056139,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142153,
+        "num": 142153,
+        "word": "长相思2官宣见面会",
+        "onboard_time": 1720070237,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35860,
+        "num": 142137,
+        "word": "绝区零兄妹cos",
+        "onboard_time": 1720069878,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142137,
+        "num": 142136,
+        "word": "菲律宾绑架案遇害者生前曾遭虐待",
+        "onboard_time": 1720070298,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140398,
+        "num": 140398,
+        "word": "2000亿巨无霸ETF基金经理升职",
+        "onboard_time": 1720069998,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128768,
+        "num": 136258,
+        "word": "字母哥11中11轰32分",
+        "onboard_time": 1720069578,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "黄宣 小镇姑娘",
+        "onboard_time": 1720067718,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问哈萨克斯坦高光时刻#"
+    }
+  }
+}
