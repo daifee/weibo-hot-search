@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720075203279,
+  "endTime": 1720077592179,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 854695,
-      "num": 232834,
+      "num": 338841,
       "word": "仅4成男性为结婚买房",
       "onboard_time": 1720071318,
       "rank": 48,
@@ -169,6 +169,22 @@
       "onboard_time": 1720049597,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 708809,
+      "num": 581270,
+      "word": "谭松韵回归长发",
+      "onboard_time": 1720072998,
+      "rank": 6,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 707411,
+      "num": 707411,
+      "word": "韩国抗议将泡菜译成中国辣白菜",
+      "onboard_time": 1720074679,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687799,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605568,
-      "num": 494043,
-      "word": "谭松韵回归长发",
-      "onboard_time": 1720072998,
-      "rank": 6,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 593117,
       "num": 593117,
       "word": "谭爷爷为花花和叶做生日蛋糕",
@@ -280,6 +288,14 @@
       "word": "歌手第九期又有汪峰的歌",
       "onboard_time": 1720066698,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 568313,
+      "num": 568313,
+      "word": "纪凌尘说自己现在火了",
+      "onboard_time": 1720074139,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -312,6 +328,14 @@
       "word": "绝区零开服",
       "onboard_time": 1720053857,
       "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 527405,
+      "num": 527405,
+      "word": "秦彻 鞋拔子脸",
+      "onboard_time": 1720074258,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -384,6 +408,14 @@
       "word": "男子抱5个月女儿欲跳楼轻生",
       "onboard_time": 1720060277,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448007,
+      "num": 227411,
+      "word": "年轻人买房平均动用2.6个钱包",
+      "onboard_time": 1720073898,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -523,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337160,
-      "num": 231655,
-      "word": "纪凌尘说自己现在火了",
-      "onboard_time": 1720074139,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 330930,
+      "num": 330930,
+      "word": "警方通报男子翻越电梯扶手坠亡",
+      "onboard_time": 1720074918,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314683,
@@ -555,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299927,
-      "num": 299927,
-      "word": "秦彻 鞋拔子脸",
+      "raw_hot": 293349,
+      "num": 293349,
+      "word": "默杀票房破5000万",
       "onboard_time": 1720074258,
-      "rank": 41,
-      "category": "游戏"
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 279862,
+      "num": 279862,
+      "word": "新海诚 埋了8年的伏笔",
+      "onboard_time": 1720074617,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 262081,
@@ -635,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227411,
-      "num": 227411,
-      "word": "年轻人买房平均动用2.6个钱包",
-      "onboard_time": 1720073898,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225919,
       "num": 225919,
       "word": "气血不足的人常做的8个坏习惯",
@@ -656,6 +688,14 @@
       "word": "印度男女偷情被当众处私刑",
       "onboard_time": 1719995539,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222937,
+      "num": 222937,
+      "word": "女儿坐轮椅带90岁妈妈拍人生首次写真",
+      "onboard_time": 1720076058,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -731,14 +771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210611,
-      "num": 210611,
-      "word": "默杀票房破5000万",
-      "onboard_time": 1720074258,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208051,
       "num": 208051,
       "word": "李东海李银赫评价余宇涵",
@@ -760,6 +792,14 @@
       "word": "女子吃1斤见手青后看见一屋人",
       "onboard_time": 1720001718,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202301,
+      "num": 177037,
+      "word": "中金成立专项小组处理离世员工事宜",
+      "onboard_time": 1720076718,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -817,6 +857,14 @@
       "onboard_time": 1720070717,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188818,
+      "num": 188818,
+      "word": "杨紫说小夭会被打碎然后重塑",
+      "onboard_time": 1720077019,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 188671,
@@ -955,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161130,
-      "num": 161130,
-      "word": "新海诚 埋了8年的伏笔",
-      "onboard_time": 1720074617,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158523,
       "num": 158523,
       "word": "斗鱼罕见大手笔分红",
@@ -1027,8 +1067,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 154325,
-      "num": 154325,
+      "raw_hot": 154911,
+      "num": 154911,
       "word": "印尼卫生部长说张志杰本有望救活",
       "onboard_time": 1720074498,
       "rank": 40,
@@ -1171,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139064,
+      "num": 139064,
+      "word": "苗苗欠下的手工皂还上了",
+      "onboard_time": 1720077498,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138607,
       "num": 138607,
       "word": "萌娃扶梯摔倒前1秒被辅警单手救起",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1720072157,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132304,
-      "num": 132304,
-      "word": "警方通报男子翻越电梯扶手坠亡",
-      "onboard_time": 1720074918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131955,
@@ -1379,6 +1419,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122152,
+      "num": 122152,
+      "word": "北京JDG对战长沙TES",
+      "onboard_time": 1720077377,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "第五人格",
@@ -1395,6 +1443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118979,
+      "num": 161094,
+      "word": "大英博物馆前馆长呼吁向外国游客收费",
+      "onboard_time": 1720073598,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115865,
+      "num": 115865,
+      "word": "TF家族夏日运动会入场须知",
+      "onboard_time": 1720077558,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113016,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1720048756,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91521,
+      "num": 340106,
+      "word": "陈延年离开97年了",
+      "onboard_time": 1720076539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91083,
@@ -1691,6 +1763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60108,
+      "num": 407063,
+      "word": "被高山之国硬控60秒",
+      "onboard_time": 1720074018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54490,
+      "num": 202467,
+      "word": "这届年轻人是如何健康饮茶的",
+      "onboard_time": 1720076597,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 52407,
       "num": 1146503,
       "word": "中哈两位音乐家的跨国友情",
@@ -1731,14 +1819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45347,
-      "num": 232939,
-      "word": "被高山之国硬控60秒",
-      "onboard_time": 1720074018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45186,
       "num": 45186,
       "word": "原来点外卖看太多次地图骑手知道的",
@@ -1755,14 +1835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40312,
-      "num": 161094,
-      "word": "大英博物馆前馆长呼吁向外国游客收费",
-      "onboard_time": 1720073598,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37501,
       "num": 38691,
       "word": "魔方新世界排名",
@@ -1771,19 +1843,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37371,
-      "num": 119029,
-      "word": "韩国抗议将泡菜译成中国辣白菜",
-      "onboard_time": 1720074679,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35860,
       "num": 142137,
       "word": "绝区零兄妹cos",
       "onboard_time": 1720069878,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 31506,
+      "num": 177093,
+      "word": "绝区零玩家吃得真好",
+      "onboard_time": 1720076177,
+      "rank": 29,
       "category": "游戏"
     },
     {
