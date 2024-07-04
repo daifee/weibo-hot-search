@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720064227284,
+  "endTime": 1720066948485,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1563959,
+      "num": 1563959,
+      "word": "歌手歌单",
+      "onboard_time": 1720064718,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1518291,
       "num": 1518291,
       "word": "韩国高中盯上中国生源",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1041211,
-      "num": 410475,
+      "num": 440498,
       "word": "中金称女员工系自身原因离世",
       "onboard_time": 1720062138,
       "rank": 10,
@@ -73,6 +81,14 @@
       "onboard_time": 1720045032,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 969112,
+      "num": 969112,
+      "word": "向佐维护郭碧婷",
+      "onboard_time": 1720063338,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 781381,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702163,
+      "num": 488177,
+      "word": "默杀 看爽了",
+      "onboard_time": 1720063939,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 687799,
       "num": 687799,
       "word": "医院回应徒步女主播路边直播被车撞",
@@ -128,6 +152,14 @@
       "word": "萌兰花花和叶今天生日",
       "onboard_time": 1720047915,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661628,
+      "num": 428784,
+      "word": "女生退租遭辱骂致死案二审维持原判",
+      "onboard_time": 1720064297,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -153,14 +185,6 @@
       "onboard_time": 1719996679,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 645915,
-      "num": 521481,
-      "word": "向佐维护郭碧婷",
-      "onboard_time": 1720063338,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 632345,
@@ -219,8 +243,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472692,
-      "num": 472692,
+      "raw_hot": 496102,
+      "num": 496102,
       "word": "特斯拉进入江苏省政府用车采购目录",
       "onboard_time": 1720061537,
       "rank": 13,
@@ -241,6 +265,22 @@
       "onboard_time": 1720062017,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460352,
+      "num": 257690,
+      "word": "完全不内耗的人都有一个特质",
+      "onboard_time": 1720064538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 452098,
+      "num": 452098,
+      "word": "绝区零 无聊",
+      "onboard_time": 1720062739,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 451644,
@@ -315,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353604,
+      "num": 353604,
+      "word": "胡锡进谈中金员工意外离世",
+      "onboard_time": 1720062077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346685,
       "num": 165846,
       "word": "李泽锋站姐拍出了阿如那的善良",
@@ -331,12 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332408,
-      "num": 332408,
-      "word": "胡锡进谈中金员工意外离世",
-      "onboard_time": 1720062077,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 316440,
+      "num": 316440,
+      "word": "福宝的起床气被果果治好了",
+      "onboard_time": 1720065137,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 315149,
+      "num": 257298,
+      "word": "只有工资到账那一秒是爽的",
+      "onboard_time": 1720064658,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 314683,
@@ -353,14 +409,6 @@
       "onboard_time": 1720055418,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301609,
-      "num": 301609,
-      "word": "绝区零 无聊",
-      "onboard_time": 1720062739,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 262081,
@@ -385,6 +433,30 @@
       "onboard_time": 1720050137,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 257840,
+      "num": 257840,
+      "word": "日本地震",
+      "onboard_time": 1720066158,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257085,
+      "num": 257085,
+      "word": "秦彻偷跑",
+      "onboard_time": 1720065917,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 254850,
+      "num": 254850,
+      "word": "裴文宣 恋爱脑",
+      "onboard_time": 1720062436,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 244982,
@@ -475,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215528,
+      "num": 215528,
+      "word": "小燕子刚出生就有上岗经验了",
+      "onboard_time": 1720063397,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213403,
       "num": 213403,
       "word": "长相思 预约",
@@ -491,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211564,
+      "num": 211564,
+      "word": "周焯华确定获刑18年",
+      "onboard_time": 1720066218,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208051,
       "num": 208051,
       "word": "李东海李银赫评价余宇涵",
@@ -499,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207554,
-      "num": 207554,
-      "word": "裴文宣 恋爱脑",
-      "onboard_time": 1720062436,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 207081,
+      "num": 207081,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 205431,
@@ -531,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199618,
-      "num": 199618,
-      "word": "小燕子刚出生就有上岗经验了",
-      "onboard_time": 1720063397,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199265,
       "num": 199265,
       "word": "郑州文旅回应涉林俊杰演唱会争议内容",
@@ -560,6 +640,14 @@
       "word": "中金称网传员工跳楼系谣言",
       "onboard_time": 1720010838,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195929,
+      "num": 195929,
+      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+      "onboard_time": 1720066579,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -611,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178372,
+      "num": 178372,
+      "word": "长相思2小夭相柳转身镜头",
+      "onboard_time": 1720066338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175731,
       "num": 175731,
       "word": "衡水两校复读班招生收款方为传媒公司",
@@ -627,11 +723,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165299,
-      "num": 165299,
-      "word": "默杀 看爽了",
-      "onboard_time": 1720063939,
-      "rank": 37,
+      "raw_hot": 172030,
+      "num": 172030,
+      "word": "野孩子原型",
+      "onboard_time": 1720066218,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -659,6 +755,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157172,
+      "num": 413494,
+      "word": "装修能有多少离谱的坑",
+      "onboard_time": 1720063217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155698,
+      "num": 155698,
+      "word": "TF家族运动会6个小时",
+      "onboard_time": 1720065018,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155182,
       "num": 155182,
       "word": "GAI不老实不放过",
@@ -683,8 +795,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150271,
-      "num": 150271,
+      "raw_hot": 152144,
+      "num": 152144,
       "word": "咒术回战",
       "onboard_time": 1720063758,
       "rank": 41,
@@ -707,12 +819,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148099,
+      "num": 130906,
+      "word": "谭松韵演技",
+      "onboard_time": 1720066519,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147807,
       "num": 377039,
       "word": "全场球迷高呼谢谢阿姨",
       "onboard_time": 1720060636,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147229,
+      "num": 147229,
+      "word": "李东海李赫宰评价余宇涵",
+      "onboard_time": 1720063998,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146389,
@@ -843,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128333,
+      "num": 128333,
+      "word": "姆巴佩皇马亮相仪式",
+      "onboard_time": 1720065738,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "下半年水瓶座苦尽甘来",
@@ -916,11 +1052,19 @@
     },
     {
       "raw_hot": 116617,
-      "num": 116617,
+      "num": 449882,
       "word": "神十八出舱上演宇宙级丝滑",
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114424,
+      "num": 122843,
+      "word": "CBLOCK 江湖流",
+      "onboard_time": 1720066879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113016,
@@ -1131,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70826,
-      "num": 413494,
-      "word": "装修能有多少离谱的坑",
-      "onboard_time": 1720063217,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66345,
       "num": 359403,
       "word": "萌兰的生日蛋糕上有9只小鸟",
@@ -1193,6 +1329,14 @@
       "onboard_time": 1720062498,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46337,
+      "num": 1257679,
+      "word": "打卡多彩哈萨克斯坦",
+      "onboard_time": 1720065978,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45389,
@@ -1298,6 +1442,9 @@
     },
     {
       "word": "#习近平会见乌兹别克斯坦总统#"
+    },
+    {
+      "word": "#习近平中亚行#"
     }
   ]
 }
