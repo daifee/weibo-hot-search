@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720071374946,
+  "endTime": 1720074450146,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1155,8 +1155,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 768129,
+      "num": 528150,
+      "word": "新疆有自己的娱乐圈",
+      "onboard_time": 1720069339,
+      "rank": 17,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 765071,
+      "num": 192421,
+      "word": "仅4成男性为结婚买房",
+      "onboard_time": 1720071318,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759736,
-      "num": 518113,
+      "num": 581668,
       "word": "默杀 看爽了",
       "onboard_time": 1720063939,
       "rank": 37,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1719887959,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 751062,
+      "num": 751062,
+      "word": "沙特土豪误认选手豪赠100刀",
+      "onboard_time": 1720070717,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 750543,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1719745938,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 620580,
+      "num": 620580,
+      "word": "A股",
+      "onboard_time": 1719811281,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 620053,
@@ -2035,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556732,
+      "num": 190671,
+      "word": "均价一天一万元的月子中心宣布将上市",
+      "onboard_time": 1720071438,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556467,
       "num": 275100,
       "word": "爸爸考研成绩出来我焦虑了",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1719656897,
       "rank": 8,
       "category": "网红"
-    },
-    {
-      "raw_hot": 528150,
-      "num": 528150,
-      "word": "新疆有自己的娱乐圈",
-      "onboard_time": 1720069339,
-      "rank": 17,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 527305,
@@ -2307,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 508614,
+      "num": 508614,
+      "word": "郭保坤你变坏了",
+      "onboard_time": 1720072698,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507612,
       "num": 507612,
       "word": "穿袜子睡觉可以提高睡眠质量",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1719671479,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494043,
+      "num": 494043,
+      "word": "谭松韵回归长发",
+      "onboard_time": 1720072998,
+      "rank": 6,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 493814,
@@ -3187,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399876,
+      "num": 232945,
+      "word": "菲律宾绑架案遇害者生前曾遭虐待",
+      "onboard_time": 1720070298,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399378,
       "num": 399378,
       "word": "2名中国企业管理人员菲律宾遇害",
@@ -3273,14 +3329,6 @@
       "onboard_time": 1719856813,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 388498,
-      "num": 388498,
-      "word": "A股",
-      "onboard_time": 1719811281,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 388268,
@@ -3380,7 +3428,7 @@
     },
     {
       "raw_hot": 378308,
-      "num": 378308,
+      "num": 500248,
       "word": "秦彻偷跑",
       "onboard_time": 1720065917,
       "rank": 23,
@@ -3641,14 +3689,6 @@
       "onboard_time": 1719837378,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351893,
-      "num": 232945,
-      "word": "菲律宾绑架案遇害者生前曾遭虐待",
-      "onboard_time": 1720070298,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351797,
@@ -4179,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301515,
+      "num": 217341,
+      "word": "宁静回应花少争议",
+      "onboard_time": 1720070058,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300944,
       "num": 300944,
       "word": "王一博来广西晒黑了",
@@ -4241,14 +4289,6 @@
       "onboard_time": 1719921319,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 297436,
-      "num": 217341,
-      "word": "宁静回应花少争议",
-      "onboard_time": 1720070058,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 297041,
@@ -4915,14 +4955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243975,
-      "num": 229570,
-      "word": "沙特土豪误认选手豪赠100刀",
-      "onboard_time": 1720070717,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 242748,
       "num": 242748,
       "word": "小鬼抓人和王源抓人对比",
@@ -5123,6 +5155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231753,
+      "num": 189720,
+      "word": "纪凌尘说自己现在火了",
+      "onboard_time": 1720074139,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231498,
       "num": 231498,
       "word": "魏大勋张婧仪孙千高圆圆豪门既视感",
@@ -5297,6 +5337,14 @@
       "onboard_time": 1720058476,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220627,
+      "num": 189463,
+      "word": "迪丽热巴雾霭缭绕眼眸",
+      "onboard_time": 1720072038,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220403,
@@ -6451,6 +6499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 189270,
+      "num": 215231,
+      "word": "97年前29岁的陈延年牺牲",
+      "onboard_time": 1720070717,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188835,
       "num": 188835,
       "word": "银河证券回应员工跳楼传闻",
@@ -7115,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "男子独自爬山失踪遗体已被找到",
+      "onboard_time": 1720073239,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169618,
       "num": 169618,
       "word": "深中通道",
@@ -7185,6 +7249,14 @@
       "onboard_time": 1719802938,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167767,
+      "num": 167767,
+      "word": "白俄罗斯成为上合组织正式成员国",
+      "onboard_time": 1720073838,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 167312,
@@ -7345,6 +7417,14 @@
       "onboard_time": 1719976757,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163403,
+      "num": 163403,
+      "word": "默杀票房破5000万",
+      "onboard_time": 1720074258,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 163211,
@@ -8019,6 +8099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147963,
+      "num": 147963,
+      "word": "马来西亚男子迷晕妓女抢走25万财物",
+      "onboard_time": 1720071197,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147807,
       "num": 377039,
       "word": "全场球迷高呼谢谢阿姨",
@@ -8267,6 +8355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143198,
+      "num": 143198,
+      "word": "秦彻 鞋拔子脸",
+      "onboard_time": 1720074258,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143180,
       "num": 148969,
       "word": "奇瑞被曝强制加班卷工时",
@@ -8321,6 +8417,14 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142707,
+      "num": 142707,
+      "word": "年轻人买房平均动用2.6个钱包",
+      "onboard_time": 1720073898,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142467,
@@ -8393,6 +8497,14 @@
       "onboard_time": 1719924438,
       "rank": 31,
       "category": "自然"
+    },
+    {
+      "raw_hot": 141158,
+      "num": 141158,
+      "word": "关晓彤晒严晓丹校服造型",
+      "onboard_time": 1720074078,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140801,
@@ -8649,6 +8761,14 @@
       "onboard_time": 1719722476,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137244,
+      "num": 137244,
+      "word": "张艺兴新歌在脑子里摇了一天",
+      "onboard_time": 1720072638,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 137243,
@@ -8963,12 +9083,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132346,
-      "num": 132346,
-      "word": "马来西亚男子迷晕妓女抢走25万财物",
-      "onboard_time": 1720071197,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 132371,
+      "num": 132371,
+      "word": "Miss电竞圈名气",
+      "onboard_time": 1720072157,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 132269,
@@ -9001,14 +9121,6 @@
       "onboard_time": 1719922458,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 131781,
-      "num": 215231,
-      "word": "97年前29岁的陈延年牺牲",
-      "onboard_time": 1720070717,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131776,
@@ -9361,6 +9473,14 @@
       "onboard_time": 1720056557,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125442,
+      "num": 125442,
+      "word": "自卑感是原生家庭的锅吗",
+      "onboard_time": 1720072038,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125209,
@@ -9832,14 +9952,6 @@
       "word": "90后女生带一群退休阿姨再创业",
       "onboard_time": 1719880519,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117624,
-      "num": 117624,
-      "word": "仅4成男性为结婚买房",
-      "onboard_time": 1720071318,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10955,6 +11067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91083,
+      "num": 243190,
+      "word": "比亚迪第800万辆新能源汽车下线",
+      "onboard_time": 1720069519,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90548,
       "num": 111310,
       "word": "年轻人运动猝死主要因不恰当运动强度",
@@ -10993,6 +11113,14 @@
       "onboard_time": 1720022119,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90210,
+      "num": 137398,
+      "word": "这才是投桃报李最好的画面",
+      "onboard_time": 1720073478,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90131,
@@ -11675,14 +11803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 60624,
-      "num": 243190,
-      "word": "比亚迪第800万辆新能源汽车下线",
-      "onboard_time": 1720069519,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 60564,
       "num": 159328,
       "word": "让AED成为大型赛事标配",
@@ -12131,6 +12251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 40312,
+      "num": 161094,
+      "word": "大英博物馆前馆长呼吁向外国游客收费",
+      "onboard_time": 1720073598,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40304,
       "num": 164114,
       "word": "年轻人买车更看重什么",
@@ -12371,6 +12499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32794,
+      "num": 193014,
+      "word": "被高山之国硬控60秒",
+      "onboard_time": 1720074018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32515,
       "num": 32515,
       "word": "发现了INFP快速找到热爱的方法",
@@ -12513,6 +12649,14 @@
       "onboard_time": 1719795798,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27763,
+      "num": 191155,
+      "word": "绝区零好多人啊",
+      "onboard_time": 1720072397,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 27594,
