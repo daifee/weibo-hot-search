@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720066948485,
+  "endTime": 1720067866844,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801274,
+      "num": 429675,
+      "word": "女生退租遭辱骂致死案二审维持原判",
+      "onboard_time": 1720064297,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781381,
       "num": 781381,
       "word": "年轻人凌晨三点在迪士尼排长队",
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759736,
+      "num": 518113,
+      "word": "默杀 看爽了",
+      "onboard_time": 1720063939,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 720534,
       "num": 720534,
       "word": "怀疑乌尔善用了3D打印技术",
@@ -121,14 +137,6 @@
       "onboard_time": 1720049597,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 702163,
-      "num": 488177,
-      "word": "默杀 看爽了",
-      "onboard_time": 1720063939,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 687799,
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661628,
-      "num": 428784,
-      "word": "女生退租遭辱骂致死案二审维持原判",
-      "onboard_time": 1720064297,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657892,
       "num": 657892,
       "word": "以宣布没收约12平方公里巴土地",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 650926,
-      "num": 269563,
+      "num": 348828,
       "word": "夏天不建议女生买的衣服",
       "onboard_time": 1720047975,
       "rank": 21,
@@ -227,12 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531051,
+      "num": 531051,
+      "word": "日本地震",
+      "onboard_time": 1720066158,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529741,
       "num": 529741,
       "word": "绝区零开服",
       "onboard_time": 1720053857,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 516366,
+      "num": 349797,
+      "word": "完全不内耗的人都有一个特质",
+      "onboard_time": 1720064538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 501869,
+      "num": 348870,
+      "word": "只有工资到账那一秒是爽的",
+      "onboard_time": 1720064658,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 499848,
@@ -267,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460352,
-      "num": 257690,
-      "word": "完全不内耗的人都有一个特质",
-      "onboard_time": 1720064538,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452098,
       "num": 452098,
       "word": "绝区零 无聊",
@@ -289,6 +305,22 @@
       "onboard_time": 1720060277,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445353,
+      "num": 427930,
+      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+      "onboard_time": 1720066579,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427595,
+      "num": 427595,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 424936,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359088,
+      "num": 359088,
+      "word": "福宝的起床气被果果治好了",
+      "onboard_time": 1720065137,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359056,
       "num": 359056,
       "word": "刘亦菲实绩",
@@ -361,6 +401,14 @@
       "onboard_time": 1720062077,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347790,
+      "num": 347790,
+      "word": "周焯华确定获刑18年",
+      "onboard_time": 1720066218,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 346685,
@@ -379,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316440,
-      "num": 316440,
-      "word": "福宝的起床气被果果治好了",
-      "onboard_time": 1720065137,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 315149,
-      "num": 257298,
-      "word": "只有工资到账那一秒是爽的",
-      "onboard_time": 1720064658,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 317401,
+      "num": 317401,
+      "word": "秦彻偷跑",
+      "onboard_time": 1720065917,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 314683,
@@ -435,27 +475,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 257840,
-      "num": 257840,
-      "word": "日本地震",
-      "onboard_time": 1720066158,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257085,
-      "num": 257085,
-      "word": "秦彻偷跑",
-      "onboard_time": 1720065917,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 254850,
       "num": 254850,
       "word": "裴文宣 恋爱脑",
       "onboard_time": 1720062436,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247904,
+      "num": 247904,
+      "word": "长相思2小夭相柳转身镜头",
+      "onboard_time": 1720066338,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -571,27 +603,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211564,
-      "num": 211564,
-      "word": "周焯华确定获刑18年",
-      "onboard_time": 1720066218,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208051,
       "num": 208051,
       "word": "李东海李银赫评价余宇涵",
       "onboard_time": 1720063998,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207081,
-      "num": 207081,
-      "word": "歌手第九期又有汪峰的歌",
-      "onboard_time": 1720066698,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -643,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195929,
-      "num": 195929,
-      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
-      "onboard_time": 1720066579,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195693,
       "num": 197314,
       "word": "湖人想让詹姆斯降薪一百万",
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182136,
+      "num": 182136,
+      "word": "李东海李赫宰评价余宇涵",
+      "onboard_time": 1720063998,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179743,
       "num": 192317,
       "word": "日本男子新加坡性侵女学生被判鞭刑",
@@ -699,20 +715,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178372,
-      "num": 178372,
-      "word": "长相思2小夭相柳转身镜头",
-      "onboard_time": 1720066338,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175731,
       "num": 175731,
       "word": "衡水两校复读班招生收款方为传媒公司",
       "onboard_time": 1720052778,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173407,
+      "num": 173407,
+      "word": "CBLOCK 江湖流",
+      "onboard_time": 1720066879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 173271,
@@ -729,6 +745,14 @@
       "onboard_time": 1720066218,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165199,
+      "num": 165199,
+      "word": "谭松韵演技",
+      "onboard_time": 1720066519,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 158523,
@@ -819,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148099,
-      "num": 130906,
-      "word": "谭松韵演技",
-      "onboard_time": 1720066519,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147807,
       "num": 377039,
       "word": "全场球迷高呼谢谢阿姨",
@@ -835,20 +851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147229,
-      "num": 147229,
-      "word": "李东海李赫宰评价余宇涵",
-      "onboard_time": 1720063998,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146389,
       "num": 146389,
       "word": "券商人均百万年薪成过去式",
       "onboard_time": 1720058417,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145529,
+      "num": 145529,
+      "word": "默杀 反转反转再反转",
+      "onboard_time": 1720067298,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 145337,
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135448,
+      "num": 135448,
+      "word": "黄宣 小镇姑娘",
+      "onboard_time": 1720067718,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133543,
       "num": 133543,
       "word": "成毅真诚的哈基米",
@@ -985,6 +1009,14 @@
       "onboard_time": 1720048153,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128093,
+      "num": 128093,
+      "word": "专家称股市投资者不等于金融消费者",
+      "onboard_time": 1720067718,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 127954,
@@ -1052,19 +1084,11 @@
     },
     {
       "raw_hot": 116617,
-      "num": 449882,
+      "num": 518582,
       "word": "神十八出舱上演宇宙级丝滑",
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114424,
-      "num": 122843,
-      "word": "CBLOCK 江湖流",
-      "onboard_time": 1720066879,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 113016,
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57911,
+      "num": 1257679,
+      "word": "打卡多彩哈萨克斯坦",
+      "onboard_time": 1720065978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52407,
       "num": 1146503,
       "word": "中哈两位音乐家的跨国友情",
@@ -1331,12 +1363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46337,
-      "num": 1257679,
-      "word": "打卡多彩哈萨克斯坦",
-      "onboard_time": 1720065978,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 47436,
+      "num": 432590,
+      "word": "13岁男孩暑假为家人花式做饭",
+      "onboard_time": 1720067178,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45389,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720066948485,
+  "endTime": 1720067866844,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -883,6 +883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 801274,
+      "num": 429675,
+      "word": "女生退租遭辱骂致死案二审维持原判",
+      "onboard_time": 1720064297,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797600,
       "num": 797600,
       "word": "CP30 杭州",
@@ -945,6 +953,14 @@
       "onboard_time": 1719971837,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 759736,
+      "num": 518113,
+      "word": "默杀 看爽了",
+      "onboard_time": 1720063939,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 756494,
@@ -1067,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 702163,
-      "num": 488177,
-      "word": "默杀 看爽了",
-      "onboard_time": 1720063939,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 697159,
       "num": 275664,
       "word": "长期吃黑米身体会有什么变化",
@@ -1155,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 661628,
-      "num": 428784,
-      "word": "女生退租遭辱骂致死案二审维持原判",
-      "onboard_time": 1720064297,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657892,
       "num": 657892,
       "word": "以宣布没收约12平方公里巴土地",
@@ -1204,7 +1204,7 @@
     },
     {
       "raw_hot": 650926,
-      "num": 269563,
+      "num": 348828,
       "word": "夏天不建议女生买的衣服",
       "onboard_time": 1720047975,
       "rank": 21,
@@ -1675,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 531051,
+      "num": 531051,
+      "word": "日本地震",
+      "onboard_time": 1720066158,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529741,
       "num": 529741,
       "word": "绝区零开服",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1719904938,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 516366,
+      "num": 349797,
+      "word": "完全不内耗的人都有一个特质",
+      "onboard_time": 1720064538,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 515094,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1720005378,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501869,
+      "num": 348870,
+      "word": "只有工资到账那一秒是爽的",
+      "onboard_time": 1720064658,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 500985,
@@ -2115,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460352,
-      "num": 257690,
-      "word": "完全不内耗的人都有一个特质",
-      "onboard_time": 1720064538,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 459676,
       "num": 370965,
       "word": "Jennie新歌对嘴cha",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1719894260,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445353,
+      "num": 427930,
+      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+      "onboard_time": 1720066579,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444731,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1719885857,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427595,
+      "num": 427595,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 424969,
@@ -2787,6 +2819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 359088,
+      "num": 359088,
+      "word": "福宝的起床气被果果治好了",
+      "onboard_time": 1720065137,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359056,
       "num": 359056,
       "word": "刘亦菲实绩",
@@ -2865,6 +2905,14 @@
       "onboard_time": 1719789074,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 347790,
+      "num": 347790,
+      "word": "周焯华确定获刑18年",
+      "onboard_time": 1720066218,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 347440,
@@ -3099,12 +3147,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 316440,
-      "num": 316440,
-      "word": "福宝的起床气被果果治好了",
-      "onboard_time": 1720065137,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 317401,
+      "num": 317401,
+      "word": "秦彻偷跑",
+      "onboard_time": 1720065917,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 315630,
@@ -3113,14 +3161,6 @@
       "onboard_time": 1719835579,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315149,
-      "num": 257298,
-      "word": "只有工资到账那一秒是爽的",
-      "onboard_time": 1720064658,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 314683,
@@ -3643,28 +3683,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 257840,
-      "num": 257840,
-      "word": "日本地震",
-      "onboard_time": 1720066158,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257205,
       "num": 231382,
       "word": "韩国为迎接中国游客整顿倾销旅游",
       "onboard_time": 1719883639,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 257085,
-      "num": 257085,
-      "word": "秦彻偷跑",
-      "onboard_time": 1720065917,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 256856,
@@ -3777,6 +3801,14 @@
       "onboard_time": 1719814219,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247904,
+      "num": 247904,
+      "word": "长相思2小夭相柳转身镜头",
+      "onboard_time": 1720066338,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 247417,
@@ -4339,14 +4371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211564,
-      "num": 211564,
-      "word": "周焯华确定获刑18年",
-      "onboard_time": 1720066218,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -4424,14 +4448,6 @@
       "word": "马立奥 见鬼了马杨",
       "onboard_time": 1719939435,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207081,
-      "num": 207081,
-      "word": "歌手第九期又有汪峰的歌",
-      "onboard_time": 1720066698,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4825,14 +4841,6 @@
       "onboard_time": 1719837679,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195929,
-      "num": 195929,
-      "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
-      "onboard_time": 1720066579,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195693,
@@ -5251,6 +5259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182136,
+      "num": 182136,
+      "word": "李东海李赫宰评价余宇涵",
+      "onboard_time": 1720063998,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -5345,14 +5361,6 @@
       "onboard_time": 1719997339,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178372,
-      "num": 178372,
-      "word": "长相思2小夭相柳转身镜头",
-      "onboard_time": 1720066338,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 178159,
@@ -5489,6 +5497,14 @@
       "onboard_time": 1719988279,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173407,
+      "num": 173407,
+      "word": "CBLOCK 江湖流",
+      "onboard_time": 1720066879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 173271,
@@ -5672,6 +5688,14 @@
       "word": "宋轶在古装赛道玩出花了",
       "onboard_time": 1719985938,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165199,
+      "num": 165199,
+      "word": "谭松韵演技",
+      "onboard_time": 1720066519,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -6291,14 +6315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148099,
-      "num": 130906,
-      "word": "谭松韵演技",
-      "onboard_time": 1720066519,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147807,
       "num": 377039,
       "word": "全场球迷高呼谢谢阿姨",
@@ -6313,14 +6329,6 @@
       "onboard_time": 1720005557,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147229,
-      "num": 147229,
-      "word": "李东海李赫宰评价余宇涵",
-      "onboard_time": 1720063998,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 147008,
@@ -6377,6 +6385,14 @@
       "onboard_time": 1719799158,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145529,
+      "num": 145529,
+      "word": "默杀 反转反转再反转",
+      "onboard_time": 1720067298,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 145484,
@@ -6899,6 +6915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135448,
+      "num": 135448,
+      "word": "黄宣 小镇姑娘",
+      "onboard_time": 1720067718,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135075,
       "num": 135075,
       "word": "BW2024抢票",
@@ -7265,6 +7289,14 @@
       "onboard_time": 1720048153,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128093,
+      "num": 128093,
+      "word": "专家称股市投资者不等于金融消费者",
+      "onboard_time": 1720067718,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 127938,
@@ -7708,7 +7740,7 @@
     },
     {
       "raw_hot": 116617,
-      "num": 449882,
+      "num": 518582,
       "word": "神十八出舱上演宇宙级丝滑",
       "onboard_time": 1720057097,
       "rank": 44,
@@ -7769,14 +7801,6 @@
       "onboard_time": 1719995117,
       "rank": 40,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 114424,
-      "num": 122843,
-      "word": "CBLOCK 江湖流",
-      "onboard_time": 1720066879,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 114013,
@@ -9027,6 +9051,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 57911,
+      "num": 1257679,
+      "word": "打卡多彩哈萨克斯坦",
+      "onboard_time": 1720065978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57562,
       "num": 131612,
       "word": "罗翔回应在闲鱼搞副业",
@@ -9155,20 +9187,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47436,
+      "num": 432590,
+      "word": "13岁男孩暑假为家人花式做饭",
+      "onboard_time": 1720067178,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47020,
       "num": 400070,
       "word": "高考英语145分学霸教你怎么写作文",
       "onboard_time": 1719818418,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 46337,
-      "num": 1257679,
-      "word": "打卡多彩哈萨克斯坦",
-      "onboard_time": 1720065978,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46001,
