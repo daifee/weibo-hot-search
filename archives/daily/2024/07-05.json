@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720118289517,
+  "endTime": 1720120626748,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -315,6 +315,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 88862,
+      "num": 53598,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87538,
       "num": 87538,
       "word": "王楚钦孙颖莎身披龙服",
@@ -403,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57604,
-      "num": 53598,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 57325,
       "num": 79340,
       "word": "牛麦",
@@ -483,12 +483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26815,
+      "num": 26815,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25569,
       "num": 38499,
       "word": "汪苏泷世巡是没有限定的",
       "onboard_time": 1720115953,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23742,
+      "num": 23742,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23341,
@@ -504,14 +520,6 @@
       "word": "萌兰出演MV男主角",
       "onboard_time": 1720108578,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20283,
-      "num": 24285,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
