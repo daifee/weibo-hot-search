@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720092944200,
+  "endTime": 1720096614756,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1905797,
-      "num": 323297,
+      "num": 375964,
       "word": "陆毅小女儿被曝攻击他人长相",
       "onboard_time": 1720091478,
       "rank": 11,
@@ -585,6 +585,14 @@
       "onboard_time": 1719893540,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1107108,
+      "num": 1107108,
+      "word": "姜爷爷",
+      "onboard_time": 1720094599,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1105851,
@@ -2499,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509837,
+      "num": 509837,
+      "word": "王心凌玫瑰嫁纱重达十公斤",
+      "onboard_time": 1720093637,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 508614,
       "num": 508614,
       "word": "郭保坤你变坏了",
@@ -3139,6 +3155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 443114,
+      "num": 443114,
+      "word": "长相思第二季变更为23集",
+      "onboard_time": 1720093998,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440505,
       "num": 260441,
       "word": "福建一初中生被霸凌致下体烧伤",
@@ -3427,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404614,
+      "num": 404614,
+      "word": "福宝",
+      "onboard_time": 1720094118,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404513,
       "num": 404513,
       "word": "张凌赫硬帅",
@@ -3449,6 +3481,14 @@
       "onboard_time": 1720023616,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401559,
+      "num": 401559,
+      "word": "菲方向中国索赔撞船损失100万美元",
+      "onboard_time": 1720091239,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 401312,
@@ -3699,6 +3739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375594,
+      "num": 375594,
+      "word": "白敬亭染粉发掉色了",
+      "onboard_time": 1720092918,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374323,
       "num": 374323,
       "word": "荷兰70岁夫妇接受双人安乐死",
@@ -3849,6 +3897,14 @@
       "onboard_time": 1720065137,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360279,
+      "num": 360279,
+      "word": "女子醉卧马路被轧身亡送人者认定无责",
+      "onboard_time": 1720094838,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359056,
@@ -4147,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335560,
+      "num": 210232,
+      "word": "男性睡觉掉色是全国统一的吗",
+      "onboard_time": 1720095499,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335360,
       "num": 335360,
       "word": "唐尚珺今年高考志愿全部服从调剂",
@@ -4265,6 +4329,14 @@
       "onboard_time": 1719760339,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326127,
+      "num": 376778,
+      "word": "感觉谭松韵真在公司上过班",
+      "onboard_time": 1720092978,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 323058,
@@ -4507,14 +4579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301577,
-      "num": 301577,
-      "word": "菲方向中国索赔撞船损失100万美元",
-      "onboard_time": 1720091239,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 301515,
       "num": 230644,
       "word": "宁静回应花少争议",
@@ -4673,6 +4737,14 @@
       "onboard_time": 1719849918,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291749,
+      "num": 291749,
+      "word": "巴黎奥运会允许代表团自费安空调",
+      "onboard_time": 1720095317,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 291452,
@@ -4937,6 +5009,14 @@
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268247,
+      "num": 268247,
+      "word": "因为丑被浪费的蔬菜",
+      "onboard_time": 1720090698,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 268022,
@@ -5883,14 +5963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214602,
-      "num": 214602,
-      "word": "因为丑被浪费的蔬菜",
-      "onboard_time": 1720090698,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 214493,
       "num": 237031,
       "word": "裴文宣李蓉 一见面就吵不见面就想",
@@ -6209,14 +6281,6 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204144,
-      "num": 204144,
-      "word": "白敬亭染粉发掉色了",
-      "onboard_time": 1720092918,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203423,
@@ -6553,6 +6617,14 @@
       "onboard_time": 1719724817,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197544,
+      "num": 197544,
+      "word": "虞书欣成打卡点了",
+      "onboard_time": 1720095857,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 197465,
@@ -7707,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168771,
+      "num": 168771,
+      "word": "赵今麦叹气",
+      "onboard_time": 1720092378,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "队友们给张志杰留了加油的位置",
@@ -8227,6 +8307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156834,
+      "num": 156834,
+      "word": "刚创业就被骗二十五万",
+      "onboard_time": 1720094777,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156683,
       "num": 156683,
       "word": "美方似乎忘了沃尔夫条款存在",
@@ -8289,6 +8377,14 @@
       "onboard_time": 1720065018,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155575,
+      "num": 155575,
+      "word": "中方回应菲方索赔撞船损失100万美元",
+      "onboard_time": 1720094358,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155245,
@@ -8369,6 +8465,14 @@
       "onboard_time": 1720074498,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154604,
+      "num": 154604,
+      "word": "科目三没等安全员自己把车开走了",
+      "onboard_time": 1720093578,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 154025,
@@ -8755,14 +8859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146207,
-      "num": 146207,
-      "word": "赵今麦叹气",
-      "onboard_time": 1720092378,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146158,
       "num": 146158,
       "word": "谭松韵许凯还原公主抱",
@@ -8939,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143403,
+      "num": 143403,
+      "word": "韩国方便面出口额暴增",
+      "onboard_time": 1720093939,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143362,
       "num": 132931,
       "word": "杨颖直播穿高定",
@@ -9065,6 +9169,14 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141883,
+      "num": 141883,
+      "word": "宁静被花少5治愈了",
+      "onboard_time": 1720092498,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 141656,
@@ -9697,6 +9809,14 @@
       "onboard_time": 1719736396,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132819,
+      "num": 132819,
+      "word": "刘若英55岁状态",
+      "onboard_time": 1720095617,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132371,
@@ -10395,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121414,
+      "num": 121414,
+      "word": "沙溪站",
+      "onboard_time": 1720094958,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121368,
       "num": 121368,
       "word": "虞书欣好会拍人",
@@ -10449,6 +10577,14 @@
       "onboard_time": 1719903799,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120662,
+      "num": 120662,
+      "word": "涂山璟值得被爱",
+      "onboard_time": 1720094896,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 120608,
@@ -10617,14 +10753,6 @@
       "onboard_time": 1719930498,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118471,
-      "num": 118471,
-      "word": "宁静被花少5治愈了",
-      "onboard_time": 1720092498,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 118425,
@@ -12803,6 +12931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50076,
+      "num": 376075,
+      "word": "各地暑期高校学生资助热线最全汇总",
+      "onboard_time": 1720096218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49939,
       "num": 407938,
       "word": "亿元车队首穿深中通道",
@@ -13187,6 +13323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36747,
+      "num": 244755,
+      "word": "艾莲鲨疯了",
+      "onboard_time": 1720091117,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 36508,
       "num": 176071,
       "word": "更适合i人体质的旅游打卡",
@@ -13404,7 +13548,7 @@
     },
     {
       "raw_hot": 30531,
-      "num": 457961,
+      "num": 552927,
       "word": "四个关键词感受中哈深情厚谊",
       "onboard_time": 1720091177,
       "rank": 2,
@@ -13497,14 +13641,6 @@
       "onboard_time": 1719795798,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28239,
-      "num": 244755,
-      "word": "艾莲鲨疯了",
-      "onboard_time": 1720091117,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 27763,
