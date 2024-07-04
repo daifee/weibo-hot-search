@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720085721966,
+  "endTime": 1720088424873,
   "band_list": [
     {
       "raw_hot": 1955779,
@@ -25,6 +25,14 @@
       "onboard_time": 1720013238,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1787589,
+      "num": 338908,
+      "word": "小水小九分手",
+      "onboard_time": 1720085658,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1644242,
@@ -155,11 +163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847285,
+      "num": 847285,
+      "word": "刘晓庆惠英红 羊胎素2.0",
+      "onboard_time": 1720083740,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 801274,
       "num": 429675,
       "word": "女生退租遭辱骂致死案二审维持原判",
       "onboard_time": 1720064297,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798039,
+      "num": 338589,
+      "word": "保时捷发霉车主自嘲不想要了",
+      "onboard_time": 1720086019,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1720047915,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 680187,
-      "num": 332734,
-      "word": "刘晓庆惠英红 羊胎素2.0",
-      "onboard_time": 1720083740,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 670046,
@@ -451,8 +467,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 489101,
-      "num": 328180,
+      "raw_hot": 492709,
+      "num": 338329,
       "word": "俄航天局局长称美国登月为真",
       "onboard_time": 1720083498,
       "rank": 12,
@@ -513,6 +529,14 @@
       "onboard_time": 1720060277,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449549,
+      "num": 372888,
+      "word": "蔡文静给穿戴甲买公寓",
+      "onboard_time": 1720085179,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 449523,
@@ -579,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396684,
+      "num": 337802,
+      "word": "合肥一男子商场坠楼不幸身亡",
+      "onboard_time": 1720083797,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 378308,
       "num": 500248,
       "word": "秦彻偷跑",
       "onboard_time": 1720065917,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 378294,
+      "num": 362221,
+      "word": "许凯感觉像真的结婚了",
+      "onboard_time": 1720086918,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 377032,
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342325,
+      "num": 337540,
+      "word": "她的小梨涡 选角",
+      "onboard_time": 1720087578,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341102,
       "num": 341102,
       "word": "警方通报男子翻越电梯扶手坠亡",
@@ -691,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334016,
+      "num": 334016,
+      "word": "卢昱晓上的是亲子综艺吧",
+      "onboard_time": 1720085179,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328167,
       "num": 328167,
       "word": "辛巴 初瑞雪",
       "onboard_time": 1720078637,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 326003,
+      "num": 258412,
+      "word": "一天一个西瓜瘦了1.5斤",
+      "onboard_time": 1720087159,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 314683,
@@ -787,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251490,
+      "num": 251490,
+      "word": "江西银行",
+      "onboard_time": 1720087217,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247920,
+      "num": 247920,
+      "word": "研究生赚钱一定要学会吃身份红利",
+      "onboard_time": 1720086678,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244982,
       "num": 244982,
       "word": "Jennie鼻钻",
@@ -811,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242382,
+      "num": 242382,
+      "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+      "onboard_time": 1720086857,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241849,
       "num": 241849,
       "word": "张远接活都接到欧洲了",
@@ -819,28 +907,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229907,
-      "num": 229907,
-      "word": "合肥一男子商场坠楼不幸身亡",
-      "onboard_time": 1720083797,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 228502,
-      "num": 228502,
-      "word": "蔡文静给穿戴甲买公寓",
-      "onboard_time": 1720085179,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227653,
       "num": 227653,
       "word": "美籍华人在菲律宾遇害朋友发声",
       "onboard_time": 1720059677,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227340,
+      "num": 227340,
+      "word": "张凌赫 身高190数学182",
+      "onboard_time": 1720085718,
+      "rank": 24,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 225919,
@@ -939,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206875,
-      "num": 206875,
-      "word": "卢昱晓上的是亲子综艺吧",
-      "onboard_time": 1720085179,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "航天员李聪首次太空行走",
@@ -961,6 +1033,22 @@
       "onboard_time": 1720001718,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203466,
+      "num": 203466,
+      "word": "檀健次桃花血",
+      "onboard_time": 1720088057,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202527,
+      "num": 202527,
+      "word": "入职一年后的状态才是最解压的",
+      "onboard_time": 1720085658,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 202339,
@@ -1001,14 +1089,6 @@
       "onboard_time": 1720055179,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198506,
-      "num": 198506,
-      "word": "小水小九分手",
-      "onboard_time": 1720085658,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 198308,
@@ -1075,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185129,
+      "num": 185129,
+      "word": "电影她的小梨涡 怼网友",
+      "onboard_time": 1720085957,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182653,
       "num": 167741,
       "word": "韩廷是许凯第一个霸总",
@@ -1096,6 +1184,14 @@
       "word": "city不city博主想去贵州country",
       "onboard_time": 1720082959,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180303,
+      "num": 180303,
+      "word": "90秒看中国毕业服饰变迁",
+      "onboard_time": 1720086258,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1169,6 +1265,14 @@
       "onboard_time": 1720053678,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172362,
+      "num": 172362,
+      "word": "TF二三四代运动会分组",
+      "onboard_time": 1720086678,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 172232,
@@ -1491,6 +1595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140168,
+      "num": 140168,
+      "word": "张钧甯42岁状态",
+      "onboard_time": 1720088239,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139089,
       "num": 139089,
       "word": "气血不足的人夏天是真难受",
@@ -1579,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132912,
+      "num": 132912,
+      "word": "公安机关已调查涉江西银行不实信息",
+      "onboard_time": 1720088057,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132371,
       "num": 132371,
       "word": "Miss电竞圈名气",
@@ -1617,6 +1737,14 @@
       "onboard_time": 1720060156,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129747,
+      "num": 129747,
+      "word": "丁真 这条小鱼在乎",
+      "onboard_time": 1720087999,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 129423,
@@ -1683,6 +1811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127050,
+      "num": 127050,
+      "word": "南方的狗有多讨厌下雨天",
+      "onboard_time": 1720087338,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "陈坤演技",
@@ -1723,6 +1859,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "吴谨言红发提裙",
+      "onboard_time": 1720087100,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122180,
+      "num": 120040,
+      "word": "陪闺蜜相亲遇到自己老板",
+      "onboard_time": 1720088118,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121204,
       "num": 121204,
       "word": "湘军哭了",
@@ -1747,12 +1899,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 120095,
+      "num": 120095,
+      "word": "A股4885股飘绿24股跌停",
+      "onboard_time": 1720087100,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119249,
       "num": 340106,
       "word": "陈延年离开97年了",
       "onboard_time": 1720076539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118425,
+      "num": 118425,
+      "word": "大连承办国足对沙特世预赛",
+      "onboard_time": 1720087999,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118261,
@@ -1785,6 +1953,14 @@
       "onboard_time": 1720077558,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113649,
+      "num": 113649,
+      "word": "一互联网公司取消HRBP岗位",
+      "onboard_time": 1720088359,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 113016,
@@ -1849,14 +2025,6 @@
       "onboard_time": 1720015879,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100563,
-      "num": 100563,
-      "word": "入职一年后的状态才是最解压的",
-      "onboard_time": 1720085658,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 99854,
@@ -2155,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45322,
+      "num": 312913,
+      "word": "掌管反差萌的神",
+      "onboard_time": 1720085238,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45186,
       "num": 45186,
       "word": "原来点外卖看太多次地图骑手知道的",
@@ -2171,12 +2347,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39630,
-      "num": 113061,
-      "word": "掌管反差萌的神",
-      "onboard_time": 1720085238,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 41361,
+      "num": 221794,
+      "word": "你买车会一步到位吗",
+      "onboard_time": 1720086618,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 37501,
@@ -2217,6 +2393,14 @@
       "onboard_time": 1720072397,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24028,
+      "num": 339403,
+      "word": "我国航天员已圆满完成16次出舱活动",
+      "onboard_time": 1720087517,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
     },
     {
       "raw_hot": 20533,
@@ -2304,6 +2488,9 @@
     },
     {
       "word": "#习近平主席访问哈萨克斯坦高光时刻#"
+    },
+    {
+      "word": "#习近平这样讲述上海精神#"
     }
   ]
 }
