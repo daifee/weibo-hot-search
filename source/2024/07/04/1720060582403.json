@@ -1,0 +1,410 @@
+{
+  "runTime": 1720060582403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225397,
+        "num": 1225397,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 945818,
+        "num": 945818,
+        "word": "上海迪士尼回应暑期门票飙至719元",
+        "onboard_time": 1720056139,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30639,
+        "num": 547667,
+        "word": "中哈两位音乐家的跨国友情",
+        "onboard_time": 1720014258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521413,
+        "num": 521413,
+        "word": "Miss回应团队背刺郭碧婷",
+        "onboard_time": 1720049597,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464960,
+        "num": 464960,
+        "word": "谭爷爷为花花和叶做生日蛋糕",
+        "onboard_time": 1720053557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430922,
+        "num": 430922,
+        "word": "萌兰9岁生日快乐",
+        "onboard_time": 1720049116,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172949,
+        "num": 418513,
+        "word": "中金员工人均月薪降至3.5万元",
+        "onboard_time": 1720051157,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376284,
+        "num": 376284,
+        "word": "萌兰花花和叶今天生日",
+        "onboard_time": 1720047915,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367326,
+        "num": 367326,
+        "word": "绝区零 开门啊",
+        "onboard_time": 1720051939,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66345,
+        "num": 359403,
+        "word": "萌兰的生日蛋糕上有9只小鸟",
+        "onboard_time": 1720057997,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582580,
+        "num": 358792,
+        "word": "医院回应徒步女主播路边直播被车撞",
+        "onboard_time": 1720057756,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368901,
+        "num": 358362,
+        "word": "敖子逸 小鬼",
+        "onboard_time": 1720050257,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356837,
+        "num": 356837,
+        "word": "谭松韵扛剧能力",
+        "onboard_time": 1720055476,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345475,
+        "num": 345475,
+        "word": "刘亦菲实绩",
+        "onboard_time": 1720049956,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312727,
+        "num": 312727,
+        "word": "绝区零 抢uid",
+        "onboard_time": 1720054039,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294720,
+        "num": 294720,
+        "word": "以宣布没收约12平方公里巴土地",
+        "onboard_time": 1720051337,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 285854,
+        "num": 285854,
+        "word": "绝区零开服",
+        "onboard_time": 1720053857,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280861,
+        "num": 280861,
+        "word": "大三女生2次捐献救同一位小女孩",
+        "onboard_time": 1720054757,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274581,
+        "num": 274581,
+        "word": "小鬼 胜负欲",
+        "onboard_time": 1720055418,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268855,
+        "num": 268855,
+        "word": "首个早上提档晚上撤档的电影",
+        "onboard_time": 1720049298,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518641,
+        "num": 265087,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 389078,
+        "num": 245675,
+        "word": "减肥跟风吃了一个月牛肉掉了21斤",
+        "onboard_time": 1720048274,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 225919,
+        "num": 225919,
+        "word": "气血不足的人常做的8个坏习惯",
+        "onboard_time": 1720055957,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220172,
+        "num": 220172,
+        "word": "第一次见古装剧女主是外科圣手的",
+        "onboard_time": 1720058476,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219340,
+        "num": 219340,
+        "word": "乌鲁木齐发生交通事故致4死1伤",
+        "onboard_time": 1720058717,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215895,
+        "num": 215895,
+        "word": "美籍华人在菲律宾遇害朋友发声",
+        "onboard_time": 1720059677,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212217,
+        "num": 212217,
+        "word": "年轻人凌晨三点在迪士尼排长队",
+        "onboard_time": 1720029852,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 211935,
+        "num": 211935,
+        "word": "女儿获第一笔工资给爸妈分红6666元",
+        "onboard_time": 1720047794,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200739,
+        "num": 200739,
+        "word": "TXT澳门演唱会抢票",
+        "onboard_time": 1720059316,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188021,
+        "num": 188021,
+        "word": "医院通报医生传播患者麻醉裸照",
+        "onboard_time": 1720018341,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205268,
+        "num": 187647,
+        "word": "小米之家 雪糕",
+        "onboard_time": 1720060277,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "父母叠床单时女儿想荡秋千",
+        "onboard_time": 1720057457,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158523,
+        "num": 158523,
+        "word": "斗鱼罕见大手笔分红",
+        "onboard_time": 1720056618,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155514,
+        "num": 155514,
+        "word": "AI爆改还珠格格",
+        "onboard_time": 1720053678,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149159,
+        "num": 149159,
+        "word": "谢霆锋 什么时候才能停风",
+        "onboard_time": 1720057036,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148964,
+        "num": 148964,
+        "word": "李蠕蠕又模仿歌手了",
+        "onboard_time": 1720056857,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146389,
+        "num": 146389,
+        "word": "券商人均百万年薪成过去式",
+        "onboard_time": 1720058417,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143059,
+        "num": 143059,
+        "word": "男子抱5个月女儿欲跳楼轻生",
+        "onboard_time": 1720060277,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10318,
+        "num": 142285,
+        "word": "长得甜关有肌肉什么事",
+        "onboard_time": 1720060036,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142088,
+        "num": 142088,
+        "word": "罗云熙回应粉丝喊话演唱会加场",
+        "onboard_time": 1720060097,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141490,
+        "num": 141490,
+        "word": "野孩子 撤档",
+        "onboard_time": 1720013238,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138888,
+        "num": 138888,
+        "word": "王逗逗账号被助理偷走",
+        "onboard_time": 1720050137,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131510,
+        "num": 131510,
+        "word": "二次元黑皮帅哥",
+        "onboard_time": 1720059197,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 133404,
+        "num": 131321,
+        "word": "不建议大家离职的几个月份",
+        "onboard_time": 1720018459,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "绝区零兑换码",
+        "onboard_time": 1720060156,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129154,
+        "num": 129154,
+        "word": "航天员李聪首次太空行走",
+        "onboard_time": 1720054398,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122789,
+        "num": 122789,
+        "word": "小鬼抓人和王源抓人对比",
+        "onboard_time": 1720049476,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 120818,
+        "word": "第五人格",
+        "onboard_time": 1720058057,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115436,
+        "num": 115436,
+        "word": "景德镇到底有谁在啊",
+        "onboard_time": 1720049657,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30645,
+        "num": 114387,
+        "word": "米哈游你果然背刺我了",
+        "onboard_time": 1720060517,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见乌兹别克斯坦总统#"
+    }
+  }
+}
