@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720061174593,
+  "endTime": 1720063390941,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1475225,
+      "num": 1475225,
+      "word": "小米之家 雪糕",
+      "onboard_time": 1720060277,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1469173,
       "num": 1469173,
       "word": "爱奇艺被判补偿41天黄金VIP会员",
@@ -265,6 +273,14 @@
       "onboard_time": 1719924979,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1361500,
+      "num": 1361500,
+      "word": "韩国高中盯上中国生源",
+      "onboard_time": 1720060695,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1354914,
@@ -768,6 +784,14 @@
       "word": "上海辟谣跟佛祖借了100亿元",
       "onboard_time": 1719921739,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824273,
+      "num": 384396,
+      "word": "中金称女员工系自身原因离世",
+      "onboard_time": 1720062138,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1323,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599697,
+      "num": 599697,
+      "word": "怀疑乌尔善用了3D打印技术",
+      "onboard_time": 1720061297,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 599613,
       "num": 599613,
       "word": "赵丽颖工作室回应百花奖提名",
@@ -1499,6 +1531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 564944,
+      "num": 570678,
+      "word": "大三女生2次捐献救同一位小女孩",
+      "onboard_time": 1720054757,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564103,
       "num": 564103,
       "word": "中公教育董事长回应退费",
@@ -1585,14 +1625,6 @@
       "onboard_time": 1719811340,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 539756,
-      "num": 377025,
-      "word": "小米之家 雪糕",
-      "onboard_time": 1720060277,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 538943,
@@ -2331,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411778,
+      "num": 382564,
+      "word": "男子抱5个月女儿欲跳楼轻生",
+      "onboard_time": 1720060277,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410212,
       "num": 265439,
       "word": "唐山今年全市已处分2116人",
@@ -2451,14 +2491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 394896,
-      "num": 570678,
-      "word": "大三女生2次捐献救同一位小女孩",
-      "onboard_time": 1720054757,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394720,
       "num": 394720,
       "word": "汪苏泷演唱会抢票",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1719793999,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 381497,
+      "num": 381497,
+      "word": "特斯拉进入江苏省政府用车采购目录",
+      "onboard_time": 1720061537,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 377032,
@@ -2955,6 +2995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322576,
+      "num": 235681,
+      "word": "Jennie用戒指绑头发",
+      "onboard_time": 1720062017,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320819,
       "num": 320819,
       "word": "全红婵的巴黎奥运心愿",
@@ -3155,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294805,
+      "num": 195060,
+      "word": "胡锡进谈中金员工意外离世",
+      "onboard_time": 1720062077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -3233,14 +3289,6 @@
       "onboard_time": 1719984079,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 289224,
-      "num": 289224,
-      "word": "韩国高中盯上中国生源",
-      "onboard_time": 1720060695,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289036,
@@ -3683,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244982,
+      "num": 244982,
+      "word": "Jennie鼻钻",
+      "onboard_time": 1720061837,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244136,
       "num": 244136,
       "word": "4名斯里兰卡渔民饮用漂流瓶内液体身亡",
@@ -3889,14 +3945,6 @@
       "onboard_time": 1719978619,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228652,
-      "num": 228652,
-      "word": "男子抱5个月女儿欲跳楼轻生",
-      "onboard_time": 1720060277,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228165,
@@ -4179,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213403,
+      "num": 213403,
+      "word": "长相思 预约",
+      "onboard_time": 1720060758,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209600,
       "num": 209600,
       "word": "小夭重回清水镇",
@@ -4241,6 +4297,14 @@
       "onboard_time": 1719837318,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207554,
+      "num": 207554,
+      "word": "裴文宣 恋爱脑",
+      "onboard_time": 1720062436,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 207525,
@@ -4371,6 +4435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204131,
+      "num": 194715,
+      "word": "怎么应聘这个洗龟龟的工作",
+      "onboard_time": 1720061957,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203423,
       "num": 203423,
       "word": "唐嫣孙坚认识二十多年了",
@@ -4417,14 +4489,6 @@
       "onboard_time": 1720001659,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201520,
-      "num": 201520,
-      "word": "长相思 预约",
-      "onboard_time": 1720060758,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 201389,
@@ -4651,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195693,
+      "num": 195693,
+      "word": "湖人想让詹姆斯降薪一百万",
+      "onboard_time": 1720061718,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195648,
       "num": 195648,
       "word": "被喜欢的人选择激动哭",
@@ -4713,6 +4785,14 @@
       "onboard_time": 1719983419,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193666,
+      "num": 193666,
+      "word": "绝区零 无聊",
+      "onboard_time": 1720062739,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 193077,
@@ -5675,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157442,
+      "num": 157442,
+      "word": "成毅深U内搭",
+      "onboard_time": 1720063037,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157437,
       "num": 157437,
       "word": "减脂期这六种食物一定要避雷",
@@ -5785,6 +5873,14 @@
       "onboard_time": 1719754819,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155182,
+      "num": 155182,
+      "word": "GAI不老实不放过",
+      "onboard_time": 1720061057,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 155110,
@@ -6033,6 +6129,14 @@
       "onboard_time": 1720057036,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147807,
+      "num": 377039,
+      "word": "全场球迷高呼谢谢阿姨",
+      "onboard_time": 1720060636,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 147276,
@@ -6451,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138607,
+      "num": 138607,
+      "word": "萌娃扶梯摔倒前1秒被辅警单手救起",
+      "onboard_time": 1720062978,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138571,
       "num": 138571,
       "word": "沈腾新片父爱如山体滑坡",
@@ -6529,6 +6641,14 @@
       "onboard_time": 1719918857,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136427,
+      "num": 136427,
+      "word": "登陆日三公 双人舞台",
+      "onboard_time": 1720062617,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136360,
@@ -6795,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131530,
+      "num": 131530,
+      "word": "许凯 扛剧能力",
+      "onboard_time": 1720063037,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131510,
       "num": 131510,
       "word": "二次元黑皮帅哥",
@@ -6881,6 +7009,14 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
+    },
+    {
+      "raw_hot": 130011,
+      "num": 130011,
+      "word": "向佐维护郭碧婷",
+      "onboard_time": 1720063338,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 129960,
@@ -7259,14 +7395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120425,
-      "num": 377039,
-      "word": "全场球迷高呼谢谢阿姨",
-      "onboard_time": 1720060636,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120403,
       "num": 120403,
       "word": "严浩翔 在热血青春里长大",
@@ -7497,14 +7625,6 @@
       "onboard_time": 1719836898,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113467,
-      "num": 113467,
-      "word": "GAI不老实不放过",
-      "onboard_time": 1720061057,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 113419,
@@ -8788,7 +8908,7 @@
     },
     {
       "raw_hot": 52407,
-      "num": 1065523,
+      "num": 1146503,
       "word": "中哈两位音乐家的跨国友情",
       "onboard_time": 1720014258,
       "rank": 2,
@@ -8827,6 +8947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 47904,
+      "num": 244557,
+      "word": "熊猫界有自己的I熊E熊",
+      "onboard_time": 1720062498,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47565,
       "num": 48050,
       "word": "江浙沪朋友们最近出门的样子",
@@ -8852,7 +8980,7 @@
     },
     {
       "raw_hot": 45389,
-      "num": 182182,
+      "num": 277487,
       "word": "米哈游你果然背刺我了",
       "onboard_time": 1720060517,
       "rank": 49,
@@ -9424,6 +9552,14 @@
       "word": "韩国明年仍将适用最低时薪标准",
       "onboard_time": 1719988458,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16824,
+      "num": 386612,
+      "word": "装修能有多少离谱的坑",
+      "onboard_time": 1720063217,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
