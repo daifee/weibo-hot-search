@@ -1,0 +1,410 @@
+{
+  "runTime": 1720103737029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899340,
+        "num": 899340,
+        "word": "吉祥航空通报不开空调致旅客中暑",
+        "onboard_time": 1720097959,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576417,
+        "num": 576417,
+        "word": "谁家老公做成这勾栏模样",
+        "onboard_time": 1720096818,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62309,
+        "num": 540029,
+        "word": "带你60秒环游塔吉克斯坦",
+        "onboard_time": 1720098018,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 953185,
+        "num": 533726,
+        "word": "姜爷爷",
+        "onboard_time": 1720094599,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516279,
+        "num": 516279,
+        "word": "不停道歉的东方甄选怎么了",
+        "onboard_time": 1720102459,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447997,
+        "num": 447997,
+        "word": "王心凌玫瑰嫁纱重达十公斤",
+        "onboard_time": 1720093637,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 415102,
+        "num": 415102,
+        "word": "保时捷发霉车主自嘲不想要了",
+        "onboard_time": 1720086019,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405278,
+        "num": 405278,
+        "word": "巴黎奥运会允许代表团自费安空调",
+        "onboard_time": 1720095317,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339406,
+        "num": 339406,
+        "word": "孙颖莎被金球砸到",
+        "onboard_time": 1720102639,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328788,
+        "num": 328788,
+        "word": "肖战深V亮钻西装",
+        "onboard_time": 1720101140,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624901,
+        "num": 326173,
+        "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+        "onboard_time": 1720099279,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180339,
+        "num": 322401,
+        "word": "山东人有自己的山东味了",
+        "onboard_time": 1720102519,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 599828,
+        "num": 317038,
+        "word": "张馨予胖五斤了",
+        "onboard_time": 1720102219,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479831,
+        "num": 311189,
+        "word": "警方通报6旬男子持刀伤人致3死1伤",
+        "onboard_time": 1720100899,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 392162,
+        "num": 303673,
+        "word": "郭晓婷晒与迪丽热巴合照",
+        "onboard_time": 1720098079,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300678,
+        "num": 300678,
+        "word": "妈妈回应儿子出生6个月长到22斤",
+        "onboard_time": 1720101741,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300400,
+        "num": 300400,
+        "word": "林俊杰卡地亚现场",
+        "onboard_time": 1720100239,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293337,
+        "num": 293337,
+        "word": "养父母未办领养手续养子失去继承权",
+        "onboard_time": 1720101619,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287530,
+        "num": 287530,
+        "word": "沈阳小区内持刀行凶男子已被抓",
+        "onboard_time": 1720098559,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 277966,
+        "num": 277966,
+        "word": "女子醉卧马路被轧身亡送人者认定无责",
+        "onboard_time": 1720094838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506848,
+        "num": 273802,
+        "word": "男性睡觉掉色是全国统一的吗",
+        "onboard_time": 1720095499,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444277,
+        "num": 262052,
+        "word": "复读生已经上了五天课了",
+        "onboard_time": 1720097118,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422239,
+        "num": 256705,
+        "word": "小水小九分手",
+        "onboard_time": 1720085658,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385130,
+        "num": 239742,
+        "word": "沈阳铁西",
+        "onboard_time": 1720097718,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238576,
+        "num": 238576,
+        "word": "东镇多惠宣布复合",
+        "onboard_time": 1720101438,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 229505,
+        "word": "长相思第二季变更为23集",
+        "onboard_time": 1720093998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214526,
+        "num": 214526,
+        "word": "北大考古女孩正参加敦煌研究院招聘",
+        "onboard_time": 1720102760,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214468,
+        "num": 214468,
+        "word": "一天一个西瓜瘦了1.5斤",
+        "onboard_time": 1720087159,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199112,
+        "num": 199112,
+        "word": "王嘉尔蒙面舞台",
+        "onboard_time": 1720101560,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81410,
+        "num": 176266,
+        "word": "外交部回应city不city走红",
+        "onboard_time": 1720080378,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288295,
+        "num": 175641,
+        "word": "陈泽直播间被封",
+        "onboard_time": 1720103344,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 174477,
+        "num": 174477,
+        "word": "卡地亚派对",
+        "onboard_time": 1720097778,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 171624,
+        "num": 171624,
+        "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+        "onboard_time": 1720086857,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198066,
+        "num": 170896,
+        "word": "王嘉尔活动生图",
+        "onboard_time": 1720103239,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167451,
+        "num": 167451,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164006,
+        "num": 164006,
+        "word": "白敬亭跟唐嫣学上海话",
+        "onboard_time": 1720101500,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159491,
+        "num": 159491,
+        "word": "孙艺珍红毯状态",
+        "onboard_time": 1720103121,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156986,
+        "num": 156986,
+        "word": "吃玉米也是一件很私密的事",
+        "onboard_time": 1720082657,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153417,
+        "num": 153417,
+        "word": "牛麦",
+        "onboard_time": 1720099879,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150232,
+        "num": 150232,
+        "word": "福宝",
+        "onboard_time": 1720094118,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154738,
+        "num": 148918,
+        "word": "白敬亭染粉发掉色了",
+        "onboard_time": 1720092918,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145842,
+        "num": 145842,
+        "word": "吴谨言下一部剧妆造",
+        "onboard_time": 1720102399,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144019,
+        "num": 144019,
+        "word": "秦岚也吵不过的女人",
+        "onboard_time": 1720103419,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "九尾采访",
+        "onboard_time": 1720101258,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133633,
+        "num": 133633,
+        "word": "温网",
+        "onboard_time": 1720103601,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131239,
+        "num": 131239,
+        "word": "用万物可爱打开山东海景",
+        "onboard_time": 1720103121,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129090,
+        "num": 129090,
+        "word": "广东宠物鱼一口吞掉大蟑螂",
+        "onboard_time": 1720100539,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127763,
+        "num": 127763,
+        "word": "裴文宣李蓉野猫哪有家猫香",
+        "onboard_time": 1720101020,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127209,
+        "num": 127209,
+        "word": "白敬亭章若楠互关",
+        "onboard_time": 1720100418,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 121963,
+        "word": "王楚钦孙颖莎身披龙服",
+        "onboard_time": 1720103720,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}

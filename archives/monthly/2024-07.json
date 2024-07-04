@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720102691126,
+  "endTime": 1720103737029,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -739,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 899340,
+      "num": 899340,
+      "word": "吉祥航空通报不开空调致旅客中暑",
+      "onboard_time": 1720097959,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896870,
       "num": 896870,
       "word": "专家称不买房孩子也该有学上",
@@ -809,14 +817,6 @@
       "onboard_time": 1719893660,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 867771,
-      "num": 867771,
-      "word": "吉祥航空通报不开空调致旅客中暑",
-      "onboard_time": 1720097959,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865644,
@@ -1483,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 624901,
+      "num": 418467,
+      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+      "onboard_time": 1720099279,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 624868,
       "num": 501110,
       "word": "于正 死也要二搭三搭四搭",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1719803958,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 599828,
+      "num": 317038,
+      "word": "张馨予胖五斤了",
+      "onboard_time": 1720102219,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 599613,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1719878177,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 579782,
-      "num": 418467,
-      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
-      "onboard_time": 1720099279,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 579040,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1720064538,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516279,
+      "num": 516279,
+      "word": "不停道歉的东方甄选怎么了",
+      "onboard_time": 1720102459,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515094,
@@ -3523,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339406,
+      "num": 339406,
+      "word": "孙颖莎被金球砸到",
+      "onboard_time": 1720102639,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338013,
       "num": 338013,
       "word": "詹姆斯续约湖人",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1719833239,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328788,
+      "num": 328788,
+      "word": "肖战深V亮钻西装",
+      "onboard_time": 1720101140,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 328213,
@@ -3763,14 +3795,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 310450,
-      "num": 310450,
-      "word": "肖战深V亮钻西装",
-      "onboard_time": 1720101140,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 309771,
       "num": 309771,
       "word": "刘昊然为新戏拔了头发眉毛",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1720070058,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300678,
+      "num": 300678,
+      "word": "妈妈回应儿子出生6个月长到22斤",
+      "onboard_time": 1720101741,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300545,
@@ -3923,6 +3955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293337,
+      "num": 351196,
+      "word": "养父母未办领养手续养子失去继承权",
+      "onboard_time": 1720101619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292400,
       "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
@@ -3987,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288295,
+      "num": 175641,
+      "word": "陈泽直播间被封",
+      "onboard_time": 1720103344,
+      "rank": 30,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 288256,
       "num": 288256,
       "word": "宁艺卓粉丝向SM维权",
@@ -4033,14 +4081,6 @@
       "onboard_time": 1719978619,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 284183,
-      "num": 284183,
-      "word": "张馨予胖五斤了",
-      "onboard_time": 1720102219,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 283952,
@@ -4555,6 +4595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238576,
+      "num": 238576,
+      "word": "东镇多惠宣布复合",
+      "onboard_time": 1720101438,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238526,
       "num": 203832,
       "word": "不要让服务员用你手机写评价",
@@ -4969,6 +5017,14 @@
       "onboard_time": 1720009639,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214526,
+      "num": 214526,
+      "word": "北大考古女孩正参加敦煌研究院招聘",
+      "onboard_time": 1720102760,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214493,
@@ -5403,14 +5459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198905,
-      "num": 198905,
-      "word": "东镇多惠宣布复合",
-      "onboard_time": 1720101438,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198697,
       "num": 198697,
       "word": "萌兰和花和叶表情包九宫格",
@@ -5465,6 +5513,14 @@
       "onboard_time": 1719892821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198066,
+      "num": 170896,
+      "word": "王嘉尔活动生图",
+      "onboard_time": 1720103239,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197684,
@@ -5923,14 +5979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185681,
-      "num": 185681,
-      "word": "妈妈回应儿子出生6个月长到22斤",
-      "onboard_time": 1720101741,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185129,
       "num": 185129,
       "word": "电影她的小梨涡 怼网友",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1719879378,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180339,
+      "num": 322401,
+      "word": "山东人有自己的山东味了",
+      "onboard_time": 1720102519,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 180303,
@@ -6763,6 +6819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159491,
+      "num": 159491,
+      "word": "孙艺珍红毯状态",
+      "onboard_time": 1720103121,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159477,
       "num": 159477,
       "word": "肖战魏无羡饭制五周年贺",
@@ -7395,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145842,
+      "num": 145842,
+      "word": "吴谨言下一部剧妆造",
+      "onboard_time": 1720102399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145650,
       "num": 145650,
       "word": "张馨予和妈妈自驾游",
@@ -7547,12 +7619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143664,
-      "num": 143664,
-      "word": "不停道歉的东方甄选怎么了",
-      "onboard_time": 1720102459,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 144019,
+      "num": 144019,
+      "word": "秦岚也吵不过的女人",
+      "onboard_time": 1720103419,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 143652,
@@ -8091,14 +8163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 134828,
-      "num": 134828,
-      "word": "山东人有自己的山东味了",
-      "onboard_time": 1720102519,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 134820,
       "num": 134820,
       "word": "中使馆督促菲方尽快缉拿并严惩凶手",
@@ -8184,6 +8248,14 @@
       "word": "姆巴佩面具",
       "onboard_time": 1719878539,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133633,
+      "num": 133633,
+      "word": "温网",
+      "onboard_time": 1720103601,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -8345,6 +8417,14 @@
       "onboard_time": 1719963436,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "用万物可爱打开山东海景",
+      "onboard_time": 1720103121,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 131237,
@@ -8539,11 +8619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127880,
-      "num": 126330,
-      "word": "吴谨言下一部剧妆造",
-      "onboard_time": 1720102399,
-      "rank": 44,
+      "raw_hot": 127763,
+      "num": 127763,
+      "word": "裴文宣李蓉野猫哪有家猫香",
+      "onboard_time": 1720101020,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -8585,14 +8665,6 @@
       "onboard_time": 1719983719,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 127355,
-      "num": 127355,
-      "word": "裴文宣李蓉野猫哪有家猫香",
-      "onboard_time": 1720101020,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 127324,
@@ -8843,6 +8915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121963,
+      "num": 121963,
+      "word": "王楚钦孙颖莎身披龙服",
+      "onboard_time": 1720103720,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121916,
       "num": 164683,
       "word": "日本森永婴儿饼干疑有动物排泄物",
@@ -8992,14 +9072,6 @@
       "word": "这火种从未断过",
       "onboard_time": 1719805040,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119417,
-      "num": 351196,
-      "word": "养父母未办领养手续养子失去继承权",
-      "onboard_time": 1720101619,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9265,14 +9337,6 @@
       "onboard_time": 1719789135,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112970,
-      "num": 112970,
-      "word": "孙颖莎被金球砸到",
-      "onboard_time": 1720102639,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 112898,
