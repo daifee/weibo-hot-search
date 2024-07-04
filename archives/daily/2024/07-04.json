@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720103737029,
+  "endTime": 1720106424389,
   "band_list": [
     {
       "raw_hot": 2095162,
@@ -49,6 +49,14 @@
       "onboard_time": 1720050257,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1627344,
+      "num": 1627344,
+      "word": "不停道歉的东方甄选怎么了",
+      "onboard_time": 1720102459,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1563959,
@@ -105,6 +113,14 @@
       "onboard_time": 1720094599,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072970,
+      "num": 1072970,
+      "word": "陈泽直播间被封",
+      "onboard_time": 1720103344,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1051660,
@@ -193,6 +209,14 @@
       "onboard_time": 1720072998,
       "rank": 6,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 876541,
+      "num": 363454,
+      "word": "被撕票中企高管最后语音曝光",
+      "onboard_time": 1720103840,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854695,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 599828,
-      "num": 317038,
+      "num": 341273,
       "word": "张馨予胖五斤了",
       "onboard_time": 1720102219,
       "rank": 19,
@@ -523,6 +547,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 546120,
+      "num": 546120,
+      "word": "养父母未办领养手续养子失去继承权",
+      "onboard_time": 1720101619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543037,
+      "num": 543037,
+      "word": "孙颖莎被金球砸到",
+      "onboard_time": 1720102639,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531051,
       "num": 531051,
       "word": "日本地震",
@@ -553,14 +593,6 @@
       "onboard_time": 1720064538,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 516279,
-      "num": 516279,
-      "word": "不停道歉的东方甄选怎么了",
-      "onboard_time": 1720102459,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510804,
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401968,
+      "num": 401968,
+      "word": "妈妈回应儿子出生6个月长到22斤",
+      "onboard_time": 1720101741,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401559,
       "num": 401559,
       "word": "菲方向中国索赔撞船损失100万美元",
@@ -971,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339406,
-      "num": 339406,
-      "word": "孙颖莎被金球砸到",
-      "onboard_time": 1720102639,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 334016,
       "num": 334016,
       "word": "卢昱晓上的是亲子综艺吧",
@@ -1035,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300678,
-      "num": 300678,
-      "word": "妈妈回应儿子出生6个月长到22斤",
-      "onboard_time": 1720101741,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293349,
       "num": 293349,
       "word": "默杀票房破5000万",
@@ -1051,28 +1075,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293337,
-      "num": 351196,
-      "word": "养父母未办领养手续养子失去继承权",
-      "onboard_time": 1720101619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291452,
       "num": 291452,
       "word": "小九哭了",
       "onboard_time": 1720090937,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288295,
-      "num": 175641,
-      "word": "陈泽直播间被封",
-      "onboard_time": 1720103344,
-      "rank": 30,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 276138,
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238325,
+      "num": 238325,
+      "word": "北大考古女孩正参加敦煌研究院招聘",
+      "onboard_time": 1720102760,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227653,
       "num": 227653,
       "word": "美籍华人在菲律宾遇害朋友发声",
@@ -1299,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214526,
-      "num": 214526,
-      "word": "北大考古女孩正参加敦煌研究院招聘",
-      "onboard_time": 1720102760,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213403,
       "num": 213403,
       "word": "长相思 预约",
@@ -1377,6 +1385,22 @@
       "onboard_time": 1720059316,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200518,
+      "num": 200518,
+      "word": "王楚钦孙颖莎身披龙服",
+      "onboard_time": 1720103720,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "国乒奥运出征仪式龙服墙",
+      "onboard_time": 1720105640,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199265,
@@ -1507,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182962,
+      "num": 182962,
+      "word": "孙艺珍红毯状态",
+      "onboard_time": 1720103121,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182653,
       "num": 167741,
       "word": "韩廷是许凯第一个霸总",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1720079357,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178505,
+      "num": 178505,
+      "word": "韩语专业生就业方向",
+      "onboard_time": 1720105640,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 177397,
@@ -1691,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "秦岚也吵不过的女人",
+      "onboard_time": 1720103419,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165199,
       "num": 165199,
       "word": "谭松韵演技",
@@ -1723,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161502,
+      "num": 161502,
+      "word": "用两只虾做三个菜",
+      "onboard_time": 1720105459,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160980,
       "num": 160980,
       "word": "赵露思自己化许妍的定妆",
@@ -1731,12 +1787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159491,
-      "num": 159491,
-      "word": "孙艺珍红毯状态",
-      "onboard_time": 1720103121,
+      "raw_hot": 160878,
+      "num": 160878,
+      "word": "菲律宾",
+      "onboard_time": 1720106000,
       "rank": 36,
-      "category": "电影"
+      "category": "国外时政"
     },
     {
       "raw_hot": 158523,
@@ -1963,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145969,
+      "num": 145969,
+      "word": "王欣瑜晋级温网第三轮",
+      "onboard_time": 1720106000,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145842,
       "num": 145842,
       "word": "吴谨言下一部剧妆造",
@@ -2040,14 +2104,6 @@
       "word": "宁静被花少5治愈了",
       "onboard_time": 1720092498,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 144019,
-      "num": 144019,
-      "word": "秦岚也吵不过的女人",
-      "onboard_time": 1720103419,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2251,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132470,
+      "num": 132470,
+      "word": "广州地铁18号线沙溪站停止对外服务",
+      "onboard_time": 1720105819,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132371,
       "num": 132371,
       "word": "Miss电竞圈名气",
@@ -2387,6 +2451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126082,
+      "num": 126082,
+      "word": "王欣瑜发球",
+      "onboard_time": 1720103840,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "陈坤演技",
@@ -2419,6 +2491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123646,
+      "num": 123646,
+      "word": "那英 如果你也听说",
+      "onboard_time": 1720106240,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123277,
       "num": 123277,
       "word": "上海迪士尼暑期门票飙至719元",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1720094958,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121963,
-      "num": 121963,
-      "word": "王楚钦孙颖莎身披龙服",
-      "onboard_time": 1720103720,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 121204,
@@ -2995,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46558,
+      "num": 827331,
+      "word": "风清气正的网络环境是中国的名片",
+      "onboard_time": 1720105759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45389,
       "num": 372129,
       "word": "米哈游你果然背刺我了",
@@ -3009,6 +3089,14 @@
       "onboard_time": 1720033271,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43423,
+      "num": 379151,
+      "word": "最可爱的人抱住了最可爱的人",
+      "onboard_time": 1720099518,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41525,
