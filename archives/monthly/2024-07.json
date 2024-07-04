@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720100053081,
+  "endTime": 1720102691126,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1445938,
-      "num": 342978,
+      "num": 347586,
       "word": "陆毅回应",
       "onboard_time": 1720097959,
       "rank": 15,
@@ -811,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 867771,
+      "num": 867771,
+      "word": "吉祥航空通报不开空调致旅客中暑",
+      "onboard_time": 1720097959,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865644,
       "num": 558878,
       "word": "全队带张志杰上领奖台",
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 751737,
-      "num": 276196,
+      "num": 282516,
       "word": "男性睡觉掉色是全国统一的吗",
       "onboard_time": 1720095499,
       "rank": 21,
@@ -1603,6 +1611,14 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 597432,
+      "num": 597432,
+      "word": "谁家老公做成这勾栏模样",
+      "onboard_time": 1720096818,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596716,
       "num": 364874,
       "word": "入睡太快是一种病",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1719878177,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579782,
+      "num": 418467,
+      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+      "onboard_time": 1720099279,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 579040,
@@ -1827,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561954,
+      "num": 279154,
+      "word": "复读生已经上了五天课了",
+      "onboard_time": 1720097118,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 561620,
       "num": 561620,
       "word": "野孩子",
@@ -1905,22 +1937,6 @@
       "onboard_time": 1719788714,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 543279,
-      "num": 543279,
-      "word": "谁家老公做成这勾栏模样",
-      "onboard_time": 1720096818,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 539999,
-      "num": 412254,
-      "word": "吉祥航空通报不开空调致旅客中暑",
-      "onboard_time": 1720097959,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539842,
@@ -2089,6 +2105,14 @@
       "onboard_time": 1719741438,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 510804,
+      "num": 346420,
+      "word": "警方通报6旬男子持刀伤人致3死1伤",
+      "onboard_time": 1720100899,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 510241,
@@ -2411,14 +2435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472889,
-      "num": 268228,
-      "word": "复读生已经上了五天课了",
-      "onboard_time": 1720097118,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 472410,
       "num": 289834,
       "word": "张子墨 自摸哥",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1719995238,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 446692,
+      "num": 408641,
+      "word": "沈阳铁西",
+      "onboard_time": 1720097718,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 445549,
@@ -2881,14 +2905,6 @@
       "onboard_time": 1719911297,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 408641,
-      "num": 408641,
-      "word": "沈阳铁西",
-      "onboard_time": 1720097718,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 408617,
@@ -3363,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353267,
+      "num": 353267,
+      "word": "林俊杰卡地亚现场",
+      "onboard_time": 1720100239,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352447,
       "num": 240961,
       "word": "唐艺昕带娃外出",
@@ -3443,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341763,
+      "num": 341763,
+      "word": "沈阳小区内持刀行凶男子已被抓",
+      "onboard_time": 1720098559,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 341132,
       "num": 341132,
       "word": "罗云熙 结婚赛道",
@@ -3465,14 +3497,6 @@
       "onboard_time": 1719778871,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340702,
-      "num": 340702,
-      "word": "沈阳小区内持刀行凶男子已被抓",
-      "onboard_time": 1720098559,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 340524,
@@ -3739,6 +3763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 310450,
+      "num": 310450,
+      "word": "肖战深V亮钻西装",
+      "onboard_time": 1720101140,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309771,
       "num": 309771,
       "word": "刘昊然为新戏拔了头发眉毛",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1719978619,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 284183,
+      "num": 284183,
+      "word": "张馨予胖五斤了",
+      "onboard_time": 1720102219,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 283952,
@@ -4867,6 +4907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216875,
+      "num": 216875,
+      "word": "王嘉尔蒙面舞台",
+      "onboard_time": 1720101560,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -5355,6 +5403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198905,
+      "num": 198905,
+      "word": "东镇多惠宣布复合",
+      "onboard_time": 1720101438,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198697,
       "num": 198697,
       "word": "萌兰和花和叶表情包九宫格",
@@ -5601,6 +5657,14 @@
       "onboard_time": 1719837917,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191076,
+      "num": 191076,
+      "word": "九尾采访",
+      "onboard_time": 1720101258,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 191059,
@@ -5859,6 +5923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185681,
+      "num": 185681,
+      "word": "妈妈回应儿子出生6个月长到22斤",
+      "onboard_time": 1720101741,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185129,
       "num": 185129,
       "word": "电影她的小梨涡 怼网友",
@@ -6081,14 +6153,6 @@
       "onboard_time": 1719798139,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178904,
-      "num": 418467,
-      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
-      "onboard_time": 1720099279,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 178572,
@@ -6331,6 +6395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171940,
+      "num": 171940,
+      "word": "白敬亭跟唐嫣学上海话",
+      "onboard_time": 1720101500,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171610,
       "num": 160758,
       "word": "父亲因不满志愿填报殴打女儿",
@@ -6561,6 +6633,14 @@
       "onboard_time": 1719976757,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162924,
+      "num": 162924,
+      "word": "牛麦",
+      "onboard_time": 1720099879,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 162557,
@@ -7331,6 +7411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145548,
+      "num": 127954,
+      "word": "白敬亭章若楠互关",
+      "onboard_time": 1720100418,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145529,
       "num": 145529,
       "word": "默杀 反转反转再反转",
@@ -7457,6 +7545,14 @@
       "onboard_time": 1719989597,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143664,
+      "num": 143664,
+      "word": "不停道歉的东方甄选怎么了",
+      "onboard_time": 1720102459,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143652,
@@ -7843,6 +7939,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 137307,
+      "num": 137307,
+      "word": "广东宠物鱼一口吞掉大蟑螂",
+      "onboard_time": 1720100539,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137244,
       "num": 137244,
       "word": "张艺兴新歌在脑子里摇了一天",
@@ -7985,6 +8089,14 @@
       "onboard_time": 1719810681,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134828,
+      "num": 134828,
+      "word": "山东人有自己的山东味了",
+      "onboard_time": 1720102519,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 134820,
@@ -8427,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127880,
+      "num": 126330,
+      "word": "吴谨言下一部剧妆造",
+      "onboard_time": 1720102399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127750,
       "num": 127750,
       "word": "绝区零合作格莱美制作人",
@@ -8465,6 +8585,14 @@
       "onboard_time": 1719983719,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "裴文宣李蓉野猫哪有家猫香",
+      "onboard_time": 1720101020,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 127324,
@@ -8867,6 +8995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119417,
+      "num": 351196,
+      "word": "养父母未办领养手续养子失去继承权",
+      "onboard_time": 1720101619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119346,
       "num": 1147243,
       "word": "哈萨克斯坦天空现中国国旗色彩带",
@@ -9107,6 +9243,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 113103,
+      "num": 113103,
+      "word": "ILAND2团名izna",
+      "onboard_time": 1720100778,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113016,
       "num": 113016,
       "word": "萌兰儿时翻车视频",
@@ -9121,6 +9265,14 @@
       "onboard_time": 1719789135,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112970,
+      "num": 112970,
+      "word": "孙颖莎被金球砸到",
+      "onboard_time": 1720102639,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112898,
@@ -9169,14 +9321,6 @@
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111649,
-      "num": 111649,
-      "word": "牛麦",
-      "onboard_time": 1720099879,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 111624,
@@ -9561,6 +9705,14 @@
       "onboard_time": 1719843259,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102479,
+      "num": 342302,
+      "word": "难以想象我这个暑假会有多快乐",
+      "onboard_time": 1720098138,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 102457,
@@ -10115,14 +10267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71827,
-      "num": 282812,
-      "word": "难以想象我这个暑假会有多快乐",
-      "onboard_time": 1720098138,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -10161,6 +10305,14 @@
       "onboard_time": 1719850576,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66683,
+      "num": 612955,
+      "word": "带你60秒环游塔吉克斯坦",
+      "onboard_time": 1720098018,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 66501,
@@ -10641,14 +10793,6 @@
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44161,
-      "num": 612955,
-      "word": "带你60秒环游塔吉克斯坦",
-      "onboard_time": 1720098018,
-      "rank": 2,
-      "category": "国外时政"
     },
     {
       "raw_hot": 43325,

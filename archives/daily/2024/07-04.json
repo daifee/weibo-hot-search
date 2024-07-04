@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720100053081,
+  "endTime": 1720102691126,
   "band_list": [
     {
       "raw_hot": 2095162,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1445938,
-      "num": 342978,
+      "num": 347586,
       "word": "陆毅回应",
       "onboard_time": 1720097959,
       "rank": 15,
@@ -187,6 +187,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 867771,
+      "num": 867771,
+      "word": "吉祥航空通报不开空调致旅客中暑",
+      "onboard_time": 1720097959,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854695,
       "num": 408022,
       "word": "仅4成男性为结婚买房",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 751737,
-      "num": 276196,
+      "num": 282516,
       "word": "男性睡觉掉色是全国统一的吗",
       "onboard_time": 1720095499,
       "rank": 21,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597432,
+      "num": 597432,
+      "word": "谁家老公做成这勾栏模样",
+      "onboard_time": 1720096818,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593117,
       "num": 593117,
       "word": "谭爷爷为花花和叶做生日蛋糕",
@@ -417,6 +433,14 @@
       "onboard_time": 1720095317,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 579782,
+      "num": 418467,
+      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+      "onboard_time": 1720099279,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 577438,
@@ -475,28 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561954,
+      "num": 279154,
+      "word": "复读生已经上了五天课了",
+      "onboard_time": 1720097118,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 549131,
       "num": 494465,
       "word": "她的小梨涡 选角",
       "onboard_time": 1720087578,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 543279,
-      "num": 543279,
-      "word": "谁家老公做成这勾栏模样",
-      "onboard_time": 1720096818,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 539999,
-      "num": 412254,
-      "word": "吉祥航空通报不开空调致旅客中暑",
-      "onboard_time": 1720097959,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531051,
@@ -529,6 +545,14 @@
       "onboard_time": 1720064538,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 510804,
+      "num": 346420,
+      "word": "警方通报6旬男子持刀伤人致3死1伤",
+      "onboard_time": 1720100899,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 508614,
@@ -603,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472889,
-      "num": 268228,
-      "word": "复读生已经上了五天课了",
-      "onboard_time": 1720097118,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 469969,
       "num": 469969,
       "word": "女儿获第一笔工资给爸妈分红6666元",
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446692,
+      "num": 408641,
+      "word": "沈阳铁西",
+      "onboard_time": 1720097718,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 445549,
       "num": 445549,
       "word": "女子醉卧马路被轧身亡送人者认定无责",
@@ -729,14 +753,6 @@
       "onboard_time": 1720078337,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408641,
-      "num": 408641,
-      "word": "沈阳铁西",
-      "onboard_time": 1720097718,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 408296,
@@ -891,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353267,
+      "num": 353267,
+      "word": "林俊杰卡地亚现场",
+      "onboard_time": 1720100239,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 347790,
       "num": 347790,
       "word": "周焯华确定获刑18年",
@@ -915,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341763,
+      "num": 341763,
+      "word": "沈阳小区内持刀行凶男子已被抓",
+      "onboard_time": 1720098559,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 341102,
       "num": 341102,
       "word": "警方通报男子翻越电梯扶手坠亡",
       "onboard_time": 1720074918,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340702,
-      "num": 340702,
-      "word": "沈阳小区内持刀行凶男子已被抓",
-      "onboard_time": 1720098559,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 334016,
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310450,
+      "num": 310450,
+      "word": "肖战深V亮钻西装",
+      "onboard_time": 1720101140,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304411,
       "num": 304411,
       "word": "小鬼 胜负欲",
@@ -992,6 +1024,14 @@
       "word": "小九哭了",
       "onboard_time": 1720090937,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284183,
+      "num": 284183,
+      "word": "张馨予胖五斤了",
+      "onboard_time": 1720102219,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1171,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216875,
+      "num": 216875,
+      "word": "王嘉尔蒙面舞台",
+      "onboard_time": 1720101560,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215773,
       "num": 206782,
       "word": "迪丽热巴穿了周柯宇外套",
@@ -1283,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198905,
+      "num": 198905,
+      "word": "东镇多惠宣布复合",
+      "onboard_time": 1720101438,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198697,
       "num": 198697,
       "word": "萌兰和花和叶表情包九宫格",
@@ -1331,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191076,
+      "num": 191076,
+      "word": "九尾采访",
+      "onboard_time": 1720101258,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191059,
       "num": 191059,
       "word": "秦彻建模",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1720057457,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185681,
+      "num": 185681,
+      "word": "妈妈回应儿子出生6个月长到22斤",
+      "onboard_time": 1720101741,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185129,
@@ -1449,14 +1521,6 @@
       "onboard_time": 1720091537,
       "rank": 35,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 178904,
-      "num": 418467,
-      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
-      "onboard_time": 1720099279,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 178854,
@@ -1547,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171940,
+      "num": 171940,
+      "word": "白敬亭跟唐嫣学上海话",
+      "onboard_time": 1720101500,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170220,
       "num": 170220,
       "word": "男子独自爬山失踪遗体已被找到",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1720069398,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162924,
+      "num": 162924,
+      "word": "牛麦",
+      "onboard_time": 1720099879,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 162557,
@@ -1819,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145548,
+      "num": 127954,
+      "word": "白敬亭章若楠互关",
+      "onboard_time": 1720100418,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145529,
       "num": 145529,
       "word": "默杀 反转反转再反转",
@@ -1881,6 +1969,14 @@
       "onboard_time": 1720092498,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143664,
+      "num": 143664,
+      "word": "不停道歉的东方甄选怎么了",
+      "onboard_time": 1720102459,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143652,
@@ -1971,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137307,
+      "num": 137307,
+      "word": "广东宠物鱼一口吞掉大蟑螂",
+      "onboard_time": 1720100539,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137244,
       "num": 137244,
       "word": "张艺兴新歌在脑子里摇了一天",
@@ -2017,6 +2121,14 @@
       "onboard_time": 1720067718,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134828,
+      "num": 134828,
+      "word": "山东人有自己的山东味了",
+      "onboard_time": 1720102519,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 134640,
@@ -2163,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127880,
+      "num": 126330,
+      "word": "吴谨言下一部剧妆造",
+      "onboard_time": 1720102399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127832,
       "num": 127832,
       "word": "宁静 花少",
@@ -2177,6 +2297,14 @@
       "onboard_time": 1720092258,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "裴文宣李蓉野猫哪有家猫香",
+      "onboard_time": 1720101020,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 127083,
@@ -2291,6 +2419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119417,
+      "num": 351196,
+      "word": "养父母未办领养手续养子失去继承权",
+      "onboard_time": 1720101619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119249,
       "num": 340106,
       "word": "陈延年离开97年了",
@@ -2355,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113103,
+      "num": 113103,
+      "word": "ILAND2团名izna",
+      "onboard_time": 1720100778,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113016,
       "num": 113016,
       "word": "萌兰儿时翻车视频",
@@ -2363,20 +2507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112970,
+      "num": 112970,
+      "word": "孙颖莎被金球砸到",
+      "onboard_time": 1720102639,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "许凯开屏",
       "onboard_time": 1720049897,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111649,
-      "num": 111649,
-      "word": "牛麦",
-      "onboard_time": 1720099879,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 109769,
@@ -2409,6 +2553,14 @@
       "onboard_time": 1720056378,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102479,
+      "num": 342302,
+      "word": "难以想象我这个暑假会有多快乐",
+      "onboard_time": 1720098138,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 101862,
@@ -2635,12 +2787,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71827,
-      "num": 282812,
-      "word": "难以想象我这个暑假会有多快乐",
-      "onboard_time": 1720098138,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 66683,
+      "num": 612955,
+      "word": "带你60秒环游塔吉克斯坦",
+      "onboard_time": 1720098018,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 66345,
@@ -2793,14 +2945,6 @@
       "onboard_time": 1720033271,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44161,
-      "num": 612955,
-      "word": "带你60秒环游塔吉克斯坦",
-      "onboard_time": 1720098018,
-      "rank": 2,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41525,
