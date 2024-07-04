@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720111129309,
+  "endTime": 1720113487915,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3859,6 +3859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306123,
+      "num": 172035,
+      "word": "林一晚安大小姐 国标味",
+      "onboard_time": 1720109718,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305483,
       "num": 305483,
       "word": "印尼羽协公布张志杰抢救细节",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1719876555,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190572,
-      "num": 158872,
-      "word": "林一晚安大小姐 国标味",
-      "onboard_time": 1720109718,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190298,
@@ -9843,6 +9843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103354,
+      "num": 103354,
+      "word": "几十万套法拍房背后",
+      "onboard_time": 1720110795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103060,
       "num": 103060,
       "word": "贺军翔黄子佼被传唤",
@@ -10843,14 +10851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49711,
-      "num": 79303,
-      "word": "几十万套法拍房背后",
-      "onboard_time": 1720110795,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48860,
       "num": 281650,
       "word": "我们一起去看海",
@@ -11131,6 +11131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38778,
+      "num": 48844,
+      "word": "攀娘 程四四",
+      "onboard_time": 1720113254,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 38725,
       "num": 273140,
       "word": "深圳大学最好的招生简章",
@@ -11233,6 +11241,14 @@
       "onboard_time": 1719854234,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34895,
+      "num": 48723,
+      "word": "你比星光美丽预告",
+      "onboard_time": 1720111395,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 34718,
@@ -11571,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20488,
+      "num": 48999,
+      "word": "绝区零建模",
+      "onboard_time": 1720112714,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19032,
       "num": 27189,
       "word": "汪苏泷听见下雨的声音vlog",
@@ -11641,6 +11665,14 @@
       "onboard_time": 1719943691,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14894,
+      "num": 112185,
+      "word": "医生提醒孩子流鼻血千万别仰头",
+      "onboard_time": 1720112296,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14534,
