@@ -1,0 +1,410 @@
+{
+  "runTime": 1720071374946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835024,
+        "num": 835024,
+        "word": "向佐维护郭碧婷",
+        "onboard_time": 1720063338,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528150,
+        "num": 528150,
+        "word": "新疆有自己的娱乐圈",
+        "onboard_time": 1720069339,
+        "rank": 1,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 62435,
+        "num": 518966,
+        "word": "打卡多彩哈萨克斯坦",
+        "onboard_time": 1720065978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 639583,
+        "num": 516870,
+        "word": "默杀 看爽了",
+        "onboard_time": 1720063939,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511802,
+        "num": 511802,
+        "word": "日本地震",
+        "onboard_time": 1720066158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343060,
+        "num": 343060,
+        "word": "秦彻偷跑",
+        "onboard_time": 1720065917,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 577292,
+        "num": 330729,
+        "word": "歌手第九期又有汪峰的歌",
+        "onboard_time": 1720066698,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516871,
+        "num": 316048,
+        "word": "歌手歌单",
+        "onboard_time": 1720064718,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273950,
+        "num": 273950,
+        "word": "特斯拉进入江苏省政府用车采购目录",
+        "onboard_time": 1720061537,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181147,
+        "num": 268372,
+        "word": "大三女生2次捐献救同一位小女孩",
+        "onboard_time": 1720054757,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573250,
+        "num": 263206,
+        "word": "女生退租遭辱骂致死案二审维持原判",
+        "onboard_time": 1720064297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543779,
+        "num": 254253,
+        "word": "中金称女员工系自身原因离世",
+        "onboard_time": 1720062138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57177,
+        "num": 241340,
+        "word": "比亚迪第800万辆新能源汽车下线",
+        "onboard_time": 1720069519,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237729,
+        "num": 237729,
+        "word": "绝区零 无聊",
+        "onboard_time": 1720062739,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482492,
+        "num": 237287,
+        "word": "张凌赫素人时期照片",
+        "onboard_time": 1720068019,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464780,
+        "num": 235905,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427161,
+        "num": 234523,
+        "word": "什么是快乐星球是马嘉祺写的",
+        "onboard_time": 1720068859,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351893,
+        "num": 232945,
+        "word": "菲律宾绑架案遇害者生前曾遭虐待",
+        "onboard_time": 1720070298,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344008,
+        "num": 231500,
+        "word": "长相思2小夭相柳转身镜头",
+        "onboard_time": 1720066338,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243975,
+        "num": 229570,
+        "word": "沙特土豪误认选手豪赠100刀",
+        "onboard_time": 1720070717,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1078094,
+        "num": 228380,
+        "word": "韩国高中盯上中国生源",
+        "onboard_time": 1720060695,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712546,
+        "num": 225965,
+        "word": "妈妈深夜哭诉给孩子买凉鞋比价好几天",
+        "onboard_time": 1720066579,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558476,
+        "num": 224581,
+        "word": "只有工资到账那一秒是爽的",
+        "onboard_time": 1720064658,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47163,
+        "num": 223311,
+        "word": "很多大熊猫都是七八月过生日",
+        "onboard_time": 1720071258,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549077,
+        "num": 221536,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 408851,
+        "num": 219694,
+        "word": "完全不内耗的人都有一个特质",
+        "onboard_time": 1720064538,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304824,
+        "num": 218607,
+        "word": "福宝的起床气被果果治好了",
+        "onboard_time": 1720065137,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297436,
+        "num": 217341,
+        "word": "宁静回应花少争议",
+        "onboard_time": 1720070058,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 215231,
+        "word": "97年前29岁的陈延年牺牲",
+        "onboard_time": 1720070717,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7047,
+        "num": 214174,
+        "word": "我玩绝区零连吃带拿",
+        "onboard_time": 1720067898,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273239,
+        "num": 213009,
+        "word": "怀疑乌尔善用了3D打印技术",
+        "onboard_time": 1720061297,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212010,
+        "num": 212010,
+        "word": "绝区零开服",
+        "onboard_time": 1720053857,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179872,
+        "num": 179872,
+        "word": "女孩诉离异父亲付大学费用法院不支持",
+        "onboard_time": 1720069817,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173110,
+        "num": 173110,
+        "word": "周焯华确定获刑18年",
+        "onboard_time": 1720066218,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "敖子逸 小鬼",
+        "onboard_time": 1720050257,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170444,
+        "num": 170444,
+        "word": "张远接活都接到欧洲了",
+        "onboard_time": 1720069398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161105,
+        "num": 161105,
+        "word": "XG世巡中国场",
+        "onboard_time": 1720068740,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 158434,
+        "word": "字母哥11中11轰32分",
+        "onboard_time": 1720069578,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156862,
+        "num": 156862,
+        "word": "张含韵人前体面人后慌乱",
+        "onboard_time": 1720068258,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156799,
+        "num": 156799,
+        "word": "刘亦菲实绩",
+        "onboard_time": 1720049956,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146621,
+        "num": 146621,
+        "word": "Miss团队",
+        "onboard_time": 1720069398,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141579,
+        "num": 141579,
+        "word": "男子抱5个月女儿欲跳楼轻生",
+        "onboard_time": 1720060277,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139650,
+        "num": 139650,
+        "word": "Miss回应团队背刺郭碧婷",
+        "onboard_time": 1720049597,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134460,
+        "num": 134460,
+        "word": "长相思2官宣见面会",
+        "onboard_time": 1720070237,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27260,
+        "num": 132744,
+        "word": "绝区零兄妹cos",
+        "onboard_time": 1720069878,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132346,
+        "num": 132346,
+        "word": "马来西亚男子迷晕妓女抢走25万财物",
+        "onboard_time": 1720071197,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118783,
+        "num": 118783,
+        "word": "绝区零 抢uid",
+        "onboard_time": 1720054039,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118172,
+        "num": 118172,
+        "word": "gidle 夏日风",
+        "onboard_time": 1720068379,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117624,
+        "num": 117624,
+        "word": "仅4成男性为结婚买房",
+        "onboard_time": 1720071318,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90050,
+        "num": 116797,
+        "word": "详解不同年龄段海姆立克急救法",
+        "onboard_time": 1720069039,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问哈萨克斯坦高光时刻#"
+    }
+  }
+}

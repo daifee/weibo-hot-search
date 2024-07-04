@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720070421245,
+  "endTime": 1720071374946,
   "band_list": [
     {
       "raw_hot": 1850589,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577292,
+      "num": 427595,
+      "word": "歌手第九期又有汪峰的歌",
+      "onboard_time": 1720066698,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567470,
       "num": 162015,
       "word": "不建议大家离职的几个月份",
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533348,
-      "num": 427595,
-      "word": "歌手第九期又有汪峰的歌",
-      "onboard_time": 1720066698,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531051,
       "num": 531051,
       "word": "日本地震",
@@ -265,6 +265,14 @@
       "onboard_time": 1720053857,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 528150,
+      "num": 528150,
+      "word": "新疆有自己的娱乐圈",
+      "onboard_time": 1720069339,
+      "rank": 17,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 516366,
@@ -289,6 +297,14 @@
       "onboard_time": 1720061537,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 482492,
+      "num": 277043,
+      "word": "张凌赫素人时期照片",
+      "onboard_time": 1720068019,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 469969,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427161,
+      "num": 271548,
+      "word": "什么是快乐星球是马嘉祺写的",
+      "onboard_time": 1720068859,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424936,
       "num": 174162,
       "word": "小鬼工作室维权声明",
@@ -337,14 +361,6 @@
       "onboard_time": 1720048274,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 414661,
-      "num": 277043,
-      "word": "张凌赫素人时期照片",
-      "onboard_time": 1720068019,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 402581,
@@ -387,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366551,
-      "num": 271548,
-      "word": "什么是快乐星球是马嘉祺写的",
-      "onboard_time": 1720068859,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 361066,
       "num": 172424,
       "word": "西宁通报2名15岁学生先后因病离世",
@@ -432,6 +440,14 @@
       "word": "胡锡进谈中金员工意外离世",
       "onboard_time": 1720062077,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351893,
+      "num": 232945,
+      "word": "菲律宾绑架案遇害者生前曾遭虐待",
+      "onboard_time": 1720070298,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -475,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264061,
-      "num": 264061,
-      "word": "新疆有自己的娱乐圈",
-      "onboard_time": 1720069339,
-      "rank": 17,
-      "category": "幽默,作品衍生"
+      "raw_hot": 297436,
+      "num": 217341,
+      "word": "宁静回应花少争议",
+      "onboard_time": 1720070058,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 262081,
@@ -529,6 +545,14 @@
       "onboard_time": 1720008677,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243975,
+      "num": 229570,
+      "word": "沙特土豪误认选手豪赠100刀",
+      "onboard_time": 1720070717,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 242748,
@@ -731,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184111,
-      "num": 184111,
-      "word": "宁静回应花少争议",
-      "onboard_time": 1720070058,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182653,
       "num": 167741,
       "word": "韩廷是许凯第一个霸总",
@@ -753,6 +769,14 @@
       "onboard_time": 1720063998,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179872,
+      "num": 179872,
+      "word": "女孩诉离异父亲付大学费用法院不支持",
+      "onboard_time": 1720069817,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179743,
@@ -827,14 +851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161567,
-      "num": 161567,
-      "word": "女孩诉离异父亲付大学费用法院不支持",
-      "onboard_time": 1720069817,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158523,
       "num": 158523,
       "word": "斗鱼罕见大手笔分红",
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156862,
+      "num": 156862,
+      "word": "张含韵人前体面人后慌乱",
+      "onboard_time": 1720068258,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155698,
       "num": 155698,
       "word": "TF家族运动会6个小时",
@@ -897,14 +921,6 @@
       "onboard_time": 1720010417,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 152525,
-      "num": 152525,
-      "word": "张含韵人前体面人后慌乱",
-      "onboard_time": 1720068258,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 152144,
@@ -987,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142137,
-      "num": 142136,
-      "word": "菲律宾绑架案遇害者生前曾遭虐待",
-      "onboard_time": 1720070298,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140799,
       "num": 140799,
       "word": "绝区零预下载多个国家和地区登顶",
@@ -1059,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134640,
+      "num": 158434,
+      "word": "字母哥11中11轰32分",
+      "onboard_time": 1720069578,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133543,
       "num": 133543,
       "word": "成毅真诚的哈基米",
@@ -1075,12 +1091,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132346,
+      "num": 132346,
+      "word": "马来西亚男子迷晕妓女抢走25万财物",
+      "onboard_time": 1720071197,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131955,
       "num": 100719,
       "word": "边伯贤solo出道五周年",
       "onboard_time": 1720026134,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131781,
+      "num": 215231,
+      "word": "97年前29岁的陈延年牺牲",
+      "onboard_time": 1720070717,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131510,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1720060156,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128768,
-      "num": 136258,
-      "word": "字母哥11中11轰32分",
-      "onboard_time": 1720069578,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128333,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1720020978,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117624,
+      "num": 117624,
+      "word": "仅4成男性为结婚买房",
+      "onboard_time": 1720071318,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116617,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1720022119,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90050,
+      "num": 296227,
+      "word": "详解不同年龄段海姆立克急救法",
+      "onboard_time": 1720069039,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89879,
@@ -1475,14 +1515,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 55006,
-      "num": 296227,
-      "word": "详解不同年龄段海姆立克急救法",
-      "onboard_time": 1720069039,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52407,
       "num": 1146503,
       "word": "中哈两位音乐家的跨国友情",
@@ -1504,6 +1536,14 @@
       "word": "13岁男孩暑假为家人花式做饭",
       "onboard_time": 1720067178,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47163,
+      "num": 223311,
+      "word": "很多大熊猫都是七八月过生日",
+      "onboard_time": 1720071258,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
