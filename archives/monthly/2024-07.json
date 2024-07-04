@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720063390941,
+  "endTime": 1720064227284,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -89,6 +89,14 @@
       "onboard_time": 1719890598,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1850589,
+      "num": 1850589,
+      "word": "小米之家 雪糕",
+      "onboard_time": 1720060277,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1819294,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1518291,
+      "num": 1518291,
+      "word": "韩国高中盯上中国生源",
+      "onboard_time": 1720060695,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1503953,
       "num": 1459805,
       "word": "小鱼海棠 小英",
@@ -217,14 +233,6 @@
       "onboard_time": 1719893840,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1475225,
-      "num": 1475225,
-      "word": "小米之家 雪糕",
-      "onboard_time": 1720060277,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 1469173,
@@ -273,14 +281,6 @@
       "onboard_time": 1719924979,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1361500,
-      "num": 1361500,
-      "word": "韩国高中盯上中国生源",
-      "onboard_time": 1720060695,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1354914,
@@ -521,6 +521,14 @@
       "onboard_time": 1720012219,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1041211,
+      "num": 410475,
+      "word": "中金称女员工系自身原因离世",
+      "onboard_time": 1720062138,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1028263,
@@ -787,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824273,
-      "num": 384396,
-      "word": "中金称女员工系自身原因离世",
-      "onboard_time": 1720062138,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824229,
       "num": 515653,
       "word": "印尼羽协称张志杰是心脏骤停去世",
@@ -1003,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 720534,
+      "num": 720534,
+      "word": "怀疑乌尔善用了3D打印技术",
+      "onboard_time": 1720061297,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719560,
       "num": 719560,
       "word": "Miss回应团队背刺郭碧婷",
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 650926,
-      "num": 265087,
+      "num": 269563,
       "word": "夏天不建议女生买的衣服",
       "onboard_time": 1720047975,
       "rank": 21,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1719916099,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 645915,
+      "num": 521481,
+      "word": "向佐维护郭碧婷",
+      "onboard_time": 1720063338,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 645527,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1719803958,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 599697,
-      "num": 599697,
-      "word": "怀疑乌尔善用了3D打印技术",
-      "onboard_time": 1720061297,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 599613,
@@ -2019,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472692,
+      "num": 472692,
+      "word": "特斯拉进入江苏省政府用车采购目录",
+      "onboard_time": 1720061537,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 472410,
       "num": 289834,
       "word": "张子墨 自摸哥",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1719812119,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462631,
+      "num": 269600,
+      "word": "Jennie用戒指绑头发",
+      "onboard_time": 1720062017,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 462518,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1719797418,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 451644,
+      "num": 396688,
+      "word": "男子抱5个月女儿欲跳楼轻生",
+      "onboard_time": 1720060277,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446818,
@@ -2363,14 +2395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411778,
-      "num": 382564,
-      "word": "男子抱5个月女儿欲跳楼轻生",
-      "onboard_time": 1720060277,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410212,
       "num": 265439,
       "word": "唐山今年全市已处分2116人",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1719793999,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 381497,
-      "num": 381497,
-      "word": "特斯拉进入江苏省政府用车采购目录",
-      "onboard_time": 1720061537,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 377032,
@@ -2923,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332408,
+      "num": 332408,
+      "word": "胡锡进谈中金员工意外离世",
+      "onboard_time": 1720062077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332309,
       "num": 263677,
       "word": "肖战玉骨遥新海报",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1719889397,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 322576,
-      "num": 235681,
-      "word": "Jennie用戒指绑头发",
-      "onboard_time": 1720062017,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 320819,
@@ -3163,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301609,
+      "num": 301609,
+      "word": "绝区零 无聊",
+      "onboard_time": 1720062739,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300545,
       "num": 237501,
       "word": "惊天魔盗团3北美定档",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1719907938,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294805,
-      "num": 195060,
-      "word": "胡锡进谈中金员工意外离世",
-      "onboard_time": 1720062077,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294803,
@@ -4043,6 +4059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 221696,
+      "num": 197275,
+      "word": "怎么应聘这个洗龟龟的工作",
+      "onboard_time": 1720061957,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221333,
       "num": 221333,
       "word": "印尼媒体呼吁世羽联修改规则",
@@ -4283,6 +4307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208051,
+      "num": 208051,
+      "word": "李东海李银赫评价余宇涵",
+      "onboard_time": 1720063998,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207980,
       "num": 207980,
       "word": "韩国一人一户一宠物家庭激增",
@@ -4435,14 +4467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204131,
-      "num": 194715,
-      "word": "怎么应聘这个洗龟龟的工作",
-      "onboard_time": 1720061957,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203423,
       "num": 203423,
       "word": "唐嫣孙坚认识二十多年了",
@@ -4545,6 +4569,14 @@
       "onboard_time": 1719889519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199618,
+      "num": 199618,
+      "word": "小燕子刚出生就有上岗经验了",
+      "onboard_time": 1720063397,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 199584,
@@ -4716,7 +4748,7 @@
     },
     {
       "raw_hot": 195693,
-      "num": 195693,
+      "num": 197314,
       "word": "湖人想让詹姆斯降薪一百万",
       "onboard_time": 1720061718,
       "rank": 29,
@@ -4785,14 +4817,6 @@
       "onboard_time": 1719983419,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193666,
-      "num": 193666,
-      "word": "绝区零 无聊",
-      "onboard_time": 1720062739,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 193077,
@@ -4921,6 +4945,14 @@
       "onboard_time": 1720016901,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "许凯 扛剧能力",
+      "onboard_time": 1720063037,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 188669,
@@ -5539,6 +5571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165299,
+      "num": 165299,
+      "word": "默杀 看爽了",
+      "onboard_time": 1720063939,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165162,
       "num": 165162,
       "word": "坠落春夜",
@@ -6089,6 +6129,14 @@
       "onboard_time": 1719979759,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150271,
+      "num": 150271,
+      "word": "咒术回战",
+      "onboard_time": 1720063758,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 150266,
@@ -6915,14 +6963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131530,
-      "num": 131530,
-      "word": "许凯 扛剧能力",
-      "onboard_time": 1720063037,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131510,
       "num": 131510,
       "word": "二次元黑皮帅哥",
@@ -7009,14 +7049,6 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
-    },
-    {
-      "raw_hot": 130011,
-      "num": 130011,
-      "word": "向佐维护郭碧婷",
-      "onboard_time": 1720063338,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 129960,
@@ -7377,6 +7409,14 @@
       "onboard_time": 1720058057,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120807,
+      "num": 120807,
+      "word": "CP30莫辜负",
+      "onboard_time": 1720063697,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 120785,
@@ -7809,6 +7849,14 @@
       "onboard_time": 1719974536,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 109769,
+      "num": 109769,
+      "word": "绝区零选哥哥还是妹妹",
+      "onboard_time": 1720064179,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109562,
@@ -8579,6 +8627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70826,
+      "num": 413494,
+      "word": "装修能有多少离谱的坑",
+      "onboard_time": 1720063217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -8980,7 +9036,7 @@
     },
     {
       "raw_hot": 45389,
-      "num": 277487,
+      "num": 372129,
       "word": "米哈游你果然背刺我了",
       "onboard_time": 1720060517,
       "rank": 49,
@@ -9552,14 +9608,6 @@
       "word": "韩国明年仍将适用最低时薪标准",
       "onboard_time": 1719988458,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16824,
-      "num": 386612,
-      "word": "装修能有多少离谱的坑",
-      "onboard_time": 1720063217,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

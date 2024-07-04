@@ -1,7 +1,15 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720063390941,
+  "endTime": 1720064227284,
   "band_list": [
+    {
+      "raw_hot": 1850589,
+      "num": 1850589,
+      "word": "小米之家 雪糕",
+      "onboard_time": 1720060277,
+      "rank": 30,
+      "category": "数码"
+    },
     {
       "raw_hot": 1848518,
       "num": 1848518,
@@ -19,12 +27,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1475225,
-      "num": 1475225,
-      "word": "小米之家 雪糕",
-      "onboard_time": 1720060277,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 1518291,
+      "num": 1518291,
+      "word": "韩国高中盯上中国生源",
+      "onboard_time": 1720060695,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1434829,
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1361500,
-      "num": 1361500,
-      "word": "韩国高中盯上中国生源",
-      "onboard_time": 1720060695,
-      "rank": 17,
+      "raw_hot": 1041211,
+      "num": 410475,
+      "word": "中金称女员工系自身原因离世",
+      "onboard_time": 1720062138,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 824273,
-      "num": 384396,
-      "word": "中金称女员工系自身原因离世",
-      "onboard_time": 1720062138,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 781381,
       "num": 781381,
       "word": "年轻人凌晨三点在迪士尼排长队",
@@ -89,6 +89,14 @@
       "onboard_time": 1720018341,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720534,
+      "num": 720534,
+      "word": "怀疑乌尔善用了3D打印技术",
+      "onboard_time": 1720061297,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 719560,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 650926,
-      "num": 265087,
+      "num": 269563,
       "word": "夏天不建议女生买的衣服",
       "onboard_time": 1720047975,
       "rank": 21,
@@ -145,6 +153,14 @@
       "onboard_time": 1719996679,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 645915,
+      "num": 521481,
+      "word": "向佐维护郭碧婷",
+      "onboard_time": 1720063338,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 632345,
@@ -161,14 +177,6 @@
       "onboard_time": 1720049116,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599697,
-      "num": 599697,
-      "word": "怀疑乌尔善用了3D打印技术",
-      "onboard_time": 1720061297,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 593117,
@@ -211,11 +219,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472692,
+      "num": 472692,
+      "word": "特斯拉进入江苏省政府用车采购目录",
+      "onboard_time": 1720061537,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 469969,
       "num": 469969,
       "word": "女儿获第一笔工资给爸妈分红6666元",
       "onboard_time": 1720047794,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462631,
+      "num": 269600,
+      "word": "Jennie用戒指绑头发",
+      "onboard_time": 1720062017,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451644,
+      "num": 396688,
+      "word": "男子抱5个月女儿欲跳楼轻生",
+      "onboard_time": 1720060277,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -235,14 +267,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 411778,
-      "num": 382564,
-      "word": "男子抱5个月女儿欲跳楼轻生",
-      "onboard_time": 1720060277,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402581,
       "num": 402581,
       "word": "杜海涛曾为保护素人叫停节目",
@@ -257,14 +281,6 @@
       "onboard_time": 1720023616,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381497,
-      "num": 381497,
-      "word": "特斯拉进入江苏省政府用车采购目录",
-      "onboard_time": 1720061537,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 377032,
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322576,
-      "num": 235681,
-      "word": "Jennie用戒指绑头发",
-      "onboard_time": 1720062017,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 332408,
+      "num": 332408,
+      "word": "胡锡进谈中金员工意外离世",
+      "onboard_time": 1720062077,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314683,
@@ -339,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294805,
-      "num": 195060,
-      "word": "胡锡进谈中金员工意外离世",
-      "onboard_time": 1720062077,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 301609,
+      "num": 301609,
+      "word": "绝区零 无聊",
+      "onboard_time": 1720062739,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 262081,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221696,
+      "num": 197275,
+      "word": "怎么应聘这个洗龟龟的工作",
+      "onboard_time": 1720061957,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220662,
       "num": 220662,
       "word": "第一次见古装剧女主是外科圣手的",
@@ -467,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208051,
+      "num": 208051,
+      "word": "李东海李银赫评价余宇涵",
+      "onboard_time": 1720063998,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207554,
       "num": 207554,
       "word": "裴文宣 恋爱脑",
@@ -491,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204131,
-      "num": 194715,
-      "word": "怎么应聘这个洗龟龟的工作",
-      "onboard_time": 1720061957,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200739,
       "num": 200739,
       "word": "TXT澳门演唱会抢票",
       "onboard_time": 1720059316,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199618,
+      "num": 199618,
+      "word": "小燕子刚出生就有上岗经验了",
+      "onboard_time": 1720063397,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 199265,
@@ -532,19 +564,19 @@
     },
     {
       "raw_hot": 195693,
-      "num": 195693,
+      "num": 197314,
       "word": "湖人想让詹姆斯降薪一百万",
       "onboard_time": 1720061718,
       "rank": 29,
       "category": "体育"
     },
     {
-      "raw_hot": 193666,
-      "num": 193666,
-      "word": "绝区零 无聊",
-      "onboard_time": 1720062739,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "许凯 扛剧能力",
+      "onboard_time": 1720063037,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 188326,
@@ -595,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165299,
+      "num": 165299,
+      "word": "默杀 看爽了",
+      "onboard_time": 1720063939,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158523,
       "num": 158523,
       "word": "斗鱼罕见大手笔分红",
@@ -641,6 +681,14 @@
       "onboard_time": 1720010417,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150271,
+      "num": 150271,
+      "word": "咒术回战",
+      "onboard_time": 1720063758,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 149837,
@@ -771,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131530,
-      "num": 131530,
-      "word": "许凯 扛剧能力",
-      "onboard_time": 1720063037,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131510,
       "num": 131510,
       "word": "二次元黑皮帅哥",
@@ -801,14 +841,6 @@
       "onboard_time": 1720060156,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130011,
-      "num": 130011,
-      "word": "向佐维护郭碧婷",
-      "onboard_time": 1720063338,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 128289,
@@ -867,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120807,
+      "num": 120807,
+      "word": "CP30莫辜负",
+      "onboard_time": 1720063697,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -897,6 +937,14 @@
       "onboard_time": 1720049897,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109769,
+      "num": 109769,
+      "word": "绝区零选哥哥还是妹妹",
+      "onboard_time": 1720064179,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109497,
@@ -1083,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70826,
+      "num": 413494,
+      "word": "装修能有多少离谱的坑",
+      "onboard_time": 1720063217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66345,
       "num": 359403,
       "word": "萌兰的生日蛋糕上有9只小鸟",
@@ -1140,7 +1196,7 @@
     },
     {
       "raw_hot": 45389,
-      "num": 277487,
+      "num": 372129,
       "word": "米哈游你果然背刺我了",
       "onboard_time": 1720060517,
       "rank": 49,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1720037591,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16824,
-      "num": 386612,
-      "word": "装修能有多少离谱的坑",
-      "onboard_time": 1720063217,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15674,
