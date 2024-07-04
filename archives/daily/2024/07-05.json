@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720125296454,
+  "endTime": 1720127888923,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27387,
+      "num": 27387,
+      "word": "虞书欣中餐厅顶锅杂技表演",
+      "onboard_time": 1720123931,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26815,
       "num": 26815,
       "word": "男子砸死疣鼻天鹅被刑拘",
@@ -520,6 +528,14 @@
       "word": "萌兰出演MV男主角",
       "onboard_time": 1720108578,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23048,
+      "num": 23048,
+      "word": "菲律宾绑架案遇害者挚友发声",
+      "onboard_time": 1720123750,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -563,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15115,
-      "num": 15115,
-      "word": "虞书欣中餐厅顶锅杂技表演",
-      "onboard_time": 1720123931,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 14826,
       "num": 14826,
       "word": "夏日畅想季",
@@ -579,24 +587,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14355,
-      "num": 14777,
+      "raw_hot": 14599,
+      "num": 14815,
       "word": "最想对延年烈士说的话",
       "onboard_time": 1720122012,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13931,
-      "num": 13931,
-      "word": "菲律宾绑架案遇害者挚友发声",
-      "onboard_time": 1720123750,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13647,
-      "num": 13930,
+      "raw_hot": 13764,
+      "num": 14812,
       "word": "看起来就很老实的动物",
       "onboard_time": 1720124531,
       "rank": 48,
