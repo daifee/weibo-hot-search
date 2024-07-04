@@ -1,0 +1,410 @@
+{
+  "runTime": 1720078477399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1036165,
+        "num": 1036165,
+        "word": "韩国抗议将泡菜译成中国辣白菜",
+        "onboard_time": 1720074679,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616376,
+        "num": 616376,
+        "word": "沙特土豪误认选手豪赠100刀",
+        "onboard_time": 1720070717,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51377,
+        "num": 572155,
+        "word": "打卡多彩哈萨克斯坦",
+        "onboard_time": 1720065978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 876563,
+        "num": 568978,
+        "word": "谭松韵回归长发",
+        "onboard_time": 1720072998,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552683,
+        "num": 552683,
+        "word": "纪凌尘说自己现在火了",
+        "onboard_time": 1720074139,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465191,
+        "num": 465191,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 508125,
+        "num": 463937,
+        "word": "苗苗欠下的手工皂还上了",
+        "onboard_time": 1720077498,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53803,
+        "num": 444974,
+        "word": "被高山之国硬控60秒",
+        "onboard_time": 1720074018,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435149,
+        "num": 435149,
+        "word": "秦彻 鞋拔子脸",
+        "onboard_time": 1720074258,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419953,
+        "num": 419953,
+        "word": "A股",
+        "onboard_time": 1720071739,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 648110,
+        "num": 408022,
+        "word": "仅4成男性为结婚买房",
+        "onboard_time": 1720071318,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95766,
+        "num": 381897,
+        "word": "这届年轻人是如何健康饮茶的",
+        "onboard_time": 1720076597,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 381293,
+        "num": 381293,
+        "word": "默杀 看爽了",
+        "onboard_time": 1720063939,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362578,
+        "num": 362578,
+        "word": "女儿坐轮椅带90岁妈妈拍人生首次写真",
+        "onboard_time": 1720076058,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358069,
+        "num": 358069,
+        "word": "新海诚 埋了8年的伏笔",
+        "onboard_time": 1720074617,
+        "rank": 14,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 341102,
+        "num": 341102,
+        "word": "警方通报男子翻越电梯扶手坠亡",
+        "onboard_time": 1720074918,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291783,
+        "num": 291783,
+        "word": "中金称女员工系自身原因离世",
+        "onboard_time": 1720062138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254139,
+        "num": 254139,
+        "word": "野孩子 撤档原因",
+        "onboard_time": 1720050257,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241269,
+        "num": 241269,
+        "word": "默杀票房破5000万",
+        "onboard_time": 1720074258,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227708,
+        "num": 227708,
+        "word": "何老师都说了别连着问成毅问题",
+        "onboard_time": 1720078037,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449523,
+        "num": 225770,
+        "word": "年轻人买房平均动用2.6个钱包",
+        "onboard_time": 1720073898,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119249,
+        "num": 217187,
+        "word": "陈延年离开97年了",
+        "onboard_time": 1720076539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298566,
+        "num": 213049,
+        "word": "均价一天一万元的月子中心宣布将上市",
+        "onboard_time": 1720071438,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62449,
+        "num": 205186,
+        "word": "陈延年牺牲时说革命者只有站着死",
+        "onboard_time": 1720078398,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264939,
+        "num": 202863,
+        "word": "韩国高中盯上中国生源",
+        "onboard_time": 1720060695,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252504,
+        "num": 198716,
+        "word": "夏天不建议女生买的衣服",
+        "onboard_time": 1720047975,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 193818,
+        "num": 193818,
+        "word": "A股超4800只个股下跌",
+        "onboard_time": 1720077916,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188507,
+        "num": 188507,
+        "word": "杨紫说小夭会被打碎然后重塑",
+        "onboard_time": 1720077019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36023,
+        "num": 185192,
+        "word": "绝区零玩家吃得真好",
+        "onboard_time": 1720076177,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184870,
+        "num": 184870,
+        "word": "歌手歌单",
+        "onboard_time": 1720064718,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180184,
+        "num": 180184,
+        "word": "郭保坤你变坏了",
+        "onboard_time": 1720072698,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178367,
+        "num": 178367,
+        "word": "宁静回应花少争议",
+        "onboard_time": 1720070058,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175657,
+        "num": 175657,
+        "word": "中金成立专项小组处理离世员工事宜",
+        "onboard_time": 1720076718,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172232,
+        "num": 172232,
+        "word": "北京JDG对战长沙TES",
+        "onboard_time": 1720077377,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "女生退租遭辱骂致死案二审维持原判",
+        "onboard_time": 1720064297,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168524,
+        "num": 168524,
+        "word": "菲律宾绑架案遇害者生前曾遭虐待",
+        "onboard_time": 1720070298,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "向佐维护郭碧婷",
+        "onboard_time": 1720063338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158831,
+        "num": 158831,
+        "word": "完全不内耗的人都有一个特质",
+        "onboard_time": 1720064538,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 151649,
+        "word": "TF三代出发参加家族运动会",
+        "onboard_time": 1720078398,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148961,
+        "num": 148961,
+        "word": "李现白敬亭好像小学生",
+        "onboard_time": 1720078337,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144158,
+        "num": 144158,
+        "word": "大英博物馆前馆长呼吁向外国游客收费",
+        "onboard_time": 1720073598,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139194,
+        "num": 139194,
+        "word": "只有工资到账那一秒是爽的",
+        "onboard_time": 1720064658,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 138536,
+        "word": "张凌赫素人时期照片",
+        "onboard_time": 1720068019,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132804,
+        "num": 132804,
+        "word": "长相思2小夭相柳转身镜头",
+        "onboard_time": 1720066338,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128575,
+        "num": 128575,
+        "word": "男子独自爬山失踪遗体已被找到",
+        "onboard_time": 1720073239,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128500,
+        "num": 128500,
+        "word": "基金刚建仓就退市",
+        "onboard_time": 1720077738,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 127666,
+        "word": "印尼卫生部长说张志杰本有望救活",
+        "onboard_time": 1720074498,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "迪丽热巴雾霭缭绕眼眸",
+        "onboard_time": 1720072038,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122154,
+        "num": 122154,
+        "word": "绝区零开服",
+        "onboard_time": 1720053857,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120181,
+        "num": 120181,
+        "word": "印度股市突破8万点",
+        "onboard_time": 1720074558,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
