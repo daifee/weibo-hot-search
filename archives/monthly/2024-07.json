@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720135201598,
+  "endTime": 1720136114850,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1443,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 638213,
+      "num": 638213,
+      "word": "Bin",
+      "onboard_time": 1720132211,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 638016,
       "num": 501055,
       "word": "陈赫家漏水",
@@ -1857,14 +1865,6 @@
       "onboard_time": 1720018459,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 567112,
-      "num": 567112,
-      "word": "Bin",
-      "onboard_time": 1720132211,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 566517,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1719812119,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462834,
+      "num": 116042,
+      "word": "运动不到30分钟就等于白运动了吗",
+      "onboard_time": 1720130651,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 462631,
@@ -3443,14 +3451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353812,
-      "num": 89513,
-      "word": "运动不到30分钟就等于白运动了吗",
-      "onboard_time": 1720130651,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 353604,
       "num": 353604,
       "word": "胡锡进谈中金员工意外离世",
@@ -4219,6 +4219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277579,
+      "num": 91346,
+      "word": "公积金结息到账四位数",
+      "onboard_time": 1720135635,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 276138,
       "num": 276138,
       "word": "他被称为最帅院士却不爱谈颜值",
@@ -4249,6 +4257,14 @@
       "onboard_time": 1719794239,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273472,
+      "num": 273472,
+      "word": "用生理盐水冒充HPV疫苗给多人接种",
+      "onboard_time": 1720134194,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270659,
@@ -4377,6 +4393,14 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260300,
+      "num": 190270,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259697,
@@ -4635,14 +4659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238850,
-      "num": 112162,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
@@ -4753,6 +4769,14 @@
       "onboard_time": 1719813500,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232216,
+      "num": 232216,
+      "word": "T1战胜BLG",
+      "onboard_time": 1720132092,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 231498,
@@ -5243,14 +5267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206270,
-      "num": 206270,
-      "word": "T1战胜BLG",
-      "onboard_time": 1720132092,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 206249,
       "num": 452191,
       "word": "欢迎你们到中国去上大学",
@@ -5491,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199816,
+      "num": 190242,
+      "word": "你们幼儿班接不接婚庆啊",
+      "onboard_time": 1720131792,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "许凯知道自己在撬墙角赛道",
@@ -5723,6 +5747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194650,
+      "num": 194650,
+      "word": "BLG",
+      "onboard_time": 1720135216,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "张杰演唱会大屏上的一家三口",
@@ -5867,6 +5899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190006,
+      "num": 190006,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189795,
       "num": 189795,
       "word": "吴谨言许凯售后来了",
@@ -5964,7 +6004,7 @@
     },
     {
       "raw_hot": 188323,
-      "num": 89121,
+      "num": 112785,
       "word": "为什么有的人睡觉爱举起双手",
       "onboard_time": 1720113613,
       "rank": 30,
@@ -6787,14 +6827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163972,
-      "num": 111761,
-      "word": "你们幼儿班接不接婚庆啊",
-      "onboard_time": 1720131792,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163588,
       "num": 163588,
       "word": "魏大勋蒲熠星极限拉扯",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1719927139,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162156,
-      "num": 111330,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 161502,
@@ -7499,6 +7523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149204,
+      "num": 149204,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149159,
       "num": 149159,
       "word": "谢霆锋 什么时候才能停风",
@@ -8089,14 +8121,6 @@
       "onboard_time": 1720084099,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138614,
-      "num": 110066,
-      "word": "菲律宾涉事公司回应中企高管遇害",
-      "onboard_time": 1720114032,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138607,
@@ -9651,14 +9675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109687,
-      "num": 109687,
-      "word": "用生理盐水冒充HPV疫苗给多人接种",
-      "onboard_time": 1720134194,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109562,
       "num": 109562,
       "word": "印度一家五口被困洪水中冲走",
@@ -9697,6 +9713,14 @@
       "onboard_time": 1719964756,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 108784,
+      "num": 108784,
+      "word": "勇士是懂补救的",
+      "onboard_time": 1720134615,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 108509,
@@ -10179,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92724,
+      "num": 92724,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 92316,
       "num": 92316,
       "word": "张之臻晋级温网第二轮",
@@ -10193,6 +10225,14 @@
       "onboard_time": 1719965118,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91937,
+      "num": 91937,
+      "word": "电竞世界杯T1战胜BLG",
+      "onboard_time": 1720134974,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 91258,
@@ -10241,6 +10281,14 @@
       "onboard_time": 1719757880,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90652,
+      "num": 90652,
+      "word": "下半年射手座运势称霸",
+      "onboard_time": 1720135696,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 90548,
@@ -10347,6 +10395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87405,
+      "num": 87405,
+      "word": "T1晋级电竞世界杯四强",
+      "onboard_time": 1720135876,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86597,
       "num": 91316,
       "word": "西班牙vs格鲁吉亚",
@@ -10419,6 +10475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82053,
+      "num": 82053,
+      "word": "BLG一轮游",
+      "onboard_time": 1720134916,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81845,
       "num": 87908,
       "word": "博物馆工作人员展示多种敦煌风手姿",
@@ -10449,6 +10513,14 @@
       "onboard_time": 1719984919,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 79762,
+      "num": 79762,
+      "word": "晚晚林瀚 高配版黑马情侣",
+      "onboard_time": 1720115292,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 79245,
@@ -10515,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75341,
+      "num": 75341,
+      "word": "在派出所被拖进女厕群殴男子发声",
+      "onboard_time": 1720135696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75313,
       "num": 405097,
       "word": "谁懂这个健康大使团的含金量",
@@ -10523,12 +10603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75040,
-      "num": 75040,
-      "word": "大学生开始反向升学读技校了",
-      "onboard_time": 1720120871,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 74766,
+      "num": 74766,
+      "word": "INFJ为什么是天选大女主",
+      "onboard_time": 1720135635,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 70661,
@@ -10563,12 +10643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67907,
-      "num": 67907,
-      "word": "晚晚林瀚 高配版黑马情侣",
-      "onboard_time": 1720115292,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 67866,
+      "num": 68645,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67692,
@@ -10715,14 +10795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63005,
-      "num": 68645,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62083,
       "num": 203335,
       "word": "小哥双腿绑沙袋送快递跑进奥运会",
@@ -10785,6 +10857,14 @@
       "onboard_time": 1720074018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59705,
+      "num": 59705,
+      "word": "BLG对战T1",
+      "onboard_time": 1720135996,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 59529,
@@ -10883,14 +10963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56457,
-      "num": 56457,
-      "word": "勇士是懂补救的",
-      "onboard_time": 1720134615,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55752,
       "num": 508075,
       "word": "老师用手教16岁听障男生跳舞走红",
@@ -10961,14 +11033,6 @@
       "onboard_time": 1720084998,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50335,
-      "num": 50335,
-      "word": "电竞世界杯T1战胜BLG",
-      "onboard_time": 1720134974,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 48860,
@@ -11129,14 +11193,6 @@
       "onboard_time": 1720134072,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43676,
-      "num": 43676,
-      "word": "BLG一轮游",
-      "onboard_time": 1720134916,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 43423,
@@ -11836,7 +11892,7 @@
     },
     {
       "raw_hot": 16369,
-      "num": 112460,
+      "num": 190493,
       "word": "北大毕业生用歌声祝福彼此",
       "onboard_time": 1720134916,
       "rank": 10,
