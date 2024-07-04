@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720132548955,
+  "endTime": 1720135201598,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1859,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567112,
+      "num": 567112,
+      "word": "Bin",
+      "onboard_time": 1720132211,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 566517,
       "num": 285080,
       "word": "凯美瑞只卖12万了",
@@ -3435,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353812,
+      "num": 89513,
+      "word": "运动不到30分钟就等于白运动了吗",
+      "onboard_time": 1720130651,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 353604,
       "num": 353604,
       "word": "胡锡进谈中金员工意外离世",
@@ -4619,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238850,
+      "num": 112162,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238712,
       "num": 238712,
       "word": "法国vs比利时",
@@ -5219,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206270,
+      "num": 206270,
+      "word": "T1战胜BLG",
+      "onboard_time": 1720132092,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206249,
       "num": 452191,
       "word": "欢迎你们到中国去上大学",
@@ -5544,14 +5576,6 @@
       "word": "市监局回应孙姐螺蛳粉被疑用福寿螺",
       "onboard_time": 1719980660,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198359,
-      "num": 85389,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -5937,6 +5961,14 @@
       "onboard_time": 1720049537,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188323,
+      "num": 89121,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188153,
@@ -6755,6 +6787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163972,
+      "num": 111761,
+      "word": "你们幼儿班接不接婚庆啊",
+      "onboard_time": 1720131792,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163588,
       "num": 163588,
       "word": "魏大勋蒲熠星极限拉扯",
@@ -6825,6 +6865,14 @@
       "onboard_time": 1719927139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162156,
+      "num": 111330,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 161502,
@@ -7843,14 +7891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141572,
-      "num": 49086,
-      "word": "为什么有的人睡觉爱举起双手",
-      "onboard_time": 1720113613,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 141510,
       "num": 141510,
       "word": "姨夫称张志杰无心脏病史",
@@ -8052,7 +8092,7 @@
     },
     {
       "raw_hot": 138614,
-      "num": 72449,
+      "num": 110066,
       "word": "菲律宾涉事公司回应中企高管遇害",
       "onboard_time": 1720114032,
       "rank": 42,
@@ -9611,6 +9651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109687,
+      "num": 109687,
+      "word": "用生理盐水冒充HPV疫苗给多人接种",
+      "onboard_time": 1720134194,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109562,
       "num": 109562,
       "word": "印度一家五口被困洪水中冲走",
@@ -10091,14 +10139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95357,
-      "num": 85388,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95249,
       "num": 95249,
       "word": "毕业典礼学生齐唱凤凰花开的路口",
@@ -10483,6 +10523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75040,
+      "num": 75040,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -10499,14 +10547,6 @@
       "category": "社会新闻,国内时政"
     },
     {
-      "raw_hot": 70116,
-      "num": 47706,
-      "word": "运动不到30分钟就等于白运动了吗",
-      "onboard_time": 1720130651,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 68765,
       "num": 318802,
       "word": "外国女子突发疾病还好遇上中国医生",
@@ -10521,6 +10561,14 @@
       "onboard_time": 1719876076,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67907,
+      "num": 67907,
+      "word": "晚晚林瀚 高配版黑马情侣",
+      "onboard_time": 1720115292,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 67692,
@@ -10667,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63005,
+      "num": 68645,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62083,
       "num": 203335,
       "word": "小哥双腿绑沙袋送快递跑进奥运会",
@@ -10755,6 +10811,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 58934,
+      "num": 58934,
+      "word": "虞书欣中餐厅顶锅杂技表演",
+      "onboard_time": 1720123931,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58698,
       "num": 64001,
       "word": "恋爱脑的本质是注意力的失控",
@@ -10817,6 +10881,14 @@
       "onboard_time": 1720000938,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56457,
+      "num": 56457,
+      "word": "勇士是懂补救的",
+      "onboard_time": 1720134615,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 55752,
@@ -10891,6 +10963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50335,
+      "num": 50335,
+      "word": "电竞世界杯T1战胜BLG",
+      "onboard_time": 1720134974,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48860,
       "num": 281650,
       "word": "我们一起去看海",
@@ -10905,22 +10985,6 @@
       "onboard_time": 1720097058,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48593,
-      "num": 48593,
-      "word": "Bin",
-      "onboard_time": 1720132211,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 48573,
-      "num": 48573,
-      "word": "晚晚林瀚 高配版黑马情侣",
-      "onboard_time": 1720115292,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 48538,
@@ -11057,6 +11121,22 @@
       "onboard_time": 1719948791,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 44330,
+      "num": 44330,
+      "word": "风中凌乱的任嘉伦",
+      "onboard_time": 1720134072,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43676,
+      "num": 43676,
+      "word": "BLG一轮游",
+      "onboard_time": 1720134916,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 43423,
@@ -11203,27 +11283,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38885,
-      "num": 38885,
-      "word": "T1战胜BLG",
-      "onboard_time": 1720132092,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 38725,
       "num": 273140,
       "word": "深圳大学最好的招生简章",
       "onboard_time": 1720004419,
       "rank": 14,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 38314,
-      "num": 38314,
-      "word": "大学生开始反向升学读技校了",
-      "onboard_time": 1720120871,
-      "rank": 41,
       "category": "教育"
     },
     {
@@ -11347,14 +11411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33986,
-      "num": 37434,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33922,
       "num": 49132,
       "word": "这种黄瓜有助于减脂",
@@ -11385,14 +11441,6 @@
       "onboard_time": 1719944292,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31260,
-      "num": 31260,
-      "word": "虞书欣中餐厅顶锅杂技表演",
-      "onboard_time": 1720123931,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 30980,
@@ -11529,14 +11577,6 @@
       "onboard_time": 1720112714,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27367,
-      "num": 27367,
-      "word": "你们幼儿班接不接婚庆啊",
-      "onboard_time": 1720131792,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 26885,
@@ -11732,7 +11772,7 @@
     },
     {
       "raw_hot": 20207,
-      "num": 56204,
+      "num": 59588,
       "word": "宁大学生就科学躲避鸟粪写了一篇论文",
       "onboard_time": 1720116012,
       "rank": 9,
@@ -11793,6 +11833,14 @@
       "onboard_time": 1719904698,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16369,
+      "num": 112460,
+      "word": "北大毕业生用歌声祝福彼此",
+      "onboard_time": 1720134916,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 16153,
