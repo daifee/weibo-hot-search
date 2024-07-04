@@ -1,0 +1,410 @@
+{
+  "runTime": 1720099375131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294036,
+        "num": 1294036,
+        "word": "姜爷爷",
+        "onboard_time": 1720094599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697279,
+        "num": 697279,
+        "word": "王心凌玫瑰嫁纱重达十公斤",
+        "onboard_time": 1720093637,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34650,
+        "num": 612955,
+        "word": "带你60秒环游塔吉克斯坦",
+        "onboard_time": 1720098018,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 589687,
+        "num": 589687,
+        "word": "巴黎奥运会允许代表团自费安空调",
+        "onboard_time": 1720095317,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543279,
+        "num": 543279,
+        "word": "谁家老公做成这勾栏模样",
+        "onboard_time": 1720096818,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445549,
+        "num": 445549,
+        "word": "女子醉卧马路被轧身亡送人者认定无责",
+        "onboard_time": 1720094838,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441750,
+        "num": 441750,
+        "word": "卡地亚派对",
+        "onboard_time": 1720097778,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 421654,
+        "num": 421654,
+        "word": "保时捷发霉车主自嘲不想要了",
+        "onboard_time": 1720086019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48319,
+        "num": 402785,
+        "word": "深中通道开通72小时通车超30万车次",
+        "onboard_time": 1720097058,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389541,
+        "num": 389541,
+        "word": "长相思第二季变更为23集",
+        "onboard_time": 1720093998,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2095162,
+        "num": 367109,
+        "word": "陆毅小女儿被曝攻击他人长相",
+        "onboard_time": 1720091478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460322,
+        "num": 365090,
+        "word": "郭晓婷晒与迪丽热巴合照",
+        "onboard_time": 1720098079,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410690,
+        "num": 354530,
+        "word": "吉祥航空通报不开空调致旅客中暑",
+        "onboard_time": 1720097959,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325597,
+        "num": 325597,
+        "word": "福宝",
+        "onboard_time": 1720094118,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306037,
+        "num": 306037,
+        "word": "沈阳铁西",
+        "onboard_time": 1720097718,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1391749,
+        "num": 298088,
+        "word": "陆毅回应",
+        "onboard_time": 1720097959,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289760,
+        "num": 289760,
+        "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+        "onboard_time": 1720086857,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272223,
+        "num": 272223,
+        "word": "感觉谭松韵真在公司上过班",
+        "onboard_time": 1720092978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69561,
+        "num": 268686,
+        "word": "难以想象我这个暑假会有多快乐",
+        "onboard_time": 1720098138,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266047,
+        "num": 266047,
+        "word": "白敬亭染粉发掉色了",
+        "onboard_time": 1720092918,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 749435,
+        "num": 262129,
+        "word": "男性睡觉掉色是全国统一的吗",
+        "onboard_time": 1720095499,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407390,
+        "num": 259059,
+        "word": "复读生已经上了五天课了",
+        "onboard_time": 1720097118,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401706,
+        "num": 251960,
+        "word": "小水小九分手",
+        "onboard_time": 1720085658,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319566,
+        "num": 245555,
+        "word": "一天一个西瓜瘦了1.5斤",
+        "onboard_time": 1720087159,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245492,
+        "num": 245492,
+        "word": "沈阳小区内持刀行凶男子已被抓",
+        "onboard_time": 1720098559,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243292,
+        "num": 243292,
+        "word": "菲方向中国索赔撞船损失100万美元",
+        "onboard_time": 1720091239,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95323,
+        "num": 217087,
+        "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+        "onboard_time": 1720099279,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204428,
+        "num": 204428,
+        "word": "吃玉米也是一件很私密的事",
+        "onboard_time": 1720082657,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188245,
+        "num": 188245,
+        "word": "外交部回应city不city走红",
+        "onboard_time": 1720080378,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187899,
+        "num": 187899,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145717,
+        "num": 145717,
+        "word": "虞书欣成打卡点了",
+        "onboard_time": 1720095857,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143984,
+        "num": 143984,
+        "word": "科目三没等安全员自己把车开走了",
+        "onboard_time": 1720093578,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 138352,
+        "word": "韩国方便面出口额暴增",
+        "onboard_time": 1720093939,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136840,
+        "num": 136840,
+        "word": "陈少熙 谢谢你让我显眼到国外",
+        "onboard_time": 1720097658,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 134947,
+        "word": "因为丑被浪费的蔬菜",
+        "onboard_time": 1720090698,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134779,
+        "num": 134779,
+        "word": "电影默杀",
+        "onboard_time": 1720079357,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132863,
+        "num": 132863,
+        "word": "许凯感觉像真的结婚了",
+        "onboard_time": 1720086918,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131902,
+        "num": 131902,
+        "word": "她的小梨涡 选角",
+        "onboard_time": 1720087578,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129107,
+        "num": 129107,
+        "word": "赵露思自己化许妍的定妆",
+        "onboard_time": 1720097358,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126488,
+        "num": 126488,
+        "word": "苏炳添缺席巴黎奥运会",
+        "onboard_time": 1720091239,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126187,
+        "num": 126187,
+        "word": "刚创业就被骗二十五万",
+        "onboard_time": 1720094777,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124607,
+        "num": 124607,
+        "word": "孙艺珍出席富川国际电影节",
+        "onboard_time": 1720096758,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117600,
+        "num": 117600,
+        "word": "天官赐福 泰版彩图",
+        "onboard_time": 1720091537,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 113647,
+        "num": 113647,
+        "word": "刘若英55岁状态",
+        "onboard_time": 1720095617,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111466,
+        "num": 111466,
+        "word": "江西银行",
+        "onboard_time": 1720087217,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109821,
+        "num": 109821,
+        "word": "宁静被花少5治愈了",
+        "onboard_time": 1720092498,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107255,
+        "num": 107255,
+        "word": "刘晓庆惠英红 羊胎素2.0",
+        "onboard_time": 1720083740,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "何老师都说了别连着问成毅问题",
+        "onboard_time": 1720078037,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100975,
+        "num": 100975,
+        "word": "迪丽热巴穿了周柯宇外套",
+        "onboard_time": 1720091298,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99573,
+        "num": 99573,
+        "word": "公安机关已调查涉江西银行不实信息",
+        "onboard_time": 1720088057,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}
