@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720124397995,
+  "endTime": 1720125296454,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -11779,8 +11779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14853,
-      "num": 14853,
+      "raw_hot": 15115,
+      "num": 15115,
       "word": "虞书欣中餐厅顶锅杂技表演",
       "onboard_time": 1720123931,
       "rank": 43,
@@ -11825,6 +11825,22 @@
       "onboard_time": 1719850097,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13931,
+      "num": 13931,
+      "word": "菲律宾绑架案遇害者挚友发声",
+      "onboard_time": 1720123750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13647,
+      "num": 13930,
+      "word": "看起来就很老实的动物",
+      "onboard_time": 1720124531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 13451,
