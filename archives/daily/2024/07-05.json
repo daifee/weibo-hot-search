@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720128976999,
+  "endTime": 1720131552487,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151414,
+      "num": 52122,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145159,
       "num": 145159,
       "word": "感觉谭松韵真在公司上过班",
@@ -305,14 +313,6 @@
       "onboard_time": 1720114573,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92942,
-      "num": 35148,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92046,
@@ -459,6 +459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 47290,
+      "num": 47290,
+      "word": "菲律宾绑架案遇害者挚友发声",
+      "onboard_time": 1720123750,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39905,
       "num": 114622,
       "word": "消防员洪水中温柔看向怀中婴儿",
@@ -483,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32938,
+      "num": 32938,
+      "word": "运动不到30分钟就等于白运动了吗",
+      "onboard_time": 1720130651,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 31260,
       "num": 31260,
       "word": "虞书欣中餐厅顶锅杂技表演",
@@ -491,11 +507,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31093,
-      "num": 31093,
-      "word": "菲律宾绑架案遇害者挚友发声",
-      "onboard_time": 1720123750,
-      "rank": 46,
+      "raw_hot": 29316,
+      "num": 29316,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 27967,
+      "num": 29330,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -505,14 +529,6 @@
       "onboard_time": 1720112714,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26815,
-      "num": 26815,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25569,
@@ -539,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22876,
-      "num": 20359,
-      "word": "大学生开始反向升学读技校了",
-      "onboard_time": 1720120871,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 21271,
+      "num": 25329,
+      "word": "能玩到一起全是因为长了张嘴",
+      "onboard_time": 1720129992,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 20207,
@@ -563,12 +579,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17592,
-      "num": 17592,
+      "raw_hot": 17927,
+      "num": 25328,
       "word": "于正夸李梦演戏OK的",
       "onboard_time": 1720121411,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16153,
+      "num": 25326,
+      "word": "看起来就很老实的动物",
+      "onboard_time": 1720124531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 15539,
@@ -577,14 +601,6 @@
       "onboard_time": 1720114152,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15469,
-      "num": 15469,
-      "word": "看起来就很老实的动物",
-      "onboard_time": 1720124531,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14826,
