@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/04 00:24:59 ~ 2024/07/04 09:21:42
+本榜单时间：2024/07/04 00:24:59 ~ 2024/07/04 09:43:01
 </p>
 </blockquote>
 <p>
@@ -22,13 +22,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90%20%E6%92%A4%E6%A1%A3%E5%8E%9F%E5%9B%A0%23" target="weibo">
-野孩子 撤档原因（热度：1626742）
+野孩子 撤档原因（热度：1644242）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E5%91%98%E5%B7%A5%E4%BA%BA%E5%9D%87%E6%9C%88%E8%96%AA%E9%99%8D%E8%87%B33.5%E4%B8%87%E5%85%83%23" target="weibo">
-中金员工人均月薪降至3.5万元（热度：1295027）
+中金员工人均月薪降至3.5万元（热度：1434829）
 </a>
 </li>
 
@@ -81,6 +81,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
+夏天不建议女生买的衣服（热度：650926）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E6%B2%88%E6%A2%A6%E8%BE%B0%23" target="weibo">
 杜海涛 沈梦辰（热度：646061）
 </a>
@@ -93,14 +99,14 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
-夏天不建议女生买的衣服（热度：623724）
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B09%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
+萌兰9岁生日快乐（热度：615093）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B09%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
-萌兰9岁生日快乐（热度：615093）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E4%B8%BA%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B6%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%23" target="weibo">
+谭爷爷为花花和叶做生日蛋糕（热度：593117）
 </a>
 </li>
 
@@ -135,6 +141,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E8%B7%9F%E9%A3%8E%E5%90%83%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%E7%89%9B%E8%82%89%E6%8E%89%E4%BA%8621%E6%96%A4%23" target="weibo">
+减肥跟风吃了一个月牛肉掉了21斤（热度：420989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%9B%BE%E4%B8%BA%E4%BF%9D%E6%8A%A4%E7%B4%A0%E4%BA%BA%E5%8F%AB%E5%81%9C%E8%8A%82%E7%9B%AE%23" target="weibo">
 杜海涛曾为保护素人叫停节目（热度：402581）
 </a>
@@ -143,18 +155,6 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC%E5%90%A6%E8%AE%A4%E5%9C%B0%E9%93%81%E6%94%B6%E5%BE%92%E7%9C%8B%E4%B9%A6%E5%B0%8F%E5%AD%A9%E5%93%A5%23" target="weibo">
 北大博导否认地铁收徒看书小孩哥（热度：402307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E8%B7%9F%E9%A3%8E%E5%90%83%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%E7%89%9B%E8%82%89%E6%8E%89%E4%BA%8621%E6%96%A4%23" target="weibo">
-减肥跟风吃了一个月牛肉掉了21斤（热度：399697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E4%B8%BA%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B6%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%23" target="weibo">
-谭爷爷为花花和叶做生日蛋糕（热度：382072）
 </a>
 </li>
 
@@ -195,6 +195,18 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%20%E8%83%9C%E8%B4%9F%E6%AC%B2%23" target="weibo">
+小鬼 胜负欲（热度：304411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
+上海迪士尼回应暑期门票飙至719元（热度：263582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%A8%AA%E5%BA%97%E8%BF%91%E8%A7%86%E7%9C%BC%23" target="weibo">
 李一桐横店近视眼（热度：262081）
 </a>
@@ -209,6 +221,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%80%97%E9%80%97%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%8A%A9%E7%90%86%E5%81%B7%E8%B5%B0%23" target="weibo">
 王逗逗账号被助理偷走（热度：258250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B%23" target="weibo">
+谭松韵扛剧能力（热度：253701）
 </a>
 </li>
 
@@ -249,14 +267,14 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%831%E6%96%A4%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%9C%8B%E8%A7%81%E4%B8%80%E5%B1%8B%E4%BA%BA%23" target="weibo">
-女子吃1斤见手青后看见一屋人（热度：205319）
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%9D%8E%E8%81%AA%E9%A6%96%E6%AC%A1%E5%A4%AA%E7%A9%BA%E8%A1%8C%E8%B5%B0%23" target="weibo">
+航天员李聪首次太空行走（热度：205431）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%20%E8%83%9C%E8%B4%9F%E6%AC%B2%23" target="weibo">
-小鬼 胜负欲（热度：199466）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%831%E6%96%A4%E8%A7%81%E6%89%8B%E9%9D%92%E5%90%8E%E7%9C%8B%E8%A7%81%E4%B8%80%E5%B1%8B%E4%BA%BA%23" target="weibo">
+女子吃1斤见手青后看见一屋人（热度：205319）
 </a>
 </li>
 
@@ -279,20 +297,14 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%9D%8E%E8%81%AA%E9%A6%96%E6%AC%A1%E5%A4%AA%E7%A9%BA%E8%A1%8C%E8%B5%B0%23" target="weibo">
-航天员李聪首次太空行走（热度：190623）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%B5%E5%BD%B1%E8%BF%90%23" target="weibo">
 王俊凯电影运（热度：188326）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%89%9B%E5%89%A7%E8%83%BD%E5%8A%9B%23" target="weibo">
-谭松韵扛剧能力（热度：184364）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%B8%B8%E5%81%9A%E7%9A%848%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23" target="weibo">
+气血不足的人常做的8个坏习惯（热度：188287）
 </a>
 </li>
 
@@ -315,8 +327,26 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%88%86%E6%94%B9%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23" target="weibo">
+AI爆改还珠格格（热度：173271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E4%BB%AC%E9%83%BD%E6%9C%89%E7%A7%8D%E6%B7%A1%E6%B7%A1%E7%9A%84%E7%96%AF%E6%84%9F%23" target="weibo">
 同事们都有种淡淡的疯感（热度：157403）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E7%BD%95%E8%A7%81%E5%A4%A7%E6%89%8B%E7%AC%94%E5%88%86%E7%BA%A2%23" target="weibo">
+斗鱼罕见大手笔分红（热度：157373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A0%95%E8%A0%95%E5%8F%88%E6%A8%A1%E4%BB%BF%E6%AD%8C%E6%89%8B%E4%BA%86%23" target="weibo">
+李蠕蠕又模仿歌手了（热度：154025）
 </a>
 </li>
 
@@ -333,6 +363,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E6%96%B0%E7%A7%80%E5%90%88%E5%90%8C4%E5%B9%B4790%E4%B8%87%23" target="weibo">
+布朗尼新秀合同4年790万（热度：145337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%B8%B8%E5%BE%B7%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%A2%AB%E6%9D%80%E5%AE%B3%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 湖南常德一家四口被杀害家属发声（热度：145330）
 </a>
@@ -341,18 +377,6 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%8C%BA%E9%9B%B6%E9%A2%84%E4%B8%8B%E8%BD%BD%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E7%99%BB%E9%A1%B6%23" target="weibo">
 绝区零预下载多个国家和地区登顶（热度：140799）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E7%88%86%E6%94%B9%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23" target="weibo">
-AI爆改还珠格格（热度：140613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9C%97%E5%B0%BC%E6%96%B0%E7%A7%80%E5%90%88%E5%90%8C4%E5%B9%B4790%E4%B8%87%23" target="weibo">
-布朗尼新秀合同4年790万（热度：139568）
 </a>
 </li>
 
@@ -393,6 +417,12 @@ AI爆改还珠格格（热度：140613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%20%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E5%81%9C%E9%A3%8E%23" target="weibo">
+谢霆锋 什么时候才能停风（热度：129896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%B0%B4%E7%93%B6%E5%BA%A7%E8%8B%A6%E5%B0%BD%E7%94%98%E6%9D%A5%23" target="weibo">
 下半年水瓶座苦尽甘来（热度：128289）
 </a>
@@ -417,26 +447,38 @@ AI爆改还珠格格（热度：140613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%8F%88%E5%8E%BB%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E4%BA%86%23" target="weibo">
+周也又去环球影城了（热度：125710）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
+上海迪士尼暑期门票飙至719元（热度：123277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%B7%B1V%E9%AB%98%E5%AE%9A%23" target="weibo">
 李沁深V高定（热度：118261）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E5%B8%B8%E5%81%9A%E7%9A%848%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%23" target="weibo">
-气血不足的人常做的8个坏习惯（热度：115081）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AB%E5%87%BA%E8%88%B1%E4%B8%8A%E6%BC%94%E5%AE%87%E5%AE%99%E7%BA%A7%E4%B8%9D%E6%BB%91%23" target="weibo">
+神十八出舱上演宇宙级丝滑（热度：116617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F2%E6%AC%A1%E6%8D%90%E7%8C%AE%E6%95%91%E5%90%8C%E4%B8%80%E4%BD%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
+大三女生2次捐献救同一位小女孩（热度：116486）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E5%84%BF%E6%97%B6%E7%BF%BB%E8%BD%A6%E8%A7%86%E9%A2%91%23" target="weibo">
 萌兰儿时翻车视频（热度：113016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F2%E6%AC%A1%E6%8D%90%E7%8C%AE%E6%95%91%E5%90%8C%E4%B8%80%E4%BD%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
-大三女生2次捐献救同一位小女孩（热度：112745）
 </a>
 </li>
 
@@ -459,8 +501,8 @@ AI爆改还珠格格（热度：140613）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
-上海迪士尼暑期门票飙至719元（热度：103463）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%94%E6%98%9F%E5%85%89%E7%BE%8E%E4%B8%BD%23" target="weibo">
+你比星光美丽（热度：103050）
 </a>
 </li>
 
@@ -587,6 +629,12 @@ Uzi谈自己名人堂皮肤（热度：73956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%BE%E8%99%9A%E4%B8%8D%E8%99%9A%E7%9C%8B%E8%BF%995%E4%B8%AA%E5%9C%B0%E6%96%B9%E5%B0%B1%E7%9F%A5%E9%81%93%23" target="weibo">
 肾虚不虚看这5个地方就知道（热度：64761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%9C%B0%E9%93%81%E4%B8%8A%E7%9C%8B%E4%B9%A6%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC%E5%A4%B8%E8%B5%9E%23" target="weibo">
+小孩哥地铁上看书被北大博导夸赞（热度：64042）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720056102216,
+  "endTime": 1720057381178,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -11,16 +11,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1626742,
-      "num": 1626742,
+      "raw_hot": 1644242,
+      "num": 1644242,
       "word": "野孩子 撤档原因",
       "onboard_time": 1720050257,
       "rank": 0,
       "category": "电影"
     },
     {
-      "raw_hot": 1295027,
-      "num": 1295027,
+      "raw_hot": 1434829,
+      "num": 1434829,
       "word": "中金员工人均月薪降至3.5万元",
       "onboard_time": 1720051157,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 650926,
+      "num": 260794,
+      "word": "夏天不建议女生买的衣服",
+      "onboard_time": 1720047975,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 646061,
       "num": 203963,
       "word": "杜海涛 沈梦辰",
@@ -107,14 +115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 623724,
-      "num": 257684,
-      "word": "夏天不建议女生买的衣服",
-      "onboard_time": 1720047975,
-      "rank": 21,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 615093,
       "num": 615093,
       "word": "萌兰9岁生日快乐",
@@ -123,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593117,
+      "num": 593117,
+      "word": "谭爷爷为花花和叶做生日蛋糕",
+      "onboard_time": 1720053557,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567470,
-      "num": 154395,
+      "num": 162015,
       "word": "不建议大家离职的几个月份",
       "onboard_time": 1720018459,
       "rank": 21,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420989,
+      "num": 260590,
+      "word": "减肥跟风吃了一个月牛肉掉了21斤",
+      "onboard_time": 1720048274,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 402581,
       "num": 402581,
       "word": "杜海涛曾为保护素人叫停节目",
@@ -176,22 +192,6 @@
       "word": "北大博导否认地铁收徒看书小孩哥",
       "onboard_time": 1720023616,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399697,
-      "num": 256700,
-      "word": "减肥跟风吃了一个月牛肉掉了21斤",
-      "onboard_time": 1720048274,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 382072,
-      "num": 382072,
-      "word": "谭爷爷为花花和叶做生日蛋糕",
-      "onboard_time": 1720053557,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304411,
+      "num": 304411,
+      "word": "小鬼 胜负欲",
+      "onboard_time": 1720055418,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263582,
+      "num": 263582,
+      "word": "上海迪士尼回应暑期门票飙至719元",
+      "onboard_time": 1720056139,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 262081,
       "num": 262081,
       "word": "李一桐横店近视眼",
@@ -265,6 +281,14 @@
       "onboard_time": 1720050137,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 253701,
+      "num": 253701,
+      "word": "谭松韵扛剧能力",
+      "onboard_time": 1720055476,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 244482,
@@ -315,20 +339,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205431,
+      "num": 205431,
+      "word": "航天员李聪首次太空行走",
+      "onboard_time": 1720054398,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205319,
       "num": 205319,
       "word": "女子吃1斤见手青后看见一屋人",
       "onboard_time": 1720001718,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199466,
-      "num": 190366,
-      "word": "小鬼 胜负欲",
-      "onboard_time": 1720055418,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 199265,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190623,
-      "num": 190623,
-      "word": "航天员李聪首次太空行走",
-      "onboard_time": 1720054398,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "王俊凯电影运",
@@ -371,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184364,
-      "num": 184364,
-      "word": "谭松韵扛剧能力",
-      "onboard_time": 1720055476,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 188287,
+      "num": 188287,
+      "word": "气血不足的人常做的8个坏习惯",
+      "onboard_time": 1720055957,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182653,
@@ -403,12 +419,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173271,
+      "num": 173271,
+      "word": "AI爆改还珠格格",
+      "onboard_time": 1720053678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157403,
       "num": 157403,
       "word": "同事们都有种淡淡的疯感",
       "onboard_time": 1720014980,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157373,
+      "num": 157373,
+      "word": "斗鱼罕见大手笔分红",
+      "onboard_time": 1720056618,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 154025,
+      "num": 154025,
+      "word": "李蠕蠕又模仿歌手了",
+      "onboard_time": 1720056857,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152886,
@@ -427,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145337,
+      "num": 145337,
+      "word": "布朗尼新秀合同4年790万",
+      "onboard_time": 1720054938,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145330,
       "num": 145330,
       "word": "湖南常德一家四口被杀害家属发声",
@@ -441,22 +489,6 @@
       "onboard_time": 1720049776,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140613,
-      "num": 140613,
-      "word": "AI爆改还珠格格",
-      "onboard_time": 1720053678,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139568,
-      "num": 139568,
-      "word": "布朗尼新秀合同4年790万",
-      "onboard_time": 1720054938,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 139089,
@@ -507,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129896,
+      "num": 129896,
+      "word": "谢霆锋 什么时候才能停风",
+      "onboard_time": 1720057036,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "下半年水瓶座苦尽甘来",
@@ -539,6 +579,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "周也又去环球影城了",
+      "onboard_time": 1720056557,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123277,
+      "num": 123277,
+      "word": "上海迪士尼暑期门票飙至719元",
+      "onboard_time": 1720055896,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -547,12 +603,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 115081,
-      "num": 115081,
-      "word": "气血不足的人常做的8个坏习惯",
-      "onboard_time": 1720055957,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 116617,
+      "num": 116617,
+      "word": "神十八出舱上演宇宙级丝滑",
+      "onboard_time": 1720057097,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116486,
+      "num": 570678,
+      "word": "大三女生2次捐献救同一位小女孩",
+      "onboard_time": 1720054757,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113016,
@@ -560,14 +624,6 @@
       "word": "萌兰儿时翻车视频",
       "onboard_time": 1720054818,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112745,
-      "num": 570678,
-      "word": "大三女生2次捐献救同一位小女孩",
-      "onboard_time": 1720054757,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -595,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103463,
-      "num": 103463,
-      "word": "上海迪士尼暑期门票飙至719元",
-      "onboard_time": 1720055896,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 103050,
+      "num": 103050,
+      "word": "你比星光美丽",
+      "onboard_time": 1720056378,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101862,
@@ -769,6 +825,14 @@
       "onboard_time": 1720026674,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64042,
+      "num": 493392,
+      "word": "小孩哥地铁上看书被北大博导夸赞",
+      "onboard_time": 1720056857,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63291,

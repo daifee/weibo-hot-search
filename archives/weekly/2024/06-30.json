@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720056102216,
+  "endTime": 1720057381178,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -147,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1644242,
+      "num": 1644242,
+      "word": "野孩子 撤档原因",
+      "onboard_time": 1720050257,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1629065,
       "num": 1629065,
       "word": "一所被低估的211大学",
       "onboard_time": 1719979518,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1626742,
-      "num": 1626742,
-      "word": "野孩子 撤档原因",
-      "onboard_time": 1720050257,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1621282,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1434829,
+      "num": 1434829,
+      "word": "中金员工人均月薪降至3.5万元",
+      "onboard_time": 1720051157,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1419831,
       "num": 1419831,
       "word": "女子吃1斤见手青后看见一屋人",
@@ -345,14 +353,6 @@
       "onboard_time": 1719874993,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1295027,
-      "num": 1295027,
-      "word": "中金员工人均月薪降至3.5万元",
-      "onboard_time": 1720051157,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1294707,
@@ -1387,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 650926,
+      "num": 260794,
+      "word": "夏天不建议女生买的衣服",
+      "onboard_time": 1720047975,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 650605,
       "num": 231197,
       "word": "原来衣服发臭是闷出来的",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1719810380,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 623724,
-      "num": 257684,
-      "word": "夏天不建议女生买的衣服",
-      "onboard_time": 1720047975,
-      "rank": 21,
-      "category": "时尚"
     },
     {
       "raw_hot": 621933,
@@ -1680,6 +1680,14 @@
       "word": "当一个重度抑郁女孩没钱做心理咨询",
       "onboard_time": 1719708075,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593117,
+      "num": 593117,
+      "word": "谭爷爷为花花和叶做生日蛋糕",
+      "onboard_time": 1720053557,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2859,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420989,
+      "num": 260590,
+      "word": "减肥跟风吃了一个月牛肉掉了21斤",
+      "onboard_time": 1720048274,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 420588,
       "num": 234467,
       "word": "身上为什么会突然出现小红点",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1719997880,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399697,
-      "num": 256700,
-      "word": "减肥跟风吃了一个月牛肉掉了21斤",
-      "onboard_time": 1720048274,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 399378,
@@ -3161,14 +3169,6 @@
       "onboard_time": 1719834138,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 382072,
-      "num": 382072,
-      "word": "谭爷爷为花花和叶做生日蛋糕",
-      "onboard_time": 1720053557,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382012,
@@ -3915,6 +3915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 304411,
+      "num": 304411,
+      "word": "小鬼 胜负欲",
+      "onboard_time": 1720055418,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303401,
       "num": 303401,
       "word": "陶喆演唱会抢票",
@@ -4371,6 +4379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263582,
+      "num": 263582,
+      "word": "上海迪士尼回应暑期门票飙至719元",
+      "onboard_time": 1720056139,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 262459,
       "num": 204218,
       "word": "李蓉差点18岁就要守寡",
@@ -4481,6 +4497,14 @@
       "onboard_time": 1719709817,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253701,
+      "num": 253701,
+      "word": "谭松韵扛剧能力",
+      "onboard_time": 1720055476,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 253650,
@@ -5355,6 +5379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205431,
+      "num": 205431,
+      "word": "航天员李聪首次太空行走",
+      "onboard_time": 1720054398,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205229,
       "num": 205229,
       "word": "屠丽国漫蒲草型女主",
@@ -5609,14 +5641,6 @@
       "onboard_time": 1719933318,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199466,
-      "num": 190366,
-      "word": "小鬼 胜负欲",
-      "onboard_time": 1720055418,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 199292,
@@ -5971,14 +5995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190623,
-      "num": 190623,
-      "word": "航天员李聪首次太空行走",
-      "onboard_time": 1720054398,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190497,
       "num": 182447,
       "word": "张若昀钓鱼永不空军",
@@ -6121,6 +6137,14 @@
       "onboard_time": 1720049537,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188287,
+      "num": 188287,
+      "word": "气血不足的人常做的8个坏习惯",
+      "onboard_time": 1720055957,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188153,
@@ -6289,14 +6313,6 @@
       "onboard_time": 1719975378,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184364,
-      "num": 184364,
-      "word": "谭松韵扛剧能力",
-      "onboard_time": 1720055476,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 184360,
@@ -6625,6 +6641,14 @@
       "onboard_time": 1719988279,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173271,
+      "num": 173271,
+      "word": "AI爆改还珠格格",
+      "onboard_time": 1720053678,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 172451,
@@ -7139,6 +7163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157373,
+      "num": 157373,
+      "word": "斗鱼罕见大手笔分红",
+      "onboard_time": 1720056618,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 157331,
       "num": 157331,
       "word": "宋亚轩生日周边开箱",
@@ -7272,6 +7304,14 @@
       "word": "沈月恋综又哭了",
       "onboard_time": 1719970156,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154025,
+      "num": 154025,
+      "word": "李蠕蠕又模仿歌手了",
+      "onboard_time": 1720056857,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -7611,6 +7651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145337,
+      "num": 145337,
+      "word": "布朗尼新秀合同4年790万",
+      "onboard_time": 1720054938,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145330,
       "num": 145330,
       "word": "湖南常德一家四口被杀害家属发声",
@@ -7875,14 +7923,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 140613,
-      "num": 140613,
-      "word": "AI爆改还珠格格",
-      "onboard_time": 1720053678,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140475,
       "num": 140475,
       "word": "女子不忍被家暴杀夫潜逃29年落网",
@@ -7937,14 +7977,6 @@
       "onboard_time": 1719997638,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 139568,
-      "num": 139568,
-      "word": "布朗尼新秀合同4年790万",
-      "onboard_time": 1720054938,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 139429,
@@ -8507,6 +8539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129896,
+      "num": 129896,
+      "word": "谢霆锋 什么时候才能停风",
+      "onboard_time": 1720057036,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129818,
       "num": 129818,
       "word": "陈鹤一脸红",
@@ -8707,6 +8747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125710,
+      "num": 125710,
+      "word": "周也又去环球影城了",
+      "onboard_time": 1720056557,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "DOU5对战Gr",
@@ -8841,6 +8889,14 @@
       "onboard_time": 1719838159,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123277,
+      "num": 123277,
+      "word": "上海迪士尼暑期门票飙至719元",
+      "onboard_time": 1720055896,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 123250,
@@ -9187,6 +9243,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116617,
+      "num": 116617,
+      "word": "神十八出舱上演宇宙级丝滑",
+      "onboard_time": 1720057097,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116486,
+      "num": 570678,
+      "word": "大三女生2次捐献救同一位小女孩",
+      "onboard_time": 1720054757,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116268,
       "num": 116268,
       "word": "黄景瑜工作室有友军",
@@ -9225,14 +9297,6 @@
       "onboard_time": 1719923777,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115081,
-      "num": 115081,
-      "word": "气血不足的人常做的8个坏习惯",
-      "onboard_time": 1720055957,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115080,
@@ -9377,14 +9441,6 @@
       "onboard_time": 1719804020,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112745,
-      "num": 570678,
-      "word": "大三女生2次捐献救同一位小女孩",
-      "onboard_time": 1720054757,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112615,
@@ -9881,14 +9937,6 @@
       "onboard_time": 1719885316,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103463,
-      "num": 103463,
-      "word": "上海迪士尼暑期门票飙至719元",
-      "onboard_time": 1720055896,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 103361,
@@ -10873,6 +10921,14 @@
       "onboard_time": 1719666019,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64042,
+      "num": 493392,
+      "word": "小孩哥地铁上看书被北大博导夸赞",
+      "onboard_time": 1720056857,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63898,
