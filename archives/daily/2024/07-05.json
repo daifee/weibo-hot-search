@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720114460660,
+  "endTime": 1720117544577,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671150,
+      "num": 671150,
+      "word": "电竞世界杯BLG对战T1",
+      "onboard_time": 1720106420,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513467,
       "num": 210141,
       "word": "菲律宾",
       "onboard_time": 1720106000,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 447313,
-      "num": 447313,
-      "word": "电竞世界杯BLG对战T1",
-      "onboard_time": 1720106420,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 317405,
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131633,
+      "num": 55752,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126240,
       "num": 126240,
       "word": "女子醉卧马路被轧身亡送人者认定无责",
@@ -273,6 +281,14 @@
       "onboard_time": 1720107978,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98874,
+      "num": 49086,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 97890,
@@ -411,12 +427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54308,
-      "num": 49086,
-      "word": "为什么有的人睡觉爱举起双手",
-      "onboard_time": 1720113613,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 53598,
+      "num": 53598,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 48473,
@@ -424,6 +440,14 @@
       "word": "攀娘 程四四",
       "onboard_time": 1720113254,
       "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 44138,
+      "num": 44138,
+      "word": "晚晚林瀚 高配版黑马情侣",
+      "onboard_time": 1720115292,
+      "rank": 19,
       "category": "网红"
     },
     {
@@ -435,14 +459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 39674,
-      "num": 39674,
-      "word": "菲律宾涉事公司回应中企高管遇害",
-      "onboard_time": 1720114032,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34895,
       "num": 48723,
       "word": "你比星光美丽预告",
@@ -451,7 +467,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27094,
+      "raw_hot": 33922,
       "num": 49132,
       "word": "这种黄瓜有助于减脂",
       "onboard_time": 1720113673,
@@ -465,6 +481,22 @@
       "onboard_time": 1720112714,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25437,
+      "num": 38499,
+      "word": "汪苏泷世巡是没有限定的",
+      "onboard_time": 1720115953,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23341,
+      "num": 38494,
+      "word": "狼队对战LGDNBW",
+      "onboard_time": 1720111695,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 23109,
@@ -488,6 +520,14 @@
       "word": "90岁院士患癌仍坚持科研",
       "onboard_time": 1720114152,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13783,
+      "num": 56204,
+      "word": "宁大学生就科学躲避鸟粪写了一篇论文",
+      "onboard_time": 1720116012,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
