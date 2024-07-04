@@ -1,0 +1,410 @@
+{
+  "runTime": 1720114460660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 295073,
+        "num": 295073,
+        "word": "不停道歉的东方甄选怎么了",
+        "onboard_time": 1720102459,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186053,
+        "num": 186053,
+        "word": "电竞世界杯BLG对战T1",
+        "onboard_time": 1720106420,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36505,
+        "num": 149101,
+        "word": "风清气正的网络环境是中国的名片",
+        "onboard_time": 1720105759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223006,
+        "num": 145417,
+        "word": "林一晚安大小姐 国标味",
+        "onboard_time": 1720109718,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119812,
+        "num": 119812,
+        "word": "谁家老公做成这勾栏模样",
+        "onboard_time": 1720096818,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110282,
+        "num": 110282,
+        "word": "吉祥航空通报不开空调致旅客中暑",
+        "onboard_time": 1720097959,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105621,
+        "num": 105621,
+        "word": "养父母未办领养手续养子失去继承权",
+        "onboard_time": 1720101619,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103935,
+        "num": 103935,
+        "word": "巴黎奥运会允许代表团自费安空调",
+        "onboard_time": 1720095317,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82682,
+        "num": 82682,
+        "word": "绝区零 美术",
+        "onboard_time": 1720077857,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76435,
+        "num": 76435,
+        "word": "女子醉卧马路被轧身亡送人者认定无责",
+        "onboard_time": 1720094838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175298,
+        "num": 76416,
+        "word": "菲律宾",
+        "onboard_time": 1720106000,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139078,
+        "num": 76171,
+        "word": "几十万套法拍房背后",
+        "onboard_time": 1720110795,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131021,
+        "num": 75866,
+        "word": "郭晓婷晒与迪丽热巴合照",
+        "onboard_time": 1720098079,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15539,
+        "num": 75750,
+        "word": "90岁院士患癌仍坚持科研",
+        "onboard_time": 1720114152,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75001,
+        "num": 75506,
+        "word": "韩语专业生就业方向",
+        "onboard_time": 1720105640,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103243,
+        "num": 75316,
+        "word": "张馨予胖五斤了",
+        "onboard_time": 1720102219,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91328,
+        "num": 75150,
+        "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+        "onboard_time": 1720099279,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 75107,
+        "num": 75107,
+        "word": "妈妈回应儿子出生6个月长到22斤",
+        "onboard_time": 1720101741,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67623,
+        "num": 67623,
+        "word": "保时捷发霉车主自嘲不想要了",
+        "onboard_time": 1720086019,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64576,
+        "num": 64576,
+        "word": "王心凌玫瑰嫁纱重达十公斤",
+        "onboard_time": 1720093637,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373072,
+        "num": 64076,
+        "word": "被撕票中企高管最后语音曝光",
+        "onboard_time": 1720103840,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122184,
+        "num": 63885,
+        "word": "男性睡觉掉色是全国统一的吗",
+        "onboard_time": 1720095499,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106170,
+        "num": 62625,
+        "word": "小水小九分手",
+        "onboard_time": 1720085658,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60901,
+        "num": 60901,
+        "word": "广州地铁18号线沙溪站停止对外服务",
+        "onboard_time": 1720105819,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60070,
+        "num": 60070,
+        "word": "长相思第二季变更为23集",
+        "onboard_time": 1720093998,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54981,
+        "num": 54981,
+        "word": "那英 如果你也听说",
+        "onboard_time": 1720106240,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53451,
+        "num": 53451,
+        "word": "警方通报6旬男子持刀伤人致3死1伤",
+        "onboard_time": 1720100899,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52823,
+        "num": 52823,
+        "word": "复读生已经上了五天课了",
+        "onboard_time": 1720097118,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49347,
+        "num": 49347,
+        "word": "感觉谭松韵真在公司上过班",
+        "onboard_time": 1720092978,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27094,
+        "num": 49132,
+        "word": "这种黄瓜有助于减脂",
+        "onboard_time": 1720113673,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54308,
+        "num": 49086,
+        "word": "为什么有的人睡觉爱举起双手",
+        "onboard_time": 1720113613,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26493,
+        "num": 48977,
+        "word": "绝区零建模",
+        "onboard_time": 1720112714,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48375,
+        "num": 48375,
+        "word": "一天一个西瓜瘦了1.5斤",
+        "onboard_time": 1720087159,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48473,
+        "num": 48288,
+        "word": "攀娘 程四四",
+        "onboard_time": 1720113254,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19536,
+        "num": 47980,
+        "word": "医生提醒孩子流鼻血千万别仰头",
+        "onboard_time": 1720112296,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47858,
+        "num": 47858,
+        "word": "林俊杰卡地亚现场",
+        "onboard_time": 1720100239,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46199,
+        "num": 46199,
+        "word": "孙颖莎被金球砸到",
+        "onboard_time": 1720102639,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45879,
+        "num": 45879,
+        "word": "牛麦",
+        "onboard_time": 1720099879,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45436,
+        "num": 45436,
+        "word": "姜爷爷",
+        "onboard_time": 1720094599,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43004,
+        "num": 43004,
+        "word": "肖战深V亮钻西装",
+        "onboard_time": 1720101140,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42961,
+        "num": 42961,
+        "word": "默杀彩蛋",
+        "onboard_time": 1720107199,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42322,
+        "num": 42322,
+        "word": "老师我们家Henry怎么了",
+        "onboard_time": 1720107978,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39674,
+        "num": 39674,
+        "word": "菲律宾涉事公司回应中企高管遇害",
+        "onboard_time": 1720114032,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38196,
+        "num": 38196,
+        "word": "沈阳铁西",
+        "onboard_time": 1720097718,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 38128,
+        "num": 38128,
+        "word": "北大考古女孩正参加敦煌研究院招聘",
+        "onboard_time": 1720102760,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37507,
+        "num": 37507,
+        "word": "用两只虾做三个菜",
+        "onboard_time": 1720105459,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37284,
+        "num": 37284,
+        "word": "王嘉尔活动生图",
+        "onboard_time": 1720103239,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33547,
+        "num": 37275,
+        "word": "白敬亭染粉发掉色了",
+        "onboard_time": 1720092918,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31844,
+        "num": 37262,
+        "word": "女子高铁上拒绝查票飙英文骂哭乘务员",
+        "onboard_time": 1720086857,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30459,
+        "num": 37248,
+        "word": "秦岚也吵不过的女人",
+        "onboard_time": 1720103419,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}

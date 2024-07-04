@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720113487915,
+  "endTime": 1720114460660,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139078,
+      "num": 103354,
+      "word": "几十万套法拍房背后",
+      "onboard_time": 1720110795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "绝区零 美术",
@@ -248,14 +256,6 @@
       "word": "姜爷爷",
       "onboard_time": 1720094599,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103354,
-      "num": 103354,
-      "word": "几十万套法拍房背后",
-      "onboard_time": 1720110795,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54308,
+      "num": 49086,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 48473,
+      "num": 48844,
+      "word": "攀娘 程四四",
+      "onboard_time": 1720113254,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 39905,
       "num": 114622,
       "word": "消防员洪水中温柔看向怀中婴儿",
@@ -419,12 +435,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 38778,
-      "num": 48844,
-      "word": "攀娘 程四四",
-      "onboard_time": 1720113254,
-      "rank": 45,
-      "category": "网红"
+      "raw_hot": 39674,
+      "num": 39674,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34895,
@@ -435,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27094,
+      "num": 49132,
+      "word": "这种黄瓜有助于减脂",
+      "onboard_time": 1720113673,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26493,
+      "num": 48999,
+      "word": "绝区零建模",
+      "onboard_time": 1720112714,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23109,
       "num": 210219,
       "word": "萌兰出演MV男主角",
@@ -443,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20488,
-      "num": 48999,
-      "word": "绝区零建模",
-      "onboard_time": 1720112714,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 14894,
+      "raw_hot": 19536,
       "num": 112185,
       "word": "医生提醒孩子流鼻血千万别仰头",
       "onboard_time": 1720112296,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15539,
+      "num": 75750,
+      "word": "90岁院士患癌仍坚持科研",
+      "onboard_time": 1720114152,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12777,
@@ -470,6 +502,9 @@
   "hotgov_list": [
     {
       "word": "#携手构建更加美好的上合组织家园#"
+    },
+    {
+      "word": "#习近平会见联合国秘书长#"
     }
   ]
 }

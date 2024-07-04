@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720113487915,
+  "endTime": 1720114460660,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -9683,6 +9683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139078,
+      "num": 103354,
+      "word": "几十万套法拍房背后",
+      "onboard_time": 1720110795,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139040,
       "num": 236317,
       "word": "微山湖有自己的交响乐团",
@@ -11987,14 +11995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103354,
-      "num": 103354,
-      "word": "几十万套法拍房背后",
-      "onboard_time": 1720110795,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103060,
       "num": 103060,
       "word": "贺军翔黄子佼被传唤",
@@ -13347,6 +13347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54308,
+      "num": 49086,
+      "word": "为什么有的人睡觉爱举起双手",
+      "onboard_time": 1720113613,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 53662,
       "num": 312913,
       "word": "掌管反差萌的神",
@@ -13433,6 +13441,14 @@
       "onboard_time": 1719900019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48473,
+      "num": 48844,
+      "word": "攀娘 程四四",
+      "onboard_time": 1720113254,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 48411,
@@ -13707,6 +13723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39674,
+      "num": 39674,
+      "word": "菲律宾涉事公司回应中企高管遇害",
+      "onboard_time": 1720114032,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39563,
       "num": 55337,
       "word": "发现很多人都是精装朋友圈毛坯人生",
@@ -13729,14 +13753,6 @@
       "onboard_time": 1719782650,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38778,
-      "num": 48844,
-      "word": "攀娘 程四四",
-      "onboard_time": 1720113254,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 38725,
@@ -14171,6 +14187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27094,
+      "num": 49132,
+      "word": "这种黄瓜有助于减脂",
+      "onboard_time": 1720113673,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26885,
       "num": 244201,
       "word": "又好学又好考的双一流",
@@ -14193,6 +14217,14 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26493,
+      "num": 48999,
+      "word": "绝区零建模",
+      "onboard_time": 1720112714,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 26120,
@@ -14379,12 +14411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20488,
-      "num": 48999,
-      "word": "绝区零建模",
-      "onboard_time": 1720112714,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 19536,
+      "num": 112185,
+      "word": "医生提醒孩子流鼻血千万别仰头",
+      "onboard_time": 1720112296,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19032,
@@ -14443,6 +14475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 15539,
+      "num": 75750,
+      "word": "90岁院士患癌仍坚持科研",
+      "onboard_time": 1720114152,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15408,
       "num": 22292,
       "word": "世界羽联发博悼念张志杰",
@@ -14457,14 +14497,6 @@
       "onboard_time": 1719943691,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14894,
-      "num": 112185,
-      "word": "医生提醒孩子流鼻血千万别仰头",
-      "onboard_time": 1720112296,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14716,
