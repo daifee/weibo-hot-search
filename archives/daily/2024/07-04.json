@@ -1,6 +1,6 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720049677389,
+  "endTime": 1720056102216,
   "band_list": [
     {
       "raw_hot": 1848518,
@@ -9,6 +9,30 @@
       "onboard_time": 1720013238,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1626742,
+      "num": 1626742,
+      "word": "野孩子 撤档原因",
+      "onboard_time": 1720050257,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1295027,
+      "num": 1295027,
+      "word": "中金员工人均月薪降至3.5万元",
+      "onboard_time": 1720051157,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992333,
+      "num": 992333,
+      "word": "绝区零 开门啊",
+      "onboard_time": 1720051939,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 969275,
@@ -35,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719560,
+      "num": 719560,
+      "word": "Miss回应团队背刺郭碧婷",
+      "onboard_time": 1720049597,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683444,
       "num": 152212,
       "word": "坚持裸睡1年身体会有什么变化",
@@ -43,28 +75,84 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 680264,
+      "num": 680264,
+      "word": "萌兰花花和叶今天生日",
+      "onboard_time": 1720047915,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657892,
+      "num": 657892,
+      "word": "以宣布没收约12平方公里巴土地",
+      "onboard_time": 1720051337,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 646061,
-      "num": 177540,
+      "num": 203963,
       "word": "杜海涛 沈梦辰",
       "onboard_time": 1719996679,
       "rank": 10,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 606832,
-      "num": 131388,
+      "raw_hot": 632345,
+      "num": 632345,
+      "word": "绝区零 抢uid",
+      "onboard_time": 1720054039,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 623724,
+      "num": 257684,
       "word": "夏天不建议女生买的衣服",
       "onboard_time": 1720047975,
       "rank": 21,
       "category": "时尚"
     },
     {
+      "raw_hot": 615093,
+      "num": 615093,
+      "word": "萌兰9岁生日快乐",
+      "onboard_time": 1720049116,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567470,
-      "num": 151513,
+      "num": 154395,
       "word": "不建议大家离职的几个月份",
       "onboard_time": 1720018459,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 529741,
+      "num": 529741,
+      "word": "绝区零开服",
+      "onboard_time": 1720053857,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 499848,
+      "num": 499848,
+      "word": "敖子逸 小鬼",
+      "onboard_time": 1720050257,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469969,
+      "num": 469969,
+      "word": "女儿获第一笔工资给爸妈分红6666元",
+      "onboard_time": 1720047794,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424936,
@@ -91,6 +179,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399697,
+      "num": 256700,
+      "word": "减肥跟风吃了一个月牛肉掉了21斤",
+      "onboard_time": 1720048274,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 382072,
+      "num": 382072,
+      "word": "谭爷爷为花花和叶做生日蛋糕",
+      "onboard_time": 1720053557,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377032,
+      "num": 377032,
+      "word": "首个早上提档晚上撤档的电影",
+      "onboard_time": 1720049298,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361066,
       "num": 172424,
       "word": "西宁通报2名15岁学生先后因病离世",
@@ -99,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360060,
-      "num": 157053,
-      "word": "女儿获第一笔工资给爸妈分红6666元",
-      "onboard_time": 1720047794,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 359056,
+      "num": 359056,
+      "word": "刘亦菲实绩",
+      "onboard_time": 1720049956,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 346685,
@@ -131,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304375,
-      "num": 130543,
-      "word": "减肥跟风吃了一个月牛肉掉了21斤",
-      "onboard_time": 1720048274,
-      "rank": 24,
-      "category": "运动健身"
+      "raw_hot": 262081,
+      "num": 262081,
+      "word": "李一桐横店近视眼",
+      "onboard_time": 1720048575,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 260247,
@@ -147,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258250,
+      "num": 258250,
+      "word": "王逗逗账号被助理偷走",
+      "onboard_time": 1720050137,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 244482,
       "num": 197616,
       "word": "后来赵霁活成了宛瑜的样子",
@@ -155,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227978,
-      "num": 227978,
-      "word": "萌兰9岁生日快乐",
-      "onboard_time": 1720049116,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 242748,
+      "num": 242748,
+      "word": "小鬼抓人和王源抓人对比",
+      "onboard_time": 1720049476,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 224796,
@@ -179,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215609,
+      "num": 215609,
+      "word": "河南网红宝宝一天吃6顿",
+      "onboard_time": 1720052358,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211790,
       "num": 191784,
       "word": "野孩子声明",
@@ -195,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199466,
+      "num": 190366,
+      "word": "小鬼 胜负欲",
+      "onboard_time": 1720055418,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199265,
       "num": 199265,
       "word": "郑州文旅回应涉林俊杰演唱会争议内容",
@@ -203,12 +339,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198697,
+      "num": 198697,
+      "word": "萌兰和花和叶表情包九宫格",
+      "onboard_time": 1720055179,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197971,
       "num": 197971,
       "word": "中金称网传员工跳楼系谣言",
       "onboard_time": 1720010838,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "航天员李聪首次太空行走",
+      "onboard_time": 1720054398,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188326,
+      "num": 188326,
+      "word": "王俊凯电影运",
+      "onboard_time": 1720049537,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184364,
+      "num": 184364,
+      "word": "谭松韵扛剧能力",
+      "onboard_time": 1720055476,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 182653,
@@ -227,19 +395,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173530,
-      "num": 156136,
-      "word": "李一桐横店近视眼",
-      "onboard_time": 1720048575,
+      "raw_hot": 175731,
+      "num": 175731,
+      "word": "衡水两校复读班招生收款方为传媒公司",
+      "onboard_time": 1720052778,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157822,
-      "num": 157822,
-      "word": "萌兰花花和叶今天生日",
-      "onboard_time": 1720047915,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -249,14 +409,6 @@
       "onboard_time": 1720014980,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156020,
-      "num": 156020,
-      "word": "首个早上提档晚上撤档的电影",
-      "onboard_time": 1720049298,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 152886,
@@ -275,20 +427,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147656,
-      "num": 128430,
-      "word": "Miss回应团队背刺郭碧婷",
-      "onboard_time": 1720049597,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145330,
       "num": 145330,
       "word": "湖南常德一家四口被杀害家属发声",
       "onboard_time": 1720048396,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 140799,
+      "num": 140799,
+      "word": "绝区零预下载多个国家和地区登顶",
+      "onboard_time": 1720049776,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140613,
+      "num": 140613,
+      "word": "AI爆改还珠格格",
+      "onboard_time": 1720053678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139568,
+      "num": 139568,
+      "word": "布朗尼新秀合同4年790万",
+      "onboard_time": 1720054938,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 139089,
@@ -315,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133543,
+      "num": 133543,
+      "word": "成毅真诚的哈基米",
+      "onboard_time": 1720054997,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131955,
       "num": 100719,
       "word": "边伯贤solo出道五周年",
       "onboard_time": 1720026134,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131133,
+      "num": 131133,
+      "word": "魔方新世界 奥利",
+      "onboard_time": 1720052418,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128289,
@@ -347,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127083,
+      "num": 127083,
+      "word": "景德镇到底有谁在啊",
+      "onboard_time": 1720049657,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -355,12 +547,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 107987,
-      "num": 107987,
-      "word": "王俊凯电影运",
-      "onboard_time": 1720049537,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 115081,
+      "num": 115081,
+      "word": "气血不足的人常做的8个坏习惯",
+      "onboard_time": 1720055957,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113016,
+      "num": 113016,
+      "word": "萌兰儿时翻车视频",
+      "onboard_time": 1720054818,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112745,
+      "num": 570678,
+      "word": "大三女生2次捐献救同一位小女孩",
+      "onboard_time": 1720054757,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "许凯开屏",
+      "onboard_time": 1720049897,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109497,
+      "num": 109497,
+      "word": "流脑发病时有什么症状",
+      "onboard_time": 1720052539,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107667,
@@ -371,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103220,
-      "num": 103220,
-      "word": "小鬼抓人和王源抓人对比",
-      "onboard_time": 1720049476,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 103463,
+      "num": 103463,
+      "word": "上海迪士尼暑期门票飙至719元",
+      "onboard_time": 1720055896,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 101862,
@@ -425,6 +649,14 @@
       "onboard_time": 1720005018,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98299,
+      "num": 98299,
+      "word": "绝区零微博表情",
+      "onboard_time": 1720055118,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97398,
@@ -555,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54662,
-      "num": 54662,
-      "word": "景德镇到底有谁在啊",
-      "onboard_time": 1720049657,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 52407,
+      "num": 1065523,
+      "word": "中哈两位音乐家的跨国友情",
+      "onboard_time": 1720014258,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45186,
@@ -644,6 +876,9 @@
     },
     {
       "word": "#习近平会见阿塞拜疆总统阿利耶夫#"
+    },
+    {
+      "word": "#习近平会见吉尔吉斯斯坦总统扎帕罗夫#"
     }
   ]
 }
