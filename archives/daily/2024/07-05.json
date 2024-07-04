@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720120626748,
+  "endTime": 1720121681975,
   "band_list": [
     {
       "raw_hot": 1082455,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95357,
+      "num": 53598,
+      "word": "确定不是你俩孤立了全班么",
+      "onboard_time": 1720114573,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92046,
       "num": 92046,
       "word": "林俊杰卡地亚现场",
@@ -313,14 +321,6 @@
       "onboard_time": 1720097718,
       "rank": 38,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 88862,
-      "num": 53598,
-      "word": "确定不是你俩孤立了全班么",
-      "onboard_time": 1720114573,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 87538,
@@ -459,6 +459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 35148,
+      "num": 35148,
+      "word": "菲律宾华人称当地绑匪有产业链",
+      "onboard_time": 1720120033,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34895,
       "num": 48723,
       "word": "你比星光美丽预告",
@@ -499,14 +507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23742,
-      "num": 23742,
-      "word": "菲律宾华人称当地绑匪有产业链",
-      "onboard_time": 1720120033,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23341,
       "num": 38494,
       "word": "狼队对战LGDNBW",
@@ -539,12 +539,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17393,
+      "num": 17393,
+      "word": "大学生开始反向升学读技校了",
+      "onboard_time": 1720120871,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 15539,
       "num": 75750,
       "word": "90岁院士患癌仍坚持科研",
       "onboard_time": 1720114152,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15210,
+      "num": 15210,
+      "word": "于正夸李梦演戏OK的",
+      "onboard_time": 1720121411,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12777,
@@ -555,7 +571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9793,
+      "raw_hot": 10407,
       "num": 50653,
       "word": "玩偶时期的萌兰蛄蛹下树太萌了",
       "onboard_time": 1720117872,
