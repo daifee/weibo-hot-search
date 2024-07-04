@@ -1,10 +1,10 @@
 {
   "startTime": 1720023899875,
-  "endTime": 1720099375131,
+  "endTime": 1720100053081,
   "band_list": [
     {
       "raw_hot": 2095162,
-      "num": 375964,
+      "num": 415788,
       "word": "陆毅小女儿被曝攻击他人长相",
       "onboard_time": 1720091478,
       "rank": 11,
@@ -75,20 +75,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1445938,
+      "num": 342978,
+      "word": "陆毅回应",
+      "onboard_time": 1720097959,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1434829,
       "num": 1434829,
       "word": "中金员工人均月薪降至3.5万元",
       "onboard_time": 1720051157,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391749,
-      "num": 298088,
-      "word": "陆毅回应",
-      "onboard_time": 1720097959,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1325742,
@@ -251,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751737,
+      "num": 276196,
+      "word": "男性睡觉掉色是全国统一的吗",
+      "onboard_time": 1720095499,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 751062,
       "num": 751062,
       "word": "沙特土豪误认选手豪赠100刀",
       "onboard_time": 1720070717,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 749435,
-      "num": 262129,
-      "word": "男性睡觉掉色是全国统一的吗",
-      "onboard_time": 1720095499,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 720534,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539999,
+      "num": 412254,
+      "word": "吉祥航空通报不开空调致旅客中暑",
+      "onboard_time": 1720097959,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531051,
       "num": 531051,
       "word": "日本地震",
@@ -563,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 487837,
+      "num": 410758,
+      "word": "郭晓婷晒与迪丽热巴合照",
+      "onboard_time": 1720098079,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485026,
       "num": 485026,
       "word": "绝区零 美术",
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472889,
+      "num": 268228,
+      "word": "复读生已经上了五天课了",
+      "onboard_time": 1720097118,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469969,
       "num": 469969,
       "word": "女儿获第一笔工资给爸妈分红6666元",
@@ -600,14 +624,6 @@
       "word": "Jennie用戒指绑头发",
       "onboard_time": 1720062017,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 460322,
-      "num": 365090,
-      "word": "郭晓婷晒与迪丽热巴合照",
-      "onboard_time": 1720098079,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -715,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410690,
-      "num": 354530,
-      "word": "吉祥航空通报不开空调致旅客中暑",
-      "onboard_time": 1720097959,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 408641,
+      "num": 408641,
+      "word": "沈阳铁西",
+      "onboard_time": 1720097718,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 408296,
@@ -728,14 +744,6 @@
       "word": "研究生赚钱一定要学会吃身份红利",
       "onboard_time": 1720086678,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 407390,
-      "num": 259059,
-      "word": "复读生已经上了五天课了",
-      "onboard_time": 1720097118,
-      "rank": 44,
       "category": "情感"
     },
     {
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340702,
+      "num": 340702,
+      "word": "沈阳小区内持刀行凶男子已被抓",
+      "onboard_time": 1720098559,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 334016,
       "num": 334016,
       "word": "卢昱晓上的是亲子综艺吧",
@@ -945,14 +961,6 @@
       "onboard_time": 1720020019,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306037,
-      "num": 306037,
-      "word": "沈阳铁西",
-      "onboard_time": 1720097718,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 304411,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1720088239,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245492,
-      "num": 245492,
-      "word": "沈阳小区内持刀行凶男子已被抓",
-      "onboard_time": 1720098559,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 244982,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1720091537,
       "rank": 35,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 178904,
+      "num": 418467,
+      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
+      "onboard_time": 1720099279,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 178854,
@@ -2363,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111649,
+      "num": 111649,
+      "word": "牛麦",
+      "onboard_time": 1720099879,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109769,
       "num": 109769,
       "word": "绝区零选哥哥还是妹妹",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1720080978,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95323,
-      "num": 217087,
-      "word": "哈萨克斯坦姑娘16岁没来月经来杭求医",
-      "onboard_time": 1720099279,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 91083,
@@ -2627,8 +2635,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69561,
-      "num": 268686,
+      "raw_hot": 71827,
+      "num": 282812,
       "word": "难以想象我这个暑假会有多快乐",
       "onboard_time": 1720098138,
       "rank": 18,
@@ -2739,8 +2747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48319,
-      "num": 402785,
+      "raw_hot": 48848,
+      "num": 421357,
       "word": "深中通道开通72小时通车超30万车次",
       "onboard_time": 1720097058,
       "rank": 9,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1720033271,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44161,
+      "num": 612955,
+      "word": "带你60秒环游塔吉克斯坦",
+      "onboard_time": 1720098018,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 41525,
@@ -2833,14 +2849,6 @@
       "onboard_time": 1720069878,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34650,
-      "num": 612955,
-      "word": "带你60秒环游塔吉克斯坦",
-      "onboard_time": 1720098018,
-      "rank": 2,
-      "category": "国外时政"
     },
     {
       "raw_hot": 30531,
