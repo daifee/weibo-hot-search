@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720143748785,
+  "endTime": 1720146909597,
   "band_list": [
     {
       "raw_hot": 1602161,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 998784,
-      "num": 282243,
+      "num": 902614,
       "word": "孙海洋称孙卓高考成绩比预想好",
       "onboard_time": 1720142237,
       "rank": 30,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 991967,
-      "num": 188015,
+      "num": 682151,
       "word": "饿瘦和运动瘦的区别是什么",
       "onboard_time": 1720138877,
       "rank": 22,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 981448,
-      "num": 189362,
+      "num": 211790,
       "word": "在派出所被拖进女厕群殴男子发声",
       "onboard_time": 1720135696,
       "rank": 38,
@@ -49,6 +49,14 @@
       "onboard_time": 1720103344,
       "rank": 7,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 837738,
+      "num": 837738,
+      "word": "只要胆子大老婆直接牵回家",
+      "onboard_time": 1720143316,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 812563,
@@ -83,12 +91,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 567182,
+      "num": 213854,
+      "word": "金毛 同居多年没看清过室友的模样",
+      "onboard_time": 1720144576,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 566790,
       "num": 566790,
       "word": "李玟逝世一周年",
       "onboard_time": 1720140500,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539084,
+      "num": 539084,
+      "word": "英国首相苏纳克将宣布辞职",
+      "onboard_time": 1720143438,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 513467,
@@ -105,6 +129,22 @@
       "onboard_time": 1720095499,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 481254,
+      "num": 481254,
+      "word": "TFBOYS没来应援色来了",
+      "onboard_time": 1720144998,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467115,
+      "num": 467115,
+      "word": "上海迪士尼门票八年已涨价5次",
+      "onboard_time": 1720143257,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 462834,
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 418092,
-      "num": 186963,
+      "num": 210589,
       "word": "原来旅游时花钱可以这么有尊严",
       "onboard_time": 1720140199,
       "rank": 23,
@@ -147,11 +187,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 352485,
+      "num": 352485,
+      "word": "新疆地震",
+      "onboard_time": 1720143018,
+      "rank": 32,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 345437,
       "num": 345437,
       "word": "Bin 又版本了",
       "onboard_time": 1720137319,
       "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 340351,
+      "num": 340351,
+      "word": "BLG的钥匙当场被碾压",
+      "onboard_time": 1720142598,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283481,
+      "num": 283481,
+      "word": "丫丫抡宝剑笋",
+      "onboard_time": 1720144039,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282530,
       "num": 282530,
       "word": "韩语专业生就业方向",
@@ -243,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247700,
+      "num": 247700,
+      "word": "翔霖一队",
+      "onboard_time": 1720144397,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232216,
       "num": 232216,
       "word": "T1战胜BLG",
@@ -251,11 +323,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228542,
+      "num": 228542,
+      "word": "唐嫣刘亦菲佟大为早期合照",
+      "onboard_time": 1720145837,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218614,
       "num": 218614,
       "word": "吉祥航空通报不开空调致旅客中暑",
       "onboard_time": 1720097959,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208492,
+      "num": 208492,
+      "word": "菲律宾一华人男子疑遭绑架杀害",
+      "onboard_time": 1720145478,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -291,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197215,
+      "num": 197215,
+      "word": "高考录取期间10大注意事项",
+      "onboard_time": 1720142956,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 194945,
       "num": 194945,
       "word": "北大考古女孩正参加敦煌研究院招聘",
@@ -313,6 +409,22 @@
       "onboard_time": 1720098079,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191118,
+      "num": 191118,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1720145657,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190929,
+      "num": 190929,
+      "word": "李玟曾说希望中国音乐走向全世界",
+      "onboard_time": 1720145057,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 190371,
@@ -339,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188813,
+      "num": 188813,
+      "word": "张凌赫镜头下的日出",
+      "onboard_time": 1720146317,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188323,
       "num": 112785,
       "word": "为什么有的人睡觉爱举起双手",
@@ -355,28 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184968,
-      "num": 169961,
-      "word": "BLG的钥匙当场被碾压",
-      "onboard_time": 1720142598,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 184904,
-      "num": 168722,
-      "word": "新疆地震",
-      "onboard_time": 1720143018,
-      "rank": 32,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 184552,
       "num": 184552,
       "word": "巴黎奥运会允许代表团自费安空调",
       "onboard_time": 1720095317,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184325,
+      "num": 184325,
+      "word": "于正送王星越和吴谨言的手串对比",
+      "onboard_time": 1720146616,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 183866,
@@ -395,28 +507,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 178083,
+      "num": 178083,
+      "word": "BLG教练",
+      "onboard_time": 1720146678,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177477,
       "num": 177477,
       "word": "保时捷发霉车主自嘲不想要了",
       "onboard_time": 1720086019,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173319,
-      "num": 173319,
-      "word": "高考录取期间10大注意事项",
-      "onboard_time": 1720142956,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 172709,
-      "num": 172709,
-      "word": "英国首相苏纳克将宣布辞职",
-      "onboard_time": 1720143438,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 168218,
@@ -483,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142845,
-      "num": 142845,
-      "word": "只要胆子大老婆直接牵回家",
-      "onboard_time": 1720143316,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142409,
       "num": 142409,
       "word": "30余年来以侵占巴领土最大一次",
@@ -523,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137021,
+      "num": 173260,
+      "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
+      "onboard_time": 1720143619,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "绝区零 美术",
@@ -537,6 +641,14 @@
       "onboard_time": 1720136776,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130637,
+      "num": 130637,
+      "word": "炉甘石洗剂比花露水更安全吗",
+      "onboard_time": 1720146797,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129522,
@@ -571,12 +683,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "宋亚轩刘耀文同队",
+      "onboard_time": 1720144638,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122719,
       "num": 169085,
       "word": "男子砸死疣鼻天鹅被刑拘",
       "onboard_time": 1720117692,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120030,
+      "num": 120030,
+      "word": "上半年2.87亿人次出入境",
+      "onboard_time": 1720146557,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117993,
+      "num": 117993,
+      "word": "任嘉伦嚼嚼嚼",
+      "onboard_time": 1720145598,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 115532,
@@ -617,14 +753,6 @@
       "onboard_time": 1720094599,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111671,
-      "num": 111671,
-      "word": "上海迪士尼门票八年已涨价5次",
-      "onboard_time": 1720143257,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 108784,
@@ -780,7 +908,7 @@
     },
     {
       "raw_hot": 72838,
-      "num": 559944,
+      "num": 855692,
       "word": "风清气正的网络环境是中国的名片",
       "onboard_time": 1720105759,
       "rank": 2,
@@ -819,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61129,
-      "num": 173260,
-      "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
-      "onboard_time": 1720143619,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59705,
       "num": 59705,
       "word": "BLG对战T1",
@@ -852,7 +972,7 @@
     },
     {
       "raw_hot": 57718,
-      "num": 173263,
+      "num": 360527,
       "word": "老人晕倒3名路人轮做心肺复苏",
       "onboard_time": 1720143316,
       "rank": 23,
@@ -1057,6 +1177,9 @@
     },
     {
       "word": "#习近平会见联合国秘书长#"
+    },
+    {
+      "word": "#推动中塔全方位合作迈上更高水平#"
     }
   ]
 }

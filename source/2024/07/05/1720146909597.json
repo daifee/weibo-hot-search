@@ -1,0 +1,410 @@
+{
+  "runTime": 1720146909597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 902614,
+        "num": 902614,
+        "word": "孙海洋称孙卓高考成绩比预想好",
+        "onboard_time": 1720142237,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 878075,
+        "num": 878075,
+        "word": "公积金结息到账四位数",
+        "onboard_time": 1720135635,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 47680,
+        "num": 855692,
+        "word": "风清气正的网络环境是中国的名片",
+        "onboard_time": 1720105759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837738,
+        "num": 837738,
+        "word": "只要胆子大老婆直接牵回家",
+        "onboard_time": 1720143316,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682151,
+        "num": 682151,
+        "word": "饿瘦和运动瘦的区别是什么",
+        "onboard_time": 1720138877,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 539084,
+        "num": 539084,
+        "word": "英国首相苏纳克将宣布辞职",
+        "onboard_time": 1720143438,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 481254,
+        "num": 481254,
+        "word": "TFBOYS没来应援色来了",
+        "onboard_time": 1720144998,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467115,
+        "num": 467115,
+        "word": "上海迪士尼门票八年已涨价5次",
+        "onboard_time": 1720143257,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 373595,
+        "num": 373595,
+        "word": "用生理盐水冒充HPV疫苗给多人接种",
+        "onboard_time": 1720134194,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43508,
+        "num": 360527,
+        "word": "老人晕倒3名路人轮做心肺复苏",
+        "onboard_time": 1720143316,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 352485,
+        "num": 352485,
+        "word": "新疆地震",
+        "onboard_time": 1720143018,
+        "rank": 10,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 340351,
+        "num": 340351,
+        "word": "BLG的钥匙当场被碾压",
+        "onboard_time": 1720142598,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283481,
+        "num": 283481,
+        "word": "丫丫抡宝剑笋",
+        "onboard_time": 1720144039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281645,
+        "num": 281645,
+        "word": "李玟逝世一周年",
+        "onboard_time": 1720140500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247700,
+        "num": 247700,
+        "word": "翔霖一队",
+        "onboard_time": 1720144397,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243947,
+        "num": 243947,
+        "word": "Bin 又版本了",
+        "onboard_time": 1720137319,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245491,
+        "num": 243897,
+        "word": "TF家族夏日运动会分队官宣",
+        "onboard_time": 1720138698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228542,
+        "num": 228542,
+        "word": "唐嫣刘亦菲佟大为早期合照",
+        "onboard_time": 1720145837,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220348,
+        "num": 220348,
+        "word": "Mai出道",
+        "onboard_time": 1720136956,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213898,
+        "num": 213898,
+        "word": "男性睡觉掉色是全国统一的吗",
+        "onboard_time": 1720095499,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 567182,
+        "num": 213854,
+        "word": "金毛 同居多年没看清过室友的模样",
+        "onboard_time": 1720144576,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498551,
+        "num": 211790,
+        "word": "在派出所被拖进女厕群殴男子发声",
+        "onboard_time": 1720135696,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220732,
+        "num": 210589,
+        "word": "原来旅游时花钱可以这么有尊严",
+        "onboard_time": 1720140199,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229839,
+        "num": 208622,
+        "word": "中金",
+        "onboard_time": 1720135876,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208492,
+        "num": 208492,
+        "word": "菲律宾一华人男子疑遭绑架杀害",
+        "onboard_time": 1720145478,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197215,
+        "num": 197215,
+        "word": "高考录取期间10大注意事项",
+        "onboard_time": 1720142956,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193997,
+        "num": 193997,
+        "word": "不停道歉的东方甄选怎么了",
+        "onboard_time": 1720102459,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191118,
+        "num": 191118,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1720145657,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190929,
+        "num": 190929,
+        "word": "李玟曾说希望中国音乐走向全世界",
+        "onboard_time": 1720145057,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188813,
+        "num": 188813,
+        "word": "张凌赫镜头下的日出",
+        "onboard_time": 1720146317,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184325,
+        "num": 184325,
+        "word": "于正送王星越和吴谨言的手串对比",
+        "onboard_time": 1720146616,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178083,
+        "num": 178083,
+        "word": "BLG教练",
+        "onboard_time": 1720146678,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169097,
+        "num": 169097,
+        "word": "福宝带火韩国赴四川旅游",
+        "onboard_time": 1720136596,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167717,
+        "num": 167717,
+        "word": "Bin",
+        "onboard_time": 1720132211,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161449,
+        "num": 161449,
+        "word": "阿根廷vs厄瓜多尔",
+        "onboard_time": 1720143316,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 137300,
+        "word": "孕激素的威力可算见识了",
+        "onboard_time": 1720136297,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137177,
+        "num": 137177,
+        "word": "面筋哥完成肝移植手术已苏醒",
+        "onboard_time": 1720139658,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 137021,
+        "num": 137021,
+        "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
+        "onboard_time": 1720143619,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130637,
+        "num": 130637,
+        "word": "炉甘石洗剂比花露水更安全吗",
+        "onboard_time": 1720146797,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128041,
+        "num": 128041,
+        "word": "运动不到30分钟就等于白运动了吗",
+        "onboard_time": 1720130651,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122844,
+        "num": 122844,
+        "word": "宋亚轩刘耀文同队",
+        "onboard_time": 1720144638,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121026,
+        "num": 121026,
+        "word": "李昀锐是真离不开屁凳",
+        "onboard_time": 1720141459,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120030,
+        "num": 120030,
+        "word": "上半年2.87亿人次出入境",
+        "onboard_time": 1720146557,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117993,
+        "num": 117993,
+        "word": "任嘉伦嚼嚼嚼",
+        "onboard_time": 1720145598,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115096,
+        "num": 115096,
+        "word": "INFJ为什么是天选大女主",
+        "onboard_time": 1720135635,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114007,
+        "num": 114007,
+        "word": "绝区零 打击感",
+        "onboard_time": 1720137496,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113868,
+        "num": 113868,
+        "word": "林一晚安大小姐 国标味",
+        "onboard_time": 1720109718,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110141,
+        "num": 110141,
+        "word": "养父母未办领养手续养子失去继承权",
+        "onboard_time": 1720101619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109116,
+        "num": 109116,
+        "word": "BLG一轮游",
+        "onboard_time": 1720134916,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103539,
+        "num": 103539,
+        "word": "BLG还有复仇的机会",
+        "onboard_time": 1720140319,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中塔全方位合作迈上更高水平#"
+    }
+  }
+}
