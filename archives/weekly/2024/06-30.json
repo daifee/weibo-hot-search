@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720199865988,
+  "endTime": 1720200912840,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2947,6 +2947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 552565,
+      "num": 552565,
+      "word": "TES战胜GEN",
+      "onboard_time": 1720199474,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 550649,
       "num": 550649,
       "word": "过早入睡也容易发生心脑血管疾病",
@@ -3275,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514720,
+      "num": 348269,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514114,
       "num": 514114,
       "word": "歌手 隆里电丝",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1719742397,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 493358,
-      "num": 493358,
-      "word": "TES战胜GEN",
-      "onboard_time": 1720199474,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 492709,
@@ -5251,14 +5259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348269,
-      "num": 348269,
-      "word": "首批武警已抵达洞庭湖开始救援",
-      "onboard_time": 1720197798,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347790,
       "num": 347790,
       "word": "周焯华确定获刑18年",
@@ -6441,6 +6441,14 @@
       "onboard_time": 1719978498,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274907,
+      "num": 274907,
+      "word": "BLG",
+      "onboard_time": 1720135216,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 273647,
@@ -8177,14 +8185,6 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203530,
-      "num": 203530,
-      "word": "BLG",
-      "onboard_time": 1720135216,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 203423,
@@ -14035,6 +14035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115465,
+      "num": 115465,
+      "word": "EWC电竞世界杯",
+      "onboard_time": 1720199715,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115177,
       "num": 115177,
       "word": "Hero对战DYG",
@@ -14963,6 +14971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98738,
+      "num": 98738,
+      "word": "欧洲杯直播",
+      "onboard_time": 1720200316,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
@@ -15433,14 +15449,6 @@
       "onboard_time": 1719732796,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 87685,
-      "num": 87685,
-      "word": "EWC电竞世界杯",
-      "onboard_time": 1720199715,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 87405,
@@ -18148,6 +18156,9 @@
     },
     {
       "word": "#在更高起点上构建中塔命运共同体#"
+    },
+    {
+      "word": "#习近平向拉赫蒙颁授友谊勋章#"
     }
   ]
 }

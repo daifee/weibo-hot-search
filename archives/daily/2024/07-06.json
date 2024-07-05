@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720199865988,
+  "endTime": 1720200912840,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552565,
+      "num": 552565,
+      "word": "TES战胜GEN",
+      "onboard_time": 1720199474,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 549524,
       "num": 549524,
       "word": "那英发型 抄袭陶喆",
@@ -99,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 493358,
-      "num": 493358,
-      "word": "TES战胜GEN",
-      "onboard_time": 1720199474,
-      "rank": 7,
-      "category": "电竞"
+      "raw_hot": 514720,
+      "num": 348269,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482143,
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348269,
-      "num": 348269,
-      "word": "首批武警已抵达洞庭湖开始救援",
-      "onboard_time": 1720197798,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322646,
       "num": 322646,
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274907,
+      "num": 274907,
+      "word": "BLG",
+      "onboard_time": 1720199416,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 257749,
       "num": 257749,
       "word": "宾馆老板见男子带幼女开房立刻报警",
@@ -179,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203530,
-      "num": 203530,
-      "word": "BLG",
-      "onboard_time": 1720199416,
-      "rank": 16,
+      "raw_hot": 226107,
+      "num": 226107,
+      "word": "Bin",
+      "onboard_time": 1720200541,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -395,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115465,
+      "num": 115465,
+      "word": "EWC电竞世界杯",
+      "onboard_time": 1720199715,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115042,
       "num": 115042,
       "word": "周深说历史总是惊人相似",
@@ -443,20 +459,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 98738,
+      "num": 98738,
+      "word": "欧洲杯直播",
+      "onboard_time": 1720200316,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91462,
       "num": 91462,
       "word": "姆巴佩面对C罗正式比赛0进球",
       "onboard_time": 1720194260,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87685,
-      "num": 87685,
-      "word": "EWC电竞世界杯",
-      "onboard_time": 1720199715,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 64710,
@@ -502,6 +518,9 @@
   "hotgov_list": [
     {
       "word": "#在更高起点上构建中塔命运共同体#"
+    },
+    {
+      "word": "#习近平向拉赫蒙颁授友谊勋章#"
     }
   ]
 }
