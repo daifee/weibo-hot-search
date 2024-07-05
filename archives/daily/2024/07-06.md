@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/06 00:23:48 ~ 2024/07/06 02:25:33
+本榜单时间：2024/07/06 00:23:48 ~ 2024/07/06 02:38:35
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@ TES（热度：1771255）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%BE%B7%E5%9B%BD%23" target="weibo">
-西班牙vs德国（热度：675844）
+西班牙vs德国（热度：736796）
 </a>
 </li>
 
@@ -425,6 +425,12 @@ EWC电竞世界杯（热度：115465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E6%8B%89%E8%B5%AB%E8%92%99%E9%A2%81%E6%8E%88%E5%8F%8B%E8%B0%8A%E5%8B%8B%E7%AB%A0%23%23" target="weibo">
 #习近平向拉赫蒙颁授友谊勋章#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%94%A8%E5%A1%94%E8%AF%AD%E9%97%AE%E5%80%99%E5%A4%A7%E5%AE%B6%E5%A5%BD%23%23" target="weibo">
+#习主席用塔语问候大家好#
 </a>
 </li>
 

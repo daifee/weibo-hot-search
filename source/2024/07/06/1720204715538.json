@@ -1,0 +1,410 @@
+{
+  "runTime": 1720204715538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736796,
+        "num": 736796,
+        "word": "西班牙vs德国",
+        "onboard_time": 1720192642,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483426,
+        "num": 483426,
+        "word": "首批武警已抵达洞庭湖开始救援",
+        "onboard_time": 1720197798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20400,
+        "num": 356872,
+        "word": "友谊勋章藏着多少设计细节",
+        "onboard_time": 1720193000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335003,
+        "num": 335003,
+        "word": "Bin",
+        "onboard_time": 1720200541,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308200,
+        "num": 308200,
+        "word": "欧洲杯",
+        "onboard_time": 1720197257,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299704,
+        "num": 299704,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263655,
+        "num": 263655,
+        "word": "歌手排名",
+        "onboard_time": 1720190242,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262060,
+        "num": 262060,
+        "word": "TES",
+        "onboard_time": 1720195099,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208984,
+        "num": 208984,
+        "word": "袁娅维是不是被算错票了",
+        "onboard_time": 1720196357,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186668,
+        "num": 186668,
+        "word": "TES战胜GEN",
+        "onboard_time": 1720199474,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202384,
+        "num": 184918,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179948,
+        "num": 179948,
+        "word": "CoCo回应员工边做边吃",
+        "onboard_time": 1720195818,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147373,
+        "num": 147373,
+        "word": "欧洲杯直播",
+        "onboard_time": 1720200316,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129452,
+        "num": 129452,
+        "word": "葡萄牙vs法国",
+        "onboard_time": 1720192820,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109755,
+        "num": 109755,
+        "word": "那英发型 抄袭陶喆",
+        "onboard_time": 1720184841,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98867,
+        "num": 98867,
+        "word": "东方树叶 第八",
+        "onboard_time": 1720192279,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79181,
+        "num": 79181,
+        "word": "袁娅维已经1个月没5点前睡觉了",
+        "onboard_time": 1720193659,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72322,
+        "num": 72322,
+        "word": "洞庭湖",
+        "onboard_time": 1720183820,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71255,
+        "num": 71255,
+        "word": "汪苏泷 甜妹",
+        "onboard_time": 1720186461,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12001,
+        "num": 67574,
+        "word": "凉山男孩帮不识字亲人填表",
+        "onboard_time": 1720199175,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226572,
+        "num": 67152,
+        "word": "睡前不刷牙将是对牙齿的恐怖待遇",
+        "onboard_time": 1720192040,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125715,
+        "num": 67133,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66111,
+        "num": 66111,
+        "word": "飞机起飞4名贵宾室旅客被遗忘机场",
+        "onboard_time": 1720188382,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65559,
+        "num": 65559,
+        "word": "宾馆老板见男子带幼女开房立刻报警",
+        "onboard_time": 1720183760,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64167,
+        "num": 64167,
+        "word": "香缇莫第八",
+        "onboard_time": 1720190181,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15662,
+        "num": 62462,
+        "word": "仪仗队离开前将中国零食分给留学生",
+        "onboard_time": 1720195459,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62294,
+        "num": 62294,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55828,
+        "num": 55828,
+        "word": "江湖流 Gai",
+        "onboard_time": 1720186342,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55667,
+        "num": 55667,
+        "word": "汉堡老师去世",
+        "onboard_time": 1720173379,
+        "rank": 28,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 54070,
+        "num": 54070,
+        "word": "原来午睡不一定非要睡着",
+        "onboard_time": 1720195279,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63042,
+        "num": 53678,
+        "word": "香缇莫 袁咏琳",
+        "onboard_time": 1720183161,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52717,
+        "num": 52717,
+        "word": "警方通报西安交大毕业生李某某事件",
+        "onboard_time": 1720191921,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50422,
+        "num": 50422,
+        "word": "男子中751万彩票藏枕头下半月才兑奖",
+        "onboard_time": 1720178898,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49247,
+        "num": 49247,
+        "word": "黄宣 陶喆附体",
+        "onboard_time": 1720188382,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48472,
+        "num": 48472,
+        "word": "王嘉尔说100万人用1个小风扇",
+        "onboard_time": 1720191441,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48106,
+        "num": 48106,
+        "word": "歌手直播",
+        "onboard_time": 1720180040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47788,
+        "num": 47788,
+        "word": "2024欧洲杯",
+        "onboard_time": 1720199116,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44249,
+        "num": 44249,
+        "word": "王者全英雄及50款皮肤限免",
+        "onboard_time": 1720195938,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44242,
+        "num": 44242,
+        "word": "宋雨琦ins发文",
+        "onboard_time": 1720171400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43983,
+        "num": 43983,
+        "word": "第一次听说内裤前的蝴蝶结这么有用",
+        "onboard_time": 1720173500,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42518,
+        "num": 42518,
+        "word": "姆巴佩面对C罗正式比赛0进球",
+        "onboard_time": 1720194260,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41271,
+        "num": 41271,
+        "word": "那英 清唱",
+        "onboard_time": 1720183039,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 39265,
+        "word": "谁家的电影票是主演画的",
+        "onboard_time": 1720201875,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38987,
+        "num": 38987,
+        "word": "三部门向湖南华容紧急调拨物资",
+        "onboard_time": 1720198097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38954,
+        "num": 38954,
+        "word": "电影默杀",
+        "onboard_time": 1720188562,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38877,
+        "num": 38877,
+        "word": "菲律宾华人讲述从绑匪手中虎口逃生",
+        "onboard_time": 1720197016,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37817,
+        "num": 37817,
+        "word": "邓超晒孙俪给他烤的肉",
+        "onboard_time": 1720187242,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37010,
+        "num": 37010,
+        "word": "BLG",
+        "onboard_time": 1720199416,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35482,
+        "num": 37008,
+        "word": "EWC电竞世界杯",
+        "onboard_time": 1720199715,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34113,
+        "num": 37004,
+        "word": "陈乔恩回应被说表演痕迹重",
+        "onboard_time": 1720197437,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席用塔语问候大家好#"
+    }
+  }
+}
