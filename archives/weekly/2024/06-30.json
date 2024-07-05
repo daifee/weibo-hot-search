@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720214335130,
+  "endTime": 1720215372634,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3275,6 +3275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516006,
+      "num": 516006,
+      "word": "葡萄牙vs法国",
+      "onboard_time": 1720192820,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515094,
       "num": 515094,
       "word": "直播间号称9999元可买圆明园马首",
@@ -4097,14 +4105,6 @@
       "onboard_time": 1719895402,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444684,
-      "num": 444684,
-      "word": "葡萄牙vs法国",
-      "onboard_time": 1720192820,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 444637,
@@ -15955,6 +15955,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 68390,
+      "num": 68390,
+      "word": "西班牙加时绝杀",
+      "onboard_time": 1720212130,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -16435,14 +16443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 54431,
-      "num": 54431,
-      "word": "西班牙加时绝杀",
-      "onboard_time": 1720212130,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 53818,
       "num": 478135,
       "word": "姜爷爷和福宝重逢同框",
@@ -16513,6 +16513,14 @@
       "onboard_time": 1719682214,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50457,
+      "num": 43038,
+      "word": "葡萄牙vs法国首发",
+      "onboard_time": 1720211891,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 50311,
@@ -16809,14 +16817,6 @@
       "onboard_time": 1720179080,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42898,
-      "num": 42898,
-      "word": "葡萄牙vs法国首发",
-      "onboard_time": 1720211891,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 42582,
@@ -17395,6 +17395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29569,
+      "num": 29569,
+      "word": "高圆圆banban",
+      "onboard_time": 1720210930,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29186,
       "num": 179827,
       "word": "尼日利亚番茄价格暴涨20倍",
@@ -17433,14 +17441,6 @@
       "onboard_time": 1719795798,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28323,
-      "num": 28323,
-      "word": "高圆圆banban",
-      "onboard_time": 1720210930,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 27763,
