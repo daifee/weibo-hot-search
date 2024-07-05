@@ -1,7 +1,15 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720197526467,
+  "endTime": 1720199865988,
   "band_list": [
+    {
+      "raw_hot": 1771255,
+      "num": 1771255,
+      "word": "TES",
+      "onboard_time": 1720195099,
+      "rank": 8,
+      "category": "电竞"
+    },
     {
       "raw_hot": 1555339,
       "num": 1555339,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 923229,
-      "num": 574105,
+      "num": 654569,
       "word": "洞庭湖决堤",
       "onboard_time": 1720189881,
       "rank": 3,
@@ -51,20 +59,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 615754,
+      "num": 615754,
+      "word": "西班牙vs德国",
+      "onboard_time": 1720192642,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 598829,
+      "num": 598829,
+      "word": "袁娅维是不是被算错票了",
+      "onboard_time": 1720196357,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 559445,
+      "num": 559445,
+      "word": "CoCo回应员工边做边吃",
+      "onboard_time": 1720195818,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549524,
       "num": 549524,
       "word": "那英发型 抄袭陶喆",
       "onboard_time": 1720184841,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546735,
-      "num": 546735,
-      "word": "TES",
-      "onboard_time": 1720195099,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 519487,
@@ -75,28 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493358,
+      "num": 493358,
+      "word": "TES战胜GEN",
+      "onboard_time": 1720199474,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 482143,
       "num": 482143,
       "word": "警方通报西安交大毕业生李某某事件",
       "onboard_time": 1720191921,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466941,
-      "num": 439329,
-      "word": "袁娅维是不是被算错票了",
-      "onboard_time": 1720196357,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 433047,
-      "num": 433047,
-      "word": "西班牙vs德国",
-      "onboard_time": 1720192642,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 418031,
@@ -115,12 +131,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 392848,
-      "num": 392848,
-      "word": "CoCo回应员工边做边吃",
-      "onboard_time": 1720195818,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 377023,
+      "num": 377023,
+      "word": "欧洲杯",
+      "onboard_time": 1720197257,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 354797,
@@ -131,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348269,
+      "num": 348269,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322646,
       "num": 322646,
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
       "onboard_time": 1720188382,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315750,
-      "num": 315750,
-      "word": "欧洲杯",
-      "onboard_time": 1720197257,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 276156,
@@ -163,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203530,
+      "num": 203530,
+      "word": "BLG",
+      "onboard_time": 1720199416,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195717,
       "num": 161883,
       "word": "原来午睡不一定非要睡着",
       "onboard_time": 1720195279,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187905,
+      "num": 187905,
+      "word": "TES对战GEN",
+      "onboard_time": 1720194439,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 186712,
@@ -251,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147728,
-      "num": 147728,
-      "word": "TES对战GEN",
-      "onboard_time": 1720194439,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "香缇莫 袁咏琳",
@@ -323,6 +347,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 124428,
+      "num": 419141,
+      "word": "菲律宾华人讲述从绑匪手中虎口逃生",
+      "onboard_time": 1720197016,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124217,
       "num": 124217,
       "word": "心疼纪星",
@@ -371,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107715,
+      "num": 107715,
+      "word": "陈乔恩回应被说表演痕迹重",
+      "onboard_time": 1720197437,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107087,
       "num": 107087,
       "word": "巨蟹座新月许愿",
       "onboard_time": 1720196957,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101545,
+      "num": 101545,
+      "word": "2024欧洲杯",
+      "onboard_time": 1720199116,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 100940,
@@ -395,16 +443,32 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97765,
-      "num": 97765,
-      "word": "陈乔恩回应被说表演痕迹重",
-      "onboard_time": 1720197437,
+      "raw_hot": 91462,
+      "num": 91462,
+      "word": "姆巴佩面对C罗正式比赛0进球",
+      "onboard_time": 1720194260,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87685,
+      "num": 87685,
+      "word": "EWC电竞世界杯",
+      "onboard_time": 1720199715,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 64710,
+      "num": 70513,
+      "word": "朱丹乘风4个月掉了14斤",
+      "onboard_time": 1720181299,
       "rank": 49,
       "category": "综艺"
     },
     {
       "raw_hot": 47783,
-      "num": 596173,
+      "num": 668961,
       "word": "友谊勋章藏着多少设计细节",
       "onboard_time": 1720193000,
       "rank": 2,
@@ -419,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38694,
-      "num": 419141,
-      "word": "菲律宾华人讲述从绑匪手中虎口逃生",
-      "onboard_time": 1720197016,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30779,
       "num": 492464,
       "word": "神十七乘组太空归来后正式亮相",
       "onboard_time": 1720192279,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19537,
+      "num": 354572,
+      "word": "凉山男孩帮不识字亲人填表",
+      "onboard_time": 1720199175,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

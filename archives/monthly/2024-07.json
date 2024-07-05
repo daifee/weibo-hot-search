@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720197526467,
+  "endTime": 1720199865988,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -193,6 +193,14 @@
       "onboard_time": 1719846380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1771255,
+      "num": 1771255,
+      "word": "TES",
+      "onboard_time": 1720195099,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1690883,
@@ -2059,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 615754,
+      "num": 615754,
+      "word": "西班牙vs德国",
+      "onboard_time": 1720192642,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 615093,
       "num": 615093,
       "word": "萌兰9岁生日快乐",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1719798019,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 598829,
+      "num": 598829,
+      "word": "袁娅维是不是被算错票了",
+      "onboard_time": 1720196357,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 598462,
@@ -2475,6 +2499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 559445,
+      "num": 559445,
+      "word": "CoCo回应员工边做边吃",
+      "onboard_time": 1720195818,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557668,
       "num": 557668,
       "word": "刘德华 格格不入",
@@ -2561,14 +2593,6 @@
       "onboard_time": 1719788714,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 546735,
-      "num": 546735,
-      "word": "TES",
-      "onboard_time": 1720195099,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 546642,
@@ -3019,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493358,
+      "num": 493358,
+      "word": "TES战胜GEN",
+      "onboard_time": 1720199474,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 492709,
       "num": 403449,
       "word": "俄航天局局长称美国登月为真",
@@ -3265,14 +3297,6 @@
       "onboard_time": 1720173858,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 466941,
-      "num": 439329,
-      "word": "袁娅维是不是被算错票了",
-      "onboard_time": 1720196357,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 463640,
@@ -3657,14 +3681,6 @@
       "onboard_time": 1719900979,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433047,
-      "num": 433047,
-      "word": "西班牙vs德国",
-      "onboard_time": 1720192642,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 432391,
@@ -4059,14 +4075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392848,
-      "num": 392848,
-      "word": "CoCo回应员工边做边吃",
-      "onboard_time": 1720195818,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392703,
       "num": 392703,
       "word": "于正送王星越和吴谨言的手串对比",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1720049298,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 377023,
+      "num": 377023,
+      "word": "欧洲杯",
+      "onboard_time": 1719789255,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 376631,
@@ -4513,6 +4529,14 @@
       "onboard_time": 1720184240,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348269,
+      "num": 348269,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347790,
@@ -4881,14 +4905,6 @@
       "onboard_time": 1720187599,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315750,
-      "num": 315750,
-      "word": "欧洲杯",
-      "onboard_time": 1719789255,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 315630,
@@ -6995,6 +7011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203530,
+      "num": 203530,
+      "word": "BLG",
+      "onboard_time": 1720135216,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203423,
       "num": 203423,
       "word": "唐嫣孙坚认识二十多年了",
@@ -7523,14 +7547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194650,
-      "num": 194650,
-      "word": "BLG",
-      "onboard_time": 1720135216,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 194481,
       "num": 194481,
       "word": "张杰演唱会大屏上的一家三口",
@@ -7937,6 +7953,14 @@
       "onboard_time": 1719898578,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187905,
+      "num": 187905,
+      "word": "TES对战GEN",
+      "onboard_time": 1720194439,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 187896,
@@ -9755,14 +9779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147728,
-      "num": 147728,
-      "word": "TES对战GEN",
-      "onboard_time": 1720194439,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147512,
       "num": 147512,
       "word": "非农",
@@ -11411,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124428,
+      "num": 419141,
+      "word": "菲律宾华人讲述从绑匪手中虎口逃生",
+      "onboard_time": 1720197016,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124421,
       "num": 405922,
       "word": "平江大面积断水断电",
@@ -12435,6 +12459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107715,
+      "num": 107715,
+      "word": "陈乔恩回应被说表演痕迹重",
+      "onboard_time": 1720197437,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "中国大陆男单温网正赛首胜",
@@ -12691,6 +12723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101545,
+      "num": 101545,
+      "word": "2024欧洲杯",
+      "onboard_time": 1720199116,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101123,
       "num": 101123,
       "word": "韩廷洗澡镜头",
@@ -12769,14 +12809,6 @@
       "onboard_time": 1719755660,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97765,
-      "num": 97765,
-      "word": "陈乔恩回应被说表演痕迹重",
-      "onboard_time": 1720197437,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 97398,
@@ -12955,6 +12987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91462,
+      "num": 91462,
+      "word": "姆巴佩面对C罗正式比赛0进球",
+      "onboard_time": 1720194260,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91258,
       "num": 91258,
       "word": "小猫咪坐下来后我决定原谅这个世界了",
@@ -13129,6 +13169,14 @@
       "onboard_time": 1719875834,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87685,
+      "num": 87685,
+      "word": "EWC电竞世界杯",
+      "onboard_time": 1720199715,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 87409,
@@ -14243,14 +14291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38694,
-      "num": 419141,
-      "word": "菲律宾华人讲述从绑匪手中虎口逃生",
-      "onboard_time": 1720197016,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37501,
       "num": 38691,
       "word": "魔方新世界排名",
@@ -14825,6 +14865,14 @@
       "onboard_time": 1720155919,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19537,
+      "num": 354572,
+      "word": "凉山男孩帮不识字亲人填表",
+      "onboard_time": 1720199175,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19536,
