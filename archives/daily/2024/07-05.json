@@ -1,9 +1,9 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720163898279,
+  "endTime": 1720164885807,
   "band_list": [
     {
-      "raw_hot": 1622968,
+      "raw_hot": 1639276,
       "num": 337726,
       "word": "菲律宾撕票案李娜来自中国台湾",
       "onboard_time": 1720160779,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 826265,
+      "num": 279271,
+      "word": "318川藏线孕妇插队事件后续",
+      "onboard_time": 1720162278,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812563,
       "num": 812563,
       "word": "电竞世界杯BLG对战T1",
@@ -171,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673698,
-      "num": 673698,
+      "raw_hot": 682182,
+      "num": 682182,
       "word": "郭敬明官宣两部剧",
       "onboard_time": 1720160959,
       "rank": 8,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 666703,
-      "num": 277087,
+      "num": 533149,
       "word": "为什么年轻人开始流行两头婚",
       "onboard_time": 1720157958,
       "rank": 20,
@@ -259,20 +267,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 537437,
+      "num": 537437,
+      "word": "中国奥运代表团购置移动空调",
+      "onboard_time": 1720161376,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 528516,
+      "num": 278587,
+      "word": "赵露思瘦了好多",
+      "onboard_time": 1720163239,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525949,
       "num": 506657,
       "word": "何洁解释郭碧婷忘动作",
       "onboard_time": 1720156579,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 516224,
-      "num": 261630,
-      "word": "318川藏线孕妇插队事件后续",
-      "onboard_time": 1720162278,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513467,
@@ -483,14 +499,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 352197,
-      "num": 352197,
-      "word": "中国奥运代表团购置移动空调",
-      "onboard_time": 1720161376,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345437,
       "num": 345437,
       "word": "Bin 又版本了",
@@ -507,12 +515,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 342005,
+      "num": 234506,
+      "word": "英国30岁女教师性侵2名男生怀胎生子",
+      "onboard_time": 1720164200,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338160,
       "num": 338160,
       "word": "大马丁神了",
       "onboard_time": 1720152019,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327832,
+      "num": 278288,
+      "word": "贾乃亮带甜馨回哈尔滨",
+      "onboard_time": 1720164379,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 327704,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287120,
+      "num": 241919,
+      "word": "女子创业失败欠80多万送外卖还钱",
+      "onboard_time": 1720160838,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "唐嫣刘亦菲佟大为早期合照",
@@ -635,19 +667,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279912,
+      "num": 279912,
+      "word": "中文系女生用冰杯复刻宋代冷饮",
+      "onboard_time": 1720162758,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275754,
       "num": 275754,
       "word": "妈妈回应儿子出生6个月长到22斤",
       "onboard_time": 1720101741,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270460,
-      "num": 241919,
-      "word": "女子创业失败欠80多万送外卖还钱",
-      "onboard_time": 1720160838,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -675,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258896,
-      "num": 258896,
-      "word": "赵露思瘦了好多",
-      "onboard_time": 1720163239,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257923,
       "num": 257923,
       "word": "世界之外",
       "onboard_time": 1720160598,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252871,
+      "num": 252871,
+      "word": "张真源 水巴掌",
+      "onboard_time": 1720163539,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 249974,
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202676,
+      "num": 202676,
+      "word": "田嘉瑞 燃霜为昼",
+      "onboard_time": 1720163898,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202350,
       "num": 202350,
       "word": "沈腾马丽合体憋笑可太难了",
@@ -963,14 +1003,6 @@
       "category": "教育,作品衍生"
     },
     {
-      "raw_hot": 196000,
-      "num": 196000,
-      "word": "中文系女生用冰杯复刻宋代冷饮",
-      "onboard_time": 1720162758,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 194945,
       "num": 194945,
       "word": "北大考古女孩正参加敦煌研究院招聘",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1720156279,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192892,
+      "num": 192892,
+      "word": "长期午睡和不午睡有何区别",
+      "onboard_time": 1720163419,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192848,
@@ -1043,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190981,
+      "num": 190981,
+      "word": "长相思大荒招生简章",
+      "onboard_time": 1720163898,
+      "rank": 29,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 190625,
       "num": 190625,
       "word": "乘风总决选COSMO红毯大片",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1720114573,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188469,
+      "num": 188469,
+      "word": "杨博文宣誓",
+      "onboard_time": 1720164139,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 188323,
@@ -1219,14 +1275,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 162053,
-      "num": 162053,
-      "word": "张真源 水巴掌",
-      "onboard_time": 1720163539,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160212,
       "num": 160212,
       "word": "张凌赫把粉丝合照放在了C位",
@@ -1251,8 +1299,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156325,
-      "num": 156325,
+      "raw_hot": 156824,
+      "num": 156824,
       "word": "莎头",
       "onboard_time": 1720161857,
       "rank": 38,
@@ -1371,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137192,
+      "num": 137192,
+      "word": "当猫猫打架时被喷了冷静喷雾",
+      "onboard_time": 1720164499,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137021,
       "num": 173260,
       "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1720155200,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123779,
-      "num": 123779,
-      "word": "长期午睡和不午睡有何区别",
-      "onboard_time": 1720163419,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122844,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1720134615,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106710,
+      "num": 106710,
+      "word": "吴谨言满钻长裙",
+      "onboard_time": 1720164858,
+      "rank": 48,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 101522,
@@ -1803,6 +1859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63104,
+      "num": 344230,
+      "word": "古天乐林更新穿越火线",
+      "onboard_time": 1720160357,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61609,
       "num": 185396,
       "word": "和叶上桌把花花挤翻在地",
@@ -1841,14 +1905,6 @@
       "onboard_time": 1720148718,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57336,
-      "num": 344230,
-      "word": "古天乐林更新穿越火线",
-      "onboard_time": 1720160357,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 57325,
