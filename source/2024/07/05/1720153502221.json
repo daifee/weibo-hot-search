@@ -1,0 +1,410 @@
+{
+  "runTime": 1720153502221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027332,
+        "num": 1027332,
+        "word": "詹雯婷一审被判无罪",
+        "onboard_time": 1720151958,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910711,
+        "num": 910711,
+        "word": "梅西失点",
+        "onboard_time": 1720151599,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79664,
+        "num": 897025,
+        "word": "塔吉克斯坦10岁小朋友中文太溜了",
+        "onboard_time": 1720150039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888959,
+        "num": 888959,
+        "word": "姜爷爷见到福宝了",
+        "onboard_time": 1720147038,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748895,
+        "num": 748895,
+        "word": "饿瘦和运动瘦的区别是什么",
+        "onboard_time": 1720138877,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 662228,
+        "num": 662228,
+        "word": "樱桃琥珀",
+        "onboard_time": 1720152199,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606819,
+        "num": 606819,
+        "word": "单依纯毕业了",
+        "onboard_time": 1720151417,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37768,
+        "num": 588339,
+        "word": "我国成功发射天绘五号02组卫星",
+        "onboard_time": 1720137255,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575616,
+        "num": 575616,
+        "word": "公积金结息到账四位数",
+        "onboard_time": 1720135635,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 548252,
+        "num": 548252,
+        "word": "普京称更希望拜登担任美国总统",
+        "onboard_time": 1720147397,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 740784,
+        "num": 523973,
+        "word": "胡歌和老婆同框照",
+        "onboard_time": 1720152799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473277,
+        "num": 473277,
+        "word": "杨幂月光白裙",
+        "onboard_time": 1720151058,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448885,
+        "num": 448885,
+        "word": "苏炳添回应无缘巴黎奥运会",
+        "onboard_time": 1720149077,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444637,
+        "num": 444637,
+        "word": "时代峰峻 场周",
+        "onboard_time": 1720151176,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427948,
+        "num": 427948,
+        "word": "只要胆子大老婆直接牵回家",
+        "onboard_time": 1720143316,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388037,
+        "num": 388037,
+        "word": "赵今麦张凌赫 二搭",
+        "onboard_time": 1720152739,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60799,
+        "num": 363786,
+        "word": "那些陪你跨过的人还在吗",
+        "onboard_time": 1720152199,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359264,
+        "num": 359264,
+        "word": "孙海洋称孙卓高考成绩比预想好",
+        "onboard_time": 1720142237,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340958,
+        "num": 340958,
+        "word": "专家称A股100万点可期",
+        "onboard_time": 1720147457,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273344,
+        "num": 273344,
+        "word": "用生理盐水冒充HPV疫苗给多人接种",
+        "onboard_time": 1720134194,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 708197,
+        "num": 272886,
+        "word": "离职博主们集体回去上班了",
+        "onboard_time": 1720149976,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 271094,
+        "word": "校长在毕业典礼上渐入佳境",
+        "onboard_time": 1720153340,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96410,
+        "num": 270004,
+        "word": "杭州80岁阿姨根本看不出80岁的原因",
+        "onboard_time": 1720151779,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706390,
+        "num": 268698,
+        "word": "伊能静警告秦昊别带个儿子回家",
+        "onboard_time": 1720152258,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397654,
+        "num": 266746,
+        "word": "在派出所被拖进女厕群殴男子发声",
+        "onboard_time": 1720135696,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279021,
+        "num": 265221,
+        "word": "谢娜主持乘风决赛",
+        "onboard_time": 1720146976,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264804,
+        "num": 264804,
+        "word": "大马丁神了",
+        "onboard_time": 1720152019,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262798,
+        "num": 262798,
+        "word": "张真源和谁一组",
+        "onboard_time": 1720148837,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228293,
+        "num": 228293,
+        "word": "city不city的旅行到底是什么",
+        "onboard_time": 1720153279,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219528,
+        "num": 219528,
+        "word": "小米公路车",
+        "onboard_time": 1720152919,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212888,
+        "num": 212888,
+        "word": "TFBOYS没来应援色来了",
+        "onboard_time": 1720144998,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 210604,
+        "word": "黑神话公司门口遭恶意涂鸦",
+        "onboard_time": 1720152858,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202350,
+        "num": 202350,
+        "word": "沈腾马丽合体憋笑可太难了",
+        "onboard_time": 1720151176,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199359,
+        "num": 199359,
+        "word": "阿根廷晋级4强",
+        "onboard_time": 1720151659,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196490,
+        "num": 196490,
+        "word": "上海迪士尼门票八年已涨价5次",
+        "onboard_time": 1720143257,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192848,
+        "num": 192848,
+        "word": "哪种血型容易老年痴呆",
+        "onboard_time": 1720148417,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192254,
+        "num": 192254,
+        "word": "英国首相苏纳克将宣布辞职",
+        "onboard_time": 1720143438,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191261,
+        "num": 191261,
+        "word": "于正送王星越和吴谨言的手串对比",
+        "onboard_time": 1720146616,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189262,
+        "num": 189262,
+        "word": "TF家族夏日运动会分队官宣",
+        "onboard_time": 1720138698,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185205,
+        "num": 185205,
+        "word": "Doinb说BLG输T1不是坏事",
+        "onboard_time": 1720148718,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181354,
+        "num": 181354,
+        "word": "家族运动会线下礼",
+        "onboard_time": 1720152440,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181246,
+        "num": 181246,
+        "word": "爱你官宣杀青",
+        "onboard_time": 1720148179,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170746,
+        "num": 170746,
+        "word": "虎鲸竟然会伸舌头",
+        "onboard_time": 1720147637,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168552,
+        "num": 168552,
+        "word": "上半年4000亿元资金涌入股票ETF",
+        "onboard_time": 1720151117,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150432,
+        "num": 150432,
+        "word": "Bin 又版本了",
+        "onboard_time": 1720137319,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142710,
+        "num": 142710,
+        "word": "BLG的钥匙当场被碾压",
+        "onboard_time": 1720142598,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141198,
+        "num": 141198,
+        "word": "我妻善逸 哭颜第一",
+        "onboard_time": 1720148837,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137691,
+        "num": 137691,
+        "word": "决战平安京",
+        "onboard_time": 1720153400,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134387,
+        "num": 134387,
+        "word": "乘风2024年度总决选歌单",
+        "onboard_time": 1720152680,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132791,
+        "num": 132791,
+        "word": "英国首相苏纳克承认败选",
+        "onboard_time": 1720153459,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720150514701,
+  "endTime": 1720153502221,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1027332,
+      "num": 1027332,
+      "word": "詹雯婷一审被判无罪",
+      "onboard_time": 1720151958,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012370,
       "num": 533446,
       "word": "暴食了30个黄瓜和17个西红柿",
@@ -913,6 +921,14 @@
       "onboard_time": 1719755060,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 910711,
+      "num": 910711,
+      "word": "梅西失点",
+      "onboard_time": 1720151599,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 909880,
@@ -1451,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 740784,
+      "num": 523973,
+      "word": "胡歌和老婆同框照",
+      "onboard_time": 1720152799,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740667,
       "num": 477847,
       "word": "网传电影野孩子暂停预售",
@@ -1537,6 +1561,22 @@
       "onboard_time": 1719759560,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708197,
+      "num": 272886,
+      "word": "离职博主们集体回去上班了",
+      "onboard_time": 1720149976,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706390,
+      "num": 268698,
+      "word": "伊能静警告秦昊别带个儿子回家",
+      "onboard_time": 1720152258,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 703173,
@@ -1672,6 +1712,14 @@
       "word": "张译在政法系统里走不出了",
       "onboard_time": 1719817398,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 662228,
+      "num": 662228,
+      "word": "樱桃琥珀",
+      "onboard_time": 1720152199,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -1985,6 +2033,14 @@
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606819,
+      "num": 606819,
+      "word": "单依纯毕业了",
+      "onboard_time": 1720151417,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 605710,
@@ -3139,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473277,
+      "num": 473277,
+      "word": "杨幂月光白裙",
+      "onboard_time": 1720151058,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 472410,
       "num": 289834,
       "word": "张子墨 自摸哥",
@@ -3339,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448885,
+      "num": 448885,
+      "word": "苏炳添回应无缘巴黎奥运会",
+      "onboard_time": 1720149077,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446818,
       "num": 446818,
       "word": "卡琳娜官宣参加KKW",
@@ -3401,6 +3473,14 @@
       "onboard_time": 1719895402,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444637,
+      "num": 444637,
+      "word": "时代峰峻 场周",
+      "onboard_time": 1720151176,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 444369,
@@ -3795,14 +3875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403965,
-      "num": 403965,
-      "word": "苏炳添回应无缘巴黎奥运会",
-      "onboard_time": 1720149077,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 402318,
       "num": 402318,
       "word": "公安机关已调查涉江西银行不实信息",
@@ -3977,6 +4049,14 @@
       "onboard_time": 1719757880,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 388037,
+      "num": 388037,
+      "word": "赵今麦张凌赫 二搭",
+      "onboard_time": 1720152739,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 385734,
@@ -5547,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264804,
+      "num": 264804,
+      "word": "大马丁神了",
+      "onboard_time": 1720152019,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264652,
       "num": 264652,
       "word": "94年30岁很大吗",
@@ -5883,14 +5971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243005,
-      "num": 243005,
-      "word": "离职博主们集体回去上班了",
-      "onboard_time": 1720149976,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242748,
       "num": 242748,
       "word": "小鬼抓人和王源抓人对比",
@@ -6163,6 +6243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228293,
+      "num": 228293,
+      "word": "city不city的旅行到底是什么",
+      "onboard_time": 1720153279,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 228165,
       "num": 228165,
       "word": "李凯尔加盟勇士",
@@ -6353,6 +6441,14 @@
       "onboard_time": 1720012579,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219528,
+      "num": 219528,
+      "word": "小米公路车",
+      "onboard_time": 1720152919,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 219480,
@@ -6593,6 +6689,14 @@
       "onboard_time": 1720060758,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210604,
+      "num": 210604,
+      "word": "黑神话公司门口遭恶意涂鸦",
+      "onboard_time": 1720152858,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 209600,
@@ -6939,6 +7043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202350,
+      "num": 202350,
+      "word": "沈腾马丽合体憋笑可太难了",
+      "onboard_time": 1720151176,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202339,
       "num": 202339,
       "word": "马嘉祺工装风好A",
@@ -7105,6 +7217,14 @@
       "onboard_time": 1719933318,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199359,
+      "num": 199359,
+      "word": "阿根廷晋级4强",
+      "onboard_time": 1720151659,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 199292,
@@ -7457,6 +7577,14 @@
       "onboard_time": 1719973996,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192848,
+      "num": 192848,
+      "word": "哪种血型容易老年痴呆",
+      "onboard_time": 1720148417,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192786,
@@ -8051,6 +8179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181354,
+      "num": 181354,
+      "word": "家族运动会线下礼",
+      "onboard_time": 1720152440,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181308,
       "num": 181308,
       "word": "长相思2没有一个爱笑的",
@@ -8563,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168777,
-      "num": 168777,
-      "word": "哪种血型容易老年痴呆",
-      "onboard_time": 1720148417,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168771,
       "num": 168771,
       "word": "赵今麦叹气",
@@ -8585,6 +8713,14 @@
       "onboard_time": 1719898759,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168552,
+      "num": 168552,
+      "word": "上半年4000亿元资金涌入股票ETF",
+      "onboard_time": 1720151117,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 168426,
@@ -10379,6 +10515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137691,
+      "num": 137691,
+      "word": "决战平安京",
+      "onboard_time": 1720153400,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137677,
       "num": 137677,
       "word": "老外来中国旅游狂发好city啊",
@@ -10619,6 +10763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134387,
+      "num": 134387,
+      "word": "乘风2024年度总决选歌单",
+      "onboard_time": 1720152680,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134362,
       "num": 140020,
       "word": "580元演唱会门票被换到380元区域",
@@ -10793,6 +10945,14 @@
       "onboard_time": 1720095617,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132791,
+      "num": 132791,
+      "word": "英国首相苏纳克承认败选",
+      "onboard_time": 1720153459,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 132371,
@@ -12915,6 +13075,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 96410,
+      "num": 270004,
+      "word": "杭州80岁阿姨根本看不出80岁的原因",
+      "onboard_time": 1720151779,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95825,
       "num": 488496,
       "word": "记者起底假黄金黑色产业链",
@@ -13467,6 +13635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79664,
+      "num": 897025,
+      "word": "塔吉克斯坦10岁小朋友中文太溜了",
+      "onboard_time": 1720150039,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79245,
       "num": 855692,
       "word": "风清气正的网络环境是中国的名片",
@@ -13500,7 +13676,7 @@
     },
     {
       "raw_hot": 77953,
-      "num": 495062,
+      "num": 588339,
       "word": "我国成功发射天绘五号02组卫星",
       "onboard_time": 1720137255,
       "rank": 9,
@@ -13923,6 +14099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60799,
+      "num": 363786,
+      "word": "那些陪你跨过的人还在吗",
+      "onboard_time": 1720152199,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60722,
       "num": 60722,
       "word": "aespa MV预告",
@@ -14097,14 +14281,6 @@
       "onboard_time": 1719750258,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 55181,
-      "num": 892314,
-      "word": "塔吉克斯坦10岁小朋友中文太溜了",
-      "onboard_time": 1720150039,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55038,
@@ -15209,6 +15385,14 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22065,
+      "num": 271094,
+      "word": "校长在毕业典礼上渐入佳境",
+      "onboard_time": 1720153340,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 20713,
