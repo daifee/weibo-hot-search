@@ -1,0 +1,410 @@
+{
+  "runTime": 1720161629683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 580737,
+        "num": 580737,
+        "word": "即将成为英国新首相的斯塔默是谁",
+        "onboard_time": 1720154179,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 501371,
+        "num": 501371,
+        "word": "何洁解释郭碧婷忘动作",
+        "onboard_time": 1720156579,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51249,
+        "num": 485420,
+        "word": "塔吉克斯坦10岁小朋友中文太溜了",
+        "onboard_time": 1720150039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483210,
+        "num": 483210,
+        "word": "警方通报用生理盐水冒充HPV疫苗",
+        "onboard_time": 1720157600,
+        "rank": 3,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 454854,
+        "num": 454854,
+        "word": "斯塔默将成英国新首相",
+        "onboard_time": 1720153759,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438968,
+        "num": 438968,
+        "word": "英国政坛巨变要来了",
+        "onboard_time": 1720157899,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 430186,
+        "num": 430186,
+        "word": "宋雨琦条形码刘海",
+        "onboard_time": 1720158200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356081,
+        "num": 356081,
+        "word": "詹雯婷一审被判无罪",
+        "onboard_time": 1720151958,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354888,
+        "num": 354888,
+        "word": "郭敬明官宣两部剧",
+        "onboard_time": 1720160959,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113064,
+        "num": 353283,
+        "word": "英国首相八年换六任",
+        "onboard_time": 1720159218,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 843758,
+        "num": 350913,
+        "word": "公务员辞职读博6年后我退学了",
+        "onboard_time": 1720154719,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44790,
+        "num": 344230,
+        "word": "古天乐林更新穿越火线",
+        "onboard_time": 1720160357,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 689314,
+        "num": 342792,
+        "word": "胡歌和老婆同框照",
+        "onboard_time": 1720152799,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481633,
+        "num": 337726,
+        "word": "菲律宾撕票案李娜来自中国台湾",
+        "onboard_time": 1720160779,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471769,
+        "num": 336117,
+        "word": "宋亚轩 海胆头",
+        "onboard_time": 1720159758,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409797,
+        "num": 333062,
+        "word": "刘耀文脚受伤",
+        "onboard_time": 1720158737,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330005,
+        "num": 330005,
+        "word": "赵今麦张凌赫 二搭",
+        "onboard_time": 1720152739,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325021,
+        "num": 325021,
+        "word": "在菲绑架中国人团伙头目之一落网",
+        "onboard_time": 1720155560,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 301557,
+        "num": 301557,
+        "word": "饿瘦和运动瘦的区别是什么",
+        "onboard_time": 1720138877,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 278404,
+        "num": 278404,
+        "word": "公积金结息到账四位数",
+        "onboard_time": 1720135635,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 666703,
+        "num": 277087,
+        "word": "为什么年轻人开始流行两头婚",
+        "onboard_time": 1720157958,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347813,
+        "num": 269093,
+        "word": "中医建议减肥饿瘦不如补瘦",
+        "onboard_time": 1720154600,
+        "rank": 21,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 280338,
+        "num": 265179,
+        "word": "陈昊宇乘风年度总冠军感言",
+        "onboard_time": 1720157239,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86647,
+        "num": 262265,
+        "word": "真正的犬系男友",
+        "onboard_time": 1720157118,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257923,
+        "num": 257923,
+        "word": "世界之外",
+        "onboard_time": 1720160598,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241919,
+        "num": 241919,
+        "word": "女子创业失败欠80多万送外卖还钱",
+        "onboard_time": 1720160838,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238292,
+        "num": 238292,
+        "word": "姜爷爷见到福宝了",
+        "onboard_time": 1720147038,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234032,
+        "num": 234032,
+        "word": "贺峻霖直接聊上了",
+        "onboard_time": 1720160898,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15413,
+        "num": 233806,
+        "word": "黎巴嫩南部遭以色列白磷弹污染",
+        "onboard_time": 1720161079,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233785,
+        "num": 233785,
+        "word": "TF家族运动会",
+        "onboard_time": 1720154059,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210521,
+        "num": 210521,
+        "word": "郭敬明的霸总文学",
+        "onboard_time": 1720159938,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210817,
+        "num": 209035,
+        "word": "严浩翔饭撒",
+        "onboard_time": 1720159758,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206091,
+        "num": 206091,
+        "word": "小米公路车",
+        "onboard_time": 1720152919,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198559,
+        "num": 198559,
+        "word": "田曦薇花间提裙",
+        "onboard_time": 1720161079,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198547,
+        "num": 198547,
+        "word": "中南大学用小夭招生",
+        "onboard_time": 1720160478,
+        "rank": 34,
+        "category": "教育,作品衍生"
+      },
+      {
+        "raw_hot": 191376,
+        "num": 191376,
+        "word": "马嘉祺运动会举牌",
+        "onboard_time": 1720161199,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190780,
+        "num": 190780,
+        "word": "伊能静警告秦昊别带个儿子回家",
+        "onboard_time": 1720152258,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180783,
+        "num": 180783,
+        "word": "92岁老人24秒翻2米高大门出走",
+        "onboard_time": 1720155919,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177817,
+        "num": 177817,
+        "word": "离职博主们集体回去上班了",
+        "onboard_time": 1720149976,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175342,
+        "num": 175342,
+        "word": "翔霖一队",
+        "onboard_time": 1720144397,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167098,
+        "num": 167098,
+        "word": "中国奥运代表团购置移动空调",
+        "onboard_time": 1720161376,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161703,
+        "num": 161703,
+        "word": "TVB艺人最想合作的内地演员",
+        "onboard_time": 1720157780,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160360,
+        "num": 160360,
+        "word": "原来竹荪是这样采摘的",
+        "onboard_time": 1720156940,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159934,
+        "num": 159934,
+        "word": "朱志鑫俯卧撑",
+        "onboard_time": 1720159879,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159601,
+        "num": 159601,
+        "word": "10岁女孩晒出老年斑",
+        "onboard_time": 1720157479,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156634,
+        "num": 156634,
+        "word": "刚结婚就异地刚重逢就和好",
+        "onboard_time": 1720159399,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149975,
+        "num": 149975,
+        "word": "沙特王子接见Faker和chovy",
+        "onboard_time": 1720155800,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "苏新皓射箭",
+        "onboard_time": 1720161560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143740,
+        "num": 143740,
+        "word": "樱桃琥珀",
+        "onboard_time": 1720152199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "英国首相苏纳克承认败选",
+        "onboard_time": 1720153459,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}
