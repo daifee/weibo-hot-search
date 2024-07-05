@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720156721610,
+  "endTime": 1720157703411,
   "band_list": [
     {
       "raw_hot": 1602161,
@@ -139,8 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 714115,
-      "num": 714115,
+      "raw_hot": 722103,
+      "num": 722103,
       "word": "斯塔默将成英国新首相",
       "onboard_time": 1720153759,
       "rank": 24,
@@ -217,6 +217,14 @@
       "onboard_time": 1720143438,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 525949,
+      "num": 339683,
+      "word": "何洁解释郭碧婷忘动作",
+      "onboard_time": 1720156579,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 513467,
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333502,
+      "num": 240297,
+      "word": "中医建议减肥饿瘦不如补瘦",
+      "onboard_time": 1720154600,
+      "rank": 25,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 327704,
       "num": 327704,
       "word": "福宝带火韩国赴四川旅游",
@@ -459,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297015,
+      "num": 444488,
+      "word": "即将成为英国新首相的斯塔默是谁",
+      "onboard_time": 1720154179,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 290182,
       "num": 290182,
       "word": "你们幼儿班接不接婚庆啊",
@@ -507,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280118,
+      "num": 280118,
+      "word": "在菲绑架中国人团伙头目之一落网",
+      "onboard_time": 1720155560,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 275754,
       "num": 275754,
       "word": "妈妈回应儿子出生6个月长到22斤",
@@ -521,22 +553,6 @@
       "onboard_time": 1720145057,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263063,
-      "num": 240297,
-      "word": "中医建议减肥饿瘦不如补瘦",
-      "onboard_time": 1720154600,
-      "rank": 25,
-      "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 260615,
-      "num": 260615,
-      "word": "何洁解释郭碧婷忘动作",
-      "onboard_time": 1720156579,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 260300,
@@ -561,14 +577,6 @@
       "onboard_time": 1720144397,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242439,
-      "num": 444488,
-      "word": "即将成为英国新首相的斯塔默是谁",
-      "onboard_time": 1720154179,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 242306,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231372,
+      "num": 204750,
+      "word": "陈昊宇乘风年度总冠军感言",
+      "onboard_time": 1720157239,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228986,
       "num": 228986,
       "word": "小米公路车",
@@ -633,14 +649,6 @@
       "onboard_time": 1720148718,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 221194,
-      "num": 221194,
-      "word": "在菲绑架中国人团伙头目之一落网",
-      "onboard_time": 1720155560,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 218614,
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "92岁老人24秒翻2米高大门出走",
+      "onboard_time": 1720155919,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191505,
       "num": 191505,
       "word": "张凌赫镜头下的日出",
@@ -931,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168543,
+      "num": 168543,
+      "word": "沙特王子接见Faker和chovy",
+      "onboard_time": 1720155800,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168218,
       "num": 168218,
       "word": "王心凌玫瑰嫁纱重达十公斤",
@@ -939,20 +963,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165188,
-      "num": 165188,
-      "word": "沙特王子接见Faker和chovy",
-      "onboard_time": 1720155800,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164046,
       "num": 164046,
       "word": "广州地铁18号线沙溪站停止对外服务",
       "onboard_time": 1720105819,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162726,
+      "num": 162726,
+      "word": "原来竹荪是这样采摘的",
+      "onboard_time": 1720156940,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160212,
@@ -984,14 +1008,6 @@
       "word": "女子醉卧马路被轧身亡送人者认定无责",
       "onboard_time": 1720094838,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153569,
-      "num": 153569,
-      "word": "92岁老人24秒翻2米高大门出走",
-      "onboard_time": 1720155919,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122284,
+      "num": 122284,
+      "word": "石凯南京秒空",
+      "onboard_time": 1720157538,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120163,
       "num": 433175,
       "word": "那些陪你跨过的人还在吗",
@@ -1211,12 +1235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116982,
+      "num": 116982,
+      "word": "神魂颠倒",
+      "onboard_time": 1720157659,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115532,
       "num": 115532,
       "word": "用两只虾做三个菜",
       "onboard_time": 1720105459,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115088,
+      "num": 115088,
+      "word": "警方通报用生理盐水冒充HPV疫苗",
+      "onboard_time": 1720157600,
+      "rank": 47,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 114333,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1720148898,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52367,
+      "num": 122120,
+      "word": "真正的犬系男友",
+      "onboard_time": 1720157118,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 50311,

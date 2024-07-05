@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720156721610,
+  "endTime": 1720157703411,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 722103,
+      "num": 722103,
+      "word": "斯塔默将成英国新首相",
+      "onboard_time": 1720153759,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 720534,
       "num": 720534,
       "word": "怀疑乌尔善用了3D打印技术",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1719969438,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 714115,
-      "num": 714115,
-      "word": "斯塔默将成英国新首相",
-      "onboard_time": 1720153759,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 713919,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1719963316,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525949,
+      "num": 339683,
+      "word": "何洁解释郭碧婷忘动作",
+      "onboard_time": 1720156579,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 525355,
@@ -3955,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333502,
+      "num": 240297,
+      "word": "中医建议减肥饿瘦不如补瘦",
+      "onboard_time": 1720154600,
+      "rank": 25,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 333128,
       "num": 333128,
       "word": "巴勒斯坦男子在以监狱遭性虐待",
@@ -4315,6 +4331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297015,
+      "num": 444488,
+      "word": "即将成为英国新首相的斯塔默是谁",
+      "onboard_time": 1720154179,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 296895,
       "num": 296895,
       "word": "一声娘子梦回苍兰诀",
@@ -4587,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280118,
+      "num": 280118,
+      "word": "在菲绑架中国人团伙头目之一落网",
+      "onboard_time": 1720155560,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 280033,
       "num": 280033,
       "word": "绝区零",
@@ -4747,14 +4779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263063,
-      "num": 240297,
-      "word": "中医建议减肥饿瘦不如补瘦",
-      "onboard_time": 1720154600,
-      "rank": 25,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 262459,
       "num": 204218,
       "word": "李蓉差点18岁就要守寡",
@@ -4785,14 +4809,6 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260615,
-      "num": 260615,
-      "word": "何洁解释郭碧婷忘动作",
-      "onboard_time": 1720156579,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 260300,
@@ -5027,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242439,
-      "num": 444488,
-      "word": "即将成为英国新首相的斯塔默是谁",
-      "onboard_time": 1720154179,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 242306,
       "num": 242306,
       "word": "黑神话公司门口遭恶意涂鸦",
@@ -5235,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231372,
+      "num": 204750,
+      "word": "陈昊宇乘风年度总冠军感言",
+      "onboard_time": 1720157239,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231260,
       "num": 439227,
       "word": "下半年最想实现的心愿",
@@ -5417,14 +5433,6 @@
       "onboard_time": 1719830359,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221194,
-      "num": 221194,
-      "word": "在菲绑架中国人团伙头目之一落网",
-      "onboard_time": 1720155560,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 220662,
@@ -6411,6 +6419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "92岁老人24秒翻2米高大门出走",
+      "onboard_time": 1720155919,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191505,
       "num": 191505,
       "word": "张凌赫镜头下的日出",
@@ -7363,6 +7379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168543,
+      "num": 168543,
+      "word": "沙特王子接见Faker和chovy",
+      "onboard_time": 1720155800,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "特斯拉市值一夜大涨近2800亿元",
@@ -7459,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165188,
-      "num": 165188,
-      "word": "沙特王子接见Faker和chovy",
-      "onboard_time": 1720155800,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165162,
       "num": 165162,
       "word": "坠落春夜",
@@ -7537,6 +7553,14 @@
       "onboard_time": 1720099879,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162726,
+      "num": 162726,
+      "word": "原来竹荪是这样采摘的",
+      "onboard_time": 1720156940,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 162557,
@@ -8033,14 +8057,6 @@
       "onboard_time": 1719811160,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153569,
-      "num": 153569,
-      "word": "92岁老人24秒翻2米高大门出走",
-      "onboard_time": 1720155919,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153127,
@@ -9963,6 +9979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122284,
+      "num": 122284,
+      "word": "石凯南京秒空",
+      "onboard_time": 1720157538,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122057,
       "num": 122057,
       "word": "沙溪站",
@@ -10227,6 +10251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116982,
+      "num": 116982,
+      "word": "神魂颠倒",
+      "onboard_time": 1720157659,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116826,
       "num": 116826,
       "word": "滕哈格续约曼联",
@@ -10305,6 +10337,14 @@
       "onboard_time": 1719923777,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115088,
+      "num": 115088,
+      "word": "警方通报用生理盐水冒充HPV疫苗",
+      "onboard_time": 1720157600,
+      "rank": 47,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 114711,
@@ -11953,6 +11993,14 @@
       "onboard_time": 1720014258,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52367,
+      "num": 122120,
+      "word": "真正的犬系男友",
+      "onboard_time": 1720157118,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 51431,
