@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720147508123,
+  "endTime": 1720149694922,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1232862,
+      "num": 1232862,
+      "word": "姜爷爷见到福宝了",
+      "onboard_time": 1720147038,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1224152,
       "num": 238702,
       "word": "坚持裸睡1年身体会有什么变化",
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 991967,
-      "num": 682151,
+      "num": 859737,
       "word": "饿瘦和运动瘦的区别是什么",
       "onboard_time": 1720138877,
       "rank": 22,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 981448,
-      "num": 240421,
+      "num": 270314,
       "word": "在派出所被拖进女厕群殴男子发声",
       "onboard_time": 1720135696,
       "rank": 38,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1719907279,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 820643,
+      "num": 395009,
+      "word": "普京称更希望拜登担任美国总统",
+      "onboard_time": 1720147397,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 819961,
@@ -2292,7 +2308,7 @@
     },
     {
       "raw_hot": 567182,
-      "num": 241433,
+      "num": 279053,
       "word": "金毛 同居多年没看清过室友的模样",
       "onboard_time": 1720144576,
       "rank": 20,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1719833298,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 556737,
+      "num": 556737,
+      "word": "专家称A股100万点可期",
+      "onboard_time": 1720147457,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 556467,
@@ -2731,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507713,
+      "num": 507713,
+      "word": "谢娜主持乘风决赛",
+      "onboard_time": 1720146976,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507612,
       "num": 507612,
       "word": "穿袜子睡觉可以提高睡眠质量",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1719883938,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485644,
-      "num": 485644,
-      "word": "姜爷爷见到福宝了",
-      "onboard_time": 1720147038,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485026,
@@ -3779,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401655,
+      "num": 401655,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1720143316,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401559,
       "num": 401559,
       "word": "菲方向中国索赔撞船损失100万美元",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1719979338,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392703,
+      "num": 392703,
+      "word": "于正送王星越和吴谨言的手串对比",
+      "onboard_time": 1720146616,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 391987,
@@ -3995,6 +4035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 380017,
+      "num": 380017,
+      "word": "爱你官宣杀青",
+      "onboard_time": 1720148179,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379860,
       "num": 379860,
       "word": "白鹿对接发声明",
@@ -4072,14 +4120,6 @@
       "word": "杨紫后悔没带泡面去巴黎",
       "onboard_time": 1719756319,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 370327,
-      "num": 370327,
-      "word": "于正送王星越和吴谨言的手串对比",
-      "onboard_time": 1720146616,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -5067,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294283,
+      "num": 294283,
+      "word": "张真源和谁一组",
+      "onboard_time": 1720148837,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293910,
       "num": 293910,
       "word": "种地吧",
@@ -5121,14 +5169,6 @@
       "onboard_time": 1719849918,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291592,
-      "num": 291592,
-      "word": "谢娜主持乘风决赛",
-      "onboard_time": 1720146976,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 291452,
@@ -5201,6 +5241,14 @@
       "onboard_time": 1719926478,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288641,
+      "num": 288641,
+      "word": "菲律宾一华人男子疑遭绑架杀害",
+      "onboard_time": 1720145478,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288256,
@@ -5635,6 +5683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253748,
+      "num": 253748,
+      "word": "李玟曾说希望中国音乐走向全世界",
+      "onboard_time": 1720145057,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253650,
       "num": 162761,
       "word": "范丞丞说第一次在新说唱闻到血腥味",
@@ -5777,14 +5833,6 @@
       "onboard_time": 1719982699,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245509,
-      "num": 245509,
-      "word": "李玟曾说希望中国音乐走向全世界",
-      "onboard_time": 1720145057,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 245375,
@@ -5937,14 +5985,6 @@
       "onboard_time": 1719812299,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236467,
-      "num": 236467,
-      "word": "菲律宾一华人男子疑遭绑架杀害",
-      "onboard_time": 1720145478,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235938,
@@ -6163,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225420,
+      "num": 225420,
+      "word": "我妻善逸 哭颜第一",
+      "onboard_time": 1720148837,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 225041,
       "num": 225041,
       "word": "子女的心寒是父母站在对立面",
@@ -6193,6 +6241,22 @@
       "onboard_time": 1719891559,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222964,
+      "num": 222964,
+      "word": "苏炳添回应无缘巴黎奥运会",
+      "onboard_time": 1720149077,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222386,
+      "num": 202457,
+      "word": "Doinb说BLG输T1不是坏事",
+      "onboard_time": 1720148718,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 222382,
@@ -6435,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214973,
+      "num": 214973,
+      "word": "炉甘石洗剂比花露水更安全吗",
+      "onboard_time": 1720146797,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214690,
       "num": 214690,
       "word": "陈乔恩拿了长公主的扇子",
@@ -6497,6 +6569,14 @@
       "onboard_time": 1719984617,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213622,
+      "num": 213622,
+      "word": "虎鲸竟然会伸舌头",
+      "onboard_time": 1720147637,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 213403,
@@ -6729,6 +6809,14 @@
       "onboard_time": 1719973638,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204688,
+      "num": 204688,
+      "word": "陈瑶古子成新剧刚同居就开虐",
+      "onboard_time": 1720148598,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204603,
@@ -7059,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198913,
+      "num": 198913,
+      "word": "美洲杯",
+      "onboard_time": 1719715276,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198697,
       "num": 198697,
       "word": "萌兰和花和叶表情包九宫格",
@@ -7379,6 +7475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191568,
+      "num": 191568,
+      "word": "错位定档",
+      "onboard_time": 1720149497,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191505,
       "num": 191505,
       "word": "张凌赫镜头下的日出",
@@ -7443,20 +7547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190625,
+      "num": 190625,
+      "word": "乘风总决选COSMO红毯大片",
+      "onboard_time": 1720149019,
+      "rank": 35,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 190497,
       "num": 182447,
       "word": "张若昀钓鱼永不空军",
       "onboard_time": 1719725238,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190371,
-      "num": 190371,
-      "word": "阿根廷vs厄瓜多尔",
-      "onboard_time": 1720143316,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 190298,
@@ -8208,6 +8312,14 @@
       "word": "赵今麦这场戏演爽了",
       "onboard_time": 1719905178,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175261,
+      "num": 175261,
+      "word": "于正透露临江仙OST阵容",
+      "onboard_time": 1720149317,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -9443,6 +9555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "TF家族陆续到达澳门",
+      "onboard_time": 1720149199,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148502,
       "num": 148502,
       "word": "骂领导的信息不小心发给领导了",
@@ -9785,6 +9905,14 @@
       "onboard_time": 1720093939,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143629,
+      "num": 143629,
+      "word": "灌篮高手重映定档",
+      "onboard_time": 1720147637,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 143538,
@@ -10443,6 +10571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134722,
+      "num": 134722,
+      "word": "哪种血型容易老年痴呆",
+      "onboard_time": 1720148417,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134699,
       "num": 134699,
       "word": "张韶涵献唱默杀推广曲",
@@ -10691,14 +10827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131774,
-      "num": 131774,
-      "word": "普京称更希望拜登担任美国总统",
-      "onboard_time": 1720147397,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 131758,
       "num": 131758,
       "word": "张志杰晕倒后应由谁第一时间急救",
@@ -10793,14 +10921,6 @@
       "onboard_time": 1720089319,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130637,
-      "num": 130637,
-      "word": "炉甘石洗剂比花露水更安全吗",
-      "onboard_time": 1720146797,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130378,
@@ -11843,14 +11963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114823,
-      "num": 114823,
-      "word": "专家称A股100万点可期",
-      "onboard_time": 1720147457,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114783,
       "num": 114783,
       "word": "蔡依林演唱会",
@@ -12168,14 +12280,6 @@
       "word": "商竣程状态",
       "onboard_time": 1720106420,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 109973,
-      "num": 109973,
-      "word": "美洲杯",
-      "onboard_time": 1719715276,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -13379,6 +13483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77953,
+      "num": 395799,
+      "word": "我国成功发射天绘五号02组卫星",
+      "onboard_time": 1720137255,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77414,
       "num": 323259,
       "word": "夏日流萤一键开启童话世界",
@@ -13897,6 +14009,14 @@
       "onboard_time": 1719979819,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 57679,
+      "num": 747295,
+      "word": "玫瑰之城的欢迎仪式太盛大了",
+      "onboard_time": 1720148718,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57562,
