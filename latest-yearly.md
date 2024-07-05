@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/05 22:35:29
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/05 23:21:21
 </p>
 </blockquote>
 <p>
@@ -777,6 +777,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：6542768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B0%81%E8%AF%B4%E6%88%91%E6%98%AF%E6%96%91%E7%82%B9%E7%8B%97%23" target="weibo">
 赵露思 谁说我是斑点狗（热度：6470111）
 </a>
@@ -893,12 +899,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87ins%23" target="weibo">
 柳鑫宇ins（热度：5485734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
-歌手排名（热度：5439867）
 </a>
 </li>
 

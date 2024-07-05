@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720190129138,
+  "endTime": 1720192881216,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -17,6 +17,14 @@
       "onboard_time": 1719792137,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6542768,
+      "num": 6542768,
+      "word": "歌手排名",
+      "onboard_time": 1720190242,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2816859,
@@ -193,6 +201,14 @@
       "onboard_time": 1719994397,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1680168,
+      "num": 1680168,
+      "word": "Lenka袭榜",
+      "onboard_time": 1720191022,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1669454,
@@ -451,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1345153,
+      "num": 1345153,
+      "word": "袁娅维淘汰",
+      "onboard_time": 1720190181,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1341805,
       "num": 1341805,
       "word": "DK",
@@ -577,6 +601,14 @@
       "onboard_time": 1719887898,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1183414,
+      "num": 1183414,
+      "word": "洞庭湖决堤",
+      "onboard_time": 1720189881,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1183136,
@@ -961,6 +993,14 @@
       "onboard_time": 1720188382,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911743,
+      "num": 408124,
+      "word": "端木磊带楚雨荨在火锅店吃西餐",
+      "onboard_time": 1720191561,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 910711,
@@ -2139,6 +2179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 595907,
+      "num": 230370,
+      "word": "香缇莫第八",
+      "onboard_time": 1720190181,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593393,
       "num": 593393,
       "word": "赵今麦张凌赫 二搭",
@@ -3315,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449652,
+      "num": 449652,
+      "word": "菲律宾4名持枪歹徒绑架中国人",
+      "onboard_time": 1720189641,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449549,
       "num": 398759,
       "word": "蔡文静给穿戴甲买公寓",
@@ -4379,6 +4435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350259,
+      "num": 350259,
+      "word": "警方通报西安交大毕业生李某某事件",
+      "onboard_time": 1720191921,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350212,
       "num": 350212,
       "word": "王曼昱说没参加单打有些遗憾",
@@ -4697,6 +4761,14 @@
       "onboard_time": 1719889397,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322311,
+      "num": 229417,
+      "word": "东方树叶 第八",
+      "onboard_time": 1720192279,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 321965,
@@ -5619,14 +5691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254064,
-      "num": 254064,
-      "word": "菲律宾4名持枪歹徒绑架中国人",
-      "onboard_time": 1720189641,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253635,
       "num": 253635,
       "word": "保罗签约马刺",
@@ -6051,6 +6115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231482,
+      "num": 231482,
+      "word": "AG对战KSG",
+      "onboard_time": 1720190362,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231414,
       "num": 231414,
       "word": "丁程鑫运动会内场路透",
@@ -6145,6 +6217,14 @@
       "onboard_time": 1719999978,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 226639,
+      "num": 226639,
+      "word": "早上空腹喝水真比不吃早餐危害大吗",
+      "onboard_time": 1720192222,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226625,
@@ -6419,14 +6499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216239,
-      "num": 216239,
-      "word": "洞庭湖决堤",
-      "onboard_time": 1720189881,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -6481,6 +6553,14 @@
       "onboard_time": 1720009639,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214588,
+      "num": 224078,
+      "word": "原来全红婵也在看热搜",
+      "onboard_time": 1720191261,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 214493,
@@ -7219,12 +7299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196853,
+      "num": 196853,
+      "word": "德国vs西班牙",
+      "onboard_time": 1720192642,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196825,
       "num": 196825,
       "word": "山东通报龙卷风极端天气",
       "onboard_time": 1720176801,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196812,
+      "num": 190006,
+      "word": "王嘉尔说100万人用1个小风扇",
+      "onboard_time": 1720191441,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 196716,
@@ -7617,6 +7713,14 @@
       "onboard_time": 1719830897,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189560,
+      "num": 436986,
+      "word": "周深说历史总是惊人相似",
+      "onboard_time": 1720192279,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 189514,
@@ -8579,6 +8683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167235,
+      "num": 167235,
+      "word": "法国vs葡萄牙",
+      "onboard_time": 1720192820,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166968,
       "num": 166968,
       "word": "发现身边真的好多人在重启人生",
@@ -9036,7 +9148,7 @@
     },
     {
       "raw_hot": 156959,
-      "num": 156959,
+      "num": 190023,
       "word": "度华年",
       "onboard_time": 1719754639,
       "rank": 36,
@@ -9075,12 +9187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156826,
+      "num": 156826,
+      "word": "睡前不刷牙将是对牙齿的恐怖待遇",
+      "onboard_time": 1720192040,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156824,
       "num": 156824,
       "word": "莎头",
       "onboard_time": 1720161857,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156702,
+      "num": 156702,
+      "word": "那英念了发型热搜",
+      "onboard_time": 1720191141,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 156683,
@@ -14483,6 +14611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23024,
+      "num": 421701,
+      "word": "神十七乘组太空归来后正式亮相",
+      "onboard_time": 1720192279,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22379,
       "num": 30453,
       "word": "薛之谦演唱会完整互动",
@@ -14819,6 +14955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 8846,
+      "num": 1484456,
+      "word": "原产于中国的杏树种满了塔吉克斯坦",
+      "onboard_time": 1720169117,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8408,
       "num": 40324,
       "word": "这场交警和学生的雨伞接力好暖心",
@@ -14832,6 +14976,14 @@
       "word": "纽约华人美甲店遭车撞入致4死9伤",
       "onboard_time": 1719890420,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6389,
+      "num": 233277,
+      "word": "上合组织有哪些成员国",
+      "onboard_time": 1720097538,
+      "rank": 18,
       "category": "社会新闻"
     }
   ],
@@ -14943,6 +15095,9 @@
     },
     {
       "word": "#习主席哈萨克斯坦之行令人难忘的细节#"
+    },
+    {
+      "word": "#习近平同塔吉克斯坦总统举行会谈#"
     }
   ]
 }
