@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720218959548,
+  "endTime": 1720221572139,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1627,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 796342,
+      "num": 796342,
+      "word": "C罗",
+      "onboard_time": 1720216812,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 794898,
       "num": 794898,
       "word": "西宁通报2名15岁学生先后因病离世",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1719969438,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 717094,
-      "num": 717094,
-      "word": "C罗",
-      "onboard_time": 1720216812,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 713919,
@@ -2305,6 +2305,14 @@
       "onboard_time": 1720082657,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628271,
+      "num": 628271,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625824,
@@ -3057,14 +3065,6 @@
       "onboard_time": 1720102639,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 540133,
-      "num": 540133,
-      "word": "首批武警已抵达洞庭湖开始救援",
-      "onboard_time": 1720197798,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539842,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1719966437,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460357,
+      "num": 460357,
+      "word": "葡萄牙3比5法国",
+      "onboard_time": 1720217353,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 459902,
@@ -8123,14 +8131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205253,
-      "num": 205253,
-      "word": "葡萄牙3比5法国",
-      "onboard_time": 1720217353,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205229,
       "num": 205229,
       "word": "屠丽国漫蒲草型女主",
@@ -9507,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185455,
+      "num": 185455,
+      "word": "葡萄牙欧洲杯出局",
+      "onboard_time": 1720221254,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185373,
       "num": 185373,
       "word": "那英音色",
@@ -9577,6 +9585,14 @@
       "onboard_time": 1719889637,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "C罗欧洲杯最后一舞",
+      "onboard_time": 1720220953,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 184130,
@@ -11099,6 +11115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154790,
+      "num": 154790,
+      "word": "西班牙加时绝杀",
+      "onboard_time": 1720212130,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154604,
       "num": 154604,
       "word": "科目三没等安全员自己把车开走了",
@@ -11737,6 +11761,14 @@
       "onboard_time": 1720002978,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144175,
+      "num": 144175,
+      "word": "西班牙晋级欧洲杯半决赛",
+      "onboard_time": 1720221194,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 144158,
@@ -13099,6 +13131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127777,
+      "num": 127777,
+      "word": "德国欧洲杯出局",
+      "onboard_time": 1720221194,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127763,
       "num": 127763,
       "word": "裴文宣李蓉野猫哪有家猫香",
@@ -13881,14 +13921,6 @@
       "onboard_time": 1720182500,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 118834,
-      "num": 118834,
-      "word": "西班牙加时绝杀",
-      "onboard_time": 1720212130,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 118675,
@@ -15163,6 +15195,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 96014,
+      "num": 96014,
+      "word": "原来宝宝真的比甲方还难伺候",
+      "onboard_time": 1720215911,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 95825,
       "num": 488496,
       "word": "记者起底假黄金黑色产业链",
@@ -15217,6 +15257,14 @@
       "onboard_time": 1719751159,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94682,
+      "num": 94682,
+      "word": "小暑",
+      "onboard_time": 1720221494,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94619,
@@ -15987,6 +16035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68772,
+      "num": 68772,
+      "word": "今年的三伏40天",
+      "onboard_time": 1720221494,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 68765,
       "num": 318802,
       "word": "外国女子突发疾病还好遇上中国医生",
@@ -16123,6 +16179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64960,
+      "num": 64960,
+      "word": "为啥人民币没有7元8元9元面值",
+      "onboard_time": 1720205052,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64761,
       "num": 64761,
       "word": "肾虚不虚看这5个地方就知道",
@@ -16177,6 +16241,22 @@
       "onboard_time": 1719714558,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 63479,
+      "num": 63479,
+      "word": "西班牙2比1德国",
+      "onboard_time": 1720221555,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63373,
+      "num": 63373,
+      "word": "贺炜致敬C罗佩佩",
+      "onboard_time": 1720221494,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 63302,
@@ -16305,6 +16385,14 @@
       "onboard_time": 1720074018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59887,
+      "num": 59887,
+      "word": "法国晋级欧洲杯半决赛",
+      "onboard_time": 1720221315,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 59705,
@@ -16515,14 +16603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51550,
-      "num": 51550,
-      "word": "为啥人民币没有7元8元9元面值",
-      "onboard_time": 1720205052,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 51431,
       "num": 290507,
       "word": "南京这水晶天city不city",
@@ -16537,14 +16617,6 @@
       "onboard_time": 1720188382,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50795,
-      "num": 50795,
-      "word": "原来宝宝真的比甲方还难伺候",
-      "onboard_time": 1720215911,
-      "rank": 39,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 50714,
@@ -17379,6 +17451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30440,
+      "num": 235150,
+      "word": "锦旗寄到医院大家才知道她救了个人",
+      "onboard_time": 1720221134,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30327,
       "num": 30327,
       "word": "能玩到一起全是因为长了张嘴",
@@ -17545,6 +17625,14 @@
       "onboard_time": 1719855553,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26621,
+      "num": 71554,
+      "word": "饲养员摆喜宴给企鹅办集体婚礼",
+      "onboard_time": 1720217412,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26602,
@@ -17760,14 +17848,6 @@
       "word": "韩国幼儿园老师吐槽学生家长太笨",
       "onboard_time": 1719891080,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20587,
-      "num": 71554,
-      "word": "饲养员摆喜宴给企鹅办集体婚礼",
-      "onboard_time": 1720217412,
-      "rank": 20,
       "category": "社会新闻"
     },
     {

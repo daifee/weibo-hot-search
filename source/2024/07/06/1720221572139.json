@@ -1,0 +1,410 @@
+{
+  "runTime": 1720221572139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796342,
+        "num": 796342,
+        "word": "C罗",
+        "onboard_time": 1720216812,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628271,
+        "num": 628271,
+        "word": "首批武警已抵达洞庭湖开始救援",
+        "onboard_time": 1720197798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25481,
+        "num": 590050,
+        "word": "友谊勋章藏着多少设计细节",
+        "onboard_time": 1720193000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581704,
+        "num": 581704,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460357,
+        "num": 460357,
+        "word": "葡萄牙3比5法国",
+        "onboard_time": 1720217353,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331033,
+        "num": 331033,
+        "word": "袁娅维是不是被算错票了",
+        "onboard_time": 1720196357,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330619,
+        "num": 330619,
+        "word": "CoCo回应员工边做边吃",
+        "onboard_time": 1720195818,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307124,
+        "num": 307124,
+        "word": "宾馆老板见男子带幼女开房立刻报警",
+        "onboard_time": 1720183760,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300848,
+        "num": 300848,
+        "word": "菲利克斯",
+        "onboard_time": 1720216992,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30440,
+        "num": 235150,
+        "word": "锦旗寄到医院大家才知道她救了个人",
+        "onboard_time": 1720221134,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475196,
+        "num": 235017,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231687,
+        "num": 231687,
+        "word": "飞机起飞4名贵宾室旅客被遗忘机场",
+        "onboard_time": 1720188382,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185455,
+        "num": 185455,
+        "word": "葡萄牙欧洲杯出局",
+        "onboard_time": 1720221254,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184169,
+        "num": 184169,
+        "word": "C罗欧洲杯最后一舞",
+        "onboard_time": 1720220953,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162841,
+        "num": 162841,
+        "word": "葡萄牙vs法国",
+        "onboard_time": 1720192820,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159246,
+        "num": 159246,
+        "word": "歌手排名",
+        "onboard_time": 1720190242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154790,
+        "num": 154790,
+        "word": "西班牙加时绝杀",
+        "onboard_time": 1720212130,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146305,
+        "num": 146305,
+        "word": "西班牙vs德国",
+        "onboard_time": 1720192642,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144175,
+        "num": 144175,
+        "word": "西班牙晋级欧洲杯半决赛",
+        "onboard_time": 1720221194,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130054,
+        "num": 130054,
+        "word": "欧洲杯",
+        "onboard_time": 1720197257,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559519,
+        "num": 129847,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148536,
+        "num": 129660,
+        "word": "睡前不刷牙将是对牙齿的恐怖待遇",
+        "onboard_time": 1720192040,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127777,
+        "num": 127777,
+        "word": "德国欧洲杯出局",
+        "onboard_time": 1720221194,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114986,
+        "num": 114986,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111722,
+        "num": 111722,
+        "word": "那英发型 抄袭陶喆",
+        "onboard_time": 1720184841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109351,
+        "num": 109351,
+        "word": "原来午睡不一定非要睡着",
+        "onboard_time": 1720195279,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105878,
+        "num": 105878,
+        "word": "洞庭湖",
+        "onboard_time": 1720183820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105335,
+        "num": 105335,
+        "word": "德国",
+        "onboard_time": 1720205592,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103645,
+        "num": 103645,
+        "word": "东方树叶 第八",
+        "onboard_time": 1720192279,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100939,
+        "num": 100939,
+        "word": "邓超晒孙俪给他烤的肉",
+        "onboard_time": 1720187242,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96014,
+        "num": 96014,
+        "word": "原来宝宝真的比甲方还难伺候",
+        "onboard_time": 1720215911,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 94682,
+        "num": 94682,
+        "word": "小暑",
+        "onboard_time": 1720221494,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87594,
+        "num": 87594,
+        "word": "TES晋级电竞世界杯四强",
+        "onboard_time": 1720205232,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83062,
+        "num": 83062,
+        "word": "男子中751万彩票藏枕头下半月才兑奖",
+        "onboard_time": 1720178898,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70607,
+        "num": 70607,
+        "word": "TES",
+        "onboard_time": 1720195099,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69173,
+        "num": 69173,
+        "word": "TES战胜GEN",
+        "onboard_time": 1720199474,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68772,
+        "num": 68772,
+        "word": "今年的三伏40天",
+        "onboard_time": 1720221494,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 65882,
+        "num": 65882,
+        "word": "袁娅维已经1个月没5点前睡觉了",
+        "onboard_time": 1720193659,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64960,
+        "num": 64960,
+        "word": "为啥人民币没有7元8元9元面值",
+        "onboard_time": 1720205052,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64501,
+        "num": 64501,
+        "word": "Bin",
+        "onboard_time": 1720200541,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64186,
+        "num": 64186,
+        "word": "西班牙",
+        "onboard_time": 1720205592,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63558,
+        "num": 63558,
+        "word": "香缇莫第八",
+        "onboard_time": 1720190181,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63479,
+        "num": 63479,
+        "word": "西班牙2比1德国",
+        "onboard_time": 1720221555,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63373,
+        "num": 63373,
+        "word": "贺炜致敬C罗佩佩",
+        "onboard_time": 1720221494,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61199,
+        "num": 61199,
+        "word": "警方通报西安交大毕业生李某某事件",
+        "onboard_time": 1720191921,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59887,
+        "num": 59887,
+        "word": "法国晋级欧洲杯半决赛",
+        "onboard_time": 1720221315,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26621,
+        "num": 59671,
+        "word": "饲养员摆喜宴给企鹅办集体婚礼",
+        "onboard_time": 1720217412,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61686,
+        "num": 59611,
+        "word": "香缇莫 袁咏琳",
+        "onboard_time": 1720183161,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59541,
+        "num": 59541,
+        "word": "汪苏泷 甜妹",
+        "onboard_time": 1720186461,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56846,
+        "num": 56846,
+        "word": "王嘉尔说100万人用1个小风扇",
+        "onboard_time": 1720191441,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#在更高起点上构建中塔命运共同体#"
+    }
+  }
+}

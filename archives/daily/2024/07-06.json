@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720218959548,
+  "endTime": 1720221572139,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -51,19 +51,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796342,
+      "num": 796342,
+      "word": "C罗",
+      "onboard_time": 1720216812,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 736796,
       "num": 736796,
       "word": "西班牙vs德国",
       "onboard_time": 1720192642,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 717094,
-      "num": 717094,
-      "word": "C罗",
-      "onboard_time": 1720216812,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -81,6 +81,14 @@
       "onboard_time": 1720192222,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 628271,
+      "num": 628271,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598829,
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540133,
-      "num": 540133,
-      "word": "首批武警已抵达洞庭湖开始救援",
-      "onboard_time": 1720197798,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519487,
       "num": 519487,
       "word": "东方树叶 第八",
@@ -137,6 +137,14 @@
       "onboard_time": 1720191921,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460357,
+      "num": 460357,
+      "word": "葡萄牙3比5法国",
+      "onboard_time": 1720217353,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 446043,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307124,
+      "num": 307124,
+      "word": "宾馆老板见男子带幼女开房立刻报警",
+      "onboard_time": 1720183760,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276156,
       "num": 276156,
       "word": "袁娅维淘汰",
@@ -227,27 +243,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 257749,
-      "num": 257749,
-      "word": "宾馆老板见男子带幼女开房立刻报警",
-      "onboard_time": 1720183760,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208498,
       "num": 208498,
       "word": "西班牙",
       "onboard_time": 1720205592,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 205253,
-      "num": 205253,
-      "word": "葡萄牙3比5法国",
-      "onboard_time": 1720217353,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -273,6 +273,22 @@
       "onboard_time": 1720193121,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185455,
+      "num": 185455,
+      "word": "葡萄牙欧洲杯出局",
+      "onboard_time": 1720221254,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "C罗欧洲杯最后一舞",
+      "onboard_time": 1720220953,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 182761,
@@ -331,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154790,
+      "num": 154790,
+      "word": "西班牙加时绝杀",
+      "onboard_time": 1720212130,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154393,
       "num": 154393,
       "word": "邓超晒孙俪给他烤的肉",
@@ -353,6 +377,14 @@
       "onboard_time": 1720180040,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144175,
+      "num": 144175,
+      "word": "西班牙晋级欧洲杯半决赛",
+      "onboard_time": 1720221194,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 140348,
@@ -395,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127777,
+      "num": 127777,
+      "word": "德国欧洲杯出局",
+      "onboard_time": 1720221194,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "宋雨琦ins发文",
@@ -433,14 +473,6 @@
       "onboard_time": 1720182920,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118834,
-      "num": 118834,
-      "word": "西班牙加时绝杀",
-      "onboard_time": 1720212130,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 117985,
@@ -539,6 +571,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96014,
+      "num": 96014,
+      "word": "原来宝宝真的比甲方还难伺候",
+      "onboard_time": 1720215911,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 94682,
+      "num": 94682,
+      "word": "小暑",
+      "onboard_time": 1720221494,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91462,
       "num": 91462,
       "word": "姆巴佩面对C罗正式比赛0进球",
@@ -563,6 +611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68772,
+      "num": 68772,
+      "word": "今年的三伏40天",
+      "onboard_time": 1720221494,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 64960,
+      "num": 64960,
+      "word": "为啥人民币没有7元8元9元面值",
+      "onboard_time": 1720205052,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64710,
       "num": 70513,
       "word": "朱丹乘风4个月掉了14斤",
@@ -571,20 +635,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51550,
-      "num": 51550,
-      "word": "为啥人民币没有7元8元9元面值",
-      "onboard_time": 1720205052,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 63479,
+      "num": 63479,
+      "word": "西班牙2比1德国",
+      "onboard_time": 1720221555,
+      "rank": 42,
+      "category": "体育"
     },
     {
-      "raw_hot": 50795,
-      "num": 50795,
-      "word": "原来宝宝真的比甲方还难伺候",
-      "onboard_time": 1720215911,
-      "rank": 39,
-      "category": "母婴育儿"
+      "raw_hot": 63373,
+      "num": 63373,
+      "word": "贺炜致敬C罗佩佩",
+      "onboard_time": 1720221494,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59887,
+      "num": 59887,
+      "word": "法国晋级欧洲杯半决赛",
+      "onboard_time": 1720221315,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 47783,
@@ -635,7 +707,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20587,
+      "raw_hot": 30440,
+      "num": 235150,
+      "word": "锦旗寄到医院大家才知道她救了个人",
+      "onboard_time": 1720221134,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26621,
       "num": 71554,
       "word": "饲养员摆喜宴给企鹅办集体婚礼",
       "onboard_time": 1720217412,
