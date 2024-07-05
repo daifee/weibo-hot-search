@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720142503940,
+  "endTime": 1720143748785,
   "band_list": [
     {
       "raw_hot": 1602161,
@@ -19,20 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998784,
+      "num": 282243,
+      "word": "孙海洋称孙卓高考成绩比预想好",
+      "onboard_time": 1720142237,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 991967,
+      "num": 188015,
+      "word": "饿瘦和运动瘦的区别是什么",
+      "onboard_time": 1720138877,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 981448,
       "num": 189362,
       "word": "在派出所被拖进女厕群殴男子发声",
       "onboard_time": 1720135696,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915252,
-      "num": 188015,
-      "word": "饿瘦和运动瘦的区别是什么",
-      "onboard_time": 1720138877,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 868176,
@@ -75,8 +83,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 553972,
-      "num": 553972,
+      "raw_hot": 566790,
+      "num": 566790,
       "word": "李玟逝世一周年",
       "onboard_time": 1720140500,
       "rank": 3,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418092,
+      "num": 186963,
+      "word": "原来旅游时花钱可以这么有尊严",
+      "onboard_time": 1720140199,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 402519,
       "num": 315477,
       "word": "中金",
@@ -131,16 +147,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 353796,
-      "num": 186963,
-      "word": "原来旅游时花钱可以这么有尊严",
-      "onboard_time": 1720140199,
-      "rank": 23,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 343339,
-      "num": 314863,
+      "raw_hot": 345437,
+      "num": 345437,
       "word": "Bin 又版本了",
       "onboard_time": 1720137319,
       "rank": 11,
@@ -163,7 +171,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311098,
+      "raw_hot": 315580,
       "num": 311098,
       "word": "面筋哥完成肝移植手术已苏醒",
       "onboard_time": 1720139658,
@@ -203,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285373,
+      "num": 285373,
+      "word": "TF家族夏日运动会分队官宣",
+      "onboard_time": 1720138698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282530,
       "num": 282530,
       "word": "韩语专业生就业方向",
@@ -233,22 +249,6 @@
       "onboard_time": 1720132092,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228667,
-      "num": 228667,
-      "word": "TF家族夏日运动会分队官宣",
-      "onboard_time": 1720138698,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 221353,
-      "num": 167678,
-      "word": "孙海洋称孙卓高考成绩比预想好",
-      "onboard_time": 1720142237,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 218614,
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190371,
+      "num": 190371,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1720143316,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190220,
       "num": 190220,
       "word": "BLG还有复仇的机会",
@@ -347,6 +355,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184968,
+      "num": 169961,
+      "word": "BLG的钥匙当场被碾压",
+      "onboard_time": 1720142598,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 168722,
+      "word": "新疆地震",
+      "onboard_time": 1720143018,
+      "rank": 32,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 184552,
       "num": 184552,
       "word": "巴黎奥运会允许代表团自费安空调",
@@ -377,6 +401,22 @@
       "onboard_time": 1720086019,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173319,
+      "num": 173319,
+      "word": "高考录取期间10大注意事项",
+      "onboard_time": 1720142956,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 172709,
+      "num": 172709,
+      "word": "英国首相苏纳克将宣布辞职",
+      "onboard_time": 1720143438,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 168218,
@@ -441,6 +481,22 @@
       "onboard_time": 1720092978,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142845,
+      "num": 142845,
+      "word": "只要胆子大老婆直接牵回家",
+      "onboard_time": 1720143316,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142409,
+      "num": 142409,
+      "word": "30余年来以侵占巴领土最大一次",
+      "onboard_time": 1720142357,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142182,
@@ -515,7 +571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121482,
+      "raw_hot": 122719,
       "num": 169085,
       "word": "男子砸死疣鼻天鹅被刑拘",
       "onboard_time": 1720117692,
@@ -561,6 +617,14 @@
       "onboard_time": 1720094599,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111671,
+      "num": 111671,
+      "word": "上海迪士尼门票八年已涨价5次",
+      "onboard_time": 1720143257,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 108784,
@@ -609,14 +673,6 @@
       "onboard_time": 1720142057,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 94122,
-      "num": 94122,
-      "word": "30余年来以侵占巴领土最大一次",
-      "onboard_time": 1720142357,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 92724,
@@ -763,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61129,
+      "num": 173260,
+      "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
+      "onboard_time": 1720143619,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59705,
       "num": 59705,
       "word": "BLG对战T1",
@@ -785,6 +849,14 @@
       "onboard_time": 1720100418,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57718,
+      "num": 173263,
+      "word": "老人晕倒3名路人轮做心肺复苏",
+      "onboard_time": 1720143316,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 57325,

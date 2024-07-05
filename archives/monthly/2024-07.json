@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720142503940,
+  "endTime": 1720143748785,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -659,12 +659,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 998784,
+      "num": 282243,
+      "word": "孙海洋称孙卓高考成绩比预想好",
+      "onboard_time": 1720142237,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 992333,
       "num": 992333,
       "word": "绝区零 开门啊",
       "onboard_time": 1720051939,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 991967,
+      "num": 188015,
+      "word": "饿瘦和运动瘦的区别是什么",
+      "onboard_time": 1720138877,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 988089,
@@ -745,14 +761,6 @@
       "onboard_time": 1719971238,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 915252,
-      "num": 188015,
-      "word": "饿瘦和运动瘦的区别是什么",
-      "onboard_time": 1720138877,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 909290,
@@ -1899,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566790,
+      "num": 566790,
+      "word": "李玟逝世一周年",
+      "onboard_time": 1720140500,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566517,
       "num": 285080,
       "word": "凯美瑞只卖12万了",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1719825379,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 553972,
-      "num": 553972,
-      "word": "李玟逝世一周年",
-      "onboard_time": 1720140500,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 550649,
@@ -2979,6 +2987,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 418092,
+      "num": 186963,
+      "word": "原来旅游时花钱可以这么有尊严",
+      "onboard_time": 1720140199,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 418045,
       "num": 293388,
       "word": "崔泰俊ZICO聊天内容",
@@ -3507,14 +3523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353796,
-      "num": 186963,
-      "word": "原来旅游时花钱可以这么有尊严",
-      "onboard_time": 1720140199,
-      "rank": 23,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 353604,
       "num": 353604,
       "word": "胡锡进谈中金员工意外离世",
@@ -3595,6 +3603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345437,
+      "num": 345437,
+      "word": "Bin 又版本了",
+      "onboard_time": 1720137319,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 344883,
       "num": 221355,
       "word": "适合在发工资这天换的头像",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1719803058,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343339,
-      "num": 314863,
-      "word": "Bin 又版本了",
-      "onboard_time": 1720137319,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 341763,
@@ -3883,6 +3891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315580,
+      "num": 311098,
+      "word": "面筋哥完成肝移植手术已苏醒",
+      "onboard_time": 1720139658,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 314683,
       "num": 169888,
       "word": "合肥之心城",
@@ -3937,14 +3953,6 @@
       "onboard_time": 1719925337,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311098,
-      "num": 311098,
-      "word": "面筋哥完成肝移植手术已苏醒",
-      "onboard_time": 1720139658,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 310644,
@@ -4217,6 +4225,14 @@
       "onboard_time": 1719920178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285373,
+      "num": 285373,
+      "word": "TF家族夏日运动会分队官宣",
+      "onboard_time": 1720138698,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 285179,
@@ -4899,14 +4915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228667,
-      "num": 228667,
-      "word": "TF家族夏日运动会分队官宣",
-      "onboard_time": 1720138698,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228165,
       "num": 228165,
       "word": "李凯尔加盟勇士",
@@ -5017,14 +5025,6 @@
       "onboard_time": 1720061957,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221353,
-      "num": 167678,
-      "word": "孙海洋称孙卓高考成绩比预想好",
-      "onboard_time": 1720142237,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221333,
@@ -5971,6 +5971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190371,
+      "num": 190371,
+      "word": "阿根廷vs厄瓜多尔",
+      "onboard_time": 1720143316,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190298,
       "num": 519202,
       "word": "23岁女儿参加53岁妈妈毕业典礼",
@@ -6235,12 +6243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184968,
+      "num": 169961,
+      "word": "BLG的钥匙当场被碾压",
+      "onboard_time": 1720142598,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184955,
       "num": 184955,
       "word": "雪糕里的木棍是这么用的吗",
       "onboard_time": 1719971597,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 168722,
+      "word": "新疆地震",
+      "onboard_time": 1720143018,
+      "rank": 32,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 184848,
@@ -6651,12 +6675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173319,
+      "num": 173319,
+      "word": "高考录取期间10大注意事项",
+      "onboard_time": 1720142956,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 173271,
       "num": 173271,
       "word": "AI爆改还珠格格",
       "onboard_time": 1720053678,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172709,
+      "num": 172709,
+      "word": "英国首相苏纳克将宣布辞职",
+      "onboard_time": 1720143438,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 172451,
@@ -8011,6 +8051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 142845,
+      "num": 142845,
+      "word": "只要胆子大老婆直接牵回家",
+      "onboard_time": 1720143316,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142467,
       "num": 142467,
       "word": "郑思维为张志杰默哀",
@@ -8025,6 +8073,14 @@
       "onboard_time": 1719796460,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142409,
+      "num": 142409,
+      "word": "30余年来以侵占巴领土最大一次",
+      "onboard_time": 1720142357,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142392,
@@ -9251,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122719,
+      "num": 169085,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122706,
       "num": 122706,
       "word": "园区回应女子在亲子更衣室发现摄像头",
@@ -9296,14 +9360,6 @@
       "word": "日本森永婴儿饼干疑有动物排泄物",
       "onboard_time": 1719801857,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121482,
-      "num": 169085,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -9769,6 +9825,14 @@
       "onboard_time": 1719762618,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111671,
+      "num": 111671,
+      "word": "上海迪士尼门票八年已涨价5次",
+      "onboard_time": 1720143257,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 111624,
@@ -10411,14 +10475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94122,
-      "num": 94122,
-      "word": "30余年来以侵占巴领土最大一次",
-      "onboard_time": 1720142357,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 92981,
       "num": 97358,
       "word": "giselle保存粉丝拍的照片",
@@ -11035,6 +11091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61129,
+      "num": 173260,
+      "word": "小女孩哭成泪人见民警扑进怀里要抱抱",
+      "onboard_time": 1720143619,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60910,
       "num": 67835,
       "word": "度华年热度破万",
@@ -11137,6 +11201,14 @@
       "onboard_time": 1719979819,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 57718,
+      "num": 173263,
+      "word": "老人晕倒3名路人轮做心肺复苏",
+      "onboard_time": 1720143316,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 57562,
