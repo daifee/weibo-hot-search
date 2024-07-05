@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720215372634,
+  "endTime": 1720217969717,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1491,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825009,
+      "num": 825009,
+      "word": "葡萄牙vs法国",
+      "onboard_time": 1720192820,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 824410,
       "num": 824410,
       "word": "上海辟谣跟佛祖借了100亿元",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1719976577,
       "rank": 35,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 695937,
+      "num": 695937,
+      "word": "C罗",
+      "onboard_time": 1720216812,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 693621,
@@ -3275,14 +3291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516006,
-      "num": 516006,
-      "word": "葡萄牙vs法国",
-      "onboard_time": 1720192820,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 515094,
       "num": 515094,
       "word": "直播间号称9999元可买圆明园马首",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1719737177,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446043,
+      "num": 446043,
+      "word": "菲利克斯",
+      "onboard_time": 1720216992,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 445549,
@@ -8225,6 +8241,14 @@
       "onboard_time": 1719971417,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203387,
+      "num": 203387,
+      "word": "葡萄牙3比5法国",
+      "onboard_time": 1720217353,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 203284,
@@ -13859,6 +13883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 118834,
+      "num": 118834,
+      "word": "西班牙加时绝杀",
+      "onboard_time": 1720212130,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118675,
       "num": 118675,
       "word": "张信哲演唱会",
@@ -14409,6 +14441,14 @@
       "onboard_time": 1720178059,
       "rank": 49,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 110149,
+      "num": 66286,
+      "word": "葡萄牙vs法国首发",
+      "onboard_time": 1720211891,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 110129,
@@ -15955,14 +15995,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 68390,
-      "num": 68390,
-      "word": "西班牙加时绝杀",
-      "onboard_time": 1720212130,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -16515,14 +16547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50457,
-      "num": 43038,
-      "word": "葡萄牙vs法国首发",
-      "onboard_time": 1720211891,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50311,
       "num": 495723,
       "word": "校长在毕业典礼上渐入佳境",
@@ -16873,6 +16897,14 @@
       "onboard_time": 1720033631,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41302,
+      "num": 41302,
+      "word": "原来宝宝真的比甲方还难伺候",
+      "onboard_time": 1720215911,
+      "rank": 39,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 41241,
@@ -17259,6 +17291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32328,
+      "num": 32328,
+      "word": "高圆圆banban",
+      "onboard_time": 1720210930,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32121,
       "num": 321081,
       "word": "2024年进度条已过一半",
@@ -17393,14 +17433,6 @@
       "onboard_time": 1719884236,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 29569,
-      "num": 29569,
-      "word": "高圆圆banban",
-      "onboard_time": 1720210930,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 29186,
@@ -17987,11 +18019,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12882,
+      "num": 71554,
+      "word": "饲养员摆喜宴给企鹅办集体婚礼",
+      "onboard_time": 1720217412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12777,
       "num": 171834,
       "word": "保安车库察觉汽油味上演教科书式操作",
       "onboard_time": 1720110436,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12378,
+      "num": 56943,
+      "word": "8名铁骑护送临产孕妇15分钟到医院",
+      "onboard_time": 1720217471,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
