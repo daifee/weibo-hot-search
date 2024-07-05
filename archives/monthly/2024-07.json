@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720172083146,
+  "endTime": 1720174872566,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -80,6 +80,14 @@
       "word": "中金坠楼女孩 人生曲线",
       "onboard_time": 1720080378,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1919589,
+      "num": 336055,
+      "word": "大学生喝农药离世前曾下跪道歉",
+      "onboard_time": 1720171458,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1370835,
+      "num": 278610,
+      "word": "月经两三天干净和一周干净哪个健康些",
+      "onboard_time": 1720173558,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1354914,
       "num": 1354914,
       "word": "外国男子强奸土耳其5岁女童引发骚乱",
@@ -385,6 +401,14 @@
       "onboard_time": 1719919577,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1339807,
+      "num": 1339807,
+      "word": "马嘉祺受伤",
+      "onboard_time": 1720172659,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1328362,
@@ -689,6 +713,14 @@
       "onboard_time": 1720162039,
       "rank": 0,
       "category": "教育,剧集"
+    },
+    {
+      "raw_hot": 1019571,
+      "num": 1019571,
+      "word": "汉堡老师去世",
+      "onboard_time": 1720173379,
+      "rank": 1,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 1012370,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1719818598,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830680,
+      "num": 333205,
+      "word": "宋雨琦ins发文",
+      "onboard_time": 1720171400,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 830518,
@@ -1628,7 +1668,7 @@
     },
     {
       "raw_hot": 646059,
-      "num": 268109,
+      "num": 278609,
       "word": "英国30岁女教师性侵2名男生怀胎生子",
       "onboard_time": 1720164200,
       "rank": 20,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1720082657,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 627943,
-      "num": 336055,
-      "word": "大学生喝农药离世前曾下跪道歉",
-      "onboard_time": 1720171458,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625824,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606838,
+      "num": 606838,
+      "word": "山东龙卷风",
+      "onboard_time": 1720168820,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606819,
@@ -2403,12 +2443,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 522188,
-      "num": 522188,
-      "word": "山东龙卷风",
-      "onboard_time": 1720168820,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 522873,
+      "num": 278611,
+      "word": "自助餐为什么不受欢迎了",
+      "onboard_time": 1720170198,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 519653,
@@ -3739,6 +3779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376631,
+      "num": 376631,
+      "word": "邓为工作室回应中国农大用涂山璟招生",
+      "onboard_time": 1720171640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376247,
       "num": 376247,
       "word": "谭松韵扛剧能力",
@@ -3769,14 +3817,6 @@
       "onboard_time": 1719909859,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374254,
-      "num": 333205,
-      "word": "宋雨琦ins发文",
-      "onboard_time": 1720171400,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 370765,
@@ -4299,6 +4339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323408,
+      "num": 323408,
+      "word": "张真源被误伤",
+      "onboard_time": 1720173620,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323058,
       "num": 323058,
       "word": "腾讯视频7月大剧片单",
@@ -4577,6 +4625,14 @@
       "onboard_time": 1719907938,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296708,
+      "num": 296708,
+      "word": "低频入驻微博",
+      "onboard_time": 1720172778,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 294803,
@@ -4913,14 +4969,6 @@
       "onboard_time": 1719794239,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272101,
-      "num": 272101,
-      "word": "邓为工作室回应中国农大用涂山璟招生",
-      "onboard_time": 1720171640,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 270659,
@@ -5307,6 +5355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244577,
+      "num": 244577,
+      "word": "许嵩演唱会官宣8城",
+      "onboard_time": 1720173858,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244136,
       "num": 244136,
       "word": "4名斯里兰卡渔民饮用漂流瓶内液体身亡",
@@ -5329,14 +5385,6 @@
       "onboard_time": 1720049476,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242424,
-      "num": 242424,
-      "word": "自助餐为什么不受欢迎了",
-      "onboard_time": 1720170198,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 242306,
@@ -5532,7 +5580,7 @@
     },
     {
       "raw_hot": 232544,
-      "num": 162140,
+      "num": 181304,
       "word": "走丢三个月的猫回家后委屈哭了",
       "onboard_time": 1720170917,
       "rank": 31,
@@ -5715,12 +5763,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 224646,
+      "num": 224646,
+      "word": "女子花39.9元点痣鼻头出现大坑",
+      "onboard_time": 1720172839,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223268,
       "num": 223268,
       "word": "阿里云服务器",
       "onboard_time": 1719891559,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222529,
+      "num": 222529,
+      "word": "第一次听说内裤前的蝴蝶结这么有用",
+      "onboard_time": 1720173500,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 222386,
@@ -5883,6 +5947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216085,
+      "num": 216085,
+      "word": "方便面被年轻人抛弃了吗",
+      "onboard_time": 1720173319,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -6017,6 +6089,14 @@
       "onboard_time": 1720159938,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210362,
+      "num": 210362,
+      "word": "305斤男子狂减150斤大叔变欧巴",
+      "onboard_time": 1720173799,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209600,
@@ -6163,6 +6243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206118,
+      "num": 206118,
+      "word": "涂山璟无缘今年奥运",
+      "onboard_time": 1720174579,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206023,
       "num": 206023,
       "word": "深圳6岁男童在家门口被货车碾死",
@@ -6257,6 +6345,14 @@
       "onboard_time": 1719988397,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204221,
+      "num": 204221,
+      "word": "向佐不让别人骂纪凌尘自己骂",
+      "onboard_time": 1720173799,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204195,
@@ -6457,6 +6553,14 @@
       "onboard_time": 1719889519,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "苏纳克宣布辞去英国首相职务",
+      "onboard_time": 1720174338,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 199874,
@@ -7331,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181241,
+      "num": 181241,
+      "word": "EDG对战RNG",
+      "onboard_time": 1720174159,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181106,
       "num": 181106,
       "word": "张极十环",
@@ -7521,6 +7633,14 @@
       "onboard_time": 1720096758,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176526,
+      "num": 176526,
+      "word": "谁来救救宋亚轩",
+      "onboard_time": 1720174760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 176175,
@@ -8883,6 +9003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145793,
+      "num": 145793,
+      "word": "官方回应市监局人员撕毁群众材料",
+      "onboard_time": 1720174099,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145650,
       "num": 145650,
       "word": "张馨予和妈妈自驾游",
@@ -10139,6 +10267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128841,
+      "num": 128841,
+      "word": "26岁女生应聘瑞幸被嫌年纪大",
+      "onboard_time": 1720174760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128500,
       "num": 128500,
       "word": "基金刚建仓就退市",
@@ -10667,6 +10803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120057,
+      "num": 120057,
+      "word": "李晨说期待苏炳添重回赛场",
+      "onboard_time": 1720172298,
+      "rank": 48,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 120026,
       "num": 120026,
       "word": "韩雪告别乘风",
@@ -10729,6 +10873,14 @@
       "onboard_time": 1719988158,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 119279,
+      "num": 188649,
+      "word": "入职体检报告你看懂了吗",
+      "onboard_time": 1720174700,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119249,
@@ -10881,6 +11033,14 @@
       "onboard_time": 1720077558,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 115814,
+      "word": "张泽禹 好腰",
+      "onboard_time": 1720174099,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115797,
@@ -12291,6 +12451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64804,
+      "num": 357160,
+      "word": "上半年入境外国人1463.5万人次",
+      "onboard_time": 1720172418,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64761,
       "num": 64761,
       "word": "肾虚不虚看这5个地方就知道",
@@ -12465,6 +12633,14 @@
       "onboard_time": 1719997218,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 58936,
+      "num": 780400,
+      "word": "做完9道题秒懂塔吉克斯坦",
+      "onboard_time": 1720172358,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58934,
@@ -13131,6 +13307,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 32108,
+      "num": 278611,
+      "word": "卡地亚上海展开放预约",
+      "onboard_time": 1720171338,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31333,
       "num": 31333,
       "word": "贺军翔回应性骚扰指控",
@@ -13281,14 +13465,6 @@
       "onboard_time": 1720112714,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27359,
-      "num": 131289,
-      "word": "卡地亚上海展开放预约",
-      "onboard_time": 1720171338,
-      "rank": 33,
-      "category": "时尚"
     },
     {
       "raw_hot": 27102,
