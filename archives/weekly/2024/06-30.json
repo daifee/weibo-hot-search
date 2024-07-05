@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720136114850,
+  "endTime": 1720142503940,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -209,6 +209,14 @@
       "onboard_time": 1719741438,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1602161,
+      "num": 1602161,
+      "word": "公积金结息到账四位数",
+      "onboard_time": 1720135635,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1589081,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981448,
+      "num": 189362,
+      "word": "在派出所被拖进女厕群殴男子发声",
+      "onboard_time": 1720135696,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977751,
       "num": 511976,
       "word": "叶舒华站姐因未修图被吐槽",
@@ -873,6 +889,14 @@
       "onboard_time": 1719755060,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 915252,
+      "num": 188015,
+      "word": "饿瘦和运动瘦的区别是什么",
+      "onboard_time": 1720138877,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 909880,
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 751737,
-      "num": 282516,
+      "num": 488678,
       "word": "男性睡觉掉色是全国统一的吗",
       "onboard_time": 1720095499,
       "rank": 21,
@@ -1931,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 605710,
+      "num": 605710,
+      "word": "用生理盐水冒充HPV疫苗给多人接种",
+      "onboard_time": 1720134194,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 605416,
       "num": 605416,
       "word": "郭晶晶没做教练的原因",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1719825379,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 553972,
+      "num": 553972,
+      "word": "李玟逝世一周年",
+      "onboard_time": 1720140500,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 550649,
@@ -3044,7 +3084,7 @@
     },
     {
       "raw_hot": 462834,
-      "num": 116042,
+      "num": 183492,
       "word": "运动不到30分钟就等于白运动了吗",
       "onboard_time": 1720130651,
       "rank": 26,
@@ -3345,6 +3385,14 @@
       "onboard_time": 1720094118,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 440649,
+      "num": 440649,
+      "word": "Mai出道",
+      "onboard_time": 1720136956,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 440505,
@@ -4019,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365767,
+      "num": 365767,
+      "word": "孕激素的威力可算见识了",
+      "onboard_time": 1720136297,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 362578,
       "num": 362578,
       "word": "女儿坐轮椅带90岁妈妈拍人生首次写真",
@@ -4153,6 +4209,14 @@
       "onboard_time": 1719837138,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353796,
+      "num": 186963,
+      "word": "原来旅游时花钱可以这么有尊严",
+      "onboard_time": 1720140199,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 353604,
@@ -4297,6 +4361,14 @@
       "onboard_time": 1719737477,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343339,
+      "num": 314863,
+      "word": "Bin 又版本了",
+      "onboard_time": 1720137319,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 342454,
@@ -4507,6 +4579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 327704,
+      "num": 327704,
+      "word": "福宝带火韩国赴四川旅游",
+      "onboard_time": 1720136596,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 327435,
       "num": 327435,
       "word": "A股成交额不足6000亿",
@@ -4697,6 +4777,14 @@
       "onboard_time": 1719736579,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311098,
+      "num": 311098,
+      "word": "面筋哥完成肝移植手术已苏醒",
+      "onboard_time": 1720139658,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 310861,
@@ -4979,6 +5067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290182,
+      "num": 290182,
+      "word": "你们幼儿班接不接婚庆啊",
+      "onboard_time": 1720131792,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289581,
       "num": 289581,
       "word": "娜扎出任圣罗兰中国形象大使",
@@ -5155,14 +5251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277579,
-      "num": 91346,
-      "word": "公积金结息到账四位数",
-      "onboard_time": 1720135635,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 276138,
       "num": 276138,
       "word": "他被称为最帅院士却不爱谈颜值",
@@ -5201,14 +5289,6 @@
       "onboard_time": 1719794239,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273472,
-      "num": 273472,
-      "word": "用生理盐水冒充HPV疫苗给多人接种",
-      "onboard_time": 1720134194,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 272051,
@@ -5867,6 +5947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228667,
+      "num": 228667,
+      "word": "TF家族夏日运动会分队官宣",
+      "onboard_time": 1720138698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228165,
       "num": 228165,
       "word": "李凯尔加盟勇士",
@@ -5985,6 +6073,14 @@
       "onboard_time": 1720061957,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221353,
+      "num": 167678,
+      "word": "孙海洋称孙卓高考成绩比预想好",
+      "onboard_time": 1720142237,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221333,
@@ -6331,6 +6427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208464,
+      "num": 208464,
+      "word": "林一一句话王玉雯哆嗦好几下",
+      "onboard_time": 1720136476,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208051,
       "num": 208051,
       "word": "李东海李银赫评价余宇涵",
@@ -6651,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201696,
+      "num": 201696,
+      "word": "BLG一轮游",
+      "onboard_time": 1720134916,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201389,
       "num": 201389,
       "word": "七一",
@@ -6737,14 +6849,6 @@
       "onboard_time": 1720105640,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199816,
-      "num": 190242,
-      "word": "你们幼儿班接不接婚庆啊",
-      "onboard_time": 1720131792,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 199725,
@@ -7203,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190220,
+      "num": 190220,
+      "word": "BLG还有复仇的机会",
+      "onboard_time": 1720140319,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190219,
       "num": 190219,
       "word": "长珩仙君的时候没上桌吗",
@@ -7625,6 +7737,14 @@
       "onboard_time": 1719756199,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182206,
+      "num": 182206,
+      "word": "那些从985大学退学的人后来怎么样了",
+      "onboard_time": 1720138457,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 182136,
@@ -8651,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157267,
+      "num": 157267,
+      "word": "INFJ为什么是天选大女主",
+      "onboard_time": 1720135635,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157175,
       "num": 157175,
       "word": "黄明昊现场复刻默杀名场面",
@@ -8907,6 +9035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153060,
+      "num": 153060,
+      "word": "汪苏泷 小小虫",
+      "onboard_time": 1720136896,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152868,
       "num": 152868,
       "word": "魏大勋阿那亚吃烤串",
@@ -9097,6 +9233,14 @@
       "onboard_time": 1719796878,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149415,
+      "num": 149415,
+      "word": "绝区零 打击感",
+      "onboard_time": 1720137496,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 149255,
@@ -9587,6 +9731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142182,
+      "num": 142182,
+      "word": "山西卫视发了迪丽热巴",
+      "onboard_time": 1720137617,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142153,
       "num": 142153,
       "word": "长相思2官宣见面会",
@@ -9745,6 +9897,14 @@
       "onboard_time": 1719997638,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139914,
+      "num": 139914,
+      "word": "李昀锐是真离不开屁凳",
+      "onboard_time": 1720141459,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 139429,
@@ -10387,6 +10547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131225,
+      "num": 189142,
+      "word": "梁实将备战第29次高考",
+      "onboard_time": 1720136776,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131133,
       "num": 131133,
       "word": "魔方新世界 奥利",
@@ -10489,6 +10657,14 @@
       "onboard_time": 1719829278,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129522,
+      "num": 129522,
+      "word": "花花吃着吃着直接上桌了",
+      "onboard_time": 1720136115,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 129452,
@@ -10697,6 +10873,22 @@
       "onboard_time": 1719891319,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126853,
+      "num": 126853,
+      "word": "英国工党赢得大选",
+      "onboard_time": 1720139839,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 126513,
+      "num": 126513,
+      "word": "中国人脱敏的一生",
+      "onboard_time": 1720140977,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126498,
@@ -11008,6 +11200,14 @@
       "word": "2024上半年最后1天",
       "onboard_time": 1719702674,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121482,
+      "num": 169085,
+      "word": "男子砸死疣鼻天鹅被刑拘",
+      "onboard_time": 1720117692,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11441,6 +11641,14 @@
       "onboard_time": 1719752358,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114020,
+      "num": 114020,
+      "word": "下半年射手座运势称霸",
+      "onboard_time": 1720135696,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 114013,
@@ -12387,6 +12595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94949,
+      "num": 94949,
+      "word": "李宁 马龙从小伙子变成大小伙子了",
+      "onboard_time": 1720137798,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94782,
       "num": 94782,
       "word": "WB战胜TES",
@@ -12395,12 +12611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94619,
+      "num": 94619,
+      "word": "江苏多地旅游景区取消预约",
+      "onboard_time": 1720142057,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 94568,
       "num": 277139,
       "word": "全网寻黄金大宝剑主人",
       "onboard_time": 1719981380,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94122,
+      "num": 94122,
+      "word": "30余年来以侵占巴领土最大一次",
+      "onboard_time": 1720142357,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 94013,
@@ -12523,14 +12755,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 90652,
-      "num": 90652,
-      "word": "下半年射手座运势称霸",
-      "onboard_time": 1720135696,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 90548,
       "num": 111310,
       "word": "年轻人运动猝死主要因不恰当运动强度",
@@ -12601,6 +12825,14 @@
       "onboard_time": 1720047613,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89802,
+      "num": 94102,
+      "word": "张艺兴给媒体分蛋糕停不下来",
+      "onboard_time": 1720136356,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 89396,
@@ -12785,14 +13017,6 @@
       "onboard_time": 1719669020,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 82053,
-      "num": 82053,
-      "word": "BLG一轮游",
-      "onboard_time": 1720134916,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 81845,
@@ -12995,28 +13219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75341,
-      "num": 75341,
-      "word": "在派出所被拖进女厕群殴男子发声",
-      "onboard_time": 1720135696,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75313,
       "num": 405097,
       "word": "谁懂这个健康大使团的含金量",
       "onboard_time": 1719976038,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74766,
-      "num": 74766,
-      "word": "INFJ为什么是天选大女主",
-      "onboard_time": 1720135635,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 73347,
@@ -13097,14 +13305,6 @@
       "onboard_time": 1719876076,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67866,
-      "num": 68645,
-      "word": "男子砸死疣鼻天鹅被刑拘",
-      "onboard_time": 1720117692,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67692,
@@ -13305,6 +13505,14 @@
       "onboard_time": 1720092798,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61609,
+      "num": 185396,
+      "word": "和叶上桌把花花挤翻在地",
+      "onboard_time": 1720140500,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61271,
