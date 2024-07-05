@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720196628248,
+  "endTime": 1720197526467,
   "band_list": [
     {
       "raw_hot": 1555339,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1047477,
-      "num": 375272,
+      "num": 419133,
       "word": "端木磊带楚雨荨在火锅店吃西餐",
       "onboard_time": 1720191561,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546735,
+      "num": 546735,
+      "word": "TES",
+      "onboard_time": 1720195099,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 519487,
       "num": 519487,
       "word": "东方树叶 第八",
@@ -75,20 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466941,
+      "num": 439329,
+      "word": "袁娅维是不是被算错票了",
+      "onboard_time": 1720196357,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 433047,
+      "num": 433047,
+      "word": "西班牙vs德国",
+      "onboard_time": 1720192642,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418031,
       "num": 369243,
       "word": "Lenka袭榜",
       "onboard_time": 1720191022,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414032,
-      "num": 414032,
-      "word": "TES",
-      "onboard_time": 1720195099,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 402943,
@@ -99,12 +115,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 355690,
-      "num": 355690,
-      "word": "西班牙vs德国",
-      "onboard_time": 1720192642,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 392848,
+      "num": 392848,
+      "word": "CoCo回应员工边做边吃",
+      "onboard_time": 1720195818,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354797,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315750,
+      "num": 315750,
+      "word": "欧洲杯",
+      "onboard_time": 1720197257,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276156,
       "num": 276156,
       "word": "袁娅维淘汰",
@@ -139,20 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210932,
-      "num": 182412,
-      "word": "袁娅维是不是被算错票了",
-      "onboard_time": 1720196357,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189827,
-      "num": 189827,
-      "word": "CoCo回应员工边做边吃",
-      "onboard_time": 1720195818,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 195717,
+      "num": 161883,
+      "word": "原来午睡不一定非要睡着",
+      "onboard_time": 1720195279,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186712,
@@ -201,14 +217,6 @@
       "onboard_time": 1720186342,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156244,
-      "num": 156244,
-      "word": "原来午睡不一定非要睡着",
-      "onboard_time": 1720195279,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156211,
@@ -347,8 +355,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115475,
-      "num": 115475,
+      "raw_hot": 117637,
+      "num": 117637,
       "word": "王者全英雄及50款皮肤限免",
       "onboard_time": 1720195938,
       "rank": 46,
@@ -361,6 +369,14 @@
       "onboard_time": 1720192279,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107087,
+      "num": 107087,
+      "word": "巨蟹座新月许愿",
+      "onboard_time": 1720196957,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 100940,
@@ -379,6 +395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97765,
+      "num": 97765,
+      "word": "陈乔恩回应被说表演痕迹重",
+      "onboard_time": 1720197437,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47783,
       "num": 596173,
       "word": "友谊勋章藏着多少设计细节",
@@ -391,6 +415,14 @@
       "num": 378470,
       "word": "仪仗队离开前将中国零食分给留学生",
       "onboard_time": 1720195459,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38694,
+      "num": 419141,
+      "word": "菲律宾华人讲述从绑匪手中虎口逃生",
+      "onboard_time": 1720197016,
       "rank": 9,
       "category": "社会新闻"
     },
