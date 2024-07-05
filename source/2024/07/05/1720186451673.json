@@ -1,0 +1,410 @@
+{
+  "runTime": 1720186451673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823849,
+        "num": 1823849,
+        "word": "歌手直播",
+        "onboard_time": 1720180040,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1531703,
+        "num": 1531703,
+        "word": "那英发型 抄袭陶喆",
+        "onboard_time": 1720184841,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27236,
+        "num": 1388424,
+        "word": "做完9道题秒懂塔吉克斯坦",
+        "onboard_time": 1720172358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1330299,
+        "num": 1330299,
+        "word": "歌手 哭早了",
+        "onboard_time": 1720182860,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812577,
+        "num": 812577,
+        "word": "纳塔 丑",
+        "onboard_time": 1720184601,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544625,
+        "num": 544625,
+        "word": "男子中751万彩票藏枕头下半月才兑奖",
+        "onboard_time": 1720178898,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529173,
+        "num": 529148,
+        "word": "那英 清唱",
+        "onboard_time": 1720183039,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462590,
+        "num": 462590,
+        "word": "西安交大通报毕业生被传是学术妲己",
+        "onboard_time": 1720178177,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443079,
+        "num": 443079,
+        "word": "洞庭湖",
+        "onboard_time": 1720183820,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404872,
+        "num": 442832,
+        "word": "汉堡老师去世",
+        "onboard_time": 1720173379,
+        "rank": 9,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 892736,
+        "num": 436464,
+        "word": "香缇莫 袁咏琳",
+        "onboard_time": 1720183161,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719957,
+        "num": 433385,
+        "word": "孙楠 拯救味",
+        "onboard_time": 1720184059,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659835,
+        "num": 428633,
+        "word": "宾馆老板见男子带幼女开房立刻报警",
+        "onboard_time": 1720183760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426835,
+        "num": 426835,
+        "word": "凡希亚弹唱",
+        "onboard_time": 1720184901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90974,
+        "num": 410186,
+        "word": "江西一封家书摩托大军紧急返乡",
+        "onboard_time": 1720186162,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408478,
+        "num": 408478,
+        "word": "CBLOCK 熟人上电视的感觉",
+        "onboard_time": 1720185922,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394696,
+        "num": 394696,
+        "word": "盗墓笔记 抢票",
+        "onboard_time": 1720184901,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 383822,
+        "num": 383822,
+        "word": "26岁女生应聘瑞幸被嫌年纪大",
+        "onboard_time": 1720174760,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350212,
+        "num": 350212,
+        "word": "王曼昱说没参加单打有些遗憾",
+        "onboard_time": 1720184240,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287816,
+        "num": 287816,
+        "word": "自助餐为什么不受欢迎了",
+        "onboard_time": 1720170198,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1001115,
+        "num": 285650,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373770,
+        "num": 284842,
+        "word": "香缇莫改词",
+        "onboard_time": 1720185081,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366431,
+        "num": 282081,
+        "word": "朱丹乘风4个月掉了14斤",
+        "onboard_time": 1720181299,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350880,
+        "num": 279961,
+        "word": "汪苏泷歌手后台扯面",
+        "onboard_time": 1720185200,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23854,
+        "num": 278522,
+        "word": "理想智能驾驶夏季发布会",
+        "onboard_time": 1720183879,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335503,
+        "num": 275212,
+        "word": "谭维维怒音",
+        "onboard_time": 1720182920,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313289,
+        "num": 272824,
+        "word": "涂山璟无缘今年奥运",
+        "onboard_time": 1720174579,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272367,
+        "num": 272367,
+        "word": "新婚夫妻身亡女方家被判还11万彩礼",
+        "onboard_time": 1720177939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257234,
+        "num": 257234,
+        "word": "刘松仁把今天发的胡歌删了",
+        "onboard_time": 1720184720,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230561,
+        "num": 230561,
+        "word": "杨紫工作室回复中南大学",
+        "onboard_time": 1720180638,
+        "rank": 29,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 230209,
+        "num": 230209,
+        "word": "丁程鑫受伤",
+        "onboard_time": 1720176919,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187850,
+        "num": 224748,
+        "word": "山东东明龙卷风致1死79伤",
+        "onboard_time": 1720175179,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224293,
+        "num": 224293,
+        "word": "宋雨琦ins发文",
+        "onboard_time": 1720171400,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212566,
+        "num": 212566,
+        "word": "严浩翔受伤",
+        "onboard_time": 1720179318,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208308,
+        "num": 208308,
+        "word": "第一次听说内裤前的蝴蝶结这么有用",
+        "onboard_time": 1720173500,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206016,
+        "num": 206016,
+        "word": "医生说月经推迟是因为卵巢功能好",
+        "onboard_time": 1720176678,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88533,
+        "num": 203449,
+        "word": "孙海洋谈孙卓高考志愿",
+        "onboard_time": 1720185440,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202947,
+        "num": 202947,
+        "word": "歌手顺序",
+        "onboard_time": 1720185081,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197662,
+        "num": 197662,
+        "word": "原神4.8版本直播",
+        "onboard_time": 1720182800,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197657,
+        "num": 197657,
+        "word": "江湖流 Gai",
+        "onboard_time": 1720186342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185373,
+        "num": 185373,
+        "word": "那英音色",
+        "onboard_time": 1720185681,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179061,
+        "num": 179061,
+        "word": "严浩翔全方位挥手鞠躬退场",
+        "onboard_time": 1720185742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165552,
+        "num": 165552,
+        "word": "方便面被年轻人抛弃了吗",
+        "onboard_time": 1720173319,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "韩国演员姐妹遭性侵自杀案",
+        "onboard_time": 1720167679,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154449,
+        "num": 154449,
+        "word": "陈昊宇发长文告别乘风",
+        "onboard_time": 1720182260,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149850,
+        "num": 149850,
+        "word": "河南暴雨",
+        "onboard_time": 1720175778,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146284,
+        "num": 146284,
+        "word": "肯德基原神联动",
+        "onboard_time": 1720186342,
+        "rank": 46,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 146086,
+        "num": 146086,
+        "word": "张真源一秒猜出奇迹再现",
+        "onboard_time": 1720186342,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141972,
+        "num": 141972,
+        "word": "山东龙卷风商户称像世界末日",
+        "onboard_time": 1720183280,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137371,
+        "num": 137371,
+        "word": "非农",
+        "onboard_time": 1720184780,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席哈萨克斯坦之行令人难忘的细节#"
+    }
+  }
+}
