@@ -1,0 +1,410 @@
+{
+  "runTime": 1720178209634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936807,
+        "num": 936807,
+        "word": "涂山璟无缘今年奥运",
+        "onboard_time": 1720174579,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439356,
+        "num": 439356,
+        "word": "河南暴雨",
+        "onboard_time": 1720175778,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39217,
+        "num": 387521,
+        "word": "做完9道题秒懂塔吉克斯坦",
+        "onboard_time": 1720172358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844972,
+        "num": 387299,
+        "word": "丁程鑫受伤",
+        "onboard_time": 1720176919,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385677,
+        "num": 385677,
+        "word": "山东龙卷风",
+        "onboard_time": 1720168820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350520,
+        "num": 350520,
+        "word": "入职体检报告你看懂了吗",
+        "onboard_time": 1720174700,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398406,
+        "num": 331131,
+        "word": "许嵩演唱会官宣8城",
+        "onboard_time": 1720173858,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306195,
+        "num": 306195,
+        "word": "方便面被年轻人抛弃了吗",
+        "onboard_time": 1720173319,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 294283,
+        "num": 294283,
+        "word": "杨丞琳谈看上李荣浩的原因",
+        "onboard_time": 1720175600,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73425,
+        "num": 294247,
+        "word": "网约车司机为何拒开空调",
+        "onboard_time": 1720177218,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 1211488,
+        "num": 293947,
+        "word": "汉堡老师去世",
+        "onboard_time": 1720173379,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1018002,
+        "num": 293519,
+        "word": "马嘉祺受伤",
+        "onboard_time": 1720172659,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791663,
+        "num": 293253,
+        "word": "26岁女生应聘瑞幸被嫌年纪大",
+        "onboard_time": 1720174760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475578,
+        "num": 292732,
+        "word": "宋雨琦ins发文",
+        "onboard_time": 1720171400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410136,
+        "num": 292411,
+        "word": "公职人员当众撕毁群众办事材料",
+        "onboard_time": 1720169478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384225,
+        "num": 292024,
+        "word": "山东东明龙卷风致1死79伤",
+        "onboard_time": 1720175179,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353834,
+        "num": 291664,
+        "word": "自助餐为什么不受欢迎了",
+        "onboard_time": 1720170198,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312333,
+        "num": 291422,
+        "word": "菲律宾撕票案李娜来自中国台湾",
+        "onboard_time": 1720160779,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291282,
+        "num": 291282,
+        "word": "张真源被误伤",
+        "onboard_time": 1720173620,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246645,
+        "num": 246645,
+        "word": "胡歌和老婆同框照",
+        "onboard_time": 1720152799,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1448774,
+        "num": 243099,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 382319,
+        "num": 235447,
+        "word": "第一次听说内裤前的蝴蝶结这么有用",
+        "onboard_time": 1720173500,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221214,
+        "num": 221214,
+        "word": "韩国演员姐妹遭性侵自杀案",
+        "onboard_time": 1720167679,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220681,
+        "num": 220681,
+        "word": "谁来救救宋亚轩",
+        "onboard_time": 1720174760,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216677,
+        "num": 216677,
+        "word": "奥运会法国队礼服是LV做的",
+        "onboard_time": 1720176559,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210333,
+        "num": 210333,
+        "word": "305斤男子狂减150斤大叔变欧巴",
+        "onboard_time": 1720173799,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196825,
+        "num": 196825,
+        "word": "山东通报龙卷风极端天气",
+        "onboard_time": 1720176801,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40738,
+        "num": 192315,
+        "word": "二游癫成了我喜欢的样子",
+        "onboard_time": 1720177518,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189574,
+        "num": 189574,
+        "word": "邓为工作室回应中国农大用涂山璟招生",
+        "onboard_time": 1720171640,
+        "rank": 28,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 188176,
+        "num": 188176,
+        "word": "医生说月经推迟是因为卵巢功能好",
+        "onboard_time": 1720176678,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 173289,
+        "word": "张真源射箭手臂肌肉线条",
+        "onboard_time": 1720177400,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171219,
+        "num": 171219,
+        "word": "时代峰峻回应马嘉祺受伤",
+        "onboard_time": 1720178177,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 170111,
+        "word": "低频入驻微博",
+        "onboard_time": 1720172778,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166424,
+        "num": 166424,
+        "word": "檀健次回复中国海洋大学",
+        "onboard_time": 1720168278,
+        "rank": 33,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 163388,
+        "num": 163388,
+        "word": "DYG 人机",
+        "onboard_time": 1720176140,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 147694,
+        "word": "女子花39.9元点痣鼻头出现大坑",
+        "onboard_time": 1720172839,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147182,
+        "num": 147182,
+        "word": "长期午睡和不午睡有何区别",
+        "onboard_time": 1720163419,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 142141,
+        "word": "气象部门已赴东明龙卷风现场调查",
+        "onboard_time": 1720176201,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142129,
+        "num": 142129,
+        "word": "新婚夫妻身亡女方家被判还11万彩礼",
+        "onboard_time": 1720177939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137596,
+        "num": 137596,
+        "word": "ENHYPEN回归编舞",
+        "onboard_time": 1720172600,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136410,
+        "num": 136410,
+        "word": "苏纳克宣布辞去英国首相职务",
+        "onboard_time": 1720174338,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "赵露思瘦了好多",
+        "onboard_time": 1720163239,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "向佐不让别人骂纪凌尘自己骂",
+        "onboard_time": 1720173799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131906,
+        "num": 131906,
+        "word": "英国30岁女教师性侵2名男生怀胎生子",
+        "onboard_time": 1720164200,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129402,
+        "num": 129402,
+        "word": "为什么年轻人开始流行两头婚",
+        "onboard_time": 1720157958,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128307,
+        "num": 128307,
+        "word": "大叔在韩打工13年每月寄回上万元",
+        "onboard_time": 1720167859,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115622,
+        "num": 115622,
+        "word": "国乒张师傅",
+        "onboard_time": 1720176378,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111579,
+        "num": 111579,
+        "word": "西安交大通报毕业生被传是学术妲己",
+        "onboard_time": 1720178177,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111232,
+        "num": 111232,
+        "word": "EDG对战RNG",
+        "onboard_time": 1720174159,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110400,
+        "num": 110400,
+        "word": "迪士尼稀缺款玩偶被炒至4000元",
+        "onboard_time": 1720178059,
+        "rank": 49,
+        "category": "动漫,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席哈萨克斯坦之行令人难忘的细节#"
+    }
+  }
+}
