@@ -1,0 +1,410 @@
+{
+  "runTime": 1720150514701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1261394,
+        "num": 1261394,
+        "word": "姜爷爷见到福宝了",
+        "onboard_time": 1720147038,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990108,
+        "num": 990108,
+        "word": "饿瘦和运动瘦的区别是什么",
+        "onboard_time": 1720138877,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 55181,
+        "num": 892314,
+        "word": "塔吉克斯坦10岁小朋友中文太溜了",
+        "onboard_time": 1720150039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830518,
+        "num": 830518,
+        "word": "普京称更希望拜登担任美国总统",
+        "onboard_time": 1720147397,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 641367,
+        "num": 641367,
+        "word": "公积金结息到账四位数",
+        "onboard_time": 1720135635,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 536119,
+        "num": 536119,
+        "word": "孙海洋称孙卓高考成绩比预想好",
+        "onboard_time": 1720142237,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 498102,
+        "num": 498102,
+        "word": "只要胆子大老婆直接牵回家",
+        "onboard_time": 1720143316,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69654,
+        "num": 495062,
+        "word": "我国成功发射天绘五号02组卫星",
+        "onboard_time": 1720137255,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494000,
+        "num": 494000,
+        "word": "专家称A股100万点可期",
+        "onboard_time": 1720147457,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53818,
+        "num": 478135,
+        "word": "姜爷爷和福宝重逢同框",
+        "onboard_time": 1720148898,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468623,
+        "num": 468623,
+        "word": "谢娜主持乘风决赛",
+        "onboard_time": 1720146976,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442319,
+        "num": 442319,
+        "word": "张真源和谁一组",
+        "onboard_time": 1720148837,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439428,
+        "num": 439428,
+        "word": "爱你官宣杀青",
+        "onboard_time": 1720148179,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403965,
+        "num": 403965,
+        "word": "苏炳添回应无缘巴黎奥运会",
+        "onboard_time": 1720149077,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376009,
+        "num": 376009,
+        "word": "TFBOYS没来应援色来了",
+        "onboard_time": 1720144998,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348615,
+        "num": 348615,
+        "word": "于正送王星越和吴谨言的手串对比",
+        "onboard_time": 1720146616,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329002,
+        "num": 329002,
+        "word": "上海迪士尼门票八年已涨价5次",
+        "onboard_time": 1720143257,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 328437,
+        "num": 328437,
+        "word": "用生理盐水冒充HPV疫苗给多人接种",
+        "onboard_time": 1720134194,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313109,
+        "num": 313109,
+        "word": "阿根廷vs厄瓜多尔",
+        "onboard_time": 1720143316,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263615,
+        "num": 263615,
+        "word": "李玟曾说希望中国音乐走向全世界",
+        "onboard_time": 1720145057,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423445,
+        "num": 263039,
+        "word": "金毛 同居多年没看清过室友的模样",
+        "onboard_time": 1720144576,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385995,
+        "num": 262282,
+        "word": "在派出所被拖进女厕群殴男子发声",
+        "onboard_time": 1720135696,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261505,
+        "num": 261505,
+        "word": "TF家族夏日运动会分队官宣",
+        "onboard_time": 1720138698,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252073,
+        "num": 252073,
+        "word": "菲律宾一华人男子疑遭绑架杀害",
+        "onboard_time": 1720145478,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248537,
+        "num": 248537,
+        "word": "我妻善逸 哭颜第一",
+        "onboard_time": 1720148837,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 243005,
+        "num": 243005,
+        "word": "离职博主们集体回去上班了",
+        "onboard_time": 1720149976,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242759,
+        "num": 242759,
+        "word": "BLG的钥匙当场被碾压",
+        "onboard_time": 1720142598,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239204,
+        "num": 239204,
+        "word": "英国首相苏纳克将宣布辞职",
+        "onboard_time": 1720143438,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237527,
+        "num": 237527,
+        "word": "炉甘石洗剂比花露水更安全吗",
+        "onboard_time": 1720146797,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9658,
+        "num": 219530,
+        "word": "美国主播在家点燃10万美元烟花",
+        "onboard_time": 1720150279,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212258,
+        "num": 212258,
+        "word": "Doinb说BLG输T1不是坏事",
+        "onboard_time": 1720148718,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211932,
+        "num": 211932,
+        "word": "唐嫣刘亦菲佟大为早期合照",
+        "onboard_time": 1720145837,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196972,
+        "num": 196972,
+        "word": "虎鲸竟然会伸舌头",
+        "onboard_time": 1720147637,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192042,
+        "num": 192042,
+        "word": "错位定档",
+        "onboard_time": 1720149497,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172962,
+        "num": 172962,
+        "word": "TF家族陆续到达澳门",
+        "onboard_time": 1720149199,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172926,
+        "num": 172926,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1720145657,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168777,
+        "num": 168777,
+        "word": "哪种血型容易老年痴呆",
+        "onboard_time": 1720148417,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166101,
+        "num": 166101,
+        "word": "李玟逝世一周年",
+        "onboard_time": 1720140500,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160514,
+        "num": 160514,
+        "word": "BLG教练",
+        "onboard_time": 1720146678,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160186,
+        "num": 160186,
+        "word": "于正透露临江仙OST阵容",
+        "onboard_time": 1720149317,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156987,
+        "num": 156987,
+        "word": "陈瑶古子成新剧刚同居就开虐",
+        "onboard_time": 1720148598,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156855,
+        "num": 156855,
+        "word": "白敬亭项链反戴",
+        "onboard_time": 1720149799,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155821,
+        "num": 156810,
+        "word": "乘风总决选COSMO红毯大片",
+        "onboard_time": 1720149019,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 156802,
+        "num": 156802,
+        "word": "上半年2.87亿人次出入境",
+        "onboard_time": 1720146557,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154134,
+        "num": 154134,
+        "word": "Bin 又版本了",
+        "onboard_time": 1720137319,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149817,
+        "num": 149817,
+        "word": "丫丫抡宝剑笋",
+        "onboard_time": 1720144039,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142986,
+        "num": 142986,
+        "word": "美洲杯",
+        "onboard_time": 1720144517,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141415,
+        "num": 141415,
+        "word": "Mai出道",
+        "onboard_time": 1720136956,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 141185,
+        "word": "原来旅游时花钱可以这么有尊严",
+        "onboard_time": 1720140199,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "新疆地震",
+        "onboard_time": 1720143018,
+        "rank": 49,
+        "category": "社会新闻,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

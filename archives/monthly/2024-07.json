@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720149694922,
+  "endTime": 1720150514701,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -427,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1261394,
+      "num": 1261394,
+      "word": "姜爷爷见到福宝了",
+      "onboard_time": 1720147038,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236299,
       "num": 1236299,
       "word": "湖南卫视台标",
       "onboard_time": 1719809121,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1232862,
-      "num": 1232862,
-      "word": "姜爷爷见到福宝了",
-      "onboard_time": 1720147038,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1224152,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 991967,
-      "num": 859737,
+      "num": 990108,
       "word": "饿瘦和运动瘦的区别是什么",
       "onboard_time": 1720138877,
       "rank": 22,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 830518,
+      "num": 830518,
+      "word": "普京称更希望拜登担任美国总统",
+      "onboard_time": 1720147397,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 824410,
       "num": 824410,
       "word": "上海辟谣跟佛祖借了100亿元",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1719907279,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 820643,
-      "num": 395009,
-      "word": "普京称更希望拜登担任美国总统",
-      "onboard_time": 1720147397,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 819961,
@@ -2867,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 442319,
+      "num": 442319,
+      "word": "张真源和谁一组",
+      "onboard_time": 1720148837,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441750,
       "num": 441750,
       "word": "卡地亚派对",
@@ -2897,6 +2905,14 @@
       "onboard_time": 1719963556,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439428,
+      "num": 439428,
+      "word": "爱你官宣杀青",
+      "onboard_time": 1720148179,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 437519,
@@ -3163,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403965,
+      "num": 403965,
+      "word": "苏炳添回应无缘巴黎奥运会",
+      "onboard_time": 1720149077,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402318,
       "num": 402318,
       "word": "公安机关已调查涉江西银行不实信息",
@@ -3393,14 +3417,6 @@
       "onboard_time": 1719793999,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 380017,
-      "num": 380017,
-      "word": "爱你官宣杀青",
-      "onboard_time": 1720148179,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 378308,
@@ -4203,14 +4219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294283,
-      "num": 294283,
-      "word": "张真源和谁一组",
-      "onboard_time": 1720148837,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293910,
       "num": 293910,
       "word": "种地吧",
@@ -4595,6 +4603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263615,
+      "num": 263615,
+      "word": "李玟曾说希望中国音乐走向全世界",
+      "onboard_time": 1720145057,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263606,
       "num": 141810,
       "word": "如何用3周瘦42斤",
@@ -4707,14 +4723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253748,
-      "num": 253748,
-      "word": "李玟曾说希望中国音乐走向全世界",
-      "onboard_time": 1720145057,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253635,
       "num": 253635,
       "word": "保罗签约马刺",
@@ -4785,6 +4793,14 @@
       "onboard_time": 1719814219,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248537,
+      "num": 248537,
+      "word": "我妻善逸 哭颜第一",
+      "onboard_time": 1720148837,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 247700,
@@ -4865,6 +4881,14 @@
       "onboard_time": 1719756258,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243005,
+      "num": 243005,
+      "word": "离职博主们集体回去上班了",
+      "onboard_time": 1720149976,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242748,
@@ -4969,6 +4993,14 @@
       "onboard_time": 1719906679,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237527,
+      "num": 237527,
+      "word": "炉甘石洗剂比花露水更安全吗",
+      "onboard_time": 1720146797,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237121,
@@ -5163,14 +5195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225420,
-      "num": 225420,
-      "word": "我妻善逸 哭颜第一",
-      "onboard_time": 1720148837,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 225041,
       "num": 225041,
       "word": "子女的心寒是父母站在对立面",
@@ -5195,16 +5219,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 222964,
-      "num": 222964,
-      "word": "苏炳添回应无缘巴黎奥运会",
-      "onboard_time": 1720149077,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222386,
-      "num": 202457,
+      "num": 212258,
       "word": "Doinb说BLG输T1不是坏事",
       "onboard_time": 1720148718,
       "rank": 30,
@@ -5393,14 +5409,6 @@
       "onboard_time": 1719972198,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214973,
-      "num": 214973,
-      "word": "炉甘石洗剂比花露水更安全吗",
-      "onboard_time": 1720146797,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214690,
@@ -6163,8 +6171,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191568,
-      "num": 191568,
+      "raw_hot": 192042,
+      "num": 192042,
       "word": "错位定档",
       "onboard_time": 1720149497,
       "rank": 34,
@@ -6947,6 +6955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172962,
+      "num": 172962,
+      "word": "TF家族陆续到达澳门",
+      "onboard_time": 1720149199,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "疱疹性咽峡炎高发季",
@@ -7080,6 +7096,14 @@
       "word": "眼科医生眼里最毁眼睛的十个动作",
       "onboard_time": 1719962476,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168777,
+      "num": 168777,
+      "word": "哪种血型容易老年痴呆",
+      "onboard_time": 1720148417,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -7555,6 +7579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156855,
+      "num": 156855,
+      "word": "白敬亭项链反戴",
+      "onboard_time": 1720149799,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156834,
       "num": 156834,
       "word": "刚创业就被骗二十五万",
@@ -7969,14 +8001,6 @@
       "onboard_time": 1720057036,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148717,
-      "num": 148717,
-      "word": "TF家族陆续到达澳门",
-      "onboard_time": 1720149199,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148502,
@@ -8825,14 +8849,6 @@
       "onboard_time": 1719900498,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134722,
-      "num": 134722,
-      "word": "哪种血型容易老年痴呆",
-      "onboard_time": 1720148417,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134699,
@@ -11116,7 +11132,7 @@
     },
     {
       "raw_hot": 77953,
-      "num": 395799,
+      "num": 495062,
       "word": "我国成功发射天绘五号02组卫星",
       "onboard_time": 1720137255,
       "rank": 9,
@@ -11555,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55181,
+      "num": 892314,
+      "word": "塔吉克斯坦10岁小朋友中文太溜了",
+      "onboard_time": 1720150039,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55038,
       "num": 680304,
       "word": "雪龙2号和极地号硬核同框",
@@ -11569,6 +11593,14 @@
       "onboard_time": 1720086618,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53818,
+      "num": 478135,
+      "word": "姜爷爷和福宝重逢同框",
+      "onboard_time": 1720148898,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53662,
@@ -12665,6 +12697,14 @@
       "onboard_time": 1719853814,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 9658,
+      "num": 219530,
+      "word": "美国主播在家点燃10万美元烟花",
+      "onboard_time": 1720150279,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9529,
