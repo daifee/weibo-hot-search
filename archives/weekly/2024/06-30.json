@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720186451673,
+  "endTime": 1720189128441,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -19,12 +19,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2795145,
+      "num": 2795145,
+      "word": "黄宣 陶喆附体",
+      "onboard_time": 1720188382,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2710385,
       "num": 2710385,
       "word": "外交部回应张志杰离世",
       "onboard_time": 1719820099,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2710159,
+      "num": 2710159,
+      "word": "汪苏泷 甜妹",
+      "onboard_time": 1720186461,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2447964,
+      "num": 1531703,
+      "word": "那英发型 抄袭陶喆",
+      "onboard_time": 1720184841,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2346063,
@@ -299,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1531703,
-      "num": 1531703,
-      "word": "那英发型 抄袭陶喆",
-      "onboard_time": 1720184841,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1526574,
       "num": 1526574,
       "word": "今天明显对时间有了敬畏感",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 1468349,
-      "num": 285650,
+      "num": 306272,
       "word": "月经两三天干净和一周干净哪个健康些",
       "onboard_time": 1720173558,
       "rank": 20,
@@ -1123,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 900582,
+      "num": 399707,
+      "word": "袁娅维状态回来了",
+      "onboard_time": 1720188262,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 899501,
       "num": 899501,
       "word": "日本拉面店禁止食客用耳机",
@@ -1288,6 +1312,14 @@
       "word": "仅4成男性为结婚买房",
       "onboard_time": 1720071318,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850413,
+      "num": 850413,
+      "word": "宾馆老板见男子带幼女开房立刻报警",
+      "onboard_time": 1720183760,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1513,14 @@
       "onboard_time": 1719846079,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806885,
+      "num": 302932,
+      "word": "江湖流 Gai",
+      "onboard_time": 1720186342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 803029,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1719884718,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 738186,
-      "num": 428633,
-      "word": "宾馆老板见男子带幼女开房立刻报警",
-      "onboard_time": 1720183760,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 735381,
@@ -1995,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 656968,
+      "num": 300886,
+      "word": "汪苏泷 rnb",
+      "onboard_time": 1720187421,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655437,
       "num": 251518,
       "word": "微信收款码拍下来没法付款",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1719810860,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637925,
+      "num": 637925,
+      "word": "洞庭湖",
+      "onboard_time": 1720183820,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637690,
@@ -3419,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 483844,
+      "num": 483844,
+      "word": "飞机起飞4名贵宾室旅客被遗忘机场",
+      "onboard_time": 1720188382,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483744,
       "num": 251707,
       "word": "昨天才知道我十月四号要结婚了",
@@ -3939,20 +3995,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 443079,
-      "num": 443079,
-      "word": "洞庭湖",
-      "onboard_time": 1720183820,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442319,
       "num": 442319,
       "word": "张真源和谁一组",
       "onboard_time": 1720148837,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441865,
+      "num": 408478,
+      "word": "CBLOCK 熟人上电视的感觉",
+      "onboard_time": 1720185922,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 441750,
@@ -4299,14 +4355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 408478,
-      "num": 408478,
-      "word": "CBLOCK 熟人上电视的感觉",
-      "onboard_time": 1720185922,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408296,
       "num": 271629,
       "word": "研究生赚钱一定要学会吃身份红利",
@@ -4635,12 +4683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379314,
+      "num": 293471,
+      "word": "电影默杀",
+      "onboard_time": 1719988878,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378308,
       "num": 500248,
       "word": "秦彻偷跑",
       "onboard_time": 1720065917,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 377901,
+      "num": 290320,
+      "word": "邓超晒孙俪给他烤的肉",
+      "onboard_time": 1720187242,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 377032,
@@ -5491,6 +5555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317088,
+      "num": 283145,
+      "word": "韩红发文缅怀李玟",
+      "onboard_time": 1720187599,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315630,
       "num": 286274,
       "word": "张杰这次像牵女儿了",
@@ -5545,6 +5617,14 @@
       "onboard_time": 1720175600,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312063,
+      "num": 282950,
+      "word": "许钧 青春版汪峰",
+      "onboard_time": 1720188622,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 311676,
@@ -6051,6 +6131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284776,
+      "num": 284776,
+      "word": "恋与制作人夏活来了",
+      "onboard_time": 1720187721,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283952,
       "num": 283952,
       "word": "邓为发了涂山璟",
@@ -6081,6 +6169,14 @@
       "onboard_time": 1719801917,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282671,
+      "num": 282671,
+      "word": "你身上有原神的香水味",
+      "onboard_time": 1720187003,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 282530,
@@ -6315,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262815,
+      "num": 262815,
+      "word": "华容",
+      "onboard_time": 1720188382,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262459,
       "num": 204218,
       "word": "李蓉差点18岁就要守寡",
@@ -6449,6 +6553,14 @@
       "onboard_time": 1720062436,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254741,
+      "num": 283282,
+      "word": "湖南岳阳一处洞庭湖大堤发生溃口险情",
+      "onboard_time": 1720187362,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254118,
@@ -7531,6 +7643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210783,
+      "num": 210783,
+      "word": "歌手翻译 吃掉我的话",
+      "onboard_time": 1720186820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210664,
       "num": 210664,
       "word": "严浩翔腹肌",
@@ -7736,6 +7856,14 @@
       "word": "卓沅舞台",
       "onboard_time": 1719753978,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205572,
+      "num": 469606,
+      "word": "白鹿说怎么会让大家白艾特呢",
+      "onboard_time": 1720186461,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -8307,14 +8435,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 197657,
-      "num": 197657,
-      "word": "江湖流 Gai",
-      "onboard_time": 1720186342,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197558,
       "num": 182595,
       "word": "王一博桂林出发兰州",
@@ -8545,6 +8665,14 @@
       "onboard_time": 1720175119,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193092,
+      "num": 193092,
+      "word": "汪苏泷唱完观众喊好听",
+      "onboard_time": 1720189041,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193077,
@@ -8939,14 +9067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187967,
-      "num": 187967,
-      "word": "电影默杀",
-      "onboard_time": 1719988878,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187896,
       "num": 187896,
       "word": "导游称不买280元VIP就看不到天池",
@@ -9307,6 +9427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180401,
+      "num": 180401,
+      "word": "AG阵容",
+      "onboard_time": 1720186521,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180339,
       "num": 322401,
       "word": "山东人有自己的山东味了",
@@ -9409,6 +9537,14 @@
       "onboard_time": 1719798139,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "梁晓声点赞孙颖莎了不起",
+      "onboard_time": 1720186761,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 178572,
@@ -10185,6 +10321,14 @@
       "onboard_time": 1719918558,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 161250,
+      "word": "爱首先是一种创造爱的能力",
+      "onboard_time": 1720189099,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 161019,
@@ -14916,7 +15060,7 @@
     },
     {
       "raw_hot": 88533,
-      "num": 295456,
+      "num": 456634,
       "word": "孙海洋谈孙卓高考志愿",
       "onboard_time": 1720185440,
       "rank": 15,
@@ -16619,6 +16763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32769,
+      "num": 395129,
+      "word": "家用车真实油耗到底有多离谱",
+      "onboard_time": 1720188382,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32515,
       "num": 32515,
       "word": "发现了INFP快速找到热爱的方法",
@@ -16843,6 +16995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27024,
+      "num": 278522,
+      "word": "理想智能驾驶夏季发布会",
+      "onboard_time": 1720183879,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26885,
       "num": 244201,
       "word": "又好学又好考的双一流",
@@ -16993,14 +17153,6 @@
       "onboard_time": 1719775391,
       "rank": 44,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 23854,
-      "num": 278522,
-      "word": "理想智能驾驶夏季发布会",
-      "onboard_time": 1720183879,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 23379,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720189128441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2795145,
+        "num": 2795145,
+        "word": "黄宣 陶喆附体",
+        "onboard_time": 1720188382,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2710159,
+        "num": 2710159,
+        "word": "汪苏泷 甜妹",
+        "onboard_time": 1720186461,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33005,
+        "num": 1130325,
+        "word": "做完9道题秒懂塔吉克斯坦",
+        "onboard_time": 1720172358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850413,
+        "num": 850413,
+        "word": "宾馆老板见男子带幼女开房立刻报警",
+        "onboard_time": 1720183760,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637925,
+        "num": 637925,
+        "word": "洞庭湖",
+        "onboard_time": 1720183820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2447964,
+        "num": 564886,
+        "word": "那英发型 抄袭陶喆",
+        "onboard_time": 1720184841,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483844,
+        "num": 483844,
+        "word": "飞机起飞4名贵宾室旅客被遗忘机场",
+        "onboard_time": 1720188382,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471012,
+        "num": 471012,
+        "word": "男子中751万彩票藏枕头下半月才兑奖",
+        "onboard_time": 1720178898,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205572,
+        "num": 469606,
+        "word": "白鹿说怎么会让大家白艾特呢",
+        "onboard_time": 1720186461,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49228,
+        "num": 456634,
+        "word": "孙海洋谈孙卓高考志愿",
+        "onboard_time": 1720185440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233545,
+        "num": 439785,
+        "word": "歌手直播",
+        "onboard_time": 1720180040,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666261,
+        "num": 423928,
+        "word": "纳塔 丑",
+        "onboard_time": 1720184601,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 930743,
+        "num": 411569,
+        "word": "歌手 哭早了",
+        "onboard_time": 1720182860,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900582,
+        "num": 399707,
+        "word": "袁娅维状态回来了",
+        "onboard_time": 1720188262,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32769,
+        "num": 395129,
+        "word": "家用车真实油耗到底有多离谱",
+        "onboard_time": 1720188382,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 865693,
+        "num": 375530,
+        "word": "那英 清唱",
+        "onboard_time": 1720183039,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490889,
+        "num": 369254,
+        "word": "26岁女生应聘瑞幸被嫌年纪大",
+        "onboard_time": 1720174760,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361413,
+        "num": 361413,
+        "word": "西安交大通报毕业生被传是学术妲己",
+        "onboard_time": 1720178177,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309858,
+        "num": 309858,
+        "word": "盗墓笔记 抢票",
+        "onboard_time": 1720184901,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 308592,
+        "num": 308592,
+        "word": "汉堡老师去世",
+        "onboard_time": 1720173379,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1134003,
+        "num": 306272,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 806885,
+        "num": 302932,
+        "word": "江湖流 Gai",
+        "onboard_time": 1720186342,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656968,
+        "num": 300886,
+        "word": "汪苏泷 rnb",
+        "onboard_time": 1720187421,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441865,
+        "num": 298877,
+        "word": "CBLOCK 熟人上电视的感觉",
+        "onboard_time": 1720185922,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430878,
+        "num": 296220,
+        "word": "香缇莫 袁咏琳",
+        "onboard_time": 1720183161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379314,
+        "num": 293471,
+        "word": "电影默杀",
+        "onboard_time": 1720188562,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377901,
+        "num": 290320,
+        "word": "邓超晒孙俪给他烤的肉",
+        "onboard_time": 1720187242,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323855,
+        "num": 285362,
+        "word": "孙楠 拯救味",
+        "onboard_time": 1720184059,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284776,
+        "num": 284776,
+        "word": "恋与制作人夏活来了",
+        "onboard_time": 1720187721,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254741,
+        "num": 283282,
+        "word": "湖南岳阳一处洞庭湖大堤发生溃口险情",
+        "onboard_time": 1720187362,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317088,
+        "num": 283145,
+        "word": "韩红发文缅怀李玟",
+        "onboard_time": 1720187599,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312063,
+        "num": 282950,
+        "word": "许钧 青春版汪峰",
+        "onboard_time": 1720188622,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282671,
+        "num": 282671,
+        "word": "你身上有原神的香水味",
+        "onboard_time": 1720187003,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262815,
+        "num": 262815,
+        "word": "华容",
+        "onboard_time": 1720188382,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258178,
+        "num": 258178,
+        "word": "自助餐为什么不受欢迎了",
+        "onboard_time": 1720170198,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255342,
+        "num": 255342,
+        "word": "王曼昱说没参加单打有些遗憾",
+        "onboard_time": 1720184240,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232909,
+        "num": 232909,
+        "word": "涂山璟无缘今年奥运",
+        "onboard_time": 1720174579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214471,
+        "num": 214471,
+        "word": "刘松仁把今天发的胡歌删了",
+        "onboard_time": 1720184720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210783,
+        "num": 210783,
+        "word": "歌手翻译 吃掉我的话",
+        "onboard_time": 1720186820,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206287,
+        "num": 206287,
+        "word": "新婚夫妻身亡女方家被判还11万彩礼",
+        "onboard_time": 1720177939,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208870,
+        "num": 199986,
+        "word": "朱丹乘风4个月掉了14斤",
+        "onboard_time": 1720181299,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193092,
+        "num": 193092,
+        "word": "汪苏泷唱完观众喊好听",
+        "onboard_time": 1720189041,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190064,
+        "num": 190064,
+        "word": "医生说月经推迟是因为卵巢功能好",
+        "onboard_time": 1720176678,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189203,
+        "num": 189203,
+        "word": "宋雨琦ins发文",
+        "onboard_time": 1720171400,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188788,
+        "num": 188788,
+        "word": "谭维维怒音",
+        "onboard_time": 1720182920,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180401,
+        "num": 180401,
+        "word": "AG阵容",
+        "onboard_time": 1720186521,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178584,
+        "num": 178584,
+        "word": "梁晓声点赞孙颖莎了不起",
+        "onboard_time": 1720186761,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27024,
+        "num": 174646,
+        "word": "理想智能驾驶夏季发布会",
+        "onboard_time": 1720183879,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173932,
+        "num": 173932,
+        "word": "香缇莫改词",
+        "onboard_time": 1720185081,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161250,
+        "num": 161250,
+        "word": "爱首先是一种创造爱的能力",
+        "onboard_time": 1720189099,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中塔世代友好薪火相传发扬光大#"
+    }
+  }
+}
