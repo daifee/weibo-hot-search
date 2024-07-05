@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720221572139,
+  "endTime": 1720222563141,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -75,7 +75,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643488,
+      "raw_hot": 644481,
       "num": 182579,
       "word": "早上空腹喝水真比不吃早餐危害大吗",
       "onboard_time": 1720192222,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460357,
-      "num": 460357,
+      "raw_hot": 479926,
+      "num": 479926,
       "word": "葡萄牙3比5法国",
       "onboard_time": 1720217353,
       "rank": 6,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367856,
+      "num": 367856,
+      "word": "宾馆老板见男子带幼女开房立刻报警",
+      "onboard_time": 1720183760,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354797,
       "num": 354797,
       "word": "汪苏泷 甜妹",
@@ -216,14 +224,6 @@
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
       "onboard_time": 1720188382,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307124,
-      "num": 307124,
-      "word": "宾馆老板见男子带幼女开房立刻报警",
-      "onboard_time": 1720183760,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194447,
+      "num": 194447,
+      "word": "C罗欧洲杯最后一舞",
+      "onboard_time": 1720220953,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190498,
+      "num": 190498,
+      "word": "小暑",
+      "onboard_time": 1720221494,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187905,
       "num": 187905,
       "word": "TES对战GEN",
@@ -280,14 +296,6 @@
       "word": "葡萄牙欧洲杯出局",
       "onboard_time": 1720221254,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184169,
-      "num": 184169,
-      "word": "C罗欧洲杯最后一舞",
-      "onboard_time": 1720220953,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163574,
+      "num": 163574,
+      "word": "德国欧洲杯出局",
+      "onboard_time": 1720221194,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161768,
       "num": 161768,
       "word": "欧洲杯直播",
@@ -345,6 +361,14 @@
       "onboard_time": 1720191441,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155912,
+      "num": 155912,
+      "word": "今年的三伏40天",
+      "onboard_time": 1720221494,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 154790,
@@ -424,14 +448,6 @@
       "word": "原来全红婵也在看热搜",
       "onboard_time": 1720191261,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127777,
-      "num": 127777,
-      "word": "德国欧洲杯出局",
-      "onboard_time": 1720221194,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112374,
+      "num": 112374,
+      "word": "柳岩肌瘤手术",
+      "onboard_time": 1720222095,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110149,
       "num": 66286,
       "word": "葡萄牙vs法国首发",
@@ -571,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96087,
+      "num": 96087,
+      "word": "西班牙2比1德国",
+      "onboard_time": 1720221555,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96014,
       "num": 96014,
       "word": "原来宝宝真的比甲方还难伺候",
@@ -579,12 +611,20 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 94682,
-      "num": 94682,
-      "word": "小暑",
+      "raw_hot": 92800,
+      "num": 92800,
+      "word": "梅里诺绝杀",
+      "onboard_time": 1720221675,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92027,
+      "num": 92027,
+      "word": "贺炜致敬C罗佩佩",
       "onboard_time": 1720221494,
-      "rank": 31,
-      "category": "社会新闻"
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 91462,
@@ -603,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84538,
+      "num": 84538,
+      "word": "为啥人民币没有7元8元9元面值",
+      "onboard_time": 1720205052,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73204,
       "num": 47615,
       "word": "佩德里欧洲杯报销",
@@ -611,20 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68772,
-      "num": 68772,
-      "word": "今年的三伏40天",
-      "onboard_time": 1720221494,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 64960,
-      "num": 64960,
-      "word": "为啥人民币没有7元8元9元面值",
-      "onboard_time": 1720205052,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 68130,
+      "num": 68130,
+      "word": "菲利克斯失点",
+      "onboard_time": 1720221134,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 64710,
@@ -635,20 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63479,
-      "num": 63479,
-      "word": "西班牙2比1德国",
-      "onboard_time": 1720221555,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63373,
-      "num": 63373,
-      "word": "贺炜致敬C罗佩佩",
-      "onboard_time": 1720221494,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 61769,
+      "num": 61769,
+      "word": "谁家的电影票是主演画的",
+      "onboard_time": 1720201875,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 59887,
@@ -675,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41241,
-      "num": 41241,
-      "word": "谁家的电影票是主演画的",
-      "onboard_time": 1720201875,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 38869,
       "num": 378470,
       "word": "仪仗队离开前将中国零食分给留学生",
@@ -699,20 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34154,
+      "num": 247600,
+      "word": "锦旗寄到医院大家才知道她救了个人",
+      "onboard_time": 1720221134,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30779,
       "num": 492464,
       "word": "神十七乘组太空归来后正式亮相",
       "onboard_time": 1720192279,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30440,
-      "num": 235150,
-      "word": "锦旗寄到医院大家才知道她救了个人",
-      "onboard_time": 1720221134,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26621,

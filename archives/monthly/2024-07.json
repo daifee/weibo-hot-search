@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720221572139,
+  "endTime": 1720222563141,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1939,20 +1939,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 644481,
+      "num": 226639,
+      "word": "早上空腹喝水真比不吃早餐危害大吗",
+      "onboard_time": 1720192222,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 644350,
       "num": 644350,
       "word": "即将成为英国新首相的斯塔默是谁",
       "onboard_time": 1720154179,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 643488,
-      "num": 226639,
-      "word": "早上空腹喝水真比不吃早餐危害大吗",
-      "onboard_time": 1720192222,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 638213,
@@ -3235,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479926,
+      "num": 479926,
+      "word": "葡萄牙3比5法国",
+      "onboard_time": 1720217353,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479557,
       "num": 379587,
       "word": "网传建行总行降薪10%",
@@ -3369,14 +3377,6 @@
       "onboard_time": 1719966437,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460357,
-      "num": 460357,
-      "word": "葡萄牙3比5法国",
-      "onboard_time": 1720217353,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 459676,
@@ -7611,6 +7611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194447,
+      "num": 194447,
+      "word": "C罗欧洲杯最后一舞",
+      "onboard_time": 1720220953,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194419,
       "num": 194419,
       "word": "难哄",
@@ -7801,6 +7809,14 @@
       "onboard_time": 1720149019,
       "rank": 35,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 190498,
+      "num": 190498,
+      "word": "小暑",
+      "onboard_time": 1720221494,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190298,
@@ -8169,14 +8185,6 @@
       "onboard_time": 1719889637,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184169,
-      "num": 184169,
-      "word": "C罗欧洲杯最后一舞",
-      "onboard_time": 1720220953,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 184130,
@@ -9011,6 +9019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163574,
+      "num": 163574,
+      "word": "德国欧洲杯出局",
+      "onboard_time": 1720221194,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163477,
       "num": 163477,
       "word": "跳舞对身材能有多大改变",
@@ -9441,6 +9457,14 @@
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155912,
+      "num": 155912,
+      "word": "今年的三伏40天",
+      "onboard_time": 1720221494,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 155758,
@@ -11331,14 +11355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127777,
-      "num": 127777,
-      "word": "德国欧洲杯出局",
-      "onboard_time": 1720221194,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127763,
       "num": 127763,
       "word": "裴文宣李蓉野猫哪有家猫香",
@@ -12323,6 +12339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112374,
+      "num": 112374,
+      "word": "柳岩肌瘤手术",
+      "onboard_time": 1720222095,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112209,
       "num": 112209,
       "word": "猴哥 三皇五帝你最好认识一个",
@@ -12995,6 +13019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96087,
+      "num": 96087,
+      "word": "西班牙2比1德国",
+      "onboard_time": 1720221555,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96014,
       "num": 96014,
       "word": "原来宝宝真的比甲方还难伺候",
@@ -13051,14 +13083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94682,
-      "num": 94682,
-      "word": "小暑",
-      "onboard_time": 1720221494,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "江苏多地旅游景区取消预约",
@@ -13091,6 +13115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92800,
+      "num": 92800,
+      "word": "梅里诺绝杀",
+      "onboard_time": 1720221675,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92724,
       "num": 92724,
       "word": "大学生开始反向升学读技校了",
@@ -13113,6 +13145,14 @@
       "onboard_time": 1719965118,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92027,
+      "num": 92027,
+      "word": "贺炜致敬C罗佩佩",
+      "onboard_time": 1720221494,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 91937,
@@ -13371,6 +13411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84538,
+      "num": 84538,
+      "word": "为啥人民币没有7元8元9元面值",
+      "onboard_time": 1720205052,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84421,
       "num": 84421,
       "word": "花花伸出小短手够竹笋太努力了",
@@ -13587,14 +13635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68772,
-      "num": 68772,
-      "word": "今年的三伏40天",
-      "onboard_time": 1720221494,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 68765,
       "num": 318802,
       "word": "外国女子突发疾病还好遇上中国医生",
@@ -13608,6 +13648,14 @@
       "word": "法国晋级欧洲杯8强",
       "onboard_time": 1719876076,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68130,
+      "num": 68130,
+      "word": "菲利克斯失点",
+      "onboard_time": 1720221134,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -13707,14 +13755,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64960,
-      "num": 64960,
-      "word": "为啥人民币没有7元8元9元面值",
-      "onboard_time": 1720205052,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 64761,
       "num": 64761,
       "word": "肾虚不虚看这5个地方就知道",
@@ -13753,22 +13793,6 @@
       "onboard_time": 1720056857,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63479,
-      "num": 63479,
-      "word": "西班牙2比1德国",
-      "onboard_time": 1720221555,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63373,
-      "num": 63373,
-      "word": "贺炜致敬C罗佩佩",
-      "onboard_time": 1720221494,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 63302,
@@ -13817,6 +13841,14 @@
       "onboard_time": 1720092798,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61769,
+      "num": 61769,
+      "word": "谁家的电影票是主演画的",
+      "onboard_time": 1720201875,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 61609,
@@ -14395,14 +14427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 41241,
-      "num": 41241,
-      "word": "谁家的电影票是主演画的",
-      "onboard_time": 1720201875,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40935,
       "num": 274804,
       "word": "健身房的人型多巴胺belike",
@@ -14643,6 +14667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34154,
+      "num": 247600,
+      "word": "锦旗寄到医院大家才知道她救了个人",
+      "onboard_time": 1720221134,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33922,
       "num": 49132,
       "word": "这种黄瓜有助于减脂",
@@ -14729,14 +14761,6 @@
       "onboard_time": 1720091177,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30440,
-      "num": 235150,
-      "word": "锦旗寄到医院大家才知道她救了个人",
-      "onboard_time": 1720221134,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30327,
