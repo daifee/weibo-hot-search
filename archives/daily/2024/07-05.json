@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720182934564,
+  "endTime": 1720183836082,
   "band_list": [
     {
       "raw_hot": 2346063,
@@ -8,6 +8,14 @@
       "word": "歌手直播",
       "onboard_time": 1720180040,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1973002,
+      "num": 1973002,
+      "word": "那英 清唱",
+      "onboard_time": 1720183039,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1320266,
+      "num": 1320266,
+      "word": "歌手 哭早了",
+      "onboard_time": 1720182860,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1261394,
       "num": 1261394,
       "word": "姜爷爷见到福宝了",
@@ -105,6 +121,14 @@
       "onboard_time": 1720103840,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1074266,
+      "num": 1074266,
+      "word": "谭维维怒音",
+      "onboard_time": 1720182920,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1019927,
@@ -579,6 +603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 461568,
+      "num": 197416,
+      "word": "香缇莫 袁咏琳",
+      "onboard_time": 1720183161,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458379,
       "num": 243472,
       "word": "第一次听说内裤前的蝴蝶结这么有用",
@@ -787,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 341291,
+      "num": 341291,
+      "word": "原神4.8版本直播",
+      "onboard_time": 1720182800,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338160,
       "num": 338160,
       "word": "大马丁神了",
@@ -905,14 +945,6 @@
       "onboard_time": 1720168759,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 298003,
-      "num": 233698,
-      "word": "歌手 哭早了",
-      "onboard_time": 1720182860,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 296708,
@@ -1212,7 +1244,7 @@
     },
     {
       "raw_hot": 221214,
-      "num": 221214,
+      "num": 230274,
       "word": "韩国演员姐妹遭性侵自杀案",
       "onboard_time": 1720167679,
       "rank": 29,
@@ -1411,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201276,
+      "num": 201276,
+      "word": "时代峰峻回应严浩翔受伤",
+      "onboard_time": 1720182200,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201108,
       "num": 270004,
       "word": "杭州80岁阿姨根本看不出80岁的原因",
@@ -1505,14 +1545,6 @@
       "onboard_time": 1720098079,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193395,
-      "num": 171089,
-      "word": "时代峰峻回应严浩翔受伤",
-      "onboard_time": 1720182200,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 193309,
@@ -1819,10 +1851,10 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162993,
-      "num": 162993,
-      "word": "原神4.8版本直播",
-      "onboard_time": 1720182800,
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "原神兑换码",
+      "onboard_time": 1720183641,
       "rank": 34,
       "category": "游戏"
     },
@@ -1907,12 +1939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148592,
+      "num": 148592,
+      "word": "山东龙卷风商户称像世界末日",
+      "onboard_time": 1720183280,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148264,
       "num": 148264,
       "word": "苏新皓射箭",
       "onboard_time": 1720161560,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145812,
+      "num": 145812,
+      "word": "东方卫视发长相思第二季预告",
+      "onboard_time": 1720183400,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 145793,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1720092978,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143863,
+      "num": 143863,
+      "word": "宾馆老板见男子带幼女开房立刻报警",
+      "onboard_time": 1720183760,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143629,
@@ -2179,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123644,
+      "num": 123644,
+      "word": "被纪星怒拒2000万爽到了",
+      "onboard_time": 1720183699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122844,
       "num": 122844,
       "word": "宋亚轩刘耀文同队",
@@ -2227,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120130,
+      "num": 120130,
+      "word": "林高远3比0冯翊新",
+      "onboard_time": 1720183400,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120057,
       "num": 120057,
       "word": "李晨说期待苏炳添重回赛场",
@@ -2241,6 +2313,14 @@
       "onboard_time": 1720160598,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "去年开封的防晒霜今年最好别用",
+      "onboard_time": 1720182500,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 117993,
@@ -2273,14 +2353,6 @@
       "onboard_time": 1720105459,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115250,
-      "num": 115250,
-      "word": "去年开封的防晒霜今年最好别用",
-      "onboard_time": 1720182500,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 115177,
@@ -2604,7 +2676,7 @@
     },
     {
       "raw_hot": 66966,
-      "num": 780400,
+      "num": 1565623,
       "word": "做完9道题秒懂塔吉克斯坦",
       "onboard_time": 1720172358,
       "rank": 2,
@@ -2747,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46510,
+      "num": 316614,
+      "word": "列车长海姆立克救下女孩全车点赞",
+      "onboard_time": 1720181718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44330,
       "num": 44330,
       "word": "风中凌乱的任嘉伦",
@@ -2787,14 +2867,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 37491,
-      "num": 316614,
-      "word": "列车长海姆立克救下女孩全车点赞",
-      "onboard_time": 1720181718,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36721,
       "num": 278611,
       "word": "卡地亚上海展开放预约",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1720165459,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30887,
+      "num": 249594,
+      "word": "这是我见过最优雅的引体向上",
+      "onboard_time": 1720183579,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 30687,
