@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720154353792,
+  "endTime": 1720156721610,
   "band_list": [
     {
       "raw_hot": 1602161,
@@ -41,6 +41,14 @@
       "onboard_time": 1720103840,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1012313,
+      "num": 436990,
+      "word": "公务员辞职读博6年后我退学了",
+      "onboard_time": 1720154719,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 998784,
@@ -129,6 +137,14 @@
       "onboard_time": 1720152258,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 714115,
+      "num": 714115,
+      "word": "斯塔默将成英国新首相",
+      "onboard_time": 1720153759,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 708197,
@@ -257,6 +273,14 @@
       "onboard_time": 1720130651,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 453674,
+      "num": 453674,
+      "word": "TF家族运动会",
+      "onboard_time": 1720154059,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 448885,
@@ -395,6 +419,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 307791,
+      "num": 307791,
+      "word": "英国首相苏纳克承认败选",
+      "onboard_time": 1720153459,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 306712,
       "num": 306712,
       "word": "养父母未办领养手续养子失去继承权",
@@ -441,14 +473,6 @@
       "onboard_time": 1720145478,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286882,
-      "num": 286882,
-      "word": "英国首相苏纳克承认败选",
-      "onboard_time": 1720153459,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 286137,
@@ -499,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261332,
-      "num": 261332,
-      "word": "斯塔默将成英国新首相",
-      "onboard_time": 1720153759,
-      "rank": 24,
-      "category": "国外时政"
+      "raw_hot": 263063,
+      "num": 240297,
+      "word": "中医建议减肥饿瘦不如补瘦",
+      "onboard_time": 1720154600,
+      "rank": 25,
+      "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 260615,
+      "num": 260615,
+      "word": "何洁解释郭碧婷忘动作",
+      "onboard_time": 1720156579,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 260300,
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242439,
+      "num": 444488,
+      "word": "即将成为英国新首相的斯塔默是谁",
+      "onboard_time": 1720154179,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 242306,
       "num": 242306,
       "word": "黑神话公司门口遭恶意涂鸦",
@@ -553,6 +593,14 @@
       "onboard_time": 1720132092,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231414,
+      "num": 231414,
+      "word": "丁程鑫运动会内场路透",
+      "onboard_time": 1720155739,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 228986,
@@ -587,12 +635,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221194,
+      "num": 221194,
+      "word": "在菲绑架中国人团伙头目之一落网",
+      "onboard_time": 1720155560,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 218614,
       "num": 218614,
       "word": "吉祥航空通报不开空调致旅客中暑",
       "onboard_time": 1720097959,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216916,
+      "num": 216916,
+      "word": "张杰又可以接谢娜下班了",
+      "onboard_time": 1720154959,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 213622,
@@ -608,6 +672,14 @@
       "word": "林一一句话王玉雯哆嗦好几下",
       "onboard_time": 1720136476,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207388,
+      "num": 207388,
+      "word": "刘忻拥抱张予曦",
+      "onboard_time": 1720155858,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -707,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193046,
+      "num": 193046,
+      "word": "戚薇陈昊宇跨团合作若梦",
+      "onboard_time": 1720156279,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192848,
       "num": 192848,
       "word": "哪种血型容易老年痴呆",
@@ -761,14 +841,6 @@
       "onboard_time": 1720114573,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189866,
-      "num": 189866,
-      "word": "TF家族运动会",
-      "onboard_time": 1720154059,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 188323,
@@ -867,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165188,
+      "num": 165188,
+      "word": "沙特王子接见Faker和chovy",
+      "onboard_time": 1720155800,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164046,
       "num": 164046,
       "word": "广州地铁18号线沙溪站停止对外服务",
@@ -907,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153569,
+      "num": 153569,
+      "word": "92岁老人24秒翻2米高大门出走",
+      "onboard_time": 1720155919,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "汪苏泷 小小虫",
@@ -915,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152968,
+      "num": 152968,
+      "word": "欢迎来到我身边",
+      "onboard_time": 1720155980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149415,
       "num": 149415,
       "word": "绝区零 打击感",
       "onboard_time": 1720137496,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149225,
-      "num": 149225,
-      "word": "即将成为英国新首相的斯塔默是谁",
-      "onboard_time": 1720154179,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 149204,
@@ -1043,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131072,
+      "num": 131072,
+      "word": "乘风2024",
+      "onboard_time": 1720155200,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129522,
       "num": 129522,
       "word": "花花吃着吃着直接上桌了",
@@ -1075,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124933,
+      "num": 124933,
+      "word": "登陆日一公导师官宣",
+      "onboard_time": 1720155200,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122844,
       "num": 122844,
       "word": "宋亚轩刘耀文同队",
@@ -1089,6 +1193,14 @@
       "onboard_time": 1720117692,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120163,
+      "num": 433175,
+      "word": "那些陪你跨过的人还在吗",
+      "onboard_time": 1720152199,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 117993,
@@ -1331,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66059,
-      "num": 363786,
-      "word": "那些陪你跨过的人还在吗",
-      "onboard_time": 1720152199,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64121,
       "num": 84853,
       "word": "吴谨言下一部剧妆造",
@@ -1427,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50311,
+      "num": 495723,
+      "word": "校长在毕业典礼上渐入佳境",
+      "onboard_time": 1720153340,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 50193,
       "num": 384803,
       "word": "12岁残疾女孩3个月苦练羽毛球获奖",
@@ -1491,14 +1603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28871,
-      "num": 495723,
-      "word": "校长在毕业典礼上渐入佳境",
-      "onboard_time": 1720153340,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 27474,
       "num": 48999,
       "word": "绝区零建模",
@@ -1537,6 +1641,14 @@
       "onboard_time": 1720116012,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19693,
+      "num": 153040,
+      "word": "苏翊鸣说不设限的人生更有意思",
+      "onboard_time": 1720155919,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 19536,
@@ -1634,6 +1746,9 @@
     },
     {
       "word": "#习主席中亚之行#"
+    },
+    {
+      "word": "#塔吉克斯坦千人跳舞热烈欢迎习近平主席#"
     }
   ]
 }
