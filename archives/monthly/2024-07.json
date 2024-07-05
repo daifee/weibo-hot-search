@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720183836082,
+  "endTime": 1720185690676,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1537487,
+      "num": 1537487,
+      "word": "歌手 哭早了",
+      "onboard_time": 1720182860,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1526574,
       "num": 1526574,
       "word": "今天明显对时间有了敬畏感",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1320266,
-      "num": 1320266,
-      "word": "歌手 哭早了",
-      "onboard_time": 1720182860,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1302794,
       "num": 676137,
       "word": "野孩子声明",
@@ -585,6 +585,14 @@
       "onboard_time": 1719962596,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1160602,
+      "num": 1160602,
+      "word": "香缇莫 袁咏琳",
+      "onboard_time": 1720183161,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1146537,
@@ -841,6 +849,14 @@
       "onboard_time": 1719976697,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 973543,
+      "num": 321178,
+      "word": "孙楠 拯救味",
+      "onboard_time": 1720184059,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 969275,
@@ -1363,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 773672,
+      "num": 313304,
+      "word": "那英发型 抄袭陶喆",
+      "onboard_time": 1720184841,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 768129,
       "num": 528150,
       "word": "新疆有自己的娱乐圈",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1719884718,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 738186,
+      "num": 308477,
+      "word": "宾馆老板见男子带幼女开房立刻报警",
+      "onboard_time": 1720183760,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735381,
@@ -2348,7 +2380,7 @@
     },
     {
       "raw_hot": 549259,
-      "num": 291664,
+      "num": 323447,
       "word": "自助餐为什么不受欢迎了",
       "onboard_time": 1720170198,
       "rank": 32,
@@ -2404,7 +2436,7 @@
     },
     {
       "raw_hot": 543729,
-      "num": 239646,
+      "num": 241130,
       "word": "新婚夫妻身亡女方家被判还11万彩礼",
       "onboard_time": 1720177939,
       "rank": 38,
@@ -3059,6 +3091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 467288,
+      "num": 302305,
+      "word": "纳塔 丑",
+      "onboard_time": 1720184601,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 463640,
       "num": 463640,
       "word": "张志杰埃里克森倒地救治对比",
@@ -3097,14 +3137,6 @@
       "onboard_time": 1719896601,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461568,
-      "num": 197416,
-      "word": "香缇莫 袁咏琳",
-      "onboard_time": 1720183161,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 461345,
@@ -3971,6 +4003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374693,
+      "num": 374693,
+      "word": "洞庭湖",
+      "onboard_time": 1720183820,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374323,
       "num": 374323,
       "word": "荷兰70岁夫妇接受双人安乐死",
@@ -4291,6 +4331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 343997,
+      "num": 240169,
+      "word": "凡希亚弹唱",
+      "onboard_time": 1720184901,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343613,
       "num": 343613,
       "word": "于正媚粉视频",
@@ -4561,6 +4609,14 @@
       "onboard_time": 1719962356,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318854,
+      "num": 237200,
+      "word": "香缇莫改词",
+      "onboard_time": 1720185081,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 318673,
@@ -5107,6 +5163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279939,
+      "num": 279939,
+      "word": "王曼昱说没参加单打有些遗憾",
+      "onboard_time": 1720184240,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278407,
       "num": 228768,
       "word": "小猫有事哒有事哒",
@@ -5427,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251190,
+      "num": 236754,
+      "word": "刘松仁把今天发的胡歌删了",
+      "onboard_time": 1720184720,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250381,
       "num": 154792,
       "word": "以色列民众示威要求提前大选结束冲突",
@@ -5489,6 +5561,14 @@
       "onboard_time": 1720148837,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 248154,
+      "num": 236680,
+      "word": "歌手顺序",
+      "onboard_time": 1720185081,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 247700,
@@ -5713,6 +5793,14 @@
       "onboard_time": 1719812299,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236487,
+      "num": 236487,
+      "word": "盗墓笔记 抢票",
+      "onboard_time": 1720184901,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 236002,
@@ -6537,6 +6625,14 @@
       "onboard_time": 1719973638,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204706,
+      "num": 204706,
+      "word": "汪苏泷歌手后台扯面",
+      "onboard_time": 1720185200,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 204688,
@@ -8187,6 +8283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169663,
+      "num": 169663,
+      "word": "原神兑换码",
+      "onboard_time": 1720183641,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169510,
       "num": 169510,
       "word": "突然发现了韩国文化的精髓",
@@ -8297,6 +8401,14 @@
       "onboard_time": 1720103419,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166242,
+      "num": 166242,
+      "word": "山东龙卷风商户称像世界末日",
+      "onboard_time": 1720183280,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165942,
@@ -8425,14 +8537,6 @@
       "onboard_time": 1720169958,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 163002,
-      "num": 163002,
-      "word": "原神兑换码",
-      "onboard_time": 1720183641,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 162924,
@@ -9187,14 +9291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148592,
-      "num": 148592,
-      "word": "山东龙卷风商户称像世界末日",
-      "onboard_time": 1720183280,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148502,
       "num": 148502,
       "word": "骂领导的信息不小心发给领导了",
@@ -9233,6 +9329,14 @@
       "onboard_time": 1720060636,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147512,
+      "num": 147512,
+      "word": "非农",
+      "onboard_time": 1720184780,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 147276,
@@ -9379,6 +9483,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 145005,
+      "num": 145005,
+      "word": "张峻豪饭拍",
+      "onboard_time": 1720183879,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144953,
       "num": 144953,
       "word": "Steam公开账号的未玩游戏或价值138亿",
@@ -9475,12 +9587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143863,
-      "num": 143863,
-      "word": "宾馆老板见男子带幼女开房立刻报警",
-      "onboard_time": 1720183760,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 143685,
+      "num": 143685,
+      "word": "孙楠越唱越稳",
+      "onboard_time": 1720183879,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 143652,
@@ -9929,6 +10041,14 @@
       "onboard_time": 1720172600,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137514,
+      "num": 137514,
+      "word": "树蛙涂防晒",
+      "onboard_time": 1720185502,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137331,
@@ -12939,6 +13059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62377,
+      "num": 249594,
+      "word": "这是我见过最优雅的引体向上",
+      "onboard_time": 1720183579,
+      "rank": 16,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 62083,
       "num": 203335,
       "word": "小哥双腿绑沙袋送快递跑进奥运会",
@@ -13651,6 +13779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35749,
+      "num": 295456,
+      "word": "孙海洋谈孙卓高考志愿",
+      "onboard_time": 1720185440,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35598,
       "num": 422801,
       "word": "洛阳华南虎家族再添6只虎宝宝",
@@ -13753,14 +13889,6 @@
       "onboard_time": 1719844039,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30887,
-      "num": 249594,
-      "word": "这是我见过最优雅的引体向上",
-      "onboard_time": 1720183579,
-      "rank": 16,
-      "category": "运动健身"
     },
     {
       "raw_hot": 30856,
@@ -14089,6 +14217,14 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21522,
+      "num": 237307,
+      "word": "理想智能驾驶夏季发布会",
+      "onboard_time": 1720183879,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 20713,
