@@ -1,7 +1,15 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720179278766,
+  "endTime": 1720182934564,
   "band_list": [
+    {
+      "raw_hot": 2346063,
+      "num": 2346063,
+      "word": "歌手直播",
+      "onboard_time": 1720180040,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1919589,
       "num": 336055,
@@ -80,6 +88,14 @@
       "word": "公职人员当众撕毁群众办事材料",
       "onboard_time": 1720169478,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126604,
+      "num": 1126604,
+      "word": "男子中751万彩票藏枕头下半月才兑奖",
+      "onboard_time": 1720178898,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 791663,
-      "num": 293253,
+      "num": 314006,
       "word": "26岁女生应聘瑞幸被嫌年纪大",
       "onboard_time": 1720174760,
       "rank": 46,
@@ -248,6 +264,14 @@
       "word": "不停道歉的东方甄选怎么了",
       "onboard_time": 1720102459,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743943,
+      "num": 743943,
+      "word": "西安交大通报毕业生被传是学术妲己",
+      "onboard_time": 1720178177,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -339,12 +363,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 598462,
+      "num": 315502,
+      "word": "严浩翔受伤",
+      "onboard_time": 1720179318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593393,
       "num": 593393,
       "word": "赵今麦张凌赫 二搭",
       "onboard_time": 1720152739,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570954,
+      "num": 315167,
+      "word": "朱丹乘风4个月掉了14斤",
+      "onboard_time": 1720181299,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 567182,
@@ -385,6 +425,14 @@
       "onboard_time": 1720161376,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543729,
+      "num": 239646,
+      "word": "新婚夫妻身亡女方家被判还11万彩礼",
+      "onboard_time": 1720177939,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539084,
@@ -457,6 +505,14 @@
       "onboard_time": 1720167859,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496290,
+      "num": 496290,
+      "word": "杨紫工作室回复中南大学",
+      "onboard_time": 1720180638,
+      "rank": 6,
+      "category": "作品衍生,教育"
     },
     {
       "raw_hot": 488678,
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 384225,
-      "num": 292024,
+      "num": 353628,
       "word": "山东东明龙卷风致1死79伤",
       "onboard_time": 1720175179,
       "rank": 22,
@@ -731,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 338327,
-      "num": 186790,
-      "word": "西安交大通报毕业生被传是学术妲己",
-      "onboard_time": 1720178177,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338160,
       "num": 338160,
       "word": "大马丁神了",
@@ -795,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309680,
-      "num": 211869,
-      "word": "新婚夫妻身亡女方家被判还11万彩礼",
-      "onboard_time": 1720177939,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 311653,
+      "num": 311653,
+      "word": "朱志鑫露腹肌",
+      "onboard_time": 1720180879,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 307791,
@@ -857,6 +905,14 @@
       "onboard_time": 1720168759,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 298003,
+      "num": 233698,
+      "word": "歌手 哭早了",
+      "onboard_time": 1720182860,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 296708,
@@ -995,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254102,
+      "num": 254102,
+      "word": "气象部门已赴东明龙卷风现场调查",
+      "onboard_time": 1720176201,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249974,
       "num": 249974,
       "word": "田曦薇花间提裙",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1720160898,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232744,
+      "num": 232744,
+      "word": "医生说月经推迟是因为卵巢功能好",
+      "onboard_time": 1720176678,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232544,
@@ -1147,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "奔跑吧",
+      "onboard_time": 1720181479,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218614,
       "num": 218614,
       "word": "吉祥航空通报不开空调致旅客中暑",
@@ -1179,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214097,
+      "num": 214097,
+      "word": "ENHYPEN空降",
+      "onboard_time": 1720179438,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213622,
       "num": 213622,
       "word": "虎鲸竟然会伸舌头",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1720155919,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210664,
+      "num": 210664,
+      "word": "严浩翔腹肌",
+      "onboard_time": 1720180579,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 210521,
@@ -1233,14 +1329,6 @@
       "onboard_time": 1720147397,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206513,
-      "num": 206513,
-      "word": "男子中751万彩票藏枕头下半月才兑奖",
-      "onboard_time": 1720178898,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206239,
@@ -1331,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201094,
-      "num": 201094,
-      "word": "医生说月经推迟是因为卵巢功能好",
-      "onboard_time": 1720176678,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 200380,
       "num": 200380,
       "word": "刚结婚就异地刚重逢就和好",
@@ -1387,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195791,
+      "num": 195791,
+      "word": "TF运动会 受伤",
+      "onboard_time": 1720181059,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194945,
       "num": 194945,
       "word": "北大考古女孩正参加敦煌研究院招聘",
@@ -1417,6 +1505,14 @@
       "onboard_time": 1720098079,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193395,
+      "num": 171089,
+      "word": "时代峰峻回应严浩翔受伤",
+      "onboard_time": 1720182200,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 193309,
@@ -1521,6 +1617,22 @@
       "onboard_time": 1720167679,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188753,
+      "num": 188753,
+      "word": "陈昊宇发长文告别乘风",
+      "onboard_time": 1720182260,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188530,
+      "num": 248118,
+      "word": "WTT球星挑战赛曼谷站2024",
+      "onboard_time": 1720181718,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 188469,
@@ -1707,6 +1819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162993,
+      "num": 162993,
+      "word": "原神4.8版本直播",
+      "onboard_time": 1720182800,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162726,
       "num": 162726,
       "word": "原来竹荪是这样采摘的",
@@ -1833,14 +1953,6 @@
       "onboard_time": 1720137617,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142141,
-      "num": 142141,
-      "word": "气象部门已赴东明龙卷风现场调查",
-      "onboard_time": 1720176201,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139914,
@@ -2027,6 +2139,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 125241,
+      "num": 125241,
+      "word": "任嘉伦的学习态度",
+      "onboard_time": 1720182379,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124967,
       "num": 124967,
       "word": "长相思第二季变更为23集",
@@ -2041,6 +2161,14 @@
       "onboard_time": 1720155200,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124796,
+      "num": 124796,
+      "word": "苏新皓等你的回答fo",
+      "onboard_time": 1720182559,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 123847,
@@ -2147,6 +2275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115250,
+      "num": 115250,
+      "word": "去年开封的防晒霜今年最好别用",
+      "onboard_time": 1720182500,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 115177,
       "num": 115177,
       "word": "Hero对战DYG",
@@ -2185,6 +2321,14 @@
       "onboard_time": 1720094599,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113312,
+      "num": 113312,
+      "word": "传说点映",
+      "onboard_time": 1720180339,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 113064,
@@ -2643,6 +2787,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 37491,
+      "num": 316614,
+      "word": "列车长海姆立克救下女孩全车点赞",
+      "onboard_time": 1720181718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36721,
       "num": 278611,
       "word": "卡地亚上海展开放预约",
@@ -2891,6 +3043,9 @@
     },
     {
       "word": "#习主席哈萨克斯坦之行令人难忘的细节#"
+    },
+    {
+      "word": "#习近平中亚之行#"
     }
   ]
 }

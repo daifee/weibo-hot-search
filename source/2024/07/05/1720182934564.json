@@ -1,0 +1,410 @@
+{
+  "runTime": 1720182934564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2346063,
+        "num": 2346063,
+        "word": "歌手直播",
+        "onboard_time": 1720180040,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1126604,
+        "num": 1126604,
+        "word": "男子中751万彩票藏枕头下半月才兑奖",
+        "onboard_time": 1720178898,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52517,
+        "num": 764167,
+        "word": "做完9道题秒懂塔吉克斯坦",
+        "onboard_time": 1720172358,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 743943,
+        "num": 743943,
+        "word": "西安交大通报毕业生被传是学术妲己",
+        "onboard_time": 1720178177,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583615,
+        "num": 583615,
+        "word": "涂山璟无缘今年奥运",
+        "onboard_time": 1720174579,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499366,
+        "num": 499366,
+        "word": "汉堡老师去世",
+        "onboard_time": 1720173379,
+        "rank": 5,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 496290,
+        "num": 496290,
+        "word": "杨紫工作室回复中南大学",
+        "onboard_time": 1720180638,
+        "rank": 6,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 353628,
+        "num": 353628,
+        "word": "山东东明龙卷风致1死79伤",
+        "onboard_time": 1720175179,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316748,
+        "num": 316748,
+        "word": "河南暴雨",
+        "onboard_time": 1720175778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37491,
+        "num": 316614,
+        "word": "列车长海姆立克救下女孩全车点赞",
+        "onboard_time": 1720181718,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598462,
+        "num": 315502,
+        "word": "严浩翔受伤",
+        "onboard_time": 1720179318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570954,
+        "num": 315167,
+        "word": "朱丹乘风4个月掉了14斤",
+        "onboard_time": 1720181299,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453980,
+        "num": 314006,
+        "word": "26岁女生应聘瑞幸被嫌年纪大",
+        "onboard_time": 1720174760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324297,
+        "num": 313457,
+        "word": "宋雨琦ins发文",
+        "onboard_time": 1720171400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312826,
+        "num": 312826,
+        "word": "马嘉祺受伤",
+        "onboard_time": 1720172659,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311653,
+        "num": 311653,
+        "word": "朱志鑫露腹肌",
+        "onboard_time": 1720180879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285475,
+        "num": 285475,
+        "word": "方便面被年轻人抛弃了吗",
+        "onboard_time": 1720173319,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254102,
+        "num": 254102,
+        "word": "气象部门已赴东明龙卷风现场调查",
+        "onboard_time": 1720176201,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251404,
+        "num": 251404,
+        "word": "自助餐为什么不受欢迎了",
+        "onboard_time": 1720170198,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188530,
+        "num": 248118,
+        "word": "WTT球星挑战赛曼谷站2024",
+        "onboard_time": 1720181718,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1117046,
+        "num": 246357,
+        "word": "月经两三天干净和一周干净哪个健康些",
+        "onboard_time": 1720173558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 600694,
+        "num": 241704,
+        "word": "丁程鑫受伤",
+        "onboard_time": 1720176919,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543729,
+        "num": 239646,
+        "word": "新婚夫妻身亡女方家被判还11万彩礼",
+        "onboard_time": 1720177939,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298003,
+        "num": 233698,
+        "word": "歌手 哭早了",
+        "onboard_time": 1720182860,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232744,
+        "num": 232744,
+        "word": "医生说月经推迟是因为卵巢功能好",
+        "onboard_time": 1720176678,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219350,
+        "num": 219350,
+        "word": "奔跑吧",
+        "onboard_time": 1720181479,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215301,
+        "num": 215301,
+        "word": "第一次听说内裤前的蝴蝶结这么有用",
+        "onboard_time": 1720173500,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214097,
+        "num": 214097,
+        "word": "ENHYPEN空降",
+        "onboard_time": 1720179438,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210664,
+        "num": 210664,
+        "word": "严浩翔腹肌",
+        "onboard_time": 1720180579,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195791,
+        "num": 195791,
+        "word": "TF运动会 受伤",
+        "onboard_time": 1720181059,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188753,
+        "num": 188753,
+        "word": "陈昊宇发长文告别乘风",
+        "onboard_time": 1720182260,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178340,
+        "num": 178340,
+        "word": "菲律宾撕票案李娜来自中国台湾",
+        "onboard_time": 1720160779,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171151,
+        "num": 171151,
+        "word": "许嵩演唱会官宣8城",
+        "onboard_time": 1720173858,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193395,
+        "num": 171089,
+        "word": "时代峰峻回应严浩翔受伤",
+        "onboard_time": 1720182200,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162993,
+        "num": 162993,
+        "word": "原神4.8版本直播",
+        "onboard_time": 1720182800,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162250,
+        "num": 162250,
+        "word": "入职体检报告你看懂了吗",
+        "onboard_time": 1720174700,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138030,
+        "num": 138030,
+        "word": "杨丞琳谈看上李荣浩的原因",
+        "onboard_time": 1720175600,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134254,
+        "num": 134254,
+        "word": "韩国演员姐妹遭性侵自杀案",
+        "onboard_time": 1720167679,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131446,
+        "num": 131446,
+        "word": "长期午睡和不午睡有何区别",
+        "onboard_time": 1720163419,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125241,
+        "num": 125241,
+        "word": "任嘉伦的学习态度",
+        "onboard_time": 1720182379,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124796,
+        "num": 124796,
+        "word": "苏新皓等你的回答fo",
+        "onboard_time": 1720182559,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121827,
+        "num": 121827,
+        "word": "305斤男子狂减150斤大叔变欧巴",
+        "onboard_time": 1720173799,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118030,
+        "num": 118030,
+        "word": "胡歌和老婆同框照",
+        "onboard_time": 1720152799,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117201,
+        "num": 117201,
+        "word": "时代峰峻回应马嘉祺受伤",
+        "onboard_time": 1720178177,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116065,
+        "num": 116065,
+        "word": "山东龙卷风",
+        "onboard_time": 1720168820,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115250,
+        "num": 115250,
+        "word": "去年开封的防晒霜今年最好别用",
+        "onboard_time": 1720182500,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113312,
+        "num": 113312,
+        "word": "传说点映",
+        "onboard_time": 1720180339,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111524,
+        "num": 111524,
+        "word": "谁来救救宋亚轩",
+        "onboard_time": 1720174760,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111088,
+        "num": 111088,
+        "word": "奥运会法国队礼服是LV做的",
+        "onboard_time": 1720176559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110874,
+        "num": 110874,
+        "word": "檀健次回复中国海洋大学",
+        "onboard_time": 1720168278,
+        "rank": 49,
+        "category": "作品衍生,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚之行#"
+    }
+  }
+}
