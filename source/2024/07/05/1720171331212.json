@@ -1,0 +1,410 @@
+{
+  "runTime": 1720171331212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993017,
+        "num": 993017,
+        "word": "刮刮乐销量大跌",
+        "onboard_time": 1720166418,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 777477,
+        "num": 777477,
+        "word": "檀健次回复中国海洋大学",
+        "onboard_time": 1720168278,
+        "rank": 1,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 34686,
+        "num": 515726,
+        "word": "玫瑰之城的欢迎仪式太盛大了",
+        "onboard_time": 1720148718,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501155,
+        "num": 501155,
+        "word": "山东龙卷风",
+        "onboard_time": 1720168820,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499758,
+        "num": 499758,
+        "word": "大叔在韩打工13年每月寄回上万元",
+        "onboard_time": 1720167859,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424707,
+        "num": 424707,
+        "word": "女主闺蜜终于有爽剧剧情了",
+        "onboard_time": 1720166179,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367081,
+        "num": 367081,
+        "word": "种地星球回来了",
+        "onboard_time": 1720169298,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357459,
+        "num": 357459,
+        "word": "中国奥运代表团购置移动空调",
+        "onboard_time": 1720161376,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333851,
+        "num": 333851,
+        "word": "俞敏洪呼吁不要攻击主播",
+        "onboard_time": 1720165998,
+        "rank": 8,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 293400,
+        "num": 293400,
+        "word": "严浩翔 耍帅吗我超会",
+        "onboard_time": 1720168278,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745763,
+        "num": 290702,
+        "word": "菲律宾撕票案李娜来自中国台湾",
+        "onboard_time": 1720160779,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728190,
+        "num": 288794,
+        "word": "公职人员当众撕毁群众办事材料",
+        "onboard_time": 1720169478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432204,
+        "num": 286678,
+        "word": "为什么年轻人开始流行两头婚",
+        "onboard_time": 1720157958,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401055,
+        "num": 281797,
+        "word": "318川藏线孕妇插队事件后续",
+        "onboard_time": 1720162278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377836,
+        "num": 281390,
+        "word": "胡歌和老婆同框照",
+        "onboard_time": 1720152799,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366292,
+        "num": 277976,
+        "word": "公务员辞职读博6年后我退学了",
+        "onboard_time": 1720154719,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275758,
+        "num": 275758,
+        "word": "赵露思瘦了好多",
+        "onboard_time": 1720163239,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242888,
+        "num": 242888,
+        "word": "田曦薇穿的好像婚纱",
+        "onboard_time": 1720168037,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239022,
+        "num": 239022,
+        "word": "贾乃亮带甜馨回哈尔滨",
+        "onboard_time": 1720164379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30687,
+        "num": 234497,
+        "word": "一起期待五彩凉山",
+        "onboard_time": 1720168878,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 9564,
+        "num": 231349,
+        "word": "战斗爽就是绝区零的统治区",
+        "onboard_time": 1720166659,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 511302,
+        "num": 224486,
+        "word": "长期午睡和不午睡有何区别",
+        "onboard_time": 1720163419,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403956,
+        "num": 220460,
+        "word": "英国30岁女教师性侵2名男生怀胎生子",
+        "onboard_time": 1720164200,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297073,
+        "num": 211554,
+        "word": "以为很卫生其实好脏的行为",
+        "onboard_time": 1720168759,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208393,
+        "num": 208393,
+        "word": "毕业一年7份工作已老实",
+        "onboard_time": 1720167258,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191200,
+        "num": 191200,
+        "word": "含泪转让演唱会门票然后骗走8000元",
+        "onboard_time": 1720169898,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186173,
+        "num": 186173,
+        "word": "郭敬明官宣两部剧",
+        "onboard_time": 1720160959,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167221,
+        "num": 167221,
+        "word": "即将成为英国新首相的斯塔默是谁",
+        "onboard_time": 1720154179,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160413,
+        "num": 160413,
+        "word": "中文系女生用冰杯复刻宋代冷饮",
+        "onboard_time": 1720162758,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17811,
+        "num": 159209,
+        "word": "日企开始高中毕业生争夺战",
+        "onboard_time": 1720170917,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49620,
+        "num": 158670,
+        "word": "三轮车欲逃逸蛋糕店老板大吼拦下",
+        "onboard_time": 1720169238,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212069,
+        "num": 158667,
+        "word": "走丢三个月的猫回家后委屈哭了",
+        "onboard_time": 1720170917,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158662,
+        "num": 158662,
+        "word": "自助餐为什么不受欢迎了",
+        "onboard_time": 1720170198,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 150822,
+        "word": "年轻人要知道的体检报告健康常识",
+        "onboard_time": 1720169958,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145088,
+        "num": 145088,
+        "word": "中医建议减肥饿瘦不如补瘦",
+        "onboard_time": 1720154600,
+        "rank": 34,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 142355,
+        "num": 142355,
+        "word": "苗苗亮金吊带裙",
+        "onboard_time": 1720167679,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139453,
+        "num": 139453,
+        "word": "张予曦回复戚薇",
+        "onboard_time": 1720166718,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132387,
+        "num": 132387,
+        "word": "TES电竞世界杯首秀",
+        "onboard_time": 1720169778,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131756,
+        "num": 131756,
+        "word": "中国海洋大学用相柳招生",
+        "onboard_time": 1720162039,
+        "rank": 38,
+        "category": "作品衍生,教育"
+      },
+      {
+        "raw_hot": 130878,
+        "num": 130878,
+        "word": "川藏线逆行孕妇及丈夫已被处罚",
+        "onboard_time": 1720168458,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "宋亚轩对马嘉祺贺峻霖放狠话",
+        "onboard_time": 1720171098,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "女子创业失败欠80多万送外卖还钱",
+        "onboard_time": 1720160838,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125917,
+        "num": 125917,
+        "word": "赵今麦张凌赫 二搭",
+        "onboard_time": 1720152739,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123622,
+        "num": 123622,
+        "word": "戚薇陈昊宇唱哭了好多人",
+        "onboard_time": 1720170079,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118487,
+        "num": 118487,
+        "word": "詹雯婷一审被判无罪",
+        "onboard_time": 1720151958,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117417,
+        "num": 117417,
+        "word": "时代少年团回应刘耀文脚受伤",
+        "onboard_time": 1720169298,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113177,
+        "num": 113177,
+        "word": "伊能静警告秦昊别带个儿子回家",
+        "onboard_time": 1720152258,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110825,
+        "num": 110825,
+        "word": "斯塔默将成英国新首相",
+        "onboard_time": 1720153759,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109544,
+        "num": 109544,
+        "word": "山东网友拍下龙卷风伴闪电",
+        "onboard_time": 1720168339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102850,
+        "num": 102850,
+        "word": "韩国演员姐妹遭性侵自杀案",
+        "onboard_time": 1720167679,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#塔吉克斯坦千人跳舞热烈欢迎习近平主席#"
+    }
+  }
+}
