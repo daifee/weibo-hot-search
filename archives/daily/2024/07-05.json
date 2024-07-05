@@ -1,6 +1,6 @@
 {
   "startTime": 1720110221737,
-  "endTime": 1720157703411,
+  "endTime": 1720160897093,
   "band_list": [
     {
       "raw_hot": 1602161,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644350,
+      "num": 644350,
+      "word": "即将成为英国新首相的斯塔默是谁",
+      "onboard_time": 1720154179,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 638213,
       "num": 638213,
       "word": "Bin",
       "onboard_time": 1720132211,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 615720,
+      "num": 240533,
+      "word": "为什么年轻人开始流行两头婚",
+      "onboard_time": 1720157958,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 606819,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 525949,
-      "num": 339683,
+      "num": 506657,
       "word": "何洁解释郭碧婷忘动作",
       "onboard_time": 1720156579,
       "rank": 19,
@@ -241,6 +257,14 @@
       "onboard_time": 1720146976,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500565,
+      "num": 336454,
+      "word": "刘耀文脚受伤",
+      "onboard_time": 1720158737,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 488678,
@@ -281,6 +305,14 @@
       "onboard_time": 1720130651,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 457792,
+      "num": 457792,
+      "word": "警方通报用生理盐水冒充HPV疫苗",
+      "onboard_time": 1720157600,
+      "rank": 47,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 453674,
@@ -355,12 +387,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398565,
+      "num": 329117,
+      "word": "宋亚轩 海胆头",
+      "onboard_time": 1720159758,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394261,
+      "num": 394261,
+      "word": "宋雨琦条形码刘海",
+      "onboard_time": 1720158200,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392703,
       "num": 392703,
       "word": "于正送王星越和吴谨言的手串对比",
       "onboard_time": 1720146616,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383939,
+      "num": 240297,
+      "word": "中医建议减肥饿瘦不如补瘦",
+      "onboard_time": 1720154600,
+      "rank": 25,
+      "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 370765,
+      "num": 326892,
+      "word": "在菲绑架中国人团伙头目之一落网",
+      "onboard_time": 1720155560,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 365767,
@@ -403,20 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333502,
-      "num": 240297,
-      "word": "中医建议减肥饿瘦不如补瘦",
-      "onboard_time": 1720154600,
-      "rank": 25,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 327704,
       "num": 327704,
       "word": "福宝带火韩国赴四川旅游",
       "onboard_time": 1720136596,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 321965,
+      "num": 321965,
+      "word": "陈昊宇乘风年度总冠军感言",
+      "onboard_time": 1720157239,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 317660,
@@ -475,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297015,
-      "num": 444488,
-      "word": "即将成为英国新首相的斯塔默是谁",
-      "onboard_time": 1720154179,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 290182,
       "num": 290182,
       "word": "你们幼儿班接不接婚庆啊",
@@ -497,6 +553,14 @@
       "onboard_time": 1720145478,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286677,
+      "num": 355891,
+      "word": "英国政坛巨变要来了",
+      "onboard_time": 1720157899,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 286137,
@@ -531,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280118,
-      "num": 280118,
-      "word": "在菲绑架中国人团伙头目之一落网",
-      "onboard_time": 1720155560,
-      "rank": 27,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 275754,
       "num": 275754,
       "word": "妈妈回应儿子出生6个月长到22斤",
@@ -552,6 +608,14 @@
       "word": "李玟曾说希望中国音乐走向全世界",
       "onboard_time": 1720145057,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261778,
+      "num": 223779,
+      "word": "严浩翔饭撒",
+      "onboard_time": 1720159758,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -611,16 +675,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231372,
-      "num": 204750,
-      "word": "陈昊宇乘风年度总冠军感言",
-      "onboard_time": 1720157239,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228986,
-      "num": 228986,
+      "num": 244942,
       "word": "小米公路车",
       "onboard_time": 1720152919,
       "rank": 29,
@@ -673,6 +729,14 @@
       "onboard_time": 1720147637,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 211136,
+      "num": 211136,
+      "word": "92岁老人24秒翻2米高大门出走",
+      "onboard_time": 1720155919,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208464,
@@ -731,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202027,
+      "num": 202027,
+      "word": "朱志鑫俯卧撑",
+      "onboard_time": 1720159879,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201696,
       "num": 201696,
       "word": "BLG一轮游",
@@ -747,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200380,
+      "num": 200380,
+      "word": "刚结婚就异地刚重逢就和好",
+      "onboard_time": 1720159399,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199359,
       "num": 199359,
       "word": "阿根廷晋级4强",
@@ -761,6 +841,14 @@
       "onboard_time": 1720144517,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197159,
+      "num": 197159,
+      "word": "郭敬明的霸总文学",
+      "onboard_time": 1720159938,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 194945,
@@ -809,14 +897,6 @@
       "onboard_time": 1720149497,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192026,
-      "num": 192026,
-      "word": "92岁老人24秒翻2米高大门出走",
-      "onboard_time": 1720155919,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191505,
@@ -939,6 +1019,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172846,
+      "num": 172846,
+      "word": "世界之外",
+      "onboard_time": 1720160598,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 172581,
+      "num": 172581,
+      "word": "10岁女孩晒出老年斑",
+      "onboard_time": 1720157479,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168552,
       "num": 168552,
       "word": "上半年4000亿元资金涌入股票ETF",
@@ -963,6 +1059,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164586,
+      "num": 164586,
+      "word": "神魂颠倒",
+      "onboard_time": 1720157659,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164151,
+      "num": 164151,
+      "word": "TVB艺人最想合作的内地演员",
+      "onboard_time": 1720157780,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164046,
       "num": 164046,
       "word": "广州地铁18号线沙溪站停止对外服务",
@@ -977,6 +1089,14 @@
       "onboard_time": 1720156940,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 162152,
+      "num": 162152,
+      "word": "中南大学用小夭招生",
+      "onboard_time": 1720160478,
+      "rank": 38,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 160212,
@@ -1139,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132991,
+      "num": 132991,
+      "word": "张予曦回应没成团",
+      "onboard_time": 1720159938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131225,
       "num": 189142,
       "word": "梁实将备战第29次高考",
@@ -1219,12 +1347,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121607,
+      "num": 120013,
+      "word": "张予曦差10票成团",
+      "onboard_time": 1720158020,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120163,
       "num": 433175,
       "word": "那些陪你跨过的人还在吗",
       "onboard_time": 1720152199,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120026,
+      "num": 120026,
+      "word": "韩雪告别乘风",
+      "onboard_time": 1720160598,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117993,
@@ -1235,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116982,
-      "num": 116982,
-      "word": "神魂颠倒",
-      "onboard_time": 1720157659,
+      "raw_hot": 115594,
+      "num": 120025,
+      "word": "菲律宾撕票案李娜来自中国台湾",
+      "onboard_time": 1720160779,
       "rank": 46,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115532,
@@ -1249,14 +1393,6 @@
       "onboard_time": 1720105459,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115088,
-      "num": 115088,
-      "word": "警方通报用生理盐水冒充HPV疫苗",
-      "onboard_time": 1720157600,
-      "rank": 47,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 114333,
@@ -1291,12 +1427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112920,
+      "num": 120019,
+      "word": "女子创业失败欠80多万送外卖还钱",
+      "onboard_time": 1720160838,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108784,
       "num": 108784,
       "word": "勇士是懂补救的",
       "onboard_time": 1720134615,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105318,
+      "num": 120006,
+      "word": "英国首相八年换六任",
+      "onboard_time": 1720159218,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 101522,
@@ -1451,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75052,
+      "num": 237070,
+      "word": "真正的犬系男友",
+      "onboard_time": 1720157118,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74595,
       "num": 84870,
       "word": "王嘉尔蒙面舞台",
@@ -1571,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52367,
-      "num": 122120,
-      "word": "真正的犬系男友",
-      "onboard_time": 1720157118,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 50311,
       "num": 495723,
       "word": "校长在毕业典礼上渐入佳境",
@@ -1641,6 +1793,14 @@
       "onboard_time": 1720113673,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33818,
+      "num": 164314,
+      "word": "古天乐林更新穿越火线",
+      "onboard_time": 1720160357,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 30327,
