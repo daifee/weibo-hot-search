@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720279225442,
+  "endTime": 1720280055918,
   "band_list": [
     {
       "raw_hot": 2450027,
@@ -531,6 +531,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 525988,
+      "num": 204763,
+      "word": "易猝死的人往往有这4个共同点",
+      "onboard_time": 1720277719,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 521585,
       "num": 521585,
       "word": "于正发长文聊李梦",
@@ -560,6 +568,14 @@
       "word": "杭州东站回应被指站台沉降",
       "onboard_time": 1720239378,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508520,
+      "num": 508520,
+      "word": "洞庭湖226米决口已封堵66米",
+      "onboard_time": 1720279099,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1003,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332195,
-      "num": 204763,
-      "word": "易猝死的人往往有这4个共同点",
-      "onboard_time": 1720277719,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 325996,
       "num": 325996,
       "word": "摆拍生吃见手青网红已被禁言",
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 281946,
-      "num": 204670,
+      "num": 280165,
       "word": "想魂穿王勉",
       "onboard_time": 1720277778,
       "rank": 25,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1720264878,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249883,
+      "num": 203969,
+      "word": "张子墨 不自信",
+      "onboard_time": 1720278919,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 249859,
@@ -1297,14 +1313,6 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218526,
-      "num": 203969,
-      "word": "张子墨 不自信",
-      "onboard_time": 1720278919,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 217535,
@@ -1635,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190451,
+      "num": 169179,
+      "word": "石凯你好星期六",
+      "onboard_time": 1720278739,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187922,
       "num": 187922,
       "word": "邓超晒孙俪给他烤的肉",
@@ -1923,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165061,
-      "num": 205368,
-      "word": "洞庭湖226米决口已封堵66米",
-      "onboard_time": 1720279099,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163903,
       "num": 381514,
       "word": "洞庭湖决堤村民讲述紧急转移经过",
@@ -1955,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162388,
+      "num": 162388,
+      "word": "刘亦菲七月有线下活动",
+      "onboard_time": 1720278859,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162177,
       "num": 162177,
       "word": "现在的小孩接受的不再是愧疚式教育",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1720200316,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161354,
-      "num": 161354,
-      "word": "刘亦菲七月有线下活动",
-      "onboard_time": 1720278859,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 160823,
@@ -2427,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128127,
+      "num": 128127,
+      "word": "上厕所途中冲水小心病菌感染",
+      "onboard_time": 1720278678,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128037,
       "num": 128037,
       "word": "李蓉裴文宣雪天烟花吻",
@@ -2675,11 +2691,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114576,
+      "num": 114576,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1720277540,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113503,
       "num": 113503,
       "word": "Meiko 明天继续加油复仇战2.0",
       "onboard_time": 1720225337,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113173,
+      "num": 113173,
+      "word": "TES对战G2",
+      "onboard_time": 1720279999,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -2697,6 +2729,14 @@
       "onboard_time": 1720252157,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112316,
+      "num": 112316,
+      "word": "王欣瑜 温网",
+      "onboard_time": 1720279938,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110556,
@@ -3193,6 +3233,14 @@
       "onboard_time": 1720255518,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 37896,
+      "num": 442212,
+      "word": "非升即走已从讲师延伸至副教授",
+      "onboard_time": 1720279280,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36503,
