@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720247110065,
+  "endTime": 1720247872074,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 601683,
+      "num": 601683,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598829,
       "num": 598829,
       "word": "袁娅维是不是被算错票了",
@@ -225,6 +233,14 @@
       "onboard_time": 1720230797,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 565717,
+      "num": 565717,
+      "word": "洞庭湖决堤口延伸至226米",
+      "onboard_time": 1720242258,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559445,
@@ -257,14 +273,6 @@
       "onboard_time": 1720184841,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546969,
-      "num": 546969,
-      "word": "洞庭湖决堤口延伸至226米",
-      "onboard_time": 1720242258,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541518,
@@ -547,14 +555,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 343534,
-      "num": 343534,
-      "word": "警方通报北京地铁大爷女儿含泪发声",
-      "onboard_time": 1720245678,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339955,
       "num": 273916,
       "word": "曾轶可回复郭碧婷",
@@ -619,6 +619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259665,
+      "num": 259665,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257858,
       "num": 257858,
       "word": "蒋敦豪演唱会抢票",
@@ -643,12 +651,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234684,
+      "num": 376540,
+      "word": "洞庭湖决堤救援最新消息",
+      "onboard_time": 1720244238,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232447,
       "num": 212252,
       "word": "有些水果吃着甜却热量低",
       "onboard_time": 1720237937,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224405,
+      "num": 180668,
+      "word": "Capper回归了",
+      "onboard_time": 1720246517,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223987,
+      "num": 223987,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218795,
@@ -731,12 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199751,
-      "num": 199751,
-      "word": "水位落差0.1米洞庭湖决堤口将封堵",
-      "onboard_time": 1720244717,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 199811,
+      "num": 178557,
+      "word": "王星越帮吴谨言调鞋带",
+      "onboard_time": 1720246937,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198124,
+      "num": 184485,
+      "word": "只卖火锅的海底捞还有人买账吗",
+      "onboard_time": 1720243878,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 195717,
@@ -827,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184485,
-      "num": 184485,
-      "word": "只卖火锅的海底捞还有人买账吗",
-      "onboard_time": 1720243878,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 182761,
       "num": 182761,
       "word": "男子中751万彩票藏枕头下半月才兑奖",
@@ -923,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171984,
+      "num": 171984,
+      "word": "洞庭湖区村民称在大堤上坐了一夜",
+      "onboard_time": 1720246398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171405,
       "num": 171405,
       "word": "JackeyLove 明天加油兄弟们",
@@ -952,14 +992,6 @@
       "word": "周深 没事哒",
       "onboard_time": 1720238837,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167626,
-      "num": 163208,
-      "word": "王星越帮吴谨言调鞋带",
-      "onboard_time": 1720246937,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1001,14 +1033,6 @@
       "onboard_time": 1720225517,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163265,
-      "num": 163265,
-      "word": "Capper回归了",
-      "onboard_time": 1720246517,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 162177,
@@ -1075,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150657,
-      "num": 150657,
-      "word": "陈昊宇杂志",
-      "onboard_time": 1720246996,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -1139,14 +1155,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145395,
-      "num": 376540,
-      "word": "洞庭湖决堤救援最新消息",
-      "onboard_time": 1720244238,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144858,
       "num": 144858,
       "word": "韩莹左脚跟腱断裂",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1720228097,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142470,
-      "num": 142470,
-      "word": "洞庭湖区村民称在大堤上坐了一夜",
-      "onboard_time": 1720246398,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140348,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1720229236,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127298,
+      "num": 127298,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127106,
@@ -1419,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "菲常萧张",
+      "onboard_time": 1720247177,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107715,
       "num": 107715,
       "word": "陈乔恩回应被说表演痕迹重",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1720196957,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105866,
+      "num": 105866,
+      "word": "汪顺 巴黎我们来了",
+      "onboard_time": 1720247238,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 101545,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1720170198,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98599,
+      "num": 98599,
+      "word": "Capper复出第一个舞台",
+      "onboard_time": 1720246696,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98515,
@@ -1499,28 +1531,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94463,
-      "num": 94463,
-      "word": "Capper复出第一个舞台",
-      "onboard_time": 1720246696,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92800,
       "num": 92800,
       "word": "梅里诺绝杀",
       "onboard_time": 1720221675,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92146,
-      "num": 92146,
-      "word": "快乐老友记 两大群像松弛感",
-      "onboard_time": 1720247058,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 92027,
@@ -1777,6 +1793,30 @@
       "onboard_time": 1720217471,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17878,
+      "num": 171776,
+      "word": "上海最红展览city不city",
+      "onboard_time": 1720247118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12723,
+      "num": 398153,
+      "word": "居民讲述洞庭湖决堤卡车封堵细节",
+      "onboard_time": 1720247658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8633,
+      "num": 95266,
+      "word": "卡地亚展览看点",
+      "onboard_time": 1720247837,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 7540,

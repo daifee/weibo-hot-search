@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720247110065,
+  "endTime": 1720247872074,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2299,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 601683,
+      "num": 601683,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599835,
       "num": 436111,
       "word": "官方回应张志杰比赛晕倒去世",
@@ -2619,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565717,
+      "num": 565717,
+      "word": "洞庭湖决堤口延伸至226米",
+      "onboard_time": 1720242258,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564944,
       "num": 570678,
       "word": "大三女生2次捐献救同一位小女孩",
@@ -2752,14 +2768,6 @@
       "word": "好学小孩哥在地铁上被北大博导收徒",
       "onboard_time": 1719962235,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546969,
-      "num": 546969,
-      "word": "洞庭湖决堤口延伸至226米",
-      "onboard_time": 1720242258,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4987,14 +4995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343534,
-      "num": 343534,
-      "word": "警方通报北京地铁大爷女儿含泪发声",
-      "onboard_time": 1720245678,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341763,
       "num": 341763,
       "word": "沈阳小区内持刀行凶男子已被抓",
@@ -6123,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259665,
+      "num": 259665,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
@@ -6579,6 +6587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234684,
+      "num": 376540,
+      "word": "洞庭湖决堤救援最新消息",
+      "onboard_time": 1720244238,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234357,
       "num": 234357,
       "word": "林丹曾呼吁给运动员更多休息时间",
@@ -6848,6 +6864,22 @@
       "word": "女子花39.9元点痣鼻头出现大坑",
       "onboard_time": 1720172839,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224405,
+      "num": 180668,
+      "word": "Capper回归了",
+      "onboard_time": 1720246517,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223987,
+      "num": 223987,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -7779,12 +7811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199751,
-      "num": 199751,
-      "word": "水位落差0.1米洞庭湖决堤口将封堵",
-      "onboard_time": 1720244717,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 199811,
+      "num": 178557,
+      "word": "王星越帮吴谨言调鞋带",
+      "onboard_time": 1720246937,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 199584,
@@ -7913,6 +7945,14 @@
       "onboard_time": 1719892821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198124,
+      "num": 184485,
+      "word": "只卖火锅的海底捞还有人买账吗",
+      "onboard_time": 1720243878,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 198066,
@@ -8699,14 +8739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184485,
-      "num": 184485,
-      "word": "只卖火锅的海底捞还有人买账吗",
-      "onboard_time": 1720243878,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184360,
       "num": 438938,
       "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
@@ -9315,6 +9347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171984,
+      "num": 171984,
+      "word": "洞庭湖区村民称在大堤上坐了一夜",
+      "onboard_time": 1720246398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171940,
       "num": 171940,
       "word": "白敬亭跟唐嫣学上海话",
@@ -9497,14 +9537,6 @@
       "onboard_time": 1719802938,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167626,
-      "num": 163208,
-      "word": "王星越帮吴谨言调鞋带",
-      "onboard_time": 1720246937,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 167312,
@@ -9697,14 +9729,6 @@
       "onboard_time": 1720225517,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163265,
-      "num": 163265,
-      "word": "Capper回归了",
-      "onboard_time": 1720246517,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 163055,
@@ -10483,14 +10507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150657,
-      "num": 150657,
-      "word": "陈昊宇杂志",
-      "onboard_time": 1720246996,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -10779,14 +10795,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 145395,
-      "num": 376540,
-      "word": "洞庭湖决堤救援最新消息",
-      "onboard_time": 1720244238,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145337,
       "num": 145337,
       "word": "布朗尼新秀合同4年790万",
@@ -11025,14 +11033,6 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142470,
-      "num": 142470,
-      "word": "洞庭湖区村民称在大堤上坐了一夜",
-      "onboard_time": 1720246398,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142467,
@@ -12235,6 +12235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127298,
+      "num": 127298,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127222,
       "num": 127222,
       "word": "喻言带走cover",
@@ -13347,6 +13355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "菲常萧张",
+      "onboard_time": 1720247177,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109770,
       "num": 109770,
       "word": "2024全球emoji失宠榜单",
@@ -13553,6 +13569,14 @@
       "onboard_time": 1719789494,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105866,
+      "num": 105866,
+      "word": "汪顺 巴黎我们来了",
+      "onboard_time": 1720247238,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105826,
@@ -13787,6 +13811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98599,
+      "num": 98599,
+      "word": "Capper复出第一个舞台",
+      "onboard_time": 1720246696,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
@@ -13987,14 +14019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94463,
-      "num": 94463,
-      "word": "Capper复出第一个舞台",
-      "onboard_time": 1720246696,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92981,
       "num": 97358,
       "word": "giselle保存粉丝拍的照片",
@@ -14041,14 +14065,6 @@
       "onboard_time": 1719965118,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92146,
-      "num": 92146,
-      "word": "快乐老友记 两大群像松弛感",
-      "onboard_time": 1720247058,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 92027,
@@ -16187,6 +16203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17878,
+      "num": 171776,
+      "word": "上海最红展览city不city",
+      "onboard_time": 1720247118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17811,
       "num": 159209,
       "word": "日企开始高中毕业生争夺战",
@@ -16347,6 +16371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12723,
+      "num": 398153,
+      "word": "居民讲述洞庭湖决堤卡车封堵细节",
+      "onboard_time": 1720247658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12338,
       "num": 472711,
       "word": "高质量发展调研行",
@@ -16449,6 +16481,14 @@
       "onboard_time": 1720169117,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8633,
+      "num": 95266,
+      "word": "卡地亚展览看点",
+      "onboard_time": 1720247837,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 8408,
