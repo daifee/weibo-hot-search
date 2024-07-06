@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720233795359,
+  "endTime": 1720236190387,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -115,6 +115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 690781,
+      "num": 690781,
+      "word": "王健林又卖核心资产",
+      "onboard_time": 1720232777,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669168,
       "num": 669168,
       "word": "袁娅维已经1个月没5点前睡觉了",
@@ -155,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 576019,
+      "num": 576019,
+      "word": "婉宁公主是李梦主动找于正争取的",
+      "onboard_time": 1720230797,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559445,
       "num": 559445,
       "word": "CoCo回应员工边做边吃",
       "onboard_time": 1720195818,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556249,
+      "num": 190909,
+      "word": "你好星期六全员孩子气",
+      "onboard_time": 1720234217,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 552565,
@@ -185,14 +209,6 @@
       "onboard_time": 1720192279,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488232,
-      "num": 430358,
-      "word": "婉宁公主是李梦主动找于正争取的",
-      "onboard_time": 1720230797,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 487221,
@@ -233,6 +249,14 @@
       "onboard_time": 1720217353,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468833,
+      "num": 228827,
+      "word": "你的手机号绑定了多少APP",
+      "onboard_time": 1720229836,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 455347,
@@ -371,28 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337340,
-      "num": 228827,
-      "word": "你的手机号绑定了多少APP",
-      "onboard_time": 1720229836,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 329594,
-      "num": 329594,
-      "word": "王健林又卖核心资产",
-      "onboard_time": 1720232777,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322646,
       "num": 322646,
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
       "onboard_time": 1720188382,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296472,
+      "num": 186680,
+      "word": "纪星戴了婚戒丢了爱情",
+      "onboard_time": 1720235177,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 276156,
@@ -409,6 +425,14 @@
       "onboard_time": 1720199416,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 268132,
+      "num": 268132,
+      "word": "洞庭湖决口两端将建设裹头",
+      "onboard_time": 1720234938,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237929,
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201474,
+      "num": 185153,
+      "word": "从贵州回来的人嘴真严啊",
+      "onboard_time": 1720235056,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195717,
       "num": 193679,
       "word": "原来午睡不一定非要睡着",
@@ -457,6 +489,22 @@
       "onboard_time": 1720220953,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193264,
+      "num": 183444,
+      "word": "王一博兰州飞北京",
+      "onboard_time": 1720235657,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191236,
+      "num": 191236,
+      "word": "交管12123崩了",
+      "onboard_time": 1720233977,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 190498,
@@ -611,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160823,
+      "num": 160823,
+      "word": "张真源看到马嘉祺受伤的反应",
+      "onboard_time": 1720233858,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156987,
       "num": 156987,
       "word": "汪苏泷又双叒叕是大众金曲",
@@ -635,12 +691,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151165,
+      "num": 381514,
+      "word": "洞庭湖决堤村民讲述紧急转移经过",
+      "onboard_time": 1720233737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
       "onboard_time": 1720233076,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "胡彦斌想问陶喆为什么让他哭",
+      "onboard_time": 1720235957,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148573,
+      "num": 148573,
+      "word": "长期不运动身体会发生什么",
+      "onboard_time": 1720235298,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148411,
@@ -659,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146992,
+      "num": 146992,
+      "word": "3个方面判断月经是否正常",
+      "onboard_time": 1720233017,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144175,
       "num": 144175,
       "word": "西班牙晋级欧洲杯半决赛",
@@ -673,6 +761,14 @@
       "onboard_time": 1720228097,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140443,
+      "num": 140443,
+      "word": "电影伞少女今日上映",
+      "onboard_time": 1720235837,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 140348,
@@ -787,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121050,
+      "num": 121050,
+      "word": "你好星期六",
+      "onboard_time": 1720235957,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119104,
       "num": 119104,
       "word": "谭维维怒音",
@@ -827,12 +931,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115877,
-      "num": 115877,
-      "word": "3个方面判断月经是否正常",
-      "onboard_time": 1720233017,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 116646,
+      "num": 116646,
+      "word": "韩莹左脚跟腱断裂",
+      "onboard_time": 1720235777,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115745,
@@ -873,6 +977,14 @@
       "onboard_time": 1720225337,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113327,
+      "num": 645586,
+      "word": "武警消防在洞庭湖连夜救援",
+      "onboard_time": 1720234758,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110149,
@@ -1019,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63717,
+      "num": 268415,
+      "word": "绘旅人夏季新版本",
+      "onboard_time": 1720234817,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61769,
       "num": 61769,
       "word": "谁家的电影票是主演画的",
@@ -1059,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39763,
+      "num": 690842,
+      "word": "外国人对中国万千气象的真实感受",
+      "onboard_time": 1720235477,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38869,
       "num": 378470,
       "word": "仪仗队离开前将中国零食分给留学生",
@@ -1073,14 +1201,6 @@
       "onboard_time": 1720210930,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34641,
-      "num": 381514,
-      "word": "洞庭湖决堤村民讲述紧急转移经过",
-      "onboard_time": 1720233737,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34154,
@@ -1115,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20186,
+      "num": 147239,
+      "word": "交警一路狂飙为受伤女童送药",
+      "onboard_time": 1720236019,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19537,
       "num": 354572,
       "word": "凉山男孩帮不识字亲人填表",
@@ -1143,6 +1271,9 @@
     },
     {
       "word": "#切实保护好人民群众生命财产安全#"
+    },
+    {
+      "word": "#习近平同塔吉克斯坦总统举行会谈#"
     }
   ]
 }
