@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720283920281,
+  "endTime": 1720286167940,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -5355,6 +5355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350376,
+      "num": 186854,
+      "word": "印度一地一天内19人被雷击身亡",
+      "onboard_time": 1720281498,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350212,
       "num": 350212,
       "word": "王曼昱说没参加单打有些遗憾",
@@ -6427,14 +6435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 278968,
-      "num": 186854,
-      "word": "印度一地一天内19人被雷击身亡",
-      "onboard_time": 1720281498,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278407,
       "num": 228768,
       "word": "小猫有事哒有事哒",
@@ -6641,6 +6641,14 @@
       "onboard_time": 1719753438,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262718,
+      "num": 114342,
+      "word": "天水麻辣烫仍然在批量倒闭",
+      "onboard_time": 1720283419,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 262459,
@@ -9089,6 +9097,14 @@
       "onboard_time": 1720261639,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 192614,
+      "word": "电竞世界杯T1对战TL",
+      "onboard_time": 1720282698,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 192462,
@@ -12419,14 +12435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139408,
-      "num": 139408,
-      "word": "电竞世界杯T1对战TL",
-      "onboard_time": 1720282698,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139407,
       "num": 139407,
       "word": "为什么空调除湿比制冷更凉爽",
@@ -14059,6 +14067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119745,
+      "num": 119745,
+      "word": "TES对战G2",
+      "onboard_time": 1720279999,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119647,
       "num": 119647,
       "word": "湖人多年合同签约布朗尼",
@@ -14427,14 +14443,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 114342,
-      "num": 114342,
-      "word": "天水麻辣烫仍然在批量倒闭",
-      "onboard_time": 1720283419,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114020,
       "num": 114020,
       "word": "下半年射手座运势称霸",
@@ -14505,14 +14513,6 @@
       "onboard_time": 1719835039,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113173,
-      "num": 113173,
-      "word": "TES对战G2",
-      "onboard_time": 1720279999,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 113148,
