@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720247872074,
+  "endTime": 1720250229835,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 955518,
+      "num": 955518,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946583,
       "num": 272457,
       "word": "睡前不刷牙将是对牙齿的恐怖待遇",
@@ -89,6 +97,14 @@
       "onboard_time": 1720239317,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851713,
+      "num": 468418,
+      "word": "张志杰妈妈悲伤过度入院",
+      "onboard_time": 1720248977,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 843641,
@@ -209,14 +225,6 @@
       "onboard_time": 1720224436,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 601683,
-      "num": 601683,
-      "word": "警方通报北京地铁大爷女儿含泪发声",
-      "onboard_time": 1720245678,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598829,
@@ -483,6 +491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 375204,
+      "num": 375204,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373663,
       "num": 365561,
       "word": "朱也天被北大正式录取",
@@ -521,6 +537,14 @@
       "onboard_time": 1720186461,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354319,
+      "num": 354319,
+      "word": "法国1300年古剑被人从悬崖上拔走",
+      "onboard_time": 1720248857,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354102,
@@ -595,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312259,
+      "num": 376357,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276971,
       "num": 276971,
       "word": "从贵州回来的人嘴真严啊",
@@ -619,14 +651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259665,
-      "num": 259665,
-      "word": "陈昊宇杂志",
-      "onboard_time": 1720246996,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 257858,
       "num": 257858,
       "word": "蒋敦豪演唱会抢票",
@@ -640,6 +664,22 @@
       "word": "丁太升评歌手第九期",
       "onboard_time": 1720239498,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257327,
+      "num": 257327,
+      "word": "霸气涂山璟回归",
+      "onboard_time": 1720248917,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254590,
+      "num": 254590,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -667,20 +707,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227847,
+      "num": 214651,
+      "word": "王俊凯说我们是一个team",
+      "onboard_time": 1720249518,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224405,
       "num": 180668,
       "word": "Capper回归了",
       "onboard_time": 1720246517,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223987,
-      "num": 223987,
-      "word": "水位落差0.1米洞庭湖决堤口将封堵",
-      "onboard_time": 1720244717,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218795,
@@ -715,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213324,
+      "num": 213324,
+      "word": "谢娜拍的张杰演唱会",
+      "onboard_time": 1720249096,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212081,
       "num": 212081,
       "word": "李昀锐叫小鬼 鬼鬼",
@@ -737,6 +785,14 @@
       "onboard_time": 1720205592,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207461,
+      "num": 207461,
+      "word": "李沁绾心记路透",
+      "onboard_time": 1720249697,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 204444,
@@ -777,6 +833,22 @@
       "onboard_time": 1720243878,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "华晨宇重庆演唱会座位图",
+      "onboard_time": 1720249577,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197327,
+      "num": 197327,
+      "word": "王星越沈月素颜",
+      "onboard_time": 1720249757,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195717,
@@ -883,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181606,
+      "num": 181606,
+      "word": "李嘉琦发文告别芬芳喜事",
+      "onboard_time": 1720249637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180942,
       "num": 180942,
       "word": "洞庭湖被困人员已全部转移",
@@ -897,6 +977,22 @@
       "onboard_time": 1720235837,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180325,
+      "num": 180325,
+      "word": "爱情并不是谁先主动谁就输",
+      "onboard_time": 1720248857,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177624,
+      "num": 177624,
+      "word": "专家制定堵口方案力保首堵成功",
+      "onboard_time": 1720249037,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176972,
@@ -947,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174213,
+      "num": 174213,
+      "word": "陈哲远路透",
+      "onboard_time": 1720249757,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "为啥人民币没有7元8元9元面值",
       "onboard_time": 1720205052,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173197,
+      "num": 173197,
+      "word": "张志杰姐姐称已拿到当地的医疗报告",
+      "onboard_time": 1720249757,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 171984,
@@ -1099,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "为什么尽早接种流脑疫苗",
+      "onboard_time": 1720250177,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -1179,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142951,
+      "num": 142951,
+      "word": "王鹤棣长沙线下人气",
+      "onboard_time": 1720248138,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142942,
       "num": 142942,
       "word": "沈梦辰做了错饭",
@@ -1209,6 +1337,22 @@
       "onboard_time": 1720232717,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "已坐等长相思2求周一放过",
+      "onboard_time": 1720248797,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "五月天二开",
+      "onboard_time": 1720249937,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 137036,
@@ -1265,14 +1409,6 @@
       "onboard_time": 1720229236,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127298,
-      "num": 127298,
-      "word": "快乐老友记 两大群像松弛感",
-      "onboard_time": 1720247058,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 127106,
@@ -1419,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112065,
+      "num": 112065,
+      "word": "王者排位机制优化",
+      "onboard_time": 1720249937,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110149,
       "num": 66286,
       "word": "葡萄牙vs法国首发",
@@ -1563,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84716,
+      "num": 375621,
+      "word": "鞋也丢了包也丢了还好人没丢",
+      "onboard_time": 1720249218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74132,
       "num": 305829,
       "word": "绘旅人夏季新版本",
@@ -1675,6 +1827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57096,
+      "num": 256467,
+      "word": "上海最红展览city不city",
+      "onboard_time": 1720247118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56744,
       "num": 391510,
       "word": "饿了么为C罗免单一万份",
@@ -1740,7 +1900,7 @@
     },
     {
       "raw_hot": 33970,
-      "num": 654593,
+      "num": 710157,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
       "rank": 2,
@@ -1795,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17878,
-      "num": 171776,
-      "word": "上海最红展览city不city",
-      "onboard_time": 1720247118,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12723,
       "num": 398153,
       "word": "居民讲述洞庭湖决堤卡车封堵细节",
@@ -1848,6 +2000,9 @@
     },
     {
       "word": "#习主席中亚之行#"
+    },
+    {
+      "word": "#习近平结束对塔吉克斯坦的国事访问#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720250229835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955518,
+        "num": 955518,
+        "word": "警方通报北京地铁大爷女儿含泪发声",
+        "onboard_time": 1720245678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875790,
+        "num": 875790,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29135,
+        "num": 710157,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686605,
+        "num": 686605,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489293,
+        "num": 489293,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851713,
+        "num": 468418,
+        "word": "张志杰妈妈悲伤过度入院",
+        "onboard_time": 1720248977,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385100,
+        "num": 385100,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378893,
+        "num": 378893,
+        "word": "于正发长文聊李梦",
+        "onboard_time": 1720237217,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312259,
+        "num": 376357,
+        "word": "陈昊宇杂志",
+        "onboard_time": 1720246996,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84716,
+        "num": 375621,
+        "word": "鞋也丢了包也丢了还好人没丢",
+        "onboard_time": 1720249218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375204,
+        "num": 375204,
+        "word": "水位落差0.1米洞庭湖决堤口将封堵",
+        "onboard_time": 1720244717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370487,
+        "num": 370487,
+        "word": "林心如 女儿长大了",
+        "onboard_time": 1720242317,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354319,
+        "num": 354319,
+        "word": "法国1300年古剑被人从悬崖上拔走",
+        "onboard_time": 1720248857,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275986,
+        "num": 275986,
+        "word": "张凌赫赵今麦 尼克朱迪",
+        "onboard_time": 1720243578,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263774,
+        "num": 263774,
+        "word": "洞庭湖决堤口延伸至226米",
+        "onboard_time": 1720242258,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257327,
+        "num": 257327,
+        "word": "霸气涂山璟回归",
+        "onboard_time": 1720248917,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57096,
+        "num": 256467,
+        "word": "上海最红展览city不city",
+        "onboard_time": 1720247118,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256409,
+        "num": 256409,
+        "word": "一饭店老板因餐费纠纷被顾客捅死",
+        "onboard_time": 1720241778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254590,
+        "num": 254590,
+        "word": "快乐老友记 两大群像松弛感",
+        "onboard_time": 1720247058,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221235,
+        "num": 221235,
+        "word": "卡琳娜谈漫画和动画cos不同",
+        "onboard_time": 1720245377,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 344944,
+        "num": 220824,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329777,
+        "num": 219613,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 254233,
+        "num": 216554,
+        "word": "为什么有人吃饭总是剩一口",
+        "onboard_time": 1720240998,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234921,
+        "num": 216037,
+        "word": "孙怡带女儿度假",
+        "onboard_time": 1720245377,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227847,
+        "num": 214651,
+        "word": "王俊凯说我们是一个team",
+        "onboard_time": 1720249518,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213324,
+        "num": 213324,
+        "word": "谢娜拍的张杰演唱会",
+        "onboard_time": 1720249096,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207461,
+        "num": 207461,
+        "word": "李沁绾心记路透",
+        "onboard_time": 1720249697,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198073,
+        "num": 198073,
+        "word": "华晨宇重庆演唱会座位图",
+        "onboard_time": 1720249577,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197327,
+        "num": 197327,
+        "word": "王星越沈月素颜",
+        "onboard_time": 1720249757,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181606,
+        "num": 181606,
+        "word": "李嘉琦发文告别芬芳喜事",
+        "onboard_time": 1720249637,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180762,
+        "num": 180762,
+        "word": "只卖火锅的海底捞还有人买账吗",
+        "onboard_time": 1720243878,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180325,
+        "num": 180325,
+        "word": "爱情并不是谁先主动谁就输",
+        "onboard_time": 1720248857,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178815,
+        "num": 178815,
+        "word": "洞庭湖决堤救援最新消息",
+        "onboard_time": 1720244238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177624,
+        "num": 177624,
+        "word": "专家制定堵口方案力保首堵成功",
+        "onboard_time": 1720249037,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174213,
+        "num": 174213,
+        "word": "陈哲远路透",
+        "onboard_time": 1720249757,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173197,
+        "num": 173197,
+        "word": "张志杰姐姐称已拿到当地的医疗报告",
+        "onboard_time": 1720249757,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155495,
+        "num": 155495,
+        "word": "洞庭湖区村民称在大堤上坐了一夜",
+        "onboard_time": 1720246398,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 151939,
+        "word": "为什么尽早接种流脑疫苗",
+        "onboard_time": 1720250177,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151253,
+        "word": "苗苗差点又来跑男救场",
+        "onboard_time": 1720242317,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142951,
+        "num": 142951,
+        "word": "王鹤棣长沙线下人气",
+        "onboard_time": 1720248138,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139480,
+        "num": 139480,
+        "word": "已坐等长相思2求周一放过",
+        "onboard_time": 1720248797,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "五月天二开",
+        "onboard_time": 1720249937,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132087,
+        "num": 132087,
+        "word": "那英的刘海是为了遮带状疱疹",
+        "onboard_time": 1720229358,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121504,
+        "num": 121504,
+        "word": "吴谨言王星越芭莎大片",
+        "onboard_time": 1720238059,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118609,
+        "num": 118609,
+        "word": "齐思钧连续四年乘风了",
+        "onboard_time": 1720245137,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113258,
+        "num": 113258,
+        "word": "731部队鼠疫实验最新罪证",
+        "onboard_time": 1720229836,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112065,
+        "num": 112065,
+        "word": "王者排位机制优化",
+        "onboard_time": 1720249937,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107606,
+        "num": 107606,
+        "word": "Capper回归了",
+        "onboard_time": 1720246517,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105057,
+        "num": 105057,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100810,
+        "num": 100810,
+        "word": "杭州东站回应被指站台沉降",
+        "onboard_time": 1720239378,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平结束对塔吉克斯坦的国事访问#"
+    }
+  }
+}

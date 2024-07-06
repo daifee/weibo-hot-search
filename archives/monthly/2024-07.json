@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720247872074,
+  "endTime": 1720250229835,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -995,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 955518,
+      "num": 955518,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949863,
       "num": 949863,
       "word": "涂山璟无缘今年奥运",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1720071318,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851713,
+      "num": 468418,
+      "word": "张志杰妈妈悲伤过度入院",
+      "onboard_time": 1720248977,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 850413,
@@ -2297,14 +2313,6 @@
       "onboard_time": 1719913037,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 601683,
-      "num": 601683,
-      "word": "警方通报北京地铁大爷女儿含泪发声",
-      "onboard_time": 1720245678,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 599835,
@@ -4595,6 +4603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 375204,
+      "num": 375204,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374323,
       "num": 374323,
       "word": "荷兰70岁夫妇接受双人安乐死",
@@ -4817,6 +4833,14 @@
       "onboard_time": 1719965238,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354319,
+      "num": 354319,
+      "word": "法国1300年古剑被人从悬崖上拔走",
+      "onboard_time": 1720248857,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354102,
@@ -5377,6 +5401,14 @@
       "onboard_time": 1720175600,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312259,
+      "num": 376357,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311676,
@@ -6123,14 +6155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259665,
-      "num": 259665,
-      "word": "陈昊宇杂志",
-      "onboard_time": 1720246996,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
@@ -6171,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257327,
+      "num": 257327,
+      "word": "霸气涂山璟回归",
+      "onboard_time": 1720248917,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257234,
       "num": 257234,
       "word": "刘松仁把今天发的胡歌删了",
@@ -6209,6 +6241,14 @@
       "onboard_time": 1720062436,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254590,
+      "num": 254590,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 254118,
@@ -6763,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227847,
+      "num": 214651,
+      "word": "王俊凯说我们是一个team",
+      "onboard_time": 1720249518,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227653,
       "num": 227653,
       "word": "美籍华人在菲律宾遇害朋友发声",
@@ -6873,14 +6921,6 @@
       "onboard_time": 1720246517,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223987,
-      "num": 223987,
-      "word": "水位落差0.1米洞庭湖决堤口将封堵",
-      "onboard_time": 1720244717,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223268,
@@ -7243,6 +7283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213324,
+      "num": 213324,
+      "word": "谢娜拍的张杰演唱会",
+      "onboard_time": 1720249096,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212081,
       "num": 212081,
       "word": "李昀锐叫小鬼 鬼鬼",
@@ -7393,6 +7441,14 @@
       "onboard_time": 1719939435,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207461,
+      "num": 207461,
+      "word": "李沁绾心记路透",
+      "onboard_time": 1720249697,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 207388,
@@ -7955,6 +8011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "华晨宇重庆演唱会座位图",
+      "onboard_time": 1720249577,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198066,
       "num": 170896,
       "word": "王嘉尔活动生图",
@@ -7985,6 +8049,14 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197327,
+      "num": 197327,
+      "word": "王星越沈月素颜",
+      "onboard_time": 1720249757,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 196853,
@@ -8827,6 +8899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181606,
+      "num": 181606,
+      "word": "李嘉琦发文告别芬芳喜事",
+      "onboard_time": 1720249637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -8937,6 +9017,14 @@
       "onboard_time": 1720102519,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 180325,
+      "num": 180325,
+      "word": "爱情并不是谁先主动谁就输",
+      "onboard_time": 1720248857,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 180303,
@@ -9057,6 +9145,14 @@
       "onboard_time": 1719992298,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 177624,
+      "num": 177624,
+      "word": "专家制定堵口方案力保首堵成功",
+      "onboard_time": 1720249037,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177562,
@@ -9235,6 +9331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174213,
+      "num": 174213,
+      "word": "陈哲远路透",
+      "onboard_time": 1720249757,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173824,
       "num": 173824,
       "word": "LPL夏季赛组内赛赛程",
@@ -9273,6 +9377,14 @@
       "onboard_time": 1720053678,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173197,
+      "num": 173197,
+      "word": "张志杰姐姐称已拿到当地的医疗报告",
+      "onboard_time": 1720249757,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 172962,
@@ -10427,6 +10539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151939,
+      "num": 151939,
+      "word": "为什么尽早接种流脑疫苗",
+      "onboard_time": 1720250177,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151649,
       "num": 151649,
       "word": "TF三代出发参加家族运动会",
@@ -11003,6 +11123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142951,
+      "num": 142951,
+      "word": "王鹤棣长沙线下人气",
+      "onboard_time": 1720248138,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142946,
       "num": 142946,
       "word": "服部平次 黑皮帅哥第一",
@@ -11267,6 +11395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "已坐等长相思2求周一放过",
+      "onboard_time": 1720248797,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139429,
       "num": 139429,
       "word": "勇士裁掉保罗",
@@ -11400,6 +11536,14 @@
       "word": "薛之谦三小时演唱会在雨里唱了两小时",
       "onboard_time": 1720004419,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "五月天二开",
+      "onboard_time": 1720249937,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -12233,14 +12377,6 @@
       "onboard_time": 1719919338,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127298,
-      "num": 127298,
-      "word": "快乐老友记 两大群像松弛感",
-      "onboard_time": 1720247058,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 127222,
@@ -13233,6 +13369,14 @@
       "onboard_time": 1720019361,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112065,
+      "num": 112065,
+      "word": "王者排位机制优化",
+      "onboard_time": 1720249937,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 111697,
@@ -14331,6 +14475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84716,
+      "num": 375621,
+      "word": "鞋也丢了包也丢了还好人没丢",
+      "onboard_time": 1720249218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84421,
       "num": 84421,
       "word": "花花伸出小短手够竹笋太努力了",
@@ -14993,6 +15145,14 @@
       "onboard_time": 1720238358,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 57096,
+      "num": 256467,
+      "word": "上海最红展览city不city",
+      "onboard_time": 1720247118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56917,
@@ -15684,7 +15844,7 @@
     },
     {
       "raw_hot": 33970,
-      "num": 654593,
+      "num": 710157,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
       "rank": 2,
@@ -16203,14 +16363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17878,
-      "num": 171776,
-      "word": "上海最红展览city不city",
-      "onboard_time": 1720247118,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17811,
       "num": 159209,
       "word": "日企开始高中毕业生争夺战",
@@ -16649,6 +16801,9 @@
     },
     {
       "word": "#平安是人民幸福的生命线#"
+    },
+    {
+      "word": "#习近平结束对塔吉克斯坦的国事访问#"
     }
   ]
 }
