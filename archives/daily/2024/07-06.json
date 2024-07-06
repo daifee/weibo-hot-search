@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720239791764,
+  "endTime": 1720240621182,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 965290,
+      "num": 965290,
+      "word": "大麦 抢不到",
+      "onboard_time": 1720236618,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 946583,
       "num": 272457,
       "word": "睡前不刷牙将是对牙齿的恐怖待遇",
       "onboard_time": 1720192040,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 891407,
-      "num": 891407,
-      "word": "大麦 抢不到",
-      "onboard_time": 1720236618,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 843641,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541518,
+      "num": 270474,
+      "word": "长期不运动身体会发生什么",
+      "onboard_time": 1720235298,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 519487,
       "num": 519487,
       "word": "东方树叶 第八",
@@ -299,14 +307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 455190,
-      "num": 270474,
-      "word": "长期不运动身体会发生什么",
-      "onboard_time": 1720235298,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 449127,
       "num": 449127,
       "word": "柳岩肌瘤手术",
@@ -347,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417698,
+      "num": 417698,
+      "word": "于正发长文聊李梦",
+      "onboard_time": 1720237217,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 415127,
+      "num": 415127,
+      "word": "伊朗总统大选结果揭晓",
+      "onboard_time": 1720239078,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 402943,
       "num": 182484,
       "word": "月经两三天干净和一周干净哪个健康些",
@@ -371,16 +387,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379926,
-      "num": 379926,
-      "word": "于正发长文聊李梦",
-      "onboard_time": 1720237217,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379584,
-      "num": 214504,
+      "num": 220136,
       "word": "王俊凯追丁程鑫",
       "onboard_time": 1720236738,
       "rank": 31,
@@ -395,19 +403,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373663,
+      "num": 365561,
+      "word": "朱也天被北大正式录取",
+      "onboard_time": 1720236257,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367856,
       "num": 367856,
       "word": "宾馆老板见男子带幼女开房立刻报警",
       "onboard_time": 1720183760,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365561,
-      "num": 365561,
-      "word": "朱也天被北大正式录取",
-      "onboard_time": 1720236257,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296387,
+      "num": 216673,
+      "word": "郑恺说找不到苗苗会有舆情",
+      "onboard_time": 1720239317,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276971,
       "num": 276971,
       "word": "从贵州回来的人嘴真严啊",
@@ -513,6 +529,22 @@
       "onboard_time": 1720199416,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257858,
+      "num": 257858,
+      "word": "蒋敦豪演唱会抢票",
+      "onboard_time": 1720239498,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 250035,
+      "num": 250035,
+      "word": "丁太升评歌手第九期",
+      "onboard_time": 1720239498,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 237929,
@@ -539,19 +571,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 215471,
+      "num": 215471,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1720239438,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214717,
+      "num": 214717,
+      "word": "肖战男大运动风",
+      "onboard_time": 1720239438,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212081,
       "num": 212081,
       "word": "李昀锐叫小鬼 鬼鬼",
       "onboard_time": 1720237516,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210979,
-      "num": 210979,
-      "word": "郑恺说找不到苗苗会有舆情",
-      "onboard_time": 1720239317,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -579,20 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200601,
-      "num": 200601,
-      "word": "伊朗总统大选结果揭晓",
-      "onboard_time": 1720239078,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 199616,
-      "num": 199616,
-      "word": "肖战男大运动风",
-      "onboard_time": 1720239438,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 200675,
+      "num": 192175,
+      "word": "杭州东站回应被指站台沉降",
+      "onboard_time": 1720239378,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195717,
@@ -651,14 +683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187187,
-      "num": 187187,
-      "word": "蒋敦豪演唱会抢票",
-      "onboard_time": 1720239498,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186712,
       "num": 182315,
       "word": "工作室回应汪苏泷歌手状态",
@@ -673,14 +697,6 @@
       "onboard_time": 1720221254,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183824,
-      "num": 183824,
-      "word": "丁太升评歌手第九期",
-      "onboard_time": 1720239498,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 182761,
@@ -705,14 +721,6 @@
       "onboard_time": 1720235837,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177269,
-      "num": 177269,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1720239438,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 176972,
@@ -779,8 +787,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166024,
-      "num": 166024,
+      "raw_hot": 168672,
+      "num": 168672,
       "word": "周深 没事哒",
       "onboard_time": 1720238837,
       "rank": 39,
@@ -907,8 +915,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148528,
-      "num": 148528,
+      "raw_hot": 149445,
+      "num": 149445,
       "word": "范丞丞 脾气真好",
       "onboard_time": 1720239137,
       "rank": 45,
@@ -961,14 +969,6 @@
       "onboard_time": 1720228097,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141922,
-      "num": 141922,
-      "word": "杭州东站回应被指站台沉降",
-      "onboard_time": 1720239378,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140348,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1720174579,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130380,
+      "num": 662841,
+      "word": "武警消防在洞庭湖连夜救援",
+      "onboard_time": 1720234758,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129159,
@@ -1163,12 +1171,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113327,
-      "num": 662841,
-      "word": "武警消防在洞庭湖连夜救援",
-      "onboard_time": 1720234758,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 112592,
+      "num": 112592,
+      "word": "高价雪糕集体遭遇甩卖",
+      "onboard_time": 1720240278,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 110149,
@@ -1307,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72647,
+      "num": 415157,
+      "word": "绘旅人新聊斋",
+      "onboard_time": 1720238537,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68130,
       "num": 68130,
       "word": "菲利克斯失点",
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59893,
+      "num": 371908,
+      "word": "塔吉克斯坦人也有一颗中国胃",
+      "onboard_time": 1720238418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59887,
       "num": 59887,
       "word": "法国晋级欧洲杯半决赛",
@@ -1363,12 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53812,
-      "num": 217453,
-      "word": "绘旅人新聊斋",
-      "onboard_time": 1720238537,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 57282,
+      "num": 415804,
+      "word": "若尔盖草原夏花都开好了",
+      "onboard_time": 1720238358,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 47783,
@@ -1384,14 +1408,6 @@
       "word": "三部门向湖南华容紧急调拨物资",
       "onboard_time": 1720198097,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39464,
-      "num": 371908,
-      "word": "塔吉克斯坦人也有一颗中国胃",
-      "onboard_time": 1720238418,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1419,8 +1435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32706,
-      "num": 646341,
+      "raw_hot": 33970,
+      "num": 654593,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
       "rank": 2,

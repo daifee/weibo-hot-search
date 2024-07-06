@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720239791764,
+  "endTime": 1720240621182,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965290,
+      "num": 965290,
+      "word": "大麦 抢不到",
+      "onboard_time": 1720236618,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 963431,
       "num": 963431,
       "word": "于正的聊天记录",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1719842780,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 891407,
-      "num": 891407,
-      "word": "大麦 抢不到",
-      "onboard_time": 1720236618,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 890282,
@@ -3179,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 541518,
+      "num": 270474,
+      "word": "长期不运动身体会发生什么",
+      "onboard_time": 1720235298,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 539842,
       "num": 472381,
       "word": "国羽小将获胜后仰天告慰张志杰",
@@ -4107,14 +4115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455190,
-      "num": 270474,
-      "word": "长期不运动身体会发生什么",
-      "onboard_time": 1720235298,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 454774,
       "num": 454774,
       "word": "本周桃花运最旺的星座",
@@ -4667,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417698,
+      "num": 417698,
+      "word": "于正发长文聊李梦",
+      "onboard_time": 1720237217,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417452,
       "num": 417452,
       "word": "张真源被误伤",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1719825258,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415127,
+      "num": 415127,
+      "word": "伊朗总统大选结果揭晓",
+      "onboard_time": 1720239078,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 411847,
@@ -5067,14 +5083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379926,
-      "num": 379926,
-      "word": "于正发长文聊李梦",
-      "onboard_time": 1720237217,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379860,
       "num": 379860,
       "word": "白鹿对接发声明",
@@ -5084,7 +5092,7 @@
     },
     {
       "raw_hot": 379584,
-      "num": 214504,
+      "num": 220136,
       "word": "王俊凯追丁程鑫",
       "onboard_time": 1720236738,
       "rank": 31,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1720185081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373663,
+      "num": 365561,
+      "word": "朱也天被北大正式录取",
+      "onboard_time": 1720236257,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372209,
@@ -5273,14 +5289,6 @@
       "onboard_time": 1720136297,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 365561,
-      "num": 365561,
-      "word": "朱也天被北大正式录取",
-      "onboard_time": 1720236257,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362578,
@@ -6363,6 +6371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296387,
+      "num": 216673,
+      "word": "郑恺说找不到苗苗会有舆情",
+      "onboard_time": 1720239317,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -6979,6 +6995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257858,
+      "num": 257858,
+      "word": "蒋敦豪演唱会抢票",
+      "onboard_time": 1720239498,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257466,
       "num": 283282,
       "word": "湖南岳阳一处洞庭湖大堤发生溃口险情",
@@ -7145,6 +7169,14 @@
       "onboard_time": 1719914959,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250035,
+      "num": 250035,
+      "word": "丁太升评歌手第九期",
+      "onboard_time": 1720239498,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 249974,
@@ -8067,6 +8099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215471,
+      "num": 215471,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1720239438,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215316,
       "num": 215316,
       "word": "Kindle中国电子书店停止下载服务",
@@ -8081,6 +8121,14 @@
       "onboard_time": 1719755961,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214717,
+      "num": 214717,
+      "word": "肖战男大运动风",
+      "onboard_time": 1720239438,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 214690,
@@ -8193,14 +8241,6 @@
       "onboard_time": 1720155919,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210979,
-      "num": 210979,
-      "word": "郑恺说找不到苗苗会有舆情",
-      "onboard_time": 1720239317,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 210783,
@@ -8803,12 +8843,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200601,
-      "num": 200601,
-      "word": "伊朗总统大选结果揭晓",
-      "onboard_time": 1720239078,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 200675,
+      "num": 192175,
+      "word": "杭州东站回应被指站台沉降",
+      "onboard_time": 1720239378,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200518,
@@ -8873,14 +8913,6 @@
       "onboard_time": 1719759739,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199616,
-      "num": 199616,
-      "word": "肖战男大运动风",
-      "onboard_time": 1720239438,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 199584,
@@ -9779,14 +9811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187187,
-      "num": 187187,
-      "word": "蒋敦豪演唱会抢票",
-      "onboard_time": 1720239498,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187010,
       "num": 187010,
       "word": "父母叠床单时女儿想荡秋千",
@@ -9985,14 +10009,6 @@
       "onboard_time": 1720012638,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183824,
-      "num": 183824,
-      "word": "丁太升评歌手第九期",
-      "onboard_time": 1720239498,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 183374,
@@ -10313,14 +10329,6 @@
       "onboard_time": 1720069878,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177269,
-      "num": 177269,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1720239438,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 177206,
@@ -10731,6 +10739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168672,
+      "num": 168672,
+      "word": "周深 没事哒",
+      "onboard_time": 1720238837,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "队友们给张志杰留了加油的位置",
@@ -10833,14 +10849,6 @@
       "onboard_time": 1720183280,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166024,
-      "num": 166024,
-      "word": "周深 没事哒",
-      "onboard_time": 1720238837,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 165942,
@@ -11915,6 +11923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149445,
+      "num": 149445,
+      "word": "范丞丞 脾气真好",
+      "onboard_time": 1720239137,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149415,
       "num": 149415,
       "word": "绝区零 打击感",
@@ -11945,14 +11961,6 @@
       "onboard_time": 1720057036,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148528,
-      "num": 148528,
-      "word": "范丞丞 脾气真好",
-      "onboard_time": 1720239137,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 148502,
@@ -12553,14 +12561,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141922,
-      "num": 141922,
-      "word": "杭州东站回应被指站台沉降",
-      "onboard_time": 1720239378,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141656,
@@ -13521,6 +13521,14 @@
       "onboard_time": 1720089319,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130380,
+      "num": 662841,
+      "word": "武警消防在洞庭湖连夜救援",
+      "onboard_time": 1720234758,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130378,
@@ -14899,14 +14907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113327,
-      "num": 662841,
-      "word": "武警消防在洞庭湖连夜救援",
-      "onboard_time": 1720234758,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113312,
       "num": 113312,
       "word": "传说点映",
@@ -14993,6 +14993,14 @@
       "onboard_time": 1719920418,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112592,
+      "num": 112592,
+      "word": "高价雪糕集体遭遇甩卖",
+      "onboard_time": 1720240278,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 112517,
@@ -16667,6 +16675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72647,
+      "num": 415157,
+      "word": "绘旅人新聊斋",
+      "onboard_time": 1720238537,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72036,
       "num": 293750,
       "word": "被两只新生水豚宝宝萌到了",
@@ -17083,6 +17099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59893,
+      "num": 371908,
+      "word": "塔吉克斯坦人也有一颗中国胃",
+      "onboard_time": 1720238418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59887,
       "num": 59887,
       "word": "法国晋级欧洲杯半决赛",
@@ -17195,6 +17219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 57282,
+      "num": 415804,
+      "word": "若尔盖草原夏花都开好了",
+      "onboard_time": 1720238358,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 56917,
       "num": 134826,
       "word": "致敬出海路上坚持奋斗的中国品牌",
@@ -17273,14 +17305,6 @@
       "onboard_time": 1720148898,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53812,
-      "num": 217453,
-      "word": "绘旅人新聊斋",
-      "onboard_time": 1720238537,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 53662,
@@ -17755,14 +17779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39464,
-      "num": 371908,
-      "word": "塔吉克斯坦人也有一颗中国胃",
-      "onboard_time": 1720238418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39177,
       "num": 39177,
       "word": "音乐剧太阳黑子",
@@ -18051,6 +18067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33970,
+      "num": 654593,
+      "word": "千年运河京韵焕新",
+      "onboard_time": 1720237996,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33922,
       "num": 49132,
       "word": "这种黄瓜有助于减脂",
@@ -18081,14 +18105,6 @@
       "onboard_time": 1720165459,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32706,
-      "num": 646341,
-      "word": "千年运河京韵焕新",
-      "onboard_time": 1720237996,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32515,
