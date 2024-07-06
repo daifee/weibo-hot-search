@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720307890705,
+  "endTime": 1720308964267,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1636,7 +1636,7 @@
     },
     {
       "raw_hot": 797773,
-      "num": 204763,
+      "num": 365760,
       "word": "易猝死的人往往有这4个共同点",
       "onboard_time": 1720277719,
       "rank": 24,
@@ -2340,7 +2340,7 @@
     },
     {
       "raw_hot": 629578,
-      "num": 382724,
+      "num": 397910,
       "word": "冯琳入职东方卫视",
       "onboard_time": 1720280659,
       "rank": 10,
@@ -6179,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291536,
+      "num": 165612,
+      "word": "孙艺珍说和玄彬之间是命运",
+      "onboard_time": 1720308134,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291490,
       "num": 291490,
       "word": "恋与深空2.0交错视界",
@@ -7305,6 +7313,14 @@
       "onboard_time": 1719997759,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234045,
+      "num": 234045,
+      "word": "1937年7月7日永不能忘",
+      "onboard_time": 1720307534,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 234032,
@@ -9147,6 +9163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191488,
+      "num": 191488,
+      "word": "今日中国再不是1937的中国",
+      "onboard_time": 1720307833,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191376,
       "num": 191376,
       "word": "马嘉祺运动会举牌",
@@ -9377,6 +9401,14 @@
       "onboard_time": 1720070717,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188921,
+      "num": 105538,
+      "word": "七七事变",
+      "onboard_time": 1720308074,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188835,
@@ -11707,6 +11739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148284,
+      "num": 148284,
+      "word": "刘德华回应演唱会滑跪",
+      "onboard_time": 1720308193,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148264,
       "num": 148264,
       "word": "苏新皓射箭",
@@ -12163,6 +12203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142938,
+      "num": 142938,
+      "word": "原来狗累了这么明显",
+      "onboard_time": 1720307774,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142875,
       "num": 142875,
       "word": "度华年微博追剧团",
@@ -12425,6 +12473,14 @@
       "onboard_time": 1720141459,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139813,
+      "num": 139813,
+      "word": "TES零封G2",
+      "onboard_time": 1720307353,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 139593,
@@ -14283,6 +14339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116881,
+      "num": 105392,
+      "word": "银行开始对个人按揭贷款较真",
+      "onboard_time": 1720307954,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116826,
       "num": 116826,
       "word": "滕哈格续约曼联",
@@ -14633,6 +14697,14 @@
       "onboard_time": 1720019361,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112174,
+      "num": 105354,
+      "word": "赵露思穿搭",
+      "onboard_time": 1720308193,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111697,
@@ -15211,6 +15283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101315,
+      "num": 94186,
+      "word": "不要随便喝中国的肠润茶",
+      "onboard_time": 1720307954,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101123,
       "num": 101123,
       "word": "韩廷洗澡镜头",
@@ -15457,6 +15537,14 @@
       "onboard_time": 1720080978,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95585,
+      "num": 95585,
+      "word": "87年前卢沟桥畔的枪响",
+      "onboard_time": 1720308074,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95419,
@@ -15779,6 +15867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88105,
+      "num": 88105,
+      "word": "英格兰6比4瑞士",
+      "onboard_time": 1720307534,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87968,
       "num": 87968,
       "word": "科斯塔连扑三点",
@@ -15931,6 +16027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81018,
+      "num": 81018,
+      "word": "宛平城墙的弹痕是先辈血泪的印记",
+      "onboard_time": 1720307833,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80867,
       "num": 256467,
       "word": "上海最红展览city不city",
@@ -16051,14 +16155,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 76026,
-      "num": 76026,
-      "word": "1937年7月7日永不能忘",
-      "onboard_time": 1720307534,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75981,
       "num": 406242,
       "word": "MBTI测试忽i忽e是怎么回事",
@@ -16121,6 +16217,14 @@
       "onboard_time": 1720238537,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72560,
+      "num": 72560,
+      "word": "欧洲杯四强出炉",
+      "onboard_time": 1720308674,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 70661,
@@ -16235,12 +16339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66263,
-      "num": 66263,
-      "word": "英格兰6比4瑞士",
-      "onboard_time": 1720307534,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 66225,
+      "num": 66225,
+      "word": "许凯好帅",
+      "onboard_time": 1720308495,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 66158,
@@ -16411,6 +16515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 62281,
+      "num": 62281,
+      "word": "英格兰1比1瑞士",
+      "onboard_time": 1720307774,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62083,
       "num": 203335,
       "word": "小哥双腿绑沙袋送快递跑进奥运会",
@@ -16424,6 +16536,14 @@
       "word": "英格兰五罚全中",
       "onboard_time": 1720307413,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61991,
+      "num": 61991,
+      "word": "荷兰2比1土耳其",
+      "onboard_time": 1720307594,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -16441,14 +16561,6 @@
       "onboard_time": 1720140500,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61344,
-      "num": 61344,
-      "word": "TES零封G2",
-      "onboard_time": 1720307353,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 61271,
@@ -16481,14 +16593,6 @@
       "onboard_time": 1719766574,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60733,
-      "num": 60733,
-      "word": "原来狗累了这么明显",
-      "onboard_time": 1720307774,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 60730,
@@ -16683,12 +16787,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55898,
-      "num": 55898,
-      "word": "宛平城墙的弹痕是先辈血泪的印记",
-      "onboard_time": 1720307833,
-      "rank": 40,
-      "category": "国内时政"
+      "raw_hot": 55998,
+      "num": 55998,
+      "word": "东契奇无缘奥运会",
+      "onboard_time": 1720307713,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 55752,
@@ -16761,14 +16865,6 @@
       "onboard_time": 1720243817,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52667,
-      "num": 52667,
-      "word": "英格兰1比1瑞士",
-      "onboard_time": 1720307774,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 52407,
@@ -16899,14 +16995,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 48023,
-      "num": 48023,
-      "word": "今日中国再不是1937的中国",
-      "onboard_time": 1720307833,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47904,
       "num": 244557,
       "word": "熊猫界有自己的I熊E熊",
@@ -16945,14 +17033,6 @@
       "onboard_time": 1720067178,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47317,
-      "num": 47317,
-      "word": "荷兰2比1土耳其",
-      "onboard_time": 1720307594,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 47163,
@@ -17715,6 +17795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26729,
+      "num": 166225,
+      "word": "神仙邻居带动社区200多人暑假晨跑",
+      "onboard_time": 1720298711,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26725,
       "num": 30459,
       "word": "孙一峰谈黄旭东吐槽JackeyLove",
@@ -17825,14 +17913,6 @@
       "onboard_time": 1720270698,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25112,
-      "num": 126635,
-      "word": "神仙邻居带动社区200多人暑假晨跑",
-      "onboard_time": 1720298711,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25081,

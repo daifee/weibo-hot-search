@@ -1,0 +1,410 @@
+{
+  "runTime": 1720308964267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 397910,
+        "num": 397910,
+        "word": "冯琳入职东方卫视",
+        "onboard_time": 1720280659,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365760,
+        "num": 365760,
+        "word": "易猝死的人往往有这4个共同点",
+        "onboard_time": 1720277719,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21988,
+        "num": 334299,
+        "word": "中国友谊勋章如何颁授",
+        "onboard_time": 1720277598,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328643,
+        "num": 328643,
+        "word": "日本2男子将50岁同事放洗衣机",
+        "onboard_time": 1720272620,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271254,
+        "num": 271254,
+        "word": "印度一地一天内19人被雷击身亡",
+        "onboard_time": 1720281498,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257888,
+        "num": 257888,
+        "word": "洞庭湖226米决口已封堵66米",
+        "onboard_time": 1720279099,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234045,
+        "num": 234045,
+        "word": "1937年7月7日永不能忘",
+        "onboard_time": 1720307534,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191488,
+        "num": 191488,
+        "word": "今日中国再不是1937的中国",
+        "onboard_time": 1720307833,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170000,
+        "num": 170000,
+        "word": "警方通报川藏线孕妇插队事件",
+        "onboard_time": 1720266558,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26729,
+        "num": 166225,
+        "word": "神仙邻居带动社区200多人暑假晨跑",
+        "onboard_time": 1720298711,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291536,
+        "num": 165612,
+        "word": "孙艺珍说和玄彬之间是命运",
+        "onboard_time": 1720308134,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163696,
+        "num": 163696,
+        "word": "刘亦菲许红豆限时回归",
+        "onboard_time": 1720276819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "韩廷 孟宴臣",
+        "onboard_time": 1720274178,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152403,
+        "num": 152403,
+        "word": "裴文宣死得很惨但想得很美",
+        "onboard_time": 1720267697,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148284,
+        "num": 148284,
+        "word": "刘德华回应演唱会滑跪",
+        "onboard_time": 1720308193,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145060,
+        "num": 145060,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142938,
+        "num": 142938,
+        "word": "原来狗累了这么明显",
+        "onboard_time": 1720307774,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139813,
+        "num": 139813,
+        "word": "TES零封G2",
+        "onboard_time": 1720307353,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135399,
+        "num": 135399,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105555,
+        "num": 105555,
+        "word": "TES对战G2",
+        "onboard_time": 1720279999,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188921,
+        "num": 105538,
+        "word": "七七事变",
+        "onboard_time": 1720308074,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161387,
+        "num": 105489,
+        "word": "奉劝晚婚的人不要随份子钱",
+        "onboard_time": 1720271838,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116881,
+        "num": 105392,
+        "word": "银行开始对个人按揭贷款较真",
+        "onboard_time": 1720307954,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112174,
+        "num": 105354,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105787,
+        "num": 105304,
+        "word": "林俊杰",
+        "onboard_time": 1720281679,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105243,
+        "num": 105243,
+        "word": "去已婚姐姐家过暑假要给生活费吗",
+        "onboard_time": 1720265538,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101591,
+        "num": 101591,
+        "word": "天水麻辣烫仍然在批量倒闭",
+        "onboard_time": 1720283419,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101577,
+        "num": 101577,
+        "word": "上厕所途中冲水小心病菌感染",
+        "onboard_time": 1720278678,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95585,
+        "num": 95585,
+        "word": "87年前卢沟桥畔的枪响",
+        "onboard_time": 1720308074,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94591,
+        "num": 94591,
+        "word": "T1晋级电竞世界杯决赛",
+        "onboard_time": 1720292413,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360966,
+        "num": 94285,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101315,
+        "num": 94186,
+        "word": "不要随便喝中国的肠润茶",
+        "onboard_time": 1720307954,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92640,
+        "num": 92640,
+        "word": "英格兰瑞士点球大战",
+        "onboard_time": 1720292653,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91304,
+        "num": 91304,
+        "word": "荷兰vs土耳其",
+        "onboard_time": 1720287853,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88105,
+        "num": 88105,
+        "word": "英格兰6比4瑞士",
+        "onboard_time": 1720307534,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87142,
+        "num": 87142,
+        "word": "在小县城用联名公交卡被骂了",
+        "onboard_time": 1720274539,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81018,
+        "num": 81018,
+        "word": "宛平城墙的弹痕是先辈血泪的印记",
+        "onboard_time": 1720307833,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80329,
+        "num": 80329,
+        "word": "何捷叫张馨予胖子",
+        "onboard_time": 1720262898,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77280,
+        "num": 77280,
+        "word": "55岁的妈妈拒绝学习任何新事物",
+        "onboard_time": 1720296131,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74573,
+        "num": 74573,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73905,
+        "num": 73905,
+        "word": "英格兰vs瑞士",
+        "onboard_time": 1720274718,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72560,
+        "num": 72560,
+        "word": "欧洲杯四强出炉",
+        "onboard_time": 1720308674,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66225,
+        "num": 66225,
+        "word": "许凯好帅",
+        "onboard_time": 1720308495,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64414,
+        "num": 64414,
+        "word": "坚持运动40年的身材",
+        "onboard_time": 1720268599,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63392,
+        "num": 63392,
+        "word": "摆拍生吃见手青网红已被禁言",
+        "onboard_time": 1720273939,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62281,
+        "num": 62281,
+        "word": "英格兰1比1瑞士",
+        "onboard_time": 1720307774,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61991,
+        "num": 61991,
+        "word": "荷兰2比1土耳其",
+        "onboard_time": 1720307594,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59785,
+        "num": 59785,
+        "word": "暑期档第一部校园剧来了",
+        "onboard_time": 1720267818,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55998,
+        "num": 55998,
+        "word": "东契奇无缘奥运会",
+        "onboard_time": 1720307713,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55861,
+        "num": 55861,
+        "word": "七七事变八十七周年",
+        "onboard_time": 1720292772,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#塔吉克斯坦总统送了一份特别的礼物#"
+    }
+  }
+}
