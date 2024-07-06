@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720254273959,
+  "endTime": 1720254998827,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -160,6 +160,14 @@
       "word": "徐艺洋 老板就能上我卫生间吗",
       "onboard_time": 1719890598,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1851124,
+      "num": 1851124,
+      "word": "单依纯想整容被医生拒绝",
+      "onboard_time": 1720253597,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1073,14 +1081,6 @@
       "onboard_time": 1719971478,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 985355,
-      "num": 695903,
-      "word": "单依纯想整容被医生拒绝",
-      "onboard_time": 1720253597,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 984129,
@@ -3689,6 +3689,14 @@
       "onboard_time": 1720050257,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499823,
+      "num": 510857,
+      "word": "直击洞庭湖决堤救援一线",
+      "onboard_time": 1720253357,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499774,
@@ -7099,14 +7107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264851,
-      "num": 510857,
-      "word": "直击洞庭湖决堤救援一线",
-      "onboard_time": 1720253357,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264752,
       "num": 262734,
       "word": "田曦薇穿的好像婚纱",
@@ -9675,6 +9675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193230,
+      "num": 193230,
+      "word": "我的发颠朋友圈被我爸做成Excel了",
+      "onboard_time": 1720253778,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193092,
       "num": 193092,
       "word": "汪苏泷唱完观众喊好听",
@@ -11347,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "刘美含cos严莉莉",
+      "onboard_time": 1720254197,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164462,
       "num": 164462,
       "word": "格局加入RNG",
@@ -12411,6 +12427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "默杀票房破2亿",
+      "onboard_time": 1720251797,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148109,
       "num": 148109,
       "word": "狼队对战RW",
@@ -12811,6 +12835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143890,
+      "num": 143890,
+      "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
+      "onboard_time": 1720254259,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "孙楠越唱越稳",
@@ -13203,6 +13235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139201,
+      "num": 139201,
+      "word": "默杀 一惊一乍的",
+      "onboard_time": 1720251679,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139174,
       "num": 139174,
       "word": "癌症早期筛查有了新手段",
@@ -13217,14 +13257,6 @@
       "onboard_time": 1720110795,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139042,
-      "num": 139042,
-      "word": "我的发颠朋友圈被我爸做成Excel了",
-      "onboard_time": 1720253778,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 139040,
@@ -13457,14 +13489,6 @@
       "onboard_time": 1720097658,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136702,
-      "num": 136702,
-      "word": "默杀票房破2亿",
-      "onboard_time": 1720251797,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 136527,
@@ -14257,14 +14281,6 @@
       "onboard_time": 1719671178,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127675,
-      "num": 122288,
-      "word": "默杀 一惊一乍的",
-      "onboard_time": 1720251679,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 127617,
@@ -15267,6 +15283,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 115699,
+      "num": 115699,
+      "word": "张新成 自由才是最大的不自由",
+      "onboard_time": 1720254739,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115654,
       "num": 115654,
       "word": "高价雪糕集体遭遇甩卖",
@@ -15659,6 +15683,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 110556,
+      "num": 110556,
+      "word": "TE对战Wolves",
+      "onboard_time": 1720253838,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110400,
       "num": 110400,
       "word": "迪士尼稀缺款玩偶被炒至4000元",
@@ -15849,14 +15881,6 @@
       "onboard_time": 1720197437,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107522,
-      "num": 107522,
-      "word": "TE对战Wolves",
-      "onboard_time": 1720253838,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 107517,
@@ -16211,6 +16235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101550,
+      "num": 101550,
+      "word": "独自旅行的意义",
+      "onboard_time": 1720254617,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101545,
       "num": 101545,
       "word": "2024欧洲杯",
@@ -16257,14 +16289,6 @@
       "onboard_time": 1719971238,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100274,
-      "num": 100274,
-      "word": "刘美含cos严莉莉",
-      "onboard_time": 1720254197,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 100184,
@@ -16449,14 +16473,6 @@
       "onboard_time": 1719739157,
       "rank": 46,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 96138,
-      "num": 96138,
-      "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
-      "onboard_time": 1720254259,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 96087,
@@ -18787,6 +18803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31874,
+      "num": 438577,
+      "word": "女子暴雨中摔倒兵哥哥飞奔而来",
+      "onboard_time": 1720253118,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31333,
       "num": 31333,
       "word": "贺军翔回应性骚扰指控",
@@ -19171,14 +19195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24084,
-      "num": 238537,
-      "word": "女子暴雨中摔倒兵哥哥飞奔而来",
-      "onboard_time": 1720253118,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23964,
       "num": 127010,
       "word": "好评中国",
@@ -19241,6 +19257,14 @@
       "onboard_time": 1719738678,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22828,
+      "num": 102065,
+      "word": "115秒看懂中塔友谊",
+      "onboard_time": 1720254499,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22379,
@@ -19681,6 +19705,14 @@
       "onboard_time": 1720097538,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2934,
+      "num": 676736,
+      "word": "河海共生津韵悠扬",
+      "onboard_time": 1720191921,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -19827,6 +19859,9 @@
     },
     {
       "word": "#习近平主席的塔吉克斯坦时间#"
+    },
+    {
+      "word": "#现代化道路上的同路人#"
     }
   ]
 }
