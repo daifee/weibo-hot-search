@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720301677032,
+  "endTime": 1720304319324,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47951,
+      "num": 47951,
+      "word": "七七事变八十七周年",
+      "onboard_time": 1720292772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45307,
       "num": 38132,
       "word": "詹俊解说",
@@ -483,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41023,
-      "num": 41023,
-      "word": "七七事变八十七周年",
-      "onboard_time": 1720292772,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 43589,
+      "num": 43589,
+      "word": "55岁的妈妈拒绝学习任何新事物",
+      "onboard_time": 1720296131,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 40244,
@@ -499,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38746,
-      "num": 31968,
-      "word": "55岁的妈妈拒绝学习任何新事物",
-      "onboard_time": 1720296131,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 37413,
+      "num": 37413,
+      "word": "体脂率是衡量胖瘦的金标准",
+      "onboard_time": 1720299851,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 36125,
@@ -539,14 +547,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 19946,
-      "num": 19946,
-      "word": "体脂率是衡量胖瘦的金标准",
-      "onboard_time": 1720299851,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 19217,
       "num": 19217,
       "word": "和平精英",
@@ -555,18 +555,26 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11916,
-      "num": 54413,
-      "word": "神仙邻居带动社区200多人暑假晨跑",
-      "onboard_time": 1720298711,
+      "raw_hot": 17640,
+      "num": 24251,
+      "word": "你在奥运会上的对手刚刚小学毕业",
+      "onboard_time": 1720302911,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14854,
+      "num": 63651,
+      "word": "15岁男孩教科书式急救抢回一条命",
+      "onboard_time": 1720296851,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10429,
-      "num": 62962,
-      "word": "15岁男孩教科书式急救抢回一条命",
-      "onboard_time": 1720296851,
+      "raw_hot": 11916,
+      "num": 54413,
+      "word": "神仙邻居带动社区200多人暑假晨跑",
+      "onboard_time": 1720298711,
       "rank": 9,
       "category": "社会新闻"
     }
