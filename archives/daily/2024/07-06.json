@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720250229835,
+  "endTime": 1720251286091,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136250,
+      "num": 607997,
+      "word": "张志杰妈妈悲伤过度入院",
+      "onboard_time": 1720248977,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1047477,
       "num": 495535,
       "word": "端木磊带楚雨荨在火锅店吃西餐",
@@ -67,20 +75,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1026737,
+      "num": 1026737,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965290,
       "num": 965290,
       "word": "大麦 抢不到",
       "onboard_time": 1720236618,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 955518,
-      "num": 955518,
-      "word": "警方通报北京地铁大爷女儿含泪发声",
-      "onboard_time": 1720245678,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946583,
@@ -97,14 +105,6 @@
       "onboard_time": 1720239317,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 851713,
-      "num": 468418,
-      "word": "张志杰妈妈悲伤过度入院",
-      "onboard_time": 1720248977,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 843641,
@@ -217,6 +217,14 @@
       "onboard_time": 1720238059,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 630891,
+      "num": 630891,
+      "word": "法国1300年古剑被人从悬崖上拔走",
+      "onboard_time": 1720248857,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611949,
@@ -435,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 413955,
+      "num": 413955,
+      "word": "张志杰姐姐称已拿到当地的医疗报告",
+      "onboard_time": 1720249757,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402943,
       "num": 182484,
       "word": "月经两三天干净和一周干净哪个健康些",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373640,
+      "num": 373640,
+      "word": "李嘉琦发文告别芬芳喜事",
+      "onboard_time": 1720249637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367856,
       "num": 367856,
       "word": "宾馆老板见男子带幼女开房立刻报警",
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354319,
-      "num": 354319,
-      "word": "法国1300年古剑被人从悬崖上拔走",
-      "onboard_time": 1720248857,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354102,
       "num": 354102,
       "word": "TES 升舱",
@@ -555,12 +571,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351349,
+      "num": 214651,
+      "word": "王俊凯说我们是一个team",
+      "onboard_time": 1720249518,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348920,
       "num": 348920,
       "word": "洞庭湖决口两端将建设裹头",
       "onboard_time": 1720234938,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348806,
+      "num": 348806,
+      "word": "霸气涂山璟回归",
+      "onboard_time": 1720248917,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348502,
+      "num": 348502,
+      "word": "为什么尽早接种流脑疫苗",
+      "onboard_time": 1720250177,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 347562,
@@ -667,20 +707,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257327,
-      "num": 257327,
-      "word": "霸气涂山璟回归",
-      "onboard_time": 1720248917,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254590,
       "num": 254590,
       "word": "快乐老友记 两大群像松弛感",
       "onboard_time": 1720247058,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244099,
+      "num": 244099,
+      "word": "李沁绾心记路透",
+      "onboard_time": 1720249697,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 237929,
@@ -707,11 +747,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 227847,
-      "num": 214651,
-      "word": "王俊凯说我们是一个team",
-      "onboard_time": 1720249518,
-      "rank": 24,
+      "raw_hot": 231523,
+      "num": 198118,
+      "word": "王星越沈月素颜",
+      "onboard_time": 1720249757,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -729,6 +769,14 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 215494,
+      "num": 215494,
+      "word": "预计下午开始封堵洞庭湖决堤口",
+      "onboard_time": 1720250418,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215471,
@@ -787,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207461,
-      "num": 207461,
-      "word": "李沁绾心记路透",
-      "onboard_time": 1720249697,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204444,
       "num": 204444,
       "word": "2只羊打架致独库公路短暂封路",
@@ -843,14 +883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197327,
-      "num": 197327,
-      "word": "王星越沈月素颜",
-      "onboard_time": 1720249757,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195717,
       "num": 193679,
       "word": "原来午睡不一定非要睡着",
@@ -865,6 +897,14 @@
       "onboard_time": 1720220953,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193967,
+      "num": 193967,
+      "word": "王俊凯丝滑过杆",
+      "onboard_time": 1720250298,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 193264,
@@ -953,14 +993,6 @@
       "onboard_time": 1720188382,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181606,
-      "num": 181606,
-      "word": "李嘉琦发文告别芬芳喜事",
-      "onboard_time": 1720249637,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 180942,
@@ -1057,14 +1089,6 @@
       "onboard_time": 1720205052,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173197,
-      "num": 173197,
-      "word": "张志杰姐姐称已拿到当地的医疗报告",
-      "onboard_time": 1720249757,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 171984,
@@ -1211,20 +1235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151939,
-      "num": 151939,
-      "word": "为什么尽早接种流脑疫苗",
-      "onboard_time": 1720250177,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
       "onboard_time": 1720233076,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150641,
+      "num": 150641,
+      "word": "王者排位机制优化",
+      "onboard_time": 1720249937,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 150611,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128037,
+      "num": 128037,
+      "word": "李蓉裴文宣雪天烟花吻",
+      "onboard_time": 1720251076,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127106,
       "num": 127106,
       "word": "全职妈妈带女儿自驾游2年治愈自己",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1720171400,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126414,
+      "num": 126414,
+      "word": "何浩楠 把禾伙人种地星球工位端了",
+      "onboard_time": 1720250897,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125638,
@@ -1555,12 +1595,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112065,
-      "num": 112065,
-      "word": "王者排位机制优化",
-      "onboard_time": 1720249937,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 112691,
+      "num": 112691,
+      "word": "金智媛是天使啊",
+      "onboard_time": 1720251137,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110149,
@@ -1683,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92358,
+      "num": 375621,
+      "word": "鞋也丢了包也丢了还好人没丢",
+      "onboard_time": 1720249218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92027,
       "num": 92027,
       "word": "贺炜致敬C罗佩佩",
@@ -1707,11 +1755,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84716,
-      "num": 375621,
-      "word": "鞋也丢了包也丢了还好人没丢",
-      "onboard_time": 1720249218,
-      "rank": 9,
+      "raw_hot": 80867,
+      "num": 256467,
+      "word": "上海最红展览city不city",
+      "onboard_time": 1720247118,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1827,14 +1875,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 57096,
-      "num": 256467,
-      "word": "上海最红展览city不city",
-      "onboard_time": 1720247118,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56744,
       "num": 391510,
       "word": "饿了么为C罗免单一万份",
@@ -1856,6 +1896,14 @@
       "word": "塔吉克斯坦国图设立了中国厅",
       "onboard_time": 1720234397,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48537,
+      "num": 398153,
+      "word": "居民讲述洞庭湖决堤卡车封堵细节",
+      "onboard_time": 1720247658,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1952,14 +2000,6 @@
       "word": "8名铁骑护送临产孕妇15分钟到医院",
       "onboard_time": 1720217471,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12723,
-      "num": 398153,
-      "word": "居民讲述洞庭湖决堤卡车封堵细节",
-      "onboard_time": 1720247658,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
