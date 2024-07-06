@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720287263704,
+  "endTime": 1720290253769,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -6099,6 +6099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294805,
+      "num": 294805,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -6915,6 +6923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249544,
+      "num": 249544,
+      "word": "电竞世界杯T1对战TL",
+      "onboard_time": 1720282698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249537,
       "num": 249537,
       "word": "传说",
@@ -7385,14 +7401,6 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230210,
-      "num": 230210,
-      "word": "英格兰vs瑞士",
-      "onboard_time": 1720274718,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 229303,
@@ -8801,14 +8809,6 @@
       "onboard_time": 1720254197,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197548,
-      "num": 197548,
-      "word": "电竞世界杯T1对战TL",
-      "onboard_time": 1720282698,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 197544,
@@ -16435,6 +16435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "荷兰vs土耳其",
+      "onboard_time": 1720287853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59529,
       "num": 376075,
       "word": "各地暑期高校学生资助热线最全汇总",
@@ -16689,6 +16697,14 @@
       "onboard_time": 1720234397,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49021,
+      "num": 49021,
+      "word": "进不了12强就得回去上班",
+      "onboard_time": 1720288513,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 48860,

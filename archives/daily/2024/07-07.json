@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720287263704,
+  "endTime": 1720290253769,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294805,
+      "num": 294805,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287452,
       "num": 183924,
       "word": "林俊杰新歌",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249544,
+      "num": 249544,
+      "word": "电竞世界杯T1对战TL",
+      "onboard_time": 1720282698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "5.56万吨块石运往洞庭湖决口",
@@ -193,14 +209,6 @@
       "onboard_time": 1720274420,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230210,
-      "num": 230210,
-      "word": "英格兰vs瑞士",
-      "onboard_time": 1720274718,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 227882,
@@ -225,14 +233,6 @@
       "onboard_time": 1720279938,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197548,
-      "num": 197548,
-      "word": "电竞世界杯T1对战TL",
-      "onboard_time": 1720282698,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 184646,
@@ -371,20 +371,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 109213,
+      "num": 109213,
+      "word": "欧洲杯",
+      "onboard_time": 1720262298,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105161,
       "num": 105161,
       "word": "尚雯婕给了张泽禹最高分",
       "onboard_time": 1720277898,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101231,
-      "num": 101231,
-      "word": "欧洲杯",
-      "onboard_time": 1720262298,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 98929,
@@ -411,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "荷兰vs土耳其",
+      "onboard_time": 1720287853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49021,
+      "num": 49021,
+      "word": "进不了12强就得回去上班",
+      "onboard_time": 1720288513,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48481,
       "num": 111680,
       "word": "此次洞庭湖大堤决口由管涌引起",
@@ -425,6 +441,14 @@
       "onboard_time": 1720272020,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40244,
+      "num": 42313,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1720277540,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 27360,
