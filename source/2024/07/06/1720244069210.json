@@ -1,0 +1,410 @@
+{
+  "runTime": 1720244069210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 650311,
+        "num": 650311,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 515281,
+        "num": 515281,
+        "word": "山东龙卷风致5死83伤",
+        "onboard_time": 1720237697,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7540,
+        "num": 367066,
+        "word": "中国首次在境外颁授友谊勋章",
+        "onboard_time": 1720243936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402586,
+        "num": 365768,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534979,
+        "num": 363705,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361562,
+        "num": 361562,
+        "word": "伊朗总统大选结果揭晓",
+        "onboard_time": 1720239078,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 510260,
+        "num": 360509,
+        "word": "于正发长文聊李梦",
+        "onboard_time": 1720237217,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63228,
+        "num": 359246,
+        "word": "直击洞庭湖决堤现场报道",
+        "onboard_time": 1720241117,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329498,
+        "num": 357463,
+        "word": "吴谨言王星越芭莎大片",
+        "onboard_time": 1720238059,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 52678,
+        "num": 356147,
+        "word": "洞庭湖决堤抢险现场画面",
+        "onboard_time": 1720243817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821482,
+        "num": 354511,
+        "word": "林心如 女儿长大了",
+        "onboard_time": 1720242317,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510406,
+        "num": 352923,
+        "word": "杭州东站回应被指站台沉降",
+        "onboard_time": 1720239378,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352882,
+        "num": 352882,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335367,
+        "num": 335367,
+        "word": "苗苗差点又来跑男救场",
+        "onboard_time": 1720242317,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56744,
+        "num": 322964,
+        "word": "饿了么为C罗免单一万份",
+        "onboard_time": 1720242017,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1153520,
+        "num": 322912,
+        "word": "比预制菜更可怕的现做菜",
+        "onboard_time": 1720236436,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49133,
+        "num": 322800,
+        "word": "塔吉克斯坦国图设立了中国厅",
+        "onboard_time": 1720234397,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322746,
+        "num": 322746,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299550,
+        "num": 299550,
+        "word": "那英的刘海是为了遮带状疱疹",
+        "onboard_time": 1720229358,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292537,
+        "num": 292537,
+        "word": "洞庭湖决堤口延伸至226米",
+        "onboard_time": 1720242258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355744,
+        "num": 281007,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 353837,
+        "num": 273631,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348222,
+        "num": 269937,
+        "word": "为什么有人吃饭总是剩一口",
+        "onboard_time": 1720240998,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257241,
+        "num": 257241,
+        "word": "731部队鼠疫实验最新罪证",
+        "onboard_time": 1720229836,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256367,
+        "num": 256367,
+        "word": "张凌赫赵今麦 尼克朱迪",
+        "onboard_time": 1720243578,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234547,
+        "num": 234547,
+        "word": "丁太升评歌手第九期",
+        "onboard_time": 1720239498,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53060,
+        "num": 228095,
+        "word": "绘旅人新聊斋",
+        "onboard_time": 1720238537,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225930,
+        "num": 225930,
+        "word": "朱也天被北大正式录取",
+        "onboard_time": 1720236257,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198256,
+        "num": 198256,
+        "word": "蒋敦豪演唱会抢票",
+        "onboard_time": 1720239498,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196292,
+        "num": 196292,
+        "word": "一饭店老板因餐费纠纷被顾客捅死",
+        "onboard_time": 1720241778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193325,
+        "num": 193325,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1720241778,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192341,
+        "num": 192341,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178689,
+        "num": 178689,
+        "word": "张韶涵遵义上座率",
+        "onboard_time": 1720241957,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175058,
+        "num": 175058,
+        "word": "王俊凯追丁程鑫",
+        "onboard_time": 1720236738,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170168,
+        "num": 170168,
+        "word": "村民称青壮年都去洞庭湖帮忙了",
+        "onboard_time": 1720241897,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163974,
+        "num": 163974,
+        "word": "青春环游记",
+        "onboard_time": 1720242558,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155122,
+        "num": 155122,
+        "word": "有些水果吃着甜却热量低",
+        "onboard_time": 1720237937,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146316,
+        "num": 146316,
+        "word": "洞庭湖被困人员已全部转移",
+        "onboard_time": 1720241838,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141619,
+        "num": 141619,
+        "word": "周深 没事哒",
+        "onboard_time": 1720238837,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137391,
+        "num": 137391,
+        "word": "16个外甥又来舅舅家过暑假了",
+        "onboard_time": 1720224857,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122440,
+        "num": 122440,
+        "word": "延安中学",
+        "onboard_time": 1720224796,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122146,
+        "num": 122146,
+        "word": "小夭角色热度破亿",
+        "onboard_time": 1720241897,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121072,
+        "num": 121072,
+        "word": "范丞丞 脾气真好",
+        "onboard_time": 1720239137,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114574,
+        "num": 114574,
+        "word": "iPhone16Pro或配15ProMax同款镜头",
+        "onboard_time": 1720229118,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110875,
+        "num": 110875,
+        "word": "只卖火锅的海底捞还有人买账吗",
+        "onboard_time": 1720243878,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110172,
+        "num": 110172,
+        "word": "洞庭湖决口两端将建设裹头",
+        "onboard_time": 1720234938,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109322,
+        "num": 109322,
+        "word": "歌手排名",
+        "onboard_time": 1720190242,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106109,
+        "num": 106109,
+        "word": "直播洞庭湖抢险现场",
+        "onboard_time": 1720223896,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105080,
+        "num": 105080,
+        "word": "何炅左手吴昕右手王俊凯",
+        "onboard_time": 1720236557,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104635,
+        "num": 104635,
+        "word": "首批武警已抵达洞庭湖开始救援",
+        "onboard_time": 1720197798,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保护好人民群众生命财产安全#"
+    }
+  }
+}
