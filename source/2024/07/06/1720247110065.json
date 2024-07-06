@@ -1,0 +1,410 @@
+{
+  "runTime": 1720247110065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711566,
+        "num": 1711566,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859720,
+        "num": 859720,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31103,
+        "num": 639719,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448489,
+        "num": 597405,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546969,
+        "num": 546969,
+        "word": "洞庭湖决堤口延伸至226米",
+        "onboard_time": 1720242258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463359,
+        "num": 463359,
+        "word": "张凌赫赵今麦 尼克朱迪",
+        "onboard_time": 1720243578,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462087,
+        "num": 462087,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 451150,
+        "num": 451150,
+        "word": "一饭店老板因餐费纠纷被顾客捅死",
+        "onboard_time": 1720241778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381836,
+        "num": 381836,
+        "word": "于正发长文聊李梦",
+        "onboard_time": 1720237217,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145395,
+        "num": 376540,
+        "word": "洞庭湖决堤救援最新消息",
+        "onboard_time": 1720244238,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612547,
+        "num": 376273,
+        "word": "林心如 女儿长大了",
+        "onboard_time": 1720242317,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375585,
+        "num": 375585,
+        "word": "卡琳娜谈漫画和动画cos不同",
+        "onboard_time": 1720245377,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 343534,
+        "num": 343534,
+        "word": "警方通报北京地铁大爷女儿含泪发声",
+        "onboard_time": 1720245678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317522,
+        "num": 317522,
+        "word": "孙怡带女儿度假",
+        "onboard_time": 1720245377,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293030,
+        "num": 293030,
+        "word": "苗苗差点又来跑男救场",
+        "onboard_time": 1720242317,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244286,
+        "num": 244286,
+        "word": "杭州东站回应被指站台沉降",
+        "onboard_time": 1720239378,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216776,
+        "num": 216776,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199751,
+        "num": 199751,
+        "word": "水位落差0.1米洞庭湖决堤口将封堵",
+        "onboard_time": 1720244717,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 194747,
+        "word": "山东龙卷风致5死83伤",
+        "onboard_time": 1720237697,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "731部队鼠疫实验最新罪证",
+        "onboard_time": 1720229836,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400621,
+        "num": 187004,
+        "word": "为什么有人吃饭总是剩一口",
+        "onboard_time": 1720240998,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355923,
+        "num": 186452,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294411,
+        "num": 185781,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 202741,
+        "num": 185217,
+        "word": "TF家族运动会入场时间",
+        "onboard_time": 1720246756,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 191785,
+        "num": 184899,
+        "word": "吴谨言王星越芭莎大片",
+        "onboard_time": 1720238059,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184485,
+        "num": 184485,
+        "word": "只卖火锅的海底捞还有人买账吗",
+        "onboard_time": 1720243878,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174394,
+        "num": 174394,
+        "word": "齐思钧连续四年乘风了",
+        "onboard_time": 1720245137,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173785,
+        "num": 173785,
+        "word": "那英的刘海是为了遮带状疱疹",
+        "onboard_time": 1720229358,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163265,
+        "num": 163265,
+        "word": "Capper回归了",
+        "onboard_time": 1720246517,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167626,
+        "num": 163208,
+        "word": "王星越帮吴谨言调鞋带",
+        "onboard_time": 1720246937,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153298,
+        "num": 153298,
+        "word": "伊朗总统大选结果揭晓",
+        "onboard_time": 1720239078,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150657,
+        "num": 150657,
+        "word": "陈昊宇杂志",
+        "onboard_time": 1720246996,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147873,
+        "num": 147873,
+        "word": "云南丽江3.8级地震",
+        "onboard_time": 1720245077,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144705,
+        "num": 144705,
+        "word": "丁太升评歌手第九期",
+        "onboard_time": 1720239498,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143954,
+        "num": 143954,
+        "word": "你要说玱玹就不能只说玱玹",
+        "onboard_time": 1720245137,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 142470,
+        "word": "洞庭湖区村民称在大堤上坐了一夜",
+        "onboard_time": 1720246398,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126276,
+        "num": 126276,
+        "word": "王俊凯追丁程鑫",
+        "onboard_time": 1720236738,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123596,
+        "num": 123596,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121450,
+        "num": 121450,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1720241778,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115654,
+        "num": 115654,
+        "word": "高价雪糕集体遭遇甩卖",
+        "onboard_time": 1720240278,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115614,
+        "num": 115614,
+        "word": "男友接霉霉下班",
+        "onboard_time": 1720244058,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 112997,
+        "word": "朱也天被北大正式录取",
+        "onboard_time": 1720236257,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109408,
+        "num": 109408,
+        "word": "张韶涵遵义上座率",
+        "onboard_time": 1720241957,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102712,
+        "num": 102712,
+        "word": "有些水果吃着甜却热量低",
+        "onboard_time": 1720237937,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102148,
+        "num": 102148,
+        "word": "何炅左手吴昕右手王俊凯",
+        "onboard_time": 1720236557,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98515,
+        "num": 98515,
+        "word": "罗小黑 小暑",
+        "onboard_time": 1720245197,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95079,
+        "num": 95079,
+        "word": "蒋敦豪演唱会抢票",
+        "onboard_time": 1720239498,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94463,
+        "num": 94463,
+        "word": "Capper复出第一个舞台",
+        "onboard_time": 1720246696,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92146,
+        "num": 92146,
+        "word": "快乐老友记 两大群像松弛感",
+        "onboard_time": 1720247058,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90736,
+        "num": 90736,
+        "word": "村民称青壮年都去洞庭湖帮忙了",
+        "onboard_time": 1720241897,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席中亚之行#"
+    }
+  }
+}

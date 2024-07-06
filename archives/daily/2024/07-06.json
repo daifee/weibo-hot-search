@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720244069210,
+  "endTime": 1720247110065,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -9,6 +9,14 @@
       "onboard_time": 1720195099,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1711566,
+      "num": 1711566,
+      "word": "5.56万吨块石运往洞庭湖决口",
+      "onboard_time": 1720243338,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1569630,
@@ -73,6 +81,14 @@
       "onboard_time": 1720192040,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 859720,
+      "num": 859720,
+      "word": "郑恺说找不到苗苗会有舆情",
+      "onboard_time": 1720239317,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 843641,
@@ -243,20 +259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546969,
+      "num": 546969,
+      "word": "洞庭湖决堤口延伸至226米",
+      "onboard_time": 1720242258,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541518,
       "num": 281007,
       "word": "长期不运动身体会发生什么",
       "onboard_time": 1720235298,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 534979,
-      "num": 489375,
-      "word": "郑恺说找不到苗苗会有舆情",
-      "onboard_time": 1720239317,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 521585,
@@ -331,12 +347,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 463359,
+      "num": 463359,
+      "word": "张凌赫赵今麦 尼克朱迪",
+      "onboard_time": 1720243578,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455347,
       "num": 455347,
       "word": "iPhone16Pro或配15ProMax同款镜头",
       "onboard_time": 1720229118,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 451150,
+      "num": 451150,
+      "word": "一饭店老板因餐费纠纷被顾客捅死",
+      "onboard_time": 1720241778,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449127,
@@ -395,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 400621,
+      "num": 269937,
+      "word": "为什么有人吃饭总是剩一口",
+      "onboard_time": 1720240998,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 390831,
       "num": 390831,
       "word": "纪星戴了婚戒丢了爱情",
@@ -425,6 +465,14 @@
       "onboard_time": 1720197257,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375585,
+      "num": 375585,
+      "word": "卡琳娜谈漫画和动画cos不同",
+      "onboard_time": 1720245377,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 373663,
@@ -483,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348222,
-      "num": 269937,
-      "word": "为什么有人吃饭总是剩一口",
-      "onboard_time": 1720240998,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 347562,
       "num": 347562,
       "word": "Bin",
@@ -505,6 +545,14 @@
       "onboard_time": 1720221494,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 343534,
+      "num": 343534,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339955,
@@ -531,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322746,
-      "num": 322746,
-      "word": "5.56万吨块石运往洞庭湖决口",
-      "onboard_time": 1720243338,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322646,
       "num": 322646,
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
@@ -547,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292537,
-      "num": 292537,
-      "word": "洞庭湖决堤口延伸至226米",
-      "onboard_time": 1720242258,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 317522,
+      "num": 317522,
+      "word": "孙怡带女儿度假",
+      "onboard_time": 1720245377,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 276971,
@@ -593,14 +633,6 @@
       "onboard_time": 1720239498,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256367,
-      "num": 256367,
-      "word": "张凌赫赵今麦 尼克朱迪",
-      "onboard_time": 1720243578,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 237929,
@@ -683,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202741,
+      "num": 185217,
+      "word": "TF家族运动会入场时间",
+      "onboard_time": 1720246756,
+      "rank": 23,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 202731,
       "num": 202731,
       "word": "凤凰台上官宣杀青",
@@ -691,11 +731,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196292,
-      "num": 196292,
-      "word": "一饭店老板因餐费纠纷被顾客捅死",
-      "onboard_time": 1720241778,
-      "rank": 32,
+      "raw_hot": 199751,
+      "num": 199751,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184485,
+      "num": 184485,
+      "word": "只卖火锅的海底捞还有人买账吗",
+      "onboard_time": 1720243878,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 182761,
       "num": 182761,
       "word": "男子中751万彩票藏枕头下半月才兑奖",
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174394,
+      "num": 174394,
+      "word": "齐思钧连续四年乘风了",
+      "onboard_time": 1720245137,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "为啥人民币没有7元8元9元面值",
@@ -896,6 +952,14 @@
       "word": "周深 没事哒",
       "onboard_time": 1720238837,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167626,
+      "num": 163208,
+      "word": "王星越帮吴谨言调鞋带",
+      "onboard_time": 1720246937,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -937,6 +1001,14 @@
       "onboard_time": 1720225517,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163265,
+      "num": 163265,
+      "word": "Capper回归了",
+      "onboard_time": 1720246517,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 162177,
@@ -1003,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150657,
+      "num": 150657,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -1043,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147873,
+      "num": 147873,
+      "word": "云南丽江3.8级地震",
+      "onboard_time": 1720245077,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146992,
       "num": 146992,
       "word": "3个方面判断月经是否正常",
       "onboard_time": 1720233017,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145395,
+      "num": 376540,
+      "word": "洞庭湖决堤救援最新消息",
+      "onboard_time": 1720244238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144858,
@@ -1067,12 +1163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143954,
+      "num": 143954,
+      "word": "你要说玱玹就不能只说玱玹",
+      "onboard_time": 1720245137,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142942,
       "num": 142942,
       "word": "沈梦辰做了错饭",
       "onboard_time": 1720228097,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "洞庭湖区村民称在大堤上坐了一夜",
+      "onboard_time": 1720246398,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140348,
@@ -1251,6 +1363,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 115654,
+      "num": 115654,
+      "word": "高价雪糕集体遭遇甩卖",
+      "onboard_time": 1720240278,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 115614,
+      "num": 115614,
+      "word": "男友接霉霉下班",
+      "onboard_time": 1720244058,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115465,
       "num": 115465,
       "word": "EWC电竞世界杯",
@@ -1281,22 +1409,6 @@
       "onboard_time": 1720225337,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112592,
-      "num": 112592,
-      "word": "高价雪糕集体遭遇甩卖",
-      "onboard_time": 1720240278,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 110875,
-      "num": 110875,
-      "word": "只卖火锅的海底捞还有人买账吗",
-      "onboard_time": 1720243878,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 110149,
@@ -1347,6 +1459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 98515,
+      "num": 98515,
+      "word": "罗小黑 小暑",
+      "onboard_time": 1720245197,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98389,
       "num": 98389,
       "word": "TES晋级电竞世界杯四强",
@@ -1379,12 +1499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94463,
+      "num": 94463,
+      "word": "Capper复出第一个舞台",
+      "onboard_time": 1720246696,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92800,
       "num": 92800,
       "word": "梅里诺绝杀",
       "onboard_time": 1720221675,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92146,
+      "num": 92146,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 92027,
@@ -1669,6 +1805,9 @@
     },
     {
       "word": "#平安是人民幸福的生命线#"
+    },
+    {
+      "word": "#习主席中亚之行#"
     }
   ]
 }

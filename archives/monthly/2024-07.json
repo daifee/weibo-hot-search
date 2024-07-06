@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720244069210,
+  "endTime": 1720247110065,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -201,6 +201,14 @@
       "onboard_time": 1720195099,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1711566,
+      "num": 1711566,
+      "word": "5.56万吨块石运往洞庭湖决口",
+      "onboard_time": 1720243338,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1690883,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1719813139,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859720,
+      "num": 859720,
+      "word": "郑恺说找不到苗苗会有舆情",
+      "onboard_time": 1720239317,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 859716,
@@ -2739,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546969,
+      "num": 546969,
+      "word": "洞庭湖决堤口延伸至226米",
+      "onboard_time": 1720242258,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546965,
       "num": 546965,
       "word": "爷爷靠近一个月小宝结果醉酒了",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1719892821,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534979,
-      "num": 489375,
-      "word": "郑恺说找不到苗苗会有舆情",
-      "onboard_time": 1720239317,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 533539,
@@ -3523,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463359,
+      "num": 463359,
+      "word": "张凌赫赵今麦 尼克朱迪",
+      "onboard_time": 1720243578,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462834,
       "num": 183492,
       "word": "运动不到30分钟就等于白运动了吗",
@@ -3664,6 +3688,14 @@
       "word": "男子抱5个月女儿欲跳楼轻生",
       "onboard_time": 1720060277,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451150,
+      "num": 451150,
+      "word": "一饭店老板因餐费纠纷被顾客捅死",
+      "onboard_time": 1720241778,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4243,6 +4275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 400621,
+      "num": 269937,
+      "word": "为什么有人吃饭总是剩一口",
+      "onboard_time": 1720240998,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 400533,
       "num": 269279,
       "word": "来月经前为啥很想吃甜食",
@@ -4537,6 +4577,14 @@
       "onboard_time": 1720092918,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375585,
+      "num": 375585,
+      "word": "卡琳娜谈漫画和动画cos不同",
+      "onboard_time": 1720245377,
+      "rank": 11,
+      "category": "动漫"
     },
     {
       "raw_hot": 374323,
@@ -4859,14 +4907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348222,
-      "num": 269937,
-      "word": "为什么有人吃饭总是剩一口",
-      "onboard_time": 1720240998,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 347790,
       "num": 347790,
       "word": "周焯华确定获刑18年",
@@ -4945,6 +4985,14 @@
       "onboard_time": 1719803058,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343534,
+      "num": 343534,
+      "word": "警方通报北京地铁大爷女儿含泪发声",
+      "onboard_time": 1720245678,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341763,
@@ -5211,14 +5259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 322746,
-      "num": 322746,
-      "word": "5.56万吨块石运往洞庭湖决口",
-      "onboard_time": 1720243338,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321965,
       "num": 321965,
       "word": "陈昊宇乘风年度总冠军感言",
@@ -5265,6 +5305,14 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317522,
+      "num": 317522,
+      "word": "孙怡带女儿度假",
+      "onboard_time": 1720245377,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 317088,
@@ -5569,14 +5617,6 @@
       "onboard_time": 1720074258,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 292537,
-      "num": 292537,
-      "word": "洞庭湖决堤口延伸至226米",
-      "onboard_time": 1720242258,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292400,
@@ -6153,14 +6193,6 @@
       "onboard_time": 1719890000,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256367,
-      "num": 256367,
-      "word": "张凌赫赵今麦 尼克朱迪",
-      "onboard_time": 1720243578,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 254850,
@@ -7547,6 +7579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202741,
+      "num": 185217,
+      "word": "TF家族运动会入场时间",
+      "onboard_time": 1720246756,
+      "rank": 23,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 202731,
       "num": 202731,
       "word": "凤凰台上官宣杀青",
@@ -7737,6 +7777,14 @@
       "onboard_time": 1720105640,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199751,
+      "num": 199751,
+      "word": "水位落差0.1米洞庭湖决堤口将封堵",
+      "onboard_time": 1720244717,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199584,
@@ -7951,14 +7999,6 @@
       "num": 196333,
       "word": "德国离婚数量降至新低",
       "onboard_time": 1720086978,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196292,
-      "num": 196292,
-      "word": "一饭店老板因餐费纠纷被顾客捅死",
-      "onboard_time": 1720241778,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -8659,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184485,
+      "num": 184485,
+      "word": "只卖火锅的海底捞还有人买账吗",
+      "onboard_time": 1720243878,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 184360,
       "num": 438938,
       "word": "她奋不顾身冲进死亡盲区挽救两个家庭",
@@ -9139,6 +9187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174394,
+      "num": 174394,
+      "word": "齐思钧连续四年乘风了",
+      "onboard_time": 1720245137,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174369,
       "num": 174369,
       "word": "默杀终极预告",
@@ -9443,6 +9499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167626,
+      "num": 163208,
+      "word": "王星越帮吴谨言调鞋带",
+      "onboard_time": 1720246937,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167312,
       "num": 167312,
       "word": "绝区零7月4日公测",
@@ -9633,6 +9697,14 @@
       "onboard_time": 1720225517,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163265,
+      "num": 163265,
+      "word": "Capper回归了",
+      "onboard_time": 1720246517,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 163055,
@@ -10411,6 +10483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150657,
+      "num": 150657,
+      "word": "陈昊宇杂志",
+      "onboard_time": 1720246996,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -10520,6 +10600,14 @@
       "word": "马来西亚男子迷晕妓女抢走25万财物",
       "onboard_time": 1720071197,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147873,
+      "num": 147873,
+      "word": "云南丽江3.8级地震",
+      "onboard_time": 1720245077,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -10691,6 +10779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145395,
+      "num": 376540,
+      "word": "洞庭湖决堤救援最新消息",
+      "onboard_time": 1720244238,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145337,
       "num": 145337,
       "word": "布朗尼新秀合同4年790万",
@@ -10827,6 +10923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143954,
+      "num": 143954,
+      "word": "你要说玱玹就不能只说玱玹",
+      "onboard_time": 1720245137,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "孙楠越唱越稳",
@@ -10921,6 +11025,14 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142470,
+      "num": 142470,
+      "word": "洞庭湖区村民称在大堤上坐了一夜",
+      "onboard_time": 1720246398,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142467,
@@ -12899,6 +13011,22 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 115654,
+      "num": 115654,
+      "word": "高价雪糕集体遭遇甩卖",
+      "onboard_time": 1720240278,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 115614,
+      "num": 115614,
+      "word": "男友接霉霉下班",
+      "onboard_time": 1720244058,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115474,
       "num": 115474,
       "word": "爹妈为了我的婚姻操碎了心",
@@ -13083,14 +13211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112592,
-      "num": 112592,
-      "word": "高价雪糕集体遭遇甩卖",
-      "onboard_time": 1720240278,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "许凯开屏",
@@ -13169,14 +13289,6 @@
       "onboard_time": 1719905419,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110875,
-      "num": 110875,
-      "word": "只卖火锅的海底捞还有人买账吗",
-      "onboard_time": 1720243878,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 110773,
@@ -13683,6 +13795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98515,
+      "num": 98515,
+      "word": "罗小黑 小暑",
+      "onboard_time": 1720245197,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98389,
       "num": 98389,
       "word": "TES晋级电竞世界杯四强",
@@ -13867,6 +13987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94463,
+      "num": 94463,
+      "word": "Capper复出第一个舞台",
+      "onboard_time": 1720246696,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92981,
       "num": 97358,
       "word": "giselle保存粉丝拍的照片",
@@ -13913,6 +14041,14 @@
       "onboard_time": 1719965118,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92146,
+      "num": 92146,
+      "word": "快乐老友记 两大群像松弛感",
+      "onboard_time": 1720247058,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 92027,
