@@ -1,0 +1,410 @@
+{
+  "runTime": 1720298111327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 254127,
+        "num": 254127,
+        "word": "TES对战G2",
+        "onboard_time": 1720279999,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152502,
+        "num": 152502,
+        "word": "林俊杰",
+        "onboard_time": 1720281679,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12299,
+        "num": 128291,
+        "word": "中国友谊勋章如何颁授",
+        "onboard_time": 1720277598,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108484,
+        "num": 108484,
+        "word": "荷兰vs土耳其",
+        "onboard_time": 1720287853,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103731,
+        "num": 103731,
+        "word": "T1晋级电竞世界杯决赛",
+        "onboard_time": 1720292413,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73344,
+        "num": 73344,
+        "word": "日本2男子将50岁同事放洗衣机",
+        "onboard_time": 1720272620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63595,
+        "num": 63595,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59177,
+        "num": 59177,
+        "word": "电竞世界杯",
+        "onboard_time": 1720292352,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52400,
+        "num": 57190,
+        "word": "洞庭湖226米决口已封堵66米",
+        "onboard_time": 1720279099,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8219,
+        "num": 56484,
+        "word": "15岁男孩教科书式急救抢回一条命",
+        "onboard_time": 1720296851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56059,
+        "num": 56059,
+        "word": "冯琳入职东方卫视",
+        "onboard_time": 1720280659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53030,
+        "num": 53030,
+        "word": "英格兰瑞士点球大战",
+        "onboard_time": 1720292653,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51165,
+        "num": 51165,
+        "word": "印度一地一天内19人被雷击身亡",
+        "onboard_time": 1720281498,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50067,
+        "num": 50067,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48894,
+        "num": 48894,
+        "word": "英格兰vs瑞士",
+        "onboard_time": 1720274718,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42183,
+        "num": 42183,
+        "word": "汪苏泷连夜追加八百万",
+        "onboard_time": 1720273757,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40576,
+        "num": 40576,
+        "word": "刘亦菲许红豆限时回归",
+        "onboard_time": 1720276819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39598,
+        "num": 39598,
+        "word": "七七事变八十七周年",
+        "onboard_time": 1720292772,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33494,
+        "num": 33494,
+        "word": "秦彻cv",
+        "onboard_time": 1720268298,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31606,
+        "num": 31606,
+        "word": "韩廷 孟宴臣",
+        "onboard_time": 1720274178,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83298,
+        "num": 31520,
+        "word": "易猝死的人往往有这4个共同点",
+        "onboard_time": 1720277719,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46672,
+        "num": 31342,
+        "word": "天水麻辣烫仍然在批量倒闭",
+        "onboard_time": 1720283419,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31059,
+        "num": 31059,
+        "word": "奉劝晚婚的人不要随份子钱",
+        "onboard_time": 1720271838,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29423,
+        "num": 29423,
+        "word": "电竞世界杯T1对战TL",
+        "onboard_time": 1720282698,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29054,
+        "num": 29054,
+        "word": "秦彻好帅",
+        "onboard_time": 1720268896,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28568,
+        "num": 28568,
+        "word": "何捷叫张馨予胖子",
+        "onboard_time": 1720262898,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27267,
+        "num": 27267,
+        "word": "离职8年后因前老板涉黑获刑",
+        "onboard_time": 1720274420,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26608,
+        "num": 26608,
+        "word": "去已婚姐姐家过暑假要给生活费吗",
+        "onboard_time": 1720265538,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26339,
+        "num": 26339,
+        "word": "在小县城用联名公交卡被骂了",
+        "onboard_time": 1720274539,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 26050,
+        "word": "卢沟桥事变亲历者郑福来老人去世",
+        "onboard_time": 1720290973,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80384,
+        "num": 26017,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33785,
+        "num": 26004,
+        "word": "G2战胜Fly",
+        "onboard_time": 1720290012,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25865,
+        "num": 25865,
+        "word": "55岁的妈妈拒绝学习任何新事物",
+        "onboard_time": 1720296131,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25408,
+        "num": 25408,
+        "word": "温网2024",
+        "onboard_time": 1720281438,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24265,
+        "num": 24265,
+        "word": "上厕所途中冲水小心病菌感染",
+        "onboard_time": 1720278678,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 24083,
+        "word": "EDG涅槃组首胜",
+        "onboard_time": 1720296613,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24038,
+        "num": 24038,
+        "word": "欧洲杯",
+        "onboard_time": 1720262298,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23513,
+        "num": 23513,
+        "word": "警方通报川藏线孕妇插队事件",
+        "onboard_time": 1720266558,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23367,
+        "num": 23367,
+        "word": "裴文宣死得很惨但想得很美",
+        "onboard_time": 1720267697,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 23024,
+        "word": "张子墨 不自信",
+        "onboard_time": 1720278919,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22059,
+        "num": 22059,
+        "word": "扬州地震",
+        "onboard_time": 1720274539,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21608,
+        "num": 21608,
+        "word": "存款多少才敢辞职",
+        "onboard_time": 1720272738,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21090,
+        "num": 21090,
+        "word": "坚持运动40年的身材",
+        "onboard_time": 1720268599,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20470,
+        "num": 20470,
+        "word": "非升即走已从讲师延伸至副教授",
+        "onboard_time": 1720279280,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20292,
+        "num": 20292,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19796,
+        "num": 19796,
+        "word": "杨和苏点评",
+        "onboard_time": 1720275438,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19740,
+        "num": 19740,
+        "word": "摆拍生吃见手青网红已被禁言",
+        "onboard_time": 1720273939,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19633,
+        "num": 19633,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1720277540,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19217,
+        "num": 19217,
+        "word": "和平精英",
+        "onboard_time": 1720296371,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18267,
+        "num": 19217,
+        "word": "数码宝贝 绝美天女兽",
+        "onboard_time": 1720278139,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#塔吉克斯坦总统送了一份特别的礼物#"
+    }
+  }
+}

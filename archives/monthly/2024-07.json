@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720297180070,
+  "endTime": 1720298111327,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -14843,6 +14843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108484,
+      "num": 108484,
+      "word": "荷兰vs土耳其",
+      "onboard_time": 1720287853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108361,
       "num": 108361,
       "word": "爱奇艺回应把在线人数关了",
@@ -14969,14 +14977,6 @@
       "onboard_time": 1720107199,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 106179,
-      "num": 106179,
-      "word": "荷兰vs土耳其",
-      "onboard_time": 1720287853,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 106126,
@@ -17107,6 +17107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39598,
+      "num": 39598,
+      "word": "七七事变八十七周年",
+      "onboard_time": 1720292772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39563,
       "num": 55337,
       "word": "发现很多人都是精装朋友圈毛坯人生",
@@ -17153,14 +17161,6 @@
       "onboard_time": 1720004419,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38258,
-      "num": 38258,
-      "word": "七七事变八十七周年",
-      "onboard_time": 1720292772,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37501,
@@ -17651,6 +17651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25865,
+      "num": 25865,
+      "word": "55岁的妈妈拒绝学习任何新事物",
+      "onboard_time": 1720296131,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25863,
       "num": 187905,
       "word": "盘点100种不可思议的旅行方式",
@@ -17747,6 +17755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24083,
+      "num": 24083,
+      "word": "EDG涅槃组首胜",
+      "onboard_time": 1720296613,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23964,
       "num": 127010,
       "word": "好评中国",
@@ -17769,14 +17785,6 @@
       "onboard_time": 1720263198,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23560,
-      "num": 23560,
-      "word": "EDG涅槃组首胜",
-      "onboard_time": 1720296613,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 23379,
@@ -17825,14 +17833,6 @@
       "onboard_time": 1720282398,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 22798,
-      "num": 22798,
-      "word": "55岁的妈妈拒绝学习任何新事物",
-      "onboard_time": 1720296131,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 22379,
@@ -17889,6 +17889,14 @@
       "onboard_time": 1720112296,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19217,
+      "num": 19217,
+      "word": "和平精英",
+      "onboard_time": 1720296371,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 19032,
