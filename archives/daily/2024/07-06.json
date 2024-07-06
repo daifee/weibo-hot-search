@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720258471411,
+  "endTime": 1720261151514,
   "band_list": [
     {
       "raw_hot": 1972038,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691882,
+      "num": 691882,
+      "word": "全网医生联名让老师把这4分还给学生",
+      "onboard_time": 1720255699,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 690781,
       "num": 690781,
       "word": "王健林又卖核心资产",
@@ -267,8 +275,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572852,
+      "num": 140382,
+      "word": "鞠婧祎微博粉丝2900万了",
+      "onboard_time": 1720260376,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567217,
-      "num": 456677,
+      "num": 527143,
       "word": "默杀 女性受害特写",
       "onboard_time": 1720252337,
       "rank": 11,
@@ -531,20 +547,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 391374,
-      "num": 391374,
-      "word": "全网医生联名让老师把这4分还给学生",
-      "onboard_time": 1720255699,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 390831,
       "num": 390831,
       "word": "纪星戴了婚戒丢了爱情",
       "onboard_time": 1720235177,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386593,
+      "num": 140222,
+      "word": "郑业成回应转行",
+      "onboard_time": 1720258697,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 381252,
@@ -585,6 +601,14 @@
       "onboard_time": 1720244717,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374970,
+      "num": 374970,
+      "word": "王传君演技",
+      "onboard_time": 1720258398,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 373663,
@@ -779,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260159,
+      "num": 260159,
+      "word": "伞少女",
+      "onboard_time": 1720257737,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257858,
       "num": 257858,
       "word": "蒋敦豪演唱会抢票",
@@ -801,6 +833,14 @@
       "onboard_time": 1720247058,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249859,
+      "num": 249859,
+      "word": "中国男排3比0埃及男排",
+      "onboard_time": 1720259657,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 244099,
@@ -857,14 +897,6 @@
       "onboard_time": 1720246517,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223016,
-      "num": 223016,
-      "word": "伞少女",
-      "onboard_time": 1720257737,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 218795,
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177537,
+      "num": 177537,
+      "word": "传说",
+      "onboard_time": 1720259776,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176972,
       "num": 176972,
       "word": "龙卷风",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1720233858,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159613,
+      "num": 138568,
+      "word": "林俊杰兰州站",
+      "onboard_time": 1720260676,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 158998,
@@ -1507,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140734,
+      "num": 140734,
+      "word": "谁不想给猫猫打工呢",
+      "onboard_time": 1720259116,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "香缇莫 袁咏琳",
@@ -1547,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138346,
+      "num": 172908,
+      "word": "妈妈洪灾后收到儿子北大录取通知书",
+      "onboard_time": 1720255758,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137735,
       "num": 137735,
       "word": "五月天二开",
@@ -1569,6 +1633,22 @@
       "onboard_time": 1720226417,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133905,
+      "num": 133905,
+      "word": "洞庭湖大坝决堤周边养殖户发声",
+      "onboard_time": 1720259299,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "王子奇李耕耘KTV聚会",
+      "onboard_time": 1720260077,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 133281,
@@ -1675,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120863,
+      "num": 120863,
+      "word": "男主人意外去世狗狗痛哭",
+      "onboard_time": 1720260917,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119104,
       "num": 119104,
       "word": "谭维维怒音",
       "onboard_time": 1720182920,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118406,
+      "num": 118406,
+      "word": "张真源一分钟内连进两球",
+      "onboard_time": 1720259357,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 117986,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1720195938,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116531,
+      "num": 116531,
+      "word": "头包脸披发教程",
+      "onboard_time": 1720260196,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 115745,
@@ -1819,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108334,
-      "num": 172908,
-      "word": "妈妈洪灾后收到儿子北大录取通知书",
-      "onboard_time": 1720255758,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107715,
       "num": 107715,
       "word": "陈乔恩回应被说表演痕迹重",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1720170198,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99568,
+      "num": 99568,
+      "word": "王牌战士2直接上了",
+      "onboard_time": 1720259478,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 98599,
@@ -1955,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93344,
-      "num": 93344,
-      "word": "王传君演技",
-      "onboard_time": 1720258398,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 92800,
       "num": 92800,
       "word": "梅里诺绝杀",
@@ -1995,12 +2091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87790,
+      "num": 87790,
+      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+      "onboard_time": 1720261098,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87436,
       "num": 77831,
       "word": "克罗斯结束球员生涯",
       "onboard_time": 1720209731,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82750,
+      "num": 261565,
+      "word": "此次洞庭湖大堤决口由管涌引起",
+      "onboard_time": 1720260196,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80867,
@@ -2267,6 +2379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20866,
+      "num": 136314,
+      "word": "一张图看懂瑜伽裤怎么选",
+      "onboard_time": 1720259116,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19537,
       "num": 354572,
       "word": "凉山男孩帮不识字亲人填表",
@@ -2307,7 +2427,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3536,
+      "raw_hot": 3864,
       "num": 676736,
       "word": "河海共生津韵悠扬",
       "onboard_time": 1720191921,

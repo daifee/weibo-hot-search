@@ -1,0 +1,410 @@
+{
+  "runTime": 1720261151514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455586,
+        "num": 1455586,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691882,
+        "num": 691882,
+        "word": "全网医生联名让老师把这4分还给学生",
+        "onboard_time": 1720255699,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 3864,
+        "num": 593757,
+        "word": "河海共生津韵悠扬",
+        "onboard_time": 1720191921,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563043,
+        "num": 563043,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527143,
+        "num": 527143,
+        "word": "默杀 女性受害特写",
+        "onboard_time": 1720252337,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445844,
+        "num": 445844,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403216,
+        "num": 403216,
+        "word": "张志杰妈妈悲伤过度入院",
+        "onboard_time": 1720248977,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374970,
+        "num": 374970,
+        "word": "王传君演技",
+        "onboard_time": 1720258398,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264581,
+        "num": 264581,
+        "word": "李一桐巴黎偶遇中国游泳队",
+        "onboard_time": 1720255158,
+        "rank": 8,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 82750,
+        "num": 261565,
+        "word": "此次洞庭湖大堤决口由管涌引起",
+        "onboard_time": 1720260196,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260159,
+        "num": 260159,
+        "word": "伞少女",
+        "onboard_time": 1720257737,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249859,
+        "num": 249859,
+        "word": "中国男排3比0埃及男排",
+        "onboard_time": 1720259657,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246929,
+        "num": 246929,
+        "word": "李嘉琦发文告别芬芳喜事",
+        "onboard_time": 1720249637,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244441,
+        "num": 244441,
+        "word": "警方通报北京地铁大爷女儿含泪发声",
+        "onboard_time": 1720245678,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241282,
+        "num": 241282,
+        "word": "度华年播到横店大雪那场戏了",
+        "onboard_time": 1720255758,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 221652,
+        "word": "法国1300年古剑被人从悬崖上拔走",
+        "onboard_time": 1720248857,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189234,
+        "num": 189234,
+        "word": "直击洞庭湖决堤救援一线",
+        "onboard_time": 1720253357,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177537,
+        "num": 177537,
+        "word": "传说",
+        "onboard_time": 1720259776,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175615,
+        "num": 175615,
+        "word": "洞庭湖决口开始封堵合龙",
+        "onboard_time": 1720252038,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140734,
+        "num": 140734,
+        "word": "谁不想给猫猫打工呢",
+        "onboard_time": 1720259116,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572852,
+        "num": 140382,
+        "word": "鞠婧祎微博粉丝2900万了",
+        "onboard_time": 1720260376,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386593,
+        "num": 140222,
+        "word": "郑业成回应转行",
+        "onboard_time": 1720258697,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349118,
+        "num": 139706,
+        "word": "英国新任副首相16岁时曾怀孕辍学",
+        "onboard_time": 1720251797,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177489,
+        "num": 139145,
+        "word": "杨紫小夭平静的疯批感",
+        "onboard_time": 1720257197,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222386,
+        "num": 139078,
+        "word": "我的发颠朋友圈被我爸做成Excel了",
+        "onboard_time": 1720253778,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159613,
+        "num": 138568,
+        "word": "林俊杰兰州站",
+        "onboard_time": 1720260676,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138346,
+        "num": 138346,
+        "word": "妈妈洪灾后收到儿子北大录取通知书",
+        "onboard_time": 1720255758,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20866,
+        "num": 136314,
+        "word": "一张图看懂瑜伽裤怎么选",
+        "onboard_time": 1720259116,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 135730,
+        "num": 135730,
+        "word": "刘美含cos严莉莉",
+        "onboard_time": 1720254197,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133905,
+        "num": 133905,
+        "word": "洞庭湖大坝决堤周边养殖户发声",
+        "onboard_time": 1720259299,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "王子奇李耕耘KTV聚会",
+        "onboard_time": 1720260077,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125253,
+        "num": 125253,
+        "word": "默杀票房破2亿",
+        "onboard_time": 1720251797,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120863,
+        "num": 120863,
+        "word": "男主人意外去世狗狗痛哭",
+        "onboard_time": 1720260917,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120060,
+        "num": 120060,
+        "word": "林心如 女儿长大了",
+        "onboard_time": 1720242317,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119425,
+        "num": 119425,
+        "word": "霸气涂山璟回归",
+        "onboard_time": 1720248917,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118406,
+        "num": 118406,
+        "word": "张真源一分钟内连进两球",
+        "onboard_time": 1720259357,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117001,
+        "num": 117001,
+        "word": "默杀 一惊一乍的",
+        "onboard_time": 1720251679,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116531,
+        "num": 116531,
+        "word": "头包脸披发教程",
+        "onboard_time": 1720260196,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113527,
+        "num": 113527,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109042,
+        "num": 109042,
+        "word": "陈昊宇杂志",
+        "onboard_time": 1720246996,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99568,
+        "num": 99568,
+        "word": "王牌战士2直接上了",
+        "onboard_time": 1720259478,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99385,
+        "num": 99385,
+        "word": "水位落差0.1米洞庭湖决堤口将封堵",
+        "onboard_time": 1720244717,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98953,
+        "num": 98953,
+        "word": "张新成 自由才是最大的不自由",
+        "onboard_time": 1720254739,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95751,
+        "num": 95751,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92883,
+        "num": 92883,
+        "word": "王俊凯说我们是一个team",
+        "onboard_time": 1720249518,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91845,
+        "num": 91845,
+        "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
+        "onboard_time": 1720254259,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90554,
+        "num": 90554,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90277,
+        "num": 90277,
+        "word": "李玟二姐发文",
+        "onboard_time": 1720252217,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 89403,
+        "word": "陈幸同曼谷站止步16强",
+        "onboard_time": 1720256717,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87790,
+        "num": 87790,
+        "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+        "onboard_time": 1720261098,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席的塔吉克斯坦时间#"
+    }
+  }
+}
