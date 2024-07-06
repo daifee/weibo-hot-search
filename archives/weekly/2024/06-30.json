@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720261151514,
+  "endTime": 1720262112285,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2099,20 +2099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 693548,
+      "num": 693548,
+      "word": "全网医生联名让老师把这4分还给学生",
+      "onboard_time": 1720255699,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 692946,
       "num": 344305,
       "word": "许钧 青春版汪峰",
       "onboard_time": 1720188622,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 691882,
-      "num": 691882,
-      "word": "全网医生联名让老师把这4分还给学生",
-      "onboard_time": 1720255699,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 690781,
@@ -2956,7 +2956,7 @@
     },
     {
       "raw_hot": 572852,
-      "num": 140382,
+      "num": 177261,
       "word": "鞠婧祎微博粉丝2900万了",
       "onboard_time": 1720260376,
       "rank": 20,
@@ -5059,6 +5059,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 396288,
+      "num": 177116,
+      "word": "郑业成回应转行",
+      "onboard_time": 1720258697,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395593,
       "num": 395593,
       "word": "鬼灭之刃",
@@ -5153,14 +5161,6 @@
       "onboard_time": 1719757880,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 386593,
-      "num": 140222,
-      "word": "郑业成回应转行",
-      "onboard_time": 1720258697,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 385734,
@@ -7259,6 +7259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258684,
+      "num": 176937,
+      "word": "男主人意外去世狗狗痛哭",
+      "onboard_time": 1720260917,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
@@ -7489,6 +7497,14 @@
       "onboard_time": 1720015879,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249537,
+      "num": 249537,
+      "word": "传说",
+      "onboard_time": 1720259776,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 249469,
@@ -9811,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192625,
+      "num": 192625,
+      "word": "BW抢票",
+      "onboard_time": 1720261639,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 192495,
       "num": 192495,
       "word": "PEL赛区太city啦",
@@ -10227,6 +10251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187691,
+      "num": 187691,
+      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+      "onboard_time": 1720261098,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187583,
       "num": 187583,
       "word": "苏醒说半夜打电话的都是借钱",
@@ -10603,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180450,
+      "num": 176775,
+      "word": "登陆日",
+      "onboard_time": 1719711738,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180428,
       "num": 180428,
       "word": "千万不要在街边座位上睡着了",
@@ -10787,20 +10827,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177537,
-      "num": 177537,
-      "word": "传说",
-      "onboard_time": 1720259776,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177397,
       "num": 177397,
       "word": "宋亚轩晒鼠标亲爪签名",
       "onboard_time": 1720069878,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177340,
+      "num": 177340,
+      "word": "谁不想给猫猫打工呢",
+      "onboard_time": 1720259116,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 177206,
@@ -10841,6 +10881,14 @@
       "onboard_time": 1720096758,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176564,
+      "num": 176564,
+      "word": "云南女大学生疑与同学发生矛盾自杀",
+      "onboard_time": 1720261157,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 176165,
@@ -11764,7 +11812,7 @@
     },
     {
       "raw_hot": 159613,
-      "num": 138568,
+      "num": 147706,
       "word": "林俊杰兰州站",
       "onboard_time": 1720260676,
       "rank": 25,
@@ -12955,6 +13003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143710,
+      "num": 143710,
+      "word": "为什么现在很少用黄瓜片敷面膜了",
+      "onboard_time": 1720261399,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "孙楠越唱越稳",
@@ -13217,14 +13273,6 @@
       "onboard_time": 1719969257,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140734,
-      "num": 140734,
-      "word": "谁不想给猫猫打工呢",
-      "onboard_time": 1720259116,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 140676,
@@ -14979,14 +15027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120863,
-      "num": 120863,
-      "word": "男主人意外去世狗狗痛哭",
-      "onboard_time": 1720260917,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "第五人格",
@@ -15169,14 +15209,6 @@
       "onboard_time": 1719988158,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 119297,
-      "num": 119297,
-      "word": "登陆日",
-      "onboard_time": 1719711738,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 119249,
@@ -15585,6 +15617,14 @@
       "onboard_time": 1719722538,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113553,
+      "num": 261565,
+      "word": "此次洞庭湖大堤决口由管涌引起",
+      "onboard_time": 1720260196,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113544,
@@ -17067,14 +17107,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 87790,
-      "num": 87790,
-      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
-      "onboard_time": 1720261098,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87436,
       "num": 77831,
       "word": "克罗斯结束球员生涯",
@@ -17219,12 +17251,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 82750,
-      "num": 261565,
-      "word": "此次洞庭湖大堤决口由管涌引起",
-      "onboard_time": 1720260196,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 82313,
+      "num": 82313,
+      "word": "费迪南德说C罗仍会激励孩子们",
+      "onboard_time": 1720261337,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81845,
@@ -19099,6 +19131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30269,
+      "num": 176633,
+      "word": "一张图看懂瑜伽裤怎么选",
+      "onboard_time": 1720259116,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 30207,
       "num": 245440,
       "word": "单小龙希望有机会读博",
@@ -19296,6 +19336,14 @@
       "word": "伊拉克小伙逛义乌夜市全程被热情投喂",
       "onboard_time": 1720010237,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25970,
+      "num": 101092,
+      "word": "佛山一救援队千里驰援华容县",
+      "onboard_time": 1720258458,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -19497,14 +19545,6 @@
       "onboard_time": 1719689111,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20866,
-      "num": 136314,
-      "word": "一张图看懂瑜伽裤怎么选",
-      "onboard_time": 1720259116,
-      "rank": 27,
-      "category": "时尚"
     },
     {
       "raw_hot": 20713,
