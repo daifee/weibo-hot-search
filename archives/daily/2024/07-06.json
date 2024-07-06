@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720265667127,
+  "endTime": 1720269233377,
   "band_list": [
     {
       "raw_hot": 1972038,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1018124,
-      "num": 274852,
+      "num": 349585,
       "word": "何捷叫张馨予胖子",
       "onboard_time": 1720262898,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1014439,
+      "num": 227724,
+      "word": "去已婚姐姐家过暑假要给生活费吗",
+      "onboard_time": 1720265538,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 1004339,
@@ -115,12 +123,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 951671,
+      "num": 951671,
+      "word": "秦彻cv",
+      "onboard_time": 1720268298,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 946583,
       "num": 272457,
       "word": "睡前不刷牙将是对牙齿的恐怖待遇",
       "onboard_time": 1720192040,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 931837,
+      "num": 931837,
+      "word": "抓娃娃 撤档",
+      "onboard_time": 1720268237,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 859720,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656426,
+      "num": 656426,
+      "word": "鲫鱼汤做出了鱼溺水的感觉",
+      "onboard_time": 1720263917,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 640948,
       "num": 640948,
       "word": "预拨5.4亿元支持湖南等地抢险救灾",
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 620851,
-      "num": 126314,
+      "num": 159956,
       "word": "霸王茶姬捐500万元支援华容县",
       "onboard_time": 1720262236,
       "rank": 30,
@@ -305,6 +337,14 @@
       "onboard_time": 1720252337,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 566208,
+      "num": 536056,
+      "word": "薛之谦去往鸟巢万人现场的路走了18年",
+      "onboard_time": 1720267637,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 565717,
@@ -369,6 +409,14 @@
       "onboard_time": 1720255158,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 537952,
+      "num": 537952,
+      "word": "警方通报川藏线孕妇插队事件",
+      "onboard_time": 1720266558,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521585,
@@ -523,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437637,
+      "num": 437637,
+      "word": "恋与深空",
+      "onboard_time": 1720264698,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 430878,
       "num": 430878,
       "word": "德国",
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 398210,
-      "num": 268845,
+      "num": 360671,
       "word": "731部队曾向常德投撒36公斤鼠疫跳蚤",
       "onboard_time": 1720263557,
       "rank": 13,
@@ -763,14 +819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 344757,
-      "num": 264168,
-      "word": "鲫鱼汤做出了鱼溺水的感觉",
-      "onboard_time": 1720263917,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 343691,
       "num": 343691,
       "word": "今年的三伏40天",
@@ -793,6 +841,14 @@
       "onboard_time": 1720230078,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337181,
+      "num": 337181,
+      "word": "韩国发生超千名师生集体食物中毒",
+      "onboard_time": 1720265897,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335367,
@@ -843,12 +899,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298108,
+      "num": 298108,
+      "word": "十个勤天北京",
+      "onboard_time": 1720266978,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284568,
       "num": 284568,
       "word": "秦海璐体脂率下降的7个小习惯",
       "onboard_time": 1720263198,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283522,
+      "num": 283522,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1720268418,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 276971,
@@ -891,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257811,
+      "num": 257811,
+      "word": "秦彻好帅",
+      "onboard_time": 1720268896,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257607,
       "num": 257607,
       "word": "丁太升评歌手第九期",
@@ -929,14 +1009,6 @@
       "onboard_time": 1720259776,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249433,
-      "num": 249433,
-      "word": "恋与深空",
-      "onboard_time": 1720264698,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 244099,
@@ -995,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228821,
+      "num": 228821,
+      "word": "裴文宣死得很惨但想得很美",
+      "onboard_time": 1720267697,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224405,
       "num": 180668,
       "word": "Capper回归了",
@@ -1009,14 +1089,6 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 217382,
-      "num": 152475,
-      "word": "去已婚姐姐家过暑假要给生活费吗",
-      "onboard_time": 1720265538,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 215471,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1720249096,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212317,
+      "num": 212317,
+      "word": "女主的本也该看看陈瑶了",
+      "onboard_time": 1720266017,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 212081,
@@ -1121,6 +1201,30 @@
       "onboard_time": 1720233257,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202619,
+      "num": 202619,
+      "word": "朱志鑫rap开场",
+      "onboard_time": 1720268599,
+      "rank": 25,
+      "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 201152,
+      "num": 201152,
+      "word": "绝区零",
+      "onboard_time": 1720268357,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 200255,
+      "num": 200255,
+      "word": "JDG对战WBG",
+      "onboard_time": 1720268718,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 199811,
@@ -1452,7 +1556,7 @@
     },
     {
       "raw_hot": 165972,
-      "num": 165972,
+      "num": 206262,
       "word": "洞庭湖决堤封堵预计6至7天完成",
       "onboard_time": 1720263616,
       "rank": 19,
@@ -1505,6 +1609,14 @@
       "onboard_time": 1720232717,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161824,
+      "num": 161824,
+      "word": "湖南九峰水库大坝发生渗漏险情",
+      "onboard_time": 1720267097,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161768,
@@ -1571,12 +1683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154326,
+      "num": 154326,
+      "word": "坚持运动40年的身材",
+      "onboard_time": 1720268599,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
       "onboard_time": 1720254259,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153376,
+      "num": 153376,
+      "word": "天秤座如何快乐起来",
+      "onboard_time": 1720266378,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 151206,
@@ -1617,6 +1745,14 @@
       "onboard_time": 1720239137,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148665,
+      "num": 148665,
+      "word": "TF二三四代运动会合照",
+      "onboard_time": 1720267937,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 148411,
@@ -1715,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140660,
+      "num": 140660,
+      "word": "默杀 一惊一乍的",
+      "onboard_time": 1720251679,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "香缇莫 袁咏琳",
@@ -1745,14 +1889,6 @@
       "onboard_time": 1720248797,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139201,
-      "num": 139201,
-      "word": "默杀 一惊一乍的",
-      "onboard_time": 1720251679,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 138346,
@@ -1809,6 +1945,14 @@
       "onboard_time": 1720173500,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131455,
+      "num": 131455,
+      "word": "还以为在跟魏大勋视频通话",
+      "onboard_time": 1720265297,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 130432,
@@ -1907,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "蔡依林袖子里都是汗",
+      "onboard_time": 1720266558,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119104,
       "num": 119104,
       "word": "谭维维怒音",
@@ -1971,20 +2123,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117580,
-      "num": 117580,
-      "word": "还以为在跟魏大勋视频通话",
-      "onboard_time": 1720265297,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116531,
       "num": 116531,
       "word": "头包脸披发教程",
       "onboard_time": 1720260196,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 115752,
+      "num": 115752,
+      "word": "上海申花vs山东泰山",
+      "onboard_time": 1720266978,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 115745,
@@ -2051,12 +2203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112461,
+      "num": 260957,
+      "word": "给巴黎一点中国茶饮震撼",
+      "onboard_time": 1720265177,
+      "rank": 34,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 112353,
       "num": 112353,
       "word": "猫猫 我的玩偶变小了",
       "onboard_time": 1720252157,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111958,
+      "num": 111958,
+      "word": "比三星堆更震撼的是夜游三星堆",
+      "onboard_time": 1720268658,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 110556,
@@ -2099,12 +2267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107553,
+      "num": 107553,
+      "word": "暑期档第一部校园剧来了",
+      "onboard_time": 1720267818,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107087,
       "num": 107087,
       "word": "巨蟹座新月许愿",
       "onboard_time": 1720196957,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107001,
+      "num": 107001,
+      "word": "默杀要素过多",
+      "onboard_time": 1720266978,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 106909,
@@ -2155,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99808,
+      "num": 99808,
+      "word": "一场大雨让汪苏泷息影",
+      "onboard_time": 1720266137,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99656,
       "num": 99656,
       "word": "自助餐为什么不受欢迎了",
@@ -2201,6 +2393,14 @@
       "onboard_time": 1720205232,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97986,
+      "num": 97986,
+      "word": "伊春蛤蟆上中专",
+      "onboard_time": 1720269198,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 97237,
@@ -2483,12 +2683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45029,
-      "num": 110839,
-      "word": "给巴黎一点中国茶饮震撼",
-      "onboard_time": 1720265177,
-      "rank": 34,
-      "category": "体育,美食"
+      "raw_hot": 41575,
+      "num": 912188,
+      "word": "115秒看懂中塔友谊",
+      "onboard_time": 1720254499,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38869,
@@ -2563,14 +2763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29165,
-      "num": 465161,
-      "word": "115秒看懂中塔友谊",
-      "onboard_time": 1720254499,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28297,
       "num": 242353,
       "word": "专家解读洞庭湖救援重点",
@@ -2600,6 +2792,14 @@
       "word": "交警一路狂飙为受伤女童送药",
       "onboard_time": 1720236019,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24206,
+      "num": 213671,
+      "word": "爸爸回应孩子们组成流水线帮忙搬米",
+      "onboard_time": 1720266917,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
