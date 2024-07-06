@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720305299445,
+  "endTime": 1720307890705,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 797773,
-      "num": 186527,
+      "num": 202589,
       "word": "易猝死的人往往有这4个共同点",
       "onboard_time": 1720277719,
       "rank": 20,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 629578,
-      "num": 251925,
+      "num": 382724,
       "word": "冯琳入职东方卫视",
       "onboard_time": 1720280659,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 350376,
-      "num": 186854,
+      "num": 313332,
       "word": "印度一地一天内19人被雷击身亡",
       "onboard_time": 1720281498,
       "rank": 19,
@@ -355,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "警方通报川藏线孕妇插队事件",
+      "onboard_time": 1720266558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123787,
       "num": 123787,
       "word": "秦彻好帅",
       "onboard_time": 1720268896,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122584,
-      "num": 122584,
-      "word": "警方通报川藏线孕妇插队事件",
-      "onboard_time": 1720266558,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122215,
@@ -419,6 +419,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94807,
+      "num": 94807,
+      "word": "英格兰瑞士点球大战",
+      "onboard_time": 1720292653,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84615,
+      "num": 84615,
+      "word": "七七事变八十七周年",
+      "onboard_time": 1720292772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83618,
       "num": 83618,
       "word": "直击洞庭湖决堤救援一线",
@@ -427,20 +443,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73568,
-      "num": 73568,
-      "word": "英格兰瑞士点球大战",
-      "onboard_time": 1720292653,
-      "rank": 22,
+      "raw_hot": 80282,
+      "num": 80282,
+      "word": "荷兰晋级欧洲杯4强",
+      "onboard_time": 1720306932,
+      "rank": 19,
       "category": "体育"
     },
     {
-      "raw_hot": 65094,
-      "num": 65094,
-      "word": "七七事变八十七周年",
-      "onboard_time": 1720292772,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 78595,
+      "num": 78595,
+      "word": "55岁的妈妈拒绝学习任何新事物",
+      "onboard_time": 1720296131,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76026,
+      "num": 76026,
+      "word": "1937年7月7日永不能忘",
+      "onboard_time": 1720307534,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 66263,
+      "num": 66263,
+      "word": "英格兰6比4瑞士",
+      "onboard_time": 1720307534,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 64831,
@@ -451,12 +483,84 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63180,
+      "num": 63180,
+      "word": "TES晋级电竞世界杯决赛",
+      "onboard_time": 1720307232,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 62952,
+      "num": 62952,
+      "word": "马思纯暴汗自拍",
+      "onboard_time": 1720305131,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62060,
+      "num": 62060,
+      "word": "英格兰五罚全中",
+      "onboard_time": 1720307413,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61344,
+      "num": 61344,
+      "word": "TES零封G2",
+      "onboard_time": 1720307353,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 60733,
+      "num": 60733,
+      "word": "原来狗累了这么明显",
+      "onboard_time": 1720307774,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60162,
       "num": 54321,
       "word": "G2战胜Fly",
       "onboard_time": 1720290012,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56774,
+      "num": 56774,
+      "word": "暑期档第一部校园剧来了",
+      "onboard_time": 1720267818,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55898,
+      "num": 55898,
+      "word": "宛平城墙的弹痕是先辈血泪的印记",
+      "onboard_time": 1720307833,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 52667,
+      "num": 52667,
+      "word": "英格兰1比1瑞士",
+      "onboard_time": 1720307774,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50901,
+      "num": 50901,
+      "word": "体脂率是衡量胖瘦的金标准",
+      "onboard_time": 1720299851,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 49021,
@@ -475,20 +579,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46286,
-      "num": 46286,
-      "word": "55岁的妈妈拒绝学习任何新事物",
-      "onboard_time": 1720296131,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 48023,
+      "num": 48023,
+      "word": "今日中国再不是1937的中国",
+      "onboard_time": 1720307833,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 45528,
-      "num": 45528,
-      "word": "体脂率是衡量胖瘦的金标准",
-      "onboard_time": 1720299851,
+      "raw_hot": 47317,
+      "num": 47317,
+      "word": "荷兰2比1土耳其",
+      "onboard_time": 1720307594,
       "rank": 46,
-      "category": "运动健身"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46881,
+      "num": 46881,
+      "word": "你在奥运会上的对手刚刚小学毕业",
+      "onboard_time": 1720302911,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 45307,
@@ -531,12 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25148,
-      "num": 27861,
-      "word": "你在奥运会上的对手刚刚小学毕业",
-      "onboard_time": 1720302911,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 25112,
+      "num": 126635,
+      "word": "神仙邻居带动社区200多人暑假晨跑",
+      "onboard_time": 1720298711,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24083,
@@ -569,22 +681,6 @@
       "onboard_time": 1720296371,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18972,
-      "num": 27821,
-      "word": "马思纯暴汗自拍",
-      "onboard_time": 1720305131,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 11916,
-      "num": 54413,
-      "word": "神仙邻居带动社区200多人暑假晨跑",
-      "onboard_time": 1720298711,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
