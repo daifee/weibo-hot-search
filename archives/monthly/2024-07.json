@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720290993175,
+  "endTime": 1720293326770,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -10219,6 +10219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173731,
+      "num": 173731,
+      "word": "TES对战G2",
+      "onboard_time": 1720279999,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "CBLOCK 江湖流",
@@ -13355,6 +13363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128648,
+      "num": 128648,
+      "word": "电竞世界杯",
+      "onboard_time": 1720292352,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128500,
       "num": 128500,
       "word": "基金刚建仓就退市",
@@ -14065,14 +14081,6 @@
       "onboard_time": 1719846320,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119745,
-      "num": 119745,
-      "word": "TES对战G2",
-      "onboard_time": 1720279999,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 119647,
@@ -15851,6 +15859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83437,
+      "num": 83437,
+      "word": "荷兰vs土耳其",
+      "onboard_time": 1720287853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83254,
       "num": 83254,
       "word": "iPhone16或全系采用A18芯片",
@@ -16003,6 +16019,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 75797,
+      "num": 75797,
+      "word": "T1晋级电竞世界杯决赛",
+      "onboard_time": 1720292413,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75559,
       "num": 63897,
       "word": "小鬼也A起来了",
@@ -16033,6 +16057,14 @@
       "onboard_time": 1720234817,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73369,
+      "num": 51164,
+      "word": "英格兰瑞士点球大战",
+      "onboard_time": 1720292653,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 73204,
@@ -16441,14 +16473,6 @@
       "onboard_time": 1720135996,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59654,
-      "num": 59654,
-      "word": "荷兰vs土耳其",
-      "onboard_time": 1720287853,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 59529,
@@ -16867,6 +16891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45307,
+      "num": 38132,
+      "word": "詹俊解说",
+      "onboard_time": 1720292592,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45253,
       "num": 217547,
       "word": "西南医院多学科专家救治870克超早产儿",
@@ -17123,6 +17155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 38258,
+      "num": 38258,
+      "word": "七七事变八十七周年",
+      "onboard_time": 1720292772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37501,
       "num": 38691,
       "word": "魔方新世界排名",
@@ -17200,6 +17240,14 @@
       "word": "香港欢迎大熊猫来港",
       "onboard_time": 1719816557,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36125,
+      "num": 38219,
+      "word": "卢沟桥事变亲历者郑福来老人去世",
+      "onboard_time": 1720290973,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -17352,14 +17400,6 @@
       "word": "游客冒大雨天安门等待看升旗",
       "onboard_time": 1719844039,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30861,
-      "num": 34716,
-      "word": "卢沟桥事变亲历者郑福来老人去世",
-      "onboard_time": 1720290973,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
