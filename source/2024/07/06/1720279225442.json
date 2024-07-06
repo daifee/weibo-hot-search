@@ -1,0 +1,410 @@
+{
+  "runTime": 1720279225442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407649,
+        "num": 1407649,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1012586,
+        "num": 1012586,
+        "word": "日本2男子将50岁同事放洗衣机",
+        "onboard_time": 1720272620,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43653,
+        "num": 924839,
+        "word": "中国友谊勋章如何颁授",
+        "onboard_time": 1720277598,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 865652,
+        "num": 865652,
+        "word": "刘亦菲许红豆限时回归",
+        "onboard_time": 1720276819,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636171,
+        "num": 636171,
+        "word": "扬州地震",
+        "onboard_time": 1720274539,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555473,
+        "num": 555473,
+        "word": "离职8年后因前老板涉黑获刑",
+        "onboard_time": 1720274420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828160,
+        "num": 555453,
+        "word": "韩廷 孟宴臣",
+        "onboard_time": 1720274178,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 777269,
+        "num": 503848,
+        "word": "汪苏泷连夜追加八百万",
+        "onboard_time": 1720273757,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333565,
+        "num": 333565,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325996,
+        "num": 325996,
+        "word": "摆拍生吃见手青网红已被禁言",
+        "onboard_time": 1720273939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616709,
+        "num": 324913,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477413,
+        "num": 324643,
+        "word": "存款多少才敢辞职",
+        "onboard_time": 1720272738,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426894,
+        "num": 324294,
+        "word": "何捷叫张馨予胖子",
+        "onboard_time": 1720262898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323336,
+        "num": 323336,
+        "word": "秦彻cv",
+        "onboard_time": 1720268298,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409146,
+        "num": 318114,
+        "word": "林俊杰新歌",
+        "onboard_time": 1720274600,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237762,
+        "num": 237762,
+        "word": "警方通报川藏线孕妇插队事件",
+        "onboard_time": 1720266558,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236395,
+        "num": 236395,
+        "word": "秦彻好帅",
+        "onboard_time": 1720268896,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205373,
+        "num": 205373,
+        "word": "3000余名救援人员赴洞庭湖抢险",
+        "onboard_time": 1720277839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165061,
+        "num": 205368,
+        "word": "洞庭湖226米决口已封堵66米",
+        "onboard_time": 1720279099,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401723,
+        "num": 205229,
+        "word": "抓娃娃否认撤档",
+        "onboard_time": 1720273280,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 638465,
+        "num": 205177,
+        "word": "奉劝晚婚的人不要随份子钱",
+        "onboard_time": 1720271838,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13840,
+        "num": 205040,
+        "word": "浙江的五星级菜场已经是nextlevel",
+        "onboard_time": 1720272738,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369583,
+        "num": 204960,
+        "word": "去已婚姐姐家过暑假要给生活费吗",
+        "onboard_time": 1720265538,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74531,
+        "num": 204841,
+        "word": "网游虚假交易诈骗套路有多深",
+        "onboard_time": 1720277180,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332195,
+        "num": 204763,
+        "word": "易猝死的人往往有这4个共同点",
+        "onboard_time": 1720277719,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281946,
+        "num": 204670,
+        "word": "想魂穿王勉",
+        "onboard_time": 1720277778,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265899,
+        "num": 204645,
+        "word": "裴文宣死得很惨但想得很美",
+        "onboard_time": 1720267697,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250437,
+        "num": 204488,
+        "word": "默杀",
+        "onboard_time": 1720272978,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241628,
+        "num": 204415,
+        "word": "王星越抱吴谨言心率142",
+        "onboard_time": 1720273639,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229508,
+        "num": 204353,
+        "word": "在小县城用联名公交卡被骂了",
+        "onboard_time": 1720274539,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 636474,
+        "num": 204246,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105596,
+        "num": 204126,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225004,
+        "num": 204077,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1720278319,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218526,
+        "num": 203969,
+        "word": "张子墨 不自信",
+        "onboard_time": 1720278919,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203943,
+        "num": 203943,
+        "word": "杨和苏点评",
+        "onboard_time": 1720275438,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200235,
+        "num": 200235,
+        "word": "张艺兴成都站",
+        "onboard_time": 1720278798,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195422,
+        "num": 195422,
+        "word": "吴昕99字夸王俊凯秦霄贤",
+        "onboard_time": 1720278739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199276,
+        "num": 188412,
+        "word": "霸王茶姬捐500万元支援华容县",
+        "onboard_time": 1720262236,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178962,
+        "num": 178962,
+        "word": "张杰雨中是龙直拍",
+        "onboard_time": 1720278439,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176036,
+        "num": 176036,
+        "word": "尚雯婕给了张泽禹最高分",
+        "onboard_time": 1720277898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 170946,
+        "word": "成年人的断层关系",
+        "onboard_time": 1720275560,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168527,
+        "num": 168527,
+        "word": "数码宝贝 绝美天女兽",
+        "onboard_time": 1720278139,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167182,
+        "num": 167182,
+        "word": "你好星期六下期吴谨言王星越",
+        "onboard_time": 1720272020,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163383,
+        "num": 163383,
+        "word": "坚持运动40年的身材",
+        "onboard_time": 1720268599,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166364,
+        "num": 162803,
+        "word": "杨迪写给王俊凯秦霄贤的小作文",
+        "onboard_time": 1720276218,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161354,
+        "num": 161354,
+        "word": "刘亦菲七月有线下活动",
+        "onboard_time": 1720278859,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152905,
+        "num": 152905,
+        "word": "林俊杰无畏契约",
+        "onboard_time": 1720277238,
+        "rank": 46,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 152287,
+        "num": 152287,
+        "word": "陈昊宇浪姐有效参赛",
+        "onboard_time": 1720277479,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152168,
+        "num": 152168,
+        "word": "此次洞庭湖大堤决口由管涌引起",
+        "onboard_time": 1720260196,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151719,
+        "num": 151719,
+        "word": "洞庭湖决堤封堵预计6至7天完成",
+        "onboard_time": 1720263616,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
