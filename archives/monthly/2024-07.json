@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720298111327,
+  "endTime": 1720300769896,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -11947,6 +11947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144799,
+      "num": 144799,
+      "word": "荷兰vs土耳其",
+      "onboard_time": 1720287853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144739,
       "num": 144739,
       "word": "南方的狗有多讨厌下雨天",
@@ -14843,14 +14851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108484,
-      "num": 108484,
-      "word": "荷兰vs土耳其",
-      "onboard_time": 1720287853,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108361,
       "num": 108361,
       "word": "爱奇艺回应把在线人数关了",
@@ -17051,6 +17051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41023,
+      "num": 41023,
+      "word": "七七事变八十七周年",
+      "onboard_time": 1720292772,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40935,
       "num": 274804,
       "word": "健身房的人型多巴胺belike",
@@ -17105,14 +17113,6 @@
       "onboard_time": 1719911058,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 39598,
-      "num": 39598,
-      "word": "七七事变八十七周年",
-      "onboard_time": 1720292772,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39563,
@@ -17377,6 +17377,14 @@
       "onboard_time": 1720266917,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31968,
+      "num": 31968,
+      "word": "55岁的妈妈拒绝学习任何新事物",
+      "onboard_time": 1720296131,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 31874,
@@ -17649,14 +17657,6 @@
       "onboard_time": 1719942792,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25865,
-      "num": 25865,
-      "word": "55岁的妈妈拒绝学习任何新事物",
-      "onboard_time": 1720296131,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 25863,
@@ -17947,6 +17947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17079,
+      "num": 18662,
+      "word": "体脂率是衡量胖瘦的金标准",
+      "onboard_time": 1720299851,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 16747,
       "num": 148498,
       "word": "一半一半的智慧",
@@ -18136,6 +18144,14 @@
       "word": "退役警犬三步一回头告别训导员",
       "onboard_time": 1719762018,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10515,
+      "num": 48738,
+      "word": "神仙邻居带动社区200多人暑假晨跑",
+      "onboard_time": 1720298711,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
