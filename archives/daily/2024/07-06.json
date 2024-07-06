@@ -1,21 +1,21 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720271983471,
+  "endTime": 1720272865602,
   "band_list": [
+    {
+      "raw_hot": 2450027,
+      "num": 732230,
+      "word": "抓娃娃",
+      "onboard_time": 1720268237,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 2096392,
       "num": 2096392,
       "word": "抓娃娃 撤档",
       "onboard_time": 1720268237,
       "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 2057879,
-      "num": 732230,
-      "word": "抓娃娃",
-      "onboard_time": 1720268237,
-      "rank": 3,
       "category": "电影"
     },
     {
@@ -91,8 +91,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1062748,
-      "num": 1062748,
+      "raw_hot": 1082790,
+      "num": 1082790,
       "word": "秦彻cv",
       "onboard_time": 1720268298,
       "rank": 0,
@@ -153,6 +153,14 @@
       "onboard_time": 1720192040,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 920146,
+      "num": 174828,
+      "word": "钓鱼网红周翠翠夫妇去世",
+      "onboard_time": 1720270997,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859720,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 620851,
-      "num": 173032,
+      "num": 173353,
       "word": "霸王茶姬捐500万元支援华容县",
       "onboard_time": 1720262236,
       "rank": 30,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562857,
+      "num": 222683,
+      "word": "奉劝晚婚的人不要随份子钱",
+      "onboard_time": 1720271838,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 559445,
       "num": 559445,
       "word": "CoCo回应员工边做边吃",
@@ -427,20 +443,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 541270,
+      "num": 541270,
+      "word": "裴文宣死得很惨但想得很美",
+      "onboard_time": 1720267697,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 540957,
       "num": 441931,
       "word": "李一桐巴黎偶遇中国游泳队",
       "onboard_time": 1720255158,
       "rank": 6,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 535838,
-      "num": 535838,
-      "word": "裴文宣死得很惨但想得很美",
-      "onboard_time": 1720267697,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 521585,
@@ -561,14 +577,6 @@
       "onboard_time": 1720260917,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 460190,
-      "num": 173595,
-      "word": "钓鱼网红周翠翠夫妇去世",
-      "onboard_time": 1720270997,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455347,
@@ -963,20 +971,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283863,
-      "num": 221664,
-      "word": "奉劝晚婚的人不要随份子钱",
-      "onboard_time": 1720271838,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 283522,
       "num": 283522,
       "word": "恋与深空兑换码",
       "onboard_time": 1720268418,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283106,
+      "num": 280451,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1720271838,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 281909,
+      "num": 281909,
+      "word": "你好星期六",
+      "onboard_time": 1720235957,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 276971,
@@ -1041,6 +1057,22 @@
       "onboard_time": 1720264878,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251034,
+      "num": 222139,
+      "word": "陈哲远新剧化了眼睑下至",
+      "onboard_time": 1720271237,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250032,
+      "num": 217363,
+      "word": "你好星期六下期吴谨言王星越",
+      "onboard_time": 1720272020,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 249859,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 217694,
-      "num": 217694,
-      "word": "你好星期六",
-      "onboard_time": 1720235957,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 215471,
@@ -1371,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193206,
-      "num": 193206,
-      "word": "陈哲远新剧化了眼睑下至",
-      "onboard_time": 1720271237,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192625,
       "num": 192625,
       "word": "BW抢票",
@@ -1603,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174156,
-      "num": 174156,
-      "word": "WBG战胜JDG",
-      "onboard_time": 1720271838,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "为啥人民币没有7元8元9元面值",
@@ -1739,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160256,
+      "num": 160256,
+      "word": "夏以昼呢",
+      "onboard_time": 1720272318,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159948,
       "num": 159948,
       "word": "比三星堆更震撼的是夜游三星堆",
@@ -1763,6 +1779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158500,
+      "num": 158500,
+      "word": "日本2男子将50岁同事放洗衣机",
+      "onboard_time": 1720272620,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157553,
       "num": 157553,
       "word": "克罗斯发文正式退役",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1720191441,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 156051,
+      "word": "暑期档第一部校园剧来了",
+      "onboard_time": 1720267818,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155561,
@@ -1905,14 +1937,6 @@
       "onboard_time": 1720235777,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144783,
-      "num": 144783,
-      "word": "暑期档第一部校园剧来了",
-      "onboard_time": 1720267818,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 144353,
@@ -2067,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131002,
+      "num": 131002,
+      "word": "左航 饭撒对视宿命感",
+      "onboard_time": 1720272558,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130432,
       "num": 130432,
       "word": "涂山璟无缘今年奥运",
@@ -2179,6 +2211,22 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 121423,
+      "num": 121423,
+      "word": "C罗说这还没有结束",
+      "onboard_time": 1720271778,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121069,
+      "num": 121069,
+      "word": "存款多少才敢辞职",
+      "onboard_time": 1720272738,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120146,
       "num": 120146,
       "word": "宋亚轩最佳笑容奖",
@@ -2235,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117826,
+      "num": 117826,
+      "word": "王俊凯穿童年王俊凯",
+      "onboard_time": 1720271418,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117686,
       "num": 117686,
       "word": "电影默杀",
@@ -2265,6 +2321,14 @@
       "onboard_time": 1720260196,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 116446,
+      "num": 116446,
+      "word": "颜心记",
+      "onboard_time": 1720272138,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115752,
@@ -2369,14 +2433,6 @@
       "onboard_time": 1720247177,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109485,
-      "num": 109485,
-      "word": "C罗说这还没有结束",
-      "onboard_time": 1720271778,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108351,
@@ -2779,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48716,
+      "num": 281019,
+      "word": "全力守住第二道防线",
+      "onboard_time": 1720272318,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48537,
       "num": 398153,
       "word": "居民讲述洞庭湖决堤卡车封堵细节",
@@ -2803,12 +2867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41726,
+      "raw_hot": 42795,
       "num": 930108,
       "word": "115秒看懂中塔友谊",
       "onboard_time": 1720254499,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40500,
+      "num": 165400,
+      "word": "浙江的五星级菜场已经是nextlevel",
+      "onboard_time": 1720272738,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 38869,

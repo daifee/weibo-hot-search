@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720271983471,
+  "endTime": 1720272865602,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -57,6 +57,14 @@
       "onboard_time": 1720180040,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2450027,
+      "num": 732230,
+      "word": "抓娃娃",
+      "onboard_time": 1720268237,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 2447964,
@@ -121,14 +129,6 @@
       "onboard_time": 1720091478,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2057879,
-      "num": 732230,
-      "word": "抓娃娃",
-      "onboard_time": 1720268237,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1973002,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082790,
+      "num": 1082790,
+      "word": "秦彻cv",
+      "onboard_time": 1720268298,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1082455,
       "num": 363454,
       "word": "被撕票中企高管最后语音曝光",
@@ -841,14 +849,6 @@
       "onboard_time": 1719838100,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1062748,
-      "num": 1062748,
-      "word": "秦彻cv",
-      "onboard_time": 1720268298,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 1057416,
@@ -1128,6 +1128,14 @@
       "word": "飞机起飞4名贵宾室旅客被遗忘机场",
       "onboard_time": 1720188382,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920146,
+      "num": 174828,
+      "word": "钓鱼网红周翠翠夫妇去世",
+      "onboard_time": 1720270997,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 620851,
-      "num": 173032,
+      "num": 173353,
       "word": "霸王茶姬捐500万元支援华容县",
       "onboard_time": 1720262236,
       "rank": 30,
@@ -2787,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562857,
+      "num": 222683,
+      "word": "奉劝晚婚的人不要随份子钱",
+      "onboard_time": 1720271838,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 561954,
       "num": 279154,
       "word": "复读生已经上了五天课了",
@@ -2963,6 +2979,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 541270,
+      "num": 541270,
+      "word": "裴文宣死得很惨但想得很美",
+      "onboard_time": 1720267697,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 540957,
       "num": 441931,
       "word": "李一桐巴黎偶遇中国游泳队",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1719892821,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535838,
-      "num": 535838,
-      "word": "裴文宣死得很惨但想得很美",
-      "onboard_time": 1720267697,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 533539,
@@ -3792,14 +3808,6 @@
       "word": "上海地铁16号线",
       "onboard_time": 1719966437,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460190,
-      "num": 173595,
-      "word": "钓鱼网红周翠翠夫妇去世",
-      "onboard_time": 1720270997,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6163,14 +6171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283863,
-      "num": 221664,
-      "word": "奉劝晚婚的人不要随份子钱",
-      "onboard_time": 1720271838,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 283722,
       "num": 283722,
       "word": "黄旭东 没苦硬吃",
@@ -6203,6 +6203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283106,
+      "num": 280451,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1720271838,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282671,
       "num": 282671,
       "word": "你身上有原神的香水味",
@@ -6217,6 +6225,14 @@
       "onboard_time": 1720105640,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281909,
+      "num": 281909,
+      "word": "你好星期六",
+      "onboard_time": 1720235957,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 281254,
@@ -6659,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251034,
+      "num": 222139,
+      "word": "陈哲远新剧化了眼睑下至",
+      "onboard_time": 1720271237,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250381,
       "num": 154792,
       "word": "以色列民众示威要求提前大选结束冲突",
@@ -6673,6 +6697,14 @@
       "onboard_time": 1719914959,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250032,
+      "num": 217363,
+      "word": "你好星期六下期吴谨言王星越",
+      "onboard_time": 1720272020,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 249974,
@@ -7465,14 +7497,6 @@
       "onboard_time": 1719984739,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217694,
-      "num": 217694,
-      "word": "你好星期六",
-      "onboard_time": 1720235957,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 217473,
@@ -8763,14 +8787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193206,
-      "num": 193206,
-      "word": "陈哲远新剧化了眼睑下至",
-      "onboard_time": 1720271237,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193092,
       "num": 193092,
       "word": "汪苏泷唱完观众喊好听",
@@ -9883,14 +9899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174156,
-      "num": 174156,
-      "word": "WBG战胜JDG",
-      "onboard_time": 1720271838,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173824,
       "num": 173824,
       "word": "LPL夏季赛组内赛赛程",
@@ -10555,6 +10563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160256,
+      "num": 160256,
+      "word": "夏以昼呢",
+      "onboard_time": 1720272318,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160212,
       "num": 160212,
       "word": "张凌赫把粉丝合照放在了C位",
@@ -10657,6 +10673,14 @@
       "onboard_time": 1720056618,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158500,
+      "num": 158500,
+      "word": "日本2男子将50岁同事放洗衣机",
+      "onboard_time": 1720272620,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157711,
@@ -10857,6 +10881,14 @@
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 156051,
+      "word": "暑期档第一部校园剧来了",
+      "onboard_time": 1720267818,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155758,
@@ -11561,14 +11593,6 @@
       "onboard_time": 1720235777,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144783,
-      "num": 144783,
-      "word": "暑期档第一部校园剧来了",
-      "onboard_time": 1720267818,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 144739,
@@ -12779,6 +12803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131002,
+      "num": 131002,
+      "word": "左航 饭撒对视宿命感",
+      "onboard_time": 1720272558,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130870,
       "num": 130870,
       "word": "张婧仪抹胸黑纱裙",
@@ -13459,6 +13491,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 121423,
+      "num": 121423,
+      "word": "C罗说这还没有结束",
+      "onboard_time": 1720271778,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121368,
       "num": 121368,
       "word": "虞书欣好会拍人",
@@ -13481,6 +13521,14 @@
       "onboard_time": 1720085477,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121069,
+      "num": 121069,
+      "word": "存款多少才敢辞职",
+      "onboard_time": 1720272738,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120818,
@@ -13787,6 +13835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117826,
+      "num": 117826,
+      "word": "王俊凯穿童年王俊凯",
+      "onboard_time": 1720271418,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117651,
       "num": 117651,
       "word": "独自旅行的意义",
@@ -13840,6 +13896,14 @@
       "word": "墨雨云间6月网剧TOP1",
       "onboard_time": 1720083379,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116446,
+      "num": 116446,
+      "word": "颜心记",
+      "onboard_time": 1720272138,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -14313,14 +14377,6 @@
       "onboard_time": 1720052539,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109485,
-      "num": 109485,
-      "word": "C罗说这还没有结束",
-      "onboard_time": 1720271778,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109334,
@@ -16227,6 +16283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48716,
+      "num": 281019,
+      "word": "全力守住第二道防线",
+      "onboard_time": 1720272318,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48538,
       "num": 454205,
       "word": "演唱会奇葩票维权成本有多高",
@@ -16451,6 +16515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42795,
+      "num": 930108,
+      "word": "115秒看懂中塔友谊",
+      "onboard_time": 1720254499,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42582,
       "num": 170613,
       "word": "爸爸边拎桶边抱宝宝最后2合1",
@@ -16491,14 +16563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41726,
-      "num": 930108,
-      "word": "115秒看懂中塔友谊",
-      "onboard_time": 1720254499,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 41525,
       "num": 35988,
       "word": "突然发现了我妈是先天留子圣体",
@@ -16529,6 +16593,14 @@
       "onboard_time": 1720003398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40500,
+      "num": 165400,
+      "word": "浙江的五星级菜场已经是nextlevel",
+      "onboard_time": 1720272738,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 40486,
