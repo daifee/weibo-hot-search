@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720233171518,
+  "endTime": 1720233795359,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -419,7 +419,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1446084,
+      "raw_hot": 1454491,
       "num": 1220973,
       "word": "洞庭湖决堤",
       "onboard_time": 1720189881,
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1139487,
+      "num": 1139487,
+      "word": "731部队鼠疫实验最新罪证",
+      "onboard_time": 1720229836,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135955,
       "num": 512061,
       "word": "原来洗内裤有这么多误区",
@@ -849,14 +857,6 @@
       "onboard_time": 1720162039,
       "rank": 0,
       "category": "教育,剧集"
-    },
-    {
-      "raw_hot": 1018436,
-      "num": 1018436,
-      "word": "731部队鼠疫实验最新罪证",
-      "onboard_time": 1720229836,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1012370,
@@ -3171,6 +3171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488232,
+      "num": 430358,
+      "word": "婉宁公主是李梦主动找于正争取的",
+      "onboard_time": 1720230797,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487839,
       "num": 311557,
       "word": "因为接受offer去工作被爸爸骂白养了",
@@ -3489,14 +3497,6 @@
       "onboard_time": 1719793458,
       "rank": 5,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 455812,
-      "num": 336532,
-      "word": "婉宁公主是李梦主动找于正争取的",
-      "onboard_time": 1720230797,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 455586,
@@ -4875,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338039,
+      "num": 338039,
+      "word": "于正说何瑞贤是内娱独一无二的脸",
+      "onboard_time": 1720230078,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338013,
       "num": 338013,
       "word": "詹姆斯续约湖人",
@@ -4883,12 +4891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335843,
-      "num": 335843,
-      "word": "于正说何瑞贤是内娱独一无二的脸",
-      "onboard_time": 1720230078,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 337340,
+      "num": 228827,
+      "word": "你的手机号绑定了多少APP",
+      "onboard_time": 1720229836,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 335360,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1719896180,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 329594,
+      "num": 329594,
+      "word": "王健林又卖核心资产",
+      "onboard_time": 1720232777,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329552,
@@ -5745,14 +5761,6 @@
       "onboard_time": 1719962416,
       "rank": 24,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 267708,
-      "num": 227511,
-      "word": "你的手机号绑定了多少APP",
-      "onboard_time": 1720229836,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 267272,
@@ -6595,14 +6603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224804,
-      "num": 224804,
-      "word": "王健林又卖核心资产",
-      "onboard_time": 1720232777,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224748,
       "num": 224748,
       "word": "高考录取期间10大注意事项",
@@ -7219,6 +7219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204444,
+      "num": 204444,
+      "word": "2只羊打架致独库公路短暂封路",
+      "onboard_time": 1720230078,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204347,
       "num": 204347,
       "word": "小鹏MONA发布会",
@@ -7249,14 +7257,6 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203975,
-      "num": 203975,
-      "word": "2只羊打架致独库公路短暂封路",
-      "onboard_time": 1720230078,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203423,
@@ -7297,6 +7297,14 @@
       "onboard_time": 1720192820,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202731,
+      "num": 202731,
+      "word": "凤凰台上官宣杀青",
+      "onboard_time": 1720233257,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202676,
@@ -8971,6 +8979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171010,
+      "num": 171010,
+      "word": "王源官宣郑州站",
+      "onboard_time": 1720233437,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170648,
       "num": 170648,
       "word": "绝区零内存",
@@ -10025,6 +10041,14 @@
       "onboard_time": 1719979759,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150651,
+      "num": 150651,
+      "word": "海天雄鹰把我眼泪撞决堤了",
+      "onboard_time": 1720233076,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 150266,
@@ -12419,6 +12443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115877,
+      "num": 115877,
+      "word": "3个方面判断月经是否正常",
+      "onboard_time": 1720233017,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115865,
       "num": 115865,
       "word": "TF家族夏日运动会入场须知",
@@ -12699,14 +12731,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 111335,
-      "num": 111335,
-      "word": "3个方面判断月经是否正常",
-      "onboard_time": 1720233017,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111183,
       "num": 111183,
       "word": "暨大毕业礼自助式拨穗火了",
@@ -12849,14 +12873,6 @@
       "onboard_time": 1720134615,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108719,
-      "num": 108719,
-      "word": "海天雄鹰把我眼泪撞决堤了",
-      "onboard_time": 1720233076,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 108523,
@@ -15000,6 +15016,14 @@
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1719824718,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34641,
+      "num": 381514,
+      "word": "洞庭湖决堤村民讲述紧急转移经过",
+      "onboard_time": 1720233737,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720233171518,
+  "endTime": 1720233795359,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1446084,
+      "raw_hot": 1454491,
       "num": 795481,
       "word": "洞庭湖决堤",
       "onboard_time": 1720189881,
@@ -35,20 +35,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1139487,
+      "num": 1139487,
+      "word": "731部队鼠疫实验最新罪证",
+      "onboard_time": 1720229836,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047477,
       "num": 424447,
       "word": "端木磊带楚雨荨在火锅店吃西餐",
       "onboard_time": 1720191561,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1018436,
-      "num": 1018436,
-      "word": "731部队鼠疫实验最新罪证",
-      "onboard_time": 1720229836,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 946583,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488232,
+      "num": 430358,
+      "word": "婉宁公主是李梦主动找于正争取的",
+      "onboard_time": 1720230797,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487221,
       "num": 397516,
       "word": "延安中学",
@@ -225,14 +233,6 @@
       "onboard_time": 1720217353,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 455812,
-      "num": 336532,
-      "word": "婉宁公主是李梦主动找于正争取的",
-      "onboard_time": 1720230797,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 455347,
@@ -363,12 +363,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335843,
-      "num": 335843,
+      "raw_hot": 338039,
+      "num": 338039,
       "word": "于正说何瑞贤是内娱独一无二的脸",
       "onboard_time": 1720230078,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337340,
+      "num": 228827,
+      "word": "你的手机号绑定了多少APP",
+      "onboard_time": 1720229836,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 329594,
+      "num": 329594,
+      "word": "王健林又卖核心资产",
+      "onboard_time": 1720232777,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322646,
@@ -395,28 +411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 267708,
-      "num": 227511,
-      "word": "你的手机号绑定了多少APP",
-      "onboard_time": 1720229836,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 237929,
       "num": 237929,
       "word": "饮料为什么越做越大",
       "onboard_time": 1720223475,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224804,
-      "num": 224804,
-      "word": "王健林又卖核心资产",
-      "onboard_time": 1720232777,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208498,
@@ -427,12 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203975,
-      "num": 203975,
+      "raw_hot": 204444,
+      "num": 204444,
       "word": "2只羊打架致独库公路短暂封路",
       "onboard_time": 1720230078,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202731,
+      "num": 202731,
+      "word": "凤凰台上官宣杀青",
+      "onboard_time": 1720233257,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195717,
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171010,
+      "num": 171010,
+      "word": "王源官宣郑州站",
+      "onboard_time": 1720233437,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "许凯单手接衣",
@@ -617,6 +633,14 @@
       "onboard_time": 1720212130,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150651,
+      "num": 150651,
+      "word": "海天雄鹰把我眼泪撞决堤了",
+      "onboard_time": 1720233076,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 148411,
@@ -803,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115877,
+      "num": 115877,
+      "word": "3个方面判断月经是否正常",
+      "onboard_time": 1720233017,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115745,
       "num": 115745,
       "word": "原来宝宝真的比甲方还难伺候",
@@ -843,28 +875,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111335,
-      "num": 111335,
-      "word": "3个方面判断月经是否正常",
-      "onboard_time": 1720233017,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 110149,
       "num": 66286,
       "word": "葡萄牙vs法国首发",
       "onboard_time": 1720211891,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108719,
-      "num": 108719,
-      "word": "海天雄鹰把我眼泪撞决堤了",
-      "onboard_time": 1720233076,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 107715,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 47783,
-      "num": 807312,
+      "num": 848832,
       "word": "友谊勋章藏着多少设计细节",
       "onboard_time": 1720193000,
       "rank": 2,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1720210930,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34641,
+      "num": 381514,
+      "word": "洞庭湖决堤村民讲述紧急转移经过",
+      "onboard_time": 1720233737,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34154,
