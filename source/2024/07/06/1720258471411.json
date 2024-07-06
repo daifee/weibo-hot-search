@@ -1,0 +1,410 @@
+{
+  "runTime": 1720258471411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800495,
+        "num": 1800495,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526389,
+        "num": 526389,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3536,
+        "num": 456783,
+        "word": "河海共生津韵悠扬",
+        "onboard_time": 1720191921,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567217,
+        "num": 456677,
+        "word": "默杀 女性受害特写",
+        "onboard_time": 1720252337,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453506,
+        "num": 453506,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437124,
+        "num": 437124,
+        "word": "张志杰妈妈悲伤过度入院",
+        "onboard_time": 1720248977,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494546,
+        "num": 429436,
+        "word": "李一桐巴黎偶遇中国游泳队",
+        "onboard_time": 1720255158,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 391374,
+        "num": 391374,
+        "word": "全网医生联名让老师把这4分还给学生",
+        "onboard_time": 1720255699,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 361752,
+        "num": 361752,
+        "word": "李嘉琦发文告别芬芳喜事",
+        "onboard_time": 1720249637,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56848,
+        "num": 343406,
+        "word": "36岁身高1米2的他倒挂下井救儿童",
+        "onboard_time": 1720257618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339559,
+        "num": 339559,
+        "word": "法国1300年古剑被人从悬崖上拔走",
+        "onboard_time": 1720248857,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302815,
+        "num": 302815,
+        "word": "度华年播到横店大雪那场戏了",
+        "onboard_time": 1720255758,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266333,
+        "num": 266333,
+        "word": "直击洞庭湖决堤救援一线",
+        "onboard_time": 1720253357,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254650,
+        "num": 254650,
+        "word": "洞庭湖决口开始封堵合龙",
+        "onboard_time": 1720252038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252210,
+        "num": 252210,
+        "word": "警方通报北京地铁大爷女儿含泪发声",
+        "onboard_time": 1720245678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223016,
+        "num": 223016,
+        "word": "伞少女",
+        "onboard_time": 1720257737,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206526,
+        "num": 206526,
+        "word": "杨紫小夭平静的疯批感",
+        "onboard_time": 1720257197,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38811,
+        "num": 183212,
+        "word": "夏日你会选择哪种运动方式",
+        "onboard_time": 1720255518,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177283,
+        "num": 177283,
+        "word": "陈幸同曼谷站止步16强",
+        "onboard_time": 1720256717,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151942,
+        "num": 151942,
+        "word": "霸气涂山璟回归",
+        "onboard_time": 1720248917,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374831,
+        "num": 149588,
+        "word": "英国新任副首相16岁时曾怀孕辍学",
+        "onboard_time": 1720251797,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359222,
+        "num": 148448,
+        "word": "我的发颠朋友圈被我爸做成Excel了",
+        "onboard_time": 1720253778,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197556,
+        "num": 148345,
+        "word": "刘美含cos严莉莉",
+        "onboard_time": 1720254197,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146796,
+        "num": 146796,
+        "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
+        "onboard_time": 1720254259,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144004,
+        "num": 144004,
+        "word": "张新成 自由才是最大的不自由",
+        "onboard_time": 1720254739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139776,
+        "num": 139776,
+        "word": "李玟二姐发文",
+        "onboard_time": 1720252217,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138746,
+        "num": 138746,
+        "word": "默杀票房破2亿",
+        "onboard_time": 1720251797,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134951,
+        "num": 134951,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127423,
+        "num": 127423,
+        "word": "默杀 一惊一乍的",
+        "onboard_time": 1720251679,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126962,
+        "num": 126962,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123491,
+        "num": 123491,
+        "word": "预计下午开始封堵洞庭湖决堤口",
+        "onboard_time": 1720250418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122066,
+        "num": 122066,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117872,
+        "num": 117872,
+        "word": "林心如 女儿长大了",
+        "onboard_time": 1720242317,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117651,
+        "num": 117651,
+        "word": "独自旅行的意义",
+        "onboard_time": 1720254617,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114540,
+        "num": 114540,
+        "word": "王源被强制开机",
+        "onboard_time": 1720253357,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114319,
+        "num": 114319,
+        "word": "水位落差0.1米洞庭湖决堤口将封堵",
+        "onboard_time": 1720244717,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109711,
+        "num": 109711,
+        "word": "陈昊宇杂志",
+        "onboard_time": 1720246996,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108334,
+        "num": 108334,
+        "word": "妈妈洪灾后收到儿子北大录取通知书",
+        "onboard_time": 1720255758,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104996,
+        "num": 104996,
+        "word": "张志杰姐姐称已拿到当地的医疗报告",
+        "onboard_time": 1720249757,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103046,
+        "num": 103046,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102400,
+        "num": 102400,
+        "word": "为什么尽早接种流脑疫苗",
+        "onboard_time": 1720250177,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102165,
+        "num": 102165,
+        "word": "薛之谦演唱会伴舞头套",
+        "onboard_time": 1720256059,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97893,
+        "num": 97893,
+        "word": "于正发长文聊李梦",
+        "onboard_time": 1720237217,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97535,
+        "num": 97535,
+        "word": "谢可寅吴宣仪一言不合就跳舞",
+        "onboard_time": 1720256298,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 97041,
+        "word": "林高远3比0黄镇廷",
+        "onboard_time": 1720257438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96280,
+        "num": 96280,
+        "word": "李沁绾心记路透",
+        "onboard_time": 1720249697,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10210,
+        "num": 95224,
+        "word": "健身人最近都在居家云备赛",
+        "onboard_time": 1720258277,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94263,
+        "num": 94263,
+        "word": "王俊凯说我们是一个team",
+        "onboard_time": 1720249518,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93344,
+        "num": 93344,
+        "word": "王传君演技",
+        "onboard_time": 1720258398,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89845,
+        "num": 89845,
+        "word": "只卖火锅的海底捞还有人买账吗",
+        "onboard_time": 1720243878,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#以上海精神建设上合共同家园#"
+    }
+  }
+}
