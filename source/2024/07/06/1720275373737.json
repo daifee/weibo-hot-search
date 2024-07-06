@@ -1,0 +1,410 @@
+{
+  "runTime": 1720275373737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290903,
+        "num": 1290903,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1078570,
+        "num": 1078570,
+        "word": "秦彻cv",
+        "onboard_time": 1720268298,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34505,
+        "num": 940651,
+        "word": "115秒看懂中塔友谊",
+        "onboard_time": 1720254499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1168087,
+        "num": 910806,
+        "word": "抓娃娃否认撤档",
+        "onboard_time": 1720273280,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 874339,
+        "num": 874339,
+        "word": "日本2男子将50岁同事放洗衣机",
+        "onboard_time": 1720272620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561224,
+        "num": 561224,
+        "word": "扬州地震",
+        "onboard_time": 1720274539,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703603,
+        "num": 532143,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563973,
+        "num": 528393,
+        "word": "汪苏泷连夜追加八百万",
+        "onboard_time": 1720273757,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498780,
+        "num": 498780,
+        "word": "秦彻好帅",
+        "onboard_time": 1720268896,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74752,
+        "num": 477585,
+        "word": "离职8年后因前老板涉黑获刑",
+        "onboard_time": 1720274420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544193,
+        "num": 476046,
+        "word": "存款多少才敢辞职",
+        "onboard_time": 1720272738,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473091,
+        "num": 473091,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467290,
+        "num": 467290,
+        "word": "你好星期六下期吴谨言王星越",
+        "onboard_time": 1720272020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462375,
+        "num": 462375,
+        "word": "何捷叫张馨予胖子",
+        "onboard_time": 1720262898,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431700,
+        "num": 431700,
+        "word": "韩廷 孟宴臣",
+        "onboard_time": 1720274178,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367396,
+        "num": 367396,
+        "word": "默杀",
+        "onboard_time": 1720272978,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322802,
+        "num": 322802,
+        "word": "警方通报川藏线孕妇插队事件",
+        "onboard_time": 1720266558,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238371,
+        "num": 238371,
+        "word": "鲫鱼汤做出了鱼溺水的感觉",
+        "onboard_time": 1720263917,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211759,
+        "num": 211759,
+        "word": "申花6球大胜泰山创造最大分差",
+        "onboard_time": 1720274539,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206739,
+        "num": 206739,
+        "word": "摆拍生吃见手青网红已被禁言",
+        "onboard_time": 1720273939,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799530,
+        "num": 205901,
+        "word": "奉劝晚婚的人不要随份子钱",
+        "onboard_time": 1720271838,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484728,
+        "num": 204721,
+        "word": "去已婚姐姐家过暑假要给生活费吗",
+        "onboard_time": 1720265538,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363782,
+        "num": 202813,
+        "word": "裴文宣死得很惨但想得很美",
+        "onboard_time": 1720267697,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341922,
+        "num": 201703,
+        "word": "林俊杰新歌",
+        "onboard_time": 1720274600,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268156,
+        "num": 200314,
+        "word": "陈哲远新剧化了眼睑下至",
+        "onboard_time": 1720271237,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237835,
+        "num": 198819,
+        "word": "在小县城用联名公交卡被骂了",
+        "onboard_time": 1720274539,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197627,
+        "num": 197627,
+        "word": "王星越抱吴谨言心率142",
+        "onboard_time": 1720273639,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197327,
+        "num": 197327,
+        "word": "英格兰vs瑞士",
+        "onboard_time": 1720274718,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194266,
+        "num": 194266,
+        "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+        "onboard_time": 1720261098,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186915,
+        "num": 186915,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1720271838,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 878420,
+        "num": 184283,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210742,
+        "num": 183752,
+        "word": "霸王茶姬捐500万元支援华容县",
+        "onboard_time": 1720262236,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180157,
+        "num": 180157,
+        "word": "坚持运动40年的身材",
+        "onboard_time": 1720268599,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170355,
+        "num": 170355,
+        "word": "此次洞庭湖大堤决口由管涌引起",
+        "onboard_time": 1720260196,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158317,
+        "num": 158317,
+        "word": "洞庭湖决堤封堵预计6至7天完成",
+        "onboard_time": 1720263616,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157788,
+        "num": 157788,
+        "word": "夏以昼呢",
+        "onboard_time": 1720272318,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153608,
+        "num": 153608,
+        "word": "十个勤天北京",
+        "onboard_time": 1720266978,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153491,
+        "num": 153491,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1720270338,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151323,
+        "num": 151323,
+        "word": "你好星期六",
+        "onboard_time": 1720270938,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151203,
+        "num": 151203,
+        "word": "秦海璐体脂率下降的7个小习惯",
+        "onboard_time": 1720263198,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150924,
+        "num": 150924,
+        "word": "薛之谦去往鸟巢万人现场的路走了18年",
+        "onboard_time": 1720267637,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148815,
+        "num": 148815,
+        "word": "为什么现在很少用黄瓜片敷面膜了",
+        "onboard_time": 1720261399,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147110,
+        "num": 147110,
+        "word": "天秤座如何快乐起来",
+        "onboard_time": 1720266378,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140685,
+        "num": 140685,
+        "word": "王俊凯穿童年王俊凯",
+        "onboard_time": 1720271418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 136528,
+        "word": "男主人意外去世狗狗痛哭",
+        "onboard_time": 1720260917,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132508,
+        "num": 132508,
+        "word": "克罗斯发文正式退役",
+        "onboard_time": 1720270338,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130092,
+        "num": 130092,
+        "word": "全力守住第二道防线",
+        "onboard_time": 1720272318,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122581,
+        "num": 122581,
+        "word": "林高远3比1廖振珽",
+        "onboard_time": 1720273158,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121434,
+        "num": 121434,
+        "word": "恋与深空2.0交错视界",
+        "onboard_time": 1720270397,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115408,
+        "num": 115408,
+        "word": "暑期档第一部校园剧来了",
+        "onboard_time": 1720267818,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代化道路上的同路人#"
+    }
+  }
+}

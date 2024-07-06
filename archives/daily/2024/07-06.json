@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720272865602,
+  "endTime": 1720275373737,
   "band_list": [
     {
       "raw_hot": 2450027,
@@ -75,6 +75,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1290903,
+      "num": 1290903,
+      "word": "丁程鑫真的泼了王俊凯",
+      "onboard_time": 1720274479,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1168087,
+      "num": 910806,
+      "word": "抓娃娃否认撤档",
+      "onboard_time": 1720273280,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1139487,
       "num": 1139487,
       "word": "731部队鼠疫实验最新罪证",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1018124,
-      "num": 379062,
+      "num": 462375,
       "word": "何捷叫张馨予胖子",
       "onboard_time": 1720262898,
       "rank": 10,
@@ -156,10 +172,18 @@
     },
     {
       "raw_hot": 920146,
-      "num": 174828,
+      "num": 184283,
       "word": "钓鱼网红周翠翠夫妇去世",
       "onboard_time": 1720270997,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874339,
+      "num": 874339,
+      "word": "日本2男子将50岁同事放洗衣机",
+      "onboard_time": 1720272620,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -201,6 +225,14 @@
       "onboard_time": 1720242317,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 799530,
+      "num": 222683,
+      "word": "奉劝晚婚的人不要随份子钱",
+      "onboard_time": 1720271838,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 796342,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 620851,
-      "num": 173353,
+      "num": 183752,
       "word": "霸王茶姬捐500万元支援华容县",
       "onboard_time": 1720262236,
       "rank": 30,
@@ -387,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562857,
-      "num": 222683,
-      "word": "奉劝晚婚的人不要随份子钱",
-      "onboard_time": 1720271838,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 563973,
+      "num": 528393,
+      "word": "汪苏泷连夜追加八百万",
+      "onboard_time": 1720273757,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 561224,
+      "num": 561224,
+      "word": "扬州地震",
+      "onboard_time": 1720274539,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559445,
@@ -433,6 +473,14 @@
       "onboard_time": 1720184841,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544193,
+      "num": 476046,
+      "word": "存款多少才敢辞职",
+      "onboard_time": 1720272738,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 541518,
@@ -555,6 +603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467290,
+      "num": 467290,
+      "word": "你好星期六下期吴谨言王星越",
+      "onboard_time": 1720272020,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463359,
       "num": 463359,
       "word": "张凌赫赵今麦 尼克朱迪",
@@ -617,6 +673,14 @@
       "onboard_time": 1720264698,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 431700,
+      "num": 431700,
+      "word": "韩廷 孟宴臣",
+      "onboard_time": 1720274178,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 430878,
@@ -779,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367396,
+      "num": 367396,
+      "word": "默杀",
+      "onboard_time": 1720272978,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359500,
       "num": 359500,
       "word": "德国队 意难平",
@@ -881,6 +953,14 @@
       "onboard_time": 1720221494,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 341922,
+      "num": 201703,
+      "word": "林俊杰新歌",
+      "onboard_time": 1720274600,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 339955,
@@ -1019,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 268156,
+      "num": 222139,
+      "word": "陈哲远新剧化了眼睑下至",
+      "onboard_time": 1720271237,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260159,
       "num": 260159,
       "word": "伞少女",
@@ -1059,22 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251034,
-      "num": 222139,
-      "word": "陈哲远新剧化了眼睑下至",
-      "onboard_time": 1720271237,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250032,
-      "num": 217363,
-      "word": "你好星期六下期吴谨言王星越",
-      "onboard_time": 1720272020,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249859,
       "num": 249859,
       "word": "中国男排3比0埃及男排",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1720223475,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237835,
+      "num": 198819,
+      "word": "在小县城用联名公交卡被骂了",
+      "onboard_time": 1720274539,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 234684,
@@ -1227,6 +1307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 211759,
+      "num": 211759,
+      "word": "申花6球大胜泰山创造最大分差",
+      "onboard_time": 1720274539,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209903,
       "num": 204510,
       "word": "张志杰姐姐再发文",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1720251679,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206739,
+      "num": 206739,
+      "word": "摆拍生吃见手青网红已被禁言",
+      "onboard_time": 1720273939,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206526,
@@ -1355,12 +1451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197627,
+      "num": 197627,
+      "word": "王星越抱吴谨言心率142",
+      "onboard_time": 1720273639,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197556,
       "num": 165719,
       "word": "刘美含cos严莉莉",
       "onboard_time": 1720254197,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197327,
+      "num": 197327,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 195717,
@@ -1779,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158500,
-      "num": 158500,
-      "word": "日本2男子将50岁同事放洗衣机",
-      "onboard_time": 1720272620,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157553,
       "num": 157553,
       "word": "克罗斯发文正式退役",
@@ -1987,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140685,
+      "num": 140685,
+      "word": "王俊凯穿童年王俊凯",
+      "onboard_time": 1720271418,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140348,
       "num": 140348,
       "word": "香缇莫 袁咏琳",
@@ -2115,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130092,
+      "num": 281019,
+      "word": "全力守住第二道防线",
+      "onboard_time": 1720272318,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129159,
       "num": 156221,
       "word": "原来全红婵也在看热搜",
@@ -2195,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122581,
+      "num": 122581,
+      "word": "林高远3比1廖振珽",
+      "onboard_time": 1720273158,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121951,
       "num": 121951,
       "word": "洞庭湖决堤5755人安全转移",
@@ -2217,14 +2345,6 @@
       "onboard_time": 1720271778,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121069,
-      "num": 121069,
-      "word": "存款多少才敢辞职",
-      "onboard_time": 1720272738,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 120146,
@@ -2280,14 +2400,6 @@
       "word": "那英 清唱",
       "onboard_time": 1720183039,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117826,
-      "num": 117826,
-      "word": "王俊凯穿童年王俊凯",
-      "onboard_time": 1720271418,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2691,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74752,
+      "num": 477585,
+      "word": "离职8年后因前老板涉黑获刑",
+      "onboard_time": 1720274420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74132,
       "num": 305829,
       "word": "绘旅人夏季新版本",
@@ -2835,14 +2955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48716,
-      "num": 281019,
-      "word": "全力守住第二道防线",
-      "onboard_time": 1720272318,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48537,
       "num": 398153,
       "word": "居民讲述洞庭湖决堤卡车封堵细节",
@@ -2868,7 +2980,7 @@
     },
     {
       "raw_hot": 42795,
-      "num": 930108,
+      "num": 940651,
       "word": "115秒看懂中塔友谊",
       "onboard_time": 1720254499,
       "rank": 45,
