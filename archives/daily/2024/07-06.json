@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720264610523,
+  "endTime": 1720265667127,
   "band_list": [
     {
       "raw_hot": 1972038,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1018124,
-      "num": 240569,
+      "num": 274852,
       "word": "何捷叫张馨予胖子",
       "onboard_time": 1720262898,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 620851,
+      "num": 126314,
+      "word": "霸王茶姬捐500万元支援华容县",
+      "onboard_time": 1720262236,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611949,
       "num": 611949,
       "word": "何运晨 飞机延误",
@@ -363,14 +371,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 523230,
-      "num": 126314,
-      "word": "霸王茶姬捐500万元支援华容县",
-      "onboard_time": 1720262236,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 521585,
       "num": 521585,
       "word": "于正发长文聊李梦",
@@ -417,6 +417,14 @@
       "onboard_time": 1720225816,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485971,
+      "num": 485971,
+      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+      "onboard_time": 1720261098,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482143,
@@ -475,12 +483,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 456358,
-      "num": 235563,
-      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
-      "onboard_time": 1720261098,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 462621,
+      "num": 462621,
+      "word": "男主人意外去世狗狗痛哭",
+      "onboard_time": 1720260917,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 455347,
@@ -571,20 +579,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 402152,
-      "num": 176937,
-      "word": "男主人意外去世狗狗痛哭",
-      "onboard_time": 1720260917,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 400621,
       "num": 269937,
       "word": "为什么有人吃饭总是剩一口",
       "onboard_time": 1720240998,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 398210,
+      "num": 268845,
+      "word": "731部队曾向常德投撒36公斤鼠疫跳蚤",
+      "onboard_time": 1720263557,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396288,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355566,
+      "num": 355566,
+      "word": "此次洞庭湖大堤决口由管涌引起",
+      "onboard_time": 1720260196,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354797,
       "num": 354797,
       "word": "汪苏泷 甜妹",
@@ -747,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 344757,
+      "num": 264168,
+      "word": "鲫鱼汤做出了鱼溺水的感觉",
+      "onboard_time": 1720263917,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 343691,
       "num": 343691,
       "word": "今年的三伏40天",
@@ -761,14 +785,6 @@
       "onboard_time": 1720228757,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339663,
-      "num": 339663,
-      "word": "此次洞庭湖大堤决口由管涌引起",
-      "onboard_time": 1720260196,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338039,
@@ -827,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284568,
+      "num": 284568,
+      "word": "秦海璐体脂率下降的7个小习惯",
+      "onboard_time": 1720263198,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276971,
       "num": 276971,
       "word": "从贵州回来的人嘴真严啊",
@@ -883,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254182,
+      "num": 254182,
+      "word": "绝区零下载破5000万",
+      "onboard_time": 1720264878,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249859,
       "num": 249859,
       "word": "中国男排3比0埃及男排",
@@ -899,20 +931,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249433,
+      "num": 249433,
+      "word": "恋与深空",
+      "onboard_time": 1720264698,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244099,
       "num": 244099,
       "word": "李沁绾心记路透",
       "onboard_time": 1720249697,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243792,
-      "num": 243792,
-      "word": "秦海璐体脂率下降的7个小习惯",
-      "onboard_time": 1720263198,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 238492,
@@ -929,14 +961,6 @@
       "onboard_time": 1720223475,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 234979,
-      "num": 234979,
-      "word": "731部队曾向常德投撒36公斤鼠疫跳蚤",
-      "onboard_time": 1720263557,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234684,
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 231737,
-      "num": 143710,
+      "num": 154120,
       "word": "为什么现在很少用黄瓜片敷面膜了",
       "onboard_time": 1720261399,
       "rank": 31,
@@ -985,6 +1009,14 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 217382,
+      "num": 152475,
+      "word": "去已婚姐姐家过暑假要给生活费吗",
+      "onboard_time": 1720265538,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 215471,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1720230078,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203930,
+      "num": 140739,
+      "word": "张钧甯说我老公种的金桔好有营养",
+      "onboard_time": 1720264698,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 202741,
@@ -1348,7 +1388,7 @@
     },
     {
       "raw_hot": 174296,
-      "num": 129043,
+      "num": 151829,
       "word": "王鹤棣下班跑出残影",
       "onboard_time": 1720263318,
       "rank": 24,
@@ -1377,14 +1417,6 @@
       "onboard_time": 1720246398,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171442,
-      "num": 126071,
-      "word": "鲫鱼汤做出了鱼溺水的感觉",
-      "onboard_time": 1720263917,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 171405,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1720238837,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "洞庭湖决堤封堵预计6至7天完成",
+      "onboard_time": 1720263616,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165566,
@@ -1771,14 +1811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132117,
-      "num": 132117,
-      "word": "洞庭湖决堤封堵预计6至7天完成",
-      "onboard_time": 1720263616,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130432,
       "num": 130432,
       "word": "涂山璟无缘今年奥运",
@@ -1939,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117580,
+      "num": 117580,
+      "word": "还以为在跟魏大勋视频通话",
+      "onboard_time": 1720265297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116531,
       "num": 116531,
       "word": "头包脸披发教程",
@@ -2091,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103950,
+      "num": 103950,
+      "word": "周鸿祎吃菌子看到狗和他说话",
+      "onboard_time": 1720264517,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101545,
       "num": 101545,
       "word": "2024欧洲杯",
@@ -2187,6 +2235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95072,
+      "num": 95072,
+      "word": "孙楠扁桃体发炎",
+      "onboard_time": 1720265177,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94164,
       "num": 94164,
       "word": "严浩翔头球",
@@ -2235,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84849,
+      "num": 84849,
+      "word": "LGD配合",
+      "onboard_time": 1720264457,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82778,
       "num": 82778,
       "word": "费迪南德说C罗仍会激励孩子们",
@@ -2243,28 +2307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82768,
-      "num": 82768,
-      "word": "LGD配合",
-      "onboard_time": 1720264457,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80867,
       "num": 256467,
       "word": "上海最红展览city不city",
       "onboard_time": 1720247118,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79830,
-      "num": 79830,
-      "word": "周鸿祎吃菌子看到狗和他说话",
-      "onboard_time": 1720264517,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 74132,
@@ -2435,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45029,
+      "num": 110839,
+      "word": "给巴黎一点中国茶饮震撼",
+      "onboard_time": 1720265177,
+      "rank": 34,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 38869,
       "num": 378470,
       "word": "仪仗队离开前将中国零食分给留学生",
@@ -2507,6 +2563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29165,
+      "num": 465161,
+      "word": "115秒看懂中塔友谊",
+      "onboard_time": 1720254499,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28297,
+      "num": 242353,
+      "word": "专家解读洞庭湖救援重点",
+      "onboard_time": 1720263616,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26621,
       "num": 71554,
       "word": "饲养员摆喜宴给企鹅办集体婚礼",
@@ -2531,19 +2603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22828,
-      "num": 396893,
-      "word": "115秒看懂中塔友谊",
-      "onboard_time": 1720254499,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19897,
-      "num": 242353,
-      "word": "专家解读洞庭湖救援重点",
-      "onboard_time": 1720263616,
-      "rank": 9,
+      "raw_hot": 23598,
+      "num": 182890,
+      "word": "零食店把泡面和水搬空支援华容",
+      "onboard_time": 1720263198,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
