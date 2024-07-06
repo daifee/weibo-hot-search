@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720251286091,
+  "endTime": 1720254273959,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1136250,
-      "num": 607997,
+      "num": 691144,
       "word": "张志杰妈妈悲伤过度入院",
       "onboard_time": 1720248977,
       "rank": 5,
@@ -81,6 +81,22 @@
       "onboard_time": 1720245678,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1004339,
+      "num": 1004339,
+      "word": "李嘉琦发文告别芬芳喜事",
+      "onboard_time": 1720249637,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 985355,
+      "num": 695903,
+      "word": "单依纯想整容被医生拒绝",
+      "onboard_time": 1720253597,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 965290,
@@ -179,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 699786,
+      "num": 699786,
+      "word": "法国1300年古剑被人从悬崖上拔走",
+      "onboard_time": 1720248857,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690781,
       "num": 690781,
       "word": "王健林又卖核心资产",
@@ -217,14 +241,6 @@
       "onboard_time": 1720238059,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 630891,
-      "num": 630891,
-      "word": "法国1300年古剑被人从悬崖上拔走",
-      "onboard_time": 1720248857,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 611949,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479337,
+      "num": 479337,
+      "word": "预计下午开始封堵洞庭湖决堤口",
+      "onboard_time": 1720250418,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468833,
       "num": 279341,
       "word": "你的手机号绑定了多少APP",
@@ -377,6 +401,14 @@
       "onboard_time": 1720243578,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463090,
+      "num": 236748,
+      "word": "英国新任副首相16岁时曾怀孕辍学",
+      "onboard_time": 1720251797,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 455347,
@@ -443,12 +475,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 414389,
+      "num": 414389,
+      "word": "洞庭湖决口开始封堵合龙",
+      "onboard_time": 1720252038,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413955,
       "num": 413955,
       "word": "张志杰姐姐称已拿到当地的医疗报告",
       "onboard_time": 1720249757,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407768,
+      "num": 407768,
+      "word": "默杀 女性受害特写",
+      "onboard_time": 1720252337,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 402943,
@@ -523,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373640,
-      "num": 373640,
-      "word": "李嘉琦发文告别芬芳喜事",
-      "onboard_time": 1720249637,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367856,
       "num": 367856,
       "word": "宾馆老板见男子带幼女开房立刻报警",
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 351349,
-      "num": 214651,
+      "num": 223645,
       "word": "王俊凯说我们是一个team",
       "onboard_time": 1720249518,
       "rank": 24,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317634,
+      "num": 317634,
+      "word": "李玟二姐发文",
+      "onboard_time": 1720252217,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317522,
       "num": 317522,
       "word": "孙怡带女儿度假",
@@ -691,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 264851,
+      "num": 510857,
+      "word": "直击洞庭湖决堤救援一线",
+      "onboard_time": 1720253357,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257858,
       "num": 257858,
       "word": "蒋敦豪演唱会抢票",
@@ -721,6 +777,14 @@
       "onboard_time": 1720249697,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238492,
+      "num": 238492,
+      "word": "王源被强制开机",
+      "onboard_time": 1720253357,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 237929,
@@ -771,14 +835,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 215494,
-      "num": 215494,
-      "word": "预计下午开始封堵洞庭湖决堤口",
-      "onboard_time": 1720250418,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215471,
       "num": 215471,
       "word": "时空中的绘旅人",
@@ -817,6 +873,14 @@
       "onboard_time": 1720237516,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209903,
+      "num": 204510,
+      "word": "张志杰姐姐再发文",
+      "onboard_time": 1720252577,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 208581,
@@ -1235,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151206,
+      "num": 151206,
+      "word": "王鹤棣特步活动",
+      "onboard_time": 1720253478,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -1371,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139042,
+      "num": 139042,
+      "word": "我的发颠朋友圈被我爸做成Excel了",
+      "onboard_time": 1720253778,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137735,
       "num": 137735,
       "word": "五月天二开",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1720195099,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136702,
+      "num": 136702,
+      "word": "默杀票房破2亿",
+      "onboard_time": 1720251797,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 134547,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1720251076,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127675,
+      "num": 122288,
+      "word": "默杀 一惊一乍的",
+      "onboard_time": 1720251679,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 127106,
@@ -1603,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112353,
+      "num": 112353,
+      "word": "猫猫 我的玩偶变小了",
+      "onboard_time": 1720252157,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110149,
       "num": 66286,
       "word": "葡萄牙vs法国首发",
@@ -1627,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107522,
+      "num": 107522,
+      "word": "TE对战Wolves",
+      "onboard_time": 1720253838,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107087,
       "num": 107087,
       "word": "巨蟹座新月许愿",
       "onboard_time": 1720196957,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 106909,
+      "word": "强迫症最喜欢的木工活",
+      "onboard_time": 1720254018,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 105866,
@@ -1657,6 +1777,14 @@
       "onboard_time": 1720177939,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100274,
+      "num": 100274,
+      "word": "刘美含cos严莉莉",
+      "onboard_time": 1720254197,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 99656,
@@ -1699,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96138,
+      "num": 96138,
+      "word": "小男孩看欧洲杯捡杯子2分钟赚1000元",
+      "onboard_time": 1720254259,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96087,
       "num": 96087,
       "word": "西班牙2比1德国",
@@ -1713,6 +1849,14 @@
       "onboard_time": 1720227019,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94164,
+      "num": 94164,
+      "word": "严浩翔头球",
+      "onboard_time": 1720252457,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 92800,
@@ -1987,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24084,
+      "num": 238537,
+      "word": "女子暴雨中摔倒兵哥哥飞奔而来",
+      "onboard_time": 1720253118,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19537,
       "num": 354572,
       "word": "凉山男孩帮不识字亲人填表",
@@ -2043,6 +2195,9 @@
     },
     {
       "word": "#习近平结束对塔吉克斯坦的国事访问#"
+    },
+    {
+      "word": "#习近平主席的塔吉克斯坦时间#"
     }
   ]
 }
