@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720290253769,
+  "endTime": 1720290993175,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333682,
+      "num": 333682,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322122,
       "num": 185744,
       "word": "奉劝晚婚的人不要随份子钱",
@@ -137,14 +145,6 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 294805,
-      "num": 294805,
-      "word": "英格兰vs瑞士",
-      "onboard_time": 1720274718,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 287452,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60162,
+      "num": 54321,
+      "word": "G2战胜Fly",
+      "onboard_time": 1720290012,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59654,
       "num": 59654,
       "word": "荷兰vs土耳其",
@@ -449,6 +457,14 @@
       "onboard_time": 1720277540,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30861,
+      "num": 34716,
+      "word": "卢沟桥事变亲历者郑福来老人去世",
+      "onboard_time": 1720290973,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27360,
