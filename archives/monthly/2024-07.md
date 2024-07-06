@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/07 03:34:15
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/07 04:19:40
 </p>
 </blockquote>
 <p>
@@ -4275,6 +4275,12 @@ BLG的钥匙当场被碾压（热度：344192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98G2%23" target="weibo">
+TES对战G2（热度：328299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%BC%80%E5%BC%A0%E6%9D%B0%E8%B0%81%E8%BF%98%E6%8A%8A%E6%88%91%E5%BD%93%E5%B0%8F%E5%AD%A9%23" target="weibo">
 离开张杰谁还把我当小孩（热度：328213）
 </a>
@@ -6005,12 +6011,6 @@ ENHYPEN空降（热度：214097）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AC%A3%E7%91%9C%20%E6%B8%A9%E7%BD%91%23" target="weibo">
 王欣瑜 温网（热度：211935）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%8A%B16%E7%90%83%E5%A4%A7%E8%83%9C%E6%B3%B0%E5%B1%B1%E5%88%9B%E9%80%A0%E6%9C%80%E5%A4%A7%E5%88%86%E5%B7%AE%23" target="weibo">
-申花6球大胜泰山创造最大分差（热度：211759）
 </a>
 </li>
 
