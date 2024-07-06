@@ -1,0 +1,410 @@
+{
+  "runTime": 1720239791764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 891407,
+        "num": 891407,
+        "word": "大麦 抢不到",
+        "onboard_time": 1720236618,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 843641,
+        "num": 843641,
+        "word": "山东龙卷风致5死83伤",
+        "onboard_time": 1720237697,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32706,
+        "num": 646341,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1569630,
+        "num": 641483,
+        "word": "比预制菜更可怕的现做菜",
+        "onboard_time": 1720236436,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1147672,
+        "num": 640841,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632746,
+        "num": 632746,
+        "word": "吴谨言王星越芭莎大片",
+        "onboard_time": 1720238059,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 457194,
+        "num": 457194,
+        "word": "那英的刘海是为了遮带状疱疹",
+        "onboard_time": 1720229358,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452566,
+        "num": 452566,
+        "word": "731部队鼠疫实验最新罪证",
+        "onboard_time": 1720229836,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379926,
+        "num": 379926,
+        "word": "于正发长文聊李梦",
+        "onboard_time": 1720237217,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39464,
+        "num": 371908,
+        "word": "塔吉克斯坦人也有一颗中国胃",
+        "onboard_time": 1720238418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461996,
+        "num": 370136,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365561,
+        "num": 365561,
+        "word": "朱也天被北大正式录取",
+        "onboard_time": 1720236257,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301621,
+        "num": 301621,
+        "word": "洞庭湖决口两端将建设裹头",
+        "onboard_time": 1720234938,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291980,
+        "num": 291980,
+        "word": "王健林又卖核心资产",
+        "onboard_time": 1720232777,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264602,
+        "num": 264602,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263700,
+        "num": 263700,
+        "word": "婉宁公主是李梦主动找于正争取的",
+        "onboard_time": 1720230797,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229123,
+        "num": 229123,
+        "word": "张婧仪 三大奢牌",
+        "onboard_time": 1720230857,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261827,
+        "num": 224576,
+        "word": "纪星戴了婚戒丢了爱情",
+        "onboard_time": 1720235177,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218795,
+        "num": 218795,
+        "word": "佩泽什基安在伊朗总统选举中获胜",
+        "onboard_time": 1720238897,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218042,
+        "num": 218042,
+        "word": "iPhone16Pro或配15ProMax同款镜头",
+        "onboard_time": 1720229118,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53812,
+        "num": 217453,
+        "word": "绘旅人新聊斋",
+        "onboard_time": 1720238537,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80802,
+        "num": 216587,
+        "word": "武警消防在洞庭湖连夜救援",
+        "onboard_time": 1720234758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455190,
+        "num": 215440,
+        "word": "长期不运动身体会发生什么",
+        "onboard_time": 1720235298,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 379584,
+        "num": 214504,
+        "word": "王俊凯追丁程鑫",
+        "onboard_time": 1720236738,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345028,
+        "num": 213893,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232447,
+        "num": 212252,
+        "word": "有些水果吃着甜却热量低",
+        "onboard_time": 1720237937,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212081,
+        "num": 212081,
+        "word": "李昀锐叫小鬼 鬼鬼",
+        "onboard_time": 1720237516,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210979,
+        "num": 210979,
+        "word": "郑恺说找不到苗苗会有舆情",
+        "onboard_time": 1720239317,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356383,
+        "num": 207756,
+        "word": "何炅左手吴昕右手王俊凯",
+        "onboard_time": 1720236557,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200601,
+        "num": 200601,
+        "word": "伊朗总统大选结果揭晓",
+        "onboard_time": 1720239078,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 199616,
+        "word": "肖战男大运动风",
+        "onboard_time": 1720239438,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191797,
+        "num": 191797,
+        "word": "16个外甥又来舅舅家过暑假了",
+        "onboard_time": 1720224857,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191763,
+        "num": 191763,
+        "word": "从贵州回来的人嘴真严啊",
+        "onboard_time": 1720235056,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189577,
+        "num": 189577,
+        "word": "你好星期六全员孩子气",
+        "onboard_time": 1720234217,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187187,
+        "num": 187187,
+        "word": "蒋敦豪演唱会抢票",
+        "onboard_time": 1720239498,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183824,
+        "num": 183824,
+        "word": "丁太升评歌手第九期",
+        "onboard_time": 1720239498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177269,
+        "num": 177269,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1720239438,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176972,
+        "num": 176972,
+        "word": "龙卷风",
+        "onboard_time": 1720238117,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169348,
+        "num": 169348,
+        "word": "歌手排名",
+        "onboard_time": 1720190242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166024,
+        "num": 166024,
+        "word": "周深 没事哒",
+        "onboard_time": 1720238837,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165706,
+        "num": 165706,
+        "word": "首批武警已抵达洞庭湖开始救援",
+        "onboard_time": 1720197798,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158998,
+        "num": 158998,
+        "word": "传说repo",
+        "onboard_time": 1720238477,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152890,
+        "num": 152890,
+        "word": "宋雨琦 cube",
+        "onboard_time": 1720225816,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152053,
+        "num": 152053,
+        "word": "直播洞庭湖抢险现场",
+        "onboard_time": 1720223896,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149659,
+        "num": 149659,
+        "word": "延安中学",
+        "onboard_time": 1720224796,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148528,
+        "num": 148528,
+        "word": "范丞丞 脾气真好",
+        "onboard_time": 1720239137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144611,
+        "num": 144611,
+        "word": "你的手机号绑定了多少APP",
+        "onboard_time": 1720229836,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141922,
+        "num": 141922,
+        "word": "杭州东站回应被指站台沉降",
+        "onboard_time": 1720239378,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126590,
+        "num": 126590,
+        "word": "首批300余人抵达洞庭湖溃口展开救援",
+        "onboard_time": 1720232477,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120737,
+        "num": 120737,
+        "word": "睡前不刷牙将是对牙齿的恐怖待遇",
+        "onboard_time": 1720192040,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同塔吉克斯坦总统举行会谈#"
+    }
+  }
+}
