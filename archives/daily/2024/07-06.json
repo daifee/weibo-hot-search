@@ -1,6 +1,6 @@
 {
   "startTime": 1720196628248,
-  "endTime": 1720228792387,
+  "endTime": 1720230015462,
   "band_list": [
     {
       "raw_hot": 1771255,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1349702,
-      "num": 1349702,
+      "raw_hot": 1370765,
+      "num": 1370765,
       "word": "于适电影 扑街",
       "onboard_time": 1720224557,
       "rank": 0,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 946583,
-      "num": 240776,
+      "num": 272457,
       "word": "睡前不刷牙将是对牙齿的恐怖待遇",
       "onboard_time": 1720192040,
       "rank": 20,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 704107,
-      "num": 240954,
+      "num": 280538,
       "word": "早上空腹喝水真比不吃早餐危害大吗",
       "onboard_time": 1720192222,
       "rank": 21,
@@ -163,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487221,
+      "num": 397516,
+      "word": "延安中学",
+      "onboard_time": 1720224796,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486584,
+      "num": 446757,
+      "word": "宋雨琦 cube",
+      "onboard_time": 1720225816,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482143,
       "num": 482143,
       "word": "警方通报西安交大毕业生李某某事件",
@@ -195,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439350,
-      "num": 439350,
-      "word": "宋雨琦 cube",
-      "onboard_time": 1720225816,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 439145,
+      "num": 439145,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430878,
@@ -299,12 +315,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 340502,
-      "num": 340502,
-      "word": "延安中学",
-      "onboard_time": 1720224796,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 339955,
+      "num": 273916,
+      "word": "曾轶可回复郭碧婷",
+      "onboard_time": 1720228757,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336553,
+      "num": 336553,
+      "word": "那英的刘海是为了遮带状疱疹",
+      "onboard_time": 1720229358,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 322646,
@@ -313,6 +337,14 @@
       "onboard_time": 1720188382,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285670,
+      "num": 285670,
+      "word": "iPhone16Pro或配15ProMax同款镜头",
+      "onboard_time": 1720229118,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 276156,
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179211,
-      "num": 179211,
-      "word": "曾轶可回复郭碧婷",
-      "onboard_time": 1720228757,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176052,
       "num": 176052,
       "word": "香缇莫第八",
@@ -449,6 +473,14 @@
       "onboard_time": 1720205052,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171405,
+      "num": 171405,
+      "word": "JackeyLove 明天加油兄弟们",
+      "onboard_time": 1720229836,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 168953,
@@ -531,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148170,
+      "num": 148170,
+      "word": "731部队鼠疫实验最新罪证",
+      "onboard_time": 1720229836,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144175,
       "num": 144175,
       "word": "西班牙晋级欧洲杯半决赛",
       "onboard_time": 1720221194,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142942,
+      "num": 142942,
+      "word": "沈梦辰做了错饭",
+      "onboard_time": 1720228097,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 140348,
@@ -547,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139107,
-      "num": 139107,
-      "word": "沈梦辰做了错饭",
-      "onboard_time": 1720228097,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 140036,
+      "num": 140036,
+      "word": "黄健翔说足球变得难看了",
+      "onboard_time": 1720228338,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139697,
+      "num": 139697,
+      "word": "你的手机号绑定了多少APP",
+      "onboard_time": 1720229836,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 137036,
@@ -592,6 +648,14 @@
       "word": "原来全红婵也在看热搜",
       "onboard_time": 1720191261,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128285,
+      "num": 128285,
+      "word": "1场比赛 16张黄牌",
+      "onboard_time": 1720229236,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -667,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117083,
-      "num": 117083,
-      "word": "黄健翔说足球变得难看了",
-      "onboard_time": 1720228338,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115745,
       "num": 115745,
       "word": "原来宝宝真的比甲方还难伺候",
@@ -705,6 +761,14 @@
       "onboard_time": 1720192279,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113503,
+      "num": 113503,
+      "word": "Meiko 明天继续加油复仇战2.0",
+      "onboard_time": 1720225337,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 110149,
@@ -753,14 +817,6 @@
       "onboard_time": 1720170198,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 98737,
-      "num": 98737,
-      "word": "Meiko 明天继续加油复仇战2.0",
-      "onboard_time": 1720225337,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 98389,
@@ -833,6 +889,14 @@
       "onboard_time": 1720207271,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72777,
+      "num": 426240,
+      "word": "消防连夜在洞庭湖铺9500米彩条布",
+      "onboard_time": 1720229477,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68130,
@@ -956,6 +1020,9 @@
     },
     {
       "word": "#习主席用塔语问候大家好#"
+    },
+    {
+      "word": "#切实保护好人民群众生命财产安全#"
     }
   ]
 }
