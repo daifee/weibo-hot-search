@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720286167940,
+  "endTime": 1720287263704,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -5851,6 +5851,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 315282,
+      "num": 114342,
+      "word": "天水麻辣烫仍然在批量倒闭",
+      "onboard_time": 1720283419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 314683,
       "num": 169888,
       "word": "合肥之心城",
@@ -6643,14 +6651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262718,
-      "num": 114342,
-      "word": "天水麻辣烫仍然在批量倒闭",
-      "onboard_time": 1720283419,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 262459,
       "num": 204218,
       "word": "李蓉差点18岁就要守寡",
@@ -7385,6 +7385,14 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230210,
+      "num": 230210,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 229303,
@@ -8795,6 +8803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197548,
+      "num": 197548,
+      "word": "电竞世界杯T1对战TL",
+      "onboard_time": 1720282698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197544,
       "num": 197544,
       "word": "虞书欣成打卡点了",
@@ -8809,14 +8825,6 @@
       "onboard_time": 1719828257,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197327,
-      "num": 197327,
-      "word": "英格兰vs瑞士",
-      "onboard_time": 1720274718,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 196853,
@@ -9097,14 +9105,6 @@
       "onboard_time": 1720261639,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 192614,
-      "num": 192614,
-      "word": "电竞世界杯T1对战TL",
-      "onboard_time": 1720282698,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 192462,
@@ -16217,6 +16217,14 @@
       "onboard_time": 1719788774,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64831,
+      "num": 64831,
+      "word": "鞠婧祎周六放饭",
+      "onboard_time": 1720285935,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 64761,

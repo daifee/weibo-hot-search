@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720286167940,
+  "endTime": 1720287263704,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 315282,
+      "num": 114342,
+      "word": "天水麻辣烫仍然在批量倒闭",
+      "onboard_time": 1720283419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 287452,
       "num": 183924,
       "word": "林俊杰新歌",
@@ -153,14 +161,6 @@
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262718,
-      "num": 114342,
-      "word": "天水麻辣烫仍然在批量倒闭",
-      "onboard_time": 1720283419,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 257263,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230210,
+      "num": 230210,
+      "word": "英格兰vs瑞士",
+      "onboard_time": 1720274718,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227882,
       "num": 183072,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -219,8 +227,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192614,
-      "num": 192614,
+      "raw_hot": 197548,
+      "num": 197548,
       "word": "电竞世界杯T1对战TL",
       "onboard_time": 1720282698,
       "rank": 41,
@@ -249,14 +257,6 @@
       "onboard_time": 1720281319,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177142,
-      "num": 177142,
-      "word": "英格兰vs瑞士",
-      "onboard_time": 1720274718,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 165378,
@@ -403,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64831,
+      "num": 64831,
+      "word": "鞠婧祎周六放饭",
+      "onboard_time": 1720285935,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48481,
       "num": 111680,
       "word": "此次洞庭湖大堤决口由管涌引起",
       "onboard_time": 1720260196,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44462,
+      "num": 53204,
+      "word": "你好星期六下期吴谨言王星越",
+      "onboard_time": 1720272020,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 27360,
