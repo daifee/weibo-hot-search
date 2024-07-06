@@ -1,7 +1,15 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720282957907,
+  "endTime": 1720283920281,
   "band_list": [
+    {
+      "raw_hot": 1491623,
+      "num": 1491623,
+      "word": "林俊杰",
+      "onboard_time": 1720281679,
+      "rank": 3,
+      "category": "音乐"
+    },
     {
       "raw_hot": 927608,
       "num": 927608,
@@ -11,20 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 830541,
-      "num": 272590,
-      "word": "林俊杰",
-      "onboard_time": 1720281679,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 797773,
       "num": 186527,
       "word": "易猝死的人往往有这4个共同点",
       "onboard_time": 1720277719,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 696394,
+      "num": 251583,
+      "word": "蔡依林最想删掉的照片",
+      "onboard_time": 1720281558,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 629578,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 626241,
-      "num": 267432,
+      "num": 495251,
       "word": "洞庭湖226米决口已封堵66米",
       "onboard_time": 1720279099,
       "rank": 4,
@@ -49,14 +57,6 @@
       "onboard_time": 1720272620,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546216,
-      "num": 251583,
-      "word": "蔡依林最想删掉的照片",
-      "onboard_time": 1720281558,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 515851,
@@ -107,20 +107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366149,
+      "num": 185006,
+      "word": "上厕所途中冲水小心病菌感染",
+      "onboard_time": 1720278678,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 322122,
       "num": 185744,
       "word": "奉劝晚婚的人不要随份子钱",
       "onboard_time": 1720271838,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307703,
-      "num": 185006,
-      "word": "上厕所途中冲水小心病菌感染",
-      "onboard_time": 1720278678,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 287452,
@@ -137,6 +137,14 @@
       "onboard_time": 1720262898,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278968,
+      "num": 186854,
+      "word": "印度一地一天内19人被雷击身亡",
+      "onboard_time": 1720281498,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264012,
@@ -203,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186854,
-      "num": 186854,
-      "word": "印度一地一天内19人被雷击身亡",
-      "onboard_time": 1720281498,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -267,12 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134073,
-      "num": 134073,
+      "raw_hot": 140557,
+      "num": 140557,
       "word": "英格兰vs瑞士",
       "onboard_time": 1720274718,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139408,
+      "num": 139408,
+      "word": "电竞世界杯T1对战TL",
+      "onboard_time": 1720282698,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 133944,
@@ -291,6 +299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127698,
+      "num": 127698,
+      "word": "吴昕99字夸王俊凯秦霄贤",
+      "onboard_time": 1720278739,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124094,
       "num": 124094,
       "word": "温网2024",
@@ -305,22 +321,6 @@
       "onboard_time": 1720268896,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122744,
-      "num": 122744,
-      "word": "吴昕99字夸王俊凯秦霄贤",
-      "onboard_time": 1720278739,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122743,
-      "num": 122743,
-      "word": "电竞世界杯T1对战TL",
-      "onboard_time": 1720282698,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 122584,
@@ -347,16 +347,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112247,
-      "num": 112247,
+      "raw_hot": 114342,
+      "num": 114342,
+      "word": "天水麻辣烫仍然在批量倒闭",
+      "onboard_time": 1720283419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 112809,
+      "num": 112809,
       "word": "坚持运动40年的身材",
       "onboard_time": 1720268599,
       "rank": 45,
       "category": "运动健身"
     },
     {
-      "raw_hot": 111387,
-      "num": 111387,
+      "raw_hot": 111698,
+      "num": 111698,
       "word": "TES对战G2",
       "onboard_time": 1720279999,
       "rank": 46,
@@ -379,23 +387,31 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96563,
-      "num": 96563,
+      "raw_hot": 98929,
+      "num": 98929,
       "word": "薛之谦我要这灯光有何用",
       "onboard_time": 1720280060,
       "rank": 49,
       "category": "演出"
     },
     {
+      "raw_hot": 83618,
+      "num": 83618,
+      "word": "直击洞庭湖决堤救援一线",
+      "onboard_time": 1720253357,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27360,
-      "num": 279703,
+      "num": 514609,
       "word": "中国友谊勋章如何颁授",
       "onboard_time": 1720277598,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 20169,
+      "raw_hot": 22996,
       "num": 253056,
       "word": "轮椅女孩出门看电影被路人暖到了",
       "onboard_time": 1720282398,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#塔吉克斯坦总统送了一份特别的礼物#"
+    },
+    {
+      "word": "#习主席中亚之行#"
     }
   ]
 }
