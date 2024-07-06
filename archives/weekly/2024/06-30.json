@@ -1,6 +1,6 @@
 {
   "startTime": 1719678199401,
-  "endTime": 1720222563141,
+  "endTime": 1720228792387,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1349702,
+      "num": 1349702,
+      "word": "于适电影 扑街",
+      "onboard_time": 1720224557,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1346135,
       "num": 676425,
       "word": "中金",
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 1047477,
-      "num": 419133,
+      "num": 424447,
       "word": "端木磊带楚雨荨在火锅店吃西餐",
       "onboard_time": 1720191561,
       "rank": 10,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 946583,
-      "num": 192546,
+      "num": 240776,
       "word": "睡前不刷牙将是对牙齿的恐怖待遇",
       "onboard_time": 1720192040,
       "rank": 46,
@@ -1467,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830533,
+      "num": 830533,
+      "word": "16个外甥又来舅舅家过暑假了",
+      "onboard_time": 1720224857,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830518,
       "num": 830518,
       "word": "普京称更希望拜登担任美国总统",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1720029852,
       "rank": 16,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 780932,
+      "num": 780932,
+      "word": "首批武警已抵达洞庭湖开始救援",
+      "onboard_time": 1720197798,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777477,
@@ -1929,6 +1953,14 @@
       "onboard_time": 1720149976,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704107,
+      "num": 240954,
+      "word": "早上空腹喝水真比不吃早餐危害大吗",
+      "onboard_time": 1720192222,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 703173,
@@ -2211,14 +2243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 644481,
-      "num": 226639,
-      "word": "早上空腹喝水真比不吃早餐危害大吗",
-      "onboard_time": 1720192222,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 644350,
       "num": 644350,
       "word": "即将成为英国新首相的斯塔默是谁",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1719810860,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637959,
+      "num": 637959,
+      "word": "汪文斌任中国驻柬埔寨大使",
+      "onboard_time": 1720223115,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 637925,
@@ -2305,14 +2337,6 @@
       "onboard_time": 1720082657,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 628271,
-      "num": 628271,
-      "word": "首批武警已抵达洞庭湖开始救援",
-      "onboard_time": 1720197798,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625824,
@@ -2433,6 +2457,14 @@
       "onboard_time": 1719843679,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 611949,
+      "num": 611949,
+      "word": "何运晨 飞机延误",
+      "onboard_time": 1720224436,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 610631,
@@ -4051,6 +4083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449127,
+      "num": 449127,
+      "word": "柳岩肌瘤手术",
+      "onboard_time": 1720222095,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448885,
       "num": 448885,
       "word": "苏炳添回应无缘巴黎奥运会",
@@ -4243,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439350,
+      "num": 439350,
+      "word": "宋雨琦 cube",
+      "onboard_time": 1720225816,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438968,
       "num": 438968,
       "word": "英国政坛巨变要来了",
@@ -4401,6 +4449,14 @@
       "onboard_time": 1720166179,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424182,
+      "num": 424182,
+      "word": "直播洞庭湖抢险现场",
+      "onboard_time": 1720223896,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422860,
@@ -5139,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359500,
+      "num": 359500,
+      "word": "德国队 意难平",
+      "onboard_time": 1720224016,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359056,
       "num": 359056,
       "word": "刘亦菲实绩",
@@ -5209,6 +5273,14 @@
       "onboard_time": 1719965238,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354102,
+      "num": 354102,
+      "word": "TES 升舱",
+      "onboard_time": 1720224136,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 353910,
@@ -5387,6 +5459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 343691,
+      "num": 343691,
+      "word": "今年的三伏40天",
+      "onboard_time": 1720221494,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 343613,
       "num": 343613,
       "word": "于正媚粉视频",
@@ -5457,6 +5537,14 @@
       "onboard_time": 1719892459,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 340502,
+      "num": 340502,
+      "word": "延安中学",
+      "onboard_time": 1720224796,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340461,
@@ -7121,6 +7209,14 @@
       "onboard_time": 1719829098,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 237929,
+      "num": 237929,
+      "word": "饮料为什么越做越大",
+      "onboard_time": 1720223475,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 237645,
@@ -8820,7 +8916,7 @@
     },
     {
       "raw_hot": 195717,
-      "num": 161883,
+      "num": 193679,
       "word": "原来午睡不一定非要睡着",
       "onboard_time": 1720195279,
       "rank": 28,
@@ -9843,6 +9939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179211,
+      "num": 179211,
+      "word": "曾轶可回复郭碧婷",
+      "onboard_time": 1720228757,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179210,
       "num": 179210,
       "word": "天官赐福 泰版彩图",
@@ -10091,6 +10195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173312,
+      "num": 173312,
+      "word": "为啥人民币没有7元8元9元面值",
+      "onboard_time": 1720205052,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173289,
       "num": 173289,
       "word": "张真源射箭手臂肌肉线条",
@@ -10273,6 +10385,14 @@
       "onboard_time": 1719962476,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168953,
+      "num": 168953,
+      "word": "许凯单手接衣",
+      "onboard_time": 1720227616,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 168820,
@@ -10553,6 +10673,14 @@
       "onboard_time": 1720176140,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163285,
+      "num": 163285,
+      "word": "进出华容县所有道路临时管制",
+      "onboard_time": 1720225517,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163211,
@@ -10931,6 +11059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156987,
+      "num": 156987,
+      "word": "汪苏泷又双叒叕是大众金曲",
+      "onboard_time": 1720223896,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156937,
       "num": 156937,
       "word": "赵昭仪正是容易饿的年纪",
@@ -11025,14 +11161,6 @@
       "onboard_time": 1719832819,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155912,
-      "num": 155912,
-      "word": "今年的三伏40天",
-      "onboard_time": 1720221494,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 155758,
@@ -12187,6 +12315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139107,
+      "num": 139107,
+      "word": "沈梦辰做了错饭",
+      "onboard_time": 1720228097,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139078,
       "num": 103354,
       "word": "几十万套法拍房背后",
@@ -12576,6 +12712,14 @@
       "word": "字母哥11中11轰32分",
       "onboard_time": 1720069578,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 134547,
+      "word": "换下B费",
+      "onboard_time": 1720226417,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -14011,6 +14155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117986,
+      "num": 117986,
+      "word": "C罗姆巴佩时代传承",
+      "onboard_time": 1720228038,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117637,
       "num": 117637,
       "word": "王者全英雄及50款皮肤限免",
@@ -14041,6 +14193,14 @@
       "onboard_time": 1719698413,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "黄健翔说足球变得难看了",
+      "onboard_time": 1720228338,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 117042,
@@ -14139,6 +14299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115745,
+      "num": 115745,
+      "word": "原来宝宝真的比甲方还难伺候",
+      "onboard_time": 1720215911,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 115474,
       "num": 115474,
       "word": "爹妈为了我的婚姻操碎了心",
@@ -14153,6 +14321,14 @@
       "onboard_time": 1720199715,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115228,
+      "num": 115228,
+      "word": "克莱告别勇士",
+      "onboard_time": 1720225938,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115177,
@@ -14360,14 +14536,6 @@
       "word": "许凯开屏",
       "onboard_time": 1720049897,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112374,
-      "num": 112374,
-      "word": "柳岩肌瘤手术",
-      "onboard_time": 1720222095,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -15099,6 +15267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98737,
+      "num": 98737,
+      "word": "Meiko 明天继续加油复仇战2.0",
+      "onboard_time": 1720225337,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98591,
       "num": 1163208,
       "word": "60秒带你环游哈萨克斯坦",
@@ -15161,6 +15337,14 @@
       "onboard_time": 1719886039,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97237,
+      "num": 97237,
+      "word": "meiko 第一辅助",
+      "onboard_time": 1720225698,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 97185,
@@ -15227,14 +15411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96014,
-      "num": 96014,
-      "word": "原来宝宝真的比甲方还难伺候",
-      "onboard_time": 1720215911,
-      "rank": 39,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 95825,
       "num": 488496,
       "word": "记者起底假黄金黑色产业链",
@@ -15257,6 +15433,14 @@
       "onboard_time": 1720080978,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95419,
+      "num": 95419,
+      "word": "梦之队",
+      "onboard_time": 1720227019,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 95249,
@@ -15705,14 +15889,6 @@
       "onboard_time": 1719728897,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84538,
-      "num": 84538,
-      "word": "为啥人民币没有7元8元9元面值",
-      "onboard_time": 1720205052,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 84421,
@@ -16439,6 +16615,14 @@
       "num": 376075,
       "word": "各地暑期高校学生资助热线最全汇总",
       "onboard_time": 1720096218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59517,
+      "num": 424472,
+      "word": "消防员手推小艇救出近百名师生",
+      "onboard_time": 1720227616,
       "rank": 9,
       "category": "社会新闻"
     },
