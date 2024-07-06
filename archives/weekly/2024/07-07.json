@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720300769896,
+  "endTime": 1720301677032,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -499,20 +499,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38746,
+      "num": 31968,
+      "word": "55岁的妈妈拒绝学习任何新事物",
+      "onboard_time": 1720296131,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36125,
       "num": 38219,
       "word": "卢沟桥事变亲历者郑福来老人去世",
       "onboard_time": 1720290973,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31968,
-      "num": 31968,
-      "word": "55岁的妈妈拒绝学习任何新事物",
-      "onboard_time": 1720296131,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 27360,
@@ -539,6 +539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19946,
+      "num": 19946,
+      "word": "体脂率是衡量胖瘦的金标准",
+      "onboard_time": 1720299851,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 19217,
       "num": 19217,
       "word": "和平精英",
@@ -547,16 +555,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17079,
-      "num": 18662,
-      "word": "体脂率是衡量胖瘦的金标准",
-      "onboard_time": 1720299851,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 10515,
-      "num": 48738,
+      "raw_hot": 11916,
+      "num": 54413,
       "word": "神仙邻居带动社区200多人暑假晨跑",
       "onboard_time": 1720298711,
       "rank": 9,
