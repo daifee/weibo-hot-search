@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720230015462,
+  "endTime": 1720233171518,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1446084,
+      "num": 1220973,
+      "word": "洞庭湖决堤",
+      "onboard_time": 1720189881,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445938,
       "num": 347586,
       "word": "陆毅回应",
@@ -600,14 +608,6 @@
       "word": "菲律宾绑架中国人已成黑色产业链",
       "onboard_time": 1719928700,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220973,
-      "num": 1220973,
-      "word": "洞庭湖决堤",
-      "onboard_time": 1720189881,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -849,6 +849,14 @@
       "onboard_time": 1720162039,
       "rank": 0,
       "category": "教育,剧集"
+    },
+    {
+      "raw_hot": 1018436,
+      "num": 1018436,
+      "word": "731部队鼠疫实验最新罪证",
+      "onboard_time": 1720229836,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012370,
@@ -1539,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 770416,
+      "num": 770416,
+      "word": "那英的刘海是为了遮带状疱疹",
+      "onboard_time": 1720229358,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 768129,
       "num": 528150,
       "word": "新疆有自己的娱乐圈",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1720154179,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 640948,
+      "num": 640948,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638213,
@@ -3275,6 +3299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 481064,
+      "num": 481064,
+      "word": "张婧仪 三大奢牌",
+      "onboard_time": 1720230857,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480641,
       "num": 480641,
       "word": "长相思第二季变更为23集",
@@ -3459,12 +3491,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 455812,
+      "num": 336532,
+      "word": "婉宁公主是李梦主动找于正争取的",
+      "onboard_time": 1720230797,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455586,
       "num": 276295,
       "word": "于正说不明白吴谨言受了啥委屈",
       "onboard_time": 1719745938,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455347,
+      "num": 455347,
+      "word": "iPhone16Pro或配15ProMax同款镜头",
+      "onboard_time": 1720229118,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 455282,
@@ -3713,14 +3761,6 @@
       "onboard_time": 1720148179,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439145,
-      "num": 439145,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438968,
@@ -4843,12 +4883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336553,
-      "num": 336553,
-      "word": "那英的刘海是为了遮带状疱疹",
-      "onboard_time": 1720229358,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 335843,
+      "num": 335843,
+      "word": "于正说何瑞贤是内娱独一无二的脸",
+      "onboard_time": 1720230078,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 335360,
@@ -5491,14 +5531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285670,
-      "num": 285670,
-      "word": "iPhone16Pro或配15ProMax同款镜头",
-      "onboard_time": 1720229118,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 285445,
       "num": 285445,
       "word": "长公主舌战群男",
@@ -5713,6 +5745,14 @@
       "onboard_time": 1719962416,
       "rank": 24,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 267708,
+      "num": 227511,
+      "word": "你的手机号绑定了多少APP",
+      "onboard_time": 1720229836,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 267272,
@@ -6555,6 +6595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224804,
+      "num": 224804,
+      "word": "王健林又卖核心资产",
+      "onboard_time": 1720232777,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224748,
       "num": 224748,
       "word": "高考录取期间10大注意事项",
@@ -7201,6 +7249,14 @@
       "onboard_time": 1719827059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203975,
+      "num": 203975,
+      "word": "2只羊打架致独库公路短暂封路",
+      "onboard_time": 1720230078,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203423,
@@ -8747,6 +8803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174745,
+      "num": 174745,
+      "word": "首批300余人抵达洞庭湖溃口展开救援",
+      "onboard_time": 1720232477,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174369,
       "num": 174369,
       "word": "默杀终极预告",
@@ -9273,6 +9337,14 @@
       "onboard_time": 1719927139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "现在的小孩接受的不再是愧疚式教育",
+      "onboard_time": 1720232717,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 161768,
@@ -10035,14 +10107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148170,
-      "num": 148170,
-      "word": "731部队鼠疫实验最新罪证",
-      "onboard_time": 1720229836,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147963,
       "num": 147963,
       "word": "马来西亚男子迷晕妓女抢走25万财物",
@@ -10643,20 +10707,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139915,
+      "num": 139915,
+      "word": "小象揉眼睛",
+      "onboard_time": 1720232717,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139914,
       "num": 139914,
       "word": "李昀锐是真离不开屁凳",
       "onboard_time": 1720141459,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139697,
-      "num": 139697,
-      "word": "你的手机号绑定了多少APP",
-      "onboard_time": 1720229836,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 139593,
@@ -11633,6 +11697,14 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127106,
+      "num": 127106,
+      "word": "全职妈妈带女儿自驾游2年治愈自己",
+      "onboard_time": 1720232238,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 127083,
@@ -12627,6 +12699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111335,
+      "num": 111335,
+      "word": "3个方面判断月经是否正常",
+      "onboard_time": 1720233017,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111183,
       "num": 111183,
       "word": "暨大毕业礼自助式拨穗火了",
@@ -12769,6 +12849,14 @@
       "onboard_time": 1720134615,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108719,
+      "num": 108719,
+      "word": "海天雄鹰把我眼泪撞决堤了",
+      "onboard_time": 1720233076,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108523,
@@ -15048,6 +15136,14 @@
       "word": "中国式现代化是干出来的",
       "onboard_time": 1719754099,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29356,
+      "num": 337594,
+      "word": "职场人超前精神状态belike",
+      "onboard_time": 1720232296,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

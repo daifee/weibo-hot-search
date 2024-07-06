@@ -1,0 +1,410 @@
+{
+  "runTime": 1720233171518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1018436,
+        "num": 1018436,
+        "word": "731部队鼠疫实验最新罪证",
+        "onboard_time": 1720229836,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082473,
+        "num": 935743,
+        "word": "于适电影 扑街",
+        "onboard_time": 1720224557,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37906,
+        "num": 772010,
+        "word": "友谊勋章藏着多少设计细节",
+        "onboard_time": 1720193000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1446084,
+        "num": 771518,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770416,
+        "num": 770416,
+        "word": "那英的刘海是为了遮带状疱疹",
+        "onboard_time": 1720229358,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640948,
+        "num": 640948,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481064,
+        "num": 481064,
+        "word": "张婧仪 三大奢牌",
+        "onboard_time": 1720230857,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455347,
+        "num": 455347,
+        "word": "iPhone16Pro或配15ProMax同款镜头",
+        "onboard_time": 1720229118,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 337928,
+        "num": 337928,
+        "word": "歌手排名",
+        "onboard_time": 1720190242,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29356,
+        "num": 337594,
+        "word": "职场人超前精神状态belike",
+        "onboard_time": 1720232296,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609848,
+        "num": 337024,
+        "word": "端木磊带楚雨荨在火锅店吃西餐",
+        "onboard_time": 1720191561,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455812,
+        "num": 336532,
+        "word": "婉宁公主是李梦主动找于正争取的",
+        "onboard_time": 1720230797,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383262,
+        "num": 336260,
+        "word": "16个外甥又来舅舅家过暑假了",
+        "onboard_time": 1720224857,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335843,
+        "num": 335843,
+        "word": "于正说何瑞贤是内娱独一无二的脸",
+        "onboard_time": 1720230078,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332321,
+        "num": 332321,
+        "word": "延安中学",
+        "onboard_time": 1720224796,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317295,
+        "num": 317295,
+        "word": "宋雨琦 cube",
+        "onboard_time": 1720225816,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279942,
+        "num": 279942,
+        "word": "首批武警已抵达洞庭湖开始救援",
+        "onboard_time": 1720197798,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276254,
+        "num": 276254,
+        "word": "汪文斌任中国驻柬埔寨大使",
+        "onboard_time": 1720223115,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244675,
+        "num": 244675,
+        "word": "葡萄牙3比5法国",
+        "onboard_time": 1720217353,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234056,
+        "num": 234056,
+        "word": "直播洞庭湖抢险现场",
+        "onboard_time": 1720223896,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517876,
+        "num": 233173,
+        "word": "早上空腹喝水真比不吃早餐危害大吗",
+        "onboard_time": 1720192222,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322700,
+        "num": 230693,
+        "word": "睡前不刷牙将是对牙齿的恐怖待遇",
+        "onboard_time": 1720192040,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307321,
+        "num": 230181,
+        "word": "曾轶可回复郭碧婷",
+        "onboard_time": 1720228757,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267708,
+        "num": 227511,
+        "word": "你的手机号绑定了多少APP",
+        "onboard_time": 1720229836,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262234,
+        "num": 225712,
+        "word": "何运晨 飞机延误",
+        "onboard_time": 1720224436,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224804,
+        "num": 224804,
+        "word": "王健林又卖核心资产",
+        "onboard_time": 1720232777,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203975,
+        "num": 203975,
+        "word": "2只羊打架致独库公路短暂封路",
+        "onboard_time": 1720230078,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181047,
+        "num": 181047,
+        "word": "袁娅维已经1个月没5点前睡觉了",
+        "onboard_time": 1720193659,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174745,
+        "num": 174745,
+        "word": "首批300余人抵达洞庭湖溃口展开救援",
+        "onboard_time": 1720232477,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167166,
+        "num": 167166,
+        "word": "TES 升舱",
+        "onboard_time": 1720224136,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163733,
+        "num": 163733,
+        "word": "JackeyLove 明天加油兄弟们",
+        "onboard_time": 1720229836,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162177,
+        "num": 162177,
+        "word": "现在的小孩接受的不再是愧疚式教育",
+        "onboard_time": 1720232717,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161499,
+        "num": 161499,
+        "word": "原来午睡不一定非要睡着",
+        "onboard_time": 1720195279,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151267,
+        "num": 151267,
+        "word": "CoCo回应员工边做边吃",
+        "onboard_time": 1720195818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146800,
+        "num": 146800,
+        "word": "柳岩肌瘤手术",
+        "onboard_time": 1720222095,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143790,
+        "num": 143790,
+        "word": "德国队 意难平",
+        "onboard_time": 1720224016,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143661,
+        "num": 143661,
+        "word": "袁娅维是不是被算错票了",
+        "onboard_time": 1720196357,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143230,
+        "num": 143230,
+        "word": "欧洲杯",
+        "onboard_time": 1720197257,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142020,
+        "num": 142020,
+        "word": "今年的三伏40天",
+        "onboard_time": 1720221494,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 139915,
+        "num": 139915,
+        "word": "小象揉眼睛",
+        "onboard_time": 1720232717,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139619,
+        "num": 139619,
+        "word": "饮料为什么越做越大",
+        "onboard_time": 1720223475,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133085,
+        "num": 133085,
+        "word": "东方树叶 第八",
+        "onboard_time": 1720192279,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127106,
+        "num": 127106,
+        "word": "全职妈妈带女儿自驾游2年治愈自己",
+        "onboard_time": 1720232238,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126933,
+        "num": 126933,
+        "word": "葡萄牙欧洲杯出局",
+        "onboard_time": 1720221254,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120723,
+        "num": 120723,
+        "word": "为啥人民币没有7元8元9元面值",
+        "onboard_time": 1720205052,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116273,
+        "num": 116273,
+        "word": "1场比赛 16张黄牌",
+        "onboard_time": 1720229236,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111335,
+        "num": 111335,
+        "word": "3个方面判断月经是否正常",
+        "onboard_time": 1720233017,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110607,
+        "num": 110607,
+        "word": "许凯单手接衣",
+        "onboard_time": 1720227616,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108719,
+        "num": 108719,
+        "word": "海天雄鹰把我眼泪撞决堤了",
+        "onboard_time": 1720233076,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103868,
+        "num": 103868,
+        "word": "飞机起飞4名贵宾室旅客被遗忘机场",
+        "onboard_time": 1720188382,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保护好人民群众生命财产安全#"
+    }
+  }
+}
