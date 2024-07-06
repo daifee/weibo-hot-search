@@ -1,0 +1,410 @@
+{
+  "runTime": 1720264610523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088760,
+        "num": 1088760,
+        "word": "单依纯想整容被医生拒绝",
+        "onboard_time": 1720253597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400518,
+        "num": 400518,
+        "word": "全网医生联名让老师把这4分还给学生",
+        "onboard_time": 1720255699,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 18193,
+        "num": 396893,
+        "word": "115秒看懂中塔友谊",
+        "onboard_time": 1720254499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396258,
+        "num": 396258,
+        "word": "郑业成回应转行",
+        "onboard_time": 1720258697,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388579,
+        "num": 388579,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339663,
+        "num": 339663,
+        "word": "此次洞庭湖大堤决口由管涌引起",
+        "onboard_time": 1720260196,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365145,
+        "num": 310030,
+        "word": "默杀 女性受害特写",
+        "onboard_time": 1720252337,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274876,
+        "num": 274876,
+        "word": "张志杰妈妈悲伤过度入院",
+        "onboard_time": 1720248977,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243792,
+        "num": 243792,
+        "word": "秦海璐体脂率下降的7个小习惯",
+        "onboard_time": 1720263198,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19897,
+        "num": 242353,
+        "word": "专家解读洞庭湖救援重点",
+        "onboard_time": 1720263616,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018124,
+        "num": 240569,
+        "word": "何捷叫张馨予胖子",
+        "onboard_time": 1720262898,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554036,
+        "num": 238821,
+        "word": "云南女大学生疑与同学发生矛盾自杀",
+        "onboard_time": 1720261157,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 456358,
+        "num": 235563,
+        "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+        "onboard_time": 1720261098,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234979,
+        "num": 234979,
+        "word": "731部队曾向常德投撒36公斤鼠疫跳蚤",
+        "onboard_time": 1720263557,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218003,
+        "num": 218003,
+        "word": "王传君演技",
+        "onboard_time": 1720258398,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201826,
+        "num": 201826,
+        "word": "李嘉琦发文告别芬芳喜事",
+        "onboard_time": 1720249637,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192195,
+        "num": 192195,
+        "word": "龚俊苏暮雨面具路透",
+        "onboard_time": 1720263616,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "洞庭湖决堤",
+        "onboard_time": 1720189881,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 142264,
+        "word": "警方通报北京地铁大爷女儿含泪发声",
+        "onboard_time": 1720245678,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132117,
+        "num": 132117,
+        "word": "洞庭湖决堤封堵预计6至7天完成",
+        "onboard_time": 1720263616,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402152,
+        "num": 131720,
+        "word": "男主人意外去世狗狗痛哭",
+        "onboard_time": 1720260917,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 131350,
+        "word": "鞠婧祎微博粉丝2900万了",
+        "onboard_time": 1720260376,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260511,
+        "num": 130309,
+        "word": "英国新任副首相16岁时曾怀孕辍学",
+        "onboard_time": 1720251797,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 231737,
+        "num": 129800,
+        "word": "为什么现在很少用黄瓜片敷面膜了",
+        "onboard_time": 1720261399,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 174296,
+        "num": 129043,
+        "word": "王鹤棣下班跑出残影",
+        "onboard_time": 1720263318,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165853,
+        "num": 128537,
+        "word": "伞少女",
+        "onboard_time": 1720257737,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 128088,
+        "word": "传说",
+        "onboard_time": 1720259776,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154929,
+        "num": 127229,
+        "word": "李一桐巴黎偶遇中国游泳队",
+        "onboard_time": 1720255158,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 148302,
+        "num": 126813,
+        "word": "我的发颠朋友圈被我爸做成Excel了",
+        "onboard_time": 1720253778,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 126458,
+        "word": "洞庭湖决口开始封堵合龙",
+        "onboard_time": 1720252038,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523230,
+        "num": 126314,
+        "word": "霸王茶姬捐500万元支援华容县",
+        "onboard_time": 1720262236,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171442,
+        "num": 126071,
+        "word": "鲫鱼汤做出了鱼溺水的感觉",
+        "onboard_time": 1720263917,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125477,
+        "num": 125477,
+        "word": "直击洞庭湖决堤救援一线",
+        "onboard_time": 1720253357,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125063,
+        "num": 125063,
+        "word": "BW抢票",
+        "onboard_time": 1720261639,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118992,
+        "num": 118992,
+        "word": "苏容卿 她说的都是我的词啊",
+        "onboard_time": 1720262117,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111822,
+        "num": 111822,
+        "word": "度华年播到横店大雪那场戏了",
+        "onboard_time": 1720255758,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109156,
+        "num": 109156,
+        "word": "默杀 一惊一乍的",
+        "onboard_time": 1720251679,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107950,
+        "num": 107950,
+        "word": "防汛干部李东被山洪卷走牺牲",
+        "onboard_time": 1720262236,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104918,
+        "num": 104918,
+        "word": "欧洲杯",
+        "onboard_time": 1720262298,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104226,
+        "num": 104226,
+        "word": "法国1300年古剑被人从悬崖上拔走",
+        "onboard_time": 1720248857,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98521,
+        "num": 98521,
+        "word": "TheShy谈BLG不敌T1",
+        "onboard_time": 1720263079,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95410,
+        "num": 95410,
+        "word": "中国男排3比0埃及男排",
+        "onboard_time": 1720259657,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94669,
+        "num": 94669,
+        "word": "登陆日",
+        "onboard_time": 1720261576,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93666,
+        "num": 93666,
+        "word": "谁不想给猫猫打工呢",
+        "onboard_time": 1720259116,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86359,
+        "num": 86359,
+        "word": "张真源一分钟内连进两球",
+        "onboard_time": 1720259357,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86108,
+        "num": 86108,
+        "word": "王子奇李耕耘KTV聚会",
+        "onboard_time": 1720260077,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82778,
+        "num": 82778,
+        "word": "费迪南德说C罗仍会激励孩子们",
+        "onboard_time": 1720261337,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82768,
+        "num": 82768,
+        "word": "LGD配合",
+        "onboard_time": 1720264457,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79830,
+        "num": 79830,
+        "word": "周鸿祎吃菌子看到狗和他说话",
+        "onboard_time": 1720264517,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75798,
+        "num": 79226,
+        "word": "陈昊宇杂志",
+        "onboard_time": 1720246996,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席的塔吉克斯坦时间#"
+    }
+  }
+}

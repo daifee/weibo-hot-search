@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720262112285,
+  "endTime": 1720264610523,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -897,6 +897,14 @@
       "onboard_time": 1720162039,
       "rank": 0,
       "category": "教育,剧集"
+    },
+    {
+      "raw_hot": 1018124,
+      "num": 240569,
+      "word": "何捷叫张馨予胖子",
+      "onboard_time": 1720262898,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1012370,
@@ -2771,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554036,
+      "num": 238821,
+      "word": "云南女大学生疑与同学发生矛盾自杀",
+      "onboard_time": 1720261157,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 552565,
       "num": 552565,
       "word": "TES战胜GEN",
@@ -3001,6 +3017,14 @@
       "onboard_time": 1719993377,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 523230,
+      "num": 126314,
+      "word": "霸王茶姬捐500万元支援华容县",
+      "onboard_time": 1720262236,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523136,
@@ -3715,6 +3739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 456358,
+      "num": 235563,
+      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
+      "onboard_time": 1720261098,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455586,
       "num": 276295,
       "word": "于正说不明白吴谨言受了啥委屈",
@@ -4347,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402152,
+      "num": 176937,
+      "word": "男主人意外去世狗狗痛哭",
+      "onboard_time": 1720260917,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401968,
       "num": 401968,
       "word": "妈妈回应儿子出生6个月长到22斤",
@@ -4452,7 +4492,7 @@
     },
     {
       "raw_hot": 396288,
-      "num": 177116,
+      "num": 396258,
       "word": "郑业成回应转行",
       "onboard_time": 1720258697,
       "rank": 21,
@@ -5225,6 +5265,14 @@
       "onboard_time": 1720228757,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339663,
+      "num": 339663,
+      "word": "此次洞庭湖大堤决口由管涌引起",
+      "onboard_time": 1720260196,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338160,
@@ -6315,14 +6363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258684,
-      "num": 176937,
-      "word": "男主人意外去世狗狗痛哭",
-      "onboard_time": 1720260917,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
@@ -6627,6 +6667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243792,
+      "num": 243792,
+      "word": "秦海璐体脂率下降的7个小习惯",
+      "onboard_time": 1720263198,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -6811,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234979,
+      "num": 234979,
+      "word": "731部队曾向常德投撒36公斤鼠疫跳蚤",
+      "onboard_time": 1720263557,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234745,
       "num": 234745,
       "word": "李赫宰 38岁正是长见识的年纪",
@@ -6905,6 +6961,14 @@
       "onboard_time": 1720132092,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231737,
+      "num": 143710,
+      "word": "为什么现在很少用黄瓜片敷面膜了",
+      "onboard_time": 1720261399,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 231523,
@@ -8539,6 +8603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192195,
+      "num": 192195,
+      "word": "龚俊苏暮雨面具路透",
+      "onboard_time": 1720263616,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "错位定档",
@@ -8896,14 +8968,6 @@
       "word": "民警说在南京夫子庙小孩肯定丢不了",
       "onboard_time": 1719827718,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187691,
-      "num": 187691,
-      "word": "湖南遇险牺牲的抗洪干部年仅30岁",
-      "onboard_time": 1720261098,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9443,14 +9507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176564,
-      "num": 176564,
-      "word": "云南女大学生疑与同学发生矛盾自杀",
-      "onboard_time": 1720261157,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -9577,6 +9633,14 @@
       "onboard_time": 1719973937,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174296,
+      "num": 129043,
+      "word": "王鹤棣下班跑出残影",
+      "onboard_time": 1720263318,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 174213,
@@ -9729,6 +9793,14 @@
       "onboard_time": 1719831378,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171442,
+      "num": 126071,
+      "word": "鲫鱼汤做出了鱼溺水的感觉",
+      "onboard_time": 1720263917,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 171405,
@@ -11347,14 +11419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143710,
-      "num": 143710,
-      "word": "为什么现在很少用黄瓜片敷面膜了",
-      "onboard_time": 1720261399,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "孙楠越唱越稳",
@@ -12305,6 +12369,14 @@
       "onboard_time": 1719821720,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132117,
+      "num": 132117,
+      "word": "洞庭湖决堤封堵预计6至7天完成",
+      "onboard_time": 1720263616,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131955,
@@ -13331,6 +13403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 118992,
+      "num": 118992,
+      "word": "苏容卿 她说的都是我的词啊",
+      "onboard_time": 1720262117,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118670,
       "num": 118670,
       "word": "玱玹这一季的偷感真的很重",
@@ -13617,14 +13697,6 @@
       "onboard_time": 1719990558,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 113553,
-      "num": 261565,
-      "word": "此次洞庭湖大堤决口由管涌引起",
-      "onboard_time": 1720260196,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113544,
@@ -14011,6 +14083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107950,
+      "num": 107950,
+      "word": "防汛干部李东被山洪卷走牺牲",
+      "onboard_time": 1720262236,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107838,
       "num": 107838,
       "word": "逆水寒手游",
@@ -14385,6 +14465,14 @@
       "onboard_time": 1719889338,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98521,
+      "num": 98521,
+      "word": "TheShy谈BLG不敌T1",
+      "onboard_time": 1720263079,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 98515,
@@ -14947,20 +15035,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82778,
+      "num": 82778,
+      "word": "费迪南德说C罗仍会激励孩子们",
+      "onboard_time": 1720261337,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82768,
+      "num": 82768,
+      "word": "LGD配合",
+      "onboard_time": 1720264457,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82354,
       "num": 82354,
       "word": "吴彦祖又帅回来了",
       "onboard_time": 1719746118,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 82313,
-      "num": 82313,
-      "word": "费迪南德说C罗仍会激励孩子们",
-      "onboard_time": 1720261337,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 81845,
@@ -15009,6 +15105,14 @@
       "onboard_time": 1719984919,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 79830,
+      "num": 79830,
+      "word": "周鸿祎吃菌子看到狗和他说话",
+      "onboard_time": 1720264517,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 79762,
@@ -16756,7 +16860,7 @@
     },
     {
       "raw_hot": 22828,
-      "num": 102065,
+      "num": 396893,
       "word": "115秒看懂中塔友谊",
       "onboard_time": 1720254499,
       "rank": 45,
@@ -16791,6 +16895,14 @@
       "num": 59588,
       "word": "宁大学生就科学躲避鸟粪写了一篇论文",
       "onboard_time": 1720116012,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19897,
+      "num": 242353,
+      "word": "专家解读洞庭湖救援重点",
+      "onboard_time": 1720263616,
       "rank": 9,
       "category": "社会新闻"
     },
