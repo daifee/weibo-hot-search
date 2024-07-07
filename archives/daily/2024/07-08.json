@@ -1,10 +1,10 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720394413680,
+  "endTime": 1720395311294,
   "band_list": [
     {
-      "raw_hot": 776819,
-      "num": 776819,
+      "raw_hot": 781234,
+      "num": 781234,
       "word": "T1夺冠",
       "onboard_time": 1720383431,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1720366937,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 589514,
+      "num": 589514,
+      "word": "全网医生要求把4分还给小学生",
+      "onboard_time": 1720393093,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554253,
@@ -35,20 +43,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 501094,
+      "num": 501094,
+      "word": "羽毛球为何成体制内第一运动",
+      "onboard_time": 1720364420,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496788,
       "num": 210269,
       "word": "韩雪夫妇与好友聚餐",
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445371,
-      "num": 445371,
-      "word": "羽毛球为何成体制内第一运动",
-      "onboard_time": 1720364420,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 444176,
@@ -123,6 +131,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262713,
+      "num": 108932,
+      "word": "新疆的作息也太适合年轻人了",
+      "onboard_time": 1720394655,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244834,
+      "num": 81167,
+      "word": "外国小伙忘拔钥匙一天下来车仍在原地",
+      "onboard_time": 1720394655,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239409,
+      "num": 239409,
+      "word": "A股一上市公司12年造假上百亿元",
+      "onboard_time": 1720387750,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 234654,
       "num": 234654,
       "word": "赵露思 路透",
@@ -137,14 +169,6 @@
       "onboard_time": 1720364120,
       "rank": 7,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 217208,
-      "num": 217208,
-      "word": "A股一上市公司12年造假上百亿元",
-      "onboard_time": 1720387750,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 215259,
@@ -192,6 +216,14 @@
       "word": "Gumayusi要三比零TES",
       "onboard_time": 1720371136,
       "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192135,
+      "num": 171287,
+      "word": "Faker大满贯",
+      "onboard_time": 1720394054,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -259,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156041,
-      "num": 156041,
-      "word": "全网医生要求把4分还给小学生",
-      "onboard_time": 1720393093,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 156933,
+      "num": 156933,
+      "word": "北海公园偶遇朱珠一家",
+      "onboard_time": 1720360999,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 153191,
@@ -323,6 +355,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136892,
+      "num": 104190,
+      "word": "和男朋友同居后房租要AA吗",
+      "onboard_time": 1720394895,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134141,
+      "num": 134141,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128786,
+      "num": 128786,
+      "word": "T1战胜TES",
+      "onboard_time": 1720394655,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116834,
       "num": 116834,
       "word": "BabyMonster新歌舞台",
@@ -353,14 +409,6 @@
       "onboard_time": 1720358358,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 109982,
-      "num": 109982,
-      "word": "北海公园偶遇朱珠一家",
-      "onboard_time": 1720360999,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 107882,
@@ -403,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93397,
-      "num": 93397,
-      "word": "中储粮回应罐车运输油罐混用",
-      "onboard_time": 1720370175,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 93415,
+      "num": 93415,
+      "word": "领导发250块让我给同事买下午茶",
+      "onboard_time": 1720394655,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 93263,
@@ -425,6 +473,14 @@
       "onboard_time": 1720334538,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88372,
+      "num": 88372,
+      "word": "小鬼手动闭麦大小姐",
+      "onboard_time": 1720392494,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 86163,
@@ -515,12 +571,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74268,
-      "num": 74268,
-      "word": "小鬼手动闭麦大小姐",
-      "onboard_time": 1720392494,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 73825,
+      "num": 73825,
+      "word": "公婆50岁就开始养老了",
+      "onboard_time": 1720394775,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 73394,
@@ -529,6 +585,14 @@
       "onboard_time": 1720355898,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72665,
+      "num": 72665,
+      "word": "小猫 你已经被包围了",
+      "onboard_time": 1720394234,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 72078,
@@ -545,6 +609,14 @@
       "onboard_time": 1720364719,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71555,
+      "num": 71555,
+      "word": "冬瓜苹果水",
+      "onboard_time": 1720389852,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69954,
@@ -587,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63797,
+      "num": 63797,
+      "word": "Faker获电竞世界杯FMVP",
+      "onboard_time": 1720395016,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62662,
       "num": 62662,
       "word": "Zeus 幽默",
       "onboard_time": 1720374312,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61194,
-      "num": 61194,
-      "word": "冬瓜苹果水",
-      "onboard_time": 1720389852,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 60204,
@@ -627,20 +699,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52426,
-      "num": 52426,
-      "word": "Faker大满贯",
-      "onboard_time": 1720394054,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 51647,
+      "num": 51647,
+      "word": "女子为减肥吃20多天营养棒进了医院",
+      "onboard_time": 1720395136,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 48368,
-      "num": 48368,
-      "word": "小猫 你已经被包围了",
+      "raw_hot": 49056,
+      "num": 49056,
+      "word": "正在上班的小警犬",
       "onboard_time": 1720394234,
-      "rank": 34,
-      "category": "幽默"
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 47616,
@@ -667,18 +739,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36803,
-      "num": 46938,
-      "word": "正在上班的小警犬",
-      "onboard_time": 1720394234,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 35274,
       "num": 451366,
       "word": "中塔关系拥有了新定位",
       "onboard_time": 1720361658,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32078,
+      "num": 501957,
+      "word": "塔吉克斯坦小伙会做20多道中国菜",
+      "onboard_time": 1720361059,
       "rank": 2,
       "category": "国内时政"
     },
@@ -705,14 +777,6 @@
       "onboard_time": 1720379711,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 19385,
-      "num": 357659,
-      "word": "塔吉克斯坦小伙会做20多道中国菜",
-      "onboard_time": 1720361059,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19241,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 7476,
-      "num": 159306,
+      "num": 171775,
       "word": "当婺剧遇上00后",
       "onboard_time": 1720377613,
       "rank": 33,
