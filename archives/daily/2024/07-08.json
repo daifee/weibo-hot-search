@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720384475689,
+  "endTime": 1720387172673,
   "band_list": [
     {
       "raw_hot": 591510,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71060,
+      "num": 54259,
+      "word": "奖杯底座",
+      "onboard_time": 1720386430,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69954,
       "num": 69954,
       "word": "TES全华班",
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38017,
+      "num": 38017,
+      "word": "faker状态",
+      "onboard_time": 1720374613,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35274,
       "num": 451366,
       "word": "中塔关系拥有了新定位",
@@ -592,14 +608,6 @@
       "word": "经典第四把",
       "onboard_time": 1720383130,
       "rank": 33,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 30154,
-      "num": 30154,
-      "word": "faker状态",
-      "onboard_time": 1720374613,
-      "rank": 49,
       "category": "电竞"
     },
     {
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 7476,
-      "num": 24506,
+      "num": 54695,
       "word": "当婺剧遇上00后",
       "onboard_time": 1720377613,
       "rank": 33,

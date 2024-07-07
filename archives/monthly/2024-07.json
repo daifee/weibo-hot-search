@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720384475689,
+  "endTime": 1720387172673,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -18315,6 +18315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71060,
+      "num": 54259,
+      "word": "奖杯底座",
+      "onboard_time": 1720386430,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -19619,6 +19627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38017,
+      "num": 38017,
+      "word": "faker状态",
+      "onboard_time": 1720374613,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37501,
       "num": 38691,
       "word": "魔方新世界排名",
@@ -19937,14 +19953,6 @@
       "onboard_time": 1720259116,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 30154,
-      "num": 30154,
-      "word": "faker状态",
-      "onboard_time": 1720374613,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 29859,
@@ -20828,7 +20836,7 @@
     },
     {
       "raw_hot": 7476,
-      "num": 24506,
+      "num": 54695,
       "word": "当婺剧遇上00后",
       "onboard_time": 1720377613,
       "rank": 33,
