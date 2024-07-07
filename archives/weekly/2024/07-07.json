@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720351077469,
+  "endTime": 1720352069570,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1823032,
+      "num": 246800,
+      "word": "宋亚轩刘耀文的车被追尾",
+      "onboard_time": 1720350017,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1491623,
       "num": 1491623,
       "word": "林俊杰",
       "onboard_time": 1720281679,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1482286,
-      "num": 246800,
-      "word": "宋亚轩刘耀文的车被追尾",
-      "onboard_time": 1720350017,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1270870,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932345,
+      "num": 932345,
+      "word": "体重48公斤00后女警缴毒48公斤",
+      "onboard_time": 1720345998,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927608,
       "num": 927608,
       "word": "丁程鑫真的泼了王俊凯",
@@ -177,14 +185,6 @@
       "onboard_time": 1720345337,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 826627,
-      "num": 826627,
-      "word": "体重48公斤00后女警缴毒48公斤",
-      "onboard_time": 1720345998,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 801426,
@@ -408,6 +408,14 @@
       "word": "杭州29岁程序员熬夜看球后瘫了",
       "onboard_time": 1720342938,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449893,
+      "num": 275766,
+      "word": "一男子戴硅胶人脸面具作案近20起",
+      "onboard_time": 1720349238,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 293033,
-      "num": 242281,
+      "num": 267079,
       "word": "四名男子商场随机骚扰并殴打女路人",
       "onboard_time": 1720347137,
       "rank": 37,
@@ -785,6 +793,14 @@
       "onboard_time": 1720346778,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283432,
+      "num": 283432,
+      "word": "仙逆动画",
+      "onboard_time": 1720348819,
+      "rank": 9,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 283233,
@@ -859,14 +875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259179,
-      "num": 239902,
-      "word": "一男子戴硅胶人脸面具作案近20起",
-      "onboard_time": 1720349238,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -881,14 +889,6 @@
       "onboard_time": 1720274539,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251808,
-      "num": 251808,
-      "word": "仙逆动画",
-      "onboard_time": 1720348819,
-      "rank": 9,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 249544,
@@ -1067,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202864,
+      "num": 202864,
+      "word": "中国男排3比1比利时男排",
+      "onboard_time": 1720351097,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196610,
       "num": 196610,
       "word": "中储粮开展全系统排大排查",
@@ -1187,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184171,
+      "num": 184171,
+      "word": "LV设计的奥运会颁奖礼仪员制服",
+      "onboard_time": 1720350137,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183683,
       "num": 183683,
       "word": "黑龙江男篮原教练王楠去世",
@@ -1259,12 +1275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173351,
-      "num": 143859,
-      "word": "LV设计的奥运会颁奖礼仪员制服",
-      "onboard_time": 1720350137,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 176902,
+      "num": 176902,
+      "word": "把微信所有人设置成了仅聊天",
+      "onboard_time": 1720351519,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 170335,
@@ -1339,8 +1355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156619,
-      "num": 156619,
+      "raw_hot": 158012,
+      "num": 158012,
       "word": "山东局部特大暴雨双预警齐发",
       "onboard_time": 1720349957,
       "rank": 27,
@@ -1539,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128094,
+      "num": 128094,
+      "word": "为什么人们越来越离不开情绪价值",
+      "onboard_time": 1720348697,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127963,
       "num": 127963,
       "word": "汪苏泷好吵",
@@ -1619,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121247,
+      "num": 121247,
+      "word": "轻语的亚连",
+      "onboard_time": 1720351457,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119124,
       "num": 119124,
       "word": "杨和苏点评",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1720337058,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 118279,
+      "num": 118279,
+      "word": "KSG战胜TTG",
+      "onboard_time": 1720351457,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 117159,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1720320197,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113952,
+      "num": 244749,
+      "word": "男子第一次带女友回家全家列队欢迎",
+      "onboard_time": 1720349177,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112991,
@@ -1705,14 +1753,6 @@
       "onboard_time": 1720329018,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111228,
-      "num": 111228,
-      "word": "为什么人们越来越离不开情绪价值",
-      "onboard_time": 1720348697,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 111203,
@@ -1763,8 +1803,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107666,
-      "num": 107666,
+      "raw_hot": 108023,
+      "num": 108023,
       "word": "张本智和早田希娜WTT混双夺冠",
       "onboard_time": 1720348636,
       "rank": 38,
@@ -1867,6 +1907,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97786,
+      "num": 97786,
+      "word": "当地水利局回应周翠翠夫妇去世",
+      "onboard_time": 1720351878,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97115,
+      "num": 97115,
+      "word": "12306上的静兑铺都是啥意思",
+      "onboard_time": 1720351578,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96202,
       "num": 182387,
       "word": "七七事变87年祭",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1720332856,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89787,
+      "num": 89787,
+      "word": "下载看电影已成年轻人的小众行为",
+      "onboard_time": 1720351818,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 88426,
@@ -2027,14 +2091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67921,
-      "num": 244749,
-      "word": "男子第一次带女友回家全家列队欢迎",
-      "onboard_time": 1720349177,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66225,
       "num": 66225,
       "word": "许凯好帅",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1720267818,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56739,
+      "num": 282712,
+      "word": "煤矿工父亲泪洒女儿北大博士毕业礼",
+      "onboard_time": 1720351038,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55998,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1720272020,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40903,
-      "num": 144911,
-      "word": "煤矿工父亲泪洒女儿北大博士毕业礼",
-      "onboard_time": 1720351038,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40244,
