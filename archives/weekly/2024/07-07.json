@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720315694829,
+  "endTime": 1720316998289,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1265855,
-      "num": 328490,
+      "num": 362588,
       "word": "不要随便喝中国的肠润茶",
       "onboard_time": 1720307954,
       "rank": 31,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 864196,
-      "num": 864196,
+      "raw_hot": 909029,
+      "num": 909029,
       "word": "以为是同学结果是班主任",
       "onboard_time": 1720310415,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1720281558,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 667590,
+      "num": 667590,
+      "word": "上迪门票涨价至719元仍一票难求",
+      "onboard_time": 1720311916,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 629578,
@@ -83,14 +91,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 525346,
-      "num": 525346,
-      "word": "上迪门票涨价至719元仍一票难求",
-      "onboard_time": 1720311916,
-      "rank": 3,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 515851,
       "num": 256400,
       "word": "汪苏泷连夜追加八百万",
@@ -100,19 +100,35 @@
     },
     {
       "raw_hot": 512150,
-      "num": 323467,
+      "num": 475070,
       "word": "伊朗新总统主张亲西方政策",
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
     },
     {
+      "raw_hot": 473830,
+      "num": 473830,
+      "word": "卫星看洞庭湖遭洪水涌入",
+      "onboard_time": 1720313896,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459508,
-      "num": 301324,
+      "num": 331495,
       "word": "钓鱼网红周翠翠夫妇去世",
       "onboard_time": 1720270997,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446684,
+      "num": 446684,
+      "word": "87年前的今天永不能忘",
+      "onboard_time": 1720311557,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 442023,
@@ -131,28 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 410802,
-      "num": 410802,
-      "word": "卫星看洞庭湖遭洪水涌入",
-      "onboard_time": 1720313896,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402840,
-      "num": 314528,
+      "raw_hot": 408420,
+      "num": 362484,
       "word": "原来狗累了这么明显",
       "onboard_time": 1720307774,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399613,
-      "num": 399613,
-      "word": "87年前的今天永不能忘",
-      "onboard_time": 1720311557,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 391335,
@@ -171,8 +171,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385521,
+      "num": 385521,
+      "word": "警钟长鸣吾辈自强",
+      "onboard_time": 1720313717,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 380521,
-      "num": 310390,
+      "num": 334929,
       "word": "孙艺珍说和玄彬之间是命运",
       "onboard_time": 1720308134,
       "rank": 10,
@@ -195,12 +203,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 359571,
-      "num": 359571,
-      "word": "警钟长鸣吾辈自强",
-      "onboard_time": 1720313717,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 361997,
+      "num": 361997,
+      "word": "蔡文静的假发全靠脸来撑",
+      "onboard_time": 1720310175,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 350376,
@@ -243,20 +251,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 307885,
+      "num": 307885,
+      "word": "伯远确诊AUP型人格",
+      "onboard_time": 1720314617,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296263,
       "num": 296263,
       "word": "理想L6提车9天后要换电机",
       "onboard_time": 1720311557,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 288700,
-      "num": 288700,
-      "word": "蔡文静的假发全靠脸来撑",
-      "onboard_time": 1720310175,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 287958,
@@ -299,20 +307,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 277963,
+      "num": 277963,
+      "word": "银行开始对个人按揭贷款较真",
+      "onboard_time": 1720307954,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 264012,
       "num": 249880,
       "word": "存款多少才敢辞职",
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263298,
-      "num": 263298,
-      "word": "银行开始对个人按揭贷款较真",
-      "onboard_time": 1720307954,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 257263,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243861,
+      "num": 243861,
+      "word": "日军拍洗白影片歪曲侵华事实",
+      "onboard_time": 1720314916,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239835,
       "num": 239835,
       "word": "离职8年后因前老板涉黑获刑",
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238774,
+      "num": 238774,
+      "word": "平价小火锅快把大牌连锁干趴了",
+      "onboard_time": 1720312876,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234045,
       "num": 234045,
       "word": "1937年7月7日永不能忘",
       "onboard_time": 1720307534,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232343,
-      "num": 232343,
-      "word": "平价小火锅快把大牌连锁干趴了",
-      "onboard_time": 1720312876,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 227882,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215757,
+      "num": 215757,
+      "word": "空腹吃这些食物会得胃结石",
+      "onboard_time": 1720316237,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 213472,
       "num": 182013,
       "word": "张子墨 不自信",
@@ -401,6 +425,14 @@
       "onboard_time": 1720279938,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208731,
+      "num": 208731,
+      "word": "铁西",
+      "onboard_time": 1720311436,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 208011,
@@ -419,28 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195839,
+      "num": 195839,
+      "word": "王俊凯露额头了",
+      "onboard_time": 1720313237,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188921,
       "num": 134619,
       "word": "七七事变",
       "onboard_time": 1720308074,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187786,
-      "num": 187786,
-      "word": "铁西",
-      "onboard_time": 1720311436,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 184823,
-      "num": 184823,
-      "word": "王俊凯露额头了",
-      "onboard_time": 1720313237,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 184646,
@@ -483,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169722,
+      "num": 169722,
+      "word": "任嘉伦 翘臀",
+      "onboard_time": 1720316117,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165378,
       "num": 165378,
       "word": "默杀",
       "onboard_time": 1720272978,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160696,
-      "num": 160696,
-      "word": "伯远确诊AUP型人格",
-      "onboard_time": 1720314617,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 158821,
@@ -507,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153335,
-      "num": 153335,
-      "word": "日军拍洗白影片歪曲侵华事实",
-      "onboard_time": 1720314916,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 146478,
       "num": 146478,
       "word": "TES零封G2",
       "onboard_time": 1720307353,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146072,
+      "num": 146072,
+      "word": "体检查出这15种毛病有些不用治",
+      "onboard_time": 1720314677,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144799,
@@ -627,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112991,
+      "num": 112991,
+      "word": "马丁加盟76人",
+      "onboard_time": 1720316597,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112809,
       "num": 112809,
       "word": "坚持运动40年的身材",
@@ -683,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102182,
-      "num": 102182,
-      "word": "体检查出这15种毛病有些不用治",
-      "onboard_time": 1720314677,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "被自制的蝴蝶书签酷到了",
@@ -721,6 +745,14 @@
       "onboard_time": 1720292653,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93581,
+      "num": 363171,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84615,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 31661,
-      "num": 543634,
+      "num": 574343,
       "word": "中国友谊勋章如何颁授",
       "onboard_time": 1720277598,
       "rank": 2,
