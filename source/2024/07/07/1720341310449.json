@@ -1,0 +1,410 @@
+{
+  "runTime": 1720341310449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 564495,
+        "num": 564495,
+        "word": "杭州热到全国第一",
+        "onboard_time": 1720339097,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549136,
+        "num": 549136,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11315,
+        "num": 478147,
+        "word": "开辟周边命运共同体建设新前景",
+        "onboard_time": 1720324337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645724,
+        "num": 466909,
+        "word": "印度一工人被蛇咬后反将蛇咬死",
+        "onboard_time": 1720339518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442213,
+        "num": 442213,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423083,
+        "num": 423083,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 396042,
+        "num": 396042,
+        "word": "默杀票房破3亿",
+        "onboard_time": 1720338436,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393222,
+        "num": 393222,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389508,
+        "num": 389508,
+        "word": "city不city博主盛赞144小时过境政策",
+        "onboard_time": 1720338018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36970,
+        "num": 379638,
+        "word": "母子遇暴雨被困车内路人出手救出",
+        "onboard_time": 1720337897,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 782423,
+        "num": 379576,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379507,
+        "num": 379507,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354716,
+        "num": 354716,
+        "word": "上海徐汇气温目前全国最高",
+        "onboard_time": 1720338317,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311172,
+        "num": 311172,
+        "word": "张馨予 姐没有被PUA",
+        "onboard_time": 1720334117,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298144,
+        "num": 298144,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265514,
+        "num": 265514,
+        "word": "张卫健还演过这么抽象的电视剧",
+        "onboard_time": 1720336818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226307,
+        "num": 226307,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222110,
+        "num": 222110,
+        "word": "裴珠泫MC公主造型",
+        "onboard_time": 1720340537,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205833,
+        "num": 205833,
+        "word": "丽江偶遇了Angelababy",
+        "onboard_time": 1720341198,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190642,
+        "num": 190642,
+        "word": "世卫组织宣布滑石粉或致癌",
+        "onboard_time": 1720331898,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1217658,
+        "num": 189705,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293906,
+        "num": 188422,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1720338256,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 187314,
+        "word": "女生的颜值开关",
+        "onboard_time": 1720338256,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180562,
+        "num": 180562,
+        "word": "被遗忘机场当事人收到东航道歉信",
+        "onboard_time": 1720334238,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179719,
+        "num": 179719,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179170,
+        "num": 179170,
+        "word": "电影默杀",
+        "onboard_time": 1720336219,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177890,
+        "num": 177890,
+        "word": "买三金要不要AA",
+        "onboard_time": 1720336156,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170246,
+        "num": 170246,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165156,
+        "num": 165156,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141685,
+        "num": 141685,
+        "word": "洞庭湖大堤226米决口已封堵75米",
+        "onboard_time": 1720340357,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142956,
+        "num": 141601,
+        "word": "两只熊猫比任何人都忙",
+        "onboard_time": 1720341077,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140124,
+        "num": 140124,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137941,
+        "num": 137941,
+        "word": "张静初回应全素饮食被质疑不健康",
+        "onboard_time": 1720334597,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132855,
+        "num": 132855,
+        "word": "于正 谨言是掌女王了",
+        "onboard_time": 1720340778,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128797,
+        "num": 128797,
+        "word": "青环5封神4分钟",
+        "onboard_time": 1720340897,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126733,
+        "num": 126733,
+        "word": "赵明称苹果近几年没什么创新",
+        "onboard_time": 1720340298,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126469,
+        "num": 126469,
+        "word": "王星越戴儿童驱蚊手环",
+        "onboard_time": 1720340416,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126390,
+        "num": 126390,
+        "word": "原来西梅是李子不是梅子",
+        "onboard_time": 1720332978,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124589,
+        "num": 124589,
+        "word": "东莞消防通报化纤厂爆燃事件",
+        "onboard_time": 1720330699,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117901,
+        "num": 117901,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114989,
+        "num": 114989,
+        "word": "跳广场舞一个月瘦了7斤",
+        "onboard_time": 1720337058,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112320,
+        "num": 112320,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111280,
+        "num": 111280,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109376,
+        "num": 109376,
+        "word": "FPX官宣xiaolaohu休假",
+        "onboard_time": 1720337656,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107811,
+        "num": 107811,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102960,
+        "num": 102960,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101271,
+        "num": 101271,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99862,
+        "num": 99862,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99080,
+        "num": 99080,
+        "word": "孙丞潇做出了评价最差的一道菜",
+        "onboard_time": 1720332498,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94123,
+        "num": 94123,
+        "word": "张本智和3比1林昀儒",
+        "onboard_time": 1720337656,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一本珍贵相册见证中塔友谊#"
+    }
+  }
+}
