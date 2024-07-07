@@ -1,0 +1,410 @@
+{
+  "runTime": 1720355654596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007544,
+        "num": 1007544,
+        "word": "有香港人去深圳买一周的菜",
+        "onboard_time": 1720352357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600172,
+        "num": 600172,
+        "word": "体重48公斤00后女警缴毒48公斤",
+        "onboard_time": 1720345998,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4733,
+        "num": 466840,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438504,
+        "num": 438504,
+        "word": "一男子戴硅胶人脸面具作案近20起",
+        "onboard_time": 1720349238,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387801,
+        "num": 387801,
+        "word": "骄阳似我 李现田曦薇",
+        "onboard_time": 1720345037,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378639,
+        "num": 378639,
+        "word": "时代少年团到达长沙录制hi6",
+        "onboard_time": 1720352298,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348634,
+        "num": 348634,
+        "word": "外国博主发现了中国人瘦的原因",
+        "onboard_time": 1720341618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333884,
+        "num": 333884,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 311676,
+        "num": 311676,
+        "word": "董力回应被骂",
+        "onboard_time": 1720352357,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31785,
+        "num": 305636,
+        "word": "中国小伙一腿一臂登顶乞力马扎罗",
+        "onboard_time": 1720354757,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683084,
+        "num": 300635,
+        "word": "韩雪夫妇与好友聚餐",
+        "onboard_time": 1720354938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619333,
+        "num": 294819,
+        "word": "长沙一小区疑似疯犬狂奔咬伤多人",
+        "onboard_time": 1720345337,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 430908,
+        "num": 290355,
+        "word": "朱一龙 游戏昵称",
+        "onboard_time": 1720354337,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395260,
+        "num": 281896,
+        "word": "任敏瘦了",
+        "onboard_time": 1720347619,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18632,
+        "num": 275305,
+        "word": "黄金联赛第十赛季",
+        "onboard_time": 1720353618,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335302,
+        "num": 267453,
+        "word": "12306上的静兑铺都是啥意思",
+        "onboard_time": 1720351578,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264638,
+        "num": 264638,
+        "word": "默杀票房破3亿",
+        "onboard_time": 1720338436,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250713,
+        "num": 250713,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236248,
+        "num": 236248,
+        "word": "印度一工人被蛇咬后反将蛇咬死",
+        "onboard_time": 1720339518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203446,
+        "num": 203446,
+        "word": "印度决定放宽对中国工人的签证限制",
+        "onboard_time": 1720345097,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1233811,
+        "num": 202141,
+        "word": "宋亚轩刘耀文的车被追尾",
+        "onboard_time": 1720350017,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040580,
+        "num": 200824,
+        "word": "把微信所有人设置成了仅聊天",
+        "onboard_time": 1720351519,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199226,
+        "num": 199226,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191410,
+        "num": 191410,
+        "word": "79秒看懂洞庭湖决堤全过程",
+        "onboard_time": 1720353437,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178610,
+        "num": 178610,
+        "word": "男子第一次带女友回家全家列队欢迎",
+        "onboard_time": 1720349177,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176497,
+        "num": 176497,
+        "word": "贺峻霖被贴脸开大",
+        "onboard_time": 1720352177,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168121,
+        "num": 168121,
+        "word": "成毅提裙奔跑",
+        "onboard_time": 1720353557,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156599,
+        "num": 156599,
+        "word": "仙逆动画",
+        "onboard_time": 1720348819,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 150129,
+        "num": 150129,
+        "word": "四名男子商场随机骚扰并殴打女路人",
+        "onboard_time": 1720347137,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143873,
+        "num": 143873,
+        "word": "下载看电影已成年轻人的小众行为",
+        "onboard_time": 1720351818,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139931,
+        "num": 139931,
+        "word": "山东局部特大暴雨双预警齐发",
+        "onboard_time": 1720349957,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153901,
+        "num": 138840,
+        "word": "成毅金发",
+        "onboard_time": 1720354637,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136442,
+        "num": 136442,
+        "word": "电影默杀",
+        "onboard_time": 1720336219,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122751,
+        "num": 122751,
+        "word": "杭州热到全国第一",
+        "onboard_time": 1720339097,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119642,
+        "num": 119642,
+        "word": "LV设计的奥运会颁奖礼仪员制服",
+        "onboard_time": 1720350137,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115601,
+        "num": 115601,
+        "word": "中国男排3比1比利时男排",
+        "onboard_time": 1720351097,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115126,
+        "num": 115126,
+        "word": "杭州29岁程序员熬夜看球后瘫了",
+        "onboard_time": 1720342938,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114231,
+        "num": 114231,
+        "word": "丽江偶遇了Angelababy",
+        "onboard_time": 1720341198,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111335,
+        "num": 111335,
+        "word": "见小孩就送蛋糕的怪人只是想女儿了",
+        "onboard_time": 1720345456,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111230,
+        "num": 111230,
+        "word": "何与打卡赵丽颖簪花图",
+        "onboard_time": 1720348518,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107053,
+        "num": 107053,
+        "word": "为什么说走路是性价比最高的运动",
+        "onboard_time": 1720354098,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 105891,
+        "word": "西梅是被列入医嘱的通便食物",
+        "onboard_time": 1720342278,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101525,
+        "num": 101525,
+        "word": "默杀 王圣迪徐娇相互救赎",
+        "onboard_time": 1720353199,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99191,
+        "num": 99191,
+        "word": "当地水利局回应周翠翠夫妇去世",
+        "onboard_time": 1720351878,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89366,
+        "num": 89366,
+        "word": "为什么人们越来越离不开情绪价值",
+        "onboard_time": 1720348697,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83472,
+        "num": 83472,
+        "word": "刘耀文对接发文回应",
+        "onboard_time": 1720355598,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80226,
+        "num": 83467,
+        "word": "4739人参加洞庭湖决堤现场救援",
+        "onboard_time": 1720346778,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78104,
+        "num": 83451,
+        "word": "孟子义没玩明白但夺冠了",
+        "onboard_time": 1720355237,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75265,
+        "num": 83431,
+        "word": "韩国为大熊猫双胞胎姐妹过生日",
+        "onboard_time": 1720343237,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75008,
+        "num": 83430,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
