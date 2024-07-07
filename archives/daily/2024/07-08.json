@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720369333814,
+  "endTime": 1720370241390,
   "band_list": [
     {
       "raw_hot": 554253,
@@ -19,15 +19,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492941,
-      "num": 492941,
+      "raw_hot": 502649,
+      "num": 502649,
       "word": "TES对战T1",
       "onboard_time": 1720366937,
       "rank": 1,
       "category": "电竞"
     },
     {
-      "raw_hot": 476291,
+      "raw_hot": 496788,
       "num": 210269,
       "word": "韩雪夫妇与好友聚餐",
       "onboard_time": 1720354938,
@@ -97,6 +97,14 @@
       "onboard_time": 1720359920,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232625,
+      "num": 232625,
+      "word": "赵露思 路透",
+      "onboard_time": 1720368077,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 218815,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146364,
-      "num": 146364,
-      "word": "赵露思 路透",
-      "onboard_time": 1720368077,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138163,
       "num": 138163,
       "word": "47岁男子洗头后心梗离世",
@@ -201,6 +201,14 @@
       "onboard_time": 1720364059,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116834,
+      "num": 116834,
+      "word": "BabyMonster新歌舞台",
+      "onboard_time": 1720367958,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 110105,
@@ -219,28 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107882,
+      "num": 107882,
+      "word": "宋亚轩对接报平安",
+      "onboard_time": 1720356798,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107233,
       "num": 107233,
       "word": "大熊猫赴港",
       "onboard_time": 1720361239,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105154,
-      "num": 105154,
-      "word": "BabyMonster新歌舞台",
-      "onboard_time": 1720367958,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 101009,
-      "num": 101009,
-      "word": "宋亚轩对接报平安",
-      "onboard_time": 1720356798,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 100095,
@@ -299,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83501,
+      "num": 83501,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81638,
       "num": 81638,
       "word": "F1",
@@ -313,14 +321,6 @@
       "onboard_time": 1720360638,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79545,
-      "num": 79545,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78340,
@@ -384,6 +384,22 @@
       "word": "12306上的静兑铺都是啥意思",
       "onboard_time": 1720351578,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60204,
+      "num": 60204,
+      "word": "时代少年团对接回应",
+      "onboard_time": 1720356258,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53016,
+      "num": 53016,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

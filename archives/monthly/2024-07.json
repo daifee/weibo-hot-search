@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720369333814,
+  "endTime": 1720370241390,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3811,6 +3811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 502649,
+      "num": 502649,
+      "word": "TES对战T1",
+      "onboard_time": 1720366937,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 502229,
       "num": 502229,
       "word": "河南暴雨",
@@ -3921,14 +3929,6 @@
       "onboard_time": 1719819437,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 492941,
-      "num": 492941,
-      "word": "TES对战T1",
-      "onboard_time": 1720366937,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 492709,
@@ -8297,6 +8297,14 @@
       "onboard_time": 1720176678,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232625,
+      "num": 232625,
+      "word": "赵露思 路透",
+      "onboard_time": 1720368077,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 232544,
@@ -13291,14 +13299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146364,
-      "num": 146364,
-      "word": "赵露思 路透",
-      "onboard_time": 1720368077,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146284,
       "num": 146284,
       "word": "肯德基原神联动",
@@ -15995,6 +15995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116834,
+      "num": 116834,
+      "word": "BabyMonster新歌舞台",
+      "onboard_time": 1720367958,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116826,
       "num": 116826,
       "word": "滕哈格续约曼联",
@@ -16921,14 +16929,6 @@
       "onboard_time": 1719921258,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 105154,
-      "num": 105154,
-      "word": "BabyMonster新歌舞台",
-      "onboard_time": 1720367958,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 105130,
@@ -18873,6 +18873,14 @@
       "onboard_time": 1719899119,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 53016,
+      "num": 53016,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52935,
