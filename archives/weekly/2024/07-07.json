@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720370241390,
+  "endTime": 1720372704367,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591510,
+      "num": 591510,
+      "word": "TES对战T1",
+      "onboard_time": 1720366937,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 582419,
       "num": 582419,
       "word": "德国女高管担心前途摔死新生女儿",
@@ -433,14 +441,6 @@
       "onboard_time": 1720333577,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 502649,
-      "num": 502649,
-      "word": "TES对战T1",
-      "onboard_time": 1720366937,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 473830,
@@ -753,6 +753,14 @@
       "onboard_time": 1720316237,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 363596,
+      "num": 363596,
+      "word": "TES先下一城",
+      "onboard_time": 1720370894,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 361997,
@@ -1179,6 +1187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234654,
+      "num": 234654,
+      "word": "赵露思 路透",
+      "onboard_time": 1720368077,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234045,
       "num": 234045,
       "word": "1937年7月7日永不能忘",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1720358959,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232625,
-      "num": 232625,
-      "word": "赵露思 路透",
-      "onboard_time": 1720368077,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 231459,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1720364779,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197618,
+      "num": 141320,
+      "word": "Gumayusi要三比零TES",
+      "onboard_time": 1720371136,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 196610,
@@ -1763,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153011,
+      "num": 153011,
+      "word": "小奶油单杀Faker",
+      "onboard_time": 1720371256,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152086,
       "num": 152086,
       "word": "下载看电影已成年轻人的小众行为",
@@ -1867,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144502,
+      "num": 144502,
+      "word": "人机局",
+      "onboard_time": 1720371854,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1720343957,
       "rank": 48,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 138028,
+      "num": 138028,
+      "word": "JackeyLove神箭",
+      "onboard_time": 1720371434,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 137896,
@@ -2603,6 +2643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76035,
+      "num": 76035,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69954,
+      "num": 69954,
+      "word": "TES全华班",
+      "onboard_time": 1720371015,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68266,
       "num": 68266,
       "word": "男子跳入激流拦网式救落水孩子",
@@ -2625,6 +2681,22 @@
       "onboard_time": 1720308495,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65753,
+      "num": 65753,
+      "word": "BP完了采访教练思路",
+      "onboard_time": 1720372334,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 65617,
+      "num": 65617,
+      "word": "不ban小炮",
+      "onboard_time": 1720371614,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 64831,
@@ -2739,14 +2811,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 53016,
-      "num": 53016,
-      "word": "中储粮回应罐车运输油罐混用",
-      "onboard_time": 1720370175,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50901,
       "num": 50901,
       "word": "体脂率是衡量胖瘦的金标准",
@@ -2793,6 +2857,14 @@
       "onboard_time": 1720302911,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45661,
+      "num": 45661,
+      "word": "盲盒旅行局",
+      "onboard_time": 1720372394,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 45307,
@@ -2947,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19241,
+      "num": 138796,
+      "word": "陌生男子给小孩发蛋糕原因让人泪目",
+      "onboard_time": 1720370776,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19217,
       "num": 19217,
       "word": "和平精英",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1720346418,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9937,
+      "num": 76872,
+      "word": "中国留学生毕业音乐会唱强军战歌",
+      "onboard_time": 1720363998,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 7294,

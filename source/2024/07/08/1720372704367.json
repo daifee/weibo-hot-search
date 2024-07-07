@@ -1,0 +1,410 @@
+{
+  "runTime": 1720372704367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 591510,
+        "num": 591510,
+        "word": "TES对战T1",
+        "onboard_time": 1720366937,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363596,
+        "num": 363596,
+        "word": "TES先下一城",
+        "onboard_time": 1720370894,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26647,
+        "num": 314735,
+        "word": "中塔关系拥有了新定位",
+        "onboard_time": 1720361658,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275302,
+        "num": 275302,
+        "word": "河南暴雨实况",
+        "onboard_time": 1720363579,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245002,
+        "num": 245002,
+        "word": "普京没空吃饭偷吃零食",
+        "onboard_time": 1720356019,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234654,
+        "num": 234654,
+        "word": "赵露思 路透",
+        "onboard_time": 1720368077,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225044,
+        "num": 225044,
+        "word": "洞庭湖决堤被冲毁的家和生计",
+        "onboard_time": 1720363939,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153011,
+        "num": 153011,
+        "word": "小奶油单杀Faker",
+        "onboard_time": 1720371256,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146416,
+        "num": 146416,
+        "word": "默杀 王圣迪已是nextlevel",
+        "onboard_time": 1720359920,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144502,
+        "num": 144502,
+        "word": "人机局",
+        "onboard_time": 1720371854,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 373078,
+        "num": 144341,
+        "word": "韩雪夫妇与好友聚餐",
+        "onboard_time": 1720354938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197618,
+        "num": 141320,
+        "word": "Gumayusi要三比零TES",
+        "onboard_time": 1720371136,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146956,
+        "num": 139702,
+        "word": "警方通报男子骚扰并殴打女子",
+        "onboard_time": 1720365198,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19241,
+        "num": 138796,
+        "word": "陌生男子给小孩发蛋糕原因让人泪目",
+        "onboard_time": 1720370776,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138028,
+        "num": 138028,
+        "word": "JackeyLove神箭",
+        "onboard_time": 1720371434,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112908,
+        "num": 112908,
+        "word": "BabyMonster新歌舞台",
+        "onboard_time": 1720367958,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108016,
+        "num": 108016,
+        "word": "汉密尔顿英国主场夺冠",
+        "onboard_time": 1720367777,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105935,
+        "num": 105935,
+        "word": "呼吸时突然胸部莫名刺痛",
+        "onboard_time": 1720362259,
+        "rank": 17,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "韩廷 强制爱",
+        "onboard_time": 1720356679,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95771,
+        "num": 95771,
+        "word": "张本智和男单夺冠",
+        "onboard_time": 1720358719,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274209,
+        "num": 92784,
+        "word": "把微信所有人设置成了仅聊天",
+        "onboard_time": 1720351519,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234343,
+        "num": 91674,
+        "word": "宋亚轩刘耀文的车被追尾",
+        "onboard_time": 1720350017,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112034,
+        "num": 91420,
+        "word": "羽毛球为何成体制内第一运动",
+        "onboard_time": 1720364420,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88084,
+        "num": 88084,
+        "word": "成毅金发",
+        "onboard_time": 1720354637,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86775,
+        "num": 86775,
+        "word": "白桃星座",
+        "onboard_time": 1720364120,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 85808,
+        "num": 85808,
+        "word": "有香港人去深圳买一周的菜",
+        "onboard_time": 1720352357,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85594,
+        "num": 85594,
+        "word": "电竞世界杯",
+        "onboard_time": 1720366457,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83527,
+        "num": 83527,
+        "word": "睡眠不足为什么会引起糖尿病",
+        "onboard_time": 1720364898,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 75813,
+        "num": 78401,
+        "word": "体重48公斤00后女警缴毒48公斤",
+        "onboard_time": 1720345998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9937,
+        "num": 76872,
+        "word": "中国留学生毕业音乐会唱强军战歌",
+        "onboard_time": 1720363998,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76035,
+        "num": 76035,
+        "word": "中储粮回应罐车运输油罐混用",
+        "onboard_time": 1720370175,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73832,
+        "num": 73832,
+        "word": "47岁男子洗头后心梗离世",
+        "onboard_time": 1720355958,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71520,
+        "num": 71520,
+        "word": "宋亚轩对接报平安",
+        "onboard_time": 1720356798,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69954,
+        "num": 69954,
+        "word": "TES全华班",
+        "onboard_time": 1720371015,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67151,
+        "num": 67151,
+        "word": "骄阳似我 李现田曦薇",
+        "onboard_time": 1720345037,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65753,
+        "num": 65753,
+        "word": "BP完了采访教练思路",
+        "onboard_time": 1720372334,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65617,
+        "num": 65617,
+        "word": "不ban小炮",
+        "onboard_time": 1720371614,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65248,
+        "num": 65248,
+        "word": "79秒看懂洞庭湖决堤全过程",
+        "onboard_time": 1720353437,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63397,
+        "num": 63397,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 59075,
+        "num": 59075,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57871,
+        "num": 57871,
+        "word": "李蓉重新喜欢上裴文宣",
+        "onboard_time": 1720366217,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57697,
+        "num": 57697,
+        "word": "五月天深圳",
+        "onboard_time": 1720364779,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48360,
+        "num": 48360,
+        "word": "刘耀文对接发文回应",
+        "onboard_time": 1720355598,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46716,
+        "num": 46716,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45661,
+        "num": 45661,
+        "word": "盲盒旅行局",
+        "onboard_time": 1720372394,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44925,
+        "num": 44925,
+        "word": "夏天穿什么颜色的衣服最防晒",
+        "onboard_time": 1720355778,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44790,
+        "num": 44790,
+        "word": "严浩翔赛车第一",
+        "onboard_time": 1720364059,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44171,
+        "num": 44171,
+        "word": "伊藤美诚WTT女单夺冠",
+        "onboard_time": 1720355898,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43748,
+        "num": 43748,
+        "word": "大熊猫赴港",
+        "onboard_time": 1720361239,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41670,
+        "num": 41670,
+        "word": "时代少年团对接回应",
+        "onboard_time": 1720356258,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三访塔吉克斯坦习近平主席心系这份兄弟情谊#"
+    }
+  }
+}
