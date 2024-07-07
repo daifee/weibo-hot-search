@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720380855380,
+  "endTime": 1720383539645,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -14595,6 +14595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133883,
+      "num": 133883,
+      "word": "T1夺冠",
+      "onboard_time": 1720383431,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133633,
       "num": 133633,
       "word": "姆巴佩面具",
@@ -17225,6 +17233,14 @@
       "onboard_time": 1720353199,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101283,
+      "num": 101283,
+      "word": "Faker亚索",
+      "onboard_time": 1720383071,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 101123,
@@ -19915,6 +19931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29999,
+      "num": 29999,
+      "word": "JackeyLove四杀",
+      "onboard_time": 1720383191,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29859,
       "num": 408566,
       "word": "我国航天员已圆满完成16次出舱活动",
@@ -20361,6 +20385,14 @@
       "onboard_time": 1720116012,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19915,
+      "num": 19915,
+      "word": "经典第四把",
+      "onboard_time": 1720383130,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 19837,

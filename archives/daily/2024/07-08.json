@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720380855380,
+  "endTime": 1720383539645,
   "band_list": [
     {
       "raw_hot": 591510,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133883,
+      "num": 133883,
+      "word": "T1夺冠",
+      "onboard_time": 1720383431,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116834,
       "num": 116834,
       "word": "BabyMonster新歌舞台",
@@ -329,6 +337,14 @@
       "onboard_time": 1720361239,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101283,
+      "num": 101283,
+      "word": "Faker亚索",
+      "onboard_time": 1720383071,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 100095,
@@ -571,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29999,
+      "num": 29999,
+      "word": "JackeyLove四杀",
+      "onboard_time": 1720383191,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 24870,
       "num": 214039,
       "word": "山东暴雨高铁站开休息室供旅客躲雨",
@@ -584,6 +608,14 @@
       "word": "369单杀Zeus",
       "onboard_time": 1720379711,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 19915,
+      "num": 19915,
+      "word": "经典第四把",
+      "onboard_time": 1720383130,
+      "rank": 33,
       "category": "电竞"
     },
     {
