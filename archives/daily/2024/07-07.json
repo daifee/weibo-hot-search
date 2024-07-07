@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720319895806,
+  "endTime": 1720320474831,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -19,7 +19,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1040275,
+      "raw_hot": 1049717,
       "num": 303418,
       "word": "王俊凯 小丁没事哒没事哒",
       "onboard_time": 1720317676,
@@ -33,6 +33,14 @@
       "onboard_time": 1720274479,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 919242,
+      "num": 919242,
+      "word": "日军拍洗白影片歪曲侵华事实",
+      "onboard_time": 1720314916,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 909029,
@@ -51,20 +59,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 797277,
-      "num": 797277,
-      "word": "日军拍洗白影片歪曲侵华事实",
-      "onboard_time": 1720314916,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 696394,
       "num": 251583,
       "word": "蔡依林最想删掉的照片",
       "onboard_time": 1720281558,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 675453,
+      "num": 675453,
+      "word": "今日中国再不是1937的中国",
+      "onboard_time": 1720307833,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 667590,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618277,
-      "num": 618277,
-      "word": "今日中国再不是1937的中国",
-      "onboard_time": 1720307833,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 592440,
       "num": 592440,
       "word": "日本2男子将50岁同事放洗衣机",
@@ -121,6 +121,14 @@
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 503151,
+      "num": 288338,
+      "word": "男孩被收养16年被判无权继承百万遗产",
+      "onboard_time": 1720319836,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473830,
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318824,
+      "num": 318824,
+      "word": "洞庭湖决口出现水流回流",
+      "onboard_time": 1720318697,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267501,
-      "num": 267501,
-      "word": "男孩被收养16年被判无权继承百万遗产",
-      "onboard_time": 1720319836,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264012,
       "num": 249880,
       "word": "存款多少才敢辞职",
@@ -371,19 +379,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254398,
+      "num": 363171,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253091,
       "num": 253091,
       "word": "扬州地震",
       "onboard_time": 1720274539,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250317,
-      "num": 250317,
-      "word": "洞庭湖决口出现水流回流",
-      "onboard_time": 1720318697,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -408,14 +416,6 @@
       "word": "离职8年后因前老板涉黑获刑",
       "onboard_time": 1720274420,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239607,
-      "num": 363171,
-      "word": "恭喜子涵同学成为海军飞行学员",
-      "onboard_time": 1720316297,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214532,
+      "num": 214532,
+      "word": "11家上市银行反向讨薪近亿元",
+      "onboard_time": 1720317918,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213472,
       "num": 182013,
       "word": "张子墨 不自信",
@@ -465,6 +473,14 @@
       "onboard_time": 1720279938,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209486,
+      "num": 209486,
+      "word": "金秀贤 偷偷藏不住",
+      "onboard_time": 1720320138,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 208731,
@@ -483,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206247,
-      "num": 206247,
-      "word": "11家上市银行反向讨薪近亿元",
-      "onboard_time": 1720317918,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206165,
       "num": 206165,
       "word": "欧洲杯四强出炉",
       "onboard_time": 1720308674,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202448,
+      "num": 202448,
+      "word": "赵今麦人形电脑天使心",
+      "onboard_time": 1720317197,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195839,
@@ -563,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170332,
-      "num": 170332,
-      "word": "赵今麦人形电脑天使心",
-      "onboard_time": 1720317197,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170000,
       "num": 170000,
       "word": "警方通报川藏线孕妇插队事件",
@@ -601,6 +609,14 @@
       "onboard_time": 1720278739,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156368,
+      "num": 156368,
+      "word": "不想接婆婆视频怎么办",
+      "onboard_time": 1720319358,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 151555,
@@ -659,12 +675,12 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 129989,
-      "num": 129989,
-      "word": "不想接婆婆视频怎么办",
-      "onboard_time": 1720319358,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 133690,
+      "num": 133690,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129614,
@@ -715,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122215,
-      "num": 122215,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119124,
       "num": 119124,
       "word": "杨和苏点评",
@@ -737,6 +745,22 @@
       "onboard_time": 1720307534,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114694,
+      "num": 114694,
+      "word": "石凯南京",
+      "onboard_time": 1720320376,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113972,
+      "num": 113972,
+      "word": "帮一个老外买票用尽了毕生的英语",
+      "onboard_time": 1720320197,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112991,
