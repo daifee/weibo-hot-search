@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720377390999,
+  "endTime": 1720379746348,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -2035,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132530,
+      "num": 132530,
+      "word": "沙特杯超长暂停时间",
+      "onboard_time": 1720378031,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131139,
       "num": 131139,
       "word": "AG战胜eStar",
@@ -2731,6 +2739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65131,
+      "num": 53399,
+      "word": "石油杯 奶油杯",
+      "onboard_time": 1720374372,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64831,
       "num": 64831,
       "word": "鞠婧祎周六放饭",
@@ -2883,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48079,
+      "num": 48079,
+      "word": "T1拿到赛点",
+      "onboard_time": 1720379591,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47754,
       "num": 277352,
       "word": "男孩毕业从头哭到尾被小伙伴接力安慰",
@@ -2955,20 +2979,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40345,
+      "num": 40345,
+      "word": "369鳄鱼",
+      "onboard_time": 1720379351,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
       "onboard_time": 1720277540,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38786,
-      "num": 38786,
-      "word": "石油杯 奶油杯",
-      "onboard_time": 1720374372,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 38329,
@@ -3075,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20803,
+      "num": 22521,
+      "word": "369单杀Zeus",
+      "onboard_time": 1720379711,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 19837,
       "num": 78950,
       "word": "15岁男孩教科书式急救抢回一条命",
@@ -3123,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10449,
+      "num": 49719,
+      "word": "大学生为丽水近30对老人补拍结婚照",
+      "onboard_time": 1720379472,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10184,
       "num": 118523,
       "word": "草根篮球也有大场面",
@@ -3136,6 +3176,14 @@
       "word": "B太向灾区捐赠物资",
       "onboard_time": 1720375752,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7476,
+      "num": 24506,
+      "word": "当婺剧遇上00后",
+      "onboard_time": 1720377613,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
