@@ -1,0 +1,410 @@
+{
+  "runTime": 1720347524031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004073,
+        "num": 1004073,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 879774,
+        "num": 879774,
+        "word": "骄阳似我 李现田曦薇",
+        "onboard_time": 1720345037,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5816,
+        "num": 878777,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878260,
+        "num": 878260,
+        "word": "N1",
+        "onboard_time": 1720342637,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 575380,
+        "num": 575380,
+        "word": "印度一工人被蛇咬后反将蛇咬死",
+        "onboard_time": 1720339518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563232,
+        "num": 563232,
+        "word": "外国博主发现了中国人瘦的原因",
+        "onboard_time": 1720341618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426754,
+        "num": 426754,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84026,
+        "num": 372318,
+        "word": "洞庭湖决口救援最新进展",
+        "onboard_time": 1720342697,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356209,
+        "num": 356209,
+        "word": "杭州热到全国第一",
+        "onboard_time": 1720339097,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325874,
+        "num": 325874,
+        "word": "默杀票房破3亿",
+        "onboard_time": 1720338436,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 679989,
+        "num": 324897,
+        "word": "长沙一小区疑似疯犬狂奔咬伤多人",
+        "onboard_time": 1720345337,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 551568,
+        "num": 323733,
+        "word": "丽江偶遇了Angelababy",
+        "onboard_time": 1720341198,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501984,
+        "num": 323406,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350488,
+        "num": 321581,
+        "word": "印度决定放宽对中国工人的签证限制",
+        "onboard_time": 1720345097,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 321558,
+        "num": 321558,
+        "word": "N2",
+        "onboard_time": 1720343058,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314010,
+        "num": 314010,
+        "word": "成韩彬发文道歉",
+        "onboard_time": 1720343417,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26274,
+        "num": 261715,
+        "word": "101岁抗战老兵看到祖国战机竖大拇指",
+        "onboard_time": 1720347317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250646,
+        "num": 250646,
+        "word": "青环5封神4分钟",
+        "onboard_time": 1720340897,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216847,
+        "num": 216847,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202975,
+        "num": 202975,
+        "word": "4739人参加洞庭湖决堤现场救援",
+        "onboard_time": 1720346778,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436583,
+        "num": 201960,
+        "word": "杭州29岁程序员熬夜看球后瘫了",
+        "onboard_time": 1720342938,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382444,
+        "num": 201832,
+        "word": "体重48公斤00后女警缴毒48公斤",
+        "onboard_time": 1720345998,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199681,
+        "num": 199681,
+        "word": "韩国为大熊猫双胞胎姐妹过生日",
+        "onboard_time": 1720343237,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371202,
+        "num": 196064,
+        "word": "西梅是被列入医嘱的通便食物",
+        "onboard_time": 1720342278,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201572,
+        "num": 193673,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189966,
+        "num": 189966,
+        "word": "肖俊脱了",
+        "onboard_time": 1720342938,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182049,
+        "num": 182049,
+        "word": "电影默杀",
+        "onboard_time": 1720336219,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163302,
+        "num": 163302,
+        "word": "清华研究生邀请清华颜值担当上岛",
+        "onboard_time": 1720347018,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120762,
+        "num": 161559,
+        "word": "见小孩就送蛋糕的怪人只是想女儿了",
+        "onboard_time": 1720345456,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161541,
+        "num": 161541,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 160689,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157670,
+        "num": 157670,
+        "word": "王星越向涵之骑马路透",
+        "onboard_time": 1720342758,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143638,
+        "num": 143638,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140390,
+        "num": 140390,
+        "word": "人类的生理结构适合吃荤还是吃素",
+        "onboard_time": 1720343957,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "马立奥又尿裤子",
+        "onboard_time": 1720344798,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123883,
+        "num": 123883,
+        "word": "林高远3比1安宰贤",
+        "onboard_time": 1720347137,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121943,
+        "num": 121943,
+        "word": "张馨予 姐没有被PUA",
+        "onboard_time": 1720334117,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 121812,
+        "word": "四名男子商场随机骚扰并殴打女路人",
+        "onboard_time": 1720347137,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 119586,
+        "num": 119586,
+        "word": "上海徐汇气温目前全国最高",
+        "onboard_time": 1720338317,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10184,
+        "num": 118523,
+        "word": "草根篮球也有大场面",
+        "onboard_time": 1720346418,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118081,
+        "num": 118081,
+        "word": "千万不要在wps这个位置删文件",
+        "onboard_time": 1720346539,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117880,
+        "num": 117880,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106449,
+        "num": 106449,
+        "word": "裴珠泫MC公主造型",
+        "onboard_time": 1720340537,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99769,
+        "num": 99769,
+        "word": "威神V音响事故",
+        "onboard_time": 1720344798,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96185,
+        "num": 96185,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95926,
+        "num": 95926,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1720338256,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95407,
+        "num": 95407,
+        "word": "张卫健还演过这么抽象的电视剧",
+        "onboard_time": 1720336818,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94498,
+        "num": 94498,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 93828,
+        "word": "没想到洋人也会因名字而自卑",
+        "onboard_time": 1720347198,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92737,
+        "num": 92737,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}

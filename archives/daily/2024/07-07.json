@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720344944820,
+  "endTime": 1720347524031,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 997983,
-      "num": 593326,
+      "num": 878260,
       "word": "N1",
       "onboard_time": 1720342637,
       "rank": 4,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 879774,
+      "num": 879774,
+      "word": "骄阳似我 李现田曦薇",
+      "onboard_time": 1720345037,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 801426,
       "num": 353676,
       "word": "丽江偶遇了Angelababy",
@@ -209,6 +217,14 @@
       "onboard_time": 1720339097,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679989,
+      "num": 324897,
+      "word": "长沙一小区疑似疯犬狂奔咬伤多人",
+      "onboard_time": 1720345337,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 675453,
@@ -289,6 +305,14 @@
       "onboard_time": 1720326377,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 563232,
+      "num": 563232,
+      "word": "外国博主发现了中国人瘦的原因",
+      "onboard_time": 1720341618,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555042,
@@ -395,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 437139,
-      "num": 437139,
-      "word": "外国博主发现了中国人瘦的原因",
-      "onboard_time": 1720341618,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432758,
       "num": 250826,
       "word": "刘亦菲许红豆限时回归",
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382444,
+      "num": 201832,
+      "word": "体重48公斤00后女警缴毒48公斤",
+      "onboard_time": 1720345998,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380521,
       "num": 334929,
       "word": "孙艺珍说和玄彬之间是命运",
@@ -513,6 +537,14 @@
       "onboard_time": 1720277778,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371202,
+      "num": 233751,
+      "word": "西梅是被列入医嘱的通便食物",
+      "onboard_time": 1720342278,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 370217,
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350488,
+      "num": 321581,
+      "word": "印度决定放宽对中国工人的签证限制",
+      "onboard_time": 1720345097,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 350376,
       "num": 313332,
       "word": "印度一地一天内19人被雷击身亡",
@@ -643,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321558,
+      "num": 321558,
+      "word": "N2",
+      "onboard_time": 1720343058,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -665,14 +713,6 @@
       "onboard_time": 1720317197,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299971,
-      "num": 299971,
-      "word": "N2",
-      "onboard_time": 1720343058,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 298531,
@@ -827,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242497,
-      "num": 233751,
-      "word": "西梅是被列入医嘱的通便食物",
-      "onboard_time": 1720342278,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 239835,
       "num": 239835,
       "word": "离职8年后因前老板涉黑获刑",
@@ -961,6 +993,22 @@
       "onboard_time": 1720338256,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202975,
+      "num": 202975,
+      "word": "4739人参加洞庭湖决堤现场救援",
+      "onboard_time": 1720346778,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199681,
+      "num": 199681,
+      "word": "韩国为大熊猫双胞胎姐妹过生日",
+      "onboard_time": 1720343237,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196610,
@@ -1163,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167507,
-      "num": 167507,
-      "word": "韩国为大熊猫双胞胎姐妹过生日",
-      "onboard_time": 1720343237,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167190,
       "num": 167190,
       "word": "北上过审下证",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1720315576,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163302,
+      "num": 163302,
+      "word": "清华研究生邀请清华颜值担当上岛",
+      "onboard_time": 1720347018,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 163289,
@@ -1323,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140390,
+      "num": 140390,
+      "word": "人类的生理结构适合吃荤还是吃素",
+      "onboard_time": 1720343957,
+      "rank": 48,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 137896,
       "num": 137896,
       "word": "泰山队致歉",
@@ -1443,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123883,
+      "num": 123883,
+      "word": "林高远3比1安宰贤",
+      "onboard_time": 1720347137,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123787,
       "num": 123787,
       "word": "秦彻好帅",
@@ -1467,6 +1531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121812,
+      "num": 121812,
+      "word": "四名男子商场随机骚扰并殴打女路人",
+      "onboard_time": 1720347137,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 120762,
+      "num": 161559,
+      "word": "见小孩就送蛋糕的怪人只是想女儿了",
+      "onboard_time": 1720345456,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119124,
       "num": 119124,
       "word": "杨和苏点评",
@@ -1481,6 +1561,14 @@
       "onboard_time": 1720337058,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 118081,
+      "num": 118081,
+      "word": "千万不要在wps这个位置删文件",
+      "onboard_time": 1720346539,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 117159,
@@ -1513,14 +1601,6 @@
       "onboard_time": 1720320197,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113331,
-      "num": 113331,
-      "word": "人类的生理结构适合吃荤还是吃素",
-      "onboard_time": 1720343957,
-      "rank": 48,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 112991,
@@ -1723,6 +1803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93828,
+      "num": 93828,
+      "word": "没想到洋人也会因名字而自卑",
+      "onboard_time": 1720347198,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93460,
       "num": 335873,
       "word": "他们刚下考场又上防汛战场",
@@ -1768,6 +1856,14 @@
       "word": "七七事变八十七周年",
       "onboard_time": 1720292772,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84026,
+      "num": 388339,
+      "word": "洞庭湖决口救援最新进展",
+      "onboard_time": 1720342697,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1825,14 +1921,6 @@
       "onboard_time": 1720308495,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64988,
-      "num": 388339,
-      "word": "洞庭湖决口救援最新进展",
-      "onboard_time": 1720342697,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64831,
@@ -2035,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26274,
+      "num": 261715,
+      "word": "101岁抗战老兵看到祖国战机竖大拇指",
+      "onboard_time": 1720347317,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24083,
       "num": 24083,
       "word": "EDG涅槃组首胜",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1720324337,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10184,
+      "num": 118523,
+      "word": "草根篮球也有大场面",
+      "onboard_time": 1720346418,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 7294,
