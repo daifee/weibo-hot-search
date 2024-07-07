@@ -1,13 +1,21 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720330587171,
+  "endTime": 1720333588481,
   "band_list": [
     {
       "raw_hot": 2603955,
-      "num": 881088,
+      "num": 1718434,
       "word": "中国将迎来人口死亡高峰",
       "onboard_time": 1720325717,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1811395,
+      "num": 1811395,
+      "word": "东莞爆炸",
+      "onboard_time": 1720330699,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,14 @@
       "onboard_time": 1720317676,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 939395,
+      "num": 939395,
+      "word": "成都商场打人",
+      "onboard_time": 1720328958,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938609,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 255463,
+      "num": 362457,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -113,6 +129,14 @@
       "onboard_time": 1720277719,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 722405,
+      "num": 722405,
+      "word": "周也瞬间红透了",
+      "onboard_time": 1720331178,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 696394,
@@ -171,19 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611370,
-      "num": 611370,
-      "word": "成都商场打人",
-      "onboard_time": 1720328958,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 592440,
       "num": 592440,
       "word": "日本2男子将50岁同事放洗衣机",
       "onboard_time": 1720272620,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582419,
+      "num": 582419,
+      "word": "德国女高管担心前途摔死新生女儿",
+      "onboard_time": 1720327698,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -201,14 +225,6 @@
       "onboard_time": 1720322117,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 538039,
-      "num": 538039,
-      "word": "德国女高管担心前途摔死新生女儿",
-      "onboard_time": 1720327698,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515851,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418325,
+      "num": 418325,
+      "word": "警钟长鸣吾辈自强",
+      "onboard_time": 1720313717,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 408626,
       "num": 408626,
       "word": "洞庭湖决口出现水流回流",
@@ -297,6 +321,14 @@
       "onboard_time": 1720307774,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399488,
+      "num": 399488,
+      "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+      "onboard_time": 1720329438,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391335,
@@ -337,14 +369,6 @@
       "onboard_time": 1720326256,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 385521,
-      "num": 385521,
-      "word": "警钟长鸣吾辈自强",
-      "onboard_time": 1720313717,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 382754,
@@ -425,6 +449,14 @@
       "onboard_time": 1720281498,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347628,
+      "num": 202189,
+      "word": "分手一年多前男友妹妹发来信息",
+      "onboard_time": 1720331538,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 333682,
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239366,
+      "num": 195763,
+      "word": "从爸爸朋友圈知道自己要办升学宴",
+      "onboard_time": 1720330037,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238774,
       "num": 238774,
       "word": "平价小火锅快把大牌连锁干趴了",
@@ -619,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226565,
-      "num": 226565,
-      "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
-      "onboard_time": 1720329438,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223413,
       "num": 223413,
       "word": "古早商场败给只逛不买的年轻人",
@@ -641,6 +673,14 @@
       "onboard_time": 1720326318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217183,
+      "num": 193689,
+      "word": "孙丞潇做出了评价最差的一道菜",
+      "onboard_time": 1720332498,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 214532,
@@ -723,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190589,
+      "num": 190589,
+      "word": "张钧甯演出了母亲的心碎",
+      "onboard_time": 1720332618,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "德罗赞加盟国王",
@@ -745,6 +793,14 @@
       "onboard_time": 1720267697,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183683,
+      "num": 183683,
+      "word": "黑龙江男篮原教练王楠去世",
+      "onboard_time": 1720331357,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 183584,
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175212,
+      "num": 175212,
+      "word": "坚持练习八段锦1个月会有什么变化",
+      "onboard_time": 1720329557,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170335,
       "num": 170335,
       "word": "洞庭湖",
@@ -817,6 +881,14 @@
       "onboard_time": 1720316117,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168000,
+      "num": 168000,
+      "word": "世卫组织宣布滑石粉或致癌",
+      "onboard_time": 1720331898,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167190,
@@ -849,14 +921,6 @@
       "onboard_time": 1720325836,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 162122,
-      "num": 162122,
-      "word": "坚持练习八段锦1个月会有什么变化",
-      "onboard_time": 1720329557,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 161058,
@@ -915,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143376,
-      "num": 143376,
-      "word": "从爸爸朋友圈知道自己要办升学宴",
-      "onboard_time": 1720330037,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142107,
       "num": 142107,
       "word": "摆拍生吃见手青网红已被禁言",
@@ -945,6 +1001,14 @@
       "onboard_time": 1720321637,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "东莞中堂镇消防通报一工厂发生火灾",
+      "onboard_time": 1720332856,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134667,
@@ -1075,8 +1139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112964,
-      "num": 112964,
+      "raw_hot": 112979,
+      "num": 112979,
       "word": "萧敬腾质疑Capper挂电",
       "onboard_time": 1720328478,
       "rank": 40,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1720309035,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 110047,
+      "num": 110047,
+      "word": "成毅配合补妆",
+      "onboard_time": 1720330578,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 109916,
@@ -1233,6 +1305,30 @@
       "onboard_time": 1720326617,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90686,
+      "num": 90686,
+      "word": "度华年",
+      "onboard_time": 1720332856,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89067,
+      "num": 89067,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1720333279,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88569,
+      "num": 88569,
+      "word": "原来西梅是李子不是梅子",
+      "onboard_time": 1720332978,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 88426,
@@ -1371,6 +1467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 49998,
+      "num": 400427,
+      "word": "男子溺水同济护士冲上去了",
+      "onboard_time": 1720332797,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 49021,
       "num": 49021,
       "word": "进不了12强就得回去上班",
@@ -1499,8 +1603,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 5474,
-      "num": 699919,
+      "raw_hot": 6387,
+      "num": 1096338,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
       "rank": 2,

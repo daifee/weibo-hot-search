@@ -1,0 +1,410 @@
+{
+  "runTime": 1720333588481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811395,
+        "num": 1811395,
+        "word": "东莞爆炸",
+        "onboard_time": 1720330699,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2130420,
+        "num": 1718434,
+        "word": "中国将迎来人口死亡高峰",
+        "onboard_time": 1720325717,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6387,
+        "num": 1096338,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939395,
+        "num": 939395,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797026,
+        "num": 797026,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722405,
+        "num": 722405,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582419,
+        "num": 582419,
+        "word": "德国女高管担心前途摔死新生女儿",
+        "onboard_time": 1720327698,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418325,
+        "num": 418325,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417075,
+        "num": 417075,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49998,
+        "num": 400427,
+        "word": "男子溺水同济护士冲上去了",
+        "onboard_time": 1720332797,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 399488,
+        "num": 399488,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362457,
+        "num": 362457,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354269,
+        "num": 354269,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315408,
+        "num": 315408,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305726,
+        "num": 305726,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274123,
+        "num": 274123,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271446,
+        "num": 271446,
+        "word": "阿Sa发朋友圈照片都不P图",
+        "onboard_time": 1720324936,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270870,
+        "num": 270870,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209145,
+        "num": 209145,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203551,
+        "num": 203551,
+        "word": "恭喜子涵同学成为海军飞行学员",
+        "onboard_time": 1720316297,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347628,
+        "num": 202189,
+        "word": "分手一年多前男友妹妹发来信息",
+        "onboard_time": 1720331538,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332160,
+        "num": 200527,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239366,
+        "num": 195763,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217183,
+        "num": 193689,
+        "word": "孙丞潇做出了评价最差的一道菜",
+        "onboard_time": 1720332498,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191925,
+        "num": 191925,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190589,
+        "num": 190589,
+        "word": "张钧甯演出了母亲的心碎",
+        "onboard_time": 1720332618,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190296,
+        "num": 190296,
+        "word": "Henry一出场票价就回来了",
+        "onboard_time": 1720327998,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188635,
+        "num": 188635,
+        "word": "郭敬明",
+        "onboard_time": 1720326676,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183683,
+        "num": 183683,
+        "word": "黑龙江男篮原教练王楠去世",
+        "onboard_time": 1720331357,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182677,
+        "num": 182677,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175212,
+        "num": 175212,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168000,
+        "num": 168000,
+        "word": "世卫组织宣布滑石粉或致癌",
+        "onboard_time": 1720331898,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140381,
+        "num": 140381,
+        "word": "山东临沂暴雨变水城",
+        "onboard_time": 1720325358,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138159,
+        "num": 138159,
+        "word": "不运动也能无条件减掉三公斤以上",
+        "onboard_time": 1720329497,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "东莞中堂镇消防通报一工厂发生火灾",
+        "onboard_time": 1720332856,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127131,
+        "num": 127131,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125966,
+        "num": 125966,
+        "word": "羽毛球价格大涨",
+        "onboard_time": 1720326318,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "洞庭湖决堤后动物们水中求生",
+        "onboard_time": 1720321637,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118194,
+        "num": 118194,
+        "word": "赵今麦人形电脑天使心",
+        "onboard_time": 1720317197,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116189,
+        "num": 116189,
+        "word": "内马尔",
+        "onboard_time": 1720325476,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112979,
+        "num": 112979,
+        "word": "萧敬腾质疑Capper挂电",
+        "onboard_time": 1720328478,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110734,
+        "num": 110734,
+        "word": "耳廓狐不想洗澡时会装死",
+        "onboard_time": 1720329018,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110047,
+        "num": 110047,
+        "word": "成毅配合补妆",
+        "onboard_time": 1720330578,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108828,
+        "num": 108828,
+        "word": "中储粮开展全系统排大排查",
+        "onboard_time": 1720325717,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103608,
+        "num": 103608,
+        "word": "以为是同学结果是班主任",
+        "onboard_time": 1720310415,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90929,
+        "num": 90929,
+        "word": "嗨6预告多少有点吓人了",
+        "onboard_time": 1720317497,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90686,
+        "num": 90686,
+        "word": "度华年",
+        "onboard_time": 1720332856,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89067,
+        "num": 89067,
+        "word": "中等偏上的人生是怎样的",
+        "onboard_time": 1720333279,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88569,
+        "num": 88569,
+        "word": "原来西梅是李子不是梅子",
+        "onboard_time": 1720332978,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86516,
+        "num": 86516,
+        "word": "王星越说仁科是坏男人",
+        "onboard_time": 1720328898,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何人想要否定侵略历史中国人民绝不答应#"
+    }
+  }
+}
