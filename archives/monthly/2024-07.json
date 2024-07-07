@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720348495981,
+  "endTime": 1720351077469,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -457,6 +457,14 @@
       "onboard_time": 1719890117,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1482286,
+      "num": 246800,
+      "word": "宋亚轩刘耀文的车被追尾",
+      "onboard_time": 1720350017,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1476375,
@@ -1628,7 +1636,7 @@
     },
     {
       "raw_hot": 829849,
-      "num": 324897,
+      "num": 515881,
       "word": "长沙一小区疑似疯犬狂奔咬伤多人",
       "onboard_time": 1720345337,
       "rank": 10,
@@ -1649,6 +1657,14 @@
       "onboard_time": 1720152199,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 826627,
+      "num": 826627,
+      "word": "体重48公斤00后女警缴毒48公斤",
+      "onboard_time": 1720345998,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825009,
@@ -2675,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 615955,
+      "num": 285978,
+      "word": "任敏瘦了",
+      "onboard_time": 1720347619,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615093,
       "num": 615093,
       "word": "萌兰9岁生日快乐",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1720102639,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 541617,
-      "num": 210774,
-      "word": "体重48公斤00后女警缴毒48公斤",
-      "onboard_time": 1720345998,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541518,
@@ -5643,14 +5659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 360350,
-      "num": 285978,
-      "word": "任敏瘦了",
-      "onboard_time": 1720347619,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360287,
       "num": 359088,
       "word": "福宝的起床气被果果治好了",
@@ -6755,6 +6763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293033,
+      "num": 242281,
+      "word": "四名男子商场随机骚扰并殴打女路人",
+      "onboard_time": 1720347137,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 292400,
       "num": 179205,
       "word": "Angelababy庆祝香港回归27周年",
@@ -7387,6 +7403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259179,
+      "num": 239902,
+      "word": "一男子戴硅胶人脸面具作案近20起",
+      "onboard_time": 1720349238,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
@@ -7529,6 +7553,14 @@
       "onboard_time": 1720189402,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251808,
+      "num": 251808,
+      "word": "仙逆动画",
+      "onboard_time": 1720348819,
+      "rank": 9,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 251573,
@@ -7809,6 +7841,14 @@
       "onboard_time": 1719822618,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 239811,
+      "num": 239811,
+      "word": "何与打卡赵丽颖簪花图",
+      "onboard_time": 1720348518,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 239366,
@@ -8523,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216433,
+      "num": 216433,
+      "word": "见小孩就送蛋糕的怪人只是想女儿了",
+      "onboard_time": 1720345456,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215970,
       "num": 215970,
       "word": "英国转播方字幕羞辱C罗",
@@ -8752,14 +8800,6 @@
       "word": "92岁老人24秒翻2米高大门出走",
       "onboard_time": 1720155919,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210854,
-      "num": 210854,
-      "word": "见小孩就送蛋糕的怪人只是想女儿了",
-      "onboard_time": 1720345456,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -9939,6 +9979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192192,
+      "num": 192192,
+      "word": "千万不要在wps这个位置删文件",
+      "onboard_time": 1720346539,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "错位定档",
@@ -10105,14 +10153,6 @@
       "onboard_time": 1719976878,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 190294,
-      "num": 190294,
-      "word": "四名男子商场随机骚扰并殴打女路人",
-      "onboard_time": 1720347137,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 190229,
@@ -11171,6 +11211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173351,
+      "num": 143859,
+      "word": "LV设计的奥运会颁奖礼仪员制服",
+      "onboard_time": 1720350137,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173312,
       "num": 173312,
       "word": "为啥人民币没有7元8元9元面值",
@@ -11329,14 +11377,6 @@
       "onboard_time": 1720275560,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170776,
-      "num": 170776,
-      "word": "千万不要在wps这个位置删文件",
-      "onboard_time": 1720346539,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 170648,
@@ -12161,6 +12201,14 @@
       "onboard_time": 1719824178,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156619,
+      "num": 156619,
+      "word": "山东局部特大暴雨双预警齐发",
+      "onboard_time": 1720349957,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156565,
@@ -13377,6 +13425,14 @@
       "onboard_time": 1720271418,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140677,
+      "num": 140677,
+      "word": "中国男排vs比利时男排",
+      "onboard_time": 1720349657,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 140676,
@@ -15891,6 +15947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111228,
+      "num": 111228,
+      "word": "为什么人们越来越离不开情绪价值",
+      "onboard_time": 1720348697,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111203,
       "num": 111203,
       "word": "沈月回复武艺",
@@ -16161,6 +16225,14 @@
       "onboard_time": 1720197437,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107666,
+      "num": 107666,
+      "word": "张本智和早田希娜WTT混双夺冠",
+      "onboard_time": 1720348636,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 107517,
@@ -16779,6 +16851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96044,
+      "num": 96044,
+      "word": "KSG对战TTG",
+      "onboard_time": 1720348518,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95825,
       "num": 488496,
       "word": "记者起底假黄金黑色产业链",
@@ -17187,6 +17267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87587,
+      "num": 87587,
+      "word": "中国队亚青赛包揽六冠",
+      "onboard_time": 1720350257,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87436,
       "num": 77831,
       "word": "克罗斯结束球员生涯",
@@ -17232,6 +17320,14 @@
       "word": "接下来浙江人的餐桌上是这样的",
       "onboard_time": 1719926539,
       "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 86347,
+      "num": 86347,
+      "word": "这才是我心目中的梦中情瓜",
+      "onboard_time": 1720350859,
+      "rank": 45,
       "category": "美食"
     },
     {
@@ -17601,6 +17697,14 @@
       "onboard_time": 1720221134,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67921,
+      "num": 244749,
+      "word": "男子第一次带女友回家全家列队欢迎",
+      "onboard_time": 1720349177,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67692,
@@ -18601,6 +18705,14 @@
       "onboard_time": 1719912918,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40903,
+      "num": 144911,
+      "word": "煤矿工父亲泪洒女儿北大博士毕业礼",
+      "onboard_time": 1720351038,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40738,
