@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720341310449,
+  "endTime": 1720344051125,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196274,
+      "num": 1196274,
+      "word": "初中生跪地11分钟救心脏骤停高中生",
+      "onboard_time": 1720338856,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1175903,
       "num": 1175903,
       "word": "男孩被收养16年被判无权继承百万遗产",
@@ -73,6 +81,14 @@
       "onboard_time": 1720317676,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 943162,
+      "num": 622839,
+      "word": "印度一工人被蛇咬后反将蛇咬死",
+      "onboard_time": 1720339518,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938609,
@@ -131,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 801426,
+      "num": 312413,
+      "word": "丽江偶遇了Angelababy",
+      "onboard_time": 1720341198,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799023,
       "num": 799023,
       "word": "东莞消防通报化纤厂爆燃事件",
@@ -171,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 690357,
+      "num": 690357,
+      "word": "杭州热到全国第一",
+      "onboard_time": 1720339097,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675453,
       "num": 675453,
       "word": "今日中国再不是1937的中国",
@@ -193,14 +225,6 @@
       "onboard_time": 1720325476,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 645724,
-      "num": 466909,
-      "word": "印度一工人被蛇咬后反将蛇咬死",
-      "onboard_time": 1720339518,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629578,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593326,
+      "num": 593326,
+      "word": "N1",
+      "onboard_time": 1720342637,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 592440,
       "num": 592440,
       "word": "日本2男子将50岁同事放洗衣机",
@@ -257,14 +289,6 @@
       "onboard_time": 1720326377,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 564495,
-      "num": 564495,
-      "word": "杭州热到全国第一",
-      "onboard_time": 1720339097,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555042,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 510782,
-      "num": 393222,
+      "num": 472612,
       "word": "免费的往往却是最贵的",
       "onboard_time": 1720333577,
       "rank": 30,
@@ -377,14 +401,6 @@
       "onboard_time": 1720338018,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423083,
-      "num": 423083,
-      "word": "初中生跪地11分钟救心脏骤停高中生",
-      "onboard_time": 1720338856,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 418325,
@@ -587,6 +603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324488,
+      "num": 324488,
+      "word": "青环5封神4分钟",
+      "onboard_time": 1720340897,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322122,
       "num": 185744,
       "word": "奉劝晚婚的人不要随份子钱",
@@ -601,6 +625,14 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 304717,
+      "num": 164831,
+      "word": "杭州29岁程序员熬夜看球后瘫了",
+      "onboard_time": 1720342938,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303215,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 298531,
-      "num": 188422,
+      "num": 205967,
       "word": "本周桃花运最旺的星座",
       "onboard_time": 1720338256,
       "rank": 22,
@@ -707,10 +739,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268188,
+      "num": 268188,
+      "word": "成韩彬发文道歉",
+      "onboard_time": 1720343417,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267791,
       "num": 267791,
       "word": "防空警报",
       "onboard_time": 1720318637,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266994,
+      "num": 266994,
+      "word": "外国博主发现了中国人瘦的原因",
+      "onboard_time": 1720341618,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -755,12 +803,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249232,
+      "num": 249232,
+      "word": "N2",
+      "onboard_time": 1720343058,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "5.56万吨块石运往洞庭湖决口",
       "onboard_time": 1720243338,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242497,
+      "num": 206273,
+      "word": "西梅是被列入医嘱的通便食物",
+      "onboard_time": 1720342278,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239835,
@@ -883,20 +947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205833,
-      "num": 205833,
-      "word": "丽江偶遇了Angelababy",
-      "onboard_time": 1720341198,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204722,
       "num": 187314,
       "word": "女生的颜值开关",
       "onboard_time": 1720338256,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203383,
+      "num": 203383,
+      "word": "肖俊脱了",
+      "onboard_time": 1720342938,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 196610,
@@ -929,6 +993,14 @@
       "onboard_time": 1720317617,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191609,
+      "num": 191609,
+      "word": "洞庭湖决口预计9日12时前完成封堵",
+      "onboard_time": 1720342577,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190589,
@@ -968,6 +1040,14 @@
       "word": "成毅下部戏是英雄志",
       "onboard_time": 1720336398,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186659,
+      "num": 186659,
+      "word": "王星越向涵之骑马路透",
+      "onboard_time": 1720342758,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1075,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167553,
+      "num": 167553,
+      "word": "DYG对战TES",
+      "onboard_time": 1720343776,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167190,
       "num": 167190,
       "word": "北上过审下证",
@@ -1137,6 +1225,22 @@
       "onboard_time": 1720336339,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "赵明称苹果近几年没什么创新",
+      "onboard_time": 1720340298,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 147863,
+      "num": 147863,
+      "word": "于正 谨言是掌女王了",
+      "onboard_time": 1720340778,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 146478,
@@ -1243,14 +1347,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 132855,
-      "num": 132855,
-      "word": "于正 谨言是掌女王了",
-      "onboard_time": 1720340778,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
@@ -1283,20 +1379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128797,
-      "num": 128797,
-      "word": "青环5封神4分钟",
-      "onboard_time": 1720340897,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128648,
       "num": 128648,
       "word": "电竞世界杯",
       "onboard_time": 1720292352,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127963,
+      "num": 127963,
+      "word": "汪苏泷好吵",
+      "onboard_time": 1720342037,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127698,
@@ -1307,20 +1403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126733,
-      "num": 126733,
-      "word": "赵明称苹果近几年没什么创新",
-      "onboard_time": 1720340298,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 126469,
       "num": 126469,
       "word": "王星越戴儿童驱蚊手环",
       "onboard_time": 1720340416,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126322,
+      "num": 126322,
+      "word": "新疆阿克苏发生3.4级地震",
+      "onboard_time": 1720342218,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124094,
@@ -1475,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108912,
+      "num": 108912,
+      "word": "韩国为大熊猫双胞胎姐妹过生日",
+      "onboard_time": 1720343237,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105830,
       "num": 105830,
       "word": "已老实求放过",
@@ -1537,6 +1641,22 @@
       "onboard_time": 1720337656,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100730,
+      "num": 100730,
+      "word": "夏目友人帐 温柔的神",
+      "onboard_time": 1720343357,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 100524,
+      "num": 100524,
+      "word": "人类的生理结构适合吃荤还是吃素",
+      "onboard_time": 1720343957,
+      "rank": 48,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 100057,
@@ -1835,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42840,
+      "num": 315891,
+      "word": "洞庭湖决口救援最新进展",
+      "onboard_time": 1720342697,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -1949,6 +2077,9 @@
     },
     {
       "word": "#任何人想要否定侵略历史中国人民绝不答应#"
+    },
+    {
+      "word": "#习近平主席中亚之行高光时刻#"
     }
   ]
 }
