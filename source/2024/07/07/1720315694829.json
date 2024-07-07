@@ -1,0 +1,410 @@
+{
+  "runTime": 1720315694829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 864196,
+        "num": 864196,
+        "word": "以为是同学结果是班主任",
+        "onboard_time": 1720310415,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569953,
+        "num": 569953,
+        "word": "今日中国再不是1937的中国",
+        "onboard_time": 1720307833,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31661,
+        "num": 543634,
+        "word": "中国友谊勋章如何颁授",
+        "onboard_time": 1720277598,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525346,
+        "num": 525346,
+        "word": "上迪门票涨价至719元仍一票难求",
+        "onboard_time": 1720311916,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 410802,
+        "num": 410802,
+        "word": "卫星看洞庭湖遭洪水涌入",
+        "onboard_time": 1720313896,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399613,
+        "num": 399613,
+        "word": "87年前的今天永不能忘",
+        "onboard_time": 1720311557,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368407,
+        "num": 368407,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359571,
+        "num": 359571,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334997,
+        "num": 334997,
+        "word": "易猝死的人往往有这4个共同点",
+        "onboard_time": 1720277719,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287958,
+        "num": 332540,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1265855,
+        "num": 328490,
+        "word": "不要随便喝中国的肠润茶",
+        "onboard_time": 1720307954,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512150,
+        "num": 323467,
+        "word": "伊朗新总统主张亲西方政策",
+        "onboard_time": 1720311557,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402840,
+        "num": 314528,
+        "word": "原来狗累了这么明显",
+        "onboard_time": 1720307774,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380521,
+        "num": 310390,
+        "word": "孙艺珍说和玄彬之间是命运",
+        "onboard_time": 1720308134,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278041,
+        "num": 304047,
+        "word": "刘德华回应演唱会滑跪",
+        "onboard_time": 1720308193,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361422,
+        "num": 301324,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296263,
+        "num": 296263,
+        "word": "理想L6提车9天后要换电机",
+        "onboard_time": 1720311557,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288700,
+        "num": 288700,
+        "word": "蔡文静的假发全靠脸来撑",
+        "onboard_time": 1720310175,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283233,
+        "num": 283233,
+        "word": "刘亦菲自拍水平进步了",
+        "onboard_time": 1720311016,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263298,
+        "num": 263298,
+        "word": "银行开始对个人按揭贷款较真",
+        "onboard_time": 1720307954,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391335,
+        "num": 253125,
+        "word": "90后辞公务员5年成2亿产值企业高管",
+        "onboard_time": 1720310715,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232343,
+        "num": 232343,
+        "word": "平价小火锅快把大牌连锁干趴了",
+        "onboard_time": 1720312876,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 223413,
+        "num": 223413,
+        "word": "古早商场败给只逛不买的年轻人",
+        "onboard_time": 1720313476,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220747,
+        "num": 220747,
+        "word": "冯琳入职东方卫视",
+        "onboard_time": 1720280659,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "洞庭湖226米决口已封堵66米",
+        "onboard_time": 1720279099,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "多省腺病毒感染激增",
+        "onboard_time": 1720313595,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206165,
+        "num": 206165,
+        "word": "欧洲杯四强出炉",
+        "onboard_time": 1720308674,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205383,
+        "num": 205383,
+        "word": "日本2男子将50岁同事放洗衣机",
+        "onboard_time": 1720272620,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188681,
+        "num": 188681,
+        "word": "上厕所途中冲水小心病菌感染",
+        "onboard_time": 1720278678,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187786,
+        "num": 187786,
+        "word": "铁西",
+        "onboard_time": 1720311436,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 184823,
+        "num": 184823,
+        "word": "王俊凯露额头了",
+        "onboard_time": 1720313237,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170335,
+        "num": 170335,
+        "word": "洞庭湖",
+        "onboard_time": 1720313415,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161010,
+        "num": 161010,
+        "word": "刘亦菲许红豆限时回归",
+        "onboard_time": 1720276819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160696,
+        "num": 160696,
+        "word": "伯远确诊AUP型人格",
+        "onboard_time": 1720314617,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157533,
+        "num": 157533,
+        "word": "韩廷 孟宴臣",
+        "onboard_time": 1720274178,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155974,
+        "num": 155974,
+        "word": "奉劝晚婚的人不要随份子钱",
+        "onboard_time": 1720271838,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153335,
+        "num": 153335,
+        "word": "日军拍洗白影片歪曲侵华事实",
+        "onboard_time": 1720314916,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 146478,
+        "word": "TES零封G2",
+        "onboard_time": 1720307353,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134619,
+        "num": 134619,
+        "word": "七七事变",
+        "onboard_time": 1720308074,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120277,
+        "num": 120277,
+        "word": "天水麻辣烫仍然在批量倒闭",
+        "onboard_time": 1720283419,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114986,
+        "num": 114986,
+        "word": "英格兰6比4瑞士",
+        "onboard_time": 1720307534,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 114669,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113961,
+        "num": 113961,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 112319,
+        "word": "林俊杰",
+        "onboard_time": 1720281679,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111203,
+        "num": 111203,
+        "word": "沈月回复武艺",
+        "onboard_time": 1720313117,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110128,
+        "num": 110128,
+        "word": "新疆发现有望在火星存活的植物",
+        "onboard_time": 1720309035,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109916,
+        "num": 109916,
+        "word": "我们为什么无法忘记这段历史",
+        "onboard_time": 1720314797,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105398,
+        "num": 105398,
+        "word": "暑假工廉价但不好用啊",
+        "onboard_time": 1720309455,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102182,
+        "num": 102182,
+        "word": "体检查出这15种毛病有些不用治",
+        "onboard_time": 1720314677,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100057,
+        "num": 100057,
+        "word": "被自制的蝴蝶书签酷到了",
+        "onboard_time": 1720315457,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
