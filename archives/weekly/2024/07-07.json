@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720356522791,
+  "endTime": 1720358388191,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -35,7 +35,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1393666,
+      "raw_hot": 1454503,
       "num": 300635,
       "word": "韩雪夫妇与好友聚餐",
       "onboard_time": 1720354938,
@@ -121,6 +121,14 @@
       "onboard_time": 1720342637,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 951006,
+      "num": 268035,
+      "word": "普京没空吃饭偷吃零食",
+      "onboard_time": 1720356019,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 943162,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 376017,
-      "num": 267453,
+      "num": 284105,
       "word": "12306上的静兑铺都是啥意思",
       "onboard_time": 1720351578,
       "rank": 42,
@@ -635,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368081,
+      "num": 270651,
+      "word": "成毅金发",
+      "onboard_time": 1720354637,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366149,
       "num": 188681,
       "word": "上厕所途中冲水小心病菌感染",
       "onboard_time": 1720278678,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 365857,
+      "num": 365857,
+      "word": "韩廷 强制爱",
+      "onboard_time": 1720356679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 364645,
@@ -699,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349904,
+      "num": 253629,
+      "word": "刘耀文对接发文回应",
+      "onboard_time": 1720355598,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344567,
       "num": 344567,
       "word": "青环5封神4分钟",
       "onboard_time": 1720340897,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335953,
+      "num": 247541,
+      "word": "伊藤美诚WTT女单夺冠",
+      "onboard_time": 1720355898,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 333682,
@@ -784,6 +824,14 @@
       "word": "被遗忘机场当事人收到东航道歉信",
       "onboard_time": 1720334238,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301505,
+      "num": 202663,
+      "word": "47岁男子洗头后心梗离世",
+      "onboard_time": 1720355958,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -899,22 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 270651,
-      "num": 270651,
-      "word": "成毅金发",
-      "onboard_time": 1720354637,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 268760,
-      "num": 155418,
-      "word": "普京没空吃饭偷吃零食",
-      "onboard_time": 1720356019,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 268402,
       "num": 276898,
       "word": "孙丞潇做出了评价最差的一道菜",
@@ -979,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247009,
+      "num": 247009,
+      "word": "宋亚轩对接报平安",
+      "onboard_time": 1720356798,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244481,
       "num": 244481,
       "word": "韩国为大熊猫双胞胎姐妹过生日",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1720307534,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232611,
-      "num": 232611,
-      "word": "刘耀文对接发文回应",
-      "onboard_time": 1720355598,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 231459,
@@ -1155,8 +1187,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198675,
-      "num": 198675,
+      "raw_hot": 200807,
+      "num": 200807,
       "word": "央视文旅发了王一博",
       "onboard_time": 1720355778,
       "rank": 22,
@@ -1171,12 +1203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196006,
+      "num": 196006,
+      "word": "时代少年团对接回应",
+      "onboard_time": 1720356258,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195839,
       "num": 195839,
       "word": "王俊凯露额头了",
       "onboard_time": 1720313237,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194031,
+      "num": 208777,
+      "word": "LNG战胜NIP",
+      "onboard_time": 1720357338,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 193228,
@@ -1283,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185172,
+      "num": 185172,
+      "word": "夏天穿什么颜色的衣服最防晒",
+      "onboard_time": 1720355778,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -1339,14 +1395,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 180927,
-      "num": 154011,
-      "word": "伊藤美诚WTT女单夺冠",
-      "onboard_time": 1720355898,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179015,
       "num": 179015,
       "word": "长相思全员营业",
@@ -1395,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171934,
-      "num": 171934,
-      "word": "时代少年团对接回应",
-      "onboard_time": 1720356258,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170335,
       "num": 170335,
       "word": "洞庭湖",
@@ -1440,6 +1480,14 @@
       "word": "北上过审下证",
       "onboard_time": 1720324038,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "长相思2站内预约破900万",
+      "onboard_time": 1720357398,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1539,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146617,
+      "num": 146617,
+      "word": "中国男排获得世联赛资格",
+      "onboard_time": 1720356438,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146478,
       "num": 146478,
       "word": "TES零封G2",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1720314677,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145412,
-      "num": 145412,
-      "word": "夏天穿什么颜色的衣服最防晒",
-      "onboard_time": 1720355778,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 145224,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1720341077,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142737,
+      "num": 142737,
+      "word": "阿Sa经常跟关智斌出去旅游",
+      "onboard_time": 1720357939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 142107,
@@ -1755,12 +1811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125796,
+      "num": 125796,
+      "word": "AG对战eStar",
+      "onboard_time": 1720357338,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125431,
       "num": 125431,
       "word": "马立奥又尿裤子",
       "onboard_time": 1720344798,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124572,
+      "num": 124572,
+      "word": "你比星光美丽",
+      "onboard_time": 1720356977,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 124094,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1720320376,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121998,
+      "num": 121998,
+      "word": "陶喆本人不能看到可太遗憾了",
+      "onboard_time": 1720358119,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121875,
@@ -1827,28 +1907,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117755,
-      "num": 117755,
-      "word": "47岁男子洗头后心梗离世",
-      "onboard_time": 1720355958,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117159,
       "num": 117159,
       "word": "威神V音响事故",
       "onboard_time": 1720344798,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115814,
-      "num": 115814,
-      "word": "中国男排获得世联赛资格",
-      "onboard_time": 1720356438,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 114986,
@@ -1865,6 +1929,14 @@
       "onboard_time": 1720338797,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114472,
+      "num": 114472,
+      "word": "化妆的尽头是淡妆",
+      "onboard_time": 1720358358,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 113972,
@@ -1947,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109973,
+      "num": 109973,
+      "word": "为什么说走路是性价比最高的运动",
+      "onboard_time": 1720354098,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 109916,
       "num": 109916,
       "word": "我们为什么无法忘记这段历史",
@@ -1969,14 +2049,6 @@
       "onboard_time": 1720348636,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107836,
-      "num": 107836,
-      "word": "为什么说走路是性价比最高的运动",
-      "onboard_time": 1720354098,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 106290,
@@ -2419,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44433,
+      "num": 277540,
+      "word": "男生患病校长上门举办毕业典礼",
+      "onboard_time": 1720356618,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1720344498,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37107,
+      "num": 400381,
+      "word": "上合组织正式成员国增加到10个",
+      "onboard_time": 1720341798,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36970,
@@ -2545,14 +2633,6 @@
       "onboard_time": 1720346418,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7945,
-      "num": 400381,
-      "word": "上合组织正式成员国增加到10个",
-      "onboard_time": 1720341798,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7294,

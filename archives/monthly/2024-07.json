@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720356522791,
+  "endTime": 1720358388191,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1454503,
+      "num": 300635,
+      "word": "韩雪夫妇与好友聚餐",
+      "onboard_time": 1720354938,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1454491,
       "num": 1220973,
       "word": "洞庭湖决堤",
@@ -537,14 +545,6 @@
       "onboard_time": 1719823338,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1393666,
-      "num": 300635,
-      "word": "韩雪夫妇与好友聚餐",
-      "onboard_time": 1720354938,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1382688,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1720236618,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 951006,
+      "num": 268035,
+      "word": "普京没空吃饭偷吃零食",
+      "onboard_time": 1720356019,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 949863,
@@ -5484,7 +5492,7 @@
     },
     {
       "raw_hot": 376017,
-      "num": 267453,
+      "num": 284105,
       "word": "12306上的静兑铺都是啥意思",
       "onboard_time": 1720351578,
       "rank": 42,
@@ -5595,6 +5603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368081,
+      "num": 270651,
+      "word": "成毅金发",
+      "onboard_time": 1720354637,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367396,
       "num": 367396,
       "word": "默杀",
@@ -5625,6 +5641,14 @@
       "onboard_time": 1720278678,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 365857,
+      "num": 365857,
+      "word": "韩廷 强制爱",
+      "onboard_time": 1720356679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 365774,
@@ -5947,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349904,
+      "num": 253629,
+      "word": "刘耀文对接发文回应",
+      "onboard_time": 1720355598,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348920,
       "num": 348920,
       "word": "洞庭湖决口两端将建设裹头",
@@ -6160,6 +6192,14 @@
       "word": "詹姆斯续约湖人",
       "onboard_time": 1720011498,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335953,
+      "num": 247541,
+      "word": "伊藤美诚WTT女单夺冠",
+      "onboard_time": 1720355898,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -6673,6 +6713,14 @@
       "onboard_time": 1720070058,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301505,
+      "num": 202663,
+      "word": "47岁男子洗头后心梗离世",
+      "onboard_time": 1720355958,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300545,
@@ -7259,28 +7307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270651,
-      "num": 270651,
-      "word": "成毅金发",
-      "onboard_time": 1720354637,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270597,
       "num": 270597,
       "word": "这是今早的香港金紫荆广场",
       "onboard_time": 1719795139,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268760,
-      "num": 155418,
-      "word": "普京没空吃饭偷吃零食",
-      "onboard_time": 1720356019,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 268402,
@@ -7779,6 +7811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247009,
+      "num": 247009,
+      "word": "宋亚轩对接报平安",
+      "onboard_time": 1720356798,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246673,
       "num": 246673,
       "word": "金硕珍担任巴黎奥运会火炬手",
@@ -8137,14 +8177,6 @@
       "onboard_time": 1720176678,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232611,
-      "num": 232611,
-      "word": "刘耀文对接发文回应",
-      "onboard_time": 1720355598,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 232544,
@@ -9467,6 +9499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200807,
+      "num": 200807,
+      "word": "央视文旅发了王一博",
+      "onboard_time": 1720355778,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200759,
       "num": 200759,
       "word": "JackeyLove抵达沙特",
@@ -9625,14 +9665,6 @@
       "onboard_time": 1720055179,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198675,
-      "num": 198675,
-      "word": "央视文旅发了王一博",
-      "onboard_time": 1720355778,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 198647,
@@ -9819,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196006,
+      "num": 196006,
+      "word": "时代少年团对接回应",
+      "onboard_time": 1720356258,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195995,
       "num": 195995,
       "word": "印度的种姓制度",
@@ -9961,6 +10001,14 @@
       "onboard_time": 1720166718,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194031,
+      "num": 208777,
+      "word": "LNG战胜NIP",
+      "onboard_time": 1720357338,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 193967,
@@ -10627,6 +10675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185172,
+      "num": 185172,
+      "word": "夏天穿什么颜色的衣服最防晒",
+      "onboard_time": 1720355778,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185129,
       "num": 185129,
       "word": "电影她的小梨涡 怼网友",
@@ -10849,14 +10905,6 @@
       "onboard_time": 1720241838,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180927,
-      "num": 154011,
-      "word": "伊藤美诚WTT女单夺冠",
-      "onboard_time": 1720355898,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 180911,
@@ -11459,14 +11507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171934,
-      "num": 171934,
-      "word": "时代少年团对接回应",
-      "onboard_time": 1720356258,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171674,
       "num": 171674,
       "word": "广州地铁18号线沙溪站停止对外服务",
@@ -11745,6 +11785,14 @@
       "onboard_time": 1720236618,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "长相思2站内预约破900万",
+      "onboard_time": 1720357398,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 165366,
@@ -13003,6 +13051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146617,
+      "num": 146617,
+      "word": "中国男排获得世联赛资格",
+      "onboard_time": 1720356438,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146478,
       "num": 146478,
       "word": "TES零封G2",
@@ -13137,14 +13193,6 @@
       "onboard_time": 1719846919,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 145412,
-      "num": 145412,
-      "word": "夏天穿什么颜色的衣服最防晒",
-      "onboard_time": 1720355778,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 145337,
@@ -13441,6 +13489,14 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142737,
+      "num": 142737,
+      "word": "阿Sa经常跟关智斌出去旅游",
+      "onboard_time": 1720357939,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 142467,
@@ -14955,6 +15011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125796,
+      "num": 125796,
+      "word": "AG对战eStar",
+      "onboard_time": 1720357338,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "周也又去环球影城了",
@@ -15265,6 +15329,14 @@
       "onboard_time": 1720094958,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121998,
+      "num": 121998,
+      "word": "陶喆本人不能看到可太遗憾了",
+      "onboard_time": 1720358119,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121951,
@@ -15659,14 +15731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117755,
-      "num": 117755,
-      "word": "47岁男子洗头后心梗离世",
-      "onboard_time": 1720355958,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117651,
       "num": 117651,
       "word": "独自旅行的意义",
@@ -15777,14 +15841,6 @@
       "onboard_time": 1720174099,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115814,
-      "num": 115814,
-      "word": "中国男排获得世联赛资格",
-      "onboard_time": 1720356438,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 115797,
@@ -15905,6 +15961,14 @@
       "onboard_time": 1720338797,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114472,
+      "num": 114472,
+      "word": "化妆的尽头是淡妆",
+      "onboard_time": 1720358358,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 114020,
@@ -16275,6 +16339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109973,
+      "num": 109973,
+      "word": "为什么说走路是性价比最高的运动",
+      "onboard_time": 1720354098,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 109962,
       "num": 109962,
       "word": "菲常萧张",
@@ -16425,14 +16497,6 @@
       "onboard_time": 1719917958,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 107836,
-      "num": 107836,
-      "word": "为什么说走路是性价比最高的运动",
-      "onboard_time": 1720354098,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 107715,
@@ -18803,6 +18867,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44433,
+      "num": 277540,
+      "word": "男生患病校长上门举办毕业典礼",
+      "onboard_time": 1720356618,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 44332,
       "num": 44332,
       "word": "军校毕业大考也太硬核了",
@@ -19049,6 +19121,14 @@
       "onboard_time": 1720028052,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37107,
+      "num": 400381,
+      "word": "上合组织正式成员国增加到10个",
+      "onboard_time": 1720341798,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37093,
@@ -20168,14 +20248,6 @@
       "word": "这场交警和学生的雨伞接力好暖心",
       "onboard_time": 1719951130,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7945,
-      "num": 400381,
-      "word": "上合组织正式成员国增加到10个",
-      "onboard_time": 1720341798,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
