@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720372704367,
+  "endTime": 1720373661467,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -10747,6 +10747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187520,
+      "num": 187520,
+      "word": "人机局",
+      "onboard_time": 1720371854,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187169,
       "num": 162803,
       "word": "杨迪写给王俊凯秦霄贤的小作文",
@@ -13259,6 +13267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147074,
+      "num": 147074,
+      "word": "BP完了采访教练思路",
+      "onboard_time": 1720372334,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147015,
       "num": 147015,
       "word": "黄油小熊偷偷掀衣服也太可爱了",
@@ -13529,14 +13545,6 @@
       "onboard_time": 1720334957,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144502,
-      "num": 144502,
-      "word": "人机局",
-      "onboard_time": 1720371854,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 144438,
@@ -14073,6 +14081,14 @@
       "onboard_time": 1719817698,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139107,
+      "num": 139107,
+      "word": "T1 版本",
+      "onboard_time": 1720373413,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 139078,
@@ -18219,6 +18235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73528,
+      "num": 73528,
+      "word": "BLG Wei",
+      "onboard_time": 1720373413,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73204,
       "num": 47615,
       "word": "佩德里欧洲杯报销",
@@ -18417,14 +18441,6 @@
       "onboard_time": 1719987739,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65753,
-      "num": 65753,
-      "word": "BP完了采访教练思路",
-      "onboard_time": 1720372334,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 65617,
@@ -20547,6 +20563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11418,
+      "num": 148964,
+      "word": "中国留学生毕业音乐会唱强军战歌",
+      "onboard_time": 1720363998,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 11389,
       "num": 424736,
       "word": "神十八乘组将择机第2次出舱",
@@ -20608,14 +20632,6 @@
       "word": "毕业典礼一曲海阔天空嗨翻全场",
       "onboard_time": 1719853814,
       "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 9937,
-      "num": 76872,
-      "word": "中国留学生毕业音乐会唱强军战歌",
-      "onboard_time": 1720363998,
-      "rank": 29,
       "category": "教育,社会新闻"
     },
     {
