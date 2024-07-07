@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720337672195,
+  "endTime": 1720340546071,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -699,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1213626,
+      "num": 939395,
+      "word": "成都商场打人",
+      "onboard_time": 1720328958,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1198960,
       "num": 1198960,
       "word": "小红书崩了",
@@ -1187,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 939395,
-      "num": 939395,
-      "word": "成都商场打人",
-      "onboard_time": 1720328958,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 938813,
       "num": 938813,
       "word": "医院通报医生传播患者麻醉裸照",
@@ -1316,7 +1316,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 402039,
+      "num": 481423,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -4651,6 +4651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425894,
+      "num": 425894,
+      "word": "city不city博主盛赞144小时过境政策",
+      "onboard_time": 1720338018,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424969,
       "num": 424969,
       "word": "B太 上海打车去新疆",
@@ -4809,6 +4817,14 @@
       "onboard_time": 1720002437,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 410167,
+      "num": 410167,
+      "word": "默杀票房破3亿",
+      "onboard_time": 1720338436,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 409002,
@@ -5105,6 +5121,14 @@
       "onboard_time": 1719922639,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389397,
+      "num": 389397,
+      "word": "杭州热到全国第一",
+      "onboard_time": 1720339097,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389291,
@@ -5803,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346276,
+      "num": 346276,
+      "word": "上海徐汇气温目前全国最高",
+      "onboard_time": 1720338317,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346072,
       "num": 346072,
       "word": "张凌赫胖过但没丑过",
@@ -6403,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303982,
+      "num": 220921,
+      "word": "印度一工人被蛇咬后反将蛇咬死",
+      "onboard_time": 1720339518,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303678,
       "num": 303678,
       "word": "严浩翔 耍帅吗我超会",
@@ -6497,6 +6537,14 @@
       "onboard_time": 1719921319,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298531,
+      "num": 174984,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1719879319,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 298047,
@@ -7305,6 +7353,14 @@
       "onboard_time": 1720247058,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254414,
+      "num": 218476,
+      "word": "张卫健还演过这么抽象的电视剧",
+      "onboard_time": 1720336818,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 254182,
@@ -8873,6 +8929,14 @@
       "onboard_time": 1719973638,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204722,
+      "num": 173946,
+      "word": "女生的颜值开关",
+      "onboard_time": 1720338256,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 204688,
@@ -10739,6 +10803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176377,
+      "num": 172336,
+      "word": "买三金要不要AA",
+      "onboard_time": 1720336156,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176175,
       "num": 176175,
       "word": "终于知道啥是city不city了",
@@ -10833,6 +10905,14 @@
       "onboard_time": 1719973758,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175023,
+      "num": 225769,
+      "word": "初中生跪地11分钟救心脏骤停高中生",
+      "onboard_time": 1720338856,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174928,
@@ -13739,14 +13819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133367,
-      "num": 133367,
-      "word": "买三金要不要AA",
-      "onboard_time": 1720336156,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133321,
       "num": 133321,
       "word": "妈妈为新房注入灵魂长辈风儿子崩溃",
@@ -14211,6 +14283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128267,
+      "num": 128267,
+      "word": "洞庭湖大堤226米决口已封堵75米",
+      "onboard_time": 1720340357,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128113,
       "num": 128113,
       "word": "国乒张师傅",
@@ -14635,14 +14715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122697,
-      "num": 122697,
-      "word": "张卫健还演过这么抽象的电视剧",
-      "onboard_time": 1720336818,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122666,
       "num": 122666,
       "word": "多地鼓励高考考生学医",
@@ -14955,14 +15027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119244,
-      "num": 119244,
-      "word": "本周桃花运最旺的星座",
-      "onboard_time": 1719879319,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119221,
       "num": 119221,
       "word": "陈雨菲发文告慰张志杰",
@@ -14993,6 +15057,14 @@
       "onboard_time": 1720262117,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118712,
+      "num": 118712,
+      "word": "跳广场舞一个月瘦了7斤",
+      "onboard_time": 1720337058,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 118670,
@@ -15291,6 +15363,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 114584,
+      "num": 114584,
+      "word": "成毅后空翻",
+      "onboard_time": 1720338797,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114020,
       "num": 114020,
       "word": "下半年射手座运势称霸",
@@ -15435,12 +15515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112704,
+      "num": 112704,
+      "word": "王星越戴儿童驱蚊手环",
+      "onboard_time": 1720340416,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112691,
       "num": 112691,
       "word": "金智媛是天使啊",
       "onboard_time": 1720251137,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112638,
+      "num": 112638,
+      "word": "FPX官宣xiaolaohu休假",
+      "onboard_time": 1720337656,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 112615,
@@ -15505,6 +15601,14 @@
       "onboard_time": 1719831256,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111563,
+      "num": 111563,
+      "word": "赵明称苹果近几年没什么创新",
+      "onboard_time": 1720340298,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 111438,
@@ -16131,6 +16235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102275,
+      "num": 102275,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1720337656,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101908,
       "num": 142169,
       "word": "300斤女子复刻热辣滚烫电影人生",
@@ -16427,14 +16539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95257,
-      "num": 95257,
-      "word": "张本智和3比1林昀儒",
-      "onboard_time": 1720337656,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95249,
       "num": 95249,
       "word": "毕业典礼学生齐唱凤凰花开的路口",
@@ -16457,14 +16561,6 @@
       "onboard_time": 1720265177,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95022,
-      "num": 95022,
-      "word": "跳广场舞一个月瘦了7斤",
-      "onboard_time": 1720337058,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 94949,
@@ -16561,6 +16657,14 @@
       "onboard_time": 1720326617,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92550,
+      "num": 92550,
+      "word": "有些人是充电器 有些人是榨汁机",
+      "onboard_time": 1720339577,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 92358,
@@ -16729,14 +16833,6 @@
       "onboard_time": 1720047613,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89826,
-      "num": 89826,
-      "word": "FPX官宣xiaolaohu休假",
-      "onboard_time": 1720337656,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 89802,
@@ -19304,6 +19400,14 @@
       "word": "退役警犬三步一回头告别训导员",
       "onboard_time": 1719762018,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10479,
+      "num": 444281,
+      "word": "开辟周边命运共同体建设新前景",
+      "onboard_time": 1720324337,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

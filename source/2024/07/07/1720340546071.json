@@ -1,0 +1,410 @@
+{
+  "runTime": 1720340546071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 558034,
+        "num": 558034,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481423,
+        "num": 481423,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10479,
+        "num": 444281,
+        "word": "开辟周边命运共同体建设新前景",
+        "onboard_time": 1720324337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425894,
+        "num": 425894,
+        "word": "city不city博主盛赞144小时过境政策",
+        "onboard_time": 1720338018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410167,
+        "num": 410167,
+        "word": "默杀票房破3亿",
+        "onboard_time": 1720338436,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389397,
+        "num": 389397,
+        "word": "杭州热到全国第一",
+        "onboard_time": 1720339097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346276,
+        "num": 346276,
+        "word": "上海徐汇气温目前全国最高",
+        "onboard_time": 1720338317,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341537,
+        "num": 341537,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226947,
+        "num": 226947,
+        "word": "被遗忘机场当事人收到东航道歉信",
+        "onboard_time": 1720334238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175023,
+        "num": 225769,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 870323,
+        "num": 224020,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460315,
+        "num": 223395,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367938,
+        "num": 222334,
+        "word": "张馨予 姐没有被PUA",
+        "onboard_time": 1720334117,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303982,
+        "num": 220921,
+        "word": "印度一工人被蛇咬后反将蛇咬死",
+        "onboard_time": 1720339518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254414,
+        "num": 218476,
+        "word": "张卫健还演过这么抽象的电视剧",
+        "onboard_time": 1720336818,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228971,
+        "num": 217771,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216496,
+        "num": 216496,
+        "word": "世卫组织宣布滑石粉或致癌",
+        "onboard_time": 1720331898,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188578,
+        "num": 188578,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185814,
+        "num": 185814,
+        "word": "电影默杀",
+        "onboard_time": 1720336219,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176329,
+        "num": 176329,
+        "word": "东莞消防通报化纤厂爆燃事件",
+        "onboard_time": 1720330699,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213626,
+        "num": 176259,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394555,
+        "num": 175543,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298531,
+        "num": 174984,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1720338256,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204722,
+        "num": 173946,
+        "word": "女生的颜值开关",
+        "onboard_time": 1720338256,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183811,
+        "num": 173458,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176387,
+        "num": 172517,
+        "word": "张静初回应全素饮食被质疑不健康",
+        "onboard_time": 1720334597,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176377,
+        "num": 172336,
+        "word": "买三金要不要AA",
+        "onboard_time": 1720336156,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170103,
+        "num": 170103,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163667,
+        "num": 163667,
+        "word": "原来西梅是李子不是梅子",
+        "onboard_time": 1720332978,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135010,
+        "num": 135010,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132496,
+        "num": 132496,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128267,
+        "num": 128267,
+        "word": "洞庭湖大堤226米决口已封堵75米",
+        "onboard_time": 1720340357,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125412,
+        "num": 125412,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123225,
+        "num": 123225,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118712,
+        "num": 118712,
+        "word": "跳广场舞一个月瘦了7斤",
+        "onboard_time": 1720337058,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114584,
+        "num": 114584,
+        "word": "成毅后空翻",
+        "onboard_time": 1720338797,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 112982,
+        "word": "孙丞潇做出了评价最差的一道菜",
+        "onboard_time": 1720332498,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112704,
+        "num": 112704,
+        "word": "王星越戴儿童驱蚊手环",
+        "onboard_time": 1720340416,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112638,
+        "num": 112638,
+        "word": "FPX官宣xiaolaohu休假",
+        "onboard_time": 1720337656,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111563,
+        "num": 111563,
+        "word": "赵明称苹果近几年没什么创新",
+        "onboard_time": 1720340298,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102275,
+        "num": 102275,
+        "word": "张本智和3比1林昀儒",
+        "onboard_time": 1720337656,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99926,
+        "num": 99926,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 97879,
+        "word": "成毅下部戏是英雄志",
+        "onboard_time": 1720336398,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96096,
+        "num": 96096,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92550,
+        "num": 92550,
+        "word": "有些人是充电器 有些人是榨汁机",
+        "onboard_time": 1720339577,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92446,
+        "num": 92446,
+        "word": "伊藤美诚3比0徐孝元",
+        "onboard_time": 1720336339,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88645,
+        "num": 88645,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91709,
+        "num": 88623,
+        "word": "成毅有四部待播作品",
+        "onboard_time": 1720334957,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88360,
+        "num": 88360,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚之行难忘瞬间#"
+    }
+  }
+}

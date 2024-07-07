@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720337672195,
+  "endTime": 1720340546071,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -35,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1213626,
+      "num": 939395,
+      "word": "成都商场打人",
+      "onboard_time": 1720328958,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175903,
       "num": 1175903,
       "word": "男孩被收养16年被判无权继承百万遗产",
@@ -65,14 +73,6 @@
       "onboard_time": 1720317676,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 939395,
-      "num": 939395,
-      "word": "成都商场打人",
-      "onboard_time": 1720328958,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 938609,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 402039,
+      "num": 481423,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -355,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425894,
+      "num": 425894,
+      "word": "city不city博主盛赞144小时过境政策",
+      "onboard_time": 1720338018,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418325,
       "num": 418325,
       "word": "警钟长鸣吾辈自强",
       "onboard_time": 1720313717,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 410167,
+      "num": 410167,
+      "word": "默杀票房破3亿",
+      "onboard_time": 1720338436,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 408626,
@@ -401,6 +417,14 @@
       "onboard_time": 1720274178,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389397,
+      "num": 389397,
+      "word": "杭州热到全国第一",
+      "onboard_time": 1720339097,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388839,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346276,
+      "num": 346276,
+      "word": "上海徐汇气温目前全国最高",
+      "onboard_time": 1720338317,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333682,
       "num": 333682,
       "word": "英格兰vs瑞士",
@@ -555,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303982,
+      "num": 220921,
+      "word": "印度一工人被蛇咬后反将蛇咬死",
+      "onboard_time": 1720339518,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303215,
       "num": 303215,
       "word": "被遗忘机场当事人收到东航道歉信",
@@ -569,6 +609,14 @@
       "onboard_time": 1720317197,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298531,
+      "num": 174984,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1720338256,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 296263,
@@ -673,6 +721,14 @@
       "onboard_time": 1720279280,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254414,
+      "num": 218476,
+      "word": "张卫健还演过这么抽象的电视剧",
+      "onboard_time": 1720336818,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 253091,
@@ -811,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204722,
+      "num": 173946,
+      "word": "女生的颜值开关",
+      "onboard_time": 1720338256,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196610,
       "num": 196610,
       "word": "中储粮开展全系统排大排查",
@@ -883,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185814,
+      "num": 185814,
+      "word": "电影默杀",
+      "onboard_time": 1720336219,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -945,6 +1017,22 @@
       "onboard_time": 1720320496,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176377,
+      "num": 172336,
+      "word": "买三金要不要AA",
+      "onboard_time": 1720336156,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175023,
+      "num": 225769,
+      "word": "初中生跪地11分钟救心脏骤停高中生",
+      "onboard_time": 1720338856,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 170335,
@@ -1123,14 +1211,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 133367,
-      "num": 133367,
-      "word": "买三金要不要AA",
-      "onboard_time": 1720336156,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
@@ -1171,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128267,
+      "num": 128267,
+      "word": "洞庭湖大堤226米决口已封堵75米",
+      "onboard_time": 1720340357,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127698,
       "num": 127698,
       "word": "吴昕99字夸王俊凯秦霄贤",
@@ -1193,14 +1281,6 @@
       "onboard_time": 1720268896,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122697,
-      "num": 122697,
-      "word": "张卫健还演过这么抽象的电视剧",
-      "onboard_time": 1720336818,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 122610,
@@ -1227,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118712,
+      "num": 118712,
+      "word": "跳广场舞一个月瘦了7斤",
+      "onboard_time": 1720337058,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 114986,
       "num": 114986,
       "word": "英格兰6比4瑞士",
       "onboard_time": 1720307534,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114584,
+      "num": 114584,
+      "word": "成毅后空翻",
+      "onboard_time": 1720338797,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 113972,
@@ -1267,12 +1363,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112704,
+      "num": 112704,
+      "word": "王星越戴儿童驱蚊手环",
+      "onboard_time": 1720340416,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112638,
+      "num": 112638,
+      "word": "FPX官宣xiaolaohu休假",
+      "onboard_time": 1720337656,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112240,
       "num": 112240,
       "word": "竟有如此精简有力的文字",
       "onboard_time": 1720329018,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111563,
+      "num": 111563,
+      "word": "赵明称苹果近几年没什么创新",
+      "onboard_time": 1720340298,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 111203,
@@ -1371,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102275,
+      "num": 102275,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1720337656,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "被自制的蝴蝶书签酷到了",
@@ -1401,22 +1529,6 @@
       "onboard_time": 1720308074,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 95257,
-      "num": 95257,
-      "word": "张本智和3比1林昀儒",
-      "onboard_time": 1720337656,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95022,
-      "num": 95022,
-      "word": "跳广场舞一个月瘦了7斤",
-      "onboard_time": 1720337058,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 94807,
@@ -1451,20 +1563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92550,
+      "num": 92550,
+      "word": "有些人是充电器 有些人是榨汁机",
+      "onboard_time": 1720339577,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90686,
       "num": 90686,
       "word": "度华年",
       "onboard_time": 1720332856,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89826,
-      "num": 89826,
-      "word": "FPX官宣xiaolaohu休假",
-      "onboard_time": 1720337656,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 88426,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1720296371,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10479,
+      "num": 444281,
+      "word": "开辟周边命运共同体建设新前景",
+      "onboard_time": 1720324337,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7294,
