@@ -1,21 +1,21 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720391699669,
+  "endTime": 1720394413680,
   "band_list": [
+    {
+      "raw_hot": 776819,
+      "num": 776819,
+      "word": "T1夺冠",
+      "onboard_time": 1720383431,
+      "rank": 3,
+      "category": "电竞"
+    },
     {
       "raw_hot": 591510,
       "num": 591510,
       "word": "TES对战T1",
       "onboard_time": 1720366937,
       "rank": 1,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 555739,
-      "num": 555739,
-      "word": "T1夺冠",
-      "onboard_time": 1720383431,
-      "rank": 3,
       "category": "电竞"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445371,
+      "num": 445371,
+      "word": "羽毛球为何成体制内第一运动",
+      "onboard_time": 1720364420,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 444176,
@@ -81,14 +89,6 @@
       "onboard_time": 1720370894,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 363176,
-      "num": 142501,
-      "word": "羽毛球为何成体制内第一运动",
-      "onboard_time": 1720364420,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 348058,
@@ -137,6 +137,14 @@
       "onboard_time": 1720364120,
       "rank": 7,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 217208,
+      "num": 217208,
+      "word": "A股一上市公司12年造假上百亿元",
+      "onboard_time": 1720387750,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 215259,
@@ -249,6 +257,14 @@
       "onboard_time": 1720345037,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156041,
+      "num": 156041,
+      "word": "全网医生要求把4分还给小学生",
+      "onboard_time": 1720393093,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153191,
@@ -387,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95250,
-      "num": 95250,
-      "word": "A股一上市公司12年造假上百亿元",
-      "onboard_time": 1720387750,
+      "raw_hot": 93397,
+      "num": 93397,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
       "rank": 48,
-      "category": "财经,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93263,
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76035,
-      "num": 76035,
-      "word": "中储粮回应罐车运输油罐混用",
-      "onboard_time": 1720370175,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75257,
       "num": 75257,
       "word": "石油杯 奶油杯",
@@ -507,12 +515,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74268,
+      "num": 74268,
+      "word": "小鬼手动闭麦大小姐",
+      "onboard_time": 1720392494,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73394,
       "num": 73394,
       "word": "伊藤美诚WTT女单夺冠",
       "onboard_time": 1720355898,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72078,
+      "num": 72078,
+      "word": "一网箱居然能住5万尾大黄鱼",
+      "onboard_time": 1720390752,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 71569,
@@ -571,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61194,
+      "num": 61194,
+      "word": "冬瓜苹果水",
+      "onboard_time": 1720389852,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60204,
       "num": 60204,
       "word": "时代少年团对接回应",
@@ -595,6 +627,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52426,
+      "num": 52426,
+      "word": "Faker大满贯",
+      "onboard_time": 1720394054,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 48368,
+      "num": 48368,
+      "word": "小猫 你已经被包围了",
+      "onboard_time": 1720394234,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 47616,
+      "num": 250966,
+      "word": "古人的解暑智慧",
+      "onboard_time": 1720361420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45661,
       "num": 45661,
       "word": "盲盒旅行局",
@@ -611,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36803,
+      "num": 46938,
+      "word": "正在上班的小警犬",
+      "onboard_time": 1720394234,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 35274,
       "num": 451366,
       "word": "中塔关系拥有了新定位",
@@ -619,36 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35062,
-      "num": 35062,
-      "word": "一网箱居然能住5万尾大黄鱼",
-      "onboard_time": 1720390752,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30279,
       "num": 30279,
       "word": "经典第四把",
       "onboard_time": 1720383130,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27769,
-      "num": 27769,
-      "word": "冬瓜苹果水",
-      "onboard_time": 1720389852,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 26320,
-      "num": 250966,
-      "word": "古人的解暑智慧",
-      "onboard_time": 1720361420,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24870,
@@ -665,6 +705,14 @@
       "onboard_time": 1720379711,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19385,
+      "num": 357659,
+      "word": "塔吉克斯坦小伙会做20多道中国菜",
+      "onboard_time": 1720361059,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19241,
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 7476,
-      "num": 103381,
+      "num": 159306,
       "word": "当婺剧遇上00后",
       "onboard_time": 1720377613,
       "rank": 33,
