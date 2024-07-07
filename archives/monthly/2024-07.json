@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720322543417,
+  "endTime": 1720323369880,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -707,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1175903,
+      "num": 1175903,
+      "word": "男孩被收养16年被判无权继承百万遗产",
+      "onboard_time": 1720319836,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1168087,
       "num": 910806,
       "word": "抓娃娃否认撤档",
@@ -817,14 +825,6 @@
       "onboard_time": 1719893540,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1106452,
-      "num": 1106452,
-      "word": "男孩被收养16年被判无权继承百万遗产",
-      "onboard_time": 1720319836,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1105851,
@@ -1235,6 +1235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905891,
+      "num": 905891,
+      "word": "泸州地震",
+      "onboard_time": 1720321637,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905104,
+      "num": 364271,
+      "word": "金秀贤 偷偷藏不住",
+      "onboard_time": 1720320138,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 902983,
       "num": 902983,
       "word": "业主砍断高空作业工人绳索",
@@ -1320,14 +1336,6 @@
       "word": "赵今麦演技",
       "onboard_time": 1719904938,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 874243,
-      "num": 364271,
-      "word": "金秀贤 偷偷藏不住",
-      "onboard_time": 1720320138,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1632,14 +1640,6 @@
       "word": "鲍师傅店铺称变重是冷气吹到秤上",
       "onboard_time": 1719802997,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810697,
-      "num": 810697,
-      "word": "泸州地震",
-      "onboard_time": 1720321637,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2427,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 629153,
+      "num": 629153,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626241,
       "num": 508520,
       "word": "洞庭湖226米决口已封堵66米",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1720274420,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555042,
+      "num": 555042,
+      "word": "乌拉圭4比2巴西",
+      "onboard_time": 1720322117,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 554036,
@@ -3675,6 +3691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 489282,
+      "num": 233842,
+      "word": "为什么很多人微信所在地冰岛",
+      "onboard_time": 1720322058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487839,
       "num": 311557,
       "word": "因为接受offer去工作被爸爸骂白养了",
@@ -3953,14 +3977,6 @@
       "onboard_time": 1720272020,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467289,
-      "num": 467289,
-      "word": "恭喜子涵同学成为海军飞行学员",
-      "onboard_time": 1720316297,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463640,
@@ -6163,14 +6179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305939,
-      "num": 305939,
-      "word": "乌拉圭4比2巴西",
-      "onboard_time": 1720322117,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305483,
       "num": 305483,
       "word": "印尼羽协公布张志杰抢救细节",
@@ -6553,6 +6561,14 @@
       "onboard_time": 1720187721,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284571,
+      "num": 229514,
+      "word": "1L装饮料为何成年轻人的社交货币",
+      "onboard_time": 1720322297,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284568,
@@ -7088,6 +7104,14 @@
       "word": "气象部门已赴东明龙卷风现场调查",
       "onboard_time": 1720176201,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253850,
+      "num": 253850,
+      "word": "洞庭湖决堤后动物们水中求生",
+      "onboard_time": 1720321637,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -7977,14 +8001,6 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 218425,
-      "num": 218425,
-      "word": "为什么很多人微信所在地冰岛",
-      "onboard_time": 1720322058,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 218095,
@@ -9273,14 +9289,6 @@
       "onboard_time": 1719892759,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 195459,
-      "num": 195459,
-      "word": "洞庭湖决堤后动物们水中求生",
-      "onboard_time": 1720321637,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195422,
@@ -12971,6 +12979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137896,
+      "num": 137896,
+      "word": "泰山队致歉",
+      "onboard_time": 1720321637,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137879,
       "num": 137879,
       "word": "邓佳鑫说想有唱歌的机会",
@@ -13225,14 +13241,6 @@
       "onboard_time": 1719917299,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "1L装饮料为何成年轻人的社交货币",
-      "onboard_time": 1720322297,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134640,
@@ -13929,14 +13937,6 @@
       "onboard_time": 1719811940,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127210,
-      "num": 127210,
-      "word": "泰山队致歉",
-      "onboard_time": 1720321637,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 127106,
@@ -15705,6 +15705,14 @@
       "onboard_time": 1719933920,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100856,
+      "num": 100856,
+      "word": "詹库生涯首次联手",
+      "onboard_time": 1720323317,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100517,
@@ -18211,6 +18219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26703,
+      "num": 380905,
+      "word": "探访湖南华容受灾群众集中安置点",
+      "onboard_time": 1720321876,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26621,
       "num": 71554,
       "word": "饲养员摆喜宴给企鹅办集体婚礼",
@@ -18225,14 +18241,6 @@
       "onboard_time": 1719856512,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26377,
-      "num": 380905,
-      "word": "探访湖南华容受灾群众集中安置点",
-      "onboard_time": 1720321876,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26120,
