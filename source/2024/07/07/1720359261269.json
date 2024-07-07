@@ -1,0 +1,410 @@
+{
+  "runTime": 1720359261269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346181,
+        "num": 1346181,
+        "word": "普京没空吃饭偷吃零食",
+        "onboard_time": 1720356019,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 801513,
+        "num": 801513,
+        "word": "有香港人去深圳买一周的菜",
+        "onboard_time": 1720352357,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44606,
+        "num": 563167,
+        "word": "上合组织正式成员国增加到10个",
+        "onboard_time": 1720341798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413195,
+        "num": 413195,
+        "word": "韩廷 强制爱",
+        "onboard_time": 1720356679,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380974,
+        "num": 380974,
+        "word": "体重48公斤00后女警缴毒48公斤",
+        "onboard_time": 1720345998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354726,
+        "num": 354726,
+        "word": "初中生跪地11分钟救心脏骤停高中生",
+        "onboard_time": 1720338856,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 339161,
+        "num": 339161,
+        "word": "外国博主发现了中国人瘦的原因",
+        "onboard_time": 1720341618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284074,
+        "num": 284074,
+        "word": "骄阳似我 李现田曦薇",
+        "onboard_time": 1720345037,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264313,
+        "num": 264313,
+        "word": "12306上的静兑铺都是啥意思",
+        "onboard_time": 1720351578,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60175,
+        "num": 260503,
+        "word": "交警脱下雨衣裹住被困孩子抱进车内",
+        "onboard_time": 1720358478,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1404390,
+        "num": 255837,
+        "word": "韩雪夫妇与好友聚餐",
+        "onboard_time": 1720354938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348153,
+        "num": 250824,
+        "word": "张本智和男单夺冠",
+        "onboard_time": 1720358719,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327152,
+        "num": 249075,
+        "word": "刘耀文对接发文回应",
+        "onboard_time": 1720355598,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321354,
+        "num": 241602,
+        "word": "伊藤美诚WTT女单夺冠",
+        "onboard_time": 1720355898,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292692,
+        "num": 236133,
+        "word": "长沙一小区疑似疯犬狂奔咬伤多人",
+        "onboard_time": 1720345337,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 234606,
+        "num": 234606,
+        "word": "宋亚轩对接报平安",
+        "onboard_time": 1720356798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228473,
+        "num": 228473,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212214,
+        "num": 212214,
+        "word": "默杀票房破3亿",
+        "onboard_time": 1720338436,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209206,
+        "num": 209206,
+        "word": "任敏瘦了",
+        "onboard_time": 1720347619,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180331,
+        "num": 180331,
+        "word": "一男子戴硅胶人脸面具作案近20起",
+        "onboard_time": 1720349238,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907729,
+        "num": 180158,
+        "word": "把微信所有人设置成了仅聊天",
+        "onboard_time": 1720351519,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 844477,
+        "num": 179750,
+        "word": "宋亚轩刘耀文的车被追尾",
+        "onboard_time": 1720350017,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426001,
+        "num": 179254,
+        "word": "成毅金发",
+        "onboard_time": 1720354637,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398864,
+        "num": 178875,
+        "word": "47岁男子洗头后心梗离世",
+        "onboard_time": 1720355958,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198950,
+        "num": 178276,
+        "word": "央视文旅发了王一博",
+        "onboard_time": 1720355778,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190939,
+        "num": 177972,
+        "word": "夏天穿什么颜色的衣服最防晒",
+        "onboard_time": 1720355778,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177508,
+        "num": 177508,
+        "word": "长相思2站内预约破900万",
+        "onboard_time": 1720357398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176566,
+        "num": 176566,
+        "word": "时代少年团到达长沙录制hi6",
+        "onboard_time": 1720352298,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167623,
+        "num": 167623,
+        "word": "印度一工人被蛇咬后反将蛇咬死",
+        "onboard_time": 1720339518,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156355,
+        "num": 156355,
+        "word": "阿Sa经常跟关智斌出去旅游",
+        "onboard_time": 1720357939,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177743,
+        "num": 156350,
+        "word": "顶级恋爱观",
+        "onboard_time": 1720358420,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154807,
+        "num": 154807,
+        "word": "化妆的尽头是淡妆",
+        "onboard_time": 1720358358,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169439,
+        "num": 153601,
+        "word": "时代少年团对接回应",
+        "onboard_time": 1720356258,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146369,
+        "num": 146369,
+        "word": "黄油小熊偷偷掀衣服也太可爱了",
+        "onboard_time": 1720356077,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145399,
+        "num": 145399,
+        "word": "男子第一次带女友回家全家列队欢迎",
+        "onboard_time": 1720349177,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140012,
+        "num": 140012,
+        "word": "陶喆本人不能看到可太遗憾了",
+        "onboard_time": 1720358119,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138081,
+        "num": 138081,
+        "word": "电影默杀",
+        "onboard_time": 1720336219,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136125,
+        "num": 136125,
+        "word": "仙逆动画",
+        "onboard_time": 1720348819,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 131830,
+        "num": 131830,
+        "word": "79秒看懂洞庭湖决堤全过程",
+        "onboard_time": 1720353437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128929,
+        "num": 128929,
+        "word": "中国男排获得世联赛资格",
+        "onboard_time": 1720356438,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116949,
+        "num": 116949,
+        "word": "极限挑战",
+        "onboard_time": 1720358959,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114467,
+        "num": 114467,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113033,
+        "num": 113033,
+        "word": "杭州29岁程序员熬夜看球后瘫了",
+        "onboard_time": 1720342938,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104946,
+        "num": 104946,
+        "word": "为什么说走路是性价比最高的运动",
+        "onboard_time": 1720354098,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103316,
+        "num": 103316,
+        "word": "山东局部特大暴雨双预警齐发",
+        "onboard_time": 1720349957,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98816,
+        "num": 98816,
+        "word": "你比星光美丽",
+        "onboard_time": 1720356977,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94301,
+        "num": 94301,
+        "word": "董力回应被骂",
+        "onboard_time": 1720352357,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93391,
+        "num": 93391,
+        "word": "LNG战胜NIP",
+        "onboard_time": 1720357338,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91304,
+        "num": 91304,
+        "word": "印度决定放宽对中国工人的签证限制",
+        "onboard_time": 1720345097,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 88484,
+        "num": 88484,
+        "word": "下载看电影已成年轻人的小众行为",
+        "onboard_time": 1720351818,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}

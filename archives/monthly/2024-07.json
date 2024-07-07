@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720358388191,
+  "endTime": 1720359261269,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -569,6 +569,14 @@
       "onboard_time": 1719894621,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346181,
+      "num": 1346181,
+      "word": "普京没空吃饭偷吃零食",
+      "onboard_time": 1720356019,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1346135,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1720236618,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 951006,
-      "num": 268035,
-      "word": "普京没空吃饭偷吃零食",
-      "onboard_time": 1720356019,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 949863,
@@ -4795,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426001,
+      "num": 270651,
+      "word": "成毅金发",
+      "onboard_time": 1720354637,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425894,
       "num": 425894,
       "word": "city不city博主盛赞144小时过境政策",
@@ -4937,6 +4945,14 @@
       "onboard_time": 1720249757,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413195,
+      "num": 413195,
+      "word": "韩廷 强制爱",
+      "onboard_time": 1720356679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 411847,
@@ -5144,6 +5160,14 @@
       "word": "直播间花499元抢了条假金链子",
       "onboard_time": 1719758779,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398864,
+      "num": 202663,
+      "word": "47岁男子洗头后心梗离世",
+      "onboard_time": 1720355958,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -5603,14 +5627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368081,
-      "num": 270651,
-      "word": "成毅金发",
-      "onboard_time": 1720354637,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367396,
       "num": 367396,
       "word": "默杀",
@@ -5641,14 +5657,6 @@
       "onboard_time": 1720278678,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 365857,
-      "num": 365857,
-      "word": "韩廷 强制爱",
-      "onboard_time": 1720356679,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 365774,
@@ -6001,6 +6009,14 @@
       "onboard_time": 1720250177,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 348153,
+      "num": 250824,
+      "word": "张本智和男单夺冠",
+      "onboard_time": 1720358719,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 347790,
@@ -6713,14 +6729,6 @@
       "onboard_time": 1720070058,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301505,
-      "num": 202663,
-      "word": "47岁男子洗头后心梗离世",
-      "onboard_time": 1720355958,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300545,
@@ -10227,6 +10235,14 @@
       "category": "剧集,教育"
     },
     {
+      "raw_hot": 190939,
+      "num": 185172,
+      "word": "夏天穿什么颜色的衣服最防晒",
+      "onboard_time": 1720355778,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190774,
       "num": 190774,
       "word": "张志杰离世尚未明确病因",
@@ -10673,14 +10689,6 @@
       "onboard_time": 1720185681,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185172,
-      "num": 185172,
-      "word": "夏天穿什么颜色的衣服最防晒",
-      "onboard_time": 1720355778,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 185129,
@@ -11147,6 +11155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177743,
+      "num": 156350,
+      "word": "顶级恋爱观",
+      "onboard_time": 1720358420,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177624,
       "num": 177624,
       "word": "专家制定堵口方案力保首堵成功",
@@ -11161,6 +11177,14 @@
       "onboard_time": 1719790095,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177508,
+      "num": 177508,
+      "word": "长相思2站内预约破900万",
+      "onboard_time": 1720357398,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 177397,
@@ -11785,14 +11809,6 @@
       "onboard_time": 1720236618,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165449,
-      "num": 165449,
-      "word": "长相思2站内预约破900万",
-      "onboard_time": 1720357398,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 165366,
@@ -12427,6 +12443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "阿Sa经常跟关智斌出去旅游",
+      "onboard_time": 1720357939,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156314,
       "num": 156314,
       "word": "温尚翊翻牌",
@@ -12569,6 +12593,14 @@
       "onboard_time": 1720074498,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154807,
+      "num": 154807,
+      "word": "化妆的尽头是淡妆",
+      "onboard_time": 1720358358,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 154790,
@@ -13491,14 +13523,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 142737,
-      "num": 142737,
-      "word": "阿Sa经常跟关智斌出去旅游",
-      "onboard_time": 1720357939,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142467,
       "num": 142467,
       "word": "郑思维为张志杰默哀",
@@ -13737,6 +13761,14 @@
       "onboard_time": 1720228338,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140012,
+      "num": 140012,
+      "word": "陶喆本人不能看到可太遗憾了",
+      "onboard_time": 1720358119,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 139993,
@@ -15331,14 +15363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121998,
-      "num": 121998,
-      "word": "陶喆本人不能看到可太遗憾了",
-      "onboard_time": 1720358119,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121951,
       "num": 121951,
       "word": "洞庭湖决堤5755人安全转移",
@@ -15763,6 +15787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116949,
+      "num": 116949,
+      "word": "极限挑战",
+      "onboard_time": 1720358959,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116826,
       "num": 116826,
       "word": "滕哈格续约曼联",
@@ -15961,14 +15993,6 @@
       "onboard_time": 1720338797,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114472,
-      "num": 114472,
-      "word": "化妆的尽头是淡妆",
-      "onboard_time": 1720358358,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 114020,
@@ -18323,6 +18347,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 60175,
+      "num": 260503,
+      "word": "交警脱下雨衣裹住被困孩子抱进车内",
+      "onboard_time": 1720358478,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 60162,
       "num": 54321,
       "word": "G2战胜Fly",
@@ -18859,6 +18891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44606,
+      "num": 563167,
+      "word": "上合组织正式成员国增加到10个",
+      "onboard_time": 1720341798,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44568,
       "num": 325612,
       "word": "消防员洪水中温柔看向怀中婴儿",
@@ -19121,14 +19161,6 @@
       "onboard_time": 1720028052,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37107,
-      "num": 400381,
-      "word": "上合组织正式成员国增加到10个",
-      "onboard_time": 1720341798,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37093,
