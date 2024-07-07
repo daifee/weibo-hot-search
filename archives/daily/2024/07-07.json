@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720320474831,
+  "endTime": 1720322543417,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -19,8 +19,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1106452,
+      "num": 1106452,
+      "word": "男孩被收养16年被判无权继承百万遗产",
+      "onboard_time": 1720319836,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1049717,
-      "num": 303418,
+      "num": 373776,
       "word": "王俊凯 小丁没事哒没事哒",
       "onboard_time": 1720317676,
       "rank": 12,
@@ -49,6 +57,22 @@
       "onboard_time": 1720310415,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 874243,
+      "num": 364271,
+      "word": "金秀贤 偷偷藏不住",
+      "onboard_time": 1720320138,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 810697,
+      "num": 810697,
+      "word": "泸州地震",
+      "onboard_time": 1720321637,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797773,
@@ -123,19 +147,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 503151,
-      "num": 288338,
-      "word": "男孩被收养16年被判无权继承百万遗产",
-      "onboard_time": 1720319836,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473830,
       "num": 473830,
       "word": "卫星看洞庭湖遭洪水涌入",
       "onboard_time": 1720313896,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467289,
+      "num": 467289,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -169,6 +193,14 @@
       "onboard_time": 1720276819,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408626,
+      "num": 408626,
+      "word": "洞庭湖决口出现水流回流",
+      "onboard_time": 1720318697,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408420,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347425,
+      "num": 347425,
+      "word": "洞庭湖决口封堵最新现场",
+      "onboard_time": 1720321217,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333682,
       "num": 333682,
       "word": "英格兰vs瑞士",
@@ -283,20 +323,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318824,
-      "num": 318824,
-      "word": "洞庭湖决口出现水流回流",
-      "onboard_time": 1720318697,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 305939,
+      "num": 305939,
+      "word": "乌拉圭4比2巴西",
+      "onboard_time": 1720322117,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300022,
+      "num": 300022,
+      "word": "赵今麦人形电脑天使心",
+      "onboard_time": 1720317197,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 296263,
@@ -379,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254398,
-      "num": 363171,
-      "word": "恭喜子涵同学成为海军飞行学员",
-      "onboard_time": 1720316297,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253091,
       "num": 253091,
       "word": "扬州地震",
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218425,
+      "num": 218425,
+      "word": "为什么很多人微信所在地冰岛",
+      "onboard_time": 1720322058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214532,
       "num": 214532,
       "word": "11家上市银行反向讨薪近亿元",
@@ -473,14 +521,6 @@
       "onboard_time": 1720279938,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209486,
-      "num": 209486,
-      "word": "金秀贤 偷偷藏不住",
-      "onboard_time": 1720320138,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 208731,
@@ -507,20 +547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202448,
-      "num": 202448,
-      "word": "赵今麦人形电脑天使心",
-      "onboard_time": 1720317197,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195839,
       "num": 195839,
       "word": "王俊凯露额头了",
       "onboard_time": 1720313237,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195459,
+      "num": 195459,
+      "word": "洞庭湖决堤后动物们水中求生",
+      "onboard_time": 1720321637,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193228,
@@ -537,6 +577,14 @@
       "onboard_time": 1720317617,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "德罗赞加盟国王",
+      "onboard_time": 1720321277,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 188816,
@@ -571,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177066,
+      "num": 177066,
+      "word": "王俊凯网速",
+      "onboard_time": 1720320496,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170335,
       "num": 170335,
       "word": "洞庭湖",
@@ -601,6 +657,14 @@
       "onboard_time": 1720272978,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164816,
+      "num": 164816,
+      "word": "美洲杯",
+      "onboard_time": 1720315576,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 158821,
@@ -667,20 +731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134667,
+      "num": 134667,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134645,
+      "num": 134645,
+      "word": "1L装饮料为何成年轻人的社交货币",
+      "onboard_time": 1720322297,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133944,
       "num": 133944,
       "word": "袁娅维唱了说散就散",
       "onboard_time": 1720280957,
       "rank": 36,
       "category": "综艺,演出"
-    },
-    {
-      "raw_hot": 133690,
-      "num": 133690,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129614,
@@ -715,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127210,
+      "num": 127210,
+      "word": "泰山队致歉",
+      "onboard_time": 1720321637,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124094,
       "num": 124094,
       "word": "温网2024",
@@ -731,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122610,
+      "num": 122610,
+      "word": "石凯南京",
+      "onboard_time": 1720320376,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119124,
       "num": 119124,
       "word": "杨和苏点评",
@@ -745,14 +833,6 @@
       "onboard_time": 1720307534,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114694,
-      "num": 114694,
-      "word": "石凯南京",
-      "onboard_time": 1720320376,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 113972,
@@ -1063,6 +1143,14 @@
       "num": 166225,
       "word": "神仙邻居带动社区200多人暑假晨跑",
       "onboard_time": 1720298711,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26377,
+      "num": 380905,
+      "word": "探访湖南华容受灾群众集中安置点",
+      "onboard_time": 1720321876,
       "rank": 9,
       "category": "社会新闻"
     },
