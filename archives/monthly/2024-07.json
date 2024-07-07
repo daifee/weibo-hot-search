@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720379746348,
+  "endTime": 1720380855380,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -9667,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200947,
+      "num": 200947,
+      "word": "T1拿到赛点",
+      "onboard_time": 1720379591,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200807,
       "num": 200807,
       "word": "央视文旅发了王一博",
@@ -10689,6 +10697,14 @@
       "onboard_time": 1719800178,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188480,
+      "num": 188480,
+      "word": "沙特杯超长暂停时间",
+      "onboard_time": 1720378031,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 188469,
@@ -14699,14 +14715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132530,
-      "num": 132530,
-      "word": "沙特杯超长暂停时间",
-      "onboard_time": 1720378031,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 132387,
       "num": 132387,
       "word": "TES电竞世界杯首秀",
@@ -18347,6 +18355,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 68741,
+      "num": 57522,
+      "word": "369鳄鱼",
+      "onboard_time": 1720379351,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -18484,7 +18500,7 @@
     },
     {
       "raw_hot": 65131,
-      "num": 53399,
+      "num": 54732,
       "word": "石油杯 奶油杯",
       "onboard_time": 1720374372,
       "rank": 30,
@@ -19155,14 +19171,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 48079,
-      "num": 48079,
-      "word": "T1拿到赛点",
-      "onboard_time": 1720379591,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 47904,
       "num": 244557,
       "word": "熊猫界有自己的I熊E熊",
@@ -19521,14 +19529,6 @@
       "onboard_time": 1719913999,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 40345,
-      "num": 40345,
-      "word": "369鳄鱼",
-      "onboard_time": 1720379351,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 40304,
@@ -19907,6 +19907,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 30154,
+      "num": 30154,
+      "word": "faker状态",
+      "onboard_time": 1720374613,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29859,
       "num": 408566,
       "word": "我国航天员已圆满完成16次出舱活动",
@@ -20033,14 +20041,6 @@
       "onboard_time": 1720183879,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 27023,
-      "num": 27023,
-      "word": "faker状态",
-      "onboard_time": 1720374613,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 26885,
@@ -20676,7 +20676,7 @@
     },
     {
       "raw_hot": 10449,
-      "num": 49719,
+      "num": 63891,
       "word": "大学生为丽水近30对老人补拍结婚照",
       "onboard_time": 1720379472,
       "rank": 14,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720379746348,
+  "endTime": 1720380855380,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -1355,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200947,
+      "num": 200947,
+      "word": "T1拿到赛点",
+      "onboard_time": 1720379591,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200807,
       "num": 200807,
       "word": "央视文旅发了王一博",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1720329557,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 188480,
+      "num": 188480,
+      "word": "沙特杯超长暂停时间",
+      "onboard_time": 1720378031,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 186838,
@@ -2033,14 +2049,6 @@
       "onboard_time": 1720360878,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132530,
-      "num": 132530,
-      "word": "沙特杯超长暂停时间",
-      "onboard_time": 1720378031,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 131139,
@@ -2707,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68741,
+      "num": 57522,
+      "word": "369鳄鱼",
+      "onboard_time": 1720379351,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68266,
       "num": 68266,
       "word": "男子跳入激流拦网式救落水孩子",
@@ -2740,7 +2756,7 @@
     },
     {
       "raw_hot": 65131,
-      "num": 53399,
+      "num": 54732,
       "word": "石油杯 奶油杯",
       "onboard_time": 1720374372,
       "rank": 30,
@@ -2899,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48079,
-      "num": 48079,
-      "word": "T1拿到赛点",
-      "onboard_time": 1720379591,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 47754,
       "num": 277352,
       "word": "男孩毕业从头哭到尾被小伙伴接力安慰",
@@ -2979,14 +2987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40345,
-      "num": 40345,
-      "word": "369鳄鱼",
-      "onboard_time": 1720379351,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -3035,8 +3035,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27023,
-      "num": 27023,
+      "raw_hot": 30154,
+      "num": 30154,
       "word": "faker状态",
       "onboard_time": 1720374613,
       "rank": 49,
@@ -3156,7 +3156,7 @@
     },
     {
       "raw_hot": 10449,
-      "num": 49719,
+      "num": 63891,
       "word": "大学生为丽水近30对老人补拍结婚照",
       "onboard_time": 1720379472,
       "rank": 14,
