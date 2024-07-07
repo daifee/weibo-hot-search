@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720361810719,
+  "endTime": 1720362866563,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376812,
+      "num": 176121,
+      "word": "化妆的尽头是淡妆",
+      "onboard_time": 1720358358,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 376017,
       "num": 284105,
       "word": "12306上的静兑铺都是啥意思",
@@ -819,14 +827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316470,
-      "num": 162974,
-      "word": "化妆的尽头是淡妆",
-      "onboard_time": 1720358358,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -907,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286611,
+      "num": 286611,
+      "word": "默杀 王圣迪已是nextlevel",
+      "onboard_time": 1720359920,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285862,
       "num": 285862,
       "word": "4739人参加洞庭湖决堤现场救援",
@@ -937,6 +945,14 @@
       "onboard_time": 1720262898,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278790,
+      "num": 278790,
+      "word": "大熊猫赴港",
+      "onboard_time": 1720361239,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278041,
@@ -1051,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240452,
+      "num": 169634,
+      "word": "顶级恋爱观",
+      "onboard_time": 1720358420,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239835,
       "num": 239835,
       "word": "离职8年后因前老板涉黑获刑",
@@ -1115,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224762,
-      "num": 162816,
-      "word": "顶级恋爱观",
-      "onboard_time": 1720358420,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223413,
       "num": 223413,
       "word": "古早商场败给只逛不买的年轻人",
@@ -1179,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209421,
+      "num": 164778,
+      "word": "呼吸时突然胸部莫名刺痛",
+      "onboard_time": 1720362259,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 208731,
       "num": 208731,
       "word": "铁西",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1720355778,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199150,
+      "num": 199150,
+      "word": "北海公园偶遇朱珠一家",
+      "onboard_time": 1720360999,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196610,
@@ -1427,14 +1459,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 180137,
-      "num": 162185,
-      "word": "默杀 王圣迪已是nextlevel",
-      "onboard_time": 1720359920,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179015,
       "num": 179015,
       "word": "长相思全员营业",
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168474,
+      "num": 168474,
+      "word": "陶喆本人不能看到可太遗憾了",
+      "onboard_time": 1720358119,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168121,
       "num": 168121,
       "word": "成毅提裙奔跑",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1720315576,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164740,
+      "num": 164740,
+      "word": "吴谨言飞机上跟粉丝聊天",
+      "onboard_time": 1720360638,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 163289,
@@ -1601,22 +1641,6 @@
       "onboard_time": 1720357939,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154974,
-      "num": 154974,
-      "word": "北海公园偶遇朱珠一家",
-      "onboard_time": 1720360999,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 154312,
-      "num": 154312,
-      "word": "陶喆本人不能看到可太遗憾了",
-      "onboard_time": 1720358119,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 154162,
@@ -1683,10 +1707,10 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145897,
-      "num": 145897,
-      "word": "大熊猫赴港",
-      "onboard_time": 1720361239,
+      "raw_hot": 145316,
+      "num": 145316,
+      "word": "直击洞庭湖决堤口最新现场",
+      "onboard_time": 1720362319,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -1739,20 +1763,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141783,
+      "num": 141783,
+      "word": "腰围多少是中心型肥胖有标准了",
+      "onboard_time": 1720362199,
+      "rank": 40,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 141685,
       "num": 141685,
       "word": "洞庭湖大堤226米决口已封堵75米",
       "onboard_time": 1720340357,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141032,
-      "num": 141032,
-      "word": "吴谨言飞机上跟粉丝聊天",
-      "onboard_time": 1720360638,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 140677,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1720360878,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131139,
+      "num": 131139,
+      "word": "AG战胜eStar",
+      "onboard_time": 1720362620,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130419,
@@ -2001,6 +2033,14 @@
       "onboard_time": 1720344798,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116561,
+      "num": 116561,
+      "word": "俄语翻译三天半的收入有多少",
+      "onboard_time": 1720362678,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 114986,
@@ -2467,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61146,
+      "num": 212831,
+      "word": "被送到731部队后没有名字只有编号",
+      "onboard_time": 1720359498,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60175,
       "num": 260503,
       "word": "交警脱下雨衣裹住被困孩子抱进车内",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1720290012,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59847,
+      "num": 586822,
+      "word": "中塔关系拥有了新定位",
+      "onboard_time": 1720361658,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59785,
@@ -2595,6 +2651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 43891,
+      "num": 349554,
+      "word": "他们彻夜奋战在洞庭湖决堤口",
+      "onboard_time": 1720360819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -2624,14 +2688,6 @@
       "word": "卢沟桥事变亲历者郑福来老人去世",
       "onboard_time": 1720290973,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33130,
-      "num": 270860,
-      "word": "他们彻夜奋战在洞庭湖决堤口",
-      "onboard_time": 1720360819,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2729,14 +2785,6 @@
       "onboard_time": 1720324337,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10923,
-      "num": 586822,
-      "word": "中塔关系拥有了新定位",
-      "onboard_time": 1720361658,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10184,

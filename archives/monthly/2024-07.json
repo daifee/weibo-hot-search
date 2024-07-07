@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720361810719,
+  "endTime": 1720362866563,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -5499,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376812,
+      "num": 176121,
+      "word": "化妆的尽头是淡妆",
+      "onboard_time": 1720358358,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 376631,
       "num": 376631,
       "word": "邓为工作室回应中国农大用涂山璟招生",
@@ -6515,14 +6523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316470,
-      "num": 162974,
-      "word": "化妆的尽头是淡妆",
-      "onboard_time": 1720358358,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 315630,
       "num": 286274,
       "word": "张杰这次像牵女儿了",
@@ -7027,6 +7027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286611,
+      "num": 286611,
+      "word": "默杀 王圣迪已是nextlevel",
+      "onboard_time": 1720359920,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "唐嫣刘亦菲佟大为早期合照",
@@ -7217,6 +7225,14 @@
       "onboard_time": 1719990018,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278790,
+      "num": 278790,
+      "word": "大熊猫赴港",
+      "onboard_time": 1720361239,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278407,
@@ -7971,6 +7987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 240452,
+      "num": 169634,
+      "word": "顶级恋爱观",
+      "onboard_time": 1720358420,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239811,
       "num": 239811,
       "word": "何与打卡赵丽颖簪花图",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1720278319,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224762,
-      "num": 162816,
-      "word": "顶级恋爱观",
-      "onboard_time": 1720358420,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224748,
@@ -8993,6 +9009,14 @@
       "onboard_time": 1719890178,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209421,
+      "num": 164778,
+      "word": "呼吸时突然胸部莫名刺痛",
+      "onboard_time": 1720362259,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 209215,
@@ -9665,6 +9689,14 @@
       "onboard_time": 1719921499,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199150,
+      "num": 199150,
+      "word": "北海公园偶遇朱珠一家",
+      "onboard_time": 1720360999,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198923,
@@ -11027,14 +11059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180137,
-      "num": 162185,
-      "word": "默杀 王圣迪已是nextlevel",
-      "onboard_time": 1720359920,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179872,
       "num": 179872,
       "word": "女孩诉离异父亲付大学费用法院不支持",
@@ -11723,6 +11747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168474,
+      "num": 168474,
+      "word": "陶喆本人不能看到可太遗憾了",
+      "onboard_time": 1720358119,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168426,
       "num": 168426,
       "word": "特斯拉市值一夜大涨近2800亿元",
@@ -11873,6 +11905,14 @@
       "onboard_time": 1719918618,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164740,
+      "num": 164740,
+      "word": "吴谨言飞机上跟粉丝聊天",
+      "onboard_time": 1720360638,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 164586,
@@ -12603,14 +12643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 154974,
-      "num": 154974,
-      "word": "北海公园偶遇朱珠一家",
-      "onboard_time": 1720360999,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154930,
       "num": 154930,
       "word": "沈月恋综又哭了",
@@ -12649,14 +12681,6 @@
       "onboard_time": 1720093578,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154312,
-      "num": 154312,
-      "word": "陶喆本人不能看到可太遗憾了",
-      "onboard_time": 1720358119,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 154162,
@@ -13203,14 +13227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145897,
-      "num": 145897,
-      "word": "大熊猫赴港",
-      "onboard_time": 1720361239,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145842,
       "num": 145842,
       "word": "吴谨言下一部剧妆造",
@@ -13289,6 +13305,14 @@
       "onboard_time": 1720048396,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 145316,
+      "num": 145316,
+      "word": "直击洞庭湖决堤口最新现场",
+      "onboard_time": 1720362319,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145224,
@@ -13635,6 +13659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141783,
+      "num": 141783,
+      "word": "腰围多少是中心型肥胖有标准了",
+      "onboard_time": 1720362199,
+      "rank": 40,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 141685,
       "num": 141685,
       "word": "洞庭湖大堤226米决口已封堵75米",
@@ -13681,14 +13713,6 @@
       "onboard_time": 1720074078,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141032,
-      "num": 141032,
-      "word": "吴谨言飞机上跟粉丝聊天",
-      "onboard_time": 1720360638,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 140799,
@@ -14609,6 +14633,14 @@
       "onboard_time": 1720168458,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131139,
+      "num": 131139,
+      "word": "AG战胜eStar",
+      "onboard_time": 1720362620,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 131133,
@@ -15865,6 +15897,14 @@
       "onboard_time": 1720057097,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116561,
+      "num": 116561,
+      "word": "俄语翻译三天半的收入有多少",
+      "onboard_time": 1720362678,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 116531,
@@ -18371,6 +18411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61146,
+      "num": 212831,
+      "word": "被送到731部队后没有名字只有编号",
+      "onboard_time": 1720359498,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60910,
       "num": 67835,
       "word": "度华年热度破万",
@@ -18441,6 +18489,14 @@
       "onboard_time": 1720221315,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59847,
+      "num": 586822,
+      "word": "中塔关系拥有了新定位",
+      "onboard_time": 1720361658,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59705,
@@ -18987,6 +19043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43891,
+      "num": 349554,
+      "word": "他们彻夜奋战在洞庭湖决堤口",
+      "onboard_time": 1720360819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43653,
       "num": 924839,
       "word": "中国友谊勋章如何颁授",
@@ -19401,14 +19465,6 @@
       "onboard_time": 1720113673,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33130,
-      "num": 270860,
-      "word": "他们彻夜奋战在洞庭湖决堤口",
-      "onboard_time": 1720360819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32911,
@@ -20249,14 +20305,6 @@
       "onboard_time": 1720324337,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10923,
-      "num": 586822,
-      "word": "中塔关系拥有了新定位",
-      "onboard_time": 1720361658,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10601,
