@@ -1,0 +1,410 @@
+{
+  "runTime": 1720330587171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938609,
+        "num": 938609,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2477945,
+        "num": 881088,
+        "word": "中国将迎来人口死亡高峰",
+        "onboard_time": 1720325717,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5110,
+        "num": 631582,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611370,
+        "num": 611370,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538039,
+        "num": 538039,
+        "word": "德国女高管担心前途摔死新生女儿",
+        "onboard_time": 1720327698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512128,
+        "num": 512128,
+        "word": "恭喜子涵同学成为海军飞行学员",
+        "onboard_time": 1720316297,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454903,
+        "num": 454903,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373728,
+        "num": 373728,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365898,
+        "num": 365898,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45227,
+        "num": 365477,
+        "word": "听说有一亿人在等西湖的晚霞",
+        "onboard_time": 1720329077,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 494797,
+        "num": 363070,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 490391,
+        "num": 361833,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439599,
+        "num": 360505,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360079,
+        "num": 360079,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387667,
+        "num": 347128,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385029,
+        "num": 346602,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331750,
+        "num": 331750,
+        "word": "郭敬明",
+        "onboard_time": 1720326676,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329343,
+        "num": 329343,
+        "word": "阿Sa发朋友圈照片都不P图",
+        "onboard_time": 1720324936,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301294,
+        "num": 301294,
+        "word": "山东临沂暴雨变水城",
+        "onboard_time": 1720325358,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258829,
+        "num": 258829,
+        "word": "内马尔",
+        "onboard_time": 1720325476,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435998,
+        "num": 255463,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348784,
+        "num": 251602,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294333,
+        "num": 250121,
+        "word": "Henry一出场票价就回来了",
+        "onboard_time": 1720327998,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247177,
+        "num": 247177,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226565,
+        "num": 226565,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "羽毛球价格大涨",
+        "onboard_time": 1720326318,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195719,
+        "num": 195719,
+        "word": "洞庭湖决堤后动物们水中求生",
+        "onboard_time": 1720321637,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190598,
+        "num": 190598,
+        "word": "中储粮开展全系统排大排查",
+        "onboard_time": 1720325717,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181806,
+        "num": 181806,
+        "word": "不运动也能无条件减掉三公斤以上",
+        "onboard_time": 1720329497,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162122,
+        "num": 162122,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161058,
+        "num": 161058,
+        "word": "耳廓狐不想洗澡时会装死",
+        "onboard_time": 1720329018,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "不要随便喝中国的肠润茶",
+        "onboard_time": 1720307954,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149241,
+        "num": 149241,
+        "word": "赵今麦人形电脑天使心",
+        "onboard_time": 1720317197,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143706,
+        "num": 143706,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143376,
+        "num": 143376,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129597,
+        "num": 129597,
+        "word": "今日中国再不是1937的中国",
+        "onboard_time": 1720307833,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127709,
+        "num": 127709,
+        "word": "以为是同学结果是班主任",
+        "onboard_time": 1720310415,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123124,
+        "num": 123124,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123053,
+        "num": 123053,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121875,
+        "num": 121875,
+        "word": "王星越说仁科是坏男人",
+        "onboard_time": 1720328898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121301,
+        "num": 121301,
+        "word": "嗨6预告多少有点吓人了",
+        "onboard_time": 1720317497,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116806,
+        "num": 116806,
+        "word": "洞庭湖决口出现水流回流",
+        "onboard_time": 1720318697,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115011,
+        "num": 115011,
+        "word": "如何一只手戴手链",
+        "onboard_time": 1720325836,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108484,
+        "num": 108484,
+        "word": "萧敬腾质疑Capper挂电",
+        "onboard_time": 1720328478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105558,
+        "num": 105558,
+        "word": "刘亦菲自拍水平进步了",
+        "onboard_time": 1720311016,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105385,
+        "num": 105385,
+        "word": "泸州地震",
+        "onboard_time": 1720321637,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104225,
+        "num": 104225,
+        "word": "已老实求放过",
+        "onboard_time": 1720328178,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99138,
+        "num": 99138,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98897,
+        "num": 98897,
+        "word": "北上过审下证",
+        "onboard_time": 1720324038,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96192,
+        "num": 96192,
+        "word": "竟有如此精简有力的文字",
+        "onboard_time": 1720329018,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何人想要否定侵略历史中国人民绝不答应#"
+    }
+  }
+}
