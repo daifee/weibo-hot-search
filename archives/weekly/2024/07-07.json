@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720373661467,
+  "endTime": 1720376654247,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341787,
+      "num": 341787,
+      "word": "BLG Wei",
+      "onboard_time": 1720373413,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 335953,
       "num": 304974,
       "word": "伊藤美诚WTT女单夺冠",
@@ -1275,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213307,
+      "num": 213307,
+      "word": "人机局",
+      "onboard_time": 1720371854,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211935,
       "num": 211935,
       "word": "王欣瑜 温网",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1720325717,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196025,
+      "num": 196025,
+      "word": "求井盖闭嘴教程",
+      "onboard_time": 1720375873,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 196006,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1720329557,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 187520,
-      "num": 187520,
-      "word": "人机局",
-      "onboard_time": 1720371854,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 186838,
@@ -1643,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170078,
+      "num": 139107,
+      "word": "T1 版本",
+      "onboard_time": 1720373413,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170000,
       "num": 170000,
       "word": "警方通报川藏线孕妇插队事件",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1720360638,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163689,
+      "num": 147074,
+      "word": "BP完了采访教练思路",
+      "onboard_time": 1720372334,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 163506,
@@ -1835,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147074,
-      "num": 147074,
-      "word": "BP完了采访教练思路",
-      "onboard_time": 1720372334,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147015,
       "num": 147015,
       "word": "黄油小熊偷偷掀衣服也太可爱了",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1720343957,
       "rank": 48,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 139107,
-      "num": 139107,
-      "word": "T1 版本",
-      "onboard_time": 1720373413,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 138028,
@@ -2667,11 +2683,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73528,
-      "num": 73528,
-      "word": "BLG Wei",
-      "onboard_time": 1720373413,
-      "rank": 24,
+      "raw_hot": 75062,
+      "num": 75062,
+      "word": "T1扳回一局",
+      "onboard_time": 1720374493,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -2737,6 +2753,14 @@
       "onboard_time": 1720305131,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62662,
+      "num": 62662,
+      "word": "Zeus 幽默",
+      "onboard_time": 1720374312,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 62281,
@@ -2931,6 +2955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38410,
+      "num": 38410,
+      "word": "石油杯 奶油杯",
+      "onboard_time": 1720374372,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38329,
       "num": 353745,
       "word": "郑思维晒奥运备战视频",
@@ -2955,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34537,
+      "num": 34537,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31785,
       "num": 305636,
       "word": "中国小伙一腿一臂登顶乞力马扎罗",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1720277598,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27023,
+      "num": 27023,
+      "word": "faker状态",
+      "onboard_time": 1720374613,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 26729,
@@ -3020,7 +3068,7 @@
     },
     {
       "raw_hot": 22880,
-      "num": 165785,
+      "num": 250966,
       "word": "古人的解暑智慧",
       "onboard_time": 1720361420,
       "rank": 20,
@@ -3081,6 +3129,14 @@
       "onboard_time": 1720346418,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8389,
+      "num": 93689,
+      "word": "B太向灾区捐赠物资",
+      "onboard_time": 1720375752,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7294,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720373661467,
+  "endTime": 1720376654247,
   "band_list": [
     {
       "raw_hot": 591510,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 341787,
+      "num": 341787,
+      "word": "BLG Wei",
+      "onboard_time": 1720373413,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 332005,
       "num": 202601,
       "word": "警方通报男子骚扰并殴打女子",
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213307,
+      "num": 213307,
+      "word": "人机局",
+      "onboard_time": 1720371854,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201299,
       "num": 201299,
       "word": "韩廷 强制爱",
@@ -147,20 +163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196025,
+      "num": 196025,
+      "word": "求井盖闭嘴教程",
+      "onboard_time": 1720375873,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190180,
       "num": 190180,
       "word": "体重48公斤00后女警缴毒48公斤",
       "onboard_time": 1720345998,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187520,
-      "num": 187520,
-      "word": "人机局",
-      "onboard_time": 1720371854,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 172857,
@@ -171,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170078,
+      "num": 139107,
+      "word": "T1 版本",
+      "onboard_time": 1720373413,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166212,
       "num": 140664,
       "word": "成毅金发",
       "onboard_time": 1720354637,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163689,
+      "num": 147074,
+      "word": "BP完了采访教练思路",
+      "onboard_time": 1720372334,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 158773,
@@ -217,22 +249,6 @@
       "onboard_time": 1720352357,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147074,
-      "num": 147074,
-      "word": "BP完了采访教练思路",
-      "onboard_time": 1720372334,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 139107,
-      "num": 139107,
-      "word": "T1 版本",
-      "onboard_time": 1720373413,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 138163,
@@ -419,11 +435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73528,
-      "num": 73528,
-      "word": "BLG Wei",
-      "onboard_time": 1720373413,
-      "rank": 24,
+      "raw_hot": 75062,
+      "num": 75062,
+      "word": "T1扳回一局",
+      "onboard_time": 1720374493,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62662,
+      "num": 62662,
+      "word": "Zeus 幽默",
+      "onboard_time": 1720374312,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60204,
       "num": 60204,
       "word": "时代少年团对接回应",
@@ -491,12 +515,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38410,
+      "num": 38410,
+      "word": "石油杯 奶油杯",
+      "onboard_time": 1720374372,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35274,
       "num": 451366,
       "word": "中塔关系拥有了新定位",
       "onboard_time": 1720361658,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34537,
+      "num": 34537,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 27023,
+      "num": 27023,
+      "word": "faker状态",
+      "onboard_time": 1720374613,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 24870,
@@ -515,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13286,
+      "num": 250966,
+      "word": "古人的解暑智慧",
+      "onboard_time": 1720361420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11418,
       "num": 148964,
       "word": "中国留学生毕业音乐会唱强军战歌",
       "onboard_time": 1720363998,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 8389,
+      "num": 93689,
+      "word": "B太向灾区捐赠物资",
+      "onboard_time": 1720375752,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
