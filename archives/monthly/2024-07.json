@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720334336022,
+  "endTime": 1720336692016,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1138275,
+      "num": 227443,
+      "word": "奚梦瑶2岁女儿身高",
+      "onboard_time": 1720334538,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1136250,
       "num": 691144,
       "word": "张志杰妈妈悲伤过度入院",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 377345,
+      "num": 395154,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -2163,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687908,
+      "num": 225138,
+      "word": "何猷启前妻称不想再找富二代了",
+      "onboard_time": 1720334117,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687799,
       "num": 687799,
       "word": "医院回应徒步女主播路边直播被车撞",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1720190181,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595391,
+      "num": 223723,
+      "word": "张馨予 姐没有被PUA",
+      "onboard_time": 1720334117,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 593393,
@@ -4489,6 +4513,14 @@
       "onboard_time": 1719928758,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437395,
+      "num": 190989,
+      "word": "免费的往往却是最贵的",
+      "onboard_time": 1720333577,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 436929,
@@ -6923,6 +6955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274660,
+      "num": 274660,
+      "word": "被遗忘机场当事人收到东航道歉信",
+      "onboard_time": 1720334238,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -7049,6 +7089,14 @@
       "onboard_time": 1719805458,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263944,
+      "num": 188182,
+      "word": "原来西梅是李子不是梅子",
+      "onboard_time": 1720332978,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 263853,
@@ -7833,6 +7881,14 @@
       "onboard_time": 1720190362,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231459,
+      "num": 231459,
+      "word": "张静初回应全素饮食被质疑不健康",
+      "onboard_time": 1720334597,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 231414,
@@ -9171,6 +9227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199184,
+      "num": 199184,
+      "word": "世卫组织宣布滑石粉或致癌",
+      "onboard_time": 1720331898,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199167,
       "num": 199167,
       "word": "谁家好人拿亲弟弟当约饭神器啊",
@@ -10299,14 +10363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181826,
-      "num": 150819,
-      "word": "免费的往往却是最贵的",
-      "onboard_time": 1720333577,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "不运动也能无条件减掉三公斤以上",
@@ -10489,6 +10545,14 @@
       "onboard_time": 1719837980,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 179357,
+      "num": 179357,
+      "word": "成毅下部戏是英雄志",
+      "onboard_time": 1720336398,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 179218,
@@ -10825,14 +10889,6 @@
       "onboard_time": 1719988279,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173709,
-      "num": 173709,
-      "word": "世卫组织宣布滑石粉或致癌",
-      "onboard_time": 1720331898,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173407,
@@ -12227,14 +12283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151009,
-      "num": 151009,
-      "word": "原来西梅是李子不是梅子",
-      "onboard_time": 1720332978,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151000,
       "num": 356386,
       "word": "二手车市场告别暴利时代",
@@ -12368,14 +12416,6 @@
       "word": "苏新皓射箭",
       "onboard_time": 1720161560,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148194,
-      "num": 148194,
-      "word": "张馨予 姐没有被PUA",
-      "onboard_time": 1720334117,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -12665,6 +12705,14 @@
       "onboard_time": 1719745938,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144609,
+      "num": 144609,
+      "word": "成毅有四部待播作品",
+      "onboard_time": 1720334957,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 144438,
@@ -13624,14 +13672,6 @@
       "word": "洞庭湖大坝决堤周边养殖户发声",
       "onboard_time": 1720259299,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133805,
-      "num": 133805,
-      "word": "何猷启前妻称不想再找富二代了",
-      "onboard_time": 1720334117,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -15971,6 +16011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103638,
+      "num": 103638,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1720333279,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103600,
       "num": 293389,
       "word": "过时的体检标准卡住慢性病求职者",
@@ -16137,6 +16185,14 @@
       "onboard_time": 1720107978,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99013,
+      "num": 99013,
+      "word": "伊藤美诚3比0徐孝元",
+      "onboard_time": 1720336339,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 98929,
@@ -16499,6 +16555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "买三金要不要AA",
+      "onboard_time": 1720336156,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91462,
       "num": 91462,
       "word": "姆巴佩面对C罗正式比赛0进球",
@@ -16649,14 +16713,6 @@
       "onboard_time": 1719934518,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 89067,
-      "num": 89067,
-      "word": "中等偏上的人生是怎样的",
-      "onboard_time": 1720333279,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 88971,
@@ -16864,14 +16920,6 @@
       "word": "上海最红展览city不city",
       "onboard_time": 1720247118,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80805,
-      "num": 80805,
-      "word": "被遗忘机场当事人收到东航道歉信",
-      "onboard_time": 1720334238,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -17544,6 +17592,14 @@
       "word": "我国建成全球规模最大航海保障体系",
       "onboard_time": 1719975617,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 57934,
+      "num": 182387,
+      "word": "七七事变87年祭",
+      "onboard_time": 1720334658,
+      "rank": 24,
       "category": "国内时政"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720336692016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 683455,
+        "num": 683455,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425506,
+        "num": 425506,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7294,
+        "num": 408449,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400400,
+        "num": 407529,
+        "word": "东莞爆炸",
+        "onboard_time": 1720330699,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850264,
+        "num": 406923,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395154,
+        "num": 395154,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274660,
+        "num": 274660,
+        "word": "被遗忘机场当事人收到东航道歉信",
+        "onboard_time": 1720334238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261485,
+        "num": 261485,
+        "word": "孙丞潇做出了评价最差的一道菜",
+        "onboard_time": 1720332498,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231459,
+        "num": 231459,
+        "word": "张静初回应全素饮食被质疑不健康",
+        "onboard_time": 1720334597,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228638,
+        "num": 228638,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138275,
+        "num": 227443,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687908,
+        "num": 225138,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595391,
+        "num": 223723,
+        "word": "张馨予 姐没有被PUA",
+        "onboard_time": 1720334117,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335806,
+        "num": 220419,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251866,
+        "num": 219471,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248166,
+        "num": 217554,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150411,
+        "num": 215531,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213355,
+        "num": 213355,
+        "word": "默杀",
+        "onboard_time": 1720336219,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199184,
+        "num": 199184,
+        "word": "世卫组织宣布滑石粉或致癌",
+        "onboard_time": 1720331898,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195234,
+        "num": 195234,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458995,
+        "num": 195121,
+        "word": "德国女高管担心前途摔死新生女儿",
+        "onboard_time": 1720327698,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437395,
+        "num": 190989,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263944,
+        "num": 188182,
+        "word": "原来西梅是李子不是梅子",
+        "onboard_time": 1720332978,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262649,
+        "num": 185886,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57934,
+        "num": 182387,
+        "word": "七七事变87年祭",
+        "onboard_time": 1720334658,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209585,
+        "num": 181135,
+        "word": "分手一年多前男友妹妹发来信息",
+        "onboard_time": 1720331538,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179357,
+        "num": 179357,
+        "word": "成毅下部戏是英雄志",
+        "onboard_time": 1720336398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175768,
+        "num": 175768,
+        "word": "阿Sa发朋友圈照片都不P图",
+        "onboard_time": 1720324936,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172311,
+        "num": 172311,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166611,
+        "num": 166611,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160540,
+        "num": 160540,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159770,
+        "num": 159770,
+        "word": "长相思",
+        "onboard_time": 1720334298,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150767,
+        "num": 150767,
+        "word": "郭敬明",
+        "onboard_time": 1720326676,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144609,
+        "num": 144609,
+        "word": "成毅有四部待播作品",
+        "onboard_time": 1720334957,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143234,
+        "num": 143234,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123296,
+        "num": 123296,
+        "word": "张钧甯演出了母亲的心碎",
+        "onboard_time": 1720332618,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120763,
+        "num": 120763,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117106,
+        "num": 117106,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107586,
+        "num": 107586,
+        "word": "黑龙江男篮原教练王楠去世",
+        "onboard_time": 1720331357,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107247,
+        "num": 107247,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 103638,
+        "word": "中等偏上的人生是怎样的",
+        "onboard_time": 1720333279,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99013,
+        "num": 99013,
+        "word": "伊藤美诚3比0徐孝元",
+        "onboard_time": 1720336339,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97082,
+        "num": 97082,
+        "word": "羽毛球价格大涨",
+        "onboard_time": 1720326318,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96064,
+        "num": 96064,
+        "word": "耳廓狐不想洗澡时会装死",
+        "onboard_time": 1720329018,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95022,
+        "num": 95022,
+        "word": "洞庭湖决堤后动物们水中求生",
+        "onboard_time": 1720321637,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93967,
+        "num": 93967,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93504,
+        "num": 93504,
+        "word": "不运动也能无条件减掉三公斤以上",
+        "onboard_time": 1720329497,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92552,
+        "num": 92552,
+        "word": "Henry一出场票价就回来了",
+        "onboard_time": 1720327998,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91790,
+        "num": 91790,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91718,
+        "num": 91718,
+        "word": "买三金要不要AA",
+        "onboard_time": 1720336156,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一本珍贵相册见证中塔友谊#"
+    }
+  }
+}

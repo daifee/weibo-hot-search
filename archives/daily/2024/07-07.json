@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720334336022,
+  "endTime": 1720336692016,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -41,6 +41,14 @@
       "onboard_time": 1720319836,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138275,
+      "num": 227443,
+      "word": "奚梦瑶2岁女儿身高",
+      "onboard_time": 1720334538,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1087034,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 377345,
+      "num": 395154,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -145,6 +153,14 @@
       "onboard_time": 1720281558,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687908,
+      "num": 225138,
+      "word": "何猷启前妻称不想再找富二代了",
+      "onboard_time": 1720334117,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675453,
@@ -193,6 +209,14 @@
       "onboard_time": 1720322297,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595391,
+      "num": 223723,
+      "word": "张馨予 姐没有被PUA",
+      "onboard_time": 1720334117,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 592440,
@@ -305,6 +329,14 @@
       "onboard_time": 1720327817,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437395,
+      "num": 190989,
+      "word": "免费的往往却是最贵的",
+      "onboard_time": 1720333577,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 432758,
@@ -571,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274660,
+      "num": 274660,
+      "word": "被遗忘机场当事人收到东航道歉信",
+      "onboard_time": 1720334238,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268402,
       "num": 268402,
       "word": "孙丞潇做出了评价最差的一道菜",
@@ -593,6 +633,14 @@
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263944,
+      "num": 188182,
+      "word": "原来西梅是李子不是梅子",
+      "onboard_time": 1720332978,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 257263,
@@ -659,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 231459,
+      "num": 231459,
+      "word": "张静初回应全素饮食被质疑不健康",
+      "onboard_time": 1720334597,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227882,
       "num": 183072,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -699,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213355,
+      "num": 213355,
+      "word": "默杀",
+      "onboard_time": 1720272978,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211935,
       "num": 211935,
       "word": "王欣瑜 温网",
@@ -729,6 +793,14 @@
       "onboard_time": 1720308674,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199184,
+      "num": 199184,
+      "word": "世卫组织宣布滑石粉或致癌",
+      "onboard_time": 1720331898,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196610,
@@ -827,20 +899,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181826,
-      "num": 150819,
-      "word": "免费的往往却是最贵的",
-      "onboard_time": 1720333577,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "不运动也能无条件减掉三公斤以上",
       "onboard_time": 1720329497,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179357,
+      "num": 179357,
+      "word": "成毅下部戏是英雄志",
+      "onboard_time": 1720336398,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 179015,
@@ -865,14 +937,6 @@
       "onboard_time": 1720320496,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173709,
-      "num": 173709,
-      "word": "世卫组织宣布滑石粉或致癌",
-      "onboard_time": 1720331898,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170335,
@@ -907,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165378,
-      "num": 165378,
-      "word": "默杀",
-      "onboard_time": 1720272978,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164816,
       "num": 164816,
       "word": "美洲杯",
@@ -939,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159770,
+      "num": 159770,
+      "word": "长相思",
+      "onboard_time": 1720334298,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158821,
       "num": 158821,
       "word": "石凯你好星期六",
@@ -953,22 +1017,6 @@
       "onboard_time": 1720319358,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151009,
-      "num": 151009,
-      "word": "原来西梅是李子不是梅子",
-      "onboard_time": 1720332978,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 148194,
-      "num": 148194,
-      "word": "张馨予 姐没有被PUA",
-      "onboard_time": 1720334117,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 146478,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1720287853,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144609,
+      "num": 144609,
+      "word": "成毅有四部待播作品",
+      "onboard_time": 1720334957,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 142107,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1720280957,
       "rank": 36,
       "category": "综艺,演出"
-    },
-    {
-      "raw_hot": 133805,
-      "num": 133805,
-      "word": "何猷启前妻称不想再找富二代了",
-      "onboard_time": 1720334117,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130419,
@@ -1283,12 +1331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103638,
+      "num": 103638,
+      "word": "中等偏上的人生是怎样的",
+      "onboard_time": 1720333279,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "被自制的蝴蝶书签酷到了",
       "onboard_time": 1720315457,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 99013,
+      "num": 99013,
+      "word": "伊藤美诚3比0徐孝元",
+      "onboard_time": 1720336339,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 98929,
@@ -1339,20 +1403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "买三金要不要AA",
+      "onboard_time": 1720336156,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90686,
       "num": 90686,
       "word": "度华年",
       "onboard_time": 1720332856,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89067,
-      "num": 89067,
-      "word": "中等偏上的人生是怎样的",
-      "onboard_time": 1720333279,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 88426,
@@ -1395,14 +1459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80805,
-      "num": 80805,
-      "word": "被遗忘机场当事人收到东航道歉信",
-      "onboard_time": 1720334238,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80282,
       "num": 80282,
       "word": "荷兰晋级欧洲杯4强",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1720296131,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78249,
-      "num": 78249,
-      "word": "长相思",
-      "onboard_time": 1720334298,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 66225,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1720267818,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57934,
+      "num": 182387,
+      "word": "七七事变87年祭",
+      "onboard_time": 1720334658,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55998,
@@ -1651,7 +1707,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7183,
+      "raw_hot": 7294,
       "num": 1096338,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
