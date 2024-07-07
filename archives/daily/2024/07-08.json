@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720376654247,
+  "endTime": 1720377390999,
   "band_list": [
     {
       "raw_hot": 591510,
@@ -147,6 +147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209513,
+      "num": 209513,
+      "word": "求井盖闭嘴教程",
+      "onboard_time": 1720375873,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201299,
       "num": 201299,
       "word": "韩廷 强制爱",
@@ -160,14 +168,6 @@
       "word": "Gumayusi要三比零TES",
       "onboard_time": 1720371136,
       "rank": 11,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "求井盖闭嘴教程",
-      "onboard_time": 1720375873,
-      "rank": 4,
       "category": "电竞"
     },
     {
@@ -515,8 +515,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38410,
-      "num": 38410,
+      "raw_hot": 41851,
+      "num": 41851,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 38786,
+      "num": 38786,
       "word": "石油杯 奶油杯",
       "onboard_time": 1720374372,
       "rank": 30,
@@ -529,14 +537,6 @@
       "onboard_time": 1720361658,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34537,
-      "num": 34537,
-      "word": "为什么不ban兰博",
-      "onboard_time": 1720376352,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 27023,
@@ -563,7 +563,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13286,
+      "raw_hot": 18231,
       "num": 250966,
       "word": "古人的解暑智慧",
       "onboard_time": 1720361420,

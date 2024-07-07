@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720376654247,
+  "endTime": 1720377390999,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -1299,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209513,
+      "num": 209513,
+      "word": "求井盖闭嘴教程",
+      "onboard_time": 1720375873,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208731,
       "num": 208731,
       "word": "铁西",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1720325717,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "求井盖闭嘴教程",
-      "onboard_time": 1720375873,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 196006,
@@ -2947,6 +2947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 41851,
+      "num": 41851,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -2955,8 +2963,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38410,
-      "num": 38410,
+      "raw_hot": 38786,
+      "num": 38786,
       "word": "石油杯 奶油杯",
       "onboard_time": 1720374372,
       "rank": 30,
@@ -2985,14 +2993,6 @@
       "onboard_time": 1720290973,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34537,
-      "num": 34537,
-      "word": "为什么不ban兰博",
-      "onboard_time": 1720376352,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 31785,

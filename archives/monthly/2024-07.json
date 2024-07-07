@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720376654247,
+  "endTime": 1720377390999,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -9107,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209513,
+      "num": 209513,
+      "word": "求井盖闭嘴教程",
+      "onboard_time": 1720375873,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209442,
       "num": 209442,
       "word": "男朋友带父母参观我买的房子",
@@ -10025,14 +10033,6 @@
       "onboard_time": 1719983658,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "求井盖闭嘴教程",
-      "onboard_time": 1720375873,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 196006,
@@ -19427,6 +19427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41851,
+      "num": 41851,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 41754,
       "num": 41754,
       "word": "鹿晗银发蓝毛衣",
@@ -19539,20 +19547,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38786,
+      "num": 38786,
+      "word": "石油杯 奶油杯",
+      "onboard_time": 1720374372,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38725,
       "num": 273140,
       "word": "深圳大学最好的招生简章",
       "onboard_time": 1720004419,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38410,
-      "num": 38410,
-      "word": "石油杯 奶油杯",
-      "onboard_time": 1720374372,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 38329,
@@ -19729,14 +19737,6 @@
       "onboard_time": 1719824718,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34537,
-      "num": 34537,
-      "word": "为什么不ban兰博",
-      "onboard_time": 1720376352,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 34154,
