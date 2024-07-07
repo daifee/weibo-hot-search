@@ -1,0 +1,410 @@
+{
+  "runTime": 1720319895806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 797277,
+        "num": 797277,
+        "word": "日军拍洗白影片歪曲侵华事实",
+        "onboard_time": 1720314916,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631716,
+        "num": 631716,
+        "word": "以为是同学结果是班主任",
+        "onboard_time": 1720310415,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23713,
+        "num": 618884,
+        "word": "中国友谊勋章如何颁授",
+        "onboard_time": 1720277598,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618277,
+        "num": 618277,
+        "word": "今日中国再不是1937的中国",
+        "onboard_time": 1720307833,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503023,
+        "num": 503023,
+        "word": "上迪门票涨价至719元仍一票难求",
+        "onboard_time": 1720311916,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 370217,
+        "num": 370217,
+        "word": "伯远确诊AUP型人格",
+        "onboard_time": 1720314617,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360304,
+        "num": 360304,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354011,
+        "num": 354011,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338082,
+        "num": 338082,
+        "word": "卫星看洞庭湖遭洪水涌入",
+        "onboard_time": 1720313896,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93460,
+        "num": 335873,
+        "word": "他们刚下考场又上防汛战场",
+        "onboard_time": 1720318578,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791687,
+        "num": 326477,
+        "word": "不要随便喝中国的肠润茶",
+        "onboard_time": 1720307954,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354561,
+        "num": 312139,
+        "word": "原来狗累了这么明显",
+        "onboard_time": 1720307774,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1040275,
+        "num": 303418,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300774,
+        "num": 300774,
+        "word": "伊朗新总统主张亲西方政策",
+        "onboard_time": 1720311557,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 295936,
+        "num": 295936,
+        "word": "蔡文静的假发全靠脸来撑",
+        "onboard_time": 1720310175,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273172,
+        "num": 273172,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267791,
+        "num": 267791,
+        "word": "防空警报",
+        "onboard_time": 1720318637,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267501,
+        "num": 267501,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266143,
+        "num": 266143,
+        "word": "银行开始对个人按揭贷款较真",
+        "onboard_time": 1720307954,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263045,
+        "num": 263045,
+        "word": "87年前的今天永不能忘",
+        "onboard_time": 1720311557,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364645,
+        "num": 259491,
+        "word": "空腹吃这些食物会得胃结石",
+        "onboard_time": 1720316237,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253857,
+        "num": 253857,
+        "word": "90后辞公务员5年成2亿产值企业高管",
+        "onboard_time": 1720310715,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 253166,
+        "word": "易猝死的人往往有这4个共同点",
+        "onboard_time": 1720277719,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250317,
+        "num": 250317,
+        "word": "洞庭湖决口出现水流回流",
+        "onboard_time": 1720318697,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239607,
+        "num": 239607,
+        "word": "恭喜子涵同学成为海军飞行学员",
+        "onboard_time": 1720316297,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206247,
+        "num": 206247,
+        "word": "11家上市银行反向讨薪近亿元",
+        "onboard_time": 1720317918,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205102,
+        "num": 205102,
+        "word": "孙艺珍说和玄彬之间是命运",
+        "onboard_time": 1720308134,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193228,
+        "num": 193228,
+        "word": "七七事变",
+        "onboard_time": 1720308074,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191765,
+        "num": 191765,
+        "word": "小狗知道要去医院脸都垮了",
+        "onboard_time": 1720317617,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188816,
+        "num": 188816,
+        "word": "布朗尼湖人首秀",
+        "onboard_time": 1720318217,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183659,
+        "num": 183659,
+        "word": "平价小火锅快把大牌连锁干趴了",
+        "onboard_time": 1720312876,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175983,
+        "num": 175983,
+        "word": "刘德华回应演唱会滑跪",
+        "onboard_time": 1720308193,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170332,
+        "num": 170332,
+        "word": "赵今麦人形电脑天使心",
+        "onboard_time": 1720317197,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168336,
+        "num": 168336,
+        "word": "刘亦菲自拍水平进步了",
+        "onboard_time": 1720311016,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159392,
+        "num": 159392,
+        "word": "多省腺病毒感染激增",
+        "onboard_time": 1720313595,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151555,
+        "num": 151555,
+        "word": "嗨6预告多少有点吓人了",
+        "onboard_time": 1720317497,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "古早商场败给只逛不买的年轻人",
+        "onboard_time": 1720313476,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143799,
+        "num": 143799,
+        "word": "上厕所途中冲水小心病菌感染",
+        "onboard_time": 1720278678,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140771,
+        "num": 140771,
+        "word": "理想L6提车9天后要换电机",
+        "onboard_time": 1720311557,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134963,
+        "num": 134963,
+        "word": "刘亦菲许红豆限时回归",
+        "onboard_time": 1720276819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134251,
+        "num": 134251,
+        "word": "钓鱼网红周翠翠夫妇去世",
+        "onboard_time": 1720270997,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133222,
+        "num": 133222,
+        "word": "王俊凯露额头了",
+        "onboard_time": 1720313237,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132961,
+        "num": 132961,
+        "word": "欧洲杯四强出炉",
+        "onboard_time": 1720308674,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131542,
+        "num": 131542,
+        "word": "林俊杰",
+        "onboard_time": 1720281679,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129989,
+        "num": 129989,
+        "word": "不想接婆婆视频怎么办",
+        "onboard_time": 1720319358,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 128002,
+        "word": "5.56万吨块石运往洞庭湖决口",
+        "onboard_time": 1720243338,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125895,
+        "num": 125895,
+        "word": "洞庭湖226米决口已封堵66米",
+        "onboard_time": 1720279099,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120501,
+        "num": 120501,
+        "word": "TES零封G2",
+        "onboard_time": 1720307353,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116931,
+        "num": 116931,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116796,
+        "num": 116796,
+        "word": "铁西",
+        "onboard_time": 1720311436,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#塔吉克斯坦总统送了一份特别的礼物#"
+    }
+  }
+}

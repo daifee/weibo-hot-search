@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720316998289,
+  "endTime": 1720319895806,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -17,6 +17,14 @@
       "onboard_time": 1720307954,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1040275,
+      "num": 303418,
+      "word": "王俊凯 小丁没事哒没事哒",
+      "onboard_time": 1720317676,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 927608,
@@ -41,6 +49,14 @@
       "onboard_time": 1720277719,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 797277,
+      "num": 797277,
+      "word": "日军拍洗白影片歪曲侵华事实",
+      "onboard_time": 1720314916,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 696394,
@@ -75,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618277,
+      "num": 618277,
+      "word": "今日中国再不是1937的中国",
+      "onboard_time": 1720307833,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 592440,
       "num": 592440,
       "word": "日本2男子将50岁同事放洗衣机",
       "onboard_time": 1720272620,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569953,
-      "num": 569953,
-      "word": "今日中国再不是1937的中国",
-      "onboard_time": 1720307833,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 515851,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 391335,
-      "num": 253125,
+      "num": 253857,
       "word": "90后辞公务员5年成2亿产值企业高管",
       "onboard_time": 1720310715,
       "rank": 20,
@@ -195,11 +211,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370217,
+      "num": 370217,
+      "word": "伯远确诊AUP型人格",
+      "onboard_time": 1720314617,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366149,
       "num": 188681,
       "word": "上厕所途中冲水小心病菌感染",
       "onboard_time": 1720278678,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 364645,
+      "num": 259491,
+      "word": "空腹吃这些食物会得胃结石",
+      "onboard_time": 1720316237,
+      "rank": 26,
       "category": "健康医疗"
     },
     {
@@ -249,14 +281,6 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 307885,
-      "num": 307885,
-      "word": "伯远确诊AUP型人格",
-      "onboard_time": 1720314617,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 296263,
@@ -315,6 +339,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267791,
+      "num": 267791,
+      "word": "防空警报",
+      "onboard_time": 1720318637,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267501,
+      "num": 267501,
+      "word": "男孩被收养16年被判无权继承百万遗产",
+      "onboard_time": 1720319836,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264012,
       "num": 249880,
       "word": "存款多少才敢辞职",
@@ -339,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250317,
+      "num": 250317,
+      "word": "洞庭湖决口出现水流回流",
+      "onboard_time": 1720318697,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249544,
       "num": 249544,
       "word": "电竞世界杯T1对战TL",
@@ -355,19 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243861,
-      "num": 243861,
-      "word": "日军拍洗白影片歪曲侵华事实",
-      "onboard_time": 1720314916,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 239835,
       "num": 239835,
       "word": "离职8年后因前老板涉黑获刑",
       "onboard_time": 1720274420,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239607,
+      "num": 363171,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -403,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215757,
-      "num": 215757,
-      "word": "空腹吃这些食物会得胃结石",
-      "onboard_time": 1720316237,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 213472,
       "num": 182013,
       "word": "张子墨 不自信",
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206247,
+      "num": 206247,
+      "word": "11家上市银行反向讨薪近亿元",
+      "onboard_time": 1720317918,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206165,
       "num": 206165,
       "word": "欧洲杯四强出炉",
@@ -459,12 +507,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188921,
-      "num": 134619,
+      "raw_hot": 193228,
+      "num": 193228,
       "word": "七七事变",
       "onboard_time": 1720308074,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191765,
+      "num": 191765,
+      "word": "小狗知道要去医院脸都垮了",
+      "onboard_time": 1720317617,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188816,
+      "num": 188816,
+      "word": "布朗尼湖人首秀",
+      "onboard_time": 1720318217,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 184646,
@@ -499,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170332,
+      "num": 170332,
+      "word": "赵今麦人形电脑天使心",
+      "onboard_time": 1720317197,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170000,
       "num": 170000,
       "word": "警方通报川藏线孕妇插队事件",
@@ -528,6 +600,14 @@
       "word": "石凯你好星期六",
       "onboard_time": 1720278739,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151555,
+      "num": 151555,
+      "word": "嗨6预告多少有点吓人了",
+      "onboard_time": 1720317497,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -577,6 +657,14 @@
       "onboard_time": 1720280957,
       "rank": 36,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 129989,
+      "num": 129989,
+      "word": "不想接婆婆视频怎么办",
+      "onboard_time": 1720319358,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129614,
@@ -747,10 +835,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93581,
-      "num": 363171,
-      "word": "恭喜子涵同学成为海军飞行学员",
-      "onboard_time": 1720316297,
+      "raw_hot": 93460,
+      "num": 335873,
+      "word": "他们刚下考场又上防汛战场",
+      "onboard_time": 1720318578,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -940,7 +1028,7 @@
     },
     {
       "raw_hot": 31661,
-      "num": 574343,
+      "num": 618884,
       "word": "中国友谊勋章如何颁授",
       "onboard_time": 1720277598,
       "rank": 2,
