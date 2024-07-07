@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720366465366,
+  "endTime": 1720369333814,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3323,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554253,
+      "num": 554253,
+      "word": "河南暴雨实况",
+      "onboard_time": 1720363579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554036,
       "num": 238821,
       "word": "云南女大学生疑与同学发生矛盾自杀",
@@ -3913,6 +3921,14 @@
       "onboard_time": 1719819437,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492941,
+      "num": 492941,
+      "word": "TES对战T1",
+      "onboard_time": 1720366937,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 492709,
@@ -4827,14 +4843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425925,
-      "num": 425925,
-      "word": "河南暴雨实况",
-      "onboard_time": 1720363579,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425894,
       "num": 425894,
       "word": "city不city博主盛赞144小时过境政策",
@@ -5547,6 +5555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 376665,
+      "num": 376665,
+      "word": "洞庭湖决堤被冲毁的家和生计",
+      "onboard_time": 1720363939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376631,
       "num": 376631,
       "word": "邓为工作室回应中国农大用涂山璟招生",
@@ -6067,6 +6083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 348058,
+      "num": 348058,
+      "word": "电竞世界杯",
+      "onboard_time": 1720292352,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347790,
       "num": 347790,
       "word": "周焯华确定获刑18年",
@@ -6331,7 +6355,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331536,
+      "raw_hot": 332005,
       "num": 250783,
       "word": "警方通报男子骚扰并殴打女子",
       "onboard_time": 1720365198,
@@ -8305,14 +8329,6 @@
       "onboard_time": 1720132092,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231885,
-      "num": 231885,
-      "word": "洞庭湖决堤被冲毁的家和生计",
-      "onboard_time": 1720363939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231737,
@@ -11555,6 +11571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172857,
+      "num": 172857,
+      "word": "汉密尔顿英国主场夺冠",
+      "onboard_time": 1720367777,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172581,
       "num": 172581,
       "word": "10岁女孩晒出老年斑",
@@ -13267,6 +13291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146364,
+      "num": 146364,
+      "word": "赵露思 路透",
+      "onboard_time": 1720368077,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146284,
       "num": 146284,
       "word": "肯德基原神联动",
@@ -14969,14 +15001,6 @@
       "onboard_time": 1720266558,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128648,
-      "num": 128648,
-      "word": "电竞世界杯",
-      "onboard_time": 1720292352,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 128500,
@@ -16899,6 +16923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 105154,
+      "num": 105154,
+      "word": "BabyMonster新歌舞台",
+      "onboard_time": 1720367958,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105130,
       "num": 105130,
       "word": "赵今麦带度华年剧组来青环团建",
@@ -17411,6 +17443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95270,
+      "num": 95270,
+      "word": "李蓉重新喜欢上裴文宣",
+      "onboard_time": 1720366217,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95249,
       "num": 95249,
       "word": "毕业典礼学生齐唱凤凰花开的路口",
@@ -17505,14 +17545,6 @@
       "onboard_time": 1719886399,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92872,
-      "num": 92872,
-      "word": "李蓉重新喜欢上裴文宣",
-      "onboard_time": 1720366217,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92851,
@@ -18217,6 +18249,14 @@
       "onboard_time": 1719876076,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68266,
+      "num": 68266,
+      "word": "男子跳入激流拦网式救落水孩子",
+      "onboard_time": 1720367057,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 68130,
@@ -19992,6 +20032,14 @@
       "word": "西安西二环路面塌陷",
       "onboard_time": 1719868631,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24870,
+      "num": 214039,
+      "word": "山东暴雨高铁站开休息室供旅客躲雨",
+      "onboard_time": 1720368918,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720366465366,
+  "endTime": 1720369333814,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554253,
+      "num": 554253,
+      "word": "河南暴雨实况",
+      "onboard_time": 1720363579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515851,
       "num": 256400,
       "word": "汪苏泷连夜追加八百万",
@@ -425,6 +433,14 @@
       "onboard_time": 1720333577,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492941,
+      "num": 492941,
+      "word": "TES对战T1",
+      "onboard_time": 1720366937,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 473830,
@@ -529,14 +545,6 @@
       "onboard_time": 1720354637,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425925,
-      "num": 425925,
-      "word": "河南暴雨实况",
-      "onboard_time": 1720363579,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425894,
@@ -699,6 +707,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 376665,
+      "num": 376665,
+      "word": "洞庭湖决堤被冲毁的家和生计",
+      "onboard_time": 1720363939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376017,
       "num": 284105,
       "word": "12306上的静兑铺都是啥意思",
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348058,
+      "num": 348058,
+      "word": "电竞世界杯",
+      "onboard_time": 1720292352,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 344567,
       "num": 344567,
       "word": "青环5封神4分钟",
@@ -819,7 +843,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331536,
+      "raw_hot": 332005,
       "num": 250783,
       "word": "警方通报男子骚扰并殴打女子",
       "onboard_time": 1720365198,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1720358959,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231885,
-      "num": 231885,
-      "word": "洞庭湖决堤被冲毁的家和生计",
-      "onboard_time": 1720363939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231459,
@@ -1579,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172857,
+      "num": 172857,
+      "word": "汉密尔顿英国主场夺冠",
+      "onboard_time": 1720367777,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170335,
       "num": 170335,
       "word": "洞庭湖",
@@ -1795,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146364,
+      "num": 146364,
+      "word": "赵露思 路透",
+      "onboard_time": 1720368077,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146072,
       "num": 146072,
       "word": "体检查出这15种毛病有些不用治",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1720359378,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128648,
-      "num": 128648,
-      "word": "电竞世界杯",
-      "onboard_time": 1720292352,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 128094,
@@ -2315,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105154,
+      "num": 105154,
+      "word": "BabyMonster新歌舞台",
+      "onboard_time": 1720367958,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105130,
       "num": 105130,
       "word": "赵今麦带度华年剧组来青环团建",
@@ -2419,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95270,
+      "num": 95270,
+      "word": "李蓉重新喜欢上裴文宣",
+      "onboard_time": 1720366217,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94807,
       "num": 94807,
       "word": "英格兰瑞士点球大战",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1720318578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92872,
-      "num": 92872,
-      "word": "李蓉重新喜欢上裴文宣",
-      "onboard_time": 1720366217,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92598,
@@ -2569,6 +2601,14 @@
       "onboard_time": 1720355237,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68266,
+      "num": 68266,
+      "word": "男子跳入激流拦网式救落水孩子",
+      "onboard_time": 1720367057,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66528,
@@ -2856,6 +2896,14 @@
       "word": "101岁抗战老兵看到祖国战机竖大拇指",
       "onboard_time": 1720347317,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24870,
+      "num": 214039,
+      "word": "山东暴雨高铁站开休息室供旅客躲雨",
+      "onboard_time": 1720368918,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
