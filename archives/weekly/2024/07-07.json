@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720333588481,
+  "endTime": 1720334336022,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1811395,
-      "num": 1811395,
+      "raw_hot": 1873462,
+      "num": 1873462,
       "word": "东莞爆炸",
       "onboard_time": 1720330699,
       "rank": 0,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 899698,
-      "num": 362457,
+      "num": 377345,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
@@ -131,8 +131,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 722405,
-      "num": 722405,
+      "raw_hot": 772647,
+      "num": 772647,
       "word": "周也瞬间红透了",
       "onboard_time": 1720331178,
       "rank": 5,
@@ -267,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451146,
+      "num": 207162,
+      "word": "分手一年多前男友妹妹发来信息",
+      "onboard_time": 1720331538,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 449638,
+      "num": 449638,
+      "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+      "onboard_time": 1720329438,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446684,
       "num": 446684,
       "word": "87年前的今天永不能忘",
@@ -321,14 +337,6 @@
       "onboard_time": 1720307774,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 399488,
-      "num": 399488,
-      "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
-      "onboard_time": 1720329438,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391335,
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347628,
-      "num": 202189,
-      "word": "分手一年多前男友妹妹发来信息",
-      "onboard_time": 1720331538,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 333682,
       "num": 333682,
       "word": "英格兰vs瑞士",
@@ -571,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 268402,
+      "num": 268402,
+      "word": "孙丞潇做出了评价最差的一道菜",
+      "onboard_time": 1720332498,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267791,
       "num": 267791,
       "word": "防空警报",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 239366,
-      "num": 195763,
+      "num": 196697,
       "word": "从爸爸朋友圈知道自己要办升学宴",
       "onboard_time": 1720330037,
       "rank": 34,
@@ -673,14 +681,6 @@
       "onboard_time": 1720326318,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217183,
-      "num": 193689,
-      "word": "孙丞潇做出了评价最差的一道菜",
-      "onboard_time": 1720332498,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 214532,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188688,
+      "num": 188688,
+      "word": "坚持练习八段锦1个月会有什么变化",
+      "onboard_time": 1720329557,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -817,6 +825,14 @@
       "onboard_time": 1720268298,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181826,
+      "num": 150819,
+      "word": "免费的往往却是最贵的",
+      "onboard_time": 1720333577,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 181806,
@@ -851,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175212,
-      "num": 175212,
-      "word": "坚持练习八段锦1个月会有什么变化",
-      "onboard_time": 1720329557,
-      "rank": 43,
-      "category": "运动健身"
+      "raw_hot": 173709,
+      "num": 173709,
+      "word": "世卫组织宣布滑石粉或致癌",
+      "onboard_time": 1720331898,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170335,
@@ -881,14 +897,6 @@
       "onboard_time": 1720316117,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168000,
-      "num": 168000,
-      "word": "世卫组织宣布滑石粉或致癌",
-      "onboard_time": 1720331898,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 167190,
@@ -945,6 +953,22 @@
       "onboard_time": 1720319358,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151009,
+      "num": 151009,
+      "word": "原来西梅是李子不是梅子",
+      "onboard_time": 1720332978,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 148194,
+      "num": 148194,
+      "word": "张馨予 姐没有被PUA",
+      "onboard_time": 1720334117,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 146478,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1720280957,
       "rank": 36,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 133805,
+      "num": 133805,
+      "word": "何猷启前妻称不想再找富二代了",
+      "onboard_time": 1720334117,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130419,
@@ -1323,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88569,
-      "num": 88569,
-      "word": "原来西梅是李子不是梅子",
-      "onboard_time": 1720332978,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88426,
       "num": 88426,
       "word": "毕业季才是宿管阿姨的618",
@@ -1355,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82202,
+      "num": 82202,
+      "word": "黄金时代综合征",
+      "onboard_time": 1720333877,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81018,
       "num": 81018,
       "word": "宛平城墙的弹痕是先辈血泪的印记",
       "onboard_time": 1720307833,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80805,
+      "num": 80805,
+      "word": "被遗忘机场当事人收到东航道歉信",
+      "onboard_time": 1720334238,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80282,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1720296131,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78249,
+      "num": 78249,
+      "word": "长相思",
+      "onboard_time": 1720334298,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 66225,
@@ -1603,7 +1651,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 6387,
+      "raw_hot": 7183,
       "num": 1096338,
       "word": "千年运河京韵焕新",
       "onboard_time": 1720237996,
