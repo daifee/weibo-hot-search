@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720336692016,
+  "endTime": 1720337672195,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1138275,
-      "num": 227443,
+      "num": 272200,
       "word": "奚梦瑶2岁女儿身高",
       "onboard_time": 1720334538,
       "rank": 10,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 899698,
-      "num": 395154,
+      "num": 402039,
       "word": "为什么很多人微信所在地冰岛",
       "onboard_time": 1720322058,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 799023,
+      "num": 799023,
+      "word": "东莞消防通报化纤厂爆燃事件",
+      "onboard_time": 1720330699,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797773,
@@ -137,6 +145,14 @@
       "onboard_time": 1720277719,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 797094,
+      "num": 268540,
+      "word": "何猷启前妻称不想再找富二代了",
+      "onboard_time": 1720334117,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772647,
@@ -153,14 +169,6 @@
       "onboard_time": 1720281558,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 687908,
-      "num": 225138,
-      "word": "何猷启前妻称不想再找富二代了",
-      "onboard_time": 1720334117,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675453,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 595391,
-      "num": 223723,
+      "num": 266307,
       "word": "张馨予 姐没有被PUA",
       "onboard_time": 1720334117,
       "rank": 33,
@@ -265,6 +273,14 @@
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 510782,
+      "num": 193633,
+      "word": "免费的往往却是最贵的",
+      "onboard_time": 1720333577,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 473830,
@@ -329,14 +345,6 @@
       "onboard_time": 1720327817,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 437395,
-      "num": 190989,
-      "word": "免费的往往却是最贵的",
-      "onboard_time": 1720333577,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 432758,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330908,
+      "num": 330908,
+      "word": "默杀",
+      "onboard_time": 1720272978,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328299,
       "num": 328299,
       "word": "TES对战G2",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325628,
+      "num": 190214,
+      "word": "原来西梅是李子不是梅子",
+      "onboard_time": 1720332978,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 322122,
       "num": 185744,
       "word": "奉劝晚婚的人不要随份子钱",
@@ -529,6 +553,14 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 303215,
+      "num": 303215,
+      "word": "被遗忘机场当事人收到东航道歉信",
+      "onboard_time": 1720334238,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300022,
@@ -603,16 +635,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 274660,
-      "num": 274660,
-      "word": "被遗忘机场当事人收到东航道歉信",
-      "onboard_time": 1720334238,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 277735,
+      "num": 277735,
+      "word": "世卫组织宣布滑石粉或致癌",
+      "onboard_time": 1720331898,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 268402,
-      "num": 268402,
+      "num": 276898,
       "word": "孙丞潇做出了评价最差的一道菜",
       "onboard_time": 1720332498,
       "rank": 23,
@@ -633,14 +665,6 @@
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263944,
-      "num": 188182,
-      "word": "原来西梅是李子不是梅子",
-      "onboard_time": 1720332978,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 257263,
@@ -755,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213355,
-      "num": 213355,
-      "word": "默杀",
-      "onboard_time": 1720272978,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 211935,
       "num": 211935,
       "word": "王欣瑜 温网",
@@ -793,14 +809,6 @@
       "onboard_time": 1720308674,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199184,
-      "num": 199184,
-      "word": "世卫组织宣布滑石粉或致癌",
-      "onboard_time": 1720331898,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196610,
@@ -867,6 +875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 186838,
+      "num": 186838,
+      "word": "成毅下部戏是英雄志",
+      "onboard_time": 1720336398,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -905,14 +921,6 @@
       "onboard_time": 1720329497,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 179357,
-      "num": 179357,
-      "word": "成毅下部戏是英雄志",
-      "onboard_time": 1720336398,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 179015,
@@ -1019,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154162,
+      "num": 133185,
+      "word": "伊藤美诚3比0徐孝元",
+      "onboard_time": 1720336339,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146478,
       "num": 146478,
       "word": "TES零封G2",
@@ -1107,6 +1123,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 133367,
+      "num": 133367,
+      "word": "买三金要不要AA",
+      "onboard_time": 1720336156,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1720268896,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122697,
+      "num": 122697,
+      "word": "张卫健还演过这么抽象的电视剧",
+      "onboard_time": 1720336818,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 122610,
@@ -1347,14 +1379,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 99013,
-      "num": 99013,
-      "word": "伊藤美诚3比0徐孝元",
-      "onboard_time": 1720336339,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98929,
       "num": 98929,
       "word": "薛之谦我要这灯光有何用",
@@ -1363,12 +1387,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96202,
+      "num": 182387,
+      "word": "七七事变87年祭",
+      "onboard_time": 1720334658,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95585,
       "num": 95585,
       "word": "87年前卢沟桥畔的枪响",
       "onboard_time": 1720308074,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95257,
+      "num": 95257,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1720337656,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95022,
+      "num": 95022,
+      "word": "跳广场舞一个月瘦了7斤",
+      "onboard_time": 1720337058,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94807,
@@ -1403,20 +1451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91718,
-      "num": 91718,
-      "word": "买三金要不要AA",
-      "onboard_time": 1720336156,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 90686,
       "num": 90686,
       "word": "度华年",
       "onboard_time": 1720332856,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89826,
+      "num": 89826,
+      "word": "FPX官宣xiaolaohu休假",
+      "onboard_time": 1720337656,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 88426,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1720253357,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83352,
+      "num": 83352,
+      "word": "爸爸当家",
+      "onboard_time": 1720337476,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 82202,
@@ -1545,14 +1601,6 @@
       "onboard_time": 1720267818,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57934,
-      "num": 182387,
-      "word": "七七事变87年祭",
-      "onboard_time": 1720334658,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55998,

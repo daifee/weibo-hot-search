@@ -1,0 +1,410 @@
+{
+  "runTime": 1720337672195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 799023,
+        "num": 799023,
+        "word": "东莞消防通报化纤厂爆燃事件",
+        "onboard_time": 1720330699,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610412,
+        "num": 610412,
+        "word": "周也瞬间红透了",
+        "onboard_time": 1720331178,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6413,
+        "num": 481754,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402039,
+        "num": 402039,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381327,
+        "num": 381327,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330908,
+        "num": 330908,
+        "word": "默杀",
+        "onboard_time": 1720336219,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303215,
+        "num": 303215,
+        "word": "被遗忘机场当事人收到东航道歉信",
+        "onboard_time": 1720334238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277735,
+        "num": 277735,
+        "word": "世卫组织宣布滑石粉或致癌",
+        "onboard_time": 1720331898,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235156,
+        "num": 276898,
+        "word": "孙丞潇做出了评价最差的一道菜",
+        "onboard_time": 1720332498,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62259,
+        "num": 274531,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1119819,
+        "num": 272200,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797094,
+        "num": 268540,
+        "word": "何猷启前妻称不想再找富二代了",
+        "onboard_time": 1720334117,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572265,
+        "num": 266307,
+        "word": "张馨予 姐没有被PUA",
+        "onboard_time": 1720334117,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833937,
+        "num": 264018,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262604,
+        "num": 262604,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261707,
+        "num": 261707,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242480,
+        "num": 242480,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227671,
+        "num": 227671,
+        "word": "张静初回应全素饮食被质疑不健康",
+        "onboard_time": 1720334597,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194225,
+        "num": 194225,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194222,
+        "num": 194222,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510782,
+        "num": 193633,
+        "word": "免费的往往却是最贵的",
+        "onboard_time": 1720333577,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419260,
+        "num": 190644,
+        "word": "德国女高管担心前途摔死新生女儿",
+        "onboard_time": 1720327698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325628,
+        "num": 190214,
+        "word": "原来西梅是李子不是梅子",
+        "onboard_time": 1720332978,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244191,
+        "num": 187542,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186838,
+        "num": 186838,
+        "word": "成毅下部戏是英雄志",
+        "onboard_time": 1720336398,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158427,
+        "num": 158427,
+        "word": "长相思",
+        "onboard_time": 1720334298,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157724,
+        "num": 157724,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155971,
+        "num": 155971,
+        "word": "分手一年多前男友妹妹发来信息",
+        "onboard_time": 1720331538,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146877,
+        "num": 146877,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133367,
+        "num": 133367,
+        "word": "买三金要不要AA",
+        "onboard_time": 1720336156,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154162,
+        "num": 133185,
+        "word": "伊藤美诚3比0徐孝元",
+        "onboard_time": 1720336339,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129222,
+        "num": 129222,
+        "word": "从爸爸朋友圈知道自己要办升学宴",
+        "onboard_time": 1720330037,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127180,
+        "num": 127180,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122697,
+        "num": 122697,
+        "word": "张卫健还演过这么抽象的电视剧",
+        "onboard_time": 1720336818,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121319,
+        "num": 121319,
+        "word": "郭敬明",
+        "onboard_time": 1720326676,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118501,
+        "num": 118501,
+        "word": "成毅有四部待播作品",
+        "onboard_time": 1720334957,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117285,
+        "num": 117285,
+        "word": "阿Sa发朋友圈照片都不P图",
+        "onboard_time": 1720324936,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115921,
+        "num": 115921,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112917,
+        "num": 112917,
+        "word": "张钧甯演出了母亲的心碎",
+        "onboard_time": 1720332618,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97304,
+        "num": 97304,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97237,
+        "num": 97237,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97044,
+        "num": 97044,
+        "word": "中等偏上的人生是怎样的",
+        "onboard_time": 1720333279,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96202,
+        "num": 96202,
+        "word": "七七事变87年祭",
+        "onboard_time": 1720334658,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95257,
+        "num": 95257,
+        "word": "张本智和3比1林昀儒",
+        "onboard_time": 1720337656,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95022,
+        "num": 95022,
+        "word": "跳广场舞一个月瘦了7斤",
+        "onboard_time": 1720337058,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92632,
+        "num": 92632,
+        "word": "洞庭湖决堤后动物们水中求生",
+        "onboard_time": 1720321637,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89826,
+        "num": 89826,
+        "word": "FPX官宣xiaolaohu休假",
+        "onboard_time": 1720337656,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83735,
+        "num": 83735,
+        "word": "黑龙江男篮原教练王楠去世",
+        "onboard_time": 1720331357,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83352,
+        "num": 83352,
+        "word": "爸爸当家",
+        "onboard_time": 1720337476,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 81090,
+        "word": "山东临沂暴雨变水城",
+        "onboard_time": 1720325358,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#任何人想要否定侵略历史中国人民绝不答应#"
+    }
+  }
+}
