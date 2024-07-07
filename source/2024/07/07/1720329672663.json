@@ -1,0 +1,410 @@
+{
+  "runTime": 1720329672663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 792700,
+        "num": 792700,
+        "word": "日本教科书将南京大屠杀写成南京事件",
+        "onboard_time": 1720327756,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2603955,
+        "num": 753397,
+        "word": "中国将迎来人口死亡高峰",
+        "onboard_time": 1720325717,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5474,
+        "num": 699919,
+        "word": "千年运河京韵焕新",
+        "onboard_time": 1720237996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684691,
+        "num": 684691,
+        "word": "恭喜子涵同学成为海军飞行学员",
+        "onboard_time": 1720316297,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450531,
+        "num": 450531,
+        "word": "男孩被收养16年被判无权继承百万遗产",
+        "onboard_time": 1720319836,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391121,
+        "num": 391121,
+        "word": "中国男篮51分不敌国王",
+        "onboard_time": 1720327517,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350710,
+        "num": 350710,
+        "word": "阿Sa发朋友圈照片都不P图",
+        "onboard_time": 1720324936,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328072,
+        "num": 328072,
+        "word": "山东临沂暴雨变水城",
+        "onboard_time": 1720325358,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316381,
+        "num": 316381,
+        "word": "警钟长鸣吾辈自强",
+        "onboard_time": 1720313717,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28909,
+        "num": 316300,
+        "word": "听说有一亿人在等西湖的晚霞",
+        "onboard_time": 1720329077,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 566536,
+        "num": 309028,
+        "word": "IVE香港演唱会评论区",
+        "onboard_time": 1720326377,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 561398,
+        "num": 302578,
+        "word": "金秀贤 偷偷藏不住",
+        "onboard_time": 1720320138,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445380,
+        "num": 295439,
+        "word": "王俊凯 小丁没事哒没事哒",
+        "onboard_time": 1720317676,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423355,
+        "num": 286763,
+        "word": "德国女高管担心前途摔死新生女儿",
+        "onboard_time": 1720327698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410823,
+        "num": 282566,
+        "word": "C罗女友说C罗欢迎回家",
+        "onboard_time": 1720327817,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388839,
+        "num": 278909,
+        "word": "郭敬明",
+        "onboard_time": 1720326676,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372677,
+        "num": 268848,
+        "word": "女子称养父去世后堂哥要求继承房产",
+        "onboard_time": 1720327756,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346939,
+        "num": 262782,
+        "word": "他家的情况比我的梦还乱",
+        "onboard_time": 1720326256,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261755,
+        "num": 261755,
+        "word": "内马尔",
+        "onboard_time": 1720325476,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239562,
+        "num": 239562,
+        "word": "洞庭湖决堤后动物们水中求生",
+        "onboard_time": 1720321637,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493156,
+        "num": 234638,
+        "word": "为什么很多人微信所在地冰岛",
+        "onboard_time": 1720322058,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401740,
+        "num": 233605,
+        "word": "1L装饮料为何成年轻人的社交货币",
+        "onboard_time": 1720322297,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229532,
+        "num": 229532,
+        "word": "洞庭湖决口封堵最新现场",
+        "onboard_time": 1720321217,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220601,
+        "num": 220601,
+        "word": "今日中国再不是1937的中国",
+        "onboard_time": 1720307833,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219025,
+        "num": 219025,
+        "word": "成都商场打人",
+        "onboard_time": 1720328958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217728,
+        "num": 217728,
+        "word": "羽毛球价格大涨",
+        "onboard_time": 1720326318,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213362,
+        "num": 213362,
+        "word": "不要随便喝中国的肠润茶",
+        "onboard_time": 1720307954,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196610,
+        "num": 196610,
+        "word": "中储粮开展全系统排大排查",
+        "onboard_time": 1720325717,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168507,
+        "num": 168507,
+        "word": "赵今麦人形电脑天使心",
+        "onboard_time": 1720317197,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "不运动也能无条件减掉三公斤以上",
+        "onboard_time": 1720329497,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155396,
+        "num": 155396,
+        "word": "以为是同学结果是班主任",
+        "onboard_time": 1720310415,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140582,
+        "num": 140582,
+        "word": "赵露思穿搭",
+        "onboard_time": 1720308193,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138541,
+        "num": 138541,
+        "word": "Henry一出场票价就回来了",
+        "onboard_time": 1720327998,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137131,
+        "num": 137131,
+        "word": "泸州地震",
+        "onboard_time": 1720321637,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134309,
+        "num": 134309,
+        "word": "耳廓狐不想洗澡时会装死",
+        "onboard_time": 1720329018,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126225,
+        "num": 126225,
+        "word": "北上过审下证",
+        "onboard_time": 1720324038,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120831,
+        "num": 120831,
+        "word": "如何一只手戴手链",
+        "onboard_time": 1720325836,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119661,
+        "num": 119661,
+        "word": "王星越说仁科是坏男人",
+        "onboard_time": 1720328898,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119654,
+        "num": 119654,
+        "word": "丁程鑫真的泼了王俊凯",
+        "onboard_time": 1720274479,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 118549,
+        "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
+        "onboard_time": 1720329438,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112964,
+        "num": 112964,
+        "word": "萧敬腾质疑Capper挂电",
+        "onboard_time": 1720328478,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "竟有如此精简有力的文字",
+        "onboard_time": 1720329018,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111946,
+        "num": 111946,
+        "word": "刘亦菲自拍水平进步了",
+        "onboard_time": 1720311016,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107055,
+        "num": 107055,
+        "word": "坚持练习八段锦1个月会有什么变化",
+        "onboard_time": 1720329557,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 106342,
+        "word": "嗨6预告多少有点吓人了",
+        "onboard_time": 1720317497,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105830,
+        "num": 105830,
+        "word": "已老实求放过",
+        "onboard_time": 1720328178,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105130,
+        "num": 105130,
+        "word": "赵今麦带度华年剧组来青环团建",
+        "onboard_time": 1720329138,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103516,
+        "num": 103516,
+        "word": "洞庭湖决口出现水流回流",
+        "onboard_time": 1720318697,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104316,
+        "num": 102749,
+        "word": "中国男篮全场50分",
+        "onboard_time": 1720329317,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100874,
+        "num": 100874,
+        "word": "空腹吃这些食物会得胃结石",
+        "onboard_time": 1720316237,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#一本珍贵相册见证中塔友谊#"
+    }
+  }
+}
