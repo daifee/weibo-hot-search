@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720323369880,
+  "endTime": 1720326140090,
   "band_list": [
     {
       "raw_hot": 1491623,
@@ -33,6 +33,14 @@
       "onboard_time": 1720317676,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1005553,
+      "num": 1005553,
+      "word": "恭喜子涵同学成为海军飞行学员",
+      "onboard_time": 1720316297,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927608,
@@ -75,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 899698,
+      "num": 233842,
+      "word": "为什么很多人微信所在地冰岛",
+      "onboard_time": 1720322058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 797773,
       "num": 365760,
       "word": "易猝死的人往往有这4个共同点",
@@ -115,19 +131,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 629153,
-      "num": 629153,
-      "word": "恭喜子涵同学成为海军飞行学员",
-      "onboard_time": 1720316297,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 626241,
       "num": 495251,
       "word": "洞庭湖226米决口已封堵66米",
       "onboard_time": 1720279099,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607917,
+      "num": 229514,
+      "word": "1L装饮料为何成年轻人的社交货币",
+      "onboard_time": 1720322297,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 489282,
-      "num": 233842,
-      "word": "为什么很多人微信所在地冰岛",
-      "onboard_time": 1720322058,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 473830,
@@ -251,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 382407,
+      "num": 382407,
+      "word": "洞庭湖决堤后动物们水中求生",
+      "onboard_time": 1720321637,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380521,
       "num": 334929,
       "word": "孙艺珍说和玄彬之间是命运",
@@ -299,19 +315,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357190,
+      "num": 347425,
+      "word": "洞庭湖决口封堵最新现场",
+      "onboard_time": 1720321217,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350376,
       "num": 313332,
       "word": "印度一地一天内19人被雷击身亡",
       "onboard_time": 1720281498,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347425,
-      "num": 347425,
-      "word": "洞庭湖决口封堵最新现场",
-      "onboard_time": 1720321217,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -379,20 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284571,
-      "num": 229514,
-      "word": "1L装饮料为何成年轻人的社交货币",
-      "onboard_time": 1720322297,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283233,
       "num": 283233,
       "word": "刘亦菲自拍水平进步了",
       "onboard_time": 1720311016,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279651,
+      "num": 279651,
+      "word": "内马尔",
+      "onboard_time": 1720325476,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 279446,
@@ -440,14 +456,6 @@
       "word": "非升即走已从讲师延伸至副教授",
       "onboard_time": 1720279280,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253850,
-      "num": 253850,
-      "word": "洞庭湖决堤后动物们水中求生",
-      "onboard_time": 1720321637,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -511,6 +519,14 @@
       "num": 223413,
       "word": "古早商场败给只逛不买的年轻人",
       "onboard_time": 1720313476,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217214,
+      "num": 194292,
+      "word": "中国将迎来人口死亡高峰",
+      "onboard_time": 1720325717,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183584,
+      "num": 183584,
+      "word": "刘涛打Henry",
+      "onboard_time": 1720324038,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183181,
       "num": 183181,
       "word": "秦彻cv",
@@ -619,12 +643,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179032,
+      "num": 174978,
+      "word": "阿Sa发朋友圈照片都不P图",
+      "onboard_time": 1720324936,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179015,
       "num": 179015,
       "word": "长相思全员营业",
       "onboard_time": 1720281319,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178259,
+      "num": 178259,
+      "word": "嗨6预告多少有点吓人了",
+      "onboard_time": 1720317497,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 177066,
@@ -659,6 +699,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167202,
+      "num": 167202,
+      "word": "山东临沂暴雨变水城",
+      "onboard_time": 1720325358,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167190,
+      "num": 167190,
+      "word": "北上过审下证",
+      "onboard_time": 1720324038,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165378,
       "num": 165378,
       "word": "默杀",
@@ -689,14 +745,6 @@
       "onboard_time": 1720319358,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151555,
-      "num": 151555,
-      "word": "嗨6预告多少有点吓人了",
-      "onboard_time": 1720317497,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 146478,
@@ -739,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138011,
+      "num": 138011,
+      "word": "个别学习困难孩子可能智商超常",
+      "onboard_time": 1720324696,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137896,
       "num": 137896,
       "word": "泰山队致歉",
@@ -763,6 +819,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 130419,
+      "num": 130419,
+      "word": "詹库生涯首次联手",
+      "onboard_time": 1720323317,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129614,
       "num": 129614,
       "word": "T1晋级电竞世界杯决赛",
@@ -777,6 +841,14 @@
       "onboard_time": 1720278139,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129018,
+      "num": 129018,
+      "word": "巴西美洲杯出局",
+      "onboard_time": 1720323976,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 128648,
@@ -825,6 +897,14 @@
       "onboard_time": 1720275438,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118418,
+      "num": 118418,
+      "word": "如何一只手戴手链",
+      "onboard_time": 1720325836,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 114986,
@@ -907,12 +987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100856,
-      "num": 100856,
-      "word": "詹库生涯首次联手",
-      "onboard_time": 1720323317,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 104646,
+      "num": 104646,
+      "word": "中国和白俄罗斯军队将联合训练",
+      "onboard_time": 1720322835,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 104509,
+      "num": 104509,
+      "word": "中储粮开展全系统排大排查",
+      "onboard_time": 1720325717,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100057,
@@ -947,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94023,
+      "num": 94023,
+      "word": "TES决赛对战T1",
+      "onboard_time": 1720324157,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93460,
       "num": 335873,
       "word": "他们刚下考场又上防汛战场",
       "onboard_time": 1720318578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88426,
+      "num": 88426,
+      "word": "毕业季才是宿管阿姨的618",
+      "onboard_time": 1720326078,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84615,
@@ -1123,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40466,
+      "num": 277352,
+      "word": "男孩毕业从头哭到尾被小伙伴接力安慰",
+      "onboard_time": 1720325358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40244,
       "num": 42313,
       "word": "五月天深圳演唱会",
@@ -1193,6 +1305,14 @@
       "onboard_time": 1720296371,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3863,
+      "num": 574671,
+      "word": "千年运河京韵焕新",
+      "onboard_time": 1720237996,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1204,6 +1324,9 @@
     },
     {
       "word": "#习近平中亚行#"
+    },
+    {
+      "word": "#习近平中亚之行难忘瞬间#"
     }
   ]
 }
