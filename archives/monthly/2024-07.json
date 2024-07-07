@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720383539645,
+  "endTime": 1720384475689,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3313,6 +3313,14 @@
       "onboard_time": 1720234217,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555739,
+      "num": 555739,
+      "word": "T1夺冠",
+      "onboard_time": 1720383431,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 555473,
@@ -12035,6 +12043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165352,
+      "num": 165352,
+      "word": "Faker亚索",
+      "onboard_time": 1720383071,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165199,
       "num": 165199,
       "word": "谭松韵演技",
@@ -14593,14 +14609,6 @@
       "onboard_time": 1720259299,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133883,
-      "num": 133883,
-      "word": "T1夺冠",
-      "onboard_time": 1720383431,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 133633,
@@ -17235,14 +17243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101283,
-      "num": 101283,
-      "word": "Faker亚索",
-      "onboard_time": 1720383071,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101123,
       "num": 101123,
       "word": "韩廷洗澡镜头",
@@ -18923,6 +18923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57282,
+      "num": 57282,
+      "word": "JackeyLove四杀",
+      "onboard_time": 1720383191,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56917,
       "num": 134826,
       "word": "致敬出海路上坚持奋斗的中国品牌",
@@ -19025,6 +19033,14 @@
       "onboard_time": 1720085238,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53331,
+      "num": 53331,
+      "word": "为什么不ban兰博",
+      "onboard_time": 1720376352,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 53324,
@@ -19475,14 +19491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41851,
-      "num": 41851,
-      "word": "为什么不ban兰博",
-      "onboard_time": 1720376352,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 41754,
       "num": 41754,
       "word": "鹿晗银发蓝毛衣",
@@ -19915,6 +19923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30279,
+      "num": 30279,
+      "word": "经典第四把",
+      "onboard_time": 1720383130,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30269,
       "num": 176633,
       "word": "一张图看懂瑜伽裤怎么选",
@@ -19928,14 +19944,6 @@
       "word": "faker状态",
       "onboard_time": 1720374613,
       "rank": 49,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 29999,
-      "num": 29999,
-      "word": "JackeyLove四杀",
-      "onboard_time": 1720383191,
-      "rank": 24,
       "category": "电竞"
     },
     {
@@ -20385,14 +20393,6 @@
       "onboard_time": 1720116012,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19915,
-      "num": 19915,
-      "word": "经典第四把",
-      "onboard_time": 1720383130,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 19837,
