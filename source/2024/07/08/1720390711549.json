@@ -1,0 +1,410 @@
+{
+  "runTime": 1720390711549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 388393,
+        "num": 388393,
+        "word": "T1夺冠",
+        "onboard_time": 1720383431,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154317,
+        "num": 154317,
+        "word": "洞庭湖决堤被冲毁的家和生计",
+        "onboard_time": 1720363939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23820,
+        "num": 144853,
+        "word": "古人的解暑智慧",
+        "onboard_time": 1720361420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143800,
+        "num": 143800,
+        "word": "河南暴雨实况",
+        "onboard_time": 1720363579,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109378,
+        "num": 109378,
+        "word": "人机局",
+        "onboard_time": 1720371854,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90583,
+        "num": 90583,
+        "word": "BLG Wei",
+        "onboard_time": 1720373413,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83404,
+        "num": 83404,
+        "word": "TES对战T1",
+        "onboard_time": 1720366937,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82809,
+        "num": 82809,
+        "word": "赵露思 路透",
+        "onboard_time": 1720368077,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78014,
+        "num": 78014,
+        "word": "普京没空吃饭偷吃零食",
+        "onboard_time": 1720356019,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 5047,
+        "num": 66331,
+        "word": "当婺剧遇上00后",
+        "onboard_time": 1720377613,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159453,
+        "num": 65379,
+        "word": "韩雪夫妇与好友聚餐",
+        "onboard_time": 1720354938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111356,
+        "num": 64993,
+        "word": "奖杯底座",
+        "onboard_time": 1720386430,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64301,
+        "num": 64301,
+        "word": "Faker亚索",
+        "onboard_time": 1720383071,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62037,
+        "num": 62037,
+        "word": "羽毛球为何成体制内第一运动",
+        "onboard_time": 1720364420,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60498,
+        "num": 60498,
+        "word": "求井盖闭嘴教程",
+        "onboard_time": 1720375873,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57939,
+        "num": 57939,
+        "word": "A股一上市公司12年造假上百亿元",
+        "onboard_time": 1720387750,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 47967,
+        "num": 47967,
+        "word": "邓为涂山璟",
+        "onboard_time": 1720390272,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47259,
+        "num": 47259,
+        "word": "韩廷 强制爱",
+        "onboard_time": 1720356679,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47195,
+        "num": 47195,
+        "word": "沙特杯超长暂停时间",
+        "onboard_time": 1720378031,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44187,
+        "num": 44187,
+        "word": "BP完了采访教练思路",
+        "onboard_time": 1720372334,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62256,
+        "num": 43785,
+        "word": "宋亚轩刘耀文的车被追尾",
+        "onboard_time": 1720350017,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51922,
+        "num": 43160,
+        "word": "把微信所有人设置成了仅聊天",
+        "onboard_time": 1720351519,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48371,
+        "num": 42963,
+        "word": "47岁男子洗头后心梗离世",
+        "onboard_time": 1720355958,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42464,
+        "num": 42464,
+        "word": "警方通报男子骚扰并殴打女子",
+        "onboard_time": 1720365198,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38227,
+        "num": 38227,
+        "word": "中储粮回应罐车运输油罐混用",
+        "onboard_time": 1720370175,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37926,
+        "num": 37926,
+        "word": "默杀 王圣迪已是nextlevel",
+        "onboard_time": 1720359920,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36401,
+        "num": 36401,
+        "word": "睡眠不足为什么会引起糖尿病",
+        "onboard_time": 1720364898,
+        "rank": 26,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 36099,
+        "num": 36099,
+        "word": "张本智和男单夺冠",
+        "onboard_time": 1720358719,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34075,
+        "num": 34075,
+        "word": "任敏瘦了",
+        "onboard_time": 1720347619,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33310,
+        "num": 33310,
+        "word": "呼吸时突然胸部莫名刺痛",
+        "onboard_time": 1720362259,
+        "rank": 29,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 31168,
+        "num": 31168,
+        "word": "JackeyLove四杀",
+        "onboard_time": 1720383191,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30790,
+        "num": 30790,
+        "word": "电竞世界杯",
+        "onboard_time": 1720366457,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29097,
+        "num": 29097,
+        "word": "奚梦瑶2岁女儿身高",
+        "onboard_time": 1720334538,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28786,
+        "num": 28786,
+        "word": "有香港人去深圳买一周的菜",
+        "onboard_time": 1720352357,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 28736,
+        "word": "石油杯 奶油杯",
+        "onboard_time": 1720374372,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28469,
+        "num": 28469,
+        "word": "骄阳似我 李现田曦薇",
+        "onboard_time": 1720345037,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26803,
+        "num": 26803,
+        "word": "成毅金发",
+        "onboard_time": 1720354637,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25773,
+        "num": 25773,
+        "word": "体重48公斤00后女警缴毒48公斤",
+        "onboard_time": 1720345998,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25427,
+        "num": 25427,
+        "word": "白桃星座",
+        "onboard_time": 1720364120,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 23890,
+        "num": 23890,
+        "word": "faker状态",
+        "onboard_time": 1720374613,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23039,
+        "num": 23039,
+        "word": "小奶油单杀Faker",
+        "onboard_time": 1720371256,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22088,
+        "num": 22088,
+        "word": "汉密尔顿英国主场夺冠",
+        "onboard_time": 1720367777,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21384,
+        "num": 21384,
+        "word": "时代少年团对接回应",
+        "onboard_time": 1720356258,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20578,
+        "num": 20578,
+        "word": "TES全华班",
+        "onboard_time": 1720371015,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20465,
+        "num": 20465,
+        "word": "T1 版本",
+        "onboard_time": 1720373413,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19972,
+        "num": 19972,
+        "word": "冬瓜苹果水",
+        "onboard_time": 1720389852,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19900,
+        "num": 19900,
+        "word": "不ban小炮",
+        "onboard_time": 1720371614,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19502,
+        "num": 19502,
+        "word": "Zeus 幽默",
+        "onboard_time": 1720374312,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19377,
+        "num": 19377,
+        "word": "T1拿到赛点",
+        "onboard_time": 1720379591,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17925,
+        "num": 19312,
+        "word": "TES先下一城",
+        "onboard_time": 1720370894,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#三访塔吉克斯坦习近平主席心系这份兄弟情谊#"
+    }
+  }
+}
