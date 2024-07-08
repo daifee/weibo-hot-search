@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720477134181,
+  "endTime": 1720478133090,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -2515,6 +2515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212583,
+      "num": 212583,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212019,
       "num": 212019,
       "word": "苏醒为老婆庆生",
@@ -3467,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166262,
-      "num": 166262,
-      "word": "官方回应网传山东故县村大坝决堤",
-      "onboard_time": 1720458254,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166233,
       "num": 166233,
       "word": "WTT",
@@ -4107,6 +4107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133477,
+      "num": 133477,
+      "word": "她心里的人不是我",
+      "onboard_time": 1720466591,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133324,
       "num": 133324,
       "word": "小夭上线倒计时",
@@ -4699,14 +4707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106527,
-      "num": 106527,
-      "word": "她心里的人不是我",
-      "onboard_time": 1720466591,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106353,
       "num": 106353,
       "word": "中国00后首次出战奥运男子百米接力",
@@ -5139,6 +5139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76229,
+      "num": 76229,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75640,
+      "num": 47272,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75257,
       "num": 75257,
       "word": "石油杯 奶油杯",
@@ -5411,14 +5427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54908,
-      "num": 54274,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54566,
       "num": 372289,
       "word": "保障食品安全需做好监管把关",
@@ -5433,14 +5441,6 @@
       "onboard_time": 1720376352,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52485,
-      "num": 38936,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52475,
@@ -5675,11 +5675,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31868,
+      "num": 31868,
+      "word": "李荣浩演唱会目送杨丞琳离场",
+      "onboard_time": 1720476672,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 31785,
       "num": 305636,
       "word": "中国小伙一腿一臂登顶乞力马扎罗",
       "onboard_time": 1720354757,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31768,
+      "num": 31768,
+      "word": "视频回顾洞庭湖决口合龙瞬间",
+      "onboard_time": 1720471630,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5689,6 +5705,14 @@
       "onboard_time": 1720277598,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31309,
+      "num": 30955,
+      "word": "瘦腿算是给玩明白了",
+      "onboard_time": 1720473551,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 31069,
@@ -5715,12 +5739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30074,
-      "num": 30074,
-      "word": "视频回顾洞庭湖决口合龙瞬间",
-      "onboard_time": 1720471630,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 28006,
+      "num": 28006,
+      "word": "揭露美国政府机构炮制伏特台风内幕",
+      "onboard_time": 1720473490,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27901,
@@ -5787,22 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24212,
-      "num": 24212,
-      "word": "揭露美国政府机构炮制伏特台风内幕",
-      "onboard_time": 1720473490,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 24140,
-      "num": 24140,
-      "word": "瘦腿算是给玩明白了",
-      "onboard_time": 1720473551,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 24083,
       "num": 24083,
       "word": "EDG涅槃组首胜",
@@ -5827,19 +5835,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20307,
+      "num": 26632,
+      "word": "罐车拉完煤制油直接装食用油",
+      "onboard_time": 1720459273,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19837,
       "num": 78950,
       "word": "15岁男孩教科书式急救抢回一条命",
       "onboard_time": 1720296851,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19577,
-      "num": 23767,
-      "word": "罐车拉完煤制油直接装食用油",
-      "onboard_time": 1720459273,
-      "rank": 41,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720478133090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 212583,
+        "num": 212583,
+        "word": "官方回应网传山东故县村大坝决堤",
+        "onboard_time": 1720458254,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174587,
+        "num": 174587,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17597,
+        "num": 144540,
+        "word": "珠江口东西两岸掀起串门热",
+        "onboard_time": 1720442298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144412,
+        "num": 144412,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133477,
+        "num": 133477,
+        "word": "她心里的人不是我",
+        "onboard_time": 1720466591,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113092,
+        "num": 113092,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 104507,
+        "word": "涂山璟 青丘卡戴珊",
+        "onboard_time": 1720445899,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102173,
+        "num": 102173,
+        "word": "乌克兰全境已拉响防空警报",
+        "onboard_time": 1720447880,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 89294,
+        "num": 89294,
+        "word": "优酷升至行业第二",
+        "onboard_time": 1720452377,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81452,
+        "num": 81452,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101261,
+        "num": 79198,
+        "word": "决口封堵后2.1亿立方米水量怎么排",
+        "onboard_time": 1720454177,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76941,
+        "num": 76941,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 11,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 76229,
+        "num": 76229,
+        "word": "黄宣被误认成具俊晔",
+        "onboard_time": 1720464552,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68488,
+        "num": 68488,
+        "word": "整治油罐混用必须给公众满意交代",
+        "onboard_time": 1720456217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66278,
+        "num": 66278,
+        "word": "Jennie疑似抽烟",
+        "onboard_time": 1720438038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62373,
+        "num": 62373,
+        "word": "洞庭湖决口完成封堵",
+        "onboard_time": 1720449560,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56408,
+        "num": 56408,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56131,
+        "num": 56131,
+        "word": "金鼎食用油下架",
+        "onboard_time": 1720441999,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52975,
+        "num": 52975,
+        "word": "萧亚轩一年半要动四次手术",
+        "onboard_time": 1720433538,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50559,
+        "num": 50559,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124808,
+        "num": 50078,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89036,
+        "num": 49776,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88352,
+        "num": 48655,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40398,
+        "num": 48290,
+        "word": "媒体评高中奖励考入清北学生50万",
+        "onboard_time": 1720456396,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75640,
+        "num": 47272,
+        "word": "首批来北京特种兵的人已进入骨科",
+        "onboard_time": 1720469111,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54576,
+        "num": 46912,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 46500,
+        "num": 46500,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43587,
+        "num": 43587,
+        "word": "仅退款并不是零元购",
+        "onboard_time": 1720455317,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40877,
+        "num": 42221,
+        "word": "媒体评罐车拉完煤制油直接装食用油",
+        "onboard_time": 1720454538,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42173,
+        "num": 42173,
+        "word": "孙颖莎王楚钦发文相约巴黎见",
+        "onboard_time": 1720453338,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 41036,
+        "word": "加相亲对象微信别给电话号码",
+        "onboard_time": 1720451240,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 40189,
+        "num": 40189,
+        "word": "长相思2首播热度",
+        "onboard_time": 1720436059,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33067,
+        "num": 33067,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32834,
+        "num": 32834,
+        "word": "晚上睡觉前擦一擦手机",
+        "onboard_time": 1720449920,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32572,
+        "num": 32572,
+        "word": "广州网约车司机整月不休也难赚到1万元",
+        "onboard_time": 1720447220,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32127,
+        "num": 32127,
+        "word": "坐高铁一定要穿长裤",
+        "onboard_time": 1720443500,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31868,
+        "num": 31868,
+        "word": "李荣浩演唱会目送杨丞琳离场",
+        "onboard_time": 1720476672,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31768,
+        "num": 31768,
+        "word": "视频回顾洞庭湖决口合龙瞬间",
+        "onboard_time": 1720471630,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31459,
+        "num": 31459,
+        "word": "马龙说想有樊振东王楚钦般年轻心态",
+        "onboard_time": 1720443018,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31160,
+        "num": 31160,
+        "word": "谁家大婚名场面一下来三个啊",
+        "onboard_time": 1720436658,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31309,
+        "num": 30955,
+        "word": "瘦腿算是给玩明白了",
+        "onboard_time": 1720473551,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 29433,
+        "num": 29433,
+        "word": "长相思2",
+        "onboard_time": 1720433059,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28006,
+        "num": 28006,
+        "word": "揭露美国政府机构炮制伏特台风内幕",
+        "onboard_time": 1720473490,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28058,
+        "num": 27977,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27884,
+        "num": 27884,
+        "word": "蒲熠星自曝理想型是于文文",
+        "onboard_time": 1720446921,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27744,
+        "num": 27744,
+        "word": "油罐混用的行业秘密到底有多公开",
+        "onboard_time": 1720450820,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26646,
+        "num": 26646,
+        "word": "男生如何正确称呼陌生女性",
+        "onboard_time": 1720448059,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22522,
+        "num": 26640,
+        "word": "王鹤棣寸头",
+        "onboard_time": 1720439779,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20307,
+        "num": 26632,
+        "word": "罐车拉完煤制油直接装食用油",
+        "onboard_time": 1720459273,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19537,
+        "num": 26622,
+        "word": "根据我的微博匹配我的家庭",
+        "onboard_time": 1720466051,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上合组织国家绿色发展论坛致贺信#"
+    }
+  }
+}

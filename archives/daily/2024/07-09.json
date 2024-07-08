@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720477134181,
+  "endTime": 1720478133090,
   "band_list": [
     {
       "raw_hot": 718720,
@@ -155,6 +155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212583,
+      "num": 212583,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209366,
       "num": 149933,
       "word": "人死后指纹还能解锁手机吗",
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166262,
-      "num": 166262,
-      "word": "官方回应网传山东故县村大坝决堤",
-      "onboard_time": 1720458254,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145329,
       "num": 145329,
       "word": "广州网约车司机整月不休也难赚到1万元",
@@ -248,6 +248,14 @@
       "word": "涂山璟白发",
       "onboard_time": 1720441819,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133477,
+      "num": 133477,
+      "word": "她心里的人不是我",
+      "onboard_time": 1720466591,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1720447760,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106527,
-      "num": 106527,
-      "word": "她心里的人不是我",
-      "onboard_time": 1720466591,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 105753,
@@ -419,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76229,
+      "num": 76229,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75640,
+      "num": 47272,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74945,
       "num": 79463,
       "word": "章泽天当策展人了",
@@ -451,36 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54908,
-      "num": 54274,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 52485,
-      "num": 38936,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41224,
-      "num": 41224,
-      "word": "萧亚轩一年半要动四次手术",
-      "onboard_time": 1720433538,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 40616,
-      "num": 42904,
+      "raw_hot": 56131,
+      "num": 56131,
       "word": "金鼎食用油下架",
       "onboard_time": 1720441999,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52975,
+      "num": 52975,
+      "word": "萧亚轩一年半要动四次手术",
+      "onboard_time": 1720433538,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 38682,
@@ -507,6 +507,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31868,
+      "num": 31868,
+      "word": "李荣浩演唱会目送杨丞琳离场",
+      "onboard_time": 1720476672,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 31768,
+      "num": 31768,
+      "word": "视频回顾洞庭湖决口合龙瞬间",
+      "onboard_time": 1720471630,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31309,
+      "num": 30955,
+      "word": "瘦腿算是给玩明白了",
+      "onboard_time": 1720473551,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 30593,
       "num": 30593,
       "word": "根据我的微博匹配我的家庭",
@@ -515,12 +539,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 30074,
-      "num": 30074,
-      "word": "视频回顾洞庭湖决口合龙瞬间",
-      "onboard_time": 1720471630,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 28006,
+      "num": 28006,
+      "word": "揭露美国政府机构炮制伏特台风内幕",
+      "onboard_time": 1720473490,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26519,
@@ -531,24 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24212,
-      "num": 24212,
-      "word": "揭露美国政府机构炮制伏特台风内幕",
-      "onboard_time": 1720473490,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 24140,
-      "num": 24140,
-      "word": "瘦腿算是给玩明白了",
-      "onboard_time": 1720473551,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 19577,
-      "num": 23767,
+      "raw_hot": 20307,
+      "num": 26632,
       "word": "罐车拉完煤制油直接装食用油",
       "onboard_time": 1720459273,
       "rank": 41,
