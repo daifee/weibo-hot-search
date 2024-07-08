@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720420867484,
+  "endTime": 1720423175082,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -259,6 +259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 566211,
+      "num": 566211,
+      "word": "包头市民打12345要求重新组织高考",
+      "onboard_time": 1720419260,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 554253,
       "num": 554253,
       "word": "河南暴雨实况",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478378,
+      "num": 478378,
+      "word": "杨紫的台词被各地文旅用上了",
+      "onboard_time": 1720420819,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470276,
       "num": 417275,
       "word": "苹果迟迟不出折叠屏是为什么",
@@ -379,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 440377,
+      "num": 440377,
+      "word": "中储粮食用油品牌回应",
+      "onboard_time": 1720418180,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 440293,
       "num": 440293,
       "word": "女子为减肥吃20多天营养棒进了医院",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 399871,
-      "num": 221560,
+      "num": 246090,
       "word": "读研是一场巨大的服从性测试",
       "onboard_time": 1720415780,
       "rank": 46,
@@ -555,12 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 295684,
-      "num": 295684,
-      "word": "包头市民打12345要求重新组织高考",
-      "onboard_time": 1720419260,
-      "rank": 30,
-      "category": "社会新闻,教育"
+      "raw_hot": 296129,
+      "num": 296129,
+      "word": "Mic迈扣账号被封禁",
+      "onboard_time": 1720422679,
+      "rank": 15,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 280706,
@@ -611,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261212,
-      "num": 261212,
-      "word": "中储粮食用油品牌回应",
-      "onboard_time": 1720418180,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
@@ -633,6 +649,14 @@
       "onboard_time": 1720400657,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246714,
+      "num": 246714,
+      "word": "我是O型血让我给涂山璟捐",
+      "onboard_time": 1720420339,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 246425,
@@ -691,12 +715,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231019,
+      "num": 376562,
+      "word": "化工油食用油混装无异于投毒",
+      "onboard_time": 1720418300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223503,
+      "num": 223503,
+      "word": "少年白马你倒是定档啊",
+      "onboard_time": 1720422199,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219294,
       "num": 219294,
       "word": "少年白马醉春风首发预告",
       "onboard_time": 1720408339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218945,
+      "num": 218945,
+      "word": "北大教授反驳中国房子过剩",
+      "onboard_time": 1720421900,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218815,
@@ -729,6 +777,14 @@
       "onboard_time": 1720371854,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212019,
+      "num": 212019,
+      "word": "苏醒为老婆庆生",
+      "onboard_time": 1720422261,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 210502,
@@ -809,6 +865,14 @@
       "onboard_time": 1720406778,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198731,
+      "num": 198731,
+      "word": "为什么超市收银员不能坐着上班",
+      "onboard_time": 1720418781,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 198428,
@@ -915,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182988,
-      "num": 182988,
-      "word": "为什么超市收银员不能坐着上班",
-      "onboard_time": 1720418781,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181137,
       "num": 181137,
       "word": "学生眼中最胖的老师2年减重150斤",
@@ -939,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178905,
-      "num": 376562,
-      "word": "化工油食用油混装无异于投毒",
-      "onboard_time": 1720418300,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178295,
       "num": 178295,
       "word": "T1把败者钥匙填进奖杯",
@@ -955,20 +1003,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178128,
+      "num": 178128,
+      "word": "卢昱晓首个常驻综艺",
+      "onboard_time": 1720422858,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177724,
       "num": 177724,
       "word": "夏天这样洗澡等于生病",
       "onboard_time": 1720407918,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 177361,
-      "num": 160881,
-      "word": "杨紫的台词被各地文旅用上了",
-      "onboard_time": 1720420819,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 172857,
@@ -1003,12 +1051,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167118,
-      "num": 153568,
-      "word": "我是O型血让我给涂山璟捐",
-      "onboard_time": 1720420339,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 168977,
+      "num": 168977,
+      "word": "毛利兰蝉联第一",
+      "onboard_time": 1720420698,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 166442,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1720354637,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166057,
+      "num": 166057,
+      "word": "人民网评罐车运输油罐混用",
+      "onboard_time": 1720422858,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165352,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1720372334,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163445,
+      "num": 163445,
+      "word": "檀健次银发赤瞳",
+      "onboard_time": 1720422140,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 161423,
@@ -1203,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139476,
+      "num": 139476,
+      "word": "马丽就是沈腾最好的医美",
+      "onboard_time": 1720422858,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139190,
       "num": 406007,
       "word": "不能让付费内推扰乱就业市场",
@@ -1243,12 +1315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136295,
+      "num": 136295,
+      "word": "捡到手机要价5000元被判赔8500元",
+      "onboard_time": 1720423158,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135492,
       "num": 135492,
       "word": "外媒称C罗想参加2026年世界杯",
       "onboard_time": 1720396697,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134647,
+      "num": 134647,
+      "word": "成毅白发适配度拉满",
+      "onboard_time": 1720422619,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 133596,
@@ -1315,12 +1403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123850,
-      "num": 123850,
-      "word": "毛利兰蝉联第一",
-      "onboard_time": 1720420698,
-      "rank": 38,
-      "category": "动漫"
+      "raw_hot": 125685,
+      "num": 125685,
+      "word": "郭晓婷特别好的朋友是刘诗诗",
+      "onboard_time": 1720422980,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122525,
@@ -1337,6 +1425,14 @@
       "onboard_time": 1720406478,
       "rank": 43,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "中国移动回应资费降级难",
+      "onboard_time": 1720420998,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118208,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1720358358,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 109707,
+      "num": 109707,
+      "word": "孙亚龙开团LPL教练",
+      "onboard_time": 1720420819,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108559,
@@ -1449,14 +1553,6 @@
       "onboard_time": 1720403897,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97230,
-      "num": 97230,
-      "word": "孙亚龙开团LPL教练",
-      "onboard_time": 1720420819,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 96604,
@@ -1771,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48559,
+      "num": 298401,
+      "word": "这届商家喊你来碰一下",
+      "onboard_time": 1720422019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47616,
       "num": 250966,
       "word": "古人的解暑智慧",
@@ -1839,6 +1943,14 @@
       "num": 214039,
       "word": "山东暴雨高铁站开休息室供旅客躲雨",
       "onboard_time": 1720368918,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21777,
+      "num": 440874,
+      "word": "揭秘户外活动组织乱象",
+      "onboard_time": 1720422619,
       "rank": 9,
       "category": "社会新闻"
     },

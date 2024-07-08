@@ -1,0 +1,410 @@
+{
+  "runTime": 1720423175082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94447,
+        "num": 776129,
+        "word": "美政府大规模监听行动已进入AI时代",
+        "onboard_time": 1720406838,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2556373,
+        "num": 766216,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96840,
+        "num": 733545,
+        "word": "中国揭露美用伏特台风抹黑中国细节",
+        "onboard_time": 1720409118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016868,
+        "num": 729085,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723031,
+        "num": 723031,
+        "word": "追踪仅退款的人",
+        "onboard_time": 1720414639,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 566211,
+        "num": 566211,
+        "word": "包头市民打12345要求重新组织高考",
+        "onboard_time": 1720419260,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 478378,
+        "num": 478378,
+        "word": "杨紫的台词被各地文旅用上了",
+        "onboard_time": 1720420819,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470845,
+        "num": 470845,
+        "word": "第一次见把剧名拍出来了",
+        "onboard_time": 1720417459,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442973,
+        "num": 442973,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21777,
+        "num": 440874,
+        "word": "揭秘户外活动组织乱象",
+        "onboard_time": 1720422619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440377,
+        "num": 440377,
+        "word": "中储粮食用油品牌回应",
+        "onboard_time": 1720418180,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 397905,
+        "num": 397905,
+        "word": "张雨绮拔了一个脚指甲",
+        "onboard_time": 1720418121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380374,
+        "num": 380374,
+        "word": "中国移动被指资费升级容易降级难",
+        "onboard_time": 1720414820,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327614,
+        "num": 327614,
+        "word": "结婚生育率下降或因经济增长速度太快",
+        "onboard_time": 1720414699,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48559,
+        "num": 298401,
+        "word": "这届商家喊你来碰一下",
+        "onboard_time": 1720422019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296129,
+        "num": 296129,
+        "word": "Mic迈扣账号被封禁",
+        "onboard_time": 1720422679,
+        "rank": 15,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 292381,
+        "num": 292381,
+        "word": "教育局回应女子笔面试第一被判无效",
+        "onboard_time": 1720409659,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281980,
+        "num": 281980,
+        "word": "女子过度防晒得软骨病",
+        "onboard_time": 1720409539,
+        "rank": 17,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 267061,
+        "num": 267061,
+        "word": "女子退休后健身半年被刷走146万",
+        "onboard_time": 1720414699,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246714,
+        "num": 246714,
+        "word": "我是O型血让我给涂山璟捐",
+        "onboard_time": 1720420339,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260690,
+        "num": 246090,
+        "word": "读研是一场巨大的服从性测试",
+        "onboard_time": 1720415780,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231019,
+        "num": 231019,
+        "word": "化工油食用油混装无异于投毒",
+        "onboard_time": 1720418300,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223503,
+        "num": 223503,
+        "word": "少年白马你倒是定档啊",
+        "onboard_time": 1720422199,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218945,
+        "num": 218945,
+        "word": "北大教授反驳中国房子过剩",
+        "onboard_time": 1720421900,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218570,
+        "num": 218570,
+        "word": "A股",
+        "onboard_time": 1720403537,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212019,
+        "num": 212019,
+        "word": "苏醒为老婆庆生",
+        "onboard_time": 1720422261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204275,
+        "num": 204275,
+        "word": "李宇春无价之姐终审胜诉",
+        "onboard_time": 1720409238,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198731,
+        "num": 198731,
+        "word": "为什么超市收银员不能坐着上班",
+        "onboard_time": 1720418781,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178128,
+        "num": 178128,
+        "word": "卢昱晓首个常驻综艺",
+        "onboard_time": 1720422858,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177546,
+        "num": 177546,
+        "word": "gidle回归直播",
+        "onboard_time": 1720419980,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175041,
+        "num": 175041,
+        "word": "李晨回复张艺兴",
+        "onboard_time": 1720415001,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169054,
+        "num": 169054,
+        "word": "福宝竟然站了1分钟",
+        "onboard_time": 1720403476,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168977,
+        "num": 168977,
+        "word": "毛利兰蝉联第一",
+        "onboard_time": 1720420698,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166796,
+        "num": 166796,
+        "word": "和男朋友同居后房租要AA吗",
+        "onboard_time": 1720394895,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166057,
+        "num": 166057,
+        "word": "人民网评罐车运输油罐混用",
+        "onboard_time": 1720422858,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "檀健次银发赤瞳",
+        "onboard_time": 1720422140,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149590,
+        "num": 149590,
+        "word": "月租8800元还是租到了有毒串串房",
+        "onboard_time": 1720403836,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139476,
+        "num": 139476,
+        "word": "马丽就是沈腾最好的医美",
+        "onboard_time": 1720422858,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136295,
+        "num": 136295,
+        "word": "捡到手机要价5000元被判赔8500元",
+        "onboard_time": 1720423158,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134724,
+        "num": 134724,
+        "word": "长相思2今日开播",
+        "onboard_time": 1720407978,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134647,
+        "num": 134647,
+        "word": "成毅白发适配度拉满",
+        "onboard_time": 1720422619,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131230,
+        "num": 131230,
+        "word": "油罐车",
+        "onboard_time": 1720420698,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125685,
+        "num": 125685,
+        "word": "郭晓婷特别好的朋友是刘诗诗",
+        "onboard_time": 1720422980,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122832,
+        "num": 122832,
+        "word": "檀健次特别出演长相思2",
+        "onboard_time": 1720411100,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118323,
+        "num": 118323,
+        "word": "中国移动回应资费降级难",
+        "onboard_time": 1720420998,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 114293,
+        "word": "陆虎在北京机场又捡到活了",
+        "onboard_time": 1720411879,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109707,
+        "num": 109707,
+        "word": "孙亚龙开团LPL教练",
+        "onboard_time": 1720420819,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109180,
+        "num": 109180,
+        "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+        "onboard_time": 1720403897,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102258,
+        "num": 102258,
+        "word": "杨紫侧边盘发",
+        "onboard_time": 1720409779,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100157,
+        "num": 100157,
+        "word": "汇福粮油回应卸完煤油直接装食用油",
+        "onboard_time": 1720419499,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中亚时间#"
+    }
+  }
+}

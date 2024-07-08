@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/08 14:41:07
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/08 15:19:35
 </p>
 </blockquote>
 <p>
@@ -2601,6 +2601,12 @@ IVE香港演唱会评论区（热度：566536）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E5%B8%82%E6%B0%91%E6%89%9312345%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E9%AB%98%E8%80%83%23" target="weibo">
+包头市民打12345要求重新组织高考（热度：566211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8E%BB%E5%BE%80%E9%B8%9F%E5%B7%A2%E4%B8%87%E4%BA%BA%E7%8E%B0%E5%9C%BA%E7%9A%84%E8%B7%AF%E8%B5%B0%E4%BA%8618%E5%B9%B4%23" target="weibo">
 薛之谦去往鸟巢万人现场的路走了18年（热度：566208）
 </a>
@@ -3351,6 +3357,12 @@ TFBOYS没来应援色来了（热度：481254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%8F%B0%E8%AF%8D%E8%A2%AB%E5%90%84%E5%9C%B0%E6%96%87%E6%97%85%E7%94%A8%E4%B8%8A%E4%BA%86%23" target="weibo">
+杨紫的台词被各地文旅用上了（热度：478378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E6%96%B0%E7%89%87%E6%8F%90%E6%A1%A3%23" target="weibo">
 沈腾马丽新片提档（热度：478370）
 </a>
@@ -3761,6 +3773,12 @@ Mai出道（热度：440649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E9%9C%B8%E5%87%8C%E8%87%B4%E4%B8%8B%E4%BD%93%E7%83%A7%E4%BC%A4%23" target="weibo">
 福建一初中生被霸凌致下体烧伤（热度：440505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%82%A8%E7%B2%AE%E9%A3%9F%E7%94%A8%E6%B2%B9%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%23" target="weibo">
+中储粮食用油品牌回应（热度：440377）
 </a>
 </li>
 
@@ -5529,8 +5547,8 @@ BLG教练（热度：300291）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E5%B8%82%E6%B0%91%E6%89%9312345%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E9%AB%98%E8%80%83%23" target="weibo">
-包头市民打12345要求重新组织高考（热度：295684）
+<a href="https://s.weibo.com/weibo?q=%23Mic%E8%BF%88%E6%89%A3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
+Mic迈扣账号被封禁（热度：296129）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BLG（热度：274907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%AB%E5%81%A5%E8%BF%98%E6%BC%94%E8%BF%87%E8%BF%99%E4%B9%88%E6%8A%BD%E8%B1%A1%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
 张卫健还演过这么抽象的电视剧（热度：265514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E4%BB%8A%E5%A4%A9%E8%B7%8C%E4%BA%865452%E5%85%83%23" target="weibo">
-胡锡进今天跌了5452元（热度：265490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ZICO%E6%95%99%E8%AE%AD%E5%A5%B3%E5%90%8C%E5%AD%A6%23" target="weibo">
-ZICO教训女同学（热度：264919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%A9%BF%E7%9A%84%E5%A5%BD%E5%83%8F%E5%A9%9A%E7%BA%B1%23" target="weibo">
-田曦薇穿的好像婚纱（热度：264752）
 </a>
 </li>
 
