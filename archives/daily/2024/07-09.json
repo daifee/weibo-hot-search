@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720474485614,
+  "endTime": 1720477134181,
   "band_list": [
     {
       "raw_hot": 718720,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106527,
+      "num": 106527,
+      "word": "她心里的人不是我",
+      "onboard_time": 1720466591,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105753,
       "num": 105753,
       "word": "Lia短发",
@@ -443,12 +451,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60633,
-      "num": 57149,
-      "word": "她心里的人不是我",
-      "onboard_time": 1720466591,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 54908,
+      "num": 54274,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52485,
+      "num": 38936,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41224,
+      "num": 41224,
+      "word": "萧亚轩一年半要动四次手术",
+      "onboard_time": 1720433538,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40616,
+      "num": 42904,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38682,
@@ -467,35 +499,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34861,
-      "num": 34861,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34503,
       "num": 462614,
       "word": "关注洞庭湖决堤抢险救援进展",
       "onboard_time": 1720442958,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31827,
-      "num": 26649,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30812,
-      "num": 42904,
-      "word": "金鼎食用油下架",
-      "onboard_time": 1720441999,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -507,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30074,
+      "num": 30074,
+      "word": "视频回顾洞庭湖决口合龙瞬间",
+      "onboard_time": 1720471630,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26519,
       "num": 26519,
       "word": "女孩宠物医院丢包裹开头吓人结局暖心",
@@ -515,11 +531,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24311,
-      "num": 24311,
-      "word": "视频回顾洞庭湖决口合龙瞬间",
-      "onboard_time": 1720471630,
-      "rank": 39,
+      "raw_hot": 24212,
+      "num": 24212,
+      "word": "揭露美国政府机构炮制伏特台风内幕",
+      "onboard_time": 1720473490,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24140,
+      "num": 24140,
+      "word": "瘦腿算是给玩明白了",
+      "onboard_time": 1720473551,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 19577,
+      "num": 23767,
+      "word": "罐车拉完煤制油直接装食用油",
+      "onboard_time": 1720459273,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17099,
-      "num": 17099,
-      "word": "罐车拉完煤制油直接装食用油",
-      "onboard_time": 1720459273,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16743,
       "num": 16743,
       "word": "多家公司回应罐车运输油罐混用",
@@ -547,28 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15845,
-      "num": 15845,
-      "word": "揭露美国政府机构炮制伏特台风内幕",
-      "onboard_time": 1720473490,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13969,
       "num": 15648,
       "word": "减脂餐有参考了",
       "onboard_time": 1720472230,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12993,
-      "num": 15240,
-      "word": "瘦腿算是给玩明白了",
-      "onboard_time": 1720473551,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12430,
@@ -584,6 +592,14 @@
       "word": "55个小时不分昼夜施工后合龙",
       "onboard_time": 1720464012,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8666,
+      "num": 41423,
+      "word": "大熊猫为奥运预热360度旋转掉树",
+      "onboard_time": 1720467551,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
