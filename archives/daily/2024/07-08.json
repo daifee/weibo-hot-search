@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720437465902,
+  "endTime": 1720438539020,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543964,
+      "num": 543964,
+      "word": "谁家大婚名场面一下来三个啊",
+      "onboard_time": 1720436658,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543165,
       "num": 543165,
       "word": "WPS崩了",
@@ -473,6 +481,14 @@
       "onboard_time": 1720424600,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473352,
+      "num": 473352,
+      "word": "Jennie疑似抽烟",
+      "onboard_time": 1720438038,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 470276,
@@ -611,12 +627,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 393513,
+      "num": 393513,
+      "word": "微软中国员工禁用安卓手机",
+      "onboard_time": 1720436540,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 393064,
       "num": 144427,
       "word": "宋亚轩刘耀文的车被追尾",
       "onboard_time": 1720350017,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383628,
+      "num": 368430,
+      "word": "长相思2首播热度",
+      "onboard_time": 1720436059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 382554,
@@ -763,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327324,
+      "num": 327324,
+      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+      "onboard_time": 1720436418,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323882,
       "num": 965211,
       "word": "美政府背景黑客攻击中国4500万次",
@@ -792,14 +832,6 @@
       "word": "我是O型血让我给涂山璟捐",
       "onboard_time": 1720420339,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 316460,
-      "num": 280331,
-      "word": "长相思2首播热度",
-      "onboard_time": 1720436059,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -849,6 +881,14 @@
       "onboard_time": 1720405519,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278065,
+      "num": 196280,
+      "word": "王源工作室招暑假工吗",
+      "onboard_time": 1720437739,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 275533,
@@ -923,22 +963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 251311,
-      "num": 251311,
-      "word": "谁家大婚名场面一下来三个啊",
-      "onboard_time": 1720436658,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 249896,
-      "num": 249896,
-      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
-      "onboard_time": 1720436418,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246425,
       "num": 230854,
       "word": "相柳抢婚名场面",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1720413080,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232382,
+      "num": 191821,
+      "word": "王星越戴了于正送的手串",
+      "onboard_time": 1720437677,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 231019,
@@ -1443,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173892,
-      "num": 173892,
-      "word": "微软中国员工禁用安卓手机",
-      "onboard_time": 1720436540,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 172857,
       "num": 172857,
       "word": "汉密尔顿英国主场夺冠",
@@ -1707,6 +1731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150759,
+      "num": 147575,
+      "word": "小鬼把大小姐宠在怀里",
+      "onboard_time": 1720437318,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150611,
       "num": 150611,
       "word": "女生乘地铁被提醒有人偷拍大腿",
@@ -1755,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142307,
+      "num": 142307,
+      "word": "工作中尽量不要有这些行为",
+      "onboard_time": 1720436300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142194,
       "num": 142194,
       "word": "巴西出局内马尔痛哭",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1720413441,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140047,
+      "num": 132826,
+      "word": "六便士有多重只有自己才知道",
+      "onboard_time": 1720438457,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 139190,
@@ -1896,14 +1944,6 @@
       "word": "领导发250块让我给同事买下午茶",
       "onboard_time": 1720394655,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 129627,
-      "num": 129627,
-      "word": "工作中尽量不要有这些行为",
-      "onboard_time": 1720436300,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -2115,14 +2155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100373,
-      "num": 100373,
-      "word": "小鬼把大小姐宠在怀里",
-      "onboard_time": 1720437318,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100095,
       "num": 100095,
       "word": "五月天深圳",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1720400236,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95907,
+      "num": 95907,
+      "word": "突然就没有租房焦虑了",
+      "onboard_time": 1720438279,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 95702,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1720362678,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84907,
+      "num": 167510,
+      "word": "市监局回应罐车运输油罐混用",
+      "onboard_time": 1720438518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81638,
