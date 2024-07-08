@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720438539020,
+  "endTime": 1720442241695,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -41,6 +41,14 @@
       "onboard_time": 1720428739,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1705453,
+      "num": 762409,
+      "word": "阿狸 整容",
+      "onboard_time": 1720440320,
+      "rank": 1,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 1675766,
@@ -105,6 +113,14 @@
       "onboard_time": 1720409539,
       "rank": 45,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 1100610,
+      "num": 678967,
+      "word": "Jennie疑似抽烟",
+      "onboard_time": 1720438038,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1083270,
@@ -240,6 +256,14 @@
       "word": "第一次见把剧名拍出来了",
       "onboard_time": 1720417459,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 696488,
+      "num": 630026,
+      "word": "谁家大婚名场面一下来三个啊",
+      "onboard_time": 1720436658,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -387,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543964,
-      "num": 543964,
-      "word": "谁家大婚名场面一下来三个啊",
-      "onboard_time": 1720436658,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 543206,
+      "num": 543206,
+      "word": "微软中国员工禁用安卓手机",
+      "onboard_time": 1720436540,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 543165,
@@ -483,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473352,
-      "num": 473352,
-      "word": "Jennie疑似抽烟",
-      "onboard_time": 1720438038,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470276,
       "num": 417275,
       "word": "苹果迟迟不出折叠屏是为什么",
@@ -513,6 +529,14 @@
       "onboard_time": 1720418121,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455417,
+      "num": 402551,
+      "word": "长相思2首播热度",
+      "onboard_time": 1720436059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 454787,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436846,
+      "num": 436846,
+      "word": "王源工作室招暑假工吗",
+      "onboard_time": 1720437739,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433826,
       "num": 205348,
       "word": "呼吸时突然胸部莫名刺痛",
@@ -627,28 +659,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 393513,
-      "num": 393513,
-      "word": "微软中国员工禁用安卓手机",
-      "onboard_time": 1720436540,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 393064,
       "num": 144427,
       "word": "宋亚轩刘耀文的车被追尾",
       "onboard_time": 1720350017,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383628,
-      "num": 368430,
-      "word": "长相思2首播热度",
-      "onboard_time": 1720436059,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 382554,
@@ -771,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 332251,
+      "num": 332251,
+      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+      "onboard_time": 1720436418,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332005,
       "num": 202601,
       "word": "警方通报男子骚扰并殴打女子",
@@ -792,14 +816,6 @@
       "word": "gidle回归直播",
       "onboard_time": 1720419980,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327324,
-      "num": 327324,
-      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
-      "onboard_time": 1720436418,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1720420339,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311294,
+      "num": 172905,
+      "word": "六便士有多重只有自己才知道",
+      "onboard_time": 1720438457,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 309062,
@@ -883,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 278065,
-      "num": 196280,
-      "word": "王源工作室招暑假工吗",
-      "onboard_time": 1720437739,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275533,
       "num": 275533,
       "word": "默杀 王圣迪已是nextlevel",
@@ -931,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264495,
+      "num": 171945,
+      "word": "涂山璟白发",
+      "onboard_time": 1720441819,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262713,
       "num": 170401,
       "word": "新疆的作息也太适合年轻人了",
@@ -953,6 +977,14 @@
       "onboard_time": 1720406778,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 255377,
+      "num": 255377,
+      "word": "市监局回应罐车运输油罐混用",
+      "onboard_time": 1720438518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254139,
@@ -979,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242695,
+      "num": 169888,
+      "word": "鞠婧祎微博认证去掉了丝芭",
+      "onboard_time": 1720441879,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1720387750,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 237857,
+      "num": 524397,
+      "word": "人民日报专访马龙",
+      "onboard_time": 1720439598,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 235928,
@@ -1051,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225876,
+      "num": 169139,
+      "word": "王鹤棣寸头",
+      "onboard_time": 1720439779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223699,
+      "num": 167376,
+      "word": "檀健次不许唱了我心疼",
+      "onboard_time": 1720440439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223503,
       "num": 223503,
       "word": "少年白马你倒是定档啊",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1720409718,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215447,
+      "num": 166608,
+      "word": "刘耀文健身房被偶遇",
+      "onboard_time": 1720442118,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 215259,
@@ -1355,12 +1427,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188543,
+      "num": 162023,
+      "word": "小夭没事哒",
+      "onboard_time": 1720438819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188480,
       "num": 188480,
       "word": "沙特杯超长暂停时间",
       "onboard_time": 1720378031,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188345,
+      "num": 161589,
+      "word": "人死后指纹还能解锁手机吗",
+      "onboard_time": 1720441759,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 187008,
@@ -1627,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160375,
+      "num": 160375,
+      "word": "长歌行上星山西卫视",
+      "onboard_time": 1720440798,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "汪苏泷你好好唱歌演戏我另有人选",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1720345037,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158285,
+      "num": 158285,
+      "word": "姆巴佩入驻微博",
+      "onboard_time": 1720439480,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 156945,
@@ -1771,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147868,
+      "num": 147868,
+      "word": "工作中尽量不要有这些行为",
+      "onboard_time": 1720436300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146694,
       "num": 146694,
       "word": "湖南华容钱团间堤发生管涌",
@@ -1787,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142307,
-      "num": 142307,
-      "word": "工作中尽量不要有这些行为",
-      "onboard_time": 1720436300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142194,
       "num": 142194,
       "word": "巴西出局内马尔痛哭",
@@ -1809,14 +1913,6 @@
       "onboard_time": 1720413441,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 140047,
-      "num": 132826,
-      "word": "六便士有多重只有自己才知道",
-      "onboard_time": 1720438457,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 139190,
@@ -1987,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125115,
+      "num": 125115,
+      "word": "桃花血 好哭",
+      "onboard_time": 1720441879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122525,
       "num": 122525,
       "word": "汇福粮油回应卸完煤油直接装食用油",
@@ -2025,6 +2129,22 @@
       "onboard_time": 1720367958,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116513,
+      "num": 116513,
+      "word": "ITZY合体直播",
+      "onboard_time": 1720439419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116431,
+      "num": 116431,
+      "word": "突然就没有租房焦虑了",
+      "onboard_time": 1720438279,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 115678,
@@ -2171,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98968,
+      "num": 102741,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98059,
       "num": 98059,
       "word": "央行将开展临时正回购或逆回购操作",
@@ -2185,14 +2313,6 @@
       "onboard_time": 1720400236,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 95907,
-      "num": 95907,
-      "word": "突然就没有租房焦虑了",
-      "onboard_time": 1720438279,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 95702,
@@ -2281,14 +2401,6 @@
       "onboard_time": 1720362678,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84907,
-      "num": 167510,
-      "word": "市监局回应罐车运输油罐混用",
-      "onboard_time": 1720438518,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81638,
@@ -2563,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44912,
+      "num": 724986,
+      "word": "收下这份雨天出行安全宝典",
+      "onboard_time": 1720424659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43783,
       "num": 447376,
       "word": "女子48岁考研51岁研究生毕业",
@@ -2576,6 +2696,14 @@
       "word": "罐车混装暴露监督执法缺位",
       "onboard_time": 1720425618,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40567,
+      "num": 158518,
+      "word": "韩政府决定对实习住院医师不予处分",
+      "onboard_time": 1720441579,
+      "rank": 34,
       "category": "社会新闻"
     },
     {

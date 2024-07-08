@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720438539020,
+  "endTime": 1720442241695,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -305,6 +305,14 @@
       "onboard_time": 1720243338,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1705453,
+      "num": 762409,
+      "word": "阿狸 整容",
+      "onboard_time": 1720440320,
+      "rank": 1,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 1690883,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1719820037,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100610,
+      "num": 678967,
+      "word": "Jennie疑似抽烟",
+      "onboard_time": 1720438038,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1099170,
@@ -2491,6 +2507,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 696488,
+      "num": 630026,
+      "word": "谁家大婚名场面一下来三个啊",
+      "onboard_time": 1720436658,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696394,
       "num": 251583,
       "word": "蔡依林最想删掉的照片",
@@ -3795,20 +3819,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543964,
-      "num": 543964,
-      "word": "谁家大婚名场面一下来三个啊",
-      "onboard_time": 1720436658,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 543729,
       "num": 272367,
       "word": "新婚夫妻身亡女方家被判还11万彩礼",
       "onboard_time": 1720177939,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543206,
+      "num": 543206,
+      "word": "微软中国员工禁用安卓手机",
+      "onboard_time": 1720436540,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 543165,
@@ -4635,14 +4659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473352,
-      "num": 473352,
-      "word": "Jennie疑似抽烟",
-      "onboard_time": 1720438038,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 473277,
       "num": 473277,
       "word": "杨幂月光白裙",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1719745938,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455417,
+      "num": 402551,
+      "word": "长相思2首播热度",
+      "onboard_time": 1720436059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 455347,
@@ -5241,6 +5265,14 @@
       "onboard_time": 1719789555,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 436846,
+      "num": 436846,
+      "word": "王源工作室招暑假工吗",
+      "onboard_time": 1720437739,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 436584,
@@ -5859,14 +5891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 393513,
-      "num": 393513,
-      "word": "微软中国员工禁用安卓手机",
-      "onboard_time": 1720436540,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 392703,
       "num": 392703,
       "word": "于正送王星越和吴谨言的手串对比",
@@ -6009,14 +6033,6 @@
       "onboard_time": 1719905058,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 383628,
-      "num": 368430,
-      "word": "长相思2首播热度",
-      "onboard_time": 1720436059,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 383293,
@@ -7035,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332251,
+      "num": 332251,
+      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+      "onboard_time": 1720436418,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332005,
       "num": 250783,
       "word": "警方通报男子骚扰并殴打女子",
@@ -7145,14 +7169,6 @@
       "onboard_time": 1719998118,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 327324,
-      "num": 327324,
-      "word": "谢娜和孩子把鸡蛋孵出了小鸡",
-      "onboard_time": 1720436418,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 327262,
@@ -7433,6 +7449,14 @@
       "onboard_time": 1719829698,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311294,
+      "num": 172905,
+      "word": "六便士有多重只有自己才知道",
+      "onboard_time": 1720438457,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 311273,
@@ -8083,14 +8107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278065,
-      "num": 196280,
-      "word": "王源工作室招暑假工吗",
-      "onboard_time": 1720437739,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278041,
       "num": 304047,
       "word": "刘德华回应演唱会滑跪",
@@ -8339,6 +8355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264495,
+      "num": 171945,
+      "word": "涂山璟白发",
+      "onboard_time": 1720441819,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263853,
       "num": 243261,
       "word": "默杀 周处除三害",
@@ -8537,6 +8561,14 @@
       "onboard_time": 1719890000,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255377,
+      "num": 255377,
+      "word": "市监局回应罐车运输油罐混用",
+      "onboard_time": 1720438518,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254850,
@@ -8859,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242695,
+      "num": 169888,
+      "word": "鞠婧祎微博认证去掉了丝芭",
+      "onboard_time": 1720441879,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242306,
       "num": 242306,
       "word": "黑神话公司门口遭恶意涂鸦",
@@ -9049,6 +9089,14 @@
       "onboard_time": 1720223475,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237857,
+      "num": 524397,
+      "word": "人民日报专访马龙",
+      "onboard_time": 1720439598,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 237835,
@@ -9443,6 +9491,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 225876,
+      "num": 169139,
+      "word": "王鹤棣寸头",
+      "onboard_time": 1720439779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225688,
       "num": 225688,
       "word": "上午说了辞职晚上就后悔了",
@@ -9497,6 +9553,14 @@
       "onboard_time": 1720246517,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223699,
+      "num": 167376,
+      "word": "檀健次不许唱了我心疼",
+      "onboard_time": 1720440439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 223503,
@@ -9825,6 +9889,14 @@
       "onboard_time": 1720239438,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215447,
+      "num": 166608,
+      "word": "刘耀文健身房被偶遇",
+      "onboard_time": 1720442118,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 215349,
@@ -11835,6 +11907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188543,
+      "num": 162023,
+      "word": "小夭没事哒",
+      "onboard_time": 1720438819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188530,
       "num": 248118,
       "word": "WTT球星挑战赛曼谷站2024",
@@ -11873,6 +11953,14 @@
       "onboard_time": 1719906558,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188345,
+      "num": 161589,
+      "word": "人死后指纹还能解锁手机吗",
+      "onboard_time": 1720441759,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188326,
@@ -13747,6 +13835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160375,
+      "num": 160375,
+      "word": "长歌行上星山西卫视",
+      "onboard_time": 1720440798,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160256,
       "num": 160256,
       "word": "夏以昼呢",
@@ -13873,6 +13969,14 @@
       "onboard_time": 1720056618,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158285,
+      "num": 158285,
+      "word": "姆巴佩入驻微博",
+      "onboard_time": 1720439480,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 158012,
@@ -14739,6 +14843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147868,
+      "num": 147868,
+      "word": "工作中尽量不要有这些行为",
+      "onboard_time": 1720436300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147863,
       "num": 147863,
       "word": "于正 谨言是掌女王了",
@@ -15307,14 +15419,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 142307,
-      "num": 142307,
-      "word": "工作中尽量不要有这些行为",
-      "onboard_time": 1720436300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "电影误杀3杀青",
@@ -15521,14 +15625,6 @@
       "onboard_time": 1720276218,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140047,
-      "num": 132826,
-      "word": "六便士有多重只有自己才知道",
-      "onboard_time": 1720438457,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 140036,
@@ -17027,6 +17123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125115,
+      "num": 125115,
+      "word": "桃花血 好哭",
+      "onboard_time": 1720441879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124978,
       "num": 124978,
       "word": "汪苏泷3个多小时唱跳不带喘的",
@@ -17787,6 +17891,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116513,
+      "num": 116513,
+      "word": "ITZY合体直播",
+      "onboard_time": 1720439419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116457,
       "num": 116457,
       "word": "墨雨云间6月网剧TOP1",
@@ -17801,6 +17913,14 @@
       "onboard_time": 1720272138,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116431,
+      "num": 116431,
+      "word": "突然就没有租房焦虑了",
+      "onboard_time": 1720438279,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116289,
@@ -19091,6 +19211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98968,
+      "num": 102741,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98929,
       "num": 98929,
       "word": "薛之谦我要这灯光有何用",
@@ -19281,14 +19409,6 @@
       "onboard_time": 1720348518,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95907,
-      "num": 95907,
-      "word": "突然就没有租房焦虑了",
-      "onboard_time": 1720438279,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 95825,
@@ -19833,14 +19953,6 @@
       "onboard_time": 1720021818,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84907,
-      "num": 167510,
-      "word": "市监局回应罐车运输油罐混用",
-      "onboard_time": 1720438518,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84849,
@@ -21299,6 +21411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44912,
+      "num": 724986,
+      "word": "收下这份雨天出行安全宝典",
+      "onboard_time": 1720424659,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44606,
       "num": 563167,
       "word": "上合组织正式成员国增加到10个",
@@ -21488,6 +21608,14 @@
       "word": "一个街名见证中哈友谊历久弥新",
       "onboard_time": 1720003398,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40567,
+      "num": 158518,
+      "word": "韩政府决定对实习住院医师不予处分",
+      "onboard_time": 1720441579,
+      "rank": 34,
       "category": "社会新闻"
     },
     {

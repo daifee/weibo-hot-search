@@ -1,0 +1,410 @@
+{
+  "runTime": 1720442241695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 119772,
+        "num": 774864,
+        "word": "美政府机构就是伏特台风计划幕后老板",
+        "onboard_time": 1720431018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1705453,
+        "num": 762409,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 44912,
+        "num": 724986,
+        "word": "收下这份雨天出行安全宝典",
+        "onboard_time": 1720424659,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100610,
+        "num": 678967,
+        "word": "Jennie疑似抽烟",
+        "onboard_time": 1720438038,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827091,
+        "num": 662803,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 640501,
+        "num": 640501,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696488,
+        "num": 630026,
+        "word": "谁家大婚名场面一下来三个啊",
+        "onboard_time": 1720436658,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543206,
+        "num": 543206,
+        "word": "微软中国员工禁用安卓手机",
+        "onboard_time": 1720436540,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 541309,
+        "num": 541309,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237857,
+        "num": 524397,
+        "word": "人民日报专访马龙",
+        "onboard_time": 1720439598,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523458,
+        "num": 523458,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436846,
+        "num": 436846,
+        "word": "王源工作室招暑假工吗",
+        "onboard_time": 1720437739,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455417,
+        "num": 402551,
+        "word": "长相思2首播热度",
+        "onboard_time": 1720436059,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360437,
+        "num": 360437,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332251,
+        "num": 332251,
+        "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+        "onboard_time": 1720436418,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317853,
+        "num": 317853,
+        "word": "长相思2",
+        "onboard_time": 1720433059,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255377,
+        "num": 255377,
+        "word": "市监局回应罐车运输油罐混用",
+        "onboard_time": 1720438518,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255376,
+        "num": 255376,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251857,
+        "num": 251857,
+        "word": "北大考古女孩通过敦煌研究院校招面试",
+        "onboard_time": 1720433417,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177453,
+        "num": 177453,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099568,
+        "num": 176953,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360472,
+        "num": 175999,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338653,
+        "num": 173543,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311294,
+        "num": 172905,
+        "word": "六便士有多重只有自己才知道",
+        "onboard_time": 1720438457,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264495,
+        "num": 171945,
+        "word": "涂山璟白发",
+        "onboard_time": 1720441819,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242695,
+        "num": 169888,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225876,
+        "num": 169139,
+        "word": "王鹤棣寸头",
+        "onboard_time": 1720439779,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223699,
+        "num": 167376,
+        "word": "檀健次不许唱了我心疼",
+        "onboard_time": 1720440439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215447,
+        "num": 166608,
+        "word": "刘耀文健身房被偶遇",
+        "onboard_time": 1720442118,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 165057,
+        "word": "萧亚轩一年半要动四次手术",
+        "onboard_time": 1720433538,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191163,
+        "num": 163024,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188543,
+        "num": 162023,
+        "word": "小夭没事哒",
+        "onboard_time": 1720438819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188345,
+        "num": 161589,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 160375,
+        "num": 160375,
+        "word": "长歌行上星山西卫视",
+        "onboard_time": 1720440798,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40567,
+        "num": 158518,
+        "word": "韩政府决定对实习住院医师不予处分",
+        "onboard_time": 1720441579,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158285,
+        "num": 158285,
+        "word": "姆巴佩入驻微博",
+        "onboard_time": 1720439480,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147868,
+        "num": 147868,
+        "word": "工作中尽量不要有这些行为",
+        "onboard_time": 1720436300,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141907,
+        "num": 141907,
+        "word": "徐海乔被妈妈催着表白赵丽颖",
+        "onboard_time": 1720434378,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133812,
+        "num": 133812,
+        "word": "看似很懒实则很健康的行为",
+        "onboard_time": 1720435758,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131183,
+        "num": 131183,
+        "word": "王星越戴了于正送的手串",
+        "onboard_time": 1720437677,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126746,
+        "num": 126746,
+        "word": "黄子韬拍了部恋综官宣",
+        "onboard_time": 1720436238,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125115,
+        "num": 125115,
+        "word": "桃花血 好哭",
+        "onboard_time": 1720441879,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 118387,
+        "word": "脏脏 秃子",
+        "onboard_time": 1720436838,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116513,
+        "num": 116513,
+        "word": "ITZY合体直播",
+        "onboard_time": 1720439419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "突然就没有租房焦虑了",
+        "onboard_time": 1720438279,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112940,
+        "num": 112940,
+        "word": "狗狗替小主人挡毒蛇攻击被咬伤",
+        "onboard_time": 1720431560,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112381,
+        "num": 112381,
+        "word": "秦彻好帅",
+        "onboard_time": 1720433237,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105472,
+        "num": 105472,
+        "word": "时代少年团hi6录制拍立得合照",
+        "onboard_time": 1720426038,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99566,
+        "num": 103438,
+        "word": "印尼称200%进口关税不针对中国",
+        "onboard_time": 1720435459,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98968,
+        "num": 102741,
+        "word": "金鼎食用油下架",
+        "onboard_time": 1720441999,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#上海合作组织是新型国际关系和区域合作的典范#"
+    }
+  }
+}
