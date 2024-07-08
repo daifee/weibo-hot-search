@@ -1,7 +1,39 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720395311294,
+  "endTime": 1720401821329,
   "band_list": [
+    {
+      "raw_hot": 1675766,
+      "num": 185473,
+      "word": "月薪3500双休想辞职了",
+      "onboard_time": 1720399159,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1152088,
+      "num": 1152088,
+      "word": "官方通报延安中学学生坠亡",
+      "onboard_time": 1720396276,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916058,
+      "num": 182624,
+      "word": "和男朋友同居后房租要AA吗",
+      "onboard_time": 1720394895,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 821428,
+      "num": 821428,
+      "word": "郑州暴雨",
+      "onboard_time": 1720396396,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 781234,
       "num": 781234,
@@ -9,6 +41,38 @@
       "onboard_time": 1720383431,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 770448,
+      "num": 770448,
+      "word": "全网医生要求把4分还给小学生",
+      "onboard_time": 1720393093,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762721,
+      "num": 331089,
+      "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
+      "onboard_time": 1720400178,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760721,
+      "num": 321324,
+      "word": "时代少年团方已报警",
+      "onboard_time": 1720398797,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 599965,
+      "num": 599965,
+      "word": "外国小伙忘拔钥匙一天下来车仍在原地",
+      "onboard_time": 1720394655,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591510,
@@ -19,14 +83,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 589514,
-      "num": 589514,
-      "word": "全网医生要求把4分还给小学生",
-      "onboard_time": 1720393093,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554253,
       "num": 554253,
       "word": "河南暴雨实况",
@@ -35,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543165,
+      "num": 543165,
+      "word": "WPS崩了",
+      "onboard_time": 1720401318,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 516027,
-      "num": 146204,
+      "num": 153792,
       "word": "把微信所有人设置成了仅聊天",
       "onboard_time": 1720351519,
       "rank": 20,
@@ -51,8 +115,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500370,
+      "num": 175543,
+      "word": "休个陪产假咋把工作休没了",
+      "onboard_time": 1720399459,
+      "rank": 22,
+      "category": "母婴育儿,社会新闻"
+    },
+    {
       "raw_hot": 496788,
-      "num": 210269,
+      "num": 234952,
       "word": "韩雪夫妇与好友聚餐",
       "onboard_time": 1720354938,
       "rank": 10,
@@ -67,12 +139,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 440293,
+      "num": 440293,
+      "word": "女子为减肥吃20多天营养棒进了医院",
+      "onboard_time": 1720395136,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434956,
+      "num": 319756,
+      "word": "3人诱骗同事喝含毒品饮料获刑",
+      "onboard_time": 1720400657,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433826,
       "num": 205348,
       "word": "呼吸时突然胸部莫名刺痛",
       "onboard_time": 1720362259,
       "rank": 11,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 422355,
+      "num": 422355,
+      "word": "洞庭湖决口已封堵超129米",
+      "onboard_time": 1720398378,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393064,
@@ -115,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 337659,
+      "num": 337659,
+      "word": "东航",
+      "onboard_time": 1720400958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332005,
       "num": 202601,
       "word": "警方通报男子骚扰并殴打女子",
@@ -132,19 +236,19 @@
     },
     {
       "raw_hot": 262713,
-      "num": 108932,
+      "num": 167731,
       "word": "新疆的作息也太适合年轻人了",
       "onboard_time": 1720394655,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 244834,
-      "num": 81167,
-      "word": "外国小伙忘拔钥匙一天下来车仍在原地",
-      "onboard_time": 1720394655,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 254139,
+      "num": 254139,
+      "word": "Lia即将回归",
+      "onboard_time": 1720400657,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 239409,
@@ -195,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205014,
+      "num": 205014,
+      "word": "TES BP",
+      "onboard_time": 1720396818,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201299,
       "num": 201299,
       "word": "韩廷 强制爱",
@@ -207,6 +319,14 @@
       "num": 200947,
       "word": "T1拿到赛点",
       "onboard_time": 1720379591,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198428,
+      "num": 198428,
+      "word": "T1战胜TES",
+      "onboard_time": 1720394655,
       "rank": 16,
       "category": "电竞"
     },
@@ -243,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179174,
+      "num": 162090,
+      "word": "学生眼中最胖的老师2年减重150斤",
+      "onboard_time": 1720400538,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 172857,
       "num": 172857,
       "word": "汉密尔顿英国主场夺冠",
@@ -257,6 +385,14 @@
       "onboard_time": 1720373413,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166442,
+      "num": 166442,
+      "word": "中储粮回应罐车运输油罐混用",
+      "onboard_time": 1720370175,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166212,
@@ -299,8 +435,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154138,
+      "num": 154138,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153703,
+      "num": 153703,
+      "word": "公婆50岁就开始养老了",
+      "onboard_time": 1720394775,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153191,
-      "num": 139519,
+      "num": 145690,
       "word": "睡眠不足为什么会引起糖尿病",
       "onboard_time": 1720364898,
       "rank": 24,
@@ -331,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145043,
+      "num": 145043,
+      "word": "汪苏泷多巴胺毛衣",
+      "onboard_time": 1720400958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138163,
       "num": 138163,
       "word": "47岁男子洗头后心梗离世",
@@ -355,28 +515,60 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136892,
-      "num": 104190,
-      "word": "和男朋友同居后房租要AA吗",
-      "onboard_time": 1720394895,
-      "rank": 23,
+      "raw_hot": 135492,
+      "num": 135492,
+      "word": "外媒称C罗想参加2026年世界杯",
+      "onboard_time": 1720396697,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133494,
+      "num": 133494,
+      "word": "ITZY五人合体",
+      "onboard_time": 1720397298,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131574,
+      "num": 131574,
+      "word": "中国男篮vs黄蜂",
+      "onboard_time": 1720401197,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130543,
+      "num": 130543,
+      "word": "领导发250块让我给同事买下午茶",
+      "onboard_time": 1720394655,
+      "rank": 26,
       "category": "情感"
     },
     {
-      "raw_hot": 134141,
-      "num": 134141,
-      "word": "中储粮回应罐车运输油罐混用",
-      "onboard_time": 1720370175,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 128985,
+      "num": 128985,
+      "word": "明白六大门派为啥会输了",
+      "onboard_time": 1720399459,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 128786,
-      "num": 128786,
-      "word": "T1战胜TES",
-      "onboard_time": 1720394655,
-      "rank": 16,
-      "category": "电竞"
+      "raw_hot": 128480,
+      "num": 128480,
+      "word": "内存不大但非常上头的游戏",
+      "onboard_time": 1720396818,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118208,
+      "num": 118208,
+      "word": "精神紧张也能引发过敏",
+      "onboard_time": 1720399459,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116834,
@@ -411,6 +603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 108559,
+      "num": 108559,
+      "word": "格力地产逐渐退出房地产行业",
+      "onboard_time": 1720399758,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 107882,
       "num": 107882,
       "word": "宋亚轩对接报平安",
@@ -443,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96604,
+      "num": 96604,
+      "word": "凯格尔运动",
+      "onboard_time": 1720400236,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 95702,
+      "num": 95702,
+      "word": "小猫 你已经被包围了",
+      "onboard_time": 1720394234,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95270,
       "num": 95270,
       "word": "李蓉重新喜欢上裴文宣",
@@ -451,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93415,
-      "num": 93415,
-      "word": "领导发250块让我给同事买下午茶",
-      "onboard_time": 1720394655,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 94652,
+      "num": 94652,
+      "word": "Faker获电竞世界杯FMVP",
+      "onboard_time": 1720395016,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 93263,
@@ -483,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87514,
+      "num": 793260,
+      "word": "塔吉克斯坦小伙会做20多道中国菜",
+      "onboard_time": 1720361059,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86163,
       "num": 86163,
       "word": "张踩铃远不如崽奥达",
@@ -497,14 +721,6 @@
       "onboard_time": 1720362678,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83501,
-      "num": 83501,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81638,
@@ -571,28 +787,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73825,
-      "num": 73825,
-      "word": "公婆50岁就开始养老了",
-      "onboard_time": 1720394775,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73394,
       "num": 73394,
       "word": "伊藤美诚WTT女单夺冠",
       "onboard_time": 1720355898,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72665,
-      "num": 72665,
-      "word": "小猫 你已经被包围了",
-      "onboard_time": 1720394234,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 72078,
@@ -659,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63797,
-      "num": 63797,
-      "word": "Faker获电竞世界杯FMVP",
-      "onboard_time": 1720395016,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 64036,
+      "num": 145212,
+      "word": "黑衣男跳水勇救落水少年",
+      "onboard_time": 1720398437,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62662,
@@ -697,14 +897,6 @@
       "onboard_time": 1720376352,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51647,
-      "num": 51647,
-      "word": "女子为减肥吃20多天营养棒进了医院",
-      "onboard_time": 1720395136,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49056,
@@ -747,14 +939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32078,
-      "num": 501957,
-      "word": "塔吉克斯坦小伙会做20多道中国菜",
-      "onboard_time": 1720361059,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30279,
       "num": 30279,
       "word": "经典第四把",
@@ -793,6 +977,14 @@
       "onboard_time": 1720363998,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 10848,
+      "num": 199475,
+      "word": "小孩姐评教育通透发言",
+      "onboard_time": 1720401617,
+      "rank": 17,
+      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 10449,
