@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720401821329,
+  "endTime": 1720403138399,
   "band_list": [
     {
       "raw_hot": 1675766,
@@ -16,6 +16,14 @@
       "word": "官方通报延安中学学生坠亡",
       "onboard_time": 1720396276,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951386,
+      "num": 380519,
+      "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
+      "onboard_time": 1720400178,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 773583,
+      "num": 773583,
+      "word": "东航",
+      "onboard_time": 1720400958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770448,
       "num": 770448,
       "word": "全网医生要求把4分还给小学生",
@@ -51,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762721,
-      "num": 331089,
-      "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
-      "onboard_time": 1720400178,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760721,
-      "num": 321324,
+      "num": 376537,
       "word": "时代少年团方已报警",
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624319,
+      "num": 624319,
+      "word": "3人诱骗同事喝含毒品饮料获刑",
+      "onboard_time": 1720400657,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599965,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 500370,
-      "num": 175543,
+      "num": 181167,
       "word": "休个陪产假咋把工作休没了",
       "onboard_time": 1720399459,
       "rank": 22,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481562,
+      "num": 481562,
+      "word": "起猛了在苹果官网看到小岳岳了",
+      "onboard_time": 1720402638,
+      "rank": 6,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 444176,
       "num": 444176,
       "word": "普京没空吃饭偷吃零食",
@@ -139,19 +163,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 443780,
+      "num": 181604,
+      "word": "谁发明的湿巾抓蟑螂",
+      "onboard_time": 1720402037,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 440293,
       "num": 440293,
       "word": "女子为减肥吃20多天营养棒进了医院",
       "onboard_time": 1720395136,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434956,
-      "num": 319756,
-      "word": "3人诱骗同事喝含毒品饮料获刑",
-      "onboard_time": 1720400657,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 337659,
-      "num": 337659,
-      "word": "东航",
-      "onboard_time": 1720400958,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332005,
       "num": 202601,
       "word": "警方通报男子骚扰并殴打女子",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 262713,
-      "num": 167731,
+      "num": 170401,
       "word": "新疆的作息也太适合年轻人了",
       "onboard_time": 1720394655,
       "rank": 20,
@@ -265,6 +281,14 @@
       "onboard_time": 1720368077,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233463,
+      "num": 233463,
+      "word": "美方栽赃中国后露馅改证据又被发现",
+      "onboard_time": 1720402338,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218815,
@@ -363,12 +387,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179174,
-      "num": 162090,
+      "raw_hot": 181137,
+      "num": 181137,
       "word": "学生眼中最胖的老师2年减重150斤",
       "onboard_time": 1720400538,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 179910,
+      "num": 179910,
+      "word": "汪苏泷多巴胺毛衣",
+      "onboard_time": 1720400958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179327,
+      "num": 179327,
+      "word": "向佐感谢我家小两口圆满了他和郭碧婷",
+      "onboard_time": 1720402818,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 172857,
@@ -377,6 +417,14 @@
       "onboard_time": 1720367777,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170774,
+      "num": 170774,
+      "word": "预拨5.4亿元支持湖南等地抢险救灾",
+      "onboard_time": 1720229118,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170078,
@@ -435,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154138,
-      "num": 154138,
-      "word": "预拨5.4亿元支持湖南等地抢险救灾",
-      "onboard_time": 1720229118,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153703,
       "num": 153703,
       "word": "公婆50岁就开始养老了",
@@ -481,14 +521,6 @@
       "onboard_time": 1720352357,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145043,
-      "num": 145043,
-      "word": "汪苏泷多巴胺毛衣",
-      "onboard_time": 1720400958,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 138163,
@@ -627,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104735,
+      "num": 104735,
+      "word": "杜兰特小腿拉伤",
+      "onboard_time": 1720401978,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "领导说好久没聚会了非要我请客",
+      "onboard_time": 1720402037,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100095,
       "num": 100095,
       "word": "五月天深圳",
@@ -689,6 +737,14 @@
       "onboard_time": 1720334538,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91253,
+      "num": 91253,
+      "word": "当时人和熊都很紧张",
+      "onboard_time": 1720402097,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88372,
@@ -923,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38854,
+      "num": 385889,
+      "word": "小孩姐评教育通透发言",
+      "onboard_time": 1720401617,
+      "rank": 17,
+      "category": "母婴育儿,教育"
+    },
+    {
       "raw_hot": 38017,
       "num": 38017,
       "word": "faker状态",
@@ -977,14 +1041,6 @@
       "onboard_time": 1720363998,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 10848,
-      "num": 199475,
-      "word": "小孩姐评教育通透发言",
-      "onboard_time": 1720401617,
-      "rank": 17,
-      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 10449,
