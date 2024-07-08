@@ -1,0 +1,410 @@
+{
+  "runTime": 1720431265143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17572,
+        "num": 916146,
+        "word": "美政府机构就是伏特台风计划幕后老板",
+        "onboard_time": 1720431018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1870738,
+        "num": 910494,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122127,
+        "num": 879365,
+        "word": "高校通知书花式上新就等签收了",
+        "onboard_time": 1720424839,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1900825,
+        "num": 839418,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000161,
+        "num": 817203,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794529,
+        "num": 794529,
+        "word": "江苏扬州地震",
+        "onboard_time": 1720426459,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739308,
+        "num": 739308,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452173,
+        "num": 452173,
+        "word": "张凌赫回复Gucci官方",
+        "onboard_time": 1720428499,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374691,
+        "num": 374691,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362423,
+        "num": 362423,
+        "word": "刘涛的屏保是Henry",
+        "onboard_time": 1720425918,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329857,
+        "num": 329857,
+        "word": "gidle回归直播",
+        "onboard_time": 1720419980,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316761,
+        "num": 316761,
+        "word": "捡到手机要价5000元被判赔8500元",
+        "onboard_time": 1720423158,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291295,
+        "num": 291295,
+        "word": "追踪仅退款的人",
+        "onboard_time": 1720414639,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 287331,
+        "num": 287331,
+        "word": "泰妍回归",
+        "onboard_time": 1720430480,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261423,
+        "num": 261423,
+        "word": "A股上涨个股不足500只",
+        "onboard_time": 1720426220,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260751,
+        "num": 260751,
+        "word": "菲军舰严重损害仁爱礁珊瑚礁生态",
+        "onboard_time": 1720430179,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252208,
+        "num": 252208,
+        "word": "吴谨言密室大逃脱路透",
+        "onboard_time": 1720425799,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231726,
+        "num": 231726,
+        "word": "南京震感",
+        "onboard_time": 1720426639,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223344,
+        "num": 223344,
+        "word": "第一次见把剧名拍出来了",
+        "onboard_time": 1720417459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59569,
+        "num": 222372,
+        "word": "80岁奶奶拎3斤饺子乘地铁看望孙女",
+        "onboard_time": 1720431079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685025,
+        "num": 219647,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19361,
+        "num": 217594,
+        "word": "美政府大规模监听行动已进入AI时代",
+        "onboard_time": 1720406838,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 592691,
+        "num": 215460,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215088,
+        "num": 215088,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64551,
+        "num": 213801,
+        "word": "专家解读化工油食用油混装危害",
+        "onboard_time": 1720429221,
+        "rank": 24,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 213306,
+        "num": 213306,
+        "word": "长相思",
+        "onboard_time": 1720413981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206237,
+        "num": 206237,
+        "word": "苹果中国销量衰退被小米反超",
+        "onboard_time": 1720426518,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203908,
+        "num": 203908,
+        "word": "过敏太严重被选中当科研素材了",
+        "onboard_time": 1720429221,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187141,
+        "num": 187141,
+        "word": "孙俪评论区",
+        "onboard_time": 1720430839,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183612,
+        "num": 183612,
+        "word": "唢呐一响陈瑶红嫁衣登场",
+        "onboard_time": 1720430781,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182403,
+        "num": 182403,
+        "word": "包头市民打12345要求重新组织高考",
+        "onboard_time": 1720419260,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175334,
+        "num": 175334,
+        "word": "时代少年团hi6录制拍立得合照",
+        "onboard_time": 1720426038,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173183,
+        "num": 173183,
+        "word": "北大教授反驳中国房子过剩",
+        "onboard_time": 1720421900,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163673,
+        "num": 163673,
+        "word": "杨紫掌管暑期档的神",
+        "onboard_time": 1720427179,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161972,
+        "num": 161972,
+        "word": "化工油食用油混装无异于投毒",
+        "onboard_time": 1720418300,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154652,
+        "num": 154652,
+        "word": "Mic迈扣账号被封禁",
+        "onboard_time": 1720422679,
+        "rank": 35,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 150611,
+        "num": 150611,
+        "word": "女生乘地铁被提醒有人偷拍大腿",
+        "onboard_time": 1720429640,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146096,
+        "num": 146096,
+        "word": "张雨绮拔了一个脚指甲",
+        "onboard_time": 1720418121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150044,
+        "num": 143437,
+        "word": "杨紫的台词被各地文旅用上了",
+        "onboard_time": 1720420819,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139339,
+        "num": 139339,
+        "word": "绘旅人人间画外",
+        "onboard_time": 1720430238,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136885,
+        "num": 136885,
+        "word": "中国移动被指资费升级容易降级难",
+        "onboard_time": 1720414820,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132887,
+        "num": 132887,
+        "word": "等比长大的赵今麦",
+        "onboard_time": 1720430960,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129349,
+        "num": 129349,
+        "word": "仙剑奇侠传29周年",
+        "onboard_time": 1720425559,
+        "rank": 42,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 123829,
+        "word": "Wei离开RNG",
+        "onboard_time": 1720431079,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121797,
+        "num": 121797,
+        "word": "洞庭湖第二道防线土在渗水变得松软",
+        "onboard_time": 1720426159,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119190,
+        "num": 119190,
+        "word": "张艺兴李晨眼前一黑又一黑",
+        "onboard_time": 1720429400,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106918,
+        "num": 106918,
+        "word": "王一博工作室周一放饭",
+        "onboard_time": 1720423758,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106353,
+        "num": 106353,
+        "word": "中国00后首次出战奥运男子百米接力",
+        "onboard_time": 1720430960,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103546,
+        "num": 103546,
+        "word": "杨紫工作室好皮",
+        "onboard_time": 1720429699,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103078,
+        "num": 103078,
+        "word": "女子过度防晒得软骨病",
+        "onboard_time": 1720409539,
+        "rank": 49,
+        "category": "健康医疗,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#上海合作组织是新型国际关系和区域合作的典范#"
+    }
+  }
+}
