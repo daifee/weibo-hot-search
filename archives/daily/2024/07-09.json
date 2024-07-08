@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720478133090,
+  "endTime": 1720480783623,
   "band_list": [
     {
       "raw_hot": 718720,
@@ -41,6 +41,14 @@
       "onboard_time": 1720454538,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446835,
+      "num": 446835,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439785,
@@ -115,6 +123,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265806,
+      "num": 146817,
+      "word": "原来早睡真的能解决生活中大部分问题",
+      "onboard_time": 1720453698,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 255087,
+      "num": 255087,
+      "word": "她心里的人不是我",
+      "onboard_time": 1720466591,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249285,
+      "num": 249285,
+      "word": "女子睡凉席双腿被螨虫咬满红斑",
+      "onboard_time": 1720427300,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246598,
       "num": 150450,
       "word": "坐高铁一定要穿长裤",
@@ -155,14 +187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212583,
-      "num": 212583,
-      "word": "官方回应网传山东故县村大坝决堤",
-      "onboard_time": 1720458254,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209366,
       "num": 149933,
       "word": "人死后指纹还能解锁手机吗",
@@ -187,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191690,
-      "num": 146817,
-      "word": "原来早睡真的能解决生活中大部分问题",
-      "onboard_time": 1720453698,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186501,
       "num": 148330,
       "word": "孙颖莎王楚钦发文相约巴黎见",
@@ -203,11 +219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180739,
-      "num": 180739,
-      "word": "女子睡凉席双腿被螨虫咬满红斑",
-      "onboard_time": 1720427300,
-      "rank": 16,
+      "raw_hot": 183835,
+      "num": 93643,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -251,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133477,
-      "num": 133477,
-      "word": "她心里的人不是我",
-      "onboard_time": 1720466591,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132097,
       "num": 126588,
       "word": "长相思2开播",
@@ -275,12 +283,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125177,
+      "num": 125177,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120344,
+      "num": 120344,
+      "word": "整治油罐混用必须给公众满意交代",
+      "onboard_time": 1720456217,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119700,
       "num": 119700,
       "word": "马龙说想有樊振东王楚钦般年轻心态",
       "onboard_time": 1720443018,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115358,
+      "num": 115358,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 114093,
@@ -363,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89403,
-      "num": 89403,
-      "word": "整治油罐混用必须给公众满意交代",
-      "onboard_time": 1720456217,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 95015,
+      "num": 95015,
+      "word": "萧亚轩一年半要动四次手术",
+      "onboard_time": 1720433538,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 85740,
@@ -419,22 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76229,
-      "num": 76229,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 75640,
-      "num": 47272,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74945,
       "num": 79463,
       "word": "章泽天当策展人了",
@@ -467,20 +483,68 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56131,
-      "num": 56131,
-      "word": "金鼎食用油下架",
-      "onboard_time": 1720441999,
-      "rank": 49,
+      "raw_hot": 52714,
+      "num": 176374,
+      "word": "化工油污染过的食用油对人体有何伤害",
+      "onboard_time": 1720480334,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52975,
-      "num": 52975,
-      "word": "萧亚轩一年半要动四次手术",
-      "onboard_time": 1720433538,
-      "rank": 17,
+      "raw_hot": 52309,
+      "num": 52309,
+      "word": "瘦腿算是给玩明白了",
+      "onboard_time": 1720473551,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 45876,
+      "num": 45876,
+      "word": "鱼身上这2个地方千万别吃",
+      "onboard_time": 1720480515,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43961,
+      "num": 43961,
+      "word": "鞠婧祎微博粉丝2900万了",
+      "onboard_time": 1720479193,
+      "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43531,
+      "num": 43531,
+      "word": "李荣浩演唱会目送杨丞琳离场",
+      "onboard_time": 1720476672,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 43041,
+      "num": 43041,
+      "word": "视频回顾洞庭湖决口合龙瞬间",
+      "onboard_time": 1720471630,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40599,
+      "num": 40599,
+      "word": "KPL发布梦之队公告",
+      "onboard_time": 1720480515,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 40215,
+      "num": 40215,
+      "word": "心疼裴文宣",
+      "onboard_time": 1720480155,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 38682,
@@ -507,30 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31868,
-      "num": 31868,
-      "word": "李荣浩演唱会目送杨丞琳离场",
-      "onboard_time": 1720476672,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 31768,
-      "num": 31768,
-      "word": "视频回顾洞庭湖决口合龙瞬间",
-      "onboard_time": 1720471630,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31309,
-      "num": 30955,
-      "word": "瘦腿算是给玩明白了",
-      "onboard_time": 1720473551,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 30593,
       "num": 30593,
       "word": "根据我的微博匹配我的家庭",
@@ -547,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27343,
+      "num": 304954,
+      "word": "珠江口东西两岸掀起串门热",
+      "onboard_time": 1720442298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26519,
       "num": 26519,
       "word": "女孩宠物医院丢包裹开头吓人结局暖心",
@@ -560,14 +608,6 @@
       "word": "罐车拉完煤制油直接装食用油",
       "onboard_time": 1720459273,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18929,
-      "num": 208414,
-      "word": "珠江口东西两岸掀起串门热",
-      "onboard_time": 1720442298,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
