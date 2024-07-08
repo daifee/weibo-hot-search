@@ -1,0 +1,410 @@
+{
+  "runTime": 1720467265757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 99883,
+        "num": 99883,
+        "word": "Jennie疑似抽烟",
+        "onboard_time": 1720438038,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74705,
+        "num": 74705,
+        "word": "官方回应网传山东故县村大坝决堤",
+        "onboard_time": 1720458254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11336,
+        "num": 63126,
+        "word": "珠江口东西两岸掀起串门热",
+        "onboard_time": 1720442298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58232,
+        "num": 58232,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53495,
+        "num": 53495,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51563,
+        "num": 51563,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51002,
+        "num": 51002,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48150,
+        "num": 48150,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 46752,
+        "num": 46752,
+        "word": "涂山璟 青丘卡戴珊",
+        "onboard_time": 1720445899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6055,
+        "num": 45084,
+        "word": "外国游客逛大唐不夜城狂喊喷泉好city",
+        "onboard_time": 1720463832,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 44820,
+        "num": 44820,
+        "word": "优酷升至行业第二",
+        "onboard_time": 1720452377,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43344,
+        "num": 43344,
+        "word": "乌克兰全境已拉响防空警报",
+        "onboard_time": 1720447880,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37099,
+        "num": 37099,
+        "word": "洞庭湖决口完成封堵",
+        "onboard_time": 1720449560,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36504,
+        "num": 36504,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35118,
+        "num": 35118,
+        "word": "媒体评罐车拉完煤制油直接装食用油",
+        "onboard_time": 1720454538,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35111,
+        "num": 35111,
+        "word": "决口封堵后2.1亿立方米水量怎么排",
+        "onboard_time": 1720454177,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32271,
+        "num": 32271,
+        "word": "整治油罐混用必须给公众满意交代",
+        "onboard_time": 1720456217,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31314,
+        "num": 31314,
+        "word": "油罐混用的行业秘密到底有多公开",
+        "onboard_time": 1720450820,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30300,
+        "num": 30300,
+        "word": "她心里的人不是我",
+        "onboard_time": 1720466591,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29170,
+        "num": 29170,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97416,
+        "num": 29012,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65143,
+        "num": 28823,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50821,
+        "num": 28694,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32202,
+        "num": 28547,
+        "word": "仅退款并不是零元购",
+        "onboard_time": 1720455317,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30572,
+        "num": 28250,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30323,
+        "num": 28222,
+        "word": "坐高铁一定要穿长裤",
+        "onboard_time": 1720443500,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28052,
+        "num": 28052,
+        "word": "青春有你国际版选手名单",
+        "onboard_time": 1720458133,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 28029,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27964,
+        "num": 27964,
+        "word": "黄宣被误认成具俊晔",
+        "onboard_time": 1720464552,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 26614,
+        "word": "晚上睡觉前擦一擦手机",
+        "onboard_time": 1720449920,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25755,
+        "num": 25755,
+        "word": "谁家大婚名场面一下来三个啊",
+        "onboard_time": 1720436658,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25335,
+        "num": 25335,
+        "word": "媒体评高中奖励考入清北学生50万",
+        "onboard_time": 1720456396,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25226,
+        "num": 25226,
+        "word": "长相思2",
+        "onboard_time": 1720433059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23835,
+        "num": 23835,
+        "word": "蒲熠星自曝理想型是于文文",
+        "onboard_time": 1720446921,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23539,
+        "num": 23539,
+        "word": "加相亲对象微信别给电话号码",
+        "onboard_time": 1720451240,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 22948,
+        "num": 22948,
+        "word": "孙颖莎王楚钦发文相约巴黎见",
+        "onboard_time": 1720453338,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 22364,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21588,
+        "num": 21588,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21402,
+        "num": 21402,
+        "word": "长相思2首播热度",
+        "onboard_time": 1720436059,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20918,
+        "num": 20918,
+        "word": "广州网约车司机整月不休也难赚到1万元",
+        "onboard_time": 1720447220,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19261,
+        "num": 19261,
+        "word": "Lia短发",
+        "onboard_time": 1720446380,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19122,
+        "num": 19122,
+        "word": "金鼎食用油下架",
+        "onboard_time": 1720441999,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18991,
+        "num": 18991,
+        "word": "王鹤棣寸头",
+        "onboard_time": 1720439779,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18520,
+        "num": 18520,
+        "word": "根据我的微博匹配我的家庭",
+        "onboard_time": 1720466051,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 18311,
+        "word": "马龙说想有樊振东王楚钦般年轻心态",
+        "onboard_time": 1720443018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17910,
+        "num": 17910,
+        "word": "mbti最e到最i人格",
+        "onboard_time": 1720455916,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17423,
+        "num": 17910,
+        "word": "仅退款维护的是用户权益",
+        "onboard_time": 1720448541,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17318,
+        "num": 17910,
+        "word": "男生如何正确称呼陌生女性",
+        "onboard_time": 1720448059,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17022,
+        "num": 17909,
+        "word": "沈月好会拍单依纯",
+        "onboard_time": 1720447341,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16693,
+        "num": 17908,
+        "word": "林俊杰18年开了200场演唱会",
+        "onboard_time": 1720445180,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
+    }
+  }
+}
