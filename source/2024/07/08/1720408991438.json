@@ -1,0 +1,410 @@
+{
+  "runTime": 1720408991438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920475,
+        "num": 920475,
+        "word": "起猛了在苹果官网看到小岳岳了",
+        "onboard_time": 1720402638,
+        "rank": 0,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 825583,
+        "num": 825583,
+        "word": "福宝竟然站了1分钟",
+        "onboard_time": 1720403476,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48148,
+        "num": 724657,
+        "word": "塔吉克斯坦小伙会做20多道中国菜",
+        "onboard_time": 1720361059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 679897,
+        "num": 679897,
+        "word": "张新成你是真的饿了",
+        "onboard_time": 1720407198,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597133,
+        "num": 597133,
+        "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+        "onboard_time": 1720403897,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561530,
+        "num": 561530,
+        "word": "iPhone15Pro以上机型将支持全新Siri",
+        "onboard_time": 1720403658,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 495577,
+        "num": 495577,
+        "word": "美方栽赃中国后露馅改证据又被发现",
+        "onboard_time": 1720402338,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481150,
+        "num": 481150,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454787,
+        "num": 454787,
+        "word": "美政府大规模监听行动已进入AI时代",
+        "onboard_time": 1720406838,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92427,
+        "num": 406007,
+        "word": "不能让付费内推扰乱就业市场",
+        "onboard_time": 1720407618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376788,
+        "num": 376788,
+        "word": "官方通报延安中学学生坠亡",
+        "onboard_time": 1720396276,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344210,
+        "num": 344210,
+        "word": "郑州暴雨",
+        "onboard_time": 1720396396,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341890,
+        "num": 341890,
+        "word": "洞庭湖决口已封堵135.5米",
+        "onboard_time": 1720403236,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331470,
+        "num": 331470,
+        "word": "长相思2今日开播",
+        "onboard_time": 1720407978,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327475,
+        "num": 327475,
+        "word": "向佐感谢我家小两口圆满了他和郭碧婷",
+        "onboard_time": 1720402818,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281309,
+        "num": 281309,
+        "word": "A股",
+        "onboard_time": 1720403537,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269630,
+        "num": 269630,
+        "word": "长相思2预告",
+        "onboard_time": 1720403897,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267155,
+        "num": 267155,
+        "word": "3人诱骗同事喝含毒品饮料获刑",
+        "onboard_time": 1720400657,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258730,
+        "num": 258730,
+        "word": "伊藤润二联动三丽鸥",
+        "onboard_time": 1720406778,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 253058,
+        "num": 253058,
+        "word": "李宇春发文谢谢小瓷花",
+        "onboard_time": 1720404378,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 899494,
+        "num": 252741,
+        "word": "月薪3500双休想辞职了",
+        "onboard_time": 1720399159,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622519,
+        "num": 252143,
+        "word": "月租8800元还是租到了有毒串串房",
+        "onboard_time": 1720403836,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465131,
+        "num": 251519,
+        "word": "和男朋友同居后房租要AA吗",
+        "onboard_time": 1720394895,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355554,
+        "num": 251256,
+        "word": "谁发明的湿巾抓蟑螂",
+        "onboard_time": 1720402037,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280706,
+        "num": 250489,
+        "word": "毕业寄行李把蟑螂一起寄回家了",
+        "onboard_time": 1720405519,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258810,
+        "num": 250029,
+        "word": "7月份我的同事一个个消失了",
+        "onboard_time": 1720403718,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249525,
+        "num": 249525,
+        "word": "LWX回应欠钱",
+        "onboard_time": 1720408339,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245348,
+        "num": 245348,
+        "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
+        "onboard_time": 1720400178,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239072,
+        "num": 239072,
+        "word": "时代少年团方已报警",
+        "onboard_time": 1720398797,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219294,
+        "num": 219294,
+        "word": "少年白马醉春风首发预告",
+        "onboard_time": 1720408339,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208783,
+        "num": 208783,
+        "word": "苹果迟迟不出折叠屏是为什么",
+        "onboard_time": 1720407978,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196847,
+        "num": 196847,
+        "word": "长相思全员上分",
+        "onboard_time": 1720407858,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190873,
+        "num": 190873,
+        "word": "张若昀钟楚曦新片演我周一精神状态",
+        "onboard_time": 1720408939,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190569,
+        "num": 190569,
+        "word": "女子为减肥吃20多天营养棒进了医院",
+        "onboard_time": 1720395136,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176098,
+        "num": 176098,
+        "word": "休个陪产假咋把工作休没了",
+        "onboard_time": 1720399459,
+        "rank": 34,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 174651,
+        "num": 174651,
+        "word": "夏天这样洗澡等于生病",
+        "onboard_time": 1720407918,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171508,
+        "num": 171508,
+        "word": "默杀手绘海报",
+        "onboard_time": 1720408580,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158877,
+        "num": 158877,
+        "word": "中国男篮31分不敌黄蜂",
+        "onboard_time": 1720408278,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134839,
+        "num": 134839,
+        "word": "汪苏泷你好好唱歌演戏我另有人选",
+        "onboard_time": 1720405458,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39886,
+        "num": 133407,
+        "word": "被享界S9的影院模式震撼住了",
+        "onboard_time": 1720408339,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132707,
+        "num": 132707,
+        "word": "中文广告为何挤满欧洲杯赛场",
+        "onboard_time": 1720408157,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "TES BP",
+        "onboard_time": 1720396818,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122411,
+        "num": 122411,
+        "word": "东航",
+        "onboard_time": 1720400958,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120257,
+        "num": 120257,
+        "word": "哪些东西里含有滑石粉",
+        "onboard_time": 1720406478,
+        "rank": 43,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 117717,
+        "num": 117717,
+        "word": "当甄嬛的照片被AI扩展之后",
+        "onboard_time": 1720405696,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117109,
+        "num": 117109,
+        "word": "刘耀文全英文单曲",
+        "onboard_time": 1720406298,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114372,
+        "num": 114372,
+        "word": "T1战胜TES",
+        "onboard_time": 1720394655,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113035,
+        "num": 113035,
+        "word": "学生眼中最胖的老师2年减重150斤",
+        "onboard_time": 1720400538,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "孙丞潇说我最近忙得很",
+        "onboard_time": 1720404079,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111273,
+        "num": 111273,
+        "word": "外国小伙忘拔钥匙一天下来车仍在原地",
+        "onboard_time": 1720394655,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国揭露美用伏特台风抹黑中国细节#"
+    }
+  }
+}
