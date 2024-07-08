@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720427110548,
+  "endTime": 1720427905476,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3087677,
-      "num": 1026783,
+      "raw_hot": 3823576,
+      "num": 1039868,
       "word": "江苏扬州地震",
       "onboard_time": 1720426459,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866613,
+      "num": 866613,
+      "word": "南京震感",
+      "onboard_time": 1720426639,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865655,
       "num": 865655,
       "word": "美方栽赃中国后露馅改证据又被发现",
@@ -129,6 +137,14 @@
       "onboard_time": 1720413680,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 797216,
+      "num": 303303,
+      "word": "长期熬夜真的会导致生理损伤",
+      "onboard_time": 1720424958,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 781234,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 737064,
-      "num": 737064,
-      "word": "南京震感",
-      "onboard_time": 1720426639,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 710095,
       "num": 663351,
       "word": "第一次见把剧名拍出来了",
@@ -193,14 +201,6 @@
       "onboard_time": 1720407198,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 678757,
-      "num": 303303,
-      "word": "长期熬夜真的会导致生理损伤",
-      "onboard_time": 1720424958,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 666571,
@@ -235,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638045,
+      "num": 638045,
+      "word": "捡到手机要价5000元被判赔8500元",
+      "onboard_time": 1720423158,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636777,
       "num": 636777,
       "word": "iPhone15Pro以上机型将支持全新Siri",
       "onboard_time": 1720403658,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 625978,
-      "num": 625978,
-      "word": "捡到手机要价5000元被判赔8500元",
-      "onboard_time": 1720423158,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624319,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546616,
+      "num": 546616,
+      "word": "刘涛的屏保是Henry",
+      "onboard_time": 1720425918,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546004,
       "num": 546004,
       "word": "向佐感谢我家小两口圆满了他和郭碧婷",
@@ -379,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 477718,
-      "num": 477718,
-      "word": "刘涛的屏保是Henry",
-      "onboard_time": 1720425918,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 476044,
       "num": 476044,
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 454787,
-      "num": 1063629,
+      "num": 1146181,
       "word": "美政府大规模监听行动已进入AI时代",
       "onboard_time": 1720406838,
       "rank": 8,
@@ -449,6 +449,14 @@
       "onboard_time": 1720356019,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 442240,
+      "num": 442240,
+      "word": "吴谨言密室大逃脱路透",
+      "onboard_time": 1720425799,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 440377,
@@ -505,14 +513,6 @@
       "onboard_time": 1720425680,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408549,
-      "num": 408549,
-      "word": "吴谨言密室大逃脱路透",
-      "onboard_time": 1720425799,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 399871,
@@ -723,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263250,
+      "num": 263250,
+      "word": "A股上涨个股不足500只",
+      "onboard_time": 1720426220,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 262713,
       "num": 170401,
       "word": "新疆的作息也太适合年轻人了",
@@ -755,20 +763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249325,
+      "num": 249325,
+      "word": "女子面试瑞幸被打负面标签",
+      "onboard_time": 1720427059,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247452,
+      "num": 247452,
+      "word": "女子睡凉席双腿被螨虫咬满红斑",
+      "onboard_time": 1720427300,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246425,
       "num": 230854,
       "word": "相柳抢婚名场面",
       "onboard_time": 1720411940,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244759,
-      "num": 244759,
-      "word": "A股上涨个股不足500只",
-      "onboard_time": 1720426220,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 244407,
@@ -1035,6 +1051,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 194214,
+      "num": 194214,
+      "word": "杨紫掌管暑期档的神",
+      "onboard_time": 1720427179,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194109,
       "num": 194109,
       "word": "刘耀文全英文单曲",
@@ -1211,6 +1235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168648,
+      "num": 168648,
+      "word": "邓为叶十七新剧照",
+      "onboard_time": 1720426879,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166442,
       "num": 166442,
       "word": "中储粮回应罐车运输油罐混用",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1720411639,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156305,
+      "num": 156305,
+      "word": "苹果中国销量衰退被小米反超",
+      "onboard_time": 1720426518,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 155430,
@@ -1435,14 +1475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138289,
-      "num": 138289,
-      "word": "女子面试瑞幸被打负面标签",
-      "onboard_time": 1720427059,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138163,
       "num": 138163,
       "word": "47岁男子洗头后心梗离世",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1720364059,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137473,
-      "num": 137473,
-      "word": "邓为叶十七新剧照",
-      "onboard_time": 1720426879,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 135492,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1720419499,
       "rank": 40,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 122263,
-      "num": 122263,
-      "word": "苹果中国销量衰退被小米反超",
-      "onboard_time": 1720426518,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 120257,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1720383191,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55399,
+      "num": 473969,
+      "word": "云南这片缉毒功勋林如今枝繁叶茂",
+      "onboard_time": 1720424958,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53331,

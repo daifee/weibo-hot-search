@@ -1,0 +1,410 @@
+{
+  "runTime": 1720427905476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 32665,
+        "num": 1146181,
+        "word": "美政府大规模监听行动已进入AI时代",
+        "onboard_time": 1720406838,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3823576,
+        "num": 1039868,
+        "word": "江苏扬州地震",
+        "onboard_time": 1720426459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151118,
+        "num": 929150,
+        "word": "高校通知书花式上新就等签收了",
+        "onboard_time": 1720424839,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2003252,
+        "num": 925374,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908469,
+        "num": 908469,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866613,
+        "num": 866613,
+        "word": "南京震感",
+        "onboard_time": 1720426639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638045,
+        "num": 638045,
+        "word": "捡到手机要价5000元被判赔8500元",
+        "onboard_time": 1720423158,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546616,
+        "num": 546616,
+        "word": "刘涛的屏保是Henry",
+        "onboard_time": 1720425918,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525755,
+        "num": 525755,
+        "word": "北大教授反驳中国房子过剩",
+        "onboard_time": 1720421900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55399,
+        "num": 473969,
+        "word": "云南这片缉毒功勋林如今枝繁叶茂",
+        "onboard_time": 1720424958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471654,
+        "num": 471654,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442240,
+        "num": 442240,
+        "word": "吴谨言密室大逃脱路透",
+        "onboard_time": 1720425799,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433731,
+        "num": 433731,
+        "word": "包头市民打12345要求重新组织高考",
+        "onboard_time": 1720419260,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 388534,
+        "num": 388534,
+        "word": "追踪仅退款的人",
+        "onboard_time": 1720414639,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 372697,
+        "num": 372697,
+        "word": "常州震感",
+        "onboard_time": 1720426698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366050,
+        "num": 366050,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324997,
+        "num": 324997,
+        "word": "第一次见把剧名拍出来了",
+        "onboard_time": 1720417459,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321643,
+        "num": 321643,
+        "word": "Mic迈扣账号被封禁",
+        "onboard_time": 1720422679,
+        "rank": 17,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 276529,
+        "num": 276529,
+        "word": "王一博工作室周一放饭",
+        "onboard_time": 1720423758,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267692,
+        "num": 267692,
+        "word": "杨紫的台词被各地文旅用上了",
+        "onboard_time": 1720420819,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 797216,
+        "num": 265944,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263250,
+        "num": 263250,
+        "word": "A股上涨个股不足500只",
+        "onboard_time": 1720426220,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249325,
+        "num": 249325,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247452,
+        "num": 247452,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242136,
+        "num": 242136,
+        "word": "时代少年团hi6录制拍立得合照",
+        "onboard_time": 1720426038,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236320,
+        "num": 236320,
+        "word": "仙剑奇侠传29周年",
+        "onboard_time": 1720425559,
+        "rank": 25,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 195348,
+        "num": 195348,
+        "word": "女子过度防晒得软骨病",
+        "onboard_time": 1720409539,
+        "rank": 26,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 194716,
+        "num": 194716,
+        "word": "张雨绮拔了一个脚指甲",
+        "onboard_time": 1720418121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194214,
+        "num": 194214,
+        "word": "杨紫掌管暑期档的神",
+        "onboard_time": 1720427179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193446,
+        "num": 193446,
+        "word": "中国移动被指资费升级容易降级难",
+        "onboard_time": 1720414820,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186781,
+        "num": 186781,
+        "word": "结婚生育率下降或因经济增长速度太快",
+        "onboard_time": 1720414699,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174986,
+        "num": 174986,
+        "word": "洞庭湖第二道防线土在渗水变得松软",
+        "onboard_time": 1720426159,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168648,
+        "num": 168648,
+        "word": "邓为叶十七新剧照",
+        "onboard_time": 1720426879,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168568,
+        "num": 168568,
+        "word": "矮一公分都演不出这个效果",
+        "onboard_time": 1720423758,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165928,
+        "num": 165928,
+        "word": "马丽就是沈腾最好的医美",
+        "onboard_time": 1720422858,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160433,
+        "num": 160433,
+        "word": "我是O型血让我给涂山璟捐",
+        "onboard_time": 1720420339,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156305,
+        "num": 156305,
+        "word": "苹果中国销量衰退被小米反超",
+        "onboard_time": 1720426518,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146445,
+        "num": 146445,
+        "word": "长相思",
+        "onboard_time": 1720413981,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146088,
+        "num": 146088,
+        "word": "化工油食用油混装无异于投毒",
+        "onboard_time": 1720418300,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137838,
+        "num": 137838,
+        "word": "郭晓婷特别好的朋友是刘诗诗",
+        "onboard_time": 1720422980,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137034,
+        "num": 137034,
+        "word": "gidle回归直播",
+        "onboard_time": 1720419980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132620,
+        "num": 132620,
+        "word": "教育局回应女子笔面试第一被判无效",
+        "onboard_time": 1720409659,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132219,
+        "num": 132219,
+        "word": "杨紫包场长相思2",
+        "onboard_time": 1720423699,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126758,
+        "num": 126758,
+        "word": "中储粮食用油品牌回应",
+        "onboard_time": 1720418180,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "苏醒为老婆庆生",
+        "onboard_time": 1720422261,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114881,
+        "num": 114881,
+        "word": "李宇春无价之姐终审胜诉",
+        "onboard_time": 1720409238,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114166,
+        "num": 114166,
+        "word": "为什么超市收银员不能坐着上班",
+        "onboard_time": 1720418781,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "女子退休后健身半年被刷走146万",
+        "onboard_time": 1720414699,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96968,
+        "num": 96968,
+        "word": "卢昱晓首个常驻综艺",
+        "onboard_time": 1720422858,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94320,
+        "num": 94320,
+        "word": "读研是一场巨大的服从性测试",
+        "onboard_time": 1720415780,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见匈牙利总理#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720427110548,
+  "endTime": 1720427905476,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1835,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 3823576,
+      "num": 1039868,
+      "word": "江苏扬州地震",
+      "onboard_time": 1720426459,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3798478,
       "num": 3798478,
       "word": "蔡徐坤范思哲全球品牌代言人",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708003236,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3251963,
-      "num": 646631,
-      "word": "那英唱哭了",
-      "onboard_time": 1716557367,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
