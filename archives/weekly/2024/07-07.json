@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720423175082,
+  "endTime": 1720424094766,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -635,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572957,
+      "num": 572957,
+      "word": "包头市民打12345要求重新组织高考",
+      "onboard_time": 1720419260,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 566536,
       "num": 363070,
       "word": "IVE香港演唱会评论区",
       "onboard_time": 1720326377,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 566211,
-      "num": 566211,
-      "word": "包头市民打12345要求重新组织高考",
-      "onboard_time": 1720419260,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 556589,
@@ -739,8 +739,8 @@
       "category": "母婴育儿,社会新闻"
     },
     {
-      "raw_hot": 478378,
-      "num": 478378,
+      "raw_hot": 480187,
+      "num": 480187,
       "word": "杨紫的台词被各地文旅用上了",
       "onboard_time": 1720420819,
       "rank": 29,
@@ -907,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432643,
+      "num": 432643,
+      "word": "Mic迈扣账号被封禁",
+      "onboard_time": 1720422679,
+      "rank": 15,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 426001,
       "num": 270651,
       "word": "成毅金发",
@@ -920,6 +928,14 @@
       "word": "city不city博主盛赞144小时过境政策",
       "onboard_time": 1720338018,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423003,
+      "num": 423003,
+      "word": "北大教授反驳中国房子过剩",
+      "onboard_time": 1720421900,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1371,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319128,
+      "num": 319128,
+      "word": "我是O型血让我给涂山璟捐",
+      "onboard_time": 1720420339,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -1435,14 +1459,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 296129,
-      "num": 296129,
-      "word": "Mic迈扣账号被封禁",
-      "onboard_time": 1720422679,
-      "rank": 15,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 294333,
       "num": 250121,
       "word": "Henry一出场票价就回来了",
@@ -1504,6 +1520,14 @@
       "word": "刘亦菲自拍水平进步了",
       "onboard_time": 1720311016,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282255,
+      "num": 282255,
+      "word": "王一博工作室周一放饭",
+      "onboard_time": 1720423758,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1665,14 +1689,6 @@
       "onboard_time": 1720356798,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246714,
-      "num": 246714,
-      "word": "我是O型血让我给涂山璟捐",
-      "onboard_time": 1720420339,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 246425,
@@ -1867,20 +1883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218945,
-      "num": 218945,
-      "word": "北大教授反驳中国房子过剩",
-      "onboard_time": 1720421900,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217728,
       "num": 217728,
       "word": "羽毛球价格大涨",
       "onboard_time": 1720326318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217478,
+      "num": 184220,
+      "word": "捡到手机要价5000元被判赔8500元",
+      "onboard_time": 1720423158,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216601,
@@ -1987,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205728,
+      "num": 205728,
+      "word": "人民网评罐车运输油罐混用",
+      "onboard_time": 1720422858,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205567,
       "num": 205567,
       "word": "沈腾马丽新片瞅着不太city",
@@ -2027,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201438,
+      "num": 201438,
+      "word": "杨紫包场长相思2",
+      "onboard_time": 1720423699,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201215,
       "num": 201215,
       "word": "小孩哥回应误报400米男子公开组",
@@ -2043,12 +2075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200962,
+      "num": 200962,
+      "word": "为什么超市收银员不能坐着上班",
+      "onboard_time": 1720418781,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "T1拿到赛点",
       "onboard_time": 1720379591,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "马丽就是沈腾最好的医美",
+      "onboard_time": 1720422858,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 200807,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1720406778,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 198731,
-      "num": 198731,
-      "word": "为什么超市收银员不能坐着上班",
-      "onboard_time": 1720418781,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 198428,
@@ -2483,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174128,
+      "num": 174128,
+      "word": "郭晓婷特别好的朋友是刘诗诗",
+      "onboard_time": 1720422980,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172857,
       "num": 172857,
       "word": "汉密尔顿英国主场夺冠",
@@ -2585,14 +2633,6 @@
       "onboard_time": 1720360399,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166057,
-      "num": 166057,
-      "word": "人民网评罐车运输油罐混用",
-      "onboard_time": 1720422858,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165352,
@@ -2907,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143311,
+      "num": 143311,
+      "word": "矮一公分都演不出这个效果",
+      "onboard_time": 1720423758,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -2979,14 +3027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139476,
-      "num": 139476,
-      "word": "马丽就是沈腾最好的医美",
-      "onboard_time": 1720422858,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139190,
       "num": 406007,
       "word": "不能让付费内推扰乱就业市场",
@@ -3024,14 +3064,6 @@
       "word": "东莞中堂镇消防通报一工厂发生火灾",
       "onboard_time": 1720332856,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136295,
-      "num": 136295,
-      "word": "捡到手机要价5000元被判赔8500元",
-      "onboard_time": 1720423158,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3233,14 +3265,6 @@
       "onboard_time": 1720357338,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125685,
-      "num": 125685,
-      "word": "郭晓婷特别好的朋友是刘诗诗",
-      "onboard_time": 1720422980,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 125431,
@@ -3963,6 +3987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70934,
+      "num": 349443,
+      "word": "这届商家喊你来碰一下",
+      "onboard_time": 1720422019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69954,
       "num": 69954,
       "word": "TES全华班",
@@ -4219,14 +4251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48559,
-      "num": 298401,
-      "word": "这届商家喊你来碰一下",
-      "onboard_time": 1720422019,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48481,
       "num": 111680,
       "word": "此次洞庭湖大堤决口由管涌引起",
@@ -4379,6 +4403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31069,
+      "num": 440874,
+      "word": "揭秘户外活动组织乱象",
+      "onboard_time": 1720422619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30279,
       "num": 30279,
       "word": "经典第四把",
@@ -4441,14 +4473,6 @@
       "onboard_time": 1720282398,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 21777,
-      "num": 440874,
-      "word": "揭秘户外活动组织乱象",
-      "onboard_time": 1720422619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20803,
@@ -4536,6 +4560,14 @@
       "word": "B太向灾区捐赠物资",
       "onboard_time": 1720375752,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7976,
+      "num": 693239,
+      "word": "洞庭湖大堤决口封堵最新动态",
+      "onboard_time": 1720423999,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
