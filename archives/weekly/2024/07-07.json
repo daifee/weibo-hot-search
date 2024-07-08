@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720416067123,
+  "endTime": 1720417020651,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -17,6 +17,14 @@
       "onboard_time": 1720407858,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1920368,
+      "num": 923259,
+      "word": "追踪仅退款的人",
+      "onboard_time": 1720414639,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1873462,
@@ -57,14 +65,6 @@
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1418658,
-      "num": 912140,
-      "word": "追踪仅退款的人",
-      "onboard_time": 1720414639,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1414129,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815035,
+      "num": 815035,
+      "word": "美国一女生在宿舍内遭流浪汉性侵",
+      "onboard_time": 1720413680,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801426,
       "num": 353676,
       "word": "丽江偶遇了Angelababy",
@@ -475,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641397,
+      "num": 641397,
+      "word": "结婚生育率下降或因经济增长速度太快",
+      "onboard_time": 1720414699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636777,
       "num": 636777,
       "word": "iPhone15Pro以上机型将支持全新Siri",
       "onboard_time": 1720403658,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 634727,
-      "num": 634727,
-      "word": "美国一女生在宿舍内遭流浪汉性侵",
-      "onboard_time": 1720413680,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629578,
@@ -667,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 504956,
-      "num": 504956,
-      "word": "结婚生育率下降或因经济增长速度太快",
-      "onboard_time": 1720414699,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503257,
       "num": 503257,
       "word": "杨紫侧边盘发",
@@ -697,6 +697,14 @@
       "onboard_time": 1720399459,
       "rank": 22,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 496795,
+      "num": 496795,
+      "word": "向太晒与刘德华夫妇聊天记录",
+      "onboard_time": 1720416140,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473830,
@@ -985,6 +993,14 @@
       "onboard_time": 1720321637,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382554,
+      "num": 382554,
+      "word": "李晨回复张艺兴",
+      "onboard_time": 1720415001,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 380521,
@@ -1515,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260394,
-      "num": 260394,
-      "word": "李晨回复张艺兴",
-      "onboard_time": 1720415001,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
@@ -1747,6 +1755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221560,
+      "num": 221560,
+      "word": "读研是一场巨大的服从性测试",
+      "onboard_time": 1720415780,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 219391,
+      "num": 219391,
+      "word": "女子退休后健身半年被刷走146万",
+      "onboard_time": 1720414699,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219294,
       "num": 219294,
       "word": "少年白马醉春风首发预告",
@@ -1776,6 +1800,14 @@
       "word": "见小孩就送蛋糕的怪人只是想女儿了",
       "onboard_time": 1720345456,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215191,
+      "num": 550583,
+      "word": "中国移动被指资费升级容易降级难",
+      "onboard_time": 1720414820,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1811,20 +1843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210502,
+      "num": 210502,
+      "word": "成毅把莲花当麦克风",
+      "onboard_time": 1720416379,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209513,
       "num": 209513,
       "word": "求井盖闭嘴教程",
       "onboard_time": 1720375873,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209013,
-      "num": 209013,
-      "word": "女子退休后健身半年被刷走146万",
-      "onboard_time": 1720414699,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208731,
@@ -2579,6 +2611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153637,
+      "num": 153637,
+      "word": "一个中年男人决定重启人生",
+      "onboard_time": 1720416140,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153011,
       "num": 153011,
       "word": "小奶油单杀Faker",
@@ -2604,7 +2644,7 @@
     },
     {
       "raw_hot": 150508,
-      "num": 150508,
+      "num": 519434,
       "word": "游客逛杭州可以不用拖着行李箱了",
       "onboard_time": 1720412059,
       "rank": 45,
@@ -2641,6 +2681,14 @@
       "onboard_time": 1720356077,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146694,
+      "num": 146694,
+      "word": "湖南华容钱团间堤发生管涌",
+      "onboard_time": 1720416738,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146617,
@@ -2696,6 +2744,14 @@
       "word": "成毅有四部待播作品",
       "onboard_time": 1720334957,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144262,
+      "num": 144262,
+      "word": "檀健次相柳卡点变装",
+      "onboard_time": 1720415839,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2809,14 +2865,6 @@
       "onboard_time": 1720332856,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136892,
-      "num": 136892,
-      "word": "读研是一场巨大的服从性测试",
-      "onboard_time": 1720415780,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 135492,
@@ -2971,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126790,
-      "num": 126790,
-      "word": "檀健次相柳卡点变装",
-      "onboard_time": 1720415839,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126480,
       "num": 126480,
       "word": "林高远3比1安宰贤",
@@ -3065,14 +3105,6 @@
       "onboard_time": 1720351457,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120711,
-      "num": 550583,
-      "word": "中国移动被指资费升级容易降级难",
-      "onboard_time": 1720414820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120257,
@@ -4051,6 +4083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38924,
+      "num": 506774,
+      "word": "余承东称享界S9是舒适睡眠舱",
+      "onboard_time": 1720415599,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38854,
       "num": 385889,
       "word": "小孩姐评教育通透发言",
@@ -4065,14 +4105,6 @@
       "onboard_time": 1720344498,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38224,
-      "num": 167635,
-      "word": "余承东称享界S9是舒适睡眠舱",
-      "onboard_time": 1720415599,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 38017,
@@ -4123,6 +4155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27901,
+      "num": 243241,
+      "word": "享界S9静态评测首发",
+      "onboard_time": 1720413859,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26729,
       "num": 166225,
       "word": "神仙邻居带动社区200多人暑假晨跑",
@@ -4169,14 +4209,6 @@
       "onboard_time": 1720282398,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 21228,
-      "num": 243241,
-      "word": "享界S9静态评测首发",
-      "onboard_time": 1720413859,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 20803,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720417020651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 286471,
+        "num": 939622,
+        "word": "美政府背景黑客攻击中国4500万次",
+        "onboard_time": 1720403177,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1920368,
+        "num": 923259,
+        "word": "追踪仅退款的人",
+        "onboard_time": 1720414639,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129334,
+        "num": 826313,
+        "word": "中国揭露美用伏特台风抹黑中国细节",
+        "onboard_time": 1720409118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1883492,
+        "num": 822525,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815035,
+        "num": 815035,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802886,
+        "num": 802886,
+        "word": "教育局回应女子笔面试第一被判无效",
+        "onboard_time": 1720409659,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718620,
+        "num": 718620,
+        "word": "李宇春无价之姐终审胜诉",
+        "onboard_time": 1720409238,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641397,
+        "num": 641397,
+        "word": "结婚生育率下降或因经济增长速度太快",
+        "onboard_time": 1720414699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547537,
+        "num": 547537,
+        "word": "女子过度防晒得软骨病",
+        "onboard_time": 1720409539,
+        "rank": 8,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 85045,
+        "num": 519434,
+        "word": "游客逛杭州可以不用拖着行李箱了",
+        "onboard_time": 1720412059,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 38924,
+        "num": 506774,
+        "word": "余承东称享界S9是舒适睡眠舱",
+        "onboard_time": 1720415599,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 496795,
+        "num": 496795,
+        "word": "向太晒与刘德华夫妇聊天记录",
+        "onboard_time": 1720416140,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495867,
+        "num": 495867,
+        "word": "陆虎在北京机场又捡到活了",
+        "onboard_time": 1720411879,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385643,
+        "num": 385643,
+        "word": "檀健次特别出演长相思2",
+        "onboard_time": 1720411100,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382554,
+        "num": 382554,
+        "word": "李晨回复张艺兴",
+        "onboard_time": 1720415001,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376803,
+        "num": 376803,
+        "word": "福宝竟然站了1分钟",
+        "onboard_time": 1720403476,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295822,
+        "num": 295822,
+        "word": "休个陪产假咋把工作休没了",
+        "onboard_time": 1720399459,
+        "rank": 16,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 258739,
+        "num": 258739,
+        "word": "杨紫侧边盘发",
+        "onboard_time": 1720409779,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235550,
+        "num": 235550,
+        "word": "长相思",
+        "onboard_time": 1720413981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369629,
+        "num": 234205,
+        "word": "张艺兴彭小苒二搭",
+        "onboard_time": 1720413921,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407683,
+        "num": 231941,
+        "word": "和男朋友同居后房租要AA吗",
+        "onboard_time": 1720394895,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27901,
+        "num": 229959,
+        "word": "享界S9静态评测首发",
+        "onboard_time": 1720413859,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368087,
+        "num": 228139,
+        "word": "月租8800元还是租到了有毒串串房",
+        "onboard_time": 1720403836,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228033,
+        "num": 228033,
+        "word": "iPhone15Pro以上机型将支持全新Siri",
+        "onboard_time": 1720403658,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221560,
+        "num": 221560,
+        "word": "读研是一场巨大的服从性测试",
+        "onboard_time": 1720415780,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219391,
+        "num": 219391,
+        "word": "女子退休后健身半年被刷走146万",
+        "onboard_time": 1720414699,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215191,
+        "num": 215191,
+        "word": "中国移动被指资费升级容易降级难",
+        "onboard_time": 1720414820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210502,
+        "num": 210502,
+        "word": "成毅把莲花当麦克风",
+        "onboard_time": 1720416379,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197056,
+        "num": 197056,
+        "word": "起猛了在苹果官网看到小岳岳了",
+        "onboard_time": 1720402638,
+        "rank": 28,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 196363,
+        "num": 196363,
+        "word": "张新成你是真的饿了",
+        "onboard_time": 1720407198,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195311,
+        "num": 195311,
+        "word": "爸爸给家里设定了500个违禁词",
+        "onboard_time": 1720414222,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191219,
+        "num": 191219,
+        "word": "7月份我的同事一个个消失了",
+        "onboard_time": 1720403718,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185176,
+        "num": 185176,
+        "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+        "onboard_time": 1720403897,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172811,
+        "num": 172811,
+        "word": "小孩哥回应误报400米男子公开组",
+        "onboard_time": 1720412239,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172503,
+        "num": 172503,
+        "word": "保时捷Taycan因销量下滑而减产",
+        "onboard_time": 1720411580,
+        "rank": 34,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 169344,
+        "num": 169344,
+        "word": "相柳抢婚名场面",
+        "onboard_time": 1720411940,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165104,
+        "num": 165104,
+        "word": "阿狸 十八年爱与陪伴",
+        "onboard_time": 1720410799,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161178,
+        "num": 161178,
+        "word": "长相思2今日开播",
+        "onboard_time": 1720407978,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153957,
+        "num": 153957,
+        "word": "为什么要在马厩里放一只羊",
+        "onboard_time": 1720415239,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153637,
+        "num": 153637,
+        "word": "一个中年男人决定重启人生",
+        "onboard_time": 1720416140,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152711,
+        "num": 152711,
+        "word": "因为太热同事离职去冰岛了",
+        "onboard_time": 1720408760,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148840,
+        "num": 148840,
+        "word": "谁发明的湿巾抓蟑螂",
+        "onboard_time": 1720402037,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 146694,
+        "word": "湖南华容钱团间堤发生管涌",
+        "onboard_time": 1720416738,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144262,
+        "num": 144262,
+        "word": "檀健次相柳卡点变装",
+        "onboard_time": 1720415839,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143430,
+        "num": 143430,
+        "word": "A股",
+        "onboard_time": 1720403537,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138197,
+        "num": 138197,
+        "word": "郑州暴雨",
+        "onboard_time": 1720396396,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137475,
+        "num": 137475,
+        "word": "秦彻新pv",
+        "onboard_time": 1720409718,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127469,
+        "num": 127469,
+        "word": "闪耀暖暖",
+        "onboard_time": 1720413080,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125098,
+        "num": 125098,
+        "word": "杀不了的鱼闻不了的味要yue的他",
+        "onboard_time": 1720411100,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123765,
+        "num": 123765,
+        "word": "杨紫粉衣甜妹",
+        "onboard_time": 1720410680,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中亚时间#"
+    }
+  }
+}
