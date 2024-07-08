@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720417020651,
+  "endTime": 1720420093942,
   "band_list": [
     {
       "raw_hot": 2104384,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710095,
+      "num": 651630,
+      "word": "第一次见把剧名拍出来了",
+      "onboard_time": 1720417459,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 679897,
       "num": 679897,
       "word": "张新成你是真的饿了",
@@ -169,6 +177,14 @@
       "onboard_time": 1720411100,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 646242,
+      "num": 496795,
+      "word": "向太晒与刘德华夫妇聊天记录",
+      "onboard_time": 1720416140,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 641397,
@@ -192,6 +208,14 @@
       "word": "3人诱骗同事喝含毒品饮料获刑",
       "onboard_time": 1720400657,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621852,
+      "num": 621852,
+      "word": "中国移动被指资费升级容易降级难",
+      "onboard_time": 1720414820,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,14 +307,6 @@
       "category": "母婴育儿,社会新闻"
     },
     {
-      "raw_hot": 496795,
-      "num": 496795,
-      "word": "向太晒与刘德华夫妇聊天记录",
-      "onboard_time": 1720416140,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 496788,
       "num": 234952,
       "word": "韩雪夫妇与好友聚餐",
@@ -315,8 +331,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 460127,
+      "num": 369505,
+      "word": "张雨绮拔了一个脚指甲",
+      "onboard_time": 1720418121,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454787,
-      "num": 454787,
+      "num": 672548,
       "word": "美政府大规模监听行动已进入AI时代",
       "onboard_time": 1720406838,
       "rank": 8,
@@ -427,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 356040,
+      "num": 221560,
+      "word": "读研是一场巨大的服从性测试",
+      "onboard_time": 1720415780,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 350185,
       "num": 350185,
       "word": "李宇春发文谢谢小瓷花",
@@ -489,6 +521,14 @@
       "onboard_time": 1720408760,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319516,
+      "num": 319516,
+      "word": "女子退休后健身半年被刷走146万",
+      "onboard_time": 1720414699,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309062,
@@ -579,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243905,
+      "num": 243905,
+      "word": "中储粮食用油品牌回应",
+      "onboard_time": 1720418180,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 239827,
       "num": 239827,
       "word": "爸爸给家里设定了500个违禁词",
@@ -627,22 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221560,
-      "num": 221560,
-      "word": "读研是一场巨大的服从性测试",
-      "onboard_time": 1720415780,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 219391,
-      "num": 219391,
-      "word": "女子退休后健身半年被刷走146万",
-      "onboard_time": 1720414699,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219294,
       "num": 219294,
       "word": "少年白马醉春风首发预告",
@@ -675,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215191,
-      "num": 550583,
-      "word": "中国移动被指资费升级容易降级难",
-      "onboard_time": 1720414820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213307,
       "num": 213307,
       "word": "人机局",
@@ -697,6 +721,14 @@
       "onboard_time": 1720416379,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210109,
+      "num": 150769,
+      "word": "包头市民打12345要求重新组织高考",
+      "onboard_time": 1720419260,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 209513,
@@ -721,6 +753,14 @@
       "onboard_time": 1720396818,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203761,
+      "num": 203761,
+      "word": "长相思心碎榜",
+      "onboard_time": 1720419559,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 201299,
@@ -1099,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143612,
+      "num": 143612,
+      "word": "为什么超市收银员不能坐着上班",
+      "onboard_time": 1720418781,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142194,
       "num": 142194,
       "word": "巴西出局内马尔痛哭",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1720396818,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127168,
+      "num": 127168,
+      "word": "gidle回归直播",
+      "onboard_time": 1720419980,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 120257,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1720334538,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92735,
+      "num": 376562,
+      "word": "化工油食用油混装无异于投毒",
+      "onboard_time": 1720418300,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91394,
@@ -1603,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58421,
+      "num": 506774,
+      "word": "余承东称享界S9是舒适睡眠舱",
+      "onboard_time": 1720415599,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57282,
       "num": 57282,
       "word": "JackeyLove四杀",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1720372394,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38924,
-      "num": 506774,
-      "word": "余承东称享界S9是舒适睡眠舱",
-      "onboard_time": 1720415599,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 38854,
