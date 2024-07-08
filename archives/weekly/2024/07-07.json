@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720449443131,
+  "endTime": 1720452079838,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -32,6 +32,14 @@
       "word": "中储粮",
       "onboard_time": 1720407858,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2085237,
+      "num": 2085237,
+      "word": "洞庭湖决口完成封堵",
+      "onboard_time": 1720449560,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -611,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 672244,
+      "num": 672244,
+      "word": "涂山璟 青丘卡戴珊",
+      "onboard_time": 1720445899,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667590,
       "num": 667590,
       "word": "上迪门票涨价至719元仍一票难求",
@@ -729,14 +745,6 @@
       "onboard_time": 1720347619,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 613600,
-      "num": 500080,
-      "word": "涂山璟 青丘卡戴珊",
-      "onboard_time": 1720445899,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 608386,
@@ -905,6 +913,14 @@
       "onboard_time": 1720273757,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 513201,
+      "num": 215861,
+      "word": "晚上睡觉前擦一擦手机",
+      "onboard_time": 1720449920,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 512150,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1720311557,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 444235,
+      "num": 444235,
+      "word": "广州网约车司机整月不休也难赚到1万元",
+      "onboard_time": 1720447220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442240,
@@ -1627,6 +1651,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 339276,
+      "num": 209627,
+      "word": "美国超市疑似买到橡胶水果",
+      "onboard_time": 1720446619,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336020,
+      "num": 336020,
+      "word": "仅退款维护的是用户权益",
+      "onboard_time": 1720448541,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 335953,
       "num": 304974,
       "word": "伊藤美诚WTT女单夺冠",
@@ -1739,14 +1779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 323056,
-      "num": 209627,
-      "word": "美国超市疑似买到橡胶水果",
-      "onboard_time": 1720446619,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322320,
       "num": 275034,
       "word": "因为太热同事离职去冰岛了",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1720268896,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302200,
+      "num": 438564,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300022,
@@ -2361,6 +2401,14 @@
       "onboard_time": 1720340537,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220312,
+      "num": 201191,
+      "word": "加相亲对象微信别给电话号码",
+      "onboard_time": 1720451240,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 219294,
@@ -3027,14 +3075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182218,
-      "num": 182218,
-      "word": "仅退款维护的是用户权益",
-      "onboard_time": 1720448541,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "不运动也能无条件减掉三公斤以上",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1720400538,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180073,
+      "num": 180073,
+      "word": "男生如何正确称呼陌生女性",
+      "onboard_time": 1720448059,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 179910,
@@ -3307,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168464,
+      "num": 168464,
+      "word": "刘亦菲白衬衫造型",
+      "onboard_time": 1720450159,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168121,
       "num": 168121,
       "word": "成毅提裙奔跑",
@@ -3465,14 +3521,6 @@
       "onboard_time": 1720449020,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161575,
-      "num": 383134,
-      "word": "广州网约车司机整月不休也难赚到1万元",
-      "onboard_time": 1720447220,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161423,
@@ -3809,14 +3857,6 @@
       "onboard_time": 1720415839,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143815,
-      "num": 143815,
-      "word": "男生如何正确称呼陌生女性",
-      "onboard_time": 1720448059,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 142956,
@@ -4276,7 +4316,7 @@
     },
     {
       "raw_hot": 119953,
-      "num": 730126,
+      "num": 755075,
       "word": "关注洞庭湖决堤抢险救援进展",
       "onboard_time": 1720442958,
       "rank": 2,
@@ -4635,6 +4675,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 104625,
+      "num": 104625,
+      "word": "北京卫视报道刘亦菲",
+      "onboard_time": 1720451599,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104441,
       "num": 104441,
       "word": "杨紫回复网友",
@@ -4721,6 +4769,14 @@
       "onboard_time": 1720280060,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98118,
+      "num": 365166,
+      "word": "油罐混用的行业秘密到底有多公开",
+      "onboard_time": 1720450820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98059,
@@ -5472,14 +5528,6 @@
       "word": "卢沟桥事变亲历者郑福来老人去世",
       "onboard_time": 1720290973,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32090,
-      "num": 438564,
-      "word": "煤油罐车装的食用油流向了哪里",
-      "onboard_time": 1720449020,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
