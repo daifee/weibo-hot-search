@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720470100969,
+  "endTime": 1720470868822,
   "band_list": [
     {
       "raw_hot": 718720,
@@ -443,7 +443,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58644,
+      "raw_hot": 60633,
       "num": 31858,
       "word": "她心里的人不是我",
       "onboard_time": 1720466591,
@@ -499,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24110,
-      "num": 24110,
+      "raw_hot": 25043,
+      "num": 25043,
       "word": "根据我的微博匹配我的家庭",
       "onboard_time": 1720466051,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 19478,
+      "num": 19478,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18929,
@@ -512,14 +520,6 @@
       "word": "珠江口东西两岸掀起串门热",
       "onboard_time": 1720442298,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17414,
-      "num": 17414,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
