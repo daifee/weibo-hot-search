@@ -1,10 +1,10 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720408991438,
+  "endTime": 1720409829966,
   "band_list": [
     {
       "raw_hot": 1675766,
-      "num": 252741,
+      "num": 255459,
       "word": "月薪3500双休想辞职了",
       "onboard_time": 1720399159,
       "rank": 20,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991581,
+      "num": 991581,
+      "word": "中储粮",
+      "onboard_time": 1720407858,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951386,
       "num": 380519,
       "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
@@ -43,20 +51,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 879846,
+      "num": 879846,
+      "word": "福宝竟然站了1分钟",
+      "onboard_time": 1720403476,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865655,
       "num": 865655,
       "word": "美方栽赃中国后露馅改证据又被发现",
       "onboard_time": 1720402338,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 825583,
-      "num": 825583,
-      "word": "福宝竟然站了1分钟",
-      "onboard_time": 1720403476,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 821428,
@@ -129,6 +137,14 @@
       "onboard_time": 1720400657,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623904,
+      "num": 623904,
+      "word": "李宇春无价之姐终审胜诉",
+      "onboard_time": 1720409238,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 599965,
@@ -209,14 +225,6 @@
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481150,
-      "num": 481150,
-      "word": "中储粮",
-      "onboard_time": 1720407858,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466397,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374480,
+      "num": 374480,
+      "word": "LWX回应欠钱",
+      "onboard_time": 1720408339,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363596,
       "num": 363596,
       "word": "TES先下一城",
@@ -363,6 +379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305672,
+      "num": 305672,
+      "word": "张若昀钟楚曦新片演我周一精神状态",
+      "onboard_time": 1720408939,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 285710,
+      "num": 285710,
+      "word": "苹果迟迟不出折叠屏是为什么",
+      "onboard_time": 1720407978,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 280706,
       "num": 250489,
       "word": "毕业寄行李把蟑螂一起寄回家了",
@@ -387,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260273,
+      "num": 260273,
+      "word": "杨紫侧边盘发",
+      "onboard_time": 1720409779,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
@@ -403,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249525,
-      "num": 249525,
-      "word": "LWX回应欠钱",
-      "onboard_time": 1720408339,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 239409,
       "num": 239409,
       "word": "A股一上市公司12年造假上百亿元",
@@ -425,6 +457,22 @@
       "onboard_time": 1720368077,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226704,
+      "num": 224485,
+      "word": "TES发文遗憾无缘冠军",
+      "onboard_time": 1720409179,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 224582,
+      "num": 224582,
+      "word": "教育局回应女子笔面试第一被判无效",
+      "onboard_time": 1720409659,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219294,
@@ -467,14 +515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208783,
-      "num": 208783,
-      "word": "苹果迟迟不出折叠屏是为什么",
-      "onboard_time": 1720407978,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 205014,
       "num": 205014,
       "word": "TES BP",
@@ -489,6 +529,14 @@
       "onboard_time": 1720356679,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201161,
+      "num": 248987,
+      "word": "中国揭露美用伏特台风抹黑中国细节",
+      "onboard_time": 1720409118,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200947,
@@ -547,12 +595,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190873,
-      "num": 190873,
-      "word": "张若昀钟楚曦新片演我周一精神状态",
-      "onboard_time": 1720408939,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 190897,
+      "num": 190897,
+      "word": "杨紫晒小夭海报",
+      "onboard_time": 1720408998,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 190180,
@@ -563,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189242,
+      "num": 189242,
+      "word": "默杀手绘海报",
+      "onboard_time": 1720408580,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188480,
       "num": 188480,
       "word": "沙特杯超长暂停时间",
       "onboard_time": 1720378031,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183942,
+      "num": 183942,
+      "word": "中国男篮31分不敌黄蜂",
+      "onboard_time": 1720408278,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181137,
@@ -587,8 +651,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174651,
-      "num": 174651,
+      "raw_hot": 177724,
+      "num": 177724,
       "word": "夏天这样洗澡等于生病",
       "onboard_time": 1720407918,
       "rank": 35,
@@ -609,14 +673,6 @@
       "onboard_time": 1720405879,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171508,
-      "num": 171508,
-      "word": "默杀手绘海报",
-      "onboard_time": 1720408580,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 170774,
@@ -667,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163998,
+      "num": 163998,
+      "word": "因为太热同事离职去冰岛了",
+      "onboard_time": 1720408760,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163689,
       "num": 147074,
       "word": "BP完了采访教练思路",
@@ -675,20 +739,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160798,
+      "num": 160798,
+      "word": "女子过度防晒得软骨病",
+      "onboard_time": 1720409539,
+      "rank": 45,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "汪苏泷你好好唱歌演戏我另有人选",
       "onboard_time": 1720405458,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158877,
-      "num": 158877,
-      "word": "中国男篮31分不敌黄蜂",
-      "onboard_time": 1720408278,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 158773,
@@ -705,6 +769,14 @@
       "onboard_time": 1720360999,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155409,
+      "num": 155409,
+      "word": "秦彻新pv",
+      "onboard_time": 1720409718,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 153703,
@@ -744,6 +816,22 @@
       "word": "有香港人去深圳买一周的菜",
       "onboard_time": 1720352357,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142194,
+      "num": 142194,
+      "word": "巴西出局内马尔痛哭",
+      "onboard_time": 1720409179,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139190,
+      "num": 406007,
+      "word": "不能让付费内推扰乱就业市场",
+      "onboard_time": 1720407618,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1019,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92427,
-      "num": 406007,
-      "word": "不能让付费内推扰乱就业市场",
-      "onboard_time": 1720407618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91394,
       "num": 91394,
       "word": "门罗",
@@ -1227,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60937,
+      "num": 257435,
+      "word": "北京2024高招录取已启动",
+      "onboard_time": 1720409480,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 60204,
       "num": 60204,
       "word": "时代少年团对接回应",
@@ -1276,7 +1364,7 @@
     },
     {
       "raw_hot": 39886,
-      "num": 133407,
+      "num": 339334,
       "word": "被享界S9的影院模式震撼住了",
       "onboard_time": 1720408339,
       "rank": 39,
@@ -1377,6 +1465,14 @@
       "onboard_time": 1720377613,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3654,
+      "num": 812936,
+      "word": "洞庭湖决口救援最新进展",
+      "onboard_time": 1720342697,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1385,6 +1481,9 @@
     },
     {
       "word": "#中国揭露美用伏特台风抹黑中国细节#"
+    },
+    {
+      "word": "#习主席的中亚时间#"
     }
   ]
 }
