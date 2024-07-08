@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720413470900,
+  "endTime": 1720416067123,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2104384,
+      "num": 1789864,
+      "word": "中储粮",
+      "onboard_time": 1720407858,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2098035,
       "num": 2098035,
       "word": "炎亚纶确定获缓刑3年",
@@ -225,14 +233,6 @@
       "onboard_time": 1719804917,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1789864,
-      "num": 1789864,
-      "word": "中储粮",
-      "onboard_time": 1720407858,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1787589,
@@ -553,6 +553,14 @@
       "onboard_time": 1720001718,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1418658,
+      "num": 912140,
+      "word": "追踪仅退款的人",
+      "onboard_time": 1720414639,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1414129,
@@ -2739,6 +2747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 634727,
+      "num": 634727,
+      "word": "美国一女生在宿舍内遭流浪汉性侵",
+      "onboard_time": 1720413680,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632746,
       "num": 632746,
       "word": "吴谨言王星越芭莎大片",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1719968178,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 608386,
+      "num": 608386,
+      "word": "陆虎在北京机场又捡到活了",
+      "onboard_time": 1720411879,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 606838,
@@ -3819,14 +3843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 518865,
-      "num": 518865,
-      "word": "陆虎在北京机场又捡到活了",
-      "onboard_time": 1720411879,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 518558,
       "num": 518558,
       "word": "警方通报西安交大毕业生李某某事件",
@@ -4003,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504956,
+      "num": 504956,
+      "word": "结婚生育率下降或因经济增长速度太快",
+      "onboard_time": 1720414699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503889,
       "num": 503889,
       "word": "妈妈是清华的儿子也是清华的",
@@ -4084,7 +4108,7 @@
     },
     {
       "raw_hot": 500370,
-      "num": 217481,
+      "num": 335943,
       "word": "休个陪产假咋把工作休没了",
       "onboard_time": 1720399459,
       "rank": 22,
@@ -4633,6 +4657,14 @@
       "onboard_time": 1720406838,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 454751,
+      "num": 454751,
+      "word": "张艺兴彭小苒二搭",
+      "onboard_time": 1720413921,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 454487,
@@ -6827,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323882,
+      "num": 965211,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 323058,
       "num": 323058,
       "word": "腾讯视频7月大剧片单",
@@ -7755,6 +7795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271935,
+      "num": 271935,
+      "word": "长相思",
+      "onboard_time": 1719809121,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270659,
       "num": 270659,
       "word": "徐志胜被孟子义整破防了",
@@ -7977,6 +8025,14 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260394,
+      "num": 260394,
+      "word": "李晨回复张艺兴",
+      "onboard_time": 1720415001,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 260300,
@@ -8473,6 +8529,14 @@
       "onboard_time": 1720364059,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239827,
+      "num": 239827,
+      "word": "爸爸给家里设定了500个违禁词",
+      "onboard_time": 1720414222,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 239811,
@@ -9569,6 +9633,14 @@
       "onboard_time": 1719832098,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209013,
+      "num": 209013,
+      "word": "女子退休后健身半年被刷走146万",
+      "onboard_time": 1720414699,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208812,
@@ -11369,14 +11441,6 @@
       "onboard_time": 1719928338,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186731,
-      "num": 186731,
-      "word": "长相思",
-      "onboard_time": 1719809121,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 186712,
@@ -13355,14 +13419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156177,
-      "num": 920255,
-      "word": "美政府背景黑客攻击中国4500万次",
-      "onboard_time": 1720403177,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156112,
       "num": 156112,
       "word": "张杰看粉丝求婚太专注忘词了",
@@ -13409,6 +13465,14 @@
       "onboard_time": 1720269858,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "为什么要在马厩里放一只羊",
+      "onboard_time": 1720415239,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 155245,
@@ -15051,6 +15115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "读研是一场巨大的服从性测试",
+      "onboard_time": 1720415780,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "陈少熙 谢谢你让我显眼到国外",
@@ -16035,6 +16107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 126790,
+      "num": 126790,
+      "word": "檀健次相柳卡点变装",
+      "onboard_time": 1720415839,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126513,
       "num": 126513,
       "word": "中国人脱敏的一生",
@@ -16521,6 +16601,14 @@
       "onboard_time": 1719903799,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120711,
+      "num": 550583,
+      "word": "中国移动被指资费升级容易降级难",
+      "onboard_time": 1720414820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120662,
@@ -20555,6 +20643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38224,
+      "num": 167635,
+      "word": "余承东称享界S9是舒适睡眠舱",
+      "onboard_time": 1720415599,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38017,
       "num": 38017,
       "word": "faker状态",
@@ -21289,6 +21385,14 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21228,
+      "num": 243241,
+      "word": "享界S9静态评测首发",
+      "onboard_time": 1720413859,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 20803,

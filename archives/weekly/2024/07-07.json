@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720413470900,
+  "endTime": 1720416067123,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -8,6 +8,14 @@
       "word": "中国将迎来人口死亡高峰",
       "onboard_time": 1720325717,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2104384,
+      "num": 1789864,
+      "word": "中储粮",
+      "onboard_time": 1720407858,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1720350017,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1789864,
-      "num": 1789864,
-      "word": "中储粮",
-      "onboard_time": 1720407858,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1675766,
@@ -57,6 +57,14 @@
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1418658,
+      "num": 912140,
+      "word": "追踪仅退款的人",
+      "onboard_time": 1720414639,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1414129,
@@ -475,6 +483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 634727,
+      "num": 634727,
+      "word": "美国一女生在宿舍内遭流浪汉性侵",
+      "onboard_time": 1720413680,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629578,
       "num": 397910,
       "word": "冯琳入职东方卫视",
@@ -512,6 +528,14 @@
       "word": "任敏瘦了",
       "onboard_time": 1720347619,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 608386,
+      "num": 608386,
+      "word": "陆虎在北京机场又捡到活了",
+      "onboard_time": 1720411879,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -619,14 +643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 518865,
-      "num": 518865,
-      "word": "陆虎在北京机场又捡到活了",
-      "onboard_time": 1720411879,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515851,
       "num": 256400,
       "word": "汪苏泷连夜追加八百万",
@@ -651,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504956,
+      "num": 504956,
+      "word": "结婚生育率下降或因经济增长速度太快",
+      "onboard_time": 1720414699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503257,
       "num": 503257,
       "word": "杨紫侧边盘发",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 500370,
-      "num": 217481,
+      "num": 335943,
       "word": "休个陪产假咋把工作休没了",
       "onboard_time": 1720399459,
       "rank": 22,
@@ -721,6 +745,14 @@
       "onboard_time": 1720406838,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 454751,
+      "num": 454751,
+      "word": "张艺兴彭小苒二搭",
+      "onboard_time": 1720413921,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 454487,
@@ -1219,6 +1251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323882,
+      "num": 965211,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 322320,
       "num": 275034,
       "word": "因为太热同事离职去冰岛了",
@@ -1411,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271935,
+      "num": 271935,
+      "word": "长相思",
+      "onboard_time": 1720334298,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269616,
       "num": 269616,
       "word": "阿狸 十八年爱与陪伴",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1720411761,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260394,
+      "num": 260394,
+      "word": "李晨回复张艺兴",
+      "onboard_time": 1720415001,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 258730,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1720274420,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239827,
+      "num": 239827,
+      "word": "爸爸给家里设定了500个违禁词",
+      "onboard_time": 1720414222,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 239811,
@@ -1753,6 +1817,14 @@
       "onboard_time": 1720375873,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209013,
+      "num": 209013,
+      "word": "女子退休后健身半年被刷走146万",
+      "onboard_time": 1720414699,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208731,
@@ -2443,14 +2515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159770,
-      "num": 159770,
-      "word": "长相思",
-      "onboard_time": 1720334298,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158821,
       "num": 158821,
       "word": "石凯你好星期六",
@@ -2491,12 +2555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156177,
-      "num": 920255,
-      "word": "美政府背景黑客攻击中国4500万次",
-      "onboard_time": 1720403177,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "为什么要在马厩里放一只羊",
+      "onboard_time": 1720415239,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 154162,
@@ -2747,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "读研是一场巨大的服从性测试",
+      "onboard_time": 1720415780,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135492,
       "num": 135492,
       "word": "外媒称C罗想参加2026年世界杯",
@@ -2899,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126790,
+      "num": 126790,
+      "word": "檀健次相柳卡点变装",
+      "onboard_time": 1720415839,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126480,
       "num": 126480,
       "word": "林高远3比1安宰贤",
@@ -2985,6 +3065,14 @@
       "onboard_time": 1720351457,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120711,
+      "num": 550583,
+      "word": "中国移动被指资费升级容易降级难",
+      "onboard_time": 1720414820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120257,
@@ -3979,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38224,
+      "num": 167635,
+      "word": "余承东称享界S9是舒适睡眠舱",
+      "onboard_time": 1720415599,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38017,
       "num": 38017,
       "word": "faker状态",
@@ -4073,6 +4169,14 @@
       "onboard_time": 1720282398,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 21228,
+      "num": 243241,
+      "word": "享界S9静态评测首发",
+      "onboard_time": 1720413859,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 20803,
