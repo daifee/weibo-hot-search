@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720420093942,
+  "endTime": 1720420867484,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3943333,
+      "num": 1032513,
+      "word": "黄子韬 我们公开吧",
+      "onboard_time": 1720420640,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3937219,
       "num": 3937219,
       "word": "没有李谷一",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1716557367,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3232200,
-      "num": 3232200,
-      "word": "郑钦文获澳网亚军",
-      "onboard_time": 1706349931,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

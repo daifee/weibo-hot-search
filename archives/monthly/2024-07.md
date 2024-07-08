@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/08 14:28:13
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/08 14:41:07
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
 歌手排名（热度：6542768）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%88%91%E4%BB%AC%E5%85%AC%E5%BC%80%E5%90%A7%23" target="weibo">
+黄子韬 我们公开吧（热度：3943333）
 </a>
 </li>
 
@@ -4173,6 +4179,12 @@ B太 上海打车去新疆（热度：424969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95%23" target="weibo">
+读研是一场巨大的服从性测试（热度：399871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%81%87%E5%AE%B3%23" target="weibo">
 2名中国企业管理人员菲律宾遇害（热度：399378）
 </a>
@@ -4709,12 +4721,6 @@ TES先下一城（热度：363596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%B7%A6%E6%89%8B%E5%90%B4%E6%98%95%E5%8F%B3%E6%89%8B%E7%8E%8B%E4%BF%8A%E5%87%AF%23" target="weibo">
 何炅左手吴昕右手王俊凯（热度：356383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95%23" target="weibo">
-读研是一场巨大的服从性测试（热度：356040）
 </a>
 </li>
 
@@ -5523,6 +5529,12 @@ BLG教练（热度：300291）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E5%B8%82%E6%B0%91%E6%89%9312345%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E9%AB%98%E8%80%83%23" target="weibo">
+包头市民打12345要求重新组织高考（热度：295684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%20%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23" target="weibo">
 莎头 可口可乐（热度：294803）
 </a>
@@ -5999,18 +6011,6 @@ ZICO教训女同学（热度：264919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%A9%BF%E7%9A%84%E5%A5%BD%E5%83%8F%E5%A9%9A%E7%BA%B1%23" target="weibo">
 田曦薇穿的好像婚纱（热度：264752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2394%E5%B9%B430%E5%B2%81%E5%BE%88%E5%A4%A7%E5%90%97%23" target="weibo">
-94年30岁很大吗（热度：264652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%98%E6%9D%80%20%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3%23" target="weibo">
-默杀 周处除三害（热度：263853）
 </a>
 </li>
 
