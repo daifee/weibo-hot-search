@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720456774300,
+  "endTime": 1720459094020,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -2891,6 +2891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191690,
+      "num": 146817,
+      "word": "原来早睡真的能解决生活中大部分问题",
+      "onboard_time": 1720453698,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191609,
       "num": 191609,
       "word": "洞庭湖决口预计9日12时前完成封堵",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1720422980,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173816,
-      "num": 146817,
-      "word": "原来早睡真的能解决生活中大部分问题",
-      "onboard_time": 1720453698,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 172857,
@@ -3955,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140928,
+      "num": 140928,
+      "word": "青春有你国际版选手名单",
+      "onboard_time": 1720458133,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140677,
       "num": 140677,
       "word": "中国男排vs比利时男排",
@@ -4489,6 +4497,14 @@
       "onboard_time": 1720364838,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114093,
+      "num": 247056,
+      "word": "媒体评高中奖励考入清北学生50万",
+      "onboard_time": 1720456396,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114057,
@@ -5611,6 +5627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35425,
+      "num": 46309,
+      "word": "华晨宇宠爱粉存货照",
+      "onboard_time": 1720457593,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35329,
+      "num": 46307,
+      "word": "欢迎来到我身边番外彩蛋",
+      "onboard_time": 1720457354,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31785,
       "num": 305636,
       "word": "中国小伙一腿一臂登顶乞力马扎罗",
@@ -5635,20 +5667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30591,
-      "num": 247056,
-      "word": "媒体评高中奖励考入清北学生50万",
-      "onboard_time": 1720456396,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30279,
       "num": 30279,
       "word": "经典第四把",
       "onboard_time": 1720383130,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29038,
+      "num": 143794,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27901,
