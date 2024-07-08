@@ -1,0 +1,410 @@
+{
+  "runTime": 1720435092857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 144706,
+        "num": 945463,
+        "word": "美政府机构就是伏特台风计划幕后老板",
+        "onboard_time": 1720431018,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1685688,
+        "num": 911262,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96262,
+        "num": 860782,
+        "word": "高校通知书花式上新就等签收了",
+        "onboard_time": 1720424839,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1575490,
+        "num": 819754,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197804,
+        "num": 776222,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1083270,
+        "num": 716418,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685940,
+        "num": 685940,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646596,
+        "num": 646596,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515520,
+        "num": 515520,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247586,
+        "num": 430098,
+        "word": "北大考古女孩通过敦煌研究院校招面试",
+        "onboard_time": 1720433417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158270,
+        "num": 429359,
+        "word": "孙俪评论区",
+        "onboard_time": 1720430839,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376578,
+        "num": 376578,
+        "word": "长相思2",
+        "onboard_time": 1720433059,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373906,
+        "num": 373906,
+        "word": "萧亚轩一年半要动四次手术",
+        "onboard_time": 1720433538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360769,
+        "num": 360769,
+        "word": "等比长大的赵今麦",
+        "onboard_time": 1720430960,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300714,
+        "num": 300714,
+        "word": "菲军舰严重损害仁爱礁珊瑚礁生态",
+        "onboard_time": 1720430179,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286048,
+        "num": 286048,
+        "word": "秦彻好帅",
+        "onboard_time": 1720433237,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273252,
+        "num": 273252,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269335,
+        "num": 269335,
+        "word": "徐海乔被妈妈催着表白赵丽颖",
+        "onboard_time": 1720434378,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214294,
+        "num": 214294,
+        "word": "江苏扬州地震",
+        "onboard_time": 1720426459,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210311,
+        "num": 210311,
+        "word": "狗狗替小主人挡毒蛇攻击被咬伤",
+        "onboard_time": 1720431560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409698,
+        "num": 210088,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380471,
+        "num": 209706,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332789,
+        "num": 209385,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216677,
+        "num": 208847,
+        "word": "刘涛的屏保是Henry",
+        "onboard_time": 1720425918,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208705,
+        "num": 208705,
+        "word": "张凌赫回复Gucci官方",
+        "onboard_time": 1720428499,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204564,
+        "num": 204564,
+        "word": "洞庭湖决口险情处置发布会",
+        "onboard_time": 1720434259,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201408,
+        "num": 201408,
+        "word": "捡到手机要价5000元被判赔8500元",
+        "onboard_time": 1720423158,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179206,
+        "num": 179206,
+        "word": "化工油食用油混装无异于投毒",
+        "onboard_time": 1720418300,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176266,
+        "num": 176266,
+        "word": "泰妍回归",
+        "onboard_time": 1720430480,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170942,
+        "num": 170942,
+        "word": "过敏太严重被选中当科研素材了",
+        "onboard_time": 1720429221,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158750,
+        "num": 158750,
+        "word": "北大教授反驳中国房子过剩",
+        "onboard_time": 1720421900,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158490,
+        "num": 158490,
+        "word": "男子醉酒被妻子背着摔倒后独自回家",
+        "onboard_time": 1720431680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152051,
+        "num": 152051,
+        "word": "gidle新歌KlaxonMV",
+        "onboard_time": 1720433658,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136995,
+        "num": 136995,
+        "word": "于文文我家那闺女",
+        "onboard_time": 1720432639,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134359,
+        "num": 134359,
+        "word": "苹果中国销量衰退被小米反超",
+        "onboard_time": 1720426518,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133223,
+        "num": 133223,
+        "word": "第一次见把剧名拍出来了",
+        "onboard_time": 1720417459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132808,
+        "num": 132808,
+        "word": "长相思2全员开播云扫楼",
+        "onboard_time": 1720431680,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131447,
+        "num": 131447,
+        "word": "北大教授称很多人被过度医疗了",
+        "onboard_time": 1720431439,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128583,
+        "num": 128583,
+        "word": "gidle回归直播",
+        "onboard_time": 1720419980,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25104,
+        "num": 125753,
+        "word": "快手可灵AI迎来最强更新",
+        "onboard_time": 1720432818,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124459,
+        "num": 124459,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "吴谨言密室大逃脱路透",
+        "onboard_time": 1720425799,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117822,
+        "num": 117822,
+        "word": "时代少年团hi6录制拍立得合照",
+        "onboard_time": 1720426038,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114664,
+        "num": 114664,
+        "word": "Wei离开RNG",
+        "onboard_time": 1720431079,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106592,
+        "num": 106592,
+        "word": "唢呐一响陈瑶红嫁衣登场",
+        "onboard_time": 1720430781,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64753,
+        "num": 106015,
+        "word": "80岁奶奶拎3斤饺子乘地铁看望孙女",
+        "onboard_time": 1720431079,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105560,
+        "num": 105560,
+        "word": "罐车混装是对生命健康的极端漠视",
+        "onboard_time": 1720435039,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105513,
+        "num": 105513,
+        "word": "A股上涨个股不足500只",
+        "onboard_time": 1720426220,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104441,
+        "num": 104441,
+        "word": "杨紫回复网友",
+        "onboard_time": 1720435039,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54566,
+        "num": 103708,
+        "word": "保障食品安全需做好监管把关",
+        "onboard_time": 1720432339,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见匈牙利总理#"
+    }
+  }
+}

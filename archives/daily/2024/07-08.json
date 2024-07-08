@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720434103458,
+  "endTime": 1720435092857,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1163328,
-      "num": 372116,
+      "num": 429359,
       "word": "孙俪评论区",
       "onboard_time": 1720430839,
       "rank": 28,
@@ -107,6 +107,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 1083270,
+      "num": 936684,
+      "word": "北大回应网传韦东奕捐款1600万抗洪",
+      "onboard_time": 1720431980,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000161,
       "num": 817203,
       "word": "女子面试瑞幸被打负面标签",
@@ -120,14 +128,6 @@
       "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
       "onboard_time": 1720400178,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 936684,
-      "num": 936684,
-      "word": "北大回应网传韦东奕捐款1600万抗洪",
-      "onboard_time": 1720431980,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 515520,
+      "num": 515520,
+      "word": "12345回应市民要求重新组织高考",
+      "onboard_time": 1720431980,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503257,
       "num": 503257,
       "word": "杨紫侧边盘发",
@@ -619,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376578,
+      "num": 376578,
+      "word": "长相思2",
+      "onboard_time": 1720433059,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374480,
       "num": 374480,
       "word": "LWX回应欠钱",
       "onboard_time": 1720408339,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 373906,
+      "num": 373906,
+      "word": "萧亚轩一年半要动四次手术",
+      "onboard_time": 1720433538,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 370797,
@@ -641,6 +665,14 @@
       "onboard_time": 1720370894,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 360769,
+      "num": 360769,
+      "word": "等比长大的赵今麦",
+      "onboard_time": 1720430960,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 350185,
@@ -673,6 +705,14 @@
       "onboard_time": 1720423758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332789,
+      "num": 209385,
+      "word": "女子长期喝通便茶肠道长满豹纹",
+      "onboard_time": 1720433600,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 332360,
@@ -755,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303570,
-      "num": 303570,
-      "word": "等比长大的赵今麦",
-      "onboard_time": 1720430960,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302994,
       "num": 302994,
       "word": "秦彻好帅",
@@ -785,14 +817,6 @@
       "onboard_time": 1720405519,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277103,
-      "num": 277103,
-      "word": "12345回应市民要求重新组织高考",
-      "onboard_time": 1720431980,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275533,
@@ -835,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269335,
+      "num": 269335,
+      "word": "徐海乔被妈妈催着表白赵丽颖",
+      "onboard_time": 1720434378,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262713,
       "num": 170401,
       "word": "新疆的作息也太适合年轻人了",
@@ -865,6 +897,14 @@
       "onboard_time": 1720400657,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247586,
+      "num": 430098,
+      "word": "北大考古女孩通过敦煌研究院校招面试",
+      "onboard_time": 1720433417,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246425,
@@ -995,14 +1035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 212310,
-      "num": 212310,
-      "word": "萧亚轩一年半要动四次手术",
-      "onboard_time": 1720433538,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212019,
       "num": 212019,
       "word": "苏醒为老婆庆生",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1720416379,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210311,
+      "num": 210311,
+      "word": "狗狗替小主人挡毒蛇攻击被咬伤",
+      "onboard_time": 1720431560,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209513,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1720396818,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204564,
+      "num": 204564,
+      "word": "洞庭湖决口险情处置发布会",
+      "onboard_time": 1720434259,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203761,
@@ -1179,14 +1227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193844,
-      "num": 193364,
-      "word": "长相思2",
-      "onboard_time": 1720433059,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193495,
       "num": 193495,
       "word": "gidle新歌KlaxonMV",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1720408998,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190498,
-      "num": 190498,
-      "word": "狗狗替小主人挡毒蛇攻击被咬伤",
-      "onboard_time": 1720431560,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190180,
@@ -1475,14 +1507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161188,
-      "num": 161188,
-      "word": "女子长期喝通便茶肠道长满豹纹",
-      "onboard_time": 1720433600,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "汪苏泷你好好唱歌演戏我另有人选",
@@ -1625,14 +1649,6 @@
       "onboard_time": 1720415839,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143945,
-      "num": 143945,
-      "word": "北大考古女孩通过敦煌研究院校招面试",
-      "onboard_time": 1720433417,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142194,
@@ -1939,12 +1955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105560,
+      "num": 105560,
+      "word": "罐车混装是对生命健康的极端漠视",
+      "onboard_time": 1720435039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104735,
       "num": 104735,
       "word": "杜兰特小腿拉伤",
       "onboard_time": 1720401978,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104441,
+      "num": 104441,
+      "word": "杨紫回复网友",
+      "onboard_time": 1720435039,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103786,
@@ -2219,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64753,
+      "num": 222372,
+      "word": "80岁奶奶拎3斤饺子乘地铁看望孙女",
+      "onboard_time": 1720431079,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64551,
       "num": 441853,
       "word": "专家解读化工油食用油混装危害",
@@ -2259,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59569,
-      "num": 222372,
-      "word": "80岁奶奶拎3斤饺子乘地铁看望孙女",
-      "onboard_time": 1720431079,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58421,
       "num": 506774,
       "word": "余承东称享界S9是舒适睡眠舱",
@@ -2287,6 +2319,14 @@
       "num": 473969,
       "word": "云南这片缉毒功勋林如今枝繁叶茂",
       "onboard_time": 1720424958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54566,
+      "num": 372289,
+      "word": "保障食品安全需做好监管把关",
+      "onboard_time": 1720432339,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2371,14 +2411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36057,
-      "num": 372289,
-      "word": "保障食品安全需做好监管把关",
-      "onboard_time": 1720432339,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35274,
       "num": 451366,
       "word": "中塔关系拥有了新定位",
@@ -2419,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25104,
+      "num": 134297,
+      "word": "快手可灵AI迎来最强更新",
+      "onboard_time": 1720432818,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24870,
       "num": 214039,
       "word": "山东暴雨高铁站开休息室供旅客躲雨",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1720379711,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20002,
-      "num": 134297,
-      "word": "快手可灵AI迎来最强更新",
-      "onboard_time": 1720432818,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 19241,
