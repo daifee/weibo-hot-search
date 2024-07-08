@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720459094020,
+  "endTime": 1720460064057,
   "band_list": [
     {
       "raw_hot": 718720,
@@ -435,20 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63881,
+      "num": 143794,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38682,
+      "num": 46307,
+      "word": "欢迎来到我身边番外彩蛋",
+      "onboard_time": 1720457354,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35425,
       "num": 46309,
       "word": "华晨宇宠爱粉存货照",
       "onboard_time": 1720457593,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35329,
-      "num": 46307,
-      "word": "欢迎来到我身边番外彩蛋",
-      "onboard_time": 1720457354,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 34503,
@@ -459,11 +467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29038,
-      "num": 143794,
-      "word": "官方回应网传山东故县村大坝决堤",
-      "onboard_time": 1720458254,
-      "rank": 9,
+      "raw_hot": 30812,
+      "num": 42904,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -478,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向上合组织国家绿色发展论坛致贺信#"
+    },
+    {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
     }
   ]
 }
