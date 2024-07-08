@@ -1,0 +1,410 @@
+{
+  "runTime": 1720406832702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214474,
+        "num": 1214474,
+        "word": "起猛了在苹果官网看到小岳岳了",
+        "onboard_time": 1720402638,
+        "rank": 0,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 814361,
+        "num": 814361,
+        "word": "美方栽赃中国后露馅改证据又被发现",
+        "onboard_time": 1720402338,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61119,
+        "num": 656965,
+        "word": "塔吉克斯坦小伙会做20多道中国菜",
+        "onboard_time": 1720361059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 636777,
+        "num": 636777,
+        "word": "iPhone15Pro以上机型将支持全新Siri",
+        "onboard_time": 1720403658,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 530936,
+        "num": 530936,
+        "word": "向佐感谢我家小两口圆满了他和郭碧婷",
+        "onboard_time": 1720402818,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508852,
+        "num": 508852,
+        "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+        "onboard_time": 1720403897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491869,
+        "num": 491869,
+        "word": "3人诱骗同事喝含毒品饮料获刑",
+        "onboard_time": 1720400657,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479326,
+        "num": 479326,
+        "word": "官方通报延安中学学生坠亡",
+        "onboard_time": 1720396276,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439385,
+        "num": 439385,
+        "word": "A股",
+        "onboard_time": 1720403537,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296211,
+        "num": 425835,
+        "word": "福宝竟然站了1分钟",
+        "onboard_time": 1720403476,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416600,
+        "num": 416600,
+        "word": "洞庭湖决口已封堵135.5米",
+        "onboard_time": 1720403236,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375354,
+        "num": 375354,
+        "word": "东航",
+        "onboard_time": 1720400958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358644,
+        "num": 358644,
+        "word": "长相思2预告",
+        "onboard_time": 1720403897,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356421,
+        "num": 356421,
+        "word": "郑州暴雨",
+        "onboard_time": 1720396396,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327038,
+        "num": 327038,
+        "word": "李宇春发文谢谢小瓷花",
+        "onboard_time": 1720404378,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303698,
+        "num": 303698,
+        "word": "村民放牛发现洞庭湖堤坝孔眼冒水",
+        "onboard_time": 1720400178,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281730,
+        "num": 281730,
+        "word": "时代少年团方已报警",
+        "onboard_time": 1720398797,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261550,
+        "num": 261550,
+        "word": "女子为减肥吃20多天营养棒进了医院",
+        "onboard_time": 1720395136,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200400,
+        "num": 200400,
+        "word": "小米MIXFlip本月发布",
+        "onboard_time": 1720406778,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194109,
+        "num": 194109,
+        "word": "刘耀文全英文单曲",
+        "onboard_time": 1720406298,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 936330,
+        "num": 193845,
+        "word": "月薪3500双休想辞职了",
+        "onboard_time": 1720399159,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 772590,
+        "num": 191743,
+        "word": "月租8800元还是租到了有毒串串房",
+        "onboard_time": 1720403836,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182789,
+        "num": 182789,
+        "word": "全网医生要求把4分还给小学生",
+        "onboard_time": 1720393093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508620,
+        "num": 182289,
+        "word": "和男朋友同居后房租要AA吗",
+        "onboard_time": 1720394895,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454487,
+        "num": 180902,
+        "word": "谁发明的湿巾抓蟑螂",
+        "onboard_time": 1720402037,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297525,
+        "num": 177696,
+        "word": "7月份我的同事一个个消失了",
+        "onboard_time": 1720403718,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253815,
+        "num": 175920,
+        "word": "毕业寄行李把蟑螂一起寄回家了",
+        "onboard_time": 1720405519,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209132,
+        "num": 175282,
+        "word": "休个陪产假咋把工作休没了",
+        "onboard_time": 1720399459,
+        "rank": 27,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 192126,
+        "num": 173540,
+        "word": "伊藤润二联动三丽鸥",
+        "onboard_time": 1720406778,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172225,
+        "num": 172225,
+        "word": "张艺兴手语版ALegend",
+        "onboard_time": 1720405879,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163074,
+        "num": 163074,
+        "word": "外国小伙忘拔钥匙一天下来车仍在原地",
+        "onboard_time": 1720394655,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159995,
+        "num": 159995,
+        "word": "汪苏泷你好好唱歌演戏我另有人选",
+        "onboard_time": 1720405458,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158294,
+        "num": 158294,
+        "word": "孙丞潇说我最近忙得很",
+        "onboard_time": 1720404079,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147137,
+        "num": 147137,
+        "word": "学生眼中最胖的老师2年减重150斤",
+        "onboard_time": 1720400538,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144802,
+        "num": 144802,
+        "word": "T1夺冠",
+        "onboard_time": 1720383431,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138927,
+        "num": 138927,
+        "word": "当甄嬛的照片被AI扩展之后",
+        "onboard_time": 1720405696,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135240,
+        "num": 135240,
+        "word": "Lia即将回归",
+        "onboard_time": 1720400657,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129058,
+        "num": 129058,
+        "word": "2024四川首封高考录取通知书",
+        "onboard_time": 1720406778,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 125314,
+        "num": 125314,
+        "word": "T1战胜TES",
+        "onboard_time": 1720394655,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123332,
+        "num": 123332,
+        "word": "羽毛球为何成体制内第一运动",
+        "onboard_time": 1720364420,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117998,
+        "num": 117998,
+        "word": "新疆的作息也太适合年轻人了",
+        "onboard_time": 1720394655,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115881,
+        "num": 115881,
+        "word": "TES BP",
+        "onboard_time": 1720396818,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115238,
+        "num": 115238,
+        "word": "白救了一只小鸟",
+        "onboard_time": 1720406778,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112911,
+        "num": 112911,
+        "word": "TES对战T1",
+        "onboard_time": 1720366937,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102866,
+        "num": 102866,
+        "word": "BLG Wei",
+        "onboard_time": 1720373413,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99878,
+        "num": 99878,
+        "word": "预拨5.4亿元支持湖南等地抢险救灾",
+        "onboard_time": 1720229118,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 99710,
+        "word": "睡眠不足为什么会引起糖尿病",
+        "onboard_time": 1720364898,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 98807,
+        "num": 98807,
+        "word": "美政府背景黑客攻击中国4500万次",
+        "onboard_time": 1720403177,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14659,
+        "num": 97755,
+        "word": "紫色网球场也太出片了吧",
+        "onboard_time": 1720404978,
+        "rank": 48,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "汪苏泷多巴胺毛衣",
+        "onboard_time": 1720400958,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三访塔吉克斯坦习近平主席心系这份兄弟情谊#"
+    }
+  }
+}

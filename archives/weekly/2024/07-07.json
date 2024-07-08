@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720406258348,
+  "endTime": 1720406832702,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1675766,
-      "num": 186417,
+      "num": 193845,
       "word": "月薪3500双休想辞职了",
       "onboard_time": 1720399159,
       "rank": 20,
@@ -339,8 +339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 772379,
-      "num": 183760,
+      "raw_hot": 772590,
+      "num": 191743,
       "word": "月租8800元还是租到了有毒串串房",
       "onboard_time": 1720403836,
       "rank": 21,
@@ -411,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 636777,
+      "num": 636777,
+      "word": "iPhone15Pro以上机型将支持全新Siri",
+      "onboard_time": 1720403658,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 629578,
       "num": 397910,
       "word": "冯琳入职东方卫视",
       "onboard_time": 1720280659,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628355,
-      "num": 628355,
-      "word": "iPhone15Pro以上机型将支持全新Siri",
-      "onboard_time": 1720403658,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 626241,
@@ -579,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 508852,
+      "num": 508852,
+      "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+      "onboard_time": 1720403897,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501094,
       "num": 501094,
       "word": "羽毛球为何成体制内第一运动",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454487,
+      "num": 181604,
+      "word": "谁发明的湿巾抓蟑螂",
+      "onboard_time": 1720402037,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451146,
       "num": 207162,
       "word": "分手一年多前男友妹妹发来信息",
@@ -649,14 +665,6 @@
       "onboard_time": 1720349238,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449827,
-      "num": 181604,
-      "word": "谁发明的湿巾抓蟑螂",
-      "onboard_time": 1720402037,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 449638,
@@ -715,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432012,
-      "num": 432012,
-      "word": "外孙女爆改93岁外婆秒变多巴胺少女",
-      "onboard_time": 1720403897,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426001,
       "num": 270651,
       "word": "成毅金发",
@@ -753,6 +753,14 @@
       "onboard_time": 1720313717,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 416600,
+      "num": 416600,
+      "word": "洞庭湖决口已封堵135.5米",
+      "onboard_time": 1720403236,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413195,
@@ -825,14 +833,6 @@
       "onboard_time": 1720274178,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389174,
-      "num": 389174,
-      "word": "洞庭湖决口已封堵135.5米",
-      "onboard_time": 1720403236,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388839,
@@ -1140,7 +1140,7 @@
     },
     {
       "raw_hot": 309062,
-      "num": 173412,
+      "num": 177696,
       "word": "7月份我的同事一个个消失了",
       "onboard_time": 1720403718,
       "rank": 24,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1720311557,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 296211,
+      "num": 425835,
+      "word": "福宝竟然站了1分钟",
+      "onboard_time": 1720403476,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294333,
@@ -1315,14 +1323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258902,
-      "num": 425482,
-      "word": "福宝竟然站了1分钟",
-      "onboard_time": 1720403476,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1720400657,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253815,
+      "num": 175920,
+      "word": "毕业寄行李把蟑螂一起寄回家了",
+      "onboard_time": 1720405519,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 253091,
@@ -1627,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200400,
+      "num": 200400,
+      "word": "小米MIXFlip本月发布",
+      "onboard_time": 1720406778,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198428,
       "num": 198428,
       "word": "T1战胜TES",
@@ -1675,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194160,
-      "num": 167479,
-      "word": "毕业寄行李把蟑螂一起寄回家了",
-      "onboard_time": 1720405519,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 194109,
+      "num": 194109,
+      "word": "刘耀文全英文单曲",
+      "onboard_time": 1720406298,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 194031,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1720394054,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192126,
+      "num": 173540,
+      "word": "伊藤润二联动三丽鸥",
+      "onboard_time": 1720406778,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 191765,
@@ -1963,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172225,
+      "num": 172225,
+      "word": "张艺兴手语版ALegend",
+      "onboard_time": 1720405879,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170774,
       "num": 170774,
       "word": "预拨5.4亿元支持湖南等地抢险救灾",
@@ -2115,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159995,
+      "num": 159995,
+      "word": "汪苏泷你好好唱歌演戏我另有人选",
+      "onboard_time": 1720405458,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159770,
       "num": 159770,
       "word": "长相思",
@@ -2193,14 +2233,6 @@
       "onboard_time": 1720363820,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150001,
-      "num": 150001,
-      "word": "汪苏泷你好好唱歌演戏我另有人选",
-      "onboard_time": 1720405458,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 148610,
@@ -2347,6 +2379,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 138927,
+      "num": 138927,
+      "word": "当甄嬛的照片被AI扩展之后",
+      "onboard_time": 1720405696,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138028,
       "num": 138028,
       "word": "JackeyLove神箭",
@@ -2451,6 +2491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 129058,
+      "num": 129058,
+      "word": "2024四川首封高考录取通知书",
+      "onboard_time": 1720406778,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 129018,
       "num": 129018,
       "word": "巴西美洲杯出局",
@@ -2481,14 +2529,6 @@
       "onboard_time": 1720396818,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128442,
-      "num": 128442,
-      "word": "张艺兴手语版ALegend",
-      "onboard_time": 1720405879,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 128094,
@@ -2659,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115238,
+      "num": 115238,
+      "word": "白救了一只小鸟",
+      "onboard_time": 1720406778,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114986,
       "num": 114986,
       "word": "英格兰6比4瑞士",
@@ -2721,14 +2769,6 @@
       "onboard_time": 1720337656,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112463,
-      "num": 112463,
-      "word": "当甄嬛的照片被AI扩展之后",
-      "onboard_time": 1720405696,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 112355,
@@ -2963,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98807,
+      "num": 98807,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98059,
       "num": 98059,
       "word": "央行将开展临时正回购或逆回购操作",
@@ -3089,14 +3137,6 @@
       "onboard_time": 1720402097,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91078,
-      "num": 91078,
-      "word": "美政府背景黑客攻击中国4500万次",
-      "onboard_time": 1720403177,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 90686,
@@ -3707,8 +3747,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12828,
-      "num": 86616,
+      "raw_hot": 14659,
+      "num": 97755,
       "word": "紫色网球场也太出片了吧",
       "onboard_time": 1720404978,
       "rank": 48,
