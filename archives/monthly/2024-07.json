@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720455879416,
+  "endTime": 1720456774300,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -4899,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460426,
+      "num": 156051,
+      "word": "涂山璟怀疑儿子身世",
+      "onboard_time": 1720454538,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460127,
       "num": 428778,
       "word": "张雨绮拔了一个脚指甲",
@@ -5897,14 +5905,6 @@
       "onboard_time": 1719974356,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 400882,
-      "num": 156051,
-      "word": "涂山璟怀疑儿子身世",
-      "onboard_time": 1720454538,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 400621,
@@ -9441,6 +9441,14 @@
       "onboard_time": 1720358959,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232852,
+      "num": 232852,
+      "word": "决口封堵后2.1亿立方米水量怎么排",
+      "onboard_time": 1720454177,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232744,
@@ -14195,14 +14203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 159706,
-      "num": 159706,
-      "word": "决口封堵后2.1亿立方米水量怎么排",
-      "onboard_time": 1720454177,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159613,
       "num": 147706,
       "word": "林俊杰兰州站",
@@ -18547,6 +18547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113505,
+      "num": 241793,
+      "word": "媒体评罐车拉完煤制油直接装食用油",
+      "onboard_time": 1720454538,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113503,
       "num": 113503,
       "word": "Meiko 明天继续加油复仇战2.0",
@@ -19337,6 +19345,14 @@
       "onboard_time": 1720329317,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104009,
+      "num": 104009,
+      "word": "仅退款并不是零元购",
+      "onboard_time": 1720455317,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 103950,
@@ -20195,6 +20211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89403,
+      "num": 89403,
+      "word": "整治油罐混用必须给公众满意交代",
+      "onboard_time": 1720456217,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89396,
       "num": 232782,
       "word": "日本富士山开始收取登山费",
@@ -20347,6 +20371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85740,
+      "num": 85740,
+      "word": "mbti最e到最i人格",
+      "onboard_time": 1720455916,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84849,
       "num": 84849,
       "word": "LGD配合",
@@ -20497,14 +20529,6 @@
       "onboard_time": 1720115292,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 79639,
-      "num": 241793,
-      "word": "媒体评罐车拉完煤制油直接装食用油",
-      "onboard_time": 1720454538,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79245,
@@ -20745,14 +20769,6 @@
       "onboard_time": 1720006219,
       "rank": 12,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 68746,
-      "num": 79444,
-      "word": "仅退款并不是零元购",
-      "onboard_time": 1720455317,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 68741,
@@ -22441,6 +22457,14 @@
       "onboard_time": 1720168878,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30591,
+      "num": 247056,
+      "word": "媒体评高中奖励考入清北学生50万",
+      "onboard_time": 1720456396,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30531,

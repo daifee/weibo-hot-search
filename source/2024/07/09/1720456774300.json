@@ -1,0 +1,410 @@
+{
+  "runTime": 1720456774300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590534,
+        "num": 590534,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 312160,
+        "num": 312160,
+        "word": "洞庭湖决口完成封堵",
+        "onboard_time": 1720449560,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26534,
+        "num": 301858,
+        "word": "关注洞庭湖决堤抢险救援进展",
+        "onboard_time": 1720442958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364362,
+        "num": 301837,
+        "word": "优酷升至行业第二",
+        "onboard_time": 1720452377,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300072,
+        "num": 300072,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298786,
+        "num": 298786,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352164,
+        "num": 286146,
+        "word": "涂山璟 青丘卡戴珊",
+        "onboard_time": 1720445899,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344115,
+        "num": 283858,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271779,
+        "num": 271779,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30591,
+        "num": 247056,
+        "word": "媒体评高中奖励考入清北学生50万",
+        "onboard_time": 1720456396,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324432,
+        "num": 242717,
+        "word": "Jennie疑似抽烟",
+        "onboard_time": 1720438038,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232852,
+        "num": 232852,
+        "word": "决口封堵后2.1亿立方米水量怎么排",
+        "onboard_time": 1720454177,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203181,
+        "num": 203181,
+        "word": "乌克兰全境已拉响防空警报",
+        "onboard_time": 1720447880,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196433,
+        "num": 196433,
+        "word": "蒲熠星自曝理想型是于文文",
+        "onboard_time": 1720446921,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192630,
+        "num": 192630,
+        "word": "长相思2首播热度",
+        "onboard_time": 1720436059,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178740,
+        "num": 178740,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152828,
+        "num": 152828,
+        "word": "仅退款维护的是用户权益",
+        "onboard_time": 1720448541,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144863,
+        "num": 144863,
+        "word": "林俊杰18年开了200场演唱会",
+        "onboard_time": 1720445180,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141262,
+        "num": 141262,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137716,
+        "num": 137716,
+        "word": "油罐混用的行业秘密到底有多公开",
+        "onboard_time": 1720450820,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540649,
+        "num": 137145,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460426,
+        "num": 135101,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446173,
+        "num": 131869,
+        "word": "晚上睡觉前擦一擦手机",
+        "onboard_time": 1720449920,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 346692,
+        "num": 130273,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329626,
+        "num": 127730,
+        "word": "加相亲对象微信别给电话号码",
+        "onboard_time": 1720451240,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 236888,
+        "num": 126286,
+        "word": "坐高铁一定要穿长裤",
+        "onboard_time": 1720443500,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166315,
+        "num": 123497,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166007,
+        "num": 121501,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158353,
+        "num": 119543,
+        "word": "孙颖莎王楚钦发文相约巴黎见",
+        "onboard_time": 1720453338,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118994,
+        "num": 118994,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113505,
+        "num": 113505,
+        "word": "媒体评罐车拉完煤制油直接装食用油",
+        "onboard_time": 1720454538,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109703,
+        "num": 109703,
+        "word": "广州网约车司机整月不休也难赚到1万元",
+        "onboard_time": 1720447220,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104992,
+        "num": 104992,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104898,
+        "num": 104898,
+        "word": "涂山璟白发",
+        "onboard_time": 1720441819,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104009,
+        "num": 104009,
+        "word": "仅退款并不是零元购",
+        "onboard_time": 1720455317,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 89403,
+        "word": "整治油罐混用必须给公众满意交代",
+        "onboard_time": 1720456217,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88786,
+        "num": 88786,
+        "word": "马龙说想有樊振东王楚钦般年轻心态",
+        "onboard_time": 1720443018,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86128,
+        "num": 86128,
+        "word": "Lia短发",
+        "onboard_time": 1720446380,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85740,
+        "num": 85740,
+        "word": "mbti最e到最i人格",
+        "onboard_time": 1720455916,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83622,
+        "num": 83622,
+        "word": "林依晨曾为减肥边哭边催吐",
+        "onboard_time": 1720447760,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83534,
+        "num": 83534,
+        "word": "王源工作室招暑假工吗",
+        "onboard_time": 1720437739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82064,
+        "num": 82064,
+        "word": "刘亦菲白衬衫造型",
+        "onboard_time": 1720450159,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81365,
+        "num": 81365,
+        "word": "沈月好会拍单依纯",
+        "onboard_time": 1720447341,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79520,
+        "num": 79520,
+        "word": "凤凰天使回归",
+        "onboard_time": 1720443380,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73349,
+        "num": 73349,
+        "word": "谁家大婚名场面一下来三个啊",
+        "onboard_time": 1720436658,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72471,
+        "num": 72471,
+        "word": "王鹤棣寸头",
+        "onboard_time": 1720439779,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70923,
+        "num": 70923,
+        "word": "北京卫视报道刘亦菲",
+        "onboard_time": 1720451599,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70453,
+        "num": 70453,
+        "word": "男生如何正确称呼陌生女性",
+        "onboard_time": 1720448059,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66843,
+        "num": 66843,
+        "word": "章泽天当策展人了",
+        "onboard_time": 1720446740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64479,
+        "num": 64479,
+        "word": "微软中国员工禁用安卓手机",
+        "onboard_time": 1720436540,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上合组织国家绿色发展论坛致贺信#"
+    }
+  }
+}
