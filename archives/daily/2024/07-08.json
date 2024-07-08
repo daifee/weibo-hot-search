@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720412674808,
+  "endTime": 1720413470900,
   "band_list": [
     {
       "raw_hot": 1789864,
@@ -19,6 +19,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1414129,
+      "num": 1161876,
+      "word": "教育局回应女子笔面试第一被判无效",
+      "onboard_time": 1720409659,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295788,
       "num": 1295788,
       "word": "起猛了在苹果官网看到小岳岳了",
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1161876,
-      "num": 1161876,
-      "word": "教育局回应女子笔面试第一被判无效",
-      "onboard_time": 1720409659,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1152088,
       "num": 1152088,
       "word": "官方通报延安中学学生坠亡",
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001928,
+      "raw_hot": 1122323,
       "num": 1001928,
       "word": "女子过度防晒得软骨病",
       "onboard_time": 1720409539,
@@ -219,6 +219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 518865,
+      "num": 518865,
+      "word": "陆虎在北京机场又捡到活了",
+      "onboard_time": 1720411879,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516027,
       "num": 153792,
       "word": "把微信所有人设置成了仅聊天",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 500370,
-      "num": 196114,
+      "num": 217481,
       "word": "休个陪产假咋把工作休没了",
       "onboard_time": 1720399459,
       "rank": 22,
@@ -257,6 +265,14 @@
       "onboard_time": 1720354938,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470276,
+      "num": 417275,
+      "word": "苹果迟迟不出折叠屏是为什么",
+      "onboard_time": 1720407978,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 466397,
@@ -313,14 +329,6 @@
       "onboard_time": 1720398378,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417275,
-      "num": 417275,
-      "word": "苹果迟迟不出折叠屏是为什么",
-      "onboard_time": 1720407978,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 416600,
@@ -443,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293589,
-      "num": 293589,
-      "word": "陆虎在北京机场又捡到活了",
-      "onboard_time": 1720411879,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280706,
       "num": 250489,
       "word": "毕业寄行李把蟑螂一起寄回家了",
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261737,
+      "num": 261737,
+      "word": "裴文宣宣誓主权气晕情敌",
+      "onboard_time": 1720411761,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
@@ -499,12 +507,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246425,
+      "num": 230854,
+      "word": "相柳抢婚名场面",
+      "onboard_time": 1720411940,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239409,
       "num": 239409,
       "word": "A股一上市公司12年造假上百亿元",
       "onboard_time": 1720387750,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 235928,
+      "num": 233363,
+      "word": "杀不了的鱼闻不了的味要yue的他",
+      "onboard_time": 1720411100,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 234654,
@@ -523,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233363,
-      "num": 233363,
-      "word": "杀不了的鱼闻不了的味要yue的他",
-      "onboard_time": 1720411100,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 232923,
+      "num": 232923,
+      "word": "闪耀暖暖",
+      "onboard_time": 1720413080,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 219294,
@@ -571,20 +595,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210307,
-      "num": 210307,
-      "word": "裴文宣宣誓主权气晕情敌",
-      "onboard_time": 1720411761,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209513,
       "num": 209513,
       "word": "求井盖闭嘴教程",
       "onboard_time": 1720375873,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205567,
+      "num": 205567,
+      "word": "沈腾马丽新片瞅着不太city",
+      "onboard_time": 1720411220,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 205014,
@@ -601,6 +625,14 @@
       "onboard_time": 1720356679,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201215,
+      "num": 201215,
+      "word": "小孩哥回应误报400米男子公开组",
+      "onboard_time": 1720412239,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 201161,
@@ -625,14 +657,6 @@
       "onboard_time": 1720406778,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200249,
-      "num": 200249,
-      "word": "相柳抢婚名场面",
-      "onboard_time": 1720411940,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 198428,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178295,
+      "num": 178295,
+      "word": "T1把败者钥匙填进奖杯",
+      "onboard_time": 1720412481,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177724,
       "num": 177724,
       "word": "夏天这样洗澡等于生病",
@@ -769,14 +801,6 @@
       "onboard_time": 1720405879,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171875,
-      "num": 171875,
-      "word": "沈腾马丽新片瞅着不太city",
-      "onboard_time": 1720411220,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 170774,
@@ -843,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161423,
+      "num": 161423,
+      "word": "刘诗诗经典葫芦耳饰",
+      "onboard_time": 1720412840,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "汪苏泷你好好唱歌演戏我另有人选",
@@ -859,20 +891,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157502,
-      "num": 157502,
-      "word": "T1把败者钥匙填进奖杯",
-      "onboard_time": 1720412481,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156933,
       "num": 156933,
       "word": "北海公园偶遇朱珠一家",
       "onboard_time": 1720360999,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156634,
+      "num": 156634,
+      "word": "C罗的镜头好像电影",
+      "onboard_time": 1720411639,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156177,
+      "num": 920255,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153703,
@@ -899,14 +939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150708,
-      "num": 150708,
-      "word": "小孩哥回应误报400米男子公开组",
-      "onboard_time": 1720412239,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150508,
       "num": 150508,
       "word": "游客逛杭州可以不用拖着行李箱了",
@@ -931,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143487,
-      "num": 143487,
-      "word": "C罗的镜头好像电影",
-      "onboard_time": 1720411639,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142194,
       "num": 142194,
       "word": "巴西出局内马尔痛哭",
       "onboard_time": 1720409179,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140252,
+      "num": 140252,
+      "word": "抓娃娃",
+      "onboard_time": 1720413441,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139190,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1720353437,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98807,
-      "num": 98807,
-      "word": "美政府背景黑客攻击中国4500万次",
-      "onboard_time": 1720403177,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98059,
