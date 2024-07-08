@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720443063737,
+  "endTime": 1720445001625,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1863911,
+      "num": 1863911,
+      "word": "阿狸 整容",
+      "onboard_time": 1720440320,
+      "rank": 1,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 1823032,
       "num": 246800,
       "word": "宋亚轩刘耀文的车被追尾",
       "onboard_time": 1720350017,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1726021,
-      "num": 762409,
-      "word": "阿狸 整容",
-      "onboard_time": 1720440320,
-      "rank": 1,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 1675766,
@@ -145,6 +145,14 @@
       "onboard_time": 1720307954,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1226508,
+      "num": 729705,
+      "word": "鞠婧祎微博认证去掉了丝芭",
+      "onboard_time": 1720441879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1219098,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794978,
+      "num": 244693,
+      "word": "人死后指纹还能解锁手机吗",
+      "onboard_time": 1720441759,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 781234,
       "num": 781234,
       "word": "T1夺冠",
@@ -513,6 +529,14 @@
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 728123,
+      "num": 728123,
+      "word": "马龙说想有樊振东王楚钦般年轻心态",
+      "onboard_time": 1720443018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 721129,
@@ -595,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655719,
-      "num": 655719,
-      "word": "鞠婧祎微博认证去掉了丝芭",
-      "onboard_time": 1720441879,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651993,
       "num": 651993,
       "word": "内马尔",
@@ -641,6 +657,14 @@
       "onboard_time": 1720403658,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 631404,
+      "num": 512742,
+      "word": "涂山璟白发",
+      "onboard_time": 1720441819,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 629578,
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552715,
+      "num": 237099,
+      "word": "坐高铁一定要穿长裤",
+      "onboard_time": 1720443500,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 546004,
       "num": 546004,
       "word": "向佐感谢我家小两口圆满了他和郭碧婷",
@@ -849,14 +881,6 @@
       "onboard_time": 1720431980,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512742,
-      "num": 512742,
-      "word": "涂山璟白发",
-      "onboard_time": 1720441819,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 512150,
@@ -1275,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390722,
-      "num": 244693,
-      "word": "人死后指纹还能解锁手机吗",
-      "onboard_time": 1720441759,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 388839,
       "num": 331750,
       "word": "郭敬明",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1720355598,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348859,
+      "num": 348859,
+      "word": "凤凰天使回归",
+      "onboard_time": 1720443380,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 348058,
@@ -2075,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243753,
+      "num": 233279,
+      "word": "韩素希担任大学演技导师",
+      "onboard_time": 1720443199,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
@@ -2136,6 +2168,14 @@
       "word": "从爸爸朋友圈知道自己要办升学宴",
       "onboard_time": 1720330037,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238944,
+      "num": 514151,
+      "word": "罐车混装是对生命健康的极端漠视",
+      "onboard_time": 1720435039,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218135,
+      "num": 218135,
+      "word": "杨紫哭戏",
+      "onboard_time": 1720442600,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217728,
       "num": 217728,
       "word": "羽毛球价格大涨",
@@ -2392,14 +2440,6 @@
       "word": "心疼相柳",
       "onboard_time": 1720437016,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206923,
-      "num": 206923,
-      "word": "杨紫哭戏",
-      "onboard_time": 1720442600,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -2787,6 +2827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187963,
+      "num": 187963,
+      "word": "桃花血 好哭",
+      "onboard_time": 1720441879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "夭玹上分",
@@ -2843,14 +2891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183615,
-      "num": 183615,
-      "word": "桃花血 好哭",
-      "onboard_time": 1720441879,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183612,
       "num": 183612,
       "word": "唢呐一响陈瑶红嫁衣登场",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1720426159,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183119,
+      "num": 183119,
+      "word": "任嘉伦说十天后下岛都不认识我了",
+      "onboard_time": 1720444040,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 182830,
@@ -3225,6 +3273,14 @@
       "onboard_time": 1720360638,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164426,
+      "num": 164426,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163723,
@@ -3635,6 +3691,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 140320,
+      "num": 138804,
+      "word": "涵美眉 毛豆",
+      "onboard_time": 1720443500,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 140264,
+      "num": 217374,
+      "word": "基辅被导弹袭击",
+      "onboard_time": 1720442478,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 140252,
       "num": 140252,
       "word": "抓娃娃",
@@ -3803,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130169,
+      "num": 130169,
+      "word": "巨蟹座少点所谓的坦诚",
+      "onboard_time": 1720444580,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129614,
       "num": 129614,
       "word": "T1晋级电竞世界杯决赛",
@@ -3945,14 +4025,6 @@
       "onboard_time": 1720356977,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124168,
-      "num": 124168,
-      "word": "金鼎食用油下架",
-      "onboard_time": 1720441999,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124094,
@@ -4283,14 +4355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106986,
-      "num": 106986,
-      "word": "马龙说想有樊振东王楚钦般年轻心态",
-      "onboard_time": 1720443018,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106353,
       "num": 106353,
       "word": "中国00后首次出战奥运男子百米接力",
@@ -4313,14 +4377,6 @@
       "onboard_time": 1720328178,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105560,
-      "num": 514151,
-      "word": "罐车混装是对生命健康的极端漠视",
-      "onboard_time": 1720435039,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105398,
@@ -4457,6 +4513,14 @@
       "onboard_time": 1720403897,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96984,
+      "num": 96984,
+      "word": "AL战胜LGD",
+      "onboard_time": 1720444939,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96604,
@@ -4731,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70689,
+      "num": 730126,
+      "word": "关注洞庭湖决堤抢险救援进展",
+      "onboard_time": 1720442958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69954,
       "num": 69954,
       "word": "TES全华班",
@@ -4937,6 +5009,14 @@
       "onboard_time": 1720307713,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55923,
+      "num": 431624,
+      "word": "27岁小伙脱衣跪地给摔伤老人止血施救",
+      "onboard_time": 1720444280,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 55554,
@@ -5153,14 +5233,6 @@
       "onboard_time": 1720401617,
       "rank": 17,
       "category": "母婴育儿,教育"
-    },
-    {
-      "raw_hot": 38577,
-      "num": 217374,
-      "word": "基辅被导弹袭击",
-      "onboard_time": 1720442478,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38329,
@@ -5403,14 +5475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7421,
-      "num": 717562,
-      "word": "关注洞庭湖决堤抢险救援进展",
-      "onboard_time": 1720442958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7294,
       "num": 1096338,
       "word": "千年运河京韵焕新",
@@ -5458,6 +5522,9 @@
     },
     {
       "word": "#习近平向上合组织国家绿色发展论坛致贺信#"
+    },
+    {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
     }
   ]
 }

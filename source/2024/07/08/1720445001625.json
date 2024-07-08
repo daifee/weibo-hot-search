@@ -1,0 +1,410 @@
+{
+  "runTime": 1720445001625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863911,
+        "num": 1863911,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 756258,
+        "num": 756258,
+        "word": "女子长期喝通便茶肠道长满豹纹",
+        "onboard_time": 1720433600,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70689,
+        "num": 730126,
+        "word": "关注洞庭湖决堤抢险救援进展",
+        "onboard_time": 1720442958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226508,
+        "num": 729705,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728123,
+        "num": 728123,
+        "word": "马龙说想有樊振东王楚钦般年轻心态",
+        "onboard_time": 1720443018,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481217,
+        "num": 481217,
+        "word": "北大回应网传韦东奕捐款1600万抗洪",
+        "onboard_time": 1720431980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823836,
+        "num": 463605,
+        "word": "Jennie疑似抽烟",
+        "onboard_time": 1720438038,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631404,
+        "num": 458625,
+        "word": "涂山璟白发",
+        "onboard_time": 1720441819,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435313,
+        "num": 435313,
+        "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+        "onboard_time": 1720428739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55923,
+        "num": 431624,
+        "word": "27岁小伙脱衣跪地给摔伤老人止血施救",
+        "onboard_time": 1720444280,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 553855,
+        "num": 431061,
+        "word": "谁家大婚名场面一下来三个啊",
+        "onboard_time": 1720436658,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429781,
+        "num": 429781,
+        "word": "长相思2开播",
+        "onboard_time": 1720431920,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349931,
+        "num": 349931,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386497,
+        "num": 349402,
+        "word": "长相思2首播热度",
+        "onboard_time": 1720436059,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348859,
+        "num": 348859,
+        "word": "凤凰天使回归",
+        "onboard_time": 1720443380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341803,
+        "num": 341803,
+        "word": "微软中国员工禁用安卓手机",
+        "onboard_time": 1720436540,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249688,
+        "num": 249688,
+        "word": "人民日报专访马龙",
+        "onboard_time": 1720439598,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245561,
+        "num": 245561,
+        "word": "北大考古女孩通过敦煌研究院校招面试",
+        "onboard_time": 1720433417,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242391,
+        "num": 242391,
+        "word": "市监局回应罐车运输油罐混用",
+        "onboard_time": 1720438518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238944,
+        "num": 238944,
+        "word": "罐车混装是对生命健康的极端漠视",
+        "onboard_time": 1720435039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062811,
+        "num": 238292,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794978,
+        "num": 237492,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 552715,
+        "num": 237099,
+        "word": "坐高铁一定要穿长裤",
+        "onboard_time": 1720443500,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 349663,
+        "num": 236617,
+        "word": "六便士有多重只有自己才知道",
+        "onboard_time": 1720438457,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332457,
+        "num": 235420,
+        "word": "长相思2",
+        "onboard_time": 1720433059,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258948,
+        "num": 234960,
+        "word": "王源工作室招暑假工吗",
+        "onboard_time": 1720437739,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256087,
+        "num": 234004,
+        "word": "女子睡凉席双腿被螨虫咬满红斑",
+        "onboard_time": 1720427300,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243753,
+        "num": 233279,
+        "word": "韩素希担任大学演技导师",
+        "onboard_time": 1720443199,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232813,
+        "num": 232813,
+        "word": "檀健次不许唱了我心疼",
+        "onboard_time": 1720440439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224821,
+        "num": 224821,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218135,
+        "num": 218135,
+        "word": "杨紫哭戏",
+        "onboard_time": 1720442600,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197309,
+        "num": 197309,
+        "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+        "onboard_time": 1720436418,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189053,
+        "num": 189053,
+        "word": "王鹤棣寸头",
+        "onboard_time": 1720439779,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187963,
+        "num": 187963,
+        "word": "桃花血 好哭",
+        "onboard_time": 1720441879,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183119,
+        "num": 183119,
+        "word": "任嘉伦说十天后下岛都不认识我了",
+        "onboard_time": 1720444040,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182495,
+        "num": 182495,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164426,
+        "num": 164426,
+        "word": "金鼎食用油下架",
+        "onboard_time": 1720441999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162922,
+        "num": 162922,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149938,
+        "num": 149938,
+        "word": "刘耀文健身房被偶遇",
+        "onboard_time": 1720442118,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140264,
+        "num": 140264,
+        "word": "基辅被导弹袭击",
+        "onboard_time": 1720442478,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140320,
+        "num": 138804,
+        "word": "涵美眉 毛豆",
+        "onboard_time": 1720443500,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130169,
+        "num": 130169,
+        "word": "巨蟹座少点所谓的坦诚",
+        "onboard_time": 1720444580,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127016,
+        "num": 127016,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125378,
+        "num": 125378,
+        "word": "萧亚轩一年半要动四次手术",
+        "onboard_time": 1720433538,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115711,
+        "num": 115711,
+        "word": "姆巴佩入驻微博",
+        "onboard_time": 1720439480,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107282,
+        "num": 107282,
+        "word": "王星越戴了于正送的手串",
+        "onboard_time": 1720437677,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103087,
+        "num": 103087,
+        "word": "徐海乔被妈妈催着表白赵丽颖",
+        "onboard_time": 1720434378,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102758,
+        "num": 102758,
+        "word": "秦彻好帅",
+        "onboard_time": 1720433237,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97081,
+        "num": 97081,
+        "word": "长歌行上星山西卫视",
+        "onboard_time": 1720440798,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96984,
+        "num": 96984,
+        "word": "AL战胜LGD",
+        "onboard_time": 1720444939,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720443063737,
+  "endTime": 1720445001625,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1863911,
+      "num": 1863911,
+      "word": "阿狸 整容",
+      "onboard_time": 1720440320,
+      "rank": 1,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 1855281,
       "num": 1855281,
       "word": "徐艺洋 老板就能上我卫生间吗",
@@ -297,14 +305,6 @@
       "onboard_time": 1720274479,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1726021,
-      "num": 762409,
-      "word": "阿狸 整容",
-      "onboard_time": 1720440320,
-      "rank": 1,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 1711566,
@@ -785,6 +785,14 @@
       "onboard_time": 1719809121,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1226508,
+      "num": 729705,
+      "word": "鞠婧祎微博认证去掉了丝芭",
+      "onboard_time": 1720441879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1224152,
@@ -2099,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 794978,
+      "num": 244693,
+      "word": "人死后指纹还能解锁手机吗",
+      "onboard_time": 1720441759,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 794898,
       "num": 794898,
       "word": "西宁通报2名15岁学生先后因病离世",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1720152258,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728123,
+      "num": 728123,
+      "word": "马龙说想有樊振东王楚钦般年轻心态",
+      "onboard_time": 1720443018,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 722103,
@@ -2747,14 +2771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 655719,
-      "num": 655719,
-      "word": "鞠婧祎微博认证去掉了丝芭",
-      "onboard_time": 1720441879,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655437,
       "num": 251518,
       "word": "微信收款码拍下来没法付款",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1720054039,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 631404,
+      "num": 512742,
+      "word": "涂山璟白发",
+      "onboard_time": 1720441819,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 630228,
@@ -3739,6 +3763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 552715,
+      "num": 237099,
+      "word": "坐高铁一定要穿长裤",
+      "onboard_time": 1720443500,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 552565,
       "num": 552565,
       "word": "TES战胜GEN",
@@ -4121,14 +4153,6 @@
       "onboard_time": 1719741438,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 512742,
-      "num": 512742,
-      "word": "涂山璟白发",
-      "onboard_time": 1720441819,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 512150,
@@ -5963,14 +5987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390722,
-      "num": 244693,
-      "word": "人死后指纹还能解锁手机吗",
-      "onboard_time": 1720441759,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 389729,
       "num": 389729,
       "word": "酒霉酒霉 漂亮的霉霉",
@@ -6777,6 +6793,14 @@
       "onboard_time": 1720234938,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348859,
+      "num": 348859,
+      "word": "凤凰天使回归",
+      "onboard_time": 1720443380,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 348806,
@@ -8907,6 +8931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243753,
+      "num": 233279,
+      "word": "韩素希担任大学演技导师",
+      "onboard_time": 1720443199,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243428,
       "num": 243428,
       "word": "赵今麦张凌赫 苹果吻",
@@ -9048,6 +9080,14 @@
       "word": "五旬已婚女子同时和5名男子恋爱",
       "onboard_time": 1719978920,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238944,
+      "num": 514151,
+      "word": "罐车混装是对生命健康的极端漠视",
+      "onboard_time": 1720435039,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9731,6 +9771,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 218135,
+      "num": 218135,
+      "word": "杨紫哭戏",
+      "onboard_time": 1720442600,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218095,
       "num": 218095,
       "word": "大荒首富涂山璟喊你报考中国农大",
@@ -10321,14 +10369,6 @@
       "onboard_time": 1719977058,
       "rank": 29,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 206923,
-      "num": 206923,
-      "word": "杨紫哭戏",
-      "onboard_time": 1720442600,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 206810,
@@ -11995,6 +12035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187963,
+      "num": 187963,
+      "word": "桃花血 好哭",
+      "onboard_time": 1720441879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187905,
       "num": 187905,
       "word": "TES对战GEN",
@@ -12219,14 +12267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183615,
-      "num": 183615,
-      "word": "桃花血 好哭",
-      "onboard_time": 1720441879,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183612,
       "num": 183612,
       "word": "唢呐一响陈瑶红嫁衣登场",
@@ -12273,6 +12313,14 @@
       "onboard_time": 1720426159,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183119,
+      "num": 183119,
+      "word": "任嘉伦说十天后下岛都不认识我了",
+      "onboard_time": 1720444040,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 182962,
@@ -13529,6 +13577,14 @@
       "onboard_time": 1720000098,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164426,
+      "num": 164426,
+      "word": "金鼎食用油下架",
+      "onboard_time": 1720441999,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164191,
@@ -15619,12 +15675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140320,
+      "num": 138804,
+      "word": "涵美眉 毛豆",
+      "onboard_time": 1720443500,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 140306,
       "num": 402867,
       "word": "女生在毕业典礼一键换军装",
       "onboard_time": 1719800836,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140264,
+      "num": 217374,
+      "word": "基辅被导弹袭击",
+      "onboard_time": 1720442478,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 140170,
@@ -16651,6 +16723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130169,
+      "num": 130169,
+      "word": "巨蟹座少点所谓的坦诚",
+      "onboard_time": 1720444580,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130092,
       "num": 281019,
       "word": "全力守住第二道防线",
@@ -17201,14 +17281,6 @@
       "onboard_time": 1719915858,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124168,
-      "num": 124168,
-      "word": "金鼎食用油下架",
-      "onboard_time": 1720441999,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124133,
@@ -18763,14 +18835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106986,
-      "num": 106986,
-      "word": "马龙说想有樊振东王楚钦般年轻心态",
-      "onboard_time": 1720443018,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106909,
       "num": 106909,
       "word": "强迫症最喜欢的木工活",
@@ -18881,14 +18945,6 @@
       "onboard_time": 1720002678,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105560,
-      "num": 514151,
-      "word": "罐车混装是对生命健康的极端漠视",
-      "onboard_time": 1720435039,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105398,
@@ -19361,6 +19417,14 @@
       "onboard_time": 1720257438,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96984,
+      "num": 96984,
+      "word": "AL战胜LGD",
+      "onboard_time": 1720444939,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96761,
@@ -20307,6 +20371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70689,
+      "num": 730126,
+      "word": "关注洞庭湖决堤抢险救援进展",
+      "onboard_time": 1720442958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -21001,6 +21073,14 @@
       "onboard_time": 1720307713,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55923,
+      "num": 431624,
+      "word": "27岁小伙脱衣跪地给摔伤老人止血施救",
+      "onboard_time": 1720444280,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 55752,
@@ -21729,14 +21809,6 @@
       "onboard_time": 1720004419,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38577,
-      "num": 217374,
-      "word": "基辅被导弹袭击",
-      "onboard_time": 1720442478,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38329,
@@ -23003,14 +23075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7421,
-      "num": 717562,
-      "word": "关注洞庭湖决堤抢险救援进展",
-      "onboard_time": 1720442958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7131,
       "num": 218349,
       "word": "纽约华人美甲店遭车撞入致4死9伤",
@@ -23206,6 +23270,9 @@
     },
     {
       "word": "#习近平向上合组织国家绿色发展论坛致贺信#"
+    },
+    {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
     }
   ]
 }
