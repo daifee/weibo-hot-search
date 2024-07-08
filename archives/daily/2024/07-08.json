@@ -1,6 +1,6 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720448397288,
+  "endTime": 1720449443131,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726044,
+      "num": 726044,
+      "word": "洞庭湖决口封堵进入最后冲刺阶段",
+      "onboard_time": 1720448600,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710095,
       "num": 663351,
       "word": "第一次见把剧名拍出来了",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613600,
+      "num": 500080,
+      "word": "涂山璟 青丘卡戴珊",
+      "onboard_time": 1720445899,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608386,
       "num": 608386,
       "word": "陆虎在北京机场又捡到活了",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 603339,
-      "num": 277072,
+      "num": 304910,
       "word": "女子睡凉席双腿被螨虫咬满红斑",
       "onboard_time": 1720427300,
       "rank": 23,
@@ -435,16 +451,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 569363,
-      "num": 402184,
-      "word": "涂山璟 青丘卡戴珊",
-      "onboard_time": 1720445899,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 557623,
-      "num": 367861,
+      "num": 437959,
       "word": "林俊杰18年开了200场演唱会",
       "onboard_time": 1720445180,
       "rank": 25,
@@ -483,20 +491,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 537446,
+      "num": 537446,
+      "word": "12345回应市民要求重新组织高考",
+      "onboard_time": 1720431980,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516027,
       "num": 153792,
       "word": "把微信所有人设置成了仅聊天",
       "onboard_time": 1720351519,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 515520,
-      "num": 515520,
-      "word": "12345回应市民要求重新组织高考",
-      "onboard_time": 1720431980,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503257,
@@ -555,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478369,
+      "num": 435281,
+      "word": "蒲熠星自曝理想型是于文文",
+      "onboard_time": 1720446921,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476044,
       "num": 476044,
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 455417,
-      "num": 402551,
+      "num": 425541,
       "word": "长相思2首播热度",
       "onboard_time": 1720436059,
       "rank": 15,
@@ -617,6 +633,14 @@
       "onboard_time": 1720402037,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 451296,
+      "num": 451296,
+      "word": "乌克兰全境已拉响防空警报",
+      "onboard_time": 1720447880,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 448012,
@@ -843,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 346526,
+      "num": 213343,
+      "word": "Lia短发",
+      "onboard_time": 1720446380,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341787,
       "num": 341787,
       "word": "BLG Wei",
@@ -915,12 +947,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322709,
-      "num": 169617,
-      "word": "Lia短发",
-      "onboard_time": 1720446380,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 323056,
+      "num": 209627,
+      "word": "美国超市疑似买到橡胶水果",
+      "onboard_time": 1720446619,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322320,
@@ -979,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303181,
-      "num": 169209,
-      "word": "美国超市疑似买到橡胶水果",
-      "onboard_time": 1720446619,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302994,
       "num": 302994,
       "word": "秦彻好帅",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1720430480,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 286296,
-      "num": 168648,
-      "word": "蒲熠星自曝理想型是于文文",
-      "onboard_time": 1720446921,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 280706,
@@ -1316,7 +1332,7 @@
     },
     {
       "raw_hot": 209127,
-      "num": 168057,
+      "num": 192496,
       "word": "林依晨曾为减肥边哭边催吐",
       "onboard_time": 1720447760,
       "rank": 30,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 205203,
-      "num": 167785,
+      "num": 184152,
       "word": "沈月好会拍单依纯",
       "onboard_time": 1720447341,
       "rank": 31,
@@ -1619,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182218,
+      "num": 182218,
+      "word": "仅退款维护的是用户权益",
+      "onboard_time": 1720448541,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181137,
       "num": 181137,
       "word": "学生眼中最胖的老师2年减重150斤",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1720400958,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179142,
+      "num": 179142,
+      "word": "张晚意眼神戏",
+      "onboard_time": 1720447640,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 178295,
@@ -1827,14 +1859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165601,
-      "num": 165601,
-      "word": "乌克兰全境已拉响防空警报",
-      "onboard_time": 1720447880,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "Faker亚索",
@@ -1883,12 +1907,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162963,
-      "num": 162963,
-      "word": "张晚意眼神戏",
-      "onboard_time": 1720447640,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 161769,
+      "num": 161769,
+      "word": "迪丽热巴开推2全平台战绩",
+      "onboard_time": 1720449020,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161575,
+      "num": 383134,
+      "word": "广州网约车司机整月不休也难赚到1万元",
+      "onboard_time": 1720447220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161423,
@@ -2091,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146978,
+      "num": 146978,
+      "word": "洞庭湖决口合龙直播",
+      "onboard_time": 1720448600,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146694,
       "num": 146694,
       "word": "湖南华容钱团间堤发生管涌",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1720415839,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143815,
+      "num": 143815,
+      "word": "男生如何正确称呼陌生女性",
+      "onboard_time": 1720448059,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 142194,
@@ -2147,12 +2195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139068,
-      "num": 139068,
-      "word": "男生如何正确称呼陌生女性",
-      "onboard_time": 1720448059,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 138995,
+      "num": 138995,
+      "word": "温网",
+      "onboard_time": 1720448360,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138927,
@@ -2353,14 +2401,6 @@
       "onboard_time": 1720442958,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118732,
-      "num": 118732,
-      "word": "温网",
-      "onboard_time": 1720448360,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 118323,
@@ -2683,14 +2723,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 78232,
-      "num": 383134,
-      "word": "广州网约车司机整月不休也难赚到1万元",
-      "onboard_time": 1720447220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77236,
       "num": 77236,
       "word": "刘耀文对接发文回应",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1720361658,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32090,
+      "num": 438564,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31069,
