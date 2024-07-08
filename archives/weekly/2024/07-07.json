@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720431265143,
+  "endTime": 1720434103458,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1900825,
-      "num": 854317,
+      "num": 940387,
       "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
       "onboard_time": 1720428739,
       "rank": 3,
@@ -107,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1314025,
+      "num": 937798,
+      "word": "长相思2开播",
+      "onboard_time": 1720431920,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1295788,
       "num": 1295788,
       "word": "起猛了在苹果官网看到小岳岳了",
@@ -153,6 +161,14 @@
       "onboard_time": 1720319836,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163328,
+      "num": 372116,
+      "word": "孙俪评论区",
+      "onboard_time": 1720430839,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1152088,
@@ -248,6 +264,14 @@
       "word": "日本教科书将南京大屠杀写成南京事件",
       "onboard_time": 1720327756,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936684,
+      "num": 936684,
+      "word": "北大回应网传韦东奕捐款1600万抗洪",
+      "onboard_time": 1720431980,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 370797,
+      "num": 370797,
+      "word": "菲军舰严重损害仁爱礁珊瑚礁生态",
+      "onboard_time": 1720430179,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 370217,
       "num": 370217,
       "word": "伯远确诊AUP型人格",
@@ -1547,12 +1579,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303570,
+      "num": 303570,
+      "word": "等比长大的赵今麦",
+      "onboard_time": 1720430960,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303215,
       "num": 303215,
       "word": "被遗忘机场当事人收到东航道歉信",
       "onboard_time": 1720334238,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302994,
+      "num": 302994,
+      "word": "秦彻好帅",
+      "onboard_time": 1720268896,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 300022,
@@ -1691,6 +1739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277103,
+      "num": 277103,
+      "word": "12345回应市民要求重新组织高考",
+      "onboard_time": 1720431980,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275064,
       "num": 275064,
       "word": "A股上涨个股不足500只",
@@ -1769,14 +1825,6 @@
       "onboard_time": 1720411761,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260751,
-      "num": 260751,
-      "word": "菲军舰严重损害仁爱礁珊瑚礁生态",
-      "onboard_time": 1720430179,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 258730,
@@ -2043,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216643,
+      "num": 216643,
+      "word": "过敏太严重被选中当科研素材了",
+      "onboard_time": 1720429221,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216601,
       "num": 216601,
       "word": "秦彻新pv",
@@ -2081,6 +2137,14 @@
       "onboard_time": 1720371854,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212310,
+      "num": 212310,
+      "word": "萧亚轩一年半要动四次手术",
+      "onboard_time": 1720433538,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 212019,
@@ -2185,14 +2249,6 @@
       "onboard_time": 1720338256,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203908,
-      "num": 203908,
-      "word": "过敏太严重被选中当科研素材了",
-      "onboard_time": 1720429221,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 203761,
@@ -2363,6 +2419,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193844,
+      "num": 193364,
+      "word": "长相思2",
+      "onboard_time": 1720433059,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "gidle新歌KlaxonMV",
+      "onboard_time": 1720433658,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193228,
       "num": 193228,
       "word": "七七事变",
@@ -2451,6 +2523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190498,
+      "num": 190498,
+      "word": "狗狗替小主人挡毒蛇攻击被咬伤",
+      "onboard_time": 1720431560,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "德罗赞加盟国王",
@@ -2497,14 +2577,6 @@
       "onboard_time": 1720378031,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187141,
-      "num": 187141,
-      "word": "孙俪评论区",
-      "onboard_time": 1720430839,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 186838,
@@ -2819,6 +2891,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167981,
+      "num": 167981,
+      "word": "于文文我家那闺女",
+      "onboard_time": 1720432639,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167759,
+      "num": 950409,
+      "word": "美政府机构就是伏特台风计划幕后老板",
+      "onboard_time": 1720431018,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167190,
       "num": 167190,
       "word": "北上过审下证",
@@ -2857,6 +2945,14 @@
       "onboard_time": 1720404079,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165139,
+      "num": 165139,
+      "word": "男子醉酒被妻子背着摔倒后独自回家",
+      "onboard_time": 1720431680,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164816,
@@ -2931,6 +3027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161188,
+      "num": 161188,
+      "word": "女子长期喝通便茶肠道长满豹纹",
+      "onboard_time": 1720433600,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161058,
       "num": 161058,
       "word": "耳廓狐不想洗澡时会装死",
@@ -2953,6 +3057,14 @@
       "onboard_time": 1720278739,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "长相思2全员开播云扫楼",
+      "onboard_time": 1720431680,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 158012,
@@ -3171,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143945,
+      "num": 143945,
+      "word": "北大考古女孩通过敦煌研究院校招面试",
+      "onboard_time": 1720433417,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -3331,14 +3451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132887,
-      "num": 132887,
-      "word": "等比长大的赵今麦",
-      "onboard_time": 1720430960,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132707,
       "num": 132707,
       "word": "中文广告为何挤满欧洲杯赛场",
@@ -3355,12 +3467,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132335,
+      "num": 132335,
+      "word": "北大教授称很多人被过度医疗了",
+      "onboard_time": 1720431439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131574,
       "num": 131574,
       "word": "中国男篮vs黄蜂",
       "onboard_time": 1720401197,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131211,
+      "num": 131211,
+      "word": "Wei离开RNG",
+      "onboard_time": 1720431079,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 131139,
@@ -3539,22 +3667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123829,
-      "num": 123829,
-      "word": "Wei离开RNG",
-      "onboard_time": 1720431079,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 123787,
-      "num": 123787,
-      "word": "秦彻好帅",
-      "onboard_time": 1720268896,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122610,
       "num": 122610,
       "word": "石凯南京",
@@ -3689,6 +3801,14 @@
       "onboard_time": 1720364838,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114057,
+      "num": 114057,
+      "word": "身边越来越多生日回避型人格",
+      "onboard_time": 1720434018,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113972,
@@ -4691,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36057,
+      "num": 372289,
+      "word": "保障食品安全需做好监管把关",
+      "onboard_time": 1720432339,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31785,
       "num": 305636,
       "word": "中国小伙一腿一臂登顶乞力马扎罗",
@@ -4795,6 +4923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20002,
+      "num": 134297,
+      "word": "快手可灵AI迎来最强更新",
+      "onboard_time": 1720432818,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 19837,
       "num": 78950,
       "word": "15岁男孩教科书式急救抢回一条命",
@@ -4825,14 +4961,6 @@
       "onboard_time": 1720353618,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17572,
-      "num": 916146,
-      "word": "美政府机构就是伏特台风计划幕后老板",
-      "onboard_time": 1720431018,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14659,
