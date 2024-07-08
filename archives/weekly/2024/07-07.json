@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720403138399,
+  "endTime": 1720406258348,
   "band_list": [
     {
       "raw_hot": 2603955,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1675766,
-      "num": 185473,
+      "num": 186417,
       "word": "月薪3500双休想辞职了",
       "onboard_time": 1720399159,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1720356019,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1295788,
+      "num": 1295788,
+      "word": "起猛了在苹果官网看到小岳岳了",
+      "onboard_time": 1720402638,
+      "rank": 6,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 1270870,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 865655,
+      "num": 865655,
+      "word": "美方栽赃中国后露馅改证据又被发现",
+      "onboard_time": 1720402338,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 830131,
       "num": 292647,
       "word": "呼吸时突然胸部莫名刺痛",
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 772379,
+      "num": 183760,
+      "word": "月租8800元还是租到了有毒串串房",
+      "onboard_time": 1720403836,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770448,
       "num": 770448,
       "word": "全网医生要求把4分还给小学生",
@@ -393,6 +417,14 @@
       "onboard_time": 1720280659,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628355,
+      "num": 628355,
+      "word": "iPhone15Pro以上机型将支持全新Siri",
+      "onboard_time": 1720403658,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 626241,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546004,
+      "num": 546004,
+      "word": "向佐感谢我家小两口圆满了他和郭碧婷",
+      "onboard_time": 1720402818,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543165,
       "num": 543165,
       "word": "WPS崩了",
@@ -555,20 +595,20 @@
       "category": "母婴育儿,社会新闻"
     },
     {
-      "raw_hot": 481562,
-      "num": 481562,
-      "word": "起猛了在苹果官网看到小岳岳了",
-      "onboard_time": 1720402638,
-      "rank": 6,
-      "category": "数码,艺人"
-    },
-    {
       "raw_hot": 473830,
       "num": 473830,
       "word": "卫星看洞庭湖遭洪水涌入",
       "onboard_time": 1720313896,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466397,
+      "num": 466397,
+      "word": "A股",
+      "onboard_time": 1720403537,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 459508,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449827,
+      "num": 181604,
+      "word": "谁发明的湿巾抓蟑螂",
+      "onboard_time": 1720402037,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449638,
       "num": 449638,
       "word": "女生在商场遭醉酒男骚扰殴打致脑震荡",
@@ -625,14 +673,6 @@
       "onboard_time": 1720311557,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 443780,
-      "num": 181604,
-      "word": "谁发明的湿巾抓蟑螂",
-      "onboard_time": 1720402037,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 442023,
@@ -673,6 +713,14 @@
       "onboard_time": 1720276819,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432012,
+      "num": 432012,
+      "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+      "onboard_time": 1720403897,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426001,
@@ -779,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389174,
+      "num": 389174,
+      "word": "洞庭湖决口已封堵135.5米",
+      "onboard_time": 1720403236,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388839,
       "num": 331750,
       "word": "郭敬明",
@@ -841,6 +897,14 @@
       "onboard_time": 1720358358,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 376720,
+      "num": 376720,
+      "word": "长相思2预告",
+      "onboard_time": 1720403897,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 376665,
@@ -945,6 +1009,14 @@
       "onboard_time": 1720281498,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "李宇春发文谢谢小瓷花",
+      "onboard_time": 1720404378,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 349904,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1720352357,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309062,
+      "num": 173412,
+      "word": "7月份我的同事一个个消失了",
+      "onboard_time": 1720403718,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 303215,
@@ -1235,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258902,
+      "num": 425482,
+      "word": "福宝竟然站了1分钟",
+      "onboard_time": 1720403476,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -1368,14 +1456,6 @@
       "word": "1937年7月7日永不能忘",
       "onboard_time": 1720307534,
       "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 233463,
-      "num": 233463,
-      "word": "美方栽赃中国后露馅改证据又被发现",
-      "onboard_time": 1720402338,
-      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -1595,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194160,
+      "num": 167479,
+      "word": "毕业寄行李把蟑螂一起寄回家了",
+      "onboard_time": 1720405519,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194031,
       "num": 208777,
       "word": "LNG战胜NIP",
@@ -1811,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179327,
-      "num": 179327,
-      "word": "向佐感谢我家小两口圆满了他和郭碧婷",
-      "onboard_time": 1720402818,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179015,
       "num": 179015,
       "word": "长相思全员营业",
@@ -1971,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165324,
+      "num": 165324,
+      "word": "孙丞潇说我最近忙得很",
+      "onboard_time": 1720404079,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164816,
       "num": 164816,
       "word": "美洲杯",
@@ -2105,6 +2193,14 @@
       "onboard_time": 1720363820,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150001,
+      "num": 150001,
+      "word": "汪苏泷你好好唱歌演戏我另有人选",
+      "onboard_time": 1720405458,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 148610,
@@ -2387,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "张艺兴手语版ALegend",
+      "onboard_time": 1720405879,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128094,
       "num": 128094,
       "word": "为什么人们越来越离不开情绪价值",
@@ -2617,6 +2721,14 @@
       "onboard_time": 1720337656,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112463,
+      "num": 112463,
+      "word": "当甄嬛的照片被AI扩展之后",
+      "onboard_time": 1720405696,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 112355,
@@ -2851,6 +2963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98059,
+      "num": 98059,
+      "word": "央行将开展临时正回购或逆回购操作",
+      "onboard_time": 1720403897,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96604,
       "num": 96604,
       "word": "凯格尔运动",
@@ -2955,12 +3075,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91394,
+      "num": 91394,
+      "word": "门罗",
+      "onboard_time": 1720404678,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 91253,
       "num": 91253,
       "word": "当时人和熊都很紧张",
       "onboard_time": 1720402097,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91078,
+      "num": 91078,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90686,
@@ -3569,6 +3705,14 @@
       "onboard_time": 1720353618,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12828,
+      "num": 86616,
+      "word": "紫色网球场也太出片了吧",
+      "onboard_time": 1720404978,
+      "rank": 48,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 11418,

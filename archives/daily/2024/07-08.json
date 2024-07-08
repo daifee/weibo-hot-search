@@ -1,14 +1,22 @@
 {
   "startTime": 1720369333814,
-  "endTime": 1720403138399,
+  "endTime": 1720406258348,
   "band_list": [
     {
       "raw_hot": 1675766,
-      "num": 185473,
+      "num": 186417,
       "word": "月薪3500双休想辞职了",
       "onboard_time": 1720399159,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1295788,
+      "num": 1295788,
+      "word": "起猛了在苹果官网看到小岳岳了",
+      "onboard_time": 1720402638,
+      "rank": 6,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 1152088,
@@ -35,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 865655,
+      "num": 865655,
+      "word": "美方栽赃中国后露馅改证据又被发现",
+      "onboard_time": 1720402338,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 821428,
       "num": 821428,
       "word": "郑州暴雨",
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772379,
+      "num": 183760,
+      "word": "月租8800元还是租到了有毒串串房",
+      "onboard_time": 1720403836,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770448,
       "num": 770448,
       "word": "全网医生要求把4分还给小学生",
@@ -73,6 +97,14 @@
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628355,
+      "num": 628355,
+      "word": "iPhone15Pro以上机型将支持全新Siri",
+      "onboard_time": 1720403658,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 624319,
@@ -105,6 +137,14 @@
       "onboard_time": 1720363579,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546004,
+      "num": 546004,
+      "word": "向佐感谢我家小两口圆满了他和郭碧婷",
+      "onboard_time": 1720402818,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 543165,
@@ -147,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481562,
-      "num": 481562,
-      "word": "起猛了在苹果官网看到小岳岳了",
-      "onboard_time": 1720402638,
+      "raw_hot": 466397,
+      "num": 466397,
+      "word": "A股",
+      "onboard_time": 1720403537,
       "rank": 6,
-      "category": "数码,艺人"
+      "category": "财经"
+    },
+    {
+      "raw_hot": 449827,
+      "num": 181604,
+      "word": "谁发明的湿巾抓蟑螂",
+      "onboard_time": 1720402037,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 444176,
@@ -161,14 +209,6 @@
       "onboard_time": 1720356019,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 443780,
-      "num": 181604,
-      "word": "谁发明的湿巾抓蟑螂",
-      "onboard_time": 1720402037,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 440293,
@@ -187,6 +227,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 432012,
+      "num": 432012,
+      "word": "外孙女爆改93岁外婆秒变多巴胺少女",
+      "onboard_time": 1720403897,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422355,
       "num": 422355,
       "word": "洞庭湖决口已封堵超129米",
@@ -203,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389174,
+      "num": 389174,
+      "word": "洞庭湖决口已封堵135.5米",
+      "onboard_time": 1720403236,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376720,
+      "num": 376720,
+      "word": "长相思2预告",
+      "onboard_time": 1720403897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376665,
       "num": 376665,
       "word": "洞庭湖决堤被冲毁的家和生计",
@@ -217,6 +281,14 @@
       "onboard_time": 1720370894,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "李宇春发文谢谢小瓷花",
+      "onboard_time": 1720404378,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 348058,
@@ -243,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309062,
+      "num": 173412,
+      "word": "7月份我的同事一个个消失了",
+      "onboard_time": 1720403718,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275533,
       "num": 275533,
       "word": "默杀 王圣迪已是nextlevel",
@@ -257,6 +337,14 @@
       "onboard_time": 1720394655,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258902,
+      "num": 425482,
+      "word": "福宝竟然站了1分钟",
+      "onboard_time": 1720403476,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254139,
@@ -281,14 +369,6 @@
       "onboard_time": 1720368077,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233463,
-      "num": 233463,
-      "word": "美方栽赃中国后露馅改证据又被发现",
-      "onboard_time": 1720402338,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 218815,
@@ -363,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194160,
+      "num": 167479,
+      "word": "毕业寄行李把蟑螂一起寄回家了",
+      "onboard_time": 1720405519,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192135,
       "num": 171287,
       "word": "Faker大满贯",
@@ -401,14 +489,6 @@
       "onboard_time": 1720400958,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179327,
-      "num": 179327,
-      "word": "向佐感谢我家小两口圆满了他和郭碧婷",
-      "onboard_time": 1720402818,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 172857,
@@ -459,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165324,
+      "num": 165324,
+      "word": "孙丞潇说我最近忙得很",
+      "onboard_time": 1720404079,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163689,
       "num": 147074,
       "word": "BP完了采访教练思路",
@@ -505,6 +593,14 @@
       "onboard_time": 1720371256,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150001,
+      "num": 150001,
+      "word": "汪苏泷你好好唱歌演戏我另有人选",
+      "onboard_time": 1720405458,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 149792,
@@ -595,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "张艺兴手语版ALegend",
+      "onboard_time": 1720405879,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118208,
       "num": 118208,
       "word": "精神紧张也能引发过敏",
@@ -617,6 +721,14 @@
       "onboard_time": 1720390272,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112463,
+      "num": 112463,
+      "word": "当甄嬛的照片被AI扩展之后",
+      "onboard_time": 1720405696,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 111840,
@@ -691,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98059,
+      "num": 98059,
+      "word": "央行将开展临时正回购或逆回购操作",
+      "onboard_time": 1720403897,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96604,
       "num": 96604,
       "word": "凯格尔运动",
@@ -739,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91394,
+      "num": 91394,
+      "word": "门罗",
+      "onboard_time": 1720404678,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 91253,
       "num": 91253,
       "word": "当时人和熊都很紧张",
       "onboard_time": 1720402097,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91078,
+      "num": 91078,
+      "word": "美政府背景黑客攻击中国4500万次",
+      "onboard_time": 1720403177,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88372,
@@ -1033,6 +1169,14 @@
       "onboard_time": 1720370776,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12828,
+      "num": 86616,
+      "word": "紫色网球场也太出片了吧",
+      "onboard_time": 1720404978,
+      "rank": 48,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 11418,
