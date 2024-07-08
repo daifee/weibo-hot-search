@@ -1,0 +1,410 @@
+{
+  "runTime": 1720427110548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 44011,
+        "num": 1063629,
+        "word": "美政府大规模监听行动已进入AI时代",
+        "onboard_time": 1720406838,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3087677,
+        "num": 1026783,
+        "word": "江苏扬州地震",
+        "onboard_time": 1720426459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156945,
+        "num": 987356,
+        "word": "高校通知书花式上新就等签收了",
+        "onboard_time": 1720424839,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2023152,
+        "num": 987343,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 987062,
+        "num": 987062,
+        "word": "中储粮",
+        "onboard_time": 1720407858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737064,
+        "num": 737064,
+        "word": "南京震感",
+        "onboard_time": 1720426639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665307,
+        "num": 665307,
+        "word": "北大教授反驳中国房子过剩",
+        "onboard_time": 1720421900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625978,
+        "num": 625978,
+        "word": "捡到手机要价5000元被判赔8500元",
+        "onboard_time": 1720423158,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494927,
+        "num": 494927,
+        "word": "包头市民打12345要求重新组织高考",
+        "onboard_time": 1720419260,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 41446,
+        "num": 486296,
+        "word": "罐车混装暴露监督执法缺位",
+        "onboard_time": 1720425618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477718,
+        "num": 477718,
+        "word": "刘涛的屏保是Henry",
+        "onboard_time": 1720425918,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476044,
+        "num": 476044,
+        "word": "刘亦菲参加玫瑰的故事剧集座谈会",
+        "onboard_time": 1720424600,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408549,
+        "num": 408549,
+        "word": "吴谨言密室大逃脱路透",
+        "onboard_time": 1720425799,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401216,
+        "num": 401216,
+        "word": "Mic迈扣账号被封禁",
+        "onboard_time": 1720422679,
+        "rank": 13,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 389935,
+        "num": 389935,
+        "word": "美国一女生在宿舍内遭流浪汉性侵",
+        "onboard_time": 1720413680,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380677,
+        "num": 380677,
+        "word": "常州震感",
+        "onboard_time": 1720426698,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367233,
+        "num": 367233,
+        "word": "追踪仅退款的人",
+        "onboard_time": 1720414639,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353674,
+        "num": 353674,
+        "word": "第一次见把剧名拍出来了",
+        "onboard_time": 1720417459,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334704,
+        "num": 334704,
+        "word": "王一博工作室周一放饭",
+        "onboard_time": 1720423758,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306793,
+        "num": 306793,
+        "word": "杨紫的台词被各地文旅用上了",
+        "onboard_time": 1720420819,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 678757,
+        "num": 303303,
+        "word": "长期熬夜真的会导致生理损伤",
+        "onboard_time": 1720424958,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279198,
+        "num": 279198,
+        "word": "中国移动被指资费升级容易降级难",
+        "onboard_time": 1720414820,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274586,
+        "num": 274586,
+        "word": "仙剑奇侠传29周年",
+        "onboard_time": 1720425559,
+        "rank": 22,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 258684,
+        "num": 258684,
+        "word": "女子过度防晒得软骨病",
+        "onboard_time": 1720409539,
+        "rank": 23,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 244759,
+        "num": 244759,
+        "word": "A股上涨个股不足500只",
+        "onboard_time": 1720426220,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244407,
+        "num": 244407,
+        "word": "时代少年团hi6录制拍立得合照",
+        "onboard_time": 1720426038,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233529,
+        "num": 233529,
+        "word": "结婚生育率下降或因经济增长速度太快",
+        "onboard_time": 1720414699,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219920,
+        "num": 219920,
+        "word": "张雨绮拔了一个脚指甲",
+        "onboard_time": 1720418121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208824,
+        "num": 208824,
+        "word": "我是O型血让我给涂山璟捐",
+        "onboard_time": 1720420339,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26016,
+        "num": 192532,
+        "word": "西班牙抗议者向游客喷水",
+        "onboard_time": 1720426518,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183169,
+        "num": 183169,
+        "word": "洞庭湖第二道防线土在渗水变得松软",
+        "onboard_time": 1720426159,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177047,
+        "num": 177047,
+        "word": "矮一公分都演不出这个效果",
+        "onboard_time": 1720423758,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174195,
+        "num": 174195,
+        "word": "马丽就是沈腾最好的医美",
+        "onboard_time": 1720422858,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "杨紫包场长相思2",
+        "onboard_time": 1720423699,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158094,
+        "num": 158094,
+        "word": "教育局回应女子笔面试第一被判无效",
+        "onboard_time": 1720409659,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152121,
+        "num": 152121,
+        "word": "gidle回归直播",
+        "onboard_time": 1720419980,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144671,
+        "num": 144671,
+        "word": "郭晓婷特别好的朋友是刘诗诗",
+        "onboard_time": 1720422980,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138289,
+        "num": 138289,
+        "word": "女子面试瑞幸被打负面标签",
+        "onboard_time": 1720427059,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 137473,
+        "word": "邓为叶十七新剧照",
+        "onboard_time": 1720426879,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137147,
+        "num": 137147,
+        "word": "中储粮食用油品牌回应",
+        "onboard_time": 1720418180,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132806,
+        "num": 132806,
+        "word": "长相思",
+        "onboard_time": 1720413981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131877,
+        "num": 131877,
+        "word": "苏醒为老婆庆生",
+        "onboard_time": 1720422261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415096,
+        "num": 131482,
+        "word": "985毕业生衣服上印简历海投一路",
+        "onboard_time": 1720425680,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125867,
+        "num": 130027,
+        "word": "王一博北京机场出发",
+        "onboard_time": 1720425500,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129784,
+        "num": 129784,
+        "word": "化工油食用油混装无异于投毒",
+        "onboard_time": 1720418300,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127117,
+        "num": 127117,
+        "word": "人民网评罐车运输油罐混用",
+        "onboard_time": 1720422858,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 124986,
+        "word": "女子退休后健身半年被刷走146万",
+        "onboard_time": 1720414699,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124628,
+        "num": 124628,
+        "word": "李宇春无价之姐终审胜诉",
+        "onboard_time": 1720409238,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "苹果中国销量衰退被小米反超",
+        "onboard_time": 1720426518,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119874,
+        "num": 119874,
+        "word": "为什么超市收银员不能坐着上班",
+        "onboard_time": 1720418781,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见匈牙利总理#"
+    }
+  }
+}
