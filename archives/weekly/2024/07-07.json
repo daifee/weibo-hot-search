@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720480783623,
+  "endTime": 1720481688017,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 603339,
-      "num": 304910,
+      "num": 319415,
       "word": "女子睡凉席双腿被螨虫咬满红斑",
       "onboard_time": 1720427300,
       "rank": 23,
@@ -907,6 +907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 542901,
+      "num": 542901,
+      "word": "官方回应网传山东故县村大坝决堤",
+      "onboard_time": 1720458254,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537446,
       "num": 537446,
       "word": "12345回应市民要求重新组织高考",
@@ -1035,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 463124,
+      "num": 463124,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460426,
       "num": 156051,
       "word": "涂山璟怀疑儿子身世",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1720443380,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446835,
-      "num": 446835,
-      "word": "官方回应网传山东故县村大坝决堤",
-      "onboard_time": 1720458254,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446684,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1720345097,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 384949,
-      "num": 438564,
-      "word": "煤油罐车装的食用油流向了哪里",
-      "onboard_time": 1720449020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382754,
@@ -1699,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 340872,
+      "num": 101335,
+      "word": "三年不联系自动删好友的微信功能",
+      "onboard_time": 1720480814,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339276,
       "num": 209627,
       "word": "美国超市疑似买到橡胶水果",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1720274718,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333670,
+      "num": 333670,
+      "word": "她心里的人不是我",
+      "onboard_time": 1720466591,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 332360,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1720325358,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326406,
+      "num": 146817,
+      "word": "原来早睡真的能解决生活中大部分问题",
+      "onboard_time": 1720453698,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 325628,
@@ -2115,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265806,
-      "num": 146817,
-      "word": "原来早睡真的能解决生活中大部分问题",
-      "onboard_time": 1720453698,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 265514,
       "num": 265514,
       "word": "张卫健还演过这么抽象的电视剧",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1720279280,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255087,
-      "num": 255087,
-      "word": "她心里的人不是我",
-      "onboard_time": 1720466591,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 254139,
@@ -2435,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223997,
+      "num": 98611,
+      "word": "三伏天气血不足最直观的感受",
+      "onboard_time": 1720481595,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223503,
       "num": 223503,
       "word": "少年白马你倒是定档啊",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1720371854,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212521,
+      "num": 97851,
+      "word": "首批来北京特种兵的人已进入骨科",
+      "onboard_time": 1720469111,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212019,
@@ -3081,14 +3105,6 @@
       "onboard_time": 1720408278,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183835,
-      "num": 93643,
-      "word": "首批来北京特种兵的人已进入骨科",
-      "onboard_time": 1720469111,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183683,
@@ -4091,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134666,
+      "num": 93217,
+      "word": "和王一博对戏的感受",
+      "onboard_time": 1720481236,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134647,
       "num": 134647,
       "word": "成毅白发适配度拉满",
@@ -4107,6 +4131,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 133734,
+      "num": 133734,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133596,
       "num": 133596,
       "word": "油罐车",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1720397298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133415,
+      "num": 95290,
+      "word": "瘦了之后最大的感受是什么",
+      "onboard_time": 1720480814,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 133324,
@@ -4363,6 +4403,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 122361,
+      "num": 94549,
+      "word": "小夭是饭桌上唯一的清汤大老爷",
+      "onboard_time": 1720480936,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121875,
       "num": 121875,
       "word": "王星越说仁科是坏男人",
@@ -4496,14 +4544,6 @@
       "word": "辉子直播",
       "onboard_time": 1720448360,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115358,
-      "num": 115358,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -5123,6 +5163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81499,
+      "num": 202003,
+      "word": "化工油污染过的食用油对人体有何伤害",
+      "onboard_time": 1720480334,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81018,
       "num": 81018,
       "word": "宛平城墙的弹痕是先辈血泪的印记",
@@ -5217,6 +5265,14 @@
       "onboard_time": 1720367057,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 67194,
+      "num": 67194,
+      "word": "心疼裴文宣",
+      "onboard_time": 1720480155,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 66528,
@@ -5379,6 +5435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58214,
+      "num": 58214,
+      "word": "鱼身上这2个地方千万别吃",
+      "onboard_time": 1720480515,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57282,
       "num": 57282,
       "word": "JackeyLove四杀",
@@ -5435,20 +5499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54434,
+      "num": 54434,
+      "word": "无痛分娩国内普及率只有约30%",
+      "onboard_time": 1720481475,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 53331,
       "num": 53331,
       "word": "为什么不ban兰博",
       "onboard_time": 1720376352,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52714,
-      "num": 176374,
-      "word": "化工油污染过的食用油对人体有何伤害",
-      "onboard_time": 1720480334,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52475,
@@ -5465,6 +5529,14 @@
       "onboard_time": 1720473551,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 51446,
+      "num": 51446,
+      "word": "KPL发布梦之队公告",
+      "onboard_time": 1720480515,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 50901,
@@ -5492,7 +5564,7 @@
     },
     {
       "raw_hot": 49975,
-      "num": 377156,
+      "num": 394253,
       "word": "珠江口东西两岸掀起串门热",
       "onboard_time": 1720442298,
       "rank": 15,
@@ -5539,20 +5611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47088,
+      "num": 47088,
+      "word": "李荣浩演唱会目送杨丞琳离场",
+      "onboard_time": 1720476672,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46881,
       "num": 46881,
       "word": "你在奥运会上的对手刚刚小学毕业",
       "onboard_time": 1720302911,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45876,
-      "num": 45876,
-      "word": "鱼身上这2个地方千万别吃",
-      "onboard_time": 1720480515,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 45661,
@@ -5627,14 +5699,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 43531,
-      "num": 43531,
-      "word": "李荣浩演唱会目送杨丞琳离场",
-      "onboard_time": 1720476672,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 43041,
       "num": 43041,
       "word": "视频回顾洞庭湖决口合龙瞬间",
@@ -5651,14 +5715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40599,
-      "num": 40599,
-      "word": "KPL发布梦之队公告",
-      "onboard_time": 1720480515,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 40567,
       "num": 158518,
       "word": "韩政府决定对实习住院医师不予处分",
@@ -5673,14 +5729,6 @@
       "onboard_time": 1720277540,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40215,
-      "num": 40215,
-      "word": "心疼裴文宣",
-      "onboard_time": 1720480155,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 38854,
