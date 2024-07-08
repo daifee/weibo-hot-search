@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720427905476,
+  "endTime": 1720430536798,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -289,6 +289,14 @@
       "onboard_time": 1720274479,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1724729,
+      "num": 854317,
+      "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
+      "onboard_time": 1720428739,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1711566,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1720014980,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 946685,
+      "num": 788342,
+      "word": "女子面试瑞幸被打负面标签",
+      "onboard_time": 1720427059,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946583,
@@ -3107,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603339,
+      "num": 247452,
+      "word": "女子睡凉席双腿被螨虫咬满红斑",
+      "onboard_time": 1720427300,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599965,
       "num": 599965,
       "word": "外国小伙忘拔钥匙一天下来车仍在原地",
@@ -3288,6 +3312,14 @@
       "word": "恋爱兄妹",
       "onboard_time": 1719759380,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 583217,
+      "num": 583217,
+      "word": "刘涛的屏保是Henry",
+      "onboard_time": 1720425918,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -3713,14 +3745,6 @@
       "onboard_time": 1720161376,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546616,
-      "num": 546616,
-      "word": "刘涛的屏保是Henry",
-      "onboard_time": 1720425918,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 546120,
@@ -4313,6 +4337,14 @@
       "onboard_time": 1719804078,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488712,
+      "num": 488712,
+      "word": "张凌赫回复Gucci官方",
+      "onboard_time": 1720428499,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 487839,
@@ -7395,6 +7427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301406,
+      "num": 301406,
+      "word": "gidle回归直播",
+      "onboard_time": 1720419980,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300545,
       "num": 237501,
       "word": "惊天魔盗团3北美定档",
@@ -7971,6 +8011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275064,
+      "num": 275064,
+      "word": "A股上涨个股不足500只",
+      "onboard_time": 1720426220,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 274907,
       "num": 274907,
       "word": "BLG",
@@ -8169,14 +8217,6 @@
       "onboard_time": 1719753438,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263250,
-      "num": 263250,
-      "word": "A股上涨个股不足500只",
-      "onboard_time": 1720426220,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 262713,
@@ -8499,14 +8539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249325,
-      "num": 249325,
-      "word": "女子面试瑞幸被打负面标签",
-      "onboard_time": 1720427059,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249301,
       "num": 301327,
       "word": "专家称心肺复苏任重道远",
@@ -8545,14 +8577,6 @@
       "onboard_time": 1720144397,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247452,
-      "num": 247452,
-      "word": "女子睡凉席双腿被螨虫咬满红斑",
-      "onboard_time": 1720427300,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247417,
@@ -9825,6 +9849,14 @@
       "onboard_time": 1720186820,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210668,
+      "num": 210668,
+      "word": "苹果中国销量衰退被小米反超",
+      "onboard_time": 1720426518,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 210664,
@@ -11227,14 +11259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191845,
-      "num": 191845,
-      "word": "gidle回归直播",
-      "onboard_time": 1720419980,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191765,
       "num": 191765,
       "word": "小狗知道要去医院脸都垮了",
@@ -11833,6 +11857,14 @@
       "onboard_time": 1720146557,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184372,
+      "num": 184372,
+      "word": "过敏太严重被选中当科研素材了",
+      "onboard_time": 1720429221,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 184360,
@@ -12515,6 +12547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174795,
+      "num": 174795,
+      "word": "菲军舰严重损害仁爱礁珊瑚礁生态",
+      "onboard_time": 1720430179,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174780,
       "num": 174780,
       "word": "icon力挺JackeyLove",
@@ -12625,6 +12665,14 @@
       "onboard_time": 1720367777,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172700,
+      "num": 172700,
+      "word": "绘旅人人间画外",
+      "onboard_time": 1720430238,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 172581,
@@ -13785,14 +13833,6 @@
       "onboard_time": 1720081578,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156305,
-      "num": 156305,
-      "word": "苹果中国销量衰退被小米反超",
-      "onboard_time": 1720426518,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 156112,
@@ -15915,6 +15955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132481,
+      "num": 132481,
+      "word": "张艺兴李晨眼前一黑又一黑",
+      "onboard_time": 1720429400,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132387,
       "num": 132387,
       "word": "TES电竞世界杯首秀",
@@ -16539,6 +16587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126441,
+      "num": 126441,
+      "word": "五月天 谢谢深圳",
+      "onboard_time": 1720428860,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126414,
       "num": 126414,
       "word": "何浩楠 把禾伙人种地星球工位端了",
@@ -16835,6 +16891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122784,
+      "num": 122784,
+      "word": "女生乘地铁被提醒有人偷拍大腿",
+      "onboard_time": 1720429640,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122719,
       "num": 169085,
       "word": "男子砸死疣鼻天鹅被刑拘",
@@ -16961,6 +17025,14 @@
       "onboard_time": 1720271778,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121389,
+      "num": 121389,
+      "word": "泰妍回归",
+      "onboard_time": 1720430480,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 121368,
@@ -18081,6 +18153,14 @@
       "onboard_time": 1720134615,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108568,
+      "num": 108568,
+      "word": "杨紫工作室好皮",
+      "onboard_time": 1720429699,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108559,
@@ -21043,6 +21123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40181,
+      "num": 441853,
+      "word": "专家解读化工油食用油混装危害",
+      "onboard_time": 1720429221,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 39563,
       "num": 55337,
       "word": "发现很多人都是精装朋友圈毛坯人生",
@@ -22544,6 +22632,9 @@
     },
     {
       "word": "#习近平会见匈牙利总理#"
+    },
+    {
+      "word": "#上海合作组织是新型国际关系和区域合作的典范#"
     }
   ]
 }
