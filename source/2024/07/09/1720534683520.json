@@ -1,0 +1,410 @@
+{
+  "runTime": 1720534683520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312352,
+        "num": 1312352,
+        "word": "729声明",
+        "onboard_time": 1720531219,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1256275,
+        "num": 1256275,
+        "word": "防风邶下线",
+        "onboard_time": 1720529839,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26021,
+        "num": 749226,
+        "word": "新时代全面深化改革的宝贵经验",
+        "onboard_time": 1720531637,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651328,
+        "num": 651328,
+        "word": "中储粮油厂门口油罐车司机称没活干",
+        "onboard_time": 1720530439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634711,
+        "num": 634711,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587076,
+        "num": 587076,
+        "word": "国务院食安办回应油罐车事件",
+        "onboard_time": 1720523178,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554053,
+        "num": 554053,
+        "word": "小夭在海边等了相柳7日",
+        "onboard_time": 1720530738,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404116,
+        "num": 404116,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 7,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 423106,
+        "num": 402947,
+        "word": "玱玹被爷爷捂嘴的一生",
+        "onboard_time": 1720530857,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 399366,
+        "word": "陈雨菲晒奥运备战视频",
+        "onboard_time": 1720533799,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1327471,
+        "num": 398169,
+        "word": "金龙鱼再回应油罐车事件",
+        "onboard_time": 1720520058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099564,
+        "num": 393593,
+        "word": "鲁花回应油罐车事件",
+        "onboard_time": 1720515739,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440260,
+        "num": 389875,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420839,
+        "num": 388967,
+        "word": "鹿晗工作室是在暗示四巡地点吗",
+        "onboard_time": 1720527558,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386450,
+        "num": 386450,
+        "word": "卢昱晓父母都是医生",
+        "onboard_time": 1720529240,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346724,
+        "num": 346724,
+        "word": "涂山璟滴血验亲喜提警方科普",
+        "onboard_time": 1720523058,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64078,
+        "num": 340437,
+        "word": "现在车企还能这么和谐么",
+        "onboard_time": 1720531519,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339437,
+        "num": 339437,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299214,
+        "num": 299214,
+        "word": "金牛座为什么难以亲近",
+        "onboard_time": 1720532118,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271434,
+        "num": 271434,
+        "word": "两个账号同一航班价格相差1300",
+        "onboard_time": 1720514180,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739716,
+        "num": 269078,
+        "word": "才25岁就要被介绍40岁的男孩",
+        "onboard_time": 1720527318,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733463,
+        "num": 265427,
+        "word": "研究发现月经用品中含有毒金属",
+        "onboard_time": 1720528938,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 675400,
+        "num": 262440,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 380754,
+        "num": 257813,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255391,
+        "num": 255391,
+        "word": "长相思热度",
+        "onboard_time": 1720530018,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248155,
+        "num": 248155,
+        "word": "孙莉晒三个孩子近况",
+        "onboard_time": 1720526537,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228933,
+        "num": 228933,
+        "word": "徐志胜 本来上班就烦",
+        "onboard_time": 1720522638,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221361,
+        "num": 221361,
+        "word": "巴黎奥运会韩国代表团制服",
+        "onboard_time": 1720533858,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208431,
+        "num": 208431,
+        "word": "阴阳师 祸津神",
+        "onboard_time": 1720532298,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200379,
+        "num": 200379,
+        "word": "傅园慧要去浙大当老师了",
+        "onboard_time": 1720514119,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193566,
+        "num": 193566,
+        "word": "银行回应含隐私的用户信息当废品卖",
+        "onboard_time": 1720530018,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184722,
+        "num": 184722,
+        "word": "张拿铁带着爸爸干吃播",
+        "onboard_time": 1720532599,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176510,
+        "num": 176510,
+        "word": "章若楠白敬亭营业了",
+        "onboard_time": 1720531578,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172656,
+        "num": 172656,
+        "word": "重生之我是江浙沪独女",
+        "onboard_time": 1720517661,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172589,
+        "num": 172589,
+        "word": "胡姬花",
+        "onboard_time": 1720520419,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162453,
+        "num": 162453,
+        "word": "华晨宇演唱会日出场航拍",
+        "onboard_time": 1720531158,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158266,
+        "num": 158266,
+        "word": "张凌赫和裴文宣合照",
+        "onboard_time": 1720533858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "金龙鱼声明",
+        "onboard_time": 1720526958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146883,
+        "num": 146883,
+        "word": "吴谨言短发白裙",
+        "onboard_time": 1720534098,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141419,
+        "num": 141419,
+        "word": "微软回应中国员工必须用iPhone",
+        "onboard_time": 1720533379,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136780,
+        "num": 136780,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130276,
+        "num": 130276,
+        "word": "张贤胜公开退团原因",
+        "onboard_time": 1720525997,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129312,
+        "num": 129312,
+        "word": "白敬亭P了两个白敬亭",
+        "onboard_time": 1720524677,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 127388,
+        "word": "巴黎奥运看国乒决赛不用熬夜",
+        "onboard_time": 1720527857,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123572,
+        "num": 123572,
+        "word": "你好星期六评分",
+        "onboard_time": 1720517838,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120764,
+        "num": 120764,
+        "word": "女子花18.7元买了2颗荔枝尝鲜",
+        "onboard_time": 1720513458,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114547,
+        "num": 114547,
+        "word": "韩国流行的富人区下车感",
+        "onboard_time": 1720519278,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112549,
+        "num": 112549,
+        "word": "虞书欣拍的黄晓明梦回许文强",
+        "onboard_time": 1720532538,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110350,
+        "num": 110350,
+        "word": "油罐车司机称客户有要求才会洗",
+        "onboard_time": 1720534339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 109508,
+        "word": "恭喜乌鸦哥上线",
+        "onboard_time": 1720528338,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}
