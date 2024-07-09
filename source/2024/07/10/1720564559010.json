@@ -1,0 +1,410 @@
+{
+  "runTime": 1720564559010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 302195,
+        "num": 302195,
+        "word": "西班牙vs法国",
+        "onboard_time": 1720535959,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192344,
+        "num": 192344,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17437,
+        "num": 191094,
+        "word": "伟大的历史变革",
+        "onboard_time": 1720531460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269410,
+        "num": 190760,
+        "word": "跌200万后女子要卖掉能看西湖的房子",
+        "onboard_time": 1720536620,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 189953,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 149904,
+        "word": "姆巴佩本届欧洲杯首个助攻",
+        "onboard_time": 1720552871,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138968,
+        "num": 138968,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "西班牙2比1法国",
+        "onboard_time": 1720559350,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120440,
+        "num": 120440,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 111886,
+        "num": 111886,
+        "word": "729声明",
+        "onboard_time": 1720531219,
+        "rank": 9,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 221323,
+        "num": 111551,
+        "word": "失踪22年美国登山者遗体被找到",
+        "onboard_time": 1720535120,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121270,
+        "num": 111358,
+        "word": "三只羊在开发自营梅菜扣肉",
+        "onboard_time": 1720547473,
+        "rank": 11,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 111154,
+        "num": 111154,
+        "word": "清华大学博士情侣毕业奔赴祖国中部",
+        "onboard_time": 1720537999,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91797,
+        "num": 91797,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85591,
+        "num": 85591,
+        "word": "长相思戏还没播完番外先出了",
+        "onboard_time": 1720538119,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65752,
+        "num": 65752,
+        "word": "欧洲杯半决赛",
+        "onboard_time": 1720536019,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78305,
+        "num": 65277,
+        "word": "小夭的难堪众人的狂欢",
+        "onboard_time": 1720534819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64342,
+        "num": 64342,
+        "word": "李善均案泄密警察记者被抓",
+        "onboard_time": 1720541237,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73299,
+        "num": 63003,
+        "word": "相柳 ooc",
+        "onboard_time": 1720539678,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57495,
+        "num": 57495,
+        "word": "亚马尔圆月弯刀",
+        "onboard_time": 1720553590,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 57275,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84039,
+        "num": 55744,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59418,
+        "num": 54959,
+        "word": "杜海涛在节目里又cue沈梦辰了",
+        "onboard_time": 1720543095,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58757,
+        "num": 53104,
+        "word": "防风邶下线",
+        "onboard_time": 1720529839,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53002,
+        "num": 53002,
+        "word": "西班牙3分钟2球",
+        "onboard_time": 1720555212,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52963,
+        "num": 52963,
+        "word": "才25岁就要被介绍40岁的男孩",
+        "onboard_time": 1720527318,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48486,
+        "num": 48486,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 47650,
+        "num": 47650,
+        "word": "吉鲁退出法国国家队",
+        "onboard_time": 1720563672,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46894,
+        "num": 46894,
+        "word": "巴黎奥运会韩国代表团制服",
+        "onboard_time": 1720533858,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45288,
+        "num": 45288,
+        "word": "亚马尔世界波",
+        "onboard_time": 1720556231,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44386,
+        "num": 44386,
+        "word": "法国欧洲杯出局",
+        "onboard_time": 1720559350,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43576,
+        "num": 43576,
+        "word": "4个部位出汗多暗示身体有问题",
+        "onboard_time": 1720548013,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42994,
+        "num": 42994,
+        "word": "亚马尔成欧洲杯最年轻进球者",
+        "onboard_time": 1720553590,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39192,
+        "num": 39192,
+        "word": "孙莉晒三个孩子近况",
+        "onboard_time": 1720526537,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39029,
+        "num": 39029,
+        "word": "人死之前为什么会回光返照",
+        "onboard_time": 1720537579,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38989,
+        "num": 38989,
+        "word": "研究发现月经用品中含有毒金属",
+        "onboard_time": 1720528938,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37873,
+        "num": 37873,
+        "word": "朱一龙黄振开",
+        "onboard_time": 1720542856,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35177,
+        "num": 35177,
+        "word": "汤唯素颜生图",
+        "onboard_time": 1720550710,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34186,
+        "num": 34186,
+        "word": "西班牙逆转晋级决赛",
+        "onboard_time": 1720559350,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32841,
+        "num": 32841,
+        "word": "iPhone16系列或将支持40W快充",
+        "onboard_time": 1720537158,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32424,
+        "num": 32424,
+        "word": "欧洲杯最壕的一场比赛来了",
+        "onboard_time": 1720534459,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31234,
+        "num": 31234,
+        "word": "卢昱晓父母都是医生",
+        "onboard_time": 1720529240,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30670,
+        "num": 30670,
+        "word": "夏日整活日记",
+        "onboard_time": 1720545615,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29890,
+        "num": 29890,
+        "word": "西班牙半场2比1法国",
+        "onboard_time": 1720555212,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28451,
+        "num": 28451,
+        "word": "解除封印的姆巴佩",
+        "onboard_time": 1720558331,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28370,
+        "num": 28370,
+        "word": "亚马尔MVP",
+        "onboard_time": 1720561991,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27927,
+        "num": 27927,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27173,
+        "num": 27173,
+        "word": "2024欧洲杯",
+        "onboard_time": 1720556412,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26982,
+        "num": 26982,
+        "word": "张贤胜公开退团原因",
+        "onboard_time": 1720525997,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25602,
+        "num": 26978,
+        "word": "姆巴佩欧洲杯9场仅1球",
+        "onboard_time": 1720564394,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}
