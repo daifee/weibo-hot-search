@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720539285375,
+  "endTime": 1720542298959,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3883,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580791,
+      "num": 273076,
+      "word": "不想结节癌变千万避开这3种蔬菜",
+      "onboard_time": 1720537099,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 580183,
       "num": 580183,
       "word": "外国博主发现了中国人瘦的原因",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1720431980,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535076,
-      "num": 273076,
-      "word": "不想结节癌变千万避开这3种蔬菜",
-      "onboard_time": 1720537099,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 533539,
@@ -5153,6 +5153,14 @@
       "onboard_time": 1719918798,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482926,
+      "num": 446133,
+      "word": "为什么现在电视剧都是1女N男",
+      "onboard_time": 1720537878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 482492,
@@ -6145,6 +6153,14 @@
       "onboard_time": 1719912558,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 435459,
+      "num": 435459,
+      "word": "清华大学博士情侣毕业奔赴祖国中部",
+      "onboard_time": 1720537999,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434978,
@@ -7697,14 +7713,6 @@
       "onboard_time": 1720281498,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350261,
-      "num": 350261,
-      "word": "为什么现在电视剧都是1女N男",
-      "onboard_time": 1720537878,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 350212,
@@ -9273,14 +9281,6 @@
       "onboard_time": 1719798078,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 281183,
-      "num": 281183,
-      "word": "清华大学博士情侣毕业奔赴祖国中部",
-      "onboard_time": 1720537999,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280924,
@@ -16043,6 +16043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158771,
+      "num": 126149,
+      "word": "李善均案泄密警察记者被抓",
+      "onboard_time": 1720541237,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158636,
       "num": 158636,
       "word": "王俊凯高脚杯喝奶",
@@ -16729,6 +16737,14 @@
       "onboard_time": 1720063758,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152106,
+      "num": 123774,
+      "word": "相柳 ooc",
+      "onboard_time": 1720539678,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 152101,
@@ -21908,7 +21924,7 @@
     },
     {
       "raw_hot": 103008,
-      "num": 103008,
+      "num": 103555,
       "word": "billboard评选的最佳KPOP专辑",
       "onboard_time": 1720537820,
       "rank": 49,
@@ -23147,6 +23163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74848,
+      "num": 103680,
+      "word": "钟楚曦金色吊带裙",
+      "onboard_time": 1720541717,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74531,
       "num": 204841,
       "word": "网游虚假交易诈骗套路有多深",
@@ -24259,6 +24283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48449,
+      "num": 103376,
+      "word": "周深贵阳家乡场排面",
+      "onboard_time": 1720542196,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48411,
       "num": 243406,
       "word": "95岁抗美援朝老兵与老伴补拍结婚照",
@@ -24273,6 +24305,14 @@
       "onboard_time": 1719808402,
       "rank": 16,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 47926,
+      "num": 103355,
+      "word": "猫猫摸完后居然会按开心",
+      "onboard_time": 1720542196,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 47904,
@@ -25953,6 +25993,14 @@
       "onboard_time": 1720122131,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14763,
+      "num": 397763,
+      "word": "咋没人告诉我尼山也这么出片",
+      "onboard_time": 1720541237,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 14659,
