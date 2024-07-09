@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720493206734,
+  "endTime": 1720495365297,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -243,6 +243,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 1118769,
+      "num": 248798,
+      "word": "女生小腹一侧突然疼痛千万别忽视",
+      "onboard_time": 1720492878,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1100610,
       "num": 694857,
       "word": "Jennie疑似抽烟",
@@ -297,6 +305,14 @@
       "onboard_time": 1720351519,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1014508,
+      "num": 1014508,
+      "word": "仅退款动了谁的奶酪",
+      "onboard_time": 1720492878,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1000161,
@@ -451,8 +467,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 843026,
-      "num": 843026,
+      "raw_hot": 846647,
+      "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
       "onboard_time": 1720491616,
       "rank": 4,
@@ -600,6 +616,22 @@
       "word": "时代少年团方已报警",
       "onboard_time": 1720398797,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 758330,
+      "num": 758330,
+      "word": "廊坊市监局回应化工油食用油混装事件",
+      "onboard_time": 1720490837,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729469,
+      "num": 729469,
+      "word": "周鸿祎称不认识杨幂",
+      "onboard_time": 1720492816,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1027,16 +1059,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538911,
-      "num": 598205,
-      "word": "廊坊市监局回应化工油食用油混装事件",
-      "onboard_time": 1720490837,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538674,
-      "num": 538674,
+      "num": 629326,
       "word": "做教师的子女是一种什么体验",
       "onboard_time": 1720489219,
       "rank": 37,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1720428499,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481833,
-      "num": 248798,
-      "word": "女生小腹一侧突然疼痛千万别忽视",
-      "onboard_time": 1720492878,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 480305,
@@ -1483,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412772,
+      "num": 412772,
+      "word": "唐朝诡事录之西行定档0718",
+      "onboard_time": 1720492578,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411258,
       "num": 411258,
       "word": "白桃星座",
@@ -1795,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353268,
+      "num": 353268,
+      "word": "做完近视手术后还可能再近视",
+      "onboard_time": 1720493118,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 352546,
       "num": 352546,
       "word": "成韩彬发文道歉",
@@ -1987,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328511,
+      "num": 328511,
+      "word": "乌尔善不当导演可以当中医",
+      "onboard_time": 1720493779,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328299,
       "num": 328299,
       "word": "TES对战G2",
@@ -2131,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308321,
-      "num": 239084,
-      "word": "周鸿祎称不认识杨幂",
-      "onboard_time": 1720492816,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307174,
       "num": 307174,
       "word": "张若昀钟楚曦新片演我周一精神状态",
@@ -2251,6 +2283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286176,
+      "num": 286176,
+      "word": "小米第三款车是增程SUV",
+      "onboard_time": 1720494437,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 285862,
       "num": 285862,
       "word": "4739人参加洞庭湖决堤现场救援",
@@ -2339,14 +2379,6 @@
       "category": "游戏,作品衍生"
     },
     {
-      "raw_hot": 273455,
-      "num": 236855,
-      "word": "唐朝诡事录之西行定档0718",
-      "onboard_time": 1720492578,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271935,
       "num": 271935,
       "word": "长相思",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1720336818,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264758,
-      "num": 264758,
-      "word": "仅退款动了谁的奶酪",
-      "onboard_time": 1720492878,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264012,
@@ -2456,6 +2480,14 @@
       "word": "扬州地震",
       "onboard_time": 1720274539,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251028,
+      "num": 211795,
+      "word": "殡仪馆距自家仅20余米严重影响生活",
+      "onboard_time": 1720495158,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2609,6 +2641,14 @@
       "onboard_time": 1720411100,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234937,
+      "num": 209131,
+      "word": "电影传说提档",
+      "onboard_time": 1720494437,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 234654,
@@ -2891,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206101,
+      "num": 206101,
+      "word": "杨超越送谢涤葵已老实求放过",
+      "onboard_time": 1720494858,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205986,
       "num": 205986,
       "word": "北海公园偶遇朱珠一家",
@@ -2945,6 +2993,14 @@
       "onboard_time": 1720434259,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204485,
+      "num": 204485,
+      "word": "爸爸在天上急得团团转",
+      "onboard_time": 1720494739,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 203761,
@@ -3209,6 +3265,14 @@
       "onboard_time": 1720409959,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191928,
+      "num": 191928,
+      "word": "错位",
+      "onboard_time": 1720494258,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191765,
@@ -3651,6 +3715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172175,
+      "num": 172175,
+      "word": "老外对中国的开发不足1%",
+      "onboard_time": 1720493477,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171026,
       "num": 171026,
       "word": "美国校园暴力致13岁少女自杀引公愤",
@@ -3827,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165200,
+      "num": 165200,
+      "word": "终于有人把怎么选防晒衣讲明白了",
+      "onboard_time": 1720494138,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165139,
       "num": 165139,
       "word": "男子醉酒被妻子背着摔倒后独自回家",
@@ -3907,6 +3987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161578,
+      "num": 161578,
+      "word": "新浪电影朱一龙同款蓝发",
+      "onboard_time": 1720494558,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161423,
       "num": 161423,
       "word": "刘诗诗经典葫芦耳饰",
@@ -3945,6 +4033,22 @@
       "onboard_time": 1720484839,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159222,
+      "num": 159222,
+      "word": "泡泡玛特你退坑了吗",
+      "onboard_time": 1720494978,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 158886,
+      "num": 158886,
+      "word": "梁靖崑升至世界第二",
+      "onboard_time": 1720492638,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 158821,
@@ -4467,14 +4571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135029,
-      "num": 135029,
-      "word": "梁靖崑升至世界第二",
-      "onboard_time": 1720492638,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134666,
       "num": 93217,
       "word": "和王一博对戏的感受",
@@ -4513,14 +4609,6 @@
       "onboard_time": 1720397298,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133486,
-      "num": 133486,
-      "word": "做完近视手术后还可能再近视",
-      "onboard_time": 1720493118,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 133324,
@@ -4795,12 +4883,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 122041,
+      "num": 122041,
+      "word": "朱一龙新片眼神戏会拉丝",
+      "onboard_time": 1720493419,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121875,
       "num": 121875,
       "word": "王星越说仁科是坏男人",
       "onboard_time": 1720328898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121395,
+      "num": 121395,
+      "word": "眉姐姐回宫了",
+      "onboard_time": 1720495158,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121370,
@@ -5891,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56078,
+      "num": 554121,
+      "word": "尼山有什么",
+      "onboard_time": 1720489998,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 55998,
       "num": 55998,
       "word": "东契奇无缘奥运会",
@@ -5928,6 +6040,14 @@
       "word": "保障食品安全需做好监管把关",
       "onboard_time": 1720432339,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53660,
+      "num": 998947,
+      "word": "文化中国行探寻ChinaTravel火爆密码",
+      "onboard_time": 1720494918,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6001,14 +6121,6 @@
       "onboard_time": 1720288513,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48901,
-      "num": 554121,
-      "word": "尼山有什么",
-      "onboard_time": 1720489998,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 48481,
