@@ -1,0 +1,410 @@
+{
+  "runTime": 1720529605692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952010,
+        "num": 952010,
+        "word": "国务院食安办回应油罐车事件",
+        "onboard_time": 1720523178,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720745,
+        "num": 720745,
+        "word": "涂山璟滴血验亲喜提警方科普",
+        "onboard_time": 1720523058,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19702,
+        "num": 598665,
+        "word": "美情报界编造一黑客组织来抹黑中国",
+        "onboard_time": 1720498459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568438,
+        "num": 568438,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410016,
+        "num": 410016,
+        "word": "两个账号同一航班价格相差1300",
+        "onboard_time": 1720514180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1482313,
+        "num": 407038,
+        "word": "金龙鱼再回应油罐车事件",
+        "onboard_time": 1720520058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711549,
+        "num": 400308,
+        "word": "鲁花回应油罐车事件",
+        "onboard_time": 1720515739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424674,
+        "num": 395862,
+        "word": "徐志胜 本来上班就烦",
+        "onboard_time": 1720522638,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424501,
+        "num": 394555,
+        "word": "白敬亭P了两个白敬亭",
+        "onboard_time": 1720524677,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38659,
+        "num": 387093,
+        "word": "医保药品倒卖案背后的地下黑市",
+        "onboard_time": 1720528218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628237,
+        "num": 381481,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 10,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 510271,
+        "num": 378148,
+        "word": "孙莉晒三个孩子近况",
+        "onboard_time": 1720526537,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491614,
+        "num": 372316,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431499,
+        "num": 366529,
+        "word": "金龙鱼声明",
+        "onboard_time": 1720526958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365519,
+        "num": 365519,
+        "word": "重生之我是江浙沪独女",
+        "onboard_time": 1720517661,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309395,
+        "num": 309395,
+        "word": "国务院彻查油罐车乱象",
+        "onboard_time": 1720524798,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296921,
+        "num": 296921,
+        "word": "胡姬花",
+        "onboard_time": 1720520419,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293072,
+        "num": 293072,
+        "word": "金龙鱼全面自查",
+        "onboard_time": 1720527798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274681,
+        "num": 274681,
+        "word": "卢昱晓父母都是医生",
+        "onboard_time": 1720529240,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262612,
+        "num": 262612,
+        "word": "傅园慧要去浙大当老师了",
+        "onboard_time": 1720514119,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 755982,
+        "num": 262451,
+        "word": "冀E5476W",
+        "onboard_time": 1720518978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721130,
+        "num": 262351,
+        "word": "才25岁就要被介绍40岁的男孩",
+        "onboard_time": 1720527318,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 714603,
+        "num": 261296,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 259778,
+        "num": 259778,
+        "word": "油罐车调查处置结果将及时公布",
+        "onboard_time": 1720524258,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254287,
+        "num": 254287,
+        "word": "鹿晗工作室是在暗示四巡地点吗",
+        "onboard_time": 1720527558,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244641,
+        "num": 244641,
+        "word": "研究发现月经用品中含有毒金属",
+        "onboard_time": 1720528938,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 244183,
+        "num": 244183,
+        "word": "729声工场",
+        "onboard_time": 1720522159,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241442,
+        "num": 241442,
+        "word": "防风邶以我一命换她自由身",
+        "onboard_time": 1720525757,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218790,
+        "num": 218790,
+        "word": "张贤胜公开退团原因",
+        "onboard_time": 1720525997,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213818,
+        "num": 213818,
+        "word": "巴黎奥运看国乒决赛不用熬夜",
+        "onboard_time": 1720527857,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197225,
+        "num": 197225,
+        "word": "女生埋葬小猫后抬头看见小猫云",
+        "onboard_time": 1720525338,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196509,
+        "num": 196509,
+        "word": "黄景瑜演初中生",
+        "onboard_time": 1720521859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179544,
+        "num": 179544,
+        "word": "新京报",
+        "onboard_time": 1720527619,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173421,
+        "num": 173421,
+        "word": "恭喜乌鸦哥上线",
+        "onboard_time": 1720528338,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 170946,
+        "word": "刘亦菲千禧穿搭",
+        "onboard_time": 1720526058,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170179,
+        "num": 170179,
+        "word": "你好星期六评分",
+        "onboard_time": 1720517838,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170168,
+        "num": 170168,
+        "word": "欧洲杯",
+        "onboard_time": 1720528218,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156996,
+        "num": 156996,
+        "word": "阿念只在乎姐姐喜不喜欢",
+        "onboard_time": 1720528879,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154128,
+        "num": 154128,
+        "word": "一号种子孙颖莎",
+        "onboard_time": 1720527498,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153799,
+        "num": 153799,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "油罐车",
+        "onboard_time": 1720527857,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150059,
+        "num": 150059,
+        "word": "杨紫的接剧水平",
+        "onboard_time": 1720528159,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145440,
+        "num": 145440,
+        "word": "女子花18.7元买了2颗荔枝尝鲜",
+        "onboard_time": 1720513458,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140026,
+        "num": 140026,
+        "word": "玱玹醉酒表白",
+        "onboard_time": 1720529299,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129537,
+        "num": 129537,
+        "word": "实地探访中储粮油厂区",
+        "onboard_time": 1720526118,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124980,
+        "num": 124980,
+        "word": "女子隆胸被偷拍发布医院拒道歉",
+        "onboard_time": 1720508838,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132452,
+        "num": 124115,
+        "word": "杨紫发自己的梗图",
+        "onboard_time": 1720523118,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 121885,
+        "word": "猫猫的啃腚",
+        "onboard_time": 1720527619,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117034,
+        "num": 117034,
+        "word": "TF二三代 合作舞台",
+        "onboard_time": 1720523597,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113342,
+        "num": 113342,
+        "word": "金龙鱼",
+        "onboard_time": 1720512318,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

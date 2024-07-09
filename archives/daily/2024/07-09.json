@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720528698067,
+  "endTime": 1720529605692,
   "band_list": [
     {
       "raw_hot": 3450111,
@@ -249,6 +249,14 @@
       "onboard_time": 1720492816,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721130,
+      "num": 268336,
+      "word": "才25岁就要被介绍40岁的男孩",
+      "onboard_time": 1720527318,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 718720,
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475593,
-      "num": 268336,
-      "word": "才25岁就要被介绍40岁的男孩",
-      "onboard_time": 1720527318,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 474068,
       "num": 474068,
       "word": "曾黎裸背",
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 463905,
-      "num": 393319,
+      "num": 394555,
       "word": "白敬亭P了两个白敬亭",
       "onboard_time": 1720524677,
       "rank": 26,
@@ -931,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309395,
+      "num": 309395,
+      "word": "国务院彻查油罐车乱象",
+      "onboard_time": 1720524798,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 299712,
       "num": 299712,
       "word": "无痛分娩国内普及率只有约30%",
@@ -944,6 +952,14 @@
       "word": "12345回应市民要求重新组织高考",
       "onboard_time": 1720431980,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293072,
+      "num": 293072,
+      "word": "金龙鱼全面自查",
+      "onboard_time": 1720527798,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274681,
+      "num": 274681,
+      "word": "卢昱晓父母都是医生",
+      "onboard_time": 1720529240,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274278,
       "num": 274278,
       "word": "729声工场",
@@ -985,14 +1009,6 @@
       "onboard_time": 1720428739,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270849,
-      "num": 270849,
-      "word": "国务院彻查油罐车乱象",
-      "onboard_time": 1720524798,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 268888,
@@ -1019,12 +1035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260246,
-      "num": 260246,
-      "word": "金龙鱼全面自查",
-      "onboard_time": 1720527798,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 254287,
+      "num": 254287,
+      "word": "鹿晗工作室是在暗示四巡地点吗",
+      "onboard_time": 1720527558,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 254218,
@@ -1083,6 +1099,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 244641,
+      "num": 244641,
+      "word": "研究发现月经用品中含有毒金属",
+      "onboard_time": 1720528938,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 243837,
       "num": 224418,
       "word": "Jennie相关吸烟镜头已被删除",
@@ -1107,20 +1131,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241442,
+      "num": 241442,
+      "word": "防风邶以我一命换她自由身",
+      "onboard_time": 1720525757,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "华为Mate60系列销量已过千万",
       "onboard_time": 1720508238,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 237021,
-      "num": 237021,
-      "word": "防风邶以我一命换她自由身",
-      "onboard_time": 1720525757,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 236457,
@@ -1211,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216088,
-      "num": 216088,
-      "word": "鹿晗工作室是在暗示四巡地点吗",
-      "onboard_time": 1720527558,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 214990,
       "num": 194077,
       "word": "檀健次微博点赞闪现毛球",
       "onboard_time": 1720513999,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213818,
+      "num": 213818,
+      "word": "巴黎奥运看国乒决赛不用熬夜",
+      "onboard_time": 1720527857,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 212521,
@@ -1347,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "女生埋葬小猫后抬头看见小猫云",
+      "onboard_time": 1720525338,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196751,
       "num": 196751,
       "word": "戚薇微博是尚雯婕诱捕器",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1720492096,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193048,
-      "num": 193048,
-      "word": "巴黎奥运看国乒决赛不用熬夜",
-      "onboard_time": 1720527857,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 192479,
@@ -1555,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176105,
-      "num": 176105,
-      "word": "女生埋葬小猫后抬头看见小猫云",
-      "onboard_time": 1720525338,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "男子偶遇野生大熊猫卑微求让路",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1720528218,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173421,
+      "num": 173421,
+      "word": "恭喜乌鸦哥上线",
+      "onboard_time": 1720528338,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 172956,
@@ -1771,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156996,
+      "num": 156996,
+      "word": "阿念只在乎姐姐喜不喜欢",
+      "onboard_time": 1720528879,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156785,
       "num": 156785,
       "word": "美国男篮奥运全家福詹姆斯C位",
@@ -1836,7 +1868,7 @@
     },
     {
       "raw_hot": 152708,
-      "num": 133770,
+      "num": 150059,
       "word": "杨紫的接剧水平",
       "onboard_time": 1720528159,
       "rank": 42,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1720464552,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140026,
+      "num": 140026,
+      "word": "玱玹醉酒表白",
+      "onboard_time": 1720529299,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138355,
@@ -2267,14 +2307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122344,
-      "num": 122344,
-      "word": "恭喜乌鸦哥上线",
-      "onboard_time": 1720528338,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 122172,
       "num": 115694,
       "word": "工作室是在预告肖战法国vlog吗",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1720493419,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121885,
+      "num": 121885,
+      "word": "猫猫的啃腚",
+      "onboard_time": 1720527619,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 121370,
@@ -2771,6 +2811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38659,
+      "num": 391395,
+      "word": "医保药品倒卖案背后的地下黑市",
+      "onboard_time": 1720528218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36631,
       "num": 171884,
       "word": "三门峡究竟藏了多少好东西",
@@ -2825,14 +2873,6 @@
       "onboard_time": 1720466051,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28267,
-      "num": 391395,
-      "word": "医保药品倒卖案背后的地下黑市",
-      "onboard_time": 1720528218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28006,
