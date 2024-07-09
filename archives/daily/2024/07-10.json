@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720549572766,
+  "endTime": 1720550327610,
   "band_list": [
     {
       "raw_hot": 900056,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53539,
+      "num": 53539,
+      "word": "三只羊在开发自营梅菜扣肉",
+      "onboard_time": 1720547473,
+      "rank": 19,
+      "category": "美食,互联网"
+    },
+    {
       "raw_hot": 52511,
       "num": 103479,
       "word": "吴谨言短发白裙",
@@ -427,20 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 37902,
-      "num": 37902,
+      "raw_hot": 41779,
+      "num": 41779,
       "word": "4个部位出汗多暗示身体有问题",
       "onboard_time": 1720548013,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 35985,
-      "num": 50338,
-      "word": "三只羊在开发自营梅菜扣肉",
-      "onboard_time": 1720547473,
-      "rank": 19,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 32495,
@@ -459,8 +459,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22039,
-      "num": 28764,
+      "raw_hot": 23401,
+      "num": 30341,
       "word": "BOYNEXTDOOR拍的队友",
       "onboard_time": 1720549152,
       "rank": 44,
