@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720492646280,
+  "endTime": 1720493206734,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 843026,
+      "num": 843026,
+      "word": "暑期档第一部悬疑剧来了",
+      "onboard_time": 1720491616,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830131,
       "num": 292647,
       "word": "呼吸时突然胸部莫名刺痛",
@@ -547,14 +555,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 781243,
-      "num": 781243,
-      "word": "暑期档第一部悬疑剧来了",
-      "onboard_time": 1720491616,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 781234,
       "num": 781234,
       "word": "T1夺冠",
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 706623,
-      "num": 205186,
+      "num": 241414,
       "word": "三伏天气血不足最直观的感受",
       "onboard_time": 1720481595,
       "rank": 23,
@@ -1027,6 +1027,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538911,
+      "num": 598205,
+      "word": "廊坊市监局回应化工油食用油混装事件",
+      "onboard_time": 1720490837,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538674,
+      "num": 538674,
+      "word": "做教师的子女是一种什么体验",
+      "onboard_time": 1720489219,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 537446,
       "num": 537446,
       "word": "12345回应市民要求重新组织高考",
@@ -1099,8 +1115,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481833,
+      "num": 248798,
+      "word": "女生小腹一侧突然疼痛千万别忽视",
+      "onboard_time": 1720492878,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 480305,
-      "num": 201999,
+      "num": 236128,
       "word": "瘦了之后最大的感受是什么",
       "onboard_time": 1720480814,
       "rank": 27,
@@ -1123,20 +1147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477561,
-      "num": 477561,
-      "word": "做教师的子女是一种什么体验",
-      "onboard_time": 1720489219,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 476044,
       "num": 476044,
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
       "onboard_time": 1720424600,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474068,
+      "num": 474068,
+      "word": "曾黎裸背",
+      "onboard_time": 1720491078,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473830,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1720402037,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 452665,
-      "num": 452665,
-      "word": "曾黎裸背",
-      "onboard_time": 1720491078,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 451296,
@@ -1355,8 +1371,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434978,
+      "num": 434978,
+      "word": "檀健次从相柳身上下来好吗",
+      "onboard_time": 1720489219,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433089,
-      "num": 199702,
+      "num": 233029,
       "word": "原来早睡真的能解决生活中大部分问题",
       "onboard_time": 1720453698,
       "rank": 28,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1720422679,
       "rank": 15,
       "category": "互联网,艺人"
-    },
-    {
-      "raw_hot": 426561,
-      "num": 426561,
-      "word": "檀健次从相柳身上下来好吗",
-      "onboard_time": 1720489219,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 426001,
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 416301,
-      "num": 208694,
+      "num": 246904,
       "word": "电动车女孩根本打扮不了自己",
       "onboard_time": 1720489219,
       "rank": 31,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1720415780,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 393837,
-      "num": 598205,
-      "word": "廊坊市监局回应化工油食用油混装事件",
-      "onboard_time": 1720490837,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391335,
@@ -1755,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361328,
+      "num": 245262,
+      "word": "冰箱门上的格子不能放牛奶",
+      "onboard_time": 1720489459,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 360769,
       "num": 360769,
       "word": "等比长大的赵今麦",
@@ -1867,14 +1883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 339384,
-      "num": 203492,
-      "word": "冰箱门上的格子不能放牛奶",
-      "onboard_time": 1720489459,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 339276,
       "num": 209627,
       "word": "美国超市疑似买到橡胶水果",
@@ -1952,6 +1960,14 @@
       "word": "默杀",
       "onboard_time": 1720272978,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 330342,
+      "num": 330342,
+      "word": "电影负负得正定档七夕",
+      "onboard_time": 1720492638,
+      "rank": 16,
       "category": "电影"
     },
     {
@@ -2067,20 +2083,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318585,
+      "num": 318585,
+      "word": "相柳角色热度断层",
+      "onboard_time": 1720488018,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317742,
       "num": 317742,
       "word": "陈泽 花小龙",
       "onboard_time": 1720483097,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 316159,
-      "num": 261984,
-      "word": "相柳角色热度断层",
-      "onboard_time": 1720488018,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 315282,
@@ -2113,6 +2129,14 @@
       "onboard_time": 1720445540,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308321,
+      "num": 239084,
+      "word": "周鸿祎称不认识杨幂",
+      "onboard_time": 1720492816,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 307174,
@@ -2315,6 +2339,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 273455,
+      "num": 236855,
+      "word": "唐朝诡事录之西行定档0718",
+      "onboard_time": 1720492578,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271935,
       "num": 271935,
       "word": "长相思",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1720336818,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264758,
+      "num": 264758,
+      "word": "仅退款动了谁的奶酪",
+      "onboard_time": 1720492878,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264012,
@@ -3131,6 +3171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193098,
+      "num": 193098,
+      "word": "沈月叫单依纯女一",
+      "onboard_time": 1720492096,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192971,
       "num": 192971,
       "word": "DYG对战TES",
@@ -3393,14 +3441,6 @@
       "onboard_time": 1720347018,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181854,
-      "num": 181854,
-      "word": "唐朝诡事录之西行定档0718",
-      "onboard_time": 1720492578,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 181806,
@@ -4131,14 +4171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147749,
-      "num": 147749,
-      "word": "沈月叫单依纯女一",
-      "onboard_time": 1720492096,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147015,
       "num": 147015,
       "word": "黄油小熊偷偷掀衣服也太可爱了",
@@ -4291,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141237,
+      "num": 141237,
+      "word": "儿子你们辛苦了",
+      "onboard_time": 1720490180,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140928,
       "num": 140928,
       "word": "青春有你国际版选手名单",
@@ -4345,14 +4385,6 @@
       "onboard_time": 1720413441,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139382,
-      "num": 139382,
-      "word": "儿子你们辛苦了",
-      "onboard_time": 1720490180,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139190,
@@ -4435,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135029,
+      "num": 135029,
+      "word": "梁靖崑升至世界第二",
+      "onboard_time": 1720492638,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134666,
       "num": 93217,
       "word": "和王一博对戏的感受",
@@ -4473,6 +4513,14 @@
       "onboard_time": 1720397298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133486,
+      "num": 133486,
+      "word": "做完近视手术后还可能再近视",
+      "onboard_time": 1720493118,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133324,
@@ -5043,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110584,
+      "num": 110584,
+      "word": "北京中考查分",
+      "onboard_time": 1720492458,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110203,
       "num": 110203,
       "word": "看完这组名片你说中国City不City啊",
@@ -5161,14 +5217,6 @@
       "onboard_time": 1720342697,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106177,
-      "num": 106177,
-      "word": "北京中考查分",
-      "onboard_time": 1720492458,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 105830,
@@ -5955,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48901,
+      "num": 554121,
+      "word": "尼山有什么",
+      "onboard_time": 1720489998,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 48481,
       "num": 111680,
       "word": "此次洞庭湖大堤决口由管涌引起",
@@ -6100,7 +6156,7 @@
     },
     {
       "raw_hot": 39202,
-      "num": 426743,
+      "num": 445976,
       "word": "天津市监部门回应化工油罐车运输食用油事件",
       "onboard_time": 1720492398,
       "rank": 14,
@@ -6137,14 +6193,6 @@
       "onboard_time": 1720374613,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37381,
-      "num": 462490,
-      "word": "尼山有什么",
-      "onboard_time": 1720489998,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 36970,
@@ -6400,6 +6448,14 @@
       "word": "55个小时不分昼夜施工后合龙",
       "onboard_time": 1720464012,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10516,
+      "num": 197818,
+      "word": "泰国唐人街火灾致30人受伤",
+      "onboard_time": 1720492939,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
