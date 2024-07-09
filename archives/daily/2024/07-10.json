@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720567316360,
+  "endTime": 1720568085665,
   "band_list": [
     {
       "raw_hot": 900056,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649118,
+      "num": 649118,
+      "word": "西班牙vs法国",
+      "onboard_time": 1720535959,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617459,
       "num": 617459,
       "word": "黄晓明再次感谢虞书欣",
@@ -35,28 +43,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587745,
+      "num": 587745,
+      "word": "4岁姐姐抱着8个月壮汉弟弟",
+      "onboard_time": 1720566614,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580791,
-      "num": 136957,
+      "num": 159610,
       "word": "不想结节癌变千万避开这3种蔬菜",
       "onboard_time": 1720537099,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 572386,
-      "num": 572386,
-      "word": "西班牙vs法国",
-      "onboard_time": 1720535959,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 482926,
-      "num": 463156,
+      "raw_hot": 565104,
+      "num": 565104,
       "word": "为什么现在电视剧都是1女N男",
       "onboard_time": 1720537878,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457623,
+      "num": 266509,
+      "word": "失踪22年美国登山者遗体被找到",
+      "onboard_time": 1720535120,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451067,
@@ -75,11 +91,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416220,
-      "num": 223773,
-      "word": "失踪22年美国登山者遗体被找到",
-      "onboard_time": 1720535120,
-      "rank": 28,
+      "raw_hot": 410966,
+      "num": 161308,
+      "word": "女子1米6体重50斤仍在减肥",
+      "onboard_time": 1720567936,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -99,20 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371503,
-      "num": 371503,
-      "word": "4岁姐姐抱着8个月壮汉弟弟",
-      "onboard_time": 1720566614,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 349578,
       "num": 133471,
       "word": "体制内对怀孕女性的态度",
       "onboard_time": 1720517419,
       "rank": 21,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 349129,
+      "num": 349129,
+      "word": "三只羊在开发自营梅菜扣肉",
+      "onboard_time": 1720547473,
+      "rank": 19,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 330365,
@@ -139,12 +155,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279221,
-      "num": 223160,
-      "word": "三只羊在开发自营梅菜扣肉",
-      "onboard_time": 1720547473,
-      "rank": 19,
-      "category": "美食,互联网"
+      "raw_hot": 288330,
+      "num": 157055,
+      "word": "体制内到办公室的第一件事",
+      "onboard_time": 1720529660,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 265828,
@@ -155,28 +171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252637,
+      "num": 252637,
+      "word": "中国人民解放军92950部队记一等功",
+      "onboard_time": 1720524017,
+      "rank": 18,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "小夭的难堪众人的狂欢",
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237259,
-      "num": 136945,
-      "word": "体制内到办公室的第一件事",
-      "onboard_time": 1720529660,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 227980,
-      "num": 227980,
-      "word": "中国人民解放军92950部队记一等功",
-      "onboard_time": 1720524017,
-      "rank": 18,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 216597,
@@ -201,6 +209,14 @@
       "onboard_time": 1720527558,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188654,
+      "num": 188654,
+      "word": "官方通报2公职人员偷豆角",
+      "onboard_time": 1720567095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186149,
@@ -235,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166963,
+      "num": 166963,
+      "word": "相柳 ooc",
+      "onboard_time": 1720539678,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -249,14 +273,6 @@
       "onboard_time": 1720541237,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152106,
-      "num": 151631,
-      "word": "相柳 ooc",
-      "onboard_time": 1720539678,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 144269,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105393,
+      "num": 105393,
+      "word": "4个部位出汗多暗示身体有问题",
+      "onboard_time": 1720548013,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104351,
       "num": 124997,
       "word": "杜海涛在节目里又cue沈梦辰了",
@@ -315,8 +339,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93804,
-      "num": 93804,
+      "raw_hot": 103944,
+      "num": 103944,
+      "word": "下半年摩羯座扬眉吐气",
+      "onboard_time": 1720567874,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101849,
+      "num": 101849,
       "word": "姆巴佩欧洲杯9场仅1球",
       "onboard_time": 1720564394,
       "rank": 49,
@@ -329,22 +361,6 @@
       "onboard_time": 1720528218,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88433,
-      "num": 88433,
-      "word": "4个部位出汗多暗示身体有问题",
-      "onboard_time": 1720548013,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86537,
-      "num": 86537,
-      "word": "官方通报2公职人员偷豆角",
-      "onboard_time": 1720567095,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86104,
@@ -401,6 +417,14 @@
       "onboard_time": 1720524677,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78295,
+      "num": 78295,
+      "word": "苏醒 披哥诀窍是抱王铮亮大腿",
+      "onboard_time": 1720567575,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 76599,
@@ -483,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68053,
+      "num": 68053,
+      "word": "红衣夭柳就当你也嫁过我一次",
+      "onboard_time": 1720566315,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64024,
       "num": 124672,
       "word": "傅园慧要去浙大当老师了",
@@ -499,11 +531,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60915,
+      "num": 60915,
+      "word": "这鱼是从动画片里跑出来的吧",
+      "onboard_time": 1720567874,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58035,
       "num": 125069,
       "word": "巴黎奥运看国乒决赛不用熬夜",
       "onboard_time": 1720527857,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55999,
+      "num": 55999,
+      "word": "汤唯素颜生图",
+      "onboard_time": 1720550710,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55658,
+      "num": 55658,
+      "word": "西班牙再进欧洲杯决赛用了12年",
+      "onboard_time": 1720567996,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -539,20 +595,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52414,
+      "num": 52414,
+      "word": "西班牙决赛对阵谁",
+      "onboard_time": 1720567996,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52387,
       "num": 124780,
       "word": "辛纳对战梅德维德夫",
       "onboard_time": 1720538358,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50858,
-      "num": 50858,
-      "word": "红衣夭柳就当你也嫁过我一次",
-      "onboard_time": 1720566315,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 50652,
@@ -569,14 +625,6 @@
       "onboard_time": 1720542196,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43279,
-      "num": 43279,
-      "word": "汤唯素颜生图",
-      "onboard_time": 1720550710,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 42897,
@@ -620,7 +668,7 @@
     },
     {
       "raw_hot": 36430,
-      "num": 402655,
+      "num": 580888,
       "word": "伟大的历史变革",
       "onboard_time": 1720531460,
       "rank": 2,
@@ -649,6 +697,14 @@
       "onboard_time": 1720551312,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28433,
+      "num": 267297,
+      "word": "司机转弯时掉入水库村民合力救人",
+      "onboard_time": 1720567155,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 24691,
@@ -697,14 +753,6 @@
       "onboard_time": 1720541237,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 14570,
-      "num": 136997,
-      "word": "司机转弯时掉入水库村民合力救人",
-      "onboard_time": 1720567155,
-      "rank": 20,
-      "category": "社会正能量"
     }
   ],
   "hotgov_list": [

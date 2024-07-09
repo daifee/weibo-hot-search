@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720567316360,
+  "endTime": 1720568085665,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -3219,6 +3219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 649118,
+      "num": 649118,
+      "word": "西班牙vs法国",
+      "onboard_time": 1720535959,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 647242,
       "num": 288650,
       "word": "海底捞等位可以打麻将了",
@@ -3843,6 +3851,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 587745,
+      "num": 587745,
+      "word": "4岁姐姐抱着8个月壮汉弟弟",
+      "onboard_time": 1720566614,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584844,
       "num": 584844,
       "word": "恋爱兄妹",
@@ -4003,14 +4019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572386,
-      "num": 572386,
-      "word": "西班牙vs法国",
-      "onboard_time": 1720535959,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 570954,
       "num": 315167,
       "word": "朱丹乘风4个月掉了14斤",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1720242258,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565104,
+      "num": 565104,
+      "word": "为什么现在电视剧都是1女N男",
+      "onboard_time": 1720537878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 564944,
@@ -5163,14 +5179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482926,
-      "num": 463156,
-      "word": "为什么现在电视剧都是1女N男",
-      "onboard_time": 1720537878,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482492,
       "num": 277043,
       "word": "张凌赫素人时期照片",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1720173500,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457623,
+      "num": 266509,
+      "word": "失踪22年美国登山者遗体被找到",
+      "onboard_time": 1720535120,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457495,
@@ -6459,14 +6475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 416220,
-      "num": 223773,
-      "word": "失踪22年美国登山者遗体被找到",
-      "onboard_time": 1720535120,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415127,
       "num": 415127,
       "word": "伊朗总统大选结果揭晓",
@@ -6545,6 +6553,14 @@
       "onboard_time": 1720078337,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410966,
+      "num": 161308,
+      "word": "女子1米6体重50斤仍在减肥",
+      "onboard_time": 1720567936,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410501,
@@ -7283,14 +7299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371503,
-      "num": 371503,
-      "word": "4岁姐姐抱着8个月壮汉弟弟",
-      "onboard_time": 1720566614,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 371202,
       "num": 233751,
       "word": "西梅是被列入医嘱的通便食物",
@@ -7769,6 +7777,14 @@
       "onboard_time": 1720481716,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349129,
+      "num": 349129,
+      "word": "三只羊在开发自营梅菜扣肉",
+      "onboard_time": 1720547473,
+      "rank": 19,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 348920,
@@ -9329,14 +9345,6 @@
       "onboard_time": 1719990018,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279221,
-      "num": 223160,
-      "word": "三只羊在开发自营梅菜扣肉",
-      "onboard_time": 1720547473,
-      "rank": 19,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 278407,
@@ -13619,6 +13627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188654,
+      "num": 188654,
+      "word": "官方通报2公职人员偷豆角",
+      "onboard_time": 1720567095,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188625,
       "num": 188625,
       "word": "GLASS三周年盛典阵容官宣",
@@ -15395,6 +15411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166963,
+      "num": 166963,
+      "word": "相柳 ooc",
+      "onboard_time": 1720539678,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166815,
       "num": 166815,
       "word": "墨雨云间网剧播放量TOP1",
@@ -16785,14 +16809,6 @@
       "onboard_time": 1720063758,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152106,
-      "num": 151631,
-      "word": "相柳 ooc",
-      "onboard_time": 1720539678,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 152101,
@@ -21811,6 +21827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105393,
+      "num": 105393,
+      "word": "4个部位出汗多暗示身体有问题",
+      "onboard_time": 1720548013,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105341,
       "num": 105341,
       "word": "一周只上四天课的大学",
@@ -21913,6 +21937,14 @@
       "onboard_time": 1720264517,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103944,
+      "num": 103944,
+      "word": "下半年摩羯座扬眉吐气",
+      "onboard_time": 1720567874,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 103925,
@@ -22073,6 +22105,14 @@
       "onboard_time": 1720175000,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101849,
+      "num": 101849,
+      "word": "姆巴佩欧洲杯9场仅1球",
+      "onboard_time": 1720564394,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101545,
@@ -22531,14 +22571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93804,
-      "num": 93804,
-      "word": "姆巴佩欧洲杯9场仅1球",
-      "onboard_time": 1720564394,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93460,
       "num": 335873,
       "word": "他们刚下考场又上防汛战场",
@@ -22827,14 +22859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88433,
-      "num": 88433,
-      "word": "4个部位出汗多暗示身体有问题",
-      "onboard_time": 1720548013,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88426,
       "num": 88426,
       "word": "毕业季才是宿管阿姨的618",
@@ -22921,14 +22945,6 @@
       "onboard_time": 1719764657,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86537,
-      "num": 86537,
-      "word": "官方通报2公职人员偷豆角",
-      "onboard_time": 1720567095,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86513,
@@ -23185,6 +23201,14 @@
       "onboard_time": 1720090576,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78295,
+      "num": 78295,
+      "word": "苏醒 披哥诀窍是抱王铮亮大腿",
+      "onboard_time": 1720567575,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 78104,
@@ -23473,6 +23497,14 @@
       "onboard_time": 1720221134,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68053,
+      "num": 68053,
+      "word": "红衣夭柳就当你也嫁过我一次",
+      "onboard_time": 1720566315,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 67692,
@@ -23859,6 +23891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 60915,
+      "num": 60915,
+      "word": "这鱼是从动画片里跑出来的吧",
+      "onboard_time": 1720567874,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60910,
       "num": 67835,
       "word": "度华年热度破万",
@@ -24131,6 +24171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55999,
+      "num": 55999,
+      "word": "汤唯素颜生图",
+      "onboard_time": 1720550710,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 55998,
       "num": 55998,
       "word": "东契奇无缘奥运会",
@@ -24169,6 +24217,14 @@
       "onboard_time": 1719972016,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55658,
+      "num": 55658,
+      "word": "西班牙再进欧洲杯决赛用了12年",
+      "onboard_time": 1720567996,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 55554,
@@ -24283,6 +24339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 52414,
+      "num": 52414,
+      "word": "西班牙决赛对阵谁",
+      "onboard_time": 1720567996,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52407,
       "num": 1146503,
       "word": "中哈两位音乐家的跨国友情",
@@ -24337,14 +24401,6 @@
       "onboard_time": 1720299851,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 50858,
-      "num": 50858,
-      "word": "红衣夭柳就当你也嫁过我一次",
-      "onboard_time": 1720566315,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 50652,
@@ -24745,14 +24801,6 @@
       "onboard_time": 1719949751,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43279,
-      "num": 43279,
-      "word": "汤唯素颜生图",
-      "onboard_time": 1720550710,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43054,
@@ -25156,7 +25204,7 @@
     },
     {
       "raw_hot": 36430,
-      "num": 402655,
+      "num": 580888,
       "word": "伟大的历史变革",
       "onboard_time": 1720531460,
       "rank": 2,
@@ -25529,6 +25577,14 @@
       "onboard_time": 1719992118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28433,
+      "num": 267297,
+      "word": "司机转弯时掉入水库村民合力救人",
+      "onboard_time": 1720567155,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 28363,
@@ -26281,14 +26337,6 @@
       "onboard_time": 1720122012,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14570,
-      "num": 136997,
-      "word": "司机转弯时掉入水库村民合力救人",
-      "onboard_time": 1720567155,
-      "rank": 20,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 14534,
