@@ -1,0 +1,410 @@
+{
+  "runTime": 1720492646280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2784546,
+        "num": 2784546,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291766,
+        "num": 1291766,
+        "word": "女子读研8年获学位证仅11天被作废",
+        "onboard_time": 1720489219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27308,
+        "num": 1038413,
+        "word": "珠江口东西两岸掀起串门热",
+        "onboard_time": 1720442298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788768,
+        "num": 788768,
+        "word": "韩网友向外交部告发Jennie",
+        "onboard_time": 1720490779,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781243,
+        "num": 781243,
+        "word": "暑期档第一部悬疑剧来了",
+        "onboard_time": 1720491616,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772557,
+        "num": 772557,
+        "word": "男子多次虐待女儿希望将其判给前妻",
+        "onboard_time": 1720484897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715597,
+        "num": 715597,
+        "word": "有声小说被曝存在不雅背景音",
+        "onboard_time": 1720487837,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675869,
+        "num": 675869,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643324,
+        "num": 643324,
+        "word": "拜登拒绝退出总统竞选",
+        "onboard_time": 1720489098,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 393837,
+        "num": 598205,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596761,
+        "num": 596761,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477561,
+        "num": 477561,
+        "word": "做教师的子女是一种什么体验",
+        "onboard_time": 1720489219,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37381,
+        "num": 462490,
+        "word": "尼山有什么",
+        "onboard_time": 1720489998,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 452665,
+        "num": 452665,
+        "word": "曾黎裸背",
+        "onboard_time": 1720491078,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39202,
+        "num": 426743,
+        "word": "天津市监部门回应化工油罐车运输食用油事件",
+        "onboard_time": 1720492398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426561,
+        "num": 426561,
+        "word": "檀健次从相柳身上下来好吗",
+        "onboard_time": 1720489219,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276211,
+        "num": 276211,
+        "word": "罐车混用2005年已有曝光",
+        "onboard_time": 1720490417,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316159,
+        "num": 261984,
+        "word": "相柳角色热度断层",
+        "onboard_time": 1720488018,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210697,
+        "num": 210697,
+        "word": "中储粮金鼎食用油恢复上架",
+        "onboard_time": 1720483998,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232416,
+        "num": 209533,
+        "word": "小夭是饭桌上唯一的清汤大老爷",
+        "onboard_time": 1720480936,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416301,
+        "num": 208694,
+        "word": "电动车女孩根本打扮不了自己",
+        "onboard_time": 1720489219,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341883,
+        "num": 205186,
+        "word": "三伏天气血不足最直观的感受",
+        "onboard_time": 1720481595,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339384,
+        "num": 203492,
+        "word": "冰箱门上的格子不能放牛奶",
+        "onboard_time": 1720489459,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 251147,
+        "num": 201999,
+        "word": "瘦了之后最大的感受是什么",
+        "onboard_time": 1720480814,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249412,
+        "num": 199702,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199445,
+        "num": 199445,
+        "word": "周润发在朝阳公园跑步",
+        "onboard_time": 1720483637,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196751,
+        "num": 196751,
+        "word": "戚薇微博是尚雯婕诱捕器",
+        "onboard_time": 1720488979,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181854,
+        "num": 181854,
+        "word": "唐朝诡事录之西行定档0718",
+        "onboard_time": 1720492578,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180573,
+        "num": 180573,
+        "word": "钢腿女孩和消防员的爱情后续",
+        "onboard_time": 1720485499,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175952,
+        "num": 175952,
+        "word": "中储粮要求对运输车辆核查装载记录",
+        "onboard_time": 1720487297,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168094,
+        "num": 168094,
+        "word": "马嘉祺听到出道战赛制的反应",
+        "onboard_time": 1720485438,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166751,
+        "num": 166751,
+        "word": "晚上睡觉前擦一擦手机",
+        "onboard_time": 1720449920,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153335,
+        "num": 153335,
+        "word": "养了5年的猫咬了婆婆一口",
+        "onboard_time": 1720481716,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147749,
+        "num": 147749,
+        "word": "沈月叫单依纯女一",
+        "onboard_time": 1720492096,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140807,
+        "num": 140807,
+        "word": "苏州河里的大闸蟹煮熟了",
+        "onboard_time": 1720489998,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139382,
+        "num": 139382,
+        "word": "儿子你们辛苦了",
+        "onboard_time": 1720490180,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137231,
+        "num": 137231,
+        "word": "60岁老闺蜜退休一起上山下河救援",
+        "onboard_time": 1720487897,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "人民日报评煤油罐车装运食用油",
+        "onboard_time": 1720488317,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128355,
+        "num": 128355,
+        "word": "陈泽 花小龙",
+        "onboard_time": 1720483097,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128083,
+        "num": 128083,
+        "word": "TheShy谈明年复出",
+        "onboard_time": 1720489697,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125324,
+        "num": 125324,
+        "word": "美国男篮奥运全家福詹姆斯C位",
+        "onboard_time": 1720487719,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120511,
+        "num": 120511,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117647,
+        "num": 117647,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 117372,
+        "num": 117372,
+        "word": "9年多以前罐车投毒就存在",
+        "onboard_time": 1720483758,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114420,
+        "num": 114420,
+        "word": "优酷升至行业第二",
+        "onboard_time": 1720452377,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106177,
+        "num": 106177,
+        "word": "北京中考查分",
+        "onboard_time": 1720492458,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105232,
+        "num": 105232,
+        "word": "化工油污染过的食用油对人体有何伤害",
+        "onboard_time": 1720480334,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101019,
+        "num": 101019,
+        "word": "无痛分娩国内普及率只有约30%",
+        "onboard_time": 1720481475,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99914,
+        "num": 99914,
+        "word": "加相亲对象微信别给电话号码",
+        "onboard_time": 1720451240,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 97336,
+        "num": 97336,
+        "word": "乔治自曝离开快船原因",
+        "onboard_time": 1720488857,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
+    }
+  }
+}

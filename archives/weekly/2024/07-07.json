@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720489468133,
+  "endTime": 1720492646280,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -153,6 +153,14 @@
       "onboard_time": 1720402638,
       "rank": 6,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 1291766,
+      "num": 1291766,
+      "word": "女子读研8年获学位证仅11天被作废",
+      "onboard_time": 1720489219,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1270870,
@@ -523,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788768,
+      "num": 788768,
+      "word": "韩网友向外交部告发Jennie",
+      "onboard_time": 1720490779,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781419,
       "num": 237099,
       "word": "坐高铁一定要穿长裤",
       "onboard_time": 1720443500,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 781243,
+      "num": 781243,
+      "word": "暑期档第一部悬疑剧来了",
+      "onboard_time": 1720491616,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 781234,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 706623,
-      "num": 198743,
+      "num": 205186,
       "word": "三伏天气血不足最直观的感受",
       "onboard_time": 1720481595,
       "rank": 23,
@@ -713,6 +737,14 @@
       "onboard_time": 1720416140,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 643324,
+      "num": 643324,
+      "word": "拜登拒绝退出总统竞选",
+      "onboard_time": 1720489098,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 641397,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 480305,
-      "num": 197855,
+      "num": 201999,
       "word": "瘦了之后最大的感受是什么",
       "onboard_time": 1720480814,
       "rank": 27,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1720446921,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477561,
+      "num": 477561,
+      "word": "做教师的子女是一种什么体验",
+      "onboard_time": 1720489219,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 476044,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1720402037,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452665,
+      "num": 452665,
+      "word": "曾黎裸背",
+      "onboard_time": 1720491078,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 451296,
@@ -1308,7 +1356,7 @@
     },
     {
       "raw_hot": 433089,
-      "num": 197003,
+      "num": 199702,
       "word": "原来早睡真的能解决生活中大部分问题",
       "onboard_time": 1720453698,
       "rank": 28,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1720422679,
       "rank": 15,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 426561,
+      "num": 426561,
+      "word": "檀健次从相柳身上下来好吗",
+      "onboard_time": 1720489219,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 426001,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1720403236,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416301,
+      "num": 208694,
+      "word": "电动车女孩根本打扮不了自己",
+      "onboard_time": 1720489219,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 415096,
@@ -1443,14 +1507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 405323,
-      "num": 179965,
-      "word": "女子读研8年获学位证仅11天被作废",
-      "onboard_time": 1720489219,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404249,
       "num": 244856,
       "word": "六便士有多重只有自己才知道",
@@ -1465,6 +1521,14 @@
       "onboard_time": 1720415780,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 393837,
+      "num": 598205,
+      "word": "廊坊市监局回应化工油食用油混装事件",
+      "onboard_time": 1720490837,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391335,
@@ -1803,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339384,
+      "num": 203492,
+      "word": "冰箱门上的格子不能放牛奶",
+      "onboard_time": 1720489459,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 339276,
       "num": 209627,
       "word": "美国超市疑似买到橡胶水果",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1720483097,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 316159,
+      "num": 261984,
+      "word": "相柳角色热度断层",
+      "onboard_time": 1720488018,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 315282,
@@ -2211,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 276211,
+      "num": 276211,
+      "word": "罐车混用2005年已有曝光",
+      "onboard_time": 1720490417,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275064,
       "num": 275064,
       "word": "A股上涨个股不足500只",
@@ -2403,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243453,
-      "num": 179064,
-      "word": "电动车女孩根本打扮不了自己",
-      "onboard_time": 1720489219,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
@@ -2561,14 +2641,6 @@
       "onboard_time": 1720418300,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228293,
-      "num": 228293,
-      "word": "檀健次从相柳身上下来好吗",
-      "onboard_time": 1720489219,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 227882,
@@ -2971,20 +3043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196751,
+      "num": 196751,
+      "word": "戚薇微博是尚雯婕诱捕器",
+      "onboard_time": 1720488979,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196610,
       "num": 196610,
       "word": "中储粮开展全系统排大排查",
       "onboard_time": 1720325717,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196558,
-      "num": 196558,
-      "word": "拜登拒绝退出总统竞选",
-      "onboard_time": 1720489098,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196006,
@@ -3323,20 +3395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181854,
+      "num": 181854,
+      "word": "唐朝诡事录之西行定档0718",
+      "onboard_time": 1720492578,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "不运动也能无条件减掉三公斤以上",
       "onboard_time": 1720329497,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 181166,
-      "num": 181166,
-      "word": "相柳角色热度断层",
-      "onboard_time": 1720488018,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 181137,
@@ -4059,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147749,
+      "num": 147749,
+      "word": "沈月叫单依纯女一",
+      "onboard_time": 1720492096,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147015,
       "num": 147015,
       "word": "黄油小熊偷偷掀衣服也太可爱了",
@@ -4219,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140807,
+      "num": 140807,
+      "word": "苏州河里的大闸蟹煮熟了",
+      "onboard_time": 1720489998,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140677,
       "num": 140677,
       "word": "中国男排vs比利时男排",
@@ -4257,6 +4345,14 @@
       "onboard_time": 1720413441,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "儿子你们辛苦了",
+      "onboard_time": 1720490180,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139190,
@@ -4329,14 +4425,6 @@
       "onboard_time": 1720436779,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135978,
-      "num": 135978,
-      "word": "做教师的子女是一种什么体验",
-      "onboard_time": 1720489219,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 135492,
@@ -4523,6 +4611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128083,
+      "num": 128083,
+      "word": "TheShy谈明年复出",
+      "onboard_time": 1720489697,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128036,
       "num": 128036,
       "word": "这4种妇科病月经期看医生效果更好",
@@ -4545,14 +4641,6 @@
       "onboard_time": 1720278739,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127523,
-      "num": 127523,
-      "word": "戚薇微博是尚雯婕诱捕器",
-      "onboard_time": 1720488979,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 127488,
@@ -5073,6 +5161,14 @@
       "onboard_time": 1720342697,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106177,
+      "num": 106177,
+      "word": "北京中考查分",
+      "onboard_time": 1720492458,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 105830,
@@ -5732,7 +5828,7 @@
     },
     {
       "raw_hot": 56841,
-      "num": 920598,
+      "num": 1038413,
       "word": "珠江口东西两岸掀起串门热",
       "onboard_time": 1720442298,
       "rank": 15,
@@ -6003,6 +6099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39202,
+      "num": 426743,
+      "word": "天津市监部门回应化工油罐车运输食用油事件",
+      "onboard_time": 1720492398,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38854,
       "num": 385889,
       "word": "小孩姐评教育通透发言",
@@ -6033,6 +6137,14 @@
       "onboard_time": 1720374613,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37381,
+      "num": 462490,
+      "word": "尼山有什么",
+      "onboard_time": 1720489998,
+      "rank": 12,
+      "category": "旅游"
     },
     {
       "raw_hot": 36970,
