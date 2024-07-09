@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720507404191,
+  "endTime": 1720509518818,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1403,6 +1403,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 990926,
+      "num": 716807,
+      "word": "爱情公寓又出番外篇了",
+      "onboard_time": 1720508238,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 988840,
       "num": 840028,
       "word": "女子长期喝通便茶肠道长满豹纹",
@@ -2803,6 +2811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 681086,
+      "num": 681086,
+      "word": "B太曝光星期狗",
+      "onboard_time": 1720506558,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680264,
       "num": 680264,
       "word": "萌兰花花和叶今天生日",
@@ -3001,6 +3017,14 @@
       "onboard_time": 1719916099,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 647242,
+      "num": 288650,
+      "word": "海底捞等位可以打麻将了",
+      "onboard_time": 1720504097,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 646242,
@@ -3377,14 +3401,6 @@
       "onboard_time": 1719779710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609287,
-      "num": 288650,
-      "word": "海底捞等位可以打麻将了",
-      "onboard_time": 1720504097,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 608830,
@@ -5835,14 +5851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431629,
-      "num": 431629,
-      "word": "B太曝光星期狗",
-      "onboard_time": 1720506558,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430878,
       "num": 430878,
       "word": "德国",
@@ -6241,6 +6249,14 @@
       "onboard_time": 1720438457,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403256,
+      "num": 403256,
+      "word": "污染油吃了对身体伤害有多大",
+      "onboard_time": 1720509197,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 402318,
@@ -6753,6 +6769,14 @@
       "onboard_time": 1720351578,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375872,
+      "num": 375872,
+      "word": "A股打响2900点保卫战",
+      "onboard_time": 1720507937,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 375594,
@@ -7611,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334011,
+      "num": 202281,
+      "word": "女子隆胸被偷拍发布医院拒道歉",
+      "onboard_time": 1720508838,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333851,
       "num": 333851,
       "word": "俞敏洪呼吁不要攻击主播",
@@ -7913,6 +7945,14 @@
       "onboard_time": 1720408760,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322085,
+      "num": 267198,
+      "word": "躺着就能月入3000你愿意吗",
+      "onboard_time": 1720507278,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 321965,
@@ -9395,6 +9435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250923,
+      "num": 250923,
+      "word": "12306回应火车票退票费规定",
+      "onboard_time": 1720508298,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250381,
       "num": 154792,
       "word": "以色列民众示威要求提前大选结束冲突",
@@ -9889,6 +9937,14 @@
       "onboard_time": 1720146797,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237194,
+      "num": 237194,
+      "word": "华为Mate60系列销量已过千万",
+      "onboard_time": 1720508238,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 237121,
@@ -10521,6 +10577,14 @@
       "onboard_time": 1720162519,
       "rank": 27,
       "category": "教育,剧集"
+    },
+    {
+      "raw_hot": 218074,
+      "num": 218074,
+      "word": "外媒评韩国小学生全勤乞丐",
+      "onboard_time": 1720507337,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217728,
@@ -11577,6 +11641,14 @@
       "onboard_time": 1720001659,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201836,
+      "num": 201836,
+      "word": "星期狗",
+      "onboard_time": 1720508838,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201696,
@@ -13107,6 +13179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185308,
+      "num": 185308,
+      "word": "最痛的是至亲的贬低质疑",
+      "onboard_time": 1720508659,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185129,
       "num": 185129,
       "word": "电影她的小梨涡 怼网友",
@@ -13392,6 +13472,14 @@
       "word": "警方通报业主砍断高空工人安全绳",
       "onboard_time": 1719909497,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180459,
+      "num": 180459,
+      "word": "中产爱上9块9咖啡星巴克急了",
+      "onboard_time": 1720508238,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -13792,6 +13880,14 @@
       "word": "贺峻霖被贴脸开大",
       "onboard_time": 1720352177,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176325,
+      "num": 176325,
+      "word": "秦岚赵昭仪写辛芷蕾YZJ",
+      "onboard_time": 1720508058,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -14201,6 +14297,14 @@
       "onboard_time": 1720275560,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170927,
+      "num": 170927,
+      "word": "少量但长期服用煤油对身体有何危害",
+      "onboard_time": 1720507038,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170648,
@@ -16065,6 +16169,14 @@
       "onboard_time": 1720251797,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148125,
+      "num": 148125,
+      "word": "怦然心动20岁",
+      "onboard_time": 1720508359,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 148024,
@@ -18489,14 +18601,6 @@
       "onboard_time": 1720342218,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126209,
-      "num": 126209,
-      "word": "躺着就能月入3000你愿意吗",
-      "onboard_time": 1720507278,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 126082,
@@ -21819,6 +21923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76291,
+      "num": 470164,
+      "word": "五问煤制油罐车混装食用油",
+      "onboard_time": 1720507877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75981,
       "num": 406242,
       "word": "MBTI测试忽i忽e是怎么回事",
@@ -23683,14 +23795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33540,
-      "num": 202932,
-      "word": "外媒评韩国小学生全勤乞丐",
-      "onboard_time": 1720507337,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32911,
       "num": 131260,
       "word": "绝区零你干脆去巴黎时装周吧",
@@ -23772,7 +23876,7 @@
     },
     {
       "raw_hot": 30784,
-      "num": 202533,
+      "num": 218558,
       "word": "莫文蔚你宣吧",
       "onboard_time": 1720506138,
       "rank": 46,
@@ -23912,6 +24016,14 @@
       "word": "专家解读洞庭湖救援重点",
       "onboard_time": 1720263616,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28153,
+      "num": 202429,
+      "word": "荷兰男子捐精生下1000个娃",
+      "onboard_time": 1720509380,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -24225,6 +24337,14 @@
       "onboard_time": 1719775391,
       "rank": 44,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 23677,
+      "num": 143633,
+      "word": "印尼金矿山体滑坡已造成48人失踪",
+      "onboard_time": 1720508718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23598,
