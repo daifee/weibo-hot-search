@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720481688017,
+  "endTime": 1720488172067,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -89,6 +89,14 @@
       "onboard_time": 1720399159,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1504982,
+      "num": 589480,
+      "word": "男子多次虐待女儿希望将其判给前妻",
+      "onboard_time": 1720484897,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1491623,
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 914778,
+      "num": 914778,
+      "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+      "onboard_time": 1720487837,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909029,
       "num": 909029,
       "word": "以为是同学结果是班主任",
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 706623,
+      "num": 198743,
+      "word": "三伏天气血不足最直观的感受",
+      "onboard_time": 1720481595,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 705818,
       "num": 215861,
       "word": "晚上睡觉前擦一擦手机",
@@ -665,6 +689,14 @@
       "onboard_time": 1720325476,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646675,
+      "num": 646675,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646242,
@@ -843,12 +875,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 570355,
+      "num": 570355,
+      "word": "小夭是饭桌上唯一的清汤大老爷",
+      "onboard_time": 1720480936,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566536,
       "num": 363070,
       "word": "IVE香港演唱会评论区",
       "onboard_time": 1720326377,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 559907,
+      "num": 559907,
+      "word": "周润发在朝阳公园跑步",
+      "onboard_time": 1720483637,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 557623,
@@ -880,6 +928,22 @@
       "word": "河南暴雨实况",
       "onboard_time": 1720363579,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552695,
+      "num": 329367,
+      "word": "9年多以前罐车投毒就存在",
+      "onboard_time": 1720483758,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551365,
+      "num": 551365,
+      "word": "中储粮金鼎食用油恢复上架",
+      "onboard_time": 1720483998,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 510066,
+      "num": 510066,
+      "word": "有声小说被曝存在不雅背景音",
+      "onboard_time": 1720487837,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503257,
       "num": 503257,
       "word": "杨紫侧边盘发",
@@ -987,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480305,
+      "num": 197855,
+      "word": "瘦了之后最大的感受是什么",
+      "onboard_time": 1720480814,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 480187,
       "num": 480187,
       "word": "杨紫的台词被各地文旅用上了",
@@ -1008,6 +1088,14 @@
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
       "onboard_time": 1720424600,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 475377,
+      "num": 475377,
+      "word": "涂山璟怀疑儿子身世",
+      "onboard_time": 1720454538,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1041,22 +1129,6 @@
       "onboard_time": 1720403537,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 463124,
-      "num": 463124,
-      "word": "煤油罐车装的食用油流向了哪里",
-      "onboard_time": 1720449020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460426,
-      "num": 156051,
-      "word": "涂山璟怀疑儿子身世",
-      "onboard_time": 1720454538,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 460127,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1720437739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433089,
+      "num": 197003,
+      "word": "原来早睡真的能解决生活中大部分问题",
+      "onboard_time": 1720453698,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 432758,
@@ -1667,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349729,
+      "num": 195076,
+      "word": "养了5年的猫咬了婆婆一口",
+      "onboard_time": 1720481716,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348058,
       "num": 348058,
       "word": "电竞世界杯",
@@ -1819,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326406,
-      "num": 146817,
-      "word": "原来早睡真的能解决生活中大部分问题",
-      "onboard_time": 1720453698,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 325628,
       "num": 190214,
       "word": "原来西梅是李子不是梅子",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1720403177,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 323710,
+      "num": 323710,
+      "word": "马嘉祺听到出道战赛制的反应",
+      "onboard_time": 1720485438,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 322320,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1720420339,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317742,
+      "num": 317742,
+      "word": "陈泽 花小龙",
+      "onboard_time": 1720483097,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 315282,
@@ -1955,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299712,
+      "num": 299712,
+      "word": "无痛分娩国内普及率只有约30%",
+      "onboard_time": 1720481475,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298531,
       "num": 205967,
       "word": "本周桃花运最旺的星座",
@@ -1992,6 +2096,14 @@
       "word": "大熊猫赴港",
       "onboard_time": 1720361239,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289410,
+      "num": 289410,
+      "word": "钢腿女孩和消防员的爱情后续",
+      "onboard_time": 1720485499,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2347,6 +2459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 236773,
+      "num": 236773,
+      "word": "中储粮要求对运输车辆核查装载记录",
+      "onboard_time": 1720487297,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235928,
       "num": 233363,
       "word": "杀不了的鱼闻不了的味要yue的他",
@@ -2441,14 +2561,6 @@
       "onboard_time": 1720439779,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223997,
-      "num": 98611,
-      "word": "三伏天气血不足最直观的感受",
-      "onboard_time": 1720481595,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223503,
@@ -2556,7 +2668,7 @@
     },
     {
       "raw_hot": 212521,
-      "num": 97851,
+      "num": 145683,
       "word": "首批来北京特种兵的人已进入骨科",
       "onboard_time": 1720469111,
       "rank": 40,
@@ -2883,6 +2995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193726,
+      "num": 202003,
+      "word": "化工油污染过的食用油对人体有何伤害",
+      "onboard_time": 1720480334,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193495,
       "num": 193495,
       "word": "gidle新歌KlaxonMV",
@@ -3201,6 +3321,14 @@
       "onboard_time": 1720447640,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179117,
+      "num": 179117,
+      "word": "熊猫宝宝躺着吃笋都那么好看",
+      "onboard_time": 1720484178,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 179015,
@@ -3643,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159258,
+      "num": 159258,
+      "word": "在韩国点外卖还要洗碗",
+      "onboard_time": 1720484839,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158821,
       "num": 158821,
       "word": "石凯你好星期六",
@@ -3947,6 +4083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143642,
+      "num": 143642,
+      "word": "燃烧腹部脂肪菠萝水",
+      "onboard_time": 1720486879,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "美国男篮奥运全家福詹姆斯C位",
+      "onboard_time": 1720487719,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -4009,6 +4161,14 @@
       "onboard_time": 1720349657,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140432,
+      "num": 140432,
+      "word": "黄宣被误认成具俊晔",
+      "onboard_time": 1720464552,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 140390,
@@ -4091,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137336,
+      "num": 137336,
+      "word": "这只猴子难道血脉觉醒了",
+      "onboard_time": 1720482737,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136799,
       "num": 136799,
       "word": "花傲天杯赛程",
@@ -4131,14 +4299,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 133734,
-      "num": 133734,
-      "word": "黄宣被误认成具俊晔",
-      "onboard_time": 1720464552,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133596,
       "num": 133596,
       "word": "油罐车",
@@ -4153,14 +4313,6 @@
       "onboard_time": 1720397298,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133415,
-      "num": 95290,
-      "word": "瘦了之后最大的感受是什么",
-      "onboard_time": 1720480814,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 133324,
@@ -4299,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128036,
+      "num": 128036,
+      "word": "这4种妇科病月经期看医生效果更好",
+      "onboard_time": 1720482378,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127963,
       "num": 127963,
       "word": "汪苏泷好吵",
@@ -4363,6 +4523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125609,
+      "num": 125609,
+      "word": "60岁老闺蜜退休一起上山下河救援",
+      "onboard_time": 1720487897,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 125431,
       "num": 125431,
       "word": "马立奥又尿裤子",
@@ -4387,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123925,
+      "num": 123925,
+      "word": "当你在沙漠骑行却遇见了一只马桶",
+      "onboard_time": 1720485859,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122610,
       "num": 122610,
       "word": "石凯南京",
@@ -4403,20 +4579,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 122361,
-      "num": 94549,
-      "word": "小夭是饭桌上唯一的清汤大老爷",
-      "onboard_time": 1720480936,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121875,
       "num": 121875,
       "word": "王星越说仁科是坏男人",
       "onboard_time": 1720328898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121370,
+      "num": 332097,
+      "word": "阿勒泰雨后现梦幻云海",
+      "onboard_time": 1720487358,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 121247,
@@ -4497,6 +4673,14 @@
       "onboard_time": 1720399459,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117640,
+      "num": 117640,
+      "word": "相柳角色热度断层",
+      "onboard_time": 1720488018,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 117159,
@@ -4659,6 +4843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112159,
+      "num": 112159,
+      "word": "食用油",
+      "onboard_time": 1720484958,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "奖杯底座",
@@ -4681,6 +4873,22 @@
       "onboard_time": 1720347738,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110889,
+      "num": 110889,
+      "word": "吴昕秦霄贤的头好忙",
+      "onboard_time": 1720486638,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110203,
+      "num": 110203,
+      "word": "看完这组名片你说中国City不City啊",
+      "onboard_time": 1720488077,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110128,
@@ -5163,14 +5371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81499,
-      "num": 202003,
-      "word": "化工油污染过的食用油对人体有何伤害",
-      "onboard_time": 1720480334,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81018,
       "num": 81018,
       "word": "宛平城墙的弹痕是先辈血泪的印记",
@@ -5451,6 +5651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56841,
+      "num": 608371,
+      "word": "珠江口东西两岸掀起串门热",
+      "onboard_time": 1720442298,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56739,
       "num": 282712,
       "word": "煤矿工父亲泪洒女儿北大博士毕业礼",
@@ -5497,14 +5705,6 @@
       "onboard_time": 1720432339,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54434,
-      "num": 54434,
-      "word": "无痛分娩国内普及率只有约30%",
-      "onboard_time": 1720481475,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 53331,
@@ -5561,14 +5761,6 @@
       "onboard_time": 1720332797,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 49975,
-      "num": 394253,
-      "word": "珠江口东西两岸掀起串门热",
-      "onboard_time": 1720442298,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49056,
