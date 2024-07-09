@@ -1,0 +1,410 @@
+{
+  "runTime": 1720538467258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549622,
+        "num": 1549622,
+        "word": "729声明",
+        "onboard_time": 1720531219,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1376403,
+        "num": 1376403,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20937,
+        "num": 1101076,
+        "word": "新时代全面深化改革的宝贵经验",
+        "onboard_time": 1720531637,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945480,
+        "num": 945480,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720970,
+        "num": 720970,
+        "word": "巴黎奥运会韩国代表团制服",
+        "onboard_time": 1720533858,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643528,
+        "num": 643528,
+        "word": "国务院食安办回应油罐车事件",
+        "onboard_time": 1720523178,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 736687,
+        "num": 579501,
+        "word": "防风邶下线",
+        "onboard_time": 1720529839,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456918,
+        "num": 456918,
+        "word": "会吵架真的能省很多事",
+        "onboard_time": 1720535178,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604589,
+        "num": 447133,
+        "word": "小夭的难堪众人的狂欢",
+        "onboard_time": 1720534819,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76318,
+        "num": 427749,
+        "word": "母亲背罕见病儿子14年累断足骨",
+        "onboard_time": 1720537520,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816943,
+        "num": 418492,
+        "word": "金龙鱼再回应油罐车事件",
+        "onboard_time": 1720520058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740543,
+        "num": 404696,
+        "word": "跌200万后女子要卖掉能看西湖的房子",
+        "onboard_time": 1720536620,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536082,
+        "num": 390558,
+        "word": "鲁花回应油罐车事件",
+        "onboard_time": 1720515739,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522047,
+        "num": 376615,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500583,
+        "num": 362747,
+        "word": "中储粮油厂门口油罐车司机称没活干",
+        "onboard_time": 1720530439,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352408,
+        "num": 352408,
+        "word": "金牛座为什么难以亲近",
+        "onboard_time": 1720532118,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314739,
+        "num": 314739,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307952,
+        "num": 307952,
+        "word": "长相思戏还没播完番外先出了",
+        "onboard_time": 1720538119,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304532,
+        "num": 304532,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 283719,
+        "num": 283719,
+        "word": "鹿晗工作室是在暗示四巡地点吗",
+        "onboard_time": 1720527558,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 688959,
+        "num": 283445,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 433074,
+        "num": 279757,
+        "word": "才25岁就要被介绍40岁的男孩",
+        "onboard_time": 1720527318,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386192,
+        "num": 278672,
+        "word": "研究发现月经用品中含有毒金属",
+        "onboard_time": 1720528938,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 374720,
+        "num": 275020,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315209,
+        "num": 272871,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272356,
+        "num": 272356,
+        "word": "小夭在海边等了相柳7日",
+        "onboard_time": 1720530738,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265737,
+        "num": 265737,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261971,
+        "num": 261971,
+        "word": "西班牙vs法国",
+        "onboard_time": 1720535959,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255525,
+        "num": 255525,
+        "word": "iPhone16系列或将支持40W快充",
+        "onboard_time": 1720537158,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215134,
+        "num": 215134,
+        "word": "失踪22年美国登山者遗体被找到",
+        "onboard_time": 1720535120,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188374,
+        "num": 188374,
+        "word": "欢迎来到我身边",
+        "onboard_time": 1720537280,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185510,
+        "num": 185510,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183020,
+        "num": 183020,
+        "word": "欧洲杯半决赛",
+        "onboard_time": 1720536019,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170736,
+        "num": 170736,
+        "word": "徐志胜 本来上班就烦",
+        "onboard_time": 1720522638,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167572,
+        "num": 167572,
+        "word": "人死之前为什么会回光返照",
+        "onboard_time": 1720537579,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163180,
+        "num": 163180,
+        "word": "卢昱晓父母都是医生",
+        "onboard_time": 1720529240,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159632,
+        "num": 159632,
+        "word": "清华大学博士情侣毕业奔赴祖国中部",
+        "onboard_time": 1720537999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150679,
+        "num": 150679,
+        "word": "两个账号同一航班价格相差1300",
+        "onboard_time": 1720514180,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147705,
+        "num": 147705,
+        "word": "张拿铁带着爸爸干吃播",
+        "onboard_time": 1720532599,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141469,
+        "num": 141469,
+        "word": "胡姬花",
+        "onboard_time": 1720520419,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140726,
+        "num": 140726,
+        "word": "油罐车司机称客户有要求才会洗",
+        "onboard_time": 1720534339,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138886,
+        "num": 138886,
+        "word": "张凌赫和裴文宣合照",
+        "onboard_time": 1720533858,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134154,
+        "num": 134154,
+        "word": "傅园慧要去浙大当老师了",
+        "onboard_time": 1720514119,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116529,
+        "num": 116529,
+        "word": "重生之我是江浙沪独女",
+        "onboard_time": 1720517661,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116164,
+        "num": 116164,
+        "word": "孙莉晒三个孩子近况",
+        "onboard_time": 1720526537,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110997,
+        "num": 110997,
+        "word": "章若楠白敬亭营业了",
+        "onboard_time": 1720531578,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107864,
+        "num": 107864,
+        "word": "辛纳对战梅德维德夫",
+        "onboard_time": 1720538358,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106487,
+        "num": 106487,
+        "word": "微软回应中国员工必须用iPhone",
+        "onboard_time": 1720533379,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103275,
+        "num": 103275,
+        "word": "欧洲杯最壕的一场比赛来了",
+        "onboard_time": 1720534459,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103008,
+        "num": 103008,
+        "word": "billboard评选的最佳KPOP专辑",
+        "onboard_time": 1720537820,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动改革发展成果更多更公平惠及全体人民#"
+    }
+  }
+}

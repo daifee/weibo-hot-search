@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720535754476,
+  "endTime": 1720538467258,
   "band_list": [
     {
       "raw_hot": 3450111,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1376403,
+      "num": 1376403,
+      "word": "涂山璟 此身从此分明了",
+      "onboard_time": 1720535959,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1351307,
       "num": 1351307,
       "word": "傅园慧要去浙大当老师了",
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 945480,
+      "num": 945480,
+      "word": "黄晓明再次感谢虞书欣",
+      "onboard_time": 1720534459,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 927036,
       "num": 695353,
       "word": "女子隆胸被偷拍发布医院拒道歉",
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 781390,
-      "num": 781390,
-      "word": "黄晓明再次感谢虞书欣",
-      "onboard_time": 1720534459,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 773432,
       "num": 773432,
       "word": "周鸿祎称不认识杨幂",
@@ -291,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740543,
+      "num": 404696,
+      "word": "跌200万后女子要卖掉能看西湖的房子",
+      "onboard_time": 1720536620,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733463,
       "num": 293663,
       "word": "研究发现月经用品中含有毒金属",
       "onboard_time": 1720528938,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 720970,
+      "num": 720970,
+      "word": "巴黎奥运会韩国代表团制服",
+      "onboard_time": 1720533858,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 718720,
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456918,
+      "num": 456918,
+      "word": "会吵架真的能省很多事",
+      "onboard_time": 1720535178,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456883,
       "num": 456883,
       "word": "黄景瑜演初中生",
@@ -835,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 383406,
-      "num": 383406,
-      "word": "巴黎奥运会韩国代表团制服",
-      "onboard_time": 1720533858,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375872,
       "num": 375872,
       "word": "A股打响2900点保卫战",
@@ -1019,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315209,
+      "num": 272871,
+      "word": "不想结节癌变千万避开这3种蔬菜",
+      "onboard_time": 1720537099,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311054,
       "num": 311054,
       "word": "李蓉裴文宣闪婚闪离",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1720524798,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 307952,
+      "num": 307952,
+      "word": "长相思戏还没播完番外先出了",
+      "onboard_time": 1720538119,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 299712,
@@ -1123,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265737,
+      "num": 265737,
+      "word": "为什么现在电视剧都是1女N男",
+      "onboard_time": 1720537878,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265023,
       "num": 265023,
       "word": "泡泡玛特你退坑了吗",
@@ -1131,12 +1179,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261971,
+      "num": 261971,
+      "word": "西班牙vs法国",
+      "onboard_time": 1720535959,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260397,
       "num": 260397,
       "word": "谢娜要送小鸡去农场",
       "onboard_time": 1720498520,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255525,
+      "num": 255525,
+      "word": "iPhone16系列或将支持40W快充",
+      "onboard_time": 1720537158,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 254218,
@@ -1320,6 +1384,14 @@
       "word": "上海迪士尼调整停车收费规则",
       "onboard_time": 1720503917,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215134,
+      "num": 215134,
+      "word": "失踪22年美国登山者遗体被找到",
+      "onboard_time": 1720535120,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1579,6 +1651,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 188374,
+      "num": 188374,
+      "word": "欢迎来到我身边",
+      "onboard_time": 1720537280,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188207,
       "num": 208880,
       "word": "60岁老闺蜜退休一起上山下河救援",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1720532599,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 183020,
+      "num": 183020,
+      "word": "欧洲杯半决赛",
+      "onboard_time": 1720536019,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 182056,
@@ -1819,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167572,
+      "num": 167572,
+      "word": "人死之前为什么会回光返照",
+      "onboard_time": 1720537579,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166815,
       "num": 166815,
       "word": "墨雨云间网剧播放量TOP1",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1720530018,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159632,
+      "num": 159632,
+      "word": "清华大学博士情侣毕业奔赴祖国中部",
+      "onboard_time": 1720537999,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159258,
@@ -1969,14 +2073,6 @@
       "onboard_time": 1720521018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155311,
-      "num": 155311,
-      "word": "会吵架真的能省很多事",
-      "onboard_time": 1720535178,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 155243,
@@ -2233,6 +2329,14 @@
       "onboard_time": 1720489998,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140726,
+      "num": 140726,
+      "word": "油罐车司机称客户有要求才会洗",
+      "onboard_time": 1720534339,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140432,
@@ -2555,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118290,
-      "num": 118290,
-      "word": "油罐车司机称客户有要求才会洗",
-      "onboard_time": 1720534339,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "多家食用油官方直播间降价促销",
@@ -2691,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107864,
+      "num": 107864,
+      "word": "辛纳对战梅德维德夫",
+      "onboard_time": 1720538358,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106944,
       "num": 106944,
       "word": "这饭幼儿园小朋友能吃明白吗",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1720455317,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103008,
+      "num": 103008,
+      "word": "billboard评选的最佳KPOP专辑",
+      "onboard_time": 1720537820,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 102570,
@@ -2824,6 +2936,14 @@
       "word": "曾告赢迪士尼的小王同学已是一名律师",
       "onboard_time": 1720503019,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76318,
+      "num": 427749,
+      "word": "母亲背罕见病儿子14年累断足骨",
+      "onboard_time": 1720537520,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2945,14 +3065,6 @@
       "onboard_time": 1720473551,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 52296,
-      "num": 173153,
-      "word": "失踪22年美国登山者遗体被找到",
-      "onboard_time": 1720535120,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51563,
@@ -3116,7 +3228,7 @@
     },
     {
       "raw_hot": 27089,
-      "num": 936172,
+      "num": 1101076,
       "word": "新时代全面深化改革的宝贵经验",
       "onboard_time": 1720531637,
       "rank": 2,
