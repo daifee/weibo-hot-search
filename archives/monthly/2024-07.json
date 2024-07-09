@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720517708586,
+  "endTime": 1720520450180,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -969,6 +969,14 @@
       "onboard_time": 1720319836,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175744,
+      "num": 228207,
+      "word": "体制内对怀孕女性的态度",
+      "onboard_time": 1720517419,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1168087,
@@ -2643,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723899,
+      "num": 723899,
+      "word": "冀E5476W",
+      "onboard_time": 1720518978,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722103,
       "num": 722103,
       "word": "斯塔默将成英国新首相",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1719841880,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 644533,
+      "num": 644533,
+      "word": "重生之我是江浙沪独女",
+      "onboard_time": 1720517661,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 644350,
@@ -4011,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 561195,
+      "num": 561195,
+      "word": "金龙鱼再回应油罐车事件",
+      "onboard_time": 1720520058,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559907,
       "num": 559907,
       "word": "周润发在朝阳公园跑步",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1720010417,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 495173,
+      "num": 495173,
+      "word": "两个账号同一航班价格相差1300",
+      "onboard_time": 1720514180,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495050,
@@ -5811,6 +5851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 438646,
+      "num": 438646,
+      "word": "你好星期六",
+      "onboard_time": 1720235957,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438192,
       "num": 438192,
       "word": "12306回应火车票退票费规定",
@@ -6611,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387771,
+      "num": 387771,
+      "word": "涉事大豆油收货方回应",
+      "onboard_time": 1720514299,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387667,
       "num": 347128,
       "word": "他家的情况比我的梦还乱",
@@ -7387,6 +7443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "你好星期六评分",
+      "onboard_time": 1720517838,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350449,
       "num": 249364,
       "word": "坚持了二十天晚上十点半睡觉",
@@ -7699,14 +7763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335569,
-      "num": 335569,
-      "word": "你好星期六",
-      "onboard_time": 1720235957,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335367,
       "num": 335367,
       "word": "苗苗差点又来跑男救场",
@@ -7729,14 +7785,6 @@
       "onboard_time": 1720423758,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334503,
-      "num": 334503,
-      "word": "两个账号同一航班价格相差1300",
-      "onboard_time": 1720514180,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334302,
@@ -8145,6 +8193,14 @@
       "onboard_time": 1719803119,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 318086,
+      "num": 318086,
+      "word": "王勉说从未责怪过妈妈",
+      "onboard_time": 1720517596,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 317742,
@@ -9123,6 +9179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268888,
+      "num": 268888,
+      "word": "谁在用问题食用油",
+      "onboard_time": 1720517358,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268402,
       "num": 276898,
       "word": "孙丞潇做出了评价最差的一道菜",
@@ -9553,6 +9617,14 @@
       "onboard_time": 1719939735,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251108,
+      "num": 251108,
+      "word": "巴黎奥运乒乓球女单种子排名",
+      "onboard_time": 1720515739,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 250381,
@@ -10355,6 +10427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228592,
+      "num": 228592,
+      "word": "沈腾马丽 中偶",
+      "onboard_time": 1720516340,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "city不city的旅行到底是什么",
@@ -10489,14 +10569,6 @@
       "onboard_time": 1720278319,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224882,
-      "num": 224882,
-      "word": "沈腾马丽 中偶",
-      "onboard_time": 1720516340,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 224748,
@@ -12123,14 +12195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198409,
-      "num": 198409,
-      "word": "谁在用问题食用油",
-      "onboard_time": 1720517358,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198308,
       "num": 198308,
       "word": "XG世巡中国场",
@@ -12385,14 +12449,6 @@
       "onboard_time": 1719991698,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195632,
-      "num": 195632,
-      "word": "巴黎奥运乒乓球女单种子排名",
-      "onboard_time": 1720515739,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 195466,
@@ -14179,14 +14235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175087,
-      "num": 343950,
-      "word": "涉事大豆油收货方回应",
-      "onboard_time": 1720514299,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "终于有人把怎么选防晒衣讲明白了",
@@ -14321,6 +14369,14 @@
       "onboard_time": 1720149199,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172956,
+      "num": 172956,
+      "word": "迪丽热巴翻领皮衣",
+      "onboard_time": 1720520298,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172857,
@@ -14561,6 +14617,14 @@
       "onboard_time": 1719877036,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169416,
+      "num": 169416,
+      "word": "高圆圆吊带白裙",
+      "onboard_time": 1720519159,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169325,
@@ -15411,14 +15475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159120,
-      "num": 159120,
-      "word": "体制内对怀孕女性的态度",
-      "onboard_time": 1720517419,
-      "rank": 33,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 159017,
       "num": 159017,
       "word": "林小宅全新演员公示照",
@@ -15441,6 +15497,14 @@
       "onboard_time": 1720492638,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158872,
+      "num": 570965,
+      "word": "谁该对煤制油罐车混装食用油负责",
+      "onboard_time": 1720512318,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158775,
@@ -15499,6 +15563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157661,
+      "num": 157661,
+      "word": "朱旺旺从幕后到幕前用了4年",
+      "onboard_time": 1720518498,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -15513,6 +15585,14 @@
       "onboard_time": 1720270338,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157472,
+      "num": 157472,
+      "word": "长相思2首日云合",
+      "onboard_time": 1720519579,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 157442,
@@ -16763,6 +16843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145031,
+      "num": 145031,
+      "word": "一号种子王楚钦",
+      "onboard_time": 1720518858,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145005,
       "num": 145005,
       "word": "张峻豪饭拍",
@@ -17363,6 +17451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140302,
+      "num": 140302,
+      "word": "延期两年未交房女子入住毛坯房",
+      "onboard_time": 1720518259,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140170,
       "num": 140170,
       "word": "玉骨遥里遗憾是什么",
@@ -17713,6 +17809,14 @@
       "onboard_time": 1720072638,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137125,
+      "num": 137125,
+      "word": "揭秘化工油食用油混装收货方",
+      "onboard_time": 1720519518,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137036,
@@ -18427,14 +18531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130450,
-      "num": 130450,
-      "word": "王勉说从未责怪过妈妈",
-      "onboard_time": 1720517596,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
@@ -18468,7 +18564,7 @@
     },
     {
       "raw_hot": 130273,
-      "num": 130273,
+      "num": 496032,
       "word": "邢台成立调查组摸底排查全市罐车",
       "onboard_time": 1720516159,
       "rank": 47,
@@ -18481,6 +18577,14 @@
       "onboard_time": 1719977897,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130192,
+      "num": 459610,
+      "word": "汇福粮油称罐车运输的是客户自提散油",
+      "onboard_time": 1720515618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130092,
@@ -18875,6 +18979,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 126701,
+      "num": 126701,
+      "word": "韩国流行的富人区下车感",
+      "onboard_time": 1720519278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126513,
       "num": 126513,
       "word": "中国人脱敏的一生",
@@ -19011,14 +19123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125276,
-      "num": 570965,
-      "word": "谁该对煤制油罐车混装食用油负责",
-      "onboard_time": 1720512318,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125241,
       "num": 125241,
       "word": "任嘉伦的学习态度",
@@ -19147,6 +19251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123810,
+      "num": 123810,
+      "word": "胡姬花",
+      "onboard_time": 1720520419,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123799,
       "num": 123799,
       "word": "章若楠翟潇闻互关了",
@@ -19241,6 +19353,14 @@
       "onboard_time": 1720144638,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122776,
+      "num": 122776,
+      "word": "AI还原吃菌子中毒后的世界",
+      "onboard_time": 1720518018,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 122759,
@@ -19489,14 +19609,6 @@
       "onboard_time": 1719987498,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120383,
-      "num": 459610,
-      "word": "汇福粮油称罐车运输的是客户自提散油",
-      "onboard_time": 1720515618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120344,
@@ -20041,14 +20153,6 @@
       "onboard_time": 1720225938,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115188,
-      "num": 115188,
-      "word": "重生之我是江浙沪独女",
-      "onboard_time": 1720517661,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115177,
@@ -23283,6 +23387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 51563,
+      "num": 169782,
+      "word": "波兰拟参与击落乌领空俄导弹和无人机",
+      "onboard_time": 1720520118,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 51446,
       "num": 51446,
       "word": "KPL发布梦之队公告",
@@ -24161,6 +24273,14 @@
       "onboard_time": 1720495519,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33614,
+      "num": 169581,
+      "word": "高圆圆选了全新亚洲龙",
+      "onboard_time": 1720519457,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32911,
@@ -25105,6 +25225,14 @@
       "onboard_time": 1719949271,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13413,
+      "num": 145720,
+      "word": "赵又廷选了迈腾B9",
+      "onboard_time": 1720520178,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13305,
