@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720520450180,
+  "endTime": 1720521467232,
   "band_list": [
     {
       "raw_hot": 3450111,
@@ -16,6 +16,14 @@
       "word": "CoCo员工被曝切西瓜时吃掉瓜心",
       "onboard_time": 1720487837,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1942661,
+      "num": 1942661,
+      "word": "金龙鱼再回应油罐车事件",
+      "onboard_time": 1720520058,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191710,
+      "num": 259411,
+      "word": "体制内对怀孕女性的态度",
+      "onboard_time": 1720517419,
+      "rank": 33,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 1180122,
       "num": 1180122,
       "word": "狂飙兄弟致歉",
@@ -99,20 +115,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1175744,
-      "num": 228207,
-      "word": "体制内对怀孕女性的态度",
-      "onboard_time": 1720517419,
-      "rank": 33,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 1156786,
       "num": 948443,
       "word": "蔡徐坤 范思哲",
       "onboard_time": 1720515679,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1143737,
+      "num": 1143737,
+      "word": "冀E5476W",
+      "onboard_time": 1720518978,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1118769,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723899,
-      "num": 723899,
-      "word": "冀E5476W",
-      "onboard_time": 1720518978,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 718720,
       "num": 718720,
       "word": "阿狸 整容",
@@ -251,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670397,
+      "num": 670397,
+      "word": "重生之我是江浙沪独女",
+      "onboard_time": 1720517661,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647242,
       "num": 288650,
       "word": "海底捞等位可以打麻将了",
       "onboard_time": 1720504097,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 644533,
-      "num": 644533,
-      "word": "重生之我是江浙沪独女",
-      "onboard_time": 1720517661,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 643324,
@@ -345,14 +353,6 @@
       "onboard_time": 1720496359,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 561195,
-      "num": 561195,
-      "word": "金龙鱼再回应油罐车事件",
-      "onboard_time": 1720520058,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559907,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 449192,
-      "num": 242893,
+      "num": 258570,
       "word": "女子花18.7元买了2颗荔枝尝鲜",
       "onboard_time": 1720513458,
       "rank": 25,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333372,
+      "num": 333372,
+      "word": "王勉说从未责怪过妈妈",
+      "onboard_time": 1720517596,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330342,
       "num": 330342,
       "word": "电影负负得正定档七夕",
@@ -795,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318086,
-      "num": 318086,
-      "word": "王勉说从未责怪过妈妈",
-      "onboard_time": 1720517596,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317742,
       "num": 317742,
       "word": "陈泽 花小龙",
@@ -825,6 +825,14 @@
       "onboard_time": 1720500141,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305558,
+      "num": 305558,
+      "word": "韩国流行的富人区下车感",
+      "onboard_time": 1720519278,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299712,
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258208,
+      "num": 258208,
+      "word": "胡姬花",
+      "onboard_time": 1720520419,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254218,
       "num": 254218,
       "word": "小夭今晚大婚",
@@ -923,8 +939,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251108,
-      "num": 251108,
+      "raw_hot": 252334,
+      "num": 252334,
       "word": "巴黎奥运乒乓球女单种子排名",
       "onboard_time": 1720515739,
       "rank": 28,
@@ -1579,6 +1595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150065,
+      "num": 150065,
+      "word": "朱一龙杀回暑期档",
+      "onboard_time": 1720520839,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "收到了隔壁妹妹的小纸条",
@@ -1611,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147465,
+      "num": 147465,
+      "word": "一号种子王楚钦",
+      "onboard_time": 1720518858,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146997,
       "num": 146997,
       "word": "眉姐姐回宫了",
@@ -1635,20 +1667,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145733,
+      "num": 145733,
+      "word": "延期两年未交房女子入住毛坯房",
+      "onboard_time": 1720518259,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145329,
       "num": 145329,
       "word": "广州网约车司机整月不休也难赚到1万元",
       "onboard_time": 1720447220,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145031,
-      "num": 145031,
-      "word": "一号种子王楚钦",
-      "onboard_time": 1720518858,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 143931,
@@ -1737,14 +1769,6 @@
       "onboard_time": 1720464552,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140302,
-      "num": 140302,
-      "word": "延期两年未交房女子入住毛坯房",
-      "onboard_time": 1720518259,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138355,
@@ -1843,7 +1867,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130273,
+      "raw_hot": 130798,
       "num": 496032,
       "word": "邢台成立调查组摸底排查全市罐车",
       "onboard_time": 1720516159,
@@ -1899,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126701,
-      "num": 126701,
-      "word": "韩国流行的富人区下车感",
-      "onboard_time": 1720519278,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125700,
       "num": 125700,
       "word": "奶牛猫都学会击鼓鸣冤了",
@@ -1939,14 +1955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123810,
-      "num": 123810,
-      "word": "胡姬花",
-      "onboard_time": 1720520419,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122776,
       "num": 122776,
       "word": "AI还原吃菌子中毒后的世界",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1720504520,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122172,
+      "num": 115694,
+      "word": "工作室是在预告肖战法国vlog吗",
+      "onboard_time": 1720521317,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 122041,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1720443018,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117620,
+      "num": 117620,
+      "word": "多家食用油官方直播间降价促销",
+      "onboard_time": 1720520897,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 116079,
@@ -2331,6 +2355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48478,
+      "num": 470172,
+      "word": "煤油罐车装的食用油有没有被搬上桌",
+      "onboard_time": 1720521018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47088,
       "num": 47088,
       "word": "李荣浩演唱会目送杨丞琳离场",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1720471630,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39613,
+      "num": 181939,
+      "word": "高圆圆选了全新亚洲龙",
+      "onboard_time": 1720519457,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39473,
@@ -2411,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33614,
-      "num": 169581,
-      "word": "高圆圆选了全新亚洲龙",
-      "onboard_time": 1720519457,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 30784,
       "num": 218558,
       "word": "莫文蔚你宣吧",
@@ -2452,7 +2484,7 @@
     },
     {
       "raw_hot": 25698,
-      "num": 1047589,
+      "num": 1322774,
       "word": "沿着长江经济带看中国",
       "onboard_time": 1720512859,
       "rank": 2,
@@ -2483,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22574,
+      "num": 175095,
+      "word": "美国弹药自动售卖机扫身份证随时购买",
+      "onboard_time": 1720521079,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20307,
       "num": 26632,
       "word": "罐车拉完煤制油直接装食用油",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1720506018,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 17005,
+      "num": 268716,
+      "word": "赵又廷选了迈腾B9",
+      "onboard_time": 1720520178,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16743,
@@ -2521,14 +2569,6 @@
       "onboard_time": 1720495818,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13413,
-      "num": 145720,
-      "word": "赵又廷选了迈腾B9",
-      "onboard_time": 1720520178,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12430,
