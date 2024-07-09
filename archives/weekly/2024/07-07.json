@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720556456705,
+  "endTime": 1720557353690,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -7827,6 +7827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65153,
+      "num": 65153,
+      "word": "西班牙3分钟2球",
+      "onboard_time": 1720555212,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64831,
       "num": 64831,
       "word": "鞠婧祎周六放饭",
@@ -7857,14 +7865,6 @@
       "onboard_time": 1720398437,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63442,
-      "num": 63442,
-      "word": "西班牙3分钟2球",
-      "onboard_time": 1720555212,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 63300,
@@ -8745,6 +8745,14 @@
       "onboard_time": 1720535659,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19649,
+      "num": 19649,
+      "word": "欧洲杯不无聊了",
+      "onboard_time": 1720556651,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 19585,
