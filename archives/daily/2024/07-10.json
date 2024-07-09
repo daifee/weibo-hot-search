@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720564559010,
+  "endTime": 1720567316360,
   "band_list": [
     {
       "raw_hot": 900056,
@@ -36,15 +36,23 @@
     },
     {
       "raw_hot": 580791,
-      "num": 135194,
+      "num": 136957,
       "word": "不想结节癌变千万避开这3种蔬菜",
       "onboard_time": 1720537099,
       "rank": 20,
       "category": "健康医疗"
     },
     {
+      "raw_hot": 572386,
+      "num": 572386,
+      "word": "西班牙vs法国",
+      "onboard_time": 1720535959,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482926,
-      "num": 446133,
+      "num": 463156,
       "word": "为什么现在电视剧都是1女N男",
       "onboard_time": 1720537878,
       "rank": 6,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406938,
-      "num": 406938,
-      "word": "西班牙vs法国",
-      "onboard_time": 1720535959,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 416220,
+      "num": 223773,
+      "word": "失踪22年美国登山者遗体被找到",
+      "onboard_time": 1720535120,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404900,
@@ -89,6 +97,14 @@
       "onboard_time": 1720538119,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371503,
+      "num": 371503,
+      "word": "4岁姐姐抱着8个月壮汉弟弟",
+      "onboard_time": 1720566614,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 349578,
@@ -123,6 +139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279221,
+      "num": 223160,
+      "word": "三只羊在开发自营梅菜扣肉",
+      "onboard_time": 1720547473,
+      "rank": 19,
+      "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 265828,
+      "num": 265828,
+      "word": "西班牙2比1法国",
+      "onboard_time": 1720559350,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "小夭的难堪众人的狂欢",
@@ -131,12 +163,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221323,
-      "num": 126057,
-      "word": "失踪22年美国登山者遗体被找到",
-      "onboard_time": 1720535120,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 237259,
+      "num": 136945,
+      "word": "体制内到办公室的第一件事",
+      "onboard_time": 1720529660,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 227980,
+      "num": 227980,
+      "word": "中国人民解放军92950部队记一等功",
+      "onboard_time": 1720524017,
+      "rank": 18,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 216597,
+      "num": 216597,
+      "word": "姆巴佩本届欧洲杯首个助攻",
+      "onboard_time": 1720552871,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 193250,
@@ -155,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186149,
+      "num": 186149,
+      "word": "吉鲁退出法国国家队",
+      "onboard_time": 1720563672,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184237,
       "num": 184237,
       "word": "iPhone16系列或将支持40W快充",
@@ -171,12 +227,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 174452,
-      "num": 127812,
-      "word": "体制内到办公室的第一件事",
-      "onboard_time": 1720529660,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 167744,
+      "num": 167744,
+      "word": "西班牙逆转晋级决赛",
+      "onboard_time": 1720559350,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160020,
+      "num": 160020,
+      "word": "欧洲杯半决赛",
+      "onboard_time": 1720536019,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 158771,
@@ -188,27 +252,11 @@
     },
     {
       "raw_hot": 152106,
-      "num": 149343,
+      "num": 151631,
       "word": "相柳 ooc",
       "onboard_time": 1720539678,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149904,
-      "num": 149904,
-      "word": "姆巴佩本届欧洲杯首个助攻",
-      "onboard_time": 1720552871,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148198,
-      "num": 148198,
-      "word": "中国人民解放军92950部队记一等功",
-      "onboard_time": 1720524017,
-      "rank": 18,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 144269,
@@ -235,35 +283,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126150,
-      "num": 126150,
-      "word": "西班牙2比1法国",
-      "onboard_time": 1720559350,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121270,
-      "num": 111358,
-      "word": "三只羊在开发自营梅菜扣肉",
-      "onboard_time": 1720547473,
-      "rank": 19,
-      "category": "美食,互联网"
-    },
-    {
       "raw_hot": 120564,
       "num": 120564,
       "word": "西班牙3分钟2球",
       "onboard_time": 1720555212,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110851,
-      "num": 125819,
-      "word": "欧洲杯半决赛",
-      "onboard_time": 1720536019,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -289,6 +313,38 @@
       "onboard_time": 1720543095,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93804,
+      "num": 93804,
+      "word": "姆巴佩欧洲杯9场仅1球",
+      "onboard_time": 1720564394,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88642,
+      "num": 88642,
+      "word": "欧洲杯",
+      "onboard_time": 1720528218,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88433,
+      "num": 88433,
+      "word": "4个部位出汗多暗示身体有问题",
+      "onboard_time": 1720548013,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86537,
+      "num": 86537,
+      "word": "官方通报2公职人员偷豆角",
+      "onboard_time": 1720567095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86104,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71678,
+      "num": 71678,
+      "word": "亚马尔MVP",
+      "onboard_time": 1720561991,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70231,
       "num": 125166,
       "word": "孙莉晒三个孩子近况",
@@ -432,14 +496,6 @@
       "word": "穆阿尼头球破门",
       "onboard_time": 1720552871,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60042,
-      "num": 60042,
-      "word": "西班牙逆转晋级决赛",
-      "onboard_time": 1720559350,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -491,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50858,
+      "num": 50858,
+      "word": "红衣夭柳就当你也嫁过我一次",
+      "onboard_time": 1720566315,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50652,
       "num": 50652,
       "word": "法国欧洲杯出局",
@@ -507,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47650,
-      "num": 47650,
-      "word": "吉鲁退出法国国家队",
-      "onboard_time": 1720563672,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 43279,
+      "num": 43279,
+      "word": "汤唯素颜生图",
+      "onboard_time": 1720550710,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 43576,
-      "num": 43576,
-      "word": "4个部位出汗多暗示身体有问题",
-      "onboard_time": 1720548013,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 42897,
+      "num": 42897,
+      "word": "解除封印的姆巴佩",
+      "onboard_time": 1720558331,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 42120,
@@ -555,20 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35177,
-      "num": 35177,
-      "word": "汤唯素颜生图",
-      "onboard_time": 1720550710,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32502,
-      "num": 32502,
-      "word": "解除封印的姆巴佩",
-      "onboard_time": 1720558331,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 36430,
+      "num": 402655,
+      "word": "伟大的历史变革",
+      "onboard_time": 1720531460,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32495,
@@ -595,22 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28370,
-      "num": 28370,
-      "word": "亚马尔MVP",
-      "onboard_time": 1720561991,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 25602,
-      "num": 26978,
-      "word": "姆巴佩欧洲杯9场仅1球",
-      "onboard_time": 1720564394,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24691,
       "num": 24691,
       "word": "法国门将潇洒滑铲",
@@ -635,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17437,
-      "num": 270862,
-      "word": "伟大的历史变革",
-      "onboard_time": 1720531460,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15910,
       "num": 687268,
       "word": "新时代全面深化改革的宝贵经验",
@@ -665,6 +697,14 @@
       "onboard_time": 1720541237,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 14570,
+      "num": 136997,
+      "word": "司机转弯时掉入水库村民合力救人",
+      "onboard_time": 1720567155,
+      "rank": 20,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
