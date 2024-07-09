@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720502362639,
+  "endTime": 1720503362169,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -107,8 +107,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1532379,
-      "num": 1532379,
+      "raw_hot": 1669905,
+      "num": 1669905,
       "word": "2名公务员偷摘豆角与村民肢体冲突",
       "onboard_time": 1720499900,
       "rank": 1,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180122,
+      "num": 1180122,
+      "word": "狂飙兄弟致歉",
+      "onboard_time": 1720499484,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1175903,
       "num": 1175903,
       "word": "男孩被收养16年被判无权继承百万遗产",
@@ -273,14 +281,6 @@
       "onboard_time": 1720492878,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1106226,
-      "num": 1106226,
-      "word": "狂飙兄弟致歉",
-      "onboard_time": 1720499540,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1100610,
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 883911,
+      "num": 883911,
+      "word": "河北省市监局调查油罐混装事件",
+      "onboard_time": 1720500980,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879846,
       "num": 879846,
       "word": "福宝竟然站了1分钟",
@@ -505,14 +513,6 @@
       "onboard_time": 1720491616,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 843638,
-      "num": 843638,
-      "word": "河北省市监局调查油罐混装事件",
-      "onboard_time": 1720500980,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830131,
@@ -1155,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 513610,
+      "num": 513610,
+      "word": "谁家王后刚上位就发疯",
+      "onboard_time": 1720501104,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512150,
       "num": 475070,
       "word": "伊朗新总统主张亲西方政策",
@@ -1707,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 386092,
-      "num": 386092,
-      "word": "谁家王后刚上位就发疯",
-      "onboard_time": 1720501219,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385771,
       "num": 321581,
       "word": "印度决定放宽对中国工人的签证限制",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1720352298,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377789,
+      "num": 377789,
+      "word": "鹿晗工作室回复各地文旅",
+      "onboard_time": 1720502299,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 376812,
@@ -2139,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328571,
+      "num": 328571,
+      "word": "女子找人冒充前男友与自己结婚报复",
+      "onboard_time": 1720500679,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328299,
       "num": 328299,
       "word": "TES对战G2",
@@ -2275,12 +2291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310050,
-      "num": 310050,
-      "word": "女子找人冒充前男友与自己结婚报复",
-      "onboard_time": 1720500679,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 310200,
+      "num": 310200,
+      "word": "玱玹快被小夭钓成翘嘴了",
+      "onboard_time": 1720500141,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 309062,
@@ -2297,14 +2313,6 @@
       "onboard_time": 1720445540,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308639,
-      "num": 308639,
-      "word": "玱玹快被小夭钓成翘嘴了",
-      "onboard_time": 1720500202,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 307174,
@@ -2883,14 +2891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231617,
-      "num": 231617,
-      "word": "鹿晗工作室回复各地文旅",
-      "onboard_time": 1720502299,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231459,
       "num": 231459,
       "word": "张静初回应全素饮食被质疑不健康",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1720416379,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "中储粮金鼎食用油再下架",
+      "onboard_time": 1720502058,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209513,
@@ -3355,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196182,
+      "num": 196182,
+      "word": "女生地铁上发现男子猥亵她人怒呵止",
+      "onboard_time": 1720501998,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196006,
       "num": 196006,
       "word": "时代少年团对接回应",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1720329557,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 188625,
+      "num": 188625,
+      "word": "GLASS三周年盛典阵容官宣",
+      "onboard_time": 1720502601,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 188555,
@@ -3985,6 +4009,14 @@
       "onboard_time": 1720229118,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170358,
+      "num": 170358,
+      "word": "朱一龙社畜感在演我",
+      "onboard_time": 1720502841,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 170335,
@@ -4523,14 +4555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 148079,
-      "num": 148079,
-      "word": "女生地铁上发现男子猥亵她人怒呵止",
-      "onboard_time": 1720501998,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148024,
       "num": 148024,
       "word": "蒂亚戈退役",
@@ -4593,14 +4617,6 @@
       "onboard_time": 1720356438,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146578,
-      "num": 146578,
-      "word": "中储粮金鼎食用油再下架",
-      "onboard_time": 1720502058,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146478,
@@ -4683,12 +4699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143931,
+      "num": 143931,
+      "word": "微信公众号终于能改标题了",
+      "onboard_time": 1720498580,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143642,
       "num": 143642,
       "word": "燃烧腹部脂肪菠萝水",
       "onboard_time": 1720486879,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143452,
+      "num": 143452,
+      "word": "KPL",
+      "onboard_time": 1720502961,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 142956,
@@ -4827,6 +4859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138355,
+      "num": 138355,
+      "word": "阿狸原作者手写信",
+      "onboard_time": 1720503277,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138190,
       "num": 138190,
       "word": "玫瑰的故事创作座谈会",
@@ -4865,14 +4905,6 @@
       "onboard_time": 1720482737,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136904,
-      "num": 136904,
-      "word": "微信公众号终于能改标题了",
-      "onboard_time": 1720498580,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 136799,
@@ -5355,6 +5387,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 116079,
+      "num": 1400871,
+      "word": "美情报界编造一黑客组织来抹黑中国",
+      "onboard_time": 1720498459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115678,
       "num": 115678,
       "word": "邓为涂山璟",
@@ -5529,14 +5569,6 @@
       "onboard_time": 1720486638,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110852,
-      "num": 1393982,
-      "word": "美情报界编造一黑客组织来抹黑中国",
-      "onboard_time": 1720498459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110584,
@@ -6107,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70910,
+      "num": 372450,
+      "word": "曾告赢迪士尼的小王同学已是一名律师",
+      "onboard_time": 1720503022,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69954,
       "num": 69954,
       "word": "TES全华班",
@@ -6387,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54154,
+      "num": 572086,
+      "word": "村民急流中接力救出被困老人",
+      "onboard_time": 1720501159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53331,
       "num": 53331,
       "word": "为什么不ban兰博",
@@ -6611,14 +6659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39101,
-      "num": 572086,
-      "word": "村民急流中接力救出被困老人",
-      "onboard_time": 1720501159,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38854,
       "num": 385889,
       "word": "小孩姐评教育通透发言",
@@ -6811,6 +6851,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 22830,
+      "num": 168868,
+      "word": "国际大咖安利的尼山上有什么",
+      "onboard_time": 1720501219,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20803,
       "num": 22521,
       "word": "369单杀Zeus",
@@ -6864,14 +6912,6 @@
       "word": "多家公司回应罐车运输油罐混用",
       "onboard_time": 1720468031,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15364,
-      "num": 168868,
-      "word": "国际大咖安利的尼山上有什么",
-      "onboard_time": 1720501219,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

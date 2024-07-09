@@ -1,0 +1,410 @@
+{
+  "runTime": 1720503362169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1705796,
+        "num": 1705796,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487840,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1669905,
+        "num": 1669905,
+        "word": "2名公务员偷摘豆角与村民肢体冲突",
+        "onboard_time": 1720499903,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 1400871,
+        "word": "美情报界编造一黑客组织来抹黑中国",
+        "onboard_time": 1720498463,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180122,
+        "num": 1180122,
+        "word": "狂飙兄弟致歉",
+        "onboard_time": 1720499484,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1160746,
+        "num": 1160746,
+        "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+        "onboard_time": 1720497261,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 883911,
+        "num": 883911,
+        "word": "河北省市监局调查油罐混装事件",
+        "onboard_time": 1720500984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663717,
+        "num": 663717,
+        "word": "仅退款动了谁的奶酪",
+        "onboard_time": 1720492881,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647736,
+        "num": 647736,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490840,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618134,
+        "num": 618134,
+        "word": "临沂市文联主席战祥春遇害身亡",
+        "onboard_time": 1720497741,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513610,
+        "num": 513610,
+        "word": "谁家王后刚上位就发疯",
+        "onboard_time": 1720501104,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477721,
+        "num": 477721,
+        "word": "女子读研8年获学位证仅11天被作废",
+        "onboard_time": 1720489222,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453138,
+        "num": 453138,
+        "word": "周鸿祎称不认识杨幂",
+        "onboard_time": 1720492881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377789,
+        "num": 377789,
+        "word": "鹿晗工作室回复各地文旅",
+        "onboard_time": 1720502361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70910,
+        "num": 372450,
+        "word": "曾告赢迪士尼的小王同学已是一名律师",
+        "onboard_time": 1720503022,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371782,
+        "num": 371782,
+        "word": "王一博将传递奥运火炬",
+        "onboard_time": 1720500623,
+        "rank": 14,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 356177,
+        "num": 356177,
+        "word": "白敬亭咖啡店",
+        "onboard_time": 1720496903,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352465,
+        "num": 352465,
+        "word": "多家银行调整个人账户非柜面交易限额",
+        "onboard_time": 1720496421,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328571,
+        "num": 328571,
+        "word": "女子找人冒充前男友与自己结婚报复",
+        "onboard_time": 1720500684,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310200,
+        "num": 310200,
+        "word": "玱玹快被小夭钓成翘嘴了",
+        "onboard_time": 1720500141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289000,
+        "num": 289000,
+        "word": "厂牌回应Jennie疑似抽烟",
+        "onboard_time": 1720496421,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663397,
+        "num": 287486,
+        "word": "女生小腹一侧突然疼痛千万别忽视",
+        "onboard_time": 1720492881,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351655,
+        "num": 286198,
+        "word": "殡仪馆距自家仅20余米严重影响生活",
+        "onboard_time": 1720495162,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284372,
+        "num": 284372,
+        "word": "暑期档第一部悬疑剧来了",
+        "onboard_time": 1720491620,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250817,
+        "num": 250817,
+        "word": "男子多次虐待女儿希望将其判给前妻",
+        "onboard_time": 1720484901,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233123,
+        "num": 233123,
+        "word": "Uzi说赚不到奶粉钱了",
+        "onboard_time": 1720499603,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217913,
+        "num": 217913,
+        "word": "Jennie相关吸烟镜头已被删除",
+        "onboard_time": 1720500744,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209686,
+        "num": 209686,
+        "word": "中储粮金鼎食用油再下架",
+        "onboard_time": 1720502062,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207706,
+        "num": 207706,
+        "word": "相柳响尾蛇",
+        "onboard_time": 1720498702,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203072,
+        "num": 203072,
+        "word": "狂飙兄弟",
+        "onboard_time": 1720496481,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 215263,
+        "num": 203045,
+        "word": "韩网友向外交部告发Jennie",
+        "onboard_time": 1720490840,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54154,
+        "num": 196764,
+        "word": "村民急流中接力救出被困老人",
+        "onboard_time": 1720501163,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196182,
+        "num": 196182,
+        "word": "女生地铁上发现男子猥亵她人怒呵止",
+        "onboard_time": 1720502002,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 188625,
+        "word": "GLASS三周年盛典阵容官宣",
+        "onboard_time": 1720502601,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 179041,
+        "num": 179041,
+        "word": "唐诡西行 西妃回宫",
+        "onboard_time": 1720501524,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177692,
+        "num": 177692,
+        "word": "爸爸在天上急得团团转",
+        "onboard_time": 1720494743,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175068,
+        "num": 175068,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170358,
+        "num": 170358,
+        "word": "朱一龙社畜感在演我",
+        "onboard_time": 1720502841,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164803,
+        "num": 164803,
+        "word": "小米第三款车是增程SUV",
+        "onboard_time": 1720494441,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162445,
+        "num": 162445,
+        "word": "原神卡维贺图",
+        "onboard_time": 1720502062,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22830,
+        "num": 158509,
+        "word": "国际大咖安利的尼山上有什么",
+        "onboard_time": 1720501223,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157249,
+        "num": 157249,
+        "word": "冰箱门上的格子不能放牛奶",
+        "onboard_time": 1720489462,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151286,
+        "num": 151286,
+        "word": "从业者称罐车装油前检测由炼油厂把控",
+        "onboard_time": 1720497441,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148614,
+        "num": 148614,
+        "word": "泡泡玛特你退坑了吗",
+        "onboard_time": 1720494982,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147936,
+        "num": 147936,
+        "word": "做教师的子女是一种什么体验",
+        "onboard_time": 1720489281,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143931,
+        "num": 143931,
+        "word": "微信公众号终于能改标题了",
+        "onboard_time": 1720498584,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143452,
+        "num": 143452,
+        "word": "KPL",
+        "onboard_time": 1720502961,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142600,
+        "num": 142600,
+        "word": "电动车女孩根本打扮不了自己",
+        "onboard_time": 1720489222,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142384,
+        "num": 142384,
+        "word": "小夭今晚大婚",
+        "onboard_time": 1720495461,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138355,
+        "num": 138355,
+        "word": "阿狸原作者手写信",
+        "onboard_time": 1720503277,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136959,
+        "num": 136959,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449023,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

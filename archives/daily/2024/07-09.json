@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720502362639,
+  "endTime": 1720503362169,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -19,8 +19,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1532379,
-      "num": 1532379,
+      "raw_hot": 1669905,
+      "num": 1669905,
       "word": "2名公务员偷摘豆角与村民肢体冲突",
       "onboard_time": 1720499900,
       "rank": 1,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180122,
+      "num": 1180122,
+      "word": "狂飙兄弟致歉",
+      "onboard_time": 1720499484,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1118769,
       "num": 322030,
       "word": "女生小腹一侧突然疼痛千万别忽视",
       "onboard_time": 1720492878,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1106226,
-      "num": 1106226,
-      "word": "狂飙兄弟致歉",
-      "onboard_time": 1720499540,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1079541,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 883911,
+      "num": 883911,
+      "word": "河北省市监局调查油罐混装事件",
+      "onboard_time": 1720500980,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846647,
       "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
       "onboard_time": 1720491616,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 843638,
-      "num": 843638,
-      "word": "河北省市监局调查油罐混装事件",
-      "onboard_time": 1720500980,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824932,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513610,
+      "num": 513610,
+      "word": "谁家王后刚上位就发疯",
+      "onboard_time": 1720501104,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480305,
       "num": 236128,
       "word": "瘦了之后最大的感受是什么",
@@ -379,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386092,
-      "num": 386092,
-      "word": "谁家王后刚上位就发疯",
-      "onboard_time": 1720501219,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 377789,
+      "num": 377789,
+      "word": "鹿晗工作室回复各地文旅",
+      "onboard_time": 1720502299,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 373560,
@@ -467,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328571,
+      "num": 328571,
+      "word": "女子找人冒充前男友与自己结婚报复",
+      "onboard_time": 1720500679,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325915,
       "num": 325915,
       "word": "钢腿女孩和消防员的爱情后续",
@@ -523,18 +539,10 @@
       "category": "网红"
     },
     {
-      "raw_hot": 310050,
-      "num": 310050,
-      "word": "女子找人冒充前男友与自己结婚报复",
-      "onboard_time": 1720500679,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308639,
-      "num": 308639,
+      "raw_hot": 310200,
+      "num": 310200,
       "word": "玱玹快被小夭钓成翘嘴了",
-      "onboard_time": 1720500202,
+      "onboard_time": 1720500141,
       "rank": 23,
       "category": "剧集"
     },
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231617,
-      "num": 231617,
-      "word": "鹿晗工作室回复各地文旅",
-      "onboard_time": 1720502299,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223000,
       "num": 223000,
       "word": "长相思2首播热度",
@@ -696,6 +696,14 @@
       "word": "从业者称罐车装油前检测由炼油厂把控",
       "onboard_time": 1720497438,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "中储粮金鼎食用油再下架",
+      "onboard_time": 1720502058,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -763,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196182,
+      "num": 196182,
+      "word": "女生地铁上发现男子猥亵她人怒呵止",
+      "onboard_time": 1720501998,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193726,
       "num": 202003,
       "word": "化工油污染过的食用油对人体有何伤害",
@@ -793,6 +809,14 @@
       "onboard_time": 1720494258,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188625,
+      "num": 188625,
+      "word": "GLASS三周年盛典阵容官宣",
+      "onboard_time": 1720502601,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 188207,
@@ -883,6 +907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170358,
+      "num": 170358,
+      "word": "朱一龙社畜感在演我",
+      "onboard_time": 1720502841,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165129,
       "num": 161145,
       "word": "檀健次工作室 相柳半生书",
@@ -971,28 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148079,
-      "num": 148079,
-      "word": "女生地铁上发现男子猥亵她人怒呵止",
-      "onboard_time": 1720501998,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146997,
       "num": 146997,
       "word": "眉姐姐回宫了",
       "onboard_time": 1720495158,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146578,
-      "num": 146578,
-      "word": "中储粮金鼎食用油再下架",
-      "onboard_time": 1720502058,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146128,
@@ -1019,12 +1035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143931,
+      "num": 143931,
+      "word": "微信公众号终于能改标题了",
+      "onboard_time": 1720498580,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143642,
       "num": 143642,
       "word": "燃烧腹部脂肪菠萝水",
       "onboard_time": 1720486879,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143452,
+      "num": 143452,
+      "word": "KPL",
+      "onboard_time": 1720502961,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 142082,
@@ -1067,20 +1099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138355,
+      "num": 138355,
+      "word": "阿狸原作者手写信",
+      "onboard_time": 1720503277,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137336,
       "num": 137336,
       "word": "这只猴子难道血脉觉醒了",
       "onboard_time": 1720482737,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136904,
-      "num": 136904,
-      "word": "微信公众号终于能改标题了",
-      "onboard_time": 1720498580,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 136003,
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116079,
+      "num": 1400871,
+      "word": "美情报界编造一黑客组织来抹黑中国",
+      "onboard_time": 1720498459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114939,
       "num": 95015,
       "word": "萧亚轩一年半要动四次手术",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1720486638,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110852,
-      "num": 1393982,
-      "word": "美情报界编造一黑客组织来抹黑中国",
-      "onboard_time": 1720498459,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110584,
@@ -1403,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70910,
+      "num": 372450,
+      "word": "曾告赢迪士尼的小王同学已是一名律师",
+      "onboard_time": 1720503022,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67439,
       "num": 79440,
       "word": "美国超市疑似买到橡胶水果",
@@ -1459,6 +1499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 54154,
+      "num": 572086,
+      "word": "村民急流中接力救出被困老人",
+      "onboard_time": 1720501159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52309,
       "num": 52309,
       "word": "瘦腿算是给玩明白了",
@@ -1504,14 +1552,6 @@
       "word": "天津市监部门回应化工油罐车运输食用油事件",
       "onboard_time": 1720492398,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39101,
-      "num": 572086,
-      "word": "村民急流中接力救出被困老人",
-      "onboard_time": 1720501159,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22830,
+      "num": 168868,
+      "word": "国际大咖安利的尼山上有什么",
+      "onboard_time": 1720501219,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20307,
       "num": 26632,
       "word": "罐车拉完煤制油直接装食用油",
@@ -1584,14 +1632,6 @@
       "word": "多家公司回应罐车运输油罐混用",
       "onboard_time": 1720468031,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15364,
-      "num": 168868,
-      "word": "国际大咖安利的尼山上有什么",
-      "onboard_time": 1720501219,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
