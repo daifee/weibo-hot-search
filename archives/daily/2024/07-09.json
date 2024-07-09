@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720514266206,
+  "endTime": 1720516848431,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1351307,
+      "num": 1351307,
+      "word": "傅园慧要去浙大当老师了",
+      "onboard_time": 1720514119,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1291766,
       "num": 1291766,
       "word": "女子读研8年获学位证仅11天被作废",
@@ -72,6 +80,14 @@
       "word": "荷兰男子捐精生下1000个娃",
       "onboard_time": 1720509380,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242335,
+      "num": 1242335,
+      "word": "鲁花回应油罐车事件",
+      "onboard_time": 1720515739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -89,6 +105,14 @@
       "onboard_time": 1720492878,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1080999,
+      "num": 1080999,
+      "word": "金龙鱼",
+      "onboard_time": 1720512318,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1079541,
@@ -115,20 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1035011,
-      "num": 1035011,
-      "word": "金龙鱼",
-      "onboard_time": 1720512318,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
       "onboard_time": 1720508238,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 948443,
+      "num": 948443,
+      "word": "蔡徐坤 范思哲",
+      "onboard_time": 1720515679,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 927036,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468716,
+      "num": 468716,
+      "word": "永劫无间服务器",
+      "onboard_time": 1720515440,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453484,
       "num": 453484,
       "word": "油罐车事件",
@@ -433,6 +465,14 @@
       "onboard_time": 1720496418,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449192,
+      "num": 242893,
+      "word": "女子花18.7元买了2颗荔枝尝鲜",
+      "onboard_time": 1720513458,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443114,
@@ -643,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324734,
+      "num": 324734,
+      "word": "我国博士延毕率居高不下",
+      "onboard_time": 1720512318,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 324585,
       "num": 324585,
       "word": "中储粮要求对运输车辆核查装载记录",
@@ -835,6 +883,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241752,
+      "num": 241752,
+      "word": "两个账号同一航班价格相差1300",
+      "onboard_time": 1720514180,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "华为Mate60系列销量已过千万",
@@ -931,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210004,
-      "num": 188561,
-      "word": "女子花18.7元买了2颗荔枝尝鲜",
-      "onboard_time": 1720513458,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209686,
       "num": 209686,
       "word": "中储粮金鼎食用油再下架",
@@ -979,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204421,
+      "num": 204421,
+      "word": "你好星期六",
+      "onboard_time": 1720516519,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202841,
       "num": 202841,
       "word": "下半年天秤座时来运转",
@@ -993,14 +1049,6 @@
       "onboard_time": 1720504817,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201263,
-      "num": 201263,
-      "word": "我国博士延毕率居高不下",
-      "onboard_time": 1720512318,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 198843,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1720501998,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195632,
+      "num": 195632,
+      "word": "巴黎奥运乒乓球女单种子排名",
+      "onboard_time": 1720515739,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 193726,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1720504159,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187698,
+      "num": 187698,
+      "word": "胡锡进大涨11024元",
+      "onboard_time": 1720513938,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 186501,
@@ -1219,6 +1283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173835,
+      "num": 173835,
+      "word": "秒睡可能也是一种病",
+      "onboard_time": 1720513399,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172175,
       "num": 172175,
       "word": "老外对中国的开发不足1%",
@@ -1243,12 +1315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168967,
-      "num": 168967,
-      "word": "傅园慧要去浙大当老师了",
-      "onboard_time": 1720514119,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 165887,
+      "num": 165887,
+      "word": "沈腾马丽 中偶",
+      "onboard_time": 1720516340,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 165129,
@@ -1387,6 +1459,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149384,
+      "num": 149384,
+      "word": "收到了隔壁妹妹的小纸条",
+      "onboard_time": 1720515798,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149198,
+      "num": 149198,
+      "word": "浙大回应拟聘用傅园慧",
+      "onboard_time": 1720516039,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148352,
       "num": 148352,
       "word": "真我",
@@ -1409,14 +1497,6 @@
       "onboard_time": 1720495158,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146388,
-      "num": 146388,
-      "word": "秒睡可能也是一种病",
-      "onboard_time": 1720513399,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146128,
@@ -1449,14 +1529,6 @@
       "onboard_time": 1720498580,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 143726,
-      "num": 143726,
-      "word": "胡锡进大涨11024元",
-      "onboard_time": 1720513938,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 143642,
@@ -1595,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131703,
+      "num": 131703,
+      "word": "杨紫邓为同频笑场",
+      "onboard_time": 1720516398,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131034,
       "num": 131034,
       "word": "怦然4姐狗文学照进现实",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1720509977,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130910,
+      "num": 130910,
+      "word": "涉事大豆油收货方回应",
+      "onboard_time": 1720514299,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129026,
@@ -1699,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121444,
+      "num": 570965,
+      "word": "谁该对煤制油罐车混装食用油负责",
+      "onboard_time": 1720512318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121370,
       "num": 332097,
       "word": "阿勒泰雨后现梦幻云海",
@@ -1723,12 +1819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118315,
-      "num": 118315,
-      "word": "两个账号同一航班价格相差1300",
-      "onboard_time": 1720514180,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 119071,
+      "num": 119071,
+      "word": "电影默杀关注校园霸凌现象",
+      "onboard_time": 1720516699,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 116079,
@@ -1883,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91801,
+      "num": 293031,
+      "word": "年轻人买车更倾向科技大厂",
+      "onboard_time": 1720512438,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "mbti最e到最i人格",
@@ -1955,20 +2059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73113,
+      "num": 459610,
+      "word": "汇福粮油称罐车运输的是客户自提散油",
+      "onboard_time": 1720515618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72780,
       "num": 72780,
       "word": "韩素希担任大学演技导师",
       "onboard_time": 1720443199,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68889,
-      "num": 570965,
-      "word": "谁该对煤制油罐车混装食用油负责",
-      "onboard_time": 1720512318,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67439,
@@ -1996,7 +2100,7 @@
     },
     {
       "raw_hot": 65206,
-      "num": 998947,
+      "num": 1256766,
       "word": "文化中国行探寻ChinaTravel火爆密码",
       "onboard_time": 1720494918,
       "rank": 2,
@@ -2065,14 +2169,6 @@
       "onboard_time": 1720476672,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 44523,
-      "num": 293031,
-      "word": "年轻人买车更倾向科技大厂",
-      "onboard_time": 1720512438,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 43961,
