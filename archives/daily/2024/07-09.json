@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720506438021,
+  "endTime": 1720507404191,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387197,
+      "num": 1387197,
+      "word": "papi被高管好友吐槽不求上进",
+      "onboard_time": 1720504398,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1381670,
       "num": 1381670,
       "word": "仅退款动了谁的奶酪",
       "onboard_time": 1720492878,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1303082,
-      "num": 1303082,
-      "word": "papi被高管好友吐槽不求上进",
-      "onboard_time": 1720504398,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1291766,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 630357,
-      "num": 467398,
+      "num": 492921,
       "word": "肖战工作室发了肖战工作碎片",
       "onboard_time": 1720504579,
       "rank": 7,
@@ -185,6 +185,14 @@
       "onboard_time": 1720454538,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 609287,
+      "num": 288650,
+      "word": "海底捞等位可以打麻将了",
+      "onboard_time": 1720504097,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 583737,
@@ -291,20 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500533,
+      "num": 461525,
+      "word": "鹿晗工作室回复各地文旅",
+      "onboard_time": 1720502299,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480851,
+      "num": 413175,
+      "word": "韦东奕堂哥发声",
+      "onboard_time": 1720504279,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480305,
       "num": 236128,
       "word": "瘦了之后最大的感受是什么",
       "onboard_time": 1720480814,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 478628,
-      "num": 288650,
-      "word": "海底捞等位可以打麻将了",
-      "onboard_time": 1720504097,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 474068,
@@ -323,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461525,
-      "num": 461525,
-      "word": "鹿晗工作室回复各地文旅",
-      "onboard_time": 1720502299,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 453484,
+      "num": 453484,
+      "word": "油罐车事件",
+      "onboard_time": 1720506018,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452202,
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431629,
+      "num": 431629,
+      "word": "B太曝光星期狗",
+      "onboard_time": 1720506558,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422859,
       "num": 422859,
       "word": "王一博将传递奥运火炬",
@@ -441,14 +465,6 @@
       "onboard_time": 1720441879,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382982,
-      "num": 382982,
-      "word": "韦东奕堂哥发声",
-      "onboard_time": 1720504279,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373560,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246985,
+      "num": 246985,
+      "word": "王星越说男人没一个好东西",
+      "onboard_time": 1720505957,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246598,
       "num": 150450,
       "word": "坐高铁一定要穿长裤",
@@ -723,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227971,
+      "num": 227971,
+      "word": "警方通报临沂文联主席遇害身亡",
+      "onboard_time": 1720506018,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223000,
       "num": 223000,
       "word": "长相思2首播热度",
@@ -737,14 +769,6 @@
       "onboard_time": 1720448541,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 221595,
-      "num": 221595,
-      "word": "油罐车事件",
-      "onboard_time": 1720506018,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217182,
@@ -817,6 +841,14 @@
       "onboard_time": 1720496959,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202471,
+      "num": 462352,
+      "word": "罐车混运乱象警惕重过轻罚",
+      "onboard_time": 1720504817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198843,
@@ -923,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182297,
-      "num": 182297,
-      "word": "警方通报临沂文联主席遇害身亡",
-      "onboard_time": 1720506018,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179263,
       "num": 179263,
       "word": "林俊杰18年开了200场演唱会",
@@ -1003,14 +1027,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 170875,
-      "num": 170875,
-      "word": "王星越说男人没一个好东西",
-      "onboard_time": 1720505957,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170358,
       "num": 170358,
       "word": "朱一龙社畜感在演我",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1720498938,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163922,
+      "num": 163922,
+      "word": "负负得正 抬上成年人那桌",
+      "onboard_time": 1720505898,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 163444,
@@ -1107,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153364,
+      "num": 153364,
+      "word": "去哪儿员工每周有2天可灵活办公",
+      "onboard_time": 1720506499,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152562,
       "num": 152562,
       "word": "金鼎食用油下架",
@@ -1184,14 +1216,6 @@
       "word": "默杀",
       "onboard_time": 1720501520,
       "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 141493,
-      "num": 141493,
-      "word": "负负得正 抬上成年人那桌",
-      "onboard_time": 1720505898,
-      "rank": 43,
       "category": "电影"
     },
     {
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133105,
+      "num": 133105,
+      "word": "绝区零赛斯",
+      "onboard_time": 1720506739,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132097,
       "num": 126588,
       "word": "长相思2开播",
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126209,
+      "num": 126209,
+      "word": "躺着就能月入3000你愿意吗",
+      "onboard_time": 1720507278,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125700,
       "num": 125700,
       "word": "奶牛猫都学会击鼓鸣冤了",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1720504097,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124617,
+      "num": 124617,
+      "word": "涂山璟就是很好的人",
+      "onboard_time": 1720507098,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 123925,
@@ -1531,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84932,
-      "num": 462352,
-      "word": "罐车混运乱象警惕重过轻罚",
-      "onboard_time": 1720504817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84810,
       "num": 84810,
       "word": "男生如何正确称呼陌生女性",
@@ -1579,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77486,
+      "num": 372450,
+      "word": "曾告赢迪士尼的小王同学已是一名律师",
+      "onboard_time": 1720503019,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74945,
       "num": 79463,
       "word": "章泽天当策展人了",
@@ -1601,14 +1649,6 @@
       "onboard_time": 1720443199,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70910,
-      "num": 372450,
-      "word": "曾告赢迪士尼的小王同学已是一名律师",
-      "onboard_time": 1720503022,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67439,
@@ -1667,6 +1707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55858,
+      "num": 233301,
+      "word": "敦煌飞天与二次元山东适配度拉满",
+      "onboard_time": 1720507278,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 54154,
       "num": 572086,
       "word": "村民急流中接力救出被困老人",
@@ -1715,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39473,
+      "num": 414518,
+      "word": "如何避免延安中学生坠亡惨剧再发生",
+      "onboard_time": 1720504938,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39202,
       "num": 445976,
       "word": "天津市监部门回应化工油罐车运输食用油事件",
@@ -1755,8 +1811,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33540,
+      "num": 202932,
+      "word": "外媒评韩国小学生全勤乞丐",
+      "onboard_time": 1720507337,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30784,
-      "num": 125456,
+      "num": 202533,
       "word": "莫文蔚你宣吧",
       "onboard_time": 1720506138,
       "rank": 46,
@@ -1769,14 +1833,6 @@
       "onboard_time": 1720466051,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28144,
-      "num": 414518,
-      "word": "如何避免延安中学生坠亡惨剧再发生",
-      "onboard_time": 1720504938,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28006,
