@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720503362169,
+  "endTime": 1720506438021,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -169,6 +169,14 @@
       "onboard_time": 1720431920,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1303082,
+      "num": 1303082,
+      "word": "papi被高管好友吐槽不求上进",
+      "onboard_time": 1720504398,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1295788,
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630357,
+      "num": 467398,
+      "word": "肖战工作室发了肖战工作碎片",
+      "onboard_time": 1720504579,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629578,
       "num": 397910,
       "word": "冯琳入职东方卫视",
@@ -1235,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478628,
+      "num": 288650,
+      "word": "海底捞等位可以打麻将了",
+      "onboard_time": 1720504097,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 478369,
       "num": 435281,
       "word": "蒲熠星自曝理想型是于文文",
@@ -1275,6 +1299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 469499,
+      "num": 469499,
+      "word": "女子找人冒充前男友与自己结婚报复",
+      "onboard_time": 1720500679,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469003,
       "num": 469003,
       "word": "广州网约车司机整月不休也难赚到1万元",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1720403537,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 461525,
+      "num": 461525,
+      "word": "鹿晗工作室回复各地文旅",
+      "onboard_time": 1720502299,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 460127,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1720402037,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452202,
+      "num": 452202,
+      "word": "玲花女儿长这么大了",
+      "onboard_time": 1720503501,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 451657,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1720437739,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436400,
+      "num": 436400,
+      "word": "鞠婧祎 GLASS",
+      "onboard_time": 1720504458,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 434978,
@@ -1723,6 +1779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 382982,
+      "num": 382982,
+      "word": "韦东奕堂哥发声",
+      "onboard_time": 1720504279,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382754,
       "num": 382754,
       "word": "洞庭湖决堤后动物们水中求生",
@@ -1769,14 +1833,6 @@
       "onboard_time": 1720352298,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377789,
-      "num": 377789,
-      "word": "鹿晗工作室回复各地文旅",
-      "onboard_time": 1720502299,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 376812,
@@ -2144,14 +2200,6 @@
       "word": "罐车混装是对生命健康的极端漠视",
       "onboard_time": 1720435039,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328571,
-      "num": 328571,
-      "word": "女子找人冒充前男友与自己结婚报复",
-      "onboard_time": 1720500679,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2907,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230049,
+      "num": 230049,
+      "word": "六公主发了刘亦菲",
+      "onboard_time": 1720504758,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227882,
       "num": 183072,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -2947,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221595,
+      "num": 221595,
+      "word": "油罐车事件",
+      "onboard_time": 1720506018,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219294,
       "num": 219294,
       "word": "少年白马醉春风首发预告",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1720326318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217182,
+      "num": 217182,
+      "word": "上海迪士尼调整停车收费规则",
+      "onboard_time": 1720503917,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216643,
@@ -3635,6 +3707,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 188052,
+      "num": 188052,
+      "word": "阴阳师全新CG",
+      "onboard_time": 1720504159,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "夭玹上分",
@@ -3747,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182297,
+      "num": 182297,
+      "word": "警方通报临沂文联主席遇害身亡",
+      "onboard_time": 1720506018,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "不运动也能无条件减掉三公斤以上",
@@ -3809,6 +3897,14 @@
       "onboard_time": 1720281319,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178747,
+      "num": 178747,
+      "word": "混装化工油和食用油就是草菅人命",
+      "onboard_time": 1720503501,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178610,
@@ -4001,6 +4097,14 @@
       "onboard_time": 1720443680,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170875,
+      "num": 170875,
+      "word": "王星越说男人没一个好东西",
+      "onboard_time": 1720505957,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 170774,
@@ -4451,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "怎么有人交闺蜜交到诸葛亮",
+      "onboard_time": 1720505240,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154162,
       "num": 133185,
       "word": "伊藤美诚3比0徐孝元",
@@ -4731,6 +4843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142931,
+      "num": 142931,
+      "word": "卢昱晓王星越杀青互动",
+      "onboard_time": 1720503618,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142396,
       "num": 142396,
       "word": "张踩铃远不如崽奥达",
@@ -4769,6 +4889,14 @@
       "onboard_time": 1720340357,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141493,
+      "num": 141493,
+      "word": "负负得正 抬上成年人那桌",
+      "onboard_time": 1720505898,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 141237,
@@ -4923,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135944,
+      "num": 135944,
+      "word": "据说学好英语的只有两种人",
+      "onboard_time": 1720505240,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135492,
       "num": 135492,
       "word": "外媒称C罗想参加2026年世界杯",
@@ -5065,6 +5201,14 @@
       "onboard_time": 1720406778,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 129026,
+      "num": 129026,
+      "word": "奔跑吧匈牙利真的太炫啦",
+      "onboard_time": 1720503917,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129018,
@@ -5211,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125323,
+      "num": 125323,
+      "word": "徐明浩只和SEVENTEEN出游过",
+      "onboard_time": 1720504097,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124572,
       "num": 124572,
       "word": "你比星光美丽",
@@ -5233,6 +5385,14 @@
       "onboard_time": 1720485859,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122759,
+      "num": 122759,
+      "word": "上海中考查分",
+      "onboard_time": 1720504520,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 122610,
@@ -6035,6 +6195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84932,
+      "num": 462352,
+      "word": "罐车混运乱象警惕重过轻罚",
+      "onboard_time": 1720504817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84615,
       "num": 84615,
       "word": "七七事变八十七周年",
@@ -6747,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30784,
+      "num": 125456,
+      "word": "莫文蔚你宣吧",
+      "onboard_time": 1720506138,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 30593,
       "num": 30593,
       "word": "根据我的微博匹配我的家庭",
@@ -6761,6 +6937,14 @@
       "onboard_time": 1720383130,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28144,
+      "num": 414518,
+      "word": "如何避免延安中学生坠亡惨剧再发生",
+      "onboard_time": 1720504938,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28006,
@@ -6905,6 +7089,14 @@
       "onboard_time": 1720353618,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18385,
+      "num": 194269,
+      "word": "俄称基辅遭破坏是乌导弹坠落所致",
+      "onboard_time": 1720506018,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 16743,
