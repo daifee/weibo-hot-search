@@ -1,0 +1,410 @@
+{
+  "runTime": 1720513455871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1919980,
+        "num": 1919980,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1213377,
+        "num": 1213377,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 1047589,
+        "word": "沿着长江经济带看中国",
+        "onboard_time": 1720512859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014181,
+        "num": 1014181,
+        "word": "沈月胸前好大一个蝴蝶",
+        "onboard_time": 1720511058,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695353,
+        "num": 695353,
+        "word": "女子隆胸被偷拍发布医院拒道歉",
+        "onboard_time": 1720508838,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628504,
+        "num": 628504,
+        "word": "金龙鱼",
+        "onboard_time": 1720512318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645879,
+        "num": 623787,
+        "word": "爱情公寓又出番外篇了",
+        "onboard_time": 1720508238,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607655,
+        "num": 607655,
+        "word": "papi被高管好友吐槽不求上进",
+        "onboard_time": 1720504398,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 376063,
+        "num": 582365,
+        "word": "污染油吃了对身体伤害有多大",
+        "onboard_time": 1720509197,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33599,
+        "num": 570965,
+        "word": "谁该对煤制油罐车混装食用油负责",
+        "onboard_time": 1720512318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568908,
+        "num": 568908,
+        "word": "2名公务员偷摘豆角与村民肢体冲突",
+        "onboard_time": 1720499900,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560043,
+        "num": 560043,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438192,
+        "num": 438192,
+        "word": "12306回应火车票退票费规定",
+        "onboard_time": 1720508298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418750,
+        "num": 418750,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487837,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387009,
+        "num": 387009,
+        "word": "菲警方确认8人涉嫌杀害中国公民",
+        "onboard_time": 1720512559,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 319831,
+        "num": 319831,
+        "word": "狂飙兄弟致歉",
+        "onboard_time": 1720499540,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283045,
+        "num": 283045,
+        "word": "谢娜谈怀孕过程",
+        "onboard_time": 1720510819,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262793,
+        "num": 262793,
+        "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+        "onboard_time": 1720497199,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258848,
+        "num": 258848,
+        "word": "B太曝光星期狗",
+        "onboard_time": 1720506558,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244239,
+        "num": 244239,
+        "word": "A股打响2900点保卫战",
+        "onboard_time": 1720507937,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355662,
+        "num": 244020,
+        "word": "躺着就能月入3000你愿意吗",
+        "onboard_time": 1720507278,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296568,
+        "num": 243964,
+        "word": "海底捞等位可以打麻将了",
+        "onboard_time": 1720504097,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262386,
+        "num": 243859,
+        "word": "女生小腹一侧突然疼痛千万别忽视",
+        "onboard_time": 1720492878,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243730,
+        "num": 243730,
+        "word": "李蓉裴文宣闪婚闪离",
+        "onboard_time": 1720511418,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44523,
+        "num": 205615,
+        "word": "年轻人买车更倾向科技大厂",
+        "onboard_time": 1720512438,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202941,
+        "num": 202941,
+        "word": "临沂市文联主席战祥春遇害身亡",
+        "onboard_time": 1720497737,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201263,
+        "num": 201263,
+        "word": "我国博士延毕率居高不下",
+        "onboard_time": 1720512318,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200054,
+        "num": 200054,
+        "word": "王星越说男人没一个好东西",
+        "onboard_time": 1720505957,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197469,
+        "num": 197469,
+        "word": "肖战工作室发了肖战工作碎片",
+        "onboard_time": 1720504579,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154314,
+        "num": 192594,
+        "word": "12306发布火车退票费规定三问三答",
+        "onboard_time": 1720512798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191471,
+        "num": 191471,
+        "word": "仅退款动了谁的奶酪",
+        "onboard_time": 1720492878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187069,
+        "num": 187069,
+        "word": "星期狗",
+        "onboard_time": 1720508838,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182056,
+        "num": 182056,
+        "word": "北京中考120人考660分及以上",
+        "onboard_time": 1720511659,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178687,
+        "num": 178687,
+        "word": "油罐车事件",
+        "onboard_time": 1720506018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172360,
+        "num": 172360,
+        "word": "华为Mate60系列销量已过千万",
+        "onboard_time": 1720508238,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169128,
+        "num": 169128,
+        "word": "沈月贾静雯一个丢手机一个丢孩子",
+        "onboard_time": 1720512921,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164740,
+        "num": 164740,
+        "word": "中产爱上9块9咖啡星巴克急了",
+        "onboard_time": 1720508238,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148352,
+        "num": 148352,
+        "word": "真我",
+        "onboard_time": 1720511058,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144660,
+        "num": 144660,
+        "word": "鞠婧祎 GLASS",
+        "onboard_time": 1720504458,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 139405,
+        "num": 139405,
+        "word": "谁家王后刚上位就发疯",
+        "onboard_time": 1720501219,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "鹿晗工作室回复各地文旅",
+        "onboard_time": 1720502299,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136495,
+        "num": 136495,
+        "word": "少量但长期服用煤油对身体有何危害",
+        "onboard_time": 1720507038,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131034,
+        "num": 131034,
+        "word": "怦然4姐狗文学照进现实",
+        "onboard_time": 1720513040,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126752,
+        "num": 126752,
+        "word": "优酷限免杨紫作品",
+        "onboard_time": 1720509977,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122572,
+        "num": 122572,
+        "word": "汇福粮油董事长身家72亿",
+        "onboard_time": 1720513040,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113778,
+        "num": 113778,
+        "word": "秦岚赵昭仪写辛芷蕾YZJ",
+        "onboard_time": 1720508058,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112621,
+        "num": 112621,
+        "word": "钟自然被捕",
+        "onboard_time": 1720510937,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106043,
+        "num": 106043,
+        "word": "秒睡可能也是一种病",
+        "onboard_time": 1720513399,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103475,
+        "num": 103475,
+        "word": "女子找人冒充前男友与自己结婚报复",
+        "onboard_time": 1720500679,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102570,
+        "num": 102570,
+        "word": "五问煤制油罐车混装食用油",
+        "onboard_time": 1720507877,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

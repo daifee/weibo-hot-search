@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720510480276,
+  "endTime": 1720513455871,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -9,6 +9,14 @@
       "onboard_time": 1720487837,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1919980,
+      "num": 1919980,
+      "word": "Jennie方承认吸烟并道歉",
+      "onboard_time": 1720510158,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1772965,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1213377,
+      "num": 1213377,
+      "word": "荷兰男子捐精生下1000个娃",
+      "onboard_time": 1720509380,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1180122,
       "num": 1180122,
       "word": "狂飙兄弟致歉",
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014181,
+      "num": 1014181,
+      "word": "沈月胸前好大一个蝴蝶",
+      "onboard_time": 1720511058,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 927036,
-      "num": 404774,
+      "num": 695353,
       "word": "女子隆胸被偷拍发布医院拒道歉",
       "onboard_time": 1720508838,
       "rank": 30,
@@ -209,6 +233,14 @@
       "onboard_time": 1720504579,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628504,
+      "num": 628504,
+      "word": "金龙鱼",
+      "onboard_time": 1720512318,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625723,
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452674,
-      "num": 403265,
-      "word": "Jennie方承认吸烟并道歉",
-      "onboard_time": 1720510158,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452202,
       "num": 452202,
       "word": "玲花女儿长这么大了",
@@ -425,6 +449,14 @@
       "onboard_time": 1720452377,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438192,
+      "num": 438192,
+      "word": "12306回应火车票退票费规定",
+      "onboard_time": 1720508298,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436400,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 409544,
-      "num": 409544,
+      "num": 582365,
       "word": "污染油吃了对身体伤害有多大",
       "onboard_time": 1720509197,
       "rank": 12,
@@ -505,6 +537,14 @@
       "onboard_time": 1720441879,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387009,
+      "num": 387009,
+      "word": "菲警方确认8人涉嫌杀害中国公民",
+      "onboard_time": 1720512559,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 375872,
@@ -651,14 +691,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 316142,
-      "num": 316142,
-      "word": "12306回应火车票退票费规定",
-      "onboard_time": 1720508298,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310200,
       "num": 310200,
       "word": "玱玹快被小夭钓成翘嘴了",
@@ -689,6 +721,14 @@
       "onboard_time": 1720494437,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283045,
+      "num": 283045,
+      "word": "谢娜谈怀孕过程",
+      "onboard_time": 1720510819,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 276211,
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243730,
+      "num": 243730,
+      "word": "李蓉裴文宣闪婚闪离",
+      "onboard_time": 1720511418,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243157,
       "num": 243157,
       "word": "相柳响尾蛇",
@@ -841,14 +889,6 @@
       "onboard_time": 1720448541,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 221094,
-      "num": 221094,
-      "word": "荷兰男子捐精生下1000个娃",
-      "onboard_time": 1720509380,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218074,
@@ -937,6 +977,14 @@
       "onboard_time": 1720504817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201263,
+      "num": 201263,
+      "word": "我国博士延毕率居高不下",
+      "onboard_time": 1720512318,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 198843,
@@ -1059,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182056,
+      "num": 182056,
+      "word": "北京中考120人考660分及以上",
+      "onboard_time": 1720511659,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180459,
       "num": 180459,
       "word": "中产爱上9块9咖啡星巴克急了",
@@ -1163,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169128,
+      "num": 169128,
+      "word": "沈月贾静雯一个丢手机一个丢孩子",
+      "onboard_time": 1720512921,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165129,
       "num": 161145,
       "word": "檀健次工作室 相柳半生书",
@@ -1243,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154314,
+      "num": 192594,
+      "word": "12306发布火车退票费规定三问三答",
+      "onboard_time": 1720512798,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154180,
       "num": 154180,
       "word": "怎么有人交闺蜜交到诸葛亮",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1720441999,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148352,
+      "num": 148352,
+      "word": "真我",
+      "onboard_time": 1720511058,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 148125,
@@ -1459,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131034,
+      "num": 131034,
+      "word": "怦然4姐狗文学照进现实",
+      "onboard_time": 1720513040,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131000,
       "num": 131000,
       "word": "优酷限免杨紫作品",
@@ -1547,6 +1635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122572,
+      "num": 122572,
+      "word": "汇福粮油董事长身家72亿",
+      "onboard_time": 1720513040,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122041,
       "num": 122041,
       "word": "朱一龙新片眼神戏会拉丝",
@@ -1619,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112621,
+      "num": 112621,
+      "word": "钟自然被捕",
+      "onboard_time": 1720510937,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112159,
       "num": 112159,
       "word": "食用油",
@@ -1659,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106043,
+      "num": 106043,
+      "word": "秒睡可能也是一种病",
+      "onboard_time": 1720513399,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105753,
       "num": 105753,
       "word": "Lia短发",
@@ -1675,20 +1787,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102570,
+      "num": 470164,
+      "word": "五问煤制油罐车混装食用油",
+      "onboard_time": 1720507877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101246,
       "num": 101246,
       "word": "凤凰天使回归",
       "onboard_time": 1720443380,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99482,
-      "num": 470164,
-      "word": "五问煤制油罐车混装食用油",
-      "onboard_time": 1720507877,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98890,
@@ -1899,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44523,
+      "num": 205615,
+      "word": "年轻人买车更倾向科技大厂",
+      "onboard_time": 1720512438,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43961,
       "num": 43961,
       "word": "鞠婧祎微博粉丝2900万了",
@@ -1963,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33599,
+      "num": 570965,
+      "word": "谁该对煤制油罐车混装食用油负责",
+      "onboard_time": 1720512318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30784,
       "num": 218558,
       "word": "莫文蔚你宣吧",
@@ -1993,6 +2121,14 @@
       "onboard_time": 1720460112,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25698,
+      "num": 1047589,
+      "word": "沿着长江经济带看中国",
+      "onboard_time": 1720512859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23677,
