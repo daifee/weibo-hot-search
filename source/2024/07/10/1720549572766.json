@@ -1,0 +1,410 @@
+{
+  "runTime": 1720549572766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 218955,
+        "num": 218955,
+        "word": "729声明",
+        "onboard_time": 1720531219,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 160469,
+        "num": 160469,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14751,
+        "num": 150313,
+        "word": "伟大的历史变革",
+        "onboard_time": 1720531460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 135690,
+        "word": "跌200万后女子要卖掉能看西湖的房子",
+        "onboard_time": 1720536620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95808,
+        "num": 95808,
+        "word": "西班牙vs法国",
+        "onboard_time": 1720535959,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148286,
+        "num": 91346,
+        "word": "相柳 ooc",
+        "onboard_time": 1720539678,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148011,
+        "num": 89168,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86564,
+        "num": 86564,
+        "word": "巴黎奥运会韩国代表团制服",
+        "onboard_time": 1720533858,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11482,
+        "num": 85439,
+        "word": "母亲背罕见病儿子14年累断足骨",
+        "onboard_time": 1720537520,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166975,
+        "num": 85299,
+        "word": "失踪22年美国登山者遗体被找到",
+        "onboard_time": 1720535120,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115371,
+        "num": 85199,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84807,
+        "num": 84807,
+        "word": "清华大学博士情侣毕业奔赴祖国中部",
+        "onboard_time": 1720537999,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72884,
+        "num": 72884,
+        "word": "防风邶下线",
+        "onboard_time": 1720529839,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71718,
+        "num": 71718,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 14,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 64389,
+        "num": 64389,
+        "word": "长相思戏还没播完番外先出了",
+        "onboard_time": 1720538119,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61678,
+        "num": 61678,
+        "word": "欧洲杯半决赛",
+        "onboard_time": 1720536019,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57259,
+        "num": 57259,
+        "word": "iPhone16系列或将支持40W快充",
+        "onboard_time": 1720537158,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54859,
+        "num": 54859,
+        "word": "小夭的难堪众人的狂欢",
+        "onboard_time": 1720534819,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35985,
+        "num": 50338,
+        "word": "三只羊在开发自营梅菜扣肉",
+        "onboard_time": 1720547473,
+        "rank": 19,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 71448,
+        "num": 50323,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50300,
+        "num": 50300,
+        "word": "李善均案泄密警察记者被抓",
+        "onboard_time": 1720541237,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49115,
+        "num": 49115,
+        "word": "杜海涛在节目里又cue沈梦辰了",
+        "onboard_time": 1720543095,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43132,
+        "num": 43132,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 41179,
+        "num": 41179,
+        "word": "才25岁就要被介绍40岁的男孩",
+        "onboard_time": 1720527318,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38577,
+        "num": 38577,
+        "word": "猫猫摸完后居然会按开心",
+        "onboard_time": 1720542196,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38525,
+        "num": 38525,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37902,
+        "num": 37902,
+        "word": "4个部位出汗多暗示身体有问题",
+        "onboard_time": 1720548013,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35932,
+        "num": 35932,
+        "word": "研究发现月经用品中含有毒金属",
+        "onboard_time": 1720528938,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 34342,
+        "num": 34342,
+        "word": "孙莉晒三个孩子近况",
+        "onboard_time": 1720526537,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34278,
+        "num": 34278,
+        "word": "欧洲杯最壕的一场比赛来了",
+        "onboard_time": 1720534459,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33337,
+        "num": 33337,
+        "word": "人死之前为什么会回光返照",
+        "onboard_time": 1720537579,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32987,
+        "num": 32987,
+        "word": "会吵架真的能省很多事",
+        "onboard_time": 1720535178,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31514,
+        "num": 31514,
+        "word": "AI生成插画制作流程视频",
+        "onboard_time": 1720544535,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 31071,
+        "num": 31071,
+        "word": "朱一龙黄振开",
+        "onboard_time": 1720542856,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30582,
+        "num": 30582,
+        "word": "夏日整活日记",
+        "onboard_time": 1720545615,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29940,
+        "num": 29940,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29368,
+        "num": 29368,
+        "word": "金牛座为什么难以亲近",
+        "onboard_time": 1720532118,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29159,
+        "num": 29159,
+        "word": "卢昱晓父母都是医生",
+        "onboard_time": 1720529240,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28767,
+        "num": 28767,
+        "word": "张贤胜公开退团原因",
+        "onboard_time": 1720525997,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27510,
+        "num": 28767,
+        "word": "主动一点儿挺好的",
+        "onboard_time": 1720544715,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26029,
+        "num": 28766,
+        "word": "你好星期六评分",
+        "onboard_time": 1720517838,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26021,
+        "num": 28766,
+        "word": "鹿晗工作室是在暗示四巡地点吗",
+        "onboard_time": 1720527558,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22179,
+        "num": 28764,
+        "word": "华晨宇演唱会日出场航拍",
+        "onboard_time": 1720531158,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22039,
+        "num": 28764,
+        "word": "BOYNEXTDOOR拍的队友",
+        "onboard_time": 1720549152,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21118,
+        "num": 28763,
+        "word": "白敬亭P了两个白敬亭",
+        "onboard_time": 1720524677,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20904,
+        "num": 28763,
+        "word": "重生之我是江浙沪独女",
+        "onboard_time": 1720517661,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20775,
+        "num": 28762,
+        "word": "辛纳对战梅德维德夫",
+        "onboard_time": 1720538358,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 28762,
+        "word": "billboard评选的最佳KPOP专辑",
+        "onboard_time": 1720537820,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20294,
+        "num": 28761,
+        "word": "两个账号同一航班价格相差1300",
+        "onboard_time": 1720514180,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}
