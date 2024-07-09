@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720521467232,
+  "endTime": 1720523854017,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -136,6 +136,14 @@
       "word": "2名公务员偷摘豆角与村民肢体冲突",
       "onboard_time": 1720499900,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1568398,
+      "num": 1568398,
+      "word": "冀E5476W",
+      "onboard_time": 1720518978,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 1191710,
-      "num": 259411,
+      "num": 298271,
       "word": "体制内对怀孕女性的态度",
       "onboard_time": 1720517419,
       "rank": 33,
@@ -320,14 +328,6 @@
       "word": "官方通报延安中学学生坠亡",
       "onboard_time": 1720396276,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1143737,
-      "num": 1143737,
-      "word": "冀E5476W",
-      "onboard_time": 1720518978,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -571,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 894437,
+      "num": 427147,
+      "word": "国务院食安办回应油罐车事件",
+      "onboard_time": 1720523178,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 883911,
       "num": 883911,
       "word": "河北省市监局调查油罐混装事件",
@@ -635,7 +643,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 824932,
+      "raw_hot": 828874,
       "num": 824932,
       "word": "廊坊市监局回应化工油食用油混装事件",
       "onboard_time": 1720490837,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1720347619,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611827,
+      "num": 402195,
+      "word": "胡姬花",
+      "onboard_time": 1720520419,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608386,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1720270997,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456883,
+      "num": 456883,
+      "word": "黄景瑜演初中生",
+      "onboard_time": 1720521859,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 455417,
@@ -2027,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378101,
+      "num": 378101,
+      "word": "涂山璟滴血验亲喜提警方科普",
+      "onboard_time": 1720523058,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376812,
       "num": 197818,
       "word": "化妆的尽头是淡妆",
@@ -2195,6 +2227,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 354930,
+      "num": 354930,
+      "word": "你好星期六评分",
+      "onboard_time": 1720517838,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354716,
       "num": 354716,
       "word": "上海徐汇气温目前全国最高",
@@ -2216,14 +2256,6 @@
       "word": "阿Sa发朋友圈照片都不P图",
       "onboard_time": 1720324936,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 350477,
-      "num": 350477,
-      "word": "你好星期六评分",
-      "onboard_time": 1720517838,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -2547,6 +2579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 317142,
+      "num": 317142,
+      "word": "韩国流行的富人区下车感",
+      "onboard_time": 1720519278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1720511418,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310336,
+      "num": 310336,
+      "word": "油罐车事件已经提级管理",
+      "onboard_time": 1720521617,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310200,
@@ -2608,14 +2656,6 @@
       "word": "狗狗替小主人挡毒蛇攻击被咬伤",
       "onboard_time": 1720431560,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305558,
-      "num": 305558,
-      "word": "韩国流行的富人区下车感",
-      "onboard_time": 1720519278,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2923,14 +2963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 258208,
-      "num": 258208,
-      "word": "胡姬花",
-      "onboard_time": 1720520419,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -3195,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233520,
+      "num": 233520,
+      "word": "徐志胜 本来上班就烦",
+      "onboard_time": 1720522638,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232923,
       "num": 232923,
       "word": "闪耀暖暖",
@@ -3299,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223383,
+      "num": 223383,
+      "word": "729声工场",
+      "onboard_time": 1720522159,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222144,
       "num": 222144,
       "word": "星期狗",
@@ -3313,6 +3361,14 @@
       "onboard_time": 1720340537,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221463,
+      "num": 221463,
+      "word": "王传君阿如那换赛道了",
+      "onboard_time": 1720521617,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 219294,
@@ -3595,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204369,
+      "num": 204369,
+      "word": "猫耳剧单",
+      "onboard_time": 1720523298,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203761,
       "num": 203761,
       "word": "长相思心碎榜",
@@ -3705,6 +3769,14 @@
       "onboard_time": 1720488317,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198608,
+      "num": 198608,
+      "word": "OMG战胜RNG",
+      "onboard_time": 1720523298,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 198434,
@@ -4979,12 +5051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156174,
+      "num": 470172,
+      "word": "煤油罐车装的食用油有没有被搬上桌",
+      "onboard_time": 1720521018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156097,
       "num": 151030,
       "word": "章泽天当策展人了",
       "onboard_time": 1720446740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "杨紫发自己的梗图",
+      "onboard_time": 1720523118,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155430,
@@ -5307,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145514,
+      "num": 145514,
+      "word": "TF二三代 合作舞台",
+      "onboard_time": 1720523597,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145316,
       "num": 145316,
       "word": "直击洞庭湖决堤口最新现场",
@@ -5593,6 +5689,14 @@
       "onboard_time": 1720436779,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136375,
+      "num": 136375,
+      "word": "食用油到底怎么选",
+      "onboard_time": 1720522818,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136003,
@@ -5963,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124957,
+      "num": 124957,
+      "word": "李现男德满分",
+      "onboard_time": 1720523357,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124617,
       "num": 124617,
       "word": "涂山璟就是很好的人",
@@ -6035,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122138,
+      "num": 122138,
+      "word": "登山时见到 不能随便触碰",
+      "onboard_time": 1720522458,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122041,
       "num": 122041,
       "word": "朱一龙新片眼神戏会拉丝",
@@ -6105,6 +6225,14 @@
       "onboard_time": 1720275438,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119062,
+      "num": 119062,
+      "word": "大婚海报上小夭的眼神",
+      "onboard_time": 1720523538,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118712,
@@ -6843,6 +6971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85909,
+      "num": 445975,
+      "word": "高考录取通知书物流信息查询",
+      "onboard_time": 1720518197,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "mbti最e到最i人格",
@@ -7347,14 +7483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48478,
-      "num": 470172,
-      "word": "煤油罐车装的食用油有没有被搬上桌",
-      "onboard_time": 1720521018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47754,
       "num": 277352,
       "word": "男孩毕业从头哭到尾被小伙伴接力安慰",
@@ -7385,6 +7513,14 @@
       "onboard_time": 1720302911,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46063,
+      "num": 205712,
+      "word": "高圆圆选了全新亚洲龙",
+      "onboard_time": 1720519457,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 45661,
@@ -7483,6 +7619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41100,
+      "num": 440627,
+      "word": "猫咪被主人在监控里喊名字偷感十足",
+      "onboard_time": 1720523058,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40567,
       "num": 158518,
       "word": "韩政府决定对实习住院医师不予处分",
@@ -7497,14 +7641,6 @@
       "onboard_time": 1720277540,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39613,
-      "num": 181939,
-      "word": "高圆圆选了全新亚洲龙",
-      "onboard_time": 1720519457,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39473,
@@ -7569,6 +7705,14 @@
       "onboard_time": 1720290973,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35629,
+      "num": 353609,
+      "word": "赵又廷选了迈腾B9",
+      "onboard_time": 1720520178,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35425,
@@ -7817,14 +7961,6 @@
       "onboard_time": 1720506018,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 17005,
-      "num": 268716,
-      "word": "赵又廷选了迈腾B9",
-      "onboard_time": 1720520178,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16743,
