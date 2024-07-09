@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720516848431,
+  "endTime": 1720517708586,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -40,6 +40,14 @@
       "word": "江苏扬州地震",
       "onboard_time": 1720426459,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3450111,
+      "num": 3450111,
+      "word": "鲁花回应油罐车事件",
+      "onboard_time": 1720515739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -859,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1242335,
-      "num": 1242335,
-      "word": "鲁花回应油罐车事件",
-      "onboard_time": 1720515739,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1239705,
       "num": 1239705,
       "word": "詹雯婷一审被判无罪",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1720183161,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1156786,
+      "num": 948443,
+      "word": "蔡徐坤 范思哲",
+      "onboard_time": 1720515679,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1152088,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1720014980,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 948443,
-      "num": 948443,
-      "word": "蔡徐坤 范思哲",
-      "onboard_time": 1720515679,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 946583,
@@ -7699,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335569,
+      "num": 335569,
+      "word": "你好星期六",
+      "onboard_time": 1720235957,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335367,
       "num": 335367,
       "word": "苗苗差点又来跑男救场",
@@ -7721,6 +7729,14 @@
       "onboard_time": 1720423758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334503,
+      "num": 334503,
+      "word": "两个账号同一航班价格相差1300",
+      "onboard_time": 1720514180,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334302,
@@ -8907,14 +8923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 281909,
-      "num": 281909,
-      "word": "你好星期六",
-      "onboard_time": 1720235957,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -9851,14 +9859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241752,
-      "num": 241752,
-      "word": "两个账号同一航班价格相差1300",
-      "onboard_time": 1720514180,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241628,
       "num": 204415,
       "word": "王星越抱吴谨言心率142",
@@ -10489,6 +10489,14 @@
       "onboard_time": 1720278319,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224882,
+      "num": 224882,
+      "word": "沈腾马丽 中偶",
+      "onboard_time": 1720516340,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 224748,
@@ -12113,6 +12121,14 @@
       "onboard_time": 1720394655,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198409,
+      "num": 198409,
+      "word": "谁在用问题食用油",
+      "onboard_time": 1720517358,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198308,
@@ -14163,6 +14179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175087,
+      "num": 343950,
+      "word": "涉事大豆油收货方回应",
+      "onboard_time": 1720514299,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "终于有人把怎么选防晒衣讲明白了",
@@ -14747,6 +14771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166815,
+      "num": 166815,
+      "word": "墨雨云间网剧播放量TOP1",
+      "onboard_time": 1720517178,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166799,
       "num": 166799,
       "word": "长相思2看片会",
@@ -14801,14 +14833,6 @@
       "onboard_time": 1719901220,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 165887,
-      "num": 165887,
-      "word": "沈腾马丽 中偶",
-      "onboard_time": 1720516340,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 165729,
@@ -15041,6 +15065,14 @@
       "onboard_time": 1720176140,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163349,
+      "num": 163349,
+      "word": "杨紫邓为同频笑场",
+      "onboard_time": 1720516398,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 163289,
@@ -15377,6 +15409,14 @@
       "onboard_time": 1720016421,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159120,
+      "num": 159120,
+      "word": "体制内对怀孕女性的态度",
+      "onboard_time": 1720517419,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 159017,
@@ -17139,6 +17179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141640,
+      "num": 141640,
+      "word": "电影默杀关注校园霸凌现象",
+      "onboard_time": 1720516699,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141510,
       "num": 141510,
       "word": "姨夫称张志杰无心脏病史",
@@ -17827,6 +17875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135613,
+      "num": 135613,
+      "word": "世界上持续时间最久的实验",
+      "onboard_time": 1720517178,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135533,
       "num": 135533,
       "word": "马立奥发文为锁哥庆生",
@@ -18211,14 +18267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131703,
-      "num": 131703,
-      "word": "杨紫邓为同频笑场",
-      "onboard_time": 1720516398,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131672,
       "num": 131672,
       "word": "护短的她破碎的他重圆的家",
@@ -18363,14 +18411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130910,
-      "num": 130910,
-      "word": "涉事大豆油收货方回应",
-      "onboard_time": 1720514299,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130870,
       "num": 130870,
       "word": "张婧仪抹胸黑纱裙",
@@ -18385,6 +18425,14 @@
       "onboard_time": 1720394655,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130450,
+      "num": 130450,
+      "word": "王勉说从未责怪过妈妈",
+      "onboard_time": 1720517596,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130419,
@@ -18417,6 +18465,14 @@
       "onboard_time": 1719998060,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130273,
+      "num": 130273,
+      "word": "邢台成立调查组摸底排查全市罐车",
+      "onboard_time": 1720516159,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130246,
@@ -18955,6 +19011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125276,
+      "num": 570965,
+      "word": "谁该对煤制油罐车混装食用油负责",
+      "onboard_time": 1720512318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125241,
       "num": 125241,
       "word": "任嘉伦的学习态度",
@@ -19315,14 +19379,6 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 121444,
-      "num": 570965,
-      "word": "谁该对煤制油罐车混装食用油负责",
-      "onboard_time": 1720512318,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121423,
       "num": 121423,
       "word": "C罗说这还没有结束",
@@ -19433,6 +19489,14 @@
       "onboard_time": 1719987498,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120383,
+      "num": 459610,
+      "word": "汇福粮油称罐车运输的是客户自提散油",
+      "onboard_time": 1720515618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120344,
@@ -19601,14 +19665,6 @@
       "onboard_time": 1719804738,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119071,
-      "num": 119071,
-      "word": "电影默杀关注校园霸凌现象",
-      "onboard_time": 1720516699,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 119066,
@@ -19985,6 +20041,14 @@
       "onboard_time": 1720225938,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115188,
+      "num": 115188,
+      "word": "重生之我是江浙沪独女",
+      "onboard_time": 1720517661,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115177,
@@ -22291,14 +22355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73113,
-      "num": 459610,
-      "word": "汇福粮油称罐车运输的是客户自提散油",
-      "onboard_time": 1720515618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72777,
       "num": 426240,
       "word": "消防连夜在洞庭湖铺9500米彩条布",
@@ -23577,6 +23633,14 @@
       "onboard_time": 1720356618,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 44380,
+      "num": 170675,
+      "word": "乌克兰最大儿童医院遭袭",
+      "onboard_time": 1720517118,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 44332,

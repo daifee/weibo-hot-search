@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720516848431,
+  "endTime": 1720517708586,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -16,6 +16,14 @@
       "word": "江苏扬州地震",
       "onboard_time": 1720426459,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3450111,
+      "num": 3450111,
+      "word": "鲁花回应油罐车事件",
+      "onboard_time": 1720515739,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -235,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1242335,
-      "num": 1242335,
-      "word": "鲁花回应油罐车事件",
-      "onboard_time": 1720515739,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1226508,
       "num": 729705,
       "word": "鞠婧祎微博认证去掉了丝芭",
@@ -289,6 +289,14 @@
       "onboard_time": 1720430839,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1156786,
+      "num": 948443,
+      "word": "蔡徐坤 范思哲",
+      "onboard_time": 1720515679,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1152088,
@@ -441,14 +449,6 @@
       "onboard_time": 1720400178,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948443,
-      "num": 948443,
-      "word": "蔡徐坤 范思哲",
-      "onboard_time": 1720515679,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 943162,
@@ -2251,12 +2251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335569,
+      "num": 335569,
+      "word": "你好星期六",
+      "onboard_time": 1720516519,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334704,
       "num": 334704,
       "word": "王一博工作室周一放饭",
       "onboard_time": 1720423758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334503,
+      "num": 334503,
+      "word": "两个账号同一航班价格相差1300",
+      "onboard_time": 1720514180,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334302,
@@ -2979,14 +2995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241752,
-      "num": 241752,
-      "word": "两个账号同一航班价格相差1300",
-      "onboard_time": 1720514180,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1720439779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224882,
+      "num": 224882,
+      "word": "沈腾马丽 中偶",
+      "onboard_time": 1720516340,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 223503,
@@ -3491,14 +3507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204421,
-      "num": 204421,
-      "word": "你好星期六",
-      "onboard_time": 1720516519,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203761,
       "num": 203761,
       "word": "长相思心碎榜",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1720394655,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198409,
+      "num": 198409,
+      "word": "谁在用问题食用油",
+      "onboard_time": 1720517358,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197751,
@@ -4323,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175087,
+      "num": 343950,
+      "word": "涉事大豆油收货方回应",
+      "onboard_time": 1720514299,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "终于有人把怎么选防晒衣讲明白了",
@@ -4539,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166815,
+      "num": 166815,
+      "word": "墨雨云间网剧播放量TOP1",
+      "onboard_time": 1720517178,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166790,
       "num": 166790,
       "word": "刘亦菲玫瑰的故事座谈会后发文",
@@ -4561,14 +4593,6 @@
       "onboard_time": 1720360399,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165887,
-      "num": 165887,
-      "word": "沈腾马丽 中偶",
-      "onboard_time": 1720516340,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 165352,
@@ -4675,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163349,
+      "num": 163349,
+      "word": "杨紫邓为同频笑场",
+      "onboard_time": 1720516398,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163289,
       "num": 145371,
       "word": "如何一只手戴手链",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1720498819,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159120,
+      "num": 159120,
+      "word": "体制内对怀孕女性的态度",
+      "onboard_time": 1720517419,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 158886,
@@ -5275,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141640,
+      "num": 141640,
+      "word": "电影默杀关注校园霸凌现象",
+      "onboard_time": 1720516699,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141237,
       "num": 604997,
       "word": "儿子你们辛苦了",
@@ -5435,6 +5483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135613,
+      "num": 135613,
+      "word": "世界上持续时间最久的实验",
+      "onboard_time": 1720517178,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135492,
       "num": 135492,
       "word": "外媒称C罗想参加2026年世界杯",
@@ -5523,14 +5579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131703,
-      "num": 131703,
-      "word": "杨紫邓为同频笑场",
-      "onboard_time": 1720516398,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131574,
       "num": 131574,
       "word": "中国男篮vs黄蜂",
@@ -5571,14 +5619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130910,
-      "num": 130910,
-      "word": "涉事大豆油收货方回应",
-      "onboard_time": 1720514299,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130543,
       "num": 130543,
       "word": "领导发250块让我给同事买下午茶",
@@ -5587,12 +5627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130450,
+      "num": 130450,
+      "word": "王勉说从未责怪过妈妈",
+      "onboard_time": 1720517596,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
       "onboard_time": 1720323317,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130273,
+      "num": 130273,
+      "word": "邢台成立调查组摸底排查全市罐车",
+      "onboard_time": 1720516159,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129614,
@@ -5779,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125276,
+      "num": 570965,
+      "word": "谁该对煤制油罐车混装食用油负责",
+      "onboard_time": 1720512318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124617,
       "num": 124617,
       "word": "涂山璟就是很好的人",
@@ -5851,14 +5915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121444,
-      "num": 570965,
-      "word": "谁该对煤制油罐车混装食用油负责",
-      "onboard_time": 1720512318,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121370,
       "num": 332097,
       "word": "阿勒泰雨后现梦幻云海",
@@ -5881,6 +5937,14 @@
       "onboard_time": 1720445360,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120383,
+      "num": 459610,
+      "word": "汇福粮油称罐车运输的是客户自提散油",
+      "onboard_time": 1720515618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120344,
@@ -5913,14 +5977,6 @@
       "onboard_time": 1720275438,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119071,
-      "num": 119071,
-      "word": "电影默杀关注校园霸凌现象",
-      "onboard_time": 1720516699,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 118712,
@@ -6017,6 +6073,14 @@
       "onboard_time": 1720406778,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115188,
+      "num": 115188,
+      "word": "重生之我是江浙沪独女",
+      "onboard_time": 1720517661,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114986,
@@ -6747,14 +6811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73113,
-      "num": 459610,
-      "word": "汇福粮油称罐车运输的是客户自提散油",
-      "onboard_time": 1720515618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72078,
       "num": 72078,
       "word": "一网箱居然能住5万尾大黄鱼",
@@ -7241,6 +7297,14 @@
       "onboard_time": 1720356618,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 44380,
+      "num": 170675,
+      "word": "乌克兰最大儿童医院遭袭",
+      "onboard_time": 1720517118,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 43961,

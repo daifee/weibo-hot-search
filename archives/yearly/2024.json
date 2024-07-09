@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720516848431,
+  "endTime": 1720517708586,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2131,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3450111,
+      "num": 3450111,
+      "word": "鲁花回应油罐车事件",
+      "onboard_time": 1720515739,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3436938,
       "num": 3436938,
       "word": "国乒女团vs日本",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708409201,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3256766,
-      "num": 3256766,
-      "word": "薛之谦 盗摄",
-      "onboard_time": 1708003236,
-      "rank": 4,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
