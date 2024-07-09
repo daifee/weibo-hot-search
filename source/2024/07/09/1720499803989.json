@@ -1,0 +1,410 @@
+{
+  "runTime": 1720499803989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2346290,
+        "num": 2346290,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772965,
+        "num": 1772965,
+        "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+        "onboard_time": 1720497199,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78344,
+        "num": 1314051,
+        "word": "美情报界编造一黑客组织来抹黑中国",
+        "onboard_time": 1720498459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197969,
+        "num": 1197969,
+        "word": "仅退款动了谁的奶酪",
+        "onboard_time": 1720492878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072084,
+        "num": 1072084,
+        "word": "临沂市文联主席战祥春遇害身亡",
+        "onboard_time": 1720497737,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754500,
+        "num": 754500,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712810,
+        "num": 712810,
+        "word": "周鸿祎称不认识杨幂",
+        "onboard_time": 1720492816,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692820,
+        "num": 692820,
+        "word": "女子读研8年获学位证仅11天被作废",
+        "onboard_time": 1720489219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634582,
+        "num": 634582,
+        "word": "狂飙兄弟",
+        "onboard_time": 1720496477,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64282,
+        "num": 591616,
+        "word": "从业者称罐车装油前检测由炼油厂把控",
+        "onboard_time": 1720497438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575916,
+        "num": 575916,
+        "word": "暑期档第一部悬疑剧来了",
+        "onboard_time": 1720491616,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567956,
+        "num": 567956,
+        "word": "男子多次虐待女儿希望将其判给前妻",
+        "onboard_time": 1720484897,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563373,
+        "num": 563373,
+        "word": "多家银行调整个人账户非柜面交易限额",
+        "onboard_time": 1720496359,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 528104,
+        "num": 528104,
+        "word": "白敬亭咖啡店",
+        "onboard_time": 1720496900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451657,
+        "num": 451657,
+        "word": "厂牌回应Jennie疑似抽烟",
+        "onboard_time": 1720496418,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431498,
+        "num": 431498,
+        "word": "小米第三款车是增程SUV",
+        "onboard_time": 1720494437,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 370940,
+        "num": 370940,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322094,
+        "num": 322094,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282053,
+        "num": 282053,
+        "word": "做完近视手术后还可能再近视",
+        "onboard_time": 1720493118,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412601,
+        "num": 281970,
+        "word": "韩网友向外交部告发Jennie",
+        "onboard_time": 1720490779,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961478,
+        "num": 275902,
+        "word": "女生小腹一侧突然疼痛千万别忽视",
+        "onboard_time": 1720492878,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 581684,
+        "num": 274738,
+        "word": "殡仪馆距自家仅20余米严重影响生活",
+        "onboard_time": 1720495158,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324184,
+        "num": 271328,
+        "word": "爸爸在天上急得团团转",
+        "onboard_time": 1720494739,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320190,
+        "num": 265977,
+        "word": "杨超越送谢涤葵已老实求放过",
+        "onboard_time": 1720494858,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265023,
+        "num": 265023,
+        "word": "泡泡玛特你退坑了吗",
+        "onboard_time": 1720494978,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260746,
+        "num": 260746,
+        "word": "乌尔善不当导演可以当中医",
+        "onboard_time": 1720493779,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260397,
+        "num": 260397,
+        "word": "谢娜要送小鸡去农场",
+        "onboard_time": 1720498520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254218,
+        "num": 254218,
+        "word": "小夭今晚大婚",
+        "onboard_time": 1720495458,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253577,
+        "num": 253577,
+        "word": "各方回应临沂市文联主席遇害身亡",
+        "onboard_time": 1720498040,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231429,
+        "num": 231429,
+        "word": "唐朝诡事录之西行定档0718",
+        "onboard_time": 1720492578,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223816,
+        "num": 223816,
+        "word": "电动车女孩根本打扮不了自己",
+        "onboard_time": 1720489219,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221427,
+        "num": 221427,
+        "word": "狂飙兄弟致歉",
+        "onboard_time": 1720499540,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219396,
+        "num": 219396,
+        "word": "Uzi说赚不到奶粉钱了",
+        "onboard_time": 1720499599,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202091,
+        "num": 202091,
+        "word": "冰箱门上的格子不能放牛奶",
+        "onboard_time": 1720489459,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 201720,
+        "num": 201720,
+        "word": "相柳响尾蛇",
+        "onboard_time": 1720498638,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197825,
+        "num": 197825,
+        "word": "下半年天秤座时来运转",
+        "onboard_time": 1720496959,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177375,
+        "num": 193121,
+        "word": "对话油罐车清洗从业者",
+        "onboard_time": 1720497623,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192640,
+        "num": 192640,
+        "word": "做教师的子女是一种什么体验",
+        "onboard_time": 1720489219,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185645,
+        "num": 185645,
+        "word": "肖宇梁饰演光绪",
+        "onboard_time": 1720496178,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174007,
+        "num": 174007,
+        "word": "檀健次从相柳身上下来好吗",
+        "onboard_time": 1720489219,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172955,
+        "num": 172955,
+        "word": "男子偶遇野生大熊猫卑微求让路",
+        "onboard_time": 1720493357,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164754,
+        "num": 164754,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 163444,
+        "word": "百变肖战和卡点的适配度",
+        "onboard_time": 1720496119,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161319,
+        "num": 161319,
+        "word": "自榨油 黄曲霉素",
+        "onboard_time": 1720499419,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165129,
+        "num": 161145,
+        "word": "檀健次工作室 相柳半生书",
+        "onboard_time": 1720498938,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159378,
+        "num": 159378,
+        "word": "电影传说提档",
+        "onboard_time": 1720494437,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158399,
+        "num": 158399,
+        "word": "光遇复刻",
+        "onboard_time": 1720498819,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146128,
+        "num": 146128,
+        "word": "王鹤棣GAI表情管理失败",
+        "onboard_time": 1720495938,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146095,
+        "num": 146095,
+        "word": "明日方舟更新",
+        "onboard_time": 1720499240,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134118,
+        "num": 134118,
+        "word": "拜登拒绝退出总统竞选",
+        "onboard_time": 1720489098,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

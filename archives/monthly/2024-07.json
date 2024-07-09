@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720498984287,
+  "endTime": 1720499803989,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -305,6 +305,14 @@
       "onboard_time": 1719846380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1772965,
+      "num": 1772965,
+      "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+      "onboard_time": 1720497199,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1771255,
@@ -779,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1287695,
-      "num": 1287695,
-      "word": "去年被朱一龙打掉的恋爱脑又长回来了",
-      "onboard_time": 1720497199,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1270870,
       "num": 1270870,
       "word": "初中生跪地11分钟救心脏骤停高中生",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1720182920,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1072084,
+      "num": 1072084,
+      "word": "临沂市文联主席战祥春遇害身亡",
+      "onboard_time": 1720497737,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1071709,
@@ -2131,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 800699,
-      "num": 577554,
-      "word": "临沂市文联主席战祥春遇害身亡",
-      "onboard_time": 1720497737,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 800079,
       "num": 800079,
       "word": "煤油罐车装的食用油流向了哪里",
@@ -3083,6 +3083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 634582,
+      "num": 634582,
+      "word": "狂飙兄弟",
+      "onboard_time": 1720496477,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 632746,
       "num": 632746,
       "word": "吴谨言王星越芭莎大片",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1719973697,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 618371,
-      "num": 618371,
-      "word": "狂飙兄弟",
-      "onboard_time": 1720496477,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 617903,
@@ -3603,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581684,
+      "num": 321389,
+      "word": "殡仪馆距自家仅20余米严重影响生活",
+      "onboard_time": 1720495158,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580183,
       "num": 580183,
       "word": "外国博主发现了中国人瘦的原因",
@@ -3841,6 +3849,14 @@
       "onboard_time": 1719923358,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563373,
+      "num": 563373,
+      "word": "多家银行调整个人账户非柜面交易限额",
+      "onboard_time": 1720496359,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 561954,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1720053857,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 528769,
-      "num": 321389,
-      "word": "殡仪馆距自家仅20余米严重影响生活",
-      "onboard_time": 1720495158,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 528516,
@@ -4915,14 +4923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 478672,
-      "num": 478672,
-      "word": "多家银行调整个人账户非柜面交易限额",
-      "onboard_time": 1720496359,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 478370,
       "num": 438467,
       "word": "沈腾马丽新片提档",
@@ -5265,6 +5265,14 @@
       "onboard_time": 1720062739,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 451657,
+      "num": 451657,
+      "word": "厂牌回应Jennie疑似抽烟",
+      "onboard_time": 1720496418,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 451644,
@@ -5953,14 +5961,6 @@
       "onboard_time": 1720249757,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413561,
-      "num": 320572,
-      "word": "厂牌回应Jennie疑似抽烟",
-      "onboard_time": 1720496418,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 413532,
@@ -7747,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324184,
+      "num": 278088,
+      "word": "爸爸在天上急得团团转",
+      "onboard_time": 1720494739,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323882,
       "num": 965211,
       "word": "美政府背景黑客攻击中国4500万次",
@@ -8675,14 +8683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278088,
-      "num": 278088,
-      "word": "爸爸在天上急得团团转",
-      "onboard_time": 1720494739,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278041,
       "num": 304047,
       "word": "刘德华回应演唱会滑跪",
@@ -8923,6 +8923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265023,
+      "num": 265023,
+      "word": "泡泡玛特你退坑了吗",
+      "onboard_time": 1720494978,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264919,
       "num": 238289,
       "word": "ZICO教训女同学",
@@ -9033,6 +9041,14 @@
       "onboard_time": 1719747738,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260397,
+      "num": 260397,
+      "word": "谢娜要送小鸡去农场",
+      "onboard_time": 1720498520,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 260300,
@@ -9163,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254218,
+      "num": 254218,
+      "word": "小夭今晚大婚",
+      "onboard_time": 1720495458,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254182,
       "num": 254182,
       "word": "绝区零下载破5000万",
@@ -9203,28 +9227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253577,
+      "num": 322515,
+      "word": "各方回应临沂市文联主席遇害身亡",
+      "onboard_time": 1720498040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253434,
       "num": 253434,
       "word": "为什么收费员工资低却没人离职",
       "onboard_time": 1719812897,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253181,
-      "num": 253181,
-      "word": "泡泡玛特你退坑了吗",
-      "onboard_time": 1720494978,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 253027,
-      "num": 253027,
-      "word": "小夭今晚大婚",
-      "onboard_time": 1720495458,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 251973,
@@ -9731,14 +9747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236028,
-      "num": 322515,
-      "word": "各方回应临沂市文联主席遇害身亡",
-      "onboard_time": 1720498040,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236002,
       "num": 236002,
       "word": "神十七航天员太空归来后正式亮相",
@@ -10219,6 +10227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221427,
+      "num": 221427,
+      "word": "狂飙兄弟致歉",
+      "onboard_time": 1720499540,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 221333,
       "num": 221333,
       "word": "印尼媒体呼吁世羽联修改规则",
@@ -10273,6 +10289,14 @@
       "onboard_time": 1720012579,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219396,
+      "num": 219396,
+      "word": "Uzi说赚不到奶粉钱了",
+      "onboard_time": 1720499599,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 219350,
@@ -11355,6 +11379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201720,
+      "num": 201720,
+      "word": "相柳响尾蛇",
+      "onboard_time": 1720498638,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201696,
       "num": 201696,
       "word": "BLG一轮游",
@@ -11977,14 +12009,6 @@
       "onboard_time": 1720189583,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194770,
-      "num": 194770,
-      "word": "相柳响尾蛇",
-      "onboard_time": 1720498638,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 194481,
@@ -12683,14 +12707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188439,
-      "num": 188439,
-      "word": "谢娜要送小鸡去农场",
-      "onboard_time": 1720498520,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "王俊凯电影运",
@@ -12841,6 +12857,14 @@
       "onboard_time": 1719896062,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185645,
+      "num": 185645,
+      "word": "肖宇梁饰演光绪",
+      "onboard_time": 1720496178,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 185513,
@@ -13459,6 +13483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177375,
+      "num": 577852,
+      "word": "对话油罐车清洗从业者",
+      "onboard_time": 1720497623,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177340,
       "num": 177340,
       "word": "谁不想给猫猫打工呢",
@@ -13681,14 +13713,6 @@
       "onboard_time": 1720232477,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174444,
-      "num": 174444,
-      "word": "肖宇梁饰演光绪",
-      "onboard_time": 1720496178,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 174394,
@@ -14331,6 +14355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165129,
+      "num": 161145,
+      "word": "檀健次工作室 相柳半生书",
+      "onboard_time": 1720498938,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164912,
       "num": 164912,
       "word": "歌手",
@@ -14456,6 +14488,14 @@
       "word": "檀健次银发赤瞳",
       "onboard_time": 1720422140,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163444,
+      "num": 163444,
+      "word": "百变肖战和卡点的适配度",
+      "onboard_time": 1720496119,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -14625,6 +14665,14 @@
       "onboard_time": 1719918558,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161319,
+      "num": 161319,
+      "word": "自榨油 黄曲霉素",
+      "onboard_time": 1720499419,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 161250,
@@ -15257,14 +15305,6 @@
       "onboard_time": 1720074558,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154919,
-      "num": 154919,
-      "word": "檀健次工作室 相柳半生书",
-      "onboard_time": 1720498938,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 154911,
@@ -15939,6 +15979,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146128,
+      "num": 146128,
+      "word": "王鹤棣GAI表情管理失败",
+      "onboard_time": 1720495938,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146095,
+      "num": 146095,
+      "word": "明日方舟更新",
+      "onboard_time": 1720499240,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146086,
       "num": 344332,
       "word": "张真源一秒猜出奇迹再现",
@@ -15984,14 +16040,6 @@
       "word": "东方卫视发长相思第二季预告",
       "onboard_time": 1720183400,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145808,
-      "num": 145808,
-      "word": "百变肖战和卡点的适配度",
-      "onboard_time": 1720496119,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -16841,14 +16889,6 @@
       "onboard_time": 1720255758,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138281,
-      "num": 138281,
-      "word": "王鹤棣GAI表情管理失败",
-      "onboard_time": 1720495938,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 138190,
@@ -19955,14 +19995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106998,
-      "num": 577852,
-      "word": "对话油罐车清洗从业者",
-      "onboard_time": 1720497623,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106909,
       "num": 106909,
       "word": "强迫症最喜欢的木工活",
@@ -21379,6 +21411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78344,
+      "num": 1314051,
+      "word": "美情报界编造一黑客组织来抹黑中国",
+      "onboard_time": 1720498459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78104,
       "num": 83451,
       "word": "孟子义没玩明白但夺冠了",
@@ -21799,6 +21839,14 @@
       "num": 388347,
       "word": "神十八乘组在太空开展了哪些工作",
       "onboard_time": 1719991518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64282,
+      "num": 591616,
+      "word": "从业者称罐车装油前检测由炼油厂把控",
+      "onboard_time": 1720497438,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -22648,14 +22696,6 @@
       "word": "列车长海姆立克救下女孩全车点赞",
       "onboard_time": 1720181718,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46029,
-      "num": 1298094,
-      "word": "美情报界编造一黑客组织来抹黑中国",
-      "onboard_time": 1720498459,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
