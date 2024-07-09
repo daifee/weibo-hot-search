@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720529605692,
+  "endTime": 1720531311213,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -849,6 +849,14 @@
       "onboard_time": 1720489219,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1289166,
+      "num": 1289166,
+      "word": "防风邶下线",
+      "onboard_time": 1720529839,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1270870,
@@ -1891,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 868427,
+      "num": 268336,
+      "word": "才25岁就要被介绍40岁的男孩",
+      "onboard_time": 1720527318,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 866613,
       "num": 866613,
       "word": "南京震感",
@@ -2691,14 +2707,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 721130,
-      "num": 268336,
-      "word": "才25岁就要被介绍40岁的男孩",
-      "onboard_time": 1720527318,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 721129,
       "num": 721129,
       "word": "张本智和男单夺冠",
@@ -2764,7 +2772,7 @@
     },
     {
       "raw_hot": 708604,
-      "num": 386217,
+      "num": 462630,
       "word": "中国人民解放军92950部队记一等功",
       "onboard_time": 1720524017,
       "rank": 30,
@@ -4049,6 +4057,14 @@
       "onboard_time": 1720054757,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564587,
+      "num": 244641,
+      "word": "研究发现月经用品中含有毒金属",
+      "onboard_time": 1720528938,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 564103,
@@ -5339,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466439,
+      "num": 310088,
+      "word": "鹿晗工作室是在暗示四巡地点吗",
+      "onboard_time": 1720527558,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 463905,
       "num": 394555,
       "word": "白敬亭P了两个白敬亭",
@@ -5633,6 +5657,14 @@
       "onboard_time": 1720331538,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450724,
+      "num": 287589,
+      "word": "卢昱晓父母都是医生",
+      "onboard_time": 1720529240,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 450407,
@@ -7979,6 +8011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331370,
+      "num": 282261,
+      "word": "长相思热度",
+      "onboard_time": 1720530018,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331063,
       "num": 297309,
       "word": "于正再为吴谨言发声",
@@ -8707,6 +8747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 295662,
+      "num": 279617,
+      "word": "小夭在海边等了相柳7日",
+      "onboard_time": 1720530738,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -9019,6 +9067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284557,
+      "num": 198837,
+      "word": "体制内到办公室的第一件事",
+      "onboard_time": 1720529660,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283952,
       "num": 283952,
       "word": "邓为发了涂山璟",
@@ -9241,14 +9297,6 @@
       "onboard_time": 1720135216,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 274681,
-      "num": 274681,
-      "word": "卢昱晓父母都是医生",
-      "onboard_time": 1720529240,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 274586,
@@ -9667,14 +9715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254287,
-      "num": 254287,
-      "word": "鹿晗工作室是在暗示四巡地点吗",
-      "onboard_time": 1720527558,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 254218,
       "num": 254218,
       "word": "小夭今晚大婚",
@@ -9969,14 +10009,6 @@
       "onboard_time": 1720061837,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 244641,
-      "num": 244641,
-      "word": "研究发现月经用品中含有毒金属",
-      "onboard_time": 1720528938,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 244481,
@@ -11411,6 +11443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210496,
+      "num": 141913,
+      "word": "玱玹被爷爷捂嘴的一生",
+      "onboard_time": 1720530857,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209903,
       "num": 204510,
       "word": "张志杰姐姐再发文",
@@ -11897,6 +11937,14 @@
       "onboard_time": 1720419559,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203663,
+      "num": 203663,
+      "word": "中储粮油厂门口油罐车司机称没活干",
+      "onboard_time": 1720530439,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203635,
@@ -15707,6 +15755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159772,
+      "num": 159772,
+      "word": "AG花傲天杯吃鸡",
+      "onboard_time": 1720530018,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159613,
       "num": 147706,
       "word": "林俊杰兰州站",
@@ -16065,6 +16121,14 @@
       "onboard_time": 1720089079,
       "rank": 35,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 156378,
+      "num": 156378,
+      "word": "华晨宇演唱会日出场航拍",
+      "onboard_time": 1720531158,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 156368,
@@ -19851,6 +19915,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 121498,
+      "num": 121498,
+      "word": "妈妈比死神先来了",
+      "onboard_time": 1720530978,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121423,
       "num": 121423,
       "word": "C罗说这还没有结束",
@@ -20169,6 +20241,14 @@
       "onboard_time": 1719930498,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118599,
+      "num": 118599,
+      "word": "729声明",
+      "onboard_time": 1720531219,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118425,
@@ -20633,6 +20713,14 @@
       "onboard_time": 1719990558,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "朱一龙一部电影两种身份",
+      "onboard_time": 1720530679,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 113544,
@@ -23377,6 +23465,14 @@
       "onboard_time": 1719963196,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60612,
+      "num": 295027,
+      "word": "银行回应含隐私的用户信息当废品卖",
+      "onboard_time": 1720530018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60564,
