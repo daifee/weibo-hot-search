@@ -1,0 +1,410 @@
+{
+  "runTime": 1720510480276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229312,
+        "num": 1229312,
+        "word": "papi被高管好友吐槽不求上进",
+        "onboard_time": 1720504398,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 851754,
+        "num": 851754,
+        "word": "2名公务员偷摘豆角与村民肢体冲突",
+        "onboard_time": 1720499900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82694,
+        "num": 741511,
+        "word": "美情报界编造一黑客组织来抹黑中国",
+        "onboard_time": 1720498459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006154,
+        "num": 705500,
+        "word": "爱情公寓又出番外篇了",
+        "onboard_time": 1720508238,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661985,
+        "num": 661985,
+        "word": "B太曝光星期狗",
+        "onboard_time": 1720506558,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648024,
+        "num": 648024,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487837,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540611,
+        "num": 540611,
+        "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+        "onboard_time": 1720497199,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500990,
+        "num": 500990,
+        "word": "狂飙兄弟致歉",
+        "onboard_time": 1720499540,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493010,
+        "num": 493010,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409544,
+        "num": 409544,
+        "word": "污染油吃了对身体伤害有多大",
+        "onboard_time": 1720509197,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927036,
+        "num": 404774,
+        "word": "女子隆胸被偷拍发布医院拒道歉",
+        "onboard_time": 1720508838,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452674,
+        "num": 403265,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399505,
+        "num": 399505,
+        "word": "油罐车事件",
+        "onboard_time": 1720506018,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377137,
+        "num": 377137,
+        "word": "肖战工作室发了肖战工作碎片",
+        "onboard_time": 1720504579,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374854,
+        "num": 374854,
+        "word": "A股打响2900点保卫战",
+        "onboard_time": 1720507937,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316142,
+        "num": 316142,
+        "word": "12306回应火车票退票费规定",
+        "onboard_time": 1720508298,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315997,
+        "num": 315997,
+        "word": "临沂市文联主席战祥春遇害身亡",
+        "onboard_time": 1720497737,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298043,
+        "num": 298043,
+        "word": "韦东奕堂哥发声",
+        "onboard_time": 1720504279,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271146,
+        "num": 271146,
+        "word": "仅退款动了谁的奶酪",
+        "onboard_time": 1720492878,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247259,
+        "num": 247259,
+        "word": "鹿晗工作室回复各地文旅",
+        "onboard_time": 1720502299,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493973,
+        "num": 242618,
+        "word": "海底捞等位可以打麻将了",
+        "onboard_time": 1720504097,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490190,
+        "num": 239192,
+        "word": "躺着就能月入3000你愿意吗",
+        "onboard_time": 1720507278,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436533,
+        "num": 238792,
+        "word": "女生小腹一侧突然疼痛千万别忽视",
+        "onboard_time": 1720492878,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235705,
+        "num": 235705,
+        "word": "鞠婧祎 GLASS",
+        "onboard_time": 1720504458,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 231954,
+        "num": 231954,
+        "word": "华为Mate60系列销量已过千万",
+        "onboard_time": 1720508238,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222144,
+        "num": 222144,
+        "word": "星期狗",
+        "onboard_time": 1720508838,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214309,
+        "num": 214309,
+        "word": "王星越说男人没一个好东西",
+        "onboard_time": 1720505957,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212783,
+        "num": 212783,
+        "word": "女子找人冒充前男友与自己结婚报复",
+        "onboard_time": 1720500679,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22613,
+        "num": 201475,
+        "word": "美国国庆放假芝加哥19人遭枪杀",
+        "onboard_time": 1720510218,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194719,
+        "num": 194719,
+        "word": "外媒评韩国小学生全勤乞丐",
+        "onboard_time": 1720507337,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191754,
+        "num": 191754,
+        "word": "齐思钧李莎旻子去于文文新家吃火锅",
+        "onboard_time": 1720510278,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187538,
+        "num": 187538,
+        "word": "谁家王后刚上位就发疯",
+        "onboard_time": 1720501219,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174759,
+        "num": 174759,
+        "word": "少量但长期服用煤油对身体有何危害",
+        "onboard_time": 1720507038,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23860,
+        "num": 171478,
+        "word": "莫文蔚你宣吧",
+        "onboard_time": 1720506138,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171185,
+        "num": 171185,
+        "word": "中产爱上9块9咖啡星巴克急了",
+        "onboard_time": 1720508238,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168852,
+        "num": 168852,
+        "word": "Jennie相关吸烟镜头已被删除",
+        "onboard_time": 1720500740,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99482,
+        "num": 164956,
+        "word": "五问煤制油罐车混装食用油",
+        "onboard_time": 1720507877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164725,
+        "num": 164725,
+        "word": "女子读研8年获学位证仅11天被作废",
+        "onboard_time": 1720489219,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160613,
+        "num": 160613,
+        "word": "秦岚赵昭仪写辛芷蕾YZJ",
+        "onboard_time": 1720508058,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155487,
+        "num": 155487,
+        "word": "最痛的是至亲的贬低质疑",
+        "onboard_time": 1720508659,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145861,
+        "num": 145861,
+        "word": "六公主发了刘亦菲",
+        "onboard_time": 1720504758,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 142162,
+        "word": "柯洁负于一力辽",
+        "onboard_time": 1720509618,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141541,
+        "num": 141541,
+        "word": "玲花女儿长这么大了",
+        "onboard_time": 1720503501,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "玱玹快被小夭钓成翘嘴了",
+        "onboard_time": 1720500202,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135086,
+        "num": 135086,
+        "word": "罐车混运乱象警惕重过轻罚",
+        "onboard_time": 1720504817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 131000,
+        "word": "优酷限免杨紫作品",
+        "onboard_time": 1720509977,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127282,
+        "num": 127282,
+        "word": "怦然心动20岁",
+        "onboard_time": 1720508359,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125118,
+        "num": 125118,
+        "word": "韩网友向外交部告发Jennie",
+        "onboard_time": 1720490779,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123708,
+        "num": 123708,
+        "word": "上海迪士尼调整停车收费规则",
+        "onboard_time": 1720503917,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

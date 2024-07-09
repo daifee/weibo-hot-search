@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720509518818,
+  "endTime": 1720510480276,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -91,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 990926,
+      "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
       "onboard_time": 1720508238,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 927036,
+      "num": 404774,
+      "word": "女子隆胸被偷拍发布医院拒道歉",
+      "onboard_time": 1720508838,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883911,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490190,
+      "num": 267198,
+      "word": "躺着就能月入3000你愿意吗",
+      "onboard_time": 1720507278,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480851,
       "num": 413175,
       "word": "韦东奕堂哥发声",
@@ -361,6 +377,14 @@
       "onboard_time": 1720506018,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452674,
+      "num": 403265,
+      "word": "Jennie方承认吸烟并道歉",
+      "onboard_time": 1720510158,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 452202,
@@ -451,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409544,
+      "num": 409544,
+      "word": "污染油吃了对身体伤害有多大",
+      "onboard_time": 1720509197,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407103,
       "num": 407103,
       "word": "做完近视手术后还可能再近视",
       "onboard_time": 1720493118,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 403256,
-      "num": 403256,
-      "word": "污染油吃了对身体伤害有多大",
-      "onboard_time": 1720509197,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396414,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334011,
-      "num": 202281,
-      "word": "女子隆胸被偷拍发布医院拒道歉",
-      "onboard_time": 1720508838,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333670,
       "num": 333670,
       "word": "她心里的人不是我",
@@ -611,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322085,
-      "num": 267198,
-      "word": "躺着就能月入3000你愿意吗",
-      "onboard_time": 1720507278,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 319415,
       "num": 319415,
       "word": "女子睡凉席双腿被螨虫咬满红斑",
@@ -641,6 +649,14 @@
       "onboard_time": 1720483097,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 316142,
+      "num": 316142,
+      "word": "12306回应火车票退票费规定",
+      "onboard_time": 1720508298,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310200,
@@ -731,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250923,
-      "num": 250923,
-      "word": "12306回应火车票退票费规定",
-      "onboard_time": 1720508298,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246985,
       "num": 246985,
       "word": "王星越说男人没一个好东西",
@@ -819,12 +827,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222144,
+      "num": 222144,
+      "word": "星期狗",
+      "onboard_time": 1720508838,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221894,
       "num": 221894,
       "word": "仅退款维护的是用户权益",
       "onboard_time": 1720448541,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221094,
+      "num": 221094,
+      "word": "荷兰男子捐精生下1000个娃",
+      "onboard_time": 1720509380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218074,
@@ -915,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201836,
-      "num": 201836,
-      "word": "星期狗",
-      "onboard_time": 1720508838,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198843,
       "num": 198843,
       "word": "人民日报评煤油罐车装运食用油",
@@ -985,6 +1001,14 @@
       "onboard_time": 1720494258,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191754,
+      "num": 191754,
+      "word": "齐思钧李莎旻子去于文文新家吃火锅",
+      "onboard_time": 1720510278,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 188625,
@@ -1115,20 +1139,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174759,
+      "num": 174759,
+      "word": "少量但长期服用煤油对身体有何危害",
+      "onboard_time": 1720507038,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172175,
       "num": 172175,
       "word": "老外对中国的开发不足1%",
       "onboard_time": 1720493477,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 170927,
-      "num": 170927,
-      "word": "少量但长期服用煤油对身体有何危害",
-      "onboard_time": 1720507038,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170358,
@@ -1323,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142162,
+      "num": 142162,
+      "word": "柯洁负于一力辽",
+      "onboard_time": 1720509618,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142082,
       "num": 142082,
       "word": "默杀",
@@ -1424,6 +1456,14 @@
       "word": "长相思2开播",
       "onboard_time": 1720431920,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131000,
+      "num": 131000,
+      "word": "优酷限免杨紫作品",
+      "onboard_time": 1720509977,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1643,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99482,
+      "num": 470164,
+      "word": "五问煤制油罐车混装食用油",
+      "onboard_time": 1720507877,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98890,
       "num": 98890,
       "word": "谁家大婚名场面一下来三个啊",
@@ -1728,14 +1776,6 @@
       "word": "曾告赢迪士尼的小王同学已是一名律师",
       "onboard_time": 1720503019,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76291,
-      "num": 470164,
-      "word": "五问煤制油罐车混装食用油",
-      "onboard_time": 1720507877,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1939,14 +1979,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28153,
-      "num": 202429,
-      "word": "荷兰男子捐精生下1000个娃",
-      "onboard_time": 1720509380,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28006,
       "num": 28006,
       "word": "揭露美国政府机构炮制伏特台风内幕",
@@ -1976,6 +2008,14 @@
       "word": "国际大咖安利的尼山上有什么",
       "onboard_time": 1720501219,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22613,
+      "num": 201475,
+      "word": "美国国庆放假芝加哥19人遭枪杀",
+      "onboard_time": 1720510218,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
