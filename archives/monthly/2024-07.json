@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720524943429,
+  "endTime": 1720528698067,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2755,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 708604,
+      "num": 386217,
+      "word": "中国人民解放军92950部队记一等功",
+      "onboard_time": 1720524017,
+      "rank": 30,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 708197,
       "num": 283845,
       "word": "离职博主们集体回去上班了",
@@ -4411,6 +4419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 528549,
+      "num": 383974,
+      "word": "孙莉晒三个孩子近况",
+      "onboard_time": 1720526537,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528516,
       "num": 278587,
       "word": "赵露思瘦了好多",
@@ -5043,6 +5059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 481639,
+      "num": 396519,
+      "word": "徐志胜 本来上班就烦",
+      "onboard_time": 1720522638,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481549,
       "num": 360223,
       "word": "于正曾说陈鑫海全组最小",
@@ -5171,12 +5195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477420,
+      "num": 378646,
+      "word": "金龙鱼声明",
+      "onboard_time": 1720526958,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476044,
       "num": 476044,
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
       "onboard_time": 1720424600,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475593,
+      "num": 268336,
+      "word": "才25岁就要被介绍40岁的男孩",
+      "onboard_time": 1720527318,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 475405,
@@ -5297,6 +5337,14 @@
       "onboard_time": 1720272020,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463905,
+      "num": 393319,
+      "word": "白敬亭P了两个白敬亭",
+      "onboard_time": 1720524677,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463640,
@@ -6060,7 +6108,7 @@
     },
     {
       "raw_hot": 429457,
-      "num": 296976,
+      "num": 340340,
       "word": "油罐车调查处置结果将及时公布",
       "onboard_time": 1720524258,
       "rank": 13,
@@ -7675,14 +7723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342858,
-      "num": 171720,
-      "word": "中国人民解放军92950部队记一等功",
-      "onboard_time": 1720524017,
-      "rank": 30,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 341787,
       "num": 341787,
       "word": "BLG Wei",
@@ -8057,14 +8097,6 @@
       "onboard_time": 1719760339,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 327063,
-      "num": 279833,
-      "word": "徐志胜 本来上班就烦",
-      "onboard_time": 1720522638,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 326303,
@@ -9203,6 +9235,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 274278,
+      "num": 274278,
+      "word": "729声工场",
+      "onboard_time": 1720522159,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
@@ -9217,6 +9257,14 @@
       "onboard_time": 1719809121,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270849,
+      "num": 270849,
+      "word": "国务院彻查油罐车乱象",
+      "onboard_time": 1720524798,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270659,
@@ -9480,6 +9528,14 @@
       "word": "菲律宾华人称当地绑匪有产业链",
       "onboard_time": 1720120033,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260246,
+      "num": 260246,
+      "word": "金龙鱼全面自查",
+      "onboard_time": 1720527798,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -10227,6 +10283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237021,
+      "num": 237021,
+      "word": "防风邶以我一命换她自由身",
+      "onboard_time": 1720525757,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236457,
+      "num": 236457,
+      "word": "张贤胜公开退团原因",
+      "onboard_time": 1720525997,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236002,
       "num": 236002,
       "word": "神十七航天员太空归来后正式亮相",
@@ -10691,14 +10763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223383,
-      "num": 223383,
-      "word": "729声工场",
-      "onboard_time": 1720522159,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223268,
       "num": 223268,
       "word": "阿里云服务器",
@@ -10993,6 +11057,14 @@
       "onboard_time": 1720345456,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216088,
+      "num": 216088,
+      "word": "鹿晗工作室是在暗示四巡地点吗",
+      "onboard_time": 1720527558,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 215970,
@@ -11555,6 +11627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "油罐车",
+      "onboard_time": 1720420698,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206165,
       "num": 206165,
       "word": "欧洲杯四强出炉",
@@ -11601,14 +11681,6 @@
       "onboard_time": 1720360999,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205796,
-      "num": 205796,
-      "word": "白敬亭P了两个白敬亭",
-      "onboard_time": 1720524677,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205728,
@@ -11801,6 +11873,14 @@
       "onboard_time": 1720419559,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203635,
+      "num": 203635,
+      "word": "新京报",
+      "onboard_time": 1720527619,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203423,
@@ -12691,6 +12771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193790,
+      "num": 193790,
+      "word": "一号种子孙颖莎",
+      "onboard_time": 1720527498,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193726,
       "num": 202003,
       "word": "化工油污染过的食用油对人体有何伤害",
@@ -12761,6 +12849,14 @@
       "onboard_time": 1719892518,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193048,
+      "num": 193048,
+      "word": "巴黎奥运看国乒决赛不用熬夜",
+      "onboard_time": 1720527857,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 193046,
@@ -13803,6 +13899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180721,
+      "num": 180721,
+      "word": "刘亦菲千禧穿搭",
+      "onboard_time": 1720526058,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180661,
       "num": 219878,
       "word": "市场上近六成房子是2000年以前建的",
@@ -14249,6 +14353,14 @@
       "onboard_time": 1719807861,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176105,
+      "num": 176105,
+      "word": "女生埋葬小猫后抬头看见小猫云",
+      "onboard_time": 1720525338,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176036,
@@ -14721,6 +14833,14 @@
       "onboard_time": 1719753558,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169790,
+      "num": 169790,
+      "word": "实地探访中储粮油厂区",
+      "onboard_time": 1720526118,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169722,
@@ -16283,6 +16403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152708,
+      "num": 133770,
+      "word": "杨紫的接剧水平",
+      "onboard_time": 1720528159,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152693,
       "num": 152693,
       "word": "孟子义向涵之合照",
@@ -17331,6 +17459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142454,
+      "num": 109359,
+      "word": "杨紫长相思大婚哭戏",
+      "onboard_time": 1720526177,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "发现谈恋爱其实就是找自己",
@@ -18321,14 +18457,6 @@
       "onboard_time": 1719878539,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133596,
-      "num": 133596,
-      "word": "油罐车",
-      "onboard_time": 1720420698,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133543,
@@ -19595,6 +19723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122344,
+      "num": 122344,
+      "word": "恭喜乌鸦哥上线",
+      "onboard_time": 1720528338,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122284,
       "num": 122284,
       "word": "石凯南京秒空",
@@ -20763,6 +20899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110670,
+      "num": 110670,
+      "word": "WEI租借加入BLG",
+      "onboard_time": 1720526776,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110601,
       "num": 345050,
       "word": "10余名村民砸车窗勇救坠河一家3口",
@@ -21113,6 +21257,14 @@
       "onboard_time": 1720266978,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106944,
+      "num": 106944,
+      "word": "这饭幼儿园小朋友能吃明白吗",
+      "onboard_time": 1720528577,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106909,
@@ -24727,6 +24879,14 @@
       "num": 242353,
       "word": "专家解读洞庭湖救援重点",
       "onboard_time": 1720263616,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28267,
+      "num": 391395,
+      "word": "医保药品倒卖案背后的地下黑市",
+      "onboard_time": 1720528218,
       "rank": 9,
       "category": "社会新闻"
     },
