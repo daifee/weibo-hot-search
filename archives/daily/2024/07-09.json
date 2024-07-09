@@ -1,6 +1,6 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720496177654,
+  "endTime": 1720498984287,
   "band_list": [
     {
       "raw_hot": 3218276,
@@ -35,8 +35,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287695,
+      "num": 1287695,
+      "word": "去年被朱一龙打掉的恋爱脑又长回来了",
+      "onboard_time": 1720497199,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1118769,
-      "num": 255343,
+      "num": 322030,
       "word": "女生小腹一侧突然疼痛千万别忽视",
       "onboard_time": 1720492878,
       "rank": 20,
@@ -57,6 +65,14 @@
       "onboard_time": 1720491616,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 800699,
+      "num": 577554,
+      "word": "临沂市文联主席战祥春遇害身亡",
+      "onboard_time": 1720497737,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 800079,
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 618371,
+      "num": 618371,
+      "word": "狂飙兄弟",
+      "onboard_time": 1720496477,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 583737,
       "num": 195830,
       "word": "黄子韬 我们公开吧",
@@ -152,6 +176,14 @@
       "word": "周润发在朝阳公园跑步",
       "onboard_time": 1720483637,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555951,
+      "num": 555951,
+      "word": "白敬亭咖啡店",
+      "onboard_time": 1720496900,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -187,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 528769,
+      "num": 321389,
+      "word": "殡仪馆距自家仅20余米严重影响生活",
+      "onboard_time": 1720495158,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516763,
       "num": 516763,
       "word": "洞庭湖决口完成封堵",
@@ -203,12 +243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 478672,
+      "num": 478672,
+      "word": "多家银行调整个人账户非柜面交易限额",
+      "onboard_time": 1720496359,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 474068,
       "num": 474068,
       "word": "曾黎裸背",
       "onboard_time": 1720491078,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443114,
+      "num": 443114,
+      "word": "小米第三款车是增程SUV",
+      "onboard_time": 1720494437,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 439785,
@@ -251,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 413561,
+      "num": 320572,
+      "word": "厂牌回应Jennie疑似抽烟",
+      "onboard_time": 1720496418,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412772,
       "num": 412772,
       "word": "唐朝诡事录之西行定档0718",
@@ -283,28 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375401,
-      "num": 254871,
-      "word": "殡仪馆距自家仅20余米严重影响生活",
-      "onboard_time": 1720495158,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373560,
       "num": 242717,
       "word": "Jennie疑似抽烟",
       "onboard_time": 1720438038,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367606,
-      "num": 367606,
-      "word": "小米第三款车是增程SUV",
-      "onboard_time": 1720494437,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 363956,
@@ -355,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334302,
+      "num": 332064,
+      "word": "杨超越送谢涤葵已老实求放过",
+      "onboard_time": 1720494858,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333670,
       "num": 333670,
       "word": "她心里的人不是我",
       "onboard_time": 1720466591,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332064,
-      "num": 332064,
-      "word": "杨超越送谢涤葵已老实求放过",
-      "onboard_time": 1720494858,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 330342,
@@ -451,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278088,
+      "num": 278088,
+      "word": "爸爸在天上急得团团转",
+      "onboard_time": 1720494739,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276211,
       "num": 276211,
       "word": "罐车混用2005年已有曝光",
@@ -467,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266656,
-      "num": 206903,
-      "word": "爸爸在天上急得团团转",
-      "onboard_time": 1720494739,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 246915,
-      "num": 246915,
+      "raw_hot": 253181,
+      "num": 253181,
       "word": "泡泡玛特你退坑了吗",
       "onboard_time": 1720494978,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253027,
+      "num": 253027,
+      "word": "小夭今晚大婚",
+      "onboard_time": 1720495458,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 246598,
@@ -497,6 +553,14 @@
       "onboard_time": 1720447880,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 236028,
+      "num": 322515,
+      "word": "各方回应临沂市文联主席遇害身亡",
+      "onboard_time": 1720498040,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232852,
@@ -555,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202841,
+      "num": 202841,
+      "word": "下半年天秤座时来运转",
+      "onboard_time": 1720496959,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198843,
       "num": 198843,
       "word": "人民日报评煤油罐车装运食用油",
@@ -579,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194770,
+      "num": 194770,
+      "word": "相柳响尾蛇",
+      "onboard_time": 1720498638,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193726,
       "num": 202003,
       "word": "化工油污染过的食用油对人体有何伤害",
@@ -595,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192479,
+      "num": 192479,
+      "word": "朱一龙邱天新电影演情侣",
+      "onboard_time": 1720497920,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191928,
       "num": 191928,
       "word": "错位",
       "onboard_time": 1720494258,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188439,
+      "num": 188439,
+      "word": "谢娜要送小鸡去农场",
+      "onboard_time": 1720498520,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 188207,
@@ -619,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184688,
-      "num": 184688,
-      "word": "小夭今晚大婚",
-      "onboard_time": 1720495458,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179263,
       "num": 179263,
       "word": "林俊杰18年开了200场演唱会",
@@ -643,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175796,
+      "num": 175796,
+      "word": "男子偶遇野生大熊猫卑微求让路",
+      "onboard_time": 1720493357,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175476,
       "num": 175476,
       "word": "油罐混用的行业秘密到底有多公开",
@@ -657,6 +753,14 @@
       "onboard_time": 1720494138,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 174444,
+      "num": 174444,
+      "word": "肖宇梁饰演光绪",
+      "onboard_time": 1720496178,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 172175,
@@ -683,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159251,
+      "num": 159251,
+      "word": "光遇复刻",
+      "onboard_time": 1720498819,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158886,
       "num": 158886,
       "word": "梁靖崑升至世界第二",
@@ -697,6 +809,22 @@
       "onboard_time": 1720487719,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155243,
+      "num": 155243,
+      "word": "王者10V10即将来袭",
+      "onboard_time": 1720497499,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154919,
+      "num": 154919,
+      "word": "檀健次工作室 相柳半生书",
+      "onboard_time": 1720498938,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 153578,
@@ -720,6 +848,14 @@
       "word": "眉姐姐回宫了",
       "onboard_time": 1720495158,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145808,
+      "num": 145808,
+      "word": "百变肖战和卡点的适配度",
+      "onboard_time": 1720496119,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -769,6 +905,14 @@
       "onboard_time": 1720464552,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138281,
+      "num": 138281,
+      "word": "王鹤棣GAI表情管理失败",
+      "onboard_time": 1720495938,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 137336,
@@ -835,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127586,
-      "num": 127586,
-      "word": "王鹤棣GAI表情管理失败",
-      "onboard_time": 1720495938,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127488,
       "num": 127488,
       "word": "乔治自曝离开快船原因",
@@ -865,14 +1001,6 @@
       "onboard_time": 1720485859,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122633,
-      "num": 122633,
-      "word": "百变肖战和卡点的适配度",
-      "onboard_time": 1720496119,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 122041,
@@ -913,6 +1041,14 @@
       "onboard_time": 1720433538,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114346,
+      "num": 143665,
+      "word": "看完这组名片你说中国City不City啊",
+      "onboard_time": 1720488077,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114093,
@@ -963,20 +1099,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110203,
-      "num": 110203,
-      "word": "看完这组名片你说中国City不City啊",
-      "onboard_time": 1720488077,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "西班牙法国谁能进决赛",
       "onboard_time": 1720489399,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106998,
+      "num": 577852,
+      "word": "对话油罐车清洗从业者",
+      "onboard_time": 1720497623,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105753,
@@ -1185,6 +1321,14 @@
       "onboard_time": 1720476672,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46029,
+      "num": 1298094,
+      "word": "美情报界编造一黑客组织来抹黑中国",
+      "onboard_time": 1720498459,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43961,
