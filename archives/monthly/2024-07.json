@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720523854017,
+  "endTime": 1720524943429,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -529,6 +529,14 @@
       "onboard_time": 1719792497,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1522990,
+      "num": 1522990,
+      "word": "国务院食安办回应油罐车事件",
+      "onboard_time": 1720523178,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1518291,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1719807741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1123805,
+      "num": 1123805,
+      "word": "涂山璟滴血验亲喜提警方科普",
+      "onboard_time": 1720523058,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1122323,
@@ -1777,14 +1793,6 @@
       "onboard_time": 1719987678,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 894437,
-      "num": 427147,
-      "word": "国务院食安办回应油罐车事件",
-      "onboard_time": 1720523178,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 892670,
@@ -3283,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630982,
+      "num": 402195,
+      "word": "胡姬花",
+      "onboard_time": 1720520419,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630357,
       "num": 492921,
       "word": "肖战工作室发了肖战工作碎片",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1720224436,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611827,
-      "num": 402195,
-      "word": "胡姬花",
-      "onboard_time": 1720520419,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610631,
@@ -5387,6 +5395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 459056,
+      "num": 459056,
+      "word": "你好星期六评分",
+      "onboard_time": 1720517838,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458379,
       "num": 243472,
       "word": "第一次听说内裤前的蝴蝶结这么有用",
@@ -6041,6 +6057,14 @@
       "onboard_time": 1720158200,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429457,
+      "num": 296976,
+      "word": "油罐车调查处置结果将及时公布",
+      "onboard_time": 1720524258,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429351,
@@ -6875,14 +6899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 378101,
-      "num": 378101,
-      "word": "涂山璟滴血验亲喜提警方科普",
-      "onboard_time": 1720523058,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377032,
       "num": 377032,
       "word": "首个早上提档晚上撤档的电影",
@@ -7363,14 +7379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354930,
-      "num": 354930,
-      "word": "你好星期六评分",
-      "onboard_time": 1720517838,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354878,
       "num": 354878,
       "word": "张凌赫男模身材",
@@ -7665,6 +7673,14 @@
       "onboard_time": 1719803058,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342858,
+      "num": 171720,
+      "word": "中国人民解放军92950部队记一等功",
+      "onboard_time": 1720524017,
+      "rank": 30,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 341787,
@@ -8041,6 +8057,14 @@
       "onboard_time": 1719760339,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327063,
+      "num": 279833,
+      "word": "徐志胜 本来上班就烦",
+      "onboard_time": 1720522638,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 326303,
@@ -9675,6 +9699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251172,
+      "num": 251172,
+      "word": "TF二三代 合作舞台",
+      "onboard_time": 1720523597,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250381,
       "num": 154792,
       "word": "以色列民众示威要求提前大选结束冲突",
@@ -10289,14 +10321,6 @@
       "onboard_time": 1720160898,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233520,
-      "num": 233520,
-      "word": "徐志胜 本来上班就烦",
-      "onboard_time": 1720522638,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 233095,
@@ -11579,6 +11603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205796,
+      "num": 205796,
+      "word": "白敬亭P了两个白敬亭",
+      "onboard_time": 1720524677,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205728,
       "num": 205728,
       "word": "人民网评罐车运输油罐混用",
@@ -12785,6 +12817,14 @@
       "onboard_time": 1720002619,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192196,
+      "num": 192196,
+      "word": "杨紫发自己的梗图",
+      "onboard_time": 1720523118,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 192195,
@@ -15467,6 +15507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160319,
+      "num": 160319,
+      "word": "大婚海报上小夭的眼神",
+      "onboard_time": 1720523538,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160256,
       "num": 160256,
       "word": "夏以昼呢",
@@ -15928,14 +15976,6 @@
       "word": "暑期档第一部校园剧来了",
       "onboard_time": 1720267818,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "杨紫发自己的梗图",
-      "onboard_time": 1720523118,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -16929,14 +16969,6 @@
       "onboard_time": 1720067298,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145514,
-      "num": 145514,
-      "word": "TF二三代 合作舞台",
-      "onboard_time": 1720523597,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145484,
@@ -18017,6 +18049,14 @@
       "onboard_time": 1720522818,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136373,
+      "num": 136373,
+      "word": "中央军委举行荣誉称号颁授仪式",
+      "onboard_time": 1720524317,
+      "rank": 37,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 136360,
@@ -19691,6 +19731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121159,
+      "num": 445975,
+      "word": "高考录取通知书物流信息查询",
+      "onboard_time": 1720518197,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120818,
       "num": 120818,
       "word": "第五人格",
@@ -19921,14 +19969,6 @@
       "onboard_time": 1720182500,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 119062,
-      "num": 119062,
-      "word": "大婚海报上小夭的眼神",
-      "onboard_time": 1720523538,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 118992,
@@ -20745,6 +20785,14 @@
       "onboard_time": 1720253838,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110523,
+      "num": 110523,
+      "word": "益海嘉里",
+      "onboard_time": 1720524918,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110400,
@@ -22289,14 +22337,6 @@
       "onboard_time": 1719875296,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85909,
-      "num": 445975,
-      "word": "高考录取通知书物流信息查询",
-      "onboard_time": 1720518197,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 85789,
@@ -24003,6 +24043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42914,
+      "num": 440627,
+      "word": "猫咪被主人在监控里喊名字偷感十足",
+      "onboard_time": 1720523058,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 42912,
       "num": 226844,
       "word": "校长驱车200公里为患病学生授予学位",
@@ -24073,14 +24121,6 @@
       "onboard_time": 1720425618,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41100,
-      "num": 440627,
-      "word": "猫咪被主人在监控里喊名字偷感十足",
-      "onboard_time": 1720523058,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 40935,
@@ -24305,6 +24345,14 @@
       "onboard_time": 1720190061,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36631,
+      "num": 171884,
+      "word": "三门峡究竟藏了多少好东西",
+      "onboard_time": 1720524918,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 36508,
@@ -24867,7 +24915,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25698,
+      "raw_hot": 25710,
       "num": 1322774,
       "word": "沿着长江经济带看中国",
       "onboard_time": 1720512859,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720524943429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1522990,
+        "num": 1522990,
+        "word": "国务院食安办回应油罐车事件",
+        "onboard_time": 1720523178,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1123805,
+        "num": 1123805,
+        "word": "涂山璟滴血验亲喜提警方科普",
+        "onboard_time": 1720523058,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 812072,
+        "word": "沿着长江经济带看中国",
+        "onboard_time": 1720512859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1794107,
+        "num": 794104,
+        "word": "金龙鱼再回应油罐车事件",
+        "onboard_time": 1720520058,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734650,
+        "num": 734650,
+        "word": "Jennie方承认吸烟并道歉",
+        "onboard_time": 1720510158,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1626433,
+        "num": 663612,
+        "word": "鲁花回应油罐车事件",
+        "onboard_time": 1720515739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459056,
+        "num": 459056,
+        "word": "你好星期六评分",
+        "onboard_time": 1720517838,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450830,
+        "num": 450830,
+        "word": "重生之我是江浙沪独女",
+        "onboard_time": 1720517661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346956,
+        "num": 346956,
+        "word": "傅园慧要去浙大当老师了",
+        "onboard_time": 1720514119,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314292,
+        "num": 314292,
+        "word": "两个账号同一航班价格相差1300",
+        "onboard_time": 1720514180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739138,
+        "num": 310584,
+        "word": "廊坊市监局回应化工油食用油混装事件",
+        "onboard_time": 1720490837,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630982,
+        "num": 309220,
+        "word": "胡姬花",
+        "onboard_time": 1720520419,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464074,
+        "num": 303046,
+        "word": "冀E5476W",
+        "onboard_time": 1720518978,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429457,
+        "num": 296976,
+        "word": "油罐车调查处置结果将及时公布",
+        "onboard_time": 1720524258,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416125,
+        "num": 295689,
+        "word": "黄景瑜演初中生",
+        "onboard_time": 1720521859,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42914,
+        "num": 288879,
+        "word": "猫咪被主人在监控里喊名字偷感十足",
+        "onboard_time": 1720523058,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337524,
+        "num": 287347,
+        "word": "金龙鱼",
+        "onboard_time": 1720512318,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327063,
+        "num": 279833,
+        "word": "徐志胜 本来上班就烦",
+        "onboard_time": 1720522638,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121159,
+        "num": 275024,
+        "word": "高考录取通知书物流信息查询",
+        "onboard_time": 1720518197,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274531,
+        "num": 274531,
+        "word": "油罐车事件已经提级管理",
+        "onboard_time": 1720521617,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878348,
+        "num": 273775,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 34760,
+        "num": 266490,
+        "word": "赵又廷选了迈腾B9",
+        "onboard_time": 1720520178,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260505,
+        "num": 260505,
+        "word": "韩国流行的富人区下车感",
+        "onboard_time": 1720519278,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255243,
+        "num": 255243,
+        "word": "荷兰男子捐精生下1000个娃",
+        "onboard_time": 1720509380,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251172,
+        "num": 251172,
+        "word": "TF二三代 合作舞台",
+        "onboard_time": 1720523597,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217886,
+        "num": 217886,
+        "word": "729声工场",
+        "onboard_time": 1720522159,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205796,
+        "num": 205796,
+        "word": "白敬亭P了两个白敬亭",
+        "onboard_time": 1720524677,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "杨紫发自己的梗图",
+        "onboard_time": 1720523118,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174963,
+        "num": 174963,
+        "word": "猫耳剧单",
+        "onboard_time": 1720523298,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36631,
+        "num": 171884,
+        "word": "三门峡究竟藏了多少好东西",
+        "onboard_time": 1720524918,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 342858,
+        "num": 171720,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 30,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 170618,
+        "num": 170618,
+        "word": "爱情公寓又出番外篇了",
+        "onboard_time": 1720508238,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164612,
+        "num": 164612,
+        "word": "永劫无间服务器",
+        "onboard_time": 1720515440,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160319,
+        "num": 160319,
+        "word": "大婚海报上小夭的眼神",
+        "onboard_time": 1720523538,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159950,
+        "num": 159950,
+        "word": "王勉说从未责怪过妈妈",
+        "onboard_time": 1720517596,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149738,
+        "num": 149738,
+        "word": "油罐车事件",
+        "onboard_time": 1720506018,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147475,
+        "num": 147475,
+        "word": "王传君阿如那换赛道了",
+        "onboard_time": 1720521617,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136373,
+        "num": 136373,
+        "word": "中央军委举行荣誉称号颁授仪式",
+        "onboard_time": 1720524317,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 134422,
+        "num": 134422,
+        "word": "女子花18.7元买了2颗荔枝尝鲜",
+        "onboard_time": 1720513458,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132294,
+        "num": 132294,
+        "word": "涉事大豆油收货方回应",
+        "onboard_time": 1720514299,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125245,
+        "num": 125245,
+        "word": "煤油罐车装的食用油有没有被搬上桌",
+        "onboard_time": 1720521018,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125242,
+        "num": 125242,
+        "word": "女子隆胸被偷拍发布医院拒道歉",
+        "onboard_time": 1720508838,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121569,
+        "num": 121569,
+        "word": "一号种子王楚钦",
+        "onboard_time": 1720518858,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121517,
+        "num": 121517,
+        "word": "躺着就能月入3000你愿意吗",
+        "onboard_time": 1720507278,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114467,
+        "num": 114467,
+        "word": "你好星期六",
+        "onboard_time": 1720516519,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110523,
+        "num": 110523,
+        "word": "益海嘉里",
+        "onboard_time": 1720524918,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100349,
+        "num": 100349,
+        "word": "延期两年未交房女子入住毛坯房",
+        "onboard_time": 1720518259,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100302,
+        "num": 100302,
+        "word": "巴黎奥运乒乓球女单种子排名",
+        "onboard_time": 1720515739,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99922,
+        "num": 99922,
+        "word": "李现男德满分",
+        "onboard_time": 1720523357,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98052,
+        "num": 98052,
+        "word": "OMG战胜RNG",
+        "onboard_time": 1720523298,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}
