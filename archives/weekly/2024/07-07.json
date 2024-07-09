@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720560006575,
+  "endTime": 1720560883390,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -8235,6 +8235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46826,
+      "num": 46826,
+      "word": "法国欧洲杯出局",
+      "onboard_time": 1720559350,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46063,
       "num": 205712,
       "word": "高圆圆选了全新亚洲龙",
@@ -8305,14 +8313,6 @@
       "onboard_time": 1720517118,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 44076,
-      "num": 44076,
-      "word": "法国欧洲杯出局",
-      "onboard_time": 1720559350,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 43961,
@@ -8843,7 +8843,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16047,
+      "raw_hot": 16217,
       "num": 270862,
       "word": "伟大的历史变革",
       "onboard_time": 1720531460,
