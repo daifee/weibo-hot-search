@@ -1,0 +1,410 @@
+{
+  "runTime": 1720489468133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3218276,
+        "num": 3218276,
+        "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+        "onboard_time": 1720487837,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079541,
+        "num": 1079541,
+        "word": "有声小说被曝存在不雅背景音",
+        "onboard_time": 1720487837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50709,
+        "num": 920598,
+        "word": "珠江口东西两岸掀起串门热",
+        "onboard_time": 1720442298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360224,
+        "num": 910642,
+        "word": "男子多次虐待女儿希望将其判给前妻",
+        "onboard_time": 1720484897,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800079,
+        "num": 800079,
+        "word": "煤油罐车装的食用油流向了哪里",
+        "onboard_time": 1720449020,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625723,
+        "num": 625723,
+        "word": "涂山璟怀疑儿子身世",
+        "onboard_time": 1720454538,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452073,
+        "num": 452073,
+        "word": "周润发在朝阳公园跑步",
+        "onboard_time": 1720483637,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447481,
+        "num": 447481,
+        "word": "中储粮金鼎食用油恢复上架",
+        "onboard_time": 1720483998,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399100,
+        "num": 399100,
+        "word": "小夭是饭桌上唯一的清汤大老爷",
+        "onboard_time": 1720480936,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325915,
+        "num": 325915,
+        "word": "钢腿女孩和消防员的爱情后续",
+        "onboard_time": 1720485499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395239,
+        "num": 325765,
+        "word": "9年多以前罐车投毒就存在",
+        "onboard_time": 1720483758,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324585,
+        "num": 324585,
+        "word": "中储粮要求对运输车辆核查装载记录",
+        "onboard_time": 1720487297,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299509,
+        "num": 299509,
+        "word": "马嘉祺听到出道战赛制的反应",
+        "onboard_time": 1720485438,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268488,
+        "num": 268488,
+        "word": "陈泽 花小龙",
+        "onboard_time": 1720483097,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245450,
+        "num": 245450,
+        "word": "无痛分娩国内普及率只有约30%",
+        "onboard_time": 1720481475,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228293,
+        "num": 228293,
+        "word": "檀健次从相柳身上下来好吗",
+        "onboard_time": 1720489219,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188207,
+        "num": 208880,
+        "word": "60岁老闺蜜退休一起上山下河救援",
+        "onboard_time": 1720487897,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 206579,
+        "num": 206579,
+        "word": "她心里的人不是我",
+        "onboard_time": 1720466591,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198843,
+        "num": 198843,
+        "word": "人民日报评煤油罐车装运食用油",
+        "onboard_time": 1720488317,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196558,
+        "num": 196558,
+        "word": "拜登拒绝退出总统竞选",
+        "onboard_time": 1720489098,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503585,
+        "num": 196144,
+        "word": "三伏天气血不足最直观的感受",
+        "onboard_time": 1720481595,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195562,
+        "num": 195562,
+        "word": "优酷升至行业第二",
+        "onboard_time": 1720452377,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109994,
+        "num": 193979,
+        "word": "阿勒泰雨后现梦幻云海",
+        "onboard_time": 1720487358,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 366843,
+        "num": 192997,
+        "word": "瘦了之后最大的感受是什么",
+        "onboard_time": 1720480814,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349999,
+        "num": 190068,
+        "word": "原来早睡真的能解决生活中大部分问题",
+        "onboard_time": 1720453698,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281587,
+        "num": 187834,
+        "word": "养了5年的猫咬了婆婆一口",
+        "onboard_time": 1720481716,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187582,
+        "num": 187582,
+        "word": "阿狸 整容",
+        "onboard_time": 1720440320,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 221603,
+        "num": 185196,
+        "word": "黄子韬 我们公开吧",
+        "onboard_time": 1720420640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212083,
+        "num": 183594,
+        "word": "晚上睡觉前擦一擦手机",
+        "onboard_time": 1720449920,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181166,
+        "num": 181166,
+        "word": "相柳角色热度断层",
+        "onboard_time": 1720488018,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405323,
+        "num": 179965,
+        "word": "女子读研8年获学位证仅11天被作废",
+        "onboard_time": 1720489219,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243453,
+        "num": 179064,
+        "word": "电动车女孩根本打扮不了自己",
+        "onboard_time": 1720489219,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174298,
+        "num": 174298,
+        "word": "12345回应市民要求重新组织高考",
+        "onboard_time": 1720431980,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "美国男篮奥运全家福詹姆斯C位",
+        "onboard_time": 1720487719,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153578,
+        "num": 153578,
+        "word": "相柳没事哒",
+        "onboard_time": 1720488378,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145412,
+        "num": 145412,
+        "word": "加相亲对象微信别给电话号码",
+        "onboard_time": 1720451240,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 137490,
+        "num": 137490,
+        "word": "坐高铁一定要穿长裤",
+        "onboard_time": 1720443500,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135978,
+        "num": 135978,
+        "word": "做教师的子女是一种什么体验",
+        "onboard_time": 1720489219,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135692,
+        "num": 135692,
+        "word": "决口封堵后2.1亿立方米水量怎么排",
+        "onboard_time": 1720454177,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134549,
+        "num": 134549,
+        "word": "在韩国点外卖还要洗碗",
+        "onboard_time": 1720484839,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132765,
+        "num": 132765,
+        "word": "化工油污染过的食用油对人体有何伤害",
+        "onboard_time": 1720480334,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131515,
+        "num": 131515,
+        "word": "熊猫宝宝躺着吃笋都那么好看",
+        "onboard_time": 1720484178,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 127798,
+        "word": "鞠婧祎微博认证去掉了丝芭",
+        "onboard_time": 1720441879,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127523,
+        "num": 127523,
+        "word": "戚薇微博是尚雯婕诱捕器",
+        "onboard_time": 1720488979,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127488,
+        "num": 127488,
+        "word": "乔治自曝离开快船原因",
+        "onboard_time": 1720488857,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113835,
+        "num": 113835,
+        "word": "燃烧腹部脂肪菠萝水",
+        "onboard_time": 1720486879,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112021,
+        "num": 112021,
+        "word": "谢娜和孩子把鸡蛋孵出了小鸡",
+        "onboard_time": 1720436418,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109778,
+        "num": 109778,
+        "word": "黄宣被误认成具俊晔",
+        "onboard_time": 1720464552,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109044,
+        "num": 109044,
+        "word": "人死后指纹还能解锁手机吗",
+        "onboard_time": 1720441759,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107979,
+        "num": 107979,
+        "word": "西班牙法国谁能进决赛",
+        "onboard_time": 1720489399,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京会见匈牙利总理欧尔班#"
+    }
+  }
+}

@@ -1,21 +1,37 @@
 {
   "startTime": 1720455879416,
-  "endTime": 1720488172067,
+  "endTime": 1720489468133,
   "band_list": [
     {
+      "raw_hot": 3218276,
+      "num": 3218276,
+      "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+      "onboard_time": 1720487837,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504982,
-      "num": 589480,
+      "num": 910642,
       "word": "男子多次虐待女儿希望将其判给前妻",
       "onboard_time": 1720484897,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 914778,
-      "num": 914778,
-      "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+      "raw_hot": 1079541,
+      "num": 1079541,
+      "word": "有声小说被曝存在不雅背景音",
       "onboard_time": 1720487837,
-      "rank": 0,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800079,
+      "num": 800079,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -35,12 +51,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 646675,
-      "num": 646675,
-      "word": "煤油罐车装的食用油流向了哪里",
-      "onboard_time": 1720449020,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 625723,
+      "num": 625723,
+      "word": "涂山璟怀疑儿子身世",
+      "onboard_time": 1720454538,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 583737,
@@ -107,28 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510066,
-      "num": 510066,
-      "word": "有声小说被曝存在不雅背景音",
-      "onboard_time": 1720487837,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480305,
       "num": 197855,
       "word": "瘦了之后最大的感受是什么",
       "onboard_time": 1720480814,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 475377,
-      "num": 475377,
-      "word": "涂山璟怀疑儿子身世",
-      "onboard_time": 1720454538,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 439785,
@@ -153,6 +153,14 @@
       "onboard_time": 1720453698,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405323,
+      "num": 179965,
+      "word": "女子读研8年获学位证仅11天被作废",
+      "onboard_time": 1720489219,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396414,
@@ -219,6 +227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325915,
+      "num": 325915,
+      "word": "钢腿女孩和消防员的爱情后续",
+      "onboard_time": 1720485499,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324585,
+      "num": 324585,
+      "word": "中储粮要求对运输车辆核查装载记录",
+      "onboard_time": 1720487297,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323710,
       "num": 323710,
       "word": "马嘉祺听到出道战赛制的反应",
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289410,
-      "num": 289410,
-      "word": "钢腿女孩和消防员的爱情后续",
-      "onboard_time": 1720485499,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271779,
       "num": 271779,
       "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
@@ -283,6 +299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 243453,
+      "num": 179064,
+      "word": "电动车女孩根本打扮不了自己",
+      "onboard_time": 1720489219,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242615,
       "num": 242615,
       "word": "乌克兰全境已拉响防空警报",
@@ -291,20 +315,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 236773,
-      "num": 236773,
-      "word": "中储粮要求对运输车辆核查装载记录",
-      "onboard_time": 1720487297,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232852,
       "num": 232852,
       "word": "决口封堵后2.1亿立方米水量怎么排",
       "onboard_time": 1720454177,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228293,
+      "num": 228293,
+      "word": "檀健次从相柳身上下来好吗",
+      "onboard_time": 1720489219,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 223000,
@@ -347,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198843,
+      "num": 198843,
+      "word": "人民日报评煤油罐车装运食用油",
+      "onboard_time": 1720488317,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198790,
       "num": 198790,
       "word": "谢娜和孩子把鸡蛋孵出了小鸡",
       "onboard_time": 1720436418,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196558,
+      "num": 196558,
+      "word": "拜登拒绝退出总统竞选",
+      "onboard_time": 1720489098,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193726,
@@ -363,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188207,
+      "num": 208880,
+      "word": "60岁老闺蜜退休一起上山下河救援",
+      "onboard_time": 1720487897,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 186501,
       "num": 148330,
       "word": "孙颖莎王楚钦发文相约巴黎见",
       "onboard_time": 1720453338,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181166,
+      "num": 181166,
+      "word": "相柳角色热度断层",
+      "onboard_time": 1720488018,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 179263,
@@ -403,6 +459,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156785,
+      "num": 156785,
+      "word": "美国男篮奥运全家福詹姆斯C位",
+      "onboard_time": 1720487719,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153578,
+      "num": 153578,
+      "word": "相柳没事哒",
+      "onboard_time": 1720488378,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152562,
       "num": 152562,
       "word": "金鼎食用油下架",
@@ -427,14 +499,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143252,
-      "num": 143252,
-      "word": "美国男篮奥运全家福詹姆斯C位",
-      "onboard_time": 1720487719,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140928,
       "num": 140928,
       "word": "青春有你国际版选手名单",
@@ -457,6 +521,14 @@
       "onboard_time": 1720482737,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135978,
+      "num": 135978,
+      "word": "做教师的子女是一种什么体验",
+      "onboard_time": 1720489219,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 135226,
@@ -499,12 +571,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125609,
-      "num": 125609,
-      "word": "60岁老闺蜜退休一起上山下河救援",
-      "onboard_time": 1720487897,
+      "raw_hot": 127523,
+      "num": 127523,
+      "word": "戚薇微博是尚雯婕诱捕器",
+      "onboard_time": 1720488979,
       "rank": 43,
-      "category": "社会正能量"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127488,
+      "num": 127488,
+      "word": "乔治自曝离开快船原因",
+      "onboard_time": 1720488857,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 123925,
@@ -537,14 +617,6 @@
       "onboard_time": 1720443018,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117640,
-      "num": 117640,
-      "word": "相柳角色热度断层",
-      "onboard_time": 1720488018,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 114939,
@@ -601,6 +673,14 @@
       "onboard_time": 1720488077,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107979,
+      "num": 107979,
+      "word": "西班牙法国谁能进决赛",
+      "onboard_time": 1720489399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105753,
@@ -764,7 +844,7 @@
     },
     {
       "raw_hot": 56841,
-      "num": 608371,
+      "num": 920598,
       "word": "珠江口东西两岸掀起串门热",
       "onboard_time": 1720442298,
       "rank": 2,

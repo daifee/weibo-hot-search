@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720488172067,
+  "endTime": 1720489468133,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -16,6 +16,14 @@
       "word": "江苏扬州地震",
       "onboard_time": 1720426459,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3218276,
+      "num": 3218276,
+      "word": "CoCo员工被曝切西瓜时吃掉瓜心",
+      "onboard_time": 1720487837,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1504982,
-      "num": 589480,
+      "num": 910642,
       "word": "男子多次虐待女儿希望将其判给前妻",
       "onboard_time": 1720484897,
       "rank": 3,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1079541,
+      "num": 1079541,
+      "word": "有声小说被曝存在不雅背景音",
+      "onboard_time": 1720487837,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059142,
       "num": 1059142,
       "word": "有香港人去深圳买一周的菜",
@@ -353,14 +369,6 @@
       "onboard_time": 1720394895,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 914778,
-      "num": 914778,
-      "word": "CoCo员工被曝切西瓜时吃掉瓜心",
-      "onboard_time": 1720487837,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 909029,
@@ -473,6 +481,14 @@
       "onboard_time": 1720341198,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800079,
+      "num": 800079,
+      "word": "煤油罐车装的食用油流向了哪里",
+      "onboard_time": 1720449020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799023,
@@ -691,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 646675,
-      "num": 646675,
-      "word": "煤油罐车装的食用油流向了哪里",
-      "onboard_time": 1720449020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 646242,
       "num": 496795,
       "word": "向太晒与刘德华夫妇聊天记录",
@@ -753,6 +761,14 @@
       "onboard_time": 1720279099,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625723,
+      "num": 625723,
+      "word": "涂山璟怀疑儿子身世",
+      "onboard_time": 1720454538,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 624319,
@@ -1011,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 510066,
-      "num": 510066,
-      "word": "有声小说被曝存在不雅背景音",
-      "onboard_time": 1720487837,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503257,
       "num": 503257,
       "word": "杨紫侧边盘发",
@@ -1088,14 +1096,6 @@
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
       "onboard_time": 1720424600,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 475377,
-      "num": 475377,
-      "word": "涂山璟怀疑儿子身世",
-      "onboard_time": 1720454538,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1441,6 +1441,14 @@
       "onboard_time": 1720307774,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405323,
+      "num": 179965,
+      "word": "女子读研8年获学位证仅11天被作废",
+      "onboard_time": 1720489219,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404249,
@@ -1907,12 +1915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325915,
+      "num": 325915,
+      "word": "钢腿女孩和消防员的爱情后续",
+      "onboard_time": 1720485499,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325628,
       "num": 190214,
       "word": "原来西梅是李子不是梅子",
       "onboard_time": 1720332978,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 324585,
+      "num": 324585,
+      "word": "中储粮要求对运输车辆核查装载记录",
+      "onboard_time": 1720487297,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323882,
@@ -2096,14 +2120,6 @@
       "word": "大熊猫赴港",
       "onboard_time": 1720361239,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289410,
-      "num": 289410,
-      "word": "钢腿女孩和消防员的爱情后续",
-      "onboard_time": 1720485499,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2387,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243453,
+      "num": 179064,
+      "word": "电动车女孩根本打扮不了自己",
+      "onboard_time": 1720489219,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241129,
       "num": 241129,
       "word": "鸣潮",
@@ -2457,14 +2481,6 @@
       "onboard_time": 1720312876,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 236773,
-      "num": 236773,
-      "word": "中储粮要求对运输车辆核查装载记录",
-      "onboard_time": 1720487297,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235928,
@@ -2545,6 +2561,14 @@
       "onboard_time": 1720418300,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228293,
+      "num": 228293,
+      "word": "檀健次从相柳身上下来好吗",
+      "onboard_time": 1720489219,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 227882,
@@ -2899,6 +2923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198843,
+      "num": 198843,
+      "word": "人民日报评煤油罐车装运食用油",
+      "onboard_time": 1720488317,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198434,
       "num": 198434,
       "word": "玱玹格局已经是nextlevel了",
@@ -2945,6 +2977,14 @@
       "onboard_time": 1720325717,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196558,
+      "num": 196558,
+      "word": "拜登拒绝退出总统竞选",
+      "onboard_time": 1720489098,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 196006,
@@ -3171,6 +3211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188207,
+      "num": 208880,
+      "word": "60岁老闺蜜退休一起上山下河救援",
+      "onboard_time": 1720487897,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 187008,
       "num": 187008,
       "word": "夭玹上分",
@@ -3281,6 +3329,14 @@
       "onboard_time": 1720329497,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181166,
+      "num": 181166,
+      "word": "相柳角色热度断层",
+      "onboard_time": 1720488018,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 181137,
@@ -3819,6 +3875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 156785,
+      "num": 156785,
+      "word": "美国男篮奥运全家福詹姆斯C位",
+      "onboard_time": 1720487719,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156634,
       "num": 156634,
       "word": "C罗的镜头好像电影",
@@ -3889,6 +3953,14 @@
       "onboard_time": 1720416140,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153578,
+      "num": 153578,
+      "word": "相柳没事哒",
+      "onboard_time": 1720488378,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 153011,
@@ -4091,14 +4163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143252,
-      "num": 143252,
-      "word": "美国男篮奥运全家福詹姆斯C位",
-      "onboard_time": 1720487719,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -4265,6 +4329,14 @@
       "onboard_time": 1720436779,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135978,
+      "num": 135978,
+      "word": "做教师的子女是一种什么体验",
+      "onboard_time": 1720489219,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 135492,
@@ -4475,6 +4547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127523,
+      "num": 127523,
+      "word": "戚薇微博是尚雯婕诱捕器",
+      "onboard_time": 1720488979,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127488,
+      "num": 127488,
+      "word": "乔治自曝离开快船原因",
+      "onboard_time": 1720488857,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126480,
       "num": 126480,
       "word": "林高远3比1安宰贤",
@@ -4521,14 +4609,6 @@
       "onboard_time": 1720357338,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125609,
-      "num": 125609,
-      "word": "60岁老闺蜜退休一起上山下河救援",
-      "onboard_time": 1720487897,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 125431,
@@ -4673,14 +4753,6 @@
       "onboard_time": 1720399459,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117640,
-      "num": 117640,
-      "word": "相柳角色热度断层",
-      "onboard_time": 1720488018,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 117159,
@@ -4976,6 +5048,14 @@
       "word": "张本智和早田希娜WTT混双夺冠",
       "onboard_time": 1720348636,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107979,
+      "num": 107979,
+      "word": "西班牙法国谁能进决赛",
+      "onboard_time": 1720489399,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -5652,7 +5732,7 @@
     },
     {
       "raw_hot": 56841,
-      "num": 608371,
+      "num": 920598,
       "word": "珠江口东西两岸掀起串门热",
       "onboard_time": 1720442298,
       "rank": 15,
