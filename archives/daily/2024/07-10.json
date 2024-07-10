@@ -1,7 +1,15 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720589763316,
+  "endTime": 1720592843502,
   "band_list": [
+    {
+      "raw_hot": 1596254,
+      "num": 1596254,
+      "word": "温太医沈眉庄大婚",
+      "onboard_time": 1720589119,
+      "rank": 13,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1573115,
       "num": 1573115,
@@ -57,6 +65,14 @@
       "onboard_time": 1720575138,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996553,
+      "num": 589293,
+      "word": "奥利 背刺",
+      "onboard_time": 1720588698,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 969040,
@@ -243,11 +259,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 558318,
-      "num": 313674,
-      "word": "奥利 背刺",
-      "onboard_time": 1720588698,
-      "rank": 43,
+      "raw_hot": 547172,
+      "num": 397218,
+      "word": "赵昭仪 姐你牙龈出血了",
+      "onboard_time": 1720589298,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1720572318,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 519082,
-      "num": 272847,
-      "word": "温太医沈眉庄大婚",
-      "onboard_time": 1720589119,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 517883,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428299,
+      "num": 428299,
+      "word": "韩国人被锅包肉大赛种草",
+      "onboard_time": 1720589298,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 421134,
       "num": 421134,
       "word": "格力诉小米米家电风扇侵权一案胜诉",
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375638,
+      "num": 217494,
+      "word": "好奇有韩国人追中国明星的吗",
+      "onboard_time": 1720588698,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372743,
       "num": 372743,
       "word": "单人买电影票不能选C位合理吗",
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315952,
+      "num": 315952,
+      "word": "宋轶手机里没有外卖软件",
+      "onboard_time": 1720590078,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310686,
       "num": 202869,
       "word": "恋与深空",
@@ -497,6 +529,14 @@
       "onboard_time": 1720529839,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308942,
+      "num": 308942,
+      "word": "忆江南cp官宣",
+      "onboard_time": 1720588639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 308213,
@@ -531,12 +571,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 292101,
-      "num": 221231,
-      "word": "忆江南cp官宣",
-      "onboard_time": 1720588639,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 293995,
+      "num": 293995,
+      "word": "北大教授反对提高个税起征点",
+      "onboard_time": 1720590557,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 289047,
@@ -569,14 +609,6 @@
       "onboard_time": 1720584440,
       "rank": 33,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 272196,
-      "num": 217494,
-      "word": "好奇有韩国人追中国明星的吗",
-      "onboard_time": 1720588698,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 265828,
@@ -617,14 +649,6 @@
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240139,
-      "num": 216869,
-      "word": "赵昭仪 姐你牙龈出血了",
-      "onboard_time": 1720589298,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 228867,
@@ -699,6 +723,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204759,
+      "num": 174693,
+      "word": "深圳卫健委喊话涂山璟来做DNA鉴定",
+      "onboard_time": 1720590738,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203102,
+      "num": 203102,
+      "word": "星穹铁道翡翠",
+      "onboard_time": 1720591098,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202111,
       "num": 202111,
       "word": "张婧仪度假风生日照",
@@ -761,6 +801,14 @@
       "onboard_time": 1720563672,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185334,
+      "num": 172671,
+      "word": "林更新陪玫瑰的故事女儿玩",
+      "onboard_time": 1720589418,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 184237,
@@ -851,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170478,
+      "num": 170478,
+      "word": "PDD即将复播",
+      "onboard_time": 1720589237,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 169806,
       "num": 169806,
       "word": "怦然4体面的喜欢破碎的告别",
@@ -907,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164447,
+      "num": 164447,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1720592418,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -921,14 +985,6 @@
       "onboard_time": 1720581857,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159274,
-      "num": 159274,
-      "word": "林更新陪玫瑰的故事女儿玩",
-      "onboard_time": 1720589418,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 158771,
@@ -977,14 +1033,6 @@
       "onboard_time": 1720574838,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150878,
-      "num": 150878,
-      "word": "韩国人被锅包肉大赛种草",
-      "onboard_time": 1720589298,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 149997,
@@ -1043,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "成为了把校长赶出教室的第一人",
+      "onboard_time": 1720591758,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136651,
       "num": 136651,
       "word": "金牛座为什么难以亲近",
@@ -1075,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132441,
+      "num": 132441,
+      "word": "鹿晗工作室好忙",
+      "onboard_time": 1720591879,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130094,
       "num": 130094,
       "word": "下半年摩羯座扬眉吐气",
@@ -1091,12 +1155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129168,
-      "num": 129168,
-      "word": "PDD即将复播",
-      "onboard_time": 1720589237,
-      "rank": 48,
-      "category": "游戏,网红"
+      "raw_hot": 129662,
+      "num": 129662,
+      "word": "张婧仪做大表情也不会崩",
+      "onboard_time": 1720590618,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129025,
@@ -1147,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116953,
+      "num": 116953,
+      "word": "GLASS盛典",
+      "onboard_time": 1720592718,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 116809,
       "num": 116809,
       "word": "4个部位出汗多暗示身体有问题",
@@ -1171,6 +1243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110041,
+      "num": 110041,
+      "word": "玱玹为什么不亲",
+      "onboard_time": 1720592058,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109853,
       "num": 109853,
       "word": "台积电下周试产2nm芯片",
@@ -1187,12 +1267,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109119,
+      "num": 109119,
+      "word": "养了18条狗狗的大户人家",
+      "onboard_time": 1720591698,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108432,
+      "num": 108432,
+      "word": "梅西说非常高兴再进决赛",
+      "onboard_time": 1720592297,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107556,
       "num": 125926,
       "word": "荷兰男子捐精生下1000个娃",
       "onboard_time": 1720509380,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106559,
+      "num": 106559,
+      "word": "易烊千玺米兰游逛",
+      "onboard_time": 1720590919,
+      "rank": 47,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 105790,
@@ -1459,7 +1563,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56724,
+      "raw_hot": 56923,
       "num": 293312,
       "word": "人类群星闪耀时具象化了",
       "onboard_time": 1720587740,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1720567155,
       "rank": 20,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 28245,
+      "num": 367083,
+      "word": "武警抗洪12小时后席地而睡",
+      "onboard_time": 1720591278,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27251,

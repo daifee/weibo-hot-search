@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720589763316,
+  "endTime": 1720592843502,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -145,6 +145,14 @@
       "onboard_time": 1720499900,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1596254,
+      "num": 1596254,
+      "word": "温太医沈眉庄大婚",
+      "onboard_time": 1720589119,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1573115,
@@ -553,6 +561,14 @@
       "onboard_time": 1720342637,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 996553,
+      "num": 589293,
+      "word": "奥利 背刺",
+      "onboard_time": 1720588698,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 988840,
@@ -1507,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 558318,
-      "num": 313674,
-      "word": "奥利 背刺",
-      "onboard_time": 1720588698,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557623,
       "num": 437959,
       "word": "林俊杰18年开了200场演唱会",
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547172,
+      "num": 397218,
+      "word": "赵昭仪 姐你牙龈出血了",
+      "onboard_time": 1720589298,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546004,
       "num": 546004,
       "word": "向佐感谢我家小两口圆满了他和郭碧婷",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1720526537,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519082,
-      "num": 272847,
-      "word": "温太医沈眉庄大婚",
-      "onboard_time": 1720589119,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 517883,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428299,
+      "num": 428299,
+      "word": "韩国人被锅包肉大赛种草",
+      "onboard_time": 1720589298,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 426001,
       "num": 270651,
       "word": "成毅金发",
@@ -2689,6 +2705,14 @@
       "onboard_time": 1720507937,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 375638,
+      "num": 217494,
+      "word": "好奇有韩国人追中国明星的吗",
+      "onboard_time": 1720588698,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374480,
@@ -3187,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315952,
+      "num": 315952,
+      "word": "宋轶手机里没有外卖软件",
+      "onboard_time": 1720590078,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1720403718,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308942,
+      "num": 308942,
+      "word": "忆江南cp官宣",
+      "onboard_time": 1720588639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 308883,
@@ -3355,6 +3395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293995,
+      "num": 293995,
+      "word": "北大教授反对提高个税起征点",
+      "onboard_time": 1720590557,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 293072,
       "num": 293072,
       "word": "金龙鱼全面自查",
@@ -3384,14 +3432,6 @@
       "word": "谢娜谈怀孕过程",
       "onboard_time": 1720510819,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 292101,
-      "num": 221231,
-      "word": "忆江南cp官宣",
-      "onboard_time": 1720588639,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3552,14 +3592,6 @@
       "word": "729声工场",
       "onboard_time": 1720522159,
       "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272196,
-      "num": 217494,
-      "word": "好奇有韩国人追中国明星的吗",
-      "onboard_time": 1720588698,
-      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -3889,14 +3921,6 @@
       "onboard_time": 1720358420,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240139,
-      "num": 216869,
-      "word": "赵昭仪 姐你牙龈出血了",
-      "onboard_time": 1720589298,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 239948,
@@ -4483,6 +4507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204759,
+      "num": 174693,
+      "word": "深圳卫健委喊话涂山璟来做DNA鉴定",
+      "onboard_time": 1720590738,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204722,
       "num": 187314,
       "word": "女生的颜值开关",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1720527619,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203102,
+      "num": 203102,
+      "word": "星穹铁道翡翠",
+      "onboard_time": 1720591098,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 202864,
@@ -5131,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185334,
+      "num": 172671,
+      "word": "林更新陪玫瑰的故事女儿玩",
+      "onboard_time": 1720589418,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185308,
       "num": 185308,
       "word": "最痛的是至亲的贬低质疑",
@@ -5651,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170478,
+      "num": 170478,
+      "word": "PDD即将复播",
+      "onboard_time": 1720589237,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 170358,
       "num": 170358,
       "word": "朱一龙社畜感在演我",
@@ -5931,6 +5987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164447,
+      "num": 164447,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1720592418,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163922,
       "num": 163922,
       "word": "负负得正 抬上成年人那桌",
@@ -6081,14 +6145,6 @@
       "onboard_time": 1720530018,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159274,
-      "num": 159274,
-      "word": "林更新陪玫瑰的故事女儿玩",
-      "onboard_time": 1720589418,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 159258,
@@ -6433,14 +6489,6 @@
       "onboard_time": 1720363820,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150878,
-      "num": 150878,
-      "word": "韩国人被锅包肉大赛种草",
-      "onboard_time": 1720589298,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 150759,
@@ -7003,6 +7051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "成为了把校长赶出教室的第一人",
+      "onboard_time": 1720591758,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136375,
       "num": 136375,
       "word": "食用油到底怎么选",
@@ -7147,6 +7203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132441,
+      "num": 132441,
+      "word": "鹿晗工作室好忙",
+      "onboard_time": 1720591879,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132335,
       "num": 132335,
       "word": "北大教授称很多人被过度医疗了",
@@ -7243,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129662,
+      "num": 129662,
+      "word": "张婧仪做大表情也不会崩",
+      "onboard_time": 1720590618,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129614,
       "num": 129614,
       "word": "T1晋级电竞世界杯决赛",
@@ -7257,14 +7329,6 @@
       "onboard_time": 1720278139,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 129168,
-      "num": 129168,
-      "word": "PDD即将复播",
-      "onboard_time": 1720589237,
-      "rank": 48,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 129058,
@@ -7715,6 +7779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116953,
+      "num": 116953,
+      "word": "GLASS盛典",
+      "onboard_time": 1720592718,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 116834,
       "num": 116834,
       "word": "BabyMonster新歌舞台",
@@ -8011,6 +8083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110041,
+      "num": 110041,
+      "word": "玱玹为什么不亲",
+      "onboard_time": 1720592058,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109973,
       "num": 109973,
       "word": "为什么说走路是性价比最高的运动",
@@ -8067,6 +8147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109119,
+      "num": 109119,
+      "word": "养了18条狗狗的大户人家",
+      "onboard_time": 1720591698,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108568,
       "num": 108568,
       "word": "杨紫工作室好皮",
@@ -8081,6 +8169,14 @@
       "onboard_time": 1720399758,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 108432,
+      "num": 108432,
+      "word": "梅西说非常高兴再进决赛",
+      "onboard_time": 1720592297,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 108023,
@@ -8113,6 +8209,14 @@
       "onboard_time": 1720528577,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106559,
+      "num": 106559,
+      "word": "易烊千玺米兰游逛",
+      "onboard_time": 1720590919,
+      "rank": 47,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 106353,
@@ -9003,6 +9107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56923,
+      "num": 293312,
+      "word": "人类群星闪耀时具象化了",
+      "onboard_time": 1720587740,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 56841,
       "num": 1038413,
       "word": "珠江口东西两岸掀起串门热",
@@ -9017,14 +9129,6 @@
       "onboard_time": 1720351038,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56724,
-      "num": 293312,
-      "word": "人类群星闪耀时具象化了",
-      "onboard_time": 1720587740,
-      "rank": 23,
-      "category": "读书作家"
     },
     {
       "raw_hot": 56078,
@@ -9657,6 +9761,14 @@
       "onboard_time": 1720567155,
       "rank": 20,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 28245,
+      "num": 367083,
+      "word": "武警抗洪12小时后席地而睡",
+      "onboard_time": 1720591278,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28006,
