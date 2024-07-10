@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720647329654,
+  "endTime": 1720649904361,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -2923,6 +2923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399304,
+      "num": 399304,
+      "word": "女清洁工消失在垃圾压缩箱",
+      "onboard_time": 1720626077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398230,
       "num": 398230,
       "word": "宋轶手机里没有外卖软件",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1720308134,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379325,
-      "num": 379325,
-      "word": "女清洁工消失在垃圾压缩箱",
-      "onboard_time": 1720626077,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379267,
@@ -4993,6 +4993,14 @@
       "onboard_time": 1720598178,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "英格兰连续两届欧洲杯进决赛",
+      "onboard_time": 1720646112,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 212521,
@@ -8691,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126881,
-      "num": 126881,
-      "word": "英格兰连续两届欧洲杯进决赛",
-      "onboard_time": 1720646112,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126626,
       "num": 126626,
       "word": "手机快充到底伤不伤电池",
@@ -9868,7 +9868,7 @@
     },
     {
       "raw_hot": 102739,
-      "num": 59667,
+      "num": 68517,
       "word": "荷兰vs英格兰裁判",
       "onboard_time": 1720646112,
       "rank": 30,
@@ -10216,6 +10216,14 @@
       "word": "度华年",
       "onboard_time": 1720332856,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88846,
+      "num": 88846,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11011,14 +11019,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 52096,
-      "num": 52096,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51563,
       "num": 169782,
       "word": "波兰拟参与击落乌领空俄导弹和无人机",
@@ -11113,6 +11113,14 @@
       "onboard_time": 1720542196,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48034,
+      "num": 48034,
+      "word": "英格兰将与西班牙争冠",
+      "onboard_time": 1720648151,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 47754,
@@ -11475,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35988,
+      "num": 35988,
+      "word": "曾黎跟小孩哥用小天才手表合影",
+      "onboard_time": 1720634713,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35938,
       "num": 35938,
       "word": "凯恩造点",
@@ -11553,6 +11569,14 @@
       "onboard_time": 1720544535,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 32272,
+      "num": 32272,
+      "word": "索斯盖特神奇换人",
+      "onboard_time": 1720648031,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 31976,
@@ -11659,6 +11683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29799,
+      "num": 29799,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29224,
       "num": 370144,
       "word": "临沂雨中赏荷心如莲",
@@ -11705,6 +11737,14 @@
       "onboard_time": 1720413859,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 27817,
+      "word": "2024欧洲杯半决赛含金量",
+      "onboard_time": 1720649110,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 27251,
@@ -11787,6 +11827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25680,
+      "num": 25680,
+      "word": "总有人救索斯盖特",
+      "onboard_time": 1720646350,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25232,
       "num": 25232,
       "word": "欧洲杯半决赛里的小孩哥好猛",
@@ -11811,28 +11859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24712,
-      "num": 24712,
-      "word": "总有人救索斯盖特",
-      "onboard_time": 1720646350,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24691,
       "num": 24691,
       "word": "法国门将潇洒滑铲",
       "onboard_time": 1720558451,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24638,
-      "num": 30029,
-      "word": "曾黎跟小孩哥用小天才手表合影",
-      "onboard_time": 1720634713,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24214,
@@ -11907,12 +11939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22159,
-      "num": 22159,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 21082,
+      "num": 24621,
+      "word": "回村后发现爸爸新装修的厕所",
+      "onboard_time": 1720649713,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 20984,
@@ -12067,20 +12099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13543,
+      "num": 197502,
+      "word": "我国东南地区再添天然气输送大动脉",
+      "onboard_time": 1720618639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12430,
       "num": 45084,
       "word": "外国游客逛大唐不夜城狂喊喷泉好city",
       "onboard_time": 1720463832,
       "rank": 26,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 11991,
-      "num": 190854,
-      "word": "我国东南地区再添天然气输送大动脉",
-      "onboard_time": 1720618639,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11418,

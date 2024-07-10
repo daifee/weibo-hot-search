@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720647329654,
+  "endTime": 1720649904361,
   "band_list": [
     {
       "raw_hot": 831821,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 379325,
-      "num": 379325,
+      "raw_hot": 399304,
+      "num": 399304,
       "word": "女清洁工消失在垃圾压缩箱",
       "onboard_time": 1720626077,
       "rank": 24,
@@ -161,6 +161,14 @@
       "onboard_time": 1720621459,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212708,
+      "num": 212708,
+      "word": "英格兰连续两届欧洲杯进决赛",
+      "onboard_time": 1720646112,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 205852,
@@ -291,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126881,
-      "num": 126881,
-      "word": "英格兰连续两届欧洲杯进决赛",
-      "onboard_time": 1720646112,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119616,
       "num": 119616,
       "word": "马云回国现身阿里总部",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 102739,
-      "num": 59667,
+      "num": 68517,
       "word": "荷兰vs英格兰裁判",
       "onboard_time": 1720646112,
       "rank": 30,
@@ -425,6 +425,14 @@
       "onboard_time": 1720625060,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88846,
+      "num": 88846,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 88602,
@@ -523,19 +531,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52096,
-      "num": 52096,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 50257,
       "num": 50257,
       "word": "凯恩点球破门",
       "onboard_time": 1720639691,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48034,
+      "num": 48034,
+      "word": "英格兰将与西班牙争冠",
+      "onboard_time": 1720648151,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35988,
+      "num": 35988,
+      "word": "曾黎跟小孩哥用小天才手表合影",
+      "onboard_time": 1720634713,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35938,
       "num": 35938,
       "word": "凯恩造点",
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32272,
+      "num": 32272,
+      "word": "索斯盖特神奇换人",
+      "onboard_time": 1720648031,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31976,
       "num": 31976,
       "word": "福登中柱",
@@ -627,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29799,
+      "num": 29799,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28410,
       "num": 30033,
       "word": "静白熬成了白答应",
       "onboard_time": 1720634052,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 27817,
+      "word": "2024欧洲杯半决赛含金量",
+      "onboard_time": 1720649110,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 27400,
@@ -659,28 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25232,
-      "num": 25232,
-      "word": "欧洲杯半决赛里的小孩哥好猛",
-      "onboard_time": 1720642931,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24712,
-      "num": 24712,
+      "raw_hot": 25680,
+      "num": 25680,
       "word": "总有人救索斯盖特",
       "onboard_time": 1720646350,
       "rank": 32,
       "category": "体育"
     },
     {
-      "raw_hot": 24638,
-      "num": 30029,
-      "word": "曾黎跟小孩哥用小天才手表合影",
-      "onboard_time": 1720634713,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 25232,
+      "num": 25232,
+      "word": "欧洲杯半决赛里的小孩哥好猛",
+      "onboard_time": 1720642931,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 24214,
@@ -699,20 +731,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22159,
-      "num": 22159,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22144,
       "num": 522512,
       "word": "我国综合立体交通网总里程超600万公里",
       "onboard_time": 1720619059,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21082,
+      "num": 24621,
+      "word": "回村后发现爸爸新装修的厕所",
+      "onboard_time": 1720649713,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 20852,
@@ -739,8 +771,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11991,
-      "num": 190854,
+      "raw_hot": 13543,
+      "num": 197502,
       "word": "我国东南地区再添天然气输送大动脉",
       "onboard_time": 1720618639,
       "rank": 2,
