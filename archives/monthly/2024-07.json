@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720629584714,
+  "endTime": 1720631855779,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -4395,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572848,
+      "num": 174220,
+      "word": "睡觉把手举过头顶小心得这种病",
+      "onboard_time": 1720625658,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 572737,
       "num": 572737,
       "word": "英格兰vs斯洛伐克",
@@ -5513,14 +5521,6 @@
       "onboard_time": 1719819437,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493786,
-      "num": 174220,
-      "word": "睡觉把手举过头顶小心得这种病",
-      "onboard_time": 1720625658,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 493520,
@@ -7348,7 +7348,7 @@
     },
     {
       "raw_hot": 406733,
-      "num": 247696,
+      "num": 254841,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
@@ -9867,6 +9867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 295059,
+      "num": 148109,
+      "word": "女清洁工消失在垃圾压缩箱",
+      "onboard_time": 1720626077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294803,
       "num": 294803,
       "word": "莎头 可口可乐",
@@ -10161,14 +10169,6 @@
       "onboard_time": 1720138698,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285261,
-      "num": 148109,
-      "word": "女清洁工消失在垃圾压缩箱",
-      "onboard_time": 1720626077,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285179,
@@ -14043,6 +14043,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 197655,
+      "num": 147372,
+      "word": "汪海林吐槽年轻女演员不会演戏",
+      "onboard_time": 1720628117,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197618,
       "num": 141320,
       "word": "Gumayusi要三比零TES",
@@ -17505,14 +17513,6 @@
       "onboard_time": 1720200316,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161609,
-      "num": 147372,
-      "word": "汪海林吐槽年轻女演员不会演戏",
-      "onboard_time": 1720628117,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 161578,
@@ -21243,6 +21243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130514,
+      "num": 93069,
+      "word": "柳智敏女神爆改少萝",
+      "onboard_time": 1720631414,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "詹库生涯首次联手",
@@ -21865,6 +21873,14 @@
       "onboard_time": 1720495818,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125561,
+      "num": 78535,
+      "word": "檀健次工作室的审美已经nextlevel了",
+      "onboard_time": 1720630635,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 125442,
@@ -26427,6 +26443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 61414,
+      "num": 61414,
+      "word": "奶茶品牌集体降价进入10元时代",
+      "onboard_time": 1720630994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61357,
       "num": 303930,
       "word": "男子每周花3小时给异地妻子做一周菜",
@@ -27299,6 +27323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45558,
+      "num": 251527,
+      "word": "没读高中他却成了高校老师",
+      "onboard_time": 1720627998,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45389,
       "num": 372129,
       "word": "米哈游你果然背刺我了",
@@ -27329,6 +27361,14 @@
       "onboard_time": 1719890178,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45235,
+      "num": 61175,
+      "word": "鞠婧祎金色羽毛裙",
+      "onboard_time": 1720631176,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 45227,
@@ -27737,14 +27777,6 @@
       "onboard_time": 1720457354,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38578,
-      "num": 251527,
-      "word": "没读高中他却成了高校老师",
-      "onboard_time": 1720627998,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38329,
@@ -28795,6 +28827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20852,
+      "num": 78309,
+      "word": "妻子产后情绪崩溃丈夫耐心安慰疏导",
+      "onboard_time": 1720629855,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20803,
       "num": 22521,
       "word": "369单杀Zeus",
@@ -28953,6 +28993,14 @@
       "onboard_time": 1720588578,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 18137,
+      "num": 78962,
+      "word": "大熊猫干饭背影怎么人里人气的",
+      "onboard_time": 1720631714,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 17927,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720629584714,
+  "endTime": 1720631855779,
   "band_list": [
     {
       "raw_hot": 831821,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572848,
+      "num": 148370,
+      "word": "睡觉把手举过头顶小心得这种病",
+      "onboard_time": 1720625658,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 513275,
       "num": 513275,
       "word": "云南1亿只蝴蝶让拍照特效组放假了",
       "onboard_time": 1720622538,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493786,
-      "num": 148370,
-      "word": "睡觉把手举过头顶小心得这种病",
-      "onboard_time": 1720625658,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 470412,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 406733,
-      "num": 247696,
+      "num": 254841,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
@@ -99,7 +99,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285261,
+      "raw_hot": 295059,
       "num": 148109,
       "word": "女清洁工消失在垃圾压缩箱",
       "onboard_time": 1720626077,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197655,
+      "num": 147372,
+      "word": "汪海林吐槽年轻女演员不会演戏",
+      "onboard_time": 1720628117,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180487,
       "num": 147689,
       "word": "涂山璟这台词是我能听的吗",
@@ -185,14 +193,6 @@
       "onboard_time": 1720621820,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161609,
-      "num": 147372,
-      "word": "汪海林吐槽年轻女演员不会演戏",
-      "onboard_time": 1720628117,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 151778,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130514,
+      "num": 93069,
+      "word": "柳智敏女神爆改少萝",
+      "onboard_time": 1720631414,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129889,
       "num": 129889,
       "word": "朋友被裁员拿到了50万经济补偿",
@@ -257,6 +265,14 @@
       "onboard_time": 1720624519,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125561,
+      "num": 78535,
+      "word": "檀健次工作室的审美已经nextlevel了",
+      "onboard_time": 1720630635,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 119616,
@@ -403,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61414,
+      "num": 61414,
+      "word": "奶茶品牌集体降价进入10元时代",
+      "onboard_time": 1720630994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61043,
       "num": 76587,
       "word": "涂山璟 有点心机又如何",
@@ -411,12 +435,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38578,
+      "raw_hot": 45709,
+      "num": 61185,
+      "word": "韩国化妆师给曾黎做的妆造",
+      "onboard_time": 1720617139,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45558,
       "num": 251527,
       "word": "没读高中他却成了高校老师",
       "onboard_time": 1720627998,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45235,
+      "num": 61175,
+      "word": "鞠婧祎金色羽毛裙",
+      "onboard_time": 1720631176,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22144,
@@ -425,6 +465,22 @@
       "onboard_time": 1720619059,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20852,
+      "num": 78309,
+      "word": "妻子产后情绪崩溃丈夫耐心安慰疏导",
+      "onboard_time": 1720629855,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18137,
+      "num": 78962,
+      "word": "大熊猫干饭背影怎么人里人气的",
+      "onboard_time": 1720631714,
+      "rank": 23,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
