@@ -1,0 +1,410 @@
+{
+  "runTime": 1720581758430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 881362,
+        "num": 881362,
+        "word": "玱玹九个老婆唯独没有小夭",
+        "onboard_time": 1720578077,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 815734,
+        "num": 815734,
+        "word": "骗子用出国月薪3万骗了1000多万",
+        "onboard_time": 1720575138,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134818,
+        "num": 801203,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 793609,
+        "num": 793609,
+        "word": "唐朝诡事录处处贬",
+        "onboard_time": 1720580239,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695537,
+        "num": 695537,
+        "word": "梅西给6个月大的亚马尔洗过澡",
+        "onboard_time": 1720575976,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617111,
+        "num": 617111,
+        "word": "无痛分娩那么好为何普及率却不高",
+        "onboard_time": 1720578558,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 723060,
+        "num": 560701,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441772,
+        "num": 441772,
+        "word": "小米回应被格力起诉",
+        "onboard_time": 1720579098,
+        "rank": 7,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 431012,
+        "num": 431012,
+        "word": "女子5000万购法院查封房后钱房两空",
+        "onboard_time": 1720576277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98240,
+        "num": 421600,
+        "word": "女装退货率高背后是货不对版",
+        "onboard_time": 1720580418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419951,
+        "num": 419951,
+        "word": "孙颖莎上榜巴黎奥运最值得关注运动员",
+        "onboard_time": 1720579817,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393827,
+        "num": 393827,
+        "word": "玱玹发疯",
+        "onboard_time": 1720580239,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390253,
+        "num": 390253,
+        "word": "任嘉伦扒了五分钟的蛋掉了",
+        "onboard_time": 1720579638,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44791,
+        "num": 360305,
+        "word": "尼山论什么",
+        "onboard_time": 1720576999,
+        "rank": 13,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 352721,
+        "num": 352721,
+        "word": "原来韩国人吃周翊然这种",
+        "onboard_time": 1720569616,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328718,
+        "num": 328718,
+        "word": "洞庭湖全线退出警戒水位",
+        "onboard_time": 1720574538,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300970,
+        "num": 300970,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289047,
+        "num": 289047,
+        "word": "小水新剧是1女vs9男",
+        "onboard_time": 1720578917,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243526,
+        "num": 243526,
+        "word": "官方通报2公职人员偷豆角",
+        "onboard_time": 1720567095,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248222,
+        "num": 241180,
+        "word": "相柳弹琴好尬",
+        "onboard_time": 1720574896,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 711517,
+        "num": 240604,
+        "word": "跳舞五个月后老公不认识我了",
+        "onboard_time": 1720576697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330935,
+        "num": 239148,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237637,
+        "num": 237637,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233453,
+        "num": 233453,
+        "word": "内耗的人都有一个共同点",
+        "onboard_time": 1720580598,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217028,
+        "num": 217028,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205163,
+        "num": 205163,
+        "word": "张凌赫贺聪七夕大片",
+        "onboard_time": 1720581258,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202111,
+        "num": 202111,
+        "word": "张婧仪度假风生日照",
+        "onboard_time": 1720581558,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195344,
+        "num": 195344,
+        "word": "我爸开的饭店厕所里有卫生巾",
+        "onboard_time": 1720568475,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192167,
+        "num": 192167,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1720581497,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 190405,
+        "num": 190405,
+        "word": "人生大事竟然都在上班的夹缝完成",
+        "onboard_time": 1720568897,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189794,
+        "num": 189794,
+        "word": "萧敬腾 成都下雨",
+        "onboard_time": 1720578739,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 189411,
+        "word": "格力诉小米米家电风扇侵权一案胜诉",
+        "onboard_time": 1720573937,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187083,
+        "num": 187083,
+        "word": "相柳为什么狠绝杀了防风邶",
+        "onboard_time": 1720572318,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "梅西进球",
+        "onboard_time": 1720574418,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157707,
+        "num": 157707,
+        "word": "时代少年团加盟青春芒果夜",
+        "onboard_time": 1720578618,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154053,
+        "num": 154053,
+        "word": "中国男篮22分不敌马刺",
+        "onboard_time": 1720581137,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153748,
+        "num": 153748,
+        "word": "4岁姐姐抱着8个月壮汉弟弟",
+        "onboard_time": 1720566614,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150696,
+        "num": 150696,
+        "word": "阿根廷晋级美洲杯决赛",
+        "onboard_time": 1720578138,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147778,
+        "num": 147778,
+        "word": "警方通报15岁少年遭同龄男生杀害",
+        "onboard_time": 1720581618,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 27251,
+        "num": 140499,
+        "word": "为人类文明发展提供中国方案",
+        "onboard_time": 1720580418,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139661,
+        "num": 139661,
+        "word": "西班牙2比1法国",
+        "onboard_time": 1720559350,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 133508,
+        "word": "亚马尔 天才少年",
+        "onboard_time": 1720570458,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129042,
+        "num": 129042,
+        "word": "求汪苏泷演唱会粉底液",
+        "onboard_time": 1720579098,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "把高考志愿存在草稿箱忘记提交了",
+        "onboard_time": 1720571899,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 114822,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112860,
+        "num": 112860,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36472,
+        "num": 111596,
+        "word": "尼山再提新轴心文明愿景",
+        "onboard_time": 1720581497,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111412,
+        "num": 111412,
+        "word": "任嘉伦感慨没吃过锡餐",
+        "onboard_time": 1720581438,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111313,
+        "num": 111313,
+        "word": "专家称发现结节就想手术是制造焦虑",
+        "onboard_time": 1720572978,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110613,
+        "num": 110613,
+        "word": "K70至尊版性能评测",
+        "onboard_time": 1720580118,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

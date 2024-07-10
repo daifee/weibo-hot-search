@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720579609048,
+  "endTime": 1720581758430,
   "band_list": [
     {
       "raw_hot": 1243167,
@@ -35,6 +35,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 881362,
+      "num": 881362,
+      "word": "玱玹九个老婆唯独没有小夭",
+      "onboard_time": 1720578077,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829739,
       "num": 829739,
       "word": "你们蛇的衣服是同一家店买的吗",
@@ -67,12 +75,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 793609,
+      "num": 793609,
+      "word": "唐朝诡事录处处贬",
+      "onboard_time": 1720580239,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783072,
       "num": 783072,
       "word": "今年的录取通知书已经是NextLevel",
       "onboard_time": 1720571658,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 711517,
+      "num": 249478,
+      "word": "跳舞五个月后老公不认识我了",
+      "onboard_time": 1720576697,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 695537,
+      "num": 695537,
+      "word": "梅西给6个月大的亚马尔洗过澡",
+      "onboard_time": 1720575976,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 685539,
@@ -107,28 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617111,
+      "num": 617111,
+      "word": "无痛分娩那么好为何普及率却不高",
+      "onboard_time": 1720578558,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 587745,
       "num": 587745,
       "word": "4岁姐姐抱着8个月壮汉弟弟",
       "onboard_time": 1720566614,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 587127,
-      "num": 249478,
-      "word": "跳舞五个月后老公不认识我了",
-      "onboard_time": 1720576697,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 583749,
-      "num": 583749,
-      "word": "梅西给6个月大的亚马尔洗过澡",
-      "onboard_time": 1720575976,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 580791,
@@ -144,14 +168,6 @@
       "word": "为什么现在电视剧都是1女N男",
       "onboard_time": 1720537878,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 555199,
-      "num": 555199,
-      "word": "玱玹九个老婆唯独没有小夭",
-      "onboard_time": 1720578077,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -203,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 441772,
+      "num": 441772,
+      "word": "小米回应被格力起诉",
+      "onboard_time": 1720579098,
+      "rank": 25,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 435459,
       "num": 435459,
       "word": "清华大学博士情侣毕业奔赴祖国中部",
@@ -219,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431012,
+      "num": 431012,
+      "word": "女子5000万购法院查封房后钱房两空",
+      "onboard_time": 1720576277,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421134,
       "num": 421134,
       "word": "格力诉小米米家电风扇侵权一案胜诉",
       "onboard_time": 1720573937,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419951,
+      "num": 419951,
+      "word": "孙颖莎上榜巴黎奥运最值得关注运动员",
+      "onboard_time": 1720579817,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 410662,
@@ -243,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393827,
+      "num": 393827,
+      "word": "玱玹发疯",
+      "onboard_time": 1720580239,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392997,
       "num": 392997,
       "word": "长相思戏还没播完番外先出了",
       "onboard_time": 1720538119,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390253,
+      "num": 390253,
+      "word": "任嘉伦扒了五分钟的蛋掉了",
+      "onboard_time": 1720579638,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 353866,
@@ -283,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327767,
-      "num": 327767,
-      "word": "女子5000万购法院查封房后钱房两空",
-      "onboard_time": 1720576277,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309484,
       "num": 309484,
       "word": "防风邶下线",
@@ -305,6 +353,14 @@
       "onboard_time": 1720535178,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289047,
+      "num": 289047,
+      "word": "小水新剧是1女vs9男",
+      "onboard_time": 1720578917,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 283447,
@@ -339,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242517,
-      "num": 242517,
-      "word": "小水新剧是1女vs9男",
-      "onboard_time": 1720578917,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "小夭的难堪众人的狂欢",
@@ -355,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236683,
-      "num": 236683,
-      "word": "无痛分娩那么好为何普及率却不高",
-      "onboard_time": 1720578558,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 233453,
+      "num": 233453,
+      "word": "内耗的人都有一个共同点",
+      "onboard_time": 1720580598,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 218280,
@@ -369,14 +417,6 @@
       "onboard_time": 1720572978,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 216933,
-      "num": 216933,
-      "word": "小米回应被格力起诉",
-      "onboard_time": 1720579098,
-      "rank": 25,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 216597,
@@ -427,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205163,
+      "num": 205163,
+      "word": "张凌赫贺聪七夕大片",
+      "onboard_time": 1720581258,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202111,
+      "num": 202111,
+      "word": "张婧仪度假风生日照",
+      "onboard_time": 1720581558,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197881,
       "num": 197881,
       "word": "美一客机起飞后被通知轮子掉了",
@@ -441,6 +497,14 @@
       "onboard_time": 1720527318,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192167,
+      "num": 192167,
+      "word": "檀健次 戴比尔斯",
+      "onboard_time": 1720581497,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 191476,
@@ -563,12 +627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154053,
+      "num": 154053,
+      "word": "中国男篮22分不敌马刺",
+      "onboard_time": 1720581137,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151574,
       "num": 151574,
       "word": "中国男篮vs马刺",
       "onboard_time": 1720574838,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147778,
+      "num": 147778,
+      "word": "警方通报15岁少年遭同龄男生杀害",
+      "onboard_time": 1720581618,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 144269,
@@ -611,8 +691,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131731,
-      "num": 795703,
+      "raw_hot": 134818,
+      "num": 801203,
       "word": "OpenAI恐成美国情报部门帮凶",
       "onboard_time": 1720575258,
       "rank": 2,
@@ -657,6 +737,22 @@
       "onboard_time": 1720548013,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111412,
+      "num": 111412,
+      "word": "任嘉伦感慨没吃过锡餐",
+      "onboard_time": 1720581438,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110613,
+      "num": 110613,
+      "word": "K70至尊版性能评测",
+      "onboard_time": 1720580118,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 109853,
@@ -705,6 +801,14 @@
       "onboard_time": 1720564394,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98240,
+      "num": 421600,
+      "word": "女装退货率高背后是货不对版",
+      "onboard_time": 1720580418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96186,
@@ -1003,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44791,
+      "num": 360670,
+      "word": "尼山论什么",
+      "onboard_time": 1720576999,
+      "rank": 13,
+      "category": "社会新闻,读书作家"
+    },
+    {
       "raw_hot": 42897,
       "num": 42897,
       "word": "解除封印的姆巴佩",
@@ -1041,6 +1153,14 @@
       "onboard_time": 1720555212,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36472,
+      "num": 111596,
+      "word": "尼山再提新轴心文明愿景",
+      "onboard_time": 1720581497,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32495,
@@ -1091,12 +1211,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 26523,
-      "num": 360670,
-      "word": "尼山论什么",
-      "onboard_time": 1720576999,
-      "rank": 13,
-      "category": "社会新闻,读书作家"
+      "raw_hot": 27251,
+      "num": 140499,
+      "word": "为人类文明发展提供中国方案",
+      "onboard_time": 1720580418,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24691,
