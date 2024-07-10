@@ -1,0 +1,410 @@
+{
+  "runTime": 1720624931007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1070657,
+        "num": 1070657,
+        "word": "印度一对父子牵手卧轨身亡",
+        "onboard_time": 1720621280,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839404,
+        "num": 839404,
+        "word": "黄霄雲面部腿部受伤",
+        "onboard_time": 1720619420,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46116,
+        "num": 702645,
+        "word": "我国综合立体交通网总里程超600万公里",
+        "onboard_time": 1720619059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575916,
+        "num": 575916,
+        "word": "涂山璟粉底液避雷",
+        "onboard_time": 1720618219,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392627,
+        "num": 392627,
+        "word": "马龙最喜欢大家叫他龙队",
+        "onboard_time": 1720621338,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387685,
+        "num": 387685,
+        "word": "日本两男子将同事放洗衣机搅拌",
+        "onboard_time": 1720616418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544865,
+        "num": 386259,
+        "word": "王一博香奈儿晚宴路透",
+        "onboard_time": 1720621459,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380586,
+        "num": 380586,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 367253,
+        "num": 367253,
+        "word": "哪有艺人围观素人接吻摔倒的",
+        "onboard_time": 1720622839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65292,
+        "num": 353939,
+        "word": "殡仪馆回应花篮收费13800元",
+        "onboard_time": 1720624217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551214,
+        "num": 353690,
+        "word": "孙怡 这也不怎么样啊",
+        "onboard_time": 1720608799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376184,
+        "num": 353495,
+        "word": "伦纳德退出美国男篮",
+        "onboard_time": 1720623980,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353149,
+        "num": 353149,
+        "word": "官方调查殡仪馆8个花篮13800元",
+        "onboard_time": 1720621820,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352380,
+        "num": 352380,
+        "word": "云南1亿只蝴蝶让拍照特效组放假了",
+        "onboard_time": 1720622538,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347672,
+        "num": 347672,
+        "word": "胡连馨连体裤",
+        "onboard_time": 1720623319,
+        "rank": 14,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 308208,
+        "num": 308208,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720608678,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291334,
+        "num": 291334,
+        "word": "涂山璟这台词是我能听的吗",
+        "onboard_time": 1720618880,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281408,
+        "num": 281408,
+        "word": "上海暴雨",
+        "onboard_time": 1720617559,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241794,
+        "num": 241794,
+        "word": "植物大战僵尸杂交版作者初中毕业",
+        "onboard_time": 1720619899,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209048,
+        "num": 209048,
+        "word": "檀健次直播",
+        "onboard_time": 1720617678,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1367523,
+        "num": 207907,
+        "word": "入职了情趣用品公司不敢告诉妈妈",
+        "onboard_time": 1720616418,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455741,
+        "num": 205268,
+        "word": "当不婚的小姨成了外甥最好的朋友",
+        "onboard_time": 1720616660,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369231,
+        "num": 203808,
+        "word": "脖子和腋下的小肉粒到底是啥",
+        "onboard_time": 1720606218,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348476,
+        "num": 202028,
+        "word": "谢娜生孩子何炅推掉工作去陪产",
+        "onboard_time": 1720604659,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278631,
+        "num": 200199,
+        "word": "朋友被裁员拿到了50万经济补偿",
+        "onboard_time": 1720614739,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264221,
+        "num": 197847,
+        "word": "终于有人把结婚的意义讲明白了",
+        "onboard_time": 1720612339,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 196810,
+        "word": "长期走路散步对血管有什么好处",
+        "onboard_time": 1720623499,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195681,
+        "num": 195681,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195098,
+        "num": 195098,
+        "word": "切好的西瓜最好不要买",
+        "onboard_time": 1720619180,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162127,
+        "num": 193635,
+        "word": "相柳 心软的神",
+        "onboard_time": 1720613898,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36819,
+        "num": 189950,
+        "word": "撒贝宁骑雅迪抓鸭子",
+        "onboard_time": 1720619479,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188065,
+        "num": 188065,
+        "word": "马云回国现身阿里总部",
+        "onboard_time": 1720614317,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186713,
+        "num": 186713,
+        "word": "鞠婧祎涅槃重生抹胸裙",
+        "onboard_time": 1720623859,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185984,
+        "num": 185984,
+        "word": "杨紫看监视器还在哭",
+        "onboard_time": 1720614498,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170791,
+        "num": 170791,
+        "word": "张极给粉丝唱了好多歌",
+        "onboard_time": 1720624460,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170071,
+        "num": 170071,
+        "word": "万茜头发长了",
+        "onboard_time": 1720617799,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157529,
+        "num": 157529,
+        "word": "长相思2站内热度值破29000",
+        "onboard_time": 1720623980,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152923,
+        "num": 152923,
+        "word": "这5种水果晚上千万别吃",
+        "onboard_time": 1720612698,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147938,
+        "num": 147938,
+        "word": "荷兰vs英格兰",
+        "onboard_time": 1720624519,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144290,
+        "num": 144290,
+        "word": "张馨予的37岁状态",
+        "onboard_time": 1720620379,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136906,
+        "num": 136906,
+        "word": "杨紫新剧造型好像旺仔",
+        "onboard_time": 1720618157,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136074,
+        "num": 136074,
+        "word": "涂山璟 有点心机又如何",
+        "onboard_time": 1720621880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 135103,
+        "word": "刘诗诗生图直拍",
+        "onboard_time": 1720620619,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133277,
+        "num": 133277,
+        "word": "鞠婧祎 温婉",
+        "onboard_time": 1720602740,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 125370,
+        "num": 125370,
+        "word": "姆巴佩将身披皇马9号",
+        "onboard_time": 1720620259,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124285,
+        "num": 124285,
+        "word": "约五成大学生校园冷暴力发生在宿舍",
+        "onboard_time": 1720616418,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122241,
+        "num": 122241,
+        "word": "张晚意说P图就能亲上小夭",
+        "onboard_time": 1720624878,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120741,
+        "num": 120741,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109631,
+        "num": 109631,
+        "word": "三星发布会",
+        "onboard_time": 1720618399,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106212,
+        "num": 106212,
+        "word": "KSG战胜TCG",
+        "onboard_time": 1720624699,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统恩巴洛会谈#"
+    }
+  }
+}
