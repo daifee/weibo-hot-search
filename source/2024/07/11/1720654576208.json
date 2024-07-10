@@ -1,0 +1,410 @@
+{
+  "runTime": 1720654576208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379341,
+        "num": 1379341,
+        "word": "女清洁工消失在垃圾压缩箱",
+        "onboard_time": 1720626077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623226,
+        "num": 623226,
+        "word": "云南1亿只蝴蝶让拍照特效组放假了",
+        "onboard_time": 1720622538,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42229,
+        "num": 471310,
+        "word": "我国东南地区再添天然气输送大动脉",
+        "onboard_time": 1720618639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415659,
+        "num": 415659,
+        "word": "英格兰连续两届欧洲杯进决赛",
+        "onboard_time": 1720646112,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358572,
+        "num": 358572,
+        "word": "印度一对父子牵手卧轨身亡",
+        "onboard_time": 1720621280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316263,
+        "num": 316263,
+        "word": "汪海林吐槽年轻女演员不会演戏",
+        "onboard_time": 1720628117,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295549,
+        "num": 295549,
+        "word": "小夭官配",
+        "onboard_time": 1720636572,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284630,
+        "num": 284630,
+        "word": "黄霄雲面部腿部受伤",
+        "onboard_time": 1720619420,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262708,
+        "num": 262708,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720608678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244110,
+        "num": 244110,
+        "word": "荷兰1比2英格兰",
+        "onboard_time": 1720645932,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229086,
+        "num": 229086,
+        "word": "刘诗诗不愧是天选古人",
+        "onboard_time": 1720625658,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185199,
+        "num": 185199,
+        "word": "接南门事业运",
+        "onboard_time": 1720653434,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178741,
+        "num": 178741,
+        "word": "韩国19岁恶魔杀人分尸16个小时",
+        "onboard_time": 1720605918,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156043,
+        "num": 156043,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154449,
+        "num": 154449,
+        "word": "王一博香奈儿晚宴路透",
+        "onboard_time": 1720621459,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148076,
+        "num": 148076,
+        "word": "孙怡 这也不怎么样啊",
+        "onboard_time": 1720608799,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142715,
+        "num": 142715,
+        "word": "俄罗斯人挤爆三亚",
+        "onboard_time": 1720654155,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14715,
+        "num": 127237,
+        "word": "消防6小时背抬转移40多名老人",
+        "onboard_time": 1720652593,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117710,
+        "num": 117710,
+        "word": "肖战法国限定记录",
+        "onboard_time": 1720654455,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96622,
+        "num": 117612,
+        "word": "相柳 心软的神",
+        "onboard_time": 1720613898,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545820,
+        "num": 117454,
+        "word": "睡觉把手举过头顶小心得这种病",
+        "onboard_time": 1720625658,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 431090,
+        "num": 117177,
+        "word": "入职了情趣用品公司不敢告诉妈妈",
+        "onboard_time": 1720616418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121522,
+        "num": 117088,
+        "word": "当不婚的小姨成了外甥最好的朋友",
+        "onboard_time": 1720616660,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116942,
+        "num": 116942,
+        "word": "谢娜生孩子何炅推掉工作去陪产",
+        "onboard_time": 1720604659,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116074,
+        "num": 116074,
+        "word": "朋友被裁员拿到了50万经济补偿",
+        "onboard_time": 1720614739,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32668,
+        "num": 108537,
+        "word": "老人接诈骗电话后存折上的27万被转走",
+        "onboard_time": 1720654455,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106527,
+        "num": 106527,
+        "word": "张馨予一件衣服穿了10年",
+        "onboard_time": 1720654037,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101776,
+        "num": 101776,
+        "word": "涂山璟粉底液避雷",
+        "onboard_time": 1720618219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99407,
+        "num": 99407,
+        "word": "伦纳德退出美国男篮",
+        "onboard_time": 1720623980,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98758,
+        "num": 98758,
+        "word": "卫生间的发展令我汗流浃背了",
+        "onboard_time": 1720652534,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106063,
+        "num": 98639,
+        "word": "马云回国现身阿里总部",
+        "onboard_time": 1720614317,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97527,
+        "num": 97527,
+        "word": "出现14种症状说明你太累了",
+        "onboard_time": 1720638731,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96499,
+        "num": 96499,
+        "word": "13岁尿毒症晚期男孩深夜捡废品",
+        "onboard_time": 1720653795,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84823,
+        "num": 84823,
+        "word": "英格兰将与西班牙争冠",
+        "onboard_time": 1720648151,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80543,
+        "num": 80543,
+        "word": "奶茶品牌集体降价进入10元时代",
+        "onboard_time": 1720630994,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78838,
+        "num": 78838,
+        "word": "荷兰vs英格兰",
+        "onboard_time": 1720624519,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71568,
+        "num": 71568,
+        "word": "裁判",
+        "onboard_time": 1720653316,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70992,
+        "num": 70992,
+        "word": "脖子和腋下的小肉粒到底是啥",
+        "onboard_time": 1720606218,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68993,
+        "num": 68993,
+        "word": "日本两男子将同事放洗衣机搅拌",
+        "onboard_time": 1720616418,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68809,
+        "num": 68809,
+        "word": "张晚意 说你那是红的就是红的",
+        "onboard_time": 1720654335,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67011,
+        "num": 67011,
+        "word": "吉克隽逸屁股翘到可以顶起一瓶汽水",
+        "onboard_time": 1720608199,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66196,
+        "num": 66196,
+        "word": "骄阳伴我台湾陆剧冠军",
+        "onboard_time": 1720654335,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65398,
+        "num": 65398,
+        "word": "女子赶海抓到章鱼星人到家神秘消失",
+        "onboard_time": 1720654455,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64301,
+        "num": 64301,
+        "word": "鞠婧祎想靠不敢靠",
+        "onboard_time": 1720626677,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 64010,
+        "word": "这老师是学生的清汤大老爷吧",
+        "onboard_time": 1720653915,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62290,
+        "num": 62290,
+        "word": "喜欢睡觉但晚上舍不得睡",
+        "onboard_time": 1720633153,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53517,
+        "num": 53517,
+        "word": "檀健次工作室的审美已经nextlevel了",
+        "onboard_time": 1720630635,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53302,
+        "num": 53302,
+        "word": "729 外包",
+        "onboard_time": 1720636212,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 48788,
+        "num": 53302,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 53295,
+        "word": "点球",
+        "onboard_time": 1720653974,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}

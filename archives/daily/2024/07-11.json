@@ -1,10 +1,10 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720653557378,
+  "endTime": 1720654576208,
   "band_list": [
     {
-      "raw_hot": 1107993,
-      "num": 1107993,
+      "raw_hot": 1379341,
+      "num": 1379341,
       "word": "女清洁工消失在垃圾压缩箱",
       "onboard_time": 1720626077,
       "rank": 24,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623226,
+      "num": 623226,
+      "word": "云南1亿只蝴蝶让拍照特效组放假了",
+      "onboard_time": 1720622538,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603787,
       "num": 603787,
       "word": "印度一对父子牵手卧轨身亡",
@@ -49,14 +57,6 @@
       "onboard_time": 1720625658,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 513275,
-      "num": 513275,
-      "word": "云南1亿只蝴蝶让拍照特效组放假了",
-      "onboard_time": 1720622538,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470412,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295549,
+      "num": 295549,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281519,
       "num": 281519,
       "word": "罪犯得知儿子高考697分喜极而泣",
@@ -139,12 +147,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 244714,
-      "num": 244714,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 262708,
+      "num": 262708,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720608678,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244459,
@@ -155,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244110,
+      "num": 244110,
+      "word": "荷兰1比2英格兰",
+      "onboard_time": 1720645932,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242815,
       "num": 242815,
       "word": "胡连馨连体裤",
       "onboard_time": 1720623319,
       "rank": 12,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 238787,
-      "num": 238787,
-      "word": "荷兰1比2英格兰",
-      "onboard_time": 1720645932,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 228672,
@@ -195,14 +203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207379,
-      "num": 207379,
-      "word": "女子称晒背10天瘦了4斤",
-      "onboard_time": 1720608678,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205852,
       "num": 205852,
       "word": "日本两男子将同事放洗衣机搅拌",
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 195960,
-      "num": 53376,
+      "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
       "onboard_time": 1720633153,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185199,
+      "num": 185199,
+      "word": "接南门事业运",
+      "onboard_time": 1720653434,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 180487,
@@ -225,6 +233,14 @@
       "onboard_time": 1720618880,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178741,
+      "num": 178741,
+      "word": "韩国19岁恶魔杀人分尸16个小时",
+      "onboard_time": 1720605918,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165682,
@@ -249,6 +265,14 @@
       "onboard_time": 1720621338,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142715,
+      "num": 142715,
+      "word": "俄罗斯人挤爆三亚",
+      "onboard_time": 1720654155,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 138916,
@@ -331,6 +355,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 117710,
+      "num": 117710,
+      "word": "肖战法国限定记录",
+      "onboard_time": 1720654455,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114524,
       "num": 148905,
       "word": "上海暴雨",
@@ -371,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106527,
+      "num": 106527,
+      "word": "张馨予一件衣服穿了10年",
+      "onboard_time": 1720654037,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106487,
       "num": 92093,
       "word": "杨紫看监视器还在哭",
@@ -403,12 +443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "卫生间的发展令我汗流浃背了",
+      "onboard_time": 1720652534,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97583,
       "num": 95022,
       "word": "相柳没亏欠过任何人除了自己",
       "onboard_time": 1720629316,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97527,
+      "num": 97527,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96499,
+      "num": 96499,
+      "word": "13岁尿毒症晚期男孩深夜捡废品",
+      "onboard_time": 1720653795,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93815,
@@ -483,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80543,
+      "num": 80543,
+      "word": "奶茶品牌集体降价进入10元时代",
+      "onboard_time": 1720630994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79428,
       "num": 88574,
       "word": "殡仪馆回应花篮收费13800元",
       "onboard_time": 1720624217,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78185,
-      "num": 74717,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 77894,
@@ -507,20 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77834,
-      "num": 77834,
-      "word": "韩国19岁恶魔杀人分尸16个小时",
-      "onboard_time": 1720605918,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74358,
-      "num": 69165,
-      "word": "奶茶品牌集体降价进入10元时代",
-      "onboard_time": 1720630994,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 71568,
+      "num": 71568,
+      "word": "裁判",
+      "onboard_time": 1720653316,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 69011,
@@ -531,12 +587,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68809,
+      "num": 68809,
+      "word": "张晚意 说你那是红的就是红的",
+      "onboard_time": 1720654335,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68363,
       "num": 68363,
       "word": "729 外包",
       "onboard_time": 1720636212,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 67011,
+      "num": 67011,
+      "word": "吉克隽逸屁股翘到可以顶起一瓶汽水",
+      "onboard_time": 1720608199,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66196,
+      "num": 66196,
+      "word": "骄阳伴我台湾陆剧冠军",
+      "onboard_time": 1720654335,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65398,
+      "num": 65398,
+      "word": "女子赶海抓到章鱼星人到家神秘消失",
+      "onboard_time": 1720654455,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64010,
+      "num": 64010,
+      "word": "这老师是学生的清汤大老爷吧",
+      "onboard_time": 1720653915,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 61043,
@@ -563,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50396,
-      "num": 53452,
-      "word": "卫生间的发展令我汗流浃背了",
-      "onboard_time": 1720652534,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 50257,
       "num": 50257,
       "word": "凯恩点球破门",
@@ -579,11 +667,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46543,
-      "num": 53358,
-      "word": "接南门事业运",
-      "onboard_time": 1720653434,
-      "rank": 37,
+      "raw_hot": 48362,
+      "num": 53295,
+      "word": "点球",
+      "onboard_time": 1720653974,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -611,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42229,
+      "num": 471310,
+      "word": "我国东南地区再添天然气输送大动脉",
+      "onboard_time": 1720618639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41350,
       "num": 61707,
       "word": "鞠婧祎锁骨好深",
@@ -625,14 +721,6 @@
       "onboard_time": 1720641131,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39370,
-      "num": 53238,
-      "word": "裁判",
-      "onboard_time": 1720653316,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 39009,
@@ -675,14 +763,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 34503,
-      "num": 448849,
-      "word": "我国东南地区再添天然气输送大动脉",
-      "onboard_time": 1720618639,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33839,
       "num": 53086,
       "word": "2024欧洲杯半决赛含金量",
@@ -705,6 +785,14 @@
       "onboard_time": 1720641251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32668,
+      "num": 108537,
+      "word": "老人接诈骗电话后存折上的27万被转走",
+      "onboard_time": 1720654455,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31976,
@@ -811,7 +899,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10814,
+      "raw_hot": 14715,
       "num": 209052,
       "word": "消防6小时背抬转移40多名老人",
       "onboard_time": 1720652593,
