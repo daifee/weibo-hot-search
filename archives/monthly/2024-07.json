@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720640084026,
+  "endTime": 1720642899341,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -27523,6 +27523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43132,
+      "num": 43132,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43054,
       "num": 309384,
       "word": "退役护旗手升旗现场教小朋友敬礼",
@@ -27579,6 +27587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42871,
+      "num": 42871,
+      "word": "荷兰半场1比1英格兰",
+      "onboard_time": 1720641370,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42795,
       "num": 940651,
       "word": "115秒看懂中塔友谊",
@@ -27609,6 +27625,14 @@
       "onboard_time": 1719829577,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42290,
+      "num": 42290,
+      "word": "凯恩欧洲杯淘汰赛历史射手王",
+      "onboard_time": 1720641251,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 42182,
@@ -27849,14 +27873,6 @@
       "onboard_time": 1720374613,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37999,
-      "num": 37999,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 37501,
@@ -28139,12 +28155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33004,
+      "num": 33004,
+      "word": "半决赛场场神仙球",
+      "onboard_time": 1720639871,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32911,
       "num": 131260,
       "word": "绝区零你干脆去巴黎时装周吧",
       "onboard_time": 1720165459,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32861,
+      "num": 32861,
+      "word": "邓弗里斯门线解围",
+      "onboard_time": 1720641251,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 32515,
@@ -28177,6 +28209,14 @@
       "onboard_time": 1720266917,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31976,
+      "num": 31976,
+      "word": "福登中柱",
+      "onboard_time": 1720641251,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 31874,
@@ -28723,6 +28763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24971,
+      "num": 24971,
+      "word": "虞书欣头像",
+      "onboard_time": 1720641131,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24912,
       "num": 24912,
       "word": "西安西二环路面塌陷",
@@ -28915,12 +28963,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21563,
-      "num": 21563,
-      "word": "半决赛场场神仙球",
-      "onboard_time": 1720639871,
-      "rank": 38,
+      "raw_hot": 22195,
+      "num": 22195,
+      "word": "德佩伤退",
+      "onboard_time": 1720642571,
+      "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22159,
+      "num": 22159,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20984,
@@ -28985,14 +29041,6 @@
       "onboard_time": 1720296851,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19720,
-      "num": 21553,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 19713,
