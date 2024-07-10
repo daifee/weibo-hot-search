@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720606923495,
+  "endTime": 1720607898001,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -611,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 996997,
+      "num": 996997,
+      "word": "鞠婧祎 签约大雷",
+      "onboard_time": 1720606578,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996553,
       "num": 589293,
       "word": "奥利 背刺",
@@ -681,6 +689,14 @@
       "onboard_time": 1720345998,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928124,
+      "num": 198874,
+      "word": "猪油 少吃",
+      "onboard_time": 1720606458,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 927608,
@@ -1115,6 +1131,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 707392,
+      "num": 707392,
+      "word": "腾讯调整员工薪资福利政策",
+      "onboard_time": 1720604358,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 706623,
       "num": 241414,
       "word": "三伏天气血不足最直观的感受",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1720281558,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 696116,
-      "num": 266559,
-      "word": "腾讯调整员工薪资福利政策",
-      "onboard_time": 1720604358,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 695537,
@@ -1249,14 +1265,6 @@
       "onboard_time": 1720421900,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662228,
-      "num": 169176,
-      "word": "猪油 少吃",
-      "onboard_time": 1720606458,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 651993,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1720526537,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524765,
+      "num": 196723,
+      "word": "脖子和腋下的小肉粒到底是啥",
+      "onboard_time": 1720606218,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 517883,
@@ -2979,6 +2995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 365282,
+      "num": 208650,
+      "word": "韩国19岁恶魔杀人分尸16个小时",
+      "onboard_time": 1720605918,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364645,
       "num": 259491,
       "word": "空腹吃这些食物会得胃结石",
@@ -3563,14 +3587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303309,
-      "num": 260111,
-      "word": "鞠婧祎 签约大雷",
-      "onboard_time": 1720606578,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303215,
       "num": 303215,
       "word": "被遗忘机场当事人收到东航道歉信",
@@ -3713,14 +3729,6 @@
       "onboard_time": 1720430480,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 286018,
-      "num": 168925,
-      "word": "脖子和腋下的小肉粒到底是啥",
-      "onboard_time": 1720606218,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 285862,
@@ -3923,6 +3931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262996,
+      "num": 195993,
+      "word": "摩羯座主动打电话的含金量",
+      "onboard_time": 1720605799,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262713,
       "num": 170401,
       "word": "新疆的作息也太适合年轻人了",
@@ -4035,6 +4051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251285,
+      "num": 206865,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251172,
       "num": 251172,
       "word": "TF二三代 合作舞台",
@@ -4076,7 +4100,7 @@
     },
     {
       "raw_hot": 248001,
-      "num": 168045,
+      "num": 191426,
       "word": "柳岩妈妈",
       "onboard_time": 1720604598,
       "rank": 23,
@@ -4371,6 +4395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228375,
+      "num": 193337,
+      "word": "EXO和NCT被诈骗地址信息",
+      "onboard_time": 1720607658,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227971,
       "num": 227971,
       "word": "警方通报临沂文联主席遇害身亡",
@@ -4587,14 +4619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212282,
-      "num": 167899,
-      "word": "邓为直播",
-      "onboard_time": 1720606277,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212019,
       "num": 212019,
       "word": "苏醒为老婆庆生",
@@ -4617,6 +4641,14 @@
       "onboard_time": 1720279938,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211808,
+      "num": 206502,
+      "word": "官方回应苏州河大闸蟹被煮熟",
+      "onboard_time": 1720606398,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211005,
@@ -5003,12 +5035,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 199881,
-      "num": 167067,
-      "word": "摩羯座主动打电话的含金量",
-      "onboard_time": 1720605799,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 198895,
+      "num": 198895,
+      "word": "王者荣耀10V10预告片",
+      "onboard_time": 1720607059,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 198843,
@@ -5548,7 +5580,7 @@
     },
     {
       "raw_hot": 184272,
-      "num": 184272,
+      "num": 194698,
       "word": "辽宁一景区月薪5000招野人演员",
       "onboard_time": 1720601359,
       "rank": 31,
@@ -6195,6 +6227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168173,
+      "num": 168173,
+      "word": "相柳的角色微博名改了",
+      "onboard_time": 1720605679,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168121,
       "num": 168121,
       "word": "成毅提裙奔跑",
@@ -6473,14 +6513,6 @@
       "onboard_time": 1720329018,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160378,
-      "num": 160378,
-      "word": "相柳的角色微博名改了",
-      "onboard_time": 1720605679,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 160375,
@@ -7025,14 +7057,6 @@
       "onboard_time": 1720600098,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147102,
-      "num": 147102,
-      "word": "官方回应苏州河大闸蟹被煮熟",
-      "onboard_time": 1720606398,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147015,
@@ -7761,14 +7785,6 @@
       "onboard_time": 1720509977,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130910,
-      "num": 130910,
-      "word": "韩国19岁恶魔杀人分尸16个小时",
-      "onboard_time": 1720605918,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130798,
@@ -8659,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110807,
+      "num": 110807,
+      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+      "onboard_time": 1720606879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110670,
       "num": 110670,
       "word": "WEI租借加入BLG",
@@ -8921,6 +8945,14 @@
       "onboard_time": 1720309455,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105395,
+      "num": 105395,
+      "word": "黄明昊他超爱NewJeans",
+      "onboard_time": 1720607059,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105161,
@@ -9387,14 +9419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83239,
-      "num": 109662,
-      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
-      "onboard_time": 1720606879,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82202,
       "num": 82202,
       "word": "黄金时代综合征",
@@ -9471,6 +9495,14 @@
       "num": 495563,
       "word": "母亲背罕见病儿子14年累断足骨",
       "onboard_time": 1720537520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75738,
+      "num": 267663,
+      "word": "来一趟四川外国游客被美食征服了",
+      "onboard_time": 1720605618,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -10155,14 +10187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44551,
-      "num": 267663,
-      "word": "来一趟四川外国游客被美食征服了",
-      "onboard_time": 1720605618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44462,
       "num": 53204,
       "word": "你好星期六下期吴谨言王星越",
@@ -10248,6 +10272,14 @@
       "word": "罐车混装暴露监督执法缺位",
       "onboard_time": 1720425618,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40683,
+      "num": 207201,
+      "word": "辅警下班途中飞身擒贼获二级嘉奖",
+      "onboard_time": 1720607658,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -10449,6 +10481,14 @@
       "onboard_time": 1720543934,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31110,
+      "num": 188995,
+      "word": "俄称基辅儿童医院遭袭与挪威相关",
+      "onboard_time": 1720607718,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 31069,

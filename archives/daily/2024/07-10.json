@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720606923495,
+  "endTime": 1720607898001,
   "band_list": [
     {
       "raw_hot": 2153029,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 996997,
+      "num": 996997,
+      "word": "鞠婧祎 签约大雷",
+      "onboard_time": 1720606578,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996553,
       "num": 589293,
       "word": "奥利 背刺",
@@ -137,6 +145,14 @@
       "onboard_time": 1720602740,
       "rank": 28,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 928124,
+      "num": 198874,
+      "word": "猪油 少吃",
+      "onboard_time": 1720606458,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 900056,
@@ -219,8 +235,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 696116,
-      "num": 266559,
+      "raw_hot": 707392,
+      "num": 707392,
       "word": "腾讯调整员工薪资福利政策",
       "onboard_time": 1720604358,
       "rank": 10,
@@ -256,14 +272,6 @@
       "word": "无痛分娩那么好为何普及率却不高",
       "onboard_time": 1720578558,
       "rank": 40,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 662228,
-      "num": 169176,
-      "word": "猪油 少吃",
-      "onboard_time": 1720606458,
-      "rank": 20,
       "category": "健康医疗"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1720572318,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524765,
+      "num": 196723,
+      "word": "脖子和腋下的小肉粒到底是啥",
+      "onboard_time": 1720606218,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 517883,
@@ -675,6 +691,14 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 365282,
+      "num": 208650,
+      "word": "韩国19岁恶魔杀人分尸16个小时",
+      "onboard_time": 1720605918,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359078,
       "num": 359078,
       "word": "赵丽颖或将进组冯小刚新电影",
@@ -795,14 +819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303309,
-      "num": 260111,
-      "word": "鞠婧祎 签约大雷",
-      "onboard_time": 1720606578,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296452,
       "num": 296452,
       "word": "RNG真没打野了",
@@ -825,14 +841,6 @@
       "onboard_time": 1720585039,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286018,
-      "num": 168925,
-      "word": "脖子和腋下的小肉粒到底是啥",
-      "onboard_time": 1720606218,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283447,
@@ -867,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262996,
+      "num": 195993,
+      "word": "摩羯座主动打电话的含金量",
+      "onboard_time": 1720605799,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260188,
       "num": 177345,
       "word": "混装油流入陕西勉县",
@@ -891,6 +907,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 251285,
+      "num": 206865,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249788,
       "num": 249788,
       "word": "阿根廷vs加拿大",
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 248001,
-      "num": 168045,
+      "num": 191426,
       "word": "柳岩妈妈",
       "onboard_time": 1720604598,
       "rank": 23,
@@ -929,6 +953,14 @@
       "onboard_time": 1720583718,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228375,
+      "num": 193337,
+      "word": "EXO和NCT被诈骗地址信息",
+      "onboard_time": 1720607658,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 224503,
@@ -971,12 +1003,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212282,
-      "num": 167899,
-      "word": "邓为直播",
-      "onboard_time": 1720606277,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 211808,
+      "num": 206502,
+      "word": "官方回应苏州河大闸蟹被煮熟",
+      "onboard_time": 1720606398,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211005,
@@ -1067,12 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199881,
-      "num": 167067,
-      "word": "摩羯座主动打电话的含金量",
-      "onboard_time": 1720605799,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 198895,
+      "num": 198895,
+      "word": "王者荣耀10V10预告片",
+      "onboard_time": 1720607059,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 197881,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 184272,
-      "num": 184272,
+      "num": 194698,
       "word": "辽宁一景区月薪5000招野人演员",
       "onboard_time": 1720601359,
       "rank": 31,
@@ -1283,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168173,
+      "num": 168173,
+      "word": "相柳的角色微博名改了",
+      "onboard_time": 1720605679,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167744,
       "num": 167744,
       "word": "西班牙逆转晋级决赛",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1720595300,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160378,
-      "num": 160378,
-      "word": "相柳的角色微博名改了",
-      "onboard_time": 1720605679,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 160020,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1720600098,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147102,
-      "num": 147102,
-      "word": "官方回应苏州河大闸蟹被煮熟",
-      "onboard_time": 1720606398,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144269,
@@ -1641,14 +1665,6 @@
       "onboard_time": 1720593439,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130910,
-      "num": 130910,
-      "word": "韩国19岁恶魔杀人分尸16个小时",
-      "onboard_time": 1720605918,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130094,
@@ -1859,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110807,
+      "num": 110807,
+      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+      "onboard_time": 1720606879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110613,
       "num": 110613,
       "word": "K70至尊版性能评测",
@@ -1979,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105395,
+      "num": 105395,
+      "word": "黄明昊他超爱NewJeans",
+      "onboard_time": 1720607059,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104351,
       "num": 124997,
       "word": "杜海涛在节目里又cue沈梦辰了",
@@ -2091,14 +2123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83239,
-      "num": 109662,
-      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
-      "onboard_time": 1720606879,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81619,
       "num": 125722,
       "word": "猫猫摸完后居然会按开心",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1720555212,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75738,
+      "num": 267663,
+      "word": "来一趟四川外国游客被美食征服了",
+      "onboard_time": 1720605618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75048,
@@ -2395,14 +2427,6 @@
       "category": "社会新闻,读书作家"
     },
     {
-      "raw_hot": 44551,
-      "num": 267663,
-      "word": "来一趟四川外国游客被美食征服了",
-      "onboard_time": 1720605618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42897,
       "num": 42897,
       "word": "解除封印的姆巴佩",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1720544715,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40683,
+      "num": 207201,
+      "word": "辅警下班途中飞身擒贼获二级嘉奖",
+      "onboard_time": 1720607658,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39223,
@@ -2489,6 +2521,14 @@
       "onboard_time": 1720543934,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31110,
+      "num": 188995,
+      "word": "俄称基辅儿童医院遭袭与挪威相关",
+      "onboard_time": 1720607718,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 30608,
