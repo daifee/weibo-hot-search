@@ -1,7 +1,15 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720650919559,
+  "endTime": 1720653557378,
   "band_list": [
+    {
+      "raw_hot": 1107993,
+      "num": 1107993,
+      "word": "女清洁工消失在垃圾压缩箱",
+      "onboard_time": 1720626077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 831821,
       "num": 148655,
@@ -43,14 +51,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 541336,
-      "num": 541336,
-      "word": "女清洁工消失在垃圾压缩箱",
-      "onboard_time": 1720626077,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513275,
       "num": 513275,
       "word": "云南1亿只蝴蝶让拍照特效组放假了",
@@ -73,6 +73,14 @@
       "onboard_time": 1720623499,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 461665,
+      "num": 461665,
+      "word": "英格兰连续两届欧洲杯进决赛",
+      "onboard_time": 1720646112,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 406733,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318442,
+      "num": 318442,
+      "word": "汪海林吐槽年轻女演员不会演戏",
+      "onboard_time": 1720628117,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296813,
       "num": 296813,
       "word": "伦纳德退出美国男篮",
@@ -123,12 +139,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 253811,
-      "num": 253811,
-      "word": "英格兰连续两届欧洲杯进决赛",
-      "onboard_time": 1720646112,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 244714,
+      "num": 244714,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 244459,
@@ -145,6 +161,14 @@
       "onboard_time": 1720623319,
       "rank": 12,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 238787,
+      "num": 238787,
+      "word": "荷兰1比2英格兰",
+      "onboard_time": 1720645932,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 228672,
@@ -171,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207379,
+      "num": 207379,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720608678,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205852,
       "num": 205852,
       "word": "日本两男子将同事放洗衣机搅拌",
@@ -179,24 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200062,
-      "num": 200062,
-      "word": "荷兰1比2英格兰",
-      "onboard_time": 1720645932,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197655,
-      "num": 193494,
-      "word": "汪海林吐槽年轻女演员不会演戏",
-      "onboard_time": 1720628117,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195960,
-      "num": 39842,
+      "num": 53376,
       "word": "喜欢睡觉但晚上舍不得睡",
       "onboard_time": 1720633153,
       "rank": 22,
@@ -209,14 +225,6 @@
       "onboard_time": 1720618880,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175216,
-      "num": 175216,
-      "word": "女子称晒背10天瘦了4斤",
-      "onboard_time": 1720608678,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165682,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132910,
+      "num": 132910,
+      "word": "英格兰将与西班牙争冠",
+      "onboard_time": 1720648151,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132738,
       "num": 132738,
       "word": "张晚意说P图就能亲上小夭",
@@ -297,14 +313,6 @@
       "onboard_time": 1720614739,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129543,
-      "num": 129543,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 119616,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78185,
+      "num": 74717,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77894,
       "num": 77894,
       "word": "苏州今晚的明星含量爆表",
@@ -491,8 +507,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77834,
+      "num": 77834,
+      "word": "韩国19岁恶魔杀人分尸16个小时",
+      "onboard_time": 1720605918,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74358,
-      "num": 64471,
+      "num": 69165,
       "word": "奶茶品牌集体降价进入10元时代",
       "onboard_time": 1720630994,
       "rank": 42,
@@ -523,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59534,
-      "num": 59534,
-      "word": "英格兰将与西班牙争冠",
-      "onboard_time": 1720648151,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58188,
       "num": 58188,
       "word": "荷兰半场1比1英格兰",
@@ -539,11 +555,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53454,
+      "num": 53454,
+      "word": "回村后发现爸爸新装修的厕所",
+      "onboard_time": 1720649713,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 50396,
+      "num": 53452,
+      "word": "卫生间的发展令我汗流浃背了",
+      "onboard_time": 1720652534,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50257,
       "num": 50257,
       "word": "凯恩点球破门",
       "onboard_time": 1720639691,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46543,
+      "num": 53358,
+      "word": "接南门事业运",
+      "onboard_time": 1720653434,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -579,20 +619,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38319,
-      "num": 38319,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37982,
-      "num": 37982,
+      "raw_hot": 40902,
+      "num": 53306,
       "word": "虞书欣头像",
       "onboard_time": 1720641131,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39370,
+      "num": 53238,
+      "word": "裁判",
+      "onboard_time": 1720653316,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39009,
+      "num": 53229,
+      "word": "索斯盖特神奇换人",
+      "onboard_time": 1720648031,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38094,
+      "num": 53199,
+      "word": "曾黎跟小孩哥用小天才手表合影",
+      "onboard_time": 1720634713,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36525,
@@ -601,14 +657,6 @@
       "onboard_time": 1720642812,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35988,
-      "num": 35988,
-      "word": "曾黎跟小孩哥用小天才手表合影",
-      "onboard_time": 1720634713,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35938,
@@ -627,11 +675,19 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 33489,
-      "num": 33489,
-      "word": "索斯盖特神奇换人",
-      "onboard_time": 1720648031,
-      "rank": 29,
+      "raw_hot": 34503,
+      "num": 448849,
+      "word": "我国东南地区再添天然气输送大动脉",
+      "onboard_time": 1720618639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33839,
+      "num": 53086,
+      "word": "2024欧洲杯半决赛含金量",
+      "onboard_time": 1720649110,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -665,22 +721,6 @@
       "onboard_time": 1720634052,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28250,
-      "num": 28250,
-      "word": "回村后发现爸爸新装修的厕所",
-      "onboard_time": 1720649713,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 27817,
-      "num": 28149,
-      "word": "2024欧洲杯半决赛含金量",
-      "onboard_time": 1720649110,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 27400,
@@ -771,11 +811,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15997,
-      "num": 205258,
-      "word": "我国东南地区再添天然气输送大动脉",
-      "onboard_time": 1720618639,
-      "rank": 2,
+      "raw_hot": 10814,
+      "num": 209052,
+      "word": "消防6小时背抬转移40多名老人",
+      "onboard_time": 1720652593,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
