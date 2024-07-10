@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720631855779,
+  "endTime": 1720632875946,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -7348,7 +7348,7 @@
     },
     {
       "raw_hot": 406733,
-      "num": 254841,
+      "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
@@ -9091,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328918,
+      "num": 328918,
+      "word": "女清洁工消失在垃圾压缩箱",
+      "onboard_time": 1720626077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328788,
       "num": 328788,
       "word": "肖战深V亮钻西装",
@@ -9865,14 +9873,6 @@
       "onboard_time": 1720311557,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 295059,
-      "num": 148109,
-      "word": "女清洁工消失在垃圾压缩箱",
-      "onboard_time": 1720626077,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294803,
@@ -14044,7 +14044,7 @@
     },
     {
       "raw_hot": 197655,
-      "num": 147372,
+      "num": 174922,
       "word": "汪海林吐槽年轻女演员不会演戏",
       "onboard_time": 1720628117,
       "rank": 31,
@@ -20163,6 +20163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138916,
+      "num": 88588,
+      "word": "檀健次工作室的审美已经nextlevel了",
+      "onboard_time": 1720630635,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138751,
       "num": 138751,
       "word": "迪丽热巴告别开推",
@@ -21873,14 +21881,6 @@
       "onboard_time": 1720495818,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125561,
-      "num": 78535,
-      "word": "檀健次工作室的审美已经nextlevel了",
-      "onboard_time": 1720630635,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 125442,
@@ -25907,6 +25907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74358,
+      "num": 64471,
+      "word": "奶茶品牌集体降价进入10元时代",
+      "onboard_time": 1720630994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74132,
       "num": 305829,
       "word": "绘旅人夏季新版本",
@@ -26441,14 +26449,6 @@
       "onboard_time": 1720595358,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 61414,
-      "num": 61414,
-      "word": "奶茶品牌集体降价进入10元时代",
-      "onboard_time": 1720630994,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61357,
@@ -27619,6 +27619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41350,
+      "num": 61707,
+      "word": "鞠婧祎锁骨好深",
+      "onboard_time": 1720632614,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40935,
       "num": 274804,
       "word": "健身房的人型多巴胺belike",
@@ -28001,6 +28009,14 @@
       "onboard_time": 1719854234,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34910,
+      "num": 61535,
+      "word": "带着微博去旅行",
+      "onboard_time": 1720632854,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 34895,
@@ -28996,7 +29012,7 @@
     },
     {
       "raw_hot": 18137,
-      "num": 78962,
+      "num": 96211,
       "word": "大熊猫干饭背影怎么人里人气的",
       "onboard_time": 1720631714,
       "rank": 23,

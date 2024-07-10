@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720631855779,
+  "endTime": 1720632875946,
   "band_list": [
     {
       "raw_hot": 831821,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 406733,
-      "num": 254841,
+      "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
@@ -91,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328918,
+      "num": 328918,
+      "word": "女清洁工消失在垃圾压缩箱",
+      "onboard_time": 1720626077,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296813,
       "num": 296813,
       "word": "伦纳德退出美国男篮",
       "onboard_time": 1720623980,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295059,
-      "num": 148109,
-      "word": "女清洁工消失在垃圾压缩箱",
-      "onboard_time": 1720626077,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281519,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 197655,
-      "num": 147372,
+      "num": 174922,
       "word": "汪海林吐槽年轻女演员不会演戏",
       "onboard_time": 1720628117,
       "rank": 31,
@@ -209,6 +209,14 @@
       "onboard_time": 1720621338,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138916,
+      "num": 88588,
+      "word": "檀健次工作室的审美已经nextlevel了",
+      "onboard_time": 1720630635,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 136352,
@@ -265,14 +273,6 @@
       "onboard_time": 1720624519,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125561,
-      "num": 78535,
-      "word": "檀健次工作室的审美已经nextlevel了",
-      "onboard_time": 1720630635,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 119616,
@@ -419,8 +419,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61414,
-      "num": 61414,
+      "raw_hot": 74358,
+      "num": 64471,
       "word": "奶茶品牌集体降价进入10元时代",
       "onboard_time": 1720630994,
       "rank": 42,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 45709,
-      "num": 61185,
+      "num": 61767,
       "word": "韩国化妆师给曾黎做的妆造",
       "onboard_time": 1720617139,
       "rank": 47,
@@ -459,6 +459,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41350,
+      "num": 61707,
+      "word": "鞠婧祎锁骨好深",
+      "onboard_time": 1720632614,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34910,
+      "num": 61535,
+      "word": "带着微博去旅行",
+      "onboard_time": 1720632854,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22144,
       "num": 522512,
       "word": "我国综合立体交通网总里程超600万公里",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 18137,
-      "num": 78962,
+      "num": 96211,
       "word": "大熊猫干饭背影怎么人里人气的",
       "onboard_time": 1720631714,
       "rank": 23,
