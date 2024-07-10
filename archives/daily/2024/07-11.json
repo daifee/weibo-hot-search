@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720642899341,
+  "endTime": 1720643672697,
   "band_list": [
     {
       "raw_hot": 831821,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67227,
-      "num": 67227,
+      "raw_hot": 68363,
+      "num": 68363,
       "word": "729 外包",
       "onboard_time": 1720636212,
       "rank": 36,
@@ -579,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27864,
+      "num": 27864,
+      "word": "虞书欣头像",
+      "onboard_time": 1720641131,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27400,
       "num": 30032,
       "word": "WBG状态",
       "onboard_time": 1720620320,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24971,
-      "num": 24971,
-      "word": "虞书欣头像",
-      "onboard_time": 1720641131,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 24638,
@@ -635,6 +635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22140,
+      "num": 22140,
+      "word": "福登太倒霉了",
+      "onboard_time": 1720642812,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22131,
+      "num": 22131,
+      "word": "欧洲杯半决赛里的小孩哥好猛",
+      "onboard_time": 1720642931,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20852,
       "num": 78309,
       "word": "妻子产后情绪崩溃丈夫耐心安慰疏导",
@@ -651,7 +667,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17386,
+      "raw_hot": 17916,
       "num": 21553,
       "word": "甄嬛传 意难平",
       "onboard_time": 1720639271,
