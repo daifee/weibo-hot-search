@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720603238348,
+  "endTime": 1720604110697,
   "band_list": [
     {
       "raw_hot": 1596254,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020509,
+      "num": 1020509,
+      "word": "卢昱晓走路姿势被说残疾",
+      "onboard_time": 1720600218,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996553,
       "num": 589293,
       "word": "奥利 背刺",
@@ -105,14 +113,6 @@
       "onboard_time": 1720580239,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 911675,
-      "num": 911675,
-      "word": "卢昱晓走路姿势被说残疾",
-      "onboard_time": 1720600218,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 900056,
@@ -227,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 662656,
+      "num": 662656,
+      "word": "罪犯得知儿子高考697分喜极而泣",
+      "onboard_time": 1720602797,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 649118,
       "num": 649118,
       "word": "西班牙vs法国",
@@ -249,6 +257,14 @@
       "onboard_time": 1720534459,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614447,
+      "num": 614447,
+      "word": "鞠婧祎 温婉",
+      "onboard_time": 1720602740,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 613039,
@@ -363,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 497643,
+      "num": 497643,
+      "word": "亚马尔父亲才35岁",
+      "onboard_time": 1720599738,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495497,
       "num": 495497,
       "word": "洞庭湖全线退出警戒水位",
@@ -371,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490193,
-      "num": 490193,
-      "word": "亚马尔父亲才35岁",
-      "onboard_time": 1720599738,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 490105,
+      "num": 311095,
+      "word": "35岁再考清华当事人公布高考成绩",
+      "onboard_time": 1720602318,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 489542,
@@ -795,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252971,
+      "num": 167851,
+      "word": "为了官宣开一档综艺",
+      "onboard_time": 1720603098,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252637,
       "num": 252637,
       "word": "中国人民解放军92950部队记一等功",
@@ -819,12 +851,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 242767,
-      "num": 242767,
-      "word": "35岁再考清华当事人公布高考成绩",
-      "onboard_time": 1720602318,
-      "rank": 16,
-      "category": "教育,社会新闻"
+      "raw_hot": 244931,
+      "num": 263440,
+      "word": "官方回应萝卜快跑碰撞事故",
+      "onboard_time": 1720595117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241813,
@@ -833,14 +865,6 @@
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234322,
-      "num": 176929,
-      "word": "鞠婧祎 温婉",
-      "onboard_time": 1720602740,
-      "rank": 28,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 228867,
@@ -995,6 +1019,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 196044,
+      "num": 166849,
+      "word": "吴谨言GLASS盛典路透",
+      "onboard_time": 1720603038,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194700,
       "num": 176998,
       "word": "文韬 情绪稳定",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1720587378,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187010,
-      "num": 263440,
-      "word": "官方回应萝卜快跑碰撞事故",
-      "onboard_time": 1720595117,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186149,
@@ -1211,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166511,
+      "num": 166511,
+      "word": "纪委调查公务员与教师摘豆角引纠纷",
+      "onboard_time": 1720603338,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165836,
       "num": 165836,
       "word": "A股",
@@ -1291,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154872,
-      "num": 154872,
-      "word": "吴谨言GLASS盛典路透",
-      "onboard_time": 1720603038,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 154747,
       "num": 154747,
       "word": "研究称气候崩溃迹象已显现",
@@ -1347,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148513,
-      "num": 148513,
-      "word": "罪犯得知儿子高考697分喜极而泣",
-      "onboard_time": 1720602797,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 148292,
       "num": 148292,
       "word": "娜扎鲜衣怒马具像化",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1720571059,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142012,
-      "num": 142012,
-      "word": "为了官宣开一档综艺",
-      "onboard_time": 1720603098,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 141049,
@@ -1603,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125165,
+      "num": 125165,
+      "word": "张馨予买地毯砍价",
+      "onboard_time": 1720603818,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124646,
       "num": 124646,
       "word": "我看全职看得想吐",
@@ -1619,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120823,
+      "num": 359145,
+      "word": "文体局回应游客被收398元过沟费",
+      "onboard_time": 1720602017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120564,
       "num": 120564,
       "word": "西班牙3分钟2球",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1720583899,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119214,
+      "num": 119214,
+      "word": "全红婵演我暑假",
+      "onboard_time": 1720603638,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 116809,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1720593979,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114775,
+      "num": 114775,
+      "word": "长相思 大女主",
+      "onboard_time": 1720603879,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 114503,
@@ -1721,6 +1761,14 @@
       "onboard_time": 1720592058,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109923,
+      "num": 109923,
+      "word": "明日方舟",
+      "onboard_time": 1720604058,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 109853,
@@ -1883,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85558,
+      "num": 167979,
+      "word": "终于知道救男童的他叫石智安",
+      "onboard_time": 1720603939,
+      "rank": 21,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 85519,
       "num": 125608,
       "word": "张凌赫和裴文宣合照",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1720531578,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73676,
-      "num": 359145,
-      "word": "文体局回应游客被收398元过沟费",
-      "onboard_time": 1720602017,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73143,

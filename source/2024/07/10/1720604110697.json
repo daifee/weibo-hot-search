@@ -1,0 +1,410 @@
+{
+  "runTime": 1720604110697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020509,
+        "num": 1020509,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662656,
+        "num": 662656,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 14865,
+        "num": 629613,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614447,
+        "num": 614447,
+        "word": "鞠婧祎 温婉",
+        "onboard_time": 1720602740,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 497643,
+        "num": 497643,
+        "word": "亚马尔父亲才35岁",
+        "onboard_time": 1720599738,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379713,
+        "num": 379713,
+        "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
+        "onboard_time": 1720597878,
+        "rank": 5,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 532496,
+        "num": 372730,
+        "word": "温太医沈眉庄大婚",
+        "onboard_time": 1720589119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519962,
+        "num": 367478,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354936,
+        "num": 354936,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314624,
+        "num": 314624,
+        "word": "暑假的崩溃式旅游有多可怕",
+        "onboard_time": 1720597397,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 780192,
+        "num": 314544,
+        "word": "女子酒吧上厕所发现便池卡着一手机",
+        "onboard_time": 1720596978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490105,
+        "num": 311095,
+        "word": "35岁再考清华当事人公布高考成绩",
+        "onboard_time": 1720602318,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 419662,
+        "num": 307246,
+        "word": "歌手2024官宣lenka",
+        "onboard_time": 1720598537,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397916,
+        "num": 303033,
+        "word": "赵露思深U上衣",
+        "onboard_time": 1720597217,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347430,
+        "num": 302704,
+        "word": "赵丽颖或将进组冯小刚新电影",
+        "onboard_time": 1720600759,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299736,
+        "num": 299736,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244931,
+        "num": 244931,
+        "word": "官方回应萝卜快跑碰撞事故",
+        "onboard_time": 1720595117,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236866,
+        "num": 236866,
+        "word": "哈理工回应考生笔试成绩由47改为85",
+        "onboard_time": 1720593378,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178103,
+        "num": 178103,
+        "word": "80后考公人连考10年还没上岸",
+        "onboard_time": 1720596019,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168258,
+        "num": 168258,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 19,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 288464,
+        "num": 168209,
+        "word": "娜然 我不是妲己我是夏禾",
+        "onboard_time": 1720595719,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85558,
+        "num": 167979,
+        "word": "终于知道救男童的他叫石智安",
+        "onboard_time": 1720603939,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 252971,
+        "num": 167851,
+        "word": "为了官宣开一档综艺",
+        "onboard_time": 1720603098,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247612,
+        "num": 167802,
+        "word": "肖战工作室放的饭得用刀叉吃",
+        "onboard_time": 1720599499,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229405,
+        "num": 167674,
+        "word": "长相思 加戏",
+        "onboard_time": 1720585998,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223273,
+        "num": 167453,
+        "word": "何老师预判了王栎鑫的预判",
+        "onboard_time": 1720596678,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240285,
+        "num": 167242,
+        "word": "混装油流入陕西勉县",
+        "onboard_time": 1720601838,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120823,
+        "num": 167144,
+        "word": "文体局回应游客被收398元过沟费",
+        "onboard_time": 1720602017,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199233,
+        "num": 167056,
+        "word": "鞠婧祎妆造",
+        "onboard_time": 1720595778,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196044,
+        "num": 166849,
+        "word": "吴谨言GLASS盛典路透",
+        "onboard_time": 1720603038,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227803,
+        "num": 166776,
+        "word": "长寿花回应油罐车事件",
+        "onboard_time": 1720599618,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179111,
+        "num": 166592,
+        "word": "文韬 情绪稳定",
+        "onboard_time": 1720600939,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166511,
+        "num": 166511,
+        "word": "纪委调查公务员与教师摘豆角引纠纷",
+        "onboard_time": 1720603338,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164284,
+        "num": 164284,
+        "word": "辽宁一景区月薪5000招野人演员",
+        "onboard_time": 1720601359,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147228,
+        "num": 147228,
+        "word": "北大教授反对提高个税起征点",
+        "onboard_time": 1720590557,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "相柳给小夭的情书变成了遗书",
+        "onboard_time": 1720598417,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142930,
+        "num": 142930,
+        "word": "剧版画皮",
+        "onboard_time": 1720600098,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137270,
+        "num": 137270,
+        "word": "成毅上半年商务断层TOP1",
+        "onboard_time": 1720598178,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136554,
+        "num": 136554,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1720592418,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131715,
+        "num": 131715,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125165,
+        "num": 125165,
+        "word": "张馨予买地毯砍价",
+        "onboard_time": 1720603818,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124538,
+        "num": 124538,
+        "word": "好奇有韩国人追中国明星的吗",
+        "onboard_time": 1720588698,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119214,
+        "num": 119214,
+        "word": "全红婵演我暑假",
+        "onboard_time": 1720603638,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116447,
+        "num": 116447,
+        "word": "新华社评罐车运输食用油",
+        "onboard_time": 1720600578,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114775,
+        "num": 114775,
+        "word": "长相思 大女主",
+        "onboard_time": 1720603879,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112884,
+        "num": 112884,
+        "word": "研究称气候崩溃迹象已显现",
+        "onboard_time": 1720597397,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109923,
+        "num": 109923,
+        "word": "明日方舟",
+        "onboard_time": 1720604058,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109674,
+        "num": 109674,
+        "word": "华晨宇直播",
+        "onboard_time": 1720601417,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109634,
+        "num": 109634,
+        "word": "娜扎鲜衣怒马具像化",
+        "onboard_time": 1720602379,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61844,
+        "num": 109160,
+        "word": "满手油污的交警被司机夸成社恐",
+        "onboard_time": 1720600218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国总理哈西娜#"
+    }
+  }
+}
