@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720615957767,
+  "endTime": 1720617765518,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -217,6 +217,14 @@
       "onboard_time": 1720281679,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1490203,
+      "num": 454236,
+      "word": "入职了情趣用品公司不敢告诉妈妈",
+      "onboard_time": 1720616418,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1454503,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 994354,
-      "num": 261239,
+      "num": 265172,
       "word": "孙怡 这也不怎么样啊",
       "onboard_time": 1720608799,
       "rank": 10,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1720383431,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 775856,
+      "num": 201792,
+      "word": "终于有人把结婚的意义讲明白了",
+      "onboard_time": 1720612339,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 773583,
@@ -1547,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582610,
+      "num": 582610,
+      "word": "杨紫看监视器还在哭",
+      "onboard_time": 1720614498,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582419,
       "num": 582419,
       "word": "德国女高管担心前途摔死新生女儿",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1720341618,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579955,
-      "num": 201792,
-      "word": "终于有人把结婚的意义讲明白了",
-      "onboard_time": 1720612339,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 578348,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 511614,
+      "num": 169894,
+      "word": "马云回国现身阿里总部",
+      "onboard_time": 1720614317,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 510782,
@@ -2379,14 +2403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443365,
-      "num": 443365,
-      "word": "杨紫看监视器还在哭",
-      "onboard_time": 1720614498,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 443114,
       "num": 443114,
       "word": "小米第三款车是增程SUV",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1720592418,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 396456,
+      "num": 174243,
+      "word": "朋友被裁员拿到了50万经济补偿",
+      "onboard_time": 1720614739,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 395056,
@@ -3233,6 +3257,14 @@
       "onboard_time": 1720446380,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344906,
+      "num": 200591,
+      "word": "这5种水果晚上千万别吃",
+      "onboard_time": 1720612698,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 344567,
@@ -3907,14 +3939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275069,
-      "num": 200591,
-      "word": "这5种水果晚上千万别吃",
-      "onboard_time": 1720612698,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 275064,
       "num": 275064,
       "word": "A股上涨个股不足500只",
@@ -4099,14 +4123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257780,
-      "num": 169894,
-      "word": "马云回国现身阿里总部",
-      "onboard_time": 1720614317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -4251,12 +4267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244874,
-      "num": 174243,
-      "word": "朋友被裁员拿到了50万经济补偿",
-      "onboard_time": 1720614739,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 245463,
+      "num": 131857,
+      "word": "当不婚的小姨成了外甥最好的朋友",
+      "onboard_time": 1720616660,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244481,
@@ -4545,6 +4561,14 @@
       "onboard_time": 1720265538,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227120,
+      "num": 227120,
+      "word": "东北冷面大大方方的",
+      "onboard_time": 1720611857,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 225876,
@@ -4843,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209280,
+      "num": 130988,
+      "word": "韩国化妆师给曾黎做的妆造",
+      "onboard_time": 1720617139,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209127,
       "num": 192496,
       "word": "林依晨曾为减肥边哭边催吐",
@@ -5033,6 +5065,14 @@
       "onboard_time": 1720527619,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203246,
+      "num": 128782,
+      "word": "杨紫直播",
+      "onboard_time": 1720616598,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 203102,
@@ -5811,14 +5851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183667,
-      "num": 183667,
-      "word": "东北冷面大大方方的",
-      "onboard_time": 1720611857,
-      "rank": 35,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 183612,
       "num": 183612,
       "word": "唢呐一响陈瑶红嫁衣登场",
@@ -6249,6 +6281,14 @@
       "onboard_time": 1720528338,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173317,
+      "num": 128067,
+      "word": "陈泽生日直播",
+      "onboard_time": 1720617139,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 172956,
@@ -6945,6 +6985,14 @@
       "onboard_time": 1720446740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156094,
+      "num": 127687,
+      "word": "忆江南",
+      "onboard_time": 1720615878,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 155430,
@@ -7851,6 +7899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135225,
+      "num": 135225,
+      "word": "上海暴雨",
+      "onboard_time": 1720617559,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134818,
       "num": 1028808,
       "word": "OpenAI恐成美国情报部门帮凶",
@@ -7969,6 +8025,14 @@
       "onboard_time": 1720408157,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132681,
+      "num": 265662,
+      "word": "女子租手机套现背40多万欠债",
+      "onboard_time": 1720612818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132481,
@@ -8243,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127102,
+      "num": 127102,
+      "word": "檀健次直播",
+      "onboard_time": 1720617678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126626,
       "num": 126626,
       "word": "手机快充到底伤不伤电池",
@@ -8273,14 +8345,6 @@
       "onboard_time": 1720340416,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126448,
-      "num": 234512,
-      "word": "女子租手机套现背40多万欠债",
-      "onboard_time": 1720612818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126441,
@@ -8753,14 +8817,6 @@
       "onboard_time": 1720603879,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114727,
-      "num": 114727,
-      "word": "忆江南",
-      "onboard_time": 1720615878,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 114584,
@@ -9507,6 +9563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96692,
+      "num": 96692,
+      "word": "GALA伊泽瑞尔五杀",
+      "onboard_time": 1720617439,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96604,
       "num": 96604,
       "word": "凯格尔运动",
@@ -9649,6 +9713,14 @@
       "onboard_time": 1720339577,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92300,
+      "num": 96582,
+      "word": "花花空调房内悠闲晃jiojio",
+      "onboard_time": 1720615159,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91801,
@@ -9817,6 +9889,14 @@
       "onboard_time": 1720306932,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78913,
+      "num": 271184,
+      "word": "约五成大学生校园冷暴力发生在宿舍",
+      "onboard_time": 1720616418,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78595,
@@ -10620,7 +10700,7 @@
     },
     {
       "raw_hot": 42404,
-      "num": 137406,
+      "num": 473660,
       "word": "汛期防灾避险十不要",
       "onboard_time": 1720602138,
       "rank": 43,
