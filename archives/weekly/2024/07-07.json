@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720593601235,
+  "endTime": 1720596011982,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -465,6 +465,14 @@
       "onboard_time": 1720316297,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1085184,
+      "num": 529159,
+      "word": "关芝芝竟然嫁给了黄牡丹",
+      "onboard_time": 1720594158,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1083270,
@@ -1395,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 590602,
+      "num": 590602,
+      "word": "北大教授反对提高个税起征点",
+      "onboard_time": 1720590557,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 587745,
       "num": 587745,
       "word": "4岁姐姐抱着8个月壮汉弟弟",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1720526537,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518225,
+      "num": 372340,
+      "word": "哈理工回应考生笔试成绩由47改为85",
+      "onboard_time": 1720593378,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 517883,
@@ -2235,14 +2259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436756,
-      "num": 436756,
-      "word": "北大教授反对提高个税起征点",
-      "onboard_time": 1720590557,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 436400,
       "num": 436400,
       "word": "鞠婧祎 GLASS",
@@ -2384,6 +2400,14 @@
       "word": "徐海乔被妈妈催着表白赵丽颖",
       "onboard_time": 1720434378,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 418555,
+      "num": 357102,
+      "word": "黄子韬徐艺洋娱乐圈文学",
+      "onboard_time": 1720593677,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2593,6 +2617,14 @@
       "onboard_time": 1720326676,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388677,
+      "num": 388677,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1720592418,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 387771,
@@ -4427,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206329,
+      "num": 160525,
+      "word": "范丞丞误伤李晨",
+      "onboard_time": 1720595358,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206246,
       "num": 206246,
       "word": "油罐车",
@@ -5387,14 +5427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "天生臭脸和天生笑脸的区别",
-      "onboard_time": 1720592418,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178747,
       "num": 178747,
       "word": "混装化工油和食用油就是草菅人命",
@@ -5601,6 +5633,14 @@
       "onboard_time": 1720507038,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174257,
+      "num": 155012,
+      "word": "肖战工作室发法国vlog",
+      "onboard_time": 1720594217,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 174211,
@@ -6523,6 +6563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150206,
+      "num": 150206,
+      "word": "成毅广州早茶vlog",
+      "onboard_time": 1720594638,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150065,
       "num": 150065,
       "word": "朱一龙杀回暑期档",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1720516039,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149010,
+      "num": 149010,
+      "word": "鞠婧祎妆造",
+      "onboard_time": 1720595778,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 148610,
@@ -6851,14 +6907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141709,
-      "num": 141709,
-      "word": "哈理工回应考生笔试成绩由47改为85",
-      "onboard_time": 1720593378,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 141685,
       "num": 141685,
       "word": "洞庭湖大堤226米决口已封堵75米",
@@ -6897,6 +6945,14 @@
       "onboard_time": 1720591758,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141013,
+      "num": 167106,
+      "word": "爱会让我们变得完整吗",
+      "onboard_time": 1720595300,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 140928,
@@ -6985,6 +7041,14 @@
       "onboard_time": 1720579098,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139556,
+      "num": 134134,
+      "word": "防风意映终于要上线了",
+      "onboard_time": 1720595177,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 139190,
@@ -7147,12 +7211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134139,
+      "num": 134139,
+      "word": "梅西说非常高兴再进决赛",
+      "onboard_time": 1720592297,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134129,
       "num": 134129,
       "word": "小夭到底喜欢谁",
       "onboard_time": 1720589058,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134116,
+      "num": 402538,
+      "word": "列车长一招救回1岁小旅客",
+      "onboard_time": 1720593137,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133944,
@@ -7393,6 +7473,14 @@
       "onboard_time": 1720359378,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128656,
+      "num": 128656,
+      "word": "娜然 我不是妲己我是夏禾",
+      "onboard_time": 1720595719,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 128480,
@@ -7651,20 +7739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121666,
-      "num": 121666,
-      "word": "梅西说非常高兴再进决赛",
-      "onboard_time": 1720592297,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121498,
       "num": 121498,
       "word": "妈妈比死神先来了",
       "onboard_time": 1720530978,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121481,
+      "num": 121481,
+      "word": "一周才七天唐诡西行等八天",
+      "onboard_time": 1720593439,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 121370,
@@ -7883,6 +7971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114503,
+      "num": 108987,
+      "word": "周深少管我舞台松弛感",
+      "onboard_time": 1720595117,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114346,
       "num": 143665,
       "word": "看完这组名片你说中国City不City啊",
@@ -8025,6 +8121,14 @@
       "onboard_time": 1720581438,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111257,
+      "num": 111257,
+      "word": "用西游记BGM打开夏日天空",
+      "onboard_time": 1720595597,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 111203,
@@ -8187,6 +8291,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 108507,
+      "num": 108507,
+      "word": "9分合适难敌1分喜欢",
+      "onboard_time": 1720594398,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108023,
       "num": 108023,
       "word": "张本智和早田希娜WTT混双夺冠",
@@ -8211,6 +8323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107728,
+      "num": 107728,
+      "word": "海底捞等位区还可以打掼蛋",
+      "onboard_time": 1720593558,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106944,
       "num": 106944,
       "word": "这饭幼儿园小朋友能吃明白吗",
@@ -8233,14 +8353,6 @@
       "onboard_time": 1720430960,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106348,
-      "num": 106348,
-      "word": "一周才七天唐诡西行等八天",
-      "onboard_time": 1720593439,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 106290,
@@ -8379,12 +8491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102305,
+      "num": 102305,
+      "word": "消防员版跳绳燃脂教程",
+      "onboard_time": 1720595897,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 102275,
       "num": 102275,
       "word": "张本智和3比1林昀儒",
       "onboard_time": 1720337656,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102056,
+      "num": 388603,
+      "word": "黄岩岛海域生态环境全面体检",
+      "onboard_time": 1720593979,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101849,
@@ -8417,14 +8545,6 @@
       "onboard_time": 1720315457,
       "rank": 49,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 99472,
-      "num": 99472,
-      "word": "海底捞等位区还可以打掼蛋",
-      "onboard_time": 1720593558,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 99191,
@@ -8827,14 +8947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71666,
-      "num": 402538,
-      "word": "列车长一招救回1岁小旅客",
-      "onboard_time": 1720593137,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71555,
       "num": 71555,
       "word": "冬瓜苹果水",
@@ -9033,6 +9145,14 @@
       "onboard_time": 1720307594,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61881,
+      "num": 540174,
+      "word": "藏在录取通知书里的硬核浪漫",
+      "onboard_time": 1720595236,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61357,
@@ -9473,6 +9593,14 @@
       "onboard_time": 1720517118,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 44037,
+      "num": 109256,
+      "word": "如果露营只能带一件装备",
+      "onboard_time": 1720595358,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 43961,
@@ -10270,6 +10398,9 @@
     },
     {
       "word": "#中央军委举行荣誉称号颁授仪式#"
+    },
+    {
+      "word": "#习近平向模范火箭炮兵连颁授奖旗#"
     }
   ]
 }

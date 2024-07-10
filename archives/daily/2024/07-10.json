@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720593601235,
+  "endTime": 1720596011982,
   "band_list": [
     {
       "raw_hot": 1596254,
@@ -56,6 +56,14 @@
       "word": "长相思 加戏",
       "onboard_time": 1720585998,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1085184,
+      "num": 529159,
+      "word": "关芝芝竟然嫁给了黄牡丹",
+      "onboard_time": 1720594158,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590602,
+      "num": 590602,
+      "word": "北大教授反对提高个税起征点",
+      "onboard_time": 1720590557,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 587745,
       "num": 587745,
       "word": "4岁姐姐抱着8个月壮汉弟弟",
@@ -273,6 +289,14 @@
       "onboard_time": 1720572318,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518225,
+      "num": 372340,
+      "word": "哈理工回应考生笔试成绩由47改为85",
+      "onboard_time": 1720593378,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 517883,
@@ -363,14 +387,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 436756,
-      "num": 436756,
-      "word": "北大教授反对提高个税起征点",
-      "onboard_time": 1720590557,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 435459,
       "num": 435459,
       "word": "清华大学博士情侣毕业奔赴祖国中部",
@@ -417,6 +433,14 @@
       "onboard_time": 1720573937,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418555,
+      "num": 357102,
+      "word": "黄子韬徐艺洋娱乐圈文学",
+      "onboard_time": 1720593677,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 410662,
@@ -473,6 +497,14 @@
       "onboard_time": 1720538119,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388677,
+      "num": 388677,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1720592418,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 382540,
@@ -707,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206329,
+      "num": 160525,
+      "word": "范丞丞误伤李晨",
+      "onboard_time": 1720595358,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205985,
       "num": 205985,
       "word": "萧敬腾 成都下雨",
@@ -851,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "天生臭脸和天生笑脸的区别",
-      "onboard_time": 1720592418,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178687,
       "num": 454103,
       "word": "大热天女孩被困车内民警果断砸窗救人",
@@ -889,6 +921,14 @@
       "onboard_time": 1720574658,
       "rank": 31,
       "category": "社会新闻,电影"
+    },
+    {
+      "raw_hot": 174257,
+      "num": 155012,
+      "word": "肖战工作室发法国vlog",
+      "onboard_time": 1720594217,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 174211,
@@ -1043,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150206,
+      "num": 150206,
+      "word": "成毅广州早茶vlog",
+      "onboard_time": 1720594638,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149997,
       "num": 149997,
       "word": "夭玹开饭",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1720586359,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149010,
+      "num": 149010,
+      "word": "鞠婧祎妆造",
+      "onboard_time": 1720595778,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144269,
@@ -1075,20 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141709,
-      "num": 141709,
-      "word": "哈理工回应考生笔试成绩由47改为85",
-      "onboard_time": 1720593378,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 141049,
       "num": 141049,
       "word": "成为了把校长赶出教室的第一人",
       "onboard_time": 1720591758,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141013,
+      "num": 167106,
+      "word": "爱会让我们变得完整吗",
+      "onboard_time": 1720595300,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 140865,
@@ -1115,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139556,
+      "num": 134134,
+      "word": "防风意映终于要上线了",
+      "onboard_time": 1720595177,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136651,
       "num": 136651,
       "word": "金牛座为什么难以亲近",
@@ -1131,12 +1195,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134139,
+      "num": 134139,
+      "word": "梅西说非常高兴再进决赛",
+      "onboard_time": 1720592297,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134129,
       "num": 134129,
       "word": "小夭到底喜欢谁",
       "onboard_time": 1720589058,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134116,
+      "num": 402538,
+      "word": "列车长一招救回1岁小旅客",
+      "onboard_time": 1720593137,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133925,
@@ -1187,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128656,
+      "num": 128656,
+      "word": "娜然 我不是妲己我是夏禾",
+      "onboard_time": 1720595719,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128365,
       "num": 128365,
       "word": "彭小苒从主持人到演员",
@@ -1203,12 +1291,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121666,
-      "num": 121666,
-      "word": "梅西说非常高兴再进决赛",
-      "onboard_time": 1720592297,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 121481,
+      "num": 121481,
+      "word": "一周才七天唐诡西行等八天",
+      "onboard_time": 1720593439,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 121166,
@@ -1243,12 +1331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114503,
+      "num": 108987,
+      "word": "周深少管我舞台松弛感",
+      "onboard_time": 1720595117,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111412,
       "num": 111412,
       "word": "任嘉伦感慨没吃过锡餐",
       "onboard_time": 1720581438,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111257,
+      "num": 111257,
+      "word": "用西游记BGM打开夏日天空",
+      "onboard_time": 1720595597,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 110613,
@@ -1291,6 +1395,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108507,
+      "num": 108507,
+      "word": "9分合适难敌1分喜欢",
+      "onboard_time": 1720594398,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107728,
+      "num": 107728,
+      "word": "海底捞等位区还可以打掼蛋",
+      "onboard_time": 1720593558,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107556,
       "num": 125926,
       "word": "荷兰男子捐精生下1000个娃",
@@ -1305,14 +1425,6 @@
       "onboard_time": 1720590919,
       "rank": 47,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 106348,
-      "num": 106348,
-      "word": "一周才七天唐诡西行等八天",
-      "onboard_time": 1720593439,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 105790,
@@ -1339,20 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102305,
+      "num": 102305,
+      "word": "消防员版跳绳燃脂教程",
+      "onboard_time": 1720595897,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 102056,
+      "num": 388603,
+      "word": "黄岩岛海域生态环境全面体检",
+      "onboard_time": 1720593979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101849,
       "num": 101849,
       "word": "姆巴佩欧洲杯9场仅1球",
       "onboard_time": 1720564394,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99472,
-      "num": 99472,
-      "word": "海底捞等位区还可以打掼蛋",
-      "onboard_time": 1720593558,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 96186,
@@ -1499,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71666,
-      "num": 402538,
-      "word": "列车长一招救回1岁小旅客",
-      "onboard_time": 1720593137,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71048,
       "num": 361172,
       "word": "暑期健康这样抄作业",
@@ -1561,6 +1673,14 @@
       "onboard_time": 1720552871,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61881,
+      "num": 540174,
+      "word": "藏在录取通知书里的硬核浪漫",
+      "onboard_time": 1720595236,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61357,
@@ -1689,6 +1809,14 @@
       "onboard_time": 1720576999,
       "rank": 13,
       "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 44037,
+      "num": 109256,
+      "word": "如果露营只能带一件装备",
+      "onboard_time": 1720595358,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 42897,
@@ -1897,6 +2025,9 @@
     },
     {
       "word": "#中央军委举行荣誉称号颁授仪式#"
+    },
+    {
+      "word": "#习近平向模范火箭炮兵连颁授奖旗#"
     }
   ]
 }
