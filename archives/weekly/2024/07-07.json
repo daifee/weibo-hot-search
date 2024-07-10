@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720582649752,
+  "endTime": 1720585472838,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -169,6 +169,14 @@
       "onboard_time": 1720484897,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1492179,
+      "num": 1492179,
+      "word": "协和医生说孕吐是胎儿的自我保护",
+      "onboard_time": 1720581916,
+      "rank": 22,
+      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 1491623,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927452,
+      "num": 927452,
+      "word": "920元辛苦费换来6个月刑期",
+      "onboard_time": 1720582518,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927036,
       "num": 695353,
       "word": "女子隆胸被偷拍发布医院拒道歉",
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735387,
+      "num": 735387,
+      "word": "百度 萝卜快跑",
+      "onboard_time": 1720583899,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 733463,
       "num": 293663,
       "word": "研究发现月经用品中含有毒金属",
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 711517,
-      "num": 249478,
+      "num": 302538,
       "word": "跳舞五个月后老公不认识我了",
       "onboard_time": 1720576697,
       "rank": 20,
@@ -1579,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 514006,
+      "num": 514006,
+      "word": "女装退货率高背后是货不对版",
+      "onboard_time": 1720580418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513610,
       "num": 513610,
       "word": "谁家王后刚上位就发疯",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1720333577,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 509316,
+      "num": 509316,
+      "word": "蓝盈莹14年前VS14年后",
+      "onboard_time": 1720583358,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 503257,
@@ -1697,14 +1737,6 @@
       "onboard_time": 1720579098,
       "rank": 25,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 486245,
-      "num": 190592,
-      "word": "协和医生说孕吐是胎儿的自我保护",
-      "onboard_time": 1720581916,
-      "rank": 22,
-      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 481781,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1720517838,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458115,
+      "num": 458115,
+      "word": "一58岁中国籍男子登富士山时死亡",
+      "onboard_time": 1720582698,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457623,
@@ -2227,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423089,
+      "num": 423089,
+      "word": "内耗的人都有一个共同点",
+      "onboard_time": 1720580598,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422859,
       "num": 422859,
       "word": "王一博将传递奥运火炬",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1720415780,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 393172,
+      "num": 393172,
+      "word": "檀健次 戴比尔斯",
+      "onboard_time": 1720581497,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 391335,
@@ -2883,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331916,
+      "num": 331916,
+      "word": "BLACKPINK巡演大电影预告片",
+      "onboard_time": 1720584978,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331470,
       "num": 331470,
       "word": "长相思2今日开播",
@@ -3123,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307941,
+      "num": 307941,
+      "word": "BLG官宣Wei加入",
+      "onboard_time": 1720583958,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 307174,
       "num": 307174,
       "word": "张若昀钟楚曦新片演我周一精神状态",
@@ -3177,6 +3249,14 @@
       "onboard_time": 1720338256,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296452,
+      "num": 296452,
+      "word": "RNG真没打野了",
+      "onboard_time": 1720583658,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 296263,
@@ -3267,20 +3347,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287295,
+      "num": 287295,
+      "word": "秦彻不设防禁区",
+      "onboard_time": 1720584619,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 286976,
+      "num": 286976,
+      "word": "网约车 无人驾驶",
+      "onboard_time": 1720584319,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 285862,
       "num": 285862,
       "word": "4739人参加洞庭湖决堤现场救援",
       "onboard_time": 1720346778,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284115,
-      "num": 284115,
-      "word": "内耗的人都有一个共同点",
-      "onboard_time": 1720580598,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 283447,
@@ -3353,14 +3441,6 @@
       "onboard_time": 1720490417,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275759,
-      "num": 275759,
-      "word": "檀健次 戴比尔斯",
-      "onboard_time": 1720581497,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 275064,
@@ -3865,6 +3945,14 @@
       "onboard_time": 1720504758,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228867,
+      "num": 228867,
+      "word": "黄子韬爱豆出身",
+      "onboard_time": 1720583718,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228592,
@@ -4395,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201008,
+      "num": 201008,
+      "word": "单人买电影票不能选C位合理吗",
+      "onboard_time": 1720583779,
+      "rank": 30,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 200962,
       "num": 200962,
       "word": "为什么超市收银员不能坐着上班",
@@ -4763,6 +4859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190441,
+      "num": 190441,
+      "word": "冰箱放了两天的西瓜真的不能吃",
+      "onboard_time": 1720584440,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "德罗赞加盟国王",
@@ -4939,12 +5043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184475,
-      "num": 421600,
-      "word": "女装退货率高背后是货不对版",
-      "onboard_time": 1720580418,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 184230,
+      "num": 184230,
+      "word": "亚马尔说偶像是内马尔",
+      "onboard_time": 1720582338,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 184171,
@@ -5323,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173931,
+      "num": 173931,
+      "word": "眷思量屠丽贴脸开大镜玄",
+      "onboard_time": 1720584319,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173835,
       "num": 173835,
       "word": "秒睡可能也是一种病",
@@ -5441,6 +5553,14 @@
       "onboard_time": 1720266558,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169806,
+      "num": 169806,
+      "word": "怦然4体面的喜欢破碎的告别",
+      "onboard_time": 1720583358,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 169790,
@@ -6187,6 +6307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149997,
+      "num": 149997,
+      "word": "夭玹开饭",
+      "onboard_time": 1720582758,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "收到了隔壁妹妹的小纸条",
@@ -6395,6 +6523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143929,
+      "num": 143929,
+      "word": "爱豆 情绪价值",
+      "onboard_time": 1720584918,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143709,
       "num": 143709,
       "word": "西班牙欧洲杯史上唯一六连胜球队",
@@ -6424,14 +6560,6 @@
       "word": "油罐车司机称客户有要求才会洗",
       "onboard_time": 1720534339,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143399,
-      "num": 143399,
-      "word": "920元辛苦费换来6个月刑期",
-      "onboard_time": 1720582518,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6987,6 +7115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128365,
+      "num": 128365,
+      "word": "彭小苒从主持人到演员",
+      "onboard_time": 1720583300,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128094,
       "num": 128094,
       "word": "为什么人们越来越离不开情绪价值",
@@ -7032,14 +7168,6 @@
       "word": "乔治自曝离开快船原因",
       "onboard_time": 1720488857,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127361,
-      "num": 127361,
-      "word": "亚马尔说偶像是内马尔",
-      "onboard_time": 1720582338,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -7289,6 +7417,14 @@
       "onboard_time": 1720555212,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120525,
+      "num": 120525,
+      "word": "杨紫长相思双榜Top1",
+      "onboard_time": 1720583899,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120344,
@@ -8483,6 +8619,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 64161,
+      "num": 462030,
+      "word": "摆渡车成景区新价格刺客",
+      "onboard_time": 1720584018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64036,
       "num": 145212,
       "word": "黑衣男跳水勇救落水少年",
@@ -9084,7 +9228,7 @@
     },
     {
       "raw_hot": 38157,
-      "num": 190779,
+      "num": 299414,
       "word": "尼山再提新轴心文明愿景",
       "onboard_time": 1720581497,
       "rank": 46,

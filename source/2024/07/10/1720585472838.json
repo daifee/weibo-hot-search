@@ -1,0 +1,410 @@
+{
+  "runTime": 1720585472838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492179,
+        "num": 1492179,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 0,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 927452,
+        "num": 927452,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124148,
+        "num": 773702,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 735387,
+        "num": 735387,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 632183,
+        "num": 632183,
+        "word": "唐朝诡事录处处贬",
+        "onboard_time": 1720580239,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596248,
+        "num": 596248,
+        "word": "玱玹九个老婆唯独没有小夭",
+        "onboard_time": 1720578077,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514006,
+        "num": 514006,
+        "word": "女装退货率高背后是货不对版",
+        "onboard_time": 1720580418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509316,
+        "num": 509316,
+        "word": "蓝盈莹14年前VS14年后",
+        "onboard_time": 1720583358,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487610,
+        "num": 487610,
+        "word": "无痛分娩那么好为何普及率却不高",
+        "onboard_time": 1720578558,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64161,
+        "num": 462030,
+        "word": "摆渡车成景区新价格刺客",
+        "onboard_time": 1720584018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458115,
+        "num": 458115,
+        "word": "一58岁中国籍男子登富士山时死亡",
+        "onboard_time": 1720582698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423089,
+        "num": 423089,
+        "word": "内耗的人都有一个共同点",
+        "onboard_time": 1720580598,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393172,
+        "num": 393172,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1720581497,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378554,
+        "num": 378554,
+        "word": "骗子用出国月薪3万骗了1000多万",
+        "onboard_time": 1720575138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373972,
+        "num": 373972,
+        "word": "小米回应被格力起诉",
+        "onboard_time": 1720579098,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 339222,
+        "num": 339222,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336541,
+        "num": 336541,
+        "word": "孙颖莎上榜巴黎奥运最值得关注运动员",
+        "onboard_time": 1720579817,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331916,
+        "num": 331916,
+        "word": "BLACKPINK巡演大电影预告片",
+        "onboard_time": 1720584978,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328643,
+        "num": 328643,
+        "word": "玱玹发疯",
+        "onboard_time": 1720580239,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307941,
+        "num": 307941,
+        "word": "BLG官宣Wei加入",
+        "onboard_time": 1720583958,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 416540,
+        "num": 302538,
+        "word": "跳舞五个月后老公不认识我了",
+        "onboard_time": 1720576697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28055,
+        "num": 299414,
+        "word": "尼山再提新轴心文明愿景",
+        "onboard_time": 1720581497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296452,
+        "num": 296452,
+        "word": "RNG真没打野了",
+        "onboard_time": 1720583658,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292387,
+        "num": 292387,
+        "word": "任嘉伦扒了五分钟的蛋掉了",
+        "onboard_time": 1720579638,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287295,
+        "num": 287295,
+        "word": "秦彻不设防禁区",
+        "onboard_time": 1720584619,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286976,
+        "num": 286976,
+        "word": "网约车 无人驾驶",
+        "onboard_time": 1720584319,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285612,
+        "num": 285612,
+        "word": "梅西给6个月大的亚马尔洗过澡",
+        "onboard_time": 1720575976,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228867,
+        "num": 228867,
+        "word": "黄子韬爱豆出身",
+        "onboard_time": 1720583718,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224213,
+        "num": 224213,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215714,
+        "num": 215714,
+        "word": "原来韩国人吃周翊然这种",
+        "onboard_time": 1720569616,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201008,
+        "num": 201008,
+        "word": "单人买电影票不能选C位合理吗",
+        "onboard_time": 1720583779,
+        "rank": 30,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 199611,
+        "num": 199611,
+        "word": "秦彻新pv",
+        "onboard_time": 1720585039,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190817,
+        "num": 190817,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190441,
+        "num": 190441,
+        "word": "冰箱放了两天的西瓜真的不能吃",
+        "onboard_time": 1720584440,
+        "rank": 33,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 184230,
+        "num": 184230,
+        "word": "亚马尔说偶像是内马尔",
+        "onboard_time": 1720582338,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179578,
+        "num": 179578,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179505,
+        "num": 179505,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177059,
+        "num": 177059,
+        "word": "洞庭湖全线退出警戒水位",
+        "onboard_time": 1720574538,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173931,
+        "num": 173931,
+        "word": "眷思量屠丽贴脸开大镜玄",
+        "onboard_time": 1720584319,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169806,
+        "num": 169806,
+        "word": "怦然4体面的喜欢破碎的告别",
+        "onboard_time": 1720583358,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158315,
+        "num": 158315,
+        "word": "女子5000万购法院查封房后钱房两空",
+        "onboard_time": 1720576277,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149997,
+        "num": 149997,
+        "word": "夭玹开饭",
+        "onboard_time": 1720582758,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146852,
+        "num": 146852,
+        "word": "小水新剧是1女vs9男",
+        "onboard_time": 1720578917,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143929,
+        "num": 143929,
+        "word": "爱豆 情绪价值",
+        "onboard_time": 1720584918,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136276,
+        "num": 136276,
+        "word": "西班牙2比1法国",
+        "onboard_time": 1720559350,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134684,
+        "num": 134684,
+        "word": "中国男篮22分不敌马刺",
+        "onboard_time": 1720581137,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128365,
+        "num": 128365,
+        "word": "彭小苒从主持人到演员",
+        "onboard_time": 1720583300,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 120525,
+        "word": "杨紫长相思双榜Top1",
+        "onboard_time": 1720583899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113337,
+        "num": 113337,
+        "word": "许嵩大连抢票",
+        "onboard_time": 1720582397,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116571,
+        "num": 113337,
+        "word": "相柳弹琴好尬",
+        "onboard_time": 1720574896,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行荣誉称号颁授仪式#"
+    }
+  }
+}
