@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720615077865,
+  "endTime": 1720615957767,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579955,
+      "num": 201792,
+      "word": "终于有人把结婚的意义讲明白了",
+      "onboard_time": 1720612339,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 578348,
       "num": 578348,
       "word": "B太说被300主播针对",
@@ -2371,6 +2379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443365,
+      "num": 443365,
+      "word": "杨紫看监视器还在哭",
+      "onboard_time": 1720614498,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443114,
       "num": 443114,
       "word": "小米第三款车是增程SUV",
@@ -2769,14 +2785,6 @@
       "onboard_time": 1720415780,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 398889,
-      "num": 201792,
-      "word": "终于有人把结婚的意义讲明白了",
-      "onboard_time": 1720612339,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 398230,
@@ -3643,6 +3651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306394,
+      "num": 306394,
+      "word": "相柳 心软的神",
+      "onboard_time": 1720613898,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305989,
       "num": 305989,
       "word": "狗狗替小主人挡毒蛇攻击被咬伤",
@@ -3891,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275069,
+      "num": 200591,
+      "word": "这5种水果晚上千万别吃",
+      "onboard_time": 1720612698,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275064,
       "num": 275064,
       "word": "A股上涨个股不足500只",
@@ -4075,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257780,
+      "num": 169894,
+      "word": "马云回国现身阿里总部",
+      "onboard_time": 1720614317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 257263,
       "num": 257263,
       "word": "非升即走已从讲师延伸至副教授",
@@ -4179,14 +4211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248611,
-      "num": 224738,
-      "word": "相柳 心软的神",
-      "onboard_time": 1720613898,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248001,
       "num": 191426,
       "word": "柳岩妈妈",
@@ -4219,20 +4243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246766,
-      "num": 223454,
-      "word": "杨紫看监视器还在哭",
-      "onboard_time": 1720614498,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246425,
       "num": 230854,
       "word": "相柳抢婚名场面",
       "onboard_time": 1720411940,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244874,
+      "num": 174243,
+      "word": "朋友被裁员拿到了50万经济补偿",
+      "onboard_time": 1720614739,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 244481,
@@ -4401,6 +4425,14 @@
       "onboard_time": 1720411100,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235140,
+      "num": 235140,
+      "word": "大乔绒语心约皮肤",
+      "onboard_time": 1720614439,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 234654,
@@ -4611,28 +4643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217347,
-      "num": 200591,
-      "word": "这5种水果晚上千万别吃",
-      "onboard_time": 1720612698,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 217182,
       "num": 217182,
       "word": "上海迪士尼调整停车收费规则",
       "onboard_time": 1720503917,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216834,
-      "num": 216834,
-      "word": "大乔绒语心约皮肤",
-      "onboard_time": 1720614439,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 216643,
@@ -5331,14 +5347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194607,
-      "num": 159359,
-      "word": "马云回国现身阿里总部",
-      "onboard_time": 1720614317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 194318,
       "num": 194318,
       "word": "保时捷Taycan因销量下滑而减产",
@@ -5571,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189846,
+      "num": 168508,
+      "word": "长相思主创回复杨紫",
+      "onboard_time": 1720614859,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189695,
       "num": 189695,
       "word": "王星越向涵之骑马路透",
@@ -5793,6 +5809,14 @@
       "onboard_time": 1720331357,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 183667,
+      "word": "东北冷面大大方方的",
+      "onboard_time": 1720611857,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 183612,
@@ -6121,14 +6145,6 @@
       "onboard_time": 1720508058,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176117,
-      "num": 158592,
-      "word": "长相思主创回复杨紫",
-      "onboard_time": 1720614859,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 175796,
@@ -7371,20 +7387,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "忆江南官宣晚安曲",
+      "onboard_time": 1720615098,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "荷兰vs土耳其",
       "onboard_time": 1720287853,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144776,
-      "num": 144776,
-      "word": "东北冷面大大方方的",
-      "onboard_time": 1720611857,
-      "rank": 35,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 144609,
@@ -8099,14 +8115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129352,
-      "num": 129352,
-      "word": "朋友被裁员拿到了50万经济补偿",
-      "onboard_time": 1720614739,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129217,
       "num": 129217,
       "word": "数码宝贝 绝美天女兽",
@@ -8267,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126448,
+      "num": 234512,
+      "word": "女子租手机套现背40多万欠债",
+      "onboard_time": 1720612818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126441,
       "num": 126441,
       "word": "五月天 谢谢深圳",
@@ -8284,7 +8300,7 @@
     },
     {
       "raw_hot": 126021,
-      "num": 126021,
+      "num": 129102,
       "word": "猫 好严苛的入职流程",
       "onboard_time": 1720612818,
       "rank": 41,
@@ -8497,6 +8513,14 @@
       "onboard_time": 1720487358,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121283,
+      "num": 121283,
+      "word": "李蓉爱与不爱好明显",
+      "onboard_time": 1720615579,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 121247,
@@ -8729,6 +8753,14 @@
       "onboard_time": 1720603879,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "忆江南",
+      "onboard_time": 1720615878,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 114584,
@@ -8984,14 +9016,6 @@
       "word": "益海嘉里",
       "onboard_time": 1720524918,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110296,
-      "num": 225846,
-      "word": "女子租手机套现背40多万欠债",
-      "onboard_time": 1720612818,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -11257,6 +11281,14 @@
       "onboard_time": 1720346418,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8926,
+      "num": 120841,
+      "word": "跟着小丸子学拍照",
+      "onboard_time": 1720615458,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 8666,

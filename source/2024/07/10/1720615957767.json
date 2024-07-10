@@ -1,0 +1,410 @@
+{
+  "runTime": 1720615957767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718516,
+        "num": 718516,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 489552,
+        "num": 489552,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720608678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10107,
+        "num": 443423,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443365,
+        "num": 443365,
+        "word": "杨紫看监视器还在哭",
+        "onboard_time": 1720614498,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416115,
+        "num": 416115,
+        "word": "刘诗诗第三次演绎GuoPei高定",
+        "onboard_time": 1720610938,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407515,
+        "num": 407515,
+        "word": "人民日报直播",
+        "onboard_time": 1720613297,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313905,
+        "num": 313905,
+        "word": "相柳的角色微博名改了",
+        "onboard_time": 1720605679,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306394,
+        "num": 306394,
+        "word": "相柳 心软的神",
+        "onboard_time": 1720613898,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235140,
+        "num": 235140,
+        "word": "大乔绒语心约皮肤",
+        "onboard_time": 1720614439,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126448,
+        "num": 234512,
+        "word": "女子租手机套现背40多万欠债",
+        "onboard_time": 1720612818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886978,
+        "num": 233841,
+        "word": "孙怡 这也不怎么样啊",
+        "onboard_time": 1720608799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298843,
+        "num": 233042,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281626,
+        "num": 231966,
+        "word": "鞠婧祎 温婉",
+        "onboard_time": 1720602740,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 231423,
+        "num": 231423,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227511,
+        "num": 227511,
+        "word": "韩国19岁恶魔杀人分尸16个小时",
+        "onboard_time": 1720605918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195089,
+        "num": 195089,
+        "word": "腾讯调整员工薪资福利政策",
+        "onboard_time": 1720604358,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "东北冷面大大方方的",
+        "onboard_time": 1720611857,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 143975,
+        "num": 183307,
+        "word": "证监会批准暂停转融券业务",
+        "onboard_time": 1720609219,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138032,
+        "num": 182019,
+        "word": "T1真困了",
+        "onboard_time": 1720609879,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137354,
+        "num": 180640,
+        "word": "动漫里的神仙竹马",
+        "onboard_time": 1720611918,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 996605,
+        "num": 180247,
+        "word": "鞠婧祎 签约大雷",
+        "onboard_time": 1720606578,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579955,
+        "num": 178933,
+        "word": "终于有人把结婚的意义讲明白了",
+        "onboard_time": 1720612339,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530564,
+        "num": 177785,
+        "word": "谢娜生孩子何炅推掉工作去陪产",
+        "onboard_time": 1720604659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484537,
+        "num": 176447,
+        "word": "脖子和腋下的小肉粒到底是啥",
+        "onboard_time": 1720606218,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275069,
+        "num": 175467,
+        "word": "这5种水果晚上千万别吃",
+        "onboard_time": 1720612698,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244874,
+        "num": 174243,
+        "word": "朋友被裁员拿到了50万经济补偿",
+        "onboard_time": 1720614739,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236925,
+        "num": 173178,
+        "word": "两华人菲律宾被绑架失联已半年",
+        "onboard_time": 1720609219,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206510,
+        "num": 172229,
+        "word": "鞠婧祎妆造",
+        "onboard_time": 1720595778,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185294,
+        "num": 171541,
+        "word": "情人蛊",
+        "onboard_time": 1720612818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170527,
+        "num": 170527,
+        "word": "时代少年团直播",
+        "onboard_time": 1720610659,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257780,
+        "num": 169894,
+        "word": "马云回国现身阿里总部",
+        "onboard_time": 1720614317,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189846,
+        "num": 168508,
+        "word": "长相思主创回复杨紫",
+        "onboard_time": 1720614859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163286,
+        "num": 163286,
+        "word": "周深南京",
+        "onboard_time": 1720614618,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145336,
+        "num": 145336,
+        "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+        "onboard_time": 1720606879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145095,
+        "num": 145095,
+        "word": "忆江南官宣晚安曲",
+        "onboard_time": 1720615098,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138710,
+        "num": 138710,
+        "word": "肖战工作室放的饭得用刀叉吃",
+        "onboard_time": 1720599499,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136628,
+        "num": 136628,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136147,
+        "num": 136147,
+        "word": "邓为直播",
+        "onboard_time": 1720606277,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131318,
+        "num": 131318,
+        "word": "EXO和NCT被诈骗地址信息",
+        "onboard_time": 1720607658,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125163,
+        "num": 129102,
+        "word": "猫 好严苛的入职流程",
+        "onboard_time": 1720612818,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128156,
+        "num": 128156,
+        "word": "北京昌平发了王俊凯",
+        "onboard_time": 1720609458,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127030,
+        "num": 127030,
+        "word": "阿Sa替阿娇发声",
+        "onboard_time": 1720610837,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 121283,
+        "word": "李蓉爱与不爱好明显",
+        "onboard_time": 1720615579,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8926,
+        "num": 120841,
+        "word": "跟着小丸子学拍照",
+        "onboard_time": 1720615458,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 120533,
+        "word": "吴谨言说久违了大波浪",
+        "onboard_time": 1720609397,
+        "rank": 44,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 114727,
+        "num": 114727,
+        "word": "忆江南",
+        "onboard_time": 1720615878,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112295,
+        "num": 112295,
+        "word": "水蜜桃插吸管喝汁是什么体验",
+        "onboard_time": 1720611316,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 110518,
+        "word": "官方回应萝卜快跑碰撞事故",
+        "onboard_time": 1720595117,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91262,
+        "num": 109280,
+        "word": "穆勒从德国队退役",
+        "onboard_time": 1720610837,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108793,
+        "num": 108793,
+        "word": "为了官宣开一档综艺",
+        "onboard_time": 1720603098,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国总理哈西娜#"
+    }
+  }
+}

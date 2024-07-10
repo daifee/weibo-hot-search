@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720615077865,
+  "endTime": 1720615957767,
   "band_list": [
     {
       "raw_hot": 2153029,
@@ -363,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 579955,
+      "num": 201792,
+      "word": "终于有人把结婚的意义讲明白了",
+      "onboard_time": 1720612339,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 578348,
       "num": 578348,
       "word": "B太说被300主播针对",
@@ -587,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443365,
+      "num": 443365,
+      "word": "杨紫看监视器还在哭",
+      "onboard_time": 1720614498,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435459,
       "num": 435459,
       "word": "清华大学博士情侣毕业奔赴祖国中部",
@@ -673,14 +689,6 @@
       "onboard_time": 1720579638,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398889,
-      "num": 201792,
-      "word": "终于有人把结婚的意义讲明白了",
-      "onboard_time": 1720612339,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 398230,
@@ -883,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306394,
+      "num": 306394,
+      "word": "相柳 心软的神",
+      "onboard_time": 1720613898,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297844,
       "num": 259680,
       "word": "EXO和NCT被诈骗地址信息",
@@ -929,6 +945,14 @@
       "onboard_time": 1720584440,
       "rank": 33,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 275069,
+      "num": 200591,
+      "word": "这5种水果晚上千万别吃",
+      "onboard_time": 1720612698,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 273228,
@@ -987,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257780,
+      "num": 169894,
+      "word": "马云回国现身阿里总部",
+      "onboard_time": 1720614317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252637,
       "num": 252637,
       "word": "中国人民解放军92950部队记一等功",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1720570098,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248611,
-      "num": 224738,
-      "word": "相柳 心软的神",
-      "onboard_time": 1720613898,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 248001,
@@ -1027,12 +1051,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 246766,
-      "num": 223454,
-      "word": "杨紫看监视器还在哭",
-      "onboard_time": 1720614498,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 244874,
+      "num": 174243,
+      "word": "朋友被裁员拿到了50万经济补偿",
+      "onboard_time": 1720614739,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 242860,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235140,
+      "num": 235140,
+      "word": "大乔绒语心约皮肤",
+      "onboard_time": 1720614439,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 228867,
@@ -1073,22 +1105,6 @@
       "onboard_time": 1720572978,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 217347,
-      "num": 200591,
-      "word": "这5种水果晚上千万别吃",
-      "onboard_time": 1720612698,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 216834,
-      "num": 216834,
-      "word": "大乔绒语心约皮肤",
-      "onboard_time": 1720614439,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 216597,
@@ -1291,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194607,
-      "num": 159359,
-      "word": "马云回国现身阿里总部",
-      "onboard_time": 1720614317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 193250,
       "num": 131126,
       "word": "才25岁就要被介绍40岁的男孩",
@@ -1336,6 +1344,14 @@
       "word": "长相思编剧",
       "onboard_time": 1720587378,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189846,
+      "num": 168508,
+      "word": "长相思主创回复杨紫",
+      "onboard_time": 1720614859,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1385,6 +1401,14 @@
       "onboard_time": 1720606879,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 183667,
+      "word": "东北冷面大大方方的",
+      "onboard_time": 1720611857,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 181795,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1720567575,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176117,
-      "num": 158592,
-      "word": "长相思主创回复杨紫",
-      "onboard_time": 1720614859,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 175371,
@@ -1707,12 +1723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144776,
-      "num": 144776,
-      "word": "东北冷面大大方方的",
-      "onboard_time": 1720611857,
-      "rank": 35,
-      "category": "美食,社会新闻"
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "忆江南官宣晚安曲",
+      "onboard_time": 1720615098,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 144269,
@@ -1939,14 +1955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129352,
-      "num": 129352,
-      "word": "朋友被裁员拿到了50万经济补偿",
-      "onboard_time": 1720614739,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129025,
       "num": 129025,
       "word": "亚马尔圆月弯刀",
@@ -1987,8 +1995,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126448,
+      "num": 234512,
+      "word": "女子租手机套现背40多万欠债",
+      "onboard_time": 1720612818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126021,
-      "num": 126021,
+      "num": 129102,
       "word": "猫 好严苛的入职流程",
       "onboard_time": 1720612818,
       "rank": 41,
@@ -2031,6 +2047,14 @@
       "num": 122097,
       "word": "杨紫片场给邓为把出喜脉",
       "onboard_time": 1720604418,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121283,
+      "num": 121283,
+      "word": "李蓉爱与不爱好明显",
+      "onboard_time": 1720615579,
       "rank": 42,
       "category": "剧集"
     },
@@ -2099,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114727,
+      "num": 114727,
+      "word": "忆江南",
+      "onboard_time": 1720615878,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114503,
       "num": 108987,
       "word": "周深少管我舞台松弛感",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1720580118,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 110296,
-      "num": 225846,
-      "word": "女子租手机套现背40多万欠债",
-      "onboard_time": 1720612818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110286,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1720541237,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 8926,
+      "num": 120841,
+      "word": "跟着小丸子学拍照",
+      "onboard_time": 1720615458,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 7796,
