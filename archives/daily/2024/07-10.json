@@ -1,10 +1,10 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720585472838,
+  "endTime": 1720586270036,
   "band_list": [
     {
-      "raw_hot": 1492179,
-      "num": 1492179,
+      "raw_hot": 1573115,
+      "num": 1573115,
       "word": "协和医生说孕吐是胎儿的自我保护",
       "onboard_time": 1720581916,
       "rank": 22,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149843,
+      "num": 1149843,
+      "word": "920元辛苦费换来6个月刑期",
+      "onboard_time": 1720582518,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059552,
       "num": 1059552,
       "word": "骗子用出国月薪3万骗了1000多万",
@@ -43,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 927452,
-      "num": 927452,
-      "word": "920元辛苦费换来6个月刑期",
-      "onboard_time": 1720582518,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 959919,
+      "num": 959919,
+      "word": "百度 萝卜快跑",
+      "onboard_time": 1720583899,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 900056,
@@ -105,14 +113,6 @@
       "onboard_time": 1720571658,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 735387,
-      "num": 735387,
-      "word": "百度 萝卜快跑",
-      "onboard_time": 1720583899,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 711517,
@@ -195,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 566605,
+      "num": 566605,
+      "word": "女装退货率高背后是货不对版",
+      "onboard_time": 1720580418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565104,
       "num": 565104,
       "word": "为什么现在电视剧都是1女N男",
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 514006,
-      "num": 514006,
-      "word": "女装退货率高背后是货不对版",
-      "onboard_time": 1720580418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509316,
       "num": 509316,
       "word": "蓝盈莹14年前VS14年后",
@@ -232,6 +232,14 @@
       "word": "洞庭湖全线退出警戒水位",
       "onboard_time": 1720574538,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489542,
+      "num": 458115,
+      "word": "一58岁中国籍男子登富士山时死亡",
+      "onboard_time": 1720582698,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -259,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474114,
+      "num": 474114,
+      "word": "BLACKPINK巡演大电影预告片",
+      "onboard_time": 1720584978,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472393,
       "num": 472393,
       "word": "孙颖莎上榜巴黎奥运最值得关注运动员",
       "onboard_time": 1720579817,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 458115,
-      "num": 458115,
-      "word": "一58岁中国籍男子登富士山时死亡",
-      "onboard_time": 1720582698,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457623,
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431081,
+      "num": 423089,
+      "word": "内耗的人都有一个共同点",
+      "onboard_time": 1720580598,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 431012,
       "num": 431012,
       "word": "女子5000万购法院查封房后钱房两空",
@@ -323,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423089,
-      "num": 423089,
-      "word": "内耗的人都有一个共同点",
-      "onboard_time": 1720580598,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 421134,
       "num": 421134,
       "word": "格力诉小米米家电风扇侵权一案胜诉",
@@ -345,6 +353,14 @@
       "onboard_time": 1720571899,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 410588,
+      "num": 410588,
+      "word": "网约车 无人驾驶",
+      "onboard_time": 1720584319,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 404900,
@@ -403,14 +419,6 @@
       "category": "美食,互联网"
     },
     {
-      "raw_hot": 331916,
-      "num": 331916,
-      "word": "BLACKPINK巡演大电影预告片",
-      "onboard_time": 1720584978,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 330365,
       "num": 330365,
       "word": "巴黎奥运会韩国代表团制服",
@@ -443,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306461,
+      "num": 306461,
+      "word": "秦彻不设防禁区",
+      "onboard_time": 1720584619,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296452,
       "num": 296452,
       "word": "RNG真没打野了",
@@ -459,20 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287295,
-      "num": 287295,
-      "word": "秦彻不设防禁区",
-      "onboard_time": 1720584619,
-      "rank": 24,
+      "raw_hot": 287427,
+      "num": 287427,
+      "word": "秦彻新pv",
+      "onboard_time": 1720585039,
+      "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286976,
-      "num": 286976,
-      "word": "网约车 无人驾驶",
-      "onboard_time": 1720584319,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 283447,
@@ -523,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221418,
+      "num": 221418,
+      "word": "冰箱放了两天的西瓜真的不能吃",
+      "onboard_time": 1720584440,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 218280,
       "num": 218280,
       "word": "专家称发现结节就想手术是制造焦虑",
@@ -537,6 +553,14 @@
       "onboard_time": 1720552871,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215296,
+      "num": 215296,
+      "word": "忆江南亲了",
+      "onboard_time": 1720585880,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 214901,
@@ -587,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204869,
+      "num": 204869,
+      "word": "单人买电影票不能选C位合理吗",
+      "onboard_time": 1720583779,
+      "rank": 30,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 202111,
       "num": 202111,
       "word": "张婧仪度假风生日照",
@@ -595,20 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201008,
-      "num": 201008,
-      "word": "单人买电影票不能选C位合理吗",
-      "onboard_time": 1720583779,
-      "rank": 30,
-      "category": "社会新闻,电影"
-    },
-    {
-      "raw_hot": 199611,
-      "num": 199611,
-      "word": "秦彻新pv",
-      "onboard_time": 1720585039,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 198287,
+      "num": 198287,
+      "word": "长相思 加戏",
+      "onboard_time": 1720585998,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197881,
@@ -635,14 +659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190441,
-      "num": 190441,
-      "word": "冰箱放了两天的西瓜真的不能吃",
-      "onboard_time": 1720584440,
-      "rank": 33,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 186149,
       "num": 186149,
       "word": "吉鲁退出法国国家队",
@@ -665,6 +681,14 @@
       "onboard_time": 1720582338,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183650,
+      "num": 183650,
+      "word": "在川渝上大学相当于一次爆改",
+      "onboard_time": 1720585760,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 181624,
@@ -755,6 +779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165836,
+      "num": 165836,
+      "word": "A股",
+      "onboard_time": 1720585578,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165136,
+      "num": 165136,
+      "word": "爱豆 情绪价值",
+      "onboard_time": 1720584918,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -779,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158551,
+      "num": 158551,
+      "word": "涂山璟 窝囊",
+      "onboard_time": 1720586119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "29个月的小朋友独自去买苹果汁",
@@ -795,12 +843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154946,
+      "num": 154946,
+      "word": "唐朝诡事录",
+      "onboard_time": 1720586179,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154369,
       "num": 154369,
       "word": "当男朋友的妈妈知道我是美术生",
       "onboard_time": 1720575496,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154191,
+      "num": 154191,
+      "word": "B太说被300主播针对",
+      "onboard_time": 1720586059,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 151574,
@@ -825,14 +889,6 @@
       "onboard_time": 1720528938,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143929,
-      "num": 143929,
-      "word": "爱豆 情绪价值",
-      "onboard_time": 1720584918,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143709,
@@ -868,7 +924,7 @@
     },
     {
       "raw_hot": 134818,
-      "num": 801203,
+      "num": 1028808,
       "word": "OpenAI恐成美国情报部门帮凶",
       "onboard_time": 1720575258,
       "rank": 2,
@@ -985,6 +1041,14 @@
       "onboard_time": 1720529240,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105513,
+      "num": 462030,
+      "word": "摆渡车成景区新价格刺客",
+      "onboard_time": 1720584018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104351,
@@ -1187,14 +1251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64161,
-      "num": 462030,
-      "word": "摆渡车成景区新价格刺客",
-      "onboard_time": 1720584018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64024,
       "num": 124672,
       "word": "傅园慧要去浙大当老师了",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1720543934,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30608,
+      "num": 306474,
+      "word": "上海一社区食堂推出剩菜盲盒",
+      "onboard_time": 1720579936,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30417,

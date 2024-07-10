@@ -1,0 +1,410 @@
+{
+  "runTime": 1720586270036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573115,
+        "num": 1573115,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 0,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 1149843,
+        "num": 1149843,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115524,
+        "num": 1028808,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 959919,
+        "num": 959919,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 575949,
+        "num": 575949,
+        "word": "玱玹九个老婆唯独没有小夭",
+        "onboard_time": 1720578077,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566605,
+        "num": 566605,
+        "word": "女装退货率高背后是货不对版",
+        "onboard_time": 1720580418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556920,
+        "num": 556920,
+        "word": "唐朝诡事录处处贬",
+        "onboard_time": 1720580239,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503171,
+        "num": 503171,
+        "word": "蓝盈莹14年前VS14年后",
+        "onboard_time": 1720583358,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474114,
+        "num": 474114,
+        "word": "BLACKPINK巡演大电影预告片",
+        "onboard_time": 1720584978,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 412736,
+        "num": 412736,
+        "word": "无痛分娩那么好为何普及率却不高",
+        "onboard_time": 1720578558,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489542,
+        "num": 411782,
+        "word": "一58岁中国籍男子登富士山时死亡",
+        "onboard_time": 1720582698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431081,
+        "num": 411263,
+        "word": "内耗的人都有一个共同点",
+        "onboard_time": 1720580598,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410588,
+        "num": 410588,
+        "word": "网约车 无人驾驶",
+        "onboard_time": 1720584319,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351823,
+        "num": 351823,
+        "word": "骗子用出国月薪3万骗了1000多万",
+        "onboard_time": 1720575138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322138,
+        "num": 322138,
+        "word": "小米回应被格力起诉",
+        "onboard_time": 1720579098,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 30608,
+        "num": 306474,
+        "word": "上海一社区食堂推出剩菜盲盒",
+        "onboard_time": 1720579936,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306461,
+        "num": 306461,
+        "word": "秦彻不设防禁区",
+        "onboard_time": 1720584619,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301825,
+        "num": 301825,
+        "word": "BLG官宣Wei加入",
+        "onboard_time": 1720583958,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299130,
+        "num": 299130,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287427,
+        "num": 287427,
+        "word": "秦彻新pv",
+        "onboard_time": 1720585039,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401077,
+        "num": 286062,
+        "word": "跳舞五个月后老公不认识我了",
+        "onboard_time": 1720576697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272542,
+        "num": 272542,
+        "word": "玱玹发疯",
+        "onboard_time": 1720580239,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264552,
+        "num": 264552,
+        "word": "任嘉伦扒了五分钟的蛋掉了",
+        "onboard_time": 1720579638,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233102,
+        "num": 233102,
+        "word": "梅西给6个月大的亚马尔洗过澡",
+        "onboard_time": 1720575976,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229895,
+        "num": 229895,
+        "word": "RNG真没打野了",
+        "onboard_time": 1720583658,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228107,
+        "num": 228107,
+        "word": "孙颖莎上榜巴黎奥运最值得关注运动员",
+        "onboard_time": 1720579817,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221418,
+        "num": 221418,
+        "word": "冰箱放了两天的西瓜真的不能吃",
+        "onboard_time": 1720584440,
+        "rank": 26,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 355743,
+        "num": 219538,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1720581497,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 215296,
+        "num": 215296,
+        "word": "忆江南亲了",
+        "onboard_time": 1720585880,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29380,
+        "num": 212562,
+        "word": "尼山再提新轴心文明愿景",
+        "onboard_time": 1720581497,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211994,
+        "num": 211994,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211630,
+        "num": 211630,
+        "word": "原来韩国人吃周翊然这种",
+        "onboard_time": 1720569616,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204869,
+        "num": 204869,
+        "word": "单人买电影票不能选C位合理吗",
+        "onboard_time": 1720583779,
+        "rank": 32,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 198287,
+        "num": 198287,
+        "word": "长相思 加戏",
+        "onboard_time": 1720585998,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 188190,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183650,
+        "num": 183650,
+        "word": "在川渝上大学相当于一次爆改",
+        "onboard_time": 1720585760,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183299,
+        "num": 183299,
+        "word": "黄子韬爱豆出身",
+        "onboard_time": 1720583718,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176338,
+        "num": 176338,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170264,
+        "num": 170264,
+        "word": "亚马尔说偶像是内马尔",
+        "onboard_time": 1720582338,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165836,
+        "num": 165836,
+        "word": "A股",
+        "onboard_time": 1720585578,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165136,
+        "num": 165136,
+        "word": "爱豆 情绪价值",
+        "onboard_time": 1720584918,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105513,
+        "num": 163118,
+        "word": "摆渡车成景区新价格刺客",
+        "onboard_time": 1720584018,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162152,
+        "num": 162152,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 159409,
+        "word": "洞庭湖全线退出警戒水位",
+        "onboard_time": 1720574538,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158551,
+        "num": 158551,
+        "word": "涂山璟 窝囊",
+        "onboard_time": 1720586119,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154946,
+        "num": 154946,
+        "word": "唐朝诡事录",
+        "onboard_time": 1720586179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154191,
+        "num": 154191,
+        "word": "B太说被300主播针对",
+        "onboard_time": 1720586059,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142466,
+        "num": 142466,
+        "word": "女子5000万购法院查封房后钱房两空",
+        "onboard_time": 1720576277,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136508,
+        "num": 136508,
+        "word": "小水新剧是1女vs9男",
+        "onboard_time": 1720578917,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125990,
+        "num": 125990,
+        "word": "怦然4体面的喜欢破碎的告别",
+        "onboard_time": 1720583358,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}
