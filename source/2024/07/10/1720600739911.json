@@ -1,0 +1,410 @@
+{
+  "runTime": 1720600739911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 685363,
+        "num": 685363,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481242,
+        "num": 481242,
+        "word": "哈理工回应考生笔试成绩由47改为85",
+        "onboard_time": 1720593378,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 102261,
+        "num": 376690,
+        "word": "藏在录取通知书里的硬核浪漫",
+        "onboard_time": 1720595236,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639558,
+        "num": 374298,
+        "word": "温太医沈眉庄大婚",
+        "onboard_time": 1720589119,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355404,
+        "num": 355404,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314107,
+        "num": 314107,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 5,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 613039,
+        "num": 313928,
+        "word": "华晨宇 直播呢",
+        "onboard_time": 1720599618,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521168,
+        "num": 313607,
+        "word": "娜然 我不是妲己我是夏禾",
+        "onboard_time": 1720595719,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311284,
+        "num": 311284,
+        "word": "80后考公人连考10年还没上岸",
+        "onboard_time": 1720596019,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 300607,
+        "word": "满手油污的交警被司机夸成社恐",
+        "onboard_time": 1720600218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291151,
+        "num": 295654,
+        "word": "女子酒吧上厕所发现便池卡着一手机",
+        "onboard_time": 1720596978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514790,
+        "num": 282062,
+        "word": "歌手2024官宣lenka",
+        "onboard_time": 1720598537,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490513,
+        "num": 266843,
+        "word": "赵露思深U上衣",
+        "onboard_time": 1720597217,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 480554,
+        "num": 256990,
+        "word": "何老师预判了王栎鑫的预判",
+        "onboard_time": 1720596678,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248068,
+        "num": 248068,
+        "word": "北大教授反对提高个税起征点",
+        "onboard_time": 1720590557,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 350344,
+        "num": 247797,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246911,
+        "num": 246911,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1720592418,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244606,
+        "num": 244606,
+        "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
+        "onboard_time": 1720597878,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 203107,
+        "num": 203107,
+        "word": "暑假的崩溃式旅游有多可怕",
+        "onboard_time": 1720597397,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190381,
+        "num": 190381,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1197494,
+        "num": 190105,
+        "word": "混装油罐车曾停靠中粮和金龙鱼工厂",
+        "onboard_time": 1720596558,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326749,
+        "num": 189828,
+        "word": "鞠婧祎妆造",
+        "onboard_time": 1720595778,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304194,
+        "num": 189401,
+        "word": "长相思 加戏",
+        "onboard_time": 1720585998,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437111,
+        "num": 188976,
+        "word": "成立调查组彻查罐车运输食用油乱象",
+        "onboard_time": 1720597577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224503,
+        "num": 188629,
+        "word": "相柳给小夭的情书变成了遗书",
+        "onboard_time": 1720598417,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219040,
+        "num": 188188,
+        "word": "肖战工作室放的饭得用刀叉吃",
+        "onboard_time": 1720599499,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308468,
+        "num": 187793,
+        "word": "长寿花回应油罐车事件",
+        "onboard_time": 1720599618,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205971,
+        "num": 187191,
+        "word": "黄子韬徐艺洋娱乐圈文学",
+        "onboard_time": 1720593677,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "官方回应萝卜快跑碰撞事故",
+        "onboard_time": 1720595117,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184911,
+        "num": 184911,
+        "word": "亚马尔父亲才35岁",
+        "onboard_time": 1720599738,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181115,
+        "num": 181115,
+        "word": "攀娘 允儿",
+        "onboard_time": 1720599258,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176139,
+        "num": 176139,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175807,
+        "num": 175807,
+        "word": "成毅上半年商务断层TOP1",
+        "onboard_time": 1720598178,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170879,
+        "num": 170879,
+        "word": "好奇有韩国人追中国明星的吗",
+        "onboard_time": 1720588698,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167311,
+        "num": 167311,
+        "word": "檀健次 空降",
+        "onboard_time": 1720596498,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154747,
+        "num": 154747,
+        "word": "研究称气候崩溃迹象已显现",
+        "onboard_time": 1720597397,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147299,
+        "num": 147299,
+        "word": "范丞丞误伤李晨",
+        "onboard_time": 1720595358,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54547,
+        "num": 147010,
+        "word": "如果露营只能带一件装备",
+        "onboard_time": 1720595358,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146997,
+        "num": 146997,
+        "word": "涂山璟 窝囊",
+        "onboard_time": 1720586119,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135215,
+        "num": 135215,
+        "word": "女装退货率高背后是货不对版",
+        "onboard_time": 1720580418,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127709,
+        "num": 127709,
+        "word": "苏醒成功预判西班牙进决赛",
+        "onboard_time": 1720597699,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 125504,
+        "num": 125504,
+        "word": "忆江南cp官宣",
+        "onboard_time": 1720588639,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125300,
+        "num": 125300,
+        "word": "赵昭仪 姐你牙龈出血了",
+        "onboard_time": 1720589298,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50792,
+        "num": 121779,
+        "word": "伦敦大学研究发现河马会飞",
+        "onboard_time": 1720599978,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119001,
+        "num": 119001,
+        "word": "冰箱放了两天的西瓜真的不能吃",
+        "onboard_time": 1720584440,
+        "rank": 44,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 110704,
+        "num": 110704,
+        "word": "剧版画皮",
+        "onboard_time": 1720600098,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106659,
+        "num": 106659,
+        "word": "黄晓明 Daddy味",
+        "onboard_time": 1720600578,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104150,
+        "num": 104150,
+        "word": "忆江南亲了",
+        "onboard_time": 1720585880,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104133,
+        "num": 104133,
+        "word": "新华社评罐车运输食用油",
+        "onboard_time": 1720600578,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100778,
+        "num": 100778,
+        "word": "黄岩岛海域生态环境全面体检",
+        "onboard_time": 1720593979,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向模范火箭炮兵连颁授奖旗#"
+    }
+  }
+}
