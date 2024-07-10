@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720575865391,
+  "endTime": 1720579004011,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1443,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1014618,
+      "num": 1014618,
+      "word": "骗子用出国月薪3万骗了1000多万",
+      "onboard_time": 1720575138,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014439,
       "num": 227724,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -2171,6 +2179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 829739,
+      "num": 829739,
+      "word": "你们蛇的衣服是同一家店买的吗",
+      "onboard_time": 1720573398,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 828874,
       "num": 824932,
       "word": "廊坊市监局回应化工油食用油混装事件",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1719821536,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 749235,
-      "num": 361862,
-      "word": "你们蛇的衣服是同一家店买的吗",
-      "onboard_time": 1720573398,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 743943,
@@ -3915,6 +3923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587127,
+      "num": 237172,
+      "word": "跳舞五个月后老公不认识我了",
+      "onboard_time": 1720576697,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584844,
       "num": 584844,
       "word": "恋爱兄妹",
@@ -4225,6 +4241,14 @@
       "onboard_time": 1720496359,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 563332,
+      "num": 563332,
+      "word": "梅西给6个月大的亚马尔洗过澡",
+      "onboard_time": 1720575976,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 561954,
@@ -5049,6 +5073,14 @@
       "onboard_time": 1720061537,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 495497,
+      "num": 495497,
+      "word": "洞庭湖全线退出警戒水位",
+      "onboard_time": 1720574538,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495310,
@@ -6307,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431756,
+      "num": 431756,
+      "word": "相柳弹琴好尬",
+      "onboard_time": 1720574896,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431693,
       "num": 431693,
       "word": "雷军首爆新机进度",
@@ -7035,6 +7075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386185,
+      "num": 386185,
+      "word": "格力诉小米米家电风扇侵权一案胜诉",
+      "onboard_time": 1720573937,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385771,
       "num": 321581,
       "word": "印度决定放宽对中国工人的签证限制",
@@ -7385,6 +7433,14 @@
       "onboard_time": 1720342278,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 371010,
+      "num": 371010,
+      "word": "玱玹九个老婆唯独没有小夭",
+      "onboard_time": 1720578077,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 370876,
@@ -9235,6 +9291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286293,
+      "num": 286293,
+      "word": "女子5000万购法院查封房后钱房两空",
+      "onboard_time": 1720576277,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "唐嫣刘亦菲佟大为早期合照",
@@ -9867,28 +9931,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 258681,
-      "num": 258681,
-      "word": "洞庭湖全线退出警戒水位",
-      "onboard_time": 1720574538,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258250,
       "num": 258250,
       "word": "王逗逗账号被助理偷走",
       "onboard_time": 1720050137,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 258038,
-      "num": 258038,
-      "word": "相柳弹琴好尬",
-      "onboard_time": 1720574896,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 257923,
@@ -11267,6 +11315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 218280,
+      "num": 218280,
+      "word": "专家称发现结节就想手术是制造焦虑",
+      "onboard_time": 1720572978,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218135,
       "num": 218135,
       "word": "杨紫哭戏",
@@ -11745,6 +11801,14 @@
       "onboard_time": 1720572378,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209984,
+      "num": 209984,
+      "word": "时代少年团加盟青春芒果夜",
+      "onboard_time": 1720578618,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209903,
@@ -13499,14 +13563,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 190924,
-      "num": 190924,
-      "word": "格力诉小米米家电风扇侵权一案胜诉",
-      "onboard_time": 1720573937,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190897,
       "num": 190897,
       "word": "杨紫晒小夭海报",
@@ -13865,6 +13921,14 @@
       "onboard_time": 1720113613,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 188298,
+      "num": 188298,
+      "word": "小水新剧是1女vs9男",
+      "onboard_time": 1720578917,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188207,
@@ -14993,14 +15057,6 @@
       "onboard_time": 1720232477,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174700,
-      "num": 174700,
-      "word": "专家称发现结节就想手术是制造焦虑",
-      "onboard_time": 1720572978,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174394,
@@ -16411,14 +16467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157273,
-      "num": 157273,
-      "word": "骗子用出国月薪3万骗了1000多万",
-      "onboard_time": 1720575138,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157267,
       "num": 157267,
       "word": "INFJ为什么是天选大女主",
@@ -16449,6 +16497,14 @@
       "onboard_time": 1719974417,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157054,
+      "num": 157054,
+      "word": "29个月的小朋友独自去买苹果汁",
+      "onboard_time": 1720575375,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 157009,
@@ -17187,6 +17243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150668,
+      "num": 150668,
+      "word": "萧敬腾 成都下雨",
+      "onboard_time": 1720578739,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "海天雄鹰把我眼泪撞决堤了",
@@ -17633,14 +17697,6 @@
       "onboard_time": 1720518259,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145680,
-      "num": 145680,
-      "word": "29个月的小朋友独自去买苹果汁",
-      "onboard_time": 1720575375,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 145650,
@@ -18217,6 +18273,14 @@
       "onboard_time": 1720458133,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140865,
+      "num": 140865,
+      "word": "阿根廷2比0加拿大",
+      "onboard_time": 1720577538,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 140807,
@@ -18891,6 +18955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135682,
+      "num": 135682,
+      "word": "无痛分娩那么好为何普及率却不高",
+      "onboard_time": 1720578558,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "世界上持续时间最久的实验",
@@ -19281,6 +19353,14 @@
       "onboard_time": 1719844699,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131731,
+      "num": 795703,
+      "word": "OpenAI恐成美国情报部门帮凶",
+      "onboard_time": 1720575258,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131672,
@@ -20433,6 +20513,14 @@
       "onboard_time": 1720328898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121791,
+      "num": 121791,
+      "word": "阿根廷晋级美洲杯决赛",
+      "onboard_time": 1720578138,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 121607,
@@ -22779,6 +22867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94685,
+      "num": 202165,
+      "word": "女生用567个小时绣出一场璀璨铁花",
+      "onboard_time": 1720575857,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94652,
       "num": 94652,
       "word": "Faker获电竞世界杯FMVP",
@@ -23851,6 +23947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65854,
+      "num": 361172,
+      "word": "暑期健康这样抄作业",
+      "onboard_time": 1720575438,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65831,
       "num": 329398,
       "word": "延续600年3项创举解决水利难题",
@@ -24057,14 +24161,6 @@
       "onboard_time": 1720183579,
       "rank": 16,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 62289,
-      "num": 795703,
-      "word": "OpenAI恐成美国情报部门帮凶",
-      "onboard_time": 1720575258,
-      "rank": 2,
-      "category": "国外时政"
     },
     {
       "raw_hot": 62281,
@@ -25339,14 +25435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38717,
-      "num": 174662,
-      "word": "暑期健康这样抄作业",
-      "onboard_time": 1720575438,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 38682,
       "num": 46307,
       "word": "欢迎来到我身边番外彩蛋",
@@ -26137,6 +26225,14 @@
       "onboard_time": 1719952270,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24984,
+      "num": 360670,
+      "word": "尼山论什么",
+      "onboard_time": 1720576999,
+      "rank": 13,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 24912,

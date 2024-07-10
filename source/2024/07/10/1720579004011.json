@@ -1,0 +1,410 @@
+{
+  "runTime": 1720579004011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014618,
+        "num": 1014618,
+        "word": "骗子用出国月薪3万骗了1000多万",
+        "onboard_time": 1720575138,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829739,
+        "num": 829739,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131731,
+        "num": 647095,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 563332,
+        "num": 563332,
+        "word": "梅西给6个月大的亚马尔洗过澡",
+        "onboard_time": 1720575976,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495497,
+        "num": 495497,
+        "word": "洞庭湖全线退出警戒水位",
+        "onboard_time": 1720574538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477799,
+        "num": 477799,
+        "word": "原来韩国人吃周翊然这种",
+        "onboard_time": 1720569616,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459439,
+        "num": 459439,
+        "word": "官方通报2公职人员偷豆角",
+        "onboard_time": 1720567095,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431756,
+        "num": 431756,
+        "word": "相柳弹琴好尬",
+        "onboard_time": 1720574896,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429316,
+        "num": 429316,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 386185,
+        "num": 386185,
+        "word": "格力诉小米米家电风扇侵权一案胜诉",
+        "onboard_time": 1720573937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371010,
+        "num": 371010,
+        "word": "玱玹九个老婆唯独没有小夭",
+        "onboard_time": 1720578077,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362702,
+        "num": 362702,
+        "word": "梅西进球",
+        "onboard_time": 1720574418,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65854,
+        "num": 361172,
+        "word": "暑期健康这样抄作业",
+        "onboard_time": 1720575438,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24984,
+        "num": 360670,
+        "word": "尼山论什么",
+        "onboard_time": 1720576999,
+        "rank": 13,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 360368,
+        "num": 360368,
+        "word": "人生大事竟然都在上班的夹缝完成",
+        "onboard_time": 1720568897,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309876,
+        "num": 309876,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294954,
+        "num": 294954,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290336,
+        "num": 290336,
+        "word": "4岁姐姐抱着8个月壮汉弟弟",
+        "onboard_time": 1720566614,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286293,
+        "num": 286293,
+        "word": "女子5000万购法院查封房后钱房两空",
+        "onboard_time": 1720576277,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237538,
+        "num": 237538,
+        "word": "相柳为什么狠绝杀了防风邶",
+        "onboard_time": 1720572318,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587127,
+        "num": 237172,
+        "word": "跳舞五个月后老公不认识我了",
+        "onboard_time": 1720576697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331453,
+        "num": 234999,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225008,
+        "num": 225008,
+        "word": "我爸开的饭店厕所里有卫生巾",
+        "onboard_time": 1720568475,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218280,
+        "num": 218280,
+        "word": "专家称发现结节就想手术是制造焦虑",
+        "onboard_time": 1720572978,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209984,
+        "num": 209984,
+        "word": "时代少年团加盟青春芒果夜",
+        "onboard_time": 1720578618,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94685,
+        "num": 202165,
+        "word": "女生用567个小时绣出一场璀璨铁花",
+        "onboard_time": 1720575857,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196738,
+        "num": 196738,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188298,
+        "num": 188298,
+        "word": "小水新剧是1女vs9男",
+        "onboard_time": 1720578917,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170526,
+        "num": 170526,
+        "word": "把高考志愿存在草稿箱忘记提交了",
+        "onboard_time": 1720571899,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161095,
+        "num": 161095,
+        "word": "西班牙2比1法国",
+        "onboard_time": 1720559350,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160592,
+        "num": 160592,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157054,
+        "num": 157054,
+        "word": "29个月的小朋友独自去买苹果汁",
+        "onboard_time": 1720575375,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150668,
+        "num": 150668,
+        "word": "萧敬腾 成都下雨",
+        "onboard_time": 1720578739,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149667,
+        "num": 149667,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145435,
+        "num": 145435,
+        "word": "吴昕说卢昱晓长得周正",
+        "onboard_time": 1720572499,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143518,
+        "num": 143518,
+        "word": "亚马尔 天才少年",
+        "onboard_time": 1720570458,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140865,
+        "num": 140865,
+        "word": "阿根廷2比0加拿大",
+        "onboard_time": 1720577538,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 140456,
+        "word": "多家影院回应单人购票选座受限制",
+        "onboard_time": 1720574658,
+        "rank": 37,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 138558,
+        "num": 138558,
+        "word": "婚礼上最没有必要的支出",
+        "onboard_time": 1720572378,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136261,
+        "num": 136261,
+        "word": "西班牙vs法国",
+        "onboard_time": 1720535959,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135682,
+        "num": 135682,
+        "word": "无痛分娩那么好为何普及率却不高",
+        "onboard_time": 1720578558,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128095,
+        "num": 128095,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127688,
+        "num": 127688,
+        "word": "中国男篮vs马刺",
+        "onboard_time": 1720574838,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121791,
+        "num": 121791,
+        "word": "阿根廷晋级美洲杯决赛",
+        "onboard_time": 1720578138,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120624,
+        "num": 120624,
+        "word": "大热天女孩被困车内民警果断砸窗救人",
+        "onboard_time": 1720573039,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 120422,
+        "word": "西班牙逆转晋级决赛",
+        "onboard_time": 1720559350,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119549,
+        "num": 119549,
+        "word": "跌200万后女子要卖掉能看西湖的房子",
+        "onboard_time": 1720536620,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118711,
+        "num": 118711,
+        "word": "美一客机起飞后被通知轮子掉了",
+        "onboard_time": 1720573338,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115932,
+        "num": 115932,
+        "word": "当男朋友的妈妈知道我是美术生",
+        "onboard_time": 1720575496,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112366,
+        "num": 112366,
+        "word": "清华大学博士情侣毕业奔赴祖国中部",
+        "onboard_time": 1720537999,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行荣誉称号颁授仪式#"
+    }
+  }
+}
