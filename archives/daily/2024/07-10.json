@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720618477814,
+  "endTime": 1720621110591,
   "band_list": [
     {
       "raw_hot": 2153029,
@@ -17,6 +17,14 @@
       "onboard_time": 1720589119,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1574786,
+      "num": 874598,
+      "word": "入职了情趣用品公司不敢告诉妈妈",
+      "onboard_time": 1720616418,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1573115,
@@ -40,14 +48,6 @@
       "word": "混装油罐车曾停靠中粮和金龙鱼工厂",
       "onboard_time": 1720596558,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1522989,
-      "num": 460481,
-      "word": "入职了情趣用品公司不敢告诉妈妈",
-      "onboard_time": 1720616418,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 994354,
-      "num": 265172,
+      "num": 351133,
       "word": "孙怡 这也不怎么样啊",
       "onboard_time": 1720608799,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 916644,
+      "num": 916644,
+      "word": "上海暴雨",
+      "onboard_time": 1720617559,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900056,
       "num": 900056,
       "word": "729声明",
@@ -179,11 +187,27 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 882393,
+      "num": 882393,
+      "word": "黄霄雲面部腿部受伤",
+      "onboard_time": 1720619420,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881362,
       "num": 881362,
       "word": "玱玹九个老婆唯独没有小夭",
       "onboard_time": 1720578077,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 873239,
+      "num": 873239,
+      "word": "涂山璟粉底液避雷",
+      "onboard_time": 1720618219,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 775856,
-      "num": 201792,
+      "num": 261531,
       "word": "终于有人把结婚的意义讲明白了",
       "onboard_time": 1720612339,
       "rank": 24,
@@ -275,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694097,
+      "num": 262217,
+      "word": "当不婚的小姨成了外甥最好的朋友",
+      "onboard_time": 1720616660,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685539,
       "num": 685539,
       "word": "跌200万后女子要卖掉能看西湖的房子",
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 665329,
-      "num": 203527,
+      "num": 261915,
       "word": "脖子和腋下的小肉粒到底是啥",
       "onboard_time": 1720606218,
       "rank": 21,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 607219,
-      "num": 169894,
+      "num": 237151,
       "word": "马云回国现身阿里总部",
       "onboard_time": 1720614317,
       "rank": 30,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 469643,
-      "num": 174243,
+      "num": 261314,
       "word": "朋友被裁员拿到了50万经济补偿",
       "onboard_time": 1720614739,
       "rank": 39,
@@ -665,14 +697,6 @@
       "onboard_time": 1720580239,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429509,
-      "num": 429509,
-      "word": "上海暴雨",
-      "onboard_time": 1720617559,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421134,
@@ -811,6 +835,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353632,
+      "num": 353632,
+      "word": "檀健次直播",
+      "onboard_time": 1720617678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 352717,
+      "num": 352717,
+      "word": "日本两男子将同事放洗衣机搅拌",
+      "onboard_time": 1720616418,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352474,
       "num": 262945,
       "word": "纪委调查公务员与教师摘豆角引纠纷",
@@ -819,11 +859,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350286,
-      "num": 160801,
-      "word": "当不婚的小姨成了外甥最好的朋友",
-      "onboard_time": 1720616660,
-      "rank": 26,
+      "raw_hot": 351075,
+      "num": 351075,
+      "word": "约五成大学生校园冷暴力发生在宿舍",
+      "onboard_time": 1720616418,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 344906,
-      "num": 200591,
+      "num": 248890,
       "word": "这5种水果晚上千万别吃",
       "onboard_time": 1720612698,
       "rank": 25,
@@ -947,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304236,
+      "num": 304236,
+      "word": "奥运会倒计时",
+      "onboard_time": 1720617859,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298259,
+      "num": 298259,
+      "word": "三星发布会",
+      "onboard_time": 1720618399,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 297844,
       "num": 259680,
       "word": "EXO和NCT被诈骗地址信息",
@@ -1019,12 +1075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264769,
+      "num": 264769,
+      "word": "植物大战僵尸杂交版作者初中毕业",
+      "onboard_time": 1720619899,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262996,
       "num": 195993,
       "word": "摩羯座主动打电话的含金量",
       "onboard_time": 1720605799,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261218,
+      "num": 261218,
+      "word": "万茜头发长了",
+      "onboard_time": 1720617799,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260188,
@@ -1040,14 +1112,6 @@
       "word": "邓为直播",
       "onboard_time": 1720606277,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258664,
-      "num": 258664,
-      "word": "涂山璟粉底液避雷",
-      "onboard_time": 1720618219,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -1073,14 +1137,6 @@
       "onboard_time": 1720570098,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248493,
-      "num": 248493,
-      "word": "檀健次直播",
-      "onboard_time": 1720617678,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 248001,
@@ -1115,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236172,
+      "num": 236172,
+      "word": "涂山璟这台词是我能听的吗",
+      "onboard_time": 1720618880,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235140,
       "num": 235140,
       "word": "大乔绒语心约皮肤",
       "onboard_time": 1720614439,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235027,
+      "num": 235027,
+      "word": "杨紫新剧造型好像旺仔",
+      "onboard_time": 1720618157,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 232955,
@@ -1147,20 +1219,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 227067,
-      "num": 159315,
-      "word": "万茜头发长了",
-      "onboard_time": 1720617799,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224503,
       "num": 218018,
       "word": "相柳给小夭的情书变成了遗书",
       "onboard_time": 1720598417,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223832,
+      "num": 223832,
+      "word": "WBG状态",
+      "onboard_time": 1720620320,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 218280,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1720552871,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215260,
-      "num": 158812,
-      "word": "杨紫新剧造型好像旺仔",
-      "onboard_time": 1720618157,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 214901,
@@ -1243,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208793,
-      "num": 208793,
-      "word": "奥运会倒计时",
-      "onboard_time": 1720617859,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207563,
       "num": 207563,
       "word": "铠圣斗士皮肤",
@@ -1299,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203536,
+      "num": 203536,
+      "word": "鞠婧祎与Glass主编合照",
+      "onboard_time": 1720620680,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203246,
       "num": 130931,
       "word": "杨紫直播",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1720610659,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199039,
+      "num": 238017,
+      "word": "切好的西瓜最好不要买",
+      "onboard_time": 1720619180,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198895,
@@ -1451,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187189,
+      "num": 187189,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1720620499,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186149,
       "num": 186149,
       "word": "吉鲁退出法国国家队",
@@ -1539,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179079,
+      "num": 179079,
+      "word": "这下轮到老外睁眼看中国了",
+      "onboard_time": 1720618339,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178687,
       "num": 454103,
       "word": "大热天女孩被困车内民警果断砸窗救人",
@@ -1569,14 +1657,6 @@
       "onboard_time": 1720574658,
       "rank": 31,
       "category": "社会新闻,电影"
-    },
-    {
-      "raw_hot": 174542,
-      "num": 174542,
-      "word": "三星发布会",
-      "onboard_time": 1720618399,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 174257,
@@ -1617,6 +1697,14 @@
       "onboard_time": 1720582397,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171350,
+      "num": 171350,
+      "word": "杨紫嗑阿念蓐收",
+      "onboard_time": 1720620439,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 170602,
@@ -1697,6 +1785,14 @@
       "onboard_time": 1720595300,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161262,
+      "num": 161262,
+      "word": "张馨予的37岁状态",
+      "onboard_time": 1720620379,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 160020,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1720608199,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143933,
+      "num": 143933,
+      "word": "姆巴佩将身披皇马9号",
+      "onboard_time": 1720620259,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 143709,
@@ -2043,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131536,
+      "num": 118410,
+      "word": "刘诗诗生图直拍",
+      "onboard_time": 1720620619,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130875,
       "num": 107648,
       "word": "闵庚勋11月结婚",
@@ -2097,14 +2209,6 @@
       "onboard_time": 1720597699,
       "rank": 42,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 126882,
-      "num": 271184,
-      "word": "约五成大学生校园冷暴力发生在宿舍",
-      "onboard_time": 1720616418,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126626,
@@ -2515,14 +2619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98476,
-      "num": 112894,
-      "word": "这下轮到老外睁眼看中国了",
-      "onboard_time": 1720618339,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97816,
       "num": 97816,
       "word": "摇光录吴亥强制爱",
@@ -2763,6 +2859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65625,
+      "num": 351581,
+      "word": "甘肃沙漠种树人被自己的成就震撼了",
+      "onboard_time": 1720619300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65150,
+      "num": 351143,
+      "word": "李宁对话李宁",
+      "onboard_time": 1720618698,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64884,
       "num": 647354,
       "word": "伟大的历史变革",
@@ -2905,6 +3017,14 @@
       "onboard_time": 1720538358,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50803,
+      "num": 874905,
+      "word": "我国综合立体交通网总里程超600万公里",
+      "onboard_time": 1720619059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50792,
@@ -3091,12 +3211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27529,
+      "num": 262957,
+      "word": "撒贝宁骑雅迪抓鸭子",
+      "onboard_time": 1720619479,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27251,
       "num": 140626,
       "word": "为人类文明发展提供中国方案",
       "onboard_time": 1720580418,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27107,
+      "num": 262865,
+      "word": "撒贝宁骑雅迪过搓衣板",
+      "onboard_time": 1720619479,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 24691,
@@ -3191,6 +3327,9 @@
     },
     {
       "word": "#习近平会见孟加拉国总理哈西娜#"
+    },
+    {
+      "word": "#习近平同几内亚比绍总统恩巴洛会谈#"
     }
   ]
 }
