@@ -1,0 +1,410 @@
+{
+  "runTime": 1720574591484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167853,
+        "num": 1167853,
+        "word": "官方通报2公职人员偷豆角",
+        "onboard_time": 1720567095,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717027,
+        "num": 717027,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64884,
+        "num": 647354,
+        "word": "伟大的历史变革",
+        "onboard_time": 1720531460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798988,
+        "num": 643675,
+        "word": "原来韩国人吃周翊然这种",
+        "onboard_time": 1720569616,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 595469,
+        "num": 595469,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545767,
+        "num": 545767,
+        "word": "4岁姐姐抱着8个月壮汉弟弟",
+        "onboard_time": 1720566614,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506973,
+        "num": 506973,
+        "word": "涂山璟 此身从此分明了",
+        "onboard_time": 1720535959,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458756,
+        "num": 458756,
+        "word": "为什么现在电视剧都是1女N男",
+        "onboard_time": 1720537878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454901,
+        "num": 454901,
+        "word": "相柳为什么狠绝杀了防风邶",
+        "onboard_time": 1720572318,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68592,
+        "num": 454103,
+        "word": "大热天女孩被困车内民警果断砸窗救人",
+        "onboard_time": 1720573039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243167,
+        "num": 454103,
+        "word": "人生大事竟然都在上班的夹缝完成",
+        "onboard_time": 1720568897,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454103,
+        "num": 454102,
+        "word": "跌200万后女子要卖掉能看西湖的房子",
+        "onboard_time": 1720536620,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344786,
+        "num": 344786,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286240,
+        "num": 286240,
+        "word": "西班牙vs法国",
+        "onboard_time": 1720535959,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283447,
+        "num": 283447,
+        "word": "亚马尔 天才少年",
+        "onboard_time": 1720570458,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276483,
+        "num": 276483,
+        "word": "失踪22年美国登山者遗体被找到",
+        "onboard_time": 1720535120,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249788,
+        "num": 249788,
+        "word": "阿根廷vs加拿大",
+        "onboard_time": 1720570098,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247159,
+        "num": 247159,
+        "word": "清华大学博士情侣毕业奔赴祖国中部",
+        "onboard_time": 1720537999,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246933,
+        "num": 246933,
+        "word": "西班牙2比1法国",
+        "onboard_time": 1720559350,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238222,
+        "num": 238222,
+        "word": "黄晓明再次感谢虞书欣",
+        "onboard_time": 1720534459,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639333,
+        "num": 235602,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481781,
+        "num": 232274,
+        "word": "我爸开的饭店厕所里有卫生巾",
+        "onboard_time": 1720568475,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410662,
+        "num": 226281,
+        "word": "把高考志愿存在草稿箱忘记提交了",
+        "onboard_time": 1720571899,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 353866,
+        "num": 216232,
+        "word": "体制内到办公室的第一件事",
+        "onboard_time": 1720529660,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271995,
+        "num": 215555,
+        "word": "不想结节癌变千万避开这3种蔬菜",
+        "onboard_time": 1720537099,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210295,
+        "num": 210295,
+        "word": "婚礼上最没有必要的支出",
+        "onboard_time": 1720572378,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209811,
+        "num": 209811,
+        "word": "医生发现了我有畸胎瘤",
+        "onboard_time": 1720569137,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206525,
+        "num": 206525,
+        "word": "吴昕说卢昱晓长得周正",
+        "onboard_time": 1720572499,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192481,
+        "num": 192481,
+        "word": "美一客机起飞后被通知轮子掉了",
+        "onboard_time": 1720573338,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181758,
+        "num": 181758,
+        "word": "小夭的难堪众人的狂欢",
+        "onboard_time": 1720534819,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177441,
+        "num": 177441,
+        "word": "苏醒 披哥诀窍是抱王铮亮大腿",
+        "onboard_time": 1720567575,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155313,
+        "num": 155313,
+        "word": "漫画师画的杨紫",
+        "onboard_time": 1720574118,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "西班牙逆转晋级决赛",
+        "onboard_time": 1720559350,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148104,
+        "num": 148104,
+        "word": "三只羊在开发自营梅菜扣肉",
+        "onboard_time": 1720547473,
+        "rank": 33,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 144061,
+        "num": 144061,
+        "word": "729声明",
+        "onboard_time": 1720531219,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 143709,
+        "num": 143709,
+        "word": "西班牙欧洲杯史上唯一六连胜球队",
+        "onboard_time": 1720571059,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "专家称发现结节就想手术是制造焦虑",
+        "onboard_time": 1720572978,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137947,
+        "num": 137947,
+        "word": "欧洲杯半决赛",
+        "onboard_time": 1720536019,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "梅西进球",
+        "onboard_time": 1720574418,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130094,
+        "num": 130094,
+        "word": "下半年摩羯座扬眉吐气",
+        "onboard_time": 1720567874,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "长相思戏还没播完番外先出了",
+        "onboard_time": 1720538119,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124646,
+        "num": 124646,
+        "word": "我看全职看得想吐",
+        "onboard_time": 1720568237,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117711,
+        "num": 117711,
+        "word": "格力诉小米米家电风扇侵权一案胜诉",
+        "onboard_time": 1720573937,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116809,
+        "num": 116809,
+        "word": "4个部位出汗多暗示身体有问题",
+        "onboard_time": 1720548013,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109853,
+        "num": 109853,
+        "word": "台积电下周试产2nm芯片",
+        "onboard_time": 1720567756,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101402,
+        "num": 101402,
+        "word": "体制内对怀孕女性的态度",
+        "onboard_time": 1720517419,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 96197,
+        "num": 96197,
+        "word": "亚马尔",
+        "onboard_time": 1720570639,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96186,
+        "num": 96186,
+        "word": "小孩子脾胃不好尝试炒水",
+        "onboard_time": 1720568237,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94963,
+        "num": 94963,
+        "word": "中国人民解放军92950部队记一等功",
+        "onboard_time": 1720524017,
+        "rank": 48,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 90367,
+        "num": 90367,
+        "word": "洞庭湖全线退出警戒水位",
+        "onboard_time": 1720574538,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行荣誉称号颁授仪式#"
+    }
+  }
+}

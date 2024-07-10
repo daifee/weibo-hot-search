@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720568085665,
+  "endTime": 1720574591484,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1243167,
+      "num": 454103,
+      "word": "人生大事竟然都在上班的夹缝完成",
+      "onboard_time": 1720568897,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1239705,
       "num": 1239705,
       "word": "詹雯婷一审被判无罪",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1720273280,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1167853,
+      "num": 1167853,
+      "word": "官方通报2公职人员偷豆角",
+      "onboard_time": 1720567095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1167163,
@@ -2355,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798988,
+      "num": 643675,
+      "word": "原来韩国人吃周翊然这种",
+      "onboard_time": 1720569616,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 798025,
       "num": 268240,
       "word": "长期午睡和不午睡有何区别",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1719969438,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717027,
+      "num": 717027,
+      "word": "亚马尔 姆巴佩",
+      "onboard_time": 1720571598,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 716048,
@@ -3291,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639333,
+      "num": 235602,
+      "word": "女子1米6体重50斤仍在减肥",
+      "onboard_time": 1720567936,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638213,
       "num": 638213,
       "word": "Bin",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1720190181,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595469,
+      "num": 595469,
+      "word": "今年的录取通知书已经是NextLevel",
+      "onboard_time": 1720571658,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 595391,
@@ -5195,6 +5243,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 481781,
+      "num": 232274,
+      "word": "我爸开的饭店厕所里有卫生巾",
+      "onboard_time": 1720568475,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481639,
       "num": 396519,
       "word": "徐志胜 本来上班就烦",
@@ -5596,7 +5652,7 @@
     },
     {
       "raw_hot": 457623,
-      "num": 266509,
+      "num": 276483,
       "word": "失踪22年美国登山者遗体被找到",
       "onboard_time": 1720535120,
       "rank": 33,
@@ -5657,6 +5713,14 @@
       "onboard_time": 1720327756,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454901,
+      "num": 454901,
+      "word": "相柳为什么狠绝杀了防风邶",
+      "onboard_time": 1720572318,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 454787,
@@ -6555,12 +6619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410966,
-      "num": 161308,
-      "word": "女子1米6体重50斤仍在减肥",
-      "onboard_time": 1720567936,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 410662,
+      "num": 226281,
+      "word": "把高考志愿存在草稿箱忘记提交了",
+      "onboard_time": 1720571899,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 410501,
@@ -7880,6 +7944,14 @@
       "word": "适合在发工资这天换的头像",
       "onboard_time": 1719983958,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 344786,
+      "num": 344786,
+      "word": "你们蛇的衣服是同一家店买的吗",
+      "onboard_time": 1720573398,
+      "rank": 12,
       "category": "幽默"
     },
     {
@@ -9267,6 +9339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283447,
+      "num": 283447,
+      "word": "亚马尔 天才少年",
+      "onboard_time": 1720570458,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283432,
       "num": 283432,
       "word": "仙逆动画",
@@ -10024,6 +10104,14 @@
       "word": "中国男排3比0埃及男排",
       "onboard_time": 1720259657,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249788,
+      "num": 249788,
+      "word": "阿根廷vs加拿大",
+      "onboard_time": 1720570098,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -11627,12 +11715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210295,
+      "num": 210295,
+      "word": "婚礼上最没有必要的支出",
+      "onboard_time": 1720572378,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209903,
       "num": 204510,
       "word": "张志杰姐姐再发文",
       "onboard_time": 1720252577,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209811,
+      "num": 209811,
+      "word": "医生发现了我有畸胎瘤",
+      "onboard_time": 1720569137,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209686,
@@ -11865,6 +11969,14 @@
       "onboard_time": 1720257197,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206525,
+      "num": 206525,
+      "word": "吴昕说卢昱晓长得周正",
+      "onboard_time": 1720572499,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 206249,
@@ -13171,6 +13283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 192481,
+      "num": 192481,
+      "word": "美一客机起飞后被通知轮子掉了",
+      "onboard_time": 1720573338,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192479,
       "num": 192479,
       "word": "朱一龙邱天新电影演情侣",
@@ -13625,14 +13745,6 @@
       "onboard_time": 1719987138,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188654,
-      "num": 188654,
-      "word": "官方通报2公职人员偷豆角",
-      "onboard_time": 1720567095,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188625,
@@ -14561,6 +14673,14 @@
       "onboard_time": 1720357398,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177441,
+      "num": 177441,
+      "word": "苏醒 披哥诀窍是抱王铮亮大腿",
+      "onboard_time": 1720567575,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 177397,
@@ -16499,6 +16619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 155313,
+      "num": 155313,
+      "word": "漫画师画的杨紫",
+      "onboard_time": 1720574118,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155245,
       "num": 155245,
       "word": "沈月看SEVENTEEN团综哭了",
@@ -17675,6 +17803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143709,
+      "num": 143709,
+      "word": "西班牙欧洲杯史上唯一六连胜球队",
+      "onboard_time": 1720571059,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143685,
       "num": 143685,
       "word": "孙楠越唱越稳",
@@ -18193,6 +18329,14 @@
       "onboard_time": 1720154000,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139528,
+      "num": 139528,
+      "word": "专家称发现结节就想手术是制造焦虑",
+      "onboard_time": 1720572978,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139480,
@@ -19003,6 +19147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132347,
+      "num": 132347,
+      "word": "梅西进球",
+      "onboard_time": 1720574418,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132335,
       "num": 132335,
       "word": "北大教授称很多人被过度医疗了",
@@ -19273,6 +19425,14 @@
       "onboard_time": 1720515618,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130094,
+      "num": 130094,
+      "word": "下半年摩羯座扬眉吐气",
+      "onboard_time": 1720567874,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 130092,
@@ -19849,6 +20009,14 @@
       "onboard_time": 1720182559,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124646,
+      "num": 124646,
+      "word": "我看全职看得想吐",
+      "onboard_time": 1720568237,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 124617,
@@ -20643,6 +20811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117711,
+      "num": 117711,
+      "word": "格力诉小米米家电风扇侵权一案胜诉",
+      "onboard_time": 1720573937,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117651,
       "num": 117651,
       "word": "独自旅行的意义",
@@ -20697,6 +20873,14 @@
       "onboard_time": 1720089319,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116809,
+      "num": 116809,
+      "word": "4个部位出汗多暗示身体有问题",
+      "onboard_time": 1720548013,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116617,
@@ -21451,6 +21635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109853,
+      "num": 109853,
+      "word": "台积电下周试产2nm芯片",
+      "onboard_time": 1720567756,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109770,
       "num": 109770,
       "word": "2024全球emoji失宠榜单",
@@ -21827,14 +22019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105393,
-      "num": 105393,
-      "word": "4个部位出汗多暗示身体有问题",
-      "onboard_time": 1720548013,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105341,
       "num": 105341,
       "word": "一周只上四天课的大学",
@@ -21937,14 +22121,6 @@
       "onboard_time": 1720264517,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103944,
-      "num": 103944,
-      "word": "下半年摩羯座扬眉吐气",
-      "onboard_time": 1720567874,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 103925,
@@ -22395,12 +22571,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96197,
+      "num": 96197,
+      "word": "亚马尔",
+      "onboard_time": 1720570639,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96194,
       "num": 96194,
       "word": "马龙第4次出战奥运的心里话",
       "onboard_time": 1720452139,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96186,
+      "num": 96186,
+      "word": "小孩子脾胃不好尝试炒水",
+      "onboard_time": 1720568237,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96142,
@@ -22776,6 +22968,14 @@
       "word": "年轻护士在三甲医院6年后裸辞逃离",
       "onboard_time": 1719865931,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90367,
+      "num": 90367,
+      "word": "洞庭湖全线退出警戒水位",
+      "onboard_time": 1720574538,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -23203,14 +23403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78295,
-      "num": 78295,
-      "word": "苏醒 披哥诀窍是抱王铮亮大腿",
-      "onboard_time": 1720567575,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78104,
       "num": 83451,
       "word": "孟子义没玩明白但夺冠了",
@@ -23467,6 +23659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68592,
+      "num": 454103,
+      "word": "大热天女孩被困车内民警果断砸窗救人",
+      "onboard_time": 1720573039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68315,
       "num": 68315,
       "word": "法国晋级欧洲杯8强",
@@ -23641,6 +23841,14 @@
       "onboard_time": 1719788774,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64884,
+      "num": 647354,
+      "word": "伟大的历史变革",
+      "onboard_time": 1720531460,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64831,
@@ -25201,14 +25409,6 @@
       "onboard_time": 1720210930,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36430,
-      "num": 580888,
-      "word": "伟大的历史变革",
-      "onboard_time": 1720531460,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36396,
