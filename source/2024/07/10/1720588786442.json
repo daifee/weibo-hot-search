@@ -1,0 +1,410 @@
+{
+  "runTime": 1720588786442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287247,
+        "num": 1287247,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 0,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 1119691,
+        "num": 1119691,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100786,
+        "num": 1020654,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1014429,
+        "num": 1014429,
+        "word": "长相思 加戏",
+        "onboard_time": 1720585998,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 984574,
+        "num": 984574,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669649,
+        "num": 669649,
+        "word": "涂山璟 窝囊",
+        "onboard_time": 1720586119,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584217,
+        "num": 584217,
+        "word": "蓝盈莹14年前VS14年后",
+        "onboard_time": 1720583358,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517883,
+        "num": 517883,
+        "word": "忆江南亲了",
+        "onboard_time": 1720585880,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408561,
+        "num": 408561,
+        "word": "一58岁中国籍男子登富士山时死亡",
+        "onboard_time": 1720582698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 404177,
+        "word": "黄岩岛珊瑚礁调查结论首次公布",
+        "onboard_time": 1720587378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483619,
+        "num": 403913,
+        "word": "B太说被300主播针对",
+        "onboard_time": 1720586059,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403608,
+        "num": 403608,
+        "word": "BLACKPINK巡演大电影预告片",
+        "onboard_time": 1720584978,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397213,
+        "num": 397213,
+        "word": "玱玹九个老婆唯独没有小夭",
+        "onboard_time": 1720578077,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397135,
+        "num": 397135,
+        "word": "女装退货率高背后是货不对版",
+        "onboard_time": 1720580418,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344006,
+        "num": 344006,
+        "word": "内耗的人都有一个共同点",
+        "onboard_time": 1720580598,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323342,
+        "num": 323342,
+        "word": "单人买电影票不能选C位合理吗",
+        "onboard_time": 1720583779,
+        "rank": 15,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 256818,
+        "num": 256818,
+        "word": "网约车 无人驾驶",
+        "onboard_time": 1720584319,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251472,
+        "num": 251472,
+        "word": "无痛分娩那么好为何普及率却不高",
+        "onboard_time": 1720578558,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229572,
+        "num": 229572,
+        "word": "骗子用出国月薪3万骗了1000多万",
+        "onboard_time": 1720575138,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195740,
+        "num": 195740,
+        "word": "在川渝上大学相当于一次爆改",
+        "onboard_time": 1720585760,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313598,
+        "num": 195439,
+        "word": "跳舞五个月后老公不认识我了",
+        "onboard_time": 1720576697,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310686,
+        "num": 194749,
+        "word": "恋与深空",
+        "onboard_time": 1720587078,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306950,
+        "num": 194241,
+        "word": "唐朝诡事录处处贬",
+        "onboard_time": 1720580239,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56724,
+        "num": 194019,
+        "word": "人类群星闪耀时具象化了",
+        "onboard_time": 1720587740,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 248215,
+        "num": 193480,
+        "word": "冰箱放了两天的西瓜真的不能吃",
+        "onboard_time": 1720584440,
+        "rank": 24,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 217537,
+        "num": 192522,
+        "word": "你们蛇的衣服是同一家店买的吗",
+        "onboard_time": 1720573398,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201221,
+        "num": 191976,
+        "word": "黄景瑜茶系男主",
+        "onboard_time": 1720588040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191890,
+        "num": 191890,
+        "word": "易烊千玺现身影视公司",
+        "onboard_time": 1720587378,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190949,
+        "num": 190949,
+        "word": "长相思编剧",
+        "onboard_time": 1720587378,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18179,
+        "num": 185001,
+        "word": "印媒称俄将放还被骗参战的印度人",
+        "onboard_time": 1720588578,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184574,
+        "num": 184574,
+        "word": "BLG官宣Wei加入",
+        "onboard_time": 1720583958,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183654,
+        "num": 183654,
+        "word": "女子1米6体重50斤仍在减肥",
+        "onboard_time": 1720567936,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 183139,
+        "word": "忆江南cp官宣",
+        "onboard_time": 1720588639,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179246,
+        "num": 179246,
+        "word": "唐朝诡事录提档吧",
+        "onboard_time": 1720587020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166778,
+        "num": 166778,
+        "word": "任嘉伦扒了五分钟的蛋掉了",
+        "onboard_time": 1720579638,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164728,
+        "num": 164728,
+        "word": "重生之淳儿回宫变纪星",
+        "onboard_time": 1720588458,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 156532,
+        "word": "梅西给6个月大的亚马尔洗过澡",
+        "onboard_time": 1720575976,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154531,
+        "num": 154531,
+        "word": "爱豆 情绪价值",
+        "onboard_time": 1720584918,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149825,
+        "num": 149825,
+        "word": "魔方新世界",
+        "onboard_time": 1720586359,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35857,
+        "num": 147552,
+        "word": "当传统文化与现代文明在尼山相遇",
+        "onboard_time": 1720587619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146259,
+        "num": 146259,
+        "word": "中石化回应春招萝卜坑招聘",
+        "onboard_time": 1720587978,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144768,
+        "num": 144768,
+        "word": "小米回应被格力起诉",
+        "onboard_time": 1720579098,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 143423,
+        "num": 143423,
+        "word": "玱玹发疯",
+        "onboard_time": 1720580239,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143075,
+        "num": 143075,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141889,
+        "num": 141889,
+        "word": "好奇有韩国人追中国明星的吗",
+        "onboard_time": 1720588698,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136285,
+        "num": 136285,
+        "word": "唐朝诡事录",
+        "onboard_time": 1720586179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133230,
+        "num": 133230,
+        "word": "亚马尔 姆巴佩",
+        "onboard_time": 1720571598,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "RNG真没打野了",
+        "onboard_time": 1720583658,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129715,
+        "num": 129715,
+        "word": "小夭都闭眼了",
+        "onboard_time": 1720586721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127544,
+        "num": 127544,
+        "word": "今年的录取通知书已经是NextLevel",
+        "onboard_time": 1720571658,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的改革公开课#"
+    }
+  }
+}

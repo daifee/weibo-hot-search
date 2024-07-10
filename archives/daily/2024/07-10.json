@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720586270036,
+  "endTime": 1720588786442,
   "band_list": [
     {
       "raw_hot": 1573115,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119691,
+      "num": 1119691,
+      "word": "百度 萝卜快跑",
+      "onboard_time": 1720583899,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1059552,
       "num": 1059552,
       "word": "骗子用出国月薪3万骗了1000多万",
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014429,
+      "num": 1014429,
+      "word": "长相思 加戏",
+      "onboard_time": 1720585998,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 969040,
       "num": 969040,
       "word": "唐朝诡事录处处贬",
       "onboard_time": 1720580239,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 959919,
-      "num": 959919,
-      "word": "百度 萝卜快跑",
-      "onboard_time": 1720583899,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 900056,
@@ -147,6 +155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 669649,
+      "num": 669649,
+      "word": "涂山璟 窝囊",
+      "onboard_time": 1720586119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666105,
       "num": 666105,
       "word": "无痛分娩那么好为何普及率却不高",
@@ -187,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584217,
+      "num": 584217,
+      "word": "蓝盈莹14年前VS14年后",
+      "onboard_time": 1720583358,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580791,
       "num": 215555,
       "word": "不想结节癌变千万避开这3种蔬菜",
@@ -219,12 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 509316,
-      "num": 509316,
-      "word": "蓝盈莹14年前VS14年后",
-      "onboard_time": 1720583358,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 517883,
+      "num": 517883,
+      "word": "忆江南亲了",
+      "onboard_time": 1720585880,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 495497,
@@ -249,6 +273,14 @@
       "onboard_time": 1720579098,
       "rank": 25,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 483619,
+      "num": 403913,
+      "word": "B太说被300主播针对",
+      "onboard_time": 1720586059,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 481781,
@@ -427,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323342,
+      "num": 323342,
+      "word": "单人买电影票不能选C位合理吗",
+      "onboard_time": 1720583779,
+      "rank": 30,
+      "category": "社会新闻,电影"
+    },
+    {
+      "raw_hot": 310686,
+      "num": 194749,
+      "word": "恋与深空",
+      "onboard_time": 1720587078,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309484,
       "num": 309484,
       "word": "防风邶下线",
@@ -515,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248215,
+      "num": 221418,
+      "word": "冰箱放了两天的西瓜真的不能吃",
+      "onboard_time": 1720584440,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "小夭的难堪众人的狂欢",
@@ -531,14 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221418,
-      "num": 221418,
-      "word": "冰箱放了两天的西瓜真的不能吃",
-      "onboard_time": 1720584440,
-      "rank": 33,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 218280,
       "num": 218280,
       "word": "专家称发现结节就想手术是制造焦虑",
@@ -553,14 +601,6 @@
       "onboard_time": 1720552871,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215296,
-      "num": 215296,
-      "word": "忆江南亲了",
-      "onboard_time": 1720585880,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 214901,
@@ -611,14 +651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 204869,
-      "num": 204869,
-      "word": "单人买电影票不能选C位合理吗",
-      "onboard_time": 1720583779,
-      "rank": 30,
-      "category": "社会新闻,电影"
-    },
-    {
       "raw_hot": 202111,
       "num": 202111,
       "word": "张婧仪度假风生日照",
@@ -627,11 +659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198287,
-      "num": 198287,
-      "word": "长相思 加戏",
-      "onboard_time": 1720585998,
-      "rank": 33,
+      "raw_hot": 201221,
+      "num": 191976,
+      "word": "黄景瑜茶系男主",
+      "onboard_time": 1720588040,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195740,
+      "num": 195740,
+      "word": "在川渝上大学相当于一次爆改",
+      "onboard_time": 1720585760,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193250,
       "num": 131126,
       "word": "才25岁就要被介绍40岁的男孩",
@@ -651,12 +691,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191890,
+      "num": 191890,
+      "word": "易烊千玺现身影视公司",
+      "onboard_time": 1720587378,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191476,
       "num": 191476,
       "word": "鹿晗工作室是在暗示四巡地点吗",
       "onboard_time": 1720527558,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190949,
+      "num": 190949,
+      "word": "长相思编剧",
+      "onboard_time": 1720587378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186149,
@@ -683,12 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183650,
-      "num": 183650,
-      "word": "在川渝上大学相当于一次爆改",
-      "onboard_time": 1720585760,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 183139,
+      "num": 183139,
+      "word": "忆江南cp官宣",
+      "onboard_time": 1720588639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 181624,
@@ -697,6 +753,14 @@
       "onboard_time": 1720537579,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 179246,
+      "num": 179246,
+      "word": "唐朝诡事录提档吧",
+      "onboard_time": 1720587020,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 178687,
@@ -795,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164728,
+      "num": 164728,
+      "word": "重生之淳儿回宫变纪星",
+      "onboard_time": 1720588458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -817,14 +889,6 @@
       "onboard_time": 1720541237,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158551,
-      "num": 158551,
-      "word": "涂山璟 窝囊",
-      "onboard_time": 1720586119,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 157054,
@@ -859,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154191,
-      "num": 154191,
-      "word": "B太说被300主播针对",
-      "onboard_time": 1720586059,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 151574,
       "num": 151574,
       "word": "中国男篮vs马刺",
@@ -883,6 +939,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149825,
+      "num": 149825,
+      "word": "魔方新世界",
+      "onboard_time": 1720586359,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "中石化回应春招萝卜坑招聘",
+      "onboard_time": 1720587978,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144269,
       "num": 126124,
       "word": "研究发现月经用品中含有毒金属",
@@ -897,6 +969,22 @@
       "onboard_time": 1720571059,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143075,
+      "num": 143075,
+      "word": "奥利 背刺",
+      "onboard_time": 1720588698,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "好奇有韩国人追中国明星的吗",
+      "onboard_time": 1720588698,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140865,
@@ -937,6 +1025,14 @@
       "onboard_time": 1720567874,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129715,
+      "num": 129715,
+      "word": "小夭都闭眼了",
+      "onboard_time": 1720586721,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 129025,
@@ -1283,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56724,
+      "num": 194019,
+      "word": "人类群星闪耀时具象化了",
+      "onboard_time": 1720587740,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 55999,
       "num": 55999,
       "word": "汤唯素颜生图",
@@ -1387,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40947,
+      "num": 404177,
+      "word": "黄岩岛珊瑚礁调查结论首次公布",
+      "onboard_time": 1720587378,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39223,
       "num": 39223,
       "word": "欧洲杯不无聊了",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1720555212,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35857,
+      "num": 147552,
+      "word": "当传统文化与现代文明在尼山相遇",
+      "onboard_time": 1720587619,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32495,
@@ -1505,6 +1625,14 @@
       "onboard_time": 1720553170,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18179,
+      "num": 185001,
+      "word": "印媒称俄将放还被骗参战的印度人",
+      "onboard_time": 1720588578,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 15910,

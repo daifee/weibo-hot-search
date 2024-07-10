@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720586270036,
+  "endTime": 1720588786442,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -419,6 +419,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 1119691,
+      "num": 1119691,
+      "word": "百度 萝卜快跑",
+      "onboard_time": 1720583899,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1118769,
       "num": 322030,
       "word": "女生小腹一侧突然疼痛千万别忽视",
@@ -515,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1014429,
+      "num": 1014429,
+      "word": "长相思 加戏",
+      "onboard_time": 1720585998,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
@@ -553,14 +569,6 @@
       "onboard_time": 1720580239,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 959919,
-      "num": 959919,
-      "word": "百度 萝卜快跑",
-      "onboard_time": 1720583899,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 951386,
@@ -1115,6 +1123,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 669649,
+      "num": 669649,
+      "word": "涂山璟 窝囊",
+      "onboard_time": 1720586119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667590,
       "num": 667590,
       "word": "上迪门票涨价至719元仍一票难求",
@@ -1371,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584217,
+      "num": 584217,
+      "word": "蓝盈莹14年前VS14年后",
+      "onboard_time": 1720583358,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583217,
       "num": 583217,
       "word": "刘涛的屏保是Henry",
@@ -1603,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517883,
+      "num": 517883,
+      "word": "忆江南亲了",
+      "onboard_time": 1720585880,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515851,
       "num": 256400,
       "word": "汪苏泷连夜追加八百万",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1720333577,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 509316,
-      "num": 509316,
-      "word": "蓝盈莹14年前VS14年后",
-      "onboard_time": 1720583358,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 503257,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1720579098,
       "rank": 25,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 483619,
+      "num": 403913,
+      "word": "B太说被300主播针对",
+      "onboard_time": 1720586059,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 481781,
@@ -3067,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323342,
+      "num": 323342,
+      "word": "单人买电影票不能选C位合理吗",
+      "onboard_time": 1720583779,
+      "rank": 30,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 322320,
       "num": 275034,
       "word": "因为太热同事离职去冰岛了",
@@ -3153,6 +3193,14 @@
       "onboard_time": 1720511418,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310686,
+      "num": 194749,
+      "word": "恋与深空",
+      "onboard_time": 1720587078,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 310336,
@@ -3691,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248215,
+      "num": 221418,
+      "word": "冰箱放了两天的西瓜真的不能吃",
+      "onboard_time": 1720584440,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 247009,
       "num": 247009,
       "word": "宋亚轩对接报平安",
@@ -4035,14 +4091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 221418,
-      "num": 221418,
-      "word": "冰箱放了两天的西瓜真的不能吃",
-      "onboard_time": 1720584440,
-      "rank": 33,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 219294,
       "num": 219294,
       "word": "少年白马醉春风首发预告",
@@ -4121,14 +4169,6 @@
       "onboard_time": 1720442118,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215296,
-      "num": 215296,
-      "word": "忆江南亲了",
-      "onboard_time": 1720585880,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 214990,
@@ -4395,14 +4435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204869,
-      "num": 204869,
-      "word": "单人买电影票不能选C位合理吗",
-      "onboard_time": 1720583779,
-      "rank": 30,
-      "category": "社会新闻,电影"
-    },
-    {
       "raw_hot": 204722,
       "num": 187314,
       "word": "女生的颜值开关",
@@ -4488,6 +4520,14 @@
       "word": "杨紫包场长相思2",
       "onboard_time": 1720423699,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201221,
+      "num": 191976,
+      "word": "黄景瑜茶系男主",
+      "onboard_time": 1720588040,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -4595,14 +4635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198287,
-      "num": 198287,
-      "word": "长相思 加戏",
-      "onboard_time": 1720585998,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197881,
       "num": 197881,
       "word": "美一客机起飞后被通知轮子掉了",
@@ -4681,6 +4713,14 @@
       "onboard_time": 1720313237,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195740,
+      "num": 195740,
+      "word": "在川渝上大学相当于一次爆改",
+      "onboard_time": 1720585760,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 194318,
@@ -4819,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191890,
+      "num": 191890,
+      "word": "易烊千玺现身影视公司",
+      "onboard_time": 1720587378,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191765,
       "num": 191765,
       "word": "小狗知道要去医院脸都垮了",
@@ -4857,6 +4905,14 @@
       "onboard_time": 1720444040,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190949,
+      "num": 190949,
+      "word": "长相思编剧",
+      "onboard_time": 1720587378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 190939,
@@ -5091,14 +5147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183650,
-      "num": 183650,
-      "word": "在川渝上大学相当于一次爆改",
-      "onboard_time": 1720585760,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 183612,
       "num": 183612,
       "word": "唢呐一响陈瑶红嫁衣登场",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1720426159,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183139,
+      "num": 183139,
+      "word": "忆江南cp官宣",
+      "onboard_time": 1720588639,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 183020,
@@ -5209,6 +5265,14 @@
       "onboard_time": 1720362678,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179246,
+      "num": 179246,
+      "word": "唐朝诡事录提档吧",
+      "onboard_time": 1720587020,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 179142,
@@ -5819,6 +5883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164728,
+      "num": 164728,
+      "word": "重生之淳儿回宫变纪星",
+      "onboard_time": 1720588458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163922,
       "num": 163922,
       "word": "负负得正 抬上成年人那桌",
@@ -6027,14 +6099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158551,
-      "num": 158551,
-      "word": "涂山璟 窝囊",
-      "onboard_time": 1720586119,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158285,
       "num": 158285,
       "word": "姆巴佩入驻微博",
@@ -6211,14 +6275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154191,
-      "num": 154191,
-      "word": "B太说被300主播针对",
-      "onboard_time": 1720586059,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 154180,
       "num": 154180,
       "word": "怎么有人交闺蜜交到诸葛亮",
@@ -6371,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149825,
+      "num": 149825,
+      "word": "魔方新世界",
+      "onboard_time": 1720586359,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "收到了隔壁妹妹的小纸条",
@@ -6489,6 +6553,14 @@
       "onboard_time": 1720307353,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "中石化回应春招萝卜坑招聘",
+      "onboard_time": 1720587978,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146254,
@@ -6611,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143075,
+      "num": 143075,
+      "word": "奥利 背刺",
+      "onboard_time": 1720588698,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142956,
       "num": 141601,
       "word": "两只熊猫比任何人都忙",
@@ -6665,6 +6745,14 @@
       "onboard_time": 1720273939,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "好奇有韩国人追中国明星的吗",
+      "onboard_time": 1720588698,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141802,
@@ -7089,6 +7177,14 @@
       "onboard_time": 1720567874,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129715,
+      "num": 129715,
+      "word": "小夭都闭眼了",
+      "onboard_time": 1720586721,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 129614,
@@ -8843,6 +8939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56724,
+      "num": 194019,
+      "word": "人类群星闪耀时具象化了",
+      "onboard_time": 1720587740,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 56078,
       "num": 554121,
       "word": "尼山有什么",
@@ -9211,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40947,
+      "num": 404177,
+      "word": "黄岩岛珊瑚礁调查结论首次公布",
+      "onboard_time": 1720587378,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40567,
       "num": 158518,
       "word": "韩政府决定对实习住院医师不予处分",
@@ -9336,6 +9448,14 @@
       "word": "卢沟桥事变亲历者郑福来老人去世",
       "onboard_time": 1720290973,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35857,
+      "num": 147552,
+      "word": "当传统文化与现代文明在尼山相遇",
+      "onboard_time": 1720587619,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -9703,6 +9823,14 @@
       "num": 194269,
       "word": "俄称基辅遭破坏是乌导弹坠落所致",
       "onboard_time": 1720506018,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 18179,
+      "num": 185001,
+      "word": "印媒称俄将放还被骗参战的印度人",
+      "onboard_time": 1720588578,
       "rank": 29,
       "category": "国外时政"
     },
