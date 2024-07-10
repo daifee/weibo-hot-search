@@ -1,0 +1,410 @@
+{
+  "runTime": 1720603238348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911675,
+        "num": 911675,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490193,
+        "num": 490193,
+        "word": "亚马尔父亲才35岁",
+        "onboard_time": 1720599738,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11662,
+        "num": 472557,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652632,
+        "num": 471705,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464629,
+        "num": 464629,
+        "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
+        "onboard_time": 1720597878,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 395056,
+        "num": 395056,
+        "word": "暑假的崩溃式旅游有多可怕",
+        "onboard_time": 1720597397,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 581636,
+        "num": 393037,
+        "word": "温太医沈眉庄大婚",
+        "onboard_time": 1720589119,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500586,
+        "num": 385621,
+        "word": "赵露思深U上衣",
+        "onboard_time": 1720597217,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367939,
+        "num": 367939,
+        "word": "920元辛苦费换来6个月刑期",
+        "onboard_time": 1720582518,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73676,
+        "num": 359145,
+        "word": "文体局回应游客被收398元过沟费",
+        "onboard_time": 1720602017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881257,
+        "num": 359127,
+        "word": "女子酒吧上厕所发现便池卡着一手机",
+        "onboard_time": 1720596978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476219,
+        "num": 359122,
+        "word": "歌手2024官宣lenka",
+        "onboard_time": 1720598537,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359078,
+        "num": 359078,
+        "word": "赵丽颖或将进组冯小刚新电影",
+        "onboard_time": 1720600759,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342500,
+        "num": 342500,
+        "word": "娜然 我不是妲己我是夏禾",
+        "onboard_time": 1720595719,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340639,
+        "num": 340639,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301116,
+        "num": 301116,
+        "word": "哈理工回应考生笔试成绩由47改为85",
+        "onboard_time": 1720593378,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 242767,
+        "num": 242767,
+        "word": "35岁再考清华当事人公布高考成绩",
+        "onboard_time": 1720602318,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235174,
+        "num": 235174,
+        "word": "80后考公人连考10年还没上岸",
+        "onboard_time": 1720596019,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222690,
+        "num": 222690,
+        "word": "协和医生说孕吐是胎儿的自我保护",
+        "onboard_time": 1720581916,
+        "rank": 18,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 177795,
+        "num": 177795,
+        "word": "官方回应萝卜快跑碰撞事故",
+        "onboard_time": 1720595117,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303815,
+        "num": 177782,
+        "word": "长寿花回应油罐车事件",
+        "onboard_time": 1720599618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603114,
+        "num": 177637,
+        "word": "混装油罐车曾停靠中粮和金龙鱼工厂",
+        "onboard_time": 1720596558,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285598,
+        "num": 177552,
+        "word": "何老师预判了王栎鑫的预判",
+        "onboard_time": 1720596678,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268732,
+        "num": 177478,
+        "word": "鞠婧祎妆造",
+        "onboard_time": 1720595778,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260188,
+        "num": 177345,
+        "word": "混装油流入陕西勉县",
+        "onboard_time": 1720601838,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257831,
+        "num": 177200,
+        "word": "肖战工作室放的饭得用刀叉吃",
+        "onboard_time": 1720599499,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238237,
+        "num": 177084,
+        "word": "长相思 加戏",
+        "onboard_time": 1720585998,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194700,
+        "num": 176998,
+        "word": "文韬 情绪稳定",
+        "onboard_time": 1720600939,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234322,
+        "num": 176929,
+        "word": "鞠婧祎 温婉",
+        "onboard_time": 1720602740,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 176879,
+        "num": 176879,
+        "word": "成立调查组彻查罐车运输食用油乱象",
+        "onboard_time": 1720597577,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 175219,
+        "word": "北大教授反对提高个税起征点",
+        "onboard_time": 1720590557,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173356,
+        "num": 173356,
+        "word": "辽宁一景区月薪5000招野人演员",
+        "onboard_time": 1720601359,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167055,
+        "num": 167055,
+        "word": "相柳给小夭的情书变成了遗书",
+        "onboard_time": 1720598417,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 159433,
+        "word": "成毅上半年商务断层TOP1",
+        "onboard_time": 1720598178,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154872,
+        "num": 154872,
+        "word": "吴谨言GLASS盛典路透",
+        "onboard_time": 1720603038,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152469,
+        "num": 152469,
+        "word": "百度 萝卜快跑",
+        "onboard_time": 1720583899,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148513,
+        "num": 148513,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 148292,
+        "word": "娜扎鲜衣怒马具像化",
+        "onboard_time": 1720602379,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147340,
+        "num": 147340,
+        "word": "剧版画皮",
+        "onboard_time": 1720600098,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 142012,
+        "word": "为了官宣开一档综艺",
+        "onboard_time": 1720603098,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 137588,
+        "word": "长相思原著",
+        "onboard_time": 1720601899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140355,
+        "num": 137543,
+        "word": "好奇有韩国人追中国明星的吗",
+        "onboard_time": 1720588698,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140744,
+        "num": 137468,
+        "word": "杨紫长相思2直播预告",
+        "onboard_time": 1720601778,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42404,
+        "num": 137406,
+        "word": "汛期防灾避险十不要",
+        "onboard_time": 1720602138,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137345,
+        "num": 137345,
+        "word": "华晨宇直播",
+        "onboard_time": 1720601417,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136586,
+        "num": 136586,
+        "word": "新华社评罐车运输食用油",
+        "onboard_time": 1720600578,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134669,
+        "num": 134669,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1720592418,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133111,
+        "num": 133111,
+        "word": "谁都想被坚定选择一次",
+        "onboard_time": 1720602379,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127966,
+        "num": 127966,
+        "word": "研究称气候崩溃迹象已显现",
+        "onboard_time": 1720597397,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126530,
+        "num": 126530,
+        "word": "亚马尔踢完还得写作业",
+        "onboard_time": 1720601417,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国总理哈西娜#"
+    }
+  }
+}

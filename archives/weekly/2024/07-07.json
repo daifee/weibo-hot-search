@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720600739911,
+  "endTime": 1720603238348,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1291151,
-      "num": 295654,
+      "num": 359127,
       "word": "女子酒吧上厕所发现便池卡着一手机",
       "onboard_time": 1720596978,
       "rank": 10,
@@ -681,6 +681,14 @@
       "onboard_time": 1720394895,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 911675,
+      "num": 911675,
+      "word": "卢昱晓走路姿势被说残疾",
+      "onboard_time": 1720600218,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 909029,
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 529131,
-      "num": 321853,
+      "num": 342500,
       "word": "娜然 我不是妲己我是夏禾",
       "onboard_time": 1720595719,
       "rank": 32,
@@ -1732,7 +1740,7 @@
     },
     {
       "raw_hot": 514790,
-      "num": 282062,
+      "num": 359122,
       "word": "歌手2024官宣lenka",
       "onboard_time": 1720598537,
       "rank": 12,
@@ -1787,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500586,
+      "num": 385621,
+      "word": "赵露思深U上衣",
+      "onboard_time": 1720597217,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 500533,
       "num": 461525,
       "word": "鹿晗工作室回复各地文旅",
@@ -1827,12 +1843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490513,
-      "num": 266843,
-      "word": "赵露思深U上衣",
-      "onboard_time": 1720597217,
-      "rank": 11,
-      "category": "作品衍生,时尚"
+      "raw_hot": 490193,
+      "num": 490193,
+      "word": "亚马尔父亲才35岁",
+      "onboard_time": 1720599738,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 490190,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1720403537,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 464629,
+      "num": 464629,
+      "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
+      "onboard_time": 1720597878,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 463905,
@@ -2651,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 395056,
+      "num": 395056,
+      "word": "暑假的崩溃式旅游有多可怕",
+      "onboard_time": 1720597397,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 393172,
       "num": 393172,
       "word": "檀健次 戴比尔斯",
@@ -2945,6 +2977,14 @@
       "onboard_time": 1720430960,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359078,
+      "num": 359078,
+      "word": "赵丽颖或将进组冯小刚新电影",
+      "onboard_time": 1720600759,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 358122,
@@ -3819,12 +3859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260188,
+      "num": 177345,
+      "word": "混装油流入陕西勉县",
+      "onboard_time": 1720601838,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
       "onboard_time": 1720406778,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 257831,
+      "num": 200418,
+      "word": "肖战工作室放的饭得用刀叉吃",
+      "onboard_time": 1720599499,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257263,
@@ -3963,14 +4019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244606,
-      "num": 244606,
-      "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
-      "onboard_time": 1720597878,
-      "rank": 31,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 244481,
       "num": 244481,
       "word": "韩国为大熊猫双胞胎姐妹过生日",
@@ -4025,6 +4073,14 @@
       "onboard_time": 1720498638,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242767,
+      "num": 242767,
+      "word": "35岁再考清华当事人公布高考成绩",
+      "onboard_time": 1720602318,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 241442,
@@ -4137,6 +4193,14 @@
       "onboard_time": 1720368077,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234322,
+      "num": 176929,
+      "word": "鞠婧祎 温婉",
+      "onboard_time": 1720602740,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 234298,
@@ -4305,14 +4369,6 @@
       "onboard_time": 1720408339,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219040,
-      "num": 200418,
-      "word": "肖战工作室放的饭得用刀叉吃",
-      "onboard_time": 1720599499,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 218280,
@@ -4723,14 +4779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203107,
-      "num": 203107,
-      "word": "暑假的崩溃式旅游有多可怕",
-      "onboard_time": 1720597397,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 203102,
       "num": 203102,
       "word": "星穹铁道翡翠",
@@ -4984,6 +5032,14 @@
       "word": "王俊凯露额头了",
       "onboard_time": 1720313237,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194700,
+      "num": 176998,
+      "word": "文韬 情绪稳定",
+      "onboard_time": 1720600939,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -5379,14 +5435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184911,
-      "num": 184911,
-      "word": "亚马尔父亲才35岁",
-      "onboard_time": 1720599738,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184722,
       "num": 184722,
       "word": "张拿铁带着爸爸干吃播",
@@ -5747,14 +5795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176139,
-      "num": 176139,
-      "word": "卢昱晓走路姿势被说残疾",
-      "onboard_time": 1720600218,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "男子偶遇野生大熊猫卑微求让路",
@@ -5857,6 +5897,14 @@
       "onboard_time": 1720528338,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173356,
+      "num": 173356,
+      "word": "辽宁一景区月薪5000招野人演员",
+      "onboard_time": 1720601359,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 172956,
@@ -6571,6 +6619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154872,
+      "num": 154872,
+      "word": "吴谨言GLASS盛典路透",
+      "onboard_time": 1720603038,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154839,
       "num": 154839,
       "word": "吴谨言短发白裙",
@@ -6803,12 +6859,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148513,
+      "num": 148513,
+      "word": "罪犯得知儿子高考697分喜极而泣",
+      "onboard_time": 1720602797,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 148352,
       "num": 148352,
       "word": "真我",
       "onboard_time": 1720511058,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148292,
+      "num": 148292,
+      "word": "娜扎鲜衣怒马具像化",
+      "onboard_time": 1720602379,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 148125,
@@ -6849,6 +6921,14 @@
       "onboard_time": 1720518858,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147340,
+      "num": 147340,
+      "word": "剧版画皮",
+      "onboard_time": 1720600098,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 147015,
@@ -7075,6 +7155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142012,
+      "num": 142012,
+      "word": "为了官宣开一档综艺",
+      "onboard_time": 1720603098,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141802,
       "num": 141802,
       "word": "在小县城用联名公交卡被骂了",
@@ -7145,6 +7233,14 @@
       "onboard_time": 1720489998,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140744,
+      "num": 137468,
+      "word": "杨紫长相思2直播预告",
+      "onboard_time": 1720601778,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140677,
@@ -7283,6 +7379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "长相思原著",
+      "onboard_time": 1720601899,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137345,
+      "num": 137345,
+      "word": "华晨宇直播",
+      "onboard_time": 1720601417,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137336,
       "num": 137336,
       "word": "这只猴子难道血脉觉醒了",
@@ -7305,6 +7417,14 @@
       "onboard_time": 1720436779,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136586,
+      "num": 136586,
+      "word": "新华社评罐车运输食用油",
+      "onboard_time": 1720600578,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136375,
@@ -7433,6 +7553,14 @@
       "onboard_time": 1720360878,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133111,
+      "num": 133111,
+      "word": "谁都想被坚定选择一次",
+      "onboard_time": 1720602379,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 133105,
@@ -7729,6 +7857,14 @@
       "onboard_time": 1720596378,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126530,
+      "num": 126530,
+      "word": "亚马尔踢完还得写作业",
+      "onboard_time": 1720601417,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126480,
@@ -8363,14 +8499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110704,
-      "num": 110704,
-      "word": "剧版画皮",
-      "onboard_time": 1720600098,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110670,
       "num": 110670,
       "word": "WEI租借加入BLG",
@@ -8681,14 +8809,6 @@
       "onboard_time": 1720329317,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104133,
-      "num": 104133,
-      "word": "新华社评罐车运输食用油",
-      "onboard_time": 1720600578,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104009,
@@ -9185,6 +9305,14 @@
       "onboard_time": 1720541717,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73676,
+      "num": 359145,
+      "word": "文体局回应游客被收398元过沟费",
+      "onboard_time": 1720602017,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72078,
@@ -9905,6 +10033,14 @@
       "onboard_time": 1720558331,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42404,
+      "num": 137406,
+      "word": "汛期防灾避险十不要",
+      "onboard_time": 1720602138,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42120,
@@ -10673,6 +10809,9 @@
     },
     {
       "word": "#习近平向模范火箭炮兵连颁授奖旗#"
+    },
+    {
+      "word": "#习近平会见孟加拉国总理哈西娜#"
     }
   ]
 }
