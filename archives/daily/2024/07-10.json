@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720596910178,
+  "endTime": 1720599962444,
   "band_list": [
     {
       "raw_hot": 1596254,
@@ -19,12 +19,28 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 1526957,
+      "num": 240663,
+      "word": "混装油罐车曾停靠中粮和金龙鱼工厂",
+      "onboard_time": 1720596558,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1243167,
       "num": 454103,
       "word": "人生大事竟然都在上班的夹缝完成",
       "onboard_time": 1720568897,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1204962,
+      "num": 262358,
+      "word": "女子酒吧上厕所发现便池卡着一手机",
+      "onboard_time": 1720596978,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1167853,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 1085184,
-      "num": 529159,
+      "num": 762031,
       "word": "关芝芝竟然嫁给了黄牡丹",
       "onboard_time": 1720594158,
       "rank": 3,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529131,
+      "num": 321853,
+      "word": "娜然 我不是妲己我是夏禾",
+      "onboard_time": 1720595719,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 529062,
       "num": 529062,
       "word": "相柳为什么狠绝杀了防风邶",
@@ -331,6 +355,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 485412,
+      "num": 220411,
+      "word": "成立调查组彻查罐车运输食用油乱象",
+      "onboard_time": 1720597577,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481781,
       "num": 232274,
       "word": "我爸开的饭店厕所里有卫生巾",
@@ -345,6 +377,14 @@
       "onboard_time": 1720574418,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474744,
+      "num": 300630,
+      "word": "何老师预判了王栎鑫的预判",
+      "onboard_time": 1720596678,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 474114,
@@ -371,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454645,
+      "num": 260917,
+      "word": "赵露思深U上衣",
+      "onboard_time": 1720597217,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 451067,
       "num": 451067,
       "word": "国务院食安办回应油罐车事件",
       "onboard_time": 1720523178,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 450166,
+      "num": 259557,
+      "word": "歌手2024官宣lenka",
+      "onboard_time": 1720598537,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 447092,
@@ -555,6 +611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319557,
+      "num": 255777,
+      "word": "华晨宇 直播呢",
+      "onboard_time": 1720599618,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316534,
+      "num": 254779,
+      "word": "鞠婧祎妆造",
+      "onboard_time": 1720595778,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 310686,
       "num": 202869,
       "word": "恋与深空",
@@ -651,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254988,
-      "num": 254988,
-      "word": "娜然 我不是妲己我是夏禾",
-      "onboard_time": 1720595719,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 253940,
+      "num": 253940,
+      "word": "80后考公人连考10年还没上岸",
+      "onboard_time": 1720596019,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 252637,
@@ -675,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248344,
-      "num": 206626,
-      "word": "混装油罐车曾停靠中粮和金龙鱼工厂",
-      "onboard_time": 1720596558,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247755,
       "num": 247755,
       "word": "在川渝上大学相当于一次爆改",
@@ -697,14 +761,6 @@
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237088,
-      "num": 205912,
-      "word": "鞠婧祎妆造",
-      "onboard_time": 1720595778,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228867,
@@ -723,6 +779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218018,
+      "num": 218018,
+      "word": "相柳给小夭的情书变成了遗书",
+      "onboard_time": 1720598417,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216597,
       "num": 216597,
       "word": "姆巴佩本届欧洲杯首个助攻",
@@ -737,6 +801,22 @@
       "onboard_time": 1720578618,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212846,
+      "num": 212846,
+      "word": "成毅上半年商务断层TOP1",
+      "onboard_time": 1720598178,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211005,
+      "num": 211005,
+      "word": "檀健次 空降",
+      "onboard_time": 1720596498,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 210295,
@@ -817,6 +897,14 @@
       "onboard_time": 1720588040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200418,
+      "num": 200418,
+      "word": "肖战工作室放的饭得用刀叉吃",
+      "onboard_time": 1720599499,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 197881,
@@ -995,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168720,
-      "num": 168720,
-      "word": "何老师预判了王栎鑫的预判",
-      "onboard_time": 1720596678,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167744,
       "num": 167744,
       "word": "西班牙逆转晋级决赛",
@@ -1035,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165246,
+      "num": 165246,
+      "word": "女儿刚出生哭闹爸爸对暗号后秒安静",
+      "onboard_time": 1720597878,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 165136,
       "num": 165136,
       "word": "爱豆 情绪价值",
@@ -1057,6 +1145,14 @@
       "onboard_time": 1720595300,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162530,
+      "num": 162530,
+      "word": "暑假的崩溃式旅游有多可怕",
+      "onboard_time": 1720597397,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 160020,
@@ -1147,11 +1243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147441,
+      "num": 147441,
+      "word": "长寿花回应油罐车事件",
+      "onboard_time": 1720599618,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144269,
       "num": 126124,
       "word": "研究发现月经用品中含有毒金属",
       "onboard_time": 1720528938,
       "rank": 27,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 143934,
+      "num": 143934,
+      "word": "研究称气候崩溃迹象已显现",
+      "onboard_time": 1720597397,
+      "rank": 35,
       "category": "科学科普"
     },
     {
@@ -1203,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136714,
-      "num": 136714,
-      "word": "檀健次 空降",
-      "onboard_time": 1720596498,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 139397,
+      "num": 139397,
+      "word": "攀娘 允儿",
+      "onboard_time": 1720599258,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 136651,
@@ -1225,14 +1337,6 @@
       "onboard_time": 1720575258,
       "rank": 2,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 134337,
-      "num": 134337,
-      "word": "80后考公人连考10年还没上岸",
-      "onboard_time": 1720596019,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 134139,
@@ -1363,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118911,
+      "num": 118911,
+      "word": "苏醒成功预判西班牙进决赛",
+      "onboard_time": 1720597699,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 116809,
       "num": 116809,
       "word": "4个部位出汗多暗示身体有问题",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1720595778,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 115428,
+      "num": 263440,
+      "word": "官方回应萝卜快跑碰撞事故",
+      "onboard_time": 1720595117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115108,
@@ -1395,12 +1515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113963,
+      "num": 113963,
+      "word": "亚马尔父亲才35岁",
+      "onboard_time": 1720599738,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112443,
       "num": 112443,
       "word": "海底捞等位区还可以打掼蛋",
       "onboard_time": 1720593558,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111817,
+      "num": 111817,
+      "word": "李蓉裴文宣面具一戴地下恋爱",
+      "onboard_time": 1720598358,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111412,
@@ -1425,6 +1561,14 @@
       "onboard_time": 1720580118,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110286,
+      "num": 110286,
+      "word": "长相思弹幕",
+      "onboard_time": 1720597338,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 110041,
@@ -1465,6 +1609,14 @@
       "onboard_time": 1720594398,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108006,
+      "num": 540174,
+      "word": "藏在录取通知书里的硬核浪漫",
+      "onboard_time": 1720595236,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107556,
@@ -1523,6 +1675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 101990,
+      "num": 101990,
+      "word": "挑选防晒衣要看哪些指标",
+      "onboard_time": 1720598598,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 101849,
       "num": 101849,
       "word": "姆巴佩欧洲杯9场仅1球",
@@ -1544,14 +1704,6 @@
       "word": "女生用567个小时绣出一场璀璨铁花",
       "onboard_time": 1720575857,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91950,
-      "num": 540174,
-      "word": "藏在录取通知书里的硬核浪漫",
-      "onboard_time": 1720595236,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1739,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61473,
+      "num": 258694,
+      "word": "如果露营只能带一件装备",
+      "onboard_time": 1720595358,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 61357,
       "num": 303930,
       "word": "男子每周花3小时给异地妻子做一周菜",
@@ -1873,14 +2033,6 @@
       "onboard_time": 1720576999,
       "rank": 13,
       "category": "社会新闻,读书作家"
-    },
-    {
-      "raw_hot": 44037,
-      "num": 213236,
-      "word": "如果露营只能带一件装备",
-      "onboard_time": 1720595358,
-      "rank": 40,
-      "category": "旅游"
     },
     {
       "raw_hot": 42897,
