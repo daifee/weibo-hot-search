@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720617765518,
+  "endTime": 1720618477814,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -203,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1522989,
+      "num": 460481,
+      "word": "入职了情趣用品公司不敢告诉妈妈",
+      "onboard_time": 1720616418,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504982,
       "num": 910642,
       "word": "男子多次虐待女儿希望将其判给前妻",
@@ -217,14 +225,6 @@
       "onboard_time": 1720281679,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1490203,
-      "num": 454236,
-      "word": "入职了情趣用品公司不敢告诉妈妈",
-      "onboard_time": 1720616418,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1454503,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607219,
+      "num": 169894,
+      "word": "马云回国现身阿里总部",
+      "onboard_time": 1720614317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 603339,
       "num": 319415,
       "word": "女子睡凉席双腿被螨虫咬满红斑",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1720403897,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595621,
+      "num": 595621,
+      "word": "杨紫看监视器还在哭",
+      "onboard_time": 1720614498,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 595391,
@@ -1561,14 +1577,6 @@
       "onboard_time": 1720425918,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582610,
-      "num": 582610,
-      "word": "杨紫看监视器还在哭",
-      "onboard_time": 1720614498,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 582419,
@@ -1867,14 +1875,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 511614,
-      "num": 169894,
-      "word": "马云回国现身阿里总部",
-      "onboard_time": 1720614317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 510782,
       "num": 472612,
       "word": "免费的往往却是最贵的",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1720407978,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 469643,
+      "num": 174243,
+      "word": "朋友被裁员拿到了50万经济补偿",
+      "onboard_time": 1720614739,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 469499,
@@ -2571,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429509,
+      "num": 429509,
+      "word": "上海暴雨",
+      "onboard_time": 1720617559,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429457,
       "num": 340340,
       "word": "油罐车调查处置结果将及时公布",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1720592418,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 396456,
-      "num": 174243,
-      "word": "朋友被裁员拿到了50万经济补偿",
-      "onboard_time": 1720614739,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 395056,
@@ -3200,6 +3208,14 @@
       "word": "印度一地一天内19人被雷击身亡",
       "onboard_time": 1720281498,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350286,
+      "num": 160801,
+      "word": "当不婚的小姨成了外甥最好的朋友",
+      "onboard_time": 1720616660,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4115,6 +4131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 258664,
+      "num": 258664,
+      "word": "涂山璟粉底液避雷",
+      "onboard_time": 1720618219,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257831,
       "num": 200418,
       "word": "肖战工作室放的饭得用刀叉吃",
@@ -4227,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "檀健次直播",
+      "onboard_time": 1720617678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248001,
       "num": 191426,
       "word": "柳岩妈妈",
@@ -4265,14 +4297,6 @@
       "onboard_time": 1720411940,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245463,
-      "num": 131857,
-      "word": "当不婚的小姨成了外甥最好的朋友",
-      "onboard_time": 1720616660,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244481,
@@ -4475,6 +4499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232955,
+      "num": 159490,
+      "word": "韩国化妆师给曾黎做的妆造",
+      "onboard_time": 1720617139,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232923,
       "num": 232923,
       "word": "闪耀暖暖",
@@ -4569,6 +4601,14 @@
       "onboard_time": 1720611857,
       "rank": 35,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 227067,
+      "num": 159315,
+      "word": "万茜头发长了",
+      "onboard_time": 1720617799,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225876,
@@ -4705,6 +4745,14 @@
       "onboard_time": 1720442118,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215260,
+      "num": 158812,
+      "word": "杨紫新剧造型好像旺仔",
+      "onboard_time": 1720618157,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 214990,
@@ -4867,20 +4915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209280,
-      "num": 130988,
-      "word": "韩国化妆师给曾黎做的妆造",
-      "onboard_time": 1720617139,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209127,
       "num": 192496,
       "word": "林依晨曾为减肥边哭边催吐",
       "onboard_time": 1720447760,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208793,
+      "num": 208793,
+      "word": "奥运会倒计时",
+      "onboard_time": 1720617859,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 208731,
@@ -5035,6 +5083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204675,
+      "num": 158699,
+      "word": "于适直播",
+      "onboard_time": 1720617618,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204564,
       "num": 204564,
       "word": "洞庭湖决口险情处置发布会",
@@ -5068,7 +5124,7 @@
     },
     {
       "raw_hot": 203246,
-      "num": 128782,
+      "num": 130931,
       "word": "杨紫直播",
       "onboard_time": 1720616598,
       "rank": 32,
@@ -6227,6 +6283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174542,
+      "num": 174542,
+      "word": "三星发布会",
+      "onboard_time": 1720618399,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174257,
       "num": 155012,
       "word": "肖战工作室发法国vlog",
@@ -6284,7 +6348,7 @@
     },
     {
       "raw_hot": 173317,
-      "num": 128067,
+      "num": 156433,
       "word": "陈泽生日直播",
       "onboard_time": 1720617139,
       "rank": 33,
@@ -6867,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158531,
+      "num": 158531,
+      "word": "忆江南",
+      "onboard_time": 1720615878,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158285,
       "num": 158285,
       "word": "姆巴佩入驻微博",
@@ -6985,14 +7057,6 @@
       "onboard_time": 1720446740,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156094,
-      "num": 127687,
-      "word": "忆江南",
-      "onboard_time": 1720615878,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 155430,
@@ -7899,14 +7963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135225,
-      "num": 135225,
-      "word": "上海暴雨",
-      "onboard_time": 1720617559,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134818,
       "num": 1028808,
       "word": "OpenAI恐成美国情报部门帮凶",
@@ -8028,7 +8084,7 @@
     },
     {
       "raw_hot": 132681,
-      "num": 265662,
+      "num": 266331,
       "word": "女子租手机套现背40多万欠债",
       "onboard_time": 1720612818,
       "rank": 9,
@@ -8307,12 +8363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127102,
-      "num": 127102,
-      "word": "檀健次直播",
-      "onboard_time": 1720617678,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 126882,
+      "num": 271184,
+      "word": "约五成大学生校园冷暴力发生在宿舍",
+      "onboard_time": 1720616418,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126626,
@@ -8897,6 +8953,14 @@
       "onboard_time": 1720454538,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113493,
+      "num": 160330,
+      "word": "花花空调房内悠闲晃jiojio",
+      "onboard_time": 1720615159,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113128,
@@ -9539,6 +9603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98476,
+      "num": 112894,
+      "word": "这下轮到老外睁眼看中国了",
+      "onboard_time": 1720618339,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98059,
       "num": 98059,
       "word": "央行将开展临时正回购或逆回购操作",
@@ -9564,7 +9636,7 @@
     },
     {
       "raw_hot": 96692,
-      "num": 96692,
+      "num": 112685,
       "word": "GALA伊泽瑞尔五杀",
       "onboard_time": 1720617439,
       "rank": 48,
@@ -9715,20 +9787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92300,
-      "num": 96582,
-      "word": "花花空调房内悠闲晃jiojio",
-      "onboard_time": 1720615159,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91801,
       "num": 293031,
       "word": "年轻人买车更倾向科技大厂",
       "onboard_time": 1720512438,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91501,
+      "num": 112546,
+      "word": "王俊凯蜡像入驻杜莎夫人蜡像馆",
+      "onboard_time": 1720618458,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 91394,
@@ -9889,14 +9961,6 @@
       "onboard_time": 1720306932,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78913,
-      "num": 271184,
-      "word": "约五成大学生校园冷暴力发生在宿舍",
-      "onboard_time": 1720616418,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78595,
@@ -10700,7 +10764,7 @@
     },
     {
       "raw_hot": 42404,
-      "num": 473660,
+      "num": 483618,
       "word": "汛期防灾避险十不要",
       "onboard_time": 1720602138,
       "rank": 43,
