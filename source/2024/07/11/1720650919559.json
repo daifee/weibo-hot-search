@@ -1,0 +1,410 @@
+{
+  "runTime": 1720650919559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 541336,
+        "num": 541336,
+        "word": "女清洁工消失在垃圾压缩箱",
+        "onboard_time": 1720626077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253811,
+        "num": 253811,
+        "word": "英格兰连续两届欧洲杯进决赛",
+        "onboard_time": 1720646112,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15997,
+        "num": 205258,
+        "word": "我国东南地区再添天然气输送大动脉",
+        "onboard_time": 1720618639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195097,
+        "num": 195097,
+        "word": "荷兰1比2英格兰",
+        "onboard_time": 1720645932,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193494,
+        "num": 193494,
+        "word": "汪海林吐槽年轻女演员不会演戏",
+        "onboard_time": 1720628117,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167892,
+        "num": 167892,
+        "word": "云南1亿只蝴蝶让拍照特效组放假了",
+        "onboard_time": 1720622538,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155408,
+        "num": 155408,
+        "word": "印度一对父子牵手卧轨身亡",
+        "onboard_time": 1720621280,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129543,
+        "num": 129543,
+        "word": "小夭官配",
+        "onboard_time": 1720636572,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116341,
+        "num": 116341,
+        "word": "黄霄雲面部腿部受伤",
+        "onboard_time": 1720619420,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18718,
+        "num": 95755,
+        "word": "没读高中他却成了高校老师",
+        "onboard_time": 1720627998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79068,
+        "num": 79068,
+        "word": "王一博香奈儿晚宴路透",
+        "onboard_time": 1720621459,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76010,
+        "num": 76010,
+        "word": "孙怡 这也不怎么样啊",
+        "onboard_time": 1720608799,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70390,
+        "num": 70390,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65119,
+        "num": 65119,
+        "word": "荷兰vs英格兰裁判",
+        "onboard_time": 1720646112,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64266,
+        "num": 64266,
+        "word": "刘诗诗不愧是天选古人",
+        "onboard_time": 1720625658,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59534,
+        "num": 59534,
+        "word": "英格兰将与西班牙争冠",
+        "onboard_time": 1720648151,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57649,
+        "num": 57649,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720608678,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53683,
+        "num": 53683,
+        "word": "荷兰vs英格兰",
+        "onboard_time": 1720624519,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41327,
+        "num": 52243,
+        "word": "相柳 心软的神",
+        "onboard_time": 1720613898,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49908,
+        "num": 49908,
+        "word": "落后的英格兰惹不起",
+        "onboard_time": 1720644250,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213690,
+        "num": 49117,
+        "word": "睡觉把手举过头顶小心得这种病",
+        "onboard_time": 1720625658,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170336,
+        "num": 47924,
+        "word": "入职了情趣用品公司不敢告诉妈妈",
+        "onboard_time": 1720616418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100034,
+        "num": 46271,
+        "word": "谢娜生孩子何炅推掉工作去陪产",
+        "onboard_time": 1720604659,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44528,
+        "num": 44528,
+        "word": "当不婚的小姨成了外甥最好的朋友",
+        "onboard_time": 1720616660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43325,
+        "num": 43325,
+        "word": "韩国化妆师给曾黎做的妆造",
+        "onboard_time": 1720617139,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43308,
+        "num": 43308,
+        "word": "哪有艺人围观素人接吻摔倒的",
+        "onboard_time": 1720622839,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41739,
+        "num": 41739,
+        "word": "伦纳德退出美国男篮",
+        "onboard_time": 1720623980,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39413,
+        "num": 39413,
+        "word": "檀健次工作室的审美已经nextlevel了",
+        "onboard_time": 1720630635,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38752,
+        "num": 38752,
+        "word": "脖子和腋下的小肉粒到底是啥",
+        "onboard_time": 1720606218,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38319,
+        "num": 38319,
+        "word": "出现14种症状说明你太累了",
+        "onboard_time": 1720638731,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46907,
+        "num": 38270,
+        "word": "马云回国现身阿里总部",
+        "onboard_time": 1720614317,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37800,
+        "num": 37800,
+        "word": "涂山璟粉底液避雷",
+        "onboard_time": 1720618219,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37436,
+        "num": 37436,
+        "word": "朋友被裁员拿到了50万经济补偿",
+        "onboard_time": 1720614739,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34106,
+        "num": 34106,
+        "word": "曾黎跟小孩哥用小天才手表合影",
+        "onboard_time": 1720634713,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33489,
+        "num": 33489,
+        "word": "索斯盖特神奇换人",
+        "onboard_time": 1720648031,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31253,
+        "num": 31253,
+        "word": "鞠婧祎想靠不敢靠",
+        "onboard_time": 1720626677,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30984,
+        "num": 30984,
+        "word": "729 外包",
+        "onboard_time": 1720636212,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 30955,
+        "num": 30955,
+        "word": "西蒙斯世界波",
+        "onboard_time": 1720638912,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30887,
+        "num": 30887,
+        "word": "奶茶品牌集体降价进入10元时代",
+        "onboard_time": 1720630994,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30375,
+        "num": 30375,
+        "word": "喜欢睡觉但晚上舍不得睡",
+        "onboard_time": 1720633153,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29758,
+        "num": 29758,
+        "word": "带着微博去旅行",
+        "onboard_time": 1720632854,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28250,
+        "num": 28250,
+        "word": "回村后发现爸爸新装修的厕所",
+        "onboard_time": 1720649713,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28153,
+        "num": 28153,
+        "word": "沃特金斯替补绝杀",
+        "onboard_time": 1720645932,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25212,
+        "num": 28151,
+        "word": "虞书欣头像",
+        "onboard_time": 1720641131,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24665,
+        "num": 28149,
+        "word": "2024欧洲杯半决赛含金量",
+        "onboard_time": 1720649110,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23576,
+        "num": 28143,
+        "word": "日本两男子将同事放洗衣机搅拌",
+        "onboard_time": 1720616418,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23032,
+        "num": 28137,
+        "word": "凯恩点球破门",
+        "onboard_time": 1720639691,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22946,
+        "num": 28136,
+        "word": "凯恩造点",
+        "onboard_time": 1720639691,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22737,
+        "num": 28130,
+        "word": "凯恩欧洲杯淘汰赛历史射手王",
+        "onboard_time": 1720641251,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21425,
+        "num": 28128,
+        "word": "总有人救索斯盖特",
+        "onboard_time": 1720646350,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统恩巴洛会谈#"
+    }
+  }
+}
