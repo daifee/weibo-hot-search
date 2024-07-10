@@ -1,7 +1,15 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720604110697,
+  "endTime": 1720606923495,
   "band_list": [
+    {
+      "raw_hot": 2153029,
+      "num": 2153029,
+      "word": "罪犯得知儿子高考697分喜极而泣",
+      "onboard_time": 1720602797,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 1596254,
       "num": 1596254,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020755,
+      "num": 1020755,
+      "word": "谢娜生孩子何炅推掉工作去陪产",
+      "onboard_time": 1720604659,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1020509,
       "num": 1020509,
       "word": "卢昱晓走路姿势被说残疾",
@@ -113,6 +129,14 @@
       "onboard_time": 1720580239,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 951711,
+      "num": 951711,
+      "word": "鞠婧祎 温婉",
+      "onboard_time": 1720602740,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 900056,
@@ -195,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 696116,
+      "num": 266559,
+      "word": "腾讯调整员工薪资福利政策",
+      "onboard_time": 1720604358,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 695537,
       "num": 695537,
       "word": "梅西给6个月大的亚马尔洗过澡",
@@ -227,12 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 662656,
-      "num": 662656,
-      "word": "罪犯得知儿子高考697分喜极而泣",
-      "onboard_time": 1720602797,
-      "rank": 36,
-      "category": "社会新闻,教育"
+      "raw_hot": 662228,
+      "num": 169176,
+      "word": "猪油 少吃",
+      "onboard_time": 1720606458,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 649118,
@@ -257,14 +289,6 @@
       "onboard_time": 1720534459,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 614447,
-      "num": 614447,
-      "word": "鞠婧祎 温婉",
-      "onboard_time": 1720602740,
-      "rank": 28,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 613039,
@@ -363,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516752,
+      "num": 516752,
+      "word": "35岁再考清华当事人公布高考成绩",
+      "onboard_time": 1720602318,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 514790,
       "num": 359122,
       "word": "歌手2024官宣lenka",
@@ -393,14 +425,6 @@
       "onboard_time": 1720574538,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490105,
-      "num": 311095,
-      "word": "35岁再考清华当事人公布高考成绩",
-      "onboard_time": 1720602318,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 489542,
@@ -497,6 +521,14 @@
       "onboard_time": 1720589298,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 445874,
+      "num": 264728,
+      "word": "为了官宣开一档综艺",
+      "onboard_time": 1720603098,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 435459,
@@ -659,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352474,
+      "num": 262945,
+      "word": "纪委调查公务员与教师摘豆角引纠纷",
+      "onboard_time": 1720603338,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349578,
       "num": 133471,
       "word": "体制内对怀孕女性的态度",
@@ -755,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303309,
+      "num": 260111,
+      "word": "鞠婧祎 签约大雷",
+      "onboard_time": 1720606578,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296452,
       "num": 296452,
       "word": "RNG真没打野了",
@@ -779,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286018,
+      "num": 168925,
+      "word": "脖子和腋下的小肉粒到底是啥",
+      "onboard_time": 1720606218,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283447,
       "num": 283447,
       "word": "亚马尔 天才少年",
@@ -793,6 +849,14 @@
       "onboard_time": 1720584440,
       "rank": 33,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 273228,
+      "num": 273228,
+      "word": "官方回应萝卜快跑碰撞事故",
+      "onboard_time": 1720595117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265828,
@@ -819,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252971,
-      "num": 167851,
-      "word": "为了官宣开一档综艺",
-      "onboard_time": 1720603098,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252637,
       "num": 252637,
       "word": "中国人民解放军92950部队记一等功",
@@ -843,20 +899,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248001,
+      "num": 168045,
+      "word": "柳岩妈妈",
+      "onboard_time": 1720604598,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247755,
       "num": 247755,
       "word": "在川渝上大学相当于一次爆改",
       "onboard_time": 1720585760,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 244931,
-      "num": 263440,
-      "word": "官方回应萝卜快跑碰撞事故",
-      "onboard_time": 1720595117,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241813,
@@ -913,6 +969,14 @@
       "onboard_time": 1720598178,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212282,
+      "num": 167899,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 211005,
@@ -1003,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199881,
+      "num": 167067,
+      "word": "摩羯座主动打电话的含金量",
+      "onboard_time": 1720605799,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197881,
       "num": 197881,
       "word": "美一客机起飞后被通知轮子掉了",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1720589418,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184272,
+      "num": 184272,
+      "word": "辽宁一景区月薪5000招野人演员",
+      "onboard_time": 1720601359,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 184237,
@@ -1179,14 +1259,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 173356,
-      "num": 173356,
-      "word": "辽宁一景区月薪5000招野人演员",
-      "onboard_time": 1720601359,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 171548,
       "num": 171548,
       "word": "许嵩大连抢票",
@@ -1235,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166511,
-      "num": 166511,
-      "word": "纪委调查公务员与教师摘豆角引纠纷",
-      "onboard_time": 1720603338,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165836,
       "num": 165836,
       "word": "A股",
@@ -1275,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160378,
+      "num": 160378,
+      "word": "相柳的角色微博名改了",
+      "onboard_time": 1720605679,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1720575375,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156348,
+      "num": 156348,
+      "word": "谢霆锋 好多人啊",
+      "onboard_time": 1720605559,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 155313,
@@ -1387,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147102,
+      "num": 147102,
+      "word": "官方回应苏州河大闸蟹被煮熟",
+      "onboard_time": 1720606398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144269,
       "num": 126124,
       "word": "研究发现月经用品中含有毒金属",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1720601417,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137256,
+      "num": 137256,
+      "word": "游客在南非公园下车拍照被象群踩死",
+      "onboard_time": 1720605078,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136651,
@@ -1547,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130910,
+      "num": 130910,
+      "word": "韩国19岁恶魔杀人分尸16个小时",
+      "onboard_time": 1720605918,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130094,
       "num": 130094,
       "word": "下半年摩羯座扬眉吐气",
@@ -1619,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124961,
+      "num": 359145,
+      "word": "文体局回应游客被收398元过沟费",
+      "onboard_time": 1720602017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124646,
       "num": 124646,
       "word": "我看全职看得想吐",
@@ -1627,20 +1739,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124196,
+      "num": 166056,
+      "word": "全红婵演我暑假",
+      "onboard_time": 1720603638,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122097,
+      "num": 122097,
+      "word": "杨紫片场给邓为把出喜脉",
+      "onboard_time": 1720604418,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121166,
       "num": 121166,
       "word": "饿了么免单",
       "onboard_time": 1720582578,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120823,
-      "num": 359145,
-      "word": "文体局回应游客被收398元过沟费",
-      "onboard_time": 1720602017,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120564,
@@ -1659,12 +1779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119214,
-      "num": 119214,
-      "word": "全红婵演我暑假",
-      "onboard_time": 1720603638,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 116855,
+      "num": 116855,
+      "word": "苏容卿不是幸会是好久不见",
+      "onboard_time": 1720606158,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116809,
@@ -1867,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103654,
+      "num": 111998,
+      "word": "亚马尔说梅西是最伟大的球员",
+      "onboard_time": 1720604898,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103168,
       "num": 103168,
       "word": "消防员版跳绳燃脂教程",
@@ -1961,6 +2089,14 @@
       "onboard_time": 1720542856,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83239,
+      "num": 109662,
+      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+      "onboard_time": 1720606879,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81619,
@@ -2257,6 +2393,14 @@
       "onboard_time": 1720576999,
       "rank": 13,
       "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 44551,
+      "num": 267663,
+      "word": "来一趟四川外国游客被美食征服了",
+      "onboard_time": 1720605618,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42897,
