@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720574591484,
+  "endTime": 1720575865391,
   "band_list": [
     {
       "raw_hot": 1243167,
@@ -27,6 +27,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 810660,
+      "num": 810660,
+      "word": "亚马尔 姆巴佩",
+      "onboard_time": 1720571598,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800697,
       "num": 800697,
       "word": "涂山璟 此身从此分明了",
@@ -36,19 +44,27 @@
     },
     {
       "raw_hot": 798988,
-      "num": 643675,
+      "num": 687532,
       "word": "原来韩国人吃周翊然这种",
       "onboard_time": 1720569616,
       "rank": 3,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 717027,
-      "num": 717027,
-      "word": "亚马尔 姆巴佩",
-      "onboard_time": 1720571598,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 783072,
+      "num": 783072,
+      "word": "今年的录取通知书已经是NextLevel",
+      "onboard_time": 1720571658,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 749235,
+      "num": 361862,
+      "word": "你们蛇的衣服是同一家店买的吗",
+      "onboard_time": 1720573398,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 685539,
@@ -83,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 595469,
-      "num": 595469,
-      "word": "今年的录取通知书已经是NextLevel",
-      "onboard_time": 1720571658,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 587745,
       "num": 587745,
       "word": "4岁姐姐抱着8个月壮汉弟弟",
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 529062,
+      "num": 529062,
+      "word": "相柳为什么狠绝杀了防风邶",
+      "onboard_time": 1720572318,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481781,
       "num": 232274,
       "word": "我爸开的饭店厕所里有卫生巾",
@@ -123,20 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481340,
+      "num": 481340,
+      "word": "梅西进球",
+      "onboard_time": 1720574418,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457623,
       "num": 276483,
       "word": "失踪22年美国登山者遗体被找到",
       "onboard_time": 1720535120,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454901,
-      "num": 454901,
-      "word": "相柳为什么狠绝杀了防风邶",
-      "onboard_time": 1720572318,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 451067,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 353866,
-      "num": 216232,
+      "num": 216594,
       "word": "体制内到办公室的第一件事",
       "onboard_time": 1720529660,
       "rank": 24,
@@ -201,14 +217,6 @@
       "onboard_time": 1720547473,
       "rank": 19,
       "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 344786,
-      "num": 344786,
-      "word": "你们蛇的衣服是同一家店买的吗",
-      "onboard_time": 1720573398,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 330365,
@@ -249,6 +257,22 @@
       "onboard_time": 1720559350,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258681,
+      "num": 258681,
+      "word": "洞庭湖全线退出警戒水位",
+      "onboard_time": 1720574538,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258038,
+      "num": 258038,
+      "word": "相柳弹琴好尬",
+      "onboard_time": 1720574896,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 252637,
@@ -299,12 +323,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 206525,
-      "num": 206525,
+      "raw_hot": 209507,
+      "num": 209507,
       "word": "吴昕说卢昱晓长得周正",
       "onboard_time": 1720572499,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197881,
+      "num": 197881,
+      "word": "美一客机起飞后被通知轮子掉了",
+      "onboard_time": 1720573338,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193250,
@@ -315,20 +347,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192481,
-      "num": 192481,
-      "word": "美一客机起飞后被通知轮子掉了",
-      "onboard_time": 1720573338,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191476,
       "num": 191476,
       "word": "鹿晗工作室是在暗示四巡地点吗",
       "onboard_time": 1720527558,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190924,
+      "num": 190924,
+      "word": "格力诉小米米家电风扇侵权一案胜诉",
+      "onboard_time": 1720573937,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186149,
@@ -355,12 +387,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 178687,
+      "num": 454103,
+      "word": "大热天女孩被困车内民警果断砸窗救人",
+      "onboard_time": 1720573039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177441,
       "num": 177441,
       "word": "苏醒 披哥诀窍是抱王铮亮大腿",
       "onboard_time": 1720567575,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175371,
+      "num": 175371,
+      "word": "多家影院回应单人购票选座受限制",
+      "onboard_time": 1720574658,
+      "rank": 31,
+      "category": "社会新闻,电影"
+    },
+    {
+      "raw_hot": 174700,
+      "num": 174700,
+      "word": "专家称发现结节就想手术是制造焦虑",
+      "onboard_time": 1720572978,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167744,
@@ -395,12 +451,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "骗子用出国月薪3万骗了1000多万",
+      "onboard_time": 1720575138,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "漫画师画的杨紫",
       "onboard_time": 1720574118,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154369,
+      "num": 154369,
+      "word": "当男朋友的妈妈知道我是美术生",
+      "onboard_time": 1720575496,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151574,
+      "num": 151574,
+      "word": "中国男篮vs马刺",
+      "onboard_time": 1720574838,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145680,
+      "num": 145680,
+      "word": "29个月的小朋友独自去买苹果汁",
+      "onboard_time": 1720575375,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 144269,
@@ -419,28 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "专家称发现结节就想手术是制造焦虑",
-      "onboard_time": 1720572978,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136651,
       "num": 136651,
       "word": "金牛座为什么难以亲近",
       "onboard_time": 1720532118,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132347,
-      "num": 132347,
-      "word": "梅西进球",
-      "onboard_time": 1720574418,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 130094,
@@ -475,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117711,
-      "num": 117711,
-      "word": "格力诉小米米家电风扇侵权一案胜诉",
-      "onboard_time": 1720573937,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116809,
       "num": 116809,
       "word": "4个部位出汗多暗示身体有问题",
@@ -497,6 +561,14 @@
       "onboard_time": 1720567756,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109122,
+      "num": 109122,
+      "word": "亚马尔",
+      "onboard_time": 1720570639,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 107556,
@@ -531,28 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96197,
-      "num": 96197,
-      "word": "亚马尔",
-      "onboard_time": 1720570639,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96186,
       "num": 96186,
       "word": "小孩子脾胃不好尝试炒水",
       "onboard_time": 1720568237,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 90367,
-      "num": 90367,
-      "word": "洞庭湖全线退出警戒水位",
-      "onboard_time": 1720574538,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88642,
@@ -699,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 68592,
-      "num": 454103,
-      "word": "大热天女孩被困车内民警果断砸窗救人",
-      "onboard_time": 1720573039,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68053,
       "num": 68053,
       "word": "红衣夭柳就当你也嫁过我一次",
@@ -737,6 +785,14 @@
       "onboard_time": 1720552871,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62289,
+      "num": 795703,
+      "word": "OpenAI恐成美国情报部门帮凶",
+      "onboard_time": 1720575258,
+      "rank": 2,
+      "category": "国外时政"
     },
     {
       "raw_hot": 60915,
@@ -859,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38717,
+      "num": 174662,
+      "word": "暑期健康这样抄作业",
+      "onboard_time": 1720575438,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38152,
       "num": 38152,
       "word": "2024欧洲杯",
@@ -897,6 +961,14 @@
       "onboard_time": 1720551312,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29224,
+      "num": 370144,
+      "word": "临沂雨中赏荷心如莲",
+      "onboard_time": 1720574896,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 28433,
