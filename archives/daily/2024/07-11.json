@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720646324806,
+  "endTime": 1720647329654,
   "band_list": [
     {
       "raw_hot": 831821,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126881,
+      "num": 126881,
+      "word": "英格兰连续两届欧洲杯进决赛",
+      "onboard_time": 1720646112,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119616,
       "num": 119616,
       "word": "马云回国现身阿里总部",
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102739,
+      "num": 59667,
+      "word": "荷兰vs英格兰裁判",
+      "onboard_time": 1720646112,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99501,
       "num": 99501,
       "word": "小夭哄玱玹",
@@ -427,11 +443,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83078,
-      "num": 26449,
-      "word": "荷兰vs英格兰裁判",
-      "onboard_time": 1720646112,
-      "rank": 30,
+      "raw_hot": 83448,
+      "num": 83448,
+      "word": "落后的英格兰惹不起",
+      "onboard_time": 1720644250,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -475,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73936,
-      "num": 73936,
-      "word": "落后的英格兰惹不起",
-      "onboard_time": 1720644250,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69011,
-      "num": 51119,
+      "num": 56455,
       "word": "凯恩欧洲杯淘汰赛历史射手王",
       "onboard_time": 1720641251,
       "rank": 12,
@@ -513,6 +521,14 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52096,
+      "num": 52096,
+      "word": "小夭官配",
+      "onboard_time": 1720636572,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 50257,
@@ -545,22 +561,6 @@
       "onboard_time": 1720631176,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44175,
-      "num": 44175,
-      "word": "小夭官配",
-      "onboard_time": 1720636572,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42454,
-      "num": 42454,
-      "word": "英格兰连续两届欧洲杯进决赛",
-      "onboard_time": 1720646112,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 41350,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24712,
+      "num": 24712,
+      "word": "总有人救索斯盖特",
+      "onboard_time": 1720646350,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24638,
       "num": 30029,
       "word": "曾黎跟小孩哥用小天才手表合影",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 11991,
-      "num": 184627,
+      "num": 190854,
       "word": "我国东南地区再添天然气输送大动脉",
       "onboard_time": 1720618639,
       "rank": 2,
