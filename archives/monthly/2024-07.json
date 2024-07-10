@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720607898001,
+  "endTime": 1720610251139,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -537,6 +537,14 @@
       "onboard_time": 1720064718,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1558788,
+      "num": 1558788,
+      "word": "鞠婧祎 签约大雷",
+      "onboard_time": 1720606578,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1550455,
@@ -1617,14 +1625,6 @@
       "onboard_time": 1720342637,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 996997,
-      "num": 996997,
-      "word": "鞠婧祎 签约大雷",
-      "onboard_time": 1720606578,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 996553,
@@ -3443,6 +3443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 653888,
+      "num": 196723,
+      "word": "脖子和腋下的小肉粒到底是啥",
+      "onboard_time": 1720606218,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 651993,
       "num": 651993,
       "word": "内马尔",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1720535959,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647597,
+      "num": 229996,
+      "word": "孙怡 这也不怎么样啊",
+      "onboard_time": 1720608799,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 647242,
@@ -4929,14 +4945,6 @@
       "onboard_time": 1719825619,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524765,
-      "num": 196723,
-      "word": "脖子和腋下的小肉粒到底是啥",
-      "onboard_time": 1720606218,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 524248,
@@ -7988,7 +7996,7 @@
     },
     {
       "raw_hot": 365282,
-      "num": 208650,
+      "num": 214000,
       "word": "韩国19岁恶魔杀人分尸16个小时",
       "onboard_time": 1720605918,
       "rank": 39,
@@ -8137,6 +8145,14 @@
       "onboard_time": 1720049956,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358128,
+      "num": 225318,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720608678,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358122,
@@ -9539,6 +9555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 297844,
+      "num": 219769,
+      "word": "EXO和NCT被诈骗地址信息",
+      "onboard_time": 1720607658,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296895,
       "num": 296895,
       "word": "一声娘子梦回苍兰诀",
@@ -10179,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271533,
+      "num": 271533,
+      "word": "官方回应苏州河大闸蟹被煮熟",
+      "onboard_time": 1720606398,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270659,
       "num": 270659,
       "word": "徐志胜被孟子义整破防了",
@@ -10659,6 +10691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253634,
+      "num": 206865,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253577,
       "num": 322515,
       "word": "各方回应临沂市文联主席遇害身亡",
@@ -10697,14 +10737,6 @@
       "onboard_time": 1719939735,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251285,
-      "num": 206865,
-      "word": "邓为直播",
-      "onboard_time": 1720606277,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 251172,
@@ -11017,6 +11049,14 @@
       "onboard_time": 1720498638,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242860,
+      "num": 180391,
+      "word": "北京昌平发了王俊凯",
+      "onboard_time": 1720609458,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 242748,
@@ -11577,14 +11617,6 @@
       "onboard_time": 1720516340,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228375,
-      "num": 193337,
-      "word": "EXO和NCT被诈骗地址信息",
-      "onboard_time": 1720607658,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 228293,
@@ -12363,14 +12395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211808,
-      "num": 206502,
-      "word": "官方回应苏州河大闸蟹被煮熟",
-      "onboard_time": 1720606398,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211759,
       "num": 211759,
       "word": "申花6球大胜泰山创造最大分差",
@@ -12393,6 +12417,14 @@
       "onboard_time": 1720596498,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210923,
+      "num": 210923,
+      "word": "证监会批准暂停转融券业务",
+      "onboard_time": 1720609219,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 210783,
@@ -12633,6 +12665,14 @@
       "onboard_time": 1720495578,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207563,
+      "num": 207563,
+      "word": "铠圣斗士皮肤",
+      "onboard_time": 1720608259,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 207525,
@@ -15155,6 +15195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181066,
+      "num": 181066,
+      "word": "转融通",
+      "onboard_time": 1720608259,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180942,
       "num": 180942,
       "word": "洞庭湖被困人员已全部转移",
@@ -15401,6 +15449,14 @@
       "onboard_time": 1719798139,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178935,
+      "num": 178935,
+      "word": "相柳的角色微博名改了",
+      "onboard_time": 1720605679,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 178747,
@@ -16171,6 +16227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170420,
+      "num": 170420,
+      "word": "吴谨言说久违了大波浪",
+      "onboard_time": 1720609397,
+      "rank": 30,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 170358,
       "num": 170358,
       "word": "朱一龙社畜感在演我",
@@ -16393,14 +16457,6 @@
       "onboard_time": 1719814098,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168173,
-      "num": 168173,
-      "word": "相柳的角色微博名改了",
-      "onboard_time": 1720605679,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 168121,
@@ -16721,6 +16777,14 @@
       "onboard_time": 1720233737,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163775,
+      "num": 163775,
+      "word": "谁教成毅这么吃火龙果的",
+      "onboard_time": 1720609517,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163723,
@@ -17891,6 +17955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152992,
+      "num": 174224,
+      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+      "onboard_time": 1720606879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152963,
       "num": 152963,
       "word": "太原理工vs清华大学",
@@ -18843,6 +18915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144022,
+      "num": 114063,
+      "word": "吉克隽逸屁股翘到可以顶起一瓶汽水",
+      "onboard_time": 1720608199,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144004,
       "num": 144004,
       "word": "张新成 自由才是最大的不自由",
@@ -19675,6 +19755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137735,
+      "num": 107695,
+      "word": "于文文 你忙你的我i我的",
+      "onboard_time": 1720608678,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137691,
       "num": 137691,
       "word": "决战平安京",
@@ -19937,6 +20025,14 @@
       "onboard_time": 1719924557,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135729,
+      "num": 135729,
+      "word": "T1真困了",
+      "onboard_time": 1720609879,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 135687,
@@ -20545,6 +20641,14 @@
       "onboard_time": 1720509977,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130875,
+      "num": 107648,
+      "word": "闵庚勋11月结婚",
+      "onboard_time": 1720608500,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 130870,
@@ -22859,14 +22963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110807,
-      "num": 110807,
-      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
-      "onboard_time": 1720606879,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110773,
       "num": 110773,
       "word": "丁程鑫对待朋友好暖心一孩子",
@@ -23121,6 +23217,14 @@
       "onboard_time": 1719964756,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 108868,
+      "num": 108868,
+      "word": "上甘岭特等功臣林炳远逝世",
+      "onboard_time": 1720609759,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108784,
@@ -23867,6 +23971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "薛之谦演唱会抢票",
+      "onboard_time": 1720608379,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99191,
       "num": 99191,
       "word": "当地水利局回应周翠翠夫妇去世",
@@ -23945,6 +24057,14 @@
       "onboard_time": 1720403897,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97816,
+      "num": 97816,
+      "word": "摇光录吴亥强制爱",
+      "onboard_time": 1720609157,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 97777,
@@ -24121,6 +24241,14 @@
       "onboard_time": 1720080978,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95610,
+      "num": 95610,
+      "word": "好厉害的女机长",
+      "onboard_time": 1720609818,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 95585,
@@ -24489,6 +24617,14 @@
       "onboard_time": 1720047613,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89845,
+      "num": 89845,
+      "word": "当吃面吃到一半老师来了",
+      "onboard_time": 1720609099,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89802,
@@ -26177,6 +26313,14 @@
       "onboard_time": 1720153340,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 50247,
+      "num": 231969,
+      "word": "两华人菲律宾被绑架失联已半年",
+      "onboard_time": 1720609219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50193,
