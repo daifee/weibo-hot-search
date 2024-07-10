@@ -1,0 +1,410 @@
+{
+  "runTime": 1720611368248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1533391,
+        "num": 1533391,
+        "word": "鞠婧祎 签约大雷",
+        "onboard_time": 1720606578,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000027,
+        "num": 1000027,
+        "word": "罪犯得知儿子高考697分喜极而泣",
+        "onboard_time": 1720602797,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9798,
+        "num": 823098,
+        "word": "OpenAI恐成美国情报部门帮凶",
+        "onboard_time": 1720575258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656490,
+        "num": 656490,
+        "word": "谢娜生孩子何炅推掉工作去陪产",
+        "onboard_time": 1720604659,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586821,
+        "num": 586821,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720608678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362878,
+        "num": 362878,
+        "word": "腾讯调整员工薪资福利政策",
+        "onboard_time": 1720604358,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369918,
+        "num": 360678,
+        "word": "鞠婧祎 温婉",
+        "onboard_time": 1720602740,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 358090,
+        "num": 358090,
+        "word": "证监会批准暂停转融券业务",
+        "onboard_time": 1720609219,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 330559,
+        "num": 330559,
+        "word": "卢昱晓走路姿势被说残疾",
+        "onboard_time": 1720600218,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261685,
+        "num": 261685,
+        "word": "官方回应苏州河大闸蟹被煮熟",
+        "onboard_time": 1720606398,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861388,
+        "num": 261239,
+        "word": "孙怡 这也不怎么样啊",
+        "onboard_time": 1720608799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37483,
+        "num": 260987,
+        "word": "辅警下班途中飞身擒贼获二级嘉奖",
+        "onboard_time": 1720607658,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327934,
+        "num": 260110,
+        "word": "关芝芝竟然嫁给了黄牡丹",
+        "onboard_time": 1720594158,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266747,
+        "num": 259680,
+        "word": "EXO和NCT被诈骗地址信息",
+        "onboard_time": 1720607658,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266501,
+        "num": 259287,
+        "word": "为了官宣开一档综艺",
+        "onboard_time": 1720603098,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258993,
+        "num": 258993,
+        "word": "韩国19岁恶魔杀人分尸16个小时",
+        "onboard_time": 1720605918,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219468,
+        "num": 219468,
+        "word": "纪委调查公务员与教师摘豆角引纠纷",
+        "onboard_time": 1720603338,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193959,
+        "num": 193959,
+        "word": "官方回应萝卜快跑碰撞事故",
+        "onboard_time": 1720595117,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180999,
+        "num": 180999,
+        "word": "铠圣斗士皮肤",
+        "onboard_time": 1720608259,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172244,
+        "num": 172244,
+        "word": "T1真困了",
+        "onboard_time": 1720609879,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 665329,
+        "num": 172243,
+        "word": "脖子和腋下的小肉粒到底是啥",
+        "onboard_time": 1720606218,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259476,
+        "num": 171993,
+        "word": "邓为直播",
+        "onboard_time": 1720606277,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231355,
+        "num": 171967,
+        "word": "鞠婧祎妆造",
+        "onboard_time": 1720595778,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227421,
+        "num": 171766,
+        "word": "相柳的角色微博名改了",
+        "onboard_time": 1720605679,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223002,
+        "num": 171733,
+        "word": "北京昌平发了王俊凯",
+        "onboard_time": 1720609458,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214411,
+        "num": 171522,
+        "word": "奥利 背刺",
+        "onboard_time": 1720588698,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210714,
+        "num": 171392,
+        "word": "檀健次工作室发了60秒无声相柳",
+        "onboard_time": 1720610898,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202100,
+        "num": 171248,
+        "word": "刘诗诗GLASS盛典穿高定",
+        "onboard_time": 1720611258,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184080,
+        "num": 171210,
+        "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+        "onboard_time": 1720606879,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 171054,
+        "word": "摩羯座主动打电话的含金量",
+        "onboard_time": 1720605799,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127853,
+        "num": 170889,
+        "word": "转融通",
+        "onboard_time": 1720608259,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196580,
+        "num": 170819,
+        "word": "谁教成毅这么吃火龙果的",
+        "onboard_time": 1720609517,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191562,
+        "num": 170658,
+        "word": "刘诗诗第三次演绎GuoPei高定",
+        "onboard_time": 1720610938,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170602,
+        "num": 170602,
+        "word": "吴谨言说久违了大波浪",
+        "onboard_time": 1720609397,
+        "rank": 33,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 167805,
+        "num": 167805,
+        "word": "时代少年团直播",
+        "onboard_time": 1720610659,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111753,
+        "num": 164091,
+        "word": "两华人菲律宾被绑架失联已半年",
+        "onboard_time": 1720609219,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161563,
+        "num": 161563,
+        "word": "温太医沈眉庄大婚",
+        "onboard_time": 1720589119,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113731,
+        "num": 155508,
+        "word": "穆勒从德国队退役",
+        "onboard_time": 1720610837,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104383,
+        "num": 152624,
+        "word": "当吃面吃到一半老师来了",
+        "onboard_time": 1720609099,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102115,
+        "num": 151461,
+        "word": "亚马尔父亲才35岁",
+        "onboard_time": 1720599738,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150463,
+        "num": 150463,
+        "word": "肖战工作室放的饭得用刀叉吃",
+        "onboard_time": 1720599499,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146406,
+        "num": 146406,
+        "word": "柳岩妈妈",
+        "onboard_time": 1720604598,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "吉克隽逸屁股翘到可以顶起一瓶汽水",
+        "onboard_time": 1720608199,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133502,
+        "num": 133502,
+        "word": "阿Sa替阿娇发声",
+        "onboard_time": 1720610837,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128708,
+        "num": 128708,
+        "word": "于文文 你忙你的我i我的",
+        "onboard_time": 1720608678,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101652,
+        "num": 101652,
+        "word": "狸花 这条件也就我不嫌弃你",
+        "onboard_time": 1720610119,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95135,
+        "num": 95135,
+        "word": "第一次见这么豪华的火车",
+        "onboard_time": 1720611020,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94440,
+        "num": 94440,
+        "word": "游客在南非公园下车拍照被象群踩死",
+        "onboard_time": 1720605078,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89528,
+        "num": 89528,
+        "word": "水蜜桃插吸管喝汁是什么体验",
+        "onboard_time": 1720611316,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87918,
+        "num": 87918,
+        "word": "辽宁一景区月薪5000招野人演员",
+        "onboard_time": 1720601359,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见孟加拉国总理哈西娜#"
+    }
+  }
+}

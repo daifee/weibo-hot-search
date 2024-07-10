@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720610251139,
+  "endTime": 1720611368248,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -827,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 861388,
+      "num": 261239,
+      "word": "孙怡 这也不怎么样啊",
+      "onboard_time": 1720608799,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846647,
       "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
@@ -1259,20 +1267,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 665329,
+      "num": 196723,
+      "word": "脖子和腋下的小肉粒到底是啥",
+      "onboard_time": 1720606218,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 665307,
       "num": 665307,
       "word": "北大教授反驳中国房子过剩",
       "onboard_time": 1720421900,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653888,
-      "num": 196723,
-      "word": "脖子和腋下的小肉粒到底是啥",
-      "onboard_time": 1720606218,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 651993,
@@ -1289,14 +1297,6 @@
       "onboard_time": 1720535959,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 647597,
-      "num": 229996,
-      "word": "孙怡 这也不怎么样啊",
-      "onboard_time": 1720608799,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 647242,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1720566614,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 586821,
+      "num": 586821,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720608678,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584217,
@@ -3004,7 +3012,7 @@
     },
     {
       "raw_hot": 365282,
-      "num": 214000,
+      "num": 258993,
       "word": "韩国19岁恶魔杀人分尸16个小时",
       "onboard_time": 1720605918,
       "rank": 39,
@@ -3075,20 +3083,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 358128,
-      "num": 225318,
-      "word": "女子称晒背10天瘦了4斤",
-      "onboard_time": 1720608678,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358122,
       "num": 201191,
       "word": "加相亲对象微信别给电话号码",
       "onboard_time": 1720451240,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 358090,
+      "num": 358090,
+      "word": "证监会批准暂停转融券业务",
+      "onboard_time": 1720609219,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 354716,
@@ -3644,7 +3652,7 @@
     },
     {
       "raw_hot": 297844,
-      "num": 219769,
+      "num": 259680,
       "word": "EXO和NCT被诈骗地址信息",
       "onboard_time": 1720607658,
       "rank": 25,
@@ -4003,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259476,
+      "num": 206865,
+      "word": "邓为直播",
+      "onboard_time": 1720606277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258730,
       "num": 258730,
       "word": "伊藤润二联动三丽鸥",
@@ -4057,14 +4073,6 @@
       "onboard_time": 1720499599,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 253634,
-      "num": 206865,
-      "word": "邓为直播",
-      "onboard_time": 1720606277,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 253577,
@@ -4451,6 +4459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227421,
+      "num": 178935,
+      "word": "相柳的角色微博名改了",
+      "onboard_time": 1720605679,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225876,
       "num": 219331,
       "word": "王鹤棣寸头",
@@ -4683,12 +4699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210923,
-      "num": 210923,
-      "word": "证监会批准暂停转融券业务",
-      "onboard_time": 1720609219,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 210714,
+      "num": 171392,
+      "word": "檀健次工作室发了60秒无声相柳",
+      "onboard_time": 1720610898,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 210668,
@@ -4987,6 +5003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202100,
+      "num": 171248,
+      "word": "刘诗诗GLASS盛典穿高定",
+      "onboard_time": 1720611258,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201438,
       "num": 201438,
       "word": "杨紫包场长相思2",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1720325717,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196580,
+      "num": 170819,
+      "word": "谁教成毅这么吃火龙果的",
+      "onboard_time": 1720609517,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196182,
@@ -5385,6 +5417,14 @@
       "onboard_time": 1720342577,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191562,
+      "num": 170658,
+      "word": "刘诗诗第三次演绎GuoPei高定",
+      "onboard_time": 1720610938,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191410,
@@ -5643,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184080,
+      "num": 174224,
+      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
+      "onboard_time": 1720606879,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183942,
       "num": 183942,
       "word": "中国男篮31分不敌黄蜂",
@@ -5816,14 +5864,6 @@
       "word": "长相思全员营业",
       "onboard_time": 1720281319,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178935,
-      "num": 178935,
-      "word": "相柳的角色微博名改了",
-      "onboard_time": 1720605679,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -6115,6 +6155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172244,
+      "num": 172244,
+      "word": "T1真困了",
+      "onboard_time": 1720609879,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172225,
       "num": 172225,
       "word": "张艺兴手语版ALegend",
@@ -6155,20 +6203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170602,
+      "num": 170602,
+      "word": "吴谨言说久违了大波浪",
+      "onboard_time": 1720609397,
+      "rank": 30,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 170575,
       "num": 170575,
       "word": "中石化回应春招萝卜坑招聘",
       "onboard_time": 1720587978,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170420,
-      "num": 170420,
-      "word": "吴谨言说久违了大波浪",
-      "onboard_time": 1720609397,
-      "rank": 30,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 170358,
@@ -6305,6 +6353,14 @@
       "onboard_time": 1720432639,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167805,
+      "num": 167805,
+      "word": "时代少年团直播",
+      "onboard_time": 1720610659,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 167759,
@@ -6465,14 +6521,6 @@
       "onboard_time": 1720505898,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163775,
-      "num": 163775,
-      "word": "谁教成毅这么吃火龙果的",
-      "onboard_time": 1720609517,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163723,
@@ -6923,14 +6971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152992,
-      "num": 174224,
-      "word": "奶奶吃药忘拧盖2岁孙子当糖果吃了",
-      "onboard_time": 1720606879,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152708,
       "num": 150059,
       "word": "杨紫的接剧水平",
@@ -7260,7 +7300,7 @@
     },
     {
       "raw_hot": 144022,
-      "num": 114063,
+      "num": 140793,
       "word": "吉克隽逸屁股翘到可以顶起一瓶汽水",
       "onboard_time": 1720608199,
       "rank": 35,
@@ -7580,7 +7620,7 @@
     },
     {
       "raw_hot": 137735,
-      "num": 107695,
+      "num": 128708,
       "word": "于文文 你忙你的我i我的",
       "onboard_time": 1720608678,
       "rank": 40,
@@ -7675,14 +7715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135729,
-      "num": 135729,
-      "word": "T1真困了",
-      "onboard_time": 1720609879,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "世界上持续时间最久的实验",
@@ -7761,6 +7793,14 @@
       "onboard_time": 1720589659,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133502,
+      "num": 133502,
+      "word": "阿Sa替阿娇发声",
+      "onboard_time": 1720610837,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 133494,
@@ -8635,6 +8675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113731,
+      "num": 155508,
+      "word": "穆勒从德国队退役",
+      "onboard_time": 1720610837,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113505,
       "num": 241793,
       "word": "媒体评罐车拉完煤制油直接装食用油",
@@ -8737,6 +8785,14 @@
       "onboard_time": 1720598358,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111753,
+      "num": 231969,
+      "word": "两华人菲律宾被绑架失联已半年",
+      "onboard_time": 1720609219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111412,
@@ -9099,6 +9155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104383,
+      "num": 152624,
+      "word": "当吃面吃到一半老师来了",
+      "onboard_time": 1720609099,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104351,
       "num": 124997,
       "word": "杜海涛在节目里又cue沈梦辰了",
@@ -9201,6 +9265,14 @@
       "onboard_time": 1720564394,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101652,
+      "num": 101652,
+      "word": "狸花 这条件也就我不嫌弃你",
+      "onboard_time": 1720610119,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 101525,
@@ -9347,6 +9419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95135,
+      "num": 95135,
+      "word": "第一次见这么豪华的火车",
+      "onboard_time": 1720611020,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 94807,
       "num": 94807,
       "word": "英格兰瑞士点球大战",
@@ -9443,12 +9523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89845,
-      "num": 89845,
-      "word": "当吃面吃到一半老师来了",
-      "onboard_time": 1720609099,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 89528,
+      "num": 89528,
+      "word": "水蜜桃插吸管喝汁是什么体验",
+      "onboard_time": 1720611316,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 88426,
@@ -10195,14 +10275,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50247,
-      "num": 231969,
-      "word": "两华人菲律宾被绑架失联已半年",
-      "onboard_time": 1720609219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49998,
       "num": 400427,
       "word": "男子溺水同济护士冲上去了",
@@ -10420,7 +10492,7 @@
     },
     {
       "raw_hot": 40683,
-      "num": 207201,
+      "num": 260987,
       "word": "辅警下班途中飞身擒贼获二级嘉奖",
       "onboard_time": 1720607658,
       "rank": 15,
