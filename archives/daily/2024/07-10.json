@@ -1,6 +1,6 @@
 {
   "startTime": 1720542298959,
-  "endTime": 1720579004011,
+  "endTime": 1720579609048,
   "band_list": [
     {
       "raw_hot": 1243167,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014618,
-      "num": 1014618,
+      "raw_hot": 1059552,
+      "num": 1059552,
       "word": "骗子用出国月薪3万骗了1000多万",
       "onboard_time": 1720575138,
       "rank": 38,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 639333,
-      "num": 235602,
+      "num": 247847,
       "word": "女子1米6体重50斤仍在减肥",
       "onboard_time": 1720567936,
       "rank": 20,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 587127,
-      "num": 237172,
+      "num": 249478,
       "word": "跳舞五个月后老公不认识我了",
       "onboard_time": 1720576697,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 583749,
+      "num": 583749,
+      "word": "梅西给6个月大的亚马尔洗过澡",
+      "onboard_time": 1720575976,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 580791,
@@ -139,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 563332,
-      "num": 563332,
-      "word": "梅西给6个月大的亚马尔洗过澡",
-      "onboard_time": 1720575976,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 555199,
+      "num": 555199,
+      "word": "玱玹九个老婆唯独没有小夭",
+      "onboard_time": 1720578077,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 529062,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421134,
+      "num": 421134,
+      "word": "格力诉小米米家电风扇侵权一案胜诉",
+      "onboard_time": 1720573937,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410662,
       "num": 226281,
       "word": "把高考志愿存在草稿箱忘记提交了",
@@ -231,22 +247,6 @@
       "num": 392997,
       "word": "长相思戏还没播完番外先出了",
       "onboard_time": 1720538119,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 386185,
-      "num": 386185,
-      "word": "格力诉小米米家电风扇侵权一案胜诉",
-      "onboard_time": 1720573937,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371010,
-      "num": 371010,
-      "word": "玱玹九个老婆唯独没有小夭",
-      "onboard_time": 1720578077,
       "rank": 10,
       "category": "剧集"
     },
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327767,
+      "num": 327767,
+      "word": "女子5000万购法院查封房后钱房两空",
+      "onboard_time": 1720576277,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309484,
       "num": 309484,
       "word": "防风邶下线",
@@ -297,14 +305,6 @@
       "onboard_time": 1720535178,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 286293,
-      "num": 286293,
-      "word": "女子5000万购法院查封房后钱房两空",
-      "onboard_time": 1720576277,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283447,
@@ -339,12 +339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242517,
+      "num": 242517,
+      "word": "小水新剧是1女vs9男",
+      "onboard_time": 1720578917,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "小夭的难堪众人的狂欢",
       "onboard_time": 1720534819,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236683,
+      "num": 236683,
+      "word": "无痛分娩那么好为何普及率却不高",
+      "onboard_time": 1720578558,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218280,
@@ -355,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216933,
+      "num": 216933,
+      "word": "小米回应被格力起诉",
+      "onboard_time": 1720579098,
+      "rank": 25,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 216597,
       "num": 216597,
       "word": "姆巴佩本届欧洲杯首个助攻",
@@ -363,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214901,
+      "num": 214901,
+      "word": "时代少年团加盟青春芒果夜",
+      "onboard_time": 1720578618,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210295,
       "num": 210295,
       "word": "婚礼上最没有必要的支出",
       "onboard_time": 1720572378,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209984,
-      "num": 209984,
-      "word": "时代少年团加盟青春芒果夜",
-      "onboard_time": 1720578618,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 209811,
@@ -393,6 +417,14 @@
       "onboard_time": 1720572499,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205985,
+      "num": 205985,
+      "word": "萧敬腾 成都下雨",
+      "onboard_time": 1720578739,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 197881,
@@ -417,14 +449,6 @@
       "onboard_time": 1720527558,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188298,
-      "num": 188298,
-      "word": "小水新剧是1女vs9男",
-      "onboard_time": 1720578917,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 186149,
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166740,
+      "num": 166740,
+      "word": "阿根廷晋级美洲杯决赛",
+      "onboard_time": 1720578138,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160020,
       "num": 160020,
       "word": "欧洲杯半决赛",
@@ -539,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150668,
-      "num": 150668,
-      "word": "萧敬腾 成都下雨",
-      "onboard_time": 1720578739,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144269,
       "num": 126124,
       "word": "研究发现月经用品中含有毒金属",
@@ -571,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "求汪苏泷演唱会粉底液",
+      "onboard_time": 1720579098,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136651,
       "num": 136651,
       "word": "金牛座为什么难以亲近",
       "onboard_time": 1720532118,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135682,
-      "num": 135682,
-      "word": "无痛分娩那么好为何普及率却不高",
-      "onboard_time": 1720578558,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131731,
@@ -617,14 +641,6 @@
       "onboard_time": 1720568237,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121791,
-      "num": 121791,
-      "word": "阿根廷晋级美洲杯决赛",
-      "onboard_time": 1720578138,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 120564,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 94685,
-      "num": 202165,
+      "num": 302315,
       "word": "女生用567个小时绣出一场璀璨铁花",
       "onboard_time": 1720575857,
       "rank": 25,
@@ -835,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71048,
+      "num": 361172,
+      "word": "暑期健康这样抄作业",
+      "onboard_time": 1720575438,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70231,
       "num": 125166,
       "word": "孙莉晒三个孩子近况",
@@ -857,14 +881,6 @@
       "onboard_time": 1720566315,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65854,
-      "num": 361172,
-      "word": "暑期健康这样抄作业",
-      "onboard_time": 1720575438,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 64884,
@@ -1051,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30250,
+      "num": 206337,
+      "word": "这是世界的尼山",
+      "onboard_time": 1720579578,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29224,
       "num": 370144,
       "word": "临沂雨中赏荷心如莲",
@@ -1067,7 +1091,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 24984,
+      "raw_hot": 26523,
       "num": 360670,
       "word": "尼山论什么",
       "onboard_time": 1720576999,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1720541237,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 6937,
+      "num": 205998,
+      "word": "日本男子网投被骗7600万日元",
+      "onboard_time": 1720579578,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
