@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720679227390,
+  "endTime": 1720679982959,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943202,
-      "num": 943202,
+      "raw_hot": 1037079,
+      "num": 1037079,
       "word": "深圳湾出现地球唯一蓝血生物",
       "onboard_time": 1720675638,
       "rank": 15,
@@ -139,6 +139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 743256,
+      "num": 743256,
+      "word": "檀健次 大大方方",
+      "onboard_time": 1720672101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 723885,
       "num": 723885,
       "word": "特朗普称当总统后送扎克伯格进监狱",
@@ -163,16 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716640,
-      "num": 716640,
-      "word": "檀健次 大大方方",
-      "onboard_time": 1720672101,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 716295,
-      "num": 619486,
+      "num": 638716,
       "word": "长相思见面会",
       "onboard_time": 1720676058,
       "rank": 38,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 624957,
+      "num": 624957,
+      "word": "歌手歌单呢",
+      "onboard_time": 1720678278,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623226,
       "num": 623226,
       "word": "云南1亿只蝴蝶让拍照特效组放假了",
@@ -289,6 +297,14 @@
       "onboard_time": 1720663938,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557673,
+      "num": 456304,
+      "word": "小水回应与小九分手",
+      "onboard_time": 1720677439,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 544663,
@@ -355,16 +371,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458543,
-      "num": 458543,
-      "word": "歌手歌单呢",
-      "onboard_time": 1720678278,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 460064,
+      "num": 460064,
+      "word": "蜜雪冰城就冰杯事件致歉",
+      "onboard_time": 1720678158,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 454181,
-      "num": 454181,
+      "raw_hot": 458033,
+      "num": 458033,
       "word": "武汉退车的出租车司机数量变多",
       "onboard_time": 1720674021,
       "rank": 14,
@@ -387,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415741,
-      "num": 326197,
-      "word": "小水回应与小九分手",
-      "onboard_time": 1720677439,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406733,
       "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 401350,
+      "num": 401350,
+      "word": "重庆暴雨致1死3失联",
+      "onboard_time": 1720677678,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400720,
@@ -419,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 392952,
-      "num": 392952,
-      "word": "蜜雪冰城就冰杯事件致歉",
-      "onboard_time": 1720678158,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382305,
       "num": 382305,
       "word": "南波万巡演官宣",
@@ -435,8 +443,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 363744,
-      "num": 321015,
+      "raw_hot": 380341,
+      "num": 380341,
       "word": "阚清子说梨型身材没事",
       "onboard_time": 1720675459,
       "rank": 14,
@@ -499,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339399,
-      "num": 339399,
-      "word": "重庆暴雨致1死3失联",
-      "onboard_time": 1720677678,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338032,
       "num": 338032,
       "word": "我们的歌第六季定档",
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 319940,
-      "num": 319940,
+      "num": 381936,
       "word": "苹果长出蘑菇女子赠送用于研究",
       "onboard_time": 1720677317,
       "rank": 24,
@@ -627,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284281,
+      "num": 284281,
+      "word": "杨紫长相思2见面会穿高定",
+      "onboard_time": 1720679299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283076,
       "num": 283076,
       "word": "鞠婧祎取关前工作室",
@@ -641,6 +649,14 @@
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 275692,
+      "num": 275692,
+      "word": "泰国21岁僧侣惨死庙中",
+      "onboard_time": 1720678458,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265816,
@@ -811,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 218116,
+      "num": 218116,
+      "word": "花50买空调服务宠物被放后备厢热死",
+      "onboard_time": 1720677859,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217191,
       "num": 196468,
       "word": "Red出道",
@@ -849,14 +873,6 @@
       "onboard_time": 1720668017,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209799,
-      "num": 209799,
-      "word": "花50买空调服务宠物被放后备厢热死",
-      "onboard_time": 1720677859,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209635,
@@ -971,12 +987,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190211,
+      "num": 508288,
+      "word": "这一届大学生卷起了暑假工",
+      "onboard_time": 1720677618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189840,
+      "num": 189840,
+      "word": "墨雨云间庆功宴没有吴谨言王星越",
+      "onboard_time": 1720678699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189360,
       "num": 189360,
       "word": "十天之后回到现实全阵容官宣",
       "onboard_time": 1720664836,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186477,
+      "num": 186477,
+      "word": "长相思",
+      "onboard_time": 1720679059,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 185199,
@@ -1027,14 +1067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174301,
-      "num": 174301,
-      "word": "长相思",
-      "onboard_time": 1720679059,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171955,
       "num": 171955,
       "word": "林俊杰新歌720上线",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1720663459,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 170658,
+      "num": 219438,
+      "word": "重庆垫江强降雨已致6死",
+      "onboard_time": 1720679899,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170237,
@@ -1155,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150509,
-      "num": 150509,
-      "word": "墨雨云间庆功宴没有吴谨言王星越",
-      "onboard_time": 1720678699,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "马龙最喜欢大家叫他龙队",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1720667778,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148061,
+      "num": 148061,
+      "word": "百度称萝卜快跑明年开始盈利",
+      "onboard_time": 1720679658,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 147794,
@@ -1243,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138998,
+      "num": 582010,
+      "word": "柯基警犬和队友的训练日常",
+      "onboard_time": 1720672220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138916,
       "num": 138061,
       "word": "檀健次工作室的审美已经nextlevel了",
@@ -1251,12 +1299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137586,
-      "num": 582010,
-      "word": "柯基警犬和队友的训练日常",
-      "onboard_time": 1720672220,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 138675,
+      "num": 138675,
+      "word": "苹果中国限时教育优惠",
+      "onboard_time": 1720679717,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 136352,
@@ -1523,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105709,
-      "num": 508288,
-      "word": "这一届大学生卷起了暑假工",
-      "onboard_time": 1720677618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102739,
       "num": 68517,
       "word": "荷兰vs英格兰裁判",
@@ -1691,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81839,
-      "num": 189809,
-      "word": "泰国21岁僧侣惨死庙中",
-      "onboard_time": 1720678458,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81394,
       "num": 88581,
       "word": "张馨予的37岁状态",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53921,
+      "num": 435979,
+      "word": "男子连续5年7点带小区孩子们晨跑",
+      "onboard_time": 1720676358,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53454,

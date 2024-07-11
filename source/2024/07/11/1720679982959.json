@@ -1,0 +1,410 @@
+{
+  "runTime": 1720679982959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1451140,
+        "num": 1451140,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037079,
+        "num": 1037079,
+        "word": "深圳湾出现地球唯一蓝血生物",
+        "onboard_time": 1720675638,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69045,
+        "num": 1016579,
+        "word": "发现最美铁路",
+        "onboard_time": 1720666216,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015905,
+        "num": 1015905,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743256,
+        "num": 743256,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688159,
+        "num": 688159,
+        "word": "3人1次要买50万黄金店员拒绝并报警",
+        "onboard_time": 1720672281,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638716,
+        "num": 638716,
+        "word": "长相思见面会",
+        "onboard_time": 1720676058,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624957,
+        "num": 624957,
+        "word": "歌手歌单呢",
+        "onboard_time": 1720678278,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460064,
+        "num": 460064,
+        "word": "蜜雪冰城就冰杯事件致歉",
+        "onboard_time": 1720678158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458033,
+        "num": 458033,
+        "word": "武汉退车的出租车司机数量变多",
+        "onboard_time": 1720674021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557673,
+        "num": 456304,
+        "word": "小水回应与小九分手",
+        "onboard_time": 1720677439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496815,
+        "num": 453611,
+        "word": "林靖恩肚子饿了偷外卖吃",
+        "onboard_time": 1720675758,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436661,
+        "num": 436661,
+        "word": "台湾新冠死亡病例暴增55%",
+        "onboard_time": 1720661958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53921,
+        "num": 435979,
+        "word": "男子连续5年7点带小区孩子们晨跑",
+        "onboard_time": 1720676358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435977,
+        "num": 435977,
+        "word": "王一博申请限消晗晗qvq",
+        "onboard_time": 1720672339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420939,
+        "num": 420939,
+        "word": "林俊杰曾考虑过退出娱乐圈",
+        "onboard_time": 1720675277,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138998,
+        "num": 402902,
+        "word": "柯基警犬和队友的训练日常",
+        "onboard_time": 1720672220,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401350,
+        "num": 401350,
+        "word": "重庆暴雨致1死3失联",
+        "onboard_time": 1720677678,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393235,
+        "num": 393235,
+        "word": "萝卜快跑",
+        "onboard_time": 1720676958,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285105,
+        "num": 381936,
+        "word": "苹果长出蘑菇女子赠送用于研究",
+        "onboard_time": 1720677317,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538625,
+        "num": 381869,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 380699,
+        "num": 380699,
+        "word": "凤凰传奇 到底是谁抢到了",
+        "onboard_time": 1720672519,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380341,
+        "num": 380341,
+        "word": "阚清子说梨型身材没事",
+        "onboard_time": 1720675459,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304455,
+        "num": 304455,
+        "word": "张书豪为欧阳妮妮戒烟",
+        "onboard_time": 1720673840,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284281,
+        "num": 284281,
+        "word": "杨紫长相思2见面会穿高定",
+        "onboard_time": 1720679299,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278373,
+        "num": 278373,
+        "word": "萝卜快跑无人车售价仅20.46万元",
+        "onboard_time": 1720673182,
+        "rank": 25,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 275692,
+        "num": 275692,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249842,
+        "num": 249842,
+        "word": "鞠婧祎取关前工作室",
+        "onboard_time": 1720676478,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233968,
+        "num": 233968,
+        "word": "女子4次漏扫码被刑拘",
+        "onboard_time": 1720668679,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170658,
+        "num": 219438,
+        "word": "重庆垫江强降雨已致6死",
+        "onboard_time": 1720679899,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218116,
+        "num": 218116,
+        "word": "花50买空调服务宠物被放后备厢热死",
+        "onboard_time": 1720677859,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210444,
+        "num": 210444,
+        "word": "陈妍希撕掉小白兔标签",
+        "onboard_time": 1720676658,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 195248,
+        "word": "女子180万卖掉杭州房子120万买回",
+        "onboard_time": 1720665677,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190211,
+        "num": 190211,
+        "word": "这一届大学生卷起了暑假工",
+        "onboard_time": 1720677618,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189840,
+        "num": 189840,
+        "word": "墨雨云间庆功宴没有吴谨言王星越",
+        "onboard_time": 1720678699,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186477,
+        "num": 186477,
+        "word": "长相思",
+        "onboard_time": 1720679059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "原神fes",
+        "onboard_time": 1720678458,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76779,
+        "num": 171781,
+        "word": "重庆长寿河水倒灌有房屋被淹",
+        "onboard_time": 1720670421,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170359,
+        "num": 170359,
+        "word": "请务必安排我入职",
+        "onboard_time": 1720675218,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168451,
+        "num": 168451,
+        "word": "Red出道",
+        "onboard_time": 1720675218,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157296,
+        "num": 157296,
+        "word": "胡歌首谈和太太相处模式",
+        "onboard_time": 1720665978,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153358,
+        "num": 153358,
+        "word": "宝马奔驰降价超10万也卷不过国产",
+        "onboard_time": 1720671260,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151120,
+        "num": 151120,
+        "word": "祁煜 密约",
+        "onboard_time": 1720677139,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148061,
+        "num": 148061,
+        "word": "百度称萝卜快跑明年开始盈利",
+        "onboard_time": 1720679658,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144547,
+        "num": 144547,
+        "word": "深夜给高中班主任转账1元",
+        "onboard_time": 1720677498,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142051,
+        "num": 142051,
+        "word": "王俊凯唱了我们的时光",
+        "onboard_time": 1720674918,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138675,
+        "num": 138675,
+        "word": "苹果中国限时教育优惠",
+        "onboard_time": 1720679717,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132982,
+        "num": 132982,
+        "word": "中国警方向美遣返1名美籍红通逃犯",
+        "onboard_time": 1720672701,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132704,
+        "num": 132704,
+        "word": "原来胡歌也不能笑着离开理发店",
+        "onboard_time": 1720677379,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120636,
+        "num": 120636,
+        "word": "郁金香终归盛开在了盛夏",
+        "onboard_time": 1720679178,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}
