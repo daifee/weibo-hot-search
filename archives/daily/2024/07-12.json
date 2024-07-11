@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720729207638,
+  "endTime": 1720730089585,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22691,
+      "num": 22691,
+      "word": "生完宝宝肚子上的黑线会消失吗",
+      "onboard_time": 1720728191,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 21400,
       "num": 66668,
       "word": "人生最后1个暑假男生千里走单骑",
@@ -507,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19669,
+      "num": 19669,
+      "word": "男子伤妻女外孙后逃匿后自杀身亡",
+      "onboard_time": 1720726931,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 18956,
       "num": 20430,
       "word": "水枪好玩吗周震南",
@@ -515,36 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18433,
-      "num": 18433,
-      "word": "男子伤妻女外孙后逃匿后自杀身亡",
-      "onboard_time": 1720726931,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 17987,
-      "num": 48186,
-      "word": "北大发文祝福要去敦煌的考古女孩",
-      "onboard_time": 1720722431,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17595,
-      "num": 17595,
+      "raw_hot": 18480,
+      "num": 18480,
       "word": "杨超越路人拍比精修好看",
       "onboard_time": 1720727471,
       "rank": 37,
       "category": "综艺"
     },
     {
-      "raw_hot": 15773,
-      "num": 17594,
-      "word": "生完宝宝肚子上的黑线会消失吗",
-      "onboard_time": 1720728191,
-      "rank": 42,
-      "category": "母婴育儿"
+      "raw_hot": 18360,
+      "num": 48186,
+      "word": "北大发文祝福要去敦煌的考古女孩",
+      "onboard_time": 1720722431,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13905,
@@ -553,6 +553,14 @@
       "onboard_time": 1720725491,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13462,
+      "num": 16530,
+      "word": "刚出生的刺猬被女孩救活当宠物养大",
+      "onboard_time": 1720729389,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 13311,
