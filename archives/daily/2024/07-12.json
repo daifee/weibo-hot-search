@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720715043676,
+  "endTime": 1720715952674,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135159,
+      "num": 122382,
+      "word": "长期早醒或预示了4个疾病",
+      "onboard_time": 1720714217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132993,
       "num": 132993,
       "word": "张凌赫空降",
@@ -219,20 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108434,
-      "num": 108434,
-      "word": "长期早醒或预示了4个疾病",
-      "onboard_time": 1720714217,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "金珉奎美貌",
       "onboard_time": 1720707260,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106276,
+      "num": 106276,
+      "word": "BLG",
+      "onboard_time": 1720708101,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 105862,
@@ -267,14 +275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102684,
-      "num": 102684,
-      "word": "BLG",
-      "onboard_time": 1720708101,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 98981,
       "num": 98981,
       "word": "吴谨言穿的好像蜥蜴",
@@ -297,6 +297,14 @@
       "onboard_time": 1720683138,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 95941,
+      "num": 95941,
+      "word": "黄金白银直线暴涨",
+      "onboard_time": 1720714756,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 93573,
@@ -371,12 +379,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69605,
-      "num": 83941,
-      "word": "黄金白银直线暴涨",
-      "onboard_time": 1720714756,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 72984,
+      "num": 72984,
+      "word": "张晚意电梯神图",
+      "onboard_time": 1720711939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65951,
+      "num": 72436,
+      "word": "柯南2024主题餐厅立绘",
+      "onboard_time": 1720711219,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 60413,
+      "num": 306603,
+      "word": "中科院博士回应研究苹果长出蘑菇",
+      "onboard_time": 1720714338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59539,
+      "num": 72422,
+      "word": "谢霆锋 王菲战斗粉",
+      "onboard_time": 1720698260,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 52530,
@@ -385,14 +417,6 @@
       "onboard_time": 1720712478,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 51747,
-      "num": 306603,
-      "word": "中科院博士回应研究苹果长出蘑菇",
-      "onboard_time": 1720714338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39951,
