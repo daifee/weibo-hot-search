@@ -1,22 +1,22 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720665521810,
+  "endTime": 1720666090681,
   "band_list": [
     {
-      "raw_hot": 1411036,
-      "num": 378299,
-      "word": "台湾新冠死亡病例暴增55%",
-      "onboard_time": 1720661958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389129,
-      "num": 1389129,
+      "raw_hot": 1593216,
+      "num": 1593216,
       "word": "71%的iPhone使用已超两年",
       "onboard_time": 1720662558,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1411036,
+      "num": 387064,
+      "word": "台湾新冠死亡病例暴增55%",
+      "onboard_time": 1720661958,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1379341,
@@ -57,6 +57,14 @@
       "onboard_time": 1720659979,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 863960,
+      "num": 236446,
+      "word": "女子180万卖掉杭州房子120万买回",
+      "onboard_time": 1720665677,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831821,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611725,
+      "num": 611725,
+      "word": "长相思真把阿念养得很好",
+      "onboard_time": 1720664477,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603787,
       "num": 603787,
       "word": "印度一对父子牵手卧轨身亡",
@@ -147,20 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 558748,
-      "num": 558748,
+      "raw_hot": 560050,
+      "num": 560050,
       "word": "刘诗诗小腿有绷带",
       "onboard_time": 1720663938,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 483806,
-      "num": 483806,
-      "word": "长相思真把阿念养得很好",
-      "onboard_time": 1720664477,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 470412,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387190,
+      "num": 387190,
+      "word": "中国女游客海上漂36小时后获救",
+      "onboard_time": 1720662618,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361657,
       "num": 361657,
       "word": "杨丞琳连续十年为李荣浩庆生",
@@ -233,6 +249,14 @@
       "onboard_time": 1720618219,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337686,
+      "num": 337686,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 336590,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310718,
+      "num": 310718,
+      "word": "特朗普称当总统后送扎克伯格进监狱",
+      "onboard_time": 1720665499,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 306494,
       "num": 252500,
       "word": "13岁尿毒症晚期男孩深夜捡废品",
@@ -291,28 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293613,
-      "num": 293613,
-      "word": "中国女游客海上漂36小时后获救",
-      "onboard_time": 1720662618,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "张钧甯是学法的",
       "onboard_time": 1720658900,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 288850,
-      "num": 288850,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 281519,
@@ -435,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "为什么用猪油炒菜会那么香",
+      "onboard_time": 1720662077,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 203376,
       "num": 203376,
       "word": "英格兰读秒绝杀",
       "onboard_time": 1720655358,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201948,
-      "num": 201948,
-      "word": "特朗普称当总统后送扎克伯格进监狱",
-      "onboard_time": 1720665499,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195960,
@@ -459,8 +475,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187441,
-      "num": 187441,
+      "raw_hot": 194751,
+      "num": 194751,
+      "word": "扬州地震",
+      "onboard_time": 1720665557,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189360,
+      "num": 189360,
       "word": "十天之后回到现实全阵容官宣",
       "onboard_time": 1720664836,
       "rank": 24,
@@ -473,14 +497,6 @@
       "onboard_time": 1720653434,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184896,
-      "num": 184896,
-      "word": "为什么用猪油炒菜会那么香",
-      "onboard_time": 1720662077,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 180487,
@@ -497,6 +513,14 @@
       "onboard_time": 1720605918,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175406,
+      "num": 151917,
+      "word": "鞠婧祎回应演唱会票难抢",
+      "onboard_time": 1720664656,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 171168,
@@ -531,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162469,
-      "num": 162469,
+      "raw_hot": 163425,
+      "num": 163425,
       "word": "研究称手机携带的细菌足以致病",
       "onboard_time": 1720663816,
       "rank": 31,
@@ -545,14 +569,6 @@
       "onboard_time": 1720658838,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151917,
-      "num": 151917,
-      "word": "鞠婧祎回应演唱会票难抢",
-      "onboard_time": 1720664656,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 151778,
@@ -569,6 +585,30 @@
       "onboard_time": 1720621338,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 441656,
+      "word": "洋大叔吃了一口中国小摊汉堡不得了",
+      "onboard_time": 1720661958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145175,
+      "num": 145175,
+      "word": "老人照顾失智女儿44年每天4点起",
+      "onboard_time": 1720661837,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142104,
+      "num": 142104,
+      "word": "胡歌首谈和太太相处模式",
+      "onboard_time": 1720665978,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 140451,
@@ -603,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133296,
-      "num": 133296,
-      "word": "老人照顾失智女儿44年每天4点起",
-      "onboard_time": 1720661837,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132910,
       "num": 132910,
       "word": "英格兰将与西班牙争冠",
@@ -643,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127418,
+      "num": 127418,
+      "word": "架不住涂山璟搞纯爱",
+      "onboard_time": 1720664778,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127406,
       "num": 127406,
       "word": "范戴克质疑裁判",
@@ -659,20 +699,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122521,
+      "num": 122521,
+      "word": "曾黎大波浪被大雨浇直了",
+      "onboard_time": 1720665796,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 122487,
       "num": 122487,
       "word": "不换贝林厄姆 换福登",
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120605,
-      "num": 120605,
-      "word": "架不住涂山璟搞纯爱",
-      "onboard_time": 1720664778,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 119616,
@@ -752,14 +792,6 @@
       "word": "植物大战僵尸杂交版作者初中毕业",
       "onboard_time": 1720619899,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112089,
-      "num": 441656,
-      "word": "洋大叔吃了一口中国小摊汉堡不得了",
-      "onboard_time": 1720661958,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59384,
+      "num": 387097,
+      "word": "女孩卡脖悬空男子徒手爬楼解救",
+      "onboard_time": 1720664118,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58188,
       "num": 58188,
       "word": "荷兰半场1比1英格兰",
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24341,
+      "num": 859121,
+      "word": "裸眼3D打开中国舰气势拉满",
+      "onboard_time": 1720655298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24214,
       "num": 30030,
       "word": "娜扎说遇到对的人随时可以结婚",
@@ -1251,8 +1299,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23242,
+      "num": 179257,
+      "word": "日本手足口病蔓延至36区",
+      "onboard_time": 1720665436,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22440,
-      "num": 126012,
+      "num": 141696,
       "word": "尼山为什么",
       "onboard_time": 1720663217,
       "rank": 39,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1720633572,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 7296,
-      "num": 169944,
-      "word": "日本手足口病蔓延至36区",
-      "onboard_time": 1720665436,
-      "rank": 29,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
