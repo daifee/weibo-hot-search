@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720676258604,
+  "endTime": 1720679227390,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943202,
+      "num": 943202,
+      "word": "深圳湾出现地球唯一蓝血生物",
+      "onboard_time": 1720675638,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865840,
       "num": 865840,
       "word": "越来越多美国人正抛弃智能手机",
@@ -155,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716640,
+      "num": 716640,
+      "word": "檀健次 大大方方",
+      "onboard_time": 1720672101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 716295,
+      "num": 619486,
+      "word": "长相思见面会",
+      "onboard_time": 1720676058,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 692881,
       "num": 692881,
       "word": "黄霄雲面部腿部受伤",
       "onboard_time": 1720619420,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 692716,
-      "num": 692716,
-      "word": "檀健次 大大方方",
-      "onboard_time": 1720672101,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 681817,
@@ -283,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536316,
+      "num": 536316,
+      "word": "林靖恩肚子饿了偷外卖吃",
+      "onboard_time": 1720675758,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535307,
       "num": 414332,
       "word": "张书豪为欧阳妮妮戒烟",
       "onboard_time": 1720673840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472272,
+      "num": 472272,
+      "word": "萝卜快跑",
+      "onboard_time": 1720676958,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 470412,
@@ -307,12 +339,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 465125,
+      "num": 465125,
+      "word": "林俊杰曾考虑过退出娱乐圈",
+      "onboard_time": 1720675277,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461665,
       "num": 461665,
       "word": "英格兰连续两届欧洲杯进决赛",
       "onboard_time": 1720646112,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458543,
+      "num": 458543,
+      "word": "歌手歌单呢",
+      "onboard_time": 1720678278,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 454181,
+      "num": 454181,
+      "word": "武汉退车的出租车司机数量变多",
+      "onboard_time": 1720674021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450049,
@@ -329,6 +385,14 @@
       "onboard_time": 1720662618,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415741,
+      "num": 326197,
+      "word": "小水回应与小九分手",
+      "onboard_time": 1720677439,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 406733,
@@ -355,12 +419,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 392952,
+      "num": 392952,
+      "word": "蜜雪冰城就冰杯事件致歉",
+      "onboard_time": 1720678158,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382305,
       "num": 382305,
       "word": "南波万巡演官宣",
       "onboard_time": 1720669578,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363744,
+      "num": 321015,
+      "word": "阚清子说梨型身材没事",
+      "onboard_time": 1720675459,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 361657,
@@ -419,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339399,
+      "num": 339399,
+      "word": "重庆暴雨致1死3失联",
+      "onboard_time": 1720677678,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338032,
       "num": 338032,
       "word": "我们的歌第六季定档",
@@ -433,6 +521,14 @@
       "onboard_time": 1720654335,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329776,
+      "num": 329776,
+      "word": "萝卜快跑无人车售价仅20.46万元",
+      "onboard_time": 1720673182,
+      "rank": 26,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 322074,
@@ -459,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 319940,
+      "num": 319940,
+      "word": "苹果长出蘑菇女子赠送用于研究",
+      "onboard_time": 1720677317,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318442,
       "num": 318442,
       "word": "汪海林吐槽年轻女演员不会演戏",
@@ -475,14 +579,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 315911,
-      "num": 315911,
-      "word": "林俊杰曾考虑过退出娱乐圈",
-      "onboard_time": 1720675277,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311278,
       "num": 311278,
       "word": "陈昊宇陈丽君合作OST",
@@ -497,14 +593,6 @@
       "onboard_time": 1720653795,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299119,
-      "num": 299119,
-      "word": "阚清子说梨型身材没事",
-      "onboard_time": 1720675459,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 299078,
@@ -539,28 +627,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283076,
+      "num": 283076,
+      "word": "鞠婧祎取关前工作室",
+      "onboard_time": 1720676478,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281519,
       "num": 281519,
       "word": "罪犯得知儿子高考697分喜极而泣",
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 281094,
-      "num": 198702,
-      "word": "林靖恩肚子饿了偷外卖吃",
-      "onboard_time": 1720675758,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 275034,
-      "num": 275034,
-      "word": "深圳湾出现地球唯一蓝血生物",
-      "onboard_time": 1720675638,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265816,
@@ -611,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247680,
-      "num": 247680,
-      "word": "萝卜快跑无人车售价仅20.46万元",
-      "onboard_time": 1720673182,
-      "rank": 26,
-      "category": "汽车,社会新闻"
+      "raw_hot": 251679,
+      "num": 251679,
+      "word": "祁煜 密约",
+      "onboard_time": 1720677139,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 247114,
+      "num": 247114,
+      "word": "陈妍希撕掉小白兔标签",
+      "onboard_time": 1720676658,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244459,
@@ -763,6 +851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209799,
+      "num": 209799,
+      "word": "花50买空调服务宠物被放后备厢热死",
+      "onboard_time": 1720677859,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209635,
+      "num": 209635,
+      "word": "原神fes",
+      "onboard_time": 1720678458,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209183,
       "num": 209183,
       "word": "经常缺觉的人记忆力损伤不可逆",
@@ -843,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198155,
-      "num": 349809,
-      "word": "武汉退车的出租车司机数量变多",
-      "onboard_time": 1720674021,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -907,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182951,
-      "num": 182951,
-      "word": "长相思见面会",
-      "onboard_time": 1720676058,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180487,
       "num": 147689,
       "word": "涂山璟这台词是我能听的吗",
@@ -937,6 +1025,14 @@
       "onboard_time": 1720664656,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174301,
+      "num": 174301,
+      "word": "长相思",
+      "onboard_time": 1720679059,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 171955,
@@ -1027,6 +1123,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159381,
+      "num": 159381,
+      "word": "深夜给高中班主任转账1元",
+      "onboard_time": 1720677498,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158829,
+      "num": 158829,
+      "word": "周笔畅抢票",
+      "onboard_time": 1720678399,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155845,
       "num": 155845,
       "word": "库里12分",
@@ -1041,6 +1153,14 @@
       "onboard_time": 1720600218,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150509,
+      "num": 150509,
+      "word": "墨雨云间庆功宴没有吴谨言王星越",
+      "onboard_time": 1720678699,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 148924,
@@ -1097,6 +1217,14 @@
       "onboard_time": 1720672401,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140773,
+      "num": 140773,
+      "word": "原来胡歌也不能笑着离开理发店",
+      "onboard_time": 1720677379,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140451,
@@ -1216,6 +1344,14 @@
       "word": "范戴克质疑裁判",
       "onboard_time": 1720658358,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124650,
+      "num": 124650,
+      "word": "郁金香终归盛开在了盛夏",
+      "onboard_time": 1720679178,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1387,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105709,
+      "num": 508288,
+      "word": "这一届大学生卷起了暑假工",
+      "onboard_time": 1720677618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102739,
       "num": 68517,
       "word": "荷兰vs英格兰裁判",
@@ -1545,6 +1689,14 @@
       "onboard_time": 1720645932,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81839,
+      "num": 189809,
+      "word": "泰国21岁僧侣惨死庙中",
+      "onboard_time": 1720678458,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81394,
