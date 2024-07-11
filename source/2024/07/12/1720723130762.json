@@ -1,0 +1,410 @@
+{
+  "runTime": 1720723130762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230086,
+        "num": 230086,
+        "word": "44岁柳岩自曝患子宫肌瘤",
+        "onboard_time": 1720707141,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179296,
+        "num": 179296,
+        "word": "中科院博士回应研究苹果长出蘑菇",
+        "onboard_time": 1720714338,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24616,
+        "num": 130960,
+        "word": "普通人遇到大暴雨到底该怎么办",
+        "onboard_time": 1720703178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115544,
+        "num": 115544,
+        "word": "媒体评萝卜快跑抢网约车司机饭碗",
+        "onboard_time": 1720718053,
+        "rank": 3,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 102971,
+        "num": 102971,
+        "word": "刘亦菲有新狗了",
+        "onboard_time": 1720705159,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99706,
+        "num": 99706,
+        "word": "Bin踢椅子",
+        "onboard_time": 1720707739,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89908,
+        "num": 89908,
+        "word": "他们卖不出西瓜我们买不起西瓜",
+        "onboard_time": 1720701258,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83502,
+        "num": 83502,
+        "word": "影后和顶流 从年少到白头",
+        "onboard_time": 1720700239,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78893,
+        "num": 78893,
+        "word": "这居然是2024年的李东海",
+        "onboard_time": 1720701737,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 8838,
+        "num": 78287,
+        "word": "男子随身携带AED十余年第一次用上",
+        "onboard_time": 1720721773,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80807,
+        "num": 78276,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒",
+        "onboard_time": 1720704439,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78261,
+        "num": 78261,
+        "word": "苏翊鸣 朱易",
+        "onboard_time": 1720706539,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 77344,
+        "num": 77344,
+        "word": "好利来 光夜",
+        "onboard_time": 1720708461,
+        "rank": 12,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 76661,
+        "num": 76661,
+        "word": "李嘉诚5折抛售房产",
+        "onboard_time": 1720708760,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 71844,
+        "num": 71844,
+        "word": "谢欣桐小黄分手",
+        "onboard_time": 1720697659,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50881,
+        "num": 50881,
+        "word": "民政局回应13岁尿毒症晚期男孩捡废品",
+        "onboard_time": 1720703479,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49845,
+        "num": 49845,
+        "word": "张凌赫空降",
+        "onboard_time": 1720701978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45102,
+        "num": 45102,
+        "word": "刘诗诗 雨打荷花",
+        "onboard_time": 1720709300,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43638,
+        "num": 43638,
+        "word": "BLG",
+        "onboard_time": 1720708101,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43414,
+        "num": 43414,
+        "word": "杨紫今年三部破万剧",
+        "onboard_time": 1720712478,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171905,
+        "num": 42474,
+        "word": "女子私密处手术后死亡1人获刑",
+        "onboard_time": 1720704918,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84322,
+        "num": 42418,
+        "word": "很多癌症都是因为四大不规律",
+        "onboard_time": 1720709960,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40959,
+        "num": 40959,
+        "word": "涂山璟开大秒杀涂山篌",
+        "onboard_time": 1720704258,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38024,
+        "num": 38024,
+        "word": "中餐厅杀青",
+        "onboard_time": 1720716913,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37593,
+        "num": 37593,
+        "word": "金珉奎美貌",
+        "onboard_time": 1720707260,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35629,
+        "num": 35629,
+        "word": "长相思2",
+        "onboard_time": 1720705520,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33383,
+        "num": 33383,
+        "word": "刘诗诗穿了未发布款高定",
+        "onboard_time": 1720697417,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33690,
+        "num": 33275,
+        "word": "相柳酒搭子已上线",
+        "onboard_time": 1720716494,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33166,
+        "num": 33166,
+        "word": "长期早醒或预示了4个疾病",
+        "onboard_time": 1720714217,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13684,
+        "num": 33082,
+        "word": "北大发文祝福要去敦煌的考古女孩",
+        "onboard_time": 1720722431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33065,
+        "num": 33065,
+        "word": "多艘中国军舰现身阿拉斯加附近",
+        "onboard_time": 1720704498,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33005,
+        "num": 33005,
+        "word": "黄金白银直线暴涨",
+        "onboard_time": 1720714756,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32212,
+        "num": 32212,
+        "word": "周杰伦cos藤原拓海",
+        "onboard_time": 1720720153,
+        "rank": 32,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 31681,
+        "num": 31681,
+        "word": "孙颖莎封训时哭了",
+        "onboard_time": 1720704979,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31193,
+        "num": 31193,
+        "word": "乳腺结节完全是被气出来的吗",
+        "onboard_time": 1720710560,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30381,
+        "num": 30381,
+        "word": "萝卜快跑订单迎爆发增长",
+        "onboard_time": 1720702819,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28862,
+        "num": 28862,
+        "word": "只有师范生才懂她讲的有多好",
+        "onboard_time": 1720705819,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28841,
+        "num": 28841,
+        "word": "Red女团首专OrientalRed",
+        "onboard_time": 1720721952,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28800,
+        "num": 28800,
+        "word": "代露娃长相思见面会好漂亮",
+        "onboard_time": 1720713617,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27827,
+        "num": 27827,
+        "word": "谢霆锋 王菲战斗粉",
+        "onboard_time": 1720698260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27758,
+        "num": 27758,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 27706,
+        "num": 27706,
+        "word": "体制内领导让我把微信头像换了",
+        "onboard_time": 1720697897,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26961,
+        "num": 26961,
+        "word": "偷偷瘦了20斤后见到朋友内心belike",
+        "onboard_time": 1720694717,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26574,
+        "num": 26574,
+        "word": "吴谨言穿的好像蜥蜴",
+        "onboard_time": 1720703417,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26166,
+        "num": 26166,
+        "word": "世界之外",
+        "onboard_time": 1720721111,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26149,
+        "num": 26149,
+        "word": "长相思2最萌的一段",
+        "onboard_time": 1720714996,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25248,
+        "num": 26149,
+        "word": "张晚意问媒体您不满意是吗",
+        "onboard_time": 1720696039,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25113,
+        "num": 26148,
+        "word": "aespa团综预告图里的宁艺卓",
+        "onboard_time": 1720705940,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22435,
+        "num": 26148,
+        "word": "BOSS直聘崩了",
+        "onboard_time": 1720699279,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20715,
+        "num": 26148,
+        "word": "文旅版相柳9颗头比别人能吃一些",
+        "onboard_time": 1720712718,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
