@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720736336877,
+  "endTime": 1720737342742,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -179,20 +179,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 179146,
+      "num": 122382,
+      "word": "长期早醒或预示了4个疾病",
+      "onboard_time": 1720714217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
       "onboard_time": 1720713617,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142173,
-      "num": 122382,
-      "word": "长期早醒或预示了4个疾病",
-      "onboard_time": 1720714217,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140167,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71185,
+      "num": 45613,
+      "word": "生完宝宝肚子上的黑线会消失吗",
+      "onboard_time": 1720728191,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 67797,
       "num": 67349,
       "word": "相柳酒搭子已上线",
@@ -417,14 +425,6 @@
       "onboard_time": 1720711219,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 63011,
-      "num": 36396,
-      "word": "生完宝宝肚子上的黑线会消失吗",
-      "onboard_time": 1720728191,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 59539,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41451,
+      "num": 41451,
+      "word": "官方回应萝卜快跑被指低价扰乱市场",
+      "onboard_time": 1720735631,
+      "rank": 49,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 39951,
       "num": 83932,
       "word": "在洞庭湖与洪水赛跑的77小时",
@@ -475,6 +483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 39620,
+      "num": 48186,
+      "word": "北大发文祝福要去敦煌的考古女孩",
+      "onboard_time": 1720722431,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36680,
       "num": 36680,
       "word": "周杰伦cos藤原拓海",
@@ -483,12 +499,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 33574,
-      "num": 48186,
-      "word": "北大发文祝福要去敦煌的考古女孩",
-      "onboard_time": 1720722431,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 35462,
+      "num": 35462,
+      "word": "男子伤妻女外孙后逃匿后自杀身亡",
+      "onboard_time": 1720726931,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 30043,
+      "num": 30043,
+      "word": "杨超越路人拍比精修好看",
+      "onboard_time": 1720727471,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 29738,
@@ -500,43 +524,43 @@
     },
     {
       "raw_hot": 29181,
-      "num": 29181,
+      "num": 29566,
       "word": "世界之外",
       "onboard_time": 1720721111,
       "rank": 43,
       "category": "游戏"
     },
     {
-      "raw_hot": 28283,
-      "num": 28283,
-      "word": "男子伤妻女外孙后逃匿后自杀身亡",
-      "onboard_time": 1720726931,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 24554,
-      "num": 24554,
-      "word": "杨超越路人拍比精修好看",
-      "onboard_time": 1720727471,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23074,
-      "num": 24315,
+      "raw_hot": 28646,
+      "num": 29593,
       "word": "小猫抱着小鱼的样子好可爱",
       "onboard_time": 1720734371,
       "rank": 41,
       "category": "幽默"
     },
     {
+      "raw_hot": 25543,
+      "num": 29574,
+      "word": "刘德华2580元门票被炒到68880元",
+      "onboard_time": 1720723751,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22974,
-      "num": 24310,
+      "num": 29568,
       "word": "刚出生的刺猬被女孩救活当宠物养大",
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21970,
+      "num": 75435,
+      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
+      "onboard_time": 1720735692,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21400,
@@ -547,36 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20545,
-      "num": 24295,
-      "word": "刘德华2580元门票被炒到68880元",
-      "onboard_time": 1720723751,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 18956,
       "num": 20430,
       "word": "水枪好玩吗周震南",
       "onboard_time": 1720724052,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18221,
-      "num": 24289,
-      "word": "官方回应萝卜快跑被指低价扰乱市场",
-      "onboard_time": 1720735631,
-      "rank": 49,
-      "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 15887,
-      "num": 56869,
-      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
-      "onboard_time": 1720735692,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13905,
