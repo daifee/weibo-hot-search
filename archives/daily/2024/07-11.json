@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720682403306,
+  "endTime": 1720683271786,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -27,19 +27,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1672861,
+      "num": 1672861,
+      "word": "泰国21岁僧侣惨死庙中",
+      "onboard_time": 1720678458,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1608703,
       "num": 1608703,
       "word": "女子4次漏扫码被刑拘",
       "onboard_time": 1720668679,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1582559,
-      "num": 1582559,
-      "word": "泰国21岁僧侣惨死庙中",
-      "onboard_time": 1720678458,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 684639,
+      "num": 684639,
+      "word": "苹果长出蘑菇女子赠送用于研究",
+      "onboard_time": 1720677317,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681817,
       "num": 658229,
       "word": "蔡徐坤起诉多人侵权",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 557673,
-      "num": 488750,
+      "num": 527230,
       "word": "小水回应与小九分手",
       "onboard_time": 1720677439,
       "rank": 21,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543690,
+      "num": 543690,
+      "word": "重庆垫江强降雨已致6死",
+      "onboard_time": 1720679899,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536316,
       "num": 536316,
       "word": "林靖恩肚子饿了偷外卖吃",
@@ -347,20 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499371,
-      "num": 499371,
-      "word": "苹果长出蘑菇女子赠送用于研究",
-      "onboard_time": 1720677317,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491464,
-      "num": 491464,
-      "word": "重庆垫江强降雨已致6死",
-      "onboard_time": 1720679899,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 491983,
+      "num": 491983,
+      "word": "邓为狐狸胸针",
+      "onboard_time": 1720680198,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 488745,
@@ -427,11 +435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438009,
-      "num": 438009,
-      "word": "邓为狐狸胸针",
-      "onboard_time": 1720680198,
-      "rank": 13,
+      "raw_hot": 441679,
+      "num": 441679,
+      "word": "杨紫长相思2见面会穿高定",
+      "onboard_time": 1720679299,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -481,14 +489,6 @@
       "onboard_time": 1720675459,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367459,
-      "num": 367459,
-      "word": "杨紫长相思2见面会穿高定",
-      "onboard_time": 1720679299,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 361657,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339895,
+      "num": 339895,
+      "word": "A股上涨个股近5000只",
+      "onboard_time": 1720682117,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338032,
       "num": 338032,
       "word": "我们的歌第六季定档",
@@ -593,6 +601,14 @@
       "onboard_time": 1720661598,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 319299,
+      "num": 319299,
+      "word": "又要熬夜看奥运比赛了",
+      "onboard_time": 1720680978,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 318442,
@@ -659,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291970,
+      "num": 218826,
+      "word": "半夜1点弟弟到姐姐屋蹭空调",
+      "onboard_time": 1720682657,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283076,
       "num": 283076,
       "word": "鞠婧祎取关前工作室",
@@ -673,6 +697,22 @@
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 281452,
+      "num": 281452,
+      "word": "iPhone16至19系列相机路线图",
+      "onboard_time": 1720681938,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 266402,
+      "num": 266402,
+      "word": "张晚意清唱了万物不如你",
+      "onboard_time": 1720681758,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 265816,
@@ -755,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243844,
-      "num": 243844,
-      "word": "又要熬夜看奥运比赛了",
-      "onboard_time": 1720680978,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242815,
       "num": 242815,
       "word": "胡连馨连体裤",
       "onboard_time": 1720623319,
       "rank": 12,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 241535,
+      "num": 241535,
+      "word": "清华大学师生买迪士尼门票享八折",
+      "onboard_time": 1720681039,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 233469,
@@ -785,6 +825,14 @@
       "onboard_time": 1720674741,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229084,
+      "num": 229084,
+      "word": "杨紫玩游戏举报邓为",
+      "onboard_time": 1720682239,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 228672,
@@ -915,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209528,
+      "num": 209528,
+      "word": "基金经理1年半亏40%降职为助理",
+      "onboard_time": 1720681039,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 209183,
       "num": 209183,
       "word": "经常缺觉的人记忆力损伤不可逆",
@@ -937,14 +993,6 @@
       "onboard_time": 1720616418,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205807,
-      "num": 205807,
-      "word": "张晚意清唱了万物不如你",
-      "onboard_time": 1720681758,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 205152,
@@ -979,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204488,
+      "num": 204488,
+      "word": "虞书欣杀青文",
+      "onboard_time": 1720682778,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203830,
       "num": 203830,
       "word": "为什么用猪油炒菜会那么香",
@@ -1011,22 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197634,
-      "num": 197634,
-      "word": "基金经理1年半亏40%降职为助理",
-      "onboard_time": 1720681039,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 197594,
-      "num": 197594,
-      "word": "iPhone16至19系列相机路线图",
-      "onboard_time": 1720681938,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1720667537,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192488,
+      "num": 192488,
+      "word": "冉莹颖夫妇创业七年卖掉所有房产",
+      "onboard_time": 1720683138,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190211,
@@ -1089,14 +1137,6 @@
       "onboard_time": 1720653434,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184010,
-      "num": 184010,
-      "word": "清华大学师生买迪士尼门票享八折",
-      "onboard_time": 1720681039,
-      "rank": 32,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 183376,
@@ -1195,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168156,
-      "num": 168156,
-      "word": "A股上涨个股近5000只",
-      "onboard_time": 1720682117,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166038,
       "num": 166038,
       "word": "谭松韵收视女王",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1720672640,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 164868,
+      "num": 164868,
+      "word": "鞠婧祎介绍礼服",
+      "onboard_time": 1720682958,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163425,
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143991,
+      "num": 488755,
+      "word": "暴雨天气实用防御指南",
+      "onboard_time": 1720681818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143479,
       "num": 143479,
       "word": "奔跑吧12收官物料",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1720679717,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 136663,
-      "num": 136663,
-      "word": "杨紫玩游戏举报邓为",
-      "onboard_time": 1720682239,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 136352,
@@ -1475,6 +1515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 128021,
+      "num": 128021,
+      "word": "张凌赫工作室有我们自己人",
+      "onboard_time": 1720681459,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127418,
       "num": 127418,
       "word": "架不住涂山璟搞纯爱",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1720658358,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126409,
-      "num": 126409,
-      "word": "张凌赫工作室有我们自己人",
-      "onboard_time": 1720681459,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 124650,
@@ -1811,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85141,
-      "num": 488755,
-      "word": "暴雨天气实用防御指南",
-      "onboard_time": 1720681818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83600,
       "num": 574283,
       "word": "乘坐无人驾驶出租车是什么样的体验",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1720649110,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33821,
+      "num": 527504,
+      "word": "重庆15条河流出现超警戒水位洪水",
+      "onboard_time": 1720683018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33004,
