@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720679982959,
+  "endTime": 1720682403306,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -520,6 +520,14 @@
       "word": "林生斌",
       "onboard_time": 1719828558,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1582559,
+      "num": 1582559,
+      "word": "泰国21岁僧侣惨死庙中",
+      "onboard_time": 1720678458,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -4860,7 +4868,7 @@
     },
     {
       "raw_hot": 557673,
-      "num": 456304,
+      "num": 488750,
       "word": "小水回应与小九分手",
       "onboard_time": 1720677439,
       "rank": 21,
@@ -4905,6 +4913,14 @@
       "onboard_time": 1720354337,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556553,
+      "num": 556553,
+      "word": "武汉退车的出租车司机数量变多",
+      "onboard_time": 1720674021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556467,
@@ -5731,6 +5747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499371,
+      "num": 499371,
+      "word": "苹果长出蘑菇女子赠送用于研究",
+      "onboard_time": 1720677317,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497643,
       "num": 497643,
       "word": "亚马尔父亲才35岁",
@@ -5811,6 +5835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 491464,
+      "num": 491464,
+      "word": "重庆垫江强降雨已致6死",
+      "onboard_time": 1720679899,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491264,
       "num": 491264,
       "word": "李东海李赫宰担任TF三代导师",
@@ -5881,6 +5913,14 @@
       "onboard_time": 1720582698,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488745,
+      "num": 488745,
+      "word": "萝卜快跑",
+      "onboard_time": 1720676958,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 488712,
@@ -6251,14 +6291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 472272,
-      "num": 472272,
-      "word": "萝卜快跑",
-      "onboard_time": 1720676958,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 471769,
       "num": 336117,
       "word": "宋亚轩 海胆头",
@@ -6513,14 +6545,6 @@
       "onboard_time": 1720173500,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 458033,
-      "num": 458033,
-      "word": "武汉退车的出租车司机数量变多",
-      "onboard_time": 1720674021,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 457623,
@@ -7073,6 +7097,14 @@
       "onboard_time": 1720508298,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438009,
+      "num": 438009,
+      "word": "邓为狐狸胸针",
+      "onboard_time": 1720680198,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 437637,
@@ -8499,6 +8531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367459,
+      "num": 367459,
+      "word": "杨紫长相思2见面会穿高定",
+      "onboard_time": 1720679299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367396,
       "num": 367396,
       "word": "默杀",
@@ -9771,14 +9811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 319940,
-      "num": 381936,
-      "word": "苹果长出蘑菇女子赠送用于研究",
-      "onboard_time": 1720677317,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319516,
       "num": 319516,
       "word": "女子退休后健身半年被刷走146万",
@@ -10715,14 +10747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284281,
-      "num": 284281,
-      "word": "杨紫长相思2见面会穿高定",
-      "onboard_time": 1720679299,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283952,
       "num": 283952,
       "word": "邓为发了涂山璟",
@@ -10945,14 +10969,6 @@
       "onboard_time": 1719818539,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 275692,
-      "num": 275692,
-      "word": "泰国21岁僧侣惨死庙中",
-      "onboard_time": 1720678458,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275668,
@@ -11907,6 +11923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243844,
+      "num": 243844,
+      "word": "又要熬夜看奥运比赛了",
+      "onboard_time": 1720680978,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243837,
       "num": 224418,
       "word": "Jennie相关吸烟镜头已被删除",
@@ -12683,6 +12707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225635,
+      "num": 225635,
+      "word": "花50买空调服务宠物被放后备厢热死",
+      "onboard_time": 1720677859,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225488,
       "num": 225488,
       "word": "韩国汉拿山因乱扔拉面即将消失",
@@ -12963,20 +12995,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 218200,
+      "num": 218200,
+      "word": "黄觉说肖战很幽默",
+      "onboard_time": 1720681218,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218135,
       "num": 218135,
       "word": "杨紫哭戏",
       "onboard_time": 1720442600,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218116,
-      "num": 218116,
-      "word": "花50买空调服务宠物被放后备厢热死",
-      "onboard_time": 1720677859,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218095,
@@ -13883,6 +13915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205807,
+      "num": 205807,
+      "word": "张晚意清唱了万物不如你",
+      "onboard_time": 1720681758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205728,
       "num": 205728,
       "word": "人民网评罐车运输油罐混用",
@@ -13961,6 +14001,14 @@
       "onboard_time": 1720019060,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205018,
+      "num": 205018,
+      "word": "7月上海酒店住满二次元",
+      "onboard_time": 1720681218,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 205014,
@@ -14819,12 +14867,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 197634,
+      "num": 197634,
+      "word": "基金经理1年半亏40%降职为助理",
+      "onboard_time": 1720681039,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 197618,
       "num": 141320,
       "word": "Gumayusi要三比零TES",
       "onboard_time": 1720371136,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197594,
+      "num": 197594,
+      "word": "iPhone16至19系列相机路线图",
+      "onboard_time": 1720681938,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 197556,
@@ -16283,6 +16347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184010,
+      "num": 184010,
+      "word": "清华大学师生买迪士尼门票享八折",
+      "onboard_time": 1720681039,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 183942,
       "num": 183942,
       "word": "中国男篮31分不敌黄蜂",
@@ -17171,6 +17243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175061,
+      "num": 175061,
+      "word": "百度称萝卜快跑明年开始盈利",
+      "onboard_time": 1720679658,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174964,
       "num": 174964,
       "word": "终于有人把怎么选防晒衣讲明白了",
@@ -17361,6 +17441,14 @@
       "onboard_time": 1720367777,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172802,
+      "num": 172802,
+      "word": "姚译添三部综艺杀青发文",
+      "onboard_time": 1720680557,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172700,
@@ -17561,14 +17649,6 @@
       "onboard_time": 1720624460,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170658,
-      "num": 219438,
-      "word": "重庆垫江强降雨已致6死",
-      "onboard_time": 1720679899,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170648,
@@ -17841,6 +17921,14 @@
       "onboard_time": 1719814098,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168156,
+      "num": 168156,
+      "word": "A股上涨个股近5000只",
+      "onboard_time": 1720682117,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 168121,
@@ -19883,14 +19971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148061,
-      "num": 148061,
-      "word": "百度称萝卜快跑明年开始盈利",
-      "onboard_time": 1720679658,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 148024,
       "num": 148024,
       "word": "蒂亚戈退役",
@@ -20313,6 +20393,14 @@
       "onboard_time": 1719813799,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144695,
+      "num": 144695,
+      "word": "王子奇说沈月变化很大",
+      "onboard_time": 1720681157,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 144625,
@@ -21473,6 +21561,14 @@
       "onboard_time": 1720436779,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136663,
+      "num": 136663,
+      "word": "杨紫玩游戏举报邓为",
+      "onboard_time": 1720682239,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 136586,
@@ -22873,6 +22969,14 @@
       "onboard_time": 1720250897,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126409,
+      "num": 126409,
+      "word": "张凌赫工作室有我们自己人",
+      "onboard_time": 1720681459,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126322,
@@ -26795,6 +26899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85141,
+      "num": 488755,
+      "word": "暴雨天气实用防御指南",
+      "onboard_time": 1720681818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84849,
       "num": 84849,
       "word": "LGD配合",
@@ -29859,6 +29971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27944,
+      "num": 1195129,
+      "word": "裸眼3D打开中国舰气势拉满",
+      "onboard_time": 1720655298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27901,
       "num": 243241,
       "word": "享界S9静态评测首发",
@@ -30185,14 +30305,6 @@
       "onboard_time": 1720558451,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24341,
-      "num": 859121,
-      "word": "裸眼3D打开中国舰气势拉满",
-      "onboard_time": 1720655298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24310,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720682403306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582559,
+        "num": 1582559,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205252,
+        "num": 1205252,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27944,
+        "num": 1195129,
+        "word": "裸眼3D打开中国舰气势拉满",
+        "onboard_time": 1720655298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185010,
+        "num": 1185010,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742621,
+        "num": 742621,
+        "word": "深圳湾出现地球唯一蓝血生物",
+        "onboard_time": 1720675638,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712629,
+        "num": 712629,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556553,
+        "num": 556553,
+        "word": "武汉退车的出租车司机数量变多",
+        "onboard_time": 1720674021,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499371,
+        "num": 499371,
+        "word": "苹果长出蘑菇女子赠送用于研究",
+        "onboard_time": 1720677317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491464,
+        "num": 491464,
+        "word": "重庆垫江强降雨已致6死",
+        "onboard_time": 1720679899,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85141,
+        "num": 488755,
+        "word": "暴雨天气实用防御指南",
+        "onboard_time": 1720681818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546347,
+        "num": 488750,
+        "word": "小水回应与小九分手",
+        "onboard_time": 1720677439,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488745,
+        "num": 488745,
+        "word": "萝卜快跑",
+        "onboard_time": 1720676958,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 444141,
+        "num": 444141,
+        "word": "歌手歌单呢",
+        "onboard_time": 1720678278,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438009,
+        "num": 438009,
+        "word": "邓为狐狸胸针",
+        "onboard_time": 1720680198,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437150,
+        "num": 437150,
+        "word": "3人1次要买50万黄金店员拒绝并报警",
+        "onboard_time": 1720672281,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406210,
+        "num": 406210,
+        "word": "蜜雪冰城就冰杯事件致歉",
+        "onboard_time": 1720678158,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367459,
+        "num": 367459,
+        "word": "杨紫长相思2见面会穿高定",
+        "onboard_time": 1720679299,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321954,
+        "num": 321954,
+        "word": "王一博申请限消晗晗qvq",
+        "onboard_time": 1720672339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355132,
+        "num": 318068,
+        "word": "长相思见面会",
+        "onboard_time": 1720676058,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303118,
+        "num": 303118,
+        "word": "台湾新冠死亡病例暴增55%",
+        "onboard_time": 1720661958,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497944,
+        "num": 298971,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307838,
+        "num": 295656,
+        "word": "林俊杰曾考虑过退出娱乐圈",
+        "onboard_time": 1720675277,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281942,
+        "num": 281942,
+        "word": "凤凰传奇 到底是谁抢到了",
+        "onboard_time": 1720672519,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268854,
+        "num": 268854,
+        "word": "阚清子说梨型身材没事",
+        "onboard_time": 1720675459,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243844,
+        "num": 243844,
+        "word": "又要熬夜看奥运比赛了",
+        "onboard_time": 1720680978,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238025,
+        "num": 238025,
+        "word": "林靖恩肚子饿了偷外卖吃",
+        "onboard_time": 1720675758,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225635,
+        "num": 225635,
+        "word": "花50买空调服务宠物被放后备厢热死",
+        "onboard_time": 1720677859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218200,
+        "num": 218200,
+        "word": "黄觉说肖战很幽默",
+        "onboard_time": 1720681218,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205807,
+        "num": 205807,
+        "word": "张晚意清唱了万物不如你",
+        "onboard_time": 1720681758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205018,
+        "num": 205018,
+        "word": "7月上海酒店住满二次元",
+        "onboard_time": 1720681218,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197634,
+        "num": 197634,
+        "word": "基金经理1年半亏40%降职为助理",
+        "onboard_time": 1720681039,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 197594,
+        "num": 197594,
+        "word": "iPhone16至19系列相机路线图",
+        "onboard_time": 1720681938,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184010,
+        "num": 184010,
+        "word": "清华大学师生买迪士尼门票享八折",
+        "onboard_time": 1720681039,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 178735,
+        "num": 178735,
+        "word": "女子4次漏扫码被刑拘",
+        "onboard_time": 1720668679,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175247,
+        "num": 175247,
+        "word": "鞠婧祎取关前工作室",
+        "onboard_time": 1720676478,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175061,
+        "num": 175061,
+        "word": "百度称萝卜快跑明年开始盈利",
+        "onboard_time": 1720679658,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174281,
+        "num": 174281,
+        "word": "这一届大学生卷起了暑假工",
+        "onboard_time": 1720677618,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172802,
+        "num": 172802,
+        "word": "姚译添三部综艺杀青发文",
+        "onboard_time": 1720680557,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168696,
+        "num": 168696,
+        "word": "女子180万卖掉杭州房子120万买回",
+        "onboard_time": 1720665677,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168156,
+        "num": 168156,
+        "word": "A股上涨个股近5000只",
+        "onboard_time": 1720682117,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162843,
+        "num": 162843,
+        "word": "墨雨云间庆功宴没有吴谨言王星越",
+        "onboard_time": 1720678699,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "张书豪为欧阳妮妮戒烟",
+        "onboard_time": 1720673840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144695,
+        "num": 144695,
+        "word": "王子奇说沈月变化很大",
+        "onboard_time": 1720681157,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143887,
+        "num": 143887,
+        "word": "萝卜快跑无人车售价仅20.46万元",
+        "onboard_time": 1720673182,
+        "rank": 43,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 138622,
+        "num": 138622,
+        "word": "苹果中国限时教育优惠",
+        "onboard_time": 1720679717,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136663,
+        "num": 136663,
+        "word": "杨紫玩游戏举报邓为",
+        "onboard_time": 1720682239,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135968,
+        "num": 135968,
+        "word": "请务必安排我入职",
+        "onboard_time": 1720675218,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129155,
+        "num": 129155,
+        "word": "柯基警犬和队友的训练日常",
+        "onboard_time": 1720672220,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126409,
+        "num": 126409,
+        "word": "张凌赫工作室有我们自己人",
+        "onboard_time": 1720681459,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122383,
+        "num": 122383,
+        "word": "长相思",
+        "onboard_time": 1720679059,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}
