@@ -1,0 +1,410 @@
+{
+  "runTime": 1720671918840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2591021,
+        "num": 2591021,
+        "word": "北约首次直接警告中国",
+        "onboard_time": 1720667957,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1541054,
+        "num": 1541054,
+        "word": "女子4次漏扫码被刑拘",
+        "onboard_time": 1720668679,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75123,
+        "num": 1505879,
+        "word": "发现最美铁路",
+        "onboard_time": 1720666216,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1476049,
+        "num": 1476049,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921434,
+        "num": 921434,
+        "word": "胡歌首谈和太太相处模式",
+        "onboard_time": 1720665978,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672963,
+        "num": 672963,
+        "word": "迪士尼收割中产父母",
+        "onboard_time": 1720667238,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 681817,
+        "num": 658229,
+        "word": "蔡徐坤起诉多人侵权",
+        "onboard_time": 1720668798,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600769,
+        "num": 600769,
+        "word": "唐朝诡事录把黄梅杀续上了",
+        "onboard_time": 1720666877,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515878,
+        "num": 515878,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48157,
+        "num": 478163,
+        "word": "重庆长寿河水倒灌有房屋被淹",
+        "onboard_time": 1720670421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782099,
+        "num": 472193,
+        "word": "台湾新冠死亡病例暴增55%",
+        "onboard_time": 1720661958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453362,
+        "num": 453362,
+        "word": "特朗普称当总统后送扎克伯格进监狱",
+        "onboard_time": 1720665499,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438952,
+        "num": 438952,
+        "word": "因买家秀显肚子被女装商家要求删除",
+        "onboard_time": 1720660039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382305,
+        "num": 382305,
+        "word": "南波万巡演官宣",
+        "onboard_time": 1720669578,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356126,
+        "num": 356126,
+        "word": "中国女游客海上漂36小时后获救",
+        "onboard_time": 1720662618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348968,
+        "num": 348968,
+        "word": "长相思真把阿念养得很好",
+        "onboard_time": 1720664477,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321089,
+        "num": 321089,
+        "word": "我们的歌第六季定档",
+        "onboard_time": 1720667717,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315949,
+        "num": 315949,
+        "word": "咒术回战",
+        "onboard_time": 1720669519,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 309552,
+        "num": 309552,
+        "word": "扬州地震",
+        "onboard_time": 1720665557,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257391,
+        "num": 257391,
+        "word": "刘诗诗小腿有绷带",
+        "onboard_time": 1720663938,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1257661,
+        "num": 255785,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70632,
+        "num": 244322,
+        "word": "了不起的中国电动车",
+        "onboard_time": 1720667118,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 562585,
+        "num": 243611,
+        "word": "女子180万卖掉杭州房子120万买回",
+        "onboard_time": 1720665677,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242880,
+        "num": 242880,
+        "word": "越来越多美国人正抛弃智能手机",
+        "onboard_time": 1720659979,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235109,
+        "num": 235109,
+        "word": "上海著名滑稽演员傅子明逝世",
+        "onboard_time": 1720666398,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233469,
+        "num": 233469,
+        "word": "雷军将重回小米手机发布会",
+        "onboard_time": 1720666877,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223381,
+        "num": 223381,
+        "word": "我有9颗头比别人能吃一些",
+        "onboard_time": 1720671619,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221126,
+        "num": 221126,
+        "word": "男子凌晨发现家里多出一个孩子",
+        "onboard_time": 1720658417,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218580,
+        "num": 218580,
+        "word": "宝马7月将会开始降量保价",
+        "onboard_time": 1720669880,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 208009,
+        "word": "老旧电梯总出故障为啥还不报废",
+        "onboard_time": 1720666818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205152,
+        "num": 205152,
+        "word": "美国男篮vs加拿大男篮",
+        "onboard_time": 1720669099,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199095,
+        "num": 199095,
+        "word": "黄明昊簪花图",
+        "onboard_time": 1720671139,
+        "rank": 31,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 197937,
+        "num": 197937,
+        "word": "长相思人设",
+        "onboard_time": 1720670838,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194175,
+        "num": 194175,
+        "word": "网友P的夭玹亲了",
+        "onboard_time": 1720666516,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178555,
+        "num": 178555,
+        "word": "Uzi说自己要凉了",
+        "onboard_time": 1720666216,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176749,
+        "num": 176749,
+        "word": "为什么男女生空调总吹不到一起去",
+        "onboard_time": 1720660699,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175433,
+        "num": 175433,
+        "word": "宝马奔驰降价超10万也卷不过国产",
+        "onboard_time": 1720671260,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 174698,
+        "word": "郎平谈中国女排最大危机",
+        "onboard_time": 1720668017,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168909,
+        "num": 168909,
+        "word": "新冠检测有了新手段",
+        "onboard_time": 1720669939,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156573,
+        "num": 156573,
+        "word": "小夭不爱涂山璟唯爱叶十七",
+        "onboard_time": 1720654576,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154374,
+        "num": 154374,
+        "word": "檀健次回应演技油腻",
+        "onboard_time": 1720655176,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "陈昊宇陈丽君合作OST",
+        "onboard_time": 1720666277,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "韩国首尔大学N号房事件",
+        "onboard_time": 1720667778,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148083,
+        "num": 148083,
+        "word": "工作人员为Jennie发声",
+        "onboard_time": 1720662978,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146804,
+        "num": 146804,
+        "word": "睡觉把手举过头顶小心得这种病",
+        "onboard_time": 1720625658,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146523,
+        "num": 146523,
+        "word": "马嘉祺官宣七周年",
+        "onboard_time": 1720668017,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139223,
+        "num": 139223,
+        "word": "剑网3",
+        "onboard_time": 1720669038,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135707,
+        "num": 135707,
+        "word": "胡歌发文为阿玛尼先生九十大寿庆生",
+        "onboard_time": 1720667658,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134328,
+        "num": 134328,
+        "word": "努涅斯和球迷互殴",
+        "onboard_time": 1720668078,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129248,
+        "num": 129248,
+        "word": "华晨宇演唱会密密麻麻的灯",
+        "onboard_time": 1720669338,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}

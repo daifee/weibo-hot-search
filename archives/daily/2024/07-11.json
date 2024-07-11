@@ -1,7 +1,15 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720669041991,
+  "endTime": 1720671918840,
   "band_list": [
+    {
+      "raw_hot": 2591021,
+      "num": 2591021,
+      "word": "北约首次直接警告中国",
+      "onboard_time": 1720667957,
+      "rank": 11,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1713718,
       "num": 1713718,
@@ -11,16 +19,24 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1465514,
-      "num": 1465514,
-      "word": "北约首次直接警告中国",
-      "onboard_time": 1720667957,
-      "rank": 11,
-      "category": "国外时政"
+      "raw_hot": 1541054,
+      "num": 1541054,
+      "word": "女子4次漏扫码被刑拘",
+      "onboard_time": 1720668679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1476049,
+      "num": 1476049,
+      "word": "鞠婧祎 和颂",
+      "onboard_time": 1720670421,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1411036,
-      "num": 447796,
+      "num": 472193,
       "word": "台湾新冠死亡病例暴增55%",
       "onboard_time": 1720661958,
       "rank": 18,
@@ -123,6 +139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 681817,
+      "num": 658229,
+      "word": "蔡徐坤起诉多人侵权",
+      "onboard_time": 1720668798,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 672963,
+      "num": 672963,
+      "word": "迪士尼收割中产父母",
+      "onboard_time": 1720667238,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 656894,
       "num": 656894,
       "word": "蜜雪冰城回应门店拒卖冰杯",
@@ -211,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515878,
+      "num": 515878,
+      "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+      "onboard_time": 1720671619,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470412,
       "num": 290882,
       "word": "哪有艺人围观素人接吻摔倒的",
@@ -265,6 +305,14 @@
       "onboard_time": 1720662978,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382305,
+      "num": 382305,
+      "word": "南波万巡演官宣",
+      "onboard_time": 1720669578,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 361657,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315949,
+      "num": 315949,
+      "word": "咒术回战",
+      "onboard_time": 1720669519,
+      "rank": 17,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 311278,
       "num": 311278,
       "word": "陈昊宇陈丽君合作OST",
@@ -401,22 +457,6 @@
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 277105,
-      "num": 277105,
-      "word": "迪士尼收割中产父母",
-      "onboard_time": 1720667238,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 272139,
-      "num": 272139,
-      "word": "蔡徐坤起诉多人侵权",
-      "onboard_time": 1720668798,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 265816,
@@ -483,6 +523,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 233469,
+      "num": 233469,
+      "word": "雷军将重回小米手机发布会",
+      "onboard_time": 1720666877,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 228672,
       "num": 147898,
       "word": "当不婚的小姨成了外甥最好的朋友",
@@ -499,20 +547,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 227566,
-      "num": 227566,
-      "word": "雷军将重回小米手机发布会",
-      "onboard_time": 1720666877,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 224642,
       "num": 224642,
       "word": "王一博香奈儿晚宴路透",
       "onboard_time": 1720621459,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223381,
+      "num": 223381,
+      "word": "我有9颗头比别人能吃一些",
+      "onboard_time": 1720671619,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218580,
+      "num": 218580,
+      "word": "宝马7月将会开始降量保价",
+      "onboard_time": 1720669880,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 215349,
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205152,
+      "num": 205152,
+      "word": "美国男篮vs加拿大男篮",
+      "onboard_time": 1720669099,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204680,
       "num": 204680,
       "word": "努涅斯和球迷互殴",
@@ -595,10 +659,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199095,
+      "num": 199095,
+      "word": "黄明昊簪花图",
+      "onboard_time": 1720671139,
+      "rank": 31,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 198507,
       "num": 198507,
       "word": "网友P的夭玹亲了",
       "onboard_time": 1720666516,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197937,
+      "num": 197937,
+      "word": "长相思人设",
+      "onboard_time": 1720670838,
       "rank": 32,
       "category": "剧集"
     },
@@ -643,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183714,
-      "num": 183714,
-      "word": "女子4次漏扫码被刑拘",
-      "onboard_time": 1720668679,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183376,
       "num": 183376,
       "word": "南海仲裁案裁决再批驳报告发布",
@@ -673,6 +745,14 @@
       "onboard_time": 1720605918,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175433,
+      "num": 175433,
+      "word": "宝马奔驰降价超10万也卷不过国产",
+      "onboard_time": 1720671260,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 175406,
@@ -705,6 +785,14 @@
       "onboard_time": 1720614739,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168909,
+      "num": 168909,
+      "word": "新冠检测有了新手段",
+      "onboard_time": 1720669939,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168429,
@@ -763,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148841,
+      "num": 198939,
+      "word": "韩国首尔大学N号房事件",
+      "onboard_time": 1720667778,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147794,
       "num": 441656,
       "word": "洋大叔吃了一口中国小摊汉堡不得了",
@@ -801,6 +897,14 @@
       "onboard_time": 1720664357,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139223,
+      "num": 139223,
+      "word": "剑网3",
+      "onboard_time": 1720669038,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 138916,
@@ -857,6 +961,14 @@
       "onboard_time": 1720631414,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129248,
+      "num": 129248,
+      "word": "华晨宇演唱会密密麻麻的灯",
+      "onboard_time": 1720669338,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 128139,
@@ -931,6 +1043,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 117892,
+      "num": 447863,
+      "word": "老旧电梯总出故障为啥还不报废",
+      "onboard_time": 1720666818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117710,
       "num": 117710,
       "word": "肖战法国限定记录",
@@ -976,14 +1096,6 @@
       "word": "植物大战僵尸杂交版作者初中毕业",
       "onboard_time": 1720619899,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111887,
-      "num": 447863,
-      "word": "老旧电梯总出故障为啥还不报废",
-      "onboard_time": 1720666818,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1212,7 +1324,7 @@
     },
     {
       "raw_hot": 79003,
-      "num": 1162285,
+      "num": 1505879,
       "word": "发现最美铁路",
       "onboard_time": 1720666216,
       "rank": 2,
@@ -1233,6 +1345,14 @@
       "onboard_time": 1720653316,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70632,
+      "num": 340253,
+      "word": "了不起的中国电动车",
+      "onboard_time": 1720667118,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 69011,
@@ -1307,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50684,
-      "num": 340253,
-      "word": "了不起的中国电动车",
-      "onboard_time": 1720667118,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 50257,
       "num": 50257,
       "word": "凯恩点球破门",
@@ -1329,6 +1441,14 @@
       "onboard_time": 1720653974,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48157,
+      "num": 478163,
+      "word": "重庆长寿河水倒灌有房屋被淹",
+      "onboard_time": 1720670421,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45709,
@@ -1473,14 +1593,6 @@
       "onboard_time": 1720644851,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25741,
-      "num": 198939,
-      "word": "韩国首尔大学N号房事件",
-      "onboard_time": 1720667778,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25680,
