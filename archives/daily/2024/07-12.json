@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720715952674,
+  "endTime": 1720718342524,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -113,6 +113,14 @@
       "onboard_time": 1720701258,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272709,
+      "num": 306603,
+      "word": "中科院博士回应研究苹果长出蘑菇",
+      "onboard_time": 1720714338,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271674,
@@ -387,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67797,
+      "num": 67349,
+      "word": "相柳酒搭子已上线",
+      "onboard_time": 1720716494,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65951,
       "num": 72436,
       "word": "柯南2024主题餐厅立绘",
       "onboard_time": 1720711219,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 60413,
-      "num": 306603,
-      "word": "中科院博士回应研究苹果长出蘑菇",
-      "onboard_time": 1720714338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59539,
@@ -419,12 +427,44 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 50633,
+      "num": 50633,
+      "word": "ENHYPEN预告",
+      "onboard_time": 1720717694,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 47664,
+      "num": 49424,
+      "word": "中餐厅杀青",
+      "onboard_time": 1720716913,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39951,
       "num": 83932,
       "word": "在洞庭湖与洪水赛跑的77小时",
       "onboard_time": 1720709120,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21400,
+      "num": 66668,
+      "word": "人生最后1个暑假男生千里走单骑",
+      "onboard_time": 1720716196,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19490,
+      "num": 133381,
+      "word": "媒体评萝卜快跑抢网约车司机饭碗",
+      "onboard_time": 1720718053,
+      "rank": 13,
+      "category": "汽车,互联网"
     }
   ],
   "hotgov_list": [
