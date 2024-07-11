@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720737342742,
+  "endTime": 1720740103077,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 592519,
-      "num": 135970,
+      "num": 374393,
       "word": "很多癌症都是因为四大不规律",
       "onboard_time": 1720709960,
       "rank": 21,
@@ -35,12 +35,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 537978,
+      "num": 537978,
+      "word": "中科院博士回应研究苹果长出蘑菇",
+      "onboard_time": 1720714338,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406640,
       "num": 406640,
       "word": "刘亦菲有新狗了",
       "onboard_time": 1720705159,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378581,
+      "num": 378581,
+      "word": "官方回应萝卜快跑被指低价扰乱市场",
+      "onboard_time": 1720735631,
+      "rank": 49,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 365260,
@@ -81,14 +97,6 @@
       "onboard_time": 1720705819,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 320672,
-      "num": 320672,
-      "word": "中科院博士回应研究苹果长出蘑菇",
-      "onboard_time": 1720714338,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319889,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213054,
+      "num": 122382,
+      "word": "长期早醒或预示了4个疾病",
+      "onboard_time": 1720714217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "萝卜快跑订单迎爆发增长",
@@ -179,20 +195,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 179146,
-      "num": 122382,
-      "word": "长期早醒或预示了4个疾病",
-      "onboard_time": 1720714217,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
       "onboard_time": 1720713617,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156613,
+      "num": 80823,
+      "word": "生完宝宝肚子上的黑线会消失吗",
+      "onboard_time": 1720728191,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 140167,
@@ -219,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126086,
-      "num": 126086,
+      "raw_hot": 131492,
+      "num": 131492,
       "word": "多艘中国军舰现身阿拉斯加附近",
       "onboard_time": 1720704498,
       "rank": 26,
@@ -233,6 +249,14 @@
       "onboard_time": 1720718053,
       "rank": 13,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 112565,
+      "num": 80431,
+      "word": "邪恶摇粒绒罪名彻底坐实了",
+      "onboard_time": 1720739595,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 112481,
@@ -403,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71185,
-      "num": 45613,
-      "word": "生完宝宝肚子上的黑线会消失吗",
-      "onboard_time": 1720728191,
-      "rank": 42,
-      "category": "母婴育儿"
+      "raw_hot": 68854,
+      "num": 68854,
+      "word": "男子伤妻女外孙后逃匿后自杀身亡",
+      "onboard_time": 1720726931,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 68423,
+      "num": 68423,
+      "word": "北大发文祝福要去敦煌的考古女孩",
+      "onboard_time": 1720722431,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67797,
@@ -427,12 +459,60 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62118,
+      "num": 62118,
+      "word": "蔡少芬除了剪秋一个宫女不认识",
+      "onboard_time": 1720739896,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59539,
       "num": 72422,
       "word": "谢霆锋 王菲战斗粉",
       "onboard_time": 1720698260,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58789,
+      "num": 75435,
+      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
+      "onboard_time": 1720735692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57959,
+      "num": 57959,
+      "word": "退役警犬一路上不停打量新主人",
+      "onboard_time": 1720739595,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56888,
+      "num": 56888,
+      "word": "周杰伦cos藤原拓海",
+      "onboard_time": 1720720153,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 53608,
+      "num": 53608,
+      "word": "刘德华2580元门票被炒到68880元",
+      "onboard_time": 1720723751,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53588,
+      "num": 53588,
+      "word": "长期吃自榨油可能危害身体健康",
+      "onboard_time": 1720739957,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 52530,
@@ -443,12 +523,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51351,
+      "num": 51351,
+      "word": "小猫抱着小鱼的样子好可爱",
+      "onboard_time": 1720734371,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50633,
       "num": 50633,
       "word": "ENHYPEN预告",
       "onboard_time": 1720717694,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 48259,
+      "num": 48259,
+      "word": "麻将凉席怎么消失了",
+      "onboard_time": 1720739715,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 47664,
@@ -459,12 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41451,
-      "num": 41451,
-      "word": "官方回应萝卜快跑被指低价扰乱市场",
-      "onboard_time": 1720735631,
-      "rank": 49,
-      "category": "社会新闻,互联网"
+      "raw_hot": 43502,
+      "num": 43502,
+      "word": "六年级女生跳出4米93",
+      "onboard_time": 1720740075,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 42813,
+      "num": 42813,
+      "word": "杨超越路人拍比精修好看",
+      "onboard_time": 1720727471,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 39951,
@@ -483,36 +587,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 39620,
-      "num": 48186,
-      "word": "北大发文祝福要去敦煌的考古女孩",
-      "onboard_time": 1720722431,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36680,
-      "num": 36680,
-      "word": "周杰伦cos藤原拓海",
-      "onboard_time": 1720720153,
-      "rank": 32,
-      "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 35462,
-      "num": 35462,
-      "word": "男子伤妻女外孙后逃匿后自杀身亡",
-      "onboard_time": 1720726931,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 30043,
-      "num": 30043,
-      "word": "杨超越路人拍比精修好看",
-      "onboard_time": 1720727471,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 36691,
+      "num": 82748,
+      "word": "爸爸带11个月大宝宝打针演习",
+      "onboard_time": 1720739834,
+      "rank": 18,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 29738,
@@ -531,36 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28646,
-      "num": 29593,
-      "word": "小猫抱着小鱼的样子好可爱",
-      "onboard_time": 1720734371,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 25543,
-      "num": 29574,
-      "word": "刘德华2580元门票被炒到68880元",
-      "onboard_time": 1720723751,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 22974,
       "num": 29568,
       "word": "刚出生的刺猬被女孩救活当宠物养大",
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21970,
-      "num": 75435,
-      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
-      "onboard_time": 1720735692,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21400,
@@ -577,6 +633,14 @@
       "onboard_time": 1720724052,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17610,
+      "num": 68479,
+      "word": "高铁偶遇晕倒女生河南医生果断救助",
+      "onboard_time": 1720739415,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 13905,
