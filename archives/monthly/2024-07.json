@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720696649241,
+  "endTime": 1720697694670,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2003735,
+      "num": 2003735,
+      "word": "警方通报东营恶性伤人事件",
+      "onboard_time": 1720694417,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1973002,
       "num": 1973002,
       "word": "那英 清唱",
@@ -337,14 +345,6 @@
       "onboard_time": 1719804917,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1813142,
-      "num": 1813142,
-      "word": "警方通报东营恶性伤人事件",
-      "onboard_time": 1720694417,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1811932,
@@ -3515,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688781,
+      "num": 688781,
+      "word": "娜扎 我就是一个正常的女性",
+      "onboard_time": 1720692378,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687799,
       "num": 687799,
       "word": "医院回应徒步女主播路边直播被车撞",
@@ -4001,14 +4009,6 @@
       "onboard_time": 1720054039,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 631844,
-      "num": 631844,
-      "word": "娜扎 我就是一个正常的女性",
-      "onboard_time": 1720692378,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 631404,
@@ -8259,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385525,
+      "num": 213216,
+      "word": "偷偷瘦了20斤后见到朋友内心belike",
+      "onboard_time": 1720694717,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384556,
       "num": 384556,
       "word": "刘亦菲小魔女妆造",
@@ -9819,6 +9827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327218,
+      "num": 313201,
+      "word": "729 CV",
+      "onboard_time": 1720692138,
+      "rank": 33,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 326749,
       "num": 254779,
       "word": "鞠婧祎妆造",
@@ -10003,14 +10019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319362,
-      "num": 213216,
-      "word": "偷偷瘦了20斤后见到朋友内心belike",
-      "onboard_time": 1720694717,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 319302,
       "num": 265078,
       "word": "这和亲了一口张凌赫有啥区别",
@@ -10169,14 +10177,6 @@
       "onboard_time": 1720175600,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313201,
-      "num": 313201,
-      "word": "729 CV",
-      "onboard_time": 1720692138,
-      "rank": 33,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 312259,
@@ -10345,6 +10345,14 @@
       "onboard_time": 1720408939,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306971,
+      "num": 306971,
+      "word": "成韩彬翻包翻出乳贴",
+      "onboard_time": 1720695378,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306635,
@@ -10795,14 +10803,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 289549,
-      "num": 289549,
-      "word": "成韩彬翻包翻出乳贴",
-      "onboard_time": 1720695378,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 289047,
       "num": 289047,
       "word": "小水新剧是1女vs9男",
@@ -11177,6 +11177,14 @@
       "onboard_time": 1720186461,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277215,
+      "num": 196339,
+      "word": "五点半和六点下班真不一样",
+      "onboard_time": 1720695319,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 276971,
@@ -13027,6 +13035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 224718,
+      "num": 200380,
+      "word": "胡锡进账户6万元不知道买什么",
+      "onboard_time": 1720694657,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 224646,
       "num": 224646,
       "word": "女子花39.9元点痣鼻头出现大坑",
@@ -13593,6 +13609,14 @@
       "onboard_time": 1719804317,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213999,
+      "num": 213999,
+      "word": "外交部回应日自卫队舰艇进入中国领海",
+      "onboard_time": 1720696039,
+      "rank": 31,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 213867,
@@ -14907,14 +14931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200380,
-      "num": 200380,
-      "word": "胡锡进账户6万元不知道买什么",
-      "onboard_time": 1720694657,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 200324,
       "num": 200324,
       "word": "魔方新世界",
@@ -15259,6 +15275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197043,
+      "num": 197043,
+      "word": "错位",
+      "onboard_time": 1720494258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196853,
       "num": 196853,
       "word": "德国vs西班牙",
@@ -15449,6 +15473,14 @@
       "onboard_time": 1719991698,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195613,
+      "num": 195613,
+      "word": "刘诗诗穿了未发布款高定",
+      "onboard_time": 1720697417,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195466,
@@ -15801,14 +15833,6 @@
       "onboard_time": 1720686619,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191928,
-      "num": 191928,
-      "word": "错位",
-      "onboard_time": 1720494258,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 191890,
@@ -16635,14 +16659,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 184694,
-      "num": 184694,
-      "word": "五点半和六点下班真不一样",
-      "onboard_time": 1720695319,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184582,
       "num": 184582,
       "word": "上半年2.87亿人次出入境",
@@ -16833,6 +16849,14 @@
       "onboard_time": 1720063998,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182086,
+      "num": 182086,
+      "word": "知情人讲述东营恶性伤人事件",
+      "onboard_time": 1720695738,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182056,
@@ -17425,6 +17449,14 @@
       "onboard_time": 1720238117,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176909,
+      "num": 176909,
+      "word": "周深贵阳演唱会设未成年人联络卡",
+      "onboard_time": 1720696879,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 176762,
@@ -19635,14 +19667,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 155396,
-      "num": 155396,
-      "word": "外交部回应日自卫队舰艇进入中国领海",
-      "onboard_time": 1720696039,
-      "rank": 31,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "漫画师画的杨紫",
@@ -19923,6 +19947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152928,
+      "num": 152928,
+      "word": "相柳带着桐华敲定了自己的结局",
+      "onboard_time": 1720696937,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152905,
       "num": 152905,
       "word": "林俊杰无畏契约",
@@ -19993,14 +20025,6 @@
       "onboard_time": 1719921017,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152100,
-      "num": 152100,
-      "word": "知情人讲述东营恶性伤人事件",
-      "onboard_time": 1720695738,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152086,
@@ -20355,6 +20379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148559,
+      "num": 148559,
+      "word": "自动驾驶汽车出交通事故谁担责",
+      "onboard_time": 1720694298,
+      "rank": 35,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 148502,
       "num": 148502,
       "word": "骂领导的信息不小心发给领导了",
@@ -20385,6 +20417,14 @@
       "onboard_time": 1720602379,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148266,
+      "num": 148266,
+      "word": "Doinb UP",
+      "onboard_time": 1720696698,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 148264,
@@ -20561,14 +20601,6 @@
       "onboard_time": 1720356438,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146480,
-      "num": 146480,
-      "word": "自动驾驶汽车出交通事故谁担责",
-      "onboard_time": 1720694298,
-      "rank": 35,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 146478,
@@ -21169,6 +21201,14 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142700,
+      "num": 142700,
+      "word": "杨紫第三次穿JF",
+      "onboard_time": 1720696397,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142660,
@@ -22179,6 +22219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135918,
+      "num": 135918,
+      "word": "为什么面包店总有一种吸引人的香气",
+      "onboard_time": 1720693638,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "黄宣 小镇姑娘",
@@ -23089,14 +23137,6 @@
       "onboard_time": 1720669338,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129121,
-      "num": 129121,
-      "word": "为什么面包店总有一种吸引人的香气",
-      "onboard_time": 1720693638,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 129058,
@@ -24635,6 +24675,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 117595,
+      "num": 117595,
+      "word": "谢欣桐小黄分手",
+      "onboard_time": 1720697659,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 117417,
       "num": 117417,
       "word": "时代少年团回应刘耀文脚受伤",
@@ -24944,14 +24992,6 @@
       "word": "长相思 大女主",
       "onboard_time": 1720603879,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114721,
-      "num": 114721,
-      "word": "杨紫第三次穿JF",
-      "onboard_time": 1720696397,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -29715,6 +29755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41667,
+      "num": 335437,
+      "word": "不当的生酮饮食将加速细胞衰老",
+      "onboard_time": 1720696517,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 41525,
       "num": 35988,
       "word": "突然发现了我妈是先天留子圣体",
@@ -30265,6 +30313,14 @@
       "onboard_time": 1720639871,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32928,
+      "num": 176915,
+      "word": "在环球影城偶遇iQOO发布",
+      "onboard_time": 1720696698,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 32911,
@@ -31361,14 +31417,6 @@
       "onboard_time": 1719904698,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16432,
-      "num": 335437,
-      "word": "不当的生酮饮食将加速细胞衰老",
-      "onboard_time": 1720696517,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 16369,

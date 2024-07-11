@@ -1,0 +1,410 @@
+{
+  "runTime": 1720697694670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003735,
+        "num": 2003735,
+        "word": "警方通报东营恶性伤人事件",
+        "onboard_time": 1720694417,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 688781,
+        "num": 688781,
+        "word": "娜扎 我就是一个正常的女性",
+        "onboard_time": 1720692378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67536,
+        "num": 653970,
+        "word": "暴雨天要牢记这10个安全提醒",
+        "onboard_time": 1720686197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638052,
+        "num": 638052,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1720690519,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479141,
+        "num": 479141,
+        "word": "荣梓杉 北京电影学院",
+        "onboard_time": 1720689078,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386702,
+        "num": 466558,
+        "word": "1公里1块钱的无人出租车你敢坐吗",
+        "onboard_time": 1720688478,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459179,
+        "num": 459179,
+        "word": "王牌对王牌",
+        "onboard_time": 1720695559,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456019,
+        "num": 456019,
+        "word": "涂山璟台词",
+        "onboard_time": 1720694899,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313303,
+        "num": 313303,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41667,
+        "num": 309376,
+        "word": "不当的生酮饮食将加速细胞衰老",
+        "onboard_time": 1720696517,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 359326,
+        "num": 309201,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327218,
+        "num": 308521,
+        "word": "729 CV",
+        "onboard_time": 1720692138,
+        "rank": 11,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 306971,
+        "num": 306971,
+        "word": "成韩彬翻包翻出乳贴",
+        "onboard_time": 1720695378,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303744,
+        "num": 303744,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289754,
+        "num": 289754,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 265765,
+        "num": 265765,
+        "word": "景区月薪5000招野人1天接几百个电话",
+        "onboard_time": 1720690997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231179,
+        "num": 231179,
+        "word": "自动驾驶来了你是怕还是盼",
+        "onboard_time": 1720685418,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224480,
+        "num": 224480,
+        "word": "杨紫穿秀禾",
+        "onboard_time": 1720691118,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213999,
+        "num": 213999,
+        "word": "外交部回应日自卫队舰艇进入中国领海",
+        "onboard_time": 1720696039,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 197043,
+        "num": 197043,
+        "word": "错位",
+        "onboard_time": 1720697297,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561857,
+        "num": 196846,
+        "word": "实习一个月净收入14元",
+        "onboard_time": 1720689858,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385525,
+        "num": 196699,
+        "word": "偷偷瘦了20斤后见到朋友内心belike",
+        "onboard_time": 1720694717,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277215,
+        "num": 196339,
+        "word": "五点半和六点下班真不一样",
+        "onboard_time": 1720695319,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224718,
+        "num": 196048,
+        "word": "胡锡进账户6万元不知道买什么",
+        "onboard_time": 1720694657,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 195868,
+        "num": 195868,
+        "word": "张晚意问媒体您不满意是吗",
+        "onboard_time": 1720696039,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195613,
+        "num": 195613,
+        "word": "刘诗诗穿了未发布款高定",
+        "onboard_time": 1720697417,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184680,
+        "num": 184680,
+        "word": "美国男子杀害女友后坐轮椅抛尸",
+        "onboard_time": 1720690218,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182086,
+        "num": 182086,
+        "word": "知情人讲述东营恶性伤人事件",
+        "onboard_time": 1720695738,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177685,
+        "num": 177685,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32928,
+        "num": 176915,
+        "word": "在环球影城偶遇iQOO发布",
+        "onboard_time": 1720696698,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176909,
+        "num": 176909,
+        "word": "周深贵阳演唱会设未成年人联络卡",
+        "onboard_time": 1720696879,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "在本县体制内上班是什么感觉",
+        "onboard_time": 1720687398,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152928,
+        "num": 152928,
+        "word": "相柳带着桐华敲定了自己的结局",
+        "onboard_time": 1720696937,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148687,
+        "num": 148687,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148559,
+        "num": 148559,
+        "word": "自动驾驶汽车出交通事故谁担责",
+        "onboard_time": 1720694298,
+        "rank": 34,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 148266,
+        "num": 148266,
+        "word": "Doinb UP",
+        "onboard_time": 1720696698,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142746,
+        "num": 142746,
+        "word": "张晚意清唱了万物不如你",
+        "onboard_time": 1720681758,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142700,
+        "num": 142700,
+        "word": "杨紫第三次穿JF",
+        "onboard_time": 1720696397,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138951,
+        "num": 138951,
+        "word": "吃米线爱放麻油的注意了",
+        "onboard_time": 1720687338,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136949,
+        "num": 136949,
+        "word": "Elk回应虐泉",
+        "onboard_time": 1720694599,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135918,
+        "num": 135918,
+        "word": "为什么面包店总有一种吸引人的香气",
+        "onboard_time": 1720693638,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134319,
+        "num": 134319,
+        "word": "邓为像crush一样路过",
+        "onboard_time": 1720692738,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132376,
+        "num": 132376,
+        "word": "半夜1点弟弟到姐姐屋蹭空调",
+        "onboard_time": 1720682657,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129657,
+        "num": 129657,
+        "word": "欧洲杯期间一个女生发的朋友圈",
+        "onboard_time": 1720694298,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129399,
+        "num": 129399,
+        "word": "歌手歌单",
+        "onboard_time": 1720684037,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127707,
+        "num": 127707,
+        "word": "为什么人人都哭穷却人人都在旅游",
+        "onboard_time": 1720690458,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125898,
+        "num": 125898,
+        "word": "韩国五年来至少有100名教师自杀",
+        "onboard_time": 1720692076,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125148,
+        "num": 125148,
+        "word": "郑恺发文告别奔跑吧",
+        "onboard_time": 1720688118,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120743,
+        "num": 120743,
+        "word": "猫猫一直拿脑袋撞我是头上痒吗",
+        "onboard_time": 1720692498,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117595,
+        "num": 117595,
+        "word": "谢欣桐小黄分手",
+        "onboard_time": 1720697659,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
