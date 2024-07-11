@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720704856577,
+  "endTime": 1720707507437,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -9,6 +9,14 @@
       "onboard_time": 1720667957,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2167195,
+      "num": 232954,
+      "word": "女子私密处手术后死亡1人获刑",
+      "onboard_time": 1720704918,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2007729,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1293178,
-      "num": 635066,
+      "num": 673194,
       "word": "谢欣桐小黄分手",
       "onboard_time": 1720697659,
       "rank": 49,
@@ -139,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1102166,
+      "num": 226910,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒",
+      "onboard_time": 1720704439,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1078459,
       "num": 1078459,
       "word": "男子凌晨发现家里多出一个孩子",
       "onboard_time": 1720658417,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1047701,
+      "num": 884942,
+      "word": "刘亦菲有新狗了",
+      "onboard_time": 1720705159,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1037079,
@@ -161,6 +185,14 @@
       "onboard_time": 1720697417,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 931576,
+      "num": 931576,
+      "word": "苏翊鸣 朱易",
+      "onboard_time": 1720706539,
+      "rank": 1,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 882414,
@@ -241,6 +273,14 @@
       "onboard_time": 1720657279,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 778550,
+      "num": 778550,
+      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
+      "onboard_time": 1720703479,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749168,
@@ -539,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513429,
+      "num": 513429,
+      "word": "萝卜快跑订单迎爆发增长",
+      "onboard_time": 1720702819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501029,
       "num": 422717,
       "word": "张晚意问媒体您不满意是吗",
@@ -611,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462720,
+      "num": 230895,
+      "word": "44岁柳岩自曝患子宫肌瘤",
+      "onboard_time": 1720707141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461665,
       "num": 461665,
       "word": "英格兰连续两届欧洲杯进决赛",
@@ -659,20 +715,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 432625,
-      "num": 317056,
-      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
-      "onboard_time": 1720703479,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426081,
       "num": 426081,
       "word": "又要熬夜看奥运比赛了",
       "onboard_time": 1720680978,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424790,
+      "num": 424790,
+      "word": "涂山璟开大秒杀涂山篌",
+      "onboard_time": 1720704258,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 422276,
@@ -705,6 +761,14 @@
       "onboard_time": 1720662978,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399767,
+      "num": 228511,
+      "word": "孙颖莎封训时哭了",
+      "onboard_time": 1720704979,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 397797,
@@ -947,6 +1011,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 312510,
+      "num": 201524,
+      "word": "只有师范生才懂她讲的有多好",
+      "onboard_time": 1720705819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 311278,
       "num": 311278,
       "word": "陈昊宇陈丽君合作OST",
@@ -977,6 +1049,14 @@
       "onboard_time": 1720653795,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299964,
+      "num": 299964,
+      "word": "伊利免单",
+      "onboard_time": 1720706839,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 299078,
@@ -1072,6 +1152,14 @@
       "word": "唐朝诡事录2宝想要宝得到",
       "onboard_time": 1720688897,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 271782,
+      "num": 227251,
+      "word": "长相思2",
+      "onboard_time": 1720705520,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1291,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220303,
+      "num": 220303,
+      "word": "aespa团综预告图里的宁艺卓",
+      "onboard_time": 1720705940,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220186,
       "num": 192933,
       "word": "为什么人人都哭穷却人人都在旅游",
@@ -1347,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214394,
+      "num": 214394,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213235,
       "num": 199817,
       "word": "李荣浩穿的是杨丞琳的周边",
@@ -1401,6 +1505,14 @@
       "onboard_time": 1720700778,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 208214,
+      "num": 208214,
+      "word": "谁给杨紫递个恶女本",
+      "onboard_time": 1720704918,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 207640,
@@ -1507,12 +1619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201538,
-      "num": 201538,
-      "word": "涂山璟开大秒杀涂山篌",
-      "onboard_time": 1720704258,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 202135,
+      "num": 237299,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199095,
@@ -1587,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193791,
+      "num": 193791,
+      "word": "小夭身世",
+      "onboard_time": 1720706839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192622,
       "num": 192622,
       "word": "佟大为你别这样我害怕",
@@ -1649,6 +1769,14 @@
       "onboard_time": 1720664836,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189139,
+      "num": 189139,
+      "word": "金珉奎美貌",
+      "onboard_time": 1720707260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 187335,
@@ -1739,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178825,
-      "num": 178825,
-      "word": "这居然是2024年的李东海",
-      "onboard_time": 1720701737,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178741,
       "num": 178741,
       "word": "韩国19岁恶魔杀人分尸16个小时",
@@ -1825,6 +1945,14 @@
       "onboard_time": 1720701978,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170350,
+      "num": 170350,
+      "word": "孙千腰链",
+      "onboard_time": 1720706299,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 170237,
@@ -1931,6 +2059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162887,
+      "num": 162887,
+      "word": "我怎么会在那种情况下要了你",
+      "onboard_time": 1720707020,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162254,
       "num": 162254,
       "word": "长相思2比1疯了好多",
@@ -1987,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153962,
-      "num": 226910,
-      "word": "她的骨灰装进了周恩来用过的骨灰盒",
-      "onboard_time": 1720704439,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152928,
       "num": 152928,
       "word": "相柳带着桐华敲定了自己的结局",
@@ -2043,6 +2171,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 150046,
+      "num": 150046,
+      "word": "TTG连续两大场被零封",
+      "onboard_time": 1720707439,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "马龙最喜欢大家叫他龙队",
@@ -2065,6 +2201,14 @@
       "onboard_time": 1720694298,
       "rank": 35,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 148539,
+      "num": 887382,
+      "word": "普通人遇到大暴雨到底该怎么办",
+      "onboard_time": 1720703178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148266,
@@ -2275,28 +2419,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135604,
-      "num": 135604,
-      "word": "多艘中国军舰现身阿拉斯加附近",
-      "onboard_time": 1720704498,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135168,
       "num": 147544,
       "word": "相柳 心软的神",
       "onboard_time": 1720613898,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133649,
-      "num": 396235,
-      "word": "萝卜快跑订单迎爆发增长",
-      "onboard_time": 1720702819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132910,
@@ -2345,6 +2473,14 @@
       "onboard_time": 1720686139,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129276,
+      "num": 129276,
+      "word": "看到邓为的鞋散光加重了",
+      "onboard_time": 1720707379,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129248,
@@ -2417,14 +2553,6 @@
       "onboard_time": 1720638731,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122658,
-      "num": 673229,
-      "word": "普通人遇到大暴雨到底该怎么办",
-      "onboard_time": 1720703178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122487,
@@ -2979,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56290,
+      "num": 426368,
+      "word": "4年前的考古圈团宠要入职敦煌了",
+      "onboard_time": 1720706900,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53921,
       "num": 435979,
       "word": "男子连续5年7点带小区孩子们晨跑",
@@ -3001,6 +3137,14 @@
       "onboard_time": 1720639691,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49106,
+      "num": 299962,
+      "word": "iQOO这回Buff叠满了",
+      "onboard_time": 1720702339,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 48362,
@@ -3073,14 +3217,6 @@
       "onboard_time": 1720641131,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40636,
-      "num": 299962,
-      "word": "iQOO这回Buff叠满了",
-      "onboard_time": 1720702339,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 39009,
