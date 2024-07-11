@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720707507437,
+  "endTime": 1720708519725,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -57,6 +57,14 @@
       "onboard_time": 1720668679,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1521520,
+      "num": 1521520,
+      "word": "苏翊鸣 朱易",
+      "onboard_time": 1720706539,
+      "rank": 1,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1505500,
@@ -147,8 +155,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1122330,
+      "num": 230895,
+      "word": "44岁柳岩自曝患子宫肌瘤",
+      "onboard_time": 1720707141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1102166,
-      "num": 226910,
+      "num": 403814,
       "word": "她的骨灰装进了周恩来用过的骨灰盒",
       "onboard_time": 1720704439,
       "rank": 20,
@@ -185,14 +201,6 @@
       "onboard_time": 1720697417,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 931576,
-      "num": 931576,
-      "word": "苏翊鸣 朱易",
-      "onboard_time": 1720706539,
-      "rank": 1,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 882414,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542445,
+      "num": 542445,
+      "word": "萝卜快跑订单迎爆发增长",
+      "onboard_time": 1720702819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536514,
       "num": 536514,
       "word": "王牌对王牌",
@@ -577,14 +593,6 @@
       "onboard_time": 1720673840,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513429,
-      "num": 513429,
-      "word": "萝卜快跑订单迎爆发增长",
-      "onboard_time": 1720702819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501029,
@@ -659,12 +667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 462720,
-      "num": 230895,
-      "word": "44岁柳岩自曝患子宫肌瘤",
-      "onboard_time": 1720707141,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 464465,
+      "num": 401024,
+      "word": "只有师范生才懂她讲的有多好",
+      "onboard_time": 1720705819,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 461665,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448325,
+      "num": 448325,
+      "word": "涂山璟开大秒杀涂山篌",
+      "onboard_time": 1720704258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448120,
       "num": 448120,
       "word": "中国女游客海上漂36小时后获救",
@@ -721,14 +737,6 @@
       "onboard_time": 1720680978,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424790,
-      "num": 424790,
-      "word": "涂山璟开大秒杀涂山篌",
-      "onboard_time": 1720704258,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 422276,
@@ -891,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342095,
+      "num": 342095,
+      "word": "Bin踢椅子",
+      "onboard_time": 1720707739,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339895,
       "num": 339895,
       "word": "A股上涨个股近5000只",
@@ -921,6 +937,14 @@
       "onboard_time": 1720687398,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336069,
+      "num": 336069,
+      "word": "长相思2",
+      "onboard_time": 1720705520,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 329776,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1720669519,
       "rank": 17,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 312510,
-      "num": 201524,
-      "word": "只有师范生才懂她讲的有多好",
-      "onboard_time": 1720705819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 311278,
@@ -1155,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271782,
-      "num": 227251,
-      "word": "长相思2",
-      "onboard_time": 1720705520,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265816,
       "num": 265816,
       "word": "这个家没了上官雅得散",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1720608678,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256432,
+      "num": 256432,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255690,
@@ -1251,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242909,
+      "num": 189139,
+      "word": "金珉奎美貌",
+      "onboard_time": 1720707260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242815,
       "num": 242815,
       "word": "胡连馨连体裤",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1720684037,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238908,
+      "num": 181958,
+      "word": "我怎么会在那种情况下要了你",
+      "onboard_time": 1720707020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 237098,
@@ -1307,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229329,
+      "num": 208214,
+      "word": "谁给杨紫递个恶女本",
+      "onboard_time": 1720704918,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229084,
       "num": 229084,
       "word": "杨紫玩游戏举报邓为",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1720674918,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226598,
+      "num": 178709,
+      "word": "看到邓为的鞋散光加重了",
+      "onboard_time": 1720707379,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225635,
@@ -1403,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218635,
+      "num": 193791,
+      "word": "小夭身世",
+      "onboard_time": 1720706839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218580,
       "num": 218580,
       "word": "宝马7月将会开始降量保价",
@@ -1427,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216731,
+      "num": 214394,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215349,
       "num": 215349,
       "word": "马嘉祺官宣七周年",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1720683497,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214394,
-      "num": 214394,
-      "word": "这居然是2024年的李东海",
-      "onboard_time": 1720701737,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 213235,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1720700778,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 208214,
-      "num": 208214,
-      "word": "谁给杨紫递个恶女本",
-      "onboard_time": 1720704918,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 207640,
@@ -1619,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202135,
-      "num": 237299,
-      "word": "多艘中国军舰现身阿拉斯加附近",
-      "onboard_time": 1720704498,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199095,
       "num": 199095,
       "word": "黄明昊簪花图",
@@ -1691,20 +1731,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194830,
+      "num": 194830,
+      "word": "BLG",
+      "onboard_time": 1720708101,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194439,
       "num": 194439,
       "word": "菲律宾附近海域7.0级地震",
       "onboard_time": 1720667537,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193791,
-      "num": 193791,
-      "word": "小夭身世",
-      "onboard_time": 1720706839,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 192622,
@@ -1769,14 +1809,6 @@
       "onboard_time": 1720664836,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189139,
-      "num": 189139,
-      "word": "金珉奎美貌",
-      "onboard_time": 1720707260,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 187335,
@@ -1907,6 +1939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172982,
+      "num": 172982,
+      "word": "丹东市监局副局长回应被指集体脱岗",
+      "onboard_time": 1720707680,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172802,
       "num": 172802,
       "word": "姚译添三部综艺杀青发文",
@@ -1987,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166284,
+      "num": 887382,
+      "word": "普通人遇到大暴雨到底该怎么办",
+      "onboard_time": 1720703178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166038,
       "num": 166038,
       "word": "谭松韵收视女王",
@@ -2057,14 +2105,6 @@
       "onboard_time": 1720663816,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162887,
-      "num": 162887,
-      "word": "我怎么会在那种情况下要了你",
-      "onboard_time": 1720707020,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 162254,
@@ -2155,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151741,
+      "num": 151741,
+      "word": "TTG连续两大场被零封",
+      "onboard_time": 1720707439,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151439,
       "num": 151439,
       "word": "歌手第十期演唱预测",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1720700419,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 150046,
-      "num": 150046,
-      "word": "TTG连续两大场被零封",
-      "onboard_time": 1720707439,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 148924,
@@ -2201,14 +2241,6 @@
       "onboard_time": 1720694298,
       "rank": 35,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 148539,
-      "num": 887382,
-      "word": "普通人遇到大暴雨到底该怎么办",
-      "onboard_time": 1720703178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148266,
@@ -2475,14 +2507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129276,
-      "num": 129276,
-      "word": "看到邓为的鞋散光加重了",
-      "onboard_time": 1720707379,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129248,
       "num": 129248,
       "word": "华晨宇演唱会密密麻麻的灯",
@@ -2705,6 +2729,14 @@
       "onboard_time": 1720619899,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "好利来 光夜",
+      "onboard_time": 1720708461,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 111179,

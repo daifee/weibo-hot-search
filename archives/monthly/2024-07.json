@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720707507437,
+  "endTime": 1720708519725,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -649,6 +649,14 @@
       "onboard_time": 1720523178,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1521520,
+      "num": 1521520,
+      "word": "苏翊鸣 朱易",
+      "onboard_time": 1720706539,
+      "rank": 1,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1518291,
@@ -1379,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1122330,
+      "num": 230895,
+      "word": "44岁柳岩自曝患子宫肌瘤",
+      "onboard_time": 1720707141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1122323,
       "num": 1001928,
       "word": "女子过度防晒得软骨病",
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 1102166,
-      "num": 226910,
+      "num": 403814,
       "word": "她的骨灰装进了周恩来用过的骨灰盒",
       "onboard_time": 1720704439,
       "rank": 20,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1720345998,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931576,
-      "num": 931576,
-      "word": "苏翊鸣 朱易",
-      "onboard_time": 1720706539,
-      "rank": 1,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 928854,
@@ -5363,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542445,
+      "num": 542445,
+      "word": "萝卜快跑订单迎爆发增长",
+      "onboard_time": 1720702819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541518,
       "num": 281007,
       "word": "长期不运动身体会发生什么",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1719814819,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 513429,
-      "num": 513429,
-      "word": "萝卜快跑订单迎爆发增长",
-      "onboard_time": 1720702819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513332,
@@ -6659,6 +6667,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 464465,
+      "num": 401024,
+      "word": "只有师范生才懂她讲的有多好",
+      "onboard_time": 1720705819,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 463905,
       "num": 394555,
       "word": "白敬亭P了两个白敬亭",
@@ -6697,14 +6713,6 @@
       "onboard_time": 1720130651,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 462720,
-      "num": 230895,
-      "word": "44岁柳岩自曝患子宫肌瘤",
-      "onboard_time": 1720707141,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 462631,
@@ -7089,6 +7097,14 @@
       "onboard_time": 1720149077,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448325,
+      "num": 448325,
+      "word": "涂山璟开大秒杀涂山篌",
+      "onboard_time": 1720704258,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 448120,
@@ -7633,14 +7649,6 @@
       "onboard_time": 1719755060,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 424790,
-      "num": 424790,
-      "word": "涂山璟开大秒杀涂山篌",
-      "onboard_time": 1720704258,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 424707,
@@ -9555,6 +9563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342095,
+      "num": 342095,
+      "word": "Bin踢椅子",
+      "onboard_time": 1720707739,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 341787,
       "num": 341787,
       "word": "BLG Wei",
@@ -10369,14 +10385,6 @@
       "onboard_time": 1720175600,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312510,
-      "num": 201524,
-      "word": "只有师范生才懂她讲的有多好",
-      "onboard_time": 1720705819,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 312259,
@@ -11955,6 +11963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256432,
+      "num": 256432,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 255690,
       "num": 238761,
       "word": "宝马奔驰降价超10万也卷不过国产",
@@ -12435,6 +12451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242909,
+      "num": 189139,
+      "word": "金珉奎美貌",
+      "onboard_time": 1720707260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242860,
       "num": 180391,
       "word": "北京昌平发了王俊凯",
@@ -12609,6 +12633,14 @@
       "onboard_time": 1719978920,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238908,
+      "num": 181958,
+      "word": "我怎么会在那种情况下要了你",
+      "onboard_time": 1720707020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 238774,
@@ -13035,6 +13067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229329,
+      "num": 208214,
+      "word": "谁给杨紫递个恶女本",
+      "onboard_time": 1720704918,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229303,
       "num": 229303,
       "word": "叶十七涂山璟上线",
@@ -13169,6 +13209,14 @@
       "onboard_time": 1719888978,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226598,
+      "num": 178709,
+      "word": "看到邓为的鞋散光加重了",
+      "onboard_time": 1720707379,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226578,
@@ -13515,6 +13563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 218635,
+      "num": 193791,
+      "word": "小夭身世",
+      "onboard_time": 1720706839,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218580,
       "num": 218580,
       "word": "宝马7月将会开始降量保价",
@@ -13649,6 +13705,14 @@
       "onboard_time": 1720101560,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216731,
+      "num": 214394,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 216677,
@@ -13833,14 +13897,6 @@
       "onboard_time": 1720683497,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214394,
-      "num": 214394,
-      "word": "这居然是2024年的李东海",
-      "onboard_time": 1720701737,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 214097,
@@ -14273,14 +14329,6 @@
       "onboard_time": 1720167258,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208214,
-      "num": 208214,
-      "word": "谁给杨紫递个恶女本",
-      "onboard_time": 1720704918,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 208060,
@@ -14969,14 +15017,6 @@
       "onboard_time": 1720076718,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202135,
-      "num": 237299,
-      "word": "多艘中国军舰现身阿拉斯加附近",
-      "onboard_time": 1720704498,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202111,
@@ -15899,14 +15939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193791,
-      "num": 193791,
-      "word": "小夭身世",
-      "onboard_time": 1720706839,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193790,
       "num": 193790,
       "word": "一号种子孙颖莎",
@@ -16529,14 +16561,6 @@
       "onboard_time": 1720408580,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189139,
-      "num": 189139,
-      "word": "金珉奎美貌",
-      "onboard_time": 1720707260,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 188835,
@@ -18147,6 +18171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172982,
+      "num": 172982,
+      "word": "丹东市监局副局长回应被指集体脱岗",
+      "onboard_time": 1720707680,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "TF家族陆续到达澳门",
@@ -18819,6 +18851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166284,
+      "num": 887382,
+      "word": "普通人遇到大暴雨到底该怎么办",
+      "onboard_time": 1720703178,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166242,
       "num": 166242,
       "word": "山东龙卷风商户称像世界末日",
@@ -19200,14 +19240,6 @@
       "word": "牛麦",
       "onboard_time": 1720099879,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162887,
-      "num": 162887,
-      "word": "我怎么会在那种情况下要了你",
-      "onboard_time": 1720707020,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -20451,6 +20483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151741,
+      "num": 151741,
+      "word": "TTG连续两大场被零封",
+      "onboard_time": 1720707439,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151739,
       "num": 151739,
       "word": "汇福粮油董事长身家72亿",
@@ -20667,14 +20707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150046,
-      "num": 150046,
-      "word": "TTG连续两大场被零封",
-      "onboard_time": 1720707439,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150022,
       "num": 150022,
       "word": "Zdz找工作",
@@ -20785,14 +20817,6 @@
       "onboard_time": 1720694298,
       "rank": 35,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 148539,
-      "num": 887382,
-      "word": "普通人遇到大暴雨到底该怎么办",
-      "onboard_time": 1720703178,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148502,
@@ -23555,14 +23579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129276,
-      "num": 129276,
-      "word": "看到邓为的鞋散光加重了",
-      "onboard_time": 1720707379,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129248,
       "num": 129248,
       "word": "华晨宇演唱会密密麻麻的灯",
@@ -25809,6 +25825,14 @@
       "onboard_time": 1720598358,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "好利来 光夜",
+      "onboard_time": 1720708461,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 111697,
