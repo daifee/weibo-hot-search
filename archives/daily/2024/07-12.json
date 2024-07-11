@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720740103077,
+  "endTime": 1720740908015,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 592519,
-      "num": 374393,
+      "num": 500779,
       "word": "很多癌症都是因为四大不规律",
       "onboard_time": 1720709960,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 574000,
+      "num": 574000,
+      "word": "官方回应萝卜快跑被指低价扰乱市场",
+      "onboard_time": 1720735631,
+      "rank": 49,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 573996,
@@ -49,14 +57,6 @@
       "onboard_time": 1720705159,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378581,
-      "num": 378581,
-      "word": "官方回应萝卜快跑被指低价扰乱市场",
-      "onboard_time": 1720735631,
-      "rank": 49,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 365260,
@@ -123,8 +123,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 291027,
-      "num": 291027,
+      "raw_hot": 295855,
+      "num": 295855,
       "word": "他们卖不出西瓜我们买不起西瓜",
       "onboard_time": 1720701258,
       "rank": 12,
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208250,
+      "num": 156284,
+      "word": "蔡少芬除了剪秋一个宫女不认识",
+      "onboard_time": 1720739896,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "萝卜快跑订单迎爆发增长",
@@ -203,12 +211,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156613,
-      "num": 80823,
+      "raw_hot": 169629,
+      "num": 103770,
       "word": "生完宝宝肚子上的黑线会消失吗",
       "onboard_time": 1720728191,
       "rank": 42,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 152764,
+      "num": 100790,
+      "word": "邪恶摇粒绒罪名彻底坐实了",
+      "onboard_time": 1720739595,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146306,
+      "num": 146306,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140167,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131492,
-      "num": 131492,
-      "word": "多艘中国军舰现身阿拉斯加附近",
-      "onboard_time": 1720704498,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121631,
       "num": 142705,
       "word": "媒体评萝卜快跑抢网约车司机饭碗",
@@ -251,12 +267,12 @@
       "category": "汽车,互联网"
     },
     {
-      "raw_hot": 112565,
-      "num": 80431,
-      "word": "邪恶摇粒绒罪名彻底坐实了",
-      "onboard_time": 1720739595,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 113151,
+      "num": 113151,
+      "word": "BW 排队",
+      "onboard_time": 1720740616,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 112481,
@@ -289,6 +305,14 @@
       "onboard_time": 1720696039,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104366,
+      "num": 104366,
+      "word": "长期吃自榨油可能危害身体健康",
+      "onboard_time": 1720739957,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103658,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 91632,
-      "num": 466768,
+      "num": 531562,
       "word": "普通人遇到大暴雨到底该怎么办",
       "onboard_time": 1720703178,
       "rank": 2,
@@ -369,6 +393,14 @@
       "onboard_time": 1720707680,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91328,
+      "num": 91328,
+      "word": "麻将凉席怎么消失了",
+      "onboard_time": 1720739715,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 89505,
@@ -419,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74926,
+      "num": 74926,
+      "word": "水瓶座天生有种祛魅的能力",
+      "onboard_time": 1720740195,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72984,
       "num": 72984,
       "word": "张晚意电梯神图",
@@ -427,20 +467,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68854,
-      "num": 68854,
+      "raw_hot": 70671,
+      "num": 70671,
+      "word": "退役警犬一路上不停打量新主人",
+      "onboard_time": 1720739595,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 70601,
+      "num": 70601,
       "word": "男子伤妻女外孙后逃匿后自杀身亡",
       "onboard_time": 1720726931,
       "rank": 32,
       "category": "社会负面"
     },
     {
-      "raw_hot": 68423,
-      "num": 68423,
+      "raw_hot": 69782,
+      "num": 75435,
+      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
+      "onboard_time": 1720735692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69663,
+      "num": 69663,
       "word": "北大发文祝福要去敦煌的考古女孩",
       "onboard_time": 1720722431,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69275,
+      "num": 69275,
+      "word": "周杰伦cos藤原拓海",
+      "onboard_time": 1720720153,
+      "rank": 32,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 67797,
@@ -459,12 +523,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 62118,
-      "num": 62118,
-      "word": "蔡少芬除了剪秋一个宫女不认识",
-      "onboard_time": 1720739896,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 61753,
+      "num": 61753,
+      "word": "无效恋爱一年了",
+      "onboard_time": 1720740795,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61631,
+      "num": 61631,
+      "word": "刘德华2580元门票被炒到68880元",
+      "onboard_time": 1720723751,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 59539,
@@ -473,46 +545,6 @@
       "onboard_time": 1720698260,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58789,
-      "num": 75435,
-      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
-      "onboard_time": 1720735692,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57959,
-      "num": 57959,
-      "word": "退役警犬一路上不停打量新主人",
-      "onboard_time": 1720739595,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 56888,
-      "num": 56888,
-      "word": "周杰伦cos藤原拓海",
-      "onboard_time": 1720720153,
-      "rank": 32,
-      "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 53608,
-      "num": 53608,
-      "word": "刘德华2580元门票被炒到68880元",
-      "onboard_time": 1720723751,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 53588,
-      "num": 53588,
-      "word": "长期吃自榨油可能危害身体健康",
-      "onboard_time": 1720739957,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 52530,
@@ -539,12 +571,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48259,
-      "num": 48259,
-      "word": "麻将凉席怎么消失了",
-      "onboard_time": 1720739715,
+      "raw_hot": 50243,
+      "num": 50243,
+      "word": "谢莉杜瓦尔去世",
+      "onboard_time": 1720740735,
       "rank": 45,
-      "category": "科学科普"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49744,
+      "num": 49744,
+      "word": "陈芋汐全红婵背着玩偶乐园去训练",
+      "onboard_time": 1720740795,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 47664,
@@ -555,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43502,
-      "num": 43502,
+      "raw_hot": 46262,
+      "num": 46262,
       "word": "六年级女生跳出4米93",
       "onboard_time": 1720740075,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 45325,
+      "num": 45325,
+      "word": "你比星光美丽",
+      "onboard_time": 1720740857,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 42813,
@@ -579,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39849,
+      "num": 158568,
+      "word": "爸爸带11个月大宝宝打针演习",
+      "onboard_time": 1720739834,
+      "rank": 18,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 39816,
       "num": 55014,
       "word": "BOSS直聘崩了",
       "onboard_time": 1720699279,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 36691,
-      "num": 82748,
-      "word": "爸爸带11个月大宝宝打针演习",
-      "onboard_time": 1720739834,
-      "rank": 18,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 29738,

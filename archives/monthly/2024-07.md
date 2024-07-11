@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 07:21:43
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 07:35:08
 </p>
 </blockquote>
 <p>
@@ -3645,6 +3645,12 @@ B太说被300主播针对（热度：578348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BB%B7%E6%89%B0%E4%B9%B1%E5%B8%82%E5%9C%BA%23" target="weibo">
+官方回应萝卜快跑被指低价扰乱市场（热度：574000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E5%B8%82%E6%B0%91%E6%89%9312345%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E9%AB%98%E8%80%83%23" target="weibo">
 包头市民打12345要求重新组织高考（热度：572957）
 </a>
@@ -6005,12 +6011,6 @@ B太 上海打车去新疆（热度：424969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%98%E6%9D%80%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF%23" target="weibo">
 默杀票房破3亿（热度：410167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A1%E6%9F%93%E6%B2%B9%E5%90%83%E4%BA%86%E5%AF%B9%E8%BA%AB%E4%BD%93%E4%BC%A4%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-污染油吃了对身体伤害有多大（热度：409544）
 </a>
 </li>
 
