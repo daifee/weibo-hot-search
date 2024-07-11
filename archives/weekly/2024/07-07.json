@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720712090682,
+  "endTime": 1720715043676,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1202753,
-      "num": 239396,
+      "num": 905980,
       "word": "44岁柳岩自曝患子宫肌瘤",
       "onboard_time": 1720707141,
       "rank": 21,
@@ -2019,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592519,
+      "num": 236878,
+      "word": "很多癌症都是因为四大不规律",
+      "onboard_time": 1720709960,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 592440,
       "num": 592440,
       "word": "日本2男子将50岁同事放洗衣机",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1720480936,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570157,
-      "num": 236878,
-      "word": "很多癌症都是因为四大不规律",
-      "onboard_time": 1720709960,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 567763,
@@ -4027,6 +4027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 362961,
+      "num": 316122,
+      "word": "杨紫今年三部破万剧",
+      "onboard_time": 1720712478,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 361997,
       "num": 361997,
       "word": "蔡文静的假发全靠脸来撑",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1720617678,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353215,
+      "num": 198987,
+      "word": "乳腺结节完全是被气出来的吗",
+      "onboard_time": 1720710560,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 353149,
@@ -4761,14 +4777,6 @@
       "onboard_time": 1720524798,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 309181,
-      "num": 198987,
-      "word": "乳腺结节完全是被气出来的吗",
-      "onboard_time": 1720710560,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 309062,
@@ -5809,6 +5817,14 @@
       "onboard_time": 1720312876,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237353,
+      "num": 103504,
+      "word": "租客让朋友来深圳住几天被罚500元",
+      "onboard_time": 1720712238,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237194,
@@ -8073,6 +8089,14 @@
       "onboard_time": 1720502058,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177910,
+      "num": 134016,
+      "word": "代露娃长相思见面会好漂亮",
+      "onboard_time": 1720713617,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 177890,
@@ -12043,6 +12067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108434,
+      "num": 108434,
+      "word": "长期早醒或预示了4个疾病",
+      "onboard_time": 1720714217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108023,
       "num": 108023,
       "word": "张本智和早田希娜WTT混双夺冠",
@@ -12667,6 +12699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93573,
+      "num": 93573,
+      "word": "文旅版相柳9颗头比别人能吃一些",
+      "onboard_time": 1720712718,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93460,
       "num": 335873,
       "word": "他们刚下考场又上防汛战场",
@@ -12761,6 +12801,14 @@
       "onboard_time": 1720709120,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88554,
+      "num": 88554,
+      "word": "郑恺苗苗两小无猜",
+      "onboard_time": 1720713857,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 88426,
@@ -12939,6 +12987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80545,
+      "num": 83943,
+      "word": "张颂文谈灿烂的花园收官",
+      "onboard_time": 1720713077,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80282,
       "num": 80282,
       "word": "荷兰晋级欧洲杯4强",
@@ -12993,6 +13049,14 @@
       "onboard_time": 1720556231,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76346,
+      "num": 83927,
+      "word": "长相思2最萌的一段",
+      "onboard_time": 1720714996,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 76345,
@@ -13105,6 +13169,14 @@
       "onboard_time": 1720371015,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69605,
+      "num": 83941,
+      "word": "黄金白银直线暴涨",
+      "onboard_time": 1720714756,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 69011,
@@ -13627,6 +13699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 52530,
+      "num": 108152,
+      "word": "钱塘江潮汐树上演犹抱琵琶半遮面",
+      "onboard_time": 1720712478,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 52475,
       "num": 467424,
       "word": "猕猴桃扎嘴可能是过敏了",
@@ -13649,6 +13729,14 @@
       "onboard_time": 1720473551,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 51747,
+      "num": 306603,
+      "word": "中科院博士回应研究苹果长出蘑菇",
+      "onboard_time": 1720714338,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51563,
