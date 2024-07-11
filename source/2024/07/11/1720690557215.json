@@ -1,0 +1,410 @@
+{
+  "runTime": 1720690557215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296979,
+        "num": 1296979,
+        "word": "荣梓杉 北京电影学院",
+        "onboard_time": 1720689078,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585034,
+        "num": 585034,
+        "word": "吃米线爱放麻油的注意了",
+        "onboard_time": 1720687338,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 567676,
+        "word": "暴雨天要牢记这10个安全提醒",
+        "onboard_time": 1720686197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655854,
+        "num": 567655,
+        "word": "大胖媳妇失散36年的爹找到了",
+        "onboard_time": 1720683678,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565669,
+        "num": 565669,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423830,
+        "num": 423830,
+        "word": "半夜1点弟弟到姐姐屋蹭空调",
+        "onboard_time": 1720682657,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 643298,
+        "num": 409783,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 373740,
+        "num": 373740,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1282273,
+        "num": 368411,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309068,
+        "num": 309068,
+        "word": "萝卜快跑回应车内有摄像头监控",
+        "onboard_time": 1720684878,
+        "rank": 9,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 882631,
+        "num": 308822,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143747,
+        "num": 308416,
+        "word": "孙颖莎说为国而战是最大使命",
+        "onboard_time": 1720683497,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308282,
+        "num": 308282,
+        "word": "歌手歌单",
+        "onboard_time": 1720684037,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303325,
+        "num": 303325,
+        "word": "张晚意清唱了万物不如你",
+        "onboard_time": 1720681758,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294760,
+        "num": 294760,
+        "word": "杨紫长相思2见面会穿高定",
+        "onboard_time": 1720679299,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294453,
+        "num": 294453,
+        "word": "自动驾驶来了你是怕还是盼",
+        "onboard_time": 1720685418,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274508,
+        "num": 274508,
+        "word": "唐朝诡事录2宝想要宝得到",
+        "onboard_time": 1720688897,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234574,
+        "num": 234574,
+        "word": "深圳湾出现地球唯一蓝血生物",
+        "onboard_time": 1720675638,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214298,
+        "num": 214298,
+        "word": "苹果长出蘑菇女子赠送用于研究",
+        "onboard_time": 1720677317,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214136,
+        "num": 214136,
+        "word": "男子给差评烧烤店说没来消费",
+        "onboard_time": 1720687098,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545255,
+        "num": 213819,
+        "word": "郑恺发文告别奔跑吧",
+        "onboard_time": 1720688118,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329460,
+        "num": 213452,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272062,
+        "num": 212702,
+        "word": "导演快给王星越沈月递本子",
+        "onboard_time": 1720687338,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270470,
+        "num": 212491,
+        "word": "在本县体制内上班是什么感觉",
+        "onboard_time": 1720687398,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256158,
+        "num": 211605,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247029,
+        "num": 211255,
+        "word": "实习一个月净收入14元",
+        "onboard_time": 1720689858,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221040,
+        "num": 210637,
+        "word": "邓为狐狸胸针",
+        "onboard_time": 1720680198,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210418,
+        "num": 210418,
+        "word": "1公里1块钱的无人出租车你敢坐吗",
+        "onboard_time": 1720688478,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617386,
+        "num": 203593,
+        "word": "东营",
+        "onboard_time": 1720684999,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42430,
+        "num": 193073,
+        "word": "美国男子杀害女友后坐轮椅抛尸",
+        "onboard_time": 1720690218,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 186536,
+        "word": "李沁真空外套",
+        "onboard_time": 1720687997,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183025,
+        "num": 183025,
+        "word": "Uzi直播人气严重下滑",
+        "onboard_time": 1720685778,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181160,
+        "num": 181160,
+        "word": "iPhone16至19系列相机路线图",
+        "onboard_time": 1720681938,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160233,
+        "num": 160233,
+        "word": "重庆垫江强降雨已致6死",
+        "onboard_time": 1720679899,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155060,
+        "num": 155060,
+        "word": "凤凰传奇 到底是谁抢到了",
+        "onboard_time": 1720672519,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149182,
+        "num": 149182,
+        "word": "沈月表白恋综嘉宾",
+        "onboard_time": 1720687698,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144457,
+        "num": 144457,
+        "word": "印度恒河水有多脏",
+        "onboard_time": 1720688178,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140055,
+        "num": 140055,
+        "word": "少年歌行爸爸篇",
+        "onboard_time": 1720686859,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "长相思见面会",
+        "onboard_time": 1720676058,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136584,
+        "num": 136584,
+        "word": "步步惊心狐妖剧组在十天团建了",
+        "onboard_time": 1720687819,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135357,
+        "num": 135357,
+        "word": "入职一个月公司又在招聘我的岗位",
+        "onboard_time": 1720684037,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133120,
+        "num": 133120,
+        "word": "A股上涨个股近5000只",
+        "onboard_time": 1720682117,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132336,
+        "num": 132336,
+        "word": "林俊杰演唱会可能看一场少一场",
+        "onboard_time": 1720686018,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124678,
+        "num": 124678,
+        "word": "台进口日本食用油检出致癌物",
+        "onboard_time": 1720690037,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120266,
+        "num": 120266,
+        "word": "李彦宏曾称打无人车便宜一半",
+        "onboard_time": 1720688958,
+        "rank": 44,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 118082,
+        "num": 118082,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1720690519,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "为什么人人都哭穷却人人都在旅游",
+        "onboard_time": 1720690458,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108971,
+        "num": 108971,
+        "word": "杨紫说长相思2哭得最多",
+        "onboard_time": 1720689198,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107832,
+        "num": 107832,
+        "word": "相亲相到理想型也挺无助的",
+        "onboard_time": 1720690398,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103572,
+        "num": 103572,
+        "word": "清华大学师生买迪士尼门票享八折",
+        "onboard_time": 1720681039,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
