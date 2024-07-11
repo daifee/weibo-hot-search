@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720675178488,
+  "endTime": 1720676258604,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -1291,6 +1291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 719333,
+      "num": 719333,
+      "word": "王一博申请限消晗晗qvq",
+      "onboard_time": 1720672339,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 718926,
+      "num": 718926,
+      "word": "3人1次要买50万黄金店员拒绝并报警",
+      "onboard_time": 1720672281,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715892,
       "num": 715892,
       "word": "中储粮油厂门口油罐车司机称没活干",
@@ -1347,14 +1363,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 704320,
-      "num": 704320,
-      "word": "王一博申请限消晗晗qvq",
-      "onboard_time": 1720672339,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 696488,
       "num": 661058,
       "word": "谁家大婚名场面一下来三个啊",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1720575976,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692716,
+      "num": 692716,
+      "word": "檀健次 大大方方",
+      "onboard_time": 1720672101,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 690357,
@@ -1411,16 +1427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 676015,
-      "num": 599807,
-      "word": "檀健次 大大方方",
-      "onboard_time": 1720672101,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 675979,
-      "num": 590841,
+      "num": 610637,
       "word": "凤凰传奇 到底是谁抢到了",
       "onboard_time": 1720672519,
       "rank": 35,
@@ -1744,14 +1752,6 @@
       "word": "女子睡凉席双腿被螨虫咬满红斑",
       "onboard_time": 1720427300,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601305,
-      "num": 601305,
-      "word": "3人1次要买50万黄金店员拒绝并报警",
-      "onboard_time": 1720672281,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2105,6 +2105,14 @@
       "onboard_time": 1720431980,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535307,
+      "num": 414332,
+      "word": "张书豪为欧阳妮妮戒烟",
+      "onboard_time": 1720673840,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 529131,
@@ -3043,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414332,
-      "num": 414332,
-      "word": "张书豪为欧阳妮妮戒烟",
-      "onboard_time": 1720673840,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 413532,
       "num": 524397,
       "word": "人民日报专访马龙",
@@ -3201,6 +3201,14 @@
       "onboard_time": 1720590078,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 397797,
+      "num": 397797,
+      "word": "中国警方向美遣返1名美籍红通逃犯",
+      "onboard_time": 1720672701,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 396679,
@@ -3577,14 +3585,6 @@
       "onboard_time": 1720666398,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357698,
-      "num": 357698,
-      "word": "中国警方向美遣返1名美籍红通逃犯",
-      "onboard_time": 1720672701,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 354716,
@@ -4107,6 +4107,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 315911,
+      "num": 315911,
+      "word": "林俊杰曾考虑过退出娱乐圈",
+      "onboard_time": 1720675277,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315282,
       "num": 120277,
       "word": "天水麻辣烫仍然在批量倒闭",
@@ -4307,6 +4315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299119,
+      "num": 299119,
+      "word": "阚清子说梨型身材没事",
+      "onboard_time": 1720675459,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299078,
       "num": 299078,
       "word": "秦彻 密约",
@@ -4491,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281094,
+      "num": 198702,
+      "word": "林靖恩肚子饿了偷外卖吃",
+      "onboard_time": 1720675758,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280706,
       "num": 250489,
       "word": "毕业寄行李把蟑螂一起寄回家了",
@@ -4553,6 +4577,14 @@
       "onboard_time": 1720426220,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275034,
+      "num": 275034,
+      "word": "深圳湾出现地球唯一蓝血生物",
+      "onboard_time": 1720675638,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274586,
@@ -4771,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255690,
+      "num": 238761,
+      "word": "宝马奔驰降价超10万也卷不过国产",
+      "onboard_time": 1720671260,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 255525,
       "num": 255525,
       "word": "iPhone16系列或将支持40W快充",
@@ -4881,6 +4921,14 @@
       "onboard_time": 1720585760,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 247680,
+      "num": 247680,
+      "word": "萝卜快跑无人车售价仅20.46万元",
+      "onboard_time": 1720673182,
+      "rank": 26,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 247009,
@@ -5067,14 +5115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 238761,
-      "num": 238761,
-      "word": "宝马奔驰降价超10万也卷不过国产",
-      "onboard_time": 1720671260,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "华为Mate60系列销量已过千万",
@@ -5097,14 +5137,6 @@
       "onboard_time": 1720411100,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235509,
-      "num": 235509,
-      "word": "萝卜快跑无人车售价仅20.46万元",
-      "onboard_time": 1720673182,
-      "rank": 26,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 235140,
@@ -5241,6 +5273,14 @@
       "onboard_time": 1720516340,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228444,
+      "num": 209828,
+      "word": "王俊凯唱了我们的时光",
+      "onboard_time": 1720674918,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 227971,
@@ -5401,6 +5441,14 @@
       "onboard_time": 1720326318,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217191,
+      "num": 196468,
+      "word": "Red出道",
+      "onboard_time": 1720675218,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 217182,
@@ -5601,14 +5649,6 @@
       "onboard_time": 1720668017,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209828,
-      "num": 209828,
-      "word": "王俊凯唱了我们的时光",
-      "onboard_time": 1720674918,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 209811,
@@ -6121,6 +6161,14 @@
       "onboard_time": 1720394655,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198155,
+      "num": 349809,
+      "word": "武汉退车的出租车司机数量变多",
+      "onboard_time": 1720674021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197881,
@@ -6817,6 +6865,22 @@
       "onboard_time": 1720536019,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182982,
+      "num": 182982,
+      "word": "请务必安排我入职",
+      "onboard_time": 1720675218,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182951,
+      "num": 182951,
+      "word": "长相思见面会",
+      "onboard_time": 1720676058,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 182830,
@@ -7651,6 +7715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165081,
+      "num": 180587,
+      "word": "高铁上偶遇华山被震撼到了",
+      "onboard_time": 1720672640,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 164816,
       "num": 164816,
       "word": "美洲杯",
@@ -7803,14 +7875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160519,
-      "num": 160519,
-      "word": "高铁上偶遇华山被震撼到了",
-      "onboard_time": 1720672640,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 160375,
       "num": 160375,
       "word": "长歌行上星山西卫视",
@@ -7849,6 +7913,14 @@
       "onboard_time": 1720581857,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159813,
+      "num": 159813,
+      "word": "鞠婧祎 辨识度",
+      "onboard_time": 1720675100,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159772,
@@ -8041,6 +8113,14 @@
       "onboard_time": 1720446740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155845,
+      "num": 155845,
+      "word": "库里12分",
+      "onboard_time": 1720675578,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 155430,
@@ -9027,6 +9107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135834,
+      "num": 135834,
+      "word": "专家建议发给老百姓10万亿消费券",
+      "onboard_time": 1720675277,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135613,
       "num": 135613,
       "word": "世界上持续时间最久的实验",
@@ -9961,14 +10049,6 @@
       "onboard_time": 1720520897,
       "rank": 45,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 117575,
-      "num": 117575,
-      "word": "鞠婧祎 辨识度",
-      "onboard_time": 1720675100,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117159,
@@ -11291,6 +11371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83600,
+      "num": 574283,
+      "word": "乘坐无人驾驶出租车是什么样的体验",
+      "onboard_time": 1720674021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83448,
       "num": 83448,
       "word": "落后的英格兰惹不起",
@@ -11312,14 +11400,6 @@
       "word": "甘肃沙漠种树人被自己的成就震撼了",
       "onboard_time": 1720619300,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82846,
-      "num": 349809,
-      "word": "武汉退车的出租车司机数量变多",
-      "onboard_time": 1720674021,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -12240,14 +12320,6 @@
       "word": "上合组织正式成员国增加到10个",
       "onboard_time": 1720341798,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44469,
-      "num": 574283,
-      "word": "乘坐无人驾驶出租车是什么样的体验",
-      "onboard_time": 1720674021,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -13354,6 +13426,9 @@
     },
     {
       "word": "#习近平同几内亚比绍总统会谈#"
+    },
+    {
+      "word": "#一组学习笔记了解中国式现代化#"
     }
   ]
 }

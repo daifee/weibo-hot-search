@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720675178488,
+  "endTime": 1720676258604,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -139,12 +139,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 704320,
-      "num": 704320,
+      "raw_hot": 719333,
+      "num": 719333,
       "word": "王一博申请限消晗晗qvq",
       "onboard_time": 1720672339,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718926,
+      "num": 718926,
+      "word": "3人1次要买50万黄金店员拒绝并报警",
+      "onboard_time": 1720672281,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692881,
@@ -155,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692716,
+      "num": 692716,
+      "word": "檀健次 大大方方",
+      "onboard_time": 1720672101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 681817,
       "num": 658229,
       "word": "蔡徐坤起诉多人侵权",
@@ -163,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 676015,
-      "num": 599807,
-      "word": "檀健次 大大方方",
-      "onboard_time": 1720672101,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 675979,
-      "num": 590841,
+      "num": 610637,
       "word": "凤凰传奇 到底是谁抢到了",
       "onboard_time": 1720672519,
       "rank": 35,
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601305,
-      "num": 601305,
-      "word": "3人1次要买50万黄金店员拒绝并报警",
-      "onboard_time": 1720672281,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572848,
       "num": 254901,
       "word": "睡觉把手举过头顶小心得这种病",
@@ -281,6 +281,14 @@
       "onboard_time": 1720665557,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535307,
+      "num": 414332,
+      "word": "张书豪为欧阳妮妮戒烟",
+      "onboard_time": 1720673840,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 470412,
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414332,
-      "num": 414332,
-      "word": "张书豪为欧阳妮妮戒烟",
-      "onboard_time": 1720673840,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406733,
       "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
@@ -345,6 +345,14 @@
       "onboard_time": 1720662978,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397797,
+      "num": 397797,
+      "word": "中国警方向美遣返1名美籍红通逃犯",
+      "onboard_time": 1720672701,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 382305,
@@ -377,14 +385,6 @@
       "onboard_time": 1720666398,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357698,
-      "num": 357698,
-      "word": "中国警方向美遣返1名美籍红通逃犯",
-      "onboard_time": 1720672701,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 349506,
@@ -475,6 +475,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 315911,
+      "num": 315911,
+      "word": "林俊杰曾考虑过退出娱乐圈",
+      "onboard_time": 1720675277,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311278,
       "num": 311278,
       "word": "陈昊宇陈丽君合作OST",
@@ -489,6 +497,14 @@
       "onboard_time": 1720653795,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299119,
+      "num": 299119,
+      "word": "阚清子说梨型身材没事",
+      "onboard_time": 1720675459,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 299078,
@@ -531,6 +547,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 281094,
+      "num": 198702,
+      "word": "林靖恩肚子饿了偷外卖吃",
+      "onboard_time": 1720675758,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275034,
+      "num": 275034,
+      "word": "深圳湾出现地球唯一蓝血生物",
+      "onboard_time": 1720675638,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265816,
       "num": 265816,
       "word": "这个家没了上官雅得散",
@@ -563,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255690,
+      "num": 238761,
+      "word": "宝马奔驰降价超10万也卷不过国产",
+      "onboard_time": 1720671260,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 254916,
       "num": 254916,
       "word": "乌拉圭0比1哥伦比亚",
       "onboard_time": 1720663577,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247680,
+      "num": 247680,
+      "word": "萝卜快跑无人车售价仅20.46万元",
+      "onboard_time": 1720673182,
+      "rank": 26,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 244459,
@@ -593,22 +641,6 @@
       "onboard_time": 1720623319,
       "rank": 12,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 238761,
-      "num": 238761,
-      "word": "宝马奔驰降价超10万也卷不过国产",
-      "onboard_time": 1720671260,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 235509,
-      "num": 235509,
-      "word": "萝卜快跑无人车售价仅20.46万元",
-      "onboard_time": 1720673182,
-      "rank": 26,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 233469,
@@ -641,6 +673,14 @@
       "onboard_time": 1720606218,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228444,
+      "num": 209828,
+      "word": "王俊凯唱了我们的时光",
+      "onboard_time": 1720674918,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 225116,
@@ -683,6 +723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 217191,
+      "num": 196468,
+      "word": "Red出道",
+      "onboard_time": 1720675218,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215349,
       "num": 215349,
       "word": "马嘉祺官宣七周年",
@@ -713,14 +761,6 @@
       "onboard_time": 1720668017,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209828,
-      "num": 209828,
-      "word": "王俊凯唱了我们的时光",
-      "onboard_time": 1720674918,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 209183,
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198155,
+      "num": 349809,
+      "word": "武汉退车的出租车司机数量变多",
+      "onboard_time": 1720674021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -849,6 +897,22 @@
       "onboard_time": 1720666818,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182982,
+      "num": 182982,
+      "word": "请务必安排我入职",
+      "onboard_time": 1720675218,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182951,
+      "num": 182951,
+      "word": "长相思见面会",
+      "onboard_time": 1720676058,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 180487,
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165081,
+      "num": 180587,
+      "word": "高铁上偶遇华山被震撼到了",
+      "onboard_time": 1720672640,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 163425,
       "num": 163425,
       "word": "研究称手机携带的细菌足以致病",
@@ -939,19 +1011,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160519,
-      "num": 160519,
-      "word": "高铁上偶遇华山被震撼到了",
-      "onboard_time": 1720672640,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 160126,
       "num": 160126,
       "word": "乌拉圭vs哥伦比亚",
       "onboard_time": 1720658838,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159813,
+      "num": 159813,
+      "word": "鞠婧祎 辨识度",
+      "onboard_time": 1720675100,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155845,
+      "num": 155845,
+      "word": "库里12分",
+      "onboard_time": 1720675578,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1057,6 +1137,14 @@
       "onboard_time": 1720612339,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135834,
+      "num": 135834,
+      "word": "专家建议发给老百姓10万亿消费券",
+      "onboard_time": 1720675277,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 135168,
@@ -1193,14 +1281,6 @@
       "onboard_time": 1720654455,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117575,
-      "num": 117575,
-      "word": "鞠婧祎 辨识度",
-      "onboard_time": 1720675100,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116885,
@@ -1443,20 +1523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83600,
+      "num": 574283,
+      "word": "乘坐无人驾驶出租车是什么样的体验",
+      "onboard_time": 1720674021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83448,
       "num": 83448,
       "word": "落后的英格兰惹不起",
       "onboard_time": 1720644250,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82846,
-      "num": 349809,
-      "word": "武汉退车的出租车司机数量变多",
-      "onboard_time": 1720674021,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82629,
@@ -1625,14 +1705,6 @@
       "onboard_time": 1720631176,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44469,
-      "num": 574283,
-      "word": "乘坐无人驾驶出租车是什么样的体验",
-      "onboard_time": 1720674021,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43876,
@@ -1873,6 +1945,9 @@
     },
     {
       "word": "#习近平同几内亚比绍总统会谈#"
+    },
+    {
+      "word": "#一组学习笔记了解中国式现代化#"
     }
   ]
 }
