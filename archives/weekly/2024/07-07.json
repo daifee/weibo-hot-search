@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720693218795,
+  "endTime": 1720694229371,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -979,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 873521,
+      "num": 873521,
+      "word": "禁止蟑螂可爱化",
+      "onboard_time": 1720690519,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 871796,
       "num": 871796,
       "word": "大胖媳妇失散36年的爹找到了",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1720684037,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 806864,
+      "num": 211255,
+      "word": "实习一个月净收入14元",
+      "onboard_time": 1720689858,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 801426,
@@ -1297,22 +1313,6 @@
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 746157,
-      "num": 746157,
-      "word": "禁止蟑螂可爱化",
-      "onboard_time": 1720690519,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 745854,
-      "num": 211255,
-      "word": "实习一个月净收入14元",
-      "onboard_time": 1720689858,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 743256,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1720427300,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601226,
+      "num": 601226,
+      "word": "娜扎 我就是一个正常的女性",
+      "onboard_time": 1720692378,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 599965,
@@ -3963,6 +3971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 347858,
+      "num": 347858,
+      "word": "景区月薪5000招野人1天接几百个电话",
+      "onboard_time": 1720690997,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347672,
       "num": 347672,
       "word": "胡连馨连体裤",
@@ -4587,14 +4603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302080,
-      "num": 302080,
-      "word": "娜扎 我就是一个正常的女性",
-      "onboard_time": 1720692378,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300022,
       "num": 300022,
       "word": "赵今麦人形电脑天使心",
@@ -4825,6 +4833,14 @@
       "onboard_time": 1720405519,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279788,
+      "num": 279788,
+      "word": "朱一龙工作室发布告黑声明",
+      "onboard_time": 1720692076,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 279446,
@@ -5267,14 +5283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244593,
-      "num": 244593,
-      "word": "景区月薪5000招野人1天接几百个电话",
-      "onboard_time": 1720690997,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244481,
       "num": 244481,
       "word": "韩国为大熊猫双胞胎姐妹过生日",
@@ -5699,6 +5707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223691,
+      "num": 223691,
+      "word": "美国男子杀害女友后坐轮椅抛尸",
+      "onboard_time": 1720690218,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223503,
       "num": 223503,
       "word": "少年白马你倒是定档啊",
@@ -5739,6 +5755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220186,
+      "num": 192933,
+      "word": "为什么人人都哭穷却人人都在旅游",
+      "onboard_time": 1720690458,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219370,
       "num": 219370,
       "word": "周深演唱会 陪跑",
@@ -5753,14 +5777,6 @@
       "onboard_time": 1720408339,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218722,
-      "num": 204468,
-      "word": "朱一龙工作室发布告黑声明",
-      "onboard_time": 1720692076,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 218580,
@@ -6153,6 +6169,14 @@
       "onboard_time": 1720687997,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206364,
+      "num": 192210,
+      "word": "邓为像crush一样路过",
+      "onboard_time": 1720692738,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206329,
@@ -7219,14 +7243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184884,
-      "num": 193073,
-      "word": "美国男子杀害女友后坐轮椅抛尸",
-      "onboard_time": 1720690218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184722,
       "num": 184722,
       "word": "张拿铁带着爸爸干吃播",
@@ -7353,6 +7369,14 @@
       "onboard_time": 1720347018,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182445,
+      "num": 182445,
+      "word": "729 CV",
+      "onboard_time": 1720692138,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 182056,
@@ -7891,14 +7915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170719,
-      "num": 170719,
-      "word": "邓为像crush一样路过",
-      "onboard_time": 1720692738,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170602,
       "num": 170602,
       "word": "吴谨言说久违了大波浪",
@@ -7913,14 +7929,6 @@
       "onboard_time": 1720587978,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170453,
-      "num": 170453,
-      "word": "为什么人人都哭穷却人人都在旅游",
-      "onboard_time": 1720690458,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 170358,
@@ -8099,6 +8107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167626,
+      "num": 167626,
+      "word": "猫猫一直拿脑袋撞我是头上痒吗",
+      "onboard_time": 1720692498,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167340,
       "num": 167340,
       "word": "金鼎食用油下架",
@@ -8177,14 +8193,6 @@
       "onboard_time": 1720657458,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165945,
-      "num": 165945,
-      "word": "729 CV",
-      "onboard_time": 1720692138,
-      "rank": 33,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 165746,
@@ -8377,6 +8385,14 @@
       "onboard_time": 1720325836,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 162254,
+      "num": 162254,
+      "word": "长相思2比1疯了好多",
+      "onboard_time": 1720693158,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 162051,
@@ -8753,14 +8769,6 @@
       "onboard_time": 1720512798,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154246,
-      "num": 154246,
-      "word": "猫猫一直拿脑袋撞我是头上痒吗",
-      "onboard_time": 1720692498,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 154180,
@@ -9443,6 +9451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140825,
+      "num": 140825,
+      "word": "李彦宏曾称打无人车便宜一半",
+      "onboard_time": 1720688958,
+      "rank": 48,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 140807,
       "num": 140807,
       "word": "苏州河里的大闸蟹煮熟了",
@@ -9969,6 +9985,14 @@
       "onboard_time": 1720431079,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "韩国五年来至少有100名教师自杀",
+      "onboard_time": 1720692076,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131139,
@@ -10635,14 +10659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120266,
-      "num": 120266,
-      "word": "李彦宏曾称打无人车便宜一半",
-      "onboard_time": 1720688958,
-      "rank": 48,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 120257,
       "num": 120257,
       "word": "哪些东西里含有滑石粉",
@@ -10865,6 +10881,14 @@
       "onboard_time": 1720406778,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115208,
+      "num": 115208,
+      "word": "为什么面包店总有一种吸引人的香气",
+      "onboard_time": 1720693638,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 115108,
@@ -11275,20 +11299,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108987,
+      "num": 108987,
+      "word": "上海恋与深空展台首日因人流过大拆除",
+      "onboard_time": 1720693459,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108868,
       "num": 108868,
       "word": "上甘岭特等功臣林炳远逝世",
       "onboard_time": 1720609759,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108850,
-      "num": 101442,
-      "word": "长相思2比1疯了好多",
-      "onboard_time": 1720693158,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108568,
@@ -11491,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104879,
+      "num": 308073,
+      "word": "义乌的老板娘有多卷",
+      "onboard_time": 1720692018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104735,
       "num": 104735,
       "word": "杜兰特小腿拉伤",
@@ -11633,14 +11665,6 @@
       "onboard_time": 1720564394,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101832,
-      "num": 101832,
-      "word": "韩国五年来至少有100名教师自杀",
-      "onboard_time": 1720692076,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101652,
@@ -12603,14 +12627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60547,
-      "num": 308073,
-      "word": "义乌的老板娘有多卷",
-      "onboard_time": 1720692018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60175,
       "num": 260503,
       "word": "交警脱下雨衣裹住被困孩子抱进车内",
@@ -12720,6 +12736,14 @@
       "word": "煤矿工父亲泪洒女儿北大博士毕业礼",
       "onboard_time": 1720351038,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56498,
+      "num": 195957,
+      "word": "小熊猫被热到吐舌头",
+      "onboard_time": 1720694058,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -13259,6 +13283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39002,
+      "num": 116600,
+      "word": "8岁学生成孤儿被班主任抱回家",
+      "onboard_time": 1720693998,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38854,
       "num": 385889,
       "word": "小孩姐评教育通透发言",
@@ -13771,6 +13803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23709,
+      "num": 207888,
+      "word": "莫文蔚说年轻与年龄无关",
+      "onboard_time": 1720691538,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23677,
       "num": 143633,
       "word": "印尼金矿山体滑坡已造成48人失踪",
@@ -13809,14 +13849,6 @@
       "onboard_time": 1720501219,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22701,
-      "num": 207888,
-      "word": "莫文蔚说年轻与年龄无关",
-      "onboard_time": 1720691538,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 22613,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720694229371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948589,
+        "num": 948589,
+        "word": "荣梓杉 北京电影学院",
+        "onboard_time": 1720689078,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873521,
+        "num": 873521,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1720690519,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71256,
+        "num": 692685,
+        "word": "暴雨天要牢记这10个安全提醒",
+        "onboard_time": 1720686197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601226,
+        "num": 601226,
+        "word": "娜扎 我就是一个正常的女性",
+        "onboard_time": 1720692378,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548909,
+        "num": 548909,
+        "word": "1公里1块钱的无人出租车你敢坐吗",
+        "onboard_time": 1720688478,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367584,
+        "num": 367584,
+        "word": "吃米线爱放麻油的注意了",
+        "onboard_time": 1720687338,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 391688,
+        "num": 365520,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 383453,
+        "num": 365507,
+        "word": "杨紫穿秀禾",
+        "onboard_time": 1720691118,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359067,
+        "num": 359067,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347858,
+        "num": 347858,
+        "word": "景区月薪5000招野人1天接几百个电话",
+        "onboard_time": 1720690997,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933922,
+        "num": 327036,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409391,
+        "num": 316210,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279788,
+        "num": 279788,
+        "word": "朱一龙工作室发布告黑声明",
+        "onboard_time": 1720692076,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263813,
+        "num": 263813,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227298,
+        "num": 227298,
+        "word": "大胖媳妇失散36年的爹找到了",
+        "onboard_time": 1720683678,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 223691,
+        "num": 223691,
+        "word": "美国男子杀害女友后坐轮椅抛尸",
+        "onboard_time": 1720690218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220044,
+        "num": 220044,
+        "word": "男子给差评烧烤店说没来消费",
+        "onboard_time": 1720687098,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205298,
+        "num": 205298,
+        "word": "自动驾驶来了你是怕还是盼",
+        "onboard_time": 1720685418,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197639,
+        "num": 197639,
+        "word": "半夜1点弟弟到姐姐屋蹭空调",
+        "onboard_time": 1720682657,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23709,
+        "num": 197452,
+        "word": "莫文蔚说年轻与年龄无关",
+        "onboard_time": 1720691538,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 806864,
+        "num": 196695,
+        "word": "实习一个月净收入14元",
+        "onboard_time": 1720689858,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56498,
+        "num": 195957,
+        "word": "小熊猫被热到吐舌头",
+        "onboard_time": 1720694058,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308015,
+        "num": 195337,
+        "word": "郑恺发文告别奔跑吧",
+        "onboard_time": 1720688118,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274796,
+        "num": 194245,
+        "word": "在本县体制内上班是什么感觉",
+        "onboard_time": 1720687398,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244240,
+        "num": 193377,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220186,
+        "num": 192933,
+        "word": "为什么人人都哭穷却人人都在旅游",
+        "onboard_time": 1720690458,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206364,
+        "num": 192210,
+        "word": "邓为像crush一样路过",
+        "onboard_time": 1720692738,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191719,
+        "num": 191719,
+        "word": "张晚意清唱了万物不如你",
+        "onboard_time": 1720681758,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182445,
+        "num": 182445,
+        "word": "729 CV",
+        "onboard_time": 1720692138,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 176046,
+        "num": 176046,
+        "word": "歌手歌单",
+        "onboard_time": 1720684037,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173442,
+        "num": 173442,
+        "word": "杨紫长相思2见面会穿高定",
+        "onboard_time": 1720679299,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 172619,
+        "word": "唐朝诡事录2宝想要宝得到",
+        "onboard_time": 1720688897,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167626,
+        "num": 167626,
+        "word": "猫猫一直拿脑袋撞我是头上痒吗",
+        "onboard_time": 1720692498,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162254,
+        "num": 162254,
+        "word": "长相思2比1疯了好多",
+        "onboard_time": 1720693158,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140825,
+        "num": 140825,
+        "word": "李彦宏曾称打无人车便宜一半",
+        "onboard_time": 1720688958,
+        "rank": 34,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 140335,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104879,
+        "num": 138784,
+        "word": "义乌的老板娘有多卷",
+        "onboard_time": 1720692018,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137659,
+        "num": 137659,
+        "word": "台进口日本食用油检出致癌物",
+        "onboard_time": 1720690037,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135879,
+        "num": 135879,
+        "word": "苹果长出蘑菇女子赠送用于研究",
+        "onboard_time": 1720677317,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131155,
+        "num": 131155,
+        "word": "韩国五年来至少有100名教师自杀",
+        "onboard_time": 1720692076,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128880,
+        "num": 128880,
+        "word": "薛之谦深圳",
+        "onboard_time": 1720690878,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "长相思见面会",
+        "onboard_time": 1720676058,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124541,
+        "num": 124541,
+        "word": "导演快给王星越沈月递本子",
+        "onboard_time": 1720687338,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117993,
+        "num": 117993,
+        "word": "邓为狐狸胸针",
+        "onboard_time": 1720680198,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39002,
+        "num": 116600,
+        "word": "8岁学生成孤儿被班主任抱回家",
+        "onboard_time": 1720693998,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115208,
+        "num": 115208,
+        "word": "为什么面包店总有一种吸引人的香气",
+        "onboard_time": 1720693638,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112539,
+        "num": 112539,
+        "word": "深圳湾出现地球唯一蓝血生物",
+        "onboard_time": 1720675638,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "印度恒河水有多脏",
+        "onboard_time": 1720688178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108987,
+        "num": 108987,
+        "word": "上海恋与深空展台首日因人流过大拆除",
+        "onboard_time": 1720693459,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102664,
+        "num": 102664,
+        "word": "萝卜快跑回应车内有摄像头监控",
+        "onboard_time": 1720684878,
+        "rank": 49,
+        "category": "汽车,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
