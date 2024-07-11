@@ -1,0 +1,410 @@
+{
+  "runTime": 1720704856577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204427,
+        "num": 1204427,
+        "word": "影后和顶流 从年少到白头",
+        "onboard_time": 1720700239,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 882414,
+        "num": 882414,
+        "word": "他们卖不出西瓜我们买不起西瓜",
+        "onboard_time": 1720701258,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122658,
+        "num": 673229,
+        "word": "普通人遇到大暴雨到底该怎么办",
+        "onboard_time": 1720703178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931433,
+        "num": 635066,
+        "word": "谢欣桐小黄分手",
+        "onboard_time": 1720697659,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 503715,
+        "num": 503715,
+        "word": "BOSS直聘崩了",
+        "onboard_time": 1720699279,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 490479,
+        "num": 490479,
+        "word": "官方回应招募教师照看干部子女",
+        "onboard_time": 1720703298,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741294,
+        "num": 449449,
+        "word": "刘诗诗穿了未发布款高定",
+        "onboard_time": 1720697417,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 545006,
+        "num": 423276,
+        "word": "张凌赫空降",
+        "onboard_time": 1720701978,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350205,
+        "num": 350205,
+        "word": "警方通报东营恶性伤人事件",
+        "onboard_time": 1720694417,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 329006,
+        "num": 329006,
+        "word": "阳朔西街男子疑似猥亵多名女性",
+        "onboard_time": 1720701077,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432625,
+        "num": 317056,
+        "word": "民政局回应13岁尿毒症晚期男孩捡废品",
+        "onboard_time": 1720703479,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413751,
+        "num": 316869,
+        "word": "张晚意问媒体您不满意是吗",
+        "onboard_time": 1720696039,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396962,
+        "num": 305423,
+        "word": "杨紫说拍长相思2的时候好圆",
+        "onboard_time": 1720702339,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293719,
+        "num": 293719,
+        "word": "孙颖莎比赛",
+        "onboard_time": 1720699698,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290917,
+        "num": 290917,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40636,
+        "num": 290047,
+        "word": "iQOO这回Buff叠满了",
+        "onboard_time": 1720702339,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 289914,
+        "num": 289914,
+        "word": "贾玲或将回归王牌9",
+        "onboard_time": 1720699878,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280383,
+        "num": 280383,
+        "word": "DIOR活动",
+        "onboard_time": 1720703658,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 245262,
+        "num": 245262,
+        "word": "荣梓杉 北京电影学院",
+        "onboard_time": 1720689078,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228497,
+        "num": 228497,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 226910,
+        "word": "她的骨灰装进了周恩来用过的骨灰盒",
+        "onboard_time": 1720704439,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375245,
+        "num": 226384,
+        "word": "实习一个月净收入14元",
+        "onboard_time": 1720689858,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243145,
+        "num": 226168,
+        "word": "谢霆锋 王菲战斗粉",
+        "onboard_time": 1720698260,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225828,
+        "num": 225828,
+        "word": "1公里1块钱的无人出租车你敢坐吗",
+        "onboard_time": 1720688478,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133649,
+        "num": 223655,
+        "word": "萝卜快跑订单迎爆发增长",
+        "onboard_time": 1720702819,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341705,
+        "num": 222350,
+        "word": "体制内领导让我把微信头像换了",
+        "onboard_time": 1720697897,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298368,
+        "num": 219724,
+        "word": "偷偷瘦了20斤后见到朋友内心belike",
+        "onboard_time": 1720694717,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42306,
+        "num": 219072,
+        "word": "iQOO太会拿捏大学生了",
+        "onboard_time": 1720700659,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237098,
+        "num": 216891,
+        "word": "吴谨言穿的好像蜥蜴",
+        "onboard_time": 1720703417,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99584,
+        "num": 214228,
+        "word": "依法驱离日非法进入我钓鱼岛领海船只",
+        "onboard_time": 1720702638,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212514,
+        "num": 212514,
+        "word": "亲姐姐不来参加我的婚礼",
+        "onboard_time": 1720699638,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201538,
+        "num": 201538,
+        "word": "涂山璟开大秒杀涂山篌",
+        "onboard_time": 1720704258,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 193318,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1720690519,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192622,
+        "num": 192622,
+        "word": "佟大为你别这样我害怕",
+        "onboard_time": 1720703838,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189664,
+        "num": 189664,
+        "word": "DRG对战TTG",
+        "onboard_time": 1720704018,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180468,
+        "num": 180468,
+        "word": "完美世界石昊联手完胜冥族",
+        "onboard_time": 1720703598,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 178825,
+        "num": 178825,
+        "word": "这居然是2024年的李东海",
+        "onboard_time": 1720701737,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165002,
+        "num": 165002,
+        "word": "张予曦小美人鱼",
+        "onboard_time": 1720701918,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142852,
+        "num": 149726,
+        "word": "外交部回应日自卫队舰艇进入中国领海",
+        "onboard_time": 1720696039,
+        "rank": 38,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 146686,
+        "num": 146686,
+        "word": "五点半和六点下班真不一样",
+        "onboard_time": 1720695319,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146264,
+        "num": 146264,
+        "word": "要是没监控这个事最少得传三代",
+        "onboard_time": 1720703718,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142272,
+        "num": 142272,
+        "word": "729 CV",
+        "onboard_time": 1720692138,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 139821,
+        "num": 139821,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 135604,
+        "num": 135604,
+        "word": "多艘中国军舰现身阿拉斯加附近",
+        "onboard_time": 1720704498,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135056,
+        "num": 135056,
+        "word": "娜扎 我就是一个正常的女性",
+        "onboard_time": 1720692378,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125190,
+        "num": 125190,
+        "word": "错位",
+        "onboard_time": 1720697297,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119824,
+        "num": 119824,
+        "word": "鞠婧祎条纹卫衣",
+        "onboard_time": 1720702097,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115911,
+        "num": 115911,
+        "word": "CPI",
+        "onboard_time": 1720702097,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112171,
+        "num": 112171,
+        "word": "林一簪花",
+        "onboard_time": 1720698558,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111903,
+        "num": 111903,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}

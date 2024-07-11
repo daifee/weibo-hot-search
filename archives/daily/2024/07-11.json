@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720704156721,
+  "endTime": 1720704856577,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1293178,
-      "num": 618705,
+      "num": 635066,
       "word": "谢欣桐小黄分手",
       "onboard_time": 1720697659,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1204427,
+      "num": 1204427,
+      "word": "影后和顶流 从年少到白头",
+      "onboard_time": 1720700239,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1174794,
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016362,
-      "num": 1016362,
-      "word": "影后和顶流 从年少到白头",
-      "onboard_time": 1720700239,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 975938,
       "num": 975938,
       "word": "刘诗诗穿了未发布款高定",
       "onboard_time": 1720697417,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 882414,
+      "num": 882414,
+      "word": "他们卖不出西瓜我们买不起西瓜",
+      "onboard_time": 1720701258,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 873521,
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 680401,
-      "num": 680401,
-      "word": "他们卖不出西瓜我们买不起西瓜",
-      "onboard_time": 1720701258,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 675979,
       "num": 610637,
       "word": "凤凰传奇 到底是谁抢到了",
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 659918,
-      "num": 414779,
+      "num": 423276,
       "word": "张凌赫空降",
       "onboard_time": 1720701978,
       "rank": 27,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490479,
+      "num": 490479,
+      "word": "官方回应招募教师照看干部子女",
+      "onboard_time": 1720703298,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488745,
       "num": 488745,
       "word": "萝卜快跑",
@@ -651,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432625,
+      "num": 317056,
+      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
+      "onboard_time": 1720703479,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426081,
       "num": 426081,
       "word": "又要熬夜看奥运比赛了",
@@ -699,7 +715,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 396111,
+      "raw_hot": 396962,
       "num": 396111,
       "word": "杨紫说拍长相思2的时候好圆",
       "onboard_time": 1720702339,
@@ -729,14 +745,6 @@
       "onboard_time": 1720675459,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379199,
-      "num": 443140,
-      "word": "官方回应招募教师照看干部子女",
-      "onboard_time": 1720703298,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374633,
@@ -875,6 +883,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 329006,
+      "num": 329006,
+      "word": "阳朔西街男子疑似猥亵多名女性",
+      "onboard_time": 1720701077,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328522,
       "num": 328522,
       "word": "谢霆锋 王菲战斗粉",
@@ -937,14 +953,6 @@
       "onboard_time": 1720666277,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307718,
-      "num": 307718,
-      "word": "阳朔西街男子疑似猥亵多名女性",
-      "onboard_time": 1720701077,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306971,
@@ -1043,6 +1051,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 280383,
+      "num": 280383,
+      "word": "DIOR活动",
+      "onboard_time": 1720703658,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 279788,
       "num": 279788,
       "word": "朱一龙工作室发布告黑声明",
@@ -1083,14 +1099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263104,
-      "num": 263104,
-      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
-      "onboard_time": 1720703479,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262708,
       "num": 262708,
       "word": "女子称晒背10天瘦了4斤",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1720690218,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247360,
-      "num": 247360,
-      "word": "DIOR活动",
-      "onboard_time": 1720703658,
-      "rank": 25,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 247114,
@@ -1187,7 +1187,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235445,
+      "raw_hot": 237098,
       "num": 235445,
       "word": "吴谨言穿的好像蜥蜴",
       "onboard_time": 1720703417,
@@ -1507,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201538,
+      "num": 201538,
+      "word": "涂山璟开大秒杀涂山篌",
+      "onboard_time": 1720704258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199095,
       "num": 199095,
       "word": "黄明昊簪花图",
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192622,
+      "num": 192622,
+      "word": "佟大为你别这样我害怕",
+      "onboard_time": 1720703838,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191999,
       "num": 191999,
       "word": "完美世界石昊联手完胜冥族",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1720678699,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189664,
+      "num": 189664,
+      "word": "DRG对战TTG",
+      "onboard_time": 1720704018,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 189360,
@@ -1715,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178825,
+      "num": 178825,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178741,
       "num": 178741,
       "word": "韩国19岁恶魔杀人分尸16个小时",
@@ -1795,28 +1827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170520,
-      "num": 170520,
-      "word": "这居然是2024年的李东海",
-      "onboard_time": 1720701737,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170237,
       "num": 170237,
       "word": "新冠检测有了新手段",
       "onboard_time": 1720669939,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 170179,
-      "num": 170179,
-      "word": "佟大为你别这样我害怕",
-      "onboard_time": 1720703838,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 169605,
@@ -1873,14 +1889,6 @@
       "onboard_time": 1720672640,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 165062,
-      "num": 165062,
-      "word": "DRG对战TTG",
-      "onboard_time": 1720704018,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 164868,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1720675578,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153962,
+      "num": 226910,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒",
+      "onboard_time": 1720704439,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152928,
@@ -2259,12 +2275,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135604,
+      "num": 135604,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135168,
       "num": 147544,
       "word": "相柳 心软的神",
       "onboard_time": 1720613898,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133649,
+      "num": 396235,
+      "word": "萝卜快跑订单迎爆发增长",
+      "onboard_time": 1720702819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132910,
@@ -2385,6 +2417,14 @@
       "onboard_time": 1720638731,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122658,
+      "num": 673229,
+      "word": "普通人遇到大暴雨到底该怎么办",
+      "onboard_time": 1720703178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122487,
@@ -2587,14 +2627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107236,
-      "num": 609202,
-      "word": "普通人遇到大暴雨到底该怎么办",
-      "onboard_time": 1720703178,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106875,
       "num": 106875,
       "word": "西蒙斯世界波",
@@ -2728,14 +2760,6 @@
       "word": "暴雨天要牢记这10个安全提醒",
       "onboard_time": 1720686197,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96064,
-      "num": 396235,
-      "word": "萝卜快跑订单迎爆发增长",
-      "onboard_time": 1720702819,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3019,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42306,
+      "num": 232504,
+      "word": "iQOO太会拿捏大学生了",
+      "onboard_time": 1720700659,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41667,
       "num": 335437,
       "word": "不当的生酮饮食将加速细胞衰老",
@@ -3043,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40636,
+      "num": 299962,
+      "word": "iQOO这回Buff叠满了",
+      "onboard_time": 1720702339,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39009,
       "num": 53229,
       "word": "索斯盖特神奇换人",
@@ -3059,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38741,
-      "num": 232504,
-      "word": "iQOO太会拿捏大学生了",
-      "onboard_time": 1720700659,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38094,
       "num": 53199,
       "word": "曾黎跟小孩哥用小天才手表合影",
@@ -3081,14 +3113,6 @@
       "onboard_time": 1720699217,
       "rank": 45,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 36846,
-      "num": 299962,
-      "word": "iQOO这回Buff叠满了",
-      "onboard_time": 1720702339,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 36525,

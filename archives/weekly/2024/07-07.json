@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720704156721,
+  "endTime": 1720704856577,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1293178,
-      "num": 618705,
+      "num": 635066,
       "word": "谢欣桐小黄分手",
       "onboard_time": 1720697659,
       "rank": 49,
@@ -497,6 +497,14 @@
       "onboard_time": 1720328958,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204427,
+      "num": 1204427,
+      "word": "影后和顶流 从年少到白头",
+      "onboard_time": 1720700239,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1191710,
@@ -763,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1016362,
-      "num": 1016362,
-      "word": "影后和顶流 从年少到白头",
-      "onboard_time": 1720700239,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
@@ -985,6 +985,14 @@
       "onboard_time": 1720500980,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882414,
+      "num": 882414,
+      "word": "他们卖不出西瓜我们买不起西瓜",
+      "onboard_time": 1720701258,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 881362,
@@ -1563,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680401,
-      "num": 680401,
-      "word": "他们卖不出西瓜我们买不起西瓜",
-      "onboard_time": 1720701258,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 679897,
       "num": 679897,
       "word": "张新成你是真的饿了",
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 659918,
-      "num": 414779,
+      "num": 423276,
       "word": "张凌赫空降",
       "onboard_time": 1720701978,
       "rank": 27,
@@ -2571,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490479,
+      "num": 490479,
+      "word": "官方回应招募教师照看干部子女",
+      "onboard_time": 1720703298,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490190,
       "num": 267198,
       "word": "躺着就能月入3000你愿意吗",
@@ -3235,6 +3243,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 432625,
+      "num": 317056,
+      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
+      "onboard_time": 1720703479,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431756,
       "num": 431756,
       "word": "相柳弹琴好尬",
@@ -3555,20 +3571,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396962,
+      "num": 396111,
+      "word": "杨紫说拍长相思2的时候好圆",
+      "onboard_time": 1720702339,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396679,
       "num": 396679,
       "word": "天生臭脸和天生笑脸的区别",
       "onboard_time": 1720592418,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 396111,
-      "num": 396111,
-      "word": "杨紫说拍长相思2的时候好圆",
-      "onboard_time": 1720702339,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 395056,
@@ -3729,14 +3745,6 @@
       "onboard_time": 1720277778,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379199,
-      "num": 443140,
-      "word": "官方回应招募教师照看干部子女",
-      "onboard_time": 1720703298,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378639,
@@ -4355,6 +4363,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 329006,
+      "num": 329006,
+      "word": "阳朔西街男子疑似猥亵多名女性",
+      "onboard_time": 1720701077,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328688,
       "num": 514151,
       "word": "罐车混装是对生命健康的极端漠视",
@@ -4673,14 +4689,6 @@
       "onboard_time": 1720583958,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 307718,
-      "num": 307718,
-      "word": "阳朔西街男子疑似猥亵多名女性",
-      "onboard_time": 1720701077,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307174,
@@ -5011,6 +5019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280383,
+      "num": 280383,
+      "word": "DIOR活动",
+      "onboard_time": 1720703658,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 279788,
       "num": 279788,
       "word": "朱一龙工作室发布告黑声明",
@@ -5217,14 +5233,6 @@
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263104,
-      "num": 263104,
-      "word": "民政局回应13岁尿毒症晚期男孩捡废品",
-      "onboard_time": 1720703479,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262996,
@@ -5443,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247360,
-      "num": 247360,
-      "word": "DIOR活动",
-      "onboard_time": 1720703658,
-      "rank": 25,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 247114,
       "num": 247114,
       "word": "陈妍希撕掉小白兔标签",
@@ -5667,6 +5667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 237098,
+      "num": 235445,
+      "word": "吴谨言穿的好像蜥蜴",
+      "onboard_time": 1720703417,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 236457,
       "num": 236457,
       "word": "张贤胜公开退团原因",
@@ -5681,14 +5689,6 @@
       "onboard_time": 1720411100,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235445,
-      "num": 235445,
-      "word": "吴谨言穿的好像蜥蜴",
-      "onboard_time": 1720703417,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235140,
@@ -6691,6 +6691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201538,
+      "num": 201538,
+      "word": "涂山璟开大秒杀涂山篌",
+      "onboard_time": 1720704258,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201438,
       "num": 201438,
       "word": "杨紫包场长相思2",
@@ -7107,6 +7115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192622,
+      "num": 192622,
+      "word": "佟大为你别这样我害怕",
+      "onboard_time": 1720703838,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192479,
       "num": 192479,
       "word": "朱一龙邱天新电影演情侣",
@@ -7305,6 +7321,14 @@
       "onboard_time": 1720342758,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189664,
+      "num": 189664,
+      "word": "DRG对战TTG",
+      "onboard_time": 1720704018,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 189360,
@@ -7787,6 +7811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178825,
+      "num": 178825,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178747,
       "num": 178747,
       "word": "混装化工油和食用油就是草菅人命",
@@ -8235,14 +8267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170520,
-      "num": 170520,
-      "word": "这居然是2024年的李东海",
-      "onboard_time": 1720701737,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170358,
       "num": 170358,
       "word": "朱一龙社畜感在演我",
@@ -8265,14 +8289,6 @@
       "onboard_time": 1720669939,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 170179,
-      "num": 170179,
-      "word": "佟大为你别这样我害怕",
-      "onboard_time": 1720703838,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 170078,
@@ -8569,14 +8585,6 @@
       "onboard_time": 1720672640,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 165062,
-      "num": 165062,
-      "word": "DRG对战TTG",
-      "onboard_time": 1720704018,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 164868,
@@ -9129,6 +9137,14 @@
       "onboard_time": 1720336339,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153962,
+      "num": 226910,
+      "word": "她的骨灰装进了周恩来用过的骨灰盒",
+      "onboard_time": 1720704439,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153703,
@@ -10211,6 +10227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135604,
+      "num": 135604,
+      "word": "多艘中国军舰现身阿拉斯加附近",
+      "onboard_time": 1720704498,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135492,
       "num": 135492,
       "word": "外媒称C罗想参加2026年世界杯",
@@ -10289,6 +10313,14 @@
       "onboard_time": 1720589659,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133649,
+      "num": 396235,
+      "word": "萝卜快跑订单迎爆发增长",
+      "onboard_time": 1720702819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133502,
@@ -10929,6 +10961,14 @@
       "onboard_time": 1720638731,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122658,
+      "num": 673229,
+      "word": "普通人遇到大暴雨到底该怎么办",
+      "onboard_time": 1720703178,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122610,
@@ -11843,14 +11883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107236,
-      "num": 609202,
-      "word": "普通人遇到大暴雨到底该怎么办",
-      "onboard_time": 1720703178,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106944,
       "num": 106944,
       "word": "这饭幼儿园小朋友能吃明白吗",
@@ -12321,14 +12353,6 @@
       "onboard_time": 1720568237,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 96064,
-      "num": 396235,
-      "word": "萝卜快跑订单迎爆发增长",
-      "onboard_time": 1720702819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96044,
@@ -13683,6 +13707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42306,
+      "num": 232504,
+      "word": "iQOO太会拿捏大学生了",
+      "onboard_time": 1720700659,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42120,
       "num": 52148,
       "word": "主动一点儿挺好的",
@@ -13729,6 +13761,14 @@
       "onboard_time": 1720607658,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40636,
+      "num": 299962,
+      "word": "iQOO这回Buff叠满了",
+      "onboard_time": 1720702339,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 40567,
@@ -13795,14 +13835,6 @@
       "category": "母婴育儿,教育"
     },
     {
-      "raw_hot": 38741,
-      "num": 232504,
-      "word": "iQOO太会拿捏大学生了",
-      "onboard_time": 1720700659,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38682,
       "num": 46307,
       "word": "欢迎来到我身边番外彩蛋",
@@ -13865,14 +13897,6 @@
       "onboard_time": 1720337897,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 36846,
-      "num": 299962,
-      "word": "iQOO这回Buff叠满了",
-      "onboard_time": 1720702339,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 36819,
