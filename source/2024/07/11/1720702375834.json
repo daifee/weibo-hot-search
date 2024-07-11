@@ -1,0 +1,410 @@
+{
+  "runTime": 1720702375834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975938,
+        "num": 975938,
+        "word": "刘诗诗穿了未发布款高定",
+        "onboard_time": 1720697417,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 636151,
+        "num": 636151,
+        "word": "警方通报东营恶性伤人事件",
+        "onboard_time": 1720694417,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 58911,
+        "num": 592889,
+        "word": "暴雨天要牢记这10个安全提醒",
+        "onboard_time": 1720686197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116377,
+        "num": 591768,
+        "word": "谢欣桐小黄分手",
+        "onboard_time": 1720697659,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 576081,
+        "num": 576081,
+        "word": "BOSS直聘崩了",
+        "onboard_time": 1720699279,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 406348,
+        "num": 406348,
+        "word": "孙颖莎比赛",
+        "onboard_time": 1720699698,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599052,
+        "num": 365504,
+        "word": "影后和顶流 从年少到白头",
+        "onboard_time": 1720700239,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501029,
+        "num": 347546,
+        "word": "张晚意问媒体您不满意是吗",
+        "onboard_time": 1720696039,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295113,
+        "num": 295113,
+        "word": "外交部回应日自卫队舰艇进入中国领海",
+        "onboard_time": 1720696039,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 21451,
+        "num": 294714,
+        "word": "细心护士坚持拦停救了七旬老人",
+        "onboard_time": 1720698678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337120,
+        "num": 294458,
+        "word": "贾玲或将回归王牌9",
+        "onboard_time": 1720699878,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323208,
+        "num": 293272,
+        "word": "谢霆锋 王菲战斗粉",
+        "onboard_time": 1720698260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309703,
+        "num": 292574,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292526,
+        "num": 292526,
+        "word": "荣梓杉 北京电影学院",
+        "onboard_time": 1720689078,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279347,
+        "num": 279347,
+        "word": "1公里1块钱的无人出租车你敢坐吗",
+        "onboard_time": 1720688478,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277821,
+        "num": 277821,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248928,
+        "num": 248928,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1720690519,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227703,
+        "num": 227703,
+        "word": "729 CV",
+        "onboard_time": 1720692138,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 209634,
+        "num": 209634,
+        "word": "他们卖不出西瓜我们买不起西瓜",
+        "onboard_time": 1720701258,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208533,
+        "num": 208533,
+        "word": "阳朔西街男子疑似猥亵多名女性",
+        "onboard_time": 1720701077,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486487,
+        "num": 208382,
+        "word": "体制内领导让我把微信头像换了",
+        "onboard_time": 1720697897,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406124,
+        "num": 208326,
+        "word": "实习一个月净收入14元",
+        "onboard_time": 1720689858,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "娜扎 我就是一个正常的女性",
+        "onboard_time": 1720692378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361294,
+        "num": 202335,
+        "word": "偷偷瘦了20斤后见到朋友内心belike",
+        "onboard_time": 1720694717,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219154,
+        "num": 199937,
+        "word": "五点半和六点下班真不一样",
+        "onboard_time": 1720695319,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209004,
+        "num": 195989,
+        "word": "亲姐姐不来参加我的婚礼",
+        "onboard_time": 1720699638,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38501,
+        "num": 195783,
+        "word": "iQOO太会拿捏大学生了",
+        "onboard_time": 1720700659,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193021,
+        "num": 193021,
+        "word": "张凌赫空降",
+        "onboard_time": 1720701978,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188482,
+        "num": 188482,
+        "word": "王牌对王牌",
+        "onboard_time": 1720695559,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186753,
+        "num": 186753,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181349,
+        "num": 181349,
+        "word": "CPI",
+        "onboard_time": 1720702097,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177603,
+        "num": 177603,
+        "word": "错位",
+        "onboard_time": 1720697297,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173543,
+        "num": 173543,
+        "word": "鞠婧祎条纹卫衣",
+        "onboard_time": 1720702097,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171137,
+        "num": 171137,
+        "word": "张真源错付了",
+        "onboard_time": 1720701978,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170411,
+        "num": 170411,
+        "word": "张予曦小美人鱼",
+        "onboard_time": 1720701918,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 159313,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 157023,
+        "num": 157023,
+        "word": "要了你文学",
+        "onboard_time": 1720698678,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156068,
+        "num": 156068,
+        "word": "杨紫说拍长相思2的时候好圆",
+        "onboard_time": 1720702339,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155633,
+        "num": 155633,
+        "word": "做一休一的班到底谁在上",
+        "onboard_time": 1720697238,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150441,
+        "num": 150441,
+        "word": "林一簪花",
+        "onboard_time": 1720698558,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147603,
+        "num": 147603,
+        "word": "成韩彬翻包翻出乳贴",
+        "onboard_time": 1720695378,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141857,
+        "num": 141857,
+        "word": "涂山璟台词",
+        "onboard_time": 1720694899,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138610,
+        "num": 138610,
+        "word": "iQOO手机",
+        "onboard_time": 1720700778,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138139,
+        "num": 138139,
+        "word": "这居然是2024年的李东海",
+        "onboard_time": 1720701737,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136478,
+        "num": 136478,
+        "word": "胡锡进账户6万元不知道买什么",
+        "onboard_time": 1720694657,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 134668,
+        "num": 134668,
+        "word": "减肥对颜值的改变有多大",
+        "onboard_time": 1720700419,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127492,
+        "num": 127492,
+        "word": "绽放巴黎",
+        "onboard_time": 1720700837,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20395,
+        "num": 116615,
+        "word": "iQOO这回Buff叠满了",
+        "onboard_time": 1720702339,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132636,
+        "num": 115854,
+        "word": "相柳带着桐华敲定了自己的结局",
+        "onboard_time": 1720696937,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115048,
+        "num": 115048,
+        "word": "真羡慕那种生命力鲜活的人",
+        "onboard_time": 1720701558,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}

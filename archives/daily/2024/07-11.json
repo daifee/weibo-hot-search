@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720701428427,
+  "endTime": 1720702375834,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973107,
-      "num": 973107,
+      "raw_hot": 975938,
+      "num": 975938,
       "word": "刘诗诗穿了未发布款高定",
       "onboard_time": 1720697417,
       "rank": 25,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599052,
+      "num": 365504,
+      "word": "影后和顶流 从年少到白头",
+      "onboard_time": 1720700239,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596885,
       "num": 596885,
       "word": "BOSS直聘崩了",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501029,
+      "num": 422717,
+      "word": "张晚意问媒体您不满意是吗",
+      "onboard_time": 1720696039,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491983,
       "num": 491983,
       "word": "邓为狐狸胸针",
@@ -529,6 +545,14 @@
       "onboard_time": 1720676958,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 486487,
+      "num": 219252,
+      "word": "体制内领导让我把微信头像换了",
+      "onboard_time": 1720697897,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 470412,
@@ -587,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 450270,
-      "num": 219252,
-      "word": "体制内领导让我把微信头像换了",
-      "onboard_time": 1720697897,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 450049,
       "num": 450049,
       "word": "官方通报不在家每年仍要交96元水费",
@@ -625,14 +641,6 @@
       "onboard_time": 1720680978,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422717,
-      "num": 422717,
-      "word": "张晚意问媒体您不满意是吗",
-      "onboard_time": 1720696039,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 422276,
@@ -849,14 +857,6 @@
       "onboard_time": 1720692138,
       "rank": 33,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 322693,
-      "num": 322693,
-      "word": "影后和顶流 从年少到白头",
-      "onboard_time": 1720700239,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 322074,
@@ -1307,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209634,
+      "num": 209634,
+      "word": "他们卖不出西瓜我们买不起西瓜",
+      "onboard_time": 1720701258,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209528,
       "num": 209528,
       "word": "基金经理1年半亏40%降职为助理",
@@ -1323,12 +1331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209004,
+      "num": 195989,
+      "word": "亲姐姐不来参加我的婚礼",
+      "onboard_time": 1720699638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208944,
       "num": 208944,
       "word": "iQOO手机",
       "onboard_time": 1720700778,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 208533,
+      "num": 208533,
+      "word": "阳朔西街男子疑似猥亵多名女性",
+      "onboard_time": 1720701077,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207640,
@@ -1507,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193021,
+      "num": 193021,
+      "word": "张凌赫空降",
+      "onboard_time": 1720701978,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191960,
       "num": 185258,
       "word": "谁唱林俊杰裹着心的光",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1720678699,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189513,
-      "num": 189513,
-      "word": "亲姐姐不来参加我的婚礼",
-      "onboard_time": 1720699638,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 189360,
@@ -1611,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181349,
+      "num": 181349,
+      "word": "CPI",
+      "onboard_time": 1720702097,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181197,
       "num": 181197,
       "word": "薛之谦深圳",
@@ -1659,6 +1691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173543,
+      "num": 173543,
+      "word": "鞠婧祎条纹卫衣",
+      "onboard_time": 1720702097,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172802,
       "num": 172802,
       "word": "姚译添三部综艺杀青发文",
@@ -1689,6 +1729,22 @@
       "onboard_time": 1720663459,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 171137,
+      "num": 171137,
+      "word": "张真源错付了",
+      "onboard_time": 1720701978,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170411,
+      "num": 170411,
+      "word": "张予曦小美人鱼",
+      "onboard_time": 1720701918,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 170237,
@@ -1841,6 +1897,14 @@
       "onboard_time": 1720678399,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156068,
+      "num": 156068,
+      "word": "杨紫说拍长相思2的时候好圆",
+      "onboard_time": 1720702339,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155845,
@@ -2081,6 +2145,14 @@
       "onboard_time": 1720679717,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138139,
+      "num": 138139,
+      "word": "这居然是2024年的李东海",
+      "onboard_time": 1720701737,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 137389,
@@ -2331,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117190,
-      "num": 117190,
-      "word": "阳朔西街男子疑似猥亵多名女性",
-      "onboard_time": 1720701077,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116885,
       "num": 116885,
       "word": "女子赶海抓到章鱼星人到家神秘消失",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1720656437,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115048,
+      "num": 115048,
+      "word": "真羡慕那种生命力鲜活的人",
+      "onboard_time": 1720701558,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114835,
@@ -2385,14 +2457,6 @@
       "onboard_time": 1720619899,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112067,
-      "num": 112067,
-      "word": "他们卖不出西瓜我们买不起西瓜",
-      "onboard_time": 1720701258,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 111179,
@@ -2891,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38501,
+      "num": 195783,
+      "word": "iQOO太会拿捏大学生了",
+      "onboard_time": 1720700659,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38094,
       "num": 53199,
       "word": "曾黎跟小孩哥用小天才手表合影",
@@ -2921,14 +2993,6 @@
       "onboard_time": 1720639691,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35536,
-      "num": 138728,
-      "word": "iQOO太会拿捏大学生了",
-      "onboard_time": 1720700659,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 35372,
@@ -3113,6 +3177,14 @@
       "onboard_time": 1720629855,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20395,
+      "num": 116615,
+      "word": "iQOO这回Buff叠满了",
+      "onboard_time": 1720702339,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 18137,
