@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720686268703,
+  "endTime": 1720687056307,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -315,6 +315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1383576,
+      "num": 1383576,
+      "word": "冉莹颖夫妇创业七年卖掉所有房产",
+      "onboard_time": 1720683138,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1381670,
       "num": 1381670,
       "word": "仅退款动了谁的奶酪",
@@ -345,14 +353,6 @@
       "onboard_time": 1720356019,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1361591,
-      "num": 1361591,
-      "word": "冉莹颖夫妇创业七年卖掉所有房产",
-      "onboard_time": 1720683138,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1351307,
@@ -707,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1039164,
+      "num": 1039164,
+      "word": "教育局暑假招教师照看干部子女",
+      "onboard_time": 1720684459,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037079,
       "num": 1037079,
       "word": "深圳湾出现地球唯一蓝血生物",
@@ -915,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 903592,
-      "num": 903592,
-      "word": "教育局暑假招教师照看干部子女",
-      "onboard_time": 1720684459,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 899698,
       "num": 481423,
       "word": "为什么很多人微信所在地冰岛",
@@ -971,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 871796,
+      "num": 871796,
+      "word": "大胖媳妇失散36年的爹找到了",
+      "onboard_time": 1720683678,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 868427,
       "num": 293833,
       "word": "才25岁就要被介绍40岁的男孩",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1720665677,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862138,
-      "num": 862138,
-      "word": "大胖媳妇失散36年的爹找到了",
-      "onboard_time": 1720683678,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 861810,
@@ -1939,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 580512,
+      "num": 580512,
+      "word": "半夜1点弟弟到姐姐屋蹭空调",
+      "onboard_time": 1720682657,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 580183,
       "num": 580183,
       "word": "外国博主发现了中国人瘦的原因",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1720586059,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 576808,
+      "num": 576808,
+      "word": "东营",
+      "onboard_time": 1720684999,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 572957,
@@ -2643,6 +2659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466947,
+      "num": 441679,
+      "word": "杨紫长相思2见面会穿高定",
+      "onboard_time": 1720679299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466397,
       "num": 466397,
       "word": "A股",
@@ -2899,14 +2923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 446591,
-      "num": 446591,
-      "word": "半夜1点弟弟到姐姐屋蹭空调",
-      "onboard_time": 1720682657,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 445874,
       "num": 264728,
       "word": "为了官宣开一档综艺",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1720355958,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441679,
-      "num": 441679,
-      "word": "杨紫长相思2见面会穿高定",
-      "onboard_time": 1720679299,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 440377,
@@ -3657,14 +3665,6 @@
       "onboard_time": 1720314617,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369863,
-      "num": 369863,
-      "word": "东营",
-      "onboard_time": 1720684999,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 366149,
@@ -4571,6 +4571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295206,
+      "num": 295206,
+      "word": "萝卜快跑回应车内有摄像头监控",
+      "onboard_time": 1720684878,
+      "rank": 23,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 294333,
       "num": 250121,
       "word": "Henry一出场票价就回来了",
@@ -4857,14 +4865,6 @@
       "onboard_time": 1720681758,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266108,
-      "num": 266108,
-      "word": "萝卜快跑回应车内有摄像头监控",
-      "onboard_time": 1720684878,
-      "rank": 23,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 265828,
@@ -5243,6 +5243,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 241457,
+      "num": 241457,
+      "word": "入职一个月公司又在招聘我的岗位",
+      "onboard_time": 1720684037,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241442,
       "num": 241442,
       "word": "防风邶以我一命换她自由身",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1720504758,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229790,
-      "num": 229790,
-      "word": "入职一个月公司又在招聘我的岗位",
-      "onboard_time": 1720684037,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 229750,
@@ -5771,6 +5771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214429,
+      "num": 214429,
+      "word": "孙颖莎说为国而战是最大使命",
+      "onboard_time": 1720683497,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213818,
       "num": 213818,
       "word": "巴黎奥运看国乒决赛不用熬夜",
@@ -5785,14 +5793,6 @@
       "onboard_time": 1720278919,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213374,
-      "num": 213374,
-      "word": "孙颖莎说为国而战是最大使命",
-      "onboard_time": 1720683497,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 213307,
@@ -6169,6 +6169,14 @@
       "onboard_time": 1720617618,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204617,
+      "num": 204617,
+      "word": "Uzi直播人气严重下滑",
+      "onboard_time": 1720685778,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 204564,
@@ -6579,6 +6587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195267,
+      "num": 195267,
+      "word": "电影默杀",
+      "onboard_time": 1720336219,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194841,
       "num": 194841,
       "word": "周深南京",
@@ -6729,6 +6745,14 @@
       "onboard_time": 1720409959,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191960,
+      "num": 185258,
+      "word": "谁唱林俊杰裹着心的光",
+      "onboard_time": 1720686619,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191928,
@@ -6971,6 +6995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187335,
+      "num": 187335,
+      "word": "李羲承粉发",
+      "onboard_time": 1720686678,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 187189,
       "num": 187189,
       "word": "LNG战胜WBG",
@@ -7017,14 +7049,6 @@
       "onboard_time": 1720563672,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185814,
-      "num": 185814,
-      "word": "电影默杀",
-      "onboard_time": 1720336219,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 185645,
@@ -7433,14 +7457,6 @@
       "onboard_time": 1720497623,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177146,
-      "num": 177146,
-      "word": "Uzi直播人气严重下滑",
-      "onboard_time": 1720685778,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 177066,
@@ -7995,6 +8011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165746,
+      "num": 165746,
+      "word": "2024PEL花傲天杯总决赛",
+      "onboard_time": 1720686678,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "Faker亚索",
@@ -8073,6 +8097,14 @@
       "onboard_time": 1720588458,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164545,
+      "num": 164545,
+      "word": "Knight身体不适",
+      "onboard_time": 1720685958,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 164426,
@@ -8713,14 +8745,6 @@
       "onboard_time": 1720582758,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149859,
-      "num": 149859,
-      "word": "Knight身体不适",
-      "onboard_time": 1720685958,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 149825,
@@ -9827,6 +9851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129423,
+      "num": 129423,
+      "word": "杨紫露肩白裙",
+      "onboard_time": 1720686139,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129248,
       "num": 129248,
       "word": "华晨宇演唱会密密麻麻的灯",
@@ -10531,6 +10563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 116180,
+      "num": 116180,
+      "word": "少年歌行爸爸篇",
+      "onboard_time": 1720686859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116079,
       "num": 1400871,
       "word": "美情报界编造一黑客组织来抹黑中国",
@@ -10777,14 +10817,6 @@
       "onboard_time": 1720484958,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112157,
-      "num": 112157,
-      "word": "杨紫露肩白裙",
-      "onboard_time": 1720686139,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 111840,
@@ -11427,6 +11459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98186,
+      "num": 577423,
+      "word": "自动驾驶来了你是怕还是盼",
+      "onboard_time": 1720685418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98059,
       "num": 98059,
       "word": "央行将开展临时正回购或逆回购操作",
@@ -11481,6 +11521,14 @@
       "onboard_time": 1720400236,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 96459,
+      "num": 1039808,
+      "word": "暴雨天要牢记这10个安全提醒",
+      "onboard_time": 1720686197,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96202,
@@ -12115,14 +12163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65817,
-      "num": 532625,
-      "word": "自动驾驶来了你是怕还是盼",
-      "onboard_time": 1720685418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65617,
       "num": 65617,
       "word": "不ban小炮",
@@ -12369,14 +12409,6 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57922,
-      "num": 995197,
-      "word": "暴雨天要牢记这10个安全提醒",
-      "onboard_time": 1720686197,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57282,

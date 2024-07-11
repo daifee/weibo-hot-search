@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720686268703,
+  "endTime": 1720687056307,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383576,
+      "num": 1383576,
+      "word": "冉莹颖夫妇创业七年卖掉所有房产",
+      "onboard_time": 1720683138,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1379341,
       "num": 1379341,
       "word": "女清洁工消失在垃圾压缩箱",
       "onboard_time": 1720626077,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1361591,
-      "num": 1361591,
-      "word": "冉莹颖夫妇创业七年卖掉所有房产",
-      "onboard_time": 1720683138,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1321991,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039164,
+      "num": 1039164,
+      "word": "教育局暑假招教师照看干部子女",
+      "onboard_time": 1720684459,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037079,
       "num": 1037079,
       "word": "深圳湾出现地球唯一蓝血生物",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 903592,
-      "num": 903592,
-      "word": "教育局暑假招教师照看干部子女",
-      "onboard_time": 1720684459,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 871796,
+      "num": 871796,
+      "word": "大胖媳妇失散36年的爹找到了",
+      "onboard_time": 1720683678,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 865840,
@@ -137,14 +145,6 @@
       "onboard_time": 1720665677,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862138,
-      "num": 862138,
-      "word": "大胖媳妇失散36年的爹找到了",
-      "onboard_time": 1720683678,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 861810,
@@ -323,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580512,
+      "num": 580512,
+      "word": "半夜1点弟弟到姐姐屋蹭空调",
+      "onboard_time": 1720682657,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 576808,
+      "num": 576808,
+      "word": "东营",
+      "onboard_time": 1720684999,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 572848,
       "num": 254901,
       "word": "睡觉把手举过头顶小心得这种病",
@@ -427,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466947,
+      "num": 441679,
+      "word": "杨紫长相思2见面会穿高定",
+      "onboard_time": 1720679299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465125,
       "num": 465125,
       "word": "林俊杰曾考虑过退出娱乐圈",
@@ -465,22 +489,6 @@
       "onboard_time": 1720662618,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446591,
-      "num": 446591,
-      "word": "半夜1点弟弟到姐姐屋蹭空调",
-      "onboard_time": 1720682657,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 441679,
-      "num": 441679,
-      "word": "杨紫长相思2见面会穿高定",
-      "onboard_time": 1720679299,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 426081,
@@ -545,14 +553,6 @@
       "onboard_time": 1720675459,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369863,
-      "num": 369863,
-      "word": "东营",
-      "onboard_time": 1720684999,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 361657,
@@ -723,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295206,
+      "num": 295206,
+      "word": "萝卜快跑回应车内有摄像头监控",
+      "onboard_time": 1720684878,
+      "rank": 23,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "张钧甯是学法的",
@@ -753,14 +761,6 @@
       "onboard_time": 1720681758,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266108,
-      "num": 266108,
-      "word": "萝卜快跑回应车内有摄像头监控",
-      "onboard_time": 1720684878,
-      "rank": 23,
-      "category": "汽车,互联网"
     },
     {
       "raw_hot": 265816,
@@ -859,20 +859,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 241457,
+      "num": 241457,
+      "word": "入职一个月公司又在招聘我的岗位",
+      "onboard_time": 1720684037,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233469,
       "num": 233469,
       "word": "雷军将重回小米手机发布会",
       "onboard_time": 1720666877,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 229790,
-      "num": 229790,
-      "word": "入职一个月公司又在招聘我的岗位",
-      "onboard_time": 1720684037,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 229750,
@@ -987,8 +987,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213374,
-      "num": 213374,
+      "raw_hot": 214429,
+      "num": 214429,
       "word": "孙颖莎说为国而战是最大使命",
       "onboard_time": 1720683497,
       "rank": 28,
@@ -1091,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204617,
+      "num": 204617,
+      "word": "Uzi直播人气严重下滑",
+      "onboard_time": 1720685778,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204509,
       "num": 204509,
       "word": "小芒 票价",
@@ -1155,12 +1163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195267,
+      "num": 195267,
+      "word": "电影默杀",
+      "onboard_time": 1720685958,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194439,
       "num": 194439,
       "word": "菲律宾附近海域7.0级地震",
       "onboard_time": 1720667537,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191960,
+      "num": 185258,
+      "word": "谁唱林俊杰裹着心的光",
+      "onboard_time": 1720686619,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 190211,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1720664836,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187335,
+      "num": 187335,
+      "word": "李羲承粉发",
+      "onboard_time": 1720686678,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186477,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1720605918,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177146,
-      "num": 177146,
-      "word": "Uzi直播人气严重下滑",
-      "onboard_time": 1720685778,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 175406,
@@ -1307,20 +1331,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166214,
-      "num": 166214,
-      "word": "电影默杀",
-      "onboard_time": 1720685958,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166038,
       "num": 166038,
       "word": "谭松韵收视女王",
       "onboard_time": 1720657458,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165746,
+      "num": 165746,
+      "word": "2024PEL花傲天杯总决赛",
+      "onboard_time": 1720686678,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 165682,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1720682958,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164545,
+      "num": 164545,
+      "word": "Knight身体不适",
+      "onboard_time": 1720685958,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 163425,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1720684760,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149859,
-      "num": 149859,
-      "word": "Knight身体不适",
-      "onboard_time": 1720685958,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 148924,
@@ -1595,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129423,
+      "num": 129423,
+      "word": "杨紫露肩白裙",
+      "onboard_time": 1720686139,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129248,
       "num": 129248,
       "word": "华晨宇演唱会密密麻麻的灯",
@@ -1731,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116180,
+      "num": 116180,
+      "word": "少年歌行爸爸篇",
+      "onboard_time": 1720686859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115785,
       "num": 115785,
       "word": "英格兰 命硬",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1720619899,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112157,
-      "num": 112157,
-      "word": "杨紫露肩白裙",
-      "onboard_time": 1720686139,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 110728,
@@ -1891,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98186,
+      "num": 577423,
+      "word": "自动驾驶来了你是怕还是盼",
+      "onboard_time": 1720685418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97904,
       "num": 97904,
       "word": "避免社交我在高铁上装作韩国人",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1720629316,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96459,
+      "num": 1039808,
+      "word": "暴雨天要牢记这10个安全提醒",
+      "onboard_time": 1720686197,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93815,
@@ -2067,14 +2115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65817,
-      "num": 532625,
-      "word": "自动驾驶来了你是怕还是盼",
-      "onboard_time": 1720685418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64010,
       "num": 64010,
       "word": "这老师是学生的清汤大老爷吧",
@@ -2113,14 +2153,6 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57922,
-      "num": 995197,
-      "word": "暴雨天要牢记这10个安全提醒",
-      "onboard_time": 1720686197,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53921,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720687056307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383576,
+        "num": 1383576,
+        "word": "冉莹颖夫妇创业七年卖掉所有房产",
+        "onboard_time": 1720683138,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1047390,
+        "num": 1047390,
+        "word": "泰国21岁僧侣惨死庙中",
+        "onboard_time": 1720678458,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96459,
+        "num": 1039808,
+        "word": "暴雨天要牢记这10个安全提醒",
+        "onboard_time": 1720686197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039164,
+        "num": 1039164,
+        "word": "教育局暑假招教师照看干部子女",
+        "onboard_time": 1720684459,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871796,
+        "num": 871796,
+        "word": "大胖媳妇失散36年的爹找到了",
+        "onboard_time": 1720683678,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 709107,
+        "num": 709107,
+        "word": "歌手歌单",
+        "onboard_time": 1720684037,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672517,
+        "num": 672517,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580512,
+        "num": 580512,
+        "word": "半夜1点弟弟到姐姐屋蹭空调",
+        "onboard_time": 1720682657,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 578969,
+        "num": 578969,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98186,
+        "num": 577423,
+        "word": "自动驾驶来了你是怕还是盼",
+        "onboard_time": 1720685418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576808,
+        "num": 576808,
+        "word": "东营",
+        "onboard_time": 1720684999,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 554291,
+        "num": 554291,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383237,
+        "num": 383237,
+        "word": "iPhone16至19系列相机路线图",
+        "onboard_time": 1720681938,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 466947,
+        "num": 381499,
+        "word": "杨紫长相思2见面会穿高定",
+        "onboard_time": 1720679299,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375000,
+        "num": 375000,
+        "word": "苹果长出蘑菇女子赠送用于研究",
+        "onboard_time": 1720677317,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337885,
+        "num": 337885,
+        "word": "又要熬夜看奥运比赛了",
+        "onboard_time": 1720680978,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327276,
+        "num": 327276,
+        "word": "深圳湾出现地球唯一蓝血生物",
+        "onboard_time": 1720675638,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324557,
+        "num": 324557,
+        "word": "邓为狐狸胸针",
+        "onboard_time": 1720680198,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309258,
+        "num": 309258,
+        "word": "A股上涨个股近5000只",
+        "onboard_time": 1720682117,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295206,
+        "num": 295206,
+        "word": "萝卜快跑回应车内有摄像头监控",
+        "onboard_time": 1720684878,
+        "rank": 19,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 369085,
+        "num": 292712,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289094,
+        "num": 289094,
+        "word": "重庆垫江强降雨已致6死",
+        "onboard_time": 1720679899,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241457,
+        "num": 241457,
+        "word": "入职一个月公司又在招聘我的岗位",
+        "onboard_time": 1720684037,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218854,
+        "num": 218854,
+        "word": "武汉退车的出租车司机数量变多",
+        "onboard_time": 1720674021,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214429,
+        "num": 214429,
+        "word": "孙颖莎说为国而战是最大使命",
+        "onboard_time": 1720683497,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209952,
+        "num": 209952,
+        "word": "小水回应与小九分手",
+        "onboard_time": 1720677439,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206485,
+        "num": 206485,
+        "word": "凤凰传奇 到底是谁抢到了",
+        "onboard_time": 1720672519,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204617,
+        "num": 204617,
+        "word": "Uzi直播人气严重下滑",
+        "onboard_time": 1720685778,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201586,
+        "num": 201586,
+        "word": "张晚意清唱了万物不如你",
+        "onboard_time": 1720681758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196469,
+        "num": 196469,
+        "word": "林俊杰演唱会可能看一场少一场",
+        "onboard_time": 1720686018,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195267,
+        "num": 195267,
+        "word": "电影默杀",
+        "onboard_time": 1720685958,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190461,
+        "num": 190461,
+        "word": "杨紫玩游戏举报邓为",
+        "onboard_time": 1720682239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187335,
+        "num": 187335,
+        "word": "李羲承粉发",
+        "onboard_time": 1720686678,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186381,
+        "num": 186381,
+        "word": "长相思见面会",
+        "onboard_time": 1720676058,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191960,
+        "num": 185258,
+        "word": "谁唱林俊杰裹着心的光",
+        "onboard_time": 1720686619,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176534,
+        "num": 176534,
+        "word": "清华大学师生买迪士尼门票享八折",
+        "onboard_time": 1720681039,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 165746,
+        "num": 165746,
+        "word": "2024PEL花傲天杯总决赛",
+        "onboard_time": 1720686678,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164545,
+        "num": 164545,
+        "word": "Knight身体不适",
+        "onboard_time": 1720685958,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156177,
+        "num": 156177,
+        "word": "王一博申请限消晗晗qvq",
+        "onboard_time": 1720672339,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175925,
+        "num": 150294,
+        "word": "林俊杰曾考虑过退出娱乐圈",
+        "onboard_time": 1720675277,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143598,
+        "num": 143598,
+        "word": "女子4次漏扫码被刑拘",
+        "onboard_time": 1720668679,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143569,
+        "num": 143569,
+        "word": "3人1次要买50万黄金店员拒绝并报警",
+        "onboard_time": 1720672281,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130326,
+        "num": 130326,
+        "word": "歌手第十期演唱预测",
+        "onboard_time": 1720684760,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "杨紫露肩白裙",
+        "onboard_time": 1720686139,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124917,
+        "num": 124917,
+        "word": "基金经理1年半亏40%降职为助理",
+        "onboard_time": 1720681039,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124119,
+        "num": 124119,
+        "word": "黄觉说肖战很幽默",
+        "onboard_time": 1720681218,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116180,
+        "num": 116180,
+        "word": "少年歌行爸爸篇",
+        "onboard_time": 1720686859,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114893,
+        "num": 114893,
+        "word": "萝卜快跑车内有摄像头隐私怎么办",
+        "onboard_time": 1720685958,
+        "rank": 47,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 113874,
+        "num": 113874,
+        "word": "蜜雪冰城就冰杯事件致歉",
+        "onboard_time": 1720678158,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106195,
+        "num": 113225,
+        "word": "阚清子说梨型身材没事",
+        "onboard_time": 1720675459,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
