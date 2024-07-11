@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720697694670,
+  "endTime": 1720701428427,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1027,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293178,
+      "num": 618705,
+      "word": "谢欣桐小黄分手",
+      "onboard_time": 1720697659,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1291766,
       "num": 1291766,
       "word": "女子读研8年获学位证仅11天被作废",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1720184059,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 973107,
+      "num": 973107,
+      "word": "刘诗诗穿了未发布款高定",
+      "onboard_time": 1720697417,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 969275,
@@ -2716,7 +2732,7 @@
     },
     {
       "raw_hot": 806864,
-      "num": 214439,
+      "num": 214546,
       "word": "实习一个月净收入14元",
       "onboard_time": 1720689858,
       "rank": 25,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1720403897,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596885,
+      "num": 596885,
+      "word": "BOSS直聘崩了",
+      "onboard_time": 1720699279,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 596716,
@@ -6739,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454987,
+      "num": 454987,
+      "word": "孙颖莎比赛",
+      "onboard_time": 1720699698,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454903,
       "num": 454903,
       "word": "女子称养父去世后堂哥要求继承房产",
@@ -6881,6 +6913,14 @@
       "onboard_time": 1720342938,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450270,
+      "num": 219252,
+      "word": "体制内领导让我把微信头像换了",
+      "onboard_time": 1720697897,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 450049,
@@ -7251,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437023,
+      "num": 218264,
+      "word": "偷偷瘦了20斤后见到朋友内心belike",
+      "onboard_time": 1720694717,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 436929,
       "num": 436929,
       "word": "中国地铁站有厕所让老外破防",
@@ -7529,6 +7577,14 @@
       "onboard_time": 1720500619,
       "rank": 13,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 422717,
+      "num": 422717,
+      "word": "张晚意问媒体您不满意是吗",
+      "onboard_time": 1720696039,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 422355,
@@ -8259,14 +8315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 385525,
-      "num": 213216,
-      "word": "偷偷瘦了20斤后见到朋友内心belike",
-      "onboard_time": 1720694717,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 384556,
       "num": 384556,
       "word": "刘亦菲小魔女妆造",
@@ -8577,6 +8625,14 @@
       "onboard_time": 1720258398,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 374633,
+      "num": 374633,
+      "word": "外交部回应日自卫队舰艇进入中国领海",
+      "onboard_time": 1720696039,
+      "rank": 31,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 374480,
@@ -9009,6 +9065,14 @@
       "onboard_time": 1720338317,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354237,
+      "num": 354237,
+      "word": "贾玲或将回归王牌9",
+      "onboard_time": 1720699878,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 354102,
@@ -9771,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328522,
+      "num": 328522,
+      "word": "谢霆锋 王菲战斗粉",
+      "onboard_time": 1720698260,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328299,
       "num": 328299,
       "word": "TES对战G2",
@@ -9945,6 +10017,14 @@
       "onboard_time": 1719889397,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322693,
+      "num": 322693,
+      "word": "影后和顶流 从年少到白头",
+      "onboard_time": 1720700239,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 322320,
@@ -10907,6 +10987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286839,
+      "num": 211912,
+      "word": "五点半和六点下班真不一样",
+      "onboard_time": 1720695319,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "唐嫣刘亦菲佟大为早期合照",
@@ -11177,14 +11265,6 @@
       "onboard_time": 1720186461,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277215,
-      "num": 196339,
-      "word": "五点半和六点下班真不一样",
-      "onboard_time": 1720695319,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 276971,
@@ -13611,14 +13691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213999,
-      "num": 213999,
-      "word": "外交部回应日自卫队舰艇进入中国领海",
-      "onboard_time": 1720696039,
-      "rank": 31,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 213867,
       "num": 213867,
       "word": "成毅赴山海威亚路透",
@@ -13795,14 +13867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210960,
-      "num": 210960,
-      "word": "张晚意问媒体您不满意是吗",
-      "onboard_time": 1720696039,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210783,
       "num": 210783,
       "word": "歌手翻译 吃掉我的话",
@@ -13961,6 +14025,14 @@
       "onboard_time": 1720447760,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208944,
+      "num": 208944,
+      "word": "iQOO手机",
+      "onboard_time": 1720700778,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 208812,
@@ -15283,6 +15355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196918,
+      "num": 196918,
+      "word": "要了你文学",
+      "onboard_time": 1720698678,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196853,
       "num": 196853,
       "word": "德国vs西班牙",
@@ -15387,6 +15467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196087,
+      "num": 196087,
+      "word": "做一休一的班到底谁在上",
+      "onboard_time": 1720697238,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196044,
       "num": 166849,
       "word": "吴谨言GLASS盛典路透",
@@ -15473,14 +15561,6 @@
       "onboard_time": 1719991698,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195613,
-      "num": 195613,
-      "word": "刘诗诗穿了未发布款高定",
-      "onboard_time": 1720697417,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195466,
@@ -15875,6 +15955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191480,
+      "num": 191480,
+      "word": "绽放巴黎",
+      "onboard_time": 1720700837,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191410,
       "num": 191410,
       "word": "79秒看懂洞庭湖决堤全过程",
@@ -16185,6 +16273,14 @@
       "onboard_time": 1719979338,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189513,
+      "num": 189513,
+      "word": "亲姐姐不来参加我的婚礼",
+      "onboard_time": 1720699638,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 189503,
@@ -17859,6 +17955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172491,
+      "num": 172491,
+      "word": "周深布达佩斯街头唱美声",
+      "onboard_time": 1720700239,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172451,
       "num": 172451,
       "word": "疱疹性咽峡炎高发季",
@@ -19195,6 +19299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159223,
+      "num": 159223,
+      "word": "林一簪花",
+      "onboard_time": 1720698558,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159135,
       "num": 159135,
       "word": "Uzi谈自己名人堂皮肤",
@@ -20177,6 +20289,14 @@
       "onboard_time": 1719904818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150936,
+      "num": 150936,
+      "word": "减肥对颜值的改变有多大",
+      "onboard_time": 1720700419,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 150928,
@@ -22003,6 +22123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137389,
+      "num": 137389,
+      "word": "马嘉祺拍摄间歇冒个头",
+      "onboard_time": 1720699939,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137345,
       "num": 137345,
       "word": "华晨宇直播",
@@ -23209,6 +23337,14 @@
       "onboard_time": 1720359378,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128866,
+      "num": 128866,
+      "word": "JDG迎来首胜",
+      "onboard_time": 1720699157,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 128803,
@@ -24675,20 +24811,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 117595,
-      "num": 117595,
-      "word": "谢欣桐小黄分手",
-      "onboard_time": 1720697659,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 117417,
       "num": 117417,
       "word": "时代少年团回应刘耀文脚受伤",
       "onboard_time": 1720169298,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117190,
+      "num": 117190,
+      "word": "阳朔西街男子疑似猥亵多名女性",
+      "onboard_time": 1720701077,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117159,
@@ -25347,6 +25483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112067,
+      "num": 112067,
+      "word": "他们卖不出西瓜我们买不起西瓜",
+      "onboard_time": 1720701258,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "奖杯底座",
@@ -25433,6 +25577,14 @@
       "onboard_time": 1719990498,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 111179,
+      "num": 111179,
+      "word": "年轻人做饭现状",
+      "onboard_time": 1720700178,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111071,
@@ -30003,6 +30155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37695,
+      "num": 111872,
+      "word": "百米跑道上一个倒霉蛋的故事",
+      "onboard_time": 1720699217,
+      "rank": 45,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 37501,
       "num": 38691,
       "word": "魔方新世界排名",
@@ -30195,12 +30355,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 35536,
+      "num": 138728,
+      "word": "iQOO太会拿捏大学生了",
+      "onboard_time": 1720700659,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35425,
       "num": 46309,
       "word": "华晨宇宠爱粉存货照",
       "onboard_time": 1720457593,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35372,
+      "num": 311361,
+      "word": "细心护士坚持拦停救了七旬老人",
+      "onboard_time": 1720698678,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35224,
