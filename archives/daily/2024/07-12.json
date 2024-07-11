@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720733679943,
+  "endTime": 1720736336877,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142173,
+      "num": 122382,
+      "word": "长期早醒或预示了4个疾病",
+      "onboard_time": 1720714217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140167,
       "num": 133271,
       "word": "长相思热度",
@@ -201,14 +209,6 @@
       "onboard_time": 1720704979,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135159,
-      "num": 122382,
-      "word": "长期早醒或预示了4个疾病",
-      "onboard_time": 1720714217,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132993,
@@ -419,6 +419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 63011,
+      "num": 36396,
+      "word": "生完宝宝肚子上的黑线会消失吗",
+      "onboard_time": 1720728191,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 59539,
       "num": 72422,
       "word": "谢霆锋 王菲战斗粉",
@@ -441,14 +449,6 @@
       "onboard_time": 1720717694,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48014,
-      "num": 25049,
-      "word": "生完宝宝肚子上的黑线会消失吗",
-      "onboard_time": 1720728191,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 47664,
@@ -483,6 +483,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 33574,
+      "num": 48186,
+      "word": "北大发文祝福要去敦煌的考古女孩",
+      "onboard_time": 1720722431,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29738,
       "num": 29738,
       "word": "Red女团首专OrientalRed",
@@ -499,12 +507,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23549,
-      "num": 20215,
+      "raw_hot": 28283,
+      "num": 28283,
       "word": "男子伤妻女外孙后逃匿后自杀身亡",
       "onboard_time": 1720726931,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 24554,
+      "num": 24554,
+      "word": "杨超越路人拍比精修好看",
+      "onboard_time": 1720727471,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23074,
+      "num": 24315,
+      "word": "小猫抱着小鱼的样子好可爱",
+      "onboard_time": 1720734371,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22974,
+      "num": 24310,
+      "word": "刚出生的刺猬被女孩救活当宠物养大",
+      "onboard_time": 1720729389,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 21400,
@@ -515,28 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21321,
-      "num": 21321,
-      "word": "杨超越路人拍比精修好看",
-      "onboard_time": 1720727471,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20545,
-      "num": 20545,
+      "num": 24295,
       "word": "刘德华2580元门票被炒到68880元",
       "onboard_time": 1720723751,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19019,
-      "num": 48186,
-      "word": "北大发文祝福要去敦煌的考古女孩",
-      "onboard_time": 1720722431,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18956,
@@ -547,12 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17206,
-      "num": 17206,
-      "word": "刚出生的刺猬被女孩救活当宠物养大",
-      "onboard_time": 1720729389,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 18221,
+      "num": 24289,
+      "word": "官方回应萝卜快跑被指低价扰乱市场",
+      "onboard_time": 1720735631,
+      "rank": 49,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 15887,
+      "num": 56869,
+      "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
+      "onboard_time": 1720735692,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13905,
