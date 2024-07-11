@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720732843439,
+  "endTime": 1720733679943,
   "band_list": [
     {
       "raw_hot": 905980,
@@ -443,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 48014,
+      "num": 25049,
+      "word": "生完宝宝肚子上的黑线会消失吗",
+      "onboard_time": 1720728191,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 47664,
       "num": 55113,
       "word": "中餐厅杀青",
@@ -475,14 +483,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 30013,
-      "num": 24701,
-      "word": "生完宝宝肚子上的黑线会消失吗",
-      "onboard_time": 1720728191,
-      "rank": 42,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 29738,
       "num": 29738,
       "word": "Red女团首专OrientalRed",
@@ -499,8 +499,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21602,
-      "num": 20012,
+      "raw_hot": 23549,
+      "num": 20215,
       "word": "男子伤妻女外孙后逃匿后自杀身亡",
       "onboard_time": 1720726931,
       "rank": 32,
@@ -515,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21321,
+      "num": 21321,
+      "word": "杨超越路人拍比精修好看",
+      "onboard_time": 1720727471,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20545,
       "num": 20545,
       "word": "刘德华2580元门票被炒到68880元",
       "onboard_time": 1720723751,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20431,
-      "num": 20431,
-      "word": "杨超越路人拍比精修好看",
-      "onboard_time": 1720727471,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 19019,
@@ -547,8 +547,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15437,
-      "num": 16530,
+      "raw_hot": 17206,
+      "num": 17206,
       "word": "刚出生的刺猬被女孩救活当宠物养大",
       "onboard_time": 1720729389,
       "rank": 48,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 13347,
-      "num": 15951,
+      "num": 17111,
       "word": "春野樱 喜爱女角色第一",
       "onboard_time": 1720730652,
       "rank": 48,
@@ -579,8 +579,16 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 12800,
+      "num": 17093,
+      "word": "北大发文祝福钟芳蓉",
+      "onboard_time": 1720726812,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12439,
-      "num": 15949,
+      "num": 17081,
       "word": "知道为啥要支蚊帐了吧",
       "onboard_time": 1720732690,
       "rank": 49,
