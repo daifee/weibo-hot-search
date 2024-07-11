@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720654576208,
+  "endTime": 1720661009759,
   "band_list": [
     {
       "raw_hot": 1379341,
@@ -11,12 +11,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1321991,
+      "num": 1321991,
+      "word": "俄罗斯人挤爆三亚",
+      "onboard_time": 1720654155,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1078459,
+      "num": 1078459,
+      "word": "男子凌晨发现家里多出一个孩子",
+      "onboard_time": 1720658417,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 831821,
-      "num": 148655,
+      "num": 252707,
       "word": "入职了情趣用品公司不敢告诉妈妈",
       "onboard_time": 1720616418,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792182,
+      "num": 792182,
+      "word": "iPhone16出货量或达9000万部",
+      "onboard_time": 1720657279,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 692881,
@@ -25,6 +49,22 @@
       "onboard_time": 1720619420,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 656894,
+      "num": 656894,
+      "word": "蜜雪冰城回应门店拒卖冰杯",
+      "onboard_time": 1720655057,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654341,
+      "num": 654341,
+      "word": "苹果用户换机周期变长",
+      "onboard_time": 1720658358,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 635925,
@@ -43,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616681,
+      "num": 616681,
+      "word": "檀健次回应演技油腻",
+      "onboard_time": 1720655176,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603787,
       "num": 603787,
       "word": "印度一对父子牵手卧轨身亡",
@@ -52,11 +100,27 @@
     },
     {
       "raw_hot": 572848,
-      "num": 148370,
+      "num": 254901,
       "word": "睡觉把手举过头顶小心得这种病",
       "onboard_time": 1720625658,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 565446,
+      "num": 565446,
+      "word": "小夭不爱涂山璟唯爱叶十七",
+      "onboard_time": 1720654576,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 499795,
+      "num": 499795,
+      "word": "因买家秀显肚子被女装商家要求删除",
+      "onboard_time": 1720660039,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470412,
@@ -83,12 +147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450049,
+      "num": 450049,
+      "word": "官方通报不在家每年仍要交96元水费",
+      "onboard_time": 1720658358,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406733,
       "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
       "onboard_time": 1720626677,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361657,
+      "num": 361657,
+      "word": "杨丞琳连续十年为李荣浩庆生",
+      "onboard_time": 1720655477,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 358082,
@@ -104,6 +184,14 @@
       "word": "涂山璟粉底液避雷",
       "onboard_time": 1720618219,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 336590,
+      "num": 336590,
+      "word": "骄阳伴我台湾陆剧冠军",
+      "onboard_time": 1720654335,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -123,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306494,
+      "num": 252500,
+      "word": "13岁尿毒症晚期男孩深夜捡废品",
+      "onboard_time": 1720653795,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296813,
       "num": 296813,
       "word": "伦纳德退出美国男篮",
@@ -139,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284037,
+      "num": 284037,
+      "word": "越来越多美国人正抛弃智能手机",
+      "onboard_time": 1720659979,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281519,
       "num": 281519,
       "word": "罪犯得知儿子高考697分喜极而泣",
@@ -147,12 +251,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 265556,
+      "num": 265556,
+      "word": "张晚意 说你那是红的就是红的",
+      "onboard_time": 1720654335,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 264126,
+      "num": 264126,
+      "word": "鞠婧祎林允撞衫",
+      "onboard_time": 1720655237,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262708,
       "num": 262708,
       "word": "女子称晒背10天瘦了4斤",
       "onboard_time": 1720608678,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255109,
+      "num": 255109,
+      "word": "张钧甯是学法的",
+      "onboard_time": 1720658900,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 244459,
@@ -203,12 +331,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209183,
+      "num": 209183,
+      "word": "经常缺觉的人记忆力损伤不可逆",
+      "onboard_time": 1720656739,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205852,
       "num": 205852,
       "word": "日本两男子将同事放洗衣机搅拌",
       "onboard_time": 1720616418,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203376,
+      "num": 203376,
+      "word": "英格兰读秒绝杀",
+      "onboard_time": 1720655358,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195960,
@@ -243,12 +387,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177208,
+      "num": 177208,
+      "word": "李荣浩穿的是杨丞琳的周边",
+      "onboard_time": 1720660759,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169605,
+      "num": 169605,
+      "word": "朋友被裁员拿到了50万经济补偿",
+      "onboard_time": 1720614739,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166038,
+      "num": 166038,
+      "word": "谭松韵收视女王",
+      "onboard_time": 1720657458,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165682,
       "num": 165682,
       "word": "官方调查殡仪馆8个花篮13800元",
       "onboard_time": 1720621820,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153831,
+      "num": 153831,
+      "word": "乌拉圭vs哥伦比亚",
+      "onboard_time": 1720658838,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151778,
@@ -265,14 +441,6 @@
       "onboard_time": 1720621338,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142715,
-      "num": 142715,
-      "word": "俄罗斯人挤爆三亚",
-      "onboard_time": 1720654155,
-      "rank": 16,
-      "category": "旅游"
     },
     {
       "raw_hot": 138916,
@@ -331,12 +499,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129889,
-      "num": 129889,
-      "word": "朋友被裁员拿到了50万经济补偿",
-      "onboard_time": 1720614739,
+      "raw_hot": 127406,
+      "num": 127406,
+      "word": "范戴克质疑裁判",
+      "onboard_time": 1720658358,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122487,
+      "num": 122487,
+      "word": "不换贝林厄姆 换福登",
+      "onboard_time": 1720656079,
       "rank": 35,
-      "category": "情感"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120177,
+      "num": 120177,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119616,
@@ -355,12 +539,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 117995,
+      "num": 117995,
+      "word": "穿短袖的超级英雄爬墙救5岁女童",
+      "onboard_time": 1720654637,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 117710,
       "num": 117710,
       "word": "肖战法国限定记录",
       "onboard_time": 1720654455,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116885,
+      "num": 116885,
+      "word": "女子赶海抓到章鱼星人到家神秘消失",
+      "onboard_time": 1720654455,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114524,
@@ -385,6 +585,22 @@
       "onboard_time": 1720619899,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112468,
+      "num": 112468,
+      "word": "男子深山爆胎偶遇于东来冒雨救援",
+      "onboard_time": 1720656559,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110718,
+      "num": 110718,
+      "word": "这个家没了上官雅得散",
+      "onboard_time": 1720660759,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 108446,
@@ -427,12 +643,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "奶茶品牌集体降价进入10元时代",
+      "onboard_time": 1720630994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102739,
       "num": 68517,
       "word": "荷兰vs英格兰裁判",
       "onboard_time": 1720646112,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101974,
+      "num": 101974,
+      "word": "欧洲杯",
+      "onboard_time": 1720655298,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101077,
+      "num": 108537,
+      "word": "老人接诈骗电话后存折上的27万被转走",
+      "onboard_time": 1720654455,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99501,
@@ -459,20 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97527,
-      "num": 97527,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
+      "raw_hot": 97487,
+      "num": 97487,
+      "word": "英格兰 命硬",
+      "onboard_time": 1720656437,
       "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96499,
-      "num": 96499,
-      "word": "13岁尿毒症晚期男孩深夜捡废品",
-      "onboard_time": 1720653795,
-      "rank": 32,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 93815,
@@ -507,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89196,
+      "num": 96225,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 88602,
       "num": 88602,
       "word": "这5种水果晚上千万别吃",
@@ -539,20 +779,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81896,
+      "num": 518385,
+      "word": "千岛湖朝霞是懂浪漫的",
+      "onboard_time": 1720660039,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81394,
       "num": 88581,
       "word": "张馨予的37岁状态",
       "onboard_time": 1720620379,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80543,
-      "num": 80543,
-      "word": "奶茶品牌集体降价进入10元时代",
-      "onboard_time": 1720630994,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79428,
@@ -587,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68809,
-      "num": 68809,
-      "word": "张晚意 说你那是红的就是红的",
-      "onboard_time": 1720654335,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68363,
       "num": 68363,
       "word": "729 外包",
@@ -611,28 +843,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66196,
-      "num": 66196,
-      "word": "骄阳伴我台湾陆剧冠军",
-      "onboard_time": 1720654335,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 65398,
-      "num": 65398,
-      "word": "女子赶海抓到章鱼星人到家神秘消失",
-      "onboard_time": 1720654455,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64010,
       "num": 64010,
       "word": "这老师是学生的清汤大老爷吧",
       "onboard_time": 1720653915,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62684,
+      "num": 934231,
+      "word": "我国东南地区再添天然气输送大动脉",
+      "onboard_time": 1720618639,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61043,
@@ -697,14 +921,6 @@
       "onboard_time": 1720631176,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42229,
-      "num": 471310,
-      "word": "我国东南地区再添天然气输送大动脉",
-      "onboard_time": 1720618639,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41350,
@@ -785,14 +1001,6 @@
       "onboard_time": 1720641251,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32668,
-      "num": 108537,
-      "word": "老人接诈骗电话后存折上的27万被转走",
-      "onboard_time": 1720654455,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31976,
