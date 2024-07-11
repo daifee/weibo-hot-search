@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720668242860,
+  "endTime": 1720669041991,
   "band_list": [
     {
       "raw_hot": 1713718,
@@ -9,6 +9,14 @@
       "onboard_time": 1720662558,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1465514,
+      "num": 1465514,
+      "word": "北约首次直接警告中国",
+      "onboard_time": 1720667957,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1411036,
@@ -68,11 +76,19 @@
     },
     {
       "raw_hot": 863960,
-      "num": 265521,
+      "num": 293866,
       "word": "女子180万卖掉杭州房子120万买回",
       "onboard_time": 1720665677,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861810,
+      "num": 861810,
+      "word": "唐朝诡事录把黄梅杀续上了",
+      "onboard_time": 1720666877,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 831821,
@@ -89,14 +105,6 @@
       "onboard_time": 1720657279,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 741261,
-      "num": 741261,
-      "word": "唐朝诡事录把黄梅杀续上了",
-      "onboard_time": 1720666877,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 723885,
@@ -195,8 +203,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514562,
-      "num": 514562,
+      "raw_hot": 544663,
+      "num": 544663,
       "word": "扬州地震",
       "onboard_time": 1720665557,
       "rank": 27,
@@ -241,14 +249,6 @@
       "onboard_time": 1720662618,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447725,
-      "num": 447725,
-      "word": "北约首次直接警告中国",
-      "onboard_time": 1720667957,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 406733,
@@ -305,6 +305,14 @@
       "onboard_time": 1720618219,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338032,
+      "num": 338032,
+      "word": "我们的歌第六季定档",
+      "onboard_time": 1720667717,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 336590,
@@ -395,6 +403,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 277105,
+      "num": 277105,
+      "word": "迪士尼收割中产父母",
+      "onboard_time": 1720667238,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 272139,
+      "num": 272139,
+      "word": "蔡徐坤起诉多人侵权",
+      "onboard_time": 1720668798,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265816,
       "num": 265816,
       "word": "这个家没了上官雅得散",
@@ -475,28 +499,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227566,
+      "num": 227566,
+      "word": "雷军将重回小米手机发布会",
+      "onboard_time": 1720666877,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 224642,
       "num": 224642,
       "word": "王一博香奈儿晚宴路透",
       "onboard_time": 1720621459,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223161,
-      "num": 223161,
-      "word": "我们的歌第六季定档",
-      "onboard_time": 1720667717,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 218231,
-      "num": 218231,
-      "word": "雷军将重回小米手机发布会",
-      "onboard_time": 1720666877,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 215349,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209866,
+      "num": 209866,
+      "word": "郎平谈中国女排最大危机",
+      "onboard_time": 1720668017,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209183,
       "num": 209183,
       "word": "经常缺觉的人记忆力损伤不可逆",
@@ -531,12 +555,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207640,
+      "num": 207640,
+      "word": "檀健次代言戴比尔斯",
+      "onboard_time": 1720668438,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205852,
       "num": 205852,
       "word": "日本两男子将同事放洗衣机搅拌",
       "onboard_time": 1720616418,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "努涅斯和球迷互殴",
+      "onboard_time": 1720668078,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 203830,
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198507,
+      "num": 198507,
+      "word": "网友P的夭玹亲了",
+      "onboard_time": 1720666516,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -571,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194134,
-      "num": 194134,
-      "word": "网友P的夭玹亲了",
-      "onboard_time": 1720666516,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 194439,
+      "num": 194439,
+      "word": "菲律宾附近海域7.0级地震",
+      "onboard_time": 1720667537,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189360,
@@ -593,6 +641,14 @@
       "onboard_time": 1720653434,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183714,
+      "num": 183714,
+      "word": "女子4次漏扫码被刑拘",
+      "onboard_time": 1720668679,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183376,
@@ -619,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177007,
-      "num": 177007,
-      "word": "迪士尼收割中产父母",
-      "onboard_time": 1720667238,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 175406,
       "num": 151917,
       "word": "鞠婧祎回应演唱会票难抢",
@@ -635,12 +683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172200,
-      "num": 172200,
-      "word": "努涅斯和球迷互殴",
-      "onboard_time": 1720668078,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "林俊杰新歌720上线",
+      "onboard_time": 1720668918,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 171168,
@@ -707,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149080,
-      "num": 149080,
-      "word": "菲律宾附近海域7.0级地震",
-      "onboard_time": 1720667537,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "马龙最喜欢大家叫他龙队",
@@ -731,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146306,
+      "num": 146306,
+      "word": "陈哲远说三十四五岁结婚",
+      "onboard_time": 1720668618,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145175,
       "num": 145175,
       "word": "老人照顾失智女儿44年每天4点起",
@@ -739,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142238,
-      "num": 142238,
-      "word": "郎平谈中国女排最大危机",
-      "onboard_time": 1720668017,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 143479,
+      "num": 143479,
+      "word": "奔跑吧12收官物料",
+      "onboard_time": 1720668259,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 140451,
@@ -928,6 +976,14 @@
       "word": "植物大战僵尸杂交版作者初中毕业",
       "onboard_time": 1720619899,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111887,
+      "num": 447863,
+      "word": "老旧电梯总出故障为啥还不报废",
+      "onboard_time": 1720666818,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1155,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79003,
+      "num": 1162285,
+      "word": "发现最美铁路",
+      "onboard_time": 1720666216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77894,
       "num": 77894,
       "word": "苏州今晚的明星含量爆表",
       "onboard_time": 1720629076,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75571,
-      "num": 928067,
-      "word": "发现最美铁路",
-      "onboard_time": 1720666216,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71568,
@@ -1203,14 +1259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66774,
-      "num": 447863,
-      "word": "老旧电梯总出故障为啥还不报废",
-      "onboard_time": 1720666818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64010,
       "num": 64010,
       "word": "这老师是学生的清汤大老爷吧",
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 59384,
-      "num": 387097,
+      "num": 457416,
       "word": "女孩卡脖悬空男子徒手爬楼解救",
       "onboard_time": 1720664118,
       "rank": 9,
@@ -1260,7 +1308,7 @@
     },
     {
       "raw_hot": 50684,
-      "num": 183589,
+      "num": 340253,
       "word": "了不起的中国电动车",
       "onboard_time": 1720667118,
       "rank": 34,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720668242860,
+  "endTime": 1720669041991,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -233,6 +233,14 @@
       "onboard_time": 1720281679,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1465514,
+      "num": 1465514,
+      "word": "北约首次直接警告中国",
+      "onboard_time": 1720667957,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1454503,
@@ -940,11 +948,19 @@
     },
     {
       "raw_hot": 863960,
-      "num": 265521,
+      "num": 293866,
       "word": "女子180万卖掉杭州房子120万买回",
       "onboard_time": 1720665677,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861810,
+      "num": 861810,
+      "word": "唐朝诡事录把黄梅杀续上了",
+      "onboard_time": 1720666877,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 846647,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 741261,
-      "num": 741261,
-      "word": "唐朝诡事录把黄梅杀续上了",
-      "onboard_time": 1720666877,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 733463,
@@ -1979,6 +1987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 544663,
+      "num": 544663,
+      "word": "扬州地震",
+      "onboard_time": 1720274539,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543206,
       "num": 543206,
       "word": "微软中国员工禁用安卓手机",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1720598537,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 514562,
-      "num": 514562,
-      "word": "扬州地震",
-      "onboard_time": 1720274539,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513610,
@@ -2657,14 +2665,6 @@
       "onboard_time": 1720443380,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447725,
-      "num": 447725,
-      "word": "北约首次直接警告中国",
-      "onboard_time": 1720667957,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 447092,
@@ -3675,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338032,
+      "num": 338032,
+      "word": "我们的歌第六季定档",
+      "onboard_time": 1720667717,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336882,
       "num": 282261,
       "word": "长相思热度",
@@ -4403,6 +4411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277105,
+      "num": 277105,
+      "word": "迪士尼收割中产父母",
+      "onboard_time": 1720667238,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 276211,
       "num": 276211,
       "word": "罐车混用2005年已有曝光",
@@ -4441,6 +4457,14 @@
       "onboard_time": 1720595117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272139,
+      "num": 272139,
+      "word": "蔡徐坤起诉多人侵权",
+      "onboard_time": 1720668798,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271935,
@@ -5091,6 +5115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227566,
+      "num": 227566,
+      "word": "雷军将重回小米手机发布会",
+      "onboard_time": 1720666877,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227120,
       "num": 227120,
       "word": "东北冷面大大方方的",
@@ -5139,14 +5171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223161,
-      "num": 223161,
-      "word": "我们的歌第六季定档",
-      "onboard_time": 1720667717,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222144,
       "num": 222144,
       "word": "星期狗",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1720572978,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 218231,
-      "num": 218231,
-      "word": "雷军将重回小米手机发布会",
-      "onboard_time": 1720666877,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 218135,
@@ -5411,6 +5427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209866,
+      "num": 209866,
+      "word": "郎平谈中国女排最大危机",
+      "onboard_time": 1720668017,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209811,
       "num": 209811,
       "word": "医生发现了我有畸胎瘤",
@@ -5489,6 +5513,14 @@
       "onboard_time": 1720495578,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207640,
+      "num": 207640,
+      "word": "檀健次代言戴比尔斯",
+      "onboard_time": 1720668438,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207563,
@@ -5609,6 +5641,14 @@
       "onboard_time": 1720338256,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "努涅斯和球迷互殴",
+      "onboard_time": 1720668078,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 204675,
@@ -5859,6 +5899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198507,
+      "num": 198507,
+      "word": "网友P的夭玹亲了",
+      "onboard_time": 1720666516,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198434,
       "num": 198434,
       "word": "玱玹格局已经是nextlevel了",
@@ -6011,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194439,
+      "num": 194439,
+      "word": "菲律宾附近海域7.0级地震",
+      "onboard_time": 1720667537,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194318,
       "num": 194318,
       "word": "保时捷Taycan因销量下滑而减产",
@@ -6024,14 +6080,6 @@
       "word": "杨紫掌管暑期档的神",
       "onboard_time": 1720427179,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194134,
-      "num": 194134,
-      "word": "网友P的夭玹亲了",
-      "onboard_time": 1720666516,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -6515,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183714,
+      "num": 183714,
+      "word": "女子4次漏扫码被刑拘",
+      "onboard_time": 1720668679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183683,
       "num": 183683,
       "word": "黑龙江男篮原教练王楠去世",
@@ -6843,14 +6899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177007,
-      "num": 177007,
-      "word": "迪士尼收割中产父母",
-      "onboard_time": 1720667238,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 176606,
       "num": 176606,
       "word": "脏脏 秃子",
@@ -7035,20 +7083,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172200,
-      "num": 172200,
-      "word": "努涅斯和球迷互殴",
-      "onboard_time": 1720668078,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172175,
       "num": 172175,
       "word": "老外对中国的开发不足1%",
       "onboard_time": 1720493477,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "林俊杰新歌720上线",
+      "onboard_time": 1720668918,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 171548,
@@ -8059,14 +8107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149080,
-      "num": 149080,
-      "word": "菲律宾附近海域7.0级地震",
-      "onboard_time": 1720667537,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148610,
       "num": 148610,
       "word": "赵明称苹果近几年没什么创新",
@@ -8193,6 +8233,14 @@
       "onboard_time": 1720307353,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146306,
+      "num": 146306,
+      "word": "陈哲远说三十四五岁结婚",
+      "onboard_time": 1720668618,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146254,
@@ -8323,6 +8371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143479,
+      "num": 143479,
+      "word": "奔跑吧12收官物料",
+      "onboard_time": 1720668259,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143452,
       "num": 143452,
       "word": "KPL",
@@ -8369,14 +8425,6 @@
       "onboard_time": 1720363159,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 142238,
-      "num": 142238,
-      "word": "郎平谈中国女排最大危机",
-      "onboard_time": 1720668017,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 142203,
@@ -9963,6 +10011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111887,
+      "num": 447863,
+      "word": "老旧电梯总出故障为啥还不报废",
+      "onboard_time": 1720666818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "奖杯底座",
@@ -11043,6 +11099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79003,
+      "num": 1162285,
+      "word": "发现最美铁路",
+      "onboard_time": 1720666216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78595,
       "num": 78595,
       "word": "55岁的妈妈拒绝学习任何新事物",
@@ -11104,14 +11168,6 @@
       "word": "来一趟四川外国游客被美食征服了",
       "onboard_time": 1720605618,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75571,
-      "num": 928067,
-      "word": "发现最美铁路",
-      "onboard_time": 1720666216,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11249,14 +11305,6 @@
       "onboard_time": 1720480155,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66774,
-      "num": 447863,
-      "word": "老旧电梯总出故障为啥还不报废",
-      "onboard_time": 1720666818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66528,
@@ -11476,7 +11524,7 @@
     },
     {
       "raw_hot": 59384,
-      "num": 387097,
+      "num": 457416,
       "word": "女孩卡脖悬空男子徒手爬楼解救",
       "onboard_time": 1720664118,
       "rank": 9,
@@ -11740,7 +11788,7 @@
     },
     {
       "raw_hot": 50684,
-      "num": 183589,
+      "num": 340253,
       "word": "了不起的中国电动车",
       "onboard_time": 1720667118,
       "rank": 34,
