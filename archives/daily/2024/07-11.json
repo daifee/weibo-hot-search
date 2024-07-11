@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720672723765,
+  "endTime": 1720675178488,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -11,20 +11,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2007729,
+      "num": 2007729,
+      "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+      "onboard_time": 1720671619,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713718,
       "num": 1713718,
       "word": "71%的iPhone使用已超两年",
       "onboard_time": 1720662558,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1612102,
-      "num": 1612102,
-      "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
-      "onboard_time": 1720671619,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1608703,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1411036,
-      "num": 472193,
+      "num": 558928,
       "word": "台湾新冠死亡病例暴增55%",
       "onboard_time": 1720661958,
       "rank": 18,
@@ -139,6 +139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 704320,
+      "num": 704320,
+      "word": "王一博申请限消晗晗qvq",
+      "onboard_time": 1720672339,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692881,
       "num": 692881,
       "word": "黄霄雲面部腿部受伤",
@@ -153,6 +161,22 @@
       "onboard_time": 1720668798,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676015,
+      "num": 599807,
+      "word": "檀健次 大大方方",
+      "onboard_time": 1720672101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 675979,
+      "num": 590841,
+      "word": "凤凰传奇 到底是谁抢到了",
+      "onboard_time": 1720672519,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 672963,
@@ -216,6 +240,14 @@
       "word": "印度一对父子牵手卧轨身亡",
       "onboard_time": 1720621280,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601305,
+      "num": 601305,
+      "word": "3人1次要买50万黄金店员拒绝并报警",
+      "onboard_time": 1720672281,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414332,
+      "num": 414332,
+      "word": "张书豪为欧阳妮妮戒烟",
+      "onboard_time": 1720673840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406733,
       "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
@@ -339,6 +379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357698,
+      "num": 357698,
+      "word": "中国警方向美遣返1名美籍红通逃犯",
+      "onboard_time": 1720672701,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 349506,
+      "num": 349506,
+      "word": "我有9颗头比别人能吃一些",
+      "onboard_time": 1720671619,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349411,
       "num": 349411,
       "word": "为什么男女生空调总吹不到一起去",
@@ -355,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343008,
+      "num": 343008,
+      "word": "胡歌老婆曾是化妆师",
+      "onboard_time": 1720671920,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338032,
       "num": 338032,
       "word": "我们的歌第六季定档",
@@ -369,14 +433,6 @@
       "onboard_time": 1720654335,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325426,
-      "num": 325426,
-      "word": "王一博申请限消晗晗qvq",
-      "onboard_time": 1720672339,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 322074,
@@ -435,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302478,
-      "num": 302478,
-      "word": "胡歌老婆曾是化妆师",
-      "onboard_time": 1720671920,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 299078,
+      "num": 299078,
+      "word": "秦彻 密约",
+      "onboard_time": 1720673781,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 296813,
@@ -515,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250275,
-      "num": 234793,
-      "word": "我有9颗头比别人能吃一些",
-      "onboard_time": 1720671619,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244459,
       "num": 148222,
       "word": "谢娜生孩子何炅推掉工作去陪产",
@@ -547,6 +595,22 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 238761,
+      "num": 238761,
+      "word": "宝马奔驰降价超10万也卷不过国产",
+      "onboard_time": 1720671260,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 235509,
+      "num": 235509,
+      "word": "萝卜快跑无人车售价仅20.46万元",
+      "onboard_time": 1720673182,
+      "rank": 26,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 233469,
       "num": 233469,
       "word": "雷军将重回小米手机发布会",
@@ -555,12 +619,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 231409,
-      "num": 231409,
-      "word": "3人1次要买50万黄金店员拒绝并报警",
-      "onboard_time": 1720672281,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 229750,
+      "num": 229750,
+      "word": "张颜齐报名歌手副主持的后续",
+      "onboard_time": 1720674741,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228672,
@@ -603,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219143,
-      "num": 219143,
-      "word": "宝马奔驰降价超10万也卷不过国产",
-      "onboard_time": 1720671260,
-      "rank": 36,
-      "category": "汽车"
+      "raw_hot": 219370,
+      "num": 219370,
+      "word": "周深演唱会 陪跑",
+      "onboard_time": 1720673660,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 218580,
@@ -651,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209828,
+      "num": 209828,
+      "word": "王俊凯唱了我们的时光",
+      "onboard_time": 1720674918,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209183,
       "num": 209183,
       "word": "经常缺觉的人记忆力损伤不可逆",
@@ -683,20 +755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204722,
-      "num": 204722,
-      "word": "檀健次 大大方方",
-      "onboard_time": 1720672101,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204680,
       "num": 204680,
       "word": "努涅斯和球迷互殴",
       "onboard_time": 1720668078,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204509,
+      "num": 204509,
+      "word": "小芒 票价",
+      "onboard_time": 1720674141,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 203830,
@@ -729,14 +801,6 @@
       "onboard_time": 1720666516,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197376,
-      "num": 197376,
-      "word": "凤凰传奇 到底是谁抢到了",
-      "onboard_time": 1720672519,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 195960,
@@ -875,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160519,
+      "num": 160519,
+      "word": "高铁上偶遇华山被震撼到了",
+      "onboard_time": 1720672640,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 160126,
       "num": 160126,
       "word": "乌拉圭vs哥伦比亚",
@@ -947,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140537,
-      "num": 140537,
-      "word": "高铁上偶遇华山被震撼到了",
-      "onboard_time": 1720672640,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 140451,
       "num": 140451,
       "word": "张杰铁血娜脑",
@@ -979,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136647,
-      "num": 136647,
-      "word": "中国警方向美遣返1名美籍红通逃犯",
-      "onboard_time": 1720672701,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 137586,
+      "num": 582010,
+      "word": "柯基警犬和队友的训练日常",
+      "onboard_time": 1720672220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136352,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1720654455,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117575,
+      "num": 117575,
+      "word": "鞠婧祎 辨识度",
+      "onboard_time": 1720675100,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116885,
@@ -1291,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98263,
-      "num": 421784,
-      "word": "柯基警犬和队友的训练日常",
-      "onboard_time": 1720672220,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97904,
       "num": 97904,
       "word": "避免社交我在高铁上装作韩国人",
@@ -1347,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91239,
+      "num": 478163,
+      "word": "重庆长寿河水倒灌有房屋被淹",
+      "onboard_time": 1720670421,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89507,
       "num": 89507,
       "word": "读书是我的本分",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1720644250,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82846,
+      "num": 349809,
+      "word": "武汉退车的出租车司机数量变多",
+      "onboard_time": 1720674021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82629,
@@ -1523,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48157,
-      "num": 478163,
-      "word": "重庆长寿河水倒灌有房屋被淹",
-      "onboard_time": 1720670421,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45709,
       "num": 61767,
       "word": "韩国化妆师给曾黎做的妆造",
@@ -1553,6 +1625,22 @@
       "onboard_time": 1720631176,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44469,
+      "num": 574283,
+      "word": "乘坐无人驾驶出租车是什么样的体验",
+      "onboard_time": 1720674021,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43876,
+      "num": 231583,
+      "word": "撒贝宁把雅迪骑成摇摇椅",
+      "onboard_time": 1720674320,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 41350,

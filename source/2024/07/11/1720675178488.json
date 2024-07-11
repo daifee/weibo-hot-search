@@ -1,0 +1,410 @@
+{
+  "runTime": 1720675178488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2007729,
+        "num": 2007729,
+        "word": "蜜雪冰城1元冰杯惹怒两拨打工人",
+        "onboard_time": 1720671619,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159955,
+        "num": 1159955,
+        "word": "鞠婧祎 和颂",
+        "onboard_time": 1720670421,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65673,
+        "num": 990713,
+        "word": "发现最美铁路",
+        "onboard_time": 1720666216,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950884,
+        "num": 950884,
+        "word": "女子4次漏扫码被刑拘",
+        "onboard_time": 1720668679,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704320,
+        "num": 704320,
+        "word": "王一博申请限消晗晗qvq",
+        "onboard_time": 1720672339,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601305,
+        "num": 601305,
+        "word": "3人1次要买50万黄金店员拒绝并报警",
+        "onboard_time": 1720672281,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676015,
+        "num": 599807,
+        "word": "檀健次 大大方方",
+        "onboard_time": 1720672101,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 675979,
+        "num": 590841,
+        "word": "凤凰传奇 到底是谁抢到了",
+        "onboard_time": 1720672519,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137586,
+        "num": 582010,
+        "word": "柯基警犬和队友的训练日常",
+        "onboard_time": 1720672220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44469,
+        "num": 574283,
+        "word": "乘坐无人驾驶出租车是什么样的体验",
+        "onboard_time": 1720674021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627364,
+        "num": 559998,
+        "word": "胡歌首谈和太太相处模式",
+        "onboard_time": 1720665978,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558928,
+        "num": 558928,
+        "word": "台湾新冠死亡病例暴增55%",
+        "onboard_time": 1720661958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414332,
+        "num": 414332,
+        "word": "张书豪为欧阳妮妮戒烟",
+        "onboard_time": 1720673840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357698,
+        "num": 357698,
+        "word": "中国警方向美遣返1名美籍红通逃犯",
+        "onboard_time": 1720672701,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82846,
+        "num": 349809,
+        "word": "武汉退车的出租车司机数量变多",
+        "onboard_time": 1720674021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349506,
+        "num": 349506,
+        "word": "我有9颗头比别人能吃一些",
+        "onboard_time": 1720671619,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343008,
+        "num": 343008,
+        "word": "胡歌老婆曾是化妆师",
+        "onboard_time": 1720671920,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319497,
+        "num": 319497,
+        "word": "迪士尼收割中产父母",
+        "onboard_time": 1720667238,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 299078,
+        "num": 299078,
+        "word": "秦彻 密约",
+        "onboard_time": 1720673781,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247169,
+        "num": 247169,
+        "word": "特朗普称当总统后送扎克伯格进监狱",
+        "onboard_time": 1720665499,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 710269,
+        "num": 246404,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395921,
+        "num": 244618,
+        "word": "女子180万卖掉杭州房子120万买回",
+        "onboard_time": 1720665677,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336178,
+        "num": 243130,
+        "word": "蔡徐坤起诉多人侵权",
+        "onboard_time": 1720668798,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276673,
+        "num": 242440,
+        "word": "唐朝诡事录把黄梅杀续上了",
+        "onboard_time": 1720666877,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241718,
+        "num": 241718,
+        "word": "长相思真把阿念养得很好",
+        "onboard_time": 1720664477,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238761,
+        "num": 238761,
+        "word": "宝马奔驰降价超10万也卷不过国产",
+        "onboard_time": 1720671260,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 235509,
+        "num": 235509,
+        "word": "萝卜快跑无人车售价仅20.46万元",
+        "onboard_time": 1720673182,
+        "rank": 26,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 43876,
+        "num": 231583,
+        "word": "撒贝宁把雅迪骑成摇摇椅",
+        "onboard_time": 1720674320,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229750,
+        "num": 229750,
+        "word": "张颜齐报名歌手副主持的后续",
+        "onboard_time": 1720674741,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91239,
+        "num": 221493,
+        "word": "重庆长寿河水倒灌有房屋被淹",
+        "onboard_time": 1720670421,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219370,
+        "num": 219370,
+        "word": "周深演唱会 陪跑",
+        "onboard_time": 1720673660,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209828,
+        "num": 209828,
+        "word": "王俊凯唱了我们的时光",
+        "onboard_time": 1720674918,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204509,
+        "num": 204509,
+        "word": "小芒 票价",
+        "onboard_time": 1720674141,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197431,
+        "num": 197431,
+        "word": "咒术回战",
+        "onboard_time": 1720669519,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 196584,
+        "num": 196584,
+        "word": "刘诗诗小腿有绷带",
+        "onboard_time": 1720663938,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194419,
+        "num": 194419,
+        "word": "张真源告别奔跑吧",
+        "onboard_time": 1720671920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194006,
+        "num": 194006,
+        "word": "南波万巡演官宣",
+        "onboard_time": 1720669578,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187491,
+        "num": 187491,
+        "word": "长相思人设",
+        "onboard_time": 1720670838,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172560,
+        "num": 172560,
+        "word": "中国女游客海上漂36小时后获救",
+        "onboard_time": 1720662618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166601,
+        "num": 166601,
+        "word": "越来越多美国人正抛弃智能手机",
+        "onboard_time": 1720659979,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163770,
+        "num": 163770,
+        "word": "男子凌晨发现家里多出一个孩子",
+        "onboard_time": 1720658417,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160519,
+        "num": 160519,
+        "word": "高铁上偶遇华山被震撼到了",
+        "onboard_time": 1720672640,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159246,
+        "num": 159246,
+        "word": "因买家秀显肚子被女装商家要求删除",
+        "onboard_time": 1720660039,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153582,
+        "num": 153582,
+        "word": "宝马7月将会开始降量保价",
+        "onboard_time": 1720669880,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 138351,
+        "word": "新冠检测有了新手段",
+        "onboard_time": 1720669939,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125113,
+        "num": 125113,
+        "word": "美国男篮vs加拿大男篮",
+        "onboard_time": 1720669099,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122990,
+        "num": 122990,
+        "word": "地铁上这个扶手给谁扶的",
+        "onboard_time": 1720672401,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119020,
+        "num": 119020,
+        "word": "雷军将重回小米手机发布会",
+        "onboard_time": 1720666877,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117625,
+        "num": 117625,
+        "word": "我们的歌第六季定档",
+        "onboard_time": 1720667717,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117575,
+        "num": 117575,
+        "word": "鞠婧祎 辨识度",
+        "onboard_time": 1720675100,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}
