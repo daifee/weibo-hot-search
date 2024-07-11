@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720694229371,
+  "endTime": 1720696649241,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -137,6 +137,14 @@
       "onboard_time": 1720350017,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1813142,
+      "num": 1813142,
+      "word": "警方通报东营恶性伤人事件",
+      "onboard_time": 1720694417,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1811932,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 806864,
-      "num": 211255,
+      "num": 214439,
       "word": "实习一个月净收入14元",
       "onboard_time": 1720689858,
       "rank": 25,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1720398797,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 749168,
+      "num": 749168,
+      "word": "涂山璟台词",
+      "onboard_time": 1720694899,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 743256,
@@ -1715,6 +1731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 631844,
+      "num": 631844,
+      "word": "娜扎 我就是一个正常的女性",
+      "onboard_time": 1720692378,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631404,
       "num": 512742,
       "word": "涂山璟白发",
@@ -1857,14 +1881,6 @@
       "onboard_time": 1720427300,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601226,
-      "num": 601226,
-      "word": "娜扎 我就是一个正常的女性",
-      "onboard_time": 1720692378,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 599965,
@@ -2044,7 +2060,7 @@
     },
     {
       "raw_hot": 567763,
-      "num": 567763,
+      "num": 585955,
       "word": "1公里1块钱的无人出租车你敢坐吗",
       "onboard_time": 1720688478,
       "rank": 9,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1720431980,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536514,
+      "num": 536514,
+      "word": "王牌对王牌",
+      "onboard_time": 1720695559,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 536316,
@@ -3803,6 +3827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 360794,
+      "num": 360794,
+      "word": "景区月薪5000招野人1天接几百个电话",
+      "onboard_time": 1720690997,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360769,
       "num": 360769,
       "word": "等比长大的赵今麦",
@@ -3969,14 +4001,6 @@
       "onboard_time": 1720292352,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 347858,
-      "num": 347858,
-      "word": "景区月薪5000招野人1天接几百个电话",
-      "onboard_time": 1720690997,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347672,
@@ -4363,6 +4387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319362,
+      "num": 213216,
+      "word": "偷偷瘦了20斤后见到朋友内心belike",
+      "onboard_time": 1720694717,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319128,
       "num": 319128,
       "word": "我是O型血让我给涂山璟捐",
@@ -4417,6 +4449,14 @@
       "onboard_time": 1720283419,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 313201,
+      "num": 313201,
+      "word": "729 CV",
+      "onboard_time": 1720692138,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 311676,
@@ -4737,6 +4777,14 @@
       "onboard_time": 1720494437,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289549,
+      "num": 289549,
+      "word": "成韩彬翻包翻出乳贴",
+      "onboard_time": 1720695378,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289047,
@@ -5251,6 +5299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247574,
+      "num": 247574,
+      "word": "美国男子杀害女友后坐轮椅抛尸",
+      "onboard_time": 1720690218,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247114,
       "num": 247114,
       "word": "陈妍希撕掉小白兔标签",
@@ -5707,14 +5763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 223691,
-      "num": 223691,
-      "word": "美国男子杀害女友后坐轮椅抛尸",
-      "onboard_time": 1720690218,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223503,
       "num": 223503,
       "word": "少年白马你倒是定档啊",
@@ -6000,6 +6048,14 @@
       "word": "檀健次 空降",
       "onboard_time": 1720596498,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210960,
+      "num": 210960,
+      "word": "张晚意问媒体您不满意是吗",
+      "onboard_time": 1720696039,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -6553,6 +6609,14 @@
       "onboard_time": 1720406778,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200380,
+      "num": 200380,
+      "word": "胡锡进账户6万元不知道买什么",
+      "onboard_time": 1720694657,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 199316,
@@ -7251,6 +7315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 184694,
+      "num": 184694,
+      "word": "五点半和六点下班真不一样",
+      "onboard_time": 1720695319,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184646,
       "num": 180959,
       "word": "裴文宣死得很惨但想得很美",
@@ -7369,14 +7441,6 @@
       "onboard_time": 1720347018,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182445,
-      "num": 182445,
-      "word": "729 CV",
-      "onboard_time": 1720692138,
-      "rank": 33,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 182056,
@@ -8315,6 +8379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163807,
+      "num": 163807,
+      "word": "Elk回应虐泉",
+      "onboard_time": 1720694599,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163723,
       "num": 163723,
       "word": "被秦彻硬控",
@@ -8707,6 +8779,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 155396,
+      "num": 155396,
+      "word": "外交部回应日自卫队舰艇进入中国领海",
+      "onboard_time": 1720696039,
+      "rank": 31,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "漫画师画的杨紫",
@@ -8849,6 +8929,14 @@
       "onboard_time": 1720435459,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 152100,
+      "num": 152100,
+      "word": "知情人讲述东营恶性伤人事件",
+      "onboard_time": 1720695738,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152086,
@@ -9115,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146480,
+      "num": 146480,
+      "word": "自动驾驶汽车出交通事故谁担责",
+      "onboard_time": 1720694298,
+      "rank": 35,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 146478,
       "num": 146478,
       "word": "TES零封G2",
@@ -9329,6 +9425,14 @@
       "onboard_time": 1720503618,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142660,
+      "num": 142660,
+      "word": "叶童赵雅芝 启蒙CP祖师奶奶",
+      "onboard_time": 1720694837,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 142454,
@@ -9569,6 +9673,14 @@
       "onboard_time": 1720595177,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139273,
+      "num": 139273,
+      "word": "欧洲杯期间一个女生发的朋友圈",
+      "onboard_time": 1720694298,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139223,
@@ -9931,6 +10043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132667,
+      "num": 132667,
+      "word": "韩国五年来至少有100名教师自杀",
+      "onboard_time": 1720692076,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132481,
       "num": 132481,
       "word": "张艺兴李晨眼前一黑又一黑",
@@ -9985,14 +10105,6 @@
       "onboard_time": 1720431079,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131155,
-      "num": 131155,
-      "word": "韩国五年来至少有100名教师自杀",
-      "onboard_time": 1720692076,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131139,
@@ -10121,6 +10233,14 @@
       "onboard_time": 1720278139,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129121,
+      "num": 129121,
+      "word": "为什么面包店总有一种吸引人的香气",
+      "onboard_time": 1720693638,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 129058,
@@ -10883,14 +11003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115208,
-      "num": 115208,
-      "word": "为什么面包店总有一种吸引人的香气",
-      "onboard_time": 1720693638,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 115108,
       "num": 388603,
       "word": "黄岩岛海域生态环境全面体检",
@@ -10920,6 +11032,14 @@
       "word": "长相思 大女主",
       "onboard_time": 1720603879,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114721,
+      "num": 114721,
+      "word": "杨紫第三次穿JF",
+      "onboard_time": 1720696397,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -12441,6 +12561,14 @@
       "onboard_time": 1720480155,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66769,
+      "num": 178640,
+      "word": "外国游客对比中英火车站",
+      "onboard_time": 1720696218,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66528,
@@ -14001,6 +14129,14 @@
       "onboard_time": 1720468031,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16432,
+      "num": 335437,
+      "word": "不当的生酮饮食将加速细胞衰老",
+      "onboard_time": 1720696517,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 15554,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/11 18:37:09
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/11 19:17:29
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@ Jennie方承认吸烟并道歉（热度：1919980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%BC%A0%E5%BF%97%E6%9D%B0%E6%81%B6%E6%80%A7%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8%E5%8F%AF%E8%83%BD%E6%80%A7%E5%BE%88%E5%A4%A7%23" target="weibo">
 医生称张志杰恶性心律失常可能性很大（热度：1819294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%9C%E8%90%A5%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报东营恶性伤人事件（热度：1813142）
 </a>
 </li>
 
@@ -2355,6 +2361,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E5%8F%B0%E8%AF%8D%23" target="weibo">
+涂山璟台词（热度：749168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E4%BC%A0%E6%98%AF%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1%23" target="weibo">
 西安交大通报毕业生被传是学术妲己（热度：743943）
 </a>
@@ -3003,6 +3015,12 @@ iPhone15Pro以上机型将支持全新Siri（热度：636777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E5%A5%B3%E6%80%A7%23" target="weibo">
+娜扎 我就是一个正常的女性（热度：631844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E7%99%BD%E5%8F%91%23" target="weibo">
 涂山璟白发（热度：631404）
 </a>
@@ -3257,12 +3275,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9D%A1%E5%87%89%E5%B8%AD%E5%8F%8C%E8%85%BF%E8%A2%AB%E8%9E%A8%E8%99%AB%E5%92%AC%E6%BB%A1%E7%BA%A2%E6%96%91%23" target="weibo">
 女子睡凉席双腿被螨虫咬满红斑（热度：603339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E5%A5%B3%E6%80%A7%23" target="weibo">
-娜扎 我就是一个正常的女性（热度：601226）
 </a>
 </li>
 
@@ -4001,6 +4013,12 @@ WPS崩了（热度：543165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312345%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E9%AB%98%E8%80%83%23" target="weibo">
 12345回应市民要求重新组织高考（热度：537446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
+王牌对王牌（热度：536514）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ B太 上海打车去新疆（热度：424969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E6%AD%A3%E5%B8%B8%E6%92%92%E5%A8%87%E8%80%8C%E5%B7%B2%23" target="weibo">
 沈梦辰 正常撒娇而已（热度：400341）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BB%91%E6%9E%B6%E6%A1%88%E9%81%87%E5%AE%B3%E8%80%85%E7%94%9F%E5%89%8D%E6%9B%BE%E9%81%AD%E8%99%90%E5%BE%85%23" target="weibo">
-菲律宾绑架案遇害者生前曾遭虐待（热度：399876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%B5%8B%E8%AF%95%23" target="weibo">
-读研是一场巨大的服从性测试（热度：399871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%81%87%E5%AE%B3%23" target="weibo">
-2名中国企业管理人员菲律宾遇害（热度：399378）
 </a>
 </li>
 
