@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720719318903,
+  "endTime": 1720722375011,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -24659,6 +24659,14 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 121631,
+      "num": 142705,
+      "word": "媒体评萝卜快跑抢网约车司机饭碗",
+      "onboard_time": 1720718053,
+      "rank": 13,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 121607,
       "num": 120013,
       "word": "张予曦差10票成团",
@@ -30787,6 +30795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36680,
+      "num": 36680,
+      "word": "周杰伦cos藤原拓海",
+      "onboard_time": 1720720153,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 36679,
       "num": 283074,
       "word": "这一刻高中背过的课文闪回脑海",
@@ -31267,12 +31283,12 @@
       "category": "社会新闻,社会正能量"
     },
     {
-      "raw_hot": 29750,
-      "num": 142705,
-      "word": "媒体评萝卜快跑抢网约车司机饭碗",
-      "onboard_time": 1720718053,
-      "rank": 13,
-      "category": "汽车,互联网"
+      "raw_hot": 29738,
+      "num": 29738,
+      "word": "Red女团首专OrientalRed",
+      "onboard_time": 1720721952,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 29654,
@@ -32299,6 +32315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 13311,
+      "num": 26986,
+      "word": "男子晨练倒地众人接力救援",
+      "onboard_time": 1720722132,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 13305,
       "num": 230067,
       "word": "我玩绝区零连吃带拿",
@@ -32335,6 +32359,14 @@
       "num": 472711,
       "word": "高质量发展调研行",
       "onboard_time": 1719930620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11901,
+      "num": 85650,
+      "word": "男子随身携带AED十余年第一次用上",
+      "onboard_time": 1720721773,
       "rank": 9,
       "category": "社会新闻"
     },
