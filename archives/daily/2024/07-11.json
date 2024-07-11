@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720687056307,
+  "endTime": 1720689773863,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -40,6 +40,14 @@
       "word": "女子4次漏扫码被刑拘",
       "onboard_time": 1720668679,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1505500,
+      "num": 1039164,
+      "word": "教育局暑假招教师照看干部子女",
+      "onboard_time": 1720684459,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -104,14 +112,6 @@
       "word": "男子凌晨发现家里多出一个孩子",
       "onboard_time": 1720658417,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039164,
-      "num": 1039164,
-      "word": "教育局暑假招教师照看干部子女",
-      "onboard_time": 1720684459,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716973,
+      "num": 576808,
+      "word": "东营",
+      "onboard_time": 1720684999,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 716295,
       "num": 638716,
       "word": "长相思见面会",
@@ -225,6 +233,14 @@
       "onboard_time": 1720619420,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 687053,
+      "num": 564209,
+      "word": "荣梓杉 北京电影学院",
+      "onboard_time": 1720689078,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 684639,
@@ -331,20 +347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 576808,
-      "num": 576808,
-      "word": "东营",
-      "onboard_time": 1720684999,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 572848,
       "num": 254901,
       "word": "睡觉把手举过头顶小心得这种病",
       "onboard_time": 1720625658,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 570565,
+      "num": 570565,
+      "word": "吃米线爱放麻油的注意了",
+      "onboard_time": 1720687338,
+      "rank": 5,
+      "category": "科学科普"
     },
     {
       "raw_hot": 565446,
@@ -555,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374710,
+      "num": 238027,
+      "word": "郑恺发文告别奔跑吧",
+      "onboard_time": 1720688118,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361657,
       "num": 361657,
       "word": "杨丞琳连续十年为李荣浩庆生",
@@ -643,6 +667,22 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 329390,
+      "num": 329390,
+      "word": "张晚意清唱了万物不如你",
+      "onboard_time": 1720681758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329345,
+      "num": 329345,
+      "word": "萝卜快跑回应车内有摄像头监控",
+      "onboard_time": 1720684878,
+      "rank": 23,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 322074,
       "num": 322074,
       "word": "Uzi说自己要凉了",
@@ -723,20 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295206,
-      "num": 295206,
-      "word": "萝卜快跑回应车内有摄像头监控",
-      "onboard_time": 1720684878,
-      "rank": 23,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "张钧甯是学法的",
       "onboard_time": 1720658900,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288159,
+      "num": 233736,
+      "word": "导演快给王星越沈月递本子",
+      "onboard_time": 1720687338,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 283076,
@@ -753,14 +793,6 @@
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 266402,
-      "num": 266402,
-      "word": "张晚意清唱了万物不如你",
-      "onboard_time": 1720681758,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 265816,
@@ -785,6 +817,14 @@
       "onboard_time": 1720655237,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 263572,
+      "num": 577423,
+      "word": "自动驾驶来了你是怕还是盼",
+      "onboard_time": 1720685418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262708,
@@ -864,6 +904,14 @@
       "word": "入职一个月公司又在招聘我的岗位",
       "onboard_time": 1720684037,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 240258,
+      "num": 230014,
+      "word": "在本县体制内上班是什么感觉",
+      "onboard_time": 1720687398,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -1051,6 +1099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206881,
+      "num": 206881,
+      "word": "李沁真空外套",
+      "onboard_time": 1720687997,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "唐朝诡事录2宝想要宝得到",
+      "onboard_time": 1720688897,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205852,
       "num": 205852,
       "word": "日本两男子将同事放洗衣机搅拌",
@@ -1227,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186265,
+      "num": 186265,
+      "word": "长相思第二季微博追剧团",
+      "onboard_time": 1720688658,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185199,
       "num": 185199,
       "word": "接南门事业运",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1720680557,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172523,
+      "num": 172523,
+      "word": "男子给差评烧烤店说没来消费",
+      "onboard_time": 1720687098,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171955,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1720685958,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "沈月表白恋综嘉宾",
+      "onboard_time": 1720687698,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 163425,
@@ -1472,6 +1560,14 @@
       "word": "陈哲远说三十四五岁结婚",
       "onboard_time": 1720668618,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146156,
+      "num": 146156,
+      "word": "步步惊心狐妖剧组在十天团建了",
+      "onboard_time": 1720687819,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1683,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124211,
+      "num": 124211,
+      "word": "少年歌行爸爸篇",
+      "onboard_time": 1720686859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122705,
       "num": 122705,
       "word": "出现14种症状说明你太累了",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 121829,
+      "word": "杨紫说长相思2哭得最多",
+      "onboard_time": 1720689198,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121635,
@@ -1721,6 +1833,14 @@
       "onboard_time": 1720656559,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118507,
+      "num": 118507,
+      "word": "立花泷的名字倒过来是喜欢你",
+      "onboard_time": 1720687519,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 118202,
@@ -1761,14 +1881,6 @@
       "onboard_time": 1720654455,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116180,
-      "num": 116180,
-      "word": "少年歌行爸爸篇",
-      "onboard_time": 1720686859,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 115785,
@@ -1819,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108361,
+      "num": 108361,
+      "word": "李彦宏曾称打无人车便宜一半",
+      "onboard_time": 1720688958,
+      "rank": 48,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 106875,
       "num": 106875,
       "word": "西蒙斯世界波",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1720614498,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105965,
+      "num": 378764,
+      "word": "1公里1块钱的无人出租车你敢坐吗",
+      "onboard_time": 1720688478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105826,
@@ -1921,14 +2049,6 @@
       "onboard_time": 1720652534,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98186,
-      "num": 577423,
-      "word": "自动驾驶来了你是怕还是盼",
-      "onboard_time": 1720685418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97904,

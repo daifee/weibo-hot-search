@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720687056307,
+  "endTime": 1720689773863,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -249,6 +249,14 @@
       "onboard_time": 1720523178,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1505500,
+      "num": 1039164,
+      "word": "教育局暑假招教师照看干部子女",
+      "onboard_time": 1720684459,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1504982,
@@ -705,14 +713,6 @@
       "onboard_time": 1720351519,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1039164,
-      "num": 1039164,
-      "word": "教育局暑假招教师照看干部子女",
-      "onboard_time": 1720684459,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1037079,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716973,
+      "num": 576808,
+      "word": "东营",
+      "onboard_time": 1720684999,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 716295,
       "num": 638716,
       "word": "长相思见面会",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1720339097,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687053,
+      "num": 564209,
+      "word": "荣梓杉 北京电影学院",
+      "onboard_time": 1720689078,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 684639,
@@ -1963,14 +1979,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 576808,
-      "num": 576808,
-      "word": "东营",
-      "onboard_time": 1720684999,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 572957,
       "num": 572957,
       "word": "包头市民打12345要求重新组织高考",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1720512559,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 570565,
+      "num": 570565,
+      "word": "吃米线爱放麻油的注意了",
+      "onboard_time": 1720687338,
+      "rank": 5,
+      "category": "科学科普"
     },
     {
       "raw_hot": 570355,
@@ -3611,6 +3627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 374710,
+      "num": 238027,
+      "word": "郑恺发文告别奔跑吧",
+      "onboard_time": 1720688118,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374480,
       "num": 374480,
       "word": "LWX回应欠钱",
@@ -4123,6 +4147,22 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 329390,
+      "num": 329390,
+      "word": "张晚意清唱了万物不如你",
+      "onboard_time": 1720681758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329345,
+      "num": 329345,
+      "word": "萝卜快跑回应车内有摄像头监控",
+      "onboard_time": 1720684878,
+      "rank": 23,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 328688,
       "num": 514151,
       "word": "罐车混装是对生命健康的极端漠视",
@@ -4571,14 +4611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295206,
-      "num": 295206,
-      "word": "萝卜快跑回应车内有摄像头监控",
-      "onboard_time": 1720684878,
-      "rank": 23,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 294333,
       "num": 250121,
       "word": "Henry一出场票价就回来了",
@@ -4641,6 +4673,14 @@
       "onboard_time": 1720578917,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288159,
+      "num": 233736,
+      "word": "导演快给王星越沈月递本子",
+      "onboard_time": 1720687338,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 287958,
@@ -4859,14 +4899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266402,
-      "num": 266402,
-      "word": "张晚意清唱了万物不如你",
-      "onboard_time": 1720681758,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265828,
       "num": 265828,
       "word": "西班牙2比1法国",
@@ -4921,6 +4953,14 @@
       "onboard_time": 1720272738,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263572,
+      "num": 577423,
+      "word": "自动驾驶来了你是怕还是盼",
+      "onboard_time": 1720685418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262996,
@@ -5272,6 +5312,14 @@
       "word": "顶级恋爱观",
       "onboard_time": 1720358420,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 240258,
+      "num": 230014,
+      "word": "在本县体制内上班是什么感觉",
+      "onboard_time": 1720687398,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -6027,6 +6075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206881,
+      "num": 206881,
+      "word": "李沁真空外套",
+      "onboard_time": 1720687997,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206329,
       "num": 193595,
       "word": "范丞丞误伤李晨",
@@ -6049,6 +6105,14 @@
       "onboard_time": 1720308674,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "唐朝诡事录2宝想要宝得到",
+      "onboard_time": 1720688897,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206082,
@@ -7043,6 +7107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186265,
+      "num": 186265,
+      "word": "长相思第二季微博追剧团",
+      "onboard_time": 1720688658,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186149,
       "num": 186149,
       "word": "吉鲁退出法国国家队",
@@ -7667,6 +7739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172523,
+      "num": 172523,
+      "word": "男子给差评烧烤店说没来消费",
+      "onboard_time": 1720687098,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172225,
       "num": 172225,
       "word": "张艺兴手语版ALegend",
@@ -8105,6 +8185,14 @@
       "onboard_time": 1720685958,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "沈月表白恋综嘉宾",
+      "onboard_time": 1720687698,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 164426,
@@ -8929,6 +9017,14 @@
       "onboard_time": 1720442478,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 146156,
+      "num": 146156,
+      "word": "步步惊心狐妖剧组在十天团建了",
+      "onboard_time": 1720687819,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 146128,
@@ -10195,6 +10291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124211,
+      "num": 124211,
+      "word": "少年歌行爸爸篇",
+      "onboard_time": 1720686859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124196,
       "num": 166056,
       "word": "全红婵演我暑假",
@@ -10313,6 +10417,14 @@
       "onboard_time": 1720328898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 121829,
+      "word": "杨紫说长相思2哭得最多",
+      "onboard_time": 1720689198,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121635,
@@ -10451,6 +10563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118507,
+      "num": 118507,
+      "word": "立花泷的名字倒过来是喜欢你",
+      "onboard_time": 1720687519,
+      "rank": 45,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 118323,
       "num": 118323,
       "word": "中国移动回应资费降级难",
@@ -10561,14 +10681,6 @@
       "onboard_time": 1720438279,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 116180,
-      "num": 116180,
-      "word": "少年歌行爸爸篇",
-      "onboard_time": 1720686859,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 116079,
@@ -11051,6 +11163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108361,
+      "num": 108361,
+      "word": "李彦宏曾称打无人车便宜一半",
+      "onboard_time": 1720688958,
+      "rank": 48,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 108023,
       "num": 108023,
       "word": "张本智和早田希娜WTT混双夺冠",
@@ -11145,6 +11265,14 @@
       "onboard_time": 1720624699,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105965,
+      "num": 378764,
+      "word": "1公里1块钱的无人出租车你敢坐吗",
+      "onboard_time": 1720688478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105830,
@@ -11457,14 +11585,6 @@
       "onboard_time": 1720652534,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98186,
-      "num": 577423,
-      "word": "自动驾驶来了你是怕还是盼",
-      "onboard_time": 1720685418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98059,
