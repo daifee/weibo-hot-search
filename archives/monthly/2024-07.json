@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720661009759,
+  "endTime": 1720662285909,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1720430839,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1161310,
+      "num": 1161310,
+      "word": "因买家秀显肚子被女装商家要求删除",
+      "onboard_time": 1720660039,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1160602,
@@ -2441,6 +2449,14 @@
       "onboard_time": 1719907279,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 821775,
+      "num": 821775,
+      "word": "越来越多美国人正抛弃智能手机",
+      "onboard_time": 1720659979,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 821482,
@@ -5504,14 +5520,6 @@
       "word": "直击洞庭湖决堤救援一线",
       "onboard_time": 1720253357,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499795,
-      "num": 499795,
-      "word": "因买家秀显肚子被女装商家要求删除",
-      "onboard_time": 1720660039,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -10083,6 +10091,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 292840,
+      "num": 292840,
+      "word": "张钧甯是学法的",
+      "onboard_time": 1720658900,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292531,
       "num": 292531,
       "word": "大熊猫赴港",
@@ -10329,14 +10345,6 @@
       "onboard_time": 1720263198,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284037,
-      "num": 284037,
-      "word": "越来越多美国人正抛弃智能手机",
-      "onboard_time": 1720659979,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 283952,
@@ -11065,14 +11073,6 @@
       "onboard_time": 1720537158,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 255109,
-      "num": 255109,
-      "word": "张钧甯是学法的",
-      "onboard_time": 1720658900,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 254850,
@@ -12323,6 +12323,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222286,
+      "num": 222286,
+      "word": "台湾新冠死亡病例暴增55%",
+      "onboard_time": 1720661958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222246,
+      "num": 222246,
+      "word": "这个家没了上官雅得散",
+      "onboard_time": 1720660759,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222144,
       "num": 222144,
       "word": "星期狗",
@@ -12833,6 +12849,14 @@
       "onboard_time": 1720371854,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213235,
+      "num": 199817,
+      "word": "李荣浩穿的是杨丞琳的周边",
+      "onboard_time": 1720660759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 212846,
@@ -16299,14 +16323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177208,
-      "num": 177208,
-      "word": "李荣浩穿的是杨丞琳的周边",
-      "onboard_time": 1720660759,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177206,
       "num": 177206,
       "word": "沈梦辰读热搜",
@@ -17859,6 +17875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160126,
+      "num": 160126,
+      "word": "乌拉圭vs哥伦比亚",
+      "onboard_time": 1720658838,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160093,
       "num": 160093,
       "word": "微信恐惧综合症",
@@ -17913,6 +17937,14 @@
       "onboard_time": 1720260676,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159557,
+      "num": 159557,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 159525,
@@ -18601,14 +18633,6 @@
       "onboard_time": 1720012339,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153831,
-      "num": 153831,
-      "word": "乌拉圭vs哥伦比亚",
-      "onboard_time": 1720658838,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 153703,
@@ -22435,6 +22459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122705,
+      "num": 122705,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122666,
       "num": 122666,
       "word": "多地鼓励高考考生学医",
@@ -22771,14 +22803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120177,
-      "num": 120177,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 120163,
       "num": 433175,
       "word": "那些陪你跨过的人还在吗",
@@ -22961,6 +22985,14 @@
       "onboard_time": 1719930498,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118653,
+      "num": 118653,
+      "word": "男子深山爆胎偶遇于东来冒雨救援",
+      "onboard_time": 1720656559,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118425,
@@ -23257,6 +23289,14 @@
       "onboard_time": 1720001118,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115785,
+      "num": 115785,
+      "word": "英格兰 命硬",
+      "onboard_time": 1720656437,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115775,
@@ -23699,14 +23739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112468,
-      "num": 112468,
-      "word": "男子深山爆胎偶遇于东来冒雨救援",
-      "onboard_time": 1720656559,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112443,
       "num": 112443,
       "word": "海底捞等位区还可以打掼蛋",
@@ -23875,20 +23907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110850,
+      "num": 110850,
+      "word": "老人照顾失智女儿44年每天4点起",
+      "onboard_time": 1720661837,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110773,
       "num": 110773,
       "word": "丁程鑫对待朋友好暖心一孩子",
       "onboard_time": 1719816018,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110718,
-      "num": 110718,
-      "word": "这个家没了上官雅得散",
-      "onboard_time": 1720660759,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 110670,
@@ -24467,6 +24499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105826,
+      "num": 518385,
+      "word": "千岛湖朝霞是懂浪漫的",
+      "onboard_time": 1720660039,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105809,
       "num": 105809,
       "word": "奶茶品牌集体降价进入10元时代",
@@ -24867,6 +24907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101484,
+      "num": 101484,
+      "word": "以军袭击加沙学校29人死亡",
+      "onboard_time": 1720662199,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101123,
       "num": 101123,
       "word": "韩廷洗澡镜头",
@@ -24963,6 +25011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "德国女婿心心念念的东北盒饭",
+      "onboard_time": 1720662139,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99233,
       "num": 99233,
       "word": "薛之谦演唱会抢票",
@@ -24993,6 +25049,14 @@
       "onboard_time": 1720652534,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98746,
+      "num": 98746,
+      "word": "为什么用猪油炒菜会那么香",
+      "onboard_time": 1720662077,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 98599,
@@ -25059,6 +25123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97904,
+      "num": 97904,
+      "word": "避免社交我在高铁上装作韩国人",
+      "onboard_time": 1720662257,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97816,
       "num": 97816,
       "word": "摇光录吴亥强制爱",
@@ -25081,14 +25153,6 @@
       "onboard_time": 1720629316,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97487,
-      "num": 97487,
-      "word": "英格兰 命硬",
-      "onboard_time": 1720656437,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 97398,
@@ -25699,14 +25763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89196,
-      "num": 96225,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 89088,
       "num": 89088,
       "word": "英伟达老员工大多成百万富翁",
@@ -25883,6 +25939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 85341,
+      "num": 441656,
+      "word": "洋大叔吃了一口中国小摊汉堡不得了",
+      "onboard_time": 1720661958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85252,
       "num": 85252,
       "word": "荷兰vs英格兰首发",
@@ -26009,14 +26073,6 @@
       "onboard_time": 1720333877,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81896,
-      "num": 518385,
-      "word": "千岛湖朝霞是懂浪漫的",
-      "onboard_time": 1720660039,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 81845,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720661009759,
+  "endTime": 1720662285909,
   "band_list": [
     {
       "raw_hot": 1379341,
@@ -19,6 +19,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1161310,
+      "num": 1161310,
+      "word": "因买家秀显肚子被女装商家要求删除",
+      "onboard_time": 1720660039,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078459,
       "num": 1078459,
       "word": "男子凌晨发现家里多出一个孩子",
@@ -33,6 +41,14 @@
       "onboard_time": 1720616418,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821775,
+      "num": 821775,
+      "word": "越来越多美国人正抛弃智能手机",
+      "onboard_time": 1720659979,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 792182,
@@ -113,14 +129,6 @@
       "onboard_time": 1720654576,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 499795,
-      "num": 499795,
-      "word": "因买家秀显肚子被女装商家要求删除",
-      "onboard_time": 1720660039,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470412,
@@ -235,12 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284037,
-      "num": 284037,
-      "word": "越来越多美国人正抛弃智能手机",
-      "onboard_time": 1720659979,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 292840,
+      "num": 292840,
+      "word": "张钧甯是学法的",
+      "onboard_time": 1720658900,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 281519,
@@ -273,14 +281,6 @@
       "onboard_time": 1720608678,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255109,
-      "num": 255109,
-      "word": "张钧甯是学法的",
-      "onboard_time": 1720658900,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 244459,
@@ -329,6 +329,30 @@
       "onboard_time": 1720621459,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222286,
+      "num": 222286,
+      "word": "台湾新冠死亡病例暴增55%",
+      "onboard_time": 1720661958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222246,
+      "num": 222246,
+      "word": "这个家没了上官雅得散",
+      "onboard_time": 1720660759,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213235,
+      "num": 199817,
+      "word": "李荣浩穿的是杨丞琳的周边",
+      "onboard_time": 1720660759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 209183,
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177208,
-      "num": 177208,
-      "word": "李荣浩穿的是杨丞琳的周边",
-      "onboard_time": 1720660759,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169605,
       "num": 169605,
       "word": "朋友被裁员拿到了50万经济补偿",
@@ -419,12 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153831,
-      "num": 153831,
+      "raw_hot": 160126,
+      "num": 160126,
       "word": "乌拉圭vs哥伦比亚",
       "onboard_time": 1720658838,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159557,
+      "num": 159557,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 151778,
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131028,
+      "num": 131028,
+      "word": "自榨油 黄曲霉素",
+      "onboard_time": 1720661598,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130514,
       "num": 93069,
       "word": "柳智敏女神爆改少萝",
@@ -507,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122705,
+      "num": 122705,
+      "word": "出现14种症状说明你太累了",
+      "onboard_time": 1720638731,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122487,
       "num": 122487,
       "word": "不换贝林厄姆 换福登",
@@ -515,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120177,
-      "num": 120177,
-      "word": "出现14种症状说明你太累了",
-      "onboard_time": 1720638731,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119616,
       "num": 119616,
       "word": "马云回国现身阿里总部",
       "onboard_time": 1720614317,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118653,
+      "num": 118653,
+      "word": "男子深山爆胎偶遇于东来冒雨救援",
+      "onboard_time": 1720656559,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118202,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115785,
+      "num": 115785,
+      "word": "英格兰 命硬",
+      "onboard_time": 1720656437,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114524,
       "num": 148905,
       "word": "上海暴雨",
@@ -587,20 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112468,
-      "num": 112468,
-      "word": "男子深山爆胎偶遇于东来冒雨救援",
-      "onboard_time": 1720656559,
-      "rank": 41,
+      "raw_hot": 110850,
+      "num": 110850,
+      "word": "老人照顾失智女儿44年每天4点起",
+      "onboard_time": 1720661837,
+      "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110718,
-      "num": 110718,
-      "word": "这个家没了上官雅得散",
-      "onboard_time": 1720660759,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 108446,
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105826,
+      "num": 518385,
+      "word": "千岛湖朝霞是懂浪漫的",
+      "onboard_time": 1720660039,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105813,
       "num": 98491,
       "word": "长相思2站内热度值破29000",
@@ -667,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101484,
+      "num": 101484,
+      "word": "以军袭击加沙学校29人死亡",
+      "onboard_time": 1720662199,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101077,
       "num": 108537,
       "word": "老人接诈骗电话后存折上的27万被转走",
@@ -683,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "德国女婿心心念念的东北盒饭",
+      "onboard_time": 1720662139,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98758,
       "num": 98758,
       "word": "卫生间的发展令我汗流浃背了",
@@ -691,20 +755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98746,
+      "num": 98746,
+      "word": "为什么用猪油炒菜会那么香",
+      "onboard_time": 1720662077,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 97904,
+      "num": 97904,
+      "word": "避免社交我在高铁上装作韩国人",
+      "onboard_time": 1720662257,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97583,
       "num": 95022,
       "word": "相柳没亏欠过任何人除了自己",
       "onboard_time": 1720629316,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97487,
-      "num": 97487,
-      "word": "英格兰 命硬",
-      "onboard_time": 1720656437,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 93815,
@@ -739,20 +811,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89196,
-      "num": 96225,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 88602,
       "num": 88602,
       "word": "这5种水果晚上千万别吃",
       "onboard_time": 1720612698,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85341,
+      "num": 441656,
+      "word": "洋大叔吃了一口中国小摊汉堡不得了",
+      "onboard_time": 1720661958,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85252,
@@ -777,14 +849,6 @@
       "onboard_time": 1720645932,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81896,
-      "num": 518385,
-      "word": "千岛湖朝霞是懂浪漫的",
-      "onboard_time": 1720660039,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 81394,
