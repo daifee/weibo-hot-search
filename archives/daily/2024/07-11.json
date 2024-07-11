@@ -1,7 +1,23 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720662285909,
+  "endTime": 1720665521810,
   "band_list": [
+    {
+      "raw_hot": 1411036,
+      "num": 378299,
+      "word": "台湾新冠死亡病例暴增55%",
+      "onboard_time": 1720661958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389129,
+      "num": 1389129,
+      "word": "71%的iPhone使用已超两年",
+      "onboard_time": 1720662558,
+      "rank": 0,
+      "category": "数码"
+    },
     {
       "raw_hot": 1379341,
       "num": 1379341,
@@ -19,8 +35,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1161310,
-      "num": 1161310,
+      "raw_hot": 1304018,
+      "num": 1304018,
       "word": "因买家秀显肚子被女装商家要求删除",
       "onboard_time": 1720660039,
       "rank": 11,
@@ -35,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865840,
+      "num": 865840,
+      "word": "越来越多美国人正抛弃智能手机",
+      "onboard_time": 1720659979,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 831821,
       "num": 252707,
       "word": "入职了情趣用品公司不敢告诉妈妈",
       "onboard_time": 1720616418,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821775,
-      "num": 821775,
-      "word": "越来越多美国人正抛弃智能手机",
-      "onboard_time": 1720659979,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 792182,
@@ -131,6 +147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558748,
+      "num": 558748,
+      "word": "刘诗诗小腿有绷带",
+      "onboard_time": 1720663938,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 483806,
+      "num": 483806,
+      "word": "长相思真把阿念养得很好",
+      "onboard_time": 1720664477,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470412,
       "num": 290882,
       "word": "哪有艺人围观素人接吻摔倒的",
@@ -169,6 +201,14 @@
       "onboard_time": 1720626677,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400720,
+      "num": 400720,
+      "word": "工作人员为Jennie发声",
+      "onboard_time": 1720662978,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 361657,
@@ -211,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320488,
+      "num": 320488,
+      "word": "自榨油 黄曲霉素",
+      "onboard_time": 1720661598,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 318442,
       "num": 318442,
       "word": "汪海林吐槽年轻女演员不会演戏",
@@ -243,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293613,
+      "num": 293613,
+      "word": "中国女游客海上漂36小时后获救",
+      "onboard_time": 1720662618,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "张钧甯是学法的",
@@ -251,12 +307,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288850,
+      "num": 288850,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 281519,
       "num": 281519,
       "word": "罪犯得知儿子高考697分喜极而泣",
       "onboard_time": 1720602797,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 265816,
+      "num": 265816,
+      "word": "这个家没了上官雅得散",
+      "onboard_time": 1720660759,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 265556,
@@ -281,6 +353,14 @@
       "onboard_time": 1720608678,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254916,
+      "num": 254916,
+      "word": "乌拉圭0比1哥伦比亚",
+      "onboard_time": 1720663577,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 244459,
@@ -331,22 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222286,
-      "num": 222286,
-      "word": "台湾新冠死亡病例暴增55%",
-      "onboard_time": 1720661958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222246,
-      "num": 222246,
-      "word": "这个家没了上官雅得散",
-      "onboard_time": 1720660759,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213235,
       "num": 199817,
       "word": "李荣浩穿的是杨丞琳的周边",
@@ -379,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201948,
+      "num": 201948,
+      "word": "特朗普称当总统后送扎克伯格进监狱",
+      "onboard_time": 1720665499,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 195960,
       "num": 62290,
       "word": "喜欢睡觉但晚上舍不得睡",
@@ -387,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187441,
+      "num": 187441,
+      "word": "十天之后回到现实全阵容官宣",
+      "onboard_time": 1720664836,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185199,
       "num": 185199,
       "word": "接南门事业运",
       "onboard_time": 1720653434,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184896,
+      "num": 184896,
+      "word": "为什么用猪油炒菜会那么香",
+      "onboard_time": 1720662077,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 180487,
@@ -409,6 +497,14 @@
       "onboard_time": 1720605918,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171168,
+      "num": 171168,
+      "word": "冰岛的劲这么大吗",
+      "onboard_time": 1720663459,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 169605,
@@ -435,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162469,
+      "num": 162469,
+      "word": "研究称手机携带的细菌足以致病",
+      "onboard_time": 1720663816,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160126,
       "num": 160126,
       "word": "乌拉圭vs哥伦比亚",
@@ -443,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159557,
-      "num": 159557,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "鞠婧祎回应演唱会票难抢",
+      "onboard_time": 1720664656,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 151778,
@@ -465,6 +569,14 @@
       "onboard_time": 1720621338,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140451,
+      "num": 140451,
+      "word": "张杰铁血娜脑",
+      "onboard_time": 1720664357,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 138916,
@@ -491,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133296,
+      "num": 133296,
+      "word": "老人照顾失智女儿44年每天4点起",
+      "onboard_time": 1720661837,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132910,
       "num": 132910,
       "word": "英格兰将与西班牙争冠",
@@ -513,14 +633,6 @@
       "onboard_time": 1720627097,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131028,
-      "num": 131028,
-      "word": "自榨油 黄曲霉素",
-      "onboard_time": 1720661598,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 130514,
@@ -553,6 +665,14 @@
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120605,
+      "num": 120605,
+      "word": "架不住涂山璟搞纯爱",
+      "onboard_time": 1720664778,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 119616,
@@ -635,12 +755,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110850,
-      "num": 110850,
-      "word": "老人照顾失智女儿44年每天4点起",
-      "onboard_time": 1720661837,
-      "rank": 42,
+      "raw_hot": 112089,
+      "num": 441656,
+      "word": "洋大叔吃了一口中国小摊汉堡不得了",
+      "onboard_time": 1720661958,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110728,
+      "num": 110728,
+      "word": "张泽禹摔倒",
+      "onboard_time": 1720664598,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108446,
@@ -755,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98746,
-      "num": 98746,
-      "word": "为什么用猪油炒菜会那么香",
-      "onboard_time": 1720662077,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 97904,
       "num": 97904,
       "word": "避免社交我在高铁上装作韩国人",
@@ -785,6 +905,14 @@
       "onboard_time": 1720627755,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93194,
+      "num": 93194,
+      "word": "没一个字是辰荣馨悦爱听的",
+      "onboard_time": 1720665257,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 92557,
@@ -817,14 +945,6 @@
       "onboard_time": 1720612698,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 85341,
-      "num": 441656,
-      "word": "洋大叔吃了一口中国小摊汉堡不得了",
-      "onboard_time": 1720661958,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85252,
@@ -1131,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22440,
+      "num": 126012,
+      "word": "尼山为什么",
+      "onboard_time": 1720663217,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22195,
       "num": 22195,
       "word": "德佩伤退",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1720633572,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 7296,
+      "num": 169944,
+      "word": "日本手足口病蔓延至36区",
+      "onboard_time": 1720665436,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

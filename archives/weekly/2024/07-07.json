@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720662285909,
+  "endTime": 1720665521810,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -251,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1411036,
+      "num": 378299,
+      "word": "台湾新冠死亡病例暴增55%",
+      "onboard_time": 1720661958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389129,
+      "num": 1389129,
+      "word": "71%的iPhone使用已超两年",
+      "onboard_time": 1720662558,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1387197,
       "num": 1387197,
       "word": "papi被高管好友吐槽不求上进",
@@ -313,6 +329,14 @@
       "onboard_time": 1720431920,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1304018,
+      "num": 1304018,
+      "word": "因买家秀显肚子被女装商家要求删除",
+      "onboard_time": 1720660039,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1295788,
@@ -433,14 +457,6 @@
       "onboard_time": 1720430839,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1161310,
-      "num": 1161310,
-      "word": "因买家秀显肚子被女装商家要求删除",
-      "onboard_time": 1720660039,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1156786,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865840,
+      "num": 865840,
+      "word": "越来越多美国人正抛弃智能手机",
+      "onboard_time": 1720659979,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 865655,
       "num": 865655,
       "word": "美方栽赃中国后露馅改证据又被发现",
@@ -945,14 +969,6 @@
       "onboard_time": 1720490837,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821775,
-      "num": 821775,
-      "word": "越来越多美国人正抛弃智能手机",
-      "onboard_time": 1720659979,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 821428,
@@ -1827,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558748,
+      "num": 558748,
+      "word": "刘诗诗小腿有绷带",
+      "onboard_time": 1720663938,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 557623,
       "num": 437959,
       "word": "林俊杰18年开了200场演唱会",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1720597577,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483806,
+      "num": 483806,
+      "word": "长相思真把阿念养得很好",
+      "onboard_time": 1720664477,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 481781,
@@ -3011,6 +3043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400720,
+      "num": 400720,
+      "word": "工作人员为Jennie发声",
+      "onboard_time": 1720662978,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399871,
       "num": 246090,
       "word": "读研是一场巨大的服从性测试",
@@ -3803,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320488,
+      "num": 320488,
+      "word": "自榨油 黄曲霉素",
+      "onboard_time": 1720499419,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 319516,
       "num": 319516,
       "word": "女子退休后健身半年被刷走146万",
@@ -4099,6 +4147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293613,
+      "num": 293613,
+      "word": "中国女游客海上漂36小时后获救",
+      "onboard_time": 1720662618,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293072,
       "num": 293072,
       "word": "金龙鱼全面自查",
@@ -4153,6 +4209,14 @@
       "onboard_time": 1720578917,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288850,
+      "num": 288850,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 287958,
@@ -4371,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265816,
+      "num": 265816,
+      "word": "这个家没了上官雅得散",
+      "onboard_time": 1720660759,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265556,
       "num": 265556,
       "word": "张晚意 说你那是红的就是红的",
@@ -4497,6 +4569,14 @@
       "onboard_time": 1720537158,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 254916,
+      "num": 254916,
+      "word": "乌拉圭0比1哥伦比亚",
+      "onboard_time": 1720663577,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 254218,
@@ -4993,22 +5073,6 @@
       "onboard_time": 1720313476,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222286,
-      "num": 222286,
-      "word": "台湾新冠死亡病例暴增55%",
-      "onboard_time": 1720661958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222246,
-      "num": 222246,
-      "word": "这个家没了上官雅得散",
-      "onboard_time": 1720660759,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 222144,
@@ -5569,6 +5633,14 @@
       "onboard_time": 1720611258,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201948,
+      "num": 201948,
+      "word": "特朗普称当总统后送扎克伯格进监狱",
+      "onboard_time": 1720665499,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 201438,
@@ -6179,6 +6251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187441,
+      "num": 187441,
+      "word": "十天之后回到现实全阵容官宣",
+      "onboard_time": 1720664836,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187189,
       "num": 187189,
       "word": "LNG战胜WBG",
@@ -6265,6 +6345,14 @@
       "onboard_time": 1720653434,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184896,
+      "num": 184896,
+      "word": "为什么用猪油炒菜会那么香",
+      "onboard_time": 1720662077,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 184722,
@@ -6843,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171168,
+      "num": 171168,
+      "word": "冰岛的劲这么大吗",
+      "onboard_time": 1720663459,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171026,
       "num": 171026,
       "word": "美国校园暴力致13岁少女自杀引公愤",
@@ -7267,6 +7363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162469,
+      "num": 162469,
+      "word": "研究称手机携带的细菌足以致病",
+      "onboard_time": 1720663816,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162051,
       "num": 158872,
       "word": "长相思2站内热度值破29000",
@@ -7297,14 +7401,6 @@
       "onboard_time": 1720412840,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161319,
-      "num": 161319,
-      "word": "自榨油 黄曲霉素",
-      "onboard_time": 1720499419,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 161058,
@@ -7361,14 +7457,6 @@
       "onboard_time": 1720530018,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159557,
-      "num": 159557,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 159258,
@@ -7713,6 +7801,14 @@
       "onboard_time": 1720351818,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "鞠婧祎回应演唱会票难抢",
+      "onboard_time": 1720664656,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 151739,
@@ -8243,6 +8339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140451,
+      "num": 140451,
+      "word": "张杰铁血娜脑",
+      "onboard_time": 1720664357,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140432,
       "num": 140432,
       "word": "黄宣被误认成具俊晔",
@@ -8577,6 +8681,14 @@
       "onboard_time": 1720360878,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133296,
+      "num": 133296,
+      "word": "老人照顾失智女儿44年每天4点起",
+      "onboard_time": 1720661837,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133111,
@@ -9251,6 +9363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120605,
+      "num": 120605,
+      "word": "架不住涂山璟搞纯爱",
+      "onboard_time": 1720664778,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120564,
       "num": 120564,
       "word": "西班牙3分钟2球",
@@ -9675,6 +9795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112089,
+      "num": 441656,
+      "word": "洋大叔吃了一口中国小摊汉堡不得了",
+      "onboard_time": 1720661958,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "奖杯底座",
@@ -9731,12 +9859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110850,
-      "num": 110850,
-      "word": "老人照顾失智女儿44年每天4点起",
-      "onboard_time": 1720661837,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 110728,
+      "num": 110728,
+      "word": "张泽禹摔倒",
+      "onboard_time": 1720664598,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110670,
@@ -10315,14 +10443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98746,
-      "num": 98746,
-      "word": "为什么用猪油炒菜会那么香",
-      "onboard_time": 1720662077,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 98059,
       "num": 98059,
       "word": "央行将开展临时正回购或逆回购操作",
@@ -10515,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93194,
+      "num": 93194,
+      "word": "没一个字是辰荣馨悦爱听的",
+      "onboard_time": 1720665257,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92598,
       "num": 92598,
       "word": "杨超越字母T编发",
@@ -10649,14 +10777,6 @@
       "onboard_time": 1720603939,
       "rank": 21,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 85341,
-      "num": 441656,
-      "word": "洋大叔吃了一口中国小摊汉堡不得了",
-      "onboard_time": 1720661958,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85252,
@@ -12307,6 +12427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22440,
+      "num": 126012,
+      "word": "尼山为什么",
+      "onboard_time": 1720663217,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22195,
       "num": 22195,
       "word": "德佩伤退",
@@ -12592,6 +12720,14 @@
       "word": "当婺剧遇上00后",
       "onboard_time": 1720377613,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7296,
+      "num": 169944,
+      "word": "日本手足口病蔓延至36区",
+      "onboard_time": 1720665436,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

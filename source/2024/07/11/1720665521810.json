@@ -1,0 +1,410 @@
+{
+  "runTime": 1720665521810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389129,
+        "num": 1389129,
+        "word": "71%的iPhone使用已超两年",
+        "onboard_time": 1720662558,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1304018,
+        "num": 1304018,
+        "word": "因买家秀显肚子被女装商家要求删除",
+        "onboard_time": 1720660039,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42769,
+        "num": 928640,
+        "word": "我国东南地区再添天然气输送大动脉",
+        "onboard_time": 1720618639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865840,
+        "num": 865840,
+        "word": "越来越多美国人正抛弃智能手机",
+        "onboard_time": 1720659979,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 558748,
+        "num": 558748,
+        "word": "刘诗诗小腿有绷带",
+        "onboard_time": 1720663938,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483806,
+        "num": 483806,
+        "word": "长相思真把阿念养得很好",
+        "onboard_time": 1720664477,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457635,
+        "num": 457635,
+        "word": "檀健次回应演技油腻",
+        "onboard_time": 1720655176,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456598,
+        "num": 456598,
+        "word": "俄罗斯人挤爆三亚",
+        "onboard_time": 1720654155,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 400720,
+        "num": 400720,
+        "word": "工作人员为Jennie发声",
+        "onboard_time": 1720662978,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112089,
+        "num": 380945,
+        "word": "洋大叔吃了一口中国小摊汉堡不得了",
+        "onboard_time": 1720661958,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411036,
+        "num": 378299,
+        "word": "台湾新冠死亡病例暴增55%",
+        "onboard_time": 1720661958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368085,
+        "num": 368085,
+        "word": "女清洁工消失在垃圾压缩箱",
+        "onboard_time": 1720626077,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344229,
+        "num": 344229,
+        "word": "小夭不爱涂山璟唯爱叶十七",
+        "onboard_time": 1720654576,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328355,
+        "num": 328355,
+        "word": "iPhone16出货量或达9000万部",
+        "onboard_time": 1720657279,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320488,
+        "num": 320488,
+        "word": "自榨油 黄曲霉素",
+        "onboard_time": 1720661598,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293613,
+        "num": 293613,
+        "word": "中国女游客海上漂36小时后获救",
+        "onboard_time": 1720662618,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288850,
+        "num": 288850,
+        "word": "为什么男女生空调总吹不到一起去",
+        "onboard_time": 1720660699,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 265816,
+        "num": 265816,
+        "word": "这个家没了上官雅得散",
+        "onboard_time": 1720660759,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254916,
+        "num": 254916,
+        "word": "乌拉圭0比1哥伦比亚",
+        "onboard_time": 1720663577,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254050,
+        "num": 254050,
+        "word": "蜜雪冰城回应门店拒卖冰杯",
+        "onboard_time": 1720655057,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381345,
+        "num": 251665,
+        "word": "男子凌晨发现家里多出一个孩子",
+        "onboard_time": 1720658417,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247333,
+        "num": 247333,
+        "word": "睡觉把手举过头顶小心得这种病",
+        "onboard_time": 1720625658,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228381,
+        "num": 228381,
+        "word": "云南1亿只蝴蝶让拍照特效组放假了",
+        "onboard_time": 1720622538,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201948,
+        "num": 201948,
+        "word": "特朗普称当总统后送扎克伯格进监狱",
+        "onboard_time": 1720665499,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187441,
+        "num": 187441,
+        "word": "十天之后回到现实全阵容官宣",
+        "onboard_time": 1720664836,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184896,
+        "num": 184896,
+        "word": "为什么用猪油炒菜会那么香",
+        "onboard_time": 1720662077,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176417,
+        "num": 176417,
+        "word": "鞠婧祎林允撞衫",
+        "onboard_time": 1720655237,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172641,
+        "num": 172641,
+        "word": "官方通报不在家每年仍要交96元水费",
+        "onboard_time": 1720658358,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171168,
+        "num": 171168,
+        "word": "冰岛的劲这么大吗",
+        "onboard_time": 1720663459,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 7296,
+        "num": 169944,
+        "word": "日本手足口病蔓延至36区",
+        "onboard_time": 1720665436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169016,
+        "num": 169016,
+        "word": "张钧甯是学法的",
+        "onboard_time": 1720658900,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162469,
+        "num": 162469,
+        "word": "研究称手机携带的细菌足以致病",
+        "onboard_time": 1720663816,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159196,
+        "num": 159196,
+        "word": "黄霄雲面部腿部受伤",
+        "onboard_time": 1720619420,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 151917,
+        "word": "鞠婧祎回应演唱会票难抢",
+        "onboard_time": 1720664656,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150577,
+        "num": 150577,
+        "word": "骄阳伴我台湾陆剧冠军",
+        "onboard_time": 1720654335,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140451,
+        "num": 140451,
+        "word": "张杰铁血娜脑",
+        "onboard_time": 1720664357,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133296,
+        "num": 133296,
+        "word": "老人照顾失智女儿44年每天4点起",
+        "onboard_time": 1720661837,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132105,
+        "num": 132105,
+        "word": "13岁尿毒症晚期男孩深夜捡废品",
+        "onboard_time": 1720653795,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 130163,
+        "word": "苹果用户换机周期变长",
+        "onboard_time": 1720658358,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22440,
+        "num": 126012,
+        "word": "尼山为什么",
+        "onboard_time": 1720663217,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122652,
+        "num": 122652,
+        "word": "入职了情趣用品公司不敢告诉妈妈",
+        "onboard_time": 1720616418,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120605,
+        "num": 120605,
+        "word": "架不住涂山璟搞纯爱",
+        "onboard_time": 1720664778,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119491,
+        "num": 119491,
+        "word": "张晚意 说你那是红的就是红的",
+        "onboard_time": 1720654335,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114928,
+        "num": 114928,
+        "word": "杨丞琳连续十年为李荣浩庆生",
+        "onboard_time": 1720655477,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110846,
+        "num": 110846,
+        "word": "乌拉圭vs哥伦比亚",
+        "onboard_time": 1720658838,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 110728,
+        "word": "张泽禹摔倒",
+        "onboard_time": 1720664598,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97109,
+        "num": 97109,
+        "word": "谭松韵收视女王",
+        "onboard_time": 1720657458,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96429,
+        "num": 96429,
+        "word": "经常缺觉的人记忆力损伤不可逆",
+        "onboard_time": 1720656739,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93194,
+        "num": 93194,
+        "word": "没一个字是辰荣馨悦爱听的",
+        "onboard_time": 1720665257,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89868,
+        "num": 89868,
+        "word": "李荣浩穿的是杨丞琳的周边",
+        "onboard_time": 1720660759,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同几内亚比绍总统会谈#"
+    }
+  }
+}
