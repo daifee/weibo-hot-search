@@ -1,10 +1,10 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720666090681,
+  "endTime": 1720668242860,
   "band_list": [
     {
-      "raw_hot": 1593216,
-      "num": 1593216,
+      "raw_hot": 1713718,
+      "num": 1713718,
       "word": "71%的iPhone使用已超两年",
       "onboard_time": 1720662558,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1411036,
-      "num": 387064,
+      "num": 447796,
       "word": "台湾新冠死亡病例暴增55%",
       "onboard_time": 1720661958,
       "rank": 18,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1174794,
+      "num": 1174794,
+      "word": "胡歌首谈和太太相处模式",
+      "onboard_time": 1720665978,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1078459,
       "num": 1078459,
       "word": "男子凌晨发现家里多出一个孩子",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 863960,
-      "num": 236446,
+      "num": 265521,
       "word": "女子180万卖掉杭州房子120万买回",
       "onboard_time": 1720665677,
       "rank": 21,
@@ -81,6 +89,22 @@
       "onboard_time": 1720657279,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 741261,
+      "num": 741261,
+      "word": "唐朝诡事录把黄梅杀续上了",
+      "onboard_time": 1720666877,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 723885,
+      "num": 723885,
+      "word": "特朗普称当总统后送扎克伯格进监狱",
+      "onboard_time": 1720665499,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 692881,
@@ -171,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514562,
+      "num": 514562,
+      "word": "扬州地震",
+      "onboard_time": 1720665557,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470412,
       "num": 290882,
       "word": "哪有艺人围观素人接吻摔倒的",
@@ -203,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448120,
+      "num": 448120,
+      "word": "中国女游客海上漂36小时后获救",
+      "onboard_time": 1720662618,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447725,
+      "num": 447725,
+      "word": "北约首次直接警告中国",
+      "onboard_time": 1720667957,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 406733,
       "num": 269518,
       "word": "鞠婧祎想靠不敢靠",
@@ -217,14 +265,6 @@
       "onboard_time": 1720662978,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387190,
-      "num": 387190,
-      "word": "中国女游客海上漂36小时后获救",
-      "onboard_time": 1720662618,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361657,
@@ -243,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357940,
+      "num": 357940,
+      "word": "上海著名滑稽演员傅子明逝世",
+      "onboard_time": 1720666398,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349411,
+      "num": 349411,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 344462,
       "num": 288864,
       "word": "涂山璟粉底液避雷",
@@ -251,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337686,
-      "num": 337686,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 336590,
       "num": 336590,
       "word": "骄阳伴我台湾陆剧冠军",
       "onboard_time": 1720654335,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322074,
+      "num": 322074,
+      "word": "Uzi说自己要凉了",
+      "onboard_time": 1720666216,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 321004,
@@ -291,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310718,
-      "num": 310718,
-      "word": "特朗普称当总统后送扎克伯格进监狱",
-      "onboard_time": 1720665499,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 311278,
+      "num": 311278,
+      "word": "陈昊宇陈丽君合作OST",
+      "onboard_time": 1720666277,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 306494,
@@ -427,12 +483,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223161,
+      "num": 223161,
+      "word": "我们的歌第六季定档",
+      "onboard_time": 1720667717,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218231,
+      "num": 218231,
+      "word": "雷军将重回小米手机发布会",
+      "onboard_time": 1720666877,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 215349,
+      "num": 215349,
+      "word": "马嘉祺官宣七周年",
+      "onboard_time": 1720668017,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213235,
       "num": 199817,
       "word": "李荣浩穿的是杨丞琳的周边",
       "onboard_time": 1720660759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211682,
+      "num": 211682,
+      "word": "黄景瑜藏獒进猫箱",
+      "onboard_time": 1720667118,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 209183,
@@ -475,12 +563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194751,
-      "num": 194751,
-      "word": "扬州地震",
-      "onboard_time": 1720665557,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 195351,
+      "num": 195351,
+      "word": "胡歌发文为阿玛尼先生九十大寿庆生",
+      "onboard_time": 1720667658,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194134,
+      "num": 194134,
+      "word": "网友P的夭玹亲了",
+      "onboard_time": 1720666516,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189360,
@@ -499,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183376,
+      "num": 183376,
+      "word": "南海仲裁案裁决再批驳报告发布",
+      "onboard_time": 1720666818,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180487,
       "num": 147689,
       "word": "涂山璟这台词是我能听的吗",
@@ -515,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177007,
+      "num": 177007,
+      "word": "迪士尼收割中产父母",
+      "onboard_time": 1720667238,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 175406,
       "num": 151917,
       "word": "鞠婧祎回应演唱会票难抢",
       "onboard_time": 1720664656,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172200,
+      "num": 172200,
+      "word": "努涅斯和球迷互殴",
+      "onboard_time": 1720668078,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 171168,
@@ -537,6 +657,14 @@
       "onboard_time": 1720614739,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168429,
+      "num": 168429,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1720666516,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 166038,
@@ -579,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149080,
+      "num": 149080,
+      "word": "菲律宾附近海域7.0级地震",
+      "onboard_time": 1720667537,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "马龙最喜欢大家叫他龙队",
@@ -603,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142104,
-      "num": 142104,
-      "word": "胡歌首谈和太太相处模式",
-      "onboard_time": 1720665978,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 142238,
+      "num": 142238,
+      "word": "郎平谈中国女排最大危机",
+      "onboard_time": 1720668017,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 140451,
@@ -675,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128139,
+      "num": 128139,
+      "word": "曾黎大波浪被大雨浇直了",
+      "onboard_time": 1720665796,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127418,
       "num": 127418,
       "word": "架不住涂山璟搞纯爱",
@@ -697,14 +841,6 @@
       "onboard_time": 1720638731,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122521,
-      "num": 122521,
-      "word": "曾黎大波浪被大雨浇直了",
-      "onboard_time": 1720665796,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122487,
@@ -1027,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75571,
+      "num": 928067,
+      "word": "发现最美铁路",
+      "onboard_time": 1720666216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71568,
       "num": 71568,
       "word": "裁判",
@@ -1057,6 +1201,14 @@
       "onboard_time": 1720608199,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66774,
+      "num": 447863,
+      "word": "老旧电梯总出故障为啥还不报废",
+      "onboard_time": 1720666818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64010,
@@ -1105,6 +1257,14 @@
       "onboard_time": 1720649713,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50684,
+      "num": 183589,
+      "word": "了不起的中国电动车",
+      "onboard_time": 1720667118,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 50257,
@@ -1265,6 +1425,14 @@
       "onboard_time": 1720644851,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25741,
+      "num": 198939,
+      "word": "韩国首尔大学N号房事件",
+      "onboard_time": 1720667778,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25680,

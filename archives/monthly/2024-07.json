@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720666090681,
+  "endTime": 1720668242860,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1713718,
+      "num": 1713718,
+      "word": "71%的iPhone使用已超两年",
+      "onboard_time": 1720662558,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1711566,
       "num": 1711566,
       "word": "5.56万吨块石运往洞庭湖决口",
@@ -481,14 +489,6 @@
       "onboard_time": 1720589119,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1593216,
-      "num": 1593216,
-      "word": "71%的iPhone使用已超两年",
-      "onboard_time": 1720662558,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 1589081,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1411036,
-      "num": 387064,
+      "num": 447796,
       "word": "台湾新冠死亡病例暴增55%",
       "onboard_time": 1720661958,
       "rank": 18,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1720319836,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174794,
+      "num": 1174794,
+      "word": "胡歌首谈和太太相处模式",
+      "onboard_time": 1720665978,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 1168087,
@@ -2228,7 +2236,7 @@
     },
     {
       "raw_hot": 863960,
-      "num": 236446,
+      "num": 265521,
       "word": "女子180万卖掉杭州房子120万买回",
       "onboard_time": 1720665677,
       "rank": 21,
@@ -3027,6 +3035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 741261,
+      "num": 741261,
+      "word": "唐朝诡事录把黄梅杀续上了",
+      "onboard_time": 1720666877,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741227,
       "num": 652774,
       "word": "林丹曾吐槽国际羽联",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1720448600,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723885,
+      "num": 723885,
+      "word": "特朗普称当总统后送扎克伯格进监狱",
+      "onboard_time": 1720665499,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 722103,
@@ -6611,12 +6635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448120,
+      "num": 448120,
+      "word": "中国女游客海上漂36小时后获救",
+      "onboard_time": 1720662618,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448012,
       "num": 448012,
       "word": "凤凰天使回归",
       "onboard_time": 1720443380,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447725,
+      "num": 447725,
+      "word": "北约首次直接警告中国",
+      "onboard_time": 1720667957,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 447092,
@@ -7851,14 +7891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 387190,
-      "num": 387190,
-      "word": "中国女游客海上漂36小时后获救",
-      "onboard_time": 1720662618,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385771,
       "num": 321581,
       "word": "印度决定放宽对中国工人的签证限制",
@@ -8523,6 +8555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357940,
+      "num": 357940,
+      "word": "上海著名滑稽演员傅子明逝世",
+      "onboard_time": 1720666398,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357519,
       "num": 357519,
       "word": "入职体检报告你看懂了吗",
@@ -8761,6 +8801,14 @@
       "onboard_time": 1720481716,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349411,
+      "num": 349411,
+      "word": "为什么男女生空调总吹不到一起去",
+      "onboard_time": 1720660699,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 349129,
@@ -9057,14 +9105,6 @@
       "onboard_time": 1720011498,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337686,
-      "num": 337686,
-      "word": "为什么男女生空调总吹不到一起去",
-      "onboard_time": 1720660699,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 336882,
@@ -9459,6 +9499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322074,
+      "num": 322074,
+      "word": "Uzi说自己要凉了",
+      "onboard_time": 1720666216,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321965,
       "num": 321965,
       "word": "陈昊宇乘风年度总冠军感言",
@@ -9715,6 +9763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 311278,
+      "num": 311278,
+      "word": "陈昊宇陈丽君合作OST",
+      "onboard_time": 1720666277,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311273,
       "num": 311273,
       "word": "印度北方邦踩踏事件死亡人数升至90人",
@@ -9729,14 +9785,6 @@
       "onboard_time": 1720511418,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310718,
-      "num": 310718,
-      "word": "特朗普称当总统后送扎克伯格进监狱",
-      "onboard_time": 1720665499,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 310644,
@@ -12411,6 +12459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223161,
+      "num": 223161,
+      "word": "我们的歌第六季定档",
+      "onboard_time": 1720667717,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222386,
       "num": 212258,
       "word": "Doinb说BLG输T1不是坏事",
@@ -12569,6 +12625,14 @@
       "onboard_time": 1720572978,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218231,
+      "num": 218231,
+      "word": "雷军将重回小米手机发布会",
+      "onboard_time": 1720666877,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 218135,
@@ -12777,6 +12841,14 @@
       "onboard_time": 1720266378,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215349,
+      "num": 215349,
+      "word": "马嘉祺官宣七周年",
+      "onboard_time": 1720668017,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 215036,
@@ -13009,6 +13081,14 @@
       "onboard_time": 1720274539,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211682,
+      "num": 211682,
+      "word": "黄景瑜藏獒进猫箱",
+      "onboard_time": 1720667118,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 211136,
@@ -14587,6 +14667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195351,
+      "num": 195351,
+      "word": "胡歌发文为阿玛尼先生九十大寿庆生",
+      "onboard_time": 1720667658,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195031,
       "num": 195031,
       "word": "柯南30周年纪念展来上海了",
@@ -14665,6 +14753,14 @@
       "onboard_time": 1720009338,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194134,
+      "num": 194134,
+      "word": "网友P的夭玹亲了",
+      "onboard_time": 1720666516,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194109,
@@ -15803,6 +15899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183376,
+      "num": 183376,
+      "word": "南海仲裁案裁决再批驳报告发布",
+      "onboard_time": 1720666818,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183374,
       "num": 183374,
       "word": "这剧怎么哭得梨花带雨的是男主",
@@ -16451,6 +16555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177007,
+      "num": 177007,
+      "word": "迪士尼收割中产父母",
+      "onboard_time": 1720667238,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 176972,
       "num": 176972,
       "word": "龙卷风",
@@ -16889,6 +17001,14 @@
       "onboard_time": 1720405879,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172200,
+      "num": 172200,
+      "word": "努涅斯和球迷互殴",
+      "onboard_time": 1720668078,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 172175,
@@ -19219,6 +19339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149080,
+      "num": 149080,
+      "word": "菲律宾附近海域7.0级地震",
+      "onboard_time": 1720667537,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148610,
       "num": 148610,
       "word": "赵明称苹果近几年没什么创新",
@@ -20035,6 +20163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 142238,
+      "num": 142238,
+      "word": "郎平谈中国女排最大危机",
+      "onboard_time": 1720668017,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142203,
       "num": 142203,
       "word": "涂山璟 有点心机又如何",
@@ -20089,14 +20225,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142104,
-      "num": 142104,
-      "word": "胡歌首谈和太太相处模式",
-      "onboard_time": 1720665978,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 141685,
@@ -21939,6 +22067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128139,
+      "num": 128139,
+      "word": "曾黎大波浪被大雨浇直了",
+      "onboard_time": 1720665796,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 128113,
       "num": 128113,
       "word": "国乒张师傅",
@@ -22649,14 +22785,6 @@
       "onboard_time": 1720419499,
       "rank": 40,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 122521,
-      "num": 122521,
-      "word": "曾黎大波浪被大雨浇直了",
-      "onboard_time": 1720665796,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122487,
@@ -26435,6 +26563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75571,
+      "num": 928067,
+      "word": "发现最美铁路",
+      "onboard_time": 1720666216,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75559,
       "num": 63897,
       "word": "小鬼也A起来了",
@@ -26705,6 +26841,14 @@
       "onboard_time": 1720172358,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66774,
+      "num": 447863,
+      "word": "老旧电梯总出故障为啥还不报废",
+      "onboard_time": 1720666818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66683,
@@ -27689,6 +27833,14 @@
       "onboard_time": 1720599978,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50684,
+      "num": 183589,
+      "word": "了不起的中国电动车",
+      "onboard_time": 1720667118,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 50652,
@@ -29329,6 +29481,14 @@
       "onboard_time": 1720193121,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25741,
+      "num": 198939,
+      "word": "韩国首尔大学N号房事件",
+      "onboard_time": 1720667778,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25710,
