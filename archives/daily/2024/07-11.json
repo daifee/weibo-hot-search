@@ -1,6 +1,6 @@
 {
   "startTime": 1720628689641,
-  "endTime": 1720683271786,
+  "endTime": 1720686268703,
   "band_list": [
     {
       "raw_hot": 2591021,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1361591,
+      "num": 1361591,
+      "word": "冉莹颖夫妇创业七年卖掉所有房产",
+      "onboard_time": 1720683138,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1321991,
       "num": 1321991,
       "word": "俄罗斯人挤爆三亚",
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903592,
+      "num": 903592,
+      "word": "教育局暑假招教师照看干部子女",
+      "onboard_time": 1720684459,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865840,
       "num": 865840,
       "word": "越来越多美国人正抛弃智能手机",
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862138,
+      "num": 862138,
+      "word": "大胖媳妇失散36年的爹找到了",
+      "onboard_time": 1720683678,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 861810,
       "num": 861810,
       "word": "唐朝诡事录把黄梅杀续上了",
@@ -137,6 +161,14 @@
       "onboard_time": 1720616418,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809721,
+      "num": 809721,
+      "word": "歌手歌单",
+      "onboard_time": 1720684037,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 792182,
@@ -435,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446591,
+      "num": 446591,
+      "word": "半夜1点弟弟到姐姐屋蹭空调",
+      "onboard_time": 1720682657,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441679,
       "num": 441679,
       "word": "杨紫长相思2见面会穿高定",
       "onboard_time": 1720679299,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426081,
+      "num": 426081,
+      "word": "又要熬夜看奥运比赛了",
+      "onboard_time": 1720680978,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 406733,
@@ -475,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385827,
+      "num": 385827,
+      "word": "iPhone16至19系列相机路线图",
+      "onboard_time": 1720681938,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 382305,
       "num": 382305,
       "word": "南波万巡演官宣",
@@ -489,6 +545,14 @@
       "onboard_time": 1720675459,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369863,
+      "num": 369863,
+      "word": "东营",
+      "onboard_time": 1720684999,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 361657,
@@ -603,14 +667,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 319299,
-      "num": 319299,
-      "word": "又要熬夜看奥运比赛了",
-      "onboard_time": 1720680978,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 318442,
       "num": 318442,
       "word": "汪海林吐槽年轻女演员不会演戏",
@@ -675,14 +731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 291970,
-      "num": 218826,
-      "word": "半夜1点弟弟到姐姐屋蹭空调",
-      "onboard_time": 1720682657,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283076,
       "num": 283076,
       "word": "鞠婧祎取关前工作室",
@@ -699,20 +747,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 281452,
-      "num": 281452,
-      "word": "iPhone16至19系列相机路线图",
-      "onboard_time": 1720681938,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 266402,
       "num": 266402,
       "word": "张晚意清唱了万物不如你",
       "onboard_time": 1720681758,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266108,
+      "num": 266108,
+      "word": "萝卜快跑回应车内有摄像头监控",
+      "onboard_time": 1720684878,
+      "rank": 23,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 265816,
@@ -817,6 +865,14 @@
       "onboard_time": 1720666877,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 229790,
+      "num": 229790,
+      "word": "入职一个月公司又在招聘我的岗位",
+      "onboard_time": 1720684037,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 229750,
@@ -931,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213374,
+      "num": 213374,
+      "word": "孙颖莎说为国而战是最大使命",
+      "onboard_time": 1720683497,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213235,
       "num": 199817,
       "word": "李荣浩穿的是杨丞琳的周边",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1720681218,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204860,
+      "num": 204860,
+      "word": "林俊杰演唱会可能看一场少一场",
+      "onboard_time": 1720686018,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 204680,
@@ -1091,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192488,
-      "num": 192488,
-      "word": "冉莹颖夫妇创业七年卖掉所有房产",
-      "onboard_time": 1720683138,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190211,
       "num": 508288,
       "word": "这一届大学生卷起了暑假工",
@@ -1171,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177146,
+      "num": 177146,
+      "word": "Uzi直播人气严重下滑",
+      "onboard_time": 1720685778,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175406,
       "num": 151917,
       "word": "鞠婧祎回应演唱会票难抢",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1720666516,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166214,
+      "num": 166214,
+      "word": "电影默杀",
+      "onboard_time": 1720685958,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 166038,
@@ -1321,6 +1401,22 @@
       "onboard_time": 1720600218,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "歌手第十期演唱预测",
+      "onboard_time": 1720684760,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149859,
+      "num": 149859,
+      "word": "Knight身体不适",
+      "onboard_time": 1720685958,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 148924,
@@ -1547,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124466,
+      "num": 124466,
+      "word": "白色橄榄树集数变更",
+      "onboard_time": 1720685479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122705,
       "num": 122705,
       "word": "出现14种症状说明你太累了",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121635,
+      "num": 121635,
+      "word": "萝卜快跑车内有摄像头隐私怎么办",
+      "onboard_time": 1720685958,
+      "rank": 46,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 119616,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1720619899,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112157,
+      "num": 112157,
+      "word": "杨紫露肩白裙",
+      "onboard_time": 1720686139,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110728,
@@ -1947,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65817,
+      "num": 532625,
+      "word": "自动驾驶来了你是怕还是盼",
+      "onboard_time": 1720685418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64010,
       "num": 64010,
       "word": "这老师是学生的清汤大老爷吧",
@@ -1985,6 +2113,14 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57922,
+      "num": 995197,
+      "word": "暴雨天要牢记这10个安全提醒",
+      "onboard_time": 1720686197,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53921,
@@ -2195,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25370,
+      "num": 502215,
+      "word": "中国的海洋生态环境保护白皮书发布",
+      "onboard_time": 1720685659,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25232,
       "num": 25232,
       "word": "欧洲杯半决赛里的小孩哥好猛",
@@ -2292,6 +2436,9 @@
     },
     {
       "word": "#一组学习笔记了解中国式现代化#"
+    },
+    {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
     }
   ]
 }
