@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720823842285,
+  "endTime": 1720826357398,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -35,11 +35,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554084,
-      "num": 554084,
+      "raw_hot": 781096,
+      "num": 805600,
       "word": "浙江14岁女孩确诊马斯克同款天才病",
       "onboard_time": 1720804576,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555128,
+      "num": 121010,
+      "word": "孟晚舟建议不要选和机器竞争的职业",
+      "onboard_time": 1720825995,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -99,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260212,
+      "num": 120444,
+      "word": "这3种卫生巾慎买",
+      "onboard_time": 1720823713,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251513,
       "num": 251513,
       "word": "曹璐 爱豆圈唯一人脉",
       "onboard_time": 1720795459,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233065,
+      "num": 233065,
+      "word": "外交部回应日方要求逮捕2名中国人",
+      "onboard_time": 1720786757,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230431,
@@ -123,6 +147,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 200953,
+      "num": 85754,
+      "word": "月经周期21天比35天衰老更快吗",
+      "onboard_time": 1720804576,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190758,
       "num": 190758,
       "word": "四川大学公示拟撤销31个专业",
@@ -131,12 +163,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 183766,
-      "num": 85754,
-      "word": "月经周期21天比35天衰老更快吗",
-      "onboard_time": 1720804576,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 189376,
+      "num": 189376,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 181261,
@@ -153,14 +185,6 @@
       "onboard_time": 1720779738,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164453,
-      "num": 164453,
-      "word": "外交部回应日方要求逮捕2名中国人",
-      "onboard_time": 1720786757,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162286,
@@ -323,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117716,
+      "num": 117716,
+      "word": "人鱼已杀青",
+      "onboard_time": 1720826294,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117512,
       "num": 117512,
       "word": "汪苏泷被沈梦辰吓一跳",
       "onboard_time": 1720796839,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116606,
-      "num": 116606,
-      "word": "谁家夫妻做成这模样啊",
-      "onboard_time": 1720787778,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 105252,
@@ -379,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78402,
+      "num": 76418,
+      "word": "为什么小腿肌会被称为人的第二心脏",
+      "onboard_time": 1720809792,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75977,
       "num": 113634,
       "word": "王健林7月连卖3座万达广场",
@@ -403,8 +435,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73500,
+      "num": 73500,
+      "word": "庾澄庆童年时期全家福",
+      "onboard_time": 1720820590,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63577,
-      "num": 38801,
+      "num": 49017,
       "word": "巴西球赛发生冲突警察枪击守门员大腿",
       "onboard_time": 1720805954,
       "rank": 30,
@@ -417,14 +457,6 @@
       "onboard_time": 1720780878,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61296,
-      "num": 57137,
-      "word": "这3种卫生巾慎买",
-      "onboard_time": 1720823713,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 61033,
@@ -451,14 +483,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 49691,
-      "num": 32741,
-      "word": "庾澄庆童年时期全家福",
-      "onboard_time": 1720820590,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49293,
       "num": 111776,
       "word": "未定事件簿兑换码",
@@ -467,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 46998,
-      "num": 46998,
-      "word": "为什么小腿肌会被称为人的第二心脏",
-      "onboard_time": 1720809792,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 47281,
+      "num": 47281,
+      "word": "吴谨言回应墨雨云间团综",
+      "onboard_time": 1720812012,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 44796,
@@ -483,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42072,
+      "num": 42072,
+      "word": "和王一博一起为穿山甲点亮希望",
+      "onboard_time": 1720820170,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39914,
       "num": 57302,
       "word": "赵小童 饭量位列十个勤天前三甲",
       "onboard_time": 1720805654,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38481,
+      "num": 38481,
+      "word": "不敢看第二遍的动漫",
+      "onboard_time": 1720820471,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 36625,
@@ -499,36 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34974,
-      "num": 34974,
+      "raw_hot": 35799,
+      "num": 35799,
+      "word": "小车侧翻四车神同步停车救人",
+      "onboard_time": 1720823773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35594,
+      "num": 35594,
       "word": "暴雨来袭直击重庆防汛抗洪现场",
       "onboard_time": 1720818431,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34717,
-      "num": 34717,
-      "word": "和王一博一起为穿山甲点亮希望",
-      "onboard_time": 1720820170,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28173,
-      "num": 29814,
-      "word": "吴谨言回应墨雨云间团综",
-      "onboard_time": 1720812012,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26009,
-      "num": 29807,
-      "word": "不敢看第二遍的动漫",
-      "onboard_time": 1720820471,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 22354,
@@ -579,11 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12098,
-      "num": 32754,
-      "word": "小车侧翻四车神同步停车救人",
-      "onboard_time": 1720823773,
-      "rank": 29,
+      "raw_hot": 14032,
+      "num": 123460,
+      "word": "3岁娃给生病妈妈盖被关灯好懂事",
+      "onboard_time": 1720825634,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
