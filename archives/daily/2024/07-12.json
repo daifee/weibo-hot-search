@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720783037907,
+  "endTime": 1720784092352,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817934,
+      "num": 692340,
+      "word": "人鱼 没开机",
+      "onboard_time": 1720779859,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 807821,
       "num": 632774,
       "word": "超雄银渐层",
@@ -251,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 692340,
-      "num": 692340,
-      "word": "人鱼 没开机",
-      "onboard_time": 1720779859,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 665952,
       "num": 665952,
       "word": "会谈恋爱的人做对了什么",
@@ -281,6 +281,14 @@
       "onboard_time": 1720759998,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 642268,
+      "num": 430195,
+      "word": "陈赫带娃回张子萱老家过暑假",
+      "onboard_time": 1720780698,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 637441,
@@ -355,14 +363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 556411,
-      "num": 411579,
-      "word": "陈赫带娃回张子萱老家过暑假",
-      "onboard_time": 1720780698,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541297,
       "num": 247110,
       "word": "三种月经异常或是身体在求救",
@@ -393,6 +393,14 @@
       "onboard_time": 1720759159,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 498122,
+      "num": 498122,
+      "word": "王健林7月连卖3座万达广场",
+      "onboard_time": 1720780038,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 498102,
@@ -507,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 424554,
+      "num": 424554,
+      "word": "上半年人民币存款增加11.46万亿元",
+      "onboard_time": 1720780878,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 421716,
       "num": 421716,
       "word": "巴黎奥运增设的4个项目是懂年轻人的",
@@ -587,14 +603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 384167,
-      "num": 384167,
-      "word": "王健林7月连卖3座万达广场",
-      "onboard_time": 1720780038,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 373723,
       "num": 373723,
       "word": "南海",
@@ -609,6 +617,14 @@
       "onboard_time": 1720777457,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370940,
+      "num": 153562,
+      "word": "阿黛尔采访 笑疯",
+      "onboard_time": 1720782797,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 367880,
@@ -657,6 +673,14 @@
       "onboard_time": 1720760418,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353308,
+      "num": 353308,
+      "word": "中方反制美国对台军售",
+      "onboard_time": 1720781299,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 353215,
@@ -739,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312518,
-      "num": 312518,
-      "word": "上半年人民币存款增加11.46万亿元",
-      "onboard_time": 1720780878,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 311965,
       "num": 244851,
       "word": "长相思2各有各的坟想哭",
@@ -801,14 +817,6 @@
       "onboard_time": 1720760357,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296033,
-      "num": 296033,
-      "word": "中方反制美国对台军售",
-      "onboard_time": 1720781299,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 295855,
@@ -915,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250683,
+      "num": 148015,
+      "word": "迪丽热巴流光粉高定",
+      "onboard_time": 1720783338,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249932,
       "num": 227231,
       "word": "非自然死亡新作豪华阵容",
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217113,
+      "num": 147929,
+      "word": "林靖恩父亲首发声",
+      "onboard_time": 1720783697,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213802,
       "num": 194775,
       "word": "抓娃娃",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1720769598,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 207535,
+      "num": 147838,
+      "word": "王源演唱会抢票",
+      "onboard_time": 1720783518,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 204529,
@@ -1131,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193237,
+      "num": 147399,
+      "word": "陈泽抽奖",
+      "onboard_time": 1720783637,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191928,
       "num": 351415,
       "word": "被高铁上的儿童餐食硬控",
@@ -1147,6 +1187,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 191080,
+      "num": 191080,
+      "word": "猫猫今天扎了两个辫辫",
+      "onboard_time": 1720781718,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190905,
       "num": 171031,
       "word": "薛之谦北京演唱会",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1720704258,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189651,
+      "num": 147750,
+      "word": "奔跑吧",
+      "onboard_time": 1720783157,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 188664,
@@ -1339,14 +1395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 166731,
-      "num": 156814,
-      "word": "猫猫今天扎了两个辫辫",
-      "onboard_time": 1720781718,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166424,
       "num": 793935,
       "word": "普通人遇到大暴雨到底该怎么办",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1720762218,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153562,
-      "num": 153562,
-      "word": "阿黛尔采访 笑疯",
-      "onboard_time": 1720782797,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 152764,
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 124387,
-      "num": 124387,
+      "num": 147579,
       "word": "巴黎奥运会凡晨组合死亡之组",
       "onboard_time": 1720781659,
       "rank": 37,
@@ -1827,6 +1867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119544,
+      "num": 147303,
+      "word": "中国农大上新大豆冰淇淋",
+      "onboard_time": 1720782379,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118647,
       "num": 118647,
       "word": "默杀 原生家庭图鉴",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1720775359,
       "rank": 44,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 117761,
+      "num": 117761,
+      "word": "歌手直播",
+      "onboard_time": 1720784059,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117735,
@@ -1923,20 +1979,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 114467,
-      "num": 114467,
-      "word": "中国农大上新大豆冰淇淋",
-      "onboard_time": 1720782379,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113460,
       "num": 1126203,
       "word": "中国科学家发现银河系比想象中更大",
       "onboard_time": 1720775898,
       "rank": 2,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 112732,
+      "num": 208522,
+      "word": "印度1800人竞聘10岗位挤断栏杆",
+      "onboard_time": 1720779198,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112481,
@@ -1992,6 +2048,14 @@
       "word": "青春环游记",
       "onboard_time": 1720771098,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108525,
+      "num": 108525,
+      "word": "歌手2024",
+      "onboard_time": 1720784059,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2243,6 +2307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76831,
+      "num": 107994,
+      "word": "告别腹部脂肪这6点要知道",
+      "onboard_time": 1720784059,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 76346,
       "num": 83927,
       "word": "长相思2最萌的一段",
@@ -2257,6 +2329,22 @@
       "onboard_time": 1720767737,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74702,
+      "num": 107502,
+      "word": "敦促菲方撤走非法滞留仙宾礁船只",
+      "onboard_time": 1720783878,
+      "rank": 48,
+      "category": "国内时政,国外时政"
+    },
+    {
+      "raw_hot": 74567,
+      "num": 107451,
+      "word": "人上了年纪后性格会变化吗",
+      "onboard_time": 1720783758,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72984,
@@ -2545,14 +2633,6 @@
       "onboard_time": 1720761799,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24284,
-      "num": 208522,
-      "word": "印度1800人竞聘10岗位挤断栏杆",
-      "onboard_time": 1720779198,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22974,
