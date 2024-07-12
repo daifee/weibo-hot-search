@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720780647746,
+  "endTime": 1720783037907,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 911988,
-      "num": 469145,
+      "num": 751499,
       "word": "韩国财阀千金涉毒藏匿泰国",
       "onboard_time": 1720776378,
       "rank": 31,
@@ -1787,6 +1787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 701528,
+      "num": 455190,
+      "word": "房东的猫裙子悬空",
+      "onboard_time": 1720779560,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 696488,
       "num": 661058,
       "word": "谁家大婚名场面一下来三个啊",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1720575976,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692340,
+      "num": 692340,
+      "word": "人鱼 没开机",
+      "onboard_time": 1720779859,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 690357,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1720622538,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622447,
+      "num": 448223,
+      "word": "长相思2断更",
+      "onboard_time": 1720779738,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 621852,
@@ -2563,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556411,
+      "num": 411579,
+      "word": "陈赫带娃回张子萱老家过暑假",
+      "onboard_time": 1720780698,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555951,
       "num": 555951,
       "word": "白敬亭咖啡店",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1720526537,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518106,
-      "num": 455190,
-      "word": "房东的猫裙子悬空",
-      "onboard_time": 1720779560,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 517883,
@@ -3443,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452412,
+      "num": 587859,
+      "word": "男子常年不吃早餐胆囊取出247颗结石",
+      "onboard_time": 1720778598,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452202,
       "num": 452202,
       "word": "玲花女儿长这么大了",
@@ -3544,14 +3576,6 @@
       "word": "涂山璟开大秒杀涂山篌",
       "onboard_time": 1720704258,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 448223,
-      "num": 448223,
-      "word": "长相思2断更",
-      "onboard_time": 1720779738,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -3825,6 +3849,14 @@
       "onboard_time": 1720524258,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427363,
+      "num": 427363,
+      "word": "小米获独立造车资质",
+      "onboard_time": 1720780638,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 426081,
@@ -4289,6 +4321,14 @@
       "onboard_time": 1720345097,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 384167,
+      "num": 384167,
+      "word": "王健林7月连卖3座万达广场",
+      "onboard_time": 1720780038,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 383706,
@@ -4843,14 +4883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345824,
-      "num": 345824,
-      "word": "人鱼 没开机",
-      "onboard_time": 1720779859,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 344906,
       "num": 248890,
       "word": "这5种水果晚上千万别吃",
@@ -5331,6 +5363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312518,
+      "num": 312518,
+      "word": "上半年人民币存款增加11.46万亿元",
+      "onboard_time": 1720780878,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311965,
       "num": 244851,
       "word": "长相思2各有各的坟想哭",
@@ -5633,6 +5673,14 @@
       "onboard_time": 1720311557,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 296033,
+      "num": 296033,
+      "word": "中方反制美国对台军售",
+      "onboard_time": 1720781299,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 295549,
@@ -6155,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257083,
+      "num": 257083,
+      "word": "肖战下部戏是藏海传",
+      "onboard_time": 1720778359,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256764,
       "num": 271225,
       "word": "为什么新疆的店名有点奇怪",
@@ -6363,14 +6419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244639,
-      "num": 244639,
-      "word": "肖战下部戏是藏海传",
-      "onboard_time": 1720778359,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244481,
       "num": 244481,
       "word": "韩国为大熊猫双胞胎姐妹过生日",
@@ -6537,14 +6585,6 @@
       "onboard_time": 1720387750,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 239408,
-      "num": 587859,
-      "word": "男子常年不吃早餐胆囊取出247颗结石",
-      "onboard_time": 1720778598,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 239366,
@@ -6761,6 +6801,14 @@
       "onboard_time": 1720756636,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230384,
+      "num": 230384,
+      "word": "张元英D社新闻图",
+      "onboard_time": 1720780938,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230049,
@@ -9459,6 +9507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171745,
+      "num": 171745,
+      "word": "金九含金量",
+      "onboard_time": 1720781358,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171548,
       "num": 171548,
       "word": "许嵩大连抢票",
@@ -9817,6 +9873,14 @@
       "onboard_time": 1720578138,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166731,
+      "num": 156814,
+      "word": "猫猫今天扎了两个辫辫",
+      "onboard_time": 1720781718,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 166442,
@@ -10593,6 +10657,14 @@
       "onboard_time": 1720488378,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153562,
+      "num": 153562,
+      "word": "阿黛尔采访 笑疯",
+      "onboard_time": 1720782797,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 153364,
@@ -12019,14 +12091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131771,
-      "num": 131771,
-      "word": "王健林7月连卖3座万达广场",
-      "onboard_time": 1720780038,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 131574,
       "num": 131574,
       "word": "中国男篮vs黄蜂",
@@ -12555,6 +12619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124387,
+      "num": 124387,
+      "word": "巴黎奥运会凡晨组合死亡之组",
+      "onboard_time": 1720781659,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124244,
       "num": 124244,
       "word": "爽爽贵阳有多爽",
@@ -12617,6 +12689,14 @@
       "onboard_time": 1720518018,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 122764,
+      "num": 122764,
+      "word": "张晚意在古偶里演正剧",
+      "onboard_time": 1720782138,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 122759,
@@ -13067,6 +13147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116469,
+      "num": 116469,
+      "word": "黄金价格再次上涨",
+      "onboard_time": 1720780218,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116431,
       "num": 116431,
       "word": "突然就没有租房焦虑了",
@@ -13203,12 +13291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114560,
+      "num": 114560,
+      "word": "博纳财报",
+      "onboard_time": 1720782676,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114503,
       "num": 108987,
       "word": "周深少管我舞台松弛感",
       "onboard_time": 1720595117,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114467,
+      "num": 114467,
+      "word": "中国农大上新大豆冰淇淋",
+      "onboard_time": 1720782379,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 114346,
@@ -13763,6 +13867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106598,
+      "num": 703852,
+      "word": "多家博物馆可以夜游了",
+      "onboard_time": 1720775477,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106559,
       "num": 106559,
       "word": "易烊千玺米兰游逛",
@@ -13777,14 +13889,6 @@
       "onboard_time": 1720654037,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106480,
-      "num": 106480,
-      "word": "黄金价格再次上涨",
-      "onboard_time": 1720780218,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 106353,
@@ -14001,14 +14105,6 @@
       "onboard_time": 1720333279,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103530,
-      "num": 662635,
-      "word": "多家博物馆可以夜游了",
-      "onboard_time": 1720775477,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103168,
@@ -14385,6 +14481,14 @@
       "onboard_time": 1720324157,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93865,
+      "num": 93865,
+      "word": "打工人工牌好city",
+      "onboard_time": 1720782738,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93828,
@@ -14764,7 +14868,7 @@
     },
     {
       "raw_hot": 77642,
-      "num": 346929,
+      "num": 386933,
       "word": "古茗直播好抢吗",
       "onboard_time": 1720778539,
       "rank": 13,
@@ -16211,6 +16315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35111,
+      "num": 412542,
+      "word": "这个政务中心有美美的衣帽间",
+      "onboard_time": 1720782318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34910,
       "num": 61535,
       "word": "带着微博去旅行",
@@ -16505,6 +16617,14 @@
       "onboard_time": 1720321876,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26521,
+      "num": 158752,
+      "word": "罗永浩说不该让搜索失去想象力",
+      "onboard_time": 1720782138,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 26519,
