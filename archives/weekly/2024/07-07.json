@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720797665356,
+  "endTime": 1720798481903,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -1251,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 890964,
+      "num": 890964,
+      "word": "369",
+      "onboard_time": 1720796000,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 889861,
       "num": 873239,
       "word": "涂山璟粉底液避雷",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1720657279,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 789217,
-      "num": 789217,
-      "word": "369",
-      "onboard_time": 1720796000,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 788768,
@@ -2545,6 +2545,14 @@
       "onboard_time": 1720566614,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587544,
+      "num": 358653,
+      "word": "林俊杰原唱",
+      "onboard_time": 1720797679,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 586821,
@@ -8204,7 +8212,7 @@
     },
     {
       "raw_hot": 204351,
-      "num": 180054,
+      "num": 201548,
       "word": "薛之谦演唱会北京站",
       "onboard_time": 1720797379,
       "rank": 36,
@@ -10187,6 +10195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170254,
+      "num": 139503,
+      "word": "汪苏泷晋级总决赛",
+      "onboard_time": 1720797798,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170237,
       "num": 170237,
       "word": "新冠检测有了新手段",
@@ -10281,6 +10297,14 @@
       "onboard_time": 1720420698,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168935,
+      "num": 138830,
+      "word": "沈梦辰 礼花枪",
+      "onboard_time": 1720798457,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 168766,
@@ -16027,6 +16051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62191,
+      "num": 140156,
+      "word": "白鹿绿色运动装",
+      "onboard_time": 1720797859,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62060,
       "num": 62060,
       "word": "英格兰五罚全中",
@@ -16113,6 +16145,14 @@
       "onboard_time": 1720290012,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59981,
+      "num": 344685,
+      "word": "李晨 后继有人",
+      "onboard_time": 1720798339,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 59847,
@@ -16985,6 +17025,14 @@
       "onboard_time": 1720374613,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37766,
+      "num": 141800,
+      "word": "周深张真源深张正义组合",
+      "onboard_time": 1720798218,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 37695,

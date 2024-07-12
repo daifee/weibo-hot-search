@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720797665356,
+  "endTime": 1720798481903,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 890964,
+      "num": 890964,
+      "word": "369",
+      "onboard_time": 1720796000,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 886517,
       "num": 271866,
       "word": "睡6小时和睡8小时区别有多大",
@@ -345,14 +353,6 @@
       "onboard_time": 1720762818,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 789217,
-      "num": 789217,
-      "word": "369",
-      "onboard_time": 1720796000,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 784910,
@@ -513,6 +513,14 @@
       "onboard_time": 1720709960,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 587544,
+      "num": 358653,
+      "word": "林俊杰原唱",
+      "onboard_time": 1720797679,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 582809,
@@ -1548,7 +1556,7 @@
     },
     {
       "raw_hot": 204351,
-      "num": 180054,
+      "num": 201548,
       "word": "薛之谦演唱会北京站",
       "onboard_time": 1720797379,
       "rank": 36,
@@ -1875,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170254,
+      "num": 139503,
+      "word": "汪苏泷晋级总决赛",
+      "onboard_time": 1720797798,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170052,
       "num": 344479,
       "word": "公交车每天挂着大蒜辣椒出发",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1720728191,
       "rank": 42,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 168935,
+      "num": 138830,
+      "word": "沈梦辰 礼花枪",
+      "onboard_time": 1720798457,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 168766,
@@ -3091,6 +3115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62191,
+      "num": 140156,
+      "word": "白鹿绿色运动装",
+      "onboard_time": 1720797859,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61631,
       "num": 61631,
       "word": "刘德华2580元门票被炒到68880元",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1720776257,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 59981,
+      "num": 344685,
+      "word": "李晨 后继有人",
+      "onboard_time": 1720798339,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 59539,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1720699279,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37766,
+      "num": 141800,
+      "word": "周深张真源深张正义组合",
+      "onboard_time": 1720798218,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 36977,
