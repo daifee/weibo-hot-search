@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720798481903,
+  "endTime": 1720801488466,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1939,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1016712,
+      "num": 1016712,
+      "word": "李晨 后继有人",
+      "onboard_time": 1720798339,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014439,
       "num": 227724,
       "word": "去已婚姐姐家过暑假要给生活费吗",
@@ -3289,6 +3297,14 @@
       "onboard_time": 1720571658,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 782494,
+      "num": 782494,
+      "word": "林俊杰原唱",
+      "onboard_time": 1720797679,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 781419,
@@ -5129,14 +5145,6 @@
       "onboard_time": 1720566614,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 587544,
-      "num": 358653,
-      "word": "林俊杰原唱",
-      "onboard_time": 1720797679,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 586821,
@@ -9067,6 +9075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 394900,
+      "num": 394900,
+      "word": "7月的上海已被二次元占领",
+      "onboard_time": 1720795099,
+      "rank": 15,
+      "category": "动漫,旅游"
+    },
+    {
       "raw_hot": 394720,
       "num": 394720,
       "word": "汪苏泷演唱会抢票",
@@ -9753,14 +9769,6 @@
       "onboard_time": 1720278678,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 365856,
-      "num": 365856,
-      "word": "7月的上海已被二次元占领",
-      "onboard_time": 1720795099,
-      "rank": 15,
-      "category": "动漫,旅游"
     },
     {
       "raw_hot": 365774,
@@ -20188,7 +20196,7 @@
     },
     {
       "raw_hot": 170254,
-      "num": 139503,
+      "num": 143384,
       "word": "汪苏泷晋级总决赛",
       "onboard_time": 1720797798,
       "rank": 46,
@@ -21416,6 +21424,14 @@
       "word": "林一簪花",
       "onboard_time": 1720698558,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159144,
+      "num": 159144,
+      "word": "歌手突围赛",
+      "onboard_time": 1720799058,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -24283,6 +24299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138657,
+      "num": 129372,
+      "word": "林俊杰点赞那英裹着心的光",
+      "onboard_time": 1720801277,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138607,
       "num": 138607,
       "word": "萌娃扶梯摔倒前1秒被辅警单手救起",
@@ -26049,6 +26073,14 @@
       "onboard_time": 1720139839,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126731,
+      "num": 126731,
+      "word": "周深新歌缝合",
+      "onboard_time": 1720799298,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 126626,
@@ -31171,6 +31203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72404,
+      "num": 113136,
+      "word": "81岁太姥怀抱7个月曾外孙女如同饼印",
+      "onboard_time": 1720799239,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72078,
       "num": 72078,
       "word": "一网箱居然能住5万尾大黄鱼",
@@ -31923,14 +31963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59981,
-      "num": 344685,
-      "word": "李晨 后继有人",
-      "onboard_time": 1720798339,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59893,
       "num": 371908,
       "word": "塔吉克斯坦人也有一颗中国胃",
@@ -32625,6 +32657,14 @@
       "onboard_time": 1720169238,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49293,
+      "num": 111776,
+      "word": "未定事件簿兑换码",
+      "onboard_time": 1720800678,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 49133,
@@ -34713,6 +34753,14 @@
       "onboard_time": 1719858013,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22354,
+      "num": 327072,
+      "word": "外婆为外孙女做永不凋谢的捧花",
+      "onboard_time": 1720801098,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22195,
