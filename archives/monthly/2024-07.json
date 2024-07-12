@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720761537795,
+  "endTime": 1720762503575,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1779,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022787,
+      "num": 1163645,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1020755,
       "num": 1020755,
       "word": "谢娜生孩子何炅推掉工作去陪产",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1720534459,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 943675,
-      "num": 1150988,
-      "word": "张凌赫赵今麦史上最快二搭",
-      "onboard_time": 1720757659,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 943162,
@@ -2609,6 +2609,14 @@
       "onboard_time": 1720491616,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 845584,
+      "num": 845584,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844972,
@@ -3395,14 +3403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 734228,
-      "num": 734228,
-      "word": "萝卜快跑回应网约车罢工横停马路",
-      "onboard_time": 1720757360,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733463,
       "num": 293663,
       "word": "研究发现月经用品中含有毒金属",
@@ -3601,6 +3601,14 @@
       "onboard_time": 1720604358,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 706708,
+      "num": 706708,
+      "word": "拜登出现离谱口误",
+      "onboard_time": 1720760237,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 706623,
@@ -4105,6 +4113,14 @@
       "onboard_time": 1720164200,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645630,
+      "num": 645630,
+      "word": "世界之外 抄袭",
+      "onboard_time": 1720759998,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 645527,
@@ -6003,6 +6019,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 509379,
+      "num": 240506,
+      "word": "iPhone17顶配或告别1200万像素时代",
+      "onboard_time": 1720759159,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 508614,
       "num": 508614,
       "word": "郭保坤你变坏了",
@@ -6515,14 +6539,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 484494,
-      "num": 484494,
-      "word": "世界之外 抄袭",
-      "onboard_time": 1720759998,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 483744,
       "num": 251707,
       "word": "昨天才知道我十月四号要结婚了",
@@ -6985,14 +7001,6 @@
       "onboard_time": 1719968897,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 462157,
-      "num": 240506,
-      "word": "iPhone17顶配或告别1200万像素时代",
-      "onboard_time": 1720759159,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 462051,
@@ -8137,14 +8145,6 @@
       "onboard_time": 1720489219,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 416267,
-      "num": 416267,
-      "word": "拜登出现离谱口误",
-      "onboard_time": 1720760237,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 415127,
@@ -9459,6 +9459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358984,
+      "num": 358984,
+      "word": "Bin踢ON椅子真相",
+      "onboard_time": 1720760899,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 358122,
       "num": 201191,
       "word": "加相亲对象微信别给电话号码",
@@ -9515,6 +9523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357018,
+      "num": 357018,
+      "word": "18岁李嫣近照",
+      "onboard_time": 1720760300,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356521,
       "num": 265777,
       "word": "长相思2小夭相柳转身镜头",
@@ -9545,6 +9561,14 @@
       "onboard_time": 1720260196,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355373,
+      "num": 355373,
+      "word": "北京怀柔偶遇刘亦菲",
+      "onboard_time": 1720760418,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 354878,
@@ -11035,14 +11059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305073,
-      "num": 305073,
-      "word": "北京怀柔偶遇刘亦菲",
-      "onboard_time": 1720760418,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304916,
       "num": 304916,
       "word": "越来越看不懂日本美甲了",
@@ -11384,14 +11400,6 @@
       "word": "Angelababy庆祝香港回归27周年",
       "onboard_time": 1719849918,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 292374,
-      "num": 239575,
-      "word": "18岁李嫣近照",
-      "onboard_time": 1720760300,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -12811,6 +12819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245971,
+      "num": 227168,
+      "word": "多少年轻人给苹果手表做牛马",
+      "onboard_time": 1720761496,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245375,
       "num": 245375,
       "word": "郑恺海岛新家",
@@ -12977,14 +12993,6 @@
       "onboard_time": 1720681039,
       "rank": 32,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 241533,
-      "num": 241533,
-      "word": "Bin踢ON椅子真相",
-      "onboard_time": 1720760899,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 241457,
@@ -14539,6 +14547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212839,
+      "num": 212839,
+      "word": "非自然死亡新作豪华阵容",
+      "onboard_time": 1720761496,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212521,
       "num": 145683,
       "word": "首批来北京特种兵的人已进入骨科",
@@ -15281,6 +15297,14 @@
       "onboard_time": 1719798497,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204529,
+      "num": 204529,
+      "word": "为什么说江浙沪是先天留学圣体",
+      "onboard_time": 1720760418,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 204509,
@@ -17467,6 +17491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "5天4晚邮轮游花不到2000元",
+      "onboard_time": 1720758017,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186149,
       "num": 186149,
       "word": "吉鲁退出法国国家队",
@@ -18105,14 +18137,6 @@
       "onboard_time": 1720091537,
       "rank": 35,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 179166,
-      "num": 179166,
-      "word": "为什么说江浙沪是先天留学圣体",
-      "onboard_time": 1720760418,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 179142,
@@ -18955,14 +18979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171739,
-      "num": 171739,
-      "word": "5天4晚邮轮游花不到2000元",
-      "onboard_time": 1720758017,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171674,
       "num": 171674,
       "word": "广州地铁18号线沙溪站停止对外服务",
@@ -19001,6 +19017,14 @@
       "onboard_time": 1720620439,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171348,
+      "num": 171348,
+      "word": "乳腺癌患者呈现年轻化趋势",
+      "onboard_time": 1720760899,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171338,
@@ -20017,14 +20041,6 @@
       "onboard_time": 1720200316,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161728,
-      "num": 161728,
-      "word": "乳腺癌患者呈现年轻化趋势",
-      "onboard_time": 1720760899,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161584,
@@ -22083,6 +22099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144750,
+      "num": 426231,
+      "word": "3桶羽毛球价格直逼1克黄金",
+      "onboard_time": 1720760357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144739,
       "num": 144739,
       "word": "南方的狗有多讨厌下雨天",
@@ -23635,14 +23659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134383,
-      "num": 134383,
-      "word": "多少年轻人给苹果手表做牛马",
-      "onboard_time": 1720761496,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 134239,
       "num": 134239,
       "word": "世界羽坛众将悼念张志杰",
@@ -24225,14 +24241,6 @@
       "onboard_time": 1720631414,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130458,
-      "num": 130458,
-      "word": "非自然死亡新作豪华阵容",
-      "onboard_time": 1720761496,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 130419,
@@ -25249,6 +25257,14 @@
       "onboard_time": 1720144638,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122801,
+      "num": 122801,
+      "word": "95后保育员4年带大200个猛兽",
+      "onboard_time": 1720761978,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122776,
@@ -27457,14 +27473,6 @@
       "onboard_time": 1720624699,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106160,
-      "num": 426231,
-      "word": "3桶羽毛球价格直逼1克黄金",
-      "onboard_time": 1720760357,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106126,
@@ -32315,6 +32323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 28724,
+      "num": 356154,
+      "word": "港媒称香港警队将使用国产手枪",
+      "onboard_time": 1720762218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28721,
       "num": 891965,
       "word": "关于上合组织你想知道的都在这里",
@@ -32913,6 +32929,14 @@
       "onboard_time": 1720642571,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21758,
+      "num": 208570,
+      "word": "原神纳塔全员",
+      "onboard_time": 1720761799,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 21400,

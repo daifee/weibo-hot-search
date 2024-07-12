@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720761537795,
+  "endTime": 1720762503575,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022787,
+      "num": 1163645,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 967334,
       "num": 967334,
       "word": "44岁柳岩自曝患子宫肌瘤",
       "onboard_time": 1720707141,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 943675,
-      "num": 1150988,
-      "word": "张凌赫赵今麦史上最快二搭",
-      "onboard_time": 1720757659,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 930607,
@@ -89,6 +89,14 @@
       "onboard_time": 1720735631,
       "rank": 49,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 845584,
+      "num": 845584,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 829495,
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 734228,
-      "num": 734228,
-      "word": "萝卜快跑回应网约车罢工横停马路",
-      "onboard_time": 1720757360,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733338,
       "num": 733338,
       "word": "蔡少芬除了剪秋一个宫女不认识",
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706708,
+      "num": 706708,
+      "word": "拜登出现离谱口误",
+      "onboard_time": 1720760237,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 665952,
       "num": 665952,
       "word": "会谈恋爱的人做对了什么",
@@ -161,6 +169,14 @@
       "onboard_time": 1720756458,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645630,
+      "num": 645630,
+      "word": "世界之外 抄袭",
+      "onboard_time": 1720759998,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 601327,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509379,
+      "num": 240506,
+      "word": "iPhone17顶配或告别1200万像素时代",
+      "onboard_time": 1720759159,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 495761,
       "num": 442069,
       "word": "朴灿烈 我的英雄学院",
@@ -249,22 +273,6 @@
       "onboard_time": 1720745179,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 484494,
-      "num": 484494,
-      "word": "世界之外 抄袭",
-      "onboard_time": 1720759998,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 462157,
-      "num": 240506,
-      "word": "iPhone17顶配或告别1200万像素时代",
-      "onboard_time": 1720759159,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 447917,
@@ -305,14 +313,6 @@
       "onboard_time": 1720742778,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416267,
-      "num": 416267,
-      "word": "拜登出现离谱口误",
-      "onboard_time": 1720760237,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 406640,
@@ -385,6 +385,30 @@
       "onboard_time": 1720748838,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 358984,
+      "num": 358984,
+      "word": "Bin踢ON椅子真相",
+      "onboard_time": 1720760899,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 357018,
+      "num": 357018,
+      "word": "18岁李嫣近照",
+      "onboard_time": 1720760300,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 355373,
+      "num": 355373,
+      "word": "北京怀柔偶遇刘亦菲",
+      "onboard_time": 1720760418,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 353215,
@@ -475,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305073,
-      "num": 305073,
-      "word": "北京怀柔偶遇刘亦菲",
-      "onboard_time": 1720760418,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301199,
       "num": 301199,
       "word": "相柳黑衣银发",
@@ -497,14 +513,6 @@
       "onboard_time": 1720701258,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 292374,
-      "num": 239575,
-      "word": "18岁李嫣近照",
-      "onboard_time": 1720760300,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 288800,
@@ -547,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241533,
-      "num": 241533,
-      "word": "Bin踢ON椅子真相",
-      "onboard_time": 1720760899,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 245971,
+      "num": 227168,
+      "word": "多少年轻人给苹果手表做牛马",
+      "onboard_time": 1720761496,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 239275,
@@ -627,6 +635,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212839,
+      "num": 212839,
+      "word": "非自然死亡新作豪华阵容",
+      "onboard_time": 1720761496,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204529,
+      "num": 204529,
+      "word": "为什么说江浙沪是先天留学圣体",
+      "onboard_time": 1720760418,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204188,
       "num": 204188,
       "word": "xo编曲",
@@ -699,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "5天4晚邮轮游花不到2000元",
+      "onboard_time": 1720758017,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185472,
       "num": 178915,
       "word": "李蓉裴文宣离婚不离家",
@@ -721,14 +753,6 @@
       "onboard_time": 1720758138,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179166,
-      "num": 179166,
-      "word": "为什么说江浙沪是先天留学圣体",
-      "onboard_time": 1720760418,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 177910,
@@ -755,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171739,
-      "num": 171739,
-      "word": "5天4晚邮轮游花不到2000元",
-      "onboard_time": 1720758017,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 171348,
+      "num": 171348,
+      "word": "乳腺癌患者呈现年轻化趋势",
+      "onboard_time": 1720760899,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171338,
@@ -808,14 +832,6 @@
       "word": "子宫肌瘤有可能是吃出来的",
       "onboard_time": 1720742117,
       "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161728,
-      "num": 161728,
-      "word": "乳腺癌患者呈现年轻化趋势",
-      "onboard_time": 1720760899,
-      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -939,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144750,
+      "num": 426231,
+      "word": "3桶羽毛球价格直逼1克黄金",
+      "onboard_time": 1720760357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140167,
       "num": 133271,
       "word": "长相思热度",
@@ -987,14 +1011,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 134383,
-      "num": 134383,
-      "word": "多少年轻人给苹果手表做牛马",
-      "onboard_time": 1720761496,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 132993,
       "num": 132993,
       "word": "张凌赫空降",
@@ -1003,20 +1019,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131179,
+      "num": 131179,
+      "word": "度华年",
+      "onboard_time": 1720761618,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130976,
       "num": 130976,
       "word": "好利来光与夜之恋联名",
       "onboard_time": 1720746199,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130458,
-      "num": 130458,
-      "word": "非自然死亡新作豪华阵容",
-      "onboard_time": 1720761496,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 127406,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1720740735,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122801,
+      "num": 122801,
+      "word": "95后保育员4年带大200个猛兽",
+      "onboard_time": 1720761978,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122432,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1720708101,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106160,
-      "num": 426231,
-      "word": "3桶羽毛球价格直逼1克黄金",
-      "onboard_time": 1720760357,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105862,
@@ -1523,12 +1539,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28724,
+      "num": 356154,
+      "word": "港媒称香港警队将使用国产手枪",
+      "onboard_time": 1720762218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22974,
       "num": 29568,
       "word": "刚出生的刺猬被女孩救活当宠物养大",
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21758,
+      "num": 208570,
+      "word": "原神纳塔全员",
+      "onboard_time": 1720761799,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 21400,
