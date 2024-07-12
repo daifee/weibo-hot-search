@@ -1,0 +1,410 @@
+{
+  "runTime": 1720755389645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020811,
+        "num": 1163329,
+        "word": "女子购买格力空调十年免费换新被拒",
+        "onboard_time": 1720751718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828164,
+        "num": 828164,
+        "word": "雷军问还有人在用iPhoneMini吗",
+        "onboard_time": 1720749318,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 29550,
+        "num": 523230,
+        "word": "全国夏粮总产量14978万吨",
+        "onboard_time": 1720754959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502671,
+        "num": 502671,
+        "word": "得闲谨制 肖战",
+        "onboard_time": 1720754359,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432925,
+        "num": 432925,
+        "word": "杨紫在腾讯四部一番剧都破三万了",
+        "onboard_time": 1720750757,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399462,
+        "num": 399462,
+        "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+        "onboard_time": 1720747878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397260,
+        "num": 397260,
+        "word": "妈妈喜欢的荷花头像上新了",
+        "onboard_time": 1720744579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382534,
+        "num": 382534,
+        "word": "麻将凉席怎么消失了",
+        "onboard_time": 1720739715,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 376761,
+        "num": 376761,
+        "word": "朴灿烈 我的英雄学院",
+        "onboard_time": 1720743617,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212157,
+        "num": 337712,
+        "word": "会谈恋爱的人做对了什么",
+        "onboard_time": 1720752798,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 1077737,
+        "num": 336918,
+        "word": "央媒评自媒体捧杀式造谣韦神",
+        "onboard_time": 1720750878,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397324,
+        "num": 333631,
+        "word": "滞留太空超一个月美宇航员发声",
+        "onboard_time": 1720751837,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328634,
+        "num": 328634,
+        "word": "少女玩恋爱游戏充一万觉得被引诱",
+        "onboard_time": 1720753458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270198,
+        "num": 270198,
+        "word": "相柳给小夭最高级的爱",
+        "onboard_time": 1720750098,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245830,
+        "num": 245830,
+        "word": "很多癌症都是因为四大不规律",
+        "onboard_time": 1720709960,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267509,
+        "num": 244453,
+        "word": "相柳黑衣银发",
+        "onboard_time": 1720753637,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 241638,
+        "word": "田曦薇被难哭了",
+        "onboard_time": 1720750278,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220773,
+        "num": 220773,
+        "word": "苏炳添撤回一个宋雨琦",
+        "onboard_time": 1720742837,
+        "rank": 17,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 213567,
+        "num": 213567,
+        "word": "刘冲出任VOGUE主编",
+        "onboard_time": 1720749078,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 205572,
+        "num": 205572,
+        "word": "贵女杀青",
+        "onboard_time": 1720752559,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611178,
+        "num": 204707,
+        "word": "44岁柳岩自曝患子宫肌瘤",
+        "onboard_time": 1720707141,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500766,
+        "num": 199217,
+        "word": "张馨予为老公辟谣",
+        "onboard_time": 1720751958,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447917,
+        "num": 195913,
+        "word": "为什么吃桑葚皮肤会变好",
+        "onboard_time": 1720750098,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231199,
+        "num": 195576,
+        "word": "三亚酒店价格暴跌你会去玩吗",
+        "onboard_time": 1720745179,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50167,
+        "num": 190607,
+        "word": "红色大巴好city啊",
+        "onboard_time": 1720754717,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43442,
+        "num": 189020,
+        "word": "极氪7X纯粹SUV不溜背",
+        "onboard_time": 1720754596,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186153,
+        "num": 186153,
+        "word": "肖战北京出发进组",
+        "onboard_time": 1720748838,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184707,
+        "num": 184707,
+        "word": "三种月经异常或是身体在求救",
+        "onboard_time": 1720745359,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164983,
+        "num": 164983,
+        "word": "李荣浩杨丞琳同一天杭州开唱",
+        "onboard_time": 1720753758,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161704,
+        "num": 161704,
+        "word": "被高铁上的儿童餐食硬控",
+        "onboard_time": 1720748298,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156888,
+        "num": 156888,
+        "word": "原来水还可以清澈到这种程度",
+        "onboard_time": 1720754359,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153390,
+        "num": 153390,
+        "word": "公交车每天挂着大蒜辣椒出发",
+        "onboard_time": 1720752678,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148906,
+        "num": 148906,
+        "word": "杜兰特质疑恩比德虚报身高",
+        "onboard_time": 1720752017,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139628,
+        "num": 139628,
+        "word": "汪苏泷唱氧气",
+        "onboard_time": 1720755078,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138048,
+        "num": 138048,
+        "word": "蔡少芬除了剪秋一个宫女不认识",
+        "onboard_time": 1720739896,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136347,
+        "num": 136347,
+        "word": "黄健翔希望冠军不是苟出来的",
+        "onboard_time": 1720754178,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132903,
+        "num": 132903,
+        "word": "导演说白敬亭聪明幽默经验丰富",
+        "onboard_time": 1720747698,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129736,
+        "num": 129736,
+        "word": "中科院博士回应研究苹果长出蘑菇",
+        "onboard_time": 1720714338,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127457,
+        "num": 127457,
+        "word": "周鸿祎谈萝卜快跑抢网约车司机饭碗",
+        "onboard_time": 1720752318,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 122114,
+        "num": 122114,
+        "word": "中国海警依法驱离日本船只",
+        "onboard_time": 1720743977,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 81928,
+        "num": 116566,
+        "word": "普通人遇到大暴雨到底该怎么办",
+        "onboard_time": 1720703178,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116435,
+        "num": 116435,
+        "word": "刘亦菲有新狗了",
+        "onboard_time": 1720705159,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116272,
+        "num": 116272,
+        "word": "官方回应萝卜快跑被指低价扰乱市场",
+        "onboard_time": 1720735631,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 115802,
+        "num": 115802,
+        "word": "医院床单竟然是护士换的",
+        "onboard_time": 1720740975,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111636,
+        "num": 111636,
+        "word": "忘带钥匙女子为回家翻十六层高楼",
+        "onboard_time": 1720751898,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "巴黎奥运增设的4个项目是懂年轻人的",
+        "onboard_time": 1720742778,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107242,
+        "num": 107242,
+        "word": "BW 排队",
+        "onboard_time": 1720740616,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "林允单扎丸子头",
+        "onboard_time": 1720751358,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 105222,
+        "num": 105222,
+        "word": "丫丫吃饱就睡美容觉",
+        "onboard_time": 1720748597,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101694,
+        "num": 101694,
+        "word": "南海",
+        "onboard_time": 1720743977,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代全面深化改革的宝贵经验#"
+    }
+  }
+}

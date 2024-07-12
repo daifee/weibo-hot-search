@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720754552946,
+  "endTime": 1720755389645,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -24,6 +24,14 @@
       "word": "央媒评自媒体捧杀式造谣韦神",
       "onboard_time": 1720750878,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1020811,
+      "num": 1163329,
+      "word": "女子购买格力空调十年免费换新被拒",
+      "onboard_time": 1720751718,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1720735631,
       "rank": 49,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 867978,
-      "num": 867978,
-      "word": "女子购买格力空调十年免费换新被拒",
-      "onboard_time": 1720751718,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829495,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502671,
+      "num": 502671,
+      "word": "得闲谨制 肖战",
+      "onboard_time": 1720754359,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 495761,
       "num": 442069,
       "word": "朴灿烈 我的英雄学院",
@@ -163,6 +171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 447917,
+      "num": 243801,
+      "word": "为什么吃桑葚皮肤会变好",
+      "onboard_time": 1720750098,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 444198,
       "num": 444198,
       "word": "麻将凉席怎么消失了",
@@ -171,16 +187,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 440626,
-      "num": 243801,
-      "word": "为什么吃桑葚皮肤会变好",
-      "onboard_time": 1720750098,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 425876,
-      "num": 425876,
+      "raw_hot": 432925,
+      "num": 432925,
       "word": "杨紫在腾讯四部一番剧都破三万了",
       "onboard_time": 1720750757,
       "rank": 25,
@@ -225,6 +233,14 @@
       "onboard_time": 1720742837,
       "rank": 13,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 397324,
+      "num": 333631,
+      "word": "滞留太空超一个月美宇航员发声",
+      "onboard_time": 1720751837,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 373723,
@@ -283,20 +299,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328634,
+      "num": 328634,
+      "word": "少女玩恋爱游戏充一万觉得被引诱",
+      "onboard_time": 1720753458,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327000,
       "num": 327000,
       "word": "田曦薇被难哭了",
       "onboard_time": 1720750278,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322158,
-      "num": 322158,
-      "word": "滞留太空超一个月美宇航员发声",
-      "onboard_time": 1720751837,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 319889,
@@ -355,7 +371,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 262016,
+      "raw_hot": 267509,
       "num": 262016,
       "word": "相柳黑衣银发",
       "onboard_time": 1720753637,
@@ -419,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212157,
+      "num": 337712,
+      "word": "会谈恋爱的人做对了什么",
+      "onboard_time": 1720752798,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "萝卜快跑订单迎爆发增长",
@@ -441,14 +465,6 @@
       "onboard_time": 1720751358,
       "rank": 30,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 190892,
-      "num": 190892,
-      "word": "少女玩恋爱游戏充一万觉得被引诱",
-      "onboard_time": 1720753458,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190631,
@@ -475,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174349,
-      "num": 174349,
-      "word": "得闲谨制 肖战",
-      "onboard_time": 1720754359,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 170052,
       "num": 170052,
       "word": "公交车每天挂着大蒜辣椒出发",
@@ -507,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "李荣浩杨丞琳同一天杭州开唱",
+      "onboard_time": 1720753758,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "子宫肌瘤有可能是吃出来的",
       "onboard_time": 1720742117,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161918,
-      "num": 161918,
-      "word": "李荣浩杨丞琳同一天杭州开唱",
-      "onboard_time": 1720753758,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 161584,
@@ -539,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156888,
+      "num": 156888,
+      "word": "原来水还可以清澈到这种程度",
+      "onboard_time": 1720754359,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154712,
       "num": 154712,
       "word": "以军撤离后加沙一地发现60多具遗体",
       "onboard_time": 1720747218,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 153964,
-      "num": 322443,
-      "word": "会谈恋爱的人做对了什么",
-      "onboard_time": 1720752798,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 152764,
@@ -595,11 +603,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139628,
+      "num": 139628,
+      "word": "汪苏泷唱氧气",
+      "onboard_time": 1720755078,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137932,
       "num": 137932,
       "word": "孙颖莎封训时哭了",
       "onboard_time": 1720704979,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136347,
+      "num": 136347,
+      "word": "黄健翔希望冠军不是苟出来的",
+      "onboard_time": 1720754178,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -683,28 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115581,
-      "num": 115581,
-      "word": "原来水还可以清澈到这种程度",
-      "onboard_time": 1720754359,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114540,
       "num": 114540,
       "word": "729声工场",
       "onboard_time": 1720745418,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 114395,
-      "num": 114395,
-      "word": "黄健翔希望冠军不是苟出来的",
-      "onboard_time": 1720754178,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 112481,
@@ -1035,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50167,
+      "num": 190607,
+      "word": "红色大巴好city啊",
+      "onboard_time": 1720754717,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47664,
       "num": 55113,
       "word": "中餐厅杀青",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1720740857,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43442,
+      "num": 189020,
+      "word": "极氪7X纯粹SUV不溜背",
+      "onboard_time": 1720754596,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 42813,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1720721952,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29550,
+      "num": 523230,
+      "word": "全国夏粮总产量14978万吨",
+      "onboard_time": 1720754959,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29181,
@@ -1190,6 +1222,9 @@
   "hotgov_list": [
     {
       "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    },
+    {
+      "word": "#新时代全面深化改革的宝贵经验#"
     }
   ]
 }
