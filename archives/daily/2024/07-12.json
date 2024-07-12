@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720784092352,
+  "endTime": 1720787835322,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -25,6 +25,14 @@
       "onboard_time": 1720777518,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1808964,
+      "num": 1808964,
+      "word": "歌手直播",
+      "onboard_time": 1720784059,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 1345196,
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 993256,
+      "num": 993256,
+      "word": "谭维维 审美疲劳",
+      "onboard_time": 1720787057,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967334,
       "num": 967334,
       "word": "44岁柳岩自曝患子宫肌瘤",
@@ -144,6 +160,14 @@
       "word": "间谍用校园贷逼迫大学生窃取国家秘密",
       "onboard_time": 1720747878,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898404,
+      "num": 898404,
+      "word": "男孩高考结束才知父亲已坐牢5年",
+      "onboard_time": 1720785378,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 712771,
+      "num": 712771,
+      "word": "阿黛尔采访 笑疯",
+      "onboard_time": 1720782797,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709346,
       "num": 709346,
       "word": "张馨予为老公辟谣",
@@ -267,6 +299,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 656467,
+      "num": 430195,
+      "word": "陈赫带娃回张子萱老家过暑假",
+      "onboard_time": 1720780698,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647188,
       "num": 479556,
       "word": "蓝盈莹一开口病娇感就上来了",
@@ -283,20 +323,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 642268,
-      "num": 430195,
-      "word": "陈赫带娃回张子萱老家过暑假",
-      "onboard_time": 1720780698,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 637441,
       "num": 240042,
       "word": "多少年轻人给苹果手表做牛马",
       "onboard_time": 1720761496,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 625525,
+      "num": 247788,
+      "word": "歌手2024",
+      "onboard_time": 1720784059,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 622447,
@@ -361,6 +401,14 @@
       "onboard_time": 1720765277,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 556335,
+      "num": 247158,
+      "word": "歌手出场顺序",
+      "onboard_time": 1720786578,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 541297,
@@ -491,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432029,
+      "num": 223151,
+      "word": "林靖恩父亲首发声",
+      "onboard_time": 1720783697,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430677,
       "num": 430677,
       "word": "赵今麦将回归流浪地球3",
@@ -617,14 +673,6 @@
       "onboard_time": 1720777457,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 370940,
-      "num": 153562,
-      "word": "阿黛尔采访 笑疯",
-      "onboard_time": 1720782797,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 367880,
@@ -819,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296754,
+      "num": 246113,
+      "word": "外交部回应日方要求逮捕2名中国人",
+      "onboard_time": 1720786757,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 295855,
       "num": 295855,
       "word": "他们卖不出西瓜我们买不起西瓜",
@@ -841,6 +897,14 @@
       "onboard_time": 1720756160,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285389,
+      "num": 216461,
+      "word": "王鹤棣的面包店",
+      "onboard_time": 1720786757,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 276566,
@@ -889,6 +953,14 @@
       "onboard_time": 1720709300,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 258496,
+      "num": 210963,
+      "word": "Lenka袭榜",
+      "onboard_time": 1720786277,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 257099,
@@ -947,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245891,
+      "num": 245891,
+      "word": "猫猫今天扎了两个辫辫",
+      "onboard_time": 1720781718,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241230,
       "num": 225718,
       "word": "何洁听到要采500公斤茶的反应",
@@ -961,6 +1041,14 @@
       "onboard_time": 1720756997,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239177,
+      "num": 239177,
+      "word": "四川大学公示拟撤销31个专业",
+      "onboard_time": 1720786818,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 237747,
@@ -1011,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227537,
+      "num": 227537,
+      "word": "王楚钦孙颖莎快问快答",
+      "onboard_time": 1720785737,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "拜登迟到意总理翻白眼",
@@ -1027,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217113,
-      "num": 147929,
-      "word": "林靖恩父亲首发声",
-      "onboard_time": 1720783697,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 215974,
+      "num": 215974,
+      "word": "男孩高考656分志愿全填临床医学",
+      "onboard_time": 1720784238,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 213802,
@@ -1097,6 +1193,14 @@
       "onboard_time": 1720760899,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202157,
+      "num": 202157,
+      "word": "袁咏琳回应香缇莫把无限制给谭维维",
+      "onboard_time": 1720785737,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 200954,
@@ -1187,14 +1291,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 191080,
-      "num": 191080,
-      "word": "猫猫今天扎了两个辫辫",
-      "onboard_time": 1720781718,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190905,
       "num": 171031,
       "word": "薛之谦北京演唱会",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1720758138,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181259,
+      "num": 181259,
+      "word": "王源歌迷主题房是懂宠粉的",
+      "onboard_time": 1720786877,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 180555,
@@ -1643,12 +1747,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138820,
+      "num": 138820,
+      "word": "于正的演员都续约了",
+      "onboard_time": 1720786518,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138699,
+      "num": 120090,
+      "word": "谭维维 杭盖替身",
+      "onboard_time": 1720787719,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137932,
       "num": 137932,
       "word": "孙颖莎封训时哭了",
       "onboard_time": 1720704979,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136688,
+      "num": 119792,
+      "word": "香缇莫唱错词",
+      "onboard_time": 1720787778,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136358,
@@ -1763,6 +1891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125506,
+      "num": 703852,
+      "word": "多家博物馆可以夜游了",
+      "onboard_time": 1720775477,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125154,
       "num": 125154,
       "word": "BW 排队",
@@ -1785,6 +1921,14 @@
       "onboard_time": 1720772538,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 123876,
+      "num": 119675,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 123309,
@@ -1889,14 +2033,6 @@
       "onboard_time": 1720775359,
       "rank": 44,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 117761,
-      "num": 117761,
-      "word": "歌手直播",
-      "onboard_time": 1720784059,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 117735,
@@ -2051,28 +2187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108525,
-      "num": 108525,
-      "word": "歌手2024",
-      "onboard_time": 1720784059,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "金珉奎美貌",
       "onboard_time": 1720707260,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106598,
-      "num": 703852,
-      "word": "多家博物馆可以夜游了",
-      "onboard_time": 1720775477,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106276,
@@ -2115,6 +2235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103334,
+      "num": 120318,
+      "word": "北约讨论接管控制中国在欧基建项目",
+      "onboard_time": 1720786397,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103041,
       "num": 103041,
       "word": "看到邓为的鞋散光加重了",
@@ -2137,6 +2265,14 @@
       "onboard_time": 1720775299,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100656,
+      "num": 120147,
+      "word": "12星象下半年运势分析",
+      "onboard_time": 1720784538,
+      "rank": 39,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 100245,
@@ -2259,6 +2395,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 86955,
+      "num": 119246,
+      "word": "京沪对决",
+      "onboard_time": 1720787299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85987,
       "num": 146170,
       "word": "庐山瀑布壮丽景观再现",
@@ -2305,6 +2449,14 @@
       "onboard_time": 1720778539,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77581,
+      "num": 119003,
+      "word": "OMG战胜EDG",
+      "onboard_time": 1720787117,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 76831,
@@ -2579,6 +2731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36977,
+      "num": 247847,
+      "word": "mini版巴太策马追风",
+      "onboard_time": 1720786457,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35111,
       "num": 412542,
       "word": "这个政务中心有美美的衣帽间",
@@ -2691,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13365,
+      "num": 909505,
+      "word": "AI带你穿梭中国改革开放新地标",
+      "onboard_time": 1720787597,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13347,
       "num": 17111,
       "word": "春野樱 喜爱女角色第一",
@@ -2759,6 +2927,9 @@
     },
     {
       "word": "#总书记的改革公开课#"
+    },
+    {
+      "word": "#习近平会见瓦努阿图总理萨尔维#"
     }
   ]
 }
