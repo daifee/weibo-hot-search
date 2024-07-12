@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720790546794,
+  "endTime": 1720791263568,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -371,6 +371,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 1861889,
+      "num": 1861889,
+      "word": "黄宣秒了",
+      "onboard_time": 1720790059,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1855281,
       "num": 1855281,
       "word": "徐艺洋 老板就能上我卫生间吗",
@@ -473,6 +481,14 @@
       "onboard_time": 1719994397,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1688296,
+      "num": 311636,
+      "word": "孙楠 giegie",
+      "onboard_time": 1720790300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1680168,
@@ -1923,14 +1939,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1010897,
-      "num": 293852,
-      "word": "黄宣秒了",
-      "onboard_time": 1720790059,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1008707,
       "num": 1008707,
       "word": "上海迪士尼回应暑期门票飙至719元",
@@ -3211,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784910,
+      "num": 784910,
+      "word": "四川大学公示拟撤销31个专业",
+      "onboard_time": 1720786818,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 783072,
       "num": 783072,
       "word": "今年的录取通知书已经是NextLevel",
@@ -3377,14 +3393,6 @@
       "onboard_time": 1720069339,
       "rank": 17,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 766787,
-      "num": 766787,
-      "word": "四川大学公示拟撤销31个专业",
-      "onboard_time": 1720786818,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 765396,
@@ -7019,14 +7027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477236,
-      "num": 218929,
-      "word": "孙楠 giegie",
-      "onboard_time": 1720790300,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 476044,
       "num": 476044,
       "word": "刘亦菲参加玫瑰的故事剧集座谈会",
@@ -7707,6 +7707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 447422,
+      "num": 218000,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447092,
       "num": 447092,
       "word": "韩国人被锅包肉大赛种草",
@@ -8233,14 +8241,6 @@
       "onboard_time": 1719885857,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429035,
-      "num": 218000,
-      "word": "谁家夫妻做成这模样啊",
-      "onboard_time": 1720787778,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 427363,
@@ -11603,6 +11603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300415,
+      "num": 300415,
+      "word": "大理一小学附近发现眼镜王蛇",
+      "onboard_time": 1720788499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300327,
       "num": 300327,
       "word": "上班带的饭是盖饭小样",
@@ -11811,6 +11819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293106,
+      "num": 158895,
+      "word": "时代少年团录制hi6正常播出",
+      "onboard_time": 1720790600,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293072,
       "num": 293072,
       "word": "金龙鱼全面自查",
@@ -11905,6 +11921,14 @@
       "onboard_time": 1720131792,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290170,
+      "num": 290170,
+      "word": "男孩高考656分志愿全填临床医学",
+      "onboard_time": 1720784238,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 289959,
@@ -12435,20 +12459,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274013,
-      "num": 274013,
-      "word": "男孩高考656分志愿全填临床医学",
-      "onboard_time": 1720784238,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 273647,
       "num": 273647,
       "word": "詹姆斯愿意降薪2000万",
       "onboard_time": 1719794239,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273290,
+      "num": 147399,
+      "word": "陈泽抽奖",
+      "onboard_time": 1720783637,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 273237,
@@ -13867,14 +13891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234903,
-      "num": 234903,
-      "word": "大理一小学附近发现眼镜王蛇",
-      "onboard_time": 1720788499,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234745,
       "num": 234745,
       "word": "李赫宰 38岁正是长见识的年纪",
@@ -13928,6 +13944,14 @@
       "word": "中餐厅",
       "onboard_time": 1719997759,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234061,
+      "num": 215657,
+      "word": "香缇莫是不是累了",
+      "onboard_time": 1720790180,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -14337,14 +14361,6 @@
       "onboard_time": 1719788895,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225995,
-      "num": 215657,
-      "word": "香缇莫是不是累了",
-      "onboard_time": 1720790180,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 225968,
@@ -15451,6 +15467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208585,
+      "num": 208585,
+      "word": "2024LPL夏季赛",
+      "onboard_time": 1720790838,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208581,
       "num": 208581,
       "word": "张韶涵遵义上座率",
@@ -15681,6 +15705,14 @@
       "onboard_time": 1720420698,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206204,
+      "num": 142681,
+      "word": "氧气",
+      "onboard_time": 1720790719,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 206165,
@@ -17265,14 +17297,6 @@
       "onboard_time": 1720235657,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193237,
-      "num": 147399,
-      "word": "陈泽抽奖",
-      "onboard_time": 1720783637,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 193228,
@@ -21107,6 +21131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159440,
+      "num": 159440,
+      "word": "诚C单场MVP",
+      "onboard_time": 1720790600,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159381,
       "num": 159381,
       "word": "深夜给高中班主任转账1元",
@@ -22689,6 +22721,14 @@
       "onboard_time": 1720307353,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146459,
+      "num": 146459,
+      "word": "萝卜快跑会导致司机大规模失业吗",
+      "onboard_time": 1720790540,
+      "rank": 34,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 146418,
@@ -26891,6 +26931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118984,
+      "num": 144163,
+      "word": "别墅绿化带惊现数个爱马仕",
+      "onboard_time": 1720790959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118712,
       "num": 118712,
       "word": "跳广场舞一个月瘦了7斤",
@@ -30900,7 +30948,7 @@
     },
     {
       "raw_hot": 70171,
-      "num": 1617317,
+      "num": 1760852,
       "word": "洪水中这些身影是安全感的来源",
       "onboard_time": 1720788019,
       "rank": 2,
@@ -31716,7 +31764,7 @@
     },
     {
       "raw_hot": 57468,
-      "num": 309654,
+      "num": 314647,
       "word": "毕业典礼男孩看不到女同学一把抱起",
       "onboard_time": 1720789639,
       "rank": 9,
@@ -34657,6 +34705,14 @@
       "onboard_time": 1719859211,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15290,
+      "num": 302368,
+      "word": "律师解读无人驾驶汽车发生事故的权责",
+      "onboard_time": 1720791019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15190,

@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720790546794,
+  "endTime": 1720791263568,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -57,6 +57,22 @@
       "onboard_time": 1720777518,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1861889,
+      "num": 1861889,
+      "word": "黄宣秒了",
+      "onboard_time": 1720790059,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1688296,
+      "num": 311636,
+      "word": "孙楠 giegie",
+      "onboard_time": 1720790300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1345196,
@@ -145,14 +161,6 @@
       "onboard_time": 1720757659,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1010897,
-      "num": 293852,
-      "word": "黄宣秒了",
-      "onboard_time": 1720790059,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 967334,
@@ -283,8 +291,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 766787,
-      "num": 766787,
+      "raw_hot": 784910,
+      "num": 784910,
       "word": "四川大学公示拟撤销31个专业",
       "onboard_time": 1720786818,
       "rank": 16,
@@ -563,14 +571,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 477236,
-      "num": 218929,
-      "word": "孙楠 giegie",
-      "onboard_time": 1720790300,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 470544,
       "num": 316886,
       "word": "乌尔善找的冯宝宝有真功夫",
@@ -601,6 +601,14 @@
       "onboard_time": 1720750098,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 447422,
+      "num": 218000,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 444198,
@@ -641,14 +649,6 @@
       "onboard_time": 1720771577,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 429035,
-      "num": 218000,
-      "word": "谁家夫妻做成这模样啊",
-      "onboard_time": 1720787778,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 427363,
@@ -963,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300415,
+      "num": 300415,
+      "word": "大理一小学附近发现眼镜王蛇",
+      "onboard_time": 1720788499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299959,
       "num": 426231,
       "word": "3桶羽毛球价格直逼1克黄金",
@@ -979,12 +987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293106,
+      "num": 158895,
+      "word": "时代少年团录制hi6正常播出",
+      "onboard_time": 1720790600,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292341,
       "num": 292341,
       "word": "未定事件簿四周年特别活动",
       "onboard_time": 1720787960,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290170,
+      "num": 290170,
+      "word": "男孩高考656分志愿全填临床医学",
+      "onboard_time": 1720784238,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 289932,
@@ -1027,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274013,
-      "num": 274013,
-      "word": "男孩高考656分志愿全填临床医学",
-      "onboard_time": 1720784238,
-      "rank": 29,
-      "category": "教育,社会新闻"
+      "raw_hot": 273290,
+      "num": 147399,
+      "word": "陈泽抽奖",
+      "onboard_time": 1720783637,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 273237,
@@ -1163,12 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234903,
-      "num": 234903,
-      "word": "大理一小学附近发现眼镜王蛇",
-      "onboard_time": 1720788499,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 234061,
+      "num": 215657,
+      "word": "香缇莫是不是累了",
+      "onboard_time": 1720790180,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 230461,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1720785737,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225995,
-      "num": 215657,
-      "word": "香缇莫是不是累了",
-      "onboard_time": 1720790180,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 221890,
@@ -1283,6 +1299,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 208585,
+      "num": 208585,
+      "word": "2024LPL夏季赛",
+      "onboard_time": 1720790838,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207535,
       "num": 147838,
       "word": "王源演唱会抢票",
@@ -1296,6 +1320,14 @@
       "word": "一生爱看热闹的魏大勋",
       "onboard_time": 1720789639,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206204,
+      "num": 142681,
+      "word": "氧气",
+      "onboard_time": 1720790719,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1393,14 +1425,6 @@
       "onboard_time": 1720772718,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193237,
-      "num": 147399,
-      "word": "陈泽抽奖",
-      "onboard_time": 1720783637,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 191928,
@@ -1707,6 +1731,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 159440,
+      "num": 159440,
+      "word": "诚C单场MVP",
+      "onboard_time": 1720790600,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158595,
       "num": 158595,
       "word": "杰伦布朗破防了",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1720755558,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146459,
+      "num": 146459,
+      "word": "萝卜快跑会导致司机大规模失业吗",
+      "onboard_time": 1720790540,
+      "rank": 34,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 146306,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1720782379,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118984,
+      "num": 144163,
+      "word": "别墅绿化带惊现数个爱马仕",
+      "onboard_time": 1720790959,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118647,
@@ -2684,7 +2732,7 @@
     },
     {
       "raw_hot": 70171,
-      "num": 1617317,
+      "num": 1760852,
       "word": "洪水中这些身影是安全感的来源",
       "onboard_time": 1720788019,
       "rank": 2,
@@ -2764,7 +2812,7 @@
     },
     {
       "raw_hot": 57468,
-      "num": 309654,
+      "num": 314647,
       "word": "毕业典礼男孩看不到女同学一把抱起",
       "onboard_time": 1720789639,
       "rank": 9,
@@ -3025,6 +3073,14 @@
       "onboard_time": 1720739415,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15290,
+      "num": 302368,
+      "word": "律师解读无人驾驶汽车发生事故的权责",
+      "onboard_time": 1720791019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13905,
