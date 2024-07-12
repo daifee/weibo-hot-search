@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720755389645,
+  "endTime": 1720758153457,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -11,6 +11,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1344835,
+      "num": 1344835,
+      "word": "女子购买格力空调十年免费换新被拒",
+      "onboard_time": 1720751718,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1325615,
       "num": 608545,
       "word": "上门按摩女技师称3980元包养10天",
@@ -19,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113467,
+      "num": 1113467,
+      "word": "雷军发博称美丽小废物",
+      "onboard_time": 1720756636,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1096464,
       "num": 341051,
       "word": "央媒评自媒体捧杀式造谣韦神",
       "onboard_time": 1720750878,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1020811,
-      "num": 1163329,
-      "word": "女子购买格力空调十年免费换新被拒",
-      "onboard_time": 1720751718,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -75,12 +83,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827733,
+      "num": 827733,
+      "word": "得闲谨制 肖战",
+      "onboard_time": 1720754359,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 824543,
+      "num": 824543,
+      "word": "少女玩恋爱游戏充一万觉得被引诱",
+      "onboard_time": 1720753458,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749061,
+      "num": 749061,
+      "word": "我的妈妈是校花杀青官宣",
+      "onboard_time": 1720755679,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733338,
       "num": 733338,
       "word": "蔡少芬除了剪秋一个宫女不认识",
       "onboard_time": 1720739896,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709346,
+      "num": 709346,
+      "word": "张馨予为老公辟谣",
+      "onboard_time": 1720751958,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 665952,
+      "num": 665952,
+      "word": "会谈恋爱的人做对了什么",
+      "onboard_time": 1720752798,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 594787,
+      "num": 594787,
+      "word": "白鹿张予曦撞衫了",
+      "onboard_time": 1720756700,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 592519,
@@ -123,22 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508049,
-      "num": 232769,
-      "word": "张馨予为老公辟谣",
-      "onboard_time": 1720751958,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 502671,
-      "num": 502671,
-      "word": "得闲谨制 肖战",
-      "onboard_time": 1720754359,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 495761,
       "num": 442069,
       "word": "朴灿烈 我的英雄学院",
@@ -169,6 +209,14 @@
       "onboard_time": 1720745179,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 479556,
+      "num": 479556,
+      "word": "蓝盈莹一开口病娇感就上来了",
+      "onboard_time": 1720756458,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 447917,
@@ -236,7 +284,7 @@
     },
     {
       "raw_hot": 397324,
-      "num": 333631,
+      "num": 363059,
       "word": "滞留太空超一个月美宇航员发声",
       "onboard_time": 1720751837,
       "rank": 33,
@@ -299,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 328634,
-      "num": 328634,
-      "word": "少女玩恋爱游戏充一万觉得被引诱",
-      "onboard_time": 1720753458,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327000,
       "num": 327000,
       "word": "田曦薇被难哭了",
@@ -321,6 +361,14 @@
       "onboard_time": 1720708461,
       "rank": 5,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 318786,
+      "num": 318786,
+      "word": "ENHYPEN回归",
+      "onboard_time": 1720757360,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 312723,
@@ -355,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301199,
+      "num": 301199,
+      "word": "相柳黑衣银发",
+      "onboard_time": 1720753637,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295855,
       "num": 295855,
       "word": "他们卖不出西瓜我们买不起西瓜",
       "onboard_time": 1720701258,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288800,
+      "num": 288800,
+      "word": "光与夜之恋",
+      "onboard_time": 1720756160,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 271674,
@@ -371,12 +435,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 267509,
-      "num": 262016,
-      "word": "相柳黑衣银发",
-      "onboard_time": 1720753637,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 261773,
+      "num": 261773,
+      "word": "谁家男朋友从订婚就开始哭啊",
+      "onboard_time": 1720757059,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259883,
@@ -385,6 +449,14 @@
       "onboard_time": 1720709300,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 257645,
+      "num": 257645,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 254069,
@@ -419,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230461,
+      "num": 230461,
+      "word": "谁家悬疑剧3集3个嫌疑人",
+      "onboard_time": 1720756636,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220226,
       "num": 220226,
       "word": "民政局回应13岁尿毒症晚期男孩捡废品",
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217110,
+      "num": 217110,
+      "word": "王一博张钧甯豪门姐弟即视感",
+      "onboard_time": 1720758078,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213054,
@@ -435,20 +523,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 212157,
-      "num": 337712,
-      "word": "会谈恋爱的人做对了什么",
-      "onboard_time": 1720752798,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "萝卜快跑订单迎爆发增长",
       "onboard_time": 1720702819,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199173,
+      "num": 199173,
+      "word": "汪苏泷唱氧气",
+      "onboard_time": 1720755078,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194775,
+      "num": 194775,
+      "word": "抓娃娃",
+      "onboard_time": 1720756879,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 191928,
@@ -491,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173910,
+      "num": 173910,
+      "word": "有点怜爱防风意映了",
+      "onboard_time": 1720757840,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173118,
+      "num": 173118,
+      "word": "韩国最低时薪史上首次超1万韩元",
+      "onboard_time": 1720753517,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170052,
       "num": 170052,
       "word": "公交车每天挂着大蒜辣椒出发",
@@ -521,6 +633,14 @@
       "onboard_time": 1720753758,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163558,
+      "num": 163558,
+      "word": "入职后进入了不属于自己的阶层",
+      "onboard_time": 1720756997,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 162057,
@@ -555,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155868,
+      "num": 155868,
+      "word": "抓娃娃是沈马大银幕搭档第十年",
+      "onboard_time": 1720757117,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154712,
       "num": 154712,
       "word": "以军撤离后加沙一地发现60多具遗体",
@@ -577,6 +705,22 @@
       "onboard_time": 1720748597,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148109,
+      "num": 148109,
+      "word": "蓝盈莹演技",
+      "onboard_time": 1720756218,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146951,
+      "num": 146951,
+      "word": "当大冰老师变成大冰大哥",
+      "onboard_time": 1720755558,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146306,
@@ -603,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139628,
-      "num": 139628,
-      "word": "汪苏泷唱氧气",
-      "onboard_time": 1720755078,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137932,
       "num": 137932,
       "word": "孙颖莎封训时哭了",
@@ -619,12 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137232,
+      "num": 137232,
+      "word": "我想看唐诡西行有错吗",
+      "onboard_time": 1720756399,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136347,
       "num": 136347,
       "word": "黄健翔希望冠军不是苟出来的",
       "onboard_time": 1720754178,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135990,
+      "num": 135990,
+      "word": "跑男VCR只给观众看",
+      "onboard_time": 1720757300,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 135745,
@@ -657,6 +809,14 @@
       "onboard_time": 1720740616,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124786,
+      "num": 124786,
+      "word": "美国加州将实施永久性限水措施",
+      "onboard_time": 1720754778,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122871,
@@ -697,6 +857,14 @@
       "onboard_time": 1720740075,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119538,
+      "num": 119538,
+      "word": "A股",
+      "onboard_time": 1720758138,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117410,
@@ -801,6 +969,14 @@
       "onboard_time": 1720694717,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101181,
+      "num": 342893,
+      "word": "红色大巴好city啊",
+      "onboard_time": 1720754717,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 100245,
@@ -1003,6 +1179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 65913,
+      "num": 347988,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61631,
       "num": 61631,
       "word": "刘德华2580元门票被炒到68880元",
@@ -1027,6 +1211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51497,
+      "num": 511624,
+      "word": "总觉得父母不够爱自己怎么办",
+      "onboard_time": 1720756819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51351,
       "num": 51351,
       "word": "小猫抱着小鱼的样子好可爱",
@@ -1043,12 +1235,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 50167,
-      "num": 190607,
-      "word": "红色大巴好city啊",
-      "onboard_time": 1720754717,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 48737,
+      "num": 967163,
+      "word": "高招征集志愿填报注意这5点",
+      "onboard_time": 1720755978,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47664,
@@ -1068,7 +1260,7 @@
     },
     {
       "raw_hot": 43442,
-      "num": 189020,
+      "num": 273877,
       "word": "极氪7X纯粹SUV不溜背",
       "onboard_time": 1720754596,
       "rank": 25,
@@ -1225,6 +1417,9 @@
     },
     {
       "word": "#新时代全面深化改革的宝贵经验#"
+    },
+    {
+      "word": "#全面深化改革要做到这些坚持#"
     }
   ]
 }

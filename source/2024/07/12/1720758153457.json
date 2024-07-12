@@ -1,0 +1,410 @@
+{
+  "runTime": 1720758153457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344835,
+        "num": 1344835,
+        "word": "女子购买格力空调十年免费换新被拒",
+        "onboard_time": 1720751718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113467,
+        "num": 1113467,
+        "word": "雷军发博称美丽小废物",
+        "onboard_time": 1720756636,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48737,
+        "num": 967163,
+        "word": "高招征集志愿填报注意这5点",
+        "onboard_time": 1720755978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827733,
+        "num": 827733,
+        "word": "得闲谨制 肖战",
+        "onboard_time": 1720754359,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 824543,
+        "num": 824543,
+        "word": "少女玩恋爱游戏充一万觉得被引诱",
+        "onboard_time": 1720753458,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749061,
+        "num": 749061,
+        "word": "我的妈妈是校花杀青官宣",
+        "onboard_time": 1720755679,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709346,
+        "num": 709346,
+        "word": "张馨予为老公辟谣",
+        "onboard_time": 1720751958,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665952,
+        "num": 665952,
+        "word": "会谈恋爱的人做对了什么",
+        "onboard_time": 1720752798,
+        "rank": 7,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 594787,
+        "num": 594787,
+        "word": "白鹿张予曦撞衫了",
+        "onboard_time": 1720756700,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51497,
+        "num": 511624,
+        "word": "总觉得父母不够爱自己怎么办",
+        "onboard_time": 1720756819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479556,
+        "num": 479556,
+        "word": "蓝盈莹一开口病娇感就上来了",
+        "onboard_time": 1720756458,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468115,
+        "num": 468115,
+        "word": "雷军问还有人在用iPhoneMini吗",
+        "onboard_time": 1720749318,
+        "rank": 11,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 367534,
+        "num": 367534,
+        "word": "朴灿烈 我的英雄学院",
+        "onboard_time": 1720743617,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363059,
+        "num": 363059,
+        "word": "滞留太空超一个月美宇航员发声",
+        "onboard_time": 1720751837,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65913,
+        "num": 347988,
+        "word": "萝卜快跑回应网约车罢工横停马路",
+        "onboard_time": 1720757360,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101181,
+        "num": 342893,
+        "word": "红色大巴好city啊",
+        "onboard_time": 1720754717,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341972,
+        "num": 341972,
+        "word": "麻将凉席怎么消失了",
+        "onboard_time": 1720739715,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 318786,
+        "num": 318786,
+        "word": "ENHYPEN回归",
+        "onboard_time": 1720757360,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301199,
+        "num": 301199,
+        "word": "相柳黑衣银发",
+        "onboard_time": 1720753637,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288800,
+        "num": 288800,
+        "word": "光与夜之恋",
+        "onboard_time": 1720756160,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464600,
+        "num": 280202,
+        "word": "44岁柳岩自曝患子宫肌瘤",
+        "onboard_time": 1720707141,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42357,
+        "num": 273877,
+        "word": "极氪7X纯粹SUV不溜背",
+        "onboard_time": 1720754596,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271377,
+        "num": 271377,
+        "word": "妈妈喜欢的荷花头像上新了",
+        "onboard_time": 1720744579,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261773,
+        "num": 261773,
+        "word": "谁家男朋友从订婚就开始哭啊",
+        "onboard_time": 1720757059,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257645,
+        "num": 257645,
+        "word": "张凌赫赵今麦史上最快二搭",
+        "onboard_time": 1720757659,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230461,
+        "num": 230461,
+        "word": "谁家悬疑剧3集3个嫌疑人",
+        "onboard_time": 1720756636,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218724,
+        "num": 218724,
+        "word": "杨紫在腾讯四部一番剧都破三万了",
+        "onboard_time": 1720750757,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217110,
+        "num": 217110,
+        "word": "王一博张钧甯豪门姐弟即视感",
+        "onboard_time": 1720758078,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203885,
+        "num": 203885,
+        "word": "三亚酒店价格暴跌你会去玩吗",
+        "onboard_time": 1720745179,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 199173,
+        "num": 199173,
+        "word": "汪苏泷唱氧气",
+        "onboard_time": 1720755078,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 194775,
+        "word": "抓娃娃",
+        "onboard_time": 1720756879,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 173910,
+        "word": "有点怜爱防风意映了",
+        "onboard_time": 1720757840,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173118,
+        "num": 173118,
+        "word": "韩国最低时薪史上首次超1万韩元",
+        "onboard_time": 1720753517,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170880,
+        "num": 170880,
+        "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+        "onboard_time": 1720747878,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167433,
+        "num": 167433,
+        "word": "公交车每天挂着大蒜辣椒出发",
+        "onboard_time": 1720752678,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163558,
+        "num": 163558,
+        "word": "入职后进入了不属于自己的阶层",
+        "onboard_time": 1720756997,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161688,
+        "num": 161688,
+        "word": "三种月经异常或是身体在求救",
+        "onboard_time": 1720745359,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155868,
+        "num": 155868,
+        "word": "抓娃娃是沈马大银幕搭档第十年",
+        "onboard_time": 1720757117,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154753,
+        "num": 154753,
+        "word": "很多癌症都是因为四大不规律",
+        "onboard_time": 1720709960,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148109,
+        "num": 148109,
+        "word": "蓝盈莹演技",
+        "onboard_time": 1720756218,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146951,
+        "num": 146951,
+        "word": "当大冰老师变成大冰大哥",
+        "onboard_time": 1720755558,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140922,
+        "num": 140922,
+        "word": "刘冲出任VOGUE主编",
+        "onboard_time": 1720749078,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 138726,
+        "num": 138726,
+        "word": "被高铁上的儿童餐食硬控",
+        "onboard_time": 1720748298,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137232,
+        "num": 137232,
+        "word": "我想看唐诡西行有错吗",
+        "onboard_time": 1720756399,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137019,
+        "num": 137019,
+        "word": "原来水还可以清澈到这种程度",
+        "onboard_time": 1720754359,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135990,
+        "num": 135990,
+        "word": "跑男VCR只给观众看",
+        "onboard_time": 1720757300,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "贵女杀青",
+        "onboard_time": 1720752559,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124786,
+        "num": 124786,
+        "word": "美国加州将实施永久性限水措施",
+        "onboard_time": 1720754778,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119733,
+        "num": 119733,
+        "word": "中国海警依法驱离日本船只",
+        "onboard_time": 1720743977,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119538,
+        "num": 119538,
+        "word": "A股",
+        "onboard_time": 1720758138,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革要做到这些坚持#"
+    }
+  }
+}
