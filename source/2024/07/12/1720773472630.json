@@ -1,0 +1,410 @@
+{
+  "runTime": 1720773472630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159919,
+        "num": 1185587,
+        "word": "宝马中国将退出价格战",
+        "onboard_time": 1720767799,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 988314,
+        "num": 988314,
+        "word": "1314元演唱会门票连主屏幕都看不见",
+        "onboard_time": 1720770199,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58830,
+        "num": 704501,
+        "word": "我国成功搭建6G外场试验网",
+        "onboard_time": 1720755679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684692,
+        "num": 684692,
+        "word": "杨迪被追讨80万版权费",
+        "onboard_time": 1720771218,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430677,
+        "num": 430677,
+        "word": "赵今麦将回归流浪地球3",
+        "onboard_time": 1720771577,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405055,
+        "num": 405055,
+        "word": "北京暴雨",
+        "onboard_time": 1720764678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388021,
+        "num": 388021,
+        "word": "权志龙叫金喜善奶奶",
+        "onboard_time": 1720767737,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313280,
+        "num": 313280,
+        "word": "韩国人被重庆火锅吓到了",
+        "onboard_time": 1720762759,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302504,
+        "num": 302504,
+        "word": "美国2名宇航员被困太空近1个月",
+        "onboard_time": 1720765277,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48529,
+        "num": 298783,
+        "word": "外卖小哥婉拒店家邀请被一嗓子吼进门",
+        "onboard_time": 1720773018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485936,
+        "num": 297408,
+        "word": "泫雅龙俊亨官宣结婚后首次同框",
+        "onboard_time": 1720771039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372627,
+        "num": 292588,
+        "word": "萝卜快跑回应网约车罢工横停马路",
+        "onboard_time": 1720757360,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356509,
+        "num": 287340,
+        "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+        "onboard_time": 1720766239,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 285310,
+        "num": 285310,
+        "word": "这就是小说里讲的灵气逼人吗",
+        "onboard_time": 1720767559,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275785,
+        "num": 275785,
+        "word": "肖战工作室连载法国vlog",
+        "onboard_time": 1720771818,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263321,
+        "num": 263321,
+        "word": "张凌赫赵今麦史上最快二搭",
+        "onboard_time": 1720757659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215283,
+        "num": 215283,
+        "word": "超雄银渐层",
+        "onboard_time": 1720762818,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57392,
+        "num": 214232,
+        "word": "折叠屏手机被洗衣机洗了怎么办",
+        "onboard_time": 1720770078,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213293,
+        "num": 213293,
+        "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
+        "onboard_time": 1720770860,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206750,
+        "num": 206750,
+        "word": "3桶羽毛球价格直逼1克黄金",
+        "onboard_time": 1720760357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372087,
+        "num": 205439,
+        "word": "李梦承认恋情",
+        "onboard_time": 1720764319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821280,
+        "num": 205292,
+        "word": "睡6小时和睡8小时区别有多大",
+        "onboard_time": 1720768217,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343759,
+        "num": 204102,
+        "word": "睡前饿了建议吃这5种食物",
+        "onboard_time": 1720767258,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199562,
+        "num": 199562,
+        "word": "头号玩家",
+        "onboard_time": 1720772840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230831,
+        "num": 198359,
+        "word": "多少年轻人给苹果手表做牛马",
+        "onboard_time": 1720761496,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194070,
+        "num": 194070,
+        "word": "陈意涵 旅行必备搭子",
+        "onboard_time": 1720772718,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186984,
+        "num": 186984,
+        "word": "十个勤天是有点搞笑在身上的",
+        "onboard_time": 1720772898,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186414,
+        "num": 186414,
+        "word": "歌手2024终极袭榜赛投票",
+        "onboard_time": 1720766299,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185749,
+        "num": 185749,
+        "word": "世界之外 抄袭",
+        "onboard_time": 1720759998,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173866,
+        "num": 173866,
+        "word": "百度副总裁称萝卜快跑不是为了抢生意",
+        "onboard_time": 1720771218,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 50555,
+        "num": 166282,
+        "word": "荣耀再次打破折叠屏轻薄纪录",
+        "onboard_time": 1720768818,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164045,
+        "num": 164045,
+        "word": "黄一鸣用女儿接广告被举报",
+        "onboard_time": 1720758678,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146106,
+        "num": 146106,
+        "word": "二十多万的江诗丹顿戴两天表带发黑",
+        "onboard_time": 1720767618,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136249,
+        "num": 136249,
+        "word": "泰国近30名学生遭校长猥亵",
+        "onboard_time": 1720770139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "游戏明星计划",
+        "onboard_time": 1720772538,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131452,
+        "num": 131452,
+        "word": "李彩演站姐过度修图被吐槽",
+        "onboard_time": 1720768580,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "得闲谨制 肖战",
+        "onboard_time": 1720754359,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129166,
+        "num": 129166,
+        "word": "李梦 大大方方",
+        "onboard_time": 1720772418,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128171,
+        "num": 128171,
+        "word": "当地监管部门回应萝卜快跑定价争议",
+        "onboard_time": 1720769961,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126459,
+        "num": 126459,
+        "word": "会谈恋爱的人做对了什么",
+        "onboard_time": 1720752798,
+        "rank": 39,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 125295,
+        "num": 125295,
+        "word": "Bin踢ON椅子真相",
+        "onboard_time": 1720760899,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124244,
+        "num": 124244,
+        "word": "爽爽贵阳有多爽",
+        "onboard_time": 1720772538,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122783,
+        "num": 122783,
+        "word": "非自然死亡新作豪华阵容",
+        "onboard_time": 1720761496,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117198,
+        "num": 117198,
+        "word": "千万别随便对着路边的镜子自拍",
+        "onboard_time": 1720769779,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115775,
+        "num": 115775,
+        "word": "郑秀晶出发上海",
+        "onboard_time": 1720767678,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16370,
+        "num": 115122,
+        "word": "买手机你考虑屏幕护眼吗",
+        "onboard_time": 1720773258,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114975,
+        "num": 114975,
+        "word": "世界之外 AI",
+        "onboard_time": 1720773319,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113989,
+        "num": 113989,
+        "word": "韩国千年陶器用汉字刻着一个大",
+        "onboard_time": 1720771577,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112608,
+        "num": 112608,
+        "word": "谁家男朋友从订婚就开始哭啊",
+        "onboard_time": 1720757059,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111557,
+        "num": 111557,
+        "word": "荣耀发布会",
+        "onboard_time": 1720770319,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革要做到这些坚持#"
+    }
+  }
+}

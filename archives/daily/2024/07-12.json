@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720772720357,
+  "endTime": 1720773472630,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988314,
+      "num": 988314,
+      "word": "1314元演唱会门票连主屏幕都看不见",
+      "onboard_time": 1720770199,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 967334,
       "num": 967334,
       "word": "44岁柳岩自曝患子宫肌瘤",
@@ -179,14 +187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 791202,
-      "num": 791202,
-      "word": "1314元演唱会门票连主屏幕都看不见",
-      "onboard_time": 1720770199,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 749061,
       "num": 749061,
       "word": "我的妈妈是校花杀青官宣",
@@ -209,6 +209,14 @@
       "onboard_time": 1720751958,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684692,
+      "num": 684692,
+      "word": "杨迪被追讨80万版权费",
+      "onboard_time": 1720771218,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 665952,
@@ -299,14 +307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 565134,
-      "num": 565134,
-      "word": "杨迪被追讨80万版权费",
-      "onboard_time": 1720771218,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 541297,
       "num": 247110,
       "word": "三种月经异常或是身体在求救",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 539733,
-      "num": 283305,
+      "num": 297408,
       "word": "泫雅龙俊亨官宣结婚后首次同框",
       "onboard_time": 1720771039,
       "rank": 10,
@@ -393,6 +393,14 @@
       "onboard_time": 1720750757,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430677,
+      "num": 430677,
+      "word": "赵今麦将回归流浪地球3",
+      "onboard_time": 1720771577,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 426014,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356509,
+      "num": 287340,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 355373,
       "num": 355373,
       "word": "北京怀柔偶遇刘亦菲",
@@ -537,14 +553,6 @@
       "onboard_time": 1720750098,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350623,
-      "num": 277221,
-      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
-      "onboard_time": 1720766239,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 350114,
@@ -667,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275785,
+      "num": 275785,
+      "word": "肖战工作室连载法国vlog",
+      "onboard_time": 1720771818,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271776,
       "num": 258662,
       "word": "萝卜快跑后台现场",
@@ -763,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223364,
-      "num": 223364,
-      "word": "赵今麦将回归流浪地球3",
-      "onboard_time": 1720771577,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "拜登迟到意总理翻白眼",
@@ -801,6 +809,14 @@
       "onboard_time": 1720758797,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213293,
+      "num": 213293,
+      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
+      "onboard_time": 1720770860,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213054,
@@ -851,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "头号玩家",
+      "onboard_time": 1720772840,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199173,
       "num": 199173,
       "word": "汪苏泷唱氧气",
@@ -875,11 +899,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193408,
-      "num": 193408,
-      "word": "肖战工作室连载法国vlog",
-      "onboard_time": 1720771818,
-      "rank": 17,
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "陈意涵 旅行必备搭子",
+      "onboard_time": 1720772718,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -913,6 +937,14 @@
       "onboard_time": 1720758437,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186984,
+      "num": 186984,
+      "word": "十个勤天是有点搞笑在身上的",
+      "onboard_time": 1720772898,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 186248,
@@ -963,14 +995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 182344,
-      "num": 140378,
-      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
-      "onboard_time": 1720770860,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
@@ -993,6 +1017,14 @@
       "onboard_time": 1720757840,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173866,
+      "num": 173866,
+      "word": "百度副总裁称萝卜快跑不是为了抢生意",
+      "onboard_time": 1720771218,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 173118,
@@ -1299,6 +1331,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 134089,
+      "num": 134089,
+      "word": "游戏明星计划",
+      "onboard_time": 1720772538,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132993,
       "num": 132993,
       "word": "张凌赫空降",
@@ -1331,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129166,
+      "num": 129166,
+      "word": "李梦 大大方方",
+      "onboard_time": 1720772418,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128845,
       "num": 128845,
       "word": "夭玹批歌单",
@@ -1355,20 +1403,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124244,
+      "num": 124244,
+      "word": "爽爽贵阳有多爽",
+      "onboard_time": 1720772538,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123309,
       "num": 123309,
       "word": "千万别随便对着路边的镜子自拍",
       "onboard_time": 1720769779,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123175,
-      "num": 123175,
-      "word": "百度副总裁称萝卜快跑不是为了抢生意",
-      "onboard_time": 1720771218,
-      "rank": 41,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 122871,
@@ -1411,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121834,
-      "num": 121834,
-      "word": "游戏明星计划",
-      "onboard_time": 1720772538,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121631,
       "num": 142705,
       "word": "媒体评萝卜快跑抢网约车司机饭碗",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1720740075,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119729,
-      "num": 119729,
-      "word": "李梦 大大方方",
-      "onboard_time": 1720772418,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 117662,
@@ -1475,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114975,
+      "num": 114975,
+      "word": "世界之外 AI",
+      "onboard_time": 1720773319,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114540,
       "num": 114540,
       "word": "729声工场",
@@ -1483,20 +1523,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113989,
+      "num": 113989,
+      "word": "韩国千年陶器用汉字刻着一个大",
+      "onboard_time": 1720771577,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112481,
       "num": 112481,
       "word": "谁给杨紫递个恶女本",
       "onboard_time": 1720704918,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112169,
-      "num": 112169,
-      "word": "爽爽贵阳有多爽",
-      "onboard_time": 1720772538,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 112084,
@@ -1515,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111557,
+      "num": 111557,
+      "word": "荣耀发布会",
+      "onboard_time": 1720770319,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111479,
       "num": 111479,
       "word": "周深起名天才",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1720771098,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109773,
-      "num": 109773,
-      "word": "荣耀发布会",
-      "onboard_time": 1720770319,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 107979,
@@ -1843,16 +1883,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58096,
-      "num": 671371,
+      "raw_hot": 58830,
+      "num": 704501,
       "word": "我国成功搭建6G外场试验网",
       "onboard_time": 1720755679,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53080,
-      "num": 187563,
+      "raw_hot": 57392,
+      "num": 214232,
       "word": "折叠屏手机被洗衣机洗了怎么办",
       "onboard_time": 1720770078,
       "rank": 19,
@@ -1883,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50555,
+      "num": 172147,
+      "word": "荣耀再次打破折叠屏轻薄纪录",
+      "onboard_time": 1720768818,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 49920,
       "num": 256111,
       "word": "这AI是不是有点太懂我了",
@@ -1896,6 +1944,14 @@
       "word": "高招征集志愿填报注意这5点",
       "onboard_time": 1720755978,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48529,
+      "num": 298783,
+      "word": "外卖小哥婉拒店家邀请被一嗓子吼进门",
+      "onboard_time": 1720773018,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1921,14 +1977,6 @@
       "onboard_time": 1720754596,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 42981,
-      "num": 172147,
-      "word": "荣耀再次打破折叠屏轻薄纪录",
-      "onboard_time": 1720768818,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 42813,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1720739415,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16370,
+      "num": 115122,
+      "word": "买手机你考虑屏幕护眼吗",
+      "onboard_time": 1720773258,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 13905,

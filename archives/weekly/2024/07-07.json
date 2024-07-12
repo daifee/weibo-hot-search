@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720772720357,
+  "endTime": 1720773472630,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -947,6 +947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 988314,
+      "num": 988314,
+      "word": "1314元演唱会门票连主屏幕都看不见",
+      "onboard_time": 1720770199,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 975938,
       "num": 975938,
       "word": "刘诗诗穿了未发布款高定",
@@ -1443,14 +1451,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 791202,
-      "num": 791202,
-      "word": "1314元演唱会门票连主屏幕都看不见",
-      "onboard_time": 1720770199,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 788768,
       "num": 788768,
       "word": "韩网友向外交部告发Jennie",
@@ -1792,6 +1792,14 @@
       "word": "娜扎 我就是一个正常的女性",
       "onboard_time": 1720692378,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 684692,
+      "num": 684692,
+      "word": "杨迪被追讨80万版权费",
+      "onboard_time": 1720771218,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -2467,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 565134,
-      "num": 565134,
-      "word": "杨迪被追讨80万版权费",
-      "onboard_time": 1720771218,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565104,
       "num": 565104,
       "word": "为什么现在电视剧都是1女N男",
@@ -2676,7 +2676,7 @@
     },
     {
       "raw_hot": 539733,
-      "num": 283305,
+      "num": 297408,
       "word": "泫雅龙俊亨官宣结婚后首次同框",
       "onboard_time": 1720771039,
       "rank": 10,
@@ -3739,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430677,
+      "num": 430677,
+      "word": "赵今麦将回归流浪地球3",
+      "onboard_time": 1720771577,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430167,
       "num": 430167,
       "word": "玱玹发疯",
@@ -4563,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356509,
+      "num": 287340,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 355373,
       "num": 355373,
       "word": "北京怀柔偶遇刘亦菲",
@@ -4649,14 +4665,6 @@
       "onboard_time": 1720324936,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350623,
-      "num": 277221,
-      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
-      "onboard_time": 1720766239,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 350376,
@@ -5771,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275785,
+      "num": 275785,
+      "word": "肖战工作室连载法国vlog",
+      "onboard_time": 1720771818,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275064,
       "num": 275064,
       "word": "A股上涨个股不足500只",
@@ -6763,14 +6779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223364,
-      "num": 223364,
-      "word": "赵今麦将回归流浪地球3",
-      "onboard_time": 1720771577,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222144,
       "num": 222144,
       "word": "星期狗",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1720371854,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213293,
+      "num": 213293,
+      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
+      "onboard_time": 1720770860,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213235,
@@ -7699,6 +7715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "头号玩家",
+      "onboard_time": 1720772840,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199316,
       "num": 199316,
       "word": "时代少年团直播",
@@ -7987,6 +8011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "陈意涵 旅行必备搭子",
+      "onboard_time": 1720772718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194031,
       "num": 208777,
       "word": "LNG战胜NIP",
@@ -8025,14 +8057,6 @@
       "onboard_time": 1720433658,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193408,
-      "num": 193408,
-      "word": "肖战工作室连载法国vlog",
-      "onboard_time": 1720771818,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 193228,
@@ -8419,6 +8443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186984,
+      "num": 186984,
+      "word": "十个勤天是有点搞笑在身上的",
+      "onboard_time": 1720772898,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186838,
       "num": 186838,
       "word": "成毅下部戏是英雄志",
@@ -8657,14 +8689,6 @@
       "onboard_time": 1720347018,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182344,
-      "num": 140378,
-      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
-      "onboard_time": 1720770860,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182086,
@@ -9113,6 +9137,14 @@
       "onboard_time": 1720757840,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173866,
+      "num": 173866,
+      "word": "百度副总裁称萝卜快跑不是为了抢生意",
+      "onboard_time": 1720771218,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 173835,
@@ -11595,6 +11627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134089,
+      "num": 134089,
+      "word": "游戏明星计划",
+      "onboard_time": 1720772538,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133944,
       "num": 133944,
       "word": "袁娅维唱了说散就散",
@@ -11897,6 +11937,14 @@
       "onboard_time": 1720278139,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129166,
+      "num": 129166,
+      "word": "李梦 大大方方",
+      "onboard_time": 1720772418,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129058,
@@ -12251,6 +12299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124244,
+      "num": 124244,
+      "word": "爽爽贵阳有多爽",
+      "onboard_time": 1720772538,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124196,
       "num": 166056,
       "word": "全红婵演我暑假",
@@ -12281,14 +12337,6 @@
       "onboard_time": 1720769779,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123175,
-      "num": 123175,
-      "word": "百度副总裁称萝卜快跑不是为了抢生意",
-      "onboard_time": 1720771218,
-      "rank": 41,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 122871,
@@ -12425,14 +12473,6 @@
       "onboard_time": 1720328898,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121834,
-      "num": 121834,
-      "word": "游戏明星计划",
-      "onboard_time": 1720772538,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 121829,
@@ -12585,14 +12625,6 @@
       "onboard_time": 1720625060,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119729,
-      "num": 119729,
-      "word": "李梦 大大方方",
-      "onboard_time": 1720772418,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 119124,
@@ -12843,6 +12875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114975,
+      "num": 114975,
+      "word": "世界之外 AI",
+      "onboard_time": 1720773319,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114835,
       "num": 114835,
       "word": "沈月说看起来瘦了就是瘦了",
@@ -12905,6 +12945,14 @@
       "onboard_time": 1720434018,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113989,
+      "num": 113989,
+      "word": "韩国千年陶器用汉字刻着一个大",
+      "onboard_time": 1720771577,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113972,
@@ -13035,14 +13083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112169,
-      "num": 112169,
-      "word": "爽爽贵阳有多爽",
-      "onboard_time": 1720772538,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 112159,
       "num": 112159,
       "word": "食用油",
@@ -13081,6 +13121,14 @@
       "onboard_time": 1720748298,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111557,
+      "num": 111557,
+      "word": "荣耀发布会",
+      "onboard_time": 1720770319,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 111479,
@@ -13248,14 +13296,6 @@
       "word": "台积电下周试产2nm芯片",
       "onboard_time": 1720567756,
       "rank": 44,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 109773,
-      "num": 109773,
-      "word": "荣耀发布会",
-      "onboard_time": 1720770319,
-      "rank": 49,
       "category": "数码"
     },
     {
@@ -14875,6 +14915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58830,
+      "num": 704501,
+      "word": "我国成功搭建6G外场试验网",
+      "onboard_time": 1720755679,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58421,
       "num": 506774,
       "word": "余承东称享界S9是舒适睡眠舱",
@@ -14915,12 +14963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58096,
-      "num": 671371,
-      "word": "我国成功搭建6G外场试验网",
-      "onboard_time": 1720755679,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 57392,
+      "num": 214232,
+      "word": "折叠屏手机被洗衣机洗了怎么办",
+      "onboard_time": 1720770078,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 57282,
@@ -15107,14 +15155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 53080,
-      "num": 187563,
-      "word": "折叠屏手机被洗衣机洗了怎么办",
-      "onboard_time": 1720770078,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 53007,
       "num": 151892,
       "word": "重庆第一份高考录取通知书来啦",
@@ -15211,6 +15251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50555,
+      "num": 172147,
+      "word": "荣耀再次打破折叠屏轻薄纪录",
+      "onboard_time": 1720768818,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50515,
       "num": 339334,
       "word": "被享界S9的影院模式震撼住了",
@@ -15272,6 +15320,14 @@
       "word": "高招征集志愿填报注意这5点",
       "onboard_time": 1720755978,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48529,
+      "num": 298783,
+      "word": "外卖小哥婉拒店家邀请被一嗓子吼进门",
+      "onboard_time": 1720773018,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -15473,14 +15529,6 @@
       "onboard_time": 1720471630,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42981,
-      "num": 172147,
-      "word": "荣耀再次打破折叠屏轻薄纪录",
-      "onboard_time": 1720768818,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 42914,
@@ -16449,6 +16497,14 @@
       "onboard_time": 1720468031,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16370,
+      "num": 115122,
+      "word": "买手机你考虑屏幕护眼吗",
+      "onboard_time": 1720773258,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 15554,

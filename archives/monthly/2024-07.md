@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 16:25:20
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 16:37:52
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231314%E5%85%83%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%BF%9E%E4%B8%BB%E5%B1%8F%E5%B9%95%E9%83%BD%E7%9C%8B%E4%B8%8D%E8%A7%81%23" target="weibo">
+1314元演唱会门票连主屏幕都看不见（热度：988314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E5%87%B6%E7%8A%AF%E5%8E%9F%E8%AE%A1%E5%88%92%E5%AE%A4%E5%86%85%E5%BC%80%E6%9E%AA%23" target="weibo">
 枪杀安倍凶犯原计划室内开枪（热度：988089）
 </a>
@@ -2337,12 +2343,6 @@ iPhone16出货量或达9000万部（热度：792182）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%231314%E5%85%83%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%BF%9E%E4%B8%BB%E5%B1%8F%E5%B9%95%E9%83%BD%E7%9C%8B%E4%B8%8D%E8%A7%81%23" target="weibo">
-1314元演唱会门票连主屏幕都看不见（热度：791202）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%8F%8B%E5%90%91%E5%A4%96%E4%BA%A4%E9%83%A8%E5%91%8A%E5%8F%91Jennie%23" target="weibo">
 韩网友向外交部告发Jennie（热度：788768）
 </a>
@@ -2873,6 +2873,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E5%A4%B9%E5%8C%85%E5%93%A5%E8%A2%AB%E6%89%8E%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
 警方通报网红夹包哥被扎伤身亡（热度：685774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%A2%AB%E8%BF%BD%E8%AE%A880%E4%B8%87%E7%89%88%E6%9D%83%E8%B4%B9%23" target="weibo">
+杨迪被追讨80万版权费（热度：684692）
 </a>
 </li>
 
@@ -3971,12 +3977,6 @@ IVE香港演唱会评论区（热度：566536）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E4%B8%8D%E7%88%B1%E6%B6%82%E5%B1%B1%E7%92%9F%E5%94%AF%E7%88%B1%E5%8F%B6%E5%8D%81%E4%B8%83%23" target="weibo">
 小夭不爱涂山璟唯爱叶十七（热度：565446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E8%A2%AB%E8%BF%BD%E8%AE%A880%E4%B8%87%E7%89%88%E6%9D%83%E8%B4%B9%23" target="weibo">
-杨迪被追讨80万版权费（热度：565134）
 </a>
 </li>
 
@@ -5991,6 +5991,12 @@ C罗哭了（热度：431649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%B0%86%E5%9B%9E%E5%BD%92%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%23" target="weibo">
+赵今麦将回归流浪地球3（热度：430677）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%9D%A1%E5%BD%A2%E7%A0%81%E5%88%98%E6%B5%B7%23" target="weibo">
 宋雨琦条形码刘海（热度：430186）
 </a>
@@ -6005,12 +6011,6 @@ C罗哭了（热度：431649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B9%E7%BD%90%E8%BD%A6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E7%BB%93%E6%9E%9C%E5%B0%86%E5%8F%8A%E6%97%B6%E5%85%AC%E5%B8%83%23" target="weibo">
 油罐车调查处置结果将及时公布（热度：429457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%B7%E5%93%BA%E5%91%B7%E5%93%BA%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9B%9E%E5%BA%943%E5%B9%B4%E4%BA%8F8%E4%BA%BF%23" target="weibo">
-呷哺呷哺创始人回应3年亏8亿（热度：429351）
 </a>
 </li>
 
