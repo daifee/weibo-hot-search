@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720826357398,
+  "endTime": 1720827284169,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 851469,
+      "num": 931304,
+      "word": "孟晚舟建议不要选和机器竞争的职业",
+      "onboard_time": 1720825995,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846647,
       "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
@@ -1643,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 787577,
+      "num": 805600,
+      "word": "浙江14岁女孩确诊马斯克同款天才病",
+      "onboard_time": 1720804576,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784910,
       "num": 784910,
       "word": "四川大学公示拟撤销31个专业",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1720383431,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 781096,
-      "num": 805600,
-      "word": "浙江14岁女孩确诊马斯克同款天才病",
-      "onboard_time": 1720804576,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 778550,
@@ -2809,14 +2817,6 @@
       "onboard_time": 1720496900,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 555128,
-      "num": 121010,
-      "word": "孟晚舟建议不要选和机器竞争的职业",
-      "onboard_time": 1720825995,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555042,
@@ -6572,7 +6572,7 @@
     },
     {
       "raw_hot": 260212,
-      "num": 120444,
+      "num": 125492,
       "word": "这3种卫生巾慎买",
       "onboard_time": 1720823713,
       "rank": 11,
@@ -7385,6 +7385,14 @@
       "onboard_time": 1720611857,
       "rank": 35,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 226685,
+      "num": 93426,
+      "word": "月经周期21天比35天衰老更快吗",
+      "onboard_time": 1720804576,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226598,
@@ -8371,6 +8379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201527,
+      "num": 201527,
+      "word": "人鱼已杀青",
+      "onboard_time": 1720826294,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201438,
       "num": 201438,
       "word": "杨紫包场长相思2",
@@ -8409,14 +8425,6 @@
       "onboard_time": 1720418781,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200953,
-      "num": 85754,
-      "word": "月经周期21天比35天衰老更快吗",
-      "onboard_time": 1720804576,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 200947,
@@ -10627,6 +10635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164555,
+      "num": 122218,
+      "word": "每天一杯饮料28岁女子血糖爆表进ICU",
+      "onboard_time": 1720826414,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164545,
       "num": 164545,
       "word": "Knight身体不适",
@@ -11825,6 +11841,14 @@
       "onboard_time": 1720615098,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144964,
+      "num": 117631,
+      "word": "赵露思TikTok浏览量破120亿",
+      "onboard_time": 1720826653,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 144799,
@@ -13779,14 +13803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117716,
-      "num": 117716,
-      "word": "人鱼已杀青",
-      "onboard_time": 1720826294,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117710,
       "num": 117710,
       "word": "肖战法国限定记录",
@@ -14731,6 +14747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104905,
+      "num": 69880,
+      "word": "相亲相到了把我挂了的面试官",
+      "onboard_time": 1720826833,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104887,
       "num": 226016,
       "word": "武磊两射两传",
@@ -15315,6 +15339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92813,
+      "num": 92813,
+      "word": "为什么小腿肌会被称为人的第二心脏",
+      "onboard_time": 1720809792,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92598,
       "num": 92598,
       "word": "杨超越字母T编发",
@@ -15675,20 +15707,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78402,
-      "num": 76418,
-      "word": "为什么小腿肌会被称为人的第二心脏",
-      "onboard_time": 1720809792,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 78104,
       "num": 83451,
       "word": "孟子义没玩明白但夺冠了",
       "onboard_time": 1720355237,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78009,
+      "num": 78009,
+      "word": "6月新增新冠死亡病例5例",
+      "onboard_time": 1720827255,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77894,
@@ -15827,6 +15859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73864,
+      "num": 73864,
+      "word": "ChinaJoy",
+      "onboard_time": 1720826533,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73500,
       "num": 73500,
       "word": "庾澄庆童年时期全家福",
@@ -15875,6 +15915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71401,
+      "num": 71401,
+      "word": "德约科维奇晋级温网决赛",
+      "onboard_time": 1720826833,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71048,
       "num": 361172,
       "word": "暑期健康这样抄作业",
@@ -15913,6 +15961,14 @@
       "onboard_time": 1720788019,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70170,
+      "num": 70170,
+      "word": "拆卡直播间半年狂揽2.78亿",
+      "onboard_time": 1720827255,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 69954,
@@ -16116,7 +16172,7 @@
     },
     {
       "raw_hot": 63577,
-      "num": 49017,
+      "num": 54152,
       "word": "巴西球赛发生冲突警察枪击守门员大腿",
       "onboard_time": 1720805954,
       "rank": 30,
@@ -16296,6 +16352,14 @@
       "word": "女孩卡脖悬空男子徒手爬楼解救",
       "onboard_time": 1720664118,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59266,
+      "num": 59266,
+      "word": "南京大屠杀幸存者石秀英离世",
+      "onboard_time": 1720826533,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -16707,6 +16771,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 49983,
+      "num": 49983,
+      "word": "吴谨言回应墨雨云间团综",
+      "onboard_time": 1720812012,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49920,
       "num": 256111,
       "word": "这AI是不是有点太懂我了",
@@ -16811,14 +16883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47281,
-      "num": 47281,
-      "word": "吴谨言回应墨雨云间团综",
-      "onboard_time": 1720812012,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47088,
       "num": 47088,
       "word": "李荣浩演唱会目送杨丞琳离场",
@@ -16859,6 +16923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45324,
+      "num": 45324,
+      "word": "马斯克向特朗普捐款",
+      "onboard_time": 1720827016,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 45307,
       "num": 38132,
       "word": "詹俊解说",
@@ -16889,6 +16961,14 @@
       "onboard_time": 1720424659,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44899,
+      "num": 44899,
+      "word": "全身麻醉后身体会经历什么",
+      "onboard_time": 1720827255,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44791,
@@ -16929,6 +17009,14 @@
       "onboard_time": 1720517118,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 44184,
+      "num": 44018,
+      "word": "不敢看第二遍的动漫",
+      "onboard_time": 1720820471,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 43961,
@@ -16993,6 +17081,14 @@
       "onboard_time": 1720727471,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42502,
+      "num": 44018,
+      "word": "您的狗开机速度打败全国1%用户",
+      "onboard_time": 1720827255,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 42404,
@@ -17145,14 +17241,6 @@
       "onboard_time": 1720457354,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38481,
-      "num": 38481,
-      "word": "不敢看第二遍的动漫",
-      "onboard_time": 1720820471,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 38329,
@@ -18043,6 +18131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16351,
+      "num": 131698,
+      "word": "3岁娃给生病妈妈盖被关灯好懂事",
+      "onboard_time": 1720825634,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15877,
       "num": 197680,
       "word": "旅客突发疾病他掏出AED救人",
@@ -18097,14 +18193,6 @@
       "onboard_time": 1720404978,
       "rank": 48,
       "category": "情感,运动健身"
-    },
-    {
-      "raw_hot": 14032,
-      "num": 123460,
-      "word": "3岁娃给生病妈妈盖被关灯好懂事",
-      "onboard_time": 1720825634,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13969,

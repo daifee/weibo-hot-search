@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/13 07:19:17
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/13 07:34:44
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E9%80%89%E5%92%8C%E6%9C%BA%E5%99%A8%E7%AB%9E%E4%BA%89%E7%9A%84%E8%81%8C%E4%B8%9A%23" target="weibo">
+孟晚舟建议不要选和机器竞争的职业（热度：851469）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%BE%E9%A6%86%E8%80%81%E6%9D%BF%E8%A7%81%E7%94%B7%E5%AD%90%E5%B8%A6%E5%B9%BC%E5%A5%B3%E5%BC%80%E6%88%BF%E7%AB%8B%E5%88%BB%E6%8A%A5%E8%AD%A6%23" target="weibo">
 宾馆老板见男子带幼女开房立刻报警（热度：850413）
 </a>
@@ -2475,6 +2481,12 @@ iPhone16出货量或达9000万部（热度：792182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F14%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%AC%BE%E5%A4%A9%E6%89%8D%E7%97%85%23" target="weibo">
+浙江14岁女孩确诊马斯克同款天才病（热度：787577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%85%AC%E7%A4%BA%E6%8B%9F%E6%92%A4%E9%94%8031%E4%B8%AA%E4%B8%93%E4%B8%9A%23" target="weibo">
 四川大学公示拟撤销31个专业（热度：784910）
 </a>
@@ -2507,12 +2519,6 @@ iPhone16出货量或达9000万部（热度：792182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23" target="weibo">
 T1夺冠（热度：781234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F14%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%AC%BE%E5%A4%A9%E6%89%8D%E7%97%85%23" target="weibo">
-浙江14岁女孩确诊马斯克同款天才病（热度：781096）
 </a>
 </li>
 
@@ -4277,12 +4283,6 @@ CoCo回应员工边做边吃（热度：559445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C8%E5%B9%B4%E5%90%8E%E5%9B%A0%E5%89%8D%E8%80%81%E6%9D%BF%E6%B6%89%E9%BB%91%E8%8E%B7%E5%88%91%23" target="weibo">
 离职8年后因前老板涉黑获刑（热度：555473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E9%80%89%E5%92%8C%E6%9C%BA%E5%99%A8%E7%AB%9E%E4%BA%89%E7%9A%84%E8%81%8C%E4%B8%9A%23" target="weibo">
-孟晚舟建议不要选和机器竞争的职业（热度：555128）
 </a>
 </li>
 
