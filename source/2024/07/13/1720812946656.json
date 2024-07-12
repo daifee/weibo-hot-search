@@ -1,0 +1,410 @@
+{
+  "runTime": 1720812946656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 217348,
+        "num": 217348,
+        "word": "浙江14岁女孩确诊马斯克同款天才病",
+        "onboard_time": 1720804576,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 148855,
+        "word": "李晨 后继有人",
+        "onboard_time": 1720798339,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1672,
+        "num": 131129,
+        "word": "洪水中这些身影是安全感的来源",
+        "onboard_time": 1720788019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130581,
+        "num": 130581,
+        "word": "那英第一",
+        "onboard_time": 1720792880,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111150,
+        "num": 111150,
+        "word": "福宝没认出姜爷爷",
+        "onboard_time": 1720792100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59010,
+        "num": 59010,
+        "word": "萨莉亚靠卖预制菜年销近百亿元",
+        "onboard_time": 1720791740,
+        "rank": 5,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 58504,
+        "num": 58504,
+        "word": "谭维维 审美疲劳",
+        "onboard_time": 1720787057,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55749,
+        "num": 55749,
+        "word": "林俊杰原唱",
+        "onboard_time": 1720797679,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54967,
+        "num": 54967,
+        "word": "外交部回应日方要求逮捕2名中国人",
+        "onboard_time": 1720786757,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16887,
+        "num": 45203,
+        "word": "电竞奥运会来了",
+        "onboard_time": 1720791500,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44926,
+        "num": 44926,
+        "word": "369",
+        "onboard_time": 1720796000,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44390,
+        "num": 44390,
+        "word": "英子状态回来了",
+        "onboard_time": 1720791440,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42155,
+        "num": 42155,
+        "word": "谁家夫妻做成这模样啊",
+        "onboard_time": 1720787778,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37868,
+        "num": 37868,
+        "word": "萝卜快跑会导致司机大规模失业吗",
+        "onboard_time": 1720790540,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 35594,
+        "num": 35594,
+        "word": "迪丽热巴 金九",
+        "onboard_time": 1720777518,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33287,
+        "num": 33287,
+        "word": "那英天后回归",
+        "onboard_time": 1720791381,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32535,
+        "num": 32535,
+        "word": "别墅绿化带惊现数个爱马仕",
+        "onboard_time": 1720790959,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29208,
+        "num": 32478,
+        "word": "四川大学公示拟撤销31个专业",
+        "onboard_time": 1720786818,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29002,
+        "num": 32403,
+        "word": "意大利版沙县小吃光明正大卖预制菜",
+        "onboard_time": 1720791980,
+        "rank": 18,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 27939,
+        "num": 32329,
+        "word": "男孩高考656分志愿全填临床医学",
+        "onboard_time": 1720784238,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 64494,
+        "num": 32302,
+        "word": "月经周期21天比35天衰老更快吗",
+        "onboard_time": 1720804576,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33076,
+        "num": 32207,
+        "word": "Lenka 偷感好重",
+        "onboard_time": 1720788858,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33227,
+        "num": 32097,
+        "word": "为什么小腿肌会被称为人的第二心脏",
+        "onboard_time": 1720809792,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32068,
+        "num": 32068,
+        "word": "汪苏泷 好听",
+        "onboard_time": 1720789038,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30672,
+        "num": 30672,
+        "word": "歌手直播",
+        "onboard_time": 1720784059,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30423,
+        "num": 30423,
+        "word": "neinei13岁身高",
+        "onboard_time": 1720802176,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29375,
+        "num": 29375,
+        "word": "680元和380元的演唱会门票仅差一排",
+        "onboard_time": 1720774218,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 28248,
+        "word": "歌手2024",
+        "onboard_time": 1720784059,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28173,
+        "num": 28173,
+        "word": "吴谨言回应墨雨云间团综",
+        "onboard_time": 1720812012,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23768,
+        "num": 26591,
+        "word": "男孩高考结束才知父亲已坐牢5年",
+        "onboard_time": 1720785378,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55364,
+        "num": 26284,
+        "word": "巴西球赛发生冲突警察枪击守门员大腿",
+        "onboard_time": 1720805954,
+        "rank": 30,
+        "category": "体育,国外时政"
+      },
+      {
+        "raw_hot": 25903,
+        "num": 25903,
+        "word": "薛之谦演唱会北京站",
+        "onboard_time": 1720797379,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24661,
+        "num": 24661,
+        "word": "被土象星座伤害过的朋友来看看",
+        "onboard_time": 1720797259,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 24433,
+        "num": 24433,
+        "word": "李梦承认恋情",
+        "onboard_time": 1720764319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24263,
+        "num": 24263,
+        "word": "孙楠 giegie",
+        "onboard_time": 1720790300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22852,
+        "num": 22852,
+        "word": "曹璐 爱豆圈唯一人脉",
+        "onboard_time": 1720795459,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 22614,
+        "word": "王健林7月连卖3座万达广场",
+        "onboard_time": 1720780038,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 22295,
+        "num": 22295,
+        "word": "那英 裹着心的光",
+        "onboard_time": 1720792762,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21737,
+        "num": 22294,
+        "word": "2024LPL",
+        "onboard_time": 1720798758,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20974,
+        "num": 22286,
+        "word": "大理一小学附近发现眼镜王蛇",
+        "onboard_time": 1720788499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21359,
+        "num": 22284,
+        "word": "歌手排名",
+        "onboard_time": 1720793600,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 22280,
+        "word": "长相思2断更",
+        "onboard_time": 1720779738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19624,
+        "num": 22274,
+        "word": "黄宣秒了",
+        "onboard_time": 1720790059,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19578,
+        "num": 22272,
+        "word": "美国队长4预告",
+        "onboard_time": 1720794141,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19351,
+        "num": 22267,
+        "word": "歌手突围赛",
+        "onboard_time": 1720799058,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18574,
+        "num": 22263,
+        "word": "BLG战胜TES",
+        "onboard_time": 1720797140,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18207,
+        "num": 22254,
+        "word": "真的教会我怎么夹抓夹了",
+        "onboard_time": 1720803316,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17808,
+        "num": 22249,
+        "word": "81岁太姥怀抱7个月曾外孙女如同饼印",
+        "onboard_time": 1720799239,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16510,
+        "num": 22245,
+        "word": "7月的上海已被二次元占领",
+        "onboard_time": 1720795099,
+        "rank": 48,
+        "category": "动漫,旅游"
+      },
+      {
+        "raw_hot": 15561,
+        "num": 22241,
+        "word": "恋与深空 BW无料",
+        "onboard_time": 1720812311,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}
