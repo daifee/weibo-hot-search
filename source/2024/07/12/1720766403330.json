@@ -1,0 +1,410 @@
+{
+  "runTime": 1720766403330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2658598,
+        "num": 2658598,
+        "word": "李梦承认恋情",
+        "onboard_time": 1720764319,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1257099,
+        "num": 1257099,
+        "word": "北京暴雨",
+        "onboard_time": 1720764678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38295,
+        "num": 1230025,
+        "word": "高招征集志愿填报注意这5点",
+        "onboard_time": 1720755978,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205845,
+        "num": 1205845,
+        "word": "韩国人被重庆火锅吓到了",
+        "onboard_time": 1720762759,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 586933,
+        "num": 586933,
+        "word": "张凌赫赵今麦史上最快二搭",
+        "onboard_time": 1720757659,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584816,
+        "num": 584816,
+        "word": "拜登出现离谱口误",
+        "onboard_time": 1720760237,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 435825,
+        "num": 435825,
+        "word": "世界之外 抄袭",
+        "onboard_time": 1720759998,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381349,
+        "num": 381349,
+        "word": "女子购买格力空调十年免费换新被拒",
+        "onboard_time": 1720751718,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807821,
+        "num": 378480,
+        "word": "超雄银渐层",
+        "onboard_time": 1720762818,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71052,
+        "num": 348656,
+        "word": "有外国博主因144政策3刷中国",
+        "onboard_time": 1720765818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629907,
+        "num": 344034,
+        "word": "萝卜快跑回应网约车罢工横停马路",
+        "onboard_time": 1720757360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320910,
+        "num": 320910,
+        "word": "Bin踢ON椅子真相",
+        "onboard_time": 1720760899,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299401,
+        "num": 299401,
+        "word": "3桶羽毛球价格直逼1克黄金",
+        "onboard_time": 1720760357,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291524,
+        "num": 291524,
+        "word": "张馨予为老公辟谣",
+        "onboard_time": 1720751958,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285137,
+        "num": 285137,
+        "word": "得闲谨制 肖战",
+        "onboard_time": 1720754359,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279952,
+        "num": 279952,
+        "word": "北京怀柔偶遇刘亦菲",
+        "onboard_time": 1720760418,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277473,
+        "num": 277473,
+        "word": "李梦 我会幸福且充盈",
+        "onboard_time": 1720764560,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260620,
+        "num": 260620,
+        "word": "我的妈妈是校花杀青官宣",
+        "onboard_time": 1720755679,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29096,
+        "num": 230665,
+        "word": "这AI是不是有点太懂我了",
+        "onboard_time": 1720765099,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227231,
+        "num": 227231,
+        "word": "非自然死亡新作豪华阵容",
+        "onboard_time": 1720761496,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637441,
+        "num": 227221,
+        "word": "多少年轻人给苹果手表做牛马",
+        "onboard_time": 1720761496,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 474138,
+        "num": 226625,
+        "word": "黄一鸣用女儿接广告被举报",
+        "onboard_time": 1720758678,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334603,
+        "num": 226502,
+        "word": "iPhone17顶配或告别1200万像素时代",
+        "onboard_time": 1720759159,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225493,
+        "num": 225493,
+        "word": "何洁听到要采500公斤茶的反应",
+        "onboard_time": 1720765999,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216477,
+        "num": 216477,
+        "word": "美国2名宇航员被困太空近1个月",
+        "onboard_time": 1720765277,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209947,
+        "num": 209947,
+        "word": "18岁李嫣近照",
+        "onboard_time": 1720760300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209181,
+        "num": 209181,
+        "word": "原神火神首曝",
+        "onboard_time": 1720759278,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196498,
+        "num": 196498,
+        "word": "乌拉圭11名球员或遭处罚",
+        "onboard_time": 1720765038,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192880,
+        "num": 192880,
+        "word": "歌手2024终极袭榜赛投票",
+        "onboard_time": 1720766299,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189030,
+        "num": 189030,
+        "word": "谁家男朋友从订婚就开始哭啊",
+        "onboard_time": 1720757059,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183448,
+        "num": 183448,
+        "word": "边牧教小猫喝水",
+        "onboard_time": 1720765218,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178929,
+        "num": 178929,
+        "word": "白鹿张予曦撞衫了",
+        "onboard_time": 1720756700,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173273,
+        "num": 173273,
+        "word": "会谈恋爱的人做对了什么",
+        "onboard_time": 1720752798,
+        "rank": 32,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 171479,
+        "num": 171479,
+        "word": "为什么说江浙沪是先天留学圣体",
+        "onboard_time": 1720760418,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162900,
+        "num": 162900,
+        "word": "王一博张钧甯豪门姐弟即视感",
+        "onboard_time": 1720758078,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156555,
+        "num": 156555,
+        "word": "乳腺癌患者呈现年轻化趋势",
+        "onboard_time": 1720760899,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149142,
+        "num": 149142,
+        "word": "44岁柳岩自曝患子宫肌瘤",
+        "onboard_time": 1720707141,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140240,
+        "num": 140240,
+        "word": "白鹿范丞丞绝佳手气",
+        "onboard_time": 1720765339,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "少女玩恋爱游戏充一万觉得被引诱",
+        "onboard_time": 1720753458,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134461,
+        "num": 134461,
+        "word": "入职后进入了不属于自己的阶层",
+        "onboard_time": 1720756997,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "直播间推荐童摄店倒闭谁来担责",
+        "onboard_time": 1720764018,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "iPhone15升级iOS18后问题频发",
+        "onboard_time": 1720763418,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 129504,
+        "word": "港媒称香港警队将使用国产手枪",
+        "onboard_time": 1720762218,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126243,
+        "num": 126243,
+        "word": "张钧甯帮圈内好友看合约",
+        "onboard_time": 1720766359,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122359,
+        "num": 122359,
+        "word": "雷军问还有人在用iPhoneMini吗",
+        "onboard_time": 1720749318,
+        "rank": 44,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 117662,
+        "num": 117662,
+        "word": "英语老师最爱的一期歌手",
+        "onboard_time": 1720765398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114769,
+        "num": 114769,
+        "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+        "onboard_time": 1720766239,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 25147,
+        "num": 111644,
+        "word": "原神纳塔全员",
+        "onboard_time": 1720761799,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "杨和苏的和又变成连词了",
+        "onboard_time": 1720764440,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106032,
+        "num": 106032,
+        "word": "BW2024",
+        "onboard_time": 1720762878,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代全面深化改革的宝贵经验#"
+    }
+  }
+}

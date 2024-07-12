@@ -1,10 +1,10 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720765637000,
+  "endTime": 1720766403330,
   "band_list": [
     {
       "raw_hot": 2714899,
-      "num": 698358,
+      "num": 2658598,
       "word": "李梦承认恋情",
       "onboard_time": 1720764319,
       "rank": 3,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257099,
+      "num": 1257099,
+      "word": "北京暴雨",
+      "onboard_time": 1720764678,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1205845,
+      "num": 1205845,
+      "word": "韩国人被重庆火锅吓到了",
+      "onboard_time": 1720762759,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1187056,
       "num": 1113467,
       "word": "雷军发博称美丽小废物",
@@ -57,14 +73,6 @@
       "onboard_time": 1720750878,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1065391,
-      "num": 1170462,
-      "word": "韩国人被重庆火锅吓到了",
-      "onboard_time": 1720762759,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1022787,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807821,
+      "num": 632774,
+      "word": "超雄银渐层",
+      "onboard_time": 1720762818,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 749061,
       "num": 749061,
       "word": "我的妈妈是校花杀青官宣",
@@ -195,23 +211,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 645081,
-      "num": 645081,
-      "word": "北京暴雨",
-      "onboard_time": 1720764678,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632774,
-      "num": 632774,
-      "word": "超雄银渐层",
-      "onboard_time": 1720762818,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 625379,
+      "raw_hot": 637441,
       "num": 233188,
       "word": "多少年轻人给苹果手表做牛马",
       "onboard_time": 1720761496,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 249932,
-      "num": 215629,
+      "num": 227231,
       "word": "非自然死亡新作豪华阵容",
       "onboard_time": 1720761496,
       "rank": 47,
@@ -659,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225493,
+      "num": 225493,
+      "word": "何洁听到要采500公斤茶的反应",
+      "onboard_time": 1720765999,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220226,
       "num": 220226,
       "word": "民政局回应13岁尿毒症晚期男孩捡废品",
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216477,
+      "num": 216477,
+      "word": "美国2名宇航员被困太空近1个月",
+      "onboard_time": 1720765277,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 213802,
@@ -739,6 +755,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 196498,
+      "num": 196498,
+      "word": "乌拉圭11名球员或遭处罚",
+      "onboard_time": 1720765038,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192880,
+      "num": 192880,
+      "word": "歌手2024终极袭榜赛投票",
+      "onboard_time": 1720766299,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191928,
       "num": 351415,
       "word": "被高铁上的儿童餐食硬控",
@@ -793,6 +825,14 @@
       "onboard_time": 1720697417,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 183448,
+      "num": 183448,
+      "word": "边牧教小猫喝水",
+      "onboard_time": 1720765218,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 183217,
@@ -907,14 +947,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 160286,
-      "num": 160286,
-      "word": "乌拉圭11名球员或遭处罚",
-      "onboard_time": 1720765038,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158595,
       "num": 158595,
       "word": "杰伦布朗破防了",
@@ -1019,20 +1051,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145746,
-      "num": 145746,
-      "word": "边牧教小猫喝水",
-      "onboard_time": 1720765218,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145713,
       "num": 145713,
       "word": "原神",
       "onboard_time": 1720743617,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140240,
+      "num": 140240,
+      "word": "白鹿范丞丞绝佳手气",
+      "onboard_time": 1720765339,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 140167,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132138,
+      "num": 396627,
+      "word": "直播间推荐童摄店倒闭谁来担责",
+      "onboard_time": 1720764018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131179,
       "num": 131179,
       "word": "度华年",
@@ -1115,28 +1155,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129081,
-      "num": 129081,
-      "word": "美国2名宇航员被困太空近1个月",
-      "onboard_time": 1720765277,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 127882,
-      "num": 127882,
-      "word": "白鹿范丞丞绝佳手气",
-      "onboard_time": 1720765339,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127406,
       "num": 127406,
       "word": "超增肥的8道家常菜",
       "onboard_time": 1720759938,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126243,
+      "num": 126243,
+      "word": "张钧甯帮圈内好友看合约",
+      "onboard_time": 1720766359,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125154,
@@ -1203,12 +1235,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117662,
+      "num": 117662,
+      "word": "英语老师最爱的一期歌手",
+      "onboard_time": 1720765398,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117410,
       "num": 117410,
       "word": "下半年狮子座福运翻倍",
       "onboard_time": 1720744219,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114769,
+      "num": 114769,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 114540,
@@ -1251,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110782,
-      "num": 110782,
-      "word": "英语老师最爱的一期歌手",
-      "onboard_time": 1720765398,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "金珉奎美貌",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1720708101,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106032,
+      "num": 106032,
+      "word": "BW2024",
+      "onboard_time": 1720762878,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 105862,
@@ -1459,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76193,
-      "num": 396627,
-      "word": "直播间推荐童摄店倒闭谁来担责",
-      "onboard_time": 1720764018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72984,
       "num": 72984,
       "word": "张晚意电梯神图",
@@ -1479,6 +1519,14 @@
       "num": 384324,
       "word": "9岁女儿担心妈妈没吃饭留便签提醒",
       "onboard_time": 1720746438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71052,
+      "num": 348656,
+      "word": "有外国博主因144政策3刷中国",
+      "onboard_time": 1720765818,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 48737,
-      "num": 967163,
+      "num": 1230025,
       "word": "高招征集志愿填报注意这5点",
       "onboard_time": 1720755978,
       "rank": 2,
@@ -1651,8 +1699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27912,
-      "num": 145020,
+      "raw_hot": 29096,
+      "num": 230665,
       "word": "这AI是不是有点太懂我了",
       "onboard_time": 1720765099,
       "rank": 37,
