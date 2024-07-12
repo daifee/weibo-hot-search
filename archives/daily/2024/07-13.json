@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720801488466,
+  "endTime": 1720802356621,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1016712,
-      "num": 1016712,
+      "raw_hot": 1104610,
+      "num": 1104610,
       "word": "李晨 后继有人",
       "onboard_time": 1720798339,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345546,
+      "num": 345546,
+      "word": "谭维维 审美疲劳",
+      "onboard_time": 1720787057,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345428,
       "num": 326913,
       "word": "迪丽热巴 金九",
@@ -67,20 +75,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336645,
-      "num": 336645,
+      "raw_hot": 338174,
+      "num": 338174,
       "word": "萨莉亚靠卖预制菜年销近百亿元",
       "onboard_time": 1720791740,
       "rank": 8,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 323665,
-      "num": 323665,
-      "word": "谭维维 审美疲劳",
-      "onboard_time": 1720787057,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 271235,
@@ -203,8 +203,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138657,
-      "num": 129372,
+      "raw_hot": 141487,
+      "num": 141487,
       "word": "林俊杰点赞那英裹着心的光",
       "onboard_time": 1720801277,
       "rank": 30,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 130199,
-      "num": 130199,
+      "num": 153952,
       "word": "男孩高考656分志愿全填临床医学",
       "onboard_time": 1720784238,
       "rank": 28,
@@ -249,6 +249,14 @@
       "onboard_time": 1720799298,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125273,
+      "num": 125273,
+      "word": "英子状态回来了",
+      "onboard_time": 1720791440,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 123103,
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113620,
-      "num": 113620,
-      "word": "英子状态回来了",
-      "onboard_time": 1720791440,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105252,
       "num": 123561,
       "word": "大理一小学附近发现眼镜王蛇",
@@ -321,6 +321,22 @@
       "onboard_time": 1720795099,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99142,
+      "num": 99142,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89396,
+      "num": 113136,
+      "word": "81岁太姥怀抱7个月曾外孙女如同饼印",
+      "onboard_time": 1720799239,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85630,
@@ -355,20 +371,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72404,
-      "num": 113136,
-      "word": "81岁太姥怀抱7个月曾外孙女如同饼印",
-      "onboard_time": 1720799239,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61353,
       "num": 112685,
       "word": "上半年人民币存款增加11.46万亿元",
       "onboard_time": 1720780878,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61033,
+      "num": 91541,
+      "word": "2024LPL",
+      "onboard_time": 1720798758,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 59504,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见所罗门群岛总理#"
+    },
+    {
+      "word": "#习近平会见瓦努阿图总理萨尔维#"
     }
   ]
 }
