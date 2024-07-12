@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720751790266,
+  "endTime": 1720752394317,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 901283,
+      "num": 901283,
+      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+      "onboard_time": 1720747878,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875289,
       "num": 574000,
       "word": "官方回应萝卜快跑被指低价扰乱市场",
       "onboard_time": 1720735631,
       "rank": 49,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 846863,
-      "num": 846863,
-      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
-      "onboard_time": 1720747878,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829495,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790015,
+      "num": 790015,
+      "word": "雷军问还有人在用iPhoneMini吗",
+      "onboard_time": 1720749318,
+      "rank": 1,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 733338,
       "num": 733338,
       "word": "蔡少芬除了剪秋一个宫女不认识",
       "onboard_time": 1720739896,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732691,
-      "num": 732691,
-      "word": "雷军问还有人在用iPhoneMini吗",
-      "onboard_time": 1720749318,
-      "rank": 1,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 592519,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 541297,
-      "num": 221542,
+      "num": 247110,
       "word": "三种月经异常或是身体在求救",
       "onboard_time": 1720745359,
       "rank": 21,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 484969,
-      "num": 220766,
+      "num": 251754,
       "word": "三亚酒店价格暴跌你会去玩吗",
       "onboard_time": 1720745179,
       "rank": 24,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403441,
+      "num": 341051,
+      "word": "央媒评自媒体捧杀式造谣韦神",
+      "onboard_time": 1720750878,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402925,
       "num": 402925,
       "word": "中国海警依法驱离日本船只",
@@ -179,8 +187,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 392219,
-      "num": 392219,
+      "raw_hot": 398850,
+      "num": 398850,
       "word": "苏炳添撤回一个宋雨琦",
       "onboard_time": 1720742837,
       "rank": 13,
@@ -227,12 +235,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 352812,
+      "num": 352812,
+      "word": "相柳给小夭最高级的爱",
+      "onboard_time": 1720750098,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350114,
       "num": 350114,
       "word": "只有师范生才懂她讲的有多好",
       "onboard_time": 1720705819,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 327000,
+      "num": 327000,
+      "word": "田曦薇被难哭了",
+      "onboard_time": 1720750278,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 319889,
@@ -259,14 +283,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 305929,
-      "num": 305929,
-      "word": "相柳给小夭最高级的爱",
-      "onboard_time": 1720750098,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305741,
       "num": 305741,
       "word": "Bin踢椅子",
@@ -291,12 +307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 282815,
-      "num": 282815,
-      "word": "田曦薇被难哭了",
-      "onboard_time": 1720750278,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 284224,
+      "num": 284224,
+      "word": "杨紫在腾讯四部一番剧都破三万了",
+      "onboard_time": 1720750757,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 271674,
@@ -323,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243801,
+      "num": 243801,
+      "word": "为什么吃桑葚皮肤会变好",
+      "onboard_time": 1720750098,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237747,
       "num": 237747,
       "word": "歌手袭榜候选人",
@@ -339,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234442,
-      "num": 234442,
-      "word": "央媒评自媒体捧杀式造谣韦神",
-      "onboard_time": 1720750878,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 232769,
+      "num": 232769,
+      "word": "张馨予为老公辟谣",
+      "onboard_time": 1720751958,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 220226,
@@ -353,22 +377,6 @@
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216748,
-      "num": 216748,
-      "word": "杨紫在腾讯四部一番剧都破三万了",
-      "onboard_time": 1720750757,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214502,
-      "num": 214502,
-      "word": "为什么吃桑葚皮肤会变好",
-      "onboard_time": 1720750098,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 213054,
@@ -385,6 +393,14 @@
       "onboard_time": 1720702819,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191453,
+      "num": 191453,
+      "word": "林允单扎丸子头",
+      "onboard_time": 1720751358,
+      "rank": 30,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 190631,
@@ -443,12 +459,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 161792,
-      "num": 161792,
-      "word": "林允单扎丸子头",
-      "onboard_time": 1720751358,
+      "raw_hot": 161584,
+      "num": 161584,
+      "word": "杜兰特质疑恩比德虚报身高",
+      "onboard_time": 1720752017,
       "rank": 30,
-      "category": "艺人,美妆"
+      "category": "体育"
     },
     {
       "raw_hot": 158595,
@@ -475,12 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148040,
-      "num": 148040,
+      "raw_hot": 150991,
+      "num": 150991,
       "word": "丫丫吃饱就睡美容觉",
       "onboard_time": 1720748597,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147569,
+      "num": 147569,
+      "word": "滞留太空超一个月美宇航员发声",
+      "onboard_time": 1720751837,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146306,
@@ -611,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111479,
+      "num": 111479,
+      "word": "周深起名天才",
+      "onboard_time": 1720751598,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "金珉奎美貌",
@@ -635,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104723,
+      "num": 104723,
+      "word": "忘带钥匙女子为回家翻十六层高楼",
+      "onboard_time": 1720751898,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "长期吃自榨油可能危害身体健康",
@@ -657,14 +697,6 @@
       "onboard_time": 1720707379,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102978,
-      "num": 102978,
-      "word": "周深起名天才",
-      "onboard_time": 1720751598,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 102860,
@@ -705,6 +737,14 @@
       "onboard_time": 1720740195,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97265,
+      "num": 221740,
+      "word": "2岁萌娃骑车撞到人后鞠躬式认错",
+      "onboard_time": 1720750157,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96147,
@@ -787,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81797,
+      "num": 81797,
+      "word": "周鸿祎谈萝卜快跑抢网约车司机饭碗",
+      "onboard_time": 1720752318,
+      "rank": 49,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 80545,
       "num": 83943,
       "word": "张颂文谈灿烂的花园收官",
@@ -801,6 +849,14 @@
       "onboard_time": 1720714996,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75170,
+      "num": 359900,
+      "word": "女子购买格力空调十年免费换新被拒",
+      "onboard_time": 1720751718,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72984,
@@ -881,14 +937,6 @@
       "onboard_time": 1720698260,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55372,
-      "num": 221740,
-      "word": "2岁萌娃骑车撞到人后鞠躬式认错",
-      "onboard_time": 1720750157,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52530,
@@ -1047,14 +1095,6 @@
       "num": 85650,
       "word": "男子随身携带AED十余年第一次用上",
       "onboard_time": 1720721773,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11314,
-      "num": 359900,
-      "word": "女子购买格力空调十年免费换新被拒",
-      "onboard_time": 1720751718,
       "rank": 9,
       "category": "社会新闻"
     },
