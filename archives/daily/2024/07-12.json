@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720759023782,
+  "endTime": 1720761537795,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1172832,
-      "num": 183117,
+      "num": 241328,
       "word": "黄一鸣用女儿接广告被举报",
       "onboard_time": 1720758678,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1720707141,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 943675,
+      "num": 1150988,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 930607,
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 734228,
+      "num": 734228,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733338,
       "num": 733338,
       "word": "蔡少芬除了剪秋一个宫女不认识",
@@ -145,6 +161,14 @@
       "onboard_time": 1720756458,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601327,
+      "num": 261773,
+      "word": "谁家男朋友从订婚就开始哭啊",
+      "onboard_time": 1720757059,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594787,
@@ -195,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528191,
-      "num": 338405,
-      "word": "张凌赫赵今麦史上最快二搭",
-      "onboard_time": 1720757659,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 495761,
       "num": 442069,
       "word": "朴灿烈 我的英雄学院",
@@ -235,6 +251,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 484494,
+      "num": 484494,
+      "word": "世界之外 抄袭",
+      "onboard_time": 1720759998,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 462157,
+      "num": 240506,
+      "word": "iPhone17顶配或告别1200万像素时代",
+      "onboard_time": 1720759159,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447917,
       "num": 243801,
       "word": "为什么吃桑葚皮肤会变好",
@@ -259,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426014,
+      "num": 426014,
+      "word": "原神火神首曝",
+      "onboard_time": 1720759278,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 421716,
       "num": 421716,
       "word": "巴黎奥运增设的4个项目是懂年轻人的",
@@ -267,12 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416488,
-      "num": 261773,
-      "word": "谁家男朋友从订婚就开始哭啊",
-      "onboard_time": 1720757059,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 416267,
+      "num": 416267,
+      "word": "拜登出现离谱口误",
+      "onboard_time": 1720760237,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 406640,
@@ -371,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328605,
+      "num": 328605,
+      "word": "王一博张钧甯豪门姐弟即视感",
+      "onboard_time": 1720758078,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327000,
       "num": 327000,
       "word": "田曦薇被难哭了",
@@ -427,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305073,
+      "num": 305073,
+      "word": "北京怀柔偶遇刘亦菲",
+      "onboard_time": 1720760418,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301199,
       "num": 301199,
       "word": "相柳黑衣银发",
@@ -443,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295308,
-      "num": 295308,
-      "word": "王一博张钧甯豪门姐弟即视感",
-      "onboard_time": 1720758078,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 292374,
+      "num": 239575,
+      "word": "18岁李嫣近照",
+      "onboard_time": 1720760300,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 288800,
@@ -491,6 +547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241533,
+      "num": 241533,
+      "word": "Bin踢ON椅子真相",
+      "onboard_time": 1720760899,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 239275,
+      "num": 239275,
+      "word": "入职后进入了不属于自己的阶层",
+      "onboard_time": 1720756997,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237747,
       "num": 237747,
       "word": "歌手袭榜候选人",
@@ -515,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224826,
-      "num": 180988,
-      "word": "入职后进入了不属于自己的阶层",
-      "onboard_time": 1720756997,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 227672,
+      "num": 227672,
+      "word": "啥剧啊主演都活不过三集",
+      "onboard_time": 1720760300,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 220226,
@@ -555,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204188,
+      "num": 204188,
+      "word": "xo编曲",
+      "onboard_time": 1720760899,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "萝卜快跑订单迎爆发增长",
@@ -577,6 +657,14 @@
       "onboard_time": 1720755078,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197340,
+      "num": 197340,
+      "word": "杰伦布朗官宣女友",
+      "onboard_time": 1720759697,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 191928,
@@ -635,6 +723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179166,
+      "num": 179166,
+      "word": "为什么说江浙沪是先天留学圣体",
+      "onboard_time": 1720760418,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
@@ -657,6 +753,22 @@
       "onboard_time": 1720753517,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171739,
+      "num": 171739,
+      "word": "5天4晚邮轮游花不到2000元",
+      "onboard_time": 1720758017,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171338,
+      "num": 171338,
+      "word": "邓为提灯剧照",
+      "onboard_time": 1720759339,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 170052,
@@ -696,6 +808,14 @@
       "word": "子宫肌瘤有可能是吃出来的",
       "onboard_time": 1720742117,
       "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161728,
+      "num": 161728,
+      "word": "乳腺癌患者呈现年轻化趋势",
+      "onboard_time": 1720760899,
+      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -739,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155728,
+      "num": 155728,
+      "word": "陈震谈无人驾驶出租车",
+      "onboard_time": 1720761198,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154712,
       "num": 154712,
       "word": "以军撤离后加沙一地发现60多具遗体",
@@ -753,6 +881,14 @@
       "onboard_time": 1720739595,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152202,
+      "num": 152202,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1720761017,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150991,
@@ -819,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137131,
-      "num": 347988,
-      "word": "萝卜快跑回应网约车罢工横停马路",
-      "onboard_time": 1720757360,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136347,
       "num": 136347,
       "word": "黄健翔希望冠军不是苟出来的",
@@ -859,6 +987,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 134383,
+      "num": 134383,
+      "word": "多少年轻人给苹果手表做牛马",
+      "onboard_time": 1720761496,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132993,
       "num": 132993,
       "word": "张凌赫空降",
@@ -872,6 +1008,22 @@
       "word": "好利来光与夜之恋联名",
       "onboard_time": 1720746199,
       "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 130458,
+      "num": 130458,
+      "word": "非自然死亡新作豪华阵容",
+      "onboard_time": 1720761496,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127406,
+      "num": 127406,
+      "word": "超增肥的8道家常菜",
+      "onboard_time": 1720759938,
+      "rank": 48,
       "category": "美食"
     },
     {
@@ -993,6 +1145,14 @@
       "onboard_time": 1720708101,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106160,
+      "num": 426231,
+      "word": "3桶羽毛球价格直逼1克黄金",
+      "onboard_time": 1720760357,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105862,
