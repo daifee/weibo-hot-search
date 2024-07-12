@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720819212780,
+  "endTime": 1720820112619,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19786,
+      "num": 19786,
+      "word": "暴雨来袭直击重庆防汛抗洪现场",
+      "onboard_time": 1720818431,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15877,
       "num": 197680,
       "word": "旅客突发疾病他掏出AED救人",
@@ -523,20 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12927,
+      "raw_hot": 13115,
       "num": 17964,
       "word": "落凡尘暑期档黑马",
       "onboard_time": 1720817710,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12079,
-      "num": 17946,
-      "word": "暴雨来袭直击重庆防汛抗洪现场",
-      "onboard_time": 1720818431,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11377,

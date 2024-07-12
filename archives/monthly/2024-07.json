@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720819212780,
+  "endTime": 1720820112619,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -34939,6 +34939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19786,
+      "num": 19786,
+      "word": "暴雨来袭直击重庆防汛抗洪现场",
+      "onboard_time": 1720818431,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19713,
       "num": 280948,
       "word": "租客和房东的双向奔赴",
@@ -35347,20 +35355,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13115,
+      "num": 17964,
+      "word": "落凡尘暑期档黑马",
+      "onboard_time": 1720817710,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13038,
       "num": 100452,
       "word": "男孩骑车摔倒后找砖头把坑填平了",
       "onboard_time": 1719851956,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12927,
-      "num": 17964,
-      "word": "落凡尘暑期档黑马",
-      "onboard_time": 1720817710,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 12800,
@@ -35400,14 +35408,6 @@
       "word": "高质量发展调研行",
       "onboard_time": 1719930620,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12079,
-      "num": 17946,
-      "word": "暴雨来袭直击重庆防汛抗洪现场",
-      "onboard_time": 1720818431,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
