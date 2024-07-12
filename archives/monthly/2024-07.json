@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720748602351,
+  "endTime": 1720751790266,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2547,6 +2547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 846863,
+      "num": 846863,
+      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+      "onboard_time": 1720747878,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846647,
       "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1720739896,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732691,
+      "num": 732691,
+      "word": "雷军问还有人在用iPhoneMini吗",
+      "onboard_time": 1720749318,
+      "rank": 1,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 728123,
@@ -4737,6 +4753,14 @@
       "onboard_time": 1720425918,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582809,
+      "num": 582809,
+      "word": "妈妈喜欢的荷花头像上新了",
+      "onboard_time": 1720744579,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582419,
@@ -6163,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491993,
+      "num": 491993,
+      "word": "刘冲出任VOGUE主编",
+      "onboard_time": 1720749078,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 491983,
       "num": 491983,
       "word": "邓为狐狸胸针",
@@ -6364,7 +6396,7 @@
     },
     {
       "raw_hot": 484969,
-      "num": 194367,
+      "num": 220766,
       "word": "三亚酒店价格暴跌你会去玩吗",
       "onboard_time": 1720745179,
       "rank": 24,
@@ -8187,6 +8219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402925,
+      "num": 402925,
+      "word": "中国海警依法驱离日本船只",
+      "onboard_time": 1720743977,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 402350,
       "num": 402350,
       "word": "金牛座为什么难以亲近",
@@ -8465,6 +8505,14 @@
       "onboard_time": 1720621338,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392219,
+      "num": 392219,
+      "word": "苏炳添撤回一个宋雨琦",
+      "onboard_time": 1720742837,
+      "rank": 13,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 391987,
@@ -9211,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359262,
+      "num": 359262,
+      "word": "肖战北京出发进组",
+      "onboard_time": 1720748838,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359222,
       "num": 193230,
       "word": "我的发颠朋友圈被我爸做成Excel了",
@@ -9289,14 +9345,6 @@
       "onboard_time": 1719900441,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356889,
-      "num": 356889,
-      "word": "苏炳添撤回一个宋雨琦",
-      "onboard_time": 1720742837,
-      "rank": 13,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 356521,
@@ -9521,14 +9569,6 @@
       "onboard_time": 1720404378,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350112,
-      "num": 350112,
-      "word": "妈妈喜欢的荷花头像上新了",
-      "onboard_time": 1720744579,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349904,
@@ -10779,12 +10819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305929,
+      "num": 305929,
+      "word": "相柳给小夭最高级的爱",
+      "onboard_time": 1720750098,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305483,
       "num": 305483,
       "word": "印尼羽协公布张志杰抢救细节",
       "onboard_time": 1719919638,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305363,
+      "num": 305363,
+      "word": "导演说白敬亭聪明幽默经验丰富",
+      "onboard_time": 1720747698,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 304916,
@@ -11449,6 +11505,14 @@
       "onboard_time": 1720676478,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282815,
+      "num": 282815,
+      "word": "田曦薇被难哭了",
+      "onboard_time": 1720750278,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 282671,
@@ -13027,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234442,
+      "num": 234442,
+      "word": "央媒评自媒体捧杀式造谣韦神",
+      "onboard_time": 1720750878,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234357,
       "num": 234357,
       "word": "林丹曾呼吁给运动员更多休息时间",
@@ -13907,6 +13979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216748,
+      "num": 216748,
+      "word": "杨紫在腾讯四部一番剧都破三万了",
+      "onboard_time": 1720750757,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216731,
       "num": 214394,
       "word": "这居然是2024年的李东海",
@@ -14081,6 +14161,14 @@
       "onboard_time": 1720317918,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214502,
+      "num": 214502,
+      "word": "为什么吃桑葚皮肤会变好",
+      "onboard_time": 1720750098,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214493,
@@ -17331,14 +17419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183329,
-      "num": 183329,
-      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
-      "onboard_time": 1720747878,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183281,
       "num": 183281,
       "word": "五月天深圳演唱会",
@@ -19211,6 +19291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 165003,
+      "num": 351415,
+      "word": "被高铁上的儿童餐食硬控",
+      "onboard_time": 1720748298,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164912,
       "num": 164912,
       "word": "歌手",
@@ -19561,6 +19649,14 @@
       "onboard_time": 1720267097,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161792,
+      "num": 161792,
+      "word": "林允单扎丸子头",
+      "onboard_time": 1720751358,
+      "rank": 30,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 161769,
@@ -21137,6 +21233,14 @@
       "onboard_time": 1720508359,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148040,
+      "num": 148040,
+      "word": "丫丫吃饱就睡美容觉",
+      "onboard_time": 1720748597,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148024,
@@ -23457,14 +23561,6 @@
       "onboard_time": 1719844699,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131703,
-      "num": 131703,
-      "word": "导演说白敬亭聪明幽默经验丰富",
-      "onboard_time": 1720747698,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 131672,
@@ -26171,6 +26267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111663,
+      "num": 111663,
+      "word": "西卡和kid复刻Bin踢椅子",
+      "onboard_time": 1720748298,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111624,
       "num": 111624,
       "word": "医生称张志杰症状符合心源性猝死",
@@ -26987,14 +27091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105080,
-      "num": 105080,
-      "word": "西卡和kid复刻Bin踢椅子",
-      "onboard_time": 1720748298,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104879,
       "num": 308073,
       "word": "义乌的老板娘有多卷",
@@ -27217,6 +27313,14 @@
       "onboard_time": 1720537820,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102978,
+      "num": 102978,
+      "word": "周深起名天才",
+      "onboard_time": 1720751598,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 102801,
@@ -28323,6 +28427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "咸蛋黄日出加入成都美景严选",
+      "onboard_time": 1720751237,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 87614,
       "num": 300607,
       "word": "满手油污的交警被司机夸成社恐",
@@ -29041,14 +29153,6 @@
       "onboard_time": 1720720153,
       "rank": 32,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 69079,
-      "num": 351415,
-      "word": "被高铁上的儿童餐食硬控",
-      "onboard_time": 1720748298,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69011,
@@ -29993,6 +30097,14 @@
       "onboard_time": 1720545615,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55372,
+      "num": 221740,
+      "word": "2岁萌娃骑车撞到人后鞠躬式认错",
+      "onboard_time": 1720750157,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55038,
@@ -32808,6 +32920,14 @@
       "word": "开辟周边命运共同体建设新前景",
       "onboard_time": 1720324337,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11314,
+      "num": 359900,
+      "word": "女子购买格力空调十年免费换新被拒",
+      "onboard_time": 1720751718,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

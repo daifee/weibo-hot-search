@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720748602351,
+  "endTime": 1720751790266,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -35,6 +35,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 846863,
+      "num": 846863,
+      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+      "onboard_time": 1720747878,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829495,
       "num": 209930,
       "word": "女子私密处手术后死亡1人获刑",
@@ -51,12 +59,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732691,
+      "num": 732691,
+      "word": "雷军问还有人在用iPhoneMini吗",
+      "onboard_time": 1720749318,
+      "rank": 1,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 592519,
       "num": 500779,
       "word": "很多癌症都是因为四大不规律",
       "onboard_time": 1720709960,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 582809,
+      "num": 582809,
+      "word": "妈妈喜欢的荷花头像上新了",
+      "onboard_time": 1720744579,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573996,
@@ -91,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491993,
+      "num": 491993,
+      "word": "刘冲出任VOGUE主编",
+      "onboard_time": 1720749078,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 488651,
       "num": 233573,
       "word": "医院床单竟然是护士换的",
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 484969,
-      "num": 194367,
+      "num": 220766,
       "word": "三亚酒店价格暴跌你会去玩吗",
       "onboard_time": 1720745179,
       "rank": 24,
@@ -131,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402925,
+      "num": 402925,
+      "word": "中国海警依法驱离日本船只",
+      "onboard_time": 1720743977,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 401059,
       "num": 401059,
       "word": "她的骨灰装进了周恩来用过的骨灰盒",
       "onboard_time": 1720704439,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 392219,
+      "num": 392219,
+      "word": "苏炳添撤回一个宋雨琦",
+      "onboard_time": 1720742837,
+      "rank": 13,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 373723,
@@ -163,12 +211,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356889,
-      "num": 356889,
-      "word": "苏炳添撤回一个宋雨琦",
-      "onboard_time": 1720742837,
-      "rank": 13,
-      "category": "综艺,体育"
+      "raw_hot": 359262,
+      "num": 359262,
+      "word": "肖战北京出发进组",
+      "onboard_time": 1720748838,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 353215,
@@ -185,14 +233,6 @@
       "onboard_time": 1720705819,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350112,
-      "num": 350112,
-      "word": "妈妈喜欢的荷花头像上新了",
-      "onboard_time": 1720744579,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319889,
@@ -219,6 +259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 305929,
+      "num": 305929,
+      "word": "相柳给小夭最高级的爱",
+      "onboard_time": 1720750098,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305741,
       "num": 305741,
       "word": "Bin踢椅子",
@@ -227,12 +275,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305363,
+      "num": 305363,
+      "word": "导演说白敬亭聪明幽默经验丰富",
+      "onboard_time": 1720747698,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295855,
       "num": 295855,
       "word": "他们卖不出西瓜我们买不起西瓜",
       "onboard_time": 1720701258,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282815,
+      "num": 282815,
+      "word": "田曦薇被难哭了",
+      "onboard_time": 1720750278,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 271674,
@@ -275,12 +339,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234442,
+      "num": 234442,
+      "word": "央媒评自媒体捧杀式造谣韦神",
+      "onboard_time": 1720750878,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220226,
       "num": 220226,
       "word": "民政局回应13岁尿毒症晚期男孩捡废品",
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216748,
+      "num": 216748,
+      "word": "杨紫在腾讯四部一番剧都破三万了",
+      "onboard_time": 1720750757,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214502,
+      "num": 214502,
+      "word": "为什么吃桑葚皮肤会变好",
+      "onboard_time": 1720750098,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213054,
@@ -315,14 +403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 183329,
-      "num": 183329,
-      "word": "间谍用校园贷逼迫大学生窃取国家秘密",
-      "onboard_time": 1720747878,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
@@ -347,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165003,
+      "num": 351415,
+      "word": "被高铁上的儿童餐食硬控",
+      "onboard_time": 1720748298,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "子宫肌瘤有可能是吃出来的",
       "onboard_time": 1720742117,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161792,
+      "num": 161792,
+      "word": "林允单扎丸子头",
+      "onboard_time": 1720751358,
+      "rank": 30,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 158595,
@@ -377,6 +473,14 @@
       "onboard_time": 1720739595,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148040,
+      "num": 148040,
+      "word": "丫丫吃饱就睡美容觉",
+      "onboard_time": 1720748597,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146306,
@@ -417,14 +521,6 @@
       "onboard_time": 1720701978,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131703,
-      "num": 131703,
-      "word": "导演说白敬亭聪明幽默经验丰富",
-      "onboard_time": 1720747698,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 130976,
@@ -507,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111663,
+      "num": 111663,
+      "word": "西卡和kid复刻Bin踢椅子",
+      "onboard_time": 1720748298,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "金珉奎美貌",
@@ -531,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105080,
-      "num": 105080,
-      "word": "西卡和kid复刻Bin踢椅子",
-      "onboard_time": 1720748298,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "长期吃自榨油可能危害身体健康",
@@ -561,6 +657,14 @@
       "onboard_time": 1720707379,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102978,
+      "num": 102978,
+      "word": "周深起名天才",
+      "onboard_time": 1720751598,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 102860,
@@ -659,6 +763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "咸蛋黄日出加入成都美景严选",
+      "onboard_time": 1720751237,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 84096,
       "num": 84096,
       "word": "aespa团综预告图里的宁艺卓",
@@ -739,14 +851,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 69079,
-      "num": 351415,
-      "word": "被高铁上的儿童餐食硬控",
-      "onboard_time": 1720748298,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67797,
       "num": 67349,
       "word": "相柳酒搭子已上线",
@@ -777,6 +881,14 @@
       "onboard_time": 1720698260,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55372,
+      "num": 221740,
+      "word": "2岁萌娃骑车撞到人后鞠躬式认错",
+      "onboard_time": 1720750157,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52530,
@@ -935,6 +1047,14 @@
       "num": 85650,
       "word": "男子随身携带AED十余年第一次用上",
       "onboard_time": 1720721773,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11314,
+      "num": 359900,
+      "word": "女子购买格力空调十年免费换新被拒",
+      "onboard_time": 1720751718,
       "rank": 9,
       "category": "社会新闻"
     },
