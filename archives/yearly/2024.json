@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720793893731,
+  "endTime": 1720795020615,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5873151,
+      "num": 5873151,
+      "word": "那英第一",
+      "onboard_time": 1720792880,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5860108,
       "num": 5860108,
       "word": "中泰永久互相免签",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1709288612,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4450743,
-      "num": 4450743,
-      "word": "那英第一",
-      "onboard_time": 1720792880,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 4410973,
