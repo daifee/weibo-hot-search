@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720788731830,
+  "endTime": 1720790546794,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -9,6 +9,22 @@
       "onboard_time": 1720764319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2311604,
+      "num": 2311604,
+      "word": "Lenka 偷感好重",
+      "onboard_time": 1720788858,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2185008,
+      "num": 2185008,
+      "word": "汪苏泷 好听",
+      "onboard_time": 1720789038,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2028549,
@@ -129,6 +145,14 @@
       "onboard_time": 1720757659,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1010897,
+      "num": 293852,
+      "word": "黄宣秒了",
+      "onboard_time": 1720790059,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 967334,
@@ -259,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 766787,
+      "num": 766787,
+      "word": "四川大学公示拟撤销31个专业",
+      "onboard_time": 1720786818,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 763992,
       "num": 296378,
       "word": "歌手2024",
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609640,
+      "num": 269651,
+      "word": "凡希亚中文好牛",
+      "onboard_time": 1720788138,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601327,
       "num": 261773,
       "word": "谁家男朋友从订婚就开始哭啊",
@@ -427,6 +467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 545849,
+      "num": 545849,
+      "word": "外交部回应日方要求逮捕2名中国人",
+      "onboard_time": 1720786757,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 541297,
       "num": 247110,
       "word": "三种月经异常或是身体在求救",
@@ -449,6 +497,14 @@
       "onboard_time": 1720714338,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534397,
+      "num": 220737,
+      "word": "Lenka袭榜汪苏泷",
+      "onboard_time": 1720788978,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 509379,
@@ -499,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 485103,
-      "num": 293356,
-      "word": "四川大学公示拟撤销31个专业",
-      "onboard_time": 1720786818,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 484969,
       "num": 251754,
       "word": "三亚酒店价格暴跌你会去玩吗",
@@ -515,12 +563,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 480440,
-      "num": 480440,
-      "word": "外交部回应日方要求逮捕2名中国人",
-      "onboard_time": 1720786757,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 477236,
+      "num": 218929,
+      "word": "孙楠 giegie",
+      "onboard_time": 1720790300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 470544,
@@ -593,6 +641,14 @@
       "onboard_time": 1720771577,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 429035,
+      "num": 218000,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 427363,
@@ -689,14 +745,6 @@
       "onboard_time": 1720760899,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 380170,
-      "num": 196065,
-      "word": "凡希亚中文好牛",
-      "onboard_time": 1720788138,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 373723,
@@ -824,6 +872,14 @@
       "word": "田曦薇被难哭了",
       "onboard_time": 1720750278,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322988,
+      "num": 217343,
+      "word": "Lenka我的青春回来了",
+      "onboard_time": 1720788858,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -955,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277008,
-      "num": 150604,
-      "word": "谁家夫妻做成这模样啊",
-      "onboard_time": 1720787778,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276566,
       "num": 199562,
       "word": "头号玩家",
@@ -977,6 +1025,14 @@
       "onboard_time": 1720771818,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "男孩高考656分志愿全填临床医学",
+      "onboard_time": 1720784238,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273237,
@@ -1075,14 +1131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245617,
-      "num": 245617,
-      "word": "男孩高考656分志愿全填临床医学",
-      "onboard_time": 1720784238,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 241230,
       "num": 225718,
       "word": "何洁听到要采500公斤茶的反应",
@@ -1112,6 +1160,14 @@
       "word": "租客让朋友来深圳住几天被罚500元",
       "onboard_time": 1720712238,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234903,
+      "num": 234903,
+      "word": "大理一小学附近发现眼镜王蛇",
+      "onboard_time": 1720788499,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225995,
+      "num": 215657,
+      "word": "香缇莫是不是累了",
+      "onboard_time": 1720790180,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "拜登迟到意总理翻白眼",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219258,
+      "num": 219258,
+      "word": "爱让我们无所不能",
+      "onboard_time": 1720789459,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 213802,
@@ -1217,6 +1289,14 @@
       "onboard_time": 1720783518,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207085,
+      "num": 323500,
+      "word": "一生爱看热闹的魏大勋",
+      "onboard_time": 1720789639,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 204529,
@@ -1292,7 +1372,7 @@
     },
     {
       "raw_hot": 196343,
-      "num": 196343,
+      "num": 216561,
       "word": "首届电竞奥运会明年在沙特举办",
       "onboard_time": 1720787960,
       "rank": 24,
@@ -1395,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185136,
+      "num": 221409,
+      "word": "KSG对战eStar",
+      "onboard_time": 1720789459,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184417,
       "num": 137149,
       "word": "刘诗诗穿了未发布款高定",
@@ -1457,6 +1545,14 @@
       "onboard_time": 1720713617,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177005,
+      "num": 216931,
+      "word": "张真源被水浇到原地起飞",
+      "onboard_time": 1720789220,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176801,
@@ -2155,6 +2251,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 114385,
+      "num": 216464,
+      "word": "京沪对决",
+      "onboard_time": 1720787299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113460,
       "num": 1126203,
       "word": "中国科学家发现银河系比想象中更大",
@@ -2235,14 +2339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106941,
-      "num": 148439,
-      "word": "大理一小学附近发现眼镜王蛇",
-      "onboard_time": 1720788499,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106276,
       "num": 106276,
       "word": "BLG",
@@ -2267,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104953,
+      "num": 215343,
+      "word": "门店回应华为麒麟芯片话术线下解禁",
+      "onboard_time": 1720788619,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "长期吃自榨油可能危害身体健康",
@@ -2284,7 +2388,7 @@
     },
     {
       "raw_hot": 103334,
-      "num": 126393,
+      "num": 215176,
       "word": "北约讨论接管控制中国在欧基建项目",
       "onboard_time": 1720786397,
       "rank": 38,
@@ -2435,14 +2539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87811,
-      "num": 125587,
-      "word": "门店回应华为麒麟芯片话术线下解禁",
-      "onboard_time": 1720788619,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 87718,
       "num": 87718,
       "word": "集齐雪山花海星空云瀑的新疆",
@@ -2457,14 +2553,6 @@
       "onboard_time": 1720751237,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 86955,
-      "num": 119246,
-      "word": "京沪对决",
-      "onboard_time": 1720787299,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 85987,
@@ -2497,6 +2585,14 @@
       "onboard_time": 1720695319,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83457,
+      "num": 215168,
+      "word": "AI发展 前进的代价",
+      "onboard_time": 1720789879,
+      "rank": 49,
+      "category": "科学科普,互联网"
     },
     {
       "raw_hot": 80545,
@@ -2587,6 +2683,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 70171,
+      "num": 1617317,
+      "word": "洪水中这些身影是安全感的来源",
+      "onboard_time": 1720788019,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69782,
       "num": 75435,
       "word": "同学家里被烧一群吃瓜群众帮忙渡难关",
@@ -2656,6 +2760,14 @@
       "word": "我国成功搭建6G外场试验网",
       "onboard_time": 1720755679,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57468,
+      "num": 309654,
+      "word": "毕业典礼男孩看不到女同学一把抱起",
+      "onboard_time": 1720789639,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2793,14 +2905,6 @@
       "onboard_time": 1720699279,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 38876,
-      "num": 1343891,
-      "word": "洪水中这些身影是安全感的来源",
-      "onboard_time": 1720788019,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36977,

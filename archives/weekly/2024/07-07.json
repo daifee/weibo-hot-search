@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720788731830,
+  "endTime": 1720790546794,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -57,6 +57,22 @@
       "onboard_time": 1720667957,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2311604,
+      "num": 2311604,
+      "word": "Lenka 偷感好重",
+      "onboard_time": 1720788858,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2185008,
+      "num": 2185008,
+      "word": "汪苏泷 好听",
+      "onboard_time": 1720789038,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2167195,
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1010897,
+      "num": 293852,
+      "word": "黄宣秒了",
+      "onboard_time": 1720790059,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006154,
       "num": 716807,
       "word": "爱情公寓又出番外篇了",
@@ -1627,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766787,
+      "num": 766787,
+      "word": "四川大学公示拟撤销31个专业",
+      "onboard_time": 1720786818,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 765396,
       "num": 539004,
       "word": "小夭的难堪众人的狂欢",
@@ -2307,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609640,
+      "num": 269651,
+      "word": "凡希亚中文好牛",
+      "onboard_time": 1720788138,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608386,
       "num": 608386,
       "word": "陆虎在北京机场又捡到活了",
@@ -2723,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545849,
+      "num": 545849,
+      "word": "外交部回应日方要求逮捕2名中国人",
+      "onboard_time": 1720786757,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 545255,
       "num": 238027,
       "word": "郑恺发文告别奔跑吧",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1720673840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534397,
+      "num": 220737,
+      "word": "Lenka袭榜汪苏泷",
+      "onboard_time": 1720788978,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 534005,
@@ -3195,14 +3251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485103,
-      "num": 293356,
-      "word": "四川大学公示拟撤销31个专业",
-      "onboard_time": 1720786818,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 484969,
       "num": 251754,
       "word": "三亚酒店价格暴跌你会去玩吗",
@@ -3251,14 +3299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480440,
-      "num": 480440,
-      "word": "外交部回应日方要求逮捕2名中国人",
-      "onboard_time": 1720786757,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 480305,
       "num": 236128,
       "word": "瘦了之后最大的感受是什么",
@@ -3289,6 +3329,14 @@
       "onboard_time": 1720526958,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477236,
+      "num": 218929,
+      "word": "孙楠 giegie",
+      "onboard_time": 1720790300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 476044,
@@ -3955,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429035,
+      "num": 218000,
+      "word": "谁家夫妻做成这模样啊",
+      "onboard_time": 1720787778,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427363,
       "num": 427363,
       "word": "小米获独立造车资质",
@@ -4489,14 +4545,6 @@
       "onboard_time": 1720675459,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380170,
-      "num": 196065,
-      "word": "凡希亚中文好牛",
-      "onboard_time": 1720788138,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 379267,
@@ -5347,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322988,
+      "num": 217343,
+      "word": "Lenka我的青春回来了",
+      "onboard_time": 1720788858,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322320,
       "num": 275034,
       "word": "因为太热同事离职去冰岛了",
@@ -6051,14 +6107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 277008,
-      "num": 150604,
-      "word": "谁家夫妻做成这模样啊",
-      "onboard_time": 1720787778,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276566,
       "num": 199562,
       "word": "头号玩家",
@@ -6113,6 +6161,14 @@
       "onboard_time": 1720522159,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "男孩高考656分志愿全填临床医学",
+      "onboard_time": 1720784238,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273237,
@@ -6563,14 +6619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245617,
-      "num": 245617,
-      "word": "男孩高考656分志愿全填临床医学",
-      "onboard_time": 1720784238,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 244481,
       "num": 244481,
       "word": "韩国为大熊猫双胞胎姐妹过生日",
@@ -6843,6 +6891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234903,
+      "num": 234903,
+      "word": "大理一小学附近发现眼镜王蛇",
+      "onboard_time": 1720788499,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234654,
       "num": 234654,
       "word": "赵露思 路透",
@@ -7075,6 +7131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225995,
+      "num": 215657,
+      "word": "香缇莫是不是累了",
+      "onboard_time": 1720790180,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225876,
       "num": 219331,
       "word": "王鹤棣寸头",
@@ -7209,6 +7273,14 @@
       "onboard_time": 1720408339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219258,
+      "num": 219258,
+      "word": "爱让我们无所不能",
+      "onboard_time": 1720789459,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 218635,
@@ -7673,6 +7745,14 @@
       "onboard_time": 1720437016,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207085,
+      "num": 323500,
+      "word": "一生爱看热闹的魏大勋",
+      "onboard_time": 1720789639,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 206881,
@@ -8284,7 +8364,7 @@
     },
     {
       "raw_hot": 196343,
-      "num": 196343,
+      "num": 216561,
       "word": "首届电竞奥运会明年在沙特举办",
       "onboard_time": 1720787960,
       "rank": 24,
@@ -8963,6 +9043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185136,
+      "num": 221409,
+      "word": "KSG对战eStar",
+      "onboard_time": 1720789459,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184722,
       "num": 184722,
       "word": "张拿铁带着爸爸干吃播",
@@ -9433,6 +9521,14 @@
       "onboard_time": 1720423758,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177005,
+      "num": 216931,
+      "word": "张真源被水浇到原地起飞",
+      "onboard_time": 1720789220,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176909,
@@ -13539,6 +13635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114385,
+      "num": 216464,
+      "word": "京沪对决",
+      "onboard_time": 1720787299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114346,
       "num": 143665,
       "word": "看完这组名片你说中国City不City啊",
@@ -14083,14 +14187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106941,
-      "num": 148439,
-      "word": "大理一小学附近发现眼镜王蛇",
-      "onboard_time": 1720788499,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106875,
       "num": 106875,
       "word": "西蒙斯世界波",
@@ -14227,6 +14323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104953,
+      "num": 215343,
+      "word": "门店回应华为麒麟芯片话术线下解禁",
+      "onboard_time": 1720788619,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104879,
       "num": 308073,
       "word": "义乌的老板娘有多卷",
@@ -14340,7 +14444,7 @@
     },
     {
       "raw_hot": 103334,
-      "num": 126393,
+      "num": 215176,
       "word": "北约讨论接管控制中国在欧基建项目",
       "onboard_time": 1720786397,
       "rank": 38,
@@ -14883,14 +14987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87811,
-      "num": 125587,
-      "word": "门店回应华为麒麟芯片话术线下解禁",
-      "onboard_time": 1720788619,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 87718,
       "num": 87718,
       "word": "集齐雪山花海星空云瀑的新疆",
@@ -14929,14 +15025,6 @@
       "onboard_time": 1720361059,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 86955,
-      "num": 119246,
-      "word": "京沪对决",
-      "onboard_time": 1720787299,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 86347,
@@ -15025,6 +15113,14 @@
       "onboard_time": 1720674021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83457,
+      "num": 215168,
+      "word": "AI发展 前进的代价",
+      "onboard_time": 1720789879,
+      "rank": 49,
+      "category": "科学科普,互联网"
     },
     {
       "raw_hot": 83448,
@@ -15329,6 +15425,14 @@
       "onboard_time": 1720726931,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 70171,
+      "num": 1617317,
+      "word": "洪水中这些身影是安全感的来源",
+      "onboard_time": 1720788019,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69954,
@@ -15721,6 +15825,14 @@
       "onboard_time": 1720641370,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57468,
+      "num": 309654,
+      "word": "毕业典礼男孩看不到女同学一把抱起",
+      "onboard_time": 1720789639,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57392,
@@ -16456,14 +16568,6 @@
       "word": "8岁学生成孤儿被班主任抱回家",
       "onboard_time": 1720693998,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38876,
-      "num": 1343891,
-      "word": "洪水中这些身影是安全感的来源",
-      "onboard_time": 1720788019,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
