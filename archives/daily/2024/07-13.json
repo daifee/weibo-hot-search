@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720809631933,
+  "endTime": 1720811763132,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -403,7 +403,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 61666,
+      "raw_hot": 63577,
       "num": 38801,
       "word": "巴西球赛发生冲突警察枪击守门员大腿",
       "onboard_time": 1720805954,
@@ -473,6 +473,14 @@
       "onboard_time": 1720792762,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29884,
+      "num": 29884,
+      "word": "为什么小腿肌会被称为人的第二心脏",
+      "onboard_time": 1720809792,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22354,
