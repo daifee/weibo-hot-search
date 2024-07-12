@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720776864016,
+  "endTime": 1720779654561,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -17,6 +17,14 @@
       "onboard_time": 1720743977,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1841224,
+      "num": 1841224,
+      "word": "迪丽热巴 金九",
+      "onboard_time": 1720777518,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1345196,
@@ -67,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1188717,
+      "num": 1085597,
+      "word": "680元和380元的演唱会门票仅差一排",
+      "onboard_time": 1720774218,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1187056,
       "num": 1113467,
       "word": "雷军发博称美丽小废物",
@@ -81,14 +97,6 @@
       "onboard_time": 1720758678,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1104764,
-      "num": 1085597,
-      "word": "680元和380元的演唱会门票仅差一排",
-      "onboard_time": 1720774218,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1096464,
@@ -123,6 +131,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 911988,
+      "num": 262355,
+      "word": "韩国财阀千金涉毒藏匿泰国",
+      "onboard_time": 1720776378,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 901283,
       "num": 901283,
       "word": "间谍用校园贷逼迫大学生窃取国家秘密",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 886517,
-      "num": 210711,
+      "num": 226129,
       "word": "睡6小时和睡8小时区别有多大",
       "onboard_time": 1720768217,
       "rank": 28,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 415468,
-      "num": 191942,
+      "num": 225557,
       "word": "百度副总裁称萝卜快跑不是为了抢生意",
       "onboard_time": 1720771218,
       "rank": 41,
@@ -523,6 +539,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 372199,
+      "num": 259575,
+      "word": "迪丽热巴活动",
+      "onboard_time": 1720777457,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366917,
+      "num": 287340,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 362961,
       "num": 316122,
       "word": "杨紫今年三部破万剧",
@@ -537,14 +569,6 @@
       "onboard_time": 1720700239,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362752,
-      "num": 287340,
-      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
-      "onboard_time": 1720766239,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 359262,
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 311965,
-      "num": 173422,
+      "num": 244851,
       "word": "长相思2各有各的坟想哭",
       "onboard_time": 1720775238,
       "rank": 24,
@@ -695,6 +719,14 @@
       "num": 426231,
       "word": "3桶羽毛球价格直逼1克黄金",
       "onboard_time": 1720760357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297310,
+      "num": 249404,
+      "word": "服务员骨折后被催换岗上班",
+      "onboard_time": 1720774819,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -779,12 +811,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247257,
+      "num": 225373,
+      "word": "长相思",
+      "onboard_time": 1720779198,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246903,
       "num": 246903,
       "word": "贵女杀青",
       "onboard_time": 1720752559,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244539,
+      "num": 244539,
+      "word": "萝卜快跑安全员多为网约车老司机",
+      "onboard_time": 1720774939,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 241230,
+      "num": 225493,
+      "word": "何洁听到要采500公斤茶的反应",
+      "onboard_time": 1720765999,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 239275,
@@ -827,12 +883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225493,
-      "num": 225493,
-      "word": "何洁听到要采500公斤茶的反应",
-      "onboard_time": 1720765999,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 227549,
+      "num": 227549,
+      "word": "张钧甯治好了我的年龄焦虑",
+      "onboard_time": 1720778179,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224690,
+      "num": 224690,
+      "word": "肖战下部戏是藏海传",
+      "onboard_time": 1720778359,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 221890,
@@ -875,12 +939,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212574,
+      "num": 212574,
+      "word": "房东的猫裙子悬空",
+      "onboard_time": 1720779560,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209430,
       "num": 209430,
       "word": "没想到葫芦岛的特产是泳衣",
       "onboard_time": 1720769598,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 208759,
+      "num": 208759,
+      "word": "赵一博 一个普通的晚上",
+      "onboard_time": 1720778898,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207174,
+      "num": 227245,
+      "word": "为什么新疆的店名有点奇怪",
+      "onboard_time": 1720776559,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 204529,
@@ -948,7 +1036,7 @@
     },
     {
       "raw_hot": 195598,
-      "num": 145500,
+      "num": 170478,
       "word": "张凌赫赵今麦 恋综观察reaction",
       "onboard_time": 1720775960,
       "rank": 43,
@@ -1059,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180555,
+      "num": 180555,
+      "word": "白鹿拍的范丞丞张真源",
+      "onboard_time": 1720777457,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177910,
       "num": 134016,
       "word": "代露娃长相思见面会好漂亮",
@@ -1107,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172985,
-      "num": 145377,
-      "word": "韩国财阀千金涉毒藏匿泰国",
-      "onboard_time": 1720776378,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 172189,
+      "num": 172189,
+      "word": "徐明浩 我真的不是在幽默",
+      "onboard_time": 1720779077,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 171348,
@@ -1211,6 +1307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 159841,
+      "num": 159841,
+      "word": "迪丽热巴说每次工作中做到最好",
+      "onboard_time": 1720779498,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158595,
       "num": 158595,
       "word": "杰伦布朗破防了",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1720761198,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155544,
+      "num": 155544,
+      "word": "裁员算法的回旋镖正中程序员眉心",
+      "onboard_time": 1720778417,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 154712,
@@ -1347,6 +1459,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 144378,
+      "num": 144378,
+      "word": "男子常年不吃早餐胆囊取出247颗结石",
+      "onboard_time": 1720778598,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "李彩演站姐过度修图被吐槽",
@@ -1401,6 +1521,14 @@
       "onboard_time": 1720704979,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136358,
+      "num": 136358,
+      "word": "T1官宣Easyhoon离队",
+      "onboard_time": 1720777638,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 136347,
@@ -1531,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123162,
-      "num": 123162,
-      "word": "萝卜快跑安全员多为网约车老司机",
-      "onboard_time": 1720774939,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "谢莉杜瓦尔去世",
@@ -1643,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115486,
+      "num": 115486,
+      "word": "PEL选手爆改男高",
+      "onboard_time": 1720778179,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114975,
       "num": 114975,
       "word": "世界之外 AI",
@@ -1651,20 +1779,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114907,
-      "num": 110259,
-      "word": "为什么新疆的店名有点奇怪",
-      "onboard_time": 1720776559,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 114540,
       "num": 114540,
       "word": "729声工场",
       "onboard_time": 1720745418,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 113460,
+      "num": 1126203,
+      "word": "中国科学家发现银河系比想象中更大",
+      "onboard_time": 1720775898,
+      "rank": 2,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112481,
@@ -1713,14 +1841,6 @@
       "onboard_time": 1720771098,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110548,
-      "num": 1126203,
-      "word": "中国科学家发现银河系比想象中更大",
-      "onboard_time": 1720775898,
-      "rank": 2,
-      "category": "科学科普"
     },
     {
       "raw_hot": 107979,
@@ -1939,14 +2059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83576,
-      "num": 217014,
-      "word": "服务员骨折后被催换岗上班",
-      "onboard_time": 1720774819,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80545,
       "num": 83943,
       "word": "张颂文谈灿烂的花园收官",
@@ -1971,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73077,
+      "num": 265387,
+      "word": "景区回应推出窝囊版蹦极",
+      "onboard_time": 1720778417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72984,
       "num": 72984,
       "word": "张晚意电梯神图",
@@ -1993,6 +2113,14 @@
       "onboard_time": 1720726931,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 70501,
+      "num": 417116,
+      "word": "多家博物馆可以夜游了",
+      "onboard_time": 1720775477,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69782,
@@ -2043,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59606,
+      "num": 227013,
+      "word": "笔记本摄像头去哪儿了",
+      "onboard_time": 1720776257,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59539,
       "num": 72422,
       "word": "谢霆锋 王菲战斗粉",
@@ -2067,20 +2203,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 56410,
-      "num": 173902,
-      "word": "多家博物馆可以夜游了",
-      "onboard_time": 1720775477,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53419,
       "num": 298783,
       "word": "外卖小哥婉拒店家邀请被一嗓子吼进门",
       "onboard_time": 1720773018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53328,
+      "num": 255636,
+      "word": "古茗直播好抢吗",
+      "onboard_time": 1720778539,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 52530,
@@ -2227,20 +2363,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29051,
-      "num": 144902,
-      "word": "笔记本摄像头去哪儿了",
-      "onboard_time": 1720776257,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 26423,
       "num": 208570,
       "word": "原神纳塔全员",
       "onboard_time": 1720761799,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24284,
+      "num": 208522,
+      "word": "印度1800人竞聘10岗位挤断栏杆",
+      "onboard_time": 1720779198,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22974,
