@@ -1,7 +1,15 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720762503575,
+  "endTime": 1720765637000,
   "band_list": [
+    {
+      "raw_hot": 2714899,
+      "num": 698358,
+      "word": "李梦承认恋情",
+      "onboard_time": 1720764319,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2028549,
       "num": 2028549,
@@ -49,6 +57,14 @@
       "onboard_time": 1720750878,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065391,
+      "num": 1170462,
+      "word": "韩国人被重庆火锅吓到了",
+      "onboard_time": 1720762759,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1022787,
@@ -115,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 826352,
+      "num": 826352,
+      "word": "拜登出现离谱口误",
+      "onboard_time": 1720760237,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 824543,
       "num": 824543,
       "word": "少女玩恋爱游戏充一万觉得被引诱",
@@ -147,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706708,
-      "num": 706708,
-      "word": "拜登出现离谱口误",
-      "onboard_time": 1720760237,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 665952,
       "num": 665952,
       "word": "会谈恋爱的人做对了什么",
@@ -177,6 +193,30 @@
       "onboard_time": 1720759998,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 645081,
+      "num": 645081,
+      "word": "北京暴雨",
+      "onboard_time": 1720764678,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632774,
+      "num": 632774,
+      "word": "超雄银渐层",
+      "onboard_time": 1720762818,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 625379,
+      "num": 233188,
+      "word": "多少年轻人给苹果手表做牛马",
+      "onboard_time": 1720761496,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 601327,
@@ -355,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 386133,
+      "num": 386133,
+      "word": "Bin踢ON椅子真相",
+      "onboard_time": 1720760899,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373723,
       "num": 373723,
       "word": "南海",
@@ -385,14 +433,6 @@
       "onboard_time": 1720748838,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 358984,
-      "num": 358984,
-      "word": "Bin踢ON椅子真相",
-      "onboard_time": 1720760899,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 357018,
@@ -507,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299959,
+      "num": 426231,
+      "word": "3桶羽毛球价格直逼1克黄金",
+      "onboard_time": 1720760357,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295855,
       "num": 295855,
       "word": "他们卖不出西瓜我们买不起西瓜",
       "onboard_time": 1720701258,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289932,
+      "num": 289932,
+      "word": "李梦 我会幸福且充盈",
+      "onboard_time": 1720764560,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 288800,
@@ -547,20 +603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249932,
+      "num": 215629,
+      "word": "非自然死亡新作豪华阵容",
+      "onboard_time": 1720761496,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246903,
       "num": 246903,
       "word": "贵女杀青",
       "onboard_time": 1720752559,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245971,
-      "num": 227168,
-      "word": "多少年轻人给苹果手表做牛马",
-      "onboard_time": 1720761496,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 239275,
@@ -633,14 +689,6 @@
       "onboard_time": 1720714217,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212839,
-      "num": 212839,
-      "word": "非自然死亡新作豪华阵容",
-      "onboard_time": 1720761496,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 204529,
@@ -811,6 +859,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 168766,
+      "num": 168766,
+      "word": "iPhone15升级iOS18后问题频发",
+      "onboard_time": 1720763418,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166424,
       "num": 793935,
       "word": "普通人遇到大暴雨到底该怎么办",
@@ -851,6 +907,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 160286,
+      "num": 160286,
+      "word": "乌拉圭11名球员或遭处罚",
+      "onboard_time": 1720765038,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158595,
       "num": 158595,
       "word": "杰伦布朗破防了",
@@ -889,6 +953,14 @@
       "onboard_time": 1720747218,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 154525,
+      "num": 356154,
+      "word": "港媒称香港警队将使用国产手枪",
+      "onboard_time": 1720762218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152764,
@@ -947,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145746,
+      "num": 145746,
+      "word": "边牧教小猫喝水",
+      "onboard_time": 1720765218,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145713,
       "num": 145713,
       "word": "原神",
@@ -955,20 +1035,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144750,
-      "num": 426231,
-      "word": "3桶羽毛球价格直逼1克黄金",
-      "onboard_time": 1720760357,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140167,
       "num": 133271,
       "word": "长相思热度",
       "onboard_time": 1720708820,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138847,
+      "num": 138847,
+      "word": "杨和苏的和又变成连词了",
+      "onboard_time": 1720764440,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137932,
@@ -1033,6 +1113,22 @@
       "onboard_time": 1720746199,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129081,
+      "num": 129081,
+      "word": "美国2名宇航员被困太空近1个月",
+      "onboard_time": 1720765277,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 127882,
+      "num": 127882,
+      "word": "白鹿范丞丞绝佳手气",
+      "onboard_time": 1720765339,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 127406,
@@ -1152,6 +1248,14 @@
       "word": "周深起名天才",
       "onboard_time": 1720751598,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110782,
+      "num": 110782,
+      "word": "英语老师最爱的一期歌手",
+      "onboard_time": 1720765398,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1355,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76193,
+      "num": 396627,
+      "word": "直播间推荐童摄店倒闭谁来担责",
+      "onboard_time": 1720764018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72984,
       "num": 72984,
       "word": "张晚意电梯神图",
@@ -1539,12 +1651,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28724,
-      "num": 356154,
-      "word": "港媒称香港警队将使用国产手枪",
-      "onboard_time": 1720762218,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 27912,
+      "num": 145020,
+      "word": "这AI是不是有点太懂我了",
+      "onboard_time": 1720765099,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 26423,
+      "num": 208570,
+      "word": "原神纳塔全员",
+      "onboard_time": 1720761799,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 22974,
@@ -1555,12 +1675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21758,
-      "num": 208570,
-      "word": "原神纳塔全员",
-      "onboard_time": 1720761799,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 21541,
+      "num": 128095,
+      "word": "旧金山出现偷窃别超950美元告示牌",
+      "onboard_time": 1720764978,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21400,
@@ -1568,6 +1688,14 @@
       "word": "人生最后1个暑假男生千里走单骑",
       "onboard_time": 1720716196,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19892,
+      "num": 197715,
+      "word": "韩国人为宠物遗体处理犯难",
+      "onboard_time": 1720765459,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
