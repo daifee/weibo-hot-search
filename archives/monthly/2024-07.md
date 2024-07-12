@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 20:37:15
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 20:52:11
 </p>
 </blockquote>
 <p>
@@ -209,6 +209,12 @@ B站崩了（热度：2320305）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E5%9D%A0%E6%A5%BC%E5%A5%B3%E5%AD%A9%20%E4%BA%BA%E7%94%9F%E6%9B%B2%E7%BA%BF%23" target="weibo">
 中金坠楼女孩 人生曲线（热度：1955779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%20%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3%23" target="weibo">
+谭维维 审美疲劳（热度：1949587）
 </a>
 </li>
 
@@ -1491,12 +1497,6 @@ N1（热度：997983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%20%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3%23" target="weibo">
-谭维维 审美疲劳（热度：993256）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AE%E5%88%AE%E4%B9%90%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%23" target="weibo">
 刮刮乐销量大跌（热度：993017）
 </a>
@@ -2061,6 +2061,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E7%BC%87%E8%8E%AB%E5%94%B1%E9%94%99%E8%AF%8D%23" target="weibo">
+香缇莫唱错词（热度：841567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E8%A6%81%E8%83%86%E5%AD%90%E5%A4%A7%E8%80%81%E5%A9%86%E7%9B%B4%E6%8E%A5%E7%89%B5%E5%9B%9E%E5%AE%B6%23" target="weibo">
 只要胆子大老婆直接牵回家（热度：837738）
 </a>
@@ -2529,6 +2535,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
+歌手2024（热度：763992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E7%94%B147%E6%94%B9%E4%B8%BA85%23" target="weibo">
 哈理工回应考生笔试成绩由47改为85（热度：762639）
 </a>
@@ -2835,6 +2847,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%87%BA%E5%9C%BA%E9%A1%BA%E5%BA%8F%23" target="weibo">
+歌手出场顺序（热度：702688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB%E8%A3%99%E5%AD%90%E6%82%AC%E7%A9%BA%23" target="weibo">
 房东的猫裙子悬空（热度：701528）
 </a>
@@ -3033,6 +3051,12 @@ B太曝光星期狗（热度：681086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%A8%83%E5%9B%9E%E5%BC%A0%E5%AD%90%E8%90%B1%E8%80%81%E5%AE%B6%E8%BF%87%E6%9A%91%E5%81%87%23" target="weibo">
+陈赫带娃回张子萱老家过暑假（热度：668403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E8%BF%AA%E9%97%A8%E7%A5%A8%E6%B6%A8%E4%BB%B7%E8%87%B3719%E5%85%83%E4%BB%8D%E4%B8%80%E7%A5%A8%E9%9A%BE%E6%B1%82%23" target="weibo">
 上迪门票涨价至719元仍一票难求（热度：667590）
 </a>
@@ -3113,12 +3137,6 @@ B太曝光星期狗（热度：681086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E9%97%A8%E5%BA%97%E6%8B%92%E5%8D%96%E5%86%B0%E6%9D%AF%23" target="weibo">
 蜜雪冰城回应门店拒卖冰杯（热度：656894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B8%A6%E5%A8%83%E5%9B%9E%E5%BC%A0%E5%AD%90%E8%90%B1%E8%80%81%E5%AE%B6%E8%BF%87%E6%9A%91%E5%81%87%23" target="weibo">
-陈赫带娃回张子萱老家过暑假（热度：656467）
 </a>
 </li>
 
@@ -3377,12 +3395,6 @@ iPhone16预计需求强劲（热度：630228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%80%80%E7%96%91%E5%84%BF%E5%AD%90%E8%BA%AB%E4%B8%96%23" target="weibo">
 涂山璟怀疑儿子身世（热度：625723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
-歌手2024（热度：625525）
 </a>
 </li>
 
@@ -4145,12 +4157,6 @@ CoCo回应员工边做边吃（热度：559445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%87%BA%E6%9D%A5%E6%88%91%E7%84%A6%E8%99%91%E4%BA%86%23" target="weibo">
 爸爸考研成绩出来我焦虑了（热度：556467）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%87%BA%E5%9C%BA%E9%A1%BA%E5%BA%8F%23" target="weibo">
-歌手出场顺序（热度：556335）
 </a>
 </li>
 
@@ -5061,6 +5067,12 @@ JackeyLove 自费升舱（热度：495310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%85%AC%E7%A4%BA%E6%8B%9F%E6%92%A4%E9%94%8031%E4%B8%AA%E4%B8%93%E4%B8%9A%23" target="weibo">
+四川大学公示拟撤销31个专业（热度：485103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%8C%BA%E9%9B%B6%20%E7%BE%8E%E6%9C%AF%23" target="weibo">
 绝区零 美术（热度：485026）
 </a>
@@ -5165,6 +5177,12 @@ TFBOYS没来应援色来了（热度：481254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E9%A2%84%E5%88%A4%E4%BA%86%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9A%84%E9%A2%84%E5%88%A4%23" target="weibo">
 何老师预判了王栎鑫的预判（热度：480554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E9%80%AE%E6%8D%952%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
+外交部回应日方要求逮捕2名中国人（热度：480440）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ C罗女友说C罗欢迎回家（热度：439599）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B9%E5%8C%85%E5%93%A5%23" target="weibo">
-夹包哥（热度：435554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E6%83%85%E4%BE%A3%E6%AF%95%E4%B8%9A%E5%A5%94%E8%B5%B4%E7%A5%96%E5%9B%BD%E4%B8%AD%E9%83%A8%23" target="weibo">
-清华大学博士情侣毕业奔赴祖国中部（热度：435459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E8%B8%A2%E6%A4%85%E5%AD%90%23" target="weibo">
-Bin踢椅子（热度：435143）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6437,6 +6437,12 @@ Bin踢椅子（热度：435143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%93%A6%E5%8A%AA%E9%98%BF%E5%9B%BE%E6%80%BB%E7%90%86%E8%90%A8%E5%B0%94%E7%BB%B4%23%23" target="weibo">
 #习近平会见瓦努阿图总理萨尔维#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%89%80%E7%BD%97%E9%97%A8%E7%BE%A4%E5%B2%9B%E6%80%BB%E7%90%86%23%23" target="weibo">
+#习近平会见所罗门群岛总理#
 </a>
 </li>
 

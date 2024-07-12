@@ -1,0 +1,410 @@
+{
+  "runTime": 1720788731830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971892,
+        "num": 1971892,
+        "word": "歌手直播",
+        "onboard_time": 1720784059,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1949587,
+        "num": 1949587,
+        "word": "谭维维 审美疲劳",
+        "onboard_time": 1720787057,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38876,
+        "num": 1343891,
+        "word": "洪水中这些身影是安全感的来源",
+        "onboard_time": 1720788019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860981,
+        "num": 860981,
+        "word": "男孩高考结束才知父亲已坐牢5年",
+        "onboard_time": 1720785378,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841567,
+        "num": 841567,
+        "word": "香缇莫唱错词",
+        "onboard_time": 1720787778,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803399,
+        "num": 803399,
+        "word": "迪丽热巴 金九",
+        "onboard_time": 1720777518,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480440,
+        "num": 480440,
+        "word": "外交部回应日方要求逮捕2名中国人",
+        "onboard_time": 1720786757,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349435,
+        "num": 349435,
+        "word": "王健林7月连卖3座万达广场",
+        "onboard_time": 1720780038,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 297569,
+        "num": 297569,
+        "word": "上半年人民币存款增加11.46万亿元",
+        "onboard_time": 1720780878,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34691,
+        "num": 297287,
+        "word": "84岁老人上电视感谢一群老熟人",
+        "onboard_time": 1720786097,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763992,
+        "num": 296378,
+        "word": "歌手2024",
+        "onboard_time": 1720784059,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737189,
+        "num": 295596,
+        "word": "Lenka袭榜",
+        "onboard_time": 1720786277,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702688,
+        "num": 295127,
+        "word": "歌手出场顺序",
+        "onboard_time": 1720786578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661415,
+        "num": 294089,
+        "word": "阿黛尔采访 笑疯",
+        "onboard_time": 1720782797,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485103,
+        "num": 293356,
+        "word": "四川大学公示拟撤销31个专业",
+        "onboard_time": 1720786818,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 474062,
+        "num": 292957,
+        "word": "680元和380元的演唱会门票仅差一排",
+        "onboard_time": 1720774218,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292341,
+        "num": 292341,
+        "word": "未定事件簿四周年特别活动",
+        "onboard_time": 1720787960,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245617,
+        "num": 245617,
+        "word": "男孩高考656分志愿全填临床医学",
+        "onboard_time": 1720784238,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245162,
+        "num": 245162,
+        "word": "宝马中国将退出价格战",
+        "onboard_time": 1720767799,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204567,
+        "num": 204567,
+        "word": "韩国财阀千金涉毒藏匿泰国",
+        "onboard_time": 1720776378,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668403,
+        "num": 203043,
+        "word": "陈赫带娃回张子萱老家过暑假",
+        "onboard_time": 1720780698,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479918,
+        "num": 200880,
+        "word": "李梦承认恋情",
+        "onboard_time": 1720764319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431165,
+        "num": 199327,
+        "word": "歌手2024终极袭榜赛投票",
+        "onboard_time": 1720766299,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312897,
+        "num": 196921,
+        "word": "睡6小时和睡8小时区别有多大",
+        "onboard_time": 1720768217,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196343,
+        "num": 196343,
+        "word": "首届电竞奥运会明年在沙特举办",
+        "onboard_time": 1720787960,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380170,
+        "num": 196065,
+        "word": "凡希亚中文好牛",
+        "onboard_time": 1720788138,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362426,
+        "num": 195852,
+        "word": "林靖恩父亲首发声",
+        "onboard_time": 1720783697,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349766,
+        "num": 195577,
+        "word": "1314元演唱会门票连主屏幕都看不见",
+        "onboard_time": 1720770199,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191577,
+        "num": 191577,
+        "word": "猫猫今天扎了两个辫辫",
+        "onboard_time": 1720781718,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165833,
+        "num": 165833,
+        "word": "王楚钦孙颖莎快问快答",
+        "onboard_time": 1720785737,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320925,
+        "num": 164499,
+        "word": "人鱼 没开机",
+        "onboard_time": 1720779859,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311470,
+        "num": 163368,
+        "word": "谭维维 杭盖替身",
+        "onboard_time": 1720787719,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285488,
+        "num": 162697,
+        "word": "王鹤棣的面包店",
+        "onboard_time": 1720786757,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162010,
+        "num": 162010,
+        "word": "中方反制美国对台军售",
+        "onboard_time": 1720781299,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150820,
+        "num": 150820,
+        "word": "男子常年不吃早餐胆囊取出247颗结石",
+        "onboard_time": 1720778598,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277008,
+        "num": 150604,
+        "word": "谁家夫妻做成这模样啊",
+        "onboard_time": 1720787778,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275108,
+        "num": 150138,
+        "word": "长相思2断更",
+        "onboard_time": 1720779738,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180068,
+        "num": 149376,
+        "word": "梁祯元 姐姐真漂亮",
+        "onboard_time": 1720788259,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109708,
+        "num": 148573,
+        "word": "萝卜快跑安全员多为网约车老司机",
+        "onboard_time": 1720774939,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106941,
+        "num": 148439,
+        "word": "大理一小学附近发现眼镜王蛇",
+        "onboard_time": 1720788499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174412,
+        "num": 147939,
+        "word": "袁咏琳回应香缇莫把无限制给谭维维",
+        "onboard_time": 1720785737,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 147424,
+        "word": "肖战下部戏是藏海传",
+        "onboard_time": 1720778359,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132396,
+        "num": 132396,
+        "word": "迪丽热巴流光粉高定",
+        "onboard_time": 1720783338,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128602,
+        "num": 128602,
+        "word": "屈楚萧带着寸头杀回来了",
+        "onboard_time": 1720788619,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105166,
+        "num": 128182,
+        "word": "小米获独立造车资质",
+        "onboard_time": 1720780638,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96189,
+        "num": 127793,
+        "word": "WB战胜LGDNBW",
+        "onboard_time": 1720788019,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88888,
+        "num": 127231,
+        "word": "多家博物馆可以夜游了",
+        "onboard_time": 1720775477,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88618,
+        "num": 126393,
+        "word": "北约讨论接管控制中国在欧基建项目",
+        "onboard_time": 1720786397,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87811,
+        "num": 125587,
+        "word": "门店回应华为麒麟芯片话术线下解禁",
+        "onboard_time": 1720788619,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87696,
+        "num": 125037,
+        "word": "12星象下半年运势分析",
+        "onboard_time": 1720784538,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}
