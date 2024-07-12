@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720773472630,
+  "endTime": 1720776103357,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -17,6 +17,14 @@
       "onboard_time": 1720743977,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1345196,
+      "num": 1345196,
+      "word": "1314元演唱会门票连主屏幕都看不见",
+      "onboard_time": 1720770199,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1344835,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085597,
+      "num": 1085597,
+      "word": "680元和380元的演唱会门票仅差一排",
+      "onboard_time": 1720774218,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1022787,
       "num": 1163645,
       "word": "张凌赫赵今麦史上最快二搭",
       "onboard_time": 1720757659,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 988314,
-      "num": 988314,
-      "word": "1314元演唱会门票连主屏幕都看不见",
-      "onboard_time": 1720770199,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 967334,
@@ -121,6 +129,14 @@
       "onboard_time": 1720747878,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895234,
+      "num": 684692,
+      "word": "杨迪被追讨80万版权费",
+      "onboard_time": 1720771218,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 886517,
@@ -209,14 +225,6 @@
       "onboard_time": 1720751958,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684692,
-      "num": 684692,
-      "word": "杨迪被追讨80万版权费",
-      "onboard_time": 1720771218,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 665952,
@@ -371,6 +379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 470544,
+      "num": 260515,
+      "word": "乌尔善找的冯宝宝有真功夫",
+      "onboard_time": 1720773978,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 447917,
       "num": 243801,
       "word": "为什么吃桑葚皮肤会变好",
@@ -507,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 362752,
+      "num": 287340,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 359262,
       "num": 359262,
       "word": "肖战北京出发进组",
@@ -521,14 +545,6 @@
       "onboard_time": 1720760300,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356509,
-      "num": 287340,
-      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
-      "onboard_time": 1720766239,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 355373,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342186,
+      "num": 213293,
+      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
+      "onboard_time": 1720770860,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328605,
       "num": 328605,
       "word": "王一博张钧甯豪门姐弟即视感",
@@ -603,12 +627,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314666,
+      "num": 1186881,
+      "word": "巴黎奥运会羽毛球抽签",
+      "onboard_time": 1720774518,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312723,
       "num": 202656,
       "word": "无效恋爱一年了",
       "onboard_time": 1720740795,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311536,
+      "num": 191942,
+      "word": "百度副总裁称萝卜快跑不是为了抢生意",
+      "onboard_time": 1720771218,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 311387,
@@ -673,6 +713,14 @@
       "onboard_time": 1720756160,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276566,
+      "num": 199562,
+      "word": "头号玩家",
+      "onboard_time": 1720772840,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 275785,
@@ -787,6 +835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221035,
+      "num": 173422,
+      "word": "长相思2各有各的坟想哭",
+      "onboard_time": 1720775238,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220226,
       "num": 220226,
       "word": "民政局回应13岁尿毒症晚期男孩捡废品",
@@ -809,14 +865,6 @@
       "onboard_time": 1720758797,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213293,
-      "num": 213293,
-      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
-      "onboard_time": 1720770860,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213054,
@@ -859,20 +907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199900,
+      "num": 172183,
+      "word": "金九封面预告",
+      "onboard_time": 1720774278,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199619,
       "num": 179795,
       "word": "无名毛利率",
       "onboard_time": 1720758919,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199562,
-      "num": 199562,
-      "word": "头号玩家",
-      "onboard_time": 1720772840,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 199173,
@@ -921,6 +969,14 @@
       "onboard_time": 1720751358,
       "rank": 30,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 190905,
+      "num": 171031,
+      "word": "薛之谦北京演唱会",
+      "onboard_time": 1720775057,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 190631,
@@ -1011,20 +1067,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176074,
+      "num": 170865,
+      "word": "李蓉在妈妈的年纪和妈妈和解",
+      "onboard_time": 1720774959,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173910,
       "num": 173910,
       "word": "有点怜爱防风意映了",
       "onboard_time": 1720757840,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173866,
-      "num": 173866,
-      "word": "百度副总裁称萝卜快跑不是为了抢生意",
-      "onboard_time": 1720771218,
-      "rank": 41,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 173118,
@@ -1131,6 +1187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 158740,
+      "num": 158740,
+      "word": "原来肖战跟湖北这么有缘分",
+      "onboard_time": 1720774698,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158595,
       "num": 158595,
       "word": "杰伦布朗破防了",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1720754359,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155956,
+      "num": 155956,
+      "word": "淡人张真源遇上浓人白鹿",
+      "onboard_time": 1720774339,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155868,
@@ -1235,12 +1307,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146265,
+      "num": 171818,
+      "word": "韩国千年陶器用汉字刻着一个大",
+      "onboard_time": 1720771577,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145713,
       "num": 145713,
       "word": "原神",
       "onboard_time": 1720743617,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145511,
+      "num": 171484,
+      "word": "国防部回应山东舰编队远海实战训练",
+      "onboard_time": 1720773978,
+      "rank": 29,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 143352,
@@ -1275,20 +1363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139166,
+      "num": 139166,
+      "word": "泰国近30名学生遭校长猥亵",
+      "onboard_time": 1720770139,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138847,
       "num": 138847,
       "word": "杨和苏的和又变成连词了",
       "onboard_time": 1720764440,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138346,
-      "num": 138346,
-      "word": "泰国近30名学生遭校长猥亵",
-      "onboard_time": 1720770139,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137932,
@@ -1419,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123162,
+      "num": 123162,
+      "word": "萝卜快跑安全员多为网约车老司机",
+      "onboard_time": 1720774939,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "谢莉杜瓦尔去世",
@@ -1483,6 +1579,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119604,
+      "num": 119604,
+      "word": "张凌赫赵今麦 恋综观察reaction",
+      "onboard_time": 1720775960,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118574,
+      "num": 118574,
+      "word": "海军航母编队常态组织远海实战训练",
+      "onboard_time": 1720775359,
+      "rank": 44,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 117662,
       "num": 117662,
       "word": "英语老师最爱的一期歌手",
@@ -1521,14 +1633,6 @@
       "onboard_time": 1720745418,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 113989,
-      "num": 113989,
-      "word": "韩国千年陶器用汉字刻着一个大",
-      "onboard_time": 1720771577,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112481,
@@ -1640,6 +1744,14 @@
       "word": "偷偷瘦了20斤后见到朋友内心belike",
       "onboard_time": 1720694717,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101230,
+      "num": 101230,
+      "word": "可以预防老年痴呆的桌子",
+      "onboard_time": 1720775299,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1899,6 +2011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56410,
+      "num": 173902,
+      "word": "多家博物馆可以夜游了",
+      "onboard_time": 1720775477,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52530,
       "num": 108152,
       "word": "钱塘江潮汐树上演犹抱琵琶半遮面",
@@ -1937,6 +2057,22 @@
       "onboard_time": 1720765099,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48988,
+      "num": 217014,
+      "word": "服务员骨折后被催换岗上班",
+      "onboard_time": 1720774819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48881,
+      "num": 202741,
+      "word": "买手机你考虑屏幕护眼吗",
+      "onboard_time": 1720773258,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 48737,
@@ -2001,6 +2137,14 @@
       "onboard_time": 1720699279,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 31236,
+      "num": 1126203,
+      "word": "中国科学家发现银河系比想象中更大",
+      "onboard_time": 1720775898,
+      "rank": 2,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31059,
@@ -2091,14 +2235,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 16370,
-      "num": 115122,
-      "word": "买手机你考虑屏幕护眼吗",
-      "onboard_time": 1720773258,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 13905,
       "num": 49392,
       "word": "6旬母亲跟儿子学滑板动作丝滑",
@@ -2172,6 +2308,9 @@
     },
     {
       "word": "#全面深化改革要做到这些坚持#"
+    },
+    {
+      "word": "#总书记的改革公开课#"
     }
   ]
 }
