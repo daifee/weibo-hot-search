@@ -1,7 +1,15 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720791263568,
+  "endTime": 1720793893731,
   "band_list": [
+    {
+      "raw_hot": 4450743,
+      "num": 4450743,
+      "word": "那英第一",
+      "onboard_time": 1720792880,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2714899,
       "num": 2658598,
@@ -9,6 +17,14 @@
       "onboard_time": 1720764319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2562023,
+      "num": 630690,
+      "word": "那英天后回归",
+      "onboard_time": 1720791381,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2311604,
@@ -51,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1905000,
+      "num": 721540,
+      "word": "福宝没认出姜爷爷",
+      "onboard_time": 1720792100,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1865376,
       "num": 1865376,
       "word": "迪丽热巴 金九",
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 1688296,
-      "num": 311636,
+      "num": 378578,
       "word": "孙楠 giegie",
       "onboard_time": 1720790300,
       "rank": 26,
@@ -155,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1093603,
+      "num": 379515,
+      "word": "歌手排名",
+      "onboard_time": 1720793600,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1022787,
       "num": 1163645,
       "word": "张凌赫赵今麦史上最快二搭",
@@ -169,6 +201,14 @@
       "onboard_time": 1720707141,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 958480,
+      "num": 376403,
+      "word": "歌手2024",
+      "onboard_time": 1720784059,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 930607,
@@ -267,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 825180,
+      "num": 227908,
+      "word": "英子状态回来了",
+      "onboard_time": 1720791440,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 824543,
       "num": 824543,
       "word": "少女玩恋爱游戏充一万觉得被引诱",
@@ -291,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 785132,
+      "num": 785132,
+      "word": "萨莉亚靠卖预制菜年销近百亿元",
+      "onboard_time": 1720791740,
+      "rank": 1,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 784910,
       "num": 784910,
       "word": "四川大学公示拟撤销31个专业",
@@ -299,11 +355,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 763992,
-      "num": 296378,
-      "word": "歌手2024",
-      "onboard_time": 1720784059,
-      "rank": 44,
+      "raw_hot": 772865,
+      "num": 224232,
+      "word": "那英 裹着心的光",
+      "onboard_time": 1720792762,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -427,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597063,
+      "num": 220737,
+      "word": "Lenka袭榜汪苏泷",
+      "onboard_time": 1720788978,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594787,
       "num": 594787,
       "word": "白鹿张予曦撞衫了",
@@ -505,14 +569,6 @@
       "onboard_time": 1720714338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534397,
-      "num": 220737,
-      "word": "Lenka袭榜汪苏泷",
-      "onboard_time": 1720788978,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 509379,
@@ -611,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446554,
+      "num": 205571,
+      "word": "克卜勒",
+      "onboard_time": 1720792699,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444198,
       "num": 444198,
       "word": "麻将凉席怎么消失了",
@@ -699,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403333,
+      "num": 192420,
+      "word": "许钧 编曲",
+      "onboard_time": 1720791260,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402925,
       "num": 402925,
       "word": "中国海警依法驱离日本船只",
@@ -761,6 +833,14 @@
       "onboard_time": 1720777457,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370168,
+      "num": 370168,
+      "word": "大理一小学附近发现眼镜王蛇",
+      "onboard_time": 1720788499,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367880,
@@ -899,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314057,
+      "num": 149263,
+      "word": "薛之谦陈伟霆合唱月半小夜曲",
+      "onboard_time": 1720791980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312723,
       "num": 202656,
       "word": "无效恋爱一年了",
@@ -963,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300415,
-      "num": 300415,
-      "word": "大理一小学附近发现眼镜王蛇",
-      "onboard_time": 1720788499,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299959,
       "num": 426231,
       "word": "3桶羽毛球价格直逼1克黄金",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1720764560,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288901,
+      "num": 129943,
+      "word": "封神番外篇",
+      "onboard_time": 1720791319,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 288800,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1720697659,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 271489,
+      "num": 129776,
+      "word": "宋雨琦 已老实",
+      "onboard_time": 1720792459,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 259883,
@@ -1211,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227963,
+      "num": 227963,
+      "word": "意大利版沙县小吃光明正大卖预制菜",
+      "onboard_time": 1720791980,
+      "rank": 19,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 227672,
       "num": 227672,
       "word": "啥剧啊主演都活不过三集",
@@ -1331,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205042,
+      "num": 205042,
+      "word": "别墅绿化带惊现数个爱马仕",
+      "onboard_time": 1720790959,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204529,
       "num": 204529,
       "word": "为什么说江浙沪是先天留学圣体",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1720760899,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203322,
+      "num": 379850,
+      "word": "电竞奥运会来了",
+      "onboard_time": 1720791500,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 202157,
@@ -1619,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172609,
+      "num": 172609,
+      "word": "萝卜快跑会导致司机大规模失业吗",
+      "onboard_time": 1720790540,
+      "rank": 34,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 172189,
       "num": 172189,
       "word": "徐明浩 我真的不是在幽默",
@@ -1787,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154973,
+      "num": 154973,
+      "word": "1岁宝宝发现妈妈腿淤青拉爸爸去揉",
+      "onboard_time": 1720791860,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154712,
       "num": 154712,
       "word": "以军撤离后加沙一地发现60多具遗体",
@@ -1849,14 +1985,6 @@
       "onboard_time": 1720755558,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146459,
-      "num": 146459,
-      "word": "萝卜快跑会导致司机大规模失业吗",
-      "onboard_time": 1720790540,
-      "rank": 34,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 146306,
@@ -2043,6 +2171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130420,
+      "num": 130420,
+      "word": "TES对战BLG",
+      "onboard_time": 1720791679,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129166,
       "num": 129166,
       "word": "李梦 大大方方",
@@ -2163,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121909,
+      "num": 130391,
+      "word": "上海海港5比1北京国安",
+      "onboard_time": 1720792459,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121631,
       "num": 142705,
       "word": "媒体评萝卜快跑抢网约车司机饭碗",
@@ -2193,14 +2337,6 @@
       "onboard_time": 1720782379,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 118984,
-      "num": 144163,
-      "word": "别墅绿化带惊现数个爱马仕",
-      "onboard_time": 1720790959,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118647,
@@ -2459,6 +2595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102246,
+      "num": 129435,
+      "word": "HLE战胜T1",
+      "onboard_time": 1720792762,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101230,
       "num": 101230,
       "word": "可以预防老年痴呆的桌子",
@@ -2489,6 +2633,14 @@
       "onboard_time": 1720756819,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99452,
+      "num": 379075,
+      "word": "周深让跑男感受平常中的小美满",
+      "onboard_time": 1720793721,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 98981,
@@ -2587,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88312,
+      "num": 129063,
+      "word": "武磊两射两传",
+      "onboard_time": 1720793299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87718,
       "num": 87718,
       "word": "集齐雪山花海星空云瀑的新疆",
@@ -2649,6 +2809,14 @@
       "onboard_time": 1720713077,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80458,
+      "num": 128716,
+      "word": "习惯性愤怒会增加心脏病风险",
+      "onboard_time": 1720793242,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77642,

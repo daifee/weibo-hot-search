@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 21:34:23
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/12 22:18:13
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
 歌手排名（热度：6542768）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%AC%AC%E4%B8%80%23" target="weibo">
+那英第一（热度：4450743）
 </a>
 </li>
 
@@ -89,6 +95,12 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%23" target="weibo">
 北约首次直接警告中国（热度：2591021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%A4%A9%E5%90%8E%E5%9B%9E%E5%BD%92%23" target="weibo">
+那英天后回归（热度：2562023）
 </a>
 </li>
 
@@ -251,6 +263,12 @@ Jennie方承认吸烟并道歉（热度：1919980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%96%9D%E5%86%9C%E8%8D%AF%E7%A6%BB%E4%B8%96%E5%89%8D%E6%9B%BE%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23" target="weibo">
 大学生喝农药离世前曾下跪道歉（热度：1919589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E6%B2%A1%E8%AE%A4%E5%87%BA%E5%A7%9C%E7%88%B7%E7%88%B7%23" target="weibo">
+福宝没认出姜爷爷（热度：1905000）
 </a>
 </li>
 
@@ -1599,6 +1617,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
+歌手2024（热度：958480）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E6%B8%A9%E5%A9%89%23" target="weibo">
 鞠婧祎 温婉（热度：951711）
 </a>
@@ -2175,6 +2199,12 @@ B太称新疆行回程给司机大姐买机票（热度：833367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AD%90%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+英子状态回来了（热度：825180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E6%B3%95%E5%9B%BD%23" target="weibo">
 葡萄牙vs法国（热度：825009）
 </a>
@@ -2427,6 +2457,12 @@ iPhone16出货量或达9000万部（热度：792182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E8%8E%89%E4%BA%9A%E9%9D%A0%E5%8D%96%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B9%B4%E9%94%80%E8%BF%91%E7%99%BE%E4%BA%BF%E5%85%83%23" target="weibo">
+萨莉亚靠卖预制菜年销近百亿元（热度：785132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%85%AC%E7%A4%BA%E6%8B%9F%E6%92%A4%E9%94%8031%E4%B8%AA%E4%B8%93%E4%B8%9A%23" target="weibo">
 四川大学公示拟撤销31个专业（热度：784910）
 </a>
@@ -2523,6 +2559,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E8%A3%B9%E7%9D%80%E5%BF%83%E7%9A%84%E5%85%89%23" target="weibo">
+那英 裹着心的光（热度：772865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E7%9E%AC%E9%97%B4%E7%BA%A2%E9%80%8F%E4%BA%86%23" target="weibo">
 周也瞬间红透了（热度：772647）
 </a>
@@ -2561,12 +2603,6 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AD%E7%9A%84%E9%9A%BE%E5%A0%AA%E4%BC%97%E4%BA%BA%E7%9A%84%E7%8B%82%E6%AC%A2%23" target="weibo">
 小夭的难堪众人的狂欢（热度：765396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
-歌手2024（热度：763992）
 </a>
 </li>
 
@@ -3705,6 +3741,12 @@ A股（热度：620580）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Lenka%E8%A2%AD%E6%A6%9C%E6%B1%AA%E8%8B%8F%E6%B3%B7%23" target="weibo">
+Lenka袭榜汪苏泷（热度：597063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BOSS%E7%9B%B4%E8%81%98%E5%B4%A9%E4%BA%86%23" target="weibo">
 BOSS直聘崩了（热度：596885）
 </a>
@@ -4463,12 +4505,6 @@ WPS崩了（热度：543165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B9%A6%E8%B1%AA%E4%B8%BA%E6%AC%A7%E9%98%B3%E5%A6%AE%E5%A6%AE%E6%88%92%E7%83%9F%23" target="weibo">
 张书豪为欧阳妮妮戒烟（热度：535307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Lenka%E8%A2%AD%E6%A6%9C%E6%B1%AA%E8%8B%8F%E6%B3%B7%23" target="weibo">
-Lenka袭榜汪苏泷（热度：534397）
 </a>
 </li>
 
@@ -5823,6 +5859,12 @@ TF家族运动会（热度：453674）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E5%8D%9C%E5%8B%92%23" target="weibo">
+克卜勒（热度：446554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%23" target="weibo">
 菲利克斯（热度：446043）
 </a>
@@ -5969,48 +6011,6 @@ Mai出道（热度：440649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%A5%B3%E5%8F%8B%E8%AF%B4C%E7%BD%97%E6%AC%A2%E8%BF%8E%E5%9B%9E%E5%AE%B6%23" target="weibo">
 C罗女友说C罗欢迎回家（热度：439599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%BD%A0%E5%AE%98%E5%AE%A3%E6%9D%80%E9%9D%92%23" target="weibo">
-爱你官宣杀青（热度：439428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E5%8D%87%E8%87%B3%E8%A1%8C%E4%B8%9A%E7%AC%AC%E4%BA%8C%23" target="weibo">
-优酷升至行业第二（热度：439147）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%9D%9B%E5%B7%A8%E5%8F%98%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-英国政坛巨变要来了（热度：438968）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：438646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%80%80%E7%A5%A8%E8%B4%B9%E8%A7%84%E5%AE%9A%23" target="weibo">
-12306回应火车票退票费规定（热度：438192）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
-恋与深空（热度：437637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E6%90%BA%E5%B8%A6%E4%BA%BA%E7%9A%AE%E9%9D%A2%E5%85%B7%E7%9B%97%E7%AA%83%E8%BF%9120%E6%AC%A1%23" target="weibo">
-江苏一男子携带人皮面具盗窃近20次（热度：437519）
 </a>
 </li>
 
