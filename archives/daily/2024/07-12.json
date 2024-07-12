@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720769678872,
+  "endTime": 1720772720357,
   "band_list": [
     {
       "raw_hot": 2714899,
@@ -41,6 +41,14 @@
       "onboard_time": 1720764678,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249589,
+      "num": 1249589,
+      "word": "宝马中国将退出价格战",
+      "onboard_time": 1720767799,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 1205845,
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886517,
+      "num": 210711,
+      "word": "睡6小时和睡8小时区别有多大",
+      "onboard_time": 1720768217,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 875289,
       "num": 574000,
       "word": "官方回应萝卜快跑被指低价扰乱市场",
       "onboard_time": 1720735631,
       "rank": 49,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 873848,
-      "num": 262124,
-      "word": "宝马中国将退出价格战",
-      "onboard_time": 1720767799,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 845584,
@@ -169,6 +177,14 @@
       "onboard_time": 1720762818,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 791202,
+      "num": 791202,
+      "word": "1314元演唱会门票连主屏幕都看不见",
+      "onboard_time": 1720770199,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749061,
@@ -283,6 +299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 565134,
+      "num": 565134,
+      "word": "杨迪被追讨80万版权费",
+      "onboard_time": 1720771218,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541297,
       "num": 247110,
       "word": "三种月经异常或是身体在求救",
@@ -291,20 +315,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 539733,
+      "num": 283305,
+      "word": "泫雅龙俊亨官宣结婚后首次同框",
+      "onboard_time": 1720771039,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537978,
       "num": 537978,
       "word": "中科院博士回应研究苹果长出蘑菇",
       "onboard_time": 1720714338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531852,
-      "num": 210711,
-      "word": "睡6小时和睡8小时区别有多大",
-      "onboard_time": 1720768217,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 509379,
@@ -435,6 +459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392664,
+      "num": 213944,
+      "word": "睡前饿了建议吃这5种食物",
+      "onboard_time": 1720767258,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 386133,
       "num": 386133,
       "word": "Bin踢ON椅子真相",
@@ -507,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350623,
+      "num": 277221,
+      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
+      "onboard_time": 1720766239,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 350114,
       "num": 350114,
       "word": "只有师范生才懂她讲的有多好",
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 347068,
-      "num": 241643,
+      "num": 318235,
       "word": "这就是小说里讲的灵气逼人吗",
       "onboard_time": 1720767559,
       "rank": 19,
@@ -627,14 +667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280414,
-      "num": 213944,
-      "word": "睡前饿了建议吃这5种食物",
-      "onboard_time": 1720767258,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 271776,
       "num": 258662,
       "word": "萝卜快跑后台现场",
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223364,
+      "num": 223364,
+      "word": "赵今麦将回归流浪地球3",
+      "onboard_time": 1720771577,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "拜登迟到意总理翻白眼",
@@ -745,14 +785,6 @@
       "onboard_time": 1720703479,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218145,
-      "num": 218145,
-      "word": "萝卜快跑回应禁止孕妇婴儿乘车",
-      "onboard_time": 1720766239,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 213802,
@@ -843,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193408,
+      "num": 193408,
+      "word": "肖战工作室连载法国vlog",
+      "onboard_time": 1720771818,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191928,
       "num": 351415,
       "word": "被高铁上的儿童餐食硬控",
@@ -921,6 +961,14 @@
       "onboard_time": 1720758138,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182344,
+      "num": 140378,
+      "word": "罗马尼亚女孩被熊从120米高悬崖扔下",
+      "onboard_time": 1720770860,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177910,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1720766359,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163333,
+      "num": 259003,
+      "word": "二十多万的江诗丹顿戴两天表带发黑",
+      "onboard_time": 1720767618,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162057,
@@ -1163,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140871,
+      "num": 140871,
+      "word": "当地监管部门回应萝卜快跑定价争议",
+      "onboard_time": 1720769961,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140240,
       "num": 140240,
       "word": "白鹿范丞丞绝佳手气",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1720764440,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138346,
+      "num": 138346,
+      "word": "泰国近30名学生遭校长猥亵",
+      "onboard_time": 1720770139,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137932,
@@ -1283,6 +1355,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123309,
+      "num": 123309,
+      "word": "千万别随便对着路边的镜子自拍",
+      "onboard_time": 1720769779,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "百度副总裁称萝卜快跑不是为了抢生意",
+      "onboard_time": 1720771218,
+      "rank": 41,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "谢莉杜瓦尔去世",
@@ -1323,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121834,
+      "num": 121834,
+      "word": "游戏明星计划",
+      "onboard_time": 1720772538,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121631,
       "num": 142705,
       "word": "媒体评萝卜快跑抢网约车司机饭碗",
@@ -1347,12 +1443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118005,
-      "num": 259003,
-      "word": "二十多万的江诗丹顿戴两天表带发黑",
-      "onboard_time": 1720767618,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 119729,
+      "num": 119729,
+      "word": "李梦 大大方方",
+      "onboard_time": 1720772418,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 117662,
@@ -1395,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112169,
+      "num": 112169,
+      "word": "爽爽贵阳有多爽",
+      "onboard_time": 1720772538,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112084,
       "num": 112084,
       "word": "忘带钥匙女子为回家翻十六层高楼",
@@ -1417,6 +1521,22 @@
       "onboard_time": 1720751598,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110565,
+      "num": 110565,
+      "word": "青春环游记",
+      "onboard_time": 1720771098,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109773,
+      "num": 109773,
+      "word": "荣耀发布会",
+      "onboard_time": 1720770319,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 107979,
@@ -1635,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75239,
+      "num": 213967,
+      "word": "郭晶晶从跳水台走向新舞台",
+      "onboard_time": 1720767737,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72984,
       "num": 72984,
       "word": "张晚意电梯神图",
@@ -1715,12 +1843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58979,
-      "num": 213967,
-      "word": "郭晶晶从跳水台走向新舞台",
-      "onboard_time": 1720767737,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 58096,
+      "num": 671371,
+      "word": "我国成功搭建6G外场试验网",
+      "onboard_time": 1720755679,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53080,
+      "num": 187563,
+      "word": "折叠屏手机被洗衣机洗了怎么办",
+      "onboard_time": 1720770078,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 52530,
@@ -1787,20 +1923,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42981,
+      "num": 172147,
+      "word": "荣耀再次打破折叠屏轻薄纪录",
+      "onboard_time": 1720768818,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42813,
       "num": 42813,
       "word": "杨超越路人拍比精修好看",
       "onboard_time": 1720727471,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42257,
-      "num": 169649,
-      "word": "荣耀再次打破折叠屏轻薄纪录",
-      "onboard_time": 1720768818,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 39951,
