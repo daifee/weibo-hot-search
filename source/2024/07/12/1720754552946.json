@@ -1,0 +1,410 @@
+{
+  "runTime": 1720754552946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930607,
+        "num": 1148897,
+        "word": "雷军问还有人在用iPhoneMini吗",
+        "onboard_time": 1720749318,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 867978,
+        "num": 867978,
+        "word": "女子购买格力空调十年免费换新被拒",
+        "onboard_time": 1720751718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69343,
+        "num": 595471,
+        "word": "普通人遇到大暴雨到底该怎么办",
+        "onboard_time": 1720703178,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522560,
+        "num": 522560,
+        "word": "间谍用校园贷逼迫大学生窃取国家秘密",
+        "onboard_time": 1720747878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425876,
+        "num": 425876,
+        "word": "杨紫在腾讯四部一番剧都破三万了",
+        "onboard_time": 1720750757,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419246,
+        "num": 419246,
+        "word": "妈妈喜欢的荷花头像上新了",
+        "onboard_time": 1720744579,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369697,
+        "num": 369697,
+        "word": "朴灿烈 我的英雄学院",
+        "onboard_time": 1720743617,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339556,
+        "num": 339556,
+        "word": "麻将凉席怎么消失了",
+        "onboard_time": 1720739715,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 335009,
+        "num": 335009,
+        "word": "相柳给小夭最高级的爱",
+        "onboard_time": 1720750098,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153964,
+        "num": 322443,
+        "word": "会谈恋爱的人做对了什么",
+        "onboard_time": 1720752798,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 1096464,
+        "num": 322389,
+        "word": "央媒评自媒体捧杀式造谣韦神",
+        "onboard_time": 1720750878,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322158,
+        "num": 322158,
+        "word": "滞留太空超一个月美宇航员发声",
+        "onboard_time": 1720751837,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 278322,
+        "num": 278322,
+        "word": "苏炳添撤回一个宋雨琦",
+        "onboard_time": 1720742837,
+        "rank": 12,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 274695,
+        "num": 274695,
+        "word": "刘冲出任VOGUE主编",
+        "onboard_time": 1720749078,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 262016,
+        "num": 262016,
+        "word": "相柳黑衣银发",
+        "onboard_time": 1720753637,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261630,
+        "num": 261630,
+        "word": "田曦薇被难哭了",
+        "onboard_time": 1720750278,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250949,
+        "num": 250949,
+        "word": "很多癌症都是因为四大不规律",
+        "onboard_time": 1720709960,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247997,
+        "num": 247997,
+        "word": "肖战北京出发进组",
+        "onboard_time": 1720748838,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246903,
+        "num": 246903,
+        "word": "贵女杀青",
+        "onboard_time": 1720752559,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191928,
+        "num": 191928,
+        "word": "被高铁上的儿童餐食硬控",
+        "onboard_time": 1720748298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633632,
+        "num": 191909,
+        "word": "44岁柳岩自曝患子宫肌瘤",
+        "onboard_time": 1720707141,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 508049,
+        "num": 191617,
+        "word": "张馨予为老公辟谣",
+        "onboard_time": 1720751958,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440626,
+        "num": 191406,
+        "word": "为什么吃桑葚皮肤会变好",
+        "onboard_time": 1720750098,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246214,
+        "num": 191012,
+        "word": "三亚酒店价格暴跌你会去玩吗",
+        "onboard_time": 1720745179,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190892,
+        "num": 190892,
+        "word": "少女玩恋爱游戏充一万觉得被引诱",
+        "onboard_time": 1720753458,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187112,
+        "num": 187112,
+        "word": "三种月经异常或是身体在求救",
+        "onboard_time": 1720745359,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176711,
+        "num": 176711,
+        "word": "蔡少芬除了剪秋一个宫女不认识",
+        "onboard_time": 1720739896,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174349,
+        "num": 174349,
+        "word": "得闲谨制 肖战",
+        "onboard_time": 1720754359,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170052,
+        "num": 170052,
+        "word": "公交车每天挂着大蒜辣椒出发",
+        "onboard_time": 1720752678,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169975,
+        "num": 169975,
+        "word": "导演说白敬亭聪明幽默经验丰富",
+        "onboard_time": 1720747698,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161918,
+        "num": 161918,
+        "word": "李荣浩杨丞琳同一天杭州开唱",
+        "onboard_time": 1720753758,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144545,
+        "num": 144545,
+        "word": "杜兰特质疑恩比德虚报身高",
+        "onboard_time": 1720752017,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137031,
+        "num": 137031,
+        "word": "中国海警依法驱离日本船只",
+        "onboard_time": 1720743977,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135931,
+        "num": 135931,
+        "word": "林允单扎丸子头",
+        "onboard_time": 1720751358,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "周鸿祎谈萝卜快跑抢网约车司机饭碗",
+        "onboard_time": 1720752318,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 134462,
+        "num": 134462,
+        "word": "官方回应萝卜快跑被指低价扰乱市场",
+        "onboard_time": 1720735631,
+        "rank": 35,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 125154,
+        "num": 125154,
+        "word": "BW 排队",
+        "onboard_time": 1720740616,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 123828,
+        "word": "中科院博士回应研究苹果长出蘑菇",
+        "onboard_time": 1720714338,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "医院床单竟然是护士换的",
+        "onboard_time": 1720740975,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116004,
+        "num": 116004,
+        "word": "巴黎奥运增设的4个项目是懂年轻人的",
+        "onboard_time": 1720742778,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115581,
+        "num": 115581,
+        "word": "原来水还可以清澈到这种程度",
+        "onboard_time": 1720754359,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115580,
+        "num": 115580,
+        "word": "刘亦菲有新狗了",
+        "onboard_time": 1720705159,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114841,
+        "num": 114841,
+        "word": "丫丫吃饱就睡美容觉",
+        "onboard_time": 1720748597,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114395,
+        "num": 114395,
+        "word": "黄健翔希望冠军不是苟出来的",
+        "onboard_time": 1720754178,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112179,
+        "num": 112179,
+        "word": "刘诗诗 雨打荷花",
+        "onboard_time": 1720709300,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112084,
+        "num": 112084,
+        "word": "忘带钥匙女子为回家翻十六层高楼",
+        "onboard_time": 1720751898,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "南海",
+        "onboard_time": 1720743977,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106223,
+        "num": 106223,
+        "word": "Bin踢椅子",
+        "onboard_time": 1720707739,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98116,
+        "num": 98116,
+        "word": "原神",
+        "onboard_time": 1720743617,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90400,
+        "num": 90400,
+        "word": "西卡和kid复刻Bin踢椅子",
+        "onboard_time": 1720748298,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#把为人民谋幸福作为检验改革成效的标准#"
+    }
+  }
+}
