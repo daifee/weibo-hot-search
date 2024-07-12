@@ -1,10 +1,10 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720795020615,
+  "endTime": 1720797665356,
   "band_list": [
     {
-      "raw_hot": 5873151,
-      "num": 5873151,
+      "raw_hot": 6156603,
+      "num": 6156603,
       "word": "那英第一",
       "onboard_time": 1720792880,
       "rank": 0,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1720657279,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 789217,
+      "num": 789217,
+      "word": "369",
+      "onboard_time": 1720796000,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 788768,
@@ -4483,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391341,
+      "num": 391341,
+      "word": "意大利版沙县小吃光明正大卖预制菜",
+      "onboard_time": 1720791980,
+      "rank": 19,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 391335,
       "num": 253857,
       "word": "90后辞公务员5年成2亿产值企业高管",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1720345097,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 384005,
+      "num": 384005,
+      "word": "曹璐 爱豆圈唯一人脉",
+      "onboard_time": 1720795459,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 383706,
@@ -4793,6 +4817,14 @@
       "onboard_time": 1720278678,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 365856,
+      "num": 365856,
+      "word": "7月的上海已被二次元占领",
+      "onboard_time": 1720795099,
+      "rank": 15,
+      "category": "动漫,旅游"
     },
     {
       "raw_hot": 365282,
@@ -5417,6 +5449,14 @@
       "onboard_time": 1720595778,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 326009,
+      "num": 326009,
+      "word": "BLG战胜TES",
+      "onboard_time": 1720797140,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 325915,
@@ -6048,6 +6088,14 @@
       "word": "电竞奥运会来了",
       "onboard_time": 1720791500,
       "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 289513,
+      "num": 289513,
+      "word": "TES对战BLG",
+      "onboard_time": 1720791679,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -6851,6 +6899,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 241864,
+      "num": 226325,
+      "word": "汪苏泷被沈梦辰吓一跳",
+      "onboard_time": 1720796839,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241535,
       "num": 241535,
       "word": "清华大学师生买迪士尼门票享八折",
@@ -6899,20 +6955,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240312,
+      "num": 225564,
+      "word": "成毅工作室",
+      "onboard_time": 1720795099,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239948,
       "num": 239948,
       "word": "严浩翔赛车第一",
       "onboard_time": 1720364059,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239929,
-      "num": 339394,
-      "word": "意大利版沙县小吃光明正大卖预制菜",
-      "onboard_time": 1720791980,
-      "rank": 19,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 239835,
@@ -7513,6 +7569,14 @@
       "onboard_time": 1720503917,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217150,
+      "num": 217150,
+      "word": "被土象星座伤害过的朋友来看看",
+      "onboard_time": 1720797259,
+      "rank": 30,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 216731,
@@ -8139,6 +8203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204351,
+      "num": 180054,
+      "word": "薛之谦演唱会北京站",
+      "onboard_time": 1720797379,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204188,
       "num": 204188,
       "word": "xo编曲",
@@ -8673,6 +8745,14 @@
       "onboard_time": 1720772718,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194066,
+      "num": 173621,
+      "word": "张杰luckychances舞蹈",
+      "onboard_time": 1720797259,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 194031,
@@ -10507,6 +10587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163996,
+      "num": 163996,
+      "word": "广西成功种出冰淇淋果",
+      "onboard_time": 1720795519,
+      "rank": 44,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 163922,
       "num": 163922,
       "word": "负负得正 抬上成年人那桌",
@@ -11313,14 +11401,6 @@
       "onboard_time": 1720412059,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150392,
-      "num": 227681,
-      "word": "TES对战BLG",
-      "onboard_time": 1720791679,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 150379,
@@ -12393,6 +12473,14 @@
       "onboard_time": 1720575258,
       "rank": 2,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 134712,
+      "num": 163552,
+      "word": "未定事件簿爱如初见",
+      "onboard_time": 1720797438,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 134666,
@@ -14995,6 +15083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95701,
+      "num": 163155,
+      "word": "睡觉打鼾者警惕睡眠窒息症",
+      "onboard_time": 1720795038,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95610,
       "num": 95610,
       "word": "好厉害的女机长",
@@ -15419,6 +15515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80572,
+      "num": 389225,
+      "word": "张真源连撕两人",
+      "onboard_time": 1720795281,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80545,
       "num": 83943,
       "word": "张颂文谈灿烂的花园收官",
@@ -15785,6 +15889,14 @@
       "onboard_time": 1720696218,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66530,
+      "num": 385856,
+      "word": "浙江大学0001号录取通知书送达",
+      "onboard_time": 1720797019,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 66528,
