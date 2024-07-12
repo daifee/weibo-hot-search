@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720758153457,
+  "endTime": 1720759023782,
   "band_list": [
     {
       "raw_hot": 3943333,
@@ -563,6 +563,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1187056,
+      "num": 1113467,
+      "word": "雷军发博称美丽小废物",
+      "onboard_time": 1720756636,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1180122,
       "num": 1180122,
       "word": "狂飙兄弟致歉",
@@ -585,6 +593,14 @@
       "onboard_time": 1720665978,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1172832,
+      "num": 183117,
+      "word": "黄一鸣用女儿接广告被举报",
+      "onboard_time": 1720758678,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1167853,
@@ -665,14 +681,6 @@
       "onboard_time": 1720492878,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1113467,
-      "num": 1113467,
-      "word": "雷军发博称美丽小废物",
-      "onboard_time": 1720756636,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1102166,
@@ -1883,6 +1891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 647188,
+      "num": 479556,
+      "word": "蓝盈莹一开口病娇感就上来了",
+      "onboard_time": 1720756458,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646242,
       "num": 496795,
       "word": "向太晒与刘德华夫妇聊天记录",
@@ -2611,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528191,
+      "num": 338405,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517883,
       "num": 517883,
       "word": "忆江南亲了",
@@ -2961,14 +2985,6 @@
       "onboard_time": 1720420819,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 479556,
-      "num": 479556,
-      "word": "蓝盈莹一开口病娇感就上来了",
-      "onboard_time": 1720756458,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 478369,
@@ -3704,6 +3720,14 @@
       "word": "洞庭湖决口已封堵135.5米",
       "onboard_time": 1720403236,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416488,
+      "num": 261773,
+      "word": "谁家男朋友从订婚就开始哭啊",
+      "onboard_time": 1720757059,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5291,6 +5315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295308,
+      "num": 295308,
+      "word": "王一博张钧甯豪门姐弟即视感",
+      "onboard_time": 1720758078,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294453,
       "num": 577423,
       "word": "自动驾驶来了你是怕还是盼",
@@ -5699,14 +5731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261773,
-      "num": 261773,
-      "word": "谁家男朋友从订婚就开始哭啊",
-      "onboard_time": 1720757059,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261737,
       "num": 261737,
       "word": "裴文宣宣誓主权气晕情敌",
@@ -5761,14 +5785,6 @@
       "onboard_time": 1720599499,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257645,
-      "num": 257645,
-      "word": "张凌赫赵今麦史上最快二搭",
-      "onboard_time": 1720757659,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 257263,
@@ -6451,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224826,
+      "num": 180988,
+      "word": "入职后进入了不属于自己的阶层",
+      "onboard_time": 1720756997,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224718,
       "num": 200380,
       "word": "胡锡进账户6万元不知道买什么",
@@ -6627,14 +6651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217110,
-      "num": 217110,
-      "word": "王一博张钧甯豪门姐弟即视感",
-      "onboard_time": 1720758078,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 216731,
       "num": 214394,
       "word": "这居然是2024年的李东海",
@@ -6721,6 +6737,22 @@
       "onboard_time": 1720527857,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213802,
+      "num": 194775,
+      "word": "抓娃娃",
+      "onboard_time": 1720413441,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213790,
+      "num": 180217,
+      "word": "ENHYPEN新MV",
+      "onboard_time": 1720758797,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 213472,
@@ -7379,6 +7411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199619,
+      "num": 179795,
+      "word": "无名毛利率",
+      "onboard_time": 1720758919,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199316,
       "num": 199316,
       "word": "时代少年团直播",
@@ -7609,14 +7649,6 @@
       "onboard_time": 1720614618,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194775,
-      "num": 194775,
-      "word": "抓娃娃",
-      "onboard_time": 1720413441,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 194700,
@@ -7987,6 +8019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 188664,
+      "num": 179349,
+      "word": "万家灯火没有一盏为小夭而亮",
+      "onboard_time": 1720758437,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188625,
       "num": 188625,
       "word": "GLASS三周年盛典阵容官宣",
@@ -8120,6 +8160,14 @@
       "word": "肖宇梁饰演光绪",
       "onboard_time": 1720496178,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185472,
+      "num": 178915,
+      "word": "李蓉裴文宣离婚不离家",
+      "onboard_time": 1720758318,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -8948,7 +8996,7 @@
     },
     {
       "raw_hot": 170052,
-      "num": 170052,
+      "num": 344479,
       "word": "公交车每天挂着大蒜辣椒出发",
       "onboard_time": 1720752678,
       "rank": 28,
@@ -9355,14 +9403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163558,
-      "num": 163558,
-      "word": "入职后进入了不属于自己的阶层",
-      "onboard_time": 1720756997,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163506,
       "num": 163506,
       "word": "腰围多少是中心型肥胖有标准了",
@@ -9465,6 +9505,14 @@
       "onboard_time": 1720494558,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "上市公司靠美元赚利息一年挣近3亿",
+      "onboard_time": 1720758558,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 161423,
@@ -10219,6 +10267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147608,
+      "num": 147608,
+      "word": "我想看唐诡西行有错吗",
+      "onboard_time": 1720756399,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147465,
       "num": 147465,
       "word": "一号种子王楚钦",
@@ -10915,12 +10971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137232,
-      "num": 137232,
-      "word": "我想看唐诡西行有错吗",
-      "onboard_time": 1720756399,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 137131,
+      "num": 347988,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137125,
@@ -10985,6 +11041,14 @@
       "onboard_time": 1720757300,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135956,
+      "num": 135956,
+      "word": "美国加州将实施永久性限水措施",
+      "onboard_time": 1720754778,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135944,
@@ -11675,14 +11739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124786,
-      "num": 124786,
-      "word": "美国加州将实施永久性限水措施",
-      "onboard_time": 1720754778,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124650,
       "num": 124650,
       "word": "郁金香终归盛开在了盛夏",
@@ -11809,6 +11865,14 @@
       "onboard_time": 1720739834,
       "rank": 18,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 122310,
+      "num": 342893,
+      "word": "红色大巴好city啊",
+      "onboard_time": 1720754717,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 122172,
@@ -13099,14 +13163,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 101181,
-      "num": 342893,
-      "word": "红色大巴好city啊",
-      "onboard_time": 1720754717,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101077,
       "num": 108537,
       "word": "老人接诈骗电话后存折上的27万被转走",
@@ -13145,6 +13201,14 @@
       "onboard_time": 1720315457,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 100056,
+      "num": 511624,
+      "word": "总觉得父母不够爱自己怎么办",
+      "onboard_time": 1720756819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99300,
@@ -14019,14 +14083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65913,
-      "num": 347988,
-      "word": "萝卜快跑回应网约车罢工横停马路",
-      "onboard_time": 1720757360,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65617,
       "num": 65617,
       "word": "不ban小炮",
@@ -14513,14 +14569,6 @@
       "onboard_time": 1720520118,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 51497,
-      "num": 511624,
-      "word": "总觉得父母不够爱自己怎么办",
-      "onboard_time": 1720756819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51446,

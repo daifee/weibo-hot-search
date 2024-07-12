@@ -1,6 +1,6 @@
 {
   "startTime": 1720715043676,
-  "endTime": 1720758153457,
+  "endTime": 1720759023782,
   "band_list": [
     {
       "raw_hot": 2028549,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1113467,
+      "raw_hot": 1187056,
       "num": 1113467,
       "word": "雷军发博称美丽小废物",
       "onboard_time": 1720756636,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1172832,
+      "num": 183117,
+      "word": "黄一鸣用女儿接广告被举报",
+      "onboard_time": 1720758678,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1096464,
@@ -131,6 +139,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 647188,
+      "num": 479556,
+      "word": "蓝盈莹一开口病娇感就上来了",
+      "onboard_time": 1720756458,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594787,
       "num": 594787,
       "word": "白鹿张予曦撞衫了",
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528191,
+      "num": 338405,
+      "word": "张凌赫赵今麦史上最快二搭",
+      "onboard_time": 1720757659,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495761,
       "num": 442069,
       "word": "朴灿烈 我的英雄学院",
@@ -211,14 +235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 479556,
-      "num": 479556,
-      "word": "蓝盈莹一开口病娇感就上来了",
-      "onboard_time": 1720756458,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447917,
       "num": 243801,
       "word": "为什么吃桑葚皮肤会变好",
@@ -249,6 +265,14 @@
       "onboard_time": 1720742778,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416488,
+      "num": 261773,
+      "word": "谁家男朋友从订婚就开始哭啊",
+      "onboard_time": 1720757059,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406640,
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295308,
+      "num": 295308,
+      "word": "王一博张钧甯豪门姐弟即视感",
+      "onboard_time": 1720758078,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288800,
       "num": 288800,
       "word": "光与夜之恋",
@@ -435,28 +467,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 261773,
-      "num": 261773,
-      "word": "谁家男朋友从订婚就开始哭啊",
-      "onboard_time": 1720757059,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259883,
       "num": 259883,
       "word": "刘诗诗 雨打荷花",
       "onboard_time": 1720709300,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 257645,
-      "num": 257645,
-      "word": "张凌赫赵今麦史上最快二搭",
-      "onboard_time": 1720757659,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 254069,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224826,
+      "num": 180988,
+      "word": "入职后进入了不属于自己的阶层",
+      "onboard_time": 1720756997,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220226,
       "num": 220226,
       "word": "民政局回应13岁尿毒症晚期男孩捡废品",
@@ -507,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217110,
-      "num": 217110,
-      "word": "王一博张钧甯豪门姐弟即视感",
-      "onboard_time": 1720758078,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 213802,
+      "num": 194775,
+      "word": "抓娃娃",
+      "onboard_time": 1720756879,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213790,
+      "num": 180217,
+      "word": "ENHYPEN新MV",
+      "onboard_time": 1720758797,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 213054,
@@ -531,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199619,
+      "num": 179795,
+      "word": "无名毛利率",
+      "onboard_time": 1720758919,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199173,
       "num": 199173,
       "word": "汪苏泷唱氧气",
       "onboard_time": 1720755078,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194775,
-      "num": 194775,
-      "word": "抓娃娃",
-      "onboard_time": 1720756879,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 191928,
@@ -571,12 +603,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188664,
+      "num": 179349,
+      "word": "万家灯火没有一盏为小夭而亮",
+      "onboard_time": 1720758437,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185472,
+      "num": 178915,
+      "word": "李蓉裴文宣离婚不离家",
+      "onboard_time": 1720758318,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184417,
       "num": 137149,
       "word": "刘诗诗穿了未发布款高定",
       "onboard_time": 1720697417,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 183217,
+      "num": 183217,
+      "word": "A股",
+      "onboard_time": 1720758138,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 177910,
@@ -604,7 +660,7 @@
     },
     {
       "raw_hot": 170052,
-      "num": 170052,
+      "num": 344479,
       "word": "公交车每天挂着大蒜辣椒出发",
       "onboard_time": 1720752678,
       "rank": 28,
@@ -635,14 +691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163558,
-      "num": 163558,
-      "word": "入职后进入了不属于自己的阶层",
-      "onboard_time": 1720756997,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "子宫肌瘤有可能是吃出来的",
@@ -657,6 +705,14 @@
       "onboard_time": 1720752017,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "上市公司靠美元赚利息一年挣近3亿",
+      "onboard_time": 1720758558,
+      "rank": 36,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158595,
@@ -715,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147608,
+      "num": 147608,
+      "word": "我想看唐诡西行有错吗",
+      "onboard_time": 1720756399,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146951,
       "num": 146951,
       "word": "当大冰老师变成大冰大哥",
@@ -755,12 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137232,
-      "num": 137232,
-      "word": "我想看唐诡西行有错吗",
-      "onboard_time": 1720756399,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 137131,
+      "num": 347988,
+      "word": "萝卜快跑回应网约车罢工横停马路",
+      "onboard_time": 1720757360,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136347,
@@ -777,6 +841,14 @@
       "onboard_time": 1720757300,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135956,
+      "num": 135956,
+      "word": "美国加州将实施永久性限水措施",
+      "onboard_time": 1720754778,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135745,
@@ -811,14 +883,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124786,
-      "num": 124786,
-      "word": "美国加州将实施永久性限水措施",
-      "onboard_time": 1720754778,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "谢莉杜瓦尔去世",
@@ -833,6 +897,14 @@
       "onboard_time": 1720739834,
       "rank": 18,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 122310,
+      "num": 342893,
+      "word": "红色大巴好city啊",
+      "onboard_time": 1720754717,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 121631,
@@ -857,14 +929,6 @@
       "onboard_time": 1720740075,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119538,
-      "num": 119538,
-      "word": "A股",
-      "onboard_time": 1720758138,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 117410,
@@ -971,20 +1035,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101181,
-      "num": 342893,
-      "word": "红色大巴好city啊",
-      "onboard_time": 1720754717,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100245,
       "num": 100245,
       "word": "退役警犬一路上不停打量新主人",
       "onboard_time": 1720739595,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100056,
+      "num": 511624,
+      "word": "总觉得父母不够爱自己怎么办",
+      "onboard_time": 1720756819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98981,
@@ -1179,14 +1243,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 65913,
-      "num": 347988,
-      "word": "萝卜快跑回应网约车罢工横停马路",
-      "onboard_time": 1720757360,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61631,
       "num": 61631,
       "word": "刘德华2580元门票被炒到68880元",
@@ -1209,14 +1265,6 @@
       "onboard_time": 1720712478,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 51497,
-      "num": 511624,
-      "word": "总觉得父母不够爱自己怎么办",
-      "onboard_time": 1720756819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51351,
