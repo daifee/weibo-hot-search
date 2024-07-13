@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720869399383,
+  "endTime": 1720870529659,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 968160,
-      "num": 295789,
+      "num": 300530,
       "word": "婴儿疑因月嫂护理不当呛奶死亡",
       "onboard_time": 1720866317,
       "rank": 16,
@@ -169,6 +169,14 @@
       "onboard_time": 1720797679,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 771274,
+      "num": 1123403,
+      "word": "一年半新开10万家火锅店",
+      "onboard_time": 1720865117,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769808,
@@ -233,6 +241,14 @@
       "onboard_time": 1720858995,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 659983,
+      "num": 339983,
+      "word": "张嘉元被中传录取了",
+      "onboard_time": 1720869197,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 655541,
@@ -355,14 +371,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 546865,
-      "num": 546865,
-      "word": "一年半新开10万家火锅店",
-      "onboard_time": 1720865117,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536594,
       "num": 536594,
       "word": "每天一杯饮料28岁女子血糖爆表进ICU",
@@ -377,6 +385,14 @@
       "onboard_time": 1720831576,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516754,
+      "num": 440843,
+      "word": "张志杰事件还在被踢皮球",
+      "onboard_time": 1720865837,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 515061,
@@ -451,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440843,
-      "num": 440843,
-      "word": "张志杰事件还在被踢皮球",
-      "onboard_time": 1720865837,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 436017,
       "num": 436017,
       "word": "美国人办中国签证到底有多难",
@@ -484,10 +492,18 @@
     },
     {
       "raw_hot": 402784,
-      "num": 253439,
+      "num": 275781,
       "word": "郑秀晶 上海",
       "onboard_time": 1720862597,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399714,
+      "num": 298273,
+      "word": "张九泰结婚",
+      "onboard_time": 1720868057,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381429,
+      "num": 331585,
+      "word": "长相思2疯人院vs幼儿园",
+      "onboard_time": 1720868237,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378114,
       "num": 378114,
       "word": "榨油机一夜之间销量翻4倍",
@@ -537,14 +561,6 @@
       "onboard_time": 1720833916,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 365433,
-      "num": 261470,
-      "word": "张九泰结婚",
-      "onboard_time": 1720868057,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 355087,
@@ -617,14 +633,6 @@
       "onboard_time": 1720836137,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 331585,
-      "num": 331585,
-      "word": "长相思2疯人院vs幼儿园",
-      "onboard_time": 1720868237,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 328082,
@@ -763,6 +771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 253553,
+      "num": 213951,
+      "word": "曾黎赵露思撞衫",
+      "onboard_time": 1720866377,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251595,
       "num": 251595,
       "word": "狐妖小红娘第12季定档",
@@ -777,6 +793,14 @@
       "onboard_time": 1720795459,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251141,
+      "num": 251141,
+      "word": "泰国失踪中国女子残骸疑似被找到",
+      "onboard_time": 1720869976,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247643,
@@ -979,6 +1003,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 209190,
+      "num": 209190,
+      "word": "棍铲",
+      "onboard_time": 1720869618,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207804,
       "num": 207804,
       "word": "谁家夫妻做成这模样啊",
@@ -993,6 +1025,14 @@
       "onboard_time": 1720844777,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206927,
+      "num": 206927,
+      "word": "朱志鑫苏新皓后采谈对手",
+      "onboard_time": 1720870037,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 206790,
@@ -1051,12 +1091,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199315,
-      "num": 199315,
-      "word": "曾黎赵露思撞衫",
-      "onboard_time": 1720866377,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 198495,
+      "num": 197728,
+      "word": "青春芒果夜",
+      "onboard_time": 1720869797,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196520,
+      "num": 196520,
+      "word": "电影抓娃娃口碑",
+      "onboard_time": 1720868297,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 195416,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1720837037,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185356,
+      "num": 185356,
+      "word": "张子墨舞台",
+      "onboard_time": 1720870158,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 185220,
@@ -1225,14 +1281,6 @@
       "onboard_time": 1720848797,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175745,
-      "num": 175745,
-      "word": "电影抓娃娃口碑",
-      "onboard_time": 1720868297,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 173981,
@@ -1499,6 +1547,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148716,
+      "num": 184709,
+      "word": "96岁著名物理化学家张存浩逝世",
+      "onboard_time": 1720867578,
+      "rank": 34,
+      "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 148684,
+      "num": 148684,
+      "word": "东北小镇承包了全球四分之一的泳装",
+      "onboard_time": 1720870158,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148592,
       "num": 148592,
       "word": "崔永熙与中国男篮交手",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1720835057,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 147076,
-      "num": 147076,
-      "word": "96岁著名物理化学家张存浩逝世",
-      "onboard_time": 1720867578,
-      "rank": 34,
-      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 146507,
@@ -1723,14 +1779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131443,
-      "num": 131443,
-      "word": "张嘉元被中传录取了",
-      "onboard_time": 1720869197,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131175,
       "num": 131175,
       "word": "唐尚珺称等下一批次投档",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1720784238,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 129689,
+      "num": 129689,
+      "word": "斗破苍穹",
+      "onboard_time": 1720869797,
+      "rank": 41,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 129537,
@@ -1891,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121480,
+      "num": 121480,
+      "word": "爱奇艺限制投屏案原告上诉",
+      "onboard_time": 1720867697,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121013,
       "num": 121013,
       "word": "同事向我展示了她花两千学的蝶泳",
@@ -2003,7 +2067,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114729,
+      "raw_hot": 115176,
       "num": 242179,
       "word": "女生用10年从专科成功逆袭博士",
       "onboard_time": 1720863558,
@@ -2025,14 +2089,6 @@
       "onboard_time": 1720831337,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 113474,
-      "num": 113474,
-      "word": "爱奇艺限制投屏案原告上诉",
-      "onboard_time": 1720867697,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 113362,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1720857617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107824,
+      "num": 107824,
+      "word": "十幅古画打卡长江淮河两岸",
+      "onboard_time": 1720869797,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 106947,
@@ -2196,7 +2260,7 @@
     },
     {
       "raw_hot": 95990,
-      "num": 95990,
+      "num": 296924,
       "word": "四川人连面都这么会吃",
       "onboard_time": 1720866797,
       "rank": 48,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1720826833,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68202,
+      "num": 299870,
+      "word": "美国曹操讲90年代北京一天的生活",
+      "onboard_time": 1720868418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63577,
@@ -2499,14 +2571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 43594,
-      "num": 299870,
-      "word": "美国曹操讲90年代北京一天的生活",
-      "onboard_time": 1720868418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42504,
       "num": 423588,
       "word": "全新极氪009来了",
@@ -2555,7 +2619,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38527,
+      "raw_hot": 39768,
       "num": 590184,
       "word": "三中全会是个什么会",
       "onboard_time": 1720855816,
