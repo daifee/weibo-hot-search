@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720865949215,
+  "endTime": 1720866924192,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -1931,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 751497,
+      "num": 1120239,
+      "word": "张新成好像和妈妈不熟",
+      "onboard_time": 1720862116,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 749168,
       "num": 749168,
       "word": "涂山璟台词",
@@ -2179,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690151,
+      "num": 381985,
+      "word": "萝卜快跑或成最体面的网约车司机",
+      "onboard_time": 1720861219,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 688781,
       "num": 688781,
       "word": "娜扎 我就是一个正常的女性",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1720307833,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 673221,
-      "num": 1107715,
-      "word": "张新成好像和妈妈不熟",
-      "onboard_time": 1720862116,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 672963,
@@ -2609,14 +2617,6 @@
       "onboard_time": 1720322297,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617358,
-      "num": 381985,
-      "word": "萝卜快跑或成最体面的网约车司机",
-      "onboard_time": 1720861219,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 616681,
@@ -6060,7 +6060,7 @@
     },
     {
       "raw_hot": 322233,
-      "num": 230057,
+      "num": 278991,
       "word": "孙颖莎全红婵你俩在聊啥",
       "onboard_time": 1720864097,
       "rank": 15,
@@ -7947,6 +7947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230323,
+      "num": 199677,
+      "word": "肖战得闲谨制围读上班路透",
+      "onboard_time": 1720864697,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230285,
       "num": 375610,
       "word": "中方回应美所谓促进解决藏中争议法案",
@@ -8201,6 +8209,14 @@
       "onboard_time": 1720521617,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220602,
+      "num": 220602,
+      "word": "婴儿疑因月嫂护理不当呛奶死亡",
+      "onboard_time": 1720866317,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220303,
@@ -9291,6 +9307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199610,
+      "num": 199610,
+      "word": "一年半新开10万家火锅店",
+      "onboard_time": 1720865117,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199316,
       "num": 199316,
       "word": "时代少年团直播",
@@ -9409,14 +9433,6 @@
       "onboard_time": 1720525338,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197216,
-      "num": 197216,
-      "word": "肖战得闲谨制围读上班路透",
-      "onboard_time": 1720864697,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 197043,
@@ -10547,6 +10563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179738,
+      "num": 179738,
+      "word": "曾黎赵露思撞衫",
+      "onboard_time": 1720866377,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179523,
       "num": 179523,
       "word": "俄语翻译三天半的收入有多少",
@@ -11032,6 +11056,14 @@
       "word": "周深布达佩斯街头唱美声",
       "onboard_time": 1720700239,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172489,
+      "num": 172489,
+      "word": "李明德自曝是Capper粉丝",
+      "onboard_time": 1720864516,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -12387,6 +12419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153705,
+      "num": 153705,
+      "word": "张志杰事件还在被踢皮球",
+      "onboard_time": 1720865837,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153703,
       "num": 153703,
       "word": "公婆50岁就开始养老了",
@@ -12536,14 +12576,6 @@
       "word": "歌手第十期演唱预测",
       "onboard_time": 1720684760,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151232,
-      "num": 151232,
-      "word": "李明德自曝是Capper粉丝",
-      "onboard_time": 1720864516,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -14627,6 +14659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124972,
+      "num": 124972,
+      "word": "Newjeans再跳Hype boy",
+      "onboard_time": 1720864997,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124961,
       "num": 359145,
       "word": "文体局回应游客被收398元过沟费",
@@ -14729,14 +14769,6 @@
       "onboard_time": 1720281438,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123934,
-      "num": 123934,
-      "word": "Newjeans再跳Hype boy",
-      "onboard_time": 1720864997,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 123925,
@@ -14915,6 +14947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121853,
+      "num": 121853,
+      "word": "出汗能帮身体排毒是严重误区",
+      "onboard_time": 1720863077,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121829,
       "num": 121829,
       "word": "杨紫说长相思2哭得最多",
@@ -14945,14 +14985,6 @@
       "onboard_time": 1720530978,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121384,
-      "num": 121384,
-      "word": "出汗能帮身体排毒是严重误区",
-      "onboard_time": 1720863077,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121370,
@@ -15243,14 +15275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117241,
-      "num": 117241,
-      "word": "一年半新开10万家火锅店",
-      "onboard_time": 1720865117,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117228,
       "num": 117228,
       "word": "玱玹千夫的爱",
@@ -15361,6 +15385,14 @@
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116034,
+      "num": 116034,
+      "word": "周深演唱会真的在场场升级",
+      "onboard_time": 1720865958,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 115975,
@@ -15481,6 +15513,14 @@
       "onboard_time": 1720603879,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114729,
+      "num": 242179,
+      "word": "女生用10年从专科成功逆袭博士",
+      "onboard_time": 1720863558,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 114584,
@@ -16603,14 +16643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99780,
-      "num": 99780,
-      "word": "女生用10年从专科成功逆袭博士",
-      "onboard_time": 1720863558,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99321,
       "num": 1030779,
       "word": "在巴黎的夏天遇见最美中国红",
@@ -16795,12 +16827,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96085,
+      "num": 96085,
+      "word": "那英拿下第一直奔芒果夜彩排",
+      "onboard_time": 1720866258,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96044,
       "num": 96044,
       "word": "KSG对战TTG",
       "onboard_time": 1720348518,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95990,
+      "num": 95990,
+      "word": "四川人连面都这么会吃",
+      "onboard_time": 1720866797,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 95941,
@@ -17233,14 +17281,6 @@
       "onboard_time": 1720619300,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82904,
-      "num": 96664,
-      "word": "张志杰事件还在被踢皮球",
-      "onboard_time": 1720865837,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 82629,
@@ -18475,6 +18515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49274,
+      "num": 272189,
+      "word": "网信办整治暑期未成年人网络环境",
+      "onboard_time": 1720864819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49106,
       "num": 299962,
       "word": "iQOO这回Buff叠满了",
@@ -19203,6 +19251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33707,
+      "num": 144173,
+      "word": "尼日利亚一学校坍塌152人伤亡",
+      "onboard_time": 1720866317,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33004,
       "num": 33004,
       "word": "半决赛场场神仙球",
@@ -19585,14 +19641,6 @@
       "onboard_time": 1720432818,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 24940,
-      "num": 272189,
-      "word": "网信办整治暑期未成年人网络环境",
-      "onboard_time": 1720864819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24870,

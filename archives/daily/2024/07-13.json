@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720865949215,
+  "endTime": 1720866924192,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -187,12 +187,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 751497,
+      "num": 1120239,
+      "word": "张新成好像和妈妈不熟",
+      "onboard_time": 1720862116,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740535,
       "num": 740535,
       "word": "歌手收视率",
       "onboard_time": 1720846277,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690151,
+      "num": 381985,
+      "word": "萝卜快跑或成最体面的网约车司机",
+      "onboard_time": 1720861219,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 679728,
@@ -209,14 +225,6 @@
       "onboard_time": 1720858995,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 673221,
-      "num": 1107715,
-      "word": "张新成好像和妈妈不熟",
-      "onboard_time": 1720862116,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 655541,
@@ -249,14 +257,6 @@
       "onboard_time": 1720847537,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 617358,
-      "num": 381985,
-      "word": "萝卜快跑或成最体面的网约车司机",
-      "onboard_time": 1720861219,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 606137,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 322233,
-      "num": 230057,
+      "num": 278991,
       "word": "孙颖莎全红婵你俩在聊啥",
       "onboard_time": 1720864097,
       "rank": 15,
@@ -811,6 +811,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 230323,
+      "num": 199677,
+      "word": "肖战得闲谨制围读上班路透",
+      "onboard_time": 1720864697,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230285,
       "num": 375610,
       "word": "中方回应美所谓促进解决藏中争议法案",
@@ -848,6 +856,14 @@
       "word": "萝卜快跑不仅仅是冲击了就业",
       "onboard_time": 1720864158,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220602,
+      "num": 220602,
+      "word": "婴儿疑因月嫂护理不当呛奶死亡",
+      "onboard_time": 1720866317,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -995,12 +1011,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197216,
-      "num": 197216,
-      "word": "肖战得闲谨制围读上班路透",
-      "onboard_time": 1720864697,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 199610,
+      "num": 199610,
+      "word": "一年半新开10万家火锅店",
+      "onboard_time": 1720865117,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195416,
@@ -1131,6 +1147,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 179738,
+      "num": 179738,
+      "word": "曾黎赵露思撞衫",
+      "onboard_time": 1720866377,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178703,
       "num": 178703,
       "word": "五十公里桃花坞",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1720845858,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172489,
+      "num": 172489,
+      "word": "李明德自曝是Capper粉丝",
+      "onboard_time": 1720864516,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 171628,
@@ -1355,20 +1387,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153705,
+      "num": 153705,
+      "word": "张志杰事件还在被踢皮球",
+      "onboard_time": 1720865837,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151555,
       "num": 151555,
       "word": "对象哪些行为你忍不了",
       "onboard_time": 1720858458,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151232,
-      "num": 151232,
-      "word": "李明德自曝是Capper粉丝",
-      "onboard_time": 1720864516,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 151174,
@@ -1723,20 +1755,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124972,
+      "num": 124972,
+      "word": "Newjeans再跳Hype boy",
+      "onboard_time": 1720864997,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124894,
       "num": 124894,
       "word": "拆卡直播间半年狂揽2.78亿",
       "onboard_time": 1720827255,
       "rank": 29,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 123934,
-      "num": 123934,
-      "word": "Newjeans再跳Hype boy",
-      "onboard_time": 1720864997,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 123103,
@@ -1755,8 +1787,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121384,
-      "num": 121384,
+      "raw_hot": 121853,
+      "num": 121853,
       "word": "出汗能帮身体排毒是严重误区",
       "onboard_time": 1720863077,
       "rank": 48,
@@ -1819,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117241,
-      "num": 117241,
-      "word": "一年半新开10万家火锅店",
-      "onboard_time": 1720865117,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117228,
       "num": 117228,
       "word": "玱玹千夫的爱",
@@ -1859,12 +1883,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 116034,
+      "num": 116034,
+      "word": "周深演唱会真的在场场升级",
+      "onboard_time": 1720865958,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115232,
       "num": 115232,
       "word": "三火",
       "onboard_time": 1720863677,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114729,
+      "num": 242179,
+      "word": "女生用10年从专科成功逆袭博士",
+      "onboard_time": 1720863558,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 113707,
@@ -2003,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99780,
-      "num": 99780,
-      "word": "女生用10年从专科成功逆袭博士",
-      "onboard_time": 1720863558,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99321,
       "num": 1030779,
       "word": "在巴黎的夏天遇见最美中国红",
@@ -2041,6 +2073,22 @@
       "onboard_time": 1720852638,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96085,
+      "num": 96085,
+      "word": "那英拿下第一直奔芒果夜彩排",
+      "onboard_time": 1720866258,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95990,
+      "num": 95990,
+      "word": "四川人连面都这么会吃",
+      "onboard_time": 1720866797,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 92813,
@@ -2089,14 +2137,6 @@
       "onboard_time": 1720791500,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82904,
-      "num": 96664,
-      "word": "张志杰事件还在被踢皮球",
-      "onboard_time": 1720865837,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 81681,
@@ -2283,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49274,
+      "num": 272189,
+      "word": "网信办整治暑期未成年人网络环境",
+      "onboard_time": 1720864819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48020,
       "num": 227997,
       "word": "今年竟然是AI在教我祛湿",
@@ -2411,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33707,
+      "num": 144173,
+      "word": "尼日利亚一学校坍塌152人伤亡",
+      "onboard_time": 1720866317,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28922,
       "num": 407327,
       "word": "业内称无人驾驶冲击传统出行至少5年后",
@@ -2441,14 +2497,6 @@
       "onboard_time": 1720850596,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24940,
-      "num": 272189,
-      "word": "网信办整治暑期未成年人网络环境",
-      "onboard_time": 1720864819,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22354,
