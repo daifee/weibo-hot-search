@@ -1,7 +1,23 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720910103531,
+  "endTime": 1720912706160,
   "band_list": [
+    {
+      "raw_hot": 1650124,
+      "num": 1650124,
+      "word": "特朗普右耳有血迹",
+      "onboard_time": 1720911913,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1626951,
+      "num": 1626951,
+      "word": "枪声响起特朗普撤离演讲台",
+      "onboard_time": 1720911913,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1467557,
       "num": 1467557,
@@ -17,6 +33,14 @@
       "onboard_time": 1720880780,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730491,
+      "num": 730491,
+      "word": "特朗普",
+      "onboard_time": 1720911852,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 593826,
@@ -171,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162207,
+      "num": 143738,
+      "word": "老人要报40元团4天3晚游桂林",
+      "onboard_time": 1720911732,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152364,
       "num": 258075,
       "word": "高铁怎么还有这么坐的啊",
@@ -284,11 +316,19 @@
     },
     {
       "raw_hot": 113251,
-      "num": 45323,
+      "num": 51017,
       "word": "729 CV",
       "onboard_time": 1720895172,
       "rank": 34,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 109840,
+      "num": 109840,
+      "word": "黄景瑜身材",
+      "onboard_time": 1720895293,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109126,
@@ -339,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89771,
+      "num": 69011,
+      "word": "身体湿气重是什么感觉",
+      "onboard_time": 1720911673,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78157,
       "num": 256225,
       "word": "萝卜快跑或成最体面的网约车司机",
@@ -347,12 +395,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 77700,
-      "num": 46583,
-      "word": "黄景瑜身材",
-      "onboard_time": 1720895293,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 77657,
+      "num": 77657,
+      "word": "薛之谦超话",
+      "onboard_time": 1720912513,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 77012,
@@ -385,6 +433,14 @@
       "onboard_time": 1720852817,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68854,
+      "num": 68854,
+      "word": "度华年",
+      "onboard_time": 1720912392,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 66150,
@@ -435,11 +491,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59710,
+      "num": 59710,
+      "word": "香奈儿官方发王一博",
+      "onboard_time": 1720912333,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58701,
       "num": 255542,
       "word": "00后从警不到一年连救2人",
       "onboard_time": 1720885999,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57554,
+      "num": 57554,
+      "word": "云南牛奶自带插孔吸管震惊北方人",
+      "onboard_time": 1720912694,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -515,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36512,
+      "num": 43937,
+      "word": "迪丽热巴周末街边随拍",
+      "onboard_time": 1720907352,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31641,
       "num": 113504,
       "word": "AG对战DRG",
@@ -523,20 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23919,
-      "num": 40773,
+      "raw_hot": 28332,
+      "num": 43666,
       "word": "重庆一外公晒出和外孙女合照",
       "onboard_time": 1720896613,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22807,
-      "num": 40750,
-      "word": "迪丽热巴周末街边随拍",
-      "onboard_time": 1720907352,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 20272,
@@ -603,6 +675,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 15901,
+      "num": 1005016,
+      "word": "微观中国深改之变",
+      "onboard_time": 1720875318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13523,
+      "num": 145072,
+      "word": "共富工坊帮蚕农结出黄金茧",
+      "onboard_time": 1720911732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12041,
       "num": 108312,
       "word": "宝妈为女儿定制18年的成长记忆",
@@ -617,14 +705,6 @@
       "onboard_time": 1720901349,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11771,
-      "num": 432822,
-      "word": "微观中国深改之变",
-      "onboard_time": 1720875318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8501,

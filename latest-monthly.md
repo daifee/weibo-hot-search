@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 06:35:03
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 07:18:26
 </p>
 </blockquote>
 <p>
@@ -459,6 +459,12 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E8%80%B3%E6%9C%89%E8%A1%80%E8%BF%B9%23" target="weibo">
+特朗普右耳有血迹（热度：1650124）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90%20%E6%92%A4%E6%A1%A3%E5%8E%9F%E5%9B%A0%23" target="weibo">
 野孩子 撤档原因（热度：1644242）
 </a>
@@ -479,6 +485,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%81%9C%E9%81%93%E6%AD%89%E7%9A%84%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 不停道歉的东方甄选怎么了（热度：1627344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%A3%B0%E5%93%8D%E8%B5%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%92%A4%E7%A6%BB%E6%BC%94%E8%AE%B2%E5%8F%B0%23" target="weibo">
+枪声响起特朗普撤离演讲台（热度：1626951）
 </a>
 </li>
 
@@ -2963,6 +2975,12 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E9%99%A4%E4%BA%86%E5%89%AA%E7%A7%8B%E4%B8%80%E4%B8%AA%E5%AE%AB%E5%A5%B3%E4%B8%8D%E8%AE%A4%E8%AF%86%23" target="weibo">
 蔡少芬除了剪秋一个宫女不认识（热度：733338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：730491）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Jennie新歌对嘴cha（热度：459676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C%23" target="weibo">
 A股超4800只个股下跌（热度：459501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%AF%84%E5%88%86%23" target="weibo">
-你好星期六评分（热度：459056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E8%AF%B4%E5%86%85%E8%A3%A4%E5%89%8D%E7%9A%84%E8%9D%B4%E8%9D%B6%E7%BB%93%E8%BF%99%E4%B9%88%E6%9C%89%E7%94%A8%23" target="weibo">
-第一次听说内裤前的蝴蝶结这么有用（热度：458379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA22%E5%B9%B4%E7%BE%8E%E5%9B%BD%E7%99%BB%E5%B1%B1%E8%80%85%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23" target="weibo">
-失踪22年美国登山者遗体被找到（热度：457623）
 </a>
 </li>
 

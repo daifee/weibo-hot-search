@@ -1,0 +1,410 @@
+{
+  "runTime": 1720912706160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1650124,
+        "num": 1650124,
+        "word": "特朗普右耳有血迹",
+        "onboard_time": 1720911913,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1626951,
+        "num": 1626951,
+        "word": "枪声响起特朗普撤离演讲台",
+        "onboard_time": 1720911913,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15901,
+        "num": 1005016,
+        "word": "微观中国深改之变",
+        "onboard_time": 1720875318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730491,
+        "num": 730491,
+        "word": "特朗普",
+        "onboard_time": 1720911852,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396169,
+        "num": 396169,
+        "word": "有人工资卡转账额度被降到500元",
+        "onboard_time": 1720880780,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254655,
+        "num": 254655,
+        "word": "疑在泰被撕票中国女子最后监控画面",
+        "onboard_time": 1720871418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249212,
+        "num": 249212,
+        "word": "女孩",
+        "onboard_time": 1720882159,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180538,
+        "num": 180538,
+        "word": "第一次这么心疼一个剧的反派",
+        "onboard_time": 1720872978,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152027,
+        "num": 152027,
+        "word": "李宇春一晚四套高定全球首穿",
+        "onboard_time": 1720880840,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13523,
+        "num": 145072,
+        "word": "共富工坊帮蚕农结出黄金茧",
+        "onboard_time": 1720911732,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162207,
+        "num": 143738,
+        "word": "老人要报40元团4天3晚游桂林",
+        "onboard_time": 1720911732,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138240,
+        "num": 138240,
+        "word": "亚马尔16岁为家人买三套房",
+        "onboard_time": 1720888097,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109840,
+        "num": 109840,
+        "word": "黄景瑜身材",
+        "onboard_time": 1720895293,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108356,
+        "num": 108356,
+        "word": "王玉雯王子奇四搭",
+        "onboard_time": 1720883779,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104054,
+        "num": 104054,
+        "word": "韩廷办公室的床",
+        "onboard_time": 1720882519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86546,
+        "num": 86546,
+        "word": "度华年男二戏份",
+        "onboard_time": 1720891335,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77657,
+        "num": 77657,
+        "word": "薛之谦超话",
+        "onboard_time": 1720912513,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74100,
+        "num": 74100,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720875197,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59681,
+        "num": 73749,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51080,
+        "num": 72276,
+        "word": "宫颈癌复发元凶竟在丈夫身上",
+        "onboard_time": 1720872018,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 70926,
+        "word": "真的建议大家回归线下生活",
+        "onboard_time": 1720881560,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89771,
+        "num": 69011,
+        "word": "身体湿气重是什么感觉",
+        "onboard_time": 1720911673,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68854,
+        "num": 68854,
+        "word": "度华年",
+        "onboard_time": 1720912392,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61641,
+        "num": 61641,
+        "word": "香汗淋漓魏大勋",
+        "onboard_time": 1720878198,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59710,
+        "num": 59710,
+        "word": "香奈儿官方发王一博",
+        "onboard_time": 1720912333,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57554,
+        "num": 57554,
+        "word": "云南牛奶自带插孔吸管震惊北方人",
+        "onboard_time": 1720912694,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57031,
+        "num": 57031,
+        "word": "玉泽演不是猛男吗",
+        "onboard_time": 1720882159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54887,
+        "num": 54887,
+        "word": "高铁怎么还有这么坐的啊",
+        "onboard_time": 1720880720,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51940,
+        "num": 51940,
+        "word": "沈腾马丽抓娃娃首映同框",
+        "onboard_time": 1720878798,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51638,
+        "num": 51638,
+        "word": "华晨宇舞台已经NextLevel了",
+        "onboard_time": 1720888698,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51017,
+        "num": 51017,
+        "word": "729 CV",
+        "onboard_time": 1720895172,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 45503,
+        "num": 45503,
+        "word": "凯特王妃将第二次公开露面",
+        "onboard_time": 1720880598,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45472,
+        "num": 45472,
+        "word": "泰国警方称发现失踪中国女子遗体",
+        "onboard_time": 1720874657,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45272,
+        "num": 45272,
+        "word": "希林娜依高嗓子咋了",
+        "onboard_time": 1720875078,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44126,
+        "num": 44126,
+        "word": "为啥打针时有人一定要盯着针头",
+        "onboard_time": 1720890135,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43971,
+        "num": 43971,
+        "word": "肖战 重庆",
+        "onboard_time": 1720872078,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40338,
+        "num": 43962,
+        "word": "外国人对中国留学生的印象",
+        "onboard_time": 1720882700,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36512,
+        "num": 43937,
+        "word": "迪丽热巴周末街边随拍",
+        "onboard_time": 1720907352,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35154,
+        "num": 43909,
+        "word": "刘亦菲又在当GAI溜子",
+        "onboard_time": 1720882880,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35052,
+        "num": 43884,
+        "word": "陈昊宇美貌",
+        "onboard_time": 1720875018,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34878,
+        "num": 43868,
+        "word": "重庆暴雨",
+        "onboard_time": 1720878920,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32854,
+        "num": 43823,
+        "word": "沈月好可爱",
+        "onboard_time": 1720880780,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31849,
+        "num": 43803,
+        "word": "81部网络小说入藏国家版本馆",
+        "onboard_time": 1720891393,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 30061,
+        "num": 43771,
+        "word": "奥利回应第一名是乐华买的",
+        "onboard_time": 1720877838,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29345,
+        "num": 43756,
+        "word": "这是时代少年团演唱会吗",
+        "onboard_time": 1720878198,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29041,
+        "num": 43735,
+        "word": "长沙这么热吗",
+        "onboard_time": 1720879580,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28338,
+        "num": 43717,
+        "word": "岳云鹏 薛之谦演唱会",
+        "onboard_time": 1720877059,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28337,
+        "num": 43675,
+        "word": "尚雯婕bangbang",
+        "onboard_time": 1720876279,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28332,
+        "num": 43666,
+        "word": "重庆一外公晒出和外孙女合照",
+        "onboard_time": 1720896613,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27588,
+        "num": 43633,
+        "word": "泰国失踪中国女子残骸疑似被找到",
+        "onboard_time": 1720869976,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革在不断解决问题中深化#"
+    }
+  }
+}

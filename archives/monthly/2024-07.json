@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720910103531,
+  "endTime": 1720912706160,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1650124,
+      "num": 1650124,
+      "word": "特朗普右耳有血迹",
+      "onboard_time": 1720911913,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1644242,
       "num": 1644242,
       "word": "野孩子 撤档原因",
@@ -625,6 +633,14 @@
       "onboard_time": 1720102459,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1626951,
+      "num": 1626951,
+      "word": "枪声响起特朗普撤离演讲台",
+      "onboard_time": 1720911913,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1608703,
@@ -3937,6 +3953,14 @@
       "onboard_time": 1720739896,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730491,
+      "num": 730491,
+      "word": "特朗普",
+      "onboard_time": 1720911852,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 728123,
@@ -22835,6 +22859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162207,
+      "num": 143738,
+      "word": "老人要报40元团4天3晚游桂林",
+      "onboard_time": 1720911732,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162177,
       "num": 162177,
       "word": "现在的小孩接受的不再是愧疚式教育",
@@ -30955,6 +30987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 109840,
+      "num": 109840,
+      "word": "黄景瑜身材",
+      "onboard_time": 1720895293,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109770,
       "num": 109770,
       "word": "2024全球emoji失宠榜单",
@@ -33019,6 +33059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89771,
+      "num": 69011,
+      "word": "身体湿气重是什么感觉",
+      "onboard_time": 1720911673,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89396,
       "num": 232782,
       "word": "日本富士山开始收取登山费",
@@ -33627,12 +33675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77700,
-      "num": 46583,
-      "word": "黄景瑜身材",
-      "onboard_time": 1720895293,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 77657,
+      "num": 77657,
+      "word": "薛之谦超话",
+      "onboard_time": 1720912513,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 77642,
@@ -34707,6 +34755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59710,
+      "num": 59710,
+      "word": "香奈儿官方发王一博",
+      "onboard_time": 1720912333,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59705,
       "num": 59705,
       "word": "BLG对战T1",
@@ -34873,6 +34929,14 @@
       "onboard_time": 1719915018,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 57554,
+      "num": 57554,
+      "word": "云南牛奶自带插孔吸管震惊北方人",
+      "onboard_time": 1720912694,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57468,
@@ -36547,6 +36611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36512,
+      "num": 43937,
+      "word": "迪丽热巴周末街边随拍",
+      "onboard_time": 1720907352,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36508,
       "num": 176071,
       "word": "更适合i人体质的旅游打卡",
@@ -37163,6 +37235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28332,
+      "num": 43666,
+      "word": "重庆一外公晒出和外孙女合照",
+      "onboard_time": 1720896613,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28297,
       "num": 242353,
       "word": "专家解读洞庭湖救援重点",
@@ -37611,14 +37691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23919,
-      "num": 40773,
-      "word": "重庆一外公晒出和外孙女合照",
-      "onboard_time": 1720896613,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23858,
       "num": 23858,
       "word": "网文作者真的很赚钱吗",
@@ -37729,14 +37801,6 @@
       "onboard_time": 1720501219,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22807,
-      "num": 40750,
-      "word": "迪丽热巴周末街边随拍",
-      "onboard_time": 1720907352,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 22613,
@@ -38163,6 +38227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 15901,
+      "num": 1005016,
+      "word": "微观中国深改之变",
+      "onboard_time": 1720875318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15877,
       "num": 197680,
       "word": "旅客突发疾病他掏出AED救人",
@@ -38339,6 +38411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13523,
+      "num": 145072,
+      "word": "共富工坊帮蚕农结出黄金茧",
+      "onboard_time": 1720911732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13451,
       "num": 118495,
       "word": "重庆大瓣荷花带来翻倍的莲莲好运",
@@ -38449,14 +38529,6 @@
       "onboard_time": 1720901349,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11771,
-      "num": 432822,
-      "word": "微观中国深改之变",
-      "onboard_time": 1720875318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11686,
