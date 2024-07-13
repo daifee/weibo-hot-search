@@ -1,0 +1,410 @@
+{
+  "runTime": 1720845371953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379804,
+        "num": 1379804,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162837,
+        "num": 1162837,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99321,
+        "num": 869818,
+        "word": "在巴黎的夏天遇见最美中国红",
+        "onboard_time": 1720839917,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 847400,
+        "num": 847400,
+        "word": "荣梓杉被中戏录取",
+        "onboard_time": 1720841475,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731584,
+        "num": 731584,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 683045,
+        "num": 683045,
+        "word": "北大考古毕业生就业率100%",
+        "onboard_time": 1720841777,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 632939,
+        "num": 632939,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 612543,
+        "num": 612543,
+        "word": "小夭彻底失去了相柳",
+        "onboard_time": 1720840877,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562356,
+        "num": 562356,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86341,
+        "num": 513204,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31066,
+        "num": 480575,
+        "word": "韩红祝愿中国队一路生花",
+        "onboard_time": 1720843397,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 478457,
+        "num": 478457,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475490,
+        "num": 475490,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465938,
+        "num": 465938,
+        "word": "马龙c位",
+        "onboard_time": 1720841297,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100243,
+        "num": 397904,
+        "word": "欧洲杯淘宝百亿补贴才是真绝杀",
+        "onboard_time": 1720843217,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375655,
+        "num": 375655,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24919,
+        "num": 373105,
+        "word": "全新极氪009来了",
+        "onboard_time": 1720843637,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 371908,
+        "num": 371908,
+        "word": "杨紫 生命树",
+        "onboard_time": 1720842558,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358432,
+        "num": 366612,
+        "word": "榨油机一夜之间销量翻4倍",
+        "onboard_time": 1720839737,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363439,
+        "num": 363439,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354264,
+        "num": 354264,
+        "word": "巴黎奥运中国队名单",
+        "onboard_time": 1720839438,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330785,
+        "num": 330785,
+        "word": "你好星期六全员高能甜",
+        "onboard_time": 1720838537,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330136,
+        "num": 330136,
+        "word": "撤档风吹到了电视剧圈",
+        "onboard_time": 1720832117,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48301,
+        "num": 279464,
+        "word": "中国体育代表团成立宣传片",
+        "onboard_time": 1720839977,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278008,
+        "num": 278008,
+        "word": "林俊杰恭喜那英",
+        "onboard_time": 1720841297,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244016,
+        "num": 244016,
+        "word": "种地吧",
+        "onboard_time": 1720844238,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238278,
+        "num": 238278,
+        "word": "丹东通报市监局未到午休集体离岗",
+        "onboard_time": 1720842437,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229941,
+        "num": 229941,
+        "word": "荣梓杉方回应考上中戏",
+        "onboard_time": 1720844177,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25661,
+        "num": 227997,
+        "word": "今年竟然是AI在教我祛湿",
+        "onboard_time": 1720843518,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226645,
+        "num": 226645,
+        "word": "沈马",
+        "onboard_time": 1720842678,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225049,
+        "num": 225049,
+        "word": "浙江14岁女孩确诊马斯克同款天才病",
+        "onboard_time": 1720804576,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219539,
+        "num": 219539,
+        "word": "默杀",
+        "onboard_time": 1720843697,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207271,
+        "num": 207271,
+        "word": "杨幂对接否认主演人鱼",
+        "onboard_time": 1720844777,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206502,
+        "num": 206502,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202604,
+        "num": 202604,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193562,
+        "num": 193562,
+        "word": "中国女子泰国失踪家属被勒索100万",
+        "onboard_time": 1720841236,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187031,
+        "num": 187031,
+        "word": "丁太升说孙楠绝对不能算优秀歌手",
+        "onboard_time": 1720845078,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185919,
+        "num": 185919,
+        "word": "金庸武侠世界停播争议",
+        "onboard_time": 1720833018,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177383,
+        "num": 177383,
+        "word": "gidle打歌服被吐槽",
+        "onboard_time": 1720839917,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171277,
+        "num": 171277,
+        "word": "大学生为买一双球鞋最终负债5万",
+        "onboard_time": 1720843397,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170493,
+        "num": 170493,
+        "word": "蔡依林上海抢票",
+        "onboard_time": 1720843997,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170327,
+        "num": 170327,
+        "word": "泰国女孩来中国玩到舍不得睡觉",
+        "onboard_time": 1720839558,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165525,
+        "num": 165525,
+        "word": "奥运冠军怒怼世界羽联",
+        "onboard_time": 1720842137,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158006,
+        "num": 158006,
+        "word": "为何小马宝莉卡能引人疯狂氪金",
+        "onboard_time": 1720840818,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156526,
+        "num": 156526,
+        "word": "巴黎奥运会",
+        "onboard_time": 1720841717,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156385,
+        "num": 156385,
+        "word": "恋与深空太烫了",
+        "onboard_time": 1720844837,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 148626,
+        "word": "405位中国运动员出征巴黎奥运",
+        "onboard_time": 1720838358,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145016,
+        "num": 145016,
+        "word": "哥哥交费学车后去世弟弟退款遭拒",
+        "onboard_time": 1720839856,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141546,
+        "num": 141546,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 139201,
+        "word": "那英 大众评审终于有良心了",
+        "onboard_time": 1720833137,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深改进行时#"
+    }
+  }
+}
