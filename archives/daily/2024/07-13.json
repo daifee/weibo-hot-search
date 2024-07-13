@@ -1,7 +1,15 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720838162666,
+  "endTime": 1720838713933,
   "band_list": [
+    {
+      "raw_hot": 1455090,
+      "num": 1455090,
+      "word": "千万别再给手机充一整夜电了",
+      "onboard_time": 1720830736,
+      "rank": 20,
+      "category": "数码"
+    },
     {
       "raw_hot": 1300551,
       "num": 1300551,
@@ -11,12 +19,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1218625,
-      "num": 1218625,
-      "word": "千万别再给手机充一整夜电了",
-      "onboard_time": 1720830736,
-      "rank": 20,
-      "category": "数码"
+      "raw_hot": 1246044,
+      "num": 1246044,
+      "word": "巴黎奥运中国代表团正式成立",
+      "onboard_time": 1720837097,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1147360,
@@ -67,14 +75,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 810022,
-      "num": 810022,
-      "word": "巴黎奥运中国代表团正式成立",
-      "onboard_time": 1720837097,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 787577,
       "num": 805600,
       "word": "浙江14岁女孩确诊马斯克同款天才病",
@@ -99,12 +99,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 544355,
+      "raw_hot": 583619,
       "num": 261048,
       "word": "市监局每天办公6.5小时电话无人接",
       "onboard_time": 1720834818,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553615,
+      "num": 553615,
+      "word": "金庸武侠世界停播争议",
+      "onboard_time": 1720833018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 536594,
@@ -113,14 +121,6 @@
       "onboard_time": 1720826414,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529134,
-      "num": 529134,
-      "word": "金庸武侠世界停播争议",
-      "onboard_time": 1720833018,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 516995,
@@ -161,6 +161,22 @@
       "onboard_time": 1720795099,
       "rank": 6,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 377442,
+      "num": 377442,
+      "word": "萝卜快跑",
+      "onboard_time": 1720833916,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 357372,
+      "num": 248083,
+      "word": "不能随便用小孩当屏保了",
+      "onboard_time": 1720837757,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 355087,
@@ -227,19 +243,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316764,
-      "num": 316764,
-      "word": "萝卜快跑",
-      "onboard_time": 1720833916,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 311126,
       "num": 311126,
       "word": "23年前那一声Beijing",
       "onboard_time": 1720828575,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286797,
+      "num": 286797,
+      "word": "布朗尼三分8中0",
+      "onboard_time": 1720836677,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -249,14 +265,6 @@
       "onboard_time": 1720804576,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 276894,
-      "num": 276894,
-      "word": "布朗尼三分8中0",
-      "onboard_time": 1720836677,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 271235,
@@ -307,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232378,
+      "num": 232378,
+      "word": "马斯克向特朗普捐款",
+      "onboard_time": 1720827016,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 230431,
       "num": 230431,
       "word": "意大利版沙县小吃光明正大卖预制菜",
@@ -331,20 +347,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217986,
+      "num": 217986,
+      "word": "奥运赛场闪闪发光的中国00后",
+      "onboard_time": 1720838358,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217034,
       "num": 217034,
       "word": "萝卜快跑会导致司机大规模失业吗",
       "onboard_time": 1720790540,
       "rank": 15,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 214089,
-      "num": 214089,
-      "word": "马斯克向特朗普捐款",
-      "onboard_time": 1720827016,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 207804,
@@ -371,19 +387,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200550,
+      "num": 200550,
+      "word": "你好星期六全员高能甜",
+      "onboard_time": 1720838537,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194215,
+      "num": 194215,
+      "word": "萝卜快跑安全员闭眼3秒系统会报警",
+      "onboard_time": 1720833856,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194125,
       "num": 194125,
       "word": "南京大屠杀幸存者石秀英离世",
       "onboard_time": 1720826533,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192281,
-      "num": 192281,
-      "word": "萝卜快跑安全员闭眼3秒系统会报警",
-      "onboard_time": 1720833856,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -419,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170272,
+      "num": 170272,
+      "word": "世界之外BW",
+      "onboard_time": 1720836677,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166999,
       "num": 166999,
       "word": "薛之谦演唱会嘉宾是陈伟霆",
@@ -433,14 +465,6 @@
       "onboard_time": 1720827735,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163849,
-      "num": 163849,
-      "word": "世界之外BW",
-      "onboard_time": 1720836677,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 162356,
@@ -473,6 +497,14 @@
       "onboard_time": 1720799058,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "女子自认年轻冒用16岁女儿证件入境",
+      "onboard_time": 1720838597,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151174,
@@ -531,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142448,
+      "num": 142448,
+      "word": "405位中国运动员出征巴黎奥运",
+      "onboard_time": 1720838358,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141487,
       "num": 141487,
       "word": "林俊杰点赞那英裹着心的光",
@@ -547,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140445,
-      "num": 140445,
-      "word": "不能随便用小孩当屏保了",
-      "onboard_time": 1720837757,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "考古学家在河南发现了9000年前的爱情",
@@ -569,6 +601,14 @@
       "onboard_time": 1720831157,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 135910,
+      "num": 135910,
+      "word": "印尼羽协要求世界羽联承担责任",
+      "onboard_time": 1720838417,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 132813,
@@ -739,20 +779,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117133,
+      "num": 117133,
+      "word": "金毛 我这该死的灵敏嗅觉啊",
+      "onboard_time": 1720837277,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116077,
       "num": 116077,
       "word": "护士高温天跪地救人双膝都磨破",
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 113730,
-      "num": 113730,
-      "word": "金毛 我这该死的灵敏嗅觉啊",
-      "onboard_time": 1720837277,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 113569,
@@ -859,6 +899,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 78533,
+      "num": 499398,
+      "word": "男孩请女同学来家玩一刻没闲着",
+      "onboard_time": 1720836916,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75977,
       "num": 113634,
       "word": "王健林7月连卖3座万达广场",
@@ -913,14 +961,6 @@
       "onboard_time": 1720805954,
       "rank": 30,
       "category": "体育,国外时政"
-    },
-    {
-      "raw_hot": 62941,
-      "num": 499398,
-      "word": "男孩请女同学来家玩一刻没闲着",
-      "onboard_time": 1720836916,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61353,
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36574,
+      "num": 471897,
+      "word": "各地文博单位增编考古人才缺口大",
+      "onboard_time": 1720838417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35799,
       "num": 35799,
       "word": "小车侧翻四车神同步停车救人",
@@ -1083,6 +1131,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 15791,
+      "num": 114283,
+      "word": "哥伦比亚海域沉船事故1死9失踪",
+      "onboard_time": 1720838177,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15561,
       "num": 22241,
       "word": "恋与深空 BW无料",
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 8219,
-      "num": 998890,
+      "num": 1069241,
       "word": "洪水中这些身影是安全感的来源",
       "onboard_time": 1720788019,
       "rank": 2,

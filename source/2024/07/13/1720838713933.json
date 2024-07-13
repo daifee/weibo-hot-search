@@ -1,0 +1,410 @@
+{
+  "runTime": 1720838713933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455090,
+        "num": 1455090,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1246044,
+        "num": 1246044,
+        "word": "巴黎奥运中国代表团正式成立",
+        "onboard_time": 1720837097,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7650,
+        "num": 1069241,
+        "word": "洪水中这些身影是安全感的来源",
+        "onboard_time": 1720788019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996570,
+        "num": 996570,
+        "word": "撤档风吹到了电视剧圈",
+        "onboard_time": 1720832117,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 843112,
+        "num": 843112,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695670,
+        "num": 695670,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 602675,
+        "num": 602675,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553615,
+        "num": 553615,
+        "word": "金庸武侠世界停播争议",
+        "onboard_time": 1720833018,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513890,
+        "num": 513890,
+        "word": "浙江14岁女孩确诊马斯克同款天才病",
+        "onboard_time": 1720804576,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36574,
+        "num": 471897,
+        "word": "各地文博单位增编考古人才缺口大",
+        "onboard_time": 1720838417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466379,
+        "num": 466379,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377442,
+        "num": 377442,
+        "word": "萝卜快跑",
+        "onboard_time": 1720833916,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353682,
+        "num": 353682,
+        "word": "那英 大众评审终于有良心了",
+        "onboard_time": 1720833137,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312938,
+        "num": 312938,
+        "word": "每天一杯饮料28岁女子血糖爆表进ICU",
+        "onboard_time": 1720826414,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302279,
+        "num": 302279,
+        "word": "刘诗诗北舞严选",
+        "onboard_time": 1720836137,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291697,
+        "num": 291697,
+        "word": "韩国男子被困电梯水淹身亡",
+        "onboard_time": 1720831576,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286797,
+        "num": 286797,
+        "word": "布朗尼三分8中0",
+        "onboard_time": 1720836677,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268395,
+        "num": 268395,
+        "word": "李晨 后继有人",
+        "onboard_time": 1720798339,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262937,
+        "num": 262937,
+        "word": "恋与深空BW",
+        "onboard_time": 1720836137,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261008,
+        "num": 261008,
+        "word": "福宝没认出姜爷爷",
+        "onboard_time": 1720792100,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583619,
+        "num": 249965,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357372,
+        "num": 248083,
+        "word": "不能随便用小孩当屏保了",
+        "onboard_time": 1720837757,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232378,
+        "num": 232378,
+        "word": "马斯克向特朗普捐款",
+        "onboard_time": 1720827016,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230040,
+        "num": 230040,
+        "word": "不要穿带洞的衣服裤子鞋子去漂流",
+        "onboard_time": 1720827434,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225549,
+        "num": 225549,
+        "word": "赵露思TikTok浏览量破120亿",
+        "onboard_time": 1720826653,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217986,
+        "num": 217986,
+        "word": "奥运赛场闪闪发光的中国00后",
+        "onboard_time": 1720838358,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200550,
+        "num": 200550,
+        "word": "你好星期六全员高能甜",
+        "onboard_time": 1720838537,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194215,
+        "num": 194215,
+        "word": "萝卜快跑安全员闭眼3秒系统会报警",
+        "onboard_time": 1720833856,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185688,
+        "num": 185688,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181499,
+        "num": 181499,
+        "word": "那些纹美瞳线的人现在都怎么样了",
+        "onboard_time": 1720837037,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176986,
+        "num": 176986,
+        "word": "6月新增新冠死亡病例5例",
+        "onboard_time": 1720827255,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170272,
+        "num": 170272,
+        "word": "世界之外BW",
+        "onboard_time": 1720836677,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162555,
+        "num": 162555,
+        "word": "网剧错位",
+        "onboard_time": 1720830557,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78533,
+        "num": 156830,
+        "word": "男孩请女同学来家玩一刻没闲着",
+        "onboard_time": 1720836916,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155944,
+        "num": 155944,
+        "word": "迪丽热巴扛住了顶光",
+        "onboard_time": 1720830676,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142448,
+        "num": 142448,
+        "word": "405位中国运动员出征巴黎奥运",
+        "onboard_time": 1720838358,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137020,
+        "num": 137020,
+        "word": "月经周期21天比35天衰老更快吗",
+        "onboard_time": 1720804576,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135910,
+        "num": 135910,
+        "word": "印尼羽协要求世界羽联承担责任",
+        "onboard_time": 1720838417,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132876,
+        "num": 132876,
+        "word": "香港新房跌穿2015年价格",
+        "onboard_time": 1720834457,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131475,
+        "num": 131475,
+        "word": "薛之谦演唱会嘉宾是陈伟霆",
+        "onboard_time": 1720827195,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 129004,
+        "word": "巴黎奥运中国运动员平均25岁",
+        "onboard_time": 1720837157,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124335,
+        "num": 124335,
+        "word": "人鱼已杀青",
+        "onboard_time": 1720826294,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123398,
+        "num": 123398,
+        "word": "亲戚以为读了研究生一个月工资得2万",
+        "onboard_time": 1720827735,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120145,
+        "num": 120145,
+        "word": "女子醉驾被查坐地拖延遭儿子怒斥",
+        "onboard_time": 1720834037,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 117133,
+        "word": "金毛 我这该死的灵敏嗅觉啊",
+        "onboard_time": 1720837277,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117036,
+        "num": 117036,
+        "word": "周深演唱会",
+        "onboard_time": 1720836557,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116779,
+        "num": 116779,
+        "word": "谁在对拆卡直播间上头",
+        "onboard_time": 1720835057,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15791,
+        "num": 114283,
+        "word": "哥伦比亚海域沉船事故1死9失踪",
+        "onboard_time": 1720838177,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111917,
+        "num": 111917,
+        "word": "那英第一",
+        "onboard_time": 1720792880,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见瓦努阿图总理萨尔维#"
+    }
+  }
+}
