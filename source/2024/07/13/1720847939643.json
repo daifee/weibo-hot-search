@@ -1,0 +1,410 @@
+{
+  "runTime": 1720847939643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215730,
+        "num": 1215730,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861238,
+        "num": 861238,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79793,
+        "num": 753807,
+        "word": "在巴黎的夏天遇见最美中国红",
+        "onboard_time": 1720839917,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751751,
+        "num": 751751,
+        "word": "北大考古毕业生就业率100%",
+        "onboard_time": 1720841777,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 740535,
+        "num": 740535,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639934,
+        "num": 639934,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 648758,
+        "num": 618423,
+        "word": "荣梓杉被中戏录取",
+        "onboard_time": 1720841475,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574381,
+        "num": 574381,
+        "word": "小夭彻底失去了相柳",
+        "onboard_time": 1720840877,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521792,
+        "num": 521792,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 515686,
+        "word": "405位中国运动员出征巴黎奥运",
+        "onboard_time": 1720838358,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547277,
+        "num": 515504,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52194,
+        "num": 513008,
+        "word": "韩红祝愿中国队一路生花",
+        "onboard_time": 1720843397,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 512333,
+        "num": 512333,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471473,
+        "num": 471473,
+        "word": "丁太升说孙楠绝对不能算优秀歌手",
+        "onboard_time": 1720845078,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424579,
+        "num": 424579,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11130,
+        "num": 423588,
+        "word": "全新极氪009来了",
+        "onboard_time": 1720843637,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 423064,
+        "num": 423064,
+        "word": "肖战为中国队出征加油",
+        "onboard_time": 1720847537,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395369,
+        "num": 395369,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389988,
+        "num": 389988,
+        "word": "全红婵孙颖莎樊振东可爱同框",
+        "onboard_time": 1720845557,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289848,
+        "num": 289848,
+        "word": "查理苏生日卡",
+        "onboard_time": 1720846877,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 595895,
+        "num": 289832,
+        "word": "女子为恢复卵巢功能连炫20多个榴莲",
+        "onboard_time": 1720847657,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297999,
+        "num": 289796,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289751,
+        "num": 289751,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286170,
+        "num": 286170,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278382,
+        "num": 278382,
+        "word": "马龙c位",
+        "onboard_time": 1720841297,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262301,
+        "num": 262301,
+        "word": "杨紫 生命树",
+        "onboard_time": 1720842558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205037,
+        "num": 205037,
+        "word": "林俊杰恭喜那英",
+        "onboard_time": 1720841297,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204827,
+        "num": 204827,
+        "word": "Lucky迷你版戚薇",
+        "onboard_time": 1720846517,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203857,
+        "num": 203857,
+        "word": "丹东通报市监局未到午休集体离岗",
+        "onboard_time": 1720842437,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203215,
+        "num": 203215,
+        "word": "巴黎奥运中国队名单",
+        "onboard_time": 1720839438,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200971,
+        "num": 200971,
+        "word": "谭松韵久别重逢赛道",
+        "onboard_time": 1720846938,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196570,
+        "num": 196570,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192485,
+        "num": 192485,
+        "word": "林高远新歌",
+        "onboard_time": 1720846637,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186563,
+        "num": 186563,
+        "word": "撤档风吹到了电视剧圈",
+        "onboard_time": 1720832117,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184318,
+        "num": 184318,
+        "word": "以闪亮之名东方赛博",
+        "onboard_time": 1720847837,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181243,
+        "num": 181243,
+        "word": "沈马",
+        "onboard_time": 1720842678,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178742,
+        "num": 178742,
+        "word": "荣梓杉方回应考上中戏",
+        "onboard_time": 1720844177,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178703,
+        "num": 178703,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1720847056,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175163,
+        "num": 175163,
+        "word": "大学生为买一双球鞋最终负债5万",
+        "onboard_time": 1720843397,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172979,
+        "num": 172979,
+        "word": "俄女驯兽师被自己驯养的熊袭击身亡",
+        "onboard_time": 1720845858,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 170506,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1720845557,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9721,
+        "num": 165108,
+        "word": "今年竟然是AI在教我祛湿",
+        "onboard_time": 1720843518,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163684,
+        "num": 163684,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158193,
+        "num": 158193,
+        "word": "种地吧",
+        "onboard_time": 1720844238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157596,
+        "num": 157596,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149779,
+        "num": 149779,
+        "word": "默杀",
+        "onboard_time": 1720843697,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149613,
+        "num": 149613,
+        "word": "国漫界意难平又来了",
+        "onboard_time": 1720847897,
+        "rank": 46,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 148824,
+        "num": 148824,
+        "word": "唯一的工伤是法令纹",
+        "onboard_time": 1720846576,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122078,
+        "num": 122078,
+        "word": "奥运冠军怒怼世界羽联",
+        "onboard_time": 1720842137,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118453,
+        "num": 118453,
+        "word": "中国女子泰国失踪家属被勒索100万",
+        "onboard_time": 1720841236,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深改进行时#"
+    }
+  }
+}

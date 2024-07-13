@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720845371953,
+  "endTime": 1720847939643,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -123,12 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 683045,
-      "num": 683045,
+      "raw_hot": 751751,
+      "num": 751751,
       "word": "北大考古毕业生就业率100%",
       "onboard_time": 1720841777,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 740535,
+      "num": 740535,
+      "word": "歌手收视率",
+      "onboard_time": 1720846277,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 679728,
@@ -153,6 +161,14 @@
       "onboard_time": 1720832717,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 595895,
+      "num": 289832,
+      "word": "女子为恢复卵巢功能连炫20多个榴莲",
+      "onboard_time": 1720847657,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595167,
@@ -211,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 512333,
+      "num": 513204,
+      "word": "情绪稳定的妈妈最怕孩子放暑假",
+      "onboard_time": 1720843818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479755,
       "num": 479755,
       "word": "巴黎奥运中国队名单",
@@ -227,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471473,
+      "num": 471473,
+      "word": "丁太升说孙楠绝对不能算优秀歌手",
+      "onboard_time": 1720845078,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444998,
       "num": 444998,
       "word": "那英 大众评审终于有良心了",
       "onboard_time": 1720833137,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423064,
+      "num": 423064,
+      "word": "肖战为中国队出征加油",
+      "onboard_time": 1720847537,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 417352,
@@ -249,6 +289,14 @@
       "onboard_time": 1720795099,
       "rank": 6,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 389988,
+      "num": 389988,
+      "word": "全红婵孙颖莎樊振东可爱同框",
+      "onboard_time": 1720845557,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 383529,
@@ -363,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289848,
+      "num": 289848,
+      "word": "查理苏生日卡",
+      "onboard_time": 1720846877,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289420,
       "num": 289420,
       "word": "樊振东全红婵再同框",
@@ -377,6 +433,14 @@
       "onboard_time": 1720836677,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286170,
+      "num": 286170,
+      "word": "抓娃娃 楚门的世界",
+      "onboard_time": 1720846758,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 280713,
@@ -563,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204827,
+      "num": 204827,
+      "word": "Lucky迷你版戚薇",
+      "onboard_time": 1720846517,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203527,
       "num": 203527,
       "word": "泰国女孩来中国玩到舍不得睡觉",
@@ -595,8 +667,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200971,
+      "num": 200971,
+      "word": "谭松韵久别重逢赛道",
+      "onboard_time": 1720846938,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197899,
-      "num": 197899,
+      "num": 515686,
       "word": "405位中国运动员出征巴黎奥运",
       "onboard_time": 1720838358,
       "rank": 36,
@@ -619,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192485,
+      "num": 192485,
+      "word": "林高远新歌",
+      "onboard_time": 1720846637,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190758,
       "num": 190758,
       "word": "四川大学公示拟撤销31个专业",
@@ -635,20 +723,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187031,
-      "num": 187031,
-      "word": "丁太升说孙楠绝对不能算优秀歌手",
-      "onboard_time": 1720845078,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185642,
       "num": 185642,
       "word": "那些纹美瞳线的人现在都怎么样了",
       "onboard_time": 1720837037,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 184318,
+      "num": 184318,
+      "word": "以闪亮之名东方赛博",
+      "onboard_time": 1720847837,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 182566,
@@ -667,6 +755,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 178703,
+      "num": 178703,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1720847056,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172979,
+      "num": 172979,
+      "word": "俄女驯兽师被自己驯养的熊袭击身亡",
+      "onboard_time": 1720845858,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171530,
       "num": 159196,
       "word": "长相思2断更",
@@ -681,6 +785,14 @@
       "onboard_time": 1720842137,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1720845557,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 170272,
@@ -785,6 +897,22 @@
       "onboard_time": 1720793600,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149613,
+      "num": 149613,
+      "word": "国漫界意难平又来了",
+      "onboard_time": 1720847897,
+      "rank": 46,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 148824,
+      "num": 148824,
+      "word": "唯一的工伤是法令纹",
+      "onboard_time": 1720846576,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 148592,
@@ -1163,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86341,
-      "num": 513204,
-      "word": "情绪稳定的妈妈最怕孩子放暑假",
-      "onboard_time": 1720843818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85630,
       "num": 118558,
       "word": "睡6小时和睡8小时区别有多大",
@@ -1299,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52194,
+      "num": 513008,
+      "word": "韩红祝愿中国队一路生花",
+      "onboard_time": 1720843397,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 49983,
       "num": 49983,
       "word": "吴谨言回应墨雨云间团综",
@@ -1339,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44189,
-      "num": 480575,
-      "word": "韩红祝愿中国队一路生花",
-      "onboard_time": 1720843397,
-      "rank": 13,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 44184,
       "num": 44018,
       "word": "不敢看第二遍的动漫",
@@ -1356,7 +1476,7 @@
     },
     {
       "raw_hot": 42504,
-      "num": 373105,
+      "num": 423588,
       "word": "全新极氪009来了",
       "onboard_time": 1720843637,
       "rank": 28,
