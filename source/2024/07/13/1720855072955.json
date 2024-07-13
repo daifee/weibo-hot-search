@@ -1,0 +1,410 @@
+{
+  "runTime": 1720855072955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1085921,
+        "num": 1173747,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732455,
+        "num": 732455,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35510,
+        "num": 690733,
+        "word": "一季度来华人数增长超3倍",
+        "onboard_time": 1720839737,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688129,
+        "num": 688129,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499405,
+        "num": 499405,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436017,
+        "num": 436017,
+        "word": "美国人办中国签证到底有多难",
+        "onboard_time": 1720851257,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 398549,
+        "num": 398549,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379316,
+        "num": 379316,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171453,
+        "num": 364228,
+        "word": "2024三伏时间表",
+        "onboard_time": 1720854137,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45764,
+        "num": 357863,
+        "word": "北京申奥成功23周年",
+        "onboard_time": 1720853117,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413634,
+        "num": 357555,
+        "word": "郑乃馨说和Bright的恋情很顺利",
+        "onboard_time": 1720850236,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353943,
+        "num": 353943,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288767,
+        "num": 288767,
+        "word": "小夭彻底失去了相柳",
+        "onboard_time": 1720840877,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281457,
+        "num": 281457,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266675,
+        "num": 266675,
+        "word": "菲律宾",
+        "onboard_time": 1720849398,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 238101,
+        "num": 238101,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232851,
+        "num": 232851,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211150,
+        "num": 211150,
+        "word": "荣梓杉被中戏录取",
+        "onboard_time": 1720841475,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179478,
+        "num": 179478,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137334,
+        "num": 137334,
+        "word": "DYG对战TKL",
+        "onboard_time": 1720853898,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24598,
+        "num": 137333,
+        "word": "下午茶就该在下午喝",
+        "onboard_time": 1720849816,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 601961,
+        "num": 137248,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209579,
+        "num": 137223,
+        "word": "张杰请继续开朗",
+        "onboard_time": 1720854435,
+        "rank": 22,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 579544,
+        "num": 137147,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421098,
+        "num": 137117,
+        "word": "张新成王玉雯认识16年",
+        "onboard_time": 1720853716,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337912,
+        "num": 137045,
+        "word": "女子为恢复卵巢功能连炫20多个榴莲",
+        "onboard_time": 1720847657,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208228,
+        "num": 136980,
+        "word": "稀有小马宝莉卡被炒到16万1张",
+        "onboard_time": 1720854017,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 136920,
+        "word": "裴文宣爱的迫降",
+        "onboard_time": 1720848797,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194273,
+        "num": 136885,
+        "word": "华晨宇南昌抢票",
+        "onboard_time": 1720854376,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103669,
+        "num": 136803,
+        "word": "巴黎奥运中国队名单",
+        "onboard_time": 1720839438,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186062,
+        "num": 136780,
+        "word": "丁太升说孙楠绝对不能算优秀歌手",
+        "onboard_time": 1720845078,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182543,
+        "num": 136733,
+        "word": "于适直播",
+        "onboard_time": 1720854556,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180674,
+        "num": 136644,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174993,
+        "num": 136624,
+        "word": "B太 从上海打车去新疆第二站",
+        "onboard_time": 1720854499,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160494,
+        "num": 136569,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155814,
+        "num": 136491,
+        "word": "度华年断更",
+        "onboard_time": 1720854435,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152314,
+        "num": 136454,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26553,
+        "num": 136379,
+        "word": "极氪009出七座版了",
+        "onboard_time": 1720850596,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145749,
+        "num": 136342,
+        "word": "王一博出发巴黎",
+        "onboard_time": 1720853476,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 136297,
+        "word": "李蓉不当扶弟姐了",
+        "onboard_time": 1720851077,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132690,
+        "num": 132690,
+        "word": "留了四年的长发卖了1100元",
+        "onboard_time": 1720853536,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 126262,
+        "word": "北大考古毕业生就业率100%",
+        "onboard_time": 1720841777,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125513,
+        "num": 125513,
+        "word": "日本俗称的食人菌是什么",
+        "onboard_time": 1720853117,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118478,
+        "num": 118478,
+        "word": "狐妖小红娘第12季定档",
+        "onboard_time": 1720848197,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116168,
+        "num": 116168,
+        "word": "otto开团mlxg",
+        "onboard_time": 1720855036,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115604,
+        "num": 115604,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114763,
+        "num": 114763,
+        "word": "DYG偏偏你最好笑",
+        "onboard_time": 1720854977,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112716,
+        "num": 112716,
+        "word": "孟子义贴脸开大不奇而玉",
+        "onboard_time": 1720854618,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105454,
+        "num": 105454,
+        "word": "这种三观真的可以",
+        "onboard_time": 1720855036,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深改进行时#"
+    }
+  }
+}
