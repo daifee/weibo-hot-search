@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720858942830,
+  "endTime": 1720859701591,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1659,6 +1659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1110991,
+      "num": 1177758,
+      "word": "交警指挥不了萝卜快跑需引起重视",
+      "onboard_time": 1720856717,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107762,
       "num": 1177242,
       "word": "李蓉怀孕",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1720342637,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 997811,
-      "num": 997811,
-      "word": "交警指挥不了萝卜快跑需引起重视",
-      "onboard_time": 1720856717,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 996553,
@@ -5603,6 +5603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570150,
+      "num": 268555,
+      "word": "一个高龄产妇一个老来得子",
+      "onboard_time": 1720857018,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570054,
       "num": 616487,
       "word": "美国2名宇航员被困太空近1个月",
@@ -5769,6 +5777,14 @@
       "onboard_time": 1720496359,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 562674,
+      "num": 269812,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1720857438,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 561954,
@@ -6393,14 +6409,6 @@
       "onboard_time": 1719883397,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 522218,
-      "num": 269812,
-      "word": "赵丽颖工作室",
-      "onboard_time": 1720857438,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 521585,
@@ -7139,6 +7147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485422,
+      "num": 485422,
+      "word": "抓娃娃彩蛋",
+      "onboard_time": 1720858995,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 485412,
       "num": 220411,
       "word": "成立调查组彻查罐车运输食用油乱象",
@@ -7617,14 +7633,6 @@
       "onboard_time": 1720243578,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463277,
-      "num": 268555,
-      "word": "一个高龄产妇一个老来得子",
-      "onboard_time": 1720857018,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 463090,
@@ -10827,6 +10835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344822,
+      "num": 267866,
+      "word": "B太 从上海打车去新疆第二站",
+      "onboard_time": 1720854499,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 344567,
       "num": 344567,
       "word": "青环5封神4分钟",
@@ -11025,14 +11041,6 @@
       "onboard_time": 1720011498,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337650,
-      "num": 267866,
-      "word": "B太 从上海打车去新疆第二站",
-      "onboard_time": 1720854499,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 336590,
@@ -13363,6 +13371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264610,
+      "num": 227558,
+      "word": "范世錡直接指出奥利的错误",
+      "onboard_time": 1720857677,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264126,
       "num": 264126,
       "word": "鞠婧祎林允撞衫",
@@ -15075,14 +15091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227558,
-      "num": 227558,
-      "word": "范世錡直接指出奥利的错误",
-      "onboard_time": 1720857677,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227549,
       "num": 227549,
       "word": "张钧甯治好了我的年龄焦虑",
@@ -15145,6 +15153,14 @@
       "onboard_time": 1719788895,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226188,
+      "num": 170082,
+      "word": "汤唯纪念结婚10周年",
+      "onboard_time": 1720859058,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 226166,
@@ -15368,6 +15384,14 @@
       "word": "王传君阿如那换赛道了",
       "onboard_time": 1720521617,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 221417,
+      "num": 168885,
+      "word": "沈腾马丽回应闯入中偶赛道",
+      "onboard_time": 1720859237,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -18019,6 +18043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195416,
+      "num": 177608,
+      "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+      "onboard_time": 1720857916,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195351,
       "num": 195351,
       "word": "胡歌发文为阿玛尼先生九十大寿庆生",
@@ -19219,14 +19251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186012,
-      "num": 177608,
-      "word": "1岁被烧伤的女孩学化妆是想有眉毛",
-      "onboard_time": 1720857916,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185962,
       "num": 185962,
       "word": "恋与深空2.0前瞻直播",
@@ -19297,6 +19321,14 @@
       "onboard_time": 1720508659,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185220,
+      "num": 174007,
+      "word": "刘忻陈昊宇浪姐后首个合作舞台",
+      "onboard_time": 1720858217,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 185199,
@@ -20568,14 +20600,6 @@
       "word": "郭晓婷特别好的朋友是刘诗诗",
       "onboard_time": 1720422980,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 174007,
-      "num": 174007,
-      "word": "刘忻陈昊宇浪姐后首个合作舞台",
-      "onboard_time": 1720858217,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -22940,7 +22964,7 @@
     },
     {
       "raw_hot": 155177,
-      "num": 155177,
+      "num": 169872,
       "word": "谢怜 红衣",
       "onboard_time": 1720855938,
       "rank": 48,
@@ -23385,6 +23409,14 @@
       "onboard_time": 1720574838,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151555,
+      "num": 151555,
+      "word": "对象哪些行为你忍不了",
+      "onboard_time": 1720858458,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 151478,
@@ -23961,6 +23993,14 @@
       "onboard_time": 1720356438,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146507,
+      "num": 173112,
+      "word": "Ning力挺xun",
+      "onboard_time": 1720858937,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 146478,
@@ -25139,6 +25179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139747,
+      "num": 139747,
+      "word": "充完电先拔手机还是插头",
+      "onboard_time": 1720856237,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139593,
       "num": 139593,
       "word": "三成大厂员工业余时间搞副业",
@@ -26291,6 +26339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132428,
+      "num": 132428,
+      "word": "一只大熊猫见到水就是一场泼水节",
+      "onboard_time": 1720859177,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132387,
       "num": 132387,
       "word": "TES电竞世界杯首秀",
@@ -27113,14 +27169,6 @@
       "onboard_time": 1719898520,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127453,
-      "num": 127453,
-      "word": "对象哪些行为你忍不了",
-      "onboard_time": 1720858458,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 127434,
@@ -29427,14 +29475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112517,
-      "num": 112517,
-      "word": "充完电先拔手机还是插头",
-      "onboard_time": 1720856237,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 112445,
       "num": 112445,
       "word": "陆虎醋King",
@@ -29673,6 +29713,14 @@
       "onboard_time": 1720664598,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110724,
+      "num": 110724,
+      "word": "间歇性厌恶伴侣是因为不爱了吗",
+      "onboard_time": 1720859598,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 110670,
@@ -30523,6 +30571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104242,
+      "num": 754331,
+      "word": "突遇暴雨你该怎么办",
+      "onboard_time": 1720856237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104189,
       "num": 104189,
       "word": "葬送的芙莉莲",
@@ -30577,14 +30633,6 @@
       "onboard_time": 1720402037,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103747,
-      "num": 754331,
-      "word": "突遇暴雨你该怎么办",
-      "onboard_time": 1720856237,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103728,
@@ -30961,6 +31009,14 @@
       "onboard_time": 1720107978,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99472,
+      "num": 270526,
+      "word": "火锅店成餐饮卷王",
+      "onboard_time": 1720857617,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99321,
@@ -33531,14 +33587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58339,
-      "num": 270526,
-      "word": "火锅店成餐饮卷王",
-      "onboard_time": 1720857617,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58328,
       "num": 391395,
       "word": "医保药品倒卖案背后的地下黑市",
@@ -33995,6 +34043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 52214,
+      "num": 267372,
+      "word": "对无人驾驶汽车不妨多些宽容",
+      "onboard_time": 1720857617,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52194,
       "num": 513008,
       "word": "韩红祝愿中国队一路生花",
@@ -34025,6 +34081,14 @@
       "onboard_time": 1720084998,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51411,
+      "num": 183731,
+      "word": "高举五星红旗送别祖国军舰",
+      "onboard_time": 1720857857,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 51351,
@@ -34947,6 +35011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39338,
+      "num": 268992,
+      "word": "奥运军团出征在线求抱抱",
+      "onboard_time": 1720856537,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39223,
       "num": 39223,
       "word": "欧洲杯不无聊了",
@@ -35337,14 +35409,6 @@
       "onboard_time": 1719854234,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34923,
-      "num": 268992,
-      "word": "奥运军团出征在线求抱抱",
-      "onboard_time": 1720856537,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 34910,
@@ -35799,14 +35863,6 @@
       "num": 280987,
       "word": "职校实习生纳入工伤保险保障范围",
       "onboard_time": 1719795798,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28335,
-      "num": 267372,
-      "word": "对无人驾驶汽车不妨多些宽容",
-      "onboard_time": 1720857617,
       "rank": 14,
       "category": "社会新闻"
     },
