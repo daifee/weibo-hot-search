@@ -1,0 +1,410 @@
+{
+  "runTime": 1720840868535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032758,
+        "num": 1165241,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1018355,
+        "num": 1018355,
+        "word": "巴黎奥运中国代表团正式成立",
+        "onboard_time": 1720837097,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38497,
+        "num": 829780,
+        "word": "在巴黎的夏天遇见最美中国红",
+        "onboard_time": 1720839917,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1141959,
+        "num": 818475,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 750160,
+        "num": 750160,
+        "word": "你好星期六全员高能甜",
+        "onboard_time": 1720838537,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736963,
+        "num": 736963,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717539,
+        "num": 717539,
+        "word": "撤档风吹到了电视剧圈",
+        "onboard_time": 1720832117,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529347,
+        "num": 529347,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528942,
+        "num": 528942,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12805,
+        "num": 488847,
+        "word": "为何小马宝莉卡能引人疯狂氪金",
+        "onboard_time": 1720840818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474326,
+        "num": 474326,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436657,
+        "num": 436657,
+        "word": "巴黎奥运中国队名单",
+        "onboard_time": 1720839438,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428305,
+        "num": 428305,
+        "word": "浙江14岁女孩确诊马斯克同款天才病",
+        "onboard_time": 1720804576,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414449,
+        "num": 414449,
+        "word": "金庸武侠世界停播争议",
+        "onboard_time": 1720833018,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12147,
+        "num": 364692,
+        "word": "业内称无人驾驶冲击传统出行至少5年后",
+        "onboard_time": 1720840818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333004,
+        "num": 333004,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303253,
+        "num": 303253,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299724,
+        "num": 299724,
+        "word": "奥运赛场闪闪发光的中国00后",
+        "onboard_time": 1720838358,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289420,
+        "num": 289420,
+        "word": "樊振东全红婵再同框",
+        "onboard_time": 1720838839,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267853,
+        "num": 267853,
+        "word": "布朗尼三分8中0",
+        "onboard_time": 1720836677,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679728,
+        "num": 264665,
+        "word": "不能随便用小孩当屏保了",
+        "onboard_time": 1720837757,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391058,
+        "num": 264318,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252469,
+        "num": 252469,
+        "word": "那英 大众评审终于有良心了",
+        "onboard_time": 1720833137,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252008,
+        "num": 252008,
+        "word": "每天一杯饮料28岁女子血糖爆表进ICU",
+        "onboard_time": 1720826414,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248662,
+        "num": 248662,
+        "word": "榨油机一夜之间销量翻4倍",
+        "onboard_time": 1720839737,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42427,
+        "num": 235942,
+        "word": "中国体育代表团成立宣传片",
+        "onboard_time": 1720839977,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 235579,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233916,
+        "num": 233916,
+        "word": "刘诗诗北舞严选",
+        "onboard_time": 1720836137,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "吴谨言王星越再现名场面",
+        "onboard_time": 1720840276,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216158,
+        "num": 216158,
+        "word": "李晨 后继有人",
+        "onboard_time": 1720798339,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204868,
+        "num": 204868,
+        "word": "萝卜快跑",
+        "onboard_time": 1720833916,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185462,
+        "num": 185462,
+        "word": "赵露思TikTok浏览量破120亿",
+        "onboard_time": 1720826653,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185082,
+        "num": 185082,
+        "word": "泰国女孩来中国玩到舍不得睡觉",
+        "onboard_time": 1720839558,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180338,
+        "num": 180338,
+        "word": "gidle打歌服被吐槽",
+        "onboard_time": 1720839917,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175382,
+        "num": 175382,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173598,
+        "num": 173598,
+        "word": "福宝没认出姜爷爷",
+        "onboard_time": 1720792100,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164410,
+        "num": 164410,
+        "word": "迪丽热巴扛住了顶光",
+        "onboard_time": 1720830676,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158369,
+        "num": 158369,
+        "word": "印尼羽协要求世界羽联承担责任",
+        "onboard_time": 1720838417,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142592,
+        "num": 142592,
+        "word": "6月新增新冠死亡病例5例",
+        "onboard_time": 1720827255,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136242,
+        "num": 136242,
+        "word": "网剧错位",
+        "onboard_time": 1720830557,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135761,
+        "num": 135761,
+        "word": "恋与深空BW",
+        "onboard_time": 1720836137,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134680,
+        "num": 134680,
+        "word": "萝卜快跑安全员闭眼3秒系统会报警",
+        "onboard_time": 1720833856,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134323,
+        "num": 134323,
+        "word": "不要穿带洞的衣服裤子鞋子去漂流",
+        "onboard_time": 1720827434,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "那些纹美瞳线的人现在都怎么样了",
+        "onboard_time": 1720837037,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133400,
+        "num": 133400,
+        "word": "哥哥交费学车后去世弟弟退款遭拒",
+        "onboard_time": 1720839856,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "马斯克向特朗普捐款",
+        "onboard_time": 1720827016,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "各地文博单位增编考古人才缺口大",
+        "onboard_time": 1720838417,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117944,
+        "num": 117944,
+        "word": "405位中国运动员出征巴黎奥运",
+        "onboard_time": 1720838358,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114303,
+        "num": 114303,
+        "word": "韩国男子被困电梯水淹身亡",
+        "onboard_time": 1720831576,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110717,
+        "num": 110717,
+        "word": "人鱼已杀青",
+        "onboard_time": 1720826294,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一本笔记体悟总书记的改革初心#"
+    }
+  }
+}

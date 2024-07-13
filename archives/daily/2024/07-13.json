@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720838713933,
+  "endTime": 1720840868535,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032758,
+      "num": 1165241,
+      "word": "航仔求婚徐老师",
+      "onboard_time": 1720834936,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 996364,
       "num": 996364,
       "word": "福宝没认出姜爷爷",
@@ -65,14 +73,6 @@
       "onboard_time": 1720830196,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 829156,
-      "num": 829156,
-      "word": "航仔求婚徐老师",
-      "onboard_time": 1720834936,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 787577,
@@ -91,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750160,
+      "num": 750160,
+      "word": "你好星期六全员高能甜",
+      "onboard_time": 1720838537,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 679728,
+      "num": 264665,
+      "word": "不能随便用小孩当屏保了",
+      "onboard_time": 1720837757,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 645799,
       "num": 645799,
       "word": "7岁的小朋友220斤",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 583619,
-      "num": 261048,
+      "num": 264318,
       "word": "市监局每天办公6.5小时电话无人接",
       "onboard_time": 1720834818,
       "rank": 43,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529347,
+      "num": 529347,
+      "word": "女子自认年轻冒用16岁女儿证件入境",
+      "onboard_time": 1720838597,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516995,
       "num": 516995,
       "word": "韩国男子被困电梯水淹身亡",
@@ -139,12 +163,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 474326,
+      "num": 474326,
+      "word": "抓娃娃",
+      "onboard_time": 1720839379,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444998,
       "num": 444998,
       "word": "那英 大众评审终于有良心了",
       "onboard_time": 1720833137,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436657,
+      "num": 436657,
+      "word": "巴黎奥运中国队名单",
+      "onboard_time": 1720839438,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 417352,
@@ -169,14 +209,6 @@
       "onboard_time": 1720833916,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 357372,
-      "num": 248083,
-      "word": "不能随便用小孩当屏保了",
-      "onboard_time": 1720837757,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 355087,
@@ -251,6 +283,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303253,
+      "num": 303253,
+      "word": "日本已有1144例食人菌感染病例",
+      "onboard_time": 1720840157,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299724,
+      "num": 299724,
+      "word": "奥运赛场闪闪发光的中国00后",
+      "onboard_time": 1720838358,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289420,
+      "num": 289420,
+      "word": "樊振东全红婵再同框",
+      "onboard_time": 1720838839,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286797,
       "num": 286797,
       "word": "布朗尼三分8中0",
@@ -291,12 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248662,
+      "num": 248662,
+      "word": "榨油机一夜之间销量翻4倍",
+      "onboard_time": 1720839737,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237731,
       "num": 237731,
       "word": "人鱼已杀青",
       "onboard_time": 1720826294,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235579,
+      "num": 235579,
+      "word": "赵丽颖南京活动",
+      "onboard_time": 1720840098,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 234569,
@@ -323,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230851,
+      "num": 230851,
+      "word": "吴谨言王星越再现名场面",
+      "onboard_time": 1720840276,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230431,
       "num": 230431,
       "word": "意大利版沙县小吃光明正大卖预制菜",
@@ -345,14 +425,6 @@
       "onboard_time": 1720827735,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217986,
-      "num": 217986,
-      "word": "奥运赛场闪闪发光的中国00后",
-      "onboard_time": 1720838358,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 217034,
@@ -387,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200550,
-      "num": 200550,
-      "word": "你好星期六全员高能甜",
-      "onboard_time": 1720838537,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194215,
       "num": 194215,
       "word": "萝卜快跑安全员闭眼3秒系统会报警",
@@ -427,12 +491,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 185082,
+      "num": 185082,
+      "word": "泰国女孩来中国玩到舍不得睡觉",
+      "onboard_time": 1720839558,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181261,
       "num": 159243,
       "word": "被土象星座伤害过的朋友来看看",
       "onboard_time": 1720797259,
       "rank": 20,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 180338,
+      "num": 180338,
+      "word": "gidle打歌服被吐槽",
+      "onboard_time": 1720839917,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 171530,
@@ -499,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158637,
-      "num": 158637,
-      "word": "女子自认年轻冒用16岁女儿证件入境",
-      "onboard_time": 1720838597,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 158369,
+      "num": 158369,
+      "word": "印尼羽协要求世界羽联承担责任",
+      "onboard_time": 1720838417,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 151174,
@@ -603,12 +683,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 135910,
-      "num": 135910,
-      "word": "印尼羽协要求世界羽联承担责任",
-      "onboard_time": 1720838417,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 133400,
+      "num": 133400,
+      "word": "哥哥交费学车后去世弟弟退款遭拒",
+      "onboard_time": 1720839856,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132813,
@@ -761,6 +841,14 @@
       "onboard_time": 1720784059,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119355,
+      "num": 471897,
+      "word": "各地文博单位增编考古人才缺口大",
+      "onboard_time": 1720838417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118497,
@@ -1043,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42427,
+      "num": 235942,
+      "word": "中国体育代表团成立宣传片",
+      "onboard_time": 1720839977,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42072,
       "num": 42072,
       "word": "和王一博一起为穿山甲点亮希望",
@@ -1059,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38497,
+      "num": 829780,
+      "word": "在巴黎的夏天遇见最美中国红",
+      "onboard_time": 1720839917,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36625,
       "num": 36625,
       "word": "那英 裹着心的光",
       "onboard_time": 1720792762,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36574,
-      "num": 471897,
-      "word": "各地文博单位增编考古人才缺口大",
-      "onboard_time": 1720838417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35799,
@@ -1155,6 +1251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12805,
+      "num": 488847,
+      "word": "为何小马宝莉卡能引人疯狂氪金",
+      "onboard_time": 1720840818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12147,
+      "num": 364692,
+      "word": "业内称无人驾驶冲击传统出行至少5年后",
+      "onboard_time": 1720840818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11377,
       "num": 17943,
       "word": "重生之我在农村上班月薪1万5",
@@ -1193,6 +1305,9 @@
     },
     {
       "word": "#习近平会见瓦努阿图总理萨尔维#"
+    },
+    {
+      "word": "#从一本笔记体悟总书记的改革初心#"
     }
   ]
 }
