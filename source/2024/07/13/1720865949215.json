@@ -1,0 +1,410 @@
+{
+  "runTime": 1720865949215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673221,
+        "num": 1107715,
+        "word": "张新成好像和妈妈不熟",
+        "onboard_time": 1720862116,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452048,
+        "num": 452048,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89739,
+        "num": 384233,
+        "word": "突遇暴雨你该怎么办",
+        "onboard_time": 1720856237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655802,
+        "num": 382980,
+        "word": "赵丽颖活动穿ES高定",
+        "onboard_time": 1720861517,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356002,
+        "num": 356002,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330352,
+        "num": 330352,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 485631,
+        "num": 326355,
+        "word": "沈腾马丽 你的名字",
+        "onboard_time": 1720859837,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 384726,
+        "num": 308728,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277445,
+        "num": 277445,
+        "word": "On回应Bin踢椅子",
+        "onboard_time": 1720861578,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24940,
+        "num": 272189,
+        "word": "网信办整治暑期未成年人网络环境",
+        "onboard_time": 1720864819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719113,
+        "num": 268922,
+        "word": "姜涩琪道歉",
+        "onboard_time": 1720861277,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694473,
+        "num": 262643,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617358,
+        "num": 255452,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402784,
+        "num": 244226,
+        "word": "郑秀晶 上海",
+        "onboard_time": 1720862597,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352211,
+        "num": 238422,
+        "word": "一个高龄产妇一个老来得子",
+        "onboard_time": 1720857018,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322233,
+        "num": 230057,
+        "word": "孙颖莎全红婵你俩在聊啥",
+        "onboard_time": 1720864097,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228600,
+        "num": 228600,
+        "word": "赛里木湖已经开始步入秋季了",
+        "onboard_time": 1720860858,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 223742,
+        "word": "沈腾马丽回应闯入中偶赛道",
+        "onboard_time": 1720859237,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222366,
+        "num": 222366,
+        "word": "萝卜快跑不仅仅是冲击了就业",
+        "onboard_time": 1720864158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152491,
+        "num": 220371,
+        "word": "中方回应美所谓促进解决藏中争议法案",
+        "onboard_time": 1720860138,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419642,
+        "num": 218998,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306303,
+        "num": 217990,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281221,
+        "num": 214857,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214284,
+        "num": 214284,
+        "word": "60岁阿姨健身20年被夸比18岁还漂亮",
+        "onboard_time": 1720862057,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197216,
+        "num": 197216,
+        "word": "肖战得闲谨制围读上班路透",
+        "onboard_time": 1720864697,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187021,
+        "num": 187021,
+        "word": "登陆日一公导师合作舞台",
+        "onboard_time": 1720865537,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184013,
+        "num": 184013,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151232,
+        "num": 151232,
+        "word": "李明德自曝是Capper粉丝",
+        "onboard_time": 1720864516,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149676,
+        "num": 149676,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149267,
+        "num": 149267,
+        "word": "孟子义说王子奇王玉雯现在是解绑",
+        "onboard_time": 1720862779,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141582,
+        "num": 141582,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136516,
+        "num": 136516,
+        "word": "稀有小马宝莉卡被炒到16万1张",
+        "onboard_time": 1720854017,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134913,
+        "num": 134913,
+        "word": "一只大熊猫见到水就是一场泼水节",
+        "onboard_time": 1720859177,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134327,
+        "num": 134327,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131175,
+        "num": 131175,
+        "word": "唐尚珺称等下一批次投档",
+        "onboard_time": 1720864577,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126341,
+        "num": 126341,
+        "word": "汤唯纪念结婚10周年",
+        "onboard_time": 1720859058,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123934,
+        "num": 123934,
+        "word": "Newjeans再跳Hype boy",
+        "onboard_time": 1720864997,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121384,
+        "num": 121384,
+        "word": "出汗能帮身体排毒是严重误区",
+        "onboard_time": 1720863077,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119120,
+        "num": 119120,
+        "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+        "onboard_time": 1720857916,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117241,
+        "num": 117241,
+        "word": "一年半新开10万家火锅店",
+        "onboard_time": 1720865117,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115232,
+        "num": 115232,
+        "word": "三火",
+        "onboard_time": 1720863677,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111348,
+        "num": 111348,
+        "word": "范世錡直接指出奥利的错误",
+        "onboard_time": 1720857677,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105236,
+        "num": 105236,
+        "word": "谁家男二前世今生无限续悲啊",
+        "onboard_time": 1720861037,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104667,
+        "num": 104667,
+        "word": "丁程鑫拍的吴谨言王星越梁永棋",
+        "onboard_time": 1720862418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99828,
+        "num": 99828,
+        "word": "姜涩琪因换鞋引发霸凌争议",
+        "onboard_time": 1720855877,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99780,
+        "num": 99780,
+        "word": "女生用10年从专科成功逆袭博士",
+        "onboard_time": 1720863558,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98698,
+        "num": 98698,
+        "word": "史彭元演技",
+        "onboard_time": 1720865596,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97848,
+        "num": 97848,
+        "word": "范世錡否认抢萧敬腾歌",
+        "onboard_time": 1720860258,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88351,
+        "num": 97772,
+        "word": "她在那36个小时的夜里看星星",
+        "onboard_time": 1720865717,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82904,
+        "num": 96664,
+        "word": "张志杰事件还在被踢皮球",
+        "onboard_time": 1720865837,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深改进行时#"
+    }
+  }
+}

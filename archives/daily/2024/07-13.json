@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720863324294,
+  "endTime": 1720865949215,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 673221,
+      "num": 1107715,
+      "word": "张新成好像和妈妈不熟",
+      "onboard_time": 1720862116,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655541,
       "num": 612543,
       "word": "小夭彻底失去了相柳",
@@ -241,6 +249,14 @@
       "onboard_time": 1720847537,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 617358,
+      "num": 381985,
+      "word": "萝卜快跑或成最体面的网约车司机",
+      "onboard_time": 1720861219,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 606137,
@@ -419,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437531,
-      "num": 400346,
-      "word": "张新成好像和妈妈不熟",
-      "onboard_time": 1720862116,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 436017,
       "num": 436017,
       "word": "美国人办中国签证到底有多难",
@@ -449,6 +457,14 @@
       "onboard_time": 1720854017,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402784,
+      "num": 244226,
+      "word": "郑秀晶 上海",
+      "onboard_time": 1720862597,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 394900,
@@ -585,6 +601,14 @@
       "onboard_time": 1720826653,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322233,
+      "num": 230057,
+      "word": "孙颖莎全红婵你俩在聊啥",
+      "onboard_time": 1720864097,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 314691,
@@ -731,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239478,
-      "num": 239478,
-      "word": "郑秀晶 上海",
-      "onboard_time": 1720862597,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237731,
       "num": 237731,
       "word": "人鱼已杀青",
@@ -811,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228600,
+      "num": 313797,
+      "word": "赛里木湖已经开始步入秋季了",
+      "onboard_time": 1720860858,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 226166,
       "num": 171779,
       "word": "迪丽热巴扛住了顶光",
       "onboard_time": 1720830676,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 222366,
+      "num": 222366,
+      "word": "萝卜快跑不仅仅是冲击了就业",
+      "onboard_time": 1720864158,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219573,
@@ -963,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197216,
+      "num": 197216,
+      "word": "肖战得闲谨制围读上班路透",
+      "onboard_time": 1720864697,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195416,
       "num": 185575,
       "word": "1岁被烧伤的女孩学化妆是想有眉毛",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1720839917,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187021,
+      "num": 187021,
+      "word": "登陆日一公导师合作舞台",
+      "onboard_time": 1720865537,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185642,
@@ -1195,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164384,
-      "num": 313797,
-      "word": "赛里木湖已经开始步入秋季了",
-      "onboard_time": 1720860858,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 164108,
       "num": 164108,
       "word": "李蓉不当扶弟姐了",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1720858458,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151232,
+      "num": 151232,
+      "word": "李明德自曝是Capper粉丝",
+      "onboard_time": 1720864516,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 151174,
@@ -1507,6 +1555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 134913,
+      "num": 398723,
+      "word": "一只大熊猫见到水就是一场泼水节",
+      "onboard_time": 1720859177,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132813,
       "num": 132813,
       "word": "周深演唱会",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1720853536,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132428,
-      "num": 398723,
-      "word": "一只大熊猫见到水就是一场泼水节",
-      "onboard_time": 1720859177,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 132281,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1720829957,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131175,
+      "num": 131175,
+      "word": "唐尚珺称等下一批次投档",
+      "onboard_time": 1720864577,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 130824,
@@ -1675,6 +1731,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 123934,
+      "num": 123934,
+      "word": "Newjeans再跳Hype boy",
+      "onboard_time": 1720864997,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123103,
       "num": 123103,
       "word": "李梦承认恋情",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1720831097,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121384,
+      "num": 121384,
+      "word": "出汗能帮身体排毒是严重误区",
+      "onboard_time": 1720863077,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121013,
@@ -1747,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117241,
+      "num": 117241,
+      "word": "一年半新开10万家火锅店",
+      "onboard_time": 1720865117,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117228,
       "num": 117228,
       "word": "玱玹千夫的爱",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 115232,
+      "num": 115232,
+      "word": "三火",
+      "onboard_time": 1720863677,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 113707,
@@ -1915,12 +2003,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99780,
+      "num": 99780,
+      "word": "女生用10年从专科成功逆袭博士",
+      "onboard_time": 1720863558,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99321,
       "num": 1030779,
       "word": "在巴黎的夏天遇见最美中国红",
       "onboard_time": 1720839917,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98698,
+      "num": 98698,
+      "word": "史彭元演技",
+      "onboard_time": 1720865596,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 97848,
+      "num": 97848,
+      "word": "范世錡否认抢萧敬腾歌",
+      "onboard_time": 1720860258,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 96680,
@@ -1936,14 +2048,6 @@
       "word": "为什么小腿肌会被称为人的第二心脏",
       "onboard_time": 1720809792,
       "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 92569,
-      "num": 92569,
-      "word": "出汗能帮身体排毒是严重误区",
-      "onboard_time": 1720863077,
-      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -1963,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88351,
+      "num": 97772,
+      "word": "她在那36个小时的夜里看星星",
+      "onboard_time": 1720865717,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85630,
       "num": 118558,
       "word": "睡6小时和睡8小时区别有多大",
@@ -1979,12 +2091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82313,
-      "num": 381985,
-      "word": "萝卜快跑或成最体面的网约车司机",
-      "onboard_time": 1720861219,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 82904,
+      "num": 96664,
+      "word": "张志杰事件还在被踢皮球",
+      "onboard_time": 1720865837,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81681,
@@ -2329,6 +2441,14 @@
       "onboard_time": 1720850596,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24940,
+      "num": 272189,
+      "word": "网信办整治暑期未成年人网络环境",
+      "onboard_time": 1720864819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22354,
