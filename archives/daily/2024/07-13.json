@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720862356006,
+  "endTime": 1720863324294,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 919558,
+      "num": 1147129,
+      "word": "赵丽颖活动穿ES高定",
+      "onboard_time": 1720861517,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 918511,
       "num": 918511,
       "word": "谢娜 小伙子今晚挺开朗的哇",
       "onboard_time": 1720830196,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 836379,
+      "num": 395974,
+      "word": "姜涩琪道歉",
+      "onboard_time": 1720861277,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 787577,
@@ -211,14 +227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 642460,
-      "num": 468820,
-      "word": "赵丽颖活动穿ES高定",
-      "onboard_time": 1720861517,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 631369,
       "num": 631369,
       "word": "抓娃娃 楚门的世界",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 586435,
-      "num": 388539,
+      "num": 462219,
       "word": "沈腾马丽回应闯入中偶赛道",
       "onboard_time": 1720859237,
       "rank": 29,
@@ -275,16 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571994,
-      "num": 384741,
-      "word": "姜涩琪道歉",
-      "onboard_time": 1720861277,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 570150,
-      "num": 383864,
+      "num": 395249,
       "word": "一个高龄产妇一个老来得子",
       "onboard_time": 1720857018,
       "rank": 12,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496350,
+      "num": 353923,
+      "word": "间歇性厌恶伴侣是因为不爱了吗",
+      "onboard_time": 1720859598,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487127,
       "num": 388108,
       "word": "沈腾马丽 你的名字",
@@ -377,14 +385,6 @@
       "onboard_time": 1720841297,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 477425,
-      "num": 353923,
-      "word": "间歇性厌恶伴侣是因为不爱了吗",
-      "onboard_time": 1720859598,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 475613,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437531,
+      "num": 400346,
+      "word": "张新成好像和妈妈不熟",
+      "onboard_time": 1720862116,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436017,
       "num": 436017,
       "word": "美国人办中国签证到底有多难",
@@ -449,6 +457,14 @@
       "onboard_time": 1720795099,
       "rank": 6,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 393740,
+      "num": 393740,
+      "word": "On回应Bin踢椅子",
+      "onboard_time": 1720861578,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 389988,
@@ -539,14 +555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 340528,
-      "num": 380921,
-      "word": "On回应Bin踢椅子",
-      "onboard_time": 1720861578,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 338174,
       "num": 338174,
       "word": "萨莉亚靠卖预制菜年销近百亿元",
@@ -579,20 +587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314691,
+      "num": 314691,
+      "word": "范世錡直接指出奥利的错误",
+      "onboard_time": 1720857677,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311126,
       "num": 311126,
       "word": "23年前那一声Beijing",
       "onboard_time": 1720828575,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306721,
-      "num": 306721,
-      "word": "范世錡直接指出奥利的错误",
-      "onboard_time": 1720857677,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 302614,
@@ -723,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239478,
+      "num": 239478,
+      "word": "郑秀晶 上海",
+      "onboard_time": 1720862597,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237731,
       "num": 237731,
       "word": "人鱼已杀青",
@@ -849,6 +865,14 @@
       "onboard_time": 1720846517,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215322,
+      "num": 215322,
+      "word": "60岁阿姨健身20年被夸比18岁还漂亮",
+      "onboard_time": 1720862057,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213459,
@@ -1083,14 +1107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176398,
-      "num": 176398,
-      "word": "张新成好像和妈妈不熟",
-      "onboard_time": 1720862116,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172979,
       "num": 172979,
       "word": "俄女驯兽师被自己驯养的熊袭击身亡",
@@ -1139,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168957,
+      "num": 168957,
+      "word": "孟子义说王子奇王玉雯现在是解绑",
+      "onboard_time": 1720862779,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166999,
       "num": 166999,
       "word": "薛之谦演唱会嘉宾是陈伟霆",
@@ -1171,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164384,
+      "num": 313797,
+      "word": "赛里木湖已经开始步入秋季了",
+      "onboard_time": 1720860858,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 164108,
       "num": 164108,
       "word": "李蓉不当扶弟姐了",
@@ -1183,6 +1215,14 @@
       "num": 163578,
       "word": "王子奇王玉雯合体了",
       "onboard_time": 1720856897,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162442,
+      "num": 162442,
+      "word": "汪苏泷谈氧气编曲",
+      "onboard_time": 1720862357,
       "rank": 34,
       "category": "综艺"
     },
@@ -1289,6 +1329,14 @@
       "onboard_time": 1720793600,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150394,
+      "num": 150394,
+      "word": "如果你也抬头看 那是薛之谦的浪漫",
+      "onboard_time": 1720862897,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 148824,
@@ -1419,14 +1467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 139637,
-      "num": 139637,
-      "word": "赛里木湖已经开始步入秋季了",
-      "onboard_time": 1720860858,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "考古学家在河南发现了9000年前的爱情",
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 132428,
-      "num": 132428,
+      "num": 398723,
       "word": "一只大熊猫见到水就是一场泼水节",
       "onboard_time": 1720859177,
       "rank": 44,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1720855157,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129143,
+      "num": 129143,
+      "word": "丁程鑫拍的吴谨言王星越梁永棋",
+      "onboard_time": 1720862418,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128694,
@@ -1883,20 +1931,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94081,
-      "num": 94081,
-      "word": "60岁阿姨健身20年被夸比18岁还漂亮",
-      "onboard_time": 1720862057,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "为什么小腿肌会被称为人的第二心脏",
       "onboard_time": 1720809792,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92569,
+      "num": 92569,
+      "word": "出汗能帮身体排毒是严重误区",
+      "onboard_time": 1720863077,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92140,
+      "num": 92140,
+      "word": "中国人的种菜天赋在太空也好使",
+      "onboard_time": 1720862897,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89396,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1720791500,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82313,
+      "num": 381985,
+      "word": "萝卜快跑或成最体面的网约车司机",
+      "onboard_time": 1720861219,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 81681,
@@ -2051,20 +2115,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 53259,
-      "num": 381985,
-      "word": "萝卜快跑或成最体面的网约车司机",
-      "onboard_time": 1720861219,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 52805,
       "num": 476387,
       "word": "中国体育代表团成立宣传片",
       "onboard_time": 1720839977,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52765,
+      "num": 394491,
+      "word": "8岁男孩暑假在家自觉学习看书",
+      "onboard_time": 1720859897,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52214,
@@ -2243,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28833,
+      "num": 386266,
+      "word": "防汛家书让98年抗洪者重返一线",
+      "onboard_time": 1720861219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26797,
       "num": 178170,
       "word": "英国小儿贾第虫病已致儿童死亡",
@@ -2263,14 +2335,6 @@
       "num": 327072,
       "word": "外婆为外孙女做永不凋谢的捧花",
       "onboard_time": 1720801098,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20692,
-      "num": 386266,
-      "word": "防汛家书让98年抗洪者重返一线",
-      "onboard_time": 1720861219,
       "rank": 9,
       "category": "社会新闻"
     },
