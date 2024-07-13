@@ -1,0 +1,410 @@
+{
+  "runTime": 1720913779361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3610622,
+        "num": 3721245,
+        "word": "枪声响起特朗普撤离演讲台",
+        "onboard_time": 1720911913,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3230524,
+        "num": 3230524,
+        "word": "特朗普右耳有血迹",
+        "onboard_time": 1720911913,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20573,
+        "num": 1209372,
+        "word": "微观中国深改之变",
+        "onboard_time": 1720875318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073242,
+        "num": 1073242,
+        "word": "特朗普",
+        "onboard_time": 1720911852,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 402931,
+        "num": 402931,
+        "word": "有人工资卡转账额度被降到500元",
+        "onboard_time": 1720880780,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271592,
+        "num": 271592,
+        "word": "女孩",
+        "onboard_time": 1720882159,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269765,
+        "num": 269765,
+        "word": "疑在泰被撕票中国女子最后监控画面",
+        "onboard_time": 1720871418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236892,
+        "num": 236892,
+        "word": "美特勤局称特朗普情况安全",
+        "onboard_time": 1720913475,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211909,
+        "num": 211909,
+        "word": "第一次这么心疼一个剧的反派",
+        "onboard_time": 1720872978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "特朗普竞选集会现场1人死亡",
+        "onboard_time": 1720913294,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 429378,
+        "num": 188264,
+        "word": "刚上高铁就碰到公主巨婴了",
+        "onboard_time": 1720913174,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283439,
+        "num": 178185,
+        "word": "老人要报40元团4天3晚游桂林",
+        "onboard_time": 1720911732,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160970,
+        "num": 160970,
+        "word": "李宇春一晚四套高定全球首穿",
+        "onboard_time": 1720880840,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151489,
+        "num": 151489,
+        "word": "薛之谦超话",
+        "onboard_time": 1720912513,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "韩廷办公室的床",
+        "onboard_time": 1720882519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127092,
+        "num": 127092,
+        "word": "王玉雯王子奇四搭",
+        "onboard_time": 1720883779,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103680,
+        "num": 103680,
+        "word": "黄景瑜身材",
+        "onboard_time": 1720895293,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100261,
+        "num": 100261,
+        "word": "亚马尔16岁为家人买三套房",
+        "onboard_time": 1720888097,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 94808,
+        "word": "度华年男二戏份",
+        "onboard_time": 1720891335,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80472,
+        "num": 80472,
+        "word": "凯特王妃将第二次公开露面",
+        "onboard_time": 1720880598,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167633,
+        "num": 80314,
+        "word": "卫生巾要2个小时换一次",
+        "onboard_time": 1720912994,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136097,
+        "num": 79632,
+        "word": "身体湿气重是什么感觉",
+        "onboard_time": 1720911673,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13013,
+        "num": 78681,
+        "word": "女婴不幸离世捐献器官助3人重获新生",
+        "onboard_time": 1720913595,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114536,
+        "num": 77976,
+        "word": "云南牛奶自带插孔吸管震惊北方人",
+        "onboard_time": 1720912694,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14716,
+        "num": 77596,
+        "word": "共富工坊帮蚕农结出黄金茧",
+        "onboard_time": 1720911732,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97001,
+        "num": 76638,
+        "word": "何炅出道30年最累的一天",
+        "onboard_time": 1720877059,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92323,
+        "num": 76305,
+        "word": "真的建议大家回归线下生活",
+        "onboard_time": 1720881560,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87068,
+        "num": 75702,
+        "word": "度华年",
+        "onboard_time": 1720912392,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84955,
+        "num": 74548,
+        "word": "建议大家人脸识别要穿上衣服",
+        "onboard_time": 1720913114,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74396,
+        "num": 74396,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720875197,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 74384,
+        "word": "哪些人群需要进行结肠镜筛查",
+        "onboard_time": 1720912994,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74193,
+        "num": 74193,
+        "word": "香汗淋漓魏大勋",
+        "onboard_time": 1720878198,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70002,
+        "num": 70002,
+        "word": "香奈儿官方发王一博",
+        "onboard_time": 1720912333,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66156,
+        "num": 66156,
+        "word": "九点上班要求8点50就到",
+        "onboard_time": 1720913114,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64844,
+        "num": 64844,
+        "word": "13.8 13.11",
+        "onboard_time": 1720913475,
+        "rank": 34,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 62473,
+        "num": 62473,
+        "word": "玉泽演不是猛男吗",
+        "onboard_time": 1720882159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61895,
+        "num": 61895,
+        "word": "37岁单身到底有多爽",
+        "onboard_time": 1720913715,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61164,
+        "num": 61164,
+        "word": "沈腾马丽抓娃娃首映同框",
+        "onboard_time": 1720878798,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60559,
+        "num": 60559,
+        "word": "这5个部位疼或是心梗前兆",
+        "onboard_time": 1720912813,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56224,
+        "num": 56224,
+        "word": "恢复精力的最佳方式",
+        "onboard_time": 1720912874,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55759,
+        "num": 55759,
+        "word": "减肥后面部形态和五官会有多大变化",
+        "onboard_time": 1720913114,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 55488,
+        "num": 55488,
+        "word": "729 CV",
+        "onboard_time": 1720895172,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 53264,
+        "num": 53264,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52747,
+        "num": 52747,
+        "word": "发言人称特朗普身体状况良好",
+        "onboard_time": 1720913533,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52329,
+        "num": 52329,
+        "word": "希林娜依高嗓子咋了",
+        "onboard_time": 1720875078,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51808,
+        "num": 51808,
+        "word": "肖战 重庆",
+        "onboard_time": 1720872078,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51162,
+        "num": 51162,
+        "word": "多家银行回应降低非柜面交易额度",
+        "onboard_time": 1720913174,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50303,
+        "num": 50303,
+        "word": "高铁怎么还有这么坐的啊",
+        "onboard_time": 1720880720,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49620,
+        "num": 49620,
+        "word": "宫颈癌复发元凶竟在丈夫身上",
+        "onboard_time": 1720872018,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49203,
+        "num": 49203,
+        "word": "泰国警方称发现失踪中国女子遗体",
+        "onboard_time": 1720874657,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的一本笔记#"
+    }
+  }
+}

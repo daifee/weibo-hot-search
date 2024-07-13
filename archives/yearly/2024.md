@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/14 07:18:26
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/14 07:36:19
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%A3%B0%E5%93%8D%E8%B5%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%92%A4%E7%A6%BB%E6%BC%94%E8%AE%B2%E5%8F%B0%23" target="weibo">
+枪声响起特朗普撤离演讲台（热度：3610622）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E6%9C%AC%E4%BA%BA%E5%B0%86%E8%BD%AC%E5%8F%98%E8%B5%9B%E9%81%93%23" target="weibo">
 赖冠霖 本人将转变赛道（热度：3609925）
 </a>
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%8D%9A%E9%80%80%E5%87%BA%E4%BB%81%E5%B7%9D%E8%B5%9B%23" target="weibo">
 王楚钦发博退出仁川赛（热度：3261143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
-高考语文（热度：3258978）
 </a>
 </li>
 
