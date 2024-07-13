@@ -1,0 +1,410 @@
+{
+  "runTime": 1720851988490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026757,
+        "num": 1164281,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 801041,
+        "num": 801041,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67807,
+        "num": 682883,
+        "word": "在巴黎的夏天遇见最美中国红",
+        "onboard_time": 1720839917,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 631369,
+        "num": 631369,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473990,
+        "num": 473990,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328132,
+        "num": 328132,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559335,
+        "num": 318880,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499405,
+        "num": 314313,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298673,
+        "num": 298673,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281943,
+        "num": 281943,
+        "word": "北大考古毕业生就业率100%",
+        "onboard_time": 1720841777,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 564687,
+        "num": 279858,
+        "word": "郑乃馨说和Bright的恋情很顺利",
+        "onboard_time": 1720850236,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451837,
+        "num": 274114,
+        "word": "裴文宣爱的迫降",
+        "onboard_time": 1720848797,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348433,
+        "num": 269915,
+        "word": "小夭彻底失去了相柳",
+        "onboard_time": 1720840877,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288873,
+        "num": 267301,
+        "word": "荣梓杉被中戏录取",
+        "onboard_time": 1720841475,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40210,
+        "num": 262481,
+        "word": "男孩车祸去世捐献器官救6人",
+        "onboard_time": 1720850057,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 54305,
+        "num": 257928,
+        "word": "下午茶就该在下午喝",
+        "onboard_time": 1720849816,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255697,
+        "num": 255697,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213037,
+        "num": 213037,
+        "word": "菲律宾",
+        "onboard_time": 1720849398,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209233,
+        "num": 209233,
+        "word": "女子自认年轻冒用16岁女儿证件入境",
+        "onboard_time": 1720838597,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199938,
+        "num": 199938,
+        "word": "全红婵孙颖莎樊振东可爱同框",
+        "onboard_time": 1720845557,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045340,
+        "num": 198918,
+        "word": "女子为恢复卵巢功能连炫20多个榴莲",
+        "onboard_time": 1720847657,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617271,
+        "num": 197186,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263950,
+        "num": 195261,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247946,
+        "num": 192501,
+        "word": "丁太升说孙楠绝对不能算优秀歌手",
+        "onboard_time": 1720845078,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244639,
+        "num": 188679,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17436,
+        "num": 187689,
+        "word": "极氪009出七座版了",
+        "onboard_time": 1720850596,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207183,
+        "num": 183933,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204294,
+        "num": 181728,
+        "word": "狐妖小红娘第12季定档",
+        "onboard_time": 1720848197,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181507,
+        "num": 181507,
+        "word": "初为人父裴文宣",
+        "onboard_time": 1720851257,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79760,
+        "num": 181357,
+        "word": "去大草原做一场夏日的梦",
+        "onboard_time": 1720851918,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181337,
+        "num": 181337,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179379,
+        "num": 179379,
+        "word": "美国人办中国签证到底有多难",
+        "onboard_time": 1720851257,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171628,
+        "num": 171628,
+        "word": "车主去签保密协议理想L8半路发抖",
+        "onboard_time": 1720848978,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166408,
+        "num": 166408,
+        "word": "Lucky迷你版戚薇",
+        "onboard_time": 1720846517,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157204,
+        "num": 165699,
+        "word": "一次打99支冰淇淋是什么体验",
+        "onboard_time": 1720850537,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165040,
+        "num": 165040,
+        "word": "王一博穿了灵龙",
+        "onboard_time": 1720848316,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161630,
+        "num": 161630,
+        "word": "去狗咖把小狗都哄睡着了",
+        "onboard_time": 1720850657,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159717,
+        "num": 159717,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155270,
+        "num": 155270,
+        "word": "李蓉不当扶弟姐了",
+        "onboard_time": 1720851077,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144839,
+        "num": 144839,
+        "word": "他们都说海后偏偏你最纯情",
+        "onboard_time": 1720849756,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138844,
+        "num": 138844,
+        "word": "巴黎奥运中国队名单",
+        "onboard_time": 1720839438,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137736,
+        "num": 137736,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133090,
+        "num": 133090,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132029,
+        "num": 132029,
+        "word": "Henry把黄子弘凡点燃了",
+        "onboard_time": 1720851678,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130103,
+        "num": 130103,
+        "word": "江祖平初中就决定不婚不生",
+        "onboard_time": 1720850836,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129736,
+        "num": 129736,
+        "word": "马龙c位",
+        "onboard_time": 1720841297,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125256,
+        "num": 125256,
+        "word": "谭松韵久别重逢赛道",
+        "onboard_time": 1720846938,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "林俊杰恭喜那英",
+        "onboard_time": 1720841297,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106155,
+        "num": 106155,
+        "word": "俄女驯兽师被自己驯养的熊袭击身亡",
+        "onboard_time": 1720845858,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104189,
+        "num": 104189,
+        "word": "葬送的芙莉莲",
+        "onboard_time": 1720851856,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一本笔记体悟总书记的改革初心#"
+    }
+  }
+}
