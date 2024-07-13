@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720841685432,
+  "endTime": 1720844577590,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -1059,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1340938,
+      "num": 1340938,
+      "word": "日本已有1144例食人菌感染病例",
+      "onboard_time": 1720840157,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339807,
       "num": 1339807,
       "word": "马嘉祺受伤",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1720654155,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1314673,
+      "num": 1314673,
+      "word": "人鱼女主 杨幂",
+      "onboard_time": 1720841475,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 1314025,
@@ -2137,6 +2153,14 @@
       "onboard_time": 1719976697,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 977408,
+      "num": 977408,
+      "word": "荣梓杉被中戏录取",
+      "onboard_time": 1720841475,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 975938,
@@ -3731,14 +3755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 729879,
-      "num": 729879,
-      "word": "日本已有1144例食人菌感染病例",
-      "onboard_time": 1720840157,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 728123,
       "num": 728123,
       "word": "马龙说想有樊振东王楚钦般年轻心态",
@@ -4156,7 +4172,7 @@
     },
     {
       "raw_hot": 679728,
-      "num": 302413,
+      "num": 389648,
       "word": "不能随便用小孩当屏保了",
       "onboard_time": 1720837757,
       "rank": 34,
@@ -4369,6 +4385,14 @@
       "onboard_time": 1720263917,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 655541,
+      "num": 581583,
+      "word": "小夭彻底失去了相柳",
+      "onboard_time": 1720840877,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 655437,
@@ -5268,7 +5292,7 @@
     },
     {
       "raw_hot": 583619,
-      "num": 332051,
+      "num": 500953,
       "word": "市监局每天办公6.5小时电话无人接",
       "onboard_time": 1720834818,
       "rank": 43,
@@ -6161,6 +6185,14 @@
       "onboard_time": 1720066158,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530497,
+      "num": 530497,
+      "word": "北大考古毕业生就业率100%",
+      "onboard_time": 1720841777,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 529741,
@@ -7209,6 +7241,14 @@
       "onboard_time": 1719749777,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478752,
+      "num": 478752,
+      "word": "马龙c位",
+      "onboard_time": 1720841297,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 478694,
@@ -9481,6 +9521,14 @@
       "onboard_time": 1720529660,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 383529,
+      "num": 383529,
+      "word": "杨紫 生命树",
+      "onboard_time": 1720842558,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 383293,
@@ -12803,6 +12851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 275835,
+      "num": 275835,
+      "word": "丹东通报市监局未到午休集体离岗",
+      "onboard_time": 1720842437,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275785,
       "num": 275785,
       "word": "肖战工作室连载法国vlog",
@@ -13147,14 +13203,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 263463,
-      "num": 263463,
-      "word": "人鱼女主 杨幂",
-      "onboard_time": 1720841475,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 263399,
       "num": 263399,
       "word": "许玮甯说邱泽私下很可爱",
@@ -13193,6 +13241,14 @@
       "onboard_time": 1720048575,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261855,
+      "num": 261855,
+      "word": "林俊杰恭喜那英",
+      "onboard_time": 1720841297,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 261822,
@@ -13425,14 +13481,6 @@
       "onboard_time": 1720537158,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 255151,
-      "num": 255151,
-      "word": "小夭彻底失去了相柳",
-      "onboard_time": 1720840877,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 254916,
@@ -14113,6 +14161,14 @@
       "onboard_time": 1720348518,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239781,
+      "num": 239781,
+      "word": "沈马",
+      "onboard_time": 1720842678,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 239409,
@@ -15033,14 +15089,6 @@
       "onboard_time": 1719891559,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 222934,
-      "num": 222934,
-      "word": "荣梓杉被中戏录取",
-      "onboard_time": 1720841475,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 222386,
@@ -16331,6 +16379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205601,
+      "num": 205601,
+      "word": "蔡依林上海抢票",
+      "onboard_time": 1720843997,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205567,
       "num": 205567,
       "word": "沈腾马丽新片瞅着不太city",
@@ -16699,6 +16755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202935,
+      "num": 202935,
+      "word": "沧元图番外篇开播",
+      "onboard_time": 1720843457,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 202886,
       "num": 202886,
       "word": "法国vs葡萄牙",
@@ -16816,6 +16880,14 @@
       "word": "中金成立专项小组处理离世员工事宜",
       "onboard_time": 1720076718,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202211,
+      "num": 202211,
+      "word": "中国女子泰国失踪家属被勒索100万",
+      "onboard_time": 1720841236,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -17043,14 +17115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200303,
-      "num": 200303,
-      "word": "马龙c位",
-      "onboard_time": 1720841297,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200300,
       "num": 200300,
       "word": "百花奖最佳女配提名",
@@ -17081,6 +17145,14 @@
       "onboard_time": 1720278798,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200023,
+      "num": 197252,
+      "word": "荣梓杉方回应考上中戏",
+      "onboard_time": 1720844177,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 199900,
@@ -19187,6 +19259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182566,
+      "num": 182566,
+      "word": "大学生为买一双球鞋最终负债5万",
+      "onboard_time": 1720843397,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182206,
       "num": 182206,
       "word": "那些从985大学退学的人后来怎么样了",
@@ -20291,14 +20371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172736,
-      "num": 172736,
-      "word": "林俊杰恭喜那英",
-      "onboard_time": 1720841297,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172700,
       "num": 172700,
       "word": "绘旅人人间画外",
@@ -20393,14 +20465,6 @@
       "onboard_time": 1719986419,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172041,
-      "num": 172041,
-      "word": "中国女子泰国失踪家属被勒索100万",
-      "onboard_time": 1720841236,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172030,
@@ -20585,6 +20649,14 @@
       "onboard_time": 1720587978,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170526,
+      "num": 170526,
+      "word": "奥运冠军怒怼世界羽联",
+      "onboard_time": 1720842137,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 170358,
@@ -21099,6 +21171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165383,
+      "num": 551491,
+      "word": "为何小马宝莉卡能引人疯狂氪金",
+      "onboard_time": 1720840818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165366,
       "num": 165366,
       "word": "宋轶在古装赛道玩出花了",
@@ -21113,6 +21193,14 @@
       "onboard_time": 1720383071,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165332,
+      "num": 165332,
+      "word": "哥哥交费学车后去世弟弟退款遭拒",
+      "onboard_time": 1720839856,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165324,
@@ -24209,14 +24297,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141858,
-      "num": 141858,
-      "word": "哥哥交费学车后去世弟弟退款遭拒",
-      "onboard_time": 1720839856,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141685,
@@ -30291,6 +30371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98965,
+      "num": 1030779,
+      "word": "在巴黎的夏天遇见最美中国红",
+      "onboard_time": 1720839917,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98929,
       "num": 98929,
       "word": "薛之谦我要这灯光有何用",
@@ -32659,14 +32747,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 60406,
-      "num": 551491,
-      "word": "为何小马宝莉卡能引人疯狂氪金",
-      "onboard_time": 1720840818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60175,
       "num": 260503,
       "word": "交警脱下雨衣裹住被困孩子抱进车内",
@@ -32713,6 +32793,14 @@
       "onboard_time": 1720361658,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59799,
+      "num": 501987,
+      "word": "情绪稳定的妈妈最怕孩子放暑假",
+      "onboard_time": 1720843818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59705,
@@ -32857,14 +32945,6 @@
       "onboard_time": 1720803316,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 57829,
-      "num": 829780,
-      "word": "在巴黎的夏天遇见最美中国红",
-      "onboard_time": 1720839917,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 57679,
@@ -33107,6 +33187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54863,
+      "num": 465066,
+      "word": "欧洲杯淘宝百亿补贴才是真绝杀",
+      "onboard_time": 1720843217,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54816,
       "num": 874905,
       "word": "我国综合立体交通网总里程超600万公里",
@@ -33209,6 +33297,14 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 52805,
+      "num": 476387,
+      "word": "中国体育代表团成立宣传片",
+      "onboard_time": 1720839977,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 52678,
@@ -33531,6 +33627,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 48020,
+      "num": 227969,
+      "word": "今年竟然是AI在教我祛湿",
+      "onboard_time": 1720843518,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47904,
       "num": 244557,
       "word": "熊猫界有自己的I熊E熊",
@@ -33811,6 +33915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44189,
+      "num": 466214,
+      "word": "韩红祝愿中国队一路生花",
+      "onboard_time": 1720843397,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 44184,
       "num": 44018,
       "word": "不敢看第二遍的动漫",
@@ -33947,20 +34059,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 42504,
+      "num": 229106,
+      "word": "全新极氪009来了",
+      "onboard_time": 1720843637,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42502,
       "num": 44018,
       "word": "您的狗开机速度打败全国1%用户",
       "onboard_time": 1720827255,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42427,
-      "num": 476387,
-      "word": "中国体育代表团成立宣传片",
-      "onboard_time": 1720839977,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 42404,
