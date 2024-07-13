@@ -1,0 +1,410 @@
+{
+  "runTime": 1720874037666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1556579,
+        "num": 1556579,
+        "word": "疑在泰被撕票中国女子最后监控画面",
+        "onboard_time": 1720871418,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948152,
+        "num": 948152,
+        "word": "泰国失踪中国女子残骸疑似被找到",
+        "onboard_time": 1720869976,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66325,
+        "num": 743137,
+        "word": "三中全会是个什么会",
+        "onboard_time": 1720855816,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 590162,
+        "num": 590162,
+        "word": "第一次这么心疼一个剧的反派",
+        "onboard_time": 1720872978,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521107,
+        "num": 521107,
+        "word": "张嘉元被中传录取了",
+        "onboard_time": 1720869197,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358679,
+        "num": 358679,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374234,
+        "num": 355627,
+        "word": "沈腾马丽 你的名字",
+        "onboard_time": 1720859837,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 345954,
+        "num": 345954,
+        "word": "青春芒果夜",
+        "onboard_time": 1720869797,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337154,
+        "num": 337154,
+        "word": "一年半新开10万家火锅店",
+        "onboard_time": 1720865117,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244080,
+        "num": 244080,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421147,
+        "num": 243715,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339141,
+        "num": 240191,
+        "word": "张志杰事件还在被踢皮球",
+        "onboard_time": 1720865837,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302934,
+        "num": 238392,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281690,
+        "num": 236623,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275985,
+        "num": 234559,
+        "word": "肖战 重庆",
+        "onboard_time": 1720872078,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233592,
+        "num": 233592,
+        "word": "姜涩琪道歉",
+        "onboard_time": 1720861277,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130630,
+        "num": 230123,
+        "word": "一起为中国奥运健儿加油",
+        "onboard_time": 1720872498,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228338,
+        "num": 228338,
+        "word": "长相思2疯人院vs幼儿园",
+        "onboard_time": 1720868237,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 201338,
+        "word": "JDG战胜Hero",
+        "onboard_time": 1720873759,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197881,
+        "num": 197881,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539923,
+        "num": 197163,
+        "word": "张新成好像和妈妈不熟",
+        "onboard_time": 1720862116,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222042,
+        "num": 196804,
+        "word": "张九泰结婚",
+        "onboard_time": 1720868057,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204456,
+        "num": 195831,
+        "word": "曾黎赵露思撞衫",
+        "onboard_time": 1720866377,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202098,
+        "num": 195162,
+        "word": "朱志鑫开场",
+        "onboard_time": 1720873157,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201347,
+        "num": 194225,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193981,
+        "num": 193981,
+        "word": "宫颈癌复发元凶竟在丈夫身上",
+        "onboard_time": 1720872018,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188373,
+        "num": 188373,
+        "word": "李宇春厦门",
+        "onboard_time": 1720873217,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183202,
+        "num": 183202,
+        "word": "时代少年团彩排大屏",
+        "onboard_time": 1720872197,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180907,
+        "num": 180907,
+        "word": "郑秀晶 上海",
+        "onboard_time": 1720862597,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170037,
+        "num": 170037,
+        "word": "东北小镇承包了全球四分之一的泳装",
+        "onboard_time": 1720870158,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113888,
+        "num": 169208,
+        "word": "当父辈的潮流轮回到年轻人身上",
+        "onboard_time": 1720872018,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168790,
+        "num": 168790,
+        "word": "赵丽颖提裙图",
+        "onboard_time": 1720870817,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 164677,
+        "word": "张颂文用乱码回复马嘉祺",
+        "onboard_time": 1720870697,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162231,
+        "num": 162231,
+        "word": "买小蛋糕商家要报警说我敲诈",
+        "onboard_time": 1720872978,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138283,
+        "num": 138283,
+        "word": "女生用10年从专科成功逆袭博士",
+        "onboard_time": 1720863558,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139409,
+        "num": 137354,
+        "word": "王源 抢票",
+        "onboard_time": 1720873997,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 137017,
+        "word": "赵丽颖活动穿ES高定",
+        "onboard_time": 1720861517,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135934,
+        "num": 135934,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134479,
+        "num": 134479,
+        "word": "张嘉元两个月涨两百多分",
+        "onboard_time": 1720873577,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126010,
+        "num": 128507,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128222,
+        "num": 128222,
+        "word": "棍铲",
+        "onboard_time": 1720869618,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126743,
+        "num": 126743,
+        "word": "薛之谦冲下台支持唐汉霄",
+        "onboard_time": 1720873337,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121972,
+        "num": 121972,
+        "word": "李蓉裴文宣三婚",
+        "onboard_time": 1720871358,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119220,
+        "num": 119220,
+        "word": "张子墨舞台",
+        "onboard_time": 1720870158,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118643,
+        "num": 118643,
+        "word": "2024青春芒果夜彩排直击",
+        "onboard_time": 1720870519,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117983,
+        "num": 117983,
+        "word": "肖战得闲谨制围读上班路透",
+        "onboard_time": 1720864697,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116541,
+        "num": 116541,
+        "word": "斗破苍穹",
+        "onboard_time": 1720869797,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 114843,
+        "num": 114843,
+        "word": "萝卜快跑不仅仅是冲击了就业",
+        "onboard_time": 1720864158,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112375,
+        "num": 112375,
+        "word": "Uzi说ming首播叫小虎",
+        "onboard_time": 1720873997,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 112258,
+        "word": "60岁阿姨健身20年被夸比18岁还漂亮",
+        "onboard_time": 1720862057,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的一本笔记#"
+    }
+  }
+}

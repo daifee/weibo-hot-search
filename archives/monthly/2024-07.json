@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720870529659,
+  "endTime": 1720874037666,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -697,6 +697,14 @@
       "onboard_time": 1720606578,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1556579,
+      "num": 1556579,
+      "word": "疑在泰被撕票中国女子最后监控画面",
+      "onboard_time": 1720871418,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1550455,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1720014980,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 948152,
+      "num": 948152,
+      "word": "泰国失踪中国女子残骸疑似被找到",
+      "onboard_time": 1720869976,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946583,
@@ -4452,7 +4468,7 @@
     },
     {
       "raw_hot": 659983,
-      "num": 339983,
+      "num": 521107,
       "word": "张嘉元被中传录取了",
       "onboard_time": 1720869197,
       "rank": 38,
@@ -5361,6 +5377,14 @@
       "onboard_time": 1720590557,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 590162,
+      "num": 590162,
+      "word": "第一次这么心疼一个剧的反派",
+      "onboard_time": 1720872978,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 589687,
@@ -10931,6 +10955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345954,
+      "num": 345954,
+      "word": "青春芒果夜",
+      "onboard_time": 1720869797,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345437,
       "num": 345437,
       "word": "Bin 又版本了",
@@ -13187,6 +13219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 275985,
+      "num": 234559,
+      "word": "肖战 重庆",
+      "onboard_time": 1720872078,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275835,
       "num": 275835,
       "word": "丹东通报市监局未到午休集体离岗",
@@ -13985,14 +14025,6 @@
       "onboard_time": 1720523597,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251141,
-      "num": 251141,
-      "word": "泰国失踪中国女子残骸疑似被找到",
-      "onboard_time": 1720869976,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250683,
@@ -17411,6 +17443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202098,
+      "num": 195162,
+      "word": "朱志鑫开场",
+      "onboard_time": 1720873157,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202027,
       "num": 202027,
       "word": "朱志鑫俯卧撑",
@@ -17465,6 +17505,14 @@
       "onboard_time": 1719890240,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201338,
+      "num": 201338,
+      "word": "JDG战胜Hero",
+      "onboard_time": 1720873759,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 201276,
@@ -17841,14 +17889,6 @@
       "onboard_time": 1720666516,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198495,
-      "num": 197728,
-      "word": "青春芒果夜",
-      "onboard_time": 1720869797,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 198459,
@@ -18433,6 +18473,14 @@
       "onboard_time": 1720357338,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193981,
+      "num": 193981,
+      "word": "宫颈癌复发元凶竟在丈夫身上",
+      "onboard_time": 1720872018,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193967,
@@ -19243,6 +19291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188373,
+      "num": 188373,
+      "word": "李宇春厦门",
+      "onboard_time": 1720873217,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "王俊凯电影运",
@@ -19785,6 +19841,14 @@
       "onboard_time": 1720765818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "时代少年团彩排大屏",
+      "onboard_time": 1720872197,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 183169,
@@ -21379,6 +21443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170037,
+      "num": 170037,
+      "word": "东北小镇承包了全球四分之一的泳装",
+      "onboard_time": 1720870158,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169943,
       "num": 141339,
       "word": "王星越的营业方式",
@@ -21497,6 +21569,14 @@
       "onboard_time": 1720798457,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168790,
+      "num": 168790,
+      "word": "赵丽颖提裙图",
+      "onboard_time": 1720870817,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168771,
@@ -21971,6 +22051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164677,
+      "num": 164677,
+      "word": "张颂文用乱码回复马嘉祺",
+      "onboard_time": 1720870697,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164586,
       "num": 164586,
       "word": "神魂颠倒",
@@ -22297,6 +22385,14 @@
       "onboard_time": 1720693158,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162231,
+      "num": 162231,
+      "word": "买小蛋糕商家要报警说我敲诈",
+      "onboard_time": 1720872978,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 162216,
@@ -24035,14 +24131,6 @@
       "category": "社会新闻,读书作家"
     },
     {
-      "raw_hot": 148684,
-      "num": 148684,
-      "word": "东北小镇承包了全球四分之一的泳装",
-      "onboard_time": 1720870158,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148610,
       "num": 148610,
       "word": "赵明称苹果近几年没什么创新",
@@ -25547,6 +25635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139409,
+      "num": 137354,
+      "word": "王源 抢票",
+      "onboard_time": 1720873997,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139407,
       "num": 139407,
       "word": "为什么空调除湿比制冷更凉爽",
@@ -25753,6 +25849,14 @@
       "onboard_time": 1720255758,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138283,
+      "num": 242179,
+      "word": "女生用10年从专科成功逆袭博士",
+      "onboard_time": 1720863558,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 138190,
@@ -26329,6 +26433,14 @@
       "onboard_time": 1720226417,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134479,
+      "num": 134479,
+      "word": "张嘉元两个月涨两百多分",
+      "onboard_time": 1720873577,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 134387,
@@ -26987,6 +27099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130630,
+      "num": 230123,
+      "word": "一起为中国奥运健儿加油",
+      "onboard_time": 1720872498,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130543,
       "num": 130543,
       "word": "领导发250块让我给同事买下午茶",
@@ -27633,6 +27753,14 @@
       "onboard_time": 1720139839,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126743,
+      "num": 126743,
+      "word": "薛之谦冲下台支持唐汉霄",
+      "onboard_time": 1720873337,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126731,
@@ -28363,6 +28491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121972,
+      "num": 121972,
+      "word": "李蓉裴文宣三婚",
+      "onboard_time": 1720871358,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121951,
       "num": 121951,
       "word": "洞庭湖决堤5755人安全转移",
@@ -28913,6 +29049,14 @@
       "onboard_time": 1720780519,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118643,
+      "num": 118643,
+      "word": "2024青春芒果夜彩排直击",
+      "onboard_time": 1720870519,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 118574,
@@ -29467,14 +29611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115176,
-      "num": 242179,
-      "word": "女生用10年从专科成功逆袭博士",
-      "onboard_time": 1720863558,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115108,
       "num": 388603,
       "word": "黄岩岛海域生态环境全面体检",
@@ -29633,6 +29769,14 @@
       "onboard_time": 1720320197,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113888,
+      "num": 169208,
+      "word": "当父辈的潮流轮回到年轻人身上",
+      "onboard_time": 1720872018,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113851,
@@ -29913,6 +30057,14 @@
       "onboard_time": 1720593558,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112375,
+      "num": 112375,
+      "word": "Uzi说ming首播叫小虎",
+      "onboard_time": 1720873997,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 112355,
@@ -33475,6 +33627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66325,
+      "num": 743137,
+      "word": "三中全会是个什么会",
+      "onboard_time": 1720855816,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66225,
       "num": 66225,
       "word": "许凯好帅",
@@ -35497,14 +35657,6 @@
       "onboard_time": 1720805654,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39768,
-      "num": 590184,
-      "word": "三中全会是个什么会",
-      "onboard_time": 1720855816,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39563,
