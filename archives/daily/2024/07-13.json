@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720856062337,
+  "endTime": 1720858942830,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -91,6 +91,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1004682,
+      "num": 1160749,
+      "word": "日本近百万人因弹珠店破产",
+      "onboard_time": 1720852817,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997811,
+      "num": 997811,
+      "word": "交警指挥不了萝卜快跑需引起重视",
+      "onboard_time": 1720856717,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996364,
       "num": 996364,
       "word": "福宝没认出姜爷爷",
@@ -113,14 +129,6 @@
       "onboard_time": 1720830196,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 907090,
-      "num": 907090,
-      "word": "日本近百万人因弹珠店破产",
-      "onboard_time": 1720852817,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787577,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 606137,
+      "num": 606137,
+      "word": "姜涩琪因换鞋引发霸凌争议",
+      "onboard_time": 1720855877,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595167,
       "num": 595167,
       "word": "抓娃娃",
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522218,
+      "num": 269812,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1720857438,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516995,
       "num": 516995,
       "word": "韩国男子被困电梯水淹身亡",
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463277,
+      "num": 268555,
+      "word": "一个高龄产妇一个老来得子",
+      "onboard_time": 1720857018,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451837,
       "num": 314013,
       "word": "裴文宣爱的迫降",
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 449284,
-      "num": 147308,
+      "num": 177975,
       "word": "张新成王玉雯认识16年",
       "onboard_time": 1720853716,
       "rank": 24,
@@ -353,6 +385,14 @@
       "onboard_time": 1720789038,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414777,
+      "num": 178036,
+      "word": "稀有小马宝莉卡被炒到16万1张",
+      "onboard_time": 1720854017,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394900,
@@ -443,6 +483,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 337650,
+      "num": 267866,
+      "word": "B太 从上海打车去新疆第二站",
+      "onboard_time": 1720854499,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 332301,
       "num": 332301,
       "word": "恋与深空BW",
@@ -465,14 +513,6 @@
       "onboard_time": 1720826653,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311418,
-      "num": 146341,
-      "word": "稀有小马宝莉卡被炒到16万1张",
-      "onboard_time": 1720854017,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311126,
@@ -555,20 +595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266946,
+      "num": 266946,
+      "word": "孙颖莎闪现奔跑吧",
+      "onboard_time": 1720855097,
+      "rank": 17,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 260212,
       "num": 160635,
       "word": "这3种卫生巾慎买",
       "onboard_time": 1720823713,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 258440,
-      "num": 144141,
-      "word": "B太 从上海打车去新疆第二站",
-      "onboard_time": 1720854499,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 254222,
@@ -673,6 +713,14 @@
       "onboard_time": 1720844177,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227558,
+      "num": 227558,
+      "word": "范世錡直接指出奥利的错误",
+      "onboard_time": 1720857677,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 226166,
@@ -819,14 +867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198662,
-      "num": 198662,
-      "word": "孙颖莎闪现奔跑吧",
-      "onboard_time": 1720855097,
-      "rank": 17,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 194273,
       "num": 136885,
       "word": "华晨宇南昌抢票",
@@ -883,12 +923,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186841,
-      "num": 145128,
-      "word": "姜涩琪因换鞋引发霸凌争议",
-      "onboard_time": 1720855877,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 186012,
+      "num": 177608,
+      "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+      "onboard_time": 1720857916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185642,
@@ -947,12 +987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "小夭改名西陵玖瑶",
+      "onboard_time": 1720856356,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177540,
       "num": 177540,
       "word": "汪苏泷南京开票",
       "onboard_time": 1720848797,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174007,
+      "num": 174007,
+      "word": "刘忻陈昊宇浪姐后首个合作舞台",
+      "onboard_time": 1720858217,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 172979,
@@ -1115,12 +1171,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156340,
+      "num": 156340,
+      "word": "王子奇王玉雯合体了",
+      "onboard_time": 1720856897,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155814,
       "num": 142229,
       "word": "度华年断更",
       "onboard_time": 1720854435,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155177,
+      "num": 155177,
+      "word": "谢怜 红衣",
+      "onboard_time": 1720855938,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 151174,
@@ -1259,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136999,
+      "num": 136999,
+      "word": "当我跟前夫的现任见面",
+      "onboard_time": 1720855517,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136383,
       "num": 136383,
       "word": "Meta取消对特朗普账号限制",
@@ -1363,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127453,
+      "num": 127453,
+      "word": "对象哪些行为你忍不了",
+      "onboard_time": 1720858458,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127055,
       "num": 127055,
       "word": "竟然被一只男熊猫甜到了",
@@ -1451,14 +1539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120162,
-      "num": 120162,
-      "word": "当我跟前夫的现任见面",
-      "onboard_time": 1720855517,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119923,
       "num": 119923,
       "word": "歌手2024",
@@ -1491,12 +1571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117228,
+      "num": 117228,
+      "word": "玱玹千夫的爱",
+      "onboard_time": 1720856057,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117133,
       "num": 117133,
       "word": "金毛 我这该死的灵敏嗅觉啊",
       "onboard_time": 1720837277,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116769,
+      "num": 116769,
+      "word": "亚马尔如果决赛打满全场可能违法",
+      "onboard_time": 1720856417,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116077,
@@ -1523,6 +1619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 113362,
+      "num": 113362,
+      "word": "无学生在校不得安排教师值班",
+      "onboard_time": 1720857197,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112716,
       "num": 112716,
       "word": "孟子义贴脸开大不奇而玉",
@@ -1531,20 +1635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "充完电先拔手机还是插头",
+      "onboard_time": 1720856237,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112167,
       "num": 112167,
       "word": "西湖大学本科新生大多是高二生",
       "onboard_time": 1720828096,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108925,
-      "num": 108925,
-      "word": "谢怜 红衣",
-      "onboard_time": 1720855938,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 106947,
@@ -1593,6 +1697,22 @@
       "onboard_time": 1720795099,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103851,
+      "num": 103851,
+      "word": "沈月李雪琴吃到停不下来",
+      "onboard_time": 1720858397,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103747,
+      "num": 754331,
+      "word": "突遇暴雨你该怎么办",
+      "onboard_time": 1720856237,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103156,
@@ -1771,6 +1891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 58339,
+      "num": 270526,
+      "word": "火锅店成餐饮卷王",
+      "onboard_time": 1720857617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57902,
       "num": 70275,
       "word": "真的教会我怎么夹抓夹了",
@@ -1947,10 +2075,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34923,
+      "num": 268992,
+      "word": "奥运军团出征在线求抱抱",
+      "onboard_time": 1720856537,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28922,
       "num": 407327,
       "word": "业内称无人驾驶冲击传统出行至少5年后",
       "onboard_time": 1720840818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28335,
+      "num": 267372,
+      "word": "对无人驾驶汽车不妨多些宽容",
+      "onboard_time": 1720857617,
       "rank": 14,
       "category": "社会新闻"
     },

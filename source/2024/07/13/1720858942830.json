@@ -1,0 +1,410 @@
+{
+  "runTime": 1720858942830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004682,
+        "num": 1160749,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997811,
+        "num": 997811,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103747,
+        "num": 754331,
+        "word": "突遇暴雨你该怎么办",
+        "onboard_time": 1720856237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606137,
+        "num": 606137,
+        "word": "姜涩琪因换鞋引发霸凌争议",
+        "onboard_time": 1720855877,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522707,
+        "num": 522707,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462847,
+        "num": 462847,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329459,
+        "num": 329459,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308786,
+        "num": 308786,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270668,
+        "num": 270668,
+        "word": "美国人办中国签证到底有多难",
+        "onboard_time": 1720851257,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 58339,
+        "num": 270526,
+        "word": "火锅店成餐饮卷王",
+        "onboard_time": 1720857617,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522218,
+        "num": 269812,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1720857438,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34923,
+        "num": 268992,
+        "word": "奥运军团出征在线求抱抱",
+        "onboard_time": 1720856537,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463277,
+        "num": 268555,
+        "word": "一个高龄产妇一个老来得子",
+        "onboard_time": 1720857018,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337650,
+        "num": 267866,
+        "word": "B太 从上海打车去新疆第二站",
+        "onboard_time": 1720854499,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28335,
+        "num": 267372,
+        "word": "对无人驾驶汽车不妨多些宽容",
+        "onboard_time": 1720857617,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266946,
+        "num": 266946,
+        "word": "孙颖莎闪现奔跑吧",
+        "onboard_time": 1720855097,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 257022,
+        "num": 257022,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227558,
+        "num": 227558,
+        "word": "范世錡直接指出奥利的错误",
+        "onboard_time": 1720857677,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204359,
+        "num": 204359,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178197,
+        "num": 178197,
+        "word": "2024三伏时间表",
+        "onboard_time": 1720854137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814097,
+        "num": 178192,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224200,
+        "num": 178112,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414777,
+        "num": 178036,
+        "word": "稀有小马宝莉卡被炒到16万1张",
+        "onboard_time": 1720854017,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340529,
+        "num": 177975,
+        "word": "张新成王玉雯认识16年",
+        "onboard_time": 1720853716,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333492,
+        "num": 177911,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220873,
+        "num": 177883,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314417,
+        "num": 177826,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236249,
+        "num": 177760,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203528,
+        "num": 177717,
+        "word": "郑乃馨说和Bright的恋情很顺利",
+        "onboard_time": 1720850236,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200585,
+        "num": 177629,
+        "word": "女子为恢复卵巢功能连炫20多个榴莲",
+        "onboard_time": 1720847657,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186012,
+        "num": 177608,
+        "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+        "onboard_time": 1720857916,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177566,
+        "num": 177566,
+        "word": "小夭改名西陵玖瑶",
+        "onboard_time": 1720856356,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174007,
+        "num": 174007,
+        "word": "刘忻陈昊宇浪姐后首个合作舞台",
+        "onboard_time": 1720858217,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163390,
+        "num": 163390,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 156340,
+        "word": "王子奇王玉雯合体了",
+        "onboard_time": 1720856897,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155177,
+        "num": 155177,
+        "word": "谢怜 红衣",
+        "onboard_time": 1720855938,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148107,
+        "num": 148107,
+        "word": "小夭彻底失去了相柳",
+        "onboard_time": 1720840877,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136999,
+        "num": 136999,
+        "word": "当我跟前夫的现任见面",
+        "onboard_time": 1720855517,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127453,
+        "num": 127453,
+        "word": "对象哪些行为你忍不了",
+        "onboard_time": 1720858458,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126185,
+        "num": 126185,
+        "word": "DYG偏偏你最好笑",
+        "onboard_time": 1720854977,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123576,
+        "num": 123576,
+        "word": "留了四年的长发卖了1100元",
+        "onboard_time": 1720853536,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 119891,
+        "word": "度华年断更",
+        "onboard_time": 1720854435,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118913,
+        "num": 118913,
+        "word": "otto开团mlxg",
+        "onboard_time": 1720855036,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117296,
+        "num": 117296,
+        "word": "吉利高管公开反内卷",
+        "onboard_time": 1720855697,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117228,
+        "num": 117228,
+        "word": "玱玹千夫的爱",
+        "onboard_time": 1720856057,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116769,
+        "num": 116769,
+        "word": "亚马尔如果决赛打满全场可能违法",
+        "onboard_time": 1720856417,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115799,
+        "num": 115799,
+        "word": "裴文宣爱的迫降",
+        "onboard_time": 1720848797,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 113362,
+        "word": "无学生在校不得安排教师值班",
+        "onboard_time": 1720857197,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 112517,
+        "word": "充完电先拔手机还是插头",
+        "onboard_time": 1720856237,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103851,
+        "num": 103851,
+        "word": "沈月李雪琴吃到停不下来",
+        "onboard_time": 1720858397,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革在不断解决问题中深化#"
+    }
+  }
+}
