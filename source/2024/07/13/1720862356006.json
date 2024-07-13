@@ -1,0 +1,410 @@
+{
+  "runTime": 1720862356006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679589,
+        "num": 1108734,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544621,
+        "num": 544621,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 474936,
+        "word": "突遇暴雨你该怎么办",
+        "onboard_time": 1720856237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642460,
+        "num": 468820,
+        "word": "赵丽颖活动穿ES高定",
+        "onboard_time": 1720861517,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459091,
+        "num": 459091,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389332,
+        "num": 389332,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 586435,
+        "num": 388539,
+        "word": "沈腾马丽回应闯入中偶赛道",
+        "onboard_time": 1720859237,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 487127,
+        "num": 388108,
+        "word": "沈腾马丽 你的名字",
+        "onboard_time": 1720859837,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 159511,
+        "num": 386683,
+        "word": "情绪稳定的妈妈最怕孩子放暑假",
+        "onboard_time": 1720843818,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20692,
+        "num": 386266,
+        "word": "防汛家书让98年抗洪者重返一线",
+        "onboard_time": 1720861219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158706,
+        "num": 385309,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571994,
+        "num": 384741,
+        "word": "姜涩琪道歉",
+        "onboard_time": 1720861277,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522275,
+        "num": 383864,
+        "word": "一个高龄产妇一个老来得子",
+        "onboard_time": 1720857018,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412371,
+        "num": 382581,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1720857438,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53259,
+        "num": 381985,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 340528,
+        "num": 380921,
+        "word": "On回应Bin踢椅子",
+        "onboard_time": 1720861578,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380224,
+        "num": 380224,
+        "word": "姜涩琪因换鞋引发霸凌争议",
+        "onboard_time": 1720855877,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230285,
+        "num": 375610,
+        "word": "中方回应美所谓促进解决藏中争议法案",
+        "onboard_time": 1720860138,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194060,
+        "num": 368615,
+        "word": "B太 从上海打车去新疆第二站",
+        "onboard_time": 1720854499,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 365130,
+        "word": "Ning力挺xun",
+        "onboard_time": 1720858937,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 637499,
+        "num": 358044,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477425,
+        "num": 353923,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350575,
+        "num": 350575,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 341413,
+        "num": 341413,
+        "word": "汤唯纪念结婚10周年",
+        "onboard_time": 1720859058,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306721,
+        "num": 306721,
+        "word": "范世錡直接指出奥利的错误",
+        "onboard_time": 1720857677,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242369,
+        "num": 242369,
+        "word": "稀有小马宝莉卡被炒到16万1张",
+        "onboard_time": 1720854017,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219361,
+        "num": 219361,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185575,
+        "num": 185575,
+        "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+        "onboard_time": 1720857916,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47408,
+        "num": 178842,
+        "word": "奥运军团出征在线求抱抱",
+        "onboard_time": 1720856537,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 178170,
+        "word": "英国小儿贾第虫病已致儿童死亡",
+        "onboard_time": 1720861819,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206505,
+        "num": 178045,
+        "word": "抓娃娃 楚门的世界",
+        "onboard_time": 1720846758,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177791,
+        "num": 177791,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176398,
+        "num": 176398,
+        "word": "张新成好像和妈妈不熟",
+        "onboard_time": 1720862116,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163578,
+        "num": 163578,
+        "word": "王子奇王玉雯合体了",
+        "onboard_time": 1720856897,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154692,
+        "num": 154692,
+        "word": "赵丽颖南京活动",
+        "onboard_time": 1720840098,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151079,
+        "num": 151079,
+        "word": "人鱼女主 杨幂",
+        "onboard_time": 1720841475,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149142,
+        "num": 149142,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 143559,
+        "word": "谁家男二前世今生无限续悲啊",
+        "onboard_time": 1720861037,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139637,
+        "num": 139637,
+        "word": "赛里木湖已经开始步入秋季了",
+        "onboard_time": 1720860858,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139051,
+        "num": 139051,
+        "word": "刘忻陈昊宇浪姐后首个合作舞台",
+        "onboard_time": 1720858217,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129983,
+        "num": 129983,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 129432,
+        "word": "鞠婧祎女明星超like断层第一",
+        "onboard_time": 1720860498,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119546,
+        "num": 119546,
+        "word": "孙颖莎闪现奔跑吧",
+        "onboard_time": 1720855097,
+        "rank": 42,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 118016,
+        "num": 118016,
+        "word": "一只大熊猫见到水就是一场泼水节",
+        "onboard_time": 1720859177,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114246,
+        "num": 114246,
+        "word": "小夭改名西陵玖瑶",
+        "onboard_time": 1720856356,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112704,
+        "num": 112704,
+        "word": "张新成王玉雯认识16年",
+        "onboard_time": 1720853716,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112609,
+        "num": 112609,
+        "word": "美国人办中国签证到底有多难",
+        "onboard_time": 1720851257,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108060,
+        "num": 108060,
+        "word": "火锅店成餐饮卷王",
+        "onboard_time": 1720857617,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103225,
+        "num": 103225,
+        "word": "谢怜 红衣",
+        "onboard_time": 1720855938,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94081,
+        "num": 94081,
+        "word": "60岁阿姨健身20年被夸比18岁还漂亮",
+        "onboard_time": 1720862057,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的一本笔记#"
+    }
+  }
+}
