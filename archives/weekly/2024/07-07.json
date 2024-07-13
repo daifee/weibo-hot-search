@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720827284169,
+  "endTime": 1720833796112,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147360,
+      "num": 1183577,
+      "word": "孟晚舟建议不要选和机器竞争的职业",
+      "onboard_time": 1720825995,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138275,
       "num": 379576,
       "word": "奚梦瑶2岁女儿身高",
@@ -1171,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 918511,
+      "num": 918511,
+      "word": "谢娜 小伙子今晚挺开朗的哇",
+      "onboard_time": 1720830196,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 916644,
       "num": 916644,
       "word": "上海暴雨",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1720666877,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 851469,
-      "num": 931304,
-      "word": "孟晚舟建议不要选和机器竞争的职业",
-      "onboard_time": 1720825995,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 846647,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1720443018,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 727310,
+      "num": 186793,
+      "word": "千万别再给手机充一整夜电了",
+      "onboard_time": 1720830736,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 726044,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1720280659,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626629,
+      "num": 626629,
+      "word": "撤档风吹到了电视剧圈",
+      "onboard_time": 1720832117,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 626241,
@@ -2987,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536594,
+      "num": 536594,
+      "word": "每天一杯饮料28岁女子血糖爆表进ICU",
+      "onboard_time": 1720826414,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536514,
       "num": 536514,
       "word": "王牌对王牌",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1720273757,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 515061,
+      "num": 515061,
+      "word": "不要穿带洞的衣服裤子鞋子去漂流",
+      "onboard_time": 1720827434,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 514790,
@@ -3217,6 +3257,14 @@
       "onboard_time": 1720574538,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495262,
+      "num": 495262,
+      "word": "7岁的小朋友220斤",
+      "onboard_time": 1720832717,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 495173,
@@ -3545,6 +3593,14 @@
       "onboard_time": 1720679299,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466501,
+      "num": 466501,
+      "word": "韩国男子被困电梯水淹身亡",
+      "onboard_time": 1720831576,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466397,
@@ -5147,6 +5203,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 348439,
+      "num": 183597,
+      "word": "6月新增新冠死亡病例5例",
+      "onboard_time": 1720827255,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348191,
       "num": 348191,
       "word": "相柳的角色微博名改了",
@@ -5507,6 +5571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 325099,
+      "num": 495536,
+      "word": "赵露思TikTok浏览量破120亿",
+      "onboard_time": 1720826653,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324734,
       "num": 324734,
       "word": "我国博士延毕率居高不下",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1720666277,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311126,
+      "num": 311126,
+      "word": "23年前那一声Beijing",
+      "onboard_time": 1720828575,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 311054,
@@ -6355,6 +6435,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 274553,
+      "num": 181128,
+      "word": "月经周期21天比35天衰老更快吗",
+      "onboard_time": 1720804576,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274508,
       "num": 274508,
       "word": "唐朝诡事录2宝想要宝得到",
@@ -6369,6 +6457,14 @@
       "onboard_time": 1720522159,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273341,
+      "num": 273341,
+      "word": "金庸武侠世界停播争议",
+      "onboard_time": 1720833018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 273290,
@@ -6571,8 +6667,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260312,
+      "num": 194063,
+      "word": "那英 大众评审终于有良心了",
+      "onboard_time": 1720833137,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260212,
-      "num": 125492,
+      "num": 160635,
       "word": "这3种卫生巾慎买",
       "onboard_time": 1720823713,
       "rank": 11,
@@ -7091,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237731,
+      "num": 237731,
+      "word": "人鱼已杀青",
+      "onboard_time": 1720826294,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237353,
       "num": 103504,
       "word": "租客让朋友来深圳住几天被罚500元",
@@ -7152,6 +7264,14 @@
       "word": "赵露思 路透",
       "onboard_time": 1720368077,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234569,
+      "num": 178449,
+      "word": "网剧错位",
+      "onboard_time": 1720830557,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -7387,20 +7507,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 226685,
-      "num": 93426,
-      "word": "月经周期21天比35天衰老更快吗",
-      "onboard_time": 1720804576,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 226598,
       "num": 203192,
       "word": "看到邓为的鞋散光加重了",
       "onboard_time": 1720707379,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226166,
+      "num": 171779,
+      "word": "迪丽热巴扛住了顶光",
+      "onboard_time": 1720830676,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 225876,
@@ -7521,6 +7641,14 @@
       "onboard_time": 1720690458,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219573,
+      "num": 170818,
+      "word": "亲戚以为读了研究生一个月工资得2万",
+      "onboard_time": 1720827735,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 219370,
@@ -7705,6 +7833,14 @@
       "onboard_time": 1720683497,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214089,
+      "num": 214089,
+      "word": "马斯克向特朗普捐款",
+      "onboard_time": 1720827016,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 213818,
@@ -8379,14 +8515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201527,
-      "num": 201527,
-      "word": "人鱼已杀青",
-      "onboard_time": 1720826294,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201438,
       "num": 201438,
       "word": "杨紫包场长相思2",
@@ -8785,6 +8913,14 @@
       "onboard_time": 1720427179,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "南京大屠杀幸存者石秀英离世",
+      "onboard_time": 1720826533,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194109,
@@ -10467,6 +10603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166999,
+      "num": 166999,
+      "word": "薛之谦演唱会嘉宾是陈伟霆",
+      "onboard_time": 1720827195,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166963,
       "num": 166963,
       "word": "相柳 ooc",
@@ -10635,12 +10779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164555,
-      "num": 122218,
-      "word": "每天一杯饮料28岁女子血糖爆表进ICU",
-      "onboard_time": 1720826414,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 164719,
+      "num": 164719,
+      "word": "老板喜欢叫我微信名挺无助的",
+      "onboard_time": 1720827735,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 164545,
@@ -11843,14 +11987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144964,
-      "num": 117631,
-      "word": "赵露思TikTok浏览量破120亿",
-      "onboard_time": 1720826653,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "荷兰vs土耳其",
@@ -12115,6 +12251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140972,
+      "num": 140972,
+      "word": "范丞丞骗了跑男所有人",
+      "onboard_time": 1720829837,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140928,
       "num": 140928,
       "word": "青春有你国际版选手名单",
@@ -12257,6 +12401,14 @@
       "onboard_time": 1720595177,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139355,
+      "num": 139355,
+      "word": "考古学家在河南发现了9000年前的爱情",
+      "onboard_time": 1720828155,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139273,
@@ -12457,6 +12609,14 @@
       "onboard_time": 1720600578,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136383,
+      "num": 136383,
+      "word": "Meta取消对特朗普账号限制",
+      "onboard_time": 1720831157,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 136375,
@@ -12963,6 +13123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129128,
+      "num": 129128,
+      "word": "崔永熙与中国男篮交手",
+      "onboard_time": 1720833018,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129058,
       "num": 129058,
       "word": "2024四川首封高考录取通知书",
@@ -13147,6 +13315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127055,
+      "num": 127055,
+      "word": "竟然被一只男熊猫甜到了",
+      "onboard_time": 1720626138,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126731,
       "num": 126731,
       "word": "周深新歌缝合",
@@ -13259,6 +13435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125247,
+      "num": 125247,
+      "word": "王源演唱会主题房爆火",
+      "onboard_time": 1720827554,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125165,
       "num": 125165,
       "word": "张馨予买地毯砍价",
@@ -13289,6 +13473,14 @@
       "onboard_time": 1720523357,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124894,
+      "num": 124894,
+      "word": "拆卡直播间半年狂揽2.78亿",
+      "onboard_time": 1720827255,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 124789,
@@ -13448,6 +13640,14 @@
       "word": "石凯南京",
       "onboard_time": 1720320376,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122526,
+      "num": 122526,
+      "word": "郑秀文许志安同台合唱",
+      "onboard_time": 1720831097,
+      "rank": 39,
       "category": "演出"
     },
     {
@@ -13617,6 +13817,14 @@
       "onboard_time": 1720518197,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121013,
+      "num": 121013,
+      "word": "同事向我展示了她花两千学的蝶泳",
+      "onboard_time": 1720829236,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 120609,
@@ -13851,6 +14059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116880,
+      "num": 116880,
+      "word": "OpenAI限制中国用户访问",
+      "onboard_time": 1720829957,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116855,
       "num": 116855,
       "word": "苏容卿不是幸会是好久不见",
@@ -13913,6 +14129,14 @@
       "onboard_time": 1720498459,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116077,
+      "num": 116077,
+      "word": "护士高温天跪地救人双膝都磨破",
+      "onboard_time": 1720829474,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115975,
@@ -14115,6 +14339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113569,
+      "num": 113569,
+      "word": "花小龙王老师好嗑",
+      "onboard_time": 1720831337,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113505,
       "num": 241793,
       "word": "媒体评罐车拉完煤制油直接装食用油",
@@ -14241,6 +14473,14 @@
       "onboard_time": 1720329018,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112167,
+      "num": 112167,
+      "word": "西湖大学本科新生大多是高二生",
+      "onboard_time": 1720828096,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 112159,
@@ -14748,7 +14988,7 @@
     },
     {
       "raw_hot": 104905,
-      "num": 69880,
+      "num": 96643,
       "word": "相亲相到了把我挂了的面试官",
       "onboard_time": 1720826833,
       "rank": 30,
@@ -14891,6 +15131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 103156,
+      "num": 103156,
+      "word": "白鹿镜头下鲜活的跑男团",
+      "onboard_time": 1720828395,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103008,
       "num": 125208,
       "word": "billboard评选的最佳KPOP专辑",
@@ -14984,6 +15232,14 @@
       "word": "老人接诈骗电话后存折上的27万被转走",
       "onboard_time": 1720654455,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100963,
+      "num": 100963,
+      "word": "00后女孩头戴长臂猿走红",
+      "onboard_time": 1720828216,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -15379,14 +15635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91460,
-      "num": 91460,
-      "word": "竟然被一只男熊猫甜到了",
-      "onboard_time": 1720626138,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91394,
       "num": 91394,
       "word": "门罗",
@@ -15715,14 +15963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78009,
-      "num": 78009,
-      "word": "6月新增新冠死亡病例5例",
-      "onboard_time": 1720827255,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77894,
       "num": 77894,
       "word": "苏州今晚的明星含量爆表",
@@ -15963,14 +16203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70170,
-      "num": 70170,
-      "word": "拆卡直播间半年狂揽2.78亿",
-      "onboard_time": 1720827255,
-      "rank": 29,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 69954,
       "num": 69954,
       "word": "TES全华班",
@@ -16113,6 +16345,14 @@
       "onboard_time": 1720371614,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65450,
+      "num": 495267,
+      "word": "七八月份可观测直立银河",
+      "onboard_time": 1720832897,
+      "rank": 9,
+      "category": "自然"
     },
     {
       "raw_hot": 65206,
@@ -16352,14 +16592,6 @@
       "word": "女孩卡脖悬空男子徒手爬楼解救",
       "onboard_time": 1720664118,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59266,
-      "num": 59266,
-      "word": "南京大屠杀幸存者石秀英离世",
-      "onboard_time": 1720826533,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -16921,14 +17153,6 @@
       "onboard_time": 1720627998,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45324,
-      "num": 45324,
-      "word": "马斯克向特朗普捐款",
-      "onboard_time": 1720827016,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 45307,
