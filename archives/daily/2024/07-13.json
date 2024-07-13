@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720855072955,
+  "endTime": 1720856062337,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -115,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 907090,
+      "num": 907090,
+      "word": "日本近百万人因弹珠店破产",
+      "onboard_time": 1720852817,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787577,
       "num": 805600,
       "word": "浙江14岁女孩确诊马斯克同款天才病",
@@ -161,14 +169,6 @@
       "onboard_time": 1720846277,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732455,
-      "num": 732455,
-      "word": "日本近百万人因弹珠店破产",
-      "onboard_time": 1720852817,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 679728,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449284,
+      "num": 147308,
+      "word": "张新成王玉雯认识16年",
+      "onboard_time": 1720853716,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444998,
       "num": 444998,
       "word": "那英 大众评审终于有良心了",
@@ -337,14 +345,6 @@
       "onboard_time": 1720851257,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 421098,
-      "num": 137117,
-      "word": "张新成王玉雯认识16年",
-      "onboard_time": 1720853716,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 417352,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311418,
+      "num": 146341,
+      "word": "稀有小马宝莉卡被炒到16万1张",
+      "onboard_time": 1720854017,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311126,
       "num": 311126,
       "word": "23年前那一声Beijing",
@@ -553,6 +561,14 @@
       "onboard_time": 1720823713,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258440,
+      "num": 144141,
+      "word": "B太 从上海打车去新疆第二站",
+      "onboard_time": 1720854499,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 254222,
@@ -683,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218606,
+      "num": 364228,
+      "word": "2024三伏时间表",
+      "onboard_time": 1720854137,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217561,
       "num": 515686,
       "word": "405位中国运动员出征巴黎奥运",
@@ -716,19 +740,11 @@
     },
     {
       "raw_hot": 209579,
-      "num": 137223,
+      "num": 145722,
       "word": "张杰请继续开朗",
       "onboard_time": 1720854435,
       "rank": 22,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 208228,
-      "num": 136980,
-      "word": "稀有小马宝莉卡被炒到16万1张",
-      "onboard_time": 1720854017,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207804,
@@ -795,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201177,
+      "num": 201177,
+      "word": "DYG偏偏你最好笑",
+      "onboard_time": 1720854977,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198662,
+      "num": 198662,
+      "word": "孙颖莎闪现奔跑吧",
+      "onboard_time": 1720855097,
+      "rank": 17,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 194273,
       "num": 136885,
       "word": "华晨宇南昌抢票",
@@ -851,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186841,
+      "num": 145128,
+      "word": "姜涩琪因换鞋引发霸凌争议",
+      "onboard_time": 1720855877,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185642,
       "num": 185642,
       "word": "那些纹美瞳线的人现在都怎么样了",
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 182543,
-      "num": 136733,
+      "num": 137340,
       "word": "于适直播",
       "onboard_time": 1720854556,
       "rank": 31,
@@ -915,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174993,
-      "num": 136624,
-      "word": "B太 从上海打车去新疆第二站",
-      "onboard_time": 1720854499,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 172979,
       "num": 172979,
       "word": "俄女驯兽师被自己驯养的熊袭击身亡",
@@ -945,14 +977,6 @@
       "onboard_time": 1720779738,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171453,
-      "num": 364228,
-      "word": "2024三伏时间表",
-      "onboard_time": 1720854137,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170526,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 155814,
-      "num": 136491,
+      "num": 142229,
       "word": "度华年断更",
       "onboard_time": 1720854435,
       "rank": 35,
@@ -1187,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142089,
+      "num": 142089,
+      "word": "otto开团mlxg",
+      "onboard_time": 1720855036,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141487,
       "num": 141487,
       "word": "林俊杰点赞那英裹着心的光",
@@ -1251,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132281,
+      "num": 132281,
+      "word": "吉利高管公开反内卷",
+      "onboard_time": 1720855697,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132029,
       "num": 132029,
       "word": "Henry把黄子弘凡点燃了",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1720834037,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129240,
+      "num": 129240,
+      "word": "默杀 王者默杀适配度",
+      "onboard_time": 1720855157,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 128694,
@@ -1403,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120162,
+      "num": 120162,
+      "word": "当我跟前夫的现任见面",
+      "onboard_time": 1720855517,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119923,
       "num": 119923,
       "word": "歌手2024",
@@ -1443,28 +1499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116168,
-      "num": 116168,
-      "word": "otto开团mlxg",
-      "onboard_time": 1720855036,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116077,
       "num": 116077,
       "word": "护士高温天跪地救人双膝都磨破",
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 114763,
-      "num": 114763,
-      "word": "DYG偏偏你最好笑",
-      "onboard_time": 1720854977,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 113707,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1720828096,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108925,
+      "num": 108925,
+      "word": "谢怜 红衣",
+      "onboard_time": 1720855938,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 106947,
@@ -1787,7 +1835,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45764,
+      "raw_hot": 47518,
+      "num": 282044,
+      "word": "罕见病少年高考688分被清华录取",
+      "onboard_time": 1720855637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47261,
       "num": 357863,
       "word": "北京申奥成功23周年",
       "onboard_time": 1720853117,
@@ -1843,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41954,
+      "num": 690733,
+      "word": "一季度来华人数增长超3倍",
+      "onboard_time": 1720839737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40210,
       "num": 262481,
       "word": "男孩车祸去世捐献器官救6人",
@@ -1880,14 +1944,6 @@
       "word": "暴雨来袭直击重庆防汛抗洪现场",
       "onboard_time": 1720818431,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35510,
-      "num": 690733,
-      "word": "一季度来华人数增长超3倍",
-      "onboard_time": 1720839737,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1937,6 +1993,14 @@
       "onboard_time": 1720825634,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15999,
+      "num": 590184,
+      "word": "三中全会是个什么会",
+      "onboard_time": 1720855816,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15877,
@@ -2015,6 +2079,9 @@
     },
     {
       "word": "#全面深改进行时#"
+    },
+    {
+      "word": "#改革在不断解决问题中深化#"
     }
   ]
 }
