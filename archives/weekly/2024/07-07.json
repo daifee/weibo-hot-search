@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720874037666,
+  "endTime": 1720874912220,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1665195,
+      "num": 1665195,
+      "word": "疑在泰被撕票中国女子最后监控画面",
+      "onboard_time": 1720871418,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1608703,
       "num": 1608703,
       "word": "女子4次漏扫码被刑拘",
@@ -353,14 +361,6 @@
       "onboard_time": 1720606578,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1556579,
-      "num": 1556579,
-      "word": "疑在泰被撕票中国女子最后监控画面",
-      "onboard_time": 1720871418,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1526957,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1720327756,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938046,
+      "num": 938046,
+      "word": "第一次这么心疼一个剧的反派",
+      "onboard_time": 1720872978,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 932345,
@@ -2835,14 +2843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 590162,
-      "num": 590162,
-      "word": "第一次这么心疼一个剧的反派",
-      "onboard_time": 1720872978,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 587745,
       "num": 587745,
       "word": "4岁姐姐抱着8个月壮汉弟弟",
@@ -3993,6 +3993,14 @@
       "onboard_time": 1720524677,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462132,
+      "num": 462132,
+      "word": "青春芒果夜",
+      "onboard_time": 1720869797,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 461665,
@@ -5707,14 +5715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345954,
-      "num": 345954,
-      "word": "青春芒果夜",
-      "onboard_time": 1720869797,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344906,
       "num": 248890,
       "word": "这5种水果晚上千万别吃",
@@ -5953,6 +5953,14 @@
       "onboard_time": 1720673182,
       "rank": 26,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 329683,
+      "num": 329683,
+      "word": "肖战 重庆",
+      "onboard_time": 1720872078,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 329390,
@@ -6985,14 +6993,6 @@
       "onboard_time": 1720490417,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275985,
-      "num": 234559,
-      "word": "肖战 重庆",
-      "onboard_time": 1720872078,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 275835,
@@ -8451,6 +8451,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 217080,
+      "num": 198505,
+      "word": "宫颈癌复发元凶竟在丈夫身上",
+      "onboard_time": 1720872018,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216731,
       "num": 214394,
       "word": "这居然是2024年的李东海",
@@ -8651,6 +8659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211907,
+      "num": 211907,
+      "word": "JDG战胜Hero",
+      "onboard_time": 1720873759,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211682,
       "num": 211682,
       "word": "黄景瑜藏獒进猫箱",
@@ -8721,6 +8737,14 @@
       "onboard_time": 1720569137,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209777,
+      "num": 209777,
+      "word": "王源 抢票",
+      "onboard_time": 1720873997,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 209686,
@@ -9323,14 +9347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201338,
-      "num": 201338,
-      "word": "JDG战胜Hero",
-      "onboard_time": 1720873759,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201221,
       "num": 191976,
       "word": "黄景瑜茶系男主",
@@ -9801,14 +9817,6 @@
       "onboard_time": 1720357338,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193981,
-      "num": 193981,
-      "word": "宫颈癌复发元凶竟在丈夫身上",
-      "onboard_time": 1720872018,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 193790,
@@ -10971,6 +10979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176860,
+      "num": 176860,
+      "word": "赵丽颖提裙图",
+      "onboard_time": 1720870817,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176801,
       "num": 176801,
       "word": "郑秀晶出发上海",
@@ -11563,14 +11579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168790,
-      "num": 168790,
-      "word": "赵丽颖提裙图",
-      "onboard_time": 1720870817,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168766,
       "num": 168766,
       "word": "iPhone15升级iOS18后问题频发",
@@ -11625,6 +11633,14 @@
       "onboard_time": 1720666516,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168164,
+      "num": 168164,
+      "word": "张颂文用乱码回复马嘉祺",
+      "onboard_time": 1720870697,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168121,
@@ -11883,14 +11899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164677,
-      "num": 164677,
-      "word": "张颂文用乱码回复马嘉祺",
-      "onboard_time": 1720870697,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164545,
       "num": 164545,
       "word": "Knight身体不适",
@@ -12067,6 +12075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162080,
+      "num": 140127,
+      "word": "Uzi说ming首播叫小虎",
+      "onboard_time": 1720873997,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162057,
       "num": 162057,
       "word": "子宫肌瘤有可能是吃出来的",
@@ -12145,6 +12161,14 @@
       "onboard_time": 1720329018,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161035,
+      "num": 140071,
+      "word": "张嘉元两个月涨两百多分",
+      "onboard_time": 1720873577,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160375,
@@ -12915,6 +12939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149136,
+      "num": 139895,
+      "word": "迪丽热巴拍摄vlog",
+      "onboard_time": 1720874718,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148841,
       "num": 198939,
       "word": "韩国首尔大学N号房事件",
@@ -13675,6 +13707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140128,
+      "num": 169208,
+      "word": "当父辈的潮流轮回到年轻人身上",
+      "onboard_time": 1720872018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140055,
       "num": 140055,
       "word": "少年歌行爸爸篇",
@@ -13699,6 +13739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139772,
+      "num": 130818,
+      "word": "薛之谦冲下台支持唐汉霄",
+      "onboard_time": 1720873337,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139747,
       "num": 139747,
       "word": "充完电先拔手机还是插头",
@@ -13713,14 +13761,6 @@
       "onboard_time": 1720595177,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139409,
-      "num": 137354,
-      "word": "王源 抢票",
-      "onboard_time": 1720873997,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 139355,
@@ -13817,6 +13857,14 @@
       "onboard_time": 1720679717,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138439,
+      "num": 138439,
+      "word": "20岁女生独自在海上漂流36小时",
+      "onboard_time": 1720872377,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138355,
@@ -14120,14 +14168,6 @@
       "word": "成毅白发适配度拉满",
       "onboard_time": 1720422619,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134479,
-      "num": 134479,
-      "word": "张嘉元两个月涨两百多分",
-      "onboard_time": 1720873577,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -14659,6 +14699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128838,
+      "num": 128838,
+      "word": "大张伟开场",
+      "onboard_time": 1720874598,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128602,
       "num": 128602,
       "word": "屈楚萧带着寸头杀回来了",
@@ -14747,6 +14795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127495,
+      "num": 127495,
+      "word": "光年之外",
+      "onboard_time": 1720874777,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127488,
       "num": 127488,
       "word": "乔治自曝离开快船原因",
@@ -14785,14 +14841,6 @@
       "onboard_time": 1720626138,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126743,
-      "num": 126743,
-      "word": "薛之谦冲下台支持唐汉霄",
-      "onboard_time": 1720873337,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 126731,
@@ -15153,6 +15201,14 @@
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122469,
+      "num": 122469,
+      "word": "泰国警方称发现失踪中国女子遗体",
+      "onboard_time": 1720874657,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122432,
@@ -15899,14 +15955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113888,
-      "num": 169208,
-      "word": "当父辈的潮流轮回到年轻人身上",
-      "onboard_time": 1720872018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113735,
       "num": 113735,
       "word": "朱一龙一部电影两种身份",
@@ -16065,14 +16113,6 @@
       "onboard_time": 1720593558,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 112375,
-      "num": 112375,
-      "word": "Uzi说ming首播叫小虎",
-      "onboard_time": 1720873997,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 112355,
@@ -18108,7 +18148,7 @@
     },
     {
       "raw_hot": 66325,
-      "num": 743137,
+      "num": 753121,
       "word": "三中全会是个什么会",
       "onboard_time": 1720855816,
       "rank": 2,
