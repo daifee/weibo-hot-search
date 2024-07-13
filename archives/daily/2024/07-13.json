@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720835032064,
+  "endTime": 1720838162666,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -11,12 +11,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1218625,
+      "num": 1218625,
+      "word": "千万别再给手机充一整夜电了",
+      "onboard_time": 1720830736,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1147360,
       "num": 1183577,
       "word": "孟晚舟建议不要选和机器竞争的职业",
       "onboard_time": 1720825995,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132361,
+      "num": 1132361,
+      "word": "撤档风吹到了电视剧圈",
+      "onboard_time": 1720832117,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1104610,
@@ -27,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1000869,
-      "num": 186956,
-      "word": "千万别再给手机充一整夜电了",
-      "onboard_time": 1720830736,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 996364,
       "num": 996364,
       "word": "福宝没认出姜爷爷",
@@ -43,20 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943161,
-      "num": 943161,
-      "word": "撤档风吹到了电视剧圈",
-      "onboard_time": 1720832117,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 918511,
       "num": 918511,
       "word": "谢娜 小伙子今晚挺开朗的哇",
       "onboard_time": 1720830196,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 829156,
+      "num": 829156,
+      "word": "航仔求婚徐老师",
+      "onboard_time": 1720834936,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 810022,
+      "num": 810022,
+      "word": "巴黎奥运中国代表团正式成立",
+      "onboard_time": 1720837097,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 787577,
@@ -83,12 +99,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 544355,
+      "num": 261048,
+      "word": "市监局每天办公6.5小时电话无人接",
+      "onboard_time": 1720834818,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536594,
       "num": 536594,
       "word": "每天一杯饮料28岁女子血糖爆表进ICU",
       "onboard_time": 1720826414,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529134,
+      "num": 529134,
+      "word": "金庸武侠世界停播争议",
+      "onboard_time": 1720833018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 516995,
@@ -105,14 +137,6 @@
       "onboard_time": 1720827434,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 494178,
-      "num": 494178,
-      "word": "金庸武侠世界停播争议",
-      "onboard_time": 1720833018,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 444998,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 348439,
-      "num": 183597,
+      "num": 183722,
       "word": "6月新增新冠死亡病例5例",
       "onboard_time": 1720827255,
       "rank": 23,
@@ -179,12 +203,36 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 332301,
+      "num": 332301,
+      "word": "恋与深空BW",
+      "onboard_time": 1720836137,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 328082,
+      "num": 328082,
+      "word": "刘诗诗北舞严选",
+      "onboard_time": 1720836137,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325099,
       "num": 495536,
       "word": "赵露思TikTok浏览量破120亿",
       "onboard_time": 1720826653,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316764,
+      "num": 316764,
+      "word": "萝卜快跑",
+      "onboard_time": 1720833916,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 311126,
@@ -201,6 +249,14 @@
       "onboard_time": 1720804576,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 276894,
+      "num": 276894,
+      "word": "布朗尼三分8中0",
+      "onboard_time": 1720836677,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 271235,
@@ -233,14 +289,6 @@
       "onboard_time": 1720826294,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235887,
-      "num": 235887,
-      "word": "萝卜快跑",
-      "onboard_time": 1720833916,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 234569,
@@ -307,11 +355,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "抓娃娃点映",
+      "onboard_time": 1720834698,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202442,
+      "num": 202442,
+      "word": "巴黎奥运中国运动员平均25岁",
+      "onboard_time": 1720837157,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194125,
       "num": 194125,
       "word": "南京大屠杀幸存者石秀英离世",
       "onboard_time": 1720826533,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192281,
+      "num": 192281,
+      "word": "萝卜快跑安全员闭眼3秒系统会报警",
+      "onboard_time": 1720833856,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -321,6 +393,14 @@
       "onboard_time": 1720786818,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185642,
+      "num": 185642,
+      "word": "那些纹美瞳线的人现在都怎么样了",
+      "onboard_time": 1720837037,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 181261,
@@ -353,6 +433,14 @@
       "onboard_time": 1720827735,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163849,
+      "num": 163849,
+      "word": "世界之外BW",
+      "onboard_time": 1720836677,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 162356,
@@ -411,11 +499,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144134,
-      "num": 144134,
-      "word": "萝卜快跑安全员闭眼3秒系统会报警",
-      "onboard_time": 1720833856,
-      "rank": 30,
+      "raw_hot": 147550,
+      "num": 147550,
+      "word": "谁在对拆卡直播间上头",
+      "onboard_time": 1720835057,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 146005,
+      "num": 146005,
+      "word": "香港新房跌穿2015年价格",
+      "onboard_time": 1720834457,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -451,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140445,
+      "num": 140445,
+      "word": "不能随便用小孩当屏保了",
+      "onboard_time": 1720837757,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "考古学家在河南发现了9000年前的爱情",
@@ -465,6 +569,14 @@
       "onboard_time": 1720831157,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 132813,
+      "num": 132813,
+      "word": "周深演唱会",
+      "onboard_time": 1720836557,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 131575,
@@ -515,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128514,
-      "num": 128514,
-      "word": "抓娃娃点映",
-      "onboard_time": 1720834698,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127929,
       "num": 127929,
       "word": "美国队长4预告",
@@ -571,14 +675,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 124315,
-      "num": 124315,
-      "word": "航仔求婚徐老师",
-      "onboard_time": 1720834936,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123103,
       "num": 123103,
       "word": "李梦承认恋情",
@@ -601,6 +697,14 @@
       "onboard_time": 1720829236,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120855,
+      "num": 120855,
+      "word": "中国在南海的历史性权利不容否定",
+      "onboard_time": 1720835597,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120359,
@@ -635,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116621,
-      "num": 116621,
-      "word": "香港新房跌穿2015年价格",
-      "onboard_time": 1720834457,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116077,
       "num": 116077,
       "word": "护士高温天跪地救人双膝都磨破",
       "onboard_time": 1720829474,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 113730,
+      "num": 113730,
+      "word": "金毛 我这该死的灵敏嗅觉啊",
+      "onboard_time": 1720837277,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 113569,
@@ -665,14 +769,6 @@
       "onboard_time": 1720828096,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 111322,
-      "num": 111322,
-      "word": "市监局每天办公6.5小时电话无人接",
-      "onboard_time": 1720834818,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106947,
@@ -817,6 +913,14 @@
       "onboard_time": 1720805954,
       "rank": 30,
       "category": "体育,国外时政"
+    },
+    {
+      "raw_hot": 62941,
+      "num": 499398,
+      "word": "男孩请女同学来家玩一刻没闲着",
+      "onboard_time": 1720836916,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61353,
@@ -1019,7 +1123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7060,
+      "raw_hot": 8219,
       "num": 998890,
       "word": "洪水中这些身影是安全感的来源",
       "onboard_time": 1720788019,

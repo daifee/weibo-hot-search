@@ -1,0 +1,410 @@
+{
+  "runTime": 1720838162666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1218625,
+        "num": 1218625,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1132361,
+        "num": 1132361,
+        "word": "撤档风吹到了电视剧圈",
+        "onboard_time": 1720832117,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8219,
+        "num": 948560,
+        "word": "洪水中这些身影是安全感的来源",
+        "onboard_time": 1720788019,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860723,
+        "num": 860723,
+        "word": "孟晚舟建议不要选和机器竞争的职业",
+        "onboard_time": 1720825995,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829156,
+        "num": 829156,
+        "word": "航仔求婚徐老师",
+        "onboard_time": 1720834936,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 810022,
+        "num": 810022,
+        "word": "巴黎奥运中国代表团正式成立",
+        "onboard_time": 1720837097,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641522,
+        "num": 641522,
+        "word": "谢娜 小伙子今晚挺开朗的哇",
+        "onboard_time": 1720830196,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550129,
+        "num": 550129,
+        "word": "浙江14岁女孩确诊马斯克同款天才病",
+        "onboard_time": 1720804576,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529134,
+        "num": 529134,
+        "word": "金庸武侠世界停播争议",
+        "onboard_time": 1720833018,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62941,
+        "num": 499398,
+        "word": "男孩请女同学来家玩一刻没闲着",
+        "onboard_time": 1720836916,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475039,
+        "num": 475039,
+        "word": "7岁的小朋友220斤",
+        "onboard_time": 1720832717,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376775,
+        "num": 376775,
+        "word": "那英 大众评审终于有良心了",
+        "onboard_time": 1720833137,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332301,
+        "num": 332301,
+        "word": "恋与深空BW",
+        "onboard_time": 1720836137,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328082,
+        "num": 328082,
+        "word": "刘诗诗北舞严选",
+        "onboard_time": 1720836137,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316764,
+        "num": 316764,
+        "word": "萝卜快跑",
+        "onboard_time": 1720833916,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316064,
+        "num": 316064,
+        "word": "每天一杯饮料28岁女子血糖爆表进ICU",
+        "onboard_time": 1720826414,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312668,
+        "num": 312668,
+        "word": "韩国男子被困电梯水淹身亡",
+        "onboard_time": 1720831576,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276894,
+        "num": 276894,
+        "word": "布朗尼三分8中0",
+        "onboard_time": 1720836677,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275742,
+        "num": 275742,
+        "word": "李晨 后继有人",
+        "onboard_time": 1720798339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270484,
+        "num": 270484,
+        "word": "福宝没认出姜爷爷",
+        "onboard_time": 1720792100,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544355,
+        "num": 261048,
+        "word": "市监局每天办公6.5小时电话无人接",
+        "onboard_time": 1720834818,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228201,
+        "num": 228201,
+        "word": "赵露思TikTok浏览量破120亿",
+        "onboard_time": 1720826653,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221684,
+        "num": 221684,
+        "word": "不要穿带洞的衣服裤子鞋子去漂流",
+        "onboard_time": 1720827434,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206790,
+        "num": 206790,
+        "word": "抓娃娃点映",
+        "onboard_time": 1720834698,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202442,
+        "num": 202442,
+        "word": "巴黎奥运中国运动员平均25岁",
+        "onboard_time": 1720837157,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192281,
+        "num": 192281,
+        "word": "萝卜快跑安全员闭眼3秒系统会报警",
+        "onboard_time": 1720833856,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185642,
+        "num": 185642,
+        "word": "那些纹美瞳线的人现在都怎么样了",
+        "onboard_time": 1720837037,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183722,
+        "num": 183722,
+        "word": "6月新增新冠死亡病例5例",
+        "onboard_time": 1720827255,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167556,
+        "num": 167556,
+        "word": "迪丽热巴扛住了顶光",
+        "onboard_time": 1720830676,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163849,
+        "num": 163849,
+        "word": "世界之外BW",
+        "onboard_time": 1720836677,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160959,
+        "num": 160959,
+        "word": "网剧错位",
+        "onboard_time": 1720830557,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148224,
+        "num": 148224,
+        "word": "月经周期21天比35天衰老更快吗",
+        "onboard_time": 1720804576,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147550,
+        "num": 147550,
+        "word": "谁在对拆卡直播间上头",
+        "onboard_time": 1720835057,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146005,
+        "num": 146005,
+        "word": "香港新房跌穿2015年价格",
+        "onboard_time": 1720834457,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140445,
+        "num": 140445,
+        "word": "不能随便用小孩当屏保了",
+        "onboard_time": 1720837757,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132813,
+        "num": 132813,
+        "word": "周深演唱会",
+        "onboard_time": 1720836557,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128938,
+        "num": 128938,
+        "word": "薛之谦演唱会嘉宾是陈伟霆",
+        "onboard_time": 1720827195,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128274,
+        "num": 128274,
+        "word": "女子醉驾被查坐地拖延遭儿子怒斥",
+        "onboard_time": 1720834037,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127441,
+        "num": 127441,
+        "word": "亲戚以为读了研究生一个月工资得2万",
+        "onboard_time": 1720827735,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127015,
+        "num": 127015,
+        "word": "人鱼已杀青",
+        "onboard_time": 1720826294,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121164,
+        "num": 121164,
+        "word": "23年前那一声Beijing",
+        "onboard_time": 1720828575,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 120855,
+        "word": "中国在南海的历史性权利不容否定",
+        "onboard_time": 1720835597,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120380,
+        "num": 120380,
+        "word": "南京大屠杀幸存者石秀英离世",
+        "onboard_time": 1720826533,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113730,
+        "num": 113730,
+        "word": "金毛 我这该死的灵敏嗅觉啊",
+        "onboard_time": 1720837277,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113105,
+        "num": 113105,
+        "word": "那英第一",
+        "onboard_time": 1720792880,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112066,
+        "num": 112066,
+        "word": "这3种卫生巾慎买",
+        "onboard_time": 1720823713,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111403,
+        "num": 111403,
+        "word": "竟然被一只男熊猫甜到了",
+        "onboard_time": 1720826533,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "林俊杰原唱",
+        "onboard_time": 1720797679,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93986,
+        "num": 93986,
+        "word": "Meta取消对特朗普账号限制",
+        "onboard_time": 1720831157,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 91331,
+        "num": 91331,
+        "word": "崔永熙与中国男篮交手",
+        "onboard_time": 1720833018,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见所罗门群岛总理#"
+    }
+  }
+}
