@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720847939643,
+  "endTime": 1720848911948,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -448,6 +448,14 @@
       "word": "台湾新冠死亡病例暴增55%",
       "onboard_time": 1720661958,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1404092,
+      "num": 289832,
+      "word": "女子为恢复卵巢功能连炫20多个榴莲",
+      "onboard_time": 1720847657,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2515,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619618,
+      "num": 619618,
+      "word": "肖战为中国队出征加油",
+      "onboard_time": 1720847537,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617884,
       "num": 251602,
       "word": "1L装饮料为何成年轻人的社交货币",
@@ -2625,14 +2641,6 @@
       "onboard_time": 1720699279,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 595895,
-      "num": 289832,
-      "word": "女子为恢复卵巢功能连炫20多个榴莲",
-      "onboard_time": 1720847657,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595621,
@@ -3643,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475613,
+      "num": 475613,
+      "word": "丁太升说孙楠绝对不能算优秀歌手",
+      "onboard_time": 1720845078,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474114,
       "num": 474114,
       "word": "BLACKPINK巡演大电影预告片",
@@ -3673,14 +3689,6 @@
       "onboard_time": 1720579817,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 471473,
-      "num": 471473,
-      "word": "丁太升说孙楠绝对不能算优秀歌手",
-      "onboard_time": 1720845078,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 470544,
@@ -4387,14 +4395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423064,
-      "num": 423064,
-      "word": "肖战为中国队出征加油",
-      "onboard_time": 1720847537,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 422859,
       "num": 422859,
       "word": "王一博将传递奥运火炬",
@@ -4801,6 +4801,14 @@
       "onboard_time": 1720326676,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388133,
+      "num": 388133,
+      "word": "抓娃娃 楚门的世界",
+      "onboard_time": 1720846758,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 387771,
@@ -6531,14 +6539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286170,
-      "num": 286170,
-      "word": "抓娃娃 楚门的世界",
-      "onboard_time": 1720846758,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 285862,
       "num": 285862,
       "word": "4739人参加洞庭湖决堤现场救援",
@@ -7027,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254222,
+      "num": 254222,
+      "word": "王一博穿了灵龙",
+      "onboard_time": 1720848316,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 254218,
       "num": 254218,
       "word": "小夭今晚大婚",
@@ -7081,6 +7089,14 @@
       "onboard_time": 1720677139,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251595,
+      "num": 251595,
+      "word": "狐妖小红娘第12季定档",
+      "onboard_time": 1720848197,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 251172,
@@ -8027,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217561,
+      "num": 515686,
+      "word": "405位中国运动员出征巴黎奥运",
+      "onboard_time": 1720838358,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217191,
       "num": 196468,
       "word": "Red出道",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1720345456,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215640,
+      "num": 215640,
+      "word": "Lucky迷你版戚薇",
+      "onboard_time": 1720846517,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 215447,
@@ -8153,6 +8185,14 @@
       "onboard_time": 1720278919,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213459,
+      "num": 213459,
+      "word": "谭松韵久别重逢赛道",
+      "onboard_time": 1720846938,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213307,
@@ -8611,14 +8651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204827,
-      "num": 204827,
-      "word": "Lucky迷你版戚薇",
-      "onboard_time": 1720846517,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204759,
       "num": 174693,
       "word": "深圳卫健委喊话涂山璟来做DNA鉴定",
@@ -8891,14 +8923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200971,
-      "num": 200971,
-      "word": "谭松韵久别重逢赛道",
-      "onboard_time": 1720846938,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200962,
       "num": 200962,
       "word": "为什么超市收银员不能坐着上班",
@@ -8936,6 +8960,14 @@
       "word": "张凌赫和裴文宣合照",
       "onboard_time": 1720533858,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200574,
+      "num": 200574,
+      "word": "裴文宣爱的迫降",
+      "onboard_time": 1720848797,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -9041,14 +9073,6 @@
       "onboard_time": 1720394655,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197899,
-      "num": 515686,
-      "word": "405位中国运动员出征巴黎奥运",
-      "onboard_time": 1720838358,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 197881,
@@ -9353,6 +9377,14 @@
       "onboard_time": 1720433658,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193404,
+      "num": 193404,
+      "word": "国漫界意难平又来了",
+      "onboard_time": 1720847897,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 193228,
@@ -10337,6 +10369,14 @@
       "onboard_time": 1720436238,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177540,
+      "num": 177540,
+      "word": "汪苏泷南京开票",
+      "onboard_time": 1720848797,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 177508,
@@ -12169,14 +12209,6 @@
       "onboard_time": 1720611918,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 149613,
-      "num": 149613,
-      "word": "国漫界意难平又来了",
-      "onboard_time": 1720847897,
-      "rank": 46,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 149384,
@@ -17273,6 +17305,14 @@
       "onboard_time": 1720383191,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57077,
+      "num": 522670,
+      "word": "罕见病药进医保患儿父母激动得站起来",
+      "onboard_time": 1720848197,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56923,
