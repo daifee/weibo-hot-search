@@ -1,0 +1,410 @@
+{
+  "runTime": 1720884864053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835489,
+        "num": 1835489,
+        "word": "有人工资卡转账额度被降到500元",
+        "onboard_time": 1720880780,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860528,
+        "num": 860528,
+        "word": "女孩",
+        "onboard_time": 1720882159,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62762,
+        "num": 712146,
+        "word": "暴雨来袭他们全力以赴保群众安全",
+        "onboard_time": 1720876038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709920,
+        "num": 709920,
+        "word": "第一次这么心疼一个剧的反派",
+        "onboard_time": 1720872978,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517092,
+        "num": 517092,
+        "word": "凯特王妃将第二次公开露面",
+        "onboard_time": 1720880598,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 698248,
+        "num": 506235,
+        "word": "疑在泰被撕票中国女子最后监控画面",
+        "onboard_time": 1720871418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601344,
+        "num": 495279,
+        "word": "李宇春一晚四套高定全球首穿",
+        "onboard_time": 1720880840,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481074,
+        "num": 481074,
+        "word": "长沙这么热吗",
+        "onboard_time": 1720879580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339968,
+        "num": 339968,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720875197,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42093,
+        "num": 339679,
+        "word": "72岁爷爷为孙女手写订婚书",
+        "onboard_time": 1720884137,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451525,
+        "num": 334897,
+        "word": "抓娃娃 二婚设定",
+        "onboard_time": 1720874238,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406690,
+        "num": 332867,
+        "word": "希林娜依高嗓子咋了",
+        "onboard_time": 1720875078,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357533,
+        "num": 330806,
+        "word": "这是时代少年团演唱会吗",
+        "onboard_time": 1720878198,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345315,
+        "num": 326853,
+        "word": "奥利回应第一名是乐华买的",
+        "onboard_time": 1720877838,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325157,
+        "num": 325157,
+        "word": "重庆暴雨",
+        "onboard_time": 1720878920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198840,
+        "num": 198840,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191892,
+        "num": 191892,
+        "word": "宫颈癌复发元凶竟在丈夫身上",
+        "onboard_time": 1720872018,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156718,
+        "num": 191641,
+        "word": "5条人生建议治愈90%迷茫",
+        "onboard_time": 1720880479,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155191,
+        "num": 191538,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136597,
+        "num": 191216,
+        "word": "AG名将退役仪式",
+        "onboard_time": 1720880959,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 707302,
+        "num": 191019,
+        "word": "真的建议大家回归线下生活",
+        "onboard_time": 1720881560,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299545,
+        "num": 190586,
+        "word": "那英压轴",
+        "onboard_time": 1720883059,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280644,
+        "num": 190417,
+        "word": "刘亦菲又在当GAI溜子",
+        "onboard_time": 1720882880,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271804,
+        "num": 190080,
+        "word": "陈昊宇美貌",
+        "onboard_time": 1720875018,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271728,
+        "num": 189645,
+        "word": "韩廷办公室的床",
+        "onboard_time": 1720882519,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268233,
+        "num": 189429,
+        "word": "香汗淋漓魏大勋",
+        "onboard_time": 1720878198,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261941,
+        "num": 189071,
+        "word": "沈腾马丽抓娃娃首映同框",
+        "onboard_time": 1720878798,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258097,
+        "num": 188782,
+        "word": "王玉雯王子奇四搭",
+        "onboard_time": 1720883779,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225206,
+        "num": 188765,
+        "word": "高铁怎么还有这么坐的啊",
+        "onboard_time": 1720880720,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 188413,
+        "word": "周深演唱会唱嗨了",
+        "onboard_time": 1720884379,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192150,
+        "num": 188071,
+        "word": "玉泽演不是猛男吗",
+        "onboard_time": 1720882159,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187922,
+        "num": 187922,
+        "word": "岳云鹏 薛之谦演唱会",
+        "onboard_time": 1720877059,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118437,
+        "num": 183077,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116416,
+        "num": 182504,
+        "word": "DRG战胜AG",
+        "onboard_time": 1720882159,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115610,
+        "num": 182135,
+        "word": "欧洲杯",
+        "onboard_time": 1720882820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182111,
+        "num": 182111,
+        "word": "苏真真富家千金落凡尘",
+        "onboard_time": 1720881437,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178829,
+        "num": 178829,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112586,
+        "num": 173963,
+        "word": "AG超绝松弛感",
+        "onboard_time": 1720882939,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102316,
+        "num": 172301,
+        "word": "女生用10年从专科成功逆袭博士",
+        "onboard_time": 1720863558,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96763,
+        "num": 171747,
+        "word": "外国人对中国留学生的印象",
+        "onboard_time": 1720882700,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 171299,
+        "word": "沈月好可爱",
+        "onboard_time": 1720880780,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164980,
+        "num": 164980,
+        "word": "林俊杰陶喆合唱就是爱你",
+        "onboard_time": 1720879398,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162782,
+        "num": 162782,
+        "word": "青春芒果夜 真唱",
+        "onboard_time": 1720878139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159341,
+        "num": 159341,
+        "word": "陈都灵 你这样说我更i了",
+        "onboard_time": 1720883239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156564,
+        "num": 156564,
+        "word": "刘宇输了",
+        "onboard_time": 1720881859,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95194,
+        "num": 156443,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75597,
+        "num": 156044,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73616,
+        "num": 155747,
+        "word": "泰国警方称发现失踪中国女子遗体",
+        "onboard_time": 1720874657,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64496,
+        "num": 155506,
+        "word": "AG对战DRG",
+        "onboard_time": 1720880959,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59753,
+        "num": 155193,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的一本笔记#"
+    }
+  }
+}

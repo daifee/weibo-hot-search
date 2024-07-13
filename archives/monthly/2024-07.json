@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720883969881,
+  "endTime": 1720884864053,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -2867,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 860528,
+      "num": 860528,
+      "word": "女孩",
+      "onboard_time": 1720882159,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859720,
       "num": 859720,
       "word": "郑恺说找不到苗苗会有舆情",
@@ -4123,6 +4131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 707302,
+      "num": 364577,
+      "word": "真的建议大家回归线下生活",
+      "onboard_time": 1720881560,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706623,
       "num": 241414,
       "word": "三伏天气血不足最直观的感受",
@@ -5275,6 +5291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601344,
+      "num": 565544,
+      "word": "李宇春一晚四套高定全球首穿",
+      "onboard_time": 1720880840,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 601327,
       "num": 261773,
       "word": "谁家男朋友从订婚就开始哭啊",
@@ -5913,14 +5937,6 @@
       "onboard_time": 1720242258,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565544,
-      "num": 565544,
-      "word": "李宇春一晚四套高定全球首穿",
-      "onboard_time": 1720880840,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 565446,
@@ -7641,14 +7657,6 @@
       "onboard_time": 1719931760,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474762,
-      "num": 364577,
-      "word": "真的建议大家回归线下生活",
-      "onboard_time": 1720881560,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 474114,
@@ -10515,14 +10523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362519,
-      "num": 362519,
-      "word": "女孩",
-      "onboard_time": 1720882159,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362424,
       "num": 362424,
       "word": "红衣相柳",
@@ -12611,6 +12611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299545,
+      "num": 190586,
+      "word": "那英压轴",
+      "onboard_time": 1720883059,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299078,
       "num": 299078,
       "word": "秦彻 密约",
@@ -13835,6 +13843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261941,
+      "num": 234738,
+      "word": "沈腾马丽抓娃娃首映同框",
+      "onboard_time": 1720878798,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261822,
       "num": 261822,
       "word": "警方通报救护车副驾高速上直播飙车",
@@ -13945,6 +13961,14 @@
       "onboard_time": 1720050137,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258097,
+      "num": 188782,
+      "word": "王玉雯王子奇四搭",
+      "onboard_time": 1720883779,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 257923,
@@ -14369,14 +14393,6 @@
       "onboard_time": 1720185081,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248054,
-      "num": 234738,
-      "word": "沈腾马丽抓娃娃首映同框",
-      "onboard_time": 1720878798,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 248001,
@@ -18456,6 +18472,14 @@
       "word": "汪苏泷为演唱会01号怪物征名",
       "onboard_time": 1720010778,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 188413,
+      "word": "周深演唱会唱嗨了",
+      "onboard_time": 1720884379,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -22857,14 +22881,6 @@
       "onboard_time": 1720850657,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161592,
-      "num": 175583,
-      "word": "王玉雯王子奇四搭",
-      "onboard_time": 1720883779,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 161584,
@@ -32299,6 +32315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96763,
+      "num": 175156,
+      "word": "外国人对中国留学生的印象",
+      "onboard_time": 1720882700,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96761,
       "num": 97356,
       "word": "别人脸部按摩李云霄脸部正骨",
@@ -33465,14 +33489,6 @@
       "onboard_time": 1719984919,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 80003,
-      "num": 175156,
-      "word": "外国人对中国留学生的印象",
-      "onboard_time": 1720882700,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 79762,
@@ -36025,6 +36041,14 @@
       "onboard_time": 1720544715,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42093,
+      "num": 339679,
+      "word": "72岁爷爷为孙女手写订婚书",
+      "onboard_time": 1720884137,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42072,

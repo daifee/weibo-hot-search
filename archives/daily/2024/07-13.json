@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720883969881,
+  "endTime": 1720884864053,
   "band_list": [
     {
       "raw_hot": 1858785,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 860528,
+      "num": 860528,
+      "word": "女孩",
+      "onboard_time": 1720882159,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 847162,
       "num": 1135545,
       "word": "女子称晒背10天瘦了4斤",
@@ -297,6 +305,14 @@
       "onboard_time": 1720846277,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707302,
+      "num": 364577,
+      "word": "真的建议大家回归线下生活",
+      "onboard_time": 1720881560,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 706596,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 601344,
+      "num": 565544,
+      "word": "李宇春一晚四套高定全球首穿",
+      "onboard_time": 1720880840,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 595167,
       "num": 595167,
       "word": "抓娃娃",
@@ -449,14 +473,6 @@
       "onboard_time": 1720878920,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565544,
-      "num": 565544,
-      "word": "李宇春一晚四套高定全球首穿",
-      "onboard_time": 1720880840,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 564687,
@@ -577,14 +593,6 @@
       "onboard_time": 1720845078,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474762,
-      "num": 364577,
-      "word": "真的建议大家回归线下生活",
-      "onboard_time": 1720881560,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 462132,
@@ -752,14 +760,6 @@
       "word": "青春芒果夜 真唱",
       "onboard_time": 1720878139,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 362519,
-      "num": 362519,
-      "word": "女孩",
-      "onboard_time": 1720882159,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -931,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299545,
+      "num": 190586,
+      "word": "那英压轴",
+      "onboard_time": 1720883059,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289848,
       "num": 289848,
       "word": "查理苏生日卡",
@@ -1011,12 +1019,28 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 261941,
+      "num": 234738,
+      "word": "沈腾马丽抓娃娃首映同框",
+      "onboard_time": 1720878798,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260212,
       "num": 160635,
       "word": "这3种卫生巾慎买",
       "onboard_time": 1720823713,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258097,
+      "num": 188782,
+      "word": "王玉雯王子奇四搭",
+      "onboard_time": 1720883779,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 254222,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1720795459,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248054,
-      "num": 234738,
-      "word": "沈腾马丽抓娃娃首映同框",
-      "onboard_time": 1720878798,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 247643,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1720868297,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 188413,
+      "word": "周深演唱会唱嗨了",
+      "onboard_time": 1720884379,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 195416,
@@ -1953,14 +1977,6 @@
       "onboard_time": 1720850657,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161592,
-      "num": 175583,
-      "word": "王玉雯王子奇四搭",
-      "onboard_time": 1720883779,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 161035,
@@ -2683,6 +2699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115610,
+      "num": 188287,
+      "word": "欧洲杯",
+      "onboard_time": 1720882820,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115232,
       "num": 115232,
       "word": "三火",
@@ -2777,14 +2801,6 @@
       "onboard_time": 1720869797,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 107087,
-      "num": 188287,
-      "word": "欧洲杯",
-      "onboard_time": 1720882820,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 106947,
@@ -2899,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96763,
+      "num": 175156,
+      "word": "外国人对中国留学生的印象",
+      "onboard_time": 1720882700,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96680,
       "num": 96680,
       "word": "度华年预告",
@@ -3001,14 +3025,6 @@
       "onboard_time": 1720832897,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 80003,
-      "num": 175156,
-      "word": "外国人对中国留学生的印象",
-      "onboard_time": 1720882700,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 79760,
@@ -3297,6 +3313,14 @@
       "onboard_time": 1720827255,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42093,
+      "num": 339679,
+      "word": "72岁爷爷为孙女手写订婚书",
+      "onboard_time": 1720884137,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42072,
