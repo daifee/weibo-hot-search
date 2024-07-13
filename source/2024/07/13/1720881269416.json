@@ -1,0 +1,410 @@
+{
+  "runTime": 1720881269416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847162,
+        "num": 1135545,
+        "word": "女子称晒背10天瘦了4斤",
+        "onboard_time": 1720875197,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064516,
+        "num": 1064516,
+        "word": "第一次这么心疼一个剧的反派",
+        "onboard_time": 1720872978,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 937310,
+        "word": "暴雨来袭他们全力以赴保群众安全",
+        "onboard_time": 1720876038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858309,
+        "num": 858309,
+        "word": "这是时代少年团演唱会吗",
+        "onboard_time": 1720878198,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566303,
+        "num": 566303,
+        "word": "重庆暴雨",
+        "onboard_time": 1720878920,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073421,
+        "num": 523864,
+        "word": "疑在泰被撕票中国女子最后监控画面",
+        "onboard_time": 1720871418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815630,
+        "num": 467240,
+        "word": "希林娜依高嗓子咋了",
+        "onboard_time": 1720875078,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367814,
+        "num": 367814,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643850,
+        "num": 365173,
+        "word": "长沙这么热吗",
+        "onboard_time": 1720879580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116371,
+        "num": 362514,
+        "word": "5条人生建议治愈90%迷茫",
+        "onboard_time": 1720880479,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 706596,
+        "num": 359507,
+        "word": "凯特王妃将第二次公开露面",
+        "onboard_time": 1720880598,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 645180,
+        "num": 357319,
+        "word": "香汗淋漓魏大勋",
+        "onboard_time": 1720878198,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584612,
+        "num": 353546,
+        "word": "尚雯婕bangbang",
+        "onboard_time": 1720876279,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501375,
+        "num": 351800,
+        "word": "有人工资卡转账额度被降到500元",
+        "onboard_time": 1720880780,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501120,
+        "num": 345981,
+        "word": "抓娃娃 二婚设定",
+        "onboard_time": 1720874238,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498383,
+        "num": 342822,
+        "word": "陈昊宇美貌",
+        "onboard_time": 1720875018,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342600,
+        "num": 342600,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269072,
+        "num": 269072,
+        "word": "宫颈癌复发元凶竟在丈夫身上",
+        "onboard_time": 1720872018,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248310,
+        "num": 248310,
+        "word": "泰国警方称发现失踪中国女子遗体",
+        "onboard_time": 1720874657,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210990,
+        "num": 210990,
+        "word": "AG对战DRG",
+        "onboard_time": 1720880959,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 376919,
+        "num": 208469,
+        "word": "青春芒果夜 真唱",
+        "onboard_time": 1720878139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366706,
+        "num": 204986,
+        "word": "奥利回应第一名是乐华买的",
+        "onboard_time": 1720877838,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338419,
+        "num": 199040,
+        "word": "岳云鹏 薛之谦演唱会",
+        "onboard_time": 1720877059,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312887,
+        "num": 198550,
+        "word": "齐思钧主持",
+        "onboard_time": 1720879519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194453,
+        "num": 194453,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274210,
+        "num": 191305,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256361,
+        "num": 190780,
+        "word": "光年之外",
+        "onboard_time": 1720874777,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248054,
+        "num": 189989,
+        "word": "沈腾马丽抓娃娃首映同框",
+        "onboard_time": 1720878798,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186886,
+        "num": 186886,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183794,
+        "num": 183794,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247530,
+        "num": 183684,
+        "word": "李宇春一晚四套高定全球首穿",
+        "onboard_time": 1720880840,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245636,
+        "num": 183657,
+        "word": "时代少年团灯牌",
+        "onboard_time": 1720878920,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241787,
+        "num": 183501,
+        "word": "林俊杰陶喆合唱就是爱你",
+        "onboard_time": 1720879398,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142236,
+        "num": 183317,
+        "word": "AG名将退役仪式",
+        "onboard_time": 1720880959,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134941,
+        "num": 183256,
+        "word": "一年半新开10万家火锅店",
+        "onboard_time": 1720865117,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206045,
+        "num": 183162,
+        "word": "时代少年团舞台",
+        "onboard_time": 1720880840,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204037,
+        "num": 182987,
+        "word": "吴谨言唱跳",
+        "onboard_time": 1720875258,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129457,
+        "num": 182874,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123279,
+        "num": 182714,
+        "word": "高铁怎么还有这么坐的啊",
+        "onboard_time": 1720880720,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122316,
+        "num": 182603,
+        "word": "泰国失踪中国女子残骸疑似被找到",
+        "onboard_time": 1720869976,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200799,
+        "num": 182457,
+        "word": "肖战 重庆",
+        "onboard_time": 1720872078,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198468,
+        "num": 182322,
+        "word": "沈月好可爱",
+        "onboard_time": 1720880780,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191111,
+        "num": 182274,
+        "word": "电影默杀",
+        "onboard_time": 1720876339,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189047,
+        "num": 182105,
+        "word": "文韬舞台",
+        "onboard_time": 1720881021,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182058,
+        "num": 182058,
+        "word": "终于有不拖后腿的女主进入影视赛道",
+        "onboard_time": 1720881140,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181037,
+        "num": 181037,
+        "word": "凡希亚 修音响",
+        "onboard_time": 1720881200,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119380,
+        "num": 179985,
+        "word": "哭着看南京大屠杀目击者日记",
+        "onboard_time": 1720880538,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118009,
+        "num": 178920,
+        "word": "女生用10年从专科成功逆袭博士",
+        "onboard_time": 1720863558,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111951,
+        "num": 177169,
+        "word": "上海二次元周末好city啊",
+        "onboard_time": 1720880900,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109862,
+        "num": 174538,
+        "word": "无畏有不能输的理由",
+        "onboard_time": 1720881200,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革在不断解决问题中深化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720880180579,
+  "endTime": 1720881269416,
   "band_list": [
     {
       "raw_hot": 1725680,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 847162,
+      "num": 1135545,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720875197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844822,
       "num": 368891,
       "word": "尚雯婕bangbang",
@@ -283,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 714309,
-      "num": 1114289,
-      "word": "女子称晒背10天瘦了4斤",
-      "onboard_time": 1720875197,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 706596,
+      "num": 359507,
+      "word": "凯特王妃将第二次公开露面",
+      "onboard_time": 1720880598,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 690151,
@@ -339,20 +347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 645180,
+      "num": 367681,
+      "word": "香汗淋漓魏大勋",
+      "onboard_time": 1720878198,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 643850,
+      "num": 365173,
+      "word": "长沙这么热吗",
+      "onboard_time": 1720879580,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631369,
       "num": 631369,
       "word": "抓娃娃 楚门的世界",
       "onboard_time": 1720846758,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 620291,
-      "num": 367681,
-      "word": "香汗淋漓魏大勋",
-      "onboard_time": 1720878198,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 619618,
@@ -417,6 +433,14 @@
       "onboard_time": 1720857018,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566303,
+      "num": 566303,
+      "word": "重庆暴雨",
+      "onboard_time": 1720878920,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564687,
@@ -499,20 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501375,
+      "num": 351800,
+      "word": "有人工资卡转账额度被降到500元",
+      "onboard_time": 1720880780,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501120,
+      "num": 361653,
+      "word": "抓娃娃 二婚设定",
+      "onboard_time": 1720874238,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496350,
       "num": 353923,
       "word": "间歇性厌恶伴侣是因为不爱了吗",
       "onboard_time": 1720859598,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491195,
-      "num": 361653,
-      "word": "抓娃娃 二婚设定",
-      "onboard_time": 1720874238,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 479755,
@@ -691,6 +723,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 376919,
+      "num": 208469,
+      "word": "青春芒果夜 真唱",
+      "onboard_time": 1720878139,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366706,
+      "num": 204986,
+      "word": "奥利回应第一名是乐华买的",
+      "onboard_time": 1720877838,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355087,
       "num": 355087,
       "word": "369",
@@ -771,14 +819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336431,
-      "num": 336431,
-      "word": "重庆暴雨",
-      "onboard_time": 1720878920,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332301,
       "num": 332301,
       "word": "恋与深空BW",
@@ -827,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312887,
+      "num": 198550,
+      "word": "齐思钧主持",
+      "onboard_time": 1720879519,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311126,
       "num": 311126,
       "word": "23年前那一声Beijing",
@@ -849,14 +897,6 @@
       "onboard_time": 1720838358,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293550,
-      "num": 186989,
-      "word": "奥利回应第一名是乐华买的",
-      "onboard_time": 1720877838,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 289848,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 279793,
-      "num": 182953,
+      "num": 183657,
       "word": "时代少年团灯牌",
       "onboard_time": 1720878920,
       "rank": 23,
@@ -920,14 +960,6 @@
       "word": "Lenka 偷感好重",
       "onboard_time": 1720788858,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 268955,
-      "num": 173431,
-      "word": "青春芒果夜 真唱",
-      "onboard_time": 1720878139,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248054,
+      "num": 189989,
+      "word": "沈腾马丽抓娃娃首映同框",
+      "onboard_time": 1720878798,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247643,
       "num": 247643,
       "word": "萝卜快跑不仅仅是冲击了就业",
@@ -987,12 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247530,
+      "num": 183684,
+      "word": "李宇春一晚四套高定全球首穿",
+      "onboard_time": 1720880840,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244016,
       "num": 244016,
       "word": "种地吧",
       "onboard_time": 1720844238,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241787,
+      "num": 183501,
+      "word": "林俊杰陶喆合唱就是爱你",
+      "onboard_time": 1720879398,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 239781,
@@ -1019,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237422,
-      "num": 167231,
-      "word": "齐思钧主持",
-      "onboard_time": 1720879519,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234569,
       "num": 210869,
       "word": "网剧错位",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1720827016,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 231639,
-      "num": 164133,
-      "word": "沈腾马丽抓娃娃首映同框",
-      "onboard_time": 1720878798,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 231483,
@@ -1219,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210990,
+      "num": 210990,
+      "word": "AG对战DRG",
+      "onboard_time": 1720880959,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209777,
       "num": 209777,
       "word": "王源 抢票",
@@ -1283,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206045,
+      "num": 183162,
+      "word": "时代少年团舞台",
+      "onboard_time": 1720880840,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205601,
       "num": 205601,
       "word": "蔡依林上海抢票",
@@ -1339,20 +1395,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200344,
-      "num": 151635,
-      "word": "林俊杰陶喆合唱就是爱你",
-      "onboard_time": 1720879398,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 197261,
-      "num": 197261,
-      "word": "长沙这么热吗",
-      "onboard_time": 1720879580,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 198468,
+      "num": 182322,
+      "word": "沈月好可爱",
+      "onboard_time": 1720880780,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 196520,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1720786818,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189047,
+      "num": 182105,
+      "word": "文韬舞台",
+      "onboard_time": 1720881021,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 188829,
@@ -1523,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182058,
+      "num": 182058,
+      "word": "终于有不拖后腿的女主进入影视赛道",
+      "onboard_time": 1720881140,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181507,
       "num": 181507,
       "word": "初为人父裴文宣",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1720797259,
       "rank": 20,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 181037,
+      "num": 181037,
+      "word": "凡希亚 修音响",
+      "onboard_time": 1720881200,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 180936,
@@ -2019,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142236,
+      "num": 183317,
+      "word": "AG名将退役仪式",
+      "onboard_time": 1720880959,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "otto开团mlxg",
@@ -2339,6 +2419,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 123279,
+      "num": 182714,
+      "word": "高铁怎么还有这么坐的啊",
+      "onboard_time": 1720880720,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123103,
       "num": 123103,
       "word": "李梦承认恋情",
@@ -2411,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119380,
+      "num": 179985,
+      "word": "哭着看南京大屠杀目击者日记",
+      "onboard_time": 1720880538,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119355,
       "num": 471897,
       "word": "各地文博单位增编考古人才缺口大",
@@ -2475,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116371,
+      "num": 362514,
+      "word": "5条人生建议治愈90%迷茫",
+      "onboard_time": 1720880479,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116077,
       "num": 116077,
       "word": "护士高温天跪地救人双膝都磨破",
@@ -2537,6 +2641,22 @@
       "onboard_time": 1720828096,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111951,
+      "num": 177169,
+      "word": "上海二次元周末好city啊",
+      "onboard_time": 1720880900,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 109862,
+      "num": 174538,
+      "word": "无畏有不能输的理由",
+      "onboard_time": 1720881200,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109345,

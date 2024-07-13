@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720880180579,
+  "endTime": 1720881269416,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -1571,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 847162,
+      "num": 1135545,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720608678,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846647,
       "num": 846647,
       "word": "暑期档第一部悬疑剧来了",
@@ -2155,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 714309,
-      "num": 1114289,
-      "word": "女子称晒背10天瘦了4斤",
-      "onboard_time": 1720608678,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 712771,
       "num": 712771,
       "word": "阿黛尔采访 笑疯",
@@ -2217,6 +2217,14 @@
       "onboard_time": 1720481595,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 706596,
+      "num": 359507,
+      "word": "凯特王妃将第二次公开露面",
+      "onboard_time": 1720880598,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 705818,
@@ -2539,6 +2547,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 645180,
+      "num": 367681,
+      "word": "香汗淋漓魏大勋",
+      "onboard_time": 1720878198,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 643850,
+      "num": 365173,
+      "word": "长沙这么热吗",
+      "onboard_time": 1720879580,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643324,
       "num": 643324,
       "word": "拜登拒绝退出总统竞选",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1720414820,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620291,
-      "num": 367681,
-      "word": "香汗淋漓魏大勋",
-      "onboard_time": 1720878198,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 619618,
@@ -3097,6 +3113,14 @@
       "onboard_time": 1720326377,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 566303,
+      "num": 566303,
+      "word": "重庆暴雨",
+      "onboard_time": 1720878920,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565446,
@@ -3571,6 +3595,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501375,
+      "num": 351800,
+      "word": "有人工资卡转账额度被降到500元",
+      "onboard_time": 1720880780,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501120,
+      "num": 361653,
+      "word": "抓娃娃 二婚设定",
+      "onboard_time": 1720874238,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501117,
       "num": 501117,
       "word": "会吵架真的能省很多事",
@@ -3705,14 +3745,6 @@
       "onboard_time": 1720680198,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 491195,
-      "num": 361653,
-      "word": "抓娃娃 二婚设定",
-      "onboard_time": 1720874238,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 490852,
@@ -5307,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376919,
+      "num": 208469,
+      "word": "青春芒果夜 真唱",
+      "onboard_time": 1720878139,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376812,
       "num": 197818,
       "word": "化妆的尽头是淡妆",
@@ -5457,6 +5497,14 @@
       "onboard_time": 1720766239,
       "rank": 46,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 366706,
+      "num": 204986,
+      "word": "奥利回应第一名是乐华买的",
+      "onboard_time": 1720877838,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 366149,
@@ -5931,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336431,
-      "num": 336431,
-      "word": "重庆暴雨",
-      "onboard_time": 1720878920,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336212,
       "num": 230014,
       "word": "在本县体制内上班是什么感觉",
@@ -6395,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312887,
+      "num": 198550,
+      "word": "齐思钧主持",
+      "onboard_time": 1720879519,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312723,
       "num": 202656,
       "word": "无效恋爱一年了",
@@ -6771,14 +6819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 293550,
-      "num": 186989,
-      "word": "奥利回应第一名是乐华买的",
-      "onboard_time": 1720877838,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293106,
       "num": 158895,
       "word": "时代少年团录制hi6正常播出",
@@ -7044,7 +7084,7 @@
     },
     {
       "raw_hot": 279793,
-      "num": 182953,
+      "num": 183657,
       "word": "时代少年团灯牌",
       "onboard_time": 1720878920,
       "rank": 23,
@@ -7241,14 +7281,6 @@
       "onboard_time": 1720410799,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 268955,
-      "num": 173431,
-      "word": "青春芒果夜 真唱",
-      "onboard_time": 1720878139,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 268888,
@@ -7619,6 +7651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248054,
+      "num": 189989,
+      "word": "沈腾马丽抓娃娃首映同框",
+      "onboard_time": 1720878798,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248001,
       "num": 191426,
       "word": "柳岩妈妈",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1720690218,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247530,
+      "num": 183684,
+      "word": "李宇春一晚四套高定全球首穿",
+      "onboard_time": 1720880840,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 247114,
@@ -7801,6 +7849,14 @@
       "onboard_time": 1720796839,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241787,
+      "num": 183501,
+      "word": "林俊杰陶喆合唱就是爱你",
+      "onboard_time": 1720879398,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 241535,
@@ -7971,14 +8027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237422,
-      "num": 167231,
-      "word": "齐思钧主持",
-      "onboard_time": 1720879519,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237353,
       "num": 103504,
       "word": "租客让朋友来深圳住几天被罚500元",
@@ -8137,14 +8185,6 @@
       "onboard_time": 1720707680,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231639,
-      "num": 164133,
-      "word": "沈腾马丽抓娃娃首映同框",
-      "onboard_time": 1720878798,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 231483,
@@ -8859,6 +8899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210990,
+      "num": 210990,
+      "word": "AG对战DRG",
+      "onboard_time": 1720880959,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210714,
       "num": 171392,
       "word": "檀健次工作室发了60秒无声相柳",
@@ -9177,6 +9225,14 @@
       "onboard_time": 1720501520,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206045,
+      "num": 183162,
+      "word": "时代少年团舞台",
+      "onboard_time": 1720880840,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 205986,
@@ -9611,14 +9667,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 200344,
-      "num": 151635,
-      "word": "林俊杰陶喆合唱就是爱你",
-      "onboard_time": 1720879398,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199900,
       "num": 172183,
       "word": "金九封面预告",
@@ -9691,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198468,
+      "num": 182322,
+      "word": "沈月好可爱",
+      "onboard_time": 1720880780,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198434,
       "num": 198434,
       "word": "玱玹格局已经是nextlevel了",
@@ -9745,14 +9801,6 @@
       "onboard_time": 1720592718,
       "rank": 41,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 197261,
-      "num": 197261,
-      "word": "长沙这么热吗",
-      "onboard_time": 1720879580,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197225,
@@ -10339,6 +10387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189047,
+      "num": 182105,
+      "word": "文韬舞台",
+      "onboard_time": 1720881021,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188829,
       "num": 168164,
       "word": "张颂文用乱码回复马嘉祺",
@@ -10811,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182058,
+      "num": 182058,
+      "word": "终于有不拖后腿的女主进入影视赛道",
+      "onboard_time": 1720881140,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182056,
       "num": 182056,
       "word": "北京中考120人考660分及以上",
@@ -10889,6 +10953,14 @@
       "onboard_time": 1720608259,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181037,
+      "num": 181037,
+      "word": "凡希亚 修音响",
+      "onboard_time": 1720881200,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 180936,
@@ -13707,6 +13779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 142236,
+      "num": 183317,
+      "word": "AG名将退役仪式",
+      "onboard_time": 1720880959,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142203,
       "num": 142203,
       "word": "涂山璟 有点心机又如何",
@@ -15331,6 +15411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123279,
+      "num": 182714,
+      "word": "高铁怎么还有这么坐的啊",
+      "onboard_time": 1720880720,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "谢莉杜瓦尔去世",
@@ -15691,6 +15779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119380,
+      "num": 179985,
+      "word": "哭着看南京大屠杀目击者日记",
+      "onboard_time": 1720880538,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119355,
       "num": 471897,
       "word": "各地文博单位增编考古人才缺口大",
@@ -15945,6 +16041,14 @@
       "onboard_time": 1720438279,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 116371,
+      "num": 362514,
+      "word": "5条人生建议治愈90%迷茫",
+      "onboard_time": 1720880479,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 116079,
@@ -16363,6 +16467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111951,
+      "num": 177169,
+      "word": "上海二次元周末好city啊",
+      "onboard_time": 1720880900,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111840,
       "num": 111840,
       "word": "奖杯底座",
@@ -16553,6 +16665,14 @@
       "onboard_time": 1720314797,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109862,
+      "num": 174538,
+      "word": "无畏有不能输的理由",
+      "onboard_time": 1720881200,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109853,
