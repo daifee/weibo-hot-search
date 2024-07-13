@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720890954076,
+  "endTime": 1720892071963,
   "band_list": [
     {
       "raw_hot": 8083529,
@@ -12868,7 +12868,7 @@
     },
     {
       "raw_hot": 291374,
-      "num": 130677,
+      "num": 258065,
       "word": "华晨宇舞台已经NextLevel了",
       "onboard_time": 1720888698,
       "rank": 6,
@@ -32691,6 +32691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93569,
+      "num": 108056,
+      "word": "度华年男二戏份",
+      "onboard_time": 1720891335,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93460,
       "num": 335873,
       "word": "他们刚下考场又上防汛战场",
@@ -33857,6 +33865,14 @@
       "onboard_time": 1720390752,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72040,
+      "num": 113846,
+      "word": "为啥打针时有人一定要盯着针头",
+      "onboard_time": 1720890135,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71678,
@@ -35811,14 +35827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45049,
-      "num": 113846,
-      "word": "为啥打针时有人一定要盯着针头",
-      "onboard_time": 1720890135,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 44912,
       "num": 724986,
       "word": "收下这份雨天出行安全宝典",
@@ -35897,6 +35905,14 @@
       "onboard_time": 1720820471,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 44133,
+      "num": 107593,
+      "word": "张艺兴大航海超长续航",
+      "onboard_time": 1720890736,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 43876,
@@ -36849,6 +36865,14 @@
       "onboard_time": 1720543934,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31390,
+      "num": 107538,
+      "word": "81部网络小说入藏国家版本馆",
+      "onboard_time": 1720891393,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 31333,
@@ -38323,11 +38347,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12041,
+      "num": 108312,
+      "word": "宝妈为女儿定制18年的成长记忆",
+      "onboard_time": 1720891575,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11901,
       "num": 85650,
       "word": "男子随身携带AED十余年第一次用上",
       "onboard_time": 1720721773,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11771,
+      "num": 432822,
+      "word": "微观中国深改之变",
+      "onboard_time": 1720875318,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -38384,14 +38424,6 @@
       "word": "55个小时不分昼夜施工后合龙",
       "onboard_time": 1720464012,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10699,
-      "num": 432822,
-      "word": "微观中国深改之变",
-      "onboard_time": 1720875318,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

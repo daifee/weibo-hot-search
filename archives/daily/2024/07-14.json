@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720890954076,
+  "endTime": 1720892071963,
   "band_list": [
     {
       "raw_hot": 1467557,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 291374,
-      "num": 130677,
+      "num": 258065,
       "word": "华晨宇舞台已经NextLevel了",
       "onboard_time": 1720888698,
       "rank": 6,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176897,
+      "num": 259425,
+      "word": "重庆暴雨",
+      "onboard_time": 1720878920,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172822,
       "num": 258397,
       "word": "陈昊宇美貌",
@@ -153,14 +161,6 @@
       "onboard_time": 1720878798,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152687,
-      "num": 259425,
-      "word": "重庆暴雨",
-      "onboard_time": 1720878920,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152364,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93569,
+      "num": 108056,
+      "word": "度华年男二戏份",
+      "onboard_time": 1720891335,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78157,
       "num": 256225,
       "word": "萝卜快跑或成最体面的网约车司机",
@@ -345,6 +353,14 @@
       "onboard_time": 1720888396,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72040,
+      "num": 113846,
+      "word": "为啥打针时有人一定要盯着针头",
+      "onboard_time": 1720890135,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69468,
@@ -443,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45049,
-      "num": 113846,
-      "word": "为啥打针时有人一定要盯着针头",
-      "onboard_time": 1720890135,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 46412,
+      "num": 107616,
+      "word": "你好星期六",
+      "onboard_time": 1720891515,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44133,
+      "num": 107593,
+      "word": "张艺兴大航海超长续航",
+      "onboard_time": 1720890736,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 37483,
@@ -467,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31390,
+      "num": 107538,
+      "word": "81部网络小说入藏国家版本馆",
+      "onboard_time": 1720891393,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 18487,
       "num": 121432,
       "word": "轮椅男生回应被兄弟们抬上泰山",
@@ -483,7 +515,15 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 10699,
+      "raw_hot": 12041,
+      "num": 108312,
+      "word": "宝妈为女儿定制18年的成长记忆",
+      "onboard_time": 1720891575,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11771,
       "num": 432822,
       "word": "微观中国深改之变",
       "onboard_time": 1720875318,
