@@ -1,7 +1,15 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720881269416,
+  "endTime": 1720883969881,
   "band_list": [
+    {
+      "raw_hot": 1858785,
+      "num": 1858785,
+      "word": "有人工资卡转账额度被降到500元",
+      "onboard_time": 1720880780,
+      "rank": 13,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1725680,
       "num": 983875,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 968160,
-      "num": 356873,
+      "num": 377240,
       "word": "婴儿疑因月嫂护理不当呛奶死亡",
       "onboard_time": 1720866317,
       "rank": 16,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 706596,
-      "num": 359507,
+      "num": 683960,
       "word": "凯特王妃将第二次公开露面",
       "onboard_time": 1720880598,
       "rank": 10,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 645180,
-      "num": 367681,
+      "num": 378579,
       "word": "香汗淋漓魏大勋",
       "onboard_time": 1720878198,
       "rank": 11,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 643850,
-      "num": 365173,
+      "num": 559612,
       "word": "长沙这么热吗",
       "onboard_time": 1720879580,
       "rank": 19,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565544,
+      "num": 565544,
+      "word": "李宇春一晚四套高定全球首穿",
+      "onboard_time": 1720880840,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 564687,
       "num": 357555,
       "word": "郑乃馨说和Bright的恋情很顺利",
@@ -515,28 +531,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514696,
+      "num": 514696,
+      "word": "抓娃娃 二婚设定",
+      "onboard_time": 1720874238,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 512333,
       "num": 513204,
       "word": "情绪稳定的妈妈最怕孩子放暑假",
       "onboard_time": 1720843818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501375,
-      "num": 351800,
-      "word": "有人工资卡转账额度被降到500元",
-      "onboard_time": 1720880780,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501120,
-      "num": 361653,
-      "word": "抓娃娃 二婚设定",
-      "onboard_time": 1720874238,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 496350,
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474762,
+      "num": 364577,
+      "word": "真的建议大家回归线下生活",
+      "onboard_time": 1720881560,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 462132,
       "num": 462132,
       "word": "青春芒果夜",
@@ -592,6 +608,14 @@
       "word": "张新成王玉雯认识16年",
       "onboard_time": 1720853716,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 445314,
+      "num": 401758,
+      "word": "奥利回应第一名是乐华买的",
+      "onboard_time": 1720877838,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -724,18 +748,18 @@
     },
     {
       "raw_hot": 376919,
-      "num": 208469,
+      "num": 226603,
       "word": "青春芒果夜 真唱",
       "onboard_time": 1720878139,
       "rank": 26,
       "category": "综艺"
     },
     {
-      "raw_hot": 366706,
-      "num": 204986,
-      "word": "奥利回应第一名是乐华买的",
-      "onboard_time": 1720877838,
-      "rank": 22,
+      "raw_hot": 362519,
+      "num": 362519,
+      "word": "女孩",
+      "onboard_time": 1720882159,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -812,11 +836,19 @@
     },
     {
       "raw_hot": 337833,
-      "num": 337833,
+      "num": 374290,
       "word": "宫颈癌复发元凶竟在丈夫身上",
       "onboard_time": 1720872018,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 335514,
+      "num": 335514,
+      "word": "刘亦菲又在当GAI溜子",
+      "onboard_time": 1720882880,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 332301,
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274308,
+      "num": 274308,
+      "word": "韩廷办公室的床",
+      "onboard_time": 1720882519,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271235,
       "num": 271235,
       "word": "Lenka 偷感好重",
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 248054,
-      "num": 189989,
+      "num": 234738,
       "word": "沈腾马丽抓娃娃首映同框",
       "onboard_time": 1720878798,
       "rank": 31,
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247530,
-      "num": 183684,
-      "word": "李宇春一晚四套高定全球首穿",
-      "onboard_time": 1720880840,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244016,
       "num": 244016,
       "word": "种地吧",
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 241787,
-      "num": 183501,
+      "num": 186257,
       "word": "林俊杰陶喆合唱就是爱你",
       "onboard_time": 1720879398,
       "rank": 36,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1720830557,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234050,
+      "num": 234050,
+      "word": "高铁怎么还有这么坐的啊",
+      "onboard_time": 1720880720,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 233065,
@@ -1155,6 +1195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 227976,
+      "num": 227976,
+      "word": "苏真真富家千金落凡尘",
+      "onboard_time": 1720881437,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226842,
       "num": 216989,
       "word": "范丞丞说老公只是一种感觉",
@@ -1219,6 +1267,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 216448,
+      "num": 216448,
+      "word": "刘宇输了",
+      "onboard_time": 1720881859,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215640,
       "num": 215640,
       "word": "Lucky迷你版戚薇",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1720862057,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215062,
+      "num": 215062,
+      "word": "玉泽演不是猛男吗",
+      "onboard_time": 1720882159,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 213634,
@@ -1396,7 +1460,7 @@
     },
     {
       "raw_hot": 198468,
-      "num": 182322,
+      "num": 197789,
       "word": "沈月好可爱",
       "onboard_time": 1720880780,
       "rank": 41,
@@ -1755,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169463,
+      "num": 368939,
+      "word": "5条人生建议治愈90%迷茫",
+      "onboard_time": 1720880479,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168957,
       "num": 168957,
       "word": "孟子义说王子奇王玉雯现在是解绑",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1720827195,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166274,
+      "num": 175769,
+      "word": "陈都灵 你这样说我更i了",
+      "onboard_time": 1720883239,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 165383,
@@ -1851,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161968,
+      "num": 365426,
+      "word": "DRG战胜AG",
+      "onboard_time": 1720882159,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161789,
       "num": 161789,
       "word": "花傲天杯冠军之夜",
@@ -1865,6 +1953,14 @@
       "onboard_time": 1720850657,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161592,
+      "num": 175583,
+      "word": "王玉雯王子奇四搭",
+      "onboard_time": 1720883779,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 161035,
@@ -2035,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146493,
+      "num": 228529,
+      "word": "AG名将退役仪式",
+      "onboard_time": 1720880959,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146005,
       "num": 146005,
       "word": "香港新房跌穿2015年价格",
@@ -2088,14 +2192,6 @@
       "word": "BLG战胜TES",
       "onboard_time": 1720797140,
       "rank": 19,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 142236,
-      "num": 183317,
-      "word": "AG名将退役仪式",
-      "onboard_time": 1720880959,
-      "rank": 33,
       "category": "电竞"
     },
     {
@@ -2419,14 +2515,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 123279,
-      "num": 182714,
-      "word": "高铁怎么还有这么坐的啊",
-      "onboard_time": 1720880720,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123103,
       "num": 123103,
       "word": "李梦承认恋情",
@@ -2571,12 +2659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116371,
-      "num": 362514,
-      "word": "5条人生建议治愈90%迷茫",
-      "onboard_time": 1720880479,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 116733,
+      "num": 216110,
+      "word": "AG超绝松弛感",
+      "onboard_time": 1720882939,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 116077,
@@ -2689,6 +2777,14 @@
       "onboard_time": 1720869797,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107087,
+      "num": 188287,
+      "word": "欧洲杯",
+      "onboard_time": 1720882820,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 106947,
@@ -2905,6 +3001,14 @@
       "onboard_time": 1720832897,
       "rank": 9,
       "category": "自然"
+    },
+    {
+      "raw_hot": 80003,
+      "num": 175156,
+      "word": "外国人对中国留学生的印象",
+      "onboard_time": 1720882700,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79760,
@@ -3289,6 +3393,14 @@
       "onboard_time": 1720850596,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25898,
+      "num": 427581,
+      "word": "七旬老人顶着烈日骑行归还皮包",
+      "onboard_time": 1720880359,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22354,
