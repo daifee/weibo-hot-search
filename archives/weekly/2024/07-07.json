@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720866924192,
+  "endTime": 1720869399383,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1720580239,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 968160,
+      "num": 295789,
+      "word": "婴儿疑因月嫂护理不当呛奶死亡",
+      "onboard_time": 1720866317,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958480,
@@ -3155,6 +3163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547080,
+      "num": 1087532,
+      "word": "沈腾马丽 你的名字",
+      "onboard_time": 1720859837,
+      "rank": 7,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 546865,
+      "num": 546865,
+      "word": "一年半新开10万家火锅店",
+      "onboard_time": 1720865117,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546004,
       "num": 546004,
       "word": "向佐感谢我家小两口圆满了他和郭碧婷",
@@ -3665,14 +3689,6 @@
       "onboard_time": 1720579098,
       "rank": 25,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 487127,
-      "num": 388108,
-      "word": "沈腾马丽 你的名字",
-      "onboard_time": 1720859837,
-      "rank": 7,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 486487,
@@ -4307,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440843,
+      "num": 440843,
+      "word": "张志杰事件还在被踢皮球",
+      "onboard_time": 1720865837,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440377,
       "num": 440377,
       "word": "中储粮食用油品牌回应",
@@ -4804,7 +4828,7 @@
     },
     {
       "raw_hot": 402784,
-      "num": 244226,
+      "num": 253439,
       "word": "郑秀晶 上海",
       "onboard_time": 1720862597,
       "rank": 26,
@@ -5297,6 +5321,14 @@
       "onboard_time": 1720278678,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 365433,
+      "num": 261470,
+      "word": "张九泰结婚",
+      "onboard_time": 1720868057,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 365282,
@@ -5833,6 +5865,14 @@
       "onboard_time": 1720365198,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331585,
+      "num": 331585,
+      "word": "长相思2疯人院vs幼儿园",
+      "onboard_time": 1720868237,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 331470,
@@ -7403,6 +7443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247643,
+      "num": 247643,
+      "word": "萝卜快跑不仅仅是冲击了就业",
+      "onboard_time": 1720864158,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247574,
       "num": 247574,
       "word": "美国男子杀害女友后坐轮椅抛尸",
@@ -8171,14 +8219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222366,
-      "num": 222366,
-      "word": "萝卜快跑不仅仅是冲击了就业",
-      "onboard_time": 1720864158,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222144,
       "num": 222144,
       "word": "星期狗",
@@ -8209,14 +8249,6 @@
       "onboard_time": 1720521617,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220602,
-      "num": 220602,
-      "word": "婴儿疑因月嫂护理不当呛奶死亡",
-      "onboard_time": 1720866317,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220303,
@@ -8473,6 +8505,14 @@
       "onboard_time": 1720758797,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213634,
+      "num": 206428,
+      "word": "在这个社会上不能显得太要",
+      "onboard_time": 1720868778,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 213472,
@@ -9307,20 +9347,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199610,
-      "num": 199610,
-      "word": "一年半新开10万家火锅店",
-      "onboard_time": 1720865117,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199316,
       "num": 199316,
       "word": "时代少年团直播",
       "onboard_time": 1720610659,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199315,
+      "num": 199315,
+      "word": "曾黎赵露思撞衫",
+      "onboard_time": 1720866377,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199173,
@@ -10331,6 +10371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183618,
+      "num": 183618,
+      "word": "长相思反诈版",
+      "onboard_time": 1720869017,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183612,
       "num": 183612,
       "word": "唢呐一响陈瑶红嫁衣登场",
@@ -10515,6 +10563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180936,
+      "num": 180936,
+      "word": "金晨包场抓娃娃",
+      "onboard_time": 1720866916,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180721,
       "num": 180721,
       "word": "刘亦菲千禧穿搭",
@@ -10561,14 +10617,6 @@
       "onboard_time": 1720400958,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179738,
-      "num": 179738,
-      "word": "曾黎赵露思撞衫",
-      "onboard_time": 1720866377,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179523,
@@ -10867,6 +10915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175745,
+      "num": 175745,
+      "word": "电影抓娃娃口碑",
+      "onboard_time": 1720868297,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175717,
       "num": 175717,
       "word": "gidle空降",
@@ -10947,6 +11003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173981,
+      "num": 160010,
+      "word": "TF三代男儿歌",
+      "onboard_time": 1720866978,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173931,
       "num": 173931,
       "word": "眷思量屠丽贴脸开大镜玄",
@@ -11001,6 +11065,14 @@
       "onboard_time": 1720617139,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173134,
+      "num": 156527,
+      "word": "gidle澳门",
+      "onboard_time": 1720867997,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 173118,
@@ -11867,6 +11939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161789,
+      "num": 161789,
+      "word": "花傲天杯冠军之夜",
+      "onboard_time": 1720869317,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161769,
       "num": 161769,
       "word": "迪丽热巴开推2全平台战绩",
@@ -12419,14 +12499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153705,
-      "num": 153705,
-      "word": "张志杰事件还在被踢皮球",
-      "onboard_time": 1720865837,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153703,
       "num": 153703,
       "word": "公婆50岁就开始养老了",
@@ -12841,6 +12913,14 @@
       "onboard_time": 1720600098,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147076,
+      "num": 147076,
+      "word": "96岁著名物理化学家张存浩逝世",
+      "onboard_time": 1720867578,
+      "rank": 34,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 147015,
@@ -14003,6 +14083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "首饰金价重回7字头",
+      "onboard_time": 1720867697,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132707,
       "num": 132707,
       "word": "中文广告为何挤满欧洲杯赛场",
@@ -14105,6 +14193,14 @@
       "onboard_time": 1720401197,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131443,
+      "num": 131443,
+      "word": "张嘉元被中传录取了",
+      "onboard_time": 1720869197,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 131309,
@@ -15147,6 +15243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118977,
+      "num": 117795,
+      "word": "ENHYPEN新歌BLOSSOM舞台",
+      "onboard_time": 1720868837,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118793,
       "num": 379075,
       "word": "周深让跑男感受平常中的小美满",
@@ -15641,6 +15745,14 @@
       "onboard_time": 1720615159,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113474,
+      "num": 113474,
+      "word": "爱奇艺限制投屏案原告上诉",
+      "onboard_time": 1720867697,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 113460,
@@ -18795,6 +18907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 43594,
+      "num": 299870,
+      "word": "美国曹操讲90年代北京一天的生活",
+      "onboard_time": 1720868418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43442,
       "num": 273877,
       "word": "极氪7X纯粹SUV不溜背",
@@ -19017,6 +19137,14 @@
       "onboard_time": 1720457354,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38527,
+      "num": 590184,
+      "word": "三中全会是个什么会",
+      "onboard_time": 1720855816,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38329,
@@ -19953,14 +20081,6 @@
       "onboard_time": 1720825634,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15999,
-      "num": 590184,
-      "word": "三中全会是个什么会",
-      "onboard_time": 1720855816,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15877,

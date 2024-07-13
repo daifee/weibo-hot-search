@@ -1,0 +1,410 @@
+{
+  "runTime": 1720869399383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 547080,
+        "num": 1087532,
+        "word": "沈腾马丽 你的名字",
+        "onboard_time": 1720859837,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 546865,
+        "num": 546865,
+        "word": "一年半新开10万家火锅店",
+        "onboard_time": 1720865117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38527,
+        "num": 458265,
+        "word": "三中全会是个什么会",
+        "onboard_time": 1720855816,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440843,
+        "num": 440843,
+        "word": "张志杰事件还在被踢皮球",
+        "onboard_time": 1720865837,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400724,
+        "num": 400724,
+        "word": "抓娃娃彩蛋",
+        "onboard_time": 1720858995,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333107,
+        "num": 333107,
+        "word": "日本近百万人因弹珠店破产",
+        "onboard_time": 1720852817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331585,
+        "num": 331585,
+        "word": "长相思2疯人院vs幼儿园",
+        "onboard_time": 1720868237,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307047,
+        "num": 307047,
+        "word": "日本已有1144例食人菌感染病例",
+        "onboard_time": 1720840157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305071,
+        "num": 305071,
+        "word": "赵丽颖活动穿ES高定",
+        "onboard_time": 1720861517,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43594,
+        "num": 299870,
+        "word": "美国曹操讲90年代北京一天的生活",
+        "onboard_time": 1720868418,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968160,
+        "num": 295789,
+        "word": "婴儿疑因月嫂护理不当呛奶死亡",
+        "onboard_time": 1720866317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571771,
+        "num": 284259,
+        "word": "张新成好像和妈妈不熟",
+        "onboard_time": 1720862116,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468553,
+        "num": 282111,
+        "word": "姜涩琪道歉",
+        "onboard_time": 1720861277,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420262,
+        "num": 275393,
+        "word": "萝卜快跑或成最体面的网约车司机",
+        "onboard_time": 1720861219,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 410914,
+        "num": 267232,
+        "word": "交警指挥不了萝卜快跑需引起重视",
+        "onboard_time": 1720856717,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365433,
+        "num": 261470,
+        "word": "张九泰结婚",
+        "onboard_time": 1720868057,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308716,
+        "num": 253439,
+        "word": "郑秀晶 上海",
+        "onboard_time": 1720862597,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249084,
+        "num": 249084,
+        "word": "千万别再给手机充一整夜电了",
+        "onboard_time": 1720830736,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247643,
+        "num": 247643,
+        "word": "萝卜快跑不仅仅是冲击了就业",
+        "onboard_time": 1720864158,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210305,
+        "num": 210305,
+        "word": "孙颖莎全红婵你俩在聊啥",
+        "onboard_time": 1720864097,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243684,
+        "num": 208071,
+        "word": "一个高龄产妇一个老来得子",
+        "onboard_time": 1720857018,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240035,
+        "num": 206981,
+        "word": "间歇性厌恶伴侣是因为不爱了吗",
+        "onboard_time": 1720859598,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213634,
+        "num": 206428,
+        "word": "在这个社会上不能显得太要",
+        "onboard_time": 1720868778,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205802,
+        "num": 205802,
+        "word": "土豆不要和米饭一起吃",
+        "onboard_time": 1720849097,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199315,
+        "num": 199315,
+        "word": "曾黎赵露思撞衫",
+        "onboard_time": 1720866377,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183618,
+        "num": 183618,
+        "word": "长相思反诈版",
+        "onboard_time": 1720869017,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180936,
+        "num": 180936,
+        "word": "金晨包场抓娃娃",
+        "onboard_time": 1720866916,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179035,
+        "num": 179035,
+        "word": "肖战得闲谨制围读上班路透",
+        "onboard_time": 1720864697,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175745,
+        "num": 175745,
+        "word": "电影抓娃娃口碑",
+        "onboard_time": 1720868297,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161789,
+        "num": 161789,
+        "word": "花傲天杯冠军之夜",
+        "onboard_time": 1720869317,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173981,
+        "num": 160010,
+        "word": "TF三代男儿歌",
+        "onboard_time": 1720866978,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173134,
+        "num": 156527,
+        "word": "gidle澳门",
+        "onboard_time": 1720867997,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164081,
+        "num": 156154,
+        "word": "李蓉怀孕",
+        "onboard_time": 1720850418,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149838,
+        "num": 149838,
+        "word": "On回应Bin踢椅子",
+        "onboard_time": 1720861578,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147076,
+        "num": 147076,
+        "word": "96岁著名物理化学家张存浩逝世",
+        "onboard_time": 1720867578,
+        "rank": 34,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 142036,
+        "word": "60岁阿姨健身20年被夸比18岁还漂亮",
+        "onboard_time": 1720862057,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136346,
+        "num": 136346,
+        "word": "抓娃娃",
+        "onboard_time": 1720839379,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132736,
+        "num": 132736,
+        "word": "首饰金价重回7字头",
+        "onboard_time": 1720867697,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131443,
+        "num": 131443,
+        "word": "张嘉元被中传录取了",
+        "onboard_time": 1720869197,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118931,
+        "num": 118931,
+        "word": "女子自称抑郁症欠房租却出国拍写真",
+        "onboard_time": 1720851497,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128574,
+        "num": 117845,
+        "word": "沈腾马丽回应闯入中偶赛道",
+        "onboard_time": 1720859237,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118977,
+        "num": 117795,
+        "word": "ENHYPEN新歌BLOSSOM舞台",
+        "onboard_time": 1720868837,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113474,
+        "num": 113474,
+        "word": "爱奇艺限制投屏案原告上诉",
+        "onboard_time": 1720867697,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107893,
+        "num": 107893,
+        "word": "稀有小马宝莉卡被炒到16万1张",
+        "onboard_time": 1720854017,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102462,
+        "num": 102462,
+        "word": "赛里木湖已经开始步入秋季了",
+        "onboard_time": 1720860858,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98275,
+        "num": 98275,
+        "word": "歌手收视率",
+        "onboard_time": 1720846277,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98066,
+        "num": 98066,
+        "word": "孟子义说王子奇王玉雯现在是解绑",
+        "onboard_time": 1720862779,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95999,
+        "num": 95999,
+        "word": "女生用10年从专科成功逆袭博士",
+        "onboard_time": 1720863558,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94524,
+        "num": 94524,
+        "word": "Newjeans再跳Hype boy",
+        "onboard_time": 1720864997,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93607,
+        "num": 93607,
+        "word": "1岁被烧伤的女孩学化妆是想有眉毛",
+        "onboard_time": 1720857916,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革在不断解决问题中深化#"
+    }
+  }
+}
