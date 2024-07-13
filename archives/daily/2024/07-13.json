@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720833796112,
+  "endTime": 1720835032064,
   "band_list": [
     {
       "raw_hot": 1300551,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000869,
+      "num": 186956,
+      "word": "千万别再给手机充一整夜电了",
+      "onboard_time": 1720830736,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 996364,
       "num": 996364,
       "word": "福宝没认出姜爷爷",
       "onboard_time": 1720792100,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943161,
+      "num": 943161,
+      "word": "撤档风吹到了电视剧圈",
+      "onboard_time": 1720832117,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 918511,
@@ -59,20 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 727310,
-      "num": 186793,
-      "word": "千万别再给手机充一整夜电了",
-      "onboard_time": 1720830736,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 626629,
-      "num": 626629,
-      "word": "撤档风吹到了电视剧圈",
-      "onboard_time": 1720832117,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 645799,
+      "num": 645799,
+      "word": "7岁的小朋友220斤",
+      "onboard_time": 1720832717,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 536594,
@@ -80,6 +88,14 @@
       "word": "每天一杯饮料28岁女子血糖爆表进ICU",
       "onboard_time": 1720826414,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516995,
+      "num": 516995,
+      "word": "韩国男子被困电梯水淹身亡",
+      "onboard_time": 1720831576,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -91,20 +107,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 495262,
-      "num": 495262,
-      "word": "7岁的小朋友220斤",
-      "onboard_time": 1720832717,
-      "rank": 10,
-      "category": "健康医疗"
+      "raw_hot": 494178,
+      "num": 494178,
+      "word": "金庸武侠世界停播争议",
+      "onboard_time": 1720833018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
-      "raw_hot": 466501,
-      "num": 466501,
-      "word": "韩国男子被困电梯水淹身亡",
-      "onboard_time": 1720831576,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 444998,
+      "num": 444998,
+      "word": "那英 大众评审终于有良心了",
+      "onboard_time": 1720833137,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 417352,
@@ -179,7 +195,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274553,
+      "raw_hot": 280713,
       "num": 181128,
       "word": "月经周期21天比35天衰老更快吗",
       "onboard_time": 1720804576,
@@ -187,27 +203,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 273341,
-      "num": 273341,
-      "word": "金庸武侠世界停播争议",
-      "onboard_time": 1720833018,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271235,
       "num": 271235,
       "word": "Lenka 偷感好重",
       "onboard_time": 1720788858,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 260312,
-      "num": 194063,
-      "word": "那英 大众评审终于有良心了",
-      "onboard_time": 1720833137,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -235,8 +235,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235887,
+      "num": 235887,
+      "word": "萝卜快跑",
+      "onboard_time": 1720833916,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234569,
-      "num": 178449,
+      "num": 210869,
       "word": "网剧错位",
       "onboard_time": 1720830557,
       "rank": 23,
@@ -387,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148592,
+      "num": 148592,
+      "word": "崔永熙与中国男篮交手",
+      "onboard_time": 1720833018,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147820,
       "num": 147820,
       "word": "那英天后回归",
       "onboard_time": 1720791381,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144134,
+      "num": 144134,
+      "word": "萝卜快跑安全员闭眼3秒系统会报警",
+      "onboard_time": 1720833856,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143384,
@@ -443,6 +467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 131575,
+      "num": 131575,
+      "word": "OpenAI限制中国用户访问",
+      "onboard_time": 1720829957,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130824,
       "num": 130824,
       "word": "广西成功种出冰淇淋果",
@@ -467,12 +499,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 129128,
-      "num": 129128,
-      "word": "崔永熙与中国男篮交手",
-      "onboard_time": 1720833018,
+      "raw_hot": 129537,
+      "num": 129537,
+      "word": "女子醉驾被查坐地拖延遭儿子怒斥",
+      "onboard_time": 1720834037,
       "rank": 33,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128694,
@@ -481,6 +513,14 @@
       "onboard_time": 1720790300,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128514,
+      "num": 128514,
+      "word": "抓娃娃点映",
+      "onboard_time": 1720834698,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 127929,
@@ -529,6 +569,14 @@
       "onboard_time": 1720827255,
       "rank": 29,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 124315,
+      "num": 124315,
+      "word": "航仔求婚徐老师",
+      "onboard_time": 1720834936,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 123103,
@@ -587,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116880,
-      "num": 116880,
-      "word": "OpenAI限制中国用户访问",
-      "onboard_time": 1720829957,
-      "rank": 41,
-      "category": "互联网"
+      "raw_hot": 116621,
+      "num": 116621,
+      "word": "香港新房跌穿2015年价格",
+      "onboard_time": 1720834457,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116077,
@@ -617,6 +665,22 @@
       "onboard_time": 1720828096,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111322,
+      "num": 111322,
+      "word": "市监局每天办公6.5小时电话无人接",
+      "onboard_time": 1720834818,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106947,
+      "num": 106947,
+      "word": "中国男篮不敌开拓者",
+      "onboard_time": 1720834157,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105252,
@@ -691,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81681,
+      "num": 495267,
+      "word": "七八月份可观测直立银河",
+      "onboard_time": 1720832897,
+      "rank": 9,
+      "category": "自然"
+    },
+    {
       "raw_hot": 75977,
       "num": 113634,
       "word": "王健林7月连卖3座万达广场",
@@ -737,14 +809,6 @@
       "onboard_time": 1720826833,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65450,
-      "num": 495267,
-      "word": "七八月份可观测直立银河",
-      "onboard_time": 1720832897,
-      "rank": 9,
-      "category": "自然"
     },
     {
       "raw_hot": 63577,
@@ -955,7 +1019,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6863,
+      "raw_hot": 7060,
       "num": 998890,
       "word": "洪水中这些身影是安全感的来源",
       "onboard_time": 1720788019,

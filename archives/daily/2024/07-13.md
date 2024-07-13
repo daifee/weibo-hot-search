@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/13 00:24:48 ~ 2024/07/13 09:23:16
+本榜单时间：2024/07/13 00:24:48 ~ 2024/07/13 09:43:52
 </p>
 </blockquote>
 <p>
@@ -33,8 +33,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E4%B8%80%E6%95%B4%E5%A4%9C%E7%94%B5%E4%BA%86%23" target="weibo">
+千万别再给手机充一整夜电了（热度：1000869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E6%B2%A1%E8%AE%A4%E5%87%BA%E5%A7%9C%E7%88%B7%E7%88%B7%23" target="weibo">
 福宝没认出姜爷爷（热度：996364）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%A4%E6%A1%A3%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%E5%9C%88%23" target="weibo">
+撤档风吹到了电视剧圈（热度：943161）
 </a>
 </li>
 
@@ -57,14 +69,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E4%B8%80%E6%95%B4%E5%A4%9C%E7%94%B5%E4%BA%86%23" target="weibo">
-千万别再给手机充一整夜电了（热度：727310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%A4%E6%A1%A3%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%E5%9C%88%23" target="weibo">
-撤档风吹到了电视剧圈（热度：626629）
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B220%E6%96%A4%23" target="weibo">
+7岁的小朋友220斤（热度：645799）
 </a>
 </li>
 
@@ -75,20 +81,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B0%B4%E6%B7%B9%E8%BA%AB%E4%BA%A1%23" target="weibo">
+韩国男子被困电梯水淹身亡（热度：516995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E7%A9%BF%E5%B8%A6%E6%B4%9E%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%A3%A4%E5%AD%90%E9%9E%8B%E5%AD%90%E5%8E%BB%E6%BC%82%E6%B5%81%23" target="weibo">
 不要穿带洞的衣服裤子鞋子去漂流（热度：515061）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B220%E6%96%A4%23" target="weibo">
-7岁的小朋友220斤（热度：495262）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%B8%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C%E5%81%9C%E6%92%AD%E4%BA%89%E8%AE%AE%23" target="weibo">
+金庸武侠世界停播争议（热度：494178）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B0%B4%E6%B7%B9%E8%BA%AB%E4%BA%A1%23" target="weibo">
-韩国男子被困电梯水淹身亡（热度：466501）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E5%A4%A7%E4%BC%97%E8%AF%84%E5%AE%A1%E7%BB%88%E4%BA%8E%E6%9C%89%E8%89%AF%E5%BF%83%E4%BA%86%23" target="weibo">
+那英 大众评审终于有良心了（热度：444998）
 </a>
 </li>
 
@@ -148,25 +160,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%91%A8%E6%9C%9F21%E5%A4%A9%E6%AF%9435%E5%A4%A9%E8%A1%B0%E8%80%81%E6%9B%B4%E5%BF%AB%E5%90%97%23" target="weibo">
-月经周期21天比35天衰老更快吗（热度：274553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%B8%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C%E5%81%9C%E6%92%AD%E4%BA%89%E8%AE%AE%23" target="weibo">
-金庸武侠世界停播争议（热度：273341）
+月经周期21天比35天衰老更快吗（热度：280713）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Lenka%20%E5%81%B7%E6%84%9F%E5%A5%BD%E9%87%8D%23" target="weibo">
 Lenka 偷感好重（热度：271235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E5%A4%A7%E4%BC%97%E8%AF%84%E5%AE%A1%E7%BB%88%E4%BA%8E%E6%9C%89%E8%89%AF%E5%BF%83%E4%BA%86%23" target="weibo">
-那英 大众评审终于有良心了（热度：260312）
 </a>
 </li>
 
@@ -185,6 +185,12 @@ Lenka 偷感好重（热度：271235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%B1%BC%E5%B7%B2%E6%9D%80%E9%9D%92%23" target="weibo">
 人鱼已杀青（热度：237731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%23" target="weibo">
+萝卜快跑（热度：235887）
 </a>
 </li>
 
@@ -303,8 +309,20 @@ Lenka 偷感好重（热度：271235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%B0%B8%E7%86%99%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%A4%E6%89%8B%23" target="weibo">
+崔永熙与中国男篮交手（热度：148592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%A4%A9%E5%90%8E%E5%9B%9E%E5%BD%92%23" target="weibo">
 那英天后回归（热度：147820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%E5%AE%89%E5%85%A8%E5%91%98%E9%97%AD%E7%9C%BC3%E7%A7%92%E7%B3%BB%E7%BB%9F%E4%BC%9A%E6%8A%A5%E8%AD%A6%23" target="weibo">
+萝卜快跑安全员闭眼3秒系统会报警（热度：144134）
 </a>
 </li>
 
@@ -345,6 +363,12 @@ Meta取消对特朗普账号限制（热度：136383）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23OpenAI%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%23" target="weibo">
+OpenAI限制中国用户访问（热度：131575）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%88%90%E5%8A%9F%E7%A7%8D%E5%87%BA%E5%86%B0%E6%B7%87%E6%B7%8B%E6%9E%9C%23" target="weibo">
 广西成功种出冰淇淋果（热度：130824）
 </a>
@@ -363,14 +387,20 @@ neinei13岁身高（热度：130325）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%B0%B8%E7%86%99%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%A4%E6%89%8B%23" target="weibo">
-崔永熙与中国男篮交手（热度：129128）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E8%A2%AB%E6%9F%A5%E5%9D%90%E5%9C%B0%E6%8B%96%E5%BB%B6%E9%81%AD%E5%84%BF%E5%AD%90%E6%80%92%E6%96%A5%23" target="weibo">
+女子醉驾被查坐地拖延遭儿子怒斥（热度：129537）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%20giegie%23" target="weibo">
 孙楠 giegie（热度：128694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E7%82%B9%E6%98%A0%23" target="weibo">
+抓娃娃点映（热度：128514）
 </a>
 </li>
 
@@ -407,6 +437,12 @@ neinei13岁身高（热度：130325）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%86%E5%8D%A1%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B9%B4%E7%8B%82%E6%8F%BD2.78%E4%BA%BF%23" target="weibo">
 拆卡直播间半年狂揽2.78亿（热度：124894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E4%BB%94%E6%B1%82%E5%A9%9A%E5%BE%90%E8%80%81%E5%B8%88%23" target="weibo">
+航仔求婚徐老师（热度：124315）
 </a>
 </li>
 
@@ -453,8 +489,8 @@ neinei13岁身高（热度：130325）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23OpenAI%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%23" target="weibo">
-OpenAI限制中国用户访问（热度：116880）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%96%B0%E6%88%BF%E8%B7%8C%E7%A9%BF2015%E5%B9%B4%E4%BB%B7%E6%A0%BC%23" target="weibo">
+香港新房跌穿2015年价格（热度：116621）
 </a>
 </li>
 
@@ -473,6 +509,18 @@ OpenAI限制中国用户访问（热度：116880）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E6%96%B0%E7%94%9F%E5%A4%A7%E5%A4%9A%E6%98%AF%E9%AB%98%E4%BA%8C%E7%94%9F%23" target="weibo">
 西湖大学本科新生大多是高二生（热度：112167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E6%AF%8F%E5%A4%A9%E5%8A%9E%E5%85%AC6.5%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%E6%97%A0%E4%BA%BA%E6%8E%A5%23" target="weibo">
+市监局每天办公6.5小时电话无人接（热度：111322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E5%BC%80%E6%8B%93%E8%80%85%23" target="weibo">
+中国男篮不敌开拓者（热度：106947）
 </a>
 </li>
 
@@ -531,6 +579,12 @@ OpenAI限制中国用户访问（热度：116880）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%85%AB%E6%9C%88%E4%BB%BD%E5%8F%AF%E8%A7%82%E6%B5%8B%E7%9B%B4%E7%AB%8B%E9%93%B6%E6%B2%B3%23" target="weibo">
+七八月份可观测直立银河（热度：81681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%977%E6%9C%88%E8%BF%9E%E5%8D%963%E5%BA%A7%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA%23" target="weibo">
 王健林7月连卖3座万达广场（热度：75977）
 </a>
@@ -563,12 +617,6 @@ ChinaJoy（热度：73864）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%91%E5%86%B3%E8%B5%9B%23" target="weibo">
 德约科维奇晋级温网决赛（热度：71401）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%85%AB%E6%9C%88%E4%BB%BD%E5%8F%AF%E8%A7%82%E6%B5%8B%E7%9B%B4%E7%AB%8B%E9%93%B6%E6%B2%B3%23" target="weibo">
-七八月份可观测直立银河（热度：65450）
 </a>
 </li>
 
@@ -730,7 +778,7 @@ ChinaJoy（热度：73864）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E4%B8%AD%E8%BF%99%E4%BA%9B%E8%BA%AB%E5%BD%B1%E6%98%AF%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E6%9D%A5%E6%BA%90%23" target="weibo">
-洪水中这些身影是安全感的来源（热度：6863）
+洪水中这些身影是安全感的来源（热度：7060）
 </a>
 </li>
 
