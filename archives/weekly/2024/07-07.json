@@ -1,6 +1,6 @@
 {
   "startTime": 1720282957907,
-  "endTime": 1720874912220,
+  "endTime": 1720876836651,
   "band_list": [
     {
       "raw_hot": 6156603,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391404,
+      "num": 1391404,
+      "word": "希林娜依高嗓子咋了",
+      "onboard_time": 1720875078,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1387197,
       "num": 1387197,
       "word": "papi被高管好友吐槽不求上进",
@@ -673,6 +681,14 @@
       "onboard_time": 1720837097,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1244668,
+      "num": 938046,
+      "word": "第一次这么心疼一个剧的反派",
+      "onboard_time": 1720872978,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1243167,
@@ -1155,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 988426,
+      "num": 246409,
+      "word": "陈昊宇美貌",
+      "onboard_time": 1720875018,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977408,
       "num": 977408,
       "word": "荣梓杉被中戏录取",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1720327756,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938046,
-      "num": 938046,
-      "word": "第一次这么心疼一个剧的反派",
-      "onboard_time": 1720872978,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 932345,
@@ -2499,6 +2515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 642679,
+      "num": 246211,
+      "word": "尚雯婕bangbang",
+      "onboard_time": 1720876279,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641397,
       "num": 641397,
       "word": "结婚生育率下降或因经济增长速度太快",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1720655176,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 616304,
+      "num": 243313,
+      "word": "希林娜依高生病了",
+      "onboard_time": 1720875920,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 615955,
@@ -4899,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400001,
+      "num": 241424,
+      "word": "泰国警方称发现失踪中国女子遗体",
+      "onboard_time": 1720874657,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399871,
       "num": 246090,
       "word": "读研是一场巨大的服从性测试",
@@ -5683,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348124,
+      "num": 329683,
+      "word": "肖战 重庆",
+      "onboard_time": 1720872078,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348058,
       "num": 348058,
       "word": "电竞世界杯",
@@ -5955,14 +6003,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 329683,
-      "num": 329683,
-      "word": "肖战 重庆",
-      "onboard_time": 1720872078,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329390,
       "num": 329390,
       "word": "张晚意清唱了万物不如你",
@@ -5977,6 +6017,14 @@
       "onboard_time": 1720684878,
       "rank": 23,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 329291,
+      "num": 176320,
+      "word": "光年之外",
+      "onboard_time": 1720874777,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 329006,
@@ -6113,6 +6161,14 @@
       "onboard_time": 1720494739,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324133,
+      "num": 175749,
+      "word": "吴谨言唱跳",
+      "onboard_time": 1720875258,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 323882,
@@ -6593,6 +6649,14 @@
       "onboard_time": 1720673781,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298897,
+      "num": 173276,
+      "word": "抓娃娃 二婚设定",
+      "onboard_time": 1720874238,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 298531,
@@ -7403,6 +7467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253145,
+      "num": 198505,
+      "word": "宫颈癌复发元凶竟在丈夫身上",
+      "onboard_time": 1720872018,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252334,
       "num": 252334,
       "word": "巴黎奥运乒乓球女单种子排名",
@@ -8187,6 +8259,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 226842,
+      "num": 167748,
+      "word": "范丞丞说老公只是一种感觉",
+      "onboard_time": 1720874897,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226598,
       "num": 203192,
       "word": "看到邓为的鞋散光加重了",
@@ -8451,14 +8531,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 217080,
-      "num": 198505,
-      "word": "宫颈癌复发元凶竟在丈夫身上",
-      "onboard_time": 1720872018,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 216731,
       "num": 214394,
       "word": "这居然是2024年的李东海",
@@ -8545,6 +8617,14 @@
       "onboard_time": 1720317918,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214445,
+      "num": 195267,
+      "word": "电影默杀",
+      "onboard_time": 1720336219,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 214429,
@@ -8873,6 +8953,14 @@
       "onboard_time": 1720313595,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207975,
+      "num": 163568,
+      "word": "刘忻声压",
+      "onboard_time": 1720875258,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 207808,
@@ -9715,14 +9803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195267,
-      "num": 195267,
-      "word": "电影默杀",
-      "onboard_time": 1720336219,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194841,
       "num": 194841,
       "word": "周深南京",
@@ -10155,6 +10235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188829,
+      "num": 168164,
+      "word": "张颂文用乱码回复马嘉祺",
+      "onboard_time": 1720870697,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188816,
       "num": 188816,
       "word": "布朗尼湖人首秀",
@@ -10417,6 +10505,14 @@
       "onboard_time": 1720789459,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184829,
+      "num": 157498,
+      "word": "青春芒果夜节目单",
+      "onboard_time": 1720875798,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184722,
@@ -10865,6 +10961,14 @@
       "onboard_time": 1720502058,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177934,
+      "num": 177934,
+      "word": "KPL",
+      "onboard_time": 1720502961,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 177910,
@@ -11635,14 +11739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168164,
-      "num": 168164,
-      "word": "张颂文用乱码回复马嘉祺",
-      "onboard_time": 1720870697,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168121,
       "num": 168121,
       "word": "成毅提裙奔跑",
@@ -12225,6 +12321,14 @@
       "onboard_time": 1720530018,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159685,
+      "num": 159685,
+      "word": "20岁女生独自在海上漂流36小时",
+      "onboard_time": 1720872377,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159440,
@@ -12827,6 +12931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "AG挽风单局MVP",
+      "onboard_time": 1720876459,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150991,
       "num": 150991,
       "word": "丫丫吃饱就睡美容觉",
@@ -12945,6 +13057,14 @@
       "onboard_time": 1720874718,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148952,
+      "num": 230123,
+      "word": "一起为中国奥运健儿加油",
+      "onboard_time": 1720872498,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 148841,
@@ -13411,14 +13531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143452,
-      "num": 143452,
-      "word": "KPL",
-      "onboard_time": 1720502961,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 143412,
       "num": 143412,
       "word": "油罐车司机称客户有要求才会洗",
@@ -13763,6 +13875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139461,
+      "num": 139461,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1720875678,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "考古学家在河南发现了9000年前的爱情",
@@ -13859,12 +13979,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 138439,
-      "num": 138439,
-      "word": "20岁女生独自在海上漂流36小时",
-      "onboard_time": 1720872377,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 138641,
+      "num": 242179,
+      "word": "女生用10年从专科成功逆袭博士",
+      "onboard_time": 1720863558,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 138355,
@@ -13873,14 +13993,6 @@
       "onboard_time": 1720503277,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138283,
-      "num": 242179,
-      "word": "女生用10年从专科成功逆袭博士",
-      "onboard_time": 1720863558,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 138190,
@@ -14483,14 +14595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130630,
-      "num": 230123,
-      "word": "一起为中国奥运健儿加油",
-      "onboard_time": 1720872498,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130543,
       "num": 130543,
       "word": "领导发250块让我给同事买下午茶",
@@ -14792,14 +14896,6 @@
       "word": "吴昕99字夸王俊凯秦霄贤",
       "onboard_time": 1720278739,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127495,
-      "num": 127495,
-      "word": "光年之外",
-      "onboard_time": 1720874777,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -15201,14 +15297,6 @@
       "onboard_time": 1720656079,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122469,
-      "num": 122469,
-      "word": "泰国警方称发现失踪中国女子遗体",
-      "onboard_time": 1720874657,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122432,
@@ -18211,6 +18299,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 64199,
+      "num": 245250,
+      "word": "请给无缘巴黎的他们掌声和尊重",
+      "onboard_time": 1720875920,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64036,
       "num": 145212,
       "word": "黑衣男跳水勇救落水少年",
@@ -19337,6 +19433,14 @@
       "onboard_time": 1720850057,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 40210,
+      "num": 273977,
+      "word": "暴雨来袭他们全力以赴保群众安全",
+      "onboard_time": 1720876038,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39914,

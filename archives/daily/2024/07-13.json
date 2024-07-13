@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720874912220,
+  "endTime": 1720876836651,
   "band_list": [
     {
       "raw_hot": 1665195,
@@ -25,6 +25,14 @@
       "onboard_time": 1720847657,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391404,
+      "num": 1391404,
+      "word": "希林娜依高嗓子咋了",
+      "onboard_time": 1720875078,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1379804,
@@ -57,6 +65,14 @@
       "onboard_time": 1720837097,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1244668,
+      "num": 938046,
+      "word": "第一次这么心疼一个剧的反派",
+      "onboard_time": 1720872978,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1158706,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988426,
+      "num": 246409,
+      "word": "陈昊宇美貌",
+      "onboard_time": 1720875018,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977408,
       "num": 977408,
       "word": "荣梓杉被中戏录取",
@@ -145,14 +169,6 @@
       "onboard_time": 1720869976,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938046,
-      "num": 938046,
-      "word": "第一次这么心疼一个剧的反派",
-      "onboard_time": 1720872978,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 919558,
@@ -291,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 642679,
+      "num": 246211,
+      "word": "尚雯婕bangbang",
+      "onboard_time": 1720876279,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631369,
       "num": 631369,
       "word": "抓娃娃 楚门的世界",
@@ -305,6 +329,14 @@
       "onboard_time": 1720847537,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616304,
+      "num": 243313,
+      "word": "希林娜依高生病了",
+      "onboard_time": 1720875920,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 606137,
@@ -531,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400001,
+      "num": 241424,
+      "word": "泰国警方称发现失踪中国女子遗体",
+      "onboard_time": 1720874657,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399714,
       "num": 298273,
       "word": "张九泰结婚",
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348124,
+      "num": 329683,
+      "word": "肖战 重庆",
+      "onboard_time": 1720872078,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345546,
       "num": 345546,
       "word": "谭维维 审美疲劳",
@@ -667,12 +715,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 329683,
-      "num": 329683,
-      "word": "肖战 重庆",
-      "onboard_time": 1720872078,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 329291,
+      "num": 176320,
+      "word": "光年之外",
+      "onboard_time": 1720874777,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 328082,
@@ -689,6 +737,14 @@
       "onboard_time": 1720826653,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324133,
+      "num": 175749,
+      "word": "吴谨言唱跳",
+      "onboard_time": 1720875258,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 322233,
@@ -729,6 +785,14 @@
       "onboard_time": 1720838358,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298897,
+      "num": 173276,
+      "word": "抓娃娃 二婚设定",
+      "onboard_time": 1720874238,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 289848,
@@ -817,6 +881,14 @@
       "onboard_time": 1720866377,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253145,
+      "num": 198505,
+      "word": "宫颈癌复发元凶竟在丈夫身上",
+      "onboard_time": 1720872018,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251595,
@@ -947,6 +1019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 226842,
+      "num": 167748,
+      "word": "范丞丞说老公只是一种感觉",
+      "onboard_time": 1720874897,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226166,
       "num": 171779,
       "word": "迪丽热巴扛住了顶光",
@@ -987,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217080,
-      "num": 198505,
-      "word": "宫颈癌复发元凶竟在丈夫身上",
-      "onboard_time": 1720872018,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 217034,
       "num": 217034,
       "word": "萝卜快跑会导致司机大规模失业吗",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1720862057,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214445,
+      "num": 163763,
+      "word": "电影默杀",
+      "onboard_time": 1720876339,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 213634,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1720869618,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207975,
+      "num": 163568,
+      "word": "刘忻声压",
+      "onboard_time": 1720875258,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 207804,
@@ -1219,6 +1307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188829,
+      "num": 168164,
+      "word": "张颂文用乱码回复马嘉祺",
+      "onboard_time": 1720870697,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188373,
       "num": 188373,
       "word": "李宇春厦门",
@@ -1263,6 +1359,14 @@
       "num": 174007,
       "word": "刘忻陈昊宇浪姐后首个合作舞台",
       "onboard_time": 1720858217,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184829,
+      "num": 157498,
+      "word": "青春芒果夜节目单",
+      "onboard_time": 1720875798,
       "rank": 32,
       "category": "综艺"
     },
@@ -1337,6 +1441,14 @@
       "onboard_time": 1720847056,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177934,
+      "num": 177934,
+      "word": "KPL",
+      "onboard_time": 1720875439,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 177566,
@@ -1451,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168164,
-      "num": 168164,
-      "word": "张颂文用乱码回复马嘉祺",
-      "onboard_time": 1720870697,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166999,
       "num": 166999,
       "word": "薛之谦演唱会嘉宾是陈伟霆",
@@ -1571,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159685,
+      "num": 159685,
+      "word": "20岁女生独自在海上漂流36小时",
+      "onboard_time": 1720872377,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159276,
       "num": 159276,
       "word": "男孩高考结束才知父亲已坐牢5年",
@@ -1635,6 +1747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 155153,
+      "num": 155153,
+      "word": "女子称晒背10天瘦了4斤",
+      "onboard_time": 1720875197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151555,
       "num": 151555,
       "word": "对象哪些行为你忍不了",
@@ -1651,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "AG挽风单局MVP",
+      "onboard_time": 1720876459,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150394,
       "num": 150394,
       "word": "如果你也抬头看 那是薛之谦的浪漫",
@@ -1665,6 +1793,14 @@
       "onboard_time": 1720874718,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148952,
+      "num": 230123,
+      "word": "一起为中国奥运健儿加油",
+      "onboard_time": 1720872498,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 148824,
@@ -1819,6 +1955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139461,
+      "num": 139461,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1720875678,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "考古学家在河南发现了9000年前的爱情",
@@ -1827,15 +1971,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138439,
-      "num": 138439,
-      "word": "20岁女生独自在海上漂流36小时",
-      "onboard_time": 1720872377,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138283,
+      "raw_hot": 138641,
       "num": 242179,
       "word": "女生用10年从专科成功逆袭博士",
       "onboard_time": 1720863558,
@@ -1947,14 +2083,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 130630,
-      "num": 230123,
-      "word": "一起为中国奥运健儿加油",
-      "onboard_time": 1720872498,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130325,
       "num": 130325,
       "word": "neinei13岁身高",
@@ -2035,14 +2163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127495,
-      "num": 127495,
-      "word": "光年之外",
-      "onboard_time": 1720874777,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127055,
       "num": 127055,
       "word": "竟然被一只男熊猫甜到了",
@@ -2113,14 +2233,6 @@
       "onboard_time": 1720831097,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122469,
-      "num": 122469,
-      "word": "泰国警方称发现失踪中国女子遗体",
-      "onboard_time": 1720874657,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121972,
@@ -2595,6 +2707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64199,
+      "num": 245250,
+      "word": "请给无缘巴黎的他们掌声和尊重",
+      "onboard_time": 1720875920,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63577,
       "num": 54152,
       "word": "巴西球赛发生冲突警察枪击守门员大腿",
@@ -2809,6 +2929,14 @@
       "onboard_time": 1720850057,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 40210,
+      "num": 273977,
+      "word": "暴雨来袭他们全力以赴保群众安全",
+      "onboard_time": 1720876038,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39914,
