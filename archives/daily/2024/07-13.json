@@ -1,6 +1,6 @@
 {
   "startTime": 1720801488466,
-  "endTime": 1720851988490,
+  "endTime": 1720852725355,
   "band_list": [
     {
       "raw_hot": 1455090,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1107762,
+      "num": 1177242,
+      "word": "李蓉怀孕",
+      "onboard_time": 1720850418,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1104610,
       "num": 1104610,
       "word": "李晨 后继有人",
@@ -81,14 +89,6 @@
       "onboard_time": 1720834936,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1026757,
-      "num": 1164281,
-      "word": "李蓉怀孕",
-      "onboard_time": 1720850418,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 996364,
@@ -137,6 +137,14 @@
       "onboard_time": 1720838537,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 764237,
+      "num": 198752,
+      "word": "土豆不要和米饭一起吃",
+      "onboard_time": 1720849097,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 751751,
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617271,
-      "num": 197186,
-      "word": "土豆不要和米饭一起吃",
-      "onboard_time": 1720849097,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 595167,
       "num": 595167,
       "word": "抓娃娃",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 564687,
-      "num": 279858,
+      "num": 314052,
       "word": "郑乃馨说和Bright的恋情很顺利",
       "onboard_time": 1720850236,
       "rank": 10,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 451837,
-      "num": 274114,
+      "num": 314013,
       "word": "裴文宣爱的迫降",
       "onboard_time": 1720848797,
       "rank": 30,
@@ -393,6 +393,22 @@
       "onboard_time": 1720777518,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340927,
+      "num": 340927,
+      "word": "菲律宾",
+      "onboard_time": 1720849398,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 339440,
+      "num": 196466,
+      "word": "女子自称抑郁症欠房租却出国拍写真",
+      "onboard_time": 1720851497,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338174,
@@ -515,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255601,
+      "num": 255601,
+      "word": "美国人办中国签证到底有多难",
+      "onboard_time": 1720851257,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 254222,
       "num": 254222,
       "word": "王一博穿了灵龙",
@@ -585,6 +609,14 @@
       "onboard_time": 1720827016,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 231483,
+      "num": 231483,
+      "word": "伊利宣传片",
+      "onboard_time": 1720852097,
+      "rank": 18,
+      "category": "美食,体育"
     },
     {
       "raw_hot": 230851,
@@ -667,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213037,
-      "num": 213037,
-      "word": "菲律宾",
-      "onboard_time": 1720849398,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 207804,
       "num": 207804,
       "word": "谁家夫妻做成这模样啊",
@@ -689,14 +713,6 @@
       "onboard_time": 1720844777,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207183,
-      "num": 183933,
-      "word": "女子自称抑郁症欠房租却出国拍写真",
-      "onboard_time": 1720851497,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206790,
@@ -835,14 +851,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 179379,
-      "num": 179379,
-      "word": "美国人办中国签证到底有多难",
-      "onboard_time": 1720851257,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 178703,
       "num": 178703,
       "word": "五十公里桃花坞",
@@ -939,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164108,
+      "num": 164108,
+      "word": "李蓉不当扶弟姐了",
+      "onboard_time": 1720851077,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162356,
       "num": 129389,
       "word": "别墅绿化带惊现数个爱马仕",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1720844837,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155270,
-      "num": 155270,
-      "word": "李蓉不当扶弟姐了",
-      "onboard_time": 1720851077,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 151174,
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137693,
+      "num": 137693,
+      "word": "江祖平初中就决定不婚不生",
+      "onboard_time": 1720850836,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136383,
       "num": 136383,
       "word": "Meta取消对特朗普账号限制",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1720784238,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 130103,
-      "num": 130103,
-      "word": "江祖平初中就决定不婚不生",
-      "onboard_time": 1720850836,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 129537,
@@ -1339,6 +1347,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 113707,
+      "num": 113707,
+      "word": "马龙和姚明重现经典同框",
+      "onboard_time": 1720852397,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113569,
       "num": 113569,
       "word": "花小龙王老师好嗑",
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96680,
+      "num": 96680,
+      "word": "度华年预告",
+      "onboard_time": 1720852638,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "为什么小腿肌会被称为人的第二心脏",
@@ -1468,7 +1492,7 @@
     },
     {
       "raw_hot": 79760,
-      "num": 181357,
+      "num": 314724,
       "word": "去大草原做一场夏日的梦",
       "onboard_time": 1720851918,
       "rank": 29,
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 54305,
-      "num": 257928,
+      "num": 306596,
       "word": "下午茶就该在下午喝",
       "onboard_time": 1720849816,
       "rank": 15,
@@ -1739,20 +1763,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20025,
+      "num": 187689,
+      "word": "极氪009出七座版了",
+      "onboard_time": 1720850596,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18003,
       "num": 23897,
       "word": "陈泽直播",
       "onboard_time": 1720820231,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 17436,
-      "num": 187689,
-      "word": "极氪009出七座版了",
-      "onboard_time": 1720850596,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 16351,
