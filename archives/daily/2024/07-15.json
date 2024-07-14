@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1720991870605,
+  "endTime": 1720992927418,
   "band_list": [
     {
       "raw_hot": 1048284,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665277,
+      "num": 665277,
+      "word": "西班牙夺得欧洲杯冠军",
+      "onboard_time": 1720990992,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625307,
       "num": 625307,
       "word": "欧洲杯决赛",
@@ -49,14 +57,6 @@
       "onboard_time": 1720919238,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 525823,
-      "num": 525823,
-      "word": "西班牙夺得欧洲杯冠军",
-      "onboard_time": 1720990992,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 498682,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139982,
+      "num": 139982,
+      "word": "西班牙全胜夺冠",
+      "onboard_time": 1720991171,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128348,
       "num": 128348,
       "word": "西班牙队第27人来了",
@@ -321,6 +329,14 @@
       "onboard_time": 1720967181,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119507,
+      "num": 105459,
+      "word": "威廉姆斯使用内马尔庆祝动作",
+      "onboard_time": 1720989731,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 119202,
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104872,
+      "num": 104872,
+      "word": "凯恩冠军荒",
+      "onboard_time": 1720992613,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103426,
       "num": 103426,
       "word": "王楚钦第2次奥运之旅身兼三项",
@@ -411,11 +435,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96208,
-      "num": 96208,
-      "word": "西班牙全胜夺冠",
-      "onboard_time": 1720991171,
-      "rank": 8,
+      "raw_hot": 96130,
+      "num": 96130,
+      "word": "亚马尔本届欧洲杯助攻王",
+      "onboard_time": 1720990751,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -483,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82172,
-      "num": 82172,
-      "word": "威廉姆斯使用内马尔庆祝动作",
-      "onboard_time": 1720989731,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79594,
       "num": 79594,
       "word": "欧洲杯决赛成防守大战",
@@ -515,12 +531,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64750,
-      "num": 64750,
-      "word": "亚马尔本届欧洲杯助攻王",
-      "onboard_time": 1720990751,
+      "raw_hot": 63941,
+      "num": 63941,
+      "word": "罗德里当选本届欧洲杯最佳球员",
+      "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63646,
+      "num": 63646,
+      "word": "亚马尔17岁生日礼物",
+      "onboard_time": 1720991712,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63006,
+      "num": 63006,
+      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+      "onboard_time": 1720962799,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62914,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 60775,
-      "num": 45241,
+      "num": 51966,
       "word": "罗德里伤退",
       "onboard_time": 1720989492,
       "rank": 30,
@@ -571,19 +603,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56078,
-      "num": 56078,
-      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
-      "onboard_time": 1720962799,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 49971,
       "num": 49971,
       "word": "卡瓦哈尔哭脸嘲讽",
       "onboard_time": 1720986431,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45278,
+      "num": 45278,
+      "word": "亚马尔获欧洲杯最佳年轻球员",
+      "onboard_time": 1720992430,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -593,6 +625,14 @@
       "onboard_time": 1720961358,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37937,
+      "num": 37937,
+      "word": "索斯盖特玄学不在",
+      "onboard_time": 1720991532,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 37830,
@@ -611,11 +651,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34616,
-      "num": 34616,
-      "word": "亚马尔17岁生日礼物",
-      "onboard_time": 1720991712,
-      "rank": 37,
+      "raw_hot": 33573,
+      "num": 33573,
+      "word": "贝林厄姆穿裆罗德里",
+      "onboard_time": 1720987571,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -664,22 +704,6 @@
       "word": "索斯盖特又换对了",
       "onboard_time": 1720989851,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 30022,
-      "num": 30022,
-      "word": "索斯盖特玄学不在",
-      "onboard_time": 1720991532,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 30006,
-      "num": 30006,
-      "word": "贝林厄姆穿裆罗德里",
-      "onboard_time": 1720987571,
-      "rank": 33,
       "category": "体育"
     },
     {
