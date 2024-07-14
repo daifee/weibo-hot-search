@@ -1,21 +1,21 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720921927350,
+  "endTime": 1720924955302,
   "band_list": [
+    {
+      "raw_hot": 11292215,
+      "num": 11292215,
+      "word": "特朗普称右耳被子弹击穿",
+      "onboard_time": 1720919238,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 10870995,
       "num": 10870995,
       "word": "特朗普遭遇枪击",
       "onboard_time": 1720911913,
       "rank": 0,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 9213188,
-      "num": 9213188,
-      "word": "特朗普称右耳被子弹击穿",
-      "onboard_time": 1720919238,
-      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -35,6 +35,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2583348,
+      "num": 305477,
+      "word": "安倍晋三",
+      "onboard_time": 1720920801,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1639468,
       "num": 373884,
       "word": "13.8 13.11",
@@ -49,14 +57,6 @@
       "onboard_time": 1720882159,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1401182,
-      "num": 305477,
-      "word": "安倍晋三",
-      "onboard_time": 1720920801,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1171127,
@@ -83,6 +83,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1069314,
+      "num": 1069314,
+      "word": "枪手距特朗普约180米至275米",
+      "onboard_time": 1720922961,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1064752,
       "num": 373255,
       "word": "刚上高铁就碰到公主巨婴了",
@@ -96,6 +104,14 @@
       "word": "拜登暂停所有竞选外出活动",
       "onboard_time": 1720917380,
       "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 711437,
+      "num": 297464,
+      "word": "拜登谴责特朗普竞选集会枪击事件",
+      "onboard_time": 1720923199,
+      "rank": 13,
       "category": "国外时政"
     },
     {
@@ -163,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 426053,
+      "num": 297000,
+      "word": "装修时收到了邻居的婴儿作息表",
+      "onboard_time": 1720923498,
+      "rank": 15,
+      "category": "母婴育儿,情感"
+    },
+    {
       "raw_hot": 424079,
       "num": 424079,
       "word": "老人要报40元团4天3晚游桂林",
@@ -219,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 359529,
+      "num": 359529,
+      "word": "难怪陈奕迅演唱会不让带相机",
+      "onboard_time": 1720920202,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354646,
       "num": 354646,
       "word": "拜登",
@@ -241,6 +273,30 @@
       "onboard_time": 1720875078,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326735,
+      "num": 295898,
+      "word": "李斯丹妮上身身材",
+      "onboard_time": 1720923920,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326443,
+      "num": 175160,
+      "word": "记者拍到子弹划过特朗普耳朵画面",
+      "onboard_time": 1720924339,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 318895,
+      "num": 318895,
+      "word": "少年白马醉春风",
+      "onboard_time": 1720924101,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 306514,
@@ -291,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271501,
+      "num": 173811,
+      "word": "奥巴马就特朗普遭枪击发声",
+      "onboard_time": 1720924700,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 261224,
       "num": 256510,
       "word": "亚马尔16岁为家人买三套房",
@@ -305,6 +369,14 @@
       "onboard_time": 1720912694,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247954,
+      "num": 247954,
+      "word": "美国总统",
+      "onboard_time": 1720923199,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 236830,
@@ -331,20 +403,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213975,
-      "num": 213975,
-      "word": "难怪陈奕迅演唱会不让带相机",
-      "onboard_time": 1720920202,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
       "onboard_time": 1720918819,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 208528,
+      "num": 208528,
+      "word": "赵今麦错猜蒋依依",
+      "onboard_time": 1720922898,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 204979,
@@ -379,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192540,
+      "num": 173680,
+      "word": "因为录取通知书跟爸妈吵架了",
+      "onboard_time": 1720924339,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "身体湿气重是什么感觉",
@@ -393,6 +473,14 @@
       "onboard_time": 1720916839,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187595,
+      "num": 187595,
+      "word": "王一博香奈儿采访part",
+      "onboard_time": 1720923378,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 180952,
@@ -449,6 +537,14 @@
       "onboard_time": 1720878798,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158447,
+      "num": 158447,
+      "word": "特朗普集会观众中1人死亡2人受伤",
+      "onboard_time": 1720921940,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 155866,
@@ -523,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139476,
+      "num": 139476,
+      "word": "中国男篮不敌掘金",
+      "onboard_time": 1720923620,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136746,
       "num": 259296,
       "word": "宫颈癌复发元凶竟在丈夫身上",
@@ -545,6 +649,22 @@
       "onboard_time": 1720877059,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132899,
+      "num": 132899,
+      "word": "一个老爷爷的干净小摊子",
+      "onboard_time": 1720922300,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129994,
+      "num": 129994,
+      "word": "自己给奶奶做了一个智能屏",
+      "onboard_time": 1720924460,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 128340,
@@ -931,20 +1051,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28673,
+      "num": 306439,
+      "word": "女婴不幸离世捐献器官助3人重获新生",
+      "onboard_time": 1720913595,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28332,
       "num": 43666,
       "word": "重庆一外公晒出和外孙女合照",
       "onboard_time": 1720896613,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22221,
-      "num": 306439,
-      "word": "女婴不幸离世捐献器官助3人重获新生",
-      "onboard_time": 1720913595,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20573,

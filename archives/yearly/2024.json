@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1720921927350,
+  "endTime": 1720924955302,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -184,6 +184,14 @@
       "word": "伊媒称伊朗总统直升机事故区域无生还迹象",
       "onboard_time": 1716174739,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 11292215,
+      "num": 11292215,
+      "word": "特朗普称右耳被子弹击穿",
+      "onboard_time": 1720919238,
+      "rank": 1,
       "category": "国外时政"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1716554543,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9213188,
-      "num": 9213188,
-      "word": "特朗普称右耳被子弹击穿",
-      "onboard_time": 1720919238,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 9189322,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 09:52:07
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 10:42:35
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,14 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23" target="weibo">
-特朗普遭遇枪击（热度：10870995）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23" target="weibo">
+特朗普称右耳被子弹击穿（热度：11292215）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23" target="weibo">
-特朗普称右耳被子弹击穿（热度：9213188）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23" target="weibo">
+特朗普遭遇枪击（热度：10870995）
 </a>
 </li>
 
@@ -119,6 +119,12 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%23" target="weibo">
 北约首次直接警告中国（热度：2591021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%23" target="weibo">
+安倍晋三（热度：2583348）
 </a>
 </li>
 
@@ -767,12 +773,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%81%A2%E5%A4%8D%E5%8D%B5%E5%B7%A2%E5%8A%9F%E8%83%BD%E8%BF%9E%E7%82%AB20%E5%A4%9A%E4%B8%AA%E6%A6%B4%E8%8E%B2%23" target="weibo">
 女子为恢复卵巢功能连炫20多个榴莲（热度：1404092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%23" target="weibo">
-安倍晋三（热度：1401182）
 </a>
 </li>
 
@@ -1487,6 +1487,12 @@ Jennie疑似抽烟（热度：1100610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AF%B9%E7%88%B6%E5%AD%90%E7%89%B5%E6%89%8B%E5%8D%A7%E8%BD%A8%E8%BA%AB%E4%BA%A1%23" target="weibo">
 印度一对父子牵手卧轨身亡（热度：1070657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%89%8B%E8%B7%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A6180%E7%B1%B3%E8%87%B3275%E7%B1%B3%23" target="weibo">
+枪手距特朗普约180米至275米（热度：1069314）
 </a>
 </li>
 
@@ -3137,6 +3143,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%88%9E%E4%BA%94%E4%B8%AA%E6%9C%88%E5%90%8E%E8%80%81%E5%85%AC%E4%B8%8D%E8%AE%A4%E8%AF%86%E6%88%91%E4%BA%86%23" target="weibo">
 跳舞五个月后老公不认识我了（热度：711517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+拜登谴责特朗普竞选集会枪击事件（热度：711437）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLACKPINK巡演大电影预告片（热度：474114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%96%B0%E4%BB%BB%E5%89%AF%E9%A6%96%E7%9B%B816%E5%B2%81%E6%97%B6%E6%9B%BE%E6%80%80%E5%AD%95%E8%BE%8D%E5%AD%A6%23" target="weibo">
 英国新任副首相16岁时曾怀孕辍学（热度：463090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%B8%8D%E5%88%B030%E5%88%86%E9%92%9F%E5%B0%B1%E7%AD%89%E4%BA%8E%E7%99%BD%E8%BF%90%E5%8A%A8%E4%BA%86%E5%90%97%23" target="weibo">
-运动不到30分钟就等于白运动了吗（热度：462834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E7%94%A8%E6%88%92%E6%8C%87%E7%BB%91%E5%A4%B4%E5%8F%91%23" target="weibo">
-Jennie用戒指绑头发（热度：462631）
 </a>
 </li>
 
