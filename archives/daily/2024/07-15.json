@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1720975867871,
+  "endTime": 1720977986282,
   "band_list": [
     {
       "raw_hot": 1048284,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336057,
+      "num": 221246,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 335764,
       "num": 335764,
       "word": "错位",
@@ -88,14 +96,6 @@
       "word": "特朗普遇刺6小时后首次露面",
       "onboard_time": 1720938203,
       "rank": 5,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 309957,
-      "num": 221246,
-      "word": "枪击特朗普枪手行凶衣着引关注",
-      "onboard_time": 1720969580,
-      "rank": 15,
       "category": "国外时政"
     },
     {
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192248,
+      "num": 192248,
+      "word": "王楚钦孙颖莎巴黎如愿",
+      "onboard_time": 1720977913,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178626,
       "num": 178626,
       "word": "西班牙vs英格兰",
@@ -177,6 +185,14 @@
       "onboard_time": 1720971019,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 167223,
+      "num": 133409,
+      "word": "凯特王妃为阿尔卡拉斯颁奖",
+      "onboard_time": 1720975576,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 166476,
@@ -379,12 +395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72645,
-      "num": 72645,
-      "word": "凯特王妃为阿尔卡拉斯颁奖",
-      "onboard_time": 1720975576,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 75525,
+      "num": 75525,
+      "word": "这3个体检项目其实是浪费钱",
+      "onboard_time": 1720977913,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61631,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54370,
+      "num": 54370,
+      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+      "onboard_time": 1720962799,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30976,
       "num": 548754,
       "word": "二十届三中全会是个什么会",
@@ -417,6 +441,14 @@
       "onboard_time": 1720968980,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9384,
+      "num": 185850,
+      "word": "行进的中国如此蓬勃",
+      "onboard_time": 1720963640,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7011,
