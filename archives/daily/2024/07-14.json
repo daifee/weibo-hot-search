@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720920976321,
+  "endTime": 1720921927350,
   "band_list": [
     {
       "raw_hot": 10870995,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 6164047,
-      "num": 6164047,
+      "raw_hot": 9213188,
+      "num": 9213188,
       "word": "特朗普称右耳被子弹击穿",
       "onboard_time": 1720919238,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1401182,
+      "num": 305477,
+      "word": "安倍晋三",
+      "onboard_time": 1720920801,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1171127,
       "num": 1171127,
       "word": "有人工资卡转账额度被降到500元",
@@ -83,8 +91,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 775715,
-      "num": 372452,
+      "raw_hot": 776997,
+      "num": 776997,
       "word": "拜登暂停所有竞选外出活动",
       "onboard_time": 1720917380,
       "rank": 12,
@@ -107,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 588202,
+      "num": 588202,
+      "word": "Henry没认出黄磊",
+      "onboard_time": 1720916657,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571640,
       "num": 357441,
       "word": "疑在泰被撕票中国女子最后监控画面",
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523791,
-      "num": 523791,
-      "word": "Henry没认出黄磊",
-      "onboard_time": 1720916657,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 519304,
+      "num": 371473,
+      "word": "特朗普团队发声",
+      "onboard_time": 1720919480,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 490560,
@@ -131,16 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462985,
-      "num": 371473,
-      "word": "特朗普团队发声",
-      "onboard_time": 1720919480,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 442638,
-      "num": 442638,
+      "raw_hot": 472140,
+      "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
       "onboard_time": 1720917797,
       "rank": 6,
@@ -195,20 +203,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362939,
+      "num": 321136,
+      "word": "卫生巾要2个小时换一次",
+      "onboard_time": 1720912994,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 360963,
       "num": 360963,
       "word": "凯特王妃将第二次公开露面",
       "onboard_time": 1720880598,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 360079,
-      "num": 321136,
-      "word": "卫生巾要2个小时换一次",
-      "onboard_time": 1720912994,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 354646,
@@ -233,6 +241,14 @@
       "onboard_time": 1720875078,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306514,
+      "num": 306514,
+      "word": "恋与深空",
+      "onboard_time": 1720920621,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 298348,
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213975,
+      "num": 213975,
+      "word": "难怪陈奕迅演唱会不让带相机",
+      "onboard_time": 1720920202,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193252,
-      "num": 193252,
-      "word": "恋与深空",
-      "onboard_time": 1720920621,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "身体湿气重是什么感觉",
@@ -371,7 +387,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 177584,
+      "raw_hot": 188743,
+      "num": 188743,
+      "word": "单依纯 音乐节",
+      "onboard_time": 1720916839,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 180952,
       "num": 177584,
       "word": "原来鹿晗陈奕迅的热歌是他写的",
       "onboard_time": 1720915578,
@@ -385,14 +409,6 @@
       "onboard_time": 1720878920,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174202,
-      "num": 174202,
-      "word": "单依纯 音乐节",
-      "onboard_time": 1720916839,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 172822,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169497,
+      "num": 375008,
+      "word": "小夫妻每年结婚纪念日套娃式拍合照",
+      "onboard_time": 1720913835,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165551,
       "num": 259805,
       "word": "外国人对中国留学生的印象",
@@ -427,28 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164037,
-      "num": 164037,
-      "word": "安倍晋三",
-      "onboard_time": 1720920801,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 155866,
       "num": 155866,
       "word": "九点上班要求8点50就到",
       "onboard_time": 1720913114,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152606,
-      "num": 152606,
-      "word": "难怪陈奕迅演唱会不让带相机",
-      "onboard_time": 1720920202,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 152364,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119828,
+      "num": 119828,
+      "word": "张韶涵石家庄",
+      "onboard_time": 1720921340,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118570,
       "num": 256902,
       "word": "陈都灵 你这样说我更i了",
@@ -603,6 +619,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 111180,
+      "num": 111180,
+      "word": "发言人称特朗普身体状况良好",
+      "onboard_time": 1720913533,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 109840,
       "num": 109840,
       "word": "黄景瑜身材",
@@ -617,14 +641,6 @@
       "onboard_time": 1720872078,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109037,
-      "num": 375008,
-      "word": "小夫妻每年结婚纪念日套娃式拍合照",
-      "onboard_time": 1720913835,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108071,
@@ -657,14 +673,6 @@
       "onboard_time": 1720877059,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105753,
-      "num": 105753,
-      "word": "发言人称特朗普身体状况良好",
-      "onboard_time": 1720913533,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 105410,
@@ -931,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22221,
+      "num": 306439,
+      "word": "女婴不幸离世捐献器官助3人重获新生",
+      "onboard_time": 1720913595,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20573,
       "num": 2721127,
       "word": "微观中国深改之变",
@@ -1008,14 +1024,6 @@
       "word": "共富工坊帮蚕农结出黄金茧",
       "onboard_time": 1720911732,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13013,
-      "num": 78681,
-      "word": "女婴不幸离世捐献器官助3人重获新生",
-      "onboard_time": 1720913595,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
