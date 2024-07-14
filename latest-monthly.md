@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 10:42:35
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 10:53:52
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23" target="weibo">
-特朗普称右耳被子弹击穿（热度：11292215）
+特朗普称右耳被子弹击穿（热度：11311171）
 </a>
 </li>
 
@@ -2309,6 +2309,12 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%AC%AC%E4%B8%80%E9%83%A8%E6%82%AC%E7%96%91%E5%89%A7%E6%9D%A5%E4%BA%86%23" target="weibo">
 暑期档第一部悬疑剧来了（热度：846647）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+奥巴马就特朗普遭枪击发声（热度：845705）
 </a>
 </li>
 
@@ -4965,6 +4971,12 @@ WPS崩了（热度：543165）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%8B%8D%E5%88%B0%E5%AD%90%E5%BC%B9%E5%88%92%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%B3%E6%9C%B5%E7%94%BB%E9%9D%A2%23" target="weibo">
+记者拍到子弹划过特朗普耳朵画面（热度：534680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%88%A9%E6%9D%A5%20%E5%85%89%E5%A4%9C%23" target="weibo">
 好利来 光夜（热度：534005）
 </a>
@@ -5999,18 +6011,6 @@ BLACKPINK巡演大电影预告片（热度：474114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%80%92%E5%9C%B0%E6%95%91%E6%B2%BB%E5%AF%B9%E6%AF%94%23" target="weibo">
 张志杰埃里克森倒地救治对比（热度：463640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B5%E4%BB%8A%E9%BA%A6%20%E5%B0%BC%E5%85%8B%E6%9C%B1%E8%BF%AA%23" target="weibo">
-张凌赫赵今麦 尼克朱迪（热度：463359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%96%B0%E4%BB%BB%E5%89%AF%E9%A6%96%E7%9B%B816%E5%B2%81%E6%97%B6%E6%9B%BE%E6%80%80%E5%AD%95%E8%BE%8D%E5%AD%A6%23" target="weibo">
-英国新任副首相16岁时曾怀孕辍学（热度：463090）
 </a>
 </li>
 

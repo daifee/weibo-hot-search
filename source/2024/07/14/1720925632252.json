@@ -1,0 +1,410 @@
+{
+  "runTime": 1720925632252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11311171,
+        "num": 11311171,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 6585561,
+        "num": 6585561,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 7826,
+        "num": 2809696,
+        "word": "微观中国深改之变",
+        "onboard_time": 1720875318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908379,
+        "num": 908379,
+        "word": "枪手距特朗普约180米至275米",
+        "onboard_time": 1720922961,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436980,
+        "num": 436980,
+        "word": "少年白马醉春风",
+        "onboard_time": 1720924101,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424331,
+        "num": 424331,
+        "word": "装修时收到了邻居的婴儿作息表",
+        "onboard_time": 1720923498,
+        "rank": 5,
+        "category": "母婴育儿,情感"
+      },
+      {
+        "raw_hot": 398786,
+        "num": 398786,
+        "word": "Henry没认出黄磊",
+        "onboard_time": 1720916657,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357565,
+        "num": 357565,
+        "word": "难怪陈奕迅演唱会不让带相机",
+        "onboard_time": 1720920202,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327077,
+        "num": 327077,
+        "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
+        "onboard_time": 1720917797,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20815,
+        "num": 326492,
+        "word": "女婴不幸离世捐献器官助3人重获新生",
+        "onboard_time": 1720913595,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2310404,
+        "num": 326457,
+        "word": "安倍晋三",
+        "onboard_time": 1720920801,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1084089,
+        "num": 325798,
+        "word": "13.8 13.11",
+        "onboard_time": 1720913475,
+        "rank": 11,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 845705,
+        "num": 324798,
+        "word": "奥巴马就特朗普遭枪击发声",
+        "onboard_time": 1720924700,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274657,
+        "num": 324642,
+        "word": "老人要报40元团4天3晚游桂林",
+        "onboard_time": 1720911732,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767332,
+        "num": 323714,
+        "word": "刚上高铁就碰到公主巨婴了",
+        "onboard_time": 1720913174,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602361,
+        "num": 323243,
+        "word": "拜登谴责特朗普竞选集会枪击事件",
+        "onboard_time": 1720923199,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 534680,
+        "num": 322570,
+        "word": "记者拍到子弹划过特朗普耳朵画面",
+        "onboard_time": 1720924339,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438985,
+        "num": 322011,
+        "word": "拜登暂停所有竞选外出活动",
+        "onboard_time": 1720917380,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332196,
+        "num": 321423,
+        "word": "卫生巾要2个小时换一次",
+        "onboard_time": 1720912994,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321094,
+        "num": 321094,
+        "word": "特朗普",
+        "onboard_time": 1720911852,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352604,
+        "num": 318776,
+        "word": "因为录取通知书跟爸妈吵架了",
+        "onboard_time": 1720924339,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340076,
+        "num": 316497,
+        "word": "李斯丹妮上身身材",
+        "onboard_time": 1720923920,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309780,
+        "num": 309780,
+        "word": "特朗普团队发声",
+        "onboard_time": 1720919480,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 305299,
+        "num": 305299,
+        "word": "美特勤局称特朗普情况安全",
+        "onboard_time": 1720913475,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275922,
+        "num": 275922,
+        "word": "37岁单身到底有多爽",
+        "onboard_time": 1720913715,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200764,
+        "num": 200764,
+        "word": "美国总统",
+        "onboard_time": 1720923199,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198796,
+        "num": 198796,
+        "word": "有人工资卡转账额度被降到500元",
+        "onboard_time": 1720880780,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 186718,
+        "word": "赵今麦错猜蒋依依",
+        "onboard_time": 1720922898,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182644,
+        "num": 182644,
+        "word": "爸爸借给舅舅儿子50w买房",
+        "onboard_time": 1720914797,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172779,
+        "num": 172779,
+        "word": "长大后才知道小学课本里都是细糠",
+        "onboard_time": 1720925059,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261844,
+        "num": 170909,
+        "word": "多位知名运动员无缘巴黎奥运会",
+        "onboard_time": 1720925000,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251610,
+        "num": 169099,
+        "word": "特朗普离开医院",
+        "onboard_time": 1720925059,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166432,
+        "num": 166432,
+        "word": "云南牛奶自带插孔吸管震惊北方人",
+        "onboard_time": 1720912694,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155436,
+        "num": 155436,
+        "word": "拜登听取特朗普枪击事件简报",
+        "onboard_time": 1720915756,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154447,
+        "num": 154447,
+        "word": "加拿大5比6乌拉圭",
+        "onboard_time": 1720925540,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153372,
+        "num": 153372,
+        "word": "自己给奶奶做了一个智能屏",
+        "onboard_time": 1720924460,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "内塔尼亚胡就特朗普竞选集会枪击发声",
+        "onboard_time": 1720916839,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151118,
+        "num": 151118,
+        "word": "建议大家人脸识别要穿上衣服",
+        "onboard_time": 1720913114,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150412,
+        "num": 150412,
+        "word": "王一博香奈儿采访part",
+        "onboard_time": 1720923378,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148668,
+        "num": 148668,
+        "word": "什么工作未来几十年都不会失业",
+        "onboard_time": 1720913775,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145232,
+        "num": 145232,
+        "word": "单依纯 音乐节",
+        "onboard_time": 1720916839,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144135,
+        "num": 144135,
+        "word": "特朗普集会观众中1人死亡2人受伤",
+        "onboard_time": 1720921940,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138904,
+        "num": 138904,
+        "word": "山下智久来了",
+        "onboard_time": 1720915216,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 133668,
+        "word": "小夫妻每年结婚纪念日套娃式拍合照",
+        "onboard_time": 1720913835,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131234,
+        "num": 131234,
+        "word": "身体湿气重是什么感觉",
+        "onboard_time": 1720911673,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130577,
+        "num": 130577,
+        "word": "特朗普枪击事件枪手或为狙击手",
+        "onboard_time": 1720919238,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 130388,
+        "word": "中国男篮不敌掘金",
+        "onboard_time": 1720923620,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "一个老爷爷的干净小摊子",
+        "onboard_time": 1720922300,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126311,
+        "num": 126311,
+        "word": "女孩",
+        "onboard_time": 1720882159,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126231,
+        "num": 126231,
+        "word": "恋与深空",
+        "onboard_time": 1720920621,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#拿出更多改革创新举措把问题解决好#"
+    }
+  }
+}
