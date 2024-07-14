@@ -1,0 +1,410 @@
+{
+  "runTime": 1720970921306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288619,
+        "num": 1288619,
+        "word": "李闽轩 中戏录取",
+        "onboard_time": 1720969460,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1184713,
+        "num": 1184713,
+        "word": "凯特王妃亮相温网",
+        "onboard_time": 1720965921,
+        "rank": 1,
+        "category": "国外时政,体育"
+      },
+      {
+        "raw_hot": 66813,
+        "num": 948865,
+        "word": "二十届三中全会是个什么会",
+        "onboard_time": 1720963760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903060,
+        "num": 903060,
+        "word": "错位",
+        "onboard_time": 1720961419,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 869006,
+        "num": 869006,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 608664,
+        "num": 608664,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 686348,
+        "num": 557731,
+        "word": "希林娜依高 破音",
+        "onboard_time": 1720967901,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 497263,
+        "num": 497263,
+        "word": "防风意映这一刻好漂亮",
+        "onboard_time": 1720965981,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421925,
+        "num": 421925,
+        "word": "国乒出发奔赴巴黎",
+        "onboard_time": 1720969520,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52812,
+        "num": 420001,
+        "word": "夜跑夫妻狂奔百米营救落水女子",
+        "onboard_time": 1720968980,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1376442,
+        "num": 418322,
+        "word": "黄子韬徐艺洋官宣",
+        "onboard_time": 1720943183,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837735,
+        "num": 412905,
+        "word": "特朗普或因侧头看图表救回一命",
+        "onboard_time": 1720945401,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 543411,
+        "num": 408404,
+        "word": "容祖儿 感谢我的爱人",
+        "onboard_time": 1720965081,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448669,
+        "num": 406439,
+        "word": "马斯克自曝差点遭到2次暗杀",
+        "onboard_time": 1720964480,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 404336,
+        "num": 404336,
+        "word": "欧洲杯决赛",
+        "onboard_time": 1720967720,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347546,
+        "num": 347546,
+        "word": "消失的她阴暗的他清澈的我",
+        "onboard_time": 1720966399,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346422,
+        "num": 346422,
+        "word": "程潇直播",
+        "onboard_time": 1720967181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293828,
+        "num": 293828,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272844,
+        "num": 272844,
+        "word": "手紧的年轻人爆买10元防晒衣",
+        "onboard_time": 1720962140,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 268516,
+        "num": 268516,
+        "word": "特朗普遇袭现场医生发声",
+        "onboard_time": 1720963281,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1004732,
+        "num": 265993,
+        "word": "月经快要离开时身体会给出4个提示",
+        "onboard_time": 1720966581,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 428504,
+        "num": 263151,
+        "word": "预测特朗普胜选率上升至70%",
+        "onboard_time": 1720967482,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 411127,
+        "num": 256499,
+        "word": "一夜之后韩总夫人跑了",
+        "onboard_time": 1720963700,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318901,
+        "num": 254361,
+        "word": "薛之谦演唱会嘉宾是李健",
+        "onboard_time": 1720962799,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281108,
+        "num": 249060,
+        "word": "刘亦菲成了林一炫耀的资本",
+        "onboard_time": 1720952840,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248483,
+        "num": 248483,
+        "word": "邹市明吐槽3儿子没一个子承父业",
+        "onboard_time": 1720948161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231155,
+        "num": 231155,
+        "word": "王鸥的状态",
+        "onboard_time": 1720964960,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228508,
+        "num": 228508,
+        "word": "王楚钦第2次奥运之旅身兼三项",
+        "onboard_time": 1720968860,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215708,
+        "num": 215708,
+        "word": "温网男单决赛",
+        "onboard_time": 1720963520,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211188,
+        "num": 211188,
+        "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
+        "onboard_time": 1720960701,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206285,
+        "num": 206285,
+        "word": "巴黎街头偶遇王一博散步",
+        "onboard_time": 1720967240,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205479,
+        "num": 205479,
+        "word": "迪丽热巴夏天绿西装",
+        "onboard_time": 1720961419,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199960,
+        "num": 199960,
+        "word": "爸妈给弟弟买了一万的电脑我退群了",
+        "onboard_time": 1720930645,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197936,
+        "num": 197936,
+        "word": "邓为6年前街拍旧照",
+        "onboard_time": 1720966460,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188226,
+        "num": 188226,
+        "word": "4AM入围EWC",
+        "onboard_time": 1720969700,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 178037,
+        "word": "枪击特朗普枪手行凶衣着引关注",
+        "onboard_time": 1720969580,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176586,
+        "num": 176586,
+        "word": "好像所有人都确认了相柳的结局",
+        "onboard_time": 1720969220,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174239,
+        "num": 174239,
+        "word": "蔡依林的小狗屋虎",
+        "onboard_time": 1720967660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "陶喆南京演唱会",
+        "onboard_time": 1720969580,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167541,
+        "num": 167541,
+        "word": "抓娃娃",
+        "onboard_time": 1720942891,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163013,
+        "num": 163013,
+        "word": "邓超和等等 活泼老奴和沉稳少爷",
+        "onboard_time": 1720964180,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154635,
+        "num": 154635,
+        "word": "温网",
+        "onboard_time": 1720962920,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "阿尔卡拉斯vs德约科维奇",
+        "onboard_time": 1720966160,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "枪击特朗普枪手为共和党人",
+        "onboard_time": 1720952779,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "椰子水为何干不过柠檬茶",
+        "onboard_time": 1720955479,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141634,
+        "num": 141634,
+        "word": "张元英牛仔裤全身照",
+        "onboard_time": 1720959680,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136837,
+        "num": 136837,
+        "word": "方大同薛凯琪互动了",
+        "onboard_time": 1720957819,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129070,
+        "num": 129070,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120066,
+        "num": 120066,
+        "word": "严浩翔最佳男配角",
+        "onboard_time": 1720966039,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119393,
+        "num": 119393,
+        "word": "Yamy问文邺辰看别人出道什么感受",
+        "onboard_time": 1720970720,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一串地标领悟习近平的改革之道#"
+    }
+  }
+}

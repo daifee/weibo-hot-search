@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720968138567,
+  "endTime": 1720970921306,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -123,6 +123,14 @@
       "category": "国外时政,体育"
     },
     {
+      "raw_hot": 1288619,
+      "num": 1288619,
+      "word": "李闽轩 中戏录取",
+      "onboard_time": 1720969460,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271414,
       "num": 1271414,
       "word": "白敬亭两片装饼干21元",
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1004732,
+      "num": 321847,
+      "word": "月经快要离开时身体会给出4个提示",
+      "onboard_time": 1720966581,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 970406,
       "num": 563435,
       "word": "枪击特朗普枪手为共和党人",
@@ -283,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 727998,
-      "num": 321847,
-      "word": "月经快要离开时身体会给出4个提示",
-      "onboard_time": 1720966581,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
@@ -313,6 +321,14 @@
       "onboard_time": 1720928300,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 686348,
+      "num": 557731,
+      "word": "希林娜依高 破音",
+      "onboard_time": 1720967901,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 676354,
@@ -579,6 +595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 497263,
+      "num": 497263,
+      "word": "防风意映这一刻好漂亮",
+      "onboard_time": 1720965981,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494088,
       "num": 1652342,
       "word": "12部国产动画加入暑期档",
@@ -592,14 +616,6 @@
       "word": "第一次这么心疼一个剧的反派",
       "onboard_time": 1720872978,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 481063,
-      "num": 481063,
-      "word": "防风意映这一刻好漂亮",
-      "onboard_time": 1720965981,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -683,6 +699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 428504,
+      "num": 263151,
+      "word": "预测特朗普胜选率上升至70%",
+      "onboard_time": 1720967482,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 426807,
       "num": 1073707,
       "word": "一男子购买恋爱保险结婚后理赔遭拒",
@@ -715,6 +739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 421925,
+      "num": 421925,
+      "word": "国乒出发奔赴巴黎",
+      "onboard_time": 1720969520,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415919,
       "num": 1155026,
       "word": "歌手曾舜晞回来了",
@@ -745,6 +777,14 @@
       "onboard_time": 1720880840,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 404336,
+      "num": 404336,
+      "word": "欧洲杯决赛",
+      "onboard_time": 1720967720,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 398212,
@@ -835,6 +875,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347546,
+      "num": 347546,
+      "word": "消失的她阴暗的他清澈的我",
+      "onboard_time": 1720966399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346422,
+      "num": 346422,
+      "word": "程潇直播",
+      "onboard_time": 1720967181,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346137,
       "num": 261369,
       "word": "希林娜依高嗓子咋了",
@@ -849,14 +905,6 @@
       "onboard_time": 1720926560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341188,
-      "num": 341188,
-      "word": "欧洲杯决赛",
-      "onboard_time": 1720967720,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 340076,
@@ -961,6 +1009,14 @@
       "onboard_time": 1720945521,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 293828,
+      "num": 293828,
+      "word": "西班牙vs英格兰",
+      "onboard_time": 1720967962,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 293492,
@@ -1131,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260265,
-      "num": 260265,
-      "word": "消失的她阴暗的他清澈的我",
-      "onboard_time": 1720966399,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255621,
       "num": 255621,
       "word": "云南牛奶自带插孔吸管震惊北方人",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1720935745,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251902,
-      "num": 251902,
-      "word": "程潇直播",
-      "onboard_time": 1720967181,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 248032,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1720926079,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228508,
+      "num": 228508,
+      "word": "王楚钦第2次奥运之旅身兼三项",
+      "onboard_time": 1720968860,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 228220,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1720913775,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204004,
-      "num": 204004,
-      "word": "预测特朗普胜选率上升至70%",
-      "onboard_time": 1720967482,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 203670,
@@ -1659,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188226,
+      "num": 188226,
+      "word": "4AM入围EWC",
+      "onboard_time": 1720969700,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188054,
       "num": 188054,
       "word": "DYG夏季赛淘汰",
@@ -1715,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178037,
+      "num": 178037,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 177809,
       "num": 177809,
       "word": "FBI仍在调查枪手如何连续开枪",
@@ -1723,20 +1779,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 177212,
-      "num": 169909,
-      "word": "希林娜依高 破音",
-      "onboard_time": 1720967901,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 176897,
       "num": 259425,
       "word": "重庆暴雨",
       "onboard_time": 1720878920,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176586,
+      "num": 176586,
+      "word": "好像所有人都确认了相柳的结局",
+      "onboard_time": 1720969220,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176378,
@@ -1787,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172049,
-      "num": 172049,
-      "word": "西班牙vs英格兰",
-      "onboard_time": 1720967962,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170191,
       "num": 170191,
       "word": "度华年男二戏份",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1720949421,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167929,
+      "num": 167929,
+      "word": "陶喆南京演唱会",
+      "onboard_time": 1720969580,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 165551,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1720926258,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154635,
+      "num": 154635,
+      "word": "温网",
+      "onboard_time": 1720962920,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 154447,
@@ -2403,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119393,
+      "num": 119393,
+      "word": "Yamy问文邺辰看别人出道什么感受",
+      "onboard_time": 1720970720,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118570,
       "num": 256902,
       "word": "陈都灵 你这样说我更i了",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1720869976,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52812,
+      "num": 420001,
+      "word": "夜跑夫妻狂奔百米营救落水女子",
+      "onboard_time": 1720968980,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 52679,
