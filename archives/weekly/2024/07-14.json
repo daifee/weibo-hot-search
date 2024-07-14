@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720931197967,
+  "endTime": 1720931975962,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -43,8 +43,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1831971,
-      "num": 1831971,
+      "raw_hot": 1854556,
+      "num": 1854556,
       "word": "奥巴马就特朗普遭枪击发声",
       "onboard_time": 1720924700,
       "rank": 31,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1639468,
-      "num": 1057411,
+      "num": 1206927,
       "word": "13.8 13.11",
       "onboard_time": 1720913475,
       "rank": 34,
@@ -67,11 +67,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1262163,
-      "num": 1262163,
+      "raw_hot": 1271414,
+      "num": 1271414,
       "word": "白敬亭两片装饼干21元",
       "onboard_time": 1720927041,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1219711,
+      "num": 1219711,
+      "word": "汪峰",
+      "onboard_time": 1720927520,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -88,6 +96,14 @@
       "word": "拜登听取特朗普枪击事件简报",
       "onboard_time": 1720915756,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1107760,
+      "num": 1107760,
+      "word": "特朗普 人生照片",
+      "onboard_time": 1720930947,
+      "rank": 37,
       "category": "国外时政"
     },
     {
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1064752,
-      "num": 382417,
+      "num": 404183,
       "word": "刚上高铁就碰到公主巨婴了",
       "onboard_time": 1720913174,
       "rank": 10,
@@ -124,23 +140,23 @@
     },
     {
       "raw_hot": 1031379,
-      "num": 325083,
+      "num": 403105,
       "word": "孙俪一家 儿子像妈女儿像爸",
       "onboard_time": 1720926800,
       "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 863173,
-      "num": 863173,
-      "word": "汪峰",
-      "onboard_time": 1720927520,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 962127,
+      "num": 387036,
+      "word": "爸妈给弟弟买了一万的电脑我退群了",
+      "onboard_time": 1720930645,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 810587,
-      "num": 318776,
+      "num": 339272,
       "word": "因为录取通知书跟爸妈吵架了",
       "onboard_time": 1720924339,
       "rank": 32,
@@ -163,20 +179,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 688301,
-      "num": 688301,
+      "raw_hot": 706979,
+      "num": 706979,
       "word": "伊万卡发声",
       "onboard_time": 1720928300,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 627548,
-      "num": 317669,
-      "word": "爸妈给弟弟买了一万的电脑我退群了",
-      "onboard_time": 1720930645,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 601665,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 588202,
-      "num": 1601210,
+      "num": 1615696,
       "word": "Henry没认出黄磊",
       "onboard_time": 1720916657,
       "rank": 5,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 532614,
-      "num": 396107,
+      "num": 422881,
       "word": "刺杀特朗普枪手为一白人男性",
       "onboard_time": 1720926560,
       "rank": 17,
@@ -251,6 +259,14 @@
       "category": "母婴育儿,情感"
     },
     {
+      "raw_hot": 515801,
+      "num": 1781931,
+      "word": "王一博巴黎奥运火炬手官宣",
+      "onboard_time": 1720930585,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 490560,
       "num": 490560,
       "word": "第一次这么心疼一个剧的反派",
@@ -268,19 +284,11 @@
     },
     {
       "raw_hot": 462076,
-      "num": 408722,
+      "num": 441023,
       "word": "拜登同特朗普通电话",
       "onboard_time": 1720927940,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 442531,
-      "num": 1781931,
-      "word": "王一博巴黎奥运火炬手官宣",
-      "onboard_time": 1720930585,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 438882,
@@ -299,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 425064,
+      "num": 301029,
+      "word": "特朗普支持者称提前看到枪手并告知警察",
+      "onboard_time": 1720930645,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 424079,
       "num": 424079,
       "word": "老人要报40元团4天3晚游桂林",
@@ -313,6 +329,14 @@
       "onboard_time": 1720916839,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 407629,
+      "num": 371164,
+      "word": "黄晓明眼镜别摘了",
+      "onboard_time": 1720931425,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 406170,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351060,
+      "num": 351060,
+      "word": "3元饮料又回来了",
+      "onboard_time": 1720928901,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 346137,
       "num": 261369,
       "word": "希林娜依高嗓子咋了",
@@ -403,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 334661,
-      "num": 295788,
-      "word": "3元饮料又回来了",
-      "onboard_time": 1720928901,
-      "rank": 23,
-      "category": "美食"
+      "raw_hot": 332813,
+      "num": 332813,
+      "word": "歌手曾舜晞回来了",
+      "onboard_time": 1720930765,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 328840,
@@ -419,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314113,
+      "num": 314113,
+      "word": "辛普森一家第一次预言失败",
+      "onboard_time": 1720930645,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 306514,
       "num": 306514,
       "word": "恋与深空",
       "onboard_time": 1720920621,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299283,
+      "num": 299283,
+      "word": "FBI牵头调查特朗普遭枪击",
+      "onboard_time": 1720930765,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 298348,
@@ -467,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287109,
-      "num": 237801,
-      "word": "特朗普支持者称提前看到枪手并告知警察",
-      "onboard_time": 1720930645,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 283288,
       "num": 283288,
       "word": "特朗普离开医院",
@@ -491,7 +531,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 278138,
+      "raw_hot": 278313,
       "num": 1545469,
       "word": "GLASS 十个勤天",
       "onboard_time": 1720928601,
@@ -499,8 +539,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 262251,
-      "num": 262251,
+      "raw_hot": 264859,
+      "num": 264859,
       "word": "美国史上有9位总统遇刺其中4人遇难",
       "onboard_time": 1720927881,
       "rank": 35,
@@ -539,14 +579,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 243710,
-      "num": 243710,
-      "word": "歌手曾舜晞回来了",
-      "onboard_time": 1720930765,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240072,
       "num": 240072,
       "word": "范世錡买了萧敬腾歌版权",
@@ -561,6 +593,22 @@
       "onboard_time": 1720879580,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233954,
+      "num": 233954,
+      "word": "新买婴儿车突然散架致宝宝摔地上",
+      "onboard_time": 1720929200,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231876,
+      "num": 231876,
+      "word": "南波万演唱会",
+      "onboard_time": 1720929140,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 231314,
@@ -595,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224537,
-      "num": 224537,
-      "word": "辛普森一家第一次预言失败",
-      "onboard_time": 1720930645,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 223301,
       "num": 223301,
       "word": "建议大家人脸识别要穿上衣服",
@@ -627,22 +667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217891,
-      "num": 217891,
-      "word": "南波万演唱会",
-      "onboard_time": 1720929140,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 213214,
-      "num": 213214,
-      "word": "FBI牵头调查特朗普遭枪击",
-      "onboard_time": 1720930765,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
@@ -659,20 +683,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205544,
+      "num": 205544,
+      "word": "种地吧加更",
+      "onboard_time": 1720931305,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204979,
       "num": 265071,
       "word": "女子称晒背10天瘦了4斤",
       "onboard_time": 1720875197,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204460,
-      "num": 204460,
-      "word": "特朗普 人生照片",
-      "onboard_time": 1720930947,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204148,
@@ -699,20 +723,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 196315,
+      "num": 196315,
+      "word": "苏容卿一边毁灭一边求全",
+      "onboard_time": 1720931007,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193644,
       "num": 258568,
       "word": "这是时代少年团演唱会吗",
       "onboard_time": 1720878198,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190651,
-      "num": 190651,
-      "word": "新买婴儿车突然散架致宝宝摔地上",
-      "onboard_time": 1720929200,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190580,
@@ -755,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175983,
+      "num": 175983,
+      "word": "张碧晨演唱会都不白来嗷",
+      "onboard_time": 1720929441,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175337,
       "num": 175337,
       "word": "刺杀特朗普枪手持半自动步枪",
       "onboard_time": 1720926500,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 174068,
-      "num": 174068,
-      "word": "张碧晨演唱会都不白来嗷",
-      "onboard_time": 1720929441,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 172822,
@@ -843,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155779,
+      "num": 155779,
+      "word": "怪盗基德 怪盗圣少女",
+      "onboard_time": 1720931846,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "牙齿正畸有时太早反而影响面型",
@@ -897,14 +929,6 @@
       "onboard_time": 1720882880,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147500,
-      "num": 147500,
-      "word": "苏容卿一边毁灭一边求全",
-      "onboard_time": 1720931007,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 147254,
@@ -1252,7 +1276,7 @@
     },
     {
       "raw_hot": 64751,
-      "num": 1264420,
+      "num": 1319703,
       "word": "3名小学生分工一条龙式帮救火",
       "onboard_time": 1720930525,
       "rank": 9,
@@ -1331,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52606,
+      "num": 302399,
+      "word": "一城一花一杯茶",
+      "onboard_time": 1720931185,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 51162,
       "num": 51162,
       "word": "多家银行回应降低非柜面交易额度",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1720890736,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43588,
-      "num": 144381,
-      "word": "一城一花一杯茶",
-      "onboard_time": 1720931185,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 40145,
