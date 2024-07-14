@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 18:21:26
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 18:39:25
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%90%90%E6%A7%BD3%E5%84%BF%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A%23" target="weibo">
+邹市明吐槽3儿子没一个子承父业（热度：1195995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%B7%A5%E8%B5%84%E5%8D%A1%E8%BD%AC%E8%B4%A6%E9%A2%9D%E5%BA%A6%E8%A2%AB%E9%99%8D%E5%88%B0500%E5%85%83%23" target="weibo">
 有人工资卡转账额度被降到500元（热度：1171127）
 </a>
@@ -149,12 +155,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E4%B8%87%E7%9A%84%E7%94%B5%E8%84%91%E6%88%91%E9%80%80%E7%BE%A4%E4%BA%86%23" target="weibo">
 爸妈给弟弟买了一万的电脑我退群了（热度：962127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%90%90%E6%A7%BD3%E5%84%BF%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A%23" target="weibo">
-邹市明吐槽3儿子没一个子承父业（热度：960421）
 </a>
 </li>
 
@@ -321,14 +321,38 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9A%90%E7%9E%92%E4%B8%AD500%E4%B8%87%E5%89%8D%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%8E%B7%E5%88%86200%E4%B8%87%23" target="weibo">
+女子隐瞒中500万前夫起诉获分200万（热度：511954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%B2%A1%E4%BA%8B%E5%93%92%23" target="weibo">
+张碧晨没事哒（热度：504817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E9%83%A8%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E5%8A%A0%E5%85%A5%E6%9A%91%E6%9C%9F%E6%A1%A3%23" target="weibo">
 12部国产动画加入暑期档（热度：494088）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%88%90%E4%BA%86%E6%9E%97%E4%B8%80%E7%82%AB%E8%80%80%E7%9A%84%E8%B5%84%E6%9C%AC%23" target="weibo">
+刘亦菲成了林一炫耀的资本（热度：493412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%99%E4%B9%88%E5%BF%83%E7%96%BC%E4%B8%80%E4%B8%AA%E5%89%A7%E7%9A%84%E5%8F%8D%E6%B4%BE%23" target="weibo">
 第一次这么心疼一个剧的反派（热度：490560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%B3%E6%99%93%E5%BD%A4%E7%9B%B8%E7%BA%A6%E6%89%93%E4%B9%92%E4%B9%93%23" target="weibo">
+孙颖莎关晓彤相约打乒乓（热度：478658）
 </a>
 </li>
 
@@ -363,6 +387,12 @@ FBI称确认枪手身份（热度：463116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E4%B9%9F%E6%B2%A1%E8%BA%B2%E8%BF%87%E4%B9%8C%E5%B0%94%E5%96%84%E8%AE%AD%E7%BB%83%E8%90%A5%23" target="weibo">
+冯绍峰也没躲过乌尔善训练营（热度：445356）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ENHYPEN%20%E6%B3%A8%E6%B0%B4%23" target="weibo">
 ENHYPEN 注水（热度：441960）
 </a>
@@ -389,12 +419,6 @@ ENHYPEN 注水（热度：441960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%20%E5%88%98%E8%80%80%E6%96%87%23" target="weibo">
 镖人 刘耀文（热度：425440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%B2%A1%E4%BA%8B%E5%93%92%23" target="weibo">
-张碧晨没事哒（热度：425391）
 </a>
 </li>
 
@@ -431,12 +455,6 @@ ENHYPEN 注水（热度：441960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%80%E6%99%9A%E5%9B%9B%E5%A5%97%E9%AB%98%E5%AE%9A%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF%23" target="weibo">
 李宇春一晚四套高定全球首穿（热度：406170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9A%90%E7%9E%92%E4%B8%AD500%E4%B8%87%E5%89%8D%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%8E%B7%E5%88%86200%E4%B8%87%23" target="weibo">
-女子隐瞒中500万前夫起诉获分200万（热度：403779）
 </a>
 </li>
 
@@ -569,6 +587,12 @@ FBI牵头调查特朗普遭枪击（热度：299283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E8%8E%89%E4%BA%9A%E6%B6%A8%E4%BB%B7%E4%BA%86%23" target="weibo">
 萨莉亚涨价了（热度：293492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E4%B8%BA%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%23" target="weibo">
+枪击特朗普枪手为共和党人（热度：292569）
 </a>
 </li>
 
@@ -891,6 +915,18 @@ Faker科目四（热度：223705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%9C%E5%B8%821%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E8%83%BD%E4%B9%B01%E4%BB%B6%E6%96%B0%E8%A1%A3%E6%9C%8D%23" target="weibo">
+杭州夜市1杯奶茶钱能买1件新衣服（热度：196185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E6%B2%A1%E6%9C%89%E5%94%AE%E4%BB%B7%E5%B0%91%E7%99%BD%E7%94%B7%E6%A8%A1%E4%B8%8A%E6%9E%B6%23" target="weibo">
+青春没有售价少白男模上架（热度：194279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E6%8E%A7%E8%AF%89%E7%89%9B%E5%9C%A8%E5%9C%A8%E6%89%87%E4%BB%96%E8%80%B3%E5%85%89%23" target="weibo">
 丁真控诉牛在在扇他耳光（热度：193697）
 </a>
@@ -957,12 +993,6 @@ DYG夏季赛淘汰（热度：188054）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%9C%E5%B8%821%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E8%83%BD%E4%B9%B01%E4%BB%B6%E6%96%B0%E8%A1%A3%E6%9C%8D%23" target="weibo">
-杭州夜市1杯奶茶钱能买1件新衣服（热度：180911）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E6%9D%80%E9%9D%92vlog%23" target="weibo">
 严浩翔极限挑战杀青vlog（热度：179231）
 </a>
@@ -971,6 +1001,12 @@ DYG夏季赛淘汰（热度：188054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%23" target="weibo">
 爸爸当家（热度：178623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23FBI%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E6%9E%AA%E6%89%8B%E5%A6%82%E4%BD%95%E8%BF%9E%E7%BB%AD%E5%BC%80%E6%9E%AA%23" target="weibo">
+FBI仍在调查枪手如何连续开枪（热度：177809）
 </a>
 </li>
 
@@ -1013,12 +1049,6 @@ DYG夏季赛淘汰（热度：188054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E5%90%90%E6%A7%BD%E8%BE%B9%E4%BD%91%E9%94%A1%E8%80%8D%E5%A4%A7%E7%89%8C%23" target="weibo">
 韩网吐槽边佑锡耍大牌（热度：172199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23FBI%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%E6%9E%AA%E6%89%8B%E5%A6%82%E4%BD%95%E8%BF%9E%E7%BB%AD%E5%BC%80%E6%9E%AA%23" target="weibo">
-FBI仍在调查枪手如何连续开枪（热度：170973）
 </a>
 </li>
 
@@ -1155,6 +1185,12 @@ FBI仍在调查枪手如何连续开枪（热度：170973）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF%23" target="weibo">
+抓娃娃预售票房破2亿（热度：150452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E8%A7%82%E4%BC%97%E7%9B%AE%E7%9D%B9%E9%82%BB%E5%BA%A7%E7%94%B7%E5%AD%90%E4%B8%AD%E6%9E%AA%E8%BA%AB%E4%BA%A1%23" target="weibo">
 特朗普竞选集会观众目睹邻座男子中枪身亡（热度：150064）
 </a>
@@ -1181,12 +1217,6 @@ FBI仍在调查枪手如何连续开枪（热度：170973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%23" target="weibo">
 秦彻（热度：146402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF%23" target="weibo">
-抓娃娃预售票房破2亿（热度：146118）
 </a>
 </li>
 
@@ -1463,6 +1493,12 @@ FBI仍在调查枪手如何连续开枪（热度：170973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E4%BA%BA%E7%BE%A4%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E7%BB%93%E8%82%A0%E9%95%9C%E7%AD%9B%E6%9F%A5%23" target="weibo">
 哪些人群需要进行结肠镜筛查（热度：103210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E5%AD%A9%E5%AD%90%E6%89%8E%E5%A0%86%E5%81%9A%E8%85%BA%E6%A0%B7%E4%BD%93%E5%88%87%E9%99%A4%E6%89%8B%E6%9C%AF%23" target="weibo">
+暑期孩子扎堆做腺样体切除手术（热度：102338）
 </a>
 </li>
 

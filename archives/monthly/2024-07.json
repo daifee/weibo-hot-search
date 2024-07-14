@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720952486720,
+  "endTime": 1720953565056,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1531,6 +1531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1195995,
+      "num": 1195995,
+      "word": "邹市明吐槽3儿子没一个子承父业",
+      "onboard_time": 1720948161,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1191710,
       "num": 300160,
       "word": "体制内对怀孕女性的态度",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1720930645,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 960421,
-      "num": 403302,
-      "word": "邹市明吐槽3儿子没一个子承父业",
-      "onboard_time": 1720948161,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 958480,
@@ -7179,6 +7179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 511954,
+      "num": 282077,
+      "word": "女子隐瞒中500万前夫起诉获分200万",
+      "onboard_time": 1720950741,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511089,
       "num": 319276,
       "word": "邓超晒孙俪给他烤的肉",
@@ -7289,6 +7297,14 @@
       "onboard_time": 1719877277,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504817,
+      "num": 504817,
+      "word": "张碧晨没事哒",
+      "onboard_time": 1720950441,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 503889,
@@ -7553,6 +7569,14 @@
       "onboard_time": 1720616418,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493412,
+      "num": 384669,
+      "word": "刘亦菲成了林一炫耀的资本",
+      "onboard_time": 1720952840,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 492709,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1719818057,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478658,
+      "num": 478658,
+      "word": "孙颖莎关晓彤相约打乒乓",
+      "onboard_time": 1720952539,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 478370,
@@ -8851,6 +8883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445356,
+      "num": 280822,
+      "word": "冯绍峰也没躲过乌尔善训练营",
+      "onboard_time": 1720952840,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 445314,
       "num": 401758,
       "word": "奥利回应第一名是乐华买的",
@@ -9427,14 +9467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 425391,
-      "num": 425391,
-      "word": "张碧晨没事哒",
-      "onboard_time": 1720950441,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424969,
       "num": 424969,
       "word": "B太 上海打车去新疆",
@@ -9913,14 +9945,6 @@
       "onboard_time": 1720438457,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 403779,
-      "num": 274881,
-      "word": "女子隐瞒中500万前夫起诉获分200万",
-      "onboard_time": 1720950741,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403333,
@@ -13465,6 +13489,14 @@
       "onboard_time": 1720658900,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292569,
+      "num": 292569,
+      "word": "枪击特朗普枪手为共和党人",
+      "onboard_time": 1720952779,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 292531,
@@ -19531,6 +19563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196185,
+      "num": 196185,
+      "word": "杭州夜市1杯奶茶钱能买1件新衣服",
+      "onboard_time": 1720950620,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196182,
       "num": 196182,
       "word": "女生地铁上发现男子猥亵她人怒呵止",
@@ -19753,6 +19793,14 @@
       "onboard_time": 1720411580,
       "rank": 36,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 194279,
+      "num": 194279,
+      "word": "青春没有售价少白男模上架",
+      "onboard_time": 1720952959,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194273,
@@ -21563,14 +21611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180911,
-      "num": 180911,
-      "word": "杭州夜市1杯奶茶钱能买1件新衣服",
-      "onboard_time": 1720950620,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180791,
       "num": 180791,
       "word": "city不city博主想去贵州country",
@@ -21969,6 +22009,14 @@
       "onboard_time": 1720336156,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177809,
+      "num": 177809,
+      "word": "FBI仍在调查枪手如何连续开枪",
+      "onboard_time": 1720951580,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 177724,
@@ -22889,14 +22937,6 @@
       "onboard_time": 1720233437,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170973,
-      "num": 170973,
-      "word": "FBI仍在调查枪手如何连续开枪",
-      "onboard_time": 1720951580,
-      "rank": 31,
-      "category": "国外时政"
     },
     {
       "raw_hot": 170946,
@@ -25755,6 +25795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "抓娃娃预售票房破2亿",
+      "onboard_time": 1720950261,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150394,
       "num": 150394,
       "word": "如果你也抬头看 那是薛之谦的浪漫",
@@ -26321,14 +26369,6 @@
       "onboard_time": 1720495938,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146118,
-      "num": 146118,
-      "word": "抓娃娃预售票房破2亿",
-      "onboard_time": 1720950261,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 146095,
@@ -33473,6 +33513,14 @@
       "onboard_time": 1719920657,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 102338,
+      "num": 102338,
+      "word": "暑期孩子扎堆做腺样体切除手术",
+      "onboard_time": 1720953380,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102275,
