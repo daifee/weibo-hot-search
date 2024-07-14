@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720957034464,
+  "endTime": 1720961309417,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -243,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 730647,
+      "num": 1116903,
+      "word": "冯绍峰也没躲过乌尔善训练营",
+      "onboard_time": 1720952840,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
       "onboard_time": 1720923199,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 709143,
+      "num": 383462,
+      "word": "方大同薛凯琪互动了",
+      "onboard_time": 1720957819,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 706979,
@@ -331,14 +347,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 601141,
-      "num": 280822,
-      "word": "冯绍峰也没躲过乌尔善训练营",
-      "onboard_time": 1720952840,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 597622,
       "num": 338057,
       "word": "记者拍到子弹划过特朗普耳朵画面",
@@ -401,6 +409,14 @@
       "onboard_time": 1720939883,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535460,
+      "num": 382418,
+      "word": "特勤局曾多次拒绝为特朗普加强安保",
+      "onboard_time": 1720956079,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 532614,
@@ -475,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482135,
+      "num": 482135,
+      "word": "宁艺卓意外认证全开麦",
+      "onboard_time": 1720959440,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -537,6 +561,14 @@
       "onboard_time": 1720923199,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 435787,
+      "num": 381679,
+      "word": "官方通报男子疑5分钟猥亵4名女性",
+      "onboard_time": 1720958598,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 426807,
@@ -609,6 +641,22 @@
       "onboard_time": 1720913475,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 385612,
+      "num": 385612,
+      "word": "巴黎奥运粉色乒乓球台",
+      "onboard_time": 1720955359,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 381457,
+      "num": 381457,
+      "word": "张元英牛仔裤全身照",
+      "onboard_time": 1720959680,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375294,
@@ -699,12 +747,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330036,
+      "num": 236861,
+      "word": "椰子水为何干不过柠檬茶",
+      "onboard_time": 1720955479,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 328840,
       "num": 264141,
       "word": "多位知名运动员无缘巴黎奥运会",
       "onboard_time": 1720925000,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324928,
+      "num": 324928,
+      "word": "阴阳师",
+      "onboard_time": 1720959619,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 322836,
@@ -785,14 +849,6 @@
       "onboard_time": 1720888698,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289457,
-      "num": 182399,
-      "word": "椰子水为何干不过柠檬茶",
-      "onboard_time": 1720955479,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 288696,
@@ -915,6 +971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 262345,
+      "num": 262345,
+      "word": "王一珩直播",
+      "onboard_time": 1720957339,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261796,
       "num": 261796,
       "word": "花45万买的38平loft公寓",
@@ -948,7 +1012,7 @@
     },
     {
       "raw_hot": 255498,
-      "num": 201891,
+      "num": 215366,
       "word": "少年发现水里不对劲救下一条命",
       "onboard_time": 1720954400,
       "rank": 22,
@@ -1075,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226643,
+      "num": 226643,
+      "word": "赵今麦哭戏",
+      "onboard_time": 1720959619,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223705,
       "num": 223705,
       "word": "Faker科目四",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1720922898,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208001,
-      "num": 208001,
-      "word": "特勤局曾多次拒绝为特朗普加强安保",
-      "onboard_time": 1720956079,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 205544,
@@ -1339,14 +1403,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 183479,
-      "num": 183479,
-      "word": "巴黎奥运粉色乒乓球台",
-      "onboard_time": 1720955359,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180952,
       "num": 177584,
       "word": "原来鹿晗陈奕迅的热歌是他写的",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1720926500,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 174418,
+      "num": 174418,
+      "word": "荣梓杉同学发文回应",
+      "onboard_time": 1720960280,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 172822,
@@ -1507,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158871,
+      "num": 158871,
+      "word": "谢娜晒雨中张杰舞台照",
+      "onboard_time": 1720958300,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158548,
       "num": 158548,
       "word": "南波万应援棒",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1720924460,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153297,
+      "num": 153297,
+      "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
+      "onboard_time": 1720960701,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152953,
@@ -1723,20 +1803,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139824,
+      "num": 139824,
+      "word": "黄明昊 演技",
+      "onboard_time": 1720956559,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139511,
+      "num": 139511,
+      "word": "三伏到底有多热",
+      "onboard_time": 1720959318,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139476,
       "num": 139476,
       "word": "中国男篮不敌掘金",
       "onboard_time": 1720923620,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138404,
-      "num": 138404,
-      "word": "黄明昊 演技",
-      "onboard_time": 1720956559,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 138335,
@@ -1801,6 +1889,14 @@
       "onboard_time": 1720948100,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133586,
+      "num": 257087,
+      "word": "欧洲杯",
+      "onboard_time": 1720882820,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 133272,
@@ -1875,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126738,
+      "num": 126738,
+      "word": "小夭醉酒",
+      "onboard_time": 1720959020,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126365,
       "num": 257313,
       "word": "抓娃娃彩蛋",
@@ -1907,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124380,
+      "num": 124380,
+      "word": "TF三代登陆日四公repo",
+      "onboard_time": 1720959561,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124013,
       "num": 775652,
       "word": "几百块回收废旧家电翻新后卖1500",
@@ -1931,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122293,
+      "num": 122293,
+      "word": "梅西 加油阿根廷",
+      "onboard_time": 1720959380,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120577,
       "num": 120577,
       "word": "丁程鑫进组武训",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1720921340,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118794,
+      "num": 118794,
+      "word": "韩东君第一次被女生抱起来",
+      "onboard_time": 1720961000,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 118570,
@@ -1969,6 +2097,14 @@
       "onboard_time": 1720946300,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "谁家悬疑剧男主又偷又藏",
+      "onboard_time": 1720961180,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 113251,
@@ -2003,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108206,
+      "num": 108206,
+      "word": "ENHYPEN销量",
+      "onboard_time": 1720957518,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108071,
       "num": 108071,
       "word": "沈腾看马丽戴头纱",
@@ -2019,11 +2163,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107149,
+      "num": 107149,
+      "word": "奥运火炬开始在巴黎传递",
+      "onboard_time": 1720959561,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106882,
       "num": 255830,
       "word": "玉泽演不是猛男吗",
       "onboard_time": 1720882159,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106522,
+      "num": 106522,
+      "word": "赤热",
+      "onboard_time": 1720960160,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2051,12 +2211,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101981,
-      "num": 257087,
-      "word": "欧洲杯",
-      "onboard_time": 1720882820,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 101414,
+      "num": 101414,
+      "word": "魔性疏通结节操",
+      "onboard_time": 1720960400,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 101390,
+      "num": 101390,
+      "word": "自己在家熬猪油吃会影响健康吗",
+      "onboard_time": 1720960940,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 92024,
@@ -2136,6 +2304,14 @@
       "word": "日本近百万人因弹珠店破产",
       "onboard_time": 1720852817,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69292,
+      "num": 1026987,
+      "word": "这就是独属于中国的文化自信",
+      "onboard_time": 1720945162,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2371,14 +2547,6 @@
       "category": "社会新闻,国内时政"
     },
     {
-      "raw_hot": 34306,
-      "num": 1026987,
-      "word": "这就是独属于中国的文化自信",
-      "onboard_time": 1720945162,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34163,
       "num": 323373,
       "word": "眉山东坡泡菜年销售超220亿",
@@ -2425,6 +2593,14 @@
       "onboard_time": 1720944023,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21698,
+      "num": 385312,
+      "word": "外商扎根义乌20年完成产业逆袭",
+      "onboard_time": 1720957698,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20573,
