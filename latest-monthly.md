@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 17:21:52
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/14 17:35:14
 </p>
 </blockquote>
 <p>
@@ -178,7 +178,7 @@ Lenka 偷感好重（热度：2311604）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E4%BE%A7%E5%A4%B4%E7%9C%8B%E5%9B%BE%E8%A1%A8%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD%23" target="weibo">
-特朗普或因侧头看图表救回一命（热度：2227948）
+特朗普或因侧头看图表救回一命（热度：2267110）
 </a>
 </li>
 
@@ -4167,6 +4167,12 @@ A股（热度：620580）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%90%90%E6%A7%BD3%E5%84%BF%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A%23" target="weibo">
+邹市明吐槽3儿子没一个子承父业（热度：604581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9D%A1%E5%87%89%E5%B8%AD%E5%8F%8C%E8%85%BF%E8%A2%AB%E8%9E%A8%E8%99%AB%E5%92%AC%E6%BB%A1%E7%BA%A2%E6%96%91%23" target="weibo">
 女子睡凉席双腿被螨虫咬满红斑（热度：603339）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS没来应援色来了（热度：481254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%BE%99%E9%B1%BC%E5%A3%B0%E6%98%8E%23" target="weibo">
 金龙鱼声明（热度：477420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%82%E5%8A%A0%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E5%89%A7%E9%9B%86%E5%BA%A7%E8%B0%88%E4%BC%9A%23" target="weibo">
-刘亦菲参加玫瑰的故事剧集座谈会（热度：476044）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720948912001,
+  "endTime": 1720949714099,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -59,7 +59,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2227948,
+      "raw_hot": 2267110,
       "num": 864782,
       "word": "特朗普或因侧头看图表救回一命",
       "onboard_time": 1720945401,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604581,
+      "num": 213601,
+      "word": "邹市明吐槽3儿子没一个子承父业",
+      "onboard_time": 1720948161,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601665,
       "num": 2655491,
       "word": "少年白马醉春风",
@@ -491,12 +499,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 416431,
+      "num": 658259,
+      "word": "镖人 刘耀文",
+      "onboard_time": 1720947681,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415919,
       "num": 1155026,
       "word": "歌手曾舜晞回来了",
       "onboard_time": 1720930765,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414750,
+      "num": 414750,
+      "word": "哈药六厂已接待90万游客",
+      "onboard_time": 1720946122,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409482,
@@ -537,14 +561,6 @@
       "onboard_time": 1720913715,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 371163,
-      "num": 371163,
-      "word": "哈药六厂已接待90万游客",
-      "onboard_time": 1720946122,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368826,
@@ -603,14 +619,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 348849,
-      "num": 213601,
-      "word": "邹市明吐槽3儿子没一个子承父业",
-      "onboard_time": 1720948161,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 346137,
       "num": 261369,
       "word": "希林娜依高嗓子咋了",
@@ -649,14 +657,6 @@
       "onboard_time": 1720943662,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 315365,
-      "num": 658259,
-      "word": "镖人 刘耀文",
-      "onboard_time": 1720947681,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 310847,
@@ -827,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265408,
+      "num": 265408,
+      "word": "枪响后特朗普与安保贴身对话公开",
+      "onboard_time": 1720945220,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -865,14 +873,6 @@
       "onboard_time": 1720941682,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255881,
-      "num": 255881,
-      "word": "枪响后特朗普与安保贴身对话公开",
-      "onboard_time": 1720945220,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 255621,
@@ -1051,6 +1051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209121,
+      "num": 209121,
+      "word": "苏容卿一场大火葬两世情爱",
+      "onboard_time": 1720948941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208528,
       "num": 208528,
       "word": "赵今麦错猜蒋依依",
@@ -1203,6 +1211,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 186408,
+      "num": 186408,
+      "word": "B型血患癌风险或较低",
+      "onboard_time": 1720948280,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "金灿荣评特朗普遭枪击",
@@ -1291,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169555,
+      "num": 169555,
+      "word": "宜宾学院就通知书错字致歉",
+      "onboard_time": 1720947980,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169497,
       "num": 375008,
       "word": "小夫妻每年结婚纪念日套娃式拍合照",
@@ -1312,6 +1336,14 @@
       "word": "终于等到少白定档了",
       "onboard_time": 1720939883,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168080,
+      "num": 168080,
+      "word": "连我也是夭玹外人",
+      "onboard_time": 1720949421,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1353,14 +1385,6 @@
       "onboard_time": 1720921940,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 157663,
-      "num": 157663,
-      "word": "宜宾学院就通知书错字致歉",
-      "onboard_time": 1720947980,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 157243,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1720940302,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154199,
+      "num": 154199,
+      "word": "狗狗什么时候会中暑",
+      "onboard_time": 1720948041,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 153372,
@@ -1667,20 +1699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125962,
-      "num": 125962,
-      "word": "B型血患癌风险或较低",
-      "onboard_time": 1720948280,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125362,
       "num": 257488,
       "word": "香汗淋漓魏大勋",
       "onboard_time": 1720878198,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "跳水运动员的训练日常",
+      "onboard_time": 1720949302,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 124013,
@@ -2027,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52679,
+      "num": 940899,
+      "word": "全面深改进行时",
+      "onboard_time": 1720945761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52606,
       "num": 640884,
       "word": "一城一花一杯茶",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1720913174,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 50350,
-      "num": 940899,
-      "word": "全面深改进行时",
-      "onboard_time": 1720945761,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48390,
@@ -2105,6 +2137,14 @@
       "onboard_time": 1720894812,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39445,
+      "num": 652444,
+      "word": "旅客突发疾病3名医学生先后冲来",
+      "onboard_time": 1720948459,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 37483,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1720944023,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21348,
-      "num": 652444,
-      "word": "旅客突发疾病3名医学生先后冲来",
-      "onboard_time": 1720948459,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 20573,
