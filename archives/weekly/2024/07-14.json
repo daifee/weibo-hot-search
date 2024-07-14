@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720974927768,
+  "endTime": 1720975867871,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -795,6 +795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 386326,
+      "num": 794577,
+      "word": "好像所有人都确认了相柳的结局",
+      "onboard_time": 1720969220,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385612,
       "num": 385612,
       "word": "巴黎奥运粉色乒乓球台",
@@ -825,14 +833,6 @@
       "onboard_time": 1720912994,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 361508,
-      "num": 794577,
-      "word": "好像所有人都确认了相柳的结局",
-      "onboard_time": 1720969220,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 360963,
@@ -977,6 +977,14 @@
       "onboard_time": 1720941801,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 309957,
+      "num": 221246,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 306514,
@@ -1409,14 +1417,6 @@
       "onboard_time": 1720925781,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 221246,
-      "num": 221246,
-      "word": "枪击特朗普枪手行凶衣着引关注",
-      "onboard_time": 1720969580,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 220111,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1720888396,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72645,
+      "num": 72645,
+      "word": "凯特王妃为阿尔卡拉斯颁奖",
+      "onboard_time": 1720975576,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 72040,
