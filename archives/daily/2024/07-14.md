@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 12:39:35
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 13:21:01
 </p>
 </blockquote>
 <p>
@@ -45,8 +45,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%20%E4%BA%BA%E7%94%9F%E7%85%A7%E7%89%87%23" target="weibo">
+特朗普 人生照片（热度：2561973）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
 奥巴马就特朗普遭枪击发声（热度：1854556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%23" target="weibo">
+汪峰（热度：1834183）
 </a>
 </li>
 
@@ -69,12 +81,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%23" target="weibo">
-汪峰（热度：1219711）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%B7%A5%E8%B5%84%E5%8D%A1%E8%BD%AC%E8%B4%A6%E9%A2%9D%E5%BA%A6%E8%A2%AB%E9%99%8D%E5%88%B0500%E5%85%83%23" target="weibo">
 有人工资卡转账额度被降到500元（热度：1171127）
 </a>
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%AC%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E7%AE%80%E6%8A%A5%23" target="weibo">
 拜登听取特朗普枪击事件简报（热度：1114004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%20%E4%BA%BA%E7%94%9F%E7%85%A7%E7%89%87%23" target="weibo">
-特朗普 人生照片（热度：1107760）
 </a>
 </li>
 
@@ -149,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E5%8D%A1%E5%8F%91%E5%A3%B0%23" target="weibo">
 伊万卡发声（热度：706979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
+范世錡工作室发文回应（热度：647111）
 </a>
 </li>
 
@@ -219,6 +225,12 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E7%A7%B0%E6%8F%90%E5%89%8D%E7%9C%8B%E5%88%B0%E6%9E%AA%E6%89%8B%E5%B9%B6%E5%91%8A%E7%9F%A5%E8%AD%A6%E5%AF%9F%23" target="weibo">
+特朗普支持者称提前看到枪手并告知警察（热度：476233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E5%A4%A7%E4%B8%BA%E8%AE%A9%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%91%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%AD%A6%E4%B9%A0%23" target="weibo">
 佟大为让非诚勿扰女嘉宾向黄亦玫学习（热度：472140）
 </a>
@@ -227,6 +239,12 @@ Henry没认出黄磊（热度：588202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%23" target="weibo">
 拜登同特朗普通电话（热度：462076）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ENHYPEN%20%E6%B3%A8%E6%B0%B4%23" target="weibo">
+ENHYPEN 注水（热度：441960）
 </a>
 </li>
 
@@ -243,20 +261,26 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E7%A7%B0%E6%8F%90%E5%89%8D%E7%9C%8B%E5%88%B0%E6%9E%AA%E6%89%8B%E5%B9%B6%E5%91%8A%E7%9F%A5%E8%AD%A6%E5%AF%9F%23" target="weibo">
-特朗普支持者称提前看到枪手并告知警察（热度：425064）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A6%81%E6%8A%A540%E5%85%83%E5%9B%A24%E5%A4%A93%E6%99%9A%E6%B8%B8%E6%A1%82%E6%9E%97%23" target="weibo">
 老人要报40元团4天3晚游桂林（热度：424079）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%A2%84%E8%A8%80%E5%A4%B1%E8%B4%A5%23" target="weibo">
+辛普森一家第一次预言失败（热度：422157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
 内塔尼亚胡就特朗普竞选集会枪击发声（热度：409482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%9B%BE%E8%88%9C%E6%99%9E%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+歌手曾舜晞回来了（热度：409479）
 </a>
 </li>
 
@@ -275,6 +299,12 @@ Henry没认出黄磊（热度：588202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E5%8B%A4%E5%B1%80%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%85%E5%86%B5%E5%AE%89%E5%85%A8%23" target="weibo">
 美特勤局称特朗普情况安全（热度：398212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+肖战工作室（热度：396012）
 </a>
 </li>
 
@@ -339,20 +369,8 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%9B%BE%E8%88%9C%E6%99%9E%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-歌手曾舜晞回来了（热度：332813）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E7%9F%A5%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23" target="weibo">
 多位知名运动员无缘巴黎奥运会（热度：328840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%A2%84%E8%A8%80%E5%A4%B1%E8%B4%A5%23" target="weibo">
-辛普森一家第一次预言失败（热度：314113）
 </a>
 </li>
 
@@ -417,6 +435,24 @@ GLASS 十个勤天（热度：278313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%B0%E5%A9%B4%E5%84%BF%E8%BD%A6%E7%AA%81%E7%84%B6%E6%95%A3%E6%9E%B6%E8%87%B4%E5%AE%9D%E5%AE%9D%E6%91%94%E5%9C%B0%E4%B8%8A%23" target="weibo">
+新买婴儿车突然散架致宝宝摔地上（热度：272501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%A6%E5%8D%8E%E5%B9%B4%E7%95%AA%E5%A4%96%23" target="weibo">
+度华年番外（热度：272162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%23" target="weibo">
+中餐厅（热度：265253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 美国史上有9位总统遇刺其中4人遇难（热度：264859）
 </a>
@@ -455,12 +491,6 @@ GLASS 十个勤天（热度：278313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%BF%99%E4%B9%88%E7%83%AD%E5%90%97%23" target="weibo">
 长沙这么热吗（热度：236830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%B0%E5%A9%B4%E5%84%BF%E8%BD%A6%E7%AA%81%E7%84%B6%E6%95%A3%E6%9E%B6%E8%87%B4%E5%AE%9D%E5%AE%9D%E6%91%94%E5%9C%B0%E4%B8%8A%23" target="weibo">
-新买婴儿车突然散架致宝宝摔地上（热度：233954）
 </a>
 </li>
 
@@ -507,8 +537,26 @@ GLASS 十个勤天（热度：278313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E7%9B%97%E5%9F%BA%E5%BE%B7%20%E6%80%AA%E7%9B%97%E5%9C%A3%E5%B0%91%E5%A5%B3%23" target="weibo">
+怪盗基德 怪盗圣少女（热度：218388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85%E6%9D%A5%E4%BA%86%23" target="weibo">
 山下智久来了（热度：218282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E5%96%8A%E8%AE%A9%E6%88%91%E6%8B%BF%E9%9E%8B%23" target="weibo">
+特朗普曾喊让我拿鞋（热度：218251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%A5%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%A5%B3%E6%80%A7%E5%BE%80%E5%BE%80%E8%BF%87%E5%BE%97%E6%9B%B4%E5%A5%BD%23" target="weibo">
+老来离婚的女性往往过得更好（热度：212653）
 </a>
 </li>
 
@@ -545,6 +593,12 @@ GLASS 十个勤天（热度：278313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%8F%91%E7%8E%B0%E6%88%91%E7%9A%84%E6%88%BF%E9%97%B4%E8%A2%AB%E8%A1%A8%E5%A6%B9%E9%9C%B8%E5%8D%A0%E4%BA%86%23" target="weibo">
 回家后发现我的房间被表妹霸占了（热度：198284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%8E%B7%E8%83%9C%E5%85%AC%E5%BC%8F%23" target="weibo">
+黄子弘凡赵今麦有自己的获胜公式（热度：196507）
 </a>
 </li>
 
@@ -645,6 +699,12 @@ GLASS 十个勤天（热度：278313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%89%8B%E7%94%A8%E6%AD%A5%E6%9E%AA%E6%89%93%E4%BA%868%E5%8F%91%E5%AD%90%E5%BC%B9%23" target="weibo">
+枪手用步枪打了8发子弹（热度：159921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E8%A7%82%E4%BC%97%E4%B8%AD1%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
 特朗普集会观众中1人死亡2人受伤（热度：158447）
 </a>
@@ -659,12 +719,6 @@ GLASS 十个勤天（热度：278313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E7%82%B9%E4%B8%8A%E7%8F%AD%E8%A6%81%E6%B1%828%E7%82%B950%E5%B0%B1%E5%88%B0%23" target="weibo">
 九点上班要求8点50就到（热度：155866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E7%9B%97%E5%9F%BA%E5%BE%B7%20%E6%80%AA%E7%9B%97%E5%9C%A3%E5%B0%91%E5%A5%B3%23" target="weibo">
-怪盗基德 怪盗圣少女（热度：155779）
 </a>
 </li>
 
@@ -909,6 +963,12 @@ GLASS 十个勤天（热度：278313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%88%86%E5%B7%A5%E4%B8%80%E6%9D%A1%E9%BE%99%E5%BC%8F%E5%B8%AE%E6%95%91%E7%81%AB%23" target="weibo">
+3名小学生分工一条龙式帮救火（热度：85483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%E6%88%96%E6%88%90%E6%9C%80%E4%BD%93%E9%9D%A2%E7%9A%84%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
 萝卜快跑或成最体面的网约车司机（热度：78157）
 </a>
@@ -965,12 +1025,6 @@ DRG战胜AG（热度：65146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%94%A810%E5%B9%B4%E4%BB%8E%E4%B8%93%E7%A7%91%E6%88%90%E5%8A%9F%E9%80%86%E8%A2%AD%E5%8D%9A%E5%A3%AB%23" target="weibo">
 女生用10年从专科成功逆袭博士（热度：64870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%88%86%E5%B7%A5%E4%B8%80%E6%9D%A1%E9%BE%99%E5%BC%8F%E5%B8%AE%E6%95%91%E7%81%AB%23" target="weibo">
-3名小学生分工一条龙式帮救火（热度：64751）
 </a>
 </li>
 
@@ -1163,6 +1217,12 @@ BW2024漫展26名黄牛带客冲卡被抓（热度：16969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%AF%8C%E5%B7%A5%E5%9D%8A%E5%B8%AE%E8%9A%95%E5%86%9C%E7%BB%93%E5%87%BA%E9%BB%84%E9%87%91%E8%8C%A7%23" target="weibo">
 共富工坊帮蚕农结出黄金茧（热度：14716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%BC%94%E5%87%BA%E5%B8%82%E5%9C%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A5%A8%E6%88%BF%E6%94%B6%E5%85%A5%E8%B6%85190%E4%BA%BF%E5%85%83%23" target="weibo">
+全国演出市场上半年票房收入超190亿元（热度：12680）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1720934461146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 502064,
+        "num": 1959541,
+        "word": "少年白马醉春风",
+        "onboard_time": 1720924101,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243572,
+        "num": 1800726,
+        "word": "恋与深空合作摇滚莫扎特主创",
+        "onboard_time": 1720928779,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5867,
+        "num": 1711115,
+        "word": "微观中国深改之变",
+        "onboard_time": 1720875318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7349418,
+        "num": 1707419,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1696787,
+        "num": 1696787,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1230854,
+        "num": 1230854,
+        "word": "奥巴马就特朗普遭枪击发声",
+        "onboard_time": 1720924700,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 441960,
+        "num": 1225993,
+        "word": "ENHYPEN 注水",
+        "onboard_time": 1720932205,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434337,
+        "num": 1189613,
+        "word": "王一博巴黎奥运火炬手官宣",
+        "onboard_time": 1720930585,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 409479,
+        "num": 1155026,
+        "word": "歌手曾舜晞回来了",
+        "onboard_time": 1720930765,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12680,
+        "num": 1141946,
+        "word": "全国演出市场上半年票房收入超190亿元",
+        "onboard_time": 1720934425,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 2561973,
+        "num": 1119862,
+        "word": "特朗普 人生照片",
+        "onboard_time": 1720930947,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1834183,
+        "num": 1096813,
+        "word": "汪峰",
+        "onboard_time": 1720927520,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1075768,
+        "num": 1075768,
+        "word": "13.8 13.11",
+        "onboard_time": 1720913475,
+        "rank": 12,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 919378,
+        "num": 919378,
+        "word": "白敬亭两片装饼干21元",
+        "onboard_time": 1720927041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847829,
+        "num": 847829,
+        "word": "枪击特朗普枪手身份确认",
+        "onboard_time": 1720928841,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 85483,
+        "num": 680309,
+        "word": "3名小学生分工一条龙式帮救火",
+        "onboard_time": 1720930525,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647111,
+        "num": 647111,
+        "word": "范世錡工作室发文回应",
+        "onboard_time": 1720932745,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20926,
+        "num": 522158,
+        "word": "一城一花一杯茶",
+        "onboard_time": 1720931185,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 476233,
+        "num": 476233,
+        "word": "特朗普支持者称提前看到枪手并告知警察",
+        "onboard_time": 1720930645,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 456597,
+        "num": 456597,
+        "word": "伊万卡发声",
+        "onboard_time": 1720928300,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 906983,
+        "num": 450857,
+        "word": "爸妈给弟弟买了一万的电脑我退群了",
+        "onboard_time": 1720930645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695714,
+        "num": 444967,
+        "word": "孙俪一家 儿子像妈女儿像爸",
+        "onboard_time": 1720926800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422157,
+        "num": 422157,
+        "word": "辛普森一家第一次预言失败",
+        "onboard_time": 1720930645,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 396012,
+        "num": 396012,
+        "word": "肖战工作室",
+        "onboard_time": 1720933766,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358006,
+        "num": 358006,
+        "word": "刚上高铁就碰到公主巨婴了",
+        "onboard_time": 1720913174,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113316,
+        "num": 352683,
+        "word": "老人要报40元团4天3晚游桂林",
+        "onboard_time": 1720911732,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348778,
+        "num": 348778,
+        "word": "3元饮料又回来了",
+        "onboard_time": 1720928901,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342721,
+        "num": 342721,
+        "word": "黄晓明眼镜别摘了",
+        "onboard_time": 1720931425,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284839,
+        "num": 284839,
+        "word": "枪手距特朗普约180米至275米",
+        "onboard_time": 1720922961,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275850,
+        "num": 275850,
+        "word": "记者拍到子弹划过特朗普耳朵画面",
+        "onboard_time": 1720924339,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 272501,
+        "num": 272501,
+        "word": "新买婴儿车突然散架致宝宝摔地上",
+        "onboard_time": 1720929200,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272162,
+        "num": 272162,
+        "word": "度华年番外",
+        "onboard_time": 1720932686,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265253,
+        "num": 265253,
+        "word": "中餐厅",
+        "onboard_time": 1720932025,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254181,
+        "num": 254181,
+        "word": "刺杀特朗普枪手为一白人男性",
+        "onboard_time": 1720926560,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252358,
+        "num": 252358,
+        "word": "美特勤局称特朗普情况安全",
+        "onboard_time": 1720913475,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245973,
+        "num": 245973,
+        "word": "拜登同特朗普通电话",
+        "onboard_time": 1720927940,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237452,
+        "num": 237452,
+        "word": "GLASS 十个勤天",
+        "onboard_time": 1720928601,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226129,
+        "num": 226129,
+        "word": "美国史上有9位总统遇刺其中4人遇难",
+        "onboard_time": 1720927881,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218388,
+        "num": 218388,
+        "word": "怪盗基德 怪盗圣少女",
+        "onboard_time": 1720931846,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 218251,
+        "num": 218251,
+        "word": "特朗普曾喊让我拿鞋",
+        "onboard_time": 1720933826,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 214175,
+        "num": 214175,
+        "word": "因为录取通知书跟爸妈吵架了",
+        "onboard_time": 1720924339,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212653,
+        "num": 212653,
+        "word": "老来离婚的女性往往过得更好",
+        "onboard_time": 1720932205,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196507,
+        "num": 196507,
+        "word": "黄子弘凡赵今麦有自己的获胜公式",
+        "onboard_time": 1720933345,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191463,
+        "num": 191463,
+        "word": "多位知名运动员无缘巴黎奥运会",
+        "onboard_time": 1720925000,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190074,
+        "num": 190074,
+        "word": "Henry以为吃火锅会去世",
+        "onboard_time": 1720926560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189515,
+        "num": 189515,
+        "word": "FBI牵头调查特朗普遭枪击",
+        "onboard_time": 1720930765,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181900,
+        "num": 181900,
+        "word": "我买房了亲戚破防了",
+        "onboard_time": 1720927460,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160869,
+        "num": 160869,
+        "word": "南波万演唱会",
+        "onboard_time": 1720929140,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159921,
+        "num": 159921,
+        "word": "枪手用步枪打了8发子弹",
+        "onboard_time": 1720934364,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167928,
+        "num": 159374,
+        "word": "Henry没认出黄磊",
+        "onboard_time": 1720916657,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#拿出更多改革创新举措把问题解决好#"
+    }
+  }
+}
