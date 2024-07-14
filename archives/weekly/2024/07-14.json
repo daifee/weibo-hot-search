@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720934461146,
+  "endTime": 1720935493577,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1031379,
-      "num": 444967,
+      "num": 540096,
       "word": "孙俪一家 儿子像妈女儿像爸",
       "onboard_time": 1720926800,
       "rank": 24,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 962127,
-      "num": 450857,
+      "num": 545003,
       "word": "爸妈给弟弟买了一万的电脑我退群了",
       "onboard_time": 1720930645,
       "rank": 21,
@@ -192,6 +192,14 @@
       "word": "范世錡工作室发文回应",
       "onboard_time": 1720932745,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 638813,
+      "num": 638813,
+      "word": "肖战工作室",
+      "onboard_time": 1720933766,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560868,
+      "num": 560868,
+      "word": "特朗普支持者称提前看到枪手并告知警察",
+      "onboard_time": 1720930645,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 532614,
       "num": 422881,
       "word": "刺杀特朗普枪手为一白人男性",
@@ -283,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 476233,
-      "num": 476233,
-      "word": "特朗普支持者称提前看到枪手并告知警察",
-      "onboard_time": 1720930645,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -305,6 +313,14 @@
       "onboard_time": 1720927940,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 456518,
+      "num": 456518,
+      "word": "鞠婧祎内娱首位女星超话钻3",
+      "onboard_time": 1720934725,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 441960,
@@ -347,20 +363,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 415919,
+      "num": 1155026,
+      "word": "歌手曾舜晞回来了",
+      "onboard_time": 1720930765,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409482,
       "num": 370569,
       "word": "内塔尼亚胡就特朗普竞选集会枪击发声",
       "onboard_time": 1720916839,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 409479,
-      "num": 1155026,
-      "word": "歌手曾舜晞回来了",
-      "onboard_time": 1720930765,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 407629,
@@ -385,14 +401,6 @@
       "onboard_time": 1720913475,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 396012,
-      "num": 396012,
-      "word": "肖战工作室",
-      "onboard_time": 1720933766,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 375294,
@@ -507,6 +515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 294659,
+      "num": 1652342,
+      "word": "12部国产动画加入暑期档",
+      "onboard_time": 1720934666,
+      "rank": 1,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 291374,
       "num": 258065,
       "word": "华晨宇舞台已经NextLevel了",
@@ -539,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286029,
+      "num": 286029,
+      "word": "特朗普曾喊让我拿鞋",
+      "onboard_time": 1720933826,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 283288,
       "num": 283288,
       "word": "特朗普离开医院",
@@ -561,6 +585,14 @@
       "onboard_time": 1720928601,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276683,
+      "num": 276683,
+      "word": "枪手用步枪打了8发子弹",
+      "onboard_time": 1720934364,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 272501,
@@ -625,6 +657,14 @@
       "onboard_time": 1720923199,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 240107,
+      "num": 240107,
+      "word": "老来离婚的女性往往过得更好",
+      "onboard_time": 1720932205,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 240072,
@@ -699,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220111,
+      "num": 220111,
+      "word": "星穹铁道石心十人",
+      "onboard_time": 1720934545,
+      "rank": 33,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -713,22 +761,6 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 218251,
-      "num": 218251,
-      "word": "特朗普曾喊让我拿鞋",
-      "onboard_time": 1720933826,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 212653,
-      "num": 212653,
-      "word": "老来离婚的女性往往过得更好",
-      "onboard_time": 1720932205,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 212613,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193056,
+      "num": 193056,
+      "word": "周深演唱会官宣杭州沈阳北京",
+      "onboard_time": 1720935145,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "身体湿气重是什么感觉",
@@ -840,6 +880,14 @@
       "word": "原来鹿晗陈奕迅的热歌是他写的",
       "onboard_time": 1720915578,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179231,
+      "num": 179231,
+      "word": "严浩翔极限挑战杀青vlog",
+      "onboard_time": 1720934725,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -915,12 +963,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159921,
-      "num": 159921,
-      "word": "枪手用步枪打了8发子弹",
-      "onboard_time": 1720934364,
+      "raw_hot": 163269,
+      "num": 163269,
+      "word": "佟大为演技无声的哭有声的苦",
+      "onboard_time": 1720935445,
       "rank": 48,
-      "category": "国外时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 158447,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 52606,
-      "num": 522158,
+      "num": 640884,
       "word": "一城一花一杯茶",
       "onboard_time": 1720931185,
       "rank": 49,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1720907352,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35232,
+      "num": 1141946,
+      "word": "全国演出市场上半年票房收入超190亿元",
+      "onboard_time": 1720934425,
+      "rank": 9,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 34163,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1720911732,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12680,
-      "num": 1141946,
-      "word": "全国演出市场上半年票房收入超190亿元",
-      "onboard_time": 1720934425,
-      "rank": 9,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 12041,
