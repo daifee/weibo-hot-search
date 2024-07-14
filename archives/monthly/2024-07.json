@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720953565056,
+  "endTime": 1720955920438,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -2347,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 993619,
+      "num": 1158979,
+      "word": "刘亦菲成了林一炫耀的资本",
+      "onboard_time": 1720952840,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 993017,
       "num": 993017,
       "word": "刮刮乐销量大跌",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1720785378,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898264,
+      "num": 539496,
+      "word": "枪击特朗普枪手为共和党人",
+      "onboard_time": 1720952779,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 896870,
@@ -4025,6 +4041,14 @@
       "onboard_time": 1719821536,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 749950,
+      "num": 282077,
+      "word": "女子隐瞒中500万前夫起诉获分200万",
+      "onboard_time": 1720950741,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749168,
@@ -6083,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571665,
+      "num": 280822,
+      "word": "冯绍峰也没躲过乌尔善训练营",
+      "onboard_time": 1720952840,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 571635,
       "num": 298651,
       "word": "荣梓杉 北电新生群",
@@ -6971,6 +7003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 522881,
+      "num": 522881,
+      "word": "孙颖莎关晓彤相约打乒乓",
+      "onboard_time": 1720952539,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 521585,
       "num": 521585,
       "word": "于正发长文聊李梦",
@@ -7177,14 +7217,6 @@
       "onboard_time": 1720311557,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 511954,
-      "num": 282077,
-      "word": "女子隐瞒中500万前夫起诉获分200万",
-      "onboard_time": 1720950741,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511089,
@@ -7569,14 +7601,6 @@
       "onboard_time": 1720616418,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493412,
-      "num": 384669,
-      "word": "刘亦菲成了林一炫耀的资本",
-      "onboard_time": 1720952840,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 492709,
@@ -8009,14 +8033,6 @@
       "onboard_time": 1719818057,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 478658,
-      "num": 478658,
-      "word": "孙颖莎关晓彤相约打乒乓",
-      "onboard_time": 1720952539,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 478370,
@@ -8881,14 +8897,6 @@
       "onboard_time": 1719894260,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 445356,
-      "num": 280822,
-      "word": "冯绍峰也没躲过乌尔善训练营",
-      "onboard_time": 1720952840,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 445314,
@@ -13491,14 +13499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 292569,
-      "num": 292569,
-      "word": "枪击特朗普枪手为共和党人",
-      "onboard_time": 1720952779,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 292531,
       "num": 292531,
       "word": "大熊猫赴港",
@@ -15217,6 +15217,14 @@
       "onboard_time": 1720148837,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 248373,
+      "num": 201891,
+      "word": "少年发现水里不对劲救下一条命",
+      "onboard_time": 1720954400,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248154,
@@ -26683,6 +26691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "暑期孩子扎堆做腺样体切除手术",
+      "onboard_time": 1720953380,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144218,
       "num": 818344,
       "word": "祝福党的103岁生日",
@@ -27137,6 +27153,14 @@
       "onboard_time": 1720516699,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141619,
+      "num": 141619,
+      "word": "椰子水为何干不过柠檬茶",
+      "onboard_time": 1720955479,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 141510,
@@ -31195,6 +31219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118270,
+      "num": 118270,
+      "word": "学者称特朗普并不会因遇刺稳赢选举",
+      "onboard_time": 1720953798,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 118261,
       "num": 118261,
       "word": "李沁深V高定",
@@ -32859,6 +32891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107699,
+      "num": 111317,
+      "word": "巴黎奥运粉色乒乓球台",
+      "onboard_time": 1720955359,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "中国大陆男单温网正赛首胜",
@@ -33513,14 +33553,6 @@
       "onboard_time": 1719920657,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 102338,
-      "num": 102338,
-      "word": "暑期孩子扎堆做腺样体切除手术",
-      "onboard_time": 1720953380,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102275,
@@ -34441,6 +34473,14 @@
       "onboard_time": 1720221494,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92024,
+      "num": 110547,
+      "word": "周末宅家健身指南",
+      "onboard_time": 1720955180,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 91937,
@@ -39689,6 +39729,14 @@
       "onboard_time": 1720112296,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19421,
+      "num": 282821,
+      "word": "一分钟穿越改革新坐标",
+      "onboard_time": 1720954998,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 19241,
