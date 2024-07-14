@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720970921306,
+  "endTime": 1720971790987,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -99,6 +99,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 1513723,
+      "num": 1513723,
+      "word": "李闽轩 中戏录取",
+      "onboard_time": 1720969460,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1493141,
       "num": 1376635,
       "word": "错位",
@@ -121,14 +129,6 @@
       "onboard_time": 1720965921,
       "rank": 6,
       "category": "国外时政,体育"
-    },
-    {
-      "raw_hot": 1288619,
-      "num": 1288619,
-      "word": "李闽轩 中戏录取",
-      "onboard_time": 1720969460,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1271414,
@@ -571,6 +571,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 514894,
+      "num": 263151,
+      "word": "预测特朗普胜选率上升至70%",
+      "onboard_time": 1720967482,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 505075,
       "num": 505075,
       "word": "迪丽热巴夏天绿西装",
@@ -699,14 +707,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 428504,
-      "num": 263151,
-      "word": "预测特朗普胜选率上升至70%",
-      "onboard_time": 1720967482,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 426807,
       "num": 1073707,
       "word": "一男子购买恋爱保险结婚后理赔遭拒",
@@ -731,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423134,
+      "num": 423134,
+      "word": "国乒出发奔赴巴黎",
+      "onboard_time": 1720969520,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422157,
       "num": 422157,
       "word": "辛普森一家第一次预言失败",
       "onboard_time": 1720930645,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 421925,
-      "num": 421925,
-      "word": "国乒出发奔赴巴黎",
-      "onboard_time": 1720969520,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 415919,
@@ -1403,6 +1403,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 219715,
+      "num": 219715,
+      "word": "巴黎街头偶遇王一博散步",
+      "onboard_time": 1720967240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216697,
-      "num": 216697,
-      "word": "巴黎街头偶遇王一博散步",
-      "onboard_time": 1720967240,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212613,
@@ -1643,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193484,
+      "num": 193484,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193056,
       "num": 193056,
       "word": "周深演唱会官宣杭州沈阳北京",
@@ -1723,6 +1731,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 184776,
+      "num": 184776,
+      "word": "温网",
+      "onboard_time": 1720962920,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "萝卜快跑遇空编织袋停下",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1720936104,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178037,
-      "num": 178037,
-      "word": "枪击特朗普枪手行凶衣着引关注",
-      "onboard_time": 1720969580,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 177809,
@@ -1995,14 +2003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154635,
-      "num": 154635,
-      "word": "温网",
-      "onboard_time": 1720962920,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154447,
       "num": 154447,
       "word": "加拿大5比6乌拉圭",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1720912513,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151316,
+      "num": 151316,
+      "word": "枪击特朗普的枪手车内有爆炸装置",
+      "onboard_time": 1720971019,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150452,
@@ -2353,6 +2361,14 @@
       "onboard_time": 1720926440,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127479,
+      "num": 127479,
+      "word": "一个人的成熟从3次放下开始",
+      "onboard_time": 1720971438,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 126738,
