@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720925632252,
+  "endTime": 1720927414042,
   "band_list": [
     {
       "raw_hot": 11311171,
@@ -881,6 +881,14 @@
       "onboard_time": 1720281679,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1483987,
+      "num": 358308,
+      "word": "奥巴马就特朗普遭枪击发声",
+      "onboard_time": 1720924700,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1482453,
@@ -3067,14 +3075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 845705,
-      "num": 324798,
-      "word": "奥巴马就特朗普遭枪击发声",
-      "onboard_time": 1720924700,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 845584,
       "num": 845584,
       "word": "萝卜快跑回应网约车罢工横停马路",
@@ -4225,6 +4225,14 @@
       "onboard_time": 1720149976,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708146,
+      "num": 318776,
+      "word": "因为录取通知书跟爸妈吵架了",
+      "onboard_time": 1720924339,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 707392,
@@ -5483,6 +5491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597622,
+      "num": 338057,
+      "word": "记者拍到子弹划过特朗普耳朵画面",
+      "onboard_time": 1720924339,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 597432,
       "num": 597432,
       "word": "谁家老公做成这勾栏模样",
@@ -6611,14 +6627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534680,
-      "num": 322570,
-      "word": "记者拍到子弹划过特朗普耳朵画面",
-      "onboard_time": 1720924339,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 534005,
       "num": 534005,
       "word": "好利来 光夜",
@@ -6793,6 +6801,14 @@
       "onboard_time": 1720191921,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518273,
+      "num": 518273,
+      "word": "装修时收到了邻居的婴儿作息表",
+      "onboard_time": 1720923498,
+      "rank": 15,
+      "category": "母婴育儿,情感"
     },
     {
       "raw_hot": 517883,
@@ -8923,6 +8939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433981,
+      "num": 269957,
+      "word": "孙俪一家 儿子像妈女儿像爸",
+      "onboard_time": 1720926800,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433922,
       "num": 336775,
       "word": "秦岚有三本飞行证",
@@ -9105,14 +9129,6 @@
       "onboard_time": 1720680978,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 426053,
-      "num": 424331,
-      "word": "装修时收到了邻居的婴儿作息表",
-      "onboard_time": 1720923498,
-      "rank": 15,
-      "category": "母婴育儿,情感"
     },
     {
       "raw_hot": 426014,
@@ -9561,6 +9577,14 @@
       "onboard_time": 1720626677,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404704,
+      "num": 335581,
+      "word": "拜登发布声明",
+      "onboard_time": 1720923199,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 404688,
@@ -10828,7 +10852,7 @@
     },
     {
       "raw_hot": 359529,
-      "num": 359529,
+      "num": 378282,
       "word": "难怪陈奕迅演唱会不让带相机",
       "onboard_time": 1720920202,
       "rank": 39,
@@ -11081,14 +11105,6 @@
       "onboard_time": 1720750098,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352604,
-      "num": 318776,
-      "word": "因为录取通知书跟爸妈吵架了",
-      "onboard_time": 1720924339,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 352546,
@@ -11873,6 +11889,14 @@
       "onboard_time": 1720701077,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328840,
+      "num": 264141,
+      "word": "多位知名运动员无缘巴黎奥运会",
+      "onboard_time": 1720925000,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 328788,
@@ -12771,6 +12795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301431,
+      "num": 263735,
+      "word": "Henry以为吃火锅会去世",
+      "onboard_time": 1720926560,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301199,
       "num": 301199,
       "word": "相柳黑衣银发",
@@ -12865,6 +12897,14 @@
       "onboard_time": 1720673781,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298608,
+      "num": 298608,
+      "word": "刺杀特朗普枪手为一白人男性",
+      "onboard_time": 1720926560,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 298537,
@@ -13072,6 +13112,14 @@
       "word": "Angelababy庆祝香港回归27周年",
       "onboard_time": 1719849918,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 292400,
+      "num": 292400,
+      "word": "白敬亭两片装饼干21元",
+      "onboard_time": 1720927041,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -13481,6 +13529,14 @@
       "onboard_time": 1720348819,
       "rank": 9,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 283288,
+      "num": 283288,
+      "word": "特朗普离开医院",
+      "onboard_time": 1720925059,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 283233,
@@ -14115,14 +14171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 261844,
-      "num": 170909,
-      "word": "多位知名运动员无缘巴黎奥运会",
-      "onboard_time": 1720925000,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261822,
       "num": 261822,
       "word": "警方通报救护车副驾高速上直播飙车",
@@ -14515,14 +14563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251610,
-      "num": 169099,
-      "word": "特朗普离开医院",
-      "onboard_time": 1720925059,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 251595,
       "num": 251595,
       "word": "狐妖小红娘第12季定档",
@@ -14833,6 +14873,14 @@
       "onboard_time": 1720061837,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244664,
+      "num": 244664,
+      "word": "长大后才知道小学课本里都是细糠",
+      "onboard_time": 1720925059,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 244481,
@@ -15643,6 +15691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "特朗普将继续出席15日的活动",
+      "onboard_time": 1720925900,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 231260,
       "num": 439227,
       "word": "下半年最想实现的心愿",
@@ -15785,6 +15841,14 @@
       "onboard_time": 1720583718,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228670,
+      "num": 228670,
+      "word": "拜登回应特朗普遭枪击是否为暗杀",
+      "onboard_time": 1720926079,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 228600,
@@ -16937,6 +17001,14 @@
       "onboard_time": 1720667118,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211653,
+      "num": 211653,
+      "word": "范世錡买了萧敬腾歌版权",
+      "onboard_time": 1720926440,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 211547,
@@ -19963,6 +20035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188514,
+      "num": 188514,
+      "word": "为什么说晚上洗头生湿气",
+      "onboard_time": 1720925781,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188480,
       "num": 188480,
       "word": "沙特杯超长暂停时间",
@@ -21539,6 +21619,14 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 175337,
+      "num": 175337,
+      "word": "刺杀特朗普枪手持半自动步枪",
+      "onboard_time": 1720926500,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 175271,
       "num": 175271,
       "word": "小夭角色热度破亿",
@@ -21617,6 +21705,14 @@
       "onboard_time": 1720232477,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174538,
+      "num": 174538,
+      "word": "回家后发现我的房间被表妹霸占了",
+      "onboard_time": 1720926560,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 174394,
@@ -21833,14 +21929,6 @@
       "onboard_time": 1720680557,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172779,
-      "num": 172779,
-      "word": "长大后才知道小学课本里都是细糠",
-      "onboard_time": 1720925059,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 172700,
@@ -22545,6 +22633,14 @@
       "onboard_time": 1720692498,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167387,
+      "num": 167387,
+      "word": "崔永熙",
+      "onboard_time": 1720926921,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 167340,
@@ -26803,6 +26899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138335,
+      "num": 138335,
+      "word": "拜登称不会容忍这种暴力行为",
+      "onboard_time": 1720926319,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 138190,
       "num": 138190,
       "word": "玫瑰的故事创作座谈会",
@@ -27049,6 +27153,14 @@
       "onboard_time": 1720097658,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136817,
+      "num": 136817,
+      "word": "牙齿正畸有时太早反而影响面型",
+      "onboard_time": 1720926258,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136799,
@@ -28577,6 +28689,14 @@
       "onboard_time": 1720597699,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 127701,
+      "num": 127701,
+      "word": "人人都爱苏亚雷斯",
+      "onboard_time": 1720926440,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127617,
@@ -37969,6 +38089,14 @@
       "onboard_time": 1719942792,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25919,
+      "num": 283925,
+      "word": "眉山东坡泡菜年销售超220亿",
+      "onboard_time": 1720927280,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25898,
