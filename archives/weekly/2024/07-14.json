@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720939329922,
+  "endTime": 1720941589072,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -75,6 +75,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 1595953,
+      "num": 665769,
+      "word": "特朗普遇刺6小时后首次露面",
+      "onboard_time": 1720938203,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1467557,
       "num": 1467557,
       "word": "女孩",
@@ -139,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1050054,
-      "num": 665769,
-      "word": "特朗普遇刺6小时后首次露面",
-      "onboard_time": 1720938203,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1031379,
       "num": 540096,
       "word": "孙俪一家 儿子像妈女儿像爸",
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 727468,
+      "num": 1196268,
+      "word": "蓝盈莹 用力过猛是松弛的必经之路",
+      "onboard_time": 1720940122,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
@@ -208,6 +216,14 @@
       "word": "肖战工作室",
       "onboard_time": 1720933766,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 614083,
+      "num": 614083,
+      "word": "肖战被溅一身可乐的反应",
+      "onboard_time": 1720939941,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -243,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 590052,
+      "num": 590052,
+      "word": "特朗普遇刺照拍摄者是普利策奖得主",
+      "onboard_time": 1720937843,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 588202,
       "num": 1615696,
       "word": "Henry没认出黄磊",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 571635,
-      "num": 284370,
+      "num": 298651,
       "word": "荣梓杉 北电新生群",
       "onboard_time": 1720936284,
       "rank": 21,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469378,
-      "num": 469378,
-      "word": "特朗普遇刺照拍摄者是普利策奖得主",
-      "onboard_time": 1720937843,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 462076,
       "num": 441023,
       "word": "拜登同特朗普通电话",
@@ -401,6 +417,14 @@
       "onboard_time": 1720930645,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 421885,
+      "num": 1130744,
+      "word": "女子点奶茶疑被老人私自拿走1杯",
+      "onboard_time": 1720939163,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415919,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341809,
+      "num": 341809,
+      "word": "32岁女子吹未清洗空调多器官衰竭",
+      "onboard_time": 1720939883,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340076,
       "num": 316497,
       "word": "李斯丹妮上身身材",
@@ -553,6 +585,14 @@
       "onboard_time": 1720914555,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 293492,
+      "num": 293492,
+      "word": "萨莉亚涨价了",
+      "onboard_time": 1720939291,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 291374,
@@ -619,8 +659,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276450,
+      "num": 276450,
+      "word": "HPV感染风险可能比你想象的要更高",
+      "onboard_time": 1720936764,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272501,
-      "num": 272501,
+      "num": 644410,
       "word": "新买婴儿车突然散架致宝宝摔地上",
       "onboard_time": 1720929200,
       "rank": 41,
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270380,
+      "num": 303593,
+      "word": "FBI称确认枪手身份",
+      "onboard_time": 1720940723,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -643,20 +699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265192,
-      "num": 265192,
-      "word": "HPV感染风险可能比你想象的要更高",
-      "onboard_time": 1720936764,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 264859,
       "num": 264859,
       "word": "美国史上有9位总统遇刺其中4人遇难",
       "onboard_time": 1720927881,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 261796,
+      "num": 261796,
+      "word": "花45万买的38平loft公寓",
+      "onboard_time": 1720939344,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 261224,
@@ -705,6 +761,14 @@
       "onboard_time": 1720936044,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244010,
+      "num": 642622,
+      "word": "我终于找到薛之谦了",
+      "onboard_time": 1720940302,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 240107,
@@ -825,6 +889,14 @@
       "onboard_time": 1720922898,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206578,
+      "num": 206578,
+      "word": "天天吃西红柿会身体发生什么",
+      "onboard_time": 1720939822,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205544,
@@ -971,11 +1043,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178623,
+      "num": 673594,
+      "word": "爸爸当家",
+      "onboard_time": 1720936104,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176897,
       "num": 259425,
       "word": "重庆暴雨",
       "onboard_time": 1720878920,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176378,
+      "num": 176378,
+      "word": "沧州巨响",
+      "onboard_time": 1720939702,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1073,14 @@
       "onboard_time": 1720929441,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "特朗普人生照片是怎样诞生的",
+      "onboard_time": 1720938683,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 175499,
@@ -1027,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168436,
-      "num": 673594,
-      "word": "爸爸当家",
-      "onboard_time": 1720936104,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168277,
       "num": 168277,
       "word": "特朗普遭遇暗杀最新视频曝光",
@@ -1043,12 +1131,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 167585,
-      "num": 167585,
-      "word": "萨莉亚涨价了",
-      "onboard_time": 1720939291,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 168191,
+      "num": 168191,
+      "word": "终于等到少白定档了",
+      "onboard_time": 1720939883,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 165551,
@@ -1075,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162052,
-      "num": 162052,
-      "word": "特朗普人生照片是怎样诞生的",
-      "onboard_time": 1720938683,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 158447,
       "num": 158447,
       "word": "特朗普集会观众中1人死亡2人受伤",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1720913114,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155285,
+      "num": 155285,
+      "word": "胡一天虞书欣见面秒变熟人局",
+      "onboard_time": 1720939523,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 154953,
@@ -1219,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142516,
+      "num": 142516,
+      "word": "落凡尘",
+      "onboard_time": 1720941441,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142247,
       "num": 256718,
       "word": "奥利回应第一名是乐华买的",
@@ -1227,12 +1323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139772,
-      "num": 139772,
-      "word": "女子点奶茶疑被老人私自拿走1杯",
-      "onboard_time": 1720939163,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 140180,
+      "num": 140180,
+      "word": "见过最正经的已读乱回",
+      "onboard_time": 1720941382,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 139476,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1720881859,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135001,
+      "num": 135001,
+      "word": "熊猫一家人",
+      "onboard_time": 1720939404,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134541,
@@ -1321,6 +1425,14 @@
       "onboard_time": 1720858995,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126162,
+      "num": 126162,
+      "word": "干热和湿热的区别",
+      "onboard_time": 1720941083,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 125362,
@@ -1627,6 +1739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53382,
+      "num": 635475,
+      "word": "一男子购买恋爱保险结婚后理赔遭拒",
+      "onboard_time": 1720940423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53057,
       "num": 125269,
       "word": "泰国失踪中国女子残骸疑似被找到",
@@ -1675,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46327,
+      "num": 1141946,
+      "word": "全国演出市场上半年票房收入超190亿元",
+      "onboard_time": 1720934425,
+      "rank": 9,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 44133,
       "num": 107593,
       "word": "张艺兴大航海超长续航",
@@ -1689,14 +1817,6 @@
       "onboard_time": 1720894812,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37723,
-      "num": 1141946,
-      "word": "全国演出市场上半年票房收入超190亿元",
-      "onboard_time": 1720934425,
-      "rank": 9,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 37483,
@@ -1868,6 +1988,9 @@
     },
     {
       "word": "#改革在不断解决问题中深化#"
+    },
+    {
+      "word": "#改革开放要坚定不移地走下去#"
     }
   ]
 }
