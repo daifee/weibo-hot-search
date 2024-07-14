@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720965139944,
+  "endTime": 1720967029175,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -921,6 +921,14 @@
       "onboard_time": 1719884777,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1493141,
+      "num": 1101098,
+      "word": "错位",
+      "onboard_time": 1720494258,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1491623,
@@ -3995,14 +4003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 751764,
-      "num": 751764,
-      "word": "错位",
-      "onboard_time": 1720494258,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 751751,
       "num": 751751,
       "word": "北大考古毕业生就业率100%",
@@ -4129,6 +4129,14 @@
       "onboard_time": 1720846277,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 740491,
+      "num": 327075,
+      "word": "一夜之后韩总夫人跑了",
+      "onboard_time": 1720963700,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 739319,
@@ -4473,14 +4481,6 @@
       "onboard_time": 1720248857,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699670,
-      "num": 314809,
-      "word": "一夜之后韩总夫人跑了",
-      "onboard_time": 1720963700,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 697279,
@@ -5771,6 +5771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 596359,
+      "num": 516177,
+      "word": "容祖儿 感谢我的爱人",
+      "onboard_time": 1720965081,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 595907,
       "num": 230370,
       "word": "香缇莫第八",
@@ -5833,6 +5841,14 @@
       "onboard_time": 1720709960,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592306,
+      "num": 592306,
+      "word": "凯特王妃亮相温网",
+      "onboard_time": 1720965921,
+      "rank": 6,
+      "category": "国外时政,体育"
     },
     {
       "raw_hot": 592115,
@@ -7083,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521139,
+      "num": 521139,
+      "word": "王鸥的状态",
+      "onboard_time": 1720964960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519653,
       "num": 462351,
       "word": "杨紫31岁状态",
@@ -7177,6 +7201,14 @@
       "onboard_time": 1720930585,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 515523,
+      "num": 515523,
+      "word": "马斯克自曝差点遭到2次暗杀",
+      "onboard_time": 1720964480,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 515094,
@@ -9177,6 +9209,14 @@
       "onboard_time": 1720327817,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439574,
+      "num": 321847,
+      "word": "月经快要离开时身体会给出4个提示",
+      "onboard_time": 1720966581,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 439428,
@@ -11795,6 +11835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347410,
+      "num": 347410,
+      "word": "特朗普遇袭现场医生发声",
+      "onboard_time": 1720963281,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 347068,
       "num": 318235,
       "word": "这就是小说里讲的灵气逼人吗",
@@ -13123,14 +13171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308061,
-      "num": 308061,
-      "word": "王鸥的状态",
-      "onboard_time": 1720964960,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 307941,
       "num": 307941,
       "word": "BLG官宣Wei加入",
@@ -13520,6 +13560,14 @@
       "word": "小夭官配",
       "onboard_time": 1720636572,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295225,
+      "num": 295225,
+      "word": "防风意映这一刻好漂亮",
+      "onboard_time": 1720965981,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -14209,14 +14257,6 @@
       "onboard_time": 1720692076,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279199,
-      "num": 298905,
-      "word": "特朗普遇袭现场医生发声",
-      "onboard_time": 1720963281,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 278872,
@@ -15833,14 +15873,6 @@
       "onboard_time": 1720932205,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240093,
-      "num": 240093,
-      "word": "马斯克自曝差点遭到2次暗杀",
-      "onboard_time": 1720964480,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 240072,
@@ -17603,6 +17635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213932,
+      "num": 213932,
+      "word": "消失的她阴暗的他清澈的我",
+      "onboard_time": 1720966399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213867,
       "num": 213867,
       "word": "成毅赴山海威亚路透",
@@ -18371,6 +18411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206213,
+      "num": 206213,
+      "word": "阿尔卡拉斯vs德约科维奇",
+      "onboard_time": 1720966160,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206204,
       "num": 142681,
       "word": "氧气",
@@ -18681,6 +18729,14 @@
       "onboard_time": 1720230078,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204412,
+      "num": 204412,
+      "word": "邓为6年前街拍旧照",
+      "onboard_time": 1720966460,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 204369,
@@ -19569,6 +19625,14 @@
       "onboard_time": 1720573338,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197820,
+      "num": 197820,
+      "word": "林俊杰LemonTree官摄",
+      "onboard_time": 1720966220,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 197751,
@@ -20603,6 +20667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "相柳性转版赵敏",
+      "onboard_time": 1720963999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "电影默杀首映礼",
@@ -21497,6 +21569,14 @@
       "onboard_time": 1720408278,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "萝卜快跑遇空编织袋停下",
+      "onboard_time": 1720962619,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 183683,
@@ -22811,14 +22891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173580,
-      "num": 173580,
-      "word": "相柳性转版赵敏",
-      "onboard_time": 1720963999,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173543,
       "num": 173543,
       "word": "鞠婧祎条纹卫衣",
@@ -22993,14 +23065,6 @@
       "onboard_time": 1719910760,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172282,
-      "num": 172282,
-      "word": "萝卜快跑遇空编织袋停下",
-      "onboard_time": 1720962619,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 172232,
@@ -24361,6 +24425,14 @@
       "onboard_time": 1720232717,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162090,
+      "num": 162090,
+      "word": "严浩翔最佳男配角",
+      "onboard_time": 1720966039,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 162080,
@@ -27497,6 +27569,14 @@
       "onboard_time": 1720074078,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141084,
+      "num": 141084,
+      "word": "外贸业务离职后客户一直下单",
+      "onboard_time": 1720966881,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 141049,
@@ -32099,14 +32179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114856,
-      "num": 114856,
-      "word": "容祖儿 感谢我的爱人",
-      "onboard_time": 1720965081,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114835,
       "num": 114835,
       "word": "沈月说看起来瘦了就是瘦了",
@@ -35507,6 +35579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81028,
+      "num": 1076257,
+      "word": "二十届三中全会是个什么会",
+      "onboard_time": 1720963760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81018,
       "num": 81018,
       "word": "宛平城墙的弹痕是先辈血泪的印记",
@@ -35760,14 +35840,6 @@
       "word": "母亲背罕见病儿子14年累断足骨",
       "onboard_time": 1720537520,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76094,
-      "num": 710762,
-      "word": "二十届三中全会是个什么会",
-      "onboard_time": 1720963760,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -38812,7 +38884,7 @@
     },
     {
       "raw_hot": 35583,
-      "num": 324140,
+      "num": 520601,
       "word": "一分钟穿越改革新坐标",
       "onboard_time": 1720954998,
       "rank": 9,

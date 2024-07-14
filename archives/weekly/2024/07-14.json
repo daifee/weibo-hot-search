@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720965139944,
+  "endTime": 1720967029175,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -97,6 +97,14 @@
       "onboard_time": 1720913475,
       "rank": 34,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 1493141,
+      "num": 1101098,
+      "word": "错位",
+      "onboard_time": 1720961419,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 1467557,
@@ -235,20 +243,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 751764,
-      "num": 751764,
-      "word": "错位",
-      "onboard_time": 1720961419,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 749950,
       "num": 282077,
       "word": "女子隐瞒中500万前夫起诉获分200万",
       "onboard_time": 1720950741,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740491,
+      "num": 327075,
+      "word": "一夜之后韩总夫人跑了",
+      "onboard_time": 1720963700,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 735594,
@@ -289,14 +297,6 @@
       "onboard_time": 1720928300,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 699670,
-      "num": 314809,
-      "word": "一夜之后韩总夫人跑了",
-      "onboard_time": 1720963700,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 676354,
@@ -387,12 +387,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 596359,
+      "num": 516177,
+      "word": "容祖儿 感谢我的爱人",
+      "onboard_time": 1720965081,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 593826,
       "num": 258711,
       "word": "真的建议大家回归线下生活",
       "onboard_time": 1720881560,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592306,
+      "num": 592306,
+      "word": "凯特王妃亮相温网",
+      "onboard_time": 1720965921,
+      "rank": 6,
+      "category": "国外时政,体育"
     },
     {
       "raw_hot": 588202,
@@ -491,6 +507,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 521139,
+      "num": 521139,
+      "word": "王鸥的状态",
+      "onboard_time": 1720964960,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519304,
       "num": 371473,
       "word": "特朗普团队发声",
@@ -513,6 +537,14 @@
       "onboard_time": 1720930585,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 515523,
+      "num": 515523,
+      "word": "马斯克自曝差点遭到2次暗杀",
+      "onboard_time": 1720964480,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 505075,
@@ -617,6 +649,14 @@
       "onboard_time": 1720932205,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439574,
+      "num": 321847,
+      "word": "月经快要离开时身体会给出4个提示",
+      "onboard_time": 1720966581,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 438882,
@@ -779,6 +819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347410,
+      "num": 347410,
+      "word": "特朗普遇袭现场医生发声",
+      "onboard_time": 1720963281,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 346137,
       "num": 261369,
       "word": "希林娜依高嗓子咋了",
@@ -859,14 +907,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 308061,
-      "num": 308061,
-      "word": "王鸥的状态",
-      "onboard_time": 1720964960,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306514,
       "num": 306514,
       "word": "恋与深空",
@@ -905,6 +945,14 @@
       "onboard_time": 1720945521,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 295225,
+      "num": 295225,
+      "word": "防风意映这一刻好漂亮",
+      "onboard_time": 1720965981,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 293492,
@@ -977,14 +1025,6 @@
       "onboard_time": 1720941742,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279199,
-      "num": 298905,
-      "word": "特朗普遇袭现场医生发声",
-      "onboard_time": 1720963281,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 278510,
@@ -1163,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240093,
-      "num": 240093,
-      "word": "马斯克自曝差点遭到2次暗杀",
-      "onboard_time": 1720964480,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 240072,
       "num": 240072,
       "word": "范世錡买了萧敬腾歌版权",
@@ -1315,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213932,
+      "num": 213932,
+      "word": "消失的她阴暗的他清澈的我",
+      "onboard_time": 1720966399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
@@ -1355,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206213,
+      "num": 206213,
+      "word": "阿尔卡拉斯vs德约科维奇",
+      "onboard_time": 1720966160,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205544,
       "num": 205544,
       "word": "种地吧加更",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1720875197,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204412,
+      "num": 204412,
+      "word": "邓为6年前街拍旧照",
+      "onboard_time": 1720966460,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 204148,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1720926560,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197820,
+      "num": 197820,
+      "word": "林俊杰LemonTree官摄",
+      "onboard_time": 1720966220,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 196507,
@@ -1515,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "相柳性转版赵敏",
+      "onboard_time": 1720963999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "身体湿气重是什么感觉",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1720923378,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 183752,
+      "num": 183752,
+      "word": "萝卜快跑遇空编织袋停下",
+      "onboard_time": 1720962619,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 183503,
@@ -1635,28 +1715,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 173580,
-      "num": 173580,
-      "word": "相柳性转版赵敏",
-      "onboard_time": 1720963999,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172822,
       "num": 258397,
       "word": "陈昊宇美貌",
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172282,
-      "num": 172282,
-      "word": "萝卜快跑遇空编织袋停下",
-      "onboard_time": 1720962619,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 172199,
@@ -1737,6 +1801,14 @@
       "onboard_time": 1720935445,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162090,
+      "num": 162090,
+      "word": "严浩翔最佳男配角",
+      "onboard_time": 1720966039,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 158871,
@@ -1969,6 +2041,14 @@
       "onboard_time": 1720962920,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141084,
+      "num": 141084,
+      "word": "外贸业务离职后客户一直下单",
+      "onboard_time": 1720966881,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 140180,
@@ -2283,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114856,
-      "num": 114856,
-      "word": "容祖儿 感谢我的爱人",
-      "onboard_time": 1720965081,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113251,
       "num": 55488,
       "word": "729 CV",
@@ -2459,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81028,
+      "num": 1076257,
+      "word": "二十届三中全会是个什么会",
+      "onboard_time": 1720963760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78157,
       "num": 256225,
       "word": "萝卜快跑或成最体面的网约车司机",
@@ -2473,14 +2553,6 @@
       "onboard_time": 1720876279,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76094,
-      "num": 710762,
-      "word": "二十届三中全会是个什么会",
-      "onboard_time": 1720963760,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73815,
@@ -2740,7 +2812,7 @@
     },
     {
       "raw_hot": 35583,
-      "num": 324140,
+      "num": 520601,
       "word": "一分钟穿越改革新坐标",
       "onboard_time": 1720954998,
       "rank": 9,
