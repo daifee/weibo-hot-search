@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720964556594,
+  "endTime": 1720965139944,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -211,8 +211,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 881697,
-      "num": 1141071,
+      "raw_hot": 956793,
+      "num": 1153086,
       "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
       "onboard_time": 1720960701,
       "rank": 28,
@@ -233,6 +233,14 @@
       "onboard_time": 1720917380,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 751764,
+      "num": 751764,
+      "word": "错位",
+      "onboard_time": 1720961419,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 749950,
@@ -283,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 699670,
+      "num": 314809,
+      "word": "一夜之后韩总夫人跑了",
+      "onboard_time": 1720963700,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 676354,
       "num": 888000,
       "word": "抓娃娃",
@@ -297,6 +313,14 @@
       "onboard_time": 1720939941,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654235,
+      "num": 654235,
+      "word": "薛之谦演唱会嘉宾是李健",
+      "onboard_time": 1720962799,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 652601,
@@ -337,14 +361,6 @@
       "onboard_time": 1720945582,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 612927,
-      "num": 612927,
-      "word": "错位",
-      "onboard_time": 1720961419,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 601665,
@@ -435,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 536755,
+      "num": 506731,
+      "word": "手紧的年轻人爆买10元防晒衣",
+      "onboard_time": 1720962140,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 535460,
       "num": 382418,
       "word": "特勤局曾多次拒绝为特朗普加强安保",
@@ -451,14 +475,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 532564,
-      "num": 532564,
-      "word": "薛之谦演唱会嘉宾是李健",
-      "onboard_time": 1720962799,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 526221,
       "num": 526221,
       "word": "枪手用步枪打了8发子弹",
@@ -473,14 +489,6 @@
       "onboard_time": 1720952539,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 520105,
-      "num": 506731,
-      "word": "手紧的年轻人爆买10元防晒衣",
-      "onboard_time": 1720962140,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 519304,
@@ -544,14 +552,6 @@
       "word": "第一次这么心疼一个剧的反派",
       "onboard_time": 1720872978,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 477816,
-      "num": 293989,
-      "word": "一夜之后韩总夫人跑了",
-      "onboard_time": 1720963700,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -843,12 +843,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 317661,
+      "num": 317661,
+      "word": "温网男单决赛",
+      "onboard_time": 1720963520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310847,
       "num": 310847,
       "word": "30余万元本金3年半滚到4553万元",
       "onboard_time": 1720941801,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 308061,
+      "num": 308061,
+      "word": "王鸥的状态",
+      "onboard_time": 1720964960,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 306514,
@@ -865,14 +881,6 @@
       "onboard_time": 1720939822,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300473,
-      "num": 300473,
-      "word": "温网男单决赛",
-      "onboard_time": 1720963520,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 299283,
@@ -969,6 +977,14 @@
       "onboard_time": 1720941742,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279199,
+      "num": 298905,
+      "word": "特朗普遇袭现场医生发声",
+      "onboard_time": 1720963281,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 278510,
@@ -1147,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240093,
+      "num": 240093,
+      "word": "马斯克自曝差点遭到2次暗杀",
+      "onboard_time": 1720964480,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 240072,
       "num": 240072,
       "word": "范世錡买了萧敬腾歌版权",
@@ -1171,12 +1195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232794,
-      "num": 298905,
-      "word": "特朗普遇袭现场医生发声",
-      "onboard_time": 1720963281,
-      "rank": 19,
-      "category": "国外时政"
+      "raw_hot": 235561,
+      "num": 235561,
+      "word": "韩东君第一次被女生抱起来",
+      "onboard_time": 1720961000,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 231876,
@@ -1211,12 +1235,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 228180,
-      "num": 228180,
-      "word": "韩东君第一次被女生抱起来",
-      "onboard_time": 1720961000,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 228220,
+      "num": 228220,
+      "word": "邓超和等等 活泼老奴和沉稳少爷",
+      "onboard_time": 1720964180,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227791,
@@ -1611,12 +1635,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173580,
+      "num": 173580,
+      "word": "相柳性转版赵敏",
+      "onboard_time": 1720963999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172822,
       "num": 258397,
       "word": "陈昊宇美貌",
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172282,
+      "num": 172282,
+      "word": "萝卜快跑遇空编织袋停下",
+      "onboard_time": 1720962619,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 172199,
@@ -1651,14 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168874,
-      "num": 168874,
-      "word": "萝卜快跑遇空编织袋停下",
-      "onboard_time": 1720962619,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168277,
       "num": 168277,
       "word": "特朗普遭遇暗杀最新视频曝光",
@@ -1681,14 +1713,6 @@
       "onboard_time": 1720949421,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167081,
-      "num": 167081,
-      "word": "邓超和等等 活泼老奴和沉稳少爷",
-      "onboard_time": 1720964180,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165551,
@@ -1833,14 +1857,6 @@
       "onboard_time": 1720912513,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150735,
-      "num": 150735,
-      "word": "相柳性转版赵敏",
-      "onboard_time": 1720963999,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 150452,
@@ -2051,14 +2067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134198,
-      "num": 134198,
-      "word": "马斯克自曝差点遭到2次暗杀",
-      "onboard_time": 1720964480,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 133272,
       "num": 133272,
       "word": "索尼A9M3",
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 126157,
-      "num": 619853,
+      "num": 655135,
       "word": "今年暑期档票房破40亿",
       "onboard_time": 1720943003,
       "rank": 5,
@@ -2275,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114856,
+      "num": 114856,
+      "word": "容祖儿 感谢我的爱人",
+      "onboard_time": 1720965081,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113251,
       "num": 55488,
       "word": "729 CV",
@@ -2321,6 +2337,14 @@
       "onboard_time": 1720914135,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107754,
+      "num": 107754,
+      "word": "苏醒预测欧洲杯决赛",
+      "onboard_time": 1720965019,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 107548,
@@ -2449,6 +2473,14 @@
       "onboard_time": 1720876279,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76094,
+      "num": 710762,
+      "word": "二十届三中全会是个什么会",
+      "onboard_time": 1720963760,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73815,
@@ -2593,14 +2625,6 @@
       "onboard_time": 1720913114,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 55054,
-      "num": 660759,
-      "word": "二十届三中全会是个什么会",
-      "onboard_time": 1720963760,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53201,
