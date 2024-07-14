@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720942542241,
+  "endTime": 1720945573739,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -17,6 +17,14 @@
       "onboard_time": 1720911913,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 5810500,
+      "num": 671030,
+      "word": "黄子韬徐艺洋官宣",
+      "onboard_time": 1720943183,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3610622,
@@ -51,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2016408,
+      "num": 669661,
+      "word": "特朗普遇刺6小时后首次露面",
+      "onboard_time": 1720938203,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1854556,
       "num": 1854556,
       "word": "奥巴马就特朗普遭枪击发声",
@@ -65,14 +81,6 @@
       "onboard_time": 1720927520,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1656244,
-      "num": 665769,
-      "word": "特朗普遇刺6小时后首次露面",
-      "onboard_time": 1720938203,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1639468,
@@ -147,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1035275,
+      "num": 1245156,
+      "word": "蓝盈莹 用力过猛是松弛的必经之路",
+      "onboard_time": 1720940122,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1031379,
       "num": 540096,
       "word": "孙俪一家 儿子像妈女儿像爸",
@@ -161,14 +177,6 @@
       "onboard_time": 1720930645,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 860208,
-      "num": 1245156,
-      "word": "蓝盈莹 用力过猛是松弛的必经之路",
-      "onboard_time": 1720940122,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 810587,
@@ -203,12 +211,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 676354,
+      "num": 676354,
+      "word": "抓娃娃",
+      "onboard_time": 1720942891,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 663169,
+      "num": 663169,
+      "word": "肖战被溅一身可乐的反应",
+      "onboard_time": 1720939941,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652601,
       "num": 590052,
       "word": "特朗普遇刺照拍摄者是普利策奖得主",
       "onboard_time": 1720937843,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 647942,
+      "num": 1130744,
+      "word": "女子点奶茶疑被老人私自拿走1杯",
+      "onboard_time": 1720939163,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647111,
@@ -224,14 +256,6 @@
       "word": "肖战工作室",
       "onboard_time": 1720933766,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 614083,
-      "num": 614083,
-      "word": "肖战被溅一身可乐的反应",
-      "onboard_time": 1720939941,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -275,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583775,
-      "num": 1130744,
-      "word": "女子点奶茶疑被老人私自拿走1杯",
-      "onboard_time": 1720939163,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571640,
       "num": 357441,
       "word": "疑在泰被撕票中国女子最后监控画面",
@@ -305,6 +321,14 @@
       "onboard_time": 1720930645,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 553255,
+      "num": 512639,
+      "word": "32岁女子吹未清洗空调多器官衰竭",
+      "onboard_time": 1720939883,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532614,
@@ -345,14 +369,6 @@
       "onboard_time": 1720930585,
       "rank": 6,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 512639,
-      "num": 512639,
-      "word": "32岁女子吹未清洗空调多器官衰竭",
-      "onboard_time": 1720939883,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494088,
@@ -427,6 +443,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 428758,
+      "num": 428758,
+      "word": "特朗普或因侧头看图表救回一命",
+      "onboard_time": 1720945401,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 426807,
+      "num": 1073707,
+      "word": "一男子购买恋爱保险结婚后理赔遭拒",
+      "onboard_time": 1720940423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424079,
       "num": 424079,
       "word": "老人要报40元团4天3晚游桂林",
@@ -489,6 +521,14 @@
       "onboard_time": 1720913715,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 368826,
+      "num": 368826,
+      "word": "甜馨回应晒黑",
+      "onboard_time": 1720943960,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 362939,
@@ -571,12 +611,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322836,
+      "num": 322836,
+      "word": "中方关注特朗普前总统遭遇枪击事件",
+      "onboard_time": 1720943662,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 310847,
+      "num": 310847,
+      "word": "30余万元本金3年半滚到4553万元",
+      "onboard_time": 1720941801,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 306514,
       "num": 306514,
       "word": "恋与深空",
       "onboard_time": 1720920621,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301040,
+      "num": 301040,
+      "word": "天天吃西红柿会身体发生什么",
+      "onboard_time": 1720939822,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 299283,
@@ -651,6 +715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 282225,
+      "num": 674839,
+      "word": "范丞丞说听恶评是成长必经",
+      "onboard_time": 1720941742,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278510,
       "num": 278510,
       "word": "爸爸借给舅舅儿子50w买房",
@@ -673,6 +745,14 @@
       "onboard_time": 1720936764,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275089,
+      "num": 275089,
+      "word": "他甚至每个都解释了一遍",
+      "onboard_time": 1720943363,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 272501,
@@ -737,14 +817,6 @@
       "onboard_time": 1720912694,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254632,
-      "num": 190363,
-      "word": "30余万元本金3年半滚到4553万元",
-      "onboard_time": 1720941801,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 253383,
@@ -875,14 +947,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 219139,
-      "num": 219139,
-      "word": "天天吃西红柿会身体发生什么",
-      "onboard_time": 1720939822,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -897,6 +961,14 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214437,
+      "num": 673720,
+      "word": "长相思2意难平属于每个角色",
+      "onboard_time": 1720944261,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 212613,
@@ -995,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193378,
+      "num": 193378,
+      "word": "这是特朗普最凶险也最高光的时刻",
+      "onboard_time": 1720945521,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193056,
       "num": 193056,
       "word": "周深演唱会官宣杭州沈阳北京",
@@ -1051,19 +1131,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182634,
+      "num": 182634,
+      "word": "熬夜对肝脏的伤害是最大的",
+      "onboard_time": 1720941982,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180952,
       "num": 177584,
       "word": "原来鹿晗陈奕迅的热歌是他写的",
       "onboard_time": 1720915578,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179514,
-      "num": 506136,
-      "word": "范丞丞说听恶评是成长必经",
-      "onboard_time": 1720941742,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -1203,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157145,
+      "num": 157145,
+      "word": "南波万应援棒",
+      "onboard_time": 1720942891,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155866,
       "num": 155866,
       "word": "九点上班要求8点50就到",
@@ -1299,20 +1387,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 146563,
+      "num": 146563,
+      "word": "重庆105个雨量站大暴雨",
+      "onboard_time": 1720940302,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146402,
       "num": 259681,
       "word": "秦彻",
       "onboard_time": 1720885399,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146321,
-      "num": 146321,
-      "word": "熬夜对肝脏的伤害是最大的",
-      "onboard_time": 1720941982,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145947,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1720877838,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140721,
+      "num": 140721,
+      "word": "枪响后特朗普与安保贴身对话公开",
+      "onboard_time": 1720945220,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 140180,
@@ -1409,6 +1505,22 @@
       "onboard_time": 1720877059,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133733,
+      "num": 133733,
+      "word": "央视解说一开口就是满分作文",
+      "onboard_time": 1720945461,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133272,
+      "num": 133272,
+      "word": "索尼A9M3",
+      "onboard_time": 1720943781,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 132899,
@@ -1611,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100565,
-      "num": 635475,
-      "word": "一男子购买恋爱保险结婚后理赔遭拒",
-      "onboard_time": 1720940423,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87068,
       "num": 75702,
       "word": "度华年",
@@ -1665,6 +1769,14 @@
       "onboard_time": 1720890135,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71437,
+      "num": 425849,
+      "word": "有AI再也不用跪求剧名了",
+      "onboard_time": 1720943422,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 70002,
@@ -1859,6 +1971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41084,
+      "num": 424184,
+      "word": "鸿星尔克公园跑鞋缓震新时代",
+      "onboard_time": 1720943363,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 40145,
       "num": 45421,
       "word": "袁咏琳 如寄",
@@ -1881,6 +2001,14 @@
       "onboard_time": 1720907352,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34306,
+      "num": 1026987,
+      "word": "这就是独属于中国的文化自信",
+      "onboard_time": 1720945162,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34163,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1720896613,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21913,
+      "num": 649713,
+      "word": "我和崇礼山野的故事",
+      "onboard_time": 1720944023,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 20573,
@@ -2025,6 +2161,14 @@
       "onboard_time": 1720893432,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6843,
+      "num": 671745,
+      "word": "三中全会是个什么会",
+      "onboard_time": 1720855816,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2039,6 +2183,9 @@
     },
     {
       "word": "#改革开放要坚定不移地走下去#"
+    },
+    {
+      "word": "#以自我革命的精神推进改革#"
     }
   ]
 }
