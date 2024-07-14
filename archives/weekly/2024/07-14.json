@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720961309417,
+  "endTime": 1720962136183,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550301,
+      "num": 482135,
+      "word": "宁艺卓意外认证全开麦",
+      "onboard_time": 1720959440,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 535460,
       "num": 382418,
       "word": "特勤局曾多次拒绝为特朗普加强安保",
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501302,
+      "num": 381679,
+      "word": "官方通报男子疑5分钟猥亵4名女性",
+      "onboard_time": 1720958598,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 494088,
       "num": 1652342,
       "word": "12部国产动画加入暑期档",
@@ -489,14 +505,6 @@
       "onboard_time": 1720872978,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 482135,
-      "num": 482135,
-      "word": "宁艺卓意外认证全开麦",
-      "onboard_time": 1720959440,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 472140,
@@ -563,14 +571,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 435787,
-      "num": 381679,
-      "word": "官方通报男子疑5分钟猥亵4名女性",
-      "onboard_time": 1720958598,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 426807,
       "num": 1073707,
       "word": "一男子购买恋爱保险结婚后理赔遭拒",
@@ -635,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 399517,
+      "num": 381457,
+      "word": "张元英牛仔裤全身照",
+      "onboard_time": 1720959680,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398212,
       "num": 369722,
       "word": "美特勤局称特朗普情况安全",
@@ -649,14 +657,6 @@
       "onboard_time": 1720955359,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 381457,
-      "num": 381457,
-      "word": "张元英牛仔裤全身照",
-      "onboard_time": 1720959680,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 375294,
@@ -707,6 +707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 353111,
+      "num": 313468,
+      "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
+      "onboard_time": 1720960701,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351280,
       "num": 351280,
       "word": "王玉雯王子奇四搭",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 330036,
-      "num": 236861,
+      "num": 279535,
       "word": "椰子水为何干不过柠檬茶",
       "onboard_time": 1720955479,
       "rank": 30,
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281849,
+      "num": 281849,
+      "word": "迪丽热巴夏天绿西装",
+      "onboard_time": 1720961419,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278510,
       "num": 278510,
       "word": "爸爸借给舅舅儿子50w买房",
@@ -929,6 +945,14 @@
       "onboard_time": 1720936764,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 276414,
+      "num": 276414,
+      "word": "易烊千玺纪念开博11周年",
+      "onboard_time": 1720961358,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 275089,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1720923199,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 247119,
+      "num": 247119,
+      "word": "LNG对战TES",
+      "onboard_time": 1720959318,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 246538,
@@ -1195,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213020,
+      "num": 213020,
+      "word": "错位",
+      "onboard_time": 1720961419,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212613,
       "num": 212613,
       "word": "美媒称特朗普被子弹擦伤",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1720922898,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207781,
+      "num": 204124,
+      "word": "谁家悬疑剧男主又偷又藏",
+      "onboard_time": 1720961180,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 205544,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1720937304,
       "rank": 33,
       "category": "国外时政,数码"
+    },
+    {
+      "raw_hot": 201447,
+      "num": 201447,
+      "word": "极限挑战10收官",
+      "onboard_time": 1720961600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 200578,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1720950620,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195723,
+      "num": 257087,
+      "word": "欧洲杯",
+      "onboard_time": 1720882820,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194279,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1720938683,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 189158,
+      "num": 189158,
+      "word": "荣梓杉同学发文回应",
+      "onboard_time": 1720960280,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 188743,
@@ -1475,12 +1547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 174418,
-      "num": 174418,
-      "word": "荣梓杉同学发文回应",
-      "onboard_time": 1720960280,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 173422,
+      "num": 173422,
+      "word": "韩东君第一次被女生抱起来",
+      "onboard_time": 1720961000,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172822,
@@ -1619,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155173,
+      "num": 155173,
+      "word": "徐明浩 花的氛围感",
+      "onboard_time": 1720961719,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "牙齿正畸有时太早反而影响面型",
@@ -1657,14 +1737,6 @@
       "onboard_time": 1720924460,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153297,
-      "num": 153297,
-      "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
-      "onboard_time": 1720960701,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152953,
@@ -1891,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133586,
-      "num": 257087,
-      "word": "欧洲杯",
-      "onboard_time": 1720882820,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133272,
       "num": 133272,
       "word": "索尼A9M3",
@@ -2067,14 +2131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118794,
-      "num": 118794,
-      "word": "韩东君第一次被女生抱起来",
-      "onboard_time": 1720961000,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118570,
       "num": 256902,
       "word": "陈都灵 你这样说我更i了",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1720946300,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116015,
-      "num": 116015,
-      "word": "谁家悬疑剧男主又偷又藏",
-      "onboard_time": 1720961180,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 113251,
@@ -2243,6 +2291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 87759,
+      "num": 1026987,
+      "word": "这就是独属于中国的文化自信",
+      "onboard_time": 1720945162,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87068,
       "num": 75702,
       "word": "度华年",
@@ -2304,14 +2360,6 @@
       "word": "日本近百万人因弹珠店破产",
       "onboard_time": 1720852817,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69292,
-      "num": 1026987,
-      "word": "这就是独属于中国的文化自信",
-      "onboard_time": 1720945162,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2540,7 +2588,7 @@
     },
     {
       "raw_hot": 35583,
-      "num": 282821,
+      "num": 324140,
       "word": "一分钟穿越改革新坐标",
       "onboard_time": 1720954998,
       "rank": 9,

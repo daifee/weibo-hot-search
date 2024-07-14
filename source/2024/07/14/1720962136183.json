@@ -1,0 +1,410 @@
+{
+  "runTime": 1720962136183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682081,
+        "num": 1109132,
+        "word": "刘亦菲成了林一炫耀的资本",
+        "onboard_time": 1720952840,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518413,
+        "num": 518413,
+        "word": "邹市明吐槽3儿子没一个子承父业",
+        "onboard_time": 1720948161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87759,
+        "num": 506309,
+        "word": "这就是独属于中国的文化自信",
+        "onboard_time": 1720945162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304701,
+        "num": 490688,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 658454,
+        "num": 473385,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 553608,
+        "num": 451200,
+        "word": "冯绍峰也没躲过乌尔善训练营",
+        "onboard_time": 1720952840,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550301,
+        "num": 443874,
+        "word": "宁艺卓意外认证全开麦",
+        "onboard_time": 1720959440,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434037,
+        "num": 434037,
+        "word": "枪击特朗普枪手为共和党人",
+        "onboard_time": 1720952779,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324860,
+        "num": 324860,
+        "word": "巴黎奥运粉色乒乓球台",
+        "onboard_time": 1720955359,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16490,
+        "num": 324140,
+        "word": "一分钟穿越改革新坐标",
+        "onboard_time": 1720954998,
+        "rank": 9,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 1746766,
+        "num": 321700,
+        "word": "黄子韬徐艺洋官宣",
+        "onboard_time": 1720943183,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037852,
+        "num": 320235,
+        "word": "特朗普或因侧头看图表救回一命",
+        "onboard_time": 1720945401,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 639132,
+        "num": 318731,
+        "word": "方大同薛凯琪互动了",
+        "onboard_time": 1720957819,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501302,
+        "num": 317947,
+        "word": "官方通报男子疑5分钟猥亵4名女性",
+        "onboard_time": 1720958598,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 465802,
+        "num": 316432,
+        "word": "特勤局曾多次拒绝为特朗普加强安保",
+        "onboard_time": 1720956079,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 399517,
+        "num": 314929,
+        "word": "张元英牛仔裤全身照",
+        "onboard_time": 1720959680,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353111,
+        "num": 313468,
+        "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
+        "onboard_time": 1720960701,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312183,
+        "num": 312183,
+        "word": "抓娃娃",
+        "onboard_time": 1720942891,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281849,
+        "num": 281849,
+        "word": "迪丽热巴夏天绿西装",
+        "onboard_time": 1720961419,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247615,
+        "num": 280462,
+        "word": "阴阳师",
+        "onboard_time": 1720959619,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377597,
+        "num": 280017,
+        "word": "爸妈给弟弟买了一万的电脑我退群了",
+        "onboard_time": 1720930645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279535,
+        "num": 279535,
+        "word": "椰子水为何干不过柠檬茶",
+        "onboard_time": 1720955479,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 276414,
+        "num": 276414,
+        "word": "易烊千玺纪念开博11周年",
+        "onboard_time": 1720961358,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247119,
+        "num": 247119,
+        "word": "LNG对战TES",
+        "onboard_time": 1720959318,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238278,
+        "num": 238278,
+        "word": "王一珩直播",
+        "onboard_time": 1720957339,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213020,
+        "num": 213020,
+        "word": "错位",
+        "onboard_time": 1720961419,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204387,
+        "num": 204387,
+        "word": "少年发现水里不对劲救下一条命",
+        "onboard_time": 1720954400,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207781,
+        "num": 204124,
+        "word": "谁家悬疑剧男主又偷又藏",
+        "onboard_time": 1720961180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203305,
+        "num": 203305,
+        "word": "女子隐瞒中500万前夫起诉获分200万",
+        "onboard_time": 1720950741,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201447,
+        "num": 201447,
+        "word": "极限挑战10收官",
+        "onboard_time": 1720961600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198770,
+        "num": 198770,
+        "word": "赵今麦哭戏",
+        "onboard_time": 1720959619,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195723,
+        "num": 195723,
+        "word": "欧洲杯",
+        "onboard_time": 1720961180,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189158,
+        "num": 189158,
+        "word": "荣梓杉同学发文回应",
+        "onboard_time": 1720960280,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173422,
+        "num": 173422,
+        "word": "韩东君第一次被女生抱起来",
+        "onboard_time": 1720961000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164119,
+        "num": 164119,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155173,
+        "num": 155173,
+        "word": "徐明浩 花的氛围感",
+        "onboard_time": 1720961719,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "孙颖莎关晓彤相约打乒乓",
+        "onboard_time": 1720952539,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "谢娜晒雨中张杰舞台照",
+        "onboard_time": 1720958300,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131426,
+        "num": 131426,
+        "word": "王楚钦北体大毕业",
+        "onboard_time": 1720946601,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125498,
+        "num": 125498,
+        "word": "肖战被溅一身可乐的反应",
+        "onboard_time": 1720939941,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121505,
+        "num": 121505,
+        "word": "哈药六厂已接待90万游客",
+        "onboard_time": 1720946122,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "小夭醉酒",
+        "onboard_time": 1720959020,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114991,
+        "num": 114991,
+        "word": "梅西 加油阿根廷",
+        "onboard_time": 1720959380,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "三伏到底有多热",
+        "onboard_time": 1720959318,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110364,
+        "num": 110364,
+        "word": "30余万元本金3年半滚到4553万元",
+        "onboard_time": 1720941801,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108631,
+        "num": 108631,
+        "word": "黄明昊 演技",
+        "onboard_time": 1720956559,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108082,
+        "num": 108082,
+        "word": "潘玮柏 我想更懂你",
+        "onboard_time": 1720956379,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106782,
+        "num": 106782,
+        "word": "天天吃西红柿会身体发生什么",
+        "onboard_time": 1720939822,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 105359,
+        "word": "奥运火炬开始在巴黎传递",
+        "onboard_time": 1720959561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103523,
+        "num": 103523,
+        "word": "暑假第一次胚胎式追剧",
+        "onboard_time": 1720955959,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一串地标领悟习近平的改革之道#"
+    }
+  }
+}
