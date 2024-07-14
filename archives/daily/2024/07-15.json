@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1720999138468,
+  "endTime": 1721000086739,
   "band_list": [
     {
       "raw_hot": 1829043,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1048284,
-      "num": 165890,
+      "num": 173252,
       "word": "李闽轩 中戏录取",
       "onboard_time": 1720969460,
       "rank": 20,
@@ -28,19 +28,27 @@
     },
     {
       "raw_hot": 962791,
-      "num": 226536,
+      "num": 235750,
       "word": "黄子韬徐艺洋官宣",
       "onboard_time": 1720943183,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 769813,
-      "num": 221246,
+      "raw_hot": 907631,
+      "num": 248273,
       "word": "枪击特朗普枪手行凶衣着引关注",
       "onboard_time": 1720969580,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 731198,
+      "num": 731198,
+      "word": "这3个体检项目其实是浪费钱",
+      "onboard_time": 1720977913,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 625307,
@@ -49,14 +57,6 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606900,
-      "num": 606900,
-      "word": "这3个体检项目其实是浪费钱",
-      "onboard_time": 1720977913,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 570154,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 409085,
-      "num": 162875,
+      "num": 172411,
       "word": "月经快要离开时身体会给出4个提示",
       "onboard_time": 1720966581,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 388703,
+      "num": 388703,
+      "word": "迪士尼西班牙区发了刘亦菲花木兰",
+      "onboard_time": 1720981992,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 386326,
@@ -115,12 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372047,
-      "num": 372047,
-      "word": "迪士尼西班牙区发了刘亦菲花木兰",
-      "onboard_time": 1720981992,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 347195,
+      "num": 243934,
+      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+      "onboard_time": 1720962799,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335764,
@@ -129,6 +137,14 @@
       "onboard_time": 1720961419,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333526,
+      "num": 333526,
+      "word": "凯特王妃为阿尔卡拉斯颁奖",
+      "onboard_time": 1720975576,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 332761,
@@ -147,12 +163,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 314247,
-      "num": 314247,
-      "word": "凯特王妃为阿尔卡拉斯颁奖",
-      "onboard_time": 1720975576,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 325879,
+      "num": 228722,
+      "word": "巴黎街头偶遇王一博散步",
+      "onboard_time": 1720967240,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 287335,
@@ -163,8 +179,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279763,
-      "num": 279763,
+      "raw_hot": 279900,
+      "num": 279900,
       "word": "西班牙全胜夺冠",
       "onboard_time": 1720991171,
       "rank": 8,
@@ -179,20 +195,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258439,
-      "num": 164426,
-      "word": "巴黎街头偶遇王一博散步",
-      "onboard_time": 1720967240,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 253202,
+      "num": 253202,
+      "word": "党的二十届三中全会开幕",
+      "onboard_time": 1720999274,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 258256,
-      "num": 162478,
-      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
-      "onboard_time": 1720962799,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 252254,
+      "num": 252254,
+      "word": "入伏",
+      "onboard_time": 1720998976,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243848,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219272,
+      "num": 219272,
+      "word": "西班牙第4次捧起欧洲杯",
+      "onboard_time": 1720999514,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211306,
       "num": 211306,
       "word": "容祖儿 感谢我的爱人",
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201650,
+      "num": 172410,
+      "word": "王一博捡起掉落的国旗",
+      "onboard_time": 1720999936,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183002,
       "num": 183002,
       "word": "奥亚萨瓦尔绝杀",
@@ -259,11 +291,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 171087,
+      "num": 171087,
+      "word": "西班牙",
+      "onboard_time": 1720999335,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169485,
       "num": 169485,
       "word": "欧洲杯",
       "onboard_time": 1720961180,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167843,
+      "num": 167843,
+      "word": "哈里凯恩无冠",
+      "onboard_time": 1720998734,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -307,6 +355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147870,
+      "num": 147870,
+      "word": "美洲杯",
+      "onboard_time": 1720999215,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147472,
       "num": 147472,
       "word": "一夜之后韩总夫人跑了",
@@ -328,14 +384,6 @@
       "word": "西班牙vs英格兰首发",
       "onboard_time": 1720980313,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135350,
-      "num": 135350,
-      "word": "哈里凯恩无冠",
-      "onboard_time": 1720998734,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -427,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108357,
+      "num": 108357,
+      "word": "南门的命不如凯恩的硬",
+      "onboard_time": 1720999755,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105451,
       "num": 105451,
       "word": "温网男单决赛",
@@ -457,14 +513,6 @@
       "onboard_time": 1720974076,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 102556,
-      "num": 102556,
-      "word": "入伏",
-      "onboard_time": 1720998976,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101101,
@@ -521,6 +569,14 @@
       "onboard_time": 1720911913,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 90372,
+      "num": 90372,
+      "word": "想象到孙丞潇的二胎生活了",
+      "onboard_time": 1720997652,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 88419,
@@ -603,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75351,
-      "num": 75351,
-      "word": "想象到孙丞潇的二胎生活了",
-      "onboard_time": 1720997652,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 76023,
+      "num": 76023,
+      "word": "中华田园犬不愧是祖宗严选",
+      "onboard_time": 1720997593,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 73353,
@@ -643,20 +699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68539,
+      "num": 68539,
+      "word": "奥亚萨瓦尔破门",
+      "onboard_time": 1720999876,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63646,
       "num": 63646,
       "word": "亚马尔17岁生日礼物",
       "onboard_time": 1720991712,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63290,
-      "num": 63290,
-      "word": "中华田园犬不愧是祖宗严选",
-      "onboard_time": 1720997593,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 61631,
@@ -707,8 +763,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52337,
-      "num": 58197,
+      "raw_hot": 53393,
+      "num": 68495,
       "word": "亚马尔获欧洲杯最佳年轻球员",
       "onboard_time": 1720992430,
       "rank": 31,
@@ -753,6 +809,14 @@
       "onboard_time": 1720984392,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34134,
+      "num": 537483,
+      "word": "行进的中国如此蓬勃",
+      "onboard_time": 1720963640,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33573,
@@ -833,14 +897,6 @@
       "onboard_time": 1720995312,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26692,
-      "num": 537483,
-      "word": "行进的中国如此蓬勃",
-      "onboard_time": 1720963640,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26521,
