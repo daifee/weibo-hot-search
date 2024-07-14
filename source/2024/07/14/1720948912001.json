@@ -1,0 +1,410 @@
+{
+  "runTime": 1720948912001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 822670,
+        "num": 1131627,
+        "word": "蓝盈莹 用力过猛是松弛的必经之路",
+        "onboard_time": 1720940122,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712591,
+        "num": 712591,
+        "word": "王楚钦北体大毕业",
+        "onboard_time": 1720946601,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50350,
+        "num": 706123,
+        "word": "全面深改进行时",
+        "onboard_time": 1720945761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2381060,
+        "num": 700133,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 846904,
+        "num": 692042,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 14498,
+        "num": 684122,
+        "word": "三中全会是个什么会",
+        "onboard_time": 1720855816,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506656,
+        "num": 679835,
+        "word": "抓娃娃",
+        "onboard_time": 1720942891,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321475,
+        "num": 665770,
+        "word": "枪击特朗普枪手身份确认",
+        "onboard_time": 1720928841,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 315365,
+        "num": 658259,
+        "word": "镖人 刘耀文",
+        "onboard_time": 1720947681,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21348,
+        "num": 652444,
+        "word": "旅客突发疾病3名医学生先后冲来",
+        "onboard_time": 1720948459,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 4512275,
+        "num": 647906,
+        "word": "黄子韬徐艺洋官宣",
+        "onboard_time": 1720943183,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307973,
+        "num": 633855,
+        "word": "一男子购买恋爱保险结婚后理赔遭拒",
+        "onboard_time": 1720940423,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2227948,
+        "num": 627480,
+        "word": "特朗普或因侧头看图表救回一命",
+        "onboard_time": 1720945401,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1471141,
+        "num": 621734,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 616079,
+        "num": 616079,
+        "word": "魏晨首晒孩子背影照",
+        "onboard_time": 1720945582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547546,
+        "num": 547546,
+        "word": "特朗普 人生照片",
+        "onboard_time": 1720930947,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 498596,
+        "num": 498596,
+        "word": "肖战被溅一身可乐的反应",
+        "onboard_time": 1720939941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371163,
+        "num": 371163,
+        "word": "哈药六厂已接待90万游客",
+        "onboard_time": 1720946122,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333811,
+        "num": 333811,
+        "word": "特朗普遇刺照拍摄者是普利策奖得主",
+        "onboard_time": 1720937843,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 314761,
+        "num": 314761,
+        "word": "白敬亭两片装饼干21元",
+        "onboard_time": 1720927041,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381914,
+        "num": 314428,
+        "word": "爸妈给弟弟买了一万的电脑我退群了",
+        "onboard_time": 1720930645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296133,
+        "num": 296133,
+        "word": "这是特朗普最凶险也最高光的时刻",
+        "onboard_time": 1720945521,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291299,
+        "num": 291299,
+        "word": "甜馨回应晒黑",
+        "onboard_time": 1720943960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288411,
+        "num": 288411,
+        "word": "长相思2意难平属于每个角色",
+        "onboard_time": 1720944261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255881,
+        "num": 255881,
+        "word": "枪响后特朗普与安保贴身对话公开",
+        "onboard_time": 1720945220,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249153,
+        "num": 249153,
+        "word": "30余万元本金3年半滚到4553万元",
+        "onboard_time": 1720941801,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 244877,
+        "num": 244877,
+        "word": "32岁女子吹未清洗空调多器官衰竭",
+        "onboard_time": 1720939883,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239284,
+        "num": 239284,
+        "word": "天天吃西红柿会身体发生什么",
+        "onboard_time": 1720939822,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231826,
+        "num": 231826,
+        "word": "他甚至每个都解释了一遍",
+        "onboard_time": 1720943363,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223705,
+        "num": 223705,
+        "word": "Faker科目四",
+        "onboard_time": 1720946902,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348849,
+        "num": 213601,
+        "word": "邹市明吐槽3儿子没一个子承父业",
+        "onboard_time": 1720948161,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201908,
+        "num": 201908,
+        "word": "中方关注特朗普前总统遭遇枪击事件",
+        "onboard_time": 1720943662,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200578,
+        "num": 200578,
+        "word": "央视解说一开口就是满分作文",
+        "onboard_time": 1720945461,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188054,
+        "num": 188054,
+        "word": "DYG夏季赛淘汰",
+        "onboard_time": 1720947741,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 173316,
+        "word": "女子点奶茶疑被老人私自拿走1杯",
+        "onboard_time": 1720939163,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171819,
+        "num": 171819,
+        "word": "13.8 13.11",
+        "onboard_time": 1720913475,
+        "rank": 35,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 163678,
+        "num": 163678,
+        "word": "FBI称确认枪手身份",
+        "onboard_time": 1720940723,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160973,
+        "num": 160973,
+        "word": "熬夜对肝脏的伤害是最大的",
+        "onboard_time": 1720941982,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 157663,
+        "word": "宜宾学院就通知书错字致歉",
+        "onboard_time": 1720947980,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149650,
+        "num": 149650,
+        "word": "荣梓杉 北电新生群",
+        "onboard_time": 1720936284,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149546,
+        "num": 149546,
+        "word": "萨莉亚涨价了",
+        "onboard_time": 1720939291,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134499,
+        "num": 134499,
+        "word": "方大同10月发新专辑",
+        "onboard_time": 1720948100,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132135,
+        "num": 132135,
+        "word": "看过三角恋还是头一次看三角厌",
+        "onboard_time": 1720948888,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131502,
+        "num": 131502,
+        "word": "徐菲徐锦江以父之名的具象化",
+        "onboard_time": 1720948041,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129911,
+        "num": 129911,
+        "word": "迪丽热巴宋威龙合照",
+        "onboard_time": 1720941682,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126384,
+        "num": 126384,
+        "word": "HPV感染风险可能比你想象的要更高",
+        "onboard_time": 1720936764,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125962,
+        "num": 125962,
+        "word": "B型血患癌风险或较低",
+        "onboard_time": 1720948280,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120577,
+        "num": 120577,
+        "word": "丁程鑫进组武训",
+        "onboard_time": 1720947621,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111331,
+        "num": 118085,
+        "word": "重庆105个雨量站大暴雨",
+        "onboard_time": 1720940302,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117710,
+        "num": 117710,
+        "word": "孙俪一家 儿子像妈女儿像爸",
+        "onboard_time": 1720926800,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一串地标领悟习近平的改革之道#"
+    }
+  }
+}
