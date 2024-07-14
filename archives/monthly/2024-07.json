@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720988376813,
+  "endTime": 1720989283932,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -36027,6 +36027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77494,
+      "num": 62860,
+      "word": "亚马尔助攻",
+      "onboard_time": 1720988591,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77486,
       "num": 372450,
       "word": "曾告赢迪士尼的小王同学已是一名律师",
@@ -36233,6 +36241,14 @@
       "onboard_time": 1720746438,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72658,
+      "num": 72658,
+      "word": "尼克威廉姆斯破门",
+      "onboard_time": 1720988412,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 72647,
@@ -37043,6 +37059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60878,
+      "num": 60878,
+      "word": "欧洲杯决赛成防守大战",
+      "onboard_time": 1720986852,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60730,
       "num": 499057,
       "word": "民警下班路上救人经历堪比大片",
@@ -37329,14 +37353,6 @@
       "onboard_time": 1720383191,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 57194,
-      "num": 57194,
-      "word": "欧洲杯决赛成防守大战",
-      "onboard_time": 1720986852,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 57077,
@@ -37977,6 +37993,14 @@
       "onboard_time": 1720864819,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49273,
+      "num": 49273,
+      "word": "西班牙下半场闪电进球",
+      "onboard_time": 1720988832,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 49133,
@@ -39619,6 +39643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30006,
+      "num": 30006,
+      "word": "贝林厄姆穿裆罗德里",
+      "onboard_time": 1720987571,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29859,
       "num": 408566,
       "word": "我国航天员已圆满完成16次出舱活动",
@@ -39769,14 +39801,6 @@
       "onboard_time": 1720591278,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28073,
-      "num": 28073,
-      "word": "贝林厄姆穿裆罗德里",
-      "onboard_time": 1720987571,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 28006,
