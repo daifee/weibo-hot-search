@@ -1,7 +1,15 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1720996575832,
+  "endTime": 1720999138468,
   "band_list": [
+    {
+      "raw_hot": 1829043,
+      "num": 1829043,
+      "word": "西班牙夺得欧洲杯冠军",
+      "onboard_time": 1720990992,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 1048284,
       "num": 165890,
@@ -27,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 796159,
-      "num": 796159,
-      "word": "西班牙夺得欧洲杯冠军",
-      "onboard_time": 1720990992,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 769813,
+      "num": 221246,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 625307,
@@ -41,6 +49,14 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606900,
+      "num": 606900,
+      "word": "这3个体检项目其实是浪费钱",
+      "onboard_time": 1720977913,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 570154,
@@ -91,12 +107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365261,
-      "num": 221246,
-      "word": "枪击特朗普枪手行凶衣着引关注",
-      "onboard_time": 1720969580,
-      "rank": 15,
-      "category": "国外时政"
+      "raw_hot": 377056,
+      "num": 377056,
+      "word": "亚马尔领奖还是没经验",
+      "onboard_time": 1720995011,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 372047,
+      "num": 372047,
+      "word": "迪士尼西班牙区发了刘亦菲花木兰",
+      "onboard_time": 1720981992,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 335764,
@@ -123,12 +147,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 291786,
-      "num": 114695,
-      "word": "这3个体检项目其实是浪费钱",
-      "onboard_time": 1720977913,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "凯特王妃为阿尔卡拉斯颁奖",
+      "onboard_time": 1720975576,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 287335,
@@ -139,12 +163,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279763,
+      "num": 279763,
+      "word": "西班牙全胜夺冠",
+      "onboard_time": 1720991171,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275419,
       "num": 223453,
       "word": "马斯克自曝差点遭到2次暗杀",
       "onboard_time": 1720964480,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 258439,
+      "num": 164426,
+      "word": "巴黎街头偶遇王一博散步",
+      "onboard_time": 1720967240,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258256,
+      "num": 162478,
+      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+      "onboard_time": 1720962799,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243848,
@@ -195,30 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205134,
-      "num": 205134,
-      "word": "迪士尼西班牙区发了刘亦菲花木兰",
-      "onboard_time": 1720981992,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196404,
-      "num": 133409,
-      "word": "凯特王妃为阿尔卡拉斯颁奖",
-      "onboard_time": 1720975576,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187235,
-      "num": 119944,
-      "word": "巴黎街头偶遇王一博散步",
-      "onboard_time": 1720967240,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183002,
       "num": 183002,
       "word": "奥亚萨瓦尔绝杀",
@@ -233,14 +257,6 @@
       "onboard_time": 1720971019,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 174809,
-      "num": 174809,
-      "word": "亚马尔领奖还是没经验",
-      "onboard_time": 1720995011,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 169485,
@@ -315,20 +331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139982,
-      "num": 139982,
-      "word": "西班牙全胜夺冠",
-      "onboard_time": 1720991171,
-      "rank": 8,
+      "raw_hot": 135350,
+      "num": 135350,
+      "word": "哈里凯恩无冠",
+      "onboard_time": 1720998734,
+      "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132684,
-      "num": 83297,
-      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
-      "onboard_time": 1720962799,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 128348,
@@ -336,6 +344,14 @@
       "word": "西班牙队第27人来了",
       "onboard_time": 1720984272,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121553,
+      "num": 121553,
+      "word": "邹市明吐槽3儿子没一个子承父业",
+      "onboard_time": 1720948161,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1720966460,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "西班牙2比1英格兰",
+      "onboard_time": 1720991171,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 116139,
@@ -403,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108180,
-      "num": 108180,
-      "word": "邹市明吐槽3儿子没一个子承父业",
-      "onboard_time": 1720948161,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105451,
       "num": 105451,
       "word": "温网男单决赛",
@@ -443,12 +459,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 102556,
+      "num": 102556,
+      "word": "入伏",
+      "onboard_time": 1720998976,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101101,
+      "num": 101101,
+      "word": "西班牙夺冠含金量",
+      "onboard_time": 1720998135,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96744,
       "num": 96744,
       "word": "椰子水为何干不过柠檬茶",
       "onboard_time": 1720955479,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96511,
+      "num": 96511,
+      "word": "西班牙进球",
+      "onboard_time": 1720998675,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 96130,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84481,
+      "num": 84481,
+      "word": "梅西首发出战美洲杯决赛",
+      "onboard_time": 1720996753,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82772,
       "num": 82772,
       "word": "温网",
@@ -539,11 +587,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79105,
+      "num": 79105,
+      "word": "凯恩再次有金靴无冠军",
+      "onboard_time": 1720996634,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77494,
       "num": 62860,
       "word": "亚马尔助攻",
       "onboard_time": 1720988591,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75351,
+      "num": 75351,
+      "word": "想象到孙丞潇的二胎生活了",
+      "onboard_time": 1720997652,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73353,
+      "num": 73353,
+      "word": "6人共享2024欧洲杯金靴",
+      "onboard_time": 1720995011,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73313,
+      "num": 73313,
+      "word": "阿根廷vs哥伦比亚首发",
+      "onboard_time": 1720997113,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -571,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62914,
-      "num": 62914,
-      "word": "西班牙2比1英格兰",
-      "onboard_time": 1720991171,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 63290,
+      "num": 63290,
+      "word": "中华田园犬不愧是祖宗严选",
+      "onboard_time": 1720997593,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 61631,
@@ -595,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61350,
-      "num": 61350,
-      "word": "6人共享2024欧洲杯金靴",
-      "onboard_time": 1720995011,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60775,
       "num": 51966,
       "word": "罗德里伤退",
@@ -619,16 +691,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58216,
+      "num": 58216,
+      "word": "2024欧洲杯",
+      "onboard_time": 1720998675,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58146,
-      "num": 58146,
+      "num": 58194,
       "word": "威廉王子观战欧洲杯决赛",
       "onboard_time": 1720985292,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 51556,
-      "num": 51556,
+      "raw_hot": 52337,
+      "num": 58197,
       "word": "亚马尔获欧洲杯最佳年轻球员",
       "onboard_time": 1720992430,
       "rank": 31,
@@ -755,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26692,
+      "num": 537483,
+      "word": "行进的中国如此蓬勃",
+      "onboard_time": 1720963640,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26521,
       "num": 26521,
       "word": "亚马尔笑的好开心",
@@ -777,14 +865,6 @@
       "onboard_time": 1720985532,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16061,
-      "num": 537483,
-      "word": "行进的中国如此蓬勃",
-      "onboard_time": 1720963640,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7011,

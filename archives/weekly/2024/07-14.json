@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720996575832,
+  "endTime": 1720999138468,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -89,6 +89,14 @@
       "onboard_time": 1720927520,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1829043,
+      "num": 1829043,
+      "word": "西班牙夺得欧洲杯冠军",
+      "onboard_time": 1720990992,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1639468,
@@ -267,19 +275,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 796159,
-      "num": 796159,
-      "word": "西班牙夺得欧洲杯冠军",
-      "onboard_time": 1720990992,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 776997,
       "num": 776997,
       "word": "拜登暂停所有竞选外出活动",
       "onboard_time": 1720917380,
       "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 769813,
+      "num": 221246,
+      "word": "枪击特朗普枪手行凶衣着引关注",
+      "onboard_time": 1720969580,
+      "rank": 35,
       "category": "国外时政"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1720945582,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606900,
+      "num": 606900,
+      "word": "这3个体检项目其实是浪费钱",
+      "onboard_time": 1720977913,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 601665,
@@ -827,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377056,
+      "num": 377056,
+      "word": "亚马尔领奖还是没经验",
+      "onboard_time": 1720995011,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375294,
       "num": 375294,
       "word": "37岁单身到底有多爽",
@@ -835,20 +859,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372047,
+      "num": 372047,
+      "word": "迪士尼西班牙区发了刘亦菲花木兰",
+      "onboard_time": 1720981992,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368826,
       "num": 368826,
       "word": "甜馨回应晒黑",
       "onboard_time": 1720943960,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365261,
-      "num": 221246,
-      "word": "枪击特朗普枪手行凶衣着引关注",
-      "onboard_time": 1720969580,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 362939,
@@ -995,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "凯特王妃为阿尔卡拉斯颁奖",
+      "onboard_time": 1720975576,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310847,
       "num": 310847,
       "word": "30余万元本金3年半滚到4553万元",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1720939291,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 291786,
-      "num": 114695,
-      "word": "这3个体检项目其实是浪费钱",
-      "onboard_time": 1720977913,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 291374,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1720941742,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279763,
+      "num": 279763,
+      "word": "西班牙全胜夺冠",
+      "onboard_time": 1720991171,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 278510,
@@ -1227,6 +1259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258439,
+      "num": 219715,
+      "word": "巴黎街头偶遇王一博散步",
+      "onboard_time": 1720967240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258256,
+      "num": 239255,
+      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+      "onboard_time": 1720962799,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255621,
       "num": 255621,
       "word": "云南牛奶自带插孔吸管震惊北方人",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1720926440,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239255,
-      "num": 239255,
-      "word": "女爱豆宣誓绝对不找丑人谈恋爱",
-      "onboard_time": 1720962799,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236830,
@@ -1451,14 +1491,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 219715,
-      "num": 219715,
-      "word": "巴黎街头偶遇王一博散步",
-      "onboard_time": 1720967240,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1720931305,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205134,
-      "num": 205134,
-      "word": "迪士尼西班牙区发了刘亦菲花木兰",
-      "onboard_time": 1720981992,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 204979,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1720915216,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 196404,
-      "num": 133409,
-      "word": "凯特王妃为阿尔卡拉斯颁奖",
-      "onboard_time": 1720975576,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 196315,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1720926500,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 174809,
-      "num": 174809,
-      "word": "亚马尔领奖还是没经验",
-      "onboard_time": 1720995011,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 172822,
@@ -2307,14 +2315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139982,
-      "num": 139982,
-      "word": "西班牙全胜夺冠",
-      "onboard_time": 1720991171,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139824,
       "num": 139824,
       "word": "黄明昊 演技",
@@ -2361,6 +2361,14 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135350,
+      "num": 135350,
+      "word": "哈里凯恩无冠",
+      "onboard_time": 1720998734,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 135139,
@@ -2627,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "西班牙2比1英格兰",
+      "onboard_time": 1720991171,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117801,
       "num": 255270,
       "word": "沈月好可爱",
@@ -2779,6 +2795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102556,
+      "num": 102556,
+      "word": "入伏",
+      "onboard_time": 1720998976,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101414,
       "num": 101414,
       "word": "魔性疏通结节操",
@@ -2793,6 +2817,22 @@
       "onboard_time": 1720960940,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 101101,
+      "num": 101101,
+      "word": "西班牙夺冠含金量",
+      "onboard_time": 1720998135,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96511,
+      "num": 96511,
+      "word": "西班牙进球",
+      "onboard_time": 1720998675,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 96130,
@@ -2859,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84481,
+      "num": 84481,
+      "word": "梅西首发出战美洲杯决赛",
+      "onboard_time": 1720996753,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81028,
       "num": 1076257,
       "word": "二十届三中全会是个什么会",
@@ -2880,6 +2928,14 @@
       "word": "欧洲杯决赛成防守大战",
       "onboard_time": 1720986852,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79105,
+      "num": 79105,
+      "word": "凯恩再次有金靴无冠军",
+      "onboard_time": 1720996634,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -2907,12 +2963,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75351,
+      "num": 75351,
+      "word": "想象到孙丞潇的二胎生活了",
+      "onboard_time": 1720997652,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73815,
       "num": 254369,
       "word": "你比星光美丽",
       "onboard_time": 1720888396,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73353,
+      "num": 73353,
+      "word": "6人共享2024欧洲杯金靴",
+      "onboard_time": 1720995011,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73313,
+      "num": 73313,
+      "word": "阿根廷vs哥伦比亚首发",
+      "onboard_time": 1720997113,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 72658,
@@ -3011,12 +3091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62914,
-      "num": 62914,
-      "word": "西班牙2比1英格兰",
-      "onboard_time": 1720991171,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 63290,
+      "num": 63290,
+      "word": "中华田园犬不愧是祖宗严选",
+      "onboard_time": 1720997593,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 62314,
@@ -3033,14 +3113,6 @@
       "onboard_time": 1720978394,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61350,
-      "num": 61350,
-      "word": "6人共享2024欧洲杯金靴",
-      "onboard_time": 1720995011,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 61267,
@@ -3075,8 +3147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58216,
+      "num": 58216,
+      "word": "2024欧洲杯",
+      "onboard_time": 1720998675,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58146,
-      "num": 58146,
+      "num": 58194,
       "word": "威廉王子观战欧洲杯决赛",
       "onboard_time": 1720985292,
       "rank": 37,
@@ -3155,8 +3235,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 51556,
-      "num": 51556,
+      "raw_hot": 52337,
+      "num": 58197,
       "word": "亚马尔获欧洲杯最佳年轻球员",
       "onboard_time": 1720992430,
       "rank": 31,
@@ -3371,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26692,
+      "num": 537483,
+      "word": "行进的中国如此蓬勃",
+      "onboard_time": 1720963640,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26521,
       "num": 26521,
       "word": "亚马尔笑的好开心",
@@ -3473,14 +3561,6 @@
       "onboard_time": 1720887856,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16061,
-      "num": 537483,
-      "word": "行进的中国如此蓬勃",
-      "onboard_time": 1720963640,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16039,
