@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 11:39:25
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 12:26:37
 </p>
 </blockquote>
 <p>
@@ -45,20 +45,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+奥巴马就特朗普遭枪击发声（热度：1831971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2313.8%2013.11%23" target="weibo">
 13.8 13.11（热度：1639468）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-奥巴马就特朗普遭枪击发声（热度：1557290）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%23" target="weibo">
+女孩（热度：1467557）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%23" target="weibo">
-女孩（热度：1467557）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%A4%E7%89%87%E8%A3%85%E9%A5%BC%E5%B9%B221%E5%85%83%23" target="weibo">
+白敬亭两片装饼干21元（热度：1262163）
 </a>
 </li>
 
@@ -71,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%AC%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E7%AE%80%E6%8A%A5%23" target="weibo">
 拜登听取特朗普枪击事件简报（热度：1114004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4%23" target="weibo">
+枪击特朗普枪手身份确认（热度：1100084）
 </a>
 </li>
 
@@ -94,7 +106,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E4%B8%80%E5%AE%B6%20%E5%84%BF%E5%AD%90%E5%83%8F%E5%A6%88%E5%A5%B3%E5%84%BF%E5%83%8F%E7%88%B8%23" target="weibo">
-孙俪一家 儿子像妈女儿像爸（热度：930962）
+孙俪一家 儿子像妈女儿像爸（热度：1031379）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%23" target="weibo">
+汪峰（热度：863173）
 </a>
 </li>
 
@@ -111,14 +129,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%A4%E7%89%87%E8%A3%85%E9%A5%BC%E5%B9%B221%E5%85%83%23" target="weibo">
-白敬亭两片装饼干21元（热度：762035）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+拜登谴责特朗普竞选集会枪击事件（热度：711437）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
-拜登谴责特朗普竞选集会枪击事件（热度：711437）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E5%8D%A1%E5%8F%91%E5%A3%B0%23" target="weibo">
+伊万卡发声（热度：688301）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E4%B8%87%E7%9A%84%E7%94%B5%E8%84%91%E6%88%91%E9%80%80%E7%BE%A4%E4%BA%86%23" target="weibo">
+爸妈给弟弟买了一万的电脑我退群了（热度：627548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E%23" target="weibo">
+少年白马醉春风（热度：601665）
 </a>
 </li>
 
@@ -189,6 +219,12 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E7%81%AB%E7%82%AC%E6%89%8B%E5%AE%98%E5%AE%A3%23" target="weibo">
+王一博巴黎奥运火炬手官宣（热度：442531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%9E%AA%E6%89%8B%E6%88%96%E4%B8%BA%E7%8B%99%E5%87%BB%E6%89%8B%23" target="weibo">
 特朗普枪击事件枪手或为狙击手（热度：438882）
 </a>
@@ -197,12 +233,6 @@ Henry没认出黄磊（热度：588202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23" target="weibo">
 拜登发布声明（热度：437649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E%23" target="weibo">
-少年白马醉春风（热度：436980）
 </a>
 </li>
 
@@ -239,12 +269,6 @@ Henry没认出黄磊（热度：588202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A6%812%E4%B8%AA%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B8%80%E6%AC%A1%23" target="weibo">
 卫生巾要2个小时换一次（热度：362939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%23" target="weibo">
-汪峰（热度：361877）
 </a>
 </li>
 
@@ -291,6 +315,12 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%85%83%E9%A5%AE%E6%96%99%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+3元饮料又回来了（热度：334661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E7%9F%A5%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23" target="weibo">
 多位知名运动员无缘巴黎奥运会（热度：328840）
 </a>
@@ -321,8 +351,20 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%90%88%E4%BD%9C%E6%91%87%E6%BB%9A%E8%8E%AB%E6%89%8E%E7%89%B9%E4%B8%BB%E5%88%9B%23" target="weibo">
+恋与深空合作摇滚莫扎特主创（热度：287465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%20%E4%BA%8C%E5%A9%9A%E8%AE%BE%E5%AE%9A%23" target="weibo">
 抓娃娃 二婚设定（热度：287405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E7%A7%B0%E6%8F%90%E5%89%8D%E7%9C%8B%E5%88%B0%E6%9E%AA%E6%89%8B%E5%B9%B6%E5%91%8A%E7%9F%A5%E8%AD%A6%E5%AF%9F%23" target="weibo">
+特朗普支持者称提前看到枪手并告知警察（热度：287109）
 </a>
 </li>
 
@@ -335,6 +377,18 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%80%9F%E7%BB%99%E8%88%85%E8%88%85%E5%84%BF%E5%AD%9050w%E4%B9%B0%E6%88%BF%23" target="weibo">
 爸爸借给舅舅儿子50w买房（热度：278510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GLASS%20%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23" target="weibo">
+GLASS 十个勤天（热度：278138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+美国史上有9位总统遇刺其中4人遇难（热度：262251）
 </a>
 </li>
 
@@ -359,6 +413,12 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
 美国总统（热度：247954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%9B%BE%E8%88%9C%E6%99%9E%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+歌手曾舜晞回来了（热度：243710）
 </a>
 </li>
 
@@ -393,6 +453,18 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%B0%E6%88%BF%E4%BA%86%E4%BA%B2%E6%88%9A%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
+我买房了亲戚破防了（热度：227513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%A2%84%E8%A8%80%E5%A4%B1%E8%B4%A5%23" target="weibo">
+辛普森一家第一次预言失败（热度：224537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A6%81%E7%A9%BF%E4%B8%8A%E8%A1%A3%E6%9C%8D%23" target="weibo">
 建议大家人脸识别要穿上衣服（热度：223301）
 </a>
@@ -411,6 +483,18 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B3%A2%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+南波万演唱会（热度：217891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23FBI%E7%89%B5%E5%A4%B4%E8%B0%83%E6%9F%A5%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%23" target="weibo">
+FBI牵头调查特朗普遭枪击（热度：213214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%AD%90%E5%BC%B9%E6%93%A6%E4%BC%A4%23" target="weibo">
 美媒称特朗普被子弹擦伤（热度：212613）
 </a>
@@ -425,6 +509,12 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%99%92%E8%83%8C10%E5%A4%A9%E7%98%A6%E4%BA%864%E6%96%A4%23" target="weibo">
 女子称晒背10天瘦了4斤（热度：204979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%20%E4%BA%BA%E7%94%9F%E7%85%A7%E7%89%87%23" target="weibo">
+特朗普 人生照片（热度：204460）
 </a>
 </li>
 
@@ -453,6 +543,12 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%B0%E5%A9%B4%E5%84%BF%E8%BD%A6%E7%AA%81%E7%84%B6%E6%95%A3%E6%9E%B6%E8%87%B4%E5%AE%9D%E5%AE%9D%E6%91%94%E5%9C%B0%E4%B8%8A%23" target="weibo">
+新买婴儿车突然散架致宝宝摔地上（热度：190651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%B9%BF%E6%B0%94%E9%87%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
 身体湿气重是什么感觉（热度：190580）
 </a>
@@ -477,12 +573,6 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-美国史上有9位总统遇刺其中4人遇难（热度：178627）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8%23" target="weibo">
 重庆暴雨（热度：176897）
 </a>
@@ -495,14 +585,14 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E7%BE%8E%E8%B2%8C%23" target="weibo">
-陈昊宇美貌（热度：172822）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E9%83%BD%E4%B8%8D%E7%99%BD%E6%9D%A5%E5%97%B7%23" target="weibo">
+张碧晨演唱会都不白来嗷（热度：174068）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%B0%E6%88%BF%E4%BA%86%E4%BA%B2%E6%88%9A%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
-我买房了亲戚破防了（热度：170835）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E7%BE%8E%E8%B2%8C%23" target="weibo">
+陈昊宇美貌（热度：172822）
 </a>
 </li>
 
@@ -543,6 +633,12 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%87%91%E6%AF%9B%E6%91%94%E5%BE%97%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%23" target="weibo">
+小金毛摔得乱七八糟的（热度：157243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E7%82%B9%E4%B8%8A%E7%8F%AD%E8%A6%81%E6%B1%828%E7%82%B950%E5%B0%B1%E5%88%B0%23" target="weibo">
 九点上班要求8点50就到（热度：155866）
 </a>
@@ -567,6 +663,12 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9B%B9%E8%B4%B5%E4%BA%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97%23" target="weibo">
+甄嬛传曹贵人叫什么名字（热度：152953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E6%80%8E%E4%B9%88%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%9D%90%E7%9A%84%E5%95%8A%23" target="weibo">
 高铁怎么还有这么坐的啊（热度：152364）
 </a>
@@ -581,6 +683,12 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%88%E5%9C%A8%E5%BD%93GAI%E6%BA%9C%E5%AD%90%23" target="weibo">
 刘亦菲又在当GAI溜子（热度：149985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%AE%B9%E5%8D%BF%E4%B8%80%E8%BE%B9%E6%AF%81%E7%81%AD%E4%B8%80%E8%BE%B9%E6%B1%82%E5%85%A8%23" target="weibo">
+苏容卿一边毁灭一边求全（热度：147500）
 </a>
 </li>
 
@@ -605,12 +713,6 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E5%B8%AE%E6%88%91%E5%B8%A6%E9%A5%AD%E9%83%BD%E6%98%AF%E7%B4%A0%E8%8F%9C%E6%94%B65%E5%85%83%23" target="weibo">
 同事帮我带饭都是素菜收5元（热度：145026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9B%B9%E8%B4%B5%E4%BA%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97%23" target="weibo">
-甄嬛传曹贵人叫什么名字（热度：143501）
 </a>
 </li>
 
@@ -713,12 +815,6 @@ Henry以为吃火锅会去世（热度：343098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E5%A5%BD%E5%8F%AF%E7%88%B1%23" target="weibo">
 沈月好可爱（热度：117801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E5%8D%A1%E5%8F%91%E5%A3%B0%23" target="weibo">
-伊万卡发声（热度：116510）
 </a>
 </li>
 
@@ -855,6 +951,12 @@ DRG战胜AG（热度：65146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%88%86%E5%B7%A5%E4%B8%80%E6%9D%A1%E9%BE%99%E5%BC%8F%E5%B8%AE%E6%95%91%E7%81%AB%23" target="weibo">
+3名小学生分工一条龙式帮救火（热度：64751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E8%B6%85%E7%BB%9D%E6%9D%BE%E5%BC%9B%E6%84%9F%23" target="weibo">
 AG超绝松弛感（热度：63319）
 </a>
@@ -935,6 +1037,12 @@ AG名将退役仪式（热度：56672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A4%A7%E8%88%AA%E6%B5%B7%E8%B6%85%E9%95%BF%E7%BB%AD%E8%88%AA%23" target="weibo">
 张艺兴大航海超长续航（热度：44133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9F%8E%E4%B8%80%E8%8A%B1%E4%B8%80%E6%9D%AF%E8%8C%B6%23" target="weibo">
+一城一花一杯茶（热度：43588）
 </a>
 </li>
 
