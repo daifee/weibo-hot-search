@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720935493577,
+  "endTime": 1720938516424,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571635,
+      "num": 257540,
+      "word": "荣梓杉 北电新生群",
+      "onboard_time": 1720936284,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560868,
       "num": 560868,
       "word": "特朗普支持者称提前看到枪手并告知警察",
@@ -264,6 +272,22 @@
       "word": "刺杀特朗普枪手为一白人男性",
       "onboard_time": 1720926560,
       "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 526221,
+      "num": 526221,
+      "word": "枪手用步枪打了8发子弹",
+      "onboard_time": 1720934364,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 520958,
+      "num": 209205,
+      "word": "特朗普遇刺6小时后首次露面",
+      "onboard_time": 1720938203,
+      "rank": 30,
       "category": "国外时政"
     },
     {
@@ -289,6 +313,14 @@
       "onboard_time": 1720930585,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 494088,
+      "num": 1652342,
+      "word": "12部国产动画加入暑期档",
+      "onboard_time": 1720934666,
+      "rank": 1,
+      "category": "动漫"
     },
     {
       "raw_hot": 490560,
@@ -499,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302603,
+      "num": 208588,
+      "word": "特朗普遇刺照拍摄者是普利策奖得主",
+      "onboard_time": 1720937843,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 299283,
       "num": 299283,
       "word": "FBI牵头调查特朗普遭枪击",
@@ -513,14 +553,6 @@
       "onboard_time": 1720914555,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 294659,
-      "num": 1652342,
-      "word": "12部国产动画加入暑期档",
-      "onboard_time": 1720934666,
-      "rank": 1,
-      "category": "动漫"
     },
     {
       "raw_hot": 291374,
@@ -587,14 +619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 276683,
-      "num": 276683,
-      "word": "枪手用步枪打了8发子弹",
-      "onboard_time": 1720934364,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 272501,
       "num": 272501,
       "word": "新买婴儿车突然散架致宝宝摔地上",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 272162,
-      "num": 272162,
+      "num": 776747,
       "word": "度华年番外",
       "onboard_time": 1720932686,
       "rank": 31,
@@ -627,6 +651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 261922,
+      "num": 254976,
+      "word": "HPV感染风险可能比你想象的要更高",
+      "onboard_time": 1720936764,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261224,
       "num": 256510,
       "word": "亚马尔16岁为家人买三套房",
@@ -641,6 +673,14 @@
       "onboard_time": 1720912694,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253383,
+      "num": 253383,
+      "word": "杨迪下次别信黄子弘凡了",
+      "onboard_time": 1720935745,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 248032,
@@ -731,6 +771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 222577,
+      "num": 222577,
+      "word": "在厕所被塞小纸条了",
+      "onboard_time": 1720936044,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221599,
       "num": 221599,
       "word": "为什么说晚上洗头生湿气",
@@ -803,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "索尼A9",
+      "onboard_time": 1720937304,
+      "rank": 33,
+      "category": "国外时政,数码"
+    },
+    {
       "raw_hot": 198284,
       "num": 198284,
       "word": "回家后发现我的房间被表妹霸占了",
@@ -851,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192256,
+      "num": 188048,
+      "word": "丁真控诉牛在在扇他耳光",
+      "onboard_time": 1720937905,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190580,
       "num": 190580,
       "word": "身体湿气重是什么感觉",
@@ -873,6 +937,14 @@
       "onboard_time": 1720923378,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 183503,
+      "num": 183503,
+      "word": "金灿荣评特朗普遭枪击",
+      "onboard_time": 1720936824,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 180952,
@@ -907,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175499,
+      "num": 175499,
+      "word": "愿我们永远是我们",
+      "onboard_time": 1720937125,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175337,
       "num": 175337,
       "word": "刺杀特朗普枪手持半自动步枪",
@@ -937,6 +1017,14 @@
       "onboard_time": 1720913835,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168436,
+      "num": 168436,
+      "word": "爸爸当家",
+      "onboard_time": 1720936104,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 168277,
@@ -977,6 +1065,14 @@
       "onboard_time": 1720921940,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 157500,
+      "num": 157500,
+      "word": "王鸥爆炸头",
+      "onboard_time": 1720938084,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157243,
@@ -1043,12 +1139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150064,
+      "num": 150064,
+      "word": "特朗普竞选集会观众目睹邻座男子中枪身亡",
+      "onboard_time": 1720936703,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 149985,
       "num": 257891,
       "word": "刘亦菲又在当GAI溜子",
       "onboard_time": 1720882880,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147965,
+      "num": 147965,
+      "word": "特朗普枪击事件大概率不是自导自演",
+      "onboard_time": 1720936164,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147254,
@@ -1081,6 +1193,14 @@
       "onboard_time": 1720913775,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143306,
+      "num": 143306,
+      "word": "王勉满脑子都是策略",
+      "onboard_time": 1720937723,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142247,
@@ -1281,6 +1401,14 @@
       "onboard_time": 1720877059,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105436,
+      "num": 775652,
+      "word": "几百块回收废旧家电翻新后卖1500",
+      "onboard_time": 1720936284,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105410,
@@ -1531,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39849,
+      "num": 1161869,
+      "word": "巴黎奥运会热门项目观赛日历",
+      "onboard_time": 1720938203,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37483,
       "num": 113524,
       "word": "温网2024",
@@ -1689,6 +1825,14 @@
       "onboard_time": 1720893432,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6159,
+      "num": 141769,
+      "word": "周深小学老师存了他03年的唱歌磁带",
+      "onboard_time": 1720938444,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
