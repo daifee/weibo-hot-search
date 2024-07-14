@@ -1,10 +1,10 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720927414042,
+  "endTime": 1720928365744,
   "band_list": [
     {
-      "raw_hot": 11311171,
-      "num": 11311171,
+      "raw_hot": 11328266,
+      "num": 11328266,
       "word": "特朗普称右耳被子弹击穿",
       "onboard_time": 1720919238,
       "rank": 1,
@@ -51,7 +51,7 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 1483987,
+      "raw_hot": 1557290,
       "num": 358308,
       "word": "奥巴马就特朗普遭枪击发声",
       "onboard_time": 1720924700,
@@ -107,6 +107,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 930962,
+      "num": 283057,
+      "word": "孙俪一家 儿子像妈女儿像爸",
+      "onboard_time": 1720926800,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 810587,
+      "num": 318776,
+      "word": "因为录取通知书跟爸妈吵架了",
+      "onboard_time": 1720924339,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 776997,
       "num": 776997,
       "word": "拜登暂停所有竞选外出活动",
@@ -115,20 +131,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 762035,
+      "num": 323124,
+      "word": "白敬亭两片装饼干21元",
+      "onboard_time": 1720927041,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
       "onboard_time": 1720923199,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 708146,
-      "num": 318776,
-      "word": "因为录取通知书跟爸妈吵架了",
-      "onboard_time": 1720924339,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 601543,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532614,
+      "num": 322812,
+      "word": "刺杀特朗普枪手为一白人男性",
+      "onboard_time": 1720926560,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 519304,
       "num": 371473,
       "word": "特朗普团队发声",
@@ -203,10 +227,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462076,
+      "num": 221570,
+      "word": "拜登同特朗普通电话",
+      "onboard_time": 1720927940,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 438882,
       "num": 370682,
       "word": "特朗普枪击事件枪手或为狙击手",
       "onboard_time": 1720919238,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 437649,
+      "num": 335581,
+      "word": "拜登发布声明",
+      "onboard_time": 1720923199,
       "rank": 14,
       "category": "国外时政"
     },
@@ -217,14 +257,6 @@
       "onboard_time": 1720924101,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 433981,
-      "num": 269957,
-      "word": "孙俪一家 儿子像妈女儿像爸",
-      "onboard_time": 1720926800,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 424079,
@@ -251,14 +283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 404704,
-      "num": 335581,
-      "word": "拜登发布声明",
-      "onboard_time": 1720923199,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 398212,
       "num": 369722,
       "word": "美特勤局称特朗普情况安全",
@@ -276,11 +300,19 @@
     },
     {
       "raw_hot": 362939,
-      "num": 321423,
+      "num": 322594,
       "word": "卫生巾要2个小时换一次",
       "onboard_time": 1720912994,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361877,
+      "num": 322607,
+      "word": "汪峰",
+      "onboard_time": 1720927520,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 360963,
@@ -323,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343098,
+      "num": 263735,
+      "word": "Henry以为吃火锅会去世",
+      "onboard_time": 1720926560,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340076,
       "num": 316497,
       "word": "李斯丹妮上身身材",
@@ -347,36 +387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301431,
-      "num": 263735,
-      "word": "Henry以为吃火锅会去世",
-      "onboard_time": 1720926560,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 298608,
-      "num": 298608,
-      "word": "刺杀特朗普枪手为一白人男性",
-      "onboard_time": 1720926560,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 298348,
       "num": 298348,
       "word": "特朗普演讲枪击案嫌疑人被击毙",
       "onboard_time": 1720914555,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 292400,
-      "num": 292400,
-      "word": "白敬亭两片装饼干21元",
-      "onboard_time": 1720927041,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 291374,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248032,
+      "num": 248032,
+      "word": "长大后才知道小学课本里都是细糠",
+      "onboard_time": 1720925059,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247954,
       "num": 247954,
       "word": "美国总统",
@@ -443,12 +467,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 244664,
-      "num": 244664,
-      "word": "长大后才知道小学课本里都是细糠",
-      "onboard_time": 1720925059,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 240072,
+      "num": 240072,
+      "word": "范世錡买了萧敬腾歌版权",
+      "onboard_time": 1720926440,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 236830,
@@ -467,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230051,
+      "num": 323574,
+      "word": "崔永熙",
+      "onboard_time": 1720926921,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228670,
       "num": 228670,
       "word": "拜登回应特朗普遭枪击是否为暗杀",
@@ -483,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 221599,
+      "num": 221599,
+      "word": "为什么说晚上洗头生湿气",
+      "onboard_time": 1720925781,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218282,
       "num": 218282,
       "word": "山下智久来了",
@@ -497,14 +537,6 @@
       "onboard_time": 1720918819,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 211653,
-      "num": 211653,
-      "word": "范世錡买了萧敬腾歌版权",
-      "onboard_time": 1720926440,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 208528,
@@ -528,6 +560,14 @@
       "word": "什么工作未来几十年都不会失业",
       "onboard_time": 1720913775,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198284,
+      "num": 198284,
+      "word": "回家后发现我的房间被表妹霸占了",
+      "onboard_time": 1720926560,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -563,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188514,
-      "num": 188514,
-      "word": "为什么说晚上洗头生湿气",
-      "onboard_time": 1720925781,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 187595,
       "num": 187595,
       "word": "王一博香奈儿采访part",
@@ -585,6 +617,14 @@
       "onboard_time": 1720915578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178627,
+      "num": 178627,
+      "word": "美国史上有9位总统遇刺其中4人遇难",
+      "onboard_time": 1720927881,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176897,
@@ -603,20 +643,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 174538,
-      "num": 174538,
-      "word": "回家后发现我的房间被表妹霸占了",
-      "onboard_time": 1720926560,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172822,
       "num": 258397,
       "word": "陈昊宇美貌",
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170835,
+      "num": 170835,
+      "word": "我买房了亲戚破防了",
+      "onboard_time": 1720927460,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 170191,
@@ -635,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167387,
-      "num": 167387,
-      "word": "崔永熙",
-      "onboard_time": 1720926921,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 168277,
+      "num": 168277,
+      "word": "特朗普遭遇暗杀最新视频曝光",
+      "onboard_time": 1720928061,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 165551,
@@ -673,6 +713,14 @@
       "onboard_time": 1720913114,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154953,
+      "num": 154953,
+      "word": "牙齿正畸有时太早反而影响面型",
+      "onboard_time": 1720926258,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154447,
@@ -747,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143501,
+      "num": 143501,
+      "word": "甄嬛传曹贵人叫什么名字",
+      "onboard_time": 1720926921,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142247,
       "num": 256718,
       "word": "奥利回应第一名是乐华买的",
@@ -769,14 +825,6 @@
       "onboard_time": 1720926319,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 136817,
-      "num": 136817,
-      "word": "牙齿正畸有时太早反而影响面型",
-      "onboard_time": 1720926258,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136746,
@@ -808,6 +856,14 @@
       "word": "一个老爷爷的干净小摊子",
       "onboard_time": 1720922300,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128516,
+      "num": 128516,
+      "word": "一元一斤空心菜根本摘不完",
+      "onboard_time": 1720927222,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -881,6 +937,14 @@
       "onboard_time": 1720880780,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116510,
+      "num": 116510,
+      "word": "伊万卡发声",
+      "onboard_time": 1720928300,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 113251,
@@ -1195,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34163,
+      "num": 323373,
+      "word": "眉山东坡泡菜年销售超220亿",
+      "onboard_time": 1720927280,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31641,
       "num": 113504,
       "word": "AG对战DRG",
@@ -1217,14 +1289,6 @@
       "onboard_time": 1720896613,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25919,
-      "num": 283925,
-      "word": "眉山东坡泡菜年销售超220亿",
-      "onboard_time": 1720927280,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20573,
