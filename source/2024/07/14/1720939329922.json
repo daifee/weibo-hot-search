@@ -1,0 +1,410 @@
+{
+  "runTime": 1720939329922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440214,
+        "num": 1278632,
+        "word": "12部国产动画加入暑期档",
+        "onboard_time": 1720934666,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 234140,
+        "num": 1258923,
+        "word": "少年白马醉春风",
+        "onboard_time": 1720924101,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37723,
+        "num": 1097343,
+        "word": "全国演出市场上半年票房收入超190亿元",
+        "onboard_time": 1720934425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4203600,
+        "num": 953135,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1477483,
+        "num": 762461,
+        "word": "特朗普遭遇枪击",
+        "onboard_time": 1720911913,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 683691,
+        "num": 683691,
+        "word": "枪击特朗普枪手身份确认",
+        "onboard_time": 1720928841,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216534,
+        "num": 681484,
+        "word": "王一博巴黎奥运火炬手官宣",
+        "onboard_time": 1720930585,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184118,
+        "num": 678439,
+        "word": "歌手曾舜晞回来了",
+        "onboard_time": 1720930765,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161805,
+        "num": 673594,
+        "word": "爸爸当家",
+        "onboard_time": 1720936104,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124013,
+        "num": 673103,
+        "word": "几百块回收废旧家电翻新后卖1500",
+        "onboard_time": 1720936284,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285823,
+        "num": 667617,
+        "word": "特朗普 人生照片",
+        "onboard_time": 1720930947,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1050054,
+        "num": 665769,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 662595,
+        "num": 662595,
+        "word": "13.8 13.11",
+        "onboard_time": 1720913475,
+        "rank": 12,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 619595,
+        "num": 619595,
+        "word": "奥巴马就特朗普遭枪击发声",
+        "onboard_time": 1720924700,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 619362,
+        "num": 619362,
+        "word": "汪峰",
+        "onboard_time": 1720927520,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575454,
+        "num": 575454,
+        "word": "白敬亭两片装饼干21元",
+        "onboard_time": 1720927041,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469378,
+        "num": 469378,
+        "word": "特朗普遇刺照拍摄者是普利策奖得主",
+        "onboard_time": 1720937843,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 463926,
+        "num": 463926,
+        "word": "枪手用步枪打了8发子弹",
+        "onboard_time": 1720934364,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319264,
+        "num": 319264,
+        "word": "肖战工作室",
+        "onboard_time": 1720933766,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294753,
+        "num": 294753,
+        "word": "刚上高铁就碰到公主巨婴了",
+        "onboard_time": 1720913174,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 575736,
+        "num": 293362,
+        "word": "爸妈给弟弟买了一万的电脑我退群了",
+        "onboard_time": 1720930645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484625,
+        "num": 284370,
+        "word": "荣梓杉 北电新生群",
+        "onboard_time": 1720936284,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317280,
+        "num": 274878,
+        "word": "孙俪一家 儿子像妈女儿像爸",
+        "onboard_time": 1720926800,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265192,
+        "num": 265192,
+        "word": "HPV感染风险可能比你想象的要更高",
+        "onboard_time": 1720936764,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246538,
+        "num": 246538,
+        "word": "在厕所被塞小纸条了",
+        "onboard_time": 1720936044,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239374,
+        "num": 239374,
+        "word": "特朗普曾喊让我拿鞋",
+        "onboard_time": 1720933826,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209016,
+        "num": 209016,
+        "word": "ENHYPEN 注水",
+        "onboard_time": 1720932205,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200828,
+        "num": 200828,
+        "word": "杨迪下次别信黄子弘凡了",
+        "onboard_time": 1720935745,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145911,
+        "num": 196204,
+        "word": "度华年番外",
+        "onboard_time": 1720932686,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193697,
+        "num": 193697,
+        "word": "丁真控诉牛在在扇他耳光",
+        "onboard_time": 1720937905,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192711,
+        "num": 192711,
+        "word": "鞠婧祎内娱首位女星超话钻3",
+        "onboard_time": 1720934725,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190809,
+        "num": 190809,
+        "word": "王鸥爆炸头",
+        "onboard_time": 1720938084,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190122,
+        "num": 190122,
+        "word": "记者拍到子弹划过特朗普耳朵画面",
+        "onboard_time": 1720924339,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185514,
+        "num": 185514,
+        "word": "3元饮料又回来了",
+        "onboard_time": 1720928901,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "老来离婚的女性往往过得更好",
+        "onboard_time": 1720932205,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "新买婴儿车突然散架致宝宝摔地上",
+        "onboard_time": 1720929200,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178715,
+        "num": 178715,
+        "word": "索尼A9",
+        "onboard_time": 1720937304,
+        "rank": 36,
+        "category": "国外时政,数码"
+      },
+      {
+        "raw_hot": 167585,
+        "num": 167585,
+        "word": "萨莉亚涨价了",
+        "onboard_time": 1720939291,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164016,
+        "num": 164016,
+        "word": "伊万卡发声",
+        "onboard_time": 1720928300,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 12972,
+        "num": 162249,
+        "word": "周深小学老师存了他03年的唱歌磁带",
+        "onboard_time": 1720938444,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162052,
+        "num": 162052,
+        "word": "特朗普人生照片是怎样诞生的",
+        "onboard_time": 1720938683,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 66226,
+        "num": 160319,
+        "word": "巴黎奥运会热门项目观赛日历",
+        "onboard_time": 1720938203,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160240,
+        "num": 160240,
+        "word": "特朗普支持者称提前看到枪手并告知警察",
+        "onboard_time": 1720930645,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145670,
+        "num": 145670,
+        "word": "辛普森一家第一次预言失败",
+        "onboard_time": 1720930645,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139772,
+        "num": 139772,
+        "word": "女子点奶茶疑被老人私自拿走1杯",
+        "onboard_time": 1720939163,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136067,
+        "num": 136067,
+        "word": "愿我们永远是我们",
+        "onboard_time": 1720937125,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "特朗普枪击事件大概率不是自导自演",
+        "onboard_time": 1720936164,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132325,
+        "num": 132325,
+        "word": "特朗普竞选集会观众目睹邻座男子中枪身亡",
+        "onboard_time": 1720936703,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127058,
+        "num": 127058,
+        "word": "范世錡工作室发文回应",
+        "onboard_time": 1720932745,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126217,
+        "num": 126217,
+        "word": "因为录取通知书跟爸妈吵架了",
+        "onboard_time": 1720924339,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#拿出更多改革创新举措把问题解决好#"
+    }
+  }
+}

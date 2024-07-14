@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 14:28:36
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/14 14:42:09
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA6%E5%B0%8F%E6%97%B6%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23" target="weibo">
+特朗普遇刺6小时后首次露面（热度：1050054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E4%B8%80%E5%AE%B6%20%E5%84%BF%E5%AD%90%E5%83%8F%E5%A6%88%E5%A5%B3%E5%84%BF%E5%83%8F%E7%88%B8%23" target="weibo">
 孙俪一家 儿子像妈女儿像爸（热度：1031379）
 </a>
@@ -225,12 +231,6 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA6%E5%B0%8F%E6%97%B6%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23" target="weibo">
-特朗普遇刺6小时后首次露面（热度：520958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 特朗普团队发声（热度：519304）
 </a>
@@ -263,6 +263,12 @@ Henry没认出黄磊（热度：588202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E5%A4%A7%E4%B8%BA%E8%AE%A9%E9%9D%9E%E8%AF%9A%E5%8B%BF%E6%89%B0%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%91%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%AD%A6%E4%B9%A0%23" target="weibo">
 佟大为让非诚勿扰女嘉宾向黄亦玫学习（热度：472140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E7%85%A7%E6%8B%8D%E6%91%84%E8%80%85%E6%98%AF%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96%E5%BE%97%E4%B8%BB%23" target="weibo">
+特朗普遇刺照拍摄者是普利策奖得主（热度：469378）
 </a>
 </li>
 
@@ -411,12 +417,6 @@ Henry以为吃火锅会去世（热度：343098）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E7%85%A7%E6%8B%8D%E6%91%84%E8%80%85%E6%98%AF%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96%E5%BE%97%E4%B8%BB%23" target="weibo">
-特朗普遇刺照拍摄者是普利策奖得主（热度：302603）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23FBI%E7%89%B5%E5%A4%B4%E8%B0%83%E6%9F%A5%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%23" target="weibo">
 FBI牵头调查特朗普遭枪击（热度：299283）
 </a>
@@ -495,14 +495,14 @@ GLASS 十个勤天（热度：278313）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-美国史上有9位总统遇刺其中4人遇难（热度：264859）
+<a href="https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E9%A3%8E%E9%99%A9%E5%8F%AF%E8%83%BD%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E8%A6%81%E6%9B%B4%E9%AB%98%23" target="weibo">
+HPV感染风险可能比你想象的要更高（热度：265192）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23HPV%E6%84%9F%E6%9F%93%E9%A3%8E%E9%99%A9%E5%8F%AF%E8%83%BD%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E8%A6%81%E6%9B%B4%E9%AB%98%23" target="weibo">
-HPV感染风险可能比你想象的要更高（热度：261922）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+美国史上有9位总统遇刺其中4人遇难（热度：264859）
 </a>
 </li>
 
@@ -533,6 +533,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
 美国总统（热度：247954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E5%A1%9E%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%BA%86%23" target="weibo">
+在厕所被塞小纸条了（热度：246538）
 </a>
 </li>
 
@@ -587,12 +593,6 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A6%81%E7%A9%BF%E4%B8%8A%E8%A1%A3%E6%9C%8D%23" target="weibo">
 建议大家人脸识别要穿上衣服（热度：223301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8E%95%E6%89%80%E8%A2%AB%E5%A1%9E%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%BA%86%23" target="weibo">
-在厕所被塞小纸条了（热度：222577）
 </a>
 </li>
 
@@ -681,6 +681,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E6%8E%A7%E8%AF%89%E7%89%9B%E5%9C%A8%E5%9C%A8%E6%89%87%E4%BB%96%E8%80%B3%E5%85%89%23" target="weibo">
+丁真控诉牛在在扇他耳光（热度：193697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97%23" target="weibo">
 这是时代少年团演唱会吗（热度：193644）
 </a>
@@ -693,8 +699,8 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E6%8E%A7%E8%AF%89%E7%89%9B%E5%9C%A8%E5%9C%A8%E6%89%87%E4%BB%96%E8%80%B3%E5%85%89%23" target="weibo">
-丁真控诉牛在在扇他耳光（热度：192256）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E7%88%86%E7%82%B8%E5%A4%B4%23" target="weibo">
+王鸥爆炸头（热度：190809）
 </a>
 </li>
 
@@ -789,6 +795,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E8%8E%89%E4%BA%9A%E6%B6%A8%E4%BB%B7%E4%BA%86%23" target="weibo">
+萨莉亚涨价了（热度：167585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8D%B0%E8%B1%A1%23" target="weibo">
 外国人对中国留学生的印象（热度：165551）
 </a>
@@ -807,14 +819,14 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E8%A7%82%E4%BC%97%E4%B8%AD1%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
-特朗普集会观众中1人死亡2人受伤（热度：158447）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E7%94%9F%E7%85%A7%E7%89%87%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%23" target="weibo">
+特朗普人生照片是怎样诞生的（热度：162052）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E7%88%86%E7%82%B8%E5%A4%B4%23" target="weibo">
-王鸥爆炸头（热度：157500）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E8%A7%82%E4%BC%97%E4%B8%AD1%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+特朗普集会观众中1人死亡2人受伤（热度：158447）
 </a>
 </li>
 
@@ -921,6 +933,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E5%A5%B6%E8%8C%B6%E7%96%91%E8%A2%AB%E8%80%81%E4%BA%BA%E7%A7%81%E8%87%AA%E6%8B%BF%E8%B5%B01%E6%9D%AF%23" target="weibo">
+女子点奶茶疑被老人私自拿走1杯（热度：139772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%8E%98%E9%87%91%23" target="weibo">
 中国男篮不敌掘金（热度：139476）
 </a>
@@ -989,6 +1007,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B1%97%E6%B7%8B%E6%BC%93%E9%AD%8F%E5%A4%A7%E5%8B%8B%23" target="weibo">
 香汗淋漓魏大勋（热度：125362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E7%99%BE%E5%9D%97%E5%9B%9E%E6%94%B6%E5%BA%9F%E6%97%A7%E5%AE%B6%E7%94%B5%E7%BF%BB%E6%96%B0%E5%90%8E%E5%8D%961500%23" target="weibo">
+几百块回收废旧家电翻新后卖1500（热度：124013）
 </a>
 </li>
 
@@ -1065,12 +1089,6 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E7%99%BE%E5%9D%97%E5%9B%9E%E6%94%B6%E5%BA%9F%E6%97%A7%E5%AE%B6%E7%94%B5%E7%BF%BB%E6%96%B0%E5%90%8E%E5%8D%961500%23" target="weibo">
-几百块回收废旧家电翻新后卖1500（热度：105436）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%99%B6%E5%96%86%E5%90%88%E5%94%B1%E5%B0%B1%E6%98%AF%E7%88%B1%E4%BD%A0%23" target="weibo">
 林俊杰陶喆合唱就是爱你（热度：105410）
 </a>
@@ -1133,6 +1151,12 @@ HPV感染风险可能比你想象的要更高（热度：261922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E7%99%BE%E4%B8%87%E4%BA%BA%E5%9B%A0%E5%BC%B9%E7%8F%A0%E5%BA%97%E7%A0%B4%E4%BA%A7%23" target="weibo">
 日本近百万人因弹珠店破产（热度：69468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%83%AD%E9%97%A8%E9%A1%B9%E7%9B%AE%E8%A7%82%E8%B5%9B%E6%97%A5%E5%8E%86%23" target="weibo">
+巴黎奥运会热门项目观赛日历（热度：66226）
 </a>
 </li>
 
@@ -1257,8 +1281,8 @@ AG名将退役仪式（热度：56672）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%83%AD%E9%97%A8%E9%A1%B9%E7%9B%AE%E8%A7%82%E8%B5%9B%E6%97%A5%E5%8E%86%23" target="weibo">
-巴黎奥运会热门项目观赛日历（热度：39849）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%BC%94%E5%87%BA%E5%B8%82%E5%9C%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A5%A8%E6%88%BF%E6%94%B6%E5%85%A5%E8%B6%85190%E4%BA%BF%E5%85%83%23" target="weibo">
+全国演出市场上半年票房收入超190亿元（热度：37723）
 </a>
 </li>
 
@@ -1271,12 +1295,6 @@ AG名将退役仪式（热度：56672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%91%A8%E6%9C%AB%E8%A1%97%E8%BE%B9%E9%9A%8F%E6%8B%8D%23" target="weibo">
 迪丽热巴周末街边随拍（热度：36512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%BC%94%E5%87%BA%E5%B8%82%E5%9C%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A5%A8%E6%88%BF%E6%94%B6%E5%85%A5%E8%B6%85190%E4%BA%BF%E5%85%83%23" target="weibo">
-全国演出市场上半年票房收入超190亿元（热度：35232）
 </a>
 </li>
 
@@ -1365,6 +1383,12 @@ BW2024漫展26名黄牛带客冲卡被抓（热度：16969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E5%AD%98%E4%BA%86%E4%BB%9603%E5%B9%B4%E7%9A%84%E5%94%B1%E6%AD%8C%E7%A3%81%E5%B8%A6%23" target="weibo">
+周深小学老师存了他03年的唱歌磁带（热度：12972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%AE%9A%E5%88%B618%E5%B9%B4%E7%9A%84%E6%88%90%E9%95%BF%E8%AE%B0%E5%BF%86%23" target="weibo">
 宝妈为女儿定制18年的成长记忆（热度：12041）
 </a>
@@ -1379,12 +1403,6 @@ BW2024漫展26名黄牛带客冲卡被抓（热度：16969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A69%E5%B2%81%E5%A5%B3%E5%84%BF%E9%AA%91%E8%A1%8C%E5%B7%9D%E8%97%8F%E7%BA%BF%E5%BE%92%E6%AD%A5%E5%B0%BC%E6%B3%8A%E5%B0%94%23" target="weibo">
 爸爸带9岁女儿骑行川藏线徒步尼泊尔（热度：8501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E5%AD%98%E4%BA%86%E4%BB%9603%E5%B9%B4%E7%9A%84%E5%94%B1%E6%AD%8C%E7%A3%81%E5%B8%A6%23" target="weibo">
-周深小学老师存了他03年的唱歌磁带（热度：6159）
 </a>
 </li>
 
