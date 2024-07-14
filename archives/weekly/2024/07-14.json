@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720955920438,
+  "endTime": 1720957034464,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1046809,
+      "num": 1167489,
+      "word": "刘亦菲成了林一炫耀的资本",
+      "onboard_time": 1720952840,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1035275,
       "num": 1245156,
       "word": "蓝盈莹 用力过猛是松弛的必经之路",
@@ -187,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 993619,
-      "num": 1158979,
-      "word": "刘亦菲成了林一炫耀的资本",
-      "onboard_time": 1720952840,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 970406,
+      "num": 563435,
+      "word": "枪击特朗普枪手为共和党人",
+      "onboard_time": 1720952779,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 962127,
@@ -201,14 +209,6 @@
       "onboard_time": 1720930645,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 898264,
-      "num": 539496,
-      "word": "枪击特朗普枪手为共和党人",
-      "onboard_time": 1720952779,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 810587,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 601141,
+      "num": 280822,
+      "word": "冯绍峰也没躲过乌尔善训练营",
+      "onboard_time": 1720952840,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 597622,
       "num": 338057,
       "word": "记者拍到子弹划过特朗普耳朵画面",
@@ -361,14 +369,6 @@
       "onboard_time": 1720949780,
       "rank": 1,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 571665,
-      "num": 280822,
-      "word": "冯绍峰也没躲过乌尔善训练营",
-      "onboard_time": 1720952840,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 571640,
@@ -787,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289457,
+      "num": 182399,
+      "word": "椰子水为何干不过柠檬茶",
+      "onboard_time": 1720955479,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 288696,
       "num": 260094,
       "word": "韩廷办公室的床",
@@ -939,20 +947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255498,
+      "num": 201891,
+      "word": "少年发现水里不对劲救下一条命",
+      "onboard_time": 1720954400,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253383,
       "num": 253383,
       "word": "杨迪下次别信黄子弘凡了",
       "onboard_time": 1720935745,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248373,
-      "num": 201891,
-      "word": "少年发现水里不对劲救下一条命",
-      "onboard_time": 1720954400,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248032,
@@ -1051,6 +1059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 227791,
+      "num": 227791,
+      "word": "潘玮柏 我想更懂你",
+      "onboard_time": 1720956379,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227513,
       "num": 227513,
       "word": "我买房了亲戚破防了",
@@ -1139,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208001,
+      "num": 208001,
+      "word": "特勤局曾多次拒绝为特朗普加强安保",
+      "onboard_time": 1720956079,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 205544,
       "num": 205544,
       "word": "种地吧加更",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1720913775,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202904,
+      "num": 179054,
+      "word": "暑假第一次胚胎式追剧",
+      "onboard_time": 1720955959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 202452,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1720936824,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183479,
+      "num": 183479,
+      "word": "巴黎奥运粉色乒乓球台",
+      "onboard_time": 1720955359,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 180952,
@@ -1611,6 +1651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 146507,
+      "num": 146507,
+      "word": "暑期孩子扎堆做腺样体切除手术",
+      "onboard_time": 1720953380,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146402,
       "num": 259681,
       "word": "秦彻",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1720913775,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144244,
-      "num": 144244,
-      "word": "暑期孩子扎堆做腺样体切除手术",
-      "onboard_time": 1720953380,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143306,
@@ -1675,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141619,
-      "num": 141619,
-      "word": "椰子水为何干不过柠檬茶",
-      "onboard_time": 1720955479,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 140180,
       "num": 140180,
       "word": "见过最正经的已读乱回",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1720923620,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138404,
+      "num": 138404,
+      "word": "黄明昊 演技",
+      "onboard_time": 1720956559,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 138335,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1720939404,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134760,
+      "num": 134760,
+      "word": "学者称特朗普并不会因遇刺稳赢选举",
+      "onboard_time": 1720953798,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 134541,
@@ -1907,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118270,
-      "num": 118270,
-      "word": "学者称特朗普并不会因遇刺稳赢选举",
-      "onboard_time": 1720953798,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 117801,
       "num": 255270,
       "word": "沈月好可爱",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1720914135,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107699,
-      "num": 111317,
-      "word": "巴黎奥运粉色乒乓球台",
-      "onboard_time": 1720955359,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 107548,
@@ -2331,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35583,
+      "num": 282821,
+      "word": "一分钟穿越改革新坐标",
+      "onboard_time": 1720954998,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 34306,
       "num": 1026987,
       "word": "这就是独属于中国的文化自信",
@@ -2371,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25890,
+      "num": 875637,
+      "word": "北京市属公园园中园及博物馆暑期周一也开放",
+      "onboard_time": 1720939822,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22024,
       "num": 649713,
       "word": "我和崇礼山野的故事",
@@ -2401,14 +2449,6 @@
       "onboard_time": 1720901830,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19421,
-      "num": 282821,
-      "word": "一分钟穿越改革新坐标",
-      "onboard_time": 1720954998,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 19213,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1720895778,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 16023,
-      "num": 875637,
-      "word": "北京市属公园园中园及博物馆暑期周一也开放",
-      "onboard_time": 1720939822,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 15931,
