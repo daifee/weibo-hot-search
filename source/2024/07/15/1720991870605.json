@@ -1,0 +1,410 @@
+{
+  "runTime": 1720991870605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978639,
+        "num": 978639,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625307,
+        "num": 625307,
+        "word": "欧洲杯决赛",
+        "onboard_time": 1720967720,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11218,
+        "num": 537483,
+        "word": "行进的中国如此蓬勃",
+        "onboard_time": 1720963640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525823,
+        "num": 525823,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183002,
+        "num": 183002,
+        "word": "奥亚萨瓦尔绝杀",
+        "onboard_time": 1720990332,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169485,
+        "num": 169485,
+        "word": "欧洲杯",
+        "onboard_time": 1720961180,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153193,
+        "num": 153193,
+        "word": "帕尔默世界波",
+        "onboard_time": 1720989492,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128348,
+        "num": 128348,
+        "word": "西班牙队第27人来了",
+        "onboard_time": 1720984272,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96208,
+        "num": 96208,
+        "word": "西班牙全胜夺冠",
+        "onboard_time": 1720991171,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1271,
+        "num": 95920,
+        "word": "外商扎根义乌20年完成产业逆袭",
+        "onboard_time": 1720957698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 95503,
+        "word": "枪击特朗普枪手行凶衣着引关注",
+        "onboard_time": 1720969580,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 109179,
+        "num": 95120,
+        "word": "黄子韬徐艺洋官宣",
+        "onboard_time": 1720943183,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97535,
+        "num": 94618,
+        "word": "这3个体检项目其实是浪费钱",
+        "onboard_time": 1720977913,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94200,
+        "num": 94200,
+        "word": "西班牙下半场闪电进球",
+        "onboard_time": 1720988832,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82172,
+        "num": 82172,
+        "word": "威廉姆斯使用内马尔庆祝动作",
+        "onboard_time": 1720989731,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81689,
+        "num": 81689,
+        "word": "迪士尼西班牙区发了刘亦菲花木兰",
+        "onboard_time": 1720981992,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79594,
+        "num": 79594,
+        "word": "欧洲杯决赛成防守大战",
+        "onboard_time": 1720986852,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69886,
+        "num": 69886,
+        "word": "特朗普或因侧头看图表救回一命",
+        "onboard_time": 1720945401,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64750,
+        "num": 64750,
+        "word": "亚马尔本届欧洲杯助攻王",
+        "onboard_time": 1720990751,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62914,
+        "num": 62914,
+        "word": "西班牙2比1英格兰",
+        "onboard_time": 1720991171,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61929,
+        "num": 61929,
+        "word": "西班牙半场0比0英格兰",
+        "onboard_time": 1720986972,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60528,
+        "num": 60528,
+        "word": "特朗普称右耳被子弹击穿",
+        "onboard_time": 1720919238,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56078,
+        "num": 56078,
+        "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+        "onboard_time": 1720962799,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53079,
+        "num": 53079,
+        "word": "好像所有人都确认了相柳的结局",
+        "onboard_time": 1720969220,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49477,
+        "num": 49477,
+        "word": "王楚钦孙颖莎巴黎如愿",
+        "onboard_time": 1720977913,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49097,
+        "num": 49097,
+        "word": "西班牙vs英格兰首发",
+        "onboard_time": 1720980313,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48715,
+        "num": 48715,
+        "word": "尼克威廉姆斯破门",
+        "onboard_time": 1720988412,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47987,
+        "num": 47987,
+        "word": "李闽轩 中戏录取",
+        "onboard_time": 1720969460,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47733,
+        "num": 47733,
+        "word": "亚马尔助攻",
+        "onboard_time": 1720988591,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46042,
+        "num": 46042,
+        "word": "巴黎街头偶遇王一博散步",
+        "onboard_time": 1720967240,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 45241,
+        "word": "罗德里伤退",
+        "onboard_time": 1720989492,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43991,
+        "num": 43991,
+        "word": "卡瓦哈尔哭脸嘲讽",
+        "onboard_time": 1720986431,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39960,
+        "num": 39960,
+        "word": "凯特王妃为阿尔卡拉斯颁奖",
+        "onboard_time": 1720975576,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39839,
+        "num": 39839,
+        "word": "凯特王妃亮相温网",
+        "onboard_time": 1720965921,
+        "rank": 33,
+        "category": "国外时政,体育"
+      },
+      {
+        "raw_hot": 39123,
+        "num": 39123,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36184,
+        "num": 36184,
+        "word": "刘亦菲成了林一炫耀的资本",
+        "onboard_time": 1720952840,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35151,
+        "num": 35151,
+        "word": "温网",
+        "onboard_time": 1720962920,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34616,
+        "num": 34616,
+        "word": "亚马尔17岁生日礼物",
+        "onboard_time": 1720991712,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33080,
+        "num": 33080,
+        "word": "温网男单决赛",
+        "onboard_time": 1720963520,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32669,
+        "num": 32669,
+        "word": "容祖儿 感谢我的爱人",
+        "onboard_time": 1720965081,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31740,
+        "num": 31740,
+        "word": "亚马尔欧洲杯决赛最年轻首发球员",
+        "onboard_time": 1720985532,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31483,
+        "num": 31483,
+        "word": "威廉王子观战欧洲杯决赛",
+        "onboard_time": 1720985292,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30070,
+        "num": 30070,
+        "word": "索斯盖特又换对了",
+        "onboard_time": 1720989851,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30022,
+        "num": 30022,
+        "word": "索斯盖特玄学不在",
+        "onboard_time": 1720991532,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 29358,
+        "word": "贝林厄姆穿裆罗德里",
+        "onboard_time": 1720987571,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27588,
+        "num": 27588,
+        "word": "阿尔卡拉斯夺大满贯第四冠",
+        "onboard_time": 1720973838,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27501,
+        "num": 27501,
+        "word": "一夜之后韩总夫人跑了",
+        "onboard_time": 1720963700,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26864,
+        "num": 26864,
+        "word": "月经快要离开时身体会给出4个提示",
+        "onboard_time": 1720966581,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25827,
+        "num": 25827,
+        "word": "阿尔卡拉斯温网两连冠",
+        "onboard_time": 1720973838,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25586,
+        "num": 25586,
+        "word": "防风意映这一刻好漂亮",
+        "onboard_time": 1720965981,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一串地标领悟习近平的改革之道#"
+    }
+  }
+}

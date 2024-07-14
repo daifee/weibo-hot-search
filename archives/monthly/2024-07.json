@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1720989283932,
+  "endTime": 1720991870605,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1720135696,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978639,
+      "num": 978639,
+      "word": "西班牙vs英格兰",
+      "onboard_time": 1720967962,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 977751,
@@ -5355,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625307,
+      "num": 625307,
+      "word": "欧洲杯决赛",
+      "onboard_time": 1720967720,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625152,
       "num": 385445,
       "word": "Angelababy颈部线条",
@@ -6995,14 +7011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530736,
-      "num": 530736,
-      "word": "西班牙vs英格兰",
-      "onboard_time": 1720967962,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 529741,
       "num": 529741,
       "word": "绝区零开服",
@@ -7081,6 +7089,14 @@
       "onboard_time": 1720156579,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525823,
+      "num": 525823,
+      "word": "西班牙夺得欧洲杯冠军",
+      "onboard_time": 1720990992,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 525355,
@@ -10129,14 +10145,6 @@
       "onboard_time": 1719913758,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404336,
-      "num": 404336,
-      "word": "欧洲杯决赛",
-      "onboard_time": 1720967720,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 404249,
@@ -21859,6 +21867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183002,
+      "num": 183002,
+      "word": "奥亚萨瓦尔绝杀",
+      "onboard_time": 1720990332,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182982,
       "num": 182982,
       "word": "请务必安排我入职",
@@ -25937,6 +25953,14 @@
       "onboard_time": 1720506499,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153193,
+      "num": 153193,
+      "word": "帕尔默世界波",
+      "onboard_time": 1720989492,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 153127,
@@ -30131,6 +30155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128348,
+      "num": 128348,
+      "word": "西班牙队第27人来了",
+      "onboard_time": 1720984272,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128333,
       "num": 128333,
       "word": "姆巴佩皇马亮相仪式",
@@ -32955,14 +32987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111389,
-      "num": 111389,
-      "word": "西班牙队第27人来了",
-      "onboard_time": 1720984272,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111356,
       "num": 111356,
       "word": "你刷牙的方式可能是错的",
@@ -34755,6 +34779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "西班牙全胜夺冠",
+      "onboard_time": 1720991171,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96202,
       "num": 182387,
       "word": "七七事变87年祭",
@@ -34993,6 +35025,14 @@
       "onboard_time": 1719981380,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94200,
+      "num": 94200,
+      "word": "西班牙下半场闪电进球",
+      "onboard_time": 1720988832,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 94164,
@@ -35795,6 +35835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82172,
+      "num": 82172,
+      "word": "威廉姆斯使用内马尔庆祝动作",
+      "onboard_time": 1720989731,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81845,
       "num": 87908,
       "word": "博物馆工作人员展示多种敦煌风手姿",
@@ -35921,6 +35969,14 @@
       "onboard_time": 1720851918,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 79594,
+      "num": 79594,
+      "word": "欧洲杯决赛成防守大战",
+      "onboard_time": 1720986852,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 79245,
@@ -36723,6 +36779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64750,
+      "num": 64750,
+      "word": "亚马尔本届欧洲杯助攻王",
+      "onboard_time": 1720990751,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64729,
       "num": 64729,
       "word": "罗马尼亚0比3荷兰",
@@ -36865,6 +36929,14 @@
       "onboard_time": 1720305131,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62914,
+      "num": 62914,
+      "word": "西班牙2比1英格兰",
+      "onboard_time": 1720991171,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 62684,
@@ -37059,11 +37131,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60878,
-      "num": 60878,
-      "word": "欧洲杯决赛成防守大战",
-      "onboard_time": 1720986852,
-      "rank": 16,
+      "raw_hot": 60775,
+      "num": 45241,
+      "word": "罗德里伤退",
+      "onboard_time": 1720989492,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -37993,14 +38065,6 @@
       "onboard_time": 1720864819,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49273,
-      "num": 49273,
-      "word": "西班牙下半场闪电进球",
-      "onboard_time": 1720988832,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 49133,
@@ -39299,6 +39363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34616,
+      "num": 34616,
+      "word": "亚马尔17岁生日礼物",
+      "onboard_time": 1720991712,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34582,
       "num": 132049,
       "word": "过去一周日本中暑死亡19人",
@@ -39641,6 +39713,22 @@
       "onboard_time": 1720579578,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30070,
+      "num": 30070,
+      "word": "索斯盖特又换对了",
+      "onboard_time": 1720989851,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30022,
+      "num": 30022,
+      "word": "索斯盖特玄学不在",
+      "onboard_time": 1720991532,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 30006,
@@ -41076,7 +41164,7 @@
     },
     {
       "raw_hot": 12626,
-      "num": 252332,
+      "num": 537483,
       "word": "行进的中国如此蓬勃",
       "onboard_time": 1720963640,
       "rank": 2,
