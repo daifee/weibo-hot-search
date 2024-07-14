@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720949714099,
+  "endTime": 1720952486720,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 960421,
+      "num": 403302,
+      "word": "邹市明吐槽3儿子没一个子承父业",
+      "onboard_time": 1720948161,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 810587,
       "num": 339272,
       "word": "因为录取通知书跟爸妈吵架了",
@@ -203,8 +211,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 712591,
-      "num": 712591,
+      "raw_hot": 735594,
+      "num": 1117695,
       "word": "王楚钦北体大毕业",
       "onboard_time": 1720946601,
       "rank": 1,
@@ -283,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 604581,
-      "num": 213601,
-      "word": "邹市明吐槽3儿子没一个子承父业",
-      "onboard_time": 1720948161,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 601665,
       "num": 2655491,
       "word": "少年白马醉春风",
@@ -329,6 +329,14 @@
       "onboard_time": 1720916657,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 584867,
+      "num": 584867,
+      "word": "赵丽颖为国产动画打call",
+      "onboard_time": 1720949780,
+      "rank": 1,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 571640,
@@ -443,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 460483,
+      "num": 460483,
+      "word": "哈药六厂已接待90万游客",
+      "onboard_time": 1720946122,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456518,
       "num": 456518,
       "word": "鞠婧祎内娱首位女星超话钻3",
@@ -483,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425440,
+      "num": 658259,
+      "word": "镖人 刘耀文",
+      "onboard_time": 1720947681,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 425391,
+      "num": 425391,
+      "word": "张碧晨没事哒",
+      "onboard_time": 1720950441,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424079,
       "num": 424079,
       "word": "老人要报40元团4天3晚游桂林",
@@ -499,28 +531,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 416431,
-      "num": 658259,
-      "word": "镖人 刘耀文",
-      "onboard_time": 1720947681,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 415919,
       "num": 1155026,
       "word": "歌手曾舜晞回来了",
       "onboard_time": 1720930765,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414750,
-      "num": 414750,
-      "word": "哈药六厂已接待90万游客",
-      "onboard_time": 1720946122,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409482,
@@ -545,6 +561,14 @@
       "onboard_time": 1720880840,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403779,
+      "num": 274881,
+      "word": "女子隐瞒中500万前夫起诉获分200万",
+      "onboard_time": 1720950741,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398212,
@@ -657,6 +681,14 @@
       "onboard_time": 1720943662,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 321728,
+      "num": 321728,
+      "word": "枪响后特朗普与安保贴身对话公开",
+      "onboard_time": 1720945220,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 310847,
@@ -827,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265408,
-      "num": 265408,
-      "word": "枪响后特朗普与安保贴身对话公开",
-      "onboard_time": 1720945220,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -913,6 +937,14 @@
       "onboard_time": 1720936044,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245499,
+      "num": 245499,
+      "word": "B型血患癌风险或较低",
+      "onboard_time": 1720948280,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244010,
@@ -1211,14 +1243,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 186408,
-      "num": 186408,
-      "word": "B型血患癌风险或较低",
-      "onboard_time": 1720948280,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "金灿荣评特朗普遭枪击",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1720915578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180911,
+      "num": 180911,
+      "word": "杭州夜市1杯奶茶钱能买1件新衣服",
+      "onboard_time": 1720950620,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179231,
@@ -1297,6 +1329,22 @@
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172199,
+      "num": 172199,
+      "word": "韩网吐槽边佑锡耍大牌",
+      "onboard_time": 1720950920,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170973,
+      "num": 170973,
+      "word": "FBI仍在调查枪手如何连续开枪",
+      "onboard_time": 1720951580,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 170191,
@@ -1515,6 +1563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146118,
+      "num": 146118,
+      "word": "抓娃娃预售票房破2亿",
+      "onboard_time": 1720950261,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145947,
       "num": 257707,
       "word": "那英压轴",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1720937723,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143062,
+      "num": 143062,
+      "word": "拍下特朗普遇袭照记者讲述事发情形",
+      "onboard_time": 1720951580,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142516,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1720872018,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136314,
+      "num": 136314,
+      "word": "还不给小猫一个大冰箱",
+      "onboard_time": 1720952118,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 135139,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1720948041,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130694,
+      "num": 130694,
+      "word": "自带氛围灯的乒乓球台",
+      "onboard_time": 1720952118,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 128516,
@@ -2051,6 +2131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53201,
+      "num": 652444,
+      "word": "旅客突发疾病3名医学生先后冲来",
+      "onboard_time": 1720948459,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 53057,
       "num": 125269,
       "word": "泰国失踪中国女子残骸疑似被找到",
@@ -2137,14 +2225,6 @@
       "onboard_time": 1720894812,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39445,
-      "num": 652444,
-      "word": "旅客突发疾病3名医学生先后冲来",
-      "onboard_time": 1720948459,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 37483,
