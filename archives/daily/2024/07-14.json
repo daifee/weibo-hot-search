@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1720941589072,
+  "endTime": 1720942542241,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1656244,
+      "num": 665769,
+      "word": "特朗普遇刺6小时后首次露面",
+      "onboard_time": 1720938203,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1639468,
       "num": 1206927,
       "word": "13.8 13.11",
       "onboard_time": 1720913475,
       "rank": 34,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 1595953,
-      "num": 665769,
-      "word": "特朗普遇刺6小时后首次露面",
-      "onboard_time": 1720938203,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1467557,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 860208,
+      "num": 1245156,
+      "word": "蓝盈莹 用力过猛是松弛的必经之路",
+      "onboard_time": 1720940122,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810587,
       "num": 339272,
       "word": "因为录取通知书跟爸妈吵架了",
@@ -179,14 +187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 727468,
-      "num": 1196268,
-      "word": "蓝盈莹 用力过猛是松弛的必经之路",
-      "onboard_time": 1720940122,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
@@ -200,6 +200,14 @@
       "word": "伊万卡发声",
       "onboard_time": 1720928300,
       "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 652601,
+      "num": 590052,
+      "word": "特朗普遇刺照拍摄者是普利策奖得主",
+      "onboard_time": 1720937843,
+      "rank": 31,
       "category": "国外时政"
     },
     {
@@ -259,20 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 590052,
-      "num": 590052,
-      "word": "特朗普遇刺照拍摄者是普利策奖得主",
-      "onboard_time": 1720937843,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 588202,
       "num": 1615696,
       "word": "Henry没认出黄磊",
       "onboard_time": 1720916657,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583775,
+      "num": 1130744,
+      "word": "女子点奶茶疑被老人私自拿走1杯",
+      "onboard_time": 1720939163,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571640,
@@ -339,6 +347,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 512639,
+      "num": 512639,
+      "word": "32岁女子吹未清洗空调多器官衰竭",
+      "onboard_time": 1720939883,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494088,
       "num": 1652342,
       "word": "12部国产动画加入暑期档",
@@ -361,6 +377,14 @@
       "onboard_time": 1720917797,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463116,
+      "num": 463116,
+      "word": "FBI称确认枪手身份",
+      "onboard_time": 1720940723,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 462076,
@@ -417,14 +441,6 @@
       "onboard_time": 1720930645,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 421885,
-      "num": 1130744,
-      "word": "女子点奶茶疑被老人私自拿走1杯",
-      "onboard_time": 1720939163,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415919,
@@ -537,14 +553,6 @@
       "onboard_time": 1720926560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341809,
-      "num": 341809,
-      "word": "32岁女子吹未清洗空调多器官衰竭",
-      "onboard_time": 1720939883,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340076,
@@ -683,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270380,
-      "num": 303593,
-      "word": "FBI称确认枪手身份",
-      "onboard_time": 1720940723,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -723,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260861,
+      "num": 260861,
+      "word": "迪丽热巴宋威龙合照",
+      "onboard_time": 1720941682,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255621,
       "num": 255621,
       "word": "云南牛奶自带插孔吸管震惊北方人",
       "onboard_time": 1720912694,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254632,
+      "num": 190363,
+      "word": "30余万元本金3年半滚到4553万元",
+      "onboard_time": 1720941801,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 253383,
@@ -859,6 +875,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "天天吃西红柿会身体发生什么",
+      "onboard_time": 1720939822,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -889,14 +913,6 @@
       "onboard_time": 1720922898,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206578,
-      "num": 206578,
-      "word": "天天吃西红柿会身体发生什么",
-      "onboard_time": 1720939822,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 205544,
@@ -1003,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189713,
+      "num": 189713,
+      "word": "特朗普人生照片是怎样诞生的",
+      "onboard_time": 1720938683,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 188743,
       "num": 188743,
       "word": "单依纯 音乐节",
@@ -1032,6 +1056,14 @@
       "word": "原来鹿晗陈奕迅的热歌是他写的",
       "onboard_time": 1720915578,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179514,
+      "num": 506136,
+      "word": "范丞丞说听恶评是成长必经",
+      "onboard_time": 1720941742,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -1073,14 +1105,6 @@
       "onboard_time": 1720929441,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175843,
-      "num": 175843,
-      "word": "特朗普人生照片是怎样诞生的",
-      "onboard_time": 1720938683,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 175499,
@@ -1283,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146321,
+      "num": 146321,
+      "word": "熬夜对肝脏的伤害是最大的",
+      "onboard_time": 1720941982,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145947,
       "num": 257707,
       "word": "那英压轴",
@@ -1459,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122454,
+      "num": 122454,
+      "word": "沈月晒吴谨言王星越海报",
+      "onboard_time": 1720942281,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119828,
       "num": 119828,
       "word": "张韶涵石家庄",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1720882820,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100565,
+      "num": 635475,
+      "word": "一男子购买恋爱保险结婚后理赔遭拒",
+      "onboard_time": 1720940423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87068,
@@ -1691,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61267,
+      "num": 502484,
+      "word": "在成都能打败洋芋的只有土豆",
+      "onboard_time": 1720940362,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60559,
       "num": 60559,
       "word": "这5个部位疼或是心梗前兆",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1720913114,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 53382,
-      "num": 635475,
-      "word": "一男子购买恋爱保险结婚后理赔遭拒",
-      "onboard_time": 1720940423,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53057,
