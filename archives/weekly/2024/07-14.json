@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721025744579,
+  "endTime": 1721027929258,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1727687,
+      "num": 1727687,
+      "word": "霸王茶姬被曝正在业内大量挖人",
+      "onboard_time": 1721023878,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1675079,
       "num": 1675079,
       "word": "梅西哭了",
@@ -233,14 +241,6 @@
       "onboard_time": 1720927041,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1206245,
-      "num": 1206245,
-      "word": "霸王茶姬被曝正在业内大量挖人",
-      "onboard_time": 1721023878,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1195995,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 925391,
-      "num": 295713,
+      "num": 759116,
       "word": "中国移动还在偷偷收来电显示费",
       "onboard_time": 1721022439,
       "rank": 10,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551411,
+      "num": 208290,
+      "word": "李荣浩杨丞琳牵手庆生",
+      "onboard_time": 1721025798,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550301,
       "num": 519157,
       "word": "宁艺卓意外认证全开麦",
@@ -963,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475899,
+      "num": 475899,
+      "word": "羽毛球场1小时160元仍订不到",
+      "onboard_time": 1721026397,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -1025,6 +1041,22 @@
       "onboard_time": 1720961358,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450103,
+      "num": 207888,
+      "word": "三伏天减肥瘦的太快了",
+      "onboard_time": 1721026458,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 449532,
+      "num": 449532,
+      "word": "刘宇宁有个事儿通报一下",
+      "onboard_time": 1721025739,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 446967,
@@ -1291,6 +1323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 353431,
+      "num": 353431,
+      "word": "爸爸第一次抱孩子偷感好重",
+      "onboard_time": 1721022559,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 352072,
       "num": 352072,
       "word": "Uzi老婆吃醋",
@@ -1379,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331141,
-      "num": 330162,
-      "word": "爸爸第一次抱孩子偷感好重",
-      "onboard_time": 1721022559,
-      "rank": 17,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 330036,
       "num": 279535,
       "word": "椰子水为何干不过柠檬茶",
@@ -1451,20 +1483,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 320215,
+      "num": 214512,
+      "word": "原来脂肪是靠呼吸排出的",
+      "onboard_time": 1721021599,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 317661,
       "num": 317661,
       "word": "温网男单决赛",
       "onboard_time": 1720963520,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316778,
-      "num": 214512,
-      "word": "原来脂肪是靠呼吸排出的",
-      "onboard_time": 1721021599,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 310847,
@@ -2067,12 +2099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221894,
+      "num": 221894,
+      "word": "杨迪猜中TFBOYS宠爱",
+      "onboard_time": 1721024478,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221599,
       "num": 221599,
       "word": "为什么说晚上洗头生湿气",
       "onboard_time": 1720925781,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221440,
+      "num": 221440,
+      "word": "骂着骂着成王靖雯铁粉了",
+      "onboard_time": 1721023759,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 220111,
@@ -2179,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207367,
+      "num": 207367,
+      "word": "许凯给韩廷儿子起名",
+      "onboard_time": 1721025439,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206213,
       "num": 206213,
       "word": "阿尔卡拉斯vs德约科维奇",
@@ -2209,6 +2265,14 @@
       "onboard_time": 1721011098,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205104,
+      "num": 205104,
+      "word": "相柳防风邶AI角色热度破4000万",
+      "onboard_time": 1721026818,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 205098,
@@ -2337,14 +2401,6 @@
       "onboard_time": 1721017820,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198943,
-      "num": 198943,
-      "word": "骂着骂着成王靖雯铁粉了",
-      "onboard_time": 1721023759,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 198799,
@@ -2507,6 +2563,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192271,
+      "num": 192271,
+      "word": "三伏天为什么是减肥黄金期",
+      "onboard_time": 1721027059,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191808,
+      "num": 191808,
+      "word": "唐朝诡事录直播",
+      "onboard_time": 1721027539,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191655,
       "num": 191655,
       "word": "虞书欣温婉国风",
@@ -2579,6 +2651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 189160,
+      "num": 189160,
+      "word": "陈奕迅下巴受伤后首露面",
+      "onboard_time": 1721026637,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188743,
       "num": 188743,
       "word": "单依纯 音乐节",
@@ -2617,6 +2697,14 @@
       "onboard_time": 1720923378,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 187151,
+      "num": 187151,
+      "word": "檀健次戴比尔斯活动路透",
+      "onboard_time": 1721027598,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 186429,
@@ -2819,6 +2907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171061,
+      "num": 171061,
+      "word": "苏真真究竟什么是真的",
+      "onboard_time": 1721027059,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170886,
+      "num": 170886,
+      "word": "国乒出征前特意剪了新发型",
+      "onboard_time": 1721026939,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170774,
       "num": 170774,
       "word": "历时3个月改造父母30年卧室",
@@ -2963,14 +3067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "杨迪猜中TFBOYS宠爱",
-      "onboard_time": 1721024478,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159144,
       "num": 159144,
       "word": "接到秦彻电话了",
@@ -2985,6 +3081,14 @@
       "onboard_time": 1720958300,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158791,
+      "num": 158791,
+      "word": "芭莎婚庆 名不虚传",
+      "onboard_time": 1721027479,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158548,
@@ -3057,6 +3161,14 @@
       "onboard_time": 1720913114,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155862,
+      "num": 155862,
+      "word": "小孩撞倒报价10万自行车",
+      "onboard_time": 1721027779,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155285,
@@ -3523,14 +3635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130977,
-      "num": 130977,
-      "word": "许凯给韩廷儿子起名",
-      "onboard_time": 1721025439,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130694,
       "num": 130694,
       "word": "自带氛围灯的乒乓球台",
@@ -3659,6 +3763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124998,
+      "num": 124998,
+      "word": "菲常萧张 随个份子",
+      "onboard_time": 1721027238,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124816,
       "num": 124816,
       "word": "跳水运动员的训练日常",
@@ -3715,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122403,
+      "num": 122403,
+      "word": "警方通报夜市群殴事件",
+      "onboard_time": 1721025139,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122293,
       "num": 122293,
       "word": "梅西 加油阿根廷",
@@ -3745,14 +3865,6 @@
       "onboard_time": 1720989731,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119432,
-      "num": 119432,
-      "word": "警方通报夜市群殴事件",
-      "onboard_time": 1721025139,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119393,
@@ -4427,6 +4539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 52563,
+      "num": 231213,
+      "word": "支付宝是欧洲杯最大赢家",
+      "onboard_time": 1721026878,
+      "rank": 14,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 51162,
       "num": 51162,
       "word": "多家银行回应降低非柜面交易额度",
@@ -4561,6 +4681,14 @@
       "onboard_time": 1720984392,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36043,
+      "num": 288128,
+      "word": "脑电信号读心术要成真了",
+      "onboard_time": 1721026818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35583,
@@ -4862,6 +4990,9 @@
     },
     {
       "word": "#党的二十届三中全会开始举行#"
+    },
+    {
+      "word": "#二十届三中全会开始举行#"
     }
   ]
 }
