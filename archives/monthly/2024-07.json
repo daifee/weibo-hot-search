@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721043318642,
+  "endTime": 1721047089018,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -2361,6 +2361,14 @@
       "onboard_time": 1720940122,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1034326,
+      "num": 445103,
+      "word": "日本17岁女孩误拍他人惨遭杀害",
+      "onboard_time": 1721042777,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031379,
@@ -4844,7 +4852,7 @@
     },
     {
       "raw_hot": 694799,
-      "num": 307064,
+      "num": 338525,
       "word": "中国女子在泰国遭肢解案嫌疑人落网",
       "onboard_time": 1721038877,
       "rank": 22,
@@ -9795,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438508,
+      "num": 209318,
+      "word": "胖室每天一个离职小技巧",
+      "onboard_time": 1721041518,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438192,
       "num": 438192,
       "word": "12306回应火车票退票费规定",
@@ -10403,6 +10419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415571,
+      "num": 415571,
+      "word": "iPhone16值得等吗",
+      "onboard_time": 1721042538,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 415468,
       "num": 225557,
       "word": "百度副总裁称萝卜快跑不是为了抢生意",
@@ -10465,6 +10489,14 @@
       "onboard_time": 1720356679,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413126,
+      "num": 413126,
+      "word": "九尾缺席沙特大名单",
+      "onboard_time": 1721044098,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 412772,
@@ -10617,6 +10649,14 @@
       "onboard_time": 1720493118,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 406894,
+      "num": 406894,
+      "word": "九尾Cat清清梦之队交流大使",
+      "onboard_time": 1721044997,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 406733,
@@ -11137,6 +11177,14 @@
       "onboard_time": 1720326256,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387174,
+      "num": 387174,
+      "word": "孟子义原名孟子乂",
+      "onboard_time": 1721046677,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 387148,
@@ -12657,6 +12705,14 @@
       "onboard_time": 1719803058,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343113,
+      "num": 343113,
+      "word": "秦彻 喵喵牌",
+      "onboard_time": 1721045657,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 343098,
@@ -14891,6 +14947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284205,
+      "num": 206662,
+      "word": "唐诡2晚安大小姐变安息大小姐",
+      "onboard_time": 1721045776,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283952,
       "num": 283952,
       "word": "邓为发了涂山璟",
@@ -15217,6 +15281,14 @@
       "onboard_time": 1720186461,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277337,
+      "num": 277337,
+      "word": "王者梦之队大名单",
+      "onboard_time": 1721043857,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 277020,
@@ -16939,14 +17011,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 239311,
-      "num": 200821,
-      "word": "胖室每天一个离职小技巧",
-      "onboard_time": 1721041518,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239275,
       "num": 239275,
       "word": "入职后进入了不属于自己的阶层",
@@ -17473,6 +17537,14 @@
       "onboard_time": 1719799460,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231258,
+      "num": 231258,
+      "word": "鹭卓巡演官宣",
+      "onboard_time": 1721046559,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 231074,
@@ -18323,20 +18395,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 218263,
-      "num": 166240,
-      "word": "iPhone16值得等吗",
-      "onboard_time": 1721042538,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 218200,
       "num": 218200,
       "word": "黄觉说肖战很幽默",
       "onboard_time": 1720681218,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218175,
+      "num": 205652,
+      "word": "猫 没事哒",
+      "onboard_time": 1721046077,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 218135,
@@ -19811,6 +19883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204740,
+      "num": 204740,
+      "word": "小夭给玱玹砸了一辈子",
+      "onboard_time": 1721046497,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204722,
       "num": 187314,
       "word": "女生的颜值开关",
@@ -21003,6 +21083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197420,
+      "num": 197420,
+      "word": "王楚钦问不让带吃的吗",
+      "onboard_time": 1721046018,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197340,
       "num": 197340,
       "word": "杰伦布朗官宣女友",
@@ -21345,6 +21433,14 @@
       "onboard_time": 1719890358,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 195011,
+      "num": 195011,
+      "word": "大家好像都不被允许休息",
+      "onboard_time": 1721043077,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 194841,
@@ -24363,6 +24459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174060,
+      "num": 174060,
+      "word": "男子凌晨报警家里多出一个孩子",
+      "onboard_time": 1721045477,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173981,
       "num": 160010,
       "word": "TF三代男儿歌",
@@ -26179,6 +26283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161543,
+      "num": 161543,
+      "word": "哑舍选角",
+      "onboard_time": 1721043797,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161534,
       "num": 161534,
       "word": "上市公司靠美元赚利息一年挣近3亿",
@@ -26417,6 +26529,14 @@
       "onboard_time": 1720790600,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159422,
+      "num": 159422,
+      "word": "神偷奶爸4里有BLACKPINK",
+      "onboard_time": 1721046918,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 159381,
@@ -28003,6 +28123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149433,
+      "num": 149433,
+      "word": "长相思复更",
+      "onboard_time": 1721046497,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149415,
       "num": 149415,
       "word": "绝区零 打击感",
@@ -28275,6 +28403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147518,
+      "num": 147518,
+      "word": "邓为叶十七返场剧照",
+      "onboard_time": 1721045177,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147512,
       "num": 147512,
       "word": "非农",
@@ -28385,14 +28521,6 @@
       "onboard_time": 1720416738,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146673,
-      "num": 146673,
-      "word": "大家好像都不被允许休息",
-      "onboard_time": 1721043077,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 146617,
@@ -30387,6 +30515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136251,
+      "num": 136251,
+      "word": "董宇辉余承东直播",
+      "onboard_time": 1721044037,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136202,
       "num": 136202,
       "word": "库里告别克莱",
@@ -31379,6 +31515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130952,
+      "num": 130952,
+      "word": "为什么韩国人一直在休学",
+      "onboard_time": 1721046077,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130875,
       "num": 107648,
       "word": "闵庚勋11月结婚",
@@ -31785,6 +31929,14 @@
       "onboard_time": 1720266558,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128803,
+      "num": 128803,
+      "word": "奥运官网发布12位值得关注运动员",
+      "onboard_time": 1721046918,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128602,
@@ -36203,6 +36355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 101371,
+      "num": 101371,
+      "word": "魏大勋元梦之星直播",
+      "onboard_time": 1721044578,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 101230,
       "num": 101230,
       "word": "可以预防老年痴呆的桌子",
@@ -40555,14 +40715,6 @@
       "category": "社会新闻,读书作家"
     },
     {
-      "raw_hot": 44717,
-      "num": 166404,
-      "word": "日本17岁女孩误拍他人惨遭杀害",
-      "onboard_time": 1721042777,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44606,
       "num": 563167,
       "word": "上合组织正式成员国增加到10个",
@@ -40609,6 +40761,14 @@
       "onboard_time": 1720134072,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44186,
+      "num": 217756,
+      "word": "奇瑞车扛住了6头大象的重力",
+      "onboard_time": 1721043979,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44184,
@@ -41185,6 +41345,14 @@
       "onboard_time": 1720004958,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37016,
+      "num": 388984,
+      "word": "中国乒乓巴黎如愿",
+      "onboard_time": 1721046138,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36977,
