@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721031942497,
+  "endTime": 1721032703751,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1124149,
-      "num": 298817,
+      "num": 308289,
       "word": "小孩撞倒报价10万自行车",
       "onboard_time": 1721027779,
       "rank": 36,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 806741,
+      "num": 234510,
+      "word": "视觉中国回应特朗普照片版权",
+      "onboard_time": 1721030298,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 781508,
       "num": 665070,
       "word": "王一博真成黑皮体育生了",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 671554,
-      "num": 284450,
+      "num": 291060,
       "word": "四川电子税务局",
       "onboard_time": 1721029819,
       "rank": 12,
@@ -289,14 +297,6 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606251,
-      "num": 234510,
-      "word": "视觉中国回应特朗普照片版权",
-      "onboard_time": 1721030298,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 603532,
@@ -361,6 +361,14 @@
       "onboard_time": 1720945401,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 561093,
+      "num": 284465,
+      "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+      "onboard_time": 1721029700,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551474,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467683,
-      "num": 283950,
-      "word": "女生吐槽因穿和服木屐被漫展拒之门外",
-      "onboard_time": 1721029700,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449532,
       "num": 449532,
       "word": "刘宇宁有个事儿通报一下",
@@ -555,7 +555,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384684,
+      "raw_hot": 385100,
       "num": 384684,
       "word": "芭莎婚庆 名不虚传",
       "onboard_time": 1721027479,
@@ -707,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 318318,
+      "num": 318318,
+      "word": "瓶装水为什么越来越便宜",
+      "onboard_time": 1721030359,
+      "rank": 18,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 305843,
       "num": 305843,
       "word": "秦彻剧情",
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277020,
+      "num": 277020,
+      "word": "虞书欣也闯进了国风赛道",
+      "onboard_time": 1721029038,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275419,
       "num": 223453,
       "word": "马斯克自曝差点遭到2次暗杀",
@@ -803,12 +819,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 273117,
-      "num": 273117,
-      "word": "虞书欣也闯进了国风赛道",
+      "raw_hot": 273598,
+      "num": 273598,
+      "word": "BTS和BP参与神偷奶爸4OST",
       "onboard_time": 1721029038,
-      "rank": 16,
-      "category": "作品衍生"
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 272916,
@@ -825,14 +841,6 @@
       "onboard_time": 1721024478,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257185,
-      "num": 257185,
-      "word": "BTS和BP参与神偷奶爸4OST",
-      "onboard_time": 1721029038,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 256387,
@@ -931,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235845,
-      "num": 235845,
-      "word": "瓶装水为什么越来越便宜",
-      "onboard_time": 1721030359,
-      "rank": 18,
-      "category": "财经,科学科普"
-    },
-    {
       "raw_hot": 235653,
       "num": 583338,
       "word": "国乒出发奔赴巴黎",
@@ -947,20 +947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233666,
+      "num": 226742,
+      "word": "长期喝茶的人最后都咋样了",
+      "onboard_time": 1721030658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231074,
       "num": 214678,
       "word": "泫雅最新状态",
       "onboard_time": 1721028798,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226742,
-      "num": 226742,
-      "word": "长期喝茶的人最后都咋样了",
-      "onboard_time": 1721030658,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223877,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1720952840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205383,
+      "num": 205383,
+      "word": "王一博暗爽",
+      "onboard_time": 1721032218,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205241,
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165274,
+      "num": 165274,
+      "word": "极限挑战",
+      "onboard_time": 1721032039,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163721,
       "num": 163721,
       "word": "阿根廷大赛三连冠",
@@ -1643,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133590,
+      "num": 133590,
+      "word": "山东吃货凌晨两点排队抢喝头锅糁",
+      "onboard_time": 1721032517,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 132799,
       "num": 132799,
       "word": "真正厉害的人都是长期主义者",
@@ -1771,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118246,
+      "num": 118246,
+      "word": "羽毛球店员呼吁球友不要囤球",
+      "onboard_time": 1721032579,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116191,
       "num": 116191,
       "word": "韩国人权委将调查边佑锡",
@@ -1819,12 +1851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111616,
+      "num": 315905,
+      "word": "大哥不顾左膝伤口冲入洪水救人",
+      "onboard_time": 1721031738,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 110488,
       "num": 110488,
       "word": "方大同薛凯琪互动了",
       "onboard_time": 1720957819,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110353,
+      "num": 110353,
+      "word": "当小孩哥喝到糯香柠檬茶",
+      "onboard_time": 1721031438,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109646,
@@ -1857,14 +1905,6 @@
       "onboard_time": 1720992613,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104005,
-      "num": 233212,
-      "word": "大哥不顾左膝伤口冲入洪水救人",
-      "onboard_time": 1721031738,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 103426,
@@ -2212,7 +2252,7 @@
     },
     {
       "raw_hot": 48223,
-      "num": 235410,
+      "num": 273722,
       "word": "当代职场人开始用AI提效了吗",
       "onboard_time": 1721030778,
       "rank": 19,
@@ -2235,20 +2275,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 42441,
+      "num": 413273,
+      "word": "文化中国行游览好city的中国",
+      "onboard_time": 1721030419,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41214,
       "num": 274210,
       "word": "小荷包用户或成欧洲杯大赢家",
       "onboard_time": 1721023518,
       "rank": 14,
       "category": "体育,互联网"
-    },
-    {
-      "raw_hot": 38940,
-      "num": 413273,
-      "word": "文化中国行游览好city的中国",
-      "onboard_time": 1721030419,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38630,
@@ -2355,6 +2395,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 27966,
+      "num": 228326,
+      "word": "日本研发开车机器人时速达5公里",
+      "onboard_time": 1721031918,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26762,
       "num": 26762,
       "word": "亚马尔17岁的第一天",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1721004798,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21532,
-      "num": 228326,
-      "word": "日本研发开车机器人时速达5公里",
-      "onboard_time": 1721031918,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7011,
