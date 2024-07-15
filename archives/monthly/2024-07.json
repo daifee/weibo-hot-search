@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721063881960,
+  "endTime": 1721064895720,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -39827,6 +39827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59341,
+      "num": 92103,
+      "word": "王子奇李耕耘争当爹",
+      "onboard_time": 1721062454,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58934,
       "num": 58934,
       "word": "虞书欣中餐厅顶锅杂技表演",
@@ -40001,6 +40009,14 @@
       "onboard_time": 1720383191,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57135,
+      "num": 92127,
+      "word": "解决内耗最好的方法是学会翻篇",
+      "onboard_time": 1721062574,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 57077,
@@ -40361,14 +40377,6 @@
       "onboard_time": 1719925218,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 52893,
-      "num": 92127,
-      "word": "解决内耗最好的方法是学会翻篇",
-      "onboard_time": 1721062574,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 52812,
@@ -40809,14 +40817,6 @@
       "onboard_time": 1719808402,
       "rank": 16,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 48316,
-      "num": 92103,
-      "word": "王子奇李耕耘争当爹",
-      "onboard_time": 1721062454,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 48223,

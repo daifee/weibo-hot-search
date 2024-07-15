@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721063881960,
+  "endTime": 1721064895720,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -5667,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59341,
+      "num": 92103,
+      "word": "王子奇李耕耘争当爹",
+      "onboard_time": 1721062454,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58701,
       "num": 255542,
       "word": "00后从警不到一年连救2人",
@@ -5705,6 +5713,14 @@
       "onboard_time": 1721047998,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57135,
+      "num": 92127,
+      "word": "解决内耗最好的方法是学会翻篇",
+      "onboard_time": 1721062574,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 56936,
@@ -5769,14 +5785,6 @@
       "onboard_time": 1720869976,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52893,
-      "num": 92127,
-      "word": "解决内耗最好的方法是学会翻篇",
-      "onboard_time": 1721062574,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 52812,
@@ -5849,14 +5857,6 @@
       "onboard_time": 1720891393,
       "rank": 48,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 48316,
-      "num": 92103,
-      "word": "王子奇李耕耘争当爹",
-      "onboard_time": 1721062454,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 48223,

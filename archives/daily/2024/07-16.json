@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721063881960,
+  "endTime": 1721064895720,
   "band_list": [
     {
       "raw_hot": 694376,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 167654,
-      "num": 167654,
+      "num": 395609,
       "word": "九尾缺席沙特大名单",
       "onboard_time": 1721044098,
       "rank": 28,
@@ -379,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59341,
+      "num": 92103,
+      "word": "王子奇李耕耘争当爹",
+      "onboard_time": 1721062454,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59078,
       "num": 92008,
       "word": "罗云熙喷发前",
@@ -387,15 +395,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57014,
-      "num": 91960,
-      "word": "长相思复更",
-      "onboard_time": 1721046497,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 52893,
+      "raw_hot": 57135,
       "num": 92127,
       "word": "解决内耗最好的方法是学会翻篇",
       "onboard_time": 1721062574,
@@ -403,12 +403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48316,
-      "num": 92103,
-      "word": "王子奇李耕耘争当爹",
-      "onboard_time": 1721062454,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 57014,
+      "num": 91960,
+      "word": "长相思复更",
+      "onboard_time": 1721046497,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 41358,
@@ -440,6 +440,14 @@
       "word": "上半年中国GDP同比增长5.0%",
       "onboard_time": 1721034018,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11840,
+      "num": 118604,
+      "word": "全面深化改革的实践续篇",
+      "onboard_time": 1721048837,
+      "rank": 2,
       "category": "国内时政"
     },
     {
