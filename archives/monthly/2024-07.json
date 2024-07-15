@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721067982733,
+  "endTime": 1721068771465,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -42075,6 +42075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34466,
+      "num": 59990,
+      "word": "ins爆火双麻花辫",
+      "onboard_time": 1721065154,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 34163,
       "num": 323373,
       "word": "眉山东坡泡菜年销售超220亿",
@@ -42337,14 +42345,6 @@
       "onboard_time": 1720192279,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30767,
-      "num": 59990,
-      "word": "ins爆火双麻花辫",
-      "onboard_time": 1721065154,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 30753,
@@ -42635,6 +42635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27936,
+      "num": 59363,
+      "word": "原来一个人就可以四世同堂了",
+      "onboard_time": 1721066172,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27901,
       "num": 243241,
       "word": "享界S9静态评测首发",
@@ -42825,14 +42833,6 @@
       "onboard_time": 1720761799,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26397,
-      "num": 59363,
-      "word": "原来一个人就可以四世同堂了",
-      "onboard_time": 1721066172,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 26274,
