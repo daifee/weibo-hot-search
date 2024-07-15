@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721020767592,
+  "endTime": 1721021752851,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1570824,
+      "num": 351260,
+      "word": "徐艺洋在SM时期的旧照",
+      "onboard_time": 1721016980,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559616,
       "num": 1559616,
       "word": "阿根廷1比0哥伦比亚",
       "onboard_time": 1721016378,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1533288,
-      "num": 351260,
-      "word": "徐艺洋在SM时期的旧照",
-      "onboard_time": 1721016980,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1463137,
@@ -81,6 +81,14 @@
       "onboard_time": 1721006598,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1162105,
+      "num": 1162105,
+      "word": "女子称从霸王茶姬离职后被公示",
+      "onboard_time": 1721019920,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1101363,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 891847,
-      "num": 891847,
+      "num": 938891,
       "word": "今年上半年GDP同比增长5%",
       "onboard_time": 1721009839,
       "rank": 1,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691745,
+      "num": 459363,
+      "word": "特朗普下飞机时又挥舞了拳头",
+      "onboard_time": 1721015058,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 659151,
       "num": 483620,
       "word": "特朗普遇刺案枪手同学发声",
@@ -225,14 +241,6 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 604687,
-      "num": 459363,
-      "word": "特朗普下飞机时又挥舞了拳头",
-      "onboard_time": 1721015058,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 603532,
@@ -363,12 +371,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 435930,
-      "num": 435930,
-      "word": "女子称从霸王茶姬离职后被公示",
-      "onboard_time": 1721019920,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 442615,
+      "num": 442615,
+      "word": "夭玹决裂名场面",
+      "onboard_time": 1721020519,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 432430,
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322072,
+      "num": 322072,
+      "word": "中国女子在泰国遭肢解案排除勒索动机",
+      "onboard_time": 1721019860,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320939,
       "num": 320939,
       "word": "党的二十届三中全会开幕",
@@ -529,14 +545,6 @@
       "onboard_time": 1721010858,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296873,
-      "num": 296873,
-      "word": "夭玹决裂名场面",
-      "onboard_time": 1721020519,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 296790,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250653,
+      "num": 236819,
+      "word": "90后夫妻把粤A车开到了冰岛",
+      "onboard_time": 1721018721,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249823,
       "num": 1496985,
       "word": "二十届三中全会知识点",
@@ -675,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242397,
+      "num": 242397,
+      "word": "肖战法国第四章vlog",
+      "onboard_time": 1721021238,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240811,
       "num": 240811,
       "word": "恋与深空秦彻",
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236819,
-      "num": 236819,
-      "word": "90后夫妻把粤A车开到了冰岛",
-      "onboard_time": 1721018721,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235653,
       "num": 583338,
       "word": "国乒出发奔赴巴黎",
@@ -707,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227837,
-      "num": 210593,
-      "word": "中国女子在泰国遭肢解案排除勒索动机",
-      "onboard_time": 1721019860,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 234401,
+      "num": 234401,
+      "word": "三火道歉",
+      "onboard_time": 1721020938,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 223877,
@@ -723,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223054,
+      "num": 223054,
+      "word": "尼格买提 我把嘉宾都吃了",
+      "onboard_time": 1721020998,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222834,
       "num": 222834,
       "word": "陈丽君 果然自信会影响气场",
       "onboard_time": 1720973718,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222663,
+      "num": 222663,
+      "word": "菲常萧张",
+      "onboard_time": 1721021118,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 219571,
@@ -745,6 +777,14 @@
       "onboard_time": 1720999514,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214475,
+      "num": 214475,
+      "word": "高圆圆深V吊带裙",
+      "onboard_time": 1721021418,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211306,
@@ -896,6 +936,14 @@
       "word": "丁真说天天都是锅怎么都洗不完",
       "onboard_time": 1721006839,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191655,
+      "num": 191655,
+      "word": "虞书欣温婉国风",
+      "onboard_time": 1721021238,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1075,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163721,
+      "num": 163721,
+      "word": "阿根廷大赛三连冠",
+      "onboard_time": 1721018420,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158474,
       "num": 158474,
       "word": "阿尔卡拉斯温网两连冠",
@@ -1179,14 +1235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145642,
-      "num": 145642,
-      "word": "阿根廷大赛三连冠",
-      "onboard_time": 1721018420,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145240,
       "num": 145240,
       "word": "薛之谦演唱会嘉宾是李健",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1721007617,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135891,
+      "num": 135891,
+      "word": "原来脂肪是靠呼吸排出的",
+      "onboard_time": 1721021599,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133900,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1720995011,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68716,
+      "num": 392591,
+      "word": "陕师大连续18年手写新生录取通知书",
+      "onboard_time": 1721020880,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 68539,

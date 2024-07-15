@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721020767592,
+  "endTime": 1721021752851,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -147,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1570824,
+      "num": 351260,
+      "word": "徐艺洋在SM时期的旧照",
+      "onboard_time": 1721016980,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559616,
       "num": 1559616,
       "word": "阿根廷1比0哥伦比亚",
       "onboard_time": 1721016378,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1533288,
-      "num": 351260,
-      "word": "徐艺洋在SM时期的旧照",
-      "onboard_time": 1721016980,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1513723,
@@ -232,6 +232,14 @@
       "word": "有人工资卡转账额度被降到500元",
       "onboard_time": 1720880780,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162105,
+      "num": 1162105,
+      "word": "女子称从霸王茶姬离职后被公示",
+      "onboard_time": 1721019920,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 891847,
-      "num": 891847,
+      "num": 938891,
       "word": "今年上半年GDP同比增长5%",
       "onboard_time": 1721009839,
       "rank": 1,
@@ -515,6 +523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 691745,
+      "num": 459363,
+      "word": "特朗普下飞机时又挥舞了拳头",
+      "onboard_time": 1721015058,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 686348,
       "num": 557731,
       "word": "希林娜依高 破音",
@@ -609,14 +625,6 @@
       "onboard_time": 1720945582,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 604687,
-      "num": 459363,
-      "word": "特朗普下飞机时又挥舞了拳头",
-      "onboard_time": 1721015058,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 603532,
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442615,
+      "num": 442615,
+      "word": "夭玹决裂名场面",
+      "onboard_time": 1721020519,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441960,
       "num": 1225993,
       "word": "ENHYPEN 注水",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1720923199,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 435930,
-      "num": 435930,
-      "word": "女子称从霸王茶姬离职后被公示",
-      "onboard_time": 1721019920,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432430,
@@ -1363,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 322072,
+      "num": 322072,
+      "word": "中国女子在泰国遭肢解案排除勒索动机",
+      "onboard_time": 1721019860,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321728,
       "num": 321728,
       "word": "枪响后特朗普与安保贴身对话公开",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1720914555,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 296873,
-      "num": 296873,
-      "word": "夭玹决裂名场面",
-      "onboard_time": 1721020519,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 296790,
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250653,
+      "num": 236819,
+      "word": "90后夫妻把粤A车开到了冰岛",
+      "onboard_time": 1721018721,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249823,
       "num": 1496985,
       "word": "二十届三中全会知识点",
@@ -1811,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242397,
+      "num": 242397,
+      "word": "肖战法国第四章vlog",
+      "onboard_time": 1721021238,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240811,
       "num": 240811,
       "word": "恋与深空秦彻",
@@ -1851,20 +1875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236819,
-      "num": 236819,
-      "word": "90后夫妻把粤A车开到了冰岛",
-      "onboard_time": 1721018721,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235561,
       "num": 235561,
       "word": "韩东君第一次被女生抱起来",
       "onboard_time": 1720961000,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234401,
+      "num": 234401,
+      "word": "三火道歉",
+      "onboard_time": 1721020938,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 231876,
@@ -1915,14 +1939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227837,
-      "num": 210593,
-      "word": "中国女子在泰国遭肢解案排除勒索动机",
-      "onboard_time": 1721019860,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227791,
       "num": 227791,
       "word": "潘玮柏 我想更懂你",
@@ -1971,12 +1987,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223054,
+      "num": 223054,
+      "word": "尼格买提 我把嘉宾都吃了",
+      "onboard_time": 1721020998,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222834,
       "num": 222834,
       "word": "陈丽君 果然自信会影响气场",
       "onboard_time": 1720973718,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222663,
+      "num": 222663,
+      "word": "菲常萧张",
+      "onboard_time": 1721021118,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 221599,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214475,
+      "num": 214475,
+      "word": "高圆圆深V吊带裙",
+      "onboard_time": 1721021418,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 212613,
@@ -2384,6 +2424,14 @@
       "word": "丁真说天天都是锅怎么都洗不完",
       "onboard_time": 1721006839,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191655,
+      "num": 191655,
+      "word": "虞书欣温婉国风",
+      "onboard_time": 1721021238,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2803,6 +2851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163721,
+      "num": 163721,
+      "word": "阿根廷大赛三连冠",
+      "onboard_time": 1721018420,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163269,
       "num": 163269,
       "word": "佟大为演技无声的哭有声的苦",
@@ -3091,14 +3147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145642,
-      "num": 145642,
-      "word": "阿根廷大赛三连冠",
-      "onboard_time": 1721018420,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145026,
       "num": 145026,
       "word": "同事帮我带饭都是素菜收5元",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135891,
+      "num": 135891,
+      "word": "原来脂肪是靠呼吸排出的",
+      "onboard_time": 1721021599,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135139,
@@ -3985,6 +4041,14 @@
       "onboard_time": 1720852817,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68716,
+      "num": 392591,
+      "word": "陕师大连续18年手写新生录取通知书",
+      "onboard_time": 1721020880,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 68539,

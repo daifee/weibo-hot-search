@@ -1,0 +1,410 @@
+{
+  "runTime": 1721021752851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3960204,
+        "num": 3960204,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1162105,
+        "num": 1162105,
+        "word": "女子称从霸王茶姬离职后被公示",
+        "onboard_time": 1721019920,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137492,
+        "num": 938891,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789682,
+        "num": 789682,
+        "word": "梅西笑了",
+        "onboard_time": 1721018000,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67037,
+        "num": 636591,
+        "word": "二十届三中全会开始举行",
+        "onboard_time": 1721017040,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620632,
+        "num": 620632,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442615,
+        "num": 442615,
+        "word": "夭玹决裂名场面",
+        "onboard_time": 1721020519,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432672,
+        "num": 432672,
+        "word": "吴谨言王星越芭莎双人专刊",
+        "onboard_time": 1721016859,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97433,
+        "num": 415327,
+        "word": "144小时过境免签适用口岸增至37个",
+        "onboard_time": 1721007978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68716,
+        "num": 392591,
+        "word": "陕师大连续18年手写新生录取通知书",
+        "onboard_time": 1721020880,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 691745,
+        "num": 383499,
+        "word": "特朗普下飞机时又挥舞了拳头",
+        "onboard_time": 1721015058,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503485,
+        "num": 359414,
+        "word": "王一博刚准备啃指甲就被喊得忍住了",
+        "onboard_time": 1721019920,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 488827,
+        "num": 342502,
+        "word": "梅西哭了",
+        "onboard_time": 1721012898,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329514,
+        "num": 329514,
+        "word": "可疑的是案件可怕的是人性",
+        "onboard_time": 1721017459,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322072,
+        "num": 322072,
+        "word": "中国女子在泰国遭肢解案排除勒索动机",
+        "onboard_time": 1721019860,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271463,
+        "num": 271463,
+        "word": "野生大熊猫自己在竹林吃了一整晚",
+        "onboard_time": 1721012778,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408032,
+        "num": 270377,
+        "word": "王一博捡起掉落的国旗",
+        "onboard_time": 1720999936,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260209,
+        "num": 260209,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721010378,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 242397,
+        "num": 242397,
+        "word": "肖战法国第四章vlog",
+        "onboard_time": 1721021238,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237724,
+        "num": 237724,
+        "word": "三伏天已连续10年都是40天",
+        "onboard_time": 1721015119,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570824,
+        "num": 237600,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788165,
+        "num": 236132,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 339481,
+        "num": 235307,
+        "word": "王一博真成黑皮体育生了",
+        "onboard_time": 1721012237,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 250653,
+        "num": 234523,
+        "word": "90后夫妻把粤A车开到了冰岛",
+        "onboard_time": 1721018721,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234401,
+        "num": 234401,
+        "word": "三火道歉",
+        "onboard_time": 1721020938,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223054,
+        "num": 223054,
+        "word": "尼格买提 我把嘉宾都吃了",
+        "onboard_time": 1721020998,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 222663,
+        "word": "菲常萧张",
+        "onboard_time": 1721021118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214475,
+        "num": 214475,
+        "word": "高圆圆深V吊带裙",
+        "onboard_time": 1721021418,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194144,
+        "num": 194144,
+        "word": "贷款10万元被收了2.9万元服务费",
+        "onboard_time": 1721003059,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191655,
+        "num": 191655,
+        "word": "虞书欣温婉国风",
+        "onboard_time": 1721021238,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185979,
+        "num": 185979,
+        "word": "皮肤有这7个变化提示血糖超标了",
+        "onboard_time": 1721005279,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178537,
+        "num": 178537,
+        "word": "黄灿灿好美",
+        "onboard_time": 1721001859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169251,
+        "num": 169251,
+        "word": "抓娃娃",
+        "onboard_time": 1721009057,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "看你比星光美丽脑子里开染缸",
+        "onboard_time": 1721019320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168435,
+        "num": 164476,
+        "word": "抓娃娃 中式教育",
+        "onboard_time": 1721018241,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163721,
+        "num": 163721,
+        "word": "阿根廷大赛三连冠",
+        "onboard_time": 1721018420,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160811,
+        "num": 160811,
+        "word": "原来教师编面试是一场沉浸式表演",
+        "onboard_time": 1721010378,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154911,
+        "num": 154911,
+        "word": "张晚意第一次踏进苗寨",
+        "onboard_time": 1721020458,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152278,
+        "num": 152278,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1721002938,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149359,
+        "num": 149359,
+        "word": "劳塔罗破门",
+        "onboard_time": 1721016499,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144675,
+        "num": 144675,
+        "word": "边佑锡方道歉",
+        "onboard_time": 1721015539,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141331,
+        "num": 141331,
+        "word": "张杰演唱会",
+        "onboard_time": 1721020698,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137963,
+        "num": 137963,
+        "word": "恋与深空2.0",
+        "onboard_time": 1721002998,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 135891,
+        "word": "原来脂肪是靠呼吸排出的",
+        "onboard_time": 1721021599,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133584,
+        "num": 133584,
+        "word": "J罗美洲杯最佳球员",
+        "onboard_time": 1721019740,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133390,
+        "num": 133390,
+        "word": "工作室分享赵丽颖的休憩时光",
+        "onboard_time": 1721015718,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129190,
+        "num": 129190,
+        "word": "二十届三中全会议程",
+        "onboard_time": 1721016560,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128023,
+        "num": 128023,
+        "word": "阿根廷1比0哥伦比亚",
+        "onboard_time": 1721016378,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 128012,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革的路走对了#"
+    }
+  }
+}
