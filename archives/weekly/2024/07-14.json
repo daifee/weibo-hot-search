@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721061710532,
+  "endTime": 1721063881960,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -5227,6 +5227,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 97269,
+      "num": 92176,
+      "word": "失眠为什么建议把脚露外面",
+      "onboard_time": 1721061676,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96511,
       "num": 96511,
       "word": "西班牙进球",
@@ -5548,7 +5556,7 @@
     },
     {
       "raw_hot": 65756,
-      "num": 67596,
+      "num": 91916,
       "word": "韩寒谈电影抓娃娃",
       "onboard_time": 1721056279,
       "rank": 44,
@@ -5609,6 +5617,14 @@
       "onboard_time": 1720874657,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61509,
+      "num": 92225,
+      "word": "秦彻登场",
+      "onboard_time": 1721061075,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 61385,
@@ -5723,14 +5739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55783,
-      "num": 55783,
-      "word": "秦彻登场",
-      "onboard_time": 1721061075,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 55759,
       "num": 55759,
       "word": "减肥后面部形态和五官会有多大变化",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1720869976,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52893,
+      "num": 92127,
+      "word": "解决内耗最好的方法是学会翻篇",
+      "onboard_time": 1721062574,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 52812,
@@ -5827,20 +5843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49228,
-      "num": 53321,
-      "word": "失眠为什么建议把脚露外面",
-      "onboard_time": 1721061676,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 48390,
       "num": 107538,
       "word": "81部网络小说入藏国家版本馆",
       "onboard_time": 1720891393,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 48316,
+      "num": 92103,
+      "word": "王子奇李耕耘争当爹",
+      "onboard_time": 1721062454,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 48223,
@@ -6275,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14550,
+      "num": 92065,
+      "word": "杭州老板连续4年夏天送出30万支棒冰",
+      "onboard_time": 1721061735,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14498,
       "num": 889662,
       "word": "三中全会是个什么会",
@@ -6305,6 +6329,14 @@
       "onboard_time": 1720901349,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11305,
+      "num": 92239,
+      "word": "谁说杭州没有绝美海边日出",
+      "onboard_time": 1721063592,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 8501,
