@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721036060456,
+  "endTime": 1721038886564,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -113,6 +113,14 @@
       "onboard_time": 1721027779,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107267,
+      "num": 458524,
+      "word": "韩总 夫人终于给你名分了",
+      "onboard_time": 1721037438,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1101363,
@@ -289,6 +297,14 @@
       "onboard_time": 1721005518,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708872,
+      "num": 708872,
+      "word": "爱奇艺回应基础会员不能跳片头广告",
+      "onboard_time": 1721036598,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 691745,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436488,
+      "num": 295579,
+      "word": "苏醒回应自己是梅西球迷",
+      "onboard_time": 1721035638,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 432430,
       "num": 406216,
       "word": "因为脚疼和罗PD换鞋的joshua",
@@ -593,6 +617,14 @@
       "onboard_time": 1721019860,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373397,
+      "num": 373397,
+      "word": "突然发现很久没看喜羊羊了",
+      "onboard_time": 1721034497,
+      "rank": 34,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 372350,
@@ -739,6 +771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307994,
+      "num": 307994,
+      "word": "薛之谦苏州",
+      "onboard_time": 1721036598,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305843,
       "num": 305843,
       "word": "秦彻剧情",
@@ -819,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280797,
+      "num": 280797,
+      "word": "陈昊宇把成名形容成一阵风",
+      "onboard_time": 1721037740,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279900,
       "num": 279900,
       "word": "西班牙全胜夺冠",
@@ -873,14 +921,6 @@
       "onboard_time": 1721024478,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262021,
-      "num": 262021,
-      "word": "苏醒回应自己是梅西球迷",
-      "onboard_time": 1721035638,
-      "rank": 17,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 256387,
@@ -1043,8 +1083,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218366,
+      "num": 218366,
+      "word": "曾舜晞给白鹿编了个头盔",
+      "onboard_time": 1721038038,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215575,
-      "num": 200679,
+      "num": 202960,
       "word": "梅西晒照手捧两座美洲杯",
       "onboard_time": 1721035736,
       "rank": 30,
@@ -1083,6 +1131,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210462,
+      "num": 210462,
+      "word": "三伏天谨记三忌三宜",
+      "onboard_time": 1721037677,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209571,
+      "num": 209571,
+      "word": "韩国女性孕36周堕胎被警方调查",
+      "onboard_time": 1721037619,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207495,
       "num": 207495,
       "word": "王一博说希望运动员享受奥运",
@@ -1099,12 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207087,
-      "num": 207087,
-      "word": "突然发现很久没看喜羊羊了",
-      "onboard_time": 1721034497,
-      "rank": 34,
-      "category": "电影,动漫"
+      "raw_hot": 206185,
+      "num": 206185,
+      "word": "ricky沈泉锐费加罗男士中国首刊",
+      "onboard_time": 1721038098,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205617,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1721034798,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203386,
+      "num": 203386,
+      "word": "摄影师Vic拍的王一博",
+      "onboard_time": 1721038217,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201981,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1721018241,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195563,
+      "num": 195563,
+      "word": "梅德韦杰夫认为特朗普已赢得大选",
+      "onboard_time": 1721037018,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193874,
@@ -1491,6 +1571,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 169583,
+      "num": 203057,
+      "word": "59岁男子全网寻找撑伞姑娘",
+      "onboard_time": 1721035998,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169513,
       "num": 169513,
       "word": "井柏然刘雯合体拍摄",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1720973838,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158217,
+      "num": 158217,
+      "word": "广西通报26校6400多台空调装而不用",
+      "onboard_time": 1721035818,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157940,
@@ -1811,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132518,
+      "num": 344186,
+      "word": "长沙是网红餐饮最后的退路",
+      "onboard_time": 1721034018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129053,
       "num": 129053,
       "word": "秦彻开屏",
@@ -1857,6 +1961,14 @@
       "onboard_time": 1721021898,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125283,
+      "num": 125283,
+      "word": "找百万粉丝网红带货3场销量都为0",
+      "onboard_time": 1721037740,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 124998,
@@ -1923,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118883,
+      "num": 118883,
+      "word": "张真源暑期记录",
+      "onboard_time": 1721037499,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118370,
       "num": 118370,
       "word": "西班牙2比1英格兰",
@@ -1971,6 +2091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112145,
+      "num": 112145,
+      "word": "沈星回 卧底夫妇",
+      "onboard_time": 1721038397,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111883,
       "num": 111883,
       "word": "蔡依林的小狗屋虎",
@@ -2011,12 +2139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109471,
+      "num": 201029,
+      "word": "美国100多万人陷入停电危机",
+      "onboard_time": 1721034677,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108357,
       "num": 108357,
       "word": "南门的命不如凯恩的硬",
       "onboard_time": 1720999755,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105897,
+      "num": 105897,
+      "word": "原来驾校才是成年人的托儿所",
+      "onboard_time": 1721038818,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105451,
@@ -2067,14 +2211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100641,
-      "num": 344186,
-      "word": "长沙是网红餐饮最后的退路",
-      "onboard_time": 1721034018,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98941,
       "num": 98941,
       "word": "单依纯白色晶钻鱼尾裙",
@@ -2107,20 +2243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94895,
+      "num": 879010,
+      "word": "中国产品这么能打是干出来闯出来的",
+      "onboard_time": 1721033719,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94200,
       "num": 94200,
       "word": "西班牙下半场闪电进球",
       "onboard_time": 1720988832,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90757,
-      "num": 879010,
-      "word": "中国产品这么能打是干出来闯出来的",
-      "onboard_time": 1721033719,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90742,
@@ -2201,14 +2337,6 @@
       "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79705,
-      "num": 200800,
-      "word": "59岁男子全网寻找撑伞姑娘",
-      "onboard_time": 1721035998,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79594,
@@ -2395,20 +2523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51067,
-      "num": 201029,
-      "word": "美国100多万人陷入停电危机",
-      "onboard_time": 1721034677,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50391,
       "num": 267582,
       "word": "来浙小伙浙里办申请公积金转移秒到账",
       "onboard_time": 1721035339,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50296,
+      "num": 342925,
+      "word": "王一博担任巴黎奥运火炬手",
+      "onboard_time": 1721034439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49971,
@@ -2435,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46608,
+      "num": 382217,
+      "word": "外国游客成了我的互联网嘴替",
+      "onboard_time": 1721037619,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46470,
       "num": 1768104,
       "word": "行进的中国如此蓬勃",
@@ -2457,14 +2593,6 @@
       "onboard_time": 1721018960,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 43285,
-      "num": 342925,
-      "word": "王一博担任巴黎奥运火炬手",
-      "onboard_time": 1721034439,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 41214,
@@ -2619,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22252,
+      "num": 287202,
+      "word": "记者调查职业退险人产业链",
+      "onboard_time": 1721037619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21784,
       "num": 148659,
       "word": "周深说荧光棒别打到前面的朋友",
@@ -2656,6 +2792,9 @@
     },
     {
       "word": "#二十届三中全会议程#"
+    },
+    {
+      "word": "#全面深化改革进行时#"
     }
   ]
 }
