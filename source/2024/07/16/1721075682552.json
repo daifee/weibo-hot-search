@@ -1,0 +1,410 @@
+{
+  "runTime": 1721075682552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 51967,
+        "num": 51967,
+        "word": "迪丽热巴不喝冰川水的原因",
+        "onboard_time": 1721049740,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25471,
+        "num": 51935,
+        "word": "九尾缺席沙特大名单",
+        "onboard_time": 1721044098,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10287,
+        "num": 51150,
+        "word": "全面深化改革的实践续篇",
+        "onboard_time": 1721048837,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27838,
+        "num": 50957,
+        "word": "北京一幼儿园突遇搬迁遭家长集体反对",
+        "onboard_time": 1721052380,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24934,
+        "num": 50346,
+        "word": "秦彻 喵喵牌",
+        "onboard_time": 1721045657,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24468,
+        "num": 50008,
+        "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
+        "onboard_time": 1721048899,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23690,
+        "num": 49209,
+        "word": "本届欧洲杯到底有多难看",
+        "onboard_time": 1721054000,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19897,
+        "num": 48681,
+        "word": "3名中国火炬手巴黎传递奥运火炬",
+        "onboard_time": 1721048178,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7155,
+        "num": 48283,
+        "word": "上半年中国GDP同比增长5.0%",
+        "onboard_time": 1721034018,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5416,
+        "num": 47868,
+        "word": "杭州老板连续4年夏天送出30万支棒冰",
+        "onboard_time": 1721061735,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59051,
+        "num": 47346,
+        "word": "劳斯莱斯传奇设计师被刺身亡",
+        "onboard_time": 1721053699,
+        "rank": 10,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 47228,
+        "num": 47228,
+        "word": "日本17岁女孩误拍他人惨遭杀害",
+        "onboard_time": 1721042777,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35826,
+        "num": 46889,
+        "word": "霸王茶姬就员工离职被公示致歉",
+        "onboard_time": 1721050638,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 46156,
+        "word": "孟子义原名孟子乂",
+        "onboard_time": 1721046677,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27656,
+        "num": 45321,
+        "word": "旅行有一种没苦硬吃的感觉",
+        "onboard_time": 1721069772,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17923,
+        "num": 44718,
+        "word": "王子奇李耕耘争当爹",
+        "onboard_time": 1721062454,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17179,
+        "num": 43777,
+        "word": "九尾Cat清清梦之队交流大使",
+        "onboard_time": 1721044997,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16776,
+        "num": 43199,
+        "word": "三伏天反而要防寒",
+        "onboard_time": 1721071931,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16593,
+        "num": 42375,
+        "word": "ins爆火双麻花辫",
+        "onboard_time": 1721065154,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 16271,
+        "num": 41405,
+        "word": "秦彻登场",
+        "onboard_time": 1721061075,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41343,
+        "num": 41343,
+        "word": "长期烧水喝和买桶装水喝哪个更健康",
+        "onboard_time": 1721053340,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36658,
+        "num": 41323,
+        "word": "失眠为什么建议把脚露外面",
+        "onboard_time": 1721061676,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22752,
+        "num": 41314,
+        "word": "韩国女性孕36周堕胎被警方调查",
+        "onboard_time": 1721037619,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20701,
+        "num": 41294,
+        "word": "网传花儿与少年6名单",
+        "onboard_time": 1721069291,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18802,
+        "num": 41279,
+        "word": "最讨厌的小说女主名字",
+        "onboard_time": 1721050761,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16470,
+        "num": 41252,
+        "word": "百岁奶奶为浇菜把粪桶放孙子屋",
+        "onboard_time": 1721052380,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16137,
+        "num": 41217,
+        "word": "吴谨言王星越叼玫瑰花片段被删",
+        "onboard_time": 1721049139,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16126,
+        "num": 41217,
+        "word": "三伏天谨记三忌三宜",
+        "onboard_time": 1721037677,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16098,
+        "num": 41185,
+        "word": "iPhone16值得等吗",
+        "onboard_time": 1721042538,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15084,
+        "num": 41164,
+        "word": "猫 没事哒",
+        "onboard_time": 1721046077,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14758,
+        "num": 41148,
+        "word": "原来一个人就可以四世同堂了",
+        "onboard_time": 1721066172,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14701,
+        "num": 41133,
+        "word": "爱奇艺回应基础会员不能跳片头广告",
+        "onboard_time": 1721036598,
+        "rank": 31,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 14049,
+        "num": 41097,
+        "word": "当你的手办被妈妈碰过",
+        "onboard_time": 1721051478,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13902,
+        "num": 41073,
+        "word": "周雨彤 花少",
+        "onboard_time": 1721047397,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13570,
+        "num": 41066,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13259,
+        "num": 41031,
+        "word": "小夭给玱玹砸了一辈子",
+        "onboard_time": 1721046497,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13113,
+        "num": 41009,
+        "word": "韩总 夫人终于给你名分了",
+        "onboard_time": 1721037438,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12928,
+        "num": 41004,
+        "word": "王者梦之队大名单",
+        "onboard_time": 1721043857,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12875,
+        "num": 40969,
+        "word": "拍出了赵今麦竹的气质",
+        "onboard_time": 1721052919,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12828,
+        "num": 40957,
+        "word": "07高中生的一天是什么样",
+        "onboard_time": 1721055198,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12775,
+        "num": 40936,
+        "word": "解决内耗最好的方法是学会翻篇",
+        "onboard_time": 1721062574,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12617,
+        "num": 40904,
+        "word": "国家助学贷款在校期间本息都不用还",
+        "onboard_time": 1721052799,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12298,
+        "num": 40893,
+        "word": "相柳九命九脸",
+        "onboard_time": 1721050820,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12211,
+        "num": 40865,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 40861,
+        "word": "一家三口心眼子不齐是什么体验",
+        "onboard_time": 1721055019,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5630,
+        "num": 40832,
+        "word": "小孩被海浪卷走大哥一把拽回",
+        "onboard_time": 1721058676,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12070,
+        "num": 40817,
+        "word": "文佳煐车银优合照",
+        "onboard_time": 1721054420,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11487,
+        "num": 40782,
+        "word": "邓为涂山璟人夫感",
+        "onboard_time": 1721051598,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10952,
+        "num": 40767,
+        "word": "被小女孩照顾长大的小象",
+        "onboard_time": 1721073551,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10919,
+        "num": 40743,
+        "word": "视觉中国回应特朗普照片版权",
+        "onboard_time": 1721030298,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航新征程#"
+    }
+  }
+}

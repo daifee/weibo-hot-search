@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721074838239,
+  "endTime": 1721075682552,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -6084,7 +6084,7 @@
     },
     {
       "raw_hot": 31365,
-      "num": 27472,
+      "num": 41294,
       "word": "网传花儿与少年6名单",
       "onboard_time": 1721069291,
       "rank": 22,
@@ -6147,6 +6147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27656,
+      "num": 45321,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 26762,
       "num": 26762,
       "word": "亚马尔17岁的第一天",
@@ -6193,14 +6201,6 @@
       "onboard_time": 1721048837,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22465,
-      "num": 25040,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 22252,
@@ -6299,20 +6299,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16776,
+      "num": 43199,
+      "word": "三伏天反而要防寒",
+      "onboard_time": 1721071931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16039,
       "num": 45244,
       "word": "下班理发的辅警冲进火场灭了个火",
       "onboard_time": 1720895778,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 16006,
-      "num": 22857,
-      "word": "三伏天反而要防寒",
-      "onboard_time": 1721071931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15931,
@@ -6377,6 +6377,14 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10952,
+      "num": 40767,
+      "word": "被小女孩照顾长大的小象",
+      "onboard_time": 1721073551,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 8501,
