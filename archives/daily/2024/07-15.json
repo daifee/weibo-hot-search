@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721047089018,
+  "endTime": 1721048008905,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1034326,
-      "num": 445103,
+      "num": 459830,
       "word": "日本17岁女孩误拍他人惨遭杀害",
       "onboard_time": 1721042777,
       "rank": 29,
@@ -217,6 +217,14 @@
       "onboard_time": 1721022439,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911736,
+      "num": 387174,
+      "word": "孟子义原名孟子乂",
+      "onboard_time": 1721046677,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 907631,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449624,
+      "num": 449624,
+      "word": "小夭给玱玹砸了一辈子",
+      "onboard_time": 1721046497,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449532,
       "num": 449532,
       "word": "刘宇宁有个事儿通报一下",
@@ -651,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387174,
-      "num": 387174,
-      "word": "孟子义原名孟子乂",
-      "onboard_time": 1721046677,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386326,
       "num": 794577,
       "word": "好像所有人都确认了相柳的结局",
@@ -745,6 +753,14 @@
       "onboard_time": 1721008997,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 351550,
+      "num": 205652,
+      "word": "猫 没事哒",
+      "onboard_time": 1721046077,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 347195,
@@ -907,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291626,
+      "num": 291626,
+      "word": "鹭卓巡演官宣",
+      "onboard_time": 1721046559,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288327,
       "num": 288327,
       "word": "工作室分享赵丽颖的休憩时光",
@@ -1035,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 266083,
+      "num": 266083,
+      "word": "周雨彤 花少",
+      "onboard_time": 1721047397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263381,
       "num": 263381,
       "word": "杨迪猜中TFBOYS宠爱",
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231258,
-      "num": 231258,
-      "word": "鹭卓巡演官宣",
-      "onboard_time": 1721046559,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 231074,
       "num": 214678,
       "word": "泫雅最新状态",
@@ -1227,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218175,
-      "num": 205652,
-      "word": "猫 没事哒",
-      "onboard_time": 1721046077,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215575,
       "num": 202960,
       "word": "梅西晒照手捧两座美洲杯",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1721037677,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213057,
+      "num": 199268,
+      "word": "杨幂头伏营业",
+      "onboard_time": 1721047638,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211306,
@@ -1355,12 +1379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204740,
-      "num": 204740,
-      "word": "小夭给玱玹砸了一辈子",
-      "onboard_time": 1721046497,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 204244,
+      "num": 198478,
+      "word": "大家好像都不被允许休息",
+      "onboard_time": 1721043077,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 203598,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1721040979,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202979,
+      "num": 202979,
+      "word": "长相思复更",
+      "onboard_time": 1721046497,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 201981,
@@ -1507,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195011,
-      "num": 195011,
-      "word": "大家好像都不被允许休息",
-      "onboard_time": 1721043077,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193874,
       "num": 193874,
       "word": "亚马尔和女友庆祝夺冠",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1721019561,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186115,
+      "num": 186115,
+      "word": "奥运官网发布12位值得关注运动员",
+      "onboard_time": 1721046918,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 183002,
@@ -1947,6 +1979,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 155886,
+      "num": 155886,
+      "word": "为什么韩国人一直在休学",
+      "onboard_time": 1721046077,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155527,
       "num": 155527,
       "word": "徐志胜李雪琴和艺人互动reaction",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1720962140,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 149433,
-      "num": 149433,
-      "word": "长相思复更",
-      "onboard_time": 1721046497,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 147870,
@@ -2099,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141771,
+      "num": 141771,
+      "word": "谁家男主钓鱼拿自己做饵啊",
+      "onboard_time": 1721047579,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140313,
       "num": 140313,
       "word": "西班牙vs英格兰首发",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1721001378,
       "rank": 45,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 138011,
+      "num": 138011,
+      "word": "特斯拉出毛豆车贴99元3个",
+      "onboard_time": 1721047157,
+      "rank": 40,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 137807,
@@ -2139,8 +2187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136251,
-      "num": 136251,
+      "raw_hot": 137172,
+      "num": 137172,
       "word": "董宇辉余承东直播",
       "onboard_time": 1721044037,
       "rank": 43,
@@ -2211,28 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130952,
-      "num": 130952,
-      "word": "为什么韩国人一直在休学",
-      "onboard_time": 1721046077,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129053,
       "num": 129053,
       "word": "秦彻开屏",
       "onboard_time": 1721002038,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128803,
-      "num": 128803,
-      "word": "奥运官网发布12位值得关注运动员",
-      "onboard_time": 1721046918,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 128348,
@@ -2835,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58811,
+      "num": 452742,
+      "word": "中国乒乓巴黎如愿",
+      "onboard_time": 1721046138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58216,
       "num": 58216,
       "word": "2024欧洲杯",
@@ -2915,6 +2955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47310,
+      "num": 217873,
+      "word": "奇瑞车扛住了6头大象的重力",
+      "onboard_time": 1721043979,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46470,
       "num": 1768104,
       "word": "行进的中国如此蓬勃",
@@ -2939,20 +2987,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 44186,
-      "num": 217756,
-      "word": "奇瑞车扛住了6头大象的重力",
-      "onboard_time": 1721043979,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41214,
       "num": 274210,
       "word": "小荷包用户或成欧洲杯大赢家",
       "onboard_time": 1721023518,
       "rank": 14,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 39999,
+      "num": 134476,
+      "word": "吴奇隆反向录综艺",
+      "onboard_time": 1721047277,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 38630,
@@ -2977,14 +3025,6 @@
       "onboard_time": 1720985532,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37016,
-      "num": 388984,
-      "word": "中国乒乓巴黎如愿",
-      "onboard_time": 1721046138,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36163,

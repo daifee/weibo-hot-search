@@ -1,0 +1,410 @@
+{
+  "runTime": 1721048008905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 468959,
+        "num": 1075033,
+        "word": "爱奇艺回应基础会员不能跳片头广告",
+        "onboard_time": 1721036598,
+        "rank": 0,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 467499,
+        "num": 467499,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55102,
+        "num": 466707,
+        "word": "中国产品这么能打是干出来闯出来的",
+        "onboard_time": 1721033719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941238,
+        "num": 459830,
+        "word": "日本17岁女孩误拍他人惨遭杀害",
+        "onboard_time": 1721042777,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476463,
+        "num": 458298,
+        "word": "韩总 夫人终于给你名分了",
+        "onboard_time": 1721037438,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58811,
+        "num": 452742,
+        "word": "中国乒乓巴黎如愿",
+        "onboard_time": 1721046138,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449624,
+        "num": 449624,
+        "word": "小夭给玱玹砸了一辈子",
+        "onboard_time": 1721046497,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49471,
+        "num": 367199,
+        "word": "暑期小城游火出圈",
+        "onboard_time": 1721041217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363557,
+        "num": 363557,
+        "word": "iPhone16值得等吗",
+        "onboard_time": 1721042538,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 342356,
+        "num": 342356,
+        "word": "九尾Cat清清梦之队交流大使",
+        "onboard_time": 1721044997,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 911736,
+        "num": 338892,
+        "word": "孟子义原名孟子乂",
+        "onboard_time": 1721046677,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334362,
+        "num": 334362,
+        "word": "九尾缺席沙特大名单",
+        "onboard_time": 1721044098,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303727,
+        "num": 303727,
+        "word": "秦彻 喵喵牌",
+        "onboard_time": 1721045657,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300963,
+        "num": 300963,
+        "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+        "onboard_time": 1721022016,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291626,
+        "num": 291626,
+        "word": "鹭卓巡演官宣",
+        "onboard_time": 1721046559,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279155,
+        "num": 279155,
+        "word": "中国女子在泰国遭肢解案嫌疑人落网",
+        "onboard_time": 1721038877,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 266083,
+        "num": 266083,
+        "word": "周雨彤 花少",
+        "onboard_time": 1721047397,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47310,
+        "num": 217873,
+        "word": "奇瑞车扛住了6头大象的重力",
+        "onboard_time": 1721043979,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211485,
+        "num": 211485,
+        "word": "王者梦之队大名单",
+        "onboard_time": 1721043857,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202979,
+        "num": 202979,
+        "word": "长相思复更",
+        "onboard_time": 1721046497,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378716,
+        "num": 202781,
+        "word": "视觉中国回应特朗普照片版权",
+        "onboard_time": 1721030298,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 351550,
+        "num": 202047,
+        "word": "猫 没事哒",
+        "onboard_time": 1721046077,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341139,
+        "num": 201455,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334355,
+        "num": 200747,
+        "word": "韩国女性孕36周堕胎被警方调查",
+        "onboard_time": 1721037619,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320080,
+        "num": 200175,
+        "word": "胖室每天一个离职小技巧",
+        "onboard_time": 1721041518,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226821,
+        "num": 199660,
+        "word": "唐诡2晚安大小姐变安息大小姐",
+        "onboard_time": 1721045776,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213057,
+        "num": 199268,
+        "word": "杨幂头伏营业",
+        "onboard_time": 1721047638,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204244,
+        "num": 198478,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1721043077,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198160,
+        "num": 198160,
+        "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+        "onboard_time": 1721029700,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194674,
+        "num": 194674,
+        "word": "刘国梁回应缺席国乒奥运名单",
+        "onboard_time": 1721039717,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194832,
+        "num": 191292,
+        "word": "王楚钦问不让带吃的吗",
+        "onboard_time": 1721046018,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186115,
+        "num": 186115,
+        "word": "奥运官网发布12位值得关注运动员",
+        "onboard_time": 1721046918,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172091,
+        "num": 172091,
+        "word": "男子凌晨报警家里多出一个孩子",
+        "onboard_time": 1721045477,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162629,
+        "num": 162629,
+        "word": "瓶装水为什么越来越便宜",
+        "onboard_time": 1721030359,
+        "rank": 33,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 155886,
+        "num": 155886,
+        "word": "为什么韩国人一直在休学",
+        "onboard_time": 1721046077,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154157,
+        "num": 154157,
+        "word": "三伏天减肥瘦的太快了",
+        "onboard_time": 1721026458,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151119,
+        "num": 151119,
+        "word": "原神卡齐娜",
+        "onboard_time": 1721042898,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149229,
+        "num": 149229,
+        "word": "苏醒回应自己是梅西球迷",
+        "onboard_time": 1721035638,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 147519,
+        "num": 147519,
+        "word": "神偷奶爸4里有BLACKPINK",
+        "onboard_time": 1721046918,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141771,
+        "num": 141771,
+        "word": "谁家男主钓鱼拿自己做饵啊",
+        "onboard_time": 1721047579,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138011,
+        "num": 138011,
+        "word": "特斯拉出毛豆车贴99元3个",
+        "onboard_time": 1721047157,
+        "rank": 40,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 137233,
+        "num": 137233,
+        "word": "三伏天谨记三忌三宜",
+        "onboard_time": 1721037677,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137172,
+        "num": 137172,
+        "word": "董宇辉余承东直播",
+        "onboard_time": 1721044037,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39999,
+        "num": 134476,
+        "word": "吴奇隆反向录综艺",
+        "onboard_time": 1721047277,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132372,
+        "num": 132372,
+        "word": "哑舍选角",
+        "onboard_time": 1721043797,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132299,
+        "num": 132299,
+        "word": "特朗普受访谈及遇袭细节",
+        "onboard_time": 1721032759,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126941,
+        "num": 126941,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119017,
+        "num": 119017,
+        "word": "曾舜晞给白鹿编了个头盔",
+        "onboard_time": 1721038038,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111287,
+        "num": 111287,
+        "word": "邓为叶十七返场剧照",
+        "onboard_time": 1721045177,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109673,
+        "num": 109673,
+        "word": "还以为杨洋衣服脏了",
+        "onboard_time": 1721038939,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会议程#"
+    }
+  }
+}
