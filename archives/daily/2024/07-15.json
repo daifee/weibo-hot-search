@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721049780412,
+  "endTime": 1721050472974,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -251,20 +251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 881669,
+      "num": 1141067,
+      "word": "周雨彤 花少",
+      "onboard_time": 1721047397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 868612,
       "num": 868612,
       "word": "原来教师编面试是一场沉浸式表演",
       "onboard_time": 1721010378,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 847484,
-      "num": 1135597,
-      "word": "周雨彤 花少",
-      "onboard_time": 1721047397,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 833901,
@@ -355,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 687552,
+      "num": 233406,
+      "word": "猫 没事哒",
+      "onboard_time": 1721046077,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 671554,
       "num": 344535,
       "word": "四川电子税务局",
@@ -377,14 +385,6 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 616095,
-      "num": 221491,
-      "word": "猫 没事哒",
-      "onboard_time": 1721046077,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 603532,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 575624,
+      "num": 294242,
+      "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
+      "onboard_time": 1721048899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570399,
       "num": 570399,
       "word": "哑舍杀青",
@@ -481,6 +489,14 @@
       "onboard_time": 1721028019,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537795,
+      "num": 449624,
+      "word": "小夭给玱玹砸了一辈子",
+      "onboard_time": 1721046497,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 537320,
@@ -555,12 +571,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 474598,
-      "num": 449624,
-      "word": "小夭给玱玹砸了一辈子",
-      "onboard_time": 1721046497,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 492404,
+      "num": 290039,
+      "word": "郑爽张恒公司连续3年经营异常",
+      "onboard_time": 1721050039,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 471057,
@@ -576,6 +592,14 @@
       "word": "刘宇宁有个事儿通报一下",
       "onboard_time": 1721025739,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449496,
+      "num": 297816,
+      "word": "迪丽热巴不喝冰川水的原因",
+      "onboard_time": 1721049740,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1721002880,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423759,
+      "num": 423759,
+      "word": "奥运官网发布12位值得关注运动员",
+      "onboard_time": 1721046918,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 419832,
@@ -803,14 +835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 340736,
-      "num": 299842,
-      "word": "奥运官网发布12位值得关注运动员",
-      "onboard_time": 1721046918,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335764,
       "num": 335764,
       "word": "错位",
@@ -825,14 +849,6 @@
       "onboard_time": 1720975576,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333088,
-      "num": 294242,
-      "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
-      "onboard_time": 1721048899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332761,
@@ -1347,6 +1363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 208314,
+      "num": 208314,
+      "word": "吴谨言王星越叼玫瑰花片段被删",
+      "onboard_time": 1721049139,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207495,
       "num": 207495,
       "word": "王一博说希望运动员享受奥运",
@@ -1683,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182560,
+      "num": 182560,
+      "word": "3名中国火炬手巴黎传递奥运火炬",
+      "onboard_time": 1721048178,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182237,
       "num": 182237,
       "word": "异人之下 异人在身边",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1721040258,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177655,
+      "num": 177655,
+      "word": "为什么韩国人一直在休学",
+      "onboard_time": 1721046077,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 176272,
@@ -1747,36 +1787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174678,
-      "num": 174678,
-      "word": "为什么韩国人一直在休学",
-      "onboard_time": 1721046077,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 173876,
-      "num": 173876,
-      "word": "吴谨言王星越叼玫瑰花片段被删",
-      "onboard_time": 1721049139,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 173871,
       "num": 173871,
       "word": "邓超和等等 活泼老奴和沉稳少爷",
       "onboard_time": 1720964180,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172526,
-      "num": 172526,
-      "word": "3名中国火炬手巴黎传递奥运火炬",
-      "onboard_time": 1721048178,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 172162,
@@ -2003,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157611,
+      "num": 157611,
+      "word": "特斯拉出毛豆车贴99元3个",
+      "onboard_time": 1721047157,
+      "rank": 40,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 157351,
       "num": 157351,
       "word": "金硕珍担任巴黎奥运会火炬手",
@@ -2075,12 +2099,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 148002,
-      "num": 148002,
-      "word": "特斯拉出毛豆车贴99元3个",
-      "onboard_time": 1721047157,
-      "rank": 40,
-      "category": "社会新闻,汽车"
+      "raw_hot": 148399,
+      "num": 148399,
+      "word": "余承东回应经常挨任正非批评",
+      "onboard_time": 1721049498,
+      "rank": 42,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 147870,
@@ -2171,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141457,
+      "num": 141457,
+      "word": "这么多年水果都洗错了",
+      "onboard_time": 1721048778,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 140313,
       "num": 140313,
       "word": "西班牙vs英格兰首发",
@@ -2217,14 +2249,6 @@
       "onboard_time": 1721044037,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 136123,
-      "num": 136123,
-      "word": "这么多年水果都洗错了",
-      "onboard_time": 1721048778,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 135914,
@@ -2347,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123999,
+      "num": 123999,
+      "word": "额间雪花告诉小夭相柳来过",
+      "onboard_time": 1721050279,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123987,
       "num": 123987,
       "word": "印度一地一天内25人被雷击身亡",
@@ -2449,14 +2481,6 @@
       "onboard_time": 1721040498,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116235,
-      "num": 116235,
-      "word": "余承东回应经常挨任正非批评",
-      "onboard_time": 1721049498,
-      "rank": 42,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 116191,
@@ -2593,14 +2617,6 @@
       "onboard_time": 1720974076,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 103188,
-      "num": 103188,
-      "word": "迪丽热巴不喝冰川水的原因",
-      "onboard_time": 1721049740,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 102080,
@@ -2792,6 +2808,14 @@
       "word": "凯恩再次有金靴无冠军",
       "onboard_time": 1720996634,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78875,
+      "num": 295043,
+      "word": "刘国梁介绍国乒奥运会三个阶段",
+      "onboard_time": 1721049859,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -3060,7 +3084,7 @@
     },
     {
       "raw_hot": 39999,
-      "num": 219390,
+      "num": 232656,
       "word": "吴奇隆反向录综艺",
       "onboard_time": 1721047277,
       "rank": 43,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1720986372,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32146,
+      "num": 356417,
+      "word": "奋进中国",
+      "onboard_time": 1721049798,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31704,
