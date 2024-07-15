@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721008036033,
+  "endTime": 1721011217747,
   "band_list": [
     {
       "raw_hot": 1829043,
@@ -24,6 +24,14 @@
       "word": "特朗普照片",
       "onboard_time": 1721000837,
       "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1310814,
+      "num": 408069,
+      "word": "特朗普妻子梅拉尼娅罕见露面",
+      "onboard_time": 1721006598,
+      "rank": 44,
       "category": "国外时政"
     },
     {
@@ -75,12 +83,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 844415,
-      "num": 408069,
-      "word": "特朗普妻子梅拉尼娅罕见露面",
-      "onboard_time": 1721006598,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 856597,
+      "num": 856597,
+      "word": "今年上半年GDP同比增长5%",
+      "onboard_time": 1721009839,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 773337,
@@ -147,6 +155,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 566608,
+      "num": 566608,
+      "word": "抓娃娃",
+      "onboard_time": 1720942891,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 558616,
+      "num": 371692,
+      "word": "特朗普遇袭照登上时代杂志封面",
+      "onboard_time": 1721009718,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 544846,
       "num": 544846,
       "word": "特朗普称右耳被子弹击穿",
@@ -155,8 +179,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 524758,
-      "num": 524758,
+      "raw_hot": 525089,
+      "num": 525089,
       "word": "阿根廷vs哥伦比亚",
       "onboard_time": 1721002938,
       "rank": 8,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 522422,
-      "num": 311867,
+      "num": 313558,
       "word": "皮肤有这7个变化提示血糖超标了",
       "onboard_time": 1721005279,
       "rank": 20,
@@ -177,6 +201,14 @@
       "onboard_time": 1720965921,
       "rank": 12,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 471057,
+      "num": 471057,
+      "word": "王一博登上法国新闻",
+      "onboard_time": 1721006480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 442693,
@@ -211,6 +243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 390309,
+      "num": 360731,
+      "word": "原来教师编面试是一场沉浸式表演",
+      "onboard_time": 1721010378,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 389696,
+      "num": 356913,
+      "word": "梅西被铲倒",
+      "onboard_time": 1721010196,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388703,
       "num": 388703,
       "word": "迪士尼西班牙区发了刘亦菲花木兰",
@@ -235,12 +283,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356108,
+      "num": 356108,
+      "word": "早期宋慧乔",
+      "onboard_time": 1721008458,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352072,
+      "num": 352072,
+      "word": "Uzi老婆吃醋",
+      "onboard_time": 1721008997,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347195,
       "num": 243934,
       "word": "女爱豆宣誓绝对不找丑人谈恋爱",
       "onboard_time": 1720962799,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341241,
+      "num": 341241,
+      "word": "A股",
+      "onboard_time": 1721009357,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 335764,
@@ -299,14 +371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 317872,
-      "num": 282509,
-      "word": "王一博登上法国新闻",
-      "onboard_time": 1721006480,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287335,
       "num": 357709,
       "word": "王楚钦孙颖莎巴黎如愿",
@@ -347,12 +411,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258453,
-      "num": 258453,
+      "raw_hot": 272916,
+      "num": 272916,
       "word": "为啥每年体检都正常却突然查出癌症",
       "onboard_time": 1721005579,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252325,
+      "num": 252325,
+      "word": "三伏天真的适合减肥吗",
+      "onboard_time": 1721010378,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 252254,
@@ -403,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219571,
+      "num": 409423,
+      "word": "她从死神手里抢回的学生读大学了",
+      "onboard_time": 1721006778,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219272,
       "num": 219272,
       "word": "西班牙第4次捧起欧洲杯",
@@ -443,12 +523,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "哥伦比亚 对抗",
+      "onboard_time": 1721010438,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199415,
       "num": 199415,
       "word": "帕尔默 零首发",
       "onboard_time": 1721006058,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199215,
+      "num": 199215,
+      "word": "英雄联盟",
+      "onboard_time": 1721010858,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 197981,
@@ -467,12 +563,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186429,
+      "num": 186429,
+      "word": "王一博传递奥运圣火",
+      "onboard_time": 1721010739,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 183002,
       "num": 183002,
       "word": "奥亚萨瓦尔绝杀",
       "onboard_time": 1720990332,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182237,
+      "num": 182237,
+      "word": "异人之下 异人在身边",
+      "onboard_time": 1721008758,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176860,
+      "num": 176860,
+      "word": "144小时过境免签适用口岸增至37个",
+      "onboard_time": 1721007978,
+      "rank": 49,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 176272,
@@ -515,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168789,
+      "num": 168789,
+      "word": "上半年买车均价比2019年贵3.7万元",
+      "onboard_time": 1721007497,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167843,
       "num": 167843,
       "word": "哈里凯恩无冠",
@@ -536,6 +664,14 @@
       "word": "阿尔卡拉斯温网两连冠",
       "onboard_time": 1720973838,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157715,
+      "num": 157715,
+      "word": "巴黎奥运乒乓球项目赛程表",
+      "onboard_time": 1721007796,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -561,14 +697,6 @@
       "onboard_time": 1721007016,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153908,
-      "num": 153908,
-      "word": "上半年买车均价比2019年贵3.7万元",
-      "onboard_time": 1721007497,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 153193,
@@ -635,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137097,
+      "num": 137097,
+      "word": "不到10块钱的降温冰圈靠什么降温",
+      "onboard_time": 1721011098,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 133900,
+      "num": 133900,
+      "word": "黄景瑜黄明昊黄晓明明明就",
+      "onboard_time": 1721009117,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132799,
       "num": 132799,
       "word": "真正厉害的人都是长期主义者",
@@ -643,12 +787,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131652,
-      "num": 409423,
-      "word": "她从死神手里抢回的学生读大学了",
-      "onboard_time": 1721006778,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 132767,
+      "num": 132767,
+      "word": "张钧甯演技",
+      "onboard_time": 1721008097,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 129053,
@@ -664,14 +808,6 @@
       "word": "西班牙队第27人来了",
       "onboard_time": 1720984272,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127940,
-      "num": 127940,
-      "word": "巴黎奥运乒乓球项目赛程表",
-      "onboard_time": 1721007796,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -729,14 +865,6 @@
       "onboard_time": 1720961419,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 114694,
-      "num": 114694,
-      "word": "144小时过境免签适用口岸增至37个",
-      "onboard_time": 1721007978,
-      "rank": 49,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 114533,
@@ -899,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82714,
-      "num": 82714,
-      "word": "抓娃娃",
-      "onboard_time": 1720942891,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82681,
       "num": 82681,
       "word": "爸妈给弟弟买了一万的电脑我退群了",
@@ -1011,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61592,
+      "num": 370505,
+      "word": "孙颖莎奥运出征带了什么",
+      "onboard_time": 1721008158,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61385,
       "num": 61385,
       "word": "薛之谦李健合唱像风一样",
@@ -1057,6 +1185,14 @@
       "onboard_time": 1720992430,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50901,
+      "num": 385989,
+      "word": "让境外来豫人员支付更便利",
+      "onboard_time": 1721010078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49971,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721011217747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320481,
+        "num": 1320481,
+        "word": "王一博捡起掉落的国旗",
+        "onboard_time": 1720999936,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856597,
+        "num": 856597,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 31202,
+        "num": 763129,
+        "word": "行进的中国如此蓬勃",
+        "onboard_time": 1720963640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687168,
+        "num": 687168,
+        "word": "贷款10万元被收了2.9万元服务费",
+        "onboard_time": 1721003059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566608,
+        "num": 566608,
+        "word": "抓娃娃",
+        "onboard_time": 1721009057,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525089,
+        "num": 525089,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1721002938,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515677,
+        "num": 515677,
+        "word": "美洲杯决赛",
+        "onboard_time": 1721003540,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471057,
+        "num": 471057,
+        "word": "王一博登上法国新闻",
+        "onboard_time": 1721006480,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385999,
+        "num": 385999,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50901,
+        "num": 385989,
+        "word": "让境外来豫人员支付更便利",
+        "onboard_time": 1721010078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310814,
+        "num": 380969,
+        "word": "特朗普妻子梅拉尼娅罕见露面",
+        "onboard_time": 1721006598,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 739367,
+        "num": 375858,
+        "word": "黄灿灿好美",
+        "onboard_time": 1721001859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558616,
+        "num": 371692,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 61592,
+        "num": 370505,
+        "word": "孙颖莎奥运出征带了什么",
+        "onboard_time": 1721008158,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465218,
+        "num": 365237,
+        "word": "拜登下令独立审查特朗普遭枪击集会",
+        "onboard_time": 1721005998,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 390309,
+        "num": 360731,
+        "word": "原来教师编面试是一场沉浸式表演",
+        "onboard_time": 1721010378,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389696,
+        "num": 356913,
+        "word": "梅西被铲倒",
+        "onboard_time": 1721010196,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356108,
+        "num": 356108,
+        "word": "早期宋慧乔",
+        "onboard_time": 1721008458,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352072,
+        "num": 352072,
+        "word": "Uzi老婆吃醋",
+        "onboard_time": 1721008997,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341241,
+        "num": 341241,
+        "word": "A股",
+        "onboard_time": 1721009357,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 459318,
+        "num": 313558,
+        "word": "皮肤有这7个变化提示血糖超标了",
+        "onboard_time": 1721005279,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284562,
+        "num": 284562,
+        "word": "见过空气刘海第一次见空气馒头",
+        "onboard_time": 1721001979,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276664,
+        "num": 276664,
+        "word": "因为脚疼和罗PD换鞋的joshua",
+        "onboard_time": 1721002880,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272916,
+        "num": 272916,
+        "word": "为啥每年体检都正常却突然查出癌症",
+        "onboard_time": 1721005579,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261802,
+        "num": 261802,
+        "word": "恋与深空2.0",
+        "onboard_time": 1721002998,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252325,
+        "num": 252325,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721010378,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 235529,
+        "num": 235529,
+        "word": "这3个体检项目其实是浪费钱",
+        "onboard_time": 1720977913,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219571,
+        "num": 219571,
+        "word": "她从死神手里抢回的学生读大学了",
+        "onboard_time": 1721006778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206757,
+        "num": 206757,
+        "word": "党的二十届三中全会开幕",
+        "onboard_time": 1720999274,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200174,
+        "num": 200174,
+        "word": "恋与深空快开门",
+        "onboard_time": 1721004498,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199424,
+        "num": 199424,
+        "word": "哥伦比亚 对抗",
+        "onboard_time": 1721010438,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 199215,
+        "word": "英雄联盟",
+        "onboard_time": 1721010858,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186429,
+        "num": 186429,
+        "word": "王一博传递奥运圣火",
+        "onboard_time": 1721010739,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 185505,
+        "num": 185505,
+        "word": "丁真说天天都是锅怎么都洗不完",
+        "onboard_time": 1721006839,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182344,
+        "num": 182344,
+        "word": "前车女生抓痒后车女生出手援助",
+        "onboard_time": 1721004921,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182237,
+        "num": 182237,
+        "word": "异人之下 异人在身边",
+        "onboard_time": 1721008758,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178582,
+        "num": 178582,
+        "word": "枪击特朗普枪手行凶衣着引关注",
+        "onboard_time": 1720969580,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177536,
+        "num": 177536,
+        "word": "李闽轩 中戏录取",
+        "onboard_time": 1720969460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176860,
+        "num": 176860,
+        "word": "144小时过境免签适用口岸增至37个",
+        "onboard_time": 1721007978,
+        "rank": 38,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 168789,
+        "num": 168789,
+        "word": "上半年买车均价比2019年贵3.7万元",
+        "onboard_time": 1721007497,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165214,
+        "num": 165214,
+        "word": "好像所有人都确认了相柳的结局",
+        "onboard_time": 1720969220,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 163946,
+        "word": "西班牙全胜夺冠",
+        "onboard_time": 1720991171,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157715,
+        "num": 157715,
+        "word": "巴黎奥运乒乓球项目赛程表",
+        "onboard_time": 1721007796,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "蔡依林发文怀念爱犬屋虎",
+        "onboard_time": 1721002579,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145293,
+        "num": 145293,
+        "word": "种地吧",
+        "onboard_time": 1721004739,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139758,
+        "num": 139758,
+        "word": "合肥公交集团通报蹦迪巴士",
+        "onboard_time": 1721007016,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137097,
+        "num": 137097,
+        "word": "不到10块钱的降温冰圈靠什么降温",
+        "onboard_time": 1721011098,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133900,
+        "num": 133900,
+        "word": "黄景瑜黄明昊黄晓明明明就",
+        "onboard_time": 1721009117,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132767,
+        "num": 132767,
+        "word": "张钧甯演技",
+        "onboard_time": 1721008097,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自我革命的精神推进改革#"
+    }
+  }
+}
