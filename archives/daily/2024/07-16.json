@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721081929952,
+  "endTime": 1721082929600,
   "band_list": [
     {
       "raw_hot": 694376,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58464,
+      "num": 38919,
+      "word": "惠州4人潜水失联背后",
+      "onboard_time": 1721077030,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57135,
       "num": 92127,
       "word": "解决内耗最好的方法是学会翻篇",
@@ -409,14 +417,6 @@
       "onboard_time": 1721046497,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45215,
-      "num": 31552,
-      "word": "惠州4人潜水失联背后",
-      "onboard_time": 1721077030,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43724,
@@ -443,12 +443,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 31365,
+      "raw_hot": 32230,
       "num": 41294,
       "word": "网传花儿与少年6名单",
       "onboard_time": 1721069291,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31338,
+      "num": 31338,
+      "word": "婆婆理解的皮蛋瘦肉粥",
+      "onboard_time": 1721080570,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 27936,
@@ -459,20 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20974,
-      "num": 22781,
+      "raw_hot": 25302,
+      "num": 25302,
       "word": "被拽走时依然保持明星姿态",
       "onboard_time": 1721078891,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 20655,
-      "num": 22778,
-      "word": "婆婆理解的皮蛋瘦肉粥",
-      "onboard_time": 1721080570,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 18323,
+      "num": 25416,
+      "word": "俩话痨在婚礼上也止不住唠嗑",
+      "onboard_time": 1721075711,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 18210,
@@ -481,14 +489,6 @@
       "onboard_time": 1721058676,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16876,
-      "num": 25416,
-      "word": "俩话痨在婚礼上也止不住唠嗑",
-      "onboard_time": 1721075711,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 16776,
@@ -513,6 +513,14 @@
       "onboard_time": 1721034018,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13896,
+      "num": 21010,
+      "word": "在德国电视台看到中国有多骄傲",
+      "onboard_time": 1721082912,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 13174,
