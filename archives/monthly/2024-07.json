@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721071093223,
+  "endTime": 1721072096945,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -42283,6 +42283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31365,
+      "num": 27472,
+      "word": "网传花儿与少年6名单",
+      "onboard_time": 1721069291,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31333,
       "num": 31333,
       "word": "贺军翔回应性骚扰指控",
@@ -42353,14 +42361,6 @@
       "onboard_time": 1719901519,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 30732,
-      "num": 27472,
-      "word": "网传花儿与少年6名单",
-      "onboard_time": 1721069291,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 30687,
@@ -43635,6 +43635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16863,
+      "num": 25040,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 16747,
       "num": 148498,
       "word": "一半一半的智慧",
@@ -43721,14 +43729,6 @@
       "onboard_time": 1720084638,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 15680,
-      "num": 25040,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 15674,
@@ -43968,6 +43968,14 @@
       "word": "保安车库察觉汽油味上演教科书式操作",
       "onboard_time": 1720110436,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12471,
+      "num": 22354,
+      "word": "三伏天反而要防寒",
+      "onboard_time": 1721071931,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
