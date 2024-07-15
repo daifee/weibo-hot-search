@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721042208143,
+  "endTime": 1721043318642,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -619,6 +619,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 694799,
+      "num": 307064,
+      "word": "中国女子在泰国遭肢解案嫌疑人落网",
+      "onboard_time": 1721038877,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 691745,
       "num": 459363,
       "word": "特朗普下飞机时又挥舞了拳头",
@@ -841,14 +849,6 @@
       "onboard_time": 1721011338,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 565214,
-      "num": 307064,
-      "word": "中国女子在泰国遭肢解案嫌疑人落网",
-      "onboard_time": 1721038877,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 560868,
@@ -1643,6 +1643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 318494,
+      "num": 318494,
+      "word": "曾舜晞给白鹿编了个头盔",
+      "onboard_time": 1721038038,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317661,
       "num": 317661,
       "word": "温网男单决赛",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1721030658,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 309392,
-      "num": 309392,
-      "word": "曾舜晞给白鹿编了个头盔",
-      "onboard_time": 1721038038,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 307994,
@@ -1889,6 +1889,14 @@
       "onboard_time": 1721016560,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 280895,
+      "num": 280895,
+      "word": "原神卡齐娜",
+      "onboard_time": 1721042898,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 279900,
@@ -2219,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239311,
+      "num": 200821,
+      "word": "胖室每天一个离职小技巧",
+      "onboard_time": 1721041518,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236830,
       "num": 259984,
       "word": "长沙这么热吗",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1720959619,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225013,
+      "num": 197363,
+      "word": "当老外在中国染上外卖",
+      "onboard_time": 1721041159,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 223877,
@@ -2411,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218263,
+      "num": 166240,
+      "word": "iPhone16值得等吗",
+      "onboard_time": 1721042538,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215575,
       "num": 202960,
       "word": "梅西晒照手捧两座美洲杯",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1720971438,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210026,
+      "num": 210026,
+      "word": "梅德韦杰夫认为特朗普已赢得大选",
+      "onboard_time": 1721037018,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 209121,
@@ -2827,14 +2867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195563,
-      "num": 195563,
-      "word": "梅德韦杰夫认为特朗普已赢得大选",
-      "onboard_time": 1721037018,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 194279,
       "num": 194279,
       "word": "青春没有售价少白男模上架",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1721019561,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184849,
-      "num": 184849,
-      "word": "当老外在中国染上外卖",
-      "onboard_time": 1721041159,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 184776,
@@ -3379,14 +3403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167866,
-      "num": 167866,
-      "word": "胖室每天一个离职小技巧",
-      "onboard_time": 1721041518,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167843,
       "num": 167843,
       "word": "哈里凯恩无冠",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1720973838,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165554,
+      "num": 165554,
+      "word": "元梦之星直播",
+      "onboard_time": 1721043077,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 165551,
@@ -3691,6 +3715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151839,
+      "num": 151839,
+      "word": "遇到了一只又聋又瞎的小猫",
+      "onboard_time": 1721039778,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151776,
       "num": 151776,
       "word": "梅西生涯第45冠",
@@ -3777,6 +3809,14 @@
       "onboard_time": 1720917738,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 146673,
+      "num": 146673,
+      "word": "大家好像都不被允许休息",
+      "onboard_time": 1721043077,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 146507,
@@ -4035,12 +4075,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134303,
-      "num": 134303,
-      "word": "遇到了一只又聋又瞎的小猫",
-      "onboard_time": 1721039778,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 134174,
+      "num": 134174,
+      "word": "张远的花絮到底是哪天的",
+      "onboard_time": 1721042118,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 133991,
@@ -4291,8 +4331,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123987,
+      "num": 123987,
+      "word": "印度一地一天内25人被雷击身亡",
+      "onboard_time": 1721040617,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123896,
-      "num": 123896,
+      "num": 278204,
       "word": "国乒7月22日左右进驻奥运村",
       "onboard_time": 1721039297,
       "rank": 46,
@@ -4579,14 +4627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106535,
-      "num": 106535,
-      "word": "张远的花絮到底是哪天的",
-      "onboard_time": 1721042118,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106522,
       "num": 106522,
       "word": "赤热",
@@ -4697,6 +4737,14 @@
       "onboard_time": 1720990751,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96090,
+      "num": 286118,
+      "word": "饿了么用户捐出10026个足球",
+      "onboard_time": 1721041217,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94895,
@@ -4923,14 +4971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 71768,
-      "num": 286118,
-      "word": "饿了么用户捐出10026个足球",
-      "onboard_time": 1721041217,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71663,
       "num": 71663,
       "word": "心疼凯恩",
@@ -5025,6 +5065,14 @@
       "onboard_time": 1720882939,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62546,
+      "num": 415634,
+      "word": "暑期小城游火出圈",
+      "onboard_time": 1721041217,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62314,
@@ -5259,14 +5307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47031,
-      "num": 307120,
-      "word": "暑期小城游火出圈",
-      "onboard_time": 1721041217,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46470,
       "num": 1768104,
       "word": "行进的中国如此蓬勃",
@@ -5305,6 +5345,14 @@
       "onboard_time": 1721018960,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44717,
+      "num": 166404,
+      "word": "日本17岁女孩误拍他人惨遭杀害",
+      "onboard_time": 1721042777,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44133,
