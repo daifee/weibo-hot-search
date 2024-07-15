@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721072096945,
+  "endTime": 1721074838239,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -6195,6 +6195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22465,
+      "num": 25040,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22252,
       "num": 287202,
       "word": "记者调查职业退险人产业链",
@@ -6291,20 +6299,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16863,
-      "num": 25040,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 16039,
       "num": 45244,
       "word": "下班理发的辅警冲进火场灭了个火",
       "onboard_time": 1720895778,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16006,
+      "num": 22857,
+      "word": "三伏天反而要防寒",
+      "onboard_time": 1721071931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15931,
@@ -6345,14 +6353,6 @@
       "onboard_time": 1720938444,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12471,
-      "num": 22354,
-      "word": "三伏天反而要防寒",
-      "onboard_time": 1721071931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12041,

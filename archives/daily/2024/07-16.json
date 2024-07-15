@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721072096945,
+  "endTime": 1721074838239,
   "band_list": [
     {
       "raw_hot": 694376,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22465,
+      "num": 25040,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18210,
       "num": 126318,
       "word": "小孩被海浪卷走大哥一把拽回",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16863,
-      "num": 25040,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 16006,
+      "num": 22857,
+      "word": "三伏天反而要防寒",
+      "onboard_time": 1721071931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14550,
@@ -473,14 +481,6 @@
       "onboard_time": 1721034018,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12471,
-      "num": 22354,
-      "word": "三伏天反而要防寒",
-      "onboard_time": 1721071931,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11840,
