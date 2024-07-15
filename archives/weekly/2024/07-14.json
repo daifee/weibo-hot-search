@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721028911507,
+  "endTime": 1721031942497,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124149,
+      "num": 298817,
+      "word": "小孩撞倒报价10万自行车",
+      "onboard_time": 1721027779,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114004,
       "num": 1114004,
       "word": "拜登听取特朗普枪击事件简报",
@@ -409,6 +417,14 @@
       "onboard_time": 1721022439,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920598,
+      "num": 920598,
+      "word": "Henry说漏嘴了",
+      "onboard_time": 1721028798,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 907631,
@@ -571,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 671554,
+      "num": 284450,
+      "word": "四川电子税务局",
+      "onboard_time": 1721029819,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663169,
       "num": 663169,
       "word": "肖战被溅一身可乐的反应",
@@ -651,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606251,
+      "num": 234510,
+      "word": "视觉中国回应特朗普照片版权",
+      "onboard_time": 1721030298,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 603532,
       "num": 514250,
       "word": "劳塔罗破门",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 589968,
-      "num": 218661,
+      "num": 233597,
       "word": "三伏天减肥瘦的太快了",
       "onboard_time": 1721026458,
       "rank": 23,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 551411,
-      "num": 217287,
+      "num": 227140,
       "word": "李荣浩杨丞琳牵手庆生",
       "onboard_time": 1721025798,
       "rank": 21,
@@ -801,6 +833,22 @@
       "onboard_time": 1720959440,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 542822,
+      "num": 542822,
+      "word": "10岁小女孩竟晒出老年斑",
+      "onboard_time": 1721028019,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537320,
+      "num": 232058,
+      "word": "肖战没有丑特效也能制造丑特效",
+      "onboard_time": 1721030177,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 536755,
@@ -881,14 +929,6 @@
       "onboard_time": 1720919480,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 518963,
-      "num": 298817,
-      "word": "小孩撞倒报价10万自行车",
-      "onboard_time": 1721027779,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518273,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1720959680,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467683,
+      "num": 283950,
+      "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+      "onboard_time": 1721029700,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463116,
@@ -1235,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384684,
+      "num": 384684,
+      "word": "芭莎婚庆 名不虚传",
+      "onboard_time": 1721027479,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 377056,
       "num": 377056,
       "word": "亚马尔领奖还是没经验",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1721008458,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354806,
+      "num": 354806,
+      "word": "张若昀从古至今没事哒",
+      "onboard_time": 1721029339,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 354646,
@@ -1747,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273117,
+      "num": 273117,
+      "word": "虞书欣也闯进了国风赛道",
+      "onboard_time": 1721029038,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272916,
       "num": 272916,
       "word": "为啥每年体检都正常却突然查出癌症",
@@ -1795,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262737,
-      "num": 262737,
-      "word": "芭莎婚庆 名不虚传",
-      "onboard_time": 1721027479,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 262345,
       "num": 262345,
       "word": "王一珩直播",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1720941682,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257185,
+      "num": 257185,
+      "word": "BTS和BP参与神偷奶爸4OST",
+      "onboard_time": 1721029038,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 256387,
@@ -2019,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235845,
+      "num": 235845,
+      "word": "瓶装水为什么越来越便宜",
+      "onboard_time": 1721030359,
+      "rank": 18,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 235561,
       "num": 235561,
       "word": "韩东君第一次被女生抱起来",
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 231074,
-      "num": 204649,
+      "num": 214678,
       "word": "泫雅最新状态",
       "onboard_time": 1721028798,
       "rank": 27,
@@ -2099,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226742,
+      "num": 226742,
+      "word": "长期喝茶的人最后都咋样了",
+      "onboard_time": 1721030658,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 226643,
       "num": 226643,
       "word": "赵今麦哭戏",
@@ -2129,14 +2217,6 @@
       "onboard_time": 1720913114,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 223082,
-      "num": 223082,
-      "word": "10岁小女孩竟晒出老年斑",
-      "onboard_time": 1721028019,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222834,
@@ -2265,6 +2345,14 @@
       "onboard_time": 1720961180,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207495,
+      "num": 207495,
+      "word": "王一博说希望运动员享受奥运",
+      "onboard_time": 1721031438,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 207367,
@@ -2979,6 +3067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169513,
+      "num": 169513,
+      "word": "井柏然刘雯合体拍摄",
+      "onboard_time": 1721029819,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169497,
       "num": 375008,
       "word": "小夫妻每年结婚纪念日套娃式拍合照",
@@ -3185,6 +3281,14 @@
       "onboard_time": 1720913114,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155527,
+      "num": 155527,
+      "word": "徐志胜李雪琴和艺人互动reaction",
+      "onboard_time": 1721031139,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 155285,
@@ -3963,14 +4067,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 109853,
-      "num": 109853,
-      "word": "Henry说漏嘴了",
-      "onboard_time": 1721028798,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109840,
       "num": 109840,
       "word": "黄景瑜身材",
@@ -4083,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104005,
+      "num": 233212,
+      "word": "大哥不顾左膝伤口冲入洪水救人",
+      "onboard_time": 1721031738,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 103347,
       "num": 103347,
       "word": "好多明星去看了温网女单决赛",
@@ -4129,6 +4233,14 @@
       "onboard_time": 1720998135,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98941,
+      "num": 98941,
+      "word": "单依纯白色晶钻鱼尾裙",
+      "onboard_time": 1721030959,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 96511,
@@ -4257,6 +4369,14 @@
       "onboard_time": 1720986852,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79568,
+      "num": 181208,
+      "word": "陕师大手写录取通知书如约而至",
+      "onboard_time": 1721031618,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 79105,
@@ -4635,6 +4755,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 48223,
+      "num": 235410,
+      "word": "当代职场人开始用AI提效了吗",
+      "onboard_time": 1721030778,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47665,
       "num": 726280,
       "word": "暴雨来袭他们全力以赴保群众安全",
@@ -4705,6 +4833,14 @@
       "onboard_time": 1720894812,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38940,
+      "num": 413273,
+      "word": "文化中国行游览好city的中国",
+      "onboard_time": 1721030419,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37937,
@@ -4896,6 +5032,14 @@
       "word": "外商扎根义乌20年完成产业逆袭",
       "onboard_time": 1720957698,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21532,
+      "num": 228326,
+      "word": "日本研发开车机器人时速达5公里",
+      "onboard_time": 1721031918,
+      "rank": 28,
       "category": "社会新闻"
     },
     {

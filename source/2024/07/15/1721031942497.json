@@ -1,0 +1,410 @@
+{
+  "runTime": 1721031942497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359635,
+        "num": 1359635,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920598,
+        "num": 920598,
+        "word": "Henry说漏嘴了",
+        "onboard_time": 1721028798,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64156,
+        "num": 694153,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626561,
+        "num": 626561,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542822,
+        "num": 542822,
+        "word": "10岁小女孩竟晒出老年斑",
+        "onboard_time": 1721028019,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38940,
+        "num": 413273,
+        "word": "文化中国行游览好city的中国",
+        "onboard_time": 1721030419,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384684,
+        "num": 384684,
+        "word": "芭莎婚庆 名不虚传",
+        "onboard_time": 1721027479,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 485607,
+        "num": 370246,
+        "word": "羽毛球场1小时160元仍订不到",
+        "onboard_time": 1721026397,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354806,
+        "num": 354806,
+        "word": "张若昀从古至今没事哒",
+        "onboard_time": 1721029339,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285617,
+        "num": 285617,
+        "word": "三伏天已连续10年都是40天",
+        "onboard_time": 1721015119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124149,
+        "num": 285357,
+        "word": "小孩撞倒报价10万自行车",
+        "onboard_time": 1721027779,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989266,
+        "num": 284873,
+        "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+        "onboard_time": 1721022016,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671554,
+        "num": 284450,
+        "word": "四川电子税务局",
+        "onboard_time": 1721029819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467683,
+        "num": 283950,
+        "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+        "onboard_time": 1721029700,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298340,
+        "num": 283724,
+        "word": "中国移动还在偷偷收来电显示费",
+        "onboard_time": 1721022439,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283506,
+        "num": 283506,
+        "word": "刘宇宁有个事儿通报一下",
+        "onboard_time": 1721025739,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273117,
+        "num": 273117,
+        "word": "虞书欣也闯进了国风赛道",
+        "onboard_time": 1721029038,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257185,
+        "num": 257185,
+        "word": "BTS和BP参与神偷奶爸4OST",
+        "onboard_time": 1721029038,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235845,
+        "num": 235845,
+        "word": "瓶装水为什么越来越便宜",
+        "onboard_time": 1721030359,
+        "rank": 18,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 48223,
+        "num": 235410,
+        "word": "当代职场人开始用AI提效了吗",
+        "onboard_time": 1721030778,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 666579,
+        "num": 234703,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606251,
+        "num": 234510,
+        "word": "视觉中国回应特朗普照片版权",
+        "onboard_time": 1721030298,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 552529,
+        "num": 233597,
+        "word": "三伏天减肥瘦的太快了",
+        "onboard_time": 1721026458,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104005,
+        "num": 233212,
+        "word": "大哥不顾左膝伤口冲入洪水救人",
+        "onboard_time": 1721031738,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 232887,
+        "num": 232887,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537320,
+        "num": 232058,
+        "word": "肖战没有丑特效也能制造丑特效",
+        "onboard_time": 1721030177,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396728,
+        "num": 230520,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 336203,
+        "num": 229221,
+        "word": "三伏天牢记2不洗2不睡",
+        "onboard_time": 1721022198,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21532,
+        "num": 228326,
+        "word": "日本研发开车机器人时速达5公里",
+        "onboard_time": 1721031918,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260980,
+        "num": 227140,
+        "word": "李荣浩杨丞琳牵手庆生",
+        "onboard_time": 1721025798,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226742,
+        "num": 226742,
+        "word": "长期喝茶的人最后都咋样了",
+        "onboard_time": 1721030658,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214678,
+        "num": 214678,
+        "word": "泫雅最新状态",
+        "onboard_time": 1721028798,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207495,
+        "num": 207495,
+        "word": "王一博说希望运动员享受奥运",
+        "onboard_time": 1721031438,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 188562,
+        "num": 188562,
+        "word": "三火道歉",
+        "onboard_time": 1721020938,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187865,
+        "num": 187865,
+        "word": "唐朝诡事录直播",
+        "onboard_time": 1721027539,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79568,
+        "num": 181208,
+        "word": "陕师大手写录取通知书如约而至",
+        "onboard_time": 1721031618,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180151,
+        "num": 180151,
+        "word": "女子称从霸王茶姬离职后被公示",
+        "onboard_time": 1721019920,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169513,
+        "num": 169513,
+        "word": "井柏然刘雯合体拍摄",
+        "onboard_time": 1721029819,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161425,
+        "num": 161425,
+        "word": "王一博刚准备啃指甲就被喊得忍住了",
+        "onboard_time": 1721019920,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 160251,
+        "num": 160251,
+        "word": "三伏天为什么是减肥黄金期",
+        "onboard_time": 1721027059,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155527,
+        "num": 155527,
+        "word": "徐志胜李雪琴和艺人互动reaction",
+        "onboard_time": 1721031139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154147,
+        "num": 154147,
+        "word": "爸爸第一次抱孩子偷感好重",
+        "onboard_time": 1721022559,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 135770,
+        "num": 135770,
+        "word": "原来脂肪是靠呼吸排出的",
+        "onboard_time": 1721021599,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127546,
+        "num": 127546,
+        "word": "特朗普下飞机时又挥舞了拳头",
+        "onboard_time": 1721015058,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "梅西笑了",
+        "onboard_time": 1721018000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111606,
+        "num": 111606,
+        "word": "骂着骂着成王靖雯铁粉了",
+        "onboard_time": 1721023759,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102684,
+        "num": 102684,
+        "word": "檀健次戴比尔斯活动路透",
+        "onboard_time": 1721027598,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100732,
+        "num": 100732,
+        "word": "夭玹决裂名场面",
+        "onboard_time": 1721020519,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98941,
+        "num": 98941,
+        "word": "单依纯白色晶钻鱼尾裙",
+        "onboard_time": 1721030959,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97742,
+        "num": 97742,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会开始举行#"
+    }
+  }
+}
