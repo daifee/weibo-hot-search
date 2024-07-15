@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721075682552,
+  "endTime": 1721078365225,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -5939,6 +5939,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42738,
+      "num": 45321,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41214,
       "num": 274210,
       "word": "小荷包用户或成欧洲杯大赢家",
@@ -6147,14 +6155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27656,
-      "num": 45321,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 26762,
       "num": 26762,
       "word": "亚马尔17岁的第一天",
@@ -6347,12 +6347,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13251,
+      "num": 25416,
+      "word": "俩话痨在婚礼上也止不住唠嗑",
+      "onboard_time": 1721075711,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13216,
+      "num": 25416,
+      "word": "惠州4人潜水失联背后",
+      "onboard_time": 1721077030,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12972,
       "num": 162249,
       "word": "周深小学老师存了他03年的唱歌磁带",
       "onboard_time": 1720938444,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12661,
+      "num": 40767,
+      "word": "被小女孩照顾长大的小象",
+      "onboard_time": 1721073551,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 12041,
@@ -6377,14 +6401,6 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 10952,
-      "num": 40767,
-      "word": "被小女孩照顾长大的小象",
-      "onboard_time": 1721073551,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 8501,

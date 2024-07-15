@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721075682552,
+  "endTime": 1721078365225,
   "band_list": [
     {
       "raw_hot": 694376,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42738,
+      "num": 45321,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41358,
       "num": 92018,
       "word": "杨幂头伏营业",
@@ -441,14 +449,6 @@
       "onboard_time": 1721066172,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27656,
-      "num": 45321,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 18210,
@@ -483,6 +483,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13251,
+      "num": 25416,
+      "word": "俩话痨在婚礼上也止不住唠嗑",
+      "onboard_time": 1721075711,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13216,
+      "num": 25416,
+      "word": "惠州4人潜水失联背后",
+      "onboard_time": 1721077030,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12661,
+      "num": 40767,
+      "word": "被小女孩照顾长大的小象",
+      "onboard_time": 1721073551,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 11840,
       "num": 118604,
       "word": "全面深化改革的实践续篇",
@@ -497,14 +521,6 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 10952,
-      "num": 40767,
-      "word": "被小女孩照顾长大的小象",
-      "onboard_time": 1721073551,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 4912,
