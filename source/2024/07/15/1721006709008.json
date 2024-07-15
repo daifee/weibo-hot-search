@@ -1,0 +1,410 @@
+{
+  "runTime": 1721006709008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1603295,
+        "num": 1603295,
+        "word": "王一博捡起掉落的国旗",
+        "onboard_time": 1720999936,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084227,
+        "num": 1084227,
+        "word": "贷款10万元被收了2.9万元服务费",
+        "onboard_time": 1721003059,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46470,
+        "num": 935604,
+        "word": "行进的中国如此蓬勃",
+        "onboard_time": 1720963640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875213,
+        "num": 875213,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773337,
+        "num": 773337,
+        "word": "美洲杯决赛",
+        "onboard_time": 1721003540,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641194,
+        "num": 641194,
+        "word": "美洲杯决赛无限期推迟",
+        "onboard_time": 1721005518,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591038,
+        "num": 591038,
+        "word": "见过空气刘海第一次见空气馒头",
+        "onboard_time": 1721001979,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535524,
+        "num": 535524,
+        "word": "这3个体检项目其实是浪费钱",
+        "onboard_time": 1720977913,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 524758,
+        "num": 524758,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1721002938,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95494,
+        "num": 516216,
+        "word": "前车女生抓痒后车女生出手援助",
+        "onboard_time": 1721004921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463137,
+        "num": 508039,
+        "word": "特朗普照片",
+        "onboard_time": 1721000837,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 951542,
+        "num": 505110,
+        "word": "黄灿灿好美",
+        "onboard_time": 1721001859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733478,
+        "num": 495255,
+        "word": "枪击特朗普枪手行凶衣着引关注",
+        "onboard_time": 1720969580,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 652693,
+        "num": 483620,
+        "word": "特朗普遇刺案枪手同学发声",
+        "onboard_time": 1721005397,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 481767,
+        "num": 481767,
+        "word": "黄子韬徐艺洋官宣",
+        "onboard_time": 1720943183,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401275,
+        "num": 401275,
+        "word": "恋与深空2.0",
+        "onboard_time": 1721002998,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349718,
+        "num": 349718,
+        "word": "因为脚疼和罗PD换鞋的joshua",
+        "onboard_time": 1721002880,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324472,
+        "num": 324472,
+        "word": "美洲杯决赛推迟半小时",
+        "onboard_time": 1721002278,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322696,
+        "num": 322696,
+        "word": "拜登下令独立审查特朗普遭枪击集会",
+        "onboard_time": 1721005998,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320939,
+        "num": 320939,
+        "word": "党的二十届三中全会开幕",
+        "onboard_time": 1720999274,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349691,
+        "num": 311867,
+        "word": "皮肤有这7个变化提示血糖超标了",
+        "onboard_time": 1721005279,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332646,
+        "num": 298939,
+        "word": "月经快要离开时身体会给出4个提示",
+        "onboard_time": 1720966581,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283737,
+        "num": 283737,
+        "word": "蔡依林发文怀念爱犬屋虎",
+        "onboard_time": 1721002579,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283551,
+        "num": 283551,
+        "word": "恋与深空快开门",
+        "onboard_time": 1721004498,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264798,
+        "num": 264798,
+        "word": "王一博登上法国新闻",
+        "onboard_time": 1721006480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259781,
+        "num": 259781,
+        "word": "李闽轩 中戏录取",
+        "onboard_time": 1720969460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254445,
+        "num": 254445,
+        "word": "迪士尼西班牙区发了刘亦菲花木兰",
+        "onboard_time": 1720981992,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243161,
+        "num": 243161,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1721001198,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239908,
+        "num": 239908,
+        "word": "西班牙全胜夺冠",
+        "onboard_time": 1720991171,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231148,
+        "num": 231148,
+        "word": "好像所有人都确认了相柳的结局",
+        "onboard_time": 1720969220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223877,
+        "num": 223877,
+        "word": "种地吧",
+        "onboard_time": 1721004739,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222132,
+        "num": 222132,
+        "word": "为啥每年体检都正常却突然查出癌症",
+        "onboard_time": 1721005579,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220605,
+        "num": 220605,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213343,
+        "num": 213343,
+        "word": "女爱豆宣誓绝对不找丑人谈恋爱",
+        "onboard_time": 1720962799,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204779,
+        "num": 204779,
+        "word": "欧洲杯决赛",
+        "onboard_time": 1720967720,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201859,
+        "num": 201859,
+        "word": "小狗狗的嘴嘴是十分的臭",
+        "onboard_time": 1721000177,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199415,
+        "num": 199415,
+        "word": "帕尔默 零首发",
+        "onboard_time": 1721006058,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 185171,
+        "word": "西班牙第4次捧起欧洲杯",
+        "onboard_time": 1720999514,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173871,
+        "num": 173871,
+        "word": "邓超和等等 活泼老奴和沉稳少爷",
+        "onboard_time": 1720964180,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170774,
+        "num": 170774,
+        "word": "历时3个月改造父母30年卧室",
+        "onboard_time": 1721001017,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 166624,
+        "num": 166624,
+        "word": "特朗普遇刺6小时后首次露面",
+        "onboard_time": 1720938203,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165810,
+        "num": 165810,
+        "word": "入伏",
+        "onboard_time": 1720998976,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157351,
+        "num": 157351,
+        "word": "金硕珍担任巴黎奥运会火炬手",
+        "onboard_time": 1721001318,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 21784,
+        "num": 148659,
+        "word": "周深说荧光棒别打到前面的朋友",
+        "onboard_time": 1721004798,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143304,
+        "num": 143304,
+        "word": "特朗普妻子梅拉尼娅罕见露面",
+        "onboard_time": 1721006598,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138026,
+        "num": 138026,
+        "word": "白桃星座",
+        "onboard_time": 1721001378,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 136674,
+        "num": 136674,
+        "word": "刘亦菲成了林一炫耀的资本",
+        "onboard_time": 1720952840,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132799,
+        "num": 132799,
+        "word": "真正厉害的人都是长期主义者",
+        "onboard_time": 1721004679,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130361,
+        "num": 130361,
+        "word": "预测特朗普胜选率上升至70%",
+        "onboard_time": 1720967482,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129053,
+        "num": 129053,
+        "word": "秦彻开屏",
+        "onboard_time": 1721002038,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果更多更公平惠及各族人民#"
+    }
+  }
+}

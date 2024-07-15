@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721000086739,
+  "endTime": 1721006709008,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -107,6 +107,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 1603295,
+      "num": 1603295,
+      "word": "王一博捡起掉落的国旗",
+      "onboard_time": 1720999936,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1513723,
       "num": 1513723,
       "word": "李闽轩 中戏录取",
@@ -129,6 +137,14 @@
       "onboard_time": 1720882159,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1463137,
+      "num": 508039,
+      "word": "特朗普照片",
+      "onboard_time": 1721000837,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1404142,
@@ -177,6 +193,14 @@
       "onboard_time": 1720928841,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1084227,
+      "num": 1084227,
+      "word": "贷款10万元被收了2.9万元服务费",
+      "onboard_time": 1721003059,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1073242,
@@ -267,8 +291,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951542,
+      "num": 505110,
+      "word": "黄灿灿好美",
+      "onboard_time": 1721001859,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 907631,
-      "num": 248273,
+      "num": 495255,
       "word": "枪击特朗普枪手行凶衣着引关注",
       "onboard_time": 1720969580,
       "rank": 35,
@@ -289,6 +321,14 @@
       "onboard_time": 1720917380,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 773337,
+      "num": 773337,
+      "word": "美洲杯决赛",
+      "onboard_time": 1721003540,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 749950,
@@ -387,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 652693,
+      "num": 483620,
+      "word": "特朗普遇刺案枪手同学发声",
+      "onboard_time": 1721005397,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 652601,
       "num": 590052,
       "word": "特朗普遇刺照拍摄者是普利策奖得主",
@@ -409,6 +457,14 @@
       "onboard_time": 1720932745,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641194,
+      "num": 641194,
+      "word": "美洲杯决赛无限期推迟",
+      "onboard_time": 1721005518,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 638813,
@@ -473,6 +529,14 @@
       "onboard_time": 1720881560,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 591038,
+      "num": 591038,
+      "word": "见过空气刘海第一次见空气馒头",
+      "onboard_time": 1721001979,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 588202,
@@ -569,6 +633,14 @@
       "onboard_time": 1720934364,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 524758,
+      "num": 524758,
+      "word": "阿根廷vs哥伦比亚",
+      "onboard_time": 1721002938,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 522881,
@@ -819,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 401275,
+      "num": 401275,
+      "word": "恋与深空2.0",
+      "onboard_time": 1721002998,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398212,
       "num": 369722,
       "word": "美特勤局称特朗普情况安全",
@@ -931,6 +1011,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 349718,
+      "num": 349718,
+      "word": "因为脚疼和罗PD换鞋的joshua",
+      "onboard_time": 1721002880,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349691,
+      "num": 311867,
+      "word": "皮肤有这7个变化提示血糖超标了",
+      "onboard_time": 1721005279,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 347546,
       "num": 347546,
       "word": "消失的她阴暗的他清澈的我",
@@ -1019,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324472,
+      "num": 324472,
+      "word": "美洲杯决赛推迟半小时",
+      "onboard_time": 1721002278,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322836,
       "num": 322836,
       "word": "中方关注特朗普前总统遭遇枪击事件",
@@ -1027,12 +1131,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 322696,
+      "num": 322696,
+      "word": "拜登下令独立审查特朗普遭枪击集会",
+      "onboard_time": 1721005998,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 321728,
       "num": 321728,
       "word": "枪响后特朗普与安保贴身对话公开",
       "onboard_time": 1720945220,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 320939,
+      "num": 320939,
+      "word": "党的二十届三中全会开幕",
+      "onboard_time": 1720999274,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317661,
@@ -1155,6 +1275,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 283737,
+      "num": 283737,
+      "word": "蔡依林发文怀念爱犬屋虎",
+      "onboard_time": 1721002579,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283551,
+      "num": 283551,
+      "word": "恋与深空快开门",
+      "onboard_time": 1721004498,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283288,
       "num": 283288,
       "word": "特朗普离开医院",
@@ -1243,6 +1379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264798,
+      "num": 264798,
+      "word": "王一博登上法国新闻",
+      "onboard_time": 1721006480,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262345,
       "num": 262345,
       "word": "王一珩直播",
@@ -1299,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253202,
-      "num": 253202,
-      "word": "党的二十届三中全会开幕",
-      "onboard_time": 1720999274,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 252254,
       "num": 252254,
       "word": "入伏",
@@ -1361,6 +1497,14 @@
       "onboard_time": 1720940302,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243161,
+      "num": 243161,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1721001198,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 240107,
@@ -1467,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223877,
+      "num": 223877,
+      "word": "种地吧",
+      "onboard_time": 1721004739,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223705,
       "num": 223705,
       "word": "Faker科目四",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1720973718,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222132,
+      "num": 222132,
+      "word": "为啥每年体检都正常却突然查出癌症",
+      "onboard_time": 1721005579,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221599,
@@ -1643,12 +1803,12 @@
       "category": "国外时政,数码"
     },
     {
-      "raw_hot": 201650,
-      "num": 172410,
-      "word": "王一博捡起掉落的国旗",
-      "onboard_time": 1720999936,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 201859,
+      "num": 201859,
+      "word": "小狗狗的嘴嘴是十分的臭",
+      "onboard_time": 1721000177,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 201447,
@@ -1665,6 +1825,14 @@
       "onboard_time": 1720945461,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199415,
+      "num": 199415,
+      "word": "帕尔默 零首发",
+      "onboard_time": 1721006058,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 198487,
@@ -1979,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170774,
+      "num": 170774,
+      "word": "历时3个月改造父母30年卧室",
+      "onboard_time": 1721001017,
+      "rank": 39,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 170191,
       "num": 170191,
       "word": "度华年男二戏份",
@@ -2121,6 +2297,14 @@
       "onboard_time": 1720972699,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157351,
+      "num": 157351,
+      "word": "金硕珍担任巴黎奥运会火炬手",
+      "onboard_time": 1721001318,
+      "rank": 42,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 157243,
@@ -2315,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143304,
+      "num": 143304,
+      "word": "特朗普妻子梅拉尼娅罕见露面",
+      "onboard_time": 1721006598,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143062,
       "num": 143062,
       "word": "拍下特朗普遇袭照记者讲述事发情形",
@@ -2403,6 +2595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 138026,
+      "num": 138026,
+      "word": "白桃星座",
+      "onboard_time": 1721001378,
+      "rank": 45,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 136746,
       "num": 259296,
       "word": "宫颈癌复发元凶竟在丈夫身上",
@@ -2475,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132799,
+      "num": 132799,
+      "word": "真正厉害的人都是长期主义者",
+      "onboard_time": 1721004679,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132135,
       "num": 132135,
       "word": "看过三角恋还是头一次看三角厌",
@@ -2505,6 +2713,14 @@
       "onboard_time": 1720952118,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129053,
+      "num": 129053,
+      "word": "秦彻开屏",
+      "onboard_time": 1721002038,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128516,
@@ -2889,6 +3105,14 @@
       "onboard_time": 1720990751,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95494,
+      "num": 516216,
+      "word": "前车女生抓痒后车女生出手援助",
+      "onboard_time": 1721004921,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94200,
@@ -3331,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46470,
+      "num": 935604,
+      "word": "行进的中国如此蓬勃",
+      "onboard_time": 1720963640,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46412,
       "num": 107616,
       "word": "你好星期六",
@@ -3424,14 +3656,6 @@
       "word": "眉山东坡泡菜年销售超220亿",
       "onboard_time": 1720927280,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34134,
-      "num": 537483,
-      "word": "行进的中国如此蓬勃",
-      "onboard_time": 1720963640,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3553,6 +3777,14 @@
       "onboard_time": 1720944023,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21784,
+      "num": 148659,
+      "word": "周深说荧光棒别打到前面的朋友",
+      "onboard_time": 1721004798,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 21698,
