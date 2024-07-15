@@ -1,12 +1,20 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721013888411,
+  "endTime": 1721014678997,
   "band_list": [
     {
       "raw_hot": 1829043,
       "num": 1829043,
       "word": "西班牙夺得欧洲杯冠军",
       "onboard_time": 1720990992,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1675079,
+      "num": 1675079,
+      "word": "梅西哭了",
+      "onboard_time": 1721012898,
       "rank": 3,
       "category": "体育"
     },
@@ -19,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1490202,
+      "num": 1490202,
+      "word": "阿根廷vs哥伦比亚",
+      "onboard_time": 1721002938,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1463137,
       "num": 508039,
       "word": "特朗普照片",
@@ -27,8 +43,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1414748,
-      "num": 586365,
+      "raw_hot": 1446157,
+      "num": 666044,
       "word": "特朗普遇袭照登上时代杂志封面",
       "onboard_time": 1721009718,
       "rank": 12,
@@ -59,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 988221,
-      "num": 988221,
-      "word": "阿根廷vs哥伦比亚",
-      "onboard_time": 1721002938,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 978639,
       "num": 978639,
       "word": "西班牙vs英格兰",
@@ -91,12 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 945039,
-      "num": 945039,
-      "word": "梅西哭了",
-      "onboard_time": 1721012898,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 934790,
+      "num": 934790,
+      "word": "三伏天真的适合减肥吗",
+      "onboard_time": 1721010378,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 907631,
@@ -131,12 +139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 849013,
-      "num": 849013,
-      "word": "三伏天真的适合减肥吗",
-      "onboard_time": 1721010378,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 781508,
+      "num": 665070,
+      "word": "王一博真成黑皮体育生了",
+      "onboard_time": 1721012237,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 773337,
@@ -163,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 690679,
-      "num": 586174,
-      "word": "王一博真成黑皮体育生了",
-      "onboard_time": 1721012237,
-      "rank": 11,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 659151,
       "num": 483620,
       "word": "特朗普遇刺案枪手同学发声",
@@ -185,6 +185,14 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 592496,
+      "num": 592496,
+      "word": "野生大熊猫自己在竹林吃了一整晚",
+      "onboard_time": 1721012778,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591838,
@@ -323,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366985,
-      "num": 366985,
-      "word": "野生大熊猫自己在竹林吃了一整晚",
-      "onboard_time": 1721012778,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356108,
       "num": 356108,
       "word": "早期宋慧乔",
@@ -353,6 +353,14 @@
       "onboard_time": 1720962799,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346563,
+      "num": 346563,
+      "word": "1400元的洗衣机因无法安装被仅退款",
+      "onboard_time": 1721013978,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341241,
@@ -459,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282103,
+      "num": 282103,
+      "word": "剑网3",
+      "onboard_time": 1721013258,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279900,
       "num": 279900,
       "word": "西班牙全胜夺冠",
@@ -497,14 +513,6 @@
       "onboard_time": 1720965981,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243493,
-      "num": 243493,
-      "word": "剑网3",
-      "onboard_time": 1721013258,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 243161,
@@ -619,12 +627,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199403,
+      "num": 199403,
+      "word": "巴黎奥运村挂起五星红旗",
+      "onboard_time": 1721013679,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198620,
+      "num": 198620,
+      "word": "十个勤天GLASSMAN封面",
+      "onboard_time": 1721013558,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197981,
-      "num": 516216,
+      "num": 667792,
       "word": "前车女生抓痒后车女生出手援助",
       "onboard_time": 1721004921,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "亚马尔和女友庆祝夺冠",
+      "onboard_time": 1721011999,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193472,
+      "num": 193472,
+      "word": "特朗普遇刺案遇难者系消防员",
+      "onboard_time": 1721014159,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 192475,
@@ -643,19 +683,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191197,
+      "num": 191197,
+      "word": "哑舍首发预告",
+      "onboard_time": 1721014098,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189723,
       "num": 189723,
       "word": "梅西下场痛哭",
       "onboard_time": 1721013377,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187900,
-      "num": 187900,
-      "word": "亚马尔和女友庆祝夺冠",
-      "onboard_time": 1721011999,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -723,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172610,
-      "num": 172610,
-      "word": "巴黎奥运村挂起五星红旗",
-      "onboard_time": 1721013679,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171087,
       "num": 171087,
       "word": "西班牙",
@@ -779,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159183,
-      "num": 159183,
-      "word": "十个勤天GLASSMAN封面",
-      "onboard_time": 1721013558,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 158474,
       "num": 158474,
       "word": "阿尔卡拉斯温网两连冠",
@@ -825,6 +849,14 @@
       "onboard_time": 1721007016,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154534,
+      "num": 154534,
+      "word": "GDP",
+      "onboard_time": 1721011697,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 153193,
@@ -873,6 +905,14 @@
       "onboard_time": 1720962799,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142722,
+      "num": 142722,
+      "word": "梅西被换下",
+      "onboard_time": 1721014398,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 140313,
@@ -937,6 +977,14 @@
       "onboard_time": 1720984272,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127415,
+      "num": 127415,
+      "word": "专家回应土木专业更名",
+      "onboard_time": 1721014639,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 122522,
@@ -1107,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92228,
+      "num": 857885,
+      "word": "二十届三中全会知识点",
+      "onboard_time": 1721011517,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 90742,
       "num": 90742,
       "word": "特朗普遭遇枪击",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1720960701,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85443,
-      "num": 857885,
-      "word": "二十届三中全会知识点",
-      "onboard_time": 1721011517,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 84481,
@@ -1340,7 +1388,7 @@
     },
     {
       "raw_hot": 46470,
-      "num": 951543,
+      "num": 964904,
       "word": "行进的中国如此蓬勃",
       "onboard_time": 1720963640,
       "rank": 2,

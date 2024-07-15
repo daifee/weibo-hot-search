@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721013888411,
+  "endTime": 1721014678997,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -643,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1675079,
+      "num": 1675079,
+      "word": "梅西哭了",
+      "onboard_time": 1721012898,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1672861,
       "num": 1672861,
       "word": "泰国21岁僧侣惨死庙中",
@@ -963,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1490202,
+      "num": 1490202,
+      "word": "阿根廷vs哥伦比亚",
+      "onboard_time": 1721002938,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1482453,
       "num": 980456,
       "word": "黄子韬要和徐艺洋一起去卫生间",
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1446157,
+      "num": 666044,
+      "word": "特朗普遇袭照登上时代杂志封面",
+      "onboard_time": 1721009718,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1445938,
       "num": 347586,
       "word": "陆毅回应",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1720001718,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1414748,
-      "num": 586365,
-      "word": "特朗普遇袭照登上时代杂志封面",
-      "onboard_time": 1721009718,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1414129,
@@ -2475,14 +2491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 988221,
-      "num": 988221,
-      "word": "阿根廷vs哥伦比亚",
-      "onboard_time": 1721002938,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 988089,
       "num": 886941,
       "word": "枪杀安倍凶犯原计划室内开枪",
@@ -2691,14 +2699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 945039,
-      "num": 945039,
-      "word": "梅西哭了",
-      "onboard_time": 1721012898,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 943162,
       "num": 622839,
       "word": "印度一工人被蛇咬后反将蛇咬死",
@@ -2729,6 +2729,14 @@
       "onboard_time": 1720066579,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934790,
+      "num": 934790,
+      "word": "三伏天真的适合减肥吗",
+      "onboard_time": 1721010378,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 932711,
@@ -3273,14 +3281,6 @@
       "onboard_time": 1719926058,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 849013,
-      "num": 849013,
-      "word": "三伏天真的适合减肥吗",
-      "onboard_time": 1721010378,
-      "rank": 25,
-      "category": "运动健身"
     },
     {
       "raw_hot": 848435,
@@ -3889,6 +3889,14 @@
       "onboard_time": 1720797679,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 781508,
+      "num": 665070,
+      "word": "王一博真成黑皮体育生了",
+      "onboard_time": 1721012237,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 781419,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1720232777,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690679,
-      "num": 586174,
-      "word": "王一博真成黑皮体育生了",
-      "onboard_time": 1721012237,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 690357,
@@ -6041,6 +6041,14 @@
       "onboard_time": 1720709960,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 592496,
+      "num": 592496,
+      "word": "野生大熊猫自己在竹林吃了一整晚",
+      "onboard_time": 1721012778,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592115,
@@ -11459,14 +11467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366985,
-      "num": 366985,
-      "word": "野生大熊猫自己在竹林吃了一整晚",
-      "onboard_time": 1721012778,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366149,
       "num": 188681,
       "word": "上厕所途中冲水小心病菌感染",
@@ -12193,6 +12193,14 @@
       "onboard_time": 1720022597,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346563,
+      "num": 346563,
+      "word": "1400元的洗衣机因无法安装被仅退款",
+      "onboard_time": 1721013978,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346526,
@@ -14595,6 +14603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282103,
+      "num": 282103,
+      "word": "剑网3",
+      "onboard_time": 1720669038,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -16121,14 +16137,6 @@
       "onboard_time": 1720443199,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243493,
-      "num": 243493,
-      "word": "剑网3",
-      "onboard_time": 1720669038,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 243428,
@@ -19907,6 +19915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199403,
+      "num": 199403,
+      "word": "巴黎奥运村挂起五星红旗",
+      "onboard_time": 1721013679,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199359,
       "num": 199359,
       "word": "阿根廷晋级4强",
@@ -20017,6 +20033,14 @@
       "onboard_time": 1719914300,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198620,
+      "num": 198620,
+      "word": "十个勤天GLASSMAN封面",
+      "onboard_time": 1721013558,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198608,
@@ -20148,7 +20172,7 @@
     },
     {
       "raw_hot": 197981,
-      "num": 516216,
+      "num": 667792,
       "word": "前车女生抓痒后车女生出手援助",
       "onboard_time": 1721004921,
       "rank": 9,
@@ -20739,6 +20763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193874,
+      "num": 193874,
+      "word": "亚马尔和女友庆祝夺冠",
+      "onboard_time": 1721011999,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193790,
       "num": 193790,
       "word": "一号种子孙颖莎",
@@ -20785,6 +20817,14 @@
       "onboard_time": 1720433658,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193472,
+      "num": 193472,
+      "word": "特朗普遇刺案遇难者系消防员",
+      "onboard_time": 1721014159,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 193404,
@@ -21105,6 +21145,14 @@
       "onboard_time": 1720233977,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191197,
+      "num": 191197,
+      "word": "哑舍首发预告",
+      "onboard_time": 1721014098,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 191118,
@@ -21713,14 +21761,6 @@
       "onboard_time": 1720194439,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187900,
-      "num": 187900,
-      "word": "亚马尔和女友庆祝夺冠",
-      "onboard_time": 1721011999,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 187896,
@@ -23651,14 +23691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172610,
-      "num": 172610,
-      "word": "巴黎奥运村挂起五星红旗",
-      "onboard_time": 1721013679,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172581,
       "num": 172581,
       "word": "10岁女孩晒出老年斑",
@@ -25483,14 +25515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159183,
-      "num": 159183,
-      "word": "十个勤天GLASSMAN封面",
-      "onboard_time": 1721013558,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 159144,
       "num": 159144,
       "word": "歌手突围赛",
@@ -26321,6 +26345,14 @@
       "onboard_time": 1720093578,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154534,
+      "num": 154534,
+      "word": "GDP",
+      "onboard_time": 1721011697,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 154525,
@@ -28081,6 +28113,14 @@
       "onboard_time": 1719822919,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142722,
+      "num": 142722,
+      "word": "梅西被换下",
+      "onboard_time": 1721014398,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142700,
@@ -30889,6 +30929,14 @@
       "onboard_time": 1720664778,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127415,
+      "num": 127415,
+      "word": "专家回应土木专业更名",
+      "onboard_time": 1721014639,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 127406,
@@ -35795,6 +35843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92228,
+      "num": 857885,
+      "word": "二十届三中全会知识点",
+      "onboard_time": 1721011517,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 92140,
       "num": 92140,
       "word": "中国人的种菜天赋在太空也好使",
@@ -36297,14 +36353,6 @@
       "onboard_time": 1720930525,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85443,
-      "num": 857885,
-      "word": "二十届三中全会知识点",
-      "onboard_time": 1721011517,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 85252,
@@ -39028,7 +39076,7 @@
     },
     {
       "raw_hot": 46470,
-      "num": 951543,
+      "num": 964904,
       "word": "行进的中国如此蓬勃",
       "onboard_time": 1720963640,
       "rank": 2,

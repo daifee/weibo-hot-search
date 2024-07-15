@@ -1,0 +1,410 @@
+{
+  "runTime": 1721014678997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1675079,
+        "num": 1675079,
+        "word": "梅西哭了",
+        "onboard_time": 1721012898,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1490202,
+        "num": 1490202,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1721002938,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23607,
+        "num": 964904,
+        "word": "行进的中国如此蓬勃",
+        "onboard_time": 1720963640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934790,
+        "num": 934790,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721010378,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 770926,
+        "num": 770926,
+        "word": "王一博捡起掉落的国旗",
+        "onboard_time": 1720999936,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759823,
+        "num": 759823,
+        "word": "原来教师编面试是一场沉浸式表演",
+        "onboard_time": 1721010378,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92228,
+        "num": 732844,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725829,
+        "num": 725829,
+        "word": "美洲杯决赛",
+        "onboard_time": 1721003540,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705918,
+        "num": 705918,
+        "word": "梅西被铲倒",
+        "onboard_time": 1721010196,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113300,
+        "num": 667792,
+        "word": "前车女生抓痒后车女生出手援助",
+        "onboard_time": 1721004921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446157,
+        "num": 666044,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 781508,
+        "num": 665070,
+        "word": "王一博真成黑皮体育生了",
+        "onboard_time": 1721012237,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 663328,
+        "num": 663328,
+        "word": "贷款10万元被收了2.9万元服务费",
+        "onboard_time": 1721003059,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592496,
+        "num": 592496,
+        "word": "野生大熊猫自己在竹林吃了一整晚",
+        "onboard_time": 1721012778,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533121,
+        "num": 533121,
+        "word": "抓娃娃",
+        "onboard_time": 1721009057,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 503813,
+        "num": 503813,
+        "word": "哑舍杀青",
+        "onboard_time": 1721011338,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494697,
+        "num": 494697,
+        "word": "王俊凯将出席英雄联盟手游2周年庆典",
+        "onboard_time": 1721011757,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 493625,
+        "num": 493625,
+        "word": "黄灿灿好美",
+        "onboard_time": 1721001859,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424157,
+        "num": 424157,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 346563,
+        "num": 346563,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314230,
+        "num": 314230,
+        "word": "皮肤有这7个变化提示血糖超标了",
+        "onboard_time": 1721005279,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288547,
+        "num": 288547,
+        "word": "英雄联盟手游",
+        "onboard_time": 1721010858,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282103,
+        "num": 282103,
+        "word": "剑网3",
+        "onboard_time": 1721013258,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263933,
+        "num": 263933,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241952,
+        "num": 241952,
+        "word": "恋与深空2.0",
+        "onboard_time": 1721002998,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224206,
+        "num": 224206,
+        "word": "因为脚疼和罗PD换鞋的joshua",
+        "onboard_time": 1721002880,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210036,
+        "num": 210036,
+        "word": "早期宋慧乔",
+        "onboard_time": 1721008458,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205054,
+        "num": 205054,
+        "word": "不到10块钱的降温冰圈靠什么降温",
+        "onboard_time": 1721011098,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 199403,
+        "num": 199403,
+        "word": "巴黎奥运村挂起五星红旗",
+        "onboard_time": 1721013679,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198620,
+        "num": 198620,
+        "word": "十个勤天GLASSMAN封面",
+        "onboard_time": 1721013558,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193874,
+        "num": 193874,
+        "word": "亚马尔和女友庆祝夺冠",
+        "onboard_time": 1721011999,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193718,
+        "num": 193718,
+        "word": "恋与深空快开门",
+        "onboard_time": 1721004498,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193472,
+        "num": 193472,
+        "word": "特朗普遇刺案遇难者系消防员",
+        "onboard_time": 1721014159,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191197,
+        "num": 191197,
+        "word": "哑舍首发预告",
+        "onboard_time": 1721014098,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186621,
+        "num": 186621,
+        "word": "见过空气刘海第一次见空气馒头",
+        "onboard_time": 1721001979,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185390,
+        "num": 185390,
+        "word": "汪苏泷演唱会南京站点歌",
+        "onboard_time": 1721012778,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181917,
+        "num": 181917,
+        "word": "王一博登上法国新闻",
+        "onboard_time": 1721006480,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172603,
+        "num": 172603,
+        "word": "拜登下令独立审查特朗普遭枪击集会",
+        "onboard_time": 1721005998,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168598,
+        "num": 168598,
+        "word": "指甲突然出现黑线可能是癌变",
+        "onboard_time": 1721011938,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165520,
+        "num": 165520,
+        "word": "西班牙全胜夺冠",
+        "onboard_time": 1720991171,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154534,
+        "num": 154534,
+        "word": "GDP",
+        "onboard_time": 1721011697,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148402,
+        "num": 148402,
+        "word": "哥伦比亚 对抗",
+        "onboard_time": 1721010438,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145939,
+        "num": 145939,
+        "word": "Uzi老婆吃醋",
+        "onboard_time": 1721008997,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143015,
+        "num": 143015,
+        "word": "李闽轩 中戏录取",
+        "onboard_time": 1720969460,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142722,
+        "num": 142722,
+        "word": "梅西被换下",
+        "onboard_time": 1721014398,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137840,
+        "num": 137840,
+        "word": "为啥每年体检都正常却突然查出癌症",
+        "onboard_time": 1721005579,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131986,
+        "num": 131986,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129328,
+        "num": 129328,
+        "word": "党的二十届三中全会开幕",
+        "onboard_time": 1720999274,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128046,
+        "num": 128046,
+        "word": "欧洲杯决赛",
+        "onboard_time": 1720967720,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127415,
+        "num": 127415,
+        "word": "专家回应土木专业更名",
+        "onboard_time": 1721014639,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让改革发展成果更多更公平惠及各族人民#"
+    }
+  }
+}
