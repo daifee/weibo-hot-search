@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721006709008,
+  "endTime": 1721008036033,
   "band_list": [
     {
       "raw_hot": 1829043,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1084227,
-      "num": 1084227,
+      "raw_hot": 1095619,
+      "num": 1095619,
       "word": "贷款10万元被收了2.9万元服务费",
       "onboard_time": 1721003059,
       "rank": 1,
@@ -59,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 951542,
+      "raw_hot": 952286,
       "num": 505110,
       "word": "黄灿灿好美",
       "onboard_time": 1721001859,
@@ -72,6 +72,14 @@
       "word": "枪击特朗普枪手行凶衣着引关注",
       "onboard_time": 1720969580,
       "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 844415,
+      "num": 408069,
+      "word": "特朗普妻子梅拉尼娅罕见露面",
+      "onboard_time": 1721006598,
+      "rank": 44,
       "category": "国外时政"
     },
     {
@@ -91,20 +99,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 652693,
+      "raw_hot": 725963,
+      "num": 725963,
+      "word": "美洲杯决赛无限期推迟",
+      "onboard_time": 1721005518,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 659151,
       "num": 483620,
       "word": "特朗普遇刺案枪手同学发声",
       "onboard_time": 1721005397,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 641194,
-      "num": 641194,
-      "word": "美洲杯决赛无限期推迟",
-      "onboard_time": 1721005518,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 625307,
@@ -113,6 +121,14 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 591838,
+      "num": 407234,
+      "word": "拜登下令独立审查特朗普遭枪击集会",
+      "onboard_time": 1721005998,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 591038,
@@ -147,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 522422,
+      "num": 311867,
+      "word": "皮肤有这7个变化提示血糖超标了",
+      "onboard_time": 1721005279,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 498682,
       "num": 224675,
       "word": "凯特王妃亮相温网",
@@ -161,6 +185,14 @@
       "onboard_time": 1720967482,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 432430,
+      "num": 406216,
+      "word": "因为脚疼和罗PD换鞋的joshua",
+      "onboard_time": 1721002880,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 409085,
@@ -201,22 +233,6 @@
       "onboard_time": 1720995011,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 349718,
-      "num": 349718,
-      "word": "因为脚疼和罗PD换鞋的joshua",
-      "onboard_time": 1721002880,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 349691,
-      "num": 311867,
-      "word": "皮肤有这7个变化提示血糖超标了",
-      "onboard_time": 1721005279,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 347195,
@@ -275,20 +291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322696,
-      "num": 322696,
-      "word": "拜登下令独立审查特朗普遭枪击集会",
-      "onboard_time": 1721005998,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 320939,
       "num": 320939,
       "word": "党的二十届三中全会开幕",
       "onboard_time": 1720999274,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 317872,
+      "num": 282509,
+      "word": "王一博登上法国新闻",
+      "onboard_time": 1721006480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 287335,
@@ -331,12 +347,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 264798,
-      "num": 264798,
-      "word": "王一博登上法国新闻",
-      "onboard_time": 1721006480,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 258453,
+      "num": 258453,
+      "word": "为啥每年体检都正常却突然查出癌症",
+      "onboard_time": 1721005579,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252254,
@@ -387,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222132,
-      "num": 222132,
-      "word": "为啥每年体检都正常却突然查出癌症",
-      "onboard_time": 1721005579,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219272,
       "num": 219272,
       "word": "西班牙第4次捧起欧洲杯",
@@ -441,6 +449,22 @@
       "onboard_time": 1721006058,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197981,
+      "num": 516216,
+      "word": "前车女生抓痒后车女生出手援助",
+      "onboard_time": 1721004921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192330,
+      "num": 192330,
+      "word": "丁真说天天都是锅怎么都洗不完",
+      "onboard_time": 1721006839,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 183002,
@@ -531,6 +555,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 154790,
+      "num": 154790,
+      "word": "合肥公交集团通报蹦迪巴士",
+      "onboard_time": 1721007016,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153908,
+      "num": 153908,
+      "word": "上半年买车均价比2019年贵3.7万元",
+      "onboard_time": 1721007497,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153193,
       "num": 153193,
       "word": "帕尔默世界波",
@@ -571,14 +611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143304,
-      "num": 143304,
-      "word": "特朗普妻子梅拉尼娅罕见露面",
-      "onboard_time": 1721006598,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 140313,
       "num": 140313,
       "word": "西班牙vs英格兰首发",
@@ -595,12 +627,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 137505,
+      "num": 137505,
+      "word": "主播完不成直播时长被索赔100万",
+      "onboard_time": 1721007617,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132799,
       "num": 132799,
       "word": "真正厉害的人都是长期主义者",
       "onboard_time": 1721004679,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131652,
+      "num": 409423,
+      "word": "她从死神手里抢回的学生读大学了",
+      "onboard_time": 1721006778,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129053,
@@ -616,6 +664,22 @@
       "word": "西班牙队第27人来了",
       "onboard_time": 1720984272,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127940,
+      "num": 127940,
+      "word": "巴黎奥运乒乓球项目赛程表",
+      "onboard_time": 1721007796,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122522,
+      "num": 122522,
+      "word": "美洲杯决赛现场混乱",
+      "onboard_time": 1721007257,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -665,6 +729,14 @@
       "onboard_time": 1720961419,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114694,
+      "num": 114694,
+      "word": "144小时过境免签适用口岸增至37个",
+      "onboard_time": 1721007978,
+      "rank": 49,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 114533,
@@ -769,14 +841,6 @@
       "onboard_time": 1720990751,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95494,
-      "num": 516216,
-      "word": "前车女生抓痒后车女生出手援助",
-      "onboard_time": 1721004921,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94200,
