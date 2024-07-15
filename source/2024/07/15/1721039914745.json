@@ -1,0 +1,410 @@
+{
+  "runTime": 1721039914745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 915595,
+        "num": 1146495,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791895,
+        "num": 791895,
+        "word": "爱奇艺回应基础会员不能跳片头广告",
+        "onboard_time": 1721036598,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77658,
+        "num": 656179,
+        "word": "中国产品这么能打是干出来闯出来的",
+        "onboard_time": 1721033719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176132,
+        "num": 655790,
+        "word": "韩总 夫人终于给你名分了",
+        "onboard_time": 1721037438,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610375,
+        "num": 610375,
+        "word": "韩国女性孕36周堕胎被警方调查",
+        "onboard_time": 1721037619,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76019,
+        "num": 493687,
+        "word": "外国游客成了我的互联网嘴替",
+        "onboard_time": 1721037619,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378140,
+        "num": 378140,
+        "word": "突然发现很久没看喜羊羊了",
+        "onboard_time": 1721034497,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 369429,
+        "num": 369429,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346663,
+        "num": 346663,
+        "word": "陈昊宇把成名形容成一阵风",
+        "onboard_time": 1721037740,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180981,
+        "num": 344822,
+        "word": "羽毛球场1小时160元仍订不到",
+        "onboard_time": 1721026397,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756425,
+        "num": 343108,
+        "word": "视觉中国回应特朗普照片版权",
+        "onboard_time": 1721030298,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 351488,
+        "num": 342004,
+        "word": "苏醒回应自己是梅西球迷",
+        "onboard_time": 1721035638,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 568212,
+        "num": 338024,
+        "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+        "onboard_time": 1721022016,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337617,
+        "num": 337617,
+        "word": "瓶装水为什么越来越便宜",
+        "onboard_time": 1721030359,
+        "rank": 13,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 319179,
+        "num": 319179,
+        "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+        "onboard_time": 1721029700,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312657,
+        "num": 312657,
+        "word": "原神",
+        "onboard_time": 1721038997,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288300,
+        "num": 288300,
+        "word": "曾舜晞给白鹿编了个头盔",
+        "onboard_time": 1721038038,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282750,
+        "num": 282750,
+        "word": "小孩撞倒报价10万自行车",
+        "onboard_time": 1721027779,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228046,
+        "num": 228046,
+        "word": "特朗普受访谈及遇袭细节",
+        "onboard_time": 1721032759,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217651,
+        "num": 217651,
+        "word": "涂山璟求婚小夭",
+        "onboard_time": 1721034619,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444917,
+        "num": 216983,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241380,
+        "num": 216394,
+        "word": "还以为杨洋衣服脏了",
+        "onboard_time": 1721038939,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214368,
+        "num": 214368,
+        "word": "中国女子在泰国遭肢解案嫌疑人落网",
+        "onboard_time": 1721038877,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204892,
+        "num": 204892,
+        "word": "三伏天谨记三忌三宜",
+        "onboard_time": 1721037677,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201868,
+        "num": 201868,
+        "word": "长期喝茶的人最后都咋样了",
+        "onboard_time": 1721030658,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201796,
+        "num": 201796,
+        "word": "薛之谦苏州",
+        "onboard_time": 1721036598,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200139,
+        "num": 200139,
+        "word": "许嵩演唱会",
+        "onboard_time": 1721039238,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184673,
+        "num": 184673,
+        "word": "梅德韦杰夫认为特朗普已赢得大选",
+        "onboard_time": 1721037018,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184609,
+        "num": 184609,
+        "word": "三伏天减肥瘦的太快了",
+        "onboard_time": 1721026458,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162008,
+        "num": 162008,
+        "word": "59岁男子全网寻找撑伞姑娘",
+        "onboard_time": 1721035998,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51038,
+        "num": 161107,
+        "word": "王一博担任巴黎奥运火炬手",
+        "onboard_time": 1721034439,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289540,
+        "num": 161073,
+        "word": "Henry说漏嘴了",
+        "onboard_time": 1721028798,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160555,
+        "num": 160555,
+        "word": "长相思",
+        "onboard_time": 1721039778,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151230,
+        "num": 151230,
+        "word": "唐诡剧组的热度flag",
+        "onboard_time": 1721038939,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148364,
+        "num": 148364,
+        "word": "梅西晒照手捧两座美洲杯",
+        "onboard_time": 1721035736,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148341,
+        "num": 148341,
+        "word": "肖战没有丑特效也能制造丑特效",
+        "onboard_time": 1721030177,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147325,
+        "num": 147325,
+        "word": "三伏天牢记2不洗2不睡",
+        "onboard_time": 1721022198,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144713,
+        "num": 144713,
+        "word": "ricky沈泉锐费加罗男士中国首刊",
+        "onboard_time": 1721038098,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143790,
+        "num": 143790,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143250,
+        "num": 143250,
+        "word": "找百万粉丝网红带货3场销量都为0",
+        "onboard_time": 1721037740,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 142019,
+        "word": "广西通报26校6400多台空调装而不用",
+        "onboard_time": 1721035818,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140196,
+        "num": 140196,
+        "word": "刘国梁回应缺席国乒奥运名单",
+        "onboard_time": 1721039717,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135914,
+        "num": 135914,
+        "word": "沈星回 卧底夫妇",
+        "onboard_time": 1721038397,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130727,
+        "num": 130727,
+        "word": "原来驾校才是成年人的托儿所",
+        "onboard_time": 1721038818,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130583,
+        "num": 130583,
+        "word": "中国移动还在偷偷收来电显示费",
+        "onboard_time": 1721022439,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126741,
+        "num": 126741,
+        "word": "不要轻易和朱一龙去海边",
+        "onboard_time": 1721034798,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "国乒7月22日左右进驻奥运村",
+        "onboard_time": 1721039297,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "遇到了一只又聋又瞎的小猫",
+        "onboard_time": 1721039778,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112200,
+        "num": 112200,
+        "word": "长沙是网红餐饮最后的退路",
+        "onboard_time": 1721034018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108073,
+        "num": 108073,
+        "word": "摄影师Vic拍的王一博",
+        "onboard_time": 1721038217,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会议程#"
+    }
+  }
+}

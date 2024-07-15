@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721038886564,
+  "endTime": 1721039914745,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -107,20 +107,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1176132,
+      "num": 655790,
+      "word": "韩总 夫人终于给你名分了",
+      "onboard_time": 1721037438,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1124149,
       "num": 344825,
       "word": "小孩撞倒报价10万自行车",
       "onboard_time": 1721027779,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1107267,
-      "num": 458524,
-      "word": "韩总 夫人终于给你名分了",
-      "onboard_time": 1721037438,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1101363,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1027635,
-      "num": 342542,
+      "num": 343108,
       "word": "视觉中国回应特朗普照片版权",
       "onboard_time": 1721030298,
       "rank": 21,
@@ -251,6 +251,14 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 791895,
+      "num": 791895,
+      "word": "爱奇艺回应基础会员不能跳片头广告",
+      "onboard_time": 1721036598,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 781508,
       "num": 665070,
       "word": "王一博真成黑皮体育生了",
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 708872,
-      "num": 708872,
-      "word": "爱奇艺回应基础会员不能跳片头广告",
-      "onboard_time": 1721036598,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 691745,
       "num": 459363,
       "word": "特朗普下飞机时又挥舞了拳头",
@@ -337,6 +337,14 @@
       "onboard_time": 1720967720,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610375,
+      "num": 610375,
+      "word": "韩国女性孕36周堕胎被警方调查",
+      "onboard_time": 1721037619,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603532,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 436488,
-      "num": 295579,
+      "num": 342004,
       "word": "苏醒回应自己是梅西球迷",
       "onboard_time": 1721035638,
       "rank": 17,
@@ -603,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 378140,
+      "num": 378140,
+      "word": "突然发现很久没看喜羊羊了",
+      "onboard_time": 1721034497,
+      "rank": 34,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 377056,
       "num": 377056,
       "word": "亚马尔领奖还是没经验",
@@ -617,14 +633,6 @@
       "onboard_time": 1721019860,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373397,
-      "num": 373397,
-      "word": "突然发现很久没看喜羊羊了",
-      "onboard_time": 1721034497,
-      "rank": 34,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 372350,
@@ -681,6 +689,14 @@
       "onboard_time": 1720962799,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346663,
+      "num": 346663,
+      "word": "陈昊宇把成名形容成一阵风",
+      "onboard_time": 1721037740,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 341241,
@@ -763,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 312657,
+      "num": 312657,
+      "word": "原神",
+      "onboard_time": 1721038997,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309668,
       "num": 288835,
       "word": "长期喝茶的人最后都咋样了",
@@ -811,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288300,
+      "num": 288300,
+      "word": "曾舜晞给白鹿编了个头盔",
+      "onboard_time": 1721038038,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287335,
       "num": 357709,
       "word": "王楚钦孙颖莎巴黎如愿",
@@ -857,14 +889,6 @@
       "onboard_time": 1721016560,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 280797,
-      "num": 280797,
-      "word": "陈昊宇把成名形容成一阵风",
-      "onboard_time": 1721037740,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 279900,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241380,
+      "num": 216394,
+      "word": "还以为杨洋衣服脏了",
+      "onboard_time": 1721038939,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240811,
       "num": 240811,
       "word": "恋与深空秦彻",
@@ -1083,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218366,
-      "num": 218366,
-      "word": "曾舜晞给白鹿编了个头盔",
-      "onboard_time": 1721038038,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 215575,
       "num": 202960,
       "word": "梅西晒照手捧两座美洲杯",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1721021418,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214368,
+      "num": 214368,
+      "word": "中国女子在泰国遭肢解案嫌疑人落网",
+      "onboard_time": 1721038877,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 214272,
@@ -1136,14 +1168,6 @@
       "word": "三伏天谨记三忌三宜",
       "onboard_time": 1721037677,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209571,
-      "num": 209571,
-      "word": "韩国女性孕36周堕胎被警方调查",
-      "onboard_time": 1721037619,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1289,14 @@
       "onboard_time": 1721035698,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200139,
+      "num": 200139,
+      "word": "许嵩演唱会",
+      "onboard_time": 1721039238,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 199424,
@@ -1667,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160555,
+      "num": 160555,
+      "word": "长相思",
+      "onboard_time": 1721039778,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159144,
       "num": 159144,
       "word": "接到秦彻电话了",
@@ -1763,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151230,
+      "num": 151230,
+      "word": "唐诡剧组的热度flag",
+      "onboard_time": 1721038939,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150696,
       "num": 150696,
       "word": "手紧的年轻人爆买10元防晒衣",
@@ -1827,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143250,
+      "num": 143250,
+      "word": "找百万粉丝网红带货3场销量都为0",
+      "onboard_time": 1721037740,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142722,
       "num": 142722,
       "word": "梅西被换下",
@@ -1840,6 +1896,14 @@
       "word": "西班牙vs英格兰首发",
       "onboard_time": 1720980313,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140196,
+      "num": 140196,
+      "word": "刘国梁回应缺席国乒奥运名单",
+      "onboard_time": 1721039717,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1865,6 +1929,14 @@
       "onboard_time": 1721007617,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135914,
+      "num": 135914,
+      "word": "沈星回 卧底夫妇",
+      "onboard_time": 1721038397,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 133991,
@@ -1915,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130727,
+      "num": 130727,
+      "word": "原来驾校才是成年人的托儿所",
+      "onboard_time": 1721038818,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129053,
       "num": 129053,
       "word": "秦彻开屏",
@@ -1963,20 +2043,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125283,
-      "num": 125283,
-      "word": "找百万粉丝网红带货3场销量都为0",
-      "onboard_time": 1721037740,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124998,
       "num": 124998,
       "word": "菲常萧张 随个份子",
       "onboard_time": 1721027238,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123896,
+      "num": 123896,
+      "word": "国乒7月22日左右进驻奥运村",
+      "onboard_time": 1721039297,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122522,
@@ -2075,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115791,
+      "num": 115791,
+      "word": "遇到了一只又聋又瞎的小猫",
+      "onboard_time": 1721039778,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114533,
       "num": 114533,
       "word": "西班牙半场0比0英格兰",
@@ -2089,14 +2177,6 @@
       "onboard_time": 1721022739,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112145,
-      "num": 112145,
-      "word": "沈星回 卧底夫妇",
-      "onboard_time": 1721038397,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 111883,
@@ -2153,14 +2233,6 @@
       "onboard_time": 1720999755,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105897,
-      "num": 105897,
-      "word": "原来驾校才是成年人的托儿所",
-      "onboard_time": 1721038818,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 105451,
@@ -2379,6 +2451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76019,
+      "num": 493687,
+      "word": "外国游客成了我的互联网嘴替",
+      "onboard_time": 1721037619,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73433,
       "num": 377872,
       "word": "孙颖莎奥运出征带了什么",
@@ -2523,20 +2603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51038,
+      "num": 342925,
+      "word": "王一博担任巴黎奥运火炬手",
+      "onboard_time": 1721034439,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50391,
       "num": 267582,
       "word": "来浙小伙浙里办申请公积金转移秒到账",
       "onboard_time": 1721035339,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50296,
-      "num": 342925,
-      "word": "王一博担任巴黎奥运火炬手",
-      "onboard_time": 1721034439,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 49971,
@@ -2561,14 +2641,6 @@
       "onboard_time": 1721030778,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46608,
-      "num": 382217,
-      "word": "外国游客成了我的互联网嘴替",
-      "onboard_time": 1721037619,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46470,
