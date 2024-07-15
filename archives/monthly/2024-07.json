@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721039914745,
+  "endTime": 1721042208143,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -3948,7 +3948,7 @@
     },
     {
       "raw_hot": 791895,
-      "num": 791895,
+      "num": 1126414,
       "word": "爱奇艺回应基础会员不能跳片头广告",
       "onboard_time": 1721036598,
       "rank": 1,
@@ -4233,6 +4233,14 @@
       "onboard_time": 1720534819,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 765388,
+      "num": 610375,
+      "word": "韩国女性孕36周堕胎被警方调查",
+      "onboard_time": 1721037619,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764237,
@@ -5899,14 +5907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610375,
-      "num": 610375,
-      "word": "韩国女性孕36周堕胎被警方调查",
-      "onboard_time": 1721037619,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610142,
       "num": 331569,
       "word": "缉毒卧底连续偶遇警察同事",
@@ -6747,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565214,
+      "num": 307064,
+      "word": "中国女子在泰国遭肢解案嫌疑人落网",
+      "onboard_time": 1721038877,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 565104,
       "num": 565104,
       "word": "为什么现在电视剧都是1女N男",
@@ -7449,6 +7457,14 @@
       "onboard_time": 1720163239,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527604,
+      "num": 527604,
+      "word": "刘国梁回应缺席国乒奥运名单",
+      "onboard_time": 1721039717,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 527405,
@@ -13883,6 +13899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 309392,
+      "num": 309392,
+      "word": "曾舜晞给白鹿编了个头盔",
+      "onboard_time": 1721038038,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309062,
       "num": 274257,
       "word": "7月份我的同事一个个消失了",
@@ -14689,14 +14713,6 @@
       "onboard_time": 1721015718,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288300,
-      "num": 288300,
-      "word": "曾舜晞给白鹿编了个头盔",
-      "onboard_time": 1721038038,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288256,
@@ -18659,14 +18675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214368,
-      "num": 214368,
-      "word": "中国女子在泰国遭肢解案嫌疑人落网",
-      "onboard_time": 1721038877,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 214272,
       "num": 214272,
       "word": "张晚意第一次踏进苗寨",
@@ -18793,6 +18801,14 @@
       "onboard_time": 1720660759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213063,
+      "num": 213063,
+      "word": "三伏天谨记三忌三宜",
+      "onboard_time": 1721037677,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213054,
@@ -18993,14 +19009,6 @@
       "onboard_time": 1720416379,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210462,
-      "num": 210462,
-      "word": "三伏天谨记三忌三宜",
-      "onboard_time": 1721037677,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210295,
@@ -20049,6 +20057,14 @@
       "onboard_time": 1720591098,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203013,
+      "num": 217142,
+      "word": "国乒到巴黎了",
+      "onboard_time": 1721040979,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 202935,
@@ -22851,6 +22867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184849,
+      "num": 184849,
+      "word": "当老外在中国染上外卖",
+      "onboard_time": 1721041159,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184848,
       "num": 184848,
       "word": "中餐厅汉服游园会路透",
@@ -23249,6 +23273,14 @@
       "onboard_time": 1720152440,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181350,
+      "num": 181350,
+      "word": "王子奇王星越双向奔赴的病友",
+      "onboard_time": 1721040258,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 181349,
@@ -25257,6 +25289,14 @@
       "onboard_time": 1720969580,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167866,
+      "num": 167866,
+      "word": "胖室每天一个离职小技巧",
+      "onboard_time": 1721041518,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 167843,
@@ -29539,14 +29579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140196,
-      "num": 140196,
-      "word": "刘国梁回应缺席国乒奥运名单",
-      "onboard_time": 1721039717,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140180,
       "num": 140180,
       "word": "见过最正经的已读乱回",
@@ -30041,6 +30073,14 @@
       "onboard_time": 1720153400,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137653,
+      "num": 137653,
+      "word": "原来驾校才是成年人的托儿所",
+      "onboard_time": 1721038818,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 137596,
@@ -30577,6 +30617,14 @@
       "onboard_time": 1720152680,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134303,
+      "num": 134303,
+      "word": "遇到了一只又聋又瞎的小猫",
+      "onboard_time": 1721039778,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 134240,
@@ -31313,14 +31361,6 @@
       "onboard_time": 1720516159,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130727,
-      "num": 130727,
-      "word": "原来驾校才是成年人的托儿所",
-      "onboard_time": 1721038818,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 130694,
@@ -33643,6 +33683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117930,
+      "num": 117930,
+      "word": "C口究竟有多混乱",
+      "onboard_time": 1721040498,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117892,
       "num": 447863,
       "word": "老旧电梯总出故障为啥还不报废",
@@ -33953,14 +34001,6 @@
       "onboard_time": 1720001118,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115791,
-      "num": 115791,
-      "word": "遇到了一只又聋又瞎的小猫",
-      "onboard_time": 1721039778,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 115785,
@@ -35427,6 +35467,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 106535,
+      "num": 106535,
+      "word": "张远的花絮到底是哪天的",
+      "onboard_time": 1721042118,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106527,
       "num": 106527,
       "word": "张馨予一件衣服穿了10年",
@@ -36033,6 +36081,14 @@
       "onboard_time": 1721028200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102002,
+      "num": 102002,
+      "word": "为什么擦了防晒还是晒黑了",
+      "onboard_time": 1721040138,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 101990,
@@ -37907,6 +37963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77677,
+      "num": 546923,
+      "word": "外国游客成了我的互联网嘴替",
+      "onboard_time": 1721037619,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77642,
       "num": 386933,
       "word": "古茗直播好抢吗",
@@ -38001,14 +38065,6 @@
       "onboard_time": 1720997593,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76019,
-      "num": 493687,
-      "word": "外国游客成了我的互联网嘴替",
-      "onboard_time": 1721037619,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75981,
@@ -38209,6 +38265,14 @@
       "onboard_time": 1720890135,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71768,
+      "num": 286118,
+      "word": "饿了么用户捐出10026个足球",
+      "onboard_time": 1721041217,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71678,
@@ -40265,6 +40329,14 @@
       "onboard_time": 1720476672,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47031,
+      "num": 307120,
+      "word": "暑期小城游火出圈",
+      "onboard_time": 1721041217,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47020,
