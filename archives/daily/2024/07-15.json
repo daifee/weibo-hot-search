@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721011787634,
+  "endTime": 1721013888411,
   "band_list": [
     {
       "raw_hot": 1829043,
@@ -24,6 +24,14 @@
       "word": "特朗普照片",
       "onboard_time": 1721000837,
       "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1414748,
+      "num": 586365,
+      "word": "特朗普遇袭照登上时代杂志封面",
+      "onboard_time": 1721009718,
+      "rank": 12,
       "category": "国外时政"
     },
     {
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 988221,
+      "num": 988221,
+      "word": "阿根廷vs哥伦比亚",
+      "onboard_time": 1721002938,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 978639,
       "num": 978639,
       "word": "西班牙vs英格兰",
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 952286,
-      "num": 505110,
+      "num": 549911,
       "word": "黄灿灿好美",
       "onboard_time": 1721001859,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 945039,
+      "num": 945039,
+      "word": "梅西哭了",
+      "onboard_time": 1721012898,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 907631,
@@ -91,12 +115,28 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 809880,
-      "num": 403890,
-      "word": "特朗普遇袭照登上时代杂志封面",
-      "onboard_time": 1721009718,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 883608,
+      "num": 883608,
+      "word": "梅西被铲倒",
+      "onboard_time": 1721010196,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 868612,
+      "num": 868612,
+      "word": "原来教师编面试是一场沉浸式表演",
+      "onboard_time": 1721010378,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 849013,
+      "num": 849013,
+      "word": "三伏天真的适合减肥吗",
+      "onboard_time": 1721010378,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 773337,
@@ -123,20 +163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690679,
+      "num": 586174,
+      "word": "王一博真成黑皮体育生了",
+      "onboard_time": 1721012237,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 659151,
       "num": 483620,
       "word": "特朗普遇刺案枪手同学发声",
       "onboard_time": 1721005397,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 631065,
-      "num": 631065,
-      "word": "原来教师编面试是一场沉浸式表演",
-      "onboard_time": 1721010378,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 625307,
@@ -163,20 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585795,
+      "num": 585795,
+      "word": "抓娃娃",
+      "onboard_time": 1720942891,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 570399,
+      "num": 570399,
+      "word": "哑舍杀青",
+      "onboard_time": 1721011338,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570154,
       "num": 224819,
       "word": "特朗普或因侧头看图表救回一命",
       "onboard_time": 1720945401,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 566608,
-      "num": 566608,
-      "word": "抓娃娃",
-      "onboard_time": 1720942891,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 544846,
@@ -187,20 +235,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 525089,
-      "num": 525089,
-      "word": "阿根廷vs哥伦比亚",
-      "onboard_time": 1721002938,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 522422,
       "num": 349613,
       "word": "皮肤有这7个变化提示血糖超标了",
       "onboard_time": 1721005279,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 510454,
+      "num": 510454,
+      "word": "王俊凯将出席英雄联盟手游2周年庆典",
+      "onboard_time": 1721011757,
+      "rank": 47,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 498682,
@@ -225,14 +273,6 @@
       "onboard_time": 1720967482,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 432559,
-      "num": 384638,
-      "word": "梅西被铲倒",
-      "onboard_time": 1721010196,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 432430,
@@ -283,20 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376656,
-      "num": 376656,
-      "word": "哑舍杀青",
-      "onboard_time": 1721011338,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 362566,
-      "num": 362566,
-      "word": "三伏天真的适合减肥吗",
-      "onboard_time": 1721010378,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 366985,
+      "num": 366985,
+      "word": "野生大熊猫自己在竹林吃了一整晚",
+      "onboard_time": 1721012778,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356108,
@@ -387,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302450,
+      "num": 302450,
+      "word": "英雄联盟手游",
+      "onboard_time": 1721010858,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296790,
       "num": 296790,
       "word": "英雄联盟",
@@ -459,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243493,
+      "num": 243493,
+      "word": "剑网3",
+      "onboard_time": 1721013258,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243161,
       "num": 243161,
       "word": "本周狗屎运最旺的星座",
@@ -523,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205617,
+      "num": 205617,
+      "word": "汪苏泷演唱会南京站点歌",
+      "onboard_time": 1721012778,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205460,
       "num": 205460,
       "word": "刘亦菲成了林一炫耀的资本",
@@ -531,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205241,
+      "num": 205241,
+      "word": "不到10块钱的降温冰圈靠什么降温",
+      "onboard_time": 1721011098,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 201859,
       "num": 201859,
       "word": "小狗狗的嘴嘴是十分的臭",
       "onboard_time": 1721000177,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201449,
-      "num": 201449,
-      "word": "不到10块钱的降温冰圈靠什么降温",
-      "onboard_time": 1721011098,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 199424,
@@ -587,6 +643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189723,
+      "num": 189723,
+      "word": "梅西下场痛哭",
+      "onboard_time": 1721013377,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187900,
+      "num": 187900,
+      "word": "亚马尔和女友庆祝夺冠",
+      "onboard_time": 1721011999,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186429,
       "num": 186429,
       "word": "王一博传递奥运圣火",
@@ -609,6 +681,14 @@
       "onboard_time": 1721008758,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182028,
+      "num": 182028,
+      "word": "指甲突然出现黑线可能是癌变",
+      "onboard_time": 1721011938,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181882,
@@ -641,6 +721,14 @@
       "onboard_time": 1720964180,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172610,
+      "num": 172610,
+      "word": "巴黎奥运村挂起五星红旗",
+      "onboard_time": 1721013679,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 171087,
@@ -689,6 +777,14 @@
       "onboard_time": 1720973838,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159183,
+      "num": 159183,
+      "word": "十个勤天GLASSMAN封面",
+      "onboard_time": 1721013558,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158474,
@@ -763,20 +859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147436,
+      "num": 147436,
+      "word": "Ning王说TES状态不对",
+      "onboard_time": 1721012598,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145240,
       "num": 145240,
       "word": "薛之谦演唱会嘉宾是李健",
       "onboard_time": 1720962799,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144623,
-      "num": 144623,
-      "word": "王俊凯将出席英雄联盟手游2周年庆典",
-      "onboard_time": 1721011757,
-      "rank": 47,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 140313,
@@ -1043,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85443,
+      "num": 857885,
+      "word": "二十届三中全会知识点",
+      "onboard_time": 1721011517,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 84481,
       "num": 84481,
       "word": "梅西首发出战美洲杯决赛",
@@ -1099,20 +1203,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77112,
-      "num": 416689,
-      "word": "二十届三中全会知识点",
-      "onboard_time": 1721011517,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
-    },
-    {
       "raw_hot": 76023,
       "num": 76023,
       "word": "中华田园犬不愧是祖宗严选",
       "onboard_time": 1720997593,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73433,
+      "num": 377872,
+      "word": "孙颖莎奥运出征带了什么",
+      "onboard_time": 1721008158,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 73353,
@@ -1152,14 +1256,6 @@
       "word": "奥亚萨瓦尔破门",
       "onboard_time": 1720999876,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66645,
-      "num": 377872,
-      "word": "孙颖莎奥运出征带了什么",
-      "onboard_time": 1721008158,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -1244,7 +1340,7 @@
     },
     {
       "raw_hot": 46470,
-      "num": 935604,
+      "num": 951543,
       "word": "行进的中国如此蓬勃",
       "onboard_time": 1720963640,
       "rank": 2,
