@@ -1,0 +1,410 @@
+{
+  "runTime": 1721053035914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1530391,
+        "num": 1530391,
+        "word": "迪丽热巴不喝冰川水的原因",
+        "onboard_time": 1721049740,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787827,
+        "num": 787827,
+        "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
+        "onboard_time": 1721048899,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35724,
+        "num": 484612,
+        "word": "奋进中国",
+        "onboard_time": 1721049798,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1016923,
+        "num": 460007,
+        "word": "郑爽张恒公司连续3年经营异常",
+        "onboard_time": 1721050039,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432863,
+        "num": 432863,
+        "word": "3名中国火炬手巴黎传递奥运火炬",
+        "onboard_time": 1721048178,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393999,
+        "num": 393999,
+        "word": "霸王茶姬就员工离职被公示致歉",
+        "onboard_time": 1721050638,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588968,
+        "num": 386741,
+        "word": "周雨彤 花少",
+        "onboard_time": 1721047397,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419484,
+        "num": 373800,
+        "word": "相柳九命九脸",
+        "onboard_time": 1721050820,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52676,
+        "num": 366034,
+        "word": "上半年中国GDP同比增长5.0%",
+        "onboard_time": 1721034018,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235956,
+        "num": 357758,
+        "word": "孙颖莎奥运官网值得关注运动员",
+        "onboard_time": 1721052259,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 836399,
+        "num": 347055,
+        "word": "日本17岁女孩误拍他人惨遭杀害",
+        "onboard_time": 1721042777,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560408,
+        "num": 331780,
+        "word": "孟子义原名孟子乂",
+        "onboard_time": 1721046677,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327529,
+        "num": 327529,
+        "word": "奥运官网发布12位值得关注运动员",
+        "onboard_time": 1721046918,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321725,
+        "num": 321725,
+        "word": "小夭给玱玹砸了一辈子",
+        "onboard_time": 1721046497,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303136,
+        "num": 303136,
+        "word": "韩总 夫人终于给你名分了",
+        "onboard_time": 1721037438,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 240148,
+        "word": "刘国梁介绍国乒奥运会三个阶段",
+        "onboard_time": 1721049859,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233309,
+        "num": 233309,
+        "word": "北京一幼儿园突遇搬迁遭家长集体反对",
+        "onboard_time": 1721052380,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229925,
+        "num": 229925,
+        "word": "爱奇艺回应基础会员不能跳片头广告",
+        "onboard_time": 1721036598,
+        "rank": 17,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 209334,
+        "num": 209334,
+        "word": "秦彻 喵喵牌",
+        "onboard_time": 1721045657,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205285,
+        "num": 205285,
+        "word": "九尾Cat清清梦之队交流大使",
+        "onboard_time": 1721044997,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 427301,
+        "num": 204740,
+        "word": "猫 没事哒",
+        "onboard_time": 1721046077,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304178,
+        "num": 202567,
+        "word": "视觉中国回应特朗普照片版权",
+        "onboard_time": 1721030298,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 290697,
+        "num": 202100,
+        "word": "最讨厌的小说女主名字",
+        "onboard_time": 1721050761,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244102,
+        "num": 199805,
+        "word": "这么多年水果都洗错了",
+        "onboard_time": 1721048778,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 223956,
+        "num": 199069,
+        "word": "吴谨言王星越叼玫瑰花片段被删",
+        "onboard_time": 1721049139,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208928,
+        "num": 197197,
+        "word": "邓为涂山璟人夫感",
+        "onboard_time": 1721051598,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196431,
+        "num": 196431,
+        "word": "iPhone16值得等吗",
+        "onboard_time": 1721042538,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194345,
+        "num": 194345,
+        "word": "韩国女性孕36周堕胎被警方调查",
+        "onboard_time": 1721037619,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182194,
+        "num": 182194,
+        "word": "三伏天谨记三忌三宜",
+        "onboard_time": 1721037677,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187806,
+        "num": 173613,
+        "word": "王子奇王星越给沈月整无语了",
+        "onboard_time": 1721052439,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244120,
+        "num": 170764,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 164315,
+        "word": "百岁奶奶为浇菜把粪桶放孙子屋",
+        "onboard_time": 1721052380,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162022,
+        "num": 162022,
+        "word": "杨幂头伏营业",
+        "onboard_time": 1721047638,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153365,
+        "num": 153365,
+        "word": "九尾缺席沙特大名单",
+        "onboard_time": 1721044098,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153221,
+        "num": 153221,
+        "word": "王楚钦问不让带吃的吗",
+        "onboard_time": 1721046018,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 145604,
+        "word": "当你的手办被妈妈碰过",
+        "onboard_time": 1721051478,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132814,
+        "num": 132814,
+        "word": "苏真真恋己脑",
+        "onboard_time": 1721052318,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130606,
+        "num": 130606,
+        "word": "为什么韩国人一直在休学",
+        "onboard_time": 1721046077,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130157,
+        "num": 130157,
+        "word": "特斯拉出毛豆车贴99元3个",
+        "onboard_time": 1721047157,
+        "rank": 38,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 127564,
+        "num": 127564,
+        "word": "长相思复更",
+        "onboard_time": 1721046497,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125052,
+        "num": 125052,
+        "word": "巴黎奥运国乒比赛时间表",
+        "onboard_time": 1721051418,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "三伏天减肥瘦的太快了",
+        "onboard_time": 1721026458,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122461,
+        "num": 122461,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120517,
+        "num": 120517,
+        "word": "余承东回应经常挨任正非批评",
+        "onboard_time": 1721049498,
+        "rank": 43,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 116493,
+        "num": 116493,
+        "word": "男子凌晨报警家里多出一个孩子",
+        "onboard_time": 1721045477,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115922,
+        "num": 115922,
+        "word": "国家助学贷款在校期间本息都不用还",
+        "onboard_time": 1721052799,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115594,
+        "num": 115594,
+        "word": "拍出了赵今麦竹的气质",
+        "onboard_time": 1721052919,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115462,
+        "num": 115462,
+        "word": "神偷奶爸4里有BLACKPINK",
+        "onboard_time": 1721046918,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108863,
+        "num": 108863,
+        "word": "历年奥运会中国代表团礼服",
+        "onboard_time": 1721052742,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105631,
+        "num": 105631,
+        "word": "中国乒乓巴黎如愿",
+        "onboard_time": 1721046138,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会#"
+    }
+  }
+}
