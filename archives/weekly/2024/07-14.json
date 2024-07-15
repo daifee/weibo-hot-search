@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721078365225,
+  "endTime": 1721079286964,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -5931,20 +5931,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43724,
+      "num": 45321,
+      "word": "旅行有一种没苦硬吃的感觉",
+      "onboard_time": 1721069772,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43139,
       "num": 513630,
       "word": "鸿星尔克公园跑鞋缓震新时代",
       "onboard_time": 1720943363,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 42738,
-      "num": 45321,
-      "word": "旅行有一种没苦硬吃的感觉",
-      "onboard_time": 1721069772,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 41214,
@@ -6283,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18066,
+      "num": 25416,
+      "word": "惠州4人潜水失联背后",
+      "onboard_time": 1721077030,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17514,
       "num": 29727,
       "word": "成毅分享最近的天空",
@@ -6347,7 +6355,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13251,
+      "raw_hot": 13875,
       "num": 25416,
       "word": "俩话痨在婚礼上也止不住唠嗑",
       "onboard_time": 1721075711,
@@ -6355,12 +6363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13216,
-      "num": 25416,
-      "word": "惠州4人潜水失联背后",
-      "onboard_time": 1721077030,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 13040,
+      "num": 40767,
+      "word": "被小女孩照顾长大的小象",
+      "onboard_time": 1721073551,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 12972,
@@ -6369,14 +6377,6 @@
       "onboard_time": 1720938444,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12661,
-      "num": 40767,
-      "word": "被小女孩照顾长大的小象",
-      "onboard_time": 1721073551,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 12041,
@@ -6401,6 +6401,14 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11082,
+      "num": 19927,
+      "word": "被拽走时依然保持明星姿态",
+      "onboard_time": 1721078891,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 8501,

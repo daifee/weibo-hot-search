@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721078365225,
+  "endTime": 1721079286964,
   "band_list": [
     {
       "raw_hot": 694376,
@@ -411,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42738,
+      "raw_hot": 43724,
       "num": 45321,
       "word": "旅行有一种没苦硬吃的感觉",
       "onboard_time": 1721069772,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18066,
+      "num": 25416,
+      "word": "惠州4人潜水失联背后",
+      "onboard_time": 1721077030,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16776,
       "num": 43199,
       "word": "三伏天反而要防寒",
@@ -483,7 +491,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13251,
+      "raw_hot": 13875,
       "num": 25416,
       "word": "俩话痨在婚礼上也止不住唠嗑",
       "onboard_time": 1721075711,
@@ -491,15 +499,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13216,
-      "num": 25416,
-      "word": "惠州4人潜水失联背后",
-      "onboard_time": 1721077030,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12661,
+      "raw_hot": 13040,
       "num": 40767,
       "word": "被小女孩照顾长大的小象",
       "onboard_time": 1721073551,
@@ -521,6 +521,14 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11082,
+      "num": 19927,
+      "word": "被拽走时依然保持明星姿态",
+      "onboard_time": 1721078891,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 4912,
