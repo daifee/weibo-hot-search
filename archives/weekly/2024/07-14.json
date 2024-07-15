@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721017571585,
+  "endTime": 1721018341773,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -19,20 +19,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 9637368,
+      "num": 9637368,
+      "word": "阿根廷夺冠",
+      "onboard_time": 1721016859,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5810500,
       "num": 870837,
       "word": "黄子韬徐艺洋官宣",
       "onboard_time": 1720943183,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5796453,
-      "num": 5796453,
-      "word": "阿根廷夺冠",
-      "onboard_time": 1721016859,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3610622,
@@ -193,6 +193,14 @@
       "onboard_time": 1720965921,
       "rank": 6,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 1357636,
+      "num": 351260,
+      "word": "徐艺洋在SM时期的旧照",
+      "onboard_time": 1721016980,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1310814,
@@ -513,14 +521,6 @@
       "onboard_time": 1720942891,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 673365,
-      "num": 351260,
-      "word": "徐艺洋在SM时期的旧照",
-      "onboard_time": 1721016980,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 663169,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459363,
+      "num": 459363,
+      "word": "特朗普下飞机时又挥舞了拳头",
+      "onboard_time": 1721015058,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 456518,
       "num": 456518,
       "word": "鞠婧祎内娱首位女星超话钻3",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1720911732,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423414,
+      "num": 423414,
+      "word": "吴谨言王星越芭莎双人专刊",
+      "onboard_time": 1721016859,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 423134,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1720955359,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378523,
-      "num": 378523,
-      "word": "特朗普下飞机时又挥舞了拳头",
-      "onboard_time": 1721015058,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 377056,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1720928901,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349974,
+      "num": 349974,
+      "word": "梅西笑了",
+      "onboard_time": 1721018000,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 347546,
@@ -1363,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302083,
+      "num": 302083,
+      "word": "可疑的是案件可怕的是人性",
+      "onboard_time": 1721017459,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301040,
       "num": 301040,
       "word": "天天吃西红柿会身体发生什么",
@@ -1515,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281152,
+      "num": 281152,
+      "word": "二十届三中全会议程",
+      "onboard_time": 1721016560,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279900,
       "num": 279900,
       "word": "西班牙全胜夺冠",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1720932686,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265447,
-      "num": 265447,
-      "word": "二十届三中全会议程",
-      "onboard_time": 1721016560,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 265253,
@@ -1676,7 +1700,7 @@
     },
     {
       "raw_hot": 249823,
-      "num": 857885,
+      "num": 1496985,
       "word": "二十届三中全会知识点",
       "onboard_time": 1721011517,
       "rank": 9,
@@ -1755,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240811,
+      "num": 240811,
+      "word": "恋与深空秦彻",
+      "onboard_time": 1721017220,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240107,
       "num": 240107,
       "word": "老来离婚的女性往往过得更好",
@@ -1785,14 +1817,6 @@
       "onboard_time": 1720961000,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234539,
-      "num": 234539,
-      "word": "吴谨言王星越芭莎双人专刊",
-      "onboard_time": 1721016859,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 231876,
@@ -2131,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199374,
+      "num": 199374,
+      "word": "迪马利亚完美谢幕",
+      "onboard_time": 1721017820,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198799,
       "num": 198799,
       "word": "国乒出征",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1720966220,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197280,
-      "num": 197280,
-      "word": "恋与深空秦彻",
-      "onboard_time": 1721017220,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 196507,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1721006839,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191347,
+      "num": 191347,
+      "word": "欧洲杯彩票店赚翻了",
+      "onboard_time": 1721015598,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 191197,
@@ -2403,14 +2435,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 183627,
-      "num": 183627,
-      "word": "欧洲杯彩票店赚翻了",
-      "onboard_time": 1721015598,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "金灿荣评特朗普遭枪击",
@@ -2521,6 +2545,14 @@
       "onboard_time": 1720937125,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175403,
+      "num": 482665,
+      "word": "留学还是一条出路吗",
+      "onboard_time": 1721016019,
+      "rank": 14,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 175337,
@@ -2643,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167701,
+      "num": 167701,
+      "word": "西安在上一种很新的早八",
+      "onboard_time": 1721014758,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166476,
       "num": 166476,
       "word": "阿尔卡拉斯夺大满贯第四冠",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1720882700,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164999,
-      "num": 164999,
-      "word": "西安在上一种很新的早八",
-      "onboard_time": 1721014758,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 164513,
@@ -2689,6 +2721,14 @@
       "onboard_time": 1720966039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160235,
+      "num": 160235,
+      "word": "三伏天已连续10年都是40天",
+      "onboard_time": 1721015119,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158871,
@@ -2721,6 +2761,14 @@
       "onboard_time": 1720921940,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 157940,
+      "num": 514354,
+      "word": "二十届三中全会开始举行",
+      "onboard_time": 1721017040,
+      "rank": 9,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 157715,
@@ -2827,14 +2875,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 153694,
-      "num": 153694,
-      "word": "可疑的是案件可怕的是人性",
-      "onboard_time": 1721017459,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153372,
       "num": 153372,
       "word": "自己给奶奶做了一个智能屏",
@@ -2857,6 +2897,14 @@
       "onboard_time": 1720926921,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152787,
+      "num": 152787,
+      "word": "莎头 七年",
+      "onboard_time": 1721018182,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 152364,
@@ -2953,6 +3001,14 @@
       "onboard_time": 1720883059,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145947,
+      "num": 145947,
+      "word": "抓娃娃 中式教育",
+      "onboard_time": 1721018241,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 145026,
@@ -3075,6 +3131,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 137807,
+      "num": 137807,
+      "word": "土木专业为何从大热门变大冷门",
+      "onboard_time": 1721017941,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137505,
       "num": 137505,
       "word": "主播完不成直播时长被索赔100万",
@@ -3097,14 +3161,6 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135167,
-      "num": 135167,
-      "word": "三伏天已连续10年都是40天",
-      "onboard_time": 1721015119,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135139,
@@ -3265,14 +3321,6 @@
       "onboard_time": 1720926440,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127460,
-      "num": 514354,
-      "word": "二十届三中全会开始举行",
-      "onboard_time": 1721017040,
-      "rank": 9,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 127415,
@@ -3617,14 +3665,6 @@
       "onboard_time": 1720998135,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98508,
-      "num": 482665,
-      "word": "留学还是一条出路吗",
-      "onboard_time": 1721016019,
-      "rank": 14,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 96511,

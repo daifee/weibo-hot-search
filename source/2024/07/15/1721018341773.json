@@ -1,0 +1,410 @@
+{
+  "runTime": 1721018341773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9637368,
+        "num": 9637368,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1574793,
+        "num": 1574793,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1721002938,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172045,
+        "num": 1496985,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468351,
+        "num": 1468351,
+        "word": "梅西哭了",
+        "onboard_time": 1721012898,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 961650,
+        "num": 961650,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854211,
+        "num": 854211,
+        "word": "阿根廷1比0哥伦比亚",
+        "onboard_time": 1721016378,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644061,
+        "num": 644061,
+        "word": "王一博捡起掉落的国旗",
+        "onboard_time": 1720999936,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508891,
+        "num": 508891,
+        "word": "劳塔罗破门",
+        "onboard_time": 1721016499,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505784,
+        "num": 505784,
+        "word": "野生大熊猫自己在竹林吃了一整晚",
+        "onboard_time": 1721012778,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157940,
+        "num": 498852,
+        "word": "二十届三中全会开始举行",
+        "onboard_time": 1721017040,
+        "rank": 9,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 495202,
+        "num": 495202,
+        "word": "贷款10万元被收了2.9万元服务费",
+        "onboard_time": 1721003059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601361,
+        "num": 482716,
+        "word": "王一博真成黑皮体育生了",
+        "onboard_time": 1721012237,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 459363,
+        "num": 459363,
+        "word": "特朗普下飞机时又挥舞了拳头",
+        "onboard_time": 1721015058,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 427244,
+        "num": 427244,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721010378,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 423414,
+        "num": 423414,
+        "word": "吴谨言王星越芭莎双人专刊",
+        "onboard_time": 1721016859,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 418026,
+        "num": 418026,
+        "word": "美洲杯决赛",
+        "onboard_time": 1721003540,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450038,
+        "num": 385822,
+        "word": "法国驻华大使馆发郎朗王一博",
+        "onboard_time": 1721014998,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349974,
+        "num": 349974,
+        "word": "梅西笑了",
+        "onboard_time": 1721018000,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340130,
+        "num": 340130,
+        "word": "西班牙夺得欧洲杯冠军",
+        "onboard_time": 1720990992,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340051,
+        "num": 340051,
+        "word": "原来教师编面试是一场沉浸式表演",
+        "onboard_time": 1721010378,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1603665,
+        "num": 339613,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1357636,
+        "num": 338636,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337506,
+        "num": 337506,
+        "word": "抓娃娃",
+        "onboard_time": 1721009057,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332101,
+        "num": 332101,
+        "word": "黄灿灿好美",
+        "onboard_time": 1721001859,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10428,
+        "num": 304034,
+        "word": "行进的中国如此蓬勃",
+        "onboard_time": 1720963640,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302083,
+        "num": 302083,
+        "word": "可疑的是案件可怕的是人性",
+        "onboard_time": 1721017459,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295396,
+        "num": 295396,
+        "word": "王俊凯将出席英雄联盟手游2周年庆典",
+        "onboard_time": 1721011757,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 281152,
+        "num": 281152,
+        "word": "二十届三中全会议程",
+        "onboard_time": 1721016560,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273601,
+        "num": 273601,
+        "word": "哑舍杀青",
+        "onboard_time": 1721011338,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250545,
+        "num": 250545,
+        "word": "西班牙全胜夺冠",
+        "onboard_time": 1720991171,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248817,
+        "num": 248817,
+        "word": "梅西被铲倒",
+        "onboard_time": 1721010196,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244053,
+        "num": 244053,
+        "word": "边佑锡方道歉",
+        "onboard_time": 1721015539,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240811,
+        "num": 240811,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1721017220,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233275,
+        "num": 233275,
+        "word": "皮肤有这7个变化提示血糖超标了",
+        "onboard_time": 1721005279,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231668,
+        "num": 231668,
+        "word": "工作室分享赵丽颖的休憩时光",
+        "onboard_time": 1721015718,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199374,
+        "num": 199374,
+        "word": "迪马利亚完美谢幕",
+        "onboard_time": 1721017820,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198585,
+        "num": 198585,
+        "word": "吴谨言王星越时尚芭莎cp视频",
+        "onboard_time": 1721016019,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192721,
+        "num": 192721,
+        "word": "特朗普遇刺案遇难者系消防员",
+        "onboard_time": 1721014159,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191347,
+        "num": 191347,
+        "word": "欧洲杯彩票店赚翻了",
+        "onboard_time": 1721015598,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187143,
+        "num": 187143,
+        "word": "恋与深空2.0",
+        "onboard_time": 1721002998,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175746,
+        "num": 175746,
+        "word": "西班牙vs英格兰",
+        "onboard_time": 1720967962,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175403,
+        "num": 175403,
+        "word": "留学还是一条出路吗",
+        "onboard_time": 1721016019,
+        "rank": 41,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 173736,
+        "num": 173736,
+        "word": "哑舍首发预告",
+        "onboard_time": 1721014098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167701,
+        "num": 167701,
+        "word": "西安在上一种很新的早八",
+        "onboard_time": 1721014758,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162690,
+        "num": 162690,
+        "word": "欧洲杯决赛",
+        "onboard_time": 1720967720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160235,
+        "num": 160235,
+        "word": "三伏天已连续10年都是40天",
+        "onboard_time": 1721015119,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154426,
+        "num": 154426,
+        "word": "恋与深空快开门",
+        "onboard_time": 1721004498,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152787,
+        "num": 152787,
+        "word": "莎头 七年",
+        "onboard_time": 1721018182,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145947,
+        "num": 145947,
+        "word": "抓娃娃 中式教育",
+        "onboard_time": 1721018241,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137807,
+        "num": 137807,
+        "word": "土木专业为何从大热门变大冷门",
+        "onboard_time": 1721017941,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以自我革命的精神推进改革#"
+    }
+  }
+}
