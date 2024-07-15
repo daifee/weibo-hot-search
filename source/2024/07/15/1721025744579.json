@@ -1,0 +1,410 @@
+{
+  "runTime": 1721025744579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206245,
+        "num": 1206245,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128736,
+        "num": 1128736,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86807,
+        "num": 556678,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2000825,
+        "num": 517184,
+        "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+        "onboard_time": 1721022016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372350,
+        "num": 372350,
+        "word": "三伏天已连续10年都是40天",
+        "onboard_time": 1721015119,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347040,
+        "num": 347040,
+        "word": "夭玹决裂名场面",
+        "onboard_time": 1721020519,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1446174,
+        "num": 345084,
+        "word": "女子称从霸王茶姬离职后被公示",
+        "onboard_time": 1721019920,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330162,
+        "num": 330162,
+        "word": "爸爸第一次抱孩子偷感好重",
+        "onboard_time": 1721022559,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 305843,
+        "num": 305843,
+        "word": "秦彻剧情",
+        "onboard_time": 1721024178,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68652,
+        "num": 301252,
+        "word": "男孩徒手清下水口城管局长上门表扬",
+        "onboard_time": 1721024599,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925391,
+        "num": 295713,
+        "word": "中国移动还在偷偷收来电显示费",
+        "onboard_time": 1721022439,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390944,
+        "num": 289601,
+        "word": "三火道歉",
+        "onboard_time": 1721020938,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352919,
+        "num": 286612,
+        "word": "王一博刚准备啃指甲就被喊得忍住了",
+        "onboard_time": 1721019920,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 359908,
+        "num": 279459,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41214,
+        "num": 274210,
+        "word": "小荷包用户或成欧洲杯大赢家",
+        "onboard_time": 1721023518,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 322276,
+        "num": 268580,
+        "word": "特朗普下飞机时又挥舞了拳头",
+        "onboard_time": 1721015058,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312983,
+        "num": 265392,
+        "word": "中国女子在泰国遭肢解案排除勒索动机",
+        "onboard_time": 1721019860,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261965,
+        "num": 261965,
+        "word": "尼格买提 我把嘉宾都吃了",
+        "onboard_time": 1721020998,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260414,
+        "num": 260414,
+        "word": "梅西笑了",
+        "onboard_time": 1721018000,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218265,
+        "num": 218265,
+        "word": "吴谨言王星越芭莎双人专刊",
+        "onboard_time": 1721016859,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1138863,
+        "num": 218232,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496456,
+        "num": 216963,
+        "word": "三伏天牢记2不洗2不睡",
+        "onboard_time": 1721022198,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 451030,
+        "num": 215382,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 316778,
+        "num": 214512,
+        "word": "原来脂肪是靠呼吸排出的",
+        "onboard_time": 1721021599,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214272,
+        "num": 214272,
+        "word": "张晚意第一次踏进苗寨",
+        "onboard_time": 1721020458,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201981,
+        "num": 201981,
+        "word": "王一博在法国人气爆棚",
+        "onboard_time": 1721025198,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 198723,
+        "num": 198723,
+        "word": "骂着骂着成王靖雯铁粉了",
+        "onboard_time": 1721023759,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174806,
+        "num": 174806,
+        "word": "高圆圆深V吊带裙",
+        "onboard_time": 1721021418,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168352,
+        "num": 168352,
+        "word": "我们的歌city不city阵容官宣",
+        "onboard_time": 1721022079,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162889,
+        "num": 162889,
+        "word": "野生大熊猫自己在竹林吃了一整晚",
+        "onboard_time": 1721012778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181297,
+        "num": 161181,
+        "word": "王一博真成黑皮体育生了",
+        "onboard_time": 1721012237,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 159144,
+        "num": 159144,
+        "word": "接到秦彻电话了",
+        "onboard_time": 1721024359,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146399,
+        "num": 146399,
+        "word": "菲常萧张",
+        "onboard_time": 1721021118,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144025,
+        "num": 144025,
+        "word": "可疑的是案件可怕的是人性",
+        "onboard_time": 1721017459,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141324,
+        "num": 141324,
+        "word": "杨迪猜中TFBOYS宠爱",
+        "onboard_time": 1721024478,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140393,
+        "num": 140393,
+        "word": "梅西哭了",
+        "onboard_time": 1721012898,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133991,
+        "num": 133991,
+        "word": "铁血利马",
+        "onboard_time": 1721024298,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133728,
+        "num": 133728,
+        "word": "苏醒张远去哪都不忘记0713",
+        "onboard_time": 1721024238,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131065,
+        "num": 131065,
+        "word": "90后夫妻把粤A车开到了冰岛",
+        "onboard_time": 1721018721,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130977,
+        "num": 130977,
+        "word": "许凯给韩廷儿子起名",
+        "onboard_time": 1721025439,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127273,
+        "num": 127273,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721010378,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126009,
+        "num": 126009,
+        "word": "抓娃娃开分7.5",
+        "onboard_time": 1721022318,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124678,
+        "num": 124678,
+        "word": "原来教师编面试是一场沉浸式表演",
+        "onboard_time": 1721010378,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119432,
+        "num": 119432,
+        "word": "警方通报夜市群殴事件",
+        "onboard_time": 1721025139,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112937,
+        "num": 112937,
+        "word": "高校最走心的录取通知书",
+        "onboard_time": 1721022739,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111609,
+        "num": 111609,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111597,
+        "num": 111597,
+        "word": "梅西亚马尔同一天夺冠",
+        "onboard_time": 1721021898,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111224,
+        "num": 111224,
+        "word": "抓娃娃 中式教育",
+        "onboard_time": 1721018241,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110892,
+        "num": 110892,
+        "word": "肖战法国第四章vlog",
+        "onboard_time": 1721021238,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108390,
+        "num": 108390,
+        "word": "二十届三中全会议程",
+        "onboard_time": 1721016560,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会开始举行#"
+    }
+  }
+}
