@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721032703751,
+  "endTime": 1721035333779,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1124149,
-      "num": 308289,
+      "num": 344825,
       "word": "小孩撞倒报价10万自行车",
       "onboard_time": 1721027779,
       "rank": 36,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050972,
+      "num": 1050972,
+      "word": "Henry说漏嘴了",
+      "onboard_time": 1721028798,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1048284,
       "num": 259781,
       "word": "李闽轩 中戏录取",
       "onboard_time": 1720969460,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1027635,
+      "num": 342542,
+      "word": "视觉中国回应特朗普照片版权",
+      "onboard_time": 1721030298,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 978639,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 920598,
-      "num": 920598,
-      "word": "Henry说漏嘴了",
-      "onboard_time": 1721028798,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 907631,
       "num": 495255,
       "word": "枪击特朗普枪手行凶衣着引关注",
@@ -227,12 +235,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 806741,
-      "num": 234510,
-      "word": "视觉中国回应特朗普照片版权",
-      "onboard_time": 1721030298,
-      "rank": 21,
-      "category": "国外时政"
+      "raw_hot": 833901,
+      "num": 833901,
+      "word": "瓶装水为什么越来越便宜",
+      "onboard_time": 1721030359,
+      "rank": 18,
+      "category": "财经,科学科普"
     },
     {
       "raw_hot": 781508,
@@ -241,6 +249,14 @@
       "onboard_time": 1721012237,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 778127,
+      "num": 345172,
+      "word": "女生吐槽因穿和服木屐被漫展拒之门外",
+      "onboard_time": 1721029700,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773337,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 671554,
-      "num": 291060,
+      "num": 344535,
       "word": "四川电子税务局",
       "onboard_time": 1721029819,
       "rank": 12,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 589968,
-      "num": 233597,
+      "num": 332967,
       "word": "三伏天减肥瘦的太快了",
       "onboard_time": 1721026458,
       "rank": 23,
@@ -361,14 +377,6 @@
       "onboard_time": 1720945401,
       "rank": 11,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 561093,
-      "num": 284465,
-      "word": "女生吐槽因穿和服木屐被漫展拒之门外",
-      "onboard_time": 1721029700,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 551474,
@@ -403,8 +411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538053,
+      "num": 538053,
+      "word": "抓娃娃讽刺意味",
+      "onboard_time": 1721032878,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 537320,
-      "num": 232058,
+      "num": 341898,
       "word": "肖战没有丑特效也能制造丑特效",
       "onboard_time": 1721030177,
       "rank": 25,
@@ -707,12 +723,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 318318,
-      "num": 318318,
-      "word": "瓶装水为什么越来越便宜",
-      "onboard_time": 1721030359,
-      "rank": 18,
-      "category": "财经,科学科普"
+      "raw_hot": 308561,
+      "num": 343432,
+      "word": "特朗普受访谈及遇袭细节",
+      "onboard_time": 1721032759,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 305843,
@@ -737,6 +753,14 @@
       "onboard_time": 1721010858,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288835,
+      "num": 288835,
+      "word": "长期喝茶的人最后都咋样了",
+      "onboard_time": 1721030658,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288327,
@@ -843,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257662,
+      "num": 257662,
+      "word": "涂山璟求婚小夭",
+      "onboard_time": 1721034619,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256387,
       "num": 256387,
       "word": "吴谨言王星越时尚芭莎cp视频",
@@ -947,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233666,
-      "num": 226742,
-      "word": "长期喝茶的人最后都咋样了",
-      "onboard_time": 1721030658,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231074,
       "num": 214678,
       "word": "泫雅最新状态",
@@ -969,6 +993,14 @@
       "onboard_time": 1721004739,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223786,
+      "num": 223786,
+      "word": "王一博暗爽",
+      "onboard_time": 1721032218,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 222834,
@@ -1067,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205383,
-      "num": 205383,
-      "word": "王一博暗爽",
-      "onboard_time": 1721032218,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205241,
       "num": 205241,
       "word": "不到10块钱的降温冰圈靠什么降温",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1721014159,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 200372,
+      "num": 200372,
+      "word": "突然发现很久没看喜羊羊了",
+      "onboard_time": 1721034497,
+      "rank": 34,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 199424,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188382,
+      "num": 188382,
+      "word": "檀健次怼脸镜头",
+      "onboard_time": 1721034139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187623,
       "num": 187623,
       "word": "我们的歌city不city阵容官宣",
@@ -1363,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172162,
+      "num": 172162,
+      "word": "巴黎奥运会羽毛球男双抽签",
+      "onboard_time": 1721034197,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171087,
       "num": 171087,
       "word": "西班牙",
@@ -1443,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166629,
+      "num": 166629,
+      "word": "当小孩哥喝到糯香柠檬茶",
+      "onboard_time": 1721031438,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166476,
       "num": 166476,
       "word": "阿尔卡拉斯夺大满贯第四冠",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1721032039,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164574,
+      "num": 164574,
+      "word": "长相思2什么都嗑就不会难过",
+      "onboard_time": 1721034559,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 163721,
@@ -1515,6 +1579,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 156176,
+      "num": 156176,
+      "word": "给丽丽",
+      "onboard_time": 1721034798,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155527,
       "num": 155527,
       "word": "徐志胜李雪琴和艺人互动reaction",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1721007016,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "不要轻易和朱一龙去海边",
+      "onboard_time": 1721034798,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 154534,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1720999215,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147674,
+      "num": 147674,
+      "word": "Uzi应该入选名人堂",
+      "onboard_time": 1721033657,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 147472,
@@ -1763,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119910,
+      "num": 119910,
+      "word": "爆米花大爷们",
+      "onboard_time": 1721033719,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119586,
       "num": 119586,
       "word": "程潇直播",
@@ -1865,14 +1961,6 @@
       "onboard_time": 1720957819,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110353,
-      "num": 110353,
-      "word": "当小孩哥喝到糯香柠檬茶",
-      "onboard_time": 1721031438,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 109646,
@@ -2027,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85279,
+      "num": 344186,
+      "word": "长沙是网红餐饮最后的退路",
+      "onboard_time": 1721034018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84481,
       "num": 84481,
       "word": "梅西首发出战美洲杯决赛",
@@ -2068,7 +2164,7 @@
     },
     {
       "raw_hot": 79568,
-      "num": 181208,
+      "num": 345792,
       "word": "陕师大手写录取通知书如约而至",
       "onboard_time": 1721031618,
       "rank": 35,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1720995011,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68898,
+      "num": 879010,
+      "word": "中国产品这么能打是干出来闯出来的",
+      "onboard_time": 1721033719,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68716,
@@ -2235,6 +2339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53107,
+      "num": 345965,
+      "word": "上半年中国GDP同比增长5.0%",
+      "onboard_time": 1721034018,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51067,
+      "num": 201029,
+      "word": "美国100多万人陷入停电危机",
+      "onboard_time": 1721034677,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49971,
       "num": 49971,
       "word": "卡瓦哈尔哭脸嘲讽",
@@ -2252,7 +2372,7 @@
     },
     {
       "raw_hot": 48223,
-      "num": 273722,
+      "num": 344029,
       "word": "当代职场人开始用AI提效了吗",
       "onboard_time": 1721030778,
       "rank": 19,
@@ -2267,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45879,
+      "num": 413273,
+      "word": "文化中国行游览好city的中国",
+      "onboard_time": 1721030419,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44861,
       "num": 469739,
       "word": "钱塘江双色交叉潮",
@@ -2275,12 +2403,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 42441,
-      "num": 413273,
-      "word": "文化中国行游览好city的中国",
-      "onboard_time": 1721030419,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 43285,
+      "num": 342925,
+      "word": "王一博担任巴黎奥运火炬手",
+      "onboard_time": 1721034439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41214,
@@ -2469,6 +2597,9 @@
     },
     {
       "word": "#二十届三中全会开始举行#"
+    },
+    {
+      "word": "#二十届三中全会议程#"
     }
   ]
 }
