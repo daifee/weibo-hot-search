@@ -1,0 +1,410 @@
+{
+  "runTime": 1721086495418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 441657,
+        "num": 865734,
+        "word": "迪丽热巴不喝冰川水的原因",
+        "onboard_time": 1721049740,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338738,
+        "num": 338738,
+        "word": "旅行有一种没苦硬吃的感觉",
+        "onboard_time": 1721069772,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17370,
+        "num": 308330,
+        "word": "全面深化改革的实践续篇",
+        "onboard_time": 1721048837,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291129,
+        "num": 291129,
+        "word": "北京一幼儿园突遇搬迁遭家长集体反对",
+        "onboard_time": 1721052380,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275611,
+        "num": 275611,
+        "word": "巴黎奥运会倒计时10天",
+        "onboard_time": 1721084954,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211209,
+        "num": 211209,
+        "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
+        "onboard_time": 1721048899,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163149,
+        "num": 163149,
+        "word": "秦彻壁纸",
+        "onboard_time": 1721085555,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148381,
+        "num": 148381,
+        "word": "被秦彻钓成翘嘴了",
+        "onboard_time": 1721085976,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21289,
+        "num": 145394,
+        "word": "上半年中国GDP同比增长5.0%",
+        "onboard_time": 1721034018,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22600,
+        "num": 142693,
+        "word": "萌兰单脚荡秋千主打一个松弛感",
+        "onboard_time": 1721084655,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410587,
+        "num": 141599,
+        "word": "浙江36岁男子洗牙查出白血病",
+        "onboard_time": 1721084594,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381321,
+        "num": 137428,
+        "word": "劳斯莱斯传奇设计师被刺身亡",
+        "onboard_time": 1721053699,
+        "rank": 11,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 378807,
+        "num": 133139,
+        "word": "特朗普对拜登来电表示感谢",
+        "onboard_time": 1721085076,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131932,
+        "num": 131932,
+        "word": "本届欧洲杯到底有多难看",
+        "onboard_time": 1721054000,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298126,
+        "num": 131081,
+        "word": "日本17岁女孩误拍他人惨遭杀害",
+        "onboard_time": 1721042777,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125288,
+        "num": 125288,
+        "word": "爱奇艺回应基础会员不能跳片头广告",
+        "onboard_time": 1721036598,
+        "rank": 15,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 113402,
+        "num": 113402,
+        "word": "霸王茶姬就员工离职被公示致歉",
+        "onboard_time": 1721050638,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83281,
+        "num": 83281,
+        "word": "小夭给玱玹砸了一辈子",
+        "onboard_time": 1721046497,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82049,
+        "num": 82049,
+        "word": "3名中国火炬手巴黎传递奥运火炬",
+        "onboard_time": 1721048178,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78138,
+        "num": 78138,
+        "word": "孟子义原名孟子乂",
+        "onboard_time": 1721046677,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509133,
+        "num": 77759,
+        "word": "不建议穿短裤去电影院的原因",
+        "onboard_time": 1721086034,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284844,
+        "num": 76959,
+        "word": "长期烧水喝和买桶装水喝哪个更健康",
+        "onboard_time": 1721053340,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 76627,
+        "word": "失眠为什么建议把脚露外面",
+        "onboard_time": 1721061676,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109835,
+        "num": 75806,
+        "word": "瘦子同事带的饭一天比一天离谱",
+        "onboard_time": 1721086155,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108347,
+        "num": 74866,
+        "word": "在德国电视台看到中国有多骄傲",
+        "onboard_time": 1721082912,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84306,
+        "num": 74174,
+        "word": "猫咪真是肉眼可见的思念主人",
+        "onboard_time": 1721085194,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73852,
+        "num": 73852,
+        "word": "拍出了赵今麦竹的气质",
+        "onboard_time": 1721052919,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73799,
+        "num": 73799,
+        "word": "孟子义的腿到底多滑溜",
+        "onboard_time": 1721086095,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73438,
+        "num": 73438,
+        "word": "婆婆理解的皮蛋瘦肉粥",
+        "onboard_time": 1721080570,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71006,
+        "num": 71006,
+        "word": "惠州4人潜水失联背后",
+        "onboard_time": 1721077030,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224161,
+        "num": 70849,
+        "word": "女子机票降3000元起飞前买低退高",
+        "onboard_time": 1721085374,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150005,
+        "num": 70847,
+        "word": "专家回应网传天青牛蟒再现凉山",
+        "onboard_time": 1721085374,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70411,
+        "num": 70411,
+        "word": "邓为涂山璟人夫感",
+        "onboard_time": 1721051598,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67800,
+        "num": 67800,
+        "word": "吴谨言王星越叼玫瑰花片段被删",
+        "onboard_time": 1721049139,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66462,
+        "num": 66462,
+        "word": "三伏天谨记三忌三宜",
+        "onboard_time": 1721037677,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64519,
+        "num": 64519,
+        "word": "韩国开始宣传成语了吗",
+        "onboard_time": 1721086155,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64186,
+        "num": 64186,
+        "word": "百岁奶奶为浇菜把粪桶放孙子屋",
+        "onboard_time": 1721052380,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64058,
+        "num": 64058,
+        "word": "品牌方发的迪丽热巴",
+        "onboard_time": 1721086095,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62289,
+        "num": 62289,
+        "word": "原来一个人就可以四世同堂了",
+        "onboard_time": 1721066172,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59110,
+        "num": 59110,
+        "word": "余承东称优秀的人最大不同是自控力",
+        "onboard_time": 1721084414,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58370,
+        "num": 58370,
+        "word": "相柳九命九脸",
+        "onboard_time": 1721050820,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57243,
+        "num": 57243,
+        "word": "网传花儿与少年6名单",
+        "onboard_time": 1721069291,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55726,
+        "num": 55726,
+        "word": "九尾缺席沙特大名单",
+        "onboard_time": 1721044098,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54531,
+        "num": 54531,
+        "word": "最讨厌的小说女主名字",
+        "onboard_time": 1721050761,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53655,
+        "num": 53655,
+        "word": "周雨彤 花少",
+        "onboard_time": 1721047397,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53089,
+        "num": 53089,
+        "word": "一家三口心眼子不齐是什么体验",
+        "onboard_time": 1721055019,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46567,
+        "num": 46567,
+        "word": "秦彻 喵喵牌",
+        "onboard_time": 1721045657,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45209,
+        "num": 45209,
+        "word": "韩寒谈电影抓娃娃",
+        "onboard_time": 1721056279,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43897,
+        "num": 43897,
+        "word": "当你的手办被妈妈碰过",
+        "onboard_time": 1721051478,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43858,
+        "num": 43858,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会#"
+    }
+  }
+}
