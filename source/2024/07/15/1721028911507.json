@@ -1,0 +1,410 @@
+{
+  "runTime": 1721028911507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721074,
+        "num": 1721074,
+        "word": "霸王茶姬被曝正在业内大量挖人",
+        "onboard_time": 1721023878,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795560,
+        "num": 795560,
+        "word": "阿根廷夺冠",
+        "onboard_time": 1721016859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76668,
+        "num": 690552,
+        "word": "今年上半年GDP同比增长5%",
+        "onboard_time": 1721009839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586033,
+        "num": 586033,
+        "word": "中国移动还在偷偷收来电显示费",
+        "onboard_time": 1721022439,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533989,
+        "num": 533989,
+        "word": "羽毛球场1小时160元仍订不到",
+        "onboard_time": 1721026397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58166,
+        "num": 438198,
+        "word": "脑电信号读心术要成真了",
+        "onboard_time": 1721026818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415305,
+        "num": 415305,
+        "word": "刘宇宁有个事儿通报一下",
+        "onboard_time": 1721025739,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353489,
+        "num": 353489,
+        "word": "1400元的洗衣机因无法安装被仅退款",
+        "onboard_time": 1721013978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306181,
+        "num": 306181,
+        "word": "三伏天已连续10年都是40天",
+        "onboard_time": 1721015119,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49938,
+        "num": 299493,
+        "word": "小伙掩护战友撤离受伤立一等功",
+        "onboard_time": 1721028078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1435155,
+        "num": 298833,
+        "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+        "onboard_time": 1721022016,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518963,
+        "num": 298817,
+        "word": "小孩撞倒报价10万自行车",
+        "onboard_time": 1721027779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298033,
+        "num": 298033,
+        "word": "爸爸第一次抱孩子偷感好重",
+        "onboard_time": 1721022559,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 263381,
+        "num": 263381,
+        "word": "杨迪猜中TFBOYS宠爱",
+        "onboard_time": 1721024478,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86104,
+        "num": 263005,
+        "word": "支付宝是欧洲杯最大赢家",
+        "onboard_time": 1721026878,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "芭莎婚庆 名不虚传",
+        "onboard_time": 1721027479,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254528,
+        "num": 254528,
+        "word": "王一博刚准备啃指甲就被喊得忍住了",
+        "onboard_time": 1721019920,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 244455,
+        "num": 244455,
+        "word": "唐朝诡事录直播",
+        "onboard_time": 1721027539,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241400,
+        "num": 241400,
+        "word": "骂着骂着成王靖雯铁粉了",
+        "onboard_time": 1721023759,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223082,
+        "num": 223082,
+        "word": "10岁小女孩竟晒出老年斑",
+        "onboard_time": 1721028019,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862030,
+        "num": 222410,
+        "word": "徐艺洋在SM时期的旧照",
+        "onboard_time": 1721016980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589968,
+        "num": 218661,
+        "word": "三伏天减肥瘦的太快了",
+        "onboard_time": 1721026458,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 527198,
+        "num": 217287,
+        "word": "李荣浩杨丞琳牵手庆生",
+        "onboard_time": 1721025798,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537456,
+        "num": 215500,
+        "word": "女子称从霸王茶姬离职后被公示",
+        "onboard_time": 1721019920,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434642,
+        "num": 212367,
+        "word": "特朗普遇袭照登上时代杂志封面",
+        "onboard_time": 1721009718,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 405129,
+        "num": 209664,
+        "word": "三伏天牢记2不洗2不睡",
+        "onboard_time": 1721022198,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244580,
+        "num": 207010,
+        "word": "原来脂肪是靠呼吸排出的",
+        "onboard_time": 1721021599,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231074,
+        "num": 204649,
+        "word": "泫雅最新状态",
+        "onboard_time": 1721028798,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204599,
+        "num": 204599,
+        "word": "夭玹决裂名场面",
+        "onboard_time": 1721020519,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201623,
+        "num": 201623,
+        "word": "三伏天为什么是减肥黄金期",
+        "onboard_time": 1721027059,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191482,
+        "num": 191482,
+        "word": "特朗普下飞机时又挥舞了拳头",
+        "onboard_time": 1721015058,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191387,
+        "num": 191387,
+        "word": "檀健次戴比尔斯活动路透",
+        "onboard_time": 1721027598,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184662,
+        "num": 184662,
+        "word": "三火道歉",
+        "onboard_time": 1721020938,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180462,
+        "num": 180462,
+        "word": "梅西笑了",
+        "onboard_time": 1721018000,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174691,
+        "num": 174691,
+        "word": "陈奕迅下巴受伤后首露面",
+        "onboard_time": 1721026637,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170503,
+        "num": 170503,
+        "word": "中国女子在泰国遭肢解案排除勒索动机",
+        "onboard_time": 1721019860,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162680,
+        "num": 162680,
+        "word": "许凯给韩廷儿子起名",
+        "onboard_time": 1721025439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136295,
+        "num": 136295,
+        "word": "国乒出征前特意剪了新发型",
+        "onboard_time": 1721026939,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132812,
+        "num": 132812,
+        "word": "王一博真成黑皮体育生了",
+        "onboard_time": 1721012237,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 125414,
+        "num": 125414,
+        "word": "吴谨言王星越芭莎双人专刊",
+        "onboard_time": 1721016859,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123900,
+        "num": 123900,
+        "word": "秦彻剧情",
+        "onboard_time": 1721024178,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120258,
+        "num": 120258,
+        "word": "警方通报夜市群殴事件",
+        "onboard_time": 1721025139,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116191,
+        "num": 116191,
+        "word": "韩国人权委将调查边佑锡",
+        "onboard_time": 1721028618,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109853,
+        "num": 109853,
+        "word": "Henry说漏嘴了",
+        "onboard_time": 1721028798,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109646,
+        "num": 109646,
+        "word": "毛不易刘宇宁红白OST合体",
+        "onboard_time": 1721028560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109213,
+        "num": 109213,
+        "word": "王一博在法国人气爆棚",
+        "onboard_time": 1721025198,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 107435,
+        "num": 107435,
+        "word": "二十届三中全会知识点",
+        "onboard_time": 1721011517,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105951,
+        "num": 105951,
+        "word": "菲常萧张 随个份子",
+        "onboard_time": 1721027238,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103815,
+        "num": 103815,
+        "word": "野生大熊猫自己在竹林吃了一整晚",
+        "onboard_time": 1721012778,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102080,
+        "num": 102080,
+        "word": "奥运五环与埃菲尔铁塔同框",
+        "onboard_time": 1721028200,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会开始举行#"
+    }
+  }
+}

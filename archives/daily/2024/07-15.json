@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721027929258,
+  "endTime": 1721028911507,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589968,
+      "num": 218661,
+      "word": "三伏天减肥瘦的太快了",
+      "onboard_time": 1721026458,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 585795,
       "num": 585795,
       "word": "抓娃娃",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 551411,
-      "num": 208290,
+      "num": 217287,
       "word": "李荣浩杨丞琳牵手庆生",
       "onboard_time": 1721025798,
       "rank": 21,
@@ -347,12 +355,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 533989,
+      "num": 533989,
+      "word": "羽毛球场1小时160元仍订不到",
+      "onboard_time": 1721026397,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522422,
       "num": 349613,
       "word": "皮肤有这7个变化提示血糖超标了",
       "onboard_time": 1721005279,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 518963,
+      "num": 298817,
+      "word": "小孩撞倒报价10万自行车",
+      "onboard_time": 1721027779,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514093,
@@ -395,28 +419,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 475899,
-      "num": 475899,
-      "word": "羽毛球场1小时160元仍订不到",
-      "onboard_time": 1721026397,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471057,
       "num": 471057,
       "word": "王一博登上法国新闻",
       "onboard_time": 1721006480,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450103,
-      "num": 207888,
-      "word": "三伏天减肥瘦的太快了",
-      "onboard_time": 1721026458,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 449532,
@@ -739,6 +747,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263381,
+      "num": 263381,
+      "word": "杨迪猜中TFBOYS宠爱",
+      "onboard_time": 1721024478,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262737,
+      "num": 262737,
+      "word": "芭莎婚庆 名不虚传",
+      "onboard_time": 1721027479,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 256387,
       "num": 256387,
       "word": "吴谨言王星越时尚芭莎cp视频",
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244455,
+      "num": 244455,
+      "word": "唐朝诡事录直播",
+      "onboard_time": 1721027539,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243848,
       "num": 243848,
       "word": "防风意映这一刻好漂亮",
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241400,
+      "num": 241400,
+      "word": "骂着骂着成王靖雯铁粉了",
+      "onboard_time": 1721023759,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240811,
       "num": 240811,
       "word": "恋与深空秦彻",
@@ -827,12 +867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231074,
+      "num": 204649,
+      "word": "泫雅最新状态",
+      "onboard_time": 1721028798,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223877,
       "num": 223877,
       "word": "种地吧",
       "onboard_time": 1721004739,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223082,
+      "num": 223082,
+      "word": "10岁小女孩竟晒出老年斑",
+      "onboard_time": 1721028019,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222834,
@@ -849,22 +905,6 @@
       "onboard_time": 1721021118,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221894,
-      "num": 221894,
-      "word": "杨迪猜中TFBOYS宠爱",
-      "onboard_time": 1721024478,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221440,
-      "num": 221440,
-      "word": "骂着骂着成王靖雯铁粉了",
-      "onboard_time": 1721023759,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 219571,
@@ -979,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201623,
+      "num": 201623,
+      "word": "三伏天为什么是减肥黄金期",
+      "onboard_time": 1721027059,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "特朗普遇刺案遇难者系消防员",
@@ -1075,28 +1123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192271,
-      "num": 192271,
-      "word": "三伏天为什么是减肥黄金期",
-      "onboard_time": 1721027059,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191808,
-      "num": 191808,
-      "word": "唐朝诡事录直播",
-      "onboard_time": 1721027539,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191655,
       "num": 191655,
       "word": "虞书欣温婉国风",
       "onboard_time": 1721021238,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191387,
+      "num": 191387,
+      "word": "檀健次戴比尔斯活动路透",
+      "onboard_time": 1721027598,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 191347,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1721022079,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187151,
-      "num": 187151,
-      "word": "檀健次戴比尔斯活动路透",
-      "onboard_time": 1721027598,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 186429,
@@ -1331,14 +1363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158791,
-      "num": 158791,
-      "word": "芭莎婚庆 名不虚传",
-      "onboard_time": 1721027479,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 158474,
       "num": 158474,
       "word": "阿尔卡拉斯温网两连冠",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1721001318,
       "rank": 42,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 155862,
-      "num": 155862,
-      "word": "小孩撞倒报价10万自行车",
-      "onboard_time": 1721027779,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154790,
@@ -1651,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116191,
+      "num": 116191,
+      "word": "韩国人权委将调查边佑锡",
+      "onboard_time": 1721028618,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116139,
       "num": 116139,
       "word": "迪丽热巴夏天绿西装",
@@ -1699,6 +1723,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109853,
+      "num": 109853,
+      "word": "Henry说漏嘴了",
+      "onboard_time": 1721028798,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109646,
+      "num": 109646,
+      "word": "毛不易刘宇宁红白OST合体",
+      "onboard_time": 1721028560,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108357,
       "num": 108357,
       "word": "南门的命不如凯恩的硬",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1720974076,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 102080,
+      "num": 102080,
+      "word": "奥运五环与埃菲尔铁塔同框",
+      "onboard_time": 1721028200,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101101,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1720960701,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86104,
+      "num": 263005,
+      "word": "支付宝是欧洲杯最大赢家",
+      "onboard_time": 1721026878,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 85980,
@@ -1995,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58166,
+      "num": 438198,
+      "word": "脑电信号读心术要成真了",
+      "onboard_time": 1721026818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58146,
       "num": 58194,
       "word": "威廉王子观战欧洲杯决赛",
@@ -2011,20 +2075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52563,
-      "num": 231213,
-      "word": "支付宝是欧洲杯最大赢家",
-      "onboard_time": 1721026878,
-      "rank": 14,
-      "category": "体育,互联网"
-    },
-    {
       "raw_hot": 49971,
       "num": 49971,
       "word": "卡瓦哈尔哭脸嘲讽",
       "onboard_time": 1720986431,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49938,
+      "num": 299493,
+      "word": "小伙掩护战友撤离受伤立一等功",
+      "onboard_time": 1721028078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46470,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1720984392,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36043,
-      "num": 288128,
-      "word": "脑电信号读心术要成真了",
-      "onboard_time": 1721026818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33573,
