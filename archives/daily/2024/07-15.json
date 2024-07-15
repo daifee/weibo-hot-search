@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721053035914,
+  "endTime": 1721054134990,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -33,6 +33,14 @@
       "onboard_time": 1720990992,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1771187,
+      "num": 1771187,
+      "word": "迪丽热巴不喝冰川水的原因",
+      "onboard_time": 1721049740,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 1765931,
@@ -89,14 +97,6 @@
       "onboard_time": 1721016378,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1530391,
-      "num": 1530391,
-      "word": "迪丽热巴不喝冰川水的原因",
-      "onboard_time": 1721049740,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 1463137,
@@ -179,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1035890,
+      "num": 460007,
+      "word": "郑爽张恒公司连续3年经营异常",
+      "onboard_time": 1721050039,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1027635,
       "num": 343108,
       "word": "视觉中国回应特朗普照片版权",
       "onboard_time": 1721030298,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1016923,
-      "num": 460007,
-      "word": "郑爽张恒公司连续3年经营异常",
-      "onboard_time": 1721050039,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 978639,
@@ -403,6 +403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 640252,
+      "num": 282243,
+      "word": "北京一幼儿园突遇搬迁遭家长集体反对",
+      "onboard_time": 1721052380,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625307,
       "num": 625307,
       "word": "欧洲杯决赛",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457937,
+      "num": 457937,
+      "word": "霸王茶姬就员工离职被公示致歉",
+      "onboard_time": 1721050638,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449532,
       "num": 449532,
       "word": "刘宇宁有个事儿通报一下",
@@ -707,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 407244,
+      "num": 207665,
+      "word": "最讨厌的小说女主名字",
+      "onboard_time": 1721050761,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406894,
       "num": 406894,
       "word": "九尾Cat清清梦之队交流大使",
@@ -721,14 +745,6 @@
       "onboard_time": 1721002998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 393999,
-      "num": 393999,
-      "word": "霸王茶姬就员工离职被公示致歉",
-      "onboard_time": 1721050638,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388703,
@@ -979,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301990,
+      "num": 301990,
+      "word": "吴谨言王星越叼玫瑰花片段被删",
+      "onboard_time": 1721049139,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296790,
       "num": 296790,
       "word": "英雄联盟",
@@ -987,20 +1011,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293518,
+      "num": 295043,
+      "word": "刘国梁介绍国乒奥运会三个阶段",
+      "onboard_time": 1721049859,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291626,
       "num": 291626,
       "word": "鹭卓巡演官宣",
       "onboard_time": 1721046559,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 290697,
-      "num": 202100,
-      "word": "最讨厌的小说女主名字",
-      "onboard_time": 1721050761,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 288327,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1720991171,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279861,
+      "num": 206271,
+      "word": "长期烧水喝和买桶装水喝哪个更健康",
+      "onboard_time": 1721053340,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278016,
@@ -1171,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250163,
+      "num": 206106,
+      "word": "这么多年水果都洗错了",
+      "onboard_time": 1721048778,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 249823,
       "num": 1496985,
       "word": "二十届三中全会知识点",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1721027539,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244102,
-      "num": 199805,
-      "word": "这么多年水果都洗错了",
-      "onboard_time": 1721048778,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 243848,
@@ -1267,12 +1299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240148,
-      "num": 295043,
-      "word": "刘国梁介绍国乒奥运会三个阶段",
-      "onboard_time": 1721049859,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 239219,
+      "num": 239219,
+      "word": "劳斯莱斯传奇设计师被刺身亡",
+      "onboard_time": 1721053699,
+      "rank": 17,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 235956,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1720969520,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233309,
-      "num": 233309,
-      "word": "北京一幼儿园突遇搬迁遭家长集体反对",
-      "onboard_time": 1721052380,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231074,
@@ -1323,11 +1347,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223956,
-      "num": 208314,
-      "word": "吴谨言王星越叼玫瑰花片段被删",
-      "onboard_time": 1721049139,
-      "rank": 29,
+      "raw_hot": 224652,
+      "num": 205729,
+      "word": "拍出了赵今麦竹的气质",
+      "onboard_time": 1721052919,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -1345,6 +1369,14 @@
       "onboard_time": 1721032218,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223160,
+      "num": 223160,
+      "word": "国家助学贷款在校期间本息都不用还",
+      "onboard_time": 1721052799,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 222834,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1721051598,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207696,
+      "num": 207696,
+      "word": "王子奇王星越给沈月整无语了",
+      "onboard_time": 1721052439,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 207495,
@@ -1659,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197397,
+      "num": 197397,
+      "word": "百岁奶奶为浇菜把粪桶放孙子屋",
+      "onboard_time": 1721052380,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193874,
       "num": 193874,
       "word": "亚马尔和女友庆祝夺冠",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1721034139,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187806,
-      "num": 173613,
-      "word": "王子奇王星越给沈月整无语了",
-      "onboard_time": 1721052439,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 187623,
@@ -2011,14 +2051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164315,
-      "num": 164315,
-      "word": "百岁奶奶为浇菜把粪桶放孙子屋",
-      "onboard_time": 1721052380,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163721,
       "num": 163721,
       "word": "阿根廷大赛三连冠",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1721017040,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 157821,
+      "num": 157821,
+      "word": "当你的手办被妈妈碰过",
+      "onboard_time": 1721051478,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 157715,
@@ -2227,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145604,
-      "num": 145604,
-      "word": "当你的手办被妈妈碰过",
-      "onboard_time": 1721051478,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145389,
       "num": 145389,
       "word": "杨和苏说活死人要团结",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1721020698,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143677,
+      "num": 143677,
+      "word": "周雨彤正在恶补英语中",
+      "onboard_time": 1721053818,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143250,
@@ -2363,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133729,
+      "num": 133729,
+      "word": "BLG战胜LGD",
+      "onboard_time": 1721054059,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133590,
       "num": 133590,
       "word": "山东吃货凌晨两点排队抢喝头锅糁",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1721002038,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128417,
+      "num": 128417,
+      "word": "汪东城 美猴王",
+      "onboard_time": 1721053279,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128348,
@@ -2592,22 +2648,6 @@
       "word": "迪丽热巴夏天绿西装",
       "onboard_time": 1720961419,
       "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115922,
-      "num": 115922,
-      "word": "国家助学贷款在校期间本息都不用还",
-      "onboard_time": 1721052799,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 115594,
-      "num": 115594,
-      "word": "拍出了赵今麦竹的气质",
-      "onboard_time": 1721052919,
-      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -2905,6 +2945,14 @@
       "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80069,
+      "num": 207138,
+      "word": "全新极氪009日行600km奔香港",
+      "onboard_time": 1721053279,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 79594,
@@ -3236,7 +3284,7 @@
     },
     {
       "raw_hot": 35724,
-      "num": 484612,
+      "num": 545392,
       "word": "奋进中国",
       "onboard_time": 1721049798,
       "rank": 2,
@@ -3377,6 +3425,14 @@
       "onboard_time": 1721004798,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11799,
+      "num": 264214,
+      "word": "本届欧洲杯到底有多难看",
+      "onboard_time": 1721054000,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 7011,
