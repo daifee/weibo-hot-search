@@ -1,6 +1,6 @@
 {
   "startTime": 1720974927768,
-  "endTime": 1721021752851,
+  "endTime": 1721024980658,
   "band_list": [
     {
       "raw_hot": 9637368,
@@ -19,12 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1973465,
+      "num": 356138,
+      "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+      "onboard_time": 1721022016,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1829043,
       "num": 1829043,
       "word": "西班牙夺得欧洲杯冠军",
       "onboard_time": 1720990992,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1765931,
+      "num": 1162105,
+      "word": "女子称从霸王茶姬离职后被公示",
+      "onboard_time": 1721019920,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1675079,
@@ -81,14 +97,6 @@
       "onboard_time": 1721006598,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1162105,
-      "num": 1162105,
-      "word": "女子称从霸王茶姬离职后被公示",
-      "onboard_time": 1721019920,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1101363,
@@ -153,6 +161,14 @@
       "onboard_time": 1721010378,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 921185,
+      "num": 280028,
+      "word": "中国移动还在偷偷收来电显示费",
+      "onboard_time": 1721022439,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907631,
@@ -283,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 583521,
+      "num": 583521,
+      "word": "霸王茶姬被曝正在业内大量挖人",
+      "onboard_time": 1721023878,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570399,
       "num": 570399,
       "word": "哑舍杀青",
@@ -355,10 +379,26 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 482705,
+      "num": 235238,
+      "word": "三伏天牢记2不洗2不睡",
+      "onboard_time": 1721022198,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 471057,
       "num": 471057,
       "word": "王一博登上法国新闻",
       "onboard_time": 1721006480,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446967,
+      "num": 276316,
+      "word": "三火道歉",
+      "onboard_time": 1721020938,
       "rank": 24,
       "category": "艺人"
     },
@@ -435,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374569,
+      "num": 322072,
+      "word": "中国女子在泰国遭肢解案排除勒索动机",
+      "onboard_time": 1721019860,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366454,
       "num": 366454,
       "word": "可疑的是案件可怕的是人性",
@@ -457,6 +505,14 @@
       "onboard_time": 1721008997,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 348806,
+      "num": 348806,
+      "word": "三伏天已连续10年都是40天",
+      "onboard_time": 1721015119,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347195,
@@ -507,6 +563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 331141,
+      "num": 263859,
+      "word": "爸爸第一次抱孩子偷感好重",
+      "onboard_time": 1721022559,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 325879,
       "num": 228722,
       "word": "巴黎街头偶遇王一博散步",
@@ -523,20 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322072,
-      "num": 322072,
-      "word": "中国女子在泰国遭肢解案排除勒索动机",
-      "onboard_time": 1721019860,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320939,
       "num": 320939,
       "word": "党的二十届三中全会开幕",
       "onboard_time": 1720999274,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 312587,
+      "num": 206676,
+      "word": "原来脂肪是靠呼吸排出的",
+      "onboard_time": 1721021599,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302450,
@@ -587,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282812,
+      "num": 282812,
+      "word": "尼格买提 我把嘉宾都吃了",
+      "onboard_time": 1721020998,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282103,
       "num": 282103,
       "word": "剑网3",
@@ -625,6 +697,14 @@
       "onboard_time": 1721005579,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262536,
+      "num": 262536,
+      "word": "秦彻剧情",
+      "onboard_time": 1721024178,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 256387,
@@ -707,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239258,
-      "num": 239258,
-      "word": "三伏天已连续10年都是40天",
-      "onboard_time": 1721015119,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235653,
       "num": 583338,
       "word": "国乒出发奔赴巴黎",
@@ -723,27 +795,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234401,
-      "num": 234401,
-      "word": "三火道歉",
-      "onboard_time": 1721020938,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223877,
       "num": 223877,
       "word": "种地吧",
       "onboard_time": 1721004739,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223054,
-      "num": 223054,
-      "word": "尼格买提 我把嘉宾都吃了",
-      "onboard_time": 1721020998,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -883,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "骂着骂着成王靖雯铁粉了",
+      "onboard_time": 1721023759,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198799,
       "num": 198799,
       "word": "国乒出征",
@@ -971,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187623,
+      "num": 187623,
+      "word": "我们的歌city不city阵容官宣",
+      "onboard_time": 1721022079,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186429,
       "num": 186429,
       "word": "王一博传递奥运圣火",
@@ -995,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182697,
+      "num": 182697,
+      "word": "苏醒张远去哪都不忘记0713",
+      "onboard_time": 1721024238,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182237,
       "num": 182237,
       "word": "异人之下 异人在身边",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1721007978,
       "rank": 49,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "张晚意第一次踏进苗寨",
+      "onboard_time": 1721020458,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176272,
@@ -1115,20 +1203,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164714,
-      "num": 164714,
-      "word": "张晚意第一次踏进苗寨",
-      "onboard_time": 1721020458,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 163721,
       "num": 163721,
       "word": "阿根廷大赛三连冠",
       "onboard_time": 1721018420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "杨迪猜中TFBOYS宠爱",
+      "onboard_time": 1721024478,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 158474,
@@ -1235,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145675,
+      "num": 145675,
+      "word": "接到秦彻电话了",
+      "onboard_time": 1721024359,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145240,
       "num": 145240,
       "word": "薛之谦演唱会嘉宾是李健",
@@ -1291,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135891,
-      "num": 135891,
-      "word": "原来脂肪是靠呼吸排出的",
-      "onboard_time": 1721021599,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 133900,
       "num": 133900,
       "word": "黄景瑜黄明昊黄晓明明明就",
@@ -1347,6 +1435,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127159,
+      "num": 127159,
+      "word": "王一博粉丝没事哒没事哒",
+      "onboard_time": 1721024478,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125763,
+      "num": 125763,
+      "word": "梅西亚马尔同一天夺冠",
+      "onboard_time": 1721021898,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122726,
+      "num": 122726,
+      "word": "铁血利马",
+      "onboard_time": 1721024298,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "美洲杯决赛现场混乱",
@@ -1361,6 +1473,14 @@
       "onboard_time": 1720948161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121251,
+      "num": 120742,
+      "word": "抓娃娃开分7.5",
+      "onboard_time": 1721022318,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 119586,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1720957819,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109326,
+      "num": 121772,
+      "word": "高校最走心的录取通知书",
+      "onboard_time": 1721022739,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 108357,
@@ -1544,6 +1672,14 @@
       "word": "爸爸累睡着1岁女儿蹒跚抱来被子",
       "onboard_time": 1720960701,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85980,
+      "num": 281179,
+      "word": "男孩徒手清下水口城管局长上门表扬",
+      "onboard_time": 1721024599,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1825,6 +1961,14 @@
       "onboard_time": 1720985771,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31167,
+      "num": 270801,
+      "word": "小荷包用户或成欧洲杯大赢家",
+      "onboard_time": 1721023518,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 30976,

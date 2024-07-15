@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721021752851,
+  "endTime": 1721024980658,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1973465,
+      "num": 356138,
+      "word": "父亲举报儿子看淫秽网站牵出犯罪团伙",
+      "onboard_time": 1721022016,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1854556,
       "num": 1854556,
       "word": "奥巴马就特朗普遭枪击发声",
@@ -113,6 +121,14 @@
       "onboard_time": 1720990992,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1765931,
+      "num": 1162105,
+      "word": "女子称从霸王茶姬离职后被公示",
+      "onboard_time": 1721019920,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1675079,
@@ -232,14 +248,6 @@
       "word": "有人工资卡转账额度被降到500元",
       "onboard_time": 1720880780,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1162105,
-      "num": 1162105,
-      "word": "女子称从霸王茶姬离职后被公示",
-      "onboard_time": 1721019920,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -385,6 +393,14 @@
       "onboard_time": 1721010378,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 921185,
+      "num": 280028,
+      "word": "中国移动还在偷偷收来电显示费",
+      "onboard_time": 1721022439,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907631,
@@ -707,6 +723,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 583521,
+      "num": 583521,
+      "word": "霸王茶姬被曝正在业内大量挖人",
+      "onboard_time": 1721023878,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571640,
       "num": 357441,
       "word": "疑在泰被撕票中国女子最后监控画面",
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482705,
+      "num": 235238,
+      "word": "三伏天牢记2不洗2不睡",
+      "onboard_time": 1721022198,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -992,6 +1024,14 @@
       "word": "易烊千玺纪念开博11周年",
       "onboard_time": 1720961358,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446967,
+      "num": 276316,
+      "word": "三火道歉",
+      "onboard_time": 1721020938,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1171,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374569,
+      "num": 322072,
+      "word": "中国女子在泰国遭肢解案排除勒索动机",
+      "onboard_time": 1721019860,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368826,
       "num": 368826,
       "word": "甜馨回应晒黑",
@@ -1259,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 348806,
+      "num": 348806,
+      "word": "三伏天已连续10年都是40天",
+      "onboard_time": 1721015119,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347546,
       "num": 347546,
       "word": "消失的她阴暗的他清澈的我",
@@ -1323,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331141,
+      "num": 263859,
+      "word": "爸爸第一次抱孩子偷感好重",
+      "onboard_time": 1721022559,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 330036,
       "num": 279535,
       "word": "椰子水为何干不过柠檬茶",
@@ -1371,14 +1435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322072,
-      "num": 322072,
-      "word": "中国女子在泰国遭肢解案排除勒索动机",
-      "onboard_time": 1721019860,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321728,
       "num": 321728,
       "word": "枪响后特朗普与安保贴身对话公开",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1720963520,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312587,
+      "num": 206676,
+      "word": "原来脂肪是靠呼吸排出的",
+      "onboard_time": 1721021599,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 310847,
@@ -1563,6 +1627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 282812,
+      "num": 282812,
+      "word": "尼格买提 我把嘉宾都吃了",
+      "onboard_time": 1721020998,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282225,
       "num": 674839,
       "word": "范丞丞说听恶评是成长必经",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1720927881,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 262536,
+      "num": 262536,
+      "word": "秦彻剧情",
+      "onboard_time": 1721024178,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 262345,
@@ -1859,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239258,
-      "num": 239258,
-      "word": "三伏天已连续10年都是40天",
-      "onboard_time": 1721015119,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236830,
       "num": 259984,
       "word": "长沙这么热吗",
@@ -1881,14 +1953,6 @@
       "onboard_time": 1720961000,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234401,
-      "num": 234401,
-      "word": "三火道歉",
-      "onboard_time": 1721020938,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 231876,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1720913114,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 223054,
-      "num": 223054,
-      "word": "尼格买提 我把嘉宾都吃了",
-      "onboard_time": 1721020998,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 222834,
@@ -2267,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198943,
+      "num": 198943,
+      "word": "骂着骂着成王靖雯铁粉了",
+      "onboard_time": 1721023759,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198799,
       "num": 198799,
       "word": "国乒出征",
@@ -2523,6 +2587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187623,
+      "num": 187623,
+      "word": "我们的歌city不city阵容官宣",
+      "onboard_time": 1721022079,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187595,
       "num": 187595,
       "word": "王一博香奈儿采访part",
@@ -2579,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182697,
+      "num": 182697,
+      "word": "苏醒张远去哪都不忘记0713",
+      "onboard_time": 1721024238,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182237,
       "num": 182237,
       "word": "异人之下 异人在身边",
@@ -2609,6 +2689,14 @@
       "onboard_time": 1720915578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "张晚意第一次踏进苗寨",
+      "onboard_time": 1721020458,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179231,
@@ -2835,14 +2923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164714,
-      "num": 164714,
-      "word": "张晚意第一次踏进苗寨",
-      "onboard_time": 1721020458,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 164513,
       "num": 258295,
       "word": "沈腾马丽抓娃娃首映同框",
@@ -2872,6 +2952,14 @@
       "word": "严浩翔最佳男配角",
       "onboard_time": 1720966039,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "杨迪猜中TFBOYS宠爱",
+      "onboard_time": 1721024478,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3147,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145675,
+      "num": 145675,
+      "word": "接到秦彻电话了",
+      "onboard_time": 1721024359,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145026,
       "num": 145026,
       "word": "同事帮我带饭都是素菜收5元",
@@ -3305,14 +3401,6 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135891,
-      "num": 135891,
-      "word": "原来脂肪是靠呼吸排出的",
-      "onboard_time": 1721021599,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135139,
@@ -3483,6 +3571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127159,
+      "num": 127159,
+      "word": "王一博粉丝没事哒没事哒",
+      "onboard_time": 1721024478,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126738,
       "num": 126738,
       "word": "小夭醉酒",
@@ -3513,6 +3609,14 @@
       "onboard_time": 1720943003,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125763,
+      "num": 125763,
+      "word": "梅西亚马尔同一天夺冠",
+      "onboard_time": 1721021898,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 125362,
@@ -3563,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122726,
+      "num": 122726,
+      "word": "铁血利马",
+      "onboard_time": 1721024298,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "美洲杯决赛现场混乱",
@@ -3585,6 +3697,14 @@
       "onboard_time": 1720959380,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121251,
+      "num": 120742,
+      "word": "抓娃娃开分7.5",
+      "onboard_time": 1721022318,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 120577,
@@ -3681,6 +3801,14 @@
       "onboard_time": 1720895293,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109326,
+      "num": 121772,
+      "word": "高校最走心的录取通知书",
+      "onboard_time": 1721022739,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 109126,
@@ -3889,6 +4017,14 @@
       "onboard_time": 1720912392,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85980,
+      "num": 281179,
+      "word": "男孩徒手清下水口城管局长上门表扬",
+      "onboard_time": 1721024599,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85483,
@@ -4449,6 +4585,14 @@
       "onboard_time": 1720985771,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31167,
+      "num": 270801,
+      "word": "小荷包用户或成欧洲杯大赢家",
+      "onboard_time": 1721023518,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 30070,
