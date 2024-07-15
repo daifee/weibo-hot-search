@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721048008905,
+  "endTime": 1721049780412,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1066588,
+      "num": 459830,
+      "word": "日本17岁女孩误拍他人惨遭杀害",
+      "onboard_time": 1721042777,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064752,
       "num": 404183,
       "word": "刚上高铁就碰到公主巨婴了",
@@ -361,14 +369,6 @@
       "onboard_time": 1720940122,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1034326,
-      "num": 459830,
-      "word": "日本17岁女孩误拍他人惨遭杀害",
-      "onboard_time": 1721042777,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1031379,
@@ -489,6 +489,14 @@
       "onboard_time": 1721010378,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 847484,
+      "num": 1135597,
+      "word": "周雨彤 花少",
+      "onboard_time": 1721047397,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 833901,
@@ -745,6 +753,14 @@
       "onboard_time": 1720965081,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 616095,
+      "num": 221491,
+      "word": "猫 没事哒",
+      "onboard_time": 1721046077,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 616079,
@@ -1115,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474598,
+      "num": 449624,
+      "word": "小夭给玱玹砸了一辈子",
+      "onboard_time": 1721046497,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1720961358,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449624,
-      "num": 449624,
-      "word": "小夭给玱玹砸了一辈子",
-      "onboard_time": 1721046497,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 449532,
@@ -1539,14 +1555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 351550,
-      "num": 205652,
-      "word": "猫 没事哒",
-      "onboard_time": 1721046077,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 351280,
       "num": 351280,
       "word": "王玉雯王子奇四搭",
@@ -1627,6 +1635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340736,
+      "num": 299842,
+      "word": "奥运官网发布12位值得关注运动员",
+      "onboard_time": 1721046918,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340076,
       "num": 316497,
       "word": "李斯丹妮上身身材",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1720975576,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333088,
+      "num": 294242,
+      "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
+      "onboard_time": 1721048899,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330036,
@@ -2083,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266083,
-      "num": 266083,
-      "word": "周雨彤 花少",
-      "onboard_time": 1721047397,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1720941682,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258572,
+      "num": 258572,
+      "word": "王楚钦问不让带吃的吗",
+      "onboard_time": 1721046018,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 256387,
@@ -2283,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242929,
+      "num": 242929,
+      "word": "长相思复更",
+      "onboard_time": 1721046497,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242397,
       "num": 242397,
       "word": "肖战法国第四章vlog",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1720926921,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228678,
+      "num": 218854,
+      "word": "杨幂头伏营业",
+      "onboard_time": 1721047638,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 228670,
@@ -2561,14 +2601,6 @@
       "onboard_time": 1721037677,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213057,
-      "num": 199268,
-      "word": "杨幂头伏营业",
-      "onboard_time": 1721047638,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 212613,
@@ -2763,14 +2795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202979,
-      "num": 202979,
-      "word": "长相思复更",
-      "onboard_time": 1721046497,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202904,
       "num": 179054,
       "word": "暑假第一次胚胎式追剧",
@@ -2939,12 +2963,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197420,
-      "num": 197420,
-      "word": "王楚钦问不让带吃的吗",
-      "onboard_time": 1721046018,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 197621,
+      "num": 197621,
+      "word": "男子凌晨报警家里多出一个孩子",
+      "onboard_time": 1721045477,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196507,
@@ -3203,14 +3227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186115,
-      "num": 186115,
-      "word": "奥运官网发布12位值得关注运动员",
-      "onboard_time": 1721046918,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184776,
       "num": 184776,
       "word": "温网",
@@ -3387,12 +3403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174060,
-      "num": 174060,
-      "word": "男子凌晨报警家里多出一个孩子",
-      "onboard_time": 1721045477,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 174678,
+      "num": 174678,
+      "word": "为什么韩国人一直在休学",
+      "onboard_time": 1721046077,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 173876,
+      "num": 173876,
+      "word": "吴谨言王星越叼玫瑰花片段被删",
+      "onboard_time": 1721049139,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172822,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172526,
+      "num": 172526,
+      "word": "3名中国火炬手巴黎传递奥运火炬",
+      "onboard_time": 1721048178,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 172199,
@@ -3755,14 +3787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155886,
-      "num": 155886,
-      "word": "为什么韩国人一直在休学",
-      "onboard_time": 1721046077,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155866,
       "num": 155866,
       "word": "九点上班要求8点50就到",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1720882880,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148002,
+      "num": 148002,
+      "word": "特斯拉出毛豆车贴99元3个",
+      "onboard_time": 1721047157,
+      "rank": 40,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 147965,
@@ -4155,14 +4187,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 138011,
-      "num": 138011,
-      "word": "特斯拉出毛豆车贴99元3个",
-      "onboard_time": 1721047157,
-      "rank": 40,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 137807,
       "num": 137807,
       "word": "土木专业为何从大热门变大冷门",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136123,
+      "num": 136123,
+      "word": "这么多年水果都洗错了",
+      "onboard_time": 1721048778,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 135914,
@@ -4667,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116235,
+      "num": 116235,
+      "word": "余承东回应经常挨任正非批评",
+      "onboard_time": 1721049498,
+      "rank": 42,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 116191,
       "num": 116191,
       "word": "韩国人权委将调查边佑锡",
@@ -4795,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107495,
+      "num": 107495,
+      "word": "余承东回应问界商标低价卖赛力斯",
+      "onboard_time": 1721049318,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 107149,
       "num": 107149,
       "word": "奥运火炬开始在巴黎传递",
@@ -4827,6 +4875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105905,
+      "num": 452742,
+      "word": "中国乒乓巴黎如愿",
+      "onboard_time": 1721046138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105410,
       "num": 254404,
       "word": "林俊杰陶喆合唱就是爱你",
@@ -4857,6 +4913,14 @@
       "onboard_time": 1720912994,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103188,
+      "num": 103188,
+      "word": "迪丽热巴不喝冰川水的原因",
+      "onboard_time": 1721049740,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102080,
@@ -5315,14 +5379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58811,
-      "num": 452742,
-      "word": "中国乒乓巴黎如愿",
-      "onboard_time": 1721046138,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58701,
       "num": 255542,
       "word": "00后从警不到一年连救2人",
@@ -5353,6 +5409,14 @@
       "onboard_time": 1720985292,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57311,
+      "num": 307837,
+      "word": "盲人女孩郁晓楠被录取了",
+      "onboard_time": 1721047998,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56936,
@@ -5588,7 +5652,7 @@
     },
     {
       "raw_hot": 39999,
-      "num": 134476,
+      "num": 219390,
       "word": "吴奇隆反向录综艺",
       "onboard_time": 1721047277,
       "rank": 43,
@@ -5769,6 +5833,14 @@
       "onboard_time": 1720985532,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23247,
+      "num": 328339,
+      "word": "全面深化改革的实践续篇",
+      "onboard_time": 1721048837,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22252,
@@ -5959,6 +6031,9 @@
     },
     {
       "word": "#全面深化改革进行时#"
+    },
+    {
+      "word": "#领航新征程#"
     }
   ]
 }
