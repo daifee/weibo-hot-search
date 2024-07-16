@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721107140225,
+  "endTime": 1721108117240,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1341449,
+      "num": 1341449,
+      "word": "苏醒薛之谦为梅西发声",
+      "onboard_time": 1721105480,
+      "rank": 0,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1291581,
       "num": 305889,
       "word": "特朗普被提名总统候选人",
       "onboard_time": 1721089638,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1109293,
-      "num": 1177486,
-      "word": "苏醒薛之谦为梅西发声",
-      "onboard_time": 1721105480,
-      "rank": 0,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1056546,
@@ -137,6 +137,14 @@
       "onboard_time": 1721049740,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693078,
+      "num": 298237,
+      "word": "越来越多男性用阳伞",
+      "onboard_time": 1721106918,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 664479,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488019,
+      "num": 488019,
+      "word": "特朗普将与普京对话",
+      "onboard_time": 1721106141,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 485212,
       "num": 485212,
       "word": "山河枕全阵容官宣",
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429245,
+      "num": 429245,
+      "word": "我家那闺女",
+      "onboard_time": 1721106379,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410587,
       "num": 302880,
       "word": "浙江36岁男子洗牙查出白血病",
@@ -337,6 +361,14 @@
       "onboard_time": 1721085076,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 350695,
+      "num": 295382,
+      "word": "三伏天可适量多吃红色蔬果",
+      "onboard_time": 1721102058,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 349603,
@@ -379,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 336078,
-      "num": 247719,
-      "word": "三伏天可适量多吃红色蔬果",
-      "onboard_time": 1721102058,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 329524,
       "num": 329524,
       "word": "卢昱晓妈妈 爱的传递方式不同",
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323081,
+      "num": 323081,
+      "word": "布朗尼15中0",
+      "onboard_time": 1721105418,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318733,
       "num": 294543,
       "word": "南通巨响",
@@ -411,28 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318232,
-      "num": 318232,
-      "word": "特朗普将与普京对话",
-      "onboard_time": 1721106141,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 312012,
-      "num": 312012,
-      "word": "布朗尼15中0",
-      "onboard_time": 1721105418,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311881,
       "num": 311881,
       "word": "沈腾马丽谈退休",
       "onboard_time": 1721102719,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308673,
+      "num": 308673,
+      "word": "刘亦菲晒玫瑰周边",
+      "onboard_time": 1721105719,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 307686,
@@ -451,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299374,
-      "num": 299374,
-      "word": "刘亦菲晒玫瑰周边",
-      "onboard_time": 1721105719,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 292130,
+      "num": 292130,
+      "word": "欧阳娜娜泳装照",
+      "onboard_time": 1721106978,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291184,
@@ -523,12 +547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260715,
-      "num": 260715,
-      "word": "我家那闺女",
-      "onboard_time": 1721106379,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 261713,
+      "num": 261713,
+      "word": "金晓钟用虚拟人营业",
+      "onboard_time": 1721107520,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 253735,
@@ -537,6 +561,14 @@
       "onboard_time": 1721088077,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252690,
+      "num": 252690,
+      "word": "FBI已解锁特朗普枪击案嫌犯手机",
+      "onboard_time": 1721107399,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 247149,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 216260,
-      "num": 372967,
+      "num": 536061,
       "word": "新疆首座地下古墓遗址博物馆开馆",
       "onboard_time": 1721093838,
       "rank": 41,
@@ -715,14 +747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188596,
-      "num": 188596,
-      "word": "越来越多男性用阳伞",
-      "onboard_time": 1721106918,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188005,
       "num": 188005,
       "word": "中国新闻网发肖战vlog",
@@ -736,6 +760,22 @@
       "word": "崩坏星穹铁道",
       "onboard_time": 1721105779,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 184595,
+      "num": 184595,
+      "word": "农夫山泉正用7毛低价搅动市场",
+      "onboard_time": 1721105959,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183082,
+      "num": 183082,
+      "word": "秦彻 文案",
+      "onboard_time": 1721107698,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -795,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170825,
-      "num": 170825,
-      "word": "农夫山泉正用7毛低价搅动市场",
-      "onboard_time": 1721105959,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168458,
       "num": 168458,
       "word": "星穹铁道飞霄",
@@ -859,8 +891,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156946,
-      "num": 156946,
+      "raw_hot": 156992,
+      "num": 156992,
       "word": "中国气象局启动暴雨二级应急响应",
       "onboard_time": 1721104939,
       "rank": 38,
@@ -897,14 +929,6 @@
       "onboard_time": 1721103919,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142559,
-      "num": 142559,
-      "word": "欧阳娜娜泳装照",
-      "onboard_time": 1721106978,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142139,
@@ -1491,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41407,
+      "num": 427438,
+      "word": "10岁男孩酷爱足球5年日颠数万次",
+      "onboard_time": 1721107220,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41358,
       "num": 92018,
       "word": "杨幂头伏营业",
@@ -1507,8 +1539,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 33070,
+      "num": 314805,
+      "word": "板凳球员保送上名校背后",
+      "onboard_time": 1721106019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32479,
-      "num": 158188,
+      "num": 418848,
       "word": "王一博灵龙Tee火了",
       "onboard_time": 1721106259,
       "rank": 36,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1721034018,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21033,
-      "num": 314805,
-      "word": "板凳球员保送上名校背后",
-      "onboard_time": 1721106019,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20529,
