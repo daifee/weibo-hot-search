@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721169391388,
+  "endTime": 1721172180624,
   "band_list": [
     {
       "raw_hot": 895522,
@@ -41,6 +41,22 @@
       "onboard_time": 1721140460,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373439,
+      "num": 768153,
+      "word": "为什么成龙电影逐渐失去票房号召力",
+      "onboard_time": 1721170873,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 353666,
+      "num": 100329,
+      "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
+      "onboard_time": 1721148014,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 323742,
@@ -99,20 +115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225149,
+      "num": 74729,
+      "word": "邓超儿子好像段奕宏",
+      "onboard_time": 1721131278,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218851,
       "num": 203158,
       "word": "宋亚轩刘耀文包场抓娃娃",
       "onboard_time": 1721139440,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210107,
-      "num": 92375,
-      "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
-      "onboard_time": 1721148014,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204450,
@@ -227,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106391,
+      "num": 92430,
+      "word": "泰国被害女子姐姐发声",
+      "onboard_time": 1721133378,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106207,
       "num": 106207,
       "word": "苹果回应iPhone鬼手现象",
@@ -251,12 +275,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89864,
-      "num": 89864,
-      "word": "泰国被害女子姐姐发声",
-      "onboard_time": 1721133378,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 92225,
+      "num": 92225,
+      "word": "金在中姐姐为隐瞒领养不过生日",
+      "onboard_time": 1721130678,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88548,
+      "num": 59664,
+      "word": "恩佐道歉",
+      "onboard_time": 1721171834,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88447,
+      "num": 88447,
+      "word": "梁博变陶喆了",
+      "onboard_time": 1721154312,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 88135,
@@ -265,14 +305,6 @@
       "onboard_time": 1721142860,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86673,
-      "num": 86673,
-      "word": "金在中姐姐为隐瞒领养不过生日",
-      "onboard_time": 1721130678,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 84904,
@@ -315,14 +347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 79166,
-      "num": 66998,
-      "word": "邓超儿子好像段奕宏",
-      "onboard_time": 1721131278,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75407,
       "num": 75407,
       "word": "鹿晗帮路人搬杠铃片",
@@ -331,12 +355,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75134,
+      "num": 75134,
+      "word": "网红面筋哥近况",
+      "onboard_time": 1721151253,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 70273,
+      "num": 70273,
+      "word": "武汉一外卖小哥背着AED送外卖",
+      "onboard_time": 1721170393,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69026,
       "num": 69026,
       "word": "李佳琦好像闺蜜不看好我男朋友的样子",
       "onboard_time": 1721137879,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66808,
+      "num": 66808,
+      "word": "广州海珠一新能源车发生自燃",
+      "onboard_time": 1721167992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66488,
+      "num": 66488,
+      "word": "你的肾是怎么一步步被透支掉的",
+      "onboard_time": 1721171895,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66181,
@@ -363,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62485,
-      "num": 49703,
-      "word": "梁博变陶喆了",
-      "onboard_time": 1721154312,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62165,
       "num": 62165,
       "word": "姆巴佩模仿C罗",
@@ -387,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60692,
+      "num": 60692,
+      "word": "阿拉蕾撞脸林妙可",
+      "onboard_time": 1721137099,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58014,
       "num": 61897,
       "word": "鬼灭之刃 天才少年无一郎",
@@ -395,28 +451,44 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 53450,
-      "num": 48573,
-      "word": "网红面筋哥近况",
-      "onboard_time": 1721151253,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 52716,
+      "num": 52716,
+      "word": "于文文去李莎旻子家像女婿上门",
+      "onboard_time": 1721170873,
+      "rank": 36,
+      "category": "综艺"
     },
     {
-      "raw_hot": 47667,
-      "num": 47667,
-      "word": "阿拉蕾撞脸林妙可",
-      "onboard_time": 1721137099,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 51968,
+      "num": 52716,
+      "word": "长期运动会显年轻吗",
+      "onboard_time": 1721160191,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 49590,
+      "num": 52715,
+      "word": "女子晒295元2日跟团游供4餐睡宾馆",
+      "onboard_time": 1721163430,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45058,
-      "num": 45058,
+      "num": 52713,
       "word": "杨幂在玩一种很新的动图",
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43776,
+      "num": 52714,
+      "word": "水瓶座的感情是阶段性的",
+      "onboard_time": 1721155871,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 40993,
@@ -427,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37029,
+      "num": 52711,
+      "word": "带着微博去旅行",
+      "onboard_time": 1721171955,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 35062,
+      "num": 52711,
+      "word": "苹果续创历史收盘新高",
+      "onboard_time": 1721171895,
+      "rank": 45,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 33690,
       "num": 44150,
       "word": "时代少年团对接回应演唱会",
@@ -435,36 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28423,
-      "num": 28423,
-      "word": "女子晒295元2日跟团游供4餐睡宾馆",
-      "onboard_time": 1721163430,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23107,
-      "num": 26284,
-      "word": "长期运动会显年轻吗",
-      "onboard_time": 1721160191,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 22734,
-      "num": 26279,
-      "word": "水瓶座的感情是阶段性的",
-      "onboard_time": 1721155871,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 20658,
-      "num": 26274,
+      "raw_hot": 32529,
+      "num": 52710,
       "word": "谁懂小猫拱这两下的含金量",
       "onboard_time": 1721158571,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29446,
+      "num": 101609,
+      "word": "梦想和班主任成为校友男生成功考上浙大",
+      "onboard_time": 1721171294,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 19953,
@@ -473,14 +545,6 @@
       "onboard_time": 1721154192,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 19204,
-      "num": 26268,
-      "word": "广州海珠一新能源车发生自燃",
-      "onboard_time": 1721167992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16162,
@@ -539,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6108,
+      "num": 174174,
+      "word": "一篇近半个世纪的工作总结",
+      "onboard_time": 1721033418,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4452,
       "num": 36993,
       "word": "交警郑全卫为你点赞",
@@ -551,14 +623,6 @@
       "num": 394794,
       "word": "每一秒都是奋进的中国",
       "onboard_time": 1721034439,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2546,
-      "num": 110026,
-      "word": "一篇近半个世纪的工作总结",
-      "onboard_time": 1721033418,
       "rank": 2,
       "category": "社会新闻"
     }
