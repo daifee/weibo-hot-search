@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721128595406,
+  "endTime": 1721129666566,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -721,6 +721,14 @@
       "onboard_time": 1721048899,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785086,
+      "num": 1125613,
+      "word": "陶喆 讨厌红楼梦",
+      "onboard_time": 1721126779,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 781930,
@@ -1563,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489241,
-      "num": 489241,
-      "word": "陶喆 讨厌红楼梦",
-      "onboard_time": 1721126779,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 488019,
       "num": 488019,
       "word": "特朗普将与普京对话",
@@ -1601,6 +1601,14 @@
       "onboard_time": 1721121619,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478981,
+      "num": 478981,
+      "word": "新疆惊现巨大哈密瓜为模型",
+      "onboard_time": 1721124678,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472140,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1721002998,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 399811,
-      "num": 282935,
-      "word": "新疆惊现巨大哈密瓜为模型",
-      "onboard_time": 1721124678,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398212,
@@ -2833,6 +2833,14 @@
       "onboard_time": 1720925059,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 282825,
+      "num": 282825,
+      "word": "邓为钻石脸链",
+      "onboard_time": 1721128098,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282812,
@@ -3667,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213167,
+      "num": 213167,
+      "word": "鹿晗帮路人搬杠铃片",
+      "onboard_time": 1721127858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213063,
       "num": 213063,
       "word": "三伏天谨记三忌三宜",
@@ -3779,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206785,
+      "num": 205641,
+      "word": "鞠婧祎官方对接",
+      "onboard_time": 1721129237,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206213,
       "num": 206213,
       "word": "阿尔卡拉斯vs德约科维奇",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1721038098,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206161,
+      "num": 206161,
+      "word": "国货直播卖竞品",
+      "onboard_time": 1721129357,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 206139,
@@ -4331,14 +4363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191188,
-      "num": 191188,
-      "word": "邓为钻石脸链",
-      "onboard_time": 1721128098,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191101,
       "num": 191101,
       "word": "抓娃娃连续3天单日票房破亿",
@@ -4673,14 +4697,6 @@
       "onboard_time": 1721090359,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175995,
-      "num": 175995,
-      "word": "鹿晗帮路人搬杠铃片",
-      "onboard_time": 1721127858,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 175983,
@@ -5089,6 +5105,14 @@
       "onboard_time": 1721085555,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162551,
+      "num": 162551,
+      "word": "肖战YSL广告大片",
+      "onboard_time": 1721128699,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162090,
@@ -6020,7 +6044,7 @@
     },
     {
       "raw_hot": 132956,
-      "num": 414413,
+      "num": 471079,
       "word": "没来过中国的老外vs爱上汉服的老外",
       "onboard_time": 1721099658,
       "rank": 46,
@@ -6204,7 +6228,7 @@
     },
     {
       "raw_hot": 127372,
-      "num": 113337,
+      "num": 117434,
       "word": "奇迹相柳",
       "onboard_time": 1721127619,
       "rank": 41,
@@ -6539,6 +6563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118704,
+      "num": 118704,
+      "word": "教师辞职独自航行太平洋",
+      "onboard_time": 1721128639,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118570,
       "num": 256902,
       "word": "陈都灵 你这样说我更i了",
@@ -6643,6 +6675,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113218,
+      "num": 113218,
+      "word": "拜登与特朗普的经济主张有何不同",
+      "onboard_time": 1721126419,
+      "rank": 45,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 112937,
       "num": 121772,
       "word": "高校最走心的录取通知书",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1721085194,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110395,
+      "num": 110395,
+      "word": "海军多舰艇演练配上沧海一声笑",
+      "onboard_time": 1721129058,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 109840,
@@ -7177,6 +7225,14 @@
       "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80381,
+      "num": 271062,
+      "word": "买金条遭遇不发货不退款",
+      "onboard_time": 1721129418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80069,
@@ -7945,6 +8001,14 @@
       "onboard_time": 1721023518,
       "rank": 14,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 40153,
+      "num": 114626,
+      "word": "乌克兰电诈假扮美女专骗俄罗斯男性",
+      "onboard_time": 1721128879,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 40145,

@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721128595406,
+  "endTime": 1721129666566,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -161,6 +161,14 @@
       "onboard_time": 1721087057,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 785086,
+      "num": 1125613,
+      "word": "陶喆 讨厌红楼梦",
+      "onboard_time": 1721126779,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 781930,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489241,
-      "num": 489241,
-      "word": "陶喆 讨厌红楼梦",
-      "onboard_time": 1721126779,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 488019,
       "num": 488019,
       "word": "特朗普将与普京对话",
@@ -425,6 +425,14 @@
       "onboard_time": 1721121619,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478981,
+      "num": 478981,
+      "word": "新疆惊现巨大哈密瓜为模型",
+      "onboard_time": 1721124678,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462988,
@@ -561,14 +569,6 @@
       "onboard_time": 1721089938,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 399811,
-      "num": 282935,
-      "word": "新疆惊现巨大哈密瓜为模型",
-      "onboard_time": 1721124678,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383792,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282825,
+      "num": 282825,
+      "word": "邓为钻石脸链",
+      "onboard_time": 1721128098,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275934,
       "num": 106398,
       "word": "吴谨言王星越叼玫瑰花片段被删",
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213167,
+      "num": 213167,
+      "word": "鹿晗帮路人搬杠铃片",
+      "onboard_time": 1721127858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212405,
       "num": 212405,
       "word": "大厂离职做博主有人后悔了",
@@ -1041,6 +1057,22 @@
       "onboard_time": 1721094077,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206785,
+      "num": 205641,
+      "word": "鞠婧祎官方对接",
+      "onboard_time": 1721129237,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206161,
+      "num": 206161,
+      "word": "国货直播卖竞品",
+      "onboard_time": 1721129357,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 206139,
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191188,
-      "num": 191188,
-      "word": "邓为钻石脸链",
-      "onboard_time": 1721128098,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191101,
       "num": 191101,
       "word": "抓娃娃连续3天单日票房破亿",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1721090359,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175995,
-      "num": 175995,
-      "word": "鹿晗帮路人搬杠铃片",
-      "onboard_time": 1721127858,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 175287,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1721085555,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162551,
+      "num": 162551,
+      "word": "肖战YSL广告大片",
+      "onboard_time": 1721128699,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159581,
@@ -1644,7 +1668,7 @@
     },
     {
       "raw_hot": 132956,
-      "num": 414413,
+      "num": 471079,
       "word": "没来过中国的老外vs爱上汉服的老外",
       "onboard_time": 1721099658,
       "rank": 46,
@@ -1692,7 +1716,7 @@
     },
     {
       "raw_hot": 127372,
-      "num": 113337,
+      "num": 117434,
       "word": "奇迹相柳",
       "onboard_time": 1721127619,
       "rank": 41,
@@ -1811,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118704,
+      "num": 118704,
+      "word": "教师辞职独自航行太平洋",
+      "onboard_time": 1721128639,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118221,
       "num": 284685,
       "word": "小伙带全村老人拍短视频赶走孤单",
@@ -1843,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113218,
+      "num": 113218,
+      "word": "拜登与特朗普的经济主张有何不同",
+      "onboard_time": 1721126419,
+      "rank": 45,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 112060,
       "num": 112060,
       "word": "上海将启动无人驾驶汽车测试",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1721085194,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110395,
+      "num": 110395,
+      "word": "海军多舰艇演练配上沧海一声笑",
+      "onboard_time": 1721129058,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 109377,
@@ -2056,6 +2104,14 @@
       "word": "百岁奶奶为浇菜把粪桶放孙子屋",
       "onboard_time": 1721052380,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80381,
+      "num": 271062,
+      "word": "买金条遭遇不发货不退款",
+      "onboard_time": 1721129418,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2417,6 +2473,14 @@
       "onboard_time": 1721047638,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40153,
+      "num": 114626,
+      "word": "乌克兰电诈假扮美女专骗俄罗斯男性",
+      "onboard_time": 1721128879,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 39501,
