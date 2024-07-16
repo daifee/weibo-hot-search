@@ -1,10 +1,18 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721098056840,
+  "endTime": 1721100335696,
   "band_list": [
     {
+      "raw_hot": 1936512,
+      "num": 1936512,
+      "word": "400多件裙子退货店家损失近8000元",
+      "onboard_time": 1721096359,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404527,
-      "num": 349958,
+      "num": 367746,
       "word": "统一回应方便面酸菜中疑出现鼠头",
       "onboard_time": 1721091857,
       "rank": 11,
@@ -17,6 +25,14 @@
       "onboard_time": 1721089638,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1056546,
+      "num": 1056546,
+      "word": "几千块手机为何离不开几块钱的冰贴",
+      "onboard_time": 1721096717,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 1044847,
@@ -35,15 +51,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 950345,
-      "num": 1152055,
-      "word": "400多件裙子退货店家损失近8000元",
-      "onboard_time": 1721096359,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948179,
+      "raw_hot": 959047,
       "num": 1149774,
       "word": "抓娃娃票房",
       "onboard_time": 1721092278,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 931287,
-      "num": 253307,
+      "num": 258107,
       "word": "不建议穿短裤去电影院的原因",
       "onboard_time": 1721086034,
       "rank": 20,
@@ -75,20 +83,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 704990,
-      "num": 704990,
-      "word": "几千块手机为何离不开几块钱的冰贴",
-      "onboard_time": 1721096717,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 694376,
       "num": 921100,
       "word": "迪丽热巴不喝冰川水的原因",
       "onboard_time": 1721049740,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 676206,
+      "num": 363030,
+      "word": "特朗普右耳包扎绷带露面",
+      "onboard_time": 1721099598,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 646492,
@@ -115,6 +123,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 548894,
+      "num": 548894,
+      "word": "体育生放弃保研回乡成种地行家",
+      "onboard_time": 1721098157,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506444,
+      "num": 506444,
+      "word": "特朗普出席共和党全国大会",
+      "onboard_time": 1721097377,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 497613,
+      "num": 256271,
+      "word": "宝马开始涨价了",
+      "onboard_time": 1721096178,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 489888,
       "num": 333789,
       "word": "开着空调闭门做饭一家五口中毒",
@@ -129,14 +161,6 @@
       "onboard_time": 1721092577,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477209,
-      "num": 242105,
-      "word": "宝马开始涨价了",
-      "onboard_time": 1721096178,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 462947,
@@ -267,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311996,
+      "num": 226138,
+      "word": "郑州年平均工资102921元",
+      "onboard_time": 1721098817,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 307686,
       "num": 307686,
       "word": "饿了么免单",
       "onboard_time": 1721096898,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 291785,
+      "num": 291785,
+      "word": "警方通报女子凌晨打出租车遭司机猥亵",
+      "onboard_time": 1721098218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291184,
@@ -339,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263420,
+      "num": 263420,
+      "word": "卢昱晓妈妈 爱的传递方式不同",
+      "onboard_time": 1721099776,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253735,
       "num": 196799,
       "word": "粉丝为肖战做梗图",
@@ -369,6 +417,14 @@
       "onboard_time": 1721046677,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216506,
+      "num": 216506,
+      "word": "肯尼亚42名女性被杀害肢解",
+      "onboard_time": 1721099057,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216149,
@@ -409,14 +465,6 @@
       "onboard_time": 1721095277,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191878,
-      "num": 191878,
-      "word": "特朗普出席共和党全国大会",
-      "onboard_time": 1721097377,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 191101,
@@ -467,12 +515,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171675,
+      "num": 171675,
+      "word": "长相思2阿念瞬间成长",
+      "onboard_time": 1721100138,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169621,
+      "num": 169621,
+      "word": "原来考的不好是可以不用挨骂的",
+      "onboard_time": 1721100018,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167654,
       "num": 395609,
       "word": "九尾缺席沙特大名单",
       "onboard_time": 1721044098,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166650,
+      "num": 166650,
+      "word": "新人婚礼上不停唠嗑全程嘴没停过",
+      "onboard_time": 1721098998,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163851,
@@ -505,6 +577,22 @@
       "onboard_time": 1721093716,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150547,
+      "num": 150547,
+      "word": "新疆首座地下古墓遗址博物馆开馆",
+      "onboard_time": 1721093838,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 150302,
+      "num": 150302,
+      "word": "农夫山泉指出香港消委会三大错误",
+      "onboard_time": 1721099898,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 148381,
@@ -547,14 +635,6 @@
       "category": "社会新闻,社会正能量"
     },
     {
-      "raw_hot": 137948,
-      "num": 137948,
-      "word": "新疆首座地下古墓遗址博物馆开馆",
-      "onboard_time": 1721093838,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 134770,
       "num": 104622,
       "word": "最讨厌的小说女主名字",
@@ -579,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132956,
+      "num": 132956,
+      "word": "没来过中国的老外vs爱上汉服的老外",
+      "onboard_time": 1721099658,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132588,
       "num": 123759,
       "word": "单依纯希望这辈子优质的活着",
@@ -593,6 +681,14 @@
       "onboard_time": 1721054000,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125372,
+      "num": 125372,
+      "word": "徐明浩HOT王子礼",
+      "onboard_time": 1721099538,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125288,
@@ -616,6 +712,14 @@
       "word": "社旗暴雨",
       "onboard_time": 1721093178,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118221,
+      "num": 284685,
+      "word": "小伙带全村老人拍短视频赶走孤单",
+      "onboard_time": 1721098277,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -683,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107328,
+      "num": 394005,
+      "word": "144小时过境免签口岸是哪37个",
+      "onboard_time": 1721096659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106501,
       "num": 106501,
       "word": "克莱在独行侠打首发",
@@ -737,14 +849,6 @@
       "onboard_time": 1721086095,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97455,
-      "num": 355061,
-      "word": "144小时过境免签口岸是哪37个",
-      "onboard_time": 1721096659,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94678,
@@ -1011,8 +1115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44808,
-      "num": 192367,
+      "raw_hot": 44901,
+      "num": 215860,
       "word": "一天双冠伊利赢麻了",
       "onboard_time": 1721097257,
       "rank": 39,
@@ -1057,6 +1161,22 @@
       "onboard_time": 1721034018,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20529,
+      "num": 170091,
+      "word": "上天猫中国夺金伊利送金",
+      "onboard_time": 1721099118,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18871,
+      "num": 154173,
+      "word": "张朝阳对话世界顶尖物理科学家",
+      "onboard_time": 1721098817,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 18323,
@@ -1105,6 +1225,22 @@
       "onboard_time": 1721063592,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11039,
+      "num": 382467,
+      "word": "快递业务量累计完成801.6亿件",
+      "onboard_time": 1721100318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7044,
+      "num": 968126,
+      "word": "引领新时代改革开放",
+      "onboard_time": 1721100318,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4912,
