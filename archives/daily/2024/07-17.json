@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721150264962,
+  "endTime": 1721151277808,
   "band_list": [
     {
       "raw_hot": 895522,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210107,
+      "num": 92375,
+      "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
+      "onboard_time": 1721148014,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 204450,
       "num": 204450,
       "word": "谁家定档打电话通知啊",
@@ -177,14 +185,6 @@
       "onboard_time": 1721144418,
       "rank": 23,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 125990,
-      "num": 92375,
-      "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
-      "onboard_time": 1721148014,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 120965,
@@ -395,16 +395,32 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43218,
+      "num": 44202,
+      "word": "阿拉蕾撞脸林妙可",
+      "onboard_time": 1721137099,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40993,
-      "num": 40993,
+      "num": 44168,
       "word": "檀健次回应相柳九头九脸",
       "onboard_time": 1721148735,
       "rank": 42,
       "category": "剧集"
     },
     {
+      "raw_hot": 40931,
+      "num": 44197,
+      "word": "网红面筋哥近况",
+      "onboard_time": 1721151253,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33690,
-      "num": 33690,
+      "num": 44150,
       "word": "时代少年团对接回应演唱会",
       "onboard_time": 1721134878,
       "rank": 49,
@@ -447,6 +463,14 @@
       "num": 394794,
       "word": "每一秒都是奋进的中国",
       "onboard_time": 1721034439,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1686,
+      "num": 110026,
+      "word": "一篇近半个世纪的工作总结",
+      "onboard_time": 1721033418,
       "rank": 2,
       "category": "社会新闻"
     }

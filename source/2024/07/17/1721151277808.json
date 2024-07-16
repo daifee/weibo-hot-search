@@ -1,0 +1,410 @@
+{
+  "runTime": 1721151277808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277728,
+        "num": 414506,
+        "word": "科比父亲去世",
+        "onboard_time": 1721141779,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134431,
+        "num": 134431,
+        "word": "陶喆 二十二",
+        "onboard_time": 1721141000,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1686,
+        "num": 110026,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151455,
+        "num": 109380,
+        "word": "官方通报老人报40元团4天3晚游桂林",
+        "onboard_time": 1721140460,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107159,
+        "num": 107159,
+        "word": "张新成艺考拿了八个第一",
+        "onboard_time": 1721138059,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88749,
+        "num": 88749,
+        "word": "恋与深空",
+        "onboard_time": 1721134818,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3223,
+        "num": 79411,
+        "word": "镜随光转的光热电站科技感拉满",
+        "onboard_time": 1721140400,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 78231,
+        "word": "上岸后发现教师这碗饭我真吃不了",
+        "onboard_time": 1721131218,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74034,
+        "num": 74034,
+        "word": "金价再度大涨",
+        "onboard_time": 1721134038,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6815,
+        "num": 73326,
+        "word": "路遇男孩落水2男子不约而同跳河救人",
+        "onboard_time": 1721146517,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 240586,
+        "num": 72805,
+        "word": "5个大人4个小孩入住两个标间被拒",
+        "onboard_time": 1721135719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210107,
+        "num": 71896,
+        "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
+        "onboard_time": 1721148014,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 70833,
+        "word": "不亚于图书馆30秒的外卖评价",
+        "onboard_time": 1721143099,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121802,
+        "num": 70599,
+        "word": "王鹤棣金发回归",
+        "onboard_time": 1721141599,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93804,
+        "num": 69894,
+        "word": "苏醒薛之谦为梅西发声",
+        "onboard_time": 1721105480,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 81873,
+        "num": 68319,
+        "word": "上海恐龙户型房1套499万",
+        "onboard_time": 1721136019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68280,
+        "num": 68280,
+        "word": "在日本海上漂流36小时中国女生自述",
+        "onboard_time": 1721129717,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67897,
+        "num": 67897,
+        "word": "编剧看了多少烂剧才写出的台词",
+        "onboard_time": 1721133317,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66663,
+        "num": 66663,
+        "word": "田曦薇低智商犯罪路透",
+        "onboard_time": 1721146039,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64444,
+        "num": 64444,
+        "word": "泰国一酒店发生枪击事件致6人死亡",
+        "onboard_time": 1721135178,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60236,
+        "num": 60236,
+        "word": "宋亚轩刘耀文包场抓娃娃",
+        "onboard_time": 1721139440,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1984,
+        "num": 58489,
+        "word": "每一秒都是奋进的中国",
+        "onboard_time": 1721034439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58294,
+        "num": 58294,
+        "word": "薛之谦新歌预告怪诞童话",
+        "onboard_time": 1721127378,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57955,
+        "num": 57955,
+        "word": "谁家定档打电话通知啊",
+        "onboard_time": 1721141659,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 56925,
+        "num": 56925,
+        "word": "相亲和自谈最大的区别是什么",
+        "onboard_time": 1721139620,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55015,
+        "num": 55015,
+        "word": "中方回应万斯称中国是美国最大威胁",
+        "onboard_time": 1721129957,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54043,
+        "num": 54043,
+        "word": "朋友圈真的不要留太多电子宠物",
+        "onboard_time": 1721130557,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52999,
+        "num": 52999,
+        "word": "苹果回应iPhone鬼手现象",
+        "onboard_time": 1721132658,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50417,
+        "num": 50417,
+        "word": "泰警方称6名死者疑死于氰化物中毒",
+        "onboard_time": 1721142379,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35577,
+        "num": 50085,
+        "word": "不论哪里办大赛爆单的都是中国",
+        "onboard_time": 1721146577,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49983,
+        "num": 49983,
+        "word": "泰国被害女子姐姐发声",
+        "onboard_time": 1721133378,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46433,
+        "num": 46433,
+        "word": "射手座的下头就在一瞬之间",
+        "onboard_time": 1721141539,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44229,
+        "num": 44229,
+        "word": "老师最不看好你 你却偏偏最争气",
+        "onboard_time": 1721132837,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44202,
+        "num": 44202,
+        "word": "杨幂在玩一种很新的动图",
+        "onboard_time": 1721149334,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43218,
+        "num": 44202,
+        "word": "阿拉蕾撞脸林妙可",
+        "onboard_time": 1721137099,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40931,
+        "num": 44197,
+        "word": "网红面筋哥近况",
+        "onboard_time": 1721151253,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39726,
+        "num": 44195,
+        "word": "金在中姐姐为隐瞒领养不过生日",
+        "onboard_time": 1721130678,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37666,
+        "num": 44191,
+        "word": "朱旺旺回应与李佳琦的关系",
+        "onboard_time": 1721134400,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 44187,
+        "word": "邓超儿子好像段奕宏",
+        "onboard_time": 1721131278,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35657,
+        "num": 44184,
+        "word": "李佳琦好像闺蜜不看好我男朋友的样子",
+        "onboard_time": 1721137879,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35229,
+        "num": 44179,
+        "word": "刘耀文得知翔霖一队后的反应",
+        "onboard_time": 1721133498,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34871,
+        "num": 44177,
+        "word": "巴黎世家钥匙发圈",
+        "onboard_time": 1721144418,
+        "rank": 41,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 34470,
+        "num": 44174,
+        "word": "马嘉祺在ABC中选择了D",
+        "onboard_time": 1721137700,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34091,
+        "num": 44168,
+        "word": "檀健次回应相柳九头九脸",
+        "onboard_time": 1721148735,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31989,
+        "num": 44167,
+        "word": "抓娃娃",
+        "onboard_time": 1721139681,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31192,
+        "num": 44161,
+        "word": "曝CUBE贷款续约gidle",
+        "onboard_time": 1721130138,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30173,
+        "num": 44161,
+        "word": "鹿晗帮路人搬杠铃片",
+        "onboard_time": 1721127858,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29484,
+        "num": 44157,
+        "word": "姆巴佩模仿C罗",
+        "onboard_time": 1721136319,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27541,
+        "num": 44154,
+        "word": "相柳不能解蛊的原因",
+        "onboard_time": 1721140221,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27050,
+        "num": 44150,
+        "word": "时代少年团对接回应演唱会",
+        "onboard_time": 1721134878,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样擘画全面深化改革开放#"
+    }
+  }
+}
