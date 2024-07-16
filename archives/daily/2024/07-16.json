@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721136851281,
+  "endTime": 1721139612349,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -91,20 +91,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1124416,
+      "num": 1172660,
+      "word": "泰国一酒店发生枪击事件致6人死亡",
+      "onboard_time": 1721135178,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112790,
       "num": 1178046,
       "word": "少年打球后心脏骤停一群医生冲了上去",
       "onboard_time": 1721111058,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 1079129,
-      "num": 1172660,
-      "word": "泰国一酒店发生枪击事件致6人死亡",
-      "onboard_time": 1721135178,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1060024,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 882539,
+      "num": 1141206,
+      "word": "5个大人4个小孩入住两个标间被拒",
+      "onboard_time": 1721135719,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873003,
       "num": 1125613,
       "word": "陶喆 讨厌红楼梦",
@@ -195,12 +203,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 797310,
+      "num": 797310,
+      "word": "金价再度大涨",
+      "onboard_time": 1721134038,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 781930,
       "num": 781930,
       "word": "农夫山泉要香港消委会道歉",
       "onboard_time": 1721101759,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 763037,
+      "num": 763037,
+      "word": "编剧看了多少烂剧才写出的台词",
+      "onboard_time": 1721133317,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 755760,
@@ -307,6 +331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 606754,
+      "num": 370668,
+      "word": "朱旺旺回应与李佳琦的关系",
+      "onboard_time": 1721134400,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605441,
       "num": 605441,
       "word": "101岁爷爷给55岁孙子雨中送伞",
@@ -339,28 +371,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 592028,
-      "num": 592028,
-      "word": "金价再度大涨",
-      "onboard_time": 1721134038,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 583282,
       "num": 337854,
       "word": "金在中姐姐为隐瞒领养不过生日",
       "onboard_time": 1721130678,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575795,
-      "num": 331269,
-      "word": "朱旺旺回应与李佳琦的关系",
-      "onboard_time": 1721134400,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 566665,
@@ -417,6 +433,14 @@
       "onboard_time": 1721130557,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 525296,
+      "num": 525296,
+      "word": "张新成艺考拿了八个第一",
+      "onboard_time": 1721138059,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 521909,
@@ -531,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 462700,
+      "num": 462700,
+      "word": "上海恐龙户型房1套499万",
+      "onboard_time": 1721136019,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455153,
       "num": 342488,
       "word": "特朗普披露最新伤情",
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 435626,
-      "num": 333447,
+      "num": 345064,
       "word": "泰国被害女子姐姐发声",
       "onboard_time": 1721133378,
       "rank": 25,
@@ -675,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404113,
-      "num": 404113,
-      "word": "编剧看了多少烂剧才写出的台词",
-      "onboard_time": 1721133317,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401439,
       "num": 401439,
       "word": "女生防晒过度患上骨质疏松",
@@ -721,6 +745,14 @@
       "onboard_time": 1721113158,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369858,
+      "num": 369858,
+      "word": "马嘉祺在ABC中选择了D",
+      "onboard_time": 1721137700,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 364986,
@@ -883,6 +915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 305316,
+      "num": 227219,
+      "word": "宋亚轩刘耀文包场抓娃娃",
+      "onboard_time": 1721139440,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 301711,
       "num": 270362,
       "word": "恋与深空",
@@ -896,14 +936,6 @@
       "word": "警方通报女子凌晨打出租车遭司机猥亵",
       "onboard_time": 1721098218,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292300,
-      "num": 292300,
-      "word": "5个大人4个小孩入住两个标间被拒",
-      "onboard_time": 1721135719,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1004,7 +1036,7 @@
     },
     {
       "raw_hot": 268362,
-      "num": 217284,
+      "num": 225852,
       "word": "怀疑射手座都喜欢这么穿",
       "onboard_time": 1721134339,
       "rank": 29,
@@ -1251,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209644,
+      "num": 209644,
+      "word": "李佳琦好像闺蜜不看好我男朋友的样子",
+      "onboard_time": 1721137879,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "国货直播卖竞品",
@@ -1387,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191587,
-      "num": 191587,
-      "word": "上海恐龙户型房1套499万",
-      "onboard_time": 1721136019,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191422,
       "num": 191422,
       "word": "布朗尼投出三不沾",
@@ -1467,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184114,
+      "num": 229801,
+      "word": "姆巴佩模仿C罗",
+      "onboard_time": 1721136319,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183148,
       "num": 183148,
       "word": "终于知道玱玹在忙什么了",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1721115498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181470,
+      "num": 181470,
+      "word": "影响雷军造车的一本书",
+      "onboard_time": 1721138660,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 181448,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1721103380,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 178157,
-      "num": 178157,
-      "word": "姆巴佩模仿C罗",
-      "onboard_time": 1721136319,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 178096,
@@ -1675,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164837,
+      "num": 164837,
+      "word": "抓娃娃票房破6亿",
+      "onboard_time": 1721131579,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163851,
       "num": 163851,
       "word": "骗子也受不了敷衍和冷暴力",
@@ -1723,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158412,
+      "num": 158412,
+      "word": "张新成干一行行一行",
+      "onboard_time": 1721137519,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158059,
       "num": 158059,
       "word": "成都已经进化到这种程度了",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1721104939,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156186,
+      "num": 156186,
+      "word": "阿拉蕾撞脸林妙可",
+      "onboard_time": 1721137099,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 155805,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1721119400,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153009,
+      "num": 153009,
+      "word": "听说现在流行这样发旅行朋友圈",
+      "onboard_time": 1721137579,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 152842,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1721131458,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146096,
+      "num": 146096,
+      "word": "蓝盈莹在片场一秒落泪",
+      "onboard_time": 1721139199,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 145944,
@@ -2051,20 +2131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131415,
+      "num": 131415,
+      "word": "相柳每天得扎九个丸子头吗",
+      "onboard_time": 1721137639,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130541,
       "num": 130541,
       "word": "动漫吻戏名场面 新兰第一",
       "onboard_time": 1721119280,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 130139,
-      "num": 130139,
-      "word": "抓娃娃票房破6亿",
-      "onboard_time": 1721131579,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 127677,
@@ -2243,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113952,
+      "num": 113952,
+      "word": "中欧医疗3年亏70%还要发行医疗基金",
+      "onboard_time": 1721139140,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113218,
       "num": 113218,
       "word": "拜登与特朗普的经济主张有何不同",
@@ -2265,6 +2353,14 @@
       "onboard_time": 1721092399,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "FPX战胜NIP",
+      "onboard_time": 1721139559,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110933,
@@ -2644,7 +2740,7 @@
     },
     {
       "raw_hot": 70038,
-      "num": 469246,
+      "num": 551281,
       "word": "暑期档电影票房破45亿",
       "onboard_time": 1721133677,
       "rank": 9,
@@ -2681,6 +2777,14 @@
       "onboard_time": 1721030298,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 67541,
+      "num": 349203,
+      "word": "百岁山符合国标和欧盟标准",
+      "onboard_time": 1721133800,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67449,
@@ -2811,14 +2915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52891,
-      "num": 349203,
-      "word": "百岁山符合国标和欧盟标准",
-      "onboard_time": 1721133800,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51861,
       "num": 354261,
       "word": "交警用海姆立克法10秒救了一条命",
@@ -2897,6 +2993,14 @@
       "onboard_time": 1721124199,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37667,
+      "num": 372993,
+      "word": "中国女排备战巴黎奥运画面",
+      "onboard_time": 1721138420,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 33070,

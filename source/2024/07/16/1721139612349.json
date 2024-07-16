@@ -1,0 +1,410 @@
+{
+  "runTime": 1721139612349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882539,
+        "num": 1141206,
+        "word": "5个大人4个小孩入住两个标间被拒",
+        "onboard_time": 1721135719,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797310,
+        "num": 797310,
+        "word": "金价再度大涨",
+        "onboard_time": 1721134038,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 4768,
+        "num": 765684,
+        "word": "每一秒都是奋进的中国",
+        "onboard_time": 1721034439,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005118,
+        "num": 765493,
+        "word": "上岸后发现教师这碗饭我真吃不了",
+        "onboard_time": 1721131218,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 763037,
+        "num": 763037,
+        "word": "编剧看了多少烂剧才写出的台词",
+        "onboard_time": 1721133317,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69342,
+        "num": 551281,
+        "word": "暑期档电影票房破45亿",
+        "onboard_time": 1721133677,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525296,
+        "num": 525296,
+        "word": "张新成艺考拿了八个第一",
+        "onboard_time": 1721138059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462700,
+        "num": 462700,
+        "word": "上海恐龙户型房1套499万",
+        "onboard_time": 1721136019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377371,
+        "num": 377371,
+        "word": "苹果回应iPhone鬼手现象",
+        "onboard_time": 1721132658,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37667,
+        "num": 372993,
+        "word": "中国女排备战巴黎奥运画面",
+        "onboard_time": 1721138420,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1124416,
+        "num": 371441,
+        "word": "泰国一酒店发生枪击事件致6人死亡",
+        "onboard_time": 1721135178,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606754,
+        "num": 370668,
+        "word": "朱旺旺回应与李佳琦的关系",
+        "onboard_time": 1721134400,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369858,
+        "num": 369858,
+        "word": "马嘉祺在ABC中选择了D",
+        "onboard_time": 1721137700,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345064,
+        "num": 345064,
+        "word": "泰国被害女子姐姐发声",
+        "onboard_time": 1721133378,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302448,
+        "num": 302448,
+        "word": "刘耀文得知翔霖一队后的反应",
+        "onboard_time": 1721133498,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264755,
+        "num": 264755,
+        "word": "在日本海上漂流36小时中国女生自述",
+        "onboard_time": 1721129717,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236191,
+        "num": 236191,
+        "word": "金在中姐姐为隐瞒领养不过生日",
+        "onboard_time": 1721130678,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233507,
+        "num": 233507,
+        "word": "75岁独居老人1个月狂买38个快递",
+        "onboard_time": 1721131758,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188354,
+        "num": 232287,
+        "word": "赤水丰隆才是玱玹的王后吧",
+        "onboard_time": 1721131278,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184114,
+        "num": 229801,
+        "word": "姆巴佩模仿C罗",
+        "onboard_time": 1721136319,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464831,
+        "num": 227961,
+        "word": "朋友圈真的不要留太多电子宠物",
+        "onboard_time": 1721130557,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305316,
+        "num": 227219,
+        "word": "宋亚轩刘耀文包场抓娃娃",
+        "onboard_time": 1721139440,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225852,
+        "num": 225852,
+        "word": "怀疑射手座都喜欢这么穿",
+        "onboard_time": 1721134339,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209644,
+        "num": 209644,
+        "word": "李佳琦好像闺蜜不看好我男朋友的样子",
+        "onboard_time": 1721137879,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186907,
+        "num": 186907,
+        "word": "中方回应万斯称中国是美国最大威胁",
+        "onboard_time": 1721129957,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181470,
+        "num": 181470,
+        "word": "影响雷军造车的一本书",
+        "onboard_time": 1721138660,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167195,
+        "num": 167195,
+        "word": "女生剃光头蓄发5个月炸毛似海胆",
+        "onboard_time": 1721121499,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164837,
+        "num": 164837,
+        "word": "抓娃娃票房破6亿",
+        "onboard_time": 1721131579,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 163907,
+        "word": "一桌烧烤三个冠军一个徐志胜",
+        "onboard_time": 1721133078,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158412,
+        "num": 158412,
+        "word": "张新成干一行行一行",
+        "onboard_time": 1721137519,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67541,
+        "num": 157571,
+        "word": "百岁山符合国标和欧盟标准",
+        "onboard_time": 1721133800,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381418,
+        "num": 157567,
+        "word": "陶喆 讨厌红楼梦",
+        "onboard_time": 1721126779,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157548,
+        "num": 157548,
+        "word": "老师最不看好你 你却偏偏最争气",
+        "onboard_time": 1721132837,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156186,
+        "num": 156186,
+        "word": "阿拉蕾撞脸林妙可",
+        "onboard_time": 1721137099,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153009,
+        "num": 153009,
+        "word": "听说现在流行这样发旅行朋友圈",
+        "onboard_time": 1721137579,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150266,
+        "num": 150266,
+        "word": "恋与深空",
+        "onboard_time": 1721134818,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146096,
+        "num": 146096,
+        "word": "蓝盈莹在片场一秒落泪",
+        "onboard_time": 1721139199,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139913,
+        "num": 139913,
+        "word": "苏醒薛之谦为梅西发声",
+        "onboard_time": 1721105480,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "时代少年团对接回应演唱会",
+        "onboard_time": 1721134878,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134433,
+        "num": 134433,
+        "word": "林青霞自曝因安眠药意外跌倒",
+        "onboard_time": 1721132837,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131415,
+        "num": 131415,
+        "word": "相柳每天得扎九个丸子头吗",
+        "onboard_time": 1721137639,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129972,
+        "num": 129972,
+        "word": "涂山璟是个很好的结婚对象",
+        "onboard_time": 1721134818,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128043,
+        "num": 128043,
+        "word": "邓超儿子好像段奕宏",
+        "onboard_time": 1721131278,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125509,
+        "num": 125509,
+        "word": "看卢昱晓正骨默默放下二郎腿",
+        "onboard_time": 1721132479,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121239,
+        "num": 121239,
+        "word": "你多胖可能在妈妈肚子里就决定了",
+        "onboard_time": 1721108537,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119393,
+        "num": 119393,
+        "word": "鹿晗帮路人搬杠铃片",
+        "onboard_time": 1721127858,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118095,
+        "num": 118095,
+        "word": "为什么年轻人越来越喜欢旅游",
+        "onboard_time": 1721130557,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "中欧医疗3年亏70%还要发行医疗基金",
+        "onboard_time": 1721139140,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113205,
+        "num": 113205,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1721130498,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111731,
+        "num": 111731,
+        "word": "FPX战胜NIP",
+        "onboard_time": 1721139559,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样擘画全面深化改革开放#"
+    }
+  }
+}
