@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721134134989,
+  "endTime": 1721135900771,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1753553,
-      "num": 491114,
+      "num": 505619,
       "word": "秦彻 抄袭",
       "onboard_time": 1721130738,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1721099057,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1409284,
+      "num": 1148058,
+      "word": "上岸后发现教师这碗饭我真吃不了",
+      "onboard_time": 1721131218,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1404527,
@@ -153,14 +161,6 @@
       "onboard_time": 1721121499,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 925364,
-      "num": 1148058,
-      "word": "上岸后发现教师这碗饭我真吃不了",
-      "onboard_time": 1721131218,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 873003,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 583282,
-      "num": 319512,
+      "num": 337854,
       "word": "金在中姐姐为隐瞒领养不过生日",
       "onboard_time": 1721130678,
       "rank": 10,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551583,
+      "num": 1088253,
+      "word": "苹果回应iPhone鬼手现象",
+      "onboard_time": 1721132658,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 550551,
       "num": 550551,
       "word": "溴酸盐",
@@ -379,12 +387,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 521909,
+      "num": 521909,
+      "word": "在日本海上漂流36小时中国女生自述",
+      "onboard_time": 1721129717,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518822,
       "num": 518822,
       "word": "长相思2开分6.6",
       "onboard_time": 1721104819,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 513059,
+      "num": 274781,
+      "word": "朋友圈真的不要留太多电子宠物",
+      "onboard_time": 1721130557,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 507205,
@@ -401,6 +425,14 @@
       "onboard_time": 1721107399,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 499318,
+      "num": 344300,
+      "word": "金价再度大涨",
+      "onboard_time": 1721134038,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 497613,
@@ -459,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 470897,
-      "num": 470897,
-      "word": "在日本海上漂流36小时中国女生自述",
-      "onboard_time": 1721129717,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 469972,
+      "num": 342538,
+      "word": "刘耀文得知翔霖一队后的反应",
+      "onboard_time": 1721133498,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 462988,
@@ -481,6 +513,14 @@
       "onboard_time": 1721055198,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 460454,
+      "num": 460454,
+      "word": "泰国一酒店发生枪击事件致6人死亡",
+      "onboard_time": 1721135178,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455153,
@@ -531,8 +571,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 435626,
+      "num": 333447,
+      "word": "泰国被害女子姐姐发声",
+      "onboard_time": 1721133378,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432308,
-      "num": 300807,
+      "num": 378038,
       "word": "中方回应万斯称中国是美国最大威胁",
       "onboard_time": 1721129957,
       "rank": 12,
@@ -667,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364899,
+      "num": 331269,
+      "word": "朱旺旺回应与李佳琦的关系",
+      "onboard_time": 1721134400,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358550,
       "num": 295382,
       "word": "三伏天可适量多吃红色蔬果",
@@ -681,6 +737,14 @@
       "onboard_time": 1721114718,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353352,
+      "num": 353352,
+      "word": "75岁独居老人1个月狂买38个快递",
+      "onboard_time": 1721131758,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 349603,
@@ -795,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 310457,
-      "num": 236994,
-      "word": "朋友圈真的不要留太多电子宠物",
-      "onboard_time": 1721130557,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308673,
       "num": 308673,
       "word": "刘亦菲晒玫瑰周边",
@@ -817,6 +873,14 @@
       "onboard_time": 1721096898,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301711,
+      "num": 270362,
+      "word": "恋与深空",
+      "onboard_time": 1721134818,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 300653,
@@ -891,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280918,
+      "num": 280918,
+      "word": "一桌烧烤三个冠军一个徐志胜",
+      "onboard_time": 1721133078,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275934,
       "num": 106398,
       "word": "吴谨言王星越叼玫瑰花片段被删",
@@ -913,22 +985,6 @@
       "onboard_time": 1721096420,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 266980,
-      "num": 266980,
-      "word": "75岁独居老人1个月狂买38个快递",
-      "onboard_time": 1721131758,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 262993,
-      "num": 235019,
-      "word": "刘耀文得知翔霖一队后的反应",
-      "onboard_time": 1721133498,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 261713,
@@ -1003,19 +1059,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 243798,
-      "num": 243798,
-      "word": "苹果回应iPhone鬼手现象",
-      "onboard_time": 1721132658,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 239667,
       "num": 239667,
       "word": "你们看错位的吃这么好",
       "onboard_time": 1721101759,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237333,
+      "num": 237333,
+      "word": "编剧看了多少烂剧才写出的台词",
+      "onboard_time": 1721133317,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1025,6 +1081,14 @@
       "onboard_time": 1721127858,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235572,
+      "num": 235572,
+      "word": "时代少年团对接回应演唱会",
+      "onboard_time": 1721134878,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 233262,
@@ -1147,14 +1211,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212179,
-      "num": 212179,
-      "word": "一桌烧烤三个冠军一个徐志胜",
-      "onboard_time": 1721133078,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211209,
       "num": 211209,
       "word": "双高父母16岁儿子身高仅156竟因睡眠不足",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1721103318,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1721130498,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 198803,
@@ -1291,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192341,
+      "num": 192341,
+      "word": "怀疑射手座都喜欢这么穿",
+      "onboard_time": 1721134339,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191931,
       "num": 191931,
       "word": "唐诡西行 就这个诡味爽",
@@ -1323,14 +1395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190223,
-      "num": 190223,
-      "word": "泰国被害女子姐姐发声",
-      "onboard_time": 1721133378,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189714,
       "num": 189714,
       "word": "长相思2里的女性群像",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1721052919,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188559,
+      "num": 188559,
+      "word": "老师最不看好你 你却偏偏最争气",
+      "onboard_time": 1721132837,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 188514,
@@ -1371,12 +1443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183514,
-      "num": 183514,
-      "word": "以前谈恋爱是要交换QQ密码的",
-      "onboard_time": 1721130498,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 183148,
+      "num": 183148,
+      "word": "终于知道玱玹在忙什么了",
+      "onboard_time": 1721134638,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182315,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1721131098,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180502,
+      "num": 180502,
+      "word": "林青霞自曝因安眠药意外跌倒",
+      "onboard_time": 1721132837,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 179820,
@@ -1507,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171130,
-      "num": 171130,
-      "word": "林青霞自曝因安眠药意外跌倒",
-      "onboard_time": 1721132837,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169196,
       "num": 169196,
       "word": "终于知道年轻人为啥爱养宠物了",
@@ -1563,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164259,
+      "num": 164259,
+      "word": "为什么年轻人越来越喜欢旅游",
+      "onboard_time": 1721130557,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 163851,
       "num": 163851,
       "word": "骗子也受不了敷衍和冷暴力",
@@ -1595,28 +1675,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163083,
-      "num": 163083,
-      "word": "老师最不看好你 你却偏偏最争气",
-      "onboard_time": 1721132837,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162551,
       "num": 162551,
       "word": "肖战YSL广告大片",
       "onboard_time": 1721128699,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 161660,
-      "num": 161660,
-      "word": "为什么年轻人越来越喜欢旅游",
-      "onboard_time": 1721130557,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 159581,
@@ -1643,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155805,
+      "num": 155805,
+      "word": "TE击败AG晋级四强",
+      "onboard_time": 1721135299,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155420,
       "num": 155420,
       "word": "LGD会一直支持九尾",
@@ -1667,12 +1739,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152210,
+      "num": 152210,
+      "word": "涂山璟是个很好的结婚对象",
+      "onboard_time": 1721134818,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151889,
       "num": 151889,
       "word": "糟了被一只猫凶到了",
       "onboard_time": 1721123840,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150630,
+      "num": 150630,
+      "word": "陶喆翻红",
+      "onboard_time": 1721135059,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 149891,
@@ -1747,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145891,
+      "num": 145891,
+      "word": "你觉得小夭该原谅父母吗",
+      "onboard_time": 1721135599,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145835,
       "num": 271062,
       "word": "买金条遭遇不发货不退款",
@@ -1761,14 +1857,6 @@
       "onboard_time": 1721103919,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145587,
-      "num": 145587,
-      "word": "金价再度大涨",
-      "onboard_time": 1721134038,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 142729,
@@ -1811,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139649,
+      "num": 139649,
+      "word": "5个大人4个小孩入住两个标间被拒",
+      "onboard_time": 1721135719,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138857,
       "num": 138857,
       "word": "哥伦比亚球迷赛后争吵斗殴致5死",
@@ -1843,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137361,
+      "num": 137361,
+      "word": "娶这样的老婆吵架都得打自己",
+      "onboard_time": 1721134638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137197,
       "num": 137197,
       "word": "梅西希望能很快重返球场",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1721109917,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134981,
-      "num": 134981,
-      "word": "编剧看了多少烂剧才写出的台词",
-      "onboard_time": 1721133317,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 134770,
@@ -2372,7 +2468,7 @@
     },
     {
       "raw_hot": 81172,
-      "num": 296678,
+      "num": 352490,
       "word": "货车深夜侧翻他们选择停车上前",
       "onboard_time": 1721133078,
       "rank": 15,
@@ -2595,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63047,
+      "num": 469246,
+      "word": "暑期档电影票房破45亿",
+      "onboard_time": 1721133677,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63017,
       "num": 67581,
       "word": "王子奇王星越给沈月整无语了",
@@ -2763,8 +2867,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 34839,
-      "num": 126291,
+      "raw_hot": 36754,
+      "num": 349203,
       "word": "百岁山符合国标和欧盟标准",
       "onboard_time": 1721133800,
       "rank": 46,
@@ -2827,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24983,
-      "num": 327738,
-      "word": "暑期档电影票房破45亿",
-      "onboard_time": 1721133677,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 21644,
       "num": 154173,
       "word": "张朝阳对话世界顶尖物理科学家",
@@ -2844,7 +2940,7 @@
     },
     {
       "raw_hot": 21390,
-      "num": 509601,
+      "num": 517208,
       "word": "全面深化改革进行时",
       "onboard_time": 1721122699,
       "rank": 2,
@@ -2968,6 +3064,9 @@
     },
     {
       "word": "#习近平总书记这样擘画全面深化改革开放#"
+    },
+    {
+      "word": "#全面深化改革的根本目的#"
     }
   ]
 }
