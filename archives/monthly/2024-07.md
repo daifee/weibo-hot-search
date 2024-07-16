@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/16 18:18:33
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/16 18:34:54
 </p>
 </blockquote>
 <p>
@@ -2301,6 +2301,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%89%83%E5%85%89%E5%A4%B4%E8%93%84%E5%8F%915%E4%B8%AA%E6%9C%88%E7%82%B8%E6%AF%9B%E4%BC%BC%E6%B5%B7%E8%83%86%23" target="weibo">
+女生剃光头蓄发5个月炸毛似海胆（热度：926332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E8%BF%98%E5%9C%A8%E5%81%B7%E5%81%B7%E6%94%B6%E6%9D%A5%E7%94%B5%E6%98%BE%E7%A4%BA%E8%B4%B9%23" target="weibo">
 中国移动还在偷偷收来电显示费（热度：925391）
 </a>
@@ -2441,12 +2447,6 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E4%B9%B0%E6%88%BF%E5%AD%A9%E5%AD%90%E4%B9%9F%E8%AF%A5%E6%9C%89%E5%AD%A6%E4%B8%8A%23" target="weibo">
 专家称不买房孩子也该有学上（热度：896870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%89%83%E5%85%89%E5%A4%B4%E8%93%84%E5%8F%915%E4%B8%AA%E6%9C%88%E7%82%B8%E6%AF%9B%E4%BC%BC%E6%B5%B7%E8%83%86%23" target="weibo">
-女生剃光头蓄发5个月炸毛似海胆（热度：896303）
 </a>
 </li>
 
