@@ -1,0 +1,410 @@
+{
+  "runTime": 1721125113976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896303,
+        "num": 1143408,
+        "word": "女生剃光头蓄发5个月炸毛似海胆",
+        "onboard_time": 1721121499,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549436,
+        "num": 549436,
+        "word": "少年打球后心脏骤停一群医生冲了上去",
+        "onboard_time": 1721111058,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 21390,
+        "num": 509601,
+        "word": "全面深化改革进行时",
+        "onboard_time": 1721122699,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060024,
+        "num": 509411,
+        "word": "男子婚后每天6小时162公里跨城上班",
+        "onboard_time": 1721119819,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507205,
+        "num": 507205,
+        "word": "李佳琦选朱旺旺做助播的原因",
+        "onboard_time": 1721121318,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480376,
+        "num": 480376,
+        "word": "王嘉尔自曝很少有真心朋友",
+        "onboard_time": 1721121619,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12944,
+        "num": 442776,
+        "word": "144小时过境免签口岸是哪37个",
+        "onboard_time": 1721096659,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420921,
+        "num": 420921,
+        "word": "溴酸盐",
+        "onboard_time": 1721119280,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357438,
+        "num": 357438,
+        "word": "你多胖可能在妈妈肚子里就决定了",
+        "onboard_time": 1721108537,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38460,
+        "num": 354261,
+        "word": "交警用海姆立克法10秒救了一条命",
+        "onboard_time": 1721122819,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 592258,
+        "num": 348731,
+        "word": "苏醒薛之谦为梅西发声",
+        "onboard_time": 1721105480,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 587110,
+        "num": 341776,
+        "word": "吴昕不知道蒲熠星公开了女朋友",
+        "onboard_time": 1721117718,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431189,
+        "num": 338812,
+        "word": "张纪中 很难杀的一位中国男人",
+        "onboard_time": 1721122999,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363736,
+        "num": 331811,
+        "word": "陈妍希随身携带体重秤",
+        "onboard_time": 1721123240,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327411,
+        "num": 327411,
+        "word": "姆巴佩与皇马正式签约",
+        "onboard_time": 1721123479,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39195,
+        "num": 312132,
+        "word": "提到德国车你能想到什么",
+        "onboard_time": 1721124199,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311707,
+        "num": 311707,
+        "word": "这次河南暴雨有一定极端性",
+        "onboard_time": 1721109018,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303402,
+        "num": 303402,
+        "word": "拜登称同意9月与特朗普再次辩论",
+        "onboard_time": 1721115618,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236554,
+        "num": 236554,
+        "word": "李东受贿1.08亿余元被判无期",
+        "onboard_time": 1721123058,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233125,
+        "num": 233125,
+        "word": "特朗普右耳包扎绷带露面",
+        "onboard_time": 1721099598,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 291134,
+        "num": 225190,
+        "word": "建议原生家庭一般的人赚钱多去旅游",
+        "onboard_time": 1721123960,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252814,
+        "num": 224266,
+        "word": "唐朝诡事录说要拍45季",
+        "onboard_time": 1721122038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216513,
+        "num": 216513,
+        "word": "姆巴佩皇马亮相仪式",
+        "onboard_time": 1721123898,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210961,
+        "num": 210961,
+        "word": "TWS BIGBANG",
+        "onboard_time": 1721123419,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198042,
+        "num": 198042,
+        "word": "黄晓明偷偷学英语了",
+        "onboard_time": 1721124018,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197037,
+        "num": 197037,
+        "word": "谁能发明一个戴丸子头的头盔",
+        "onboard_time": 1721121138,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195666,
+        "num": 195666,
+        "word": "邓为曾在片场被代拍晃眼",
+        "onboard_time": 1721124678,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194198,
+        "num": 194198,
+        "word": "赵丽颖短发进组",
+        "onboard_time": 1721112377,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59737,
+        "num": 185064,
+        "word": "植物系穿搭",
+        "onboard_time": 1721123960,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 179820,
+        "num": 179820,
+        "word": "新加坡孩子从小学就开始高考",
+        "onboard_time": 1721123179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173085,
+        "num": 173085,
+        "word": "檀健次可以是原画也可以是原告",
+        "onboard_time": 1721124139,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172451,
+        "num": 172451,
+        "word": "百度回应武汉萝卜快跑停运",
+        "onboard_time": 1721117358,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171056,
+        "num": 171056,
+        "word": "统一大跌10%",
+        "onboard_time": 1721116999,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168375,
+        "num": 168375,
+        "word": "400多件裙子退货店家损失近8000元",
+        "onboard_time": 1721096359,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163461,
+        "num": 163461,
+        "word": "姆巴佩今日亮相皇马",
+        "onboard_time": 1721121079,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162659,
+        "num": 162659,
+        "word": "秦岚 别哭我也记得你",
+        "onboard_time": 1721118258,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157962,
+        "num": 157962,
+        "word": "索斯盖特辞职",
+        "onboard_time": 1721124979,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151138,
+        "num": 151138,
+        "word": "广州地铁上有人开始卖黄皮了",
+        "onboard_time": 1721124798,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149891,
+        "num": 149891,
+        "word": "射手座讨厌什么",
+        "onboard_time": 1721121440,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149564,
+        "num": 149564,
+        "word": "在国外吃螺蛳粉紧张又刺激",
+        "onboard_time": 1721120299,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147458,
+        "num": 147458,
+        "word": "赵露思白色吊带短裤造型",
+        "onboard_time": 1721123719,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143739,
+        "num": 143739,
+        "word": "百岁山法务部门已介入",
+        "onboard_time": 1721113639,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143276,
+        "num": 143276,
+        "word": "王源消息未读68条",
+        "onboard_time": 1721112797,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140524,
+        "num": 140524,
+        "word": "终于知道年轻人为啥爱养宠物了",
+        "onboard_time": 1721123960,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139638,
+        "num": 139638,
+        "word": "糟了被一只猫凶到了",
+        "onboard_time": 1721123840,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130541,
+        "num": 130541,
+        "word": "动漫吻戏名场面 新兰第一",
+        "onboard_time": 1721119280,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 127261,
+        "num": 127261,
+        "word": "朱一龙看邱天朱珠贴身舞的反应",
+        "onboard_time": 1721124739,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122359,
+        "num": 122359,
+        "word": "李汶翰木子洋打橄榄球",
+        "onboard_time": 1721125039,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117590,
+        "num": 117590,
+        "word": "秦彻 文案",
+        "onboard_time": 1721107698,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113324,
+        "num": 113324,
+        "word": "新疆惊现巨大哈密瓜为模型",
+        "onboard_time": 1721124678,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革的科学思想方法#"
+    }
+  }
+}
