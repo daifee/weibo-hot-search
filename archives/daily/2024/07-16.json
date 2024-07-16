@@ -1,14 +1,22 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721093088728,
+  "endTime": 1721094382464,
   "band_list": [
     {
       "raw_hot": 1291581,
-      "num": 206793,
+      "num": 231122,
       "word": "特朗普被提名总统候选人",
       "onboard_time": 1721089638,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1217072,
+      "num": 309172,
+      "word": "统一回应方便面酸菜中疑出现鼠头",
+      "onboard_time": 1721091857,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1044847,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 931287,
-      "num": 205200,
+      "num": 227841,
       "word": "不建议穿短裤去电影院的原因",
       "onboard_time": 1721086034,
       "rank": 20,
@@ -43,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 701117,
+      "num": 701117,
+      "word": "抓娃娃票房",
+      "onboard_time": 1721092278,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 694376,
       "num": 921100,
       "word": "迪丽热巴不喝冰川水的原因",
@@ -51,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 644731,
-      "num": 309172,
-      "word": "统一回应方便面酸菜中疑出现鼠头",
-      "onboard_time": 1721091857,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 646492,
+      "num": 304942,
+      "word": "黄子佼翻供不认罪",
+      "onboard_time": 1721092219,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 605441,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 592520,
-      "num": 197334,
+      "num": 221734,
       "word": "长期烧水喝和买桶装水喝哪个更健康",
       "onboard_time": 1721053340,
       "rank": 20,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 438173,
-      "num": 200999,
+      "num": 224622,
       "word": "瘦子同事带的饭一天比一天离谱",
       "onboard_time": 1721086155,
       "rank": 23,
@@ -105,14 +121,6 @@
       "onboard_time": 1721088017,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 422901,
-      "num": 304942,
-      "word": "黄子佼翻供不认罪",
-      "onboard_time": 1721092219,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 410587,
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392628,
-      "num": 392628,
-      "word": "抓娃娃票房",
-      "onboard_time": 1721092278,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 401439,
+      "num": 401439,
+      "word": "女生防晒过度患上骨质疏松",
+      "onboard_time": 1721089938,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 378807,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349057,
+      "num": 349057,
+      "word": "九尾说打完就歇了",
+      "onboard_time": 1721092158,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338738,
       "num": 338738,
       "word": "旅行有一种没苦硬吃的感觉",
       "onboard_time": 1721069772,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 325400,
-      "num": 325400,
-      "word": "女生防晒过度患上骨质疏松",
-      "onboard_time": 1721089938,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 323391,
@@ -187,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287900,
+      "num": 287900,
+      "word": "打4份工奶奶丢失2400元工资大哭",
+      "onboard_time": 1721092577,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285747,
-      "num": 195014,
+      "num": 219336,
       "word": "特朗普遭刺杀细节曝光",
       "onboard_time": 1721090419,
       "rank": 24,
@@ -228,19 +244,19 @@
     },
     {
       "raw_hot": 253735,
-      "num": 191660,
+      "num": 196799,
       "word": "粉丝为肖战做梗图",
       "onboard_time": 1721088077,
       "rank": 25,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231074,
-      "num": 231074,
-      "word": "九尾说打完就歇了",
-      "onboard_time": 1721092158,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 249632,
+      "num": 249632,
+      "word": "南通巨响",
+      "onboard_time": 1721092219,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228052,
@@ -256,6 +272,14 @@
       "word": "孟子义原名孟子乂",
       "onboard_time": 1721046677,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216149,
+      "num": 216149,
+      "word": "于文文 乘风给了自己全新体验",
+      "onboard_time": 1721092577,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -315,12 +339,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174501,
+      "num": 174501,
+      "word": "崔永熙终于出场了",
+      "onboard_time": 1721093058,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167654,
       "num": 395609,
       "word": "九尾缺席沙特大名单",
       "onboard_time": 1721044098,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "骗子也受不了敷衍和冷暴力",
+      "onboard_time": 1721090178,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163527,
+      "num": 163527,
+      "word": "游客手机掉落大猩猩帮捡回放筐里",
+      "onboard_time": 1721090899,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163149,
@@ -331,20 +379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160718,
-      "num": 160718,
-      "word": "南通巨响",
-      "onboard_time": 1721092219,
-      "rank": 30,
+      "raw_hot": 153906,
+      "num": 153906,
+      "word": "开着空调闭门做饭一家五口中毒",
+      "onboard_time": 1721093898,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156234,
-      "num": 156234,
-      "word": "骗子也受不了敷衍和冷暴力",
-      "onboard_time": 1721090178,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 152842,
+      "num": 152842,
+      "word": "第五次雷军年度演讲本周五举办",
+      "onboard_time": 1721093716,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 148381,
@@ -355,28 +403,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147475,
-      "num": 147475,
-      "word": "游客手机掉落大猩猩帮捡回放筐里",
-      "onboard_time": 1721090899,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142294,
-      "num": 142294,
-      "word": "打4份工奶奶丢失2400元工资大哭",
-      "onboard_time": 1721092577,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141762,
       "num": 141762,
       "word": "国家助学贷款在校期间本息都不用还",
       "onboard_time": 1721052799,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137596,
+      "num": 137596,
+      "word": "给12岁失业的弟找了份高薪工作",
+      "onboard_time": 1721094077,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 134770,
@@ -401,14 +441,6 @@
       "onboard_time": 1721086155,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133822,
-      "num": 133822,
-      "word": "于文文 乘风给了自己全新体验",
-      "onboard_time": 1721092577,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 132588,
@@ -441,6 +473,14 @@
       "onboard_time": 1721037438,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121300,
+      "num": 121300,
+      "word": "社旗暴雨",
+      "onboard_time": 1721093178,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115439,
@@ -491,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106039,
+      "num": 106039,
+      "word": "郑州一地摊盒饭顾客排长龙",
+      "onboard_time": 1721091319,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104595,
       "num": 104595,
       "word": "猫 没事哒",
@@ -499,11 +547,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100972,
-      "num": 100972,
-      "word": "郑州一地摊盒饭顾客排长龙",
-      "onboard_time": 1721091319,
-      "rank": 44,
+      "raw_hot": 101281,
+      "num": 101281,
+      "word": "妈妈等了42年的宝贝回来了",
+      "onboard_time": 1721093957,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -547,20 +595,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92459,
+      "num": 92459,
+      "word": "这个团奥运冠军含量高达42",
+      "onboard_time": 1721091619,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88867,
       "num": 91895,
       "word": "霸王茶姬被曝正在业内大量挖人",
       "onboard_time": 1721023878,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87540,
-      "num": 87540,
-      "word": "崔永熙终于出场了",
-      "onboard_time": 1721093058,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 83297,
@@ -715,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62519,
+      "num": 336779,
+      "word": "浙江政务APP进化到一次都不用跑了",
+      "onboard_time": 1721092819,
+      "rank": 9,
+      "category": "社会新闻,社会正能量"
+    },
+    {
       "raw_hot": 62419,
       "num": 92049,
       "word": "王者梦之队大名单",
@@ -787,20 +843,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45689,
+      "num": 288256,
+      "word": "萌兰单脚荡秋千主打一个松弛感",
+      "onboard_time": 1721084655,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41358,
       "num": 92018,
       "word": "杨幂头伏营业",
       "onboard_time": 1721047638,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41021,
-      "num": 142693,
-      "word": "萌兰单脚荡秋千主打一个松弛感",
-      "onboard_time": 1721084655,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39501,
@@ -819,16 +875,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22621,
-      "num": 311183,
-      "word": "浙江政务APP进化到一次都不用跑了",
-      "onboard_time": 1721092819,
-      "rank": 9,
-      "category": "社会新闻,社会正能量"
-    },
-    {
       "raw_hot": 21341,
-      "num": 680801,
+      "num": 712106,
       "word": "全面深化改革的实践续篇",
       "onboard_time": 1721048837,
       "rank": 2,
