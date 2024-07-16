@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721135900771,
+  "endTime": 1721136851281,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -416,6 +416,14 @@
       "word": "贷款10万元被收了2.9万元服务费",
       "onboard_time": 1721003059,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1079129,
+      "num": 1172660,
+      "word": "泰国一酒店发生枪击事件致6人死亡",
+      "onboard_time": 1721135178,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592028,
+      "num": 592028,
+      "word": "金价再度大涨",
+      "onboard_time": 1721134038,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 591838,
       "num": 407234,
       "word": "拜登下令独立审查特朗普遭枪击集会",
@@ -1227,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575795,
+      "num": 331269,
+      "word": "朱旺旺回应与李佳琦的关系",
+      "onboard_time": 1721134400,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571640,
       "num": 357441,
       "word": "疑在泰被撕票中国女子最后监控画面",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1721011338,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566665,
+      "num": 1088253,
+      "word": "苹果回应iPhone鬼手现象",
+      "onboard_time": 1721132658,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 560868,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1721098157,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551583,
-      "num": 1088253,
-      "word": "苹果回应iPhone鬼手现象",
-      "onboard_time": 1721132658,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 551474,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1721026397,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533289,
+      "num": 274781,
+      "word": "朋友圈真的不要留太多电子宠物",
+      "onboard_time": 1721130557,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 532614,
@@ -1499,14 +1531,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 513059,
-      "num": 274781,
-      "word": "朋友圈真的不要留太多电子宠物",
-      "onboard_time": 1721130557,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 510454,
       "num": 510454,
       "word": "王俊凯将出席英雄联盟手游2周年庆典",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1721107399,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 499318,
-      "num": 344300,
-      "word": "金价再度大涨",
-      "onboard_time": 1721134038,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 497613,
@@ -1736,14 +1752,6 @@
       "word": "哈药六厂已接待90万游客",
       "onboard_time": 1720946122,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460454,
-      "num": 460454,
-      "word": "泰国一酒店发生枪击事件致6人死亡",
-      "onboard_time": 1721135178,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2107,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404113,
+      "num": 404113,
+      "word": "编剧看了多少烂剧才写出的台词",
+      "onboard_time": 1721133317,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401439,
       "num": 401439,
       "word": "女生防晒过度患上骨质疏松",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1721109077,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364899,
-      "num": 331269,
-      "word": "朱旺旺回应与李佳琦的关系",
-      "onboard_time": 1721134400,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 362939,
@@ -2819,6 +2827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 292300,
+      "num": 292300,
+      "word": "5个大人4个小孩入住两个标间被拒",
+      "onboard_time": 1721135719,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291626,
       "num": 291626,
       "word": "鹭卓巡演官宣",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1721052439,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268362,
+      "num": 217284,
+      "word": "怀疑射手座都喜欢这么穿",
+      "onboard_time": 1721134339,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 265253,
@@ -3488,14 +3512,6 @@
       "word": "你们看错位的吃这么好",
       "onboard_time": 1721101759,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 237333,
-      "num": 237333,
-      "word": "编剧看了多少烂剧才写出的台词",
-      "onboard_time": 1721133317,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -4339,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197256,
+      "num": 197256,
+      "word": "你觉得小夭该原谅父母吗",
+      "onboard_time": 1721135599,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196507,
       "num": 196507,
       "word": "黄子弘凡赵今麦有自己的获胜公式",
@@ -4483,14 +4507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192341,
-      "num": 192341,
-      "word": "怀疑射手座都喜欢这么穿",
-      "onboard_time": 1721134339,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192330,
       "num": 192330,
       "word": "丁真说天天都是锅怎么都洗不完",
@@ -4513,6 +4529,14 @@
       "onboard_time": 1721021238,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191587,
+      "num": 191587,
+      "word": "上海恐龙户型房1套499万",
+      "onboard_time": 1721136019,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191422,
@@ -4867,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178157,
+      "num": 178157,
+      "word": "姆巴佩模仿C罗",
+      "onboard_time": 1721136319,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178096,
       "num": 178096,
       "word": "檀健次可以是原画也可以是原告",
@@ -5163,6 +5195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168365,
+      "num": 168365,
+      "word": "为什么年轻人越来越喜欢旅游",
+      "onboard_time": 1721130557,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168277,
       "num": 168277,
       "word": "特朗普遭遇暗杀最新视频曝光",
@@ -5297,14 +5337,6 @@
       "onboard_time": 1720878798,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164259,
-      "num": 164259,
-      "word": "为什么年轻人越来越喜欢旅游",
-      "onboard_time": 1721130557,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 163851,
@@ -5907,14 +5939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145891,
-      "num": 145891,
-      "word": "你觉得小夭该原谅父母吗",
-      "onboard_time": 1721135599,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145835,
       "num": 271062,
       "word": "买金条遭遇不发货不退款",
@@ -6067,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140634,
+      "num": 140634,
+      "word": "娶这样的老婆吵架都得打自己",
+      "onboard_time": 1721134638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140337,
       "num": 140337,
       "word": "建议有Switch的都这样玩",
@@ -6097,14 +6129,6 @@
       "onboard_time": 1720956559,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139649,
-      "num": 139649,
-      "word": "5个大人4个小孩入住两个标间被拒",
-      "onboard_time": 1721135719,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139511,
@@ -6193,14 +6217,6 @@
       "onboard_time": 1721007617,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137361,
-      "num": 137361,
-      "word": "娶这样的老婆吵架都得打自己",
-      "onboard_time": 1721134638,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 137197,
@@ -6483,8 +6499,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 129966,
-      "num": 129966,
+      "raw_hot": 130139,
+      "num": 130139,
       "word": "抓娃娃票房破6亿",
       "onboard_time": 1721131579,
       "rank": 43,
@@ -7803,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70038,
+      "num": 469246,
+      "word": "暑期档电影票房破45亿",
+      "onboard_time": 1721133677,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70005,
       "num": 968126,
       "word": "引领新时代改革开放",
@@ -7929,14 +7953,6 @@
       "onboard_time": 1720882939,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63047,
-      "num": 469246,
-      "word": "暑期档电影票房破45亿",
-      "onboard_time": 1721133677,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 62546,
@@ -8163,6 +8179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52891,
+      "num": 349203,
+      "word": "百岁山符合国标和欧盟标准",
+      "onboard_time": 1721133800,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52812,
       "num": 420001,
       "word": "夜跑夫妻狂奔百米营救落水女子",
@@ -8257,6 +8281,14 @@
       "onboard_time": 1721030778,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47714,
+      "num": 223821,
+      "word": "张桂梅带女高师生体验消防训练",
+      "onboard_time": 1721136678,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 47665,
@@ -8425,14 +8457,6 @@
       "onboard_time": 1720888876,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36754,
-      "num": 349203,
-      "word": "百岁山符合国标和欧盟标准",
-      "onboard_time": 1721133800,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36512,
@@ -8912,6 +8936,14 @@
       "word": "每一秒都是奋进的中国",
       "onboard_time": 1721034439,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2117,
+      "num": 297010,
+      "word": "一篇近半个世纪的工作总结",
+      "onboard_time": 1721033418,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
