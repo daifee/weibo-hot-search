@@ -1,7 +1,47 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721086495418,
+  "endTime": 1721093088728,
   "band_list": [
+    {
+      "raw_hot": 1291581,
+      "num": 206793,
+      "word": "特朗普被提名总统候选人",
+      "onboard_time": 1721089638,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1044847,
+      "num": 1167175,
+      "word": "女子机票降3000元起飞前买低退高",
+      "onboard_time": 1721085374,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931287,
+      "num": 205200,
+      "word": "不建议穿短裤去电影院的原因",
+      "onboard_time": 1721086034,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 810543,
+      "num": 810543,
+      "word": "马丽影史首位票房破200亿女主演",
+      "onboard_time": 1721087057,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 707337,
+      "num": 309324,
+      "word": "特朗普宣布万斯为竞选搭档",
+      "onboard_time": 1721087298,
+      "rank": 10,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 694376,
       "num": 921100,
@@ -11,20 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644731,
+      "num": 309172,
+      "word": "统一回应方便面酸菜中疑出现鼠头",
+      "onboard_time": 1721091857,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605441,
+      "num": 605441,
+      "word": "101岁爷爷给55岁孙子雨中送伞",
+      "onboard_time": 1721086515,
+      "rank": 3,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 592520,
-      "num": 106648,
+      "num": 197334,
       "word": "长期烧水喝和买桶装水喝哪个更健康",
       "onboard_time": 1721053340,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 509133,
-      "num": 77759,
-      "word": "不建议穿短裤去电影院的原因",
-      "onboard_time": 1721086034,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 462947,
@@ -36,23 +84,63 @@
     },
     {
       "raw_hot": 454478,
-      "num": 137428,
+      "num": 303227,
       "word": "劳斯莱斯传奇设计师被刺身亡",
       "onboard_time": 1721053699,
       "rank": 10,
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 438173,
+      "num": 200999,
+      "word": "瘦子同事带的饭一天比一天离谱",
+      "onboard_time": 1721086155,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 432079,
+      "num": 307070,
+      "word": "共和党正式提名万斯为副总统候选人",
+      "onboard_time": 1721088017,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 422901,
+      "num": 304942,
+      "word": "黄子佼翻供不认罪",
+      "onboard_time": 1721092219,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410587,
-      "num": 141599,
+      "num": 302880,
       "word": "浙江36岁男子洗牙查出白血病",
       "onboard_time": 1721084594,
       "rank": 10,
       "category": "健康医疗"
     },
     {
+      "raw_hot": 410253,
+      "num": 410253,
+      "word": "广东女coser地铁被告知需卸妆",
+      "onboard_time": 1721086876,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392628,
+      "num": 392628,
+      "word": "抓娃娃票房",
+      "onboard_time": 1721092278,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378807,
-      "num": 133139,
+      "num": 208916,
       "word": "特朗普对拜登来电表示感谢",
       "onboard_time": 1721085076,
       "rank": 14,
@@ -60,7 +148,7 @@
     },
     {
       "raw_hot": 349603,
-      "num": 131081,
+      "num": 149605,
       "word": "日本17岁女孩误拍他人惨遭杀害",
       "onboard_time": 1721042777,
       "rank": 11,
@@ -73,6 +161,14 @@
       "onboard_time": 1721069772,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 325400,
+      "num": 325400,
+      "word": "女生防晒过度患上骨质疏松",
+      "onboard_time": 1721089938,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 323391,
@@ -88,6 +184,30 @@
       "word": "北京一幼儿园突遇搬迁遭家长集体反对",
       "onboard_time": 1721052380,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285747,
+      "num": 195014,
+      "word": "特朗普遭刺杀细节曝光",
+      "onboard_time": 1721090419,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 284936,
+      "num": 284936,
+      "word": "原著相柳吻了小夭额头",
+      "onboard_time": 1721086876,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283502,
+      "num": 283502,
+      "word": "专家回应网传天青牛蟒再现凉山",
+      "onboard_time": 1721085374,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -107,20 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253735,
+      "num": 191660,
+      "word": "粉丝为肖战做梗图",
+      "onboard_time": 1721088077,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231074,
+      "num": 231074,
+      "word": "九尾说打完就歇了",
+      "onboard_time": 1721092158,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228052,
       "num": 124781,
       "word": "檀健次工作室又发刀了",
       "onboard_time": 1721056340,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224161,
-      "num": 70849,
-      "word": "女子机票降3000元起飞前买低退高",
-      "onboard_time": 1721085374,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217037,
@@ -139,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191101,
+      "num": 191101,
+      "word": "抓娃娃连续3天单日票房破亿",
+      "onboard_time": 1721089158,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191043,
       "num": 191043,
       "word": "秦彻 喵喵牌",
@@ -153,6 +289,22 @@
       "onboard_time": 1721052919,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184432,
+      "num": 184432,
+      "word": "失眠为什么建议把脚露外面",
+      "onboard_time": 1721061676,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176001,
+      "num": 176001,
+      "word": "只有小动物会不厌其烦地回应你",
+      "onboard_time": 1721090359,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 175073,
@@ -179,12 +331,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150005,
-      "num": 70847,
-      "word": "专家回应网传天青牛蟒再现凉山",
-      "onboard_time": 1721085374,
-      "rank": 31,
+      "raw_hot": 160718,
+      "num": 160718,
+      "word": "南通巨响",
+      "onboard_time": 1721092219,
+      "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156234,
+      "num": 156234,
+      "word": "骗子也受不了敷衍和冷暴力",
+      "onboard_time": 1721090178,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 148381,
@@ -193,6 +353,22 @@
       "onboard_time": 1721085976,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147475,
+      "num": 147475,
+      "word": "游客手机掉落大猩猩帮捡回放筐里",
+      "onboard_time": 1721090899,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142294,
+      "num": 142294,
+      "word": "打4份工奶奶丢失2400元工资大哭",
+      "onboard_time": 1721092577,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141762,
@@ -209,6 +385,30 @@
       "onboard_time": 1721050761,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 134638,
+      "word": "邓为急出手语",
+      "onboard_time": 1721090119,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133946,
+      "num": 133946,
+      "word": "韩国开始宣传成语了吗",
+      "onboard_time": 1721086155,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "于文文 乘风给了自己全新体验",
+      "onboard_time": 1721092577,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 132588,
@@ -243,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119919,
-      "num": 92176,
-      "word": "失眠为什么建议把脚露外面",
-      "onboard_time": 1721061676,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 115439,
       "num": 115439,
       "word": "小夭给玱玹砸了一辈子",
@@ -259,11 +451,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109835,
-      "num": 75806,
-      "word": "瘦子同事带的饭一天比一天离谱",
-      "onboard_time": 1721086155,
-      "rank": 23,
+      "raw_hot": 111996,
+      "num": 111996,
+      "word": "延时摄影定格朱唇轻启瞬间",
+      "onboard_time": 1721092399,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 110933,
+      "num": 110933,
+      "word": "猫咪真是肉眼可见的思念主人",
+      "onboard_time": 1721085194,
+      "rank": 27,
       "category": "幽默"
     },
     {
@@ -283,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106501,
+      "num": 106501,
+      "word": "克莱在独行侠打首发",
+      "onboard_time": 1721092758,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104595,
       "num": 104595,
       "word": "猫 没事哒",
@@ -291,12 +499,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100972,
+      "num": 100972,
+      "word": "郑州一地摊盒饭顾客排长龙",
+      "onboard_time": 1721091319,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100966,
+      "num": 100966,
+      "word": "婚假怎么休最划算",
+      "onboard_time": 1721086756,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100905,
       "num": 100905,
       "word": "相柳九命九脸",
       "onboard_time": 1721050820,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99146,
+      "num": 99146,
+      "word": "品牌方发的迪丽热巴",
+      "onboard_time": 1721086095,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 94678,
@@ -323,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84306,
-      "num": 74174,
-      "word": "猫咪真是肉眼可见的思念主人",
-      "onboard_time": 1721085194,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 87540,
+      "num": 87540,
+      "word": "崔永熙终于出场了",
+      "onboard_time": 1721093058,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83297,
@@ -475,22 +707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64519,
-      "num": 64519,
-      "word": "韩国开始宣传成语了吗",
-      "onboard_time": 1721086155,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 64058,
-      "num": 64058,
-      "word": "品牌方发的迪丽热巴",
-      "onboard_time": 1721086095,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63017,
       "num": 67581,
       "word": "王子奇王星越给沈月整无语了",
@@ -579,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41021,
+      "num": 142693,
+      "word": "萌兰单脚荡秋千主打一个松弛感",
+      "onboard_time": 1721084655,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39501,
       "num": 59990,
       "word": "ins爆火双麻花辫",
@@ -595,12 +819,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22600,
-      "num": 142693,
-      "word": "萌兰单脚荡秋千主打一个松弛感",
-      "onboard_time": 1721084655,
+      "raw_hot": 22621,
+      "num": 311183,
+      "word": "浙江政务APP进化到一次都不用跑了",
+      "onboard_time": 1721092819,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "社会新闻,社会正能量"
+    },
+    {
+      "raw_hot": 21341,
+      "num": 680801,
+      "word": "全面深化改革的实践续篇",
+      "onboard_time": 1721048837,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21289,
@@ -625,14 +857,6 @@
       "onboard_time": 1721058676,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17370,
-      "num": 308330,
-      "word": "全面深化改革的实践续篇",
-      "onboard_time": 1721048837,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16776,
