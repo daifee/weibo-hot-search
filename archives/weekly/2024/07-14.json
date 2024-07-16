@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721129666566,
+  "endTime": 1721133367459,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -145,6 +145,14 @@
       "onboard_time": 1721019920,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1753553,
+      "num": 491114,
+      "word": "秦彻 抄袭",
+      "onboard_time": 1721130738,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1727687,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873003,
+      "num": 1125613,
+      "word": "陶喆 讨厌红楼梦",
+      "onboard_time": 1721126779,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 868612,
       "num": 868612,
       "word": "原来教师编面试是一场沉浸式表演",
@@ -721,14 +737,6 @@
       "onboard_time": 1721048899,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785086,
-      "num": 1125613,
-      "word": "陶喆 讨厌红楼梦",
-      "onboard_time": 1721126779,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 781930,
@@ -931,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 676661,
+      "num": 1108265,
+      "word": "新疆惊现巨大哈密瓜为模型",
+      "onboard_time": 1721124678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676354,
       "num": 888000,
       "word": "抓娃娃",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1720937843,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 649003,
+      "num": 649003,
+      "word": "上岸后发现教师这碗饭我真吃不了",
+      "onboard_time": 1721131218,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 647942,
@@ -1208,6 +1232,14 @@
       "word": "荣梓杉 北电新生群",
       "onboard_time": 1720936284,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570960,
+      "num": 301407,
+      "word": "金在中姐姐为隐瞒领养不过生日",
+      "onboard_time": 1721130678,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1603,14 +1635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 478981,
-      "num": 478981,
-      "word": "新疆惊现巨大哈密瓜为模型",
-      "onboard_time": 1721124678,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472140,
       "num": 472140,
       "word": "佟大为让非诚勿扰女嘉宾向黄亦玫学习",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1721006480,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470897,
+      "num": 470897,
+      "word": "在日本海上漂流36小时中国女生自述",
+      "onboard_time": 1721129717,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470015,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1721086155,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438128,
+      "num": 300339,
+      "word": "梁博更新",
+      "onboard_time": 1721129838,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 437649,
@@ -1963,6 +2003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409328,
+      "num": 298938,
+      "word": "中方回应万斯称中国是美国最大威胁",
+      "onboard_time": 1721129957,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407629,
       "num": 371164,
       "word": "黄晓明眼镜别摘了",
@@ -2025,6 +2073,22 @@
       "onboard_time": 1720913475,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 396793,
+      "num": 396793,
+      "word": "赤水丰隆才是玱玹的王后吧",
+      "onboard_time": 1721131278,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 390320,
+      "num": 390320,
+      "word": "曝CUBE贷款续约gidle",
+      "onboard_time": 1721130138,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 389645,
@@ -2715,6 +2779,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 290707,
+      "num": 290707,
+      "word": "邓为钻石脸链",
+      "onboard_time": 1721128098,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288917,
+      "num": 298282,
+      "word": "王者荣耀梦之队",
+      "onboard_time": 1721132358,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288696,
       "num": 260094,
       "word": "韩廷办公室的床",
@@ -2833,14 +2913,6 @@
       "onboard_time": 1720925059,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 282825,
-      "num": 282825,
-      "word": "邓为钻石脸链",
-      "onboard_time": 1721128098,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 282812,
@@ -3019,6 +3091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264736,
+      "num": 236994,
+      "word": "朋友圈真的不要留太多电子宠物",
+      "onboard_time": 1721130557,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263381,
       "num": 263381,
       "word": "杨迪猜中TFBOYS宠爱",
@@ -3081,6 +3161,14 @@
       "onboard_time": 1721121138,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 256618,
+      "num": 256618,
+      "word": "鞠婧祎官方对接",
+      "onboard_time": 1721129237,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 256387,
@@ -3355,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235601,
+      "num": 235601,
+      "word": "鹿晗帮路人搬杠铃片",
+      "onboard_time": 1721127858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235561,
       "num": 235561,
       "word": "韩东君第一次被女生抱起来",
@@ -3563,6 +3659,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 219703,
+      "num": 219703,
+      "word": "75岁独居老人1个月狂买38个快递",
+      "onboard_time": 1721131758,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219571,
       "num": 409423,
       "word": "她从死神手里抢回的学生读大学了",
@@ -3675,14 +3779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213167,
-      "num": 213167,
-      "word": "鹿晗帮路人搬杠铃片",
-      "onboard_time": 1721127858,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213063,
       "num": 213063,
       "word": "三伏天谨记三忌三宜",
@@ -3729,6 +3825,14 @@
       "onboard_time": 1720971438,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210219,
+      "num": 210219,
+      "word": "苹果回应iPhone鬼手现象",
+      "onboard_time": 1721132658,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 210071,
@@ -3793,14 +3897,6 @@
       "onboard_time": 1721025439,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206785,
-      "num": 205641,
-      "word": "鞠婧祎官方对接",
-      "onboard_time": 1721129237,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 206213,
@@ -4235,6 +4331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194988,
+      "num": 194988,
+      "word": "邓超儿子好像段奕宏",
+      "onboard_time": 1721131278,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194279,
       "num": 194279,
       "word": "青春没有售价少白男模上架",
@@ -4443,6 +4547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188514,
+      "num": 188514,
+      "word": "王俊凯合照站成人形立牌",
+      "onboard_time": 1721132119,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188382,
       "num": 188382,
       "word": "檀健次怼脸镜头",
@@ -4587,6 +4699,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 181448,
+      "num": 181448,
+      "word": "朱旺旺边哭边拽假睫毛",
+      "onboard_time": 1721131098,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181350,
       "num": 181350,
       "word": "王子奇王星越双向奔赴的病友",
@@ -4617,6 +4737,14 @@
       "onboard_time": 1720934725,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179169,
+      "num": 179169,
+      "word": "法国阿姨找王一博要签名",
+      "onboard_time": 1721130678,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 179012,
@@ -4833,6 +4961,14 @@
       "onboard_time": 1721034798,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171130,
+      "num": 171130,
+      "word": "林青霞自曝因安眠药意外跌倒",
+      "onboard_time": 1721132837,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171087,
@@ -5113,6 +5249,14 @@
       "onboard_time": 1721128699,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162169,
+      "num": 162169,
+      "word": "看卢昱晓正骨默默放下二郎腿",
+      "onboard_time": 1721132479,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162090,
@@ -5499,6 +5643,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149075,
+      "num": 149075,
+      "word": "赵丽颖夏天穿好多",
+      "onboard_time": 1721129717,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148637,
+      "num": 148637,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1721130498,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148399,
       "num": 148399,
       "word": "余承东回应经常挨任正非批评",
@@ -5587,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146638,
+      "num": 146638,
+      "word": "蒋敦豪 有e吗",
+      "onboard_time": 1721131458,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146507,
       "num": 146507,
       "word": "暑期孩子扎堆做腺样体切除手术",
@@ -5619,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145835,
+      "num": 271062,
+      "word": "买金条遭遇不发货不退款",
+      "onboard_time": 1721129418,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145753,
       "num": 145753,
       "word": "相柳 立场背后的深情",
@@ -5641,6 +5817,14 @@
       "onboard_time": 1720913775,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143810,
+      "num": 143810,
+      "word": "一桌烧烤三个冠军一个徐志胜",
+      "onboard_time": 1721133078,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143779,
@@ -5931,6 +6115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "为什么年轻人越来越喜欢旅游",
+      "onboard_time": 1721130557,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135139,
       "num": 255998,
       "word": "刘宇输了",
@@ -6043,6 +6235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "TF家族三代登陆日杀青",
+      "onboard_time": 1721130619,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132956,
       "num": 471079,
       "word": "没来过中国的老外vs爱上汉服的老外",
@@ -6153,6 +6353,14 @@
       "onboard_time": 1721119280,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 129966,
+      "num": 129966,
+      "word": "抓娃娃票房破6亿",
+      "onboard_time": 1721131579,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 129053,
@@ -6491,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121162,
+      "num": 121162,
+      "word": "姆巴佩亮相伯纳乌",
+      "onboard_time": 1721132598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120763,
       "num": 439253,
       "word": "河南社旗大冯营降水量超600毫米",
@@ -6667,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113257,
+      "num": 113257,
+      "word": "老师最不看好你 你却偏偏最争气",
+      "onboard_time": 1721132837,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113251,
       "num": 55488,
       "word": "729 CV",
@@ -6745,6 +6969,14 @@
       "onboard_time": 1720895293,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109813,
+      "num": 109813,
+      "word": "一时分不清是哪朵梨花香",
+      "onboard_time": 1721131458,
+      "rank": 48,
+      "category": "动漫,演出"
     },
     {
       "raw_hot": 109646,
@@ -6945,6 +7177,14 @@
       "onboard_time": 1720992613,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104766,
+      "num": 104766,
+      "word": "编剧看了多少烂剧才写出的台词",
+      "onboard_time": 1721133317,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103347,
@@ -7211,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81172,
+      "num": 296678,
+      "word": "货车深夜侧翻他们选择停车上前",
+      "onboard_time": 1721133078,
+      "rank": 15,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81028,
       "num": 1076257,
       "word": "二十届三中全会是个什么会",
@@ -7225,14 +7473,6 @@
       "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80381,
-      "num": 271062,
-      "word": "买金条遭遇不发货不退款",
-      "onboard_time": 1721129418,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80069,
@@ -8297,6 +8537,14 @@
       "onboard_time": 1721048837,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22913,
+      "num": 440154,
+      "word": "一文梳理巴黎奥运中国队各项目看点",
+      "onboard_time": 1721131218,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 22252,

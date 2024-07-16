@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721129666566,
+  "endTime": 1721133367459,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -625,6 +625,14 @@
       "onboard_time": 1721019920,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1753553,
+      "num": 491114,
+      "word": "秦彻 抄袭",
+      "onboard_time": 1721130738,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1742801,
@@ -3419,6 +3427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 873003,
+      "num": 1125613,
+      "word": "陶喆 讨厌红楼梦",
+      "onboard_time": 1721126779,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 871796,
       "num": 871796,
       "word": "大胖媳妇失散36年的爹找到了",
@@ -4209,14 +4225,6 @@
       "onboard_time": 1720804576,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785086,
-      "num": 1125613,
-      "word": "陶喆 讨厌红楼梦",
-      "onboard_time": 1721126779,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 784910,
@@ -5307,6 +5315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 676661,
+      "num": 1108265,
+      "word": "新疆惊现巨大哈密瓜为模型",
+      "onboard_time": 1721124678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675979,
       "num": 610637,
       "word": "凤凰传奇 到底是谁抢到了",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1720535959,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 649003,
+      "num": 649003,
+      "word": "上岸后发现教师这碗饭我真吃不了",
+      "onboard_time": 1721131218,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 647942,
@@ -6944,6 +6968,14 @@
       "word": "荣梓杉 北电新生群",
       "onboard_time": 1720936284,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570960,
+      "num": 301407,
+      "word": "金在中姐姐为隐瞒领养不过生日",
+      "onboard_time": 1721130678,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -9139,14 +9171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478981,
-      "num": 478981,
-      "word": "新疆惊现巨大哈密瓜为模型",
-      "onboard_time": 1721124678,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478935,
       "num": 280608,
       "word": "周翊然 像鹿晗",
@@ -9297,6 +9321,14 @@
       "onboard_time": 1721006480,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470897,
+      "num": 470897,
+      "word": "在日本海上漂流36小时中国女生自述",
+      "onboard_time": 1721129717,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470544,
@@ -10355,6 +10387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438128,
+      "num": 300339,
+      "word": "梁博更新",
+      "onboard_time": 1721129838,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 437649,
       "num": 335581,
       "word": "拜登发布声明",
@@ -11227,6 +11267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409328,
+      "num": 298938,
+      "word": "中方回应万斯称中国是美国最大威胁",
+      "onboard_time": 1721129957,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 409002,
       "num": 409002,
       "word": "朱一龙 演员里的一块姜",
@@ -11627,6 +11675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396793,
+      "num": 396793,
+      "word": "赤水丰隆才是玱玹的王后吧",
+      "onboard_time": 1721131278,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396684,
       "num": 358205,
       "word": "合肥一男子商场坠楼不幸身亡",
@@ -11785,6 +11841,14 @@
       "onboard_time": 1720235177,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390320,
+      "num": 390320,
+      "word": "曝CUBE贷款续约gidle",
+      "onboard_time": 1721130138,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 389988,
@@ -15475,6 +15539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 290707,
+      "num": 290707,
+      "word": "邓为钻石脸链",
+      "onboard_time": 1721128098,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290452,
       "num": 239743,
       "word": "B太 南京大爷带我勇闯南京",
@@ -15593,6 +15665,14 @@
       "onboard_time": 1719992358,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288917,
+      "num": 298282,
+      "word": "王者荣耀梦之队",
+      "onboard_time": 1721132358,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 288901,
@@ -15969,14 +16049,6 @@
       "onboard_time": 1720676478,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282825,
-      "num": 282825,
-      "word": "邓为钻石脸链",
-      "onboard_time": 1721128098,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 282812,
@@ -16667,6 +16739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264736,
+      "num": 236994,
+      "word": "朋友圈真的不要留太多电子宠物",
+      "onboard_time": 1721130557,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264652,
       "num": 264652,
       "word": "94年30岁很大吗",
@@ -17017,6 +17097,14 @@
       "onboard_time": 1720776559,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 256618,
+      "num": 256618,
+      "word": "鞠婧祎官方对接",
+      "onboard_time": 1721129237,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 256525,
@@ -18275,6 +18363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235601,
+      "num": 235601,
+      "word": "鹿晗帮路人搬杠铃片",
+      "onboard_time": 1721127858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235561,
       "num": 235561,
       "word": "韩东君第一次被女生抱起来",
@@ -19339,6 +19435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219703,
+      "num": 219703,
+      "word": "75岁独居老人1个月狂买38个快递",
+      "onboard_time": 1721131758,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219698,
       "num": 219698,
       "word": "谢霆锋听到粉丝说王菲的反应",
@@ -20043,14 +20147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213167,
-      "num": 213167,
-      "word": "鹿晗帮路人搬杠铃片",
-      "onboard_time": 1721127858,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213063,
       "num": 213063,
       "word": "三伏天谨记三忌三宜",
@@ -20281,6 +20377,14 @@
       "onboard_time": 1720572378,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210219,
+      "num": 210219,
+      "word": "苹果回应iPhone鬼手现象",
+      "onboard_time": 1721132658,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 210071,
@@ -20737,14 +20841,6 @@
       "onboard_time": 1720834698,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206785,
-      "num": 205641,
-      "word": "鞠婧祎官方对接",
-      "onboard_time": 1721129237,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 206718,
@@ -22715,6 +22811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194988,
+      "num": 194988,
+      "word": "邓超儿子好像段奕宏",
+      "onboard_time": 1721131278,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194841,
       "num": 194841,
       "word": "周深南京",
@@ -23859,6 +23963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188514,
+      "num": 188514,
+      "word": "王俊凯合照站成人形立牌",
+      "onboard_time": 1721132119,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188480,
       "num": 188480,
       "word": "沙特杯超长暂停时间",
@@ -24723,6 +24835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181448,
+      "num": 181448,
+      "word": "朱旺旺边哭边拽假睫毛",
+      "onboard_time": 1721131098,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181422,
       "num": 151007,
       "word": "夺冠后张志杰队友们哭成泪人",
@@ -25073,6 +25193,14 @@
       "onboard_time": 1720091537,
       "rank": 35,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 179169,
+      "num": 179169,
+      "word": "法国阿姨找王一博要签名",
+      "onboard_time": 1721130678,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 179142,
@@ -26329,6 +26457,14 @@
       "onboard_time": 1720701978,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171130,
+      "num": 171130,
+      "word": "林青霞自曝因安眠药意外跌倒",
+      "onboard_time": 1721132837,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171061,
@@ -27697,6 +27833,14 @@
       "onboard_time": 1720232717,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162169,
+      "num": 162169,
+      "word": "看卢昱晓正骨默默放下二郎腿",
+      "onboard_time": 1721132479,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162090,
@@ -29787,6 +29931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149075,
+      "num": 149075,
+      "word": "赵丽颖夏天穿好多",
+      "onboard_time": 1721129717,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148952,
       "num": 230123,
       "word": "一起为中国奥运健儿加油",
@@ -29817,6 +29969,14 @@
       "onboard_time": 1720867578,
       "rank": 34,
       "category": "社会新闻,读书作家"
+    },
+    {
+      "raw_hot": 148637,
+      "num": 148637,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1721130498,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 148610,
@@ -30163,6 +30323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146638,
+      "num": 146638,
+      "word": "蒋敦豪 有e吗",
+      "onboard_time": 1721131458,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146617,
       "num": 146617,
       "word": "中国男排获得世联赛资格",
@@ -30345,6 +30513,14 @@
       "onboard_time": 1720102399,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145835,
+      "num": 271062,
+      "word": "买金条遭遇不发货不退款",
+      "onboard_time": 1721129418,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145812,
@@ -30721,6 +30897,14 @@
       "onboard_time": 1720498580,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 143810,
+      "num": 143810,
+      "word": "一桌烧烤三个冠军一个徐志胜",
+      "onboard_time": 1721133078,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143779,
@@ -32427,6 +32611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "为什么年轻人越来越喜欢旅游",
+      "onboard_time": 1721130557,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135103,
       "num": 135103,
       "word": "刘诗诗生图直拍",
@@ -32857,6 +33049,14 @@
       "onboard_time": 1719815418,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "TF家族三代登陆日杀青",
+      "onboard_time": 1721130619,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132991,
@@ -33481,6 +33681,14 @@
       "onboard_time": 1719880159,
       "rank": 40,
       "category": "科学科普,国内时政"
+    },
+    {
+      "raw_hot": 129966,
+      "num": 129966,
+      "word": "抓娃娃票房破6亿",
+      "onboard_time": 1721131579,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 129960,
@@ -35235,6 +35443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121162,
+      "num": 121162,
+      "word": "姆巴佩亮相伯纳乌",
+      "onboard_time": 1721132598,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121159,
       "num": 445975,
       "word": "高考录取通知书物流信息查询",
@@ -36619,6 +36835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113257,
+      "num": 113257,
+      "word": "老师最不看好你 你却偏偏最争气",
+      "onboard_time": 1721132837,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113244,
       "num": 113244,
       "word": "李沁月光仙子妆",
@@ -37241,6 +37465,14 @@
       "onboard_time": 1720895293,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109813,
+      "num": 109813,
+      "word": "一时分不清是哪朵梨花香",
+      "onboard_time": 1721131458,
+      "rank": 48,
+      "category": "动漫,演出"
     },
     {
       "raw_hot": 109770,
@@ -38041,6 +38273,14 @@
       "onboard_time": 1719872772,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104766,
+      "num": 104766,
+      "word": "编剧看了多少烂剧才写出的台词",
+      "onboard_time": 1721133317,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104753,
@@ -40147,6 +40387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81172,
+      "num": 296678,
+      "word": "货车深夜侧翻他们选择停车上前",
+      "onboard_time": 1721133078,
+      "rank": 15,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81028,
       "num": 1076257,
       "word": "二十届三中全会是个什么会",
@@ -40209,14 +40457,6 @@
       "onboard_time": 1720793242,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 80381,
-      "num": 271062,
-      "word": "买金条遭遇不发货不退款",
-      "onboard_time": 1721129418,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80282,
@@ -45305,6 +45545,14 @@
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22913,
+      "num": 440154,
+      "word": "一文梳理巴黎奥运中国队各项目看点",
+      "onboard_time": 1721131218,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 22830,
