@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721104623092,
+  "endTime": 1721107140225,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -41,6 +41,14 @@
       "onboard_time": 1721089638,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1109293,
+      "num": 1177486,
+      "word": "苏醒薛之谦为梅西发声",
+      "onboard_time": 1721105480,
+      "rank": 0,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1056546,
@@ -89,6 +97,14 @@
       "onboard_time": 1721087057,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 781930,
+      "num": 781930,
+      "word": "农夫山泉要香港消委会道歉",
+      "onboard_time": 1721101759,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 746353,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518822,
+      "num": 518822,
+      "word": "长相思2开分6.6",
+      "onboard_time": 1721104819,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497613,
       "num": 302311,
       "word": "宝马开始涨价了",
@@ -259,14 +283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434485,
-      "num": 434485,
-      "word": "农夫山泉要香港消委会道歉",
-      "onboard_time": 1721101759,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 432079,
       "num": 307070,
       "word": "共和党正式提名万斯为副总统候选人",
@@ -281,6 +297,14 @@
       "onboard_time": 1721094858,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430339,
+      "num": 430339,
+      "word": "网购11元衣服仅退款后赔偿800元",
+      "onboard_time": 1721101519,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410587,
@@ -355,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 336078,
+      "num": 247719,
+      "word": "三伏天可适量多吃红色蔬果",
+      "onboard_time": 1721102058,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 329524,
       "num": 329524,
       "word": "卢昱晓妈妈 爱的传递方式不同",
@@ -377,6 +409,22 @@
       "onboard_time": 1721092219,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318232,
+      "num": 318232,
+      "word": "特朗普将与普京对话",
+      "onboard_time": 1721106141,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 312012,
+      "num": 312012,
+      "word": "布朗尼15中0",
+      "onboard_time": 1721105418,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 311881,
@@ -403,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293914,
-      "num": 293914,
-      "word": "网购11元衣服仅退款后赔偿800元",
-      "onboard_time": 1721101519,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 299374,
+      "num": 299374,
+      "word": "刘亦菲晒玫瑰周边",
+      "onboard_time": 1721105719,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 291184,
@@ -451,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280958,
-      "num": 247719,
-      "word": "三伏天可适量多吃红色蔬果",
-      "onboard_time": 1721102058,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 275934,
       "num": 106398,
       "word": "吴谨言王星越叼玫瑰花片段被删",
@@ -481,6 +521,14 @@
       "onboard_time": 1721096420,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260715,
+      "num": 260715,
+      "word": "我家那闺女",
+      "onboard_time": 1721106379,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 253735,
@@ -507,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233262,
+      "num": 233262,
+      "word": "公职人员受贿原始股5万元变身510万",
+      "onboard_time": 1721104040,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229631,
       "num": 229631,
       "word": "白敬亭西班牙吃火锅",
@@ -521,6 +577,14 @@
       "onboard_time": 1721056340,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222132,
+      "num": 222132,
+      "word": "爱奇艺基础会员无法跳过片头广告",
+      "onboard_time": 1721103680,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 219259,
@@ -540,7 +604,7 @@
     },
     {
       "raw_hot": 216260,
-      "num": 216260,
+      "num": 372967,
       "word": "新疆首座地下古墓遗址博物馆开馆",
       "onboard_time": 1721093838,
       "rank": 41,
@@ -651,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188596,
+      "num": 188596,
+      "word": "越来越多男性用阳伞",
+      "onboard_time": 1721106918,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188005,
       "num": 188005,
       "word": "中国新闻网发肖战vlog",
@@ -659,12 +731,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182989,
-      "num": 182989,
-      "word": "公职人员受贿原始股5万元变身510万",
-      "onboard_time": 1721104040,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 184790,
+      "num": 184790,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1721105779,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 179012,
@@ -723,6 +795,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170825,
+      "num": 170825,
+      "word": "农夫山泉正用7毛低价搅动市场",
+      "onboard_time": 1721105959,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168458,
+      "num": 168458,
+      "word": "星穹铁道飞霄",
+      "onboard_time": 1721106259,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167654,
       "num": 395609,
       "word": "九尾缺席沙特大名单",
@@ -763,12 +851,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158312,
-      "num": 158312,
-      "word": "爱奇艺基础会员无法跳过片头广告",
-      "onboard_time": 1721103680,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 158059,
+      "num": 158059,
+      "word": "成都已经进化到这种程度了",
+      "onboard_time": 1721105659,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156946,
+      "num": 156946,
+      "word": "中国气象局启动暴雨二级应急响应",
+      "onboard_time": 1721104939,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152842,
@@ -787,12 +883,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146970,
+      "num": 146970,
+      "word": "怀念防风邶我们在意难平什么",
+      "onboard_time": 1721106259,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145753,
       "num": 145753,
       "word": "相柳 立场背后的深情",
       "onboard_time": 1721103919,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142559,
+      "num": 142559,
+      "word": "欧阳娜娜泳装照",
+      "onboard_time": 1721106978,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142139,
@@ -809,6 +921,14 @@
       "onboard_time": 1721052799,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140975,
+      "num": 140975,
+      "word": "孙千新剧仿佛青春的野猫",
+      "onboard_time": 1721105359,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 138857,
@@ -904,6 +1024,14 @@
       "word": "社旗暴雨",
       "onboard_time": 1721093178,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120763,
+      "num": 439253,
+      "word": "河南社旗大冯营降水量超600毫米",
+      "onboard_time": 1721103619,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1347,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55104,
-      "num": 439253,
-      "word": "河南社旗大冯营降水量超600毫米",
-      "onboard_time": 1721103619,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52980,
       "num": 460664,
       "word": "华为手机镜头下的功夫舞蹈大片",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1721065154,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 32479,
+      "num": 158188,
+      "word": "王一博灵龙Tee火了",
+      "onboard_time": 1721106259,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27904,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1721034018,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21033,
+      "num": 314805,
+      "word": "板凳球员保送上名校背后",
+      "onboard_time": 1721106019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20529,
