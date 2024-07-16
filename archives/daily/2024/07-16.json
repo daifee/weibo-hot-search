@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721119105828,
+  "endTime": 1721121749792,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -225,6 +225,14 @@
       "onboard_time": 1721101818,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648780,
+      "num": 648780,
+      "word": "男子婚后每天6小时162公里跨城上班",
+      "onboard_time": 1721119819,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646492,
@@ -475,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 383792,
+      "num": 383792,
+      "word": "统一大跌10%",
+      "onboard_time": 1721116999,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 378807,
       "num": 208916,
       "word": "特朗普对拜登来电表示感谢",
@@ -513,6 +529,14 @@
       "onboard_time": 1721114718,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352323,
+      "num": 352323,
+      "word": "溴酸盐",
+      "onboard_time": 1721119280,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349603,
@@ -683,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275061,
-      "num": 275061,
-      "word": "统一大跌10%",
-      "onboard_time": 1721116999,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 270489,
       "num": 270489,
       "word": "王源南京演唱会官宣了",
@@ -707,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256979,
+      "num": 192864,
+      "word": "李佳琦选朱旺旺做助播的原因",
+      "onboard_time": 1721121318,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253735,
       "num": 196799,
       "word": "粉丝为肖战做梗图",
       "onboard_time": 1721088077,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249661,
+      "num": 249661,
+      "word": "百度回应武汉萝卜快跑停运",
+      "onboard_time": 1721117358,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 249375,
@@ -835,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213809,
+      "num": 213809,
+      "word": "秦岚 别哭我也记得你",
+      "onboard_time": 1721118258,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212405,
       "num": 212405,
       "word": "大厂离职做博主有人后悔了",
@@ -889,14 +929,6 @@
       "onboard_time": 1721103318,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202447,
-      "num": 202447,
-      "word": "百度回应武汉萝卜快跑停运",
-      "onboard_time": 1721117358,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 198803,
@@ -1123,20 +1155,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166737,
+      "num": 166737,
+      "word": "谁能发明一个戴丸子头的头盔",
+      "onboard_time": 1721121138,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166650,
       "num": 166650,
       "word": "新人婚礼上不停唠嗑全程嘴没停过",
       "onboard_time": 1721098998,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166328,
-      "num": 166328,
-      "word": "秦岚 别哭我也记得你",
-      "onboard_time": 1721118258,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 163851,
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153393,
+      "num": 153393,
+      "word": "杨紫青衣花絮",
+      "onboard_time": 1721119400,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152842,
       "num": 152842,
       "word": "第五次雷军年度演讲本周五举办",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1721085976,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148160,
+      "num": 342648,
+      "word": "奔驰C级卖1辆赔7万",
+      "onboard_time": 1721120419,
+      "rank": 15,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 147801,
@@ -1259,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140337,
+      "num": 140337,
+      "word": "建议有Switch的都这样玩",
+      "onboard_time": 1721118859,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138857,
       "num": 138857,
       "word": "哥伦比亚球迷赛后争吵斗殴致5死",
       "onboard_time": 1721096359,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138704,
+      "num": 138704,
+      "word": "在国外吃螺蛳粉紧张又刺激",
+      "onboard_time": 1721120299,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 138479,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1721109917,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134830,
+      "num": 134830,
+      "word": "女生剃光头蓄发5个月炸毛似海胆",
+      "onboard_time": 1721121499,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 134770,
@@ -1339,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132868,
+      "num": 132868,
+      "word": "西安一职高生高考556分逆袭211",
+      "onboard_time": 1721118139,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132588,
       "num": 123759,
       "word": "单依纯希望这辈子优质的活着",
@@ -1353,6 +1433,30 @@
       "onboard_time": 1721054000,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "王嘉尔自曝很少有真心朋友",
+      "onboard_time": 1721121619,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127677,
+      "num": 127677,
+      "word": "于文文求别卷出发照",
+      "onboard_time": 1721119578,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127604,
+      "num": 127604,
+      "word": "动漫吻戏名场面 新兰第一",
+      "onboard_time": 1721119280,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 125372,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1721036598,
       "rank": 32,
       "category": "作品衍生,互联网"
+    },
+    {
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "沈腾主演电影票房破340亿",
+      "onboard_time": 1721119697,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 123546,
@@ -1435,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115887,
+      "num": 115887,
+      "word": "柳岩 神仙般的日子",
+      "onboard_time": 1721120179,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115439,
       "num": 115439,
       "word": "小夭给玱玹砸了一辈子",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1721092399,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111281,
+      "num": 111281,
+      "word": "姆巴佩今日亮相皇马",
+      "onboard_time": 1721121079,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110933,
@@ -1515,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107203,
+      "num": 107203,
+      "word": "秦彻设定",
+      "onboard_time": 1721120478,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106501,
       "num": 106501,
       "word": "克莱在独行侠打首发",
@@ -1539,11 +1675,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102833,
-      "num": 102833,
-      "word": "建议有Switch的都这样玩",
-      "onboard_time": 1721118859,
-      "rank": 46,
+      "raw_hot": 102231,
+      "num": 102231,
+      "word": "射手座讨厌什么",
+      "onboard_time": 1721121440,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1569,6 +1705,14 @@
       "onboard_time": 1721050820,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99817,
+      "num": 99817,
+      "word": "女生低血糖晕倒毫无知觉警民联手相助",
+      "onboard_time": 1721119339,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 99146,
@@ -1683,10 +1827,26 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76516,
+      "num": 376461,
+      "word": "喊毕业生来旅游",
+      "onboard_time": 1721117539,
+      "rank": 23,
+      "category": "教育,旅游"
+    },
+    {
       "raw_hot": 75667,
       "num": 696839,
       "word": "专属你的太空清凉壁纸",
       "onboard_time": 1721111719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75424,
+      "num": 570683,
+      "word": "中国成鱼子酱最大产地",
+      "onboard_time": 1721116817,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1867,14 +2027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 59144,
-      "num": 570683,
-      "word": "中国成鱼子酱最大产地",
-      "onboard_time": 1721116817,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59110,
       "num": 59110,
       "word": "余承东称优秀的人最大不同是自控力",
@@ -1969,14 +2121,6 @@
       "onboard_time": 1721047638,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40980,
-      "num": 376461,
-      "word": "喊毕业生来旅游",
-      "onboard_time": 1721117539,
-      "rank": 23,
-      "category": "教育,旅游"
     },
     {
       "raw_hot": 39501,
@@ -2097,6 +2241,14 @@
       "onboard_time": 1721073551,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12086,
+      "num": 585811,
+      "word": "谱写中国式现代化崭新篇章",
+      "onboard_time": 1721121499,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11305,
