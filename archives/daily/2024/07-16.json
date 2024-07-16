@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721111275491,
+  "endTime": 1721112047849,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -59,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1290789,
+      "num": 1290789,
+      "word": "你多胖可能在妈妈肚子里就决定了",
+      "onboard_time": 1721108537,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1056546,
       "num": 1140466,
       "word": "几千块手机为何离不开几块钱的冰贴",
@@ -73,14 +81,6 @@
       "onboard_time": 1721085374,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1030934,
-      "num": 1030934,
-      "word": "你多胖可能在妈妈肚子里就决定了",
-      "onboard_time": 1721108537,
-      "rank": 1,
-      "category": "科学科普"
     },
     {
       "raw_hot": 975902,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537204,
+      "num": 537204,
+      "word": "这次河南暴雨有一定极端性",
+      "onboard_time": 1721109018,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518822,
       "num": 518822,
       "word": "长相思2开分6.6",
@@ -227,7 +235,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 498513,
+      "raw_hot": 501094,
       "num": 357927,
       "word": "FBI已解锁特朗普枪击案嫌犯手机",
       "onboard_time": 1721107399,
@@ -371,8 +379,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407066,
-      "num": 407066,
+      "raw_hot": 409929,
+      "num": 409929,
       "word": "秦彻 文案",
       "onboard_time": 1721107698,
       "rank": 33,
@@ -403,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356928,
+      "raw_hot": 358550,
       "num": 295382,
       "word": "三伏天可适量多吃红色蔬果",
       "onboard_time": 1721102058,
@@ -507,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 305722,
+      "num": 235093,
+      "word": "infp真的需要很多钱",
+      "onboard_time": 1721110637,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300653,
       "num": 300653,
       "word": "警方通报女子凌晨打出租车遭司机猥亵",
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257565,
+      "num": 204459,
+      "word": "马斯克向特朗普助选组织每月捐4500万美元",
+      "onboard_time": 1721110877,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 253735,
       "num": 196799,
       "word": "粉丝为肖战做梗图",
@@ -611,28 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235093,
-      "num": 235093,
-      "word": "infp真的需要很多钱",
-      "onboard_time": 1721110637,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233262,
       "num": 233262,
       "word": "公职人员受贿原始股5万元变身510万",
       "onboard_time": 1721104040,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230795,
-      "num": 366799,
-      "word": "这次河南暴雨有一定极端性",
-      "onboard_time": 1721109018,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229631,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197654,
+      "num": 197654,
+      "word": "黄子弘凡可是我最懂降落",
+      "onboard_time": 1721111778,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195807,
       "num": 195807,
       "word": "成毅赴山海坐轮椅路透",
@@ -768,6 +784,14 @@
       "word": "长相思2阿念瞬间成长",
       "onboard_time": 1721100138,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192991,
+      "num": 177762,
+      "word": "陈乔恩特邀领衔出演山河枕",
+      "onboard_time": 1721111478,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -835,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183647,
+      "num": 183647,
+      "word": "大厂离职做博主有人后悔了",
+      "onboard_time": 1721108838,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179012,
       "num": 179012,
       "word": "鸿蒙智行第四界叫尊界",
@@ -873,6 +905,14 @@
       "onboard_time": 1721093058,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173966,
+      "num": 173966,
+      "word": "司机师傅可能是谈恋爱了",
+      "onboard_time": 1721110999,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 171750,
@@ -947,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163115,
-      "num": 163115,
-      "word": "大厂离职做博主有人后悔了",
-      "onboard_time": 1721108838,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158059,
       "num": 158059,
       "word": "成都已经进化到这种程度了",
@@ -971,28 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156640,
-      "num": 156640,
-      "word": "司机师傅可能是谈恋爱了",
-      "onboard_time": 1721110999,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152842,
       "num": 152842,
       "word": "第五次雷军年度演讲本周五举办",
       "onboard_time": 1721093716,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 150710,
-      "num": 150710,
-      "word": "马斯克向特朗普助选组织每月捐4500万美元",
-      "onboard_time": 1721110877,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 148381,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1721037438,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121901,
+      "num": 121901,
+      "word": "檀健次晚宴生图",
+      "onboard_time": 1721111957,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121300,
@@ -1307,7 +1331,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97844,
+      "raw_hot": 98715,
       "num": 363212,
       "word": "第一次金标给了中国",
       "onboard_time": 1721109858,
@@ -1643,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43526,
+      "num": 354647,
+      "word": "饿了么免单根号2又回来了",
+      "onboard_time": 1721109618,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 41407,
       "num": 427438,
       "word": "10岁男孩酷爱足球5年日颠数万次",
@@ -1659,20 +1691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41257,
+      "num": 355138,
+      "word": "专属你的太空清凉壁纸",
+      "onboard_time": 1721111719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39501,
       "num": 59990,
       "word": "ins爆火双麻花辫",
       "onboard_time": 1721065154,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 35376,
-      "num": 354647,
-      "word": "饿了么免单根号2又回来了",
-      "onboard_time": 1721109618,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 33070,
@@ -1787,7 +1819,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 6818,
+      "raw_hot": 7278,
       "num": 938483,
       "word": "每一秒都是奋进的中国",
       "onboard_time": 1721034439,
