@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721114372485,
+  "endTime": 1721115278650,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755760,
+      "num": 227403,
+      "word": "王源消息未读68条",
+      "onboard_time": 1721112797,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 749950,
       "num": 282077,
       "word": "女子隐瞒中500万前夫起诉获分200万",
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669971,
+      "num": 669971,
+      "word": "百岁山",
+      "onboard_time": 1721112258,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664479,
       "num": 316551,
       "word": "王鸥被工作室嘲笑",
@@ -979,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638127,
-      "num": 227403,
-      "word": "王源消息未读68条",
-      "onboard_time": 1721112797,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 625307,
       "num": 625307,
       "word": "欧洲杯决赛",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1721097377,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 594593,
-      "num": 594593,
-      "word": "百岁山",
-      "onboard_time": 1721112258,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 593826,
@@ -1163,6 +1163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 558000,
+      "num": 558000,
+      "word": "打工人已经开始在工位避暑了",
+      "onboard_time": 1721112858,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553255,
       "num": 512639,
       "word": "32岁女子吹未清洗空调多器官衰竭",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1721028019,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538446,
+      "num": 225495,
+      "word": "马斯克向特朗普助选组织每月捐4500万美元",
+      "onboard_time": 1721110877,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 537795,
@@ -1489,14 +1505,6 @@
       "onboard_time": 1721092577,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474105,
-      "num": 225495,
-      "word": "马斯克向特朗普助选组织每月捐4500万美元",
-      "onboard_time": 1721110877,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 472140,
@@ -1971,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374054,
+      "num": 223900,
+      "word": "卢昱晓回应走路姿势被说残疾",
+      "onboard_time": 1721113158,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372350,
       "num": 372350,
       "word": "三伏天已连续10年都是40天",
@@ -2323,14 +2339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317705,
-      "num": 223900,
-      "word": "卢昱晓回应走路姿势被说残疾",
-      "onboard_time": 1721113158,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317661,
       "num": 317661,
       "word": "温网男单决赛",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1721094798,
       "rank": 16,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 289182,
-      "num": 289182,
-      "word": "打工人已经开始在工位避暑了",
-      "onboard_time": 1721112858,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 288696,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1720936764,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 276325,
+      "num": 245950,
+      "word": "百岁山法务部门已介入",
+      "onboard_time": 1721113639,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275611,
@@ -3171,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230508,
+      "num": 230508,
+      "word": "花少第六季嘉宾",
+      "onboard_time": 1721114718,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230051,
       "num": 323574,
       "word": "崔永熙",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1720926079,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228527,
+      "num": 222229,
+      "word": "小伙吃冰淇淋后脑结冰",
+      "onboard_time": 1721112678,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228508,
@@ -3251,6 +3275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224492,
+      "num": 224492,
+      "word": "花花上桌全靠脸使劲",
+      "onboard_time": 1721113698,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223877,
       "num": 223877,
       "word": "种地吧",
@@ -3297,14 +3329,6 @@
       "onboard_time": 1721021118,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222229,
-      "num": 222229,
-      "word": "小伙吃冰淇淋后脑结冰",
-      "onboard_time": 1721112678,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222132,
@@ -3377,6 +3401,14 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217080,
+      "num": 295273,
+      "word": "少年打球后心脏骤停一群医生冲了上去",
+      "onboard_time": 1721111058,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 216260,
@@ -3473,6 +3505,14 @@
       "onboard_time": 1721037018,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 209481,
+      "num": 209481,
+      "word": "刚入职一个月的我要谈走两个人",
+      "onboard_time": 1721114237,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 209121,
@@ -4315,14 +4355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 177678,
-      "num": 177678,
-      "word": "百岁山法务部门已介入",
-      "onboard_time": 1721113639,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177655,
       "num": 177655,
       "word": "为什么韩国人一直在休学",
@@ -5155,14 +5187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146691,
-      "num": 146691,
-      "word": "花花上桌全靠脸使劲",
-      "onboard_time": 1721113698,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146507,
       "num": 146507,
       "word": "暑期孩子扎堆做腺样体切除手术",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1720913775,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144181,
+      "num": 144181,
+      "word": "韩国动物团体呼吁禁止吃鸡肉",
+      "onboard_time": 1721112738,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143779,
@@ -5571,6 +5603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133235,
+      "num": 133235,
+      "word": "TT帮Doinb买单",
+      "onboard_time": 1721114119,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132956,
       "num": 132956,
       "word": "没来过中国的老外vs爱上汉服的老外",
@@ -5843,14 +5883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124363,
-      "num": 124363,
-      "word": "刚入职一个月的我要谈走两个人",
-      "onboard_time": 1721114237,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124013,
       "num": 775652,
       "word": "几百块回收废旧家电翻新后卖1500",
@@ -5881,6 +5913,14 @@
       "onboard_time": 1721039297,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123337,
+      "num": 123337,
+      "word": "别人数星星丁程鑫数猩猩",
+      "onboard_time": 1721114958,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122958,
@@ -6065,14 +6105,6 @@
       "onboard_time": 1720946300,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115700,
-      "num": 115700,
-      "word": "TT帮Doinb买单",
-      "onboard_time": 1721114119,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 115382,
@@ -6523,14 +6555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88995,
-      "num": 295273,
-      "word": "少年打球后心脏骤停一群医生冲了上去",
-      "onboard_time": 1721111058,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 88965,
       "num": 479669,
       "word": "有AI再也不用跪求剧名了",
@@ -6699,6 +6723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75667,
+      "num": 696839,
+      "word": "专属你的太空清凉壁纸",
+      "onboard_time": 1721111719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73815,
       "num": 254369,
       "word": "你比星光美丽",
@@ -6827,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68351,
+      "num": 273583,
+      "word": "患者急需熊猫血救命一下赶来39人",
+      "onboard_time": 1721114359,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 66226,
       "num": 1161869,
       "word": "巴黎奥运会热门项目观赛日历",
@@ -6899,14 +6939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62944,
-      "num": 696839,
-      "word": "专属你的太空清凉壁纸",
-      "onboard_time": 1721111719,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62546,
       "num": 415634,
       "word": "暑期小城游火出圈",
@@ -6969,14 +7001,6 @@
       "onboard_time": 1720912813,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 60378,
-      "num": 211716,
-      "word": "患者急需熊猫血救命一下赶来39人",
-      "onboard_time": 1721114359,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 59695,
@@ -7161,6 +7185,14 @@
       "onboard_time": 1720931185,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 51185,
+      "num": 250571,
+      "word": "周杰伦新代言原来是蓄谋已久",
+      "onboard_time": 1721113458,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51162,
@@ -7369,14 +7401,6 @@
       "onboard_time": 1720888876,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37209,
-      "num": 226510,
-      "word": "周杰伦新代言原来是蓄谋已久",
-      "onboard_time": 1721113458,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36512,
