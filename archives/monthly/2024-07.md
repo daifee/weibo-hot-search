@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/16 12:23:42
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/16 12:37:03
 </p>
 </blockquote>
 <p>
@@ -753,6 +753,12 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E8%80%B3%E5%8C%85%E6%89%8E%E7%BB%B7%E5%B8%A6%E9%9C%B2%E9%9D%A2%23" target="weibo">
+特朗普右耳包扎绷带露面（热度：1506660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E6%9A%91%E5%81%87%E6%8B%9B%E6%95%99%E5%B8%88%E7%85%A7%E7%9C%8B%E5%B9%B2%E9%83%A8%E5%AD%90%E5%A5%B3%23" target="weibo">
 教育局暑假招教师照看干部子女（热度：1505500）
 </a>
@@ -803,12 +809,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%A6%81%E5%92%8C%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E8%B5%B7%E5%8E%BB%E5%8D%AB%E7%94%9F%E9%97%B4%23" target="weibo">
 黄子韬要和徐艺洋一起去卫生间（热度：1482453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E8%80%B3%E5%8C%85%E6%89%8E%E7%BB%B7%E5%B8%A6%E9%9C%B2%E9%9D%A2%23" target="weibo">
-特朗普右耳包扎绷带露面（热度：1478522）
 </a>
 </li>
 
@@ -869,6 +869,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4%23" target="weibo">
 洞庭湖决堤（热度：1454491）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%B0%BC%E4%BA%9A42%E5%90%8D%E5%A5%B3%E6%80%A7%E8%A2%AB%E6%9D%80%E5%AE%B3%E8%82%A2%E8%A7%A3%23" target="weibo">
+肯尼亚42名女性被杀害肢解（热度：1448548）
 </a>
 </li>
 
@@ -935,12 +941,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%97%93%E5%AD%90%E5%92%8B%E4%BA%86%23" target="weibo">
 希林娜依高嗓子咋了（热度：1391404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%B0%BC%E4%BA%9A42%E5%90%8D%E5%A5%B3%E6%80%A7%E8%A2%AB%E6%9D%80%E5%AE%B3%E8%82%A2%E8%A7%A3%23" target="weibo">
-肯尼亚42名女性被杀害肢解（热度：1389799）
 </a>
 </li>
 
@@ -3417,6 +3417,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%83%E7%9A%84%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%8C%A8%E9%AA%82%E7%9A%84%23" target="weibo">
+原来考的不好是可以不用挨骂的（热度：746353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A2%AB%E4%BC%A0%E6%98%AF%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1%23" target="weibo">
 西安交大通报毕业生被传是学术妲己（热度：743943）
 </a>
@@ -4059,6 +4065,12 @@ B太曝光星期狗（热度：681086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E6%88%90%E5%91%98%23" target="weibo">
+秦岚剧透下一季花少成员（热度：659875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E6%A1%88%E6%9E%AA%E6%89%8B%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 特朗普遇刺案枪手同学发声（热度：659151）
 </a>
@@ -4407,12 +4419,6 @@ iPhone16预计需求强劲（热度：630228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%8A%B1%E5%B0%91%E6%88%90%E5%91%98%23" target="weibo">
-秦岚剧透下一季花少成员（热度：626062）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E5%A2%A8%20%E8%B7%91%E8%B7%AF%23" target="weibo">
 张子墨 跑路（热度：625824）
 </a>
@@ -4571,12 +4577,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B09%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
 萌兰9岁生日快乐（热度：615093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%83%E7%9A%84%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E6%8C%A8%E9%AA%82%E7%9A%84%23" target="weibo">
-原来考的不好是可以不用挨骂的（热度：614792）
 </a>
 </li>
 
@@ -6545,6 +6545,12 @@ iPhone16Pro屏幕有重大升级（热度：523136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%81%9A%E7%84%A6%E8%BF%99%E5%85%B3%E9%94%AE%E4%B8%80%E6%8B%9B%23%23" target="weibo">
 #党的二十届三中全会聚焦这关键一招#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%8E%E8%BF%9972%E6%AC%A1%E4%BC%9A%E8%AE%AE%E8%AF%BB%E6%87%82%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%B9%E9%9D%A9%E4%B9%8B%E9%81%93%23%23" target="weibo">
+#从这72次会议读懂习近平的改革之道#
 </a>
 </li>
 

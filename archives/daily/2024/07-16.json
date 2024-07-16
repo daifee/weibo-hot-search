@@ -1,6 +1,6 @@
 {
   "startTime": 1721060672008,
-  "endTime": 1721103822736,
+  "endTime": 1721104623092,
   "band_list": [
     {
       "raw_hot": 1936512,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1478522,
+      "raw_hot": 1506660,
       "num": 465346,
       "word": "特朗普右耳包扎绷带露面",
       "onboard_time": 1721099598,
@@ -19,19 +19,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1448548,
+      "num": 452608,
+      "word": "肯尼亚42名女性被杀害肢解",
+      "onboard_time": 1721099057,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404527,
       "num": 431221,
       "word": "统一回应方便面酸菜中疑出现鼠头",
       "onboard_time": 1721091857,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389799,
-      "num": 452608,
-      "word": "肯尼亚42名女性被杀害肢解",
-      "onboard_time": 1721099057,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 746353,
+      "num": 658547,
+      "word": "原来考的不好是可以不用挨骂的",
+      "onboard_time": 1721100018,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 734987,
       "num": 314169,
       "word": "九尾或因手伤退役",
@@ -123,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 659875,
+      "num": 659875,
+      "word": "秦岚剧透下一季花少成员",
+      "onboard_time": 1721101818,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646492,
       "num": 340586,
       "word": "黄子佼翻供不认罪",
@@ -131,28 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626062,
-      "num": 626062,
-      "word": "秦岚剧透下一季花少成员",
-      "onboard_time": 1721101818,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 623775,
       "num": 311882,
       "word": "郑州年平均工资102921元",
       "onboard_time": 1721098817,
       "rank": 26,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 614792,
-      "num": 614792,
-      "word": "原来考的不好是可以不用挨骂的",
-      "onboard_time": 1721100018,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 605441,
@@ -195,6 +195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 491951,
+      "num": 491951,
+      "word": "小夭故居认母",
+      "onboard_time": 1721102478,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489888,
       "num": 333789,
       "word": "开着空调闭门做饭一家五口中毒",
@@ -217,14 +225,6 @@
       "onboard_time": 1721092577,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475597,
-      "num": 475597,
-      "word": "小夭故居认母",
-      "onboard_time": 1721102478,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 462947,
@@ -257,6 +257,14 @@
       "onboard_time": 1721086155,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 434485,
+      "num": 434485,
+      "word": "农夫山泉要香港消委会道歉",
+      "onboard_time": 1721101759,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 432079,
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319603,
-      "num": 319603,
-      "word": "农夫山泉要香港消委会道歉",
-      "onboard_time": 1721101759,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 318733,
       "num": 294543,
       "word": "南通巨响",
       "onboard_time": 1721092219,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311881,
+      "num": 311881,
+      "word": "沈腾马丽谈退休",
+      "onboard_time": 1721102719,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 307686,
@@ -392,6 +400,14 @@
       "word": "警方通报女子凌晨打出租车遭司机猥亵",
       "onboard_time": 1721098218,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293914,
+      "num": 293914,
+      "word": "网购11元衣服仅退款后赔偿800元",
+      "onboard_time": 1721101519,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280958,
+      "num": 247719,
+      "word": "三伏天可适量多吃红色蔬果",
+      "onboard_time": 1721102058,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 275934,
       "num": 106398,
       "word": "吴谨言王星越叼玫瑰花片段被删",
@@ -451,28 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271556,
-      "num": 271556,
-      "word": "沈腾马丽谈退休",
-      "onboard_time": 1721102719,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 270489,
       "num": 270489,
       "word": "王源南京演唱会官宣了",
       "onboard_time": 1721096420,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 264608,
-      "num": 264608,
-      "word": "网购11元衣服仅退款后赔偿800元",
-      "onboard_time": 1721101519,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253735,
@@ -483,20 +491,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247149,
+      "num": 247149,
+      "word": "王者水墨武侠CG",
+      "onboard_time": 1721103559,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239667,
       "num": 239667,
       "word": "你们看错位的吃这么好",
       "onboard_time": 1721101759,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231295,
-      "num": 231295,
-      "word": "三伏天可适量多吃红色蔬果",
-      "onboard_time": 1721102058,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 229631,
@@ -563,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208684,
-      "num": 208684,
-      "word": "王者水墨武侠CG",
-      "onboard_time": 1721103559,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 206139,
       "num": 206139,
       "word": "周琦加盟北京男篮",
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191422,
+      "num": 191422,
+      "word": "布朗尼投出三不沾",
+      "onboard_time": 1721104220,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191101,
       "num": 191101,
       "word": "抓娃娃连续3天单日票房破亿",
@@ -649,6 +657,22 @@
       "onboard_time": 1721102540,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182989,
+      "num": 182989,
+      "word": "公职人员受贿原始股5万元变身510万",
+      "onboard_time": 1721104040,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 179012,
+      "num": 179012,
+      "word": "鸿蒙智行第四界叫尊界",
+      "onboard_time": 1721103380,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 176395,
@@ -683,6 +707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171750,
+      "num": 171750,
+      "word": "阴阳师月读皮肤",
+      "onboard_time": 1721104340,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "特殊搬家公司 帮人一夜消失",
+      "onboard_time": 1721103438,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167654,
       "num": 395609,
       "word": "九尾缺席沙特大名单",
@@ -697,14 +737,6 @@
       "onboard_time": 1721098998,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166587,
-      "num": 166587,
-      "word": "鸿蒙智行第四界叫尊界",
-      "onboard_time": 1721103380,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 163851,
@@ -731,8 +763,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153282,
-      "num": 153282,
+      "raw_hot": 158312,
+      "num": 158312,
       "word": "爱奇艺基础会员无法跳过片头广告",
       "onboard_time": 1721103680,
       "rank": 45,
@@ -755,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145753,
+      "num": 145753,
+      "word": "相柳 立场背后的深情",
+      "onboard_time": 1721103919,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142139,
       "num": 142139,
       "word": "崔永熙连续三分",
@@ -769,14 +809,6 @@
       "onboard_time": 1721052799,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140143,
-      "num": 140143,
-      "word": "特殊搬家公司 帮人一夜消失",
-      "onboard_time": 1721103438,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 138857,
@@ -1155,8 +1187,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71530,
-      "num": 620062,
+      "raw_hot": 71779,
+      "num": 659101,
       "word": "快递业务量累计完成801.6亿件",
       "onboard_time": 1721100318,
       "rank": 9,
@@ -1315,15 +1347,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45689,
-      "num": 288256,
-      "word": "萌兰单脚荡秋千主打一个松弛感",
-      "onboard_time": 1721084655,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43287,
+      "raw_hot": 55104,
       "num": 439253,
       "word": "河南社旗大冯营降水量超600毫米",
       "onboard_time": 1721103619,
@@ -1331,12 +1355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42684,
+      "raw_hot": 52980,
       "num": 460664,
       "word": "华为手机镜头下的功夫舞蹈大片",
       "onboard_time": 1721100798,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45689,
+      "num": 288256,
+      "word": "萌兰单脚荡秋千主打一个松弛感",
+      "onboard_time": 1721084655,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41358,
@@ -1476,6 +1508,9 @@
     },
     {
       "word": "#党的二十届三中全会聚焦这关键一招#"
+    },
+    {
+      "word": "#从这72次会议读懂习近平的改革之道#"
     }
   ]
 }
