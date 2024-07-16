@@ -1,0 +1,410 @@
+{
+  "runTime": 1721119105828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052061,
+        "num": 1168329,
+        "word": "少年打球后心脏骤停一群医生冲了上去",
+        "onboard_time": 1721111058,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 598515,
+        "num": 598515,
+        "word": "百岁山法务部门已介入",
+        "onboard_time": 1721113639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20691,
+        "num": 597501,
+        "word": "引领新时代改革开放",
+        "onboard_time": 1721100318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662090,
+        "num": 590866,
+        "word": "拜登称同意9月与特朗普再次辩论",
+        "onboard_time": 1721115618,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1364404,
+        "num": 579997,
+        "word": "吴昕不知道蒲熠星公开了女朋友",
+        "onboard_time": 1721117718,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59144,
+        "num": 570683,
+        "word": "中国成鱼子酱最大产地",
+        "onboard_time": 1721116817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640066,
+        "num": 562307,
+        "word": "你多胖可能在妈妈肚子里就决定了",
+        "onboard_time": 1721108537,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 560936,
+        "num": 560936,
+        "word": "百岁山",
+        "onboard_time": 1721112258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502153,
+        "num": 502153,
+        "word": "这次河南暴雨有一定极端性",
+        "onboard_time": 1721109018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51216,
+        "num": 499592,
+        "word": "被苏州荷花饮的中式美学浪漫到了",
+        "onboard_time": 1721118679,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1092708,
+        "num": 444709,
+        "word": "苏醒薛之谦为梅西发声",
+        "onboard_time": 1721105480,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 520471,
+        "num": 404501,
+        "word": "赵丽颖短发进组",
+        "onboard_time": 1721112377,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40980,
+        "num": 376461,
+        "word": "喊毕业生来旅游",
+        "onboard_time": 1721117539,
+        "rank": 12,
+        "category": "教育,旅游"
+      },
+      {
+        "raw_hot": 362937,
+        "num": 362937,
+        "word": "打工人已经开始在工位避暑了",
+        "onboard_time": 1721112858,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25143,
+        "num": 354053,
+        "word": "河南超汛限水位大中型水库增至29座",
+        "onboard_time": 1721117419,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353742,
+        "num": 353742,
+        "word": "特朗普右耳包扎绷带露面",
+        "onboard_time": 1721099598,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 344338,
+        "num": 344338,
+        "word": "400多件裙子退货店家损失近8000元",
+        "onboard_time": 1721096359,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317785,
+        "num": 317785,
+        "word": "花少第六季嘉宾",
+        "onboard_time": 1721114718,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301395,
+        "num": 301395,
+        "word": "马斯克向特朗普助选组织每月捐4500万美元",
+        "onboard_time": 1721110877,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275156,
+        "num": 275156,
+        "word": "花花上桌全靠脸使劲",
+        "onboard_time": 1721113698,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548626,
+        "num": 275129,
+        "word": "王源消息未读68条",
+        "onboard_time": 1721112797,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275061,
+        "num": 275061,
+        "word": "统一大跌10%",
+        "onboard_time": 1721116999,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236617,
+        "num": 236617,
+        "word": "卢昱晓回应走路姿势被说残疾",
+        "onboard_time": 1721113158,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211063,
+        "num": 211063,
+        "word": "刚入职一个月的我要谈走两个人",
+        "onboard_time": 1721114237,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205462,
+        "num": 205462,
+        "word": "秦岚催谈谭松韵",
+        "onboard_time": 1721116637,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202447,
+        "num": 202447,
+        "word": "百度回应武汉萝卜快跑停运",
+        "onboard_time": 1721117358,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184671,
+        "num": 184671,
+        "word": "50岁自驾游阿姨离婚要付男方16万",
+        "onboard_time": 1721115859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180516,
+        "num": 180516,
+        "word": "小夭玱玹不在一个户口本上了",
+        "onboard_time": 1721115498,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "几千块手机为何离不开几块钱的冰贴",
+        "onboard_time": 1721096717,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "秦岚 别哭我也记得你",
+        "onboard_time": 1721118258,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174871,
+        "num": 166265,
+        "word": "年轻人在下意识内卷",
+        "onboard_time": 1721117718,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166121,
+        "num": 166121,
+        "word": "infp真的需要很多钱",
+        "onboard_time": 1721110637,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140401,
+        "num": 140401,
+        "word": "秦彻 文案",
+        "onboard_time": 1721107698,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64920,
+        "num": 138805,
+        "word": "周杰伦新代言原来是蓄谋已久",
+        "onboard_time": 1721113458,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138150,
+        "num": 138150,
+        "word": "杨和苏朱志鑫左航张峻豪合照",
+        "onboard_time": 1721115978,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134261,
+        "num": 134261,
+        "word": "韩国动物团体呼吁禁止吃鸡肉",
+        "onboard_time": 1721112738,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131667,
+        "num": 131667,
+        "word": "小伙吃冰淇淋后脑结冰",
+        "onboard_time": 1721112678,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123625,
+        "num": 123625,
+        "word": "檀健次晚宴生图",
+        "onboard_time": 1721111957,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123610,
+        "num": 123610,
+        "word": "阿念自己就是王姬大将军",
+        "onboard_time": 1721116637,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 121819,
+        "word": "刘诗诗和沈月靠张云龙破冰",
+        "onboard_time": 1721116458,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118548,
+        "num": 118548,
+        "word": "欧阳娜娜泳装照",
+        "onboard_time": 1721106978,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114751,
+        "num": 114751,
+        "word": "布朗尼15中0",
+        "onboard_time": 1721105418,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111819,
+        "num": 111819,
+        "word": "阿Sa用手给阿娇遮雨",
+        "onboard_time": 1721117898,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111723,
+        "num": 111723,
+        "word": "肯尼亚42名女性被杀害肢解",
+        "onboard_time": 1721099057,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109253,
+        "num": 109253,
+        "word": "三伏天可适量多吃红色蔬果",
+        "onboard_time": 1721102058,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107193,
+        "num": 107193,
+        "word": "长相思2开分6.6",
+        "onboard_time": 1721104819,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102833,
+        "num": 102833,
+        "word": "建议有Switch的都这样玩",
+        "onboard_time": 1721118859,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102764,
+        "num": 102764,
+        "word": "男子爬雪山晒伤成面膜脸",
+        "onboard_time": 1721115978,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99112,
+        "num": 99112,
+        "word": "特朗普将与普京对话",
+        "onboard_time": 1721106141,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 95691,
+        "num": 95691,
+        "word": "TT帮Doinb买单",
+        "onboard_time": 1721114119,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这72次会议读懂习近平的改革之道#"
+    }
+  }
+}
