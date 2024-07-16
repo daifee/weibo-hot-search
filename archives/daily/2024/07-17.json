@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721162097356,
+  "endTime": 1721164772341,
   "band_list": [
     {
       "raw_hot": 895522,
@@ -483,7 +483,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11232,
+      "raw_hot": 13114,
+      "num": 13114,
+      "word": "女子晒295元2日跟团游供4餐睡宾馆",
+      "onboard_time": 1721163430,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12980,
       "num": 14299,
       "word": "长期运动会显年轻吗",
       "onboard_time": 1721160191,
