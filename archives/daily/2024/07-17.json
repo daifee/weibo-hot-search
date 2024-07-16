@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721165717882,
+  "endTime": 1721168419571,
   "band_list": [
     {
       "raw_hot": 895522,
@@ -395,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 51494,
+      "num": 32796,
+      "word": "梁博变陶喆了",
+      "onboard_time": 1721154312,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45058,
       "num": 45058,
       "word": "杨幂在玩一种很新的动图",
@@ -427,36 +435,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32694,
-      "num": 32078,
-      "word": "梁博变陶喆了",
-      "onboard_time": 1721154312,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 26264,
+      "num": 26264,
+      "word": "女子晒295元2日跟团游供4餐睡宾馆",
+      "onboard_time": 1721163430,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19115,
-      "num": 19115,
+      "num": 22115,
       "word": "水瓶座的感情是阶段性的",
       "onboard_time": 1721155871,
       "rank": 32,
       "category": "情感"
     },
     {
-      "raw_hot": 16659,
+      "raw_hot": 19073,
+      "num": 22116,
+      "word": "长期运动会显年轻吗",
+      "onboard_time": 1721160191,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 17111,
+      "num": 22109,
+      "word": "谁懂小猫拱这两下的含金量",
+      "onboard_time": 1721158571,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 17067,
       "num": 31601,
       "word": "脊椎也有最喜欢的坐姿",
       "onboard_time": 1721154192,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 16477,
-      "num": 16477,
-      "word": "女子晒295元2日跟团游供4餐睡宾馆",
-      "onboard_time": 1721163430,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16162,
@@ -483,28 +499,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 14324,
-      "num": 14324,
-      "word": "长期运动会显年轻吗",
-      "onboard_time": 1721160191,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 14063,
-      "num": 14304,
-      "word": "谁懂小猫拱这两下的含金量",
-      "onboard_time": 1721158571,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 11109,
       "num": 94436,
       "word": "路遇男孩落水2男子不约而同跳河救人",
       "onboard_time": 1721146517,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10867,
+      "num": 22093,
+      "word": "广州海珠一新能源车发生自燃",
+      "onboard_time": 1721167992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8161,
@@ -547,7 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2176,
+      "raw_hot": 2195,
       "num": 110026,
       "word": "一篇近半个世纪的工作总结",
       "onboard_time": 1721033418,
