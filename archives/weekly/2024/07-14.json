@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721108117240,
+  "endTime": 1721111275491,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1534296,
+      "num": 361922,
+      "word": "越来越多男性用阳伞",
+      "onboard_time": 1721106918,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1513723,
       "num": 1513723,
       "word": "李闽轩 中戏录取",
@@ -243,6 +251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1454906,
+      "num": 1454906,
+      "word": "苏醒薛之谦为梅西发声",
+      "onboard_time": 1721105480,
+      "rank": 0,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1448548,
       "num": 452608,
       "word": "肯尼亚42名女性被杀害肢解",
@@ -265,14 +281,6 @@
       "onboard_time": 1720965921,
       "rank": 6,
       "category": "国外时政,体育"
-    },
-    {
-      "raw_hot": 1341449,
-      "num": 1341449,
-      "word": "苏醒薛之谦为梅西发声",
-      "onboard_time": 1721105480,
-      "rank": 0,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1310814,
@@ -465,6 +473,14 @@
       "onboard_time": 1720926800,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1030934,
+      "num": 1030934,
+      "word": "你多胖可能在妈妈肚子里就决定了",
+      "onboard_time": 1721108537,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1027635,
@@ -817,14 +833,6 @@
       "onboard_time": 1721038877,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 693078,
-      "num": 298237,
-      "word": "越来越多男性用阳伞",
-      "onboard_time": 1721106918,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 691745,
@@ -1355,6 +1363,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 498513,
+      "num": 357927,
+      "word": "FBI已解锁特朗普枪击案嫌犯手机",
+      "onboard_time": 1721107399,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 497613,
       "num": 302311,
       "word": "宝马开始涨价了",
@@ -1587,6 +1603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 436586,
+      "num": 292130,
+      "word": "欧阳娜娜泳装照",
+      "onboard_time": 1721106978,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 436488,
       "num": 342004,
       "word": "苏醒回应自己是梅西球迷",
@@ -1771,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407066,
+      "num": 407066,
+      "word": "秦彻 文案",
+      "onboard_time": 1721107698,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406894,
       "num": 406894,
       "word": "九尾Cat清清梦之队交流大使",
@@ -1915,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364986,
+      "num": 364986,
+      "word": "唐朝异闻录定档",
+      "onboard_time": 1721109077,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362939,
       "num": 322594,
       "word": "卫生巾要2个小时换一次",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1720920202,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356928,
+      "num": 295382,
+      "word": "三伏天可适量多吃红色蔬果",
+      "onboard_time": 1721102058,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 356882,
@@ -2001,14 +2049,6 @@
       "onboard_time": 1720928901,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 350695,
-      "num": 295382,
-      "word": "三伏天可适量多吃红色蔬果",
-      "onboard_time": 1721102058,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 349057,
@@ -2409,14 +2449,6 @@
       "onboard_time": 1720939291,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 292130,
-      "num": 292130,
-      "word": "欧阳娜娜泳装照",
-      "onboard_time": 1721106978,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291626,
@@ -2827,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252690,
-      "num": 252690,
-      "word": "FBI已解锁特朗普枪击案嫌犯手机",
-      "onboard_time": 1721107399,
-      "rank": 26,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 252254,
       "num": 252254,
       "word": "入伏",
@@ -3043,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235093,
+      "num": 235093,
+      "word": "infp真的需要很多钱",
+      "onboard_time": 1721110637,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233262,
       "num": 233262,
       "word": "公职人员受贿原始股5万元变身510万",
@@ -3073,6 +3105,14 @@
       "onboard_time": 1721028798,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230795,
+      "num": 366799,
+      "word": "这次河南暴雨有一定极端性",
+      "onboard_time": 1721109018,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230051,
@@ -3209,6 +3249,14 @@
       "onboard_time": 1721103680,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221966,
+      "num": 221966,
+      "word": "农夫山泉正用7毛低价搅动市场",
+      "onboard_time": 1721105959,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221599,
@@ -3667,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "刘忻张予曦同框逛菜市场",
+      "onboard_time": 1721108719,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198799,
       "num": 198799,
       "word": "国乒出征",
@@ -3859,6 +3915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191931,
+      "num": 191931,
+      "word": "唐诡西行 就这个诡味爽",
+      "onboard_time": 1721110099,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191655,
       "num": 191655,
       "word": "虞书欣温婉国风",
@@ -3945,6 +4009,14 @@
       "onboard_time": 1721013377,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189714,
+      "num": 189714,
+      "word": "长相思2里的女性群像",
+      "onboard_time": 1721110158,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 189713,
@@ -4051,14 +4123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184595,
-      "num": 184595,
-      "word": "农夫山泉正用7毛低价搅动市场",
-      "onboard_time": 1721105959,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "萝卜快跑遇空编织袋停下",
@@ -4073,14 +4137,6 @@
       "onboard_time": 1720936824,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 183082,
-      "num": 183082,
-      "word": "秦彻 文案",
-      "onboard_time": 1721107698,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 183002,
@@ -4467,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167215,
+      "num": 167215,
+      "word": "乔兮头像",
+      "onboard_time": 1721108838,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167143,
       "num": 167143,
       "word": "J罗美洲杯最佳球员",
@@ -4569,6 +4633,14 @@
       "onboard_time": 1721085555,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163115,
+      "num": 163115,
+      "word": "大厂离职做博主有人后悔了",
+      "onboard_time": 1721108838,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 162090,
@@ -4723,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156640,
+      "num": 156640,
+      "word": "司机师傅可能是谈恋爱了",
+      "onboard_time": 1721110999,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155866,
       "num": 155866,
       "word": "九点上班要求8点50就到",
@@ -4873,6 +4953,14 @@
       "onboard_time": 1721038939,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150710,
+      "num": 150710,
+      "word": "马斯克向特朗普助选组织每月捐4500万美元",
+      "onboard_time": 1721110877,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150452,
@@ -5235,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137197,
+      "num": 137197,
+      "word": "梅西希望能很快重返球场",
+      "onboard_time": 1721108419,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137172,
       "num": 137172,
       "word": "董宇辉余承东直播",
@@ -5257,6 +5353,14 @@
       "onboard_time": 1720952118,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136302,
+      "num": 136302,
+      "word": "沈月深u樱桃点点裙",
+      "onboard_time": 1721109917,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 135914,
@@ -6227,6 +6331,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 97844,
+      "num": 363212,
+      "word": "第一次金标给了中国",
+      "onboard_time": 1721109858,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96511,
       "num": 96511,
       "word": "西班牙进球",
@@ -6643,6 +6755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 64030,
+      "num": 177164,
+      "word": "西岭雪山小熊猫成大树挂件",
+      "onboard_time": 1721109077,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63646,
       "num": 63646,
       "word": "亚马尔17岁生日礼物",
@@ -6681,6 +6801,14 @@
       "onboard_time": 1721066172,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62005,
+      "num": 295273,
+      "word": "少年打球后心脏骤停一群医生冲了上去",
+      "onboard_time": 1721111058,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 61509,
@@ -7137,6 +7265,14 @@
       "onboard_time": 1720954998,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 35376,
+      "num": 354647,
+      "word": "饿了么免单根号2又回来了",
+      "onboard_time": 1721109618,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 34163,

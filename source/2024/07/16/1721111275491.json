@@ -1,0 +1,410 @@
+{
+  "runTime": 1721111275491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454906,
+        "num": 1454906,
+        "word": "苏醒薛之谦为梅西发声",
+        "onboard_time": 1721105480,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1030934,
+        "num": 1030934,
+        "word": "你多胖可能在妈妈肚子里就决定了",
+        "onboard_time": 1721108537,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 6385,
+        "num": 682601,
+        "word": "每一秒都是奋进的中国",
+        "onboard_time": 1721034439,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511543,
+        "num": 511543,
+        "word": "400多件裙子退货店家损失近8000元",
+        "onboard_time": 1721096359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407066,
+        "num": 407066,
+        "word": "秦彻 文案",
+        "onboard_time": 1721107698,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406786,
+        "num": 406786,
+        "word": "几千块手机为何离不开几块钱的冰贴",
+        "onboard_time": 1721096717,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392140,
+        "num": 392140,
+        "word": "特朗普将与普京对话",
+        "onboard_time": 1721106141,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 40768,
+        "num": 369592,
+        "word": "新疆首座地下古墓遗址博物馆开馆",
+        "onboard_time": 1721093838,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230795,
+        "num": 366799,
+        "word": "这次河南暴雨有一定极端性",
+        "onboard_time": 1721109018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364986,
+        "num": 364986,
+        "word": "唐朝异闻录定档",
+        "onboard_time": 1721109077,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97844,
+        "num": 363212,
+        "word": "第一次金标给了中国",
+        "onboard_time": 1721109858,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534296,
+        "num": 361922,
+        "word": "越来越多男性用阳伞",
+        "onboard_time": 1721106918,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498513,
+        "num": 357927,
+        "word": "FBI已解锁特朗普枪击案嫌犯手机",
+        "onboard_time": 1721107399,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 470526,
+        "num": 356145,
+        "word": "特朗普右耳包扎绷带露面",
+        "onboard_time": 1721099598,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35376,
+        "num": 354647,
+        "word": "饿了么免单根号2又回来了",
+        "onboard_time": 1721109618,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352953,
+        "num": 352953,
+        "word": "我家那闺女",
+        "onboard_time": 1721106379,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315826,
+        "num": 315826,
+        "word": "农夫山泉要香港消委会道歉",
+        "onboard_time": 1721101759,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 62005,
+        "num": 295273,
+        "word": "少年打球后心脏骤停一群医生冲了上去",
+        "onboard_time": 1721111058,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 276817,
+        "num": 276817,
+        "word": "长相思2开分6.6",
+        "onboard_time": 1721104819,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268921,
+        "num": 268921,
+        "word": "肯尼亚42名女性被杀害肢解",
+        "onboard_time": 1721099057,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436586,
+        "num": 266835,
+        "word": "欧阳娜娜泳装照",
+        "onboard_time": 1721106978,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356928,
+        "num": 258123,
+        "word": "三伏天可适量多吃红色蔬果",
+        "onboard_time": 1721102058,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 246230,
+        "num": 246230,
+        "word": "布朗尼15中0",
+        "onboard_time": 1721105418,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242743,
+        "num": 242743,
+        "word": "金晓钟用虚拟人营业",
+        "onboard_time": 1721107520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235093,
+        "num": 235093,
+        "word": "infp真的需要很多钱",
+        "onboard_time": 1721110637,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221966,
+        "num": 221966,
+        "word": "农夫山泉正用7毛低价搅动市场",
+        "onboard_time": 1721105959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203687,
+        "num": 203687,
+        "word": "刘亦菲晒玫瑰周边",
+        "onboard_time": 1721105719,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198803,
+        "num": 198803,
+        "word": "刘忻张予曦同框逛菜市场",
+        "onboard_time": 1721108719,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197582,
+        "num": 197582,
+        "word": "秦岚剧透下一季花少成员",
+        "onboard_time": 1721101818,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191931,
+        "num": 191931,
+        "word": "唐诡西行 就这个诡味爽",
+        "onboard_time": 1721110099,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "长相思2里的女性群像",
+        "onboard_time": 1721110158,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64030,
+        "num": 177164,
+        "word": "西岭雪山小熊猫成大树挂件",
+        "onboard_time": 1721109077,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174258,
+        "num": 174258,
+        "word": "不建议穿短裤去电影院的原因",
+        "onboard_time": 1721086034,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167215,
+        "num": 167215,
+        "word": "乔兮头像",
+        "onboard_time": 1721108838,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167140,
+        "num": 167140,
+        "word": "原来考的不好是可以不用挨骂的",
+        "onboard_time": 1721100018,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163284,
+        "num": 163284,
+        "word": "用洗脸巾会烂脸是真的吗",
+        "onboard_time": 1721094618,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163115,
+        "num": 163115,
+        "word": "大厂离职做博主有人后悔了",
+        "onboard_time": 1721108838,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156640,
+        "num": 156640,
+        "word": "司机师傅可能是谈恋爱了",
+        "onboard_time": 1721110999,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155533,
+        "num": 155533,
+        "word": "王鸥被工作室嘲笑",
+        "onboard_time": 1721101519,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154987,
+        "num": 154987,
+        "word": "统一回应方便面酸菜中疑出现鼠头",
+        "onboard_time": 1721091857,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153564,
+        "num": 153564,
+        "word": "饿了么免单",
+        "onboard_time": 1721096898,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150922,
+        "num": 150922,
+        "word": "网购11元衣服仅退款后赔偿800元",
+        "onboard_time": 1721101519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150710,
+        "num": 150710,
+        "word": "马斯克向特朗普助选组织每月捐4500万美元",
+        "onboard_time": 1721110877,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148175,
+        "num": 148175,
+        "word": "抓娃娃票房",
+        "onboard_time": 1721092278,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138709,
+        "num": 138709,
+        "word": "郑州年平均工资102921元",
+        "onboard_time": 1721098817,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137197,
+        "num": 137197,
+        "word": "梅西希望能很快重返球场",
+        "onboard_time": 1721108419,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136738,
+        "num": 136738,
+        "word": "公职人员受贿原始股5万元变身510万",
+        "onboard_time": 1721104040,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "沈月深u樱桃点点裙",
+        "onboard_time": 1721109917,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134289,
+        "num": 134289,
+        "word": "宝马开始涨价了",
+        "onboard_time": 1721096178,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127376,
+        "num": 127376,
+        "word": "中国气象局启动暴雨二级应急响应",
+        "onboard_time": 1721104939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这72次会议读懂习近平的改革之道#"
+    }
+  }
+}
