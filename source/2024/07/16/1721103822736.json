@@ -1,0 +1,410 @@
+{
+  "runTime": 1721103822736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877915,
+        "num": 1140466,
+        "word": "几千块手机为何离不开几块钱的冰贴",
+        "onboard_time": 1721096717,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 626062,
+        "num": 626062,
+        "word": "秦岚剧透下一季花少成员",
+        "onboard_time": 1721101818,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6818,
+        "num": 625738,
+        "word": "每一秒都是奋进的中国",
+        "onboard_time": 1721034439,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1516738,
+        "num": 622539,
+        "word": "400多件裙子退货店家损失近8000元",
+        "onboard_time": 1721096359,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71530,
+        "num": 620062,
+        "word": "快递业务量累计完成801.6亿件",
+        "onboard_time": 1721100318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719942,
+        "num": 616415,
+        "word": "抓娃娃票房",
+        "onboard_time": 1721092278,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614792,
+        "num": 614792,
+        "word": "原来考的不好是可以不用挨骂的",
+        "onboard_time": 1721100018,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485212,
+        "num": 485212,
+        "word": "山河枕全阵容官宣",
+        "onboard_time": 1721100377,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475597,
+        "num": 475597,
+        "word": "小夭故居认母",
+        "onboard_time": 1721102478,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78227,
+        "num": 471832,
+        "word": "李小鹏重返08年奥运赛场",
+        "onboard_time": 1721103200,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1478522,
+        "num": 465346,
+        "word": "特朗普右耳包扎绷带露面",
+        "onboard_time": 1721099598,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42684,
+        "num": 460664,
+        "word": "华为手机镜头下的功夫舞蹈大片",
+        "onboard_time": 1721100798,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1389799,
+        "num": 452608,
+        "word": "肯尼亚42名女性被杀害肢解",
+        "onboard_time": 1721099057,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43287,
+        "num": 439253,
+        "word": "河南社旗大冯营降水量超600毫米",
+        "onboard_time": 1721103619,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79781,
+        "num": 431536,
+        "word": "如何花十年面对最亲的人离世",
+        "onboard_time": 1721099839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431221,
+        "num": 431221,
+        "word": "统一回应方便面酸菜中疑出现鼠头",
+        "onboard_time": 1721091857,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349818,
+        "num": 349818,
+        "word": "体育生放弃保研回乡成种地行家",
+        "onboard_time": 1721098157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328293,
+        "num": 328293,
+        "word": "特朗普出席共和党全国大会",
+        "onboard_time": 1721097377,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319603,
+        "num": 319603,
+        "word": "农夫山泉要香港消委会道歉",
+        "onboard_time": 1721101759,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 348156,
+        "num": 318075,
+        "word": "九尾",
+        "onboard_time": 1721101699,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 664479,
+        "num": 316551,
+        "word": "王鸥被工作室嘲笑",
+        "onboard_time": 1721101519,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 734987,
+        "num": 314169,
+        "word": "九尾或因手伤退役",
+        "onboard_time": 1721101100,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 623775,
+        "num": 311882,
+        "word": "郑州年平均工资102921元",
+        "onboard_time": 1721098817,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 27904,
+        "num": 311131,
+        "word": "像SIM卡槽一样薄的手机",
+        "onboard_time": 1721101218,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 506311,
+        "num": 307772,
+        "word": "不建议穿短裤去电影院的原因",
+        "onboard_time": 1721086034,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433885,
+        "num": 305889,
+        "word": "特朗普被提名总统候选人",
+        "onboard_time": 1721089638,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 405573,
+        "num": 304656,
+        "word": "用洗脸巾会烂脸是真的吗",
+        "onboard_time": 1721094618,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 325451,
+        "num": 302311,
+        "word": "宝马开始涨价了",
+        "onboard_time": 1721096178,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300653,
+        "num": 300653,
+        "word": "警方通报女子凌晨打出租车遭司机猥亵",
+        "onboard_time": 1721098218,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274058,
+        "num": 274058,
+        "word": "卢昱晓妈妈 爱的传递方式不同",
+        "onboard_time": 1721099776,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271556,
+        "num": 271556,
+        "word": "沈腾马丽谈退休",
+        "onboard_time": 1721102719,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264608,
+        "num": 264608,
+        "word": "网购11元衣服仅退款后赔偿800元",
+        "onboard_time": 1721101519,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246250,
+        "num": 246250,
+        "word": "小夭愿意跟相柳走不是因为誓言",
+        "onboard_time": 1721094858,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239667,
+        "num": 239667,
+        "word": "你们看错位的吃这么好",
+        "onboard_time": 1721101759,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231295,
+        "num": 231295,
+        "word": "三伏天可适量多吃红色蔬果",
+        "onboard_time": 1721102058,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 229631,
+        "num": 229631,
+        "word": "白敬亭西班牙吃火锅",
+        "onboard_time": 1721102540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216260,
+        "num": 216260,
+        "word": "新疆首座地下古墓遗址博物馆开馆",
+        "onboard_time": 1721093838,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212960,
+        "num": 212960,
+        "word": "马丽影史首位票房破200亿女主演",
+        "onboard_time": 1721087057,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208684,
+        "num": 208684,
+        "word": "王者水墨武侠CG",
+        "onboard_time": 1721103559,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206139,
+        "num": 206139,
+        "word": "周琦加盟北京男篮",
+        "onboard_time": 1721102899,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204784,
+        "num": 204784,
+        "word": "陈昊宇发新歌",
+        "onboard_time": 1721103318,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188005,
+        "num": 188005,
+        "word": "中国新闻网发肖战vlog",
+        "onboard_time": 1721102540,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170549,
+        "num": 170549,
+        "word": "开着空调闭门做饭一家五口中毒",
+        "onboard_time": 1721093898,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 166587,
+        "word": "鸿蒙智行第四界叫尊界",
+        "onboard_time": 1721103380,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158000,
+        "num": 158000,
+        "word": "新海诚你的名字终极预告",
+        "onboard_time": 1721100439,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153282,
+        "num": 153282,
+        "word": "爱奇艺基础会员无法跳过片头广告",
+        "onboard_time": 1721103680,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "给12岁失业的弟找了份高薪工作",
+        "onboard_time": 1721094077,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143495,
+        "num": 143495,
+        "word": "张杰鸟巢演唱会加场",
+        "onboard_time": 1721095699,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143296,
+        "num": 143296,
+        "word": "长相思2阿念瞬间成长",
+        "onboard_time": 1721100138,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140143,
+        "num": 140143,
+        "word": "特殊搬家公司 帮人一夜消失",
+        "onboard_time": 1721103438,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会聚焦这关键一招#"
+    }
+  }
+}
