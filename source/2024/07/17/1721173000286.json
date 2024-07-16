@@ -1,0 +1,410 @@
+{
+  "runTime": 1721173000286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 502687,
+        "num": 890429,
+        "word": "为什么成龙电影逐渐失去票房号召力",
+        "onboard_time": 1721170873,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 484829,
+        "num": 484829,
+        "word": "首尔市长请求向中国租借大熊猫",
+        "onboard_time": 1721172856,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6723,
+        "num": 462513,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455869,
+        "num": 455869,
+        "word": "官方通报老人报40元团4天3晚游桂林",
+        "onboard_time": 1721140460,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281490,
+        "num": 281490,
+        "word": "科比父亲去世",
+        "onboard_time": 1721141779,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203009,
+        "num": 203009,
+        "word": "薛之谦生日发新歌",
+        "onboard_time": 1721172616,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3705,
+        "num": 181684,
+        "word": "镜随光转的光热电站科技感拉满",
+        "onboard_time": 1721140400,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 220307,
+        "num": 181371,
+        "word": "上岸后发现教师这碗饭我真吃不了",
+        "onboard_time": 1721131218,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178823,
+        "num": 178823,
+        "word": "金价再度大涨",
+        "onboard_time": 1721134038,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45219,
+        "num": 177485,
+        "word": "梦想和班主任成为校友男生成功考上浙大",
+        "onboard_time": 1721171294,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403761,
+        "num": 175053,
+        "word": "5个大人4个小孩入住两个标间被拒",
+        "onboard_time": 1721135719,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431588,
+        "num": 172969,
+        "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
+        "onboard_time": 1721148014,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391085,
+        "num": 170626,
+        "word": "恩佐道歉",
+        "onboard_time": 1721171834,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "上海恐龙户型房1套499万",
+        "onboard_time": 1721136019,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152775,
+        "num": 152775,
+        "word": "编剧看了多少烂剧才写出的台词",
+        "onboard_time": 1721133317,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "田曦薇低智商犯罪路透",
+        "onboard_time": 1721146039,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113011,
+        "num": 113011,
+        "word": "老师最不看好你 你却偏偏最争气",
+        "onboard_time": 1721132837,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112606,
+        "num": 112606,
+        "word": "泰国被害女子姐姐发声",
+        "onboard_time": 1721133378,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108231,
+        "num": 108231,
+        "word": "金在中姐姐为隐瞒领养不过生日",
+        "onboard_time": 1721130678,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107607,
+        "num": 107607,
+        "word": "在日本海上漂流36小时中国女生自述",
+        "onboard_time": 1721129717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272525,
+        "num": 107339,
+        "word": "邓超儿子好像段奕宏",
+        "onboard_time": 1721131278,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168023,
+        "num": 106842,
+        "word": "你的肾是怎么一步步被透支掉的",
+        "onboard_time": 1721171895,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106203,
+        "num": 106203,
+        "word": "相亲和自谈最大的区别是什么",
+        "onboard_time": 1721139620,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102906,
+        "num": 102906,
+        "word": "王鹤棣金发回归",
+        "onboard_time": 1721141599,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101224,
+        "num": 101224,
+        "word": "武汉一外卖小哥背着AED送外卖",
+        "onboard_time": 1721170393,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91538,
+        "num": 91538,
+        "word": "长期喝咖啡对心脏有影响吗",
+        "onboard_time": 1721172798,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86054,
+        "num": 86054,
+        "word": "朱旺旺回应与李佳琦的关系",
+        "onboard_time": 1721134400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85372,
+        "num": 85372,
+        "word": "于文文去李莎旻子家像女婿上门",
+        "onboard_time": 1721170873,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82879,
+        "num": 82879,
+        "word": "网红面筋哥近况",
+        "onboard_time": 1721151253,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76189,
+        "num": 76189,
+        "word": "广州海珠一新能源车发生自燃",
+        "onboard_time": 1721167992,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71079,
+        "num": 71079,
+        "word": "李佳琦好像闺蜜不看好我男朋友的样子",
+        "onboard_time": 1721137879,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70687,
+        "num": 70687,
+        "word": "2个月婴儿抛媚眼萌坏家人",
+        "onboard_time": 1721172436,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 69301,
+        "num": 69301,
+        "word": "相柳不能解蛊的原因",
+        "onboard_time": 1721140221,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67222,
+        "num": 67222,
+        "word": "长期运动会显年轻吗",
+        "onboard_time": 1721160191,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 51926,
+        "num": 63229,
+        "word": "不论哪里办大赛爆单的都是中国",
+        "onboard_time": 1721146577,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62791,
+        "num": 62791,
+        "word": "阿拉蕾撞脸林妙可",
+        "onboard_time": 1721137099,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62148,
+        "num": 62148,
+        "word": "张新成艺考拿了八个第一",
+        "onboard_time": 1721138059,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62064,
+        "num": 62064,
+        "word": "谁家定档打电话通知啊",
+        "onboard_time": 1721141659,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 61737,
+        "num": 61737,
+        "word": "女子晒295元2日跟团游供4餐睡宾馆",
+        "onboard_time": 1721163430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45492,
+        "num": 61083,
+        "word": "泰警方称酒店6名死者疑死于氰化物中毒",
+        "onboard_time": 1721135178,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60827,
+        "num": 60827,
+        "word": "巴黎奥运会倒计时9天",
+        "onboard_time": 1721172856,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57740,
+        "num": 57740,
+        "word": "切尔西球员集体取关恩佐",
+        "onboard_time": 1721172798,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57176,
+        "num": 57176,
+        "word": "薛之谦新歌预告怪诞童话",
+        "onboard_time": 1721127378,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51810,
+        "num": 51810,
+        "word": "苹果回应iPhone鬼手现象",
+        "onboard_time": 1721132658,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51574,
+        "num": 51574,
+        "word": "中方回应万斯称中国是美国最大威胁",
+        "onboard_time": 1721129957,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50788,
+        "num": 50788,
+        "word": "苹果续创历史收盘新高",
+        "onboard_time": 1721171895,
+        "rank": 45,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 49263,
+        "num": 49263,
+        "word": "谁懂小猫拱这两下的含金量",
+        "onboard_time": 1721158571,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48047,
+        "num": 48047,
+        "word": "水瓶座的感情是阶段性的",
+        "onboard_time": 1721155871,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47802,
+        "num": 47802,
+        "word": "宋亚轩刘耀文包场抓娃娃",
+        "onboard_time": 1721139440,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47208,
+        "num": 47208,
+        "word": "带着微博去旅行",
+        "onboard_time": 1721171955,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样擘画全面深化改革开放#"
+    }
+  }
+}
