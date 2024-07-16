@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721168419571,
+  "endTime": 1721169391388,
   "band_list": [
     {
       "raw_hot": 895522,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 79166,
+      "num": 66998,
+      "word": "邓超儿子好像段奕宏",
+      "onboard_time": 1721131278,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75407,
       "num": 75407,
       "word": "鹿晗帮路人搬杠铃片",
@@ -329,14 +337,6 @@
       "onboard_time": 1721137879,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66998,
-      "num": 66998,
-      "word": "邓超儿子好像段奕宏",
-      "onboard_time": 1721131278,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 66181,
@@ -361,6 +361,14 @@
       "onboard_time": 1721133498,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62485,
+      "num": 49703,
+      "word": "梁博变陶喆了",
+      "onboard_time": 1721154312,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 62165,
@@ -395,11 +403,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51494,
-      "num": 32796,
-      "word": "梁博变陶喆了",
-      "onboard_time": 1721154312,
-      "rank": 47,
+      "raw_hot": 47667,
+      "num": 47667,
+      "word": "阿拉蕾撞脸林妙可",
+      "onboard_time": 1721137099,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -409,14 +417,6 @@
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43218,
-      "num": 44202,
-      "word": "阿拉蕾撞脸林妙可",
-      "onboard_time": 1721137099,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 40993,
@@ -435,44 +435,52 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26264,
-      "num": 26264,
+      "raw_hot": 28423,
+      "num": 28423,
       "word": "女子晒295元2日跟团游供4餐睡宾馆",
       "onboard_time": 1721163430,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19115,
-      "num": 22115,
-      "word": "水瓶座的感情是阶段性的",
-      "onboard_time": 1721155871,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 19073,
-      "num": 22116,
+      "raw_hot": 23107,
+      "num": 26284,
       "word": "长期运动会显年轻吗",
       "onboard_time": 1721160191,
       "rank": 47,
       "category": "运动健身"
     },
     {
-      "raw_hot": 17111,
-      "num": 22109,
+      "raw_hot": 22734,
+      "num": 26279,
+      "word": "水瓶座的感情是阶段性的",
+      "onboard_time": 1721155871,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 20658,
+      "num": 26274,
       "word": "谁懂小猫拱这两下的含金量",
       "onboard_time": 1721158571,
       "rank": 39,
       "category": "情感"
     },
     {
-      "raw_hot": 17067,
+      "raw_hot": 19953,
       "num": 31601,
       "word": "脊椎也有最喜欢的坐姿",
       "onboard_time": 1721154192,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 19204,
+      "num": 26268,
+      "word": "广州海珠一新能源车发生自燃",
+      "onboard_time": 1721167992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16162,
@@ -505,14 +513,6 @@
       "onboard_time": 1721146517,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 10867,
-      "num": 22093,
-      "word": "广州海珠一新能源车发生自燃",
-      "onboard_time": 1721167992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8161,
@@ -555,7 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2195,
+      "raw_hot": 2546,
       "num": 110026,
       "word": "一篇近半个世纪的工作总结",
       "onboard_time": 1721033418,
