@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721183856276,
+  "endTime": 1721184430913,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 933852,
-      "num": 182521,
+      "num": 196465,
       "word": "你以为很卫生其实很脏的行为",
       "onboard_time": 1721181617,
       "rank": 20,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1721052380,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639397,
+      "num": 310983,
+      "word": "于文文退出我家那闺女录制",
+      "onboard_time": 1721183777,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 638813,
@@ -2411,6 +2419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 382645,
+      "num": 195081,
+      "word": "边佑锡耍大牌轰动韩娱界",
+      "onboard_time": 1721180779,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378807,
       "num": 208916,
       "word": "特朗普对拜登来电表示感谢",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1721137700,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369450,
-      "num": 182265,
-      "word": "边佑锡耍大牌轰动韩娱界",
-      "onboard_time": 1721180779,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 368826,
@@ -2841,6 +2849,14 @@
       "onboard_time": 1720943662,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 322465,
+      "num": 322465,
+      "word": "宝鸡暴雨",
+      "onboard_time": 1721182218,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321728,
@@ -3612,7 +3628,7 @@
     },
     {
       "raw_hot": 251231,
-      "num": 299075,
+      "num": 314545,
       "word": "男生放弃清华报考国防科大",
       "onboard_time": 1721180479,
       "rank": 47,
@@ -3699,6 +3715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247095,
+      "num": 193017,
+      "word": "Kakao将出售SM等子公司",
+      "onboard_time": 1721183599,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246538,
       "num": 246538,
       "word": "在厕所被塞小纸条了",
@@ -3737,14 +3761,6 @@
       "onboard_time": 1720940302,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 243499,
-      "num": 243499,
-      "word": "宝鸡暴雨",
-      "onboard_time": 1721182218,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243161,
@@ -3841,6 +3857,14 @@
       "onboard_time": 1721052259,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235816,
+      "num": 235816,
+      "word": "谁说涂山璟是只有爱情",
+      "onboard_time": 1721182878,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 235601,
@@ -4016,6 +4040,14 @@
       "word": "Faker科目四",
       "onboard_time": 1720946902,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 223645,
+      "num": 191857,
+      "word": "Uzi回应不如JackeyLove",
+      "onboard_time": 1721183478,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -4267,14 +4299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209284,
-      "num": 180673,
-      "word": "Kakao将出售SM等子公司",
-      "onboard_time": 1721183599,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209121,
       "num": 209121,
       "word": "苏容卿一场大火葬两世情爱",
@@ -4369,6 +4393,14 @@
       "onboard_time": 1721097020,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205802,
+      "num": 205802,
+      "word": "94岁吴明珠来到吐鲁番",
+      "onboard_time": 1721177719,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205617,
@@ -4739,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196613,
+      "num": 196613,
+      "word": "她把一生奉献给了甜蜜的事业",
+      "onboard_time": 1721180898,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196507,
       "num": 196507,
       "word": "黄子弘凡赵今麦有自己的获胜公式",
@@ -5075,14 +5115,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 186731,
-      "num": 180311,
-      "word": "Uzi回应不如JackeyLove",
-      "onboard_time": 1721183478,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186429,
       "num": 186429,
       "word": "王一博传递奥运圣火",
@@ -5123,14 +5155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183894,
-      "num": 183894,
-      "word": "94岁吴明珠来到吐鲁番",
-      "onboard_time": 1721177719,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "萝卜快跑遇空编织袋停下",
@@ -5161,14 +5185,6 @@
       "onboard_time": 1720990332,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182752,
-      "num": 182752,
-      "word": "她把一生奉献给了甜蜜的事业",
-      "onboard_time": 1721180898,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182697,
@@ -5297,14 +5313,6 @@
       "onboard_time": 1721103380,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 178959,
-      "num": 175499,
-      "word": "谁说涂山璟是只有爱情",
-      "onboard_time": 1721182878,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 178623,
@@ -5473,6 +5481,14 @@
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172566,
+      "num": 172566,
+      "word": "金价",
+      "onboard_time": 1721184259,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 172199,
@@ -5859,6 +5875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161496,
+      "num": 161496,
+      "word": "原神开门",
+      "onboard_time": 1721183898,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160555,
       "num": 160555,
       "word": "长相思",
@@ -6187,6 +6211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152655,
+      "num": 152655,
+      "word": "崔永熙骑马射箭",
+      "onboard_time": 1721182097,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152364,
       "num": 258075,
       "word": "高铁怎么还有这么坐的啊",
@@ -6257,6 +6289,14 @@
       "onboard_time": 1720950261,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150359,
+      "num": 150359,
+      "word": "起猛了看到蟑螂有应援棒了",
+      "onboard_time": 1721183417,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 150333,
@@ -6651,14 +6691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139100,
-      "num": 139100,
-      "word": "于文文退出我家那闺女录制",
-      "onboard_time": 1721183777,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138857,
       "num": 138857,
       "word": "哥伦比亚球迷赛后争吵斗殴致5死",
@@ -6721,6 +6753,14 @@
       "onboard_time": 1721017941,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137762,
+      "num": 137762,
+      "word": "老人捡到4万元冒高温骑行交给民警",
+      "onboard_time": 1721183238,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137653,
@@ -7283,14 +7323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124069,
-      "num": 124069,
-      "word": "起猛了看到蟑螂有应援棒了",
-      "onboard_time": 1721183417,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124013,
       "num": 775652,
       "word": "几百块回收废旧家电翻新后卖1500",
@@ -7425,14 +7457,6 @@
       "onboard_time": 1721116458,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121715,
-      "num": 121715,
-      "word": "崔永熙骑马射箭",
-      "onboard_time": 1721182097,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 121300,
@@ -7763,6 +7787,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 110030,
+      "num": 110030,
+      "word": "源氏木语家具被曝买了4个月仍有甲醛",
+      "onboard_time": 1721184138,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109968,
       "num": 109968,
       "word": "ZB1抵达上海",
@@ -7993,14 +8025,6 @@
       "onboard_time": 1720879398,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105126,
-      "num": 105126,
-      "word": "老人捡到4万元冒高温骑行交给民警",
-      "onboard_time": 1721183238,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104872,
