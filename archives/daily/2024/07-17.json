@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721193564692,
+  "endTime": 1721194559449,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -83,6 +83,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 877148,
+      "num": 415841,
+      "word": "李梦 性感衣服跳出广播体操感",
+      "onboard_time": 1721192720,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 834719,
+      "num": 763468,
+      "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
+      "onboard_time": 1721191760,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814062,
       "num": 814062,
       "word": "马克龙接受法国政府辞职",
@@ -113,14 +129,6 @@
       "onboard_time": 1721190740,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 763468,
-      "num": 763468,
-      "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
-      "onboard_time": 1721191760,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729797,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522441,
+      "num": 212506,
+      "word": "小彩旗英国大学毕业",
+      "onboard_time": 1721193197,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502687,
       "num": 890429,
       "word": "为什么成龙电影逐渐失去票房号召力",
@@ -243,12 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 450383,
-      "num": 415841,
-      "word": "李梦 性感衣服跳出广播体操感",
-      "onboard_time": 1721192720,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 453670,
+      "num": 453670,
+      "word": "女生术前做检查发现医生是同学",
+      "onboard_time": 1721190200,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445888,
@@ -275,15 +291,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 423993,
-      "num": 413469,
-      "word": "女生术前做检查发现医生是同学",
-      "onboard_time": 1721190200,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416643,
+      "raw_hot": 418744,
       "num": 270462,
       "word": "Jennie朴彩英最新同框",
       "onboard_time": 1721192479,
@@ -475,6 +483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274210,
+      "num": 224640,
+      "word": "董洁晒与儿子日本旅行vlog",
+      "onboard_time": 1721194100,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
@@ -523,14 +539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 248498,
-      "num": 212506,
-      "word": "小彩旗英国大学毕业",
-      "onboard_time": 1721193197,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247684,
       "num": 203261,
       "word": "编剧看了多少烂剧才写出的台词",
@@ -553,6 +561,14 @@
       "onboard_time": 1721183599,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244883,
+      "num": 224232,
+      "word": "原来谈恋爱在是谈一种能力",
+      "onboard_time": 1721192178,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 240689,
@@ -579,12 +595,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227271,
+      "num": 227271,
+      "word": "成龙新片靠AI换脸重返年轻",
+      "onboard_time": 1721193738,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223645,
       "num": 191857,
       "word": "Uzi回应不如JackeyLove",
       "onboard_time": 1721183478,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223509,
+      "num": 223509,
+      "word": "蓝盈莹 人其实很少能好好说再见",
+      "onboard_time": 1721194159,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221577,
@@ -601,14 +633,6 @@
       "onboard_time": 1721139440,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 215388,
-      "num": 215388,
-      "word": "原来谈恋爱在是谈一种能力",
-      "onboard_time": 1721192178,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 208606,
@@ -641,6 +665,14 @@
       "onboard_time": 1721141659,
       "rank": 5,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 204294,
+      "num": 204294,
+      "word": "喜欢你我也是",
+      "onboard_time": 1721194459,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203020,
@@ -691,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195884,
+      "num": 195884,
+      "word": "恩佐就演唱种族歧视歌曲道歉",
+      "onboard_time": 1721194399,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195745,
+      "num": 195745,
+      "word": "严浩翔 非反驳型人格",
+      "onboard_time": 1721193798,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195450,
       "num": 195450,
       "word": "周冬雨彭冠英海报",
@@ -731,6 +779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191240,
+      "num": 182130,
+      "word": "安吉撞脸刘昊然",
+      "onboard_time": 1721194281,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191166,
+      "num": 196306,
+      "word": "宝青坊主有了新皮肤",
+      "onboard_time": 1721193679,
+      "rank": 32,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 189786,
       "num": 189786,
       "word": "时代少年团新歌抢先试听",
@@ -755,6 +819,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189479,
+      "num": 420109,
+      "word": "大模型测不出9.11和9.9哪个大",
+      "onboard_time": 1721192420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188798,
+      "num": 195962,
+      "word": "易烊千玺闪光成影",
+      "onboard_time": 1721193979,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188558,
+      "num": 177368,
+      "word": "错位",
+      "onboard_time": 1721193560,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186664,
       "num": 186664,
       "word": "海边的秘密阵容官宣",
@@ -769,6 +857,14 @@
       "onboard_time": 1721186237,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185400,
+      "num": 185400,
+      "word": "满城打卡薛之谦",
+      "onboard_time": 1721193859,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 184065,
@@ -921,6 +1017,14 @@
       "onboard_time": 1721190859,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146892,
+      "num": 415243,
+      "word": "三甲这些挂号不就诊的病人去哪了",
+      "onboard_time": 1721192420,
+      "rank": 14,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 144365,
@@ -1091,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116247,
+      "num": 268947,
+      "word": "古茗员工没事哒没事哒",
+      "onboard_time": 1721193019,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115240,
       "num": 115240,
       "word": "苏敏回应支付16万离婚",
@@ -1137,14 +1249,6 @@
       "onboard_time": 1721130678,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107144,
-      "num": 420109,
-      "word": "大模型测不出9.11和9.9哪个大",
-      "onboard_time": 1721192420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106653,
@@ -1203,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89307,
-      "num": 415243,
-      "word": "三甲这些挂号不就诊的病人去哪了",
-      "onboard_time": 1721192420,
-      "rank": 14,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 88447,
       "num": 88447,
       "word": "梁博变陶喆了",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1721142860,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87248,
+      "num": 408189,
+      "word": "巴黎奥运你有一批中国智造请查收",
+      "onboard_time": 1721190619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84904,
@@ -1443,6 +1547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 45986,
+      "num": 564848,
+      "word": "暑运多条铁路线路热力十足",
+      "onboard_time": 1721191340,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45492,
       "num": 61083,
       "word": "泰警方称酒店6名死者疑死于氰化物中毒",
@@ -1459,28 +1571,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 45165,
-      "num": 217102,
-      "word": "古茗员工没事哒没事哒",
-      "onboard_time": 1721193019,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 45058,
       "num": 52713,
       "word": "杨幂在玩一种很新的动图",
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43280,
-      "num": 408189,
-      "word": "巴黎奥运你有一批中国智造请查收",
-      "onboard_time": 1721190619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40993,
@@ -1491,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40380,
-      "num": 564848,
-      "word": "暑运多条铁路线路热力十足",
-      "onboard_time": 1721191340,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33690,
       "num": 44150,
       "word": "时代少年团对接回应演唱会",
@@ -1507,7 +1595,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28605,
+      "raw_hot": 31947,
       "num": 763550,
       "word": "开启新的伟大变革",
       "onboard_time": 1721191820,
@@ -1612,6 +1700,9 @@
     },
     {
       "word": "#改革近镜头#"
+    },
+    {
+      "word": "#我们要把命运掌握在自己手中#"
     }
   ]
 }
