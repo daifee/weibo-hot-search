@@ -1,7 +1,15 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721180728296,
+  "endTime": 1721183856276,
   "band_list": [
+    {
+      "raw_hot": 1280600,
+      "num": 1280600,
+      "word": "印尼羽协不再对张志杰遗体负责",
+      "onboard_time": 1721179219,
+      "rank": 28,
+      "category": "体育"
+    },
     {
       "raw_hot": 1100046,
       "num": 1176007,
@@ -11,11 +19,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1066977,
-      "num": 1170716,
-      "word": "印尼羽协不再对张志杰遗体负责",
-      "onboard_time": 1721179219,
-      "rank": 28,
+      "raw_hot": 1070991,
+      "num": 1070991,
+      "word": "张志杰事件处理无任何结果",
+      "onboard_time": 1721179877,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1721172856,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933852,
+      "num": 182521,
+      "word": "你以为很卫生其实很脏的行为",
+      "onboard_time": 1721181617,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 895522,
@@ -67,14 +83,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700381,
-      "num": 700381,
-      "word": "张志杰事件处理无任何结果",
-      "onboard_time": 1721179877,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 692905,
       "num": 355772,
       "word": "特朗普私下谈遭枪击感受",
@@ -107,8 +115,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 564531,
-      "num": 564531,
+      "raw_hot": 584723,
+      "num": 584723,
       "word": "河南暴雨",
       "onboard_time": 1721178618,
       "rank": 17,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369450,
+      "num": 182265,
+      "word": "边佑锡耍大牌轰动韩娱界",
+      "onboard_time": 1721180779,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366179,
       "num": 366179,
       "word": "王一博到底是哪的",
@@ -227,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 292694,
+      "num": 292694,
+      "word": "抓娃娃结尾",
+      "onboard_time": 1721178977,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
@@ -251,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251231,
+      "num": 299075,
+      "word": "男生放弃清华报考国防科大",
+      "onboard_time": 1721180479,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 247684,
       "num": 203261,
       "word": "编剧看了多少烂剧才写出的台词",
@@ -267,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243499,
+      "num": 243499,
+      "word": "宝鸡暴雨",
+      "onboard_time": 1721182218,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240689,
       "num": 240689,
       "word": "30岁渐冻症男子打破死亡预言收获幸福",
@@ -281,6 +321,14 @@
       "onboard_time": 1721139440,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209284,
+      "num": 180673,
+      "word": "Kakao将出售SM等子公司",
+      "onboard_time": 1721183599,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 206811,
@@ -339,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197148,
-      "num": 197148,
-      "word": "抓娃娃结尾",
-      "onboard_time": 1721178977,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192080,
       "num": 192080,
       "word": "上海恐龙户型房1套499万",
@@ -355,12 +395,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179821,
-      "num": 179821,
+      "raw_hot": 186731,
+      "num": 180311,
+      "word": "Uzi回应不如JackeyLove",
+      "onboard_time": 1721183478,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183894,
+      "num": 183894,
+      "word": "94岁吴明珠来到吐鲁番",
+      "onboard_time": 1721177719,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182752,
+      "num": 182752,
+      "word": "她把一生奉献给了甜蜜的事业",
+      "onboard_time": 1721180898,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180214,
+      "num": 180214,
       "word": "长相思有自己的燃冬",
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178959,
+      "num": 175499,
+      "word": "谁说涂山璟是只有爱情",
+      "onboard_time": 1721182878,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171403,
+      "num": 171403,
+      "word": "原神",
+      "onboard_time": 1721177899,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 171332,
@@ -443,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139100,
+      "num": 139100,
+      "word": "于文文退出我家那闺女录制",
+      "onboard_time": 1721183777,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136521,
       "num": 136521,
       "word": "中国智造已率先抵达巴黎奥运赛场",
@@ -459,20 +547,20 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 130762,
-      "num": 121191,
+      "raw_hot": 134729,
+      "num": 134729,
       "word": "宋亚轩刘耀文站起来和张峻豪打招呼",
       "onboard_time": 1721178560,
       "rank": 43,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130202,
-      "num": 130202,
-      "word": "94岁吴明珠来到吐鲁番",
-      "onboard_time": 1721177719,
+      "raw_hot": 133701,
+      "num": 133701,
+      "word": "黑暗荣耀大婶重庆拍综艺",
+      "onboard_time": 1721182698,
       "rank": 37,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 129972,
@@ -491,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124069,
+      "num": 124069,
+      "word": "起猛了看到蟑螂有应援棒了",
+      "onboard_time": 1721183417,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123249,
       "num": 123249,
       "word": "相柳记得小夭的每一句话",
@@ -505,6 +601,14 @@
       "onboard_time": 1721129717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121715,
+      "num": 121715,
+      "word": "崔永熙骑马射箭",
+      "onboard_time": 1721182097,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120965,
@@ -545,6 +649,22 @@
       "onboard_time": 1721179157,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116788,
+      "num": 116788,
+      "word": "薛之谦演唱会上没摇过伴舞",
+      "onboard_time": 1721181199,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115240,
+      "num": 115240,
+      "word": "苏敏回应支付16万离婚",
+      "onboard_time": 1721181557,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113191,
@@ -611,12 +731,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105911,
-      "num": 105911,
-      "word": "男生放弃清华报考国防科大",
-      "onboard_time": 1721180479,
-      "rank": 47,
-      "category": "教育,社会新闻"
+      "raw_hot": 105126,
+      "num": 105126,
+      "word": "老人捡到4万元冒高温骑行交给民警",
+      "onboard_time": 1721183238,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101224,
@@ -713,6 +833,14 @@
       "onboard_time": 1721127858,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74754,
+      "num": 591520,
+      "word": "湾区最长地铁让1天逛5城不是梦",
+      "onboard_time": 1721146337,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71079,
@@ -875,14 +1003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30268,
-      "num": 441537,
-      "word": "湾区最长地铁让1天逛5城不是梦",
-      "onboard_time": 1721146337,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19953,
       "num": 31601,
       "word": "脊椎也有最喜欢的坐姿",
@@ -924,7 +1044,7 @@
     },
     {
       "raw_hot": 10846,
-      "num": 793430,
+      "num": 836834,
       "word": "一篇近半个世纪的工作总结",
       "onboard_time": 1721033418,
       "rank": 2,

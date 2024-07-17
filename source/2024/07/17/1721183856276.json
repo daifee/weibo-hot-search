@@ -1,0 +1,410 @@
+{
+  "runTime": 1721183856276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280600,
+        "num": 1280600,
+        "word": "印尼羽协不再对张志杰遗体负责",
+        "onboard_time": 1721179219,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1070991,
+        "num": 1070991,
+        "word": "张志杰事件处理无任何结果",
+        "onboard_time": 1721179877,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8499,
+        "num": 836834,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642728,
+        "num": 642728,
+        "word": "阿念 大女主",
+        "onboard_time": 1721176158,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74754,
+        "num": 591520,
+        "word": "湾区最长地铁让1天逛5城不是梦",
+        "onboard_time": 1721146337,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584723,
+        "num": 584723,
+        "word": "河南暴雨",
+        "onboard_time": 1721178618,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533092,
+        "num": 533092,
+        "word": "恩佐道歉",
+        "onboard_time": 1721171834,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332157,
+        "num": 332157,
+        "word": "多名毕业于土木专业学生谈工作经历",
+        "onboard_time": 1721174778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300104,
+        "num": 300104,
+        "word": "韩国七旬老人就业率突破30%",
+        "onboard_time": 1721176458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251231,
+        "num": 299075,
+        "word": "男生放弃清华报考国防科大",
+        "onboard_time": 1721180479,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 665557,
+        "num": 298164,
+        "word": "首尔市长请求向中国租借大熊猫",
+        "onboard_time": 1721172856,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517824,
+        "num": 295667,
+        "word": "特朗普私下谈遭枪击感受",
+        "onboard_time": 1721178677,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 420363,
+        "num": 294016,
+        "word": "坚持穿袜子睡觉1个月身体的变化",
+        "onboard_time": 1721174057,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292694,
+        "num": 292694,
+        "word": "抓娃娃结尾",
+        "onboard_time": 1721178977,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280022,
+        "num": 280022,
+        "word": "奶奶去吃席为什么紧张的是我",
+        "onboard_time": 1721173216,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243499,
+        "num": 243499,
+        "word": "宝鸡暴雨",
+        "onboard_time": 1721182218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205681,
+        "num": 205681,
+        "word": "为什么成龙电影逐渐失去票房号召力",
+        "onboard_time": 1721170873,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184658,
+        "num": 184658,
+        "word": "马克龙接受法国政府辞职",
+        "onboard_time": 1721175557,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183894,
+        "num": 183894,
+        "word": "94岁吴明珠来到吐鲁番",
+        "onboard_time": 1721177719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182752,
+        "num": 182752,
+        "word": "她把一生奉献给了甜蜜的事业",
+        "onboard_time": 1721180898,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933852,
+        "num": 182521,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369450,
+        "num": 182265,
+        "word": "边佑锡耍大牌轰动韩娱界",
+        "onboard_time": 1721180779,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350829,
+        "num": 181657,
+        "word": "晚上睡觉时空调不要开26度",
+        "onboard_time": 1721174357,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 300371,
+        "num": 181374,
+        "word": "长期喝咖啡对心脏有影响吗",
+        "onboard_time": 1721172798,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209284,
+        "num": 180673,
+        "word": "Kakao将出售SM等子公司",
+        "onboard_time": 1721183599,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186731,
+        "num": 180311,
+        "word": "Uzi回应不如JackeyLove",
+        "onboard_time": 1721183478,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180214,
+        "num": 180214,
+        "word": "长相思有自己的燃冬",
+        "onboard_time": 1721177839,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176992,
+        "num": 176992,
+        "word": "30岁渐冻症男子打破死亡预言收获幸福",
+        "onboard_time": 1721175858,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178959,
+        "num": 175499,
+        "word": "谁说涂山璟是只有爱情",
+        "onboard_time": 1721182878,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171403,
+        "num": 171403,
+        "word": "原神",
+        "onboard_time": 1721177899,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164734,
+        "num": 164734,
+        "word": "王一博到底是哪的",
+        "onboard_time": 1721174357,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160140,
+        "num": 160140,
+        "word": "女警一声大喊救险被货车碾压的骑车人",
+        "onboard_time": 1721178079,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141461,
+        "num": 141461,
+        "word": "科比父亲去世",
+        "onboard_time": 1721141779,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138112,
+        "num": 138112,
+        "word": "石凯说披哥全是sorry",
+        "onboard_time": 1721177000,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135937,
+        "num": 135937,
+        "word": "王俊凯代言夸克",
+        "onboard_time": 1721174057,
+        "rank": 35,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 134729,
+        "num": 134729,
+        "word": "宋亚轩刘耀文站起来和张峻豪打招呼",
+        "onboard_time": 1721178560,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133701,
+        "num": 133701,
+        "word": "黑暗荣耀大婶重庆拍综艺",
+        "onboard_time": 1721182698,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128452,
+        "num": 128452,
+        "word": "你的肾是怎么一步步被透支掉的",
+        "onboard_time": 1721171895,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127698,
+        "num": 127698,
+        "word": "阿根廷球员疑似种族歧视",
+        "onboard_time": 1721178858,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124069,
+        "num": 124069,
+        "word": "起猛了看到蟑螂有应援棒了",
+        "onboard_time": 1721183417,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128019,
+        "num": 123128,
+        "word": "刘耀文以为自己是公司最小的",
+        "onboard_time": 1721173455,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121715,
+        "num": 121715,
+        "word": "崔永熙骑马射箭",
+        "onboard_time": 1721182097,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116788,
+        "num": 116788,
+        "word": "薛之谦演唱会上没摇过伴舞",
+        "onboard_time": 1721181199,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "扩列因为不懂规矩被要10元",
+        "onboard_time": 1721178618,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115240,
+        "num": 115240,
+        "word": "苏敏回应支付16万离婚",
+        "onboard_time": 1721181557,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105126,
+        "num": 105126,
+        "word": "老人捡到4万元冒高温骑行交给民警",
+        "onboard_time": 1721183238,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103573,
+        "num": 103573,
+        "word": "官方通报老人报40元团4天3晚游桂林",
+        "onboard_time": 1721140460,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107978,
+        "num": 102016,
+        "word": "薛之谦生日发新歌",
+        "onboard_time": 1721172616,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99244,
+        "num": 99244,
+        "word": "花花在空调房里玩嗨了",
+        "onboard_time": 1721174599,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样擘画全面深化改革开放#"
+    }
+  }
+}
