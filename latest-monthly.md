@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 11:22:59
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 11:36:30
 </p>
 </blockquote>
 <p>
@@ -387,6 +387,12 @@ Jennie方承认吸烟并道歉（热度：1919980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%80%80%E5%87%BA%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BD%95%E5%88%B6%23" target="weibo">
+于文文退出我家那闺女录制（热度：1863874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E7%A7%92%E4%BA%86%23" target="weibo">
 黄宣秒了（热度：1861889）
 </a>
@@ -485,12 +491,6 @@ TES（热度：1771255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 秦彻 抄袭（热度：1753553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%80%80%E5%87%BA%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BD%95%E5%88%B6%23" target="weibo">
-于文文退出我家那闺女录制（热度：1751762）
 </a>
 </li>
 
@@ -1767,6 +1767,12 @@ Jennie疑似抽烟（热度：1100610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1072632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B2%82%E5%B8%82%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD%E6%88%98%E7%A5%A5%E6%98%A5%E9%81%87%E5%AE%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
 临沂市文联主席战祥春遇害身亡（热度：1072084）
 </a>
@@ -2021,12 +2027,6 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1006533）
 </a>
 </li>
 
@@ -5391,6 +5391,12 @@ B太说被300主播针对（热度：578348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%86%B2%E5%88%B0%E8%B6%85750%E5%85%83%E6%AF%8F%E5%85%8B%23" target="weibo">
+金饰价格一夜冲到超750元每克（热度：572301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%A2%93%E6%9D%89%20%E5%8C%97%E7%94%B5%E6%96%B0%E7%94%9F%E7%BE%A4%23" target="weibo">
 荣梓杉 北电新生群（热度：571635）
 </a>
@@ -5585,12 +5591,6 @@ IVE香港演唱会评论区（热度：566536）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E7%A7%B0%E6%8F%90%E5%89%8D%E7%9C%8B%E5%88%B0%E6%9E%AA%E6%89%8B%E5%B9%B6%E5%91%8A%E7%9F%A5%E8%AD%A6%E5%AF%9F%23" target="weibo">
 特朗普支持者称提前看到枪手并告知警察（热度：560868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%86%B2%E5%88%B0%E8%B6%85750%E5%85%83%E6%AF%8F%E5%85%8B%23" target="weibo">
-金饰价格一夜冲到超750元每克（热度：560099）
 </a>
 </li>
 

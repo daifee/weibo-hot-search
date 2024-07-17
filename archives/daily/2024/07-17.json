@@ -1,10 +1,10 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721186579558,
+  "endTime": 1721187390400,
   "band_list": [
     {
-      "raw_hot": 1751762,
-      "num": 1751762,
+      "raw_hot": 1863874,
+      "num": 1863874,
       "word": "于文文退出我家那闺女录制",
       "onboard_time": 1721183777,
       "rank": 33,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1072632,
+      "num": 1072632,
+      "word": "金价",
+      "onboard_time": 1721184259,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1070991,
       "num": 1070991,
       "word": "张志杰事件处理无任何结果",
@@ -35,16 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1006533,
-      "num": 1006533,
-      "word": "金价",
-      "onboard_time": 1721184259,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 941079,
-      "num": 484829,
+      "num": 487983,
       "word": "首尔市长请求向中国租借大熊猫",
       "onboard_time": 1721172856,
       "rank": 1,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 933852,
-      "num": 264480,
+      "num": 268340,
       "word": "你以为很卫生其实很脏的行为",
       "onboard_time": 1721181617,
       "rank": 20,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560099,
-      "num": 560099,
+      "raw_hot": 572301,
+      "num": 572301,
       "word": "金饰价格一夜冲到超750元每克",
       "onboard_time": 1721184620,
       "rank": 3,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440772,
+      "num": 440772,
+      "word": "王嘉尔没有经纪人",
+      "onboard_time": 1721185699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431588,
       "num": 172969,
       "word": "袭击特朗普枪手曾出演接管乌资产公司广告",
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400337,
+      "num": 518740,
+      "word": "临江仙海报",
+      "onboard_time": 1721185818,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398583,
       "num": 398583,
       "word": "张新成艺考拿了八个第一",
@@ -211,18 +227,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382645,
-      "num": 250595,
-      "word": "边佑锡耍大牌轰动韩娱界",
-      "onboard_time": 1721180779,
+      "raw_hot": 386683,
+      "num": 263817,
+      "word": "赵露思素颜与好友聚餐",
+      "onboard_time": 1721184740,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 381540,
-      "num": 254816,
-      "word": "赵露思素颜与好友聚餐",
-      "onboard_time": 1721184740,
+      "raw_hot": 382645,
+      "num": 252792,
+      "word": "边佑锡耍大牌轰动韩娱界",
+      "onboard_time": 1721180779,
       "rank": 21,
       "category": "艺人"
     },
@@ -299,12 +315,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287530,
-      "num": 287530,
-      "word": "王嘉尔没有经纪人",
-      "onboard_time": 1721185699,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 282516,
+      "num": 242469,
+      "word": "感觉朋友圈的味道越来越怪",
+      "onboard_time": 1721185517,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 276950,
+      "num": 314545,
+      "word": "男生放弃清华报考国防科大",
+      "onboard_time": 1721180479,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273803,
@@ -313,14 +337,6 @@
       "onboard_time": 1721178079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272704,
-      "num": 314545,
-      "word": "男生放弃清华报考国防科大",
-      "onboard_time": 1721180479,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 272525,
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242469,
-      "num": 242469,
-      "word": "感觉朋友圈的味道越来越怪",
-      "onboard_time": 1721185517,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240689,
       "num": 240689,
       "word": "30岁渐冻症男子打破死亡预言收获幸福",
@@ -379,11 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237993,
-      "num": 237993,
-      "word": "临江仙海报",
-      "onboard_time": 1721185818,
-      "rank": 24,
+      "raw_hot": 232836,
+      "num": 232836,
+      "word": "长相思2人设最完美的人",
+      "onboard_time": 1721186479,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -416,6 +424,14 @@
       "word": "94岁吴明珠来到吐鲁番",
       "onboard_time": 1721177719,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204826,
+      "num": 204826,
+      "word": "孩子以母亲身份充值十余万申请退款遭拒",
+      "onboard_time": 1721184017,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -475,12 +491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193051,
-      "num": 193051,
+      "raw_hot": 194396,
+      "num": 194396,
       "word": "我们的歌图书馆30秒文学",
       "onboard_time": 1721186178,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194178,
+      "num": 194178,
+      "word": "这是十个勤天应得的",
+      "onboard_time": 1721186117,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193523,
+      "num": 193523,
+      "word": "被巴黎奥运村的熊猫可爱到",
+      "onboard_time": 1721187078,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 192080,
@@ -491,28 +523,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189528,
-      "num": 189528,
-      "word": "这是十个勤天应得的",
-      "onboard_time": 1721186117,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188507,
-      "num": 188507,
-      "word": "孩子以母亲身份充值十余万申请退款遭拒",
-      "onboard_time": 1721184017,
-      "rank": 31,
+      "raw_hot": 189569,
+      "num": 185691,
+      "word": "源氏木语家具被曝买了4个月仍有甲醛",
+      "onboard_time": 1721184138,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181962,
-      "num": 181962,
+      "raw_hot": 186664,
+      "num": 186664,
+      "word": "海边的秘密阵容官宣",
+      "onboard_time": 1721186838,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186221,
+      "num": 186221,
       "word": "邓为谈体感长相思爆火的时刻",
       "onboard_time": 1721186237,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184065,
+      "num": 184065,
+      "word": "十个勤天接力画画",
+      "onboard_time": 1721187078,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180214,
@@ -521,14 +561,6 @@
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172619,
-      "num": 172619,
-      "word": "源氏木语家具被曝买了4个月仍有甲醛",
-      "onboard_time": 1721184138,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171403,
@@ -587,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154566,
+      "num": 154566,
+      "word": "眼睁睁看着电脑将老板微信调包",
+      "onboard_time": 1721185639,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "刘耀文以为自己是公司最小的",
@@ -643,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142953,
-      "num": 142953,
-      "word": "眼睁睁看着电脑将老板微信调包",
-      "onboard_time": 1721185639,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137762,
       "num": 137762,
       "word": "老人捡到4万元冒高温骑行交给民警",
@@ -699,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130704,
-      "num": 130704,
-      "word": "长相思2人设最完美的人",
-      "onboard_time": 1721186479,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129972,
       "num": 129972,
       "word": "湖大到底是哪所大学",
@@ -715,12 +739,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129943,
+      "num": 129943,
+      "word": "手机壳正在服装化",
+      "onboard_time": 1721187199,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 124565,
+      "num": 124565,
+      "word": "队友主动让崔永熙罚球",
+      "onboard_time": 1721186479,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124314,
       "num": 124314,
       "word": "田曦薇低智商犯罪路透",
       "onboard_time": 1721146039,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123253,
+      "num": 123253,
+      "word": "欧阳院士聊太空浪漫",
+      "onboard_time": 1721186897,
+      "rank": 48,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 123249,
@@ -753,14 +801,6 @@
       "onboard_time": 1721134818,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119379,
-      "num": 119379,
-      "word": "队友主动让崔永熙罚球",
-      "onboard_time": 1721186479,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 119038,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 94535,
-      "num": 190548,
+      "num": 225471,
       "word": "小米把紫色玩明白了",
       "onboard_time": 1721185457,
       "rank": 28,
@@ -955,6 +995,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 79855,
+      "num": 510775,
+      "word": "首饰金价突破753元每克",
+      "onboard_time": 1721185457,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 78083,
+      "num": 560605,
+      "word": "武警在河南南阳转移村民500多人",
+      "onboard_time": 1721185219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76189,
       "num": 76189,
       "word": "广州海珠一新能源车发生自燃",
@@ -977,14 +1033,6 @@
       "onboard_time": 1721146337,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74519,
-      "num": 335467,
-      "word": "首饰金价突破753元每克",
-      "onboard_time": 1721185457,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 71079,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1721146577,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64554,
+      "num": 322812,
+      "word": "哪些大学的体育课是世界冠军教的",
+      "onboard_time": 1721185818,
+      "rank": 14,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 64359,
@@ -1075,14 +1131,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 57534,
-      "num": 329645,
-      "word": "武警在河南南阳转移村民500多人",
-      "onboard_time": 1721185219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50788,
       "num": 52711,
       "word": "苹果续创历史收盘新高",
@@ -1137,14 +1185,6 @@
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 44666,
-      "num": 288921,
-      "word": "哪些大学的体育课是世界冠军教的",
-      "onboard_time": 1721185818,
-      "rank": 14,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 40993,
