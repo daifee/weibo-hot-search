@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 19:17:26
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 19:34:31
 </p>
 </blockquote>
 <p>
@@ -1371,6 +1371,12 @@ DK（热度：1341805）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Kris%E7%A6%BB%E8%81%8C%23" target="weibo">
+Kris离职（热度：1198786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%90%90%E6%A7%BD3%E5%84%BF%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A%23" target="weibo">
 邹市明吐槽3儿子没一个子承父业（热度：1195995）
 </a>
@@ -1523,12 +1529,6 @@ DK（热度：1341805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B62%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BA%AB%E9%AB%98%23" target="weibo">
 奚梦瑶2岁女儿身高（热度：1138275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Kris%E7%A6%BB%E8%81%8C%23" target="weibo">
-Kris离职（热度：1137023）
 </a>
 </li>
 
@@ -5319,6 +5319,12 @@ Henry没认出黄磊（热度：588202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%83%B3%E8%AE%A9%E9%95%BF%E7%9B%B8%E6%80%9D2%E4%B8%80%E5%A4%A9%E6%92%AD%E5%AE%8C%23" target="weibo">
+杨紫想让长相思2一天播完（热度：587102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%9B%9E%E5%BA%94%E9%97%AF%E5%85%A5%E4%B8%AD%E5%81%B6%E8%B5%9B%E9%81%93%23" target="weibo">
 沈腾马丽回应闯入中偶赛道（热度：586435）
 </a>
@@ -6005,12 +6011,6 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%84%9F%E8%B0%A2%E6%88%91%E5%AE%B6%E5%B0%8F%E4%B8%A4%E5%8F%A3%E5%9C%86%E6%BB%A1%E4%BA%86%E4%BB%96%E5%92%8C%E9%83%AD%E7%A2%A7%E5%A9%B7%23" target="weibo">
 向佐感谢我家小两口圆满了他和郭碧婷（热度：546004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E9%80%AE%E6%8D%952%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
-外交部回应日方要求逮捕2名中国人（热度：545849）
 </a>
 </li>
 

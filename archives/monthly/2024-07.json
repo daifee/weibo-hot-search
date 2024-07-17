@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721215046757,
+  "endTime": 1721216071913,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1811,6 +1811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1198786,
+      "num": 332751,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1195995,
       "num": 1195995,
       "word": "邹市明吐槽3儿子没一个子承父业",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1720334538,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1137023,
-      "num": 332751,
-      "word": "Kris离职",
-      "onboard_time": 1721211259,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 1136250,
@@ -7075,6 +7075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587102,
+      "num": 1093936,
+      "word": "杨紫想让长相思2一天播完",
+      "onboard_time": 1721212159,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586435,
       "num": 462219,
       "word": "沈腾马丽回应闯入中偶赛道",
@@ -8273,14 +8281,6 @@
       "onboard_time": 1721026397,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533645,
-      "num": 533645,
-      "word": "杨紫想让长相思2一天播完",
-      "onboard_time": 1721212159,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 533539,
@@ -10187,6 +10187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456721,
+      "num": 456721,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1720592418,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456518,
       "num": 456518,
       "word": "鞠婧祎内娱首位女星超话钻3",
@@ -10281,6 +10289,14 @@
       "onboard_time": 1720402037,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454478,
+      "num": 238670,
+      "word": "林一 不想做人很久了",
+      "onboard_time": 1721213237,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453674,
@@ -12355,14 +12371,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 396679,
-      "num": 396679,
-      "word": "天生臭脸和天生笑脸的区别",
-      "onboard_time": 1720592418,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 396288,
       "num": 396258,
       "word": "郑业成回应转行",
@@ -14403,14 +14411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338871,
-      "num": 194180,
-      "word": "林一 不想做人很久了",
-      "onboard_time": 1721213237,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338738,
       "num": 338738,
       "word": "旅行有一种没苦硬吃的感觉",
@@ -14659,6 +14659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331281,
+      "num": 230577,
+      "word": "卫健局回应女子遭男医生猥亵",
+      "onboard_time": 1721212458,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331063,
       "num": 297309,
       "word": "于正再为吴谨言发声",
@@ -14840,6 +14848,14 @@
       "word": "山东临沂暴雨变水城",
       "onboard_time": 1720325358,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328046,
+      "num": 328046,
+      "word": "深圳双彩虹",
+      "onboard_time": 1721214918,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -16692,7 +16708,7 @@
     },
     {
       "raw_hot": 286099,
-      "num": 194083,
+      "num": 225520,
       "word": "王者送蒙犽新史诗皮",
       "onboard_time": 1721212817,
       "rank": 18,
@@ -16955,14 +16971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281945,
-      "num": 193945,
-      "word": "卫健局回应女子遭男医生猥亵",
-      "onboard_time": 1721212458,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -17044,7 +17052,7 @@
     },
     {
       "raw_hot": 279974,
-      "num": 207436,
+      "num": 209161,
       "word": "最伤腰的姿势",
       "onboard_time": 1721211259,
       "rank": 34,
@@ -18561,6 +18569,14 @@
       "onboard_time": 1720148837,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 248490,
+      "num": 226648,
+      "word": "Kris 王多多",
+      "onboard_time": 1721215399,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 248154,
@@ -21683,6 +21699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208982,
+      "num": 208982,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208944,
       "num": 208944,
       "word": "iQOO手机",
@@ -22161,6 +22185,14 @@
       "onboard_time": 1720578739,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205877,
+      "num": 205877,
+      "word": "中山大学9位哲学硕博生卖烤肠走红",
+      "onboard_time": 1721214618,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205802,
@@ -22795,6 +22827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202513,
+      "num": 202513,
+      "word": "刘强东章泽天看欧洲杯",
+      "onboard_time": 1721213418,
+      "rank": 30,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 202471,
       "num": 462352,
       "word": "罐车混运乱象警惕重过轻罚",
@@ -22985,14 +23025,6 @@
       "onboard_time": 1720423699,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201407,
-      "num": 179922,
-      "word": "刘强东章泽天看欧洲杯",
-      "onboard_time": 1721213418,
-      "rank": 30,
-      "category": "互联网,体育"
     },
     {
       "raw_hot": 201389,
@@ -24393,14 +24425,6 @@
       "onboard_time": 1720308074,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193100,
-      "num": 193100,
-      "word": "花花也知道睡觉要盖肚肚",
-      "onboard_time": 1721211259,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 193098,
@@ -30843,6 +30867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154846,
+      "num": 154846,
+      "word": "杨紫想蹦极但不会真去",
+      "onboard_time": 1721215518,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154839,
       "num": 154839,
       "word": "吴谨言短发白裙",
@@ -31737,14 +31769,6 @@
       "onboard_time": 1720137496,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149387,
-      "num": 149387,
-      "word": "深圳双彩虹",
-      "onboard_time": 1721214918,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149384,
@@ -35371,14 +35395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131587,
-      "num": 131587,
-      "word": "中山大学9位哲学硕博生卖烤肠走红",
-      "onboard_time": 1721214618,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131575,
       "num": 131575,
       "word": "OpenAI限制中国用户访问",
@@ -35865,6 +35881,14 @@
       "onboard_time": 1720855157,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129230,
+      "num": 129230,
+      "word": "戒指哥 我破防了",
+      "onboard_time": 1721215399,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 129166,
@@ -40483,6 +40507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104978,
+      "num": 205896,
+      "word": "南方一菜市场买菜后可免费帮炒",
+      "onboard_time": 1721214018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104953,
       "num": 215343,
       "word": "门店回应华为麒麟芯片话术线下解禁",
@@ -40633,6 +40665,14 @@
       "onboard_time": 1720851856,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104135,
+      "num": 104135,
+      "word": "足协杯",
+      "onboard_time": 1721215697,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104009,
@@ -41112,6 +41152,14 @@
       "word": "总觉得父母不够爱自己怎么办",
       "onboard_time": 1720756819,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99968,
+      "num": 333587,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -42859,22 +42907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 79479,
-      "num": 197281,
-      "word": "南方一菜市场买菜后可免费帮炒",
-      "onboard_time": 1721214018,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79445,
-      "num": 333587,
-      "word": "外交部回应ChinaTravel走红",
-      "onboard_time": 1721211678,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79245,
       "num": 855692,
       "word": "风清气正的网络环境是中国的名片",
@@ -44387,6 +44419,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 60560,
+      "num": 236056,
+      "word": "金标大众来了",
+      "onboard_time": 1721212998,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60559,
       "num": 60559,
       "word": "这5个部位疼或是心梗前兆",
@@ -45841,14 +45881,6 @@
       "onboard_time": 1721135178,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45391,
-      "num": 194322,
-      "word": "金标大众来了",
-      "onboard_time": 1721212998,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 45389,
@@ -48747,6 +48779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15756,
+      "num": 126803,
+      "word": "男孩落水路人默契配合救人",
+      "onboard_time": 1721215876,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 15730,
       "num": 152321,
       "word": "以军行动已致加沙近3.8万人死亡",
@@ -48817,6 +48857,14 @@
       "onboard_time": 1719859211,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15297,
+      "num": 207369,
+      "word": "河南暴雨千名官兵持续抢险救援中",
+      "onboard_time": 1721215938,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15290,
