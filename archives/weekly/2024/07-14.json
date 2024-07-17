@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721227047017,
+  "endTime": 1721229807576,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167500,
+      "num": 404928,
+      "word": "四川一百货大楼起火已致6人遇难",
+      "onboard_time": 1721227101,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166326,
       "num": 221734,
       "word": "长期烧水喝和买桶装水喝哪个更健康",
@@ -897,6 +905,14 @@
       "onboard_time": 1721218996,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863246,
+      "num": 578346,
+      "word": "赤辰道歉",
+      "onboard_time": 1721224998,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 861742,
@@ -1667,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578346,
-      "num": 578346,
-      "word": "赤辰道歉",
-      "onboard_time": 1721224998,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 576196,
       "num": 424097,
       "word": "王鹤棣金发回归",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1720930645,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 560062,
+      "num": 396716,
+      "word": "美国男子将2岁女儿扔车内晒死",
+      "onboard_time": 1721228298,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559840,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1720956079,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 534392,
+      "num": 401820,
+      "word": "涂山璟我是你全家的仆人",
+      "onboard_time": 1721223439,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 533989,
@@ -2347,6 +2371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 461559,
+      "num": 751026,
+      "word": "薛之谦演唱会嘉宾是大鹏",
+      "onboard_time": 1721222959,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 460483,
       "num": 460483,
       "word": "哈药六厂已接待90万游客",
@@ -2561,14 +2593,6 @@
       "onboard_time": 1721133378,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434110,
-      "num": 751026,
-      "word": "薛之谦演唱会嘉宾是大鹏",
-      "onboard_time": 1721222959,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 432863,
@@ -2859,6 +2883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 405836,
+      "num": 405836,
+      "word": "建议列入北影教材",
+      "onboard_time": 1721223619,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405265,
       "num": 405265,
       "word": "FNC被曝让中国练习生陪酒",
@@ -3049,6 +3081,14 @@
       "onboard_time": 1721113158,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373894,
+      "num": 373894,
+      "word": "iPhone17不使用节省空间的主板材料",
+      "onboard_time": 1721228537,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 372350,
@@ -3313,14 +3353,6 @@
       "onboard_time": 1720926560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342668,
-      "num": 342668,
-      "word": "涂山璟我是你全家的仆人",
-      "onboard_time": 1721223439,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 341241,
@@ -3859,14 +3891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290532,
-      "num": 349916,
-      "word": "建议列入北影教材",
-      "onboard_time": 1721223619,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288917,
       "num": 298282,
       "word": "王者荣耀梦之队",
@@ -3897,6 +3921,14 @@
       "onboard_time": 1721015718,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287744,
+      "num": 287744,
+      "word": "杨紫直播",
+      "onboard_time": 1721228479,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 287465,
@@ -4425,6 +4457,14 @@
       "onboard_time": 1720954400,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255464,
+      "num": 201805,
+      "word": "杨紫知道白玉兰提名的反应",
+      "onboard_time": 1721228298,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 254868,
@@ -5105,6 +5145,14 @@
       "onboard_time": 1721061676,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219219,
+      "num": 219219,
+      "word": "宋亚轩刘耀文同款T恤",
+      "onboard_time": 1721227940,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218388,
@@ -6075,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193389,
+      "num": 186842,
+      "word": "肖战得闲谨制通勤套装",
+      "onboard_time": 1721227339,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193056,
       "num": 193056,
       "word": "周深演唱会官宣杭州沈阳北京",
@@ -6537,6 +6593,14 @@
       "onboard_time": 1721024238,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182337,
+      "num": 172426,
+      "word": "戒指哥 我破防了",
+      "onboard_time": 1721215399,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 182315,
@@ -7539,14 +7603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157046,
-      "num": 157046,
-      "word": "戒指哥 我破防了",
-      "onboard_time": 1721215399,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 157039,
       "num": 157039,
       "word": "夭玹一边纯爱一边强制爱",
@@ -7595,6 +7651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155356,
+      "num": 155356,
+      "word": "抓娃娃进入2024年内地票房榜前十",
+      "onboard_time": 1721226197,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155285,
       "num": 155285,
       "word": "胡一天虞书欣见面秒变熟人局",
@@ -7617,6 +7681,14 @@
       "onboard_time": 1720926258,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154875,
+      "num": 132883,
+      "word": "王星越定风波海报",
+      "onboard_time": 1721228719,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 154846,
@@ -7748,7 +7820,7 @@
     },
     {
       "raw_hot": 152453,
-      "num": 387570,
+      "num": 400327,
       "word": "一座城市city不city走走才知道",
       "onboard_time": 1721201418,
       "rank": 8,
@@ -8483,14 +8555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136319,
-      "num": 136319,
-      "word": "抓娃娃进入2024年内地票房榜前十",
-      "onboard_time": 1721226197,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136314,
       "num": 136314,
       "word": "还不给小猫一个大冰箱",
@@ -9059,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124657,
+      "num": 124657,
+      "word": "格局被禁赛两场",
+      "onboard_time": 1721229618,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124565,
       "num": 124565,
       "word": "队友主动让崔永熙罚球",
@@ -9497,6 +9569,14 @@
       "onboard_time": 1721055019,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115252,
+      "num": 115252,
+      "word": "申花晋级",
+      "onboard_time": 1721228661,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115240,
@@ -10723,6 +10803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 64628,
+      "num": 531345,
+      "word": "大众安徽放手一搏",
+      "onboard_time": 1721224938,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64554,
       "num": 322812,
       "word": "哪些大学的体育课是世界冠军教的",
@@ -11011,6 +11099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52999,
+      "num": 251791,
+      "word": "金标大众",
+      "onboard_time": 1721225060,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52980,
       "num": 460664,
       "word": "华为手机镜头下的功夫舞蹈大片",
@@ -11041,14 +11137,6 @@
       "onboard_time": 1720931185,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51872,
-      "num": 531345,
-      "word": "大众安徽放手一搏",
-      "onboard_time": 1721224938,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 51861,
@@ -11331,14 +11419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41604,
-      "num": 251791,
-      "word": "金标大众",
-      "onboard_time": 1721225060,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 41407,
       "num": 427438,
       "word": "10岁男孩酷爱足球5年日颠数万次",
@@ -11489,6 +11569,14 @@
       "onboard_time": 1720954998,
       "rank": 9,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 35048,
+      "num": 399551,
+      "word": "自贡一大楼起火已救出30名被困者",
+      "onboard_time": 1721228958,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34163,

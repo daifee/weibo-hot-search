@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 22:37:27
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 23:23:27
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ Kris离职（热度：1198786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E7%99%BE%E8%B4%A7%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB%E5%B7%B2%E8%87%B46%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+四川一百货大楼起火已致6人遇难（热度：1167500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%BD%93%E4%BC%97%E6%92%95%E6%AF%81%E7%BE%A4%E4%BC%97%E5%8A%9E%E4%BA%8B%E6%9D%90%E6%96%99%23" target="weibo">
 公职人员当众撕毁群众办事材料（热度：1167163）
 </a>
@@ -2813,6 +2819,12 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90180%E4%B8%87%E5%8D%96%E6%8E%89%E6%9D%AD%E5%B7%9E%E6%88%BF%E5%AD%90120%E4%B8%87%E4%B9%B0%E5%9B%9E%23" target="weibo">
 女子180万卖掉杭州房子120万买回（热度：863960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A4%E8%BE%B0%E9%81%93%E6%AD%89%23" target="weibo">
+赤辰道歉（热度：863246）
 </a>
 </li>
 
@@ -5499,12 +5511,6 @@ B太说被300主播针对（热度：578348）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A4%E8%BE%B0%E9%81%93%E6%AD%89%23" target="weibo">
-赤辰道歉（热度：578346）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E7%A7%B0%E7%BD%91%E4%BC%A0%E5%91%98%E5%B7%A5%E8%B7%B3%E6%A5%BC%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
 中金称网传员工跳楼系谣言（热度：577898）
 </a>
@@ -5805,6 +5811,12 @@ IVE香港演唱会评论区（热度：566536）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%B0%862%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%94%E8%BD%A6%E5%86%85%E6%99%92%E6%AD%BB%23" target="weibo">
+美国男子将2岁女儿扔车内晒死（热度：560062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%8F%E8%85%BF%E6%9C%89%E7%BB%B7%E5%B8%A6%23" target="weibo">
 刘诗诗小腿有绷带（热度：560050）
 </a>
@@ -5999,18 +6011,6 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BA%B4%E9%85%B8%E7%9B%90%23" target="weibo">
 溴酸盐（热度：550551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E4%BA%BA%E6%8A%93%E7%9A%84%E8%BF%98%E6%98%AF%E7%8C%AB%E6%8A%93%E7%9A%84%23" target="weibo">
-薛之谦 人抓的还是猫抓的（热度：550490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E6%84%8F%E5%A4%96%E8%AE%A4%E8%AF%81%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
-宁艺卓意外认证全开麦（热度：550301）
 </a>
 </li>
 
