@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721255851625,
+  "endTime": 1721258446686,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -3099,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372445,
+      "num": 196456,
+      "word": "专家称警惕特朗普拉帮结派对中国施压",
+      "onboard_time": 1721238672,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 372350,
       "num": 372350,
       "word": "三伏天已连续10年都是40天",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1721182878,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319559,
+      "num": 319559,
+      "word": "月球发现潜在可进入洞道",
+      "onboard_time": 1721250670,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 318733,
@@ -4547,6 +4563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251622,
+      "num": 219343,
+      "word": "抓娃娃进入2024年内地票房榜前十",
+      "onboard_time": 1721226197,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251431,
       "num": 251431,
       "word": "微信会惩罚长时间没用旧设备的人",
@@ -4697,6 +4721,14 @@
       "onboard_time": 1720940302,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243207,
+      "num": 297847,
+      "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
+      "onboard_time": 1721224219,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243161,
@@ -5227,14 +5259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215531,
-      "num": 297847,
-      "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
-      "onboard_time": 1721224219,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214475,
       "num": 214475,
       "word": "高圆圆深V吊带裙",
@@ -5441,6 +5465,14 @@
       "onboard_time": 1721172798,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206581,
+      "num": 206581,
+      "word": "自贡百货大楼火灾致16人遇难",
+      "onboard_time": 1721258115,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206213,
@@ -6987,14 +7019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171637,
-      "num": 188869,
-      "word": "抓娃娃进入2024年内地票房榜前十",
-      "onboard_time": 1721226197,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171295,
       "num": 171295,
       "word": "特殊搬家公司 帮人一夜消失",
@@ -8257,14 +8281,6 @@
       "onboard_time": 1720937723,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143262,
-      "num": 42120,
-      "word": "专家称警惕特朗普拉帮结派对中国施压",
-      "onboard_time": 1721238672,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 143250,
@@ -9564,7 +9580,7 @@
     },
     {
       "raw_hot": 116438,
-      "num": 38110,
+      "num": 82981,
       "word": "不建议和西瓜一起吃的食物",
       "onboard_time": 1721245451,
       "rank": 23,
@@ -9777,6 +9793,14 @@
       "onboard_time": 1721131458,
       "rank": 48,
       "category": "动漫,演出"
+    },
+    {
+      "raw_hot": 109734,
+      "num": 72052,
+      "word": "拜登新冠检测呈阳性",
+      "onboard_time": 1721258235,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 109646,
@@ -10187,14 +10211,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 96546,
-      "num": 39183,
-      "word": "月球发现潜在可进入洞道",
-      "onboard_time": 1721250670,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 96511,
       "num": 96511,
       "word": "西班牙进球",
@@ -10291,12 +10307,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 91067,
+      "num": 91067,
+      "word": "女性一代传一代的谎言",
+      "onboard_time": 1721241312,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 90372,
       "num": 90372,
       "word": "想象到孙丞潇的二胎生活了",
       "onboard_time": 1720997652,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89765,
+      "num": 204016,
+      "word": "金价为何飙涨",
+      "onboard_time": 1721258115,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 88965,
@@ -10369,6 +10401,14 @@
       "onboard_time": 1721024599,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85819,
+      "num": 85819,
+      "word": "睡不着就不要硬睡了",
+      "onboard_time": 1721257513,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 85483,
@@ -10680,6 +10720,14 @@
       "word": "尼克威廉姆斯破门",
       "onboard_time": 1720988412,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72523,
+      "num": 72523,
+      "word": "跳水名将戴利主业是织毛衣",
+      "onboard_time": 1721255593,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -11323,6 +11371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48832,
+      "num": 90241,
+      "word": "好小众的爆痘方式",
+      "onboard_time": 1721236873,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48390,
       "num": 107538,
       "word": "81部网络小说入藏国家版本馆",
@@ -11491,20 +11547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44089,
+      "num": 44089,
+      "word": "马伊琍吐槽影视剧大女主形象",
+      "onboard_time": 1721249532,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43526,
       "num": 354647,
       "word": "饿了么免单根号2又回来了",
       "onboard_time": 1721109618,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 43368,
-      "num": 39289,
-      "word": "女性一代传一代的谎言",
-      "onboard_time": 1721241312,
-      "rank": 21,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 43332,
@@ -11539,20 +11595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42363,
-      "num": 90241,
-      "word": "好小众的爆痘方式",
-      "onboard_time": 1721236873,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 41407,
       "num": 427438,
       "word": "10岁男孩酷爱足球5年日颠数万次",
       "onboard_time": 1721107220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41365,
+      "num": 41365,
+      "word": "为什么奶茶店不能早上八点开门",
+      "onboard_time": 1721242632,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 41214,
@@ -11577,6 +11633,14 @@
       "onboard_time": 1721148735,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40808,
+      "num": 60397,
+      "word": "女子生完二胎婆婆的宠爱buff叠满",
+      "onboard_time": 1721257575,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40284,
@@ -11739,6 +11803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33446,
+      "num": 41338,
+      "word": "龚俊吊威亚转圈",
+      "onboard_time": 1721238014,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33070,
       "num": 314805,
       "word": "板凳球员保送上名校背后",
@@ -11899,14 +11971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26796,
-      "num": 36628,
-      "word": "龚俊吊威亚转圈",
-      "onboard_time": 1721238014,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26762,
       "num": 26762,
       "word": "亚马尔17岁的第一天",
@@ -12003,14 +12067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22527,
-      "num": 29987,
-      "word": "为什么奶茶店不能早上八点开门",
-      "onboard_time": 1721242632,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 22252,
       "num": 287202,
       "word": "记者调查职业退险人产业链",
@@ -12081,14 +12137,6 @@
       "onboard_time": 1721099118,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20308,
-      "num": 29985,
-      "word": "马伊琍吐槽影视剧大女主形象",
-      "onboard_time": 1721249532,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 20272,
@@ -12241,14 +12289,6 @@
       "onboard_time": 1721215876,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 15714,
-      "num": 29982,
-      "word": "跳水名将戴利主业是织毛衣",
-      "onboard_time": 1721255593,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 15668,
