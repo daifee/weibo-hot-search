@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721225989272,
+  "endTime": 1721227047017,
   "band_list": [
     {
       "raw_hot": 2841896,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1805949,
+      "num": 1805949,
+      "word": "陈意涵 我来自中国台湾",
+      "onboard_time": 1721223798,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1772255,
       "num": 1772255,
       "word": "陆川说抓娃娃是低质强碱性搞笑片",
       "onboard_time": 1721196858,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1677460,
-      "num": 1677460,
-      "word": "陈意涵 我来自中国台湾",
-      "onboard_time": 1721223798,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1365348,
@@ -251,6 +251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 750859,
+      "num": 651829,
+      "word": "自贡一百货大楼起火已救出17人",
+      "onboard_time": 1721224759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729797,
       "num": 729797,
       "word": "阿念 大女主",
@@ -323,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 651829,
-      "num": 651829,
-      "word": "自贡一百货大楼起火已救出17人",
-      "onboard_time": 1721224759,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 633481,
       "num": 404690,
       "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 586793,
-      "num": 301030,
+      "num": 345728,
       "word": "建议大家下班回家立刻洗漱",
       "onboard_time": 1721220258,
       "rank": 40,
@@ -385,6 +385,14 @@
       "onboard_time": 1721188462,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578346,
+      "num": 578346,
+      "word": "赤辰道歉",
+      "onboard_time": 1721224998,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 575874,
@@ -451,6 +459,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 532712,
+      "num": 532712,
+      "word": "赵露思新剧穿了高定",
+      "onboard_time": 1721225299,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 530286,
+      "num": 530286,
+      "word": "白鹿直播状态",
+      "onboard_time": 1721225358,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529817,
       "num": 529817,
       "word": "长相思导演关注迪丽热巴超话",
@@ -489,6 +513,14 @@
       "onboard_time": 1721170873,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 485915,
+      "num": 762837,
+      "word": "普华永道将裁一半在华金融审计员工",
+      "onboard_time": 1721225538,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 472778,
@@ -779,20 +811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356899,
-      "num": 356899,
-      "word": "赵露思新剧穿了高定",
-      "onboard_time": 1721225299,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352730,
       "num": 334925,
       "word": "苏醒谈汪苏泷歌手表现",
       "onboard_time": 1721221277,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342668,
+      "num": 342668,
+      "word": "涂山璟我是你全家的仆人",
+      "onboard_time": 1721223439,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 339282,
@@ -963,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290532,
+      "num": 349916,
+      "word": "建议列入北影教材",
+      "onboard_time": 1721223619,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286827,
       "num": 286827,
       "word": "塞纳河水质最近不适宜下水比赛",
@@ -1011,14 +1051,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 276718,
-      "num": 276718,
-      "word": "建议列入北影教材",
-      "onboard_time": 1721223619,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276058,
       "num": 276058,
       "word": "古茗口令",
@@ -1051,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271585,
-      "num": 271585,
-      "word": "涂山璟我是你全家的仆人",
-      "onboard_time": 1721223439,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270480,
       "num": 270480,
       "word": "假性亲密关系",
@@ -1075,12 +1099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267334,
-      "num": 276061,
-      "word": "赤辰道歉",
-      "onboard_time": 1721224998,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 269586,
+      "num": 877431,
+      "word": "中山大学9位哲学硕博生卖烤肠走红",
+      "onboard_time": 1721214618,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266653,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1721189479,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255814,
-      "num": 255814,
-      "word": "白鹿直播状态",
-      "onboard_time": 1721225358,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 254868,
@@ -1211,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238448,
-      "num": 877431,
-      "word": "中山大学9位哲学硕博生卖烤肠走红",
-      "onboard_time": 1721214618,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 235278,
+      "num": 253201,
+      "word": "普华永道回应裁员一半",
+      "onboard_time": 1721222659,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 234465,
@@ -1275,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223198,
+      "num": 223198,
+      "word": "马丽回应抓娃娃救市",
+      "onboard_time": 1721225478,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221577,
       "num": 221577,
       "word": "肖战真空西装有内搭",
@@ -1283,12 +1307,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221180,
-      "num": 221180,
-      "word": "马丽回应抓娃娃救市",
+      "raw_hot": 221094,
+      "num": 210456,
+      "word": "苏醒为薛之谦庆生",
       "onboard_time": 1721225478,
-      "rank": 34,
-      "category": "电影"
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 218851,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1721197397,
       "rank": 27,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 211930,
+      "num": 777963,
+      "word": "咒术回战 两眼一黑",
+      "onboard_time": 1721219959,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 209889,
@@ -1515,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196380,
-      "num": 196380,
-      "word": "苏醒为薛之谦庆生",
-      "onboard_time": 1721225478,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195884,
       "num": 195884,
       "word": "恩佐就演唱种族歧视歌曲道歉",
@@ -1707,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186155,
+      "num": 186155,
+      "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
+      "onboard_time": 1721224219,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185400,
       "num": 185400,
       "word": "满城打卡薛之谦",
@@ -1755,28 +1787,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 180889,
-      "num": 777963,
-      "word": "咒术回战 两眼一黑",
-      "onboard_time": 1721219959,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 180214,
       "num": 180214,
       "word": "长相思有自己的燃冬",
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179680,
-      "num": 253201,
-      "word": "普华永道回应裁员一半",
-      "onboard_time": 1721222659,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 177863,
@@ -1899,28 +1915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167031,
-      "num": 762837,
-      "word": "普华永道将裁一半在华金融审计员工",
-      "onboard_time": 1721225538,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 165229,
-      "num": 165229,
-      "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
-      "onboard_time": 1721224219,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164878,
       "num": 164878,
       "word": "为什么河南这次的雨这么大",
       "onboard_time": 1721177478,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163410,
+      "num": 163410,
+      "word": "EDG击败BLG晋级胜决",
+      "onboard_time": 1721226498,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 163386,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1721174599,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152951,
+      "num": 152951,
+      "word": "官方通报自贡九鼎购物广场火灾",
+      "onboard_time": 1721226919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152655,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1721178138,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136319,
+      "num": 136319,
+      "word": "抓娃娃进入2024年内地票房榜前十",
+      "onboard_time": 1721226197,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 136124,
@@ -2812,7 +2836,7 @@
     },
     {
       "raw_hot": 74278,
-      "num": 243804,
+      "num": 532168,
       "word": "救灾武警和老人开启奶奶孙子聊天模式",
       "onboard_time": 1721222419,
       "rank": 24,
@@ -2964,7 +2988,7 @@
     },
     {
       "raw_hot": 51872,
-      "num": 270027,
+      "num": 531345,
       "word": "大众安徽放手一搏",
       "onboard_time": 1721224938,
       "rank": 25,
@@ -3043,6 +3067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44932,
+      "num": 819599,
+      "word": "小岗梦也是广大农民的梦",
+      "onboard_time": 1721224099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44889,
       "num": 372434,
       "word": "陕西南部本轮降雨过程极端性强",
@@ -3107,11 +3139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34045,
-      "num": 819599,
-      "word": "小岗梦也是广大农民的梦",
-      "onboard_time": 1721224099,
-      "rank": 2,
+      "raw_hot": 35594,
+      "num": 728808,
+      "word": "万吨级海洋油气平台已安装就位",
+      "onboard_time": 1721224820,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3153,14 +3185,6 @@
       "onboard_time": 1721206579,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26746,
-      "num": 728808,
-      "word": "万吨级海洋油气平台已安装就位",
-      "onboard_time": 1721224820,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22127,
