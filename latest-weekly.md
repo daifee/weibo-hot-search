@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/17 23:23:27
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/17 23:37:45
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%B0%862%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%94%E8%BD%A6%E5%86%85%E6%99%92%E6%AD%BB%23" target="weibo">
+美国男子将2岁女儿扔车内晒死（热度：706281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E8%82%A2%E8%A7%A3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23" target="weibo">
 中国女子在泰国遭肢解案嫌疑人落网（热度：694799）
 </a>
@@ -1049,6 +1055,12 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E6%A1%88%E6%9E%AA%E6%89%8B%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 特朗普遇刺案枪手同学发声（热度：659151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%8A%82%E7%9C%81%E7%A9%BA%E9%97%B4%E7%9A%84%E4%B8%BB%E6%9D%BF%E6%9D%90%E6%96%99%23" target="weibo">
+iPhone17不使用节省空间的主板材料（热度：656083）
 </a>
 </li>
 
@@ -1331,12 +1343,6 @@ Kris回应手机事件（热度：568563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E7%A7%B0%E6%8F%90%E5%89%8D%E7%9C%8B%E5%88%B0%E6%9E%AA%E6%89%8B%E5%B9%B6%E5%91%8A%E7%9F%A5%E8%AD%A6%E5%AF%9F%23" target="weibo">
 特朗普支持者称提前看到枪手并告知警察（热度：560868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%B0%862%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%94%E8%BD%A6%E5%86%85%E6%99%92%E6%AD%BB%23" target="weibo">
-美国男子将2岁女儿扔车内晒死（热度：560062）
 </a>
 </li>
 
@@ -1637,6 +1643,12 @@ Kris回应手机事件（热度：568563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23FBI%E5%B7%B2%E8%A7%A3%E9%94%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E6%A1%88%E5%AB%8C%E7%8A%AF%E6%89%8B%E6%9C%BA%23" target="weibo">
 FBI已解锁特朗普枪击案嫌犯手机（热度：501094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%88%97%E5%85%A5%E5%8C%97%E5%BD%B1%E6%95%99%E6%9D%90%23" target="weibo">
+建议列入北影教材（热度：497630）
 </a>
 </li>
 
@@ -2175,12 +2187,6 @@ iPhone16值得等吗（热度：415571）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%88%97%E5%85%A5%E5%8C%97%E5%BD%B1%E6%95%99%E6%9D%90%23" target="weibo">
-建议列入北影教材（热度：405836）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23FNC%E8%A2%AB%E6%9B%9D%E8%AE%A9%E4%B8%AD%E5%9B%BD%E7%BB%83%E4%B9%A0%E7%94%9F%E9%99%AA%E9%85%92%23" target="weibo">
 FNC被曝让中国练习生陪酒（热度：405265）
 </a>
@@ -2321,12 +2327,6 @@ FNC被曝让中国练习生陪酒（热度：405265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%B5%B0%E8%B7%AF%E5%A7%BF%E5%8A%BF%E8%A2%AB%E8%AF%B4%E6%AE%8B%E7%96%BE%23" target="weibo">
 卢昱晓回应走路姿势被说残疾（热度：374054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%8A%82%E7%9C%81%E7%A9%BA%E9%97%B4%E7%9A%84%E4%B8%BB%E6%9D%BF%E6%9D%90%E6%96%99%23" target="weibo">
-iPhone17不使用节省空间的主板材料（热度：373894）
 </a>
 </li>
 
@@ -3225,6 +3225,12 @@ BTS和BP参与神偷奶爸4OST（热度：273598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9F%A5%E9%81%93%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+杨紫知道白玉兰提名的反应（热度：270048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%BB%99%E6%B2%88%E6%9C%88%E6%95%B4%E6%97%A0%E8%AF%AD%E4%BA%86%23" target="weibo">
 王子奇王星越给沈月整无语了（热度：269856）
 </a>
@@ -3353,12 +3359,6 @@ BTS和BP参与神偷奶爸4OST（热度：273598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%8F%91%E7%8E%B0%E6%B0%B4%E9%87%8C%E4%B8%8D%E5%AF%B9%E5%8A%B2%E6%95%91%E4%B8%8B%E4%B8%80%E6%9D%A1%E5%91%BD%23" target="weibo">
 少年发现水里不对劲救下一条命（热度：255498）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9F%A5%E9%81%93%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-杨紫知道白玉兰提名的反应（热度：255464）
 </a>
 </li>
 
@@ -5247,6 +5247,12 @@ FBI仍在调查枪手如何连续开枪（热度：177809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E8%BF%9B%E5%85%A52024%E5%B9%B4%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E5%8D%81%23" target="weibo">
+抓娃娃进入2024年内地票房榜前十（热度：171637）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%AE%8A%E6%90%AC%E5%AE%B6%E5%85%AC%E5%8F%B8%20%E5%B8%AE%E4%BA%BA%E4%B8%80%E5%A4%9C%E6%B6%88%E5%A4%B1%23" target="weibo">
 特殊搬家公司 帮人一夜消失（热度：171295）
 </a>
@@ -5751,12 +5757,6 @@ LGD会一直支持九尾（热度：155420）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E8%BF%9B%E5%85%A52024%E5%B9%B4%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E5%8D%81%23" target="weibo">
-抓娃娃进入2024年内地票房榜前十（热度：155356）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E4%B8%80%E5%A4%A9%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A7%81%E9%9D%A2%E7%A7%92%E5%8F%98%E7%86%9F%E4%BA%BA%E5%B1%80%23" target="weibo">
 胡一天虞书欣见面秒变熟人局（热度：155285）
 </a>
@@ -6257,6 +6257,12 @@ Ning王说TES状态不对（热度：147436）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%B0%B8%E7%86%99%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%88%86%23" target="weibo">
 崔永熙连续三分（热度：142139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%B1%80%E8%A2%AB%E7%A6%81%E8%B5%9B%E4%B8%A4%E5%9C%BA%23" target="weibo">
+格局被禁赛两场（热度：141847）
 </a>
 </li>
 
@@ -6855,12 +6861,6 @@ ZB1上海签售（热度：124951）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%B1%80%E8%A2%AB%E7%A6%81%E8%B5%9B%E4%B8%A4%E5%9C%BA%23" target="weibo">
-格局被禁赛两场（热度：124657）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9F%E5%8F%8B%E4%B8%BB%E5%8A%A8%E8%AE%A9%E5%B4%94%E6%B0%B8%E7%86%99%E7%BD%9A%E7%90%83%23" target="weibo">
 队友主动让崔永熙罚球（热度：124565）
 </a>
@@ -7347,6 +7347,12 @@ ZB1抵达上海（热度：109968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%20%E4%B8%80%E5%BF%B5%E4%B9%8B%E9%97%B4%23" target="weibo">
+陶喆 一念之间（热度：109205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E9%87%8D%E5%BA%86%23" target="weibo">
 肖战 重庆（热度：109126）
 </a>
@@ -7577,6 +7583,12 @@ ENHYPEN销量（热度：108206）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%81%87%E6%80%8E%E4%B9%88%E4%BC%91%E6%9C%80%E5%88%92%E7%AE%97%23" target="weibo">
 婚假怎么休最划算（热度：100966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E9%80%80%E5%87%BA%E4%BB%B7%E6%A0%BC%E6%88%98%23" target="weibo">
+多家汽车品牌退出价格战（热度：100702）
 </a>
 </li>
 
@@ -7895,6 +7907,12 @@ ENHYPEN销量（热度：108206）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%B1%9E%E4%BD%A0%E7%9A%84%E5%A4%AA%E7%A9%BA%E6%B8%85%E5%87%89%E5%A3%81%E7%BA%B8%23" target="weibo">
 专属你的太空清凉壁纸（热度：75667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E4%B8%8E%E7%9A%87%E9%A9%AC%E7%BB%AD%E7%BA%A6%E8%87%B32025%E5%B9%B4%23" target="weibo">
+莫德里奇与皇马续约至2025年（热度：75509）
 </a>
 </li>
 
@@ -8307,6 +8325,12 @@ AG名将退役仪式（热度：56672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%A1%E4%B8%80%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB%E5%B7%B2%E6%95%91%E5%87%BA30%E5%90%8D%E8%A2%AB%E5%9B%B0%E8%80%85%23" target="weibo">
+自贡一大楼起火已救出30名被困者（热度：56221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.0%25%23" target="weibo">
 上半年中国GDP同比增长5.0%（热度：56038）
 </a>
@@ -8687,12 +8711,6 @@ ins爆火双麻花辫（热度：39501）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%86%E9%92%9F%E7%A9%BF%E8%B6%8A%E6%94%B9%E9%9D%A9%E6%96%B0%E5%9D%90%E6%A0%87%23" target="weibo">
 一分钟穿越改革新坐标（热度：35583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%A1%E4%B8%80%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB%E5%B7%B2%E6%95%91%E5%87%BA30%E5%90%8D%E8%A2%AB%E5%9B%B0%E8%80%85%23" target="weibo">
-自贡一大楼起火已救出30名被困者（热度：35048）
 </a>
 </li>
 
