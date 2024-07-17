@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/18 07:20:46
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/18 07:35:57
 </p>
 </blockquote>
 <p>
@@ -2319,6 +2319,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%A1%E7%99%BE%E8%B4%A7%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+自贡百货大楼火灾致16人遇难（热度：950374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97%23" target="weibo">
 这是时代少年团演唱会吗（热度：950352）
 </a>
@@ -3869,6 +3875,12 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BD%93%E6%80%BB%E7%BB%9F%E5%90%8E%E9%80%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E8%BF%9B%E7%9B%91%E7%8B%B1%23" target="weibo">
 特朗普称当总统后送扎克伯格进监狱（热度：723885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
+拜登新冠检测呈阳性（热度：723078）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%89%B5%E6%89%8B%E5%BA%86%E7%94%9F%23" target="weibo">
 李荣浩杨丞琳牵手庆生（热度：551411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%82%A8%E7%B2%AE%E9%87%91%E9%BC%8E%E9%A3%9F%E7%94%A8%E6%B2%B9%E6%81%A2%E5%A4%8D%E4%B8%8A%E6%9E%B6%23" target="weibo">
-中储粮金鼎食用油恢复上架（热度：551365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%97%A9%E5%85%A5%E7%9D%A1%E4%B9%9F%E5%AE%B9%E6%98%93%E5%8F%91%E7%94%9F%E5%BF%83%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%23" target="weibo">
-过早入睡也容易发生心脑血管疾病（热度：550649）
 </a>
 </li>
 
