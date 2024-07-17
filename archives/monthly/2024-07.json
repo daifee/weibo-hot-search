@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721211701024,
+  "endTime": 1721212695405,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1372,7 +1372,7 @@
     },
     {
       "raw_hot": 1365348,
-      "num": 559120,
+      "num": 563366,
       "word": "浙江一家8口确诊同种病一人患癌",
       "onboard_time": 1721200518,
       "rank": 39,
@@ -3209,6 +3209,14 @@
       "onboard_time": 1721022439,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924583,
+      "num": 332751,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 920146,
@@ -5225,6 +5233,14 @@
       "onboard_time": 1720923199,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 710646,
+      "num": 1113703,
+      "word": "张新成王玉雯拍吻戏下不去嘴",
+      "onboard_time": 1721210419,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 710095,
@@ -9963,14 +9979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463168,
-      "num": 258441,
-      "word": "张新成王玉雯拍吻戏下不去嘴",
-      "onboard_time": 1721210419,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 463116,
       "num": 463116,
       "word": "FBI称确认枪手身份",
@@ -10412,7 +10420,7 @@
     },
     {
       "raw_hot": 450952,
-      "num": 267737,
+      "num": 324302,
       "word": "虞书欣搂姜妍的腰",
       "onboard_time": 1721208438,
       "rank": 18,
@@ -10915,6 +10923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438588,
+      "num": 438588,
+      "word": "厕所小飞虫或会寄生在人体并引发感染",
+      "onboard_time": 1721206818,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 438508,
       "num": 209318,
       "word": "胖室每天一个离职小技巧",
@@ -11113,14 +11129,6 @@
       "onboard_time": 1720453698,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 432961,
-      "num": 432961,
-      "word": "厕所小飞虫或会寄生在人体并引发感染",
-      "onboard_time": 1721206818,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 432925,
@@ -14291,14 +14299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340996,
-      "num": 255014,
-      "word": "Kris离职",
-      "onboard_time": 1721211259,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 340872,
       "num": 101335,
       "word": "三年不联系自动删好友的微信功能",
@@ -14385,6 +14385,14 @@
       "onboard_time": 1721142379,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338832,
+      "num": 338832,
+      "word": "杨紫想让长相思2一天播完",
+      "onboard_time": 1721212159,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 338738,
@@ -17465,6 +17473,14 @@
       "onboard_time": 1720517358,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268641,
+      "num": 268641,
+      "word": "郭帆把赵今麦年龄记这么清楚",
+      "onboard_time": 1721210599,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 268402,
@@ -21851,6 +21867,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 207436,
+      "num": 207436,
+      "word": "最伤腰的姿势",
+      "onboard_time": 1721211259,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207388,
       "num": 207388,
       "word": "刘忻拥抱张予曦",
@@ -23065,6 +23089,14 @@
       "onboard_time": 1720059316,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200590,
+      "num": 200590,
+      "word": "杨紫长相思最后一场戏",
+      "onboard_time": 1721212577,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200578,
@@ -25507,6 +25539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187014,
+      "num": 187014,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187010,
       "num": 187010,
       "word": "父母叠床单时女儿想荡秋千",
@@ -26209,14 +26249,6 @@
       "onboard_time": 1721007978,
       "rank": 49,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 181814,
-      "num": 181814,
-      "word": "郭帆把赵今麦年龄记这么清楚",
-      "onboard_time": 1721210599,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 181806,
@@ -33123,14 +33155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141573,
-      "num": 141573,
-      "word": "最伤腰的姿势",
-      "onboard_time": 1721211259,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141510,
       "num": 141510,
       "word": "姨夫称张志杰无心脏病史",
@@ -33577,6 +33601,14 @@
       "onboard_time": 1720856237,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "被孙怡身上的姐感蛊到",
+      "onboard_time": 1721212159,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139593,
@@ -34825,14 +34857,6 @@
       "onboard_time": 1720397298,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133446,
-      "num": 133446,
-      "word": "花花也知道睡觉要盖肚肚",
-      "onboard_time": 1721211259,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 133406,
@@ -36833,6 +36857,14 @@
       "onboard_time": 1720011078,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123711,
+      "num": 123711,
+      "word": "米哈游客服回应那维莱特被削弱",
+      "onboard_time": 1721212096,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 123644,
@@ -39627,6 +39659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109525,
+      "num": 109525,
+      "word": "薛之谦 INWARD",
+      "onboard_time": 1721211918,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109504,
       "num": 223546,
       "word": "依法驱离日非法进入我钓鱼岛领海船只",
@@ -39681,6 +39721,14 @@
       "onboard_time": 1720359260,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109162,
+      "num": 109162,
+      "word": "卫健局回应女子遭男医生猥亵",
+      "onboard_time": 1721212458,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109137,
@@ -43611,6 +43659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66764,
+      "num": 333587,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66683,
       "num": 612955,
       "word": "带你60秒环游塔吉克斯坦",
@@ -45963,6 +46019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42985,
+      "num": 256071,
+      "word": "男子吃糖被卡喉警察10秒救回",
+      "onboard_time": 1721211317,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 42928,
       "num": 455189,
       "word": "献给新征程上的每一个你",
@@ -46969,14 +47033,6 @@
       "onboard_time": 1721106259,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32261,
-      "num": 156928,
-      "word": "外交部回应ChinaTravel走红",
-      "onboard_time": 1721211678,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32121,
@@ -48121,14 +48177,6 @@
       "onboard_time": 1720957698,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21650,
-      "num": 256071,
-      "word": "男子吃糖被卡喉警察10秒救回",
-      "onboard_time": 1721211317,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 21644,

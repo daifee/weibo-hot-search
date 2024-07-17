@@ -1,0 +1,410 @@
+{
+  "runTime": 1721212695405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710646,
+        "num": 1113703,
+        "word": "张新成王玉雯拍吻戏下不去嘴",
+        "onboard_time": 1721210419,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696038,
+        "num": 696038,
+        "word": "钟南山院士否认病重传闻",
+        "onboard_time": 1721206759,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10073,
+        "num": 617733,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 563366,
+        "num": 563366,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438588,
+        "num": 438588,
+        "word": "厕所小飞虫或会寄生在人体并引发感染",
+        "onboard_time": 1721206818,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378371,
+        "num": 378371,
+        "word": "宝马涨价后来看车的人变多了",
+        "onboard_time": 1721203698,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 338832,
+        "num": 338832,
+        "word": "杨紫想让长相思2一天播完",
+        "onboard_time": 1721212159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47245,
+        "num": 337883,
+        "word": "暑运以来全国铁路发送旅客超2亿人次",
+        "onboard_time": 1721206818,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260637,
+        "num": 336084,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66764,
+        "num": 333587,
+        "word": "外交部回应ChinaTravel走红",
+        "onboard_time": 1721211678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924583,
+        "num": 332751,
+        "word": "Kris离职",
+        "onboard_time": 1721211259,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 680199,
+        "num": 331089,
+        "word": "呛奶去世婴儿父母与天鹅到家和解",
+        "onboard_time": 1721206219,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632821,
+        "num": 328170,
+        "word": "薛之谦戒指",
+        "onboard_time": 1721206339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466277,
+        "num": 326269,
+        "word": "Kris回应手机事件",
+        "onboard_time": 1721207238,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 436633,
+        "num": 324621,
+        "word": "韩74岁男性为性侵女性喂药42片致死",
+        "onboard_time": 1721205679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383300,
+        "num": 324302,
+        "word": "虞书欣搂姜妍的腰",
+        "onboard_time": 1721208438,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322590,
+        "num": 322590,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268641,
+        "num": 268641,
+        "word": "郭帆把赵今麦年龄记这么清楚",
+        "onboard_time": 1721210599,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236644,
+        "num": 236644,
+        "word": "邓为炒螺蛳粉失败了",
+        "onboard_time": 1721204839,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235635,
+        "num": 235635,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 487156,
+        "num": 235609,
+        "word": "一次吃半个西瓜身体会发生啥",
+        "onboard_time": 1721205859,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 444056,
+        "num": 235588,
+        "word": "日本高中生吃18禁超辣薯片被送医",
+        "onboard_time": 1721207119,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247473,
+        "num": 235481,
+        "word": "微信会惩罚长时间没用旧设备的人",
+        "onboard_time": 1721208559,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235060,
+        "num": 235060,
+        "word": "YG第二季度营业利润只有157万人民币",
+        "onboard_time": 1721208140,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230455,
+        "num": 230455,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212854,
+        "num": 212854,
+        "word": "赵今麦张凌赫录hi6",
+        "onboard_time": 1721210658,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207436,
+        "num": 207436,
+        "word": "最伤腰的姿势",
+        "onboard_time": 1721211259,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205494,
+        "num": 205494,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1721210298,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200590,
+        "num": 200590,
+        "word": "杨紫长相思最后一场戏",
+        "onboard_time": 1721212577,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199689,
+        "num": 199689,
+        "word": "大模型测不出9.11和9.9哪个大",
+        "onboard_time": 1721192420,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187014,
+        "num": 187014,
+        "word": "花花也知道睡觉要盖肚肚",
+        "onboard_time": 1721211259,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152041,
+        "num": 152041,
+        "word": "大鹏 都选C",
+        "onboard_time": 1721203639,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139637,
+        "num": 139637,
+        "word": "美ONE回应被指卖假和田玉",
+        "onboard_time": 1721210240,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195998,
+        "num": 139636,
+        "word": "杨紫久久出不了戏",
+        "onboard_time": 1721202020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139607,
+        "num": 139607,
+        "word": "被孙怡身上的姐感蛊到",
+        "onboard_time": 1721212159,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131179,
+        "num": 131179,
+        "word": "陈晓东曝双眼险失明",
+        "onboard_time": 1721209399,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128275,
+        "num": 128275,
+        "word": "乱马 新作动画",
+        "onboard_time": 1721211199,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "米哈游客服回应那维莱特被削弱",
+        "onboard_time": 1721212096,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120857,
+        "num": 120857,
+        "word": "小伙放弃最后一张刮刮乐被店员刮中",
+        "onboard_time": 1721206099,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 119890,
+        "word": "泰国酒店6人死亡案告破",
+        "onboard_time": 1721203339,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116063,
+        "num": 116063,
+        "word": "二手玫瑰缺席歌手突围赛",
+        "onboard_time": 1721211078,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110695,
+        "num": 110695,
+        "word": "塞纳河水",
+        "onboard_time": 1721209459,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109525,
+        "num": 109525,
+        "word": "薛之谦 INWARD",
+        "onboard_time": 1721211918,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109162,
+        "num": 109162,
+        "word": "卫健局回应女子遭男医生猥亵",
+        "onboard_time": 1721212458,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105274,
+        "num": 105274,
+        "word": "周深 新海诚动画推广大使",
+        "onboard_time": 1721209698,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 104765,
+        "num": 104765,
+        "word": "INFJ一定是J人里面最拖延的",
+        "onboard_time": 1721203039,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 100537,
+        "word": "TF家族运动会周边",
+        "onboard_time": 1721207299,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98973,
+        "num": 98973,
+        "word": "临江仙",
+        "onboard_time": 1721209279,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42985,
+        "num": 96454,
+        "word": "男子吃糖被卡喉警察10秒救回",
+        "onboard_time": 1721211317,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "薛之谦鸟巢演唱会",
+        "onboard_time": 1721204359,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革近镜头#"
+    }
+  }
+}

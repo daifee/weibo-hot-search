@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 18:21:41
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 18:38:15
 </p>
 </blockquote>
 <p>
@@ -2421,6 +2421,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Kris%E7%A6%BB%E8%81%8C%23" target="weibo">
+Kris离职（热度：924583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E7%BD%91%E7%BA%A2%E5%91%A8%E7%BF%A0%E7%BF%A0%E5%A4%AB%E5%A6%87%E5%8E%BB%E4%B8%96%23" target="weibo">
 钓鱼网红周翠翠夫妇去世（热度：920146）
 </a>
@@ -3929,6 +3935,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
 拜登谴责特朗普竞选集会枪击事件（热度：711437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%8B%8D%E5%90%BB%E6%88%8F%E4%B8%8B%E4%B8%8D%E5%8E%BB%E5%98%B4%23" target="weibo">
+张新成王玉雯拍吻戏下不去嘴（热度：710646）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E9%80%AE%E6%8D%952%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 外交部回应日方要求逮捕2名中国人（热度：545849）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
-郑恺发文告别奔跑吧（热度：545255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A6%99%E5%A5%88%E5%84%BF%E6%99%9A%E5%AE%B4%E8%B7%AF%E9%80%8F%23" target="weibo">
-王一博香奈儿晚宴路透（热度：544865）
 </a>
 </li>
 

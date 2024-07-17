@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721211701024,
+  "endTime": 1721212695405,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1365348,
-      "num": 559120,
+      "num": 563366,
       "word": "浙江一家8口确诊同种病一人患癌",
       "onboard_time": 1721200518,
       "rank": 39,
@@ -105,6 +105,14 @@
       "onboard_time": 1721181617,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 924583,
+      "num": 332751,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 911096,
@@ -225,6 +233,14 @@
       "onboard_time": 1721192420,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710646,
+      "num": 1113703,
+      "word": "张新成王玉雯拍吻戏下不去嘴",
+      "onboard_time": 1721210419,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 706980,
@@ -395,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463168,
-      "num": 258441,
-      "word": "张新成王玉雯拍吻戏下不去嘴",
-      "onboard_time": 1721210419,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455869,
       "num": 455869,
       "word": "官方通报老人报40元团4天3晚游桂林",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 450952,
-      "num": 267737,
+      "num": 324302,
       "word": "虞书欣搂姜妍的腰",
       "onboard_time": 1721208438,
       "rank": 18,
@@ -459,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438588,
+      "num": 438588,
+      "word": "厕所小飞虫或会寄生在人体并引发感染",
+      "onboard_time": 1721206818,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 437213,
       "num": 437213,
       "word": "大鹏 都选C",
       "onboard_time": 1721203639,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 432961,
-      "num": 432961,
-      "word": "厕所小飞虫或会寄生在人体并引发感染",
-      "onboard_time": 1721206818,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 431588,
@@ -611,20 +619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340996,
-      "num": 255014,
-      "word": "Kris离职",
-      "onboard_time": 1721211259,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 339282,
       "num": 339282,
       "word": "古茗崩了",
       "onboard_time": 1721193979,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 338832,
+      "num": 338832,
+      "word": "杨紫想让长相思2一天播完",
+      "onboard_time": 1721212159,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 325696,
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268641,
+      "num": 268641,
+      "word": "郭帆把赵今麦年龄记这么清楚",
+      "onboard_time": 1721210599,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264838,
       "num": 251693,
       "word": "邓为炒螺蛳粉失败了",
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207436,
+      "num": 207436,
+      "word": "最伤腰的姿势",
+      "onboard_time": 1721211259,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 206811,
       "num": 206811,
       "word": "切尔西球员集体取关恩佐",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1721177719,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205494,
+      "num": 205494,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1721210298,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 204450,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1721178858,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200590,
+      "num": 200590,
+      "word": "杨紫长相思最后一场戏",
+      "onboard_time": 1721212577,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 199256,
@@ -1259,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187014,
+      "num": 187014,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186664,
       "num": 186664,
       "word": "海边的秘密阵容官宣",
@@ -1323,28 +1371,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 181814,
-      "num": 181814,
-      "word": "郭帆把赵今麦年龄记这么清楚",
-      "onboard_time": 1721210599,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180214,
       "num": 180214,
       "word": "长相思有自己的燃冬",
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179193,
-      "num": 156668,
-      "word": "天生臭脸和天生笑脸的区别",
-      "onboard_time": 1721210298,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 177863,
@@ -1691,20 +1723,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141573,
-      "num": 141573,
-      "word": "最伤腰的姿势",
-      "onboard_time": 1721211259,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "法海被恨过但没丑过",
       "onboard_time": 1721205679,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "被孙怡身上的姐感蛊到",
+      "onboard_time": 1721212159,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138871,
@@ -1763,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133446,
-      "num": 133446,
-      "word": "花花也知道睡觉要盖肚肚",
-      "onboard_time": 1721211259,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "95后男生发动100人签订互助父母计划",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1721146039,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123711,
+      "num": 123711,
+      "word": "米哈游客服回应那维莱特被削弱",
+      "onboard_time": 1721212096,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 123590,
@@ -2017,6 +2049,22 @@
       "onboard_time": 1721176820,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109525,
+      "num": 109525,
+      "word": "薛之谦 INWARD",
+      "onboard_time": 1721211918,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109162,
+      "num": 109162,
+      "word": "卫健局回应女子遭男医生猥亵",
+      "onboard_time": 1721212458,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108273,
@@ -2259,6 +2307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 66764,
+      "num": 333587,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66181,
       "num": 66181,
       "word": "曝CUBE贷款续约gidle",
@@ -2419,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42985,
+      "num": 256071,
+      "word": "男子吃糖被卡喉警察10秒救回",
+      "onboard_time": 1721211317,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 40993,
       "num": 44168,
       "word": "檀健次回应相柳九头九脸",
@@ -2451,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32261,
-      "num": 156928,
-      "word": "外交部回应ChinaTravel走红",
-      "onboard_time": 1721211678,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31947,
       "num": 763550,
       "word": "开启新的伟大变革",
@@ -2481,14 +2537,6 @@
       "onboard_time": 1721207720,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21650,
-      "num": 256071,
-      "word": "男子吃糖被卡喉警察10秒救回",
-      "onboard_time": 1721211317,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 19953,
