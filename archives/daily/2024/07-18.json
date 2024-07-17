@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721247652597,
+  "endTime": 1721248481621,
   "band_list": [
     {
       "raw_hot": 862489,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24541,
+      "num": 21279,
+      "word": "不建议和西瓜一起吃的食物",
+      "onboard_time": 1721245451,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24028,
       "num": 24028,
       "word": "阿Sa精准猜出Henry",
@@ -505,14 +513,6 @@
       "onboard_time": 1721224099,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20371,
-      "num": 20371,
-      "word": "不建议和西瓜一起吃的食物",
-      "onboard_time": 1721245451,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20352,
@@ -577,6 +577,22 @@
       "onboard_time": 1721247551,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10134,
+      "num": 17265,
+      "word": "男生手捧清华通知书直呼非常爽",
+      "onboard_time": 1721248391,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10033,
+      "num": 17260,
+      "word": "考生考上国防科大全家放礼炮庆祝",
+      "onboard_time": 1721248452,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 7237,

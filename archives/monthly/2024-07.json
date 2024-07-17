@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721247652597,
+  "endTime": 1721248481621,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -48771,6 +48771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24541,
+      "num": 21279,
+      "word": "不建议和西瓜一起吃的食物",
+      "onboard_time": 1721245451,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24375,
       "num": 24375,
       "word": "凯恩吃黄牌",
@@ -49137,14 +49145,6 @@
       "onboard_time": 1721099118,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20371,
-      "num": 20371,
-      "word": "不建议和西瓜一起吃的食物",
-      "onboard_time": 1721245451,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20352,
@@ -50099,12 +50099,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 10134,
+      "num": 17265,
+      "word": "男生手捧清华通知书直呼非常爽",
+      "onboard_time": 1721248391,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10074,
       "num": 35563,
       "word": "河南小伙着急救人揣着手机一起跳海",
       "onboard_time": 1720806672,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10033,
+      "num": 17260,
+      "word": "考生考上国防科大全家放礼炮庆祝",
+      "onboard_time": 1721248452,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 10005,
