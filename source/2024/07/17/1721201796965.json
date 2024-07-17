@@ -1,0 +1,410 @@
+{
+  "runTime": 1721201796965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458013,
+        "num": 1458013,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591088,
+        "num": 591088,
+        "word": "BBA涨价",
+        "onboard_time": 1721198118,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29916,
+        "num": 493871,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465817,
+        "num": 465817,
+        "word": "王海称李佳琦小杨哥卖假和田玉",
+        "onboard_time": 1721197158,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397407,
+        "num": 397407,
+        "word": "第一批和AI恋爱的年轻人已经失恋了",
+        "onboard_time": 1721196018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497730,
+        "num": 397368,
+        "word": "陆川方称账号被盗",
+        "onboard_time": 1721201718,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397274,
+        "num": 397274,
+        "word": "749局",
+        "onboard_time": 1721199317,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380697,
+        "num": 380697,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37475,
+        "num": 379022,
+        "word": "一座城市city不city走走才知道",
+        "onboard_time": 1721201418,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 15449,
+        "num": 373366,
+        "word": "分析师预计金价仍有上涨空间",
+        "onboard_time": 1721201418,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 898549,
+        "num": 370386,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 518892,
+        "num": 366398,
+        "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
+        "onboard_time": 1721191760,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434919,
+        "num": 363818,
+        "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+        "onboard_time": 1721199678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361475,
+        "num": 361475,
+        "word": "上海丁克夫妻半退休20年",
+        "onboard_time": 1721188878,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 349816,
+        "word": "气象分析师谈河南暴雨为何这么大",
+        "onboard_time": 1721201418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349672,
+        "num": 349672,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339473,
+        "num": 339473,
+        "word": "大模型测不出9.11和9.9哪个大",
+        "onboard_time": 1721192420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312961,
+        "num": 312961,
+        "word": "迪丽热巴裸色高定裙",
+        "onboard_time": 1721199979,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259729,
+        "num": 259729,
+        "word": "古茗崩了",
+        "onboard_time": 1721193979,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252010,
+        "num": 252010,
+        "word": "解说kris疑似辞职",
+        "onboard_time": 1721201178,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 408870,
+        "num": 251475,
+        "word": "7岁女孩喷泉玩水后下体失血休克",
+        "onboard_time": 1721194879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245866,
+        "num": 245866,
+        "word": "李梦 性感衣服跳出广播体操感",
+        "onboard_time": 1721192720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244006,
+        "num": 244006,
+        "word": "杨丞琳回归歌手",
+        "onboard_time": 1721195778,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231436,
+        "num": 231436,
+        "word": "拜登说哈里斯将来可能是美国总统",
+        "onboard_time": 1721199497,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208558,
+        "num": 208558,
+        "word": "肖战射雕英雄传年底或明年上映",
+        "onboard_time": 1721201778,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206803,
+        "num": 206803,
+        "word": "小彩旗英国大学毕业",
+        "onboard_time": 1721193197,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201991,
+        "num": 201991,
+        "word": "办公室7个人天天为空调吵架",
+        "onboard_time": 1721200399,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198717,
+        "num": 198717,
+        "word": "女生术前做检查发现医生是同学",
+        "onboard_time": 1721190200,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197021,
+        "num": 197021,
+        "word": "手机壳正在服装化",
+        "onboard_time": 1721187199,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190840,
+        "num": 190840,
+        "word": "看见了二十岁最好看的模样",
+        "onboard_time": 1721201059,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215426,
+        "num": 190381,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 190133,
+        "word": "感觉朋友圈的味道越来越怪",
+        "onboard_time": 1721185517,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188959,
+        "num": 188959,
+        "word": "外媒评王一博巴黎传递火炬",
+        "onboard_time": 1721201297,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 188037,
+        "num": 188037,
+        "word": "陆川 高质弱酸性",
+        "onboard_time": 1721200819,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43825,
+        "num": 185310,
+        "word": "巴黎奥运你有一批中国智造请查收",
+        "onboard_time": 1721190619,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183781,
+        "num": 183781,
+        "word": "那维莱特削弱",
+        "onboard_time": 1721200518,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182130,
+        "num": 182130,
+        "word": "TheShy找小钰要陪玩费",
+        "onboard_time": 1721199198,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176988,
+        "num": 176988,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172903,
+        "num": 172903,
+        "word": "王者水墨武侠皮肤",
+        "onboard_time": 1721199198,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154208,
+        "num": 154208,
+        "word": "这些零食是炎症炸弹",
+        "onboard_time": 1721196979,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151462,
+        "num": 151462,
+        "word": "歌手突围赛阵容",
+        "onboard_time": 1721189838,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149674,
+        "num": 149674,
+        "word": "钟丽缇女儿考拉身高",
+        "onboard_time": 1721198479,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138315,
+        "num": 138315,
+        "word": "塞纳河水质最近不适宜下水比赛",
+        "onboard_time": 1721195420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136432,
+        "num": 136432,
+        "word": "许凯 谁教你这样看剧的",
+        "onboard_time": 1721199439,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121943,
+        "num": 134819,
+        "word": "夏日盐湖是懂色彩搭配的",
+        "onboard_time": 1721200819,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133936,
+        "num": 133936,
+        "word": "住酒店忘关水客房被淹变赶海房",
+        "onboard_time": 1721196740,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "蓝盈莹 人其实很少能好好说再见",
+        "onboard_time": 1721194159,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 129567,
+        "word": "王俊凯新歌成为英雄试听",
+        "onboard_time": 1721197397,
+        "rank": 47,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 127616,
+        "num": 127616,
+        "word": "谭松韵你别太爱猴哥了",
+        "onboard_time": 1721198358,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122573,
+        "num": 122573,
+        "word": "金价",
+        "onboard_time": 1721184259,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要把命运掌握在自己手中#"
+    }
+  }
+}
