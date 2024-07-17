@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721251155378,
+  "endTime": 1721252098065,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -44851,6 +44851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61718,
+      "num": 21279,
+      "word": "不建议和西瓜一起吃的食物",
+      "onboard_time": 1721245451,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61631,
       "num": 61631,
       "word": "刘德华2580元门票被炒到68880元",
@@ -46713,14 +46721,6 @@
       "onboard_time": 1720417820,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 43669,
-      "num": 21279,
-      "word": "不建议和西瓜一起吃的食物",
-      "onboard_time": 1721245451,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 43653,
@@ -49675,6 +49675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15169,
+      "num": 15169,
+      "word": "月球发现潜在可进入洞道",
+      "onboard_time": 1721250670,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15063,
       "num": 31465,
       "word": "约罗接近加盟曼联",
@@ -50011,20 +50019,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10777,
+      "num": 14973,
+      "word": "我们要把命运掌握在自己手中",
+      "onboard_time": 1721250012,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10763,
       "num": 167550,
       "word": "韩国动保组织呼吁禁止吃鸡",
       "onboard_time": 1721223078,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10740,
-      "num": 14540,
-      "word": "月球发现潜在可进入洞道",
-      "onboard_time": 1721250670,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 10601,
@@ -50137,14 +50145,6 @@
       "onboard_time": 1720808533,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9981,
-      "num": 14536,
-      "word": "我们要把命运掌握在自己手中",
-      "onboard_time": 1721250012,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9769,
