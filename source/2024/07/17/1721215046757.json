@@ -1,0 +1,410 @@
+{
+  "runTime": 1721215046757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 538142,
+        "num": 1086102,
+        "word": "钟南山院士否认病重传闻",
+        "onboard_time": 1721206759,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533645,
+        "num": 533645,
+        "word": "杨紫想让长相思2一天播完",
+        "onboard_time": 1721212159,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7075,
+        "num": 500025,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489094,
+        "num": 489094,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312506,
+        "num": 312506,
+        "word": "厕所小飞虫或会寄生在人体并引发感染",
+        "onboard_time": 1721206818,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79445,
+        "num": 288501,
+        "word": "外交部回应ChinaTravel走红",
+        "onboard_time": 1721211678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275215,
+        "num": 275215,
+        "word": "宝马涨价后来看车的人变多了",
+        "onboard_time": 1721203698,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266653,
+        "num": 266653,
+        "word": "十个勤天演唱会抢票",
+        "onboard_time": 1721213538,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "长相思",
+        "onboard_time": 1721214137,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79479,
+        "num": 197281,
+        "word": "南方一菜市场买菜后可免费帮炒",
+        "onboard_time": 1721214018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137023,
+        "num": 196657,
+        "word": "Kris离职",
+        "onboard_time": 1721211259,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 485946,
+        "num": 195914,
+        "word": "呛奶去世婴儿父母与天鹅到家和解",
+        "onboard_time": 1721206219,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403394,
+        "num": 195319,
+        "word": "薛之谦戒指",
+        "onboard_time": 1721206339,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397107,
+        "num": 195100,
+        "word": "郭帆把赵今麦年龄记这么清楚",
+        "onboard_time": 1721210599,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194425,
+        "num": 194425,
+        "word": "爱奇艺IP互动嘉年华直播",
+        "onboard_time": 1721214137,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45391,
+        "num": 194322,
+        "word": "金标大众来了",
+        "onboard_time": 1721212998,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 361618,
+        "num": 194267,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1721210298,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338871,
+        "num": 194180,
+        "word": "林一 不想做人很久了",
+        "onboard_time": 1721213237,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286099,
+        "num": 194083,
+        "word": "王者送蒙犽新史诗皮",
+        "onboard_time": 1721212817,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281945,
+        "num": 193945,
+        "word": "卫健局回应女子遭男医生猥亵",
+        "onboard_time": 1721212458,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866538,
+        "num": 193865,
+        "word": "张新成王玉雯拍吻戏下不去嘴",
+        "onboard_time": 1721210419,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330579,
+        "num": 193697,
+        "word": "一次吃半个西瓜身体会发生啥",
+        "onboard_time": 1721205859,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 330148,
+        "num": 193593,
+        "word": "日本高中生吃18禁超辣薯片被送医",
+        "onboard_time": 1721207119,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279974,
+        "num": 193440,
+        "word": "最伤腰的姿势",
+        "onboard_time": 1721211259,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273409,
+        "num": 193364,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269489,
+        "num": 193284,
+        "word": "韩74岁男性为性侵女性喂药42片致死",
+        "onboard_time": 1721205679,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205648,
+        "num": 193167,
+        "word": "邓为炒螺蛳粉失败了",
+        "onboard_time": 1721204839,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193100,
+        "num": 193100,
+        "word": "花花也知道睡觉要盖肚肚",
+        "onboard_time": 1721211259,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189897,
+        "num": 189897,
+        "word": "虞书欣搂姜妍的腰",
+        "onboard_time": 1721208438,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182731,
+        "num": 182731,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201407,
+        "num": 179922,
+        "word": "刘强东章泽天看欧洲杯",
+        "onboard_time": 1721213418,
+        "rank": 30,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 173105,
+        "num": 173105,
+        "word": "杨紫发文谈小夭认母戏",
+        "onboard_time": 1721213717,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168124,
+        "num": 168124,
+        "word": "陈丽君刘宇宁同组",
+        "onboard_time": 1721213659,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "Kris回应手机事件",
+        "onboard_time": 1721207238,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153932,
+        "num": 153932,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152055,
+        "num": 152055,
+        "word": "微信会惩罚长时间没用旧设备的人",
+        "onboard_time": 1721208559,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149387,
+        "num": 149387,
+        "word": "深圳双彩虹",
+        "onboard_time": 1721214918,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144576,
+        "num": 144576,
+        "word": "米哈游客服回应那维莱特被削弱",
+        "onboard_time": 1721212096,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136779,
+        "num": 136779,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136102,
+        "num": 136102,
+        "word": "欧豪白鹿首搭cp",
+        "onboard_time": 1721213598,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132309,
+        "num": 132309,
+        "word": "赵今麦张凌赫录hi6",
+        "onboard_time": 1721210658,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131587,
+        "num": 131587,
+        "word": "中山大学9位哲学硕博生卖烤肠走红",
+        "onboard_time": 1721214618,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130392,
+        "num": 130392,
+        "word": "YG第二季度营业利润只有157万人民币",
+        "onboard_time": 1721208140,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115252,
+        "num": 115252,
+        "word": "二手玫瑰缺席歌手突围赛",
+        "onboard_time": 1721211078,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110761,
+        "num": 110761,
+        "word": "杨紫长相思最后一场戏",
+        "onboard_time": 1721212577,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106984,
+        "num": 106984,
+        "word": "薛之谦鸟巢演唱会",
+        "onboard_time": 1721204359,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105586,
+        "num": 105586,
+        "word": "塞纳河水",
+        "onboard_time": 1721209459,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104584,
+        "num": 104584,
+        "word": "美ONE回应被指卖假和田玉",
+        "onboard_time": 1721210240,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94190,
+        "num": 94190,
+        "word": "被孙怡身上的姐感蛊到",
+        "onboard_time": 1721212159,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93903,
+        "num": 93903,
+        "word": "TF家族运动会周边",
+        "onboard_time": 1721207299,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要把命运掌握在自己手中#"
+    }
+  }
+}

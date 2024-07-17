@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721212695405,
+  "endTime": 1721215046757,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -2019,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1137023,
+      "num": 332751,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1136250,
       "num": 691144,
       "word": "张志杰妈妈悲伤过度入院",
@@ -3211,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 924583,
-      "num": 332751,
-      "word": "Kris离职",
-      "onboard_time": 1721211259,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 920146,
       "num": 331495,
       "word": "钓鱼网红周翠翠夫妇去世",
@@ -3649,6 +3649,14 @@
       "onboard_time": 1720426639,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866538,
+      "num": 1113703,
+      "word": "张新成王玉雯拍吻戏下不去嘴",
+      "onboard_time": 1721210419,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 865840,
@@ -5233,14 +5241,6 @@
       "onboard_time": 1720923199,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 710646,
-      "num": 1113703,
-      "word": "张新成王玉雯拍吻戏下不去嘴",
-      "onboard_time": 1721210419,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 710095,
@@ -8273,6 +8273,14 @@
       "onboard_time": 1721026397,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533645,
+      "num": 533645,
+      "word": "杨紫想让长相思2一天播完",
+      "onboard_time": 1721212159,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 533539,
@@ -12315,6 +12323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397107,
+      "num": 268641,
+      "word": "郭帆把赵今麦年龄记这么清楚",
+      "onboard_time": 1721210599,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396962,
       "num": 396111,
       "word": "杨紫说拍长相思2的时候好圆",
@@ -14387,12 +14403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338832,
-      "num": 338832,
-      "word": "杨紫想让长相思2一天播完",
-      "onboard_time": 1721212159,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 338871,
+      "num": 194180,
+      "word": "林一 不想做人很久了",
+      "onboard_time": 1721213237,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338738,
@@ -16675,6 +16691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286099,
+      "num": 194083,
+      "word": "王者送蒙犽新史诗皮",
+      "onboard_time": 1721212817,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286029,
       "num": 286029,
       "word": "特朗普曾喊让我拿鞋",
@@ -16931,6 +16955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281945,
+      "num": 193945,
+      "word": "卫健局回应女子遭男医生猥亵",
+      "onboard_time": 1721212458,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -17009,6 +17041,14 @@
       "onboard_time": 1719990018,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279974,
+      "num": 207436,
+      "word": "最伤腰的姿势",
+      "onboard_time": 1721211259,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279900,
@@ -17475,14 +17515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268641,
-      "num": 268641,
-      "word": "郭帆把赵今麦年龄记这么清楚",
-      "onboard_time": 1721210599,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 268402,
       "num": 276898,
       "word": "孙丞潇做出了评价最差的一道菜",
@@ -17569,6 +17601,14 @@
       "onboard_time": 1720794619,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266653,
+      "num": 266653,
+      "word": "十个勤天演唱会抢票",
+      "onboard_time": 1721213538,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 266579,
@@ -21867,14 +21907,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 207436,
-      "num": 207436,
-      "word": "最伤腰的姿势",
-      "onboard_time": 1721211259,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207388,
       "num": 207388,
       "word": "刘忻拥抱张予曦",
@@ -22953,6 +22985,14 @@
       "onboard_time": 1720423699,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201407,
+      "num": 179922,
+      "word": "刘强东章泽天看欧洲杯",
+      "onboard_time": 1721213418,
+      "rank": 30,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 201389,
@@ -24107,6 +24147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194425,
+      "num": 194425,
+      "word": "爱奇艺IP互动嘉年华直播",
+      "onboard_time": 1721214137,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194419,
       "num": 194419,
       "word": "难哄",
@@ -24345,6 +24393,14 @@
       "onboard_time": 1720308074,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193100,
+      "num": 193100,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 193098,
@@ -25537,14 +25593,6 @@
       "onboard_time": 1720865537,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187014,
-      "num": 187014,
-      "word": "花花也知道睡觉要盖肚肚",
-      "onboard_time": 1721211259,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 187010,
@@ -27651,6 +27699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173105,
+      "num": 173105,
+      "word": "杨紫发文谈小夭认母戏",
+      "onboard_time": 1721213717,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172979,
       "num": 172979,
       "word": "俄女驯兽师被自己驯养的熊袭击身亡",
@@ -28537,6 +28593,14 @@
       "onboard_time": 1721198358,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168124,
+      "num": 168124,
+      "word": "陈丽君刘宇宁同组",
+      "onboard_time": 1721213659,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 168121,
@@ -31675,6 +31739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149387,
+      "num": 149387,
+      "word": "深圳双彩虹",
+      "onboard_time": 1721214918,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "收到了隔壁妹妹的小纸条",
@@ -32569,6 +32641,14 @@
       "onboard_time": 1720334957,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144576,
+      "num": 144576,
+      "word": "米哈游客服回应那维莱特被削弱",
+      "onboard_time": 1721212096,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 144457,
@@ -34371,6 +34451,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 136102,
+      "num": 136102,
+      "word": "欧豪白鹿首搭cp",
+      "onboard_time": 1721213598,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136066,
       "num": 136066,
       "word": "张子墨唱歌",
@@ -35281,6 +35369,14 @@
       "onboard_time": 1719912619,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131587,
+      "num": 131587,
+      "word": "中山大学9位哲学硕博生卖烤肠走红",
+      "onboard_time": 1721214618,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131575,
@@ -36857,14 +36953,6 @@
       "onboard_time": 1720011078,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123711,
-      "num": 123711,
-      "word": "米哈游客服回应那维莱特被削弱",
-      "onboard_time": 1721212096,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 123644,
@@ -39721,14 +39809,6 @@
       "onboard_time": 1720359260,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109162,
-      "num": 109162,
-      "word": "卫健局回应女子遭男医生猥亵",
-      "onboard_time": 1721212458,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109137,
@@ -42779,6 +42859,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 79479,
+      "num": 197281,
+      "word": "南方一菜市场买菜后可免费帮炒",
+      "onboard_time": 1721214018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79445,
+      "num": 333587,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79245,
       "num": 855692,
       "word": "风清气正的网络环境是中国的名片",
@@ -43656,14 +43752,6 @@
       "word": "外国游客对比中英火车站",
       "onboard_time": 1720696218,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66764,
-      "num": 333587,
-      "word": "外交部回应ChinaTravel走红",
-      "onboard_time": 1721211678,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -45753,6 +45841,14 @@
       "onboard_time": 1721135178,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45391,
+      "num": 194322,
+      "word": "金标大众来了",
+      "onboard_time": 1721212998,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 45389,
