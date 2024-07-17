@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721187390400,
+  "endTime": 1721190176050,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 933852,
-      "num": 268340,
+      "num": 311879,
       "word": "你以为很卫生其实很脏的行为",
       "onboard_time": 1721181617,
       "rank": 20,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 726713,
+      "num": 360264,
+      "word": "上海丁克夫妻半退休20年",
+      "onboard_time": 1721188878,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 692905,
       "num": 355772,
       "word": "特朗普私下谈遭枪击感受",
@@ -131,6 +139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 597904,
+      "num": 597904,
+      "word": "手机壳正在服装化",
+      "onboard_time": 1721187199,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 584723,
       "num": 584723,
       "word": "河南暴雨",
@@ -147,12 +163,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 558325,
+      "num": 314270,
+      "word": "感觉朋友圈的味道越来越怪",
+      "onboard_time": 1721185517,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 502687,
       "num": 890429,
       "word": "为什么成龙电影逐渐失去票房号召力",
       "onboard_time": 1721170873,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 499543,
+      "num": 358861,
+      "word": "泰国酒店6人死亡第7人下落不明",
+      "onboard_time": 1721188462,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455869,
@@ -227,8 +259,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393485,
+      "num": 393485,
+      "word": "长相思2人设最完美的人",
+      "onboard_time": 1721186479,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386683,
-      "num": 263817,
+      "num": 307245,
       "word": "赵露思素颜与好友聚餐",
       "onboard_time": 1721184740,
       "rank": 21,
@@ -249,6 +289,14 @@
       "onboard_time": 1721174357,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360519,
+      "num": 360519,
+      "word": "原神 那维莱特",
+      "onboard_time": 1721187800,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 323742,
@@ -273,6 +321,14 @@
       "onboard_time": 1721182878,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316260,
+      "num": 316260,
+      "word": "湖南一地路边立有禁止强奸幼女标牌",
+      "onboard_time": 1721189059,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315642,
@@ -307,20 +363,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 292768,
+      "num": 292768,
+      "word": "23岁毕业和26岁毕业是不一样的",
+      "onboard_time": 1721187678,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292694,
       "num": 292694,
       "word": "抓娃娃结尾",
       "onboard_time": 1721178977,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282516,
-      "num": 242469,
-      "word": "感觉朋友圈的味道越来越怪",
-      "onboard_time": 1721185517,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 276950,
@@ -347,12 +403,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271340,
+      "num": 271340,
+      "word": "霍启刚说参加奥运要自带冷气",
+      "onboard_time": 1721189420,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "假性亲密关系",
+      "onboard_time": 1721188939,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 270338,
+      "num": 270338,
+      "word": "孩子以母亲身份充值十余万申请退款遭拒",
+      "onboard_time": 1721184017,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253099,
       "num": 206843,
       "word": "陶喆 二十二",
       "onboard_time": 1721141000,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250939,
+      "num": 250939,
+      "word": "长相思2好癫",
+      "onboard_time": 1721189479,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 247684,
@@ -387,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232836,
-      "num": 232836,
-      "word": "长相思2人设最完美的人",
-      "onboard_time": 1721186479,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 226058,
+      "num": 226058,
+      "word": "原来医生真的能看见血条",
+      "onboard_time": 1721187678,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 223645,
@@ -411,6 +499,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216001,
+      "num": 216001,
+      "word": "歌手突围赛阵容",
+      "onboard_time": 1721189838,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206954,
+      "num": 206954,
+      "word": "史彭元 晋江男主啥样啊",
+      "onboard_time": 1721188699,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206811,
       "num": 206811,
       "word": "切尔西球员集体取关恩佐",
@@ -424,14 +528,6 @@
       "word": "94岁吴明珠来到吐鲁番",
       "onboard_time": 1721177719,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204826,
-      "num": 204826,
-      "word": "孩子以母亲身份充值十余万申请退款遭拒",
-      "onboard_time": 1721184017,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -739,14 +835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129943,
-      "num": 129943,
-      "word": "手机壳正在服装化",
-      "onboard_time": 1721187199,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 124565,
       "num": 124565,
       "word": "队友主动让崔永熙罚球",
@@ -763,8 +851,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123505,
+      "num": 225471,
+      "word": "小米把紫色玩明白了",
+      "onboard_time": 1721185457,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123253,
-      "num": 123253,
+      "num": 354190,
       "word": "欧阳院士聊太空浪漫",
       "onboard_time": 1721186897,
       "rank": 48,
@@ -923,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94535,
-      "num": 225471,
-      "word": "小米把紫色玩明白了",
-      "onboard_time": 1721185457,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94255,
       "num": 94255,
       "word": "中方回应万斯称中国是美国最大威胁",
@@ -979,6 +1067,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82329,
+      "num": 560605,
+      "word": "武警在河南南阳转移村民500多人",
+      "onboard_time": 1721185219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81192,
       "num": 81192,
       "word": "马嘉祺在ABC中选择了D",
@@ -1003,14 +1099,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 78083,
-      "num": 560605,
-      "word": "武警在河南南阳转移村民500多人",
-      "onboard_time": 1721185219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76189,
       "num": 76189,
       "word": "广州海珠一新能源车发生自燃",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1721127858,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75330,
+      "num": 355183,
+      "word": "饿了么升级超级吃货卡更省了",
+      "onboard_time": 1721188819,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 74754,
@@ -1129,6 +1225,14 @@
       "onboard_time": 1721140939,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57457,
+      "num": 356950,
+      "word": "迪士尼年卡是变相涨价还是打击黄牛",
+      "onboard_time": 1721188819,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50788,

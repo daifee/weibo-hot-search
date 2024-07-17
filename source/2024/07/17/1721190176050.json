@@ -1,0 +1,410 @@
+{
+  "runTime": 1721190176050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575890,
+        "num": 1575890,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883806,
+        "num": 883806,
+        "word": "金价",
+        "onboard_time": 1721184259,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9376,
+        "num": 626897,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597904,
+        "num": 597904,
+        "word": "手机壳正在服装化",
+        "onboard_time": 1721187199,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82329,
+        "num": 539882,
+        "word": "武警在河南南阳转移村民500多人",
+        "onboard_time": 1721185219,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539277,
+        "num": 539277,
+        "word": "张志杰事件处理无任何结果",
+        "onboard_time": 1721179877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536239,
+        "num": 536239,
+        "word": "金饰价格一夜冲到超750元每克",
+        "onboard_time": 1721184620,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 449784,
+        "num": 449784,
+        "word": "印尼羽协不再对张志杰遗体负责",
+        "onboard_time": 1721179219,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393485,
+        "num": 393485,
+        "word": "长相思2人设最完美的人",
+        "onboard_time": 1721186479,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360519,
+        "num": 360519,
+        "word": "原神 那维莱特",
+        "onboard_time": 1721187800,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 726713,
+        "num": 360264,
+        "word": "上海丁克夫妻半退休20年",
+        "onboard_time": 1721188878,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499543,
+        "num": 358861,
+        "word": "泰国酒店6人死亡第7人下落不明",
+        "onboard_time": 1721188462,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468374,
+        "num": 357771,
+        "word": "首尔市长请求向中国租借大熊猫",
+        "onboard_time": 1721172856,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57457,
+        "num": 356950,
+        "word": "迪士尼年卡是变相涨价还是打击黄牛",
+        "onboard_time": 1721188819,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75330,
+        "num": 355183,
+        "word": "饿了么升级超级吃货卡更省了",
+        "onboard_time": 1721188819,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48072,
+        "num": 354190,
+        "word": "欧阳院士聊太空浪漫",
+        "onboard_time": 1721186897,
+        "rank": 15,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 381833,
+        "num": 353497,
+        "word": "王嘉尔没有经纪人",
+        "onboard_time": 1721185699,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352381,
+        "num": 352381,
+        "word": "临江仙海报",
+        "onboard_time": 1721185818,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348878,
+        "num": 348878,
+        "word": "阿念 大女主",
+        "onboard_time": 1721176158,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316260,
+        "num": 316260,
+        "word": "湖南一地路边立有禁止强奸幼女标牌",
+        "onboard_time": 1721189059,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558325,
+        "num": 314270,
+        "word": "感觉朋友圈的味道越来越怪",
+        "onboard_time": 1721185517,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401014,
+        "num": 311879,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337282,
+        "num": 307245,
+        "word": "赵露思素颜与好友聚餐",
+        "onboard_time": 1721184740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292768,
+        "num": 292768,
+        "word": "23岁毕业和26岁毕业是不一样的",
+        "onboard_time": 1721187678,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271340,
+        "num": 271340,
+        "word": "霍启刚说参加奥运要自带冷气",
+        "onboard_time": 1721189420,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270480,
+        "num": 270480,
+        "word": "假性亲密关系",
+        "onboard_time": 1721188939,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270338,
+        "num": 270338,
+        "word": "孩子以母亲身份充值十余万申请退款遭拒",
+        "onboard_time": 1721184017,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250939,
+        "num": 250939,
+        "word": "长相思2好癫",
+        "onboard_time": 1721189479,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240486,
+        "num": 240486,
+        "word": "特朗普私下谈遭枪击感受",
+        "onboard_time": 1721178677,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226058,
+        "num": 226058,
+        "word": "原来医生真的能看见血条",
+        "onboard_time": 1721187678,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224825,
+        "num": 224825,
+        "word": "多名毕业于土木专业学生谈工作经历",
+        "onboard_time": 1721174778,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224530,
+        "num": 224530,
+        "word": "坚持穿袜子睡觉1个月身体的变化",
+        "onboard_time": 1721174057,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216001,
+        "num": 216001,
+        "word": "歌手突围赛阵容",
+        "onboard_time": 1721189838,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215915,
+        "num": 215915,
+        "word": "边佑锡耍大牌轰动韩娱界",
+        "onboard_time": 1721180779,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215271,
+        "num": 215271,
+        "word": "男生放弃清华报考国防科大",
+        "onboard_time": 1721180479,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206954,
+        "num": 206954,
+        "word": "史彭元 晋江男主啥样啊",
+        "onboard_time": 1721188699,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123505,
+        "num": 181518,
+        "word": "小米把紫色玩明白了",
+        "onboard_time": 1721185457,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164971,
+        "num": 164971,
+        "word": "谁说涂山璟是只有爱情",
+        "onboard_time": 1721182878,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160046,
+        "num": 160046,
+        "word": "Kakao将出售SM等子公司",
+        "onboard_time": 1721183599,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "晚上睡觉时空调不要开26度",
+        "onboard_time": 1721174357,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123622,
+        "num": 151763,
+        "word": "她把一生奉献给了甜蜜的事业",
+        "onboard_time": 1721180898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151695,
+        "num": 151695,
+        "word": "被巴黎奥运村的熊猫可爱到",
+        "onboard_time": 1721187078,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150831,
+        "num": 150831,
+        "word": "宝鸡暴雨",
+        "onboard_time": 1721182218,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150118,
+        "num": 150118,
+        "word": "这是十个勤天应得的",
+        "onboard_time": 1721186117,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141120,
+        "num": 141120,
+        "word": "Uzi回应不如JackeyLove",
+        "onboard_time": 1721183478,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138162,
+        "num": 138162,
+        "word": "十个勤天接力画画",
+        "onboard_time": 1721187078,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136570,
+        "num": 136570,
+        "word": "恩佐道歉",
+        "onboard_time": 1721171834,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133632,
+        "num": 133632,
+        "word": "邓为谈体感长相思爆火的时刻",
+        "onboard_time": 1721186237,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132568,
+        "num": 132568,
+        "word": "我们的歌图书馆30秒文学",
+        "onboard_time": 1721186178,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128745,
+        "num": 128745,
+        "word": "原神",
+        "onboard_time": 1721177899,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革的根本目的#"
+    }
+  }
+}
