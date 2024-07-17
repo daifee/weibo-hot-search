@@ -1,0 +1,410 @@
+{
+  "runTime": 1721200806929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772255,
+        "num": 1772255,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 573813,
+        "num": 573813,
+        "word": "BBA涨价",
+        "onboard_time": 1721198118,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23387,
+        "num": 566593,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559840,
+        "num": 559840,
+        "word": "王海称李佳琦小杨哥卖假和田玉",
+        "onboard_time": 1721197158,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419978,
+        "num": 419978,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40350,
+        "num": 407955,
+        "word": "巴黎奥运你有一批中国智造请查收",
+        "onboard_time": 1721190619,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398802,
+        "num": 398802,
+        "word": "大模型测不出9.11和9.9哪个大",
+        "onboard_time": 1721192420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387094,
+        "num": 387094,
+        "word": "第一批和AI恋爱的年轻人已经失恋了",
+        "onboard_time": 1721196018,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344198,
+        "num": 379610,
+        "word": "749局",
+        "onboard_time": 1721199317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44889,
+        "num": 372434,
+        "word": "陕西南部本轮降雨过程极端性强",
+        "onboard_time": 1721199019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619304,
+        "num": 372422,
+        "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
+        "onboard_time": 1721191760,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372259,
+        "num": 372259,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 362609,
+        "num": 362609,
+        "word": "上海丁克夫妻半退休20年",
+        "onboard_time": 1721188878,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338604,
+        "num": 338604,
+        "word": "古茗崩了",
+        "onboard_time": 1721193979,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40284,
+        "num": 323886,
+        "word": "暴雨致宝鸡境内多处道路中断",
+        "onboard_time": 1721199019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322748,
+        "num": 322748,
+        "word": "李梦 性感衣服跳出广播体操感",
+        "onboard_time": 1721192720,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302445,
+        "num": 302445,
+        "word": "杨丞琳回归歌手",
+        "onboard_time": 1721195778,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259678,
+        "num": 259678,
+        "word": "女生术前做检查发现医生是同学",
+        "onboard_time": 1721190200,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259564,
+        "num": 259564,
+        "word": "迪丽热巴裸色高定裙",
+        "onboard_time": 1721199979,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "拜登说哈里斯将来可能是美国总统",
+        "onboard_time": 1721199497,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 492184,
+        "num": 250161,
+        "word": "7岁女孩喷泉玩水后下体失血休克",
+        "onboard_time": 1721194879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301591,
+        "num": 247659,
+        "word": "小彩旗英国大学毕业",
+        "onboard_time": 1721193197,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238388,
+        "num": 238388,
+        "word": "手机壳正在服装化",
+        "onboard_time": 1721187199,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230755,
+        "num": 230755,
+        "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+        "onboard_time": 1721199678,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218138,
+        "num": 218138,
+        "word": "感觉朋友圈的味道越来越怪",
+        "onboard_time": 1721185517,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209228,
+        "num": 209228,
+        "word": "塞纳河水质最近不适宜下水比赛",
+        "onboard_time": 1721195420,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204031,
+        "num": 204031,
+        "word": "TheShy找小钰要陪玩费",
+        "onboard_time": 1721199198,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199256,
+        "num": 199256,
+        "word": "陆川 九层妖塔",
+        "onboard_time": 1721199439,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197299,
+        "num": 197299,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 193776,
+        "word": "蓝盈莹 人其实很少能好好说再见",
+        "onboard_time": 1721194159,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184120,
+        "num": 184120,
+        "word": "王者水墨武侠皮肤",
+        "onboard_time": 1721199198,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177863,
+        "num": 177863,
+        "word": "许凯 谁教你这样看剧的",
+        "onboard_time": 1721199439,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175809,
+        "num": 175809,
+        "word": "歌手突围赛阵容",
+        "onboard_time": 1721189838,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168161,
+        "num": 168161,
+        "word": "谭松韵你别太爱猴哥了",
+        "onboard_time": 1721198358,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160364,
+        "num": 160364,
+        "word": "住酒店忘关水客房被淹变赶海房",
+        "onboard_time": 1721196740,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158069,
+        "num": 158069,
+        "word": "这些零食是炎症炸弹",
+        "onboard_time": 1721196979,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151499,
+        "num": 151499,
+        "word": "办公室7个人天天为空调吵架",
+        "onboard_time": 1721200399,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "钟丽缇女儿考拉身高",
+        "onboard_time": 1721198479,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142554,
+        "num": 142554,
+        "word": "董洁晒与儿子日本旅行vlog",
+        "onboard_time": 1721194100,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140966,
+        "num": 140966,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132979,
+        "num": 132979,
+        "word": "王俊凯新歌成为英雄试听",
+        "onboard_time": 1721197397,
+        "rank": 40,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 132737,
+        "num": 132737,
+        "word": "95后男生发动100人签订互助父母计划",
+        "onboard_time": 1721200278,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132228,
+        "num": 132228,
+        "word": "泰国酒店6人死亡第7人下落不明",
+        "onboard_time": 1721188462,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 127607,
+        "word": "长相思导演关注迪丽热巴超话",
+        "onboard_time": 1721192060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "金价",
+        "onboard_time": 1721184259,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124895,
+        "num": 124895,
+        "word": "那维莱特削弱",
+        "onboard_time": 1721200518,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123371,
+        "num": 123371,
+        "word": "原神 那维莱特",
+        "onboard_time": 1721187800,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116567,
+        "num": 116567,
+        "word": "安吉撞脸刘昊然",
+        "onboard_time": 1721194281,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114853,
+        "num": 114853,
+        "word": "华为Pura70出货量增125%",
+        "onboard_time": 1721200759,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114517,
+        "num": 114517,
+        "word": "Ning回应不和Uzi组排",
+        "onboard_time": 1721196078,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要把命运掌握在自己手中#"
+    }
+  }
+}

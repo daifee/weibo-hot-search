@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721198431077,
+  "endTime": 1721200806929,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -9,6 +9,14 @@
       "onboard_time": 1721183777,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1772255,
+      "num": 1772255,
+      "word": "陆川说抓娃娃是低质强碱性搞笑片",
+      "onboard_time": 1721196858,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1321572,
@@ -25,14 +33,6 @@
       "onboard_time": 1721179219,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1165883,
-      "num": 1186541,
-      "word": "陆川说抓娃娃是低质强碱性搞笑片",
-      "onboard_time": 1721196858,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1100046,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 721420,
-      "num": 238973,
+      "num": 250161,
       "word": "7岁女孩喷泉玩水后下体失血休克",
       "onboard_time": 1721194879,
       "rank": 20,
@@ -219,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573813,
+      "num": 573813,
+      "word": "BBA涨价",
+      "onboard_time": 1721198118,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 572301,
       "num": 572301,
       "word": "金饰价格一夜冲到超750元每克",
       "onboard_time": 1721184620,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 559840,
+      "num": 559840,
+      "word": "王海称李佳琦小杨哥卖假和田玉",
+      "onboard_time": 1721197158,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558325,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 522441,
-      "num": 238478,
+      "num": 247659,
       "word": "小彩旗英国大学毕业",
       "onboard_time": 1721193197,
       "rank": 30,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387094,
+      "num": 387094,
+      "word": "第一批和AI恋爱的年轻人已经失恋了",
+      "onboard_time": 1721196018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386683,
       "num": 307245,
       "word": "赵露思素颜与好友聚餐",
@@ -393,6 +417,14 @@
       "onboard_time": 1721180779,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372259,
+      "num": 372259,
+      "word": "特朗普支持率未获显著领先",
+      "onboard_time": 1721199739,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 366179,
@@ -417,6 +449,14 @@
       "onboard_time": 1721195778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344198,
+      "num": 379610,
+      "word": "749局",
+      "onboard_time": 1721199317,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 339282,
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259564,
+      "num": 259564,
+      "word": "迪丽热巴裸色高定裙",
+      "onboard_time": 1721199979,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 259295,
       "num": 259295,
       "word": "长相思2好癫",
@@ -587,20 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255274,
-      "num": 255274,
-      "word": "王海称李佳琦小杨哥卖假和田玉",
-      "onboard_time": 1721197158,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253099,
       "num": 206843,
       "word": "陶喆 二十二",
       "onboard_time": 1721141000,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "拜登说哈里斯将来可能是美国总统",
+      "onboard_time": 1721199497,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 247684,
@@ -659,6 +707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230755,
+      "num": 230755,
+      "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+      "onboard_time": 1721199678,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229509,
       "num": 229509,
       "word": "史彭元 晋江男主啥样啊",
@@ -689,14 +745,6 @@
       "onboard_time": 1721191880,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 220591,
-      "num": 262364,
-      "word": "第一批和AI恋爱的年轻人已经失恋了",
-      "onboard_time": 1721196018,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218851,
@@ -755,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204031,
+      "num": 204031,
+      "word": "TheShy找小钰要陪玩费",
+      "onboard_time": 1721199198,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203390,
       "num": 203390,
       "word": "陆川",
@@ -801,6 +857,14 @@
       "onboard_time": 1721178858,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199256,
+      "num": 199256,
+      "word": "陆川 九层妖塔",
+      "onboard_time": 1721199439,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 196613,
@@ -947,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184120,
+      "num": 184120,
+      "word": "王者水墨武侠皮肤",
+      "onboard_time": 1721199198,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184065,
       "num": 184065,
       "word": "十个勤天接力画画",
@@ -961,6 +1033,14 @@
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177863,
+      "num": 177863,
+      "word": "许凯 谁教你这样看剧的",
+      "onboard_time": 1721199439,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 175939,
@@ -1011,6 +1091,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "谭松韵你别太爱猴哥了",
+      "onboard_time": 1721198358,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164878,
       "num": 164878,
       "word": "为什么河南这次的雨这么大",
@@ -1051,12 +1139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160364,
+      "num": 160364,
+      "word": "住酒店忘关水客房被淹变赶海房",
+      "onboard_time": 1721196740,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158931,
       "num": 158931,
       "word": "Ning回应不和Uzi组排",
       "onboard_time": 1721196078,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158069,
+      "num": 158069,
+      "word": "这些零食是炎症炸弹",
+      "onboard_time": 1721196979,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158019,
@@ -1073,14 +1177,6 @@
       "onboard_time": 1721185639,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154489,
-      "num": 154489,
-      "word": "住酒店忘关水客房被淹变赶海房",
-      "onboard_time": 1721196740,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154291,
@@ -1107,28 +1203,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153036,
-      "num": 153036,
-      "word": "BBA涨价",
-      "onboard_time": 1721198118,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 152686,
-      "num": 152686,
-      "word": "这些零食是炎症炸弹",
-      "onboard_time": 1721196979,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 152655,
       "num": 152655,
       "word": "崔永熙骑马射箭",
       "onboard_time": 1721182097,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151499,
+      "num": 151499,
+      "word": "办公室7个人天天为空调吵架",
+      "onboard_time": 1721200399,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151377,
@@ -1171,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146832,
+      "num": 146832,
+      "word": "钟丽缇女儿考拉身高",
+      "onboard_time": 1721198479,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1721193019,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140966,
+      "num": 140966,
+      "word": "浙江一家8口确诊同种病一人患癌",
+      "onboard_time": 1721200518,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137762,
@@ -1235,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "95后男生发动100人签订互助父母计划",
+      "onboard_time": 1721200278,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132021,
       "num": 126837,
       "word": "今天是防风邶头七",
@@ -1257,6 +1369,14 @@
       "onboard_time": 1721195479,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124895,
+      "num": 124895,
+      "word": "那维莱特削弱",
+      "onboard_time": 1721200518,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 124565,
@@ -1339,14 +1459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117878,
-      "num": 117878,
-      "word": "谭松韵你别太爱猴哥了",
-      "onboard_time": 1721198358,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 117819,
       "num": 117819,
       "word": "法国足协对阿根廷球员提起诉讼",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1721181557,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114853,
+      "num": 114853,
+      "word": "华为Pura70出货量增125%",
+      "onboard_time": 1721200759,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 113191,
@@ -1747,12 +1867,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44889,
+      "num": 372434,
+      "word": "陕西南部本轮降雨过程极端性强",
+      "onboard_time": 1721199019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40993,
       "num": 44168,
       "word": "檀健次回应相柳九头九脸",
       "onboard_time": 1721148735,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40284,
+      "num": 323886,
+      "word": "暴雨致宝鸡境内多处道路中断",
+      "onboard_time": 1721199019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33690,
