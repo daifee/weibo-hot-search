@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721179420144,
+  "endTime": 1721180728296,
   "band_list": [
     {
       "raw_hot": 1100046,
@@ -8,6 +8,14 @@
       "word": "恩佐道歉",
       "onboard_time": 1721171834,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1066977,
+      "num": 1170716,
+      "word": "印尼羽协不再对张志杰遗体负责",
+      "onboard_time": 1721179219,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 804303,
-      "num": 375168,
+      "num": 376509,
       "word": "奶奶去吃席为什么紧张的是我",
       "onboard_time": 1721173216,
       "rank": 11,
@@ -57,6 +65,22 @@
       "onboard_time": 1721176158,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700381,
+      "num": 700381,
+      "word": "张志杰事件处理无任何结果",
+      "onboard_time": 1721179877,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 692905,
+      "num": 355772,
+      "word": "特朗普私下谈遭枪击感受",
+      "onboard_time": 1721178677,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 682066,
@@ -83,6 +107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 564531,
+      "num": 564531,
+      "word": "河南暴雨",
+      "onboard_time": 1721178618,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502687,
       "num": 890429,
       "word": "为什么成龙电影逐渐失去票房号召力",
@@ -105,6 +137,14 @@
       "onboard_time": 1721172798,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 445888,
+      "num": 445888,
+      "word": "韩国七旬老人就业率突破30%",
+      "onboard_time": 1721176458,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431588,
@@ -131,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 400949,
-      "num": 400949,
-      "word": "韩国七旬老人就业率突破30%",
-      "onboard_time": 1721176458,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398583,
       "num": 398583,
       "word": "张新成艺考拿了八个第一",
@@ -153,14 +185,6 @@
       "onboard_time": 1721174357,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350000,
-      "num": 350000,
-      "word": "特朗普私下谈遭枪击感受",
-      "onboard_time": 1721178677,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 323742,
@@ -203,20 +227,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 273803,
+      "num": 391967,
+      "word": "女警一声大喊救险被货车碾压的骑车人",
+      "onboard_time": 1721178079,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272525,
       "num": 158523,
       "word": "邓超儿子好像段奕宏",
       "onboard_time": 1721131278,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266582,
-      "num": 266582,
-      "word": "河南暴雨",
-      "onboard_time": 1721178618,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253099,
@@ -315,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197148,
+      "num": 197148,
+      "word": "抓娃娃结尾",
+      "onboard_time": 1721178977,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192080,
       "num": 192080,
       "word": "上海恐龙户型房1套499万",
@@ -323,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171794,
-      "num": 171794,
-      "word": "印尼羽协不再对张志杰遗体负责",
-      "onboard_time": 1721179219,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 179821,
+      "num": 179821,
+      "word": "长相思有自己的燃冬",
+      "onboard_time": 1721177839,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 171332,
@@ -371,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154509,
-      "num": 154509,
-      "word": "长相思有自己的燃冬",
-      "onboard_time": 1721177839,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 154291,
+      "num": 154291,
+      "word": "刘耀文以为自己是公司最小的",
+      "onboard_time": 1721173455,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153347,
@@ -395,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152331,
-      "num": 152331,
-      "word": "抓娃娃结尾",
-      "onboard_time": 1721178977,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 151246,
       "num": 151246,
       "word": "泰国一酒店发生枪击事件致6人死亡",
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147049,
-      "num": 147049,
-      "word": "刘耀文以为自己是公司最小的",
-      "onboard_time": 1721173455,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 144365,
+      "num": 144365,
+      "word": "史彭元演的马继业是标准晋江男主",
+      "onboard_time": 1721180178,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 136521,
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130202,
+      "num": 130202,
+      "word": "94岁吴明珠来到吐鲁番",
+      "onboard_time": 1721177719,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129972,
       "num": 129972,
       "word": "湖大到底是哪所大学",
@@ -459,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123344,
-      "num": 391967,
-      "word": "女警一声大喊救险被货车碾压的骑车人",
-      "onboard_time": 1721178079,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 123249,
+      "num": 123249,
+      "word": "相柳记得小夭的每一句话",
+      "onboard_time": 1721176278,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 123017,
@@ -473,14 +505,6 @@
       "onboard_time": 1721129717,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121569,
-      "num": 121569,
-      "word": "相柳记得小夭的每一句话",
-      "onboard_time": 1721176278,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 120965,
@@ -513,6 +537,14 @@
       "onboard_time": 1721141539,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117819,
+      "num": 117819,
+      "word": "法国足协对阿根廷球员提起诉讼",
+      "onboard_time": 1721179157,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 113191,
@@ -569,6 +601,22 @@
       "onboard_time": 1721132658,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 106056,
+      "num": 106056,
+      "word": "当代中国人民最鲜明的精神标识",
+      "onboard_time": 1721180237,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105911,
+      "num": 105911,
+      "word": "男生放弃清华报考国防科大",
+      "onboard_time": 1721180479,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 101224,
@@ -825,6 +873,14 @@
       "onboard_time": 1721134878,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30268,
+      "num": 441537,
+      "word": "湾区最长地铁让1天逛5城不是梦",
+      "onboard_time": 1721146337,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19953,

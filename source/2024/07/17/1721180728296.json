@@ -1,0 +1,410 @@
+{
+  "runTime": 1721180728296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066977,
+        "num": 1170716,
+        "word": "印尼羽协不再对张志杰遗体负责",
+        "onboard_time": 1721179219,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947437,
+        "num": 947437,
+        "word": "恩佐道歉",
+        "onboard_time": 1721171834,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10221,
+        "num": 715099,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700381,
+        "num": 700381,
+        "word": "张志杰事件处理无任何结果",
+        "onboard_time": 1721179877,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695706,
+        "num": 695706,
+        "word": "阿念 大女主",
+        "onboard_time": 1721176158,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591176,
+        "num": 591176,
+        "word": "多名毕业于土木专业学生谈工作经历",
+        "onboard_time": 1721174778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564531,
+        "num": 564531,
+        "word": "河南暴雨",
+        "onboard_time": 1721178618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522564,
+        "num": 522564,
+        "word": "马克龙接受法国政府辞职",
+        "onboard_time": 1721175557,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 445888,
+        "num": 445888,
+        "word": "韩国七旬老人就业率突破30%",
+        "onboard_time": 1721176458,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30268,
+        "num": 441537,
+        "word": "湾区最长地铁让1天逛5城不是梦",
+        "onboard_time": 1721146337,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815383,
+        "num": 407907,
+        "word": "首尔市长请求向中国租借大熊猫",
+        "onboard_time": 1721172856,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761938,
+        "num": 376509,
+        "word": "奶奶去吃席为什么紧张的是我",
+        "onboard_time": 1721173216,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692905,
+        "num": 355772,
+        "word": "特朗普私下谈遭枪击感受",
+        "onboard_time": 1721178677,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 571100,
+        "num": 329926,
+        "word": "坚持穿袜子睡觉1个月身体的变化",
+        "onboard_time": 1721174057,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320154,
+        "num": 320154,
+        "word": "为什么成龙电影逐渐失去票房号召力",
+        "onboard_time": 1721170873,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302940,
+        "num": 302940,
+        "word": "王俊凯代言夸克",
+        "onboard_time": 1721174057,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 274887,
+        "num": 274887,
+        "word": "王一博到底是哪的",
+        "onboard_time": 1721174357,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273803,
+        "num": 273803,
+        "word": "女警一声大喊救险被货车碾压的骑车人",
+        "onboard_time": 1721178079,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255082,
+        "num": 255082,
+        "word": "官方通报老人报40元团4天3晚游桂林",
+        "onboard_time": 1721140460,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222967,
+        "num": 222967,
+        "word": "科比父亲去世",
+        "onboard_time": 1721141779,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515695,
+        "num": 221062,
+        "word": "晚上睡觉时空调不要开26度",
+        "onboard_time": 1721174357,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 350287,
+        "num": 221032,
+        "word": "长期喝咖啡对心脏有影响吗",
+        "onboard_time": 1721172798,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218710,
+        "num": 218710,
+        "word": "上岸后发现教师这碗饭我真吃不了",
+        "onboard_time": 1721131218,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211857,
+        "num": 211857,
+        "word": "30岁渐冻症男子打破死亡预言收获幸福",
+        "onboard_time": 1721175858,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197148,
+        "num": 197148,
+        "word": "抓娃娃结尾",
+        "onboard_time": 1721178977,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195089,
+        "num": 195089,
+        "word": "5个大人4个小孩入住两个标间被拒",
+        "onboard_time": 1721135719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192492,
+        "num": 192492,
+        "word": "你的肾是怎么一步步被透支掉的",
+        "onboard_time": 1721171895,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190491,
+        "num": 190491,
+        "word": "石凯说披哥全是sorry",
+        "onboard_time": 1721177000,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179821,
+        "num": 179821,
+        "word": "长相思有自己的燃冬",
+        "onboard_time": 1721177839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168575,
+        "num": 168575,
+        "word": "阿根廷球员疑似种族歧视",
+        "onboard_time": 1721178858,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162988,
+        "num": 162988,
+        "word": "为什么河南这次的雨这么大",
+        "onboard_time": 1721177478,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154291,
+        "num": 154291,
+        "word": "刘耀文以为自己是公司最小的",
+        "onboard_time": 1721173455,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147567,
+        "num": 147567,
+        "word": "花花在空调房里玩嗨了",
+        "onboard_time": 1721174599,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 144365,
+        "word": "史彭元演的马继业是标准晋江男主",
+        "onboard_time": 1721180178,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142806,
+        "num": 142806,
+        "word": "扩列因为不懂规矩被要10元",
+        "onboard_time": 1721178618,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133051,
+        "num": 133051,
+        "word": "切尔西球员集体取关恩佐",
+        "onboard_time": 1721172798,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131026,
+        "num": 131026,
+        "word": "金价再度大涨",
+        "onboard_time": 1721134038,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "94岁吴明珠来到吐鲁番",
+        "onboard_time": 1721177719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124543,
+        "num": 124543,
+        "word": "上海恐龙户型房1套499万",
+        "onboard_time": 1721136019,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123249,
+        "num": 123249,
+        "word": "相柳记得小夭的每一句话",
+        "onboard_time": 1721176278,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121928,
+        "num": 121928,
+        "word": "编剧看了多少烂剧才写出的台词",
+        "onboard_time": 1721133317,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121753,
+        "num": 121753,
+        "word": "薛之谦生日发新歌",
+        "onboard_time": 1721172616,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119597,
+        "num": 119597,
+        "word": "宋亚轩刘耀文站起来和张峻豪打招呼",
+        "onboard_time": 1721178560,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117819,
+        "num": 117819,
+        "word": "法国足协对阿根廷球员提起诉讼",
+        "onboard_time": 1721179157,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117200,
+        "num": 117200,
+        "word": "欧文左手骨折",
+        "onboard_time": 1721177719,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108856,
+        "num": 108856,
+        "word": "邓超儿子好像段奕宏",
+        "onboard_time": 1721131278,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106056,
+        "num": 106056,
+        "word": "当代中国人民最鲜明的精神标识",
+        "onboard_time": 1721180237,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105911,
+        "num": 105911,
+        "word": "男生放弃清华报考国防科大",
+        "onboard_time": 1721180479,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 100660,
+        "num": 100660,
+        "word": "2个月婴儿抛媚眼萌坏家人",
+        "onboard_time": 1721172436,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 97052,
+        "num": 97052,
+        "word": "湖大到底是哪所大学",
+        "onboard_time": 1721173397,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革的根本目的#"
+    }
+  }
+}
