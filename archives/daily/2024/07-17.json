@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721190176050,
+  "endTime": 1721191015697,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -17,6 +17,14 @@
       "onboard_time": 1721179219,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1241678,
+      "num": 408117,
+      "word": "上海丁克夫妻半退休20年",
+      "onboard_time": 1721188878,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1100046,
@@ -41,6 +49,14 @@
       "onboard_time": 1721179877,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 965560,
+      "num": 718084,
+      "word": "歌手突围赛阵容",
+      "onboard_time": 1721189838,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 941079,
@@ -99,12 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 726713,
-      "num": 360264,
-      "word": "上海丁克夫妻半退休20年",
-      "onboard_time": 1721188878,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 706980,
+      "num": 706980,
+      "word": "手机壳正在服装化",
+      "onboard_time": 1721187199,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 692905,
@@ -139,12 +155,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 597904,
-      "num": 597904,
-      "word": "手机壳正在服装化",
-      "onboard_time": 1721187199,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 608001,
+      "num": 608001,
+      "word": "古茗免单",
+      "onboard_time": 1721190740,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 584723,
@@ -152,6 +168,14 @@
       "word": "河南暴雨",
       "onboard_time": 1721178618,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584170,
+      "num": 408049,
+      "word": "泰国酒店6人死亡第7人下落不明",
+      "onboard_time": 1721188462,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -179,11 +203,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 499543,
-      "num": 358861,
-      "word": "泰国酒店6人死亡第7人下落不明",
-      "onboard_time": 1721188462,
-      "rank": 11,
+      "raw_hot": 468389,
+      "num": 407312,
+      "word": "湖南一地路边立有禁止强奸幼女标牌",
+      "onboard_time": 1721189059,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -235,6 +259,22 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 408624,
+      "num": 408624,
+      "word": "霍启刚说参加奥运要自带冷气",
+      "onboard_time": 1721189420,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 407978,
+      "num": 407978,
+      "word": "长相思2人设最完美的人",
+      "onboard_time": 1721186479,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406471,
       "num": 203622,
       "word": "王鹤棣金发回归",
@@ -257,14 +297,6 @@
       "onboard_time": 1721138059,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393485,
-      "num": 393485,
-      "word": "长相思2人设最完美的人",
-      "onboard_time": 1721186479,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 386683,
@@ -299,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325696,
+      "num": 305356,
+      "word": "原来医生真的能看见血条",
+      "onboard_time": 1721187678,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323742,
       "num": 323742,
       "word": "薛之谦新歌预告怪诞童话",
@@ -323,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316260,
-      "num": 316260,
-      "word": "湖南一地路边立有禁止强奸幼女标牌",
-      "onboard_time": 1721189059,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315642,
       "num": 164131,
       "word": "朋友圈真的不要留太多电子宠物",
@@ -347,6 +379,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 311019,
+      "num": 303843,
+      "word": "23岁毕业和26岁毕业是不一样的",
+      "onboard_time": 1721187678,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 307563,
+      "num": 307563,
+      "word": "少年白马醉春风2开播",
+      "onboard_time": 1721190501,
+      "rank": 19,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 304767,
       "num": 203393,
       "word": "不亚于图书馆30秒的外卖评价",
@@ -361,14 +409,6 @@
       "onboard_time": 1721131218,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 292768,
-      "num": 292768,
-      "word": "23岁毕业和26岁毕业是不一样的",
-      "onboard_time": 1721187678,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 292694,
@@ -403,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271340,
-      "num": 271340,
-      "word": "霍启刚说参加奥运要自带冷气",
-      "onboard_time": 1721189420,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270480,
       "num": 270480,
       "word": "假性亲密关系",
@@ -427,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259295,
+      "num": 259295,
+      "word": "长相思2好癫",
+      "onboard_time": 1721189479,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253099,
       "num": 206843,
       "word": "陶喆 二十二",
       "onboard_time": 1721141000,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250939,
-      "num": 250939,
-      "word": "长相思2好癫",
-      "onboard_time": 1721189479,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 247684,
@@ -475,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226058,
-      "num": 226058,
-      "word": "原来医生真的能看见血条",
-      "onboard_time": 1721187678,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 229509,
+      "num": 229509,
+      "word": "史彭元 晋江男主啥样啊",
+      "onboard_time": 1721188699,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 223645,
@@ -499,20 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216001,
-      "num": 216001,
-      "word": "歌手突围赛阵容",
-      "onboard_time": 1721189838,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206954,
-      "num": 206954,
-      "word": "史彭元 晋江男主啥样啊",
-      "onboard_time": 1721188699,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 207831,
+      "num": 207831,
+      "word": "女生术前做检查发现医生是同学",
+      "onboard_time": 1721190200,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206811,
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175939,
+      "num": 175939,
+      "word": "魏大勋 牛奶胡子图",
+      "onboard_time": 1721190261,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171403,
       "num": 171403,
       "word": "原神",
@@ -771,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147205,
+      "num": 147205,
+      "word": "唐诡西行西游记这不就对上了",
+      "onboard_time": 1721190859,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -825,6 +865,14 @@
       "onboard_time": 1721182698,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132021,
+      "num": 126837,
+      "word": "今天是防风邶头七",
+      "onboard_time": 1721190800,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 129972,
@@ -1027,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93538,
+      "num": 560605,
+      "word": "武警在河南南阳转移村民500多人",
+      "onboard_time": 1721185219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88447,
       "num": 88447,
       "word": "梁博变陶喆了",
@@ -1067,14 +1123,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 82329,
-      "num": 560605,
-      "word": "武警在河南南阳转移村民500多人",
-      "onboard_time": 1721185219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81192,
       "num": 81192,
       "word": "马嘉祺在ABC中选择了D",
@@ -1099,6 +1147,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 76449,
+      "num": 367630,
+      "word": "饿了么升级超级吃货卡更省了",
+      "onboard_time": 1721188819,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76189,
       "num": 76189,
       "word": "广州海珠一新能源车发生自燃",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1721127858,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75330,
-      "num": 355183,
-      "word": "饿了么升级超级吃货卡更省了",
-      "onboard_time": 1721188819,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 74754,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43280,
+      "num": 408189,
+      "word": "巴黎奥运你有一批中国智造请查收",
+      "onboard_time": 1721190619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40993,
