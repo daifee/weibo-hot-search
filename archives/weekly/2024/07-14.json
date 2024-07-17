@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721194559449,
+  "endTime": 1721197671049,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -795,7 +795,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 834719,
+      "raw_hot": 861742,
       "num": 763468,
       "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
       "onboard_time": 1721191760,
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 721420,
+      "num": 238973,
+      "word": "7岁女孩喷泉玩水后下体失血休克",
+      "onboard_time": 1721194879,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1721015058,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 689353,
+      "num": 689353,
+      "word": "大模型测不出9.11和9.9哪个大",
+      "onboard_time": 1721192420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687552,
@@ -1716,7 +1732,7 @@
     },
     {
       "raw_hot": 522441,
-      "num": 212506,
+      "num": 238478,
       "word": "小彩旗英国大学毕业",
       "onboard_time": 1721193197,
       "rank": 30,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1721011757,
       "rank": 47,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 508119,
+      "num": 508119,
+      "word": "陆川说抓娃娃是低质强碱性搞笑片",
+      "onboard_time": 1721196858,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 507205,
@@ -2257,6 +2281,14 @@
       "onboard_time": 1721094858,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430744,
+      "num": 327715,
+      "word": "蓝盈莹 人其实很少能好好说再见",
+      "onboard_time": 1721194159,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 430339,
@@ -2779,6 +2811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352583,
+      "num": 327002,
+      "word": "杨丞琳回归歌手",
+      "onboard_time": 1721195778,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352072,
       "num": 352072,
       "word": "Uzi老婆吃醋",
@@ -3105,6 +3145,14 @@
       "onboard_time": 1721032759,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 314808,
+      "num": 238105,
+      "word": "董洁晒与儿子日本旅行vlog",
+      "onboard_time": 1721194100,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 312657,
@@ -3595,12 +3643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274210,
-      "num": 224640,
-      "word": "董洁晒与儿子日本旅行vlog",
-      "onboard_time": 1721194100,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 274364,
+      "num": 274364,
+      "word": "塞纳河水质最近不适宜下水比赛",
+      "onboard_time": 1721195420,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 273803,
@@ -4027,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242681,
+      "num": 242681,
+      "word": "古茗崩了",
+      "onboard_time": 1721193979,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 242397,
       "num": 242397,
       "word": "肖战法国第四章vlog",
@@ -4179,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230784,
+      "num": 230784,
+      "word": "迪丽热巴第八套DIOR高定",
+      "onboard_time": 1721197220,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 230051,
       "num": 323574,
       "word": "崔永熙",
@@ -4313,14 +4377,6 @@
       "onboard_time": 1721183478,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223509,
-      "num": 223509,
-      "word": "蓝盈莹 人其实很少能好好说再见",
-      "onboard_time": 1721194159,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223301,
@@ -4641,6 +4697,14 @@
       "onboard_time": 1721172798,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206446,
+      "num": 206446,
+      "word": "王俊凯新歌成为英雄试听",
+      "onboard_time": 1721197397,
+      "rank": 27,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 206213,
@@ -5308,7 +5372,7 @@
     },
     {
       "raw_hot": 191240,
-      "num": 182130,
+      "num": 188375,
       "word": "安吉撞脸刘昊然",
       "onboard_time": 1721194281,
       "rank": 40,
@@ -5419,14 +5483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189479,
-      "num": 420109,
-      "word": "大模型测不出9.11和9.9哪个大",
-      "onboard_time": 1721192420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189160,
       "num": 189160,
       "word": "陈奕迅下巴受伤后首露面",
@@ -5449,6 +5505,14 @@
       "onboard_time": 1720916839,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188595,
+      "num": 188595,
+      "word": "王海称李佳琦小杨哥卖假和田玉",
+      "onboard_time": 1721197158,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188559,
@@ -6003,6 +6067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170378,
+      "num": 170378,
+      "word": "韩少你的白月光夫人找到了",
+      "onboard_time": 1721196858,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170191,
       "num": 170191,
       "word": "度华年男二戏份",
@@ -6017,6 +6089,14 @@
       "onboard_time": 1721139199,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169637,
+      "num": 415243,
+      "word": "三甲这些挂号不就诊的病人去哪了",
+      "onboard_time": 1721192420,
+      "rank": 14,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 169583,
@@ -6291,6 +6371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162106,
+      "num": 162106,
+      "word": "刘翔回应八分之一裤子被挂墙上",
+      "onboard_time": 1721195299,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "严浩翔最佳男配角",
@@ -6353,6 +6441,14 @@
       "onboard_time": 1721024359,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158931,
+      "num": 158931,
+      "word": "Ning回应不和Uzi组排",
+      "onboard_time": 1721196078,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 158871,
@@ -6707,6 +6803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151377,
+      "num": 151377,
+      "word": "谁给蓝盈莹递个爽文本子",
+      "onboard_time": 1721196799,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151230,
       "num": 151230,
       "word": "唐诡剧组的热度flag",
@@ -6891,14 +6995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146892,
-      "num": 415243,
-      "word": "三甲这些挂号不就诊的病人去哪了",
-      "onboard_time": 1721192420,
-      "rank": 14,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 146638,
       "num": 146638,
       "word": "蒋敦豪 有e吗",
@@ -6995,6 +7091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143580,
+      "num": 268947,
+      "word": "古茗员工没事哒没事哒",
+      "onboard_time": 1721193019,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143306,
       "num": 143306,
       "word": "王勉满脑子都是策略",
@@ -7051,6 +7155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142381,
+      "num": 142381,
+      "word": "住酒店忘关水客房被淹变赶海房",
+      "onboard_time": 1721196740,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142247,
       "num": 256718,
       "word": "奥利回应第一名是乐华买的",
@@ -7105,6 +7217,14 @@
       "onboard_time": 1721134638,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140369,
+      "num": 140369,
+      "word": "这些零食是炎症炸弹",
+      "onboard_time": 1721196979,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140337,
@@ -7683,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126931,
+      "num": 126931,
+      "word": "李泽锋站姐拍的尼格买提王冰冰",
+      "onboard_time": 1721195479,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126738,
       "num": 126738,
       "word": "小夭醉酒",
@@ -8137,14 +8265,6 @@
       "onboard_time": 1721181199,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116247,
-      "num": 268947,
-      "word": "古茗员工没事哒没事哒",
-      "onboard_time": 1721193019,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 116191,
@@ -8824,6 +8944,14 @@
       "word": "3名小学生分工一条龙式帮救火",
       "onboard_time": 1720930525,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84749,
+      "num": 262364,
+      "word": "第一批和AI恋爱的年轻人已经失恋了",
+      "onboard_time": 1721196018,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
