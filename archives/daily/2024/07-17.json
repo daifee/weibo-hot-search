@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721205481622,
+  "endTime": 1721208209845,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1365348,
-      "num": 401566,
+      "num": 559120,
       "word": "浙江一家8口确诊同种病一人患癌",
       "onboard_time": 1721200518,
       "rank": 39,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1132311,
-      "num": 362192,
+      "num": 408770,
       "word": "辛普森一家因特朗普遇刺停播",
       "onboard_time": 1721200880,
       "rank": 30,
@@ -57,6 +57,14 @@
       "onboard_time": 1721171834,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1085533,
+      "num": 412656,
+      "word": "薛之谦戒指",
+      "onboard_time": 1721206339,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1072632,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 898549,
-      "num": 372259,
+      "num": 406591,
       "word": "特朗普支持率未获显著领先",
       "onboard_time": 1721199739,
       "rank": 11,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840219,
+      "num": 411078,
+      "word": "韩74岁男性为性侵女性喂药42片致死",
+      "onboard_time": 1721205679,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814062,
       "num": 814062,
       "word": "马克龙接受法国政府辞职",
@@ -152,6 +168,14 @@
       "word": "多名毕业于土木专业学生谈工作经历",
       "onboard_time": 1721174778,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777276,
+      "num": 409396,
+      "word": "呛奶去世婴儿父母与天鹅到家和解",
+      "onboard_time": 1721206219,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -177,6 +201,14 @@
       "onboard_time": 1721194879,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716420,
+      "num": 1114627,
+      "word": "宝马涨价后来看车的人变多了",
+      "onboard_time": 1721203698,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 714599,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 633481,
-      "num": 363818,
+      "num": 404690,
       "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
       "onboard_time": 1721199678,
       "rank": 23,
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558556,
+      "num": 558556,
+      "word": "钟南山院士否认病重传闻",
+      "onboard_time": 1721206759,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558325,
       "num": 314270,
       "word": "感觉朋友圈的味道越来越怪",
@@ -313,6 +353,14 @@
       "onboard_time": 1721170873,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 472778,
+      "num": 472778,
+      "word": "月亮姐姐被吓到假睫毛掉了",
+      "onboard_time": 1721203099,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 468389,
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 442933,
-      "num": 365794,
+      "num": 414930,
       "word": "杨紫久久出不了戏",
       "onboard_time": 1721202020,
       "rank": 13,
@@ -369,6 +417,14 @@
       "onboard_time": 1721185699,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437213,
+      "num": 437213,
+      "word": "大鹏 都选C",
+      "onboard_time": 1721203639,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 431588,
@@ -384,14 +440,6 @@
       "word": "蓝盈莹 人其实很少能好好说再见",
       "onboard_time": 1721194159,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 420938,
-      "num": 351057,
-      "word": "月亮姐姐被吓到假睫毛掉了",
-      "onboard_time": 1721203099,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -523,14 +571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 337399,
-      "num": 337399,
-      "word": "宝马涨价后来看车的人变多了",
-      "onboard_time": 1721203698,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 325696,
       "num": 305356,
       "word": "原来医生真的能看见血条",
@@ -561,6 +601,14 @@
       "onboard_time": 1721182218,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321384,
+      "num": 255208,
+      "word": "一次吃半个西瓜身体会发生啥",
+      "onboard_time": 1721205859,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 319784,
@@ -601,14 +649,6 @@
       "onboard_time": 1721199979,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 311910,
-      "num": 311910,
-      "word": "大鹏 都选C",
-      "onboard_time": 1721203639,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 311019,
@@ -657,6 +697,14 @@
       "onboard_time": 1721195420,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281909,
+      "num": 281909,
+      "word": "日本高中生吃18禁超辣薯片被送医",
+      "onboard_time": 1721207119,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277802,
@@ -729,6 +777,14 @@
       "onboard_time": 1721189479,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257997,
+      "num": 257997,
+      "word": "Kris回应手机事件",
+      "onboard_time": 1721207238,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 254868,
@@ -859,6 +915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221014,
+      "num": 221014,
+      "word": "邓为炒螺蛳粉失败了",
+      "onboard_time": 1721204839,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218851,
       "num": 203158,
       "word": "宋亚轩刘耀文包场抓娃娃",
@@ -875,20 +939,20 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 208853,
-      "num": 208853,
-      "word": "邓为炒螺蛳粉失败了",
-      "onboard_time": 1721204839,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208606,
       "num": 208606,
       "word": "章若楠头像",
       "onboard_time": 1721191519,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208400,
+      "num": 208400,
+      "word": "小伙放弃最后一张刮刮乐被店员刮中",
+      "onboard_time": 1721206099,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206811,
@@ -899,12 +963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206721,
+      "num": 206721,
+      "word": "YG第二季度营业利润只有157万人民币",
+      "onboard_time": 1721208140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205802,
       "num": 205802,
       "word": "94岁吴明珠来到吐鲁番",
       "onboard_time": 1721177719,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204973,
+      "num": 204973,
+      "word": "厕所小飞虫或会寄生在人体并引发感染",
+      "onboard_time": 1721206818,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204450,
@@ -1131,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187115,
+      "num": 187115,
+      "word": "TF家族运动会周边",
+      "onboard_time": 1721207299,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186664,
       "num": 186664,
       "word": "海边的秘密阵容官宣",
@@ -1179,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183367,
+      "num": 183367,
+      "word": "暃埋骨钱水墨皮肤",
+      "onboard_time": 1721207720,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183331,
       "num": 183331,
       "word": "上饶交警",
@@ -1209,6 +1305,22 @@
       "onboard_time": 1721190261,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173539,
+      "num": 173539,
+      "word": "白鹿欧豪北上海报",
+      "onboard_time": 1721206879,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173269,
+      "num": 173269,
+      "word": "手机壳价格",
+      "onboard_time": 1721204359,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 172325,
@@ -1347,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157039,
+      "num": 157039,
+      "word": "夭玹一边纯爱一边强制爱",
+      "onboard_time": 1721205557,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154566,
       "num": 154566,
       "word": "眼睁睁看着电脑将老板微信调包",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1721182097,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152453,
+      "num": 387570,
+      "word": "一座城市city不city走走才知道",
+      "onboard_time": 1721201418,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 151377,
@@ -1443,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145207,
+      "num": 145207,
+      "word": "原神官方回应对维莱特进行技能调整",
+      "onboard_time": 1721205919,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -1459,12 +1595,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141027,
-      "num": 141027,
-      "word": "手机壳价格",
-      "onboard_time": 1721204359,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 140947,
+      "num": 140947,
+      "word": "小夭要告别妈妈了",
+      "onboard_time": 1721207659,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 137762,
@@ -1515,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133304,
-      "num": 387570,
-      "word": "一座城市city不city走走才知道",
-      "onboard_time": 1721201418,
-      "rank": 8,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "95后男生发动100人签订互助父母计划",
@@ -1537,6 +1665,14 @@
       "onboard_time": 1721190800,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131480,
+      "num": 131480,
+      "word": "原来谈恋爱是在谈一种能力",
+      "onboard_time": 1721192178,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 129972,
@@ -1699,14 +1835,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 113552,
-      "num": 113552,
-      "word": "原来谈恋爱是在谈一种能力",
-      "onboard_time": 1721192178,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113191,
       "num": 113191,
       "word": "于文文去李莎旻子家像女婿上门",
@@ -1737,6 +1865,22 @@
       "onboard_time": 1721176820,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109510,
+      "num": 109510,
+      "word": "法海被恨过但没丑过",
+      "onboard_time": 1721205679,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108273,
+      "num": 108273,
+      "word": "BBA价格跳水难换量",
+      "onboard_time": 1721207659,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 108231,
@@ -2115,6 +2259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39441,
+      "num": 414044,
+      "word": "暑运以来全国铁路发送旅客超2亿人次",
+      "onboard_time": 1721206818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38303,
+      "num": 407954,
+      "word": "存量房业主自救指南",
+      "onboard_time": 1721206818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33690,
       "num": 44150,
       "word": "时代少年团对接回应演唱会",
@@ -2137,6 +2297,14 @@
       "onboard_time": 1721191820,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22127,
+      "num": 187510,
+      "word": "迪士尼遭黑客入侵超1TB资料外泄",
+      "onboard_time": 1721207720,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19953,
