@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721222531937,
+  "endTime": 1721223276541,
   "band_list": [
     {
       "raw_hot": 2841896,
@@ -9,6 +9,14 @@
       "onboard_time": 1721216777,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2191558,
+      "num": 989756,
+      "word": "爱奇艺称没义务永久提供高清晰投屏",
+      "onboard_time": 1721221578,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1863874,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1198786,
-      "num": 332751,
+      "num": 335774,
       "word": "Kris离职",
       "onboard_time": 1721211259,
       "rank": 18,
@@ -105,14 +113,6 @@
       "onboard_time": 1721217739,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 989756,
-      "num": 989756,
-      "word": "爱奇艺称没义务永久提供高清晰投屏",
-      "onboard_time": 1721221578,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 965560,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 865789,
-      "num": 306034,
+      "num": 335438,
       "word": "员工一年内因考勤被扣工资20.9万",
       "onboard_time": 1721218996,
       "rank": 19,
@@ -363,8 +363,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575874,
+      "num": 335367,
+      "word": "四川自贡一百货大楼起火",
+      "onboard_time": 1721221159,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572744,
-      "num": 313282,
+      "num": 334871,
       "word": "Kris 王多多",
       "onboard_time": 1721215399,
       "rank": 18,
@@ -385,14 +393,6 @@
       "onboard_time": 1721207238,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 565661,
-      "num": 305585,
-      "word": "四川自贡一百货大楼起火",
-      "onboard_time": 1721221159,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559840,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 541889,
-      "num": 277411,
+      "num": 304384,
       "word": "一次吃半个西瓜身体会发生啥",
       "onboard_time": 1721205859,
       "rank": 20,
@@ -473,6 +473,14 @@
       "onboard_time": 1721203099,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471710,
+      "num": 335130,
+      "word": "时代峰峻北京的新公司",
+      "onboard_time": 1721221460,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 468389,
@@ -569,6 +577,14 @@
       "onboard_time": 1721203639,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 431953,
+      "num": 525873,
+      "word": "十年前14000买的钻戒如今不值200块",
+      "onboard_time": 1721220438,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431588,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 387272,
-      "num": 304882,
+      "num": 334765,
       "word": "自贡火灾",
       "onboard_time": 1721219177,
       "rank": 34,
@@ -715,14 +731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 361823,
-      "num": 304709,
-      "word": "时代峰峻北京的新公司",
-      "onboard_time": 1721221460,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360519,
       "num": 360519,
       "word": "原神 那维莱特",
@@ -739,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342830,
-      "num": 525873,
-      "word": "十年前14000买的钻戒如今不值200块",
-      "onboard_time": 1721220438,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 352730,
+      "num": 334925,
+      "word": "苏醒谈汪苏泷歌手表现",
+      "onboard_time": 1721221277,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 339282,
@@ -859,6 +867,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 305306,
+      "num": 305306,
+      "word": "涂山璟明天别去清水镇",
+      "onboard_time": 1721219237,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304767,
       "num": 203393,
       "word": "不亚于图书馆30秒的外卖评价",
@@ -867,20 +883,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304579,
-      "num": 304579,
-      "word": "涂山璟明天别去清水镇",
-      "onboard_time": 1721219237,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302538,
       "num": 302538,
       "word": "上岸后发现教师这碗饭我真吃不了",
       "onboard_time": 1721131218,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 301030,
+      "num": 301030,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1721220258,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 295721,
@@ -913,14 +929,6 @@
       "onboard_time": 1721210658,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290743,
-      "num": 276771,
-      "word": "建议大家下班回家立刻洗漱",
-      "onboard_time": 1721220258,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 286827,
@@ -963,14 +971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277626,
-      "num": 277626,
-      "word": "苏醒谈汪苏泷歌手表现",
-      "onboard_time": 1721221277,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276950,
       "num": 314545,
       "word": "男生放弃清华报考国防科大",
@@ -987,20 +987,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275724,
+      "num": 275724,
+      "word": "黄子弘凡美依礼芽牵手",
+      "onboard_time": 1721219117,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
       "onboard_time": 1721178079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273758,
-      "num": 273758,
-      "word": "黄子弘凡美依礼芽牵手",
-      "onboard_time": 1721219117,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 272525,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234465,
+      "num": 234465,
+      "word": "鞠婧祎纯欲穿搭",
+      "onboard_time": 1721221519,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "古茗小程序崩了",
@@ -1171,20 +1179,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 230001,
-      "num": 230001,
-      "word": "鞠婧祎纯欲穿搭",
-      "onboard_time": 1721221519,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 229509,
       "num": 229509,
       "word": "史彭元 晋江男主啥样啊",
       "onboard_time": 1721188699,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228629,
+      "num": 197319,
+      "word": "薛之谦演唱会嘉宾是大鹏",
+      "onboard_time": 1721222959,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 227271,
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 209889,
-      "num": 209889,
+      "num": 336181,
       "word": "TES战胜WBG",
       "onboard_time": 1721221039,
       "rank": 26,
@@ -1273,6 +1281,22 @@
       "onboard_time": 1721177719,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205777,
+      "num": 205777,
+      "word": "四川自贡九鼎百货大楼起火有人员被困",
+      "onboard_time": 1721221699,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205653,
+      "num": 205653,
+      "word": "双鱼座是反骨的典型代表",
+      "onboard_time": 1721219297,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 204450,
@@ -1571,14 +1595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187690,
-      "num": 187690,
-      "word": "四川自贡九鼎百货大楼起火有人员被困",
-      "onboard_time": 1721221699,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187115,
       "num": 187115,
       "word": "TF家族运动会周边",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1721202438,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171678,
-      "num": 171678,
-      "word": "双鱼座是反骨的典型代表",
-      "onboard_time": 1721219297,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 171403,
@@ -2035,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146061,
+      "num": 146061,
+      "word": "普华永道回应裁员一半",
+      "onboard_time": 1721222659,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145207,
       "num": 145207,
       "word": "原神官方回应对维莱特进行技能调整",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1721193019,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142589,
+      "num": 142589,
+      "word": "美国共和党大会播放特朗普跳舞集锦",
+      "onboard_time": 1721221398,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 141300,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1721184497,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133785,
-      "num": 133785,
-      "word": "美国共和党大会播放特朗普跳舞集锦",
-      "onboard_time": 1721221398,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 133701,
@@ -2435,6 +2451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111135,
+      "num": 111135,
+      "word": "黄晓明新剧携300名博士归国",
+      "onboard_time": 1721223259,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110829,
+      "num": 110829,
+      "word": "定风波直播",
+      "onboard_time": 1721223259,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109968,
       "num": 109968,
       "word": "ZB1抵达上海",
@@ -2532,7 +2564,7 @@
     },
     {
       "raw_hot": 96230,
-      "num": 307814,
+      "num": 335666,
       "word": "小折手机体验终于站起来了",
       "onboard_time": 1721218517,
       "rank": 12,
@@ -2683,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74278,
+      "num": 243804,
+      "word": "救灾武警和老人开启奶奶孙子聊天模式",
+      "onboard_time": 1721222419,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73821,
       "num": 414044,
       "word": "暑运以来全国铁路发送旅客超2亿人次",
@@ -2824,14 +2864,6 @@
       "word": "迪士尼年卡是变相涨价还是打击黄牛",
       "onboard_time": 1721188819,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55003,
-      "num": 243804,
-      "word": "救灾武警和老人开启奶奶孙子聊天模式",
-      "onboard_time": 1721222419,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -3080,6 +3112,14 @@
       "word": "一篇近半个世纪的工作总结",
       "onboard_time": 1721033418,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10763,
+      "num": 167550,
+      "word": "韩国动保组织呼吁禁止吃鸡",
+      "onboard_time": 1721223078,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

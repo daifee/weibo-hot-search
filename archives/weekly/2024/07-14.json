@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721222531937,
+  "endTime": 1721223276541,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -89,6 +89,14 @@
       "onboard_time": 1720945401,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2191558,
+      "num": 989756,
+      "word": "爱奇艺称没义务永久提供高清晰投屏",
+      "onboard_time": 1721221578,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2114559,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 1198786,
-      "num": 332751,
+      "num": 335774,
       "word": "Kris离职",
       "onboard_time": 1721211259,
       "rank": 18,
@@ -675,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 989756,
-      "num": 989756,
-      "word": "爱奇艺称没义务永久提供高清晰投屏",
-      "onboard_time": 1721221578,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 978639,
       "num": 978639,
       "word": "西班牙vs英格兰",
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 865789,
-      "num": 306034,
+      "num": 335438,
       "word": "员工一年内因考勤被扣工资20.9万",
       "onboard_time": 1721218996,
       "rank": 19,
@@ -1651,8 +1651,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 575874,
+      "num": 335367,
+      "word": "四川自贡一百货大楼起火",
+      "onboard_time": 1721221159,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572744,
-      "num": 313282,
+      "num": 334871,
       "word": "Kris 王多多",
       "onboard_time": 1721215399,
       "rank": 18,
@@ -1705,14 +1713,6 @@
       "onboard_time": 1721132658,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 565661,
-      "num": 305585,
-      "word": "四川自贡一百货大楼起火",
-      "onboard_time": 1721221159,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560868,
@@ -1820,7 +1820,7 @@
     },
     {
       "raw_hot": 541889,
-      "num": 277411,
+      "num": 304384,
       "word": "一次吃半个西瓜身体会发生啥",
       "onboard_time": 1721205859,
       "rank": 20,
@@ -2211,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471710,
+      "num": 335130,
+      "word": "时代峰峻北京的新公司",
+      "onboard_time": 1721221460,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471057,
       "num": 471057,
       "word": "王一博登上法国新闻",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1721088017,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 431953,
+      "num": 525873,
+      "word": "十年前14000买的钻戒如今不值200块",
+      "onboard_time": 1721220438,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431588,
@@ -2868,7 +2884,7 @@
     },
     {
       "raw_hot": 387272,
-      "num": 304882,
+      "num": 334765,
       "word": "自贡火灾",
       "onboard_time": 1721219177,
       "rank": 34,
@@ -3035,14 +3051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 361823,
-      "num": 304709,
-      "word": "时代峰峻北京的新公司",
-      "onboard_time": 1721221460,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360963,
       "num": 360963,
       "word": "凯特王妃将第二次公开露面",
@@ -3139,6 +3147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352730,
+      "num": 334925,
+      "word": "苏醒谈汪苏泷歌手表现",
+      "onboard_time": 1721221277,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352072,
       "num": 352072,
       "word": "Uzi老婆吃醋",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1720926560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342830,
-      "num": 525873,
-      "word": "十年前14000买的钻戒如今不值200块",
-      "onboard_time": 1721220438,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341241,
@@ -3611,20 +3619,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305306,
+      "num": 305306,
+      "word": "涂山璟明天别去清水镇",
+      "onboard_time": 1721219237,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304767,
       "num": 203393,
       "word": "不亚于图书馆30秒的外卖评价",
       "onboard_time": 1721143099,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 304579,
-      "num": 304579,
-      "word": "涂山璟明天别去清水镇",
-      "onboard_time": 1721219237,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 302450,
@@ -3641,6 +3649,14 @@
       "onboard_time": 1720939822,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 301030,
+      "num": 301030,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1721220258,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 300653,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1721210658,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290743,
-      "num": 276771,
-      "word": "建议大家下班回家立刻洗漱",
-      "onboard_time": 1721220258,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 290707,
@@ -4035,14 +4043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277626,
-      "num": 277626,
-      "word": "苏醒谈汪苏泷歌手表现",
-      "onboard_time": 1721221277,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277337,
       "num": 277337,
       "word": "王者梦之队大名单",
@@ -4083,6 +4083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275724,
+      "num": 275724,
+      "word": "黄子弘凡美依礼芽牵手",
+      "onboard_time": 1721219117,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275611,
       "num": 275611,
       "word": "巴黎奥运会倒计时10天",
@@ -4105,14 +4113,6 @@
       "onboard_time": 1721178079,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273758,
-      "num": 273758,
-      "word": "黄子弘凡美依礼芽牵手",
-      "onboard_time": 1721219117,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 273598,
@@ -4707,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234465,
+      "num": 234465,
+      "word": "鞠婧祎纯欲穿搭",
+      "onboard_time": 1721221519,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233303,
       "num": 233303,
       "word": "古茗小程序崩了",
@@ -4771,14 +4779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230001,
-      "num": 230001,
-      "word": "鞠婧祎纯欲穿搭",
-      "onboard_time": 1721221519,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 229631,
       "num": 229631,
       "word": "白敬亭西班牙吃火锅",
@@ -4809,6 +4809,14 @@
       "onboard_time": 1720926079,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228629,
+      "num": 197319,
+      "word": "薛之谦演唱会嘉宾是大鹏",
+      "onboard_time": 1721222959,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 228527,
@@ -5164,7 +5172,7 @@
     },
     {
       "raw_hot": 209889,
-      "num": 209889,
+      "num": 336181,
       "word": "TES战胜WBG",
       "onboard_time": 1721221039,
       "rank": 26,
@@ -5305,6 +5313,22 @@
       "onboard_time": 1721177719,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205777,
+      "num": 205777,
+      "word": "四川自贡九鼎百货大楼起火有人员被困",
+      "onboard_time": 1721221699,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205653,
+      "num": 205653,
+      "word": "双鱼座是反骨的典型代表",
+      "onboard_time": 1721219297,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 205617,
@@ -6227,14 +6251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187690,
-      "num": 187690,
-      "word": "四川自贡九鼎百货大楼起火有人员被困",
-      "onboard_time": 1721221699,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187623,
       "num": 187623,
       "word": "我们的歌city不city阵容官宣",
@@ -6777,14 +6793,6 @@
       "onboard_time": 1721104340,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171678,
-      "num": 171678,
-      "word": "双鱼座是反骨的典型代表",
-      "onboard_time": 1721219297,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 171295,
@@ -7923,6 +7931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146061,
+      "num": 146061,
+      "word": "普华永道回应裁员一半",
+      "onboard_time": 1721222659,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145947,
       "num": 257707,
       "word": "那英压轴",
@@ -8073,6 +8089,14 @@
       "onboard_time": 1721014398,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142589,
+      "num": 142589,
+      "word": "美国共和党大会播放特朗普跳舞集锦",
+      "onboard_time": 1721221398,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 142516,
@@ -8481,14 +8505,6 @@
       "onboard_time": 1721009117,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133785,
-      "num": 133785,
-      "word": "美国共和党大会播放特朗普跳舞集锦",
-      "onboard_time": 1721221398,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 133729,
@@ -9467,6 +9483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 111135,
+      "num": 111135,
+      "word": "黄晓明新剧携300名博士归国",
+      "onboard_time": 1721223259,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111050,
       "num": 111050,
       "word": "鬼灭之刃 天才少年无一郎",
@@ -9481,6 +9505,14 @@
       "onboard_time": 1721085194,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110829,
+      "num": 110829,
+      "word": "定风波直播",
+      "onboard_time": 1721223259,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110395,
@@ -9916,7 +9948,7 @@
     },
     {
       "raw_hot": 96230,
-      "num": 307814,
+      "num": 335666,
       "word": "小折手机体验终于站起来了",
       "onboard_time": 1721218517,
       "rank": 12,
@@ -10296,6 +10328,14 @@
       "word": "湾区最长地铁让1天逛5城不是梦",
       "onboard_time": 1721146337,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74278,
+      "num": 243804,
+      "word": "救灾武警和老人开启奶奶孙子聊天模式",
+      "onboard_time": 1721222419,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -10825,14 +10865,6 @@
       "onboard_time": 1720913114,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 55003,
-      "num": 243804,
-      "word": "救灾武警和老人开启奶奶孙子聊天模式",
-      "onboard_time": 1721222419,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53393,
@@ -11856,6 +11888,14 @@
       "word": "一篇近半个世纪的工作总结",
       "onboard_time": 1721033418,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10763,
+      "num": 167550,
+      "word": "韩国动保组织呼吁禁止吃鸡",
+      "onboard_time": 1721223078,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
