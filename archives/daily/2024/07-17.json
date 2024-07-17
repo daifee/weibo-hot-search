@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721223276541,
+  "endTime": 1721225989272,
   "band_list": [
     {
       "raw_hot": 2841896,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1677460,
+      "num": 1677460,
+      "word": "陈意涵 我来自中国台湾",
+      "onboard_time": 1721223798,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1365348,
       "num": 563366,
       "word": "浙江一家8口确诊同种病一人患癌",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1198786,
-      "num": 335774,
+      "num": 724404,
       "word": "Kris离职",
       "onboard_time": 1721211259,
       "rank": 18,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 865789,
-      "num": 335438,
+      "num": 679341,
       "word": "员工一年内因考勤被扣工资20.9万",
       "onboard_time": 1721218996,
       "rank": 19,
@@ -315,6 +323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 651829,
+      "num": 651829,
+      "word": "自贡一百货大楼起火已救出17人",
+      "onboard_time": 1721224759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633481,
       "num": 404690,
       "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586793,
+      "num": 301030,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1721220258,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584723,
       "num": 584723,
       "word": "河南暴雨",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 575874,
-      "num": 335367,
+      "num": 397752,
       "word": "四川自贡一百货大楼起火",
       "onboard_time": 1721221159,
       "rank": 13,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 471710,
-      "num": 335130,
+      "num": 412767,
       "word": "时代峰峻北京的新公司",
       "onboard_time": 1721221460,
       "rank": 16,
@@ -576,6 +600,14 @@
       "word": "大鹏 都选C",
       "onboard_time": 1721203639,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 434110,
+      "num": 751026,
+      "word": "薛之谦演唱会嘉宾是大鹏",
+      "onboard_time": 1721222959,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356899,
+      "num": 356899,
+      "word": "赵露思新剧穿了高定",
+      "onboard_time": 1721225299,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352730,
       "num": 334925,
       "word": "苏醒谈汪苏泷歌手表现",
@@ -891,14 +931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 301030,
-      "num": 301030,
-      "word": "建议大家下班回家立刻洗漱",
-      "onboard_time": 1721220258,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295721,
       "num": 295721,
       "word": "陆川公关",
@@ -979,6 +1011,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 276718,
+      "num": 276718,
+      "word": "建议列入北影教材",
+      "onboard_time": 1721223619,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276058,
       "num": 276058,
       "word": "古茗口令",
@@ -1011,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271585,
+      "num": 271585,
+      "word": "涂山璟我是你全家的仆人",
+      "onboard_time": 1721223439,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270480,
       "num": 270480,
       "word": "假性亲密关系",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1721184017,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267334,
+      "num": 276061,
+      "word": "赤辰道歉",
+      "onboard_time": 1721224998,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 266653,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1721189479,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255814,
+      "num": 255814,
+      "word": "白鹿直播状态",
+      "onboard_time": 1721225358,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 254868,
@@ -1147,8 +1211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236855,
-      "num": 280161,
+      "raw_hot": 238448,
+      "num": 877431,
       "word": "中山大学9位哲学硕博生卖烤肠走红",
       "onboard_time": 1721214618,
       "rank": 41,
@@ -1187,20 +1251,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228629,
-      "num": 197319,
-      "word": "薛之谦演唱会嘉宾是大鹏",
-      "onboard_time": 1721222959,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 227271,
       "num": 227271,
       "word": "成龙新片靠AI换脸重返年轻",
       "onboard_time": 1721193738,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224356,
+      "num": 224356,
+      "word": "黄晓明新剧携300名博士归国",
+      "onboard_time": 1721223259,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 223645,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1721191880,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221180,
+      "num": 221180,
+      "word": "马丽回应抓娃娃救市",
+      "onboard_time": 1721225478,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 218851,
@@ -1236,7 +1308,7 @@
     },
     {
       "raw_hot": 209889,
-      "num": 336181,
+      "num": 739207,
       "word": "TES战胜WBG",
       "onboard_time": 1721221039,
       "rank": 26,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1721206099,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207725,
+      "num": 207725,
+      "word": "爱奇艺2024大剧片单",
+      "onboard_time": 1721223978,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 206811,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1721180898,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196380,
+      "num": 196380,
+      "word": "苏醒为薛之谦庆生",
+      "onboard_time": 1721225478,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 195884,
@@ -1667,12 +1755,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 180889,
+      "num": 777963,
+      "word": "咒术回战 两眼一黑",
+      "onboard_time": 1721219959,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180214,
       "num": 180214,
       "word": "长相思有自己的燃冬",
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179680,
+      "num": 253201,
+      "word": "普华永道回应裁员一半",
+      "onboard_time": 1721222659,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 177863,
@@ -1793,6 +1897,22 @@
       "onboard_time": 1721213659,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167031,
+      "num": 762837,
+      "word": "普华永道将裁一半在华金融审计员工",
+      "onboard_time": 1721225538,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165229,
+      "num": 165229,
+      "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
+      "onboard_time": 1721224219,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164878,
@@ -2043,14 +2163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146061,
-      "num": 146061,
-      "word": "普华永道回应裁员一半",
-      "onboard_time": 1721222659,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 145207,
       "num": 145207,
       "word": "原神官方回应对维莱特进行技能调整",
@@ -2105,14 +2217,6 @@
       "onboard_time": 1721205679,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139652,
-      "num": 139652,
-      "word": "咒术回战 两眼一黑",
-      "onboard_time": 1721219959,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 139607,
@@ -2449,14 +2553,6 @@
       "onboard_time": 1721208617,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111135,
-      "num": 111135,
-      "word": "黄晓明新剧携300名博士归国",
-      "onboard_time": 1721223259,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 110829,
@@ -2867,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51872,
+      "num": 270027,
+      "word": "大众安徽放手一搏",
+      "onboard_time": 1721224938,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50788,
       "num": 52711,
       "word": "苹果续创历史收盘新高",
@@ -2963,6 +3067,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41604,
+      "num": 251791,
+      "word": "金标大众",
+      "onboard_time": 1721225060,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 41121,
+      "num": 269571,
+      "word": "捏脸游戏终于轮到我汽车了",
+      "onboard_time": 1721224938,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40993,
       "num": 44168,
       "word": "檀健次回应相柳九头九脸",
@@ -2985,6 +3105,14 @@
       "onboard_time": 1721222238,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34045,
+      "num": 819599,
+      "word": "小岗梦也是广大农民的梦",
+      "onboard_time": 1721224099,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33690,
@@ -3025,6 +3153,14 @@
       "onboard_time": 1721206579,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26746,
+      "num": 728808,
+      "word": "万吨级海洋油气平台已安装就位",
+      "onboard_time": 1721224820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22127,
