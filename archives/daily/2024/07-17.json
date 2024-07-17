@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721208950215,
+  "endTime": 1721211701024,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816488,
+      "num": 409396,
+      "word": "呛奶去世婴儿父母与天鹅到家和解",
+      "onboard_time": 1721206219,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814062,
       "num": 814062,
       "word": "马克龙接受法国政府辞职",
       "onboard_time": 1721175557,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 811191,
-      "num": 409396,
-      "word": "呛奶去世婴儿父母与天鹅到家和解",
-      "onboard_time": 1721206219,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 804303,
@@ -315,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 568563,
+      "num": 387766,
+      "word": "Kris回应手机事件",
+      "onboard_time": 1721207238,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 559840,
       "num": 559840,
       "word": "王海称李佳琦小杨哥卖假和田玉",
@@ -331,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 541889,
+      "num": 255806,
+      "word": "一次吃半个西瓜身体会发生啥",
+      "onboard_time": 1721205859,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 529817,
       "num": 529817,
       "word": "长相思导演关注迪丽热巴超话",
@@ -345,6 +361,14 @@
       "onboard_time": 1721193197,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512256,
+      "num": 281909,
+      "word": "日本高中生吃18禁超辣薯片被送医",
+      "onboard_time": 1721207119,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502687,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463168,
+      "num": 258441,
+      "word": "张新成王玉雯拍吻戏下不去嘴",
+      "onboard_time": 1721210419,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455869,
       "num": 455869,
       "word": "官方通报老人报40元团4天3晚游桂林",
@@ -395,19 +427,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450952,
+      "num": 267737,
+      "word": "虞书欣搂姜妍的腰",
+      "onboard_time": 1721208438,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445888,
       "num": 445888,
       "word": "韩国七旬老人就业率突破30%",
       "onboard_time": 1721176458,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443496,
-      "num": 281909,
-      "word": "日本高中生吃18禁超辣薯片被送医",
-      "onboard_time": 1721207119,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -433,6 +465,14 @@
       "onboard_time": 1721203639,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 432961,
+      "num": 432961,
+      "word": "厕所小飞虫或会寄生在人体并引发感染",
+      "onboard_time": 1721206818,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 431588,
@@ -523,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 387766,
-      "num": 387766,
-      "word": "Kris回应手机事件",
-      "onboard_time": 1721207238,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 386683,
       "num": 307245,
       "word": "赵露思素颜与好友聚餐",
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340996,
+      "num": 255014,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339282,
       "num": 339282,
       "word": "古茗崩了",
@@ -617,14 +657,6 @@
       "onboard_time": 1721182218,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321384,
-      "num": 255806,
-      "word": "一次吃半个西瓜身体会发生啥",
-      "onboard_time": 1721205859,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 319784,
@@ -699,12 +731,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 293865,
+      "num": 271645,
+      "word": "YG第二季度营业利润只有157万人民币",
+      "onboard_time": 1721208140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292694,
       "num": 292694,
       "word": "抓娃娃结尾",
       "onboard_time": 1721178977,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290856,
+      "num": 290856,
+      "word": "赵今麦张凌赫录hi6",
+      "onboard_time": 1721210658,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 286827,
@@ -755,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271645,
-      "num": 271645,
-      "word": "YG第二季度营业利润只有157万人民币",
-      "onboard_time": 1721208140,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270480,
       "num": 270480,
       "word": "假性亲密关系",
@@ -779,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267737,
-      "num": 267737,
-      "word": "虞书欣搂姜妍的腰",
-      "onboard_time": 1721208438,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 264838,
+      "num": 251693,
+      "word": "邓为炒螺蛳粉失败了",
+      "onboard_time": 1721204839,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 261307,
@@ -835,12 +875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248061,
-      "num": 248061,
-      "word": "厕所小飞虫或会寄生在人体并引发感染",
-      "onboard_time": 1721206818,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 251431,
+      "num": 251431,
+      "word": "微信会惩罚长时间没用旧设备的人",
+      "onboard_time": 1721208559,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 247684,
@@ -937,14 +977,6 @@
       "onboard_time": 1721191880,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 221014,
-      "num": 221014,
-      "word": "邓为炒螺蛳粉失败了",
-      "onboard_time": 1721204839,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 218851,
@@ -1291,12 +1323,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 181814,
+      "num": 181814,
+      "word": "郭帆把赵今麦年龄记这么清楚",
+      "onboard_time": 1721210599,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180214,
       "num": 180214,
       "word": "长相思有自己的燃冬",
       "onboard_time": 1721177839,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179193,
+      "num": 156668,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1721210298,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 177863,
@@ -1337,6 +1385,14 @@
       "onboard_time": 1721204359,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "乱马 新作动画",
+      "onboard_time": 1721211199,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 172325,
@@ -1555,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150721,
+      "num": 150721,
+      "word": "陈晓东曝双眼险失明",
+      "onboard_time": 1721209399,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150359,
       "num": 150359,
       "word": "起猛了看到蟑螂有应援棒了",
@@ -1603,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "美ONE回应被指卖假和田玉",
+      "onboard_time": 1721210240,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -1619,12 +1691,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141573,
+      "num": 141573,
+      "word": "最伤腰的姿势",
+      "onboard_time": 1721211259,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "法海被恨过但没丑过",
       "onboard_time": 1721205679,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138871,
+      "num": 138871,
+      "word": "塞纳河水",
+      "onboard_time": 1721209459,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 137762,
@@ -1675,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133446,
+      "num": 133446,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "95后男生发动100人签订互助父母计划",
@@ -1689,14 +1785,6 @@
       "onboard_time": 1721190800,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129979,
-      "num": 129979,
-      "word": "微信会惩罚长时间没用旧设备的人",
-      "onboard_time": 1721208559,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 129972,
@@ -1803,6 +1891,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "二手玫瑰缺席歌手突围赛",
+      "onboard_time": 1721211078,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119718,
+      "num": 119718,
+      "word": "临江仙",
+      "onboard_time": 1721209279,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119038,
       "num": 119038,
       "word": "2个月婴儿抛媚眼萌坏家人",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1721208499,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 117342,
+      "num": 117342,
+      "word": "周深 新海诚动画推广大使",
+      "onboard_time": 1721209698,
+      "rank": 42,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 116788,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1721170393,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95687,
+      "num": 95687,
+      "word": "玄策星元新皮肤",
+      "onboard_time": 1721210298,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95507,
@@ -2091,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73821,
+      "num": 414044,
+      "word": "暑运以来全国铁路发送旅客超2亿人次",
+      "onboard_time": 1721206818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71569,
       "num": 182396,
       "word": "盛夏和荷花好配",
@@ -2161,14 +2289,6 @@
       "onboard_time": 1721133498,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 63168,
-      "num": 414044,
-      "word": "暑运以来全国铁路发送旅客超2亿人次",
-      "onboard_time": 1721206818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62791,
@@ -2331,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32261,
+      "num": 156928,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31947,
       "num": 763550,
       "word": "开启新的伟大变革",
@@ -2339,12 +2467,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28259,
+      "num": 117862,
+      "word": "爷爷对奶奶的爱像一封絮叨的情书",
+      "onboard_time": 1721206579,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22127,
       "num": 187510,
       "word": "迪士尼遭黑客入侵超1TB资料外泄",
       "onboard_time": 1721207720,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 256071,
+      "word": "男子吃糖被卡喉警察10秒救回",
+      "onboard_time": 1721211317,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 19953,

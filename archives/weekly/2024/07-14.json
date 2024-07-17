@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721208950215,
+  "endTime": 1721211701024,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -867,6 +867,14 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 816488,
+      "num": 409396,
+      "word": "呛奶去世婴儿父母与天鹅到家和解",
+      "onboard_time": 1721206219,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814062,
       "num": 814062,
       "word": "马克龙接受法国政府辞职",
@@ -880,14 +888,6 @@
       "word": "这次河南暴雨有一定极端性",
       "onboard_time": 1721109018,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 811191,
-      "num": 409396,
-      "word": "呛奶去世婴儿父母与天鹅到家和解",
-      "onboard_time": 1721206219,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568563,
+      "num": 387766,
+      "word": "Kris回应手机事件",
+      "onboard_time": 1721207238,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 566665,
       "num": 1088253,
       "word": "苹果回应iPhone鬼手现象",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1721028019,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541889,
+      "num": 255806,
+      "word": "一次吃半个西瓜身体会发生啥",
+      "onboard_time": 1721205859,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 538446,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1721019920,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 512256,
+      "num": 281909,
+      "word": "日本高中生吃18禁超辣薯片被送医",
+      "onboard_time": 1721207119,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510454,
@@ -2131,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463168,
+      "num": 258441,
+      "word": "张新成王玉雯拍吻戏下不去嘴",
+      "onboard_time": 1721210419,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463116,
       "num": 463116,
       "word": "FBI称确认枪手身份",
@@ -2227,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450952,
+      "num": 267737,
+      "word": "虞书欣搂姜妍的腰",
+      "onboard_time": 1721208438,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449532,
       "num": 449532,
       "word": "刘宇宁有个事儿通报一下",
@@ -2248,14 +2288,6 @@
       "word": "韩国七旬老人就业率突破30%",
       "onboard_time": 1721176458,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443496,
-      "num": 281909,
-      "word": "日本高中生吃18禁超辣薯片被送医",
-      "onboard_time": 1721207119,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2361,6 +2393,14 @@
       "onboard_time": 1721133378,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432961,
+      "num": 432961,
+      "word": "厕所小飞虫或会寄生在人体并引发感染",
+      "onboard_time": 1721206818,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 432863,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1720981992,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387766,
-      "num": 387766,
-      "word": "Kris回应手机事件",
-      "onboard_time": 1721207238,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 386683,
@@ -3083,6 +3115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340996,
+      "num": 255014,
+      "word": "Kris离职",
+      "onboard_time": 1721211259,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340076,
       "num": 316497,
       "word": "李斯丹妮上身身材",
@@ -3257,14 +3297,6 @@
       "onboard_time": 1720945220,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 321384,
-      "num": 255806,
-      "word": "一次吃半个西瓜身体会发生啥",
-      "onboard_time": 1721205859,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 320939,
@@ -3515,6 +3547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 293865,
+      "num": 271645,
+      "word": "YG第二季度营业利润只有157万人民币",
+      "onboard_time": 1721208140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293518,
       "num": 295043,
       "word": "刘国梁介绍国乒奥运会三个阶段",
@@ -3561,6 +3601,14 @@
       "onboard_time": 1721094798,
       "rank": 16,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 290856,
+      "num": 290856,
+      "word": "赵今麦张凌赫录hi6",
+      "onboard_time": 1721210658,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 290707,
@@ -3899,14 +3947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271645,
-      "num": 271645,
-      "word": "YG第二季度营业利润只有157万人民币",
-      "onboard_time": 1721208140,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270489,
       "num": 270489,
       "word": "王源南京演唱会官宣了",
@@ -3947,14 +3987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 267737,
-      "num": 267737,
-      "word": "虞书欣搂姜妍的腰",
-      "onboard_time": 1721208438,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265253,
       "num": 265253,
       "word": "中餐厅",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1720927881,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 264838,
+      "num": 251693,
+      "word": "邓为炒螺蛳粉失败了",
+      "onboard_time": 1721204839,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 263381,
@@ -4171,6 +4211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251431,
+      "num": 251431,
+      "word": "微信会惩罚长时间没用旧设备的人",
+      "onboard_time": 1721208559,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250653,
       "num": 236819,
       "word": "90后夫妻把粤A车开到了冰岛",
@@ -4209,14 +4257,6 @@
       "onboard_time": 1721111957,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248061,
-      "num": 248061,
-      "word": "厕所小飞虫或会寄生在人体并引发感染",
-      "onboard_time": 1721206818,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 248032,
@@ -4689,14 +4729,6 @@
       "onboard_time": 1721191880,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 221014,
-      "num": 221014,
-      "word": "邓为炒螺蛳粉失败了",
-      "onboard_time": 1721204839,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 220111,
@@ -6075,6 +6107,14 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 181814,
+      "num": 181814,
+      "word": "郭帆把赵今麦年龄记这么清楚",
+      "onboard_time": 1721210599,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181470,
       "num": 181470,
       "word": "影响雷军造车的一本书",
@@ -6145,6 +6185,14 @@
       "onboard_time": 1720934725,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179193,
+      "num": 156668,
+      "word": "天生臭脸和天生笑脸的区别",
+      "onboard_time": 1721210298,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 179169,
@@ -6369,6 +6417,14 @@
       "onboard_time": 1720875018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "乱马 新作动画",
+      "onboard_time": 1721211199,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 172325,
@@ -7275,6 +7331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150721,
+      "num": 150721,
+      "word": "陈晓东曝双眼险失明",
+      "onboard_time": 1721209399,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150630,
       "num": 150630,
       "word": "陶喆翻红",
@@ -7547,6 +7611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "美ONE回应被指卖假和田玉",
+      "onboard_time": 1721210240,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -7667,6 +7739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141573,
+      "num": 141573,
+      "word": "最伤腰的姿势",
+      "onboard_time": 1721211259,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "法海被恨过但没丑过",
@@ -7744,6 +7824,14 @@
       "word": "中国男篮不敌掘金",
       "onboard_time": 1720923620,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138871,
+      "num": 138871,
+      "word": "塞纳河水",
+      "onboard_time": 1721209459,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -8019,6 +8107,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 133446,
+      "num": 133446,
+      "word": "花花也知道睡觉要盖肚肚",
+      "onboard_time": 1721211259,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133272,
       "num": 133272,
       "word": "索尼A9M3",
@@ -8177,14 +8273,6 @@
       "onboard_time": 1721119280,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 129979,
-      "num": 129979,
-      "word": "微信会惩罚长时间没用旧设备的人",
-      "onboard_time": 1721208559,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 129972,
@@ -8643,6 +8731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "二手玫瑰缺席歌手突围赛",
+      "onboard_time": 1721211078,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119910,
       "num": 119910,
       "word": "爆米花大爷们",
@@ -8657,6 +8753,14 @@
       "onboard_time": 1720921340,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119718,
+      "num": 119718,
+      "word": "临江仙",
+      "onboard_time": 1721209279,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 119507,
@@ -8777,6 +8881,14 @@
       "onboard_time": 1721208499,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 117342,
+      "num": 117342,
+      "word": "周深 新海诚动画推广大使",
+      "onboard_time": 1721209698,
+      "rank": 42,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 117158,
@@ -9371,6 +9483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95687,
+      "num": 95687,
+      "word": "玄策星元新皮肤",
+      "onboard_time": 1721210298,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94895,
       "num": 879010,
       "word": "中国产品这么能打是干出来闯出来的",
@@ -9715,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73821,
+      "num": 414044,
+      "word": "暑运以来全国铁路发送旅客超2亿人次",
+      "onboard_time": 1721206818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73815,
       "num": 254369,
       "word": "你比星光美丽",
@@ -10009,14 +10137,6 @@
       "onboard_time": 1720882939,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63168,
-      "num": 414044,
-      "word": "暑运以来全国铁路发送旅客超2亿人次",
-      "onboard_time": 1721206818,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62546,
@@ -10731,6 +10851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32261,
+      "num": 156928,
+      "word": "外交部回应ChinaTravel走红",
+      "onboard_time": 1721211678,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31947,
       "num": 763550,
       "word": "开启新的伟大变革",
@@ -10808,6 +10936,14 @@
       "word": "重庆一外公晒出和外孙女合照",
       "onboard_time": 1720896613,
       "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28259,
+      "num": 117862,
+      "word": "爷爷对奶奶的爱像一封絮叨的情书",
+      "onboard_time": 1721206579,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -10945,6 +11081,14 @@
       "onboard_time": 1720957698,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 256071,
+      "word": "男子吃糖被卡喉警察10秒救回",
+      "onboard_time": 1721211317,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 21644,
