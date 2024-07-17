@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721241607106,
+  "endTime": 1721243708136,
   "band_list": [
     {
       "raw_hot": 862489,
@@ -323,6 +323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80269,
+      "num": 40915,
+      "word": "专家称警惕特朗普拉帮结派对中国施压",
+      "onboard_time": 1721238672,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 73239,
       "num": 185895,
       "word": "Tian 该祝69生日快乐了",
@@ -427,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40915,
-      "num": 40915,
-      "word": "专家称警惕特朗普拉帮结派对中国施压",
-      "onboard_time": 1721238672,
-      "rank": 22,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 36581,
       "num": 88432,
       "word": "文韬好会撒娇啊",
@@ -459,12 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28258,
+      "num": 28258,
+      "word": "女性一代传一代的谎言",
+      "onboard_time": 1721241312,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 26796,
       "num": 36628,
       "word": "龚俊吊威亚转圈",
       "onboard_time": 1721238014,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24187,
+      "num": 28099,
+      "word": "金猫阿宅去世",
+      "onboard_time": 1721240952,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23740,
@@ -491,12 +507,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17700,
+      "num": 28077,
+      "word": "为什么奶茶店不能早上八点开门",
+      "onboard_time": 1721242632,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 16883,
+      "num": 28072,
+      "word": "奔赴万人现场",
+      "onboard_time": 1721242992,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15063,
       "num": 31465,
       "word": "约罗接近加盟曼联",
       "onboard_time": 1721235674,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14772,
+      "num": 28059,
+      "word": "当你打航空客服占线繁忙时",
+      "onboard_time": 1721242332,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 13630,
