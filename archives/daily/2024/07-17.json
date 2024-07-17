@@ -1,7 +1,15 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721216071913,
+  "endTime": 1721219844676,
   "band_list": [
+    {
+      "raw_hot": 2841896,
+      "num": 2841896,
+      "word": "平台否认陆川被盗号",
+      "onboard_time": 1721216777,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 1863874,
       "num": 1863874,
@@ -89,6 +97,14 @@
       "onboard_time": 1721179877,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1014253,
+      "num": 398902,
+      "word": "陆川发文删文手机设备一致",
+      "onboard_time": 1721217739,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 965560,
@@ -371,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 533560,
+      "num": 333608,
+      "word": "错位大结局",
+      "onboard_time": 1721217617,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529817,
       "num": 529817,
       "word": "长相思导演关注迪丽热巴超话",
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517596,
+      "num": 313282,
+      "word": "Kris 王多多",
+      "onboard_time": 1721215399,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 512256,
       "num": 281909,
       "word": "日本高中生吃18禁超辣薯片被送医",
@@ -401,6 +433,14 @@
       "onboard_time": 1721170873,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 480182,
+      "num": 330371,
+      "word": "长相思2西陵玖瑶名场面来了",
+      "onboard_time": 1721217317,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 472778,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 454478,
-      "num": 238670,
+      "num": 302193,
       "word": "林一 不想做人很久了",
       "onboard_time": 1721213237,
       "rank": 17,
@@ -545,6 +585,14 @@
       "onboard_time": 1721174057,
       "rank": 6,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 411728,
+      "num": 411728,
+      "word": "深圳双彩虹",
+      "onboard_time": 1721214918,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407978,
@@ -659,19 +707,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 336872,
+      "num": 336872,
+      "word": "陈鲁豫回应撞脸巴黎奥运会会徽",
+      "onboard_time": 1721218037,
+      "rank": 5,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 331281,
       "num": 230577,
       "word": "卫健局回应女子遭男医生猥亵",
       "onboard_time": 1721212458,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328046,
-      "num": 328046,
-      "word": "深圳双彩虹",
-      "onboard_time": 1721214918,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -779,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295721,
+      "num": 295721,
+      "word": "陆川公关",
+      "onboard_time": 1721218637,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293865,
       "num": 271645,
       "word": "YG第二季度营业利润只有157万人民币",
@@ -833,6 +889,14 @@
       "onboard_time": 1721200399,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277706,
+      "num": 277706,
+      "word": "秦彻 黎深",
+      "onboard_time": 1721217317,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 276950,
@@ -955,14 +1019,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 248490,
-      "num": 226648,
-      "word": "Kris 王多多",
-      "onboard_time": 1721215399,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 247684,
       "num": 203261,
       "word": "编剧看了多少烂剧才写出的台词",
@@ -1007,6 +1063,22 @@
       "num": 240689,
       "word": "30岁渐冻症男子打破死亡预言收获幸福",
       "onboard_time": 1721175858,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236855,
+      "num": 236855,
+      "word": "中山大学9位哲学硕博生卖烤肠走红",
+      "onboard_time": 1721214618,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233348,
+      "num": 233348,
+      "word": "员工一年内因考勤被扣工资20.9万",
+      "onboard_time": 1721218996,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -1075,6 +1147,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 209713,
+      "num": 209713,
+      "word": "黄子弘凡美依礼芽牵手",
+      "onboard_time": 1721219117,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "花花也知道睡觉要盖肚肚",
@@ -1105,14 +1185,6 @@
       "onboard_time": 1721172798,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205877,
-      "num": 205877,
-      "word": "中山大学9位哲学硕博生卖烤肠走红",
-      "onboard_time": 1721214618,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205802,
@@ -1171,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202926,
+      "num": 202926,
+      "word": "李东海拍中国粉丝接机",
+      "onboard_time": 1721219177,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202513,
       "num": 202513,
       "word": "刘强东章泽天看欧洲杯",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1721199439,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198195,
+      "num": 203260,
+      "word": "一念关山导演探班刘宇宁",
+      "onboard_time": 1721218517,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 197837,
@@ -1451,6 +1539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 183238,
+      "num": 183238,
+      "word": "涂山璟明天别去清水镇",
+      "onboard_time": 1721219237,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180214,
       "num": 180214,
       "word": "长相思有自己的燃冬",
@@ -1579,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166095,
+      "num": 166095,
+      "word": "自贡火灾",
+      "onboard_time": 1721219177,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164878,
       "num": 164878,
       "word": "为什么河南这次的雨这么大",
@@ -1657,6 +1761,14 @@
       "onboard_time": 1721177719,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157046,
+      "num": 157046,
+      "word": "戒指哥 我破防了",
+      "onboard_time": 1721215399,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 157039,
@@ -1763,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150101,
+      "num": 150101,
+      "word": "相柳太虐了",
+      "onboard_time": 1721216416,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149674,
       "num": 149674,
       "word": "钟丽缇女儿考拉身高",
@@ -1779,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149113,
+      "num": 149113,
+      "word": "夏洛特烦恼和九层妖塔同一天上映",
+      "onboard_time": 1721219537,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147205,
       "num": 147205,
       "word": "唐诡西行西游记这不就对上了",
@@ -1793,6 +1921,14 @@
       "onboard_time": 1721203219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146230,
+      "num": 199818,
+      "word": "腾讯游戏人脸识别策略升级",
+      "onboard_time": 1721218037,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 145207,
@@ -1891,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135126,
+      "num": 135126,
+      "word": "陈泽安利斩神",
+      "onboard_time": 1721219599,
+      "rank": 41,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 134729,
       "num": 134729,
       "word": "宋亚轩刘耀文站起来和张峻豪打招呼",
@@ -1923,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132584,
+      "num": 132584,
+      "word": "九尾沈梦溪MVP",
+      "onboard_time": 1721216239,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132021,
       "num": 126837,
       "word": "今天是防风邶头七",
@@ -1937,14 +2089,6 @@
       "onboard_time": 1721173397,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129230,
-      "num": 129230,
-      "word": "戒指哥 我破防了",
-      "onboard_time": 1721215399,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 126931,
@@ -2051,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119739,
+      "num": 119739,
+      "word": "TES对战WBG",
+      "onboard_time": 1721217917,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119718,
       "num": 119718,
       "word": "临江仙",
@@ -2072,6 +2224,14 @@
       "word": "射手座的下头就在一瞬之间",
       "onboard_time": 1721141539,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118145,
+      "num": 118145,
+      "word": "双鱼座是反骨的典型代表",
+      "onboard_time": 1721219297,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -2217,6 +2377,14 @@
       "onboard_time": 1721180237,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105822,
+      "num": 202827,
+      "word": "94岁院士让新疆戈壁长满甜甜的瓜",
+      "onboard_time": 1721216777,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104978,
@@ -2587,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45383,
+      "num": 307814,
+      "word": "小折手机体验终于站起来了",
+      "onboard_time": 1721218517,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45219,
       "num": 177485,
       "word": "梦想和班主任成为校友男生成功考上浙大",
@@ -2635,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37087,
+      "num": 400232,
+      "word": "为什么中国制造能行",
+      "onboard_time": 1721218637,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33690,
       "num": 44150,
       "word": "时代少年团对接回应演唱会",
@@ -2657,6 +2841,14 @@
       "onboard_time": 1721191820,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29632,
+      "num": 201679,
+      "word": "韩一男子在女店员杯中加入体液异物",
+      "onboard_time": 1721219477,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28259,
@@ -2689,6 +2881,14 @@
       "onboard_time": 1721155871,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15846,
+      "num": 326618,
+      "word": "中国提升全球贸易增长韧性",
+      "onboard_time": 1721218097,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15756,
@@ -2799,6 +2999,9 @@
     },
     {
       "word": "#我们要把命运掌握在自己手中#"
+    },
+    {
+      "word": "#当代中国人民最鲜明的精神标识#"
     }
   ]
 }

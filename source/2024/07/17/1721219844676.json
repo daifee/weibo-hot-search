@@ -1,0 +1,410 @@
+{
+  "runTime": 1721219844676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2841896,
+        "num": 2841896,
+        "word": "平台否认陆川被盗号",
+        "onboard_time": 1721216777,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411728,
+        "num": 411728,
+        "word": "深圳双彩虹",
+        "onboard_time": 1721214918,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37087,
+        "num": 400232,
+        "word": "为什么中国制造能行",
+        "onboard_time": 1721218637,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014253,
+        "num": 398902,
+        "word": "陆川发文删文手机设备一致",
+        "onboard_time": 1721217739,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395922,
+        "num": 395922,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336872,
+        "num": 336872,
+        "word": "陈鲁豫回应撞脸巴黎奥运会会徽",
+        "onboard_time": 1721218037,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 533560,
+        "num": 333608,
+        "word": "错位大结局",
+        "onboard_time": 1721217617,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480182,
+        "num": 330371,
+        "word": "长相思2西陵玖瑶名场面来了",
+        "onboard_time": 1721217317,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15846,
+        "num": 326618,
+        "word": "中国提升全球贸易增长韧性",
+        "onboard_time": 1721218097,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324560,
+        "num": 324560,
+        "word": "天生臭脸和天生笑脸的区别",
+        "onboard_time": 1721210298,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 817638,
+        "num": 320721,
+        "word": "Kris离职",
+        "onboard_time": 1721211259,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 517596,
+        "num": 313282,
+        "word": "Kris 王多多",
+        "onboard_time": 1721215399,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45383,
+        "num": 307814,
+        "word": "小折手机体验终于站起来了",
+        "onboard_time": 1721218517,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373238,
+        "num": 302193,
+        "word": "林一 不想做人很久了",
+        "onboard_time": 1721213237,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328619,
+        "num": 299152,
+        "word": "杨紫想让长相思2一天播完",
+        "onboard_time": 1721212159,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295721,
+        "num": 295721,
+        "word": "陆川公关",
+        "onboard_time": 1721218637,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278205,
+        "num": 278205,
+        "word": "薛之谦戒指",
+        "onboard_time": 1721206339,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277706,
+        "num": 277706,
+        "word": "秦彻 黎深",
+        "onboard_time": 1721217317,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236855,
+        "num": 236855,
+        "word": "中山大学9位哲学硕博生卖烤肠走红",
+        "onboard_time": 1721214618,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233348,
+        "num": 233348,
+        "word": "员工一年内因考勤被扣工资20.9万",
+        "onboard_time": 1721218996,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313634,
+        "num": 230166,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258243,
+        "num": 229257,
+        "word": "一次吃半个西瓜身体会发生啥",
+        "onboard_time": 1721205859,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215935,
+        "num": 215935,
+        "word": "日本高中生吃18禁超辣薯片被送医",
+        "onboard_time": 1721207119,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209713,
+        "num": 209713,
+        "word": "黄子弘凡美依礼芽牵手",
+        "onboard_time": 1721219117,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208984,
+        "num": 208984,
+        "word": "厕所小飞虫或会寄生在人体并引发感染",
+        "onboard_time": 1721206818,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203886,
+        "num": 203886,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198195,
+        "num": 203260,
+        "word": "一念关山导演探班刘宇宁",
+        "onboard_time": 1721218517,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202926,
+        "num": 202926,
+        "word": "李东海拍中国粉丝接机",
+        "onboard_time": 1721219177,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105822,
+        "num": 202827,
+        "word": "94岁院士让新疆戈壁长满甜甜的瓜",
+        "onboard_time": 1721216777,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29632,
+        "num": 201679,
+        "word": "韩一男子在女店员杯中加入体液异物",
+        "onboard_time": 1721219477,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336428,
+        "num": 200930,
+        "word": "张新成王玉雯拍吻戏下不去嘴",
+        "onboard_time": 1721210419,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146230,
+        "num": 199818,
+        "word": "腾讯游戏人脸识别策略升级",
+        "onboard_time": 1721218037,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199372,
+        "num": 199372,
+        "word": "呛奶去世婴儿父母与天鹅到家和解",
+        "onboard_time": 1721206219,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183238,
+        "num": 183238,
+        "word": "涂山璟明天别去清水镇",
+        "onboard_time": 1721219237,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166095,
+        "num": 166095,
+        "word": "自贡火灾",
+        "onboard_time": 1721219177,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157046,
+        "num": 157046,
+        "word": "戒指哥 我破防了",
+        "onboard_time": 1721215399,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150101,
+        "num": 150101,
+        "word": "相柳太虐了",
+        "onboard_time": 1721216416,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149113,
+        "num": 149113,
+        "word": "夏洛特烦恼和九层妖塔同一天上映",
+        "onboard_time": 1721219537,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137841,
+        "num": 137841,
+        "word": "钟南山院士否认病重传闻",
+        "onboard_time": 1721206759,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137396,
+        "num": 137396,
+        "word": "虞书欣搂姜妍的腰",
+        "onboard_time": 1721208438,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "刘强东章泽天看欧洲杯",
+        "onboard_time": 1721213418,
+        "rank": 40,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 135126,
+        "num": 135126,
+        "word": "陈泽安利斩神",
+        "onboard_time": 1721219599,
+        "rank": 41,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 132584,
+        "num": 132584,
+        "word": "九尾沈梦溪MVP",
+        "onboard_time": 1721216239,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126731,
+        "num": 126731,
+        "word": "宝马涨价后来看车的人变多了",
+        "onboard_time": 1721203698,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125637,
+        "num": 125637,
+        "word": "陆川方称账号被盗",
+        "onboard_time": 1721201718,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125341,
+        "num": 125341,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121896,
+        "num": 121896,
+        "word": "最伤腰的姿势",
+        "onboard_time": 1721211259,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121120,
+        "num": 121120,
+        "word": "TF家族运动会周边",
+        "onboard_time": 1721207299,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119739,
+        "num": 119739,
+        "word": "TES对战WBG",
+        "onboard_time": 1721217917,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118145,
+        "num": 118145,
+        "word": "双鱼座是反骨的典型代表",
+        "onboard_time": 1721219297,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#当代中国人民最鲜明的精神标识#"
+    }
+  }
+}
