@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721204709174,
+  "endTime": 1721205481622,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -323,20 +323,20 @@
       "category": "国外时政,体育"
     },
     {
+      "raw_hot": 1365348,
+      "num": 401566,
+      "word": "浙江一家8口确诊同种病一人患癌",
+      "onboard_time": 1721200518,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1364404,
       "num": 893384,
       "word": "吴昕不知道蒲熠星公开了女朋友",
       "onboard_time": 1721117718,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1346842,
-      "num": 368490,
-      "word": "浙江一家8口确诊同种病一人患癌",
-      "onboard_time": 1721200518,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1321572,
@@ -425,6 +425,14 @@
       "onboard_time": 1721053340,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1132311,
+      "num": 362192,
+      "word": "辛普森一家因特朗普遇刺停播",
+      "onboard_time": 1721200880,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1124416,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 721420,
-      "num": 251475,
+      "num": 260243,
       "word": "7岁女孩喷泉玩水后下体失血休克",
       "onboard_time": 1721194879,
       "rank": 20,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1721038877,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 693769,
-      "num": 362192,
-      "word": "辛普森一家因特朗普遇刺停播",
-      "onboard_time": 1721200880,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 692905,
@@ -1323,7 +1323,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625557,
+      "raw_hot": 633481,
       "num": 363818,
       "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
       "onboard_time": 1721199678,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442933,
+      "num": 365794,
+      "word": "杨紫久久出不了戏",
+      "onboard_time": 1721202020,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442615,
       "num": 442615,
       "word": "夭玹决裂名场面",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1720930645,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 420938,
+      "num": 351057,
+      "word": "月亮姐姐被吓到假睫毛掉了",
+      "onboard_time": 1721203099,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 420299,
@@ -2787,8 +2803,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363295,
-      "num": 363295,
+      "raw_hot": 364920,
+      "num": 364920,
       "word": "解说kris疑似辞职",
       "onboard_time": 1721201178,
       "rank": 19,
@@ -2801,14 +2817,6 @@
       "onboard_time": 1720912994,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 362017,
-      "num": 362017,
-      "word": "杨紫久久出不了戏",
-      "onboard_time": 1721202020,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 360963,
@@ -3059,6 +3067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 337399,
+      "num": 337399,
+      "word": "宝马涨价后来看车的人变多了",
+      "onboard_time": 1721203698,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 333526,
       "num": 333526,
       "word": "凯特王妃为阿尔卡拉斯颁奖",
@@ -3275,6 +3291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311910,
+      "num": 311910,
+      "word": "大鹏 都选C",
+      "onboard_time": 1721203639,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311881,
       "num": 311881,
       "word": "沈腾马丽谈退休",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1720920621,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306304,
-      "num": 306304,
-      "word": "月亮姐姐被吓到假睫毛掉了",
-      "onboard_time": 1721203099,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 305843,
@@ -3715,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277802,
+      "num": 258519,
+      "word": "办公室7个人天天为空调吵架",
+      "onboard_time": 1721200399,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277337,
       "num": 277337,
       "word": "王者梦之队大名单",
@@ -3907,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261307,
+      "num": 261307,
+      "word": "泰国酒店6人死亡案告破",
+      "onboard_time": 1721203339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261224,
       "num": 256510,
       "word": "亚马尔16岁为家人买三套房",
@@ -3987,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254868,
+      "num": 254868,
+      "word": "薛之谦鸟巢演唱会",
+      "onboard_time": 1721204359,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253801,
       "num": 253801,
       "word": "百度回应武汉萝卜快跑停运",
@@ -4051,12 +4091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251400,
-      "num": 225178,
-      "word": "办公室7个人天天为空调吵架",
-      "onboard_time": 1721200399,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 251716,
+      "num": 251716,
+      "word": "INFJ一定是J人里面最拖延的",
+      "onboard_time": 1721203039,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 250653,
@@ -4257,14 +4297,6 @@
       "onboard_time": 1721175858,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240553,
-      "num": 240553,
-      "word": "大鹏 都选C",
-      "onboard_time": 1721203639,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 240107,
@@ -4699,14 +4731,6 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 214318,
-      "num": 214318,
-      "word": "泰国酒店6人死亡案告破",
-      "onboard_time": 1721203339,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214272,
       "num": 214272,
       "word": "张晚意第一次踏进苗寨",
@@ -4771,14 +4795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210635,
-      "num": 210635,
-      "word": "宝马涨价后来看车的人变多了",
-      "onboard_time": 1721203698,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 210071,
       "num": 210071,
       "word": "给12岁失业的弟找了份高薪工作",
@@ -4816,6 +4832,14 @@
       "word": "邓为涂山璟人夫感",
       "onboard_time": 1721051598,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208853,
+      "num": 208853,
+      "word": "邓为炒螺蛳粉失败了",
+      "onboard_time": 1721204839,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5339,14 +5363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 196467,
-      "num": 196467,
-      "word": "INFJ一定是J人里面最拖延的",
-      "onboard_time": 1721203039,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196315,
       "num": 196315,
       "word": "苏容卿一边毁灭一边求全",
@@ -5529,14 +5545,6 @@
       "onboard_time": 1721110099,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191695,
-      "num": 191695,
-      "word": "薛之谦鸟巢演唱会",
-      "onboard_time": 1721204359,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 191655,
@@ -5897,6 +5905,14 @@
       "onboard_time": 1720936824,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183331,
+      "num": 183331,
+      "word": "上饶交警",
+      "onboard_time": 1721201238,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 183148,
@@ -6627,6 +6643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "这些零食是炎症炸弹",
+      "onboard_time": 1721196979,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162551,
       "num": 162551,
       "word": "肖战YSL广告大片",
@@ -6667,6 +6691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160604,
+      "num": 160604,
+      "word": "驴得水",
+      "onboard_time": 1721202740,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160555,
       "num": 160555,
       "word": "长相思",
@@ -6681,14 +6713,6 @@
       "onboard_time": 1721196740,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160066,
-      "num": 160066,
-      "word": "驴得水",
-      "onboard_time": 1721202740,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 159819,
@@ -6785,14 +6809,6 @@
       "onboard_time": 1721035818,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158069,
-      "num": 158069,
-      "word": "这些零食是炎症炸弹",
-      "onboard_time": 1721196979,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158059,
@@ -7195,14 +7211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148856,
-      "num": 148856,
-      "word": "上饶交警",
-      "onboard_time": 1721201238,
-      "rank": 35,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 148399,
       "num": 148399,
       "word": "余承东回应经常挨任正非批评",
@@ -7297,6 +7305,14 @@
       "onboard_time": 1721106259,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146822,
+      "num": 362559,
+      "word": "我给AI当老师月入过万",
+      "onboard_time": 1721203219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146638,
@@ -7497,6 +7513,14 @@
       "onboard_time": 1720966881,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141027,
+      "num": 141027,
+      "word": "手机壳价格",
+      "onboard_time": 1721204359,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 140975,
@@ -7835,6 +7859,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 133304,
+      "num": 387570,
+      "word": "一座城市city不city走走才知道",
+      "onboard_time": 1721201418,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 133272,
       "num": 133272,
       "word": "索尼A9M3",
@@ -7993,14 +8025,6 @@
       "onboard_time": 1721119280,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 130065,
-      "num": 379022,
-      "word": "一座城市city不city走走才知道",
-      "onboard_time": 1721201418,
-      "rank": 8,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 129972,
@@ -8404,7 +8428,7 @@
     },
     {
       "raw_hot": 121943,
-      "num": 134819,
+      "num": 363174,
       "word": "夏日盐湖是懂色彩搭配的",
       "onboard_time": 1721200819,
       "rank": 44,
@@ -8531,14 +8555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118390,
-      "num": 118390,
-      "word": "手机壳价格",
-      "onboard_time": 1721204359,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 118370,
       "num": 118370,
       "word": "西班牙2比1英格兰",
@@ -8561,6 +8577,14 @@
       "onboard_time": 1721098277,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117955,
+      "num": 117955,
+      "word": "拜登称若有重要健康问题将退选",
+      "onboard_time": 1721204478,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 117930,
@@ -8665,6 +8689,14 @@
       "onboard_time": 1721139140,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113552,
+      "num": 113552,
+      "word": "原来谈恋爱是在谈一种能力",
+      "onboard_time": 1721192178,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 113251,
@@ -9003,14 +9035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104040,
-      "num": 104040,
-      "word": "拜登称若有重要健康问题将退选",
-      "onboard_time": 1721204478,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 103347,
       "num": 103347,
       "word": "好多明星去看了温网女单决赛",
@@ -9251,14 +9275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88175,
-      "num": 362559,
-      "word": "我给AI当老师月入过万",
-      "onboard_time": 1721203219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87759,
       "num": 1026987,
       "word": "这就是独属于中国的文化自信",
@@ -9353,6 +9369,14 @@
       "onboard_time": 1720992251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80406,
+      "num": 329632,
+      "word": "宝鸡暴雨多辆汽车被冲走",
+      "onboard_time": 1721203578,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80345,
@@ -10065,14 +10089,6 @@
       "onboard_time": 1720931185,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 52580,
-      "num": 329632,
-      "word": "宝鸡暴雨多辆汽车被冲走",
-      "onboard_time": 1721203578,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51861,
