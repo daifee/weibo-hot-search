@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721236649699,
+  "endTime": 1721237697895,
   "band_list": [
     {
       "raw_hot": 862489,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136463,
+      "num": 136463,
+      "word": "原神 龙王转圈",
+      "onboard_time": 1721235734,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129749,
       "num": 188148,
       "word": "宋亚轩刘耀文同款T恤",
@@ -265,14 +273,6 @@
       "onboard_time": 1721227339,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89381,
-      "num": 89381,
-      "word": "原神 龙王转圈",
-      "onboard_time": 1721235734,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 88404,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51017,
+      "num": 91102,
+      "word": "低质强碱性搞笑片",
+      "onboard_time": 1721236394,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43332,
       "num": 188246,
       "word": "消防员一次次潜入洪水开锁救人",
@@ -411,28 +419,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42909,
-      "num": 86438,
-      "word": "低质强碱性搞笑片",
-      "onboard_time": 1721236394,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 42363,
+      "num": 90241,
+      "word": "好小众的爆痘方式",
+      "onboard_time": 1721236873,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 36581,
-      "num": 86412,
+      "num": 88432,
       "word": "文韬好会撒娇啊",
       "onboard_time": 1721235196,
       "rank": 47,
       "category": "综艺"
     },
     {
-      "raw_hot": 27299,
-      "num": 86455,
+      "raw_hot": 31616,
+      "num": 90554,
       "word": "三伏天真的适合减肥吗",
       "onboard_time": 1721235854,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 29947,
+      "num": 88028,
+      "word": "黄子弘凡美依礼芽牵手",
+      "onboard_time": 1721219117,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 23740,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 13630,
-      "num": 88624,
+      "num": 121109,
       "word": "清洁工人捡起了误入马路的小猫",
       "onboard_time": 1721235973,
       "rank": 9,
