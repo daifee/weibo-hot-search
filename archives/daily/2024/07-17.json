@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721201796965,
+  "endTime": 1721204709174,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -17,6 +17,14 @@
       "onboard_time": 1721196858,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1346842,
+      "num": 368490,
+      "word": "浙江一家8口确诊同种病一人患癌",
+      "onboard_time": 1721200518,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321572,
@@ -179,6 +187,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 706950,
+      "num": 397368,
+      "word": "陆川方称账号被盗",
+      "onboard_time": 1721201718,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 693769,
+      "num": 362192,
+      "word": "辛普森一家因特朗普遇刺停播",
+      "onboard_time": 1721200880,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 692905,
       "num": 355772,
       "word": "特朗普私下谈遭枪击感受",
@@ -201,6 +225,14 @@
       "onboard_time": 1721174057,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 625557,
+      "num": 363818,
+      "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+      "onboard_time": 1721199678,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609396,
@@ -283,14 +315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 497730,
-      "num": 397368,
-      "word": "陆川方称账号被盗",
-      "onboard_time": 1721201718,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468389,
       "num": 417039,
       "word": "湖南一地路边立有禁止强奸幼女标牌",
@@ -337,14 +361,6 @@
       "onboard_time": 1721185699,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434919,
-      "num": 363818,
-      "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
-      "onboard_time": 1721199678,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431588,
@@ -459,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363295,
+      "num": 363295,
+      "word": "解说kris疑似辞职",
+      "onboard_time": 1721201178,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 362017,
+      "num": 362017,
+      "word": "杨紫久久出不了戏",
+      "onboard_time": 1721202020,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360519,
       "num": 360519,
       "word": "原神 那维莱特",
@@ -473,14 +505,6 @@
       "onboard_time": 1721195778,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349672,
-      "num": 349672,
-      "word": "浙江一家8口确诊同种病一人患癌",
-      "onboard_time": 1721200518,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339282,
@@ -505,6 +529,14 @@
       "onboard_time": 1721127378,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323326,
+      "num": 323326,
+      "word": "肖战射雕英雄传年底或明年上映",
+      "onboard_time": 1721201778,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 322465,
@@ -569,6 +601,14 @@
       "onboard_time": 1721190501,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 306304,
+      "num": 306304,
+      "word": "月亮姐姐被吓到假睫毛掉了",
+      "onboard_time": 1721203099,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 304767,
@@ -675,12 +715,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 252010,
-      "num": 252010,
-      "word": "解说kris疑似辞职",
-      "onboard_time": 1721201178,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 251400,
+      "num": 225178,
+      "word": "办公室7个人天天为空调吵架",
+      "onboard_time": 1721200399,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247684,
@@ -697,6 +737,14 @@
       "onboard_time": 1721171895,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247242,
+      "num": 225940,
+      "word": "原神时隔多版本以bug为由削弱角色",
+      "onboard_time": 1721201958,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 247095,
@@ -721,6 +769,14 @@
       "onboard_time": 1721175858,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240553,
+      "num": 240553,
+      "word": "大鹏 都选C",
+      "onboard_time": 1721203639,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 233303,
@@ -779,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 215426,
-      "num": 190381,
-      "word": "辛普森一家因特朗普遇刺停播",
-      "onboard_time": 1721200880,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 214456,
       "num": 222398,
       "word": "王俊凯新歌成为英雄试听",
@@ -795,20 +843,28 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 214318,
+      "num": 214318,
+      "word": "泰国酒店6人死亡案告破",
+      "onboard_time": 1721203339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210635,
+      "num": 210635,
+      "word": "宝马涨价后来看车的人变多了",
+      "onboard_time": 1721203698,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208606,
       "num": 208606,
       "word": "章若楠头像",
       "onboard_time": 1721191519,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208558,
-      "num": 208558,
-      "word": "肖战射雕英雄传年底或明年上映",
-      "onboard_time": 1721201778,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 206811,
@@ -891,14 +947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 201991,
-      "num": 201991,
-      "word": "办公室7个人天天为空调吵架",
-      "onboard_time": 1721200399,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201792,
       "num": 201792,
       "word": "阿根廷球员疑似种族歧视",
@@ -921,6 +969,14 @@
       "onboard_time": 1721180898,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196467,
+      "num": 196467,
+      "word": "INFJ一定是J人里面最拖延的",
+      "onboard_time": 1721203039,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 195884,
@@ -977,6 +1033,14 @@
       "onboard_time": 1721136019,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191695,
+      "num": 191695,
+      "word": "薛之谦鸟巢演唱会",
+      "onboard_time": 1721204359,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 191240,
@@ -1131,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172325,
+      "num": 172325,
+      "word": "陆川 老沈是哥们小史是亲弟",
+      "onboard_time": 1721202438,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171403,
       "num": 171403,
       "word": "原神",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1721196740,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "驴得水",
+      "onboard_time": 1721202740,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 158931,
@@ -1331,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148856,
+      "num": 148856,
+      "word": "上饶交警",
+      "onboard_time": 1721201238,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 147205,
       "num": 147205,
       "word": "唐诡西行西游记这不就对上了",
@@ -1419,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130065,
+      "num": 379022,
+      "word": "一座城市city不city走走才知道",
+      "onboard_time": 1721201418,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 129972,
       "num": 129972,
       "word": "湖大到底是哪所大学",
@@ -1435,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126439,
+      "num": 126439,
+      "word": "现实中的西虹市原来藏在青岛",
+      "onboard_time": 1721203519,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124565,
       "num": 124565,
       "word": "队友主动让崔永熙罚球",
@@ -1449,6 +1553,14 @@
       "onboard_time": 1721146039,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123590,
+      "num": 123590,
+      "word": "尼日利亚警察性侵17岁求助少女",
+      "onboard_time": 1721202679,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123505,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1721141539,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118390,
+      "num": 118390,
+      "word": "手机壳价格",
+      "onboard_time": 1721204359,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 117819,
@@ -1619,6 +1739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104040,
+      "num": 104040,
+      "word": "拜登称若有重要健康问题将退选",
+      "onboard_time": 1721204478,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101224,
       "num": 101224,
       "word": "武汉一外卖小哥背着AED送外卖",
@@ -1657,6 +1785,14 @@
       "onboard_time": 1721154312,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88175,
+      "num": 362559,
+      "word": "我给AI当老师月入过万",
+      "onboard_time": 1721203219,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88135,
@@ -1867,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52580,
+      "num": 329632,
+      "word": "宝鸡暴雨多辆汽车被冲走",
+      "onboard_time": 1721203578,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50788,
       "num": 52711,
       "word": "苹果续创历史收盘新高",
@@ -1953,14 +2097,6 @@
       "onboard_time": 1721199019,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37475,
-      "num": 379022,
-      "word": "一座城市city不city走走才知道",
-      "onboard_time": 1721201418,
-      "rank": 8,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 33690,

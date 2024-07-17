@@ -1,0 +1,410 @@
+{
+  "runTime": 1721204709174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908298,
+        "num": 1145327,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446519,
+        "num": 446519,
+        "word": "BBA涨价",
+        "onboard_time": 1721198118,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 368739,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1346842,
+        "num": 368490,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363295,
+        "num": 363295,
+        "word": "解说kris疑似辞职",
+        "onboard_time": 1721201178,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130065,
+        "num": 363251,
+        "word": "一座城市city不city走走才知道",
+        "onboard_time": 1721201418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706950,
+        "num": 363111,
+        "word": "陆川方称账号被盗",
+        "onboard_time": 1721201718,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 486044,
+        "num": 362870,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390525,
+        "num": 362782,
+        "word": "749局",
+        "onboard_time": 1721199317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88175,
+        "num": 362559,
+        "word": "我给AI当老师月入过万",
+        "onboard_time": 1721203219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818629,
+        "num": 362398,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 693769,
+        "num": 362192,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 625557,
+        "num": 362137,
+        "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+        "onboard_time": 1721199678,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362017,
+        "num": 362017,
+        "word": "杨紫久久出不了戏",
+        "onboard_time": 1721202020,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52580,
+        "num": 329632,
+        "word": "宝鸡暴雨多辆汽车被冲走",
+        "onboard_time": 1721203578,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323326,
+        "num": 323326,
+        "word": "肖战射雕英雄传年底或明年上映",
+        "onboard_time": 1721201778,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306304,
+        "num": 306304,
+        "word": "月亮姐姐被吓到假睫毛掉了",
+        "onboard_time": 1721203099,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240553,
+        "num": 240553,
+        "word": "大鹏 都选C",
+        "onboard_time": 1721203639,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237968,
+        "num": 237968,
+        "word": "男子在731部队罪证陈列馆穿太阳旗图案T恤",
+        "onboard_time": 1721191760,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227204,
+        "num": 227204,
+        "word": "大模型测不出9.11和9.9哪个大",
+        "onboard_time": 1721192420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247242,
+        "num": 225940,
+        "word": "原神时隔多版本以bug为由削弱角色",
+        "onboard_time": 1721201958,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347402,
+        "num": 225231,
+        "word": "7岁女孩喷泉玩水后下体失血休克",
+        "onboard_time": 1721194879,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251400,
+        "num": 225178,
+        "word": "办公室7个人天天为空调吵架",
+        "onboard_time": 1721200399,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223789,
+        "num": 223789,
+        "word": "第一批和AI恋爱的年轻人已经失恋了",
+        "onboard_time": 1721196018,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214318,
+        "num": 214318,
+        "word": "泰国酒店6人死亡案告破",
+        "onboard_time": 1721203339,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210635,
+        "num": 210635,
+        "word": "宝马涨价后来看车的人变多了",
+        "onboard_time": 1721203698,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 198956,
+        "word": "王海称李佳琦小杨哥卖假和田玉",
+        "onboard_time": 1721197158,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196467,
+        "num": 196467,
+        "word": "INFJ一定是J人里面最拖延的",
+        "onboard_time": 1721203039,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191695,
+        "num": 191695,
+        "word": "薛之谦鸟巢演唱会",
+        "onboard_time": 1721204359,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188280,
+        "num": 188280,
+        "word": "看见了二十岁最好看的模样",
+        "onboard_time": 1721201059,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172325,
+        "num": 172325,
+        "word": "陆川 老沈是哥们小史是亲弟",
+        "onboard_time": 1721202438,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169572,
+        "num": 169572,
+        "word": "外媒评王一博巴黎传递火炬",
+        "onboard_time": 1721201297,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168262,
+        "num": 168262,
+        "word": "李梦 性感衣服跳出广播体操感",
+        "onboard_time": 1721192720,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162114,
+        "num": 162114,
+        "word": "上海丁克夫妻半退休20年",
+        "onboard_time": 1721188878,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160066,
+        "num": 160066,
+        "word": "驴得水",
+        "onboard_time": 1721202740,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148856,
+        "num": 148856,
+        "word": "上饶交警",
+        "onboard_time": 1721201238,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143813,
+        "num": 143813,
+        "word": "这些零食是炎症炸弹",
+        "onboard_time": 1721196979,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143340,
+        "num": 143340,
+        "word": "感觉朋友圈的味道越来越怪",
+        "onboard_time": 1721185517,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136161,
+        "num": 136161,
+        "word": "杨丞琳回归歌手",
+        "onboard_time": 1721195778,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133741,
+        "num": 133741,
+        "word": "拜登说哈里斯将来可能是美国总统",
+        "onboard_time": 1721199497,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127192,
+        "num": 127192,
+        "word": "歌手突围赛阵容",
+        "onboard_time": 1721189838,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126439,
+        "num": 126439,
+        "word": "现实中的西虹市原来藏在青岛",
+        "onboard_time": 1721203519,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125146,
+        "num": 125146,
+        "word": "TheShy找小钰要陪玩费",
+        "onboard_time": 1721199198,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123590,
+        "num": 123590,
+        "word": "尼日利亚警察性侵17岁求助少女",
+        "onboard_time": 1721202679,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120481,
+        "num": 120481,
+        "word": "手机壳正在服装化",
+        "onboard_time": 1721187199,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118390,
+        "num": 118390,
+        "word": "手机壳价格",
+        "onboard_time": 1721204359,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 115976,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 110095,
+        "word": "小彩旗英国大学毕业",
+        "onboard_time": 1721193197,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104040,
+        "num": 104040,
+        "word": "拜登称若有重要健康问题将退选",
+        "onboard_time": 1721204478,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 103047,
+        "num": 103047,
+        "word": "王者水墨武侠皮肤",
+        "onboard_time": 1721199198,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革近镜头#"
+    }
+  }
+}
