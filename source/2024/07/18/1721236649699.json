@@ -1,0 +1,410 @@
+{
+  "runTime": 1721236649699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 417998,
+        "num": 528147,
+        "word": "陈意涵 我来自中国台湾",
+        "onboard_time": 1721223798,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322177,
+        "num": 322177,
+        "word": "iPhone17不使用节省空间的主板材料",
+        "onboard_time": 1721228537,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14316,
+        "num": 205826,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176404,
+        "num": 176404,
+        "word": "平台否认陆川被盗号",
+        "onboard_time": 1721216777,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173743,
+        "num": 173743,
+        "word": "四川一百货大楼起火已致6人遇难",
+        "onboard_time": 1721227101,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89381,
+        "num": 89381,
+        "word": "原神 龙王转圈",
+        "onboard_time": 1721235734,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167828,
+        "num": 89285,
+        "word": "陆川发文删文手机设备一致",
+        "onboard_time": 1721217739,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149763,
+        "num": 88987,
+        "word": "赵露思新剧穿了高定",
+        "onboard_time": 1721225299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76696,
+        "num": 88919,
+        "word": "普华永道将裁一半在华金融审计员工",
+        "onboard_time": 1721225538,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13630,
+        "num": 88624,
+        "word": "清洁工人捡起了误入马路的小猫",
+        "onboard_time": 1721235973,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323130,
+        "num": 88466,
+        "word": "Kris离职",
+        "onboard_time": 1721211259,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238641,
+        "num": 88188,
+        "word": "孙颖莎离大满贯只差一枚奥运女单金牌",
+        "onboard_time": 1721232797,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199560,
+        "num": 87936,
+        "word": "美国男子将2岁女儿扔车内晒死",
+        "onboard_time": 1721228298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184331,
+        "num": 87772,
+        "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
+        "onboard_time": 1721224219,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177804,
+        "num": 87555,
+        "word": "Kris 王多多",
+        "onboard_time": 1721215399,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136804,
+        "num": 87284,
+        "word": "薛之谦演唱会嘉宾是大鹏",
+        "onboard_time": 1721222959,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 87000,
+        "word": "白鹿直播状态",
+        "onboard_time": 1721225358,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131402,
+        "num": 86914,
+        "word": "杨紫知道白玉兰提名的反应",
+        "onboard_time": 1721228298,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129718,
+        "num": 86677,
+        "word": "涂山璟我是你全家的仆人",
+        "onboard_time": 1721223439,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86477,
+        "num": 86477,
+        "word": "赤辰道歉",
+        "onboard_time": 1721224998,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99048,
+        "num": 86476,
+        "word": "建议大家下班回家立刻洗漱",
+        "onboard_time": 1721220258,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77123,
+        "num": 86474,
+        "word": "员工一年内因考勤被扣工资20.9万",
+        "onboard_time": 1721218996,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73810,
+        "num": 86472,
+        "word": "爱奇艺2024大剧片单",
+        "onboard_time": 1721223978,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71207,
+        "num": 86469,
+        "word": "错位大结局",
+        "onboard_time": 1721217617,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59377,
+        "num": 86466,
+        "word": "抓娃娃进入2024年内地票房榜前十",
+        "onboard_time": 1721226197,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56795,
+        "num": 86464,
+        "word": "十年前14000买的钻戒如今不值200块",
+        "onboard_time": 1721220438,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56316,
+        "num": 86462,
+        "word": "鞠婧祎纯欲穿搭",
+        "onboard_time": 1721221519,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54200,
+        "num": 86459,
+        "word": "林一 不想做人很久了",
+        "onboard_time": 1721213237,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49949,
+        "num": 86459,
+        "word": "中山大学9位哲学硕博生卖烤肠走红",
+        "onboard_time": 1721214618,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27299,
+        "num": 86455,
+        "word": "三伏天真的适合减肥吗",
+        "onboard_time": 1721235854,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53913,
+        "num": 86454,
+        "word": "发了个妈味十足的朋友圈",
+        "onboard_time": 1721233396,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49118,
+        "num": 86451,
+        "word": "官方通报自贡九鼎购物广场火灾",
+        "onboard_time": 1721226919,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48915,
+        "num": 86448,
+        "word": "Tian 该祝69生日快乐了",
+        "onboard_time": 1721231597,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46602,
+        "num": 86446,
+        "word": "薛之谦戒指",
+        "onboard_time": 1721206339,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44147,
+        "num": 86442,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43231,
+        "num": 86442,
+        "word": "王星越定风波海报",
+        "onboard_time": 1721228719,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42909,
+        "num": 86438,
+        "word": "低质强碱性搞笑片",
+        "onboard_time": 1721236394,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42573,
+        "num": 86436,
+        "word": "长相思2西陵玖瑶名场面来了",
+        "onboard_time": 1721217317,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42986,
+        "num": 86435,
+        "word": "苏醒为薛之谦庆生",
+        "onboard_time": 1721225478,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42173,
+        "num": 86431,
+        "word": "宋亚轩刘耀文同款T恤",
+        "onboard_time": 1721227940,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41178,
+        "num": 86430,
+        "word": "双鱼座是反骨的典型代表",
+        "onboard_time": 1721219297,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41044,
+        "num": 86428,
+        "word": "时代峰峻北京的新公司",
+        "onboard_time": 1721221460,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40645,
+        "num": 86425,
+        "word": "建议列入北影教材",
+        "onboard_time": 1721223619,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39219,
+        "num": 86421,
+        "word": "四川自贡一百货大楼起火",
+        "onboard_time": 1721221159,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39149,
+        "num": 86419,
+        "word": "格局被禁赛两场",
+        "onboard_time": 1721229618,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37555,
+        "num": 86418,
+        "word": "多家汽车品牌退出价格战",
+        "onboard_time": 1721229978,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36590,
+        "num": 86417,
+        "word": "戒指哥 我破防了",
+        "onboard_time": 1721215399,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36581,
+        "num": 86412,
+        "word": "文韬好会撒娇啊",
+        "onboard_time": 1721235196,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34672,
+        "num": 86411,
+        "word": "涂山璟明天别去清水镇",
+        "onboard_time": 1721219237,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32816,
+        "num": 86410,
+        "word": "陶喆 一念之间",
+        "onboard_time": 1721229799,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习领悟总书记全面深化改革方法论#"
+    }
+  }
+}
