@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/17 00:23:40 ~ 2024/07/17 14:27:51
+本榜单时间：2024/07/17 00:23:40 ~ 2024/07/17 14:40:31
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E7%BE%BD%E5%8D%8F%E4%B8%8D%E5%86%8D%E5%AF%B9%E5%BC%A0%E5%BF%97%E6%9D%B0%E9%81%97%E4%BD%93%E8%B4%9F%E8%B4%A3%23" target="weibo">
 印尼羽协不再对张志杰遗体负责（热度：1280600）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E5%B7%9D%E8%AF%B4%E6%8A%93%E5%A8%83%E5%A8%83%E6%98%AF%E4%BD%8E%E8%B4%A8%E5%BC%BA%E7%A2%B1%E6%80%A7%E6%90%9E%E7%AC%91%E7%89%87%23" target="weibo">
+陆川说抓娃娃是低质强碱性搞笑片（热度：1165883）
 </a>
 </li>
 
@@ -123,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B5%8B%E4%B8%8D%E5%87%BA9.11%E5%92%8C9.9%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
+大模型测不出9.11和9.9哪个大（热度：714599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E6%9C%8D%E8%A3%85%E5%8C%96%23" target="weibo">
 手机壳正在服装化（热度：706980）
 </a>
@@ -131,12 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%81%E4%B8%8B%E8%B0%88%E9%81%AD%E6%9E%AA%E5%87%BB%E6%84%9F%E5%8F%97%23" target="weibo">
 特朗普私下谈遭枪击感受（热度：692905）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B5%8B%E4%B8%8D%E5%87%BA9.11%E5%92%8C9.9%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
-大模型测不出9.11和9.9哪个大（热度：689353）
 </a>
 </li>
 
@@ -191,12 +197,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BD%A9%E6%97%97%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23" target="weibo">
 小彩旗英国大学毕业（热度：522441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E5%B7%9D%E8%AF%B4%E6%8A%93%E5%A8%83%E5%A8%83%E6%98%AF%E4%BD%8E%E8%B4%A8%E5%BC%BA%E7%A2%B1%E6%80%A7%E6%90%9E%E7%AC%91%E7%89%87%23" target="weibo">
-陆川说抓娃娃是低质强碱性搞笑片（热度：508119）
 </a>
 </li>
 
@@ -322,7 +322,13 @@ Jennie朴彩英最新同框（热度：418744）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%9B%9E%E5%BD%92%E6%AD%8C%E6%89%8B%23" target="weibo">
-杨丞琳回归歌手（热度：352583）
+杨丞琳回归歌手（热度：360363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%B4%A9%E4%BA%86%23" target="weibo">
+古茗崩了（热度：339282）
 </a>
 </li>
 
@@ -399,6 +405,12 @@ Jennie朴彩英最新同框（热度：418744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E7%BA%B3%E6%B2%B3%E6%B0%B4%E8%B4%A8%E6%9C%80%E8%BF%91%E4%B8%8D%E9%80%82%E5%AE%9C%E4%B8%8B%E6%B0%B4%E6%AF%94%E8%B5%9B%23" target="weibo">
+塞纳河水质最近不适宜下水比赛（热度：286827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%BE%E5%BC%83%E6%B8%85%E5%8D%8E%E6%8A%A5%E8%80%83%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%23" target="weibo">
 男生放弃清华报考国防科大（热度：276950）
 </a>
@@ -407,12 +419,6 @@ Jennie朴彩英最新同框（热度：418744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%8F%A3%E4%BB%A4%23" target="weibo">
 古茗口令（热度：276058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E7%BA%B3%E6%B2%B3%E6%B0%B4%E8%B4%A8%E6%9C%80%E8%BF%91%E4%B8%8D%E9%80%82%E5%AE%9C%E4%B8%8B%E6%B0%B4%E6%AF%94%E8%B5%9B%23" target="weibo">
-塞纳河水质最近不适宜下水比赛（热度：274364）
 </a>
 </li>
 
@@ -447,6 +453,12 @@ Jennie朴彩英最新同框（热度：418744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E7%A7%B0%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8D%96%E5%81%87%E5%92%8C%E7%94%B0%E7%8E%89%23" target="weibo">
+王海称李佳琦小杨哥卖假和田玉（热度：255274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%20%E4%BA%8C%E5%8D%81%E4%BA%8C%23" target="weibo">
 陶喆 二十二（热度：253099）
 </a>
@@ -473,12 +485,6 @@ Kakao将出售SM等子公司（热度：247095）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%B0%88%E6%81%8B%E7%88%B1%E5%9C%A8%E6%98%AF%E8%B0%88%E4%B8%80%E7%A7%8D%E8%83%BD%E5%8A%9B%23" target="weibo">
 原来谈恋爱在是谈一种能力（热度：244883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%B4%A9%E4%BA%86%23" target="weibo">
-古茗崩了（热度：242681）
 </a>
 </li>
 
@@ -525,8 +531,20 @@ Uzi回应不如JackeyLove（热度：223645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%92%8CAI%E6%81%8B%E7%88%B1%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%A4%B1%E6%81%8B%E4%BA%86%23" target="weibo">
+第一批和AI恋爱的年轻人已经失恋了（热度：220591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E5%8C%85%E5%9C%BA%E6%8A%93%E5%A8%83%E5%A8%83%23" target="weibo">
 宋亚轩刘耀文包场抓娃娃（热度：218851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E6%AD%8C%E6%88%90%E4%B8%BA%E8%8B%B1%E9%9B%84%E8%AF%95%E5%90%AC%23" target="weibo">
+王俊凯新歌成为英雄试听（热度：214456）
 </a>
 </li>
 
@@ -539,12 +557,6 @@ Uzi回应不如JackeyLove（热度：223645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BF%E7%90%83%E5%91%98%E9%9B%86%E4%BD%93%E5%8F%96%E5%85%B3%E6%81%A9%E4%BD%90%23" target="weibo">
 切尔西球员集体取关恩佐（热度：206811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E6%AD%8C%E6%88%90%E4%B8%BA%E8%8B%B1%E9%9B%84%E8%AF%95%E5%90%AC%23" target="weibo">
-王俊凯新歌成为英雄试听（热度：206446）
 </a>
 </li>
 
@@ -563,6 +575,12 @@ Uzi回应不如JackeyLove（热度：223645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BD%A0%E6%88%91%E4%B9%9F%E6%98%AF%23" target="weibo">
 喜欢你我也是（热度：204294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E5%B7%9D%23" target="weibo">
+陆川（热度：203390）
 </a>
 </li>
 
@@ -681,12 +699,6 @@ Uzi回应不如JackeyLove（热度：223645）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E7%A7%B0%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%8D%96%E5%81%87%E5%92%8C%E7%94%B0%E7%8E%89%23" target="weibo">
-王海称李佳琦小杨哥卖假和田玉（热度：188595）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E4%BD%8D%23" target="weibo">
 错位（热度：188558）
 </a>
@@ -765,6 +777,12 @@ Uzi回应不如JackeyLove（热度：223645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%8E%8B%E5%8B%89%E6%BC%94%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
+何炅王勉演起来了（热度：163386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E5%85%AB%E5%88%86%E4%B9%8B%E4%B8%80%E8%A3%A4%E5%AD%90%E8%A2%AB%E6%8C%82%E5%A2%99%E4%B8%8A%23" target="weibo">
 刘翔回应八分之一裤子被挂墙上（热度：162106）
 </a>
@@ -801,6 +819,12 @@ Ning回应不和Uzi组排（热度：158931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%98%E5%85%B3%E6%B0%B4%E5%AE%A2%E6%88%BF%E8%A2%AB%E6%B7%B9%E5%8F%98%E8%B5%B6%E6%B5%B7%E6%88%BF%23" target="weibo">
+住酒店忘关水客房被淹变赶海房（热度：154489）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E5%85%AC%E5%8F%B8%E6%9C%80%E5%B0%8F%E7%9A%84%23" target="weibo">
 刘耀文以为自己是公司最小的（热度：154291）
 </a>
@@ -815,6 +839,18 @@ Ning回应不和Uzi组排（热度：158931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%9C%A8%E7%A9%BA%E8%B0%83%E6%88%BF%E9%87%8C%E7%8E%A9%E5%97%A8%E4%BA%86%23" target="weibo">
 花花在空调房里玩嗨了（热度：153209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BBA%E6%B6%A8%E4%BB%B7%23" target="weibo">
+BBA涨价（热度：153036）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%9B%B6%E9%A3%9F%E6%98%AF%E7%82%8E%E7%97%87%E7%82%B8%E5%BC%B9%23" target="weibo">
+这些零食是炎症炸弹（热度：152686）
 </a>
 </li>
 
@@ -863,18 +899,6 @@ Ning回应不和Uzi组排（热度：158931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%91%98%E5%B7%A5%E6%B2%A1%E4%BA%8B%E5%93%92%E6%B2%A1%E4%BA%8B%E5%93%92%23" target="weibo">
 古茗员工没事哒没事哒（热度：143580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E5%BF%98%E5%85%B3%E6%B0%B4%E5%AE%A2%E6%88%BF%E8%A2%AB%E6%B7%B9%E5%8F%98%E8%B5%B6%E6%B5%B7%E6%88%BF%23" target="weibo">
-住酒店忘关水客房被淹变赶海房（热度：142381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%9B%B6%E9%A3%9F%E6%98%AF%E7%82%8E%E7%97%87%E7%82%B8%E5%BC%B9%23" target="weibo">
-这些零食是炎症炸弹（热度：140369）
 </a>
 </li>
 
@@ -993,6 +1017,12 @@ Ning回应不和Uzi组排（热度：158931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%BD%A0%E5%88%AB%E5%A4%AA%E7%88%B1%E7%8C%B4%E5%93%A5%E4%BA%86%23" target="weibo">
+谭松韵你别太爱猴哥了（热度：117878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%AF%B9%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E5%91%98%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC%23" target="weibo">
 法国足协对阿根廷球员提起诉讼（热度：117819）
 </a>
@@ -1107,12 +1137,6 @@ ZB1抵达上海（热度：109968）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%92%8CAI%E6%81%8B%E7%88%B1%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%A4%B1%E6%81%8B%E4%BA%86%23" target="weibo">
-第一批和AI恋爱的年轻人已经失恋了（热度：84749）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%B2%E8%BD%A6%E5%8F%98%E8%BA%AB%E6%95%91%E6%8F%B4%E8%BD%A6%E8%BD%AC%E7%A7%BB%E7%BE%A4%E4%BC%97%23" target="weibo">
 河南暴雨铲车变身救援车转移群众（热度：84127）
 </a>
@@ -1169,6 +1193,12 @@ ZB1抵达上海（热度：109968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%A5%BD%E5%83%8F%E9%97%BA%E8%9C%9C%E4%B8%8D%E7%9C%8B%E5%A5%BD%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 李佳琦好像闺蜜不看好我男朋友的样子（热度：71079）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E7%9D%A1%E7%9D%80%E5%B0%8F%E4%BC%99%E4%B8%BB%E5%8A%A8%E5%87%BA%E7%A4%BA%E4%BB%98%E6%AC%BE%E6%88%AA%E5%9B%BE%E7%BB%99%E7%9B%91%E6%8E%A7%23" target="weibo">
+老板睡着小伙主动出示付款截图给监控（热度：68027）
 </a>
 </li>
 

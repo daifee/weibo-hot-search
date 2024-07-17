@@ -1,6 +1,6 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721197671049,
+  "endTime": 1721198431077,
   "band_list": [
     {
       "raw_hot": 1863874,
@@ -25,6 +25,14 @@
       "onboard_time": 1721179219,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1165883,
+      "num": 1186541,
+      "word": "陆川说抓娃娃是低质强碱性搞笑片",
+      "onboard_time": 1721196858,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1100046,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714599,
+      "num": 714599,
+      "word": "大模型测不出9.11和9.9哪个大",
+      "onboard_time": 1721192420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706980,
       "num": 706980,
       "word": "手机壳正在服装化",
@@ -161,14 +177,6 @@
       "onboard_time": 1721178677,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 689353,
-      "num": 689353,
-      "word": "大模型测不出9.11和9.9哪个大",
-      "onboard_time": 1721192420,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682066,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508119,
-      "num": 508119,
-      "word": "陆川说抓娃娃是低质强碱性搞笑片",
-      "onboard_time": 1721196858,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 502687,
       "num": 890429,
       "word": "为什么成龙电影逐渐失去票房号召力",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 430744,
-      "num": 327715,
+      "num": 362752,
       "word": "蓝盈莹 人其实很少能好好说再见",
       "onboard_time": 1721194159,
       "rank": 25,
@@ -411,12 +411,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 352583,
-      "num": 327002,
+      "raw_hot": 360363,
+      "num": 360363,
       "word": "杨丞琳回归歌手",
       "onboard_time": 1721195778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339282,
+      "num": 339282,
+      "word": "古茗崩了",
+      "onboard_time": 1721193979,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 325696,
@@ -515,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286827,
+      "num": 286827,
+      "word": "塞纳河水质最近不适宜下水比赛",
+      "onboard_time": 1721195420,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276950,
       "num": 314545,
       "word": "男生放弃清华报考国防科大",
@@ -529,14 +545,6 @@
       "onboard_time": 1721193080,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 274364,
-      "num": 274364,
-      "word": "塞纳河水质最近不适宜下水比赛",
-      "onboard_time": 1721195420,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 273803,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255274,
+      "num": 255274,
+      "word": "王海称李佳琦小杨哥卖假和田玉",
+      "onboard_time": 1721197158,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253099,
       "num": 206843,
       "word": "陶喆 二十二",
@@ -617,14 +633,6 @@
       "onboard_time": 1721192178,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242681,
-      "num": 242681,
-      "word": "古茗崩了",
-      "onboard_time": 1721193979,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 240689,
@@ -683,12 +691,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220591,
+      "num": 262364,
+      "word": "第一批和AI恋爱的年轻人已经失恋了",
+      "onboard_time": 1721196018,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218851,
       "num": 203158,
       "word": "宋亚轩刘耀文包场抓娃娃",
       "onboard_time": 1721139440,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214456,
+      "num": 222398,
+      "word": "王俊凯新歌成为英雄试听",
+      "onboard_time": 1721197397,
+      "rank": 27,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 208606,
@@ -705,14 +729,6 @@
       "onboard_time": 1721172798,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206446,
-      "num": 206446,
-      "word": "王俊凯新歌成为英雄试听",
-      "onboard_time": 1721197397,
-      "rank": 27,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 205802,
@@ -737,6 +753,14 @@
       "onboard_time": 1721194459,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203390,
+      "num": 203390,
+      "word": "陆川",
+      "onboard_time": 1721198058,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 203020,
@@ -891,14 +915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 188595,
-      "num": 188595,
-      "word": "王海称李佳琦小杨哥卖假和田玉",
-      "onboard_time": 1721197158,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188558,
       "num": 177368,
       "word": "错位",
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163386,
+      "num": 163386,
+      "word": "何炅王勉演起来了",
+      "onboard_time": 1721197697,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162106,
       "num": 162106,
       "word": "刘翔回应八分之一裤子被挂墙上",
@@ -1051,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154489,
+      "num": 154489,
+      "word": "住酒店忘关水客房被淹变赶海房",
+      "onboard_time": 1721196740,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "刘耀文以为自己是公司最小的",
@@ -1073,6 +1105,22 @@
       "onboard_time": 1721174599,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153036,
+      "num": 153036,
+      "word": "BBA涨价",
+      "onboard_time": 1721198118,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 152686,
+      "num": 152686,
+      "word": "这些零食是炎症炸弹",
+      "onboard_time": 1721196979,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152655,
@@ -1137,22 +1185,6 @@
       "onboard_time": 1721193019,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142381,
-      "num": 142381,
-      "word": "住酒店忘关水客房被淹变赶海房",
-      "onboard_time": 1721196740,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140369,
-      "num": 140369,
-      "word": "这些零食是炎症炸弹",
-      "onboard_time": 1721196979,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 137762,
@@ -1307,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117878,
+      "num": 117878,
+      "word": "谭松韵你别太爱猴哥了",
+      "onboard_time": 1721198358,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117819,
       "num": 117819,
       "word": "法国足协对阿根廷球员提起诉讼",
@@ -1459,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84749,
-      "num": 262364,
-      "word": "第一批和AI恋爱的年轻人已经失恋了",
-      "onboard_time": 1721196018,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84127,
       "num": 84127,
       "word": "河南暴雨铲车变身救援车转移群众",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1721137879,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68027,
+      "num": 338976,
+      "word": "老板睡着小伙主动出示付款截图给监控",
+      "onboard_time": 1721195059,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67222,
