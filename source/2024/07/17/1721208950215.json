@@ -1,0 +1,410 @@
+{
+  "runTime": 1721208950215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 855832,
+        "num": 1136933,
+        "word": "钟南山院士否认病重传闻",
+        "onboard_time": 1721206759,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718238,
+        "num": 718238,
+        "word": "宝马涨价后来看车的人变多了",
+        "onboard_time": 1721203698,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20369,
+        "num": 468057,
+        "word": "开启新的伟大变革",
+        "onboard_time": 1721191820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 872640,
+        "num": 465575,
+        "word": "浙江一家8口确诊同种病一人患癌",
+        "onboard_time": 1721200518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445964,
+        "num": 445964,
+        "word": "陆川说抓娃娃是低质强碱性搞笑片",
+        "onboard_time": 1721196858,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 438900,
+        "num": 438900,
+        "word": "大模型测不出9.11和9.9哪个大",
+        "onboard_time": 1721192420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403534,
+        "num": 403534,
+        "word": "大鹏 都选C",
+        "onboard_time": 1721203639,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388671,
+        "num": 388671,
+        "word": "月亮姐姐被吓到假睫毛掉了",
+        "onboard_time": 1721203099,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333108,
+        "num": 388664,
+        "word": "杨紫久久出不了戏",
+        "onboard_time": 1721202020,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183471,
+        "num": 388376,
+        "word": "解说kris疑似辞职",
+        "onboard_time": 1721201178,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1078314,
+        "num": 388220,
+        "word": "薛之谦戒指",
+        "onboard_time": 1721206339,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911096,
+        "num": 388081,
+        "word": "韩74岁男性为性侵女性喂药42片致死",
+        "onboard_time": 1721205679,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811191,
+        "num": 387972,
+        "word": "呛奶去世婴儿父母与天鹅到家和解",
+        "onboard_time": 1721206219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628282,
+        "num": 387851,
+        "word": "辛普森一家因特朗普遇刺停播",
+        "onboard_time": 1721200880,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 387766,
+        "num": 387766,
+        "word": "Kris回应手机事件",
+        "onboard_time": 1721207238,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368099,
+        "num": 368099,
+        "word": "特朗普支持率未获显著领先",
+        "onboard_time": 1721199739,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 321559,
+        "num": 321559,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271645,
+        "num": 271645,
+        "word": "YG第二季度营业利润只有157万人民币",
+        "onboard_time": 1721208140,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267737,
+        "num": 267737,
+        "word": "虞书欣搂姜妍的腰",
+        "onboard_time": 1721208438,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257406,
+        "num": 257406,
+        "word": "曼谷酒店死者房间水杯水壶里发现氰化物",
+        "onboard_time": 1721199678,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443496,
+        "num": 257276,
+        "word": "日本高中生吃18禁超辣薯片被送医",
+        "onboard_time": 1721207119,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311795,
+        "num": 255806,
+        "word": "一次吃半个西瓜身体会发生啥",
+        "onboard_time": 1721205859,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248061,
+        "num": 248061,
+        "word": "厕所小飞虫或会寄生在人体并引发感染",
+        "onboard_time": 1721206818,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189004,
+        "num": 189004,
+        "word": "邓为炒螺蛳粉失败了",
+        "onboard_time": 1721204839,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71569,
+        "num": 182396,
+        "word": "盛夏和荷花好配",
+        "onboard_time": 1721208679,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181799,
+        "num": 181799,
+        "word": "小伙放弃最后一张刮刮乐被店员刮中",
+        "onboard_time": 1721206099,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178299,
+        "num": 178299,
+        "word": "INFJ一定是J人里面最拖延的",
+        "onboard_time": 1721203039,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174099,
+        "num": 174099,
+        "word": "小夭要告别妈妈了",
+        "onboard_time": 1721207659,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172787,
+        "num": 172787,
+        "word": "暃埋骨钱水墨皮肤",
+        "onboard_time": 1721207720,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154910,
+        "num": 154910,
+        "word": "办公室7个人天天为空调吵架",
+        "onboard_time": 1721200399,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158462,
+        "num": 154714,
+        "word": "手机壳价格",
+        "onboard_time": 1721204359,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154231,
+        "num": 154231,
+        "word": "749局",
+        "onboard_time": 1721199317,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151136,
+        "num": 151136,
+        "word": "原来谈恋爱是在谈一种能力",
+        "onboard_time": 1721192178,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143270,
+        "num": 143270,
+        "word": "肖战射雕英雄传年底或明年上映",
+        "onboard_time": 1721201778,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141300,
+        "num": 141300,
+        "word": "法海被恨过但没丑过",
+        "onboard_time": 1721205679,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67455,
+        "num": 140791,
+        "word": "存量房业主自救指南",
+        "onboard_time": 1721206818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140605,
+        "num": 140605,
+        "word": "原神官方回应对维莱特进行技能调整",
+        "onboard_time": 1721205919,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119214,
+        "num": 138526,
+        "word": "一座城市city不city走走才知道",
+        "onboard_time": 1721201418,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63168,
+        "num": 137641,
+        "word": "暑运以来全国铁路发送旅客超2亿人次",
+        "onboard_time": 1721206818,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137190,
+        "num": 137190,
+        "word": "白鹿欧豪北上海报",
+        "onboard_time": 1721206879,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136531,
+        "num": 136531,
+        "word": "TF家族运动会周边",
+        "onboard_time": 1721207299,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134938,
+        "num": 134938,
+        "word": "泰国酒店6人死亡案告破",
+        "onboard_time": 1721203339,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133570,
+        "num": 133570,
+        "word": "夭玹一边纯爱一边强制爱",
+        "onboard_time": 1721205557,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129979,
+        "num": 129979,
+        "word": "微信会惩罚长时间没用旧设备的人",
+        "onboard_time": 1721208559,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129914,
+        "num": 129914,
+        "word": "薛之谦鸟巢演唱会",
+        "onboard_time": 1721204359,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117664,
+        "num": 117664,
+        "word": "曾黎身材曲线",
+        "onboard_time": 1721208499,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112120,
+        "num": 112120,
+        "word": "沈月李雪琴同骑一辆车探索十天世界",
+        "onboard_time": 1721208617,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108869,
+        "num": 108869,
+        "word": "驴得水",
+        "onboard_time": 1721202740,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108288,
+        "num": 108288,
+        "word": "我给AI当老师月入过万",
+        "onboard_time": 1721203219,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105910,
+        "num": 105910,
+        "word": "上饶交警",
+        "onboard_time": 1721201238,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要把命运掌握在自己手中#"
+    }
+  }
+}
