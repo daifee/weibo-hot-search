@@ -1,7 +1,15 @@
 {
   "startTime": 1721147020157,
-  "endTime": 1721184430913,
+  "endTime": 1721186579558,
   "band_list": [
+    {
+      "raw_hot": 1751762,
+      "num": 1751762,
+      "word": "于文文退出我家那闺女录制",
+      "onboard_time": 1721183777,
+      "rank": 33,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1280600,
       "num": 1280600,
@@ -27,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1006533,
+      "num": 1006533,
+      "word": "金价",
+      "onboard_time": 1721184259,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 941079,
       "num": 484829,
       "word": "首尔市长请求向中国租借大熊猫",
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 933852,
-      "num": 196465,
+      "num": 264480,
       "word": "你以为很卫生其实很脏的行为",
       "onboard_time": 1721181617,
       "rank": 20,
@@ -107,14 +123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 639397,
-      "num": 310983,
-      "word": "于文文退出我家那闺女录制",
-      "onboard_time": 1721183777,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 609396,
       "num": 237173,
       "word": "晚上睡觉时空调不要开26度",
@@ -129,6 +137,14 @@
       "onboard_time": 1721178618,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560099,
+      "num": 560099,
+      "word": "金饰价格一夜冲到超750元每克",
+      "onboard_time": 1721184620,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 502687,
@@ -196,9 +212,17 @@
     },
     {
       "raw_hot": 382645,
-      "num": 195081,
+      "num": 250595,
       "word": "边佑锡耍大牌轰动韩娱界",
       "onboard_time": 1721180779,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 381540,
+      "num": 254816,
+      "word": "赵露思素颜与好友聚餐",
+      "onboard_time": 1721184740,
       "rank": 21,
       "category": "艺人"
     },
@@ -225,6 +249,14 @@
       "onboard_time": 1721182218,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319784,
+      "num": 319784,
+      "word": "谁说涂山璟是只有爱情",
+      "onboard_time": 1721182878,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 315642,
@@ -267,12 +299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287530,
+      "num": 287530,
+      "word": "王嘉尔没有经纪人",
+      "onboard_time": 1721185699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273803,
       "num": 391967,
       "word": "女警一声大喊救险被货车碾压的骑车人",
       "onboard_time": 1721178079,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272704,
+      "num": 314545,
+      "word": "男生放弃清华报考国防科大",
+      "onboard_time": 1721180479,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 272525,
@@ -289,14 +337,6 @@
       "onboard_time": 1721141000,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251231,
-      "num": 314545,
-      "word": "男生放弃清华报考国防科大",
-      "onboard_time": 1721180479,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 247684,
@@ -316,11 +356,19 @@
     },
     {
       "raw_hot": 247095,
-      "num": 193017,
+      "num": 215086,
       "word": "Kakao将出售SM等子公司",
       "onboard_time": 1721183599,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242469,
+      "num": 242469,
+      "word": "感觉朋友圈的味道越来越怪",
+      "onboard_time": 1721185517,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 240689,
@@ -331,11 +379,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235816,
-      "num": 235816,
-      "word": "谁说涂山璟是只有爱情",
-      "onboard_time": 1721182878,
-      "rank": 28,
+      "raw_hot": 237993,
+      "num": 237993,
+      "word": "临江仙海报",
+      "onboard_time": 1721185818,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -427,12 +475,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193051,
+      "num": 193051,
+      "word": "我们的歌图书馆30秒文学",
+      "onboard_time": 1721186178,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192080,
       "num": 192080,
       "word": "上海恐龙户型房1套499万",
       "onboard_time": 1721136019,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189528,
+      "num": 189528,
+      "word": "这是十个勤天应得的",
+      "onboard_time": 1721186117,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188507,
+      "num": 188507,
+      "word": "孩子以母亲身份充值十余万申请退款遭拒",
+      "onboard_time": 1721184017,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181962,
+      "num": 181962,
+      "word": "邓为谈体感长相思爆火的时刻",
+      "onboard_time": 1721186237,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180214,
@@ -443,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172566,
-      "num": 172566,
-      "word": "金价",
-      "onboard_time": 1721184259,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 172619,
+      "num": 172619,
+      "word": "源氏木语家具被曝买了4个月仍有甲醛",
+      "onboard_time": 1721184138,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171403,
@@ -563,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142953,
+      "num": 142953,
+      "word": "眼睁睁看着电脑将老板微信调包",
+      "onboard_time": 1721185639,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137762,
       "num": 137762,
       "word": "老人捡到4万元冒高温骑行交给民警",
@@ -595,12 +683,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "影版异人之下冯宝宝适配度",
+      "onboard_time": 1721184497,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133701,
       "num": 133701,
       "word": "黑暗荣耀大婶重庆拍综艺",
       "onboard_time": 1721182698,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130704,
+      "num": 130704,
+      "word": "长相思2人设最完美的人",
+      "onboard_time": 1721186479,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129972,
@@ -649,6 +753,14 @@
       "onboard_time": 1721134818,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119379,
+      "num": 119379,
+      "word": "队友主动让崔永熙罚球",
+      "onboard_time": 1721186479,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119038,
@@ -715,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110030,
-      "num": 110030,
-      "word": "源氏木语家具被曝买了4个月仍有甲醛",
-      "onboard_time": 1721184138,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109968,
       "num": 109968,
       "word": "ZB1抵达上海",
@@ -777,6 +881,14 @@
       "onboard_time": 1721134400,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94535,
+      "num": 190548,
+      "word": "小米把紫色玩明白了",
+      "onboard_time": 1721185457,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 94255,
@@ -867,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74519,
+      "num": 335467,
+      "word": "首饰金价突破753元每克",
+      "onboard_time": 1721185457,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 71079,
       "num": 71079,
       "word": "李佳琦好像闺蜜不看好我男朋友的样子",
@@ -955,6 +1075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57534,
+      "num": 329645,
+      "word": "武警在河南南阳转移村民500多人",
+      "onboard_time": 1721185219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50788,
       "num": 52711,
       "word": "苹果续创历史收盘新高",
@@ -1009,6 +1137,14 @@
       "onboard_time": 1721149334,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44666,
+      "num": 288921,
+      "word": "哪些大学的体育课是世界冠军教的",
+      "onboard_time": 1721185818,
+      "rank": 14,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 40993,

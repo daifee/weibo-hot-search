@@ -1,0 +1,410 @@
+{
+  "runTime": 1721186579558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751762,
+        "num": 1751762,
+        "word": "于文文退出我家那闺女录制",
+        "onboard_time": 1721183777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1006533,
+        "num": 1006533,
+        "word": "金价",
+        "onboard_time": 1721184259,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9940,
+        "num": 661008,
+        "word": "一篇近半个世纪的工作总结",
+        "onboard_time": 1721033418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560099,
+        "num": 560099,
+        "word": "金饰价格一夜冲到超750元每克",
+        "onboard_time": 1721184620,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 419603,
+        "num": 419603,
+        "word": "阿念 大女主",
+        "onboard_time": 1721176158,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844618,
+        "num": 416187,
+        "word": "张志杰事件处理无任何结果",
+        "onboard_time": 1721179877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837941,
+        "num": 414243,
+        "word": "印尼羽协不再对张志杰遗体负责",
+        "onboard_time": 1721179219,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393584,
+        "num": 393584,
+        "word": "恩佐道歉",
+        "onboard_time": 1721171834,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74519,
+        "num": 335467,
+        "word": "首饰金价突破753元每克",
+        "onboard_time": 1721185457,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 57534,
+        "num": 329645,
+        "word": "武警在河南南阳转移村民500多人",
+        "onboard_time": 1721185219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494709,
+        "num": 328706,
+        "word": "首尔市长请求向中国租借大熊猫",
+        "onboard_time": 1721172856,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327741,
+        "num": 327741,
+        "word": "坚持穿袜子睡觉1个月身体的变化",
+        "onboard_time": 1721174057,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319784,
+        "num": 319784,
+        "word": "谁说涂山璟是只有爱情",
+        "onboard_time": 1721182878,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297294,
+        "num": 297294,
+        "word": "特朗普私下谈遭枪击感受",
+        "onboard_time": 1721178677,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44666,
+        "num": 288921,
+        "word": "哪些大学的体育课是世界冠军教的",
+        "onboard_time": 1721185818,
+        "rank": 14,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 287530,
+        "num": 287530,
+        "word": "王嘉尔没有经纪人",
+        "onboard_time": 1721185699,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283577,
+        "num": 283577,
+        "word": "河南暴雨",
+        "onboard_time": 1721178618,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276155,
+        "num": 276155,
+        "word": "多名毕业于土木专业学生谈工作经历",
+        "onboard_time": 1721174778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272704,
+        "num": 272704,
+        "word": "男生放弃清华报考国防科大",
+        "onboard_time": 1721180479,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 268581,
+        "num": 268581,
+        "word": "宝鸡暴雨",
+        "onboard_time": 1721182218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727335,
+        "num": 264480,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1721181617,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381540,
+        "num": 254816,
+        "word": "赵露思素颜与好友聚餐",
+        "onboard_time": 1721184740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325251,
+        "num": 250595,
+        "word": "边佑锡耍大牌轰动韩娱界",
+        "onboard_time": 1721180779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242469,
+        "num": 242469,
+        "word": "感觉朋友圈的味道越来越怪",
+        "onboard_time": 1721185517,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237993,
+        "num": 237993,
+        "word": "临江仙海报",
+        "onboard_time": 1721185818,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229542,
+        "num": 229542,
+        "word": "晚上睡觉时空调不要开26度",
+        "onboard_time": 1721174357,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215086,
+        "num": 215086,
+        "word": "Kakao将出售SM等子公司",
+        "onboard_time": 1721183599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193051,
+        "num": 193051,
+        "word": "我们的歌图书馆30秒文学",
+        "onboard_time": 1721186178,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94535,
+        "num": 190548,
+        "word": "小米把紫色玩明白了",
+        "onboard_time": 1721185457,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190200,
+        "num": 190200,
+        "word": "抓娃娃结尾",
+        "onboard_time": 1721178977,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189528,
+        "num": 189528,
+        "word": "这是十个勤天应得的",
+        "onboard_time": 1721186117,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188507,
+        "num": 188507,
+        "word": "孩子以母亲身份充值十余万申请退款遭拒",
+        "onboard_time": 1721184017,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181962,
+        "num": 181962,
+        "word": "邓为谈体感长相思爆火的时刻",
+        "onboard_time": 1721186237,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175764,
+        "num": 175764,
+        "word": "Uzi回应不如JackeyLove",
+        "onboard_time": 1721183478,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 172619,
+        "word": "源氏木语家具被曝买了4个月仍有甲醛",
+        "onboard_time": 1721184138,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157341,
+        "num": 157341,
+        "word": "韩国七旬老人就业率突破30%",
+        "onboard_time": 1721176458,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "长期喝咖啡对心脏有影响吗",
+        "onboard_time": 1721172798,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149290,
+        "num": 149290,
+        "word": "94岁吴明珠来到吐鲁番",
+        "onboard_time": 1721177719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148181,
+        "num": 148181,
+        "word": "起猛了看到蟑螂有应援棒了",
+        "onboard_time": 1721183417,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143096,
+        "num": 143096,
+        "word": "原神",
+        "onboard_time": 1721177899,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142953,
+        "num": 142953,
+        "word": "眼睁睁看着电脑将老板微信调包",
+        "onboard_time": 1721185639,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139417,
+        "num": 139417,
+        "word": "她把一生奉献给了甜蜜的事业",
+        "onboard_time": 1721180898,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136215,
+        "num": 136215,
+        "word": "30岁渐冻症男子打破死亡预言收获幸福",
+        "onboard_time": 1721175858,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134062,
+        "num": 134062,
+        "word": "影版异人之下冯宝宝适配度",
+        "onboard_time": 1721184497,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133759,
+        "num": 133759,
+        "word": "为什么成龙电影逐渐失去票房号召力",
+        "onboard_time": 1721170873,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130704,
+        "num": 130704,
+        "word": "长相思2人设最完美的人",
+        "onboard_time": 1721186479,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124618,
+        "num": 124618,
+        "word": "王俊凯代言夸克",
+        "onboard_time": 1721174057,
+        "rank": 46,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 121632,
+        "num": 121632,
+        "word": "老人捡到4万元冒高温骑行交给民警",
+        "onboard_time": 1721183238,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119379,
+        "num": 119379,
+        "word": "队友主动让崔永熙罚球",
+        "onboard_time": 1721186479,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114042,
+        "num": 114042,
+        "word": "奶奶去吃席为什么紧张的是我",
+        "onboard_time": 1721173216,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样擘画全面深化改革开放#"
+    }
+  }
+}

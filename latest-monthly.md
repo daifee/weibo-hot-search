@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 10:47:10
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 11:22:59
 </p>
 </blockquote>
 <p>
@@ -485,6 +485,12 @@ TES（热度：1771255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 秦彻 抄袭（热度：1753553）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%80%80%E5%87%BA%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BD%95%E5%88%B6%23" target="weibo">
+于文文退出我家那闺女录制（热度：1751762）
 </a>
 </li>
 
@@ -2015,6 +2021,12 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1006533）
 </a>
 </li>
 
@@ -4479,12 +4491,6 @@ B太曝光星期狗（热度：681086）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%80%80%E5%87%BA%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BD%95%E5%88%B6%23" target="weibo">
-于文文退出我家那闺女录制（热度：639397）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E7%B1%B36%E4%BD%93%E9%87%8D50%E6%96%A4%E4%BB%8D%E5%9C%A8%E5%87%8F%E8%82%A5%23" target="weibo">
 女子1米6体重50斤仍在减肥（热度：639333）
 </a>
@@ -5583,6 +5589,12 @@ IVE香港演唱会评论区（热度：566536）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%86%B2%E5%88%B0%E8%B6%85750%E5%85%83%E6%AF%8F%E5%85%8B%23" target="weibo">
+金饰价格一夜冲到超750元每克（热度：560099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%8F%E8%85%BF%E6%9C%89%E7%BB%B7%E5%B8%A6%23" target="weibo">
 刘诗诗小腿有绷带（热度：560050）
 </a>
@@ -5999,18 +6011,6 @@ WPS崩了（热度：543165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E6%9B%9D%E5%B7%AE%E7%82%B9%E9%81%AD%E5%88%B02%E6%AC%A1%E6%9A%97%E6%9D%80%23" target="weibo">
 马斯克自曝差点遭到2次暗杀（热度：536744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%80%E6%9D%AF%E9%A5%AE%E6%96%9928%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A1%80%E7%B3%96%E7%88%86%E8%A1%A8%E8%BF%9BICU%23" target="weibo">
-每天一杯饮料28岁女子血糖爆表进ICU（热度：536594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
-王牌对王牌（热度：536514）
 </a>
 </li>
 
