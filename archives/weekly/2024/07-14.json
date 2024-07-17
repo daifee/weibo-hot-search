@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721240799752,
+  "endTime": 1721241607106,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -11547,6 +11547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40915,
+      "num": 40915,
+      "word": "专家称警惕特朗普拉帮结派对中国施压",
+      "onboard_time": 1721238672,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 40284,
       "num": 323886,
       "word": "暴雨致宝鸡境内多处道路中断",
@@ -11625,14 +11633,6 @@
       "onboard_time": 1721222238,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37080,
-      "num": 37080,
-      "word": "专家称警惕特朗普拉帮结派对中国施压",
-      "onboard_time": 1721238672,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 36581,
@@ -12185,6 +12185,14 @@
       "onboard_time": 1721215938,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15063,
+      "num": 31465,
+      "word": "约罗接近加盟曼联",
+      "onboard_time": 1721235674,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14716,

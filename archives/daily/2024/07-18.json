@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721240799752,
+  "endTime": 1721241607106,
   "band_list": [
     {
       "raw_hot": 862489,
@@ -427,8 +427,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37080,
-      "num": 37080,
+      "raw_hot": 40915,
+      "num": 40915,
       "word": "专家称警惕特朗普拉帮结派对中国施压",
       "onboard_time": 1721238672,
       "rank": 22,
@@ -489,6 +489,14 @@
       "onboard_time": 1721234115,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15063,
+      "num": 31465,
+      "word": "约罗接近加盟曼联",
+      "onboard_time": 1721235674,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 13630,
