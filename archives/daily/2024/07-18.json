@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721243708136,
+  "endTime": 1721244932466,
   "band_list": [
     {
       "raw_hot": 862489,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89595,
+      "num": 42120,
+      "word": "专家称警惕特朗普拉帮结派对中国施压",
+      "onboard_time": 1721238672,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 88404,
       "num": 186917,
       "word": "格局被禁赛两场",
@@ -321,14 +329,6 @@
       "onboard_time": 1721229978,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 80269,
-      "num": 40915,
-      "word": "专家称警惕特朗普拉帮结派对中国施压",
-      "onboard_time": 1721238672,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 73239,
@@ -459,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28258,
-      "num": 28258,
+      "raw_hot": 28724,
+      "num": 28724,
       "word": "女性一代传一代的谎言",
       "onboard_time": 1721241312,
       "rank": 21,
@@ -475,12 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24187,
+      "raw_hot": 26334,
       "num": 28099,
       "word": "金猫阿宅去世",
       "onboard_time": 1721240952,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24028,
+      "num": 24028,
+      "word": "阿Sa精准猜出Henry",
+      "onboard_time": 1721243830,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 23740,
@@ -499,15 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18596,
-      "num": 234624,
-      "word": "中国汽车越卷越强越卷越好",
-      "onboard_time": 1721234115,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 17700,
+      "raw_hot": 20352,
       "num": 28077,
       "word": "为什么奶茶店不能早上八点开门",
       "onboard_time": 1721242632,
@@ -515,12 +515,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 16883,
+      "raw_hot": 19232,
       "num": 28072,
       "word": "奔赴万人现场",
       "onboard_time": 1721242992,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18596,
+      "num": 234624,
+      "word": "中国汽车越卷越强越卷越好",
+      "onboard_time": 1721234115,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 15063,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721243708136,
+  "endTime": 1721244932466,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -42771,6 +42771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89595,
+      "num": 42120,
+      "word": "专家称警惕特朗普拉帮结派对中国施压",
+      "onboard_time": 1721238672,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 89396,
       "num": 232782,
       "word": "日本富士山开始收取登山费",
@@ -43385,14 +43393,6 @@
       "onboard_time": 1720306932,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80269,
-      "num": 40915,
-      "word": "专家称警惕特朗普拉帮结派对中国施压",
-      "onboard_time": 1721238672,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 80266,
@@ -48195,6 +48195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28724,
+      "num": 28724,
+      "word": "女性一代传一代的谎言",
+      "onboard_time": 1721241312,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 28721,
       "num": 891965,
       "word": "关于上合组织你想知道的都在这里",
@@ -48273,14 +48281,6 @@
       "onboard_time": 1721206579,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28258,
-      "num": 28258,
-      "word": "女性一代传一代的谎言",
-      "onboard_time": 1721241312,
-      "rank": 21,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 28245,
@@ -48529,6 +48529,14 @@
       "onboard_time": 1720761799,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26334,
+      "num": 28099,
+      "word": "金猫阿宅去世",
+      "onboard_time": 1721240952,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26274,
@@ -48795,20 +48803,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24187,
-      "num": 28099,
-      "word": "金猫阿宅去世",
-      "onboard_time": 1721240952,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24083,
       "num": 24083,
       "word": "EDG涅槃组首胜",
       "onboard_time": 1720296613,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24028,
+      "num": 24028,
+      "word": "阿Sa精准猜出Henry",
+      "onboard_time": 1721243830,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 24012,
@@ -49131,6 +49139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20352,
+      "num": 28077,
+      "word": "为什么奶茶店不能早上八点开门",
+      "onboard_time": 1721242632,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20307,
       "num": 26632,
       "word": "罐车拉完煤制油直接装食用油",
@@ -49241,6 +49257,14 @@
       "onboard_time": 1720370776,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19232,
+      "num": 28072,
+      "word": "奔赴万人现场",
+      "onboard_time": 1721242992,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 19217,
@@ -49395,14 +49419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17700,
-      "num": 28077,
-      "word": "为什么奶茶店不能早上八点开门",
-      "onboard_time": 1721242632,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17610,
       "num": 68479,
       "word": "高铁偶遇晕倒女生河南医生果断救助",
@@ -49433,14 +49449,6 @@
       "onboard_time": 1720887856,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16883,
-      "num": 28072,
-      "word": "奔赴万人现场",
-      "onboard_time": 1721242992,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 16776,
