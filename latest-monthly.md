@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 20:37:24
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/17 20:52:34
 </p>
 </blockquote>
 <p>
@@ -5541,6 +5541,12 @@ B太说被300主播针对（热度：578348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Kris%20%E7%8E%8B%E5%A4%9A%E5%A4%9A%23" target="weibo">
+Kris 王多多（热度：572744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%23" target="weibo">
 英格兰vs斯洛伐克（热度：572737）
 </a>
@@ -5895,6 +5901,12 @@ CoCo回应员工边做边吃（热度：559445）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E4%BD%8D%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+错位大结局（热度：553210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0C%E7%BA%A7%E5%8D%961%E8%BE%86%E8%B5%947%E4%B8%87%23" target="weibo">
 奔驰C级卖1辆赔7万（热度：553014）
 </a>
@@ -5999,18 +6011,6 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%AD%A6%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC%E6%94%B6%E5%BE%92%23" target="weibo">
 好学小孩哥在地铁上被北大博导收徒（热度：547008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%9D%A0%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B0%8F%E5%AE%9D%E7%BB%93%E6%9E%9C%E9%86%89%E9%85%92%E4%BA%86%23" target="weibo">
-爷爷靠近一个月小宝结果醉酒了（热度：546965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%B4%AD%E7%BD%AE%E7%A7%BB%E5%8A%A8%E7%A9%BA%E8%B0%83%23" target="weibo">
-中国奥运代表团购置移动空调（热度：546642）
 </a>
 </li>
 
@@ -6593,6 +6593,12 @@ TES战胜GEN（热度：552565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9C%80%E9%B2%9C%E6%98%8E%E7%9A%84%E7%B2%BE%E7%A5%9E%E6%A0%87%E8%AF%86%23%23" target="weibo">
 #当代中国人民最鲜明的精神标识#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%AD%A6%E4%B9%A0%E9%A2%86%E6%82%9F%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E6%96%B9%E6%B3%95%E8%AE%BA%23%23" target="weibo">
+#学习领悟总书记全面深化改革方法论#
 </a>
 </li>
 

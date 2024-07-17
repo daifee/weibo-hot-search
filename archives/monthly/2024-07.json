@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721219844676,
+  "endTime": 1721220754569,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -7371,6 +7371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 572744,
+      "num": 313282,
+      "word": "Kris 王多多",
+      "onboard_time": 1721215399,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 572737,
       "num": 572737,
       "word": "英格兰vs斯洛伐克",
@@ -7843,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553210,
+      "num": 333608,
+      "word": "错位大结局",
+      "onboard_time": 1721217617,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553014,
       "num": 342648,
       "word": "奔驰C级卖1辆赔7万",
@@ -8299,14 +8315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533560,
-      "num": 333608,
-      "word": "错位大结局",
-      "onboard_time": 1721217617,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 533539,
       "num": 533539,
       "word": "爸爸把女儿第一次上学拍成了纪录片",
@@ -8417,6 +8425,14 @@
       "onboard_time": 1720934364,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 526081,
+      "num": 330371,
+      "word": "长相思2西陵玖瑶名场面来了",
+      "onboard_time": 1721217317,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 525977,
@@ -8585,14 +8601,6 @@
       "onboard_time": 1720585880,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517596,
-      "num": 313282,
-      "word": "Kris 王多多",
-      "onboard_time": 1721215399,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 516995,
@@ -9121,6 +9129,14 @@
       "onboard_time": 1721096178,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 497308,
+      "num": 285755,
+      "word": "员工一年内因考勤被扣工资20.9万",
+      "onboard_time": 1721218996,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497263,
@@ -9657,14 +9673,6 @@
       "onboard_time": 1720420819,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 480182,
-      "num": 330371,
-      "word": "长相思2西陵玖瑶名场面来了",
-      "onboard_time": 1721217317,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 479926,
@@ -16947,6 +16955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283446,
+      "num": 283446,
+      "word": "自贡火灾",
+      "onboard_time": 1721219177,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283432,
       "num": 283432,
       "word": "仙逆动画",
@@ -18171,6 +18187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256486,
+      "num": 256486,
+      "word": "黄子弘凡美依礼芽牵手",
+      "onboard_time": 1721219117,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256432,
       "num": 256432,
       "word": "多艘中国军舰现身阿拉斯加附近",
@@ -18689,6 +18713,14 @@
       "onboard_time": 1720864158,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247639,
+      "num": 247639,
+      "word": "涂山璟明天别去清水镇",
+      "onboard_time": 1721219237,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 247574,
@@ -19641,14 +19673,6 @@
       "onboard_time": 1720666877,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 233348,
-      "num": 233348,
-      "word": "员工一年内因考勤被扣工资20.9万",
-      "onboard_time": 1721218996,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233303,
@@ -21651,14 +21675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209713,
-      "num": 209713,
-      "word": "黄子弘凡美依礼芽牵手",
-      "onboard_time": 1721219117,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209686,
       "num": 209686,
       "word": "中储粮金鼎食用油再下架",
@@ -23267,6 +23283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200525,
+      "num": 200525,
+      "word": "夏洛特烦恼和九层妖塔同一天上映",
+      "onboard_time": 1721219537,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200518,
       "num": 200518,
       "word": "王楚钦孙颖莎身披龙服",
@@ -24299,6 +24323,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 194285,
+      "num": 194285,
+      "word": "长相思2阿念玱玹圆满的遗憾",
+      "onboard_time": 1721220378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194279,
       "num": 194279,
       "word": "青春没有售价少白男模上架",
@@ -24385,6 +24417,14 @@
       "onboard_time": 1720797259,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194065,
+      "num": 194065,
+      "word": "唐诡西行40集8个案件",
+      "onboard_time": 1721220378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 194053,
@@ -26249,14 +26289,6 @@
       "onboard_time": 1720765818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183238,
-      "num": 183238,
-      "word": "涂山璟明天别去清水镇",
-      "onboard_time": 1721219237,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 183202,
@@ -28963,6 +28995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166371,
+      "num": 166371,
+      "word": "双鱼座是反骨的典型代表",
+      "onboard_time": 1721219297,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166274,
       "num": 256902,
       "word": "陈都灵 你这样说我更i了",
@@ -28985,14 +29025,6 @@
       "onboard_time": 1720360399,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166095,
-      "num": 166095,
-      "word": "自贡火灾",
-      "onboard_time": 1721219177,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166038,
@@ -29680,6 +29712,14 @@
       "word": "DRG战胜AG",
       "onboard_time": 1720882159,
       "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161833,
+      "num": 161833,
+      "word": "TES对战WBG",
+      "onboard_time": 1721217917,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -31779,6 +31819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150239,
+      "num": 150239,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1721220258,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150206,
       "num": 150206,
       "word": "成毅广州早茶vlog",
@@ -31937,14 +31985,6 @@
       "onboard_time": 1720874718,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149113,
-      "num": 149113,
-      "word": "夏洛特烦恼和九层妖塔同一天上映",
-      "onboard_time": 1721219537,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 149075,
@@ -33841,6 +33881,14 @@
       "onboard_time": 1720856237,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139652,
+      "num": 139652,
+      "word": "咒术回战 两眼一黑",
+      "onboard_time": 1721219959,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 139607,
@@ -35755,6 +35803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130811,
+      "num": 150336,
+      "word": "十年前14000买的钻戒如今不值200块",
+      "onboard_time": 1721220438,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130798,
       "num": 496032,
       "word": "邢台成立调查组摸底排查全市罐车",
@@ -36856,6 +36912,14 @@
       "word": "李现男德满分",
       "onboard_time": 1720523357,
       "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124951,
+      "num": 124951,
+      "word": "ZB1上海签售",
+      "onboard_time": 1721220738,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -38011,14 +38075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119739,
-      "num": 119739,
-      "word": "TES对战WBG",
-      "onboard_time": 1721217917,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 119718,
       "num": 119718,
       "word": "临江仙",
@@ -38337,14 +38393,6 @@
       "onboard_time": 1720399459,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118145,
-      "num": 118145,
-      "word": "双鱼座是反骨的典型代表",
-      "onboard_time": 1721219297,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 118012,
@@ -45531,6 +45579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50617,
+      "num": 307814,
+      "word": "小折手机体验终于站起来了",
+      "onboard_time": 1721218517,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50555,
       "num": 172147,
       "word": "荣耀再次打破折叠屏轻薄纪录",
@@ -46059,14 +46115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45383,
-      "num": 307814,
-      "word": "小折手机体验终于站起来了",
-      "onboard_time": 1721218517,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 45330,
       "num": 43950,
       "word": "黄子韬曾说30岁会考虑成家",
@@ -46547,6 +46595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40764,
+      "num": 400232,
+      "word": "为什么中国制造能行",
+      "onboard_time": 1721218637,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40738,
       "num": 192315,
       "word": "二游癫成了我喜欢的样子",
@@ -46859,14 +46915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37087,
-      "num": 400232,
-      "word": "为什么中国制造能行",
-      "onboard_time": 1721218637,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37063,
       "num": 259672,
       "word": "钟楚曦状态绝了",
@@ -47177,6 +47225,14 @@
       "onboard_time": 1720596378,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34170,
+      "num": 289609,
+      "word": "陈清晨说奥运当然会关注孙颖莎",
+      "onboard_time": 1721220378,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 34163,
@@ -49995,6 +50051,9 @@
     },
     {
       "word": "#当代中国人民最鲜明的精神标识#"
+    },
+    {
+      "word": "#学习领悟总书记全面深化改革方法论#"
     }
   ]
 }
