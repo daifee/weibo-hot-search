@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721320762392,
+  "endTime": 1721323108148,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -105,6 +105,14 @@
       "onboard_time": 1721311819,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187125,
+      "num": 161963,
+      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
+      "onboard_time": 1721319676,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184644,
@@ -243,6 +251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95438,
+      "num": 197132,
+      "word": "杭州5.2万辆共享单车不烫屁股",
+      "onboard_time": 1721318658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95008,
       "num": 95008,
       "word": "长相思老年妆",
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87240,
-      "num": 161963,
-      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
-      "onboard_time": 1721319676,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86223,
       "num": 166274,
       "word": "男子花5万找黄牛买演唱会门票没出票",
@@ -331,12 +339,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68604,
+      "num": 65277,
+      "word": "妈妈 这个写书的刘同他还在吗",
+      "onboard_time": 1721320755,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 64354,
       "num": 95002,
       "word": "胡先煦天津i人再就业",
       "onboard_time": 1721315839,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62957,
+      "num": 62957,
+      "word": "小马跟小猫之间的友情",
+      "onboard_time": 1721320935,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 59292,
@@ -355,14 +379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59014,
-      "num": 197132,
-      "word": "杭州5.2万辆共享单车不烫屁股",
-      "onboard_time": 1721318658,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57689,
       "num": 95002,
       "word": "BLG",
@@ -377,6 +393,14 @@
       "onboard_time": 1721302758,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 54473,
+      "num": 62954,
+      "word": "镖人 酱园弄2.0",
+      "onboard_time": 1721321955,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 53922,
@@ -403,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42198,
+      "num": 62920,
+      "word": "王鹤棣的蒙d奇",
+      "onboard_time": 1721321355,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30967,
       "num": 198642,
       "word": "暑期博物馆热持续升温",
@@ -417,6 +449,14 @@
       "onboard_time": 1721294240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16257,
+      "num": 74915,
+      "word": "杭州13位男生将坐运20去大学报到",
+      "onboard_time": 1721322973,
+      "rank": 19,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
