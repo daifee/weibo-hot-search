@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/18 00:25:20 ~ 2024/07/18 07:35:57
+本榜单时间：2024/07/18 00:25:20 ~ 2024/07/18 09:22:09
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,18 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
+拜登新冠检测呈阳性（热度：1431383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A1%AC%E7%9D%A1%E4%BA%86%23" target="weibo">
+睡不着就不要硬睡了（热度：1038448）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%A1%E7%99%BE%E8%B4%A7%E5%A4%A7%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
@@ -27,14 +39,44 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
-拜登新冠检测呈阳性（热度：723078）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%86%AC%E5%A4%9C%E7%9A%84%E4%BA%BA%E8%BA%AB%E4%BD%93%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%87%AD%23" target="weibo">
+经常熬夜的人身体到底有多臭（热度：770694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8A%9E%E5%AE%8C%E5%A9%9A%E7%A4%BC%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A8%9850%E5%B2%81%23" target="weibo">
+25岁小伙办完婚礼发现新娘50岁（热度：767261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E4%B8%AD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%84%A6%E8%99%91%E6%94%AF%E9%85%8D%E7%9A%84%E4%B8%80%E7%94%9F%23" target="weibo">
+我家那闺女中女孩被焦虑支配的一生（热度：720715）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%8A%82%E7%9C%81%E7%A9%BA%E9%97%B4%E7%9A%84%E4%B8%BB%E6%9D%BF%E6%9D%90%E6%96%99%23" target="weibo">
 iPhone17不使用节省空间的主板材料（热度：619107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%BA%E5%87%8F%E8%82%A5%E6%99%92%E8%83%8C%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%89%B2%23" target="weibo">
+男生为减肥晒背一天一个色（热度：614257）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E5%8F%B0%E6%B2%A1%E6%9C%89%E7%89%9B%E8%82%89%E7%B2%92%E4%BA%86%23" target="weibo">
+海底捞小料台没有牛肉粒了（热度：552339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%20%E7%9D%A1%E4%B8%8D%E7%9D%80%23" target="weibo">
+库迪 睡不着（热度：494273）
 </a>
 </li>
 
@@ -47,6 +89,24 @@ iPhone17不使用节省空间的主板材料（热度：619107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%B0%862%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%94%E8%BD%A6%E5%86%85%E6%99%92%E6%AD%BB%23" target="weibo">
 美国男子将2岁女儿扔车内晒死（热度：475349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9D%9A%E6%8C%81%E7%95%99%E4%B8%8B%E6%A1%83%E6%9E%97%E8%AE%A4%E6%AF%8D%E5%89%A7%E6%83%85%23" target="weibo">
+杨紫坚持留下桃林认母剧情（热度：443935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%B2%A1%E7%A5%AD%E6%8B%9C%E5%B0%8F%E5%A4%AD%E7%88%B6%E6%AF%8D%23" target="weibo">
+涂山璟没祭拜小夭父母（热度：438865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%BB%91%E8%B7%AA%23" target="weibo">
+原神滑跪（热度：428297）
 </a>
 </li>
 
@@ -81,8 +141,32 @@ Kris离职（热度：426881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BD%A0%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E4%BA%86%23" target="weibo">
+其实你已经过度疲劳了（热度：371691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E8%BF%9B%E5%85%A52024%E5%B9%B4%E5%86%85%E5%9C%B0%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D%E5%8D%81%23" target="weibo">
 抓娃娃进入2024年内地票房榜前十（热度：367514）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%B9%8F%E8%AF%9D%E7%AD%92%E6%9C%9D%E5%A4%A9%20%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%A3%B0%E9%9F%B3%E5%93%8D%E8%B5%B7%23" target="weibo">
+大鹏话筒朝天 赵英俊声音响起（热度：363161）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%BF%911.5%E4%B8%87%E4%BA%BF%23" target="weibo">
+英伟达市值一夜蒸发近1.5万亿（热度：360675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E9%A3%99%E6%B6%A8%23" target="weibo">
+金价为何飙涨（热度：349844）
 </a>
 </li>
 
@@ -117,14 +201,32 @@ Kris离职（热度：426881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E6%98%AF%E5%9C%A8%E7%A2%B0%E7%93%B7%E6%98%9F%E5%B7%B4%E5%85%8B%E5%90%97%23" target="weibo">
+霸王茶姬是在碰瓷星巴克吗（热度：292582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E4%B8%80%E5%B9%B4%E5%86%85%E5%9B%A0%E8%80%83%E5%8B%A4%E8%A2%AB%E6%89%A3%E5%B7%A5%E8%B5%8420.9%E4%B8%87%23" target="weibo">
-员工一年内因考勤被扣工资20.9万（热度：285605）
+员工一年内因考勤被扣工资20.9万（热度：285859）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E7%AD%89%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B6%E8%B5%B4%E8%87%AA%E8%B4%A1%23" target="weibo">
+应急管理部等派工作组赶赴自贡（热度：280475）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%96%B0%E5%89%A7%E7%A9%BF%E4%BA%86%E9%AB%98%E5%AE%9A%23" target="weibo">
 赵露思新剧穿了高定（热度：279325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E5%BC%80%E6%92%AD%23" target="weibo">
+唐朝诡事录之西行开播（热度：273122）
 </a>
 </li>
 
@@ -159,8 +261,32 @@ Kris离职（热度：426881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%91%BC%E5%90%81%E7%A6%81%E6%AD%A2%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E5%9E%8B%E5%8F%B7%E6%9E%AA%E6%94%AF%23" target="weibo">
+拜登呼吁禁止刺杀特朗普型号枪支（热度：217736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%99%E4%BD%8D%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 错位大结局（热度：211596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E5%AE%BF%E5%9B%9E%E5%BA%945%E5%A4%A7%E4%BA%BA4%E5%B0%8F%E5%AD%A9%E5%85%A5%E4%BD%8F%E4%B8%A4%E6%A0%87%E9%97%B4%E8%A2%AB%E6%8B%92%23" target="weibo">
+民宿回应5大人4小孩入住两标间被拒（热度：197213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BD%8D%E7%94%B7%E7%94%9F%E8%A2%AB%E6%96%B0%E9%83%8E%E8%B0%83%E5%89%82%E5%88%B0%E4%BC%B4%E5%A8%98%E7%BB%84%23" target="weibo">
+3位男生被新郎调剂到伴娘组（热度：196145）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%A9%AC%E4%B8%8A%E6%9D%80%E9%9D%92%23" target="weibo">
+杨紫说国色芳华马上杀青（热度：193732）
 </a>
 </li>
 
@@ -189,8 +315,56 @@ Kris 王多多（热度：177804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A1%AC%E7%9D%A1%E4%BA%86%23" target="weibo">
-睡不着就不要硬睡了（热度：168363）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%88%90%E6%AF%85%E6%89%93%E6%88%8F%E8%8A%B1%E7%B5%AE%23" target="weibo">
+赴山海成毅打戏花絮（热度：174645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%9B%B4%E6%92%AD%23" target="weibo">
+陈哲远直播（热度：164433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23" target="weibo">
+susu福福（热度：158975）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%BC%94%E8%AF%9D%E5%89%A7%23" target="weibo">
+杨超越演话剧（热度：157359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%92%8C%E8%A5%BF%E7%93%9C%E4%B8%80%E8%B5%B7%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
+不建议和西瓜一起吃的食物（热度：147566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AD%90%E7%BB%AA%E7%94%B5%E7%AB%9E%E6%96%87%23" target="weibo">
+西子绪电竞文（热度：142646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%B1%E5%8E%BB%E4%BA%86%E7%88%B8%E5%A6%88%E6%98%AF%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B8%A6%E6%88%91%E5%9B%9E%E5%AE%B6%23" target="weibo">
+我失去了爸妈是班主任带我回家（热度：140474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%A9%E6%AF%94%E5%BE%B7%20%E5%96%9C%E5%89%A7%E4%BA%BA%23" target="weibo">
+恩比德 喜剧人（热度：140404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%A6%81%E6%98%AF%E5%A8%98%E5%A8%98%E9%83%BD%E6%9D%A5%E9%BD%90%E4%BA%86%E5%BE%97%E5%95%A5%E6%A0%B7%23" target="weibo">
+这要是娘娘都来齐了得啥样（热度：138985）
 </a>
 </li>
 
@@ -213,8 +387,14 @@ Kris 王多多（热度：177804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%92%8C%E8%A5%BF%E7%93%9C%E4%B8%80%E8%B5%B7%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
-不建议和西瓜一起吃的食物（热度：128697）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9F%A9%E4%B8%AD%E5%87%BA%E9%81%93%23" target="weibo">
+林韩中出道（热度：128732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%AE%E8%A1%8C%E5%B9%B4%E5%86%85%E8%B4%AD%E9%87%91%E5%B7%B2%E8%B6%85%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%23" target="weibo">
+印度央行年内购金已超中国央行（热度：128439）
 </a>
 </li>
 
@@ -237,12 +417,6 @@ Kris 王多多（热度：177804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E9%A3%99%E6%B6%A8%23" target="weibo">
-金价为何飙涨（热度：121909）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E7%BB%B4%E8%8E%B1%E7%89%B9%201600%E5%8E%9F%E7%9F%B3%23" target="weibo">
 那维莱特 1600原石（热度：112144）
 </a>
@@ -251,6 +425,12 @@ Kris 王多多（热度：177804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E4%B8%BA%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%BA%86%E7%94%9F%23" target="weibo">
 苏醒为薛之谦庆生（热度：111041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E5%8D%87%E6%B8%A9%23" target="weibo">
+暑期旅游市场消费升温（热度：104423）
 </a>
 </li>
 
@@ -461,6 +641,12 @@ Tian 该祝69生日快乐了（热度：73239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%90%8A%E5%A8%81%E4%BA%9A%E8%BD%AC%E5%9C%88%23" target="weibo">
 龚俊吊威亚转圈（热度：33446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%A1%E7%81%AB%E7%81%BE%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E9%80%83%E7%94%9F%E7%BB%8F%E8%BF%87%23" target="weibo">
+自贡火灾亲历者讲述逃生经过（热度：32273）
 </a>
 </li>
 

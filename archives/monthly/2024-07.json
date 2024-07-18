@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721259357520,
+  "endTime": 1721265729696,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1720051157,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1431383,
+      "num": 398323,
+      "word": "拜登新冠检测呈阳性",
+      "onboard_time": 1721258235,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1420328,
@@ -2643,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038448,
+      "num": 1166151,
+      "word": "睡不着就不要硬睡了",
+      "onboard_time": 1721257513,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1037079,
       "num": 1037079,
       "word": "深圳湾出现地球唯一蓝血生物",
@@ -3076,7 +3092,7 @@
     },
     {
       "raw_hot": 950374,
-      "num": 367941,
+      "num": 380186,
       "word": "自贡百货大楼火灾致16人遇难",
       "onboard_time": 1721258115,
       "rank": 8,
@@ -4747,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770694,
+      "num": 273727,
+      "word": "经常熬夜的人身体到底有多臭",
+      "onboard_time": 1721263099,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 770595,
       "num": 770595,
       "word": "扬州地震",
@@ -4785,6 +4809,14 @@
       "onboard_time": 1720069339,
       "rank": 17,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 767261,
+      "num": 391454,
+      "word": "25岁小伙办完婚礼发现新娘50岁",
+      "onboard_time": 1721260216,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765396,
@@ -5155,14 +5187,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 723078,
-      "num": 323366,
-      "word": "拜登新冠检测呈阳性",
-      "onboard_time": 1721258235,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 722103,
       "num": 722103,
       "word": "斯塔默将成英国新首相",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1720533858,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 720715,
+      "num": 368324,
+      "word": "我家那闺女中女孩被焦虑支配的一生",
+      "onboard_time": 1721261420,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 720534,
@@ -6659,6 +6691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614257,
+      "num": 614257,
+      "word": "男生为减肥晒背一天一个色",
+      "onboard_time": 1721262260,
+      "rank": 3,
+      "category": "社会新闻,运动健身"
+    },
+    {
       "raw_hot": 613476,
       "num": 340827,
       "word": "张凌赫 190",
@@ -7977,6 +8017,14 @@
       "onboard_time": 1720199474,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 552339,
+      "num": 273558,
+      "word": "海底捞小料台没有牛肉粒了",
+      "onboard_time": 1721260819,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 552085,
@@ -9353,6 +9401,14 @@
       "onboard_time": 1721016859,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 494273,
+      "num": 494273,
+      "word": "库迪 睡不着",
+      "onboard_time": 1721259615,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 494088,
@@ -10963,6 +11019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443935,
+      "num": 443935,
+      "word": "杨紫坚持留下桃林认母剧情",
+      "onboard_time": 1721260517,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443910,
       "num": 337296,
       "word": "野孩子将提档",
@@ -11129,6 +11193,14 @@
       "onboard_time": 1720919238,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 438865,
+      "num": 422763,
+      "word": "涂山璟没祭拜小夭父母",
+      "onboard_time": 1721260878,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 438646,
@@ -11561,6 +11633,14 @@
       "onboard_time": 1721106379,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428297,
+      "num": 428297,
+      "word": "原神滑跪",
+      "onboard_time": 1721259436,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 427363,
@@ -13411,6 +13491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371691,
+      "num": 273472,
+      "word": "其实你已经过度疲劳了",
+      "onboard_time": 1721260999,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371202,
       "num": 233751,
       "word": "西梅是被列入医嘱的通便食物",
@@ -13627,6 +13715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 363161,
+      "num": 363161,
+      "word": "大鹏话筒朝天 赵英俊声音响起",
+      "onboard_time": 1721263699,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 362961,
       "num": 316122,
       "word": "杨紫今年三部破万剧",
@@ -13729,6 +13825,14 @@
       "onboard_time": 1720430960,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360675,
+      "num": 360675,
+      "word": "英伟达市值一夜蒸发近1.5万亿",
+      "onboard_time": 1721262618,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 360519,
@@ -14217,6 +14321,14 @@
       "onboard_time": 1720355598,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349844,
+      "num": 349844,
+      "word": "金价为何飙涨",
+      "onboard_time": 1721258115,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 349729,
@@ -16603,6 +16715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 292582,
+      "num": 273282,
+      "word": "霸王茶姬是在碰瓷星巴克吗",
+      "onboard_time": 1721264179,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292531,
       "num": 292531,
       "word": "大熊猫赴港",
@@ -17323,6 +17443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280475,
+      "num": 417055,
+      "word": "应急管理部等派工作组赶赴自贡",
+      "onboard_time": 1721260637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280383,
       "num": 280383,
       "word": "DIOR活动",
@@ -17689,6 +17817,14 @@
       "onboard_time": 1720595117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273122,
+      "num": 273122,
+      "word": "唐朝诡事录之西行开播",
+      "onboard_time": 1721264839,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 272916,
@@ -21139,6 +21275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217736,
+      "num": 217736,
+      "word": "拜登呼吁禁止刺杀特朗普型号枪支",
+      "onboard_time": 1721261360,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217728,
       "num": 217728,
       "word": "羽毛球价格大涨",
@@ -24171,6 +24315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197213,
+      "num": 197213,
+      "word": "民宿回应5大人4小孩入住两标间被拒",
+      "onboard_time": 1721262139,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196918,
       "num": 196918,
       "word": "要了你文学",
@@ -24353,6 +24505,14 @@
       "onboard_time": 1719983658,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196145,
+      "num": 196145,
+      "word": "3位男生被新郎调剂到伴娘组",
+      "onboard_time": 1721263099,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196087,
@@ -24777,6 +24937,14 @@
       "onboard_time": 1720527498,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193732,
+      "num": 193732,
+      "word": "杨紫说国色芳华马上杀青",
+      "onboard_time": 1721263217,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 193726,
@@ -27955,6 +28123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174645,
+      "num": 174645,
+      "word": "赴山海成毅打戏花絮",
+      "onboard_time": 1721263458,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174501,
       "num": 174501,
       "word": "崔永熙终于出场了",
@@ -29027,14 +29203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 168363,
-      "num": 168363,
-      "word": "睡不着就不要硬睡了",
-      "onboard_time": 1721257513,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168353,
       "num": 164510,
       "word": "钱给的足够多 管理都叫严肃的爱",
@@ -29593,6 +29761,14 @@
       "onboard_time": 1720000098,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "陈哲远直播",
+      "onboard_time": 1721264598,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 164426,
@@ -30475,6 +30651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158975,
+      "num": 158975,
+      "word": "susu福福",
+      "onboard_time": 1721260999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158931,
       "num": 158931,
       "word": "Ning回应不和Uzi组排",
@@ -30761,6 +30945,14 @@
       "onboard_time": 1719789494,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157359,
+      "num": 157359,
+      "word": "杨超越演话剧",
+      "onboard_time": 1721262559,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 157331,
@@ -32555,6 +32747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147566,
+      "num": 147566,
+      "word": "不建议和西瓜一起吃的食物",
+      "onboard_time": 1721245451,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147550,
       "num": 147550,
       "word": "谁在对拆卡直播间上头",
@@ -33595,6 +33795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142646,
+      "num": 142646,
+      "word": "西子绪电竞文",
+      "onboard_time": 1721265558,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 142589,
       "num": 142589,
       "word": "美国共和党大会播放特朗普跳舞集锦",
@@ -34011,6 +34219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140474,
+      "num": 140474,
+      "word": "我失去了爸妈是班主任带我回家",
+      "onboard_time": 1721265317,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140455,
       "num": 140455,
       "word": "把19平老房子改成了两室两厅",
@@ -34033,6 +34249,14 @@
       "onboard_time": 1720464552,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140404,
+      "num": 140404,
+      "word": "恩比德 喜剧人",
+      "onboard_time": 1721265079,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140398,
@@ -34377,6 +34601,14 @@
       "onboard_time": 1720672220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138985,
+      "num": 138985,
+      "word": "这要是娘娘都来齐了得啥样",
+      "onboard_time": 1721265377,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 138975,
@@ -36555,12 +36787,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128697,
-      "num": 128697,
-      "word": "不建议和西瓜一起吃的食物",
-      "onboard_time": 1721245451,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 128732,
+      "num": 128732,
+      "word": "林韩中出道",
+      "onboard_time": 1721263878,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128602,
@@ -36593,6 +36825,14 @@
       "onboard_time": 1720396818,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128439,
+      "num": 128439,
+      "word": "印度央行年内购金已超中国央行",
+      "onboard_time": 1721265019,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 128417,
@@ -37969,14 +38209,6 @@
       "onboard_time": 1720792459,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121909,
-      "num": 324514,
-      "word": "金价为何飙涨",
-      "onboard_time": 1721258115,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 121885,
@@ -41225,6 +41457,14 @@
       "onboard_time": 1720435039,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104423,
+      "num": 444217,
+      "word": "暑期旅游市场消费升温",
+      "onboard_time": 1721261118,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 104383,
@@ -47985,6 +48225,14 @@
       "onboard_time": 1721106259,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32273,
+      "num": 279357,
+      "word": "自贡火灾亲历者讲述逃生经过",
+      "onboard_time": 1721264898,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32121,
