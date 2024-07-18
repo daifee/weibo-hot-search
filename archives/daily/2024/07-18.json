@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721309671078,
+  "endTime": 1721312351287,
   "band_list": [
     {
       "raw_hot": 5737660,
@@ -88,6 +88,14 @@
       "word": "单休已成职场用工新要求",
       "onboard_time": 1721279958,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340980,
+      "num": 244270,
+      "word": "娃哈哈内斗严重",
+      "onboard_time": 1721308939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 543841,
+      "num": 244019,
+      "word": "吴磊刘亦菲同框",
+      "onboard_time": 1721309959,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540374,
       "num": 368018,
       "word": "陈晓变脸李冰冰",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 394432,
-      "num": 221426,
+      "num": 242984,
       "word": "唐朝诡事录 凶手是谁",
       "onboard_time": 1721306657,
       "rank": 27,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376058,
+      "num": 376058,
+      "word": "王者荣耀",
+      "onboard_time": 1721310139,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 375217,
       "num": 369703,
       "word": "唐朝诡事录之西行开播",
@@ -857,14 +881,6 @@
       "onboard_time": 1721263699,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359520,
-      "num": 215839,
-      "word": "娃哈哈内斗严重",
-      "onboard_time": 1721308939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352140,
@@ -937,6 +953,14 @@
       "onboard_time": 1721273178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334722,
+      "num": 239148,
+      "word": "挪威放假",
+      "onboard_time": 1721308159,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 328610,
@@ -1035,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289917,
+      "num": 199797,
+      "word": "于文文把自己养成了很好的大人",
+      "onboard_time": 1721310739,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285859,
       "num": 285859,
       "word": "员工一年内因考勤被扣工资20.9万",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1721278160,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258628,
+      "num": 258628,
+      "word": "LNG战胜BLG",
+      "onboard_time": 1721310321,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 257094,
@@ -1307,6 +1347,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 217176,
+      "num": 159110,
+      "word": "秦彻 抄袭",
+      "onboard_time": 1721311460,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216751,
       "num": 216751,
       "word": "电影票降至1字头甚至个位数",
@@ -1419,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208015,
+      "num": 199234,
+      "word": "什么星座最容易出INFJ",
+      "onboard_time": 1721309478,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207773,
       "num": 207773,
       "word": "朱志鑫白月光学长既视感",
@@ -1467,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201216,
+      "num": 201216,
+      "word": "有奥迪销售称两天涨两次后下周还涨",
+      "onboard_time": 1721308159,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 200094,
       "num": 200094,
       "word": "长相思2",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1721268318,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197829,
+      "num": 197829,
+      "word": "红糖馒头",
+      "onboard_time": 1721307138,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 197213,
@@ -1659,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183052,
-      "num": 183052,
-      "word": "挪威放假",
-      "onboard_time": 1721308159,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 182950,
       "num": 182950,
       "word": "李斯丹妮变化好大",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1721305939,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181651,
+      "num": 181651,
+      "word": "刘诗诗给唐朝诡事录2打call",
+      "onboard_time": 1721312179,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 180925,
@@ -1843,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166028,
-      "num": 166028,
-      "word": "有奥迪销售称两天涨两次后下周还涨",
-      "onboard_time": 1721308159,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 165723,
       "num": 165723,
       "word": "小夭你有全家福了",
@@ -1923,6 +1987,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163405,
+      "num": 154587,
+      "word": "宗庆后生前曾公开赞赏宗馥莉表现",
+      "onboard_time": 1721308639,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163276,
+      "num": 163276,
+      "word": "张晚意演技",
+      "onboard_time": 1721311819,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162930,
       "num": 162930,
       "word": "INFJ是天生的边界感拿捏大师",
@@ -1969,6 +2049,14 @@
       "onboard_time": 1721299518,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160024,
+      "num": 160024,
+      "word": "TF三代运动会版等你的回答",
+      "onboard_time": 1721311999,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159646,
@@ -2195,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141919,
+      "num": 141919,
+      "word": "BLG",
+      "onboard_time": 1721310679,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141877,
       "num": 141877,
       "word": "宗馥莉近期仍在接手娃哈哈旗下企业",
@@ -2289,14 +2385,6 @@
       "onboard_time": 1721235734,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134892,
-      "num": 134892,
-      "word": "红糖馒头",
-      "onboard_time": 1721307138,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 134268,
@@ -2419,6 +2507,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127515,
+      "num": 127515,
+      "word": "刘亦菲吴磊隔着坐",
+      "onboard_time": 1721309720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126981,
+      "num": 126981,
+      "word": "崔秀彬中国首封",
+      "onboard_time": 1721309839,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125855,
       "num": 189354,
       "word": "薛之谦戒指",
@@ -2473,6 +2577,14 @@
       "onboard_time": 1721213237,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121522,
+      "num": 121522,
+      "word": "BLG对战LNG",
+      "onboard_time": 1721309839,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 121493,
@@ -2579,14 +2691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109599,
-      "num": 109599,
-      "word": "宗庆后生前曾公开赞赏宗馥莉表现",
-      "onboard_time": 1721308639,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109187,
       "num": 109187,
       "word": "孙颖莎爱好过山车",
@@ -2609,14 +2713,6 @@
       "onboard_time": 1721304318,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102458,
-      "num": 102458,
-      "word": "什么星座最容易出INFJ",
-      "onboard_time": 1721309478,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 102392,
@@ -3059,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40759,
+      "num": 244882,
+      "word": "中共中央明日10时将举行新闻发布会",
+      "onboard_time": 1721311819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36925,
       "num": 962272,
       "word": "小岗梦也是广大农民的梦",
@@ -3177,6 +3281,14 @@
       "onboard_time": 1721252170,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19767,
+      "num": 127126,
+      "word": "阿勒泰文旅局喊雷军来打卡",
+      "onboard_time": 1721310920,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 19232,

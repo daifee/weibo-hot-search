@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721309671078,
+  "endTime": 1721312351287,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -448,6 +448,14 @@
       "word": "单休已成职场用工新要求",
       "onboard_time": 1721279958,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340980,
+      "num": 244270,
+      "word": "娃哈哈内斗严重",
+      "onboard_time": 1721308939,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 543841,
+      "num": 244019,
+      "word": "吴磊刘亦菲同框",
+      "onboard_time": 1721309959,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542822,
       "num": 542822,
       "word": "10岁小女孩竟晒出老年斑",
@@ -3644,7 +3660,7 @@
     },
     {
       "raw_hot": 394432,
-      "num": 221426,
+      "num": 242984,
       "word": "唐朝诡事录 凶手是谁",
       "onboard_time": 1721306657,
       "rank": 27,
@@ -3817,6 +3833,14 @@
       "onboard_time": 1720995011,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376058,
+      "num": 376058,
+      "word": "王者荣耀",
+      "onboard_time": 1721310139,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 375294,
@@ -3993,14 +4017,6 @@
       "onboard_time": 1720920202,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359520,
-      "num": 215839,
-      "word": "娃哈哈内斗严重",
-      "onboard_time": 1721308939,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358550,
@@ -4297,6 +4313,14 @@
       "onboard_time": 1721218037,
       "rank": 5,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 334722,
+      "num": 239148,
+      "word": "挪威放假",
+      "onboard_time": 1721308159,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 333526,
@@ -4841,6 +4865,14 @@
       "onboard_time": 1721128098,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289917,
+      "num": 199797,
+      "word": "于文文把自己养成了很好的大人",
+      "onboard_time": 1721310739,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 288917,
@@ -5409,6 +5441,14 @@
       "onboard_time": 1721278160,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258628,
+      "num": 258628,
+      "word": "LNG战胜BLG",
+      "onboard_time": 1721310321,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 258572,
@@ -6659,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208015,
+      "num": 199234,
+      "word": "什么星座最容易出INFJ",
+      "onboard_time": 1721309478,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207781,
       "num": 204124,
       "word": "谁家悬疑剧男主又偷又藏",
@@ -7051,6 +7099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201216,
+      "num": 201216,
+      "word": "有奥迪销售称两天涨两次后下周还涨",
+      "onboard_time": 1721308159,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "特朗普遇刺案遇难者系消防员",
@@ -7233,6 +7289,14 @@
       "onboard_time": 1721039778,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197829,
+      "num": 197829,
+      "word": "红糖馒头",
+      "onboard_time": 1721307138,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 197820,
@@ -8059,14 +8123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183052,
-      "num": 183052,
-      "word": "挪威放假",
-      "onboard_time": 1721308159,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 183002,
       "num": 183002,
       "word": "奥亚萨瓦尔绝杀",
@@ -8137,6 +8193,14 @@
       "onboard_time": 1721007978,
       "rank": 49,
       "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 181651,
+      "num": 181651,
+      "word": "刘诗诗给唐朝诡事录2打call",
+      "onboard_time": 1721312179,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 181470,
@@ -8899,14 +8963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166028,
-      "num": 166028,
-      "word": "有奥迪销售称两天涨两次后下周还涨",
-      "onboard_time": 1721308159,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 165723,
       "num": 165723,
       "word": "小夭你有全家福了",
@@ -9067,12 +9123,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163405,
+      "num": 154587,
+      "word": "宗庆后生前曾公开赞赏宗馥莉表现",
+      "onboard_time": 1721308639,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163386,
       "num": 163386,
       "word": "何炅王勉演起来了",
       "onboard_time": 1721197697,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163276,
+      "num": 163276,
+      "word": "张晚意演技",
+      "onboard_time": 1721311819,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 163269,
@@ -9209,6 +9281,14 @@
       "onboard_time": 1721196740,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160024,
+      "num": 160024,
+      "word": "TF三代运动会版等你的回答",
+      "onboard_time": 1721311999,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159819,
@@ -10323,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141919,
+      "num": 141919,
+      "word": "BLG",
+      "onboard_time": 1721310679,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141877,
       "num": 141877,
       "word": "宗馥莉近期仍在接手娃哈哈旗下企业",
@@ -10705,14 +10793,6 @@
       "onboard_time": 1720939404,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134892,
-      "num": 134892,
-      "word": "红糖馒头",
-      "onboard_time": 1721307138,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 134760,
@@ -11171,6 +11251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127515,
+      "num": 127515,
+      "word": "刘亦菲吴磊隔着坐",
+      "onboard_time": 1721309720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127415,
       "num": 127415,
       "word": "专家回应土木专业更名",
@@ -11201,6 +11289,14 @@
       "onboard_time": 1721024478,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126981,
+      "num": 126981,
+      "word": "崔秀彬中国首封",
+      "onboard_time": 1721309839,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126931,
@@ -11561,6 +11657,14 @@
       "onboard_time": 1721116458,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121522,
+      "num": 121522,
+      "word": "BLG对战LNG",
+      "onboard_time": 1721309839,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 121493,
@@ -12091,14 +12195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109599,
-      "num": 109599,
-      "word": "宗庆后生前曾公开赞赏宗馥莉表现",
-      "onboard_time": 1721308639,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109525,
       "num": 109525,
       "word": "薛之谦 INWARD",
@@ -12393,14 +12489,6 @@
       "onboard_time": 1720912994,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 102458,
-      "num": 102458,
-      "word": "什么星座最容易出INFJ",
-      "onboard_time": 1721309478,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 102392,
@@ -14139,6 +14227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40759,
+      "num": 244882,
+      "word": "中共中央明日10时将举行新闻发布会",
+      "onboard_time": 1721311819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40284,
       "num": 323886,
       "word": "暴雨致宝鸡境内多处道路中断",
@@ -14721,6 +14817,14 @@
       "onboard_time": 1721252170,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19767,
+      "num": 127126,
+      "word": "阿勒泰文旅局喊雷军来打卡",
+      "onboard_time": 1721310920,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 19232,
