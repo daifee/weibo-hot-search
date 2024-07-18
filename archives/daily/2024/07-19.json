@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721330219351,
+  "endTime": 1721331284739,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -185,6 +185,14 @@
       "onboard_time": 1721303657,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117278,
+      "num": 39178,
+      "word": "知情人士称宗馥莉请辞高管此前不知情",
+      "onboard_time": 1721328432,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117080,
@@ -403,14 +411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58666,
-      "num": 39178,
-      "word": "知情人士称宗馥莉请辞高管此前不知情",
-      "onboard_time": 1721328432,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57689,
       "num": 95002,
       "word": "BLG",
@@ -521,6 +521,22 @@
       "onboard_time": 1721328132,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13056,
+      "num": 21306,
+      "word": "长相思 三人行",
+      "onboard_time": 1721330413,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 7455,
+      "num": 21312,
+      "word": "夏日睡莲绽放美得像油画",
+      "onboard_time": 1721324832,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 7250,
