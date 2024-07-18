@@ -1,0 +1,410 @@
+{
+  "runTime": 1721273090606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476272,
+        "num": 1476272,
+        "word": "娃哈哈 宗馥莉",
+        "onboard_time": 1721272937,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1175422,
+        "num": 1175422,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12219,
+        "num": 962272,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819478,
+        "num": 819478,
+        "word": "四川717火灾相关责任人已被警方控制",
+        "onboard_time": 1721269937,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670116,
+        "num": 670116,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 898956,
+        "num": 667544,
+        "word": "网传宗馥莉辞职",
+        "onboard_time": 1721272937,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 521076,
+        "num": 521076,
+        "word": "印度人口在2060年将达17亿",
+        "onboard_time": 1721267778,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 486725,
+        "num": 486725,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422429,
+        "num": 422429,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136095,
+        "num": 414356,
+        "word": "自贡火灾中男子开工程车救下数十人",
+        "onboard_time": 1721271617,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1477581,
+        "num": 401375,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589607,
+        "num": 385752,
+        "word": "娃哈哈前高管称宗馥莉辞职属实",
+        "onboard_time": 1721272937,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 521164,
+        "num": 373302,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366635,
+        "num": 366635,
+        "word": "女主人4克金貔貅被狗子吃了2克",
+        "onboard_time": 1721271378,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43049,
+        "num": 330796,
+        "word": "美股七巨头市值一夜蒸发3.8万亿元",
+        "onboard_time": 1721271617,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 329217,
+        "num": 329217,
+        "word": "我失去了爸妈是班主任带我回家",
+        "onboard_time": 1721265317,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291156,
+        "num": 291156,
+        "word": "睡不着就不要硬睡了",
+        "onboard_time": 1721257513,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283431,
+        "num": 283431,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269030,
+        "num": 269030,
+        "word": "陈意涵 我来自中国台湾",
+        "onboard_time": 1721223798,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259921,
+        "num": 259921,
+        "word": "Yamy段奥娟去看了杨超越话剧",
+        "onboard_time": 1721267538,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 884899,
+        "num": 259825,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 487060,
+        "num": 259631,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349282,
+        "num": 259482,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258908,
+        "num": 258908,
+        "word": "阿根廷总统力挺梅西",
+        "onboard_time": 1721267898,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213616,
+        "num": 213616,
+        "word": "众星峡谷10V10",
+        "onboard_time": 1721273059,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213327,
+        "num": 213327,
+        "word": "拜登新冠检测呈阳性",
+        "onboard_time": 1721258235,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210986,
+        "num": 210986,
+        "word": "我家那闺女中女孩被焦虑支配的一生",
+        "onboard_time": 1721261420,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209033,
+        "num": 209033,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206678,
+        "num": 206678,
+        "word": "唐朝诡事录之西行开播",
+        "onboard_time": 1721264839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203692,
+        "num": 203692,
+        "word": "买衣服出现这几种情况建议赶紧退货",
+        "onboard_time": 1721270358,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196062,
+        "num": 196062,
+        "word": "默杀王传君张钧甯打戏",
+        "onboard_time": 1721272698,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 186589,
+        "word": "自贡百货大楼火灾致16人遇难",
+        "onboard_time": 1721258115,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181147,
+        "num": 181147,
+        "word": "原神滑跪",
+        "onboard_time": 1721259436,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176148,
+        "num": 176148,
+        "word": "四川成立717重大火灾事故调查组",
+        "onboard_time": 1721269698,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174655,
+        "num": 174655,
+        "word": "解说记得情绪失控",
+        "onboard_time": 1721268859,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169878,
+        "num": 169878,
+        "word": "霸王茶姬是在碰瓷星巴克吗",
+        "onboard_time": 1721264179,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162910,
+        "num": 162910,
+        "word": "成毅托马斯全旋",
+        "onboard_time": 1721271077,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161702,
+        "num": 161702,
+        "word": "于正小作文夸白鹿",
+        "onboard_time": 1721268797,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158784,
+        "num": 158784,
+        "word": "王鹤棣新歌烧预告",
+        "onboard_time": 1721271917,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 149335,
+        "word": "错位没有烂尾",
+        "onboard_time": 1721271739,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147678,
+        "num": 147678,
+        "word": "男生为减肥晒背一天一个色",
+        "onboard_time": 1721262260,
+        "rank": 40,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 147551,
+        "num": 147551,
+        "word": "涂山璟没祭拜小夭父母",
+        "onboard_time": 1721260878,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147002,
+        "num": 147002,
+        "word": "用力生长 唱出女性力量",
+        "onboard_time": 1721272458,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150115,
+        "num": 144247,
+        "word": "王鹤棣朴鲨合作",
+        "onboard_time": 1721271378,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141115,
+        "num": 141115,
+        "word": "郑州雨后长出了棉花糖",
+        "onboard_time": 1721270717,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138482,
+        "num": 138482,
+        "word": "2024大连LMF开票",
+        "onboard_time": 1721272878,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136587,
+        "num": 136587,
+        "word": "西子绪电竞文",
+        "onboard_time": 1721265558,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 131671,
+        "num": 131671,
+        "word": "巴黎奥运村里都有啥",
+        "onboard_time": 1721266219,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131135,
+        "num": 131135,
+        "word": "陈哲远李沁ii得e",
+        "onboard_time": 1721272639,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130307,
+        "num": 130307,
+        "word": "王俊凯新歌",
+        "onboard_time": 1721267418,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#当代中国人民最鲜明的精神标识#"
+    }
+  }
+}

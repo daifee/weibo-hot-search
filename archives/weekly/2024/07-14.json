@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721270820147,
+  "endTime": 1721273090606,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -299,20 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1477581,
+      "num": 401375,
+      "word": "差点没认出金晨",
+      "onboard_time": 1721269157,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1476272,
+      "num": 1476272,
+      "word": "娃哈哈 宗馥莉",
+      "onboard_time": 1721272937,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1467557,
       "num": 1467557,
       "word": "女孩",
       "onboard_time": 1720882159,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1466801,
-      "num": 382986,
-      "word": "差点没认出金晨",
-      "onboard_time": 1721269157,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1463137,
@@ -465,6 +473,14 @@
       "onboard_time": 1721037438,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1175422,
+      "num": 1175422,
+      "word": "中国游泳队10天内接受近200次兴奋剂检测",
+      "onboard_time": 1721270659,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1171127,
@@ -875,6 +891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 898956,
+      "num": 667544,
+      "word": "网传宗馥莉辞职",
+      "onboard_time": 1721272937,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 898549,
       "num": 406591,
       "word": "特朗普支持率未获显著领先",
@@ -987,6 +1011,14 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 819478,
+      "num": 819478,
+      "word": "四川717火灾相关责任人已被警方控制",
+      "onboard_time": 1721269937,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816488,
       "num": 409396,
       "word": "呛奶去世婴儿父母与天鹅到家和解",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1721134038,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 794374,
-      "num": 541581,
-      "word": "四川717火灾相关责任人已被警方控制",
-      "onboard_time": 1721269937,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 791895,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670116,
+      "num": 670116,
+      "word": "长相思2魔改",
+      "onboard_time": 1721269878,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664479,
       "num": 316551,
       "word": "王鸥被工作室嘲笑",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1721139440,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 589607,
+      "num": 385752,
+      "word": "娃哈哈前高管称宗馥莉辞职属实",
+      "onboard_time": 1721272937,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 588202,
@@ -2169,6 +2209,14 @@
       "onboard_time": 1720964960,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 521076,
+      "num": 521076,
+      "word": "印度人口在2060年将达17亿",
+      "onboard_time": 1721267778,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 520881,
@@ -3355,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366635,
+      "num": 366635,
+      "word": "女主人4克金貔貅被狗子吃了2克",
+      "onboard_time": 1721271378,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366454,
       "num": 366454,
       "word": "可疑的是案件可怕的是人性",
@@ -3593,22 +3649,6 @@
       "onboard_time": 1720875078,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346063,
-      "num": 346063,
-      "word": "印度人口在2060年将达17亿",
-      "onboard_time": 1721267778,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 344833,
-      "num": 344833,
-      "word": "长相思2魔改",
-      "onboard_time": 1721269878,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 343113,
@@ -4683,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259921,
+      "num": 259921,
+      "word": "Yamy段奥娟去看了杨超越话剧",
+      "onboard_time": 1721267538,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259295,
       "num": 259295,
       "word": "长相思2好癫",
@@ -5579,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213616,
+      "num": 213616,
+      "word": "众星峡谷10V10",
+      "onboard_time": 1721273059,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213063,
       "num": 213063,
       "word": "三伏天谨记三忌三宜",
@@ -5681,6 +5737,14 @@
       "onboard_time": 1721263099,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209033,
+      "num": 209033,
+      "word": "韩网曝YG请记者写Jennie负面新闻",
+      "onboard_time": 1721273059,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208982,
@@ -5929,6 +5993,14 @@
       "onboard_time": 1721199198,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203692,
+      "num": 203692,
+      "word": "买衣服出现这几种情况建议赶紧退货",
+      "onboard_time": 1721270358,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203670,
@@ -6331,6 +6403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "默杀王传君张钧甯打戏",
+      "onboard_time": 1721272698,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195884,
       "num": 195884,
       "word": "恩佐就演唱种族歧视歌曲道歉",
@@ -6721,14 +6801,6 @@
       "onboard_time": 1721026637,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189098,
-      "num": 189098,
-      "word": "Yamy段奥娟去看了杨超越话剧",
-      "onboard_time": 1721267538,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 188959,
@@ -7771,6 +7843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162910,
+      "num": 162910,
+      "word": "成毅托马斯全旋",
+      "onboard_time": 1721271077,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162817,
       "num": 162817,
       "word": "这些零食是炎症炸弹",
@@ -7897,6 +7977,14 @@
       "onboard_time": 1720958300,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158784,
+      "num": 158784,
+      "word": "王鹤棣新歌烧预告",
+      "onboard_time": 1721271917,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 158548,
@@ -8363,6 +8451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150115,
+      "num": 144247,
+      "word": "王鹤棣朴鲨合作",
+      "onboard_time": 1721271378,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "相柳太虐了",
@@ -8416,6 +8512,14 @@
       "word": "白鹿哭戏包破碎的",
       "onboard_time": 1721191160,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149335,
+      "num": 149335,
+      "word": "错位没有烂尾",
+      "onboard_time": 1721271739,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -8521,6 +8625,14 @@
       "onboard_time": 1721190859,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147002,
+      "num": 147002,
+      "word": "用力生长 唱出女性力量",
+      "onboard_time": 1721272458,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 146970,
@@ -8683,14 +8795,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 143401,
-      "num": 143401,
-      "word": "中国游泳队10天内接受近200次兴奋剂检测",
-      "onboard_time": 1721270659,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143306,
       "num": 143306,
       "word": "王勉满脑子都是策略",
@@ -8801,6 +8905,14 @@
       "onboard_time": 1721205679,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141115,
+      "num": 141115,
+      "word": "郑州雨后长出了棉花糖",
+      "onboard_time": 1721270717,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141084,
@@ -8921,6 +9033,14 @@
       "onboard_time": 1721142860,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138482,
+      "num": 138482,
+      "word": "2024大连LMF开票",
+      "onboard_time": 1721272878,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 138479,
@@ -9067,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136095,
+      "num": 414356,
+      "word": "自贡火灾中男子开工程车救下数十人",
+      "onboard_time": 1721271617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135914,
       "num": 135914,
       "word": "沈星回 卧底夫妇",
@@ -9145,14 +9273,6 @@
       "onboard_time": 1721042118,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134070,
-      "num": 134070,
-      "word": "买衣服出现这几种情况建议赶紧退货",
-      "onboard_time": 1721270358,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134062,
@@ -9369,6 +9489,14 @@
       "onboard_time": 1721137639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "陈哲远李沁ii得e",
+      "onboard_time": 1721272639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 131102,
@@ -10081,14 +10209,6 @@
       "onboard_time": 1721209698,
       "rank": 42,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 117182,
-      "num": 117182,
-      "word": "郑州雨后长出了棉花糖",
-      "onboard_time": 1721270717,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117158,
@@ -12060,7 +12180,7 @@
     },
     {
       "raw_hot": 44932,
-      "num": 819599,
+      "num": 962272,
       "word": "小岗梦也是广大农民的梦",
       "onboard_time": 1721224099,
       "rank": 2,
@@ -12113,6 +12233,14 @@
       "onboard_time": 1720943363,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 43049,
+      "num": 330796,
+      "word": "美股七巨头市值一夜蒸发3.8万亿元",
+      "onboard_time": 1721271617,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 42985,

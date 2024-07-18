@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721270820147,
+  "endTime": 1721273090606,
   "band_list": [
     {
       "raw_hot": 1528943,
@@ -11,12 +11,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1466801,
-      "num": 382986,
+      "raw_hot": 1477581,
+      "num": 401375,
       "word": "差点没认出金晨",
       "onboard_time": 1721269157,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1476272,
+      "num": 1476272,
+      "word": "娃哈哈 宗馥莉",
+      "onboard_time": 1721272937,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1431383,
@@ -25,6 +33,14 @@
       "onboard_time": 1721258235,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1175422,
+      "num": 1175422,
+      "word": "中国游泳队10天内接受近200次兴奋剂检测",
+      "onboard_time": 1721270659,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1038448,
@@ -43,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898956,
+      "num": 667544,
+      "word": "网传宗馥莉辞职",
+      "onboard_time": 1721272937,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 864082,
       "num": 308068,
       "word": "经常熬夜的人身体到底有多臭",
@@ -59,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 794374,
-      "num": 541581,
+      "raw_hot": 819478,
+      "num": 819478,
       "word": "四川717火灾相关责任人已被警方控制",
       "onboard_time": 1721269937,
       "rank": 33,
@@ -81,6 +105,14 @@
       "onboard_time": 1721261420,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670116,
+      "num": 670116,
+      "word": "长相思2魔改",
+      "onboard_time": 1721269878,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 619107,
@@ -115,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589607,
+      "num": 385752,
+      "word": "娃哈哈前高管称宗馥莉辞职属实",
+      "onboard_time": 1721272937,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 552339,
       "num": 273558,
       "word": "海底捞小料台没有牛肉粒了",
@@ -137,6 +177,14 @@
       "onboard_time": 1721260637,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521076,
+      "num": 521076,
+      "word": "印度人口在2060年将达17亿",
+      "onboard_time": 1721267778,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 494273,
@@ -291,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366635,
+      "num": 366635,
+      "word": "女主人4克金貔貅被狗子吃了2克",
+      "onboard_time": 1721271378,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363161,
       "num": 363161,
       "word": "大鹏话筒朝天 赵英俊声音响起",
@@ -305,22 +361,6 @@
       "onboard_time": 1721258115,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 346063,
-      "num": 346063,
-      "word": "印度人口在2060年将达17亿",
-      "onboard_time": 1721267778,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 344833,
-      "num": 344833,
-      "word": "长相思2魔改",
-      "onboard_time": 1721269878,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 344644,
@@ -385,6 +425,14 @@
       "onboard_time": 1721258535,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259921,
+      "num": 259921,
+      "word": "Yamy段奥娟去看了杨超越话剧",
+      "onboard_time": 1721267538,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 257094,
@@ -459,6 +507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 213616,
+      "num": 213616,
+      "word": "众星峡谷10V10",
+      "onboard_time": 1721273059,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211596,
       "num": 190489,
       "word": "错位大结局",
@@ -472,6 +528,22 @@
       "word": "3位男生被新郎调剂到伴娘组",
       "onboard_time": 1721263099,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209033,
+      "num": 209033,
+      "word": "韩网曝YG请记者写Jennie负面新闻",
+      "onboard_time": 1721273059,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203692,
+      "num": 203692,
+      "word": "买衣服出现这几种情况建议赶紧退货",
+      "onboard_time": 1721270358,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -489,6 +561,14 @@
       "onboard_time": 1721262139,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "默杀王传君张钧甯打戏",
+      "onboard_time": 1721272698,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 193732,
@@ -521,14 +601,6 @@
       "onboard_time": 1721265377,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189098,
-      "num": 189098,
-      "word": "Yamy段奥娟去看了杨超越话剧",
-      "onboard_time": 1721267538,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 188485,
@@ -595,12 +667,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 162910,
+      "num": 162910,
+      "word": "成毅托马斯全旋",
+      "onboard_time": 1721271077,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158975,
       "num": 158975,
       "word": "susu福福",
       "onboard_time": 1721260999,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158784,
+      "num": 158784,
+      "word": "王鹤棣新歌烧预告",
+      "onboard_time": 1721271917,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 157359,
@@ -619,12 +707,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150115,
+      "num": 144247,
+      "word": "王鹤棣朴鲨合作",
+      "onboard_time": 1721271378,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 149335,
+      "num": 149335,
+      "word": "错位没有烂尾",
+      "onboard_time": 1721271739,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148694,
       "num": 444217,
       "word": "暑期旅游市场消费升温",
       "onboard_time": 1721261118,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 147002,
+      "num": 147002,
+      "word": "用力生长 唱出女性力量",
+      "onboard_time": 1721272458,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 146800,
@@ -635,12 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143401,
-      "num": 143401,
-      "word": "中国游泳队10天内接受近200次兴奋剂检测",
-      "onboard_time": 1721270659,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 141115,
+      "num": 141115,
+      "word": "郑州雨后长出了棉花糖",
+      "onboard_time": 1721270717,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140404,
@@ -667,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138482,
+      "num": 138482,
+      "word": "2024大连LMF开票",
+      "onboard_time": 1721272878,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136463,
       "num": 136463,
       "word": "原神 龙王转圈",
@@ -675,11 +795,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134070,
-      "num": 134070,
-      "word": "买衣服出现这几种情况建议赶紧退货",
-      "onboard_time": 1721270358,
-      "rank": 42,
+      "raw_hot": 136095,
+      "num": 414356,
+      "word": "自贡火灾中男子开工程车救下数十人",
+      "onboard_time": 1721271617,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -697,6 +817,14 @@
       "onboard_time": 1721266219,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "陈哲远李沁ii得e",
+      "onboard_time": 1721272639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 129980,
@@ -785,14 +913,6 @@
       "onboard_time": 1721266577,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117182,
-      "num": 117182,
-      "word": "郑州雨后长出了棉花糖",
-      "onboard_time": 1721270717,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115399,
@@ -1075,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43049,
+      "num": 330796,
+      "word": "美股七巨头市值一夜蒸发3.8万亿元",
+      "onboard_time": 1721271617,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 40808,
       "num": 60397,
       "word": "女子生完二胎婆婆的宠爱buff叠满",
@@ -1084,7 +1212,7 @@
     },
     {
       "raw_hot": 36925,
-      "num": 641488,
+      "num": 962272,
       "word": "小岗梦也是广大农民的梦",
       "onboard_time": 1721224099,
       "rank": 2,
