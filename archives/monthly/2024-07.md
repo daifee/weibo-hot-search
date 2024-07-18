@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/18 17:36:18
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/18 18:21:01
 </p>
 </blockquote>
 <p>
@@ -4365,6 +4365,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BD%95%E6%B4%81%E5%BD%95%E5%AE%8C%E8%8A%82%E7%9B%AE%E5%90%8E%E5%8E%BB%E6%B4%97%E8%80%B3%23" target="weibo">
+建议何洁录完节目后去洗耳（热度：689546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E5%A5%B3%E6%80%A7%23" target="weibo">
 娜扎 我就是一个正常的女性（热度：688781）
 </a>
@@ -6005,12 +6011,6 @@ IVE香港演唱会评论区（热度：566536）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E8%AF%B4%E5%92%8CBright%E7%9A%84%E6%81%8B%E6%83%85%E5%BE%88%E9%A1%BA%E5%88%A9%23" target="weibo">
 郑乃馨说和Bright的恋情很顺利（热度：564687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94%E9%80%80%E8%B4%B9%23" target="weibo">
-中公教育董事长回应退费（热度：564103）
 </a>
 </li>
 

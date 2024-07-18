@@ -1,0 +1,410 @@
+{
+  "runTime": 1721298061787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1842230,
+        "num": 1842230,
+        "word": "三中全会公报",
+        "onboard_time": 1721292019,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479309,
+        "num": 479309,
+        "word": "巴黎市长终于跳入塞纳河游泳",
+        "onboard_time": 1721284399,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45788,
+        "num": 470593,
+        "word": "进一步推进全面深化改革",
+        "onboard_time": 1721295558,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689546,
+        "num": 451214,
+        "word": "建议何洁录完节目后去洗耳",
+        "onboard_time": 1721295919,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93779,
+        "num": 431616,
+        "word": "对进一步全面深化改革做出系统部署",
+        "onboard_time": 1721293940,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580745,
+        "num": 409375,
+        "word": "易烊千玺 凡宇",
+        "onboard_time": 1721291420,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490457,
+        "num": 398366,
+        "word": "杨丞琳突围赛不参与听审投票",
+        "onboard_time": 1721292920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388199,
+        "num": 388199,
+        "word": "红豆生南国 祁煜是男模",
+        "onboard_time": 1721294660,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74284,
+        "num": 387801,
+        "word": "1100架国产无人机点亮巴黎夜空",
+        "onboard_time": 1721294539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51438,
+        "num": 386850,
+        "word": "BBA集体退出价格战真相",
+        "onboard_time": 1721296819,
+        "rank": 9,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 747380,
+        "num": 384743,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412161,
+        "num": 384327,
+        "word": "内娱大大方方的友情最好嗑了",
+        "onboard_time": 1721288179,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383057,
+        "num": 383057,
+        "word": "歌手歌单 伍佰",
+        "onboard_time": 1721289619,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371545,
+        "num": 371545,
+        "word": "韩国宣布出土一堆500年前的牛骨头",
+        "onboard_time": 1721290579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306025,
+        "num": 306025,
+        "word": "张元英被叫阿姨",
+        "onboard_time": 1721287519,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289706,
+        "num": 289706,
+        "word": "男子花5万找黄牛买演唱会门票没出票",
+        "onboard_time": 1721294119,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274834,
+        "num": 274834,
+        "word": "娃哈哈",
+        "onboard_time": 1721294838,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225895,
+        "num": 225895,
+        "word": "减肥后身体对之前的体重还有记忆",
+        "onboard_time": 1721290820,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 218430,
+        "num": 218430,
+        "word": "邓为没有睡前手机依赖症",
+        "onboard_time": 1721297239,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217201,
+        "num": 217201,
+        "word": "网传时代少年团开团体工作室",
+        "onboard_time": 1721293520,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403977,
+        "num": 213138,
+        "word": "官方辟谣25岁男子结婚后发现妻子50岁",
+        "onboard_time": 1721295498,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235699,
+        "num": 211263,
+        "word": "最胖人的碳水来源是淀粉类蔬菜",
+        "onboard_time": 1721292079,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228980,
+        "num": 210574,
+        "word": "金玟庭ins晒宁艺卓",
+        "onboard_time": 1721291661,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206702,
+        "num": 206702,
+        "word": "蟹肉棒",
+        "onboard_time": 1721288417,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96746,
+        "num": 177060,
+        "word": "没想到千元手机这么全能",
+        "onboard_time": 1721293341,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175437,
+        "num": 175437,
+        "word": "孙楠 悟空传",
+        "onboard_time": 1721296638,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154016,
+        "num": 154016,
+        "word": "我们是肖战嫡亲",
+        "onboard_time": 1721289198,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152822,
+        "num": 152822,
+        "word": "笑猫日记完结",
+        "onboard_time": 1721292319,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 152037,
+        "num": 152037,
+        "word": "王鹤棣节目造型图",
+        "onboard_time": 1721297359,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136380,
+        "num": 136380,
+        "word": "高考志愿填了陈哲远",
+        "onboard_time": 1721294060,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135132,
+        "num": 135132,
+        "word": "电影票降至1字头甚至个位数",
+        "onboard_time": 1721289139,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135006,
+        "num": 135006,
+        "word": "孙俪三十九二十八杀青照",
+        "onboard_time": 1721297359,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134590,
+        "num": 134590,
+        "word": "有人这样和我表白原地结婚",
+        "onboard_time": 1721293039,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132301,
+        "num": 132301,
+        "word": "我家那闺女 女生友谊",
+        "onboard_time": 1721297480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122591,
+        "num": 122591,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119528,
+        "num": 119528,
+        "word": "马伊琍Prada全球广告",
+        "onboard_time": 1721296218,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114792,
+        "num": 114792,
+        "word": "花五千买的衣服撞衫餐厅工作服",
+        "onboard_time": 1721288179,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111398,
+        "num": 111398,
+        "word": "南京大屠杀幸存者照片墙再熄灭5盏灯",
+        "onboard_time": 1721292319,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109187,
+        "num": 109187,
+        "word": "孙颖莎爱好过山车",
+        "onboard_time": 1721295919,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108310,
+        "num": 108310,
+        "word": "嗑CP大忌",
+        "onboard_time": 1721285958,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105702,
+        "num": 105702,
+        "word": "怦然4蔡蔡大伦官宣",
+        "onboard_time": 1721295079,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103857,
+        "num": 103857,
+        "word": "主人以为狗怀孕了照顾2月喂胖10斤",
+        "onboard_time": 1721286137,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 97459,
+        "word": "终于有人把二八定律讲清楚了",
+        "onboard_time": 1721297480,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96340,
+        "num": 96340,
+        "word": "王源直播",
+        "onboard_time": 1721295439,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94046,
+        "num": 94046,
+        "word": "朱志鑫白月光学长既视感",
+        "onboard_time": 1721294480,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90412,
+        "num": 90412,
+        "word": "KPL",
+        "onboard_time": 1721294959,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 89274,
+        "word": "你比星光美丽豆瓣开分",
+        "onboard_time": 1721293880,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81372,
+        "num": 81372,
+        "word": "易烊千玺吉他弹唱",
+        "onboard_time": 1721295197,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86837,
+        "num": 79964,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78362,
+        "num": 78362,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会公报全文#"
+    }
+  }
+}
