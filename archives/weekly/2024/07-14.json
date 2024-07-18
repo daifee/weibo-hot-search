@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721267031915,
+  "endTime": 1721270217024,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -281,6 +281,14 @@
       "onboard_time": 1721099598,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1501549,
+      "num": 1501549,
+      "word": "海底捞回应小料台没有牛肉粒",
+      "onboard_time": 1721265917,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 1493141,
@@ -811,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 931490,
+      "num": 382494,
+      "word": "差点没认出金晨",
+      "onboard_time": 1721269157,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931287,
       "num": 307772,
       "word": "不建议穿短裤去电影院的原因",
@@ -1252,7 +1268,7 @@
     },
     {
       "raw_hot": 720715,
-      "num": 368324,
+      "num": 372758,
       "word": "我家那闺女中女孩被焦虑支配的一生",
       "onboard_time": 1721261420,
       "rank": 13,
@@ -1627,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597677,
+      "num": 597677,
+      "word": "我失去了爸妈是班主任带我回家",
+      "onboard_time": 1721265317,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597622,
       "num": 338057,
       "word": "记者拍到子弹划过特朗普耳朵画面",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1721130678,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582756,
+      "num": 253636,
+      "word": "一个人吃海底捞千万别要娃娃",
+      "onboard_time": 1721266758,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 576196,
@@ -2347,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 480852,
+      "num": 480852,
+      "word": "贾玲包场抓娃娃",
+      "onboard_time": 1721268917,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480529,
       "num": 480529,
       "word": "打4份工奶奶丢失2400元工资大哭",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1721264179,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433336,
+      "num": 433336,
+      "word": "应急管理部等派工作组赶赴自贡",
+      "onboard_time": 1721260637,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432863,
@@ -3115,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387213,
+      "num": 387213,
+      "word": "香港消委会就农夫山泉事件致歉",
+      "onboard_time": 1721266159,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387196,
       "num": 387196,
       "word": "英伟达市值一夜蒸发近1.5万亿",
@@ -3251,14 +3307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 370728,
-      "num": 417055,
-      "word": "应急管理部等派工作组赶赴自贡",
-      "onboard_time": 1721260637,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369858,
       "num": 369858,
       "word": "马嘉祺在ABC中选择了D",
@@ -3281,6 +3329,14 @@
       "onboard_time": 1721226197,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 366907,
+      "num": 366907,
+      "word": "阿根廷总统力挺梅西",
+      "onboard_time": 1721267898,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 366454,
@@ -3361,14 +3417,6 @@
       "onboard_time": 1720920202,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 358824,
-      "num": 358824,
-      "word": "海底捞回应小料台没有牛肉粒",
-      "onboard_time": 1721265917,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 358550,
@@ -3625,14 +3673,6 @@
       "onboard_time": 1720975576,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332413,
-      "num": 232426,
-      "word": "一个人吃海底捞千万别要娃娃",
-      "onboard_time": 1721266758,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 331408,
@@ -4299,14 +4339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280422,
-      "num": 280422,
-      "word": "香港消委会就农夫山泉事件致歉",
-      "onboard_time": 1721266159,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279974,
       "num": 209161,
       "word": "最伤腰的姿势",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1720932686,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272079,
+      "num": 272079,
+      "word": "印度人口在2060年将达17亿",
+      "onboard_time": 1721267778,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 270489,
@@ -4643,14 +4683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257302,
-      "num": 257302,
-      "word": "我失去了爸妈是班主任带我回家",
-      "onboard_time": 1721265317,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256823,
       "num": 252855,
       "word": "谁能发明一个戴丸子头的头盔",
@@ -4817,6 +4849,14 @@
       "onboard_time": 1721111957,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248098,
+      "num": 248098,
+      "word": "四川成立717重大火灾事故调查组",
+      "onboard_time": 1721269698,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248032,
@@ -5009,6 +5049,14 @@
       "onboard_time": 1721232797,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237933,
+      "num": 237933,
+      "word": "于正小作文夸白鹿",
+      "onboard_time": 1721268797,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 236830,
@@ -5401,6 +5449,14 @@
       "onboard_time": 1720915216,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217895,
+      "num": 217895,
+      "word": "解说记得情绪失控",
+      "onboard_time": 1721268859,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 217778,
@@ -6083,6 +6139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199029,
+      "num": 199029,
+      "word": "农夫山泉回应香港消委会道歉",
+      "onboard_time": 1721268318,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198803,
       "num": 198803,
       "word": "刘忻张予曦同框逛菜市场",
@@ -6627,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189098,
+      "num": 189098,
+      "word": "Yamy段奥娟去看了杨超越话剧",
+      "onboard_time": 1721267538,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188959,
       "num": 188959,
       "word": "外媒评王一博巴黎传递火炬",
@@ -6939,6 +7011,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180998,
+      "num": 180998,
+      "word": "长相思2魔改",
+      "onboard_time": 1721269878,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180991,
+      "num": 180991,
+      "word": "四川717火灾相关责任人已被警方控制",
+      "onboard_time": 1721269937,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180952,
       "num": 177584,
       "word": "原来鹿晗陈奕迅的热歌是他写的",
@@ -7041,6 +7129,14 @@
       "onboard_time": 1721046077,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177062,
+      "num": 279357,
+      "word": "自贡火灾亲历者讲述逃生经过",
+      "onboard_time": 1721264898,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176897,
@@ -7569,6 +7665,14 @@
       "onboard_time": 1721131579,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164820,
+      "num": 164820,
+      "word": "王俊凯新歌",
+      "onboard_time": 1721267418,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 164574,
@@ -8227,14 +8331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150596,
-      "num": 279357,
-      "word": "自贡火灾亲历者讲述逃生经过",
-      "onboard_time": 1721264898,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150452,
       "num": 150452,
       "word": "抓娃娃预售票房破2亿",
@@ -8625,6 +8721,14 @@
       "onboard_time": 1721221398,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142574,
+      "num": 142574,
+      "word": "小猫学历排名",
+      "onboard_time": 1721268558,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 142516,
@@ -9075,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133677,
+      "num": 133677,
+      "word": "香港消委会称农夫山泉是饮用天然水",
+      "onboard_time": 1721267778,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133590,
       "num": 133590,
       "word": "山东吃货凌晨两点排队抢喝头锅糁",
@@ -9185,6 +9297,14 @@
       "onboard_time": 1721034018,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132324,
+      "num": 447280,
+      "word": "巴黎奥运村里都有啥",
+      "onboard_time": 1721266219,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 132135,
@@ -9321,6 +9441,14 @@
       "onboard_time": 1720880479,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127920,
+      "num": 127920,
+      "word": "小夭变脸",
+      "onboard_time": 1721268259,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 127799,
@@ -9464,6 +9592,14 @@
       "word": "第一次金标给了中国",
       "onboard_time": 1721109858,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125257,
+      "num": 125257,
+      "word": "夏日浪漫从晨起小摊买束荷花开始",
+      "onboard_time": 1721268259,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10601,14 +10737,6 @@
       "onboard_time": 1721210298,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95508,
-      "num": 346689,
-      "word": "巴黎奥运村里都有啥",
-      "onboard_time": 1721266219,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 94895,
@@ -12305,6 +12433,14 @@
       "onboard_time": 1721252591,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27099,
+      "num": 382958,
+      "word": "专家回应农夫山泉溴酸盐含量争议",
+      "onboard_time": 1721269517,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 26809,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721270217024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501549,
+        "num": 1501549,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 597677,
+        "num": 597677,
+        "word": "我失去了爸妈是班主任带我回家",
+        "onboard_time": 1721265317,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15886,
+        "num": 490679,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480852,
+        "num": 480852,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132324,
+        "num": 447280,
+        "word": "巴黎奥运村里都有啥",
+        "onboard_time": 1721266219,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433336,
+        "num": 433336,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427579,
+        "num": 427579,
+        "word": "睡不着就不要硬睡了",
+        "onboard_time": 1721257513,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423437,
+        "num": 423437,
+        "word": "陈意涵 我来自中国台湾",
+        "onboard_time": 1721223798,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387213,
+        "num": 387213,
+        "word": "香港消委会就农夫山泉事件致歉",
+        "onboard_time": 1721266159,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27099,
+        "num": 382958,
+        "word": "专家回应农夫山泉溴酸盐含量争议",
+        "onboard_time": 1721269517,
+        "rank": 9,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 931490,
+        "num": 382494,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600049,
+        "num": 374354,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406666,
+        "num": 372758,
+        "word": "我家那闺女中女孩被焦虑支配的一生",
+        "onboard_time": 1721261420,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368351,
+        "num": 368351,
+        "word": "拜登新冠检测呈阳性",
+        "onboard_time": 1721258235,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 366907,
+        "num": 366907,
+        "word": "阿根廷总统力挺梅西",
+        "onboard_time": 1721267898,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353312,
+        "num": 353312,
+        "word": "自贡百货大楼火灾致16人遇难",
+        "onboard_time": 1721258115,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330068,
+        "num": 330068,
+        "word": "唐朝诡事录之西行开播",
+        "onboard_time": 1721264839,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274238,
+        "num": 274238,
+        "word": "男生为减肥晒背一天一个色",
+        "onboard_time": 1721262260,
+        "rank": 17,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 272079,
+        "num": 272079,
+        "word": "印度人口在2060年将达17亿",
+        "onboard_time": 1721267778,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253785,
+        "num": 253785,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582756,
+        "num": 253636,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515698,
+        "num": 253496,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373031,
+        "num": 252542,
+        "word": "霸王茶姬是在碰瓷星巴克吗",
+        "onboard_time": 1721264179,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248098,
+        "num": 248098,
+        "word": "四川成立717重大火灾事故调查组",
+        "onboard_time": 1721269698,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246421,
+        "num": 246421,
+        "word": "涂山璟没祭拜小夭父母",
+        "onboard_time": 1721260878,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237933,
+        "num": 237933,
+        "word": "于正小作文夸白鹿",
+        "onboard_time": 1721268797,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222139,
+        "num": 222139,
+        "word": "原神滑跪",
+        "onboard_time": 1721259436,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217895,
+        "num": 217895,
+        "word": "解说记得情绪失控",
+        "onboard_time": 1721268859,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199029,
+        "num": 199029,
+        "word": "农夫山泉回应香港消委会道歉",
+        "onboard_time": 1721268318,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193854,
+        "num": 193854,
+        "word": "英伟达市值一夜蒸发近1.5万亿",
+        "onboard_time": 1721262618,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191409,
+        "num": 191409,
+        "word": "西子绪电竞文",
+        "onboard_time": 1721265558,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 189098,
+        "num": 189098,
+        "word": "Yamy段奥娟去看了杨超越话剧",
+        "onboard_time": 1721267538,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180998,
+        "num": 180998,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180991,
+        "num": 180991,
+        "word": "四川717火灾相关责任人已被警方控制",
+        "onboard_time": 1721269937,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177062,
+        "num": 177062,
+        "word": "自贡火灾亲历者讲述逃生经过",
+        "onboard_time": 1721264898,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173186,
+        "num": 173186,
+        "word": "抓娃娃进入2024年内地票房榜前十",
+        "onboard_time": 1721226197,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164820,
+        "num": 164820,
+        "word": "王俊凯新歌",
+        "onboard_time": 1721267418,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163737,
+        "num": 163737,
+        "word": "A股",
+        "onboard_time": 1721268558,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162963,
+        "num": 162963,
+        "word": "大鹏话筒朝天 赵英俊声音响起",
+        "onboard_time": 1721263699,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151122,
+        "num": 151122,
+        "word": "这要是娘娘都来齐了得啥样",
+        "onboard_time": 1721265377,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 142574,
+        "word": "小猫学历排名",
+        "onboard_time": 1721268558,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140789,
+        "num": 140789,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1721260999,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140269,
+        "num": 140269,
+        "word": "原神",
+        "onboard_time": 1721258295,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133677,
+        "num": 133677,
+        "word": "香港消委会称农夫山泉是饮用天然水",
+        "onboard_time": 1721267778,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127920,
+        "num": 127920,
+        "word": "小夭变脸",
+        "onboard_time": 1721268259,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125257,
+        "num": 125257,
+        "word": "夏日浪漫从晨起小摊买束荷花开始",
+        "onboard_time": 1721268259,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117285,
+        "num": 117285,
+        "word": "3位男生被新郎调剂到伴娘组",
+        "onboard_time": 1721263099,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "赴山海成毅打戏花絮",
+        "onboard_time": 1721263458,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116499,
+        "num": 116499,
+        "word": "拜登称马斯克试图收买此次选举",
+        "onboard_time": 1721266219,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115461,
+        "num": 115461,
+        "word": "巴黎奥运村今天开村",
+        "onboard_time": 1721266097,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习领悟总书记全面深化改革方法论#"
+    }
+  }
+}
