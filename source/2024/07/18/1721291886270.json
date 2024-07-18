@@ -1,0 +1,410 @@
+{
+  "runTime": 1721291886270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994715,
+        "num": 1159154,
+        "word": "巴黎市长终于跳入塞纳河游泳",
+        "onboard_time": 1721284399,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709595,
+        "num": 709595,
+        "word": "歌手歌单 伍佰",
+        "onboard_time": 1721289619,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43274,
+        "num": 594743,
+        "word": "百年大党如何交出更加优异的答卷",
+        "onboard_time": 1721276900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 582827,
+        "num": 582827,
+        "word": "单休已成职场用工新要求",
+        "onboard_time": 1721279958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508280,
+        "num": 508280,
+        "word": "花五千买的衣服撞衫餐厅工作服",
+        "onboard_time": 1721288179,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411964,
+        "num": 411964,
+        "word": "易烊千玺 新歌",
+        "onboard_time": 1721287639,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342397,
+        "num": 342397,
+        "word": "蟹肉棒",
+        "onboard_time": 1721288417,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281592,
+        "num": 281592,
+        "word": "歌手突围赛歌单",
+        "onboard_time": 1721289740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274513,
+        "num": 274513,
+        "word": "泫雅多地演唱会取消",
+        "onboard_time": 1721290399,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214374,
+        "num": 214374,
+        "word": "新海诚和radwimps有15次不想合作",
+        "onboard_time": 1721291298,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1309064,
+        "num": 214372,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110689,
+        "num": 214287,
+        "word": "内娱大大方方的友情最好嗑了",
+        "onboard_time": 1721288179,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710258,
+        "num": 214130,
+        "word": "张元英被叫阿姨",
+        "onboard_time": 1721287519,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273968,
+        "num": 214089,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623453,
+        "num": 213976,
+        "word": "主人以为狗怀孕了照顾2月喂胖10斤",
+        "onboard_time": 1721286137,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39889,
+        "num": 213900,
+        "word": "为什么去屑不能太过",
+        "onboard_time": 1721289859,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 259679,
+        "num": 213782,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163705,
+        "num": 213750,
+        "word": "季节",
+        "onboard_time": 1721289680,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 658103,
+        "num": 213656,
+        "word": "多部门回应涉宗馥莉举报信",
+        "onboard_time": 1721289078,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61580,
+        "num": 213577,
+        "word": "男子脑梗瘫痪残疾同事轮流照顾",
+        "onboard_time": 1721291720,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874759,
+        "num": 213462,
+        "word": "一次高危性行为险些不能生育",
+        "onboard_time": 1721282418,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529558,
+        "num": 213383,
+        "word": "员工称宗馥莉接班后频繁更换中高层",
+        "onboard_time": 1721287039,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437330,
+        "num": 213316,
+        "word": "嗑CP大忌",
+        "onboard_time": 1721285958,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317937,
+        "num": 213231,
+        "word": "我们是肖战嫡亲",
+        "onboard_time": 1721289198,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252185,
+        "num": 213112,
+        "word": "易烊千玺 凡宇",
+        "onboard_time": 1721291420,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226818,
+        "num": 213017,
+        "word": "狐狸精找到李莲花了",
+        "onboard_time": 1721280137,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54145,
+        "num": 212913,
+        "word": "俄外长在安理会发言时两人试图打断",
+        "onboard_time": 1721289920,
+        "rank": 26,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 223907,
+        "num": 212867,
+        "word": "金玟庭ins晒宁艺卓",
+        "onboard_time": 1721291661,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223252,
+        "num": 212807,
+        "word": "张晚意说玱玹心滴血快贫血了",
+        "onboard_time": 1721291298,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17145,
+        "num": 212676,
+        "word": "AR15曾制造美国多起大型枪击案",
+        "onboard_time": 1721291478,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42818,
+        "num": 212588,
+        "word": "重庆数百个小区业主要求降物业费",
+        "onboard_time": 1721289920,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212563,
+        "num": 212563,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195866,
+        "num": 195866,
+        "word": "马伊琍代言Prada",
+        "onboard_time": 1721288238,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188624,
+        "num": 188624,
+        "word": "电影票降至1字头甚至个位数",
+        "onboard_time": 1721289139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182712,
+        "num": 182712,
+        "word": "许凯想和王鹤棣一样大爆",
+        "onboard_time": 1721284037,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174672,
+        "num": 174672,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 328072,
+        "num": 174391,
+        "word": "娃哈哈官方店铺删除11点直播字样",
+        "onboard_time": 1721285778,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163608,
+        "num": 163608,
+        "word": "檀健次张凌赫Hi6逆应援",
+        "onboard_time": 1721289740,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158109,
+        "num": 158109,
+        "word": "唐朝诡事录导演 听劝",
+        "onboard_time": 1721287279,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "看小说最讨厌的梗",
+        "onboard_time": 1721287578,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "陈梦说不拿到冠军其他都是空谈",
+        "onboard_time": 1721283318,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150761,
+        "num": 150761,
+        "word": "肖战凭vlog登全球十大高光艺人第二",
+        "onboard_time": 1721286440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144272,
+        "num": 144272,
+        "word": "减肥后身体对之前的体重还有记忆",
+        "onboard_time": 1721290820,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141689,
+        "num": 141689,
+        "word": "INFJ是天生的边界感拿捏大师",
+        "onboard_time": 1721288300,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "韩国宣布出土一堆500年前的牛骨头",
+        "onboard_time": 1721290579,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138642,
+        "num": 138642,
+        "word": "谁懂洗完澡才8点的含金量啊",
+        "onboard_time": 1721277261,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132932,
+        "num": 132932,
+        "word": "娜扎说张云龙是好男人",
+        "onboard_time": 1721288840,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131179,
+        "num": 131179,
+        "word": "杨丞琳唱泪桥",
+        "onboard_time": 1721291179,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77650,
+        "num": 126541,
+        "word": "节能与新能源汽车产业人才缺口将超百万",
+        "onboard_time": 1721286020,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126289,
+        "num": 126289,
+        "word": "日本男子为攒1亿21年只吃凉水泡饭",
+        "onboard_time": 1721278160,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的历史变革#"
+    }
+  }
+}
