@@ -1,0 +1,410 @@
+{
+  "runTime": 1721276652448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880915,
+        "num": 1140946,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 836908,
+        "num": 836908,
+        "word": "娃哈哈 宗馥莉",
+        "onboard_time": 1721272937,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27276,
+        "num": 775797,
+        "word": "奋进是我们共同的答案",
+        "onboard_time": 1721276539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772453,
+        "num": 772453,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587929,
+        "num": 587929,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 565518,
+        "word": "外国博主挑战折耳根",
+        "onboard_time": 1721275219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3791381,
+        "num": 562934,
+        "word": "网传宗馥莉辞职",
+        "onboard_time": 1721272937,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 560290,
+        "num": 560290,
+        "word": "终于又能吃到现偶的细糠了",
+        "onboard_time": 1721273477,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413325,
+        "num": 413325,
+        "word": "四川717火灾相关责任人已被警方控制",
+        "onboard_time": 1721269937,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340868,
+        "num": 340868,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3594600,
+        "num": 338701,
+        "word": "娃哈哈前高管称宗馥莉辞职属实",
+        "onboard_time": 1721272937,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1131511,
+        "num": 332235,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6747,
+        "num": 329300,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594597,
+        "num": 320055,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468427,
+        "num": 317331,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443756,
+        "num": 309966,
+        "word": "特朗普炒作台湾问题引台积电股价超跌",
+        "onboard_time": 1721273659,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348912,
+        "num": 307544,
+        "word": "知情人称娃哈哈高层陆续走了几个",
+        "onboard_time": 1721274438,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303307,
+        "num": 303307,
+        "word": "自贡火灾中男子开工程车救下数十人",
+        "onboard_time": 1721271617,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282154,
+        "num": 282154,
+        "word": "我们的歌首期歌单公布",
+        "onboard_time": 1721273900,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348659,
+        "num": 279684,
+        "word": "宗庆后是娃哈哈第二大股东",
+        "onboard_time": 1721275399,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 687781,
+        "num": 276320,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449513,
+        "num": 274191,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396754,
+        "num": 268192,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1721273958,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 339182,
+        "num": 265316,
+        "word": "于正说白鹿李一桐李沁绝美古典美",
+        "onboard_time": 1721273178,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263888,
+        "num": 263888,
+        "word": "印度人口在2060年将达17亿",
+        "onboard_time": 1721267778,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 334232,
+        "num": 261899,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276535,
+        "num": 260316,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254748,
+        "num": 254748,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70275,
+        "num": 252316,
+        "word": "孕妇胎儿严重贫血河南宝妈捐血帮保胎",
+        "onboard_time": 1721273597,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250634,
+        "num": 250634,
+        "word": "郎平劝年轻人一定别躺平",
+        "onboard_time": 1721275160,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233519,
+        "num": 233519,
+        "word": "暨南大学回应学生反映宿舍甲醛超标",
+        "onboard_time": 1721274919,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231310,
+        "num": 231310,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228854,
+        "num": 228854,
+        "word": "美国女子泳池挣扎10分钟无人救后死亡",
+        "onboard_time": 1721275039,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205476,
+        "num": 205476,
+        "word": "唐朝诡事录之西行开播",
+        "onboard_time": 1721264839,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204214,
+        "num": 204214,
+        "word": "张新成王玉雯竹马cp七夕大片",
+        "onboard_time": 1721274021,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198470,
+        "num": 198470,
+        "word": "女主人4克金貔貅被狗子吃了2克",
+        "onboard_time": 1721271378,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196968,
+        "num": 196968,
+        "word": "韩东君 热搜都没我名儿",
+        "onboard_time": 1721274919,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193119,
+        "num": 193119,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185291,
+        "num": 185291,
+        "word": "张雨霏穿马面裙",
+        "onboard_time": 1721274800,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184722,
+        "num": 184722,
+        "word": "买衣服出现这几种情况建议赶紧退货",
+        "onboard_time": 1721270358,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163478,
+        "num": 163478,
+        "word": "黄景瑜富士山下适配度",
+        "onboard_time": 1721273298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163034,
+        "num": 163034,
+        "word": "Yamy段奥娟去看了杨超越话剧",
+        "onboard_time": 1721267538,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154630,
+        "num": 154630,
+        "word": "拜登新冠检测呈阳性",
+        "onboard_time": 1721258235,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153254,
+        "num": 153254,
+        "word": "吴磊疑似左脚受伤",
+        "onboard_time": 1721276179,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150274,
+        "num": 150274,
+        "word": "睡不着就不要硬睡了",
+        "onboard_time": 1721257513,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 150137,
+        "word": "原神滑跪",
+        "onboard_time": 1721259436,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146592,
+        "num": 146592,
+        "word": "娃哈哈办事处称未收到宗馥莉辞职文件",
+        "onboard_time": 1721274800,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141960,
+        "num": 141960,
+        "word": "布朗尼终于进三分了",
+        "onboard_time": 1721273839,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123228,
+        "num": 123228,
+        "word": "佟大为在错位里又演爽了吧",
+        "onboard_time": 1721275097,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145488,
+        "num": 123141,
+        "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
+        "onboard_time": 1721273539,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的历史变革#"
+    }
+  }
+}

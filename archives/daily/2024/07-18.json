@@ -1,13 +1,21 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721273952032,
+  "endTime": 1721276652448,
   "band_list": [
     {
-      "raw_hot": 2788902,
+      "raw_hot": 3791381,
       "num": 2788902,
       "word": "网传宗馥莉辞职",
       "onboard_time": 1721272937,
       "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 3594600,
+      "num": 385752,
+      "word": "娃哈哈前高管称宗馥莉辞职属实",
+      "onboard_time": 1721272937,
+      "rank": 11,
       "category": "财经"
     },
     {
@@ -16,14 +24,6 @@
       "word": "娃哈哈 宗馥莉",
       "onboard_time": 1721272937,
       "rank": 0,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 2445599,
-      "num": 385752,
-      "word": "娃哈哈前高管称宗馥莉辞职属实",
-      "onboard_time": 1721272937,
-      "rank": 11,
       "category": "财经"
     },
     {
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772453,
+      "num": 772453,
+      "word": "郭麒麟被恋综女嘉宾贴脸开大",
+      "onboard_time": 1721274198,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767261,
       "num": 391454,
       "word": "25岁小伙办完婚礼发现新娘50岁",
@@ -120,6 +128,14 @@
       "word": "长相思2魔改",
       "onboard_time": 1721269878,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 687781,
+      "num": 276320,
+      "word": "吻了多少次才能认出口红色号",
+      "onboard_time": 1721275399,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -153,6 +169,22 @@
       "onboard_time": 1721265317,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594597,
+      "num": 320055,
+      "word": "韩网曝YG请记者写Jennie负面新闻",
+      "onboard_time": 1721273059,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 560290,
+      "num": 560290,
+      "word": "终于又能吃到现偶的细糠了",
+      "onboard_time": 1721273477,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 552339,
@@ -211,20 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454978,
-      "num": 303689,
-      "word": "韩网曝YG请记者写Jennie负面新闻",
-      "onboard_time": 1721273059,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443935,
       "num": 443935,
       "word": "杨紫坚持留下桃林认母剧情",
       "onboard_time": 1721260517,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443756,
+      "num": 309966,
+      "word": "特朗普炒作台湾问题引台积电股价超跌",
+      "onboard_time": 1721273659,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 438865,
@@ -289,6 +321,14 @@
       "onboard_time": 1721269698,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396754,
+      "num": 268192,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1721273958,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 387213,
@@ -379,6 +419,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 348912,
+      "num": 307544,
+      "word": "知情人称娃哈哈高层陆续走了几个",
+      "onboard_time": 1721274438,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 348659,
+      "num": 279684,
+      "word": "宗庆后是娃哈哈第二大股东",
+      "onboard_time": 1721275399,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 344644,
       "num": 228506,
       "word": "赤辰道歉",
@@ -393,6 +449,14 @@
       "onboard_time": 1721250670,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 339182,
+      "num": 299266,
+      "word": "于正说白鹿李一桐李沁绝美古典美",
+      "onboard_time": 1721273178,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 318857,
@@ -411,27 +475,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303307,
+      "num": 414356,
+      "word": "自贡火灾中男子开工程车救下数十人",
+      "onboard_time": 1721271617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301534,
       "num": 301534,
       "word": "巴西网红逼迫20多名粉丝卖淫获刑8年",
       "onboard_time": 1721224219,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299266,
-      "num": 299266,
-      "word": "于正说白鹿李一桐李沁绝美古典美",
-      "onboard_time": 1721273178,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 287692,
-      "num": 414356,
-      "word": "自贡火灾中男子开工程车救下数十人",
-      "onboard_time": 1721271617,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -441,6 +497,14 @@
       "onboard_time": 1721218996,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282154,
+      "num": 282154,
+      "word": "我们的歌首期歌单公布",
+      "onboard_time": 1721273900,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 279325,
@@ -475,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250634,
+      "num": 250634,
+      "word": "郎平劝年轻人一定别躺平",
+      "onboard_time": 1721275160,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250336,
       "num": 250336,
       "word": "于正小作文夸白鹿",
@@ -497,6 +569,22 @@
       "onboard_time": 1721222959,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233519,
+      "num": 233519,
+      "word": "暨南大学回应学生反映宿舍甲醛超标",
+      "onboard_time": 1721274919,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228854,
+      "num": 228854,
+      "word": "美国女子泳池挣扎10分钟无人救后死亡",
+      "onboard_time": 1721275039,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225083,
@@ -571,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206823,
-      "num": 206823,
-      "word": "我们的歌首期歌单公布",
-      "onboard_time": 1721273900,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 204214,
+      "num": 204214,
+      "word": "张新成王玉雯竹马cp七夕大片",
+      "onboard_time": 1721274021,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199029,
@@ -595,20 +683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196968,
+      "num": 196968,
+      "word": "韩东君 热搜都没我名儿",
+      "onboard_time": 1721274919,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196062,
       "num": 196062,
       "word": "默杀王传君张钧甯打戏",
       "onboard_time": 1721272698,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195194,
-      "num": 195194,
-      "word": "终于又能吃到现偶的细糠了",
-      "onboard_time": 1721273477,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 193732,
@@ -657,6 +745,14 @@
       "onboard_time": 1721223619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185291,
+      "num": 185291,
+      "word": "张雨霏穿马面裙",
+      "onboard_time": 1721274800,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 184476,
@@ -715,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164428,
-      "num": 164428,
-      "word": "特朗普炒作台湾问题引台积电股价超跌",
-      "onboard_time": 1721273659,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 163737,
       "num": 163737,
       "word": "A股",
@@ -761,6 +849,14 @@
       "onboard_time": 1721262559,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153254,
+      "num": 153254,
+      "word": "吴磊疑似左脚受伤",
+      "onboard_time": 1721276179,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 152030,
@@ -817,6 +913,30 @@
       "onboard_time": 1721270297,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146592,
+      "num": 146592,
+      "word": "娃哈哈办事处称未收到宗馥莉辞职文件",
+      "onboard_time": 1721274800,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 145488,
+      "num": 312551,
+      "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
+      "onboard_time": 1721273539,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 141960,
+      "num": 141960,
+      "word": "布朗尼终于进三分了",
+      "onboard_time": 1721273839,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 141115,
@@ -891,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131828,
-      "num": 131828,
-      "word": "布朗尼终于进三分了",
-      "onboard_time": 1721273839,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129980,
       "num": 129980,
       "word": "中国男篮集训队今夏1胜10败",
@@ -961,6 +1073,14 @@
       "onboard_time": 1721241312,
       "rank": 21,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 123228,
+      "num": 123228,
+      "word": "佟大为在错位里又演爽了吧",
+      "onboard_time": 1721275097,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 122116,
@@ -1057,6 +1177,14 @@
       "onboard_time": 1721228479,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94438,
+      "num": 565518,
+      "word": "外国博主挑战折耳根",
+      "onboard_time": 1721275219,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94195,
@@ -1315,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27276,
+      "num": 775797,
+      "word": "奋进是我们共同的答案",
+      "onboard_time": 1721276539,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27103,
       "num": 29989,
       "word": "小夭旧痕化尘",
@@ -1345,14 +1481,6 @@
       "onboard_time": 1721232257,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20198,
-      "num": 312551,
-      "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
-      "onboard_time": 1721273539,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 19838,
@@ -1465,6 +1593,9 @@
     },
     {
       "word": "#学习领悟总书记全面深化改革方法论#"
+    },
+    {
+      "word": "#伟大的历史变革#"
     }
   ]
 }

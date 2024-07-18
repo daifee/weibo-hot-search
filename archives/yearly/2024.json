@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721273952032,
+  "endTime": 1721276652448,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3791381,
+      "num": 2788902,
+      "word": "网传宗馥莉辞职",
+      "onboard_time": 1721272937,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 3771891,
       "num": 3771891,
       "word": "乙卷没了",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1708395092,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3594600,
+      "num": 385752,
+      "word": "娃哈哈前高管称宗馥莉辞职属实",
+      "onboard_time": 1721272937,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 3592986,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1710510885,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 3306882,
-      "num": 3306882,
-      "word": "年会不能停导演反对屏摄",
-      "onboard_time": 1708088676,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 3292604,
-      "num": 705628,
-      "word": "云南镇雄发生恶性伤人事件逾10人伤亡",
-      "onboard_time": 1715063357,
-      "rank": 4,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
