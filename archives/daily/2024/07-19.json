@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721327247716,
+  "endTime": 1721327990157,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95895,
+      "num": 55118,
+      "word": "杨迪说谁和娜扎恋爱都心软软",
+      "onboard_time": 1721326214,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95640,
       "num": 95640,
       "word": "犬夜叉 绝美杀生丸",
@@ -328,14 +336,6 @@
       "word": "谁来救救王玉雯",
       "onboard_time": 1721323214,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 72926,
-      "num": 55118,
-      "word": "杨迪说谁和娜扎恋爱都心软软",
-      "onboard_time": 1721326214,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -459,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26909,
+      "raw_hot": 28967,
       "num": 38749,
       "word": "檀健次演出了相柳的风骨",
       "onboard_time": 1721325372,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22739,
+      "num": 38340,
+      "word": "怎么识别酒店床单是否换过",
+      "onboard_time": 1721327172,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 20984,
@@ -489,14 +497,6 @@
       "onboard_time": 1721322973,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15605,
-      "num": 38340,
-      "word": "怎么识别酒店床单是否换过",
-      "onboard_time": 1721327172,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 7250,
