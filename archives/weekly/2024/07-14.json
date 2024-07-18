@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721279970580,
+  "endTime": 1721280957767,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861377,
+      "num": 564989,
+      "word": "日本男子为攒1亿21年只吃凉水泡饭",
+      "onboard_time": 1721278160,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855832,
       "num": 1136933,
       "word": "钟南山院士否认病重传闻",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1721176158,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726470,
-      "num": 564989,
-      "word": "日本男子为攒1亿21年只吃凉水泡饭",
-      "onboard_time": 1721278160,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725963,
@@ -1827,12 +1827,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 588505,
+      "num": 498483,
+      "word": "单休已成职场用工新要求",
+      "onboard_time": 1721279958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588202,
       "num": 1615696,
       "word": "Henry没认出黄磊",
       "onboard_time": 1720916657,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587558,
+      "num": 493363,
+      "word": "少年剧就该少年演",
+      "onboard_time": 1721279119,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 587102,
@@ -2708,7 +2724,7 @@
     },
     {
       "raw_hot": 452960,
-      "num": 268192,
+      "num": 295950,
       "word": "饿瘦和运动瘦的区别",
       "onboard_time": 1721273958,
       "rank": 22,
@@ -3851,14 +3867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332436,
-      "num": 332436,
-      "word": "少年剧就该少年演",
-      "onboard_time": 1721279119,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331408,
       "num": 331408,
       "word": "姆巴佩与皇马正式签约",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1721212458,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331264,
+      "num": 331264,
+      "word": "英国乐队告NewJeans抄袭",
+      "onboard_time": 1721280137,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 330036,
@@ -4009,6 +4025,14 @@
       "onboard_time": 1721021599,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 320043,
+      "num": 320043,
+      "word": "宗馥莉今年接任20多家娃哈哈公司",
+      "onboard_time": 1721279059,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319845,
@@ -5131,14 +5155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246759,
-      "num": 246759,
-      "word": "单休已成职场用工新要求",
-      "onboard_time": 1721279958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246538,
       "num": 246538,
       "word": "在厕所被塞小纸条了",
@@ -5587,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221745,
+      "num": 221745,
+      "word": "等我辞职了就去干这个",
+      "onboard_time": 1721278160,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221599,
       "num": 221599,
       "word": "为什么说晚上洗头生湿气",
@@ -5625,6 +5649,14 @@
       "onboard_time": 1721006778,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "狐狸精找到李莲花了",
+      "onboard_time": 1721280137,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 219321,
@@ -5755,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215090,
+      "num": 215090,
+      "word": "冰咖啡和热咖啡区别竟然这么大",
+      "onboard_time": 1721277320,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214475,
       "num": 214475,
       "word": "高圆圆深V吊带裙",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1721273059,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213427,
+      "num": 213427,
+      "word": "贾玲杨紫要二搭了",
+      "onboard_time": 1721280559,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 213063,
@@ -6073,14 +6121,6 @@
       "onboard_time": 1721100439,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205294,
-      "num": 205294,
-      "word": "等我辞职了就去干这个",
-      "onboard_time": 1721278160,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 205241,
@@ -6795,6 +6835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191821,
+      "num": 191821,
+      "word": "女子带男童进女更衣室被提醒后大骂",
+      "onboard_time": 1721279958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191655,
       "num": 191655,
       "word": "虞书欣温婉国风",
@@ -6809,14 +6857,6 @@
       "onboard_time": 1721104220,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191422,
-      "num": 191422,
-      "word": "冰咖啡和热咖啡区别竟然这么大",
-      "onboard_time": 1721277320,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 191387,
@@ -7627,14 +7667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172770,
-      "num": 172770,
-      "word": "宗馥莉今年接任20多家娃哈哈公司",
-      "onboard_time": 1721279059,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172743,
       "num": 172743,
       "word": "乱马 新作动画",
@@ -7721,6 +7753,14 @@
       "onboard_time": 1721001017,
       "rank": 39,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 170623,
+      "num": 170623,
+      "word": "官方发布自贡717重大火灾事故情况通报",
+      "onboard_time": 1721280739,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170438,
@@ -7867,6 +7907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168058,
+      "num": 168058,
+      "word": "赵今麦hi6路透",
+      "onboard_time": 1721280800,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168015,
       "num": 168015,
       "word": "看卢昱晓正骨默默放下二郎腿",
@@ -7923,6 +7971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167123,
+      "num": 167123,
+      "word": "经常熬夜身体4个部位会变臭",
+      "onboard_time": 1721280079,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166650,
       "num": 166650,
       "word": "新人婚礼上不停唠嗑全程嘴没停过",
@@ -7937,6 +7993,14 @@
       "onboard_time": 1720973838,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165618,
+      "num": 165618,
+      "word": "美国大选不要动辄拿中国说事",
+      "onboard_time": 1721275521,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165554,
@@ -8091,6 +8155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162701,
+      "num": 162701,
+      "word": "海贼王 路飞第一",
+      "onboard_time": 1721278999,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162551,
       "num": 162551,
       "word": "肖战YSL广告大片",
@@ -8113,6 +8185,14 @@
       "onboard_time": 1720966039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162066,
+      "num": 162066,
+      "word": "星穹铁道貊泽",
+      "onboard_time": 1721280439,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 161833,
@@ -8931,14 +9011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146970,
-      "num": 146970,
-      "word": "海贼王 路飞第一",
-      "onboard_time": 1721278999,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 146822,
       "num": 362559,
       "word": "我给AI当老师月入过万",
@@ -9217,6 +9289,14 @@
       "onboard_time": 1721205679,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141275,
+      "num": 141275,
+      "word": "杨紫长相思15集定律",
+      "onboard_time": 1721280619,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141115,
@@ -9687,6 +9767,14 @@
       "num": 471079,
       "word": "没来过中国的老外vs爱上汉服的老外",
       "onboard_time": 1721099658,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132907,
+      "num": 132907,
+      "word": "大小周成一些HR的最大让步",
+      "onboard_time": 1721280559,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -10243,14 +10331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122614,
-      "num": 122614,
-      "word": "女子带男童进女更衣室被提醒后大骂",
-      "onboard_time": 1721279958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "美洲杯决赛现场混乱",
@@ -10321,14 +10401,6 @@
       "onboard_time": 1721116458,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121667,
-      "num": 156794,
-      "word": "美国大选不要动辄拿中国说事",
-      "onboard_time": 1721275521,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121300,
@@ -10545,6 +10617,14 @@
       "onboard_time": 1721208499,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 117508,
+      "num": 117508,
+      "word": "可乐榨菜方便面为何集体涨价",
+      "onboard_time": 1721280018,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117342,
@@ -11289,6 +11369,14 @@
       "onboard_time": 1721185219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92984,
+      "num": 478051,
+      "word": "为了帮你减肥这些医院开门诊了",
+      "onboard_time": 1721279720,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 92459,
@@ -12065,14 +12153,6 @@
       "onboard_time": 1721062454,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59237,
-      "num": 478051,
-      "word": "为了帮你减肥这些医院开门诊了",
-      "onboard_time": 1721279720,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 59110,
@@ -13003,6 +13083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26785,
+      "num": 148356,
+      "word": "张朝阳对话顶级物理学家库姆伦瓦法",
+      "onboard_time": 1721279419,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26762,
       "num": 26762,
       "word": "亚马尔17岁的第一天",
@@ -13417,14 +13505,6 @@
       "onboard_time": 1721073551,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13050,
-      "num": 147050,
-      "word": "张朝阳对话顶级物理学家库姆伦瓦法",
-      "onboard_time": 1721279419,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12972,

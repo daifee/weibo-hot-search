@@ -1,0 +1,410 @@
+{
+  "runTime": 1721280957767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273834,
+        "num": 1273834,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513524,
+        "num": 513524,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40953,
+        "num": 513455,
+        "word": "百年大党如何交出更加优异的答卷",
+        "onboard_time": 1721276900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 978602,
+        "num": 505598,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861377,
+        "num": 503356,
+        "word": "日本男子为攒1亿21年只吃凉水泡饭",
+        "onboard_time": 1721278160,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588505,
+        "num": 498483,
+        "word": "单休已成职场用工新要求",
+        "onboard_time": 1721279958,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587558,
+        "num": 493363,
+        "word": "少年剧就该少年演",
+        "onboard_time": 1721279119,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492819,
+        "num": 492819,
+        "word": "暨南大学回应学生反映宿舍甲醛超标",
+        "onboard_time": 1721274919,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408051,
+        "num": 408051,
+        "word": "郎平劝年轻人一定别躺平",
+        "onboard_time": 1721275160,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92984,
+        "num": 404803,
+        "word": "为了帮你减肥这些医院开门诊了",
+        "onboard_time": 1721279720,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 661262,
+        "num": 401645,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20827,
+        "num": 399833,
+        "word": "京津冀区域货物贸易进出口创新高",
+        "onboard_time": 1721276720,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599561,
+        "num": 395793,
+        "word": "宗庆后是娃哈哈第二大股东",
+        "onboard_time": 1721275399,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393217,
+        "num": 393217,
+        "word": "特朗普炒作台湾问题引台积电股价超跌",
+        "onboard_time": 1721273659,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391495,
+        "num": 391495,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360250,
+        "num": 360250,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331264,
+        "num": 331264,
+        "word": "英国乐队告NewJeans抄袭",
+        "onboard_time": 1721280137,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325968,
+        "num": 325968,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320043,
+        "num": 320043,
+        "word": "宗馥莉今年接任20多家娃哈哈公司",
+        "onboard_time": 1721279059,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298820,
+        "num": 298820,
+        "word": "终于又能吃到现偶的细糠了",
+        "onboard_time": 1721273477,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314430,
+        "num": 295950,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1721273958,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 291589,
+        "num": 291589,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284563,
+        "num": 284563,
+        "word": "朱丹闺蜜田笑蜜被恢复执行1611万元",
+        "onboard_time": 1721278761,
+        "rank": 22,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 221745,
+        "num": 221745,
+        "word": "等我辞职了就去干这个",
+        "onboard_time": 1721278160,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219377,
+        "num": 219377,
+        "word": "狐狸精找到李莲花了",
+        "onboard_time": 1721280137,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215090,
+        "num": 215090,
+        "word": "冰咖啡和热咖啡区别竟然这么大",
+        "onboard_time": 1721277320,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213427,
+        "num": 213427,
+        "word": "贾玲杨紫要二搭了",
+        "onboard_time": 1721280559,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193120,
+        "num": 193120,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191821,
+        "num": 191821,
+        "word": "女子带男童进女更衣室被提醒后大骂",
+        "onboard_time": 1721279958,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170623,
+        "num": 170623,
+        "word": "官方发布自贡717重大火灾事故情况通报",
+        "onboard_time": 1721280739,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170604,
+        "num": 170604,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169370,
+        "num": 169370,
+        "word": "美国女子泳池挣扎10分钟无人救后死亡",
+        "onboard_time": 1721275039,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168058,
+        "num": 168058,
+        "word": "赵今麦hi6路透",
+        "onboard_time": 1721280800,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167123,
+        "num": 167123,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "美国大选不要动辄拿中国说事",
+        "onboard_time": 1721275521,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162701,
+        "num": 162701,
+        "word": "海贼王 路飞第一",
+        "onboard_time": 1721278999,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162066,
+        "num": 162066,
+        "word": "星穹铁道貊泽",
+        "onboard_time": 1721280439,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157050,
+        "num": 157050,
+        "word": "李斯丹妮变化好大",
+        "onboard_time": 1721278522,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154557,
+        "num": 154557,
+        "word": "于正说白鹿李一桐李沁绝美古典美",
+        "onboard_time": 1721273178,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26785,
+        "num": 148356,
+        "word": "张朝阳对话顶级物理学家库姆伦瓦法",
+        "onboard_time": 1721279419,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143086,
+        "num": 143086,
+        "word": "天蝎座的感情离不开陪伴",
+        "onboard_time": 1721278999,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143028,
+        "num": 143028,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141275,
+        "num": 141275,
+        "word": "杨紫长相思15集定律",
+        "onboard_time": 1721280619,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "我们的歌首期歌单公布",
+        "onboard_time": 1721273900,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133234,
+        "num": 133234,
+        "word": "孟子义夸王星越靠帅进的中戏",
+        "onboard_time": 1721279419,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132907,
+        "num": 132907,
+        "word": "大小周成一些HR的最大让步",
+        "onboard_time": 1721280559,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126692,
+        "num": 126692,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117508,
+        "num": 117508,
+        "word": "可乐榨菜方便面为何集体涨价",
+        "onboard_time": 1721280018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115302,
+        "num": 115302,
+        "word": "买衣服出现这几种情况建议赶紧退货",
+        "onboard_time": 1721270358,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的历史变革#"
+    }
+  }
+}
