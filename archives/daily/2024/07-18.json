@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721276652448,
+  "endTime": 1721277517526,
   "band_list": [
     {
       "raw_hot": 3791381,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1222428,
+      "num": 1222428,
+      "word": "郭麒麟被恋综女嘉宾贴脸开大",
+      "onboard_time": 1721274198,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1175422,
       "num": 1175422,
       "word": "中国游泳队10天内接受近200次兴奋剂检测",
@@ -73,6 +81,14 @@
       "onboard_time": 1721258115,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889577,
+      "num": 434792,
+      "word": "吻了多少次才能认出口红色号",
+      "onboard_time": 1721275399,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 864082,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772453,
-      "num": 772453,
-      "word": "郭麒麟被恋综女嘉宾贴脸开大",
-      "onboard_time": 1721274198,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 767261,
       "num": 391454,
       "word": "25岁小伙办完婚礼发现新娘50岁",
@@ -131,12 +139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 687781,
-      "num": 276320,
-      "word": "吻了多少次才能认出口红色号",
-      "onboard_time": 1721275399,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 623236,
+      "num": 309966,
+      "word": "特朗普炒作台湾问题引台积电股价超跌",
+      "onboard_time": 1721273659,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 619107,
@@ -177,6 +185,14 @@
       "onboard_time": 1721273059,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563970,
+      "num": 279684,
+      "word": "宗庆后是娃哈哈第二大股东",
+      "onboard_time": 1721275399,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 560290,
@@ -243,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452960,
+      "num": 268192,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1721273958,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 443935,
       "num": 443935,
       "word": "杨紫坚持留下桃林认母剧情",
       "onboard_time": 1721260517,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443756,
-      "num": 309966,
-      "word": "特朗普炒作台湾问题引台积电股价超跌",
-      "onboard_time": 1721273659,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 438865,
@@ -321,14 +337,6 @@
       "onboard_time": 1721269698,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396754,
-      "num": 268192,
-      "word": "饿瘦和运动瘦的区别",
-      "onboard_time": 1721273958,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 387213,
@@ -427,14 +435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 348659,
-      "num": 279684,
-      "word": "宗庆后是娃哈哈第二大股东",
-      "onboard_time": 1721275399,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 344644,
       "num": 228506,
       "word": "赤辰道歉",
@@ -457,6 +457,14 @@
       "onboard_time": 1721273178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324299,
+      "num": 282154,
+      "word": "我们的歌首期歌单公布",
+      "onboard_time": 1721273900,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 318857,
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282154,
-      "num": 282154,
-      "word": "我们的歌首期歌单公布",
-      "onboard_time": 1721273900,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 282994,
+      "num": 282994,
+      "word": "郎平劝年轻人一定别躺平",
+      "onboard_time": 1721275160,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 279325,
@@ -539,20 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250634,
-      "num": 250634,
-      "word": "郎平劝年轻人一定别躺平",
-      "onboard_time": 1721275160,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250336,
       "num": 250336,
       "word": "于正小作文夸白鹿",
       "onboard_time": 1721268797,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241152,
+      "num": 241152,
+      "word": "暨南大学回应学生反映宿舍甲醛超标",
+      "onboard_time": 1721274919,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238641,
@@ -569,14 +577,6 @@
       "onboard_time": 1721222959,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 233519,
-      "num": 233519,
-      "word": "暨南大学回应学生反映宿舍甲醛超标",
-      "onboard_time": 1721274919,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228854,
@@ -795,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173351,
+      "num": 173351,
+      "word": "古茗免单口令",
+      "onboard_time": 1721277440,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164820,
       "num": 164820,
       "word": "王俊凯新歌",
@@ -827,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160954,
+      "num": 160954,
+      "word": "谁懂洗完澡才8点的含金量啊",
+      "onboard_time": 1721277261,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158975,
       "num": 158975,
       "word": "susu福福",
@@ -849,6 +865,14 @@
       "onboard_time": 1721262559,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154199,
+      "num": 154199,
+      "word": "佟大为在错位里又演爽了吧",
+      "onboard_time": 1721275097,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 153254,
@@ -891,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149316,
+      "num": 312551,
+      "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
+      "onboard_time": 1721273539,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 148694,
       "num": 444217,
       "word": "暑期旅游市场消费升温",
@@ -923,14 +955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145488,
-      "num": 312551,
-      "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
-      "onboard_time": 1721273539,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 141960,
       "num": 141960,
       "word": "布朗尼终于进三分了",
@@ -945,6 +969,14 @@
       "onboard_time": 1721270717,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140667,
+      "num": 140667,
+      "word": "冰咖啡和热咖啡区别竟然这么大",
+      "onboard_time": 1721277320,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 140404,
@@ -1075,14 +1107,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 123228,
-      "num": 123228,
-      "word": "佟大为在错位里又演爽了吧",
-      "onboard_time": 1721275097,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122116,
       "num": 184326,
       "word": "林一 不想做人很久了",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1721266577,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118848,
+      "num": 565518,
+      "word": "外国博主挑战折耳根",
+      "onboard_time": 1721275219,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115399,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1721228479,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94438,
-      "num": 565518,
-      "word": "外国博主挑战折耳根",
-      "onboard_time": 1721275219,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94195,
@@ -1331,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57601,
+      "num": 330796,
+      "word": "美股七巨头市值一夜蒸发3.8万亿元",
+      "onboard_time": 1721271617,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 56962,
       "num": 90554,
       "word": "三伏天真的适合减肥吗",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1721228537,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43049,
-      "num": 330796,
-      "word": "美股七巨头市值一夜蒸发3.8万亿元",
-      "onboard_time": 1721271617,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 40808,
@@ -1483,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20710,
+      "num": 489922,
+      "word": "百年大党如何交出更加优异的答卷",
+      "onboard_time": 1721276900,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19838,
       "num": 29984,
       "word": "四方馆首发花絮",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1721242332,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14128,
+      "num": 330649,
+      "word": "京津冀区域货物贸易进出口创新高",
+      "onboard_time": 1721276720,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13882,
