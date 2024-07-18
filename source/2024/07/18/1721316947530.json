@@ -1,0 +1,410 @@
+{
+  "runTime": 1721316947530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 689097,
+        "num": 1110255,
+        "word": "瓶装饮用水跌破7毛大关",
+        "onboard_time": 1721313380,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417267,
+        "num": 417267,
+        "word": "奥运期间巴黎物价全面上涨",
+        "onboard_time": 1721313679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3459,
+        "num": 413489,
+        "word": "奋进是我们共同的答案",
+        "onboard_time": 1721276539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 892573,
+        "num": 396303,
+        "word": "全网首个十连绝世已诞生",
+        "onboard_time": 1721304139,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 724429,
+        "num": 384030,
+        "word": "涂山璟下线",
+        "onboard_time": 1721301197,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685780,
+        "num": 369978,
+        "word": "唐朝诡事录 好看",
+        "onboard_time": 1721306299,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437320,
+        "num": 360234,
+        "word": "张晚意演技",
+        "onboard_time": 1721311819,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355578,
+        "num": 355578,
+        "word": "三中全会公报",
+        "onboard_time": 1721292019,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50019,
+        "num": 203905,
+        "word": "暑期博物馆热持续升温",
+        "onboard_time": 1721314999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193653,
+        "num": 193653,
+        "word": "有奥迪销售称两天涨两次后下周还涨",
+        "onboard_time": 1721308159,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 591690,
+        "num": 193469,
+        "word": "印度男子抛妻弃子与母牛结婚",
+        "onboard_time": 1721314579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393402,
+        "num": 193257,
+        "word": "黄灿灿 这下真的意箭疯篌了",
+        "onboard_time": 1721305697,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340588,
+        "num": 192986,
+        "word": "意大利一女游客涉嫌猥亵雕像",
+        "onboard_time": 1721301078,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312201,
+        "num": 192860,
+        "word": "吴磊刘亦菲同框",
+        "onboard_time": 1721309959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274632,
+        "num": 192701,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204333,
+        "num": 192384,
+        "word": "王一博传递火炬上了英语试卷",
+        "onboard_time": 1721316559,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "胡先煦天津i人再就业",
+        "onboard_time": 1721315839,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159801,
+        "num": 192188,
+        "word": "男子花5万找黄牛买演唱会门票没出票",
+        "onboard_time": 1721294119,
+        "rank": 17,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 198890,
+        "num": 191391,
+        "word": "刘亦菲高定白裙",
+        "onboard_time": 1721300298,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28207,
+        "num": 190699,
+        "word": "李盈莹希望在巴黎尽情展示自己",
+        "onboard_time": 1721316799,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269777,
+        "num": 189537,
+        "word": "于文文把自己养成了很好的大人",
+        "onboard_time": 1721310739,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235576,
+        "num": 189049,
+        "word": "因为爷爷的一个朋友圈在宿舍爆哭",
+        "onboard_time": 1721312780,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188705,
+        "num": 188705,
+        "word": "卢凌风唐诡2有自己的狐狸精",
+        "onboard_time": 1721314579,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97836,
+        "num": 185661,
+        "word": "挪威放假",
+        "onboard_time": 1721308159,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184535,
+        "num": 184535,
+        "word": "唐朝诡事录 凶手是谁",
+        "onboard_time": 1721306657,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178759,
+        "num": 178759,
+        "word": "什么星座最容易出INFJ",
+        "onboard_time": 1721309478,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176565,
+        "num": 176565,
+        "word": "度华年番外真是什么都敢拍",
+        "onboard_time": 1721314999,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176078,
+        "num": 176078,
+        "word": "爷爷把我几年前的水宝宝天天照顾着",
+        "onboard_time": 1721315419,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161055,
+        "num": 161055,
+        "word": "魏秋子邵一辰竟然结婚了",
+        "onboard_time": 1721313320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156115,
+        "num": 156115,
+        "word": "易烊千玺新歌空降成绩",
+        "onboard_time": 1721313561,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155480,
+        "num": 155480,
+        "word": "小夭 他一直陪我等你来",
+        "onboard_time": 1721312720,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148311,
+        "num": 148311,
+        "word": "曾舜晞的真名也没瞒过白鹿",
+        "onboard_time": 1721303778,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145704,
+        "num": 145704,
+        "word": "涂山璟 背景板",
+        "onboard_time": 1721302458,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144888,
+        "num": 144888,
+        "word": "涂山璟下线原文",
+        "onboard_time": 1721303657,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137096,
+        "num": 137096,
+        "word": "王者荣耀",
+        "onboard_time": 1721310139,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122981,
+        "num": 122981,
+        "word": "唐朝诡事录之西行",
+        "onboard_time": 1721305397,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122698,
+        "num": 122698,
+        "word": "长相思老年妆",
+        "onboard_time": 1721308820,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111053,
+        "num": 122689,
+        "word": "官方辟谣25岁男子结婚后发现妻子50岁",
+        "onboard_time": 1721295498,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97292,
+        "num": 122586,
+        "word": "AG战胜TCG",
+        "onboard_time": 1721313679,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 122517,
+        "word": "小猫太胖是会被嘲笑的",
+        "onboard_time": 1721312360,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104232,
+        "num": 122401,
+        "word": "相柳双份心痛",
+        "onboard_time": 1721312780,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102392,
+        "num": 122362,
+        "word": "陈少熙现场科普呼吸性碱中毒",
+        "onboard_time": 1721314340,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100980,
+        "num": 122262,
+        "word": "玱玹彻底开疯了",
+        "onboard_time": 1721304499,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96532,
+        "num": 122195,
+        "word": "陶喆 黑色柳丁",
+        "onboard_time": 1721312539,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88006,
+        "num": 122072,
+        "word": "陈泽说伤害比不过TheShy",
+        "onboard_time": 1721315718,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87616,
+        "num": 122018,
+        "word": "不要怀疑这真的是瓷器",
+        "onboard_time": 1721312600,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96397,
+        "num": 121894,
+        "word": "陈少熙说自己退出情场太久了",
+        "onboard_time": 1721316859,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83111,
+        "num": 121850,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1721310321,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73733,
+        "num": 121742,
+        "word": "丁俊晖3比6奥沙利文",
+        "onboard_time": 1721313197,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73408,
+        "num": 121648,
+        "word": "巴黎奥运村就餐区一半是素食",
+        "onboard_time": 1721308401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会公报全文#"
+    }
+  }
+}

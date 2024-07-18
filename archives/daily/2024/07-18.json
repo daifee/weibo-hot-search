@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721316161677,
+  "endTime": 1721316947530,
   "band_list": [
     {
       "raw_hot": 5737660,
@@ -187,7 +187,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 872242,
+      "raw_hot": 892573,
       "num": 535095,
       "word": "全网首个十连绝世已诞生",
       "onboard_time": 1721304139,
@@ -393,6 +393,14 @@
       "onboard_time": 1721273059,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591690,
+      "num": 244035,
+      "word": "印度男子抛妻弃子与母牛结婚",
+      "onboard_time": 1721314579,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587558,
@@ -731,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 417267,
+      "num": 417267,
+      "word": "奥运期间巴黎物价全面上涨",
+      "onboard_time": 1721313679,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414603,
       "num": 311156,
       "word": "官方发布自贡717重大火灾事故情况通报",
@@ -849,14 +865,6 @@
       "onboard_time": 1721264839,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373740,
-      "num": 373740,
-      "word": "奥运期间巴黎物价全面上涨",
-      "onboard_time": 1721313679,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 371691,
@@ -1236,19 +1244,11 @@
     },
     {
       "raw_hot": 244695,
-      "num": 185733,
+      "num": 189049,
       "word": "因为爷爷的一个朋友圈在宿舍爆哭",
       "onboard_time": 1721312780,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244035,
-      "num": 244035,
-      "word": "印度男子抛妻弃子与母牛结婚",
-      "onboard_time": 1721314579,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240854,
@@ -1547,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204333,
+      "num": 192384,
+      "word": "王一博传递火炬上了英语试卷",
+      "onboard_time": 1721316559,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204214,
       "num": 204214,
       "word": "张新成王玉雯竹马cp七夕大片",
@@ -1667,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192262,
+      "num": 192262,
+      "word": "胡先煦天津i人再就业",
+      "onboard_time": 1721315839,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190549,
       "num": 190549,
       "word": "小猫学历排名",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1721265377,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188705,
+      "num": 188705,
+      "word": "卢凌风唐诡2有自己的狐狸精",
+      "onboard_time": 1721314579,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 188485,
@@ -1753,14 +1777,6 @@
       "onboard_time": 1721306419,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185720,
-      "num": 185720,
-      "word": "卢凌风唐诡2有自己的狐狸精",
-      "onboard_time": 1721314579,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 185291,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1721314999,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176078,
+      "num": 176078,
+      "word": "爷爷把我几年前的水宝宝天天照顾着",
+      "onboard_time": 1721315419,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 175609,
@@ -1977,14 +2001,6 @@
       "onboard_time": 1721280800,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167962,
-      "num": 167962,
-      "word": "胡先煦天津i人再就业",
-      "onboard_time": 1721315839,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 166598,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1721292319,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150571,
-      "num": 150571,
-      "word": "爷爷把我几年前的水宝宝天天照顾着",
-      "onboard_time": 1721315419,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 150115,
@@ -2700,7 +2708,7 @@
     },
     {
       "raw_hot": 121986,
-      "num": 121986,
+      "num": 122362,
       "word": "陈少熙现场科普呼吸性碱中毒",
       "onboard_time": 1721314340,
       "rank": 36,
@@ -2812,7 +2820,7 @@
     },
     {
       "raw_hot": 111885,
-      "num": 120996,
+      "num": 122517,
       "word": "小猫太胖是会被嘲笑的",
       "onboard_time": 1721312360,
       "rank": 39,
@@ -2860,7 +2868,7 @@
     },
     {
       "raw_hot": 102741,
-      "num": 118213,
+      "num": 122072,
       "word": "陈泽说伤害比不过TheShy",
       "onboard_time": 1721315718,
       "rank": 38,
@@ -2907,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97292,
+      "num": 122586,
+      "word": "AG战胜TCG",
+      "onboard_time": 1721313679,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97251,
       "num": 187621,
       "word": "戒指哥 我破防了",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1721217317,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96397,
+      "num": 121894,
+      "word": "陈少熙说自己退出情场太久了",
+      "onboard_time": 1721316859,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 96340,
@@ -2972,7 +2996,7 @@
     },
     {
       "raw_hot": 93305,
-      "num": 93305,
+      "num": 121742,
       "word": "丁俊晖3比6奥沙利文",
       "onboard_time": 1721313197,
       "rank": 48,
@@ -3251,6 +3275,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 50019,
+      "num": 242888,
+      "word": "暑期博物馆热持续升温",
+      "onboard_time": 1721314999,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49348,
       "num": 56938,
       "word": "为什么奶茶店不能早上八点开门",
@@ -3315,14 +3347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42291,
-      "num": 242888,
-      "word": "暑期博物馆热持续升温",
-      "onboard_time": 1721314999,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40808,
       "num": 60397,
       "word": "女子生完二胎婆婆的宠爱buff叠满",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1721283678,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28207,
+      "num": 190699,
+      "word": "李盈莹希望在巴黎尽情展示自己",
+      "onboard_time": 1721316799,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27276,
