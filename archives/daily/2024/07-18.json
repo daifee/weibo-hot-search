@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721301452628,
+  "endTime": 1721302465900,
   "band_list": [
     {
       "raw_hot": 5737660,
@@ -121,6 +121,14 @@
       "onboard_time": 1721288179,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1109930,
+      "num": 404800,
+      "word": "涂山璟下线",
+      "onboard_time": 1721301197,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 1067128,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522946,
+      "num": 522946,
+      "word": "男子花5万找黄牛买演唱会门票没出票",
+      "onboard_time": 1721294119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521076,
       "num": 521076,
       "word": "印度人口在2060年将达17亿",
@@ -435,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500817,
-      "num": 500817,
-      "word": "男子花5万找黄牛买演唱会门票没出票",
-      "onboard_time": 1721294119,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 504020,
+      "num": 268380,
+      "word": "TFBOYS同时上热搜变相合体",
+      "onboard_time": 1721301378,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 497836,
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418610,
+      "num": 266889,
+      "word": "意大利一女游客涉嫌猥亵雕像",
+      "onboard_time": 1721301078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414603,
       "num": 311156,
       "word": "官方发布自贡717重大火灾事故情况通报",
@@ -657,6 +681,14 @@
       "onboard_time": 1721290579,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392139,
+      "num": 392139,
+      "word": "度华年番外",
+      "onboard_time": 1721300418,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 391701,
@@ -723,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 367748,
+      "num": 386850,
+      "word": "BBA集体退出价格战真相",
+      "onboard_time": 1721296819,
+      "rank": 9,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 367514,
       "num": 367514,
       "word": "抓娃娃进入2024年内地票房榜前十",
@@ -737,14 +777,6 @@
       "onboard_time": 1721267898,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366906,
-      "num": 386850,
-      "word": "BBA集体退出价格战真相",
-      "onboard_time": 1721296819,
-      "rank": 9,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 366635,
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285824,
-      "num": 285824,
-      "word": "度华年番外",
-      "onboard_time": 1721300418,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284929,
       "num": 284929,
       "word": "网传时代少年团开团体工作室",
@@ -953,6 +977,14 @@
       "onboard_time": 1721290399,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264739,
+      "num": 222700,
+      "word": "终于有人把二八定律讲清楚了",
+      "onboard_time": 1721297480,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 263510,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1721232797,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236516,
-      "num": 207927,
-      "word": "终于有人把二八定律讲清楚了",
-      "onboard_time": 1721297480,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 236250,
@@ -1267,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205164,
-      "num": 205164,
-      "word": "涂山璟下线",
-      "onboard_time": 1721301197,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204214,
       "num": 204214,
       "word": "张新成王玉雯竹马cp七夕大片",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1721298499,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "长相思2",
+      "onboard_time": 1721301197,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199029,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1721265377,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188722,
-      "num": 188722,
-      "word": "TFBOYS同时上热搜变相合体",
-      "onboard_time": 1721301378,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 188485,
@@ -2123,14 +2139,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126320,
-      "num": 126320,
-      "word": "长相思2",
-      "onboard_time": 1721301197,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125855,
       "num": 189354,
       "word": "薛之谦戒指",
@@ -2203,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117819,
+      "num": 117819,
+      "word": "总有人一边丢人一边爱你",
+      "onboard_time": 1721302338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117543,
       "num": 117543,
       "word": "王俊凯rap",
@@ -2251,14 +2267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111202,
-      "num": 155444,
-      "word": "意大利一女游客涉嫌猥亵雕像",
-      "onboard_time": 1721301078,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111041,
       "num": 186072,
       "word": "苏醒为薛之谦庆生",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1721299398,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100135,
+      "num": 100135,
+      "word": "杨紫160秒一镜到底哭戏",
+      "onboard_time": 1721302338,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 97251,
@@ -2409,6 +2425,14 @@
       "onboard_time": 1721219297,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84683,
+      "num": 84683,
+      "word": "睡莲开出多巴胺色彩的夏天",
+      "onboard_time": 1721301078,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 81434,
@@ -2643,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45626,
+      "num": 144639,
+      "word": "新加坡出生率创64年新低",
+      "onboard_time": 1721301977,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45566,
       "num": 56919,
       "word": "马伊琍吐槽影视剧大女主形象",
@@ -2728,6 +2760,14 @@
       "word": "张朝阳对话顶级物理学家库姆伦瓦法",
       "onboard_time": 1721279419,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26707,
+      "num": 148624,
+      "word": "消防员脚割出4cm伤口没喊一声疼",
+      "onboard_time": 1721302399,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2819,6 +2859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 16981,
+      "num": 286485,
+      "word": "内部人士回应网传蔚来部分车型涨价",
+      "onboard_time": 1721301197,
+      "rank": 14,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 16856,
       "num": 395249,
       "word": "奶奶开3元理发店20年不涨价",
@@ -2851,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13662,
+      "num": 290402,
+      "word": "张雨霏手举吉祥物合影",
+      "onboard_time": 1721300539,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13630,
       "num": 121109,
       "word": "清洁工人捡起了误入马路的小猫",
@@ -2865,22 +2921,6 @@
       "onboard_time": 1721250012,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 290402,
-      "word": "张雨霏手举吉祥物合影",
-      "onboard_time": 1721300539,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11029,
-      "num": 286485,
-      "word": "内部人士回应网传蔚来部分车型涨价",
-      "onboard_time": 1721301197,
-      "rank": 14,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 10168,

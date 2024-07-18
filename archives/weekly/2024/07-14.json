@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721301452628,
+  "endTime": 1721302465900,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -625,6 +625,14 @@
       "onboard_time": 1721288179,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1109930,
+      "num": 404800,
+      "word": "涂山璟下线",
+      "onboard_time": 1721301197,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 1101363,
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522946,
+      "num": 522946,
+      "word": "男子花5万找黄牛买演唱会门票没出票",
+      "onboard_time": 1721294119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522881,
       "num": 522881,
       "word": "孙颖莎关晓彤相约打乒乓",
@@ -2563,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504020,
+      "num": 268380,
+      "word": "TFBOYS同时上热搜变相合体",
+      "onboard_time": 1721301378,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502687,
       "num": 890429,
       "word": "为什么成龙电影逐渐失去票房号召力",
@@ -2593,14 +2617,6 @@
       "onboard_time": 1721107399,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 500817,
-      "num": 500817,
-      "word": "男子花5万找黄牛买演唱会门票没出票",
-      "onboard_time": 1721294119,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497836,
@@ -3347,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418610,
+      "num": 266889,
+      "word": "意大利一女游客涉嫌猥亵雕像",
+      "onboard_time": 1721301078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415919,
       "num": 1155026,
       "word": "歌手曾舜晞回来了",
@@ -3579,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392139,
+      "num": 776747,
+      "word": "度华年番外",
+      "onboard_time": 1720932686,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391701,
       "num": 391701,
       "word": "吴奇隆在机场跑道开车",
@@ -3787,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367748,
+      "num": 386850,
+      "word": "BBA集体退出价格战真相",
+      "onboard_time": 1721296819,
+      "rank": 9,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 367514,
       "num": 367514,
       "word": "抓娃娃进入2024年内地票房榜前十",
@@ -3801,14 +3841,6 @@
       "onboard_time": 1721267898,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366906,
-      "num": 386850,
-      "word": "BBA集体退出价格战真相",
-      "onboard_time": 1721296819,
-      "rank": 9,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 366635,
@@ -4811,14 +4843,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 285824,
-      "num": 776747,
-      "word": "度华年番外",
-      "onboard_time": 1720932686,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285747,
       "num": 219336,
       "word": "特朗普遭刺杀细节曝光",
@@ -5185,6 +5209,14 @@
       "onboard_time": 1721204839,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264739,
+      "num": 222700,
+      "word": "终于有人把二八定律讲清楚了",
+      "onboard_time": 1721297480,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 263510,
@@ -5705,14 +5737,6 @@
       "onboard_time": 1720879580,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236516,
-      "num": 207927,
-      "word": "终于有人把二八定律讲清楚了",
-      "onboard_time": 1721297480,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 236250,
@@ -6643,14 +6667,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 205164,
-      "num": 205164,
-      "word": "涂山璟下线",
-      "onboard_time": 1721301197,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205104,
       "num": 205104,
       "word": "相柳防风邶AI角色热度破4000万",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1721039238,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "长相思2",
+      "onboard_time": 1721301197,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199424,
@@ -7585,14 +7609,6 @@
       "onboard_time": 1720916839,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188722,
-      "num": 188722,
-      "word": "TFBOYS同时上热搜变相合体",
-      "onboard_time": 1721301378,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 188559,
@@ -10939,14 +10955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126320,
-      "num": 126320,
-      "word": "长相思2",
-      "onboard_time": 1721301197,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126162,
       "num": 126162,
       "word": "干热和湿热的区别",
@@ -11467,6 +11475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117819,
+      "num": 117819,
+      "word": "总有人一边丢人一边爱你",
+      "onboard_time": 1721302338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117801,
       "num": 255270,
       "word": "沈月好可爱",
@@ -11697,14 +11713,6 @@
       "onboard_time": 1721031738,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 111202,
-      "num": 155444,
-      "word": "意大利一女游客涉嫌猥亵雕像",
-      "onboard_time": 1721301078,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111180,
@@ -12155,6 +12163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100135,
+      "num": 100135,
+      "word": "杨紫160秒一镜到底哭戏",
+      "onboard_time": 1721302338,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99968,
       "num": 333587,
       "word": "外交部回应ChinaTravel走红",
@@ -12417,6 +12433,14 @@
       "onboard_time": 1720930525,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84683,
+      "num": 84683,
+      "word": "睡莲开出多巴胺色彩的夏天",
+      "onboard_time": 1721301078,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 84481,
@@ -13603,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45626,
+      "num": 144639,
+      "word": "新加坡出生率创64年新低",
+      "onboard_time": 1721301977,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45566,
       "num": 56919,
       "word": "马伊琍吐槽影视剧大女主形象",
@@ -14115,6 +14147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26707,
+      "num": 148624,
+      "word": "消防员脚割出4cm伤口没喊一声疼",
+      "onboard_time": 1721302399,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26521,
       "num": 26521,
       "word": "亚马尔笑的好开心",
@@ -14411,6 +14451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 16981,
+      "num": 286485,
+      "word": "内部人士回应网传蔚来部分车型涨价",
+      "onboard_time": 1721301197,
+      "rank": 14,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 16969,
       "num": 263758,
       "word": "BW2024漫展26名黄牛带客冲卡被抓",
@@ -14547,6 +14595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13662,
+      "num": 290402,
+      "word": "张雨霏手举吉祥物合影",
+      "onboard_time": 1721300539,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13630,
       "num": 121109,
       "word": "清洁工人捡起了误入马路的小猫",
@@ -14595,14 +14651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11706,
-      "num": 290402,
-      "word": "张雨霏手举吉祥物合影",
-      "onboard_time": 1721300539,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 11305,
       "num": 92239,
       "word": "谁说杭州没有绝美海边日出",
@@ -14617,14 +14665,6 @@
       "onboard_time": 1721146517,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 11029,
-      "num": 286485,
-      "word": "内部人士回应网传蔚来部分车型涨价",
-      "onboard_time": 1721301197,
-      "rank": 14,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 10846,
