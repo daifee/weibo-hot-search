@@ -1,7 +1,15 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721291886270,
+  "endTime": 1721294461980,
   "band_list": [
+    {
+      "raw_hot": 5737660,
+      "num": 515305,
+      "word": "免去秦刚同志中央委员会委员职务",
+      "onboard_time": 1721292140,
+      "rank": 3,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 3791381,
       "num": 2788902,
@@ -17,6 +25,14 @@
       "onboard_time": 1721272937,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3295019,
+      "num": 3295019,
+      "word": "三中全会公报",
+      "onboard_time": 1721292019,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2553152,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1309064,
-      "num": 339398,
+      "num": 386277,
       "word": "印度人肉洗衣厂",
       "onboard_time": 1721288059,
       "rank": 29,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1110689,
-      "num": 342845,
+      "num": 363698,
       "word": "内娱大大方方的友情最好嗑了",
       "onboard_time": 1721288179,
       "rank": 10,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718728,
+      "num": 330199,
+      "word": "多部门回应涉宗馥莉举报信",
+      "onboard_time": 1721289078,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709595,
       "num": 709595,
       "word": "歌手歌单 伍佰",
@@ -201,14 +225,6 @@
       "onboard_time": 1721269878,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 687688,
-      "num": 330199,
-      "word": "多部门回应涉宗馥莉举报信",
-      "onboard_time": 1721289078,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676243,
@@ -305,6 +321,14 @@
       "onboard_time": 1721260819,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 545921,
+      "num": 545921,
+      "word": "易烊千玺 凡宇",
+      "onboard_time": 1721291420,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 540374,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444338,
+      "num": 444338,
+      "word": "蟹肉棒",
+      "onboard_time": 1721288417,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 443935,
       "num": 443935,
       "word": "杨紫坚持留下桃林认母剧情",
@@ -481,6 +513,14 @@
       "onboard_time": 1721264179,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 428352,
+      "num": 428352,
+      "word": "杨丞琳突围赛不参与听审投票",
+      "onboard_time": 1721292920,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 428297,
@@ -675,14 +715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 342397,
-      "num": 342397,
-      "word": "蟹肉棒",
-      "onboard_time": 1721288417,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 341908,
       "num": 341908,
       "word": "月球发现潜在可进入洞道",
@@ -697,6 +729,14 @@
       "onboard_time": 1721273178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324381,
+      "num": 324381,
+      "word": "韩国宣布出土一堆500年前的牛骨头",
+      "onboard_time": 1721290579,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324299,
@@ -771,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298314,
+      "num": 217948,
+      "word": "金玟庭ins晒宁艺卓",
+      "onboard_time": 1721291661,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285859,
       "num": 285859,
       "word": "员工一年内因考勤被扣工资20.9万",
@@ -843,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252185,
-      "num": 213112,
-      "word": "易烊千玺 凡宇",
-      "onboard_time": 1721291420,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251909,
       "num": 224283,
       "word": "经常熬夜身体4个部位会变臭",
@@ -881,6 +921,22 @@
       "onboard_time": 1721222959,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232398,
+      "num": 232398,
+      "word": "减肥后身体对之前的体重还有记忆",
+      "onboard_time": 1721290820,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 231959,
+      "num": 231959,
+      "word": "有人这样和我表白原地结婚",
+      "onboard_time": 1721293039,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 228854,
@@ -921,14 +977,6 @@
       "onboard_time": 1721220258,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223907,
-      "num": 212867,
-      "word": "金玟庭ins晒宁艺卓",
-      "onboard_time": 1721291661,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 223252,
@@ -979,6 +1027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 216751,
+      "num": 216751,
+      "word": "电影票降至1字头甚至个位数",
+      "onboard_time": 1721289139,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216552,
       "num": 216552,
       "word": "杨紫长相思15集定律",
@@ -993,6 +1049,14 @@
       "onboard_time": 1721280559,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215820,
+      "num": 426455,
+      "word": "对进一步全面深化改革做出系统部署",
+      "onboard_time": 1721293940,
+      "rank": 9,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 215090,
@@ -1067,6 +1131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202438,
+      "num": 202438,
+      "word": "最胖人的碳水来源是淀粉类蔬菜",
+      "onboard_time": 1721292079,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199029,
       "num": 199029,
       "word": "农夫山泉回应香港消委会道歉",
@@ -1088,6 +1160,22 @@
       "word": "韩东君 热搜都没我名儿",
       "onboard_time": 1721274919,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196607,
+      "num": 196607,
+      "word": "DYG战胜JDG",
+      "onboard_time": 1721293759,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196496,
+      "num": 219427,
+      "word": "网传时代少年团开团体工作室",
+      "onboard_time": 1721293520,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1137,14 +1225,6 @@
       "onboard_time": 1721265377,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188624,
-      "num": 188624,
-      "word": "电影票降至1字头甚至个位数",
-      "onboard_time": 1721289139,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188485,
@@ -1240,6 +1320,14 @@
       "word": "黄景瑜富士山下适配度",
       "onboard_time": 1721273298,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175205,
+      "num": 175205,
+      "word": "夭玹发疯我嗑疯",
+      "onboard_time": 1721293820,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1459,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "南京大屠杀幸存者照片墙再熄灭5盏灯",
+      "onboard_time": 1721292319,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150115,
       "num": 144247,
       "word": "王鹤棣朴鲨合作",
@@ -1531,20 +1627,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144272,
-      "num": 144272,
-      "word": "减肥后身体对之前的体重还有记忆",
-      "onboard_time": 1721290820,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 144024,
       "num": 144024,
       "word": "曾舜晞 白鹿你怎么那么多节目",
       "onboard_time": 1721283861,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143830,
+      "num": 143830,
+      "word": "笑猫日记完结",
+      "onboard_time": 1721292319,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 141999,
@@ -1579,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140713,
-      "num": 193633,
-      "word": "韩国宣布出土一堆500年前的牛骨头",
-      "onboard_time": 1721290579,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140404,
       "num": 140404,
       "word": "恩比德 喜剧人",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1721272878,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138003,
+      "num": 138003,
+      "word": "高考志愿填了陈哲远",
+      "onboard_time": 1721294060,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 137096,
@@ -1699,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129947,
+      "num": 129947,
+      "word": "你比星光美丽豆瓣开分",
+      "onboard_time": 1721293880,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129749,
       "num": 188148,
       "word": "宋亚轩刘耀文同款T恤",
@@ -1779,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121909,
+      "num": 121909,
+      "word": "进一步全面深化改革的总目标",
+      "onboard_time": 1721294240,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121026,
       "num": 121026,
       "word": "00后暑期打工顺带投喂自己",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1721275219,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117543,
+      "num": 117543,
+      "word": "王俊凯rap",
+      "onboard_time": 1721293162,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 117508,
@@ -1955,6 +2075,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81176,
+      "num": 342741,
+      "word": "为什么去屑不能太过",
+      "onboard_time": 1721289859,
+      "rank": 15,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 75735,
+      "num": 124511,
+      "word": "小哥狂奔救人累得一屁股瘫坐地上",
+      "onboard_time": 1721293641,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 74157,
       "num": 74157,
       "word": "跳水名将戴利主业是织毛衣",
@@ -2091,20 +2227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55631,
+      "num": 220773,
+      "word": "没想到千元手机这么全能",
+      "onboard_time": 1721293341,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54145,
       "num": 349917,
       "word": "俄外长在安理会发言时两人试图打断",
       "onboard_time": 1721289920,
       "rank": 9,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 51141,
-      "num": 319666,
-      "word": "为什么去屑不能太过",
-      "onboard_time": 1721289859,
-      "rank": 15,
-      "category": "科学科普"
     },
     {
       "raw_hot": 51017,
@@ -2267,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23738,
+      "num": 329106,
+      "word": "男子花5万找黄牛买演唱会门票没出票",
+      "onboard_time": 1721294119,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23351,
       "num": 195626,
       "word": "小女孩坠江5名好汉接力营救",
@@ -2423,6 +2567,9 @@
     },
     {
       "word": "#党的二十届三中全会#"
+    },
+    {
+      "word": "#党的二十届三中全会公报#"
     }
   ]
 }
