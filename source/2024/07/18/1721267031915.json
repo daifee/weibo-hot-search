@@ -1,0 +1,410 @@
+{
+  "runTime": 1721267031915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 851447,
+        "num": 1136231,
+        "word": "睡不着就不要硬睡了",
+        "onboard_time": 1721257513,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 635676,
+        "num": 635676,
+        "word": "陈意涵 我来自中国台湾",
+        "onboard_time": 1721223798,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 464178,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400381,
+        "num": 400381,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387196,
+        "num": 387196,
+        "word": "英伟达市值一夜蒸发近1.5万亿",
+        "onboard_time": 1721262618,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370728,
+        "num": 370728,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375217,
+        "num": 369703,
+        "word": "唐朝诡事录之西行开播",
+        "onboard_time": 1721264839,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358824,
+        "num": 358824,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348408,
+        "num": 348408,
+        "word": "库迪 睡不着",
+        "onboard_time": 1721259615,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95508,
+        "num": 346689,
+        "word": "巴黎奥运村里都有啥",
+        "onboard_time": 1721266219,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1346194,
+        "num": 346263,
+        "word": "拜登新冠检测呈阳性",
+        "onboard_time": 1721258235,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 345806,
+        "num": 345806,
+        "word": "原神滑跪",
+        "onboard_time": 1721259436,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 663894,
+        "num": 343955,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593303,
+        "num": 334740,
+        "word": "我家那闺女中女孩被焦虑支配的一生",
+        "onboard_time": 1721261420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539627,
+        "num": 320177,
+        "word": "男生为减肥晒背一天一个色",
+        "onboard_time": 1721262260,
+        "rank": 14,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 525130,
+        "num": 310604,
+        "word": "自贡百货大楼火灾致16人遇难",
+        "onboard_time": 1721258115,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347363,
+        "num": 306969,
+        "word": "涂山璟没祭拜小夭父母",
+        "onboard_time": 1721260878,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300941,
+        "num": 300941,
+        "word": "大鹏话筒朝天 赵英俊声音响起",
+        "onboard_time": 1721263699,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280422,
+        "num": 280422,
+        "word": "香港消委会就农夫山泉事件致歉",
+        "onboard_time": 1721266159,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257302,
+        "num": 257302,
+        "word": "我失去了爸妈是班主任带我回家",
+        "onboard_time": 1721265317,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864082,
+        "num": 252958,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 456246,
+        "num": 251538,
+        "word": "海底捞小料台没有牛肉粒了",
+        "onboard_time": 1721260819,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434982,
+        "num": 250532,
+        "word": "霸王茶姬是在碰瓷星巴克吗",
+        "onboard_time": 1721264179,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245561,
+        "num": 245561,
+        "word": "金价为何飙涨",
+        "onboard_time": 1721258115,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 332413,
+        "num": 232426,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324279,
+        "num": 227548,
+        "word": "其实你已经过度疲劳了",
+        "onboard_time": 1721260999,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217778,
+        "num": 217778,
+        "word": "巴黎奥运村今天开村",
+        "onboard_time": 1721266097,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217360,
+        "num": 217360,
+        "word": "西子绪电竞文",
+        "onboard_time": 1721265558,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 211113,
+        "num": 211113,
+        "word": "抓娃娃进入2024年内地票房榜前十",
+        "onboard_time": 1721226197,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209093,
+        "num": 209093,
+        "word": "3位男生被新郎调剂到伴娘组",
+        "onboard_time": 1721263099,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189493,
+        "num": 189493,
+        "word": "这要是娘娘都来齐了得啥样",
+        "onboard_time": 1721265377,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175160,
+        "num": 175160,
+        "word": "拜登呼吁禁止刺杀特朗普型号枪支",
+        "onboard_time": 1721261360,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174544,
+        "num": 174544,
+        "word": "杨紫说国色芳华马上杀青",
+        "onboard_time": 1721263217,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "民宿回应5大人4小孩入住两标间被拒",
+        "onboard_time": 1721262139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159816,
+        "num": 159816,
+        "word": "员工一年内因考勤被扣工资20.9万",
+        "onboard_time": 1721218996,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157790,
+        "num": 157790,
+        "word": "美国男子将2岁女儿扔车内晒死",
+        "onboard_time": 1721228298,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152616,
+        "num": 152616,
+        "word": "赴山海成毅打戏花絮",
+        "onboard_time": 1721263458,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152030,
+        "num": 152030,
+        "word": "不建议和西瓜一起吃的食物",
+        "onboard_time": 1721245451,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 150596,
+        "word": "自贡火灾亲历者讲述逃生经过",
+        "onboard_time": 1721264898,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "陆川发文删文手机设备一致",
+        "onboard_time": 1721217739,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148694,
+        "num": 148694,
+        "word": "暑期旅游市场消费升温",
+        "onboard_time": 1721261118,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147714,
+        "num": 147714,
+        "word": "原神",
+        "onboard_time": 1721258295,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142943,
+        "num": 142943,
+        "word": "杨超越演话剧",
+        "onboard_time": 1721262559,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139900,
+        "num": 139900,
+        "word": "拜登称马斯克试图收买此次选举",
+        "onboard_time": 1721266219,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130270,
+        "num": 130270,
+        "word": "平台否认陆川被盗号",
+        "onboard_time": 1721216777,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "中国男篮集训队今夏1胜10败",
+        "onboard_time": 1721266037,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124203,
+        "num": 124203,
+        "word": "iPhone17不使用节省空间的主板材料",
+        "onboard_time": 1721228537,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120630,
+        "num": 120630,
+        "word": "陈炳帆C位出道",
+        "onboard_time": 1721266577,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115346,
+        "num": 115346,
+        "word": "陈哲远直播",
+        "onboard_time": 1721264598,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109240,
+        "num": 109240,
+        "word": "杨紫知道白玉兰提名的反应",
+        "onboard_time": 1721228298,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#当代中国人民最鲜明的精神标识#"
+    }
+  }
+}
