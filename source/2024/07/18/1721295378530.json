@@ -1,0 +1,410 @@
+{
+  "runTime": 1721295378530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3067555,
+        "num": 3067555,
+        "word": "三中全会公报",
+        "onboard_time": 1721292019,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442839,
+        "num": 442839,
+        "word": "巴黎市长终于跳入塞纳河游泳",
+        "onboard_time": 1721284399,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26243,
+        "num": 411560,
+        "word": "奋进是我们共同的答案",
+        "onboard_time": 1721276539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 615920,
+        "num": 403080,
+        "word": "易烊千玺 凡宇",
+        "onboard_time": 1721291420,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 462222,
+        "num": 402765,
+        "word": "歌手歌单 伍佰",
+        "onboard_time": 1721289619,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392314,
+        "num": 392314,
+        "word": "韩国宣布出土一堆500年前的牛骨头",
+        "onboard_time": 1721290579,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362861,
+        "num": 362861,
+        "word": "杨丞琳突围赛不参与听审投票",
+        "onboard_time": 1721292920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351818,
+        "num": 351818,
+        "word": "蟹肉棒",
+        "onboard_time": 1721288417,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35114,
+        "num": 280073,
+        "word": "1100架国产无人机点亮巴黎夜空",
+        "onboard_time": 1721294539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253249,
+        "num": 253249,
+        "word": "对进一步全面深化改革做出系统部署",
+        "onboard_time": 1721293940,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 857593,
+        "num": 253171,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679225,
+        "num": 252906,
+        "word": "内娱大大方方的友情最好嗑了",
+        "onboard_time": 1721288179,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359422,
+        "num": 252521,
+        "word": "张元英被叫阿姨",
+        "onboard_time": 1721287519,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328610,
+        "num": 252360,
+        "word": "赵丽颖飞天奖入围两部作品",
+        "onboard_time": 1721294599,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45168,
+        "num": 251898,
+        "word": "男子花5万找黄牛买演唱会门票没出票",
+        "onboard_time": 1721294119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251853,
+        "num": 251853,
+        "word": "减肥后身体对之前的体重还有记忆",
+        "onboard_time": 1721290820,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 236250,
+        "num": 236250,
+        "word": "有人这样和我表白原地结婚",
+        "onboard_time": 1721293039,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207773,
+        "num": 207773,
+        "word": "朱志鑫白月光学长既视感",
+        "onboard_time": 1721294480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190787,
+        "num": 190787,
+        "word": "红豆生南国 祁煜是男模",
+        "onboard_time": 1721294660,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186277,
+        "num": 190763,
+        "word": "娃哈哈",
+        "onboard_time": 1721294838,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756168,
+        "num": 190734,
+        "word": "多部门回应涉宗馥莉举报信",
+        "onboard_time": 1721289078,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46491,
+        "num": 190705,
+        "word": "没想到千元手机这么全能",
+        "onboard_time": 1721293341,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292396,
+        "num": 190668,
+        "word": "员工称宗馥莉接班后频繁更换中高层",
+        "onboard_time": 1721287039,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292204,
+        "num": 190646,
+        "word": "金玟庭ins晒宁艺卓",
+        "onboard_time": 1721291661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241291,
+        "num": 190606,
+        "word": "花五千买的衣服撞衫餐厅工作服",
+        "onboard_time": 1721288179,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232191,
+        "num": 190564,
+        "word": "最胖人的碳水来源是淀粉类蔬菜",
+        "onboard_time": 1721292079,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72534,
+        "num": 190538,
+        "word": "为什么去屑不能太过",
+        "onboard_time": 1721289859,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207124,
+        "num": 190490,
+        "word": "电影票降至1字头甚至个位数",
+        "onboard_time": 1721289139,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190480,
+        "num": 190480,
+        "word": "我们是肖战嫡亲",
+        "onboard_time": 1721289198,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 187790,
+        "word": "主人以为狗怀孕了照顾2月喂胖10斤",
+        "onboard_time": 1721286137,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186495,
+        "num": 186495,
+        "word": "网传时代少年团开团体工作室",
+        "onboard_time": 1721293520,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184578,
+        "num": 184578,
+        "word": "高考志愿填了陈哲远",
+        "onboard_time": 1721294060,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174527,
+        "num": 174527,
+        "word": "KPL",
+        "onboard_time": 1721294959,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173347,
+        "num": 173347,
+        "word": "易烊千玺讲述爱里的未知与勇敢",
+        "onboard_time": 1721294959,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 168761,
+        "word": "DYG战胜JDG",
+        "onboard_time": 1721293759,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166598,
+        "num": 166598,
+        "word": "笑猫日记完结",
+        "onboard_time": 1721292319,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 162617,
+        "num": 162617,
+        "word": "怦然4蔡蔡大伦官宣",
+        "onboard_time": 1721295079,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147171,
+        "num": 147171,
+        "word": "嗑CP大忌",
+        "onboard_time": 1721285958,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163854,
+        "num": 147020,
+        "word": "易烊千玺吉他弹唱",
+        "onboard_time": 1721295197,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143825,
+        "num": 143825,
+        "word": "南京大屠杀幸存者照片墙再熄灭5盏灯",
+        "onboard_time": 1721292319,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141057,
+        "num": 141057,
+        "word": "泫雅多地演唱会取消",
+        "onboard_time": 1721290399,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138947,
+        "num": 138947,
+        "word": "进一步全面深化改革的总目标",
+        "onboard_time": 1721294240,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124198,
+        "num": 124198,
+        "word": "你比星光美丽豆瓣开分",
+        "onboard_time": 1721293880,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121734,
+        "num": 121734,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120840,
+        "num": 120840,
+        "word": "夭玹发疯我嗑疯",
+        "onboard_time": 1721293820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "檀健次张凌赫Hi6逆应援",
+        "onboard_time": 1721289740,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115709,
+        "num": 115709,
+        "word": "季节",
+        "onboard_time": 1721289680,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114876,
+        "num": 114876,
+        "word": "狐狸精找到李莲花了",
+        "onboard_time": 1721280137,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113948,
+        "num": 113948,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会公报全文#"
+    }
+  }
+}
