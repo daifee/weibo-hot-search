@@ -1,14 +1,22 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721270217024,
+  "endTime": 1721270820147,
   "band_list": [
     {
-      "raw_hot": 1501549,
-      "num": 1501549,
+      "raw_hot": 1528943,
+      "num": 1528943,
       "word": "海底捞回应小料台没有牛肉粒",
       "onboard_time": 1721265917,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1466801,
+      "num": 382986,
+      "word": "差点没认出金晨",
+      "onboard_time": 1721269157,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1431383,
@@ -35,16 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 931490,
-      "num": 382494,
-      "word": "差点没认出金晨",
-      "onboard_time": 1721269157,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 864082,
-      "num": 273727,
+      "num": 308068,
       "word": "经常熬夜的人身体到底有多臭",
       "onboard_time": 1721263099,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1721223798,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 794374,
+      "num": 541581,
+      "word": "四川717火灾相关责任人已被警方控制",
+      "onboard_time": 1721269937,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767261,
@@ -91,20 +99,20 @@
       "category": "社会新闻,运动健身"
     },
     {
+      "raw_hot": 601207,
+      "num": 308910,
+      "word": "一个人吃海底捞千万别要娃娃",
+      "onboard_time": 1721266758,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 597677,
       "num": 597677,
       "word": "我失去了爸妈是班主任带我回家",
       "onboard_time": 1721265317,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582756,
-      "num": 253636,
-      "word": "一个人吃海底捞千万别要娃娃",
-      "onboard_time": 1721266758,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 552339,
@@ -115,20 +123,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 539176,
+      "num": 539176,
+      "word": "贾玲包场抓娃娃",
+      "onboard_time": 1721268917,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 525611,
+      "num": 525611,
+      "word": "应急管理部等派工作组赶赴自贡",
+      "onboard_time": 1721260637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494273,
       "num": 494273,
       "word": "库迪 睡不着",
       "onboard_time": 1721259615,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 480852,
-      "num": 480852,
-      "word": "贾玲包场抓娃娃",
-      "onboard_time": 1721268917,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 478391,
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 434982,
-      "num": 273282,
+      "num": 305468,
       "word": "霸王茶姬是在碰瓷星巴克吗",
       "onboard_time": 1721264179,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 433336,
-      "num": 433336,
-      "word": "应急管理部等派工作组赶赴自贡",
-      "onboard_time": 1721260637,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428297,
@@ -209,6 +217,14 @@
       "onboard_time": 1721238672,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 414320,
+      "num": 414320,
+      "word": "四川成立717重大火灾事故调查组",
+      "onboard_time": 1721269698,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387213,
@@ -291,6 +307,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346063,
+      "num": 346063,
+      "word": "印度人口在2060年将达17亿",
+      "onboard_time": 1721267778,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 344833,
+      "num": 344833,
+      "word": "长相思2魔改",
+      "onboard_time": 1721269878,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344644,
       "num": 228506,
       "word": "赤辰道歉",
@@ -347,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272079,
-      "num": 272079,
-      "word": "印度人口在2060年将达17亿",
-      "onboard_time": 1721267778,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 263510,
       "num": 263510,
       "word": "王者荣耀闪退",
@@ -371,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248098,
-      "num": 248098,
-      "word": "四川成立717重大火灾事故调查组",
-      "onboard_time": 1721269698,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 250336,
+      "num": 250336,
+      "word": "于正小作文夸白鹿",
+      "onboard_time": 1721268797,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 238641,
@@ -385,14 +409,6 @@
       "onboard_time": 1721232797,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237933,
-      "num": 237933,
-      "word": "于正小作文夸白鹿",
-      "onboard_time": 1721268797,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 235014,
@@ -483,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190549,
+      "num": 190549,
+      "word": "小猫学历排名",
+      "onboard_time": 1721268558,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189906,
+      "num": 279357,
+      "word": "自贡火灾亲历者讲述逃生经过",
+      "onboard_time": 1721264898,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189493,
       "num": 189493,
       "word": "这要是娘娘都来齐了得啥样",
@@ -523,36 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180998,
-      "num": 180998,
-      "word": "长相思2魔改",
-      "onboard_time": 1721269878,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 180991,
-      "num": 180991,
-      "word": "四川717火灾相关责任人已被警方控制",
-      "onboard_time": 1721269937,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177804,
       "num": 190282,
       "word": "Kris 王多多",
       "onboard_time": 1721215399,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177062,
-      "num": 279357,
-      "word": "自贡火灾亲历者讲述逃生经过",
-      "onboard_time": 1721264898,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174645,
@@ -619,12 +627,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 142574,
-      "num": 142574,
-      "word": "小猫学历排名",
-      "onboard_time": 1721268558,
-      "rank": 40,
+      "raw_hot": 146800,
+      "num": 146800,
+      "word": "2024年的第200天",
+      "onboard_time": 1721270297,
+      "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143401,
+      "num": 143401,
+      "word": "中国游泳队10天内接受近200次兴奋剂检测",
+      "onboard_time": 1721270659,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 140404,
@@ -659,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134070,
+      "num": 134070,
+      "word": "买衣服出现这几种情况建议赶紧退货",
+      "onboard_time": 1721270358,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133677,
       "num": 133677,
       "word": "香港消委会称农夫山泉是饮用天然水",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 132324,
-      "num": 447280,
+      "num": 539833,
       "word": "巴黎奥运村里都有啥",
       "onboard_time": 1721266219,
       "rank": 9,
@@ -747,11 +771,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121026,
+      "num": 121026,
+      "word": "00后暑期打工顺带投喂自己",
+      "onboard_time": 1721270598,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120630,
       "num": 120630,
       "word": "陈炳帆C位出道",
       "onboard_time": 1721266577,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117182,
+      "num": 117182,
+      "word": "郑州雨后长出了棉花糖",
+      "onboard_time": 1721270717,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115399,
+      "num": 115399,
+      "word": "王鹤棣说从小听GAI",
+      "onboard_time": 1721270778,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -987,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50349,
+      "num": 383523,
+      "word": "专家回应农夫山泉溴酸盐含量争议",
+      "onboard_time": 1721269517,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 49348,
       "num": 56938,
       "word": "为什么奶茶店不能早上八点开门",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1721252591,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27099,
-      "num": 382958,
-      "word": "专家回应农夫山泉溴酸盐含量争议",
-      "onboard_time": 1721269517,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 26334,
