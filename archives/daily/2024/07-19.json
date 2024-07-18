@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721337523566,
+  "endTime": 1721338513446,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104128,
+      "num": 21146,
+      "word": "拜登有轻微症状将居家隔离",
+      "onboard_time": 1721334910,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 101348,
       "num": 101348,
       "word": "易烊千玺新歌空降成绩",
@@ -337,14 +345,6 @@
       "onboard_time": 1721317158,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81765,
-      "num": 19591,
-      "word": "拜登有轻微症状将居家隔离",
-      "onboard_time": 1721334910,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 80323,
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19948,
+      "num": 17935,
+      "word": "年轻人开始爱上当电子爸妈",
+      "onboard_time": 1721336411,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19560,
       "num": 322074,
       "word": "进一步全面深化改革的总目标",
@@ -531,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14003,
-      "num": 16130,
-      "word": "年轻人开始爱上当电子爸妈",
-      "onboard_time": 1721336411,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 15551,
+      "num": 17951,
+      "word": "耳朵纱布",
+      "onboard_time": 1721336711,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 13858,
@@ -561,14 +569,6 @@
       "onboard_time": 1721333290,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 11634,
-      "num": 16130,
-      "word": "耳朵纱布",
-      "onboard_time": 1721336711,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 9773,
