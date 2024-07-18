@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721334046080,
+  "endTime": 1721334894216,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13380,
+      "num": 19862,
+      "word": "警方回应动物医院员工殴打小狗",
+      "onboard_time": 1721332451,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13056,
       "num": 21306,
       "word": "长相思 三人行",
@@ -531,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12771,
-      "num": 19862,
-      "word": "警方回应动物医院员工殴打小狗",
-      "onboard_time": 1721332451,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10440,
+      "raw_hot": 11348,
       "num": 19861,
       "word": "小男孩发型神似宫崎骏动画角色",
       "onboard_time": 1721333290,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 9773,
+      "num": 17015,
+      "word": "女子带77岁养父拍敦煌飞天圆神仙梦",
+      "onboard_time": 1721334850,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7455,
