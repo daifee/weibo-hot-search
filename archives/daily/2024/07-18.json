@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721307214114,
+  "endTime": 1721308991628,
   "band_list": [
     {
       "raw_hot": 5737660,
@@ -161,6 +161,14 @@
       "onboard_time": 1721258115,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946590,
+      "num": 425463,
+      "word": "唐朝诡事录 好看",
+      "onboard_time": 1721306299,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 916676,
@@ -419,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 533885,
+      "num": 358904,
+      "word": "黄灿灿 这下真的意箭疯篌了",
+      "onboard_time": 1721305697,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533715,
       "num": 327363,
       "word": "宗馥莉今年接任20多家娃哈哈公司",
@@ -611,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 438808,
-      "num": 307707,
-      "word": "唐朝诡事录 好看",
-      "onboard_time": 1721306299,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 436760,
       "num": 322170,
       "word": "大小周成一些HR的最大让步",
@@ -657,14 +665,6 @@
       "onboard_time": 1721258295,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 425048,
-      "num": 304942,
-      "word": "黄灿灿 这下真的意箭疯篌了",
-      "onboard_time": 1721305697,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 424137,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350925,
+      "num": 350925,
+      "word": "王楚钦论文答辩画面",
+      "onboard_time": 1721305098,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349844,
       "num": 349844,
       "word": "金价为何飙涨",
@@ -915,12 +923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334893,
-      "num": 334893,
-      "word": "王楚钦论文答辩画面",
-      "onboard_time": 1721305098,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 330767,
+      "num": 221426,
+      "word": "唐朝诡事录 凶手是谁",
+      "onboard_time": 1721306657,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 328610,
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215839,
+      "num": 215839,
+      "word": "娃哈哈内斗严重",
+      "onboard_time": 1721308939,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215090,
       "num": 215090,
       "word": "冰咖啡和热咖啡区别竟然这么大",
@@ -1403,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207149,
+      "num": 207149,
+      "word": "朴智旻一位",
+      "onboard_time": 1721308579,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204214,
       "num": 204214,
       "word": "张新成王玉雯竹马cp七夕大片",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1721298499,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200841,
-      "num": 199414,
-      "word": "唐朝诡事录 凶手是谁",
-      "onboard_time": 1721306657,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 200094,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1721274919,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "长相思老年妆",
+      "onboard_time": 1721308820,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 196607,
@@ -1563,12 +1587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187061,
+      "num": 187061,
+      "word": "等了一年的长相守就快来了",
+      "onboard_time": 1721307439,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187005,
       "num": 187005,
       "word": "第五人格",
       "onboard_time": 1721286137,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186435,
+      "num": 197103,
+      "word": "重庆狼队",
+      "onboard_time": 1721307439,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 186431,
@@ -2027,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149774,
+      "num": 149774,
+      "word": "尼格买提骑马 羊真的会谢",
+      "onboard_time": 1721307319,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149398,
       "num": 141456,
       "word": "邓为今晚别看涂山璟了",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1721274800,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144067,
+      "num": 142864,
+      "word": "有奥迪销售称两天涨两次后下周还涨",
+      "onboard_time": 1721308159,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 144024,
@@ -2387,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121379,
+      "num": 121379,
+      "word": "挪威放假",
+      "onboard_time": 1721308159,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 121026,
       "num": 121026,
       "word": "00后暑期打工顺带投喂自己",
@@ -2459,8 +2523,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112184,
-      "num": 112184,
+      "raw_hot": 112479,
+      "num": 112479,
       "word": "我居然不是你亲生的吗",
       "onboard_time": 1721301977,
       "rank": 47,
@@ -2488,6 +2552,14 @@
       "word": "孙颖莎爱好过山车",
       "onboard_time": 1721295919,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107348,
+      "num": 107348,
+      "word": "巴黎奥运村就餐区一半是素食",
+      "onboard_time": 1721308401,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2545,6 +2617,14 @@
       "onboard_time": 1721299398,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98093,
+      "num": 100999,
+      "word": "红糖馒头",
+      "onboard_time": 1721307138,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 97251,
@@ -2657,14 +2737,6 @@
       "onboard_time": 1721301078,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 81644,
-      "num": 100999,
-      "word": "红糖馒头",
-      "onboard_time": 1721307138,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 81434,
@@ -2961,6 +3033,14 @@
       "onboard_time": 1721238014,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33438,
+      "num": 223871,
+      "word": "深圳为19岁男孩点亮夜空",
+      "onboard_time": 1721308100,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32681,
