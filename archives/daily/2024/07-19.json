@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721319860914,
+  "endTime": 1721320762392,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -59,7 +59,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241488,
+      "raw_hot": 248232,
       "num": 166218,
       "word": "木村拓哉和女儿遛狗",
       "onboard_time": 1721318177,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180247,
+      "raw_hot": 183002,
       "num": 180247,
       "word": "宋亚轩救球",
       "onboard_time": 1721319198,
@@ -291,12 +291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87240,
+      "num": 161963,
+      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
+      "onboard_time": 1721319676,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86223,
       "num": 166274,
       "word": "男子花5万找黄牛买演唱会门票没出票",
       "onboard_time": 1721294119,
       "rank": 19,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 81786,
+      "num": 81786,
+      "word": "十天之后回到现实",
+      "onboard_time": 1721317158,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 72131,
@@ -339,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59014,
+      "num": 197132,
+      "word": "杭州5.2万辆共享单车不烫屁股",
+      "onboard_time": 1721318658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57689,
       "num": 95002,
       "word": "BLG",
@@ -355,15 +379,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55388,
-      "num": 95001,
-      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
-      "onboard_time": 1721319676,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51289,
+      "raw_hot": 53922,
       "num": 95000,
       "word": "重庆狼队",
       "onboard_time": 1721307439,
@@ -379,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45485,
-      "num": 197132,
-      "word": "杭州5.2万辆共享单车不烫屁股",
-      "onboard_time": 1721318658,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 46586,
+      "num": 75179,
+      "word": "二十届三中全会公报要点速览",
+      "onboard_time": 1721318057,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30967,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#党的二十届三中全会公报#"
+    },
+    {
+      "word": "#二十届三中全会公报#"
     }
   ]
 }
