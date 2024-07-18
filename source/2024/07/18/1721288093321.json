@@ -1,0 +1,410 @@
+{
+  "runTime": 1721288093321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995050,
+        "num": 1159208,
+        "word": "巴黎市长终于跳入塞纳河游泳",
+        "onboard_time": 1721284399,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 564143,
+        "num": 564143,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45533,
+        "num": 482234,
+        "word": "百年大党如何交出更加优异的答卷",
+        "onboard_time": 1721276900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566661,
+        "num": 480645,
+        "word": "单休已成职场用工新要求",
+        "onboard_time": 1721279958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470300,
+        "num": 470300,
+        "word": "陈梦说不拿到冠军其他都是空谈",
+        "onboard_time": 1721283318,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94214,
+        "num": 442562,
+        "word": "节能与新能源汽车产业人才缺口将超百万",
+        "onboard_time": 1721286020,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427425,
+        "num": 427425,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344871,
+        "num": 344871,
+        "word": "吴奇隆在机场跑道开车",
+        "onboard_time": 1721283558,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308339,
+        "num": 308339,
+        "word": "闪耀暖暖 模糊",
+        "onboard_time": 1721285899,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295964,
+        "num": 295964,
+        "word": "陈晓变脸李冰冰",
+        "onboard_time": 1721281280,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 676243,
+        "num": 295708,
+        "word": "主人以为狗怀孕了照顾2月喂胖10斤",
+        "onboard_time": 1721286137,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447826,
+        "num": 295271,
+        "word": "娃哈哈官方店铺删除11点直播字样",
+        "onboard_time": 1721285778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398048,
+        "num": 295125,
+        "word": "张元英被叫阿姨",
+        "onboard_time": 1721287519,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73156,
+        "num": 294746,
+        "word": "你手机充电一次能用多久",
+        "onboard_time": 1721285177,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17860,
+        "num": 294190,
+        "word": "老人卖菜热心老板让儿子给他送饭",
+        "onboard_time": 1721287819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316121,
+        "num": 293868,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293692,
+        "num": 293692,
+        "word": "狐狸精找到李莲花了",
+        "onboard_time": 1721280137,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288220,
+        "num": 288220,
+        "word": "宗馥莉今年接任20多家娃哈哈公司",
+        "onboard_time": 1721279059,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283568,
+        "num": 283568,
+        "word": "日本男子为攒1亿21年只吃凉水泡饭",
+        "onboard_time": 1721278160,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272958,
+        "num": 272958,
+        "word": "易烊千玺 新歌",
+        "onboard_time": 1721287639,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1360059,
+        "num": 272105,
+        "word": "一次高危性行为险些不能生育",
+        "onboard_time": 1721282418,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630882,
+        "num": 262503,
+        "word": "嗑CP大忌",
+        "onboard_time": 1721285958,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398980,
+        "num": 254412,
+        "word": "许凯想和王鹤棣一样大爆",
+        "onboard_time": 1721284037,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285045,
+        "num": 251111,
+        "word": "员工称宗馥莉接班后频繁更换中高层",
+        "onboard_time": 1721287039,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247441,
+        "num": 247441,
+        "word": "肖战凭vlog登全球十大高光艺人第二",
+        "onboard_time": 1721286440,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212196,
+        "num": 212196,
+        "word": "唐朝诡事录导演 听劝",
+        "onboard_time": 1721287279,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210144,
+        "num": 210144,
+        "word": "原来这就是脊柱侧弯的征兆",
+        "onboard_time": 1721282118,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209659,
+        "num": 209659,
+        "word": "少年剧就该少年演",
+        "onboard_time": 1721279119,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205502,
+        "num": 205502,
+        "word": "女子带男童进女更衣室被提醒后大骂",
+        "onboard_time": 1721279958,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6209,
+        "num": 201148,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200315,
+        "num": 200315,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71452,
+        "num": 194075,
+        "word": "可爱鸭鸭勇闯派出所",
+        "onboard_time": 1721286618,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191988,
+        "num": 191988,
+        "word": "谁懂洗完澡才8点的含金量啊",
+        "onboard_time": 1721277261,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185034,
+        "num": 185034,
+        "word": "英国乐队告NewJeans抄袭",
+        "onboard_time": 1721280137,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184432,
+        "num": 184432,
+        "word": "涂山璟人设",
+        "onboard_time": 1721287399,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156820,
+        "num": 156820,
+        "word": "冰咖啡和热咖啡区别竟然这么大",
+        "onboard_time": 1721277320,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151632,
+        "num": 151632,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "第五人格",
+        "onboard_time": 1721286137,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141765,
+        "num": 141765,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "宗馥莉近期仍在接手娃哈哈旗下企业",
+        "onboard_time": 1721286739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140104,
+        "num": 140104,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1721273958,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "李庚希说我这辈子都不会明白",
+        "onboard_time": 1721284278,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "韩国始兴恶鬼杀人事件",
+        "onboard_time": 1721283619,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127824,
+        "num": 127824,
+        "word": "中国大熊猫亮相巴黎奥运村",
+        "onboard_time": 1721285358,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123543,
+        "num": 123543,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123461,
+        "num": 123461,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119639,
+        "num": 119639,
+        "word": "娃哈哈办事处称未收到宗馥莉辞职文件",
+        "onboard_time": 1721274800,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118315,
+        "num": 118315,
+        "word": "十个勤天 插秧主场没输过",
+        "onboard_time": 1721287879,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114202,
+        "num": 114202,
+        "word": "看小说最讨厌的梗",
+        "onboard_time": 1721287578,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "一个动作看你张嘴是否正常",
+        "onboard_time": 1721287098,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会#"
+    }
+  }
+}
