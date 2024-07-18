@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721341144018,
+  "endTime": 1721342181483,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199954,
+      "num": 42752,
+      "word": "知情人士称宗馥莉请辞高管此前不知情",
+      "onboard_time": 1721328432,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199707,
       "num": 199707,
       "word": "度华年番外真是什么都敢拍",
@@ -147,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151170,
-      "num": 39178,
-      "word": "知情人士称宗馥莉请辞高管此前不知情",
-      "onboard_time": 1721328432,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132079,
       "num": 132079,
       "word": "卢凌风唐诡2有自己的狐狸精",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 104128,
-      "num": 34322,
+      "num": 41515,
       "word": "拜登有轻微症状将居家隔离",
       "onboard_time": 1721334910,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97260,
+      "num": 432662,
+      "word": "杭州5.2万辆共享单车不烫屁股",
+      "onboard_time": 1721318658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95895,
       "num": 55118,
       "word": "杨迪说谁和娜扎恋爱都心软软",
@@ -273,14 +281,6 @@
       "onboard_time": 1721318598,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 95438,
-      "num": 341822,
-      "word": "杭州5.2万辆共享单车不烫屁股",
-      "onboard_time": 1721318658,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95008,
@@ -353,6 +353,14 @@
       "onboard_time": 1721323214,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73796,
+      "num": 35050,
+      "word": "年轻人开始爱上当电子爸妈",
+      "onboard_time": 1721336411,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 72131,
@@ -459,20 +467,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44689,
+      "num": 40929,
+      "word": "58岁华裔阿姨征战巴黎奥运会",
+      "onboard_time": 1721339651,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42198,
       "num": 63408,
       "word": "王鹤棣的蒙d奇",
       "onboard_time": 1721321355,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42186,
-      "num": 24439,
-      "word": "年轻人开始爱上当电子爸妈",
-      "onboard_time": 1721336411,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 32553,
@@ -499,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21605,
-      "num": 24466,
+      "raw_hot": 24178,
+      "num": 35088,
       "word": "耳朵纱布",
       "onboard_time": 1721336711,
       "rank": 42,
@@ -515,20 +523,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20879,
-      "num": 24465,
-      "word": "58岁华裔阿姨征战巴黎奥运会",
-      "onboard_time": 1721339651,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19560,
       "num": 322074,
       "word": "进一步全面深化改革的总目标",
       "onboard_time": 1721294240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18148,
+      "num": 34975,
+      "word": "警方回应动物医院员工殴打小狗",
+      "onboard_time": 1721332451,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17832,
+      "num": 34971,
+      "word": "小男孩发型神似宫崎骏动画角色",
+      "onboard_time": 1721333290,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 16561,
@@ -555,24 +571,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15213,
-      "num": 24377,
-      "word": "小男孩发型神似宫崎骏动画角色",
-      "onboard_time": 1721333290,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 15166,
-      "num": 24374,
-      "word": "警方回应动物医院员工殴打小狗",
-      "onboard_time": 1721332451,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13355,
-      "num": 24351,
+      "raw_hot": 14791,
+      "num": 34920,
       "word": "长相思 三人行",
       "onboard_time": 1721330413,
       "rank": 43,
