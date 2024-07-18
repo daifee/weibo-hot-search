@@ -1,0 +1,410 @@
+{
+  "runTime": 1721309671078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634728,
+        "num": 1101556,
+        "word": "三中全会公报",
+        "onboard_time": 1721292019,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444518,
+        "num": 444518,
+        "word": "宝格丽活动",
+        "onboard_time": 1721304077,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 35067,
+        "num": 422581,
+        "word": "进一步推进全面深化改革",
+        "onboard_time": 1721295558,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943926,
+        "num": 393282,
+        "word": "唐朝诡事录 好看",
+        "onboard_time": 1721306299,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 833570,
+        "num": 369423,
+        "word": "涂山璟下线",
+        "onboard_time": 1721301197,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552498,
+        "num": 354180,
+        "word": "全网首个十连绝世已诞生",
+        "onboard_time": 1721304139,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 573172,
+        "num": 318127,
+        "word": "黄灿灿 这下真的意箭疯篌了",
+        "onboard_time": 1721305697,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310093,
+        "num": 310093,
+        "word": "王楚钦论文答辩画面",
+        "onboard_time": 1721305098,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228397,
+        "num": 228397,
+        "word": "男子花5万找黄牛买演唱会门票没出票",
+        "onboard_time": 1721294119,
+        "rank": 8,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 203793,
+        "num": 203793,
+        "word": "中方回应越南提交南海外大陆架划界案",
+        "onboard_time": 1721302758,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432431,
+        "num": 203651,
+        "word": "意大利一女游客涉嫌猥亵雕像",
+        "onboard_time": 1721301078,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399813,
+        "num": 203586,
+        "word": "曾舜晞的真名也没瞒过白鹿",
+        "onboard_time": 1721303778,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394432,
+        "num": 203391,
+        "word": "唐朝诡事录 凶手是谁",
+        "onboard_time": 1721306657,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381498,
+        "num": 203142,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62078,
+        "num": 202884,
+        "word": "女孩包圆肉夹馍让聋哑爷爷早回家",
+        "onboard_time": 1721309119,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366912,
+        "num": 202787,
+        "word": "刘亦菲高定白裙",
+        "onboard_time": 1721300298,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359520,
+        "num": 202492,
+        "word": "娃哈哈内斗严重",
+        "onboard_time": 1721308939,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358149,
+        "num": 202303,
+        "word": "玱玹彻底开疯了",
+        "onboard_time": 1721304499,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269304,
+        "num": 202252,
+        "word": "唐朝诡事录之西行",
+        "onboard_time": 1721305397,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217635,
+        "num": 202072,
+        "word": "卡琳娜cos诡秘之主",
+        "onboard_time": 1721303598,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 714032,
+        "num": 201749,
+        "word": "宗馥莉请辞前已博弈一个多月",
+        "onboard_time": 1721299579,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211594,
+        "num": 201535,
+        "word": "长相思老年妆",
+        "onboard_time": 1721308820,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205265,
+        "num": 201517,
+        "word": "by2跳泫雅的troublemaker",
+        "onboard_time": 1721309419,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201341,
+        "num": 201341,
+        "word": "朴智旻一位",
+        "onboard_time": 1721308579,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184487,
+        "num": 184487,
+        "word": "赵丽颖虎狼之路原声",
+        "onboard_time": 1721306058,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183052,
+        "num": 183052,
+        "word": "挪威放假",
+        "onboard_time": 1721308159,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172863,
+        "num": 172863,
+        "word": "小夭句句戳心玱玹千疮百孔",
+        "onboard_time": 1721309359,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166028,
+        "num": 166028,
+        "word": "有奥迪销售称两天涨两次后下周还涨",
+        "onboard_time": 1721308159,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167001,
+        "num": 163174,
+        "word": "等了一年的长相守就快来了",
+        "onboard_time": 1721307439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60052,
+        "num": 159649,
+        "word": "深圳为19岁男孩点亮夜空",
+        "onboard_time": 1721308100,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158214,
+        "num": 158214,
+        "word": "涂山璟 背景板",
+        "onboard_time": 1721302458,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156584,
+        "num": 156584,
+        "word": "张钰琪 原创",
+        "onboard_time": 1721305697,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153883,
+        "num": 153883,
+        "word": "郭庄开局下线",
+        "onboard_time": 1721306118,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149884,
+        "num": 149884,
+        "word": "新加坡出生率创64年新低",
+        "onboard_time": 1721301977,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148913,
+        "num": 148913,
+        "word": "易烊千玺 凡宇",
+        "onboard_time": 1721291420,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142397,
+        "num": 142397,
+        "word": "度华年番外",
+        "onboard_time": 1721300418,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141329,
+        "num": 141329,
+        "word": "涂山璟下线原文",
+        "onboard_time": 1721303657,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136737,
+        "num": 136737,
+        "word": "最胖人的碳水来源是淀粉类蔬菜",
+        "onboard_time": 1721292079,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134892,
+        "num": 134892,
+        "word": "红糖馒头",
+        "onboard_time": 1721307138,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134805,
+        "num": 134805,
+        "word": "重庆狼队",
+        "onboard_time": 1721307439,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129746,
+        "num": 129746,
+        "word": "内娱大大方方的友情最好嗑了",
+        "onboard_time": 1721288179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126293,
+        "num": 126293,
+        "word": "官方辟谣25岁男子结婚后发现妻子50岁",
+        "onboard_time": 1721295498,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124139,
+        "num": 124139,
+        "word": "巴黎奥运村就餐区一半是素食",
+        "onboard_time": 1721308401,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116300,
+        "num": 116300,
+        "word": "尼格买提骑马 羊真的会谢",
+        "onboard_time": 1721307319,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 110334,
+        "word": "默杀王圣迪 五年狠人工龄",
+        "onboard_time": 1721305158,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 109599,
+        "word": "宗庆后生前曾公开赞赏宗馥莉表现",
+        "onboard_time": 1721308639,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105477,
+        "num": 105477,
+        "word": "BBA集体退出价格战真相",
+        "onboard_time": 1721296819,
+        "rank": 46,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 102771,
+        "num": 102771,
+        "word": "华晨宇把开箱做成吃播",
+        "onboard_time": 1721305939,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102458,
+        "num": 102458,
+        "word": "什么星座最容易出INFJ",
+        "onboard_time": 1721309478,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99539,
+        "num": 99539,
+        "word": "我居然不是你亲生的吗",
+        "onboard_time": 1721301977,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会公报#"
+    }
+  }
+}
