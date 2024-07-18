@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721306289798,
+  "endTime": 1721307214114,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -5124,7 +5124,7 @@
     },
     {
       "raw_hot": 750843,
-      "num": 283982,
+      "num": 310037,
       "word": "意大利一女游客涉嫌猥亵雕像",
       "onboard_time": 1721301078,
       "rank": 29,
@@ -5260,7 +5260,7 @@
     },
     {
       "raw_hot": 739869,
-      "num": 289056,
+      "num": 308482,
       "word": "刘亦菲高定白裙",
       "onboard_time": 1721300298,
       "rank": 11,
@@ -5881,6 +5881,14 @@
       "onboard_time": 1720967901,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 685999,
+      "num": 535095,
+      "word": "全网首个十连绝世已诞生",
+      "onboard_time": 1721304139,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 685774,
@@ -8769,14 +8777,6 @@
       "onboard_time": 1720673840,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535095,
-      "num": 535095,
-      "word": "全网首个十连绝世已诞生",
-      "onboard_time": 1721304139,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 534392,
@@ -11691,6 +11691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438808,
+      "num": 307707,
+      "word": "唐朝诡事录 好看",
+      "onboard_time": 1721306299,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438646,
       "num": 438646,
       "word": "你好星期六",
@@ -12225,6 +12233,14 @@
       "onboard_time": 1720947681,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425048,
+      "num": 304942,
+      "word": "黄灿灿 这下真的意箭疯篌了",
+      "onboard_time": 1721305697,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 424969,
@@ -13636,7 +13652,7 @@
     },
     {
       "raw_hot": 383928,
-      "num": 266579,
+      "num": 304115,
       "word": "卡琳娜cos诡秘之主",
       "onboard_time": 1721303598,
       "rank": 14,
@@ -14891,6 +14907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351186,
+      "num": 301790,
+      "word": "唐朝诡事录之西行",
+      "onboard_time": 1721305397,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351075,
       "num": 351075,
       "word": "约五成大学生校园冷暴力发生在宿舍",
@@ -15569,6 +15593,14 @@
       "onboard_time": 1720012278,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 334893,
+      "num": 334893,
+      "word": "王楚钦论文答辩画面",
+      "onboard_time": 1721305098,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 334704,
@@ -19939,14 +19971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247148,
-      "num": 247148,
-      "word": "王楚钦论文答辩画面",
-      "onboard_time": 1721305098,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247119,
       "num": 247119,
       "word": "LNG对战TES",
@@ -20235,14 +20259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242397,
-      "num": 242397,
-      "word": "唐朝诡事录之西行",
-      "onboard_time": 1721305397,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242306,
       "num": 242306,
       "word": "黑神话公司门口遭恶意涂鸦",
@@ -20364,7 +20380,7 @@
     },
     {
       "raw_hot": 240854,
-      "num": 196793,
+      "num": 213776,
       "word": "涂山璟 背景板",
       "onboard_time": 1721302458,
       "rank": 22,
@@ -20521,6 +20537,14 @@
       "onboard_time": 1720877059,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238959,
+      "num": 238959,
+      "word": "赵丽颖虎狼之路原声",
+      "onboard_time": 1721306058,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 238908,
@@ -22643,6 +22667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 214124,
+      "num": 214124,
+      "word": "张钰琪 原创",
+      "onboard_time": 1721305697,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214097,
       "num": 214097,
       "word": "ENHYPEN空降",
@@ -22761,6 +22793,14 @@
       "onboard_time": 1720249096,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213318,
+      "num": 213318,
+      "word": "新加坡出生率创64年新低",
+      "onboard_time": 1721301977,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213307,
@@ -24507,6 +24547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202042,
+      "num": 202042,
+      "word": "郭庄开局下线",
+      "onboard_time": 1721306118,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202027,
       "num": 202027,
       "word": "朱志鑫俯卧撑",
@@ -24561,14 +24609,6 @@
       "onboard_time": 1720134916,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201692,
-      "num": 194963,
-      "word": "赵丽颖虎狼之路原声",
-      "onboard_time": 1721306058,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 201623,
@@ -24689,6 +24729,14 @@
       "onboard_time": 1720379591,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200841,
+      "num": 199414,
+      "word": "唐朝诡事录 凶手是谁",
+      "onboard_time": 1721306657,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200813,
@@ -24873,14 +24921,6 @@
       "onboard_time": 1720246937,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199657,
-      "num": 199657,
-      "word": "新加坡出生率创64年新低",
-      "onboard_time": 1721301977,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199619,
@@ -26355,14 +26395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191715,
-      "num": 191715,
-      "word": "黄灿灿 这下真的意箭疯篌了",
-      "onboard_time": 1721305697,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191655,
       "num": 191655,
       "word": "虞书欣温婉国风",
@@ -27227,6 +27259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "严浩翔饭撒战神",
+      "onboard_time": 1721306237,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187905,
       "num": 187905,
       "word": "TES对战GEN",
@@ -27433,6 +27473,14 @@
       "onboard_time": 1720453338,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186431,
+      "num": 186431,
+      "word": "AG对战TCG",
+      "onboard_time": 1721306419,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 186429,
@@ -28033,6 +28081,14 @@
       "onboard_time": 1721115498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182263,
+      "num": 182263,
+      "word": "华晨宇把开箱做成吃播",
+      "onboard_time": 1721305939,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 182237,
@@ -31923,14 +31979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159757,
-      "num": 159757,
-      "word": "张钰琪 原创",
-      "onboard_time": 1721305697,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159646,
       "num": 159646,
       "word": "刘亦菲宝格丽路透",
@@ -34865,14 +34913,6 @@
       "onboard_time": 1719831678,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144907,
-      "num": 144907,
-      "word": "郭庄开局下线",
-      "onboard_time": 1721306118,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 144858,
@@ -39691,14 +39731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122836,
-      "num": 122836,
-      "word": "华晨宇把开箱做成吃播",
-      "onboard_time": 1721305939,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 122801,
       "num": 122801,
       "word": "95后保育员4年带大200个猛兽",
@@ -41931,6 +41963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112184,
+      "num": 112184,
+      "word": "我居然不是你亲生的吗",
+      "onboard_time": 1721301977,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112167,
       "num": 112167,
       "word": "西湖大学本科新生大多是高二生",
@@ -43035,6 +43075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106086,
+      "num": 199548,
+      "word": "滕迅同学692分考入清华",
+      "onboard_time": 1721304318,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106056,
       "num": 106056,
       "word": "当代中国人民最鲜明的精神标识",
@@ -43603,6 +43651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102392,
+      "num": 102392,
+      "word": "WBG第五人格分部人员变动公告",
+      "onboard_time": 1721306657,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102275,
       "num": 102275,
       "word": "张本智和3比1林昀儒",
@@ -43739,6 +43795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101217,
+      "num": 101217,
+      "word": "不是一家人不进一家门",
+      "onboard_time": 1721306958,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101123,
       "num": 101123,
       "word": "韩廷洗澡镜头",
@@ -43761,14 +43825,6 @@
       "onboard_time": 1720654455,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101045,
-      "num": 101045,
-      "word": "严浩翔饭撒战神",
-      "onboard_time": 1721306237,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 100966,
@@ -43841,14 +43897,6 @@
       "onboard_time": 1719971238,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100498,
-      "num": 100498,
-      "word": "我居然不是你亲生的吗",
-      "onboard_time": 1721301977,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 100245,
@@ -45515,6 +45563,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 81644,
+      "num": 100999,
+      "word": "红糖馒头",
+      "onboard_time": 1721307138,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81619,
       "num": 125722,
       "word": "猫猫摸完后居然会按开心",
@@ -45641,14 +45697,6 @@
       "onboard_time": 1719989538,
       "rank": 14,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 80150,
-      "num": 199548,
-      "word": "滕迅同学692分考入清华",
-      "onboard_time": 1721304318,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80069,
@@ -51027,6 +51075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25897,
+      "num": 312162,
+      "word": "四川阿坝突发山洪武警紧急救援",
+      "onboard_time": 1721306178,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25890,
       "num": 875637,
       "word": "北京市属公园园中园及博物馆暑期周一也开放",
@@ -51385,14 +51441,6 @@
       "onboard_time": 1720729389,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22915,
-      "num": 193743,
-      "word": "四川阿坝突发山洪武警紧急救援",
-      "onboard_time": 1721306178,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22830,
