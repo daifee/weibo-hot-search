@@ -1,0 +1,410 @@
+{
+  "runTime": 1721330219351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 85960,
+        "num": 85960,
+        "word": "涂山璟下线",
+        "onboard_time": 1721301197,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30345,
+        "num": 79416,
+        "word": "三中全会公报",
+        "onboard_time": 1721292019,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6896,
+        "num": 77981,
+        "word": "进一步全面深化改革的总目标",
+        "onboard_time": 1721294240,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77003,
+        "num": 77003,
+        "word": "全网首个十连绝世已诞生",
+        "onboard_time": 1721304139,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44538,
+        "num": 44538,
+        "word": "她老公剃掉头发那刻秒杀所有偶像剧",
+        "onboard_time": 1721319676,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42473,
+        "num": 42473,
+        "word": "涂山璟下线原文",
+        "onboard_time": 1721303657,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41756,
+        "num": 41756,
+        "word": "唐朝诡事录 好看",
+        "onboard_time": 1721306299,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39814,
+        "num": 39814,
+        "word": "长相思老年妆",
+        "onboard_time": 1721308820,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26681,
+        "num": 39722,
+        "word": "杭州5.2万辆共享单车不烫屁股",
+        "onboard_time": 1721318658,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 39674,
+        "word": "奥运期间巴黎物价全面上涨",
+        "onboard_time": 1721313679,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67364,
+        "num": 39498,
+        "word": "印度男子抛妻弃子与母牛结婚",
+        "onboard_time": 1721314579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58668,
+        "num": 39363,
+        "word": "杨迪说谁和娜扎恋爱都心软软",
+        "onboard_time": 1721326214,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58666,
+        "num": 39178,
+        "word": "知情人士称宗馥莉请辞高管此前不知情",
+        "onboard_time": 1721328432,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22606,
+        "num": 39052,
+        "word": "中方回应越南提交南海外大陆架划界案",
+        "onboard_time": 1721302758,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49566,
+        "num": 38923,
+        "word": "意大利一女游客涉嫌猥亵雕像",
+        "onboard_time": 1721301078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38906,
+        "num": 38906,
+        "word": "谁来救救王玉雯",
+        "onboard_time": 1721323214,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31860,
+        "num": 31860,
+        "word": "印度人肉洗衣厂",
+        "onboard_time": 1721288059,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29423,
+        "num": 29423,
+        "word": "黄灿灿 这下真的意箭疯篌了",
+        "onboard_time": 1721305697,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28311,
+        "num": 28311,
+        "word": "唐朝诡事录 凶手是谁",
+        "onboard_time": 1721306657,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19227,
+        "num": 28184,
+        "word": "瓶装饮用水跌破7毛大关",
+        "onboard_time": 1721313380,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33818,
+        "num": 27463,
+        "word": "木村拓哉和女儿遛狗",
+        "onboard_time": 1721318177,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32553,
+        "num": 27052,
+        "word": "怎么识别酒店床单是否换过",
+        "onboard_time": 1721327172,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30970,
+        "num": 26353,
+        "word": "爷爷把我几年前的水宝宝天天照顾着",
+        "onboard_time": 1721315419,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25958,
+        "num": 25958,
+        "word": "宋亚轩救球",
+        "onboard_time": 1721319198,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25822,
+        "num": 25822,
+        "word": "曾舜晞的真名也没瞒过白鹿",
+        "onboard_time": 1721303778,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23762,
+        "num": 25821,
+        "word": "檀健次演出了相柳的风骨",
+        "onboard_time": 1721325372,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22763,
+        "num": 25818,
+        "word": "吴磊刘亦菲同框",
+        "onboard_time": 1721309959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20999,
+        "num": 25817,
+        "word": "唐朝诡事录之西行",
+        "onboard_time": 1721305397,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20100,
+        "num": 25813,
+        "word": "王者荣耀",
+        "onboard_time": 1721310139,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18727,
+        "num": 25811,
+        "word": "什么星座最容易出INFJ",
+        "onboard_time": 1721309478,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26478,
+        "num": 25809,
+        "word": "镖人 酱园弄2.0",
+        "onboard_time": 1721321955,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21500,
+        "num": 25807,
+        "word": "妈妈 这个写书的刘同他还在吗",
+        "onboard_time": 1721320755,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 18284,
+        "num": 25804,
+        "word": "因为爷爷的一个朋友圈在宿舍爆哭",
+        "onboard_time": 1721312780,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17744,
+        "num": 25803,
+        "word": "犬夜叉 绝美杀生丸",
+        "onboard_time": 1721318598,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17571,
+        "num": 25802,
+        "word": "长相思2",
+        "onboard_time": 1721301197,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16854,
+        "num": 25799,
+        "word": "BLG",
+        "onboard_time": 1721310679,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17086,
+        "num": 25797,
+        "word": "涂山璟 背景板",
+        "onboard_time": 1721302458,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16561,
+        "num": 25794,
+        "word": "涂山璟下落不明",
+        "onboard_time": 1721328371,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15992,
+        "num": 25791,
+        "word": "苏打绿夏狂热",
+        "onboard_time": 1721328132,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15470,
+        "num": 25790,
+        "word": "度华年番外真是什么都敢拍",
+        "onboard_time": 1721314999,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15463,
+        "num": 25788,
+        "word": "小马跟小猫之间的友情",
+        "onboard_time": 1721320935,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15440,
+        "num": 25784,
+        "word": "二十届三中全会公报要点速览",
+        "onboard_time": 1721318057,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15320,
+        "num": 25782,
+        "word": "不要怀疑这真的是瓷器",
+        "onboard_time": 1721312600,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 25779,
+        "word": "十天之后回到现实",
+        "onboard_time": 1721317158,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14494,
+        "num": 25778,
+        "word": "王鹤棣的蒙d奇",
+        "onboard_time": 1721321355,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13373,
+        "num": 25776,
+        "word": "易烊千玺新歌空降成绩",
+        "onboard_time": 1721313561,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13263,
+        "num": 25773,
+        "word": "相柳走马灯提前走一轮",
+        "onboard_time": 1721317878,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12862,
+        "num": 25772,
+        "word": "LNG战胜BLG",
+        "onboard_time": 1721310321,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12675,
+        "num": 25769,
+        "word": "王俊凯新歌成为英雄",
+        "onboard_time": 1721325192,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12124,
+        "num": 25767,
+        "word": "男子花5万找黄牛买演唱会门票没出票",
+        "onboard_time": 1721294119,
+        "rank": 49,
+        "category": "社会新闻,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会公报全文#"
+    }
+  }
+}

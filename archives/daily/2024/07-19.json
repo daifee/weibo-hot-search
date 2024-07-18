@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721327990157,
+  "endTime": 1721330219351,
   "band_list": [
     {
       "raw_hot": 658722,
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58666,
+      "num": 39178,
+      "word": "知情人士称宗馥莉请辞高管此前不知情",
+      "onboard_time": 1721328432,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57689,
       "num": 95002,
       "word": "BLG",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32553,
+      "num": 38340,
+      "word": "怎么识别酒店床单是否换过",
+      "onboard_time": 1721327172,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30967,
       "num": 198642,
       "word": "暑期博物馆热持续升温",
@@ -465,14 +481,6 @@
       "onboard_time": 1721325372,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22739,
-      "num": 38340,
-      "word": "怎么识别酒店床单是否换过",
-      "onboard_time": 1721327172,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 20984,
@@ -491,12 +499,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16561,
+      "num": 25794,
+      "word": "涂山璟下落不明",
+      "onboard_time": 1721328371,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16257,
       "num": 79907,
       "word": "杭州13位男生将坐运20去大学报到",
       "onboard_time": 1721322973,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15992,
+      "num": 25791,
+      "word": "苏打绿夏狂热",
+      "onboard_time": 1721328132,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 7250,
