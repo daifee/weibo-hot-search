@@ -1,0 +1,410 @@
+{
+  "runTime": 1721284067469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860393,
+        "num": 1137662,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345524,
+        "num": 345524,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36656,
+        "num": 344212,
+        "word": "百年大党如何交出更加优异的答卷",
+        "onboard_time": 1721276900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1349283,
+        "num": 340763,
+        "word": "单休已成职场用工新要求",
+        "onboard_time": 1721279958,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600589,
+        "num": 336922,
+        "word": "日本男子为攒1亿21年只吃凉水泡饭",
+        "onboard_time": 1721278160,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578647,
+        "num": 334016,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153107,
+        "num": 329781,
+        "word": "为了帮你减肥这些医院开门诊了",
+        "onboard_time": 1721279720,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 544991,
+        "num": 328406,
+        "word": "少年剧就该少年演",
+        "onboard_time": 1721279119,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507674,
+        "num": 324452,
+        "word": "陈晓变脸李冰冰",
+        "onboard_time": 1721281280,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23870,
+        "num": 321411,
+        "word": "超大扑棱蛾子的蛇头伪装好逆天",
+        "onboard_time": 1721283678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533715,
+        "num": 318243,
+        "word": "宗馥莉今年接任20多家娃哈哈公司",
+        "onboard_time": 1721279059,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467972,
+        "num": 316459,
+        "word": "英国乐队告NewJeans抄袭",
+        "onboard_time": 1721280137,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414603,
+        "num": 310913,
+        "word": "官方发布自贡717重大火灾事故情况通报",
+        "onboard_time": 1721280739,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404721,
+        "num": 309065,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404342,
+        "num": 305212,
+        "word": "大小周成一些HR的最大让步",
+        "onboard_time": 1721280559,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303939,
+        "num": 303939,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303401,
+        "num": 303401,
+        "word": "狐狸精找到李莲花了",
+        "onboard_time": 1721280137,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302934,
+        "num": 302934,
+        "word": "王者荣耀10v10",
+        "onboard_time": 1721282238,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248944,
+        "num": 248944,
+        "word": "宗庆后是娃哈哈第二大股东",
+        "onboard_time": 1721275399,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217951,
+        "num": 217951,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1317074,
+        "num": 217546,
+        "word": "一次高危性行为险些不能生育",
+        "onboard_time": 1721282418,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410793,
+        "num": 217284,
+        "word": "女生钓到大肚鱼烤熟后结果悲剧了",
+        "onboard_time": 1721281280,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239622,
+        "num": 217024,
+        "word": "经常熬夜身体4个部位会变臭",
+        "onboard_time": 1721280079,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216552,
+        "num": 216552,
+        "word": "杨紫长相思15集定律",
+        "onboard_time": 1721280619,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209726,
+        "num": 209726,
+        "word": "陈梦说不拿到冠军其他都是空谈",
+        "onboard_time": 1721283318,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208785,
+        "num": 208785,
+        "word": "谁懂洗完澡才8点的含金量啊",
+        "onboard_time": 1721277261,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206800,
+        "num": 206800,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "原来这就是脊柱侧弯的征兆",
+        "onboard_time": 1721282118,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215891,
+        "num": 203214,
+        "word": "贾玲杨紫要二搭了",
+        "onboard_time": 1721280559,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45869,
+        "num": 201270,
+        "word": "韩国始兴恶鬼杀人事件",
+        "onboard_time": 1721283619,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201178,
+        "num": 201178,
+        "word": "女子带男童进女更衣室被提醒后大骂",
+        "onboard_time": 1721279958,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200337,
+        "num": 200337,
+        "word": "吴奇隆在机场跑道开车",
+        "onboard_time": 1721283558,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187420,
+        "num": 187420,
+        "word": "StrayKids续约JYP",
+        "onboard_time": 1721283019,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181352,
+        "num": 181352,
+        "word": "暨南大学回应学生反映宿舍甲醛超标",
+        "onboard_time": 1721274919,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "等我辞职了就去干这个",
+        "onboard_time": 1721278160,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161298,
+        "num": 161298,
+        "word": "ENHYPEN青岛签售",
+        "onboard_time": 1721283740,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154519,
+        "num": 154519,
+        "word": "赵今麦hi6路透",
+        "onboard_time": 1721280800,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153822,
+        "num": 153822,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1721273958,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147449,
+        "num": 147449,
+        "word": "谁设计的奥运行李箱",
+        "onboard_time": 1721283499,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17804,
+        "num": 145584,
+        "word": "卡皮巴拉让雷军肃然起敬",
+        "onboard_time": 1721282838,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145523,
+        "num": 145523,
+        "word": "冰咖啡和热咖啡区别竟然这么大",
+        "onboard_time": 1721277320,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143083,
+        "num": 143083,
+        "word": "朱丹闺蜜田笑蜜被恢复执行1611万元",
+        "onboard_time": 1721278761,
+        "rank": 42,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137608,
+        "num": 137608,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54727,
+        "num": 137450,
+        "word": "美国大选不要动辄拿中国说事",
+        "onboard_time": 1721275521,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137316,
+        "num": 137316,
+        "word": "曾舜晞 白鹿你怎么那么多节目",
+        "onboard_time": 1721283861,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137260,
+        "num": 137260,
+        "word": "许凯想和王鹤棣一样大爆",
+        "onboard_time": 1721284037,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "檀健次唱了云与海",
+        "onboard_time": 1721283918,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134442,
+        "num": 134442,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届三中全会#"
+    }
+  }
+}

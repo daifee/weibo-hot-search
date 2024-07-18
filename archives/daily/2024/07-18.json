@@ -1,6 +1,6 @@
 {
   "startTime": 1721233520221,
-  "endTime": 1721280957767,
+  "endTime": 1721284067469,
   "band_list": [
     {
       "raw_hot": 3791381,
@@ -57,6 +57,22 @@
       "onboard_time": 1721274198,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1349283,
+      "num": 498483,
+      "word": "单休已成职场用工新要求",
+      "onboard_time": 1721279958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1317074,
+      "num": 217546,
+      "word": "一次高危性行为险些不能生育",
+      "onboard_time": 1721282418,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1175422,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 588505,
-      "num": 498483,
-      "word": "单休已成职场用工新要求",
-      "onboard_time": 1721279958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587558,
       "num": 493363,
       "word": "少年剧就该少年演",
@@ -243,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 533715,
+      "num": 320043,
+      "word": "宗馥莉今年接任20多家娃哈哈公司",
+      "onboard_time": 1721279059,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525611,
       "num": 525611,
       "word": "应急管理部等派工作组赶赴自贡",
@@ -265,6 +281,14 @@
       "onboard_time": 1721274919,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507674,
+      "num": 324452,
+      "word": "陈晓变脸李冰冰",
+      "onboard_time": 1721281280,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 494273,
@@ -297,6 +321,14 @@
       "onboard_time": 1721228298,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467972,
+      "num": 331264,
+      "word": "英国乐队告NewJeans抄袭",
+      "onboard_time": 1721280137,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 452960,
@@ -371,11 +403,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 414603,
+      "num": 310913,
+      "word": "官方发布自贡717重大火灾事故情况通报",
+      "onboard_time": 1721280739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414320,
       "num": 414320,
       "word": "四川成立717重大火灾事故调查组",
       "onboard_time": 1721269698,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410793,
+      "num": 217284,
+      "word": "女生钓到大肚鱼烤熟后结果悲剧了",
+      "onboard_time": 1721281280,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404342,
+      "num": 305212,
+      "word": "大小周成一些HR的最大让步",
+      "onboard_time": 1721280559,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -499,28 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331264,
-      "num": 331264,
-      "word": "英国乐队告NewJeans抄袭",
-      "onboard_time": 1721280137,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 324299,
       "num": 282154,
       "word": "我们的歌首期歌单公布",
       "onboard_time": 1721273900,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320043,
-      "num": 320043,
-      "word": "宗馥莉今年接任20多家娃哈哈公司",
-      "onboard_time": 1721279059,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318857,
@@ -547,12 +587,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 303401,
+      "num": 303401,
+      "word": "狐狸精找到李莲花了",
+      "onboard_time": 1721280137,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303307,
       "num": 414356,
       "word": "自贡火灾中男子开工程车救下数十人",
       "onboard_time": 1721271617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302934,
+      "num": 302934,
+      "word": "王者荣耀10v10",
+      "onboard_time": 1721282238,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 301534,
@@ -619,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239622,
+      "num": 217024,
+      "word": "经常熬夜身体4个部位会变臭",
+      "onboard_time": 1721280079,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238641,
       "num": 191516,
       "word": "孙颖莎离大满贯只差一枚奥运女单金牌",
@@ -659,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 219377,
-      "num": 219377,
-      "word": "狐狸精找到李莲花了",
-      "onboard_time": 1721280137,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217895,
       "num": 217895,
       "word": "解说记得情绪失控",
@@ -699,6 +755,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 216552,
+      "num": 216552,
+      "word": "杨紫长相思15集定律",
+      "onboard_time": 1721280619,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215891,
+      "num": 213427,
+      "word": "贾玲杨紫要二搭了",
+      "onboard_time": 1721280559,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215090,
       "num": 215090,
       "word": "冰咖啡和热咖啡区别竟然这么大",
@@ -713,14 +785,6 @@
       "onboard_time": 1721273059,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213427,
-      "num": 213427,
-      "word": "贾玲杨紫要二搭了",
-      "onboard_time": 1721280559,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 211596,
@@ -739,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209726,
+      "num": 209726,
+      "word": "陈梦说不拿到冠军其他都是空谈",
+      "onboard_time": 1721283318,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209093,
       "num": 209093,
       "word": "3位男生被新郎调剂到伴娘组",
@@ -747,12 +819,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208785,
+      "num": 208785,
+      "word": "谁懂洗完澡才8点的含金量啊",
+      "onboard_time": 1721277261,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "原来这就是脊柱侧弯的征兆",
+      "onboard_time": 1721282118,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204214,
       "num": 204214,
       "word": "张新成王玉雯竹马cp七夕大片",
       "onboard_time": 1721274021,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201178,
+      "num": 201178,
+      "word": "女子带男童进女更衣室被提醒后大骂",
+      "onboard_time": 1721279958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200337,
+      "num": 200337,
+      "word": "吴奇隆在机场跑道开车",
+      "onboard_time": 1721283558,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 199029,
@@ -795,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191821,
-      "num": 191821,
-      "word": "女子带男童进女更衣室被提醒后大骂",
-      "onboard_time": 1721279958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190549,
       "num": 190549,
       "word": "小猫学历排名",
@@ -841,6 +937,14 @@
       "onboard_time": 1721223619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "StrayKids续约JYP",
+      "onboard_time": 1721283019,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 185291,
@@ -907,28 +1011,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170623,
-      "num": 170623,
-      "word": "官方发布自贡717重大火灾事故情况通报",
-      "onboard_time": 1721280739,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168058,
       "num": 168058,
       "word": "赵今麦hi6路透",
       "onboard_time": 1721280800,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167123,
-      "num": 167123,
-      "word": "经常熬夜身体4个部位会变臭",
-      "onboard_time": 1721280079,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 165618,
@@ -987,12 +1075,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160954,
-      "num": 160954,
-      "word": "谁懂洗完澡才8点的含金量啊",
-      "onboard_time": 1721277261,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 161298,
+      "num": 161298,
+      "word": "ENHYPEN青岛签售",
+      "onboard_time": 1721283740,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 158975,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1721276179,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153107,
+      "num": 478051,
+      "word": "为了帮你减肥这些医院开门诊了",
+      "onboard_time": 1721279720,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 152030,
@@ -1099,6 +1195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147449,
+      "num": 147449,
+      "word": "谁设计的奥运行李箱",
+      "onboard_time": 1721283499,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147002,
       "num": 147002,
       "word": "用力生长 唱出女性力量",
@@ -1129,14 +1233,6 @@
       "onboard_time": 1721273839,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141275,
-      "num": 141275,
-      "word": "杨紫长相思15集定律",
-      "onboard_time": 1721280619,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 141115,
@@ -1179,6 +1275,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137316,
+      "num": 137316,
+      "word": "曾舜晞 白鹿你怎么那么多节目",
+      "onboard_time": 1721283861,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "许凯想和王鹤棣一样大爆",
+      "onboard_time": 1721284037,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136970,
       "num": 136970,
       "word": "宗庆后仍是娃哈哈集团法定代表人",
@@ -1195,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135291,
+      "num": 135291,
+      "word": "檀健次唱了云与海",
+      "onboard_time": 1721283918,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134268,
       "num": 134268,
       "word": "陈哲远李沁ii得e",
@@ -1208,14 +1328,6 @@
       "word": "香港消委会称农夫山泉是饮用天然水",
       "onboard_time": 1721267778,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132907,
-      "num": 132907,
-      "word": "大小周成一些HR的最大让步",
-      "onboard_time": 1721280559,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1427,14 +1539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92984,
-      "num": 478051,
-      "word": "为了帮你减肥这些医院开门诊了",
-      "onboard_time": 1721279720,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 88404,
       "num": 186917,
       "word": "格局被禁赛两场",
@@ -1619,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45869,
+      "num": 201270,
+      "word": "韩国始兴恶鬼杀人事件",
+      "onboard_time": 1721283619,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45735,
       "num": 56927,
       "word": "王楚钦在巴黎打台球",
@@ -1723,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23870,
+      "num": 321411,
+      "word": "超大扑棱蛾子的蛇头伪装好逆天",
+      "onboard_time": 1721283678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23740,
       "num": 187873,
       "word": "深圳又被彩虹刷屏了",
@@ -1761,6 +1881,14 @@
       "onboard_time": 1721234115,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17804,
+      "num": 145584,
+      "word": "卡皮巴拉让雷军肃然起敬",
+      "onboard_time": 1721282838,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 15063,
@@ -1852,6 +1980,9 @@
     },
     {
       "word": "#伟大的历史变革#"
+    },
+    {
+      "word": "#党的二十届三中全会#"
     }
   ]
 }

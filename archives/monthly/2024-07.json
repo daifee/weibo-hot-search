@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721280957767,
+  "endTime": 1721284067469,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1349283,
+      "num": 498483,
+      "word": "单休已成职场用工新要求",
+      "onboard_time": 1721279958,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346135,
       "num": 676425,
       "word": "中金",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1721188878,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1317074,
+      "num": 217546,
+      "word": "一次高危性行为险些不能生育",
+      "onboard_time": 1721282418,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1314673,
@@ -7315,14 +7331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 588505,
-      "num": 498483,
-      "word": "单休已成职场用工新要求",
-      "onboard_time": 1721279958,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 588202,
       "num": 1615696,
       "word": "Henry没认出黄磊",
@@ -8627,6 +8635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533715,
+      "num": 320043,
+      "word": "宗馥莉今年接任20多家娃哈哈公司",
+      "onboard_time": 1721279059,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533539,
       "num": 533539,
       "word": "爸爸把女儿第一次上学拍成了纪录片",
@@ -9217,6 +9233,14 @@
       "onboard_time": 1720146976,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507674,
+      "num": 324452,
+      "word": "陈晓变脸李冰冰",
+      "onboard_time": 1721281280,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 507612,
@@ -10353,6 +10377,14 @@
       "onboard_time": 1720173858,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 467972,
+      "num": 331264,
+      "word": "英国乐队告NewJeans抄袭",
+      "onboard_time": 1721280137,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 467290,
@@ -12259,6 +12291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414603,
+      "num": 310913,
+      "word": "官方发布自贡717重大火灾事故情况通报",
+      "onboard_time": 1721280739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414389,
       "num": 414389,
       "word": "洞庭湖决口开始封堵合龙",
@@ -12369,6 +12409,14 @@
       "onboard_time": 1720078337,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410793,
+      "num": 217284,
+      "word": "女生钓到大肚鱼烤熟后结果悲剧了",
+      "onboard_time": 1721281280,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410662,
@@ -12577,6 +12625,14 @@
       "onboard_time": 1719913758,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404342,
+      "num": 305212,
+      "word": "大小周成一些HR的最大让步",
+      "onboard_time": 1721280559,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404249,
@@ -15323,14 +15379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331264,
-      "num": 331264,
-      "word": "英国乐队告NewJeans抄袭",
-      "onboard_time": 1721280137,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331063,
       "num": 297309,
       "word": "于正再为吴谨言发声",
@@ -15865,14 +15913,6 @@
       "onboard_time": 1721021599,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 320043,
-      "num": 320043,
-      "word": "宗馥莉今年接任20多家娃哈哈公司",
-      "onboard_time": 1721279059,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319972,
@@ -16579,6 +16619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303401,
+      "num": 303401,
+      "word": "狐狸精找到李莲花了",
+      "onboard_time": 1721280137,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303307,
       "num": 414356,
       "word": "自贡火灾中男子开工程车救下数十人",
@@ -16593,6 +16641,14 @@
       "onboard_time": 1720334238,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302934,
+      "num": 302934,
+      "word": "王者荣耀10v10",
+      "onboard_time": 1721282238,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 302614,
@@ -19955,6 +20011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239622,
+      "num": 217024,
+      "word": "经常熬夜身体4个部位会变臭",
+      "onboard_time": 1721280079,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239409,
       "num": 239409,
       "word": "A股一上市公司12年造假上百亿元",
@@ -21427,14 +21491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219377,
-      "num": 219377,
-      "word": "狐狸精找到李莲花了",
-      "onboard_time": 1721280137,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219370,
       "num": 219370,
       "word": "周深演唱会 陪跑",
@@ -21787,6 +21843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216552,
+      "num": 216552,
+      "word": "杨紫长相思15集定律",
+      "onboard_time": 1721280619,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216513,
       "num": 216513,
       "word": "姆巴佩皇马亮相仪式",
@@ -21841,6 +21905,14 @@
       "onboard_time": 1719961695,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215891,
+      "num": 213427,
+      "word": "贾玲杨紫要二搭了",
+      "onboard_time": 1721280559,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 215773,
@@ -22153,14 +22225,6 @@
       "onboard_time": 1720846938,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213427,
-      "num": 213427,
-      "word": "贾玲杨紫要二搭了",
-      "onboard_time": 1721280559,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 213403,
@@ -22499,6 +22563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209726,
+      "num": 209726,
+      "word": "陈梦说不拿到冠军其他都是空谈",
+      "onboard_time": 1721283318,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209686,
       "num": 209686,
       "word": "中储粮金鼎食用油再下架",
@@ -22657,6 +22729,14 @@
       "onboard_time": 1719982459,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 208785,
+      "num": 208785,
+      "word": "谁懂洗完澡才8点的含金量啊",
+      "onboard_time": 1721277261,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 208731,
@@ -23257,6 +23337,14 @@
       "onboard_time": 1720669099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "原来这就是脊柱侧弯的征兆",
+      "onboard_time": 1721282118,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205104,
@@ -24019,6 +24107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201178,
+      "num": 201178,
+      "word": "女子带男童进女更衣室被提醒后大骂",
+      "onboard_time": 1721279958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201177,
       "num": 201177,
       "word": "DYG偏偏你最好笑",
@@ -24177,6 +24273,14 @@
       "onboard_time": 1720159399,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200337,
+      "num": 200337,
+      "word": "吴奇隆在机场跑道开车",
+      "onboard_time": 1721283558,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 200324,
@@ -25683,14 +25787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191821,
-      "num": 191821,
-      "word": "女子带男童进女更衣室被提醒后大骂",
-      "onboard_time": 1721279958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191765,
       "num": 191765,
       "word": "小狗知道要去医院脸都垮了",
@@ -26641,6 +26737,14 @@
       "onboard_time": 1719903499,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "StrayKids续约JYP",
+      "onboard_time": 1721283019,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 187335,
@@ -29251,14 +29355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170623,
-      "num": 170623,
-      "word": "官方发布自贡717重大火灾事故情况通报",
-      "onboard_time": 1721280739,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170602,
       "num": 170602,
       "word": "吴谨言说久违了大波浪",
@@ -29897,14 +29993,6 @@
       "onboard_time": 1721019740,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167123,
-      "num": 167123,
-      "word": "经常熬夜身体4个部位会变臭",
-      "onboard_time": 1721280079,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 166999,
@@ -30891,6 +30979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161298,
+      "num": 161298,
+      "word": "ENHYPEN青岛签售",
+      "onboard_time": 1721283740,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161250,
       "num": 161250,
       "word": "爱首先是一种创造爱的能力",
@@ -30937,14 +31033,6 @@
       "onboard_time": 1720002137,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160954,
-      "num": 160954,
-      "word": "谁懂洗完澡才8点的含金量啊",
-      "onboard_time": 1721277261,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 160823,
@@ -32395,6 +32483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153107,
+      "num": 478051,
+      "word": "为了帮你减肥这些医院开门诊了",
+      "onboard_time": 1721279720,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "汪苏泷 小小虫",
@@ -33441,6 +33537,14 @@
       "onboard_time": 1721123719,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147449,
+      "num": 147449,
+      "word": "谁设计的奥运行李箱",
+      "onboard_time": 1721283499,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 147436,
@@ -34715,14 +34819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141275,
-      "num": 141275,
-      "word": "杨紫长相思15集定律",
-      "onboard_time": 1721280619,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141237,
       "num": 604997,
       "word": "儿子你们辛苦了",
@@ -35667,12 +35763,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 137316,
+      "num": 137316,
+      "word": "曾舜晞 白鹿你怎么那么多节目",
+      "onboard_time": 1721283861,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 137307,
       "num": 137307,
       "word": "广东宠物鱼一口吞掉大蟑螂",
       "onboard_time": 1720100539,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "许凯想和王鹤棣一样大爆",
+      "onboard_time": 1721284037,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 137256,
@@ -36065,6 +36177,14 @@
       "onboard_time": 1720396697,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135291,
+      "num": 135291,
+      "word": "檀健次唱了云与海",
+      "onboard_time": 1721283918,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 135126,
@@ -36585,14 +36705,6 @@
       "onboard_time": 1719885257,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132907,
-      "num": 132907,
-      "word": "大小周成一些HR的最大让步",
-      "onboard_time": 1721280559,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132899,
@@ -43563,14 +43675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92984,
-      "num": 478051,
-      "word": "为了帮你减肥这些医院开门诊了",
-      "onboard_time": 1721279720,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 92981,
       "num": 97358,
       "word": "giselle保存粉丝拍的照片",
@@ -47651,6 +47755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45869,
+      "num": 201270,
+      "word": "韩国始兴恶鬼杀人事件",
+      "onboard_time": 1721283619,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45735,
       "num": 56927,
       "word": "王楚钦在巴黎打台球",
@@ -50043,6 +50155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23870,
+      "num": 321411,
+      "word": "超大扑棱蛾子的蛇头伪装好逆天",
+      "onboard_time": 1721283678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23858,
       "num": 23858,
       "word": "网文作者真的很赚钱吗",
@@ -50633,6 +50753,14 @@
       "onboard_time": 1720170917,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17804,
+      "num": 145584,
+      "word": "卡皮巴拉让雷军肃然起敬",
+      "onboard_time": 1721282838,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 17610,
