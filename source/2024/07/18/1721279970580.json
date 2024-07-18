@@ -1,0 +1,410 @@
+{
+  "runTime": 1721279970580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369147,
+        "num": 1369147,
+        "word": "郭麒麟被恋综女嘉宾贴脸开大",
+        "onboard_time": 1721274198,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645395,
+        "num": 645395,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42692,
+        "num": 636150,
+        "word": "百年大党如何交出更加优异的答卷",
+        "onboard_time": 1721276900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1067128,
+        "num": 583827,
+        "word": "吻了多少次才能认出口红色号",
+        "onboard_time": 1721275399,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726470,
+        "num": 564989,
+        "word": "日本男子为攒1亿21年只吃凉水泡饭",
+        "onboard_time": 1721278160,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21370,
+        "num": 548693,
+        "word": "京津冀区域货物贸易进出口创新高",
+        "onboard_time": 1721276720,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519001,
+        "num": 519001,
+        "word": "暨南大学回应学生反映宿舍甲醛超标",
+        "onboard_time": 1721274919,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493983,
+        "num": 493983,
+        "word": "郎平劝年轻人一定别躺平",
+        "onboard_time": 1721275160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395202,
+        "num": 482952,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59237,
+        "num": 478051,
+        "word": "为了帮你减肥这些医院开门诊了",
+        "onboard_time": 1721279720,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 725327,
+        "num": 470074,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609489,
+        "num": 453694,
+        "word": "宗庆后是娃哈哈第二大股东",
+        "onboard_time": 1721275399,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 504768,
+        "num": 437699,
+        "word": "特朗普炒作台湾问题引台积电股价超跌",
+        "onboard_time": 1721273659,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 434215,
+        "num": 434215,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426413,
+        "num": 426413,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355661,
+        "num": 355661,
+        "word": "终于又能吃到现偶的细糠了",
+        "onboard_time": 1721273477,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332436,
+        "num": 332436,
+        "word": "少年剧就该少年演",
+        "onboard_time": 1721279119,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314375,
+        "num": 314375,
+        "word": "朱丹闺蜜田笑蜜被恢复执行1611万元",
+        "onboard_time": 1721278761,
+        "rank": 17,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 246759,
+        "num": 246759,
+        "word": "单休已成职场用工新要求",
+        "onboard_time": 1721279958,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201830,
+        "num": 232930,
+        "word": "美国女子泳池挣扎10分钟无人救后死亡",
+        "onboard_time": 1721275039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391289,
+        "num": 228993,
+        "word": "饿瘦和运动瘦的区别",
+        "onboard_time": 1721273958,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 355315,
+        "num": 227909,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224480,
+        "num": 224480,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219762,
+        "num": 219762,
+        "word": "我们的歌首期歌单公布",
+        "onboard_time": 1721273900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188580,
+        "num": 210475,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205294,
+        "num": 205294,
+        "word": "等我辞职了就去干这个",
+        "onboard_time": 1721278160,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198767,
+        "num": 198767,
+        "word": "于正说白鹿李一桐李沁绝美古典美",
+        "onboard_time": 1721273178,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191422,
+        "num": 191422,
+        "word": "冰咖啡和热咖啡区别竟然这么大",
+        "onboard_time": 1721277320,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182950,
+        "num": 182950,
+        "word": "李斯丹妮变化好大",
+        "onboard_time": 1721278522,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180031,
+        "num": 180031,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172770,
+        "num": 172770,
+        "word": "宗馥莉今年接任20多家娃哈哈公司",
+        "onboard_time": 1721279059,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158681,
+        "num": 158681,
+        "word": "孟子义夸王星越靠帅进的中戏",
+        "onboard_time": 1721279419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259230,
+        "num": 158629,
+        "word": "华为Pura70全系官方降价",
+        "onboard_time": 1721278160,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121667,
+        "num": 156794,
+        "word": "美国大选不要动辄拿中国说事",
+        "onboard_time": 1721275521,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68822,
+        "num": 156736,
+        "word": "农夫山泉回应香港消委会道歉",
+        "onboard_time": 1721268318,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156704,
+        "num": 156704,
+        "word": "Yamy段奥娟去看了杨超越话剧",
+        "onboard_time": 1721267538,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151280,
+        "num": 151280,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149912,
+        "num": 149912,
+        "word": "天蝎座的感情离不开陪伴",
+        "onboard_time": 1721278999,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147454,
+        "num": 147454,
+        "word": "古茗免单口令",
+        "onboard_time": 1721277440,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13050,
+        "num": 147050,
+        "word": "张朝阳对话顶级物理学家库姆伦瓦法",
+        "onboard_time": 1721279419,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146970,
+        "num": 146970,
+        "word": "海贼王 路飞第一",
+        "onboard_time": 1721278999,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145478,
+        "num": 145478,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141591,
+        "num": 141591,
+        "word": "买衣服出现这几种情况建议赶紧退货",
+        "onboard_time": 1721270358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136970,
+        "num": 136970,
+        "word": "宗庆后仍是娃哈哈集团法定代表人",
+        "onboard_time": 1721279662,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125647,
+        "num": 125647,
+        "word": "谁家女明星为宣传新剧发传单啊",
+        "onboard_time": 1721277862,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1084544,
+        "num": 125238,
+        "word": "娃哈哈 宗馥莉",
+        "onboard_time": 1721272937,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123899,
+        "num": 123899,
+        "word": "佟大为在错位里又演爽了吧",
+        "onboard_time": 1721275097,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123560,
+        "num": 123560,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122614,
+        "num": 122614,
+        "word": "女子带男童进女更衣室被提醒后大骂",
+        "onboard_time": 1721279958,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2193169,
+        "num": 122404,
+        "word": "娃哈哈前高管称宗馥莉辞职属实",
+        "onboard_time": 1721272937,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大的历史变革#"
+    }
+  }
+}
