@@ -1,0 +1,410 @@
+{
+  "runTime": 1721273952032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2788902,
+        "num": 2788902,
+        "word": "网传宗馥莉辞职",
+        "onboard_time": 1721272937,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1107105,
+        "num": 1107105,
+        "word": "中国游泳队10天内接受近200次兴奋剂检测",
+        "onboard_time": 1721270659,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10211,
+        "num": 827887,
+        "word": "小岗梦也是广大农民的梦",
+        "onboard_time": 1721224099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2553152,
+        "num": 787816,
+        "word": "娃哈哈 宗馥莉",
+        "onboard_time": 1721272937,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 704079,
+        "num": 704079,
+        "word": "长相思2魔改",
+        "onboard_time": 1721269878,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 630584,
+        "num": 630584,
+        "word": "四川717火灾相关责任人已被警方控制",
+        "onboard_time": 1721269937,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476000,
+        "num": 476000,
+        "word": "印度人口在2060年将达17亿",
+        "onboard_time": 1721267778,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 399313,
+        "num": 399313,
+        "word": "应急管理部等派工作组赶赴自贡",
+        "onboard_time": 1721260637,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383034,
+        "num": 383034,
+        "word": "贾玲包场抓娃娃",
+        "onboard_time": 1721268917,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345007,
+        "num": 345007,
+        "word": "女主人4克金貔貅被狗子吃了2克",
+        "onboard_time": 1721271378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2445599,
+        "num": 342183,
+        "word": "娃哈哈前高管称宗馥莉辞职属实",
+        "onboard_time": 1721272937,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1389958,
+        "num": 329845,
+        "word": "差点没认出金晨",
+        "onboard_time": 1721269157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483145,
+        "num": 326476,
+        "word": "25岁小伙办完婚礼发现新娘50岁",
+        "onboard_time": 1721260216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106622,
+        "num": 319867,
+        "word": "孕妇胎儿严重贫血河南宝妈捐血帮保胎",
+        "onboard_time": 1721273597,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 312551,
+        "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
+        "onboard_time": 1721273539,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 454978,
+        "num": 303689,
+        "word": "韩网曝YG请记者写Jennie负面新闻",
+        "onboard_time": 1721273059,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299266,
+        "num": 299266,
+        "word": "于正说白鹿李一桐李沁绝美古典美",
+        "onboard_time": 1721273178,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420785,
+        "num": 297937,
+        "word": "娃哈哈办事处回应网传宗馥莉辞职",
+        "onboard_time": 1721273418,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287692,
+        "num": 287692,
+        "word": "自贡火灾中男子开工程车救下数十人",
+        "onboard_time": 1721271617,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263760,
+        "num": 263760,
+        "word": "杨紫坚持留下桃林认母剧情",
+        "onboard_time": 1721260517,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606337,
+        "num": 260530,
+        "word": "海底捞回应小料台没有牛肉粒",
+        "onboard_time": 1721265917,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 472561,
+        "num": 257315,
+        "word": "一个人吃海底捞千万别要娃娃",
+        "onboard_time": 1721266758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308482,
+        "num": 256548,
+        "word": "经常熬夜的人身体到底有多臭",
+        "onboard_time": 1721263099,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242994,
+        "num": 242994,
+        "word": "我失去了爸妈是班主任带我回家",
+        "onboard_time": 1721265317,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230276,
+        "num": 230276,
+        "word": "睡不着就不要硬睡了",
+        "onboard_time": 1721257513,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214108,
+        "num": 214108,
+        "word": "陈意涵 我来自中国台湾",
+        "onboard_time": 1721223798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213804,
+        "num": 213804,
+        "word": "Yamy段奥娟去看了杨超越话剧",
+        "onboard_time": 1721267538,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210899,
+        "num": 210899,
+        "word": "买衣服出现这几种情况建议赶紧退货",
+        "onboard_time": 1721270358,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206823,
+        "num": 206823,
+        "word": "我们的歌首期歌单公布",
+        "onboard_time": 1721273900,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195194,
+        "num": 195194,
+        "word": "终于又能吃到现偶的细糠了",
+        "onboard_time": 1721273477,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189252,
+        "num": 189252,
+        "word": "唐朝诡事录之西行开播",
+        "onboard_time": 1721264839,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184976,
+        "num": 184976,
+        "word": "原神滑跪",
+        "onboard_time": 1721259436,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181310,
+        "num": 181310,
+        "word": "阿根廷总统力挺梅西",
+        "onboard_time": 1721267898,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181013,
+        "num": 181013,
+        "word": "众星峡谷10V10",
+        "onboard_time": 1721273059,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176981,
+        "num": 176981,
+        "word": "拜登新冠检测呈阳性",
+        "onboard_time": 1721258235,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175057,
+        "num": 176444,
+        "word": "默杀王传君张钧甯打戏",
+        "onboard_time": 1721272698,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176303,
+        "num": 176303,
+        "word": "我家那闺女中女孩被焦虑支配的一生",
+        "onboard_time": 1721261420,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175609,
+        "num": 175609,
+        "word": "黄景瑜富士山下适配度",
+        "onboard_time": 1721273298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175041,
+        "num": 175041,
+        "word": "闪耀暖暖光效",
+        "onboard_time": 1721273721,
+        "rank": 38,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 164428,
+        "num": 164428,
+        "word": "特朗普炒作台湾问题引台积电股价超跌",
+        "onboard_time": 1721273659,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 161090,
+        "word": "自贡百货大楼火灾致16人遇难",
+        "onboard_time": 1721258115,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152106,
+        "num": 152106,
+        "word": "解说记得情绪失控",
+        "onboard_time": 1721268859,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151289,
+        "num": 151289,
+        "word": "成毅空中转体360度",
+        "onboard_time": 1721273418,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142780,
+        "num": 142780,
+        "word": "霸王茶姬是在碰瓷星巴克吗",
+        "onboard_time": 1721264179,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138299,
+        "num": 138299,
+        "word": "男生为减肥晒背一天一个色",
+        "onboard_time": 1721262260,
+        "rank": 44,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "陈哲远李沁ii得e",
+        "onboard_time": 1721272639,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134018,
+        "num": 134018,
+        "word": "错位没有烂尾",
+        "onboard_time": 1721271739,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 133464,
+        "word": "成毅托马斯全旋",
+        "onboard_time": 1721271077,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131828,
+        "num": 131828,
+        "word": "布朗尼终于进三分了",
+        "onboard_time": 1721273839,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131241,
+        "num": 131241,
+        "word": "于正小作文夸白鹿",
+        "onboard_time": 1721268797,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习领悟总书记全面深化改革方法论#"
+    }
+  }
+}

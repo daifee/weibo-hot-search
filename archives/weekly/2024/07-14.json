@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721273090606,
+  "endTime": 1721273952032,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2788902,
+      "num": 2788902,
+      "word": "网传宗馥莉辞职",
+      "onboard_time": 1721272937,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2587082,
       "num": 2587082,
       "word": "阿根廷vs哥伦比亚",
@@ -81,6 +89,22 @@
       "onboard_time": 1720930947,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2553152,
+      "num": 1476272,
+      "word": "娃哈哈 宗馥莉",
+      "onboard_time": 1721272937,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 2445599,
+      "num": 385752,
+      "word": "娃哈哈前高管称宗馥莉辞职属实",
+      "onboard_time": 1721272937,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 2267110,
@@ -305,14 +329,6 @@
       "onboard_time": 1721269157,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1476272,
-      "num": 1476272,
-      "word": "娃哈哈 宗馥莉",
-      "onboard_time": 1721272937,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1467557,
@@ -891,14 +907,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 898956,
-      "num": 667544,
-      "word": "网传宗馥莉辞职",
-      "onboard_time": 1721272937,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 898549,
       "num": 406591,
       "word": "特朗普支持率未获显著领先",
@@ -1379,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704079,
+      "num": 704079,
+      "word": "长相思2魔改",
+      "onboard_time": 1721269878,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 694799,
       "num": 338525,
       "word": "中国女子在泰国遭肢解案嫌疑人落网",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1721029819,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670116,
-      "num": 670116,
-      "word": "长相思2魔改",
-      "onboard_time": 1721269878,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 664479,
@@ -1769,14 +1777,6 @@
       "onboard_time": 1721139440,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 589607,
-      "num": 385752,
-      "word": "娃哈哈前高管称宗馥莉辞职属实",
-      "onboard_time": 1721272937,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 588202,
@@ -2611,6 +2611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 454978,
+      "num": 303689,
+      "word": "韩网曝YG请记者写Jennie负面新闻",
+      "onboard_time": 1721273059,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454478,
       "num": 302193,
       "word": "林一 不想做人很久了",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1720930645,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 420785,
+      "num": 297937,
+      "word": "娃哈哈办事处回应网传宗馥莉辞职",
+      "onboard_time": 1721273418,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 420299,
@@ -4099,6 +4115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 299266,
+      "num": 299266,
+      "word": "于正说白鹿李一桐李沁绝美古典美",
+      "onboard_time": 1721273178,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298759,
       "num": 205729,
       "word": "拍出了赵今麦竹的气质",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1721228479,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287692,
+      "num": 414356,
+      "word": "自贡火灾中男子开工程车救下数十人",
+      "onboard_time": 1721271617,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287465,
@@ -5683,6 +5715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210899,
+      "num": 210899,
+      "word": "买衣服出现这几种情况建议赶紧退货",
+      "onboard_time": 1721270358,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210828,
       "num": 160886,
       "word": "一个人的成熟从3次放下开始",
@@ -5737,14 +5777,6 @@
       "onboard_time": 1721263099,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209033,
-      "num": 209033,
-      "word": "韩网曝YG请记者写Jennie负面新闻",
-      "onboard_time": 1721273059,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 208982,
@@ -5817,6 +5849,14 @@
       "onboard_time": 1721025439,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206823,
+      "num": 206823,
+      "word": "我们的歌首期歌单公布",
+      "onboard_time": 1721273900,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 206811,
@@ -5993,14 +6033,6 @@
       "onboard_time": 1721199198,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203692,
-      "num": 203692,
-      "word": "买衣服出现这几种情况建议赶紧退货",
-      "onboard_time": 1721270358,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203670,
@@ -6465,6 +6497,14 @@
       "onboard_time": 1721191282,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195194,
+      "num": 195194,
+      "word": "终于又能吃到现偶的细糠了",
+      "onboard_time": 1721273477,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 195049,
@@ -7275,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175609,
+      "num": 175609,
+      "word": "黄景瑜富士山下适配度",
+      "onboard_time": 1721273298,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175499,
       "num": 175499,
       "word": "愿我们永远是我们",
@@ -7313,6 +7361,14 @@
       "onboard_time": 1721112858,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 175041,
+      "num": 175041,
+      "word": "闪耀暖暖光效",
+      "onboard_time": 1721273721,
+      "rank": 38,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 174871,
@@ -7777,6 +7833,14 @@
       "onboard_time": 1721264598,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164428,
+      "num": 164428,
+      "word": "特朗普炒作台湾问题引台积电股价超跌",
+      "onboard_time": 1721273659,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163851,
@@ -8392,6 +8456,14 @@
       "word": "谁给蓝盈莹递个爽文本子",
       "onboard_time": 1721196799,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151289,
+      "num": 151289,
+      "word": "成毅空中转体360度",
+      "onboard_time": 1721273418,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -9187,14 +9259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136095,
-      "num": 414356,
-      "word": "自贡火灾中男子开工程车救下数十人",
-      "onboard_time": 1721271617,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135914,
       "num": 135914,
       "word": "沈星回 卧底夫妇",
@@ -9265,6 +9329,14 @@
       "onboard_time": 1720948100,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134268,
+      "num": 134268,
+      "word": "陈哲远李沁ii得e",
+      "onboard_time": 1721272639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 134174,
@@ -9475,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131828,
+      "num": 131828,
+      "word": "布朗尼终于进三分了",
+      "onboard_time": 1721273839,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131502,
       "num": 131502,
       "word": "徐菲徐锦江以父之名的具象化",
@@ -9489,14 +9569,6 @@
       "onboard_time": 1721137639,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131135,
-      "num": 131135,
-      "word": "陈哲远李沁ii得e",
-      "onboard_time": 1721272639,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 131102,
@@ -10625,6 +10697,14 @@
       "onboard_time": 1721174838,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106622,
+      "num": 319867,
+      "word": "孕妇胎儿严重贫血河南宝妈捐血帮保胎",
+      "onboard_time": 1721273597,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106522,
@@ -12801,6 +12881,14 @@
       "onboard_time": 1720903030,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20198,
+      "num": 312551,
+      "word": "娃哈哈大股东回应宗馥莉辞任副董事长",
+      "onboard_time": 1721273539,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 19953,
