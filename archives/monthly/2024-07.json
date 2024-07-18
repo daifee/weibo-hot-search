@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721312351287,
+  "endTime": 1721313381050,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -8548,7 +8548,7 @@
     },
     {
       "raw_hot": 543841,
-      "num": 244019,
+      "num": 251118,
       "word": "吴磊刘亦菲同框",
       "onboard_time": 1721309959,
       "rank": 11,
@@ -9193,6 +9193,14 @@
       "onboard_time": 1720585880,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517771,
+      "num": 517771,
+      "word": "王者荣耀",
+      "onboard_time": 1721310139,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 516995,
@@ -13979,14 +13987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 376058,
-      "num": 376058,
-      "word": "王者荣耀",
-      "onboard_time": 1721310139,
-      "rank": 1,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 376017,
       "num": 284105,
       "word": "12306上的静兑铺都是啥意思",
@@ -15363,6 +15363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 341815,
+      "num": 241500,
+      "word": "挪威放假",
+      "onboard_time": 1721308159,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 341787,
       "num": 341787,
       "word": "BLG Wei",
@@ -15633,14 +15641,6 @@
       "onboard_time": 1720012278,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 334722,
-      "num": 239148,
-      "word": "挪威放假",
-      "onboard_time": 1721308159,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 334704,
@@ -16363,6 +16363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319455,
+      "num": 233427,
+      "word": "张晚意演技",
+      "onboard_time": 1721311819,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319302,
       "num": 265078,
       "word": "这和亲了一口张凌赫有啥区别",
@@ -17049,6 +17057,14 @@
       "onboard_time": 1720168278,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303615,
+      "num": 303615,
+      "word": "有奥迪销售称两天涨两次后下周还涨",
+      "onboard_time": 1721308159,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 303401,
@@ -20611,6 +20627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238810,
+      "num": 199234,
+      "word": "什么星座最容易出INFJ",
+      "onboard_time": 1721309478,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238774,
       "num": 238774,
       "word": "平价小火锅快把大牌连锁干趴了",
@@ -23475,14 +23499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208015,
-      "num": 199234,
-      "word": "什么星座最容易出INFJ",
-      "onboard_time": 1721309478,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208011,
       "num": 208011,
       "word": "多省腺病毒感染激增",
@@ -24763,14 +24779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201216,
-      "num": 201216,
-      "word": "有奥迪销售称两天涨两次后下周还涨",
-      "onboard_time": 1721308159,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 201215,
       "num": 201215,
       "word": "小孩哥回应误报400米男子公开组",
@@ -24873,6 +24881,14 @@
       "onboard_time": 1720059316,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200733,
+      "num": 176740,
+      "word": "百里司空少爷与我",
+      "onboard_time": 1721312360,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 200590,
@@ -31235,6 +31251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164653,
+      "num": 164653,
+      "word": "TF三代运动会版等你的回答",
+      "onboard_time": 1721311999,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164626,
       "num": 164626,
       "word": "孙俪三十九二十八杀青照",
@@ -31569,14 +31593,6 @@
       "onboard_time": 1720225517,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163276,
-      "num": 163276,
-      "word": "张晚意演技",
-      "onboard_time": 1721311819,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 163269,
@@ -32073,14 +32089,6 @@
       "onboard_time": 1719977418,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160024,
-      "num": 160024,
-      "word": "TF三代运动会版等你的回答",
-      "onboard_time": 1721311999,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 159995,
@@ -33563,6 +33571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152582,
+      "num": 134448,
+      "word": "相柳双份心痛",
+      "onboard_time": 1721312780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152535,
       "num": 152535,
       "word": "要是没监控这个事最少得传三代",
@@ -34585,6 +34601,14 @@
       "onboard_time": 1721190859,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147082,
+      "num": 147082,
+      "word": "因为爷爷的一个朋友圈在宿舍爆哭",
+      "onboard_time": 1721312780,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 147015,
@@ -37947,6 +37971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132170,
+      "num": 187894,
+      "word": "巴黎奥运村就餐区一半是素食",
+      "onboard_time": 1721308401,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132169,
       "num": 132169,
       "word": "七月你好",
@@ -38089,6 +38121,14 @@
       "onboard_time": 1721137639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131413,
+      "num": 125133,
+      "word": "陶喆 黑色柳丁",
+      "onboard_time": 1721312539,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 131378,
@@ -39587,6 +39627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124417,
+      "num": 124417,
+      "word": "不要怀疑这真的是瓷器",
+      "onboard_time": 1721312600,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124387,
       "num": 147579,
       "word": "巴黎奥运会凡晨组合死亡之组",
@@ -39649,14 +39697,6 @@
       "onboard_time": 1719915858,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124139,
-      "num": 124139,
-      "word": "巴黎奥运村就餐区一半是素食",
-      "onboard_time": 1721308401,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 124133,
@@ -42225,6 +42265,14 @@
       "onboard_time": 1720880900,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111885,
+      "num": 117299,
+      "word": "小猫太胖是会被嘲笑的",
+      "onboard_time": 1721312360,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 111840,
@@ -44955,6 +45003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92753,
+      "num": 92753,
+      "word": "魏秋子邵一辰竟然结婚了",
+      "onboard_time": 1721313320,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92724,
       "num": 92724,
       "word": "大学生开始反向升学读技校了",
@@ -45513,6 +45569,14 @@
       "onboard_time": 1721026878,
       "rank": 14,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 86089,
+      "num": 91515,
+      "word": "丁俊晖3比6奥沙利文",
+      "onboard_time": 1721313197,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 85987,
@@ -46553,6 +46617,14 @@
       "onboard_time": 1721286618,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71433,
+      "num": 254904,
+      "word": "中共中央明日10时将举行新闻发布会",
+      "onboard_time": 1721311819,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71401,
@@ -49681,14 +49753,6 @@
       "onboard_time": 1721257575,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40759,
-      "num": 244882,
-      "word": "中共中央明日10时将举行新闻发布会",
-      "onboard_time": 1721311819,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40738,

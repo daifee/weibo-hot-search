@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721312351287,
+  "endTime": 1721313381050,
   "band_list": [
     {
       "raw_hot": 11328266,
@@ -2276,7 +2276,7 @@
     },
     {
       "raw_hot": 543841,
-      "num": 244019,
+      "num": 251118,
       "word": "吴磊刘亦菲同框",
       "onboard_time": 1721309959,
       "rank": 11,
@@ -2569,6 +2569,14 @@
       "onboard_time": 1720923498,
       "rank": 15,
       "category": "母婴育儿,情感"
+    },
+    {
+      "raw_hot": 517771,
+      "num": 517771,
+      "word": "王者荣耀",
+      "onboard_time": 1721310139,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 515801,
@@ -3835,14 +3843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376058,
-      "num": 376058,
-      "word": "王者荣耀",
-      "onboard_time": 1721310139,
-      "rank": 1,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 375294,
       "num": 375294,
       "word": "37岁单身到底有多爽",
@@ -4243,6 +4243,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 341815,
+      "num": 241500,
+      "word": "挪威放假",
+      "onboard_time": 1721308159,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 341241,
       "num": 341241,
       "word": "A股",
@@ -4313,14 +4321,6 @@
       "onboard_time": 1721218037,
       "rank": 5,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 334722,
-      "num": 239148,
-      "word": "挪威放假",
-      "onboard_time": 1721308159,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 333526,
@@ -4507,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319455,
+      "num": 233427,
+      "word": "张晚意演技",
+      "onboard_time": 1721311819,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318733,
       "num": 294543,
       "word": "南通巨响",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1721143099,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303615,
+      "num": 303615,
+      "word": "有奥迪销售称两天涨两次后下周还涨",
+      "onboard_time": 1721308159,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 303307,
@@ -5875,6 +5891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238810,
+      "num": 199234,
+      "word": "什么星座最容易出INFJ",
+      "onboard_time": 1721309478,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238641,
       "num": 191516,
       "word": "孙颖莎离大满贯只差一枚奥运女单金牌",
@@ -6699,14 +6723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208015,
-      "num": 199234,
-      "word": "什么星座最容易出INFJ",
-      "onboard_time": 1721309478,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207781,
       "num": 204124,
       "word": "谁家悬疑剧男主又偷又藏",
@@ -7099,20 +7115,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201216,
-      "num": 201216,
-      "word": "有奥迪销售称两天涨两次后下周还涨",
-      "onboard_time": 1721308159,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "特朗普遇刺案遇难者系消防员",
       "onboard_time": 1721014159,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 200733,
+      "num": 176740,
+      "word": "百里司空少爷与我",
+      "onboard_time": 1721312360,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 200590,
@@ -9043,6 +9059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164653,
+      "num": 164653,
+      "word": "TF三代运动会版等你的回答",
+      "onboard_time": 1721311999,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164626,
       "num": 164626,
       "word": "孙俪三十九二十八杀青照",
@@ -9137,14 +9161,6 @@
       "onboard_time": 1721197697,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163276,
-      "num": 163276,
-      "word": "张晚意演技",
-      "onboard_time": 1721311819,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 163269,
@@ -9281,14 +9297,6 @@
       "onboard_time": 1721196740,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160024,
-      "num": 160024,
-      "word": "TF三代运动会版等你的回答",
-      "onboard_time": 1721311999,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 159819,
@@ -9747,6 +9755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152582,
+      "num": 134448,
+      "word": "相柳双份心痛",
+      "onboard_time": 1721312780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152453,
       "num": 400327,
       "word": "一座城市city不city走走才知道",
@@ -10113,6 +10129,14 @@
       "onboard_time": 1721190859,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147082,
+      "num": 147082,
+      "word": "因为爷爷的一个朋友圈在宿舍爆哭",
+      "onboard_time": 1721312780,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 147002,
@@ -11027,6 +11051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132170,
+      "num": 187894,
+      "word": "巴黎奥运村就餐区一半是素食",
+      "onboard_time": 1721308401,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132135,
       "num": 132135,
       "word": "看过三角恋还是头一次看三角厌",
@@ -11073,6 +11105,14 @@
       "onboard_time": 1721137639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131413,
+      "num": 125133,
+      "word": "陶喆 黑色柳丁",
+      "onboard_time": 1721312539,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 131179,
@@ -11459,6 +11499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124417,
+      "num": 124417,
+      "word": "不要怀疑这真的是瓷器",
+      "onboard_time": 1721312600,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124380,
       "num": 124380,
       "word": "TF三代登陆日四公repo",
@@ -11473,14 +11521,6 @@
       "onboard_time": 1721146039,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124139,
-      "num": 124139,
-      "word": "巴黎奥运村就餐区一半是素食",
-      "onboard_time": 1721308401,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 124013,
@@ -12105,6 +12145,14 @@
       "onboard_time": 1721092399,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111885,
+      "num": 117299,
+      "word": "小猫太胖是会被嘲笑的",
+      "onboard_time": 1721312360,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 111731,
@@ -12747,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92753,
+      "num": 92753,
+      "word": "魏秋子邵一辰竟然结婚了",
+      "onboard_time": 1721313320,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92459,
       "num": 92459,
       "word": "这个团奥运冠军含量高达42",
@@ -12841,6 +12897,14 @@
       "onboard_time": 1721026878,
       "rank": 14,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 86089,
+      "num": 91515,
+      "word": "丁俊晖3比6奥沙利文",
+      "onboard_time": 1721313197,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 85980,
@@ -13257,6 +13321,14 @@
       "onboard_time": 1721286618,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71433,
+      "num": 254904,
+      "word": "中共中央明日10时将举行新闻发布会",
+      "onboard_time": 1721311819,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71283,
@@ -14225,14 +14297,6 @@
       "onboard_time": 1721257575,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40759,
-      "num": 244882,
-      "word": "中共中央明日10时将举行新闻发布会",
-      "onboard_time": 1721311819,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40284,
