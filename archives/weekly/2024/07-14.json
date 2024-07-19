@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721399793196,
+  "endTime": 1721402535803,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -105,6 +105,14 @@
       "onboard_time": 1721395401,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4552373,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 4126542,
@@ -259,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2429337,
+      "num": 2429337,
+      "word": "李晟医生",
+      "onboard_time": 1721398641,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2267110,
       "num": 864782,
       "word": "特朗普或因侧头看图表救回一命",
@@ -297,14 +313,6 @@
       "onboard_time": 1721022016,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1999675,
-      "num": 561493,
-      "word": "温州一医生工作时被砍伤正抢救",
-      "onboard_time": 1721398520,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1959204,
@@ -697,6 +705,14 @@
       "onboard_time": 1720965921,
       "rank": 6,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 1390867,
+      "num": 444695,
+      "word": "厦大通报学生辱骂孕妇",
+      "onboard_time": 1721400621,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1382945,
@@ -1531,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 867820,
+      "num": 442666,
+      "word": "朴灿烈 我最喜欢跟你们一起唱歌了",
+      "onboard_time": 1721400262,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 866538,
       "num": 1113703,
       "word": "张新成王玉雯拍吻戏下不去嘴",
@@ -2043,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712061,
+      "num": 442103,
+      "word": "鹭卓",
+      "onboard_time": 1721400502,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 711437,
       "num": 323243,
       "word": "拜登谴责特朗普竞选集会枪击事件",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1720937843,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 650933,
+      "num": 440792,
+      "word": "温州医科大学",
+      "onboard_time": 1721399061,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 647942,
@@ -4427,6 +4467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 412935,
+      "num": 412935,
+      "word": "黄宣淘汰感言",
+      "onboard_time": 1721401222,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412369,
       "num": 412369,
       "word": "王俊凯代言夸克",
@@ -4563,6 +4611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 401416,
+      "num": 401416,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1721399301,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 401275,
       "num": 401275,
       "word": "恋与深空2.0",
@@ -4593,14 +4649,6 @@
       "onboard_time": 1720913475,
       "rank": 7,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 397547,
-      "num": 397547,
-      "word": "温州医科大学",
-      "onboard_time": 1721399061,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 397407,
@@ -5969,6 +6017,14 @@
       "onboard_time": 1721357605,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293003,
+      "num": 293003,
+      "word": "雷军回应董明珠怼小米空调",
+      "onboard_time": 1721401941,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 292694,
@@ -7539,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225653,
+      "num": 429785,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225013,
       "num": 197363,
       "word": "当老外在中国染上外卖",
@@ -7617,6 +7681,14 @@
       "onboard_time": 1720973718,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222674,
+      "num": 222674,
+      "word": "当你早睡一次你的器官belike",
+      "onboard_time": 1721399782,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 222663,
@@ -7809,6 +7881,14 @@
       "onboard_time": 1721265558,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 216781,
+      "num": 216781,
+      "word": "官方通报温州男子伤害医生后跳楼",
+      "onboard_time": 1721398880,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216751,
@@ -8265,14 +8345,6 @@
       "onboard_time": 1721308579,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206975,
-      "num": 206975,
-      "word": "小米SU7Ultra",
-      "onboard_time": 1721399301,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 206811,
@@ -10579,14 +10651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174043,
-      "num": 379572,
-      "word": "女子晒背致横纹肌溶解",
-      "onboard_time": 1721396241,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173966,
       "num": 173966,
       "word": "司机师傅可能是谈恋爱了",
@@ -11385,14 +11449,6 @@
       "onboard_time": 1721217917,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161754,
-      "num": 161754,
-      "word": "官方通报温州男子伤害医生后跳楼",
-      "onboard_time": 1721398880,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161543,
@@ -12307,6 +12363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147767,
+      "num": 449032,
+      "word": "人生从来不会太晚",
+      "onboard_time": 1721400922,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147674,
       "num": 147674,
       "word": "Uzi应该入选名人堂",
@@ -13081,6 +13145,14 @@
       "onboard_time": 1721219599,
       "rank": 41,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 135097,
+      "num": 605847,
+      "word": "暑假舅舅投喂8个外甥5口锅同开",
+      "onboard_time": 1721399242,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135001,
@@ -14329,6 +14401,14 @@
       "onboard_time": 1721181199,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116680,
+      "num": 499984,
+      "word": "没白等小米MIXFlip三年",
+      "onboard_time": 1721398460,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 116191,
@@ -16179,14 +16259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63297,
-      "num": 499984,
-      "word": "没白等小米MIXFlip三年",
-      "onboard_time": 1721398460,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 62546,
       "num": 415634,
       "word": "暑期小城游火出圈",
@@ -16359,14 +16431,6 @@
       "num": 255542,
       "word": "00后从警不到一年连救2人",
       "onboard_time": 1720885999,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58337,
-      "num": 605847,
-      "word": "暑假舅舅投喂8个外甥5口锅同开",
-      "onboard_time": 1721399242,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -16689,6 +16753,22 @@
       "onboard_time": 1721028078,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49723,
+      "num": 519683,
+      "word": "一台有驾驶乐趣的MPV",
+      "onboard_time": 1721397982,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 49533,
+      "num": 506417,
+      "word": "极氪009安全超满分",
+      "onboard_time": 1721397982,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 49413,
@@ -17131,12 +17211,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38744,
-      "num": 506417,
-      "word": "极氪009安全超满分",
-      "onboard_time": 1721397982,
-      "rank": 30,
-      "category": "汽车"
+      "raw_hot": 38761,
+      "num": 427459,
+      "word": "身体和灵魂总有一个在工位上",
+      "onboard_time": 1721401041,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 37937,
@@ -17331,14 +17411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31885,
-      "num": 519683,
-      "word": "一台有驾驶乐趣的MPV",
-      "onboard_time": 1721397982,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 31704,
       "num": 31704,
       "word": "莫拉塔西班牙欧洲杯出场第一人",
@@ -17369,6 +17441,14 @@
       "onboard_time": 1721131218,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30857,
+      "num": 436555,
+      "word": "全新极氪009保姆车天花板",
+      "onboard_time": 1721400561,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 30399,
@@ -17457,6 +17537,14 @@
       "onboard_time": 1721101218,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 27411,
+      "num": 438882,
+      "word": "喜人下班电台",
+      "onboard_time": 1721401701,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 27348,
@@ -17737,6 +17825,14 @@
       "onboard_time": 1720903030,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20048,
+      "num": 437925,
+      "word": "重生之我和老板灵魂互换",
+      "onboard_time": 1721402121,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 19953,

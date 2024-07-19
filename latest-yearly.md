@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/19 22:36:33
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/19 23:22:15
 </p>
 </blockquote>
 <p>
@@ -1161,6 +1161,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：4552373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%23" target="weibo">
 台湾是中国一部分的基本事实不会改变（热度：4547696）
 </a>
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23" target="weibo">
 刘雨欣家被偷空（热度：3367948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AD%E4%BA%86%23" target="weibo">
-刘宇宁哭了（热度：3366080）
 </a>
 </li>
 

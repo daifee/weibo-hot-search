@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721399793196,
+  "endTime": 1721402535803,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4552373,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4547696,
       "num": 5595393,
       "word": "台湾是中国一部分的基本事实不会改变",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3366080,
-      "num": 3366080,
-      "word": "刘宇宁哭了",
-      "onboard_time": 1704037142,
-      "rank": 4,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 22:36:33
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 23:22:15
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E6%89%8B%E5%8A%BF%E5%88%87%E7%89%B9%E5%86%99%23" target="weibo">
 张钰琪手势切特写（热度：4682095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：4552373）
 </a>
 </li>
 
@@ -315,6 +321,12 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
+李晟医生（热度：2429337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
 B站崩了（热度：2320305）
 </a>
@@ -437,12 +449,6 @@ Lenka 偷感好重（热度：2311604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AD%90%E7%9C%8B%E6%B7%AB%E7%A7%BD%E7%BD%91%E7%AB%99%E7%89%B5%E5%87%BA%E7%8A%AF%E7%BD%AA%E5%9B%A2%E4%BC%99%23" target="weibo">
 父亲举报儿子看淫秽网站牵出犯罪团伙（热度：2000825）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
-温州一医生工作时被砍伤正抢救（热度：1999675）
 </a>
 </li>
 
@@ -1259,6 +1265,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%97%93%E5%AD%90%E5%92%8B%E4%BA%86%23" target="weibo">
 希林娜依高嗓子咋了（热度：1391404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
+厦大通报学生辱骂孕妇（热度：1390867）
 </a>
 </li>
 
@@ -3249,6 +3261,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%20%E6%88%91%E6%9C%80%E5%96%9C%E6%AC%A2%E8%B7%9F%E4%BD%A0%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%94%B1%E6%AD%8C%E4%BA%86%23" target="weibo">
+朴灿烈 我最喜欢跟你们一起唱歌了（热度：867820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%9C%87%E6%84%9F%23" target="weibo">
 南京震感（热度：866613）
 </a>
@@ -4587,6 +4605,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%23" target="weibo">
+鹭卓（热度：712061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%88%9E%E4%BA%94%E4%B8%AA%E6%9C%88%E5%90%8E%E8%80%81%E5%85%AC%E4%B8%8D%E8%AE%A4%E8%AF%86%E6%88%91%E4%BA%86%23" target="weibo">
 跳舞五个月后老公不认识我了（热度：711517）
 </a>
@@ -5243,6 +5267,12 @@ iPhone17不使用节省空间的主板材料（热度：656083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%23" target="weibo">
 内马尔（热度：651993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
+温州医科大学（热度：650933）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E8%80%81%E5%85%AC%E5%81%9A%E6%88%90%E8%BF%99%E5%8B%BE%E6%A0%8F%E6%A8%A1%E6%A0%B7%23" target="weibo">
 谁家老公做成这勾栏模样（热度：597432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AD%99%E5%A5%B3%E7%88%86%E6%94%B993%E5%B2%81%E5%A4%96%E5%A9%86%E7%A7%92%E5%8F%98%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%B0%91%E5%A5%B3%23" target="weibo">
-外孙女爆改93岁外婆秒变多巴胺少女（热度：597133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Lenka%E8%A2%AD%E6%A6%9C%E6%B1%AA%E8%8B%8F%E6%B3%B7%23" target="weibo">
-Lenka袭榜汪苏泷（热度：597063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BOSS%E7%9B%B4%E8%81%98%E5%B4%A9%E4%BA%86%23" target="weibo">
-BOSS直聘崩了（热度：596885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9033%E4%B8%87%E4%B9%B0%E5%88%B0%E6%97%A7%E5%AE%9D%E9%A9%AC%E8%8E%B7%E9%80%801%E8%B5%943%23" target="weibo">
-男子33万买到旧宝马获退1赔3（热度：596880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E7%9D%A1%E5%A4%AA%E5%BF%AB%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%23" target="weibo">
-入睡太快是一种病（热度：596716）
 </a>
 </li>
 
