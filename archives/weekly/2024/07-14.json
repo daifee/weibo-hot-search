@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721388924746,
+  "endTime": 1721392586450,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1672388,
+      "num": 1672388,
+      "word": "歌手直播",
+      "onboard_time": 1721389819,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1659589,
       "num": 632059,
       "word": "众星悼念郑佩佩",
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1562683,
+      "num": 1562683,
+      "word": "华晨宇 郑奶奶一路走好",
+      "onboard_time": 1721389699,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559616,
       "num": 1559616,
       "word": "阿根廷1比0哥伦比亚",
@@ -449,6 +465,14 @@
       "onboard_time": 1721106918,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1533882,
+      "num": 1533882,
+      "word": "杨丞琳松弛感",
+      "onboard_time": 1721391320,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1528943,
@@ -1067,6 +1091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1025715,
+      "num": 681421,
+      "word": "特朗普亲吻刺杀案遇难者遗物",
+      "onboard_time": 1721391439,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1014253,
       "num": 903596,
       "word": "陆川发文删文手机设备一致",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1720966581,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1004517,
+      "num": 1004517,
+      "word": "小米发布会",
+      "onboard_time": 1721386399,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 995050,
@@ -1444,7 +1484,7 @@
     },
     {
       "raw_hot": 837715,
-      "num": 237892,
+      "num": 363987,
       "word": "男子开煤气自杀中途反悔点烟致爆炸",
       "onboard_time": 1721384059,
       "rank": 37,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1721037619,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765266,
-      "num": 765266,
-      "word": "小米发布会",
-      "onboard_time": 1721386399,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 763037,
@@ -1947,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 699741,
+      "num": 699741,
+      "word": "酒店一间房到底能住几人",
+      "onboard_time": 1721386819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694799,
       "num": 338525,
       "word": "中国女子在泰国遭肢解案嫌疑人落网",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1721357842,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680590,
+      "num": 680590,
+      "word": "一觉醒来冷战变分手",
+      "onboard_time": 1721390540,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 679285,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1721199678,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632839,
+      "num": 365470,
+      "word": "小米汽车",
+      "onboard_time": 1721389159,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 630882,
@@ -4571,6 +4627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370654,
+      "num": 370654,
+      "word": "韩国队奥运没带空调发冰坎肩",
+      "onboard_time": 1721391320,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369858,
       "num": 369858,
       "word": "马嘉祺在ABC中选择了D",
@@ -5699,6 +5763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288389,
+      "num": 288389,
+      "word": "谭松韵克莱因蓝裙",
+      "onboard_time": 1721392159,
+      "rank": 24,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 288327,
       "num": 288327,
       "word": "工作室分享赵丽颖的休憩时光",
@@ -6361,6 +6433,14 @@
       "onboard_time": 1721129237,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256519,
+      "num": 370484,
+      "word": "星穹铁道FateUBW联动",
+      "onboard_time": 1721391920,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 256387,
@@ -7379,6 +7459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218539,
+      "num": 218539,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1721391320,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218388,
       "num": 218388,
       "word": "怪盗基德 怪盗圣少女",
@@ -7441,6 +7529,14 @@
       "onboard_time": 1721265558,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 216819,
+      "num": 216819,
+      "word": "张钰琪比中指",
+      "onboard_time": 1721392460,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 216751,
@@ -7659,6 +7755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 211911,
+      "num": 211911,
+      "word": "TMEA上唯一的内娱男团",
+      "onboard_time": 1721391499,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211594,
       "num": 201535,
       "word": "长相思老年妆",
@@ -7777,6 +7881,14 @@
       "onboard_time": 1721051598,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208744,
+      "num": 208744,
+      "word": "泪桥",
+      "onboard_time": 1721392100,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208606,
@@ -8081,6 +8193,14 @@
       "onboard_time": 1721199198,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203921,
+      "num": 203921,
+      "word": "陶喆重庆",
+      "onboard_time": 1721392040,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 203670,
@@ -9403,12 +9523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186319,
+      "num": 186319,
+      "word": "无期迷途科希",
+      "onboard_time": 1721389819,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186221,
       "num": 186221,
       "word": "邓为谈体感长相思爆火的时刻",
       "onboard_time": 1721186237,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185878,
+      "num": 699201,
+      "word": "KSG四连胜锁定S1",
+      "onboard_time": 1721391979,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 185400,
@@ -10187,14 +10323,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 172603,
-      "num": 460436,
-      "word": "酒店一间房到底能住几人",
-      "onboard_time": 1721386819,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172452,
       "num": 172452,
       "word": "时空中的绘旅人 书亦",
@@ -10953,6 +11081,14 @@
       "onboard_time": 1721137579,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 159752,
+      "num": 157823,
+      "word": "玱玹疯心索爱",
+      "onboard_time": 1721389159,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159646,
@@ -12131,6 +12267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142132,
+      "num": 186618,
+      "word": "教体局回应查成绩需下载app充会员",
+      "onboard_time": 1721390180,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 141999,
       "num": 141999,
       "word": "娜扎说张云龙是好男人",
@@ -12377,6 +12521,14 @@
       "onboard_time": 1720926319,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 138308,
+      "num": 138308,
+      "word": "王源郑州抢票",
+      "onboard_time": 1721389940,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 138178,
@@ -13883,6 +14035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113675,
+      "num": 415752,
+      "word": "潘展乐说国家给机会就好好发挥",
+      "onboard_time": 1721391739,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113251,
       "num": 55488,
       "word": "729 CV",
@@ -14361,6 +14521,14 @@
       "onboard_time": 1720992613,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104308,
+      "num": 186996,
+      "word": "胡塞武装宣布对特拉维夫爆炸负责",
+      "onboard_time": 1721390420,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 104204,
@@ -16027,6 +16195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50370,
+      "num": 155935,
+      "word": "全新极氪009全球上市",
+      "onboard_time": 1721392460,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50349,
       "num": 383523,
       "word": "专家回应农夫山泉溴酸盐含量争议",
@@ -16268,7 +16444,7 @@
     },
     {
       "raw_hot": 45484,
-      "num": 178161,
+      "num": 1545920,
       "word": "以钉钉子精神抓好改革落实",
       "onboard_time": 1721377522,
       "rank": 30,
