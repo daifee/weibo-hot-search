@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721373595223,
+  "endTime": 1721374487667,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2168225,
-      "num": 1037559,
+      "num": 1263186,
       "word": "张翰 想你了佩佩姐",
       "onboard_time": 1721367982,
       "rank": 6,
@@ -745,6 +745,14 @@
       "onboard_time": 1720880780,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169595,
+      "num": 705466,
+      "word": "胡歌 这是逍遥对姥姥最深的思念",
+      "onboard_time": 1721373321,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1167500,
@@ -3011,6 +3019,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 509732,
+      "num": 509732,
+      "word": "陈妍希十天之后回到现实状态",
+      "onboard_time": 1721372301,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508280,
       "num": 508280,
       "word": "花五千买的衣服撞衫餐厅工作服",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1721284037,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492589,
+      "num": 285444,
+      "word": "章子怡 世间再无碧眼狐狸",
+      "onboard_time": 1721373142,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 491951,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1721288417,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 444174,
-      "num": 376590,
-      "word": "陈妍希十天之后回到现实状态",
-      "onboard_time": 1721372301,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 443935,
@@ -3979,14 +3995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411056,
-      "num": 369861,
-      "word": "胡歌 这是逍遥对姥姥最深的思念",
-      "onboard_time": 1721373321,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410793,
       "num": 217284,
       "word": "女生钓到大肚鱼烤熟后结果悲剧了",
@@ -4411,20 +4419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368302,
+      "num": 367739,
+      "word": "唐朝诡事录 吓人",
+      "onboard_time": 1721371940,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367748,
       "num": 386850,
       "word": "BBA集体退出价格战真相",
       "onboard_time": 1721296819,
       "rank": 9,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 367739,
-      "num": 367739,
-      "word": "唐朝诡事录 吓人",
-      "onboard_time": 1721371940,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 367514,
@@ -5347,6 +5355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 299180,
+      "num": 299180,
+      "word": "Happy Friday",
+      "onboard_time": 1721372181,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298759,
       "num": 205729,
       "word": "拍出了赵今麦竹的气质",
@@ -5601,14 +5617,6 @@
       "onboard_time": 1721090419,
       "rank": 24,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 285444,
-      "num": 285444,
-      "word": "章子怡 世间再无碧眼狐狸",
-      "onboard_time": 1721373142,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284936,
@@ -6756,7 +6764,7 @@
     },
     {
       "raw_hot": 232361,
-      "num": 204665,
+      "num": 210691,
       "word": "凡希亚参加歌手顺便还拍了个MV",
       "onboard_time": 1721371402,
       "rank": 40,
@@ -7200,14 +7208,6 @@
       "word": "射手座的下头就在一瞬之间",
       "onboard_time": 1721141539,
       "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 217458,
-      "num": 217458,
-      "word": "Happy Friday",
-      "onboard_time": 1721372181,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -7683,6 +7683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205756,
+      "num": 205756,
+      "word": "微软客服回应蓝屏",
+      "onboard_time": 1721372841,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 205653,
       "num": 205653,
       "word": "双鱼座是反骨的典型代表",
@@ -7905,14 +7913,6 @@
       "onboard_time": 1720955959,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202548,
-      "num": 202548,
-      "word": "微软客服回应蓝屏",
-      "onboard_time": 1721372841,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 202513,
@@ -9243,6 +9243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182571,
+      "num": 182571,
+      "word": "吴奇隆把周杰伦立牌放床上",
+      "onboard_time": 1721372900,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182337,
       "num": 187621,
       "word": "戒指哥 我破防了",
@@ -9369,6 +9377,14 @@
       "onboard_time": 1721132837,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180244,
+      "num": 180244,
+      "word": "蓝盈莹脑子和脸都迷人",
+      "onboard_time": 1721371820,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 180214,
@@ -9593,6 +9609,14 @@
       "onboard_time": 1721293820,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "南京中山陵现7头野猪遛弯",
+      "onboard_time": 1721370142,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175069,
@@ -9873,14 +9897,6 @@
       "onboard_time": 1720891335,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170071,
-      "num": 170071,
-      "word": "南京中山陵现7头野猪遛弯",
-      "onboard_time": 1721370142,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170034,
@@ -12643,6 +12659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125358,
+      "num": 385437,
+      "word": "日本一公寓爆炸两万名旅客受影响",
+      "onboard_time": 1721370200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125323,
       "num": 363212,
       "word": "第一次金标给了中国",
@@ -13779,6 +13803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104204,
+      "num": 876083,
+      "word": "几块钱就可出玉石珠宝质检证书",
+      "onboard_time": 1721372422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104191,
       "num": 613573,
       "word": "黄河大学的筹备工作已正式启动",
@@ -14043,6 +14075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96151,
+      "num": 299490,
+      "word": "延时记录并蒂莲盛开",
+      "onboard_time": 1721371881,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96130,
       "num": 96130,
       "word": "亚马尔本届欧洲杯助攻王",
@@ -14243,6 +14283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87042,
+      "num": 898953,
+      "word": "我国高温超导体研究获新突破",
+      "onboard_time": 1721369422,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86177,
       "num": 181868,
       "word": "赴山海探班直播",
@@ -14427,6 +14475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78289,
+      "num": 522742,
+      "word": "卡地亚Trinity三环",
+      "onboard_time": 1721370860,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 78227,
       "num": 471832,
       "word": "李小鹏重返08年奥运赛场",
@@ -14488,14 +14544,6 @@
       "word": "广州海珠一新能源车发生自燃",
       "onboard_time": 1721167992,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76189,
-      "num": 898953,
-      "word": "我国高温超导体研究获新突破",
-      "onboard_time": 1721369422,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -14835,14 +14883,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 66620,
-      "num": 522742,
-      "word": "卡地亚Trinity三环",
-      "onboard_time": 1721370860,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 66226,
       "num": 1161869,
       "word": "巴黎奥运会热门项目观赛日历",
@@ -14953,14 +14993,6 @@
       "onboard_time": 1720991712,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63502,
-      "num": 876083,
-      "word": "几块钱就可出玉石珠宝质检证书",
-      "onboard_time": 1721372422,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63481,
@@ -15113,6 +15145,14 @@
       "onboard_time": 1721084414,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59071,
+      "num": 738840,
+      "word": "男子称花50万买到漏风奔驰",
+      "onboard_time": 1721373021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59040,
@@ -15771,6 +15811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40819,
+      "num": 212506,
+      "word": "感谢当初没放弃的自己",
+      "onboard_time": 1721372422,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40808,
       "num": 60397,
       "word": "女子生完二胎婆婆的宠爱buff叠满",
@@ -15825,14 +15873,6 @@
       "onboard_time": 1721124199,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38816,
-      "num": 205163,
-      "word": "感谢当初没放弃的自己",
-      "onboard_time": 1721372422,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 37937,
@@ -16035,6 +16075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31571,
+      "num": 1297070,
+      "word": "下定决心坚定步伐将改革进行到底",
+      "onboard_time": 1721371702,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30929,
       "num": 455111,
       "word": "一文梳理巴黎奥运中国队各项目看点",
@@ -16195,14 +16243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26127,
-      "num": 738840,
-      "word": "男子称花50万买到漏风奔驰",
-      "onboard_time": 1721373021,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25986,
       "num": 492038,
       "word": "小黄人语糖葫芦怎么说",
@@ -16248,14 +16288,6 @@
       "word": "河南超汛限水位大中型水库增至29座",
       "onboard_time": 1721117419,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24879,
-      "num": 1070899,
-      "word": "下定决心坚定步伐将改革进行到底",
-      "onboard_time": 1721371702,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16823,14 +16855,6 @@
       "num": 167550,
       "word": "韩国动保组织呼吁禁止吃鸡",
       "onboard_time": 1721223078,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10296,
-      "num": 385437,
-      "word": "日本一公寓爆炸两万名旅客受影响",
-      "onboard_time": 1721370200,
       "rank": 29,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1721374487667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4873524,
+        "num": 4873524,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1358302,
+        "num": 1358302,
+        "word": "感谢微软 提前放假",
+        "onboard_time": 1721371101,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31571,
+        "num": 1297070,
+        "word": "下定决心坚定步伐将改革进行到底",
+        "onboard_time": 1721371702,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263186,
+        "num": 1263186,
+        "word": "张翰 想你了佩佩姐",
+        "onboard_time": 1721367982,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768333,
+        "num": 768333,
+        "word": "保姆给46天婴儿1次喂完整瓶奶",
+        "onboard_time": 1721371461,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709343,
+        "num": 709343,
+        "word": "三伏天五不吃",
+        "onboard_time": 1721368942,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1169595,
+        "num": 705466,
+        "word": "胡歌 这是逍遥对姥姥最深的思念",
+        "onboard_time": 1721373321,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648277,
+        "num": 648277,
+        "word": "微软蓝屏",
+        "onboard_time": 1721367861,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 509732,
+        "num": 509732,
+        "word": "陈妍希十天之后回到现实状态",
+        "onboard_time": 1721372301,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299645,
+        "num": 299645,
+        "word": "助眠直播是擦边还是电子安眠药",
+        "onboard_time": 1721365225,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989561,
+        "num": 299616,
+        "word": "郑佩佩去世",
+        "onboard_time": 1721347639,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876131,
+        "num": 299587,
+        "word": "花少 您只是先抵达下一站",
+        "onboard_time": 1721369961,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96151,
+        "num": 299490,
+        "word": "延时记录并蒂莲盛开",
+        "onboard_time": 1721371881,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874740,
+        "num": 299446,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59071,
+        "num": 299376,
+        "word": "男子称花50万买到漏风奔驰",
+        "onboard_time": 1721373021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78289,
+        "num": 299334,
+        "word": "卡地亚Trinity三环",
+        "onboard_time": 1721370860,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 746590,
+        "num": 299292,
+        "word": "周星驰 佩佩姐江湖再见",
+        "onboard_time": 1721361863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679886,
+        "num": 299234,
+        "word": "拜登确诊后被拍到20秒上不了车",
+        "onboard_time": 1721359944,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 299180,
+        "num": 299180,
+        "word": "Happy Friday",
+        "onboard_time": 1721372181,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277836,
+        "num": 277836,
+        "word": "感觉她上的大学才是大学",
+        "onboard_time": 1721365225,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 679715,
+        "num": 277556,
+        "word": "花少1",
+        "onboard_time": 1721358923,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579929,
+        "num": 274927,
+        "word": "刘亦菲说郑佩佩是榜样",
+        "onboard_time": 1721367622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492589,
+        "num": 273656,
+        "word": "章子怡 世间再无碧眼狐狸",
+        "onboard_time": 1721373142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427524,
+        "num": 272660,
+        "word": "种地吧招聘启事",
+        "onboard_time": 1721366124,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402521,
+        "num": 270577,
+        "word": "男同事拍了一下背女子一年没上班",
+        "onboard_time": 1721365403,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368302,
+        "num": 268157,
+        "word": "唐朝诡事录 吓人",
+        "onboard_time": 1721371940,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338253,
+        "num": 267023,
+        "word": "刘涛ip在美国",
+        "onboard_time": 1721361684,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320294,
+        "num": 266064,
+        "word": "众星悼念郑佩佩",
+        "onboard_time": 1721365465,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264755,
+        "num": 264755,
+        "word": "云南地震",
+        "onboard_time": 1721371581,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130519,
+        "num": 258552,
+        "word": "智利7.3级地震",
+        "onboard_time": 1721361624,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254781,
+        "num": 254781,
+        "word": "35岁小伙扛楼一年多存了40万",
+        "onboard_time": 1721365403,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278167,
+        "num": 252514,
+        "word": "刘涛曾透露郑佩佩身体不太好",
+        "onboard_time": 1721351123,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244629,
+        "num": 244629,
+        "word": "特朗普正式成为美国共和党总统候选人",
+        "onboard_time": 1721359043,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243722,
+        "num": 243722,
+        "word": "郑佩佩送给张翰的字",
+        "onboard_time": 1721362525,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226657,
+        "num": 226657,
+        "word": "郑佩佩花少安慰华晨宇",
+        "onboard_time": 1721368044,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87042,
+        "num": 225323,
+        "word": "我国高温超导体研究获新突破",
+        "onboard_time": 1721369422,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224812,
+        "num": 224812,
+        "word": "十个勤天 第三季",
+        "onboard_time": 1721370441,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221275,
+        "num": 221275,
+        "word": "长相思18集名场面含量100%",
+        "onboard_time": 1721369902,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104204,
+        "num": 214597,
+        "word": "几块钱就可出玉石珠宝质检证书",
+        "onboard_time": 1721372422,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40819,
+        "num": 212506,
+        "word": "感谢当初没放弃的自己",
+        "onboard_time": 1721372422,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "凡希亚参加歌手顺便还拍了个MV",
+        "onboard_time": 1721371402,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207390,
+        "num": 207390,
+        "word": "虞书欣让中餐厅宣发变年轻了",
+        "onboard_time": 1721367861,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205756,
+        "num": 205756,
+        "word": "微软客服回应蓝屏",
+        "onboard_time": 1721372841,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182571,
+        "num": 182571,
+        "word": "吴奇隆把周杰伦立牌放床上",
+        "onboard_time": 1721372900,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180244,
+        "num": 180244,
+        "word": "蓝盈莹脑子和脸都迷人",
+        "onboard_time": 1721371820,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176132,
+        "num": 176132,
+        "word": "仅次于吐鲁番的火炉竟藏在江浙沪",
+        "onboard_time": 1721368822,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175199,
+        "num": 175199,
+        "word": "南京中山陵现7头野猪遛弯",
+        "onboard_time": 1721370142,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155202,
+        "num": 155202,
+        "word": "易烊千玺谈奥运logo设计",
+        "onboard_time": 1721368643,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 131468,
+        "num": 131468,
+        "word": "强制摸鱼",
+        "onboard_time": 1721371820,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "日本一公寓爆炸两万名旅客受影响",
+        "onboard_time": 1721370200,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会#"
+    }
+  }
+}

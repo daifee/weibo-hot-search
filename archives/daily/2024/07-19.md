@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/19 00:24:20 ~ 2024/07/19 15:19:55
+本榜单时间：2024/07/19 00:24:20 ~ 2024/07/19 15:34:47
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A1%AE%E8%AF%8A%E5%90%8E%E8%A2%AB%E6%8B%8D%E5%88%B020%E7%A7%92%E4%B8%8A%E4%B8%8D%E4%BA%86%E8%BD%A6%23" target="weibo">
 拜登确诊后被拍到20秒上不了车（热度：1172582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%20%E8%BF%99%E6%98%AF%E9%80%8D%E9%81%A5%E5%AF%B9%E5%A7%A5%E5%A7%A5%E6%9C%80%E6%B7%B1%E7%9A%84%E6%80%9D%E5%BF%B5%23" target="weibo">
+胡歌 这是逍遥对姥姥最深的思念（热度：1169595）
 </a>
 </li>
 
@@ -303,6 +309,12 @@ BLACKPINK将8月合体签售（热度：575356）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%8D%81%E5%A4%A9%E4%B9%8B%E5%90%8E%E5%9B%9E%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%8A%B6%E6%80%81%23" target="weibo">
+陈妍希十天之后回到现实状态（热度：509732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%AC%AC%E4%B8%80%E9%83%A8%E6%88%8F%E6%98%AF%E5%92%8C%E9%83%91%E4%BD%A9%E4%BD%A9%E6%BC%94%E7%9A%84%23" target="weibo">
 胡歌第一部戏是和郑佩佩演的（热度：500307）
 </a>
@@ -317,6 +329,12 @@ BLACKPINK将8月合体签售（热度：575356）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23citywalk%E5%90%8E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8Bcitylie%23" target="weibo">
 citywalk后年轻人开始citylie（热度：498552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%20%E4%B8%96%E9%97%B4%E5%86%8D%E6%97%A0%E7%A2%A7%E7%9C%BC%E7%8B%90%E7%8B%B8%23" target="weibo">
+章子怡 世间再无碧眼狐狸（热度：492589）
 </a>
 </li>
 
@@ -339,12 +357,6 @@ citywalk后年轻人开始citylie（热度：498552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%8D%81%E5%A4%A9%E4%B9%8B%E5%90%8E%E5%9B%9E%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%8A%B6%E6%80%81%23" target="weibo">
-陈妍希十天之后回到现实状态（热度：444174）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%96%B0%E7%94%B5%E5%BD%B1%E7%8F%AD%E5%BA%95%E9%98%B5%E5%AE%B9%23" target="weibo">
 肖战新电影班底阵容（热度：443046）
 </a>
@@ -359,12 +371,6 @@ citywalk后年轻人开始citylie（热度：498552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%82%9A%E5%AD%90%E7%98%A6%E4%B8%8D%E4%B8%8B%E6%9D%A5%E8%BF%994%E7%A7%8D%E9%A3%9F%E7%89%A9%E8%A6%81%E5%B0%91%E5%90%83%23" target="weibo">
 小肚子瘦不下来这4种食物要少吃（热度：437619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%20%E8%BF%99%E6%98%AF%E9%80%8D%E9%81%A5%E5%AF%B9%E5%A7%A5%E5%A7%A5%E6%9C%80%E6%B7%B1%E7%9A%84%E6%80%9D%E5%BF%B5%23" target="weibo">
-胡歌 这是逍遥对姥姥最深的思念（热度：411056）
 </a>
 </li>
 
@@ -400,7 +406,7 @@ citywalk后年轻人开始citylie（热度：498552）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%90%93%E4%BA%BA%23" target="weibo">
-唐朝诡事录 吓人（热度：367739）
+唐朝诡事录 吓人（热度：368302）
 </a>
 </li>
 
@@ -465,6 +471,12 @@ citywalk后年轻人开始citylie（热度：498552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Happy%20Friday%23" target="weibo">
+Happy Friday（热度：299180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%BB%91%E7%B2%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C%23" target="weibo">
 华晨宇黑粉被恢复执行（热度：296651）
 </a>
@@ -479,12 +491,6 @@ citywalk后年轻人开始citylie（热度：498552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9F%E4%B8%8B%E7%BA%BF%E6%8B%8D%E4%BA%86%E4%B8%89%E5%A4%A9%23" target="weibo">
 邓为涂山璟下线拍了三天（热度：288221）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%20%E4%B8%96%E9%97%B4%E5%86%8D%E6%97%A0%E7%A2%A7%E7%9C%BC%E7%8B%90%E7%8B%B8%23" target="weibo">
-章子怡 世间再无碧眼狐狸（热度：285444）
 </a>
 </li>
 
@@ -645,12 +651,6 @@ citywalk后年轻人开始citylie（热度：498552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Happy%20Friday%23" target="weibo">
-Happy Friday（热度：217458）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%AF%9B%E8%99%AB%E5%9B%A0%E4%B8%BA%E7%83%AB%E8%84%9A%E8%80%8C%E5%85%89%E9%80%9F%E8%B7%91%E8%B7%AF%23" target="weibo">
 毛毛虫因为烫脚而光速跑路（热度：215720）
 </a>
@@ -681,6 +681,12 @@ Happy Friday（热度：217458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%93%9D%E5%B1%8F%23" target="weibo">
+微软客服回应蓝屏（热度：205756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%98%9F%E6%9C%9F%E4%BA%94%E5%8F%91%E6%96%B0%E6%AD%8C%23" target="weibo">
 时代少年团星期五发新歌（热度：204644）
 </a>
@@ -689,12 +695,6 @@ Happy Friday（热度：217458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%AF%81%E5%AE%9E%E9%83%91%E4%BD%A9%E4%BD%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
 经纪公司证实郑佩佩去世（热度：203195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%93%9D%E5%B1%8F%23" target="weibo">
-微软客服回应蓝屏（热度：202548）
 </a>
 </li>
 
@@ -861,6 +861,12 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E6%8A%8A%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%AB%8B%E7%89%8C%E6%94%BE%E5%BA%8A%E4%B8%8A%23" target="weibo">
+吴奇隆把周杰伦立牌放床上（热度：182571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%B1%E4%B9%90%E9%83%A8%E5%B8%A6%E5%9B%A2%E9%87%87%E8%98%91%E8%8F%87%E6%9C%88%E5%85%A5%E8%BF%9120%E4%B8%87%23" target="weibo">
 俱乐部带团采蘑菇月入近20万（热度：180901）
 </a>
@@ -869,6 +875,12 @@ StrayKids新专辑（热度：201664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.8%E7%89%88%E6%9C%AC%23" target="weibo">
 原神4.8版本（热度：180711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E8%84%91%E5%AD%90%E5%92%8C%E8%84%B8%E9%83%BD%E8%BF%B7%E4%BA%BA%23" target="weibo">
+蓝盈莹脑子和脸都迷人（热度：180244）
 </a>
 </li>
 
@@ -885,14 +897,14 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E5%A5%B3%E4%B8%BB%E4%B8%8D%E8%B0%88%E6%83%85%E5%8F%AA%E6%9F%A5%E6%A1%88%23" target="weibo">
-谁家男女主不谈情只查案（热度：173594）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%B1%B1%E9%99%B5%E7%8E%B07%E5%A4%B4%E9%87%8E%E7%8C%AA%E9%81%9B%E5%BC%AF%23" target="weibo">
+南京中山陵现7头野猪遛弯（热度：175199）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%B1%B1%E9%99%B5%E7%8E%B07%E5%A4%B4%E9%87%8E%E7%8C%AA%E9%81%9B%E5%BC%AF%23" target="weibo">
-南京中山陵现7头野猪遛弯（热度：170071）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E5%A5%B3%E4%B8%BB%E4%B8%8D%E8%B0%88%E6%83%85%E5%8F%AA%E6%9F%A5%E6%A1%88%23" target="weibo">
+谁家男女主不谈情只查案（热度：173594）
 </a>
 </li>
 
@@ -975,6 +987,12 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%85%AC%E5%AF%93%E7%88%86%E7%82%B8%E4%B8%A4%E4%B8%87%E5%90%8D%E6%97%85%E5%AE%A2%E5%8F%97%E5%BD%B1%E5%93%8D%23" target="weibo">
+日本一公寓爆炸两万名旅客受影响（热度：125358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%87%B6%E6%89%8B%E6%98%AF%E8%B0%81%23" target="weibo">
 唐朝诡事录 凶手是谁（热度：123811）
 </a>
@@ -1019,6 +1037,12 @@ StrayKids新专辑（热度：201664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%9F%E5%BA%A7%E6%9C%80%E5%AE%B9%E6%98%93%E5%87%BAINFJ%23" target="weibo">
 什么星座最容易出INFJ（热度：105074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%9D%97%E9%92%B1%E5%B0%B1%E5%8F%AF%E5%87%BA%E7%8E%89%E7%9F%B3%E7%8F%A0%E5%AE%9D%E8%B4%A8%E6%A3%80%E8%AF%81%E4%B9%A6%23" target="weibo">
+几块钱就可出玉石珠宝质检证书（热度：104204）
 </a>
 </li>
 
@@ -1073,6 +1097,12 @@ StrayKids新专辑（热度：201664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E7%A7%8B%E5%AD%90%E9%82%B5%E4%B8%80%E8%BE%B0%E7%AB%9F%E7%84%B6%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 魏秋子邵一辰竟然结婚了（热度：97732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%B6%E6%97%B6%E8%AE%B0%E5%BD%95%E5%B9%B6%E8%92%82%E8%8E%B2%E7%9B%9B%E5%BC%80%23" target="weibo">
+延时记录并蒂莲盛开（热度：96151）
 </a>
 </li>
 
@@ -1137,6 +1167,12 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%AB%98%E6%B8%A9%E8%B6%85%E5%AF%BC%E4%BD%93%E7%A0%94%E7%A9%B6%E8%8E%B7%E6%96%B0%E7%AA%81%E7%A0%B4%23" target="weibo">
+我国高温超导体研究获新突破（热度：87042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B15%E4%B8%87%E6%89%BE%E9%BB%84%E7%89%9B%E4%B9%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E6%B2%A1%E5%87%BA%E7%A5%A8%23" target="weibo">
 男子花5万找黄牛买演唱会门票没出票（热度：86223）
 </a>
@@ -1155,8 +1191,8 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%AB%98%E6%B8%A9%E8%B6%85%E5%AF%BC%E4%BD%93%E7%A0%94%E7%A9%B6%E8%8E%B7%E6%96%B0%E7%AA%81%E7%A0%B4%23" target="weibo">
-我国高温超导体研究获新突破（热度：76189）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%9C%B0%E4%BA%9ATrinity%E4%B8%89%E7%8E%AF%23" target="weibo">
+卡地亚Trinity三环（热度：78289）
 </a>
 </li>
 
@@ -1185,12 +1221,6 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%9C%B0%E4%BA%9ATrinity%E4%B8%89%E7%8E%AF%23" target="weibo">
-卡地亚Trinity三环（热度：66620）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%BB%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 解读三中全会精神新闻发布会（热度：66106）
 </a>
@@ -1209,12 +1239,6 @@ StrayKids新专辑（热度：201664）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%9D%97%E9%92%B1%E5%B0%B1%E5%8F%AF%E5%87%BA%E7%8E%89%E7%9F%B3%E7%8F%A0%E5%AE%9D%E8%B4%A8%E6%A3%80%E8%AF%81%E4%B9%A6%23" target="weibo">
-几块钱就可出玉石珠宝质检证书（热度：63502）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%20%E9%85%B1%E5%9B%AD%E5%BC%842.0%23" target="weibo">
 镖人 酱园弄2.0（热度：63481）
 </a>
@@ -1229,6 +1253,12 @@ StrayKids新专辑（热度：201664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CBLG%23" target="weibo">
 LNG战胜BLG（热度：59167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E8%8A%B150%E4%B8%87%E4%B9%B0%E5%88%B0%E6%BC%8F%E9%A3%8E%E5%A5%94%E9%A9%B0%23" target="weibo">
+男子称花50万买到漏风奔驰（热度：59071）
 </a>
 </li>
 
@@ -1288,13 +1318,19 @@ BLG（热度：57689）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E5%BD%93%E5%88%9D%E6%B2%A1%E6%94%BE%E5%BC%83%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-感谢当初没放弃的自己（热度：38816）
+感谢当初没放弃的自己（热度：40819）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E8%AF%86%E5%88%AB%E9%85%92%E5%BA%97%E5%BA%8A%E5%8D%95%E6%98%AF%E5%90%A6%E6%8D%A2%E8%BF%87%23" target="weibo">
 怎么识别酒店床单是否换过（热度：32553）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83%E5%9D%9A%E5%AE%9A%E6%AD%A5%E4%BC%90%E5%B0%86%E6%94%B9%E9%9D%A9%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%23" target="weibo">
+下定决心坚定步伐将改革进行到底（热度：31571）
 </a>
 </li>
 
@@ -1311,20 +1347,8 @@ BLG（热度：57689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E8%8A%B150%E4%B8%87%E4%B9%B0%E5%88%B0%E6%BC%8F%E9%A3%8E%E5%A5%94%E9%A9%B0%23" target="weibo">
-男子称花50万买到漏风奔驰（热度：26127）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BB%84%E4%BA%BA%E8%AF%AD%E7%B3%96%E8%91%AB%E8%8A%A6%E6%80%8E%E4%B9%88%E8%AF%B4%23" target="weibo">
 小黄人语糖葫芦怎么说（热度：25986）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83%E5%9D%9A%E5%AE%9A%E6%AD%A5%E4%BC%90%E5%B0%86%E6%94%B9%E9%9D%A9%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%23" target="weibo">
-下定决心坚定步伐将改革进行到底（热度：24879）
 </a>
 </li>
 
@@ -1385,12 +1409,6 @@ BLG（热度：57689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B8%85%E6%B4%81%E5%89%82%E5%A5%B6%E7%BD%90%E8%BD%A6%23" target="weibo">
 印度清洁剂奶罐车（热度：10886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%85%AC%E5%AF%93%E7%88%86%E7%82%B8%E4%B8%A4%E4%B8%87%E5%90%8D%E6%97%85%E5%AE%A2%E5%8F%97%E5%BD%B1%E5%93%8D%23" target="weibo">
-日本一公寓爆炸两万名旅客受影响（热度：10296）
 </a>
 </li>
 

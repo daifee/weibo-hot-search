@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721373595223,
+  "endTime": 1721374487667,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2168225,
-      "num": 1037559,
+      "num": 1263186,
       "word": "张翰 想你了佩佩姐",
       "onboard_time": 1721367982,
       "rank": 6,
@@ -177,6 +177,14 @@
       "onboard_time": 1721359944,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1169595,
+      "num": 705466,
+      "word": "胡歌 这是逍遥对姥姥最深的思念",
+      "onboard_time": 1721373321,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067645,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509732,
+      "num": 509732,
+      "word": "陈妍希十天之后回到现实状态",
+      "onboard_time": 1721372301,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500307,
       "num": 500307,
       "word": "胡歌第一部戏是和郑佩佩演的",
@@ -409,6 +425,14 @@
       "onboard_time": 1721360482,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492589,
+      "num": 285444,
+      "word": "章子怡 世间再无碧眼狐狸",
+      "onboard_time": 1721373142,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 489779,
@@ -435,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 444174,
-      "num": 376590,
-      "word": "陈妍希十天之后回到现实状态",
-      "onboard_time": 1721372301,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 443046,
       "num": 359110,
       "word": "肖战新电影班底阵容",
@@ -465,14 +481,6 @@
       "onboard_time": 1721351723,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 411056,
-      "num": 369861,
-      "word": "胡歌 这是逍遥对姥姥最深的思念",
-      "onboard_time": 1721373321,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 405262,
@@ -515,7 +523,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 367739,
+      "raw_hot": 368302,
       "num": 367739,
       "word": "唐朝诡事录 吓人",
       "onboard_time": 1721371940,
@@ -603,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299180,
+      "num": 299180,
+      "word": "Happy Friday",
+      "onboard_time": 1721372181,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296651,
       "num": 226707,
       "word": "华晨宇黑粉被恢复执行",
@@ -625,14 +641,6 @@
       "onboard_time": 1721356225,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285444,
-      "num": 285444,
-      "word": "章子怡 世间再无碧眼狐狸",
-      "onboard_time": 1721373142,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284177,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 232361,
-      "num": 204665,
+      "num": 210691,
       "word": "凡希亚参加歌手顺便还拍了个MV",
       "onboard_time": 1721371402,
       "rank": 40,
@@ -843,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217458,
-      "num": 217458,
-      "word": "Happy Friday",
-      "onboard_time": 1721372181,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215720,
       "num": 215720,
       "word": "毛毛虫因为烫脚而光速跑路",
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205756,
+      "num": 205756,
+      "word": "微软客服回应蓝屏",
+      "onboard_time": 1721372841,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204644,
       "num": 172487,
       "word": "时代少年团星期五发新歌",
@@ -905,14 +913,6 @@
       "onboard_time": 1721356646,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202548,
-      "num": 202548,
-      "word": "微软客服回应蓝屏",
-      "onboard_time": 1721372841,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 201932,
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182571,
+      "num": 182571,
+      "word": "吴奇隆把周杰伦立牌放床上",
+      "onboard_time": 1721372900,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180901,
       "num": 636127,
       "word": "俱乐部带团采蘑菇月入近20万",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1721362105,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180244,
+      "num": 180244,
+      "word": "蓝盈莹脑子和脸都迷人",
+      "onboard_time": 1721371820,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 178194,
@@ -1163,20 +1179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "南京中山陵现7头野猪遛弯",
+      "onboard_time": 1721370142,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173594,
       "num": 137037,
       "word": "谁家男女主不谈情只查案",
       "onboard_time": 1721369362,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170071,
-      "num": 170071,
-      "word": "南京中山陵现7头野猪遛弯",
-      "onboard_time": 1721370142,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167682,
@@ -1283,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125358,
+      "num": 385437,
+      "word": "日本一公寓爆炸两万名旅客受影响",
+      "onboard_time": 1721370200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123811,
       "num": 123811,
       "word": "唐朝诡事录 凶手是谁",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1721309478,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104204,
+      "num": 876083,
+      "word": "几块钱就可出玉石珠宝质检证书",
+      "onboard_time": 1721372422,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104191,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1721313320,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96151,
+      "num": 299490,
+      "word": "延时记录并蒂莲盛开",
+      "onboard_time": 1721371881,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95895,
@@ -1499,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87042,
+      "num": 898953,
+      "word": "我国高温超导体研究获新突破",
+      "onboard_time": 1721369422,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86223,
       "num": 166274,
       "word": "男子花5万找黄牛买演唱会门票没出票",
@@ -1523,12 +1571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76189,
-      "num": 898953,
-      "word": "我国高温超导体研究获新突破",
-      "onboard_time": 1721369422,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 78289,
+      "num": 522742,
+      "word": "卡地亚Trinity三环",
+      "onboard_time": 1721370860,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 73796,
@@ -1563,14 +1611,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 66620,
-      "num": 522742,
-      "word": "卡地亚Trinity三环",
-      "onboard_time": 1721370860,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 66106,
       "num": 828786,
       "word": "解读三中全会精神新闻发布会",
@@ -1595,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63502,
-      "num": 876083,
-      "word": "几块钱就可出玉石珠宝质检证书",
-      "onboard_time": 1721372422,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63481,
       "num": 63481,
       "word": "镖人 酱园弄2.0",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1721310321,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59071,
+      "num": 738840,
+      "word": "男子称花50万买到漏风奔驰",
+      "onboard_time": 1721373021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57689,
@@ -1699,8 +1739,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38816,
-      "num": 205163,
+      "raw_hot": 40819,
+      "num": 212506,
       "word": "感谢当初没放弃的自己",
       "onboard_time": 1721372422,
       "rank": 39,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1721327172,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31571,
+      "num": 1297070,
+      "word": "下定决心坚定步伐将改革进行到底",
+      "onboard_time": 1721371702,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30967,
@@ -1731,28 +1779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26127,
-      "num": 738840,
-      "word": "男子称花50万买到漏风奔驰",
-      "onboard_time": 1721373021,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25986,
       "num": 492038,
       "word": "小黄人语糖葫芦怎么说",
       "onboard_time": 1721365764,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24879,
-      "num": 1070899,
-      "word": "下定决心坚定步伐将改革进行到底",
-      "onboard_time": 1721371702,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24178,
@@ -1831,14 +1863,6 @@
       "num": 269037,
       "word": "印度清洁剂奶罐车",
       "onboard_time": 1721360003,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10296,
-      "num": 385437,
-      "word": "日本一公寓爆炸两万名旅客受影响",
-      "onboard_time": 1721370200,
       "rank": 29,
       "category": "社会新闻"
     },
