@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721421340443,
+  "endTime": 1721423912840,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -539,12 +539,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21700,
-      "num": 21700,
+      "raw_hot": 23120,
+      "num": 23120,
       "word": "夏天空调怎么吹才健康",
       "onboard_time": 1721417832,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21119,
+      "num": 21689,
+      "word": "王铮亮 起猛了在家看到猎人了",
+      "onboard_time": 1721419990,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 19977,
@@ -563,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16767,
-      "num": 21689,
-      "word": "王铮亮 起猛了在家看到猎人了",
-      "onboard_time": 1721419990,
+      "raw_hot": 16538,
+      "num": 19926,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
       "rank": 49,
-      "category": "综艺"
+      "category": "旅游"
     },
     {
       "raw_hot": 15893,
