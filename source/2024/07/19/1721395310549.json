@@ -1,0 +1,410 @@
+{
+  "runTime": 1721395310549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1382945,
+        "num": 1382945,
+        "word": "薛之谦 王源",
+        "onboard_time": 1721393421,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 3543931,
+        "num": 1229982,
+        "word": "张钰琪比中指",
+        "onboard_time": 1721392460,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88950,
+        "num": 896691,
+        "word": "二十届三中全会公报速读",
+        "onboard_time": 1721394141,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737674,
+        "num": 737674,
+        "word": "韩国队奥运没带空调发冰坎肩",
+        "onboard_time": 1721391320,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710595,
+        "num": 710595,
+        "word": "小米发布会",
+        "onboard_time": 1721386399,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 937456,
+        "num": 689488,
+        "word": "韩国考虑改国名叫考瑞亚",
+        "onboard_time": 1721375481,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1340282,
+        "num": 671955,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1254213,
+        "num": 648766,
+        "word": "郑佩佩女儿发文",
+        "onboard_time": 1721374880,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612976,
+        "num": 612976,
+        "word": "教体局回应查成绩需下载app充会员",
+        "onboard_time": 1721390180,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44204,
+        "num": 607393,
+        "word": "我国成功研制太阳能动力微型飞行器",
+        "onboard_time": 1721393901,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512622,
+        "num": 588916,
+        "word": "特朗普亲吻刺杀案遇难者遗物",
+        "onboard_time": 1721391439,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 21806,
+        "num": 580192,
+        "word": "全新极氪009全球上市",
+        "onboard_time": 1721392460,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1121039,
+        "num": 566056,
+        "word": "歌手直播",
+        "onboard_time": 1721389819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1082052,
+        "num": 542363,
+        "word": "阮富仲去世",
+        "onboard_time": 1721387720,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41289,
+        "num": 526601,
+        "word": "K70至尊版价格可真香",
+        "onboard_time": 1721394021,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1064654,
+        "num": 509780,
+        "word": "华晨宇 郑奶奶一路走好",
+        "onboard_time": 1721389699,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918135,
+        "num": 495186,
+        "word": "谭维维开大了",
+        "onboard_time": 1721394621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683177,
+        "num": 488872,
+        "word": "杨丞琳松弛感",
+        "onboard_time": 1721391320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473972,
+        "num": 473972,
+        "word": "酒店一间房到底能住几人",
+        "onboard_time": 1721386819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399569,
+        "num": 399569,
+        "word": "北京冰雹",
+        "onboard_time": 1721393601,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667907,
+        "num": 393966,
+        "word": "袁娅维转音",
+        "onboard_time": 1721394021,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639377,
+        "num": 392975,
+        "word": "小米汽车",
+        "onboard_time": 1721389159,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 589367,
+        "num": 383730,
+        "word": "许钧淘汰",
+        "onboard_time": 1721393181,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574688,
+        "num": 376972,
+        "word": "一觉醒来冷战变分手",
+        "onboard_time": 1721390540,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490776,
+        "num": 372505,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438490,
+        "num": 364042,
+        "word": "肖战纯素颜开机图",
+        "onboard_time": 1721393723,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436082,
+        "num": 356636,
+        "word": "谭松韵克莱因蓝裙",
+        "onboard_time": 1721392159,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 52065,
+        "num": 351145,
+        "word": "论又薄又强我只服小米大折手机",
+        "onboard_time": 1721393901,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 428859,
+        "num": 346210,
+        "word": "许晴悼念郑佩佩",
+        "onboard_time": 1721393242,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63830,
+        "num": 342806,
+        "word": "英国利兹发生骚乱",
+        "onboard_time": 1721395282,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423618,
+        "num": 331319,
+        "word": "女童被生父及同居女子殴打致死",
+        "onboard_time": 1721393601,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 331254,
+        "num": 331254,
+        "word": "种地吧 加人",
+        "onboard_time": 1721377821,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327196,
+        "num": 327196,
+        "word": "朴灿烈春夏秋冬中文版",
+        "onboard_time": 1721394021,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314627,
+        "num": 314627,
+        "word": "苏新皓朱志鑫MVP",
+        "onboard_time": 1721394742,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285360,
+        "num": 285360,
+        "word": "一只鸡的死亡带动了六个人的就业",
+        "onboard_time": 1721384359,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248561,
+        "num": 248561,
+        "word": "小米手机",
+        "onboard_time": 1721393723,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234218,
+        "num": 234218,
+        "word": "薛之谦演唱会大雨",
+        "onboard_time": 1721392881,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215058,
+        "num": 215058,
+        "word": "男子开煤气自杀中途反悔点烟致爆炸",
+        "onboard_time": 1721384059,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211345,
+        "num": 211345,
+        "word": "唐诡西行亡妻变嫂子",
+        "onboard_time": 1721393540,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199795,
+        "num": 199795,
+        "word": "长沙11岁女孩被电诈90余万元",
+        "onboard_time": 1721380460,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197983,
+        "num": 197983,
+        "word": "张钰琪裤子",
+        "onboard_time": 1721394742,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172887,
+        "num": 172887,
+        "word": "胡歌 这是逍遥对姥姥最深的思念",
+        "onboard_time": 1721373321,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170148,
+        "num": 170148,
+        "word": "温州",
+        "onboard_time": 1721395101,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 166903,
+        "num": 166903,
+        "word": "中共中央就阮富仲逝世致唁电",
+        "onboard_time": 1721393601,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157480,
+        "num": 157480,
+        "word": "种地吧",
+        "onboard_time": 1721385320,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148707,
+        "num": 148707,
+        "word": "许钧编曲",
+        "onboard_time": 1721392941,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147697,
+        "num": 147697,
+        "word": "成龙说郑佩佩是一代侠女",
+        "onboard_time": 1721386638,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139242,
+        "num": 139242,
+        "word": "小米MIXFold4",
+        "onboard_time": 1721393242,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136992,
+        "num": 136992,
+        "word": "星穹铁道 Keep",
+        "onboard_time": 1721395161,
+        "rank": 48,
+        "category": "游戏,运动健身"
+      },
+      {
+        "raw_hot": 123492,
+        "num": 123492,
+        "word": "星穹铁道FateUBW联动",
+        "onboard_time": 1721391920,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
