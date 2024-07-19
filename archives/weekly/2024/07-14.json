@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721371217488,
+  "endTime": 1721373595223,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 9384116,
-      "num": 2581997,
+      "num": 5458625,
       "word": "郑佩佩捐赠大脑用于医学研究",
       "onboard_time": 1721361624,
       "rank": 6,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2168225,
-      "num": 672244,
+      "num": 1037559,
       "word": "张翰 想你了佩佩姐",
       "onboard_time": 1721367982,
       "rank": 6,
@@ -553,6 +553,14 @@
       "onboard_time": 1721274198,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1367625,
+      "num": 1367625,
+      "word": "感谢微软 提前放假",
+      "onboard_time": 1721371101,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 1365348,
@@ -1043,6 +1051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 993750,
+      "num": 869094,
+      "word": "花少 您只是先抵达下一站",
+      "onboard_time": 1721369961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 978639,
       "num": 978639,
       "word": "西班牙vs英格兰",
@@ -1235,6 +1251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 897572,
+      "num": 897572,
+      "word": "三伏天五不吃",
+      "onboard_time": 1721368942,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 892573,
       "num": 535095,
       "word": "全网首个十连绝世已诞生",
@@ -1387,6 +1411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 812811,
+      "num": 905618,
+      "word": "保姆给46天婴儿1次喂完整瓶奶",
+      "onboard_time": 1721371461,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811305,
       "num": 811305,
       "word": "这次河南暴雨有一定极端性",
@@ -1484,7 +1516,7 @@
     },
     {
       "raw_hot": 782225,
-      "num": 485592,
+      "num": 713294,
       "word": "刘亦菲说郑佩佩是榜样",
       "onboard_time": 1721367622,
       "rank": 24,
@@ -1737,14 +1769,6 @@
       "onboard_time": 1721192420,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713237,
-      "num": 386776,
-      "word": "花少 您只是先抵达下一站",
-      "onboard_time": 1721369961,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 711437,
@@ -2955,14 +2979,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 513906,
-      "num": 513906,
-      "word": "三伏天五不吃",
-      "onboard_time": 1721368942,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 512394,
       "num": 1105748,
       "word": "武汉理工大学通报学生虐猫",
@@ -3507,6 +3523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 444174,
+      "num": 376590,
+      "word": "陈妍希十天之后回到现实状态",
+      "onboard_time": 1721372301,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443935,
       "num": 443935,
       "word": "杨紫坚持留下桃林认母剧情",
@@ -3955,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411056,
+      "num": 369861,
+      "word": "胡歌 这是逍遥对姥姥最深的思念",
+      "onboard_time": 1721373321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410793,
       "num": 217284,
       "word": "女生钓到大肚鱼烤熟后结果悲剧了",
@@ -4385,6 +4417,14 @@
       "onboard_time": 1721296819,
       "rank": 9,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 367739,
+      "num": 367739,
+      "word": "唐朝诡事录 吓人",
+      "onboard_time": 1721371940,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 367514,
@@ -4833,6 +4873,14 @@
       "onboard_time": 1721218037,
       "rank": 5,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 335071,
+      "num": 335071,
+      "word": "云南地震",
+      "onboard_time": 1721371581,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333526,
@@ -5555,6 +5603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 285444,
+      "num": 285444,
+      "word": "章子怡 世间再无碧眼狐狸",
+      "onboard_time": 1721373142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284936,
       "num": 284936,
       "word": "原著相柳吻了小夭额头",
@@ -5684,7 +5740,7 @@
     },
     {
       "raw_hot": 279797,
-      "num": 170444,
+      "num": 235437,
       "word": "十个勤天 第三季",
       "onboard_time": 1721370441,
       "rank": 44,
@@ -6475,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242838,
+      "num": 584194,
+      "word": "仅次于吐鲁番的火炉竟藏在江浙沪",
+      "onboard_time": 1721368822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242397,
       "num": 242397,
       "word": "肖战法国第四章vlog",
@@ -6689,6 +6753,14 @@
       "onboard_time": 1721361744,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232361,
+      "num": 204665,
+      "word": "凡希亚参加歌手顺便还拍了个MV",
+      "onboard_time": 1721371402,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 232318,
@@ -7128,6 +7200,14 @@
       "word": "射手座的下头就在一瞬之间",
       "onboard_time": 1721141539,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217458,
+      "num": 217458,
+      "word": "Happy Friday",
+      "onboard_time": 1721372181,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -7827,6 +7907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202548,
+      "num": 202548,
+      "word": "微软客服回应蓝屏",
+      "onboard_time": 1721372841,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 202513,
       "num": 202513,
       "word": "刘强东章泽天看欧洲杯",
@@ -8385,6 +8473,14 @@
       "onboard_time": 1721191282,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195208,
+      "num": 195208,
+      "word": "汪苏泷回应一场演唱会八百个梗",
+      "onboard_time": 1721372601,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 195049,
@@ -9145,14 +9241,6 @@
       "onboard_time": 1721024238,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182492,
-      "num": 584194,
-      "word": "仅次于吐鲁番的火炉竟藏在江浙沪",
-      "onboard_time": 1721368822,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182337,
@@ -10129,14 +10217,6 @@
       "onboard_time": 1721267418,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164757,
-      "num": 164757,
-      "word": "感谢微软 提前放假",
-      "onboard_time": 1721371101,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 164653,
@@ -11241,6 +11321,14 @@
       "onboard_time": 1720917738,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 147243,
+      "num": 147243,
+      "word": "强制摸鱼",
+      "onboard_time": 1721371820,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 147205,
@@ -14403,6 +14491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76189,
+      "num": 898953,
+      "word": "我国高温超导体研究获新突破",
+      "onboard_time": 1721369422,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76023,
       "num": 76023,
       "word": "中华田园犬不愧是祖宗严选",
@@ -14739,6 +14835,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 66620,
+      "num": 522742,
+      "word": "卡地亚Trinity三环",
+      "onboard_time": 1721370860,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66226,
       "num": 1161869,
       "word": "巴黎奥运会热门项目观赛日历",
@@ -14849,6 +14953,14 @@
       "onboard_time": 1720991712,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63502,
+      "num": 876083,
+      "word": "几块钱就可出玉石珠宝质检证书",
+      "onboard_time": 1721372422,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63481,
@@ -14993,14 +15105,6 @@
       "onboard_time": 1721062454,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59115,
-      "num": 635171,
-      "word": "我国高温超导体研究获新突破",
-      "onboard_time": 1721369422,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59110,
@@ -15723,6 +15827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38816,
+      "num": 205163,
+      "word": "感谢当初没放弃的自己",
+      "onboard_time": 1721372422,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37937,
       "num": 37937,
       "word": "索斯盖特玄学不在",
@@ -16083,6 +16195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26127,
+      "num": 738840,
+      "word": "男子称花50万买到漏风奔驰",
+      "onboard_time": 1721373021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25986,
       "num": 492038,
       "word": "小黄人语糖葫芦怎么说",
@@ -16128,6 +16248,14 @@
       "word": "河南超汛限水位大中型水库增至29座",
       "onboard_time": 1721117419,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24879,
+      "num": 1070899,
+      "word": "下定决心坚定步伐将改革进行到底",
+      "onboard_time": 1721371702,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16457,14 +16585,6 @@
       "onboard_time": 1721328371,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16369,
-      "num": 138022,
-      "word": "卡地亚Trinity三环",
-      "onboard_time": 1721370860,
-      "rank": 44,
-      "category": "时尚"
     },
     {
       "raw_hot": 16257,
