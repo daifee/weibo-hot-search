@@ -1,7 +1,95 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721342181483,
+  "endTime": 1721356668094,
   "band_list": [
+    {
+      "raw_hot": 14890471,
+      "num": 524308,
+      "word": "郑佩佩去世",
+      "onboard_time": 1721347639,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4101269,
+      "num": 516684,
+      "word": "刘涛悼念郑佩佩",
+      "onboard_time": 1721355984,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3331775,
+      "num": 363444,
+      "word": "刘涛曾透露郑佩佩身体不太好",
+      "onboard_time": 1721351123,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3031333,
+      "num": 318834,
+      "word": "刘涛",
+      "onboard_time": 1721354665,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1712555,
+      "num": 360766,
+      "word": "曹可凡悼念郑佩佩",
+      "onboard_time": 1721350221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1603550,
+      "num": 356950,
+      "word": "郑佩佩个人简介页面变为黑白",
+      "onboard_time": 1721352684,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1041623,
+      "num": 353082,
+      "word": "佩佩奶奶一路走好",
+      "onboard_time": 1721356646,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1034659,
+      "num": 4173581,
+      "word": "中共中央举行新闻发布会",
+      "onboard_time": 1721353824,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 937838,
+      "num": 315686,
+      "word": "男子咳了两年多罪魁祸首竟是一顿火锅",
+      "onboard_time": 1721351901,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775400,
+      "num": 775400,
+      "word": "党的二十届三中全会精神",
+      "onboard_time": 1721355024,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 676620,
+      "num": 347230,
+      "word": "吴艳妮巴黎奥运官网证件照",
+      "onboard_time": 1721346799,
+      "rank": 14,
+      "category": "体育"
+    },
     {
       "raw_hot": 658722,
       "num": 196079,
@@ -17,6 +105,14 @@
       "onboard_time": 1721301197,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 499359,
+      "num": 499359,
+      "word": "53岁妈妈从县城体制内退休的第一年",
+      "onboard_time": 1721351244,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462417,
@@ -35,11 +131,83 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438888,
+      "num": 341171,
+      "word": "生理期疼痛可能是因为缺血",
+      "onboard_time": 1721351001,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437619,
+      "num": 314036,
+      "word": "小肚子瘦不下来这4种食物要少吃",
+      "onboard_time": 1721351723,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 392834,
       "num": 392834,
       "word": "瓶装饮用水跌破7毛大关",
       "onboard_time": 1721313380,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389360,
+      "num": 389360,
+      "word": "美媒曝拜登或在本周末决定退出大选",
+      "onboard_time": 1721353044,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 375322,
+      "num": 375322,
+      "word": "得闲谨制开机",
+      "onboard_time": 1721347878,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 340086,
+      "num": 340086,
+      "word": "好利来小程序崩了",
+      "onboard_time": 1721355505,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 325489,
+      "num": 325489,
+      "word": "巴西歌手疑因粉丝衣服湿透触电身亡",
+      "onboard_time": 1721345836,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324847,
+      "num": 324847,
+      "word": "岂能尽如人意 但求不愧我心",
+      "onboard_time": 1721355024,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311677,
+      "num": 311677,
+      "word": "研究称久坐者每天喝杯咖啡降低死亡风险",
+      "onboard_time": 1721345295,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282782,
+      "num": 282782,
+      "word": "男子33万买到旧宝马获退1赔3",
+      "onboard_time": 1721355325,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -51,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257759,
+      "num": 257759,
+      "word": "孙俪新剧长发妆造",
+      "onboard_time": 1721354065,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255240,
       "num": 255240,
       "word": "奥运期间巴黎物价全面上涨",
       "onboard_time": 1721313679,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252299,
+      "num": 252299,
+      "word": "苹果把大招留给了iPhone18",
+      "onboard_time": 1721346137,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 249481,
+      "num": 249481,
+      "word": "女装退货率高达80%别都怪仅退款",
+      "onboard_time": 1721353104,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248232,
@@ -67,12 +259,92 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226584,
+      "num": 226584,
+      "word": "海底捞偶遇工作人员给玩偶洗澡",
+      "onboard_time": 1721354065,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220503,
+      "num": 220503,
+      "word": "丫丫用小jio扶起篮子松弛感拉满",
+      "onboard_time": 1721354604,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219754,
+      "num": 219754,
+      "word": "吴磊问了一个大家都想问的问题",
+      "onboard_time": 1721356045,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219337,
+      "num": 219337,
+      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
+      "onboard_time": 1721319676,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218280,
       "num": 218280,
       "word": "黄灿灿 这下真的意箭疯篌了",
       "onboard_time": 1721305697,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215720,
+      "num": 215720,
+      "word": "毛毛虫因为烫脚而光速跑路",
+      "onboard_time": 1721347999,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211936,
+      "num": 211936,
+      "word": "宋茜将录制花少6",
+      "onboard_time": 1721356285,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208275,
+      "num": 208275,
+      "word": "加沙小兔子衣服女童惊恐睁大眼睛",
+      "onboard_time": 1721352203,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206466,
+      "num": 206466,
+      "word": "郑佩佩是香港电影的一代侠女",
+      "onboard_time": 1721355084,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203881,
+      "num": 203881,
+      "word": "喝隔夜水会致癌吗",
+      "onboard_time": 1721356045,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201885,
+      "num": 432662,
+      "word": "杭州5.2万辆共享单车不烫屁股",
+      "onboard_time": 1721318658,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199954,
@@ -91,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197863,
+      "num": 197863,
+      "word": "空空日记道歉",
+      "onboard_time": 1721345356,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 196622,
+      "num": 196622,
+      "word": "一个面包35元高价烘焙卷土重来",
+      "onboard_time": 1721349142,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194272,
       "num": 194272,
       "word": "三中全会公报",
@@ -99,11 +387,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192328,
+      "num": 192328,
+      "word": "邓为涂山璟下线拍了三天",
+      "onboard_time": 1721356225,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191524,
       "num": 191524,
       "word": "王一博传递火炬上了英语试卷",
       "onboard_time": 1721316559,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191121,
+      "num": 196783,
+      "word": "郑佩佩18至74岁影视荧幕变化",
+      "onboard_time": 1721355805,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -115,12 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187125,
-      "num": 161963,
-      "word": "她老公剃掉头发那刻秒杀所有偶像剧",
-      "onboard_time": 1721319676,
-      "rank": 47,
+      "raw_hot": 186599,
+      "num": 186599,
+      "word": "2岁娃走失在警车上见到路边的妈妈",
+      "onboard_time": 1721351603,
+      "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185322,
+      "num": 196960,
+      "word": "从1个人到14亿人的奥运",
+      "onboard_time": 1721355924,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 184644,
@@ -147,12 +459,68 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176749,
+      "num": 176749,
+      "word": "赵丽颖冯小刚聚餐",
+      "onboard_time": 1721345776,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167682,
+      "num": 167682,
+      "word": "巴黎奥运会倒计时7天",
+      "onboard_time": 1721355505,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165992,
       "num": 165992,
       "word": "爷爷把我几年前的水宝宝天天照顾着",
       "onboard_time": 1721315419,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159401,
+      "num": 159401,
+      "word": "发现结婚和恋爱真的是两码事",
+      "onboard_time": 1721355505,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156668,
+      "num": 156668,
+      "word": "武汉知名餐厅招牌竟是福寿螺",
+      "onboard_time": 1721356526,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 153968,
+      "num": 153968,
+      "word": "小夭疯起来全大荒都得靠边站",
+      "onboard_time": 1721345295,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152595,
+      "num": 152595,
+      "word": "云南巨型蘑菇好像奶油雪顶",
+      "onboard_time": 1721349381,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "经纪公司证实郑佩佩去世",
+      "onboard_time": 1721356646,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 132079,
@@ -243,6 +611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99598,
+      "num": 370045,
+      "word": "26岁医学女博士入职前先救了个人",
+      "onboard_time": 1721355565,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98507,
       "num": 98507,
       "word": "唐朝诡事录之西行",
@@ -257,14 +633,6 @@
       "onboard_time": 1721313320,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97260,
-      "num": 432662,
-      "word": "杭州5.2万辆共享单车不烫屁股",
-      "onboard_time": 1721318658,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95895,
@@ -379,12 +747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68766,
+      "num": 371397,
+      "word": "进一步全面深化改革提出300多项举措",
+      "onboard_time": 1721355565,
+      "rank": 8,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 68604,
       "num": 65277,
       "word": "妈妈 这个写书的刘同他还在吗",
       "onboard_time": 1721320755,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 66106,
+      "num": 534801,
+      "word": "解读三中全会精神新闻发布会",
+      "onboard_time": 1721355084,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64354,
