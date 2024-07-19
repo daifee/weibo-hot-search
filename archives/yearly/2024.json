@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721363933108,
+  "endTime": 1721366426357,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -433,6 +433,14 @@
       "onboard_time": 1716554543,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9284185,
+      "num": 2581997,
+      "word": "郑佩佩捐赠大脑用于医学研究",
+      "onboard_time": 1721361624,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 9189322,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1720515739,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3444249,
-      "num": 2581997,
-      "word": "郑佩佩捐赠大脑用于医学研究",
-      "onboard_time": 1721361624,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 3436938,
