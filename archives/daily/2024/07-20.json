@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721410615126,
+  "endTime": 1721413578788,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -267,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191370,
+      "num": 191370,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188920,
       "num": 188920,
       "word": "黄宣淘汰感言",
@@ -363,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103608,
+      "num": 177287,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 97270,
       "num": 154366,
       "word": "温附一",
@@ -403,14 +419,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 87739,
-      "num": 177287,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 87308,
       "num": 87308,
       "word": "黄宣无代餐",
@@ -435,12 +443,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72156,
+      "num": 62345,
+      "word": "千金府",
+      "onboard_time": 1721411293,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
       "onboard_time": 1721406199,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49889,
+      "num": 49889,
+      "word": "电视剧错位",
+      "onboard_time": 1721410634,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 47370,
@@ -467,20 +491,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36579,
+      "num": 49882,
+      "word": "泽连斯基回应若特朗普胜选",
+      "onboard_time": 1721409315,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30204,
       "num": 466483,
       "word": "张雨霏希望是一届快乐的奥运会",
       "onboard_time": 1721404880,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20955,
-      "num": 140095,
-      "word": "配送行业或迎巨变",
-      "onboard_time": 1721410514,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18221,
@@ -497,6 +521,14 @@
       "onboard_time": 1721393901,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8673,
+      "num": 126862,
+      "word": "当女孩绝望时消防员愿给你拥抱",
+      "onboard_time": 1721412373,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
