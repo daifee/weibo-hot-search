@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721424896924,
+  "endTime": 1721427607211,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -227,8 +227,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206790,
-      "num": 206790,
+      "raw_hot": 209148,
+      "num": 368897,
       "word": "配送行业或迎巨变",
       "onboard_time": 1721410514,
       "rank": 24,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68532,
+      "num": 68532,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
@@ -459,11 +467,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 50286,
+      "raw_hot": 63147,
       "num": 86301,
       "word": "北京冰雹",
       "onboard_time": 1721393601,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51433,
+      "num": 64718,
+      "word": "一个母亲决定抱紧患躁郁症的女儿",
+      "onboard_time": 1721417112,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -499,12 +515,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 35870,
-      "num": 64718,
-      "word": "一个母亲决定抱紧患躁郁症的女儿",
-      "onboard_time": 1721417112,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 31842,
+      "num": 31842,
+      "word": "夏天空调怎么吹才健康",
+      "onboard_time": 1721417832,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30559,
@@ -523,27 +539,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29014,
+      "num": 29014,
+      "word": "王铮亮 起猛了在家看到猎人了",
+      "onboard_time": 1721419990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28051,
+      "num": 28051,
+      "word": "不能生同衾 那就死同穴",
+      "onboard_time": 1721426651,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27689,
+      "num": 27689,
+      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
+      "onboard_time": 1721426712,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27288,
       "num": 28062,
       "word": "歌手突围赛",
       "onboard_time": 1721416631,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25965,
-      "num": 25965,
-      "word": "夏天空调怎么吹才健康",
-      "onboard_time": 1721417832,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25323,
-      "num": 25323,
-      "word": "王铮亮 起猛了在家看到猎人了",
-      "onboard_time": 1721419990,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -555,12 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21385,
-      "num": 21385,
-      "word": "三亚暑期酒店暴跌",
-      "onboard_time": 1721423051,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 24659,
+      "num": 26385,
+      "word": "为何启用原名黄河大学",
+      "onboard_time": 1721424491,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 19977,
@@ -579,7 +603,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15893,
+      "raw_hot": 16657,
       "num": 304290,
       "word": "一文速览解读二十届三中全会精神发布会",
       "onboard_time": 1721393901,
@@ -593,14 +617,6 @@
       "onboard_time": 1721414893,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11521,
-      "num": 24752,
-      "word": "为何启用原名黄河大学",
-      "onboard_time": 1721424491,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 10816,
