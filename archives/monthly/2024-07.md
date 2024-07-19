@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 06:36:57
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 07:19:42
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8F%91%E5%9E%8B%20%E6%8A%84%E8%A2%AD%E9%99%B6%E5%96%86%23" target="weibo">
 那英发型 抄袭陶喆（热度：2447964）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
+李晟医生去世（热度：2347705）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%8F%97%E4%BC%A4%23" target="weibo">
 严浩翔受伤（热度：598462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%B1%E5%8E%BB%E4%BA%86%E7%88%B8%E5%A6%88%E6%98%AF%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B8%A6%E6%88%91%E5%9B%9E%E5%AE%B6%23" target="weibo">
-我失去了爸妈是班主任带我回家（热度：597677）
 </a>
 </li>
 

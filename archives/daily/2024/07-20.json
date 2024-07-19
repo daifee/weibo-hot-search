@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721428617338,
+  "endTime": 1721431182141,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -17,6 +17,14 @@
       "onboard_time": 1721398641,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2347705,
+      "num": 2347705,
+      "word": "李晟医生去世",
+      "onboard_time": 1721429954,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1643444,
@@ -131,6 +139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 393432,
+      "num": 462448,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303136,
+      "num": 303136,
+      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
+      "onboard_time": 1721426712,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294409,
       "num": 246998,
       "word": "歌手直播",
@@ -185,14 +209,6 @@
       "onboard_time": 1721361443,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249676,
-      "num": 462448,
-      "word": "配送行业或迎巨变",
-      "onboard_time": 1721410514,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239801,
@@ -225,6 +241,14 @@
       "onboard_time": 1721403501,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212161,
+      "num": 180039,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 211443,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177225,
+      "num": 230214,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170360,
       "num": 367196,
       "word": "酒店一间房到底能住几人",
@@ -331,14 +363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154539,
-      "num": 230214,
-      "word": "女子晒背致横纹肌溶解",
-      "onboard_time": 1721396241,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154447,
       "num": 220712,
       "word": "小米发布会",
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "不能生同衾 那就死同穴",
+      "onboard_time": 1721426651,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129307,
       "num": 129307,
       "word": "杨丞琳松弛感",
@@ -363,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127925,
-      "num": 108489,
-      "word": "三亚暑期酒店暴跌",
-      "onboard_time": 1721423051,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 118697,
+      "num": 177287,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 115175,
@@ -379,12 +411,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103608,
-      "num": 177287,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 38,
-      "category": "社会负面"
+      "raw_hot": 112364,
+      "num": 193713,
+      "word": "教体局回应查成绩需下载app充会员",
+      "onboard_time": 1721390180,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 101064,
+      "num": 101064,
+      "word": "许晴悼念郑佩佩",
+      "onboard_time": 1721393242,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 97270,
@@ -411,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94985,
+      "num": 94985,
+      "word": "一个母亲决定抱紧患躁郁症的女儿",
+      "onboard_time": 1721417112,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93468,
       "num": 178889,
       "word": "美国政府监视巴西总统超50年",
@@ -419,12 +467,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 92536,
-      "num": 193713,
-      "word": "教体局回应查成绩需下载app充会员",
-      "onboard_time": 1721390180,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 88442,
+      "num": 88442,
+      "word": "肖战纯素颜开机图",
+      "onboard_time": 1721393723,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 87308,
@@ -459,6 +507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70333,
+      "num": 70333,
+      "word": "泽连斯基回应若特朗普胜选",
+      "onboard_time": 1721409315,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 68981,
+      "num": 86301,
+      "word": "北京冰雹",
+      "onboard_time": 1721393601,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
@@ -467,28 +531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 65563,
-      "num": 86301,
-      "word": "北京冰雹",
-      "onboard_time": 1721393601,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64017,
-      "num": 64718,
-      "word": "一个母亲决定抱紧患躁郁症的女儿",
-      "onboard_time": 1721417112,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56992,
-      "num": 56992,
-      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
-      "onboard_time": 1721426712,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 66219,
+      "num": 66219,
+      "word": "眼睛里拉出的白丝到底是啥",
+      "onboard_time": 1721430193,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49889,
@@ -505,22 +553,6 @@
       "onboard_time": 1721407156,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46300,
-      "num": 46300,
-      "word": "不能生同衾 那就死同穴",
-      "onboard_time": 1721426651,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42414,
-      "num": 49882,
-      "word": "泽连斯基回应若特朗普胜选",
-      "onboard_time": 1721409315,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 40502,
@@ -547,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33800,
+      "num": 72617,
+      "word": "为何启用原名黄河大学",
+      "onboard_time": 1721424491,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 30559,
       "num": 33889,
       "word": "你比星光美丽",
@@ -555,20 +595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30524,
+      "num": 188421,
+      "word": "重庆地铁站里转一转满满的松弛感",
+      "onboard_time": 1721430193,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 30204,
       "num": 466483,
       "word": "张雨霏希望是一届快乐的奥运会",
       "onboard_time": 1721404880,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29517,
-      "num": 42630,
-      "word": "为何启用原名黄河大学",
-      "onboard_time": 1721424491,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 27288,
@@ -587,20 +627,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22745,
+      "num": 338415,
+      "word": "一文速览解读二十届三中全会精神发布会",
+      "onboard_time": 1721393901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19977,
       "num": 30531,
       "word": "背肌好的人体态有多美",
       "onboard_time": 1721416092,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 18690,
-      "num": 304290,
-      "word": "一文速览解读二十届三中全会精神发布会",
-      "onboard_time": 1721393901,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18221,
