@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721367395093,
+  "endTime": 1721370451982,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -377,6 +377,14 @@
       "onboard_time": 1719994397,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2168225,
+      "num": 628487,
+      "word": "张翰 想你了佩佩姐",
+      "onboard_time": 1721367982,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2167195,
@@ -945,6 +953,14 @@
       "onboard_time": 1719797899,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1650320,
+      "num": 1650320,
+      "word": "微软蓝屏",
+      "onboard_time": 1721367861,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1644242,
@@ -4595,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814875,
+      "num": 814875,
+      "word": "助眠直播是擦边还是电子安眠药",
+      "onboard_time": 1721365225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814062,
       "num": 814062,
       "word": "马克龙接受法国政府辞职",
@@ -5225,6 +5249,14 @@
       "onboard_time": 1721037619,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764729,
+      "num": 388390,
+      "word": "刘亦菲说郑佩佩是榜样",
+      "onboard_time": 1721367622,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 764237,
@@ -6833,6 +6865,14 @@
       "onboard_time": 1720183820,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637832,
+      "num": 637832,
+      "word": "感觉她上的大学才是大学",
+      "onboard_time": 1721365225,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 637690,
@@ -12995,6 +13035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414528,
+      "num": 414528,
+      "word": "三伏天五不吃",
+      "onboard_time": 1721368942,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 414389,
       "num": 414389,
       "word": "洞庭湖决口开始封堵合龙",
@@ -13025,14 +13073,6 @@
       "onboard_time": 1720439598,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413429,
-      "num": 619803,
-      "word": "感觉她上的大学才是大学",
-      "onboard_time": 1721365225,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 413195,
@@ -13419,6 +13459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401637,
+      "num": 386776,
+      "word": "花少 您只是先抵达下一站",
+      "onboard_time": 1721369961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401559,
       "num": 401559,
       "word": "菲方向中国索赔撞船损失100万美元",
@@ -13681,6 +13729,14 @@
       "onboard_time": 1720795099,
       "rank": 15,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 394848,
+      "num": 385094,
+      "word": "郑佩佩花少安慰华晨宇",
+      "onboard_time": 1721368044,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 394720,
@@ -14017,6 +14073,14 @@
       "onboard_time": 1721297239,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384679,
+      "num": 384679,
+      "word": "虞书欣让中餐厅宣发变年轻了",
+      "onboard_time": 1721367861,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 384556,
@@ -18819,6 +18883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278980,
+      "num": 278980,
+      "word": "十个勤天只能是十个勤天",
+      "onboard_time": 1721367685,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278872,
       "num": 221418,
       "word": "冰箱放了两天的西瓜真的不能吃",
@@ -19249,6 +19321,14 @@
       "onboard_time": 1721188939,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "易烊千玺谈奥运logo设计",
+      "onboard_time": 1721368643,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 270404,
@@ -20089,6 +20169,14 @@
       "onboard_time": 1720499599,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253815,
+      "num": 253815,
+      "word": "长相思18集名场面含量100%",
+      "onboard_time": 1721369902,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 253801,
@@ -25411,6 +25499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201854,
+      "num": 150381,
+      "word": "种地吧导演给十个勤天的信",
+      "onboard_time": 1721369482,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201792,
       "num": 201792,
       "word": "阿根廷球员疑似种族歧视",
@@ -26715,6 +26811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194909,
+      "num": 149422,
+      "word": "十个勤天 第三季",
+      "onboard_time": 1721370441,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194841,
       "num": 194841,
       "word": "周深南京",
@@ -27441,14 +27545,6 @@
       "onboard_time": 1721014098,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191172,
-      "num": 641886,
-      "word": "助眠直播是擦边还是电子安眠药",
-      "onboard_time": 1721365225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191166,
@@ -33195,6 +33291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159060,
+      "num": 159060,
+      "word": "巴黎奥运村为什么没有空调",
+      "onboard_time": 1721367503,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159017,
       "num": 159017,
       "word": "林小宅全新演员公示照",
@@ -35033,6 +35137,14 @@
       "onboard_time": 1721271378,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150112,
+      "num": 150112,
+      "word": "为什么infp是完美恋人",
+      "onboard_time": 1721368643,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 150101,
@@ -39272,6 +39384,14 @@
       "word": "邢台成立调查组摸底排查全市罐车",
       "onboard_time": 1720516159,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "南京中山陵现7头野猪遛弯",
+      "onboard_time": 1721370142,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -44755,6 +44875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103677,
+      "num": 622289,
+      "word": "吴彦祖一吃面就有大事发生",
+      "onboard_time": 1721365764,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103654,
       "num": 111998,
       "word": "亚马尔说梅西是最伟大的球员",
@@ -44945,6 +45073,14 @@
       "onboard_time": 1720792762,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102117,
+      "num": 610066,
+      "word": "吴艳妮谈化妆做造型参加比赛",
+      "onboard_time": 1721369182,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 102080,
@@ -47355,6 +47491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76005,
+      "num": 584194,
+      "word": "仅次于吐鲁番的火炉竟藏在江浙沪",
+      "onboard_time": 1721368822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75981,
       "num": 406242,
       "word": "MBTI测试忽i忽e是怎么回事",
@@ -48180,7 +48324,7 @@
     },
     {
       "raw_hot": 66106,
-      "num": 774114,
+      "num": 828786,
       "word": "解读三中全会精神新闻发布会",
       "onboard_time": 1721355084,
       "rank": 2,
@@ -48425,14 +48569,6 @@
       "onboard_time": 1721321955,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63364,
-      "num": 622289,
-      "word": "吴彦祖一吃面就有大事发生",
-      "onboard_time": 1721365764,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 63302,
@@ -50387,6 +50523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45520,
+      "num": 527064,
+      "word": "多方回应网传捉蚂蟥做副业大赚",
+      "onboard_time": 1721368822,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45492,
       "num": 61083,
       "word": "泰警方称酒店6名死者疑死于氰化物中毒",
@@ -50697,6 +50841,14 @@
       "onboard_time": 1721220378,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42955,
+      "num": 621832,
+      "word": "我国高温超导体研究获新突破",
+      "onboard_time": 1721369422,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42928,
@@ -54193,6 +54345,14 @@
       "onboard_time": 1719945551,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10296,
+      "num": 385437,
+      "word": "日本一公寓爆炸两万名旅客受影响",
+      "onboard_time": 1721370200,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10210,

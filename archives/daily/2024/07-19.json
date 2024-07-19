@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721367395093,
+  "endTime": 1721370451982,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2168225,
+      "num": 628487,
+      "word": "张翰 想你了佩佩姐",
+      "onboard_time": 1721367982,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1901542,
       "num": 1525868,
       "word": "刘涛ip在美国",
@@ -89,6 +97,14 @@
       "onboard_time": 1721365465,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1650320,
+      "num": 1650320,
+      "word": "微软蓝屏",
+      "onboard_time": 1721367861,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1603550,
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 814875,
+      "num": 814875,
+      "word": "助眠直播是擦边还是电子安眠药",
+      "onboard_time": 1721365225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805991,
       "num": 2575489,
       "word": "沈月因为妈妈不接电话哭了",
@@ -209,6 +233,14 @@
       "onboard_time": 1721355024,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 764729,
+      "num": 388390,
+      "word": "刘亦菲说郑佩佩是榜样",
+      "onboard_time": 1721367622,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 687974,
@@ -257,6 +289,14 @@
       "onboard_time": 1721361624,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637832,
+      "num": 637832,
+      "word": "感觉她上的大学才是大学",
+      "onboard_time": 1721365225,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 617771,
@@ -387,12 +427,28 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 413429,
-      "num": 619803,
-      "word": "感觉她上的大学才是大学",
-      "onboard_time": 1721365225,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 414528,
+      "num": 414528,
+      "word": "三伏天五不吃",
+      "onboard_time": 1721368942,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401637,
+      "num": 386776,
+      "word": "花少 您只是先抵达下一站",
+      "onboard_time": 1721369961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394848,
+      "num": 385094,
+      "word": "郑佩佩花少安慰华晨宇",
+      "onboard_time": 1721368044,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 392834,
@@ -401,6 +457,14 @@
       "onboard_time": 1721313380,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384679,
+      "num": 384679,
+      "word": "虞书欣让中餐厅宣发变年轻了",
+      "onboard_time": 1721367861,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 376343,
@@ -515,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278980,
+      "num": 278980,
+      "word": "十个勤天只能是十个勤天",
+      "onboard_time": 1721367685,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274056,
       "num": 173247,
       "word": "李若彤悼念郑佩佩",
@@ -529,6 +601,14 @@
       "onboard_time": 1721301078,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "易烊千玺谈奥运logo设计",
+      "onboard_time": 1721368643,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 259913,
@@ -553,6 +633,14 @@
       "onboard_time": 1721313679,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253815,
+      "num": 253815,
+      "word": "长相思18集名场面含量100%",
+      "onboard_time": 1721369902,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 252299,
@@ -747,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201854,
+      "num": 150381,
+      "word": "种地吧导演给十个勤天的信",
+      "onboard_time": 1721369482,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201664,
       "num": 185505,
       "word": "StrayKids新专辑",
@@ -811,6 +907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 194909,
+      "num": 149422,
+      "word": "十个勤天 第三季",
+      "onboard_time": 1721370441,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194272,
       "num": 194272,
       "word": "三中全会公报",
@@ -857,14 +961,6 @@
       "onboard_time": 1721316559,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191172,
-      "num": 641886,
-      "word": "助眠直播是擦边还是电子安眠药",
-      "onboard_time": 1721365225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191121,
@@ -987,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159060,
+      "num": 159060,
+      "word": "巴黎奥运村为什么没有空调",
+      "onboard_time": 1721367503,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153968,
       "num": 153968,
       "word": "小夭疯起来全大荒都得靠边站",
@@ -1003,6 +1107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150112,
+      "num": 150112,
+      "word": "为什么infp是完美恋人",
+      "onboard_time": 1721368643,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141480,
       "num": 1710497,
       "word": "花250万买保险的大厂人",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1721314579,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "南京中山陵现7头野猪遛弯",
+      "onboard_time": 1721370142,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128624,
@@ -1105,6 +1225,22 @@
       "onboard_time": 1721334910,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 103677,
+      "num": 622289,
+      "word": "吴彦祖一吃面就有大事发生",
+      "onboard_time": 1721365764,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102117,
+      "num": 610066,
+      "word": "吴艳妮谈化妆做造型参加比赛",
+      "onboard_time": 1721369182,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 101670,
@@ -1259,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76005,
+      "num": 584194,
+      "word": "仅次于吐鲁番的火炉竟藏在江浙沪",
+      "onboard_time": 1721368822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73796,
       "num": 35050,
       "word": "年轻人开始爱上当电子爸妈",
@@ -1292,7 +1436,7 @@
     },
     {
       "raw_hot": 66106,
-      "num": 774114,
+      "num": 828786,
       "word": "解读三中全会精神新闻发布会",
       "onboard_time": 1721355084,
       "rank": 2,
@@ -1321,14 +1465,6 @@
       "onboard_time": 1721321955,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63364,
-      "num": 622289,
-      "word": "吴彦祖一吃面就有大事发生",
-      "onboard_time": 1721365764,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 59292,
@@ -1395,12 +1531,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45520,
+      "num": 527064,
+      "word": "多方回应网传捉蚂蟥做副业大赚",
+      "onboard_time": 1721368822,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44689,
       "num": 40929,
       "word": "58岁华裔阿姨征战巴黎奥运会",
       "onboard_time": 1721339651,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42955,
+      "num": 621832,
+      "word": "我国高温超导体研究获新突破",
+      "onboard_time": 1721369422,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42198,
@@ -1519,6 +1671,14 @@
       "num": 269037,
       "word": "印度清洁剂奶罐车",
       "onboard_time": 1721360003,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10296,
+      "num": 385437,
+      "word": "日本一公寓爆炸两万名旅客受影响",
+      "onboard_time": 1721370200,
       "rank": 29,
       "category": "社会新闻"
     },
