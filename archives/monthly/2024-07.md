@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 07:19:42
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 07:34:54
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
+李晟医生去世（热度：3443270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E6%9B%BE%E9%80%8F%E9%9C%B2%E9%83%91%E4%BD%A9%E4%BD%A9%E8%BA%AB%E4%BD%93%E4%B8%8D%E5%A4%AA%E5%A5%BD%23" target="weibo">
 刘涛曾透露郑佩佩身体不太好（热度：3331775）
 </a>
@@ -323,12 +329,6 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8F%91%E5%9E%8B%20%E6%8A%84%E8%A2%AD%E9%99%B6%E5%96%86%23" target="weibo">
 那英发型 抄袭陶喆（热度：2447964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
-李晟医生去世（热度：2347705）
 </a>
 </li>
 

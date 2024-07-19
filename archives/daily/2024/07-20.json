@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721431182141,
+  "endTime": 1721432094880,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -11,20 +11,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3443270,
+      "num": 3443270,
+      "word": "李晟医生去世",
+      "onboard_time": 1721429954,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3214697,
       "num": 883881,
       "word": "李晟医生",
       "onboard_time": 1721398641,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2347705,
-      "num": 2347705,
-      "word": "李晟医生去世",
-      "onboard_time": 1721429954,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1643444,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443525,
+      "num": 462448,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401658,
       "num": 295644,
       "word": "温州医科大学",
@@ -139,11 +147,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 393432,
-      "num": 462448,
-      "word": "配送行业或迎巨变",
-      "onboard_time": 1721410514,
-      "rank": 24,
+      "raw_hot": 397051,
+      "num": 397051,
+      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
+      "onboard_time": 1721426712,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -172,19 +180,11 @@
     },
     {
       "raw_hot": 309973,
-      "num": 290732,
+      "num": 296316,
       "word": "一觉醒来冷战变分手",
       "onboard_time": 1721390540,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303136,
-      "num": 303136,
-      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
-      "onboard_time": 1721426712,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294409,
@@ -227,6 +227,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235297,
+      "num": 235297,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229861,
+      "num": 229861,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 218390,
       "num": 467879,
       "word": "小米手环9",
@@ -241,14 +257,6 @@
       "onboard_time": 1721403501,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212161,
-      "num": 180039,
-      "word": "三亚暑期酒店暴跌",
-      "onboard_time": 1721423051,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 211443,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188555,
+      "num": 188555,
+      "word": "不能生同衾 那就死同穴",
+      "onboard_time": 1721426651,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177610,
       "num": 177610,
       "word": "汪苏泷电话读热搜",
@@ -315,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177225,
-      "num": 230214,
-      "word": "女子晒背致横纹肌溶解",
-      "onboard_time": 1721396241,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 172674,
+      "num": 114040,
+      "word": "被裁员了拿了12万补偿金",
+      "onboard_time": 1721431335,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 170360,
@@ -379,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130974,
-      "num": 130974,
-      "word": "不能生同衾 那就死同穴",
-      "onboard_time": 1721426651,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 139410,
+      "num": 139410,
+      "word": "温医一院悼念李晟医生",
+      "onboard_time": 1721431815,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129307,
@@ -393,6 +409,14 @@
       "onboard_time": 1721391320,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128010,
+      "num": 193713,
+      "word": "教体局回应查成绩需下载app充会员",
+      "onboard_time": 1721390180,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118697,
@@ -411,16 +435,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112364,
-      "num": 193713,
-      "word": "教体局回应查成绩需下载app充会员",
-      "onboard_time": 1721390180,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 111174,
+      "num": 111174,
+      "word": "肖战纯素颜开机图",
+      "onboard_time": 1721393723,
+      "rank": 23,
+      "category": "电影"
     },
     {
-      "raw_hot": 101064,
-      "num": 101064,
+      "raw_hot": 109453,
+      "num": 109453,
+      "word": "眼睛里拉出的白丝到底是啥",
+      "onboard_time": 1721430193,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106334,
+      "num": 106334,
       "word": "许晴悼念郑佩佩",
       "onboard_time": 1721393242,
       "rank": 19,
@@ -467,12 +499,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 88442,
-      "num": 88442,
-      "word": "肖战纯素颜开机图",
-      "onboard_time": 1721393723,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 87397,
+      "num": 87397,
+      "word": "及川彻30岁",
+      "onboard_time": 1721431215,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 87308,
@@ -507,12 +539,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 70333,
-      "num": 70333,
+      "raw_hot": 77545,
+      "num": 77545,
       "word": "泽连斯基回应若特朗普胜选",
       "onboard_time": 1721409315,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 74940,
+      "num": 74940,
+      "word": "放假我妈把植物摔在我床上",
+      "onboard_time": 1721431394,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 68981,
@@ -531,12 +571,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 66219,
-      "num": 66219,
-      "word": "眼睛里拉出的白丝到底是啥",
-      "onboard_time": 1721430193,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 65627,
+      "num": 65627,
+      "word": "白羊座是不愿意哄人还是不会",
+      "onboard_time": 1721431335,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 49889,
@@ -555,6 +595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45569,
+      "num": 73624,
+      "word": "医生建议一天内不要多次用洗发水",
+      "onboard_time": 1721431996,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 43400,
+      "num": 188421,
+      "word": "重庆地铁站里转一转满满的松弛感",
+      "onboard_time": 1721430193,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 40502,
       "num": 602701,
       "word": "二十届三中全会公报速读",
@@ -571,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35656,
+      "num": 73616,
+      "word": "为何启用原名黄河大学",
+      "onboard_time": 1721424491,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33893,
       "num": 33893,
       "word": "夏天空调怎么吹才健康",
       "onboard_time": 1721417832,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33800,
-      "num": 72617,
-      "word": "为何启用原名黄河大学",
-      "onboard_time": 1721424491,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 30559,
@@ -595,20 +651,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30524,
-      "num": 188421,
-      "word": "重庆地铁站里转一转满满的松弛感",
-      "onboard_time": 1721430193,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 30204,
       "num": 466483,
       "word": "张雨霏希望是一届快乐的奥运会",
       "onboard_time": 1721404880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29042,
+      "num": 88541,
+      "word": "客舱清洁员在50度机坪上下飞机40多趟",
+      "onboard_time": 1721432056,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27288,
@@ -619,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25209,
+      "num": 417211,
+      "word": "一文速览解读二十届三中全会精神发布会",
+      "onboard_time": 1721393901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24798,
       "num": 28058,
       "word": "TMEA室内音乐节",
       "onboard_time": 1721416992,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22745,
-      "num": 338415,
-      "word": "一文速览解读二十届三中全会精神发布会",
-      "onboard_time": 1721393901,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19977,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 07:19:42
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 07:34:54
 </p>
 </blockquote>
 <p>
@@ -1755,6 +1755,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
+李晟医生去世（热度：3443270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23" target="weibo">
 国乒女团vs日本（热度：3436938）
 </a>
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E8%A6%81%E6%B1%82%E6%A2%85%E8%A5%BF%E4%B8%8E%E8%BF%88%E9%98%BF%E5%AF%86%E9%81%93%E6%AD%89%23" target="weibo">
 霍启刚要求梅西与迈阿密道歉（热度：3396012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E9%83%BD%E5%9C%A8%E4%BA%8B%E6%95%85%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B8%8A%23" target="weibo">
-伊朗总统外交部长都在事故直升机上（热度：3395646）
 </a>
 </li>
 
