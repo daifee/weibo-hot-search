@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721384424701,
+  "endTime": 1721385429293,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3520625,
-      "num": 679476,
+      "num": 757966,
       "word": "郑佩佩女儿发文",
       "onboard_time": 1721374880,
       "rank": 3,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1058811,
-      "num": 425619,
+      "num": 609199,
       "word": "长沙11岁女孩被电诈90余万元",
       "onboard_time": 1721380460,
       "rank": 34,
@@ -291,8 +291,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 830450,
-      "num": 782586,
+      "raw_hot": 853493,
+      "num": 853493,
       "word": "种地吧 加人",
       "onboard_time": 1721377821,
       "rank": 26,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641439,
+      "num": 307237,
+      "word": "妈妈去世后微信成了我的留言本",
+      "onboard_time": 1721379741,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617771,
       "num": 605229,
       "word": "男同事拍了一下背女子一年没上班",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 612497,
-      "num": 612497,
+      "num": 808517,
       "word": "福宝4岁生日会",
       "onboard_time": 1721379081,
       "rank": 4,
@@ -548,19 +556,11 @@
     },
     {
       "raw_hot": 474496,
-      "num": 474496,
+      "num": 788521,
       "word": "兵马俑在夏天变成了冰马俑",
       "onboard_time": 1721374880,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 464432,
-      "num": 307237,
-      "word": "妈妈去世后微信成了我的留言本",
-      "onboard_time": 1721379741,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 462417,
@@ -609,6 +609,14 @@
       "onboard_time": 1721368044,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396213,
+      "num": 231858,
+      "word": "男子开煤气自杀中途反悔点烟致爆炸",
+      "onboard_time": 1721384059,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392834,
@@ -697,6 +705,14 @@
       "onboard_time": 1721371581,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329048,
+      "num": 208256,
+      "word": "一只鸡的死亡带动了六个人的就业",
+      "onboard_time": 1721384359,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 326947,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1721352203,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208256,
-      "num": 208256,
-      "word": "一只鸡的死亡带动了六个人的就业",
-      "onboard_time": 1721384359,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 206466,
@@ -1475,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175515,
-      "num": 175515,
-      "word": "男子开煤气自杀中途反悔点烟致爆炸",
-      "onboard_time": 1721384059,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175199,
       "num": 175199,
       "word": "南京中山陵现7头野猪遛弯",
@@ -1507,12 +1507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172452,
+      "num": 172452,
+      "word": "时空中的绘旅人 书亦",
+      "onboard_time": 1721385198,
+      "rank": 36,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 170131,
       "num": 170131,
       "word": "许嵩杭州抢票",
       "onboard_time": 1721381660,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168356,
+      "num": 168356,
+      "word": "ENHYPEN一位",
+      "onboard_time": 1721385198,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 167682,
@@ -1555,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161971,
+      "num": 161971,
+      "word": "好久没见过这么干净的特效了",
+      "onboard_time": 1721385140,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161285,
       "num": 600494,
       "word": "巴黎奥运村为什么没有空调",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1721383698,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155837,
+      "num": 155837,
+      "word": "种地吧",
+      "onboard_time": 1721385320,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153969,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1721377343,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 119109,
+      "num": 310686,
+      "word": "内地精英卷哭香港职场",
+      "onboard_time": 1721383219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117803,
@@ -1955,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86722,
+      "num": 565671,
+      "word": "王一博说不能太过",
+      "onboard_time": 1721381780,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86223,
       "num": 166274,
       "word": "男子花5万找黄牛买演唱会门票没出票",
@@ -2067,14 +2115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 63366,
-      "num": 311976,
-      "word": "王一博说不能太过",
-      "onboard_time": 1721381780,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59292,
       "num": 95007,
       "word": "不要怀疑这真的是瓷器",
@@ -2147,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50162,
-      "num": 310686,
-      "word": "内地精英卷哭香港职场",
-      "onboard_time": 1721383219,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47932,
       "num": 865307,
       "word": "二十届三中全会公报一图读懂",
@@ -2203,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42084,
+      "num": 659077,
+      "word": "药店为促销处方药故意隐瞒禁忌证",
+      "onboard_time": 1721383820,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40819,
       "num": 212506,
       "word": "感谢当初没放弃的自己",
@@ -2227,20 +2267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31158,
-      "num": 313980,
-      "word": "药店为促销处方药故意隐瞒禁忌证",
-      "onboard_time": 1721383820,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30967,
       "num": 198642,
       "word": "暑期博物馆热持续升温",
       "onboard_time": 1721314999,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30455,
+      "num": 237216,
+      "word": "沈月的vlog搭子",
+      "onboard_time": 1721384239,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 28967,
@@ -2361,14 +2401,6 @@
       "onboard_time": 1721378240,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9382,
-      "num": 142750,
-      "word": "沈月的vlog搭子",
-      "onboard_time": 1721384239,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 7455,
