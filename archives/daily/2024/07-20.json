@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721407181377,
+  "endTime": 1721409525368,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -57,6 +57,14 @@
       "onboard_time": 1721395582,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651914,
+      "num": 323016,
+      "word": "印度男子体内藏1公斤黄金坐飞机",
+      "onboard_time": 1721405418,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599453,
@@ -145,14 +153,6 @@
       "onboard_time": 1721399301,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 323016,
-      "num": 323016,
-      "word": "印度男子体内藏1公斤黄金坐飞机",
-      "onboard_time": 1721405418,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309973,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191527,
+      "num": 191527,
+      "word": "陈楚生深圳欢乐谷音乐节",
+      "onboard_time": 1721408297,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188920,
       "num": 188920,
       "word": "黄宣淘汰感言",
@@ -275,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170360,
+      "num": 367196,
+      "word": "酒店一间房到底能住几人",
+      "onboard_time": 1721386819,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166615,
       "num": 166615,
       "word": "那英挂电话",
       "onboard_time": 1721395401,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163867,
-      "num": 367196,
-      "word": "酒店一间房到底能住几人",
-      "onboard_time": 1721386819,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161988,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 154447,
-      "num": 154447,
+      "num": 220712,
       "word": "小米发布会",
       "onboard_time": 1721386399,
       "rank": 46,
@@ -395,12 +403,52 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 87308,
+      "num": 87308,
+      "word": "黄宣无代餐",
+      "onboard_time": 1721397623,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86516,
+      "num": 86516,
+      "word": "章昊获得青龙奖OST人气奖",
+      "onboard_time": 1721402959,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83961,
+      "num": 146740,
+      "word": "读博是学历上的微调精神上的大整",
+      "onboard_time": 1721407457,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 77924,
+      "num": 88711,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
       "onboard_time": 1721406199,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43188,
+      "num": 213410,
+      "word": "外卖员自费数千元买AED随身携带",
+      "onboard_time": 1721407156,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40502,
@@ -411,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37400,
+      "num": 86301,
+      "word": "北京冰雹",
+      "onboard_time": 1721393601,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30204,
       "num": 466483,
       "word": "张雨霏希望是一届快乐的奥运会",
@@ -419,20 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22035,
-      "num": 213410,
-      "word": "外卖员自费数千元买AED随身携带",
-      "onboard_time": 1721407156,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18052,
+      "raw_hot": 18221,
       "num": 365912,
       "word": "贴心闺女免费给村里老人剪发27年",
       "onboard_time": 1721406798,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15893,
+      "num": 304290,
+      "word": "一文速览解读二十届三中全会精神发布会",
+      "onboard_time": 1721393901,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
