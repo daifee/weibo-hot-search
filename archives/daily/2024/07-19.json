@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721385429293,
+  "endTime": 1721387844290,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 837715,
+      "num": 233271,
+      "word": "男子开煤气自杀中途反悔点烟致爆炸",
+      "onboard_time": 1721384059,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814875,
       "num": 814875,
       "word": "助眠直播是擦边还是电子安眠药",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726597,
+      "num": 726597,
+      "word": "一只鸡的死亡带动了六个人的就业",
+      "onboard_time": 1721384359,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 687974,
       "num": 2684174,
       "word": "35岁小伙扛楼一年多存了40万",
@@ -385,6 +401,14 @@
       "onboard_time": 1721358742,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 671092,
+      "num": 671092,
+      "word": "阮富仲去世",
+      "onboard_time": 1721387720,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 658722,
@@ -539,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 494918,
+      "num": 494918,
+      "word": "外交部回应特朗普涉台言论",
+      "onboard_time": 1721382799,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 494407,
       "num": 419679,
       "word": "有小肚子才是医生眼中健康的标志",
@@ -611,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396213,
-      "num": 231858,
-      "word": "男子开煤气自杀中途反悔点烟致爆炸",
-      "onboard_time": 1721384059,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 395169,
+      "num": 395169,
+      "word": "成龙说郑佩佩是一代侠女",
+      "onboard_time": 1721386638,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 392834,
@@ -649,6 +681,14 @@
       "onboard_time": 1721347878,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368889,
+      "num": 421049,
+      "word": "小米发布会",
+      "onboard_time": 1721386399,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 368302,
@@ -705,14 +745,6 @@
       "onboard_time": 1721371581,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329048,
-      "num": 208256,
-      "word": "一只鸡的死亡带动了六个人的就业",
-      "onboard_time": 1721384359,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 326947,
@@ -817,14 +849,6 @@
       "onboard_time": 1721367685,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275729,
-      "num": 275729,
-      "word": "外交部回应特朗普涉台言论",
-      "onboard_time": 1721382799,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 274056,
@@ -979,6 +1003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232955,
+      "num": 232955,
+      "word": "种地吧",
+      "onboard_time": 1721385320,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232772,
       "num": 1078781,
       "word": "布朗尼命中关键三分",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1721354065,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227632,
+      "num": 227632,
+      "word": "中国造足球内胆1秒内可500次识别动作",
+      "onboard_time": 1721385678,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 226689,
@@ -1211,6 +1251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198730,
+      "num": 198730,
+      "word": "歌手2024突围赛",
+      "onboard_time": 1721386940,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197863,
       "num": 197863,
       "word": "空空日记道歉",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1721379861,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194405,
+      "num": 194405,
+      "word": "张晚意能演五彩斑斓的黑",
+      "onboard_time": 1721386819,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194272,
@@ -1395,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184168,
+      "num": 184168,
+      "word": "抓娃娃全员晒十年前照片",
+      "onboard_time": 1721386040,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183002,
       "num": 180247,
       "word": "宋亚轩救球",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1721376021,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177276,
+      "num": 177276,
+      "word": "好久没见过这么干净的特效了",
+      "onboard_time": 1721385140,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 176749,
@@ -1571,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161971,
-      "num": 161971,
-      "word": "好久没见过这么干净的特效了",
-      "onboard_time": 1721385140,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161285,
       "num": 600494,
       "word": "巴黎奥运村为什么没有空调",
@@ -1603,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158259,
+      "num": 158259,
+      "word": "于适紧身衣",
+      "onboard_time": 1721385499,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157407,
       "num": 157407,
       "word": "甜蜜家园3上线",
@@ -1617,14 +1689,6 @@
       "onboard_time": 1721383698,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155837,
-      "num": 155837,
-      "word": "种地吧",
-      "onboard_time": 1721385320,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 153969,
@@ -1667,12 +1731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148510,
+      "num": 148510,
+      "word": "你的名字",
+      "onboard_time": 1721386099,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147243,
       "num": 147243,
       "word": "强制摸鱼",
       "onboard_time": 1721371820,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 142981,
+      "num": 310686,
+      "word": "内地精英卷哭香港职场",
+      "onboard_time": 1721383219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141480,
@@ -1689,6 +1769,22 @@
       "onboard_time": 1721369182,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135660,
+      "num": 135660,
+      "word": "少年白马醉春风特效",
+      "onboard_time": 1721386340,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132263,
+      "num": 132263,
+      "word": "谁家女主活成这破碎模样",
+      "onboard_time": 1721387720,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 132079,
@@ -1763,14 +1859,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 119109,
-      "num": 310686,
-      "word": "内地精英卷哭香港职场",
-      "onboard_time": 1721383219,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117803,
       "num": 113763,
       "word": "涂山璟下线原文",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1721300298,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113598,
+      "num": 113598,
+      "word": "陆沉睡痕",
+      "onboard_time": 1721387298,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 111921,
@@ -2027,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80243,
+      "num": 460436,
+      "word": "酒店一间房到底能住几人",
+      "onboard_time": 1721386819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78289,
       "num": 522742,
       "word": "卡地亚Trinity三环",
@@ -2243,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41587,
+      "num": 237216,
+      "word": "沈月的vlog搭子",
+      "onboard_time": 1721384239,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40819,
       "num": 212506,
       "word": "感谢当初没放弃的自己",
@@ -2273,14 +2385,6 @@
       "onboard_time": 1721314999,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30455,
-      "num": 237216,
-      "word": "沈月的vlog搭子",
-      "onboard_time": 1721384239,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 28967,
