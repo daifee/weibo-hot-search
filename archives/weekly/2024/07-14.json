@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721403322569,
+  "endTime": 1721406291189,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1949139,
-      "num": 444695,
+      "num": 466061,
       "word": "厦大通报学生辱骂孕妇",
       "onboard_time": 1721400621,
       "rank": 13,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 867820,
-      "num": 442666,
+      "num": 464797,
       "word": "朴灿烈 我最喜欢跟你们一起唱歌了",
       "onboard_time": 1721400262,
       "rank": 15,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1721266758,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 599453,
+      "num": 599453,
+      "word": "雷军回应董明珠怼小米空调",
+      "onboard_time": 1721401941,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 598515,
@@ -3969,6 +3977,14 @@
       "onboard_time": 1721025739,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448050,
+      "num": 271560,
+      "word": "当你早睡一次你的器官belike",
+      "onboard_time": 1721399782,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 447826,
@@ -5587,14 +5603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322923,
-      "num": 322923,
-      "word": "雷军回应董明珠怼小米空调",
-      "onboard_time": 1721401941,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 322836,
       "num": 322836,
       "word": "中方关注特朗普前总统遭遇枪击事件",
@@ -6529,14 +6537,6 @@
       "onboard_time": 1720929200,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271560,
-      "num": 271560,
-      "word": "当你早睡一次你的器官belike",
-      "onboard_time": 1721399782,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 270489,
@@ -7923,6 +7923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 216153,
+      "num": 193894,
+      "word": "小夭大婚vs阿念大婚",
+      "onboard_time": 1721403501,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216149,
       "num": 216149,
       "word": "于文文 乘风给了自己全新体验",
@@ -8129,6 +8137,14 @@
       "onboard_time": 1721308820,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211443,
+      "num": 193720,
+      "word": "朴灿烈新发色",
+      "onboard_time": 1721405180,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 211345,
@@ -10403,6 +10419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "汪苏泷电话读热搜",
+      "onboard_time": 1721403620,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177276,
       "num": 177276,
       "word": "好久没见过这么干净的特效了",
@@ -11611,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158528,
+      "num": 158528,
+      "word": "欧阳娜娜读恶评",
+      "onboard_time": 1721403798,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158474,
       "num": 158474,
       "word": "阿尔卡拉斯温网两连冠",
@@ -11857,6 +11889,14 @@
       "onboard_time": 1721215518,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154831,
+      "num": 154831,
+      "word": "印度男子体内藏1公斤黄金坐飞机",
+      "onboard_time": 1721405418,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154790,
@@ -15371,12 +15411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93468,
+      "num": 178889,
+      "word": "美国政府监视巴西总统超50年",
+      "onboard_time": 1721401463,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 93305,
       "num": 121742,
       "word": "丁俊晖3比6奥沙利文",
       "onboard_time": 1721313197,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92828,
+      "num": 154366,
+      "word": "温附一",
+      "onboard_time": 1721404459,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 92562,
@@ -16089,6 +16145,14 @@
       "onboard_time": 1721195059,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67891,
+      "num": 154337,
+      "word": "微软技术故障影响多个国家",
+      "onboard_time": 1721406199,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 67541,
@@ -17577,6 +17641,14 @@
       "onboard_time": 1721276539,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27228,
+      "num": 466483,
+      "word": "张雨霏希望是一届快乐的奥运会",
+      "onboard_time": 1721404880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 27103,
