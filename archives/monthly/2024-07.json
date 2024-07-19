@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721396060824,
+  "endTime": 1721398772425,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 5594824,
+      "num": 1417991,
+      "word": "张钰琪中指切特写",
+      "onboard_time": 1721395401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -139,6 +147,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 3781737,
+      "num": 3781737,
+      "word": "海来阿木 好听",
+      "onboard_time": 1721396782,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3669505,
+      "num": 1321597,
+      "word": "张钰琪回应中指",
+      "onboard_time": 1721395582,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3610622,
       "num": 3721245,
       "word": "枪声响起特朗普撤离演讲台",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 3520625,
-      "num": 757966,
+      "num": 1028110,
       "word": "郑佩佩女儿发文",
       "onboard_time": 1721374880,
       "rank": 3,
@@ -195,14 +219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3234599,
-      "num": 1417991,
-      "word": "张钰琪中指切特写",
-      "onboard_time": 1721395401,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3230524,
       "num": 3230524,
       "word": "特朗普右耳有血迹",
@@ -219,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3202703,
+      "num": 3202703,
+      "word": "黄宣无代餐",
+      "onboard_time": 1721397623,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3031333,
       "num": 318834,
       "word": "刘涛",
       "onboard_time": 1721354665,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3016886,
+      "num": 1034928,
+      "word": "黄宣淘汰",
+      "onboard_time": 1721397922,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2841896,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 1959204,
-      "num": 681421,
+      "num": 1022762,
       "word": "特朗普亲吻刺杀案遇难者遗物",
       "onboard_time": 1721391439,
       "rank": 12,
@@ -715,14 +747,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1851410,
-      "num": 1321597,
-      "word": "张钰琪回应中指",
-      "onboard_time": 1721395582,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1850589,
       "num": 1850589,
       "word": "小米之家 雪糕",
@@ -881,6 +905,14 @@
       "onboard_time": 1720878860,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1722898,
+      "num": 1026924,
+      "word": "黄宣加了Hey Jude",
+      "onboard_time": 1721397262,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1713718,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1721000837,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1456286,
+      "num": 1456286,
+      "word": "雷军演讲",
+      "onboard_time": 1721396421,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 1455440,
@@ -3091,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036857,
+      "num": 1474105,
+      "word": "小米发布会",
+      "onboard_time": 1721386399,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1035890,
       "num": 460007,
       "word": "郑爽张恒公司连续3年经营异常",
@@ -3219,6 +3267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1011298,
+      "num": 1011298,
+      "word": "袁娅维第五次被歌手淘汰",
+      "onboard_time": 1721395582,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008707,
       "num": 1008707,
       "word": "上海迪士尼回应暑期门票飙至719元",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1720852817,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1004517,
-      "num": 1474105,
-      "word": "小米发布会",
-      "onboard_time": 1721386399,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 1004339,
@@ -5467,14 +5515,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 762452,
-      "num": 435613,
-      "word": "袁娅维第五次被歌手淘汰",
-      "onboard_time": 1721395582,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 760721,
       "num": 376537,
       "word": "时代少年团方已报警",
@@ -5748,7 +5788,7 @@
     },
     {
       "raw_hot": 737674,
-      "num": 737674,
+      "num": 1032243,
       "word": "韩国队奥运没带空调发冰坎肩",
       "onboard_time": 1721391320,
       "rank": 17,
@@ -6212,7 +6252,7 @@
     },
     {
       "raw_hot": 699741,
-      "num": 699741,
+      "num": 1017649,
       "word": "酒店一间房到底能住几人",
       "onboard_time": 1721386819,
       "rank": 9,
@@ -6404,7 +6444,7 @@
     },
     {
       "raw_hot": 684266,
-      "num": 435468,
+      "num": 524111,
       "word": "小米汽车",
       "onboard_time": 1721389159,
       "rank": 21,
@@ -9228,7 +9268,7 @@
     },
     {
       "raw_hot": 543580,
-      "num": 433524,
+      "num": 449199,
       "word": "朴灿烈陈卓璇合唱StayWithMe",
       "onboard_time": 1721395522,
       "rank": 24,
@@ -9712,6 +9752,14 @@
       "word": "汪苏泷说歌手是一场舆论的狂欢",
       "onboard_time": 1719825619,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 524418,
+      "num": 524418,
+      "word": "中餐厅",
+      "onboard_time": 1719997759,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -12563,6 +12611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 437993,
+      "num": 1019804,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 437649,
       "num": 335581,
       "word": "拜登发布声明",
@@ -12612,7 +12668,7 @@
     },
     {
       "raw_hot": 436968,
-      "num": 436968,
+      "num": 1015912,
       "word": "北京冰雹",
       "onboard_time": 1721393601,
       "rank": 19,
@@ -13283,6 +13339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419431,
+      "num": 419431,
+      "word": "那英挂电话",
+      "onboard_time": 1721395401,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419264,
       "num": 273104,
       "word": "为什么有的人睡觉爱举双手",
@@ -13393,6 +13457,14 @@
       "onboard_time": 1720771218,
       "rank": 41,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 415339,
+      "num": 415339,
+      "word": "朴宝英获青龙视后",
+      "onboard_time": 1721397382,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 415127,
@@ -13825,6 +13897,14 @@
       "onboard_time": 1720023616,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402129,
+      "num": 415745,
+      "word": "雷军漂移",
+      "onboard_time": 1721397082,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 401968,
@@ -14635,14 +14715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 381656,
-      "num": 381656,
-      "word": "那英挂电话",
-      "onboard_time": 1721395401,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381429,
       "num": 331585,
       "word": "长相思2疯人院vs幼儿园",
@@ -14705,6 +14777,14 @@
       "onboard_time": 1720277778,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378869,
+      "num": 378869,
+      "word": "朴灿烈春夏秋冬中文版",
+      "onboard_time": 1721394021,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 378807,
@@ -15017,6 +15097,14 @@
       "onboard_time": 1721015119,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372344,
+      "num": 372344,
+      "word": "李昊 你离开了我的夏天",
+      "onboard_time": 1721395342,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 372199,
@@ -16939,14 +17027,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 327196,
-      "num": 327196,
-      "word": "朴灿烈春夏秋冬中文版",
-      "onboard_time": 1721394021,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 327000,
       "num": 327000,
       "word": "田曦薇被难哭了",
@@ -17961,14 +18041,6 @@
       "onboard_time": 1719919638,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305383,
-      "num": 223048,
-      "word": "李昊 你离开了我的夏天",
-      "onboard_time": 1721395342,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 305363,
@@ -20017,14 +20089,6 @@
       "onboard_time": 1720082657,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 265253,
-      "num": 265253,
-      "word": "中餐厅",
-      "onboard_time": 1719997759,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 265023,
@@ -22465,6 +22529,14 @@
       "onboard_time": 1720840276,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230804,
+      "num": 230804,
+      "word": "李晟",
+      "onboard_time": 1721398641,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 230784,
@@ -27843,6 +27915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193429,
+      "num": 1015474,
+      "word": "小米折叠",
+      "onboard_time": 1721395342,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193404,
       "num": 193404,
       "word": "国漫界意难平又来了",
@@ -28153,14 +28233,6 @@
       "onboard_time": 1720510278,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191718,
-      "num": 191718,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 191655,
@@ -29073,14 +29145,6 @@
       "onboard_time": 1719990917,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 187896,
-      "num": 187896,
-      "word": "小米折叠",
-      "onboard_time": 1721395342,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 187872,
@@ -30963,6 +31027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176967,
+      "num": 176967,
+      "word": "无期迷途直播",
+      "onboard_time": 1721397203,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176909,
       "num": 176909,
       "word": "周深贵阳演唱会设未成年人联络卡",
@@ -32521,6 +32593,14 @@
       "onboard_time": 1720155800,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168529,
+      "num": 168529,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 168527,
@@ -35073,6 +35153,14 @@
       "onboard_time": 1720939523,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155270,
+      "num": 155270,
+      "word": "TTG零封eStar",
+      "onboard_time": 1721398162,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 155245,
@@ -39425,6 +39513,14 @@
       "onboard_time": 1721178560,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134718,
+      "num": 172439,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134712,
@@ -45339,6 +45435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107543,
+      "num": 1029517,
+      "word": "原来叶若依这长相是随妈了",
+      "onboard_time": 1721398041,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "中国大陆男单温网正赛首胜",
@@ -47692,7 +47796,7 @@
     },
     {
       "raw_hot": 88950,
-      "num": 1333304,
+      "num": 1513077,
       "word": "二十届三中全会公报速读",
       "onboard_time": 1721394141,
       "rank": 2,
@@ -48689,6 +48793,14 @@
       "onboard_time": 1720804576,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75519,
+      "num": 793401,
+      "word": "大熊猫徽章在奥运村深受欢迎",
+      "onboard_time": 1721396301,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 75509,
@@ -51051,6 +51163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51345,
+      "num": 1032504,
+      "word": "我国成功研制太阳能动力微型飞行器",
+      "onboard_time": 1721393901,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51300,
       "num": 202741,
       "word": "买手机你考虑屏幕护眼吗",
@@ -51248,14 +51368,6 @@
       "word": "三轮车欲逃逸蛋糕店老板大吼拦下",
       "onboard_time": 1720169238,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49491,
-      "num": 678760,
-      "word": "我国成功研制太阳能动力微型飞行器",
-      "onboard_time": 1721393901,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -52563,6 +52675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38744,
+      "num": 506417,
+      "word": "极氪009安全超满分",
+      "onboard_time": 1721397982,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38725,
       "num": 273140,
       "word": "深圳大学最好的招生简章",
@@ -52659,6 +52779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37205,
+      "num": 803564,
+      "word": "孙颖莎说第二次奥运继续全力以赴",
+      "onboard_time": 1721390059,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37093,
       "num": 171455,
       "word": "花花的玻璃房生活来了",
@@ -52673,6 +52801,14 @@
       "onboard_time": 1720004958,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37037,
+      "num": 421819,
+      "word": "没白等小米MIXFlip三年",
+      "onboard_time": 1721398460,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 36977,
@@ -53225,6 +53361,14 @@
       "onboard_time": 1721191820,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31885,
+      "num": 417132,
+      "word": "一台有驾驶乐趣的MPV",
+      "onboard_time": 1721397982,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 31874,
@@ -54104,14 +54248,6 @@
       "word": "欧洲杯半决赛里的小孩哥好猛",
       "onboard_time": 1720642931,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 25223,
-      "num": 489083,
-      "word": "孙颖莎说第二次奥运继续全力以赴",
-      "onboard_time": 1721390059,
-      "rank": 17,
       "category": "体育"
     },
     {

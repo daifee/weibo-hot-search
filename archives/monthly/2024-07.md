@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 21:34:20
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 22:19:32
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E4%B8%AD%E6%8C%87%E5%88%87%E7%89%B9%E5%86%99%23" target="weibo">
+张钰琪中指切特写（热度：5594824）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 阮富仲去世（热度：4126542）
 </a>
@@ -113,6 +119,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%23" target="weibo">
 网传宗馥莉辞职（热度：3791381）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20%E5%A5%BD%E5%90%AC%23" target="weibo">
+海来阿木 好听（热度：3781737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%8C%87%23" target="weibo">
+张钰琪回应中指（热度：3669505）
 </a>
 </li>
 
@@ -159,12 +177,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E4%B8%AD%E6%8C%87%E5%88%87%E7%89%B9%E5%86%99%23" target="weibo">
-张钰琪中指切特写（热度：3234599）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E8%80%B3%E6%9C%89%E8%A1%80%E8%BF%B9%23" target="weibo">
 特朗普右耳有血迹（热度：3230524）
 </a>
@@ -177,8 +189,20 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%97%A0%E4%BB%A3%E9%A4%90%23" target="weibo">
+黄宣无代餐（热度：3202703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%23" target="weibo">
 刘涛（热度：3031333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
+黄宣淘汰（热度：3016886）
 </a>
 </li>
 
@@ -549,12 +573,6 @@ Jennie方承认吸烟并道歉（热度：1919980）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%8C%87%23" target="weibo">
-张钰琪回应中指（热度：1851410）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%AE%B6%20%E9%9B%AA%E7%B3%95%23" target="weibo">
 小米之家 雪糕（热度：1850589）
 </a>
@@ -671,6 +689,12 @@ TES（热度：1771255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%23" target="weibo">
 茶百道（热度：1725680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%8A%A0%E4%BA%86Hey%20Jude%23" target="weibo">
+黄宣加了Hey Jude（热度：1722898）
 </a>
 </li>
 
@@ -1097,6 +1121,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%85%A7%E7%89%87%23" target="weibo">
 特朗普照片（热度：1463137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%BC%94%E8%AE%B2%23" target="weibo">
+雷军演讲（热度：1456286）
 </a>
 </li>
 
@@ -2331,6 +2361,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+小米发布会（热度：1036857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E5%BC%A0%E6%81%92%E5%85%AC%E5%8F%B8%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%8F%E8%90%A5%E5%BC%82%E5%B8%B8%23" target="weibo">
 郑爽张恒公司连续3年经营异常（热度：1035890）
 </a>
@@ -2427,6 +2463,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%A2%AB%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23" target="weibo">
+袁娅维第五次被歌手淘汰（热度：1011298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
 </a>
@@ -2447,12 +2489,6 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E7%99%BE%E4%B8%87%E4%BA%BA%E5%9B%A0%E5%BC%B9%E7%8F%A0%E5%BA%97%E7%A0%B4%E4%BA%A7%23" target="weibo">
 日本近百万人因弹珠店破产（热度：1004682）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-小米发布会（热度：1004517）
 </a>
 </li>
 
@@ -4109,12 +4145,6 @@ T1夺冠（热度：781234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E7%94%B147%E6%94%B9%E4%B8%BA85%23" target="weibo">
 哈理工回应考生笔试成绩由47改为85（热度：762639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%A2%AB%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23" target="weibo">
-袁娅维第五次被歌手淘汰（热度：762452）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ BOSS直聘崩了（热度：596885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E5%85%B1%E5%92%8C%E5%85%9A%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A%23" target="weibo">
 特朗普出席共和党全国大会（热度：594954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%92%9E%E8%A1%AB%E4%BA%86%23" target="weibo">
-白鹿张予曦撞衫了（热度：594787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E6%9B%9DYG%E8%AF%B7%E8%AE%B0%E8%80%85%E5%86%99Jennie%E8%B4%9F%E9%9D%A2%E6%96%B0%E9%97%BB%23" target="weibo">
-韩网曝YG请记者写Jennie负面新闻（热度：594597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E4%BA%8C%E6%90%AD%23" target="weibo">
-赵今麦张凌赫 二搭（热度：593393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E4%B8%BA%E8%8A%B1%E8%8A%B1%E5%92%8C%E5%8F%B6%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%23" target="weibo">
-谭爷爷为花花和叶做生日蛋糕（热度：593117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E7%BB%9D%E6%9F%A5%E7%A5%A8%E9%A3%99%E8%8B%B1%E6%96%87%E9%AA%82%E5%93%AD%E4%B9%98%E5%8A%A1%E5%91%98%23" target="weibo">
-女子高铁上拒绝查票飙英文骂哭乘务员（热度：593012）
 </a>
 </li>
 
