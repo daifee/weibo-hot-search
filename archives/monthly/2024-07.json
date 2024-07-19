@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721392586450,
+  "endTime": 1721393504893,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -145,6 +145,14 @@
       "onboard_time": 1720911913,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3606425,
+      "num": 1298562,
+      "word": "张钰琪比中指",
+      "onboard_time": 1721392460,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 3594600,
@@ -529,6 +537,14 @@
       "onboard_time": 1720253597,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1959204,
+      "num": 681421,
+      "word": "特朗普亲吻刺杀案遇难者遗物",
+      "onboard_time": 1721391439,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1955779,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1720245678,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1025715,
-      "num": 681421,
-      "word": "特朗普亲吻刺杀案遇难者遗物",
-      "onboard_time": 1721391439,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1022787,
@@ -6347,6 +6355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684266,
+      "num": 365470,
+      "word": "小米汽车",
+      "onboard_time": 1721389159,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 683432,
       "num": 493821,
       "word": "刘亦菲被认成黄圣依",
@@ -7105,14 +7121,6 @@
       "onboard_time": 1721199678,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632839,
-      "num": 365470,
-      "word": "小米汽车",
-      "onboard_time": 1721389159,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 632746,
@@ -8609,6 +8617,14 @@
       "onboard_time": 1720086918,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566079,
+      "num": 566079,
+      "word": "韩国队奥运没带空调发冰坎肩",
+      "onboard_time": 1721391320,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 565717,
@@ -10153,6 +10169,14 @@
       "onboard_time": 1720409779,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 503047,
+      "num": 293398,
+      "word": "谭松韵克莱因蓝裙",
+      "onboard_time": 1721392159,
+      "rank": 24,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 503036,
@@ -13627,6 +13651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404532,
+      "num": 289163,
+      "word": "许钧淘汰",
+      "onboard_time": 1721393181,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404513,
       "num": 404513,
       "word": "张凌赫硬帅",
@@ -13937,6 +13969,14 @@
       "onboard_time": 1720702339,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396927,
+      "num": 280970,
+      "word": "许钧编曲",
+      "onboard_time": 1721392941,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 396909,
@@ -14923,14 +14963,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 370654,
-      "num": 370654,
-      "word": "韩国队奥运没带空调发冰坎肩",
-      "onboard_time": 1721391320,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370217,
       "num": 370217,
       "word": "伯远确诊AUP型人格",
@@ -15121,6 +15153,14 @@
       "onboard_time": 1721201178,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 364901,
+      "num": 364901,
+      "word": "教体局回应查成绩需下载app充会员",
+      "onboard_time": 1721390180,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 364645,
@@ -17867,6 +17907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303898,
+      "num": 370484,
+      "word": "星穹铁道FateUBW联动",
+      "onboard_time": 1721391920,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303678,
       "num": 303678,
       "word": "严浩翔 耍帅吗我超会",
@@ -18651,14 +18699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288389,
-      "num": 288389,
-      "word": "谭松韵克莱因蓝裙",
-      "onboard_time": 1721392159,
-      "rank": 24,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 288327,
       "num": 288327,
       "word": "工作室分享赵丽颖的休憩时光",
@@ -18857,6 +18897,14 @@
       "onboard_time": 1719920178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285406,
+      "num": 285406,
+      "word": "薛之谦演唱会大雨",
+      "onboard_time": 1721392881,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 285373,
@@ -19755,6 +19803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267704,
+      "num": 267704,
+      "word": "许晴悼念郑佩佩",
+      "onboard_time": 1721393242,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267272,
       "num": 257226,
       "word": "仅半句就封神的千古名句",
@@ -20353,14 +20409,6 @@
       "onboard_time": 1719890000,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256519,
-      "num": 370484,
-      "word": "星穹铁道FateUBW联动",
-      "onboard_time": 1721391920,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 256432,
@@ -23531,12 +23579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216819,
-      "num": 216819,
-      "word": "张钰琪比中指",
-      "onboard_time": 1721392460,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 216790,
+      "num": 216790,
+      "word": "薛之谦 王源",
+      "onboard_time": 1721393421,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 216751,
@@ -24320,6 +24368,14 @@
       "word": "成毅把莲花当麦克风",
       "onboard_time": 1720416379,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210450,
+      "num": 210450,
+      "word": "杨丞琳没有单人机位",
+      "onboard_time": 1721392761,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -29195,6 +29251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185730,
+      "num": 299166,
+      "word": "小米MIXFold4",
+      "onboard_time": 1721393242,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185645,
       "num": 185645,
       "word": "肖宇梁饰演光绪",
@@ -29417,6 +29481,14 @@
       "onboard_time": 1721294060,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184477,
+      "num": 184477,
+      "word": "AI杨丞琳",
+      "onboard_time": 1721393062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 184432,
@@ -30497,6 +30569,14 @@
       "onboard_time": 1721124139,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178077,
+      "num": 178077,
+      "word": "王源郑州抢票",
+      "onboard_time": 1721389940,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 178076,
@@ -37579,14 +37659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142132,
-      "num": 186618,
-      "word": "教体局回应查成绩需下载app充会员",
-      "onboard_time": 1721390180,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "otto开团mlxg",
@@ -38481,14 +38553,6 @@
       "onboard_time": 1720926319,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 138308,
-      "num": 138308,
-      "word": "王源郑州抢票",
-      "onboard_time": 1721389940,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 138190,
@@ -40809,6 +40873,14 @@
       "onboard_time": 1720681459,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "星穹铁道2.4版本前瞻",
+      "onboard_time": 1721392581,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 127963,
@@ -43836,7 +43908,7 @@
     },
     {
       "raw_hot": 113675,
-      "num": 415752,
+      "num": 565478,
       "word": "潘展乐说国家给机会就好好发挥",
       "onboard_time": 1721391739,
       "rank": 16,
@@ -43977,6 +44049,14 @@
       "onboard_time": 1720100778,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113078,
+      "num": 186996,
+      "word": "胡塞武装宣布对特拉维夫爆炸负责",
+      "onboard_time": 1721390420,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 113064,
@@ -45633,14 +45713,6 @@
       "onboard_time": 1720329317,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104308,
-      "num": 186996,
-      "word": "胡塞武装宣布对特拉维夫爆炸负责",
-      "onboard_time": 1721390420,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 104242,
@@ -50643,6 +50715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52688,
+      "num": 285810,
+      "word": "全新极氪009全球上市",
+      "onboard_time": 1721392460,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52679,
       "num": 940899,
       "word": "全面深改进行时",
@@ -50881,14 +50961,6 @@
       "onboard_time": 1721035339,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50370,
-      "num": 155935,
-      "word": "全新极氪009全球上市",
-      "onboard_time": 1721392460,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 50349,

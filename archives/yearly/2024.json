@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721392586450,
+  "endTime": 1721393504893,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2091,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3606425,
+      "num": 1298562,
+      "word": "张钰琪比中指",
+      "onboard_time": 1721392460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3599833,
       "num": 3599833,
       "word": "曝郑爽47分钟录音",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1716123739,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 3347213,
-      "num": 1663571,
-      "word": "你的核酸检测费退了吗",
-      "onboard_time": 1716257722,
-      "rank": 11,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
