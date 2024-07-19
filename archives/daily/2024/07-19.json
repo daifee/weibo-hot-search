@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721357246038,
+  "endTime": 1721359472918,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -59,6 +59,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314262,
+      "num": 315416,
+      "word": "宗庆后胞弟宗泽后发声",
+      "onboard_time": 1721357723,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1123060,
+      "num": 303167,
+      "word": "花少1",
+      "onboard_time": 1721358923,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1034659,
       "num": 4173581,
       "word": "中共中央举行新闻发布会",
@@ -83,6 +99,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 746851,
+      "num": 440263,
+      "word": "沈月因为妈妈不接电话哭了",
+      "onboard_time": 1721358262,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 683070,
+      "num": 301042,
+      "word": "郑佩佩曾称去世会捐赠器官",
+      "onboard_time": 1721357842,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 676620,
       "num": 347230,
       "word": "吴艳妮巴黎奥运官网证件照",
@@ -99,12 +131,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641503,
+      "num": 293603,
+      "word": "郑佩佩最后一部作品",
+      "onboard_time": 1721358262,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 596880,
+      "num": 2960452,
+      "word": "男子33万买到旧宝马获退1赔3",
+      "onboard_time": 1721355325,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588263,
+      "num": 389360,
+      "word": "美媒曝拜登或在本周末决定退出大选",
+      "onboard_time": 1721353044,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 559567,
       "num": 907048,
       "word": "涂山璟下线",
       "onboard_time": 1721301197,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531705,
+      "num": 293474,
+      "word": "BLACKPINK将8月合体签售",
+      "onboard_time": 1721358803,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 499359,
@@ -147,6 +211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 402818,
+      "num": 293295,
+      "word": "灵儿姥姥真的走了",
+      "onboard_time": 1721358742,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392834,
       "num": 392834,
       "word": "瓶装饮用水跌破7毛大关",
@@ -155,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389360,
-      "num": 389360,
-      "word": "美媒曝拜登或在本周末决定退出大选",
-      "onboard_time": 1721353044,
-      "rank": 6,
-      "category": "国外时政"
+      "raw_hot": 376343,
+      "num": 293226,
+      "word": "喝隔夜水会致癌吗",
+      "onboard_time": 1721356045,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 375322,
@@ -169,6 +241,14 @@
       "onboard_time": 1721347878,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 356976,
+      "num": 307622,
+      "word": "宋茜将录制花少6",
+      "onboard_time": 1721356285,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 353942,
@@ -187,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331411,
-      "num": 331411,
-      "word": "男子33万买到旧宝马获退1赔3",
-      "onboard_time": 1721355325,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325489,
       "num": 325489,
       "word": "巴西歌手疑因粉丝衣服湿透触电身亡",
@@ -203,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312874,
-      "num": 289478,
-      "word": "宋茜将录制花少6",
-      "onboard_time": 1721356285,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 320756,
+      "num": 293142,
+      "word": "吴磊问了一个大家都想问的问题",
+      "onboard_time": 1721356045,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311677,
@@ -219,12 +291,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 286378,
-      "num": 286378,
-      "word": "吴磊问了一个大家都想问的问题",
-      "onboard_time": 1721356045,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 293850,
+      "num": 293850,
+      "word": "特朗普正式成为美国共和党总统候选人",
+      "onboard_time": 1721359043,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 293086,
+      "num": 293086,
+      "word": "女子吞服502后残留物堪比一次性竹筷",
+      "onboard_time": 1721357605,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288221,
+      "num": 288221,
+      "word": "邓为涂山璟下线拍了三天",
+      "onboard_time": 1721356225,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 273128,
@@ -233,14 +321,6 @@
       "onboard_time": 1721301078,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268778,
-      "num": 268778,
-      "word": "喝隔夜水会致癌吗",
-      "onboard_time": 1721356045,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 257759,
@@ -283,20 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248535,
-      "num": 248535,
-      "word": "邓为涂山璟下线拍了三天",
-      "onboard_time": 1721356225,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248232,
       "num": 166218,
       "word": "木村拓哉和女儿遛狗",
       "onboard_time": 1721318177,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245140,
+      "num": 245140,
+      "word": "发现结婚和恋爱真的是两码事",
+      "onboard_time": 1721355505,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 231789,
@@ -339,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210151,
+      "num": 210151,
+      "word": "原来真的有人没有脚脖子",
+      "onboard_time": 1721356945,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "加沙小兔子衣服女童惊恐睁大眼睛",
@@ -353,14 +441,6 @@
       "onboard_time": 1721355084,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203361,
-      "num": 203361,
-      "word": "发现结婚和恋爱真的是两码事",
-      "onboard_time": 1721355505,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 203195,
@@ -403,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 196926,
+      "num": 196926,
+      "word": "这段话彻底杀死了我的焦虑",
+      "onboard_time": 1721357243,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196622,
       "num": 196622,
       "word": "一个面包35元高价烘焙卷土重来",
@@ -411,12 +499,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196483,
+      "num": 196483,
+      "word": "唐伯虎点秋香",
+      "onboard_time": 1721359043,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195949,
+      "num": 195949,
+      "word": "花少1最好的大姐",
+      "onboard_time": 1721357483,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194272,
       "num": 194272,
       "word": "三中全会公报",
       "onboard_time": 1721292019,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193112,
+      "num": 193112,
+      "word": "单依纯新歌",
+      "onboard_time": 1721358561,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 192794,
+      "num": 192794,
+      "word": "刘涛说郑佩佩是她永远的知己妈妈",
+      "onboard_time": 1721359295,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 191524,
@@ -539,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131248,
+      "num": 371397,
+      "word": "进一步全面深化改革提出300多项举措",
+      "onboard_time": 1721355565,
+      "rank": 8,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 128624,
       "num": 128624,
       "word": "因为爷爷的一个朋友圈在宿舍爆哭",
@@ -601,14 +729,6 @@
       "onboard_time": 1721334910,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 103175,
-      "num": 371397,
-      "word": "进一步全面深化改革提出300多项举措",
-      "onboard_time": 1721355565,
-      "rank": 8,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 101348,
@@ -721,6 +841,22 @@
       "onboard_time": 1721294119,
       "rank": 19,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 84243,
+      "num": 293321,
+      "word": "支持有能力民企牵头国家重大技术攻关",
+      "onboard_time": 1721357423,
+      "rank": 26,
+      "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 82848,
+      "num": 293675,
+      "word": "11岁烘焙小孩姐摆摊一天卖500元",
+      "onboard_time": 1721359295,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81786,
@@ -873,6 +1009,14 @@
       "onboard_time": 1721321355,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36645,
+      "num": 305049,
+      "word": "我驻菲使馆回应中国公民被扣押",
+      "onboard_time": 1721358621,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32553,
