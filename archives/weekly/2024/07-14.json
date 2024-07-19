@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721402535803,
+  "endTime": 1721403322569,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5012056,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4693372,
       "num": 4693372,
       "word": "黄宣淘汰",
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4552373,
-      "num": 561493,
-      "word": "温州一医生工作时被砍伤正抢救",
-      "onboard_time": 1721398520,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -129,6 +129,14 @@
       "onboard_time": 1721272937,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3675658,
+      "num": 3675658,
+      "word": "李晟医生",
+      "onboard_time": 1721398641,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3669505,
@@ -267,14 +275,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2429337,
-      "num": 2429337,
-      "word": "李晟医生",
-      "onboard_time": 1721398641,
-      "rank": 1,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 2267110,
       "num": 864782,
       "word": "特朗普或因侧头看图表救回一命",
@@ -321,6 +321,14 @@
       "onboard_time": 1721391439,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1949139,
+      "num": 444695,
+      "word": "厦大通报学生辱骂孕妇",
+      "onboard_time": 1721400621,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1936512,
@@ -705,14 +713,6 @@
       "onboard_time": 1720965921,
       "rank": 6,
       "category": "国外时政,体育"
-    },
-    {
-      "raw_hot": 1390867,
-      "num": 444695,
-      "word": "厦大通报学生辱骂孕妇",
-      "onboard_time": 1721400621,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1382945,
@@ -1995,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 731524,
+      "num": 440792,
+      "word": "温州医科大学",
+      "onboard_time": 1721399061,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 731198,
       "num": 731198,
       "word": "这3个体检项目其实是浪费钱",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1720937843,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 650933,
-      "num": 440792,
-      "word": "温州医科大学",
-      "onboard_time": 1721399061,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 647942,
@@ -5587,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322923,
+      "num": 322923,
+      "word": "雷军回应董明珠怼小米空调",
+      "onboard_time": 1721401941,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 322836,
       "num": 322836,
       "word": "中方关注特朗普前总统遭遇枪击事件",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1721357605,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293003,
-      "num": 293003,
-      "word": "雷军回应董明珠怼小米空调",
-      "onboard_time": 1721401941,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 292694,
@@ -6529,6 +6529,14 @@
       "onboard_time": 1720929200,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271560,
+      "num": 271560,
+      "word": "当你早睡一次你的器官belike",
+      "onboard_time": 1721399782,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 270489,
@@ -7683,14 +7691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222674,
-      "num": 222674,
-      "word": "当你早睡一次你的器官belike",
-      "onboard_time": 1721399782,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222663,
       "num": 222663,
       "word": "菲常萧张",
@@ -8609,6 +8609,14 @@
       "onboard_time": 1721038217,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203234,
+      "num": 203234,
+      "word": "蔡依林uglybeauty演唱会",
+      "onboard_time": 1721403141,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 203195,
@@ -16035,6 +16043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69102,
+      "num": 427459,
+      "word": "身体和灵魂总有一个在工位上",
+      "onboard_time": 1721401041,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68716,
       "num": 392591,
       "word": "陕师大连续18年手写新生录取通知书",
@@ -17211,12 +17227,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38761,
-      "num": 427459,
-      "word": "身体和灵魂总有一个在工位上",
-      "onboard_time": 1721401041,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 38694,
+      "num": 436555,
+      "word": "全新极氪009保姆车天花板",
+      "onboard_time": 1721400561,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 37937,
@@ -17443,20 +17459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30857,
-      "num": 436555,
-      "word": "全新极氪009保姆车天花板",
-      "onboard_time": 1721400561,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 30399,
       "num": 305575,
       "word": "72场深改会读懂中国变的逻辑",
       "onboard_time": 1721056877,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30273,
+      "num": 360294,
+      "word": "女子雨中把伞给老人自己却全身淋湿",
+      "onboard_time": 1721403020,
+      "rank": 12,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 30070,

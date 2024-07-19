@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/19 23:22:15
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/19 23:35:22
 </p>
 </blockquote>
 <p>
@@ -1071,6 +1071,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：5012056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%20%E4%B8%8D%E9%9D%A0%E4%BB%BB%E4%BD%95%E5%A6%86%E9%80%A0%E7%9A%84%E7%88%86%E6%94%B9%23" target="weibo">
 贾玲 不靠任何妆造的爆改（热度：4950704）
 </a>
@@ -1157,12 +1163,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E9%A3%9E%E6%9C%BA%E6%9C%BA%E5%9C%BA%E8%B7%91%E9%81%93%E8%B5%B7%E7%81%AB%23" target="weibo">
 日本一飞机机场跑道起火（热度：4566409）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
-温州一医生工作时被砍伤正抢救（热度：4552373）
 </a>
 </li>
 
@@ -1545,6 +1545,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
+李晟医生（热度：3675658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E7%94%9F%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E8%A2%AB%E9%80%81%E8%87%B3%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%23" target="weibo">
 13岁男生猥亵女生被送至专门学校（热度：3675645）
 </a>
@@ -1805,12 +1811,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E9%83%BD%E5%9C%A8%E4%BA%8B%E6%95%85%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B8%8A%23" target="weibo">
 伊朗总统外交部长都在事故直升机上（热度：3395646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%AE%B6%E8%A2%AB%E5%81%B7%E7%A9%BA%23" target="weibo">
-刘雨欣家被偷空（热度：3367948）
 </a>
 </li>
 

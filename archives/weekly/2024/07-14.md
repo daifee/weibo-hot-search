@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/19 23:22:15
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/19 23:35:22
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：5012056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
 黄宣淘汰（热度：4693372）
 </a>
@@ -93,12 +99,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
-温州一医生工作时被砍伤正抢救（热度：4552373）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 阮富仲去世（热度：4126542）
 </a>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%23" target="weibo">
 网传宗馥莉辞职（热度：3791381）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
+李晟医生（热度：3675658）
 </a>
 </li>
 
@@ -213,12 +219,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
-李晟医生（热度：2429337）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E4%BE%A7%E5%A4%B4%E7%9C%8B%E5%9B%BE%E8%A1%A8%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD%23" target="weibo">
 特朗普或因侧头看图表救回一命（热度：2267110）
 </a>
@@ -251,6 +251,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%88%BA%E6%9D%80%E6%A1%88%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E7%89%A9%23" target="weibo">
 特朗普亲吻刺杀案遇难者遗物（热度：1959204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
+厦大通报学生辱骂孕妇（热度：1949139）
 </a>
 </li>
 
@@ -539,12 +545,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E4%BA%AE%E7%9B%B8%E6%B8%A9%E7%BD%91%23" target="weibo">
 凯特王妃亮相温网（热度：1404142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
-厦大通报学生辱骂孕妇（热度：1390867）
 </a>
 </li>
 
@@ -1509,6 +1509,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
+温州医科大学（热度：731524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%BD%93%E6%A3%80%E9%A1%B9%E7%9B%AE%E5%85%B6%E5%AE%9E%E6%98%AF%E6%B5%AA%E8%B4%B9%E9%92%B1%23" target="weibo">
 这3个体检项目其实是浪费钱（热度：731198）
 </a>
@@ -1799,12 +1805,6 @@ iPhone17不使用节省空间的主板材料（热度：656083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA%E7%85%A7%E6%8B%8D%E6%91%84%E8%80%85%E6%98%AF%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96%E5%BE%97%E4%B8%BB%23" target="weibo">
 特朗普遇刺照拍摄者是普利策奖得主（热度：652601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
-温州医科大学（热度：650933）
 </a>
 </li>
 
@@ -4203,6 +4203,12 @@ A股（热度：341241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23" target="weibo">
+雷军回应董明珠怼小米空调（热度：322923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%85%B3%E6%B3%A8%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E6%80%BB%E7%BB%9F%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
 中方关注特朗普前总统遭遇枪击事件（热度：322836）
 </a>
@@ -4523,12 +4529,6 @@ YG第二季度营业利润只有157万人民币（热度：293865）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%9E%E6%9C%8D502%E5%90%8E%E6%AE%8B%E7%95%99%E7%89%A9%E5%A0%AA%E6%AF%94%E4%B8%80%E6%AC%A1%E6%80%A7%E7%AB%B9%E7%AD%B7%23" target="weibo">
 女子吞服502后残留物堪比一次性竹筷（热度：293086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23" target="weibo">
-雷军回应董明珠怼小米空调（热度：293003）
 </a>
 </li>
 
@@ -4907,6 +4907,12 @@ BTS和BP参与神偷奶爸4OST（热度：273598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%B0%E5%A9%B4%E5%84%BF%E8%BD%A6%E7%AA%81%E7%84%B6%E6%95%A3%E6%9E%B6%E8%87%B4%E5%AE%9D%E5%AE%9D%E6%91%94%E5%9C%B0%E4%B8%8A%23" target="weibo">
 新买婴儿车突然散架致宝宝摔地上（热度：272501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98belike%23" target="weibo">
+当你早睡一次你的器官belike（热度：271560）
 </a>
 </li>
 
@@ -5775,12 +5781,6 @@ Uzi回应不如JackeyLove（热度：223645）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98belike%23" target="weibo">
-当你早睡一次你的器官belike（热度：222674）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B8%B8%E8%90%A7%E5%BC%A0%23" target="weibo">
 菲常萧张（热度：222663）
 </a>
@@ -6467,6 +6467,12 @@ TheShy找小钰要陪玩费（热度：204031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%B8%88Vic%E6%8B%8D%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 摄影师Vic拍的王一博（热度：203386）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97uglybeauty%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+蔡依林uglybeauty演唱会（热度：203234）
 </a>
 </li>
 
@@ -12039,6 +12045,12 @@ Tian 该祝69生日快乐了（热度：73239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%23" target="weibo">
+身体和灵魂总有一个在工位上（热度：69102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E5%B8%88%E5%A4%A7%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E6%89%8B%E5%86%99%E6%96%B0%E7%94%9F%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23" target="weibo">
 陕师大连续18年手写新生录取通知书（热度：68716）
 </a>
@@ -12921,8 +12933,8 @@ ins爆火双麻花辫（热度：39501）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%23" target="weibo">
-身体和灵魂总有一个在工位上（热度：38761）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E4%BF%9D%E5%A7%86%E8%BD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
+全新极氪009保姆车天花板（热度：38694）
 </a>
 </li>
 
@@ -13095,14 +13107,14 @@ AG对战DRG（热度：31641）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E4%BF%9D%E5%A7%86%E8%BD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-全新极氪009保姆车天花板（热度：30857）
+<a href="https://s.weibo.com/weibo?q=%2372%E5%9C%BA%E6%B7%B1%E6%94%B9%E4%BC%9A%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%8F%98%E7%9A%84%E9%80%BB%E8%BE%91%23" target="weibo">
+72场深改会读懂中国变的逻辑（热度：30399）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2372%E5%9C%BA%E6%B7%B1%E6%94%B9%E4%BC%9A%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%8F%98%E7%9A%84%E9%80%BB%E8%BE%91%23" target="weibo">
-72场深改会读懂中国变的逻辑（热度：30399）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9B%A8%E4%B8%AD%E6%8A%8A%E4%BC%9E%E7%BB%99%E8%80%81%E4%BA%BA%E8%87%AA%E5%B7%B1%E5%8D%B4%E5%85%A8%E8%BA%AB%E6%B7%8B%E6%B9%BF%23" target="weibo">
+女子雨中把伞给老人自己却全身淋湿（热度：30273）
 </a>
 </li>
 

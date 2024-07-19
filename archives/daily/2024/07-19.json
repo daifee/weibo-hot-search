@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721402535803,
+  "endTime": 1721403322569,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5012056,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4693372,
       "num": 4693372,
       "word": "黄宣淘汰",
@@ -67,20 +75,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4552373,
-      "num": 561493,
-      "word": "温州一医生工作时被砍伤正抢救",
-      "onboard_time": 1721398520,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
       "onboard_time": 1721387720,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3675658,
+      "num": 3675658,
+      "word": "李晟医生",
+      "onboard_time": 1721398641,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3669505,
@@ -147,14 +155,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2429337,
-      "num": 2429337,
-      "word": "李晟医生",
-      "onboard_time": 1721398641,
-      "rank": 1,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 2168225,
       "num": 1263186,
       "word": "张翰 想你了佩佩姐",
@@ -169,6 +169,14 @@
       "onboard_time": 1721391439,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1949139,
+      "num": 444695,
+      "word": "厦大通报学生辱骂孕妇",
+      "onboard_time": 1721400621,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1901542,
@@ -289,14 +297,6 @@
       "onboard_time": 1721398641,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1390867,
-      "num": 444695,
-      "word": "厦大通报学生辱骂孕妇",
-      "onboard_time": 1721400621,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1382945,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 731524,
+      "num": 440792,
+      "word": "温州医科大学",
+      "onboard_time": 1721399061,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 726597,
       "num": 726597,
       "word": "一只鸡的死亡带动了六个人的就业",
@@ -657,14 +665,6 @@
       "onboard_time": 1721314579,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650933,
-      "num": 440792,
-      "word": "温州医科大学",
-      "onboard_time": 1721399061,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 647857,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322923,
+      "num": 322923,
+      "word": "雷军回应董明珠怼小米空调",
+      "onboard_time": 1721401941,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 320756,
       "num": 293142,
       "word": "吴磊问了一个大家都想问的问题",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1721357605,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293003,
-      "num": 293003,
-      "word": "雷军回应董明珠怼小米空调",
-      "onboard_time": 1721401941,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 291218,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1721301078,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271560,
+      "num": 271560,
+      "word": "当你早睡一次你的器官belike",
+      "onboard_time": 1721399782,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 270480,
@@ -1483,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222674,
-      "num": 222674,
-      "word": "当你早睡一次你的器官belike",
-      "onboard_time": 1721399782,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221641,
       "num": 221641,
       "word": "华晨宇演唱会前把座位擦干净",
@@ -1664,6 +1664,14 @@
       "word": "陶喆重庆",
       "onboard_time": 1721392040,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 203234,
+      "num": 203234,
+      "word": "蔡依林uglybeauty演唱会",
+      "onboard_time": 1721403141,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -2859,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69102,
+      "num": 427459,
+      "word": "身体和灵魂总有一个在工位上",
+      "onboard_time": 1721401041,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68604,
       "num": 65277,
       "word": "妈妈 这个写书的刘同他还在吗",
@@ -3107,12 +3123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38761,
-      "num": 427459,
-      "word": "身体和灵魂总有一个在工位上",
-      "onboard_time": 1721401041,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 38694,
+      "num": 436555,
+      "word": "全新极氪009保姆车天花板",
+      "onboard_time": 1721400561,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 37205,
@@ -3147,12 +3163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30857,
-      "num": 436555,
-      "word": "全新极氪009保姆车天花板",
-      "onboard_time": 1721400561,
-      "rank": 21,
-      "category": "汽车"
+      "raw_hot": 30273,
+      "num": 360294,
+      "word": "女子雨中把伞给老人自己却全身淋湿",
+      "onboard_time": 1721403020,
+      "rank": 12,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 28967,

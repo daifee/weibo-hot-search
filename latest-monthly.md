@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 23:22:15
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 23:35:22
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：5012056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
 黄宣淘汰（热度：4693372）
 </a>
@@ -113,12 +119,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E6%89%8B%E5%8A%BF%E5%88%87%E7%89%B9%E5%86%99%23" target="weibo">
 张钰琪手势切特写（热度：4682095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
-温州一医生工作时被砍伤正抢救（热度：4552373）
 </a>
 </li>
 
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%23" target="weibo">
 网传宗馥莉辞职（热度：3791381）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
+李晟医生（热度：3675658）
 </a>
 </li>
 
@@ -321,12 +327,6 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
-李晟医生（热度：2429337）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
 B站崩了（热度：2320305）
 </a>
@@ -479,6 +479,12 @@ Lenka 偷感好重（热度：2311604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%20%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3%23" target="weibo">
 谭维维 审美疲劳（热度：1949587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
+厦大通报学生辱骂孕妇（热度：1949139）
 </a>
 </li>
 
@@ -1265,12 +1271,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%97%93%E5%AD%90%E5%92%8B%E4%BA%86%23" target="weibo">
 希林娜依高嗓子咋了（热度：1391404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
-厦大通报学生辱骂孕妇（热度：1390867）
 </a>
 </li>
 
@@ -4443,6 +4443,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
+温州医科大学（热度：731524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%BD%93%E6%A3%80%E9%A1%B9%E7%9B%AE%E5%85%B6%E5%AE%9E%E6%98%AF%E6%B5%AA%E8%B4%B9%E9%92%B1%23" target="weibo">
 这3个体检项目其实是浪费钱（热度：731198）
 </a>
@@ -5267,12 +5273,6 @@ iPhone17不使用节省空间的主板材料（热度：656083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%23" target="weibo">
 内马尔（热度：651993）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
-温州医科大学（热度：650933）
 </a>
 </li>
 

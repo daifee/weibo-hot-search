@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/19 00:24:20 ~ 2024/07/19 23:22:15
+本榜单时间：2024/07/19 00:24:20 ~ 2024/07/19 23:35:22
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：5012056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
 黄宣淘汰（热度：4693372）
 </a>
@@ -63,14 +69,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
-温州一医生工作时被砍伤正抢救（热度：4552373）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
+阮富仲去世（热度：4126542）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
-阮富仲去世（热度：4126542）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
+李晟医生（热度：3675658）
 </a>
 </li>
 
@@ -123,12 +129,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%23" target="weibo">
-李晟医生（热度：2429337）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%20%E6%83%B3%E4%BD%A0%E4%BA%86%E4%BD%A9%E4%BD%A9%E5%A7%90%23" target="weibo">
 张翰 想你了佩佩姐（热度：2168225）
 </a>
@@ -137,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%88%BA%E6%9D%80%E6%A1%88%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E7%89%A9%23" target="weibo">
 特朗普亲吻刺杀案遇难者遗物（热度：1959204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
+厦大通报学生辱骂孕妇（热度：1949139）
 </a>
 </li>
 
@@ -227,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%23" target="weibo">
 李晟（热度：1455429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%AD%95%E5%A6%87%23" target="weibo">
-厦大通报学生辱骂孕妇（热度：1390867）
 </a>
 </li>
 
@@ -435,6 +435,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
+温州医科大学（热度：731524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E9%B8%A1%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%B8%A6%E5%8A%A8%E4%BA%86%E5%85%AD%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%B1%E4%B8%9A%23" target="weibo">
 一只鸡的死亡带动了六个人的就业（热度：726597）
 </a>
@@ -503,12 +509,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%E4%B8%8E%E6%AF%8D%E7%89%9B%E7%BB%93%E5%A9%9A%23" target="weibo">
 印度男子抛妻弃子与母牛结婚（热度：658722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%23" target="weibo">
-温州医科大学（热度：650933）
 </a>
 </li>
 
@@ -873,6 +873,12 @@ citywalk后年轻人开始citylie（热度：498552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23" target="weibo">
+雷军回应董明珠怼小米空调（热度：322923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E9%97%AE%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%83%B3%E9%97%AE%E7%9A%84%E9%97%AE%E9%A2%98%23" target="weibo">
 吴磊问了一个大家都想问的问题（热度：320756）
 </a>
@@ -905,12 +911,6 @@ citywalk后年轻人开始citylie（热度：498552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%9E%E6%9C%8D502%E5%90%8E%E6%AE%8B%E7%95%99%E7%89%A9%E5%A0%AA%E6%AF%94%E4%B8%80%E6%AC%A1%E6%80%A7%E7%AB%B9%E7%AD%B7%23" target="weibo">
 女子吞服502后残留物堪比一次性竹筷（热度：293086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23" target="weibo">
-雷军回应董明珠怼小米空调（热度：293003）
 </a>
 </li>
 
@@ -971,6 +971,12 @@ citywalk后年轻人开始citylie（热度：498552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E4%B8%80%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%B6%89%E5%AB%8C%E7%8C%A5%E4%BA%B5%E9%9B%95%E5%83%8F%23" target="weibo">
 意大利一女游客涉嫌猥亵雕像（热度：273128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98belike%23" target="weibo">
+当你早睡一次你的器官belike（热度：271560）
 </a>
 </li>
 
@@ -1125,12 +1131,6 @@ citywalk后年轻人开始citylie（热度：498552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%97%A9%E7%9D%A1%E4%B8%80%E6%AC%A1%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98belike%23" target="weibo">
-当你早睡一次你的器官belike（热度：222674）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%8A%8A%E5%BA%A7%E4%BD%8D%E6%93%A6%E5%B9%B2%E5%87%80%23" target="weibo">
 华晨宇演唱会前把座位擦干净（热度：221641）
 </a>
@@ -1259,6 +1259,12 @@ iG战胜EDG（热度：205056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%E9%87%8D%E5%BA%86%23" target="weibo">
 陶喆重庆（热度：203921）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97uglybeauty%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+蔡依林uglybeauty演唱会（热度：203234）
 </a>
 </li>
 
@@ -2157,6 +2163,12 @@ K70至尊版价格可真香（热度：84947）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%23" target="weibo">
+身体和灵魂总有一个在工位上（热度：69102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%20%E8%BF%99%E4%B8%AA%E5%86%99%E4%B9%A6%E7%9A%84%E5%88%98%E5%90%8C%E4%BB%96%E8%BF%98%E5%9C%A8%E5%90%97%23" target="weibo">
 妈妈 这个写书的刘同他还在吗（热度：68604）
 </a>
@@ -2343,8 +2355,8 @@ BLG（热度：57689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%92%8C%E7%81%B5%E9%AD%82%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%8A%23" target="weibo">
-身体和灵魂总有一个在工位上（热度：38761）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E4%BF%9D%E5%A7%86%E8%BD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
+全新极氪009保姆车天花板（热度：38694）
 </a>
 </li>
 
@@ -2373,8 +2385,8 @@ BLG（热度：57689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E4%BF%9D%E5%A7%86%E8%BD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-全新极氪009保姆车天花板（热度：30857）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9B%A8%E4%B8%AD%E6%8A%8A%E4%BC%9E%E7%BB%99%E8%80%81%E4%BA%BA%E8%87%AA%E5%B7%B1%E5%8D%B4%E5%85%A8%E8%BA%AB%E6%B7%8B%E6%B9%BF%23" target="weibo">
+女子雨中把伞给老人自己却全身淋湿（热度：30273）
 </a>
 </li>
 
