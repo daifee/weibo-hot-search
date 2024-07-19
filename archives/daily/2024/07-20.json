@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721413578788,
+  "endTime": 1721414333456,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -227,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196003,
       "num": 193677,
       "word": "中餐厅",
@@ -265,14 +273,6 @@
       "onboard_time": 1721408297,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191370,
-      "num": 191370,
-      "word": "配送行业或迎巨变",
-      "onboard_time": 1721410514,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188920,
@@ -443,8 +443,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 72156,
-      "num": 62345,
+      "raw_hot": 80452,
+      "num": 80452,
       "word": "千金府",
       "onboard_time": 1721411293,
       "rank": 25,
@@ -523,7 +523,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8673,
+      "raw_hot": 10816,
+      "num": 69707,
+      "word": "71岁爷爷签志愿书要捐献遗体",
+      "onboard_time": 1721414232,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10210,
       "num": 126862,
       "word": "当女孩绝望时消防员愿给你拥抱",
       "onboard_time": 1721412373,
