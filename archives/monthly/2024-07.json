@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721363117308,
+  "endTime": 1721363933108,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3444249,
+      "num": 2581997,
+      "word": "郑佩佩捐赠大脑用于医学研究",
+      "onboard_time": 1721361624,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3331775,
       "num": 1828061,
       "word": "刘涛曾透露郑佩佩身体不太好",
@@ -259,14 +267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2573420,
-      "num": 2573420,
-      "word": "郑佩佩捐赠大脑用于医学研究",
-      "onboard_time": 1721361624,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2562023,
       "num": 902221,
       "word": "那英天后回归",
@@ -289,6 +289,14 @@
       "onboard_time": 1721272937,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2548004,
+      "num": 2548004,
+      "word": "周星驰 佩佩姐江湖再见",
+      "onboard_time": 1721361863,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2459296,
@@ -369,14 +377,6 @@
       "onboard_time": 1719994397,
       "rank": 0,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2173982,
-      "num": 2173982,
-      "word": "周星驰 佩佩姐江湖再见",
-      "onboard_time": 1721361863,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2167195,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1901542,
+      "num": 1525868,
+      "word": "刘涛ip在美国",
+      "onboard_time": 1721361684,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1900825,
       "num": 940387,
       "word": "弟弟偷开姐姐车撞死人姐姐担责三成",
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1776985,
+      "num": 2263182,
+      "word": "特朗普正式成为美国共和党总统候选人",
+      "onboard_time": 1721359043,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1772965,
       "num": 1772965,
       "word": "去年被朱一龙打掉的恋爱脑又长回来了",
@@ -817,14 +833,6 @@
       "onboard_time": 1720243338,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1709850,
-      "num": 2263182,
-      "word": "特朗普正式成为美国共和党总统候选人",
-      "onboard_time": 1721359043,
-      "rank": 19,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1703192,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1719792497,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1525868,
-      "num": 1525868,
-      "word": "刘涛ip在美国",
-      "onboard_time": 1721361684,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1522990,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1720517419,
       "rank": 33,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 1190831,
+      "num": 1190831,
+      "word": "郑佩佩好伟大",
+      "onboard_time": 1721363065,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1188717,
@@ -3691,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 908290,
+      "num": 1711313,
+      "word": "拜登确诊后被拍到20秒上不了车",
+      "onboard_time": 1721359944,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 907631,
       "num": 495255,
       "word": "枪击特朗普枪手行凶衣着引关注",
@@ -3833,6 +3849,14 @@
       "onboard_time": 1720796000,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 890302,
+      "num": 455459,
+      "word": "郑佩佩送给张翰的字",
+      "onboard_time": 1721362525,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 890282,
@@ -4668,7 +4692,7 @@
     },
     {
       "raw_hot": 805991,
-      "num": 2359767,
+      "num": 2575489,
       "word": "沈月因为妈妈不接电话哭了",
       "onboard_time": 1721358262,
       "rank": 6,
@@ -7555,14 +7579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 595455,
-      "num": 1711313,
-      "word": "拜登确诊后被拍到20秒上不了车",
-      "onboard_time": 1721359944,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 595391,
       "num": 311172,
       "word": "张馨予 姐没有被PUA",
@@ -8907,14 +8923,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 540739,
-      "num": 540739,
-      "word": "郑佩佩好伟大",
-      "onboard_time": 1721363065,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540374,
       "num": 368018,
       "word": "陈晓变脸李冰冰",
@@ -9611,6 +9619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 512394,
+      "num": 1105748,
+      "word": "武汉理工大学通报学生虐猫",
+      "onboard_time": 1721360183,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512333,
       "num": 513204,
       "word": "情绪稳定的妈妈最怕孩子放暑假",
@@ -9993,6 +10009,14 @@
       "onboard_time": 1721351244,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498552,
+      "num": 2861843,
+      "word": "citywalk后年轻人开始citylie",
+      "onboard_time": 1721360482,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 498122,
@@ -11251,14 +11275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455459,
-      "num": 455459,
-      "word": "郑佩佩送给张翰的字",
-      "onboard_time": 1721362525,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455417,
       "num": 425541,
       "word": "长相思2首播热度",
@@ -11619,14 +11635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 448263,
-      "num": 1105748,
-      "word": "武汉理工大学通报学生虐猫",
-      "onboard_time": 1721360183,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448120,
       "num": 448120,
       "word": "中国女游客海上漂36小时后获救",
@@ -11737,14 +11745,6 @@
       "onboard_time": 1720603098,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445665,
-      "num": 2861843,
-      "word": "citywalk后年轻人开始citylie",
-      "onboard_time": 1721360482,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 445549,
@@ -11873,6 +11873,14 @@
       "onboard_time": 1720494437,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 443046,
+      "num": 359110,
+      "word": "肖战新电影班底阵容",
+      "onboard_time": 1721362705,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 442933,
@@ -14923,14 +14931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 359110,
-      "num": 359110,
-      "word": "肖战新电影班底阵容",
-      "onboard_time": 1721362705,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 359078,
       "num": 359078,
       "word": "赵丽颖或将进组冯小刚新电影",
@@ -15113,6 +15113,14 @@
       "onboard_time": 1720338317,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354436,
+      "num": 837663,
+      "word": "带状疱疹只需一味草药",
+      "onboard_time": 1721360125,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 354237,
@@ -17755,6 +17763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296651,
+      "num": 193306,
+      "word": "华晨宇黑粉被恢复执行",
+      "onboard_time": 1721363905,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296452,
       "num": 296452,
       "word": "RNG真没打野了",
@@ -18467,6 +18483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284177,
+      "num": 2568992,
+      "word": "中国接受高等教育人口达2.5亿",
+      "onboard_time": 1721360303,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 283952,
       "num": 283952,
       "word": "邓为发了涂山璟",
@@ -18619,6 +18643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281609,
+      "num": 187650,
+      "word": "惠英红悼念郑佩佩",
+      "onboard_time": 1721363339,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "直播显示医生未带除颤仪进场",
@@ -18665,14 +18697,6 @@
       "onboard_time": 1721042898,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280891,
-      "num": 837663,
-      "word": "带状疱疹只需一味草药",
-      "onboard_time": 1721360125,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 280713,
@@ -19881,14 +19905,6 @@
       "onboard_time": 1721016019,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 256320,
-      "num": 2339819,
-      "word": "中国接受高等教育人口达2.5亿",
-      "onboard_time": 1721360303,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255690,
@@ -21107,6 +21123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239032,
+      "num": 186704,
+      "word": "中餐厅开播",
+      "onboard_time": 1721360901,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239027,
       "num": 172175,
       "word": "何炅出道30年最累的一天",
@@ -22099,6 +22123,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 227196,
+      "num": 2338734,
+      "word": "智利7.3级地震",
+      "onboard_time": 1721361624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227120,
       "num": 227120,
       "word": "东北冷面大大方方的",
@@ -22731,14 +22763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218768,
-      "num": 172958,
-      "word": "中餐厅开播",
-      "onboard_time": 1721360901,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218635,
       "num": 193791,
       "word": "小夭身世",
@@ -22817,6 +22841,14 @@
       "onboard_time": 1720507337,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217928,
+      "num": 200458,
+      "word": "唐伯虎点秋香",
+      "onboard_time": 1721359043,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 217895,
@@ -24979,14 +25011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203313,
-      "num": 200458,
-      "word": "唐伯虎点秋香",
-      "onboard_time": 1721359043,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203284,
       "num": 203284,
       "word": "7月第一天",
@@ -25337,6 +25361,14 @@
       "onboard_time": 1720134916,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201664,
+      "num": 185505,
+      "word": "StrayKids新专辑",
+      "onboard_time": 1721363125,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 201623,
@@ -28033,6 +28065,14 @@
       "onboard_time": 1720049537,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188324,
+      "num": 188324,
+      "word": "孙悟空从此多了一个黑粉",
+      "onboard_time": 1721362285,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 188323,
@@ -36651,6 +36691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141480,
+      "num": 1710497,
+      "word": "花250万买保险的大厂人",
+      "onboard_time": 1721361624,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141419,
       "num": 141419,
       "word": "微软回应中国员工必须用iPhone",
@@ -43700,7 +43748,7 @@
     },
     {
       "raw_hot": 108941,
-      "num": 1859855,
+      "num": 2549898,
       "word": "11岁烘焙小孩姐摆摊一天卖500元",
       "onboard_time": 1721359295,
       "rank": 22,
@@ -44097,14 +44145,6 @@
       "onboard_time": 1721174838,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 106629,
-      "num": 2338734,
-      "word": "智利7.3级地震",
-      "onboard_time": 1721361624,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106622,
@@ -45843,14 +45883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93834,
-      "num": 1710497,
-      "word": "花250万买保险的大厂人",
-      "onboard_time": 1721361624,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93828,
       "num": 93828,
       "word": "没想到洋人也会因名字而自卑",
@@ -46184,6 +46216,14 @@
       "word": "年轻护士在三甲医院6年后裸辞逃离",
       "onboard_time": 1719865931,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90439,
+      "num": 2629658,
+      "word": "我国将加快建设世界一流大学",
+      "onboard_time": 1721363426,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

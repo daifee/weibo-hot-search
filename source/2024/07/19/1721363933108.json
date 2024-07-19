@@ -1,0 +1,410 @@
+{
+  "runTime": 1721363933108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 509277,
+        "num": 2646940,
+        "word": "我国建成世界规模最大的教育体系",
+        "onboard_time": 1721360424,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498552,
+        "num": 2636263,
+        "word": "citywalk后年轻人开始citylie",
+        "onboard_time": 1721360482,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90439,
+        "num": 2629658,
+        "word": "我国将加快建设世界一流大学",
+        "onboard_time": 1721363426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6499364,
+        "num": 2618776,
+        "word": "郑佩佩去世",
+        "onboard_time": 1721347639,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5637069,
+        "num": 2610941,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418333,
+        "num": 2600318,
+        "word": "男子33万买到旧宝马获退1赔3",
+        "onboard_time": 1721355325,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3444249,
+        "num": 2581997,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535722,
+        "num": 2575489,
+        "word": "沈月因为妈妈不接电话哭了",
+        "onboard_time": 1721358262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284177,
+        "num": 2568992,
+        "word": "中国接受高等教育人口达2.5亿",
+        "onboard_time": 1721360303,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87137,
+        "num": 2549898,
+        "word": "11岁烘焙小孩姐摆摊一天卖500元",
+        "onboard_time": 1721359295,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2548004,
+        "num": 2548004,
+        "word": "周星驰 佩佩姐江湖再见",
+        "onboard_time": 1721361863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2043738,
+        "num": 2043738,
+        "word": "刘涛悼念郑佩佩",
+        "onboard_time": 1721355984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1190831,
+        "num": 1190831,
+        "word": "郑佩佩好伟大",
+        "onboard_time": 1721363065,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908290,
+        "num": 908290,
+        "word": "拜登确诊后被拍到20秒上不了车",
+        "onboard_time": 1721359944,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512394,
+        "num": 512394,
+        "word": "武汉理工大学通报学生虐猫",
+        "onboard_time": 1721360183,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229375,
+        "num": 491542,
+        "word": "巴西歌手疑因粉丝衣服湿透触电身亡",
+        "onboard_time": 1721345836,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1901542,
+        "num": 486441,
+        "word": "刘涛ip在美国",
+        "onboard_time": 1721361684,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1776985,
+        "num": 485177,
+        "word": "特朗普正式成为美国共和党总统候选人",
+        "onboard_time": 1721359043,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 481252,
+        "num": 481252,
+        "word": "灵儿姥姥真的走了",
+        "onboard_time": 1721358742,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326006,
+        "num": 326006,
+        "word": "胡歌第一部戏是和郑佩佩演的",
+        "onboard_time": 1721359464,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1105182,
+        "num": 305023,
+        "word": "郑佩佩离世时子女及挚亲陪伴在侧",
+        "onboard_time": 1721359464,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121915,
+        "num": 301098,
+        "word": "刘涛曾透露郑佩佩身体不太好",
+        "onboard_time": 1721351123,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354436,
+        "num": 277913,
+        "word": "带状疱疹只需一味草药",
+        "onboard_time": 1721360125,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250024,
+        "num": 250024,
+        "word": "曹可凡悼念郑佩佩",
+        "onboard_time": 1721350221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245988,
+        "num": 245988,
+        "word": "喝隔夜水会致癌吗",
+        "onboard_time": 1721356045,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 978889,
+        "num": 244166,
+        "word": "张凯丽长文悼念郑佩佩",
+        "onboard_time": 1721361384,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 949020,
+        "num": 243649,
+        "word": "花少1",
+        "onboard_time": 1721358923,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913725,
+        "num": 240745,
+        "word": "佩佩奶奶一路走好",
+        "onboard_time": 1721356646,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237758,
+        "num": 237758,
+        "word": "爷爷就这么水灵灵的卸妆了",
+        "onboard_time": 1721360183,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227196,
+        "num": 227196,
+        "word": "智利7.3级地震",
+        "onboard_time": 1721361624,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890302,
+        "num": 220734,
+        "word": "郑佩佩送给张翰的字",
+        "onboard_time": 1721362525,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 717181,
+        "num": 219435,
+        "word": "郑佩佩最后一部作品",
+        "onboard_time": 1721358262,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207444,
+        "num": 207444,
+        "word": "生理期疼痛可能是因为缺血",
+        "onboard_time": 1721351001,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201721,
+        "num": 201721,
+        "word": "布朗尼命中关键三分",
+        "onboard_time": 1721361744,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195926,
+        "num": 195926,
+        "word": "女子吞服502后残留物堪比一次性竹筷",
+        "onboard_time": 1721357605,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443046,
+        "num": 194246,
+        "word": "肖战新电影班底阵容",
+        "onboard_time": 1721362705,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296651,
+        "num": 193306,
+        "word": "华晨宇黑粉被恢复执行",
+        "onboard_time": 1721363905,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288437,
+        "num": 193111,
+        "word": "BLACKPINK将8月合体签售",
+        "onboard_time": 1721358803,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191689,
+        "num": 191689,
+        "word": "小肚子瘦不下来这4种食物要少吃",
+        "onboard_time": 1721351723,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188324,
+        "num": 188324,
+        "word": "孙悟空从此多了一个黑粉",
+        "onboard_time": 1721362285,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141480,
+        "num": 188074,
+        "word": "花250万买保险的大厂人",
+        "onboard_time": 1721361624,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281609,
+        "num": 187650,
+        "word": "惠英红悼念郑佩佩",
+        "onboard_time": 1721363339,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239032,
+        "num": 186704,
+        "word": "中餐厅开播",
+        "onboard_time": 1721360901,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217928,
+        "num": 186304,
+        "word": "唐伯虎点秋香",
+        "onboard_time": 1721359043,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201664,
+        "num": 185505,
+        "word": "StrayKids新专辑",
+        "onboard_time": 1721363125,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95768,
+        "num": 184622,
+        "word": "防止和纠正利用行政刑事干预经济纠纷",
+        "onboard_time": 1721362525,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184495,
+        "num": 184495,
+        "word": "发现结婚和恋爱真的是两码事",
+        "onboard_time": 1721355505,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176217,
+        "num": 176217,
+        "word": "原神4.8版本",
+        "onboard_time": 1721362105,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169712,
+        "num": 169712,
+        "word": "郑佩佩曾称去世会捐赠器官",
+        "onboard_time": 1721357842,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151631,
+        "num": 151631,
+        "word": "中共中央举行新闻发布会",
+        "onboard_time": 1721353824,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届三中全会公报#"
+    }
+  }
+}
