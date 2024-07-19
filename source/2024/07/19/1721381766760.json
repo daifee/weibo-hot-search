@@ -1,0 +1,410 @@
+{
+  "runTime": 1721381766760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296153,
+        "num": 2296153,
+        "word": "韩国考虑改国名叫考瑞亚",
+        "onboard_time": 1721375481,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 888815,
+        "num": 888815,
+        "word": "胡歌 这是逍遥对姥姥最深的思念",
+        "onboard_time": 1721373321,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44878,
+        "num": 865307,
+        "word": "二十届三中全会公报一图读懂",
+        "onboard_time": 1721377940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 864965,
+        "num": 864965,
+        "word": "小鸟的腹部是没有毛的",
+        "onboard_time": 1721376861,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 531176,
+        "num": 531176,
+        "word": "福宝4岁生日会",
+        "onboard_time": 1721379081,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2754651,
+        "num": 531048,
+        "word": "郑佩佩女儿发文",
+        "onboard_time": 1721374880,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2544178,
+        "num": 530741,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54251,
+        "num": 530545,
+        "word": "我国高分十一号05星发射成功",
+        "onboard_time": 1721377221,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879257,
+        "num": 530198,
+        "word": "感谢微软 提前放假",
+        "onboard_time": 1721371101,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73019,
+        "num": 529929,
+        "word": "编号0001的录取通知书送到了医院",
+        "onboard_time": 1721381059,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922267,
+        "num": 529759,
+        "word": "女子举报公婆名下有近亿资产",
+        "onboard_time": 1721376500,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871249,
+        "num": 529385,
+        "word": "温州一医生工作时被砍伤",
+        "onboard_time": 1721379441,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 819945,
+        "num": 529117,
+        "word": "种地吧 加人",
+        "onboard_time": 1721377821,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714210,
+        "num": 529084,
+        "word": "李菲儿 遗憾不能送您最后一程",
+        "onboard_time": 1721374760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692119,
+        "num": 528589,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528578,
+        "num": 528578,
+        "word": "赵丽颖掌公主",
+        "onboard_time": 1721378900,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 512207,
+        "num": 512207,
+        "word": "微软服务中断导致美国航空停飞",
+        "onboard_time": 1721374819,
+        "rank": 16,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 490726,
+        "num": 490726,
+        "word": "郑佩佩去世",
+        "onboard_time": 1721347639,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440069,
+        "num": 440069,
+        "word": "兵马俑在夏天变成了冰马俑",
+        "onboard_time": 1721374880,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316685,
+        "num": 425619,
+        "word": "长沙11岁女孩被电诈90余万元",
+        "onboard_time": 1721380460,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440317,
+        "num": 424345,
+        "word": "张翰 想你了佩佩姐",
+        "onboard_time": 1721367982,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419679,
+        "num": 419679,
+        "word": "有小肚子才是医生眼中健康的标志",
+        "onboard_time": 1721376741,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 393082,
+        "num": 393082,
+        "word": "花少1",
+        "onboard_time": 1721358923,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319190,
+        "num": 319190,
+        "word": "章子怡 世间再无碧眼狐狸",
+        "onboard_time": 1721373142,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291218,
+        "num": 291218,
+        "word": "安徽牛肉板面改名",
+        "onboard_time": 1721377343,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286887,
+        "num": 286887,
+        "word": "微软蓝屏",
+        "onboard_time": 1721367861,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282965,
+        "num": 282965,
+        "word": "保姆给46天婴儿1次喂完整瓶奶",
+        "onboard_time": 1721371461,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264240,
+        "num": 264240,
+        "word": "郑佩佩和女儿曾一起参加刘涛节目",
+        "onboard_time": 1721381121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263682,
+        "num": 263682,
+        "word": "周星驰 佩佩姐江湖再见",
+        "onboard_time": 1721361863,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254454,
+        "num": 254454,
+        "word": "宝鸡暴雨洪灾5人遇难8人失联",
+        "onboard_time": 1721378420,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254236,
+        "num": 254236,
+        "word": "妈妈去世后微信成了我的留言本",
+        "onboard_time": 1721379741,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243040,
+        "num": 243040,
+        "word": "种地吧 boss直聘",
+        "onboard_time": 1721379321,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211677,
+        "num": 211677,
+        "word": "三伏天五不吃",
+        "onboard_time": 1721368942,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209140,
+        "num": 209140,
+        "word": "温州男子伤害医生后跳楼",
+        "onboard_time": 1721380760,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202742,
+        "num": 202742,
+        "word": "TMEA直播",
+        "onboard_time": 1721381299,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199116,
+        "num": 199116,
+        "word": "白鹿曾舜晞大婚吻戏路透",
+        "onboard_time": 1721380161,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179321,
+        "num": 179321,
+        "word": "男同事拍了一下背女子一年没上班",
+        "onboard_time": 1721365403,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177157,
+        "num": 177157,
+        "word": "向日葵登不上了",
+        "onboard_time": 1721378541,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170131,
+        "num": 170131,
+        "word": "许嵩杭州抢票",
+        "onboard_time": 1721381660,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164253,
+        "num": 164253,
+        "word": "官方通报女子举报公婆有巨额不明财产",
+        "onboard_time": 1721381180,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163698,
+        "num": 163698,
+        "word": "拜登确诊后被拍到20秒上不了车",
+        "onboard_time": 1721359944,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161178,
+        "num": 161178,
+        "word": "日本餐饮又瞄准了中国市场",
+        "onboard_time": 1721378601,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160731,
+        "num": 160731,
+        "word": "唐朝诡事录 吓人",
+        "onboard_time": 1721371940,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153834,
+        "num": 153834,
+        "word": "TES办理英国签证",
+        "onboard_time": 1721381420,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141443,
+        "num": 141443,
+        "word": "35岁小伙扛楼一年多存了40万",
+        "onboard_time": 1721365403,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138915,
+        "num": 138915,
+        "word": "邓为说不需要强制出戏",
+        "onboard_time": 1721379620,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130543,
+        "num": 130543,
+        "word": "抓娃娃",
+        "onboard_time": 1721381479,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130412,
+        "num": 130412,
+        "word": "薛之谦天外来物巡回演唱会",
+        "onboard_time": 1721381479,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "多地提出对外卖骑手限速",
+        "onboard_time": 1721376021,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123494,
+        "num": 123494,
+        "word": "8岁男孩涂直播间祛疤胶后左脸腐烂",
+        "onboard_time": 1721374521,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中共中央党外人士座谈会#"
+    }
+  }
+}

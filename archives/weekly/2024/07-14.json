@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721380851717,
+  "endTime": 1721381766760,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1339,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 871249,
+      "num": 575480,
+      "word": "温州一医生工作时被砍伤",
+      "onboard_time": 1721379441,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 868612,
       "num": 868612,
       "word": "原来教师编面试是一场沉浸式表演",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1721218996,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864965,
+      "num": 864965,
+      "word": "小鸟的腹部是没有毛的",
+      "onboard_time": 1721376861,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 864082,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1720917380,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 775811,
-      "num": 775811,
-      "word": "小鸟的腹部是没有毛的",
-      "onboard_time": 1721376861,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 775804,
@@ -2545,14 +2553,6 @@
       "onboard_time": 1721221159,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575480,
-      "num": 575480,
-      "word": "温州一医生工作时被砍伤",
-      "onboard_time": 1721379441,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 575356,
@@ -3995,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419679,
+      "num": 419679,
+      "word": "有小肚子才是医生眼中健康的标志",
+      "onboard_time": 1721376741,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 419484,
       "num": 373800,
       "word": "相柳九命九脸",
@@ -4779,14 +4787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350286,
-      "num": 298831,
-      "word": "有小肚子才是医生眼中健康的标志",
-      "onboard_time": 1721376741,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 349844,
       "num": 349844,
       "word": "金价为何飙涨",
@@ -5243,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316685,
+      "num": 425619,
+      "word": "长沙11岁女孩被电诈90余万元",
+      "onboard_time": 1721380460,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316407,
       "num": 343432,
       "word": "特朗普受访谈及遇袭细节",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1720888698,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291218,
+      "num": 291218,
+      "word": "安徽牛肉板面改名",
+      "onboard_time": 1721377343,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 291184,
@@ -6131,6 +6147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264240,
+      "num": 264240,
+      "word": "郑佩佩和女儿曾一起参加刘涛节目",
+      "onboard_time": 1721381121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263510,
       "num": 263510,
       "word": "王者荣耀闪退",
@@ -6315,6 +6339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254236,
+      "num": 254236,
+      "word": "妈妈去世后微信成了我的留言本",
+      "onboard_time": 1721379741,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253801,
       "num": 253801,
       "word": "百度回应武汉萝卜快跑停运",
@@ -6337,14 +6369,6 @@
       "onboard_time": 1721088077,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253705,
-      "num": 253705,
-      "word": "安徽牛肉板面改名",
-      "onboard_time": 1721377343,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 253383,
@@ -6643,6 +6667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243040,
+      "num": 243040,
+      "word": "种地吧 boss直聘",
+      "onboard_time": 1721379321,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242929,
       "num": 242929,
       "word": "长相思复更",
@@ -6657,14 +6689,6 @@
       "onboard_time": 1721368822,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242736,
-      "num": 242736,
-      "word": "种地吧 boss直聘",
-      "onboard_time": 1721379321,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 242397,
@@ -7499,14 +7523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213722,
-      "num": 213722,
-      "word": "妈妈去世后微信成了我的留言本",
-      "onboard_time": 1721379741,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "众星峡谷10V10",
@@ -7649,6 +7665,14 @@
       "onboard_time": 1721137879,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209140,
+      "num": 209140,
+      "word": "温州男子伤害医生后跳楼",
+      "onboard_time": 1721380760,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 209121,
@@ -8067,6 +8091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202742,
+      "num": 202742,
+      "word": "TMEA直播",
+      "onboard_time": 1721381299,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202513,
       "num": 202513,
       "word": "刘强东章泽天看欧洲杯",
@@ -8097,14 +8129,6 @@
       "onboard_time": 1721306118,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202028,
-      "num": 202028,
-      "word": "长沙11岁女孩被电诈90余万元",
-      "onboard_time": 1721380460,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201981,
@@ -8323,20 +8347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199116,
+      "num": 199116,
+      "word": "白鹿曾舜晞大婚吻戏路透",
+      "onboard_time": 1721380161,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199029,
       "num": 199029,
       "word": "农夫山泉回应香港消委会道歉",
       "onboard_time": 1721268318,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198972,
-      "num": 198972,
-      "word": "白鹿曾舜晞大婚吻戏路透",
-      "onboard_time": 1721380161,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 198803,
@@ -10147,6 +10171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170131,
+      "num": 170131,
+      "word": "许嵩杭州抢票",
+      "onboard_time": 1721381660,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170034,
       "num": 170034,
       "word": "蓝盈莹在片场一秒落泪",
@@ -10523,6 +10555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164253,
+      "num": 164253,
+      "word": "官方通报女子举报公婆有巨额不明财产",
+      "onboard_time": 1721381180,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163854,
       "num": 147020,
       "word": "易烊千玺吉他弹唱",
@@ -10537,14 +10577,6 @@
       "onboard_time": 1721090178,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163752,
-      "num": 163752,
-      "word": "温州男子伤害医生后跳楼",
-      "onboard_time": 1721380760,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 163721,
@@ -10731,6 +10763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161178,
+      "num": 161178,
+      "word": "日本餐饮又瞄准了中国市场",
+      "onboard_time": 1721378601,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "驴得水",
@@ -10745,14 +10785,6 @@
       "onboard_time": 1721196740,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159820,
-      "num": 159820,
-      "word": "日本餐饮又瞄准了中国市场",
-      "onboard_time": 1721378601,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 159819,
@@ -11153,6 +11185,14 @@
       "onboard_time": 1721345295,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153834,
+      "num": 153834,
+      "word": "TES办理英国签证",
+      "onboard_time": 1721381420,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 153762,
@@ -12657,6 +12697,14 @@
       "onboard_time": 1721119280,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 130412,
+      "num": 130412,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1721381479,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 130213,
@@ -15003,6 +15051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 73019,
+      "num": 529929,
+      "word": "编号0001的录取通知书送到了医院",
+      "onboard_time": 1721381059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72658,
       "num": 72658,
       "word": "尼克威廉姆斯破门",
@@ -15860,7 +15916,7 @@
     },
     {
       "raw_hot": 47932,
-      "num": 810273,
+      "num": 865307,
       "word": "二十届三中全会公报一图读懂",
       "onboard_time": 1721377940,
       "rank": 2,
