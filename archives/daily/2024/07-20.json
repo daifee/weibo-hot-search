@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721423912840,
+  "endTime": 1721424896924,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -459,20 +459,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50286,
+      "num": 86301,
+      "word": "北京冰雹",
+      "onboard_time": 1721393601,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49889,
       "num": 49889,
       "word": "电视剧错位",
       "onboard_time": 1721410634,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47370,
-      "num": 86301,
-      "word": "北京冰雹",
-      "onboard_time": 1721393601,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47101,
@@ -531,6 +531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25965,
+      "num": 25965,
+      "word": "夏天空调怎么吹才健康",
+      "onboard_time": 1721417832,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25323,
+      "num": 25323,
+      "word": "王铮亮 起猛了在家看到猎人了",
+      "onboard_time": 1721419990,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24798,
       "num": 28058,
       "word": "TMEA室内音乐节",
@@ -539,20 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23120,
-      "num": 23120,
-      "word": "夏天空调怎么吹才健康",
-      "onboard_time": 1721417832,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21119,
-      "num": 21689,
-      "word": "王铮亮 起猛了在家看到猎人了",
-      "onboard_time": 1721419990,
+      "raw_hot": 21385,
+      "num": 21385,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
       "rank": 49,
-      "category": "综艺"
+      "category": "旅游"
     },
     {
       "raw_hot": 19977,
@@ -571,20 +579,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16538,
-      "num": 19926,
-      "word": "三亚暑期酒店暴跌",
-      "onboard_time": 1721423051,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 15893,
       "num": 304290,
       "word": "一文速览解读二十届三中全会精神发布会",
       "onboard_time": 1721393901,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12233,
+      "num": 75272,
+      "word": "学号也连号双胞胎兄弟一起考入浙大",
+      "onboard_time": 1721414893,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11521,
+      "num": 24752,
+      "word": "为何启用原名黄河大学",
+      "onboard_time": 1721424491,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 10816,
@@ -599,14 +615,6 @@
       "num": 126862,
       "word": "当女孩绝望时消防员愿给你拥抱",
       "onboard_time": 1721412373,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7886,
-      "num": 75272,
-      "word": "学号也连号双胞胎兄弟一起考入浙大",
-      "onboard_time": 1721414893,
       "rank": 9,
       "category": "社会新闻"
     }
