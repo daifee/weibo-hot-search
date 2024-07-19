@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721427607211,
+  "endTime": 1721428617338,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249676,
+      "num": 462448,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239801,
       "num": 199108,
       "word": "华晨宇 郑奶奶一路走好",
@@ -225,14 +233,6 @@
       "onboard_time": 1721405180,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209148,
-      "num": 368897,
-      "word": "配送行业或迎巨变",
-      "onboard_time": 1721410514,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196003,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127925,
+      "num": 108489,
+      "word": "三亚暑期酒店暴跌",
+      "onboard_time": 1721423051,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115175,
       "num": 129294,
       "word": "蔡依林uglybeauty演唱会",
@@ -451,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 68532,
-      "num": 68532,
-      "word": "三亚暑期酒店暴跌",
-      "onboard_time": 1721423051,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
@@ -467,7 +467,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 63147,
+      "raw_hot": 65563,
       "num": 86301,
       "word": "北京冰雹",
       "onboard_time": 1721393601,
@@ -475,11 +475,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51433,
+      "raw_hot": 64017,
       "num": 64718,
       "word": "一个母亲决定抱紧患躁郁症的女儿",
       "onboard_time": 1721417112,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56992,
+      "num": 56992,
+      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
+      "onboard_time": 1721426712,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -499,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46300,
+      "num": 46300,
+      "word": "不能生同衾 那就死同穴",
+      "onboard_time": 1721426651,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42414,
+      "num": 49882,
+      "word": "泽连斯基回应若特朗普胜选",
+      "onboard_time": 1721409315,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 40502,
       "num": 602701,
       "word": "二十届三中全会公报速读",
@@ -507,16 +531,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36579,
-      "num": 49882,
-      "word": "泽连斯基回应若特朗普胜选",
-      "onboard_time": 1721409315,
+      "raw_hot": 39637,
+      "num": 39637,
+      "word": "王铮亮 起猛了在家看到猎人了",
+      "onboard_time": 1721419990,
       "rank": 49,
-      "category": "国外时政"
+      "category": "综艺"
     },
     {
-      "raw_hot": 31842,
-      "num": 31842,
+      "raw_hot": 33893,
+      "num": 33893,
       "word": "夏天空调怎么吹才健康",
       "onboard_time": 1721417832,
       "rank": 46,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 30559,
-      "num": 30559,
+      "num": 33889,
       "word": "你比星光美丽",
       "onboard_time": 1721416212,
       "rank": 42,
@@ -539,28 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29014,
-      "num": 29014,
-      "word": "王铮亮 起猛了在家看到猎人了",
-      "onboard_time": 1721419990,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28051,
-      "num": 28051,
-      "word": "不能生同衾 那就死同穴",
-      "onboard_time": 1721426651,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27689,
-      "num": 27689,
-      "word": "官方回应南京鼓楼医院新员工培训跳热舞",
-      "onboard_time": 1721426712,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 29517,
+      "num": 42630,
+      "word": "为何启用原名黄河大学",
+      "onboard_time": 1721424491,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 27288,
@@ -579,20 +587,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24659,
-      "num": 26385,
-      "word": "为何启用原名黄河大学",
-      "onboard_time": 1721424491,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 19977,
       "num": 30531,
       "word": "背肌好的人体态有多美",
       "onboard_time": 1721416092,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 18690,
+      "num": 304290,
+      "word": "一文速览解读二十届三中全会精神发布会",
+      "onboard_time": 1721393901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18221,
@@ -603,16 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16657,
-      "num": 304290,
-      "word": "一文速览解读二十届三中全会精神发布会",
-      "onboard_time": 1721393901,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12233,
-      "num": 75272,
+      "num": 108930,
       "word": "学号也连号双胞胎兄弟一起考入浙大",
       "onboard_time": 1721414893,
       "rank": 9,
