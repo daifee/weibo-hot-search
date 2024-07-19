@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721395310549,
+  "endTime": 1721396060824,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3234599,
+      "num": 1417991,
+      "word": "张钰琪中指切特写",
+      "onboard_time": 1721395401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3031333,
       "num": 318834,
       "word": "刘涛",
@@ -113,6 +121,14 @@
       "onboard_time": 1721361684,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1851410,
+      "num": 1321597,
+      "word": "张钰琪回应中指",
+      "onboard_time": 1721395582,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1838162,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1307298,
+      "num": 1307298,
+      "word": "谭维维开大了",
+      "onboard_time": 1721394621,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1299672,
       "num": 627004,
       "word": "郑佩佩送给张翰的字",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 1004517,
-      "num": 1004517,
+      "num": 1474105,
       "word": "小米发布会",
       "onboard_time": 1721386399,
       "rank": 12,
@@ -321,14 +345,6 @@
       "onboard_time": 1721358262,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 918135,
-      "num": 495186,
-      "word": "谭维维开大了",
-      "onboard_time": 1721394621,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 907493,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 762452,
+      "num": 435613,
+      "word": "袁娅维第五次被歌手淘汰",
+      "onboard_time": 1721395582,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752830,
       "num": 604637,
       "word": "李菲儿 遗憾不能送您最后一程",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 684266,
-      "num": 392975,
+      "num": 435468,
       "word": "小米汽车",
       "onboard_time": 1721389159,
       "rank": 21,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 667907,
-      "num": 393966,
+      "num": 429448,
       "word": "袁娅维转音",
       "onboard_time": 1721394021,
       "rank": 20,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 589367,
-      "num": 383730,
+      "num": 428371,
       "word": "许钧淘汰",
       "onboard_time": 1721393181,
       "rank": 24,
@@ -643,6 +667,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543580,
+      "num": 433524,
+      "word": "朴灿烈陈卓璇合唱StayWithMe",
+      "onboard_time": 1721395522,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 534988,
+      "num": 433133,
+      "word": "女童被生父及同居女子殴打致死",
+      "onboard_time": 1721393601,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 512394,
       "num": 1105748,
       "word": "武汉理工大学通报学生虐猫",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 503047,
-      "num": 356636,
+      "num": 367276,
       "word": "谭松韵克莱因蓝裙",
       "onboard_time": 1721392159,
       "rank": 24,
@@ -756,7 +796,7 @@
     },
     {
       "raw_hot": 438490,
-      "num": 364042,
+      "num": 403082,
       "word": "肖战纯素颜开机图",
       "onboard_time": 1721393723,
       "rank": 25,
@@ -771,20 +811,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 436968,
+      "num": 436968,
+      "word": "北京冰雹",
+      "onboard_time": 1721393601,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428859,
-      "num": 346210,
+      "num": 357518,
       "word": "许晴悼念郑佩佩",
       "onboard_time": 1721393242,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423618,
-      "num": 331319,
-      "word": "女童被生父及同居女子殴打致死",
-      "onboard_time": 1721393601,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 405262,
@@ -793,14 +833,6 @@
       "onboard_time": 1721368044,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399569,
-      "num": 399569,
-      "word": "北京冰雹",
-      "onboard_time": 1721393601,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396927,
@@ -832,6 +864,14 @@
       "word": "虞书欣让中餐厅宣发变年轻了",
       "onboard_time": 1721367861,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381656,
+      "num": 381656,
+      "word": "那英挂电话",
+      "onboard_time": 1721395401,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -953,6 +993,14 @@
       "onboard_time": 1721345295,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 305383,
+      "num": 223048,
+      "word": "李昊 你离开了我的夏天",
+      "onboard_time": 1721395342,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 303898,
@@ -1323,6 +1371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212306,
+      "num": 212306,
+      "word": "星穹铁道 Keep",
+      "onboard_time": 1721395161,
+      "rank": 48,
+      "category": "游戏,运动健身"
+    },
+    {
       "raw_hot": 211911,
       "num": 211911,
       "word": "TMEA上唯一的内娱男团",
@@ -1643,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191718,
+      "num": 191718,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 191610,
       "num": 191610,
       "word": "张若昀新电影点映口碑",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1721355805,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187896,
+      "num": 187896,
+      "word": "小米折叠",
+      "onboard_time": 1721395342,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 187649,
@@ -1899,14 +1971,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 170148,
-      "num": 170148,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 42,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 170131,
       "num": 170131,
       "word": "许嵩杭州抢票",
@@ -2121,14 +2185,6 @@
       "onboard_time": 1721369182,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136992,
-      "num": 136992,
-      "word": "星穹铁道 Keep",
-      "onboard_time": 1721395161,
-      "rank": 48,
-      "category": "游戏,运动健身"
     },
     {
       "raw_hot": 135660,
@@ -2452,7 +2508,7 @@
     },
     {
       "raw_hot": 88950,
-      "num": 896691,
+      "num": 1333304,
       "word": "二十届三中全会公报速读",
       "onboard_time": 1721394141,
       "rank": 2,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1721294119,
       "rank": 19,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 84947,
+      "num": 564631,
+      "word": "K70至尊版价格可真香",
+      "onboard_time": 1721394021,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 81786,
@@ -2603,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59679,
+      "num": 219715,
+      "word": "钱塘江鱼鳞潮有多丝滑",
+      "onboard_time": 1721395822,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59292,
       "num": 95007,
       "word": "不要怀疑这真的是瓷器",
@@ -2668,7 +2740,7 @@
     },
     {
       "raw_hot": 52688,
-      "num": 580192,
+      "num": 601988,
       "word": "全新极氪009全球上市",
       "onboard_time": 1721392460,
       "rank": 46,
@@ -2676,7 +2748,7 @@
     },
     {
       "raw_hot": 52065,
-      "num": 351145,
+      "num": 431010,
       "word": "论又薄又强我只服小米大折手机",
       "onboard_time": 1721393901,
       "rank": 27,
@@ -2688,6 +2760,14 @@
       "word": "官方辟谣25岁男子结婚后发现妻子50岁",
       "onboard_time": 1721295498,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49491,
+      "num": 678760,
+      "word": "我国成功研制太阳能动力微型飞行器",
+      "onboard_time": 1721393901,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2731,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44204,
-      "num": 607393,
-      "word": "我国成功研制太阳能动力微型飞行器",
-      "onboard_time": 1721393901,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43475,
       "num": 237216,
       "word": "沈月的vlog搭子",
@@ -2761,14 +2833,6 @@
       "onboard_time": 1721383820,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41289,
-      "num": 526601,
-      "word": "K70至尊版价格可真香",
-      "onboard_time": 1721394021,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 40819,
@@ -2827,12 +2891,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25223,
+      "num": 489083,
+      "word": "孙颖莎说第二次奥运继续全力以赴",
+      "onboard_time": 1721390059,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24178,
       "num": 35088,
       "word": "耳朵纱布",
       "onboard_time": 1721336711,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 21857,
+      "num": 429887,
+      "word": "韩国精神病姑姑将幼侄从24楼扔下",
+      "onboard_time": 1721395881,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20984,
