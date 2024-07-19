@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/14 00:22:18 ~ 2024/07/19 19:17:24
+本榜单时间：2024/07/14 00:22:18 ~ 2024/07/19 19:35:24
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E5%8E%BB%E7%A7%A6%E5%88%9A%E5%90%8C%E5%BF%97%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23" target="weibo">
 免去秦刚同志中央委员会委员职务（热度：5737660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
+阮富仲去世（热度：4126542）
 </a>
 </li>
 
@@ -1257,6 +1263,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+小米发布会（热度：765266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E7%9C%8B%E4%BA%86%E5%A4%9A%E5%B0%91%E7%83%82%E5%89%A7%E6%89%8D%E5%86%99%E5%87%BA%E7%9A%84%E5%8F%B0%E8%AF%8D%23" target="weibo">
 编剧看了多少烂剧才写出的台词（热度：763037）
 </a>
@@ -1547,12 +1559,6 @@ Henry说漏嘴了（热度：1050972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80%23" target="weibo">
 四川电子税务局（热度：671554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
-阮富仲去世（热度：671092）
 </a>
 </li>
 
@@ -3437,12 +3443,6 @@ FNC被曝让中国练习生陪酒（热度：405265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%9C%A8ABC%E4%B8%AD%E9%80%89%E6%8B%A9%E4%BA%86D%23" target="weibo">
 马嘉祺在ABC中选择了D（热度：369858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-小米发布会（热度：368889）
 </a>
 </li>
 
@@ -5481,6 +5481,12 @@ Uzi回应不如JackeyLove（热度：223645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%8A%8A%E5%BA%A7%E4%BD%8D%E6%93%A6%E5%B9%B2%E5%87%80%23" target="weibo">
+华晨宇演唱会前把座位擦干净（热度：221641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%99%9A%E4%B8%8A%E6%B4%97%E5%A4%B4%E7%94%9F%E6%B9%BF%E6%B0%94%23" target="weibo">
 为什么说晚上洗头生湿气（热度：221599）
 </a>
@@ -6465,6 +6471,12 @@ NCT127新歌（热度：200384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E6%B4%BB%E6%88%90%E8%BF%99%E7%A0%B4%E7%A2%8E%E6%A8%A1%E6%A0%B7%23" target="weibo">
+谁家女主活成这破碎模样（热度：196641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%8C%8535%E5%85%83%E9%AB%98%E4%BB%B7%E7%83%98%E7%84%99%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23" target="weibo">
 一个面包35元高价烘焙卷土重来（热度：196622）
 </a>
@@ -7083,6 +7095,12 @@ AG对战TCG（热度：186431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E5%85%A8%E5%91%98%E6%99%92%E5%8D%81%E5%B9%B4%E5%89%8D%E7%85%A7%E7%89%87%23" target="weibo">
+抓娃娃全员晒十年前照片（热度：184997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%87%BA%E9%81%934%E5%8D%83%E5%A4%A9%23" target="weibo">
 TFBOYS出道4千天（热度：184856）
 </a>
@@ -7109,12 +7127,6 @@ TFBOYS出道4千天（热度：184856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E4%BA%BA%E8%AE%BE%23" target="weibo">
 涂山璟人设（热度：184432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%93%E5%A8%83%E5%A8%83%E5%85%A8%E5%91%98%E6%99%92%E5%8D%81%E5%B9%B4%E5%89%8D%E7%85%A7%E7%89%87%23" target="weibo">
-抓娃娃全员晒十年前照片（热度：184168）
 </a>
 </li>
 
@@ -7641,6 +7653,12 @@ KPL（热度：174527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%80%E9%97%B4%E6%88%BF%E5%88%B0%E5%BA%95%E8%83%BD%E4%BD%8F%E5%87%A0%E4%BA%BA%23" target="weibo">
+酒店一间房到底能住几人（热度：172603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%20%E4%B9%A6%E4%BA%A6%23" target="weibo">
 时空中的绘旅人 书亦（热度：172452）
 </a>
@@ -7965,6 +7983,12 @@ J罗美洲杯最佳球员（热度：167143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%8E%E9%A2%97%E5%9C%86%E8%84%91%E8%A2%8B%23" target="weibo">
+祎颗圆脑袋（热度：165178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E7%9F%A5%E5%90%8D%E9%A4%90%E5%8E%85%E6%8B%9B%E7%89%8C%E7%AB%9F%E6%98%AF%E7%A6%8F%E5%AF%BF%E8%9E%BA%23" target="weibo">
 武汉知名餐厅招牌竟是福寿螺（热度：165130）
 </a>
@@ -8127,6 +8151,12 @@ INFJ是天生的边界感拿捏大师（热度：162930）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E7%B4%A7%E8%BA%AB%E8%A1%A3%23" target="weibo">
+于适紧身衣（热度：162304）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E5%85%AB%E5%88%86%E4%B9%8B%E4%B8%80%E8%A3%A4%E5%AD%90%E8%A2%AB%E6%8C%82%E5%A2%99%E4%B8%8A%23" target="weibo">
 刘翔回应八分之一裤子被挂墙上（热度：162106）
 </a>
@@ -8279,12 +8309,6 @@ Ning回应不和Uzi组排（热度：158931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%86%8D%E7%A0%B8%E9%87%8D%E9%87%91%E6%8E%A8%E4%BD%8E%E4%BB%B7%E6%96%B0%E5%B0%9D%E8%AF%95%23" target="weibo">
 京东回应再砸重金推低价新尝试（热度：158323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E7%B4%A7%E8%BA%AB%E8%A1%A3%23" target="weibo">
-于适紧身衣（热度：158259）
 </a>
 </li>
 
@@ -9183,6 +9207,12 @@ BLG（热度：141919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A7%A3%E5%86%B3%23" target="weibo">
+微软宣布故障解决（热度：140041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%95%E5%9B%BE%E6%94%B6%E4%B9%B0%E6%AD%A4%E6%AC%A1%E9%80%89%E4%B8%BE%23" target="weibo">
 拜登称马斯克试图收买此次选举（热度：139900）
 </a>
@@ -9585,8 +9615,8 @@ TF家族三代登陆日杀青（热度：133029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%A5%B3%E4%B8%BB%E6%B4%BB%E6%88%90%E8%BF%99%E7%A0%B4%E7%A2%8E%E6%A8%A1%E6%A0%B7%23" target="weibo">
-谁家女主活成这破碎模样（热度：132263）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%B2%89%E7%9D%A1%E7%97%95%23" target="weibo">
+陆沉睡痕（热度：132256）
 </a>
 </li>
 
@@ -10391,12 +10421,6 @@ ZmjjKK解锁1000击败（热度：116922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%AC%A7%E5%8C%BB%E7%96%973%E5%B9%B4%E4%BA%8F70%25%E8%BF%98%E8%A6%81%E5%8F%91%E8%A1%8C%E5%8C%BB%E7%96%97%E5%9F%BA%E9%87%91%23" target="weibo">
 中欧医疗3年亏70%还要发行医疗基金（热度：113952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%B2%89%E7%9D%A1%E7%97%95%23" target="weibo">
-陆沉睡痕（热度：113598）
 </a>
 </li>
 
@@ -11225,12 +11249,6 @@ AG战胜TCG（热度：97292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%8E%8B%E7%8E%89%E9%9B%AF%23" target="weibo">
 谁来救救王玉雯（热度：80323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%80%E9%97%B4%E6%88%BF%E5%88%B0%E5%BA%95%E8%83%BD%E4%BD%8F%E5%87%A0%E4%BA%BA%23" target="weibo">
-酒店一间房到底能住几人（热度：80243）
 </a>
 </li>
 
@@ -12249,6 +12267,12 @@ AG名将退役仪式（热度：56672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%9A%84vlog%E6%90%AD%E5%AD%90%23" target="weibo">
+沈月的vlog搭子（热度：43475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E6%AC%A1%E6%AC%A1%E6%BD%9C%E5%85%A5%E6%B4%AA%E6%B0%B4%E5%BC%80%E9%94%81%E6%95%91%E4%BA%BA%23" target="weibo">
 消防员一次次潜入洪水开锁救人（热度：43332）
 </a>
@@ -12287,12 +12311,6 @@ AG名将退役仪式（热度：56672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%AF%E5%BA%97%E4%B8%BA%E4%BF%83%E9%94%80%E5%A4%84%E6%96%B9%E8%8D%AF%E6%95%85%E6%84%8F%E9%9A%90%E7%9E%92%E7%A6%81%E5%BF%8C%E8%AF%81%23" target="weibo">
 药店为促销处方药故意隐瞒禁忌证（热度：42084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%9A%84vlog%E6%90%AD%E5%AD%90%23" target="weibo">
-沈月的vlog搭子（热度：41587）
 </a>
 </li>
 
@@ -12593,6 +12611,12 @@ AG对战DRG（热度：31641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%83%8FSIM%E5%8D%A1%E6%A7%BD%E4%B8%80%E6%A0%B7%E8%96%84%E7%9A%84%E6%89%8B%E6%9C%BA%23" target="weibo">
 像SIM卡槽一样薄的手机（热度：27904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E8%A2%AB%E6%89%8B%E6%A6%B4%E5%BC%B9%E7%82%B8%E6%AD%BB%23" target="weibo">
+日本自卫队员被手榴弹炸死（热度：27348）
 </a>
 </li>
 

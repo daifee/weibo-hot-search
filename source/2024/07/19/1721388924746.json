@@ -1,0 +1,410 @@
+{
+  "runTime": 1721388924746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4126542,
+        "num": 4753085,
+        "word": "阮富仲去世",
+        "onboard_time": 1721387720,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1525823,
+        "num": 1525823,
+        "word": "韩国考虑改国名叫考瑞亚",
+        "onboard_time": 1721375481,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8352,
+        "num": 999686,
+        "word": "二十届三中全会公报一图读懂",
+        "onboard_time": 1721377940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765266,
+        "num": 765266,
+        "word": "小米发布会",
+        "onboard_time": 1721386399,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 696244,
+        "num": 696244,
+        "word": "一只鸡的死亡带动了六个人的就业",
+        "onboard_time": 1721384359,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1607197,
+        "num": 693238,
+        "word": "郑佩佩女儿发文",
+        "onboard_time": 1721374880,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1545666,
+        "num": 651745,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953683,
+        "num": 638097,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603757,
+        "num": 603757,
+        "word": "种地吧 加人",
+        "onboard_time": 1721377821,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192461,
+        "num": 404914,
+        "word": "中国造足球内胆1秒内可500次识别动作",
+        "onboard_time": 1721385678,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383120,
+        "num": 383120,
+        "word": "长沙11岁女孩被电诈90余万元",
+        "onboard_time": 1721380460,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379093,
+        "num": 379093,
+        "word": "胡歌 这是逍遥对姥姥最深的思念",
+        "onboard_time": 1721373321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366484,
+        "num": 366484,
+        "word": "郑佩佩去世",
+        "onboard_time": 1721347639,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365121,
+        "num": 365121,
+        "word": "成龙说郑佩佩是一代侠女",
+        "onboard_time": 1721386638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352703,
+        "num": 352703,
+        "word": "外交部回应特朗普涉台言论",
+        "onboard_time": 1721382799,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331020,
+        "num": 331020,
+        "word": "李菲儿 遗憾不能送您最后一程",
+        "onboard_time": 1721374760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282297,
+        "num": 282297,
+        "word": "温州一医生工作时被砍伤",
+        "onboard_time": 1721379441,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 246349,
+        "num": 246349,
+        "word": "感谢微软 提前放假",
+        "onboard_time": 1721371101,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217652,
+        "num": 243785,
+        "word": "女子举报公婆名下有近亿资产",
+        "onboard_time": 1721376500,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197763,
+        "num": 239582,
+        "word": "小鸟的腹部是没有毛的",
+        "onboard_time": 1721376861,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 733880,
+        "num": 237892,
+        "word": "男子开煤气自杀中途反悔点烟致爆炸",
+        "onboard_time": 1721384059,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376974,
+        "num": 234238,
+        "word": "妈妈去世后微信成了我的留言本",
+        "onboard_time": 1721379741,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271188,
+        "num": 231162,
+        "word": "张翰 想你了佩佩姐",
+        "onboard_time": 1721367982,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227383,
+        "num": 227383,
+        "word": "花少1",
+        "onboard_time": 1721358923,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221641,
+        "num": 221641,
+        "word": "华晨宇演唱会前把座位擦干净",
+        "onboard_time": 1721388140,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43475,
+        "num": 216290,
+        "word": "沈月的vlog搭子",
+        "onboard_time": 1721384239,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212217,
+        "num": 212217,
+        "word": "刘涛ip在美国",
+        "onboard_time": 1721361684,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210684,
+        "num": 210684,
+        "word": "种地吧",
+        "onboard_time": 1721385320,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207432,
+        "num": 207432,
+        "word": "有小肚子才是医生眼中健康的标志",
+        "onboard_time": 1721376741,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172603,
+        "num": 196877,
+        "word": "酒店一间房到底能住几人",
+        "onboard_time": 1721386819,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196641,
+        "num": 196641,
+        "word": "谁家女主活成这破碎模样",
+        "onboard_time": 1721387720,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184997,
+        "num": 184997,
+        "word": "抓娃娃全员晒十年前照片",
+        "onboard_time": 1721386040,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165178,
+        "num": 165178,
+        "word": "祎颗圆脑袋",
+        "onboard_time": 1721388620,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162304,
+        "num": 162304,
+        "word": "于适紧身衣",
+        "onboard_time": 1721385499,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147775,
+        "num": 162069,
+        "word": "保姆给46天婴儿1次喂完整瓶奶",
+        "onboard_time": 1721371461,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27348,
+        "num": 162002,
+        "word": "日本自卫队员被手榴弹炸死",
+        "onboard_time": 1721388260,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "好久没见过这么干净的特效了",
+        "onboard_time": 1721385140,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154255,
+        "num": 154255,
+        "word": "微软蓝屏",
+        "onboard_time": 1721367861,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153241,
+        "num": 153241,
+        "word": "张晚意能演五彩斑斓的黑",
+        "onboard_time": 1721386819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142080,
+        "num": 148092,
+        "word": "福宝4岁生日会",
+        "onboard_time": 1721379081,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147772,
+        "num": 147772,
+        "word": "你的名字",
+        "onboard_time": 1721386099,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147169,
+        "num": 147169,
+        "word": "歌手2024突围赛",
+        "onboard_time": 1721386940,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "微软宣布故障解决",
+        "onboard_time": 1721388679,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 132539,
+        "word": "ENHYPEN一位",
+        "onboard_time": 1721385198,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132256,
+        "num": 132256,
+        "word": "陆沉睡痕",
+        "onboard_time": 1721387298,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125600,
+        "num": 125600,
+        "word": "赵丽颖掌公主",
+        "onboard_time": 1721378900,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125160,
+        "num": 125160,
+        "word": "内地精英卷哭香港职场",
+        "onboard_time": 1721383219,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121482,
+        "num": 121482,
+        "word": "郑佩佩和女儿曾一起参加刘涛节目",
+        "onboard_time": 1721381121,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117063,
+        "num": 117063,
+        "word": "安徽牛肉板面改名",
+        "onboard_time": 1721377343,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101336,
+        "num": 111713,
+        "word": "小孩暑假进大厂研学日花千元",
+        "onboard_time": 1721382020,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中共中央党外人士座谈会#"
+    }
+  }
+}

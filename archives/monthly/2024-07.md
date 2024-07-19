@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 19:17:24
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 19:35:24
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E5%8E%BB%E7%A7%A6%E5%88%9A%E5%90%8C%E5%BF%97%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E8%81%8C%E5%8A%A1%23" target="weibo">
 免去秦刚同志中央委员会委员职务（热度：5737660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
+阮富仲去世（热度：4126542）
 </a>
 </li>
 
@@ -4035,6 +4041,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+小米发布会（热度：765266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%B1%86%E4%B8%8D%E8%A6%81%E5%92%8C%E7%B1%B3%E9%A5%AD%E4%B8%80%E8%B5%B7%E5%90%83%23" target="weibo">
 土豆不要和米饭一起吃（热度：764237）
 </a>
@@ -4847,12 +4859,6 @@ B太曝光星期狗（热度：681086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80%23" target="weibo">
 四川电子税务局（热度：671554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
-阮富仲去世（热度：671092）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BBA涨价（热度：591088）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Henry%E6%B2%A1%E8%AE%A4%E5%87%BA%E9%BB%84%E7%A3%8A%23" target="weibo">
 Henry没认出黄磊（热度：588202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%A6%8F%E5%AF%BF%E8%9E%BA%E5%8F%AF%E5%90%AB6000%E6%9D%A1%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
-一只福寿螺可含6000条寄生虫（热度：588149）
 </a>
 </li>
 
