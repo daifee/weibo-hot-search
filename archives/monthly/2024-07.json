@@ -1,10 +1,10 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721360288455,
+  "endTime": 1721363117308,
   "band_list": [
     {
       "raw_hot": 14890471,
-      "num": 2555945,
+      "num": 2772621,
       "word": "郑佩佩去世",
       "onboard_time": 1721347639,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1720190242,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6508436,
+      "num": 2693726,
+      "word": "郑佩佩患罕见病",
+      "onboard_time": 1721361443,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 6156603,
@@ -251,6 +259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2573420,
+      "num": 2573420,
+      "word": "郑佩佩捐赠大脑用于医学研究",
+      "onboard_time": 1721361624,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2562023,
       "num": 902221,
       "word": "那英天后回归",
@@ -353,6 +369,14 @@
       "onboard_time": 1719994397,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2173982,
+      "num": 2173982,
+      "word": "周星驰 佩佩姐江湖再见",
+      "onboard_time": 1721361863,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2167195,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1709850,
+      "num": 2263182,
+      "word": "特朗普正式成为美国共和党总统候选人",
+      "onboard_time": 1721359043,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1703192,
       "num": 1703192,
       "word": "科比父亲去世",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1719792497,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1525868,
+      "num": 1525868,
+      "word": "刘涛ip在美国",
+      "onboard_time": 1721361684,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1522990,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1721135719,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1243390,
+      "num": 1715102,
+      "word": "郑佩佩离世时子女及挚亲陪伴在侧",
+      "onboard_time": 1721359464,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1243167,
@@ -2681,6 +2729,14 @@
       "onboard_time": 1720922961,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1067645,
+      "num": 1067645,
+      "word": "张凯丽长文悼念郑佩佩",
+      "onboard_time": 1721361384,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067128,
@@ -4612,7 +4668,7 @@
     },
     {
       "raw_hot": 805991,
-      "num": 2223849,
+      "num": 2359767,
       "word": "沈月因为妈妈不接电话哭了",
       "onboard_time": 1721358262,
       "rank": 6,
@@ -5227,14 +5283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 753929,
-      "num": 2263182,
-      "word": "特朗普正式成为美国共和党总统候选人",
-      "onboard_time": 1721359043,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 751751,
       "num": 751751,
       "word": "北大考古毕业生就业率100%",
@@ -5457,14 +5505,6 @@
       "onboard_time": 1721101100,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 734480,
-      "num": 734480,
-      "word": "郑佩佩离世时子女及挚亲陪伴在侧",
-      "onboard_time": 1721359464,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 733463,
@@ -7515,6 +7555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595455,
+      "num": 1711313,
+      "word": "拜登确诊后被拍到20秒上不了车",
+      "onboard_time": 1721359944,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 595391,
       "num": 311172,
       "word": "张馨予 姐没有被PUA",
@@ -8483,6 +8531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554756,
+      "num": 2915240,
+      "word": "我国建成世界规模最大的教育体系",
+      "onboard_time": 1721360424,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554253,
       "num": 554253,
       "word": "河南暴雨实况",
@@ -8849,6 +8905,14 @@
       "onboard_time": 1720255158,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 540739,
+      "num": 540739,
+      "word": "郑佩佩好伟大",
+      "onboard_time": 1721363065,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 540374,
@@ -9881,6 +9945,14 @@
       "onboard_time": 1720399459,
       "rank": 22,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 500307,
+      "num": 500307,
+      "word": "胡歌第一部戏是和郑佩佩演的",
+      "onboard_time": 1721359464,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 499848,
@@ -11179,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455459,
+      "num": 455459,
+      "word": "郑佩佩送给张翰的字",
+      "onboard_time": 1721362525,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455417,
       "num": 425541,
       "word": "长相思2首播热度",
@@ -11539,6 +11619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448263,
+      "num": 1105748,
+      "word": "武汉理工大学通报学生虐猫",
+      "onboard_time": 1721360183,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448120,
       "num": 448120,
       "word": "中国女游客海上漂36小时后获救",
@@ -11649,6 +11737,14 @@
       "onboard_time": 1720603098,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445665,
+      "num": 2861843,
+      "word": "citywalk后年轻人开始citylie",
+      "onboard_time": 1721360482,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 445549,
@@ -12169,14 +12265,6 @@
       "onboard_time": 1720489219,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434081,
-      "num": 434081,
-      "word": "胡歌第一部戏是和郑佩佩演的",
-      "onboard_time": 1721359464,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 433922,
@@ -14212,7 +14300,7 @@
     },
     {
       "raw_hot": 376343,
-      "num": 516366,
+      "num": 548752,
       "word": "喝隔夜水会致癌吗",
       "onboard_time": 1721356045,
       "rank": 35,
@@ -14833,6 +14921,14 @@
       "onboard_time": 1720253778,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359110,
+      "num": 359110,
+      "word": "肖战新电影班底阵容",
+      "onboard_time": 1721362705,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 359078,
@@ -16380,7 +16476,7 @@
     },
     {
       "raw_hot": 325489,
-      "num": 325489,
+      "num": 1067877,
       "word": "巴西歌手疑因粉丝衣服湿透触电身亡",
       "onboard_time": 1721345836,
       "rank": 17,
@@ -18571,6 +18667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280891,
+      "num": 837663,
+      "word": "带状疱疹只需一味草药",
+      "onboard_time": 1721360125,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280713,
       "num": 181128,
       "word": "月经周期21天比35天衰老更快吗",
@@ -18921,6 +19025,14 @@
       "onboard_time": 1720522159,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274056,
+      "num": 173247,
+      "word": "李若彤悼念郑佩佩",
+      "onboard_time": 1721361083,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 273803,
@@ -19769,6 +19881,14 @@
       "onboard_time": 1721016019,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 256320,
+      "num": 2339819,
+      "word": "中国接受高等教育人口达2.5亿",
+      "onboard_time": 1721360303,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255690,
@@ -20875,6 +20995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240271,
+      "num": 544453,
+      "word": "爷爷就这么水灵灵的卸妆了",
+      "onboard_time": 1721360183,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 240107,
       "num": 240107,
       "word": "老来离婚的女性往往过得更好",
@@ -21425,6 +21553,14 @@
       "onboard_time": 1720454177,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232772,
+      "num": 1078781,
+      "word": "布朗尼命中关键三分",
+      "onboard_time": 1721361744,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 232744,
@@ -22593,6 +22729,14 @@
       "onboard_time": 1720238897,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 218768,
+      "num": 172958,
+      "word": "中餐厅开播",
+      "onboard_time": 1721360901,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 218635,
@@ -24563,6 +24707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204644,
+      "num": 172487,
+      "word": "时代少年团星期五发新歌",
+      "onboard_time": 1721362705,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204617,
       "num": 204617,
       "word": "Uzi直播人气严重下滑",
@@ -24825,6 +24977,14 @@
       "onboard_time": 1720655358,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203313,
+      "num": 200458,
+      "word": "唐伯虎点秋香",
+      "onboard_time": 1721359043,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 203284,
@@ -25139,6 +25299,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 201932,
+      "num": 172015,
+      "word": "唐伯虎点秋香导演悼念郑佩佩",
+      "onboard_time": 1721360603,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201885,
       "num": 432662,
       "word": "杭州5.2万辆共享单车不烫屁股",
@@ -25385,14 +25553,6 @@
       "onboard_time": 1720103720,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200458,
-      "num": 200458,
-      "word": "唐伯虎点秋香",
-      "onboard_time": 1721359043,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 200400,
@@ -28691,14 +28851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183247,
-      "num": 183247,
-      "word": "带状疱疹只需一味草药",
-      "onboard_time": 1721360125,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183202,
       "num": 183202,
       "word": "时代少年团彩排大屏",
@@ -28777,14 +28929,6 @@
       "onboard_time": 1721278522,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182893,
-      "num": 182893,
-      "word": "爷爷就这么水灵灵的卸妆了",
-      "onboard_time": 1721360183,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 182830,
@@ -29121,6 +29265,14 @@
       "onboard_time": 1720526058,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180711,
+      "num": 180711,
+      "word": "原神4.8版本",
+      "onboard_time": 1721362105,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 180661,
@@ -29897,14 +30049,6 @@
       "onboard_time": 1721190261,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175838,
-      "num": 175838,
-      "word": "武汉理工大学通报学生虐猫",
-      "onboard_time": 1721360183,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175796,
@@ -42963,6 +43107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111921,
+      "num": 2801894,
+      "word": "防止和纠正利用行政刑事干预经济纠纷",
+      "onboard_time": 1721362525,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111885,
       "num": 122517,
       "word": "小猫太胖是会被嘲笑的",
@@ -43945,6 +44097,14 @@
       "onboard_time": 1721174838,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106629,
+      "num": 2338734,
+      "word": "智利7.3级地震",
+      "onboard_time": 1721361624,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106622,
@@ -45681,6 +45841,14 @@
       "onboard_time": 1720782738,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93834,
+      "num": 1710497,
+      "word": "花250万买保险的大厂人",
+      "onboard_time": 1721361624,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93828,
