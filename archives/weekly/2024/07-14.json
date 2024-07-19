@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721409525368,
+  "endTime": 1721410615126,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -16987,6 +16987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47101,
+      "num": 213410,
+      "word": "外卖员自费数千元买AED随身携带",
+      "onboard_time": 1721407156,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46586,
       "num": 75179,
       "word": "二十届三中全会公报要点速览",
@@ -17167,14 +17175,6 @@
       "num": 188246,
       "word": "消防员一次次潜入洪水开锁救人",
       "onboard_time": 1721228537,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43188,
-      "num": 213410,
-      "word": "外卖员自费数千元买AED随身携带",
-      "onboard_time": 1721407156,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -17921,6 +17921,14 @@
       "onboard_time": 1721325192,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20955,
+      "num": 140095,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20573,

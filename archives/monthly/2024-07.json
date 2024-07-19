@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721409525368,
+  "endTime": 1721410615126,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -51963,6 +51963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47101,
+      "num": 213410,
+      "word": "外卖员自费数千元买AED随身携带",
+      "onboard_time": 1721407156,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47088,
       "num": 47088,
       "word": "李荣浩演唱会目送杨丞琳离场",
@@ -52393,14 +52401,6 @@
       "onboard_time": 1719949751,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43188,
-      "num": 213410,
-      "word": "外卖员自费数千元买AED随身携带",
-      "onboard_time": 1721407156,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43139,
@@ -54929,6 +54929,14 @@
       "onboard_time": 1721325192,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20955,
+      "num": 140095,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20852,

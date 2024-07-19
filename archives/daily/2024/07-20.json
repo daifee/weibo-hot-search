@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721409525368,
+  "endTime": 1721410615126,
   "band_list": [
     {
       "raw_hot": 3471840,
@@ -403,6 +403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 87739,
+      "num": 177287,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 87308,
       "num": 87308,
       "word": "黄宣无代餐",
@@ -427,14 +435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 77924,
-      "num": 88711,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 67891,
       "num": 154337,
       "word": "微软技术故障影响多个国家",
@@ -443,7 +443,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 43188,
+      "raw_hot": 47370,
+      "num": 86301,
+      "word": "北京冰雹",
+      "onboard_time": 1721393601,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47101,
       "num": 213410,
       "word": "外卖员自费数千元买AED随身携带",
       "onboard_time": 1721407156,
@@ -459,20 +467,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37400,
-      "num": 86301,
-      "word": "北京冰雹",
-      "onboard_time": 1721393601,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30204,
       "num": 466483,
       "word": "张雨霏希望是一届快乐的奥运会",
       "onboard_time": 1721404880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20955,
+      "num": 140095,
+      "word": "配送行业或迎巨变",
+      "onboard_time": 1721410514,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18221,
