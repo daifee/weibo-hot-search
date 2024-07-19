@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721381766760,
+  "endTime": 1721384424701,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2476449,
+      "num": 2476449,
+      "word": "韩国考虑改国名叫考瑞亚",
+      "onboard_time": 1721375481,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2459296,
       "num": 2459296,
       "word": "歌手直播",
@@ -329,14 +337,6 @@
       "onboard_time": 1720184841,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2342742,
-      "num": 2305581,
-      "word": "韩国考虑改国名叫考瑞亚",
-      "onboard_time": 1721375481,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 2320305,
@@ -2875,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058811,
+      "num": 425619,
+      "word": "长沙11岁女孩被电诈90余万元",
+      "onboard_time": 1721380460,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1057416,
       "num": 1057416,
       "word": "第一次看花少避雷餐厅",
@@ -4500,7 +4508,7 @@
     },
     {
       "raw_hot": 830450,
-      "num": 605188,
+      "num": 782586,
       "word": "种地吧 加人",
       "onboard_time": 1721377821,
       "rank": 26,
@@ -10395,6 +10403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 494407,
+      "num": 419679,
+      "word": "有小肚子才是医生眼中健康的标志",
+      "onboard_time": 1721376741,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 494273,
       "num": 494273,
       "word": "库迪 睡不着",
@@ -11249,6 +11265,14 @@
       "onboard_time": 1720597878,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 464432,
+      "num": 307237,
+      "word": "妈妈去世后微信成了我的留言本",
+      "onboard_time": 1721379741,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 463905,
@@ -13025,14 +13049,6 @@
       "onboard_time": 1721018182,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419679,
-      "num": 419679,
-      "word": "有小肚子才是医生眼中健康的标志",
-      "onboard_time": 1721376741,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 419486,
@@ -17195,14 +17211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316685,
-      "num": 425619,
-      "word": "长沙11岁女孩被电诈90余万元",
-      "onboard_time": 1721380460,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316407,
       "num": 343432,
       "word": "特朗普受访谈及遇袭细节",
@@ -18659,6 +18667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286301,
+      "num": 286301,
+      "word": "郑佩佩和女儿曾一起参加刘涛节目",
+      "onboard_time": 1721381121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "索斯盖特辞职",
@@ -19291,6 +19307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275729,
+      "num": 275729,
+      "word": "外交部回应特朗普涉台言论",
+      "onboard_time": 1721382799,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275724,
       "num": 275724,
       "word": "黄子弘凡美依礼芽牵手",
@@ -19785,14 +19809,6 @@
       "onboard_time": 1719805458,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264240,
-      "num": 264240,
-      "word": "郑佩佩和女儿曾一起参加刘涛节目",
-      "onboard_time": 1721381121,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 264126,
@@ -20313,14 +20329,6 @@
       "onboard_time": 1720247058,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254236,
-      "num": 254236,
-      "word": "妈妈去世后微信成了我的留言本",
-      "onboard_time": 1721379741,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 254222,
@@ -21897,6 +21905,14 @@
       "onboard_time": 1720160898,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233658,
+      "num": 233658,
+      "word": "小孩暑假进大厂研学日花千元",
+      "onboard_time": 1721382020,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 233469,
@@ -24497,6 +24513,14 @@
       "onboard_time": 1721352203,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208256,
+      "num": 208256,
+      "word": "一只鸡的死亡带动了六个人的就业",
+      "onboard_time": 1721384359,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 208060,
@@ -27763,6 +27787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191610,
+      "num": 191610,
+      "word": "张若昀新电影点映口碑",
+      "onboard_time": 1721383039,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191609,
       "num": 191609,
       "word": "洞庭湖决口预计9日12时前完成封堵",
@@ -30713,6 +30745,14 @@
       "onboard_time": 1719814698,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175515,
+      "num": 175515,
+      "word": "男子开煤气自杀中途反悔点烟致爆炸",
+      "onboard_time": 1721384059,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175499,
@@ -34265,6 +34305,14 @@
       "onboard_time": 1720487719,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156777,
+      "num": 156777,
+      "word": "蔡徐坤新歌afterglow",
+      "onboard_time": 1721383698,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 156702,
@@ -49107,6 +49155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63366,
+      "num": 311976,
+      "word": "王一博说不能太过",
+      "onboard_time": 1721381780,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63302,
       "num": 501142,
       "word": "大熊猫上班划土划得好上头",
@@ -50537,6 +50593,14 @@
       "onboard_time": 1720147038,
       "rank": 9,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 50162,
+      "num": 310686,
+      "word": "内地精英卷哭香港职场",
+      "onboard_time": 1721383219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50019,
@@ -52593,6 +52657,14 @@
       "onboard_time": 1719944292,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31158,
+      "num": 313980,
+      "word": "药店为促销处方药故意隐瞒禁忌证",
+      "onboard_time": 1721383820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31110,
@@ -55049,6 +55121,14 @@
       "onboard_time": 1719947412,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9382,
+      "num": 142750,
+      "word": "沈月的vlog搭子",
+      "onboard_time": 1721384239,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 8926,

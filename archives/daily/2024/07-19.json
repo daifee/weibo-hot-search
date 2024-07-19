@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721381766760,
+  "endTime": 1721384424701,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2342742,
-      "num": 2305581,
+      "raw_hot": 2476449,
+      "num": 2476449,
       "word": "韩国考虑改国名叫考瑞亚",
       "onboard_time": 1721375481,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1058811,
+      "num": 425619,
+      "word": "长沙11岁女孩被电诈90余万元",
+      "onboard_time": 1721380460,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1034659,
       "num": 4173581,
       "word": "中共中央举行新闻发布会",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 830450,
-      "num": 605188,
+      "num": 782586,
       "word": "种地吧 加人",
       "onboard_time": 1721377821,
       "rank": 26,
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 494407,
+      "num": 419679,
+      "word": "有小肚子才是医生眼中健康的标志",
+      "onboard_time": 1721376741,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 489779,
       "num": 489779,
       "word": "惠英红悼念郑佩佩",
@@ -537,6 +553,14 @@
       "onboard_time": 1721374880,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 464432,
+      "num": 307237,
+      "word": "妈妈去世后微信成了我的留言本",
+      "onboard_time": 1721379741,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 462417,
@@ -577,14 +601,6 @@
       "onboard_time": 1721351723,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 419679,
-      "num": 419679,
-      "word": "有小肚子才是医生眼中健康的标志",
-      "onboard_time": 1721376741,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 405262,
@@ -707,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 316685,
-      "num": 425619,
-      "word": "长沙11岁女孩被电诈90余万元",
-      "onboard_time": 1721380460,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311677,
       "num": 311677,
       "word": "研究称久坐者每天喝杯咖啡降低死亡风险",
@@ -755,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286301,
+      "num": 286301,
+      "word": "郑佩佩和女儿曾一起参加刘涛节目",
+      "onboard_time": 1721381121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284177,
       "num": 2568992,
       "word": "中国接受高等教育人口达2.5亿",
@@ -787,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275729,
+      "num": 275729,
+      "word": "外交部回应特朗普涉台言论",
+      "onboard_time": 1721382799,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 274056,
       "num": 173247,
       "word": "李若彤悼念郑佩佩",
@@ -811,14 +835,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 264240,
-      "num": 264240,
-      "word": "郑佩佩和女儿曾一起参加刘涛节目",
-      "onboard_time": 1721381121,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259913,
       "num": 259913,
       "word": "拜登确诊后被拍到20秒上了不车",
@@ -841,14 +857,6 @@
       "onboard_time": 1721313679,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254236,
-      "num": 254236,
-      "word": "妈妈去世后微信成了我的留言本",
-      "onboard_time": 1721379741,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 252299,
@@ -945,6 +953,14 @@
       "onboard_time": 1721374521,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233658,
+      "num": 233658,
+      "word": "小孩暑假进大厂研学日花千元",
+      "onboard_time": 1721382020,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232772,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1721352203,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208256,
+      "num": 208256,
+      "word": "一只鸡的死亡带动了六个人的就业",
+      "onboard_time": 1721384359,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 206466,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191610,
+      "num": 191610,
+      "word": "张若昀新电影点映口碑",
+      "onboard_time": 1721383039,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191524,
       "num": 191524,
       "word": "王一博传递火炬上了英语试卷",
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175515,
+      "num": 175515,
+      "word": "男子开煤气自杀中途反悔点烟致爆炸",
+      "onboard_time": 1721384059,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175199,
       "num": 175199,
       "word": "南京中山陵现7头野猪遛弯",
@@ -1531,12 +1571,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160411,
+      "num": 160411,
+      "word": "抓娃娃",
+      "onboard_time": 1721381479,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157407,
       "num": 157407,
       "word": "甜蜜家园3上线",
       "onboard_time": 1721375722,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156777,
+      "num": 156777,
+      "word": "蔡徐坤新歌afterglow",
+      "onboard_time": 1721383698,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 153969,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1721314579,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130543,
-      "num": 130543,
-      "word": "抓娃娃",
-      "onboard_time": 1721381479,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 130412,
@@ -2019,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63366,
+      "num": 311976,
+      "word": "王一博说不能太过",
+      "onboard_time": 1721381780,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59292,
       "num": 95007,
       "word": "不要怀疑这真的是瓷器",
@@ -2088,6 +2144,14 @@
       "word": "官方辟谣25岁男子结婚后发现妻子50岁",
       "onboard_time": 1721295498,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50162,
+      "num": 310686,
+      "word": "内地精英卷哭香港职场",
+      "onboard_time": 1721383219,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2161,6 +2225,14 @@
       "onboard_time": 1721327172,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31158,
+      "num": 313980,
+      "word": "药店为促销处方药故意隐瞒禁忌证",
+      "onboard_time": 1721383820,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30967,
@@ -2289,6 +2361,14 @@
       "onboard_time": 1721378240,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9382,
+      "num": 142750,
+      "word": "沈月的vlog搭子",
+      "onboard_time": 1721384239,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 7455,
