@@ -1,10 +1,10 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721356668094,
+  "endTime": 1721357246038,
   "band_list": [
     {
       "raw_hot": 14890471,
-      "num": 524308,
+      "num": 530515,
       "word": "郑佩佩去世",
       "onboard_time": 1721347639,
       "rank": 3,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5759054,
+      "num": 519135,
+      "word": "刘涛悼念郑佩佩",
+      "onboard_time": 1721355984,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5737660,
       "num": 515305,
       "word": "免去秦刚同志中央委员会委员职务",
       "onboard_time": 1721292140,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4101269,
-      "num": 516684,
-      "word": "刘涛悼念郑佩佩",
-      "onboard_time": 1721355984,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 3943333,
@@ -969,6 +969,14 @@
       "onboard_time": 1720135635,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1599695,
+      "num": 353082,
+      "word": "佩佩奶奶一路走好",
+      "onboard_time": 1721356646,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1596254,
@@ -2803,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1041623,
-      "num": 353082,
-      "word": "佩佩奶奶一路走好",
-      "onboard_time": 1721356646,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1041211,
       "num": 440498,
       "word": "中金称女员工系自身原因离世",
@@ -4627,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800704,
+      "num": 800704,
+      "word": "党的二十届三中全会精神",
+      "onboard_time": 1721355024,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 800079,
       "num": 800079,
       "word": "煤油罐车装的食用油流向了哪里",
@@ -4953,14 +4961,6 @@
       "onboard_time": 1721190740,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 775400,
-      "num": 775400,
-      "word": "党的二十届三中全会精神",
-      "onboard_time": 1721355024,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 774861,
@@ -14931,6 +14931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 353942,
+      "num": 340086,
+      "word": "好利来小程序崩了",
+      "onboard_time": 1721355505,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 353910,
       "num": 239976,
       "word": "陈乔恩教于正葡萄柚减肥法",
@@ -15627,14 +15635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340086,
-      "num": 340086,
-      "word": "好利来小程序崩了",
-      "onboard_time": 1721355505,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 340076,
       "num": 316497,
       "word": "李斯丹妮上身身材",
@@ -15657,6 +15657,14 @@
       "onboard_time": 1720682117,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 339570,
+      "num": 339570,
+      "word": "岂能尽如人意 但求不愧我心",
+      "onboard_time": 1721355024,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 339282,
@@ -15937,6 +15945,14 @@
       "onboard_time": 1720407978,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331411,
+      "num": 331411,
+      "word": "男子33万买到旧宝马获退1赔3",
+      "onboard_time": 1721355325,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331408,
@@ -16289,14 +16305,6 @@
       "onboard_time": 1720959619,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324847,
-      "num": 324847,
-      "word": "岂能尽如人意 但求不愧我心",
-      "onboard_time": 1721355024,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 324734,
@@ -16808,6 +16816,14 @@
       "word": "齐思钧主持",
       "onboard_time": 1720879519,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312874,
+      "num": 289478,
+      "word": "宋茜将录制花少6",
+      "onboard_time": 1721356285,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -18107,6 +18123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286378,
+      "num": 286378,
+      "word": "吴磊问了一个大家都想问的问题",
+      "onboard_time": 1721356045,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "索斯盖特辞职",
@@ -18361,14 +18385,6 @@
       "onboard_time": 1721020998,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282782,
-      "num": 282782,
-      "word": "男子33万买到旧宝马获退1赔3",
-      "onboard_time": 1721355325,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282671,
@@ -18985,6 +19001,14 @@
       "onboard_time": 1720517358,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268778,
+      "num": 268778,
+      "word": "喝隔夜水会致癌吗",
+      "onboard_time": 1721356045,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 268402,
@@ -20059,6 +20083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249593,
+      "num": 249593,
+      "word": "你的名字票房破6亿",
+      "onboard_time": 1721356824,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249583,
       "num": 216729,
       "word": "网友偶遇张亮儿子张天天",
@@ -20145,6 +20177,14 @@
       "onboard_time": 1720148837,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 248535,
+      "num": 248535,
+      "word": "邓为涂山璟下线拍了三天",
+      "onboard_time": 1721356225,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 248232,
@@ -21363,6 +21403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231789,
+      "num": 231789,
+      "word": "海底捞偶遇工作人员给玩偶洗澡",
+      "onboard_time": 1721354065,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231737,
       "num": 170221,
       "word": "为什么现在很少用黄瓜片敷面膜了",
@@ -21835,6 +21883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226689,
+      "num": 226689,
+      "word": "丫丫用小jio扶起篮子松弛感拉满",
+      "onboard_time": 1721354604,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226643,
       "num": 226643,
       "word": "赵今麦哭戏",
@@ -21857,14 +21913,6 @@
       "onboard_time": 1720707379,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 226584,
-      "num": 226584,
-      "word": "海底捞偶遇工作人员给玩偶洗澡",
-      "onboard_time": 1721354065,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226578,
@@ -22275,14 +22323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220503,
-      "num": 220503,
-      "word": "丫丫用小jio扶起篮子松弛感拉满",
-      "onboard_time": 1721354604,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220335,
       "num": 220335,
       "word": "晚霞",
@@ -22321,14 +22361,6 @@
       "onboard_time": 1719791778,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219754,
-      "num": 219754,
-      "word": "吴磊问了一个大家都想问的问题",
-      "onboard_time": 1721356045,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219698,
@@ -23273,14 +23305,6 @@
       "onboard_time": 1720268599,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 211936,
-      "num": 211936,
-      "word": "宋茜将录制花少6",
-      "onboard_time": 1721356285,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 211935,
@@ -24603,14 +24627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203881,
-      "num": 203881,
-      "word": "喝隔夜水会致癌吗",
-      "onboard_time": 1721356045,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 203830,
       "num": 203830,
       "word": "为什么用猪油炒菜会那么香",
@@ -24699,12 +24715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203361,
+      "num": 203361,
+      "word": "发现结婚和恋爱真的是两码事",
+      "onboard_time": 1721355505,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203284,
       "num": 203284,
       "word": "7月第一天",
       "onboard_time": 1719789314,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203195,
+      "num": 203195,
+      "word": "经纪公司证实郑佩佩去世",
+      "onboard_time": 1721356646,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 203182,
@@ -26761,14 +26793,6 @@
       "onboard_time": 1721006839,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192328,
-      "num": 192328,
-      "word": "邓为涂山璟下线拍了三天",
-      "onboard_time": 1721356225,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 192262,
@@ -31611,6 +31635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165130,
+      "num": 165130,
+      "word": "武汉知名餐厅招牌竟是福寿螺",
+      "onboard_time": 1721356526,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165129,
       "num": 161145,
       "word": "檀健次工作室 相柳半生书",
@@ -32651,14 +32683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159401,
-      "num": 159401,
-      "word": "发现结婚和恋爱真的是两码事",
-      "onboard_time": 1721355505,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159381,
       "num": 159381,
       "word": "深夜给高中班主任转账1元",
@@ -33249,14 +33273,6 @@
       "onboard_time": 1719824178,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156668,
-      "num": 156668,
-      "word": "武汉知名餐厅招牌竟是福寿螺",
-      "onboard_time": 1721356526,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 156634,
@@ -34537,14 +34553,6 @@
       "onboard_time": 1721056699,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150295,
-      "num": 150295,
-      "word": "经纪公司证实郑佩佩去世",
-      "onboard_time": 1721356646,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 150266,
@@ -44323,6 +44331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103175,
+      "num": 371397,
+      "word": "进一步全面深化改革提出300多项举措",
+      "onboard_time": 1721355565,
+      "rank": 8,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 103168,
       "num": 103168,
       "word": "消防员版跳绳燃脂教程",
@@ -47369,14 +47385,6 @@
       "onboard_time": 1720641251,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68766,
-      "num": 371397,
-      "word": "进一步全面深化改革提出300多项举措",
-      "onboard_time": 1721355565,
-      "rank": 8,
-      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 68765,

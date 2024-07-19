@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721356668094,
+  "endTime": 1721357246038,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 14890471,
-      "num": 524308,
+      "num": 530515,
       "word": "郑佩佩去世",
       "onboard_time": 1721347639,
       "rank": 3,
@@ -1187,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 5759054,
+      "num": 519135,
+      "word": "刘涛悼念郑佩佩",
+      "onboard_time": 1721355984,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5749865,
       "num": 5749865,
       "word": "福建地震",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1707488019,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4101269,
-      "num": 516684,
-      "word": "刘涛悼念郑佩佩",
-      "onboard_time": 1721355984,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 4070023,
