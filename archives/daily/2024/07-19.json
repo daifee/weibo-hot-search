@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721374487667,
+  "endTime": 1721377467502,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3520625,
+      "num": 652975,
+      "word": "郑佩佩女儿发文",
+      "onboard_time": 1721374880,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3331775,
       "num": 1828061,
       "word": "刘涛曾透露郑佩佩身体不太好",
@@ -57,6 +65,14 @@
       "onboard_time": 1721361863,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2342742,
+      "num": 501516,
+      "word": "韩国考虑改国名叫考瑞亚",
+      "onboard_time": 1721375481,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2168225,
@@ -123,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1480230,
+      "num": 1480230,
+      "word": "感谢微软 提前放假",
+      "onboard_time": 1721371101,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1475764,
       "num": 786254,
       "word": "宗庆后胞弟宗泽后发声",
       "onboard_time": 1721357723,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1367625,
-      "num": 1367625,
-      "word": "感谢微软 提前放假",
-      "onboard_time": 1721371101,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 1358601,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638220,
+      "num": 482507,
+      "word": "李菲儿 遗憾不能送您最后一程",
+      "onboard_time": 1721374760,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617771,
       "num": 605229,
       "word": "男同事拍了一下背女子一年没上班",
@@ -371,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 566936,
+      "num": 466374,
+      "word": "章子怡 世间再无碧眼狐狸",
+      "onboard_time": 1721373142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559567,
       "num": 907048,
       "word": "涂山璟下线",
@@ -385,6 +417,14 @@
       "onboard_time": 1721360424,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545611,
+      "num": 545611,
+      "word": "Happy Friday",
+      "onboard_time": 1721372181,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 512394,
@@ -427,20 +467,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492589,
-      "num": 285444,
-      "word": "章子怡 世间再无碧眼狐狸",
-      "onboard_time": 1721373142,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489779,
       "num": 489779,
       "word": "惠英红悼念郑佩佩",
       "onboard_time": 1721363339,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481583,
+      "num": 481583,
+      "word": "女子举报公婆名下有近亿资产",
+      "onboard_time": 1721376500,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474496,
+      "num": 474496,
+      "word": "兵马俑在夏天变成了冰马俑",
+      "onboard_time": 1721374880,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 462417,
@@ -457,6 +505,14 @@
       "onboard_time": 1721306299,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443357,
+      "num": 525256,
+      "word": "微软服务中断导致美国航空停飞",
+      "onboard_time": 1721374819,
+      "rank": 5,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 443046,
@@ -609,14 +665,6 @@
       "onboard_time": 1721345295,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299180,
-      "num": 299180,
-      "word": "Happy Friday",
-      "onboard_time": 1721372181,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 296651,
@@ -859,12 +907,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215092,
+      "num": 215092,
+      "word": "海底捞回应还得捞",
+      "onboard_time": 1721373680,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214434,
       "num": 214434,
       "word": "电影红楼梦定档",
       "onboard_time": 1721364683,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214405,
+      "num": 214405,
+      "word": "微软客服回应蓝屏",
+      "onboard_time": 1721372841,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 210151,
@@ -891,12 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205756,
-      "num": 205756,
-      "word": "微软客服回应蓝屏",
-      "onboard_time": 1721372841,
-      "rank": 41,
-      "category": "互联网"
+      "raw_hot": 205616,
+      "num": 205616,
+      "word": "8岁男孩涂直播间祛疤胶后左脸腐烂",
+      "onboard_time": 1721374521,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204644,
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187649,
+      "num": 187649,
+      "word": "百里东君长这么帅需要抢亲吗",
+      "onboard_time": 1721376800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187497,
       "num": 187497,
       "word": "肖战宝诗龙大片",
@@ -1115,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184856,
+      "num": 184856,
+      "word": "TFBOYS出道4千天",
+      "onboard_time": 1721376080,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184644,
       "num": 184644,
       "word": "吴磊刘亦菲同框",
@@ -1139,6 +1219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181951,
+      "num": 181951,
+      "word": "小鸟的腹部是没有毛的",
+      "onboard_time": 1721376861,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181281,
+      "num": 181281,
+      "word": "唐朝诡事录",
+      "onboard_time": 1721376021,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180901,
       "num": 636127,
       "word": "俱乐部带团采蘑菇月入近20万",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1721362105,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180597,
+      "num": 180597,
+      "word": "微软云服务已恢复",
+      "onboard_time": 1721375840,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 180244,
@@ -1177,6 +1281,14 @@
       "onboard_time": 1721345776,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175962,
+      "num": 175962,
+      "word": "有小肚子才是医生眼中健康的标志",
+      "onboard_time": 1721376741,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175199,
@@ -1233,6 +1345,22 @@
       "onboard_time": 1721367503,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157407,
+      "num": 157407,
+      "word": "甜蜜家园3上线",
+      "onboard_time": 1721375722,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153969,
+      "num": 153969,
+      "word": "微软报告出现服务中断",
+      "onboard_time": 1721376321,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 153968,
@@ -1321,6 +1449,14 @@
       "onboard_time": 1721317878,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "8999元苏州6日研学游值不值",
+      "onboard_time": 1721377343,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 117803,
@@ -1523,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89293,
+      "num": 486746,
+      "word": "烟卡换小学生手表电话卡成新骗局",
+      "onboard_time": 1721376021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89006,
       "num": 95005,
       "word": "涂山璟 背景板",
@@ -1561,6 +1705,14 @@
       "onboard_time": 1721317158,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81296,
+      "num": 505049,
+      "word": "多地提出对外卖骑手限速",
+      "onboard_time": 1721376021,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80323,
@@ -1707,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50296,
+      "num": 476995,
+      "word": "十天之后含华量拉满",
+      "onboard_time": 1721376380,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46586,
       "num": 75179,
       "word": "二十届三中全会公报要点速览",
@@ -1747,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36306,
+      "num": 1297070,
+      "word": "下定决心坚定步伐将改革进行到底",
+      "onboard_time": 1721371702,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32553,
       "num": 38340,
       "word": "怎么识别酒店床单是否换过",
@@ -1755,18 +1923,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31571,
-      "num": 1297070,
-      "word": "下定决心坚定步伐将改革进行到底",
-      "onboard_time": 1721371702,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30967,
       "num": 198642,
       "word": "暑期博物馆热持续升温",
       "onboard_time": 1721314999,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29014,
+      "num": 505991,
+      "word": "我国高分十一号05星发射成功",
+      "onboard_time": 1721377221,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -1903,6 +2071,9 @@
     },
     {
       "word": "#二十届三中全会#"
+    },
+    {
+      "word": "#习近平主持召开中共中央党外人士座谈会#"
     }
   ]
 }

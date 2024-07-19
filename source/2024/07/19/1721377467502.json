@@ -1,0 +1,410 @@
+{
+  "runTime": 1721377467502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3844367,
+        "num": 3844367,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1480230,
+        "num": 1480230,
+        "word": "感谢微软 提前放假",
+        "onboard_time": 1721371101,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36306,
+        "num": 695062,
+        "word": "下定决心坚定步伐将改革进行到底",
+        "onboard_time": 1721371702,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3520625,
+        "num": 652975,
+        "word": "郑佩佩女儿发文",
+        "onboard_time": 1721374880,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545611,
+        "num": 545611,
+        "word": "Happy Friday",
+        "onboard_time": 1721372181,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443357,
+        "num": 525256,
+        "word": "微软服务中断导致美国航空停飞",
+        "onboard_time": 1721374819,
+        "rank": 5,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 1112126,
+        "num": 518867,
+        "word": "胡歌 这是逍遥对姥姥最深的思念",
+        "onboard_time": 1721373321,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508993,
+        "num": 508993,
+        "word": "微软蓝屏",
+        "onboard_time": 1721367861,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29014,
+        "num": 505991,
+        "word": "我国高分十一号05星发射成功",
+        "onboard_time": 1721377221,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81296,
+        "num": 505049,
+        "word": "多地提出对外卖骑手限速",
+        "onboard_time": 1721376021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2342742,
+        "num": 501516,
+        "word": "韩国考虑改国名叫考瑞亚",
+        "onboard_time": 1721375481,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 799210,
+        "num": 497736,
+        "word": "张翰 想你了佩佩姐",
+        "onboard_time": 1721367982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709436,
+        "num": 493500,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646799,
+        "num": 490666,
+        "word": "花少1",
+        "onboard_time": 1721358923,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89293,
+        "num": 486746,
+        "word": "烟卡换小学生手表电话卡成新骗局",
+        "onboard_time": 1721376021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638220,
+        "num": 482507,
+        "word": "李菲儿 遗憾不能送您最后一程",
+        "onboard_time": 1721374760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481583,
+        "num": 481583,
+        "word": "女子举报公婆名下有近亿资产",
+        "onboard_time": 1721376500,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50296,
+        "num": 476995,
+        "word": "十天之后含华量拉满",
+        "onboard_time": 1721376380,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474496,
+        "num": 474496,
+        "word": "兵马俑在夏天变成了冰马俑",
+        "onboard_time": 1721374880,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 474275,
+        "num": 474275,
+        "word": "三伏天五不吃",
+        "onboard_time": 1721368942,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 566936,
+        "num": 466374,
+        "word": "章子怡 世间再无碧眼狐狸",
+        "onboard_time": 1721373142,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544639,
+        "num": 456258,
+        "word": "保姆给46天婴儿1次喂完整瓶奶",
+        "onboard_time": 1721371461,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415695,
+        "num": 415695,
+        "word": "拜登确诊后被拍到20秒上不了车",
+        "onboard_time": 1721359944,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 331439,
+        "num": 331439,
+        "word": "种地吧招聘启事",
+        "onboard_time": 1721366124,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295767,
+        "num": 295767,
+        "word": "男同事拍了一下背女子一年没上班",
+        "onboard_time": 1721365403,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278211,
+        "num": 278211,
+        "word": "助眠直播是擦边还是电子安眠药",
+        "onboard_time": 1721365225,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226593,
+        "num": 226593,
+        "word": "唐朝诡事录 吓人",
+        "onboard_time": 1721371940,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215092,
+        "num": 215092,
+        "word": "海底捞回应还得捞",
+        "onboard_time": 1721373680,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214405,
+        "num": 214405,
+        "word": "微软客服回应蓝屏",
+        "onboard_time": 1721372841,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205616,
+        "num": 205616,
+        "word": "8岁男孩涂直播间祛疤胶后左脸腐烂",
+        "onboard_time": 1721374521,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202882,
+        "num": 202882,
+        "word": "特朗普正式成为美国共和党总统候选人",
+        "onboard_time": 1721359043,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187649,
+        "num": 187649,
+        "word": "百里东君长这么帅需要抢亲吗",
+        "onboard_time": 1721376800,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184856,
+        "num": 184856,
+        "word": "TFBOYS出道4千天",
+        "onboard_time": 1721376080,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184526,
+        "num": 184526,
+        "word": "十个勤天 第三季",
+        "onboard_time": 1721370441,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183143,
+        "num": 183143,
+        "word": "感觉她上的大学才是大学",
+        "onboard_time": 1721365225,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181951,
+        "num": 181951,
+        "word": "小鸟的腹部是没有毛的",
+        "onboard_time": 1721376861,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181281,
+        "num": 181281,
+        "word": "唐朝诡事录",
+        "onboard_time": 1721376021,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180599,
+        "num": 180599,
+        "word": "云南地震",
+        "onboard_time": 1721371581,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180597,
+        "num": 180597,
+        "word": "微软云服务已恢复",
+        "onboard_time": 1721375840,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178704,
+        "num": 178704,
+        "word": "35岁小伙扛楼一年多存了40万",
+        "onboard_time": 1721365403,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175962,
+        "num": 175962,
+        "word": "有小肚子才是医生眼中健康的标志",
+        "onboard_time": 1721376741,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159345,
+        "num": 159345,
+        "word": "陈妍希十天之后回到现实状态",
+        "onboard_time": 1721372301,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444954,
+        "num": 158463,
+        "word": "周星驰 佩佩姐江湖再见",
+        "onboard_time": 1721361863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157407,
+        "num": 157407,
+        "word": "甜蜜家园3上线",
+        "onboard_time": 1721375722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153969,
+        "num": 153969,
+        "word": "微软报告出现服务中断",
+        "onboard_time": 1721376321,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144473,
+        "num": 144473,
+        "word": "凡希亚参加歌手顺便还拍了个MV",
+        "onboard_time": 1721371402,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125212,
+        "num": 125212,
+        "word": "虞书欣让中餐厅宣发变年轻了",
+        "onboard_time": 1721367861,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122755,
+        "num": 122755,
+        "word": "长相思18集名场面含量100%",
+        "onboard_time": 1721369902,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119768,
+        "num": 119768,
+        "word": "8999元苏州6日研学游值不值",
+        "onboard_time": 1721377343,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112956,
+        "num": 112956,
+        "word": "智利7.3级地震",
+        "onboard_time": 1721361624,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中共中央党外人士座谈会#"
+    }
+  }
+}
