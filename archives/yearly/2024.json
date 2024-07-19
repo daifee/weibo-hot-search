@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721398772425,
+  "endTime": 1721399793196,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -712,6 +712,14 @@
       "word": "汪苏泷 好听",
       "onboard_time": 1717160063,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7989519,
+      "num": 7989519,
+      "word": "海来阿木 好听",
+      "onboard_time": 1721396782,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -1475,6 +1483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4693372,
+      "num": 4693372,
+      "word": "黄宣淘汰",
+      "onboard_time": 1721397922,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4682095,
+      "num": 4682095,
+      "word": "张钰琪手势切特写",
+      "onboard_time": 1721395401,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4670663,
       "num": 4670663,
       "word": "春晚每一个走位都精心设计并被准确呈现",
@@ -1963,14 +1987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 3781737,
-      "num": 3781737,
-      "word": "海来阿木 好听",
-      "onboard_time": 1721396782,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3771891,
       "num": 3771891,
       "word": "乙卷没了",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1704037142,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3356421,
-      "num": 311473,
-      "word": "央视网评初中生杀害同学案",
-      "onboard_time": 1710671555,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3354866,
-      "num": 3354866,
-      "word": "宗馥莉",
-      "onboard_time": 1708835080,
-      "rank": 11,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

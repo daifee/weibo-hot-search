@@ -1,6 +1,6 @@
 {
   "startTime": 1721319860914,
-  "endTime": 1721398772425,
+  "endTime": 1721399793196,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -17,6 +17,14 @@
       "onboard_time": 1721361624,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7989519,
+      "num": 7989519,
+      "word": "海来阿木 好听",
+      "onboard_time": 1721396782,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 6508436,
@@ -43,20 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4693372,
+      "num": 4693372,
+      "word": "黄宣淘汰",
+      "onboard_time": 1721397922,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4682095,
+      "num": 4682095,
+      "word": "张钰琪手势切特写",
+      "onboard_time": 1721395401,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
       "onboard_time": 1721387720,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3781737,
-      "num": 3781737,
-      "word": "海来阿木 好听",
-      "onboard_time": 1721396782,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3669505,
@@ -107,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3016886,
-      "num": 1034928,
-      "word": "黄宣淘汰",
-      "onboard_time": 1721397922,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2548004,
       "num": 2548004,
       "word": "周星驰 佩佩姐江湖再见",
@@ -137,6 +145,14 @@
       "onboard_time": 1721367982,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1999675,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1959204,
@@ -259,6 +275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1455429,
+      "num": 545495,
+      "word": "李晟",
+      "onboard_time": 1721398641,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1382945,
       "num": 1382945,
       "word": "薛之谦 王源",
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1094353,
+      "num": 1011298,
+      "word": "袁娅维第五次被歌手淘汰",
+      "onboard_time": 1721395582,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1067645,
       "num": 1067645,
       "word": "张凯丽长文悼念郑佩佩",
@@ -355,14 +387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1011298,
-      "num": 1011298,
-      "word": "袁娅维第五次被歌手淘汰",
-      "onboard_time": 1721395582,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 993750,
       "num": 869094,
       "word": "花少 您只是先抵达下一站",
@@ -377,6 +401,14 @@
       "onboard_time": 1721376500,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947946,
+      "num": 475430,
+      "word": "海来阿木进决赛",
+      "onboard_time": 1721399301,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 937838,
@@ -432,6 +464,14 @@
       "word": "种地吧 加人",
       "onboard_time": 1721377821,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 852457,
+      "num": 524418,
+      "word": "中餐厅",
+      "onboard_time": 1721398520,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 543580,
-      "num": 449199,
+      "num": 465751,
       "word": "朴灿烈陈卓璇合唱StayWithMe",
       "onboard_time": 1721395522,
       "rank": 24,
@@ -721,14 +761,6 @@
       "onboard_time": 1721393601,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 524418,
-      "num": 524418,
-      "word": "中餐厅",
-      "onboard_time": 1721398520,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 512394,
@@ -803,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482162,
+      "num": 482162,
+      "word": "小米手环9",
+      "onboard_time": 1721399061,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 477588,
+      "num": 1019804,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 474496,
       "num": 788521,
       "word": "兵马俑在夏天变成了冰马俑",
@@ -851,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 437993,
-      "num": 1019804,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 42,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 437619,
       "num": 314036,
       "word": "小肚子瘦不下来这4种食物要少吃",
@@ -883,20 +923,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420558,
+      "num": 420558,
+      "word": "朴宝英获青龙视后",
+      "onboard_time": 1721397382,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419431,
       "num": 419431,
       "word": "那英挂电话",
       "onboard_time": 1721395401,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415339,
-      "num": 415339,
-      "word": "朴宝英获青龙视后",
-      "onboard_time": 1721397382,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 405262,
@@ -913,6 +953,22 @@
       "onboard_time": 1721397082,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 401004,
+      "num": 401004,
+      "word": "李昊 你离开了我的夏天",
+      "onboard_time": 1721395342,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 397547,
+      "num": 397547,
+      "word": "温州医科大学",
+      "onboard_time": 1721399061,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 396927,
@@ -969,14 +1025,6 @@
       "onboard_time": 1721347878,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 372344,
-      "num": 372344,
-      "word": "李昊 你离开了我的夏天",
-      "onboard_time": 1721395342,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 368302,
@@ -1355,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230804,
-      "num": 230804,
-      "word": "李晟",
-      "onboard_time": 1721398641,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 227632,
       "num": 404914,
       "word": "中国造足球内胆1秒内可500次识别动作",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1721352203,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206975,
+      "num": 206975,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1721399301,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 206466,
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174043,
+      "num": 379572,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173594,
       "num": 137037,
       "word": "谁家男女主不谈情只查案",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1721381660,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 168529,
-      "num": 168529,
-      "word": "温州一医生工作时被砍伤正抢救",
-      "onboard_time": 1721398520,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 168356,
@@ -2137,6 +2185,14 @@
       "onboard_time": 1721385499,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161754,
+      "num": 161754,
+      "word": "官方通报温州男子伤害医生后跳楼",
+      "onboard_time": 1721398880,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161285,
@@ -2289,14 +2345,6 @@
       "onboard_time": 1721386340,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134718,
-      "num": 172439,
-      "word": "女子晒背致横纹肌溶解",
-      "onboard_time": 1721396241,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132256,
@@ -2620,7 +2668,7 @@
     },
     {
       "raw_hot": 88950,
-      "num": 1513077,
+      "num": 4685101,
       "word": "二十届三中全会公报速读",
       "onboard_time": 1721394141,
       "rank": 2,
@@ -2787,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63297,
+      "num": 499984,
+      "word": "没白等小米MIXFlip三年",
+      "onboard_time": 1721398460,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59679,
       "num": 219715,
       "word": "钱塘江鱼鳞潮有多丝滑",
@@ -2827,12 +2883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58337,
+      "num": 605847,
+      "word": "暑假舅舅投喂8个外甥5口锅同开",
+      "onboard_time": 1721399242,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57689,
       "num": 95002,
       "word": "BLG",
       "onboard_time": 1721310679,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57254,
+      "num": 1032504,
+      "word": "我国成功研制太阳能动力微型飞行器",
+      "onboard_time": 1721393901,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56677,
@@ -2873,14 +2945,6 @@
       "onboard_time": 1721393901,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 51345,
-      "num": 1032504,
-      "word": "我国成功研制太阳能动力微型飞行器",
-      "onboard_time": 1721393901,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51047,
@@ -2979,14 +3043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37037,
-      "num": 421819,
-      "word": "没白等小米MIXFlip三年",
-      "onboard_time": 1721398460,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 36306,
       "num": 1297070,
       "word": "下定决心坚定步伐将改革进行到底",
@@ -3004,7 +3060,7 @@
     },
     {
       "raw_hot": 31885,
-      "num": 417132,
+      "num": 519683,
       "word": "一台有驾驶乐趣的MPV",
       "onboard_time": 1721397982,
       "rank": 37,

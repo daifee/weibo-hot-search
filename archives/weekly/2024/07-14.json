@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721398772425,
+  "endTime": 1721399793196,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7989519,
+      "num": 7989519,
+      "word": "海来阿木 好听",
+      "onboard_time": 1721396782,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6508436,
       "num": 2693726,
       "word": "郑佩佩患罕见病",
@@ -83,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4693372,
+      "num": 4693372,
+      "word": "黄宣淘汰",
+      "onboard_time": 1721397922,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4682095,
+      "num": 4682095,
+      "word": "张钰琪手势切特写",
+      "onboard_time": 1721395401,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4126542,
       "num": 4753085,
       "word": "阮富仲去世",
@@ -97,14 +121,6 @@
       "onboard_time": 1721272937,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 3781737,
-      "num": 3781737,
-      "word": "海来阿木 好听",
-      "onboard_time": 1721396782,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3669505,
@@ -185,14 +201,6 @@
       "onboard_time": 1721354665,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3016886,
-      "num": 1034928,
-      "word": "黄宣淘汰",
-      "onboard_time": 1721397922,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2841896,
@@ -289,6 +297,14 @@
       "onboard_time": 1721022016,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1999675,
+      "num": 561493,
+      "word": "温州一医生工作时被砍伤正抢救",
+      "onboard_time": 1721398520,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1959204,
@@ -625,6 +641,14 @@
       "onboard_time": 1721396421,
       "rank": 3,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1455429,
+      "num": 545495,
+      "word": "李晟",
+      "onboard_time": 1721398641,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1454906,
@@ -995,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1094353,
+      "num": 1011298,
+      "word": "袁娅维第五次被歌手淘汰",
+      "onboard_time": 1721395582,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085533,
       "num": 412656,
       "word": "薛之谦戒指",
@@ -1195,14 +1227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1011298,
-      "num": 1011298,
-      "word": "袁娅维第五次被歌手淘汰",
-      "onboard_time": 1721395582,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1004732,
       "num": 321847,
       "word": "月经快要离开时身体会给出4个提示",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1721258115,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947946,
+      "num": 475430,
+      "word": "海来阿木进决赛",
+      "onboard_time": 1721399301,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 946590,
@@ -1568,6 +1600,14 @@
       "word": "种地吧 加人",
       "onboard_time": 1721377821,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 852457,
+      "num": 524418,
+      "word": "中餐厅",
+      "onboard_time": 1720932025,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2988,7 +3028,7 @@
     },
     {
       "raw_hot": 543580,
-      "num": 449199,
+      "num": 465751,
       "word": "朴灿烈陈卓璇合唱StayWithMe",
       "onboard_time": 1721395522,
       "rank": 24,
@@ -3193,14 +3233,6 @@
       "onboard_time": 1721260637,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524418,
-      "num": 524418,
-      "word": "中餐厅",
-      "onboard_time": 1720932025,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 522946,
@@ -3643,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482162,
+      "num": 482162,
+      "word": "小米手环9",
+      "onboard_time": 1721399061,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 480529,
       "num": 480529,
       "word": "打4份工奶奶丢失2400元工资大哭",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1721121619,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 477588,
+      "num": 1019804,
+      "word": "温州",
+      "onboard_time": 1721395101,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 474762,
@@ -4027,14 +4075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 437993,
-      "num": 1019804,
-      "word": "温州",
-      "onboard_time": 1721395101,
-      "rank": 42,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 437649,
       "num": 335581,
       "word": "拜登发布声明",
@@ -4275,6 +4315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420558,
+      "num": 420558,
+      "word": "朴宝英获青龙视后",
+      "onboard_time": 1721397382,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420299,
       "num": 235093,
       "word": "infp真的需要很多钱",
@@ -4345,14 +4393,6 @@
       "onboard_time": 1721042538,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 415339,
-      "num": 415339,
-      "word": "朴宝英获青龙视后",
-      "onboard_time": 1721397382,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 414603,
@@ -4531,6 +4571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 401004,
+      "num": 401004,
+      "word": "李昊 你离开了我的夏天",
+      "onboard_time": 1721395342,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400337,
       "num": 518740,
       "word": "临江仙海报",
@@ -4545,6 +4593,14 @@
       "onboard_time": 1720913475,
       "rank": 7,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 397547,
+      "num": 397547,
+      "word": "温州医科大学",
+      "onboard_time": 1721399061,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 397407,
@@ -4841,14 +4897,6 @@
       "onboard_time": 1721015119,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372344,
-      "num": 372344,
-      "word": "李昊 你离开了我的夏天",
-      "onboard_time": 1721395342,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 371691,
@@ -7339,14 +7387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230804,
-      "num": 230804,
-      "word": "李晟",
-      "onboard_time": 1721398641,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 230784,
       "num": 230784,
       "word": "迪丽热巴第八套DIOR高定",
@@ -8225,6 +8265,14 @@
       "onboard_time": 1721308579,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206975,
+      "num": 206975,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1721399301,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 206811,
@@ -10531,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174043,
+      "num": 379572,
+      "word": "女子晒背致横纹肌溶解",
+      "onboard_time": 1721396241,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173966,
       "num": 173966,
       "word": "司机师傅可能是谈恋爱了",
@@ -10817,14 +10873,6 @@
       "onboard_time": 1721007497,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168529,
-      "num": 168529,
-      "word": "温州一医生工作时被砍伤正抢救",
-      "onboard_time": 1721398520,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 168458,
@@ -11337,6 +11385,14 @@
       "onboard_time": 1721217917,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161754,
+      "num": 161754,
+      "word": "官方通报温州男子伤害医生后跳楼",
+      "onboard_time": 1721398880,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161543,
@@ -13049,14 +13105,6 @@
       "onboard_time": 1721178560,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134718,
-      "num": 172439,
-      "word": "女子晒背致横纹肌溶解",
-      "onboard_time": 1721396241,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134638,
@@ -15308,7 +15356,7 @@
     },
     {
       "raw_hot": 88950,
-      "num": 1513077,
+      "num": 4685101,
       "word": "二十届三中全会公报速读",
       "onboard_time": 1721394141,
       "rank": 2,
@@ -16131,6 +16179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63297,
+      "num": 499984,
+      "word": "没白等小米MIXFlip三年",
+      "onboard_time": 1721398460,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62546,
       "num": 415634,
       "word": "暑期小城游火出圈",
@@ -16307,6 +16363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58337,
+      "num": 605847,
+      "word": "暑假舅舅投喂8个外甥5口锅同开",
+      "onboard_time": 1721399242,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58216,
       "num": 58216,
       "word": "2024欧洲杯",
@@ -16351,6 +16415,14 @@
       "num": 307837,
       "word": "盲人女孩郁晓楠被录取了",
       "onboard_time": 1721047998,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57254,
+      "num": 1032504,
+      "word": "我国成功研制太阳能动力微型飞行器",
+      "onboard_time": 1721393901,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -16537,14 +16609,6 @@
       "onboard_time": 1721122819,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 51345,
-      "num": 1032504,
-      "word": "我国成功研制太阳能动力微型飞行器",
-      "onboard_time": 1721393901,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51216,
@@ -17115,14 +17179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37037,
-      "num": 421819,
-      "word": "没白等小米MIXFlip三年",
-      "onboard_time": 1721398460,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 36581,
       "num": 88432,
       "word": "文韬好会撒娇啊",
@@ -17276,7 +17332,7 @@
     },
     {
       "raw_hot": 31885,
-      "num": 417132,
+      "num": 519683,
       "word": "一台有驾驶乐趣的MPV",
       "onboard_time": 1721397982,
       "rank": 37,

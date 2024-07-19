@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 22:19:32
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/19 22:36:33
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90%20%E6%92%A4%E6%A1%A3%23" target="weibo">
 野孩子 撤档（热度：8083529）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20%E5%A5%BD%E5%90%AC%23" target="weibo">
+海来阿木 好听（热度：7989519）
 </a>
 </li>
 
@@ -99,6 +105,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
+黄宣淘汰（热度：4693372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E6%89%8B%E5%8A%BF%E5%88%87%E7%89%B9%E5%86%99%23" target="weibo">
+张钰琪手势切特写（热度：4682095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E5%AF%8C%E4%BB%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 阮富仲去世（热度：4126542）
 </a>
@@ -119,12 +137,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%23" target="weibo">
 网传宗馥莉辞职（热度：3791381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20%E5%A5%BD%E5%90%AC%23" target="weibo">
-海来阿木 好听（热度：3781737）
 </a>
 </li>
 
@@ -197,12 +209,6 @@ CoCo员工被曝切西瓜时吃掉瓜心（热度：3218276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%23" target="weibo">
 刘涛（热度：3031333）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B7%98%E6%B1%B0%23" target="weibo">
-黄宣淘汰（热度：3016886）
 </a>
 </li>
 
@@ -431,6 +437,12 @@ Lenka 偷感好重（热度：2311604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%BE%E6%8A%A5%E5%84%BF%E5%AD%90%E7%9C%8B%E6%B7%AB%E7%A7%BD%E7%BD%91%E7%AB%99%E7%89%B5%E5%87%BA%E7%8A%AF%E7%BD%AA%E5%9B%A2%E4%BC%99%23" target="weibo">
 父亲举报儿子看淫秽网站牵出犯罪团伙（热度：2000825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E6%97%B6%E8%A2%AB%E7%A0%8D%E4%BC%A4%E6%AD%A3%E6%8A%A2%E6%95%91%23" target="weibo">
+温州一医生工作时被砍伤正抢救（热度：1999675）
 </a>
 </li>
 
@@ -1133,6 +1145,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9B%BE%E7%82%B9%E8%AF%84%E5%91%A8%E4%BC%A0%E9%9B%84%23" target="weibo">
 孟美岐再回应曾点评周传雄（热度：1455440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%23" target="weibo">
+李晟（热度：1455429）
 </a>
 </li>
 
@@ -2079,6 +2097,12 @@ Jennie疑似抽烟（热度：1100610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%A2%AB%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23" target="weibo">
+袁娅维第五次被歌手淘汰（热度：1094353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%95%91%E4%BA%B2%E4%BA%86%E4%B8%80%E4%B8%8B%E6%95%91%E4%BA%BA%E7%94%B7%E5%AD%90%E8%84%B8%E9%A2%8A%23" target="weibo">
 女童被救亲了一下救人男子脸颊（热度：1089035）
 </a>
@@ -2463,12 +2487,6 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%A2%AB%E6%AD%8C%E6%89%8B%E6%B7%98%E6%B1%B0%23" target="weibo">
-袁娅维第五次被歌手淘汰（热度：1011298）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%91%E6%9C%9F%E9%97%A8%E7%A5%A8%E9%A3%99%E8%87%B3719%E5%85%83%23" target="weibo">
 上海迪士尼回应暑期门票飙至719元（热度：1008707）
 </a>
@@ -2741,6 +2759,12 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%B8%AA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%AE%8B%E9%AA%B8%E7%96%91%E4%BC%BC%E8%A2%AB%E6%89%BE%E5%88%B0%23" target="weibo">
 泰国失踪中国女子残骸疑似被找到（热度：948152）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
+海来阿木进决赛（热度：947946）
 </a>
 </li>
 
@@ -3353,6 +3377,12 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E5%8A%A0%E4%BA%BA%23" target="weibo">
 种地吧 加人（热度：853493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%23" target="weibo">
+中餐厅（热度：852457）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ BOSS直聘崩了（热度：596885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E7%9D%A1%E5%A4%AA%E5%BF%AB%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%23" target="weibo">
 入睡太快是一种病（热度：596716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%20%E4%B8%96%E9%97%B4%E5%86%8D%E6%97%A0%E7%A2%A7%E7%9C%BC%E7%8B%90%E7%8B%B8%23" target="weibo">
-章子怡 世间再无碧眼狐狸（热度：596118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E7%BC%87%E8%8E%AB%E7%AC%AC%E5%85%AB%23" target="weibo">
-香缇莫第八（热度：595907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9C%8B%E7%9B%91%E8%A7%86%E5%99%A8%E8%BF%98%E5%9C%A8%E5%93%AD%23" target="weibo">
-杨紫看监视器还在哭（热度：595621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E5%A7%90%E6%B2%A1%E6%9C%89%E8%A2%ABPUA%23" target="weibo">
-张馨予 姐没有被PUA（热度：595391）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E5%85%B1%E5%92%8C%E5%85%9A%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A%23" target="weibo">
-特朗普出席共和党全国大会（热度：594954）
 </a>
 </li>
 
