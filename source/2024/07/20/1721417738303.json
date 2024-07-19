@@ -1,0 +1,410 @@
+{
+  "runTime": 1721417738303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 160943,
+        "num": 160943,
+        "word": "配送行业或迎巨变",
+        "onboard_time": 1721410514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 102544,
+        "word": "海来阿木 好听",
+        "onboard_time": 1721396782,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14659,
+        "num": 75424,
+        "word": "一文速览解读二十届三中全会精神发布会",
+        "onboard_time": 1721393901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122453,
+        "num": 75406,
+        "word": "印度男子体内藏1公斤黄金坐飞机",
+        "onboard_time": 1721405418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74452,
+        "num": 74452,
+        "word": "雷军回应董明珠怼小米空调",
+        "onboard_time": 1721401941,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120542,
+        "num": 70124,
+        "word": "郑佩佩女儿发文",
+        "onboard_time": 1721374880,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105872,
+        "num": 69020,
+        "word": "郑佩佩捐赠大脑用于医学研究",
+        "onboard_time": 1721361624,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99914,
+        "num": 67637,
+        "word": "韩国考虑改国名叫考瑞亚",
+        "onboard_time": 1721375481,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64914,
+        "num": 64914,
+        "word": "张钰琪手势切特写",
+        "onboard_time": 1721395401,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13442,
+        "num": 64718,
+        "word": "一个母亲决定抱紧患躁郁症的女儿",
+        "onboard_time": 1721417112,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200396,
+        "num": 63114,
+        "word": "厦大通报学生辱骂孕妇",
+        "onboard_time": 1721400621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81092,
+        "num": 61270,
+        "word": "特朗普亲吻刺杀案遇难者遗物",
+        "onboard_time": 1721391439,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65758,
+        "num": 60329,
+        "word": "温州",
+        "onboard_time": 1721395101,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 59939,
+        "num": 59939,
+        "word": "袁娅维第五次被歌手淘汰",
+        "onboard_time": 1721395582,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58264,
+        "num": 58264,
+        "word": "一觉醒来冷战变分手",
+        "onboard_time": 1721390540,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58204,
+        "num": 58204,
+        "word": "黄宣淘汰",
+        "onboard_time": 1721397922,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56866,
+        "num": 56866,
+        "word": "朴灿烈 我最喜欢跟你们一起唱歌了",
+        "onboard_time": 1721400262,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54514,
+        "num": 54514,
+        "word": "酒店一间房到底能住几人",
+        "onboard_time": 1721386819,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40189,
+        "num": 40189,
+        "word": "女子晒背致横纹肌溶解",
+        "onboard_time": 1721396241,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39414,
+        "num": 39414,
+        "word": "雷军演讲",
+        "onboard_time": 1721396421,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99522,
+        "num": 39404,
+        "word": "张钰琪回应中指",
+        "onboard_time": 1721395582,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52626,
+        "num": 39318,
+        "word": "薛之谦 王源",
+        "onboard_time": 1721393421,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52391,
+        "num": 39257,
+        "word": "郑佩佩患罕见病",
+        "onboard_time": 1721361443,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43989,
+        "num": 39189,
+        "word": "李昊 你离开了我的夏天",
+        "onboard_time": 1721395342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42466,
+        "num": 39148,
+        "word": "当你早睡一次你的器官belike",
+        "onboard_time": 1721399782,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39121,
+        "num": 39121,
+        "word": "歌手直播",
+        "onboard_time": 1721389819,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37063,
+        "num": 37063,
+        "word": "张钰琪比中指",
+        "onboard_time": 1721392460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35738,
+        "num": 35738,
+        "word": "北京冰雹",
+        "onboard_time": 1721393601,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34899,
+        "num": 34899,
+        "word": "黄宣无代餐",
+        "onboard_time": 1721397623,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18459,
+        "num": 34645,
+        "word": "人生从来不会太晚",
+        "onboard_time": 1721400922,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36808,
+        "num": 34635,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1721399301,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34608,
+        "num": 34608,
+        "word": "中餐厅",
+        "onboard_time": 1721398520,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34140,
+        "num": 34140,
+        "word": "阮富仲去世",
+        "onboard_time": 1721387720,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31474,
+        "num": 31474,
+        "word": "千金府",
+        "onboard_time": 1721411293,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31408,
+        "num": 31408,
+        "word": "小米发布会",
+        "onboard_time": 1721386399,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30235,
+        "num": 30235,
+        "word": "华晨宇 郑奶奶一路走好",
+        "onboard_time": 1721389699,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29282,
+        "num": 29282,
+        "word": "那英挂电话",
+        "onboard_time": 1721395401,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29170,
+        "num": 29170,
+        "word": "小夭大婚vs阿念大婚",
+        "onboard_time": 1721403501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27871,
+        "num": 28632,
+        "word": "教体局回应查成绩需下载app充会员",
+        "onboard_time": 1721390180,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24599,
+        "num": 28578,
+        "word": "小米汽车",
+        "onboard_time": 1721389159,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28527,
+        "num": 28527,
+        "word": "海来阿木进决赛",
+        "onboard_time": 1721399301,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 28063,
+        "word": "黄宣淘汰感言",
+        "onboard_time": 1721401222,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27288,
+        "num": 28062,
+        "word": "歌手突围赛",
+        "onboard_time": 1721416631,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26408,
+        "num": 28059,
+        "word": "朴宝英获青龙视后",
+        "onboard_time": 1721397382,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24798,
+        "num": 28058,
+        "word": "TMEA室内音乐节",
+        "onboard_time": 1721416992,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24016,
+        "num": 28057,
+        "word": "泽连斯基回应若特朗普胜选",
+        "onboard_time": 1721409315,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23287,
+        "num": 28054,
+        "word": "韩国队奥运没带空调发冰坎肩",
+        "onboard_time": 1721391320,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20228,
+        "num": 28054,
+        "word": "美国政府监视巴西总统超50年",
+        "onboard_time": 1721401463,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18808,
+        "num": 28052,
+        "word": "背肌好的人体态有多美",
+        "onboard_time": 1721416092,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18442,
+        "num": 28050,
+        "word": "小米手环9",
+        "onboard_time": 1721399061,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
