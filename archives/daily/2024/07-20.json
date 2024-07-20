@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721456854454,
+  "endTime": 1721457575793,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1177835,
-      "num": 581368,
+      "num": 628450,
       "word": "徐艺洋黄子韬双方娘家大会面",
       "onboard_time": 1721449639,
       "rank": 11,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929734,
+      "num": 687861,
+      "word": "宋丹丹贴脸问陈妍希老公是谁",
+      "onboard_time": 1721456600,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 869153,
       "num": 772965,
       "word": "小英一家开公司",
@@ -171,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753190,
+      "num": 253112,
+      "word": "24岁被自己的父亲抡了6个耳光",
+      "onboard_time": 1721452760,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 751189,
       "num": 468241,
       "word": "郑佩佩捐赠大脑用于医学研究",
       "onboard_time": 1721361624,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 737246,
-      "num": 253112,
-      "word": "24岁被自己的父亲抡了6个耳光",
-      "onboard_time": 1721452760,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 734408,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621791,
+      "num": 621791,
+      "word": "陈楚生发文恭喜黄霄雲",
+      "onboard_time": 1721455758,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 605763,
       "num": 605763,
       "word": "密室大逃脱6官宣",
@@ -361,14 +377,6 @@
       "onboard_time": 1721452701,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490955,
-      "num": 490955,
-      "word": "陈楚生发文恭喜黄霄雲",
-      "onboard_time": 1721455758,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 489482,
@@ -715,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240156,
-      "num": 240156,
-      "word": "宋丹丹贴脸问陈妍希老公是谁",
-      "onboard_time": 1721456600,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239941,
       "num": 239941,
       "word": "歌手总决赛阵容出炉",
@@ -835,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212776,
+      "num": 212776,
+      "word": "火车上卖炸鸡桶火了",
+      "onboard_time": 1721454439,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211443,
       "num": 193720,
       "word": "朴灿烈新发色",
@@ -851,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208658,
+      "num": 208658,
+      "word": "过敏体质爸爸惹怒女儿被巴掌烙印",
+      "onboard_time": 1721453720,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208308,
       "num": 208308,
       "word": "王嘉尔上海开店",
@@ -859,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205797,
-      "num": 205797,
-      "word": "火车上卖炸鸡桶火了",
-      "onboard_time": 1721454439,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 205320,
+      "num": 205320,
+      "word": "颖儿悼念郑佩佩",
+      "onboard_time": 1721457198,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 205222,
@@ -873,6 +889,22 @@
       "onboard_time": 1721385320,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204237,
+      "num": 204237,
+      "word": "黄霄雲娱乐圈的人脉",
+      "onboard_time": 1721457079,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 203981,
+      "num": 203981,
+      "word": "林俊杰帽子",
+      "onboard_time": 1721456900,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201627,
@@ -905,14 +937,6 @@
       "onboard_time": 1721398520,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194741,
-      "num": 194741,
-      "word": "过敏体质爸爸惹怒女儿被巴掌烙印",
-      "onboard_time": 1721453720,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194128,
@@ -993,6 +1017,14 @@
       "onboard_time": 1721451501,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184354,
+      "num": 184354,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1721456900,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 183313,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1721386399,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152354,
+      "num": 152354,
+      "word": "永夜星河",
+      "onboard_time": 1721457019,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152235,
@@ -1523,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83242,
+      "num": 629359,
+      "word": "垮塌高速桥坠桥者挂树枝上被救起",
+      "onboard_time": 1721456120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80452,
       "num": 80452,
       "word": "千金府",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1721410634,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48151,
-      "num": 598607,
-      "word": "垮塌高速桥坠桥者挂树枝上被救起",
-      "onboard_time": 1721456120,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47101,
