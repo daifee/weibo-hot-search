@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721446585423,
+  "endTime": 1721449498294,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -27,6 +27,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2322094,
+      "num": 1831298,
+      "word": "种地吧官博一晚掉粉10万",
+      "onboard_time": 1721448139,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1643444,
       "num": 466061,
       "word": "厦大通报学生辱骂孕妇",
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 1570783,
-      "num": 418642,
+      "num": 433405,
       "word": "无性婚姻",
       "onboard_time": 1721439379,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1321241,
+      "num": 1321241,
+      "word": "爱奇艺 十个勤天",
+      "onboard_time": 1721439858,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1255147,
@@ -56,6 +72,30 @@
       "word": "专家称家庭月收入4000元可全家脱贫",
       "onboard_time": 1721435779,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1183641,
+      "num": 1919505,
+      "word": "外媒曝特朗普承诺将结束俄乌冲突",
+      "onboard_time": 1721444420,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1176107,
+      "num": 1827194,
+      "word": "陕西一公路桥梁垮塌已致11人遇难",
+      "onboard_time": 1721445381,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072455,
+      "num": 1072455,
+      "word": "陕西一大桥垮塌仍有30余人失联",
+      "onboard_time": 1721446641,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -80,22 +120,6 @@
       "word": "商场内孩子走丢母亲崩溃砸金店玻璃",
       "onboard_time": 1721432476,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929278,
-      "num": 882968,
-      "word": "爱奇艺 十个勤天",
-      "onboard_time": 1721439858,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 922551,
-      "num": 1827194,
-      "word": "陕西一公路桥梁垮塌已致11人遇难",
-      "onboard_time": 1721445381,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 734408,
-      "num": 239407,
+      "num": 245809,
       "word": "亲妹妹非要我女儿叫她姐姐",
       "onboard_time": 1721442080,
       "rank": 30,
@@ -137,6 +161,14 @@
       "onboard_time": 1721435058,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675604,
+      "num": 675604,
+      "word": "密室大逃脱",
+      "onboard_time": 1721445980,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 674146,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 467959,
-      "num": 399566,
+      "num": 433133,
       "word": "温医一院悼念李晟医生",
       "onboard_time": 1721431815,
       "rank": 17,
@@ -307,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427631,
+      "num": 427631,
+      "word": "乐华否认王一博代言莆田鞋",
+      "onboard_time": 1721443519,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409645,
       "num": 409645,
       "word": "残害医生必须严惩不贷",
@@ -339,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373161,
-      "num": 373161,
-      "word": "乐华否认王一博代言莆田鞋",
-      "onboard_time": 1721443519,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
@@ -361,6 +393,14 @@
       "onboard_time": 1721391439,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 356544,
+      "num": 356544,
+      "word": "密室大逃脱6官宣",
+      "onboard_time": 1721448319,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 356245,
@@ -411,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301606,
+      "num": 301606,
+      "word": "英雄联盟手游",
+      "onboard_time": 1721448259,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297873,
       "num": 239399,
       "word": "被裁员了拿了12万补偿金",
@@ -459,19 +507,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272467,
+      "num": 245582,
+      "word": "半个内娱都安利过你的名字",
+      "onboard_time": 1721446939,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 263871,
       "num": 234975,
       "word": "第一次在王俊凯身上看到无力感",
       "onboard_time": 1721443580,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 260709,
-      "num": 209969,
-      "word": "密室大逃脱",
-      "onboard_time": 1721445980,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -489,6 +537,22 @@
       "onboard_time": 1721446099,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248642,
+      "num": 245483,
+      "word": "去新疆吃水果的人嘴是真严",
+      "onboard_time": 1721447058,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 245842,
+      "num": 245842,
+      "word": "亦舒",
+      "onboard_time": 1721446819,
+      "rank": 19,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 239941,
@@ -537,6 +601,14 @@
       "onboard_time": 1721423051,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 228931,
+      "num": 228931,
+      "word": "爸妈为了面子花几十万在农村建房子",
+      "onboard_time": 1721445619,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 224734,
@@ -609,6 +681,14 @@
       "onboard_time": 1721385320,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "像喝了三斤又吃了毒蘑菇后拍的",
+      "onboard_time": 1721447659,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 200491,
@@ -691,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187291,
-      "num": 187291,
-      "word": "爸妈为了面子花几十万在农村建房子",
-      "onboard_time": 1721445619,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183313,
       "num": 183313,
       "word": "很烧钱但是戒不了的爱好",
@@ -745,6 +817,14 @@
       "onboard_time": 1721438179,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174822,
+      "num": 174822,
+      "word": "歌手",
+      "onboard_time": 1721448558,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 171570,
@@ -795,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163400,
-      "num": 291596,
-      "word": "外媒曝特朗普承诺将结束俄乌冲突",
-      "onboard_time": 1721444420,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 162609,
       "num": 162609,
       "word": "把这三个组到一起的人真是天才",
@@ -825,6 +897,14 @@
       "onboard_time": 1721392460,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160514,
+      "num": 160514,
+      "word": "姜广涛唱歌了",
+      "onboard_time": 1721448198,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 159684,
@@ -931,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145620,
+      "num": 145620,
+      "word": "特朗普与泽连斯基通话",
+      "onboard_time": 1721446879,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 141500,
       "num": 141500,
       "word": "为什么很多人都跟高中同学结婚",
@@ -953,6 +1041,14 @@
       "onboard_time": 1721436198,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 131545,
+      "num": 131545,
+      "word": "怪盗基德 脸在江山在",
+      "onboard_time": 1721447900,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 129307,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1721439618,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115899,
+      "num": 160098,
+      "word": "应急管理部工作组赶赴陕西柞水",
+      "onboard_time": 1721447419,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115175,
@@ -1155,6 +1259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83039,
+      "num": 428813,
+      "word": "陕西公路桥梁垮塌有路人激动拦车",
+      "onboard_time": 1721448379,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80452,
       "num": 80452,
       "word": "千金府",
@@ -1180,7 +1292,7 @@
     },
     {
       "raw_hot": 74812,
-      "num": 528861,
+      "num": 1537826,
       "word": "幸福就在这里走进西藏",
       "onboard_time": 1721444479,
       "rank": 2,
