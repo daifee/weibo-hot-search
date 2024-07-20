@@ -1,0 +1,410 @@
+{
+  "runTime": 1721500703430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460987,
+        "num": 460987,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193279,
+        "num": 193279,
+        "word": "wei大xun",
+        "onboard_time": 1721480118,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32517,
+        "num": 158456,
+        "word": "30秒速览巴黎奥运中国代表团阵容",
+        "onboard_time": 1721483239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450157,
+        "num": 147032,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128273,
+        "num": 128273,
+        "word": "特朗普噘嘴求亲吻妻子的反应",
+        "onboard_time": 1721482760,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98287,
+        "num": 98287,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152325,
+        "num": 96147,
+        "word": "张子墨回应退出登陆日",
+        "onboard_time": 1721496135,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123657,
+        "num": 89823,
+        "word": "十个勤天",
+        "onboard_time": 1721477360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81381,
+        "num": 81381,
+        "word": "外国人免签144小时把酸汤火锅吃火了",
+        "onboard_time": 1721477059,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 7933,
+        "num": 81085,
+        "word": "女子被卷入车底众人飞奔抬车救人",
+        "onboard_time": 1721499493,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275553,
+        "num": 80544,
+        "word": "初步确认垮塌高速桥坠桥43人信息",
+        "onboard_time": 1721486603,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186610,
+        "num": 80318,
+        "word": "特朗普17岁长孙女演讲出圈",
+        "onboard_time": 1721486121,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127836,
+        "num": 80096,
+        "word": "国家卫健委表示对伤医事件零容忍",
+        "onboard_time": 1721483961,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 79682,
+        "word": "硬卧39小时55分钟造一个舒适小窝",
+        "onboard_time": 1721498353,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88672,
+        "num": 79196,
+        "word": "新疆尉犁县4.5级地震",
+        "onboard_time": 1721499252,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85645,
+        "num": 78702,
+        "word": "代露娃回应长相思角色争议",
+        "onboard_time": 1721487502,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83631,
+        "num": 78113,
+        "word": "王嘉尔又当伴郎了",
+        "onboard_time": 1721489301,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82566,
+        "num": 77756,
+        "word": "反对任何形式的暴力伤医",
+        "onboard_time": 1721468839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77600,
+        "num": 77600,
+        "word": "差点没认出这是吴京",
+        "onboard_time": 1721486301,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73585,
+        "num": 73585,
+        "word": "医生说24岁的我舌头放错位置了",
+        "onboard_time": 1721476639,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69685,
+        "num": 69685,
+        "word": "汪苏泷还原戚薇名场面",
+        "onboard_time": 1721484501,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68867,
+        "num": 68867,
+        "word": "薛之谦嘉宾韩红",
+        "onboard_time": 1721481798,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65800,
+        "num": 65800,
+        "word": "超雄综合征真是天生坏种吗",
+        "onboard_time": 1721469559,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61129,
+        "num": 61129,
+        "word": "女子行李箱藏448只寄居蟹入境",
+        "onboard_time": 1721475980,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50673,
+        "num": 50673,
+        "word": "山东的桃子已经离谱到这种程度了吗",
+        "onboard_time": 1721496975,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48693,
+        "num": 48693,
+        "word": "追星学到的第一课就是接受遗憾",
+        "onboard_time": 1721499913,
+        "rank": 25,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 47820,
+        "num": 47820,
+        "word": "告五人 深圳",
+        "onboard_time": 1721490260,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46837,
+        "num": 46837,
+        "word": "新秀diss范丞丞",
+        "onboard_time": 1721480718,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 45755,
+        "num": 45755,
+        "word": "TFBOYS在这位大哥嘴里合体了",
+        "onboard_time": 1721482519,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45513,
+        "num": 45513,
+        "word": "我的初代唱跳白月光杀回来了",
+        "onboard_time": 1721485401,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43609,
+        "num": 43609,
+        "word": "张予曦获得你好歌手2024歌王",
+        "onboard_time": 1721486841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 43252,
+        "word": "发烫的手机一下就降温了",
+        "onboard_time": 1721488881,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40371,
+        "num": 40371,
+        "word": "滴滴客服就8公里收费两百多致歉",
+        "onboard_time": 1721485641,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39805,
+        "num": 39805,
+        "word": "小尖尖",
+        "onboard_time": 1721482159,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38812,
+        "num": 38812,
+        "word": "王家卫转发",
+        "onboard_time": 1721473758,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38544,
+        "num": 38544,
+        "word": "跟自己亲弟弟永远和解不了",
+        "onboard_time": 1721474958,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37431,
+        "num": 37431,
+        "word": "验尸师一辈子最后验的是儿子",
+        "onboard_time": 1721474418,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36317,
+        "num": 36317,
+        "word": "朱志鑫组二公小考第一",
+        "onboard_time": 1721494696,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36285,
+        "num": 36285,
+        "word": "EDG夺冠",
+        "onboard_time": 1721483782,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36141,
+        "num": 36141,
+        "word": "BLG换人",
+        "onboard_time": 1721477480,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35162,
+        "num": 35162,
+        "word": "演员李晟回怼网友",
+        "onboard_time": 1721459238,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 34426,
+        "num": 34426,
+        "word": "Fly泼水一直在撤回",
+        "onboard_time": 1721496435,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34414,
+        "num": 34414,
+        "word": "汪苏泷巡演",
+        "onboard_time": 1721484802,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33793,
+        "num": 33793,
+        "word": "重庆警方通报男子轨交上猥亵女子",
+        "onboard_time": 1721489361,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33627,
+        "num": 33627,
+        "word": "香缇莫孙楠给张予曦颁奖",
+        "onboard_time": 1721486062,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32955,
+        "num": 32955,
+        "word": "金智媛怼脸生图",
+        "onboard_time": 1721487742,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32484,
+        "num": 32484,
+        "word": "张韶涵香水百合",
+        "onboard_time": 1721484320,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31229,
+        "num": 31229,
+        "word": "盗墓笔记",
+        "onboard_time": 1721484622,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 30286,
+        "num": 30286,
+        "word": "檀健次直播",
+        "onboard_time": 1721483121,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20443,
+        "num": 30279,
+        "word": "王楚钦说奥运混双是孤勇者",
+        "onboard_time": 1721487440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}
