@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721511273921,
+  "endTime": 1721513905516,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93439,
+      "num": 48269,
+      "word": "中专逆袭留学博主回应被海外高校打假",
+      "onboard_time": 1721502372,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49190,
-      "num": 41361,
-      "word": "中专逆袭留学博主回应被海外高校打假",
-      "onboard_time": 1721502372,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47458,
       "num": 91049,
       "word": "EDG夺冠",
@@ -489,6 +489,30 @@
       "onboard_time": 1721496435,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45854,
+      "num": 45854,
+      "word": "番茄小说回应AI协议遭作者质疑",
+      "onboard_time": 1721507591,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 39069,
+      "num": 39069,
+      "word": "自驾阿姨说花16万离婚几乎倾家荡产",
+      "onboard_time": 1721510472,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36843,
+      "num": 36843,
+      "word": "宏胜集团已注册宗馥莉商标",
+      "onboard_time": 1721511431,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33815,
@@ -507,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26814,
+      "num": 28542,
+      "word": "这3种药长期服用或让免疫力下降",
+      "onboard_time": 1721501772,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26381,
+      "num": 26381,
+      "word": "商家按单做热咖啡被顾客差评要冷的",
+      "onboard_time": 1721507531,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 26373,
       "num": 28587,
       "word": "新说唱2024",
@@ -515,20 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26001,
-      "num": 28542,
-      "word": "这3种药长期服用或让免疫力下降",
-      "onboard_time": 1721501772,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25615,
-      "num": 25615,
-      "word": "番茄小说回应AI协议遭作者质疑",
-      "onboard_time": 1721507591,
+      "raw_hot": 25547,
+      "num": 25547,
+      "word": "一个看似养生的行为可能在养癌",
+      "onboard_time": 1721510111,
       "rank": 49,
-      "category": "读书作家"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23248,
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21177,
+      "num": 24837,
+      "word": "刘国梁发国乒巴黎备战视频",
+      "onboard_time": 1721506813,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20828,
       "num": 212190,
       "word": "用四川方言打开火把节斗牛赛",
@@ -555,44 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20401,
-      "num": 21254,
-      "word": "商家按单做热咖啡被顾客差评要冷的",
-      "onboard_time": 1721507531,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 19757,
-      "num": 21268,
-      "word": "刘国梁发国乒巴黎备战视频",
-      "onboard_time": 1721506813,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18137,
-      "num": 21286,
+      "raw_hot": 18847,
+      "num": 24829,
       "word": "高速垮塌灾害亲历者讲述获救情形",
       "onboard_time": 1721505732,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15283,
-      "num": 19131,
-      "word": "自驾阿姨说花16万离婚几乎倾家荡产",
-      "onboard_time": 1721510472,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14346,
-      "num": 20273,
-      "word": "一个看似养生的行为可能在养癌",
-      "onboard_time": 1721510111,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13740,
