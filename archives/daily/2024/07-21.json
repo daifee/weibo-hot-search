@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721507721686,
+  "endTime": 1721510277750,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -483,8 +483,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35544,
-      "num": 35544,
+      "raw_hot": 41361,
+      "num": 41361,
       "word": "中专逆袭留学博主回应被海外高校打假",
       "onboard_time": 1721502372,
       "rank": 19,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21679,
+      "num": 21679,
+      "word": "番茄小说回应AI协议遭作者质疑",
+      "onboard_time": 1721507591,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 21484,
       "num": 211353,
       "word": "他们纷纷上前帮推车的身影可真帅",
@@ -547,23 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17449,
-      "num": 21286,
-      "word": "高速垮塌灾害亲历者讲述获救情形",
-      "onboard_time": 1721505732,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15847,
-      "num": 21268,
-      "word": "刘国梁发国乒巴黎备战视频",
-      "onboard_time": 1721506813,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 14581,
+      "raw_hot": 19268,
       "num": 21254,
       "word": "商家按单做热咖啡被顾客差评要冷的",
       "onboard_time": 1721507531,
@@ -571,12 +563,36 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 14371,
-      "num": 21252,
-      "word": "番茄小说回应AI协议遭作者质疑",
-      "onboard_time": 1721507591,
+      "raw_hot": 18206,
+      "num": 21268,
+      "word": "刘国梁发国乒巴黎备战视频",
+      "onboard_time": 1721506813,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18137,
+      "num": 21286,
+      "word": "高速垮塌灾害亲历者讲述获救情形",
+      "onboard_time": 1721505732,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13740,
+      "num": 20275,
+      "word": "切实保障人民群众生命财产安全",
+      "onboard_time": 1721508011,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13647,
+      "num": 20273,
+      "word": "一个看似养生的行为可能在养癌",
+      "onboard_time": 1721510111,
       "rank": 49,
-      "category": "读书作家"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12769,
