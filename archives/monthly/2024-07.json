@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721504099289,
+  "endTime": 1721506779378,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -56499,6 +56499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29982,
+      "num": 29982,
+      "word": "中专逆袭留学博主回应被海外高校打假",
+      "onboard_time": 1721502372,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29859,
       "num": 408566,
       "word": "我国航天员已圆满完成16次出舱活动",
@@ -56849,6 +56857,14 @@
       "onboard_time": 1720183879,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26972,
+      "num": 28525,
+      "word": "巴黎奥运村主餐厅以前是工厂",
+      "onboard_time": 1721501712,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26885,
@@ -57513,14 +57529,6 @@
       "onboard_time": 1720510218,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22608,
-      "num": 28525,
-      "word": "巴黎奥运村主餐厅以前是工厂",
-      "onboard_time": 1721501712,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 22574,
@@ -58241,6 +58249,14 @@
       "onboard_time": 1720802956,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 15867,
+      "num": 20618,
+      "word": "高速垮塌灾害亲历者讲述获救情形",
+      "onboard_time": 1721505732,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15846,
