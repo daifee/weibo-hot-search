@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 18:20:33
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 18:38:05
 </p>
 </blockquote>
 <p>
@@ -1685,6 +1685,12 @@ DK（热度：1341805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%80%B3%E7%97%92%E4%BA%861%E5%B9%B4%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%80%E6%A0%B9%E7%AE%A1%E5%AD%90%23" target="weibo">
 左耳痒了1年居然是因为一根管子（热度：1255147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%8E%89%E7%B2%89%E8%B6%8530%E4%B8%87%23" target="weibo">
+种地吧掉粉超30万（热度：1254093）
 </a>
 </li>
 
@@ -3735,6 +3741,12 @@ B太称新疆行回程给司机大姐买机票（热度：833367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8C%E8%85%BF%E7%BB%9180%E5%9D%97%E5%8D%A1%E8%A5%BF%E6%AC%A7%E6%89%8B%E8%A1%A8%E8%BF%9B%E5%A2%83%23" target="weibo">
+女子双腿绑80块卡西欧手表进境（热度：828124）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%20%E8%82%96%E6%88%98%23" target="weibo">
 得闲谨制 肖战（热度：827733）
 </a>
@@ -3815,12 +3827,6 @@ B太称新疆行回程给司机大姐买机票（热度：833367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D717%E7%81%AB%E7%81%BE%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8E%A7%E5%88%B6%23" target="weibo">
 四川717火灾相关责任人已被警方控制（热度：819478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8C%E8%85%BF%E7%BB%9180%E5%9D%97%E5%8D%A1%E8%A5%BF%E6%AC%A7%E6%89%8B%E8%A1%A8%E8%BF%9B%E5%A2%83%23" target="weibo">
-女子双腿绑80块卡西欧手表进境（热度：818984）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20190%23" target="weibo">
 张凌赫 190（热度：613476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E7%9B%B4%E6%92%AD%E5%91%A2%23" target="weibo">
-华晨宇 直播呢（热度：613039）
 </a>
 </li>
 
