@@ -1,0 +1,410 @@
+{
+  "runTime": 1721474197836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3034933,
+        "num": 3034933,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1231291,
+        "num": 1231291,
+        "word": "超雄",
+        "onboard_time": 1721463620,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92305,
+        "num": 1153038,
+        "word": "德化白瓷已经美到nextlevel",
+        "onboard_time": 1721462117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104773,
+        "num": 1104773,
+        "word": "超雄综合征真是天生坏种吗",
+        "onboard_time": 1721469559,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 952505,
+        "num": 952505,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705138,
+        "num": 705138,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1721460678,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655488,
+        "num": 655488,
+        "word": "胎儿检出嵌合体超雄引热议",
+        "onboard_time": 1721460918,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583520,
+        "num": 583520,
+        "word": "泡泡",
+        "onboard_time": 1721467040,
+        "rank": 7,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 582584,
+        "num": 582584,
+        "word": "爱奇艺",
+        "onboard_time": 1721473458,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25544,
+        "num": 478972,
+        "word": "暑假高校预约打卡攻略",
+        "onboard_time": 1721471058,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 600492,
+        "num": 476541,
+        "word": "反对任何形式的暴力伤医",
+        "onboard_time": 1721468839,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456823,
+        "num": 456823,
+        "word": "女子双腿绑80块卡西欧手表进境",
+        "onboard_time": 1721466499,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380061,
+        "num": 380061,
+        "word": "宝马i3上调至20万元以上",
+        "onboard_time": 1721470039,
+        "rank": 12,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 376263,
+        "num": 376263,
+        "word": "张碧晨下班恨不得用飞的",
+        "onboard_time": 1721470039,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373523,
+        "num": 373523,
+        "word": "王家卫转发",
+        "onboard_time": 1721473758,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384052,
+        "num": 373333,
+        "word": "演员李晟回怼网友",
+        "onboard_time": 1721459238,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 373077,
+        "num": 373077,
+        "word": "宋丹丹贴脸问陈妍希老公是谁",
+        "onboard_time": 1721456600,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352939,
+        "num": 352939,
+        "word": "蓝色监狱",
+        "onboard_time": 1721467999,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209261,
+        "num": 209261,
+        "word": "四川雅安暴雨山洪致30余人失联",
+        "onboard_time": 1721460138,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204998,
+        "num": 204998,
+        "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+        "onboard_time": 1721465598,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440211,
+        "num": 204607,
+        "word": "胡一天把中餐厅录成偶像剧",
+        "onboard_time": 1721472258,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312804,
+        "num": 203746,
+        "word": "24岁被自己的父亲抡了6个耳光",
+        "onboard_time": 1721452760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287217,
+        "num": 202177,
+        "word": "时代峰峻泡泡",
+        "onboard_time": 1721468359,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241607,
+        "num": 201851,
+        "word": "真的好喜欢微信这个功能",
+        "onboard_time": 1721468540,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218664,
+        "num": 200735,
+        "word": "近视不戴眼镜度数会长得更快",
+        "onboard_time": 1721472919,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205341,
+        "num": 199074,
+        "word": "徐艺洋黄子韬双方娘家大会面",
+        "onboard_time": 1721449639,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198753,
+        "num": 198753,
+        "word": "张泽禹目标C位出道",
+        "onboard_time": 1721473817,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186844,
+        "num": 186844,
+        "word": "因为我远离了原生家庭",
+        "onboard_time": 1721471599,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178123,
+        "num": 178123,
+        "word": "石凯南京",
+        "onboard_time": 1721472679,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 174114,
+        "word": "警方回应商场孩子走丢母亲砸金店",
+        "onboard_time": 1721459418,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171779,
+        "num": 171779,
+        "word": "歌手鹿晗",
+        "onboard_time": 1721452580,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170749,
+        "num": 170749,
+        "word": "郭艾伦TheShy难兄难弟",
+        "onboard_time": 1721472139,
+        "rank": 31,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 162054,
+        "num": 162054,
+        "word": "Wolves对战成都GG",
+        "onboard_time": 1721473758,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157939,
+        "num": 157939,
+        "word": "异人之下也封神了",
+        "onboard_time": 1721469079,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146883,
+        "num": 146883,
+        "word": "10元在广西能买几十个火龙果",
+        "onboard_time": 1721471958,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135850,
+        "num": 135850,
+        "word": "LGDNBW锁定第三轮A组",
+        "onboard_time": 1721474119,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135671,
+        "num": 135671,
+        "word": "丰隆 少年将军",
+        "onboard_time": 1721471118,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 134990,
+        "word": "玱玹发怒",
+        "onboard_time": 1721472980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128881,
+        "num": 128881,
+        "word": "王鸥冰天雪地穿露背礼服",
+        "onboard_time": 1721470579,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91510,
+        "num": 123690,
+        "word": "台风",
+        "onboard_time": 1721457620,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "种地吧",
+        "onboard_time": 1721385320,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122005,
+        "num": 122005,
+        "word": "为何夏天手上总长透明小水泡",
+        "onboard_time": 1721473278,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121242,
+        "num": 121242,
+        "word": "萨摩耶出淤泥染半身",
+        "onboard_time": 1721472619,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118801,
+        "num": 118801,
+        "word": "JDG淘汰",
+        "onboard_time": 1721463497,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 117344,
+        "word": "无畏契约表演赛",
+        "onboard_time": 1721473699,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117266,
+        "num": 117266,
+        "word": "时代少年团谈个人资源",
+        "onboard_time": 1721472018,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 115148,
+        "word": "种地吧 加人",
+        "onboard_time": 1721377821,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113953,
+        "num": 113953,
+        "word": "第五人格取悦",
+        "onboard_time": 1721470399,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90310,
+        "num": 112616,
+        "word": "村民讲述四川雅安山洪灾害情形",
+        "onboard_time": 1721473397,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83583,
+        "num": 112426,
+        "word": "对四川自贡大楼火灾事故挂牌督办",
+        "onboard_time": 1721473939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对陕西柞水桥梁发生垮塌作出重要指示#"
+    }
+  }
+}

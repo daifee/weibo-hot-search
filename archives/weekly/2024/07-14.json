@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721471885068,
+  "endTime": 1721474197836,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1721301197,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1104773,
+      "num": 1104773,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1101363,
@@ -3035,14 +3043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 594243,
-      "num": 594243,
-      "word": "超雄综合征真是天生坏种吗",
-      "onboard_time": 1721469559,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 593826,
       "num": 258711,
       "word": "真的建议大家回归线下生活",
@@ -3185,6 +3185,14 @@
       "onboard_time": 1721130678,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582584,
+      "num": 582584,
+      "word": "爱奇艺",
+      "onboard_time": 1721473458,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 578627,
@@ -4539,6 +4547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 440211,
+      "num": 204607,
+      "word": "胡一天把中餐厅录成偶像剧",
+      "onboard_time": 1721472258,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440151,
       "num": 296009,
       "word": "李梦复出",
@@ -5491,6 +5507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 376263,
+      "num": 376263,
+      "word": "张碧晨下班恨不得用飞的",
+      "onboard_time": 1721470039,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375322,
       "num": 375322,
       "word": "得闲谨制开机",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1721113158,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373523,
+      "num": 373523,
+      "word": "王家卫转发",
+      "onboard_time": 1721473758,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 372350,
@@ -5777,6 +5809,14 @@
       "onboard_time": 1721131758,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352939,
+      "num": 352939,
+      "word": "蓝色监狱",
+      "onboard_time": 1721467999,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 352730,
@@ -8531,14 +8571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221823,
-      "num": 221823,
-      "word": "蓝色监狱",
-      "onboard_time": 1721467999,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 221745,
       "num": 221745,
       "word": "等我辞职了就去干这个",
@@ -8657,6 +8689,14 @@
       "onboard_time": 1721227940,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218664,
+      "num": 200735,
+      "word": "近视不戴眼镜度数会长得更快",
+      "onboard_time": 1721472919,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218539,
@@ -9747,14 +9787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200851,
-      "num": 200851,
-      "word": "张碧晨下班恨不得用飞的",
-      "onboard_time": 1721470039,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "特朗普遇刺案遇难者系消防员",
@@ -9937,6 +9969,14 @@
       "onboard_time": 1721378541,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198753,
+      "num": 198753,
+      "word": "张泽禹目标C位出道",
+      "onboard_time": 1721473817,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198730,
@@ -10915,6 +10955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186844,
+      "num": 186844,
+      "word": "因为我远离了原生家庭",
+      "onboard_time": 1721471599,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186664,
       "num": 186664,
       "word": "海边的秘密阵容官宣",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1720936104,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178123,
+      "num": 178123,
+      "word": "石凯南京",
+      "onboard_time": 1721472679,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 178096,
@@ -11993,6 +12049,14 @@
       "onboard_time": 1721001017,
       "rank": 39,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 170749,
+      "num": 170749,
+      "word": "郭艾伦TheShy难兄难弟",
+      "onboard_time": 1721472139,
+      "rank": 31,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 170438,
@@ -12665,6 +12729,14 @@
       "onboard_time": 1721280439,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162054,
+      "num": 162054,
+      "word": "Wolves对战成都GG",
+      "onboard_time": 1721473758,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 161833,
@@ -13803,6 +13875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146883,
+      "num": 146883,
+      "word": "10元在广西能买几十个火龙果",
+      "onboard_time": 1721471958,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146822,
       "num": 362559,
       "word": "我给AI当老师月入过万",
@@ -13849,14 +13929,6 @@
       "onboard_time": 1720885399,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146371,
-      "num": 146371,
-      "word": "因为我远离了原生家庭",
-      "onboard_time": 1721471599,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 146230,
@@ -14547,6 +14619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135850,
+      "num": 135850,
+      "word": "LGDNBW锁定第三轮A组",
+      "onboard_time": 1721474119,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135660,
       "num": 135660,
       "word": "少年白马醉春风特效",
@@ -14601,6 +14681,14 @@
       "onboard_time": 1720939404,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134990,
+      "num": 134990,
+      "word": "玱玹发怒",
+      "onboard_time": 1721472980,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 134771,
@@ -15667,6 +15755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122005,
+      "num": 122005,
+      "word": "为何夏天手上总长透明小水泡",
+      "onboard_time": 1721473278,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121986,
       "num": 122362,
       "word": "陈少熙现场科普呼吸性碱中毒",
@@ -15729,6 +15825,14 @@
       "onboard_time": 1721093178,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121242,
+      "num": 121242,
+      "word": "萨摩耶出淤泥染半身",
+      "onboard_time": 1721472619,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 121162,
@@ -15987,12 +16091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117344,
+      "num": 117344,
+      "word": "无畏契约表演赛",
+      "onboard_time": 1721473699,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117342,
       "num": 117342,
       "word": "周深 新海诚动画推广大使",
       "onboard_time": 1721209698,
       "rank": 42,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 117266,
+      "num": 117266,
+      "word": "时代少年团谈个人资源",
+      "onboard_time": 1721472018,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 117193,
@@ -17091,6 +17211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90310,
+      "num": 112616,
+      "word": "村民讲述四川雅安山洪灾害情形",
+      "onboard_time": 1721473397,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90263,
       "num": 490101,
       "word": "全面普及心理健康教育",
@@ -17265,6 +17393,14 @@
       "onboard_time": 1721407457,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83583,
+      "num": 112426,
+      "word": "对四川自贡大楼火灾事故挂牌督办",
+      "onboard_time": 1721473939,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82879,
@@ -19507,6 +19643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25544,
+      "num": 478972,
+      "word": "暑假高校预约打卡攻略",
+      "onboard_time": 1721471058,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 25504,
       "num": 207091,
       "word": "山东非遗杂技顶碗在韩国引围观",
@@ -19577,14 +19721,6 @@
       "onboard_time": 1721232257,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23583,
-      "num": 213354,
-      "word": "暑假高校预约打卡攻略",
-      "onboard_time": 1721471058,
-      "rank": 23,
-      "category": "旅游"
     },
     {
       "raw_hot": 23351,
