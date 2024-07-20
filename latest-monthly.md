@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 23:19:12
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 23:34:57
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ wei大xun（热度：2489741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E9%80%80%E7%A5%A8%23" target="weibo">
+汪苏泷 退票（热度：2441810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
 B站崩了（热度：2320305）
 </a>
@@ -377,6 +383,12 @@ Lenka 偷感好重（热度：2311604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E6%B2%88%E6%A2%A6%E8%BE%B0%23" target="weibo">
 杜海涛 沈梦辰（热度：2221414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%E5%9E%AE%E5%A1%8C%E9%AB%98%E9%80%9F%E6%A1%A5%E5%9D%A0%E6%A1%A543%E4%BA%BA%E4%BF%A1%E6%81%AF%23" target="weibo">
+初步确认垮塌高速桥坠桥43人信息（热度：2219389）
 </a>
 </li>
 
@@ -903,12 +915,6 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%E5%9E%AE%E5%A1%8C%E9%AB%98%E9%80%9F%E6%A1%A5%E5%9D%A0%E6%A1%A543%E4%BA%BA%E4%BF%A1%E6%81%AF%23" target="weibo">
-初步确认垮塌高速桥坠桥43人信息（热度：1623133）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E6%AC%A1%E6%BC%8F%E6%89%AB%E7%A0%81%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 女子4次漏扫码被刑拘（热度：1608703）
 </a>
@@ -1247,12 +1253,6 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%23" target="weibo">
 李晟（热度：1455429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E9%80%80%E7%A5%A8%23" target="weibo">
-汪苏泷 退票（热度：1455279）
 </a>
 </li>
 
@@ -4989,6 +4989,12 @@ Miss回应团队背刺郭碧婷（热度：719560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE17%E5%B2%81%E9%95%BF%E5%AD%99%E5%A5%B3%E6%BC%94%E8%AE%B2%E5%87%BA%E5%9C%88%23" target="weibo">
+特朗普17岁长孙女演讲出圈（热度：704466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E7%A9%BA%E8%85%B9%E5%96%9D%E6%B0%B4%E7%9C%9F%E6%AF%94%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E5%8D%B1%E5%AE%B3%E5%A4%A7%E5%90%97%23" target="weibo">
 早上空腹喝水真比不吃早餐危害大吗（热度：704107）
 </a>
@@ -5831,12 +5837,6 @@ iPhone15Pro以上机型将支持全新Siri（热度：636777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%8C%BA%E9%9B%B6%20%E6%8A%A2uid%23" target="weibo">
 绝区零 抢uid（热度：632345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE17%E5%B2%81%E9%95%BF%E5%AD%99%E5%A5%B3%E6%BC%94%E8%AE%B2%E5%87%BA%E5%9C%88%23" target="weibo">
-特朗普17岁长孙女演讲出圈（热度：632135）
 </a>
 </li>
 
