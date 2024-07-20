@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721478876298,
+  "endTime": 1721479761863,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1176517,
+      "num": 1119071,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1176107,
       "num": 1827194,
       "word": "陕西一公路桥梁垮塌已致11人遇难",
@@ -179,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1167908,
-      "num": 1119071,
-      "word": "超雄综合征真是天生坏种吗",
-      "onboard_time": 1721469559,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 1123795,
+      "num": 1123795,
+      "word": "外国人免签144小时把酸汤火锅吃火了",
+      "onboard_time": 1721477059,
+      "rank": 1,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1096967,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1025382,
-      "num": 472246,
+      "num": 516512,
       "word": "验尸师一辈子最后验的是儿子",
       "onboard_time": 1721474418,
       "rank": 12,
@@ -265,14 +273,6 @@
       "onboard_time": 1721460138,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879211,
-      "num": 879211,
-      "word": "外国人免签144小时把酸汤火锅吃火了",
-      "onboard_time": 1721477059,
-      "rank": 1,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 869153,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 724615,
-      "num": 470040,
+      "num": 514005,
       "word": "十个勤天",
       "onboard_time": 1721477360,
       "rank": 7,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531786,
+      "num": 531786,
+      "word": "女子行李箱藏448只寄居蟹入境",
+      "onboard_time": 1721475980,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530193,
       "num": 530193,
       "word": "陕西公路桥梁垮塌有路人激动拦车",
@@ -531,8 +539,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490980,
+      "num": 490980,
+      "word": "BLG换人",
+      "onboard_time": 1721477480,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 490308,
-      "num": 257394,
+      "num": 273514,
       "word": "跟自己亲弟弟永远和解不了",
       "onboard_time": 1721474958,
       "rank": 41,
@@ -571,20 +587,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 476041,
-      "num": 476041,
-      "word": "BLG换人",
-      "onboard_time": 1721477480,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 469637,
       "num": 469637,
       "word": "韩国考虑改国名叫考瑞亚",
       "onboard_time": 1721375481,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 467874,
+      "num": 467874,
+      "word": "月亮",
+      "onboard_time": 1721477659,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 466546,
@@ -624,14 +640,6 @@
       "word": "福宝今天4岁了",
       "onboard_time": 1721437039,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449934,
-      "num": 449934,
-      "word": "女子行李箱藏448只寄居蟹入境",
-      "onboard_time": 1721475980,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -731,20 +739,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 407525,
+      "num": 407525,
+      "word": "孟子义说考大学是改变人生的出路",
+      "onboard_time": 1721475679,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406374,
       "num": 406374,
       "word": "刘亦菲好爱这个手机壳",
       "onboard_time": 1721451981,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404538,
-      "num": 404538,
-      "word": "孟子义说考大学是改变人生的出路",
-      "onboard_time": 1721475679,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 401658,
@@ -971,6 +979,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 284927,
+      "num": 284927,
+      "word": "你好星期六",
+      "onboard_time": 1721476818,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283708,
       "num": 283708,
       "word": "张韶涵真的不是AI吗",
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 274526,
-      "num": 242754,
+      "num": 256792,
       "word": "张子墨登陆日二公退赛",
       "onboard_time": 1721478500,
       "rank": 22,
@@ -1051,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257994,
-      "num": 257994,
-      "word": "月亮",
-      "onboard_time": 1721477659,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257099,
       "num": 257099,
       "word": "谭维维说没有王力宏有点孤单",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1721468540,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 251119,
+      "num": 251119,
+      "word": "原来被爱真的会疯狂长出血肉",
+      "onboard_time": 1721475859,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 249456,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1721423051,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 228982,
-      "num": 228982,
-      "word": "原来被爱真的会疯狂长出血肉",
-      "onboard_time": 1721475859,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 228931,
@@ -1355,12 +1363,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "白鹿直播",
+      "onboard_time": 1721479218,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 202033,
       "num": 202033,
       "word": "逆水寒手游",
       "onboard_time": 1721464520,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201943,
+      "num": 201943,
+      "word": "司空长风身体不好心态良好",
+      "onboard_time": 1721478558,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 201627,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1721438899,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200379,
-      "num": 200379,
-      "word": "你好星期六",
-      "onboard_time": 1721476818,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 200017,
@@ -1467,12 +1483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "华晨宇极致国风回归四面台",
+      "onboard_time": 1721479580,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192800,
       "num": 192800,
       "word": "海来阿木进决赛",
       "onboard_time": 1721399301,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192683,
+      "num": 192683,
+      "word": "优衣库到底贵了多少",
+      "onboard_time": 1721477718,
+      "rank": 36,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 192538,
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173734,
+      "num": 173734,
+      "word": "女子错把猫猫的尾巴认成化妆刷",
+      "onboard_time": 1721478918,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172373,
       "num": 172373,
       "word": "郭艾伦TheShy难兄难弟",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1721447419,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164681,
-      "num": 164681,
-      "word": "优衣库到底贵了多少",
-      "onboard_time": 1721477718,
-      "rank": 36,
-      "category": "财经,时尚"
     },
     {
       "raw_hot": 162653,
@@ -1963,6 +1995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146870,
+      "num": 146870,
+      "word": "美国一男子枪杀5人",
+      "onboard_time": 1721478138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145620,
       "num": 145620,
       "word": "特朗普与泽连斯基通话",
@@ -1987,12 +2027,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142418,
-      "num": 142418,
-      "word": "司空长风身体不好心态良好",
-      "onboard_time": 1721478558,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 142579,
+      "num": 142579,
+      "word": "抓娃娃票房破12亿",
+      "onboard_time": 1721476518,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 141605,
@@ -2033,6 +2073,14 @@
       "onboard_time": 1721470579,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137194,
+      "num": 137194,
+      "word": "广州晚霞",
+      "onboard_time": 1721479398,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 135456,
@@ -2115,14 +2163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 130632,
-      "num": 130632,
-      "word": "抓娃娃票房破12亿",
-      "onboard_time": 1721476518,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130262,
       "num": 130262,
       "word": "周鸿祎称不能说萝卜快跑是抢司机饭碗",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1721478078,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 127241,
+      "word": "Amber极限反杀",
+      "onboard_time": 1721479637,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 126630,
@@ -2241,14 +2289,6 @@
       "onboard_time": 1721441658,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122301,
-      "num": 122301,
-      "word": "美国一男子枪杀5人",
-      "onboard_time": 1721478138,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122005,
@@ -2547,6 +2587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51475,
+      "num": 470696,
+      "word": "西瓜滚落一地路人默默帮店主搬回",
+      "onboard_time": 1721478380,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49889,
       "num": 49889,
       "word": "电视剧错位",
@@ -2577,14 +2625,6 @@
       "onboard_time": 1721430193,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 43282,
-      "num": 452528,
-      "word": "西瓜滚落一地路人默默帮店主搬回",
-      "onboard_time": 1721478380,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42173,
