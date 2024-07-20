@@ -1,0 +1,410 @@
+{
+  "runTime": 1721470833044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3886415,
+        "num": 3886415,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360395,
+        "num": 1360395,
+        "word": "超雄",
+        "onboard_time": 1721463620,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121521,
+        "num": 1316232,
+        "word": "德化白瓷已经美到nextlevel",
+        "onboard_time": 1721462117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300093,
+        "num": 1300093,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214209,
+        "num": 1214209,
+        "word": "胎儿检出嵌合体超雄引热议",
+        "onboard_time": 1721460918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013927,
+        "num": 1013927,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1721460678,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 955667,
+        "num": 955667,
+        "word": "泡泡",
+        "onboard_time": 1721467040,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 818984,
+        "num": 818984,
+        "word": "女子双腿绑80块卡西欧手表进境",
+        "onboard_time": 1721466499,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513493,
+        "num": 513493,
+        "word": "时代峰峻泡泡",
+        "onboard_time": 1721468359,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42173,
+        "num": 468114,
+        "word": "为奶奶爆改适老版电子产品",
+        "onboard_time": 1721465539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990011,
+        "num": 467055,
+        "word": "反对任何形式的暴力伤医",
+        "onboard_time": 1721468839,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462187,
+        "num": 462187,
+        "word": "宋丹丹贴脸问陈妍希老公是谁",
+        "onboard_time": 1721456600,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392723,
+        "num": 392723,
+        "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+        "onboard_time": 1721465598,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339427,
+        "num": 339427,
+        "word": "种地吧掉粉超30万",
+        "onboard_time": 1721470219,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326989,
+        "num": 326989,
+        "word": "徐艺洋黄子韬双方娘家大会面",
+        "onboard_time": 1721449639,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446385,
+        "num": 324084,
+        "word": "演员李晟回怼网友",
+        "onboard_time": 1721459238,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 306086,
+        "num": 306086,
+        "word": "四川雅安暴雨山洪致30余人失联",
+        "onboard_time": 1721460138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303607,
+        "num": 303607,
+        "word": "歌手鹿晗",
+        "onboard_time": 1721452580,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263108,
+        "num": 263108,
+        "word": "宝马i3上调至20万元以上",
+        "onboard_time": 1721470039,
+        "rank": 18,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 222524,
+        "num": 222524,
+        "word": "超雄综合征真是天生坏种吗",
+        "onboard_time": 1721469559,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1141028,
+        "num": 221989,
+        "word": "种地吧官博一晚掉粉10万",
+        "onboard_time": 1721448139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425564,
+        "num": 221207,
+        "word": "24岁被自己的父亲抡了6个耳光",
+        "onboard_time": 1721452760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451806,
+        "num": 220471,
+        "word": "爱奇艺 十个勤天",
+        "onboard_time": 1721439858,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228798,
+        "num": 219521,
+        "word": "抓娃娃",
+        "onboard_time": 1721465359,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219375,
+        "num": 219375,
+        "word": "全球第七位艾滋病治愈者或出现",
+        "onboard_time": 1721449639,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224982,
+        "num": 219266,
+        "word": "时代少年团回应演唱会",
+        "onboard_time": 1721464339,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211116,
+        "num": 211116,
+        "word": "蓝色监狱",
+        "onboard_time": 1721467999,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210638,
+        "num": 210638,
+        "word": "JDG淘汰",
+        "onboard_time": 1721463497,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209854,
+        "num": 209854,
+        "word": "真的好喜欢微信这个功能",
+        "onboard_time": 1721468540,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195361,
+        "num": 195361,
+        "word": "异人之下也封神了",
+        "onboard_time": 1721469079,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183839,
+        "num": 183839,
+        "word": "邓为戴脸链花絮",
+        "onboard_time": 1721470459,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172421,
+        "num": 172421,
+        "word": "因为2万块钱的彩礼而谈崩",
+        "onboard_time": 1721463379,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162653,
+        "num": 162653,
+        "word": "种地吧称没人会拆散十个勤天",
+        "onboard_time": 1721468899,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143442,
+        "num": 143442,
+        "word": "警方回应商场孩子走丢母亲砸金店",
+        "onboard_time": 1721459418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138601,
+        "num": 138601,
+        "word": "这四类药不能长期服用",
+        "onboard_time": 1721465959,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135564,
+        "num": 135564,
+        "word": "肖战随地大小演",
+        "onboard_time": 1721461338,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130650,
+        "num": 130650,
+        "word": "陕西一大桥垮塌仍有30余人失联",
+        "onboard_time": 1721446641,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129746,
+        "num": 129746,
+        "word": "无性婚姻",
+        "onboard_time": 1721439379,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125969,
+        "num": 125969,
+        "word": "中餐厅观后感",
+        "onboard_time": 1721464339,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123534,
+        "num": 123534,
+        "word": "张碧晨下班恨不得用飞的",
+        "onboard_time": 1721470039,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121638,
+        "num": 121638,
+        "word": "台风",
+        "onboard_time": 1721457620,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121307,
+        "num": 121307,
+        "word": "陈赫张子萱一家为妈妈庆生",
+        "onboard_time": 1721460138,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "发现我三年前在U盘里养病毒",
+        "onboard_time": 1721466559,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119156,
+        "num": 119156,
+        "word": "巴黎奥运会系统受微软故障影响",
+        "onboard_time": 1721465779,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108961,
+        "num": 119023,
+        "word": "第五人格取悦",
+        "onboard_time": 1721470399,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108310,
+        "num": 118949,
+        "word": "王鸥冰天雪地穿露背礼服",
+        "onboard_time": 1721470579,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102198,
+        "num": 118650,
+        "word": "张凌赫和爸妈去看张学友演唱会",
+        "onboard_time": 1721468599,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99713,
+        "num": 118552,
+        "word": "火车上卖炸鸡桶火了",
+        "onboard_time": 1721454439,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98359,
+        "num": 118295,
+        "word": "中餐厅 分房",
+        "onboard_time": 1721452701,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93648,
+        "num": 118010,
+        "word": "小英一家开公司",
+        "onboard_time": 1721451800,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对陕西柞水桥梁发生垮塌作出重要指示#"
+    }
+  }
+}

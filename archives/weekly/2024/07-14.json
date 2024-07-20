@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721468067778,
+  "endTime": 1721470833044,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -129,6 +129,14 @@
       "onboard_time": 1721387720,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3886415,
+      "num": 3886415,
+      "word": "种地吧回应加人",
+      "onboard_time": 1721467338,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3791381,
@@ -297,14 +305,6 @@
       "onboard_time": 1721375481,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2276924,
-      "num": 2276924,
-      "word": "种地吧回应加人",
-      "onboard_time": 1721467338,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2267110,
@@ -1435,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 990011,
+      "num": 467055,
+      "word": "反对任何形式的暴力伤医",
+      "onboard_time": 1721468839,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980675,
       "num": 606894,
       "word": "女子举报公婆名下有近亿资产",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1720960701,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955667,
+      "num": 955667,
+      "word": "泡泡",
+      "onboard_time": 1721467040,
+      "rank": 28,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 952286,
@@ -1856,6 +1872,14 @@
       "word": "四川717火灾相关责任人已被警方控制",
       "onboard_time": 1721269937,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818984,
+      "num": 818984,
+      "word": "女子双腿绑80块卡西欧手表进境",
+      "onboard_time": 1721466499,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3747,6 +3771,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 513493,
+      "num": 513493,
+      "word": "时代峰峻泡泡",
+      "onboard_time": 1721468359,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512394,
       "num": 1105748,
       "word": "武汉理工大学通报学生虐猫",
@@ -5235,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392723,
+      "num": 443870,
+      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+      "onboard_time": 1721465598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392314,
       "num": 392314,
       "word": "韩国宣布出土一堆500年前的牛骨头",
@@ -5907,6 +5947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339427,
+      "num": 339427,
+      "word": "种地吧掉粉超30万",
+      "onboard_time": 1721470219,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339282,
       "num": 339282,
       "word": "古茗崩了",
@@ -6355,14 +6403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 309514,
-      "num": 309514,
-      "word": "泡泡",
-      "onboard_time": 1721467040,
-      "rank": 28,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 308673,
       "num": 308673,
       "word": "刘亦菲晒玫瑰周边",
@@ -6697,14 +6737,6 @@
       "onboard_time": 1721132358,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 288851,
-      "num": 443870,
-      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
-      "onboard_time": 1721465598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288696,
@@ -7299,6 +7331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263108,
+      "num": 263108,
+      "word": "宝马i3上调至20万元以上",
+      "onboard_time": 1721470039,
+      "rank": 18,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 262345,
       "num": 262345,
       "word": "王一珩直播",
@@ -7817,14 +7857,6 @@
       "onboard_time": 1721027539,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244165,
-      "num": 244165,
-      "word": "女子双腿绑80块卡西欧手表进境",
-      "onboard_time": 1721466499,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244010,
@@ -8459,6 +8491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222524,
+      "num": 222524,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222132,
       "num": 222132,
       "word": "爱奇艺基础会员无法跳过片头广告",
@@ -8963,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "蓝色监狱",
+      "onboard_time": 1721467999,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "TWS BIGBANG",
@@ -9041,6 +9089,14 @@
       "onboard_time": 1721221039,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209854,
+      "num": 209854,
+      "word": "真的好喜欢微信这个功能",
+      "onboard_time": 1721468540,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 209644,
@@ -10187,6 +10243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195361,
+      "num": 195361,
+      "word": "异人之下也封神了",
+      "onboard_time": 1721469079,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195208,
       "num": 195208,
       "word": "汪苏泷回应一场演唱会八百个梗",
@@ -11025,6 +11089,14 @@
       "onboard_time": 1721187078,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183839,
+      "num": 183839,
+      "word": "邓为戴脸链花絮",
+      "onboard_time": 1721470459,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183781,
@@ -12497,6 +12569,14 @@
       "onboard_time": 1721278999,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "种地吧称没人会拆散十个勤天",
+      "onboard_time": 1721468899,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162617,
@@ -15403,6 +15483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123534,
+      "num": 123534,
+      "word": "张碧晨下班恨不得用飞的",
+      "onboard_time": 1721470039,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123505,
       "num": 225471,
       "word": "小米把紫色玩明白了",
@@ -15571,6 +15659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121521,
+      "num": 2187079,
+      "word": "德化白瓷已经美到nextlevel",
+      "onboard_time": 1721462117,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "马伊琍Prada全球广告",
@@ -15633,6 +15729,14 @@
       "onboard_time": 1720947621,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120571,
+      "num": 120571,
+      "word": "发现我三年前在U盘里养病毒",
+      "onboard_time": 1721466559,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 119996,
@@ -15705,6 +15809,14 @@
       "onboard_time": 1721125878,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119156,
+      "num": 381950,
+      "word": "巴黎奥运会系统受微软故障影响",
+      "onboard_time": 1721465779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119038,
@@ -15979,14 +16091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113500,
-      "num": 113500,
-      "word": "蓝色监狱",
-      "onboard_time": 1721467999,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 113251,
       "num": 55488,
       "word": "729 CV",
@@ -16163,14 +16267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110206,
-      "num": 2187079,
-      "word": "德化白瓷已经美到nextlevel",
-      "onboard_time": 1721462117,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109968,
       "num": 109968,
       "word": "ZB1抵达上海",
@@ -16259,6 +16355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108961,
+      "num": 119023,
+      "word": "第五人格取悦",
+      "onboard_time": 1721470399,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108941,
       "num": 2549898,
       "word": "11岁烘焙小孩姐摆摊一天卖500元",
@@ -16297,6 +16401,14 @@
       "onboard_time": 1721082912,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108310,
+      "num": 118949,
+      "word": "王鸥冰天雪地穿露背礼服",
+      "onboard_time": 1721470579,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108273,
@@ -16577,6 +16689,14 @@
       "onboard_time": 1721306657,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102198,
+      "num": 118650,
+      "word": "张凌赫和爸妈去看张学友演唱会",
+      "onboard_time": 1721468599,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 102080,
@@ -18747,6 +18867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42173,
+      "num": 468114,
+      "word": "为奶奶爆改适老版电子产品",
+      "onboard_time": 1721465539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42084,
       "num": 659077,
       "word": "药店为促销处方药故意隐瞒禁忌证",
@@ -18833,14 +18961,6 @@
       "onboard_time": 1721047277,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39791,
-      "num": 381950,
-      "word": "巴黎奥运会系统受微软故障影响",
-      "onboard_time": 1721465779,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39637,

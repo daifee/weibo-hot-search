@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721468067778,
+  "endTime": 1721470833044,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -9,6 +9,14 @@
       "onboard_time": 1721429954,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3886415,
+      "num": 3886415,
+      "word": "种地吧回应加人",
+      "onboard_time": 1721467338,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3471840,
@@ -41,14 +49,6 @@
       "onboard_time": 1721460918,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2276924,
-      "num": 2276924,
-      "word": "种地吧回应加人",
-      "onboard_time": 1721467338,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2216907,
@@ -203,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990011,
+      "num": 467055,
+      "word": "反对任何形式的暴力伤医",
+      "onboard_time": 1721468839,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955667,
+      "num": 955667,
+      "word": "泡泡",
+      "onboard_time": 1721467040,
+      "rank": 28,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 943957,
       "num": 649620,
       "word": "演员李晟回怼网友",
@@ -233,6 +249,14 @@
       "onboard_time": 1721433257,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 818984,
+      "num": 818984,
+      "word": "女子双腿绑80块卡西欧手表进境",
+      "onboard_time": 1721466499,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798574,
@@ -417,6 +441,14 @@
       "onboard_time": 1721400262,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 513493,
+      "num": 513493,
+      "word": "时代峰峻泡泡",
+      "onboard_time": 1721468359,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 510238,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392723,
+      "num": 443870,
+      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+      "onboard_time": 1721465598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
@@ -656,6 +696,14 @@
       "word": "亚当白来了",
       "onboard_time": 1721432536,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339427,
+      "num": 339427,
+      "word": "种地吧掉粉超30万",
+      "onboard_time": 1721470219,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -723,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309514,
-      "num": 309514,
-      "word": "泡泡",
-      "onboard_time": 1721467040,
-      "rank": 28,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 308219,
       "num": 308219,
       "word": "英雄联盟手游",
@@ -777,14 +817,6 @@
       "onboard_time": 1721395342,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288851,
-      "num": 443870,
-      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
-      "onboard_time": 1721465598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287896,
@@ -843,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263108,
+      "num": 263108,
+      "word": "宝马i3上调至20万元以上",
+      "onboard_time": 1721470039,
+      "rank": 18,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 263062,
       "num": 263062,
       "word": "肖战工作室",
@@ -889,14 +929,6 @@
       "onboard_time": 1721451260,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244165,
-      "num": 244165,
-      "word": "女子双腿绑80块卡西欧手表进境",
-      "onboard_time": 1721466499,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243331,
@@ -971,12 +1003,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228798,
+      "num": 219521,
+      "word": "抓娃娃",
+      "onboard_time": 1721465359,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224734,
       "num": 403664,
       "word": "拜登坚称不会退选",
       "onboard_time": 1721439259,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222524,
+      "num": 222524,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 220863,
@@ -1051,12 +1099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "蓝色监狱",
+      "onboard_time": 1721467999,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210795,
       "num": 210795,
       "word": "第一次小学评语里有那么大的恶意",
       "onboard_time": 1721437880,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209854,
+      "num": 209854,
+      "word": "真的好喜欢微信这个功能",
+      "onboard_time": 1721468540,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 208579,
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195361,
+      "num": 195361,
+      "word": "异人之下也封神了",
+      "onboard_time": 1721469079,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194128,
       "num": 414275,
       "word": "雷军演讲",
@@ -1227,14 +1299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188127,
-      "num": 188127,
-      "word": "抓娃娃",
-      "onboard_time": 1721465359,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187741,
       "num": 187741,
       "word": "奥迪退出价格战后2天涨价2轮",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1721456900,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183839,
+      "num": 183839,
+      "word": "邓为戴脸链花絮",
+      "onboard_time": 1721470459,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183490,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1721447419,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "种地吧称没人会拆散十个勤天",
+      "onboard_time": 1721468899,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 162609,
@@ -1787,12 +1867,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123534,
+      "num": 123534,
+      "word": "张碧晨下班恨不得用飞的",
+      "onboard_time": 1721470039,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122938,
       "num": 122938,
       "word": "王源是薛之谦演唱会嘉宾",
       "onboard_time": 1721441658,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121521,
+      "num": 2187079,
+      "word": "德化白瓷已经美到nextlevel",
+      "onboard_time": 1721462117,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120571,
+      "num": 120571,
+      "word": "发现我三年前在U盘里养病毒",
+      "onboard_time": 1721466559,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 119735,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1721442318,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119156,
+      "num": 381950,
+      "word": "巴黎奥运会系统受微软故障影响",
+      "onboard_time": 1721465779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118697,
@@ -1843,14 +1955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113500,
-      "num": 113500,
-      "word": "蓝色监狱",
-      "onboard_time": 1721467999,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 111174,
       "num": 111174,
       "word": "肖战纯素颜开机图",
@@ -1859,20 +1963,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110206,
-      "num": 2187079,
-      "word": "德化白瓷已经美到nextlevel",
-      "onboard_time": 1721462117,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109545,
       "num": 235616,
       "word": "一人一句为女排加油",
       "onboard_time": 1721464339,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108961,
+      "num": 119023,
+      "word": "第五人格取悦",
+      "onboard_time": 1721470399,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108310,
+      "num": 118949,
+      "word": "王鸥冰天雪地穿露背礼服",
+      "onboard_time": 1721470579,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 107399,
@@ -1889,6 +2001,14 @@
       "onboard_time": 1721393242,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102198,
+      "num": 118650,
+      "word": "张凌赫和爸妈去看张学友演唱会",
+      "onboard_time": 1721468599,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 97270,
@@ -2051,20 +2171,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 42173,
+      "num": 468114,
+      "word": "为奶奶爆改适老版电子产品",
+      "onboard_time": 1721465539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40502,
       "num": 602701,
       "word": "二十届三中全会公报速读",
       "onboard_time": 1721394141,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39791,
-      "num": 381950,
-      "word": "巴黎奥运会系统受微软故障影响",
-      "onboard_time": 1721465779,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39637,
