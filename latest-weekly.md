@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/21 00:24:05 ~ 2024/07/21 01:16:57
+本榜单时间：2024/07/21 00:24:05 ~ 2024/07/21 01:34:21
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ TFBOYS在这位大哥嘴里合体了（热度：161492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E5%A2%A8%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BA%E7%99%BB%E9%99%86%E6%97%A5%23" target="weibo">
+张子墨回应退出登陆日（热度：114374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9D%8E%E6%99%9F%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%23" target="weibo">
 演员李晟回怼网友（热度：113852）
 </a>
@@ -316,7 +322,7 @@ TFBOYS在这位大哥嘴里合体了（热度：161492）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%B7%A1%E6%BC%94%23" target="weibo">
-汪苏泷巡演（热度：55952）
+汪苏泷巡演（热度：56987）
 </a>
 </li>
 
@@ -334,7 +340,13 @@ BLG换人（热度：53906）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%A4%BA%E5%86%A0%23" target="weibo">
-EDG夺冠（热度：46995）
+EDG夺冠（热度：47458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Fly%E6%B3%BC%E6%B0%B4%E4%B8%80%E7%9B%B4%E5%9C%A8%E6%92%A4%E5%9B%9E%23" target="weibo">
+Fly泼水一直在撤回（热度：46483）
 </a>
 </li>
 

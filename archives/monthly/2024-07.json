@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721495817064,
+  "endTime": 1721496861617,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -46611,6 +46611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114374,
+      "num": 114374,
+      "word": "张子墨回应退出登陆日",
+      "onboard_time": 1721496135,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114346,
       "num": 143665,
       "word": "看完这组名片你说中国City不City啊",
@@ -54561,6 +54569,14 @@
       "onboard_time": 1720181718,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46483,
+      "num": 64176,
+      "word": "Fly泼水一直在撤回",
+      "onboard_time": 1721496435,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 46470,

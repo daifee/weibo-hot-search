@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721495817064,
+  "endTime": 1721496861617,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114374,
+      "num": 114374,
+      "word": "张子墨回应退出登陆日",
+      "onboard_time": 1721496135,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -403,7 +411,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55952,
+      "raw_hot": 56987,
       "num": 91155,
       "word": "汪苏泷巡演",
       "onboard_time": 1721484802,
@@ -427,11 +435,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 46995,
+      "raw_hot": 47458,
       "num": 91049,
       "word": "EDG夺冠",
       "onboard_time": 1721483782,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 46483,
+      "num": 64176,
+      "word": "Fly泼水一直在撤回",
+      "onboard_time": 1721496435,
+      "rank": 45,
       "category": "电竞"
     },
     {
