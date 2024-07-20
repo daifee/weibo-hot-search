@@ -1,0 +1,410 @@
+{
+  "runTime": 1721456854454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820430,
+        "num": 1820430,
+        "word": "种地吧官博一晚掉粉10万",
+        "onboard_time": 1721448139,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024681,
+        "num": 1024681,
+        "word": "全球第七位艾滋病治愈者或出现",
+        "onboard_time": 1721449639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53457,
+        "num": 799543,
+        "word": "幸福就在这里走进西藏",
+        "onboard_time": 1721444479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2235742,
+        "num": 772443,
+        "word": "李晟医生去世",
+        "onboard_time": 1721429954,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1463456,
+        "num": 754546,
+        "word": "歌手鹿晗",
+        "onboard_time": 1721452580,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 730718,
+        "num": 730718,
+        "word": "陕西一大桥垮塌仍有30余人失联",
+        "onboard_time": 1721446641,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802357,
+        "num": 715218,
+        "word": "爱奇艺 十个勤天",
+        "onboard_time": 1721439858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753163,
+        "num": 695434,
+        "word": "小英一家开公司",
+        "onboard_time": 1721451800,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 673737,
+        "num": 673737,
+        "word": "印度女网红拍摄瀑布掉进峡谷死亡",
+        "onboard_time": 1721452459,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48151,
+        "num": 598607,
+        "word": "垮塌高速桥坠桥者挂树枝上被救起",
+        "onboard_time": 1721456120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735615,
+        "num": 581368,
+        "word": "徐艺洋黄子韬双方娘家大会面",
+        "onboard_time": 1721449639,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 559433,
+        "num": 559433,
+        "word": "无性婚姻",
+        "onboard_time": 1721439379,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549179,
+        "num": 549179,
+        "word": "研究员被间谍诱惑泄密后自首",
+        "onboard_time": 1721450661,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492162,
+        "num": 492162,
+        "word": "中餐厅 分房",
+        "onboard_time": 1721452701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47068,
+        "num": 491013,
+        "word": "年轻人开始流行把超市当食堂",
+        "onboard_time": 1721455220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490955,
+        "num": 490955,
+        "word": "陈楚生发文恭喜黄霄雲",
+        "onboard_time": 1721455758,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489482,
+        "num": 489482,
+        "word": "产妇擅入施工场地坠亡家属索赔110万",
+        "onboard_time": 1721450121,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459577,
+        "num": 459577,
+        "word": "浪姐6阵容",
+        "onboard_time": 1721454559,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286834,
+        "num": 286834,
+        "word": "去新疆吃水果的人嘴是真严",
+        "onboard_time": 1721447058,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255991,
+        "num": 255991,
+        "word": "陕西一公路桥梁垮塌已致11人遇难",
+        "onboard_time": 1721445381,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737246,
+        "num": 253112,
+        "word": "24岁被自己的父亲抡了6个耳光",
+        "onboard_time": 1721452760,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385715,
+        "num": 252041,
+        "word": "刘亦菲炸毛对镜拍",
+        "onboard_time": 1721451140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350669,
+        "num": 246598,
+        "word": "专家称家庭月收入4000元可全家脱贫",
+        "onboard_time": 1721435779,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314811,
+        "num": 243541,
+        "word": "唐朝诡事录 剧情为王",
+        "onboard_time": 1721449580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266493,
+        "num": 241106,
+        "word": "密室大逃脱6官宣",
+        "onboard_time": 1721448319,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240156,
+        "num": 240156,
+        "word": "宋丹丹贴脸问陈妍希老公是谁",
+        "onboard_time": 1721456600,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246806,
+        "num": 239787,
+        "word": "刘亦菲好爱这个手机壳",
+        "onboard_time": 1721451981,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235955,
+        "num": 235955,
+        "word": "月薪五千在景区当野人是种什么体验",
+        "onboard_time": 1721451981,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224496,
+        "num": 224496,
+        "word": "外媒曝特朗普承诺将结束俄乌冲突",
+        "onboard_time": 1721444420,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223981,
+        "num": 223981,
+        "word": "左耳痒了1年居然是因为一根管子",
+        "onboard_time": 1721432115,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220737,
+        "num": 220737,
+        "word": "王传君听到王鹤棣不能来哭了",
+        "onboard_time": 1721454020,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214065,
+        "num": 214065,
+        "word": "谭维维爆哭",
+        "onboard_time": 1721452101,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205797,
+        "num": 205797,
+        "word": "火车上卖炸鸡桶火了",
+        "onboard_time": 1721454439,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204094,
+        "num": 204094,
+        "word": "肖战工作室",
+        "onboard_time": 1721452038,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197524,
+        "num": 197524,
+        "word": "四川成都一对姐弟同时失踪",
+        "onboard_time": 1721453540,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194741,
+        "num": 194741,
+        "word": "过敏体质爸爸惹怒女儿被巴掌烙印",
+        "onboard_time": 1721453720,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193431,
+        "num": 193431,
+        "word": "TF官宣导师王霏霏",
+        "onboard_time": 1721454500,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187741,
+        "num": 187741,
+        "word": "奥迪退出价格战后2天涨价2轮",
+        "onboard_time": 1721451501,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175177,
+        "num": 175177,
+        "word": "亲妹妹非要我女儿叫她姐姐",
+        "onboard_time": 1721442080,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174781,
+        "num": 174781,
+        "word": "婚戒发朋友圈被男友姐姐阴阳了",
+        "onboard_time": 1721439439,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163560,
+        "num": 163560,
+        "word": "陕西公路桥梁垮塌有路人激动拦车",
+        "onboard_time": 1721448379,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161871,
+        "num": 161871,
+        "word": "温医一院悼念李晟医生",
+        "onboard_time": 1721431815,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155832,
+        "num": 155832,
+        "word": "瘦了33斤手的变化",
+        "onboard_time": 1721436918,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152614,
+        "num": 152614,
+        "word": "当内娱艺人做清华大学保送生试题",
+        "onboard_time": 1721451260,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148073,
+        "num": 148073,
+        "word": "乐华否认王一博代言莆田鞋",
+        "onboard_time": 1721443519,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147172,
+        "num": 147172,
+        "word": "张元英粉丝被告了",
+        "onboard_time": 1721442498,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 141529,
+        "word": "张若昀电影",
+        "onboard_time": 1721456358,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136236,
+        "num": 136236,
+        "word": "长相思2 癫剧",
+        "onboard_time": 1721433257,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130262,
+        "num": 130262,
+        "word": "周鸿祎称不能说萝卜快跑是抢司机饭碗",
+        "onboard_time": 1721453840,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 127458,
+        "word": "谭维维说没有王力宏有点孤单",
+        "onboard_time": 1721450901,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}

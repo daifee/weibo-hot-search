@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721453777317,
+  "endTime": 1721456854454,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1177835,
-      "num": 568181,
+      "num": 581368,
       "word": "徐艺洋黄子韬双方娘家大会面",
       "onboard_time": 1721449639,
       "rank": 11,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 737246,
+      "num": 253112,
+      "word": "24岁被自己的父亲抡了6个耳光",
+      "onboard_time": 1721452760,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 734408,
       "num": 323006,
       "word": "亲妹妹非要我女儿叫她姐姐",
@@ -209,6 +217,14 @@
       "onboard_time": 1721395582,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673737,
+      "num": 673737,
+      "word": "印度女网红拍摄瀑布掉进峡谷死亡",
+      "onboard_time": 1721452459,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659257,
@@ -339,6 +355,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492162,
+      "num": 492162,
+      "word": "中餐厅 分房",
+      "onboard_time": 1721452701,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 490955,
+      "num": 490955,
+      "word": "陈楚生发文恭喜黄霄雲",
+      "onboard_time": 1721455758,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 489482,
+      "num": 489482,
+      "word": "产妇擅入施工场地坠亡家属索赔110万",
+      "onboard_time": 1721450121,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484336,
       "num": 433133,
       "word": "温医一院悼念李晟医生",
@@ -377,6 +417,14 @@
       "onboard_time": 1721393421,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 459577,
+      "num": 459577,
+      "word": "浪姐6阵容",
+      "onboard_time": 1721454559,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 457811,
@@ -467,28 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374821,
-      "num": 327557,
-      "word": "中餐厅 分房",
-      "onboard_time": 1721452701,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
       "onboard_time": 1721395582,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365885,
-      "num": 365885,
-      "word": "产妇擅入施工场地坠亡家属索赔110万",
-      "onboard_time": 1721450121,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365761,
@@ -627,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280380,
-      "num": 280380,
-      "word": "印度女网红拍摄瀑布掉进峡谷死亡",
-      "onboard_time": 1721452459,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272467,
       "num": 245582,
       "word": "半个内娱都安利过你的名字",
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240156,
+      "num": 240156,
+      "word": "宋丹丹贴脸问陈妍希老公是谁",
+      "onboard_time": 1721456600,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239941,
       "num": 239941,
       "word": "歌手总决赛阵容出炉",
@@ -723,6 +755,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235955,
+      "num": 530222,
+      "word": "月薪五千在景区当野人是种什么体验",
+      "onboard_time": 1721451981,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235297,
       "num": 235297,
       "word": "女子晒背致横纹肌溶解",
@@ -739,14 +779,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 229809,
-      "num": 229809,
-      "word": "24岁被自己的父亲抡了6个耳光",
-      "onboard_time": 1721452760,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228931,
       "num": 228931,
       "word": "爸妈为了面子花几十万在农村建房子",
@@ -761,6 +793,14 @@
       "onboard_time": 1721439259,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 220737,
+      "num": 220737,
+      "word": "王传君听到王鹤棣不能来哭了",
+      "onboard_time": 1721454020,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 218390,
@@ -819,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205797,
+      "num": 205797,
+      "word": "火车上卖炸鸡桶火了",
+      "onboard_time": 1721454439,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205222,
       "num": 205222,
       "word": "种地吧",
@@ -843,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197524,
+      "num": 197524,
+      "word": "四川成都一对姐弟同时失踪",
+      "onboard_time": 1721453540,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196003,
       "num": 193677,
       "word": "中餐厅",
       "onboard_time": 1721398520,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194741,
+      "num": 194741,
+      "word": "过敏体质爸爸惹怒女儿被巴掌烙印",
+      "onboard_time": 1721453720,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194128,
@@ -865,6 +929,14 @@
       "onboard_time": 1721397382,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193431,
+      "num": 193431,
+      "word": "TF官宣导师王霏霏",
+      "onboard_time": 1721454500,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 192800,
@@ -913,6 +985,14 @@
       "onboard_time": 1721440339,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187741,
+      "num": 187741,
+      "word": "奥迪退出价格战后2天涨价2轮",
+      "onboard_time": 1721451501,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 183313,
@@ -1051,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161080,
-      "num": 161080,
-      "word": "奥迪退出价格战后2天涨价2轮",
-      "onboard_time": 1721451501,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 160514,
       "num": 160514,
       "word": "姜广涛唱歌了",
@@ -1163,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148000,
-      "num": 148000,
-      "word": "四川成都一对姐弟同时失踪",
-      "onboard_time": 1721453540,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147728,
       "num": 225526,
       "word": "韩国队奥运没带空调发冰坎肩",
@@ -1195,20 +1259,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 145395,
-      "num": 145395,
-      "word": "过敏体质爸爸惹怒女儿被巴掌烙印",
-      "onboard_time": 1721453720,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144342,
       "num": 144342,
       "word": "河南特岗",
       "onboard_time": 1721449520,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141529,
+      "num": 141529,
+      "word": "张若昀电影",
+      "onboard_time": 1721456358,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 141500,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1721447900,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 130262,
+      "num": 130262,
+      "word": "周鸿祎称不能说萝卜快跑是抢司机饭碗",
+      "onboard_time": 1721453840,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 129307,
@@ -1419,14 +1491,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 88355,
-      "num": 530222,
-      "word": "月薪五千在景区当野人是种什么体验",
-      "onboard_time": 1721451981,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87397,
       "num": 87397,
       "word": "及川彻30岁",
@@ -1523,11 +1587,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48151,
+      "num": 598607,
+      "word": "垮塌高速桥坠桥者挂树枝上被救起",
+      "onboard_time": 1721456120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47101,
       "num": 213410,
       "word": "外卖员自费数千元买AED随身携带",
       "onboard_time": 1721407156,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47068,
+      "num": 491013,
+      "word": "年轻人开始流行把超市当食堂",
+      "onboard_time": 1721455220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 13:36:17
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 14:27:34
 </p>
 </blockquote>
 <p>
@@ -4503,6 +4503,12 @@ T1夺冠（热度：781234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E7%88%B6%E4%BA%B2%E6%8A%A1%E4%BA%866%E4%B8%AA%E8%80%B3%E5%85%89%23" target="weibo">
+24岁被自己的父亲抡了6个耳光（热度：737246）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%BE%B7%E5%9B%BD%23" target="weibo">
 西班牙vs德国（热度：736796）
 </a>
@@ -5117,6 +5123,12 @@ B太曝光星期狗（热度：681086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1937%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
 今日中国再不是1937的中国（热度：675453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E7%BD%91%E7%BA%A2%E6%8B%8D%E6%91%84%E7%80%91%E5%B8%83%E6%8E%89%E8%BF%9B%E5%B3%A1%E8%B0%B7%E6%AD%BB%E4%BA%A1%23" target="weibo">
+印度女网红拍摄瀑布掉进峡谷死亡（热度：673737）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%9B%9E%E5%9B%BD%E7%8E%B0%E8%BA%AB%E9%98%BF%E9%87%8C%E6%80%BB%E9%83%A8%23" target="weibo">
 马云回国现身阿里总部（热度：607219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%BE%99%E5%8D%B7%E9%A3%8E%23" target="weibo">
-山东龙卷风（热度：606838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AF%95%E4%B8%9A%E4%BA%86%23" target="weibo">
-单依纯毕业了（热度：606819）
 </a>
 </li>
 
