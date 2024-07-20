@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721479761863,
+  "endTime": 1721481609314,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1193485,
+      "num": 1119071,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1190831,
       "num": 1190831,
       "word": "郑佩佩好伟大",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1721449639,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1176517,
-      "num": 1119071,
-      "word": "超雄综合征真是天生坏种吗",
-      "onboard_time": 1721469559,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1176132,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1721395582,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1088206,
+      "num": 1088206,
+      "word": "wei大xun",
+      "onboard_time": 1721480118,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1085533,
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 1025382,
-      "num": 516512,
+      "num": 719741,
       "word": "验尸师一辈子最后验的是儿子",
       "onboard_time": 1721474418,
       "rank": 12,
@@ -2531,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680611,
+      "num": 680611,
+      "word": "月亮",
+      "onboard_time": 1721477659,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 680590,
       "num": 680590,
       "word": "一觉醒来冷战变分手",
@@ -3323,6 +3339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 565363,
+      "num": 565363,
+      "word": "女子行李箱藏448只寄居蟹入境",
+      "onboard_time": 1721475980,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560868,
       "num": 560868,
       "word": "特朗普支持者称提前看到枪手并告知警察",
@@ -3625,14 +3649,6 @@
       "onboard_time": 1720926560,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 531786,
-      "num": 531786,
-      "word": "女子行李箱藏448只寄居蟹入境",
-      "onboard_time": 1721475980,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530613,
@@ -4337,14 +4353,6 @@
       "onboard_time": 1721280137,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 467874,
-      "num": 467874,
-      "word": "月亮",
-      "onboard_time": 1721477659,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 466546,
@@ -5297,6 +5305,14 @@
       "onboard_time": 1721185818,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398957,
+      "num": 398957,
+      "word": "白鹿直播",
+      "onboard_time": 1721479218,
+      "rank": 26,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 398217,
@@ -7427,6 +7443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269664,
+      "num": 269664,
+      "word": "hi6下期有时代少年团",
+      "onboard_time": 1721480718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269586,
       "num": 877431,
       "word": "中山大学9位哲学硕博生卖烤肠走红",
@@ -7665,6 +7689,14 @@
       "onboard_time": 1721016019,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 256129,
+      "num": 256129,
+      "word": "新秀diss范丞丞",
+      "onboard_time": 1721480718,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 255889,
@@ -8097,6 +8129,14 @@
       "onboard_time": 1721021238,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241894,
+      "num": 271451,
+      "word": "优衣库到底贵了多少",
+      "onboard_time": 1721477718,
+      "rank": 36,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 241400,
@@ -9235,6 +9275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210809,
+      "num": 210809,
+      "word": "女子错把猫猫的尾巴认成化妆刷",
+      "onboard_time": 1721478918,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210795,
       "num": 210795,
       "word": "第一次小学评语里有那么大的恶意",
@@ -9697,14 +9745,6 @@
       "onboard_time": 1721392040,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203830,
-      "num": 203830,
-      "word": "白鹿直播",
-      "onboard_time": 1721479218,
-      "rank": 26,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 203670,
@@ -10707,12 +10747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192683,
-      "num": 192683,
-      "word": "优衣库到底贵了多少",
-      "onboard_time": 1721477718,
-      "rank": 36,
-      "category": "财经,时尚"
+      "raw_hot": 192641,
+      "num": 192641,
+      "word": "那英不在家孙楠扛收视",
+      "onboard_time": 1721480899,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 192538,
@@ -11731,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177965,
+      "num": 177965,
+      "word": "段晓薇闯进去了校园白月光赛道",
+      "onboard_time": 1721479938,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177944,
       "num": 177944,
       "word": "发朋友圈被驾校教练点评了",
@@ -11835,6 +11883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176062,
+      "num": 176062,
+      "word": "刘亦菲更新iG",
+      "onboard_time": 1721480780,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176001,
       "num": 176001,
       "word": "只有小动物会不厌其烦地回应你",
@@ -11865,6 +11921,14 @@
       "onboard_time": 1721376021,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175716,
+      "num": 175716,
+      "word": "八平的房子住着四个小子",
+      "onboard_time": 1721481439,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 175609,
@@ -12065,14 +12129,6 @@
       "onboard_time": 1721110999,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173734,
-      "num": 173734,
-      "word": "女子错把猫猫的尾巴认成化妆刷",
-      "onboard_time": 1721478918,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173708,
@@ -12395,12 +12451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168873,
+      "num": 168873,
+      "word": "广州晚霞",
+      "onboard_time": 1721479398,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168789,
       "num": 168789,
       "word": "上半年买车均价比2019年贵3.7万元",
       "onboard_time": 1721007497,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168763,
+      "num": 168763,
+      "word": "Amber极限反杀",
+      "onboard_time": 1721479637,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 168458,
@@ -13523,6 +13595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153849,
+      "num": 153849,
+      "word": "抓娃娃票房破12亿",
+      "onboard_time": 1721476518,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153834,
       "num": 153834,
       "word": "TES办理英国签证",
@@ -14267,6 +14347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144499,
+      "num": 144499,
+      "word": "乌尔善 为什么要等到夏天呢",
+      "onboard_time": 1721481498,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "史彭元演的马继业是标准晋江男主",
@@ -14385,14 +14473,6 @@
       "onboard_time": 1721221398,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 142579,
-      "num": 142579,
-      "word": "抓娃娃票房破12亿",
-      "onboard_time": 1721476518,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 142516,
@@ -14779,20 +14859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137194,
-      "num": 137194,
-      "word": "广州晚霞",
-      "onboard_time": 1721479398,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 137172,
       "num": 137172,
       "word": "董宇辉余承东直播",
       "onboard_time": 1721044037,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137148,
+      "num": 137148,
+      "word": "医生说24岁的我舌头放错位置了",
+      "onboard_time": 1721476639,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 137096,
@@ -15577,14 +15657,6 @@
       "onboard_time": 1721124739,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127241,
-      "num": 127241,
-      "word": "Amber极限反杀",
-      "onboard_time": 1721479637,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 127159,
@@ -18987,6 +19059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49030,
+      "num": 514475,
+      "word": "小孩哥长城上和外国游客分享干脆面",
+      "onboard_time": 1721480478,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48462,
       "num": 159683,
       "word": "纽约地铁站台至今未安装空调",
@@ -19331,6 +19411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41531,
+      "num": 152498,
+      "word": "中国队应援到巴黎了",
+      "onboard_time": 1721481019,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41407,
       "num": 427438,
       "word": "10岁男孩酷爱足球5年日颠数万次",
@@ -19481,6 +19569,14 @@
       "onboard_time": 1721390059,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36887,
+      "num": 136379,
+      "word": "B太对手机犀利打假",
+      "onboard_time": 1721480237,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 36581,
