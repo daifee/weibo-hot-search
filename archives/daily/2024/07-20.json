@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721442879429,
+  "endTime": 1721443472225,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1498354,
+      "raw_hot": 1570783,
       "num": 376024,
       "word": "无性婚姻",
       "onboard_time": 1721439379,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1006491,
+      "num": 374510,
+      "word": "张元英粉丝被告了",
+      "onboard_time": 1721442498,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 994546,
       "num": 372452,
       "word": "商场内孩子走丢母亲崩溃砸金店玻璃",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882968,
+      "num": 882968,
+      "word": "爱奇艺 十个勤天",
+      "onboard_time": 1721439858,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 820116,
       "num": 820116,
       "word": "长相思2 癫剧",
       "onboard_time": 1721433257,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 812570,
-      "num": 374510,
-      "word": "张元英粉丝被告了",
-      "onboard_time": 1721442498,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 798574,
@@ -105,14 +113,6 @@
       "onboard_time": 1721361624,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 743445,
-      "num": 743445,
-      "word": "爱奇艺 十个勤天",
-      "onboard_time": 1721439858,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 680454,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559107,
+      "num": 559107,
+      "word": "上海三甲医院医生泄露患者隐私已被调查",
+      "onboard_time": 1721439499,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551619,
       "num": 282327,
       "word": "婚戒发朋友圈被男友姐姐阴阳了",
@@ -184,14 +192,6 @@
       "word": "男子欲拔死去藏羚羊羊角被制止",
       "onboard_time": 1721433736,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534884,
-      "num": 534884,
-      "word": "上海三甲医院医生泄露患者隐私已被调查",
-      "onboard_time": 1721439499,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1721436918,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 474343,
+      "num": 423597,
+      "word": "泫雅ins删除与金晓钟合照",
+      "onboard_time": 1721442498,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 469637,
@@ -275,6 +283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414441,
+      "num": 215942,
+      "word": "亲妹妹非要我女儿叫她姐姐",
+      "onboard_time": 1721442080,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 409645,
+      "num": 409645,
+      "word": "残害医生必须严惩不贷",
+      "onboard_time": 1721438119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401658,
       "num": 295644,
       "word": "温州医科大学",
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378654,
-      "num": 378654,
-      "word": "残害医生必须严惩不贷",
-      "onboard_time": 1721438119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
@@ -323,14 +339,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 358578,
-      "num": 192487,
-      "word": "亲妹妹非要我女儿叫她姐姐",
-      "onboard_time": 1721442080,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 356245,
       "num": 356245,
       "word": "亚当白来了",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 340167,
-      "num": 322463,
+      "num": 332316,
       "word": "温医一院悼念李晟医生",
       "onboard_time": 1721431815,
       "rank": 17,
@@ -355,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 332219,
+      "num": 247437,
+      "word": "先安检后看病有必要吗",
+      "onboard_time": 1721440339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309973,
       "num": 296316,
       "word": "一觉醒来冷战变分手",
@@ -363,28 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302127,
-      "num": 247437,
-      "word": "先安检后看病有必要吗",
-      "onboard_time": 1721440339,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297873,
       "num": 239399,
       "word": "被裁员了拿了12万补偿金",
       "onboard_time": 1721431335,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295946,
-      "num": 295946,
-      "word": "泫雅ins删除与金晓钟合照",
-      "onboard_time": 1721442498,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 294409,
@@ -579,8 +579,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188273,
+      "num": 188273,
+      "word": "薛之谦王源干湿分离了",
+      "onboard_time": 1721440339,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185862,
-      "num": 185862,
+      "num": 403664,
       "word": "拜登坚称不会退选",
       "onboard_time": 1721439259,
       "rank": 26,
@@ -595,12 +603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182304,
+      "num": 182304,
+      "word": "易烊千玺成为奥林匹克之友",
+      "onboard_time": 1721440519,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 179971,
       "num": 179971,
       "word": "郑州暴雨",
       "onboard_time": 1721433978,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178051,
+      "num": 178051,
+      "word": "种地吧",
+      "onboard_time": 1721385320,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 177610,
@@ -627,20 +651,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174905,
-      "num": 174905,
-      "word": "薛之谦王源干湿分离了",
-      "onboard_time": 1721440339,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 171697,
-      "num": 171697,
-      "word": "易烊千玺成为奥林匹克之友",
-      "onboard_time": 1721440519,
-      "rank": 33,
-      "category": "艺人,体育"
+      "raw_hot": 171570,
+      "num": 171570,
+      "word": "邓为酒精过敏",
+      "onboard_time": 1721440999,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 170360,
@@ -651,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169227,
-      "num": 169227,
-      "word": "邓为酒精过敏",
-      "onboard_time": 1721440999,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 167912,
+      "num": 167912,
+      "word": "微波加热3分钟等于吃掉几十亿微塑料",
+      "onboard_time": 1721442080,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 166999,
@@ -672,14 +688,6 @@
       "word": "那英挂电话",
       "onboard_time": 1721395401,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 165230,
-      "num": 165230,
-      "word": "种地吧",
-      "onboard_time": 1721385320,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -723,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158122,
-      "num": 158122,
-      "word": "微波加热3分钟等于吃掉几十亿微塑料",
-      "onboard_time": 1721442080,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 157770,
       "num": 154697,
       "word": "朴灿烈陈卓璇合唱StayWithMe",
@@ -745,6 +745,14 @@
       "onboard_time": 1721386399,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153021,
+      "num": 153021,
+      "word": "突然得知上班搭子是老总对象",
+      "onboard_time": 1721443400,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152235,
@@ -771,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148169,
+      "num": 148169,
+      "word": "女子突发腹痛地铁小姐姐紧抱她在怀里",
+      "onboard_time": 1721435899,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147728,
       "num": 225526,
       "word": "韩国队奥运没带空调发冰坎肩",
@@ -779,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146411,
-      "num": 146411,
-      "word": "女子突发腹痛地铁小姐姐紧抱她在怀里",
-      "onboard_time": 1721435899,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 142828,
+      "num": 258576,
+      "word": "当汪峰周杰伦给你办户口",
+      "onboard_time": 1721443218,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 135379,
@@ -875,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119231,
+      "num": 284020,
+      "word": "心动的信号bgm是伍佰唱的",
+      "onboard_time": 1721442318,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118697,
       "num": 177287,
       "word": "温州",
@@ -905,6 +929,14 @@
       "onboard_time": 1721393723,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107399,
+      "num": 746715,
+      "word": "三中全会公报思维导图",
+      "onboard_time": 1721442800,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106334,
@@ -977,14 +1009,6 @@
       "onboard_time": 1721402959,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86441,
-      "num": 284020,
-      "word": "心动的信号bgm是伍佰唱的",
-      "onboard_time": 1721442318,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 83961,
@@ -1185,19 +1209,14 @@
       "onboard_time": 1721412373,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8874,
-      "num": 746715,
-      "word": "三中全会公报思维导图",
-      "onboard_time": 1721442800,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中共中央召开党外人士座谈会#"
+    },
+    {
+      "word": "#唯改革才有出路#"
     }
   ]
 }
