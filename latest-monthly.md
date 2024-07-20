@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 15:35:50
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 16:22:33
 </p>
 </blockquote>
 <p>
@@ -537,6 +537,12 @@ Jennie方承认吸烟并道歉（热度：1919980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%8E%E5%84%BF%E6%A3%80%E5%87%BA%E5%B5%8C%E5%90%88%E4%BD%93%E8%B6%85%E9%9B%84%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+胎儿检出嵌合体超雄引热议（热度：1913424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9Bip%E5%9C%A8%E7%BE%8E%E5%9B%BD%23" target="weibo">
 刘涛ip在美国（热度：1901542）
 </a>
@@ -917,6 +923,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%23" target="weibo">
 林生斌（热度：1589081）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E4%B8%BA%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
+陶勇为李晟医生事件发声（热度：1583444）
 </a>
 </li>
 
@@ -2439,6 +2451,12 @@ Henry说漏嘴了（热度：1050972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4ins%23" target="weibo">
+蔡徐坤ins（热度：1042780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%87%91%E7%A7%B0%E5%A5%B3%E5%91%98%E5%B7%A5%E7%B3%BB%E8%87%AA%E8%BA%AB%E5%8E%9F%E5%9B%A0%E7%A6%BB%E4%B8%96%23" target="weibo">
 中金称女员工系自身原因离世（热度：1041211）
 </a>
@@ -3221,6 +3239,12 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A16%E5%B0%8F%E6%97%B6%E5%92%8C%E7%9D%A18%E5%B0%8F%E6%97%B6%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 睡6小时和睡8小时区别有多大（热度：886517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E6%9A%B4%E9%9B%A8%E5%B1%B1%E6%B4%AA%E8%87%B430%E4%BD%99%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
+四川雅安暴雨山洪致30余人失联（热度：884874）
 </a>
 </li>
 
@@ -5121,12 +5145,6 @@ B太曝光星期狗（热度：681086）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%8B%87%E4%B8%BA%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
-陶勇为李晟医生事件发声（热度：676015）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%20%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%23" target="weibo">
 凤凰传奇 到底是谁抢到了（热度：675979）
 </a>
@@ -5996,24 +6014,6 @@ A股（热度：620580）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E5%8D%A7%E5%BA%95%E8%BF%9E%E7%BB%AD%E5%81%B6%E9%81%87%E8%AD%A6%E5%AF%9F%E5%90%8C%E4%BA%8B%23" target="weibo">
-缉毒卧底连续偶遇警察同事（热度：610142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B8%8C%E4%BA%9A%E4%B8%AD%E6%96%87%E5%A5%BD%E7%89%9B%23" target="weibo">
-凡希亚中文好牛（热度：609640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E6%98%AF%E5%A8%83%E5%93%88%E5%93%88%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%82%A1%E4%B8%9C%23" target="weibo">
-宗庆后是娃哈哈第二大股东（热度：609489）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6647,6 +6647,12 @@ A股（热度：620580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%94%AF%E6%94%B9%E9%9D%A9%E6%89%8D%E6%9C%89%E5%87%BA%E8%B7%AF%23%23" target="weibo">
 #唯改革才有出路#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%99%95%E8%A5%BF%E6%9F%9E%E6%B0%B4%E6%A1%A5%E6%A2%81%E5%8F%91%E7%94%9F%E5%9E%AE%E5%A1%8C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
+#习近平对陕西柞水桥梁发生垮塌作出重要指示#
 </a>
 </li>
 
