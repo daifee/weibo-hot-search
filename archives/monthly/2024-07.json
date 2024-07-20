@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721485022515,
+  "endTime": 1721486061091,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1243,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1587514,
+      "num": 1587514,
+      "word": "特朗普噘嘴求亲吻妻子的反应",
+      "onboard_time": 1721482760,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1583444,
       "num": 394769,
       "word": "陶勇为李晟医生事件发声",
@@ -1427,14 +1435,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1521430,
-      "num": 1521430,
-      "word": "特朗普噘嘴求亲吻妻子的反应",
-      "onboard_time": 1721482760,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1518291,
       "num": 1518291,
       "word": "韩国高中盯上中国生源",
@@ -1601,6 +1601,14 @@
       "onboard_time": 1720882159,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1463773,
+      "num": 585539,
+      "word": "国家卫健委表示对伤医事件零容忍",
+      "onboard_time": 1721483961,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1463137,
@@ -2193,14 +2201,6 @@
       "onboard_time": 1721179219,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1273063,
-      "num": 579569,
-      "word": "国家卫健委表示对伤医事件零容忍",
-      "onboard_time": 1721483961,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1271414,
@@ -4329,6 +4329,14 @@
       "onboard_time": 1720785378,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897693,
+      "num": 897693,
+      "word": "汪苏泷还原戚薇名场面",
+      "onboard_time": 1721484501,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 897572,
@@ -6627,6 +6635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702769,
+      "num": 630312,
+      "word": "小尖尖",
+      "onboard_time": 1721482159,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 702688,
       "num": 295127,
       "word": "歌手出场顺序",
@@ -7579,6 +7595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640946,
+      "num": 620577,
+      "word": "TFBOYS在这位大哥嘴里合体了",
+      "onboard_time": 1721482519,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640252,
       "num": 411199,
       "word": "北京一幼儿园突遇搬迁遭家长集体反对",
@@ -7953,14 +7977,6 @@
       "onboard_time": 1719811281,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 620577,
-      "num": 620577,
-      "word": "TFBOYS在这位大哥嘴里合体了",
-      "onboard_time": 1721482519,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 620365,
@@ -9011,14 +9027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 574613,
-      "num": 574613,
-      "word": "小尖尖",
-      "onboard_time": 1721482159,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 573172,
       "num": 358904,
       "word": "黄灿灿 这下真的意箭疯篌了",
@@ -9153,6 +9161,14 @@
       "onboard_time": 1720074139,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568016,
+      "num": 568016,
+      "word": "上海闪电",
+      "onboard_time": 1720008018,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567763,
@@ -12019,6 +12035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471019,
+      "num": 471019,
+      "word": "警方通报幼儿园保安猥亵11名幼儿",
+      "onboard_time": 1721483660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470544,
       "num": 316886,
       "word": "乌尔善找的冯宝宝有真功夫",
@@ -12321,14 +12345,6 @@
       "onboard_time": 1719966437,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461253,
-      "num": 461253,
-      "word": "汪苏泷还原戚薇名场面",
-      "onboard_time": 1721484501,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 460483,
@@ -12672,14 +12688,6 @@
       "word": "男子抱5个月女儿欲跳楼轻生",
       "onboard_time": 1720060277,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451470,
-      "num": 451470,
-      "word": "上海闪电",
-      "onboard_time": 1720008018,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -16835,14 +16843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 351456,
-      "num": 351456,
-      "word": "警方通报幼儿园保安猥亵11名幼儿",
-      "onboard_time": 1721483660,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351349,
       "num": 223645,
       "word": "王俊凯说我们是一个team",
@@ -20547,6 +20547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278229,
+      "num": 278229,
+      "word": "医生说24岁的我舌头放错位置了",
+      "onboard_time": 1721476639,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278041,
       "num": 304047,
       "word": "刘德华回应演唱会滑跪",
@@ -20705,14 +20713,6 @@
       "onboard_time": 1721193080,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276032,
-      "num": 276032,
-      "word": "医生说24岁的我舌头放错位置了",
-      "onboard_time": 1721476639,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 275835,
@@ -21401,6 +21401,14 @@
       "onboard_time": 1721107520,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261570,
+      "num": 261570,
+      "word": "汪苏泷巡演",
+      "onboard_time": 1721484802,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 261530,
@@ -22115,6 +22123,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250340,
+      "num": 250340,
+      "word": "盗墓笔记",
+      "onboard_time": 1721484622,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 250336,
       "num": 250336,
       "word": "于正小作文夸白鹿",
@@ -22265,6 +22281,14 @@
       "onboard_time": 1719846138,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249138,
+      "num": 249138,
+      "word": "马嘉祺丁程鑫互泼对方",
+      "onboard_time": 1721485401,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 248941,
@@ -26003,6 +26027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209661,
+      "num": 209661,
+      "word": "张韶涵香水百合",
+      "onboard_time": 1721484320,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209644,
       "num": 209644,
       "word": "李佳琦好像闺蜜不看好我男朋友的样子",
@@ -27123,14 +27155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204229,
-      "num": 204229,
-      "word": "汪苏泷巡演",
-      "onboard_time": 1721484802,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204221,
       "num": 204221,
       "word": "向佐不让别人骂纪凌尘自己骂",
@@ -27441,6 +27465,14 @@
       "onboard_time": 1720268599,
       "rank": 25,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 202530,
+      "num": 202530,
+      "word": "汪苏泷演唱会唱了雨天雨天",
+      "onboard_time": 1721485881,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 202527,
@@ -28587,6 +28619,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 197327,
+      "num": 197327,
+      "word": "我的初代唱跳白月光杀回来了",
+      "onboard_time": 1721485401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197260,
       "num": 197260,
       "word": "Fly泼水泼中丁程鑫的心",
@@ -28609,14 +28649,6 @@
       "onboard_time": 1720525338,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197225,
-      "num": 197225,
-      "word": "盗墓笔记",
-      "onboard_time": 1721484622,
-      "rank": 37,
-      "category": "读书作家"
     },
     {
       "raw_hot": 197213,
@@ -29097,14 +29129,6 @@
       "onboard_time": 1721379861,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "张韶涵香水百合",
-      "onboard_time": 1721484320,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 195049,
@@ -36403,6 +36427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 158440,
+      "num": 158440,
+      "word": "于正直播",
+      "onboard_time": 1721485341,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158412,
       "num": 158412,
       "word": "张新成干一行行一行",
@@ -36513,6 +36545,14 @@
       "onboard_time": 1720972699,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "武汉三镇1比1成都蓉城",
+      "onboard_time": 1721485341,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157611,
@@ -44651,6 +44691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122394,
+      "num": 1792692,
+      "word": "30秒速览巴黎奥运中国代表团阵容",
+      "onboard_time": 1721483239,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122392,
       "num": 122392,
       "word": "文佳煐车银优合照",
@@ -46915,6 +46963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111953,
+      "num": 584036,
+      "word": "中国队应援到巴黎了",
+      "onboard_time": 1721481019,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111951,
       "num": 177169,
       "word": "上海二次元周末好city啊",
@@ -47113,14 +47169,6 @@
       "onboard_time": 1720347738,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110972,
-      "num": 580053,
-      "word": "中国队应援到巴黎了",
-      "onboard_time": 1721481019,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 110944,
@@ -47928,14 +47976,6 @@
       "word": "西蒙斯世界波",
       "onboard_time": 1720638912,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 106844,
-      "num": 1703887,
-      "word": "30秒速览巴黎奥运中国代表团阵容",
-      "onboard_time": 1721483239,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -48865,6 +48905,14 @@
       "onboard_time": 1720614558,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100824,
+      "num": 596250,
+      "word": "成都东站男子心脏骤停她俩出手了",
+      "onboard_time": 1721484441,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100796,
@@ -51577,14 +51625,6 @@
       "onboard_time": 1720890135,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71970,
-      "num": 596250,
-      "word": "成都东站男子心脏骤停她俩出手了",
-      "onboard_time": 1721484441,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71779,
@@ -56929,6 +56969,14 @@
       "onboard_time": 1720642931,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25224,
+      "num": 592605,
+      "word": "滴滴客服就8公里收费两百多致歉",
+      "onboard_time": 1721485641,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25143,
