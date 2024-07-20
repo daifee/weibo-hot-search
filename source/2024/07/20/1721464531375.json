@@ -1,0 +1,410 @@
+{
+  "runTime": 1721464531375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181680,
+        "num": 2181680,
+        "word": "胎儿检出嵌合体超雄引热议",
+        "onboard_time": 1721460918,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044557,
+        "num": 1044557,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1721460678,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83612,
+        "num": 1023561,
+        "word": "德化白瓷已经美到nextlevel",
+        "onboard_time": 1721462117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018845,
+        "num": 1018845,
+        "word": "宋丹丹贴脸问陈妍希老公是谁",
+        "onboard_time": 1721456600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716212,
+        "num": 716212,
+        "word": "四川雅安暴雨山洪致30余人失联",
+        "onboard_time": 1721460138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603054,
+        "num": 603054,
+        "word": "超雄",
+        "onboard_time": 1721463620,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 725134,
+        "num": 556838,
+        "word": "演员李晟回怼网友",
+        "onboard_time": 1721459238,
+        "rank": 6,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 690474,
+        "num": 549072,
+        "word": "歌手鹿晗",
+        "onboard_time": 1721452580,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 500013,
+        "num": 500013,
+        "word": "全球第七位艾滋病治愈者或出现",
+        "onboard_time": 1721449639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440722,
+        "num": 440722,
+        "word": "JDG淘汰",
+        "onboard_time": 1721463497,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409430,
+        "num": 409430,
+        "word": "去你的岛开播",
+        "onboard_time": 1721461217,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 389332,
+        "num": 389332,
+        "word": "火车上卖炸鸡桶火了",
+        "onboard_time": 1721454439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360784,
+        "num": 360784,
+        "word": "徐艺洋黄子韬双方娘家大会面",
+        "onboard_time": 1721449639,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338007,
+        "num": 338007,
+        "word": "无性婚姻",
+        "onboard_time": 1721439379,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313655,
+        "num": 313655,
+        "word": "警方回应商场孩子走丢母亲砸金店",
+        "onboard_time": 1721459418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294957,
+        "num": 294957,
+        "word": "陕西一大桥垮塌仍有30余人失联",
+        "onboard_time": 1721446641,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280599,
+        "num": 280599,
+        "word": "陈楚生发文恭喜黄霄雲",
+        "onboard_time": 1721455758,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269461,
+        "num": 269461,
+        "word": "陈赫张子萱一家为妈妈庆生",
+        "onboard_time": 1721460138,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240289,
+        "num": 240289,
+        "word": "研究员被间谍诱惑泄密后自首",
+        "onboard_time": 1721450661,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27941,
+        "num": 240033,
+        "word": "柞水县委称桥面垮塌完全因为降雨",
+        "onboard_time": 1721463439,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387188,
+        "num": 237256,
+        "word": "种地吧官博一晚掉粉10万",
+        "onboard_time": 1721448139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109545,
+        "num": 235616,
+        "word": "一人一句为女排加油",
+        "onboard_time": 1721464339,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612719,
+        "num": 234630,
+        "word": "爱奇艺 十个勤天",
+        "onboard_time": 1721439858,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431203,
+        "num": 231441,
+        "word": "24岁被自己的父亲抡了6个耳光",
+        "onboard_time": 1721452760,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391911,
+        "num": 229886,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106033,
+        "num": 229078,
+        "word": "垮塌桥梁下游百位村民自发搜救",
+        "onboard_time": 1721462479,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227797,
+        "num": 227797,
+        "word": "肖战随地大小演",
+        "onboard_time": 1721461338,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226426,
+        "num": 226426,
+        "word": "印度女网红拍摄瀑布掉进峡谷死亡",
+        "onboard_time": 1721452459,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207179,
+        "num": 207179,
+        "word": "HLE战胜T1",
+        "onboard_time": 1721464039,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203038,
+        "num": 203038,
+        "word": "时代少年团回应演唱会",
+        "onboard_time": 1721464339,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192900,
+        "num": 192900,
+        "word": "中餐厅观后感",
+        "onboard_time": 1721464339,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191628,
+        "num": 191628,
+        "word": "王晓白cue迪丽热巴",
+        "onboard_time": 1721463439,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189875,
+        "num": 189875,
+        "word": "中餐厅 分房",
+        "onboard_time": 1721452701,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186834,
+        "num": 186834,
+        "word": "刘亦菲好爱这个手机壳",
+        "onboard_time": 1721451981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161218,
+        "num": 161218,
+        "word": "密室大逃脱6官宣",
+        "onboard_time": 1721448319,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159122,
+        "num": 159122,
+        "word": "唐朝诡事录 剧情为王",
+        "onboard_time": 1721449580,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158680,
+        "num": 158680,
+        "word": "台风",
+        "onboard_time": 1721457620,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150012,
+        "num": 150012,
+        "word": "去新疆吃水果的人嘴是真严",
+        "onboard_time": 1721447058,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148813,
+        "num": 148813,
+        "word": "因为2万块钱的彩礼而谈崩",
+        "onboard_time": 1721463379,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141319,
+        "num": 141319,
+        "word": "孟子义说老能刷到王星越叼个玉佩",
+        "onboard_time": 1721463079,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139955,
+        "num": 139955,
+        "word": "浪姐6阵容",
+        "onboard_time": 1721454559,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138009,
+        "num": 138009,
+        "word": "斓曦从雍正年间就对大夫感兴趣",
+        "onboard_time": 1721463979,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136604,
+        "num": 136604,
+        "word": "小英一家开公司",
+        "onboard_time": 1721451800,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 136238,
+        "word": "林俊杰帽子",
+        "onboard_time": 1721456900,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132200,
+        "num": 132200,
+        "word": "垮塌高速桥坠桥者挂树枝上被救起",
+        "onboard_time": 1721456120,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127849,
+        "num": 127849,
+        "word": "夭玹的爱非死无解",
+        "onboard_time": 1721463019,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127224,
+        "num": 127224,
+        "word": "金莎沈傲君黄圣依1999年合照",
+        "onboard_time": 1721462718,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124486,
+        "num": 124486,
+        "word": "李东海李赫宰王霏霏cha",
+        "onboard_time": 1721464278,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120327,
+        "num": 120327,
+        "word": "奥迪退出价格战后2天涨价2轮",
+        "onboard_time": 1721451501,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117220,
+        "num": 117220,
+        "word": "外媒曝特朗普承诺将结束俄乌冲突",
+        "onboard_time": 1721444420,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对陕西柞水桥梁发生垮塌作出重要指示#"
+    }
+  }
+}

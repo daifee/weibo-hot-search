@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721463753823,
+  "endTime": 1721464531375,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2181680,
+      "num": 2181680,
+      "word": "胎儿检出嵌合体超雄引热议",
+      "onboard_time": 1721460918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2175826,
       "num": 2175826,
       "word": "网传中金员工因降薪跳楼",
@@ -696,14 +704,6 @@
       "word": "大学生喝农药离世前曾下跪道歉",
       "onboard_time": 1720171458,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1913424,
-      "num": 1913424,
-      "word": "胎儿检出嵌合体超雄引热议",
-      "onboard_time": 1721460918,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3251,8 +3251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1042780,
-      "num": 1042780,
+      "raw_hot": 1044557,
+      "num": 1044557,
       "word": "蔡徐坤ins",
       "onboard_time": 1721460678,
       "rank": 26,
@@ -8139,6 +8139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603054,
+      "num": 603054,
+      "word": "超雄",
+      "onboard_time": 1721463620,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 602611,
       "num": 602611,
       "word": "微软服务中断导致美国航空停飞",
@@ -12955,6 +12963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440722,
+      "num": 440722,
+      "word": "JDG淘汰",
+      "onboard_time": 1721463497,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 440717,
       "num": 440717,
       "word": "福宝",
@@ -14243,6 +14259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409430,
+      "num": 409430,
+      "word": "去你的岛开播",
+      "onboard_time": 1721461217,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 409002,
       "num": 409002,
       "word": "朱一龙 演员里的一块姜",
@@ -14905,6 +14929,14 @@
       "onboard_time": 1719809481,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 391911,
+      "num": 229886,
+      "word": "优衣库高管称中国消费者心态变了",
+      "onboard_time": 1721464159,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391701,
@@ -15865,14 +15897,6 @@
       "onboard_time": 1721017459,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366422,
-      "num": 366422,
-      "word": "去你的岛开播",
-      "onboard_time": 1721461217,
-      "rank": 12,
-      "category": "动漫"
     },
     {
       "raw_hot": 366179,
@@ -18273,6 +18297,14 @@
       "onboard_time": 1719875235,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313655,
+      "num": 313655,
+      "word": "警方回应商场孩子走丢母亲砸金店",
+      "onboard_time": 1721459418,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313528,
@@ -20745,14 +20777,6 @@
       "onboard_time": 1720660759,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265589,
-      "num": 265589,
-      "word": "警方回应商场孩子走丢母亲砸金店",
-      "onboard_time": 1721459418,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265556,
@@ -25963,6 +25987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207179,
+      "num": 215239,
+      "word": "HLE战胜T1",
+      "onboard_time": 1720792762,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207149,
       "num": 207149,
       "word": "朴智旻一位",
@@ -26825,6 +26857,14 @@
       "onboard_time": 1720591098,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203038,
+      "num": 203038,
+      "word": "时代少年团回应演唱会",
+      "onboard_time": 1721464339,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 203013,
@@ -28995,6 +29035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192900,
+      "num": 192900,
+      "word": "中餐厅观后感",
+      "onboard_time": 1721464339,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192848,
       "num": 192848,
       "word": "哪种血型容易老年痴呆",
@@ -29065,14 +29113,6 @@
       "onboard_time": 1720002619,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192424,
-      "num": 192424,
-      "word": "JDG淘汰",
-      "onboard_time": 1721463497,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 192330,
@@ -34907,14 +34947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162256,
-      "num": 162256,
-      "word": "超雄",
-      "onboard_time": 1721463620,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162254,
       "num": 162254,
       "word": "长相思2比1疯了好多",
@@ -37683,6 +37715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148813,
+      "num": 148813,
+      "word": "因为2万块钱的彩礼而谈崩",
+      "onboard_time": 1721463379,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148716,
       "num": 184709,
       "word": "96岁著名物理化学家张存浩逝世",
@@ -40120,6 +40160,14 @@
       "word": "凡希亚连唱半小时没有停",
       "onboard_time": 1719801558,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138009,
+      "num": 138009,
+      "word": "斓曦从雍正年间就对大夫感兴趣",
+      "onboard_time": 1721463979,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -43257,6 +43305,14 @@
       "onboard_time": 1721186479,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "李东海李赫宰王霏霏cha",
+      "onboard_time": 1721464278,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 124466,
@@ -46475,6 +46531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109545,
+      "num": 235616,
+      "word": "一人一句为女排加油",
+      "onboard_time": 1721464339,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109525,
       "num": 109525,
       "word": "薛之谦 INWARD",
@@ -47115,6 +47179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106033,
+      "num": 368411,
+      "word": "垮塌桥梁下游百位村民自发搜救",
+      "onboard_time": 1721462479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106032,
       "num": 106032,
       "word": "BW2024",
@@ -47721,14 +47793,6 @@
       "onboard_time": 1720337656,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102246,
-      "num": 215239,
-      "word": "HLE战胜T1",
-      "onboard_time": 1720792762,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 102080,
@@ -49675,6 +49739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83612,
+      "num": 1093464,
+      "word": "德化白瓷已经美到nextlevel",
+      "onboard_time": 1721462117,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83600,
       "num": 574283,
       "word": "乘坐无人驾驶出租车是什么样的体验",
@@ -50699,14 +50771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70694,
-      "num": 368411,
-      "word": "垮塌桥梁下游百位村民自发搜救",
-      "onboard_time": 1721462479,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70661,
       "num": 70661,
       "word": "人教版大熊猫vs妈教版大熊猫",
@@ -50825,14 +50889,6 @@
       "onboard_time": 1721401041,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69072,
-      "num": 1093464,
-      "word": "德化白瓷已经美到nextlevel",
-      "onboard_time": 1721462117,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69011,
@@ -55443,6 +55499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27941,
+      "num": 262647,
+      "word": "柞水县委称桥面垮塌完全因为降雨",
+      "onboard_time": 1721463439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27904,
       "num": 311131,
       "word": "像SIM卡槽一样薄的手机",
@@ -57096,14 +57160,6 @@
       "word": "杭州老板连续4年夏天送出30万支棒冰",
       "onboard_time": 1721061735,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14539,
-      "num": 262647,
-      "word": "柞水县委称桥面垮塌完全因为降雨",
-      "onboard_time": 1721463439,
-      "rank": 19,
       "category": "社会新闻"
     },
     {

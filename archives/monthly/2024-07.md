@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 16:22:33
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 16:35:31
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Lenka 偷感好重（热度：2311604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%8E%E5%84%BF%E6%A3%80%E5%87%BA%E5%B5%8C%E5%90%88%E4%BD%93%E8%B6%85%E9%9B%84%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+胎儿检出嵌合体超雄引热议（热度：2181680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E9%87%91%E5%91%98%E5%B7%A5%E5%9B%A0%E9%99%8D%E8%96%AA%E8%B7%B3%E6%A5%BC%23" target="weibo">
 网传中金员工因降薪跳楼（热度：2175826）
 </a>
@@ -533,12 +539,6 @@ Jennie方承认吸烟并道歉（热度：1919980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%96%9D%E5%86%9C%E8%8D%AF%E7%A6%BB%E4%B8%96%E5%89%8D%E6%9B%BE%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23" target="weibo">
 大学生喝农药离世前曾下跪道歉（热度：1919589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%8E%E5%84%BF%E6%A3%80%E5%87%BA%E5%B5%8C%E5%90%88%E4%BD%93%E8%B6%85%E9%9B%84%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
-胎儿检出嵌合体超雄引热议（热度：1913424）
 </a>
 </li>
 
@@ -2452,7 +2452,7 @@ Henry说漏嘴了（热度：1050972）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4ins%23" target="weibo">
-蔡徐坤ins（热度：1042780）
+蔡徐坤ins（热度：1044557）
 </a>
 </li>
 
