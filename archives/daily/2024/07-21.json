@@ -1,0 +1,411 @@
+{
+  "startTime": 1721492645371,
+  "endTime": 1721492645371,
+  "band_list": [
+    {
+      "raw_hot": 2330012,
+      "num": 2330012,
+      "word": "汪苏泷 退票",
+      "onboard_time": 1721487622,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1985531,
+      "num": 289849,
+      "word": "初步确认垮塌高速桥坠桥43人信息",
+      "onboard_time": 1721486603,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447507,
+      "num": 609266,
+      "word": "种地吧回应加人",
+      "onboard_time": 1721467338,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 922901,
+      "num": 922901,
+      "word": "wei大xun",
+      "onboard_time": 1721480118,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 597910,
+      "num": 597910,
+      "word": "特朗普噘嘴求亲吻妻子的反应",
+      "onboard_time": 1721482760,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 484226,
+      "num": 323828,
+      "word": "王嘉尔又当伴郎了",
+      "onboard_time": 1721489301,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 482635,
+      "num": 285586,
+      "word": "特朗普17岁长孙女演讲出圈",
+      "onboard_time": 1721486121,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 442604,
+      "num": 316074,
+      "word": "十个勤天",
+      "onboard_time": 1721477360,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389855,
+      "num": 281072,
+      "word": "国家卫健委表示对伤医事件零容忍",
+      "onboard_time": 1721483961,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367320,
+      "num": 277229,
+      "word": "汪苏泷还原戚薇名场面",
+      "onboard_time": 1721484501,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 342240,
+      "num": 342240,
+      "word": "优衣库高管称中国消费者心态变了",
+      "onboard_time": 1721464159,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310924,
+      "num": 274387,
+      "word": "医生说24岁的我舌头放错位置了",
+      "onboard_time": 1721476639,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 310046,
+      "num": 270894,
+      "word": "验尸师一辈子最后验的是儿子",
+      "onboard_time": 1721474418,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294231,
+      "num": 294231,
+      "word": "外国人免签144小时把酸汤火锅吃火了",
+      "onboard_time": 1721477059,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 283106,
+      "num": 211995,
+      "word": "发烫的手机一下就降温了",
+      "onboard_time": 1721488881,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 268726,
+      "num": 268726,
+      "word": "代露娃回应长相思角色争议",
+      "onboard_time": 1721487502,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263752,
+      "num": 263752,
+      "word": "金智媛怼脸生图",
+      "onboard_time": 1721487742,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232760,
+      "num": 232760,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213063,
+      "num": 192751,
+      "word": "差点没认出这是吴京",
+      "onboard_time": 1721486301,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212346,
+      "num": 212346,
+      "word": "反对任何形式的暴力伤医",
+      "onboard_time": 1721468839,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176668,
+      "num": 176668,
+      "word": "薛之谦嘉宾韩红",
+      "onboard_time": 1721481798,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172821,
+      "num": 172821,
+      "word": "小尖尖",
+      "onboard_time": 1721482159,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163599,
+      "num": 163599,
+      "word": "张予曦获得你好歌手2024歌王",
+      "onboard_time": 1721486841,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162795,
+      "num": 162795,
+      "word": "中国争取成为首个火星采样返回国家",
+      "onboard_time": 1721488701,
+      "rank": 27,
+      "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "TFBOYS在这位大哥嘴里合体了",
+      "onboard_time": 1721482519,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159799,
+      "num": 159799,
+      "word": "跟自己亲弟弟永远和解不了",
+      "onboard_time": 1721474958,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155874,
+      "num": 290853,
+      "word": "盗墓笔记",
+      "onboard_time": 1721484622,
+      "rank": 9,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 146157,
+      "num": 146157,
+      "word": "乌尔善 为什么要等到夏天呢",
+      "onboard_time": 1721481498,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143651,
+      "num": 143651,
+      "word": "滴滴客服就8公里收费两百多致歉",
+      "onboard_time": 1721485641,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139505,
+      "num": 139505,
+      "word": "重庆警方通报男子轨交上猥亵女子",
+      "onboard_time": 1721489361,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135447,
+      "num": 135447,
+      "word": "我的初代唱跳白月光杀回来了",
+      "onboard_time": 1721485401,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130424,
+      "num": 130424,
+      "word": "香缇莫孙楠给张予曦颁奖",
+      "onboard_time": 1721486062,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126936,
+      "num": 126936,
+      "word": "郭富城小女儿单手翻一字马",
+      "onboard_time": 1721486121,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122936,
+      "num": 122936,
+      "word": "告五人 深圳",
+      "onboard_time": 1721490260,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122518,
+      "num": 122518,
+      "word": "鞠婧祎吃糖被审判",
+      "onboard_time": 1721482519,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122174,
+      "num": 122174,
+      "word": "王楚钦说奥运混双是孤勇者",
+      "onboard_time": 1721487440,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113852,
+      "num": 122142,
+      "word": "演员李晟回怼网友",
+      "onboard_time": 1721459238,
+      "rank": 39,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 108949,
+      "num": 122127,
+      "word": "新秀diss范丞丞",
+      "onboard_time": 1721480718,
+      "rank": 40,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 108896,
+      "num": 122088,
+      "word": "少年白马醉春风 包棉花的鞭子",
+      "onboard_time": 1721489241,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106882,
+      "num": 122040,
+      "word": "女子行李箱藏448只寄居蟹入境",
+      "onboard_time": 1721475980,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101451,
+      "num": 122017,
+      "word": "九尾跳舞好抽象",
+      "onboard_time": 1721489841,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 99349,
+      "num": 121991,
+      "word": "王家卫转发",
+      "onboard_time": 1721473758,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98242,
+      "num": 121958,
+      "word": "刘耀文泼宋亚轩",
+      "onboard_time": 1721482640,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91557,
+      "num": 121929,
+      "word": "张韶涵香水百合",
+      "onboard_time": 1721484320,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 86050,
+      "num": 121874,
+      "word": "上海闪电",
+      "onboard_time": 1721483660,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82523,
+      "num": 121862,
+      "word": "珍惜当下就是对未来的慷慨",
+      "onboard_time": 1721488161,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70512,
+      "num": 611260,
+      "word": "30秒速览巴黎奥运中国代表团阵容",
+      "onboard_time": 1721483239,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57119,
+      "num": 121806,
+      "word": "韦世豪红牌",
+      "onboard_time": 1721483121,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23248,
+      "num": 177910,
+      "word": "有一种甜蜜叫哈密",
+      "onboard_time": 1721491881,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 20828,
+      "num": 195508,
+      "word": "用四川方言打开火把节斗牛赛",
+      "onboard_time": 1721492479,
+      "rank": 21,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  ]
+}
