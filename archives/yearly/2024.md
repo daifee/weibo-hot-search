@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 07:34:54
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 09:21:43
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23" target="weibo">
 宗庆后逝世（热度：10131398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
+李晟医生去世（热度：10092833）
 </a>
 </li>
 
@@ -1751,12 +1757,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%B2%B9%E7%BD%90%E8%BD%A6%E4%BA%8B%E4%BB%B6%23" target="weibo">
 鲁花回应油罐车事件（热度：3450111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
-李晟医生去世（热度：3443270）
 </a>
 </li>
 

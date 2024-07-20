@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1721432094880,
+  "endTime": 1721438503557,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -335,6 +335,14 @@
       "num": 10131398,
       "word": "宗庆后逝世",
       "onboard_time": 1708833453,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10092833,
+      "num": 10092833,
+      "word": "李晟医生去世",
+      "onboard_time": 1721429954,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -2320,14 +2328,6 @@
       "word": "鲁花回应油罐车事件",
       "onboard_time": 1720515739,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3443270,
-      "num": 3443270,
-      "word": "李晟医生去世",
-      "onboard_time": 1721429954,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
