@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721459875309,
+  "endTime": 1721460950037,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1744357,
-      "num": 687861,
+      "num": 1705608,
       "word": "宋丹丹贴脸问陈妍希老公是谁",
       "onboard_time": 1721456600,
       "rank": 25,
@@ -155,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 907202,
+      "raw_hot": 943957,
       "num": 578477,
       "word": "演员李晟回怼网友",
       "onboard_time": 1721459238,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 753190,
-      "num": 253112,
+      "num": 295999,
       "word": "24岁被自己的父亲抡了6个耳光",
       "onboard_time": 1721452760,
       "rank": 32,
@@ -216,6 +216,14 @@
       "word": "陶勇",
       "onboard_time": 1721435058,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676015,
+      "num": 394769,
+      "word": "陶勇为李晟医生事件发声",
+      "onboard_time": 1721460198,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485372,
+      "num": 485372,
+      "word": "火车上卖炸鸡桶火了",
+      "onboard_time": 1721454439,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484336,
       "num": 433133,
       "word": "温医一院悼念李晟医生",
@@ -409,14 +425,6 @@
       "onboard_time": 1721436918,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 476613,
-      "num": 476613,
-      "word": "火车上卖炸鸡桶火了",
-      "onboard_time": 1721454439,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469637,
@@ -499,6 +507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 422499,
+      "num": 422499,
+      "word": "林俊杰帽子",
+      "onboard_time": 1721456900,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409645,
       "num": 409645,
       "word": "残害医生必须严惩不贷",
@@ -563,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345108,
-      "num": 237141,
-      "word": "林俊杰帽子",
-      "onboard_time": 1721456900,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338507,
       "num": 312734,
       "word": "丁程鑫前有宋轶后有张予曦",
@@ -609,6 +617,14 @@
       "onboard_time": 1721445381,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320981,
+      "num": 320981,
+      "word": "无畏契约",
+      "onboard_time": 1721459121,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 309973,
@@ -699,14 +715,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 271669,
-      "num": 271669,
-      "word": "无畏契约",
-      "onboard_time": 1721459121,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 263871,
       "num": 234975,
       "word": "第一次在王俊凯身上看到无力感",
@@ -721,6 +729,14 @@
       "onboard_time": 1721452038,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261050,
+      "num": 394926,
+      "word": "四川雅安暴雨山洪致30余人失联",
+      "onboard_time": 1721460138,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257099,
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234479,
+      "num": 234479,
+      "word": "陈赫张子萱一家为妈妈庆生",
+      "onboard_time": 1721460138,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229861,
       "num": 229861,
       "word": "三亚暑期酒店暴跌",
@@ -825,6 +849,14 @@
       "onboard_time": 1721445619,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226810,
+      "num": 226810,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1721460678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 224734,
@@ -889,6 +921,14 @@
       "onboard_time": 1721405180,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211312,
+      "num": 211312,
+      "word": "台风",
+      "onboard_time": 1721457620,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210795,
@@ -969,6 +1009,14 @@
       "onboard_time": 1721396421,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193670,
+      "num": 193670,
+      "word": "蔡徐坤暗黑斗篷造型",
+      "onboard_time": 1721460740,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193653,
@@ -1075,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180423,
+      "num": 180423,
+      "word": "警方回应商场孩子走丢母亲砸金店",
+      "onboard_time": 1721459418,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179971,
       "num": 179971,
       "word": "郑州暴雨",
@@ -1136,14 +1192,6 @@
       "word": "酒店一间房到底能住几人",
       "onboard_time": 1721386819,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170064,
-      "num": 170064,
-      "word": "台风",
-      "onboard_time": 1721457620,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 134771,
+      "num": 134771,
+      "word": "张远 有一种开始叫做结束",
+      "onboard_time": 1721460438,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133251,
       "num": 133251,
       "word": "这是为二次元量身定制的大巴吗",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1721453840,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130076,
+      "num": 130076,
+      "word": "胎儿检出嵌合体超雄引热议",
+      "onboard_time": 1721460918,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129307,
@@ -1483,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125123,
+      "num": 125123,
+      "word": "你如何看待无性婚姻",
+      "onboard_time": 1721460799,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122938,
       "num": 122938,
       "word": "王源是薛之谦演唱会嘉宾",
       "onboard_time": 1721441658,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122301,
-      "num": 122301,
-      "word": "警方回应商场孩子走丢母亲砸金店",
-      "onboard_time": 1721459418,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119231,
