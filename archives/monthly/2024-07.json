@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721482538720,
+  "endTime": 1721485022515,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2489741,
+      "num": 2489741,
+      "word": "wei大xun",
+      "onboard_time": 1721480118,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2476449,
       "num": 2476449,
       "word": "韩国考虑改国名叫考瑞亚",
@@ -793,14 +801,6 @@
       "onboard_time": 1720790059,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1859406,
-      "num": 1859406,
-      "word": "wei大xun",
-      "onboard_time": 1721480118,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 1858785,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1720706539,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1521430,
+      "num": 1521430,
+      "word": "特朗普噘嘴求亲吻妻子的反应",
+      "onboard_time": 1721482760,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1518291,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1721179219,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1273063,
+      "num": 579569,
+      "word": "国家卫健委表示对伤医事件零容忍",
+      "onboard_time": 1721483961,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1271414,
@@ -6268,7 +6284,7 @@
     },
     {
       "raw_hot": 724615,
-      "num": 540329,
+      "num": 699571,
       "word": "十个勤天",
       "onboard_time": 1721477360,
       "rank": 7,
@@ -7939,6 +7955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 620577,
+      "num": 620577,
+      "word": "TFBOYS在这位大哥嘴里合体了",
+      "onboard_time": 1721482519,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620365,
       "num": 620365,
       "word": "谁家定档打电话通知啊",
@@ -8977,6 +9001,22 @@
       "onboard_time": 1721358803,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 575343,
+      "num": 575343,
+      "word": "乌尔善 为什么要等到夏天呢",
+      "onboard_time": 1721481498,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 574613,
+      "num": 574613,
+      "word": "小尖尖",
+      "onboard_time": 1721482159,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 573172,
@@ -11348,7 +11388,7 @@
     },
     {
       "raw_hot": 490308,
-      "num": 273514,
+      "num": 333228,
       "word": "跟自己亲弟弟永远和解不了",
       "onboard_time": 1721474958,
       "rank": 41,
@@ -12283,6 +12323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461253,
+      "num": 461253,
+      "word": "汪苏泷还原戚薇名场面",
+      "onboard_time": 1721484501,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460483,
       "num": 460483,
       "word": "哈药六厂已接待90万游客",
@@ -12449,6 +12497,14 @@
       "onboard_time": 1721094738,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 455113,
+      "num": 455113,
+      "word": "薛之谦嘉宾韩红",
+      "onboard_time": 1721481798,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 454987,
@@ -12619,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451470,
+      "num": 451470,
+      "word": "上海闪电",
+      "onboard_time": 1720008018,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451322,
       "num": 451322,
       "word": "赤水丰隆才是玱玹的王后吧",
@@ -12769,14 +12833,6 @@
       "onboard_time": 1720149077,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 448399,
-      "num": 415259,
-      "word": "薛之谦嘉宾韩红",
-      "onboard_time": 1721481798,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 448325,
@@ -13497,6 +13553,14 @@
       "onboard_time": 1720453698,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 432997,
+      "num": 432997,
+      "word": "新秀diss范丞丞",
+      "onboard_time": 1721480718,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 432925,
@@ -14787,6 +14851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400240,
+      "num": 400240,
+      "word": "八平的房子住着四个小子",
+      "onboard_time": 1721481439,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400001,
       "num": 300603,
       "word": "泰国警方称发现失踪中国女子遗体",
@@ -15481,6 +15553,14 @@
       "onboard_time": 1719834138,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 383156,
+      "num": 383156,
+      "word": "EDG夺冠",
+      "onboard_time": 1721483782,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 382754,
@@ -16755,6 +16835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351456,
+      "num": 351456,
+      "word": "警方通报幼儿园保安猥亵11名幼儿",
+      "onboard_time": 1721483660,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351349,
       "num": 223645,
       "word": "王俊凯说我们是一个team",
@@ -17288,14 +17376,6 @@
       "word": "易烊千玺连续第三届提名百花奖",
       "onboard_time": 1719892459,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 340461,
-      "num": 340461,
-      "word": "乌尔善 为什么要等到夏天呢",
-      "onboard_time": 1721481498,
-      "rank": 42,
       "category": "电影"
     },
     {
@@ -18587,6 +18667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312514,
+      "num": 312514,
+      "word": "刘耀文泼宋亚轩",
+      "onboard_time": 1721482640,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312259,
       "num": 376357,
       "word": "陈昊宇杂志",
@@ -18747,14 +18835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310026,
-      "num": 310026,
-      "word": "新秀diss范丞丞",
-      "onboard_time": 1721480718,
-      "rank": 22,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 309771,
       "num": 309771,
       "word": "刘昊然为新戏拔了头发眉毛",
@@ -18881,14 +18961,6 @@
       "onboard_time": 1721190501,
       "rank": 19,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 307350,
-      "num": 228761,
-      "word": "八平的房子住着四个小子",
-      "onboard_time": 1721481439,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 307174,
@@ -19939,6 +20011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287049,
+      "num": 287049,
+      "word": "鞠婧祎吃糖被审判",
+      "onboard_time": 1721482519,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286839,
       "num": 211912,
       "word": "五点半和六点下班真不一样",
@@ -20625,6 +20705,14 @@
       "onboard_time": 1721193080,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276032,
+      "num": 276032,
+      "word": "医生说24岁的我舌头放错位置了",
+      "onboard_time": 1721476639,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 275835,
@@ -23491,6 +23579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232412,
+      "num": 232412,
+      "word": "女子错把猫猫的尾巴认成化妆刷",
+      "onboard_time": 1721478918,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232382,
       "num": 191821,
       "word": "王星越戴了于正送的手串",
@@ -25443,14 +25539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213603,
-      "num": 213603,
-      "word": "女子错把猫猫的尾巴认成化妆刷",
-      "onboard_time": 1721478918,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213459,
       "num": 213459,
       "word": "谭松韵久别重逢赛道",
@@ -27035,6 +27123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204229,
+      "num": 204229,
+      "word": "汪苏泷巡演",
+      "onboard_time": 1721484802,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204221,
       "num": 204221,
       "word": "向佐不让别人骂纪凌尘自己骂",
@@ -27425,14 +27521,6 @@
       "onboard_time": 1720081578,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202305,
-      "num": 228010,
-      "word": "医生说24岁的我舌头放错位置了",
-      "onboard_time": 1721476639,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 202301,
@@ -28499,6 +28587,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 197260,
+      "num": 197260,
+      "word": "Fly泼水泼中丁程鑫的心",
+      "onboard_time": 1721483841,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197256,
       "num": 197256,
       "word": "你觉得小夭该原谅父母吗",
@@ -28513,6 +28609,14 @@
       "onboard_time": 1720525338,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "盗墓笔记",
+      "onboard_time": 1721484622,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 197213,
@@ -28585,6 +28689,14 @@
       "onboard_time": 1720488979,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196748,
+      "num": 194639,
+      "word": "奥运会乒乓球开赛还有一周",
+      "onboard_time": 1721483660,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196716,
@@ -28704,14 +28816,6 @@
       "word": "汪苏泷为演唱会01号怪物征名",
       "onboard_time": 1720010778,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 196392,
-      "num": 196392,
-      "word": "小尖尖",
-      "onboard_time": 1721482159,
-      "rank": 31,
       "category": "演出"
     },
     {
@@ -28995,6 +29099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "张韶涵香水百合",
+      "onboard_time": 1721484320,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195049,
       "num": 195049,
       "word": "长相思2阿念瞬间成长",
@@ -29153,6 +29265,14 @@
       "onboard_time": 1720962379,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194126,
+      "num": 194126,
+      "word": "JDG对战BLG",
+      "onboard_time": 1721482581,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 194125,
@@ -29681,6 +29801,14 @@
       "onboard_time": 1720510278,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191726,
+      "num": 191726,
+      "word": "韦世豪红牌",
+      "onboard_time": 1721483121,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 191655,
@@ -32553,14 +32681,6 @@
       "onboard_time": 1720259116,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177299,
-      "num": 177299,
-      "word": "鞠婧祎吃糖被审判",
-      "onboard_time": 1721482519,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 177276,
@@ -36235,14 +36355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158587,
-      "num": 158587,
-      "word": "上海闪电",
-      "onboard_time": 1720008018,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158548,
       "num": 158548,
       "word": "南波万应援棒",
@@ -36545,14 +36657,6 @@
       "onboard_time": 1721205557,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157033,
-      "num": 157033,
-      "word": "TFBOYS在这位大哥嘴里合体了",
-      "onboard_time": 1721482519,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 157009,
@@ -38803,6 +38907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146576,
+      "num": 146576,
+      "word": "BLG战胜JDG",
+      "onboard_time": 1721483660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146507,
       "num": 365130,
       "word": "Ning力挺xun",
@@ -39889,6 +40001,14 @@
       "onboard_time": 1721229618,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141774,
+      "num": 141774,
+      "word": "对面是中国乒乓球运动员许昕",
+      "onboard_time": 1721483239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 141771,
@@ -46995,6 +47115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110972,
+      "num": 580053,
+      "word": "中国队应援到巴黎了",
+      "onboard_time": 1721481019,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110944,
       "num": 110944,
       "word": "郑思维称张志杰事件应引起世界羽联重视",
@@ -47800,6 +47928,14 @@
       "word": "西蒙斯世界波",
       "onboard_time": 1720638912,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106844,
+      "num": 1703887,
+      "word": "30秒速览巴黎奥运中国代表团阵容",
+      "onboard_time": 1721483239,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -51443,6 +51579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71970,
+      "num": 596250,
+      "word": "成都东站男子心脏骤停她俩出手了",
+      "onboard_time": 1721484441,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71779,
       "num": 659101,
       "word": "快递业务量累计完成801.6亿件",
@@ -54265,14 +54409,6 @@
       "onboard_time": 1720372394,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45612,
-      "num": 234398,
-      "word": "中国队应援到巴黎了",
-      "onboard_time": 1721481019,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 45566,
@@ -59025,6 +59161,9 @@
     },
     {
       "word": "#习近平对陕西柞水桥梁发生垮塌作出重要指示#"
+    },
+    {
+      "word": "#切实保障人民群众生命财产安全#"
     }
   ]
 }

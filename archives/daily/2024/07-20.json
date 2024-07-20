@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721482538720,
+  "endTime": 1721485022515,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2489741,
+      "num": 2489741,
+      "word": "wei大xun",
+      "onboard_time": 1721480118,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2216907,
       "num": 2216907,
       "word": "超雄",
       "onboard_time": 1721463620,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1859406,
-      "num": 1859406,
-      "word": "wei大xun",
-      "onboard_time": 1721480118,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 1744357,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1521430,
+      "num": 1521430,
+      "word": "特朗普噘嘴求亲吻妻子的反应",
+      "onboard_time": 1721482760,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1391307,
       "num": 1919505,
       "word": "外媒曝特朗普承诺将结束俄乌冲突",
@@ -145,6 +153,14 @@
       "onboard_time": 1721473758,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1273063,
+      "num": 579569,
+      "word": "国家卫健委表示对伤医事件零容忍",
+      "onboard_time": 1721483961,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1255147,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 724615,
-      "num": 540329,
+      "num": 699571,
       "word": "十个勤天",
       "onboard_time": 1721477360,
       "rank": 7,
@@ -451,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 620577,
+      "num": 620577,
+      "word": "TFBOYS在这位大哥嘴里合体了",
+      "onboard_time": 1721482519,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605763,
       "num": 605763,
       "word": "密室大逃脱6官宣",
@@ -473,6 +497,22 @@
       "onboard_time": 1721397922,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 575343,
+      "num": 575343,
+      "word": "乌尔善 为什么要等到夏天呢",
+      "onboard_time": 1721481498,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 574613,
+      "num": 574613,
+      "word": "小尖尖",
+      "onboard_time": 1721482159,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 565363,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 490308,
-      "num": 273514,
+      "num": 333228,
       "word": "跟自己亲弟弟永远和解不了",
       "onboard_time": 1721474958,
       "rank": 41,
@@ -635,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 461253,
+      "num": 461253,
+      "word": "汪苏泷还原戚薇名场面",
+      "onboard_time": 1721484501,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459577,
       "num": 459577,
       "word": "浪姐6阵容",
@@ -651,12 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448399,
-      "num": 415259,
+      "raw_hot": 455113,
+      "num": 455113,
       "word": "薛之谦嘉宾韩红",
       "onboard_time": 1721481798,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 451470,
+      "num": 451470,
+      "word": "上海闪电",
+      "onboard_time": 1721483660,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448050,
@@ -697,6 +753,14 @@
       "onboard_time": 1721436260,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432997,
+      "num": 432997,
+      "word": "新秀diss范丞丞",
+      "onboard_time": 1721480718,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 427631,
@@ -779,6 +843,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 400240,
+      "num": 400240,
+      "word": "八平的房子住着四个小子",
+      "onboard_time": 1721481439,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398957,
       "num": 398957,
       "word": "白鹿直播",
@@ -825,6 +897,14 @@
       "onboard_time": 1721475859,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383156,
+      "num": 383156,
+      "word": "EDG夺冠",
+      "onboard_time": 1721483782,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 376263,
@@ -875,12 +955,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 340461,
-      "num": 340461,
-      "word": "乌尔善 为什么要等到夏天呢",
-      "onboard_time": 1721481498,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 351456,
+      "num": 351456,
+      "word": "警方通报幼儿园保安猥亵11名幼儿",
+      "onboard_time": 1721483660,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338507,
@@ -939,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310026,
-      "num": 310026,
-      "word": "新秀diss范丞丞",
-      "onboard_time": 1721480718,
-      "rank": 22,
-      "category": "综艺,艺人"
+      "raw_hot": 312514,
+      "num": 312514,
+      "word": "刘耀文泼宋亚轩",
+      "onboard_time": 1721482640,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 309973,
@@ -961,14 +1041,6 @@
       "onboard_time": 1721448259,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 307350,
-      "num": 228761,
-      "word": "八平的房子住着四个小子",
-      "onboard_time": 1721481439,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 304842,
@@ -1027,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287049,
+      "num": 287049,
+      "word": "鞠婧祎吃糖被审判",
+      "onboard_time": 1721482519,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285406,
       "num": 285406,
       "word": "亦舒",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1721475859,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276032,
+      "num": 276032,
+      "word": "医生说24岁的我舌头放错位置了",
+      "onboard_time": 1721476639,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 274526,
@@ -1235,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232412,
+      "num": 232412,
+      "word": "女子错把猫猫的尾巴认成化妆刷",
+      "onboard_time": 1721478918,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229861,
       "num": 229861,
       "word": "三亚暑期酒店暴跌",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1721445619,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213603,
-      "num": 213603,
-      "word": "女子错把猫猫的尾巴认成化妆刷",
-      "onboard_time": 1721478918,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213397,
@@ -1443,12 +1531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202305,
-      "num": 228010,
-      "word": "医生说24岁的我舌头放错位置了",
-      "onboard_time": 1721476639,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 204229,
+      "num": 204229,
+      "word": "汪苏泷巡演",
+      "onboard_time": 1721484802,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 202033,
@@ -1515,12 +1603,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196392,
-      "num": 196392,
-      "word": "小尖尖",
-      "onboard_time": 1721482159,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 197260,
+      "num": 197260,
+      "word": "Fly泼水泼中丁程鑫的心",
+      "onboard_time": 1721483841,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "盗墓笔记",
+      "onboard_time": 1721484622,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 196748,
+      "num": 194639,
+      "word": "奥运会乒乓球开赛还有一周",
+      "onboard_time": 1721483660,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196003,
@@ -1531,12 +1635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "张韶涵香水百合",
+      "onboard_time": 1721484320,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194128,
       "num": 414275,
       "word": "雷军演讲",
       "onboard_time": 1721396421,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194126,
+      "num": 194126,
+      "word": "JDG对战BLG",
+      "onboard_time": 1721482581,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 193827,
@@ -1603,12 +1723,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 191726,
+      "num": 191726,
+      "word": "韦世豪红牌",
+      "onboard_time": 1721483121,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191527,
       "num": 191527,
       "word": "陈楚生深圳欢乐谷音乐节",
       "onboard_time": 1721408297,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189694,
+      "num": 189694,
+      "word": "檀健次直播",
+      "onboard_time": 1721483121,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 188920,
@@ -1753,14 +1889,6 @@
       "onboard_time": 1721403620,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177299,
-      "num": 177299,
-      "word": "鞠婧祎吃糖被审判",
-      "onboard_time": 1721482519,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 175574,
@@ -2003,14 +2131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157033,
-      "num": 157033,
-      "word": "TFBOYS在这位大哥嘴里合体了",
-      "onboard_time": 1721482519,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156271,
       "num": 156271,
       "word": "马斯克称微软蓝屏是史上最大IT失败",
@@ -2139,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146576,
+      "num": 146576,
+      "word": "BLG战胜JDG",
+      "onboard_time": 1721483660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146259,
       "num": 146259,
       "word": "檀健次无字幕台词",
@@ -2169,6 +2297,14 @@
       "onboard_time": 1721467940,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141774,
+      "num": 141774,
+      "word": "对面是中国乒乓球运动员许昕",
+      "onboard_time": 1721483239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 141605,
@@ -2531,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110972,
+      "num": 580053,
+      "word": "中国队应援到巴黎了",
+      "onboard_time": 1721481019,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109545,
       "num": 235616,
       "word": "一人一句为女排加油",
@@ -2545,6 +2689,14 @@
       "onboard_time": 1721442800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106844,
+      "num": 1703887,
+      "word": "30秒速览巴黎奥运中国代表团阵容",
+      "onboard_time": 1721483239,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 106334,
@@ -2691,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71970,
+      "num": 596250,
+      "word": "成都东站男子心脏骤停她俩出手了",
+      "onboard_time": 1721484441,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68981,
       "num": 86301,
       "word": "北京冰雹",
@@ -2737,14 +2897,6 @@
       "onboard_time": 1721407156,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45612,
-      "num": 234398,
-      "word": "中国队应援到巴黎了",
-      "onboard_time": 1721481019,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 45086,
@@ -2948,6 +3100,9 @@
     },
     {
       "word": "#习近平对陕西柞水桥梁发生垮塌作出重要指示#"
+    },
+    {
+      "word": "#切实保障人民群众生命财产安全#"
     }
   ]
 }
