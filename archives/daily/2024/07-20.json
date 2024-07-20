@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721464531375,
+  "endTime": 1721467178309,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -35,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2181680,
-      "num": 2181680,
+      "raw_hot": 2634698,
+      "num": 2634698,
       "word": "胎儿检出嵌合体超雄引热议",
       "onboard_time": 1721460918,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2216907,
+      "num": 2216907,
+      "word": "超雄",
+      "onboard_time": 1721463620,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1744357,
@@ -115,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1246794,
+      "num": 1246794,
+      "word": "优衣库高管称中国消费者心态变了",
+      "onboard_time": 1721464159,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207090,
       "num": 714218,
       "word": "专家称家庭月收入4000元可全家脱贫",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 943957,
-      "num": 578477,
+      "num": 649620,
       "word": "演员李晟回怼网友",
       "onboard_time": 1721459238,
       "rank": 7,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 753190,
-      "num": 295999,
+      "num": 470222,
       "word": "24岁被自己的父亲抡了6个耳光",
       "onboard_time": 1721452760,
       "rank": 32,
@@ -337,14 +353,6 @@
       "onboard_time": 1721448319,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 603054,
-      "num": 603054,
-      "word": "超雄",
-      "onboard_time": 1721463620,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 599453,
@@ -547,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 423457,
+      "num": 423457,
+      "word": "时代少年团回应演唱会",
+      "onboard_time": 1721464339,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 422499,
       "num": 422499,
       "word": "林俊杰帽子",
@@ -608,14 +624,6 @@
       "word": "官方回应南京鼓楼医院新员工培训跳热舞",
       "onboard_time": 1721426712,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391911,
-      "num": 229886,
-      "word": "优衣库高管称中国消费者心态变了",
-      "onboard_time": 1721464159,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -883,6 +891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 237271,
+      "num": 237271,
+      "word": "因为2万块钱的彩礼而谈崩",
+      "onboard_time": 1721463379,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235955,
       "num": 530222,
       "word": "月薪五千在景区当野人是种什么体验",
@@ -935,6 +951,14 @@
       "num": 220737,
       "word": "王传君听到王鹤棣不能来哭了",
       "onboard_time": 1721454020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220344,
+      "num": 220344,
+      "word": "中餐厅观后感",
+      "onboard_time": 1721464339,
       "rank": 30,
       "category": "综艺"
     },
@@ -1043,12 +1067,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203038,
-      "num": 203038,
-      "word": "时代少年团回应演唱会",
-      "onboard_time": 1721464339,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 202033,
+      "num": 202033,
+      "word": "逆水寒手游",
+      "onboard_time": 1721464520,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 201627,
@@ -1083,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194916,
+      "num": 443870,
+      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+      "onboard_time": 1721465598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194128,
       "num": 414275,
       "word": "雷军演讲",
@@ -1112,14 +1144,6 @@
       "word": "TF官宣导师王霏霏",
       "onboard_time": 1721454500,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192900,
-      "num": 192900,
-      "word": "中餐厅观后感",
-      "onboard_time": 1721464339,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1251,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173311,
+      "num": 173311,
+      "word": "泡泡",
+      "onboard_time": 1721467040,
+      "rank": 28,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 171570,
       "num": 171570,
       "word": "邓为酒精过敏",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1721447419,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165084,
+      "num": 165084,
+      "word": "我妈给我寄了一箱玉米",
+      "onboard_time": 1721462418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 162609,
@@ -1475,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148813,
-      "num": 148813,
-      "word": "因为2万块钱的彩礼而谈崩",
-      "onboard_time": 1721463379,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147728,
       "num": 225526,
       "word": "韩国队奥运没带空调发冰坎肩",
@@ -1531,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140844,
+      "num": 140844,
+      "word": "女子双腿绑80块卡西欧手表进境",
+      "onboard_time": 1721466499,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138009,
       "num": 138009,
       "word": "斓曦从雍正年间就对大夫感兴趣",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1721461699,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131869,
+      "num": 368411,
+      "word": "垮塌桥梁下游百位村民自发搜救",
+      "onboard_time": 1721462479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131758,
@@ -1691,6 +1739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120989,
+      "num": 120989,
+      "word": "抓娃娃",
+      "onboard_time": 1721465359,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 119974,
+      "num": 119974,
+      "word": "这四类药不能长期服用",
+      "onboard_time": 1721465959,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119231,
       "num": 284020,
       "word": "心动的信号bgm是伍佰唱的",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1721395101,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 117193,
+      "num": 117193,
+      "word": "中国队的法国色彩主题照",
+      "onboard_time": 1721464579,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 116832,
@@ -1723,12 +1795,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112931,
+      "num": 112931,
+      "word": "电影默杀",
+      "onboard_time": 1721467158,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111174,
       "num": 111174,
       "word": "肖战纯素颜开机图",
       "onboard_time": 1721393723,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110206,
+      "num": 1330388,
+      "word": "德化白瓷已经美到nextlevel",
+      "onboard_time": 1721462117,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109545,
@@ -1753,14 +1841,6 @@
       "onboard_time": 1721393242,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106033,
-      "num": 368411,
-      "word": "垮塌桥梁下游百位村民自发搜救",
-      "onboard_time": 1721462479,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97270,
@@ -1833,14 +1913,6 @@
       "onboard_time": 1721407457,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83612,
-      "num": 1093464,
-      "word": "德化白瓷已经美到nextlevel",
-      "onboard_time": 1721462117,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80452,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1721394141,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39791,
+      "num": 381950,
+      "word": "巴黎奥运会系统受微软故障影响",
+      "onboard_time": 1721465779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39637,

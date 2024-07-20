@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721464531375,
+  "endTime": 1721467178309,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2634698,
+      "num": 2634698,
+      "word": "胎儿检出嵌合体超雄引热议",
+      "onboard_time": 1721460918,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2587082,
       "num": 2587082,
       "word": "阿根廷vs哥伦比亚",
@@ -299,20 +307,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2216907,
+      "num": 2216907,
+      "word": "超雄",
+      "onboard_time": 1721463620,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2191558,
       "num": 989756,
       "word": "爱奇艺称没义务永久提供高清晰投屏",
       "onboard_time": 1721221578,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2181680,
-      "num": 2181680,
-      "word": "胎儿检出嵌合体超雄引热议",
-      "onboard_time": 1721460918,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2168225,
@@ -931,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1246794,
+      "num": 1246794,
+      "word": "优衣库高管称中国消费者心态变了",
+      "onboard_time": 1721464159,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244177,
       "num": 1141206,
       "word": "5个大人4个小孩入住两个标间被拒",
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 943957,
-      "num": 578477,
+      "num": 649620,
       "word": "演员李晟回怼网友",
       "onboard_time": 1721459238,
       "rank": 7,
@@ -2076,7 +2092,7 @@
     },
     {
       "raw_hot": 753190,
-      "num": 295999,
+      "num": 470222,
       "word": "24岁被自己的父亲抡了6个耳光",
       "onboard_time": 1721452760,
       "rank": 32,
@@ -2881,14 +2897,6 @@
       "onboard_time": 1721016499,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 603054,
-      "num": 603054,
-      "word": "超雄",
-      "onboard_time": 1721463620,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 602611,
@@ -4779,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423457,
+      "num": 423457,
+      "word": "时代少年团回应演唱会",
+      "onboard_time": 1721464339,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 423134,
       "num": 583338,
       "word": "国乒出发奔赴巴黎",
@@ -5225,14 +5241,6 @@
       "onboard_time": 1720932686,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391911,
-      "num": 229886,
-      "word": "优衣库高管称中国消费者心态变了",
-      "onboard_time": 1721464159,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391701,
@@ -7947,6 +7955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237271,
+      "num": 237271,
+      "word": "因为2万块钱的彩礼而谈崩",
+      "onboard_time": 1721463379,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236830,
       "num": 259984,
       "word": "长沙这么热吗",
@@ -8471,6 +8487,14 @@
       "num": 220737,
       "word": "王传君听到王鹤棣不能来哭了",
       "onboard_time": 1721454020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220344,
+      "num": 220344,
+      "word": "中餐厅观后感",
+      "onboard_time": 1721464339,
       "rank": 30,
       "category": "综艺"
     },
@@ -9443,14 +9467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203038,
-      "num": 203038,
-      "word": "时代少年团回应演唱会",
-      "onboard_time": 1721464339,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203013,
       "num": 217142,
       "word": "国乒到巴黎了",
@@ -9521,6 +9537,14 @@
       "onboard_time": 1721306118,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202033,
+      "num": 202033,
+      "word": "逆水寒手游",
+      "onboard_time": 1721464520,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 201981,
@@ -10147,6 +10171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194916,
+      "num": 443870,
+      "word": "陕西柞水公路桥梁垮塌已致12人死亡",
+      "onboard_time": 1721465598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194425,
       "num": 194425,
       "word": "爱奇艺IP互动嘉年华直播",
@@ -10329,14 +10361,6 @@
       "onboard_time": 1721367323,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192900,
-      "num": 192900,
-      "word": "中餐厅观后感",
-      "onboard_time": 1721464339,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 192794,
@@ -11683,6 +11707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173311,
+      "num": 173311,
+      "word": "泡泡",
+      "onboard_time": 1721467040,
+      "rank": 28,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 173269,
       "num": 173269,
       "word": "手机壳价格",
@@ -12233,6 +12265,14 @@
       "onboard_time": 1721356526,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165084,
+      "num": 165084,
+      "word": "我妈给我寄了一箱玉米",
+      "onboard_time": 1721462418,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 164878,
@@ -13475,14 +13515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148813,
-      "num": 148813,
-      "word": "因为2万块钱的彩礼而谈崩",
-      "onboard_time": 1721463379,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148694,
       "num": 444217,
       "word": "暑期旅游市场消费升温",
@@ -14017,6 +14049,14 @@
       "onboard_time": 1721105359,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140844,
+      "num": 140844,
+      "word": "女子双腿绑80块卡西欧手表进境",
+      "onboard_time": 1721466499,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140634,
@@ -14697,6 +14737,14 @@
       "onboard_time": 1721298379,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131869,
+      "num": 368411,
+      "word": "垮塌桥梁下游百位村民自发搜救",
+      "onboard_time": 1721462479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131758,
@@ -15547,6 +15595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119974,
+      "num": 119974,
+      "word": "这四类药不能长期服用",
+      "onboard_time": 1721465959,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119910,
       "num": 119910,
       "word": "爆米花大爷们",
@@ -15747,6 +15803,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 117193,
+      "num": 117193,
+      "word": "中国队的法国色彩主题照",
+      "onboard_time": 1721464579,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117158,
       "num": 117158,
       "word": "女生低血糖晕倒毫无知觉警民联手相助",
@@ -15923,6 +15987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112931,
+      "num": 254131,
+      "word": "电影默杀",
+      "onboard_time": 1720876339,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112479,
       "num": 112479,
       "word": "我居然不是你亲生的吗",
@@ -16049,6 +16121,14 @@
       "onboard_time": 1721316859,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110206,
+      "num": 1330388,
+      "word": "德化白瓷已经美到nextlevel",
+      "onboard_time": 1721462117,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109968,
@@ -16344,14 +16424,6 @@
       "word": "郑州一地摊盒饭顾客排长龙",
       "onboard_time": 1721091319,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106033,
-      "num": 368411,
-      "word": "垮塌桥梁下游百位村民自发搜救",
-      "onboard_time": 1721462479,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17011,14 +17083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 83612,
-      "num": 1093464,
-      "word": "德化白瓷已经美到nextlevel",
-      "onboard_time": 1721462117,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82879,
       "num": 82879,
       "word": "网红面筋哥近况",
@@ -17664,14 +17728,6 @@
       "word": "韩寒谈电影抓娃娃",
       "onboard_time": 1721056279,
       "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 65699,
-      "num": 254131,
-      "word": "电影默杀",
-      "onboard_time": 1720876339,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -18737,6 +18793,14 @@
       "onboard_time": 1721047277,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39791,
+      "num": 381950,
+      "word": "巴黎奥运会系统受微软故障影响",
+      "onboard_time": 1721465779,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39637,
