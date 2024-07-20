@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721493519591,
+  "endTime": 1721495817064,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -48785,6 +48785,14 @@
       "onboard_time": 1720537820,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102887,
+      "num": 102887,
+      "word": "朱志鑫组二公小考第一",
+      "onboard_time": 1721494696,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 102801,
