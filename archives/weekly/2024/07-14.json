@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721475351857,
+  "endTime": 1721478876298,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -1083,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1167908,
+      "num": 1119071,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1167500,
       "num": 577731,
       "word": "四川一百货大楼起火已致6人遇难",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1721027779,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1119071,
-      "num": 1119071,
-      "word": "超雄综合征真是天生坏种吗",
-      "onboard_time": 1721469559,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1114004,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1721030298,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1025382,
+      "num": 472246,
+      "word": "验尸师一辈子最后验的是儿子",
+      "onboard_time": 1721474418,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1014253,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1721047397,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 879211,
+      "num": 879211,
+      "word": "外国人免签144小时把酸汤火锅吃火了",
+      "onboard_time": 1721477059,
+      "rank": 1,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 877148,
@@ -2313,6 +2329,14 @@
       "onboard_time": 1721005518,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 724615,
+      "num": 470040,
+      "word": "十个勤天",
+      "onboard_time": 1721477360,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 721420,
@@ -4107,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490308,
+      "num": 257394,
+      "word": "跟自己亲弟弟永远和解不了",
+      "onboard_time": 1721474958,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 489888,
       "num": 333789,
       "word": "开着空调闭门做饭一家五口中毒",
@@ -4211,6 +4243,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 476041,
+      "num": 476041,
+      "word": "BLG换人",
+      "onboard_time": 1721477480,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 474762,
       "num": 373767,
       "word": "张晚意演技",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1721280137,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 466546,
+      "num": 466546,
+      "word": "皇马为樊振东奥运之旅送祝福",
+      "onboard_time": 1721475859,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 463116,
@@ -4441,6 +4489,14 @@
       "onboard_time": 1721208438,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449934,
+      "num": 449934,
+      "word": "女子行李箱藏448只寄居蟹入境",
+      "onboard_time": 1721475980,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449532,
@@ -5179,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404538,
+      "num": 404538,
+      "word": "孟子义说考大学是改变人生的出路",
+      "onboard_time": 1721475679,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402129,
       "num": 415745,
       "word": "雷军漂移",
@@ -5409,6 +5473,14 @@
       "onboard_time": 1720969220,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386155,
+      "num": 386155,
+      "word": "小鬼让朱志鑫苏新皓对视",
+      "onboard_time": 1721475859,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 385612,
@@ -5713,14 +5785,6 @@
       "onboard_time": 1721195778,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359781,
-      "num": 359781,
-      "word": "验尸师一辈子最后验的是儿子",
-      "onboard_time": 1721474418,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 359529,
@@ -7179,6 +7243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 276068,
+      "num": 276068,
+      "word": "babymonster音乐节舞台",
+      "onboard_time": 1721475859,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276058,
       "num": 276058,
       "word": "古茗口令",
@@ -7217,6 +7289,14 @@
       "onboard_time": 1721294838,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274526,
+      "num": 242754,
+      "word": "张子墨登陆日二公退赛",
+      "onboard_time": 1721478500,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 274513,
@@ -7528,6 +7608,14 @@
       "word": "相亲和自谈最大的区别是什么",
       "onboard_time": 1721139620,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 257994,
+      "num": 257994,
+      "word": "月亮",
+      "onboard_time": 1721477659,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -8347,6 +8435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228982,
+      "num": 228982,
+      "word": "原来被爱真的会疯狂长出血肉",
+      "onboard_time": 1721475859,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228931,
       "num": 228931,
       "word": "爸妈为了面子花几十万在农村建房子",
@@ -9088,6 +9184,14 @@
       "word": "台风",
       "onboard_time": 1721457620,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211221,
+      "num": 211221,
+      "word": "陕西暴雨",
+      "onboard_time": 1721475318,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9881,6 +9985,14 @@
       "onboard_time": 1721035698,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200379,
+      "num": 200379,
+      "word": "你好星期六",
+      "onboard_time": 1720891515,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 200139,
@@ -11587,6 +11699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177944,
+      "num": 177944,
+      "word": "发朋友圈被驾校教练点评了",
+      "onboard_time": 1721474540,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177863,
       "num": 177863,
       "word": "许凯 谁教你这样看剧的",
@@ -11753,6 +11873,14 @@
       "onboard_time": 1721016019,
       "rank": 14,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 175350,
+      "num": 175350,
+      "word": "保时捷更换中国区CEO",
+      "onboard_time": 1721477299,
+      "rank": 34,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 175343,
@@ -12547,6 +12675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164681,
+      "num": 164681,
+      "word": "优衣库到底贵了多少",
+      "onboard_time": 1721477718,
+      "rank": 36,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 164653,
       "num": 164653,
       "word": "TF三代运动会版等你的回答",
@@ -12817,6 +12953,14 @@
       "onboard_time": 1721183898,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161480,
+      "num": 161480,
+      "word": "郭俊辰穿了3000年前的雪地靴",
+      "onboard_time": 1721476579,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161285,
@@ -13851,6 +13995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147563,
+      "num": 147563,
+      "word": "一个人的性格是报应",
+      "onboard_time": 1721475079,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147518,
       "num": 147518,
       "word": "邓为叶十七返场剧照",
@@ -14027,14 +14179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145693,
-      "num": 145693,
-      "word": "一个人的性格是报应",
-      "onboard_time": 1721475079,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145620,
       "num": 145620,
       "word": "特朗普与泽连斯基通话",
@@ -14049,14 +14193,6 @@
       "onboard_time": 1721035458,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145232,
-      "num": 145232,
-      "word": "发朋友圈被驾校教练点评了",
-      "onboard_time": 1721474540,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 145207,
@@ -14171,14 +14307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 143001,
-      "num": 143001,
-      "word": "跟自己亲弟弟永远和解不了",
-      "onboard_time": 1721474958,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142981,
       "num": 310686,
       "word": "内地精英卷哭香港职场",
@@ -14225,6 +14353,14 @@
       "onboard_time": 1720941441,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142418,
+      "num": 142418,
+      "word": "司空长风身体不好心态良好",
+      "onboard_time": 1721478558,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142247,
@@ -15147,6 +15283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130632,
+      "num": 130632,
+      "word": "抓娃娃票房破12亿",
+      "onboard_time": 1721476518,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130541,
       "num": 130541,
       "word": "动漫吻戏名场面 新兰第一",
@@ -15376,6 +15520,14 @@
       "word": "奇迹相柳",
       "onboard_time": 1721127619,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127281,
+      "num": 127281,
+      "word": "相柳角色解析",
+      "onboard_time": 1721478078,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -15811,6 +15963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122301,
+      "num": 122301,
+      "word": "美国一男子枪杀5人",
+      "onboard_time": 1721478138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122293,
       "num": 122293,
       "word": "梅西 加油阿根廷",
@@ -16153,6 +16313,14 @@
       "onboard_time": 1721293162,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117514,
+      "num": 117514,
+      "word": "医学专家解答超雄综合征",
+      "onboard_time": 1721478680,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117508,
@@ -17144,14 +17312,6 @@
       "word": "饿了么用户捐出10026个足球",
       "onboard_time": 1721041217,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96055,
-      "num": 96055,
-      "word": "陕西暴雨",
-      "onboard_time": 1721475318,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -18891,14 +19051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46412,
-      "num": 107616,
-      "word": "你好星期六",
-      "onboard_time": 1720891515,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46327,
       "num": 1141946,
       "word": "全国演出市场上半年票房收入超190亿元",
@@ -19072,6 +19224,14 @@
       "word": "消防员一次次潜入洪水开锁救人",
       "onboard_time": 1721228537,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43282,
+      "num": 452528,
+      "word": "西瓜滚落一地路人默默帮店主搬回",
+      "onboard_time": 1721478380,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
