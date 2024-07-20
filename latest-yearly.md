@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 09:21:43
+本榜单时间：2024/01/01 00:21:05 ~ 2024/07/20 09:42:23
 </p>
 </blockquote>
 <p>
@@ -249,6 +249,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
+李晟医生去世（热度：10188106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%23" target="weibo">
 还得是沈腾马丽（热度：10186218）
 </a>
@@ -263,12 +269,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23" target="weibo">
 宗庆后逝世（热度：10131398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
-李晟医生去世（热度：10092833）
 </a>
 </li>
 
