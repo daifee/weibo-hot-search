@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721506779378,
+  "endTime": 1721507721686,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -483,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35544,
+      "num": 35544,
+      "word": "中专逆袭留学博主回应被海外高校打假",
+      "onboard_time": 1721502372,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33815,
       "num": 33815,
       "word": "檀健次直播",
@@ -491,15 +499,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29982,
-      "num": 29982,
-      "word": "中专逆袭留学博主回应被海外高校打假",
-      "onboard_time": 1721502372,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26972,
+      "raw_hot": 27664,
       "num": 28525,
       "word": "巴黎奥运村主餐厅以前是工厂",
       "onboard_time": 1721501712,
@@ -547,12 +547,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15867,
-      "num": 20618,
+      "raw_hot": 17449,
+      "num": 21286,
       "word": "高速垮塌灾害亲历者讲述获救情形",
       "onboard_time": 1721505732,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15847,
+      "num": 21268,
+      "word": "刘国梁发国乒巴黎备战视频",
+      "onboard_time": 1721506813,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14581,
+      "num": 21254,
+      "word": "商家按单做热咖啡被顾客差评要冷的",
+      "onboard_time": 1721507531,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 14371,
+      "num": 21252,
+      "word": "番茄小说回应AI协议遭作者质疑",
+      "onboard_time": 1721507591,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 12769,
