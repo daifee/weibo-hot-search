@@ -1,0 +1,410 @@
+{
+  "runTime": 1721518544257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579129,
+        "num": 895178,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284994,
+        "num": 284994,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42679,
+        "num": 267915,
+        "word": "30秒速览巴黎奥运中国代表团阵容",
+        "onboard_time": 1721483239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451833,
+        "num": 250388,
+        "word": "特朗普17岁长孙女演讲出圈",
+        "onboard_time": 1721486121,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 412312,
+        "num": 226519,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367971,
+        "num": 224679,
+        "word": "硬卧39小时55分钟造一个舒适小窝",
+        "onboard_time": 1721498353,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406778,
+        "num": 187579,
+        "word": "郁可唯求观众删视频",
+        "onboard_time": 1721516654,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185252,
+        "num": 185252,
+        "word": "女子行李箱藏448只寄居蟹入境",
+        "onboard_time": 1721475980,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157050,
+        "num": 157050,
+        "word": "差点没认出这是吴京",
+        "onboard_time": 1721486301,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7444,
+        "num": 155820,
+        "word": "珍惜当下就是对未来的慷慨",
+        "onboard_time": 1721488161,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366977,
+        "num": 155093,
+        "word": "初步确认垮塌高速桥坠桥43人信息",
+        "onboard_time": 1721486603,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232705,
+        "num": 153789,
+        "word": "中专逆袭留学博主回应被海外高校打假",
+        "onboard_time": 1721502372,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184570,
+        "num": 152103,
+        "word": "金价猛涨后又大跳水",
+        "onboard_time": 1721517794,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150812,
+        "num": 150812,
+        "word": "买了个最老实的狗后面发现是装的",
+        "onboard_time": 1721513532,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132343,
+        "num": 132343,
+        "word": "宏胜集团已注册宗馥莉商标",
+        "onboard_time": 1721511431,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131145,
+        "num": 131145,
+        "word": "代露娃回应长相思角色争议",
+        "onboard_time": 1721487502,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "追星学到的第一课就是接受遗憾",
+        "onboard_time": 1721499913,
+        "rank": 16,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 106557,
+        "num": 106557,
+        "word": "詹姆斯绝杀南苏丹男篮",
+        "onboard_time": 1721518095,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104074,
+        "num": 104074,
+        "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
+        "onboard_time": 1721516593,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94624,
+        "num": 94624,
+        "word": "超雄综合征真是天生坏种吗",
+        "onboard_time": 1721469559,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101945,
+        "num": 93958,
+        "word": "山东的桃子已经离谱到这种程度了吗",
+        "onboard_time": 1721496975,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92800,
+        "num": 92800,
+        "word": "我的初代唱跳白月光杀回来了",
+        "onboard_time": 1721485401,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87658,
+        "num": 87658,
+        "word": "外国人免签144小时把酸汤火锅吃火了",
+        "onboard_time": 1721477059,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 85409,
+        "num": 85409,
+        "word": "张予曦获得你好歌手2024歌王",
+        "onboard_time": 1721486841,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85047,
+        "num": 85047,
+        "word": "汪苏泷还原戚薇名场面",
+        "onboard_time": 1721484501,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84964,
+        "num": 84964,
+        "word": "自驾阿姨说花16万离婚几乎倾家荡产",
+        "onboard_time": 1721510472,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78589,
+        "num": 78589,
+        "word": "新疆地震",
+        "onboard_time": 1721516593,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78260,
+        "num": 78260,
+        "word": "医生说24岁的我舌头放错位置了",
+        "onboard_time": 1721476639,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74374,
+        "num": 74374,
+        "word": "十个勤天",
+        "onboard_time": 1721477360,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70829,
+        "num": 70829,
+        "word": "5个提高代谢方法能降低体脂率",
+        "onboard_time": 1721516593,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 64127,
+        "num": 64127,
+        "word": "wei大xun",
+        "onboard_time": 1721480118,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56993,
+        "num": 56993,
+        "word": "香缇莫孙楠给张予曦颁奖",
+        "onboard_time": 1721486062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55191,
+        "num": 55191,
+        "word": "反对任何形式的暴力伤医",
+        "onboard_time": 1721468839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53795,
+        "num": 53795,
+        "word": "王嘉尔又当伴郎了",
+        "onboard_time": 1721489301,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53316,
+        "num": 53316,
+        "word": "樊振东 顺利入住",
+        "onboard_time": 1721518515,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49842,
+        "num": 49842,
+        "word": "重庆警方通报男子轨交上猥亵女子",
+        "onboard_time": 1721489361,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48114,
+        "num": 48114,
+        "word": "金智媛怼脸生图",
+        "onboard_time": 1721487742,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47357,
+        "num": 47357,
+        "word": "发烫的手机一下就降温了",
+        "onboard_time": 1721488881,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47167,
+        "num": 47167,
+        "word": "张子墨回应退出登陆日",
+        "onboard_time": 1721496135,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46571,
+        "num": 46571,
+        "word": "美国男篮vs南苏丹男篮",
+        "onboard_time": 1721518095,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46031,
+        "num": 46031,
+        "word": "跟自己亲弟弟永远和解不了",
+        "onboard_time": 1721474958,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43275,
+        "num": 46031,
+        "word": "康康 这是无数个日日夜夜换来的",
+        "onboard_time": 1721518515,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41453,
+        "num": 46030,
+        "word": "验尸师一辈子最后验的是儿子",
+        "onboard_time": 1721474418,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40282,
+        "num": 46029,
+        "word": "小尖尖",
+        "onboard_time": 1721482159,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38976,
+        "num": 46028,
+        "word": "四川汉源山洪现场已搜救到4人",
+        "onboard_time": 1721518215,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38336,
+        "num": 46026,
+        "word": "王家卫转发",
+        "onboard_time": 1721473758,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37962,
+        "num": 46025,
+        "word": "一个看似养生的行为可能在养癌",
+        "onboard_time": 1721510111,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37921,
+        "num": 46023,
+        "word": "西藏那曲发生3.2级地震",
+        "onboard_time": 1721518274,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37139,
+        "num": 46023,
+        "word": "檀健次直播",
+        "onboard_time": 1721483121,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36119,
+        "num": 46022,
+        "word": "商家按单做热咖啡被顾客差评要冷的",
+        "onboard_time": 1721507531,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

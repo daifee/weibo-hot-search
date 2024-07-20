@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721517543358,
+  "endTime": 1721518544257,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -67,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406778,
+      "num": 233985,
+      "word": "郁可唯求观众删视频",
+      "onboard_time": 1721516654,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 389855,
       "num": 281072,
       "word": "国家卫健委表示对伤医事件零容忍",
       "onboard_time": 1721483961,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367971,
+      "num": 236684,
+      "word": "硬卧39小时55分钟造一个舒适小窝",
+      "onboard_time": 1721498353,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 367320,
@@ -89,14 +105,6 @@
       "onboard_time": 1721464159,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315370,
-      "num": 236684,
-      "word": "硬卧39小时55分钟造一个舒适小窝",
-      "onboard_time": 1721498353,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 310924,
@@ -147,20 +155,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233985,
-      "num": 233985,
-      "word": "郁可唯求观众删视频",
-      "onboard_time": 1721516654,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 232760,
       "num": 232760,
       "word": "超雄综合征真是天生坏种吗",
       "onboard_time": 1721469559,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232705,
+      "num": 153789,
+      "word": "中专逆袭留学博主回应被海外高校打假",
+      "onboard_time": 1721502372,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216930,
@@ -171,20 +179,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214098,
-      "num": 121126,
-      "word": "中专逆袭留学博主回应被海外高校打假",
-      "onboard_time": 1721502372,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213063,
       "num": 214869,
       "word": "差点没认出这是吴京",
       "onboard_time": 1721486301,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185252,
+      "num": 212844,
+      "word": "女子行李箱藏448只寄居蟹入境",
+      "onboard_time": 1721475980,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184570,
+      "num": 152103,
+      "word": "金价猛涨后又大跳水",
+      "onboard_time": 1721517794,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 184186,
@@ -251,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150812,
+      "num": 150812,
+      "word": "买了个最老实的狗后面发现是装的",
+      "onboard_time": 1721513532,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146345,
       "num": 214351,
       "word": "重庆警方通报男子轨交上猥亵女子",
@@ -275,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137071,
-      "num": 212844,
-      "word": "女子行李箱藏448只寄居蟹入境",
-      "onboard_time": 1721475980,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135447,
       "num": 212527,
       "word": "我的初代唱跳白月光杀回来了",
       "onboard_time": 1721485401,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132343,
+      "num": 132343,
+      "word": "宏胜集团已注册宗馥莉商标",
+      "onboard_time": 1721511431,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131192,
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120076,
-      "num": 120076,
-      "word": "宏胜集团已注册宗馥莉商标",
-      "onboard_time": 1721511431,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113852,
       "num": 211659,
       "word": "演员李晟回怼网友",
@@ -379,12 +395,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106557,
+      "num": 106557,
+      "word": "詹姆斯绝杀南苏丹男篮",
+      "onboard_time": 1721518095,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104074,
+      "num": 104074,
+      "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
+      "onboard_time": 1721516593,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "朱志鑫组二公小考第一",
       "onboard_time": 1721494696,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101945,
+      "num": 93958,
+      "word": "山东的桃子已经离谱到这种程度了吗",
+      "onboard_time": 1721496975,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 101451,
@@ -427,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87978,
-      "num": 87978,
-      "word": "买了个最老实的狗后面发现是装的",
-      "onboard_time": 1721513532,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86050,
       "num": 121874,
       "word": "上海闪电",
@@ -443,16 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84976,
-      "num": 84976,
-      "word": "山东的桃子已经离谱到这种程度了吗",
-      "onboard_time": 1721496975,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 84716,
-      "num": 84716,
+      "raw_hot": 84964,
+      "num": 84964,
       "word": "自驾阿姨说花16万离婚几乎倾家荡产",
       "onboard_time": 1721510472,
       "rank": 45,
@@ -460,11 +484,27 @@
     },
     {
       "raw_hot": 82523,
-      "num": 122128,
+      "num": 155820,
       "word": "珍惜当下就是对未来的慷慨",
       "onboard_time": 1721488161,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78589,
+      "num": 78589,
+      "word": "新疆地震",
+      "onboard_time": 1721516593,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70829,
+      "num": 70829,
+      "word": "5个提高代谢方法能降低体脂率",
+      "onboard_time": 1721516593,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 70512,
@@ -507,28 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52065,
-      "num": 52065,
-      "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
-      "onboard_time": 1721516593,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49855,
-      "num": 49855,
-      "word": "新疆地震",
-      "onboard_time": 1721516593,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47956,
-      "num": 47956,
-      "word": "5个提高代谢方法能降低体脂率",
-      "onboard_time": 1721516593,
-      "rank": 32,
-      "category": "运动健身"
+      "raw_hot": 53316,
+      "num": 53316,
+      "word": "樊振东 顺利入住",
+      "onboard_time": 1721518515,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 47458,
@@ -547,6 +571,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 46571,
+      "num": 46571,
+      "word": "美国男篮vs南苏丹男篮",
+      "onboard_time": 1721518095,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46483,
       "num": 64176,
       "word": "Fly泼水一直在撤回",
@@ -563,6 +595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43275,
+      "num": 46031,
+      "word": "康康 这是无数个日日夜夜换来的",
+      "onboard_time": 1721518515,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42719,
       "num": 42719,
       "word": "这3种药长期服用或让免疫力下降",
@@ -571,24 +611,40 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 35527,
-      "num": 40807,
+      "raw_hot": 38976,
+      "num": 46028,
+      "word": "四川汉源山洪现场已搜救到4人",
+      "onboard_time": 1721518215,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37962,
+      "num": 46025,
       "word": "一个看似养生的行为可能在养癌",
       "onboard_time": 1721510111,
       "rank": 49,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 33815,
-      "num": 40805,
+      "raw_hot": 37921,
+      "num": 46023,
+      "word": "西藏那曲发生3.2级地震",
+      "onboard_time": 1721518274,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37139,
+      "num": 46023,
       "word": "檀健次直播",
       "onboard_time": 1721483121,
       "rank": 47,
       "category": "艺人"
     },
     {
-      "raw_hot": 33744,
-      "num": 40806,
+      "raw_hot": 36119,
+      "num": 46022,
       "word": "商家按单做热咖啡被顾客差评要冷的",
       "onboard_time": 1721507531,
       "rank": 48,
