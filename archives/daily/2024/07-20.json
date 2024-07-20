@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721439743181,
+  "endTime": 1721442879429,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1498354,
+      "num": 376024,
+      "word": "无性婚姻",
+      "onboard_time": 1721439379,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1255147,
-      "num": 251979,
+      "num": 275539,
       "word": "左耳痒了1年居然是因为一根管子",
       "onboard_time": 1721432115,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1207090,
+      "num": 714218,
+      "word": "专家称家庭月收入4000元可全家脱贫",
+      "onboard_time": 1721435779,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1027357,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 994546,
-      "num": 343203,
+      "num": 372452,
       "word": "商场内孩子走丢母亲崩溃砸金店玻璃",
       "onboard_time": 1721432476,
       "rank": 10,
@@ -65,6 +81,14 @@
       "onboard_time": 1721433257,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 812570,
+      "num": 374510,
+      "word": "张元英粉丝被告了",
+      "onboard_time": 1721442498,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 798574,
@@ -83,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714218,
-      "num": 714218,
-      "word": "专家称家庭月收入4000元可全家脱贫",
-      "onboard_time": 1721435779,
+      "raw_hot": 743445,
+      "num": 743445,
+      "word": "爱奇艺 十个勤天",
+      "onboard_time": 1721439858,
       "rank": 3,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 680454,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 659257,
-      "num": 333184,
+      "num": 373626,
       "word": "朴灿烈 陈卓璇同事男朋友前队友",
       "onboard_time": 1721433016,
       "rank": 11,
@@ -121,6 +145,14 @@
       "onboard_time": 1721405418,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641251,
+      "num": 488522,
+      "word": "歌手 审美倒退",
+      "onboard_time": 1721438479,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 599453,
@@ -139,11 +171,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551619,
+      "num": 282327,
+      "word": "婚戒发朋友圈被男友姐姐阴阳了",
+      "onboard_time": 1721439439,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 545145,
-      "num": 307375,
+      "num": 317215,
       "word": "男子欲拔死去藏羚羊羊角被制止",
       "onboard_time": 1721433736,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534884,
+      "num": 534884,
+      "word": "上海三甲医院医生泄露患者隐私已被调查",
+      "onboard_time": 1721439499,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -161,14 +209,6 @@
       "onboard_time": 1721434998,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 488522,
-      "num": 488522,
-      "word": "歌手 审美倒退",
-      "onboard_time": 1721438479,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 478582,
@@ -203,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 458753,
-      "num": 175498,
-      "word": "婚戒发朋友圈被男友姐姐阴阳了",
-      "onboard_time": 1721439439,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 457811,
+      "num": 457811,
+      "word": "福宝今天4岁了",
+      "onboard_time": 1721437039,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448050,
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378654,
+      "num": 378654,
+      "word": "残害医生必须严惩不贷",
+      "onboard_time": 1721438119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369387,
       "num": 369387,
       "word": "袁娅维第五次被歌手淘汰",
@@ -275,12 +323,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 362192,
-      "num": 362192,
-      "word": "福宝今天4岁了",
-      "onboard_time": 1721437039,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 358578,
+      "num": 192487,
+      "word": "亲妹妹非要我女儿叫她姐姐",
+      "onboard_time": 1721442080,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 356245,
@@ -292,7 +340,7 @@
     },
     {
       "raw_hot": 340167,
-      "num": 294900,
+      "num": 322463,
       "word": "温医一院悼念李晟医生",
       "onboard_time": 1721431815,
       "rank": 17,
@@ -315,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302127,
+      "num": 247437,
+      "word": "先安检后看病有必要吗",
+      "onboard_time": 1721440339,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297873,
       "num": 239399,
       "word": "被裁员了拿了12万补偿金",
@@ -323,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295387,
-      "num": 295387,
-      "word": "上海三甲医院医生泄露患者隐私已被调查",
-      "onboard_time": 1721439499,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 295946,
+      "num": 295946,
+      "word": "泫雅ins删除与金晓钟合照",
+      "onboard_time": 1721442498,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 294409,
@@ -355,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278734,
-      "num": 175482,
-      "word": "无性婚姻",
-      "onboard_time": 1721439379,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 280681,
+      "num": 280681,
+      "word": "感觉黄子韬小说看的比我多",
+      "onboard_time": 1721440639,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 239941,
@@ -427,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213397,
+      "num": 213397,
+      "word": "巴黎奥运会空调真相",
+      "onboard_time": 1721440999,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211443,
       "num": 193720,
       "word": "朴灿烈新发色",
@@ -441,6 +505,14 @@
       "onboard_time": 1721437880,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200491,
+      "num": 200491,
+      "word": "广东的蟑螂居然有荧光棒了",
+      "onboard_time": 1721438899,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196003,
@@ -555,12 +627,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174905,
+      "num": 174905,
+      "word": "薛之谦王源干湿分离了",
+      "onboard_time": 1721440339,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 171697,
+      "word": "易烊千玺成为奥林匹克之友",
+      "onboard_time": 1721440519,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 170360,
       "num": 367196,
       "word": "酒店一间房到底能住几人",
       "onboard_time": 1721386819,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169227,
+      "num": 169227,
+      "word": "邓为酒精过敏",
+      "onboard_time": 1721440999,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 166999,
@@ -579,6 +675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165230,
+      "num": 165230,
+      "word": "种地吧",
+      "onboard_time": 1721385320,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162609,
+      "num": 162609,
+      "word": "把这三个组到一起的人真是天才",
+      "onboard_time": 1721441120,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161988,
       "num": 161988,
       "word": "张钰琪比中指",
@@ -588,7 +700,7 @@
     },
     {
       "raw_hot": 159684,
-      "num": 159684,
+      "num": 377839,
       "word": "中国代表团42名奥运冠军全名单",
       "onboard_time": 1721438000,
       "rank": 34,
@@ -609,6 +721,14 @@
       "onboard_time": 1721403798,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158122,
+      "num": 158122,
+      "word": "微波加热3分钟等于吃掉几十亿微塑料",
+      "onboard_time": 1721442080,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157770,
@@ -667,30 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141727,
-      "num": 355066,
-      "word": "残害医生必须严惩不贷",
-      "onboard_time": 1721438119,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138943,
-      "num": 138943,
-      "word": "广东的蟑螂居然有荧光棒了",
-      "onboard_time": 1721438899,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136743,
-      "num": 136743,
-      "word": "种地吧",
-      "onboard_time": 1721385320,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135379,
       "num": 135379,
       "word": "最近觉得气血充足的原因",
@@ -723,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128581,
+      "num": 128581,
+      "word": "华晨宇南昌演唱会",
+      "onboard_time": 1721442318,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128010,
       "num": 193713,
       "word": "教体局回应查成绩需下载app充会员",
@@ -753,6 +857,22 @@
       "onboard_time": 1721433016,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "24岁小伙最后一次住进儿童病房",
+      "onboard_time": 1721441538,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122938,
+      "num": 122938,
+      "word": "王源是薛之谦演唱会嘉宾",
+      "onboard_time": 1721441658,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 118697,
@@ -857,6 +977,14 @@
       "onboard_time": 1721402959,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86441,
+      "num": 284020,
+      "word": "心动的信号bgm是伍佰唱的",
+      "onboard_time": 1721442318,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 83961,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1721412373,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8874,
+      "num": 746715,
+      "word": "三中全会公报思维导图",
+      "onboard_time": 1721442800,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
