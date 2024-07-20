@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 22:34:21
+本榜单时间：2024/07/01 00:23:58 ~ 2024/07/20 23:19:12
 </p>
 </blockquote>
 <p>
@@ -903,6 +903,12 @@ Lenka袭榜（热度：1680168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A4%E5%9E%AE%E5%A1%8C%E9%AB%98%E9%80%9F%E6%A1%A5%E5%9D%A0%E6%A1%A543%E4%BA%BA%E4%BF%A1%E6%81%AF%23" target="weibo">
+初步确认垮塌高速桥坠桥43人信息（热度：1623133）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E6%AC%A1%E6%BC%8F%E6%89%AB%E7%A0%81%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 女子4次漏扫码被刑拘（热度：1608703）
 </a>
@@ -1241,6 +1247,12 @@ Lenka袭榜（热度：1680168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%23" target="weibo">
 李晟（热度：1455429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E9%80%80%E7%A5%A8%23" target="weibo">
+汪苏泷 退票（热度：1455279）
 </a>
 </li>
 
@@ -2871,6 +2883,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%98%E5%8E%9F%E6%88%9A%E8%96%87%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+汪苏泷还原戚薇名场面（热度：966732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%AA%81%E5%9B%B4%E8%B5%9B%E9%98%B5%E5%AE%B9%23" target="weibo">
 歌手突围赛阵容（热度：965560）
 </a>
@@ -3249,6 +3267,12 @@ N1（热度：997983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BF%9D%E5%AE%89%E7%8C%A5%E4%BA%B511%E5%90%8D%E5%B9%BC%E5%84%BF%23" target="weibo">
+警方通报幼儿园保安猥亵11名幼儿（热度：898858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E6%9C%AA%E8%8E%B7%E6%98%BE%E8%91%97%E9%A2%86%E5%85%88%23" target="weibo">
 特朗普支持率未获显著领先（热度：898549）
 </a>
@@ -3257,12 +3281,6 @@ N1（热度：997983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E6%89%8D%E7%9F%A5%E7%88%B6%E4%BA%B2%E5%B7%B2%E5%9D%90%E7%89%A25%E5%B9%B4%23" target="weibo">
 男孩高考结束才知父亲已坐牢5年（热度：898404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%98%E5%8E%9F%E6%88%9A%E8%96%87%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
-汪苏泷还原戚薇名场面（热度：897693）
 </a>
 </li>
 
@@ -5817,6 +5835,12 @@ iPhone15Pro以上机型将支持全新Siri（热度：636777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE17%E5%B2%81%E9%95%BF%E5%AD%99%E5%A5%B3%E6%BC%94%E8%AE%B2%E5%87%BA%E5%9C%88%23" target="weibo">
+特朗普17岁长孙女演讲出圈（热度：632135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E7%99%BD%E5%8F%91%23" target="weibo">
 涂山璟白发（热度：631404）
 </a>
@@ -5987,30 +6011,6 @@ Angelababy颈部线条（热度：625152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E6%8D%90500%E4%B8%87%E5%85%83%E6%94%AF%E6%8F%B4%E5%8D%8E%E5%AE%B9%E5%8E%BF%23" target="weibo">
 霸王茶姬捐500万元支援华容县（热度：620851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：620580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%AE%9A%E6%A1%A3%E6%89%93%E7%94%B5%E8%AF%9D%E9%80%9A%E7%9F%A5%E5%95%8A%23" target="weibo">
-谁家定档打电话通知啊（热度：620365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E7%9A%84%E8%82%96%E6%88%98%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
-新华社发的肖战王一博（热度：620053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BA%E5%BE%81%E5%8A%A0%E6%B2%B9%23" target="weibo">
-肖战为中国队出征加油（热度：619618）
 </a>
 </li>
 
