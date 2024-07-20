@@ -1,6 +1,6 @@
 {
   "startTime": 1720887738570,
-  "endTime": 1721474197836,
+  "endTime": 1721475351857,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1314058,
+      "num": 1067382,
+      "word": "王家卫转发",
+      "onboard_time": 1721473758,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1310814,
       "num": 408069,
       "word": "特朗普妻子梅拉尼娅罕见露面",
@@ -1115,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119071,
+      "num": 1119071,
+      "word": "超雄综合征真是天生坏种吗",
+      "onboard_time": 1721469559,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1114004,
       "num": 1114004,
       "word": "拜登听取特朗普枪击事件简报",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1721301197,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1104773,
-      "num": 1104773,
-      "word": "超雄综合征真是天生坏种吗",
-      "onboard_time": 1721469559,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1101363,
@@ -1881,6 +1889,14 @@
       "onboard_time": 1721466499,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821793,
+      "num": 821793,
+      "word": "爱奇艺",
+      "onboard_time": 1721473458,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 820116,
@@ -3185,14 +3201,6 @@
       "onboard_time": 1721130678,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582584,
-      "num": 582584,
-      "word": "爱奇艺",
-      "onboard_time": 1721473458,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 578627,
@@ -4548,7 +4556,7 @@
     },
     {
       "raw_hot": 440211,
-      "num": 204607,
+      "num": 232568,
       "word": "胡一天把中餐厅录成偶像剧",
       "onboard_time": 1721472258,
       "rank": 20,
@@ -5555,14 +5563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373523,
-      "num": 373523,
-      "word": "王家卫转发",
-      "onboard_time": 1721473758,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 372350,
       "num": 372350,
       "word": "三伏天已连续10年都是40天",
@@ -5667,6 +5667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 363672,
+      "num": 363672,
+      "word": "DK 20比0",
+      "onboard_time": 1721474359,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363161,
       "num": 363161,
       "word": "大鹏话筒朝天 赵英俊声音响起",
@@ -5705,6 +5713,14 @@
       "onboard_time": 1721195778,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359781,
+      "num": 359781,
+      "word": "验尸师一辈子最后验的是儿子",
+      "onboard_time": 1721474418,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 359529,
@@ -7339,6 +7355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266494,
+      "num": 226893,
+      "word": "近视不戴眼镜度数会长得更快",
+      "onboard_time": 1721472919,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 264859,
       "num": 264859,
       "word": "美国史上有9位总统遇刺其中4人遇难",
@@ -8571,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221933,
+      "num": 221933,
+      "word": "边伯贤惊喜",
+      "onboard_time": 1721474298,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221745,
       "num": 221745,
       "word": "等我辞职了就去干这个",
@@ -8689,14 +8721,6 @@
       "onboard_time": 1721227940,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218664,
-      "num": 200735,
-      "word": "近视不戴眼镜度数会长得更快",
-      "onboard_time": 1721472919,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218539,
@@ -9419,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205271,
+      "num": 205271,
+      "word": "肖战工作室狗狗祟祟的",
+      "onboard_time": 1721474719,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205265,
       "num": 201517,
       "word": "by2跳泫雅的troublemaker",
@@ -9785,6 +9817,14 @@
       "onboard_time": 1721370620,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201247,
+      "num": 201247,
+      "word": "LGD零封WE",
+      "onboard_time": 1721474719,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 200747,
@@ -10393,6 +10433,14 @@
       "onboard_time": 1721011999,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193827,
+      "num": 193827,
+      "word": "TES战胜LGD",
+      "onboard_time": 1721475018,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 193732,
@@ -11211,6 +11259,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 183331,
+      "num": 183331,
+      "word": "LGDNBW锁定第三轮A组",
+      "onboard_time": 1721474119,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183313,
       "num": 183313,
       "word": "很烧钱但是戒不了的爱好",
@@ -11947,6 +12003,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 172373,
+      "num": 172373,
+      "word": "郭艾伦TheShy难兄难弟",
+      "onboard_time": 1721472139,
+      "rank": 31,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 172325,
       "num": 172325,
       "word": "陆川 老沈是哥们小史是亲弟",
@@ -12049,14 +12113,6 @@
       "onboard_time": 1721001017,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 170749,
-      "num": 170749,
-      "word": "郭艾伦TheShy难兄难弟",
-      "onboard_time": 1721472139,
-      "rank": 31,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 170438,
@@ -13971,6 +14027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "一个人的性格是报应",
+      "onboard_time": 1721475079,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145620,
       "num": 145620,
       "word": "特朗普与泽连斯基通话",
@@ -13985,6 +14049,14 @@
       "onboard_time": 1721035458,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145232,
+      "num": 145232,
+      "word": "发朋友圈被驾校教练点评了",
+      "onboard_time": 1721474540,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 145207,
@@ -14097,6 +14169,14 @@
       "onboard_time": 1720951580,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 143001,
+      "num": 143001,
+      "word": "跟自己亲弟弟永远和解不了",
+      "onboard_time": 1721474958,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 142981,
@@ -14617,14 +14697,6 @@
       "onboard_time": 1721038397,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135850,
-      "num": 135850,
-      "word": "LGDNBW锁定第三轮A组",
-      "onboard_time": 1721474119,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 135660,
@@ -17075,6 +17147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96055,
+      "num": 96055,
+      "word": "陕西暴雨",
+      "onboard_time": 1721475318,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95895,
       "num": 55118,
       "word": "杨迪说谁和娜扎恋爱都心软软",
@@ -17799,6 +17879,14 @@
       "num": 529929,
       "word": "编号0001的录取通知书送到了医院",
       "onboard_time": 1721381059,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72824,
+      "num": 394859,
+      "word": "14分钟陪视障大学生打个饭",
+      "onboard_time": 1721474659,
       "rank": 9,
       "category": "社会新闻"
     },
