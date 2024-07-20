@@ -1,6 +1,6 @@
 {
   "startTime": 1721406291189,
-  "endTime": 1721449498294,
+  "endTime": 1721450284524,
   "band_list": [
     {
       "raw_hot": 10188106,
@@ -27,8 +27,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2322094,
-      "num": 1831298,
+      "raw_hot": 2669608,
+      "num": 2669608,
       "word": "种地吧官博一晚掉粉10万",
       "onboard_time": 1721448139,
       "rank": 1,
@@ -51,8 +51,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1321241,
-      "num": 1321241,
+      "raw_hot": 1391307,
+      "num": 1919505,
+      "word": "外媒曝特朗普承诺将结束俄乌冲突",
+      "onboard_time": 1721444420,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1353152,
+      "num": 1353152,
       "word": "爱奇艺 十个勤天",
       "onboard_time": 1721439858,
       "rank": 3,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1255147,
-      "num": 275539,
+      "num": 287991,
       "word": "左耳痒了1年居然是因为一根管子",
       "onboard_time": 1721432115,
       "rank": 20,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1183641,
-      "num": 1919505,
-      "word": "外媒曝特朗普承诺将结束俄乌冲突",
-      "onboard_time": 1721444420,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1176107,
       "num": 1827194,
       "word": "陕西一公路桥梁垮塌已致11人遇难",
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1072455,
-      "num": 1072455,
+      "raw_hot": 1096967,
+      "num": 1096967,
       "word": "陕西一大桥垮塌仍有30余人失联",
       "onboard_time": 1721446641,
       "rank": 6,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 734408,
-      "num": 245809,
+      "num": 288917,
       "word": "亲妹妹非要我女儿叫她姐姐",
       "onboard_time": 1721442080,
       "rank": 30,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 551619,
-      "num": 282327,
+      "num": 284510,
       "word": "婚戒发朋友圈被男友姐姐阴阳了",
       "onboard_time": 1721439439,
       "rank": 30,
@@ -249,6 +249,14 @@
       "onboard_time": 1721433736,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536565,
+      "num": 361435,
+      "word": "徐艺洋黄子韬双方娘家大会面",
+      "onboard_time": 1721449639,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 526515,
@@ -267,8 +275,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486280,
+      "num": 486280,
+      "word": "密室大逃脱6官宣",
+      "onboard_time": 1721448319,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 484336,
+      "num": 433133,
+      "word": "温医一院悼念李晟医生",
+      "onboard_time": 1721431815,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478582,
-      "num": 250781,
+      "num": 264454,
       "word": "瘦了33斤手的变化",
       "onboard_time": 1721436918,
       "rank": 21,
@@ -281,14 +305,6 @@
       "onboard_time": 1721375481,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 467959,
-      "num": 433133,
-      "word": "温医一院悼念李晟医生",
-      "onboard_time": 1721431815,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464391,
@@ -395,12 +411,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 356544,
-      "num": 356544,
-      "word": "密室大逃脱6官宣",
-      "onboard_time": 1721448319,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 361784,
+      "num": 428813,
+      "word": "陕西公路桥梁垮塌有路人激动拦车",
+      "onboard_time": 1721448379,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356245,
@@ -451,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301606,
-      "num": 301606,
+      "raw_hot": 308219,
+      "num": 308219,
       "word": "英雄联盟手游",
       "onboard_time": 1721448259,
       "rank": 18,
@@ -499,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285406,
+      "num": 285406,
+      "word": "亦舒",
+      "onboard_time": 1721446819,
+      "rank": 19,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 280681,
       "num": 280681,
       "word": "感觉黄子韬小说看的比我多",
       "onboard_time": 1721440639,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275144,
+      "num": 275144,
+      "word": "唐朝诡事录 剧情为王",
+      "onboard_time": 1721449580,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 272467,
@@ -539,20 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248642,
-      "num": 245483,
+      "raw_hot": 253563,
+      "num": 253563,
       "word": "去新疆吃水果的人嘴是真严",
       "onboard_time": 1721447058,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 245842,
-      "num": 245842,
-      "word": "亦舒",
-      "onboard_time": 1721446819,
-      "rank": 19,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 239941,
@@ -665,6 +689,14 @@
       "onboard_time": 1721437880,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210032,
+      "num": 210032,
+      "word": "全球第七位艾滋病治愈者或出现",
+      "onboard_time": 1721449639,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208308,
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172293,
+      "num": 172293,
+      "word": "张韶涵真的不是AI吗",
+      "onboard_time": 1721450121,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171570,
       "num": 171570,
       "word": "邓为酒精过敏",
@@ -873,6 +913,14 @@
       "onboard_time": 1721395401,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165465,
+      "num": 165465,
+      "word": "应急管理部工作组赶赴陕西柞水",
+      "onboard_time": 1721447419,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162609,
@@ -1019,6 +1067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144342,
+      "num": 144342,
+      "word": "河南特岗",
+      "onboard_time": 1721449520,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141500,
       "num": 141500,
       "word": "为什么很多人都跟高中同学结婚",
@@ -1027,12 +1083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140179,
+      "num": 140179,
+      "word": "产妇擅入施工场地坠亡家属索赔110万",
+      "onboard_time": 1721450121,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135379,
       "num": 135379,
       "word": "最近觉得气血充足的原因",
       "onboard_time": 1721437159,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133251,
+      "num": 133251,
+      "word": "这是为二次元量身定制的大巴吗",
+      "onboard_time": 1721449881,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 131758,
@@ -1147,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115899,
-      "num": 160098,
-      "word": "应急管理部工作组赶赴陕西柞水",
-      "onboard_time": 1721447419,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115175,
       "num": 129294,
       "word": "蔡依林uglybeauty演唱会",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1721407457,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83039,
-      "num": 428813,
-      "word": "陕西公路桥梁垮塌有路人激动拦车",
-      "onboard_time": 1721448379,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80452,
