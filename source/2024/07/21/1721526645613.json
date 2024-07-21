@@ -1,0 +1,410 @@
+{
+  "runTime": 1721526645613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911029,
+        "num": 1145764,
+        "word": "汪苏泷 退票",
+        "onboard_time": 1721487622,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 580055,
+        "num": 580055,
+        "word": "金价猛涨后又大跳水",
+        "onboard_time": 1721517794,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80698,
+        "num": 576586,
+        "word": "30秒速览巴黎奥运中国代表团阵容",
+        "onboard_time": 1721483239,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715459,
+        "num": 563639,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618335,
+        "num": 558100,
+        "word": "贵州22岁女子退婚后遭男方入室杀害",
+        "onboard_time": 1721519714,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 439647,
+        "num": 552740,
+        "word": "男子轨交上猥亵女子被拘13日",
+        "onboard_time": 1721520316,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543818,
+        "num": 543818,
+        "word": "长相思成了不被理解的痴男怨女",
+        "onboard_time": 1721519115,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516186,
+        "num": 516186,
+        "word": "郁可唯求观众删视频",
+        "onboard_time": 1721516654,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334540,
+        "num": 515340,
+        "word": "硬卧39小时55分钟造一个舒适小窝",
+        "onboard_time": 1721498353,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157564,
+        "num": 490939,
+        "word": "健身房打扫卫生的大姨拿了健美冠军",
+        "onboard_time": 1721525718,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 2044252,
+        "num": 481348,
+        "word": "家属称希望不要妖魔化超雄综合征",
+        "onboard_time": 1721518755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145364,
+        "num": 471526,
+        "word": "杨倩回应无缘巴黎奥运",
+        "onboard_time": 1721524819,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723386,
+        "num": 449071,
+        "word": "韩瑞希ins爆料",
+        "onboard_time": 1721525898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604064,
+        "num": 443536,
+        "word": "美国公布核弹头数量",
+        "onboard_time": 1721521577,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 433838,
+        "num": 433838,
+        "word": "初步确认垮塌高速桥坠桥43人信息",
+        "onboard_time": 1721486603,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341227,
+        "num": 341227,
+        "word": "檀健次全黑",
+        "onboard_time": 1721520736,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338683,
+        "num": 338683,
+        "word": "宝格丽CEO感谢刘亦菲吴磊",
+        "onboard_time": 1721520436,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330626,
+        "num": 330626,
+        "word": "于正说鞠婧祎档期排到明年4月了",
+        "onboard_time": 1721526198,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293668,
+        "num": 293668,
+        "word": "四川山洪村民睡眠中被卷走",
+        "onboard_time": 1721524400,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260062,
+        "num": 260062,
+        "word": "贪官将3千元赝品字画150万卖给商人",
+        "onboard_time": 1721523919,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665641,
+        "num": 260005,
+        "word": "体重达到这个数大脑可能提前衰老12年",
+        "onboard_time": 1721521158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330318,
+        "num": 259972,
+        "word": "张峻豪说不敢面对观众",
+        "onboard_time": 1721521096,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259331,
+        "num": 259331,
+        "word": "你还去买优衣库吗",
+        "onboard_time": 1721525776,
+        "rank": 22,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 239736,
+        "num": 239736,
+        "word": "三伏天别做这7件事",
+        "onboard_time": 1721522418,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224282,
+        "num": 224282,
+        "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
+        "onboard_time": 1721516593,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198817,
+        "num": 198817,
+        "word": "微软850万台Windows设备蓝屏",
+        "onboard_time": 1721525239,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197547,
+        "num": 197547,
+        "word": "樊振东 顺利入住",
+        "onboard_time": 1721518515,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174805,
+        "num": 174805,
+        "word": "巴黎奥运金牌赛事日历",
+        "onboard_time": 1721525599,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172712,
+        "num": 172712,
+        "word": "雅安暴雨山洪已致8人遇难",
+        "onboard_time": 1721519175,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171365,
+        "num": 171365,
+        "word": "李昊北京场",
+        "onboard_time": 1721520916,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160789,
+        "num": 160789,
+        "word": "买了个最老实的狗后面发现是装的",
+        "onboard_time": 1721513532,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157039,
+        "num": 157039,
+        "word": "香港街头偶遇朴灿烈",
+        "onboard_time": 1721525898,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156591,
+        "num": 156591,
+        "word": "肿瘤标志物升高离癌症还有多远",
+        "onboard_time": 1721520616,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152863,
+        "num": 152863,
+        "word": "汪苏泷演唱会退票事件观众回应",
+        "onboard_time": 1721524998,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146259,
+        "num": 146259,
+        "word": "山东的桃子已经离谱到这种程度了吗",
+        "onboard_time": 1721496975,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142454,
+        "num": 142454,
+        "word": "TF三代唱heart",
+        "onboard_time": 1721525776,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138589,
+        "num": 138589,
+        "word": "詹姆斯绝杀南苏丹男篮",
+        "onboard_time": 1721518095,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137306,
+        "num": 137306,
+        "word": "虞书欣拍的黄晓明新中式",
+        "onboard_time": 1721519115,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136657,
+        "num": 136657,
+        "word": "差点没认出这是吴京",
+        "onboard_time": 1721486301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134912,
+        "num": 134912,
+        "word": "仵作之死时间线",
+        "onboard_time": 1721525057,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 125081,
+        "word": "王菲现身台北",
+        "onboard_time": 1721519415,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122073,
+        "num": 122073,
+        "word": "以军空袭也门荷台达",
+        "onboard_time": 1721519115,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 120993,
+        "num": 120993,
+        "word": "林依轮95年央视春晚证件照曝光",
+        "onboard_time": 1721523497,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120467,
+        "num": 120467,
+        "word": "蔡徐坤Allblack",
+        "onboard_time": 1721522118,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119805,
+        "num": 119805,
+        "word": "唐朝诡事录之西行",
+        "onboard_time": 1721519656,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116614,
+        "num": 116614,
+        "word": "贵州警方通报男子持刀杀害一女子",
+        "onboard_time": 1721523317,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 114466,
+        "word": "优衣库高管称中国消费者心态变了",
+        "onboard_time": 1721464159,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113164,
+        "num": 113164,
+        "word": "80岁爷爷坐在兵哥哥肩上看升旗",
+        "onboard_time": 1721518936,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111239,
+        "num": 111239,
+        "word": "初判17辆轿车8辆货车坠河",
+        "onboard_time": 1721520136,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51051,
+        "num": 110980,
+        "word": "鸿星尔克硬核国货局",
+        "onboard_time": 1721526618,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障人民群众生命财产安全#"
+    }
+  }
+}

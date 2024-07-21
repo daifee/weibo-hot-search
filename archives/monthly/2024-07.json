@@ -1,6 +1,6 @@
 {
   "startTime": 1719764638243,
-  "endTime": 1721525709776,
+  "endTime": 1721526645613,
   "band_list": [
     {
       "raw_hot": 14890471,
@@ -2721,6 +2721,14 @@
       "onboard_time": 1719923898,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1145364,
+      "num": 471526,
+      "word": "杨倩回应无缘巴黎奥运",
+      "onboard_time": 1721524819,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1139487,
@@ -6339,6 +6347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 723386,
+      "num": 449071,
+      "word": "韩瑞希ins爆料",
+      "onboard_time": 1721525898,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 722103,
       "num": 722103,
       "word": "斯塔默将成英国新首相",
@@ -6644,7 +6660,7 @@
     },
     {
       "raw_hot": 705597,
-      "num": 205381,
+      "num": 260005,
       "word": "体重达到这个数大脑可能提前衰老12年",
       "onboard_time": 1721521158,
       "rank": 20,
@@ -6708,7 +6724,7 @@
     },
     {
       "raw_hot": 701426,
-      "num": 417496,
+      "num": 443536,
       "word": "美国公布核弹头数量",
       "onboard_time": 1721521577,
       "rank": 10,
@@ -7276,7 +7292,7 @@
     },
     {
       "raw_hot": 661995,
-      "num": 527760,
+      "num": 558100,
       "word": "贵州22岁女子退婚后遭男方入室杀害",
       "onboard_time": 1721519714,
       "rank": 4,
@@ -8924,7 +8940,7 @@
     },
     {
       "raw_hot": 580931,
-      "num": 519490,
+      "num": 543818,
       "word": "长相思成了不被理解的痴男怨女",
       "onboard_time": 1721519115,
       "rank": 6,
@@ -8961,6 +8977,14 @@
       "onboard_time": 1720341618,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580055,
+      "num": 580055,
+      "word": "金价猛涨后又大跳水",
+      "onboard_time": 1721517794,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 579544,
@@ -10035,14 +10059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 539230,
-      "num": 539230,
-      "word": "金价猛涨后又大跳水",
-      "onboard_time": 1721517794,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 539176,
       "num": 539176,
       "word": "贾玲包场抓娃娃",
@@ -10388,7 +10404,7 @@
     },
     {
       "raw_hot": 525879,
-      "num": 525879,
+      "num": 552740,
       "word": "男子轨交上猥亵女子被拘13日",
       "onboard_time": 1721520316,
       "rank": 5,
@@ -10625,6 +10641,14 @@
       "onboard_time": 1720064538,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516186,
+      "num": 516186,
+      "word": "郁可唯求观众删视频",
+      "onboard_time": 1721516654,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 515801,
@@ -10929,14 +10953,6 @@
       "onboard_time": 1720609219,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506279,
-      "num": 153939,
-      "word": "杨倩回应无缘巴黎奥运",
-      "onboard_time": 1721524819,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 506164,
@@ -13433,14 +13449,6 @@
       "onboard_time": 1721393723,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438453,
-      "num": 438453,
-      "word": "郁可唯求观众删视频",
-      "onboard_time": 1721516654,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 438192,
@@ -16260,7 +16268,7 @@
     },
     {
       "raw_hot": 367971,
-      "num": 419415,
+      "num": 515340,
       "word": "硬卧39小时55分钟造一个舒适小窝",
       "onboard_time": 1721498353,
       "rank": 30,
@@ -17912,6 +17920,14 @@
       "word": "于正再为吴谨言发声",
       "onboard_time": 1719791778,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330626,
+      "num": 330626,
+      "word": "于正说鞠婧祎档期排到明年4月了",
+      "onboard_time": 1721526198,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -19705,6 +19721,14 @@
       "onboard_time": 1721208140,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293668,
+      "num": 293668,
+      "word": "四川山洪村民睡眠中被卷走",
+      "onboard_time": 1721524400,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293518,
@@ -21675,6 +21699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260062,
+      "num": 260062,
+      "word": "贪官将3千元赝品字画150万卖给商人",
+      "onboard_time": 1721523919,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259921,
       "num": 259921,
       "word": "Yamy段奥娟去看了杨超越话剧",
@@ -21705,6 +21737,14 @@
       "onboard_time": 1720606277,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259331,
+      "num": 259331,
+      "word": "你还去买优衣库吗",
+      "onboard_time": 1721525776,
+      "rank": 22,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 259295,
@@ -23193,6 +23233,14 @@
       "onboard_time": 1720842678,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239736,
+      "num": 239736,
+      "word": "三伏天别做这7件事",
+      "onboard_time": 1721522418,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239667,
@@ -26971,14 +27019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205866,
-      "num": 205866,
-      "word": "贪官将3千元赝品字画150万卖给商人",
-      "onboard_time": 1721523919,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205802,
       "num": 205802,
       "word": "94岁吴明珠来到吐鲁番",
@@ -27851,14 +27891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202109,
-      "num": 202109,
-      "word": "四川山洪村民睡眠中被卷走",
-      "onboard_time": 1721524400,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202100,
       "num": 171248,
       "word": "刘诗诗GLASS盛典穿高定",
@@ -28537,6 +28569,14 @@
       "onboard_time": 1720488317,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198817,
+      "num": 198817,
+      "word": "微软850万台Windows设备蓝屏",
+      "onboard_time": 1721525239,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 198803,
@@ -30473,14 +30513,6 @@
       "onboard_time": 1719976878,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 190251,
-      "num": 190251,
-      "word": "三伏天别做这7件事",
-      "onboard_time": 1721522418,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190229,
@@ -33507,6 +33539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174805,
+      "num": 174805,
+      "word": "巴黎奥运金牌赛事日历",
+      "onboard_time": 1721525599,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174780,
       "num": 174780,
       "word": "icon力挺JackeyLove",
@@ -34129,6 +34169,14 @@
       "onboard_time": 1720229836,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171365,
+      "num": 171365,
+      "word": "李昊北京场",
+      "onboard_time": 1721520916,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 171350,
@@ -35305,14 +35353,6 @@
       "onboard_time": 1720404079,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165244,
-      "num": 165244,
-      "word": "李昊北京场",
-      "onboard_time": 1721520916,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 165199,
@@ -36883,6 +36923,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 157564,
+      "num": 490939,
+      "word": "健身房打扫卫生的大姨拿了健美冠军",
+      "onboard_time": 1721525718,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157562,
       "num": 157562,
       "word": "王星越是吴谨言见过最会撒娇的",
@@ -37017,6 +37065,14 @@
       "onboard_time": 1721205557,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157039,
+      "num": 157039,
+      "word": "香港街头偶遇朴灿烈",
+      "onboard_time": 1721525898,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 157009,
@@ -37961,6 +38017,14 @@
       "onboard_time": 1719805999,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152863,
+      "num": 152863,
+      "word": "汪苏泷演唱会退票事件观众回应",
+      "onboard_time": 1721524998,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 152842,
@@ -40243,6 +40307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142454,
+      "num": 142454,
+      "word": "TF三代唱heart",
+      "onboard_time": 1721525776,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "发现谈恋爱其实就是找自己",
@@ -40345,14 +40417,6 @@
       "onboard_time": 1719831619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142098,
-      "num": 142098,
-      "word": "微软850万台Windows设备蓝屏",
-      "onboard_time": 1721525239,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 142089,
@@ -40809,14 +40873,6 @@
       "onboard_time": 1719800836,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140242,
-      "num": 140242,
-      "word": "巴黎奥运金牌赛事日历",
-      "onboard_time": 1721525599,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 140240,
@@ -41553,6 +41609,14 @@
       "onboard_time": 1720100539,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137306,
+      "num": 137306,
+      "word": "虞书欣拍的黄晓明新中式",
+      "onboard_time": 1721519115,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 137256,
@@ -43265,14 +43329,6 @@
       "onboard_time": 1720515618,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130132,
-      "num": 130132,
-      "word": "虞书欣拍的黄晓明新中式",
-      "onboard_time": 1721519115,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 130130,
@@ -45603,6 +45659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120467,
+      "num": 120467,
+      "word": "蔡徐坤Allblack",
+      "onboard_time": 1721522118,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120403,
       "num": 120403,
       "word": "严浩翔 在热血青春里长大",
@@ -46475,6 +46539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116614,
+      "num": 116614,
+      "word": "贵州警方通报男子持刀杀害一女子",
+      "onboard_time": 1721523317,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 116531,
       "num": 116531,
       "word": "头包脸披发教程",
@@ -46521,14 +46593,6 @@
       "onboard_time": 1720438279,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 116376,
-      "num": 116376,
-      "word": "蔡徐坤Allblack",
-      "onboard_time": 1721522118,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 116289,
@@ -47689,14 +47753,6 @@
       "onboard_time": 1720664598,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110676,
-      "num": 110676,
-      "word": "贵州警方通报男子持刀杀害一女子",
-      "onboard_time": 1721523317,
-      "rank": 45,
-      "category": "社会负面"
     },
     {
       "raw_hot": 110670,
@@ -49225,14 +49281,6 @@
       "onboard_time": 1721306657,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102316,
-      "num": 102316,
-      "word": "汪苏泷演唱会退票事件观众回应",
-      "onboard_time": 1721524998,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 102275,
@@ -54345,6 +54393,14 @@
       "onboard_time": 1720188382,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51051,
+      "num": 110980,
+      "word": "鸿星尔克硬核国货局",
+      "onboard_time": 1721526618,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 51038,
