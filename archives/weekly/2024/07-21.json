@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721547355342,
+  "endTime": 1721550174263,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1299952,
+      "num": 665389,
+      "word": "当事人回应胎儿被诊断超雄综合征",
+      "onboard_time": 1721544738,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244197,
       "num": 492743,
       "word": "韩瑞希ins爆料",
@@ -91,6 +99,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1149792,
+      "num": 258660,
+      "word": "杨倩陪母亲走完最后时光",
+      "onboard_time": 1721548099,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1123707,
       "num": 1123707,
       "word": "韩国第一夫人被传唤调查",
@@ -104,6 +120,14 @@
       "word": "杨迪恭喜张予曦总冠军",
       "onboard_time": 1721529499,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 957929,
+      "num": 1153268,
+      "word": "勤天柱",
+      "onboard_time": 1721548998,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -227,12 +251,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 665389,
-      "num": 665389,
-      "word": "当事人回应胎儿被诊断超雄综合征",
-      "onboard_time": 1721544738,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 664877,
+      "num": 401221,
+      "word": "爱豆和嫂子的日常belike",
+      "onboard_time": 1721545519,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 661995,
@@ -395,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418031,
+      "num": 393362,
+      "word": "英雄联盟手游取消赵露思置顶",
+      "onboard_time": 1721549239,
+      "rank": 7,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 410228,
+      "num": 262205,
+      "word": "张大大下周公布谁谈恋爱了",
+      "onboard_time": 1721546359,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408319,
       "num": 408319,
       "word": "檀健次全黑",
@@ -409,14 +449,6 @@
       "onboard_time": 1721520436,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 401221,
-      "num": 401221,
-      "word": "爱豆和嫂子的日常belike",
-      "onboard_time": 1721545519,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 400777,
@@ -539,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290899,
+      "num": 239011,
+      "word": "女子称花7元多买到加了色素的贡菜",
+      "onboard_time": 1721546297,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285796,
       "num": 214971,
       "word": "发烫的手机一下就降温了",
@@ -571,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262205,
-      "num": 262205,
-      "word": "张大大下周公布谁谈恋爱了",
-      "onboard_time": 1721546359,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 260670,
+      "num": 260670,
+      "word": "英雄联盟手游",
+      "onboard_time": 1721544319,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 256031,
@@ -601,6 +641,14 @@
       "onboard_time": 1721516593,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246406,
+      "num": 246406,
+      "word": "山东文科考生们太不容易了",
+      "onboard_time": 1721545278,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 245856,
@@ -675,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223163,
-      "num": 223163,
-      "word": "女子称花7元多买到加了色素的贡菜",
-      "onboard_time": 1721546297,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222545,
       "num": 222545,
       "word": "蔡少芬 宜修不坏是现实逼她的",
@@ -697,6 +737,14 @@
       "onboard_time": 1721536579,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217626,
+      "num": 217626,
+      "word": "张钧甯怕找不到男演员搭戏",
+      "onboard_time": 1721547078,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 216930,
@@ -899,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191705,
-      "num": 191705,
-      "word": "张钧甯怕找不到男演员搭戏",
-      "onboard_time": 1721547078,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191554,
       "num": 191554,
       "word": "丁真吃泡面加冷水",
@@ -971,20 +1011,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182303,
-      "num": 182303,
-      "word": "山东文科考生们太不容易了",
-      "onboard_time": 1721545278,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180250,
       "num": 357413,
       "word": "特朗普遭枪击后首次现身竞选集会",
       "onboard_time": 1721532199,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 180223,
+      "num": 180223,
+      "word": "王俊凯的蜡像运送方式",
+      "onboard_time": 1721548578,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 177658,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1721482159,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172803,
+      "num": 172803,
+      "word": "乃万 所有结束都是新的开始",
+      "onboard_time": 1721548338,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 171365,
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153531,
+      "num": 153531,
+      "word": "吃太多甜食可能会加重近视",
+      "onboard_time": 1721546778,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153305,
       "num": 153305,
       "word": "詹姆斯绝杀南苏丹男篮",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1721544920,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150624,
+      "num": 150624,
+      "word": "国际数学奥林匹克成绩中国队屈居第二",
+      "onboard_time": 1721549358,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 150023,
@@ -1305,6 +1369,22 @@
       "onboard_time": 1721519115,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136885,
+      "num": 136885,
+      "word": "小S和二女儿坐云霄飞车对比",
+      "onboard_time": 1721549778,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136358,
+      "num": 136358,
+      "word": "超雄综合征会遗传下一代吗",
+      "onboard_time": 1721548759,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135828,
@@ -1451,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119320,
+      "num": 119320,
+      "word": "刘耀文 我想演戏当演员",
+      "onboard_time": 1721550137,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118938,
       "num": 118938,
       "word": "檀健次 电影",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1721459238,
       "rank": 39,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 112346,
+      "num": 112346,
+      "word": "巴黎奥运会 空调",
+      "onboard_time": 1721550079,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112022,
@@ -1603,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93663,
+      "num": 255286,
+      "word": "武警消防在陕西新发现3处失联车辆",
+      "onboard_time": 1721548279,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93332,
       "num": 211180,
       "word": "华晨宇忒修斯的船",
@@ -1688,6 +1792,14 @@
       "word": "挖掘机转运受伤群众过河",
       "onboard_time": 1721530819,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72933,
+      "num": 181476,
+      "word": "井盖被冲男子雨中用身体当警示牌",
+      "onboard_time": 1721547918,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1848,6 +1960,14 @@
       "word": "小摔跤手阿其拉跳蒙版科目三",
       "onboard_time": 1721536338,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42643,
+      "num": 527247,
+      "word": "深中通道岸边成日出日落旅游打卡点",
+      "onboard_time": 1721549239,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
