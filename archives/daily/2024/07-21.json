@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721532947919,
+  "endTime": 1721535753330,
   "band_list": [
     {
       "raw_hot": 2330012,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1447507,
-      "num": 943546,
+      "num": 985171,
       "word": "种地吧回应加人",
       "onboard_time": 1721467338,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1407164,
+      "num": 1407164,
+      "word": "孕妇空袭遇难腹中婴儿被救出",
+      "onboard_time": 1721530518,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1340479,
@@ -52,19 +60,27 @@
     },
     {
       "raw_hot": 1244197,
-      "num": 449071,
+      "num": 492743,
       "word": "韩瑞希ins爆料",
       "onboard_time": 1721525898,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 952964,
-      "num": 952964,
-      "word": "孕妇空袭遇难腹中婴儿被救出",
-      "onboard_time": 1721530518,
-      "rank": 12,
-      "category": "国外时政"
+      "raw_hot": 979022,
+      "num": 979022,
+      "word": "多地宝马4S店拒不交车",
+      "onboard_time": 1721533579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967717,
+      "num": 583293,
+      "word": "杨迪恭喜张予曦总冠军",
+      "onboard_time": 1721529499,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 922901,
@@ -83,12 +99,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 736312,
-      "num": 223919,
-      "word": "杨迪恭喜张予曦总冠军",
-      "onboard_time": 1721529499,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 835347,
+      "num": 501939,
+      "word": "于正说小龙女先找的Angelababy",
+      "onboard_time": 1721534298,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 733476,
@@ -155,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 569613,
+      "num": 569613,
+      "word": "全红婵水花消失术用英语怎么说",
+      "onboard_time": 1721530579,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568600,
       "num": 279368,
       "word": "你还去买优衣库吗",
@@ -201,6 +225,14 @@
       "onboard_time": 1721489301,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452813,
+      "num": 452813,
+      "word": "郑水晶发文告别错位江娜",
+      "onboard_time": 1721531239,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 443919,
@@ -259,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373272,
+      "num": 373272,
+      "word": "泉州卫健委回应号召党员干部生三孩",
+      "onboard_time": 1721531058,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367971,
       "num": 515340,
       "word": "硬卧39小时55分钟造一个舒适小窝",
@@ -297,14 +337,6 @@
       "onboard_time": 1721519175,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313567,
-      "num": 313567,
-      "word": "全红婵水花消失术用英语怎么说",
-      "onboard_time": 1721530579,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 310924,
@@ -355,20 +387,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255109,
-      "num": 255109,
-      "word": "郑水晶发文告别错位江娜",
-      "onboard_time": 1721531239,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249134,
       "num": 249134,
       "word": "保洁大爷帮抓老鼠被咬商户只愿给800",
       "onboard_time": 1721516593,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240881,
+      "num": 240881,
+      "word": "蓝色监狱 顶级帅哥体育生",
+      "onboard_time": 1721534420,
+      "rank": 23,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 239736,
@@ -393,6 +425,14 @@
       "onboard_time": 1721502372,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230560,
+      "num": 230560,
+      "word": "密逃6解读恐惧与未知",
+      "onboard_time": 1721533699,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 223950,
@@ -425,14 +465,6 @@
       "onboard_time": 1721486301,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208561,
-      "num": 208561,
-      "word": "泉州卫健委回应号召党员干部生三孩",
-      "onboard_time": 1721531058,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205102,
@@ -499,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194574,
+      "num": 194574,
+      "word": "藏海的浑天仪",
+      "onboard_time": 1721534839,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191554,
       "num": 191554,
       "word": "丁真吃泡面加冷水",
@@ -513,6 +553,14 @@
       "onboard_time": 1721525898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188643,
+      "num": 519691,
+      "word": "桥梁垮塌幸存者称一车人只有自己获救",
+      "onboard_time": 1721535078,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188332,
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181698,
+      "num": 181698,
+      "word": "特朗普竞回应马斯克支持",
+      "onboard_time": 1721534719,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 176668,
       "num": 214675,
       "word": "薛之谦嘉宾韩红",
@@ -579,11 +635,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173276,
+      "num": 357413,
+      "word": "特朗普遭枪击后首次现身竞选集会",
+      "onboard_time": 1721532199,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 172821,
       "num": 213619,
       "word": "小尖尖",
       "onboard_time": 1721482159,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171750,
+      "num": 171750,
+      "word": "李昊说相信我",
+      "onboard_time": 1721535018,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -627,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161199,
+      "num": 191596,
+      "word": "韩国称朝鲜再次向韩放飞气球",
+      "onboard_time": 1721532498,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 161005,
       "num": 161005,
       "word": "山东的桃子已经离谱到这种程度了吗",
@@ -665,6 +745,14 @@
       "onboard_time": 1721519115,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 147088,
+      "num": 147088,
+      "word": "藏海传预约数破200万",
+      "onboard_time": 1721533939,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 146345,
@@ -1051,11 +1139,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77365,
+      "num": 482043,
+      "word": "看到奥运村纸板床的第一反应",
+      "onboard_time": 1721533638,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76784,
       "num": 399273,
       "word": "挖掘机转运受伤群众过河",
       "onboard_time": 1721530819,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73186,
+      "num": 472398,
+      "word": "台风今晚登陆三亚琼海一带",
+      "onboard_time": 1721534420,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42827,
+      "num": 453475,
+      "word": "跳水梦之队出征巴黎",
+      "onboard_time": 1721534898,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42719,
       "num": 42719,
       "word": "这3种药长期服用或让免疫力下降",
@@ -1193,14 +1305,6 @@
       "onboard_time": 1721518215,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38589,
-      "num": 191596,
-      "word": "韩国称朝鲜再次向韩放飞气球",
-      "onboard_time": 1721532498,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 38238,
@@ -1249,14 +1353,6 @@
       "onboard_time": 1721507531,
       "rank": 48,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 33818,
-      "num": 357413,
-      "word": "特朗普遭枪击后首次现身竞选集会",
-      "onboard_time": 1721532199,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 30801,
@@ -1339,8 +1435,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 7538,
-      "num": 895659,
+      "raw_hot": 11168,
+      "num": 1041816,
       "word": "幸福就在这里走进西藏",
       "onboard_time": 1721444479,
       "rank": 2,
