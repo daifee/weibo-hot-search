@@ -1,0 +1,410 @@
+{
+  "runTime": 1721586268779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1348425,
+        "num": 1348425,
+        "word": "拜登",
+        "onboard_time": 1721585593,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 991839,
+        "num": 991839,
+        "word": "拜登退选",
+        "onboard_time": 1721585473,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17502,
+        "num": 654700,
+        "word": "打卡课本里的大美中国",
+        "onboard_time": 1721568920,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480833,
+        "num": 480833,
+        "word": "男子称给霸王茶姬差评后被找上门",
+        "onboard_time": 1721581396,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274968,
+        "num": 274968,
+        "word": "为什么现在很少看到灾难片了",
+        "onboard_time": 1721576899,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124463,
+        "num": 124463,
+        "word": "虎门一公职人员贩毒被执行死刑",
+        "onboard_time": 1721571982,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114286,
+        "num": 114286,
+        "word": "TFBOYS发文支持王源",
+        "onboard_time": 1721569221,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101062,
+        "num": 101062,
+        "word": "做过近视眼手术的人嘴都这么严吗",
+        "onboard_time": 1721569461,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97232,
+        "num": 97232,
+        "word": "张元英踩到安宥真的裙子",
+        "onboard_time": 1721575460,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32077,
+        "num": 96487,
+        "word": "陕西桥梁垮塌事故已致15人遇难",
+        "onboard_time": 1721572222,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450957,
+        "num": 93295,
+        "word": "五一广场车祸",
+        "onboard_time": 1721572161,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 89215,
+        "word": "男女店内亲热被店家请离后给差评",
+        "onboard_time": 1721572042,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 87364,
+        "word": "黄子韬徐艺洋公开后秀恩爱",
+        "onboard_time": 1721568741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101175,
+        "num": 84971,
+        "word": "胎儿检出超雄孕妇完成终止妊娠手术",
+        "onboard_time": 1721562979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83835,
+        "num": 83835,
+        "word": "延迟退休",
+        "onboard_time": 1721561058,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81177,
+        "num": 81177,
+        "word": "盗墓团伙要价1.8亿的文物被追回",
+        "onboard_time": 1721570842,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74721,
+        "num": 74721,
+        "word": "宝马回应临时加价4S店才交车",
+        "onboard_time": 1721578879,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68664,
+        "num": 68664,
+        "word": "吃饭偶遇张婧仪做服务员",
+        "onboard_time": 1721573844,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66780,
+        "num": 66780,
+        "word": "长沙",
+        "onboard_time": 1721571861,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64751,
+        "num": 64751,
+        "word": "宋茜回应花少6官宣",
+        "onboard_time": 1721581216,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81676,
+        "num": 64660,
+        "word": "睡觉盖肚脐真的有必要吗",
+        "onboard_time": 1721582894,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76756,
+        "num": 64660,
+        "word": "被奶奶的手机壳震惊到了",
+        "onboard_time": 1721579420,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63819,
+        "num": 63819,
+        "word": "种地吧回应加人",
+        "onboard_time": 1721467338,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61005,
+        "num": 63816,
+        "word": "阳虚还是阴虚看出汗就能知道",
+        "onboard_time": 1721569461,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56878,
+        "num": 63813,
+        "word": "熬过4个易发胖时刻变瘦就容易了",
+        "onboard_time": 1721577199,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53898,
+        "num": 63810,
+        "word": "赵露思直播怼脸镜头",
+        "onboard_time": 1721571621,
+        "rank": 25,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 52176,
+        "num": 63809,
+        "word": "预制菜已经发展到这个地步了",
+        "onboard_time": 1721562560,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50405,
+        "num": 63806,
+        "word": "单依纯都搞唱跳了",
+        "onboard_time": 1721576001,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47428,
+        "num": 63801,
+        "word": "薛之谦压轴",
+        "onboard_time": 1721569281,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45804,
+        "num": 63801,
+        "word": "泰国队员想来中国队宿舍凉快",
+        "onboard_time": 1721565621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48632,
+        "num": 63798,
+        "word": "英雄联盟手游取消赵露思置顶",
+        "onboard_time": 1721549239,
+        "rank": 30,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 42143,
+        "num": 63794,
+        "word": "悉尼一父亲救滚入轨道的婴儿车不幸死亡",
+        "onboard_time": 1721563879,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42085,
+        "num": 63790,
+        "word": "相柳小夭见的最后一面",
+        "onboard_time": 1721576721,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41404,
+        "num": 63790,
+        "word": "王源回重庆不回家住的原因",
+        "onboard_time": 1721568321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40229,
+        "num": 63784,
+        "word": "男婴出生2天腿部青紫查出罕见病",
+        "onboard_time": 1721568321,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38123,
+        "num": 63784,
+        "word": "为啥鸡的身体零件比整只鸡贵",
+        "onboard_time": 1721575522,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37672,
+        "num": 63781,
+        "word": "赵露思ID耙耙柑儿",
+        "onboard_time": 1721572161,
+        "rank": 36,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 37091,
+        "num": 63778,
+        "word": "陕西塌桥一落水者因打开车窗获救",
+        "onboard_time": 1721569821,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37018,
+        "num": 63773,
+        "word": "时代峰峻否认张真源贺峻霖恋情",
+        "onboard_time": 1721569520,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36482,
+        "num": 63772,
+        "word": "南京大屠杀幸存者周智林老人去世",
+        "onboard_time": 1721574444,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32406,
+        "num": 63767,
+        "word": "蒲熠星JOJO私下关系",
+        "onboard_time": 1721570661,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32064,
+        "num": 63766,
+        "word": "高会",
+        "onboard_time": 1721572942,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31741,
+        "num": 63763,
+        "word": "杨幂画的手稿",
+        "onboard_time": 1721571921,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31428,
+        "num": 63760,
+        "word": "周深年度最具影响力全能歌手",
+        "onboard_time": 1721585772,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30948,
+        "num": 63754,
+        "word": "赵雅芝叶童重现打伞名场面",
+        "onboard_time": 1721580138,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30765,
+        "num": 63753,
+        "word": "宋丹丹张新成演恋人",
+        "onboard_time": 1721555356,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 63752,
+        "word": "唐诡2仵作之死最惨的是谁",
+        "onboard_time": 1721564300,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26588,
+        "num": 63746,
+        "word": "三中全会决定60条",
+        "onboard_time": 1721551518,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26225,
+        "num": 63745,
+        "word": "张杰未live开往1982巡回演唱会",
+        "onboard_time": 1721584992,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25297,
+        "num": 63743,
+        "word": "周深TMEA年度男歌手",
+        "onboard_time": 1721574323,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#三中全会决定15部分60条#"
+    }
+  }
+}
