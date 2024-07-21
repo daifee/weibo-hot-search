@@ -1,6 +1,6 @@
 {
   "startTime": 1721492645371,
-  "endTime": 1721594088709,
+  "endTime": 1721596665377,
   "band_list": [
     {
       "raw_hot": 3697740,
@@ -3587,6 +3587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25405,
+      "num": 26226,
+      "word": "中国奥数竞赛五连冠被美国队终结",
+      "onboard_time": 1721592671,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 23699,
+      "num": 26227,
+      "word": "你为什么不买优衣库了",
+      "onboard_time": 1721591531,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 23248,
       "num": 214495,
       "word": "有一种甜蜜叫哈密",
@@ -3643,12 +3659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20253,
-      "num": 26227,
-      "word": "你为什么不买优衣库了",
-      "onboard_time": 1721591531,
-      "rank": 42,
-      "category": "时尚"
+      "raw_hot": 20328,
+      "num": 20328,
+      "word": "出汗并不能帮身体排毒",
+      "onboard_time": 1721593572,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19174,
@@ -3657,14 +3673,6 @@
       "onboard_time": 1721568920,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18736,
-      "num": 26226,
-      "word": "中国奥数竞赛五连冠被美国队终结",
-      "onboard_time": 1721592671,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 18523,
